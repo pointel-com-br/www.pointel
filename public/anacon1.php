@@ -8,12 +8,12 @@ $name = $_POST['name'];
 $fone = $_POST['fone'];
 $mail = $_POST['mail'];
 $uuid = uniqid(rand(), true);
-$message = "Requisição:\n";
+$message = "Solicitação de Análise Contextual:\n";
 $message .= "Nome: $name\n";
 $message .= "Telefone: $fone\n";
 $message .= "E-mail: $mail\n";
 $message .= "UUID: $uuid\n";
-$send = mail("emuvi@pointel.com.br", "Análise Contextual", $message, $headers, "-f$sender");
+$send = mail("emuvi@outlook.com.br", "Solicitação de Análise Contextual", $message, $headers, "-f$sender");
 if ($send) {
     echo "Mensagem enviada com sucesso!";
     header('Location: anacon2.htm');
