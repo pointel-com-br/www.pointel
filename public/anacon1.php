@@ -13,7 +13,7 @@ $message .= "Nome: $name\n";
 $message .= "Telefone: $fone\n";
 $message .= "E-mail: $mail\n";
 $message .= "UUID: $uuid\n";
-$send = mail("emuvi@outlook.com.br", "Solicitação de Análise Contextual", $message, $headers, "-f$sender");
+$send = mail("emuvi@pointel.com.br", "Solicitação de Análise Contextual", $message, $headers, "-f$sender");
 if ($send) {
     echo "Mensagem enviada com sucesso!";
     header('Location: anacon2.htm');
