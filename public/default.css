@@ -59,6 +59,16 @@ a:hover {
   color: #540063;
 }
 
+a.brand {
+  text-decoration: none;
+  color: #180027;
+}
+
+a.brand:hover {
+  text-decoration: none;
+  color: #180027;
+}
+
 input {
   color: #180027;
   background: #efefef;
