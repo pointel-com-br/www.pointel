@@ -20,12 +20,12 @@ $data = [];
 if (($file = fopen("aptar.csv", "r")) !== false) {
     $id = 1;
     while (($row = fgetcsv($file)) !== false) {
-        $tags = $row[0];
+        $tag = $row[0];
         $question = unescape($row[1]);
         $answer = unescape($row[2]);
         $data[] = [
             'id' => $id,
-            'tags' => $tags,
+            'tag' => $tag,
             'question' => $question,
             'answer' => $answer,
         ];
@@ -33,4 +33,6 @@ if (($file = fopen("aptar.csv", "r")) !== false) {
     }
     fclose($file);
 }
+
+$action = $_GET['action'] ?? 'listar';
 include 'aptar.phtml';

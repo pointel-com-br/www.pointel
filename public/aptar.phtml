@@ -10,22 +10,8 @@
 
 <body>
   <h1>Pointel - Aptar</h1>
-  <table>
-    <thead>
-      <tr>
-        <th>Id</th>
-        <th>Tags</th>
-        <th>Question</th>
-        <th>Answer</th>
-      </tr>
-    </thead>
-    <tbody> <?php foreach ($data as $row): ?> <tr>
-        <td><?=$row['id']?></td>
-        <td><?=$row['tags']?></td>
-        <td><?=$row['question']?></td>
-        <td><?=$row['answer']?></td>
-      </tr> <?php endforeach?> </tbody>
-  </table>
+  <h2><a href="aptar.php?action=listar">Listar</a> - <a href="aptar.php?action=sorte">Sorte</a>
+  </h2> <?php include 'aptar-' . $action . '.phtml';?>
 </body>
 
 </html>

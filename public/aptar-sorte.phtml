@@ -1,0 +1,19 @@
+<?php $row = array_rand($data);?> <div id="divQuestion">
+  <h3>Questão <?=$data[$row]['id']?> - <?=$data[$row]['tag']?></h3>
+  <div>
+    <p><?=$data[$row]['question']?></p>
+  </div>
+  <div><button onclick="responder()">Responder</button></div>
+</div>
+<hr>
+<div id="divAnswer">
+  <h3>Resposta</h3>
+  <div>
+    <p><?=$data[$row]['answer']?></p>
+  </div>
+</div>
+<script>
+function responder() {
+  document.getElementById('divAnswer').style.display = 'block';
+}
+</script>

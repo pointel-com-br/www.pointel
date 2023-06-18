@@ -1,0 +1,16 @@
+<table>
+  <thead>
+    <tr>
+      <th>Id</th>
+      <th>Tag</th>
+      <th>Questão</th>
+      <th>Resposta</th>
+    </tr>
+  </thead>
+  <tbody> <?php foreach ($data as $row): ?> <tr>
+      <td><?=$row['id']?></td>
+      <td><?=$row['tag']?></td>
+      <td><?=$row['question']?></td>
+      <td><?=$row['answer']?></td>
+    </tr> <?php endforeach?> </tbody>
+</table>

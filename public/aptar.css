@@ -1,3 +1,23 @@
+a {
+  text-decoration: underline;
+  color: #00004f;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #00004f;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #00004f;
+}
+
+a:visited {
+  text-decoration: underline;
+  color: #00004f;
+}
+
 tbody td {
   padding: 7px;
 }
@@ -12,4 +32,19 @@ tbody tr:nth-child(odd) {
 
 tbody tr:nth-child(even) {
   background-color: #bffffb;
+}
+
+#divQuestion {
+  padding: 7px;
+  background-color: #ffe291;
+}
+
+#divQuestion button {
+  padding: 7px;
+}
+
+#divAnswer {
+  padding: 7px;
+  background-color: #bffffb;
+  display: none;
 }
