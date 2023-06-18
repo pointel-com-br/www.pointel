@@ -1,0 +1,15 @@
+tbody td {
+  padding: 7px;
+}
+
+thead tr {
+  background-color: #ffe291;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: #bfd6ff;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #bffffb;
+}
