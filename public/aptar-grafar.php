@@ -1,10 +1,10 @@
 <?php
-$id = $_GET['id'] ?? 0;
+$id = $_GET['id'] ?? -1;
 $tag = '';
 $question = '';
 $answer = '';
 
-if ($id != 0) {
+if ($id != -1) {
     load_data();
     $row = $data[$id];
     $tag = $row['tag'];
