@@ -60,4 +60,4 @@ function save_data()
     }
 }
 
-include 'aptar.phtml';
+require 'aptar.phtml';

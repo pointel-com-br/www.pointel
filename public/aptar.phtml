@@ -14,8 +14,8 @@
     <a href="aptar.php?action=listar">Listar</a> - <a href="aptar.php?action=grafar">Grafar</a> -
     <a href="aptar.php?action=sortear">Sortear</a>
   </h2> <?php
-include 'aptar-' . $action . '.php';
-include 'aptar-' . $action . '.phtml';
+require 'aptar-' . $action . '.php';
+require 'aptar-' . $action . '.phtml';
 ?>
 </body>
 
