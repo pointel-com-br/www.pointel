@@ -3,12 +3,14 @@ $id = $_POST['id'] ?? -1;
 $tag = trim($_POST['tag'] ?? '');
 $question = trim($_POST['question'] ?? '');
 $question = str_replace("\n", "<br>", $question);
+$question = str_replace("\r", "", $question);
 $answer = trim($_POST['answer'] ?? '');
 $answer = str_replace("\n", "<br>", $answer);
+$answer = str_replace("\r", "", $answer);
 
 $message = 'Processando...';
 if ($tag == '' || $question == '' || $answer == '') {
-    $message = 'Erro: Dados incompletos.';
+    $message = 'Erro: dados incompletos.';
 } else {
     load_data();
     if ($id != -1) {
