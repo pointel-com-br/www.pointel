@@ -111,3 +111,21 @@ DS,"O que é o Domain Notification?","É um objeto que encapsula uma notificaç�
 DS,"O que é o Domain Query?","É um objeto que encapsula uma consulta de domínio."
 DS,"Qual arquitetura de desenvolvimento se utiliza muito de Bounded Context?",Micro-serviços
 DS,"Qual a função da ACL (Anti Corruption Layer)?","É uma camada que encapsula a lógica de tradução entre dois contextos delimitados."
+GS,"Como funciona um ataque de CSRF (Cros Site Request Forgery)?","Enquanto há uma aba legitimamente logada, outra aba está no site do atacante que faz uma requisição forjada como se fosse a aba legítima."
+GS,"O que fazer para se proteger de um ataque de CSRF (Cross Site Request Forgery)?","A aplicação deve usar um token-csrf."
+DI,"O particionamento (sharding) horizontal divide a tabela em?",Linhas.
+DI,"O particionamento (sharding) vertical divide a tabela em?",Colunas.
+DI,"Qual é o principal recurso para tolerância à falhas?","Fazer réplicas dos dados."
+DI,"O que significa o conceito de ACID nos bancos de dados?","Atomicidade. Consistência. Isolamento. Durabilidade."
+DI,"O que significa o conceito de ACID nos bancos de dados?","Atomicidade. Consistência. Isolamento. Durabilidade."
+LP,"O que é um objeto direto preposicionado?","É um objeto que aparece antecipado de preposição mas o verbo não exige ela. O que significa que se pode tira-la sem perda do sentido, apenas da expressividade."
+LP,"O que o adjunto adverbial acrescenta ao verbo?","Alguma circunstância."
+LP,"Qual a diferença entre o predicativo do objeto e o adjunto adnominal?","O predicativo do objeto é necessário no sentido do verbo enquanto o adjunto adnominal não."
+LP,"O que sempre vem antes de um complemento nominal?","Uma preposição."
+RL,"Qual é o princípio da identidade na lógica?","Uma proposição verdadeira vai ser sempre verdadeira e uma proposição falsa vai ser sempre falsa."
+RL,"Qual é o princípio do terceiro excluído na lógica?","Todo proposição só pode ser V ou F, nunca qualquer outra possibilidade."
+RL,"Qual é o princípio da não-contradição na lógica?","Uma proposição não pode ser verdadeira e falsa ao mesmo tempo."
+ES,"Quais são as fases dos métodos formais de engenharia de software?","1) Especificação - 2) Validação - 3) Implementação"
+ES,"Qual a vantagem dos métodos formais de software?","Que o software é correto por design através de provas matemáticas."
+ER,"Quais são os dois modelos de engenharia de software evolucionários?","Prototipagem e Espiral."
+ES,"No modelo evolucionário de engenharia de software qual a utilidade de protótipos descartáveis?","Validar e entender requisitos de software muito complexos que podem ser beneficiar com um exemplo prático."
