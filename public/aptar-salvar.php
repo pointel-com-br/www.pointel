@@ -10,10 +10,9 @@ if ($tag == '' || $question == '' || $answer == '') {
 } else {
     load_data();
     if ($id != -1) {
-        $row = $data[$id];
-        $row['tag'] = $tag;
-        $row['question'] = $question;
-        $row['answer'] = $answer;
+        $data[$id]['tag'] = $tag;
+        $data[$id]['question'] = $question;
+        $data[$id]['answer'] = $answer;
     } else {
         $row = [
             'tag' => $tag,
