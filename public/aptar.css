@@ -60,6 +60,7 @@ input {
   border-radius: 7px;
   font-family: "Courier New", Courier, monospace;
   font-size: 18px;
+  background-color: #eeeeee;
 }
 
 select {
@@ -67,6 +68,7 @@ select {
   border-radius: 7px;
   font-family: "Courier New", Courier, monospace;
   font-size: 18px;
+  background-color: #eeeeee;
 }
 
 textarea {
@@ -76,6 +78,7 @@ textarea {
   font-size: 18px;
   width: 90%;
   height: 120px;
+  background-color: #eeeeee;
 }
 
 button {
@@ -83,4 +86,5 @@ button {
   border-radius: 7px;
   font-family: "Courier New", Courier, monospace;
   font-size: 18px;
+  background-color: #909090;
 }
