@@ -65,7 +65,7 @@ SI,"Como funciona o método de criptografia de bloco CBC?","Utiliza operações 
 DS,"Como se faz para declarar uma variável global em Python?","global myvar"
 DS,"O que precisa ter uma pasta para o Python reconhecer como um pacote?","Um arquivo __init__.py"
 SI,"O que caracteriza um serviço de IaaS?","O provedor fornece a infraestrutura de TI, como servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais, como um serviço sob demanda."
-SI,"Qual o serivço da Amazon que fornece IaaS","EC2 - Elastic Compute Cloud"
+ER,"Qual o serivço da Amazon que fornece IaaS?","EC2 - Elastic Compute Cloud."
 SI,"Qual o serviço do Google que fornece IaaS","GCE - Google Compute Engine"
 SI,"Qual o serviço da Microsoft que fornece IaaS","Azure Virtual Machines"
 SI,"O que caracteriza um serviço de PaaS?","É caracterizado por um ambiente de desenvolvimento e implantação completo na nuvem, com recursos que permitem fornecer tudo, desde aplicativos simples até complexos."
