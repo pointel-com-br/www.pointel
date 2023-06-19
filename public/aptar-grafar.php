@@ -9,5 +9,7 @@ if ($id != -1) {
     $row = $data[$id];
     $tag = $row['tag'];
     $question = $row['question'];
+    $question = str_replace("<br>", "\n", $question);
     $answer = $row['answer'];
+    $answer = str_replace("<br>", "\n", $answer);
 }

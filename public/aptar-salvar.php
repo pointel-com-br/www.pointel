@@ -2,7 +2,9 @@
 $id = $_POST['id'] ?? -1;
 $tag = trim($_POST['tag'] ?? '');
 $question = trim($_POST['question'] ?? '');
+$question = str_replace("\n", "<br>", $question);
 $answer = trim($_POST['answer'] ?? '');
+$answer = str_replace("\n", "<br>", $answer);
 
 $message = 'Processando...';
 if ($tag == '' || $question == '' || $answer == '') {
