@@ -1,5 +1,5 @@
 <?php
-$id = $_POST['id'] ?? 0;
+$id = $_POST['id'] ?? -1;
 $tag = trim($_POST['tag'] ?? '');
 $question = trim($_POST['question'] ?? '');
 $answer = trim($_POST['answer'] ?? '');
@@ -9,7 +9,7 @@ if ($tag == '' || $question == '' || $answer == '') {
     $message = 'Erro: Dados incompletos.';
 } else {
     load_data();
-    if ($id != 0) {
+    if ($id != -1) {
         $row = $data[$id];
         $row['tag'] = $tag;
         $row['question'] = $question;
