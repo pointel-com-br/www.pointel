@@ -49,7 +49,7 @@
 "DS","Como podemos verificar se uma chave está presente em um dicionário em Python?","Usando o commando in \n  \n d = {'key': 12} \n 'key' in d"
 "DS","Como criar uma lista de caracteres em Python com um laço intrínsico?","mylist = [letter for letter in 'string']"
 "DS","Como se faz um ternário em Python?","even = 'even' if True else 'odd'"
-"DS","Qual a diferença entre o redirect e o forward no JavaEE?","No encaminhamento as variáveis de requisição são repassadas enquanto no redirecionamento não. \n  \n  \c getServletContext().getRequestDispatcher(""target.jsp"").forward(req, resp); \n  \n resp.sendRedirect(req.getContextPath() +""target.jsp""); /c "
+"DS","Qual a diferença entre o redirect e o forward no JavaEE?","No encaminhamento as variáveis de requisição são repassadas enquanto no redirecionamento não. \n  \n getServletContext().getRequestDispatcher(""target.jsp"").forward(req, resp); \n  \n resp.sendRedirect(req.getContextPath() +""target.jsp"");"
 "DS","Qual é a ordem de leitura de escopos em Python?","LEGB \n  \n L - Local \n E - Enclosing \n G - Global \n B - Built-in"
 "DS","Como se define uma função em Python?","def myfunc():"
 "RL","Como se demonstra que uma proposição é inválida?","Com um exemplo em que as premissas são verdadeiras e a conclusão é falsa ou vice-versa."

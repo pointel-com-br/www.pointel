@@ -10,8 +10,13 @@
 
 <body>
   <h1>Pointel - Aptar</h1>
-  <h2><a href="aptar.php?action=listar">Listar</a> - <a href="aptar.php?action=sorte">Sorte</a>
-  </h2> <?php include 'aptar-' . $action . '.phtml';?>
+  <h2>
+    <a href="aptar.php?action=listar">Listar</a> - <a href="aptar.php?action=grafar">Grafar</a> -
+    <a href="aptar.php?action=sortear">Sortear</a>
+  </h2> <?php
+include 'aptar-' . $action . '.php';
+include 'aptar-' . $action . '.phtml';
+?>
 </body>
 
 </html>

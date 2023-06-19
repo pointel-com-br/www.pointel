@@ -3,12 +3,12 @@
     <tr>
       <th>Id</th>
       <th>Tag</th>
-      <th>Questão</th>
+      <th>Pergunta</th>
       <th>Resposta</th>
     </tr>
   </thead>
-  <tbody> <?php foreach ($data as $row): ?> <tr>
-      <td><?=$row['id']?></td>
+  <tbody> <?php foreach ($data as $id => $row): ?> <tr>
+      <td><a href="aptar.php?action=grafar&id=<?=$id?>"><?=$id?></a></td>
       <td><?=$row['tag']?></td>
       <td><?=$row['question']?></td>
       <td><?=$row['answer']?></td>

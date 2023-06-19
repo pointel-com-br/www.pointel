@@ -1,0 +1,43 @@
+<form action="aptar.php" method="post">
+  <input type="hidden" name="action" id="action" value="salvar" />
+  <input type="hidden" name="id" id="id" value="<?=$id?>" />
+  <div id="divQuestion">
+    <h3>Pergunta</h3>
+    <div>
+      <textarea name="question" id="question"><?=$question?></textarea>
+    </div>
+    <div>
+      <select name="tag" id="tag">
+        <option value=""></option>
+        <option value="DI" <?=$tag == 'DI' ? 'selected' : ''?>>DI - Desenvolvimento de Informação
+        </option>
+        <option value="DS" <?=$tag == 'DS' ? 'selected' : ''?>>DS - Desenvolvimento de Software
+        </option>
+        <option value="ER" <?=$tag == 'ER' ? 'selected' : ''?>>ER - Engenharia de Redes e Serviços
+        </option>
+        <option value="ES" <?=$tag == 'ES' ? 'selected' : ''?>>ES - Engenharia de Software e
+          Sistemas </option>
+        <option value="GS" <?=$tag == 'GS' ? 'selected' : ''?>>GS - Garantidores de Segurança
+        </option>
+        <option value="GT" <?=$tag == 'GT' ? 'selected' : ''?>>GT - Governança da Tecnologia
+        </option>
+        <option value="LE" <?=$tag == 'LE' ? 'selected' : ''?>>LE - Legislação Específica</option>
+        <option value="LG" <?=$tag == 'LG' ? 'selected' : ''?>>LG - Legislação Geral </option>
+        <option value="LI" <?=$tag == 'LI' ? 'selected' : ''?>>LI - Língua Inglesa </option>
+        <option value="LP" <?=$tag == 'LP' ? 'selected' : ''?>>LP - Língua Portuguesa </option>
+        <option value="MB" <?=$tag == 'MB' ? 'selected' : ''?>>MB - Matemática de Base </option>
+        <option value="PE" <?=$tag == 'PE' ? 'selected' : ''?>>PE - Probabilidade e Estatística
+        </option>
+        <option value="RL" <?=$tag == 'RL' ? 'selected' : ''?>>RL - Raciocínio Lógico </option>
+      </select>
+    </div>
+  </div>
+  <hr>
+  <div id="divAnswer">
+    <h3>Resposta</h3>
+    <div>
+      <textarea name="answer" id="answer"><?=$answer?></textarea>
+    </div>
+    <div><input type="submit" value="Salvar" /></div>
+  </div>
+</form>

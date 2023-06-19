@@ -1,3 +1,10 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  color: #181818;
+  background-color: #eaeaea;
+}
+
 a {
   text-decoration: underline;
   color: #00004f;
@@ -35,7 +42,7 @@ tbody tr:nth-child(even) {
 }
 
 #divQuestion {
-  padding: 7px;
+  padding: 7px 18px;
   background-color: #ffe291;
 }
 
@@ -44,7 +51,36 @@ tbody tr:nth-child(even) {
 }
 
 #divAnswer {
-  padding: 7px;
+  padding: 7px 18px;
   background-color: #bffffb;
-  display: none;
+}
+
+input {
+  padding: 7px;
+  border-radius: 7px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+}
+
+select {
+  padding: 7px;
+  border-radius: 7px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+}
+
+textarea {
+  padding: 7px;
+  border-radius: 7px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
+  width: 90%;
+  height: 120px;
+}
+
+button {
+  padding: 7px;
+  border-radius: 7px;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
 }
