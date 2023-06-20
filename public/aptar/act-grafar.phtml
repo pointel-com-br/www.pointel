@@ -4,10 +4,10 @@
   <div id="divQuestion">
     <h3>Pergunta <?=$id + 1?></h3>
     <div>
-      <textarea name="question" id="question" autofocus><?=$question?></textarea>
+      <textarea name="question" id="question" autofocus required><?=$question?></textarea>
     </div>
     <div>
-      <select name="tag" id="tag">
+      <select name="tag" id="tag" required>
         <option value=""></option>
         <option value="DI" <?=$tag == 'DI' ? 'selected' : ''?>>DI - Desenvolvimento de Informação
         </option>
@@ -36,7 +36,7 @@
   <div id="divAnswer">
     <h3>Resposta</h3>
     <div>
-      <textarea name="answer" id="answer"><?=$answer?></textarea>
+      <textarea name="answer" id="answer" required><?=$answer?></textarea>
     </div>
     <div><input type="submit" value="Salvar" /></div>
   </div>
