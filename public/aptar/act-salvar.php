@@ -9,6 +9,7 @@ $answer = str_replace("\n", "<br>", $answer);
 $answer = str_replace("\r", "", $answer);
 
 $message = 'Processando...';
+$retorno = '';
 if ($tag == '' || $question == '' || $answer == '') {
     $message = 'Erro: dados incompletos.';
 } else {
@@ -17,6 +18,7 @@ if ($tag == '' || $question == '' || $answer == '') {
         $data[$id]['tag'] = $tag;
         $data[$id]['question'] = $question;
         $data[$id]['answer'] = $answer;
+        $retorno = '&id=' . $id;
     } else {
         $row = [
             'tag' => $tag,
