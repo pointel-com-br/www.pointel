@@ -60,4 +60,4 @@ function save_data()
     }
 }
 
-require 'aptar.phtml';
+require 'index.phtml';

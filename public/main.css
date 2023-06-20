@@ -1,0 +1,74 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+@font-face {
+  font-family: "Roboto";
+  src: url("/assets/roboto.ttf");
+}
+
+@font-face {
+  font-family: "Odibee";
+  src: url("/assets/odibee.ttf");
+}
+
+body {
+  background: url("/assets/background.jpg");
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #180027;
+  padding: 27px;
+}
+
+h1 {
+  display: inline-block;
+  font-size: 45px;
+}
+
+h2 {
+  display: inline-block;
+  font-size: 45px;
+}
+
+h3 {
+  font-size: 27px;
+}
+
+h4,
+h5 {
+  font-size: 18px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Odibee", sans-serif;
+  margin: 9px;
+}
+
+p {
+  margin: 9px;
+}
+
+a {
+  text-decoration: underline;
+  color: #27004f;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #27004f;
+}
+
+a:active {
+  text-decoration: underline;
+  color: #27004f;
+}
+
+a:visited {
+  text-decoration: underline;
+  color: #27004f;
+}

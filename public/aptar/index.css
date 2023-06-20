@@ -1,28 +1,28 @@
 body {
-  font-family: "Courier New", Courier, monospace;
-  font-size: 18px;
   color: #181818;
   background-color: #eaeaea;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 18px;
 }
 
 a {
   text-decoration: underline;
-  color: #00004f;
+  color: #21004f;
 }
 
 a:hover {
   text-decoration: underline;
-  color: #00004f;
+  color: #21004f;
 }
 
 a:active {
   text-decoration: underline;
-  color: #00004f;
+  color: #21004f;
 }
 
 a:visited {
   text-decoration: underline;
-  color: #00004f;
+  color: #21004f;
 }
 
 tbody td {
