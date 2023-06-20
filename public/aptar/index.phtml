@@ -23,8 +23,12 @@ require 'act-' . $action . '.php';
 require 'act-' . $action . '.phtml';
 ?> <script>
   document.body.addEventListener("keyup", function(e) {
-    if (e.altKey && e.key == "s") {
+    if (e.altKey && e.key == "a") {
+      document.location = "index.php?action=listar";
+    } else if (e.altKey && e.key == "s") {
       document.location = "index.php?action=sortear";
+    } else if (e.altKey && e.key == "c") {
+      document.location = "index.php?action=grafar";
     }
   });
   </script>
