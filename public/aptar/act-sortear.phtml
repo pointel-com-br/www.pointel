@@ -22,4 +22,9 @@ function responder() {
 function grafar() {
   document.location = 'index.php?action=grafar&id=<?=$id?>';
 }
+document.body.addEventListener("keyup", function(e) {
+  if (e.altKey && e.key == "r") {
+    responder();
+  }
+});
  </script>

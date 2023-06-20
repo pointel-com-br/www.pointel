@@ -21,7 +21,13 @@
     <a href="index.php?action=sortear">Sortear</a></h3> <?php
 require 'act-' . $action . '.php';
 require 'act-' . $action . '.phtml';
-?> <script src="index.js"></script>
+?> <script>
+  document.body.addEventListener("keyup", function(e) {
+    if (e.altKey && e.key == "s") {
+      document.location = "index.php?action=sortear";
+    }
+  });
+  </script>
 </body>
 
 </html>
