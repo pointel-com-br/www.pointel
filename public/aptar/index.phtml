@@ -4,15 +4,21 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/main.css">
   <link rel="stylesheet" href="index.css">
   <title>Pointel - Aptar</title>
 </head>
 
 <body>
-  <h1>Pointel - Aptar</h1>
-  <h2><a href="index.php?action=listar">Listar</a> | <a href="index.php?action=grafar">Grafar</a> ^
-  </h2>
-  <h2><a href="index.php?action=sortear">Sortear</a> * </h2> <?php
+  <div>
+    <a href="index.php">
+      <img src="/assets/pointel.png" style="height: 36px; width: 36px;" />
+      <h1>Pointel</h1>
+      <h2>Aptar</h2>
+    </a>
+  </div>
+  <h3><a href="index.php?action=listar">Listar</a> | <a href="index.php?action=grafar">Grafar</a> |
+    <a href="index.php?action=sortear">Sortear</a></h3> <?php
 require 'act-' . $action . '.php';
 require 'act-' . $action . '.phtml';
 ?> <script src="index.js"></script>

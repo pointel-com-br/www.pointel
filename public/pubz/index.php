@@ -14,7 +14,6 @@
       <h1>Pointel</h1>
       <h2>Pubz</h2>
     </a>
-    <p>teste teste teste teste </p>
   </div> <?php
 $files = array_diff(scandir('.'), array('.', '..', 'index.php'));
 foreach ($files as $file) {

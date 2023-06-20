@@ -25,12 +25,13 @@ a:visited {
   color: #21004f;
 }
 
-tbody td {
-  padding: 7px;
-}
-
 thead tr {
   background-color: #ffe291;
+  text-align: left;
+}
+
+thead th {
+  padding: 7px;
 }
 
 tbody tr:nth-child(odd) {
@@ -39,6 +40,10 @@ tbody tr:nth-child(odd) {
 
 tbody tr:nth-child(even) {
   background-color: #bffffb;
+}
+
+tbody td {
+  padding: 7px;
 }
 
 #divQuestion {
@@ -88,4 +93,12 @@ button {
   font-family: "Courier New", Courier, monospace;
   font-size: 18px;
   background-color: #c9c9c9;
+}
+
+p {
+  margin: 18px;
+}
+
+h3 {
+  margin-bottom: 27px;
 }
