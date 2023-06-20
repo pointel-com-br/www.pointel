@@ -66,6 +66,7 @@ input {
   font-family: "Courier New", Courier, monospace;
   font-size: 18px;
   background-color: #eeeeee;
+  margin: 3px;
 }
 
 select {
@@ -75,6 +76,7 @@ select {
   font-size: 18px;
   width: 95%;
   background-color: #eeeeee;
+  margin: 3px;
 }
 
 textarea {
@@ -85,6 +87,7 @@ textarea {
   width: 95%;
   height: 120px;
   background-color: #eeeeee;
+  margin: 3px;
 }
 
 button {
@@ -93,6 +96,7 @@ button {
   font-family: "Courier New", Courier, monospace;
   font-size: 18px;
   background-color: #c9c9c9;
+  margin: 3px;
 }
 
 p {
