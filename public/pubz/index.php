@@ -8,12 +8,10 @@
 </head>
 
 <body>
-  <div>
-    <a href="index.php">
-      <img src="/assets/pointel.png" style="height: 36px; width: 36px;" />
-      <h1>Pointel</h1>
-      <h2>Pubz</h2>
-    </a>
+  <div id="topPointel">
+    <img src="/assets/pointel.png" />
+    <h1><a href="https://www.pointel.com.br/">Pointel</a></h1>
+    <h2><a href="index.php">Aptar</a></h2>
   </div> <?php
 $files = array_diff(scandir('.'), array('.', '..', 'index.php'));
 foreach ($files as $file) {
