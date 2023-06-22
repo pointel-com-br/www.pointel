@@ -9,7 +9,7 @@ $answer = str_replace("\n", "<br>", $answer);
 $answer = str_replace("\r", "", $answer);
 
 $message = 'Processando...';
-$retorno = 'index.php?action=sortear';
+$retorno = 'index.php?action=grafar';
 if ($tag == '' || $question == '' || $answer == '') {
     $message = 'Erro: dados incompletos.';
 } else {
@@ -18,7 +18,7 @@ if ($tag == '' || $question == '' || $answer == '') {
         $data[$id]['tag'] = $tag;
         $data[$id]['question'] = $question;
         $data[$id]['answer'] = $answer;
-        $retorno = 'index.php?action=grafar&id=' . $id;
+        $retorno = 'index.php?action=sortear';
     } else {
         $row = [
             'tag' => $tag,
