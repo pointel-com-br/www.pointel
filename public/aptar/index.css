@@ -49,6 +49,7 @@ tbody td {
 #divQuestion {
   padding: 7px 18px;
   background-color: #fffd91;
+  word-wrap: break-word;
 }
 
 #divQuestion button {
@@ -58,6 +59,7 @@ tbody td {
 #divAnswer {
   padding: 7px 18px;
   background-color: #c0ffbf;
+  word-wrap: break-word;
 }
 
 input {
