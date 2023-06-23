@@ -13,6 +13,7 @@ function unescape($str)
     $result = str_replace(' /i ', "</i>", $result);
     $result = str_replace(' \u ', "<u>", $result);
     $result = str_replace(' /u ', "</u>", $result);
+    $result = str_replace(' ', "&nbsp;", $result);
     return $result;
 }
 
@@ -26,7 +27,9 @@ function escape($str)
     $result = str_replace("</i>", ' /i ', $result);
     $result = str_replace("<u>", ' \u ', $result);
     $result = str_replace("</u>", ' /u ', $result);
-    return $result;}
+    $result = str_replace("&nbsp;", ' ', $result);
+    return $result;
+}
 
 function load_data()
 {

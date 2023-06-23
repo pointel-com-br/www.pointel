@@ -1,5 +1,3 @@
-<!-- \\ [ TODO ] - Ordenar a lista em ordem decrescente de id e remover esse link de novidades -->
-<h3><a href="#bottom">Novidades</a></h3>
 <table>
   <thead>
     <tr>
@@ -9,11 +7,14 @@
       <th>Resposta</th>
     </tr>
   </thead>
-  <tbody> <?php foreach ($data as $id => $row): ?> <tr>
+  <tbody>
+    <?php for ($id = count($data) -1; $id > 0; $id--): $row = $data[$id];?>
+	  <tr>
       <td><a href="index.php?action=grafar&id=<?=$id?>"><?=$id + 1?></a></td>
       <td><?=$row['tag']?></td>
       <td><?=$row['question']?></td>
       <td><?=$row['answer']?></td>
-    </tr> <?php endforeach?> </tbody>
+    </tr> 
+    <?php endfor?> 
+  </tbody>
 </table>
-<a name="bottom"></a>
