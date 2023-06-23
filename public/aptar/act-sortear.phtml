@@ -3,7 +3,7 @@
    <div>
      <p><?=$question?></p>
    </div>
-   <div><button onclick="responder()">Responder</button></div>
+   <div><button onclick="respond()">Responder</button></div>
  </div>
  <hr>
  <div id="divAnswer" style="display: none;">
@@ -15,16 +15,54 @@
    </div>
  </div>
  <script>
-function responder() {
+function respond() {
   document.getElementById('divAnswer').style.display = 'block';
 }
 
 function grafar() {
   document.location = 'index.php?action=grafar&id=<?=$id?>';
 }
+
+function random() {
+  document.location = 'index.php?action=sortear&from=<?=$id?>';
+}
+
+var shouldRespond = true;
+var shouldRandom = true;
+
+function stopAutomatic() {
+  shouldRespond = false;
+  shouldRandom = false;
+}
+
+setTimeout(function () {
+  if (shouldRespond) {
+    respond();
+  } 
+}, 1 * 60 * 1000);
+
+setTimeout(function () {
+  if (shouldRandom) {
+    random();
+  } 
+}, 2 * 60 * 1000);
+
 document.body.addEventListener("keyup", function(e) {
-  if (e.altKey && e.key == "r") {
-    responder();
+  if (e.altKey) {
+    switch (e.key) {
+      case "r":
+        respond();
+        break;
+      case "g":
+        grafar();
+        break;
+      case "q":
+        random();
+        break;
+      case "s":
+        stopAutomatic();
+        break;
+    }
   }
 });
  </script>
