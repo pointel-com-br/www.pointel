@@ -6,7 +6,7 @@
     <div>
       <textarea name="question" id="question" autofocus required><?=$question?></textarea>
     </div>
-    <div>tag para espaço em branco
+    <div>
       <select name="tag" id="tag" required>
         <option value=""></option>
         <option value="DI" <?=$tag == 'DI' ? 'selected' : ''?>>DI - Desenvolvimento de Informação</option>
@@ -33,3 +33,18 @@
     <div><input type="submit" value="Salvar" /></div>
   </div>
 </form>
+<script>
+function random() {
+  document.location = 'index.php?action=sortear&from=<?=$id?>';
+}
+
+document.body.addEventListener("keyup", function(e) {
+  if (e.altKey) {
+    switch (e.key) {
+      case "q":
+        random();
+        break;
+    }
+  }
+});
+ </script>

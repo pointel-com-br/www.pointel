@@ -2,11 +2,9 @@
 $id = $_POST['id'] ?? -1;
 $tag = trim($_POST['tag'] ?? '');
 $question = trim($_POST['question'] ?? '');
-$question = str_replace("\n", "<br>", $question);
-$question = str_replace("\r", "", $question);
+$question = unescape_editor($question);
 $answer = trim($_POST['answer'] ?? '');
-$answer = str_replace("\n", "<br>", $answer);
-$answer = str_replace("\r", "", $answer);
+$answer = unescape_editor($answer);
 
 $message = 'Processando...';
 $retorno = 'index.php?action=grafar';
