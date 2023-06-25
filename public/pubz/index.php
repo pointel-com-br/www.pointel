@@ -11,7 +11,7 @@
   <div id="topPointel">
     <img src="/assets/pointel.png" />
     <h1><a href="https://www.pointel.com.br/">Pointel</a></h1>
-    <h2><a href="index.php">Aptar</a></h2>
+    <h2><a href="index.php">Pubz</a></h2>
   </div> <?php
 $files = array_diff(scandir('.'), array('.', '..', 'index.php'));
 foreach ($files as $file) {
