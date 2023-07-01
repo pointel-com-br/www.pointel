@@ -92,4 +92,20 @@ function save_data()
     }
 }
 
+function str_starts_with(string $string, string $substring): bool {
+    $len = strlen($substring);
+    if ($len == 0) {
+        return true;
+    }
+    return substr($string, 0, $len) === $substring;
+}
+
+function str_ends_with(string $string, string $substring): bool {
+    $len = strlen($substring);
+    if ($len == 0) {
+        return true;
+    }
+    return substr($string, -$len) === $substring;
+}
+
 require 'index.phtml';
