@@ -7,10 +7,10 @@ $answer = trim($_POST['answer'] ?? '');
 $answer = unescape_editor($answer);
 
 if (!str_ends_with($question, "?")) {
-    $question += "?";
+    $question .= "?";
 }
 if (!str_ends_with($question, ".")) {
-    $answer += ".";
+    $answer .= ".";
 }
 
 $message = 'Processando...';
