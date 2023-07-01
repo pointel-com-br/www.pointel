@@ -6,6 +6,13 @@ $question = unescape_editor($question);
 $answer = trim($_POST['answer'] ?? '');
 $answer = unescape_editor($answer);
 
+if (!str_ends_with($question, "?")) {
+    $question += "?";
+}
+if (!str_ends_with($question, ".")) {
+    $answer += ".";
+}
+
 $message = 'Processando...';
 $retorno = 'index.php?action=grafar';
 if ($tag == '' || $question == '' || $answer == '') {
