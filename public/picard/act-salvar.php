@@ -9,7 +9,7 @@ $answer = unescape_editor($answer);
 if (!str_ends_with($question, "?")) {
     $question .= "?";
 }
-if (!str_ends_with($question, ".")) {
+if (!str_ends_with($answer, ".")) {
     $answer .= ".";
 }
 
