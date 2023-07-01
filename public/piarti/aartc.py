@@ -1,5 +1,8 @@
 # aartc.py - Automatic Article Compose
 
+# // [ TODO ] - Não pode tirar a endentação de dentro de blocos de código
+
+
 import os
 import re
 
