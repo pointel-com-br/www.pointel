@@ -1,12 +1,10 @@
 # aartc.py - Automatic Article Compile
-
-
 import os
 import re
 
 
-def adjust_empty_lines(text):
-    print('Ajustando linhas vazias...')
+def adjust_marked_empty_lines(text):
+    print('Ajustando marcado - linhas vazias...')
     result = []
     empty = 0
     inside_code_block = False
@@ -24,43 +22,20 @@ def adjust_empty_lines(text):
                 empty = 0
             if empty <= 1:
                 result.append(test + '\n')
-        
     return result
 
 
-def adjust_chapter(text, path):
-    print('Ajustando capítulos...')
+def adjust_marked_main_chapter(text, path):
+    print('Ajustando marcado - capítulo principal...')
     text[0] = text[0].strip()
-    main_title = 'Capítulo. ' + os.path.splitext(os.path.basename(path))[0] + '.\n'
+    main_title = '# ' + os.path.splitext(os.path.basename(path))[0] + '\n'
     if not text[0] == main_title:
         text[0] = main_title
     return text
 
 
-def adjust_items(text):
-    print('Ajustando itens...')
-    for i in range(len(text)):
-        line = text[i]
-        initial_space = line.find(' ')
-        if initial_space > 0:
-            initial_part = line[:initial_space]
-            only_numbers_or_dots = True
-            there_is_a_dot = False
-            there_is_a_number = False
-            for c in initial_part:
-                if not c.isdigit() and c != '.':
-                    only_numbers_or_dots = False
-                elif c.isdigit():
-                    there_is_a_number = True
-                elif c == '.':
-                    there_is_a_dot = True
-            if only_numbers_or_dots and there_is_a_number and there_is_a_dot:
-                text[i] = "Item. " + text[i]
-    return text
-
-
-def adjust_chars(text):
-    print('Ajustando caracteres...')
+def adjust_marked_chars(text):
+    print('Ajustando marcado - caracteres...')
     result = []
     for line in text:
         line = line.replace('■', '')
@@ -76,7 +51,7 @@ def adjust_chars(text):
     return result
 
 
-def adjust_lost_numbers(text):
+def adjust_marked_page_numbers(text):
 
     def is_only_three_numbers(line):
         line = line.strip()
@@ -89,7 +64,7 @@ def adjust_lost_numbers(text):
                     break
         return result
 
-    print('Ajustando números perdidos...')
+    print('Ajustando marcado - números de página...')
     result = []
     for line in text:
         if not is_only_three_numbers(line):
@@ -97,7 +72,7 @@ def adjust_lost_numbers(text):
     return result
 
 
-def adjust_only_dots(text):
+def adjust_marked_only_dots(text):
 
     def is_only_dots(line):
         line = line.strip()
@@ -106,7 +81,7 @@ def adjust_only_dots(text):
                 return False
         return True
 
-    print('Ajustando somente pontos...')
+    print('Ajustando marcado - somente pontos...')
     result = []
     for line in text:
         if not is_only_dots(line):
@@ -114,8 +89,8 @@ def adjust_only_dots(text):
     return result
 
 
-def adjust_broken(text):
-    print('Ajustando linhas quebradas...')
+def adjust_marked_broken_lines(text):
+    print('Ajustando marcado - linhas quebradas...')
     i = 0
     result = []
     while i < len(text):
@@ -137,50 +112,82 @@ def adjust_broken(text):
     return result
 
 
-def adjust_temp(text):
-    print('Ajustando elementos temporários...')
-    result = []
-    for line in text:
-        if line.startswith("Capítulo. "):
-            line = "# " + line[len("Capítulo. "):]
-        elif line.startswith("Tópico. "):
-            line = "# " + line[len("Tópico. "):]
-        elif line.startswith("Item. "):
-            if len(line) > len("Item. ") + 2:
-                next_char = line[len("Item. ")]
-                if next_char.isdigit():
-                    line = line[len("Item. "):]
-        result.append(line)
-    return result
+def adjust_marked_temp(text):
+    print('Ajustando marcado - processo temporários...')
+    return text
+
+
+def adjust_text_items(text):
+    print('Ajustando texto - itens...')
+    for i in range(len(text)):
+        line = text[i]
+        initial_space = line.find(' ')
+        if initial_space > 0:
+            initial_part = line[:initial_space]
+            only_numbers_or_dots = True
+            there_is_a_dot = False
+            there_is_a_number = False
+            for c in initial_part:
+                if not c.isdigit() and c != '.':
+                    only_numbers_or_dots = False
+                elif c.isdigit():
+                    there_is_a_number = True
+                elif c == '.':
+                    there_is_a_dot = True
+            if only_numbers_or_dots and there_is_a_number and there_is_a_dot:
+                text[i] = "Item. " + text[i]
+    return text
+
+
+def adjust_text_temp(text):
+    return text
+
+
+def adjust_marked(text, path):
+    print('Ajustando marcado: ' + path)
+    text = adjust_marked_empty_lines(text)
+    text = adjust_marked_main_chapter(text, path)
+    text = adjust_marked_chars(text)
+    text = adjust_marked_page_numbers(text)
+    text = adjust_marked_broken_lines(text)
+    text = adjust_marked_temp(text)
+    return text
+
+
+def adjust_text(text, path):
+    print('Ajustando texto: ' + path)
+    text = adjust_text_items(text)
+    text = adjust_text_temp(text)
+    return text
+
+
+def save_text(text, path):
+    text = adjust_text(text, path)
+    destiny = os.path.splitext(path)[0] + ".txt"
+    print('Salvando texto: ' + destiny)
+    with open(destiny, 'w', encoding="utf-8") as file:
+        file.writelines(text)
+    return text
+
+
+def save_marked(text, path):
+    text = adjust_marked(text, path)
+    print('Salvando marcado: ' + path)
+    with open(path, 'w', encoding="utf-8") as file:
+        file.writelines(text)
+    return text
+
+
+def read_marked(path):
+    print('Lendo marcado: ' + path)
+    with open(path, 'r', encoding="utf-8") as file:
+        return file.readlines()
+
 
 def list_paths():
     return [p for p in os.listdir('.') if p[-3:] == '.md']
 
 
-def read_text(path):
-    print('Lendo: ' + path)
-    with open(path, 'r', encoding="utf-8") as file:
-        return file.readlines()
-
-
-def adjust_text(text, path):
-    print('Ajustando: ' + path)
-    text = adjust_empty_lines(text)
-    text = adjust_chapter(text, path)
-    text = adjust_chars(text)
-    text = adjust_items(text)
-    text = adjust_lost_numbers(text)
-    text = adjust_broken(text)
-    text = adjust_temp(text)
-    return text
-
-
-def save_text(text, path):
-    print('Salvando: ' + path)
-    with open(path, 'w', encoding="utf-8") as file:
-        file.writelines(text)
-
-
 if __name__ == '__main__':
     for path in list_paths():
-        save_text(adjust_text(read_text(path), path), path)
+        save_text(save_marked(read_marked(path), path), path)
