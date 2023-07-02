@@ -14,17 +14,11 @@ Considerações Iniciais
 
 Olá, amigas (os)!
 
-Será um grande prazer poder auxiliá-los(as) na preparação para concursos, por
-meio deste curso
-sobre a LGPD - Lei Geral de Proteção de Dados.
+Será um grande prazer poder auxiliá-los(as) na preparação para concursos, por meio deste curso sobre a LGPD - Lei Geral de Proteção de Dados.
 
 Antes de passar ao conteúdo, peço licença para apresentar-me.
 
-/*V'
-
-Meu nome é Antonio Daud, sou natural de Uberlândia (MG) e tenho 39
-anos. Sou bacharel em Engenharia Elétrica e em Direito. Sou professor
-de direito administrativo e direito do trabalho no Estratégia Concursos.
+Meu nome é Antonio Daud, sou natural de Uberlândia (MG) e tenho 39 anos. Sou bacharel em Engenharia Elétrica e em Direito. Sou professor de direito administrativo e direito do trabalho no Estratégia Concursos.
 
 Iniciei minha vida de concurseiro nos idos de 2007 =) Em 2008, consegui
 aprovação no concurso de Auditor Federal De Finanças e Controle da
