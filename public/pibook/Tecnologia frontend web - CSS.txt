@@ -10,12 +10,18 @@ Item. 2. Propriedades e valores: As propriedades CSS são usadas para definir os
 
 Item. 3. Regras de estilo: As regras de estilo CSS consistem em um seletor e um conjunto de propriedades com seus valores. Por exemplo:
 
-```css
-p {
-color: blue;
-font-size: 16px;
-}
-```
+Iniciando bloco de código. css.
+
+p  { 
+
+color: blue ; 
+
+font - size: 16px ; 
+
+ } 
+
+Fechando bloco de código.
+
 
 Neste exemplo, a regra de estilo define que todos os parágrafos (selecionados pelo seletor "p") terão texto na cor azul e tamanho de fonte de 16 pixels.
 

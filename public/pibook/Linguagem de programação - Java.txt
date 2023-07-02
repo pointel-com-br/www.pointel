@@ -28,25 +28,40 @@ Certifique-se de ter o JUnit configurado no seu projeto. Isso pode ser feito adi
 Item. 2. Crie uma classe de teste:
 Crie uma classe de teste separada para cada classe que você deseja testar. Essa classe de teste deve ser nomeada com o sufixo "Test" para indicar que é uma classe de teste para a classe correspondente.
 
-```java
-import org.junit.Test;
-import static org.junit.Assert.*;
+Iniciando bloco de código. java.
 
-public class MinhaClasseTest {
+import org . junit . Test ; 
+
+import static org . junit . Assert .  *  ; 
+
+
+public class MinhaClasseTest  { 
+
 
     @Test
-    public void testMetodo() {
-        // Crie uma instância da classe que você deseja testar
-        MinhaClasse minhaClasse = new MinhaClasse();
 
-        // Execute o método que você deseja testar
-        int resultado = minhaClasse.metodo(2, 3);
+    public void testMetodo (  )   { 
 
-        // Verifique se o resultado está correto usando os métodos de assert do JUnit
-        assertEquals(5, resultado);
-    }
-}
-```
+         /  /  Crie uma instância da classe que você deseja testar
+
+        MinhaClasse minhaClasse  =  new MinhaClasse (  )  ; 
+
+
+         /  /  Execute o método que você deseja testar
+
+        int resultado  =  minhaClasse . metodo ( 2 ,  3 )  ; 
+
+
+         /  /  Verifique se o resultado está correto usando os métodos de assert do JUnit
+
+        assertEquals ( 5 ,  resultado )  ; 
+
+     } 
+
+ } 
+
+Fechando bloco de código.
+
 
 Item. 3. Anote os métodos de teste:
 Use a anotação `@Test` do JUnit para marcar os métodos de teste dentro da classe de teste. Cada método de teste deve ser público e não ter nenhum parâmetro.

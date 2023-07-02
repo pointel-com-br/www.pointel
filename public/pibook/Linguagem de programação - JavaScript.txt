@@ -21,64 +21,104 @@ Capítulo. Linguagem de programação - JavaScript - Lista das 10 principais fun
 Aqui estão as 10 principais funções para manipulação de strings em JavaScript:
 
 Item. 1. length: Retorna o comprimento de uma string.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.length); // Saída: 12
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . length )  ;   /  /  Saída: 12
+
+Fechando bloco de código.
+
 
 Item. 2. indexOf: Retorna a posição da primeira ocorrência de um caractere ou substring em uma string. Retorna -1 se a substring não for encontrada.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.indexOf("mundo")); // Saída: 5
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . indexOf ( "mundo" )  )  ;   /  /  Saída: 5
+
+Fechando bloco de código.
+
 
 Item. 3. slice: Extrai uma parte de uma string com base nos índices especificados.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.slice(0, 3)); // Saída: "Olá"
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . slice ( 0 ,  3 )  )  ;   /  /  Saída: "Olá"
+
+Fechando bloco de código.
+
 
 Item. 4. substring: Similar ao slice, mas não permite índices negativos.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.substring(4, 9)); // Saída: "mundo"
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . substring ( 4 ,  9 )  )  ;   /  /  Saída: "mundo"
+
+Fechando bloco de código.
+
 
 Item. 5. replace: Substitui uma substring por outra em uma string.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.replace("mundo", "planeta")); // Saída: "Olá, planeta!"
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . replace ( "mundo" ,  "planeta" )  )  ;   /  /  Saída: "Olá ,  planeta!"
+
+Fechando bloco de código.
+
 
 Item. 6. toUpperCase: Converte uma string em letras maiúsculas.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.toUpperCase()); // Saída: "OLÁ, MUNDO!"
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . toUpperCase (  )  )  ;   /  /  Saída: "OLÁ ,  MUNDO!"
+
+Fechando bloco de código.
+
 
 Item. 7. toLowerCase: Converte uma string em letras minúsculas.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.toLowerCase()); // Saída: "olá, mundo!"
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . toLowerCase (  )  )  ;   /  /  Saída: "olá ,  mundo!"
+
+Fechando bloco de código.
+
 
 Item. 8. trim: Remove espaços em branco no início e no final de uma string.
-```javascript
-const texto = " Olá, mundo! ";
-console.log(texto.trim()); // Saída: "Olá, mundo!"
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  " Olá ,  mundo! " ; 
+
+console . log ( texto . trim (  )  )  ;   /  /  Saída: "Olá ,  mundo!"
+
+Fechando bloco de código.
+
 
 Item. 9. charAt: Retorna o caractere em uma determinada posição em uma string.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.charAt(1)); // Saída: "l"
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . charAt ( 1 )  )  ;   /  /  Saída: "l"
+
+Fechando bloco de código.
+
 
 Item. 10. split: Divide uma string em um array de substrings com base em um separador especificado.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.split(" ")); // Saída: ["Olá,", "mundo!"]
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . split ( " " )  )  ;   /  /  Saída:  [ "Olá , " ,  "mundo!" ] 
+
+Fechando bloco de código.
+
 
 Essas são 10 das principais funções para manipulação de strings em JavaScript. No entanto, a linguagem possui muitas outras funções e métodos úteis para trabalhar com strings, dependendo do cenário de programação em que você está envolvido.
 
@@ -87,60 +127,100 @@ Capítulo. Linguagem de programação - JavaScript - Lista das principais funç�
 Aqui estão algumas das principais funções em JavaScript para realizar verificações em strings:
 
 Item. 1. startsWith: Verifica se uma string começa com determinados caracteres.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.startsWith("Olá")); // Saída: true
-console.log(texto.startsWith("mundo")); // Saída: false
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . startsWith ( "Olá" )  )  ;   /  /  Saída: true
+
+console . log ( texto . startsWith ( "mundo" )  )  ;   /  /  Saída: false
+
+Fechando bloco de código.
+
 
 Item. 2. endsWith: Verifica se uma string termina com determinados caracteres.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.endsWith("mundo!")); // Saída: true
-console.log(texto.endsWith("Olá")); // Saída: false
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . endsWith ( "mundo!" )  )  ;   /  /  Saída: true
+
+console . log ( texto . endsWith ( "Olá" )  )  ;   /  /  Saída: false
+
+Fechando bloco de código.
+
 
 Item. 3. includes: Verifica se uma string contém uma determinada substring.
-```javascript
-const texto = "Olá, mundo!";
-console.log(texto.includes("mundo")); // Saída: true
-console.log(texto.includes("Planeta")); // Saída: false
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+console . log ( texto . includes ( "mundo" )  )  ;   /  /  Saída: true
+
+console . log ( texto . includes ( "Planeta" )  )  ;   /  /  Saída: false
+
+Fechando bloco de código.
+
 
 Item. 4. match: Realiza uma correspondência de uma string com uma expressão regular.
-```javascript
-const texto = "Olá, mundo!";
-const regex = /mundo/;
-console.log(texto.match(regex)); // Saída: ["mundo"]
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+const regex  =   / mundo /  ; 
+
+console . log ( texto . match ( regex )  )  ;   /  /  Saída:  [ "mundo" ] 
+
+Fechando bloco de código.
+
 
 Item. 5. search: Pesquisa por uma expressão regular em uma string e retorna a posição da primeira ocorrência.
-```javascript
-const texto = "Olá, mundo!";
-const regex = /mundo/;
-console.log(texto.search(regex)); // Saída: 5
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+const regex  =   / mundo /  ; 
+
+console . log ( texto . search ( regex )  )  ;   /  /  Saída: 5
+
+Fechando bloco de código.
+
 
 Item. 6. matchAll: Retorna um iterador com todas as correspondências de uma expressão regular em uma string.
-```javascript
-const texto = "Olá, mundo! Olá, planeta!";
-const regex = /Olá/g;
-const matches = [...texto.matchAll(regex)];
-console.log(matches); // Saída: [ ["Olá"], ["Olá"] ]
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo! Olá ,  planeta!" ; 
+
+const regex  =   / Olá / g ; 
+
+const matches  =   [  .  .  . texto . matchAll ( regex )  ]  ; 
+
+console . log ( matches )  ;   /  /  Saída:  [   [ "Olá" ]  ,   [ "Olá" ]   ] 
+
+Fechando bloco de código.
+
 
 Item. 7. test: Testa se uma string corresponde a uma expressão regular e retorna true ou false.
-```javascript
-const texto = "Olá, mundo!";
-const regex = /mundo/;
-console.log(regex.test(texto)); // Saída: true
-```
+Iniciando bloco de código. javascript.
+
+const texto  =  "Olá ,  mundo!" ; 
+
+const regex  =   / mundo /  ; 
+
+console . log ( regex . test ( texto )  )  ;   /  /  Saída: true
+
+Fechando bloco de código.
+
 
 Item. 8. isNaN: Verifica se uma string não é um número.
-```javascript
-console.log(isNaN("123")); // Saída: false
-console.log(isNaN("abc")); // Saída: true
-```
+Iniciando bloco de código. javascript.
+
+console . log ( isNaN ( "123" )  )  ;   /  /  Saída: false
+
+console . log ( isNaN ( "abc" )  )  ;   /  /  Saída: true
+
+Fechando bloco de código.
+
 
 Essas são algumas das principais funções em JavaScript para realizar verificações em strings. Existem muitas outras funções e métodos disponíveis para manipulação e verificação de strings na linguagem, dependendo das necessidades específicas do seu código.
 
@@ -151,30 +231,44 @@ Em JavaScript, as funções `map()` e `filter()` são métodos de array muito ú
 Item. 1. `map()`: O método `map()` cria um novo array com os resultados de chamar uma função de callback em cada elemento do array original. Ele retorna um novo array com o mesmo tamanho do array original, onde cada elemento é o resultado da função de callback aplicada ao elemento correspondente do array original.
 
 Exemplo de uso do `map()`:
-```javascript
-const numeros = [1, 2, 3, 4, 5];
+Iniciando bloco de código. javascript.
 
-const dobrados = numeros.map((numero) => {
-return numero * 2;
-});
+const numeros  =   [ 1 ,  2 ,  3 ,  4 ,  5 ]  ; 
 
-console.log(dobrados); // Saída: [2, 4, 6, 8, 10]
-```
+
+const dobrados  =  numeros . map (  ( numero )   = >  { 
+
+return numero  *  2 ; 
+
+ }  )  ; 
+
+
+console . log ( dobrados )  ;   /  /  Saída:  [ 2 ,  4 ,  6 ,  8 ,  10 ] 
+
+Fechando bloco de código.
+
 
 Neste exemplo, o `map()` é usado para criar um novo array chamado `dobrados`, onde cada elemento é o dobro do elemento correspondente no array `numeros`.
 
 Item. 2. `filter()`: O método `filter()` cria um novo array com todos os elementos que passam em um teste especificado por uma função de callback. Ele retorna um novo array contendo apenas os elementos do array original que atendem à condição definida na função de callback.
 
 Exemplo de uso do `filter()`:
-```javascript
-const numeros = [1, 2, 3, 4, 5];
+Iniciando bloco de código. javascript.
 
-const pares = numeros.filter((numero) => {
-return numero % 2 === 0;
-});
+const numeros  =   [ 1 ,  2 ,  3 ,  4 ,  5 ]  ; 
 
-console.log(pares); // Saída: [2, 4]
-```
+
+const pares  =  numeros . filter (  ( numero )   = >  { 
+
+return numero % 2  =  =  =  0 ; 
+
+ }  )  ; 
+
+
+console . log ( pares )  ;   /  /  Saída:  [ 2 ,  4 ] 
+
+Fechando bloco de código.
+
 
 Neste exemplo, o `filter()` é usado para criar um novo array chamado `pares`, que contém apenas os números pares do array original `numeros`. A função de callback retorna `true` para os elementos que são divisíveis por 2 (ou seja, números pares) e `false` para os elementos que não são divisíveis por 2.
 
@@ -190,19 +284,30 @@ Certifique-se de ter o Jest configurado no seu projeto. Isso pode ser feito inst
 Item. 2. Crie uma função de teste:
 Escreva uma função de teste para cada função que você deseja testar. Uma função de teste é um bloco de código que executa uma ou mais asserções para verificar se o resultado está correto.
 
-```javascript
-// Importe as funções e módulos necessários
-const { soma } = require('./meuModulo');
+Iniciando bloco de código. javascript.
 
-// Escreva a função de teste
-test('Teste da função de soma', () => {
-  // Execute a função que você deseja testar
-  const resultado = soma(2, 3);
+ /  /  Importe as funções e módulos necessários
 
-  // Verifique se o resultado está correto usando os métodos de asserção do Jest
-  expect(resultado).toBe(5);
-});
-```
+const  {  soma  }   =  require ( ' .  / meuModulo' )  ; 
+
+
+ /  /  Escreva a função de teste
+
+test ( 'Teste da função de soma' ,   (  )   = >  { 
+
+   /  /  Execute a função que você deseja testar
+
+  const resultado  =  soma ( 2 ,  3 )  ; 
+
+
+   /  /  Verifique se o resultado está correto usando os métodos de asserção do Jest
+
+  expect ( resultado )  . toBe ( 5 )  ; 
+
+ }  )  ; 
+
+Fechando bloco de código.
+
 
 Item. 3. Execute os testes:
 Execute os testes usando um comando de teste fornecido pelo framework que você está usando. Por exemplo, com o Jest, você pode executar `npx jest` no terminal para executar todos os testes no seu projeto.
@@ -217,42 +322,67 @@ O JavaScript oferece várias formas de criar laços de repetição, permitindo q
 
 Item. 1. **for**: O laço `for` é usado para iterar por uma sequência de valores por um número específico de vezes. Ele consiste em três partes: inicialização, condição e expressão final.
 
-   ```javascript
-   for (inicialização; condição; expressão final) {
-       // código a ser executado
-   }
-```
+Iniciando bloco de código. javascript.
+
+   for  ( inicialização ;  condição ;  expressão final )   { 
+
+        /  /  código a ser executado
+
+    } 
+
+Fechando bloco de código.
+
 
 Item. 2. **for...in**: O laço `for...in` é usado para iterar sobre as propriedades de um objeto. Ele percorre todas as propriedades enumeráveis do objeto.
 
-   ```javascript
-   for (variavel in objeto) {
-       // código a ser executado
-   }
-```
+Iniciando bloco de código. javascript.
+
+   for  ( variavel in objeto )   { 
+
+        /  /  código a ser executado
+
+    } 
+
+Fechando bloco de código.
+
 
 Item. 3. **for...of**: O laço `for...of` é usado para iterar sobre elementos iteráveis, como arrays, strings, etc. Ele itera diretamente sobre os valores dos elementos, em vez dos índices ou chaves.
 
-   ```javascript
-   for (variavel of iteravel) {
-       // código a ser executado
-   }
-```
+Iniciando bloco de código. javascript.
+
+   for  ( variavel of iteravel )   { 
+
+        /  /  código a ser executado
+
+    } 
+
+Fechando bloco de código.
+
 
 Item. 4. **while**: O laço `while` é usado para repetir um bloco de código enquanto uma condição específica for verdadeira.
 
-   ```javascript
-   while (condição) {
-       // código a ser executado
-   }
-```
+Iniciando bloco de código. javascript.
+
+   while  ( condição )   { 
+
+        /  /  código a ser executado
+
+    } 
+
+Fechando bloco de código.
+
 
 Item. 5. **do...while**: O laço `do...while` é semelhante ao `while`, mas a condição é verificada após a execução do bloco de código. Isso garante que o bloco de código seja executado pelo menos uma vez.
 
-   ```javascript
-   do {
-       // código a ser executado
-   } while (condição);
-```
+Iniciando bloco de código. javascript.
+
+   do  { 
+
+        /  /  código a ser executado
+
+    }  while  ( condição )  ; 
+
+Fechando bloco de código.
+
 
 Cada tipo de laço de repetição tem suas próprias características e é adequado para diferentes situações. A escolha do tipo de laço depende dos requisitos e da lógica específica do seu código.

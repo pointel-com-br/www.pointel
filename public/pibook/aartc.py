@@ -194,28 +194,27 @@ def adjust_text_code_blocks(text):
                 test += " " + suffix
             if not test.endswith("."):
                 test += "." 
-            result.append(test + "\n")
+            result.append(test + "\n\n")
             inside_code_block = not inside_code_block
         else: 
-            if inside_code_block:
+            if inside_code_block and line.strip():
                 test = line.rstrip()
-                line = line.replace('.', ' . ')
-                line = line.replace(',', ' , ')
-                line = line.replace(';', ' ; ')
-                line = line.replace('-', ' - ')
-                line = line.replace('+', ' + ')
-                line = line.replace('/', ' / ')
-                line = line.replace('\\', ' \\ ')
-                line = line.replace('=', ' = ')
-                line = line.replace('(', ' ( ')
-                line = line.replace(')', ' ) ')
-                line = line.replace('[', ' [ ')
-                line = line.replace(']', ' ] ')
-                line = line.replace('{', ' { ')
-                line = line.replace('}', ' } ')
-                if test and not test.endswith("."):
-                    test += "." 
-                result.append(test + "\n")
+                test = test.replace('.', ' . ')
+                test = test.replace(',', ' , ')
+                test = test.replace(';', ' ; ')
+                test = test.replace('-', ' - ')
+                test = test.replace('+', ' + ')
+                test = test.replace('*', ' * ')
+                test = test.replace('/', ' / ')
+                test = test.replace('\\', ' \\ ')
+                test = test.replace('=', ' = ')
+                test = test.replace('(', ' ( ')
+                test = test.replace(')', ' ) ')
+                test = test.replace('[', ' [ ')
+                test = test.replace(']', ' ] ')
+                test = test.replace('{', ' { ')
+                test = test.replace('}', ' } ')
+                result.append(test + "\n\n")
             else:
                 result.append(line)
     return result

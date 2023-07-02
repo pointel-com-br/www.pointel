@@ -26,19 +26,30 @@ Certifique-se de ter o Jest configurado no seu projeto TypeScript. Isso pode ser
 Item. 2. Escreva um teste:
 Crie um arquivo de teste separado para cada módulo que você deseja testar. No arquivo de teste, você pode importar as classes, funções ou módulos que deseja testar e, em seguida, escrever as funções de teste.
 
-```typescript
-// Importe as classes, funções ou módulos necessários
-import { soma } from './meuModulo';
+Iniciando bloco de código. typescript.
 
-// Escreva a função de teste
-test('Teste da função de soma', () => {
-  // Execute a função que você deseja testar
-  const resultado = soma(2, 3);
+ /  /  Importe as classes ,  funções ou módulos necessários
 
-  // Verifique se o resultado está correto usando os métodos de asserção do Jest
-  expect(resultado).toBe(5);
-});
-```
+import  {  soma  }  from ' .  / meuModulo' ; 
+
+
+ /  /  Escreva a função de teste
+
+test ( 'Teste da função de soma' ,   (  )   = >  { 
+
+   /  /  Execute a função que você deseja testar
+
+  const resultado  =  soma ( 2 ,  3 )  ; 
+
+
+   /  /  Verifique se o resultado está correto usando os métodos de asserção do Jest
+
+  expect ( resultado )  . toBe ( 5 )  ; 
+
+ }  )  ; 
+
+Fechando bloco de código.
+
 
 Item. 3. Execute os testes:
 Execute os testes usando um comando de teste fornecido pelo framework que você está usando, como `npx jest` no caso do Jest.

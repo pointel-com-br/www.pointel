@@ -20,15 +20,21 @@ Além disso, o NumPy é frequentemente combinado com outras bibliotecas populare
 
 Para utilizar o NumPy, você precisa primeiro instalá-lo em seu ambiente Python. Você pode fazer isso usando o gerenciador de pacotes pip. Aqui está um exemplo de como instalar o NumPy:
 
-```
+Iniciando bloco de código.
+
 pip install numpy
-```
+
+Fechando bloco de código.
+
 
 Depois de instalado, você pode importar o NumPy em seu código Python da seguinte forma:
 
-```python
+Iniciando bloco de código. python.
+
 import numpy as np
-```
+
+Fechando bloco de código.
+
 
 A partir daí, você pode utilizar todas as funcionalidades e recursos do NumPy em sua análise de dados.
 
@@ -76,55 +82,88 @@ Claro! Aqui estão alguns exemplos de uso comuns do NumPy na análise de dados:
 
 Item. 1. Criação de arrays: O NumPy permite criar arrays multidimensionais que são a base para muitas operações de análise de dados. Você pode criar arrays a partir de listas ou usar funções como `numpy.arange()` e `numpy.linspace()` para criar sequências de valores:
 
-```python
+Iniciando bloco de código. python.
+
 import numpy as np
-arr1 = np.array([1, 2, 3, 4, 5]) # Cria um array a partir de uma lista
-arr2 = np.arange(0, 10, 2) # Cria um array com valores de 0 a 10 (exclusivo) com um passo de 2
-arr3 = np.linspace(0, 1, 5) # Cria um array com 5 valores igualmente espaçados entre 0 e 1
-```
+
+arr1  =  np . array (  [ 1 ,  2 ,  3 ,  4 ,  5 ]  )  # Cria um array a partir de uma lista
+
+arr2  =  np . arange ( 0 ,  10 ,  2 )  # Cria um array com valores de 0 a 10  ( exclusivo )  com um passo de 2
+
+arr3  =  np . linspace ( 0 ,  1 ,  5 )  # Cria um array com 5 valores igualmente espaçados entre 0 e 1
+
+Fechando bloco de código.
+
 
 Item. 2. Operações numéricas: O NumPy oferece uma ampla gama de funções para realizar operações numéricas em arrays. Isso inclui operações aritméticas, funções trigonométricas, operações matriciais e muito mais:
 
-```python
-arr = np.array([1, 2, 3])
+Iniciando bloco de código. python.
 
-np.sum(arr) # Soma os valores do array
-np.mean(arr) # Calcula a média dos valores do array
-np.sin(arr) # Calcula o seno de cada valor do array
-np.dot(arr, arr) # Calcula o produto escalar do array consigo mesmo
-```
+arr  =  np . array (  [ 1 ,  2 ,  3 ]  ) 
+
+
+np . sum ( arr )  # Soma os valores do array
+
+np . mean ( arr )  # Calcula a média dos valores do array
+
+np . sin ( arr )  # Calcula o seno de cada valor do array
+
+np . dot ( arr ,  arr )  # Calcula o produto escalar do array consigo mesmo
+
+Fechando bloco de código.
+
 
 Item. 3. Indexação e slicing: O NumPy oferece uma sintaxe flexível para indexar e fatiar arrays, permitindo acessar e manipular subconjuntos de dados:
 
-```python
-arr = np.array([1, 2, 3, 4, 5])
+Iniciando bloco de código. python.
 
-arr[0] # Acessa o primeiro elemento do array
-arr[2:4] # Retorna um novo array com os elementos das posições 2 e 3
-arr[arr > 2] # Retorna um novo array com os elementos maiores que 2
-```
+arr  =  np . array (  [ 1 ,  2 ,  3 ,  4 ,  5 ]  ) 
+
+
+arr [ 0 ]  # Acessa o primeiro elemento do array
+
+arr [ 2:4 ]  # Retorna um novo array com os elementos das posições 2 e 3
+
+arr [ arr > 2 ]  # Retorna um novo array com os elementos maiores que 2
+
+Fechando bloco de código.
+
 
 Item. 4. Operações estatísticas: O NumPy possui funções estatísticas úteis para análise de dados, permitindo calcular estatísticas descritivas, como média, mediana, desvio padrão e correlação:
 
-```python
-arr = np.array([1, 2, 3, 4, 5])
+Iniciando bloco de código. python.
 
-np.mean(arr) # Calcula a média dos valores do array
-np.median(arr) # Calcula a mediana dos valores do array
-np.std(arr) # Calcula o desvio padrão dos valores do array
-np.corrcoef(arr1, arr2) # Calcula a matriz de correlação entre dois arrays
-```
+arr  =  np . array (  [ 1 ,  2 ,  3 ,  4 ,  5 ]  ) 
+
+
+np . mean ( arr )  # Calcula a média dos valores do array
+
+np . median ( arr )  # Calcula a mediana dos valores do array
+
+np . std ( arr )  # Calcula o desvio padrão dos valores do array
+
+np . corrcoef ( arr1 ,  arr2 )  # Calcula a matriz de correlação entre dois arrays
+
+Fechando bloco de código.
+
 
 Item. 5. Álgebra linear: O NumPy fornece funcionalidades para álgebra linear, como decomposição de matriz, inversão de matriz, resolução de sistemas de equações lineares e cálculo de autovalores e autovetores:
 
-```python
-matrix = np.array([[1, 2], [3, 4]])
-vector = np.array([5, 6])
+Iniciando bloco de código. python.
 
-np.linalg.inv(matrix) # Calcula a inversa da matriz
-np.linalg.solve(matrix, vector) # Resolve o sistema de equações lineares
-np.linalg.eig(matrix) # Calcula os autovalores e autovetores da matriz
-```
+matrix  =  np . array (  [  [ 1 ,  2 ]  ,   [ 3 ,  4 ]  ]  ) 
+
+vector  =  np . array (  [ 5 ,  6 ]  ) 
+
+
+np . linalg . inv ( matrix )  # Calcula a inversa da matriz
+
+np . linalg . solve ( matrix ,  vector )  # Resolve o sistema de equações lineares
+
+np . linalg . eig ( matrix )  # Calcula os autovalores e autovetores da matriz
+
+Fechando bloco de código.
+
 
 Esses são apenas alguns exemplos dos usos mais comuns do NumPy na análise de dados. A biblioteca oferece uma ampla variedade de funções e recursos para manipulação e cálculos numéricos eficientes em arrays multidimensionais.
 

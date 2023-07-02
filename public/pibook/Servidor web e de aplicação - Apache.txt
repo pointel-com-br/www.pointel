@@ -24,19 +24,29 @@ Item. 2. Habilitar o módulo SSL: Verifique se o módulo SSL está habilitado no
 
 Item. 3. Configurar o arquivo de virtual host: Abra o arquivo de configuração do seu virtual host no diretório `/etc/apache2/sites-available/`. Geralmente, o arquivo é chamado de `default-ssl.conf` ou algo semelhante. Certifique-se de que o arquivo contenha as seguintes linhas ou adicione-as, se necessário:
 
-```
-<VirtualHost *:443>
-ServerName seu_dominio.com
+Iniciando bloco de código.
+
+<VirtualHost  * :443>
+
+ServerName seu_dominio . com
+
 
 SSLEngine on
-SSLCertificateFile /caminho/para/o/certificado.crt
-SSLCertificateKeyFile /caminho/para/a/chave_privada.key
-SSLCertificateChainFile /caminho/para/o/arquivo_de_cadeia.crt (opcional)
+
+SSLCertificateFile  / caminho / para / o / certificado . crt
+
+SSLCertificateKeyFile  / caminho / para / a / chave_privada . key
+
+SSLCertificateChainFile  / caminho / para / o / arquivo_de_cadeia . crt  ( opcional ) 
+
 
 # Outras configurações de virtual host
 
-</VirtualHost>
-```
+
+< / VirtualHost>
+
+Fechando bloco de código.
+
 
 Certifique-se de substituir `seu_dominio.com` pelo seu próprio domínio e os caminhos para os arquivos do certificado e da chave privada.
 
@@ -54,23 +64,35 @@ Item. 1. Habilitar os módulos necessários: Primeiro, você precisa habilitar o
 
 Item. 2. Configurar os backends: Você precisa configurar os backends, ou seja, os servidores que receberão as solicitações do balanceador de carga. Abra o arquivo de configuração do Apache e adicione as seguintes linhas para cada backend:
 
-```
-<Proxy balancer://backend_cluster>
-BalancerMember http://ip_do_backend1:porta route=backend1
-BalancerMember http://ip_do_backend2:porta route=backend2
+Iniciando bloco de código.
+
+<Proxy balancer: /  / backend_cluster>
+
+BalancerMember http: /  / ip_do_backend1:porta route = backend1
+
+BalancerMember http: /  / ip_do_backend2:porta route = backend2
+
 # Adicione mais servidores conforme necessário
-ProxySet lbmethod=byrequests
-</Proxy>
-```
+
+ProxySet lbmethod = byrequests
+
+< / Proxy>
+
+Fechando bloco de código.
+
 
 Certifique-se de substituir `ip_do_backend1` e `ip_do_backend2` pelos endereços IP dos seus servidores backend e `porta` pela porta em que eles estão ouvindo as solicitações.
 
 Item. 3. Configurar o balanceador de carga: Agora, você precisa configurar o balanceador de carga propriamente dito. Adicione as seguintes linhas ao seu arquivo de configuração:
 
-```
-ProxyPass / balancer://backend_cluster/
-ProxyPassReverse / balancer://backend_cluster/
-```
+Iniciando bloco de código.
+
+ProxyPass  /  balancer: /  / backend_cluster / 
+
+ProxyPassReverse  /  balancer: /  / backend_cluster / 
+
+Fechando bloco de código.
+
 
 Isso instrui o Apache a encaminhar as solicitações recebidas para o balanceador de carga, que, por sua vez, distribuirá as solicitações entre os backends configurados.
 

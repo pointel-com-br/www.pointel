@@ -25,39 +25,57 @@ As páginas JSP (JavaServer Pages) são arquivos HTML misturados com código Jav
 Item. 1. Declaração de tag (`<%@ %>`): Essa tag é usada para declarar diretivas para a página JSP, como importações de classes Java, configurações de página, entre outras.
 
 Exemplo:
-```jsp
-<%@ page language="java" contentType="text/html; charset=UTF-8" %>
-```
+Iniciando bloco de código. jsp.
+
+<%@ page language = "java" contentType = "text / html ;  charset = UTF - 8" %>
+
+Fechando bloco de código.
+
 
 Item. 2. Scriptlet tag (`<% %>`): Essa tag permite inserir código Java diretamente na página JSP. O código dentro das tags scriptlet é executado quando a página é processada no servidor.
 
 Exemplo:
-```jsp
+Iniciando bloco de código. jsp.
+
 <%
-String nome = "João";
-out.println("Bem-vindo, " + nome);
+
+String nome  =  "João" ; 
+
+out . println ( "Bem - vindo ,  "  +  nome )  ; 
+
 %>
-```
+
+Fechando bloco de código.
+
 
 Item. 3. Expressão tag (`<%= %>`): Essa tag é usada para inserir o resultado de uma expressão Java na página. O resultado é convertido em uma string e enviado ao navegador.
 
 Exemplo:
-```jsp
-<p>O resultado da expressão é: <%= 2 + 2 %></p>
-```
+Iniciando bloco de código. jsp.
+
+<p>O resultado da expressão é: <% =  2  +  2 %>< / p>
+
+Fechando bloco de código.
+
 
 Item. 4. Tag de declaração de variável (`<%! %>`): Essa tag é usada para declarar variáveis e métodos que são acessíveis em toda a página JSP. Geralmente, é usada para definir métodos de utilidade ou variáveis que são compartilhadas entre diferentes partes da página.
 
 Exemplo:
-```jsp
-<%! int contador = 0; %>
-```
+Iniciando bloco de código. jsp.
+
+<%! int contador  =  0 ;  %>
+
+Fechando bloco de código.
+
 
 Item. 5. Tag de inclusão (`<%@ include %>`): Essa tag é usada para incluir o conteúdo de outro arquivo JSP ou HTML na página atual. O conteúdo do arquivo incluído é copiado diretamente para a página durante o processamento.
 
 Exemplo:
-```jsp
-<%@ include file="header.jsp" %>
-```
+Iniciando bloco de código. jsp.
+
+<%@ include file = "header . jsp" %>
+
+Fechando bloco de código.
+
 
 Essas são apenas algumas das principais tags utilizadas em páginas JSP. Existem outras tags disponíveis, como tags de controle de fluxo (if, switch, loop), tags JSP padrão (JSTL), tags de ação (utilizadas com o framework Struts) e tags personalizadas criadas pelos desenvolvedores. O uso de tags pode variar dependendo do framework ou bibliotecas adicionais utilizadas no projeto.

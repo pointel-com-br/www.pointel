@@ -26,24 +26,39 @@ Certifique-se de ter o PHPUnit configurado no seu projeto. Isso pode ser feito i
 Item. 2. Crie uma classe de teste:
 Crie uma classe de teste separada para cada classe ou função que você deseja testar. Essa classe de teste deve ser nomeada com o sufixo "Test" para indicar que é uma classe de teste para a classe correspondente.
 
-```php
-use PHPUnit\Framework\TestCase;
+Iniciando bloco de código. php.
+
+use PHPUnit \ Framework \ TestCase ; 
+
 
 class MinhaClasseTest extends TestCase
-{
-    public function testMetodo()
-    {
-        // Crie uma instância da classe que você deseja testar
-        $minhaClasse = new MinhaClasse();
 
-        // Execute o método que você deseja testar
-        $resultado = $minhaClasse->metodo(2, 3);
+ { 
 
-        // Verifique se o resultado está correto usando os métodos de asserção do PHPUnit
-        $this->assertEquals(5, $resultado);
-    }
-}
-```
+    public function testMetodo (  ) 
+
+     { 
+
+         /  /  Crie uma instância da classe que você deseja testar
+
+        $minhaClasse  =  new MinhaClasse (  )  ; 
+
+
+         /  /  Execute o método que você deseja testar
+
+        $resultado  =  $minhaClasse - >metodo ( 2 ,  3 )  ; 
+
+
+         /  /  Verifique se o resultado está correto usando os métodos de asserção do PHPUnit
+
+        $this - >assertEquals ( 5 ,  $resultado )  ; 
+
+     } 
+
+ } 
+
+Fechando bloco de código.
+
 
 Item. 3. Execute os testes:
 Execute os testes usando um comando de teste fornecido pelo PHPUnit. Geralmente, você pode executar o comando `phpunit` no terminal, apontando para o arquivo de teste ou diretório contendo os testes.

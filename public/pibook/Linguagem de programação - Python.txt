@@ -26,21 +26,33 @@ Certifique-se de ter o pytest instalado no seu ambiente Python. Você pode insta
 Item. 2. Crie um teste:
 Escreva uma função de teste para cada função, método ou classe que você deseja testar. A função de teste deve ter um nome que comece com "test_" para que o pytest possa reconhecê-la automaticamente como um teste.
 
-```python
+Iniciando bloco de código. python.
+
 # Importe as funções ou classes necessárias
+
 from minhaclasse import MinhaClasse
 
+
 # Escreva a função de teste
-def test_metodo():
+
+def test_metodo (  ) :
+
     # Crie uma instância da classe que você deseja testar
-    minha_classe = MinhaClasse()
+
+    minha_classe  =  MinhaClasse (  ) 
+
 
     # Execute o método que você deseja testar
-    resultado = minha_classe.metodo(2, 3)
+
+    resultado  =  minha_classe . metodo ( 2 ,  3 ) 
+
 
     # Verifique se o resultado está correto usando asserções
-    assert resultado == 5
-```
+
+    assert resultado  =  =  5
+
+Fechando bloco de código.
+
 
 Item. 3. Execute os testes:
 Execute os testes usando um comando de teste fornecido pelo framework que você está usando. Com o pytest, você pode simplesmente executar o comando `pytest` no terminal na pasta raiz do seu projeto. O pytest encontrará automaticamente todos os arquivos de teste e executará os testes neles.

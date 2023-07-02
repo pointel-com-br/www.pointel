@@ -18,15 +18,21 @@ Item. 6. Integração com outras linguagens: Além do Python, o Jupyter Notebook
 
 Para começar a usar o Jupyter Notebook, você precisa instalá-lo em seu ambiente Python. Você pode fazer isso usando o gerenciador de pacotes pip. Aqui está um exemplo de como instalar o Jupyter Notebook:
 
-```
+Iniciando bloco de código.
+
 pip install jupyter
-```
+
+Fechando bloco de código.
+
 
 Após a instalação, você pode iniciar o Jupyter Notebook executando o seguinte comando no terminal ou prompt de comando:
 
-```
+Iniciando bloco de código.
+
 jupyter notebook
-```
+
+Fechando bloco de código.
+
 
 Isso abrirá o ambiente do Jupyter Notebook no seu navegador, permitindo que você crie um novo notebook ou abra um existente.
 

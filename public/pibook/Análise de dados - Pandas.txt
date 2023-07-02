@@ -22,15 +22,21 @@ Item. 8. Visualização de dados: Embora a visualização de dados não seja a f
 
 Para utilizar o pandas, você precisa primeiro instalá-lo em seu ambiente Python. Você pode fazer isso usando o gerenciador de pacotes pip. Aqui está um exemplo de como instalar o pandas:
 
-```
+Iniciando bloco de código.
+
 pip install pandas
-```
+
+Fechando bloco de código.
+
 
 Depois de instalado, você pode importar o pandas em seu código Python da seguinte forma:
 
-```python
+Iniciando bloco de código. python.
+
 import pandas as pd
-```
+
+Fechando bloco de código.
+
 
 A partir daí, você pode utilizar todas as funcionalidades e recursos do pandas em sua análise de dados tabulares. O pandas oferece uma ampla documentação e muitos recursos para explorar e realizar análises sofisticadas em seus dados.
 
@@ -104,42 +110,67 @@ Certamente! Aqui estão alguns exemplos mais comuns de uso do pandas na análise
 
 Item. 1. Carregamento de dados: O pandas pode ser usado para carregar dados de diferentes fontes, como arquivos CSV, Excel, SQL, JSON, entre outros. Por exemplo, você pode carregar um arquivo CSV usando a função `pd.read_csv()`:
 
-```python
+Iniciando bloco de código. python.
+
 import pandas as pd
-data = pd.read_csv('dados.csv')
-```
+
+data  =  pd . read_csv ( 'dados . csv' ) 
+
+Fechando bloco de código.
+
 
 Item. 2. Explorando os dados: O pandas permite obter uma visão geral dos dados usando métodos como `head()`, `tail()` e `sample()`, que exibem as primeiras linhas, últimas linhas e amostras aleatórias dos dados, respectivamente. Isso ajuda a entender a estrutura e o conteúdo dos dados:
 
-```python
-data.head() # Exibe as primeiras linhas do DataFrame
-data.describe() # Calcula estatísticas descritivas dos dados
-data.info() # Retorna informações sobre o DataFrame, como tipos de dados e valores ausentes
-```
+Iniciando bloco de código. python.
+
+data . head (  )  # Exibe as primeiras linhas do DataFrame
+
+data . describe (  )  # Calcula estatísticas descritivas dos dados
+
+data . info (  )  # Retorna informações sobre o DataFrame ,  como tipos de dados e valores ausentes
+
+Fechando bloco de código.
+
 
 Item. 3. Manipulação de dados: O pandas oferece várias operações para manipular e transformar os dados. Por exemplo, você pode selecionar colunas específicas, filtrar linhas com base em condições, adicionar ou remover colunas, preencher valores ausentes e muito mais:
 
-```python
-data['coluna'] # Acessa uma coluna específica
-data[data['idade'] > 30] # Filtra as linhas com base em uma condição
-data['nova_coluna'] = data['coluna1'] + data['coluna2'] # Cria uma nova coluna com base em operações entre colunas existentes
-data.dropna() # Remove linhas com valores ausentes
-```
+Iniciando bloco de código. python.
+
+data [ 'coluna' ]  # Acessa uma coluna específica
+
+data [ data [ 'idade' ]  > 30 ]  # Filtra as linhas com base em uma condição
+
+data [ 'nova_coluna' ]   =  data [ 'coluna1' ]   +  data [ 'coluna2' ]  # Cria uma nova coluna com base em operações entre colunas existentes
+
+data . dropna (  )  # Remove linhas com valores ausentes
+
+Fechando bloco de código.
+
 
 Item. 4. Agregação e resumo dos dados: O pandas permite agregar e resumir os dados de diferentes maneiras. Você pode calcular estatísticas resumidas, como média, soma, mínimo, máximo, contar valores únicos, agrupar dados por uma ou mais colunas e aplicar funções de agregação:
 
-```python
-data.mean() # Calcula a média de cada coluna numérica
-data.groupby('categoria')['valor'].sum() # Agrupa os dados por categoria e calcula a soma dos valores
-data['coluna'].value_counts() # Conta a frequência dos valores em uma coluna
-```
+Iniciando bloco de código. python.
+
+data . mean (  )  # Calcula a média de cada coluna numérica
+
+data . groupby ( 'categoria' )  [ 'valor' ]  . sum (  )  # Agrupa os dados por categoria e calcula a soma dos valores
+
+data [ 'coluna' ]  . value_counts (  )  # Conta a frequência dos valores em uma coluna
+
+Fechando bloco de código.
+
 
 Item. 5. Visualização de dados: Embora a visualização não seja a função principal do pandas, ele pode ser combinado com bibliotecas de visualização, como o matplotlib e o seaborn, para criar gráficos a partir dos dados manipulados no pandas. Por exemplo, você pode criar um gráfico de barras usando o pandas em conjunto com o matplotlib:
 
-```python
-import matplotlib.pyplot as plt
-data['coluna'].value_counts().plot(kind='bar')
-plt.show()
-```
+Iniciando bloco de código. python.
+
+import matplotlib . pyplot as plt
+
+data [ 'coluna' ]  . value_counts (  )  . plot ( kind = 'bar' ) 
+
+plt . show (  ) 
+
+Fechando bloco de código.
+
 
 Esses são apenas alguns exemplos dos usos mais comuns do pandas na análise de dados. A biblioteca oferece muitas outras funcionalidades que podem ser exploradas para manipulação, transformação, agregação e visualização de dados.

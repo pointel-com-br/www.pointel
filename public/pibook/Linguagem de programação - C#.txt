@@ -26,26 +26,43 @@ Certifique-se de ter o NUnit configurado no seu projeto C#. Isso pode ser feito 
 Item. 2. Crie uma classe de teste:
 Crie uma classe de teste separada para cada classe ou método que você deseja testar. Essa classe de teste deve ser decorada com atributos fornecidos pelo NUnit para indicar que é uma classe de teste e definir o comportamento dos testes.
 
-```csharp
-using NUnit.Framework;
+Iniciando bloco de código. csharp.
 
-[TestFixture]
+using NUnit . Framework ; 
+
+
+ [ TestFixture ] 
+
 public class MinhaClasseTest
-{
-    [Test]
-    public void Metodo_DeveRetornarSomaCorreta()
-    {
-        // Crie uma instância da classe que você deseja testar
-        var minhaClasse = new MinhaClasse();
 
-        // Execute o método que você deseja testar
-        var resultado = minhaClasse.Metodo(2, 3);
+ { 
 
-        // Verifique se o resultado está correto usando os métodos de asserção do NUnit
-        Assert.AreEqual(5, resultado);
-    }
-}
-```
+     [ Test ] 
+
+    public void Metodo_DeveRetornarSomaCorreta (  ) 
+
+     { 
+
+         /  /  Crie uma instância da classe que você deseja testar
+
+        var minhaClasse  =  new MinhaClasse (  )  ; 
+
+
+         /  /  Execute o método que você deseja testar
+
+        var resultado  =  minhaClasse . Metodo ( 2 ,  3 )  ; 
+
+
+         /  /  Verifique se o resultado está correto usando os métodos de asserção do NUnit
+
+        Assert . AreEqual ( 5 ,  resultado )  ; 
+
+     } 
+
+ } 
+
+Fechando bloco de código.
+
 
 Item. 3. Execute os testes:
 Execute os testes usando um comando de teste fornecido pelo NUnit, como a utilização de um runner de teste, como o NUnit Console Runner ou ferramentas de integração contínua.

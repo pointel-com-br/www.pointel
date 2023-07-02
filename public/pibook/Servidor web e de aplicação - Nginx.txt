@@ -24,20 +24,32 @@ Item. 1. Certificado SSL/TLS: Assim como no Apache, o primeiro passo é obter um
 
 Item. 2. Configurar o arquivo de configuração: Abra o arquivo de configuração do Nginx para o seu site ou virtual host. O arquivo de configuração geralmente está localizado no diretório `/etc/nginx/conf.d/` ou `/etc/nginx/sites-available/`. Certifique-se de que o arquivo contenha as seguintes linhas ou adicione-as, se necessário:
 
-```
-server {
-listen 443 ssl;
-server_name seu_dominio.com;
+Iniciando bloco de código.
 
-ssl_certificate /caminho/para/o/certificado.crt;
-ssl_certificate_key /caminho/para/a/chave_privada.key;
+server  { 
+
+listen 443 ssl ; 
+
+server_name seu_dominio . com ; 
+
+
+ssl_certificate  / caminho / para / o / certificado . crt ; 
+
+ssl_certificate_key  / caminho / para / a / chave_privada . key ; 
+
 
 # Configurações adicionais
-location / {
+
+location  /   { 
+
 # Configurações adicionais para lidar com as solicitações
-}
-}
-```
+
+ } 
+
+ } 
+
+Fechando bloco de código.
+
 
 Lembre-se de substituir `seu_dominio.com` pelo seu próprio domínio e os caminhos para o certificado e a chave privada.
 
@@ -59,30 +71,48 @@ Para configurar o Nginx como um balanceador de carga HTTP, você pode usar o rec
 
 Item. 1. Configurar os backends: Primeiro, você precisa configurar os backends, ou seja, os servidores que receberão as solicitações do balanceador de carga. Abra o arquivo de configuração do Nginx e adicione as seguintes linhas para cada backend:
 
-```
-upstream backend_cluster {
-server ip_do_backend1:porta;
-server ip_do_backend2:porta;
+Iniciando bloco de código.
+
+upstream backend_cluster  { 
+
+server ip_do_backend1:porta ; 
+
+server ip_do_backend2:porta ; 
+
 # Adicione mais servidores conforme necessário
-}
-```
+
+ } 
+
+Fechando bloco de código.
+
 
 Certifique-se de substituir `ip_do_backend1` e `ip_do_backend2` pelos endereços IP dos seus servidores backend e `porta` pela porta em que eles estão ouvindo as solicitações.
 
 Item. 2. Configurar o balanceador de carga: Agora, você precisa configurar o balanceador de carga propriamente dito. Adicione as seguintes linhas ao seu arquivo de configuração:
 
-```
-server {
-listen 80;
-server_name seu_dominio.com;
+Iniciando bloco de código.
 
-location / {
-proxy_pass http://backend_cluster;
-proxy_set_header Host $host;
-proxy_set_header X-Real-IP $remote_addr;
-}
-}
-```
+server  { 
+
+listen 80 ; 
+
+server_name seu_dominio . com ; 
+
+
+location  /   { 
+
+proxy_pass http: /  / backend_cluster ; 
+
+proxy_set_header Host $host ; 
+
+proxy_set_header X - Real - IP $remote_addr ; 
+
+ } 
+
+ } 
+
+Fechando bloco de código.
+
 
 Lembre-se de substituir `seu_dominio.com` pelo seu próprio domínio.
 
@@ -115,9 +145,12 @@ Item. 4. `reopen`: Reabre os arquivos de log do Nginx. Isso é útil quando voc�
 
 Portanto, o parâmetro `-s` do Nginx é seguido por um desses comandos para controlar o comportamento do servidor. Por exemplo, para recarregar a configuração do Nginx, você pode usar o seguinte comando:
 
-```bash
-nginx -s reload
-```
+Iniciando bloco de código. bash.
+
+nginx  - s reload
+
+Fechando bloco de código.
+
 
 Certifique-se de ter permissões suficientes para enviar comandos para o processo principal do Nginx, pois geralmente é necessário executar o comando como usuário root ou usar o sudo.
 
@@ -160,85 +193,147 @@ O Nginx é um servidor web de alto desempenho e pode ser usado como um balancead
 Item. 1. Balanceamento de carga baseado em round-robin: O Nginx distribui as solicitações de forma igualitária entre os servidores backend. Cada solicitação subsequente é enviada para o próximo servidor na lista, seguindo uma ordem circular.
 
 Exemplo de configuração:
-```
-http {
-    upstream backend {
-        server backend1.example.com;
-        server backend2.example.com;
-        server backend3.example.com;
-    }
+Iniciando bloco de código.
 
-    server {
-        listen 80;
-        location / {
-            proxy_pass http://backend;
-        }
-    }
-}
-```
+http  { 
+
+    upstream backend  { 
+
+        server backend1 . example . com ; 
+
+        server backend2 . example . com ; 
+
+        server backend3 . example . com ; 
+
+     } 
+
+
+    server  { 
+
+        listen 80 ; 
+
+        location  /   { 
+
+            proxy_pass http: /  / backend ; 
+
+         } 
+
+     } 
+
+ } 
+
+Fechando bloco de código.
+
 
 Item. 2. Balanceamento de carga ponderado: Neste método, você pode atribuir um peso a cada servidor backend com base em sua capacidade de lidar com solicitações. O Nginx distribuirá as solicitações proporcionalmente aos pesos atribuídos.
 
 Exemplo de configuração:
-```
-http {
-    upstream backend {
-        server backend1.example.com weight=3;
-        server backend2.example.com weight=2;
-        server backend3.example.com weight=1;
-    }
+Iniciando bloco de código.
 
-    server {
-        listen 80;
-        location / {
-            proxy_pass http://backend;
-        }
-    }
-}
-```
+http  { 
+
+    upstream backend  { 
+
+        server backend1 . example . com weight = 3 ; 
+
+        server backend2 . example . com weight = 2 ; 
+
+        server backend3 . example . com weight = 1 ; 
+
+     } 
+
+
+    server  { 
+
+        listen 80 ; 
+
+        location  /   { 
+
+            proxy_pass http: /  / backend ; 
+
+         } 
+
+     } 
+
+ } 
+
+Fechando bloco de código.
+
 
 Item. 3. Balanceamento de carga baseado em IP hash: O Nginx usa o endereço IP do cliente para calcular um hash e, em seguida, envia solicitações subsequentes do mesmo cliente para o mesmo servidor backend. Isso é útil quando você deseja manter a persistência de sessão para um cliente específico.
 
 Exemplo de configuração:
-```
-http {
-    upstream backend {
-        ip_hash;
-        server backend1.example.com;
-        server backend2.example.com;
-        server backend3.example.com;
-    }
+Iniciando bloco de código.
 
-    server {
-        listen 80;
-        location / {
-            proxy_pass http://backend;
-        }
-    }
-}
-```
+http  { 
+
+    upstream backend  { 
+
+        ip_hash ; 
+
+        server backend1 . example . com ; 
+
+        server backend2 . example . com ; 
+
+        server backend3 . example . com ; 
+
+     } 
+
+
+    server  { 
+
+        listen 80 ; 
+
+        location  /   { 
+
+            proxy_pass http: /  / backend ; 
+
+         } 
+
+     } 
+
+ } 
+
+Fechando bloco de código.
+
 
 Item. 4. Balanceamento de carga baseado em algoritmos mais avançados: O Nginx também suporta outros métodos de balanceamento de carga, como least_conn (encaminha solicitações para o servidor com a menor quantidade de conexões ativas), ip_hash (balanceamento baseado em hash de endereço IP), entre outros.
 
 Exemplo de configuração:
 
-```
-http {
-    upstream backend {
-        least_conn;
-        server backend1.example.com;
-        server backend2.example.com;
-        server backend3.example.com;
-    }
+Iniciando bloco de código.
 
-    server {
-        listen 80;
-        location / {
-            proxy_pass http://backend;
-        }
-    }
-}
-```
+http  { 
+
+    upstream backend  { 
+
+        least_conn ; 
+
+        server backend1 . example . com ; 
+
+        server backend2 . example . com ; 
+
+        server backend3 . example . com ; 
+
+     } 
+
+
+    server  { 
+
+        listen 80 ; 
+
+        location  /   { 
+
+            proxy_pass http: /  / backend ; 
+
+         } 
+
+     } 
+
+ } 
+
+Fechando bloco de código.
+
 
 Esses são apenas alguns exemplos de métodos de balanceamento de carga disponíveis no Nginx. A escolha do método adequado depende dos requisitos e da infraestrutura do seu aplicativo. Você pode encontrar mais detalhes na documentação oficial do Nginx.
 
@@ -251,9 +346,12 @@ Item. 1. `worker_processes`:
 - O valor padrão é geralmente definido como o número de núcleos do processador disponíveis no servidor. O Nginx pode aproveitar os recursos do sistema, distribuindo o trabalho entre vários processos de trabalho.
 - É recomendado ajustar esse valor com base no hardware do servidor e na carga esperada. Um valor muito baixo pode limitar o desempenho, enquanto um valor muito alto pode levar a um consumo excessivo de recursos.
 - Exemplo de configuração:
-     ```
-     worker_processes 4;
-```
+Iniciando bloco de código.
+
+     worker_processes 4 ; 
+
+Fechando bloco de código.
+
 
 Item. 2. `worker_connections`:
 - O `worker_connections` define o número máximo de conexões simultâneas que um processo de trabalho pode manipular. Isso inclui conexões HTTP, HTTPS, conexões de proxy, entre outras.
@@ -261,11 +359,16 @@ Item. 2. `worker_connections`:
 - É importante definir um valor adequado para `worker_connections` para lidar com a carga esperada. Se o valor for muito baixo, pode ocorrer a recusa de conexões quando o limite for atingido.
 - É recomendado calcular o valor máximo possível com base nos recursos do servidor e nos requisitos de desempenho. Uma fórmula comum é multiplicar o número de `worker_processes` pelo valor desejado de `worker_connections`.
 - Exemplo de configuração:
-     ```
-     events {
-         worker_connections 1024;
-     }
-```
+Iniciando bloco de código.
+
+     events  { 
+
+         worker_connections 1024 ; 
+
+      } 
+
+Fechando bloco de código.
+
 
 É importante ajustar essas configurações de acordo com o ambiente e a carga esperada do seu servidor Nginx. Monitorar o desempenho do servidor e realizar testes de carga pode ajudar a determinar os valores ideais para obter o melhor desempenho e a capacidade de lidar com a carga de solicitações de forma eficiente.
 
@@ -275,53 +378,88 @@ O NGINX Open Source suporta quatro métodos de balanceamento de carga, e o NGINX
 
 Item. 1. Round Robin - As solicitações são distribuídas igualmente entre os servidores, levando em consideração os pesos dos servidores. Este método é usado por padrão (não há diretiva para ativá-lo):
 
-    ```nginx
-    upstream backend {
+Iniciando bloco de código. nginx.
+
+    upstream backend  { 
+
        # nenhum método de balanceamento de carga é especificado para o Round Robin
-       server backend1.example.com;
-       server backend2.example.com;
-    }
-```
+
+       server backend1 . example . com ; 
+
+       server backend2 . example . com ; 
+
+     } 
+
+Fechando bloco de código.
+
 
 Item. 2. Least Connections - Uma solicitação é enviada para o servidor com o menor número de conexões ativas, novamente levando em consideração os pesos dos servidores:
 
-    ```nginx
-    upstream backend {
-        least_conn;
-        server backend1.example.com;
-        server backend2.example.com;
-    }
-```
+Iniciando bloco de código. nginx.
+
+    upstream backend  { 
+
+        least_conn ; 
+
+        server backend1 . example . com ; 
+
+        server backend2 . example . com ; 
+
+     } 
+
+Fechando bloco de código.
+
 
 Item. 3. IP Hash - O servidor para o qual uma solicitação é enviada é determinado pelo endereço IP do cliente. Nesse caso, os três primeiros octetos do endereço IPv4 ou o endereço IPv6 completo são usados para calcular o valor de hash. O método garante que solicitações do mesmo endereço sejam enviadas para o mesmo servidor, a menos que ele não esteja disponível.
 
-    ```nginx
-    upstream backend {
-        ip_hash;
-        server backend1.example.com;
-        server backend2.example.com;
-    }
-```
+Iniciando bloco de código. nginx.
+
+    upstream backend  { 
+
+        ip_hash ; 
+
+        server backend1 . example . com ; 
+
+        server backend2 . example . com ; 
+
+     } 
+
+Fechando bloco de código.
+
 
 Se um dos servidores precisa ser temporariamente removido da rota de balanceamento de carga, ele pode ser marcado com o parâmetro `down` para preservar o hash atual dos endereços IP dos clientes. As solicitações que seriam processadas por esse servidor são automaticamente enviadas para o próximo servidor do grupo:
 
-    ```nginx
-    upstream backend {
-        server backend1.example.com;
-        server backend2.example.com;
-        server backend3.example.com down;
-    }
-```
+Iniciando bloco de código. nginx.
+
+    upstream backend  { 
+
+        server backend1 . example . com ; 
+
+        server backend2 . example . com ; 
+
+        server backend3 . example . com down ; 
+
+     } 
+
+Fechando bloco de código.
+
 
 Item. 4. Generic Hash - O servidor para o qual uma solicitação é enviada é determinado por uma chave definida pelo usuário, que pode ser uma sequência de texto, uma variável ou uma combinação. Por exemplo, a chave pode ser um par de endereço IP de origem e porta, ou um URI, como neste exemplo:
 
-    ```nginx
-    upstream backend {
-        hash $request_uri consistent;
-        server backend1.example.com;
-        server backend2.example.com;
-    }
-```
+Iniciando bloco de código. nginx.
+
+    upstream backend  { 
+
+        hash $request_uri consistent ; 
+
+        server backend1 . example . com ; 
+
+        server backend2 . example . com ; 
+
+     } 
+
+Fechando bloco de código.
+
 
 O parâmetro opcional `consistent` para a diretiva `hash` habilita o balanceamento de carga hash consistente ketama. As solicitações são distribuídas igualmente entre todos os servidores upstream com base no valor de chave hash definido pelo usuário. Se um servidor upstream for adicionado ou removido de um grupo upstream, apenas algumas chaves serão remapeadas, o que minimiza as perdas de cache no caso de servidores de cache de balanceamento de carga ou outras aplicações que acumulam estado.
 
@@ -332,13 +470,20 @@ Item. 5. Least Time (somente NGINX Plus) - Para cada solicitação, o NGINX Plus
 
 - `last_byte inflight` - Tempo para receber a resposta completa do servidor, levando em consideração solicitações incompletas
 
-    ```nginx
-    upstream backend {
-        least_time header;
-        server backend1.example.com;
-        server backend2.example.com;
-    }
-```
+Iniciando bloco de código. nginx.
+
+    upstream backend  { 
+
+        least_time header ; 
+
+        server backend1 . example . com ; 
+
+        server backend2 . example . com ; 
+
+     } 
+
+Fechando bloco de código.
+
 
 Item. 6. Random - Cada solicitação é enviada para um servidor selecionado aleatoriamente. Se o parâmetro `two` for especificado, primeiro o NGINX seleciona aleatoriamente dois servidores levando em consideração os pesos dos servidores e, em seguida, escolhe um desses servidores usando o método especificado:
 
@@ -346,15 +491,24 @@ Item. 6. Random - Cada solicitação é enviada para um servidor selecionado ale
 - `least_time=header` (NGINX Plus) - O menor tempo médio para receber o cabeçalho de resposta do servidor (`$upstream_header_time`)
 - `least_time=last_byte` (NGINX Plus) - O menor tempo médio para receber a resposta completa do servidor (`$upstream_response_time`)
 
-    ```nginx
-    upstream backend {
-        random two least_time=last_byte;
-        server backend1.example.com;
-        server backend2.example.com;
-        server backend3.example.com;
-        server backend4.example.com;
-    }
-```
+Iniciando bloco de código. nginx.
+
+    upstream backend  { 
+
+        random two least_time = last_byte ; 
+
+        server backend1 . example . com ; 
+
+        server backend2 . example . com ; 
+
+        server backend3 . example . com ; 
+
+        server backend4 . example . com ; 
+
+     } 
+
+Fechando bloco de código.
+
 
 O método de balanceamento de carga **Random** deve ser usado para ambientes distribuídos em que vários balanceadores de carga estão enviando solicitações para o mesmo conjunto de servidores backend. Para ambientes em que o balanceador de carga tem uma visão completa de todas as solicitações, use outros métodos de balanceamento de carga, como round robin, least connections e least time.
 

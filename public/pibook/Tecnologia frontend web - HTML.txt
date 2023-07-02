@@ -26,33 +26,57 @@ Aqui está um exemplo básico de como declarar um manifesto de cache em HTML:
 
 Item. 1. Crie um arquivo JSON chamado `manifest.json` com as configurações desejadas. Por exemplo:
 
-```json
-{
-  "name": "Meu PWA",
-  "short_name": "PWA",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
-  "icons": [
-    {
-      "src": "/path/to/icon.png",
-      "sizes": "192x192",
-      "type": "image/png"
-    }
-  ],
-  "cache": [
-    "/path/to/file1.css",
-    "/path/to/file2.js"
-  ]
-}
-```
+Iniciando bloco de código. json.
+
+ { 
+
+  "name": "Meu PWA" , 
+
+  "short_name": "PWA" , 
+
+  "start_url": " / " , 
+
+  "display": "standalone" , 
+
+  "background_color": "#ffffff" , 
+
+  "theme_color": "#000000" , 
+
+  "icons":  [ 
+
+     { 
+
+      "src": " / path / to / icon . png" , 
+
+      "sizes": "192x192" , 
+
+      "type": "image / png"
+
+     } 
+
+   ]  , 
+
+  "cache":  [ 
+
+    " / path / to / file1 . css" , 
+
+    " / path / to / file2 . js"
+
+   ] 
+
+ } 
+
+Fechando bloco de código.
+
 
 Item. 2. Em seu arquivo HTML, adicione a seguinte tag `<link>` no cabeçalho para especificar o manifesto:
 
-```html
-<link rel="manifest" href="/path/to/manifest.json">
-```
+Iniciando bloco de código. html.
+
+<link rel = "manifest" href = " / path / to / manifest . json">
+
+Fechando bloco de código.
+
 
 Certifique-se de substituir `/path/to/` pelos caminhos corretos em seu servidor.
 
@@ -70,21 +94,33 @@ Item. 1. Crie um arquivo de texto chamado `manifest.appcache`. Este arquivo deve
 
 Item. 2. Dentro do arquivo `manifest.appcache`, liste os arquivos que você deseja armazenar em cache, incluindo HTML, CSS, JavaScript, imagens e outros recursos estáticos. Por exemplo:
 
-```
+Iniciando bloco de código.
+
 CACHE MANIFEST
-# Versão do manifesto: v1.0
+
+# Versão do manifesto: v1 . 0
+
 
 CACHE:
-index.html
-styles.css
-script.js
-image.jpg
+
+index . html
+
+styles . css
+
+script . js
+
+image . jpg
+
 
 NETWORK:
-*
+
+ * 
+
 
 FALLBACK:
-```
+
+Fechando bloco de código.
+
 
 - A seção `CACHE:` lista os arquivos que serão armazenados em cache.
 - A seção `NETWORK:` especifica quais recursos devem ser acessados ​​pela rede (online). O caractere curinga `*` indica que todos os recursos serão buscados na rede.
@@ -92,17 +128,28 @@ FALLBACK:
 
 Item. 3. Em seu arquivo HTML, adicione a seguinte tag `<html>` no cabeçalho para especificar o manifesto:
 
-```html
+Iniciando bloco de código. html.
+
 <!DOCTYPE html>
-<html manifest="/path/to/manifest.appcache">
+
+<html manifest = " / path / to / manifest . appcache">
+
 <head>
-  <!-- Seu cabeçalho HTML -->
-</head>
+
+  <! -  -  Seu cabeçalho HTML  -  - >
+
+< / head>
+
 <body>
-  <!-- Conteúdo do seu site -->
-</body>
-</html>
-```
+
+  <! -  -  Conteúdo do seu site  -  - >
+
+< / body>
+
+< / html>
+
+Fechando bloco de código.
+
 
 Certifique-se de substituir `/path/to/` pelo caminho correto em seu servidor.
 
