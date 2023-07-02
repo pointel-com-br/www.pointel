@@ -1,7 +1,5 @@
 # aartc.py - Automatic Article Compile
 
-# // [ TODO ] - Não pode tirar a endentação de dentro de blocos de código
-
 
 import os
 import re
@@ -117,6 +115,7 @@ def adjust_only_dots(text):
 
 
 def adjust_broken(text):
+    print('Ajustando linhas quebradas...')
     i = 0
     result = []
     while i < len(text):
@@ -139,14 +138,23 @@ def adjust_broken(text):
 
 
 def adjust_temp(text):
+    print('Ajustando elementos temporários...')
     result = []
     for line in text:
-        
+        if line.startswith("Capítulo. "):
+            line = "# " + line[len("Capítulo. "):]
+        elif line.startswith("Tópico. "):
+            line = "# " + line[len("Tópico. "):]
+        elif line.startswith("Item. "):
+            if len(line) > len("Item. ") + 2:
+                next_char = line[len("Item. ")]
+                if next_char.isdigit():
+                    line = line[len("Item. "):]
         result.append(line)
     return result
 
 def list_paths():
-    return [p for p in os.listdir('.') if p[-4:] == '.txt']
+    return [p for p in os.listdir('.') if p[-3:] == '.md']
 
 
 def read_text(path):
@@ -163,6 +171,7 @@ def adjust_text(text, path):
     text = adjust_items(text)
     text = adjust_lost_numbers(text)
     text = adjust_broken(text)
+    text = adjust_temp(text)
     return text
 
 
