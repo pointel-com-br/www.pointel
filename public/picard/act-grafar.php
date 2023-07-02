@@ -1,6 +1,6 @@
 <?php
 $id = $_GET['id'] ?? -1;
-$tag = '';
+$tag = $_GET['tag'] ?? '';
 $question = '';
 $answer = '';
 

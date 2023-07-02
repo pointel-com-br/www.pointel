@@ -14,7 +14,7 @@ if (!str_ends_with($answer, ".")) {
 }
 
 $message = 'Processando...';
-$retorno = 'index.php?action=grafar';
+$retorno = 'index.php?action=grafar&tag=' . $tag;
 if ($tag == '' || $question == '' || $answer == '') {
     $message = 'Erro: dados incompletos.';
 } else {
