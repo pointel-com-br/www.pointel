@@ -156,7 +156,6 @@ def adjust_text_hierarchy(text):
     return result
 
 
-
 def adjust_text_items(text):
     print('Ajustando texto - itens...')
     for i in range(len(text)):
@@ -179,6 +178,49 @@ def adjust_text_items(text):
     return text
 
 
+def adjust_text_code_blocks(text):
+    print('Ajustando texto - blocos de código...')
+    result = []
+    inside_code_block = False
+    for line in text:
+        test = line.strip()
+        if test.startswith("```"):
+            suffix = test[3:] if len(test) > 3 else ""
+            if not inside_code_block:
+                test = "Iniciando bloco de código."
+            else:
+                test = "Fechando bloco de código."
+            if suffix:
+                test += " " + suffix
+            if not test.endswith("."):
+                test += "." 
+            result.append(test + "\n")
+            inside_code_block = not inside_code_block
+        else: 
+            if inside_code_block:
+                test = line.rstrip()
+                line = line.replace('.', ' . ')
+                line = line.replace(',', ' , ')
+                line = line.replace(';', ' ; ')
+                line = line.replace('-', ' - ')
+                line = line.replace('+', ' + ')
+                line = line.replace('/', ' / ')
+                line = line.replace('\\', ' \\ ')
+                line = line.replace('=', ' = ')
+                line = line.replace('(', ' ( ')
+                line = line.replace(')', ' ) ')
+                line = line.replace('[', ' [ ')
+                line = line.replace(']', ' ] ')
+                line = line.replace('{', ' { ')
+                line = line.replace('}', ' } ')
+                if test and not test.endswith("."):
+                    test += "." 
+                result.append(test + "\n")
+            else:
+                result.append(line)
+    return result
+
+
 def adjust_text_temp(text):
     return text
 
@@ -198,6 +240,7 @@ def adjust_text(text, path):
     print('Ajustando texto: ' + path)
     text = adjust_text_hierarchy(text)
     text = adjust_text_items(text)
+    text = adjust_text_code_blocks(text)
     text = adjust_text_temp(text)
     return text
 
