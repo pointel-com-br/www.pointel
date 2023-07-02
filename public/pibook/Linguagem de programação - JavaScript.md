@@ -217,3 +217,49 @@ Ao executar os testes, você verá os resultados indicando se cada teste passou 
 
 Essas são as etapas básicas para escrever testes unitários em JavaScript usando o Jest. Cada framework de teste tem sua própria sintaxe e recursos específicos, mas a ideia geral é a mesma: definir funções de teste, executá-las e verificar se os resultados estão corretos usando asserções. Você pode explorar recursos avançados desses frameworks, como testes assíncronos, mocks e spies, para lidar com casos de teste mais complexos.
 
+
+# Quais os tipos de laços de repetição do JavaScript
+
+O JavaScript oferece várias formas de criar laços de repetição, permitindo que você execute blocos de código repetidamente. Abaixo estão os tipos de laços de repetição disponíveis em JavaScript:
+
+1. **for**: O laço `for` é usado para iterar por uma sequência de valores por um número específico de vezes. Ele consiste em três partes: inicialização, condição e expressão final.
+
+   ```javascript
+   for (inicialização; condição; expressão final) {
+       // código a ser executado
+   }
+   ```
+
+2. **for...in**: O laço `for...in` é usado para iterar sobre as propriedades de um objeto. Ele percorre todas as propriedades enumeráveis do objeto.
+
+   ```javascript
+   for (variavel in objeto) {
+       // código a ser executado
+   }
+   ```
+
+3. **for...of**: O laço `for...of` é usado para iterar sobre elementos iteráveis, como arrays, strings, etc. Ele itera diretamente sobre os valores dos elementos, em vez dos índices ou chaves.
+
+   ```javascript
+   for (variavel of iteravel) {
+       // código a ser executado
+   }
+   ```
+
+4. **while**: O laço `while` é usado para repetir um bloco de código enquanto uma condição específica for verdadeira.
+
+   ```javascript
+   while (condição) {
+       // código a ser executado
+   }
+   ```
+
+5. **do...while**: O laço `do...while` é semelhante ao `while`, mas a condição é verificada após a execução do bloco de código. Isso garante que o bloco de código seja executado pelo menos uma vez.
+
+   ```javascript
+   do {
+       // código a ser executado
+   } while (condição);
+   ```
+
+Cada tipo de laço de repetição tem suas próprias características e é adequado para diferentes situações. A escolha do tipo de laço depende dos requisitos e da lógica específica do seu código.

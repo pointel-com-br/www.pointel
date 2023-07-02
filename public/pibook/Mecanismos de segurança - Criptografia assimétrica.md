@@ -135,4 +135,22 @@ Aqui está uma visão geral de como o algoritmo ECDSA funciona:
 
    h) Verificação da assinatura: A assinatura é considerada válida se o valor "r" calculado anterior
 
-   
+# Como se garante o não repúdio com a criptografia assimétrica
+
+A criptografia assimétrica, também conhecida como criptografia de chave pública, é uma técnica que utiliza um par de chaves: uma chave pública e uma chave privada. A chave pública é usada para criptografar os dados e a chave privada correspondente é usada para descriptografar os dados.
+
+Para garantir o não repúdio com a criptografia assimétrica, é necessário envolver o conceito de assinatura digital. A assinatura digital é uma técnica que utiliza a chave privada para criar uma "assinatura" única para uma mensagem ou documento. Essa assinatura é anexada à mensagem ou documento e pode ser verificada usando a chave pública correspondente.
+
+O processo de garantir o não repúdio com a criptografia assimétrica e a assinatura digital geralmente envolve os seguintes passos:
+
+1. O remetente gera um par de chaves: uma chave pública e uma chave privada.
+
+2. O remetente usa sua chave privada para criar uma assinatura digital da mensagem ou documento que deseja enviar. A assinatura digital é gerada aplicando um algoritmo de hash (como SHA-256) ao conteúdo da mensagem e, em seguida, criptografando o resultado com a chave privada.
+
+3. O remetente envia a mensagem ou documento, juntamente com a assinatura digital, para o destinatário.
+
+4. O destinatário usa a chave pública do remetente para verificar a assinatura digital. Isso envolve descriptografar a assinatura digital usando a chave pública e aplicar o mesmo algoritmo de hash ao conteúdo da mensagem recebida. Se os resultados coincidirem, isso indica que a assinatura é válida e a mensagem não foi alterada desde que foi assinada pelo remetente.
+
+Ao verificar a assinatura digital, o destinatário pode ter confiança de que a mensagem realmente veio do remetente legítimo e não foi alterada durante a transmissão. Isso garante o não repúdio, pois o remetente não pode negar ter enviado a mensagem, uma vez que sua assinatura digital é única e só pode ser gerada usando sua chave privada.
+
+É importante ressaltar que a segurança da criptografia assimétrica e da assinatura digital depende da proteção adequada das chaves privadas. As chaves privadas devem ser mantidas em segredo e protegidas contra acesso não autorizado.

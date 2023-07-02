@@ -18,3 +18,27 @@ Item. 5. Gerenciamento de Navegação: O JSF oferece recursos para gerenciar a n
 Item. 6. Suporte a Internacionalização: O JSF suporta internacionalização, permitindo que os aplicativos sejam adaptados para diferentes idiomas e culturas. É possível definir mensagens localizadas e formatos de data, número e moeda de acordo com as preferências do usuário.
 
 O JSF é uma tecnologia madura e amplamente adotada para o desenvolvimento de interfaces web em aplicativos Java. Ele fornece um conjunto abrangente de recursos para a criação de interfaces de usuário sofisticadas e é integrado a outras tecnologias JEE, como EJB e JPA, para criar aplicativos empresariais completos.
+
+# Principais anotações do JSF no JavaEE
+
+No Java EE, as principais anotações utilizadas com o JSF (JavaServer Faces) são:
+
+1. `@ManagedBean`: Indica que a classe é um managed bean do JSF. Um managed bean é um componente gerenciado pelo JSF que pode ser usado para controlar a lógica de negócio e interação com a interface do usuário.
+
+2. `@RequestScoped`: Especifica o escopo de requisição para o managed bean. Um managed bean com escopo de requisição é criado e mantido durante uma única requisição do cliente e é destruído quando a resposta é enviada de volta ao cliente.
+
+3. `@SessionScoped`: Especifica o escopo de sessão para o managed bean. Um managed bean com escopo de sessão é criado e mantido durante toda a sessão do usuário e é destruído quando a sessão é encerrada.
+
+4. `@ApplicationScoped`: Especifica o escopo de aplicação para o managed bean. Um managed bean com escopo de aplicação é criado e mantido durante toda a vida da aplicação e é compartilhado por todos os usuários.
+
+5. `@ViewScoped`: Especifica o escopo de visualização para o managed bean. Um managed bean com escopo de visualização é criado e mantido enquanto o usuário está navegando pela mesma página do JSF e é destruído quando o usuário muda para uma página diferente.
+
+6. `@ManagedProperty`: Injeta um valor em um managed bean. Pode ser usado para injetar valores de propriedades de outros managed beans ou valores obtidos a partir de parâmetros da requisição.
+
+7. `@FacesConverter`: Indica que a classe é um conversor do JSF. Um conversor é usado para converter valores entre a representação da interface do usuário e a representação interna do modelo de dados.
+
+8. `@FacesValidator`: Indica que a classe é um validador do JSF. Um validador é usado para validar os dados fornecidos pelo usuário antes de serem processados pelo aplicativo.
+
+9. `@ManagedBean(name = "nomeBean")`: Permite definir um nome personalizado para o managed bean. O nome definido pode ser usado para fazer referência ao managed bean em outras partes do código JSF.
+
+Essas são algumas das principais anotações utilizadas com o JSF no Java EE. Elas fornecem recursos importantes para o desenvolvimento de interfaces de usuário interativas e dinâmicas, como o controle de escopos, a injeção de dependência e a validação de dados.

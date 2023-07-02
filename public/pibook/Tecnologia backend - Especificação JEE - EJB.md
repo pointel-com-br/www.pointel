@@ -22,3 +22,29 @@ Item. 4. Transações: Os EJBs suportam transações declarativas, o que signifi
 Item. 5. Segurança: Os EJBs suportam recursos de segurança, permitindo a configuração de autenticação, autorização e controle de acesso para proteger o acesso aos componentes de negócio. É possível definir regras de segurança nas anotações ou por meio de configurações no arquivo de implantação do aplicativo.
 
 Os EJBs fornecem uma maneira poderosa e escalável de implementar a lógica de negócio em aplicativos empresariais Java. Eles abstraem a complexidade dos serviços de infraestrutura, como persistência de dados, transações e segurança, permitindo que os desenvolvedores se concentrem na lógica de negócio essencial do aplicativo.
+
+# Principais anotações do EJB no Java EE
+
+No Java EE, as principais anotações utilizadas com o EJB (Enterprise JavaBeans) são:
+
+1. `@Stateless`: Indica que a classe é um bean sem estado. Os beans sem estado não mantêm informações de estado entre chamadas de cliente.
+
+2. `@Stateful`: Indica que a classe é um bean com estado. Os beans com estado mantêm informações de estado entre chamadas de cliente.
+
+3. `@Singleton`: Indica que a classe é um bean singleton. Os beans singleton permitem a criação de uma única instância compartilhada por vários clientes.
+
+4. `@Local`: Especifica a interface local para o EJB. A interface local é usada quando o EJB é acessado dentro do mesmo aplicativo ou módulo.
+
+5. `@Remote`: Especifica a interface remota para o EJB. A interface remota é usada quando o EJB é acessado de um aplicativo ou módulo diferente.
+
+6. `@EJB`: Injeta uma referência para outro EJB. Pode ser usada para injetar um EJB local ou remoto em outro EJB ou em um componente gerenciado pelo container.
+
+7. `@TransactionAttribute`: Especifica o atributo de transação para métodos de negócio do EJB. Pode ser usado para definir o comportamento de transação, como `REQUIRED`, `REQUIRES_NEW`, `SUPPORTS`, entre outros.
+
+8. `@TransactionManagement`: Especifica a estratégia de gerenciamento de transação para o EJB. Pode ser usado para definir o gerenciamento de transação como `CONTAINER` (gerenciamento pelo container) ou `BEAN` (gerenciamento pelo bean).
+
+9. `@Interceptors`: Especifica um ou mais interceptors para o EJB. Os interceptors são componentes que podem interceptar a execução de métodos do EJB, permitindo a execução de lógica adicional antes ou depois da invocação do método.
+
+10. `@Schedule`: Especifica um método de negócio para ser executado em um cronograma. Pode ser usado para agendar a execução de tarefas automáticas em um EJB.
+
+Essas são algumas das principais anotações utilizadas com o EJB no Java EE. Elas fornecem recursos importantes para o desenvolvimento de aplicativos empresariais, como gerenciamento de transações, injeção de dependência e agendamento de tarefas.

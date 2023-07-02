@@ -20,3 +20,19 @@ Item. 6. Transações: A JPA inclui suporte a transações, permitindo que você
 Item. 7. Provedores JPA: A JPA é apenas uma especificação e requer um provedor JPA real para ser executada. Alguns exemplos populares de provedores JPA incluem Hibernate, EclipseLink e OpenJPA.
 
 A JPA simplifica o desenvolvimento de aplicativos que requerem acesso a um banco de dados relacional, permitindo que você trabalhe com objetos Java em vez de lidar diretamente com consultas SQL e operações de banco de dados. Ela abstrai os detalhes de baixo nível do mapeamento objeto-relacional e fornece uma API consistente e padronizada para interagir com o banco de dados.
+
+# Estados de uma entidade do JPA no JavaEE
+
+No contexto do JPA (Java Persistence API) no Java EE, uma entidade pode ter diferentes estados durante seu ciclo de vida. Esses estados são definidos pela especificação JPA e são os seguintes:
+
+1. **Transient**: Uma entidade é considerada transitória quando foi criada usando o operador `new`, mas ainda não está associada a um contexto de persistência. Ela não possui uma representação persistente no banco de dados.
+
+2. **Managed**: Uma entidade está no estado gerenciado quando está associada a um contexto de persistência. Isso significa que o JPA está ciente da entidade e gerencia suas operações de persistência. Qualquer alteração feita na entidade será refletida no banco de dados quando ocorrer um commit na transação.
+
+3. **Detached**: Uma entidade está no estado destacado quando já foi gerenciada pelo JPA em algum momento, mas não está mais associada a um contexto de persistência ativo. Isso pode ocorrer quando uma transação é encerrada ou quando a entidade é explicitamente removida do contexto. Uma entidade destacada ainda tem um identificador persistente, mas as alterações feitas nela não serão sincronizadas automaticamente com o banco de dados.
+
+4. **Removed**: Uma entidade é marcada para remoção quando é solicitado explicitamente ao JPA que ela seja excluída do banco de dados. Essa operação será executada durante a próxima sincronização com o banco de dados.
+
+Além desses estados principais, também há um estado especial chamado **Refreshed** (atualizado). Esse estado ocorre quando uma entidade no estado destacado é reassociada a um contexto de persistência novamente usando o método `refresh()`.
+
+É importante entender esses estados para garantir o comportamento correto e prever possíveis problemas ao trabalhar com entidades no JPA. O JPA oferece métodos e APIs para manipular esses estados e realizar as operações adequadas em cada caso.

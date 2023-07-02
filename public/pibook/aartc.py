@@ -1,4 +1,4 @@
-# aartc.py - Automatic Article Compose
+# aartc.py - Automatic Article Compile
 
 # // [ TODO ] - Não pode tirar a endentação de dentro de blocos de código
 
