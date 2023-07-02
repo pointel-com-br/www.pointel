@@ -1,8 +1,6 @@
-Capítulo. Desenvolvimento de Informação - Visão computacional. Deep learning.
-
+# Desenvolvimento de Informação - Visão computacional. Deep learning.
 
 Índice
-
 
 Visão computacional
 
@@ -29,7 +27,6 @@ Redes Perceptron multicamadas recorrentes.
 Máquinas de Boltzmann
 
 Deep belief networks.
-
 
 VISÃo CoMPUTACIoNAL.
 
@@ -75,7 +72,6 @@ para classificação de imagens imitam essa capacidade humana começando com
 fotografias de
 outras margaridas usadas para reconhecer o padrão estético da flor.
 
-
 Figura 2 - Um modelo de aprendizado de máquina de classificação de imagens imito o sistema
 cognitivo humano.
 
@@ -114,7 +110,6 @@ de acordo com técnicas e problemas, veja a figura abaixo:
 1 Denoising é qualquer método de processamento de sinal que reconstrói um sinal de
 um sinal ruidoso.
 Seu objetivo é remover o ruído e preservar informações úteis.
-
 
 Artificial intelligence
 
@@ -159,7 +154,6 @@ margarida. Da
 mesma forma, projetaríamos e aplicaríamos diferentes conjuntos de regras para
 rosas, tulipas,
 girassóis e assim pordiante. Para classificar uma nova imagem.
-
 
 Esta descrição ilustra o considerável trabalho sob medida que foi necessário para criar
 modelos de
@@ -266,7 +260,6 @@ RNostnlBulge LNostritBulge
 
 RNostrilBase LNostnIBase
 
-
 RPuffer
 
 RLipUpperBend LlpUpper
@@ -276,7 +269,6 @@ LLipUpperBend
 RMouthCorner LMouthCorner
 
 RLipLowerBend j LLipLowerBend
-
 
 RJawEnd
 
@@ -319,7 +311,6 @@ multidão. A
 imagem da pessoa pode ser de frente ou de perfil.
 
 Etapa 2: Análise do rosto
-
 
 Depois, uma imagem do rosto é capturada e analisada. A maioria das
 tecnologias de
@@ -391,7 +382,6 @@ flutuação nos dados de pixel brutos; essas diferenças são significativas o s
 para que não
 possam sercorrigidas pela média ponderada dos valores RGB de pixel.
 
-
 Na figura acima temos à esquerda os gatos podem ser capturados em uma
 foto em uma
 variedade de poses, com diferentes cenários e condições de iluminação. Já a
@@ -429,7 +419,6 @@ objeto eles constituem.
 Conv. Module #1 Conv. Module #2 Classification
 
 Input
-
 
 No final de uma rede neural convolucional (RNC) há uma ou mais camadas totalmente
 conectadas
@@ -496,9 +485,7 @@ A partir dessa análise, podemos ver que o reconhecimento de objetos se refere a
 conjunto de
 tarefas desafiadoras de visão computacional.
 
-
 no
-
 
 Figura 4 - Visão geral das tarefas de visão computacional para reconhecimento de objetos
 
@@ -536,7 +523,6 @@ profundas. A figura abaixo demonstra que um redes neurais profundas é um
 subconjunto das
 soluções de DL. Vejamos:
 
-
 Resumindo: Rede neural profunda (DNN) é um subconjunto de DL. DL é um
 subconjunto do
 aprendizado de máquina (ML), que é um subconjunto da inteligência artificial (IA).
@@ -561,7 +547,6 @@ indicação de que tipo de objeto está na imagem
 2 Os tamanhos das diferentes formas ovais não representam o tamanho
 relativo de um campo em
 comparação com outro.
-
 
 I am a student
 
@@ -639,7 +624,6 @@ primeiro, a
 função que aplicamos na soma ponderada é a identidade, ou seja, não
 aplicamos função
 nenhuma; simplesmente passamos a soma ponderada adiante. No caso de regressão logística,
-
 
 aplicamos à soma ponderada uma função sigmoide (ou logística), que transforma o sinal
 de forma
@@ -759,7 +743,6 @@ empregando-se o
 todos os pontos por uma
 distância fixa na mesma direção em um sistema de coordenadas.
 
-
 compartilhamento de peso entre os neurônios, além de torná-los escassamente
 conectados.
 Esses conceitos são descritos a seguir.
@@ -791,7 +774,6 @@ Conforme
 ilustra a figura a seguir, uma camada convolucional para processamento de
 imagem tem uma
 topologia diferente, onde os neurônios são organizados em três dimensões.
-
 
 4 ►
 
@@ -842,7 +824,6 @@ com um tamanho de kernel de 3 x 3 agora terá 3 x 3 x 3 = 27 entradas.
 A figura abaixo ilustra três exemplos de como o campo receptivo de três neurônios
 distintos pode
 ser organizado para cobrir um subconjunto de pixels de uma imagem com três canais de cores.
-
 
 2x2 kernel, stride = 1
 
@@ -1048,7 +1029,6 @@ observação no tempo tiver muitas variáveis, defasá-las gerará um vetor x t�
 que talvez
 não caiba na memória!
 
-
 Não seria ótimo então um modelo que pudesse operarem sequências independentemente do seu
 tamanho e das suas variações? Melhor ainda seria se esse modelo não aumentasse de
 tamanho
@@ -1192,7 +1172,6 @@ o neurônio i. Nessa matriz, a diagonal principal terá sempre valor zero, pois 
 neurônios não
 estão ligados a si mesmos.
 
-
 Como a saída dos neurônios está ligada à entrada de todos os outros, elas são aqui
 chamadas de
 estados. Esses estados seguem a lógica booleana. A saída dos estados é dada
@@ -1210,7 +1189,6 @@ problema. Esse
 problema pode ser modelado como um problema de otimização, que busca minimizar a
 função de
 energia de uma rede baseada em um modelo de contorno ativo.
-
 
 Uma aplicação importante para esse tipo de problema é a caracterização de tumores
 cerebrais a
@@ -1352,9 +1330,7 @@ Algumas das famosas aplicações das LSTMs incluem:
 
 * Chatbots
 
-
 REDES PERCEPTRoN MULTICAMADAS RECoRRENTES.
-
 
 Inputs Weights
 m
@@ -1391,7 +1367,6 @@ disparador do
 operador XOR quando a entrada exibe uma característica ou outra, mas não ambas,
 significa "OR
 exclusivo").
-
 
 Um Multilayer Perceptron (MLP) é uma rede neural artificial composta por mais
 de um
@@ -1440,7 +1415,6 @@ continua jogando aquele jogo de ping-pong até que o erro não possa mais ser re
 (chegou ao
 mínimo possível). Este estado é conhecido como convergência.
 
-
 MÁQUINAS DE BoLTZMANN.
 
 Uma Máquina de Boltzmann é um tipo de rede neural recorrente estocástica. Pode ser
@@ -1483,7 +1457,6 @@ Isso é chamado de Deep Boltzmann Machines (DBM), uma Máquina de Boltzmann gera
 com
 muitas conexões ausentes.
 
-
 Em 2014, Salakhutdinov e Hinton apresentaram outra atualização para seu modelo,
 chamando-o
 de Máquinas Boltzmann Restritas. Elas restringem a conectividade para facilitar a
@@ -1523,7 +1496,6 @@ modelo generativo
 devemos aprender? Pode ser um modelo baseado em energia como uma Máquina de Boltzmann?
 Ou um modelo causal feito de neurônios? Ou um híbrido dos dois?
 
-
 Deep Belief Network (DBN)
 
 O Backfed Input Cell
@@ -1553,7 +1525,6 @@ Restritas
 camadas
 anterior e posterior. Os nós de qualquer camada única não se comunicam lateralmente.
 
-
 Esta pilha de RBMs pode terminar com uma camada Softmax para criar um
 classificador, ou
 simplesmente pode ajudar a agrupar dados não gravados em um cenário de
@@ -1573,5 +1544,4 @@ de
 vídeos e dados de captura de movimento. Outra aplicação das Deep Belief
 Networks é no
 Processamento de Linguagem Natural.
-
 

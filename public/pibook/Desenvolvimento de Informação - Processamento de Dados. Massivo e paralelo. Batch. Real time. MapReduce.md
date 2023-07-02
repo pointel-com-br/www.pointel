@@ -1,10 +1,8 @@
-Capítulo. Desenvolvimento de Informação - Processamento de Dados. Massivo e paralelo. Batch. Real time. MapReduce.
-
+# Desenvolvimento de Informação - Processamento de Dados. Massivo e paralelo. Batch. Real time. MapReduce.
 
 Índice
 
 1) Processamento de Dados
-
 
 Conteúdo da aula
 Processamento de Dados
@@ -17,7 +15,6 @@ Ferramentas de processamento e streaming de dados em tempo real
 CAVALCANTI
 
 PROFESSOR
-
 
 CoNTEÚDo DA AULA
 
@@ -165,7 +162,6 @@ aplicativos de
 aprendizado de máquina a demanda por processamento cresceu e a quantidade de usuários
 cresceu
 em diversas frentes. Alguns exemplos dessas aplicações incluem:
-
 
 * Modelagem de incêndios para auxiliar as equipes de bombeiros e ajudar a população
 
@@ -554,7 +550,6 @@ e Té o tempo de execução do aplicativo.
 
 Vejamos um exemplo ...
 
-
 O processador Intel Xeon E5-4660 de 16 núcleos tem uma potência de design térmico de
 120 W.
 Suponha que seu aplicativo use 20 desses processadores por 24 horas para ser executado
@@ -683,7 +678,6 @@ estaremos limitados pela parte serial. A figura as seguir visualiza
 essa limitação. Este
 dimensionamento de um problema de tamanho fixo é referido como dimensionamento forte.
 
-
 Figura 4 - Speedup para um problema de tamanho fixo de acordo com a Lei de Amdahl é mostrado em
 função do número de processadores.
 
@@ -721,7 +715,6 @@ mais do que apenas o poder do processador adicional. O dimensionamento em tempo 
 execução
 para este cenário, mostrado na figura a seguir, é chamado de dimensionamento fraco.
 
-
 Number of processors
 
 Figura 5 - Speedup para quando o tamanho de um problema cresce com o número de processadores
@@ -747,7 +740,6 @@ forte quanto o dimensionamento fraco são importantes porque abordam diferentes
 cenários de
 usuário.
 
-
 Strong scaling Total mesh size stays constant
 
 1000
@@ -756,9 +748,7 @@ I—II—II—II—I
 
 □ □□□
 
-
 1000
-
 
 □□□□
 
@@ -767,7 +757,6 @@ I—II—II—II—I
 Figura 6 - O dimensionamento forte mantém o tamanho geral de um problema e o divide em
 processadores adicionais. No escalonamento
 froco, o tamanho da malha permanece o mesmo paro cada processador e o tamanho total aumenta.
-
 
 O termo escalabilidade é frequentemente usado para se referir a se mais paralelismo
 pode ser
@@ -804,7 +793,6 @@ aplicativo puder ser
 distribuída, o tempo de execução geralmente também será dimensionado.
 
 Memory sizes for weak scaling with replicated and distributed arrays
-
 
 Array R
 Array D
@@ -865,7 +853,6 @@ A computação paralela requer a combinação de uma compreensão de hardware,
 software e
 paralelismo para desenvolver um aplicativo. É mais do que apenas passar mensagens ou encadear. O
 
-
 hardware e o software atuais oferecem muitas opções diferentes para levar a
 paralelização ao seu
 aplicativo. Algumas dessas opções podem ser combinadas para gerar ainda mais
@@ -916,7 +903,6 @@ desenvolvedor pode adotar
 
 * Paralelização baseada em thread
 
-
 * Vetorização
 
 * Processamento de fluxo
@@ -955,11 +941,11 @@ células. As etapas (resumidas aqui e descritas em detalhes posteriormente) para
 criar a malha
 espacial e preparar o cálculo são:
 
-Item. 1. Discretizar (dividir) o problema em células ou elementos menores
+1. Discretizar (dividir) o problema em células ou elementos menores
 
-Item. 2. Definir um kernel computacional (operação) para conduzir em cada elemento da malha
+2. Definir um kernel computacional (operação) para conduzir em cada elemento da malha
 
-Item. 3. Adicionar as seguintes camadas de paralelização em CPUs e GPUs para realizar o cálculo:
+3. Adicionar as seguintes camadas de paralelização em CPUs e GPUs para realizar o cálculo:
 
 o Vetorização — Trabalhe em mais de uma unidade de dados por vez
 o Tópicos—Implante mais de um caminho de computação para envolver mais núcleos
@@ -978,7 +964,6 @@ precoce de
 uma erupção vulcânica usando aprendizado de máquina. Para todas essas opções, a
 velocidade de
 cálculo é fundamental se quisermos que resultados em tempo real informem nossas decisões.
-
 
 Figura 9 - Um exemplo de domínio espacial 2D para uma simulação numérica. As simulações numéricas
 geralmente envolvem operações de
@@ -1008,7 +993,6 @@ de equações diferenciais parciais, um estêncil é um arranjo geométrico
 de um grupo nodal que se
 relaciona com o ponto de interesse usando uma rotina de aproximação numérica.
 
-
 PASSO 2: DEFINA UM KERNEL COMPUTACIONAL, OU OPERAÇÃO, PARA CONDUZIR EM CADA
 ELEMENTO DA MALHA
 
@@ -1027,7 +1011,6 @@ executa
 uma operação de desfoque usando uma média ponderada dos valores de estêncil.
 
 xj,i ~ (xj,i—l + xj-l,i + xj,i + xj,i+l +
-
 
 Na figura acima, um operador de estêncil de cinco pontos como um padrão cruzado na
 malha
@@ -1078,7 +1061,6 @@ Figura 11 - Uma operação vetorial especial é realizada em quatro unidades. Es
 executada em um único ciclo de clock com
 pouco custo de energia adicional à operação serial.
 
-
 ETAPA 4: THREADS PARA IMPLANTAR MAIS DE UM CAMINHO DE COMPUTAÇÃO PARA ENVOLVER
 MAIS NÚCLEOS DE PROCESSAMENTO
 
@@ -1103,7 +1085,6 @@ espaço entre as
 linhas como na figura abaixo.
 
 Vector unit
-
 
 Na figura acima observamos que este algoritmo pode ser paralelizado ainda mais
 distribuindo os
@@ -1158,7 +1139,6 @@ ii □ □□
 
 n«n
 
-
 □□□□□□□□
 
 □ □□ n
@@ -1171,7 +1151,6 @@ s
 Figuro 13 - Em umo GPU, o comprimento do vetor é muito moior do que em uma CPU. Aqui, blocos 8x8
 são distribuídos entre os grupos de
 trobolho do GPU.
-
 
 Esses são números impressionantes, mas, neste momento, devemos moderar as
 expectativas
@@ -1198,7 +1177,6 @@ começar apresentando uma tabela que resume as:
 Processamento em lote Processamento em tempo
 real
 
-
 Os dados estão em
 repouso
 
@@ -1214,14 +1192,12 @@ ilimitados
 Acesso a dados inteiros Acesso aos dados na transação
 atual/janela deslizante
 
-
 Dados processados em
 lotes
 
 O processamento é feito em
 evento, janela ou, no máximo,
 em nível de microlote
-
 
 Administração eficiente e
 fácil
@@ -1323,7 +1299,6 @@ ampliar ainda mais suas habilidades.
 
 #5. AMAZON KINESIS
 
-
 Com o Amazon Kinesis, as empresas podem criar aplicativos de streaming em tempo real
 usando
 bibliotecas Java e editor SQL. O Kinesis cuida do trabalho pesado de executar os
@@ -1340,9 +1315,7 @@ dos dados desejados. Mas, à medida que as demandas aumentam, ele também pode s
 usado para
 aprender algoritmos para análises aprofundadas.
 
-
 THIAGO CAVALCANTI
 
 PROFESSOR
-
 

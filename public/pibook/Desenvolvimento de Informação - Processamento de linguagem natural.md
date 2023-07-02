@@ -1,10 +1,8 @@
-Capítulo. Desenvolvimento de Informação - Processamento de linguagem natural.
-
+# Desenvolvimento de Informação - Processamento de linguagem natural.
 
 Índice
 
 1) Machine Lerning Aplicado - PLN
-
 
 Conteúdo da aula
 
@@ -40,13 +38,11 @@ CAVALCANTI
 
 PROFESSOR
 
-
 CoNTEÚDo DA AULA
 
-Item. 1.5 Noções de Processamento Natural de Linguagem. 1.6 Stop-words, stemização e n-grams.
-Item. 1.7 TF-
+1.5 Noções de Processamento Natural de Linguagem. 1.6 Stop-words, stemização e n-grams.
+1.7 TF-
 IDF. 1.8 Modelagem de tópicos (LDA, NMF). 1.9 Word embeddings: CBOW e Skip Gram.
-
 
 PRoCESSAMENTo DE LINGUAGEM NATURAL (PLN)
 
@@ -101,10 +97,8 @@ isso com um exemplo. Suponha que você tenha um arquivo de texto que contém sua
 chamadas de
 saída (ligações telefônicas que você fez) e dados de registro de SMS no seguinte formato:
 
-
 Campo 01 Campo 02 Campo 03 Campo 04
 Campo 05
-
 
 Data Hora Ligação ou SMS
 
@@ -175,7 +169,6 @@ texto. A figura
 abaixo mostra as ações que são desempenhadas em um fluxo padrão, de alto
 nível, de um
 processamento de linguagem natural.
-
 
 Entendimento da
 linguagem natural
@@ -264,7 +257,6 @@ portanto, o leitor pode dispensar o texto de origem e, ainda assim, apreender su
 informações
 principais.
 
-
 Devido a sua utilidade e aos avanços na área de
 Processamento de Línguas Naturais (PLN), é de
 grande interesse a automação do processo de
@@ -309,7 +301,6 @@ abstrativa.
 
 Abaixo vamos listar algumas aplicações de PLN em grau de complexidade crescente:
 
-
 >
 
 Verificação
@@ -339,7 +330,6 @@ texto
 * Detecção de idioma
 h á
 
-
 Resposta de
 perguntas
 
@@ -353,7 +343,6 @@ domínio fechado
 
 Extração de
 informação
-
 
 Traduçao
 automática de
@@ -371,8 +360,7 @@ frase de várias maneiras, dependendo da estrutura da frase em que você
 acredita. Antes de
 continuarmos, vamos fazer uma questão sobre o assunto:
 
-Item. 1. Sobre o processamento de linguagem natural (PLN) assinale a alternativa correta.
-
+1. Sobre o processamento de linguagem natural (PLN) assinale a alternativa correta.
 
 a) O processamento é sempre feito sobre uma linguagem formal, como o português.
 
@@ -401,15 +389,12 @@ e) (Errada). O processamento de linguagem natural é um subconjunto da inteligê
 
 Gabarito: C
 
-
 PRoCESSo DE PLN
 
 * ' 1
 
-
 *? 1
 r
-
 
 Aquisição de
 
@@ -418,7 +403,6 @@ Limpeza de
 - Pré-
 
 Engenharia de
-
 
 Monitoramento
 e atualização do
@@ -463,7 +447,6 @@ forte interseção com a mineração de texto. A figura abaixo apresenta um conj
 ações, dividida
 em etapas, que podem ser aplicadas aos pré-processamento em softwares de PLN.
 
-
 Preliminares
 
 Segmentação de
@@ -485,7 +468,6 @@ Processamento
 avançado
 
 '
-
 
 Tokenização de
 palavras
@@ -521,7 +503,6 @@ sentenças (segmentação de sentenças) e, posteriormente, dividir uma sentenç
 1 A transliteração/Translitaration é o processo de transferência de uma palavra do
 alfabeto de um idioma para outro. A
 transliteração ajuda as pessoas a pronunciar palavras e nomes em línguas estrangeiras.
-
 
 (tokenização de palavras). Superficialmente, essas tarefas parecem simples e você
 pode se
@@ -595,7 +576,6 @@ converter todos os caracteres de um documento no mesmo tipo de letra - ou todas
 maiúsculas ou
 minúsculas (lowercasing). Isso tem a vantagem de acelerar comparações no processo de indexação.
 
-
 Remover pontuação e/ou números também é uma etapa comum para muitos problemas de PLN,
 como classificação de texto, recuperação de informações e análise de mídia social.
 
@@ -610,7 +590,6 @@ português,
 para dar suporte à noção de verbos, tempos e formas no plural. As raízes reduzem as
 diferentes
 formas da palavra formada por inflexão (devido a plurais e tempos) e derivação a uma raiz comum.
-
 
 consign
 consigning
@@ -654,7 +633,6 @@ mas parte do stem. Isto pode resultar na conflação de termos não relacionados
 causa
 uma falha na conflação de palavras relacionadas
 
-
 Lemmatização é o processo de mapear todas as diferentes formas de uma palavra em sua
 palavra
 base, ou lema. Embora isso pareça próximo da definição de stemming, eles
@@ -666,7 +644,6 @@ mostrado
 na figura abaixo. A lematização requer mais conhecimento linguístico, e
 modelar e desenvolver
 lematizadores eficientes continua sendo um problema aberto na pesquisa de PNL até agora.
-
 
 Stemming
 adjustable-> adjust
@@ -726,7 +703,6 @@ de promover uma redução dimensional, esta etapa tenta identificar similaridade
 função da
 morfologia ou do significado dos termos, de modo a agrupar suas contribuições.
 
-
 Uso do Thesaurus (ou dicionário)
 
 Um dicionário pode ser definido como um vocabulário controlado que representa
@@ -775,7 +751,6 @@ Figura 3 - Figura representando a hierarquia da função biológica.
 pesquisa dividido pelo número
 total de documentos relevantes existentes.
 
-
 SEMÂNTICA vEToRIAL
 
 Muitos algoritmos de aprendizado de máquina e quase todas as arquiteturas de
@@ -816,7 +791,6 @@ de dar um passo para trás e apresentar o fluxo para resolução de um problema 
 detalhando
 um pouco mais as grandes etapas que vimos anteriormente:
 
-
 Texto bruto [raw] Limpeza e pré-
 processamento
 
@@ -825,7 +799,6 @@ palavras ou outra
 unidade
 linguística
 
-
 Avaliação
 s
 Representação
@@ -833,7 +806,6 @@ matemática das
 unidades
 linguístcas
 s.
-
 
 Nesta seção, daremos uma olhada nos diferentes métodos de representação de texto como
 um
@@ -923,7 +895,6 @@ vec("dog") = [0.8, 0.3, 0.1]
 
 vec("pizza") = [0.1, 0.2, 0.8]
 
-
 Como cada array/lista contém três elementos, você pode plotá-los como pontos em um
 espaço 3-D
 como na figura abaixo. Observe que as palavras semanticamente relacionadas ("gato" e
@@ -946,7 +917,6 @@ estabelece o
 significado literal de qualquer palavra.
 
 E quais seriam essas propriedades de distribuição? Vejamos um esquema:
-
 
 Hipótese distributiva
 
@@ -974,7 +944,6 @@ vetores que são compactos (ou seja, de baixa dimensão) e
 densos (ou seja, quase nenhum zero). 0 espaço vetorial
 resultante é conhecido como representação distribuída.
 
-
 Embedding
 
 Um mapeamento entre o espaço vetorial proveniente da
@@ -982,7 +951,6 @@ representação distribucional e o espaço vetorial
 proveniente da representação distribuída.
 
 i * Conjunto de métodos de PLN que objetivam aprender as
-
 
 Como já falamos, embeddings de palavras não são apenas importantes, mas essenciais para
 usar
@@ -1043,7 +1011,6 @@ palavras. Na maioria dos idiomas escritos que usam o alfabeto latino, as palavra
 geralmente são
 separadas por espaços ou sinais de pontuação. Em alguns idiomas, como chinês, japonês e tailandês,
 
-
 no entanto, as palavras não são explicitamente delimitadas por espaços e exigem uma
 etapa de pré-
 processamento chamada segmentação de palavras para identificar as palavras em uma frase.
@@ -1097,7 +1064,6 @@ A b q . brown dog over brown jump -s
 
 The quick brown fox jumps over the lazy dog.
 
-
 The quick brown fox
 the lazy dog
 quick brown
@@ -1108,7 +1074,6 @@ Tokens Phrases Word n-grams
 Figura 7 - Blocos de construção do linguagem usados em PLN
 
 N-grams
-
 
 Finalmente, você pode encontrar o conceito de n-gramas na PLN. Um n-grama é uma
 sequência
@@ -1173,7 +1138,6 @@ Dados dois vetores, A e B, cada um com n componentes, a similaridade entre eles 
 calculada da
 seguinte forma:
 
-
 similaridade = cos(0) =
 
 A * B
@@ -1183,7 +1147,6 @@ IMIIIIBII
 3 Uma função é considerada monotônica quando os valores de entrar e de saída de uma
 função seguem uma ordem (direta
 ou inversa). No caso, quando o cosseno aumenta, de 0 a 180, o valor reduz de 1 até -1.
-
 
 onde A, e 8/ são os componentes dos vectores A e B, respectivamente.
 
@@ -1249,7 +1212,6 @@ como [[0
 de forma
 semelhante. Vamos organizar isso em uma tabela.
 
-
 Palavra = Wid Vetor binário Doc Representação dos documentos (One
 Hot)
 Cachorro = 1 [10 0 0 0 0] Dl [[1 0 0 0 0 0] [0 1
@@ -1300,7 +1262,6 @@ todos
 igualmente separados. Assim, semanticamente, eles são muito pobres em captar o
 significado
 da palavra em relação a outras palavras.
-
 
 * Digamos que treinamos um modelo usando nosso corpus de exemplo. Em tempo
 de
@@ -1366,7 +1327,6 @@ Carne = 4 [000100] D4
 
 Comida = 5 [000010]
 
-
 Come = 6 [00000 1]
 
 Vejamos algumas das vantagens dessa codificação:
@@ -1409,7 +1369,6 @@ palavras
 se perdem nessa representação. Ambos, Di e D2, terão a mesma representação
 neste
 esquema.
-
 
 No entanto, apesar dessas deficiências, devido à sua simplicidade e facilidade de
 implementação,
@@ -1473,7 +1432,6 @@ euclidiano em comparação com documentos com n-gramas completamente diferentes.
 
 * Ele ainda não fornece uma maneira de resolver o problema de palavras fora do vocabulário.
 
-
 TF-IDF
 
 Em todas as três abordagens que vimos até agora, todas as palavras no texto são
@@ -1511,7 +1469,6 @@ um documento mais curto. Para normalizar essas contagens, dividimos o número de
 ocorrências
 pelo comprimento do documento. TF de um termo t em um documento d é definido como:
 
-
 TFÇt, d)
 
 Número de ocorrências do termo t no documento d
@@ -1525,7 +1482,6 @@ palavras irrelevantes como is, are, am, etc., não são importantes, embora ocor
 frequência.
 Para explicar esses casos, o IDF pondera os termos que são muito comuns em um corpus e os termos
 raros. O IDF de um termo t é calculado da seguinte forma:
-
 
 IDF(t) = loge
 
@@ -1541,7 +1497,6 @@ três
 documentos. O tamanho do nosso corpus é N = 4. Portanto, os valores correspondentes
 de TF-IDF
 para os termos do documento Di são mostrados na Tabela abaixo.
-
 
 Palavra TF Score (Di) IDF Score
 TF * IDF
@@ -1681,7 +1636,6 @@ Target Word
 I anguage
 natural processmg
 
-
 Context Word
 
 WindowSiize 3
@@ -1704,7 +1658,6 @@ palavra prediz as palavras mais prováveis ao contexto.
 
 Target Word
 
-
 Predict
 jump
 
@@ -1721,7 +1674,6 @@ Representação da arquitetura Skip-gram
 O custo de treinamento para Skip-gram, no qual C é a distância máxima da palavra é
 apresentado
 abaixo. Perceba que o Skip-Gram quando comparado a CBOW é mais custoso:
-
 
 Q = C * (D + D * log2(V))
 
@@ -1762,7 +1714,6 @@ levará apenas
 Há grandes vantagens em aplicar métodos de redução de dimensionalidade sobre os dados,
 vejamos
 algumas delas:
-
 
 * Dados mais compactos são mais fáceis de transferir e armazenar.
 
@@ -1805,7 +1756,6 @@ um espaço
 de alta dimensão para um espaço de baixa dimensão. Isso inclui técnicas
 como análise de
 componente principal (PCA), decomposição de valor singular e projeção aleatória.
-
 
 O segundo ramo é conhecido como aprendizado múltiplo (manifold learning), que
 também é
@@ -1856,16 +1806,13 @@ durante sua procura pelos componentes ideais. Abaixo vamos resumir o passo a
 passo para
 execução do algoritmo de PCA:
 
-
 Cálculo da
 
 Cálculo dos
 
 [Hf]
 
-
 Reduzir as
-
 
 Normalização
 dos dados
@@ -1929,7 +1876,6 @@ exemplos para
 cada uma dessas categorias e prever as categorias de novos produtos não vistos e
 de novas
 avaliações de clientes. No entanto, essa categorização nem sempre resulta em uma única categoria,
-
 
 e pode haver qualquer número de categorias disponíveis. Vamos dar uma olhada
 rápida na
@@ -1996,7 +1942,6 @@ Processamento de
 Linguagem Natural (PLN), os classificadores de texto podem analisar automaticamente o
 texto e, em
 seguida, atribuir um conjunto de tags ou categorias predefinidas com base em seu conteúdo.
-
 
 A classificação de texto está se tornando uma parte cada vez mais importante dos
 negócios, pois
@@ -2096,7 +2041,6 @@ Topics
 
 Document
 
-
 Collection of Documents
 
 Topic Model
@@ -2116,7 +2060,6 @@ ele. A
 figura abaixo mostra uma visualização dos resultados de um modelo de tópico para um
 corpus
 ciências humanas.
-
 
 Perfo<m«ng Azt»
 
@@ -2161,7 +2104,6 @@ comumente usada
 O que o LDA faz? Vamos começar com um corpus de exemplo. Digamos que temos uma
 coleção de
 documentos, Dl a D5, e cada documento consiste em uma única frase:
-
 
 * Dl: Gosto de comer brócolis e banana.
 
@@ -2218,7 +2160,6 @@ porque estão ocultos e devem ser descobertos. Como o LDA faz isso? Ele faz isso
 fatorando uma
 matriz de termo de documento (M) que mantém a contagem de palavras em todos os documentos.
 
-
 Essa matriz possui todos os m documentos Di, D 2, D 3... Dm dispostos ao longo das
 linhas e todas
 as n palavras Wi, W 2, W n no vocabulário do corpus organizados em
@@ -2228,7 +2169,6 @@ uma dessas
 matrizes para um corpus hipotético que consiste em cinco documentos, com um vocabulário
 de seis
 palavras.
-
 
 W1
 
@@ -2279,7 +2219,6 @@ respectivamente. Com quatro tópicos (K1-K4), as submatrizes para M podem ser se
 mostradas na figura abaixo. Aqui, k é o número de tópicos que estamos interessados em
 encontrar.
 
-
 Kl
 
 Dl 1
@@ -2303,7 +2242,6 @@ K2 K3 K4
 0 1 0
 
 1 1 1
-
 
 W1
 
@@ -2336,7 +2274,6 @@ W4 W5 W6
 0 1 0
 
 Figura 11 - Matrizes Fato radas
-
 
 Essas submatrizes podem então ser usadas para entender a estrutura de tópicos de um
 documento
@@ -2390,9 +2327,7 @@ contém uma codificação da combinação linear dos vetores bases que aproxima 
 correspondente
 coluna de V.
 
-
 ANÁLISE DE SENTIMENToS
-
 
 My experience
 sofarhas been
@@ -2453,7 +2388,6 @@ au da entidade
 ei("iPhone"), S1245 - neg é o sentimento sobre o aspecto auC vida útil da bateria") da entidade e 1
 ("
 
-
 iPhone "). E $1345 = neg é o sentimento sobre o aspecto 013 ("questões de
 segurança") da entidade
 ei("lphone'). Quando a opinião é sobre a própria entidade como um todo, o
@@ -2481,7 +2415,7 @@ compreender e explicar muitos fenômenos sociais complexos, mas também predizê
 A tendência geral nas pesquisas sobre análise de sentimento em redes sociais é aplicar
 as técnicas
 herdadas da análise de sentimento tradicional estudada desde o início de
-Item. 2000. No entanto,
+2000. No entanto,
 considerando a evolução das fontes onde as opiniões são expressas, as estratégias
 disponíveis no
 estado da arte atual não são mais eficazes para a mineração de opiniões neste
@@ -2559,7 +2493,6 @@ produto. A
 suposição é que a mensagem inteira expressa apenas uma opinião sobre uma única entidade
 (por exemplo, um único produto).
 
-
 * Nível da frase: o objetivo é determinar a polaridade de cada frase contida em uma mensagem
 de texto. O pressuposto é que cada frase, em uma determinada mensagem, denota uma
 única
@@ -2606,7 +2539,6 @@ Opiniões Explícitas Versus Implícitas
 Entre as diferentes nuanças que uma opinião pode assumir, devemos distinguir as
 opiniões explícitas
 e implícitas:
-
 
 * Opinião explícita: Uma opinião explícita é uma declaração subjetiva que dá uma
 opinião
@@ -2664,7 +2596,6 @@ Eles estão
 decepcionados.)
 
 - João: Bem! Que uso valioso de uma noite!
-
 
 - Mareia: Realmente!
 
@@ -2731,7 +2662,6 @@ indireta e
 implícita). O fato de ter se formado um buraco reflete de forma objetiva a qualidade ruim do
 colchão.
 
-
 Vejamos outro exemplo ... A vida útil da bateria dos telefones Nokia é mais longa do
 que a dos
 telefones Samsung (aqui temos uma opinião comparativa e implícita (objetiva)).
@@ -2741,7 +2671,6 @@ Pessoal, lembrem-se de usar o fórum de dúvidas sempre que necessário! Como se
 qualquer dúvida estou às ordens!
 
 Forte abraço e bons estudos!
-
 
 CoNCEIToS CoMPLEMENTARES
 
@@ -2804,7 +2733,6 @@ seguido. A distância de bloco entre dois itens é a soma das diferenças de seu
 componentes
 correspondentes.
 
-
 Manhattan Distance
 r /—I
 
@@ -2821,7 +2749,6 @@ nas sequências comparadas dividido pelo número total de termos em ambas as seq
 
 2 * |X n Y|
 
-
 D(X,Y) =
 
 |X| + |K|
@@ -2829,7 +2756,6 @@ D(X,Y) =
 Distância euclidiana - A distância euclidiana ou distância L2 é a raiz quadrada da soma das
 diferenças
 quadradas entre os elementos correspondentes dos dois vetores.
-
 
 @dataaspirant.com
 
@@ -2856,7 +2782,6 @@ Jaccard Similarity J (A,B) = I Intersection (A,B) I / I Union (A,B) I
 = 2/7
 
 = 0.286
-
 
 APLICAçõES DE PLN
 
@@ -2921,7 +2846,6 @@ apenas um modelo é necessário para a tradução.
 A força da NMT está em sua capacidade de aprender diretamente, de ponta a ponta, o
 mapeamento
 do texto de entrada para o texto de saída associado.
-
 
 Modelo codificador-decodificador - Modelos de rede neural Perceptron multicamadas podem
 ser
@@ -2997,7 +2921,6 @@ Embora eficazes, os sistemas de tradução automática neural ainda sofrem algun
 problemas, como
 escalar para vocabulários de palavras maiores e a velocidade lenta de treinamento dos modelos.
 
-
 Existem atualmente as áreas de foco para grandes sistemas de tradução neural de
 produção, como
 o sistema do Google. Um artigo recente do Google mudou a perspectiva sobre tradução, no paper
@@ -3063,10 +2986,9 @@ publicados na área, mas também pela adoção da indústria mundial de uma vari
 métodos
 de aprendizado profundo no projeto e implantação de sistemas de reconhecimento de fala.
 
-
 QUESTõES CoMENTADAS
 
-Item. 1. (FGV - Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
+1. (FGV - Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
 Governamental/2022
 
 Uma organização está implementando um sistema de busca de informações interno, e a
@@ -3125,10 +3047,9 @@ análise de um corpus, unir palavras semelhantes.
 
 Desta forma, podemos marcar nossa resposta na alternativa D
 
-
 Gabarito: Letra D
 
-Item. 2. FGV - Auditor Federal de Finanças e Controle (CGU)/Tecnologia da lnformação/"Sem
+2. FGV - Auditor Federal de Finanças e Controle (CGU)/Tecnologia da lnformação/"Sem
 Especialidade"/2022
 
 Durante a elaboração de um sistema de busca de informações biomédicas, foi construído
@@ -3182,7 +3103,7 @@ podemos marcar nossa resposta na alternativa C.
 
 Gabarito: C
 
-Item. 3. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
+3. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
 
 A atividade de classificação de documentos envolve um grande número de
 tarefas de
@@ -3191,7 +3112,6 @@ processamento de linguagem natural, o que pode levar a dúvidas quanto a sua apl
 A alternativa que contém apenas tarefas que sejam exemplos de classificação de
 documentos
 é:
-
 
 A análise de sentimento, tokenização;
 
@@ -3221,7 +3141,7 @@ Assim, a nossa resposta encontra-se na alternativa C.
 
 Gabarito: C
 
-Item. 4. FGV - Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
+4. FGV - Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
 Governamental/2022
 
 Considere os documentos A e B a seguir.
@@ -3232,30 +3152,23 @@ B = "Há outras que sorriem por saber que os espinhos têm rosas"
 A submatriz da matriz de TF-IDF desses dois documentos correspondente aos termos "Rosas",
 "Choram" e "Sorriem", nessa ordem, é:
 
-
 log 2
 
-
 1 1 0
-
 
 0 i '
 
 11 íi.
 
-
 (C)
 
-
 log_2
-
 
 log 2 '
 
 11 .
 
 0 log 2
-
 
 (E)
 
@@ -3264,7 +3177,6 @@ log 2 '
 11 11
 
 1 log 2
-
 
 Item. .11 11 .
 
@@ -3292,10 +3204,9 @@ Apenas com essas três palavras, a submatriz é a seguinte:
 
 Essa submatriz é encontrada, apenas, na letra C, sendo esse o nosso gabarito.
 
-
 Gabarito: C
 
-Item. 5. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+5. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Sobre o processamento de linguagem natural (PLN) assinale a alternativa correta.
 
@@ -3326,7 +3237,7 @@ e) (Errada). O processamento de linguagem natural é um subconjunto da inteligê
 
 Gabarito: C
 
-Item. 6. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+6. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Sobre os conceitos de semântica vetorial assinale a alternativa correta.
 
@@ -3348,7 +3259,6 @@ Comentário: Vamos comentar cada uma das alternativas a seguir:
 a) (Errada) Um embedding é uma representação vetorial com valor real de algo
 que
 geralmente é discreto.
-
 
 b) (Certo) Exatamente, alguns algortimos, em especial os de redes neurais só trabalham
 com
@@ -3374,7 +3284,7 @@ Logo, nossa resposta encontra-se na alternativa B.
 
 Gabarito: B
 
-Item. 7. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+7. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Uma das formas de reduzir a dimensionalidade em problemas de processamento de linguagem
 natural é:
@@ -3411,12 +3321,11 @@ recursos dos dados. Essa classificação das formas de redução de dimensionali
 ser
 vista na figura a seguir:
 
-
 Assim, temos nosso gabarito na alternativa A.
 
 Gabarito: A.
 
-Item. 8. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+8. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Qual o termo abaixo pode ser definido como uma coleção de documentos associados a um
 contexto específico:
@@ -3427,7 +3336,6 @@ c) Corpora
 d) Corpus
 e) Biblioteca
 Comentário:
-
 
 v 1
 
@@ -3450,7 +3358,6 @@ Termos
 Possuem uma probabilidade
 associada.
 
-
 Corpus é uma coleção de documentos de texto sobre os quais aplicaríamos
 rotinas de
 mineração de texto ou de processamento de linguagem natural para derivar inferências. Um
@@ -3458,7 +3365,7 @@ conjunto de corpus é deonomidando Corpora. Logo, temos a nossa resposta na alte
 
 Gabarito: D.
 
-Item. 9. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+9. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Sobre a classificação de texto, assinale a alternativa correta.
 
@@ -3512,8 +3419,7 @@ e) (Errada) A avaliação do modelo deve ser feita antes de se pôr o modelo em 
 
 Gabarito: C
 
-
-Item. 10. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+10. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 * Sobre análise de sentimento, avalie a afirmativa incorreta.
 
@@ -3536,7 +3442,6 @@ encontra-se na alternativa E. A classificação de polaridade é uma classifica�
 subjetiva,
 conforme visto na figura abaixo.
 
-
 Análise de sentimentos
 
 Classificação Subjetiva
@@ -3555,7 +3460,7 @@ As demais alternativas fornecem um resumo do assunto.
 
 Gabarito: E
 
-Item. 11. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+11. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 PLN é uma área que se sobrepõe a outras. Surgiu em campos como inteligência
 artificial,
@@ -3590,7 +3495,7 @@ Assim, a nossa resposta encontra-se na alternativa A.
 
 Gabarito: A
 
-Item. 12. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+12. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 A redução de dimensionalidade apresenta diversos benefícios. Dentre as alternativas a
 seguir,
@@ -3643,7 +3548,7 @@ a nossa resposta na alternativa E.
 
 Gabarito: E
 
-Item. 13. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+13. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 A classificação de texto é usada em várias aplicações e vários domínios, assinale a
 opção que
@@ -3666,7 +3571,7 @@ classificação de texto. Logo, temos a resposta na alternativa B.
 
 Gabarito: B
 
-Item. 14. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural (HARD)
+14. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural (HARD)
 
 Sobre classificação de texto, assinale a alternativa incorreta:
 
@@ -3698,7 +3603,6 @@ Lembre-se que, embedding é um termo usado quando a partir de um conjunto de pal
 em
 um corpus, fazemos um mapeamento entre o espaço vetorial proveniente da representação
 distribucional e o espaço vetorial proveniente da representação distribuída.
-
 
 Já a semântica vetorial refere-se ao conjunto de métodos de PLN que objetivam aprender
 as
@@ -3735,7 +3639,7 @@ espaço vetorial vista ao longo da aula.
 
 Gabarito: C
 
-Item. 15. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+15. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Qual das ações abaixo não é considerada uma das etapas para construção de um sistema
 de
@@ -3767,8 +3671,7 @@ conjunto de treinamento.
 
 Gabarito: D
 
-Item. 16. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
-
+16. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Não é considerado um caso de uso de modelagem de tópicos:
 
@@ -3788,7 +3691,7 @@ relação com os casos de uso em que a modelagem de tópicos se aplica.
 
 Gabarito: A
 
-Item. 17. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+17. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 O estudo, usando distribuições estatísticas, de elementos da linguagem para
 caracterizar
@@ -3830,22 +3733,21 @@ de palavras com base em propriedades de distribuição de palavras em um grande 
 
 Logo, temos a nossa resposta na alternativa E.
 
-
 Gabarito: E
 
-Item. 18. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+18. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Alguns dos algoritmos de modelagem de tópicos são mais populares. Observer a lista a seguir:
 
-Item. 1. Latent dirichlet allocation (LDA),
+1. Latent dirichlet allocation (LDA),
 
-Item. 2. Latent semantic analysis (LSA)
+2. Latent semantic analysis (LSA)
 
-Item. 3. Nonnegative matrix factorization (NMF)
+3. Nonnegative matrix factorization (NMF)
 
-Item. 4. Probabilistic latent semantic analysis (PLSA),
+4. Probabilistic latent semantic analysis (PLSA),
 
-Item. 5. Support Vector Machine (SVM)
+5. Support Vector Machine (SVM)
 
 Qual dos algoritmos acima são utilizados na modelagem de tópicos de forma ampla.
 
@@ -3876,7 +3778,7 @@ Assim, temos a nossa reposta na alternativa B.
 
 Gabarito: B
 
-Item. 19. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+19. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Sobre PLN, assinale a alternativa correta:
 
@@ -3887,7 +3789,6 @@ c) o processo de remoção de palavras como "a", "e", "até", "uma", "o" de uma 
 de Lemmatização.
 
 d) TF-IDF ajuda a estabelecer uma. palavra que ocorre com mais frequência no documento.
-
 
 e) as palavras representadas como vetores são chamadas de data frames de palavras neurais
 Comentário: Vamos analisar cada uma das alternativas:
@@ -3913,7 +3814,7 @@ neurais.
 
 Gabarito: A
 
-Item. 20. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+20. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Qual das seguintes não é uma técnica de pré-processamento em PLN:
 
@@ -3931,10 +3832,9 @@ listadas são usadas como parte do pré-processamento de instrução.
 
 Gabarito: E.
 
-
 Exercícios
 
-Item. 1. (FGV - Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
+1. (FGV - Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
 Governamental/2022
 
 Uma organização está implementando um sistema de busca de informações interno, e a
@@ -3960,7 +3860,7 @@ C GloVe, GPT-2;
 D Word2Vec, GloVe;
 E GPT-2, BERT.
 
-Item. 2. FGV - Auditor Federal de Finanças e Controle (CGU)/Tecnologia da lnformação/"Sem
+2. FGV - Auditor Federal de Finanças e Controle (CGU)/Tecnologia da lnformação/"Sem
 Especialidade"/2022
 
 Durante a elaboração de um sistema de busca de informações biomédicas, foi construído
@@ -3987,12 +3887,11 @@ D Word embedding; Análise semântica;
 
 E Decomposição morfológica; Análise sintática.
 
-Item. 3. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
+3. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
 
 A atividade de classificação de documentos envolve um grande número de
 tarefas de
 processamento de linguagem natural, o que pode levar a dúvidas quanto a sua aplicação.
-
 
 A alternativa que contém apenas tarefas que sejam exemplos de classificação de documentos
 é:
@@ -4006,7 +3905,7 @@ D análise sintática, POS-tagging;
 
 E filtragem de stopwords, reconhecimento de linguagem.
 
-Item. 4. FGV - Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
+4. FGV - Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
 Governamental/2022
 
 Considere os documentos A e B a seguir.
@@ -4017,35 +3916,27 @@ B = "Há outras que sorriem por saber que os espinhos têm rosas"
 A submatriz da matriz de TF-IDF desses dois documentos correspondente aos termos "Rosas",
 "Choram" e "Sorriem", nessa ordem, é:
 
-
 log?
 
 1 1 0
 
 (B) 11 11 1
 
-
 Item. .11 11.
-
 
 (C)
 
-
 log?
-
 
 log 2 '
 11 .
-
 
 0 0
 
 (D)
 
-
 ii
 log 2
-
 
 (E)
 
@@ -4055,11 +3946,9 @@ log 2
 
 1 log 2
 
-
 Item. .11 11 .
 
-
-Item. 5. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+5. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Sobre o processamento de linguagem natural (PLN) assinale a alternativa correta.
 
@@ -4076,7 +3965,7 @@ extrativa.
 
 e) Inteligência artificial é um subconjunto do processamento de linguagem natural.
 
-Item. 6. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+6. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Sobre os conceitos de semântica vetorial assinale a alternativa correta.
 
@@ -4093,7 +3982,7 @@ d) Lematização é um processo para identificar radicais de palavras.
 e) Tokenização é a forma original de uma palavra que você costuma encontrar como palavra-
 chave em um dicionário
 
-Item. 7. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+7. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Uma das formas de reduzir a dimensionalidade em problemas de processamento de linguagem
 natural é:
@@ -4111,11 +4000,10 @@ dos dados garantindo sua qualidade.
 e) Usando N-grams para representar uma sequência contígua de uma ou mais ocorrências de
 unidades linguísticas
 
-Item. 8. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+8. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Qual o termo abaixo pode ser definido como uma coleção de documentos associados a um
 contexto específico:
-
 
 a) Tokens
 b) Tópicos
@@ -4123,7 +4011,7 @@ c) Corpora
 d) Corpus
 e) Biblioteca
 
-Item. 9. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+9. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Sobre a classificação de texto, assinale a alternativa correta.
 
@@ -4142,7 +4030,7 @@ são capazes de trabalhar com dados textuais diretamente.
 e) A avaliação do modelo deve ser feita depois da publicação do mesmo para a comunidade
 de usuários.
 
-Item. 10. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+10. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Sobre análise de sentimento, avalie a afirmativa incorreta.
 
@@ -4159,7 +4047,7 @@ d) Podemos classificar uma opinião em regular ou comparativa.
 e) A classificação de polaridade pode definir um texto como positivo, negativo ou neutro,
 sendo, portanto, uma classificação objetiva.
 
-Item. 11. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+11. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 PLN é uma área que se sobrepõe a outras. Surgiu em campos como inteligência
 artificial,
@@ -4180,7 +4068,7 @@ c) Baseado em instinto - uma abordagem analítica baseada em dados
 d) Baseado em regras - uma abordagem clerical
 e) Baseado em correlação - uma abordagem matricial
 
-Item. 12. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+12. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 A redução de dimensionalidade apresenta diversos benefícios. Dentre as alternativas a
 seguir,
@@ -4198,7 +4086,7 @@ d) Trata problemas de multicolinearidade, removendo recursos redundantes.
 
 e) Ajuda a encontrar valores ausentes.
 
-Item. 13. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+13. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 A classificação de texto é usada em várias aplicações e vários domínios, assinale a
 opção que
@@ -4216,7 +4104,7 @@ d) Para a triagem de postagens em um suporte online para serviços de saúde men
 
 e) Para segregar notícias falsas de notícias reais.
 
-Item. 14. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural (HARD)
+14. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural (HARD)
 
 Sobre classificação de texto, assinale a alternativa incorreta:
 
@@ -4231,7 +4119,6 @@ c) Semântica vetorial é o mapeamento entre o espaço vetorial proveniente da
 representação
 distribucional e o espaço vetorial proveniente da representação distribuída.
 
-
 d) No contexto de PLN, a conversão de texto bruto em uma forma numérica adequada é
 chamada de representação de texto.
 
@@ -4240,7 +4127,7 @@ sentenças,
 parágrafos e documentos) como vetores de números é conhecida como modelo de espaço
 vetorial.
 
-Item. 15. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+15. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Qual das ações abaixo não é considerada uma das etapas para construção de um sistema
 de
@@ -4262,7 +4149,7 @@ conjunto de teste.
 
 e) Usar a(s) métrica(s) de avaliação, comparar o desempenho do modelo no conjunto de teste.
 
-Item. 16. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+16. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Não é considerado um caso de uso de modelagem de tópicos:
 
@@ -4276,7 +4163,7 @@ de
 tópicos aprendidos
 e) Detectar tendências de mídia social ao longo de um período
 
-Item. 17. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+17. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 O estudo, usando distribuições estatísticas, de elementos da linguagem para
 caracterizar
@@ -4289,20 +4176,19 @@ c) semântica vetorial
 d) Hipótese distributiva
 e) semântica distributiva
 
-
-Item. 18. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+18. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Alguns dos algoritmos de modelagem de tópicos são mais populares. Observer a lista a seguir:
 
-Item. 1. Latent dirichlet allocation (LDA),
+1. Latent dirichlet allocation (LDA),
 
-Item. 2. Latent semantic analysis (LSA)
+2. Latent semantic analysis (LSA)
 
-Item. 3. Nonnegative matrix factorization (NMF)
+3. Nonnegative matrix factorization (NMF)
 
-Item. 4. Probabilistic latent semantic analysis (PLSA),
+4. Probabilistic latent semantic analysis (PLSA),
 
-Item. 5. Support Vector Machine (SVM)
+5. Support Vector Machine (SVM)
 
 Qual dos algoritmos acima são utilizados na modelagem de tópicos de forma ampla.
 
@@ -4312,7 +4198,7 @@ c) 2, 3, 4 e 5 apenas
 d) 1, 3 e 5 apenas
 e) 1, 2 e 4 apenas
 
-Item. 19. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+19. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Sobre PLN, assinale a alternativa correta:
 
@@ -4326,7 +4212,7 @@ d) TF-IDF ajuda a estabelecer uma palavra que ocorre com mais frequência no doc
 
 e) as palavras representadas como vetores são chamadas de data frames de palavras neurais
 
-Item. 20. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
+20. Ano: 2021 Banca: TRC Assunto: Processamento de Linguagem Natural
 
 Qual das seguintes não é uma técnica de pré-processamento em PLN:
 
@@ -4336,51 +4222,49 @@ c) Remoção de pontuações
 d) Remoção de stopwords
 e) Análise de sentimento
 
-
 GABArito
 
-Item. 1. D
+1. D
 
-Item. 2. C
+2. C
 
-Item. 3. C
+3. C
 
-Item. 4. C
+4. C
 
-Item. 5. C
+5. C
 
-Item. 6. B
+6. B
 
-Item. 7. A
+7. A
 
-Item. 8. D
+8. D
 
-Item. 9. C
+9. C
 
-Item. 10. E
+10. E
 
-Item. 11. A
+11. A
 
-Item. 12. E
+12. E
 
-Item. 13. B
+13. B
 
-Item. 14. C
+14. C
 
-Item. 15. D
+15. D
 
-Item. 16. A
+16. A
 
-Item. 17. E
+17. E
 
-Item. 18. B
+18. B
 
-Item. 19. A
+19. A
 
-Item. 20. E
+20. E
 
 THIAGO CAVALCANTI
 
 PROFESSOR
-
 

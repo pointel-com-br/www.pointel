@@ -1,10 +1,8 @@
-Capítulo. Engenharia de Computadores e Redes - Protocolos HTTPS, SSL-TLS, HTTP 2.
-
+# Engenharia de Computadores e Redes - Protocolos HTTPS, SSL-TLS, HTTP 2.
 
 Índice
 
 1) Protocolos HTTP-HTTPS
-
 
 2) Questões Comentadas - Protocolos HTTP-HTTPS - Cebraspe
 
@@ -25,7 +23,6 @@ Security) - FCC 63
 9) Lista de Questões - SSL (Security Socket Layer) e TLS (Transport Layer Security) - Cebraspe
 
 10) Lista de Questões - SSL (Security Socket Layer) e TLS (Transport Layer Security) - FCC
-
 
 PRoToCoLoS E TECNoLoGIAS DA CAMADA DE APLICAçÃo
 
@@ -70,7 +67,6 @@ servidores e clientes.
 
 Para efeito de concurso, o HTTP possui 2 versões:
 
-
 * HTTPvl.O - Não realiza conexões persistentes. Isto é, para cada troca de
 informação entre
 cliente e servidor, necessita-se estabelecer e encerrar uma nova conexão TCP;
@@ -98,7 +94,6 @@ Server
 
 Short-lived connections Persistent connection
 HTTP Pipelining
-
 
 Além disso, o protocolo HTTP é considerado um protocolo sem estado (stateless), pois
 não armazena
@@ -136,7 +131,6 @@ envia informações ao servidor para preenchimento do objeto de resposta.
 
 A figura abaixo é um exemplo de composição da mensagem HTTP:
 
-
 GET /index.html HTTP/1.1
 
 Date: Thu, 20 May 2004 21:12:55 GMT
@@ -171,7 +165,6 @@ campos são semelhantes às mensagens de Requisição. Abaixo temos o exemplo:
 
 HTTP/1.1 200 OK
 Status Line
-
 
 Date: Thu, 20 May 2004 21:12:58 GMT
 
@@ -222,7 +215,6 @@ a devida diferenciação. Vamos conhecê-los:
 
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital)
-
 
 * GET - Solicitação de leitura de determinado objeto. A requisição de páginas WEB
 pode ser
@@ -278,7 +270,6 @@ explicação da situação do erro e se esta é permanente ou temporária.
 
 400 (BAD REQUEST) - A requisição não pode ser entendida pelo servidor devido erro de
 sintaxe.
-
 
 401 (UNAUTHORIZED) - A requisição depende de autenticação por parte do usuário.
 
@@ -343,12 +334,10 @@ internos conforme a porta utilizada do serviço específico. A figura abaixo nos
 apresenta o
 modelo comentado:
 
-
 * Cache Local - Os browsers possuem a capacidade de armazenar as informações recebidas
 do
 servidor de tal forma que uma nova requisição idêntica à anterior não enseje uma nova
 consulta ao servidor. Desse modo, a requisição será atendida diretamente pelo Browser.
-
 
 Acrescento ainda a informação de que o protocolo HTTP pode ser utilizado de forma
 segura com a
@@ -383,11 +372,9 @@ a devida autenticação, utilizando, portanto, o modo simples do SSL/TLS.
 A Imagem abaixo nos dá uma visão das fases envolvidas no processo de conexão, troca de chaves e,
 finalmente, troca dos dados:
 
-
 Receiver
 
 K=J
-
 
 As três primeiras mensagens são de estabelecimento da conexão TCP. Entretanto,
 a terceira
@@ -411,7 +398,6 @@ já estão
 apresentando questões que exigem conhecimento da referida versão e como o nosso
 objetivo é
 sempre estar atualizado, nada mais certo do que abordarmos tal assunto.
-
 
 O surgimento dessa versão veio com o objetivo de contemplar a nova forma de navegação
 web.
@@ -465,7 +451,6 @@ erros.
 Vamos abordar então os diversos pontos que são mais relevantes a respeito da
 implementação do
 HTTPv2.0, inclusive em conjunto com protocolos auxiliares como o TLS.
-
 
 * Compressão Automática
 
@@ -522,7 +507,6 @@ requisição, antes de enviar uma nova requisição:
 
 Q-Q
 
-
 Diante do modelo proposto, o controle de fluxo em cada um desses streams é
 fundamental, devendo
 ser garantido esse aspecto. O HTTP2.0 utiliza o quadro WINDOW_UPDATE para tal
@@ -554,7 +538,6 @@ demais informações.
 Assim, busca-se dar agilidade e trazer um caráter mais ágil na construção da página
 no lado do
 cliente.
-
 
 A figura a seguir nos traz essa representação:
 
@@ -589,7 +572,6 @@ Nesses casos, utiliza-se mensagens do tipo INADEQUATE_SECURITY ou categoriza-se 
 de
 conexão.
 
-
 Dessa forma, vamos checar quais são os requisitos que devem ser atendidos:
 
 Desabilitar a COMPRESSÃO
@@ -607,12 +589,11 @@ devem tratar a renegociação como um erro de conexão. A renegociação deve se
 exclusivamente para fins de confidencialidade na troca de informações de credenciais no
 estabelecimento da conexão e não conectividade.
 
-
 EXERCÍCIOS COMENTADOS
 
 HTTP
 
-Item. 1. CESPE - STJ/Analista Judiciário - Suporte em TI/2015
+1. CESPE - STJ/Analista Judiciário - Suporte em TI/2015
 
 Uma forma de se melhorar o desempenho do acesso a páginas web frequentemente
 visitadas é armazenar-se o conteúdo dessas páginas para que sejam rapidamente
@@ -632,7 +613,7 @@ de consultas ao servidor.
 
 Gabarito: C
 
-Item. 2. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
+2. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
 
 O elemento em que uma das partes de uma informação é armazenada como cadeia de
 texto na máquina do usuário e cuja função principal é a de manter a persistência de
@@ -655,8 +636,7 @@ consultas ou fornecer um serviço personalizado.
 
 Gabarito: D
 
-
-Item. 3. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
+3. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
 
 Com referência ao Hyper Text Transfer Protocol (HTTP) — protocolo de aplicação
 utilizado para o tratamento de pedidos e respostas entre cliente e servidor na Internet e
@@ -681,7 +661,7 @@ PATCH. Os mais utilizados sem dúvida são os 3 primeiros.
 
 Gabarito: E
 
-Item. 4. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+4. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 O protocolo HTTP, que não armazena informações sobre o estado do cliente, classifica-se
 como do tipo stateless.
@@ -692,7 +672,7 @@ Vimos que essa é uma característica nativa do protocolo HTTP.
 
 Gabarito: C
 
-Item. 5. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+5. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 Um servidor HTTP consiste em um servidor de aplicações.
 
@@ -702,10 +682,9 @@ Um servidor HTTP é considerado um servidor WEB e não um servidor de aplicaçõ
 completo com muito mais recursos. Dizemos que um servidor WEB integra um servidor
 um servidor de aplicações.
 
-
 Gabarito: E
 
-Item. 6. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+6. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 Ao receber uma requisição, o servidor procura pelo recurso requisitado e envia, ao cliente,
 uma resposta com um código, que pode iniciar-se por lxx, que indica sucesso no
@@ -724,7 +703,7 @@ lxx - Classe informacional
 
 Gabarito: E
 
-Item. 7. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+7. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 As estratégias usadas para diminuir o tráfego causado pelo grande número de acessos a
 páginas web podem ser do tipo cache web, que é implementado no cliente, no GET
@@ -741,8 +720,7 @@ envia o objeto atualizado.
 
 Gabarito: C
 
-
-Item. 8. CESPE - MPU/Analista Judiciário - Suporte e lnfraestrutura/2013
+8. CESPE - MPU/Analista Judiciário - Suporte e lnfraestrutura/2013
 
 Os servidores proxy criam um cache com as solicitações de cada usuário, deforma a
 otimizar consultas futuras de um mesmo usuário, sendo esse cache de uso exclusivo de seu
@@ -757,8 +735,7 @@ usuário para uso de cada um no momento adequado.
 
 Gabarito: E
 
-
-Item. 9. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+9. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 O código abaixo ilustra uma resposta de um servidor web.
 
@@ -774,7 +751,6 @@ HTTP/1.0
 image/x-xbitmap,
 
 image/jpeg, image/pjpeg, image/png, */*
-
 
 Accept-Charset: isso-8859-1,
 Accept-Enconding:
@@ -802,7 +778,6 @@ pacote de sincronismo da conexão o responsável por indicar o tipo de cifra que
 utilizado na sessão.
 
 Comentários:
-
 
 A porta 80 é utilizada pelo protocolo HTTP padrão. A implementação segura fica a carga
 do protocolo HTTPS na porta TCP/443. A definição de critérios de criptografia ocorre no
@@ -842,7 +817,6 @@ lnfraestrutura/2013
 
 A primeira versão do serviço HTTP utiliza conexões não persistentes; a persistência foi
 acrescentada na versão subsequente desse serviço.
-
 
 Comentários:
 
@@ -886,7 +860,6 @@ Gabarito: C (Gabarito do Professor: E)
 
 16.CESPE - TCU/Analista de Controle Externo - TI/2007
 
-
 O protocolo HTTP, definido nas RFCs 1945 e 2616, não permite a utilização de conexões persistentes.
 
 Comentários:
@@ -924,7 +897,6 @@ mensagem "not found", ou seja, tem-se um URI inválida.
 Gabarito: E
 
 19.CESPE - TRE-GO/Técnico Judiciário - Programação de Sistemas/2015
-
 
 Por meio do protocolo chave HTTP, é possível utilizar o método PUTpara se criar um
 novo recurso de um webservice.
@@ -965,7 +937,6 @@ Gabarito: C
 
 22.CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015
 
-
 Na implementação do HTTP versão 2 sobre o protocolo TLS 1.2, é mandatário desabilitar a
 renegociação da conexão.
 
@@ -991,7 +962,6 @@ PRoToCoLoS DE CoRREIo ELETRôNICo (SMTPJMAP E POP3)
 
 24.CESPE - TCE-PR/Analista de Controle - Área TI/2016
 
-
 0 padrão
 por
 
@@ -1013,7 +983,6 @@ ASCII por email
 
 Protocol.
 
-
 B Multiporpose
 
 C Post
@@ -1033,7 +1002,6 @@ Protocol.
 E Hypertext Transfer Protocol.
 
 Comentários:
-
 
 Temos aí o MIME, certo pessoal? Questão bem tranquila passível de ser resolvida por
 eliminação. O MIME surgiu exatamente no contexto em que o padrão de codificação ASCII
@@ -1113,7 +1081,6 @@ Gabarito: E
 O protocolo SMTP, ao utilizar a porta 25 para enviar e receber mensagens, é capaz de
 criptografar o cabeçalho da mensagem transmitida.
 
-
 Comentários:
 
 O SMTP nativamente e por si só não implementa recursos de criptografia. Vale observar
@@ -1155,7 +1122,6 @@ banca. Ao enviar, atua como cliente, ao receber, atua como servidor. Se tivesse 
 forma inversa estaria errado.
 
 Gabarito: C
-
 
 31.CESPE - STF/Apoio Especializado/Suporte em Tecnologia da lnformação/2013
 
@@ -1199,7 +1165,6 @@ se acessar e gerenciar os e-mails diretamente no servidor de e-mails, sem a nece
 de realizar o download das mensagens. Detalhe para o software cliente que pode ser um
 software específico ou o próprio browser com acesso web.
 
-
 Gabarito: C
 
 34.CESPE - TRE-RJ/Analista Judiciário - Análise de Sistemas/2012
@@ -1237,7 +1202,6 @@ Comentários:
 
 Pessoal, vimos que essas duas são possibilidades de atuação de um MTA frente a um
 possível email malicioso ou considerado SPAM.
-
 
 Gabarito: C
 
@@ -1281,7 +1245,6 @@ O SMTP é um protocolo de envio, enquanto o POP3 e IMAP são para recebimento.
 
 Gabarito: E
 
-
 40.CESPE - TJDFT/Analista Judiciário - Análise de Sistemas/2015
 
 PGP (Pretty Good Privacy) é um pacote que fornece recursos de compactação, privacidade
@@ -1316,12 +1279,11 @@ parte da camada de aplicação.
 
 Gabarito: E
 
-
 EXERCÍCIOS COMENTADOS COMPLEMENTARES
 
 HTTP
 
-Item. 1. FCC - TRT - 155 Região/Analista Judiciário - TI/2015
+1. FCC - TRT - 155 Região/Analista Judiciário - TI/2015
 
 Um serviço da internet utiliza diferentes protocolos, por exemplo, protocolos relacionados
 com a função de roteamento, transmissão de dados e transferência de hipertexto para
@@ -1342,20 +1304,20 @@ Comentário:
 
 Temos três aspectos para considerar.
 
-Item. 1. Protocolo relacionado com roteamento nos leva a considerar a camada de
+1. Protocolo relacionado com roteamento nos leva a considerar a camada de
 rede e o principal protocolo para encaminhamento de pacotes entre redes,
 que é o IP.
 
-Item. 2. Quando se fala de transmissão de dados, devemos remeter à capacidade de
+2. Quando se fala de transmissão de dados, devemos remeter à capacidade de
 transportar a informação fim a fim. Isso nos leva à camada de transporte,
 logo, temos os protocolos TCP ou UDP como principais opções.
 
-Item. 3. E por último, o protocolo de transferência de hipermídia, sendo essa a
+3. E por último, o protocolo de transferência de hipermídia, sendo essa a
 palavra chave para referenciarmos o protocolo HTTP.
 
 Gabarito: A
 
-Item. 2. FCC - TRT -165 Região (MA) /Técnico Judiciário - TI/2014
+2. FCC - TRT -165 Região (MA) /Técnico Judiciário - TI/2014
 
 Os diversos protocolos do conjunto (suite) TCP/IP são organizados em camadas de
 funcionalidade. Quando um usuário da internet realiza um acesso à página Web, ele está
@@ -1365,7 +1327,6 @@ a) WWW.
 b) IMAP.
 
 c) HTTP.
-
 
 d) TCP.
 ej IP.
@@ -1377,7 +1338,7 @@ protocolo HTTP.
 
 Gabarito: C
 
-Item. 3. FCC - TRT - 29 Região (SP)/Técnico Judiciário - TI/2014
+3. FCC - TRT - 29 Região (SP)/Técnico Judiciário - TI/2014
 
 No modelo de referência de 4 camadas da suíte de protocolos TCP/IP, os protocolos
 Ethernet, HTTP e ICMP localizam-se, respectivamente, nas camadas
@@ -1401,7 +1362,7 @@ protocolo ICMP que atua de forma complementar ao IP na camada de rede.
 
 Gabarito: B
 
-Item. 4. FCC - TRF - 49 Região/Técnico Judiciário - TI/2014
+4. FCC - TRF - 49 Região/Técnico Judiciário - TI/2014
 
 Pedro, técnico em informática do TRF da 4- Região, deve comprovar os seus conhecimentos
 sobre 0 modelo OSI identificando os protocolos às respectivas camadas do modelo. Assim,
@@ -1410,7 +1371,6 @@ um correto relacionamento identificado por Pedro é:
 a) FTP - Camada de Transporte.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
-
 
 b) HTTP - Camada de Transporte.
 
@@ -1428,7 +1388,7 @@ de rede.
 
 Gabarito: D
 
-Item. 5. FCC - TRF - 23 Região/Analista Judiciário - lnformática/2012
+5. FCC - TRF - 23 Região/Analista Judiciário - lnformática/2012
 
 Sobre o protocolo HTTP, é correto afirmar:
 
@@ -1462,7 +1422,6 @@ b) Vimos que as informações referentes ao nome da página, estado corrente da 
 informações do navegador (User Agent) e língua aceitas, entre outros, fazem parte da
 estrutura do cabeçalho HTTP. CORRETO
 
-
 c) Essa é uma característica das conexões não persistentes, ou seja, da versão 1.0. As
 conexões persistentes abrem uma única conexão para transporte de todos os dados da
 comunicação. INCORRETO
@@ -1476,7 +1435,7 @@ INCORRETO
 
 Gabarito: B
 
-Item. 6. FCC - TCE-SP/Auxiliar de Fiscalização Financeira/2012
+6. FCC - TCE-SP/Auxiliar de Fiscalização Financeira/2012
 
 Sobre o protocolo HTTP, é correto afirmar:
 
@@ -1514,13 +1473,12 @@ c) Temos aí um exemplo de funcionamento do HTTP. CORRETO
 d) Servidores WEB implementam o lado do servidor e não do cliente. O resto da questão
 está conforme esperado. INCORRETO
 
-
 e) Conforme já conversamos, o HTTP possui uma estrutura completa de requisição e
 resposta. INCORRETO
 
 Gabarito: C
 
-Item. 7. FCC - MPE-AM/Agente de Apoio - Manutenção e Suporte de lnformática/2013
+7. FCC - MPE-AM/Agente de Apoio - Manutenção e Suporte de lnformática/2013
 
 HTTPS (HyperText Transfer Protocol Secure) é um protocolo que combina o uso do HTTP
 com o
@@ -1541,7 +1499,7 @@ estabelecimento dessa camada de segurança.
 
 Gabarito: A
 
-Item. 8. FCC - TRF -12 Região/Analista Judiciário - Área de Apoio Especializado/2014
+8. FCC - TRF -12 Região/Analista Judiciário - Área de Apoio Especializado/2014
 
 Orecebe os pedidos HTTP na porta configurada e processa todos os pedidos da web
 que chegam, podendo distribuí-los. Os pedidos de objetos que podem ser armazenados no
@@ -1563,14 +1521,13 @@ d} filtro de logs.
 
 e)proxy reverso.
 
-
 Comentário:
 
 Vimos que essas são as características do proxy reverso, conforme figura abaixo:
 
 Gabarito: E
 
-Item. 9. FCC - TRT - 6- Região (PE)/Analista Judiciário - TI/2012
+9. FCC - TRT - 6- Região (PE)/Analista Judiciário - TI/2012
 
 Protocolos de rede podem ser classificados como "sem estados" (statelessj ou "com
 estado" (stateful). A este respeito é correto afirmar que
@@ -1590,7 +1547,6 @@ e) protocolos com estados exigem que cada mensagem trocada entre cliente e servi
 contenha informação respectiva ao estado da transação.
 
 Comentário:
-
 
 Vimos que o HTTP é um protocolo sem estados. Vale lembrar que o conceito de
 persistência é diferente do fato de não armazenar estado. Nesse sentido, uma alternativa
@@ -1638,7 +1594,6 @@ Gabarito: C
 
 12.FCC - TRE-CE/Técnico Judiciário - Operação de Computador/2012
 
-
 0 protocolo HTTPS é uma implementação do protocolo HTTP utilizando um meio de
 comunicação seguro entre dois computadores, como por exemplo TLS/SSL. Por padrão, a
 porta TCP utilizada para a comunicação HTTPS é a porta
@@ -1681,12 +1636,11 @@ será sem estados ou stateless.
 
 Gabarito: A
 
-
 LISTA DE EXERCÍCIOS
 
 HTTP
 
-Item. 1. CESPE - STJ/Analista Judiciário - Suporte em TI/2015
+1. CESPE - STJ/Analista Judiciário - Suporte em TI/2015
 
 Uma forma de se melhorar o desempenho do acesso a páginas web frequentemente
 visitadas é armazenar-se o conteúdo dessas páginas para que sejam rapidamente
@@ -1694,7 +1648,7 @@ carregadas em solicitações futuras, estando, entre os possíveis processos par
 essa tarefa, o proxy, ao qual serão encaminhadas todas as requisições de acesso a páginas
 web.
 
-Item. 2. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
+2. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
 
 0 elemento em que uma das partes de uma informação é armazenada como cadeia de
 texto na máquina do usuário e cuja função principal é a de manter a persistência de
@@ -1709,7 +1663,7 @@ d) cookie.
 
 e) XML.
 
-Item. 3. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
+3. CESPE - TJ TRE MS/Apoio Especializado/Programação de Sistemas/2013
 
 Com referência ao Hyper Text Transfer Protocol (HTTP) — protocolo de aplicação
 utilizado para o tratamento de pedidos e respostas entre cliente e servidor na Internet e
@@ -1727,36 +1681,35 @@ d) SET, GET, CONSTRUCTOR, DESTRUCTOR
 
 e) GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS
 
-Item. 4. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+4. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 0 protocolo HTTP, que não armazena informações sobre o estado do cliente, classifica-se
 como do tipo stateless.
 
-
-Item. 5. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+5. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 Um servidor HTTP consiste em um servidor de aplicações.
 
-Item. 6. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+6. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 Ao receber uma requisição, o servidor procura pelo recurso requisitado e envia, ao cliente,
 uma resposta com um código, que pode iniciar-se por lxx, que indica sucesso no
 recebimento da requisição; 2xx, que indica redirecionamento da requisição; 3xx, que
 informa erros acontecidos no cliente; e 4xx, que informa erros no servidor.
 
-Item. 7. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+7. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 >1$ estratégias usadas para diminuir o tráfego causado pelo grande número de acessos a
 páginas web podem ser do tipo cache web, que é implementado no cliente, no GET
 condicional ou na rede servidor Proxy Web.
 
-Item. 8. CESPE - MPU/Analista Judiciário - Suporte e lnfraestrutura/2013
+8. CESPE - MPU/Analista Judiciário - Suporte e lnfraestrutura/2013
 
 Os servidores proxy criam um cache com as solicitações de cada usuário, deforma a
 otimizar consultas futuras de um mesmo usuário, sendo esse cache de uso exclusivo de seu
 respectivo usuário.
 
-Item. 9. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+9. CESPE - TJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 0 código abaixo ilustra uma resposta de um servidor web.
 
@@ -1776,7 +1729,6 @@ pacote de sincronismo da conexão o responsável por indicar o tipo de cifra que
 utilizado na sessão.
 
 11.CESPE - TJ TRT17/Apoio Especializado/Tecnologia da lnformação/2013
-
 
 Como maneira de se evitar o desenvolvimento de novos protocolos de camada de
 aplicação, diversas aplicações usam o HTTP como forma de transferir dados fim afim na
@@ -1820,7 +1772,6 @@ Na busca de um produto em uma loja virtual por meio de um webservice, quando o
 produto é encontrado, o protocolo HTTP retorna um HTTP/1.1 404, o que facilita o
 tratamento do pedido no programa cliente.
 
-
 19.CESPE - TRE-GO/Técnico Judiciário - Programação de Sistemas/2015
 
 Por meio do protocolo chave HTTP, é possível utilizar o método PUT para se criar um
@@ -1847,7 +1798,6 @@ renegociação da conexão.
 No HTTP, a técnica geral do controle de fluxo garante que não haja interferência entre as
 conexões independentes. Entretanto essa técnica foi abandonada na versão 2 do HTTP, que
 criou o conceito de WINDOWJJPDATEframe.
-
 
 GABARITO
 
@@ -1899,12 +1849,11 @@ GABARITo - QUESTõES CESPE
 
 23 E
 
-
 LISTA DE EXERCÍCIOS COMPLEMENTARES
 
 HTTP
 
-Item. 1. FCC - TRT - 155 Região/Analista Judiciário - TI/2015
+1. FCC - TRT - 155 Região/Analista Judiciário - TI/2015
 
 Um serviço da internet utiliza diferentes protocolos, por exemplo, protocolos relacionados
 com a função de roteamento, transmissão de dados e transferência de hipertexto para
@@ -1921,7 +1870,7 @@ d) ARP, FTP e HTTP.
 
 e) TCP, IP e HTTP.
 
-Item. 2. FCC - TRT - 165 Região(MA)/Técnico Judiciário - TI/2014
+2. FCC - TRT - 165 Região(MA)/Técnico Judiciário - TI/2014
 
 Os diversos protocolos do conjunto (suite) TCP/IP são organizados em camadas de
 funcionalidade. Quando um usuário da internet realiza um acesso à página Web, ele está
@@ -1936,7 +1885,7 @@ d) TCP.
 
 e) IP.
 
-Item. 3. FCC - TRT - 25 Região (SP)/Técnico Judiciário - TI/2014
+3. FCC - TRT - 25 Região (SP)/Técnico Judiciário - TI/2014
 
 No modelo de referência de 4 camadas da suíte de protocolos TCP/IP, os protocolos
 Ethernet, HTTP e ICMP localizam-se, respectivamente, nas camadas
@@ -1949,8 +1898,7 @@ d) Transporte, Aplicação e Enlace de dados.
 
 e) Física, Transporte e Enlace de dados.
 
-
-Item. 4. FCC - TRF - 4^ Região/Técnico Judiciário - TI/2014
+4. FCC - TRF - 4^ Região/Técnico Judiciário - TI/2014
 
 Pedro, técnico em informática do TRF da 4ã Região, deve comprovar os seus conhecimentos
 sobre o modelo OSI identificando os protocolos às respectivas camadas do modelo. Assim,
@@ -1966,7 +1914,7 @@ d) HTTP - Camada de Aplicação.
 
 e) SNMP - Camada de Rede.
 
-Item. 5. FCC - TRF - 25 Região/Analista Judiciário - lnformática/2012
+5. FCC - TRF - 25 Região/Analista Judiciário - lnformática/2012
 
 Sobre 0 protocolo HTTP, é correto afirmar:
 
@@ -1989,7 +1937,7 @@ requisição e 0 relatório de erros, quando houver.
 e) Os únicos métodos (comandos) de requisição do protocolo HTTP são GET e POST. 0
 status de retorno de número 404 do método HTTP indica que o serviço está indisponível.
 
-Item. 6. FCC - TCE-SP/Auxiliar de Fiscalização Financeira/2012
+6. FCC - TCE-SP/Auxiliar de Fiscalização Financeira/2012
 
 Sobre 0 protocolo HTTP, é correto afirmar:
 
@@ -2002,7 +1950,6 @@ programas, implementados em sistemas finais diferentes, conversam um com o outro
 meio da troca de mensagens HTTP. 0 HTTP não define a estrutura dessas mensagens, mas
 define 0 modo como cliente e servidor as trocam.
 
-
 c) 0 HTTP usa o TCP como seu protocolo de transporte subjacente. 0 cliente HTTP
 primeiramente inicia uma conexão TCP com o servidor. Uma vez estabelecida a conexão,
 os processos do browser e do servidor acessam o TCP por meio de suas interfaces socket.
@@ -2013,7 +1960,7 @@ web, cada um endereçado por um URL. 0 Apache e o IIS são servidores web popula
 e) 0 HTTP define como clientes web requisitam páginas web aos servidores, mas não
 define como eles as transferem aos clientes.
 
-Item. 7. FCC - MPE-AM/Agente de Apoio - Manutenção e Suporte de lnformática/2013
+7. FCC - MPE-AM/Agente de Apoio - Manutenção e Suporte de lnformática/2013
 
 HTTPS (HyperText Transfer Protocol Secure) é um protocolo que combina o uso do HTTP
 com o
@@ -2027,7 +1974,7 @@ d) IDS e IPS, a fim de prover segurança contra invasores.
 
 e) IMAP e POP, a fim de prover comunicação segura.
 
-Item. 8. FCC - TRF -1^ Região/Analista Judiciário - Área de Apoio Especializado/2014
+8. FCC - TRF -1^ Região/Analista Judiciário - Área de Apoio Especializado/2014
 
 0recebe os pedidos HTTP na porta configurada e processa todos os pedidos da web
 que chegam, podendo distribuí-los. Os pedidos de objetos que podem ser armazenados no
@@ -2050,7 +1997,7 @@ d) filtro de logs.
 
 e) proxy reverso.
 
-Item. 9. FCC - TRT - 65 Região (PE)/Analista Judiciário - TI/2012
+9. FCC - TRT - 65 Região (PE)/Analista Judiciário - TI/2012
 
 Protocolos de rede podem ser classificados como "sem estados" (stateless) ou "com
 estado" (stateful). A este respeito é correto afirmar que
@@ -2069,7 +2016,7 @@ estados.
 e) protocolos com estados exigem que cada mensagem trocada entre cliente e servidor
 contenha informação respectiva ao estado da transação.
 
-Item. 10. FCC - TJ-AP/Analista Judiciário - TI/2014
+10. FCC - TJ-AP/Analista Judiciário - TI/2014
 
 0 protocolo HTTPS (HyperText Transfer Protocol Secure) é uma implementação
 elaborada a partir do protocolo HTTP, na qual se incorporou uma camada de segurança.
@@ -2108,7 +2055,6 @@ e) 512.
 
 13.FCC - AL-SP/Agente Técnico Legislativo Especializado - Segurança de Redes/2010
 
-
 Protocolos de rede podem ser classificados como "sem estados" (stateless) ou "com
 estado" (stateful). Um exemplo de protocolo "sem estados" é o protocolo
 a) HTTP.
@@ -2120,7 +2066,6 @@ c) SMTP.
 d) DHCP.
 
 e) NFS.
-
 
 GABARITO
 
@@ -2151,7 +2096,6 @@ GABARITo - QUESTõES FCC
 12 B
 
 13 A
-
 
 SSL(SECURITY SoCKET LAYER) E TLS (TRANSPoRT LAYER
 SECURITY)
@@ -2194,7 +2138,6 @@ SSL 3.0
 
 publisbed
 
-
 TLS WG
 
 formcd
@@ -2204,7 +2147,6 @@ TLS 1.0
 publisbed
 
 993 1 994 1995 1996 1997
-
 
 NCSA
 
@@ -2218,7 +2160,6 @@ relcascd
 Netscape
 Navigatoc
 releascd
-
 
 SSL
 
@@ -2259,7 +2200,6 @@ Ao trazermos os principais objetivos a serem alcançados pelo SSL, podemos lista
 * Garantia da Integridade dos dados (caso estes sejam alterados, pode-se detectar
 facilmente);
 
-
 * Garantia da Confidencialidade: As informações transmitidas não podem ser interceptadas
 e
 interpretadas devido ao uso da criptografia, devendo ser lida apenas pelo destinatário
@@ -2280,7 +2220,6 @@ Alert Protocol.
 Assim, para termos um aspecto visual da estrutura do protocolo, podemos analisar a
 imagem a
 seguir:
-
 
 Handshake
 Protocol
@@ -2307,7 +2246,6 @@ troca de
 mensagens vinculadas ao funcionamento e transmissão de dados na conexão. Faz
 algo
 semelhante ao protocolo ICMP em relação ao IP. Possui duas identificações clássicas:
-
 
 "Warning" e "Fatal". Ao ser enviado uma mensagem do tipo FATAL, a
 transmissão é
@@ -2338,13 +2276,13 @@ com o
 HANDSHAKE PROTOCOL. Detalhando um pouco mais essa fase, temos que essas etapas permitem a
 definição de algoritmos para geração de chaves de sessão. As etapas são:
 
-Item. 1. Negociação dos Algoritmos - Busca-se definir qual algoritmo é suportado por ambos
+1. Negociação dos Algoritmos - Busca-se definir qual algoritmo é suportado por ambos
 e será
 utilizado. A tendência é escolher sempre o algoritmo mais robusto. O cliente faz a
 requisição
 da comunicação segura e o servidor responde com uma lista de algoritmos suportados.
 
-Item. 2. Troca de Chaves e Autenticação - Após a ciência e definição pelo servidor do
+2. Troca de Chaves e Autenticação - Após a ciência e definição pelo servidor do
 algoritmo,
 ambos trocam chaves para realizarem a autenticação entre si. Nesse primeiro
 momento,
@@ -2354,13 +2292,12 @@ Aplica-se aqui o conceito de certificado digital por parte do servidor com todas
 informações
 inerentes a essa tecnologia.
 
-Item. 3. Encriptação simétrica e autenticação das mensagens - A partir de então as mensagens
+3. Encriptação simétrica e autenticação das mensagens - A partir de então as mensagens
 utilizam funções HASH para autenticação, garantindo assim a integridade,
 segurança e
 autenticação.
 
 Traduzindo em termos de fluxo a dinâmica apresentada, vejamos a imagem a seguir:
-
 
 Ainda, com vistas a materializar ainda mais essa dinâmica, podemos perceber em um
 cenário
@@ -2453,7 +2390,6 @@ Agora um fato muito importante para prova Estes dois protocolos não são compat
 isto é, eles
 não interoperam entre si.
 
-
 Abordando então as diferenças entre esses protocolos, podemos citar:
 
 * O TLS tem a capacidade de trabalhar em portas diferentes e usa algoritmos de
@@ -2492,12 +2428,11 @@ Suporta ainda outros protocolos agregados como o S/MIME, bastante utilizado para
 assinatura e
 cifragem de mensagens de e-mail.
 
-
 EXERCÍCIOS COMENTADOS
 
 SSL/TLS
 
-Item. 1. CESPE - FUB/Técnico de TI/2015
+1. CESPE - FUB/Técnico de TI/2015
 
 O protocolo SSL (secure socket layer) é utilizado em diversas aplicações TCP/IP para que
 se aumente a segurança na transmissão de dados. Ele é composto por protocolos base e
@@ -2508,7 +2443,6 @@ Comentários:
 
 Vimos que são exatamente esses os objetivos e as características do protocolo SSL.
 Relembrando das diversas camadas, temos:
-
 
 Handshake
 Protocol
@@ -2528,13 +2462,12 @@ E de fato, a camada SSL Record Protocolo é responsável pelas funções aqui el
 
 Gabarito: C
 
-Item. 2. CESPE - TJ-ES/Analista Judiciário - Análise de Suporte/2011
+2. CESPE - TJ-ES/Analista Judiciário - Análise de Suporte/2011
 
 HTTPS — o HTTP usado sobre o SSL (secure socket layer) — é uma alternativa adequada
 para suprir a necessidade de segurança em alguns serviços a serem disponibilizados no
 sítio do tribunal em questão. O HTTPS usa como padrão a porta 443, sendo tarefa do SSL,
 após o estabelecimento da conexão segura, compactar e criptografar os dados.
-
 
 Comentários:
 
@@ -2547,7 +2480,7 @@ dados e compactação.
 
 Gabarito: C
 
-Item. 3. CESPE - STJ/Técnico Judiciário - lnformática/2008
+3. CESPE - STJ/Técnico Judiciário - lnformática/2008
 
 HTTPS (hyper text transfer protocol securej, que verifica um certificado digital por meio
 de criptografia simétrica, é uma implementação do protocolo HTTP sobre uma camada
@@ -2562,7 +2495,7 @@ da criptografia assimétrica e não simétrica, conforme mencionado.
 
 Gabarito: E
 
-Item. 4. CESPE - TCU/Auditor Federal de Controle Externo/2010
+4. CESPE - TCU/Auditor Federal de Controle Externo/2010
 
 A confidencialidade dos votos não será violada pela captura de tráfego na Internet, sem
 que sejam quebradas as proteções oferecidas pelo protocolo TLS/SSL.
@@ -2575,12 +2508,11 @@ comunicação TLS/SSL.
 
 Gabarito: C
 
-Item. 5. CESPE - PC-DF/Agente de Polícia/2013
+5. CESPE - PC-DF/Agente de Polícia/2013
 
 Os protocolos TLS (Transport Layer Security) e SSL (Secure Sockets LayerJ possuem
 propriedades criptográficas que permitem assegurar a confidencialidade e a integridade
 da comunicação.
-
 
 Comentários:
 
@@ -2588,7 +2520,7 @@ Questão bem básica a respeito das propriedades e possibilidades do TSL e SSL, 
 
 Gabarito: C
 
-Item. 6. CESPE - ANP/Analista Administrativo - Área 5/2013
+6. CESPE - ANP/Analista Administrativo - Área 5/2013
 
 No acesso a um sítio da web que utilize protocolo HTTP, no momento da transferência dos
 dados para autenticação utilizando usuário e senha, pode-se agregar o TLS/SSL para que
@@ -2601,7 +2533,7 @@ criptografada a partir do TLS/SSL.
 
 Gabarito: C
 
-Item. 7. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
+7. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
 
 0 OpenSSL usa algoritmos de hash, como o SHA1 e MD5.
 
@@ -2612,7 +2544,7 @@ vimos, entre eles SHAÍ e MD5.
 
 Gabarito: C
 
-Item. 8. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
+8. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
 
 O OpenSSL não suporta S/MIME, o qual é utilizado para assinar e cifrar mensagens de
 email.
@@ -2623,23 +2555,21 @@ Mais um protocolo suportado pelo OpenSSL conforme vimos na sessão teórica.
 
 Gabarito: E
 
-Item. 9. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
+9. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
 
 0 OpenSSL usa o padrão AES com chaves de 128,192 e 256 bits.
 
 Comentários:
 
-
 Reforçando mais uma vez a nossa lista de protocolos suportados pelo OpenSSL.
 
 Gabarito: C
-
 
 EXERCÍCIOS COMENTADOS COMPLEMENTARES
 
 SSL
 
-Item. 1. FCC - TRT-MG/Analista Judiciário/2015
+1. FCC - TRT-MG/Analista Judiciário/2015
 
 Para reduzir a vulnerabilidade dos acessos pelo protocolo HTTP, foi introduzido, acima
 desse protocolo, o SSL, originando assim o HTTPS. O HTTPS
@@ -2663,12 +2593,11 @@ garantindo um
 aspecto de legitimidade, principalmente com o uso de certificados digitais. Entretanto,
 esses pontos não são exaustivos. Segundo Tanenbaum:
 
-
 "A SSL constrói uma
 
-Item. 1. Negociação de
+1. Negociação de
 
-Item. 2. Autenticação
+2. Autenticação
 3.
 
 conexão segura
@@ -2684,7 +2613,7 @@ servidor.
 servidor.
 secreta.
 
-Item. 4. Proteção da integridade dos dados"
+4. Proteção da integridade dos dados"
 
 Diante desse posicionamento, percebemos que com o uso do HTTPS, podemos utilizar
 também de recursos de autenticação do lado do cliente, além de prover recursos de
@@ -2699,62 +2628,59 @@ HTTP sim usufruirá desses recursos através do encapsulamento dos dados pelo SS
 
 Gabarito: E
 
-
 LISTA DE EXERCÍCIOS
 
 SSL/TLS
 
-Item. 1. CESPE - FUB/Técnico de TI/2015
+1. CESPE - FUB/Técnico de TI/2015
 
 0 protocolo SSL (secure socket layer) é utilizado em diversas aplicações TCP/IP para que
 se aumente a segurança na transmissão de dados. Ele é composto por protocolos base e
 auxiliares, tais como o SSL Record Protocol, responsável pelo transporte de informações
 autenticada e encriptada.
 
-Item. 2. CESPE - TJ-ES/Analista Judiciário - Análise de Suporte/2011
+2. CESPE - TJ-ES/Analista Judiciário - Análise de Suporte/2011
 
 HTTPS — o HTTP usado sobre o SSL (secure socket layer) — é uma alternativa adequada
 para suprir a necessidade de segurança em alguns serviços a serem disponibilizados no
 sítio do tribunal em questão. 0 HTTPS usa como padrão a porta 443, sendo tarefa do SSL,
 após o estabelecimento da conexão segura, compactar e criptografar os dados.
 
-Item. 3. CESPE - STJ/Técnico Judiciário - lnformática/2008
+3. CESPE - STJ/Técnico Judiciário - lnformática/2008
 
 HTTPS (hyper text transfer protocol secure), que verifica um certificado digital por meio
 de criptografia simétrica, é uma implementação do protocolo HTTP sobre uma camada
 SSL ou TLS.
 
-Item. 4. CESPE - TCU/Auditor Federal de Controle Externo/2010
+4. CESPE - TCU/Auditor Federal de Controle Externo/2010
 
 A confidencialidade dos votos não será violada pela captura de tráfego na Internet, sem
 que sejam quebradas as proteções oferecidas pelo protocolo TLS/SSL.
 
-Item. 5. CESPE - PC-DF/Agente de Polícia/2013
+5. CESPE - PC-DF/Agente de Polícia/2013
 
 Os protocolos TLS (Transport Layer Security) e SSL (Secure Sockets Layer) possuem
 propriedades criptográficas que permitem assegurar a confidencialidade e a integridade
 da comunicação.
 
-Item. 6. CESPE - ANP/Analista Administrativo - Área 5/2013
+6. CESPE - ANP/Analista Administrativo - Área 5/2013
 
 No acesso a um sítio da web que utilize protocolo HTTP, no momento da transferência dos
 dados para autenticação utilizando usuário e senha, pode-se agregar o TLS/SSL para que
 os dados sejam criptografados ao serem enviados.
 
-Item. 7. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
+7. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
 
 0 OpenSSL usa algoritmos de hash, como o SHA1 e MD5.
 
-
-Item. 8. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
+8. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
 
 0 OpenSSL não suporta S/MIME, o qual é utilizado para assinar e cifrar mensagens de
 email.
 
-Item. 9. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
+9. CESPE - STF/Analista Judiciário - Suporte em Tecnologia da lnformação/2013
 
 0 OpenSSL usa o padrão AES com chaves de 128,192 e 256 bits.
-
 
 GABARITO
 
@@ -2778,10 +2704,9 @@ GABARITo - QUESTõES CESPE
 
 9 c
 
-
 SSL (SECURITY SoCKET LAYER) E TLS (TRANSPoRT LAYER SECURITY)
 
-Item. 1. FCC - TRT-MG/Analista Judiciário/2015
+1. FCC - TRT-MG/Analista Judiciário/2015
 
 Para reduzir a vulnerabilidade dos acessos pelo protocolo HTTP, foi introduzido, acima
 desse protocolo, o SSL, originando assim o HTTPS. 0 HTTPS
@@ -2796,7 +2721,5 @@ desse protocolo, o SSL, originando assim o HTTPS. 0 HTTPS
 
 (E) provê recursos de autenticação de sites visitados.
 
-
 GABARITo - QUESTõES FCC
-
 

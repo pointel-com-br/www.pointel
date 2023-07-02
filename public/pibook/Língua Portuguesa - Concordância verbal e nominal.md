@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Concordância verbal e nominal.
-
+# Língua Portuguesa - Concordância verbal e nominal.
 
 Índice
 
@@ -33,7 +32,6 @@ Capítulo. Língua Portuguesa - Concordância verbal e nominal.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 NoçõES INICIAIS
 
 Pessoal,
@@ -63,7 +61,6 @@ Vamos em frente! Temos muita teoria, mas a prática também será intensa.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 TIPoS DE SUJEITo
 
 As regras de concordância são mais facilmente entendidas se o aluno lembrar os tipos
@@ -71,7 +68,6 @@ de sujeito existentes.
 Vamos a eles de forma resumida:
 
 TIPOS DE SUJEITO EXEMPLOS
-
 
 Simples
 
@@ -82,7 +78,6 @@ comercial.
 
 Eles desistiram de lutar.
 
-
 Composto
 
 Dois núcleos ou mais (nome ou
@@ -92,7 +87,6 @@ João e Maria saíram.
 
 Deputados, Senadores e líderes do governo
 não entravam em acordo.
-
 
 Indeterminado
 
@@ -105,7 +99,6 @@ regular o mercado.
 
 Vive-se bem aqui.
 
-
 Oculto ou
 desinencial
 
@@ -115,7 +108,6 @@ Fomos lá (sujeito = nós).
 
 Viajei, apesar da crise financeira (sujeito =
 eu).
-
 
 Orações sem
 sujeito
@@ -130,7 +122,6 @@ Choveu torrencialmente ontem.
 Há pessoas ruins no poder. Há anos é assim.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CoNCoRDÂNCIA CoM o SUJEITo SIMPLES
 
@@ -151,7 +142,6 @@ verbo, para induzir uma concordância atrativa equivocada. Vejam só:
 HORA IX
 
 F(SEFAZ-DF7'2O2O)
-
 
 "*muitas companhias restam presas na "divulgação"
 
@@ -208,12 +198,9 @@ seguinte termo deve
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 :a) contexto —> contextos.
 
-
 c) difícil —> difíceis.
-
 
 b) torna —> tornam.
 Comentários:
@@ -300,7 +287,6 @@ apenas "futebol", por:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Concordância com coletivos ou partitivos especificados
 
 Essa é a regra para expressões como: a maioria de, a minoria de, uma
@@ -358,7 +344,6 @@ FUNDO!
 
 /II
 
-
 É importante saber que "determinante" é a palavra ou termo que
 determina,
 modifica, acompanha o substantivo. Por esse motivo, tem função
@@ -368,7 +353,6 @@ redor"
 dele é o núcleo. Normalmente é o núcleo do sujeito que faz o verbo flexionar.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No exemplo dos partitivos, coletivos e porcentagens, o
 "determinante" ou
@@ -451,7 +435,6 @@ d) Como nossas experiências com a mídia social têm deixado claro...
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 :e)... a maior parte das pessoas obtiveram os meios financeiros para
 controlar o ambiente físico... :
 jComentários:
@@ -504,7 +487,6 @@ Portanto, o verbo poderá:
 
 :concordar com ambos.
 
-
 A maioria dos alunos que chega/chegam à escola
 
 :Na redação original, "que" retoma o núcleo do adjunto adnominal {dos
@@ -522,14 +504,12 @@ Na redação alternativa da banca, temos a outra possibilidade correta:
 
 "núcleo do sujeito"
 
-
 A maioria dos alunos que chega à escola
 t
 
 Portanto, a segunda opção também está correta, pois o verbo está concordando no singular com
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :o núcleo do sujeito (maioria), de modo que este é o antecedente do
 pronome relativo "que", isto:
@@ -594,7 +574,6 @@ Esses 10% mais pobres da humanidade são analfabetos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 OU seja, se veio um artigo antes do numeral, a concordância é feita com o artigo.
 
 Se o numeral for decimal não determinado, teremos a
@@ -605,9 +584,9 @@ pois plural indica justamente
 
 7,5 milhão foi gasto. (Sem determinante, concorda com o numeral)
 
-Item. 7.5 milhão de dólares foi gasto. | com determinante, singular ou plural
+7.5 milhão de dólares foi gasto. | com determinante, singular ou plural
 
-Item. 1.5 milhão de dólares foram gastos.
+1.5 milhão de dólares foram gastos.
 
 Seu 7,99m de altura intimida-, os 2,20m dele intimidam mais ainda.
 
@@ -656,7 +635,6 @@ adjunto. Ex.:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Obs.: Milhões, Bilhões e Milhares são usados como
 substantivos masculinos, então a
 concordância do artigo/pronome/numeral que os precede é feita no
@@ -672,7 +650,6 @@ Veja o resumo a seguir da concordância com sujeito formado por coletivos:
 CONCORDÂN TIPo DE SUJEITo
 EXEMPLoS
 
-
 Coletivos ou partitivos
 especificados
 
@@ -684,7 +661,6 @@ entrou/entraram em greve
 
 A matilha de lobos
 atravessou/atravessaram a montanha.
-
 
 FACULTATIVA
 
@@ -712,7 +688,6 @@ rrevoltados.
 IAquele milhão de brasileiros ficou
 revoltado.
 
-
 CONCORDÂN
 CIA COM O
 NUMERAL
@@ -738,9 +713,9 @@ Menos de dois clientes se queixaram. /
 
 Cerca de mH pessoas se queixaram.
 
-Item. 1.5 milhão foi gasto.
+1.5 milhão foi gasto.
 
-Item. 7.5 milhão de dólares fo/qasto.
+7.5 milhão de dólares fo/qasto.
 
 1,5 milhão de dólares foram qastos.
 
@@ -750,7 +725,6 @@ dele intimidam mais ainda.
 HORA IX
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 [(DPE-DF7'2022)
 í
@@ -846,7 +820,6 @@ Portanto, na questão, singular:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Concordância com verbos ter e vir e seus derivados
 
 Os verbos ter, vir e seus derivados {manter, deter, entreter, advir,
@@ -900,7 +873,6 @@ cobrados. São questões fáceis. Não vacile!
 HORA IX
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 [(ÜFPE/2019)
 
@@ -984,7 +956,6 @@ Obs.: Em sentido figurado, um verbo que indica fenômeno da natureza passa a
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 concordar com seu sujeito. Ex.:
 Choveram críticas ao trabalho.
 Hoje eu amanheci de mau humor!
@@ -1044,7 +1015,6 @@ O verbo haver, no sentido de existir, é impessoal e não vai ao plural. Questã
 
 t
 
-
 :
 
 \ Embora, infelizmente, tais metas não tenham sido atingidas, ocorreram
@@ -1054,7 +1024,6 @@ a melhoria na expectativa'-
 ide vida; o aumento do número de jovens nas escolas, entre outros.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :A correção gramatical e os sentidos do texto 1A10BBB seriam
 preservados caso a forma verbal:
@@ -1121,7 +1090,6 @@ Concordância com "que" e "quem"
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Essa regra vale para expressões como: Eu que fiz/Fui eu quem fiz/ Fui eu quem fez.
 
 Em sujeitos modificados por pronome relativo "que", o verbo
@@ -1161,7 +1129,6 @@ substantivo, que poderá ser sujeito ou objeto. Normalmente, o
 predicativo do sujeito vem após
 um verbo de ligação (ser, estar, parecer, ficar, tornar-se).
 
-
 Ex.: Ela é
 
 Suj. VL
@@ -1180,7 +1147,6 @@ Predicativo
 Ex.: Ele foi o primeiro que correu
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Suj. VL qualidade
 
@@ -1220,14 +1186,12 @@ HORA IX
 [(PRER RÍo'NOVo7'2020)
 í
 
-
 *
 
 iJulgue o item a seguir quanto à concordância.
 :
 
 *
-
 
 *
 
@@ -1260,7 +1224,6 @@ jComentários:
 :A regra de concordância quando temos o pronome "que" como sujeito é concordar com o seu:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :"antecedente". Contudo, sabemos que o antecedente depende do
 contexto. Na redação:
@@ -1342,7 +1305,6 @@ Atenção, muitas vezes essa oração vai ser um sujeito paciente. Fique atento 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex.:
 
 Espera-se oue a economia melhore, (isto é esperado)
@@ -1381,7 +1343,6 @@ HORA IX
 
 F(CGE-CÉ72019)
 
-
 *
 
 : Candeia era quase nada. Nao tinha mais que vinte casas mortas, uma igrejinha velha, um resto de
@@ -1415,7 +1376,6 @@ t
 : Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Temos caso típico de sujeito oracional:
 
@@ -1471,7 +1431,6 @@ Observe que o particípio (vendidas) concorda em gênero e número com o sujeito
 adjetivo.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 È(CGE-CE / 2019)
 j
@@ -1555,7 +1514,6 @@ Perfeita. O verbo está no singular porque o núcleo do sujeito é "fragmentaç�
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 b) O EXCESSO de estímulos que acaba nos tornando reféns da superficialidade PREJUDICA:
 
 \prcjudicam a sensibilidade crítica.
@@ -1598,7 +1556,6 @@ VERBO HAVER PESSOAL
 
 SENTIDO EXEMPLOS
 
-
 TER/DEVER
 
 COMPORTAR-SE, PROCEDER,
@@ -1620,7 +1577,6 @@ Se ele não for aprovado, vai se haver comigo.
 Assim, houveram por bem pedir o divórcio.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Obs.: Outro verbo campeão de incidência em prova é o verbo tratar-se. Seu sujeito não aparece,
 é indeterminado.
@@ -1683,7 +1639,6 @@ i
 Í(PREE SÃO ROQUE / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 FAZ TEMPO
 QUE TRABALHA
@@ -1757,7 +1712,6 @@ b) Terão cotas eleitorais. d) Haverá cotas eleitorais.
 :Se usarmos verbo "haver" impessoal, ele só pode vir no singular: haverá cotas. Substituindo por:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :"ocorrer", o verbo vai normalmente para o plural: ocorrerão cotas. O verbo "ter", na linguagem:
 jculta, não é adequado para substituir "haver" impessoal, é considerado coloquial. Gabarito letra;
@@ -1847,14 +1801,12 @@ verbo:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 iGabarito letra D.
 
 i
 j(CAGE-RS / 2018)
 j
 t
-
 
 :
 
@@ -1937,7 +1889,6 @@ iJulgue o item a seguir quanto à correção gramatical e à coerência e à coe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 :Nos casos de cadáveres de vítimas carbonizadas, podem não mais haver impressões digitais.
 jComentários:
 :
@@ -2000,7 +1951,6 @@ Isso causa de o verbo estar em gênero e número diferente do seu referente:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Depois de um dia de estudo, a gente fica cansado.
 
 (Silepse de gênero: o adjetivo "cansado" concordou com a "ideia" de um falante homem, mas
@@ -2032,7 +1982,6 @@ HORA IX
 fcREFÍTÕ 3*72020)
 í
 
-
 *
 
 iSuponha que o trecho a seguir faça parte de uma comunicação escrita enviada por um:
@@ -2047,7 +1996,6 @@ jvisita agradável.
 t
 
 :De acordo com a norma-padrão, as lacunas devem ser preenchidas, respectivamente, por
-
 
 :a) Vossa ... hospedado ... vossa
 t
@@ -2064,7 +2012,6 @@ I
 d) Sua ... hospedado ... vossa e) Sua ... hospedada ...:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :Com pronomes de tratamento, a concordância é feita na terceira pessoa, não faça concordância:
 icom o "vós", faça com "você", seguindo o gênero do interlocutor. Se estivermos
@@ -2128,7 +2075,6 @@ Faço isso para eles não me julgarem um fracassado.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Em outros casos, de modo geral, após as preposições sem, de, a, para ou em, o infinitivo pode
 ou não ser flexionado. Contudo, as gramáticas preveem algumas regras preferenciais:
 
@@ -2183,11 +2129,9 @@ melhor resposta!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 HORA IX
 
 F(MPÜ'72O18)
-
 
 : E necessário compreender que a desigualdade se expressa em diferentes dimensões na vida das
 
@@ -2262,7 +2206,6 @@ possível existirem redes sociais".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 :
 
@@ -2270,7 +2213,6 @@ O sujeito do infinitivo é "redes sociais", no plural. Então, não cabe essa fo
 Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CoNCoRDÂNCIA CoM o SUJEITo CoMPoSTo
 
@@ -2316,7 +2258,6 @@ Morreram as plantas e a flor. (Concordância atrativa)
 HORADt
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 í (IPHAN / 2018)
 
@@ -2401,13 +2342,11 @@ Regra geral, se os núcleos estiverem coordenados, o verbo fica no plural. Ex.:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Carro, casa e comida vão subir de preço.
 
 Veja alguns casos especiais:
 
 ESPECIFICAÇÃO DO SUJEITO COMPOSTO EXEMPLOS
-
 
 Núcleos: palavras sinônimas
 
@@ -2420,7 +2359,6 @@ casamento.
 
 Carinho e afeto são essenciais ao
 casamento.
-
 
 Núcleos: infinitivos antônimos
 formando sujeito oracional
@@ -2435,7 +2373,6 @@ realidade conhecida.
 Gastar ou poupar se alternam em
 minhas prioridades.
 
-
 Infinitivos modificados por um
 artigo, significa que são
 substantivados
@@ -2446,7 +2383,6 @@ ambos os núcleos
 
 O viver e o morrer devem ser uma
 realidade conhecida.
-
 
 Infinitivos que formam um
 sujeito oracional e não forem
@@ -2489,7 +2425,6 @@ semanticamente um sujeito "nós". Observe:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 1- pessoa
 
 2- pessoa 1- pessoa do plural - NÓS (ia pessoa prevalece sobre a 2-).
@@ -2497,7 +2432,6 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 Exemplo:
 
 Tu e eu, com certeza, seremos aprovados no próximo concurso público federal.
-
 
 2- e Lí pessoas
 sujeito composto
@@ -2515,7 +2449,6 @@ A direção da empresa e eu. para o bem de todos, decidimos afastar o diretor fi
 
 Verbo
 
-
 3i e 1- pessoas
 sujeito composto
 
@@ -2528,7 +2461,6 @@ Exemplo:
 Tu e os demais membros da comissão, ainda hoje, deveis entregar o relatório.
 
 Verbo
-
 
 2í e 3Í pessoas
 sujeito composto
@@ -2558,7 +2490,6 @@ concordância segue a regra normal, concorda com o termo resumitivo, no singular
 Alimentação, gasolina, aluguéis, nada vai ficar mais barato.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Núcleos unidos por conectivos aditivos
 
@@ -2620,7 +2551,6 @@ considerar
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 o termo entre vírgulas como "adjunto adverbial de companhia". Então, está
 correto o verbo no singular.
 Questão correta.
@@ -2673,7 +2603,6 @@ ultraespecífico, "nem" funciona exatamente como a conjunção "ou". Ex.:
 I«** IX
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :(PREF. PB-RS / 2020)
 
@@ -2734,9 +2663,7 @@ usados artigos), o
 1;
 >ve..r..b.o...v..a..i..a..o...p..l.u..r.a..lG...a..b..a..r.i.t.o...l.e..t.r.a...B
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CoNCoRDÂNCIA Do VERBo SER
 
@@ -2797,7 +2724,6 @@ Está quente hoje.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 É meio dia.
 
 Acorda, são 9 horas!
@@ -2850,7 +2776,6 @@ questões.
 do alfabeto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (E) é preciso um bom tempo para que se examine essas questões, porque as raízes do
 alfabeto ainda
@@ -2921,7 +2846,6 @@ As pessoas de visão é que moldam seus destinos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 = São as pessoas de visão que moldam seus destinos.
 
 Ê É a velocidade das transformações que caracteriza, principalmente, a sociedade contemporânea
@@ -2930,18 +2854,15 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 L
 
-
 I
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CoNCoRDÂNCIA NoMINAL
 
 Os determinantes do substantivo (termos que se referem a ele) devem concordar com ele
 em gênero e
 número, conforme observamos nesse esquema.
-
 
 Aquelas
 
@@ -2951,7 +2872,6 @@ belas mulheres são
 
 Predicado nominal
 candidatas a Miss Universo.
-
 
 Pronome
 
@@ -2966,13 +2886,11 @@ uma criança completa de
 
 = alegria."
 
-
 : Há um desvio de concordância na seguinte reescritura desse trecho do Texto:
 
 ; a) Mas essas viagens diárias enchiam de alegria aquela criança.
 
 b) Como me tornava uma criança completa de alegria essa viagem diária!
-
 
 : c) Mas essas viagens diárias me tornavam uma criança completa de alegria.
 
@@ -3006,7 +2924,6 @@ ou gramatical), salvo quando o adjetivo estiver anteposto aos substantivos, caso
 admite
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 concordância com o termo mais próximo. Ex.:
 
@@ -3063,17 +2980,14 @@ Quando tocou o sinal, eu já tinha resolvido as questões.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 í (ALEPI / 2020)
 
 A sentença que admite variar a concordância é:
-
 
 i a) O deputado e a vereadora entusiasmada fizeram bela campanha.
 i
 
 I
-
 
 I
 
@@ -3087,14 +3001,12 @@ i
 
 I
 
-
 I
 
 i e) Constrangidos, o deputado e a vereadoradeixaram o plenário.
 i
 
 ; Comentários:
-
 
 I
 
@@ -3104,7 +3016,6 @@ pode ser feita no plural ou apenas com o mais próximo:
 
 = O deputado e a vereadora entusiasmadA fizeram bela campanha.
 
-
 I
 
 : O deputado e a vereadora entusiasmados fizeram bela campanha. Gabarito letra A.
@@ -3112,10 +3023,8 @@ I
 j (MPE-GO / 2019)
 j
 
-
 : Observe a concordância do(s) adjetivo(s) e assinale a alternativa incorreta.
 i
-
 
 I
 
@@ -3124,12 +3033,10 @@ i
 
 I
 
-
 I
 
 b) Em cada vaso da sala, ela arranjou cravos e rosas vermelhas.
 j
-
 
 I
 
@@ -3138,18 +3045,15 @@ i
 
 I
 
-
 d) Em cada vaso da sala, ela arranjou rosas e cravos vermelhos.
 i
 
 I
 
-
 I
 
 : e) Em cada vaso da sala, ela arranjou cravos e rosas vermelhos.
 i
-
 
 I
 
@@ -3174,14 +3078,12 @@ j
 
 I
 
-
 I
 
 Após analisar as sentenças a seguir assinale única que contém a correta concordância:
 i
 
 I
-
 
 I
 
@@ -3190,10 +3092,8 @@ i a) Vós próprias trouxestes o que era necessário para a viagem, minha cara s
 
 I
 
-
 b) Maurício dedicou-se ao trabalho e à pesquisa profundo de problemas sociais.
 ;
-
 
 I
 
@@ -3201,7 +3101,6 @@ I
 =
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 d) No quadro a óleo, viam-se o povo e a bandeira brasileira desfraldados.
 
@@ -3212,7 +3111,6 @@ I
 i Comentários:
 
 = Vejamos:
-
 
 : a) INCORRETO. Se usamos "vós", segunda pessoa do plural, deveríamos dizer: minhas caras senhoras.
 
@@ -3252,14 +3150,12 @@ sujeiras.
 = e) Para desespero da mulher, os pés do marido estavam frequentemente colocado em
 cima dos móveis.
 
-
 i Comentários:
 I
 
 A letra B está perfeita, apenas o sujeito está posposto, depois do verbo:
 
 = a insatisfação da dona de casa com os maus hábitos do marido Costumava ser constante
-
 
 : Vejamos a correção das demais:
 
@@ -3281,7 +3177,6 @@ I
 : e) Para desespero da mulher, os PÉS do marido estavam frequentemente colocados em
 cima dos móveis.
 
-
 : Gabarito letra B.
 
 UUFPE/2019)
@@ -3289,12 +3184,10 @@ I
 
 : Julgue o item a seguir.
 
-
 i Geralmente não são observadas nas decisões governamentais o embasamento
 científico necessário no
 
 = campo da educação.
-
 
 i Comentários:
 
@@ -3306,7 +3199,6 @@ decisões governamentais o
 : EMBASAMENTO científico necessário no campo da educação. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Advérbios x Adjetivos
 
@@ -3371,7 +3263,6 @@ Anexo e apenso
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Anexo e apenso são adjetivos e concordam em gênero e número com o termo substantivo
 a que se referem.
 As expressões "em anexo" e "em apenso" são invariáveis. Ex.:
@@ -3411,11 +3302,9 @@ i
 
 I
 
-
 I
 
 ; Comentários:
-
 
 ;O núcleo é plural: "atividades", então teremos: ATIVIDADES desportivas depois da aula dependeM dei
 deferimento do docente da disciplina e só PODEM SER AUTORIZADAS depois do meio-dia e meia (meia
@@ -3433,12 +3322,10 @@ i
 
 I
 
-
 i Julgue o item a seguir.
 i
 
 I
-
 
 I
 
@@ -3448,7 +3335,6 @@ i negada a oportunidade de aprender.
 i
 i Comentários:
 
-
 ; "Compreensão" veio precedido de artigo, então a flexão é obrigatória: É
 necessáriA A compreensão...;
 
@@ -3457,24 +3343,20 @@ necessáriA A compreensão...;
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 : (UNESP / 2019)
 
 = Assinale a alternativa correta gramaticalmente:
 i
-
 
 ; a) Vocês tiveram a coragem de permanecer só, em meio a tantos perigos?
 ;
 
 I
 
-
 I
 
 b) Agora eu estou quites com o serviço militar; aqui está meu certificado de reservista.
 j
-
 
 I
 
@@ -3482,17 +3364,14 @@ I
 
 I
 
-
 d) Só, Pedro e Paulo abriram o cofre e fugiram com o dinheiro.
 j
-
 
 : e) Paguei os impostos atrasados, e agora estou quites com a Receita Federal.
 i
 i Comentários:
 
 I
-
 
 I
 
@@ -3504,7 +3383,6 @@ plural.
 
 I
 
-
 I
 
 : Vejamos as demais:
@@ -3512,12 +3390,10 @@ i
 
 I
 
-
 : a) Vocês tiveram a coragem depermanecer SÓS(SOZINHOS), em meio a tantos perigos?
 ;
 
 I
-
 
 I
 
@@ -3530,7 +3406,6 @@ plural ou no singular.;
 b) Agora eu estou QUITE com o serviço militar; aqui está meu certificado de reservista.
 i
 
-
 : Quite é adjetivo e concorda com o sujeito "eu".
 i
 d) Só Pedro e Paulo abriram o cofre e fugiram com o dinheiro.
@@ -3539,7 +3414,6 @@ d) Só Pedro e Paulo abriram o cofre e fugiram com o dinheiro.
 = Não existe essa vírgula separando "só" do sujeito; "só" faz parte do sujeito.
 i
 
-
 I
 
 : e) Paguei os impostos atrasados, e agora estou quites com a Receita Federal.
@@ -3547,12 +3421,10 @@ i
 
 I
 
-
 ; Quite é adjetivo e concorda com o sujeito oculto. Gabarito letra C.
 i
 
 ; (PETROBRAS / 2017)
-
 
 I
 
@@ -3560,7 +3432,6 @@ A concordância nominal está de acordo com a norma-padrão da língua portugues
 ;
 
 I
-
 
 I
 
@@ -3571,14 +3442,12 @@ i
 
 I
 
-
 I
 
 i c) Considero bastantes desconfortáveis aquelas poltronas.
 i
 
 I
-
 
 I
 
@@ -3587,7 +3456,6 @@ d) As milhares de pessoas prejudicadas vão reclamardessa companhia aérea.
 
 I
 
-
 I
 
 : e) É proibido a chamada da comissária durante a decolagem.
@@ -3595,11 +3463,9 @@ I
 
 I
 
-
 i Comentários:
 
 I
-
 
 I
 
@@ -3609,12 +3475,10 @@ icom o termo substantivo. Por isso, está correta a frase: "segue ANEXA A PASSAG
 pois o adjetivo i
 i "anexa" concorda no feminino singular com o substantivo "passagem".
 
-
 : Vejamos as correções:
 i
 
 I
-
 
 I
 
@@ -3629,7 +3493,6 @@ pronome =
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 indefinido (Bastantes livros)
 
 d) OS MILHARES de pessoas prejudicadas vão reclamar dessa companhia aérea.
@@ -3642,10 +3505,9 @@ expressão segue a concordância desse artigo.) Gabarito letra B.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - TIPoS DE SUJEITo - CEBRASPE
 
-Item. 1. CEBRASPE / ICMBIO / 2022
+1. CEBRASPE / ICMBIO / 2022
 
 As espécies de crescimento rápido são as que mais assustam os técnicos
 responsáveis pela
@@ -3689,7 +3551,7 @@ termo semântico.
 
 Questão incorreta.
 
-Item. 2. CEBRASPE / TELEBRAS / 2022
+2. CEBRASPE / TELEBRAS / 2022
 
 ...A telecomunicação militar apoiada em satélites e a eletrônica
 determinarão as guerras do
@@ -3713,12 +3575,11 @@ o "SE" é partícula indeterminadora do sujeito.
 
 Questão correta.
 
-Item. 3. CEBRASPE / TELEBRAS / 2022
+3. CEBRASPE / TELEBRAS / 2022
 
 A importância das telecomunicações ficou evidente nos dias que se seguiram ao terremoto
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 que devastou o Haiti, em janeiro de 2010.
 
@@ -3734,7 +3595,7 @@ pronominal. Segundo Celso Pedro Luft, o "se" poderia inclusive ser suprimido.
 
 Questão incorreta.
 
-Item. 4. CEBRASPE / DPE-RS / 2022
+4. CEBRASPE / DPE-RS / 2022
 
 Na sociedade líquido-moderna da hipermodernidade globalizante, o fazer
 compras não
@@ -3756,11 +3617,9 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Equipe Português Estratégia Concursos,
 
-
-Item. 1. (CEBRASPE / TELEBRAS / 2022)
+1. (CEBRASPE / TELEBRAS / 2022)
 
 A comunicação tem-se transformado em um setor estratégico da economia,
 da política e
@@ -3784,7 +3643,7 @@ nominais do núcleo
 
 Questão incorreta.
 
-Item. 2. (CEBRASPE / DPE-DF / 2022)
+2. (CEBRASPE / DPE-DF / 2022)
 
 Vivem 4,5 bilhões de pessoas que não têm saneamento nem água encanada,
 desprovidas
@@ -3815,7 +3674,7 @@ das condições mínimas de higiene.
 Observe que não haveria mudança de sentido, porque os 4,5 bilhões são as próprias pessoas:
 Questão correta.
 
-Item. 3. (CEBRASPE / TELEBRAS / 2022)
+3. (CEBRASPE / TELEBRAS / 2022)
 
 É importante saber o nome das coisas. Ou, pelo menos, saber comunicar o que você
 quer. Imagine-se entrando numa loja para comprar um... um... como é mesmo o nome?
@@ -3827,7 +3686,6 @@ quer. Imagine-se entrando numa loja para comprar um... um... como é mesmo o nom
 0 0 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 www. esfra teg/aconcursos. com. br
-
 
 "Pois não?"
 
@@ -3869,7 +3727,7 @@ temos sujeito elíptico.
 
 Questão incorreta.
 
-Item. 4. (CEBRASPE / MJSP / 2022)
+4. (CEBRASPE / MJSP / 2022)
 
 Na ótica da saúde pública, pode-se conceituar a política de redução
 de danos como um
@@ -3894,8 +3752,7 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 5. (CEBRASPE / DPE-RS / 2022)
+5. (CEBRASPE / DPE-RS / 2022)
 
 Isso pode acontecer porque a norma ou prática não leva em
 consideração ou não pode
@@ -3913,8 +3770,7 @@ equivalência, isto é,
 
 Questão correta.
 
-
-Item. 6. (CEBRASPE / MP-CE / 2021)
+6. (CEBRASPE / MP-CE / 2021)
 
 . Tateando desajeitadamente com
 io as antenas que só agora ia aprendendo a valorizar, arrastou-se
@@ -3954,12 +3810,11 @@ transmitido pelo texto.
 
 Questão correta.
 
-Item. 7. (CEBRASPE / SEED-PR / 2021)
+7. (CEBRASPE / SEED-PR / 2021)
 
 Socorro
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Socorro, alguém me dê um coração,
 que esse já não bate nem apanha.
@@ -3995,7 +3850,7 @@ HAVER quando expressa sentido de EXISTIR.
 
 Gabarito letra D.
 
-Item. 8. (CEBRASPE / MP-CE / 2020)
+8. (CEBRASPE / MP-CE / 2020)
 
 rs Já as pesquisas na área de psicologia experimental.
 que muitas vezes estudam o comportamento dos animais,
@@ -4021,8 +3876,7 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 9. (CEBRASPE / SEFAZ-DF / 2020)
+9. (CEBRASPE / SEFAZ-DF / 2020)
 
 Na pesquisa, eles constataram
 
@@ -4047,7 +3901,7 @@ PLURAL com o núcleo
 logo, a correção gramatical
 ficaria prejudicada com a substituição. Questão incorreta.
 
-Item. 10. (CEBRASPE / SEFAZ-DF / 2020)
+10. (CEBRASPE / SEFAZ-DF / 2020)
 
 Em pesquisa com dez setores industriais ao iongo de três anos, os
 dois professores do IMD
@@ -4075,7 +3929,7 @@ singular, como consta na substituição proposta na assertiva.
 
 Questão correta.
 
-Item. 11. (CEBRASPE / MP-CE / 2020)
+11. (CEBRASPE / MP-CE / 2020)
 
 A correção gramatical e os sentidos originais do texto seriam
 mantidos caso o período "A
@@ -4096,7 +3950,6 @@ A integridade dos alimentos contribuem...
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A INTEGRIDADE dos alimentos CONTRIBUI
 
 Não é possível concordar com o determinante "dos alimentos", pois essa possibilidade só
@@ -4107,7 +3960,7 @@ do sujeito.
 
 Questão incorreta.
 
-Item. 12. (CEBRASPE / TJ-PA / 2020)
+12. (CEBRASPE / TJ-PA / 2020)
 
 Todas as atividades realizadas no país e todas as pessoas que estão no Brasil estão
 sujeitas à lei.
@@ -4129,7 +3982,7 @@ concordância normal com o sujeito Exceções.
 
 Gabarito letra E.
 
-Item. 13. (CEBRASPE / SEFAZ-RS / 2019)
+13. (CEBRASPE / SEFAZ-RS / 2019)
 
 Desse modo, o poder de tributar está na origem do Estado ou do ente político, a
 partir da qual
@@ -4150,7 +4003,7 @@ pessoas passaram a constituir uma sociedade de fato.
 
 Questão correta.
 
-Item. 14. (CEBRASPE / PGE-PE / 2019)
+14. (CEBRASPE / PGE-PE / 2019)
 
 A invenção das técnicas para controlar o fogo, o início da agricultura e
 do pastoreio na
@@ -4166,7 +4019,6 @@ por representam.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 O sujeito é singular: "tudo isso", então o verbo não pode ficar no
@@ -4177,7 +4029,7 @@ o núcleo do sujeito.
 
 Questão incorreta.
 
-Item. 15. (CEBRASPE / CGE-CE / 2019)
+15. (CEBRASPE / CGE-CE / 2019)
 
 Candeia era quase nada. Não tinha mais que vinte casas mortas, uma igrejinha velha,
 um resto de
@@ -4206,7 +4058,7 @@ Temos caso típico de sujeito oracional:
 
 Gabarito letra A.
 
-Item. 16. (CEBRASPE / CGE-CE / 2019)
+16. (CEBRASPE / CGE-CE / 2019)
 
 "Ainda hoje, em muitos rincões do nosso país, são encontrados administradores
 públicos cujas
@@ -4228,10 +4080,9 @@ com o sujeito plural administradores).
 
 Questão incorreta.
 
-Item. 17. (CEBRASPE / CGE-CE / 2019)
+17. (CEBRASPE / CGE-CE / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "Ainda hoje, em muitos rincões do nosso país, são encontrados administradores
 públicos cujas
@@ -4253,7 +4104,7 @@ administradores - Existem administradores).
 
 Questão incorreta.
 
-Item. 18. (CEBRASPE / STM / 2018)
+18. (CEBRASPE / STM / 2018)
 
 Grandes jornais seriam levados à falência por difamações involuntárias, exércitos
 inteiros seriam
@@ -4273,7 +4124,7 @@ concordar com
 
 Questão incorreta.
 
-Item. 19. (CEBRASPE / STM / 2018)
+19. (CEBRASPE / STM / 2018)
 
 Trata-se de uma visão revolucionária, já que o convencional era fazer o elogio da
 harmonia e da
@@ -4295,7 +4146,7 @@ revolucionária" ou "ideias revolucionárias" seriam meros objetos indiretos, qu
 não afetam a
 concordância. Questão incorreta.
 
-Item. 20. (CEBRASPE / STM / 2018)
+20. (CEBRASPE / STM / 2018)
 
 O grupo tende a escolher como líder a pessoa que lhe pode dar maior assistência e
 orientação
@@ -4304,7 +4155,6 @@ problemas)
 para que alcance seus objetivos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Há uma ambiguidade quanto ao antecedente do sujeito elíptico da forma verbal
 "alcance", que
@@ -4322,7 +4172,7 @@ seguido de um determinante. Mas não é o caso aqui.
 
 Questão incorreta.
 
-Item. 21. (CEBRASPE / EBSERH / 2018)
+21. (CEBRASPE / EBSERH / 2018)
 
 Durante o período do Estado Novo (1937-1945), no governo de Getúlio Vargas, foram
 adotados
@@ -4341,7 +4191,7 @@ legais".
 
 Questão incorreta.
 
-Item. 22. (CEBRASPE / IHBDF / 2018)
+22. (CEBRASPE / IHBDF / 2018)
 
 4 Quando estava com sete anos, acordei com
 os olhos inchados, e meu pai me levou ao pediatra.
@@ -4361,7 +4211,7 @@ isso o verbo fica no singular.
 
 Questão incorreta.
 
-Item. 23. (CEBRASPE / EMAP / 2018)
+23. (CEBRASPE / EMAP / 2018)
 
 O VTS é um sistema eletrônico de auxílio à navegação, com capacidade de monitorar
 ativamente
@@ -4370,7 +4220,6 @@ que haja
 intensa movimentação de embarcações ou risco de acidente de grandes proporções.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A forma verbal "haja" (L.2) poderia ser flexionada no plural — hajam —,
 preservando-se a
@@ -4381,7 +4230,7 @@ Comentários:
 O verbo HAVER, no sentido de existir, é impessoal e não vai ao plural.
 Questão incorreta.
 
-Item. 24. (CEBRASPE / CAGE-RS / 2018)
+24. (CEBRASPE / CAGE-RS / 2018)
 
 Embora, infelizmente, tais metas não tenham sido atingidas, ocorreram diversos
 avanços, como,
@@ -4405,7 +4254,7 @@ suceder, não vai ao plural.
 
 Gabarito letra C.
 
-Item. 25. (CEBRASPE / PF / 2018)
+25. (CEBRASPE / PF / 2018)
 
 Na realidade, cada cientista recebe vários casos ao mesmo tempo. A maioria
 dos laboratórios
@@ -4427,7 +4276,7 @@ ou plural estariam igualmente corretos.
 
 Questão correta.
 
-Item. 26. (CEBRASPE / IFF / 2018)
+26. (CEBRASPE / IFF / 2018)
 
 Além de participar das oficinas, é preciso ter dedicação. A pedagoga acrescenta que a
 maioria
@@ -4440,7 +4289,6 @@ aluno organize seu próprio horário de estudos e concilie a graduação com um 
 No texto, a forma verbal "têm" concorda com o termo
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 a) "pedagoga".
 Comentários:
@@ -4455,7 +4303,7 @@ adultos! Então o antecedente do "que" é os adultos e o verbo concorda com ele 
 
 Gabarito letra D.
 
-Item. 27. (CEBRASPE / STJ / 2018)
+27. (CEBRASPE / STJ / 2018)
 
 Era preciso colocar no pape! e compartilhar a dor daquelas pessoas que,
 mesmo ao fim do
@@ -4487,7 +4335,7 @@ texto.
 
 Questão correta.
 
-Item. 28. (CEBRASPE / PF / 2018)
+28. (CEBRASPE / PF / 2018)
 
 Cerca de três séculos depois, Portugal lançou-se em uma expansão de conquistas que, à
 imagem
@@ -4517,11 +4365,10 @@ alteração, pois a
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 conquistas territoriais é que levaram a língua a remotas regiões.
 Questão correta.
 
-Item. 29. (CEBRASPE / MPE PI / 2018)
+29. (CEBRASPE / MPE PI / 2018)
 
 Saiu a mais nova lista de coisas que devem ou não ser feitas, moda que parece ter
 contagiado o
@@ -4533,7 +4380,7 @@ Comentários:
 "Devem ser" é uma locução verbal, então o verbo principal, no infinitivo, não deve ir ao plural.
 Questão correta.
 
-Item. 30. (CEBRASPE / EMAP / 2018)
+30. (CEBRASPE / EMAP / 2018)
 
 O comportamento fundamental dessa mudança localiza-se no aumento das
 possibilidades do
@@ -4561,7 +4408,7 @@ constitui oração sem sujeito e, portanto, não vai ao plural.
 
 Questão incorreta.
 
-Item. 31. (CEBRASPE / PF / 2018)
+31. (CEBRASPE / PF / 2018)
 
 Julgue o item a seguir quanto à correção gramatical e à coerência e à coesão textual.
 
@@ -4578,8 +4425,7 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 32. (CEBRASPE / MPU / 2018)
+32. (CEBRASPE / MPU / 2018)
 
 É necessário compreender que a desigualdade se expressa em diferentes dimensões na vida
 das
@@ -4620,7 +4466,7 @@ facultativa do infinitivo, depende da intenção de destacar o número do sujeit
 
 Questão incorreta.
 
-Item. 33. (CEBRASPE / TRE PE / 2017)
+33. (CEBRASPE / TRE PE / 2017)
 
 Competência é uma palavra polissêmica. Uma das razões da variabilidade de seu
 significado é a
@@ -4638,7 +4484,7 @@ singular, então a concordância do verbo "ser" com o predicativo também não s
 
 Questão incorreta.
 
-Item. 34. (CEBRASPE / SEDF / 2017)
+34. (CEBRASPE / SEDF / 2017)
 
 A maioria dos alunos que chegam à escola pública é oriunda precisamente
 desses grupos
@@ -4648,7 +4494,6 @@ pública contribuir, pela oferta de educação de qualidade, para
 favorecer, mesmo que
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 indiretamente, uma melhor redistribuiçao da renda nacional.
 
@@ -4674,7 +4519,7 @@ existe, entre nossas crenças pedagógicas, um pressuposto (sujeito)
 A função sintática de "um pressuposto" de fato mudou.
 Questão correta.
 
-Item. 35. (CEBRASPE / PRER SÃO LUIS-MA / 2017) Adaptada
+35. (CEBRASPE / PRER SÃO LUIS-MA / 2017) Adaptada
 
 A estrutura administrativa e financeira era amparada por um conceito novo nos anos 60...
 
@@ -4692,10 +4537,9 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - SUJEITo CoMPoSTo - CEBRASPE
 
-Item. 1. (CEBRASPE / SEED-PR / 2021)
+1. (CEBRASPE / SEED-PR / 2021)
 
 No trecho "Na vida, o olhar da opinião, o contraste dos interesses, a luta das
 cobiças obrigam a
@@ -4725,7 +4569,7 @@ das palavras
 
 Gabarito letra D.
 
-Item. 2. (CEBRASPE / IPHAN / 2018)
+2. (CEBRASPE / IPHAN / 2018)
 
 Dentre elas, podem ser destacadas as de financiamento de estudos, postos a julgamentos
 sobre
@@ -4748,7 +4592,7 @@ agenda dos estudos do momento.
 
 Questão incorreta.
 
-Item. 3. (CEBRASPE / DIPLOMATA/2016)
+3. (CEBRASPE / DIPLOMATA/2016)
 
 Acerca das relações semântico-sintáticas e do vocabulário, julgue (C ou E) o item seguinte.
 
@@ -4759,7 +4603,6 @@ primeiro
 núcleo do sujeito posposto, concordância verbal abonada pela gramática normativa.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -4777,7 +4620,7 @@ ser a gramatical/total, ou seja, com os dois núcleos no plural.
 
 Questão correta.
 
-Item. 4. (CEBRASPE/ FUB/2016)
+4. (CEBRASPE/ FUB/2016)
 
 Darcy e Anísio convidaram cientistas, artistas e professores das mais tradicionais faculdades...
 
@@ -4797,11 +4640,10 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - CoNCoRDÂNCIA NoMINAL -
 CEBRASPE
 
-Item. 1. (CEBRASPE / PETROBRAS / 2022)
+1. (CEBRASPE / PETROBRAS / 2022)
 
 Alguns linguistas acreditam que o Homo erectus, há mais ou menos 1 milhão e meio de
 anos, já tinha uma linguagem. Os argumentos que eles dão são que o Homo erectus
@@ -4829,7 +4671,7 @@ ferramentas de pedra primitivas
 ferramentas de oedra primitiva
 Questão correta.
 
-Item. 2. (CEBRASPE / ICMBIO / 2022)
+2. (CEBRASPE / ICMBIO / 2022)
 
 As castanholas, também conhecidas como sete-copas, são uma espécie extremamente
 abundante no Rio de Janeiro, mas demonizadas em outras regiões menos urbanizadas, como
@@ -4854,7 +4696,7 @@ demonizada". Há uma mudança de referente.
 
 Questão correta.
 
-Item. 3. (CEBRASPE / TELEBRAS / 2022)
+3. (CEBRASPE / TELEBRAS / 2022)
 
 Trata-se de desinformar, e não de informar. A desinformação é a informação
 falsa,
@@ -4865,7 +4707,6 @@ informativo.
 Os nazistas levaram essa estratégia do engano quase à perfeição.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A correção gramatical e os sentidos do texto seriam preservados caso o trecho "é o
 de mantê-lo
@@ -4881,7 +4722,7 @@ se pode usar "lhe", que serve para substituir termos preposicionados; logo, não
 aceita "lhe"
 como objeto direto. Questão incorreta.
 
-Item. 4. (CEBRASPE/ IFF/2018)
+4. (CEBRASPE/ IFF/2018)
 
 Sei que "meio-dia e meio " está errado. Mas a língua é como a mulher de César: não
 lhe basta ser
@@ -4917,7 +4758,7 @@ d) INCORRETO. Meio-dia e meia também é correto.
 e) INCORRETO; 'meio' provoca erro de concordância nominal.
 Gabarito letra C.
 
-Item. 5. (CEBRASPE / PF / 2018)
+5. (CEBRASPE / PF / 2018)
 
 Popularmente conhecidos como seios aéreos faciais, os seios paranasais
 começam a se
@@ -4937,7 +4778,6 @@ paralelas ao nariz.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 Aqui, a concordância seria mantida, pois "conhecidas" concordaria com o núcleo
@@ -4950,7 +4790,7 @@ são paralelos ao nariz (há alguns acima dos olhos).
 
 Questão incorreta.
 
-Item. 6. (CEBRASPE / PREF. SÃO LUIS MA / 2017) Adaptada
+6. (CEBRASPE / PREF. SÃO LUIS MA / 2017) Adaptada
 
 Ao mesmo tempo...direitos humanos, democracia e paz são três elementos fundamentais...
 
@@ -4970,7 +4810,7 @@ Como advérbio, "mesmo" é invariável.
 
 Questão incorreta.
 
-Item. 7. (CEBRASPE / DPU / 2016)
+7. (CEBRASPE / DPU / 2016)
 
 No Brasil, pode-se considerar marco da história da assistência jurídica, ou
 justiça gratuita, a
@@ -4998,10 +4838,9 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - TIPoS DE SUJEITo - CEBRASPE
 
-Item. 1. CEBRASPE / ICMBIO / 2022
+1. CEBRASPE / ICMBIO / 2022
 
 As espécies de crescimento rápido são as que mais assustam os técnicos responsáveis pela
 arborização exageradamente tementes à infraestrutura. Todavia, as outras
@@ -5044,7 +4883,7 @@ termo semântico.
 
 Questão incorreta.
 
-Item. 2. CEBRASPE / TELEBRAS / 2022
+2. CEBRASPE / TELEBRAS / 2022
 
 ...A telecomunicação militar apoiada em satélites e a eletrônica determinarão
 as guerras do
@@ -5068,12 +4907,11 @@ o "SE" é partícula indeterminadora do sujeito.
 
 Questão correta.
 
-Item. 3. CEBRASPE / TELEBRAS / 2022
+3. CEBRASPE / TELEBRAS / 2022
 
 A importância das telecomunicações ficou evidente nos dias que se seguiram ao terremoto
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 que devastou o Haiti, em janeiro de 2010.
 
@@ -5089,7 +4927,7 @@ pronominal. Segundo Celso Pedro Luft, o "se" poderia inclusive ser suprimido.
 
 Questão incorreta.
 
-Item. 4. CEBRASPE / DPE-RS / 2022
+4. CEBRASPE / DPE-RS / 2022
 
 Na sociedade líquido-moderna da hipermodernidade globalizante, o fazer compras não
 pressupõe nenhum discurso. O consumidor — o hiperconsumidor — compra aquiio
@@ -5110,20 +4948,19 @@ Questão incorreta.
 
 GABARITo
 
-Item. 1. INCORRETA
+1. INCORRETA
 
-Item. 2. CORRETA
+2. CORRETA
 
-Item. 3. INCORRETA
+3. INCORRETA
 
-Item. 4. INCORRETA
+4. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - SUJEITo SIMPLES - CEBRASPE
 
-Item. 1. (CEBRASPE / TELEBRAS / 2022)
+1. (CEBRASPE / TELEBRAS / 2022)
 
 A comunicação tem-se transformado em um setor estratégico da economia, da
 política e
@@ -5137,7 +4974,7 @@ diferencial na forma verbal "tem" — escrevendo-se têm — a fim de que a conc
 verbal
 passasse a ser estabelecida com os termos "da informação" e "da comunicação".
 
-Item. 2. (CEBRASPE / DPE-DF / 2022)
+2. (CEBRASPE / DPE-DF / 2022)
 
 Vivem 4,5 bilhões de pessoas que não têm saneamento nem água encanada, desprovidas
 das condições mínimas de higiene.
@@ -5165,7 +5002,7 @@ das condições mínimas de higiene.
 Observe que não haveria mudança de sentido, porque os 4,5 bilhões são as próprias pessoas:
 Questão correta.
 
-Item. 3. (CEBRASPE / TELEBRAS / 2022)
+3. (CEBRASPE / TELEBRAS / 2022)
 
 É importante saber o nome das coisas. Ou, pelo menos, saber comunicar o que você
 quer. Imagine-se entrando numa loja para comprar um... um... como é mesmo o nome?
@@ -5185,7 +5022,6 @@ quer. Imagine-se entrando numa loja para comprar um... um... como é mesmo o nom
 "O senhor vai dar risada quando souber."
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "Sim, senhor."
 
@@ -5207,7 +5043,7 @@ A forma verbal 'Tem', na oração 'Tem uma ponta assim' (décimo terceiro
 parágrafo), concorda
 com o termo 'uma ponta'.
 
-Item. 4. (CEBRASPE / MJSP / 2022)
+4. (CEBRASPE / MJSP / 2022)
 
 Na ótica da saúde pública, pode-se conceituar a política de redução de danos como um
 conjunto de estratégias que visam minimizar os danos causados pelo uso de diferentes
@@ -5218,7 +5054,7 @@ A substituição da forma verbal "visam" (primeiro período do primeiro
 parágrafo) por visa
 manteria a correção gramatical do texto.
 
-Item. 5. (CEBRASPE / DPE-RS / 2022)
+5. (CEBRASPE / DPE-RS / 2022)
 
 Isso pode acontecer porque a norma ou prática não leva em consideração ou não pode
 prever de forma concreta as consequências da norma.
@@ -5227,7 +5063,7 @@ prever de forma concreta as consequências da norma.
 forma verbal
 "leva" fosse substituída por levam.
 
-Item. 6. (CEBRASPE / MP-CE / 2021)
+6. (CEBRASPE / MP-CE / 2021)
 
 . Tateando desajeitadamente com
 io as antenas que só agora ia aprendendo a valorizar, arrastou-se
@@ -5242,12 +5078,11 @@ substituição da forma verbal "havia" por teria não prejudicaria a correção
 gramatical do texto,
 mas poderia alterar o seu sentido original.
 
-Item. 7. (CEBRASPE / SEED-PR / 2021)
+7. (CEBRASPE / SEED-PR / 2021)
 
 Socorro
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Aula
 
@@ -5272,7 +5107,7 @@ d) há.
 
 e) existe.
 
-Item. 8. (CEBRASPE / MP-CE / 2020)
+8. (CEBRASPE / MP-CE / 2020)
 
 rs Já as pesquisas na área de psicologia experimental,
 que muitas vezes estudam o comportamento dos animais,
@@ -5285,8 +5120,7 @@ A correção gramatical do texto seria mantida caso a forma "existirem" (I. 22) 
 substituída por
 existir.
 
-
-Item. 9. (CEBRASPE / SEFAZ-DF / 2020)
+9. (CEBRASPE / SEFAZ-DF / 2020)
 
 Na pesquisa, eles constataram
 
@@ -5301,7 +5135,7 @@ Sem prejuízo da correção gramatical e do sentido original do texto, a forma v
 "restam" (I.
 26) poderia ser substituída por mantém-se.
 
-Item. 10. (CEBRASPE / SEFAZ-DF / 2020)
+10. (CEBRASPE / SEFAZ-DF / 2020)
 
 Em pesquisa com dez setores industriais ao longo de três anos, os dois
 professores do IMD
@@ -5315,14 +5149,13 @@ das companhias desenvolveram casos de negócios claros ou proposições de valor
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 sustentabilidade.
 
 A substituição da forma verbal "desenvolveram" por desenvolveu manteria a
 correção gramatical
 do texto.
 
-Item. 11. (CEBRASPE / MP-CE / 2020)
+11. (CEBRASPE / MP-CE / 2020)
 
 A correção gramatical e os sentidos originais do texto seriam mantidos caso
 o período "A
@@ -5336,7 +5169,7 @@ alimentar, saúde humana, prosperidade econômica, agricultura, acesso ao mercad
 turismo e
 desenvolvimento sustentável.
 
-Item. 12. (CEBRASPE / TJ-PA / 2020)
+12. (CEBRASPE / TJ-PA / 2020)
 
 Todas as atividades realizadas no país e todas as pessoas que estão no Brasil estão
 sujeitas à lei.
@@ -5351,7 +5184,7 @@ Sem prejuízo da correção gramatical e do sentido original do texto, a forma v
 ser substituída por
 a) existe. b) ocorre. c) têm. d) tem. e) existem.
 
-Item. 13. (CEBRASPE / SEFAZ-RS / 2019)
+13. (CEBRASPE / SEFAZ-RS / 2019)
 
 Desse modo, o poder de tributar está na origem do Estado ou do ente político, a
 partir da qual
@@ -5365,7 +5198,7 @@ e governados.
 
 O referente da forma verbal "passassem" é o termo "as pessoas".
 
-Item. 14. (CEBRASPE / PGE-PE / 2019)
+14. (CEBRASPE / PGE-PE / 2019)
 
 A invenção das técnicas para controlar o fogo, o início da agricultura e
 do pastoreio na
@@ -5379,14 +5212,13 @@ Seria mantida a correção gramatical do texto caso a forma verbal "representa" 
 substituída
 por representam.
 
-Item. 15. (CEBRASPE / CGE-CE / 2019)
+15. (CEBRASPE / CGE-CE / 2019)
 
 Candeia era quase nada. Não tinha mais que vinte casas mortas, uma igrejinha velha,
 um resto de
 praça. Algumas construções nem sequer tinham telhado; outras, invadidas pelo mato,
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 incompletas, sem paredes. Nem o ar tinha esperança de ser vento. Era custoso acreditar
 que
@@ -5403,7 +5235,7 @@ d) classificado como indeterminado.
 
 e) oculto e se refere ao período "Nem o ar tinha esperança de ser vento" (L. 3).
 
-Item. 16. (CEBRASPE / CGE-CE / 2019)
+16. (CEBRASPE / CGE-CE / 2019)
 
 "Ainda hoje, em muitos rincões do nosso país, são encontrados administradores públicos cujas
 ações em muito se assemelham às de Nabucodonosor, rei do império babilónico", julgue a
@@ -5413,7 +5245,7 @@ originais do texto.
 Ainda hoje, em muitos rincões do nosso país, encontra-se administradores públicos cujas ações
 se assemelham muito às do império babilónico de Nabucodonosor.
 
-Item. 17. (CEBRASPE / CGE-CE / 2019)
+17. (CEBRASPE / CGE-CE / 2019)
 
 "Ainda hoje, em muitos rincões do nosso país, são encontrados administradores públicos cujas
 ações em muito se assemelham às de Nabucodonosor, rei do império babilónico", julgue a
@@ -5423,7 +5255,7 @@ originais do texto.
 Existe, ainda hoje em muitos rincões do nosso país, administradores públicos cujas ações são
 muito semelhantes às do rei Nabucodonosor, do império babilónico.
 
-Item. 18. (CEBRASPE / STM / 2018)
+18. (CEBRASPE / STM / 2018)
 
 Grandes jornais seriam levados à falência por difamações involuntárias, exércitos inteiros seriam
 imobilizados por manuais de instrução militar sutilmente alterados, gerações de estudantes
@@ -5432,7 +5264,7 @@ seriam desencaminhadas por cartilhas ambíguas e fórmulas de química incomplet
 A substituição da forma verbal "desencaminhadas" por desencaminhados manteria a correção
 gramatical e a coerência textual, caso em que passaria a concordar com "estudantes".
 
-Item. 19. (CEBRASPE / STM / 2018)
+19. (CEBRASPE / STM / 2018)
 
 Trata-se de uma visão revolucionária, já que o convencional era fazer o elogio da harmonia e da
 unidade.
@@ -5444,8 +5276,7 @@ do texto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 20. (CEBRASPE / STM / 2018)
+20. (CEBRASPE / STM / 2018)
 
 O grupo tende a escolher como líder a pessoa que lhe pode dar maior assistência e orientação
 (que defina ou ajude o grupo a escolher os rumos e as melhores soluções para seus problemas)
@@ -5455,14 +5286,14 @@ Há uma ambiguidade quanto ao antecedente do sujeito elíptico da forma verbal "
 poderia ser dirimida caso essa forma verbal fosse flexionada no plural — alcancem —,
 estabelecendo-se concordância ideológica com a palavra "grupo".
 
-Item. 21. (CEBRASPE / EBSERH / 2018)
+21. (CEBRASPE / EBSERH / 2018)
 
 Durante o período do Estado Novo (1937-1945), no governo de Getúlio Vargas, foram adotados
 dispositivos legais para fortalecer a família numerosa, por meio de diversas medidas...
 
 A substituição de "foram adotados" por adotou-se preservaria a correção e o sentido do texto.
 
-Item. 22. (CEBRASPE / IHBDF / 2018)
+22. (CEBRASPE / IHBDF / 2018)
 
 4 Quando estava com sete anos, acordei com
 os olhos inchados, e meu pai me levou ao pediatra.
@@ -5475,7 +5306,7 @@ os médicos davam injeções enormes na bunda das crianças.
 
 O sujeito da forma verbal "parou" (I. 7) é "fábrica".
 
-Item. 23. (CEBRASPE / EMAP / 2018)
+23. (CEBRASPE / EMAP / 2018)
 
 O VTS é um sistema eletrônico de auxílio à navegação, com capacidade de monitorar ativamente
 o tráfego aquaviário, melhorando a segurança e eficiência desse tráfego, nas áreas em que haja
@@ -5485,7 +5316,7 @@ A forma verbal "haja" (L.2) poderia ser flexionada no plural — hajam —, pres
 a
 correção gramatical e os sentidos do texto.
 
-Item. 24. (CEBRASPE / CAGE-RS / 2018)
+24. (CEBRASPE / CAGE-RS / 2018)
 
 Embora, infelizmente, tais metas não tenham sido atingidas, ocorreram diversos avanços, como,
 por exemplo, a diminuição da mortalidade infantil e do analfabetismo; a melhoria na expectativa
@@ -5495,12 +5326,11 @@ A correção gramatical e os sentidos do texto 1A10BBB seriam preservados caso a
 "ocorreram" (1.1) fosse substituída por
 a) existiu, b) aconteceu, c) sucederam, d) tiveram, e) houveram.
 
-Item. 25. (CEBRASPE / PF / 2018)
+25. (CEBRASPE / PF / 2018)
 
 Na realidade, cada cientista recebe vários casos ao mesmo tempo. A maioria dos laboratórios
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 acredita que o acúmulo de trabalho é o maior problema que enfrentam, e boa parte dos pedidos
 de aumento no orçamento baseia-se na dificuldade de dar conta de tanto serviço.
@@ -5508,7 +5338,7 @@ de aumento no orçamento baseia-se na dificuldade de dar conta de tanto serviço
 Seria mantida a correção gramatical do texto caso a forma verbal "acredita" (L.2) fosse flexionada
 no plural: acreditam.
 
-Item. 26. (CEBRASPE / IFF / 2018)
+26. (CEBRASPE / IFF / 2018)
 
 Além de participar das oficinas, é preciso ter dedicação. A pedagoga acrescenta que a maioria
 dos alunos é composta por adultos, que, diferentemente das crianças, têm maior capacidade de
@@ -5519,7 +5349,7 @@ aluno organize seu próprio horário de estudos e concilie a graduação com um 
 No texto, a forma verbal "têm" concorda com o termo
 a) "pedagoga", b) "maioria", c) "alunos", d) "adultos", e) "crianças".
 
-Item. 27. (CEBRASPE / STJ / 2018)
+27. (CEBRASPE / STJ / 2018)
 
 Era preciso colocar no pape! e compartilhar a dor daquelas pessoas que, mesmo ao fim
 do
@@ -5528,7 +5358,7 @@ processo e com a sentença prolatada, não me deixavam esquecê-las.
 A alteração da forma verbal "deixavam" para o singular — deixava — não comprometeria a
 correção gramatical do período em que tal forma aparece, mas modificaria seu sentido original.
 
-Item. 28. (CEBRASPE / PF / 2018)
+28. (CEBRASPE / PF / 2018)
 
 Cerca de três séculos depois, Portugal lançou-se em uma expansão de conquistas que, à imagem
 do que Roma fizera, levou a língua portuguesa a remotas regiões: Guiné-Bissau, Angola,
@@ -5538,14 +5368,14 @@ A correção gramatical e a coerência do texto seriam preservadas caso a forma 
 "levou"
 fosse substituída por levaram.
 
-Item. 29. (CEBRASPE / MPE PI / 2018)
+29. (CEBRASPE / MPE PI / 2018)
 
 Saiu a mais nova lista de coisas que devem ou não ser feitas, moda que parece ter contagiado o
 planeta.
 
 Na linha 1, seria incorreto o emprego do verbo "ser" no plural — serem.
 
-Item. 30. (CEBRASPE / EMAP / 2018)
+30. (CEBRASPE / EMAP / 2018)
 
 O comportamento fundamental dessa mudança localiza-se no aumento das possibilidades do
 agir humano, na diversificação dos papéis sociais e na abertura para o futuro. Houve, em resumo,
@@ -5557,14 +5387,13 @@ verbal
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 31. (CEBRASPE/ PF/2018)
+31. (CEBRASPE/ PF/2018)
 
 Julgue o item a seguir quanto à correção gramatical e à coerência e à coesão textual.
 
 Nos casos de cadáveres de vítimas carbonizadas, podem não mais haver impressões digitais.
 
-Item. 32. (CEBRASPE / MPU / 2018)
+32. (CEBRASPE / MPU / 2018)
 
 É necessário compreender que a desigualdade se expressa em diferentes dimensões na vida das
 pessoas e que apenas uma minoria se beneficia com a acumulação de riqueza e de poder.
@@ -5572,7 +5401,7 @@ pessoas e que apenas uma minoria se beneficia com a acumulação de riqueza e de
 A substituição da forma verbal "compreender" por compreendermos prejudicaria a correção
 gramatical do texto, assim como alteraria os seus sentidos originais.
 
-Item. 33. (CEBRASPE / TRE PE / 2017)
+33. (CEBRASPE / TRE PE / 2017)
 
 Competência é uma palavra poHssêmica. Uma das razões da variabilidade de seu significado é a
 diversidade dos contextos e dos campos de conhecimento em que ela é usada.
@@ -5581,7 +5410,7 @@ A correção gramatical do texto seria mantida caso a forma verbal "é" fosse fl
 
 — são — para concordar com "razões".
 
-Item. 34. (CEBRASPE / SEDF / 2017)
+34. (CEBRASPE / SEDF / 2017)
 
 A maioria dos alunos que chegam à escola pública é oriunda precisamente desses grupos
 socioeconômicos. E há, entre nossas crenças pedagógicas, um pressuposto de que cabe à escola
@@ -5594,7 +5423,7 @@ sentido
 semelhante, a substituição de um pelo outro no texto modificaria as relações sintáticas entre o
 verbo e o termo "um pressuposto".
 
-Item. 35. (CEBRASPE / PREF. SÃO LUIS-MA / 2017) Adaptada
+35. (CEBRASPE / PREF. SÃO LUIS-MA / 2017) Adaptada
 
 A estrutura administrativa e financeira era amparada por um conceito novo nos anos 60...
 
@@ -5603,24 +5432,23 @@ a palavra "estrutura", que é núcleo do sujeito.
 
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. CORRETA
 
-Item. 2. CORRETA
+3. INCORRETA
 
-Item. 3. INCORRETA
+4. CORRETA
 
-Item. 4. CORRETA
+5. CORRETA
 
-Item. 5. CORRETA
+6. CORRETA
 
-Item. 6. CORRETA
+7. LETRA D
 
-Item. 7. LETRA D
+8. INCORRETA
 
-Item. 8. INCORRETA
-
-Item. 9. INCORRETA
+9. INCORRETA
 
 10.
 
@@ -5655,7 +5483,6 @@ INCORRETA
 INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 20.
 
@@ -5709,10 +5536,9 @@ CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - SUJEITo CoMPoSTo - CEBRASPE
 
-Item. 1. (CEBRASPE / SEED-PR / 2021)
+1. (CEBRASPE / SEED-PR / 2021)
 
 No trecho "Na vida, o olhar da opinião, o contraste dos interesses, a luta das cobiças obrigam a
 gente a calar os trapos velhos, a disfarçar os rasgões e os remendos, a não estender ao mundo as
@@ -5728,7 +5554,7 @@ d) os termos "olhar", "contraste" e "luta".
 
 e) os termos "opinião", "interesses" e "cobiças".
 
-Item. 2. (CEBRASPE / IPHAN / 2018)
+2. (CEBRASPE / IPHAN / 2018)
 
 Dentre elas, podem ser destacadas as de financiamento de estudos, postos a julgamentos sobre
 suas finalidades e objetivos por comissões de alto nível, bem como as regras que regem a oferta
@@ -5737,7 +5563,7 @@ impõem a agenda dos estudos do momento.
 
 A forma verbal "impõem" (£.4) está no plural porque concorda com o termo "instituições" (L4).
 
-Item. 3. (CEBRASPE / DIPLOMATA/2016)
+3. (CEBRASPE / DIPLOMATA/2016)
 
 Acerca das relações semântico-sintáticas e do vocabulário, julgue (C ou E) o item seguinte.
 
@@ -5745,7 +5571,7 @@ Na oração que inicia o segundo parágrafo: "Torna a trazer o assunto à baila 
 grande vendagem de Maíra, romance de Darcy Ribeiro." o verbo concorda com o primeiro
 núcleo do sujeito posposto, concordância verbal abonada pela gramática normativa.
 
-Item. 4. (CEBRASPE / FUB/ 2016)
+4. (CEBRASPE / FUB/ 2016)
 
 Darcy e Anísio convidaram cientistas, artistas e professores das mais tradicionais faculdades...
 
@@ -5758,19 +5584,17 @@ LETRA D
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. CORRETA
 
-Item. 3. CORRETA
-
-Item. 4. INCORRETA
+4. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - CoNCoRDÂNCIA NoMINAL - CEBRASPE
 
-Item. 1. (CEBRASPE / PETROBRAS / 2022)
+1. (CEBRASPE / PETROBRAS / 2022)
 
 Alguns linguistas acreditam que o Homo erectus, há mais ou menos 1 milhão e meio de
 anos, já tinha uma linguagem. Os argumentos que eles dão são que o Homo erectus tinha um
@@ -5783,7 +5607,7 @@ e as
 relações sintáticas nele estabelecidas fossem alterados: no original, o adjetivo qualifica o termo
 "ferramentas"; com o emprego do singular, o adjetivo qualificaria o termo "pedra".
 
-Item. 2. (CEBRASPE / ICMBIO / 2022)
+2. (CEBRASPE / ICMBIO / 2022)
 
 As castanholas, também conhecidas como sete-copas, são uma espécie extremamente
 abundante no Rio de Janeiro, mas demonizadas em outras regiões menos urbanizadas, como no
@@ -5795,7 +5619,7 @@ No primeiro período do segundo parágrafo, sem prejuízo da correção gramatic
 do texto, a palavra "demonizadas" poderia ser substituída pela respectiva forma no singular —
 demonizada —, caso em que ela passaria a concordar com o termo "uma espécie".
 
-Item. 3. (CEBRASPE / TELEBRAS / 2022)
+3. (CEBRASPE / TELEBRAS / 2022)
 
 Trata-se de desinformar, e não de informar. A desinformação é a informação falsa,
 incompleta, desorientadora. É propagada para enganar um público determinado. Seu fim último
@@ -5808,7 +5632,7 @@ em um cerco informativo" (terceiro parágrafo) fosse reescrito da seguinte forma
 de lhe
 manter em um cerco informativo.
 
-Item. 4. (CEBRASPE / IFF / 2018)
+4. (CEBRASPE / IFF / 2018)
 
 Sei que "meio-dia e meio " está errado. Mas a língua é como a mulher de César: não lhe basta ser
 honesta, convém que o pareça.
@@ -5823,10 +5647,9 @@ d) a única forma correta é 'meio-dia e trinta'.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 e) 'meio' provoca erro de regência.
 
-Item. 5. (CEBRASPE/ PF/2018)
+5. (CEBRASPE/ PF/2018)
 
 Popularmente conhecidos como seios aéreos faciais, os seios paranasais começam a se
 desenvolver precocemente na vida fetal. As funções desses seios não são
@@ -5842,7 +5665,7 @@ período do texto, fossem substituídos, respectivamente, por conhecidas e por
 cavidades
 paralelas ao nariz.
 
-Item. 6. (CEBRASPE / PREF. SÃO LUIS MA / 2017) Adaptada
+6. (CEBRASPE / PREF. SÃO LUIS MA / 2017) Adaptada
 
 Ao mesmo tempo...direitos humanos, democracia e paz são três elementos fundamentais...
 
@@ -5850,7 +5673,7 @@ O sentido do texto seria preservado caso a palavra "mesmo" fosse deslocada
 para
 imediatamente depois da forma verbal "são".
 
-Item. 7. (CEBRASPE / DPU / 2016)
+7. (CEBRASPE / DPU / 2016)
 
 No Brasil, pode-se considerar marco da história da assistência jurídica, ou justiça
 gratuita, a
@@ -5868,20 +5691,19 @@ com o antecedente "relação jurídica".
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. CORRETA
+2. CORRETA
 
-Item. 3. INCORRETA
+3. INCORRETA
 
-Item. 4. LETRA C
+4. LETRA C
 
-Item. 5. INCORRETA
+5. INCORRETA
 
-Item. 6. INCORRETA
+6. INCORRETA
 
-Item. 7. INCORRETA
+7. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

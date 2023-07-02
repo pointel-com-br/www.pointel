@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Álgebra relacional, SQL~ANSI e linguagens procedurais.
-
+# Desenvolvimento de Informação - Álgebra relacional, SQL~ANSI e linguagens procedurais.
 
 Índice
 
@@ -31,9 +30,7 @@ Capítulo. Desenvolvimento de Informação - Álgebra relacional, SQL~ANSI e lin
 
 14) Lista de Questões - Linguagem SQL - CESGRANRIO1<
 
-
 INTRoDUçÃo A SQL
-
 
 A linguagem SQL foi criada por um grupo de pesquisadores
 do laboratório da IBM em San Jose, Califórnia, mais
@@ -131,7 +128,6 @@ declarativa e da sua "rival" a linhagem procedural.
 você precisa descrever
 o passo a passo para execução de uma determinada tarefa.
 
-
 Imagine que eu te faça a seguinte pergunta: Estou ao lado do supermercado
 Pão de
 Açúcar, como eu faço para chegar na sua casa?
@@ -190,7 +186,6 @@ Colunas da tabela
 
 2 Esse não é meu endereço. Se você estiver pensando em me mandar um presente entre em contato.
 
-
 r
 
 Comando
@@ -208,7 +203,6 @@ Resultado
 Nome DataDeNascimento
 
 Thiago 12/02/1983
-
 
 k J
 
@@ -256,7 +250,6 @@ funcionalidades que cada comando executa sobre o banco de dados. Vejam a lista a
 DESPENCA NA
 
 PROVA!
-
 
 * DDL - Data Definition Language - A linguagem de definição de dados
 contém comandos que
@@ -328,7 +321,6 @@ o que está de acordo com o gabarito
 apresentado pela banca.
 
 Gabarito: B.
-
 
 Figura 2 - Sublinguagem de SQL
 
@@ -426,7 +418,6 @@ década de 1990 foi dividida, suas implementações de agora
 também divergem,
 produzindo dois dialetos distintos de Transact-SQL.
 
-
 SQL PL - extensão processual do IBM DB2 para SQL, introduzido na versão 7.0 do SGBD,
 fornece construções necessárias para a execução de controle de fluxo
 em torno de
@@ -484,7 +475,6 @@ Tabela 2 - Comparação dentre PL/SQL e SQL
 
 PL/SQL SQL
 
-
 Os blocos de códigos podem ser usados para
 escrever programas inteiros.
 
@@ -506,7 +496,6 @@ em declarações únicas.
 Usados para criar aplicações. Usados para manutenção
 dos dados.
 
-
 Uma extensão de SQL, é permitido o uso de código
 
 SQL dentro do código PL/SQL Não pode conter código
@@ -522,13 +511,11 @@ composto por uma
 inserção de comandos e outros
 sub-blocos (begin-end) e uma área de tratamento de erros (exception).
 
-
 1 SQL> declare
 
 2 2 soma number;
 
 Declaração de variáveis
-
 
 3 3
 
@@ -546,7 +533,6 @@ somar
 9 9
 
 10 10
-
 
 12 SQL>
 
@@ -576,7 +562,6 @@ precisam existir na base
 da dados. E, para criar esses objetos precisamos entender quais comandos são
 usados para criação
 e alteração das estruturas, em especial das tabelas.
-
 
 LINGUAGEM DE DEFINIçÃo DE DADoS (DDL)
 
@@ -613,7 +598,6 @@ os objetos presentes na base de dados.
 
 Instância de BD Estratégia
 
-
 Coleção de
 esquemas/catálogo
 
@@ -647,7 +631,6 @@ comando SELECT
 sobre a visão que lista as colunas do banco de dados e você receberá a
 informação sobre os nomes
 das colunas e respectivos tipos de dados.
-
 
 Os demais esquemas estão relacionados aos seus modelos de dados e podem ser
 vistos como um
@@ -712,7 +695,6 @@ do SQL/ANSI, as tabelas são coleções de linhas que possuem uma ou mais
 linhas. Uma linha é uma
 instância do tipo descrito pela tabela. Todas as linhas de uma tabela possuem o mesmo tipo.
 
-
 O grau de uma tabela é o número de colunas existentes nessa tabela. Já
 o número de linhas é
 denominado cardinalidade. Uma tabela com cardinalidade zero é conhecida
@@ -724,7 +706,6 @@ r L()cal onde ()S '
 dados são
 
 Í ai 'mazenadc )S j
-
 
 WF
 
@@ -776,7 +757,6 @@ estamos criando uma tabela empregando vários atributos e descrevendo
 algumas restrições de
 integridade. Cada atributo possui um tipo de dado associado. Vejamos:
 
-
 CREATE TABLE N0ME_DA_
 
 NOME—COLUNAI
@@ -789,7 +769,6 @@ SINTAXE DO COMANDO
 
 N0ME_C0LUNA2 TIP0—DE—DAD0 RESTRIÇÕES ,
 N0ME_C0LUNA3 TIP0_DE_DAD0 RESTRIÇÕES ,
-
 
 CREATE TABLE ALUNO (
 
@@ -831,7 +810,6 @@ o comando para criar
 a mesma:
 
 Nome da tabela
-
 
 Nomes das
 colunas
@@ -877,7 +855,6 @@ Gabarito: ERRADO.
 
 (Ministério da Economia - Desenvolvimento de Sistemas - 2020)
 
-
 ff aluno
 id
 nome
@@ -916,7 +893,6 @@ nota numeric,
 constraint pk_matricula primary key (aluno, disciplina, ano),
 constraint fk_matricula_aluno foreign key (aluno) references aluno,
 
-
 constraint fkjnatricula_disciplina foreign key (disciplina) references disciplina);
 
 Comentários: O comando CREATE TABLE criará uma tabela inicialmente vazia no banco de
@@ -940,7 +916,6 @@ filhas da tabela
 removida ou pelo menos ajustar a integridade referencial. Vejamos a
 sintaxe do comando e um
 exemplo.
-
 
 DROP TABLE NOME_DA_TABELA;
 
@@ -968,7 +943,6 @@ ALTER TABLE NOME_DA_TABELA ALTER COLUMN NOME_COLUNA1 TIPO_DE_DADO {SET
 DEFAULT VALOR_PADRAO|DROP
 DEFAULT};
 
-
 ALTER TABLE ALUNO ADD COLUMN EMAIL VARCHAR(40);
 
 ALTER TABLE ALUNO DROP COLUMN SEXO;
@@ -980,7 +954,6 @@ EXEMPLO DO COMANDO
 RESULTADO DO COMANDO
 
 ALUNO
-
 
 NOME |I ÇPf I| EMAIL || DATANASCIMENTO | |
 CIDADE || VALOR—PAGO |
@@ -1044,9 +1017,7 @@ principais comandos DDL e sua respectiva sintaxe.
 como o
 SQL Server da Microsoft, o DB2 da IBM e MySQL.
 
-
 Figura 3 - Resumo dos comandos DDL.
-
 
 TIPoS DE DADoS
 
@@ -1082,11 +1053,11 @@ AM
 
 W ESCLARECENDO!
 
-Item. 1. Cadeias de caracteres de tamanho fixo (CHARACTER ou CHAR)
+1. Cadeias de caracteres de tamanho fixo (CHARACTER ou CHAR)
 
-Item. 2. Cadeias de caracteres de tamanho variável (CHARACTER VARYING ou VARCHAR)
+2. Cadeias de caracteres de tamanho variável (CHARACTER VARYING ou VARCHAR)
 
-Item. 3. Cadeia de caracteres para armazenar grandes objetos (CHARACTER LARGE OBJECT ou
+3. Cadeia de caracteres para armazenar grandes objetos (CHARACTER LARGE OBJECT ou
 
 CLOB).
 
@@ -1103,7 +1074,6 @@ caracteres, mas o valor contém
 apenas seis caracteres, os quatro caracteres restantes serão completados com
 espaços em branco.
 Um exemplo da sintaxe do comando seria:
-
 
 CONCURSO_NOME CHAR (100).
 
@@ -1172,7 +1142,6 @@ Para finalizar vamos observar um comando de criação de tabela com os principai
 de dados de
 caracteres associados às colunas. Vejamos:
 
-
 BINARY STRINC
 
 Figura 1 - Tipos de dados textuais
@@ -1203,7 +1172,6 @@ dos dados binários parece vir um pouco tarde para SQL. Antes tarde do que nunca
 Existem três
 tipos diferentes BINARY, BINARY VARYING e BINARY LARGE OBJECT. BINARY LARGE OBJECT é
 conhecido como BLOB. O BLOB armazena grandes grupos de bytes, até o valor especificado.
-
 
 Se você definir o tipo de dados de uma coluna como BINARY, poderá especificar o
 número de bytes
@@ -1241,7 +1209,6 @@ tipo é um BLOB. Além disso, não são permitidos BLOB em comparações além d
 igualdade ou
 desigualdade.
 
-
 TIPoS NUMÉRICoS
 
 Figura 2 - Esquematizando os BLOBs
@@ -1250,7 +1217,6 @@ Vamos, agora, tratar dos tipos de dados numéricos. Eles são divididos em duas 
 categorias:
 
 números exatos (exact numbers] e números aproximados (approximate).
-
 
 Thiago Cavalcanti)
 
@@ -1320,7 +1286,6 @@ Carvalhus, R$
 Como 23 em
 decimal é equivalente a 10111 em binário, não temos espaço para armazenar esse valor. Assim o
 
-
 SGBD vai arredondar o número 0,23 para 0,2, truncando a segunda casa decimal. Neste
 caso o
 número 2, que em binário é 10, pode ser armazenado em 3 bits. Logo, o valor gravado
@@ -1341,7 +1306,6 @@ TOME
 NOTA!
 
 ANSI SQL DATA TYPE ORACLE DATA TYPE MYSQL DATA TYPE
-
 
 NUMERIC [(p,s)]
 DECIMAL [(p,s)J
@@ -1365,7 +1329,6 @@ BIGINT
 INTEGER
 
 BIGINT
-
 
 FLOAT
 
@@ -1397,7 +1360,6 @@ como precisão binária de 126. E, por fim, o tipo REAL é um ponto flutuante co
 binárias ou 18 casas decimais. Esses valores são informados como parâmetros, como
 observamos
 na tabela acima.
-
 
 HORA DE
 
@@ -1462,7 +1424,6 @@ ESQU EM ATIZAN DO
 
 Tipo de dado Tamanho em Bytes Range
 
-
 SMALLINT
 INTERGER
 
@@ -1474,9 +1435,7 @@ FLOAT
 
 DOUBLE
 
-
 4 até 8 bytes
-
 
 -32768 até 32768
 
@@ -1513,22 +1472,22 @@ abordagem,
 desde que a implementação produza os mesmos resultados.
 
 O tipo TIME consiste das partes hora, minuto e segundo. A hora é um número de 00 a
-Item. 23. O minuto
+23. O minuto
 é um número de dois algarismos, de 00 a 59. O segundo é um inteiro entre 00-59 ou
 um número
 decimal com uma precisão mínima de cinco e escala mínima de três que pode conter
 valores de
 
-Item. 00.000 para 59.999.
+00.000 para 59.999.
 Temos ainda os tipos:
 
-Item. 1. DATETIME que combina data e hora em um único tipo, com intervalo de datas.
+1. DATETIME que combina data e hora em um único tipo, com intervalo de datas.
 
-Item. 2. TIMESTAMP que engloba os campos DATE e TIME, mais seis posições para a fração
+2. TIMESTAMP que engloba os campos DATE e TIME, mais seis posições para a fração
 decimal de
 segundos e uma qualificação opcional WITH TIME ZONE (que especifica o fuso horário) e
 
-Item. 3. INTERVAL que serve para calcular o intervalo entre dois objetos que
+3. INTERVAL que serve para calcular o intervalo entre dois objetos que
 representam tempos.
 Vejamos um exemplo de criação de uma tabela cujas colunas são dos tipos temporais.
 
@@ -1541,7 +1500,6 @@ dia
 col2 TIME, -- armazena data, hora
 e segundos
 col3 TIMESTAMP(9), -- armazena um selo de tempo.
-
 
 col4 TIMESTAMP WITH TIME ZONE -- exemplo de timestamp com timezone
 
@@ -1605,7 +1563,6 @@ subtipos. Uma sequência é uma coleção ordenada de zero ou mais itens. Um ite
 sequência. Perceba que ela está na raiz da árvore abaixo. Dentro da sequência é
 possível ter vários conteúdos em formato XML. Estes, por sua vez, podem ser
 
-
 Por fim, é importante lembrar que o valor nulo é membro de todos os tipos de
 domínios. Se você
 declarar o domínio de um atributo como NOT NULL, o SGBD vai proibir a inserção de
@@ -1651,7 +1608,6 @@ Estado CHARACTER (2),
 
 CEP CHARACTER VARYING (9)
 
-
 Depois que ele é definido, um novo tipo de linha pode ser usado em uma definição de tabela:
 CREATETABLE CLIENTE (
 
@@ -1661,7 +1617,6 @@ PrimeiroNome CHARACTER VARYING (25),
 ÚltimoNome CHARACTER VARYING (20),
 
 Endereço addr_typ,
-
 
 Telefone
 
@@ -1727,7 +1682,6 @@ estão escondidas. O acesso aos atributos e aos métodos de uma UDT pode ser ain
 mais restrito,
 podemos especificá-los como públicos, privados ou protegidos. Vejamos um exemplo de um UDT:
 
-
 CREATE TYPE livro_udt AS
 titulo CHAR(40)j
 precodecompra DECIMAL(9,2),
@@ -1740,20 +1694,17 @@ L ESQUEMATIZANDO
 
 Tipos de dados em SQL
 
-
 Numéricos Tempo Cojunto de
 caracteres
 
 Binários Outros
 tipos
 
-
 Char
 
 Binary
 
 Boolean
-
 
 Time
 
@@ -1789,7 +1740,6 @@ Agora que vimos os tipos de dados, vamos passar rapidamente pelas possíveis
 restrições de
 integridade que compõem o padrão SQL e vão fazer parte dos comandos de criação de tabelas.
 
-
 RESTRIçõES DE INTEGRIDADE
 
 Restrições de integridade SQL, que são geralmente referidas como restrições, podem ser
@@ -1821,7 +1771,6 @@ comandos de acordo
 com a classificação acima.
 
 Figura 1 - Tipos de restrições de integridade
-
 
 Falaremos um pouco sobre cada uma delas. A primeira seria a restrição de chave
 primária que pode
@@ -1868,18 +1817,17 @@ ON DELETE SET DEFAULT ON UPDATE CASCADE);
 
 É possível, ainda, termos as seguintes restrições:
 
-Item. 1. NOT NULL que especifica que uma coluna não pode receber valores nulos;
+1. NOT NULL que especifica que uma coluna não pode receber valores nulos;
 
-Item. 2. UNIQUE que define que uma coluna não pode ter valores duplicados;
+2. UNIQUE que define que uma coluna não pode ter valores duplicados;
 
-Item. 3. DEFAULT que atribui um valor padrão para uma determinada coluna a ser utilizado,
+3. DEFAULT que atribui um valor padrão para uma determinada coluna a ser utilizado,
 caso nenhum
 valor seja passado como parâmetro no momento da inserção;
 
-Item. 4. CHECK utilizado para restringir os valores de domínio, verificando se eles estão
+4. CHECK utilizado para restringir os valores de domínio, verificando se eles estão
 contidos no
 conjunto de valores especificados.
-
 
 O CHECK é a restrição mais flexível de todas. Sua sintaxe básica é relativamente
 simples. Para criar
@@ -1902,7 +1850,6 @@ Ano: 2016 Órgão: AL-MS Prova: Técnico de Informática
 
 Para responder à questão, considere o modelo mostrado na imagem abaixo, oriundo de
 uma situação hipotética:
-
 
 r \
 
@@ -1965,9 +1912,7 @@ Agora vamos apresentar um esquema para ilustrar os diversos tipos de
 constraint, com suas
 respectivas sintaxes.
 
-
 Figura 2 - Exemplos de restrições de integridade em SQL
-
 
 DATA MANIPULATIoN LANGUAGE (DML)
 
@@ -2026,7 +1971,6 @@ FROM <table reference> [ {, ctable reference> }.. . ]
 
 [ ORDER BY <order conditior» ]
 
-
 Sobre o comando acima, a primeira informação importante é que o * (asterisco) é
 utilizado quando
 queremos extrair na nossa consulta todas as colunas da tabela, ou das relações
@@ -2060,7 +2004,6 @@ agrupamentos e selecionar apenas aqueles que satisfaçam a uma condição de bus
 
 Após essa etapa, o SGBD vai avaliar quais colunas são descritas na cláusula SELECT do comando. Por
 fim, é possível ordenar a relação pelos atributos ou colunas listadas no ORDER BY. Resumindo temos:
-
 
 '------------------ '
 
@@ -2098,12 +2041,10 @@ abaixo, o uso do & para uma variável numérica, e para o caso do valor recebido
 uma data ou
 uma string de caracteres onde devem ser usadas as aspas simples.
 
-
 SELECT employeeid, lastname, salary, departmentid
 F ROM emp1oye e s
 
 WHERE employee id = | &employee_num~|;
-
 
 SELECT last_name
 FROM employees
@@ -2143,7 +2084,6 @@ PRATICAR!
 (Ano: 2017 Órgão: MPE-BA Prova: Analista Técnico - Tecnologia)
 
 Atenção: Tabelas R e S referentes a um banco de dados relacional.
-
 
 F s
 a b c d
@@ -2225,7 +2165,6 @@ como alias. Quando utilizado no contexto de uma tabela na cláusula FROM, os ali
 conhecidos
 como variáveis de tuplas.
 
-
 Existem diversos modificadores de consulta que nos ajudam a adequar o retorno da nossa
 consulta.
 Para forçar a eliminação de tuplas duplicadas, devemos inserir a declaração DISTINCT
@@ -2283,7 +2222,6 @@ Existem dois curingas geralmente usados em conjunto com o operador LIKE:
 
 Gabarito: CERTO.
 
-
 Quando construímos um predicado com vários operadores, precisamos entender que existe uma
 precedência na avaliação dos operadores. Você pode usar parênteses para sobrescrever as
 regras
@@ -2337,7 +2275,6 @@ ORDER BYim
 
 Vejamos um exemplo de questão de provas anteriores.
 
-
 HORA DE
 
 PRATICAR!
@@ -2354,7 +2291,6 @@ na 2a linha, conforme abaixo.
 
 NomeCandidato Cargo VotosValidos
 Sexo CodigoPart ido
-
 
 Até 100 caracteres
 
@@ -2410,7 +2346,6 @@ correlacionadas.
 Vejamos um exemplo. Vamos encontrar todos os clientes que possuem conta e empréstimo
 em um
 banco.
-
 
 ATENÇÃO
 
@@ -2477,14 +2412,12 @@ atributos na
 cláusula SELECT que não aparecem como parâmetros nas funções agregadas e a opção HAVING para
 predicados que são aplicados após a formação dos grupos.
 
-
 Outra opção de subconsultas que retornam uma única linha é quando usamos funções de
 agregação
 como MIN e MAX. Vejam o exemplo abaixo para entendermos melhor a ideia:
 
 SELECT last name , job id, salary
 FROM employees
-
 
 WHERE salary =
 
@@ -2541,7 +2474,6 @@ e.«?
 
 ESQUEMATIZANDO
 
-
 É interessante perceber que a união é feita sobre o resultado de duas relações, ou
 seja, é possível
 duas consultas sobre tabelas distintas passarem por uma operação de união. É importante
@@ -2576,7 +2508,6 @@ Observem a figura com as condições e os tipos de junção abaixo:
 RESUMINDO
 
 Tipos de junção Condição de Junção
-
 
 LEFT OUTER JOIN
 
@@ -2643,7 +2574,6 @@ I, II e III correspondem, em SQL, respectivamente, aos comandos:
 
 a) INNER JOIN, UNION e LIKE.
 
-
 b) INNER JOIN, JOIN e DISTINCT.
 
 c) LEFTJOIN, UNIQUE e LIKE.
@@ -2688,7 +2618,6 @@ TOME
 
 NOTA!
 
-
 INSERT INTO NOME_DA_TABELA
 
 VALUES (VAL0R_1, VAL0R_2, VAL0R_3, ...)
@@ -2700,7 +2629,6 @@ VALUES (VAL0R_1, VAL0R_2, VAL0R_3, ...)
 SINTAXE DO COMANDO I
 
 SINTAXE DO COMANDO II
-
 
 INSERT
 VALUES
@@ -2754,11 +2682,9 @@ EXEMPLOS DO COMANDO I
 
 INSERT INTO ALUNO ESTRATÉGIA
 
-
 VALUES (fELIS\ 55555555555, cELIS@ELIS.C0M? , 05-05-2005, fBRASÍLIAJ, 50.00);
 
 EXEMPLOS DO COMANDO II
-
 
 INSERT INTO ALUNO_ESTRATEGIA (NOME, CPF, EMAIL
 
@@ -2863,7 +2789,6 @@ atualizados. Caso nenhuma verificação seja feita, todas as linhas serão atual
 mudanças a
 serem executas são definidas na cláusula SET. Vejam a sintaxe do comando abaixo:
 
-
 UPDATE NOME_DA_TABELA
 
 SET NOME_DA_COLUNA_1 = VALORJL, NOMEJ2OLUNA2 = VALOR_2 . . .
@@ -2942,13 +2867,11 @@ SET department_id = 110;
 
 22 rows updated
 
-
 HORA DE
 
 PRATICAR!
 
 (Ministério da Economia - Desenvolvimento de Sistemas - 2020)
-
 
 ff aluno
 ' ' V IU
@@ -2992,7 +2915,6 @@ uma tabela. Veja que, se nenhuma condição for definida na cláusula WHERE do c
 todas as
 linhas serão removidas da tabela. A sintaxe do comando é apresentada a seguir:
 
-
 DELETE FROM NOME_DA_TABELA WHERE LISTA_DE_CONDICOES
 
 SINTAXE DO COMANDO
@@ -3000,7 +2922,6 @@ SINTAXE DO COMANDO
 EXEMPLO DO COMANDO
 
 DELETE FROM ALUNO_ESTRATEGIA WHERE VALOR_PAGO = 175.00 OR CIDADE = fRECIFEJ;
-
 
 ALUNO-ESTRATEGIA
 
@@ -3038,13 +2959,11 @@ fácil, todas as linhas de uma tabela, é o comando TRUNCATE. Ele remove todo co
 da tabela,
 zera os índices e as sequências associadas. Para tal, basta utilizar o comando DDL:
 
-
 TRUNCATE TABLE NOME_DA_TABELA;
 
 [RESTART IDENTITY | CONTINUE IDENTITY] [CASCADE | RESTRICT]
 
 SINTAXE DO COMANDO
-
 
 TRUNCATE TABLE ALUNO;
 
@@ -3060,7 +2979,6 @@ Acima, foi possível observar o comando TRUNCATE com a sintaxe específica do PO
 Nele é
 possível remover um conjunto de tabelas ao mesmo tempo. O primeiro parâmetro permite reiniciar,
 
-
 ou não, as sequências associadas às colunas das tabelas cujos dados serão removidos,
 usando,
 respectivamente, o restart identity e continue identity. O outro parâmetro, cascade ou
@@ -3072,7 +2990,6 @@ referenciando uma das tabelas removidas.
 i
 
 (Ministério da Economia - Desenvolvimento de Sistemas - 2020)
-
 
 ff aluno
 kl
@@ -3127,7 +3044,6 @@ uma instrução DDL por diversos autores. Observando as alternativas, podemos en
 resposta na letra E.
 
 Gabarito: E.
-
 
 DDL CoMPLEMENToS: VIEW
 
@@ -3189,7 +3105,6 @@ O padrão SQL/ANSI define algumas regras que indicam se a visão pode ser
 atualizada.
 Primeiramente, a visão deve ser construída com base em apenas uma tabela. As cláusulas GROUP
 
-
 BY, HAVING e SELECT DISTINCT não podem estar presentes. Não podem existir nenhuma função de
 agregação ou colunas calculadas (atributos derivados).
 
@@ -3248,7 +3163,6 @@ alternativa II está errada!
 
 Gabarito: C E.
 
-
 SQL EMBUTIDo
 
 O padrão SQL define que a SQL será embutida em uma variedade de linguagens de
@@ -3298,7 +3212,6 @@ para o resultado da consulta.
 
 EXEC SQL close c END-EXEC
 
-
 TRANSAçõES EM SQL
 
 Uma transação é um conjunto de instruções SQL que realizam um único trabalho. O
@@ -3343,18 +3256,15 @@ ESQUEMATIZANDO
 
 Comando Descrição
 
-
 START (BEGIN)
 TRANSACTION
 
 Inicializa uma transação SQL e seta as suas características.
 
-
 SET
 TRANSACTION
 
 Determina as propriedades da próxima transação SQL para o SQL Agent
-
 
 SETCONSTRAINTS
 
@@ -3363,12 +3273,10 @@ para a transação SQL na sessão corrente. Se não existe nenhuma transação
 em andamento na sessão, determina ao SQL Agent o modo de execução
 para a próxima transação.
 
-
 SAVEPOINT
 
 Estabelece um savepoint, ponto intermediário da transação para o qual o
 rollback deve retornar em caso de falha.
-
 
 RELEASE
 SAVEPOINT
@@ -3376,7 +3284,6 @@ SAVEPOINT
 Destrói um savepoint
 
 COMMIT Termina a transação SQL corrente com um commit
-
 
 ROLLBACK
 
@@ -3439,7 +3346,6 @@ possibilidade da existência de registros fantasmas. Neste caso, Y faz duas leit
 sobre um conjunto
 de dados ou tuplas de uma relação que satisfação a uma condição descrita na cláusula WHERE.
 
-
 Suponha que entre a primeira e a segunda leitura seja inserido um registro que também
 satisfaz a
 essa condição de busca. Esse registro é considerado um fantasma!
@@ -3491,7 +3397,6 @@ UNDO: EXEC SQL ROLLBACK;
 I THE_END: ..
 
 X
-
 
 INDEX (DDL)
 
@@ -3550,7 +3455,6 @@ garantir a
 unicidade do valor da coluna, implicitamente criada para a(s) coluna(s) da chave
 primária. Porém,
 foi descontinuada na maioria dos SGBDs, agora, usamos a restrição de UNIQUE para coluna.
-
 
 EXTENSõES PRoCEDURAIS
 
@@ -3619,7 +3523,6 @@ pode
 invocá-lo com uma instrução CALL semelhante à seguinte declaração:
 
 CALL MatchScore ('1-0', winner);
-
 
 O primeiro argumento é um parâmetro de entrada que alimenta o procedimento MatchScore.
 O
@@ -3702,7 +3605,6 @@ END FOR
 RETURN purch ;
 END ;
 
-
 Esta definição de função cria uma lista de compras feitas por um cliente, baseada em
 um número de
 cliente especificado, extraída da tabela TRANSACTIONS e separada por vírgulas. A instrução UPDATE
@@ -3770,7 +3672,6 @@ acionadas sejam executadas antes (BEFORE) dos dados serem inseridos na tabela. A
 é particularmente útil quando uma das tabelas é configurada com uma restrição
 de integridade
 referencial.
-
 
 Na terceira linha da sintaxe, você especifica se o gatilho é de inserção, exclusão ou
 atualização. Se
@@ -3845,7 +3746,6 @@ executada contra a tabela em questão; somente as instruções SQL acionadas na 
 do gatilho
 são afetadas.
 
-
 Finalmente, o último componente que seu CREATE TRIGGER deve incluir é uma ou mais
 instruções
 SQL que são executados quando o gatilho é chamado. Veja no exemplo mostrado
@@ -3919,7 +3819,6 @@ especial ocorre no banco de dados (inserir, excluir, atualizar).
 
 Figura 1 - Extensões procedurais
 
-
 SEGURANçA (UTILIZANDo A DCL)
 
 As instruções SQL que você usa para criar bancos de dados formam um grupo conhecido
@@ -3967,7 +3866,6 @@ instalações, existe uma hierarquia de privilégios de usuário, em que o DBA e
 mais alto nível e
 o PUBLIC no menor.
 
-
 Autorizados Autorizados
 Autorizados
 
@@ -4010,7 +3908,6 @@ PRIVILEGES.
 Este último vai garantir o privilégio em todo o conjunto dos nove
 privilégios que tratamos
 anteriormente, são eles:
-
 
 SELECT
 
@@ -4087,7 +3984,6 @@ Depois de criar um papel, você pode atribuir pessoas ao papel com a instrução
 da seguinte
 forma:
 
-
 GRANT balconista TO Jose;
 
 Você pode conceder privilégios a um papel exatamente da mesma maneira que você
@@ -4149,7 +4045,6 @@ privilégios
 desta forma não podem, por sua vez, conceder esses privilégios para outra pessoa. Esta
 restrição
 ajuda o DBA ou o proprietário da tabela a manter o controle sobre o objeto. Apenas os usuários que
-
 
 0-0
 www. estratégia concursos. com.br
@@ -4216,7 +4111,6 @@ ON object
 
 FROM user-list [RESTRICT| CASCADE];
 
-
 Você pode usar essa estrutura para revogar os privilégios especificados. A principal
 diferença entre
 a instrução REVOKE e a instrução GRANT é a presença da palavra-chave opcional RESTRICT
@@ -4259,11 +4153,11 @@ funciona como se
 você nunca tivesse concedido a opção de concessão. Se a cláusula GRANT OPTION FOR e a cláusula
 RESTRICT estiverem presentes, uma de duas coisas acontece:
 
-Item. 1. Se o beneficiário não concedeu a qualquer pessoa um dos privilégios que você está
+1. Se o beneficiário não concedeu a qualquer pessoa um dos privilégios que você está
 revogando, a instrução REVOKE executa e remove a capacidade do beneficiário de
 conceder privilégios.
 
-Item. 2. Se o beneficiário já concedeu pelo menos um dos privilégios que você está
+2. Se o beneficiário já concedeu pelo menos um dos privilégios que você está
 revogando,
 a instrução REVOKE não é executada e retorna um código de erro.
 
@@ -4283,7 +4177,6 @@ esses privilégios, se desejarem. Os comandos SQL que permitem a um usuário con
 privilégios a outros usuários e revogar privilégios concedidos a outros
 usuários são,
 respectivamente:
-
 
 a) INSERT PRIVILEGES e DELETE PRIVILEGES.
 
@@ -4305,14 +4198,13 @@ questão em voga não precisamos deste detalhe, conseguimos observar nossa respo
 
 Gabarito: D.
 
-
 QUESTõES CoMENTADAS CESPE
 
 CAIU
 
 na prova!
 
-Item. 1. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
+1. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
 Suporte Técnico
 
 A respeito de sistemas gerenciadores de banco de dados (SGBD), julgue os
@@ -4355,8 +4247,7 @@ CAIU
 
 na prova!
 
-
-Item. 2. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
+2. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
 Suporte Técnico
 
 Acerca de banco de dados, julgue os itens que se seguem.
@@ -4387,7 +4278,7 @@ CAIU
 
 na prova!
 
-Item. 3. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
+3. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
 Desenvolvimento de Sistemas Questão:
 
 Julgue os seguintes itens, relativos a métricas de qualidade desoftware, JUnit,
@@ -4406,7 +4297,6 @@ Funcionários.CodigoDep =
 Departamentos.CodigoDep
 ORDER BY Funcionários.Nome;
 
-
 Comentário: Veja que a junção utilizada na questão é um INNER JOIN, logo os
 funcionários que não tiverem um departamento associado não aparecerão no
 resultado final da consulta. Desta forma, o gabarito da mesma é errado.
@@ -4417,7 +4307,7 @@ CAIU
 
 na prova!
 
-Item. 4. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Área 08 Questão: 144
+4. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Área 08 Questão: 144
 
 A respeito de sistemas gerenciadores de banco de dados, julgue os próximos
 itens.
@@ -4429,7 +4319,6 @@ Comentário: Sabemos que quando estamos relacionando as cláusulas do
 comando SELECT de SQL à álgebra relacional temos a seguinte associação:
 
 Select Al, A2, A3,..., An
-
 
 From Rl, R2, R3,..., Rn
 
@@ -4450,7 +4339,7 @@ CAIU
 
 na prova!
 
-Item. 5. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Área 09 Questões: 144
+5. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Área 09 Questões: 144
 a 147
 
 SELECT nome
@@ -4461,7 +4350,6 @@ WHERE area = 'INTELIGÊNCIA'
 AND endereço LIKE '%BRASILIA,DF%';
 
 Tendo como referência o código SQL precedente, julgue os itens a seguir.
-
 
 144 Na cláusula WHERE, a condição de seleção area = 'INTELIGÊNCIA' escolhe
 a tupla de interesse em particular na tabela funcionário, pois area é um atributo
@@ -4480,22 +4368,22 @@ impedirá que o código seja executado.
 
 Comentário: Vamos comentar cada uma das alternativas acima.
 
-Item. 144. Vejam que a cláusula WHERE vai restringir as tuplas nas quais o valor do
+144. Vejam que a cláusula WHERE vai restringir as tuplas nas quais o valor do
 atributo área seja igual a 'INTELIGÊNCIA'. Desta forma, a alternativa está
 correta.
 
-Item. 145. Exatamente, a afirmação está perfeita. As restrições ou predicados do
+145. Exatamente, a afirmação está perfeita. As restrições ou predicados do
 código SQL são exatamente as descritas na afirmação. Desta forma, a alternativa
 está correta.
 
-Item. 146. Confesso que quando olhei para essa questão pensei que ela estivesse
+146. Confesso que quando olhei para essa questão pensei que ela estivesse
 incorreta, mas acho que foi excesso de preciosismo meu. Veja que a palavra
 INTELIGÊNCIA é de fato uma constante do tipo caractere que vai servir como
 referência para a busca na coluna área. Para cada funcionário cujo valor do
 atributo área seja igual a INTELIGÊNCIA temos uma tupla no retorno da consulta.
 Mesmo assim, o CESPE deu o gabarito como correto.
 
-Item. 147. Quando usamos as aspas simples as palavras reservadas ou caracteres
+147. Quando usamos as aspas simples as palavras reservadas ou caracteres
 especiais que aparecem entre as duas aspas não precisam caracteres ou palavra-
 chave de ESCAPE. Desta forma a alternativa está incorreta.
 
@@ -4505,7 +4393,7 @@ CAIU
 
 na prova!
 
-Item. 6. BANCA: CESPE ANO: 2015 ÓRGÃO: TJDFT CARGO: PROGRAMAÇÃO DE
+6. BANCA: CESPE ANO: 2015 ÓRGÃO: TJDFT CARGO: PROGRAMAÇÃO DE
 SISTEMAS - QUESTÕES 63 E 64
 
 Acerca de linguagens de definição e manipulação de dados, julgue os itens
@@ -4515,7 +4403,6 @@ subsecutivos.
 
 64 Em uma coluna definida como NUMBER (7,2), o valor 34567.2255 será
 armazenado como 34567.23.
-
 
 Comentários: Vamos comentar cada uma das alternativas acima.
 
@@ -4535,7 +4422,7 @@ CAIU
 
 na prova!
 
-Item. 7. BANCA: CESPE ANO: 2015 ÓRGÃO: TJDFT CARGO: PROGRAMAÇÃO DE
+7. BANCA: CESPE ANO: 2015 ÓRGÃO: TJDFT CARGO: PROGRAMAÇÃO DE
 SISTEMAS - QUESTÕES 65 A 66
 
 Julgue os próximos itens, relativos a SQL.
@@ -4581,7 +4468,7 @@ CAIU
 
 na prova!
 
-Item. 8. BANCA: CESPE ANO: 2016 ORGAO: TCE-SC CARGO: AUDITOR DE TI
+8. BANCA: CESPE ANO: 2016 ORGAO: TCE-SC CARGO: AUDITOR DE TI
 
 Com relação aos bancos de dados relacionais, julgue os próximos itens.
 
@@ -4621,8 +4508,7 @@ CAIU
 
 na prova!
 
-
-Item. 9. BANCA: CESPE ANO: 2016 ÓRGÃO: TRT-08 CARGO: ANALISTA DE TI -
+9. BANCA: CESPE ANO: 2016 ÓRGÃO: TRT-08 CARGO: ANALISTA DE TI -
 QUESTÃO 13
 
 Acerca de SQL (structured query language), assinale a opção correta.
@@ -4671,7 +4557,6 @@ executada de forma mais rápida, vai depender, por exemplo, do perfil dos dados,
 do algoritmo utilizado pelo SGBD na execução das consultas e da forma como os
 índices são criados para cada uma delas. Desta forma, a alternativa está
 incorreta.
-
 
 D A normalização é uma atividade que reduza a redundância dos dados dentro
 do banco de dados e as anomalias de atualização. Não existe um compromisso
@@ -4724,7 +4609,6 @@ REFERENCES prédio (mnemonico)
 
 );
 
-
 Considerando os algoritmos acima, em que são criadas as tabelas prédio e salas,
 assinale a opção cuja expressão SQL apresenta informações do registro da maior
 sala existente.
@@ -4772,7 +4656,6 @@ group by. Vejam também que não temos nenhuma função agregada descrita na
 cláusula select, por fim, a sintaxe do comando "having max(c2.area)" está
 incorreta, seria necessário comparar o valor de max(coluna) com uma constante
 ou outra variável, por exemplo max(c2.area) > 200;
-
 
 B Veja que na alternativa B existe um erro lógico na comparação
 "c2.local=cl.id", ela não faz sentido. Não traz para o resultado as tuplas
@@ -4824,7 +4707,6 @@ meio do comando JOIN, neste caso teríamos uma execução otimizada visto que
 os atributos de junção fariam uma restrição no resultado durante o
 processamento da consulta.
 
-
 O item 92 trata da função agregada max() que de fato retorna o valor máximo
 de uma determinada coluna de uma tabela. Vamos aproveitar para falarmos um
 pouco mais sobre as funções de agregação.
@@ -4873,7 +4755,6 @@ VARIANCE (x) - Retorna a variância estatística.
 
 Gabarito: E C
 
-
 CAIU
 
 na prova!
@@ -4896,7 +4777,7 @@ CAIU
 
 na prova!
 
-Item. 13. Ano: 2016 Banca: CESPE Órgão: TCE-PR Cargo: Analista de Controle
+13. Ano: 2016 Banca: CESPE Órgão: TCE-PR Cargo: Analista de Controle
 Área: Tecnologia da Informação Questão: 62
 
 A respeito de SQL, assinale a opção correta.
@@ -4949,7 +4830,7 @@ CAIU
 
 na prova!
 
-Item. 14. Ano: 2016 Banca: CESPE Órgão: TCE-PR Cargo: Analista de Controle
+14. Ano: 2016 Banca: CESPE Órgão: TCE-PR Cargo: Analista de Controle
 Área: Tecnologia da Informação Questão: 63
 
 No que se refere a banco de dados, assinale a opção correta
@@ -4980,7 +4861,6 @@ Confesso que gostei da questão.
 Na alternativa "A" ele trata de manipular dados, essas operações seriam feitas
 apenas com DML. Alternativa incorreta, portanto.
 
-
 A alternativa "B" é a resposta. Essa ideia de que os banco de dados objetos
 relacionais foi a união dos bancos 00 com os relacionais é bem difundida na
 literatura.
@@ -4999,7 +4879,6 @@ A alternativa "E" é no mínimo bizarra de tão errada. Dizer que o valor nulo p
 fazer parte de chave primária não faz o menor sentido.
 
 Gabarito: B
-
 
 15.Ano: 2016 Banca:
 
@@ -5043,7 +4922,6 @@ codigo descricao soma
 Considerando as tabelas tl e t2, assinale a opção que apresenta a expressão
 SQL que gera o conteúdo da tabela resultado.
 
-
 A select tl.codigo, tl.descricao, sum(t2.valor) as soma
 from tl join t2 on tl.codigo=t2.codigo
 group by tl.codigo, tl.descricao;
@@ -5079,7 +4957,6 @@ Gabarito: B.
 Texto para as próximas duas questões: a seguir, são apresentados um
 modelo entidade-relacionamento conceituai e, na tabela, características dos seus
 atributos.
-
 
 pessoa
 local
@@ -5126,7 +5003,6 @@ PROGRAMAÇÃO DE SISTEMAS
 
 QUESTÃO 29 - Considerando que os relacionamentos do modelo mostrado
 tenham sido mapeados, assinale a opção que apresenta comando em linguagem
-
 
 SQL capaz de criar fisicamente a tabela encontro, incluindo-se as chaves
 estrangeiras necessárias.
@@ -5176,7 +5052,6 @@ REFERENCES 'local' ('idlocal'));
 D CREATE TABLE encontro (
 
 'idencontro' INT(5) NOT NULL, 'idpessoa_marca' INT(5) NULL,
-
 
 'idpessoa_atende' INT(5) NULL, 'data_encontro' DATE NULL,
 'idlocal' INT(3) NULL,
@@ -5228,7 +5103,6 @@ CAIU
 
 na prova!
 
-
 17.Ano: 2016 Banca: CESPE Órgão: TRE-PE - Cargo 2 TÉCNICO
 JUDICIÁRIO - ÁREA APOIO ESPECIALIZADO - ESPECIALIDADE
 PROGRAMAÇÃO DE SISTEMAS
@@ -5272,9 +5146,8 @@ CAIU
 
 na prova!
 
-Item. 18. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
+18. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
 Questão: 38.
-
 
 Na linguagem SQL, o comando create table é usado para criar uma tabela no
 banco de dados; enquanto o relacionamento entre duas tabelas pode ser criado
@@ -5306,7 +5179,7 @@ CAIU
 
 na prova!
 
-Item. 19. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
+19. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
 Questão: 39.
 
 Na linguagem SQL, quando for necessário obter uma lista e criar uma condição,
@@ -5327,7 +5200,6 @@ funções agregadas, elas fazem agrupamentos de tuplas de uma tabela. Se
 quisermos fazer restrições sobre valores das funções agregadas utilizamos a
 cláusula having.
 
-
 Mais uma vez a resposta está na alternativa C.
 
 Gabarito: C
@@ -5336,7 +5208,7 @@ CAIU
 
 na prova!
 
-Item. 20. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
+20. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
 Questão: 40.
 
 Em SQL, para alterar a estrutura de uma tabela do banco de dados e incluir nela
@@ -5376,7 +5248,6 @@ CAIU
 na prova!
 
 21.Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 58
-
 
 O modelo lógico apresentado dá origem às tabelas ALUNO, INSCRICAO e
 DISCIPLINA. Considerando esse modelo e sabendo que não há nenhum
@@ -5422,7 +5293,6 @@ WHERE inscricao. matricu la=aluno. matricula
 AND inscricao.codigo=disciplina.codigo
 GROUP BY aluno.matricula, aluno.nome
 
-
 Comentários: Para resolver essa questão basta perceber que vamos precisar
 agrupar os alunos de acordo com a quantidade de disciplinas que eles cursam.
 Logo precisamos agrupar pelo nome e matrícula e em seguida fazer uma
@@ -5459,14 +5329,13 @@ verificado na alternativa E.
 
 Gabarito: E
 
-
 QUESTõES CoMENTADAS CESGRANRIo
 
 CAIU
 
 na prova!
 
-Item. 1. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+1. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Considere as Tabelas a seguir para responder a questão.
 
@@ -5495,7 +5364,6 @@ CONSTRAINT COMPETICAO_PK PRIMARY KEY (COD)
 
 CREATE TABLE ARBITRO (
 
-
 COD
 NOME
 
@@ -5507,7 +5375,6 @@ CONSTRAINT ARBITRO_PK PRIMARY KEY (COD)
 )
 
 CREATE TABLE PARTICIPACAO (
-
 
 COD_CAO
 COD_COMP
@@ -5567,7 +5434,6 @@ indica o nome do seu proprietário. As demais colunas são autoexplicativas.
 associação.
 Suas colunas são autoexplicativas.
 
-
 * A Tabela PARTICIPACAO informa as competições das quais participaram os cães
 registrados na
 associação. Cada linha dessa tabela indica a colocação obtida por um cão em uma
@@ -5611,7 +5477,6 @@ MARTINS
 
 VIVI SHITZU FERNANDA
 MATHIAS
-
 
 TABELA COMPETICAO
 
@@ -5696,7 +5561,7 @@ CAIU
 
 na prova!
 
-Item. 2. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
+2. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
 Júnior - Informática
 
 ALUNO (cpf: string, nome : string, endereço : string, telefone : string)
@@ -5733,12 +5598,11 @@ desnecessário, e na
 
 Gabarito: C
 
-
 CAIU
 
 na prova!
 
-Item. 3. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
+3. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
 Júnior - Informática
 
 ALUNO (cpf : string , nome : string , endereço : string, telefone : string)
@@ -5776,7 +5640,7 @@ CAIU
 
 na prova!
 
-Item. 4. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
+4. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
 Júnior - Informática
 
 ALUNO (cpf : string , nome : string , endereço : string, telefone : string)
@@ -5796,7 +5660,6 @@ d) SELECT nome WHERE ALUNO
 
 e) LIST nome FROM ALUNO
 
-
 Comentário: Essa questão também é relativamente tranquila. Veja que ela pede o nome de
 todos
 os alunos. Assim, precisamos apenas construir um SELECT sobre a tabela ALUNO sem
@@ -5811,12 +5674,11 @@ CAIU
 
 na prova!
 
-Item. 5. Ano: 2014 Banca: CESGRANRIO Órgão: PetrobrasProva: Engenheiro(a) de Equipamentos Júnior
+5. Ano: 2014 Banca: CESGRANRIO Órgão: PetrobrasProva: Engenheiro(a) de Equipamentos Júnior
 
 - Eletrônica
 
 Observe a Tabela FERRAMENTAS abaixo, relativa a um banco de dados relacional.
-
 
 CODIGO
 
@@ -5903,8 +5765,7 @@ CAIU
 
 na prova!
 
-
-Item. 6. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Técnico de Tecnologia da Informação
+6. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Técnico de Tecnologia da Informação
 
 Aluno
 idAluno: INTEGER
@@ -5931,13 +5792,12 @@ CAIU
 
 na prova!
 
-Item. 7. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+7. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Para responder à questão, tenha como referência o diagrama de
 entidades e relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
-
 
 Tipo Conta
 codigo_tipo_conta
@@ -6037,14 +5897,13 @@ descricaojipo_conta VARCHAR (256));
 
 Tal comando está presente na alternativa a) que é a nossa resposta.
 
-
 Gabarito: A
 
 CAIU
 
 na prova!
 
-Item. 8. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+8. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Para responder à questão, tenha como referência o diagrama de
@@ -6052,7 +5911,6 @@ entidades e relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
 
 Movimento
-
 
 Conta
 seq_movimento
@@ -6099,14 +5957,13 @@ UPDATE "nome_tabela"
 SET "coluna 1" = [novo valor]
 WHERE "condição";
 
-
 Gabarito: B
 
 CAIU
 
 na prova!
 
-Item. 9. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+9. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Considere um banco de dados relacional com as duas tabelas a seguir.
@@ -6166,15 +6023,13 @@ CAIU
 
 na prova!
 
-
-Item. 10. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico -
+10. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico -
 Analise
 de Sistemas
 
 As Tabelas pertencem ao esquema de um banco de dados acadêmico de uma universidade.
 
 CREATE TABLE ALUNO (
-
 
 MATRIC
 NOME
@@ -6258,7 +6113,6 @@ Qual comando irá modificar o estado corrente da Tabela ALUNO?
 
 a) INSERT INTO ALUNO (MATRIC, CPF, NOME) VALUES (66666,'TIAGO MENEZES')
 
-
 b) DELETE FROM ALUNO WHERE CPF IS NULL
 
 c) UPDATE ALUNO SET CPF=23565677789 WHERE NOME ='GABRIEL LOPES1
@@ -6299,13 +6153,12 @@ CAIU
 
 na prova!
 
-Item. 11. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
+11. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
 de Sistemas
 
 As Tabelas pertencem ao esquema de um banco de dados académico de uma universidade.
 
 CREATE TABLE ALUNO (
-
 
 MATRIC
 NOME
@@ -6335,7 +6188,6 @@ PRIMARY KEY (MATRIC,COD_DISC,ANO,SEMESTRE),
 CONSTRAINT HIST_FK FOREIGN KEY (MATRIC)
 
 REFERENCES ALUNO (MATRIC))
-
 
 Observações:
 
@@ -6413,7 +6265,6 @@ GROUP BY A.NOME
 
 b) SELECT A.NOME, AVG(H.NOTA)
 
-
 FROM ALUNO A
 INNERJOIN HISTORICO H
 ON A.MATRIOH.MATRIC
@@ -6455,12 +6306,10 @@ CAIU
 
 na prova!
 
-Item. 12. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
+12. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
 de Sistemas
 
-
 As Tabelas pertencem ao esquema de um banco de dados acadêmico de uma universidade.
-
 
 CREATE TABLE
 
@@ -6476,7 +6325,6 @@ NUMBER(ll),
 
 NOT NULL,
 NOT NULL,
-
 
 CONSTRAINT
 CONSTRAINT
@@ -6553,7 +6401,6 @@ Qual consulta exibe os nomes dos alunos que nunca foram reprovados?
 a) SELECT DISTINCT A.NOME
 FROM ALUNO A, HISTORICO H
 
-
 WHERE A.MATRIC=H.MATRIC AND H.NOTA >= 5.0
 
 b) SELECT NOME FROM ALUNO
@@ -6598,11 +6445,10 @@ CAIU
 
 na prova!
 
-Item. 13. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
+13. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
 da Informação
 
 As informações presentes abaixo devem ser usadas para responder às questões de nos 50 a 52.
-
 
 Pessoa
 ld Nome Idade Sexo
@@ -6681,14 +6527,13 @@ Hilda e o da Filha Fabiana. Por fim, seleciona o ld de cada uma delas e insere n
 tabela parentesco.
 Isso nos leva resposta na alternativa B.
 
-
 Gabarito: B
 
 CAIU
 
 na prova!
 
-Item. 14. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
+14. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
 da Informação
 
 As informações presentes abaixo devem ser usadas para responder às questões de nos 50 a 52.
@@ -6775,7 +6620,7 @@ CAIU
 
 na prova!
 
-Item. 15. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
+15. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
 
 As tabelas abaixo pertencem ao esquema de um banco de dados de um supermercado.
 CREATE TABLE PRODUTO (
@@ -6821,7 +6666,6 @@ NULL.
 * Cada linha da tabela ITEM contém informações sobre um item existente no
 estoque da empresa
 relativo a um tipo de produto controlado por unidade.
-
 
 Qual consulta SQL irá exibir o código, a descrição e a quantidade em
 estoque relativos a cada um
@@ -6875,7 +6719,6 @@ FROM PRODUTO
 
 WHERETIPO = 1
 
-
 UNION
 
 SELECT P.COD, P.DESCRICAO, COUNT(I.COD_PROD)
@@ -6927,7 +6770,7 @@ CAIU
 
 na prova!
 
-Item. 16. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de
+16. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de
 Sistemas
 
 As tabelas abaixo pertencem ao esquema de um banco de dados de um supermercado.
@@ -6935,7 +6778,6 @@ CREATETABLE PRODUTO (
 
 COD NUMBER(5) NOT NULL,
 DESCRICAO VARCHAR2(100) NOT NULL,
-
 
 PRECO NUMBER(8,2) NOT NULL,
 QTD_ESTOQUE NUMBER(5),
@@ -6994,9 +6836,7 @@ VALUES(7777,'COMPUTADOR BLUEX',1000.00, ,2)
 e) INSERT INTO PRODUTO (COD,DESCRICAO,PRECO,TIPO,QTD_ESTOQUE)
 VALUES(7777,'COMPUTADOR BLUEX',1000.00,2)
 
-
 www. estra tegiaconcursos. com. br
-
 
 Comentário: Veja que a nossa resposta se encontra na alternativa A. A letra B está
 errada pois existe
@@ -7016,7 +6856,7 @@ CAIU
 
 na prova!
 
-Item. 17. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
+17. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
 Para responder essa questão use a mesma referência da questão anterior.
 
 O analista de suporte de banco de dados do supermercado solicitou que a
@@ -7062,7 +6902,7 @@ CAIU
 
 na prova!
 
-Item. 18. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
+18. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
 
 Ao implementar um sistema de gerência de fornecedores, o desenvolvedor percebeu
 que não existia
@@ -7092,7 +6932,7 @@ CAIU
 
 na prova!
 
-Item. 19. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Analista - Suporte Operacional
+19. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Analista - Suporte Operacional
 
 Em um banco de dados, a tabela Pessoa foi criada com a seguinte instrução:
 
@@ -7125,7 +6965,6 @@ ALTER TABLE table_name
 
 ADD column_name datatype;
 
-
 Veja que o nome e o tipo são informações passadas pelo enunciado, desta
 forma, podemos marcar
 o gabarito na alternativa B.
@@ -7136,7 +6975,7 @@ CAIU
 
 na prova!
 
-Item. 20. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
+20. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
 
 CREATE TABLE Inquilino(
 
@@ -7152,7 +6991,6 @@ andar INTEGER NOT NULL,
 
 numero _ N - " G " r*- NOT NULL,
 PR1MÀRY ZTV (andar,numero));
-
 
 Zaga -ng——(
 
@@ -7190,8 +7028,7 @@ CAIU
 
 na prova!
 
-Item. 21. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
-
+21. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
 
 CREATE TABLE Inquilino(
 
@@ -7248,13 +7085,12 @@ CAIU
 
 na prova!
 
-Item. 22. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+22. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 Considere as Tabelas a seguir para responder a questão.
 
 Essas Tabelas fazem parte do esquema de um banco de dados usado por uma
 associação de
 criadores de cães para organizar informações sobre os torneios que ela promove.
-
 
 CREATE TABLE CAO (
 
@@ -7287,7 +7123,6 @@ COD NUMBER(5) NOT NULL,
 NOME VARCHAR2(50) NOTNÜLL,
 CONSTRAINT ARBITRO_PK PRIMARY KEY (COD)
 
-
 )
 
 CREATE TABLE
@@ -7318,7 +7153,6 @@ REFERENCES COMPETICAO (COD)
 
 CREATE TABLE AVALIACAO
 
-
 COD_CAO
 COD_COMP
 COD_ARBTR
@@ -7337,7 +7171,6 @@ NOT NULL,
 CONSTRAINT AVALIACAO PK PRIMARY KEY
 
 (COD CAO,COD COMPjCOD ARBTR),
-
 
 CONSTRAINT AVALIACAO_FK1
 REFERENCES CAO (COD),
@@ -7374,7 +7207,6 @@ competição. Suas colunas são autoexplicativas.
 * A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
 participam de
 competições. Suas colunas são autoexplicativas.
-
 
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
@@ -7433,7 +7265,6 @@ GROUP BYC.NOME
 
 ORDER BY SUM(N.NOTA_ARBTR)
 
-
 Comentário: Vejam que nesta questão precisamos apresentar os nomes dos cães
 participantes e o
 somatório das notas que cada um deles. Vejam que são apenas 2 atributos.
@@ -7461,13 +7292,12 @@ CAIU
 
 na prova!
 
-Item. 23. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+23. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Considere as Tabelas a seguir para responder a questão.
 
 Essas Tabelas fazem parte do esquema de um banco de dados usado por uma associação de
 criadores de cães para organizar informações sobre os torneios que ela promove.
-
 
 CREATE TABLE CAO (
 
@@ -7500,7 +7330,6 @@ COD NUMBER(5) NOT NULL,
 NOME VARCHAR2(50) NOTNÜLL,
 CONSTRAINT ARBITRO_PK PRIMARY KEY (COD)
 
-
 )
 
 CREATE TABLE
@@ -7531,7 +7360,6 @@ REFERENCES COMPETICAO (COD)
 
 CREATE TABLE AVALIACAO
 
-
 COD_CAO
 COD_COMP
 COD_ARBTR
@@ -7550,7 +7378,6 @@ NOT NULL,
 CONSTRAINT AVALIACAO PK PRIMARY KEY
 
 (COD CAO,COD COMPjCOD ARBTR),
-
 
 CONSTRAINT AVALIACAO_FK1
 REFERENCES CAO (COD),
@@ -7587,7 +7414,6 @@ competição. Suas colunas são autoexplicativas.
 * A Tabela ARBITRO contém os dados dos árbitros que julgam os cães que
 participam de
 competições. Suas colunas são autoexplicativas.
-
 
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
@@ -7649,14 +7475,13 @@ transformas o produto cartesiano em uma junção. Para finalizar, temos que agru
 nome.
 Desta forma, temos nossa resposta na alternativa E.
 
-
 Gabarito: E
 
 CAIU
 
 na prova!
 
-Item. 24. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+24. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Considere as Tabelas a seguir para responder a questão.
 
@@ -7691,7 +7516,6 @@ COD NUMBER(5) NOT NULL,
 
 NOME VARCHAR2(50) NOT NULL,
 CONSTRAINT ARBITRO PK PRIMARY KEY (COD)
-
 
 )
 
@@ -7735,7 +7559,6 @@ CONSTRAINT AVALIACAO PK PRIMARY KEY
 
 (COD CAO,COD COMPjCOD ARBTR),
 
-
 CONSTRAINT AVALIACAO FK1 FOREIGN
 REFERENCES CAO (COD),
 
@@ -7749,7 +7572,6 @@ KEY
 
 (COD_COMP)
 
-
 REFERENCES COMPETICAO
 CONSTRAINT AVALIACAO FK3
 REFERENCES ARBITRO (COD)
@@ -7762,7 +7584,6 @@ FOREIGN
 KEY
 
 (COD_ARBTR)
-
 
 * A Tabela CAO contém os dados dos cães inscritos na referida associação. A coluna
 NOME_PAI
@@ -7821,7 +7642,6 @@ HAVING COUNT(*) >0
 
 e) SELECT C.NOME
 
-
 FROM CAO QPARTICIPACAO P
 
 WHERE C.COD=P.COD_CAO AND COUNT(*) > 0
@@ -7843,7 +7663,7 @@ CAIU
 
 na prova!
 
-Item. 25. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+25. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 O administrador de um banco de dados deseja remover do usuário RH5678 o privilégio de
 excluir
@@ -7868,14 +7688,13 @@ somente com essa informação já conseguimos marcar a alternativa correta.
 
 Gabarito: A
 
-
 LISTA DE QUESTõES - CEBRASPE (CESPE)
 
 CAIU
 
 na prova!
 
-Item. 1. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
+1. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
 Suporte Técnico
 
 A respeito de sistemas gerenciadores de banco de dados (SGBD), julgue os
@@ -7896,7 +7715,7 @@ CAIU
 
 na prova!
 
-Item. 2. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
+2. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
 Suporte Técnico
 
 Acerca de banco de dados, julgue os itens que se seguem.
@@ -7909,7 +7728,7 @@ CAIU
 
 na prova!
 
-Item. 3. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
+3. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
 Desenvolvimento de Sistemas Questão:
 
 Julgue os seguintes itens, relativos a métricas de qualidade desoftware, JUnit,
@@ -7917,7 +7736,6 @@ SQL, Delphi e desenvolvimento mobile.
 
 107 A sentença SQL seguinte produzirá como resultado a lista de todos os
 funcionários de uma empresa. Para aqueles em que seja verdadeira a condição
-
 
 Funcionários.CodigoDep = Departamentos. CodigoDep, será apresentado
 também o nome do departamento.
@@ -7934,7 +7752,7 @@ CAIU
 
 na prova!
 
-Item. 4. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Area 08 Questão: 144
+4. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Area 08 Questão: 144
 
 A respeito de sistemas gerenciadores de banco de dados, julgue os próximos
 itens.
@@ -7946,7 +7764,7 @@ CAIU
 
 na prova!
 
-Item. 5. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Area 09 Questões: 144
+5. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Area 09 Questões: 144
 a 147
 
 SELECT nome
@@ -7969,7 +7787,6 @@ cidade de BRASÍLIA,DF.
 146 A palavra INTELIGÊNCIA está entre aspas simples por pertencer a um
 atributo, area, o qual tem o tipo de dados definido como caractere.
 
-
 147 Em LIKE '%BRASILIA,DF%', o recurso LIKE foi definido de forma incorreta,
 uma vez que a utilização da vírgula (,), sem a inclusão da palavra-chave ESCAPE,
 impedirá que o código seja executado.
@@ -7978,7 +7795,7 @@ CAIU
 
 na prova!
 
-Item. 6. BANCA: CESPE ANO: 2015 ORGAO: TJDFT CARGO: PROGRAMAÇAO DE
+6. BANCA: CESPE ANO: 2015 ORGAO: TJDFT CARGO: PROGRAMAÇAO DE
 SISTEMAS - QUESTÕES 63 E 64
 
 Acerca de linguagens de definição e manipulação de dados, julgue os itens
@@ -7993,7 +7810,7 @@ CAIU
 
 na prova!
 
-Item. 7. BANCA: CESPE ANO: 2015 ÓRGÃO: TJDFT CARGO: PROGRAMAÇÃO DE
+7. BANCA: CESPE ANO: 2015 ÓRGÃO: TJDFT CARGO: PROGRAMAÇÃO DE
 SISTEMAS - QUESTÕES 65 A 66
 
 Julgue os próximos itens, relativos a SQL.
@@ -8021,12 +7838,11 @@ FROM empregados
 WHERE id_departamento = 40
 ORDER BY sobrenome
 
-
 CAIU
 
 na prova!
 
-Item. 8. BANCA: CESPE ANO: 2016 ORGAO: TCE-SC CARGO: AUDITOR DE TI
+8. BANCA: CESPE ANO: 2016 ORGAO: TCE-SC CARGO: AUDITOR DE TI
 
 Com relação aos bancos de dados relacionais, julgue os próximos itens.
 
@@ -8047,7 +7863,7 @@ CAIU
 
 na prova!
 
-Item. 9. BANCA: CESPE ANO: 2016 ORGAO: TRT-08 CARGO: ANALISTA DE TI -
+9. BANCA: CESPE ANO: 2016 ORGAO: TRT-08 CARGO: ANALISTA DE TI -
 QUESTÃO 13
 
 Acerca de SQL (structured query language), assinale a opção correta.
@@ -8072,7 +7888,6 @@ quando o modelo estiver na quinta forma normal (5FN).
 E Para obter a quantidade de linhas que atendem a determinada instrução SQL,
 o processo mais eficiente e rápido é executar o comando SELECT e aplicar uma
 estrutura de loop para contar as linhas resultantes.
-
 
 CAIU
 
@@ -8125,7 +7940,6 @@ having max(c2.area)
 B select cl.local, cl.nome, c2.descricao, max(c2.area)
 from prédio as cl, salas as c2
 
-
 where c2.local=cl.id
 group by cl.local, cl.nome, c2.descricao
 
@@ -8176,7 +7990,6 @@ na prova!
 12.BANCA: CESPE ANO: 2008 ÓRGÃO: TJ-DF PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
-
 Quanto a bancos de dados, sistemas gerenciadores de bancos de dados e
 técnicas correlacionadas de modelagem de dados, julgue os próximos itens.
 
@@ -8187,7 +8000,7 @@ CAIU
 
 na prova!
 
-Item. 13. Ano: 2016 Banca: CESPE Órgão: TCE-PR Cargo: Analista de Controle
+13. Ano: 2016 Banca: CESPE Órgão: TCE-PR Cargo: Analista de Controle
 Área: Tecnologia da Informação Questão: 62
 
 A respeito de SQL, assinale a opção correta.
@@ -8214,7 +8027,7 @@ CAIU
 
 na prova!
 
-Item. 14. Ano: 2016 Banca: CESPE Órgão: TCE-PR Cargo: Analista de Controle
+14. Ano: 2016 Banca: CESPE Órgão: TCE-PR Cargo: Analista de Controle
 Área: Tecnologia da Informação Questão: 63
 
 No que se refere a banco de dados, assinale a opção correta
@@ -8230,7 +8043,6 @@ implementadas nos bancos de dados orientados a objetos.
 C) A restrição de asserção de um banco de dados permite a execução de ações
 automáticas a partir de eventos previamente definidos, por exemplo, a
 entrada de um CPF com formatação incorreta.
-
 
 D) Uma view representa uma tabela em forma física consolidada a partir de
 outras tabelas previamente definidas.
@@ -8306,7 +8118,6 @@ Texto para as próximas duas questões: a seguir, são apresentados um
 modelo entidade-relacionamento conceituai e, na tabela, características dos seus
 atributos.
 
-
 pessoa
 local
 encontro
@@ -8376,7 +8187,6 @@ B CREATE TABLE encontro (
 'idlocal' INT(3) NULL,
 'idpessoa_marca' INT(5) NULL,
 
-
 'idpessoa_atende' INT(5) NULL,
 'data_encontro' DATE NULL,
 
@@ -8427,7 +8237,6 @@ E CREATE TABLE encontro (
 'idpessoa_marca' INT(5) NULL FOREIGN KEY ('idpessoa_marca')
 REFERENCES 'pessoa' ('idPessoa'),
 
-
 'idpessoa_atende' INT(5) NULL FOREIGN KEY ('idpessoa_atende')
 REFERENCES 'pessoa' ('idPessoa'),
 
@@ -8473,9 +8282,8 @@ CAIU
 
 na prova!
 
-Item. 18. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
+18. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
 Questão: 38.
-
 
 Na linguagem SQL, o comando create table é usado para criar uma tabela no
 banco de dados; enquanto o relacionamento entre duas tabelas pode ser criado
@@ -8493,7 +8301,7 @@ CAIU
 
 na prova!
 
-Item. 19. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
+19. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
 Questão: 39.
 
 Na linguagem SQL, quando for necessário obter uma lista e criar uma condição,
@@ -8511,7 +8319,7 @@ CAIU
 
 na prova!
 
-Item. 20. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
+20. Ano: 2016 Banca: CESPE Órgão: PCPE Cargo: PERITO CRIMINAL
 Questão: 40.
 
 Em SQL, para alterar a estrutura de uma tabela do banco de dados e incluir nela
@@ -8524,7 +8332,6 @@ C alter table.
 D update.
 
 E insert.
-
 
 CAIU
 
@@ -8568,7 +8375,6 @@ FROM inscricao, aluno, disciplina
 WHERE inscricao. matricu la=aluno. matricu la
 AND quantidade > 2
 
-
 GROUP BY inscricao, aluno, disciplina
 
 E SELECT aluno.matricula, aluno.nome, SUM() > 2
@@ -8597,53 +8403,51 @@ C FROM pessoa WHERE sexo='M' DELETE sexo
 D DELETE sexo FROM pessoa WHERE sexo='M'
 E DELETE FROM pessoa WHERE sexo='M'
 
-
 GABARITo
 
-Item. 1. C E C
+1. C E C
 
-Item. 2. C
+2. C
 
-Item. 3. E
+3. E
 
-Item. 4. C
+4. C
 
-Item. 5. C C C E
+5. C C C E
 
-Item. 6. C C
+6. C C
 
-Item. 7. E C
+7. E C
 
-Item. 8. C E C
+8. C E C
 
-Item. 9. A
+9. A
 
-Item. 10. C
+10. C
 
-Item. 11. E <
+11. E <
 
-Item. 12. C
+12. C
 
-Item. 13. C
+13. C
 
-Item. 14. B
+14. B
 
-Item. 15. B
+15. B
 
-Item. 16. C
+16. C
 
-Item. 17. A
+17. A
 
-Item. 18. C
+18. C
 
-Item. 19. C
+19. C
 
-Item. 20. C
+20. C
 
-Item. 21. A
+21. A
 
-Item. 22. E
-
+22. E
 
 LISTA DE QUESTõES - CESCRANRIO
 
@@ -8651,7 +8455,7 @@ CAIU
 
 na prova!
 
-Item. 1. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+1. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Considere as Tabelas a seguir para responder a questão.
 
@@ -8694,7 +8498,6 @@ CONSTRAINT ARBITRO_PK PRIMARY KEY (COD)
 
 CREATE TABLE PARTICIPACAO (
 
-
 COD_CAO
 COD_COMP
 COLOCACAO
@@ -8730,7 +8533,6 @@ NOTA ARBTR NUMBER(3, 1) NOT NÜLL,
 
 CONSTRAINT AVALIACAO PK PRIMARY KEY
 
-
 (COD_CAO,COD_COMP,COD
 CONSTRAINT AVALIACAO_FK1
 
@@ -8752,7 +8554,6 @@ FOREIGN KEY (COD_ COMP)
 FOREIGN KEY (COD_ ARBTR)
 
 Observações:
-
 
 * A Tabela CAO contém os dados dos cães inscritos na referida associação.
 A coluna NOME_PAI
@@ -8808,7 +8609,6 @@ MARTINS
 888R VIVI SHITZU
 FERNANDA MATHIAS
 
-
 TABELA COMPETICAO
 
 COD DESCR
@@ -8853,7 +8653,6 @@ c) INSERT INTO PARTICIPACAO (COLOCACAO, COD_COMP, COD_CAO) VALUES (1,1111,8888)
 
 d) INSERT INTO CAO (COD, NOME, RACA, NOME_PAI)
 
-
 VALUES (1130,'TUTU','BULDOG FRANCÊS','PEPEU')
 
 e) INSERT INTO PARTICIPACAO VALUES (2222,1111,7)
@@ -8862,7 +8661,7 @@ CAIU
 
 na prova!
 
-Item. 2. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
+2. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
 Júnior - Informática
 
 ALUNO (cpf: string, nome : string, endereço : string, telefone : string)
@@ -8885,7 +8684,7 @@ CAIU
 
 na prova!
 
-Item. 3. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
+3. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
 Júnior - Informática
 
 ALUNO (cpf : string , nome : string , endereço : string, telefone : string)
@@ -8909,9 +8708,8 @@ CAIU
 
 na prova!
 
-Item. 4. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
+4. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
 Júnior - Informática
-
 
 ALUNO (cpf : string , nome : string , endereço : string, telefone : string)
 MATRICULA (cpf : string , cod-cad : string)
@@ -8934,12 +8732,11 @@ CAIU
 
 na prova!
 
-Item. 5. Ano: 2014 Banca: CESGRANRIO Órgão: PetrobrasProva: Engenheiro(a) de Equipamentos Júnior
+5. Ano: 2014 Banca: CESGRANRIO Órgão: PetrobrasProva: Engenheiro(a) de Equipamentos Júnior
 
 - Eletrônica
 
 Observe a Tabela FERRAMENTAS abaixo, relativa a um banco de dados relacional.
-
 
 tupla 1 —>
 
@@ -9033,8 +8830,7 @@ CAIU
 
 na prova!
 
-
-Item. 6. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Técnico de Tecnologia da Informação
+6. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Técnico de Tecnologia da Informação
 
 Aluno
 idAluno: INTEGER
@@ -9053,7 +8849,7 @@ CAIU
 
 na prova!
 
-Item. 7. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+7. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Para responder à questão, tenha como referência o diagrama de
@@ -9061,7 +8857,6 @@ entidades e relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
 
 Movimento
-
 
 Conta
 seq_movimento
@@ -9096,7 +8891,6 @@ a) CREATE TABLE Tipo_Conta ( codigo_tipo_conta NUMERIC PRIMARY KEY,
 descricao_tipo_conta
 VARCHAR(256))
 
-
 b) CREATE TABLE TipoJZonta (
 codigo_tipo_conta:NUMERIC PRIMARY KEY,
 descricao_tipo_conta:VARCHAR(256))
@@ -9117,7 +8911,7 @@ CAIU
 
 na prova!
 
-Item. 8. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+8. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Para responder à questão, tenha como referência o diagrama de
@@ -9125,7 +8919,6 @@ entidades e relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
 
 Movimento
-
 
 Conta
 seq_movimento
@@ -9166,14 +8959,13 @@ c) UPDATE Conta SET VALUES (id_conta,"S") WHERE id_conta=123456
 
 d) UPDATE credito_bloqueado_sn="S" From Conta WHERE id_conta=123456
 
-
 e) UPDATE INTO Conta VALUES (123456,"S")
 
 CAIU
 
 na prova!
 
-Item. 9. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+9. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Considere um banco de dados relacional com as duas tabelas a seguir.
@@ -9218,12 +9010,10 @@ CAIU
 
 na prova!
 
-Item. 10. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
+10. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
 de Sistemas
 
-
 As Tabelas pertencem ao esquema de um banco de dados acadêmico de uma universidade.
-
 
 CREATE TABLE
 
@@ -9240,7 +9030,6 @@ NUMBER(ll),
 NOT NULL,
 NOT NULL,
 
-
 CONSTRAINT
 CONSTRAINT
 
@@ -9248,7 +9037,6 @@ ALUNO_UK1 ÜNIQUE (CPF),
 ALUNO_PK PRIMARY KEY (MATRIC))
 
 CREATE TABLE HISTORICO (
-
 
 MATRIC
 COD_DISC
@@ -9334,7 +9122,6 @@ a) INSERT INTO ALUNO (MATRIC, CPF, NOME) VALUES (66666,'TIAGO MENEZES')
 
 b) DELETE FROM ALUNO WHERE CPF IS NULL
 
-
 c) UPDATE ALUNO SET CPF=23565677789 WHERE NOME ='GABRIEL LOPES'
 
 d) INSERT INTO ALUNO VALUES (66666,'TIAGO MENEZES')
@@ -9347,13 +9134,12 @@ CAIU
 
 na prova!
 
-Item. 11. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
+11. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
 de Sistemas
 
 As Tabelas pertencem ao esquema de um banco de dados académico de uma universidade.
 
 CREATE TABLE ALUNO (
-
 
 MATRIC
 NOME
@@ -9383,7 +9169,6 @@ PRIMARY KEY (MATRIC,COD_DISC,ANO,SEMESTRE),
 CONSTRAINT HIST_FK FOREIGN KEY (MATRIC)
 
 REFERENCES ALUNO (MATRIC))
-
 
 Observações:
 
@@ -9459,7 +9244,6 @@ ON A.MATRIC=H.MATRIC
 
 GROUP BY A.NOME
 
-
 b) SELECT A.NOME, AVG(H.NOTA)
 FROM ALUNO A
 
@@ -9491,14 +9275,12 @@ CAIU
 
 na prova!
 
-Item. 12. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
+12. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
 de Sistemas
-
 
 As Tabelas pertencem ao esquema de um banco de dados acadêmico de uma universidade.
 
 CREATE TABLE ALUNO (
-
 
 MATRIC
 NOME
@@ -9585,7 +9367,6 @@ exibe os nomes dos alunos que nunca foram reprovados?
 a) SELECT DISTINCT A.NOME
 FROM ALUNO A, HISTORICO H
 
-
 WHERE A.MATRIC=H.MATRIC AND H.NOTA >= 5.0
 
 b) SELECT NOME FROM ALUNO
@@ -9622,11 +9403,10 @@ CAIU
 
 na prova!
 
-Item. 13. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
+13. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
 da Informação
 
 As informações presentes abaixo devem ser usadas para responder às questões de nos 50 a 52.
-
 
 Pessoa
 ld Nome Idade Sexo
@@ -9692,11 +9472,10 @@ CAIU
 
 na prova!
 
-Item. 14. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
+14. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
 da Informação
 
 As informações presentes abaixo devem ser usadas para responder às questões de nos 50 a 52.
-
 
 Pessoa
 ld Nome Idade Sexo
@@ -9762,7 +9541,7 @@ CAIU
 
 na prova!
 
-Item. 15. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de
+15. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de
 Sistemas
 
 As tabelas abaixo pertencem ao esquema de um banco de dados de um supermercado.
@@ -9774,7 +9553,6 @@ PRECO NUMBER(8,2) NOT NULL,
 QTD_ESTOQUE NUMBER(5),
 
 TIPO NUMBER(l) NOT NULL,
-
 
 CONSTRAINT PRODUTO_PK PRIMARY KEY (COD))
 CREATE TABLE ITEM (
@@ -9833,7 +9611,6 @@ FROM PRODUTO
 WHERETIPO = 1
 UNION
 
-
 SELECT P.COD, P.DESCRICAO, COUNT(I.COD_PROD)
 FROM PRODUTO P
 
@@ -9879,7 +9656,7 @@ CAIU
 
 na prova!
 
-Item. 16. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de
+16. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de
 Sistemas
 
 As tabelas abaixo pertencem ao esquema de um banco de dados de um supermercado.
@@ -9887,7 +9664,6 @@ CREATE TABLE PRODUTO (
 
 COD NUMBER(5) NOT NULL,
 DESCRICAO VARCHAR2(100) NOT NULL,
-
 
 PRECO NUMBER(8,2) NOT NULL,
 QTD_ESTOQUE NUMBER(5),
@@ -9946,12 +9722,11 @@ VALUES(7777,'COMPUTADOR BLUEX',1000.00, ,2)
 e) INSERT INTO PRODUTO (COD,DESCRICAO,PRECO,TIPO,QTD_ESTOQUE)
 VALUES(7777,'COMPUTADOR BLUEX',1000.00,2)
 
-
 CAIU
 
 na prova!
 
-Item. 17. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
+17. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
 Para responder essa questão use a mesma referência da questão anterior.
 
 O analista de suporte de banco de dados do supermercado solicitou que a
@@ -9989,7 +9764,7 @@ CAIU
 
 na prova!
 
-Item. 18. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
+18. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
 
 Ao implementar um sistema de gerência de fornecedores, o desenvolvedor percebeu
 que não existia
@@ -10010,12 +9785,11 @@ d) CREATE PRODUTO AS TABLE
 
 e) CREATE TABLE PRODUTO
 
-
 CAIU
 
 na prova!
 
-Item. 19. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Analista - Suporte Operacional
+19. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Analista - Suporte Operacional
 
 Em um banco de dados, a tabela Pessoa foi criada com a seguinte instrução:
 CREATE TABLE Pessoa ( PessoalD int,
@@ -10043,10 +9817,9 @@ CAIU
 
 na prova!
 
-Item. 20. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
+20. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
 
 _ TABLE _nqui_ino(
-
 
 nome
 cpf
@@ -10079,7 +9852,6 @@ a) add column telefone varchar(12) on table Inquilino;
 
 b) alter table Inquilino add column telefone varchar(12);
 
-
 c) alter table Inquilino insert column telefone varchar(12);
 
 d) insert column telefone varchar(12) on table Inquilino;
@@ -10090,7 +9862,7 @@ CAIU
 
 na prova!
 
-Item. 21. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
+21. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
 
 CREATE TABLE Inquilino(
 
@@ -10137,14 +9909,13 @@ CAIU
 
 na prova!
 
-Item. 22. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+22. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Considere as Tabelas a seguir para responder a questão.
 
 Essas Tabelas fazem parte do esquema de um banco de dados usado por uma
 associação de
 criadores de cães para organizar informações sobre os torneios que ela promove.
-
 
 CREATE TABLE CAO (
 
@@ -10177,7 +9948,6 @@ COD NUMBER(5) NOT NULL,
 NOME VARCHAR2(50) NOTNÜLL,
 CONSTRAINT ARBITRO_PK PRIMARY KEY (COD)
 
-
 )
 
 CREATE TABLE
@@ -10208,7 +9978,6 @@ REFERENCES COMPETICAO (COD)
 
 CREATE TABLE AVALIACAO
 
-
 COD_CAO
 COD_COMP
 COD_ARBTR
@@ -10227,7 +9996,6 @@ NOT NULL,
 CONSTRAINT AVALIACAO PK PRIMARY KEY
 
 (COD CAO,COD COMPjCOD ARBTR),
-
 
 CONSTRAINT AVALIACAO_FK1
 REFERENCES CAO (COD),
@@ -10265,7 +10033,6 @@ competição. Suas colunas são autoexplicativas.
 * A Tabela ARBITRO contém os dados dos árbitros que julgam os
 cães que participam de
 competições. Suas colunas são autoexplicativas.
-
 
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão,
 por um determinado
@@ -10323,14 +10090,13 @@ N.COD_CAO=C.COD
 
 GROUP BYC.NOME
 
-
 ORDER BYSUM(N.NOTA ARBTR)
 
 CAIU
 
 na prova!
 
-Item. 23. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+23. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Considere as Tabelas a seguir para responder a questão.
 
@@ -10366,7 +10132,6 @@ COD NUMBER(5) NOT NULL,
 
 NOME VARCHAR2(50) NOT NULL,
 CONSTRAINT ARBITRO PK PRIMARY KEY (COD)
-
 
 )
 
@@ -10410,7 +10175,6 @@ CONSTRAINT AVALIACAO PK PRIMARY KEY
 
 (COD CAO,COD COMPjCOD ARBTR),
 
-
 CONSTRAINT AVALIACAO FK1 FOREIGN
 REFERENCES CAO (COD),
 
@@ -10424,7 +10188,6 @@ KEY
 
 (COD_COMP)
 
-
 REFERENCES COMPETICAO
 CONSTRAINT AVALIACAO FK3
 REFERENCES ARBITRO (COD)
@@ -10437,7 +10200,6 @@ FOREIGN
 KEY
 
 (COD_ARBTR)
-
 
 * A Tabela CAO contém os dados dos cães inscritos na referida associação.
 A coluna NOME_PAI
@@ -10501,7 +10263,6 @@ AND N.COD_ARBTR=A.COD AND A.COD=1111
 
 e) SELECT A.NOME, SUM(N.NOTA_ARBTR) / COUNT(*)
 
-
 FROM CAO C,AVALIACAO N,ARBITRO A
 
 WHERE C.NOME='GINGER' AND C.COD=N.COD_CAO AND N.COD_ARBTR=A.COD
@@ -10513,7 +10274,7 @@ CAIU
 
 na prova!
 
-Item. 24. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+24. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Considere as Tabelas a seguir para responder a questão.
 
@@ -10549,7 +10310,6 @@ COD NUMBER(5) NOT NULL,
 
 NOME VARCHAR2(50) NOTNÜLL,
 CONSTRAINT ARBITRO PK PRIMARY KEY (COD)
-
 
 )
 
@@ -10593,7 +10353,6 @@ CONSTRAINT AVALIACAO PK PRIMARY KEY
 
 (COD CAO,COD COMPjCOD ARBTR),
 
-
 CONSTRAINT AVALIACAO FK1 FOREIGN
 REFERENCES CAO (COD),
 
@@ -10607,7 +10366,6 @@ KEY
 
 (COD_COMP)
 
-
 REFERENCES COMPETICAO
 CONSTRAINT AVALIACAO FK3
 REFERENCES ARBITRO (COD)
@@ -10620,7 +10378,6 @@ FOREIGN
 KEY
 
 (COD_ARBTR)
-
 
 Observações:
 
@@ -10680,7 +10437,6 @@ GROUP BY C.NOME
 
 HAVING COUNT(*) >0
 
-
 e) SELECT C.NOME
 
 FROM CAO QPARTICIPACAO P
@@ -10692,7 +10448,7 @@ CAIU
 
 na prova!
 
-Item. 25. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+25. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 O administrador de um banco de dados deseja remover do usuário RH5678 o
 privilégio de excluir
@@ -10710,57 +10466,55 @@ d) DROP FUNCTION DELETE ON RH05_FUNCIONARIO FROM RH5678
 
 e) DELETE FUNCTION DELETE FROM RH5678 ON RH05 FUNCIONARIO
 
-
 GABARITo
 
-Item. 1. c
+1. c
 
-Item. 2. c
+2. c
 
-Item. 3. D
+3. D
 
-Item. 4. B
+4. B
 
-Item. 5. B
+5. B
 
-Item. 6. B
+6. B
 
-Item. 7. A
+7. A
 
-Item. 8. B
+8. B
 
-Item. 9. D
+9. D
 
-Item. 10. E
+10. E
 
-Item. 11. D
+11. D
 
-Item. 12. B
+12. B
 
-Item. 13. B
+13. B
 
-Item. 14. E
+14. E
 
-Item. 15. B
+15. B
 
-Item. 16. A
+16. A
 
-Item. 17. D
+17. D
 
-Item. 18. E
+18. E
 
-Item. 19. B
+19. B
 
-Item. 20. B
+20. B
 
-Item. 21. B
+21. B
 
-Item. 22. A
+22. A
 
-Item. 23. E
+23. E
 
-Item. 24. D
+24. D
 
-Item. 25. A
-
+25. A
 

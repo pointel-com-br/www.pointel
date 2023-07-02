@@ -1,126 +1,86 @@
-Capítulo. Engenharia de Computadores e Redes - IaaS - Infraestrutura com Serviço. SaaS - Software como Serviço. PaaS - Plataforma como Serviço.
-
+# Engenharia de Computadores e Redes - IaaS - Infraestrutura com Serviço. SaaS - Software como Serviço. PaaS - Plataforma como Serviço.
 
 Índice
 
 1) Computação em Nuvem
 
-
 Sumário
 
 Cluster, Grid e Balanceamento de Carga
 
-
 Cluster
-
 
 Grid
 
-
 Balanceamento de Carga
-
 
 Computação em Nuvem (Cloud Computing)
 
-
 Co-location
-
 
 Hosting
 
-
 Nuvem Privada
-
 
 Nuvem Pública
 
-
 Nuvem Comunitária
-
 
 Nuvem Híbrido
 
-
 Arquiteturas de Cloud Computing
-
 
 Infrastruture as a Service (laaS)
 
-
 Platform as a Service (PaaS)
-
 
 Software as a Service (SaaS)
 
-
 Communication as a Service (CaaS)
-
 
 Data base as a Service (DBaaS)
 
-
 Function as a Service (FaaS)
-
 
 Everything as a Service (XaaS)
 
-
 Workloads.
-
 
 Tipos de migração
 
-
 Serverless.
-
 
 Serviços AWS- GOOGLE - AZURE
 
-
 Questões Comentadas.
-
 
 Cluster e Grid
 
-
 Computação em Nuvem
-
 
 Questões Comentadas Complementares.
 
-
 Computação em Nuvem
-
 
 Lista de Questões.
 
-
 Cluster e Grid
 
-
 Computação em Nuvem
-
 
 Lista de Questões Complementares.
 
-
 Computação em Nuvem
-
 
 Gabarito.
 
-
 Gabarito - Questões CESPE
-
 
 Gabarito - Questões FCC
 
-
 Resumo
 
-
 Considerações Finais
-
 
 CLUSTER, GRID E BALANCEAMENTo DE CARCA
 
@@ -182,7 +142,6 @@ Algumas outras características que são muito importantes a respeito do Grid:
 * A administração e gerência dos dispositivos é descentralizada, ou seja, a NASA não controla os
 dispositivos pessoais dos usuários que participam do Grid, mas sim os próprios donos;
 
-
 * As capacidades de processamento sâo diversificadas e heterogêneas. Pode-se ter
 computadores
 individuais de alta capacidade de processamento, bem como se pode ter
@@ -229,7 +188,6 @@ ou dispositivos sem que o serviço seja afetado.
 
 Podemos dividir a implementação do balanceamento de carga em duas categorias:
 
-
 * Balanceamento de carga por software: Consiste na instalação e configuração
 de um Software,
 podendo ser inclusive a nível de sistema operacional, em servidores que fazem parte de
@@ -254,7 +212,6 @@ Percebe-se que todo o tráfego é encaminhado ao servidor de Banco de dados. Já
 figura a seguir, temos
 uma implementação de balanceamento de carga em software:
 
-
 Podemos verificar a utilização do IP virtual, algo semelhante ao VRRP. No caso em
 questão, não há a
 utilização de um balanceador de carga a nível de hardware, pois se utiliza o conceito
@@ -263,11 +220,9 @@ os servidores se comunicam para atender de forma alternada às requisições.
 
 Já na figura abaixo, temos a implementação de um balanceamento em hardware:
 
-
 ,s"'
 
 /
-
 
 (CESPE - BACEN - Analista de Sistemas/2013) O usuário pode acessar, seus dados
 armazenados
@@ -328,7 +283,6 @@ e backups, entre
 muitas outras coisas.
 
 *
-
 
 HoSTING
 
@@ -392,15 +346,13 @@ pagamento sob demanda (Pay-per-use). Abaixo algumas características de um
 ambiente de nuvem de
 forma objetiva:
 
-Item. 0.0
-
+0.0
 
 FIQUE
 
 ATENTO!
 
 CARACTERÍSTICA DESCRIÇÃO
-
 
 ÁUTOSSERVIÇÒ
 
@@ -443,7 +395,6 @@ divididos em 4 categorias: Nuvem Privada, Nuvem Pública, Nuvem Comunitária e N
 Híbrida. Vamos ver
 cada uma delas:
 
-
 NUVEM PRIVADA
 
 Nesse modelo, a infraestrutura que provê os serviços em nuvem é mantida pela própria
@@ -473,7 +424,6 @@ sustentar recursos
 frente às bancas. Vejam a tradução literal da definição do NIST, em seu documento
 800-145, que trata dos
 conceitos de nuvem:
-
 
 : "A infraestrutura de nuvem é provisionada para uso exclusivo por uma
 única :
@@ -511,9 +461,7 @@ T ATENÇÃO!
 
 *
 
-
 Vamos ver novamente, a definição do NIST:
-
 
 .
 
@@ -593,7 +541,6 @@ e :
 : balanceamento de carga entre nuvens).
 :
 
-
 Pessoal, é salutar conhecer o nome comercial
 mercado atualmente, tais como:
 
@@ -608,7 +555,6 @@ eles,
 podemos citar os iPhones, lpad's e Mac's.
 
 * OneDrive:
-
 
 A empresa responsável pelo OneDrive é a Microsoft. É a evolução do
 SkyDrive. Ele fornece recursos de armazenamento e compartilhamento de
@@ -626,7 +572,6 @@ de forma compartilhada e simultânea — é integrado com outros serviços.
 
 * DropBox:
 
-
 A empresa responsável pelo DropBox é a própria DropBox. Ele fornece recursos
 semelhantes aos do OneDrive e Google para o armazenamento e sincronização dos
 arquivos. Permite a integração com o sistema de diretórios do cliente a
@@ -641,7 +586,6 @@ Dropbox
 Reparem que todos os serviços acima podem ser utilizados de forma gratuita ou
 
 0 0
-
 
 pago. Neste último caso, são fornecidos alguns recursos adicionais que permitem
 inclusive a utilização desses
@@ -662,7 +606,6 @@ nuvem em
 quatro espécies: Nuvem Privada, Nuvem Pública, Nuvem Comunitária e Nuvem
 Híbrida. Portanto, a
 banca trocou o perfil híbrido por restrito.
-
 
 Gabarito: E
 
@@ -747,7 +690,6 @@ Esse tipo de arquitetura de nuvem ainda é um pouco incipiente.
 
 Exemplo: SimpleBD e Amozon Relational Dotobose Service.
 
-
 FUNCTIoN AS A SERVICE (FAAS)
 
 FaaS significa "Functions as a Service" (Funções como Serviço, em português) e é uma
@@ -812,7 +754,6 @@ mercado e às necessidades dos clientes.
 
 0-0
 
-
 que fornece uma infraestrutura de integração para implementar e testar aplicações elaboradas
 para a nuvem, é denominado
 a) AaaS -Application as a Service.
@@ -837,7 +778,6 @@ do provedor de
 serviços) das três principais arquiteturas:
 
 Separation of Responsibilities
-
 
 On-Premi$es
 
@@ -880,18 +820,15 @@ de melhoria e oportunidade em torno da aplicação ou serviço, já ponderando
 as vantagens e serviços
 agregados da computação em nuvem.
 
-
 Nesse processo, daremos destaque às diferentes estratégias que podem ser
 adotadas a partir
 workloads abaixo, e seus comportamentos. Assim, temos, como base, os tipos a seguir:
 
 Vamos comentar um pouco sobre cada um deles e seus desdobramentos.
 
-
 dos
 
-
-Item. 1. Static Workload
+1. Static Workload
 
 Recursos de TI que possuem comportamento igual ao longo do tempo. Nesse contexto, de
 fato, há uma
@@ -915,7 +852,7 @@ momento, haver
 ganhos pontuais em termos de não correr riscos nas variações próximas ao limite superior
 estabelecido.
 
-Item. 2. Periodic Workload
+2. Periodic Workload
 
 A partir de agora, já temos condições de experimentar ganhos reais para
 esses Workloads, com a
@@ -937,9 +874,7 @@ sexta.
 
 V ESCLARECENDO!
 
-
 ww. estrategiaconcursos. com.br
-
 
 Ou seja, percebemos, claramente, uma dinâmica periódica nesse exemplo. Podemos
 ainda pensar em
@@ -953,7 +888,7 @@ tráfego respeitando essa dinâmica.
 
 Vejamos na imagem a seguir, justamente a proposta:
 
-Item. 3. Once-in-a-lifetime Workload
+3. Once-in-a-lifetime Workload
 
 Seguindo com os tipos de workloads, agora vamos falar sobre o
 Once-in-a-lifetime Worload. Basicamente,
@@ -996,8 +931,7 @@ original.
 
 0 0
 
-
-Item. 4. Unpredictable Workload
+4. Unpredictable Workload
 
 Avançando para o quarto tipo de workload, temos agora o não previsível, em tradução
 literal. Como o
@@ -1005,9 +939,9 @@ próprio nome diz, a alocação fixa de recursos para tráfegos imprevisíveis,
 inevitavelmente vai incorrer
 em um dos dois problemas clássicos:
 
-Item. 1. Ociosidade de recursos alocados e consequentemente desperdício de recursos;
+1. Ociosidade de recursos alocados e consequentemente desperdício de recursos;
 
-Item. 2. Recursos alocados insuficientes e que geram problemas na solução como lentidão e até
+2. Recursos alocados insuficientes e que geram problemas na solução como lentidão e até
 indisponibilidade.
 
 Vejam que na prática, não tem para onde correr. Então aqui, tem-se o modelo clássico
@@ -1018,24 +952,23 @@ de automação em provisionar os recursos à medida que o tráfego muda,
 gerando um processo de
 moldagem real do tráfego.
 
-Item. 5. Continuously Changing Workload
+5. Continuously Changing Workload
 
 Por fim, o úlitmo tipo de workload, aquele referenciado sempre com "mudança contínua".
 Aqui, a ideia reside
 também em dois pontos básicos:
 
-
 TOME
 
 NOTA!
 
-Item. 1. Modelo de incremento funcional da solução, de tal modo que a cada
+1. Modelo de incremento funcional da solução, de tal modo que a cada
 nova feature ou recurso, há
 necessidade de expansão da capacidade de provimento, com acréscimo de novos usuários e
 aumento do
 consumo.
 
-Item. 2. Dinâmica de otimização da solução hospedada em nuvem, que visa reduzir
+2. Dinâmica de otimização da solução hospedada em nuvem, que visa reduzir
 o consumo a partir de
 evoluções e mudanças arquiteturais, ou ainda funcionais, agregando ferramentas e
 soluções para tal
@@ -1063,16 +996,15 @@ Mover aplicativos locais legados para a nuvem geralmente requer várias etapas d
 tipos principais
 de migração:
 
-Item. 1. Migração lift-and-shift
+1. Migração lift-and-shift
 
-Item. 2. Improve-and-move
+2. Improve-and-move
 
-Item. 3. Remover e substituir (às vezes chamado de rip-and-replace)
-
+3. Remover e substituir (às vezes chamado de rip-and-replace)
 
 Nas seções a seguir, cada tipo de migração é definido com exemplos de quando usar cada tipo.
 
-Item. 1. Migração lift-and-shift
+1. Migração lift-and-shift
 
 Em uma migração lift-and-shift, as cargas de trabalho são movidas de um ambiente de
 origem para um
@@ -1118,7 +1050,7 @@ plataforma de nuvem, como escalabilidade horizontal, preços detalhados e
 serviços altamente
 gerenciados.
 
-Item. 2. Migração improve-and-move
+2. Migração improve-and-move
 
 Em uma migração improve-and-move, a carga de trabalho é modernizada durante a migração.
 Nesse tipo
@@ -1148,12 +1080,11 @@ porque precisam ser refatoradas para que o aplicativo migre. E necessário
 avaliar o tempo e o esforço
 extra como parte do ciclo de vida do aplicativo.
 
-
 Uma migração improve-and-move também exige que as equipes dominem os
 conhecimentos dos novos
 produtos e tecnologias a serem utilizadas.
 
-Item. 3. rip-and-replace
+3. rip-and-replace
 
 Em uma migração rip-and-replace, desativa-se um aplicativo atual e faz um projeto
 completamente novo
@@ -1266,16 +1197,15 @@ técnicas que podem ser referenciadas pelas bancas nos seus termos originais. E 
 segunda, caso tenha
 dificuldade na tradução, em português para entender as características básicas dos serviços.
 
-
-Item. 1. AWS
+1. AWS
 
 https://aws.amazon.com/pt/serverless/
 
-Item. 2. GOOGLE
+2. GOOGLE
 
 https://cloud.google.com/serverless
 
-Item. 3. AZURE
+3. AZURE
 
 https://azure.microsoft.eom/en-us/solutions/serverless/#solutions
 
@@ -1317,12 +1247,11 @@ diversas categorias. Recomendo que naveguem, em cada categoria, para extrair os 
 em destaque
 apresentados.
 
-
 QUESTõES CoMENTADAS
 
 CLUSTER E GRID
 
-Item. 1. (CESPE - ANTT/Analista Administrativo/2013) A computação em grade difere da
+1. (CESPE - ANTT/Analista Administrativo/2013) A computação em grade difere da
 computação em
 cluster, principalmente pelo fato de as unidades de processamento de um
 cluster serem
@@ -1336,7 +1265,7 @@ implementado em estrela ou barramento.
 
 Gabarito: E
 
-Item. 2. (CESPE - CGE-PI/Auditor Governamental/2015) Na constituição de um cluster,
+2. (CESPE - CGE-PI/Auditor Governamental/2015) Na constituição de um cluster,
 é possível a
 utilização de sistemas operacionais diferentes, entretanto, desktops domésticos ou de
 escritório
@@ -1350,7 +1279,7 @@ sistemas operacionais iguais.
 
 Gabarito: E
 
-Item. 3. (CESPE - SERPRO/Analista- Suporte Técnico/2008) Nos GRIDs, a alocação dos recursos
+3. (CESPE - SERPRO/Analista- Suporte Técnico/2008) Nos GRIDs, a alocação dos recursos
 é feita
 por um gerente de recursos centralizado, e os nós que compõem o GRID
 trabalham
@@ -1359,14 +1288,13 @@ Os nós em clusters são autônomos e não o são nos GRIDs.
 
 Comentários:
 
-
 Falou em GRID, temos uma gerência descentralizada. Além disso, o recurso não é
 unificado. É distribuído
 tarefas específicas. Temos uma inversão dos conceitos entre CLUSTER e GRID na questão.
 
 Gabarito: E
 
-Item. 4. (CESPE - BACEN/Analista - Suporte à Infraestrutura de TI/2013) Se houver o
+4. (CESPE - BACEN/Analista - Suporte à Infraestrutura de TI/2013) Se houver o
 serviço de cluster,
 os volumes de disco não poderão ser compartilhados.
 
@@ -1380,7 +1308,7 @@ implementações em RAID de forma compartilhada.
 
 Gabarito: E
 
-Item. 5. (CESPE — SERPRO/Analista — Suporte Técnico/2013) A utilização de clusters de
+5. (CESPE — SERPRO/Analista — Suporte Técnico/2013) A utilização de clusters de
 servidores
 proporciona serviços com alta disponibilidade e balanceamento de carga, porém, implica em
 perda significativa de desempenho do sistema.
@@ -1391,7 +1319,7 @@ Não né pessoal? Temos ganho de desempenho do sistema também.
 
 Gabarito: E
 
-Item. 6. (CESPE - TRE-ES/Analista de Sistemas/2011) A instalação de um cluster possibilita
+6. (CESPE - TRE-ES/Analista de Sistemas/2011) A instalação de um cluster possibilita
 simular a
 existência de diversos computadores utilizando-se de um único hardware, o que torna
 factível a
@@ -1405,10 +1333,9 @@ um único dispositivo lógico, sendo infactível a utilização de SO's distinto
 
 Gabarito: E
 
-
 CoMPUTAçÃo EM NUVEM
 
-Item. 7. (CESPE — CNJ/Analista de Sistemas/2013) A computação em nuvem consiste na
+7. (CESPE — CNJ/Analista de Sistemas/2013) A computação em nuvem consiste na
 disponibilização
 de serviços por meio da Internet, os quais são pagos conforme a necessidade de uso
 (pay-per-
@@ -1426,7 +1353,7 @@ sendo escalável, flexível e pay-per-use.
 
 Gabarito: C
 
-Item. 8. (CESPE - CNJ/Analista de Sistemas/2013) Para que a aplicação seja considerada
+8. (CESPE - CNJ/Analista de Sistemas/2013) Para que a aplicação seja considerada
 realmente na
 nuvem, ela deve atender a características essenciais, tais como autosserviço
 sob demanda;
@@ -1437,7 +1364,6 @@ Comentários:
 Diretamente da nossa tabela:
 
 CARACTERÍSTICA DESCRIÇÃO
-
 
 AUTOSSERVIÇO
 
@@ -1458,7 +1384,6 @@ permita ao consumidor obter seus recursos de forma automática. Deve fornecer
 
 DE RECURSOS um nível de abstração a respeito da localidade dos recursos
 
-
 ELASTICIDADE
 
 RÁPIDA
@@ -1474,10 +1399,9 @@ MENSURADOS transparência ao cliente
 
 0-0
 
-
 Gabarito: C
 
-Item. 9. (CESPE - PCF /Analista de Sistemas/2013) O GAE (Google App Engine) pertence à
+9. (CESPE - PCF /Analista de Sistemas/2013) O GAE (Google App Engine) pertence à
 categoria de
 computação em nuvem conhecida como laaS (Infrastructure as a Service) e caracteriza-se
 por
@@ -1497,7 +1421,7 @@ MySQL para desenvolvimento de aplicações na nuvem.
 
 Gabarito: E
 
-Item. 10. (CESPE - BACEN - Analista de Sistemas/2013) O usuário pode acessar, seus dados
+10. (CESPE - BACEN - Analista de Sistemas/2013) O usuário pode acessar, seus dados
 armazenados
 na nuvem, independentemente do sistema operacional e do hardware que esteja usando em
 seu
@@ -1515,7 +1439,7 @@ problemas com a banca. Vamos entender o foco da questão e responder objetivamen
 
 Gabarito: C
 
-Item. 11. (CESPE — BACEN — Analista de Sistemas/2013) Multitenancy é uma importante
+11. (CESPE — BACEN — Analista de Sistemas/2013) Multitenancy é uma importante
 característica da
 computação em nuvem que garante que cada usuário acesse recursos da nuvem
 de forma
@@ -1529,7 +1453,6 @@ definição é: "importante característica da computação em nuvem que garante
 cada usuário acesse
 recursos de forma compartilhada sob a ótica de uma arquitetura SaaS".
 
-
 Logo, o item está incorreto por dizer que é exclusiva!
 
 Ainda que não soubéssemos o que é isso, convenhamos que é estranho dizer que o
@@ -1538,7 +1461,7 @@ nuvem é feito de forma exclusiva, porque a essência é o compartilhamento.
 
 Gabarito: E
 
-Item. 12. (CESPE - STF - Analista de Sistemas/2013) Os serviços Google Does e Google
+12. (CESPE - STF - Analista de Sistemas/2013) Os serviços Google Does e Google
 Drive sâo
 exemplos de aplicações em nuvem.
 
@@ -1550,7 +1473,7 @@ documentos na nuvem de forma compartilhada e simultânea com outros usuários.
 
 Gabarito: C
 
-Item. 13. (CESPE - STF - Analista de Sistemas/2013) Na infraestrutura como serviço (laaS),
+13. (CESPE - STF - Analista de Sistemas/2013) Na infraestrutura como serviço (laaS),
 os provedores
 podem oferecer infraestrutura física ou virtualizada aos clientes, a depender da situação.
 
@@ -1566,7 +1489,7 @@ sim do acesso universal, alta disponibilidade, escalabilidade e outros fatores.
 
 Gabarito: C
 
-Item. 14. (CESPE — STF — Analista de Sistemas/2013) No modelo de plataforma como serviços (PaaS), os
+14. (CESPE — STF — Analista de Sistemas/2013) No modelo de plataforma como serviços (PaaS), os
 provedores de serviço oferecem banco de dados e servidores de aplicação. No
 caso de
 ferramentas de desenvolvimento, o único modelo funcional é o de software como serviço (SaaS).
@@ -1579,8 +1502,7 @@ principais suítes de soluções para tal.
 
 Gabarito: E
 
-
-Item. 15. (CESPE- SUFRAMA - Analista de Sistemas/2014) O modelo de implantação de
+15. (CESPE- SUFRAMA - Analista de Sistemas/2014) O modelo de implantação de
 computação em
 nuvem do tipo híbrido é executado por terceiros. Nesse modelo, as aplicações dos usuários ficam
 misturadas nos sistemas de armazenamento e a existência de outras aplicações executadas
@@ -1599,7 +1521,7 @@ terceiro, sendo totalmente interna.
 
 Gabarito: E
 
-Item. 16. (CESPE - ANTT - Analista de Sistemas/2013) laaS, PaaS e SaaS são modelos de
+16. (CESPE - ANTT - Analista de Sistemas/2013) laaS, PaaS e SaaS são modelos de
 serviço em
 nuvem.
 
@@ -1609,7 +1531,7 @@ Conforme vimos em aula, a questão trata apenas das siglas das três principais 
 
 Gabarito: C
 
-Item. 17. (CESPE — ANTT - Analista de Sistemas/2013) Os modelos de implementação para
+17. (CESPE — ANTT - Analista de Sistemas/2013) Os modelos de implementação para
 computação
 em nuvem podem ser classificados em público, privado, comunitário e restrito.
 
@@ -1625,8 +1547,7 @@ Gabarito: E
 
 0 0
 
-
-Item. 18. (CESPE - ANATEL - Analista de Sistemas/2013) A DaaS (Database as a Service), uma
+18. (CESPE - ANATEL - Analista de Sistemas/2013) A DaaS (Database as a Service), uma
 das formas
 de disponibilizar computação nas nuvens, oferece uma solução de comunicação
 unificada,
@@ -1638,7 +1559,7 @@ Conforme vimos em aula, a assertiva faz menção ao CaaS! Falou em comunicação
 
 Gabarito: E
 
-Item. 19. (CESPE - ANATEL — Analista de Sistemas/2013) Quanto aos três modelos de serviços de cloud, é
+19. (CESPE - ANATEL — Analista de Sistemas/2013) Quanto aos três modelos de serviços de cloud, é
 correto afirmar que o laaS fornece recursos computacionais (hardware ou software) para
 o PaaS,
 que, por sua vez, fornece recursos e ferramentas para o desenvolvimento e a execução
@@ -1653,7 +1574,7 @@ como base para o SaaS.
 
 Gabarito: C
 
-Item. 20. (CESPE - STM - Analista Judiciário - Análise de Sistemas/2011) Cloud computing
+20. (CESPE - STM - Analista Judiciário - Análise de Sistemas/2011) Cloud computing
 pode ser vista
 como a evolução e convergência das tecnologias de virtualização e das arquiteturas
 orientadas a
@@ -1669,12 +1590,11 @@ as diversas arquiteturas fornecidas como serviço: laaS, PaaS, SaaS, etc...
 
 Gabarito: C
 
-Item. 21. (CESPE - Correios - Analista de Correios — Jornalismo/2011) Um dos recursos
+21. (CESPE - Correios - Analista de Correios — Jornalismo/2011) Um dos recursos
 proporcionados
 pela denominada computação em nuvens (cloud computing) é a recuperação de acervos em
 caso
 danos aos computadores.
-
 
 Comentários;
 
@@ -1686,7 +1606,7 @@ computação em nuvem.
 
 Gabarito: C
 
-Item. 22. (CESPE - TRT - 17a Região (ES) - Técnico Judiciário - Área Administrativa/
+22. (CESPE - TRT - 17a Região (ES) - Técnico Judiciário - Área Administrativa/
 2013) O cloud
 computing permite a utilização de diversas aplicações por meio da Internet,
 com a mesma
@@ -1700,7 +1620,7 @@ computador.
 
 Gabarito: C
 
-Item. 23. (CESPE - Policia Federal/Perito Criminal Federal/2013) O GAE (Google App Engine)
+23. (CESPE - Policia Federal/Perito Criminal Federal/2013) O GAE (Google App Engine)
 pertence à
 categoria de computação em nuvem conhecida como laaS (Infrastructure as a
 Service) e
@@ -1718,13 +1638,12 @@ Google Compute Engine (GCE)
 
 Gabarito: E
 
-Item. 24. (CESPE — STJ/Analista Judiciário — Suporte em TI/2015) Em um provedor que fornece um serviço
+24. (CESPE — STJ/Analista Judiciário — Suporte em TI/2015) Em um provedor que fornece um serviço
 como PaaS (platform-as-a-service), o consumidor consegue configurar a rede e o
 sistema
 operacional utilizados.
 
 Comentários:
-
 
 Essas características estão presentes no laaS e não no PaaS. O PaaS já assume uma configuração de
 rede e
@@ -1733,7 +1652,7 @@ desenvolvimento de aplicações, linguagens de programação e alguns aspectos d
 
 Gabarito: E
 
-Item. 25. (CESPE - STJ/Analista Judiciário - Suporte em TI/2015) As características da
+25. (CESPE - STJ/Analista Judiciário - Suporte em TI/2015) As características da
 computação na
 nuvem incluem a elasticidade, que consiste na capacidade de adicionar ou remover
 recursos para
@@ -1749,7 +1668,7 @@ conforme sua necessidade. Vimos inclusive essas definições conforme define o N
 
 Gabarito: C
 
-Item. 26. (CESPE - TRE/RS / Analista Judiciário/2015) Assinale a opção correta acerca de cloud
+26. (CESPE - TRE/RS / Analista Judiciário/2015) Assinale a opção correta acerca de cloud
 computing.
 
 a) No modelo de serviço SaaS, o cliente gerencia e controla remotamente os recursos da
@@ -1781,7 +1700,6 @@ Comentários:
 
 Vamos aos itens:
 
-
 a) Temos aqui a descrição do laaS. INCORRETO
 
 b) Mais uma vez a descrição do laaS. INCORRETO
@@ -1798,7 +1716,7 @@ rápida. CORRETO
 
 Gabarito: E
 
-Item. 27. (CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015) Em provedor que fornece serviço como
+27. (CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015) Em provedor que fornece serviço como
 laaS (infrastructure-as-a-service), o consumidor consegue configurar o sistema
 operacional
 utilizado pela nuvem.
@@ -1811,7 +1729,7 @@ aplicações, contemplando, portanto, os sistemas operacionais a serem utilizado
 
 Gabarito: C
 
-Item. 28. (CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015) A possibilidade
+28. (CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015) A possibilidade
 de monitorar e
 controlar os recursos utilizados na computação na nuvem proporciona maior transparência
 tanto
@@ -1825,12 +1743,11 @@ NIST.
 
 Gabarito: C
 
-Item. 29. (CESPE - FUNPRESP/ Área 8/2016) Hadoop e Elasticsearch são exemplos de
+29. (CESPE - FUNPRESP/ Área 8/2016) Hadoop e Elasticsearch são exemplos de
 tecnologias que
 permitem a computação em nuvem.
 
 Comentários:
-
 
 Temos uma questão extremamente nova, com um alto grau de dificuldade que com certeza
 pegou a maioria
@@ -1844,7 +1761,7 @@ defende a utilização do HADOOP em detrimento do Elasticsearch.
 
 Gabarito: C
 
-Item. 30. (CESPE - FUNPRESP/ Área 8/2016) A computação em nuvem permite o processamento de dados
+30. (CESPE - FUNPRESP/ Área 8/2016) A computação em nuvem permite o processamento de dados
 de maneira distribuída em máquinas com diferentes arquiteturas físicas.
 
 Comentários;
@@ -1856,12 +1773,11 @@ processando diversos blocos de informações.
 
 Gabarito: C
 
-
 QUESTõES CoMENTADAS CoMPLEMENTARES
 
 CoMPUTAçÃo EM NUVEM
 
-Item. 1. (FCC - TJ TRE SP/Apoio Especializado/Operaçâo de Computadores/2012) A
+1. (FCC - TJ TRE SP/Apoio Especializado/Operaçâo de Computadores/2012) A
 tecnologia ou
 conjuntos de tecnologias que permitem utilizar programas, serviços e
 armazenamento em
@@ -1888,7 +1804,7 @@ configuração e padronização efetuada diretamente na Internet através da Nuv
 
 Gabarito: E
 
-Item. 2. (FCC - AFF (TCE-SP)/lnformática/Suporte Técnico/2009) Quanto à computação
+2. (FCC - AFF (TCE-SP)/lnformática/Suporte Técnico/2009) Quanto à computação
 em nuvem,
 considere:
 
@@ -1905,7 +1821,6 @@ computação em nuvem fornecem aplicações gratuitamente e, quando cobrado, o u
 pelo tempo de utilização dos recursos.
 
 0 0
-
 
 IV. A Computação em nuvem é uma tendência integrante da Web 2.0 de se levar todo tipo de dados de
 usuários a servidores online, tornando desnecessário o uso de dispositivos de armazenamento.
@@ -1935,7 +1850,7 @@ geográfica.
 
 Gabarito: B
 
-Item. 3. (FCC - CNMP/Analista de Suporte/2015) Na Computação em Nuvem (Cloud Computing),
+3. (FCC - CNMP/Analista de Suporte/2015) Na Computação em Nuvem (Cloud Computing),
 diversos tipos de serviços podem ser disponibilizados aos usuários. O serviço
 que fornece uma infraestrutura de integração para implementar e testar aplicações elaboradas
 para a nuvem, é denominado
@@ -1956,8 +1871,7 @@ PaaS.
 
 Gabarito: D
 
-
-Item. 4. (FCC - CNMP/Analista de Suporte/2015) A computação em nuvem distribui os recursos
+4. (FCC - CNMP/Analista de Suporte/2015) A computação em nuvem distribui os recursos
 na forma
 de serviços. Esses serviços, por sua vez, podem ser
 disponibilizados em
@@ -1998,8 +1912,7 @@ Gabarito: B
 
 O.
 
-
-Item. 5. (FCC - INFRAERO - Analista de redes e comunicação de dados/2011) Em cloud
+5. (FCC - INFRAERO - Analista de redes e comunicação de dados/2011) Em cloud
 computing, trata-
 se de uma forma de trabalho onde o produto é oferecido como serviço. Assim, o
 usuário não
@@ -2029,7 +1942,7 @@ serviços, restando ao cliente ou usuário simplesmente usar o serviço oferecid
 
 Gabarito: E
 
-Item. 6. (FCC — TRT-MG/Analista Judiciário/2015) A computação na nuvem
+6. (FCC — TRT-MG/Analista Judiciário/2015) A computação na nuvem
 apresenta a grande
 vantagem de acessar os recursos computacionais (processamento, banco de dados, etc) a
 partir
@@ -2054,14 +1967,13 @@ Temos aí a principal característica da computação em nuvem do tipo laaS:
 manipulação a nível de
 hardware, rede, entre outros elementos característicos de uma infraestrutura de rede e datacenters.
 
-
 Alguns conceitos mais modernos trazem o PaaS restrito a uma plataforma específica,
 enquanto o DevaaS
 (Development as a Service), possui uma gama maior de ferramentas em nuvem para este fim.
 
 Gabarito: B
 
-Item. 7. (FCC - AJ TRT15/Apoio Especializado/Tecnologia da lnformação/2013) Luiza
+7. (FCC - AJ TRT15/Apoio Especializado/Tecnologia da lnformação/2013) Luiza
 trabalha no
 Tribunal Regional do Trabalho da 15a Região e suas responsabilidades incluem assegurar
 que
@@ -2115,8 +2027,7 @@ Gabarito: C
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital) 43
 
-
-Item. 8. (FCC - TJ TRT15/Apoio Especializado/Tecnologia da lnformação/2015) Os serviços de
+8. (FCC - TJ TRT15/Apoio Especializado/Tecnologia da lnformação/2015) Os serviços de
 edição de
 texto online, como o do Google Does, são serviços disponibilizados na internet por
 meio do
@@ -2139,45 +2050,43 @@ Temos aí o exemplo clássico de aplicação do tipo SaaS.
 
 Gabarito: E
 
-
-Item. 1. (CESPE - ANTT/Analista Administrativo/2013) A computação em grade difere da
+1. (CESPE - ANTT/Analista Administrativo/2013) A computação em grade difere da
 computação em
 cluster, principalmente pelo fato de as unidades de processamento de um
 cluster serem
 conectadas em uma topologia em anel.
 
-Item. 2. (CESPE - CGE-PI/Auditor Governamental/2015) Na constituição de um cluster,
+2. (CESPE - CGE-PI/Auditor Governamental/2015) Na constituição de um cluster,
 é possível a
 utilização de sistemas operacionais diferentes, entretanto, desktops domésticos ou de
 escritório
 não são permitidos como nós do cluster.
 
-Item. 3. (CESPE - SERPRO/Analista- Suporte Técnico/2008) Nos GRIDs, a alocação dos recursos
+3. (CESPE - SERPRO/Analista- Suporte Técnico/2008) Nos GRIDs, a alocação dos recursos
 é feita
 por um gerente de recursos centralizado, e os nós que compõem o GRID
 trabalham
 cooperativamente como um recurso unificado. Nos clusters, cada nó tem seu gerente de recursos.
 Os nós em clusters são autônomos e não o são nos GRIDs.
 
-Item. 4. (CESPE - BACEN/Analista - Suporte à Infraestrutura de TI/2013) Se houver o
+4. (CESPE - BACEN/Analista - Suporte à Infraestrutura de TI/2013) Se houver o
 serviço de cluster,
 os volumes de disco não poderão ser compartilhados.
 
-Item. 5. (CESPE - SERPRO/Analista - Suporte Técnico/2013) A utilização de clusters
+5. (CESPE - SERPRO/Analista - Suporte Técnico/2013) A utilização de clusters
 de servidores
 proporciona serviços com alta disponibilidade e balanceamento de carga, porém, implica em
 perda significativa de desempenho do sistema.
 
-Item. 6. (CESPE - TRE-ES/Analista de Sistemas/2011) A instalação de um cluster possibilita
+6. (CESPE - TRE-ES/Analista de Sistemas/2011) A instalação de um cluster possibilita
 simular a
 existência de diversos computadores utilizando-se de um único hardware, o que torna
 factível a
 execução de sistemas operacionais diferentes.
 
-
 CoMPUTAçÃo EM NUVEM
 
-Item. 7. (CESPE — CNJ/Analista de Sistemas/2013) A computação em nuvem consiste na
+7. (CESPE — CNJ/Analista de Sistemas/2013) A computação em nuvem consiste na
 disponibilização
 de serviços por meio da Internet, os quais são pagos conforme a necessidade de uso
 (pay-per-
@@ -2185,13 +2094,13 @@ use), oferecendo ao cliente a possibilidade de aumentar ou diminuir sua
 capacidade de
 armazenamento conforme a quantidade necessária para o uso.
 
-Item. 8. (CESPE - CNJ/Analista de Sistemas/2013) Para que a aplicação seja considerada
+8. (CESPE - CNJ/Analista de Sistemas/2013) Para que a aplicação seja considerada
 realmente na
 nuvem, ela deve atender a características essenciais, tais como autosserviço
 sob demanda;
 acesso por banda larga; agrupamento de recursos; elasticidade rápida; e serviço mensurado.
 
-Item. 9. (CESPE - PCF /Analista de Sistemas/2013) O GAE (Google App Engine) pertence à
+9. (CESPE - PCF /Analista de Sistemas/2013) O GAE (Google App Engine) pertence à
 categoria de
 computação em nuvem conhecida como laaS (Infrastructure as a Service) e caracteriza-se
 por
@@ -2199,27 +2108,27 @@ prover máquinas virtuais, infraestrutura de armazenamento, firewalls, balanceam
 carga,
 entre outros recursos, de forma a hospedar aplicações web nos datacenters da Google.
 
-Item. 10. (CESPE - BACEN - Analista de Sistemas/2013) O usuário pode acessar, seus dados
+10. (CESPE - BACEN - Analista de Sistemas/2013) O usuário pode acessar, seus dados
 armazenados
 na nuvem, independentemente do sistema operacional e do hardware que esteja usando em
 seu
 computador pessoal.
 
-Item. 11. (CESPE — BACEN — Analista de Sistemas/2013) Multitenancy é uma importante
+11. (CESPE — BACEN — Analista de Sistemas/2013) Multitenancy é uma importante
 característica da
 computação em nuvem que garante que cada usuário acesse recursos da nuvem
 de forma
 exclusiva.
 
-Item. 12. (CESPE - STF - Analista de Sistemas/2013) Os serviços Google Does e
+12. (CESPE - STF - Analista de Sistemas/2013) Os serviços Google Does e
 Google Drive são
 exemplos de aplicações em nuvem.
 
-Item. 13. (CESPE — STF - Analista de Sistemas/2013) Na infraestrutura como serviço (laaS),
+13. (CESPE — STF - Analista de Sistemas/2013) Na infraestrutura como serviço (laaS),
 os provedores
 podem oferecer infraestrutura física ou virtualizada aos clientes, a depender da situação.
 
-Item. 14. (CESPE — STF — Analista de Sistemas/2013) No modelo de plataforma como serviços
+14. (CESPE — STF — Analista de Sistemas/2013) No modelo de plataforma como serviços
 (PaaS), os
 provedores de serviço oferecem banco de dados e servidores de aplicação. No
 caso de
@@ -2227,48 +2136,47 @@ ferramentas de desenvolvimento, o único modelo funcional é o de software como 
 
 0 0
 
-
-Item. 15. (CESPE- SUFRAMA - Analista de Sistemas/2014) O modelo de implantação de computação
+15. (CESPE- SUFRAMA - Analista de Sistemas/2014) O modelo de implantação de computação
 em
 nuvem do tipo híbrido é executado por terceiros. Nesse modelo, as aplicações dos usuários ficam
 misturadas nos sistemas de armazenamento e a existência de outras aplicações executadas
 na
 mesma nuvem permanece transparente para usuários e prestadores de serviços.
 
-Item. 16. (CESPE - ANTT - Analista de Sistemas/2013) laaS, PaaS e SaaS são modelos de
+16. (CESPE - ANTT - Analista de Sistemas/2013) laaS, PaaS e SaaS são modelos de
 serviço em
 nuvem.
 
-Item. 17. (CESPE — ANTT - Analista de Sistemas/2013) Os modelos de implementação para
+17. (CESPE — ANTT - Analista de Sistemas/2013) Os modelos de implementação para
 computação
 em nuvem podem ser classificados em público, privado, comunitário e restrito.
 
-Item. 18. (CESPE - ANATEL - Analista de Sistemas/2013) A DaaS (Database as a Service), uma
+18. (CESPE - ANATEL - Analista de Sistemas/2013) A DaaS (Database as a Service), uma
 das formas
 de disponibilizar computação nas nuvens, oferece uma solução de comunicação
 unificada,
 hospedada em uma central de dados do provedor ou fabricante, entre fornecedores e clientes.
 
-Item. 19. (CESPE - ANATEL — Analista de Sistemas/2013) Quanto aos três modelos de serviços de cloud, é
+19. (CESPE - ANATEL — Analista de Sistemas/2013) Quanto aos três modelos de serviços de cloud, é
 correto afirmar que o laaS fornece recursos computacionais (hardware ou software) para
 o PaaS,
 que, por sua vez, fornece recursos e ferramentas para o desenvolvimento e a execução
 de
 serviços a serem disponibilizados como SaaS.
 
-Item. 20. (CESPE - STM - Analista Judiciário - Análise de Sistemas/2011) Cloud computing
+20. (CESPE - STM - Analista Judiciário - Análise de Sistemas/2011) Cloud computing
 pode ser vista
 como a evolução e convergência das tecnologias de virtualização e das arquiteturas
 orientadas a
 serviços.
 
-Item. 21. (CESPE - Correios - Analista de Correios — Jornalismo/2011) Um dos recursos
+21. (CESPE - Correios - Analista de Correios — Jornalismo/2011) Um dos recursos
 proporcionados
 pela denominada computação em nuvens (cloud computing) é a recuperação de acervos em
 caso
 danos aos computadores.
 
-Item. 22. (CESPE - TRT - 17a Região (ES) - Técnico Judiciário - Área Administrativa/
+22. (CESPE - TRT - 17a Região (ES) - Técnico Judiciário - Área Administrativa/
 2013) O cloud
 computing permite a utilização de diversas aplicações por meio da Internet,
 com a mesma
@@ -2276,8 +2184,7 @@ facilidade obtida com a instalação dessas aplicações em computadores pessoai
 
 0 0
 
-
-Item. 23. (CESPE - Policia Federal/Perito Criminal Federal/2013) O GAE (Google App Engine)
+23. (CESPE - Policia Federal/Perito Criminal Federal/2013) O GAE (Google App Engine)
 pertence à
 categoria de computação em nuvem conhecida como laaS (Infrastructure as a
 Service) e
@@ -2287,18 +2194,18 @@ balanceamento de carga, entre outros recursos, de forma
 a hospedar
 aplicações web nos datacenters da Google.
 
-Item. 24. (CESPE — STJ/Analista Judiciário — Suporte em TI/2015) Em um provedor que fornece um serviço
+24. (CESPE — STJ/Analista Judiciário — Suporte em TI/2015) Em um provedor que fornece um serviço
 como PaaS (platform-as-a-service), o consumidor consegue configurar a rede e o
 sistema
 operacional utilizados.
 
-Item. 25. (CESPE - STJ/Analista Judiciário - Suporte em TI/2015) As características da
+25. (CESPE - STJ/Analista Judiciário - Suporte em TI/2015) As características da
 computação na
 nuvem incluem a elasticidade, que consiste na capacidade de adicionar ou remover
 recursos para
 lidar com a variação de demanda.
 
-Item. 26. (CESPE - TRE/RS / Analista Judiciário/2015) Assinale a opção correta acerca de cloud
+26. (CESPE - TRE/RS / Analista Judiciário/2015) Assinale a opção correta acerca de cloud
 computing.
 
 a) No modelo de serviço SaaS, o cliente gerencia e controla remotamente os recursos da
@@ -2326,12 +2233,11 @@ em níveis de abstração apropriados: o uso dos recursos é monitorado, control
 confere
 transparência aos fornecedores e aos clientes do serviço.
 
-Item. 27. (CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015) Em provedor que fornece
+27. (CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015) Em provedor que fornece
 serviço como
 laaS (infrastructure-as-a-service), o consumidor consegue configurar o sistema
 operacional
 utilizado pela nuvem.
-
 
 28.(CESPE - TJDFT/Analista Judiciário - Suporte em TI/2015) A possibilidade de
 monitorar e
@@ -2339,20 +2245,19 @@ controlar os recursos utilizados na computação na nuvem proporciona maior tran
 tanto
 para o provedor quanto para o consumidor do serviço.
 
-Item. 29. (CESPE - FUNPRESP/ Área 8/2016) Hadoop e Elasticsearch são exemplos de
+29. (CESPE - FUNPRESP/ Área 8/2016) Hadoop e Elasticsearch são exemplos de
 tecnologias que
 permitem a computação em nuvem.
 
-Item. 30. (CESPE - FUNPRESP/ Área 8/2016) A computação em nuvem permite o processamento de
+30. (CESPE - FUNPRESP/ Área 8/2016) A computação em nuvem permite o processamento de
 dados
 de maneira distribuída em máquinas com diferentes arquiteturas físicas.
-
 
 LISTA DE QUESTõES CoMPLEMENTARES
 
 CoMPUTAçÃo EM NUVEM
 
-Item. 1. (FCC - TJ TRE SP/Apoio Especializado/Operação de Computadores/2012) A
+1. (FCC - TJ TRE SP/Apoio Especializado/Operação de Computadores/2012) A
 tecnologia ou
 conjuntos de tecnologias que permitem utilizar programas, serviços e
 armazenamento em
@@ -2369,7 +2274,7 @@ d) arquitetura orientada a serviços (SOA).
 
 e) computação em nuvem (cloud computing).
 
-Item. 2. (FCC - AFF (TCE-SP)/lnformática/Suporte Técnico/2009) Quanto à computação
+2. (FCC - AFF (TCE-SP)/lnformática/Suporte Técnico/2009) Quanto à computação
 em nuvem,
 considere:
 
@@ -2400,7 +2305,7 @@ d) III e IV, apenas.
 
 e) I, II, III e IV.
 
-Item. 3. (FCC - CNMP/Analista de Suporte/2015) Na Computação em Nuvem (Cloud
+3. (FCC - CNMP/Analista de Suporte/2015) Na Computação em Nuvem (Cloud
 Computing),
 diversos tipos de serviços podem ser disponibilizados aos usuários.
 O serviço
@@ -2417,7 +2322,7 @@ d) PaaS ~ Platform as a Service.
 
 e) SaaS - Software as a Service.
 
-Item. 4. (FCC - CNMP/Analista de Suporte/2015) A computação em nuvem distribui os recursos
+4. (FCC - CNMP/Analista de Suporte/2015) A computação em nuvem distribui os recursos
 na forma
 de serviços. Esses serviços, por sua vez, podem ser
 disponibilizados em
@@ -2448,7 +2353,7 @@ d) PaaS - SaaS - laaS
 
 e) SaaS - PaaS - laaS
 
-Item. 5. (FCC - INFRAERO - Analista de redes e comunicação de dados/2011) Em cloud
+5. (FCC - INFRAERO - Analista de redes e comunicação de dados/2011) Em cloud
 computing, trata-
 se de uma forma de trabalho onde o produto é oferecido como serviço. Assim, o
 usuário não
@@ -2468,7 +2373,7 @@ d) Communication as a Service (CaaS).
 
 e) Software as a Service (SaaS).
 
-Item. 6. (FCC — TRT-MG/Analista Judiciário/2015) A computação na nuvem
+6. (FCC — TRT-MG/Analista Judiciário/2015) A computação na nuvem
 apresenta a grande
 vantagem de acessar os recursos computacionais (processamento, banco de dados, etc) a
 partir
@@ -2487,8 +2392,7 @@ d) SaaS.
 
 e) PaaS.
 
-
-Item. 7. (FCC - AJ TRT15/Apoio Especializado/Tecnologia da lnformaçâo/2013)
+7. (FCC - AJ TRT15/Apoio Especializado/Tecnologia da lnformaçâo/2013)
 Luiza trabalha no
 Tribunal Regional do Trabalho da 15a Região e suas responsabilidades incluem assegurar
 que
@@ -2527,7 +2431,7 @@ d) outsourcing e downsizing.
 
 e) downsizing e outsourcing.
 
-Item. 8. (FCC - TJ TRT15/Apoio Especializado/Tecnologia da lnformação/2015) Os serviços de
+8. (FCC - TJ TRT15/Apoio Especializado/Tecnologia da lnformação/2015) Os serviços de
 edição de
 texto online, como o do Google Does, são serviços disponibilizados na internet por
 meio do
@@ -2544,13 +2448,11 @@ d) DBaas - Data Base as a Service.
 
 e) SaaS - Software as a Service.
 
-
 GABARITO
 
 GABARITo
 
 GABARITo - QUESTõES CESPE
-
 
 r ..
 
@@ -2606,7 +2508,6 @@ GABARITo - QUESTõES FCC
 
 7 C
 
-
 RESUMo
 
 Cluster, Grid e Balanceamento de Carga
@@ -2632,7 +2533,6 @@ de Datacenter para os clientes. Ele contempla ainda critérios de segurança fí
 
 o Hosting - O serviço de hosting está muito mais voltado para o conceito de hospedagem em termos
 de serviço.
-
 
 r
 
@@ -2698,5 +2598,4 @@ Um grande abraço.
 Prof. André Castro.
 
 @ProfAndreCastro t.me/ProfessorAndreCastro
-
 

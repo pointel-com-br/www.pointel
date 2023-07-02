@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Estatística e Probabilidade.
-
+# Bizu Estratégico - Estatística e Probabilidade.
 
 Olá, prezado aluno. Tudo certo?
 
@@ -19,7 +18,6 @@ Este Bizu foi produzido com base no material da disciplina de Estatística
 elaborado
 pelos professores da Equipe de Exatas do Estratégia Concursos.
 
-
 ANÁLISE ESTATÍSTICA
 
 Pessoal, segue abaixo uma análise estatística dos assuntos mais exigidos pela Banca
@@ -32,16 +30,13 @@ Assunto % de cobrança
 
 Estimação Intervalar e Testes de Hipótese 24,46%
 
-
 Probabilidade
 
 15,96%
 
-
 Medidas de Posição
 
 14,89%
-
 
 Medidas de Variabilidade ou Dispersão
 Distribuições Discretas de Probabilidade
@@ -67,9 +62,7 @@ Distribuições Discretas de Probabilidade 15 a
 
 Estimação Intervalar e Testes de Hipótese 24 a 26 http://questo. es/5vkvzk
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Apresentação
 
@@ -109,13 +102,11 @@ pontos mais
 queridos pela banca examinadora, e todos eles estão aqui! Cada questão no concurso vale
 ouro, então não podemos dar bobeira! Mãos à obra!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Medidas de Posição
 
-Item. 1. Média Aritmética
+1. Média Aritmética
 
 > A média aritmética preserva a soma da lista de números
 
@@ -147,7 +138,7 @@ somar tudo e dividir pela soma das frequências, que é o total de itens.
 Multiplicar cada ponto médio pela sua respectiva frequência, somar os resultados e
 dividir pela soma de todas as frequências.
 
-Item. 2. Média Ponderada
+2. Média Ponderada
 
 > Se temos um lista de números (xx,x2,x3,...,xn) com pesos respectivos (pltp2,Pz,---,Pn)>
 
@@ -157,14 +148,12 @@ Média = XlPl + X2p2 + x3p3 + - + xnpn
 
 P1+P2+P3+ +Pn
 
-Item. 3. Média Geométrica
+3. Média Geométrica
 
 > Se temos uma lista de números (x1,x2,x3,...,xn') então a média geométrica será dada
 por:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 G = n /x .x .x x
 
@@ -172,7 +161,7 @@ G = n /x .x .x x
 será dada
 por:
 
-Item. 4. Média Harmônica
+4. Média Harmônica
 n
 
 H - . 111 1
@@ -181,7 +170,7 @@ H - . 111 1
 
 *1 2 3
 
-Item. 5. Desigualdade de Médias
+5. Desigualdade de Médias
 
 > Se pelo menos um número de uma lista é diferente dos demais, a média aritmética
 será
@@ -192,7 +181,7 @@ Ma > Mg > MH
 
 > Se todos os números forem iguais, então as médias serão iguais.
 
-Item. 6. Mediana
+6. Mediana
 
 > Medida de posição definida como número que se encontra no centro de uma série de
 números, estando estes dispostos segundo uma ordem.
@@ -215,12 +204,9 @@ elementos na série ordenada. Essa é uma das diferenças marcantes entre a medi
 a média (que se deixa influenciar, e muito, pelos valores extremos, também chamados
 de outliers).
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 
-
 > Mediana para Dados Agrupados em Classes:
-
 
 Md = li +
 
@@ -238,7 +224,7 @@ Em que:
 
 * h é a amplitude da classe mediana.
 
-Item. 7. Moda
+7. Moda
 
 > A moda é definida como sendo aquele valor ou valores que ocorrem com maior
 frequência em um rol.
@@ -263,15 +249,13 @@ verificar na tabela, qual o valor associado à maior frequência.
 
 Medidas de variabilidade ou dispersão
 
-Item. 8. Conceitos Iniciais
+8. Conceitos Iniciais
 
 > Também chamadas de Medidas de Variabilidade, procuram descrever o quão
 homogêneo ou não são os dados de um conjunto. São medidas que analisam
 o afastamento dos valores em uma sequência. Algumas são bem simples:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 J Amplitude (Total): é a diferença entre o maior e menor número da
 sequência. Não considera nenhum outro valor. Para dados agrupados
@@ -282,7 +266,7 @@ Amplitude Interquartílica: é a diferença entre o Terceiro e Primeiro
 Quartil. Não confunda com desvio quartílico ou amplitude semi-
 quartílica, que são a metade desse valor.
 
-Item. 9. Desvio
+9. Desvio
 
 > O desvio é basicamente a diferença de um número, em relação a outro. É
 bastante comum, calcular a diferença de cada elemento X da sequência em
@@ -302,7 +286,7 @@ E|%i - x|
 
 — n
 
-Item. 10. Variância e Desvio Padrão
+10. Variância e Desvio Padrão
 
 > A variância é a média aritmética dos quadrados dos desvios (diferenças em relação à
 média).
@@ -320,9 +304,7 @@ n
 
 * Variância populacional: a2
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 * Variância Amostrai: S2
 
@@ -330,12 +312,11 @@ Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 
 * Desvio padrão Amostrai: S
 
-
 > Variância Populacional:
 
 > Variância Amostrai:
 
-Item. 11. Coeficiente de Variação
+11. Coeficiente de Variação
 
 Z(Xi-X)2
 
@@ -345,7 +326,7 @@ n
 
 > O coeficiente de variação é a razão entre o desvio padrão e a média, ou seja:
 
-Item. 12. Definições de probabilidade
+12. Definições de probabilidade
 
 > Espaço amostrai é o conjunto de todos os resultados possíveis de um experimento
 aleatório.
@@ -367,9 +348,7 @@ e somente se A ou B (ou ambos) ocorrerem.
 S A intersecção de dois eventos: Considere dois eventos A e B. O evento
 interseção ocorre se e somente se os dois eventos ocorrerem (A e B ocorrerem)
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Complementar de um evento: Considere um evento A. O evento complementar
 de A ocorre se e somente se não ocorre A.
@@ -389,11 +368,10 @@ J Se A e B são eventos mutuamente excludentes (X n B = 0), então P(A U E) =
 
 PQ4) + P(E).
 
-Item. 13. Probabilidade Condicional
+13. Probabilidade Condicional
 
 > A probabilidade de que um evento B ocorra, sabendo que um evento A ocorreu é dada
 por:
-
 
 P(B\A) =
 
@@ -406,7 +384,7 @@ eventos são ditos independentes e neste caso tem-se:
 
 P(4AE) = PQ4).P(E)
 
-Item. 14. Teorema de Bayes
+14. Teorema de Bayes
 
 > Esse é um assunto bem teórico, difícil de ser explicado e bem compreendido
 mesmo quando temos mais tempo. Mas na prática fica bem mais simples de
@@ -421,13 +399,11 @@ esse assunto, aprenda através de alguma questão resolvida. Se você sabe como
 montar aqueles "diagramas" saberá responder praticamente qualquer questão
 sobre Teorema de Bayes e Probabilidade Total.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Distribuições Discretas de Probabilidade
 
-Item. 15. Variáveis Aleatórias
+15. Variáveis Aleatórias
 
 > Variável aleatória (v.a.) é uma variável que é associada a uma
 distribuição de
@@ -443,7 +419,7 @@ números racionais, e resultam basicamente de contagens.
 assumir
 qualquer valor dentro de um dado intervalo.
 
-Item. 16. Esperança Matemática
+16. Esperança Matemática
 
 > A esperança matemática (também chamada de expectância, valor médio ou média) é,
 por definição, o número:
@@ -452,29 +428,26 @@ n
 h = e(X) = ^Xi.pm
 t=i
 
-
 * Esta expressão significa que, para calcular a esperança de uma variável aleatória,
 devemos multiplicar cada valor da variável pela sua respectiva probabilidade e
 depois somar tudo.
 
-Item. 17. Variância e Desvio Padrão
+17. Variância e Desvio Padrão
 
 > A variância de uma variável aleatória é, por definição, o2 = E(X - /z)2.
 
 > Desenvolvendo essa expressão, temos a2 = E(X2) - /z2
 
-Item. 18. Distribuição Uniforme Discreta
+18. Distribuição Uniforme Discreta
 
 > A distribuição uniforme discreta é aquela em que todos os elementos têm a mesma
 probabilidade de ocorrer.
 
 > Em uma distribuição uniforme discreta, a esperança é a média aritmética dos valores.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 
-
-Item. 19. Distribuição de Bernoulli
+19. Distribuição de Bernoulli
 
 > A distribuição de Bernoulli se caracteriza pela existência de apenas dois
 eventos,
@@ -492,7 +465,7 @@ E(X) = p
 
 Var(X) = pq
 
-Item. 20. Distribuição Binomial
+20. Distribuição Binomial
 
 > A diferença da distribuição binomial para a distribuição de Bernoulli é
 que no caso
@@ -517,11 +490,9 @@ P-
 > A média do número X de resultados favoráveis em uma distribuição binomial é np e a
 variância é npq.
 
-Item. 21. Distribuição Geométrica
-
+21. Distribuição Geométrica
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 > A distribuição geométrica também se refere a sucessos e
 fracassos, mas,
@@ -534,7 +505,7 @@ também é p.
 
 > Nesta distribuição:
 
-Item. 22. Distribuição Hipergeométrica
+22. Distribuição Hipergeométrica
 
 > A distribuição hipergeométrica refere-se à probabilidade de, ao
 retirarmos, sem
@@ -565,14 +536,12 @@ E(X) = np
 
 > A variância da distribuição hipergeométrica é dada por:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 N — n
 Var(X) = npq.-j^—^
 
-Item. 23. Distribuição de Poisson
+23. Distribuição de Poisson
 
 > Para explicar essa distribuição, vamos utilizar como exemplo um objeto muito
 utilizado
@@ -606,22 +575,19 @@ exemplo do telefone, é o número de vezes que o telefone toca por dia.
 
 > A probabilidade nessa distribuição é:
 
-
 P(X = k)
 
 e~A.Àk
 fc!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 * Em que e é uma constante (número de Euler) e vale aproximadamente
 2,718
 
 Estimação Intervalar e Testes de Hipóteses
 
-Item. 24. Teoria da Estimação
+24. Teoria da Estimação
 
 > A estimação é uma técnica utilizada para determinar estimativas de parâmetros
 populacionais. Neste método, utiliza-se dados amostrais para prever valores de
@@ -664,11 +630,9 @@ Encontramos em nosso dia a dia, desta forma a = grau de desconfiança,
 nível de incerteza ou nível de significância. 1-a = coeficiente de
 confiança ou nível de confiabilidade;
 
-Item. 25. Teste de Hipóteses
-
+25. Teste de Hipóteses
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 > O teste de Hipótese é utilizado no dia a dia para a tomada de decisões. Quando
 estamos diante de um teste de hipóteses, devemos examinar as duas possibilidades
@@ -721,11 +685,10 @@ alternativa.
 > Cada teste geralmente irá te fornecer uma fórmula, que você saberá o valor
 observado.
 
-Item. 26. Tipos de Erros
+26. Tipos de Erros
 
 > Quando estamos diante da decisão de optarmos pela hipótese nula ou pela
 alternativa, existem dois tipos de erros. Se rejeitarmos uma hipótese nula verdadeira,
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 estaremos cometendo o erro de tipo I, já se rejeitar a hipótese alternativa verdadeira,
@@ -751,7 +714,6 @@ Erro tipo II - deixa de rejeitar
 Ho quando ela é falsa (probabilidade =
 p)
 
-
 Rejeitar Ho
 
 Erro tipo 1- rejeitando Ho quando ele é Decisão Correta (probabilidade = 1 - P)
@@ -768,5 +730,4 @@ Bons estudos!
 "Se não puder voar, corra. Se não puder correr, ande. Se não puder andar, rasteje,
 mas
 continue em frente de qualquer jeito". (Martin Luther King)
-
 

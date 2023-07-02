@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Hadoop e Spark.
-
+# Desenvolvimento de Informação - Hadoop e Spark.
 
 AVISO
 
@@ -11,5 +10,4 @@ apenas de videoaula.
 Bons estudos!
 
 Estratégia Concursos.
-
 

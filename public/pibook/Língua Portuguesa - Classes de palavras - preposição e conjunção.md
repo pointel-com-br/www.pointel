@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Classes de palavras - preposição e conjunção.
-
+# Língua Portuguesa - Classes de palavras - preposição e conjunção.
 
 Índice
 
@@ -18,7 +17,6 @@ Capítulo. Língua Portuguesa - Classes de palavras - preposição e conjunção
 7) Lista de Questões - Conjunção - Cebraspe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NOÇOES INICIAIS
 
@@ -48,7 +46,6 @@ coordenadas, pois são
 as conjunções que as iniciam.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 PREPOSIÇÕES
 
@@ -108,7 +105,6 @@ Ex: O livro inteiro é bom, menos aquele capítulo.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Usamos eu e tu após preposições acidentais ou palavras denotativas:
 Ex: Fora tu, todos erraram (fora é preposição acidental)
 
@@ -167,7 +163,6 @@ inicia um complemento!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Já a expressão preposicionada "de direita" é uma locução adjetiva, pois
 equivale a um adjetivo:
 "direitistas". Por ter esse valor de adjetivo, exerce função de adjunto
@@ -219,7 +214,6 @@ em + o, a, as, um, uns, uma, umas
 * A preposição em + Pronomes pessoais
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 em + ele, ela, eles, elas = nele, nela, neles, nelas
 
@@ -277,7 +271,6 @@ Ex: Com mais um minuto, resolveria aquele problema, (tempo)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: Resolvi a questão com um macete, (instrumento)
 
 Após as preposições "ante" e "perante", preposições indicativas de lugar, não se usa preposição
@@ -323,7 +316,6 @@ mas exige adaptações na
 estrutura da sentença.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 0»
 
@@ -383,7 +375,6 @@ i
 É uma loja grande e escura no centro da cidade, uma quadra distante da estação de trem, i
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Quando visito a família, entre um churrasco e outro, vou até lá para
 olhar as gôndolas atulhadas
@@ -447,7 +438,6 @@ presente, nem de deplorar o presente para louvar os bons tempos antigos. Desejo 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 a que se compreenda que todo juízo excessivamente resoluto nesse
 campo corre o risco de
 parecer leviano.
@@ -509,7 +499,6 @@ ação pública vá atingir a aspiração de todos em um único objetivo comum. 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 (IFF/2018)
 
 É comum que pais de baixa escolaridade lutem para que os filhos tenham
@@ -551,7 +540,6 @@ Concordamos "em" assinar um contrato.
 Sonhamos muito "em" fazer essa viagem. Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CONJUNÇÕES
 
@@ -607,7 +595,6 @@ conjuntiva equivalente à conjunção "mas"; "Visto que" equivale a
 "portanto" e assim por diante.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Algumas conjunções são formadas por um par correlato, como a correlação
 alternativa "quer x...quer
@@ -680,7 +667,6 @@ i tecnologias ecológicas contribuem para a existência de cidades mais limpas",
 conjunção ;
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "e" por uma vírgula manteria a correção gramatical e a coerência do texto.
 
@@ -764,7 +750,6 @@ C) além disso
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 D) até aquele tempo
 
 E) até o presente momento
@@ -837,7 +822,6 @@ Considerando as ideias e estruturas linguísticas do texto, julgue o item a segu
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A expressão "mas também" introduz no período em que ocorre uma ideia de oposição.
 
 Comentários:
@@ -908,7 +892,6 @@ querendo ler, e o sono não deixava, (sentido de adversidade).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Uma pista que indica o valor adversativo do "e" é estar antecedido por
 vírgula. A regra de pontuação
 recomenda pôr vírgula antes do "e" adversativo.
@@ -975,7 +958,6 @@ I
 : "Todavia" é conjunção adversativa, equivalente a "mas", "porém", "entretanto", "contudo".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "nesse caso" indica referência e não é conjunção; "por isso" é conjunção explicativa;
 "além disso" é locução
@@ -1046,7 +1028,6 @@ do texto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 j Comentários:
 
 = Combinação dos assuntos "pontuação" e "conectivos". 0 "mas" é uma conjunção
@@ -1113,7 +1094,6 @@ Ex: Saia agora, senão chamarei os guardas, (poderíamos trocar por "ou")
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 tSTACAINA
 
 PROVA!
@@ -1177,7 +1157,6 @@ Se a conjunção vier deslocada, deve estar entre vírgulas!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 0 pois no início da oração, isto é, não deslocado entre vírgulas, será explicativo ou causal.
 
 ESTA CM NA
@@ -1185,7 +1164,6 @@ ESTA CM NA
 PROVA!
 
 F(MP-CE / 2020)
-
 
 A liberdade de expressão é particularmente valiosa em uma sociedade democrática, ao
 ponto de
@@ -1249,7 +1227,6 @@ podemos
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 = "É, portanto, no entrelaçamento 'paz — desenvolvimento — direitos humanos —
 democracia' que
 
@@ -1269,7 +1246,6 @@ Ex: Economize recursos, porquanto não se sabe do futuro.
 Ex: Fique em silêncio, pois o filme já começou.
 
 Ex: Vem, vamos embora, que esperar não é saber.
-
 
 HQU*
 ATENTO?
@@ -1313,7 +1289,6 @@ orações subordinadas, que também terão sua influência no assunto pontuaçã
 As conjunções subordinadas podem ser integrantes ou adverbiais.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CONJUNÇÃO INTEGRANTE
 
@@ -1386,7 +1361,6 @@ Ex: 0 bom é aue a nr ova foi adiada.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: A dúvida era se haveria mesmo prova.
 
 Oração subordinada substantiva apositiva
@@ -1448,11 +1422,9 @@ sintática entre a
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 oração principal e a subordinada iniciada pela conjunção:
 
 Visitei meus parentes maternos/quando viajei para Natal
-
 
 Oração Principal
 
@@ -1504,7 +1476,6 @@ avidamente (lp parágrafo) uma relação de
 Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "Se" é conjunção subordinativa adverbial condicional; portanto, expressa uma hipótese.
 Gabarito letra B.
@@ -1575,7 +1546,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Observe que a banca explora o "quando" com valor condicional:
 
 Dessa forma, um governo é representativo SE os seus funcionários, durante a ocupação do poder,
@@ -1633,7 +1603,6 @@ tornaram-se cada vez mais curtas. Questão correta.
 (PM-AL/2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Nesse caso, considera-se crime a transgressão de regras socialmente preestabelecidas, que variam de
 acordo
@@ -1699,7 +1668,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 (CAGE-RS / AUDITOR FISCAL / 2018)
 
 Quem me lê poderá objetar que basta a gente passar os olhos pelo jornal desta manhã para verificar
@@ -1763,7 +1731,6 @@ tecnológico. Questão correta.
 (PREFEITURA DE SÃO JOÃO DA URTIGA - RS / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No período "Quanto mais eu gritava, mais pessoas apareciam de todos os lados.", a
 ideia expressa pela
@@ -1834,7 +1801,6 @@ Ritual, =
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 : nesse caso, é a dimensão menos importante de um evento, sinal de uma forma vazia, algo pouco
 sério — e,
 
@@ -1896,7 +1862,6 @@ i Ni
 enhumdos.o..u..t.r..o..s..c..o..n..e..c.t..i.v..o.s..p..o..s..s.u..i...s.e..n..t.i.d..o...t.e.m
 ...p..o..r..a.lG..a..b..a..r.i.t..o...l.e.t.r.a...E
 
-
 Conjunções subordinativas adverbiais comparativas
 
 Introduzem uma oração que traz uma comparação ou contraste em relação à oração
@@ -1913,7 +1878,6 @@ Ex: Ele estuda tanto quanto seu tio médico (estuda).
 Observe no exemplo acima que o verbo costuma vir implícito, porque é o mesmo verbo da outra oração.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Conjunções subordinativas adverbiais causais
 
@@ -1970,7 +1934,6 @@ independentes.
 Professor, devo ficar me descabelando tentando diferenciar "causa" e "explicação"?
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Não! Não perca seu tempo elucubrando sobre isso!
 
@@ -2043,7 +2006,6 @@ e se
 ; alcança o resultado último dessa interatuação: o preço eficiente dos bens e serviços.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A oração introduzida pela locução "visto que" explica o porquê de ser necessário considerar a
 concorrência
@@ -2126,7 +2088,6 @@ trabalhar
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 com os indícios, que são mais fracos que a confissão no seu "poder de prova". Correta.
 
 Conjunções subordinativas adverbiais concessivas
@@ -2163,7 +2124,6 @@ Fique atento também à locução prepositiva "apesar de", pois tem valor conces
 banca pode pedir
 sua substituição por uma conjunção concessiva equivalente.
 
-
 ATENTO!
 
 *
@@ -2193,7 +2153,6 @@ assim como o esquecimento também o é para a memória" seriam preservadas caso 
 fosse substituída por
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 a) Por conseguinte.
 
@@ -2235,7 +2194,6 @@ visto que são aquelas que podem assumir diferentes valores semânticos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Não confunda nem misture a conjunção causal "na medida em que" com a proporcional "à medida que"
 Expressões como na medida que e à medida em que estão equivocadas!
 
@@ -2252,15 +2210,13 @@ Observe alguns valores que a palavra "como" pode assumir:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ATENTO!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - PREPoSIçÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / DPE-RS / 2022)
+1. (CEBRASPE / DPE-RS / 2022)
 
 0 direito, o processo decisório e os julgamentos são eminentemente de natureza humana e
 dependem do ser humano para serem bem realizados. Assim, mesmo que os avanços
@@ -2289,7 +2245,7 @@ humanidade da justiça.
 
 Questão correta.
 
-Item. 2. (CEBRASPE / SEFAZ-AL / 2020)
+2. (CEBRASPE / SEFAZ-AL / 2020)
 
 É uma loja grande e escura no centro da cidade, uma quadra distante da estação de trem. Quando
 visito a
@@ -2309,7 +2265,7 @@ A preposição "a" aqui dá ideia de limite: estar a uma quadra=estar à distân
 uma
 quadra distante. Questão correta.
 
-Item. 3. (CEBRASPE / SEFAZ-DF / 2020)
+3. (CEBRASPE / SEFAZ-DF / 2020)
 
 No trecho "os investidores reconhecem cada vez mais o impacto, para a sociedade, das empresas nas
 quais
@@ -2326,12 +2282,11 @@ Trocando "as empresas" por um pronome relativo, temos "as quais"
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Então, não cabe usar "aonde", pois o verbo não pede preposição "a". Mesmo o pronome
 "onde" não seria
 adequado, pois não temos lugar físico. Questão correta.
 
-Item. 4. (CEBRASPE / PGE-PE / 2019)
+4. (CEBRASPE / PGE-PE / 2019)
 
 Ninguém poderia ficar impassível diante de uma mudança dessa envergadura. Por isso a
 sensação mais
@@ -2347,7 +2302,7 @@ Após as preposições "ante" e "perante", preposições indicativas de lugar, n
 se usa preposição "a". A
 redação seria apenas: ante/perante uma mudança. Questão incorreta.
 
-Item. 5. (CEBRASPE / PGE-PE / 2019)
+5. (CEBRASPE / PGE-PE / 2019)
 
 Que fique claro: não tenho nenhuma intenção de difamar ou condenar o passado para
 absolver o presente,
@@ -2365,7 +2320,7 @@ Sim. A preposição "para" antes de uma ação indica classicamente o sentido de
 propósito, na forma de uma
 oração subordinada adverbial final. Questão correta.
 
-Item. 6. (CEBRASPE/ PRF/ POLICIAL/2019)
+6. (CEBRASPE/ PRF/ POLICIAL/2019)
 
 Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos
 existe em razão de
@@ -2381,7 +2336,7 @@ Comentários:
 
 Sim. "Em razão de..." = "Por causa de...". Questão correta.
 
-Item. 7. (CEBRASPE / PM-AL / 2018)
+7. (CEBRASPE / PM-AL / 2018)
 
 Nesse caso, considera-se crime a transgressão de regras socialmente preestabelecidas, que
 variam de acordo
@@ -2395,12 +2350,11 @@ Questão direta. A locução "de acordo com" expressa justamente o sentido de "c
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 mesmo poderia ser trocada por conjunções conformativas: "conforme", "consoante",
 "como", "segundo".
 Questão correta.
 
-Item. 8. (CEBRASPE / TCE-PB / 2018)
+8. (CEBRASPE / TCE-PB / 2018)
 
 Portanto, do ponto de vista cronológico, a fala tem precedência sobre a escrita, mas,
 do ponto de vista do
@@ -2420,7 +2374,7 @@ Contudo, não é o caso aqui.
 
 O sentido nesse contexto é de prevalência, de posição superior. Questão incorreta.
 
-Item. 9. (CEBRASPE / IPHAN / 2018)
+9. (CEBRASPE / IPHAN / 2018)
 
 Com a multiplicação das demandas sociais, no lugar de soluções únicas para a cidade,
 passou-se a considerar
@@ -2444,7 +2398,7 @@ considerar a segmentação ainda maior de interesses. É cada vez mais difícil 
 que uma ação pública
 vá atingir a aspiração de todos em um único objetivo comum. Questão correta.
 
-Item. 10. (CEBRASPE / SEDUC-AL / 2018)
+10. (CEBRASPE / SEDUC-AL / 2018)
 
 Em "Para se vacinar, as pessoas precisam de documento de identidade e carteiras do
 SUS e de vacinação", a
@@ -2460,8 +2414,7 @@ hora da vacinação. Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 11. (CEBRASPE / IHBDF / 2018)
+11. (CEBRASPE / IHBDF / 2018)
 
 Assim, é comum que pais com baixa escolaridade lutem para que os filhos tenham acesso
 a um ensino de
@@ -2475,7 +2428,7 @@ Comentários:
 
 "Para" é uma preposição indicativa de propósito, finalidade. Gabarito letra A.
 
-Item. 12. (CEBRASPE / PF / 2018)
+12. (CEBRASPE / PF / 2018)
 
 A maioria dos laboratórios acredita que o acúmulo de trabalho é o maior problema que
 enfrentam, e boa
@@ -2496,7 +2449,7 @@ Concordamos "em" assinar um contrato.
 
 Sonhamos muito "em" fazer essa viagem. Questão correta.
 
-Item. 13. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+13. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Com a redução da carga tributária sobre o consumo, todos ganham: a população de baixa
 e média renda,
@@ -2527,10 +2480,9 @@ analisar a parte de "redução da carga tributária", que nem sequer é uma ora�
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - CoNJUNçÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / ICMBIO / 2022)
+1. (CEBRASPE / ICMBIO / 2022)
 
 Nossas cidades estão perdendo suas árvores rapidamente, mas até nisso somos um país
 desigual.
@@ -2600,14 +2552,13 @@ bairros mais ricos.
 
 Questão correta.
 
-Item. 2. (CEBRASPE / PC-PB / 2022)
+2. (CEBRASPE / PC-PB / 2022)
 
 Um problema no estudo da violência é sua relação com a racionalidade. Os atos violentos mais
 graves, praticados com requintes de crueldade, são vistos pela mídia e pela opinião pública como
 atos
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 irracionais. Ora, se a violência é irracional, não é por ser obra de um ser
 desprovido de razão, mas por ser,
@@ -2678,7 +2629,7 @@ entanto, apesar disso, ainda assim, mesmo assim".
 
 Gabarito letra C.
 
-Item. 3. (CEBRASPE / TELEBRAS / 2022)
+3. (CEBRASPE / TELEBRAS / 2022)
 
 No século VII a.C., o chinês Sun Tzu, em A arte da guerra, dizia que "toda guerra
 é embasada em
@@ -2691,7 +2642,6 @@ publicado em 1832...
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 No segundo período do segundo parágrafo do texto, o vocábulo "Contudo" introduz uma ressalva.
 
 Comentários:
@@ -2702,7 +2652,7 @@ ao que foi declarado anteriormente, criando uma restrição.
 
 Questão correta.
 
-Item. 4. (CEBRASPE / TELEBRAS / 2022)
+4. (CEBRASPE / TELEBRAS / 2022)
 
 A comunicação tem-se transformado em um setor estratégico da economia, da política e
 da cultura.
@@ -2726,7 +2676,7 @@ cultura. E na guerra sempre foi estratégica.
 
 Questão incorreta.
 
-Item. 5. (CEBRASPE / DPE-DF / 2022)
+5. (CEBRASPE / DPE-DF / 2022)
 
 Seria mantida a correção gramatical e os sentidos originais do texto caso, no trecho
 'Aqui ninguém mais
@@ -2742,7 +2692,7 @@ causal/explicativo.
 
 Questão incorreta.
 
-Item. 6. (CEBRASPE / TELEBRAS / 2022)
+6. (CEBRASPE / TELEBRAS / 2022)
 
 Um maior acesso pode significar mais progressos no domínio da realização dos
 Objetivos de
@@ -2766,7 +2716,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Sim, a relação de aumento proporcional poderia ser expressa assim:
 
 Quanto mais importantes as inovações se tornam, mais urgente fica a necessidade de
@@ -2775,7 +2724,7 @@ tecnológico.
 
 Questão correta.
 
-Item. 7. (CEBRASPE / TELEBRAS / 2022)
+7. (CEBRASPE / TELEBRAS / 2022)
 
 Um maior acesso pode significar mais progressos no domínio da realização dos
 Objetivos de
@@ -2810,10 +2759,9 @@ correção e coerência.
 
 Questão correta.
 
-Item. 8. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
+8. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 i Em qualquer tempo ou lugar, a vida social é sempre
 marcada por rituais. Essa afirmação pode ser inesperada
@@ -2882,7 +2830,7 @@ Assim, a substituição da conjunção "porque" pela locução "de modo que"
 alteraria o sentido do texto.
 Questão incorreta.
 
-Item. 9. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+9. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 A separação dos movimentos da informação em relação aos movimentos dos seus
 portadores e objetos
@@ -2900,14 +2848,13 @@ A substituição do conectivo "Afinal" (L. 10) por Contudo manteria os sentidos 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 "Afinal" é um advérbio de conclusão, com sentido de "finalmente", "no fim
 das contas". "Contudo" é
 conjunção adversativa, então os sentidos são bem diferentes. Questão incorreta.
 
-Item. 10. (CEBRASPE / MP-CE / 2020)
+10. (CEBRASPE / MP-CE / 2020)
 
 A liberdade de expressão é particularmente valiosa em uma sociedade democrática, ao
 ponto de haver quem
@@ -2940,7 +2887,7 @@ sem liberdade de expressão, um governo não é democrático; portanto, não dev
 ser chamado de
 democrático. Questão correta.
 
-Item. 11. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+11. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 No trecho "Nem ela própria contava consigo, como o galo crê na sua crista", existe
 uma relação de oposição
@@ -2952,7 +2899,7 @@ Comentários:
 galo crê na sua
 crista. Questão incorreta.
 
-Item. 12. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+12. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Em geral, consideramos que rituais seriam eventos de sociedades históricas, da vida na
 corte europeia, por
@@ -2976,7 +2923,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Não haveria erro nem o texto ficaria incoerente (absurdo, ilógico). A oração ficaria
 reduzida, porque o verbo
 "for" seria suprimido:
@@ -2987,7 +2933,7 @@ Quanto ao sentido, podemos pensar que o "quando", conjunção temporal, deixa o 
 menos hipotético
 que o "se" condicional, mas isso é sutileza e não foi objeto da questão. Questão correta.
 
-Item. 13. (CEBRASPE / PRF / POLICIAL / 2019)
+13. (CEBRASPE / PRF / POLICIAL / 2019)
 
 Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em
 razão de atividades
@@ -3011,7 +2957,7 @@ pois, nesse caso, foi pelo sentido mais óbvio e batido isoladamente, não foi r
 com o sentido real no
 texto. Questão correta.
 
-Item. 14. (CEBRASPE / PRF / POLICIAL / 2019)
+14. (CEBRASPE / PRF / POLICIAL / 2019)
 
 Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em
 razão de
@@ -3051,8 +2997,7 @@ Porém, apenas no trecho original temos ideia de INCERTEZA. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 15. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+15. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 A tributação, portanto, somente pode ser compreendida a partir da necessidade
 dos indivíduos de
@@ -3089,7 +3034,7 @@ D) Incorreto. "Consoante" tem sentido conformativo, não conclusivo.
 
 E) Incorreto. "Para tanto" indica finalidade, não há sentido conclusivo. Gabarito letra C.
 
-Item. 16. (CEBRASPE / SEFAZ-RS / 2019)
+16. (CEBRASPE / SEFAZ-RS / 2019)
 
 O direito tributário brasileiro depara-se com grandes desafios, principalmente em tempos
 de globalização e
@@ -3135,7 +3080,6 @@ recuperará o
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 poder da economia e poderá utilizar essa recuperação como condição para intensificar a
 integração com
 outros países e para participar mais ativamente da globalização.
@@ -3179,7 +3123,7 @@ Seu filho só faz bobagem e você ainda o recompensa, (mesmo assim, apesar disso
 
 Não é minha obrigação, ainda assim o ajudo, (mesmo assim, apesar disso) Gabarito letra C.
 
-Item. 17. (CEBRASPE / SEFAZ-RS / 2019)
+17. (CEBRASPE / SEFAZ-RS / 2019)
 
 Desse modo, o poder de tributar está na origem do Estado ou do ente político, a
 partir da qual foi possível
@@ -3199,10 +3143,9 @@ Não prejudicaria, o "ou" indica relação de sinonímia. A inserção do "E" ad
 mudaria o sentido,
 sem erro gramatical. Questão incorreta.
 
-Item. 18. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+18. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Por outro lado, se o Estado reduzisse a tributação de determinado setor da economia,
 os custos desse setor
@@ -3238,8 +3181,7 @@ traz uma premissa que deve ser atendida para ocorrer depois da redução dos cus
 
 Se a tributação diminuir, então diminuirão os custos. Gabarito letra E.
 
-Item. 19. (CEBRASPE / PGE-PE / 2019)
-
+19. (CEBRASPE / PGE-PE / 2019)
 
 Se observarmos bem, essas ondas longas da história, como as chamava Braudel,
 tornaram-se cada vez mais
@@ -3259,7 +3201,7 @@ Se observarmos bem, essas ondas longas da história, conforme/consoante/segundo 
 chamava Braudel,
 tornaram-se cada vez mais curtas. Questão correta.
 
-Item. 20. (CEBRASPE / PF / 2018)
+20. (CEBRASPE / PF / 2018)
 
 Em graus diferentes, todos fazemos parte dessa aventura, todos podemos compartilhar o
 êxtase que surge
@@ -3279,7 +3221,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A correlação aditiva enfática "não só X...mas também Y" indica soma, acréscimo. Já a
 correlação "se não" e
 "ao menos" indica uma ressalva, uma concessão, uma limitação de possibilidades. Caso
@@ -3296,7 +3237,7 @@ menos um dos dois)
 
 Então, há mudança de sentido sim. Questão incorreta.
 
-Item. 21. (CEBRASPE / PC-SE / DELEGADO / 2018)
+21. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 A existência da polícia se justifica pela imprescindibilidade dessa agência de segurança
 para a viabilidade do
@@ -3322,7 +3263,7 @@ a sua ausência culminaria na impossibilidade de manutenção de relações paci
 
 Não há é qualquer sentido de comparação. Questão incorreta.
 
-Item. 22. (CEBRASPE / PC-MA / Investigador de Polícia / 2018)
+22. (CEBRASPE / PC-MA / Investigador de Polícia / 2018)
 
 A correção gramatical e o sentido do trecho 'O anonimato ajuda, já que as pessoas se
 sentem mais protegidas
@@ -3335,7 +3276,7 @@ Questão direta. As locuções "uma vez que" e "já que" são
 equivalentes a "porque" e indicam
 causa/explicação. Gabarito letra A.
 
-Item. 23. (CEBRASPE / EMAP / 2018)
+23. (CEBRASPE / EMAP / 2018)
 
 A palavra "portanto" introduz, no período em que ocorre, uma ideia de conclusão.
 
@@ -3343,10 +3284,9 @@ Comentários:
 
 Questão diretíssima. "Portanto" é o conectivo conclusivo mais conhecido. Questão correta.
 
-Item. 24. (CEBRASPE / PF / ESCRIVÃO / 2018)
+24. (CEBRASPE / PF / ESCRIVÃO / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Dir-se-á, no entanto, que nenhum deles partilha realmente do direito de julgar; os
 peritos não intervêm antes
@@ -3362,7 +3302,7 @@ Comentários:
 não é possível trocar
 sem mudança do sentido original. Questão incorreta.
 
-Item. 25. (PC-MA / DELEGADO / 2018)
+25. (PC-MA / DELEGADO / 2018)
 
 No texto CG1A1AAA, em "É, então, no entrelaçamento 'paz — desenvolvimento —
 direitos humanos —
@@ -3381,7 +3321,7 @@ vislumbrar a educação para a paz"
 que podemos
 vislumbrar a educação para a paz" Gabarito letra A.
 
-Item. 26. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+26. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Ainda que circunscritas a determinados limites, essas ações de resistência,
 aparentemente insignificantes,
@@ -3396,7 +3336,7 @@ Comentários:
 "Ainda que" e "embora" são conectivos concessivos e servem de sinônimos no contexto. Questão
 correta.
 
-Item. 27. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+27. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Os sentidos originais e as relações de coesão do texto seriam preservados caso se
 substituísse a palavra
@@ -3406,14 +3346,13 @@ Comentários:
 
 "Portanto" tem sentido de conclusão; "Também" tem sentido de adição/inclusão. Questão incorreta.
 
-Item. 28. (CEBRASPE / INSTITUTO FEDERAL FLUMINENSE / 2018)
+28. (CEBRASPE / INSTITUTO FEDERAL FLUMINENSE / 2018)
 
 Ao lonqo das últimas décadas, o Brasil consolidou uma consciência social do direito à
 educação na infância,
 mas ainda não construiu uma cultura do direito à educação ao longo de toda a vida.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A coerência e o sentido do texto seriam mantidos se a conjunção "mas" (1.2) fosse substituída por
 
@@ -3435,7 +3374,7 @@ conjunção adversativa:
 conclusão; "porque" indica
 causa/explicação. Gabarito letra D.
 
-Item. 29. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
+29. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Seria mantida a correção gramatical do texto caso o trecho "Nenhum daqueles filhos de
 operários, meus
@@ -3465,7 +3404,7 @@ Nenhum daqueles filhos de operários, nem meus irmãos nem eu tínhamos ido ao p
 
 Questão correta.
 
-Item. 30. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+30. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 No trecho "Pois, meus amigos, da última vez que vi o Juca, o impasse continuava...",
 o elemento "Pois"
@@ -3487,8 +3426,7 @@ de que... Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 31. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
+31. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 O pulso de Roy se acelerou. Ele passava por aquele caminho todo dia e sabia que
 logo a maré ia subir e lavar
@@ -3504,7 +3442,7 @@ Cuidado. A palavra "logo" pode ser também um advérbio de tempo, com sentido de
 maré em breve,
 rapidamente, ia subir". Questão incorreta.
 
-Item. 32. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
+32. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
 
 Para ajudar o trabalho dos peritos, existem programas que buscam os arquivos de imagem
 e vídeo através
@@ -3520,7 +3458,7 @@ Aqui, "logo" é um advérbio de tempo. Essa é uma pegadinha clássica do Cebras
 "Logo" conclusivo
 costuma vir seguido de vírgula quando no início de uma oração. Questão incorreta.
 
-Item. 33. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+33. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Quem me lê poderá objetar que basta a gente passar os olhos pelo jornal desta manhã
 para verificar que o
@@ -3550,14 +3488,13 @@ Comentários:
 
 "Para" introduz oração adverbial final, com sentido de finalidade, propósito. Gabarito letra E.
 
-Item. 34. (CEBRASPE / PC-MA / Investigador de Polícia / 2018)
+34. (CEBRASPE / PC-MA / Investigador de Polícia / 2018)
 
 A correção gramatical e o sentido do trecho 'O anonimato ajuda, já que as pessoas se
 sentem mais protegidas
 para falar' seriam preservados caso se substituísse o termo "já que" por
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 a) uma vez que.
 
@@ -3578,7 +3515,7 @@ Então, temos uma relação explicativa da afirmação inicial de que "o anonima
 Logo, podemos trocar
 "já que" por outro conectivo explicativo: "uma vez que". Gabarito letra A.
 
-Item. 35. (CEBRASPE / BNB / 2018)
+35. (CEBRASPE / BNB / 2018)
 
 O sistema de aprendizagem de máquina diminui a ocorrência de falsos positivos e deve
 contribuir para cortes
@@ -3594,7 +3531,7 @@ Comentários:
 "Porquanto" equivale a
 "porque", então indica causa/explicação. Questão incorreta.
 
-Item. 36. (CEBRASPE / PF / 2018)
+36. (CEBRASPE / PF / 2018)
 
 Sob o nome de crimes e delitos, são sempre julgados corretamente os objetos
 jurídicos definidos pelo
@@ -3612,7 +3549,7 @@ Exato. "Porém" e "Entretanto" são conjunções adversativas e poderiam ser tro
 pela outra sem
 erro ou mudança de sentido. Questão correta.
 
-Item. 37. (CEBRASPE / Polícia Militar - AL / 2018)
+37. (CEBRASPE / Polícia Militar - AL / 2018)
 
 Tal perigo, porém, não é assim tão grande
 
@@ -3628,8 +3565,7 @@ no início da oração, não admite deslocamento, não pode vir entre vírgulas.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 38. (CEBRASPE / TRE-PE / 2017)
+38. (CEBRASPE / TRE-PE / 2017)
 
 Como lembra Marilena Chaui, a cidadania se define pelos princípios da
 democracia, significando
@@ -3654,7 +3590,7 @@ Comentários:
 
 Questão direta. A conjunção "portanto" tem sentido conclusivo. Gabarito letra C.
 
-Item. 39. (CEBRASPE / TRF l5 REGIÃO / NÍVEL SUPERIOR / 2017)
+39. (CEBRASPE / TRF l5 REGIÃO / NÍVEL SUPERIOR / 2017)
 
 Porém, a proteção que lhes é garantida baseia-se em um argumento puramente
 utilitarista: os animais são
@@ -3681,7 +3617,7 @@ Gosto de ler, mas, hoje em dia, não tenho tempo.
 
 Observe que essa vírgula após o "mas" na verdade isola "hoje em dia". Questão incorreta.
 
-Item. 40. (CEBRASPE / SEE-DF / 2017)
+40. (CEBRASPE / SEE-DF / 2017)
 
 As críticas à extrema confiança que demos à ciência como forma única de
 conhecimento são muitas e
@@ -3701,10 +3637,9 @@ Questão direta. "Embora" é a principal conjunção concessiva. Questão corret
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - PREPoSIçÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / DPE-RS / 2022)
+1. (CEBRASPE / DPE-RS / 2022)
 
 0 direito, o processo decisório e os julgamentos são eminentemente de
 natureza humana e
@@ -3722,7 +3657,7 @@ No último período do texto, a preposição "para", em suas três ocorrências,
 veicula uma ideia de
 finalidade.
 
-Item. 2. (CEBRASPE / SEFAZ-AL / 2020)
+2. (CEBRASPE / SEFAZ-AL / 2020)
 
 É uma loja grande e escura no centro da cidade, uma quadra distante da estação de
 trem. Quando visito a
@@ -3736,13 +3671,13 @@ Sem prejuízo da correção gramatical e dos sentidos do texto, a expressão "um
 distante da estação
 de trem" (1^ parágrafo) poderia ser substituída por a uma quadra de distância da estação de trem.
 
-Item. 3. (CEBRASPE / SEFAZ-DF / 2020)
+3. (CEBRASPE / SEFAZ-DF / 2020)
 
 No trecho "os investidores reconhecem cada vez mais o impacto, para a sociedade, das
 empresas nas quais
 investem", a substituição de "nas quais" por aonde prejudicaria a correção gramatical do texto.
 
-Item. 4. (CEBRASPE / PGE-PE / 2019)
+4. (CEBRASPE / PGE-PE / 2019)
 
 Ninguém poderia ficar impassível diante de uma mudança dessa envergadura. Por isso a
 sensação mais
@@ -3752,7 +3687,7 @@ Seria mantida a correção gramatical do texto se o trecho "diante de uma mudan�
 fosse alterado para ante
 a uma mudança.
 
-Item. 5. (CEBRASPE / PGE-PE / 2019)
+5. (CEBRASPE / PGE-PE / 2019)
 
 Que fique claro: não tenho nenhuma intenção de difamar ou condenar o passado para
 absolver o presente,
@@ -3766,8 +3701,7 @@ exprimem finalidades.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 6. (CEBRASPE / PRF / POLICIAL/2019)
+6. (CEBRASPE / PRF / POLICIAL/2019)
 
 Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos
 existe em razão de
@@ -3779,7 +3713,7 @@ diferentes sociedades e momentos da história.
 
 A locução "em razão de" (€.7) expressa uma ideia de causa.
 
-Item. 7. (CEBRASPE / PM-AL / 2018)
+7. (CEBRASPE / PM-AL / 2018)
 
 Nesse caso, considera-se crime a transgressão de regras socialmente preestabelecidas, que
 variam de acordo
@@ -3787,7 +3721,7 @@ com a sociedade e o contexto histórico.
 
 No texto, a expressão "de acordo com" tem o mesmo sentido de conforme.
 
-Item. 8. (CEBRASPE /TCE-PB/ 2018)
+8. (CEBRASPE /TCE-PB/ 2018)
 
 Portanto, do ponto de vista cronológico, a fala tem precedência sobre a escrita, mas,
 do ponto de vista do
@@ -3795,7 +3729,7 @@ prestígio social, a escrita tem supremacia sobre a fala na maioria das sociedad
 
 A expressão "sobre a", nas linhas 1 e 2, tem o sentido de a respeito da.
 
-Item. 9. (CEBRASPE / IPHAN / 2018)
+9. (CEBRASPE / IPHAN / 2018)
 
 Com a multiplicação das demandas sociais, no lugar de soluções únicas para a cidade,
 passou-se a considerar
@@ -3805,13 +3739,13 @@ Mantendo-se a correção gramatical e a coerência do texto, a expressão "Com a
 poderia ser substituída
 pela expressão Devido à.
 
-Item. 10. (CEBRASPE / SEDUC-AL / 2018)
+10. (CEBRASPE / SEDUC-AL / 2018)
 
 Em "Para se vacinar, as pessoas precisam de documento de identidade e carteiras do
 SUS e de vacinação", a
 preposição "Para" exerce o papel de conectivo e introduz uma oração que expressa finalidade.
 
-Item. 11. (CEBRASPE / IHBDF / 2018)
+11. (CEBRASPE / IHBDF / 2018)
 
 Assim, é comum que pais com baixa escolaridade lutem para que os filhos tenham acesso
 a um ensino de
@@ -3821,7 +3755,7 @@ A oração "para que os filhos tenham acesso a um ensino de qualidade" expressa 
 
 A) finalidade. B) causa. C) modo. D) proporção. E) concessão.
 
-Item. 12. (CEBRASPE / PF / 2018)
+12. (CEBRASPE / PF / 2018)
 
 A maioria dos laboratórios acredita que o acúmulo de trabalho é o maior problema que
 enfrentam, e boa
@@ -3829,10 +3763,9 @@ parte dos pedidos de aumento no orçamento baseia-se na dificuldade de dar conta
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A preposição "de" empregada logo após "dificuldade" poderia ser corretamente substituída por em.
 
-Item. 13. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+13. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Com a redução da carga tributária sobre o consumo, todos ganham: a população de baixa
 e média renda,
@@ -3856,22 +3789,21 @@ E) conclusão.
 
 GABARITo
 
+1. CORRETA
 
-Item. 1. CORRETA
+2. CORRETA
 
-Item. 2. CORRETA
+3. CORRETA
 
-Item. 3. CORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. CORRETA
 
-Item. 5. CORRETA
+6. CORRETA
 
-Item. 6. CORRETA
+7. CORRETA
 
-Item. 7. CORRETA
-
-Item. 8. INCORRETA
+8. INCORRETA
 
 9.
 
@@ -3886,14 +3818,13 @@ CORRETA
 LETRA A
 CORRETA
 
-Item. 13. LETRA A
+13. LETRA A
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - CoNJUNçÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / ICMBIO / 2022)
+1. (CEBRASPE / ICMBIO / 2022)
 
 Nossas cidades estão perdendo suas árvores rapidamente, mas até nisso somos um país
 desigual.
@@ -3951,7 +3882,7 @@ No primeiro período do texto, a conjunção "mas" introduz uma ressalva à
 afirmação de que "Nossas
 cidades estão perdendo suas árvores rapidamente".
 
-Item. 2. (CEBRASPE / PC-PB / 2022)
+2. (CEBRASPE / PC-PB / 2022)
 
 Um problema no estudo da violência é sua relação com a racionalidade. Os
 atos violentos mais
@@ -3972,7 +3903,6 @@ com os antagonismos, as diferenças e a diversidade.
 Portanto, o problema que levanta a violência é muito menos o da irracionalidade do que o de uma
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 racionalidade repleta de "razões" para não se deter diante de limites
 estabelecidos pela própria razão
@@ -4006,7 +3936,7 @@ D) "Em outras palavras" (terceiro período do segundo parágrafo) por Outrossim.
 
 E) "pois" (penúltimo período do segundo parágrafo) por sem embargo.
 
-Item. 3. (CEBRASPE / TELEBRAS / 2022)
+3. (CEBRASPE / TELEBRAS / 2022)
 
 No século VII a.C., o chinês Sun Tzu, em A arte da guerra, dizia que "toda guerra
 é embasada em
@@ -4018,7 +3948,7 @@ publicado em 1832...
 
 No segundo período do segundo parágrafo do texto, o vocábulo "Contudo" introduz uma ressalva.
 
-Item. 4. (CEBRASPE / TELEBRAS / 2022)
+4. (CEBRASPE / TELEBRAS / 2022)
 
 A comunicação tem-se transformado em um setor estratégico da economia, da política e
 da cultura.
@@ -4034,7 +3964,7 @@ imediatamente antes de "Da guerra", desde que feitos os devidos ajustes de
 maiúsculas e minúsculas e
 de pontuação.
 
-Item. 5. (CEBRASPE / DPE-DF / 2022)
+5. (CEBRASPE / DPE-DF / 2022)
 
 Seria mantida a correção gramatical e os sentidos originais do texto caso, no trecho
 'Aqui ninguém mais
@@ -4042,12 +3972,11 @@ podia ser admitido, pois esta entrada estava destinada só a você', a
 conjunção 'pois' fosse substituída
 por posto que.
 
-Item. 6. (CEBRASPE / TELEBRAS / 2022)
+6. (CEBRASPE / TELEBRAS / 2022)
 
 Um maior acesso pode significar mais progressos no domínio da realização dos Objetivos de
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Desenvolvimento do Milênio. A Internet impulsiona a atividade econômica, o comércio e
 até a educação. A
@@ -4065,7 +3994,7 @@ No último parágrafo, a expressão "Ao passo que" estabelece uma relação de
 proporcionalidade entre as
 orações que formam o período.
 
-Item. 7. (CEBRASPE / TELEBRAS / 2022)
+7. (CEBRASPE / TELEBRAS / 2022)
 
 Um maior acesso pode significar mais progressos no domínio da realização dos
 Objetivos de
@@ -4083,7 +4012,7 @@ tecnologias ecológicas contribuem para a existência de cidades mais
 limpas", a substituição da
 conjunção "e" por uma vírgula manteria a correção gramatical e a coerência do texto.
 
-Item. 8. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
+8. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
 
 1 Em qualquer tempo ou lugar, a vida social é sempre
 marcada por rituais. Essa afirmação pode ser inesperada
@@ -4126,10 +4055,9 @@ A substituição da conjunção "porque" (Linha 3) pela locução de modo que pr
 sentidos originais
 do texto.
 
-Item. 9. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+9. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A separação dos movimentos da informação em relação aos movimentos dos seus
 portadores e objetos
@@ -4145,7 +4073,7 @@ disponível em todo o planeta, tanto na teoria como na prática.
 
 A substituição do conectivo "Afinal" (L.10) por Contudo manteria os sentidos originais do texto.
 
-Item. 10. (CEBRASPE / MP-CE / 2020)
+10. (CEBRASPE / MP-CE / 2020)
 
 A liberdade de expressão é particularmente valiosa em uma sociedade democrática, ao
 ponto de haver quem
@@ -4164,13 +4092,13 @@ A correção gramatical e a coerência do texto seriam mantidas caso fosse inser
 expressão por isso, isolada
 por vírgulas, entre as palavras "e" e "não", no segundo parágrafo — e, por isso, não.
 
-Item. 11. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+11. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 No trecho "Nem ela própria contava consigo, como o galo crê na sua crista", existe
 uma relação de oposição
 entre as orações que compõem o período.
 
-Item. 12. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+12. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Em geral, consideramos que rituais seriam eventos de sociedades históricas, da vida na
 corte europeia, por
@@ -4190,7 +4118,7 @@ A substituição do trecho "se for considerado" (L.5) por quando considerado pre
 a coerência e a
 correção gramatical do texto.
 
-Item. 13. (CEBRASPE / PRF / POLICIAL / 2019)
+13. (CEBRASPE / PRF / POLICIAL / 2019)
 
 Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em
 razão de atividades
@@ -4206,8 +4134,7 @@ expressas no período.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 14. (CEBRASPE / PRF / POLICIAL / 2019)
+14. (CEBRASPE / PRF / POLICIAL / 2019)
 
 Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em
 razão de
@@ -4223,7 +4150,7 @@ Quando prestamos atenção a nossa volta, percebemos que quase tudo que vemos ex
 pelas atividades do
 trabalho humano.
 
-Item. 15. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+15. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 A tributação, portanto, somente pode ser compreendida a partir da necessidade
 dos indivíduos de
@@ -4241,7 +4168,7 @@ fosse substituído pela seguinte expressão.
 
 A) Devido isso B) Em suma C) Por conseguinte D) Consoante isso E) Para tanto
 
-Item. 16. (CEBRASPE / SEFAZ-RS / 2019)
+16. (CEBRASPE / SEFAZ-RS / 2019)
 
 O direito tributário brasileiro depara-se com grandes desafios, principalmente em tempos
 de globalização e
@@ -4287,7 +4214,6 @@ recuperará o
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 poder da economia e poderá utilizar essa recuperação como condição para intensificar a
 integração com
 outros países e para participar mais ativamente da globalização.
@@ -4300,7 +4226,7 @@ Federação", o vocábulo
 
 A) até então B) ao menos C) além disso D) até aquele tempo E) até o presente momento
 
-Item. 17. (CEBRASPE / SEFAZ-RS / 2019)
+17. (CEBRASPE / SEFAZ-RS / 2019)
 
 Desse modo, o poder de tributar está na origem do Estado ou do ente político, a
 partir da qual foi possível
@@ -4314,7 +4240,7 @@ No trecho "o poder de tributar está na origem do Estado ou do ente político", 
 substituição de "ou" por e
 prejudicaria a correção gramatical do texto.
 
-Item. 18. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+18. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Por outro lado, se o Estado reduzisse a tributação de determinado setor da economia,
 os custos desse setor
@@ -4342,7 +4268,7 @@ E) condição, uma vez que a diminuição dos custos do referido setor dependeri
 redução da tributação
 sobre ele.
 
-Item. 19. (CEBRASPE / PGE-PE / 2019)
+19. (CEBRASPE / PGE-PE / 2019)
 
 Se observarmos bem, essas ondas longas da história, como as chamava Braudel,
 tornaram-se cada vez mais
@@ -4354,10 +4280,9 @@ O sentido original e a correção gramatical do texto seriam mantidos se a palav
 "como" fosse substituída
 por conforme.
 
-Item. 20. (CEBRASPE / PF / 2018)
+20. (CEBRASPE / PF / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Em graus diferentes, todos fazemos parte dessa aventura, todos podemos compartilhar o
 êxtase que surge
@@ -4373,7 +4298,7 @@ substituídas, sem prejuízo para a correção gramatical e os sentidos do texto
 só e mas também,
 respectivamente.
 
-Item. 21. (CEBRASPE / PC-SE / DELEGADO / 2018)
+21. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 A existência da polícia se justifica pela imprescindibilidade dessa agência de segurança
 para a viabilidade do
@@ -4387,18 +4312,18 @@ período do texto e a informação presente na oração "a sua ausência
 culminaria na impossibilidade de
 manutenção de relações pacificadas".
 
-Item. 22. (CEBRASPE / PC-MA / Investigador de Polícia / 2018)
+22. (CEBRASPE / PC-MA / Investigador de Polícia / 2018)
 
 A correção gramatical e o sentido do trecho 'O anonimato ajuda, já que as pessoas se
 sentem mais protegidas
 para falar' seriam preservados caso se substituísse o termo "já que" por
 a) uma vez que. b) logo que. c) a fim de que. d) ainda que. e) contanto que.
 
-Item. 23. (CEBRASPE / EMAP / 2018)
+23. (CEBRASPE / EMAP / 2018)
 
 A palavra "portanto" introduz, no período em que ocorre, uma ideia de conclusão.
 
-Item. 24. (CEBRASPE / PF / ESCRIVÃO / 2018)
+24. (CEBRASPE / PF / ESCRIVÃO / 2018)
 
 Dir-se-á, no entanto, que nenhum deles partilha realmente do direito de julgar; os
 peritos não intervêm antes
@@ -4408,20 +4333,19 @@ A locução "no entanto" (L.l) introduz no período uma ideia de conclusão;
 por isso, sua substituição por
 portanto preservaria a correção gramatical e as relações de sentido originais do texto.
 
-Item. 25. (PC-MA / DELEGADO / 2018)
+25. (PC-MA / DELEGADO / 2018)
 
 No texto CG1A1AAA, em "É, então, no entrelaçamento 'paz — desenvolvimento —
 direitos humanos —
 democracia' que podemos vislumbrar a educação para a paz", o vocábulo "então" expressa uma ideia de
 a) conclusão, b) finalidade, c) comparação, d) causa, e) oposição.
 
-Item. 26. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+26. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Ainda que circunscritas a determinados limites, essas ações de resistência, aparentemente
 insignificantes,
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 colocam em movimento as relações e podem alterar a realidade de uma ordem imposta ou dominante
 
@@ -4434,13 +4358,13 @@ Comentários:
 "Ainda que" e "embora" são conectivos concessivos e servem de sinônimos no contexto. Questão
 correta.
 
-Item. 27. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+27. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Os sentidos originais e as relações de coesão do texto seriam preservados caso se
 substituísse a palavra
 "portanto" por também, uma vez que ambas exprimem uma ideia de conclusão.
 
-Item. 28. (CEBRASPE / INSTITUTO FEDERAL FLUMINENSE / 2018)
+28. (CEBRASPE / INSTITUTO FEDERAL FLUMINENSE / 2018)
 
 Ao longo das últimas décadas, o Brasil consolidou uma consciência social do direito à
 educação na infância,
@@ -4458,7 +4382,7 @@ D) todavia.
 
 E) portanto
 
-Item. 29. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
+29. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Seria mantida a correção gramatical do texto caso o trecho "Nenhum daqueles filhos de
 operários, meus
@@ -4466,13 +4390,13 @@ irmãos ou eu havia ido ao pediatra" fosse assim reescrito: Nenhum daqueles filh
 operários, nem meus
 irmãos nem eu tínhamos ido ao pediatra.
 
-Item. 30. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+30. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 No trecho "Pois, meus amigos, da última vez que vi o Juca, o impasse continuava...",
 o elemento "Pois"
 introduz uma concessão.
 
-Item. 31. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
+31. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 O pulso de Roy se acelerou. Ele passava por aquele caminho todo dia e sabia que
 logo a maré ia subir e lavar
@@ -4482,10 +4406,9 @@ O vocábulo "logo" introduz uma ideia de conclusão, razão por que poderia
 ser substituído por portanto,
 desde que isolado por vírgulas, sem alteração dos sentidos originais do texto.
 
-Item. 32. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
+32. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Para ajudar o trabalho dos peritos, existem programas que buscam os arquivos de imagem
 e vídeo através
@@ -4495,7 +4418,7 @@ imagens apresentou mais de
 
 No período em que se insere, o termo "Logo" expressa uma ideia de conclusão.
 
-Item. 33. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+33. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Quem me lê poderá objetar que basta a gente passar os olhos pelo jornal desta manhã
 para verificar que o
@@ -4513,7 +4436,7 @@ transmite uma ideia de
 
 A) conformidade. B) condição. C) causa. D) proporção. E) propósito.
 
-Item. 34. (CEBRASPE / PC-MA / Investigador de Polícia / 2018)
+34. (CEBRASPE / PC-MA / Investigador de Polícia / 2018)
 
 A correção gramatical e o sentido do trecho 'O anonimato ajuda, já que as pessoas se
 sentem mais protegidas
@@ -4528,7 +4451,7 @@ d) ainda que.
 
 e) contanto que.
 
-Item. 35. (CEBRASPE / BNB / 2018)
+35. (CEBRASPE / BNB / 2018)
 
 O sistema de aprendizagem de máquina diminui a ocorrência de falsos positivos e deve
 contribuir para cortes
@@ -4538,7 +4461,7 @@ para lidar com casos realmente duvidosos, que mereçam ser mais bem avaliados.
 
 Na linha 2, o termo "Contudo" foi empregado com o mesmo sentido de Porquanto.
 
-Item. 36. (CEBRASPE / PF / 2018)
+36. (CEBRASPE / PF / 2018)
 
 Sob o nome de crimes e delitos, são sempre julgados corretamente os objetos
 jurídicos definidos pelo
@@ -4552,8 +4475,7 @@ texto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 37. (CEBRASPE / Polícia Militar - AL / 2018)
+37. (CEBRASPE / Polícia Militar - AL / 2018)
 
 Tal perigo, porém, não é assim tão grande
 
@@ -4561,7 +4483,7 @@ A palavra "porém" poderia ser corretamente substituída por mas, sem alteraçã
 e dos sentidos
 do texto.
 
-Item. 38. (CEBRASPE / TRE-PE / 2017)
+38. (CEBRASPE / TRE-PE / 2017)
 
 Como lembra Marilena Chaui, a cidadania se define pelos princípios da
 democracia, significando
@@ -4582,7 +4504,7 @@ participação política.
 No último período do texto, o vocábulo "portanto" introduz uma ideia de
 a) tempo, b) consequência, c) conclusão, d) explicação, e) adição.
 
-Item. 39. (CEBRASPE / TRF l5 REGIÃO / NÍVEL SUPERIOR / 2017)
+39. (CEBRASPE / TRF l5 REGIÃO / NÍVEL SUPERIOR / 2017)
 
 Porém, a proteção que lhes é garantida baseia-se em um argumento puramente
 utilitarista: os animais são
@@ -4592,7 +4514,7 @@ A correção gramatical e o sentido original do texto seriam preservados caso
 a conjunção "Porém" fosse
 substituída por Mas.
 
-Item. 40. (CEBRASPE / SEE-DF / 2017)
+40. (CEBRASPE / SEE-DF / 2017)
 
 As críticas à extrema confiança que demos à ciência como forma única de
 conhecimento são muitas e
@@ -4608,22 +4530,21 @@ O conectivo "Embora" introduz no período em que ocorre uma ideia de concessão.
 
 GABARITo
 
+1. CORRETA
 
-Item. 1. CORRETA
+2. LETRA C
 
-Item. 2. LETRA C
+3. CORRETA
 
-Item. 3. CORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. INCORRETA
 
-Item. 5. INCORRETA
+6. CORRETA
 
-Item. 6. CORRETA
+7. CORRETA
 
-Item. 7. CORRETA
-
-Item. 8. INCORRETA
+8. INCORRETA
 
 9.
 
@@ -4658,7 +4579,6 @@ INCORRETA
 LETRA E
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 19.
 
@@ -4731,5 +4651,4 @@ INCORRETA
 CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

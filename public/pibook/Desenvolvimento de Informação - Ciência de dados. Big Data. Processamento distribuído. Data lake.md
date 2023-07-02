@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Ciência de dados. Big Data. Processamento distribuído. Data lake.
-
+# Desenvolvimento de Informação - Ciência de dados. Big Data. Processamento distribuído. Data lake.
 
 Índice
 
@@ -12,7 +11,6 @@ Capítulo. Desenvolvimento de Informação - Ciência de dados. Big Data. Proces
 4) Metadados de Arquivos
 
 5) Questões Comentadas - Big Data, NoSQL e Hadoop - Multibancas
-
 
 INTRoDUçÃo
 
@@ -58,7 +56,6 @@ dentre outros.
 E o que esses dados possuem em comum? São dados não-estruturados. Estima-se que 85%
 das
 informações com as quais as empresas lidam hoje não estão estruturadas. Desta forma, o SGBD
-
 
 tradicional e a modelagem relacional (datados da década de 60) não são mais
 suficientes para lidar
@@ -119,7 +116,6 @@ tecnologias relacionadas a introspecção necessária para seus clientes tomarem
 suas decisões todos os
 dias.
 
-
 necessidade crescente de lidar com dados quase em tempo real. Reagir rápido
 o
 suficiente para lidar com a velocidade é um desafio para a maioria das organizações.
@@ -175,7 +171,6 @@ atividades antiterroristas e você entenderá a ideia de que Big Data não é s�
 
 RESUMINDO
 
-
 Volume
 
 Velocidade
@@ -183,7 +178,6 @@ Velocidade
 Variedade
 
 W* V*W* V**V
-
 
 *** ******
 
@@ -314,7 +308,7 @@ CAIU
 
 na prova!
 
-Item. 1. Ano: 2017 Órgão: TCE-PE Cargo: Auditor de Obras Públicas Questão: 120
+1. Ano: 2017 Órgão: TCE-PE Cargo: Auditor de Obras Públicas Questão: 120
 
 Com relação a Big Data, julgue o item subsequente.
 
@@ -346,7 +340,6 @@ volume, valor e variedade são as mesmas neste contexto. Incluímos mais duas pe
 que não
 foram listadas acima: governança e pessoas. Vejamos suas definições:
 
-
 Governança - Ao decidir implementar ou não uma plataforma de big data, uma
 organização pode estar olhando novas fontes e novos tipos de elementos de dados nos
 quais a propriedade não está definida de forma clara. Por exemplo, no caso de
@@ -368,7 +361,6 @@ velocidade,
 veracidade e valor dão viabilidade a um projeto de Big Data, podemos observar de
 forma organizada
 esses termos na figura abaixo.
-
 
 á k
 
@@ -394,7 +386,6 @@ F
 
 3lociadac
 
-
 Valor
 
 ^F
@@ -410,7 +401,6 @@ de informação,
 procurando formas inovadoras e rentáveis de processamento da informação, visando uma
 melhor
 percepção dos fatos e uma tomada de decisão mais consistente.
-
 
 Outra definição da TechAmerica define big data da seguinte forma:
 
@@ -430,7 +420,6 @@ nào-estruturados, que até então só podiam ser compreendidos por pessoas. Sã
 posts no Facebook, videos, geolocalização e comportamentos de clientes que dependem
 de contexto para ter sentido.
 
-
 Esses dados
 não-estruturados
 representam 85% das
@@ -444,7 +433,6 @@ Data crescerá
 quase 40% ao ano
 até 2015
 
-
 A quantidade global de dados digitais
 deve crescer de 1,8 zetta byte, hoje, para
 
@@ -453,20 +441,18 @@ deve crescer de 1,8 zetta byte, hoje, para
 toda a informação do mundo poderá ser
 armazenada em:
 
-
 bilhões
 de iPads
 
 COMPARE
 
 1 Zettabyte é igual
-Item. 1.000.000.000.000.000.000.000 bytes
+1.000.000.000.000.000.000.000 bytes
 
 1 Gigabyte é igual
-Item. 1.000.000.000 bytes
+1.000.000.000 bytes
 
 Alguns exemplos de como a solução tem sido usada
-
 
 A companhia Skybox
 tira fotos de satélite e
@@ -579,7 +565,6 @@ Entendido os conceitos básicos vamos avançar no assunto. Antes de falar sobre 
 premissas e
 aplicações, gostaria de tecer alguns comentários sobre falácias ou mitos associados a Big Data.
 
-
 FALÁCIAS2 SoBRE BIG DATA
 
 Quando pensamos em premissas sobre Big Data imaginamos uma caixa preta que vai receber
@@ -649,7 +634,6 @@ por falácia um raciocínio
 errado com aparência de verdadeiro. Na lógica e na retórica, uma falácia é
 um argumento logicamente
 inconsistente, sem fundamento, inválido ou falho na tentativa de provar eficazmente o que alega.
-
 
 Falácia 06 - Big Data pode prever o futuro
 
@@ -723,7 +707,6 @@ Data. Primeiro precisamos considerar os elementos fundamentais para o cresciment
 Data
 tais como o aumento da capacidade de armazenamento, aumento do poder de processamento e
 disponibilidade de dados.
-
 
 APLICAçõES DE BIG DATA
 
@@ -804,12 +787,11 @@ pergunta: E como eu implemento esse trem? (Homenagem aos meus amigos mineiros). 
 alguém
 vai te responder: usa uma base NoSQL com a infraestrutura do Hadoop!
 
-
 CAIU
 
 na prova!
 
-Item. 2. Ano: 2017 Banca: CESPE Órgão: TCE-PE Cargo: Analista De Controle Externo Área: Auditoria
+2. Ano: 2017 Banca: CESPE Órgão: TCE-PE Cargo: Analista De Controle Externo Área: Auditoria
 De Contas Públicas Questão: 120
 
 No que se refere a Big Data, julgue o item subsecutivo.
@@ -859,13 +841,11 @@ um tipo de big data a cada um.
 
 ESQUEMATIZANDO
 
-
 Problemas de negócios
 
 Tipo de big data
 
 Descrição
-
 
 Serviços públicos:
 Prever o consumo de
@@ -887,7 +867,6 @@ solução de big data pode analisar dados de geração
 de energia (fornecimento) e de consumo de energia
 (demanda) usando medidores inteligentes.
 
-
 Telecomunicações:
 Analítica de perda de
 clientes
@@ -907,7 +886,6 @@ frente da concorrência.
 Provedores que implementam uma estratégia de
 analítica preditiva podem gerenciar e prever a perda
 analisando os padrões de chamada dos assinantes.
-
 
 Varejo: Sistema de
 mensagens
@@ -941,9 +919,7 @@ Data, e as possíveis divisões ou grupos em cada categoria. As categorias mais
 relevantes estão em
 azul turquesa.
 
-
 Analysis Type
-
 
 Data Frequency
 
@@ -957,13 +933,11 @@ Piê mey fie avente vn «nwdty. weeAy. daty
 
 'rv>-»'7 pe* wiiXe w íwcrxí òeirt
 
-
 Meta Data Master Data
 
 Histoncal
 
 Transactional
-
 
 Structured
 
@@ -981,7 +955,6 @@ Structured
 Documei Audio
 rmag®*. Tert. ixi«o.í. Auaw »r.c Doam**** «ao fie at -7p»
 Strucnxerf, t./nsfii.t-M»*? «wvr 5«>rv»smrf«ri)0
-
 
 Hardware
 
@@ -1017,7 +990,6 @@ formato de
 armazenamento e as ferramentas necessárias de pré-processamento. Frequência e
 tamanho de
 dados dependem das fontes.
-
 
 * Sob demanda, como dados de mídia social
 
@@ -1115,7 +1087,6 @@ Os requisitos típicos para visualização de big data, incluindo os requisitos 
 são listados
 abaixo:
 
-
 * Realizar análise em tempo real e exibição de dados de fluxo
 
 * Extrair dados de forma interativa, com base no contexto
@@ -1190,7 +1161,6 @@ processadas em horários pré-determinados).
 
 Vejamos um pouco mais sobre esses padrões a seguir:
 
-
 Análise de dados históricos
 
 A análise de dados históricos tradicional é limitada a um período predefinido
@@ -1250,7 +1220,7 @@ CAIU
 
 na prova!
 
-Item. 3. Ano: 2014 Banca: CESPE Órgão: TJ/SE Cargo: Analista Judiciário
+3. Ano: 2014 Banca: CESPE Órgão: TJ/SE Cargo: Analista Judiciário
 
 Em soluções Big Data, a análise dos dados comumente precisa ser precedida de uma
 transformação de dados não estruturados em dados estruturados.
@@ -1259,7 +1229,6 @@ Comentário: Para que um dado possa ser analisado, é preciso que ele esteja em 
 formato estruturado, envolvendo metadados, relacionado a algum outro dado ou informação.
 
 Gabarito: C
-
 
 Análise ad hoc
 
@@ -1289,7 +1258,7 @@ CAIU
 
 na prova!
 
-Item. 4. Ano: 2014 Banca: CESPE Órgão: TJ/SE Cargo: Analista Judiciário -
+4. Ano: 2014 Banca: CESPE Órgão: TJ/SE Cargo: Analista Judiciário -
 
 O processamento de consultas ad hoc em Big Data, devido às
 características de
@@ -1323,7 +1292,6 @@ cada uma
 exigirá um tratamento diferente para acessar esses dados.
 
 (gerados por) Dispositivos
-
 
 O conteúdo gerado por dispositivos inclui dados de sensores. Os dados são detectados a
 partir das
@@ -1386,7 +1354,6 @@ um sistema de autogerenciamento tolerante a falhas de grande escala que
 inclui terabytes de
 memória e petabytes de armazenamento.
 
-
 Armazenamento de dados tradicionais
 
 O armazenamento de dados tradicional não é a melhor opção para armazenar big data,
@@ -1429,7 +1396,7 @@ CAIU
 
 na prova!
 
-Item. 5. Ano: 2014 Banca: CESPE Órgão: TJ/SE Prova: Analista Judiciário
+5. Ano: 2014 Banca: CESPE Órgão: TJ/SE Prova: Analista Judiciário
 
 Ao utilizar armazenamento dos dados em nuvem, a localização do processamento
 de
@@ -1450,14 +1417,13 @@ CAIU
 
 na prova!
 
-Item. 6. Ano: 2013 Banca: CESPE Órgão: TRE/GO Prova: Técnico Judiciário Área: Administrativa
+6. Ano: 2013 Banca: CESPE Órgão: TRE/GO Prova: Técnico Judiciário Área: Administrativa
 
 A Big Data pode ser utilizada na EAD para se entender as preferências e necessidades
 de
 aprendizagem dos alunos e, assim, contribuir para soluções mais eficientes de
 educação
 mediada por tecnologia.
-
 
 Comentário: O Big Data poder ser utilizado para melhor conhecer o perfil e o
 comportamento
@@ -1475,7 +1441,6 @@ Gabarito: C.
 MAPA ESTRATÉGICo
 
 Conceitos de Big Data
-
 
 Volume (tamanho)
 Petabytes da dados X
@@ -1495,7 +1460,6 @@ tradicionais
 
 r NoSQL/SQL Avançado 1 r MapReduce/MPP
 
-
 Armazenamento distribuído
 k Processamento distribuído J
 
@@ -1503,7 +1467,6 @@ Ferramentas de Big Data /
 Tecnologias
 
 (Hadoop, Mongo, HPCC,...)
-
 
 NoSQL
 
@@ -1544,7 +1507,6 @@ Emergente
 Maduro
 
 Escalável
-
 
 Não Relacional
 Relacional
@@ -1648,7 +1610,6 @@ Cassandra,
 Dynomite, HBase, Hypertable, CouchDB e MongoDB, mas o termo nunca ficou limitado a esse grupo
 
 Q-Q
-
 
 original. Não há uma definição genericamente aceita nem uma autoridade para fornecer
 uma, de
@@ -1787,7 +1748,6 @@ Vamos agora tratar com um pouco mais de detalhes cada uma das categorias de mode
 que
 apresentamos anteriormente.
 
-
 MoDELo DE DADoS CHAVE-VALoR
 
 O modelo de dados chave-valor trata o agregado como um todo opaco, o que significa
@@ -1814,7 +1774,6 @@ id nome sobrenome idend
 Marcos Silva 5
 
 I 1
-
 
 2 Leandro Dantas 1
 
@@ -1938,7 +1897,6 @@ também o Hbase, que é um banco de dados open source semelhante ao BigTable, qu
 utiliza o
 Hadoop.
 
-
 MoDELo DE GRAFoS
 
 Bancos de dados de grafos são motivados por uma frustração diferente com
@@ -1971,7 +1929,6 @@ junções, o que poderia acarretar uma diminuição no desempenho da aplicação
 meio
 dos relacionamentos inerentes aos grafos, estas consultas tornam-se mais simples e diretas.
 
-
 Usuário
 id nome sobrenome id end
 Marcos Silva
@@ -1994,7 +1951,6 @@ Sào Paulo SP 66745-025 |
 
 I3
 
-
 4 Salvador BA 66548-020
 
 Vértice Vértice
@@ -2013,7 +1969,6 @@ a figura abaixo que apresenta duas características relacionadas aos bancos de d
 grafos: o
 processamento e o armazenamento nativo.
 
-
 Microsoft
 
 -£^nentDB'
@@ -2022,7 +1977,6 @@ Neo4j
 the graph databasc
 
 /AmFnimrrrir!cVi
-
 
 InfiniteGraph
 
@@ -2059,7 +2013,6 @@ representantes ou principais referências. Veja nas figuras a seguir essa lista 
 
 4 I I
 
-
 Product
 ID
 
@@ -2073,9 +2026,7 @@ Redis
 
 2 Album ID 6 Partitas Bach
 
-
 Album ID:
-
 
 TracklD
 
@@ -2090,7 +2041,6 @@ aipazotf DynamoDB
 
 websew
 
-
 3 MovielD TheKid
 
 Comedy /
@@ -2098,7 +2048,6 @@ Comedy /
 WACLÉX Oracle
 
 , BERKELEYDBj BerkeleyBD
-
 
 MongoDB
 
@@ -2108,7 +2057,6 @@ Azure
 DocumentDB
 
 ^TiTAh Titan
-
 
 FoRMAS DE DISTRIBUIçÃo
 
@@ -2153,7 +2101,6 @@ definição de cada uma delas. Antes vejam a figura abaixo o diagrama de Van que
 representa o
 relacionamento entre as três propriedades.
 
-
 consistency
 
 C+A
@@ -2172,7 +2119,6 @@ A consistência refere-se ao fato de que uma leitura em qualquer um dos nodos de
 sistema
 retorna como resultado a mesma informação. Vejam a figura abaixo:
 
-
 Peer A
 
 id amount
@@ -2182,7 +2128,6 @@ id amount
 2 32
 
 3 49
-
 
 | id amount 1
 
@@ -2233,7 +2178,6 @@ ACID X BASE
 ACID é um princípio de design de banco de dados relacionado ao gerenciamento de
 transações. É
 um acrônimo que significa: Atomicidade, Consistência, Isolamento e Durabilidade.
-
 
 ACID é um estilo de gerenciamento de transações que utiliza controles de simultaneidade
 pessimista
@@ -2305,7 +2249,6 @@ sucesso/fracasso. Na figura abaixo, o banco de dados é basicamente disponível,
 que tenha
 sido particionado como um resultado de uma falha de rede.
 
-
 DBMS
 
 Partition A
@@ -2339,7 +2282,6 @@ estado soft, e dados obsoletos são devolvido ao usuário B.
 
 Peer A
 
-
 User A
 
 update
@@ -2355,14 +2297,13 @@ base de dados esteja em processo para atingir o estado de consistência, estarem
 um estado
 soft.
 
-
 Na figura a seguir: 1. Um usuário atualiza um registro. 2. O registro só fica atualizado
 no peer A, mas
 antes que os outros pares possam ser atualizados, o usuário B solicita o mesmo
 registro. 3. A base
 de dados está agora em um estado soft, dados obsoletos são retornados para o usuário B do Peer C.
 
-Item. 4. No entanto, a consistência é eventualmente atingida, e usuário C recebe o valor correto.
+4. No entanto, a consistência é eventualmente atingida, e usuário C recebe o valor correto.
 
 DBMS
 
@@ -2405,7 +2346,6 @@ passo a passo para alcançar o resultado usando a funcionalidade MapReduce. Todo
 processo é
 ilustrado no diagrama a seguir:
 
-
 Elementos que tenham o mesmo formato de entrada e saída podem ser combinadas em
 pipelines.
 Isso melhora o paralelismo e reduz a quantidade de dados a serem transferidos.
@@ -2420,7 +2360,6 @@ operações
 MapReduce que apenas computem alterações na visão, em vez de computar novamente tudo
 desde
 o início.
-
 
 HADooP
 
@@ -2470,7 +2409,6 @@ Store Process
 Hadoop = HDFS + MapReduce
 
 Hadoop tem uma série de vantagens, e algumas delas são:
-
 
 Baixo custo - Funciona em hardware simples (commodity): Hadoop pode ser
 executado em
@@ -2530,7 +2468,6 @@ A figura abaixo mostra as camadas e as ferramentas e utilitários dentro
 dessas camadas, no
 ecossistema Hadoop:
 
-
 No Hadoop, sabemos que os dados são armazenados em um ambiente de computação
 distribuída,
 de modo que os arquivos estão espalhados por todo o cluster. Devemos ter um sistema
@@ -2561,7 +2498,6 @@ Pig e Spark.
 A camada de base em Hadoop para a programação distribuída é MapReduce. Se você
 observar a
 figura os outros frameworks rodam em cima do MapReduce.
-
 
 Hadoop MapReduce: MapReduce é o coração do sistema Hadoop de programação
 distribuída.
@@ -2636,7 +2572,6 @@ como Yahoo, Adobe, Facebook, Twitter, Stumblellpon, NGData, Infolinks, Trend
 Micro, e muitos
 mais.
 
-
 INGESTÃo DE DADoS
 
 O gerenciamento de dados em big data é um aspecto importante e crítico. Temos de
@@ -2676,7 +2611,6 @@ de dados
 baseados em eventos. Por exemplo, coletar arquivos de log de um banco de servidores da Web e,
 em seguida, mover os eventos de log desses arquivos para o HDFS (fluxo de cliques).
 
-
 O objetivo principal do Flume é ingerir dados de eventos no HDFS (Hadoop Distributed
 File System)
 de forma simples e automatizada. Porém, seu uso não se limita apenas ao HDFS, é
@@ -2702,7 +2636,6 @@ de um arquivo
 properties utilizado em Java. Veja um exemplo de arquivo de configuração e
 seus respectivos
 componentes possíveis na figura abaixo:
-
 
 agentl.sources = sourcel
 agentl.sinks = sinkl
@@ -2776,7 +2709,6 @@ exportar dados em MapReduce, e ainda importar e exportar dados no modo
 paralelo. Sqoop
 também é tolerante a falhas.
 
-
 O Sqoop agenda as tarefas de map reduce jobs para efetivar os imports and exports.
 Ele sempre
 requer um conector e o driver JDBC. Cada driver JDBC serve a um servidor de banco
@@ -2828,9 +2760,7 @@ da Programação Baseada em Fluxo [fbp]. Apresentaremos alguns dos principais co
 NiFi e
 como eles são mapeados para o FBP.
 
-
 NiFi Term FBP Term Descrição
-
 
 FlowFile Information
 Packet
@@ -2910,7 +2840,6 @@ os dados do evento são indexados e pesquisáveis.
 
 Vejamos esses componentes na figura abaixo:
 
-
 NiFi também é capaz de operar dentro de um cluster. Neste caso, cada nó em um cluster NiFi executa
 as mesmas tarefas nos dados, mas, cada um opera em um conjunto diferente de dados. O
 Apache
@@ -2944,7 +2873,6 @@ em tempo real, um fluxo de dados com baixa latência e uma alta taxa de
 transferência, tendo como
 principal objetivo a construção de ligações de transmissão de dados entre sistemas para obtenção
 dos mesmos.
-
 
 Thiago Cavalcanti)
 
@@ -3069,7 +2997,6 @@ escritos
 em MapReduce, Pig, e Hive, também programas Java e scripts shell, e permite ligá-los uns aos
 outros.
 
-
 Oozie é um serviço extensível, escalável e com reconhecimento de dados. Oozie pode ser usado para
 definir regras, começando e terminando um fluxo de trabalho, e detectando a conclusão de tarefas.
 
@@ -3142,13 +3069,11 @@ relacionadas ao Hadoop. A figura que apresentamos no início mostra a
 integração entre esses
 componentes de forma gráfica. Esperamos que você tenha gostado.
 
-
 A seguir apresentaremos nossa tradicional lista de questões comentadas! Elas fazem parte
 da aula
 e devem ajudar você na fixação do conteúdo. São apresentadas questões das mais
 variadas bancas
 para abranger de forma mais ampla o conteúdo.
-
 
 A maioria das evidências digitais é armazenada no sistema de arquivos do
 computador, mas
@@ -3200,7 +3125,7 @@ central para fornecer aos usuários informações sobre os conjuntos de dados di
 
 Os metadados podem ser classificados em três grupos:
 
-Item. 1. Os metadados técnicos capturam a forma e a estrutura de cada conjunto de dados,
+1. Os metadados técnicos capturam a forma e a estrutura de cada conjunto de dados,
 como o
 tamanho e a estrutura do esquema ou tipo de dados (texto, imagens, JSON, Avro
 etc.). A
@@ -3216,7 +3141,7 @@ obtidos diretamente dos conjuntos de dados (por exemplo, tamanho), mas outros
 tipos de
 metadados são derivados.
 
-Item. 2. Os metadados operacionais capturam a linhagem, a qualidade, o perfil e a
+2. Os metadados operacionais capturam a linhagem, a qualidade, o perfil e a
 proveniência (por
 exemplo, quando os elementos de dados chegaram, onde estão localizados, de onde vieram,
 qual é a qualidade dos dados, etc.). Também pode conter quantos registros foram rejeitados
@@ -3225,7 +3150,7 @@ própria
 execução. Os metadados operacionais também identificam com que frequência os dados podem
 ser atualizados ou atualizados.
 
-Item. 3. Metadados de negócios capturam o que os dados significam para o usuário final a fim de tornar
+3. Metadados de negócios capturam o que os dados significam para o usuário final a fim de tornar
 os campos de dados mais fáceis de localizar e entender, por exemplo, nomes de
 empresas,
 descrições, tags, qualidade e regras de mascaramento. Eles se vinculam à definição de
@@ -3270,7 +3195,6 @@ informações
 podem ser espalhadas pelos arquivos de log que são gravados pelos processos que
 acessam esses
 conjuntos de dados.
-
 
 DATA LAKE
 
@@ -3426,14 +3350,12 @@ os dados, e os metadados ajudam a reduzir o tempo de insight1 fornecendo acesso 
 
 1 1 Descobrir algum padrão ou obter um resultado da análise.
 
-
 descobrir quais dados estão disponíveis e mantendo um mapa de rastreamento de dados
 completo (linhagem de dados).
 
-
 QUESTõES CoMENTADAS - MULTIBANCAS
 
-Item. 1. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo: Agente Conteúdo
+1. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo: Agente Conteúdo
 Big Data
 
 Julgue os itens que se seguem, relativos a noções de mineração de dados,
@@ -3448,7 +3370,7 @@ velocidade de captura, descoberta e análise.
 
 Comentário: Vamos comentar cada uma das afirmações acima.
 
-Item. 85. Mais uma vez, temos uma definição correta de Big Data. Veja que a afirmação
+85. Mais uma vez, temos uma definição correta de Big Data. Veja que a afirmação
 aborda os 3
 V's presentes na definição original: volume, variedade e velocidade. Logo,
 temos uma
@@ -3460,7 +3382,7 @@ CAIU
 
 na prova!
 
-Item. 2. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão: 14
+2. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão: 14
 
 Acerca de big data, assinale a opção correta.
 
@@ -3490,7 +3412,6 @@ A) Esse conceito de transformar processos de gestão e cultura está associado a
 conceito,
 o de gestão de processos de negócio, conhecido como BPM. Logo, temos uma alternativa
 incorreta.
-
 
 B) Um Sistema de Recomendação combina várias técnicas computacionais para selecionar
 itens personalizados com base nos interesses dos usuários e conforme o contexto no qual
@@ -3538,7 +3459,7 @@ CAIU
 
 na prova!
 
-Item. 3. Ano: 2018 Banca: Cesgranrio Órgão: Petrobras Cargo: Analista de Processo de
+3. Ano: 2018 Banca: Cesgranrio Órgão: Petrobras Cargo: Analista de Processo de
 Negócio
 Questão: 42
 
@@ -3557,7 +3478,6 @@ dados.
 (D) importância da facilidade de manipular cubos de visualização de dados, rapidamente.
 
 (E) rapidez com que os dados se tornam inválidos com o tempo.
-
 
 Comentário: Essa é a primeira questão de Big Data elaborada pela Cesgranrio. Acho que a falta
 de experiência nesse assunto fez com que as alternativas A e B pudessem ser
@@ -3624,8 +3544,7 @@ CAIU
 
 na prova!
 
-Item. 4. Ano: 2018 Banca: CESPE Órgão: TCE-PB Prova: Auditor de Contas Públicas - Demais Áreas
-
+4. Ano: 2018 Banca: CESPE Órgão: TCE-PB Prova: Auditor de Contas Públicas - Demais Áreas
 
 Com referência a big data, assinale a opção correta.
 
@@ -3695,16 +3614,15 @@ inicial e um ou mais nós de destino. Comumente feito em uma única máquina
 com o Algoritmo de
 Dijkstra.
 
-
 Gabarito: E.
 
 CAIU
 
 na prova!
 
-Item. 5. Ano: 2018 Banca: FCC Prova: Análise de Informações Concurso: TCE-RS Q.: 49
+5. Ano: 2018 Banca: FCC Prova: Análise de Informações Concurso: TCE-RS Q.: 49
 
-Item. 49. Um sistema de Big Data costuma ser caracterizado pelos chamados 3 Vs, ou seja,
+49. Um sistema de Big Data costuma ser caracterizado pelos chamados 3 Vs, ou seja,
 volume,
 variedade e velocidade. Por variedade entende-se que
 
@@ -3736,7 +3654,7 @@ CAIU
 
 na prova!
 
-Item. 6. Ano: 2017 Banca: FCC Órgão: DPE-RS Prova: Analista - Banco de Dados
+6. Ano: 2017 Banca: FCC Órgão: DPE-RS Prova: Analista - Banco de Dados
 
 Os sistemas de Big Data costumam ser caracterizados pelos chamados 3 Vs, sendo que o V de
 a) Veracidade corresponde à rapidez na geração e obtenção de dados.
@@ -3758,7 +3676,6 @@ Velocidade,
 Variedade. À medida que mais organizações começaram a aproveitar o potencial do Big
 Data,
 a lista de V se expandiu, vejamos cada um deles:
-
 
 Volume: refere-se à quantidade de dados. O Big Data geralmente tem milhares de
 entidades
@@ -3786,7 +3703,7 @@ CAIU
 
 na prova!
 
-Item. 7. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor
+7. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor
 Municipal de
 Controle Interno - Desenvolvimento de Sistemas
 
@@ -3808,9 +3725,7 @@ Infraestrutura, Plataforma e Software como serviço, vamos, primeiramente olhara
 para a
 figura a seguir:
 
-
 Infrastructure Platform Software
-
 
 (as a Service) ar
 
@@ -3820,11 +3735,9 @@ C
 
 (as a Service) (as a Service)
 
-
 Applications
 
 <S9 L- l Applications jj Applications
-
 
 1 . 1
 
@@ -3835,7 +3748,6 @@ Runtimes H
 $ Runtimes
 
 Runtimes
-
 
 Security flr Intrgr JIHwI |||| Sccuiit/ & lntegraoon
 z
@@ -3849,7 +3761,6 @@ Ql
 Securit, & Intecpaoon
 
 Data bases
-
 
 Servets
 Virtualization
@@ -3881,11 +3792,9 @@ Servers
 Virtualization
 Servei HW
 
-
 Storage
 Networking
 s Storage Stoiage
-
 
 Q.
 
@@ -3929,8 +3838,7 @@ CAIU
 
 na prova!
 
-
-Item. 8. Ano: 2017 Banca: FGV Órgão: IBGE Prova: Analista Censitário - Análise de
+8. Ano: 2017 Banca: FGV Órgão: IBGE Prova: Analista Censitário - Análise de
 Sistemas -
 Desenvolvimento de Aplicações - Web Mobile
 
@@ -3956,7 +3864,6 @@ Comentário: Veja que a questão exige apenas que você saiba qual desses nomes 
 um
 banco de dados NoSQL do tipo chave-valor. Vejam a figura abaixo para saber onde cada
 alternativa se enquadra e quais os outros exemplos de cada tipo de base de dados NoSQL.
-
 
 Amazon
 DynamoDB
@@ -3984,8 +3891,7 @@ CAIU
 
 na prova!
 
-
-Item. 9. Ano: 2015 Banca: CESPE Órgão: TJDFT Cargo: Suporte em Tecnologia da Informação
+9. Ano: 2015 Banca: CESPE Órgão: TJDFT Cargo: Suporte em Tecnologia da Informação
 -
 Questões 92 e 93
 
@@ -4017,7 +3923,7 @@ CAIU
 
 na prova!
 
-Item. 10. Ano: 2016 Banca: FGV Órgão: IBGE Cargo: WEB MOBILE Questão: 41
+10. Ano: 2016 Banca: FGV Órgão: IBGE Cargo: WEB MOBILE Questão: 41
 
 Considere as seguintes características de um projeto de banco de dados.
 
@@ -4069,7 +3975,7 @@ CAIU
 
 na prova!
 
-Item. 11. Ano: 2016 Banca: ESAF Órgão: ANAC Cargo: Analista de TI - QUESTÃO 62
+11. Ano: 2016 Banca: ESAF Órgão: ANAC Cargo: Analista de TI - QUESTÃO 62
 
 Big Data é:
 
@@ -4130,7 +4036,7 @@ CAIU
 
 na prova!
 
-Item. 12. Ano: 2016 Banca: ESAF Órgão: ANAC Cargo: Analista de TI - QUESTÃO 70
+12. Ano: 2016 Banca: ESAF Órgão: ANAC Cargo: Analista de TI - QUESTÃO 70
 
 Para o processamento de grandes massas de dados, no contexto de Big Data, é muito
 utilizada
@@ -4166,7 +4072,7 @@ CAIU
 
 na prova!
 
-Item. 13. ANO: 2015 BANCA: FGV ÓRGÃO: TJ-SC PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
+13. ANO: 2015 BANCA: FGV ÓRGÃO: TJ-SC PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
 SISTEMAS
 
 Os termos Business Intelligence (BI) e Big Data confundem-se em certos
@@ -4175,7 +4081,6 @@ conhecida abordagem para identificação dos pontos críticos de cada paradigma 
 como 3V, e destaca:
 
 A variedade, visualização, volume;
-
 
 B velocidade, virtualização, volume;
 C variedade, velocidade, volume;
@@ -4200,7 +4105,7 @@ CAIU
 
 na prova!
 
-Item. 14. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
+14. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
 
 Julgue os itens que se seguem, no que se refere a Big Data.
 
@@ -4237,8 +4142,7 @@ CAIU
 
 na prova!
 
-Item. 15. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
-
+15. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
 
 Julgue os itens que se seguem, no que se refere a Big Data.
 
@@ -4280,7 +4184,7 @@ CAIU
 
 na prova!
 
-Item. 16. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
+16. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
 
 Julgue os itens que se seguem, no que se refere a Big Data.
 
@@ -4304,12 +4208,11 @@ entre a requisição e a resposta.
 
 Gabarito: E.
 
-
 CAIU
 
 na prova!
 
-Item. 17. ANO: 2015 BANCA: FGV ÓRGÃO: TJ-BA PROVA: TÉCNICO DO JUDICIÁRIO - TECNOLOGIA DA
+17. ANO: 2015 BANCA: FGV ÓRGÃO: TJ-BA PROVA: TÉCNICO DO JUDICIÁRIO - TECNOLOGIA DA
 INFORMAÇÃO
 
 Analise as afirmativas a respeito da classe de gerenciadores de bancos de dados, surgida em
@@ -4344,7 +4247,7 @@ CAIU
 
 na prova!
 
-Item. 18. ANO: 2015 BANCA: CESPE ÓRGÃO: TCU PROVA: AUDITOR FEDERAL DE CONTROLE EXTERNO
+18. ANO: 2015 BANCA: CESPE ÓRGÃO: TCU PROVA: AUDITOR FEDERAL DE CONTROLE EXTERNO
 
 - TECNOLOGIA DA INFORMAÇÃO
 
@@ -4359,7 +4262,6 @@ diferentes tipos, são eles:
 
 Chave/valor (Key/Value): conhecidos como tabelas de hash distribuídas. Armazenam objetos
 indexados por chaves, e facilita a busca por esses objetos a partir de suas chaves.
-
 
 Orientados a Documentos: os documentos dos bancos são coleções de atributos e valores
 onde um atributo pode ser multivalorado. Em geral, os bancos de dados
@@ -4429,8 +4331,7 @@ CAIU
 
 na prova!
 
-
-Item. 19. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
+19. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
 
 Acerca de bancos de dados semiestruturados e bancos de dados NOSQL, julgue os itens
 subsecutivos.
@@ -4451,7 +4352,7 @@ CAIU
 
 na prova!
 
-Item. 20. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
+20. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
 
 Acerca de bancos de dados semiestruturados e bancos de dados NOSQL, julgue os itens
 subsecutivos.
@@ -4483,7 +4384,7 @@ CAIU
 
 na prova!
 
-Item. 21. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
+21. ANO: 2014 BANCA: CESPE ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
 
 Acerca de bancos de dados semiestruturados e bancos de dados NOSQL, julgue os itens
 subsecutivos.
@@ -4492,7 +4393,6 @@ Devido à escalabilidade esperada para os bancos de dados NOSQL, a implementaç�
 bancos utiliza modelos de armazenamento de dados totalmente distintos dos utilizados
 em
 sistemas relacionais.
-
 
 Comentário: Nem todos os modelos de armazenamentos são totalmente distintos dos
 sistemas relacionais. Se pensarmos no modelo de armazenamento colunar ele é semelhante a
@@ -4531,7 +4431,7 @@ CAIU
 
 na prova!
 
-Item. 22. ANO: 2013 BANCA: CESPE ÓRGÃO: CNJ PROVA: ANALISTA JUDICIÁRIO - ANÁLISE DE
+22. ANO: 2013 BANCA: CESPE ÓRGÃO: CNJ PROVA: ANALISTA JUDICIÁRIO - ANÁLISE DE
 SISTEMAS
 
 No que se refere ao desenvolvimento web de alto desempenho, julgue os itens
@@ -4559,8 +4459,7 @@ CAIU
 
 na prova!
 
-
-Item. 23. ANO: 2013 BANCA: CESPE ORGAO: CNJ PROVA: ANALISTA JUDICIÁRIO - ANALISE DE
+23. ANO: 2013 BANCA: CESPE ORGAO: CNJ PROVA: ANALISTA JUDICIÁRIO - ANALISE DE
 SISTEMAS
 
 No que se refere ao desenvolvimento web de alto desempenho, julgue os itens subsequentes.
@@ -4577,7 +4476,7 @@ CAIU
 
 na prova!
 
-Item. 24. ANO: 2013 BANCA: CESPE ORGAO: CNJ PROVA: ANALISTA JUDICIÁRIO - ANALISE DE
+24. ANO: 2013 BANCA: CESPE ORGAO: CNJ PROVA: ANALISTA JUDICIÁRIO - ANALISE DE
 SISTEMAS
 
 No que se refere ao desenvolvimento web de alto desempenho, julgue os itens subsequentes.
@@ -4597,7 +4496,7 @@ CAIU
 
 na prova!
 
-Item. 25. ANO: 2016 BANCA: CESPE CONCURSO: FUNPRESP CARGO: ESPECIALISTA ÁREA:
+25. ANO: 2016 BANCA: CESPE CONCURSO: FUNPRESP CARGO: ESPECIALISTA ÁREA:
 TECNOLOGIA DA INFORMAÇÃO (TI)
 
 Com relação à forma como os dados são armazenados e manipulados no desenvolvimento de
@@ -4609,14 +4508,13 @@ identificador
 
 Comentários: Abaixo analisaremos cada uma das alternativas.
 
-Item. 69. A alternativa vai exigir conhecimento sobre os modelos de armazenamento utilizados
+69. A alternativa vai exigir conhecimento sobre os modelos de armazenamento utilizados
 por
 bancos de dados NoSQL. Quando tratamos de bases de dados NoSQL podemos classifica-las
 em quatro diferentes tipos, dois deles são citados na questão:
 
 Chave/valor (Key/Value): conhecidos como tabelas de hash distribuídas. Armazenam objetos
 indexados por chaves, e facilita a busca por esses objetos a partir de suas chaves.
-
 
 Orientado a Grafos: diferente de outros bancos de dados NoSQL, esse está
 diretamente
@@ -4641,7 +4539,7 @@ CAIU
 
 na prova!
 
-Item. 26. ANO: 2016 BANCA: CESPE CONCURSO: FUNPRESP CARGO: ESPECIALISTA ÁREA:
+26. ANO: 2016 BANCA: CESPE CONCURSO: FUNPRESP CARGO: ESPECIALISTA ÁREA:
 TECNOLOGIA DA INFORMAÇÃO (TI)
 
 A respeito dos fundamentos e das principais tecnologias relacionadas à
@@ -4692,12 +4590,11 @@ Hadoop
 quanto ElastichSearch são ferramentas que contribuem para a infraestrutura para provimento
 de serviços de computação na nuvem. Sendo assim alternativa encontra-se correta.
 
-Item. 91. O uso das ferramentas citadas no item anterior vai permitir um grande paralelismo
+91. O uso das ferramentas citadas no item anterior vai permitir um grande paralelismo
 no
 processamento por meio da distribuição entre os diferentes nós ou hosts do sistema.
 Mais uma
 alternativa correta.
 
 Gabarito: C C
-
 

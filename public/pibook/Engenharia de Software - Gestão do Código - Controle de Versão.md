@@ -1,27 +1,24 @@
-Capítulo. Engenharia de Software - Gestão do Código - Controle de Versão.
-
+# Engenharia de Software - Gestão do Código - Controle de Versão.
 
 A gestão do código e o controle de versão são aspectos fundamentais da engenharia de software. O controle de versão é o processo de acompanhar e gerenciar as alterações feitas no código-fonte e em outros artefatos do software ao longo do tempo. Ele permite que os desenvolvedores colaborem de forma eficiente, acompanhem o histórico de alterações, revertam para versões anteriores e gerenciem ramificações de desenvolvimento. O controle de versão é frequentemente realizado usando sistemas de controle de versão, como Git, SVN (Subversion) e Mercurial. Aqui estão alguns conceitos e práticas relacionados à gestão do código e controle de versão:
 
-Item. 1. Repositório: Um repositório é um local centralizado onde todas as versões do código-fonte e outros artefatos do software são armazenados. Ele permite que os desenvolvedores acessem e gerenciem o código de maneira colaborativa. Um repositório pode ser local, em uma máquina específica, ou remoto, hospedado em um servidor.
+1. Repositório: Um repositório é um local centralizado onde todas as versões do código-fonte e outros artefatos do software são armazenados. Ele permite que os desenvolvedores acessem e gerenciem o código de maneira colaborativa. Um repositório pode ser local, em uma máquina específica, ou remoto, hospedado em um servidor.
 
-Item. 2. Commits: Um commit é uma operação na qual as alterações feitas em um repositório são registradas. Ao fazer um commit, as alterações são adicionadas ao histórico do controle de versão e ficam disponíveis para outros desenvolvedores. Cada commit é geralmente acompanhado de uma mensagem descritiva que resume as alterações realizadas.
+2. Commits: Um commit é uma operação na qual as alterações feitas em um repositório são registradas. Ao fazer um commit, as alterações são adicionadas ao histórico do controle de versão e ficam disponíveis para outros desenvolvedores. Cada commit é geralmente acompanhado de uma mensagem descritiva que resume as alterações realizadas.
 
-Item. 3. Ramificações (Branches): As ramificações permitem que diferentes linhas de desenvolvimento ocorram simultaneamente no mesmo repositório. As ramificações são úteis para trabalhar em recursos separados, correções de bugs ou versões de lançamento, enquanto mantêm uma linha principal (geralmente chamada de branch "master" ou "main") estável.
+3. Ramificações (Branches): As ramificações permitem que diferentes linhas de desenvolvimento ocorram simultaneamente no mesmo repositório. As ramificações são úteis para trabalhar em recursos separados, correções de bugs ou versões de lançamento, enquanto mantêm uma linha principal (geralmente chamada de branch "master" ou "main") estável.
 
-Item. 4. Mesclagem (Merging): A mesclagem é o processo de combinar as alterações de uma ramificação para outra. Quando uma nova funcionalidade é concluída em uma ramificação de desenvolvimento, por exemplo, ela pode ser mesclada de volta para a ramificação principal para incorporar as alterações ao código estável.
+4. Mesclagem (Merging): A mesclagem é o processo de combinar as alterações de uma ramificação para outra. Quando uma nova funcionalidade é concluída em uma ramificação de desenvolvimento, por exemplo, ela pode ser mesclada de volta para a ramificação principal para incorporar as alterações ao código estável.
 
-Item. 5. Conflitos de Mesclagem (Merge Conflicts): Conflitos de mesclagem ocorrem quando duas ou mais alterações incompatíveis são feitas em um mesmo trecho de código. Isso geralmente acontece quando duas ramificações têm modificações conflitantes no mesmo arquivo. Resolver os conflitos de mesclagem requer a intervenção manual do desenvolvedor para decidir quais alterações manter ou combinar.
+5. Conflitos de Mesclagem (Merge Conflicts): Conflitos de mesclagem ocorrem quando duas ou mais alterações incompatíveis são feitas em um mesmo trecho de código. Isso geralmente acontece quando duas ramificações têm modificações conflitantes no mesmo arquivo. Resolver os conflitos de mesclagem requer a intervenção manual do desenvolvedor para decidir quais alterações manter ou combinar.
 
-Item. 6. Controle de Versão Distribuído: Em sistemas de controle de versão distribuídos, como o Git, cada desenvolvedor tem uma cópia local completa do repositório. Isso permite que os desenvolvedores trabalhem offline, criem ramificações e experimentem livremente. As alterações podem ser compartilhadas entre as cópias locais e os repositórios remotos por meio de operações de push (enviar) e pull (receber).
+6. Controle de Versão Distribuído: Em sistemas de controle de versão distribuídos, como o Git, cada desenvolvedor tem uma cópia local completa do repositório. Isso permite que os desenvolvedores trabalhem offline, criem ramificações e experimentem livremente. As alterações podem ser compartilhadas entre as cópias locais e os repositórios remotos por meio de operações de push (enviar) e pull (receber).
 
 A gestão do código e o controle de versão são práticas essenciais para o desenvolvimento de software colaborativo e eficiente. Eles fornecem rastreabilidade, histórico de alterações e suporte para trabalho em equipe. Utilizar um sistema de controle de versão adequado e seguir as melhores práticas de gestão do código ajudará a evitar problemas de colaboração, facilitar a manutenção e melhorar a qualidade do software.
-
 
 Um sistema de controle de versões (ou versionamento), VCS (do inglês version control system) ou ainda SCM (do inglês source code management) na função prática da Ciência da Computação e da Engenharia de Software, é um software que tem a finalidade de gerenciar diferentes versões no desenvolvimento de um documento qualquer. Esses sistemas são comumente utilizados no desenvolvimento de software para controlar as diferentes versões — histórico e desenvolvimento — dos códigos-fontes e da documentação.
 
 Entre os mais comuns encontram-se as soluções livres: CVS, Mercurial, Git e SVN (Subversion); e as comerciais: SourceSafe, TFS, PVCS (Serena) e ClearCase. O desenvolvimento de software livre utiliza mais o Git (com repositórios no GitHub), que vem substituindo o SVN, que por sua vez é um sucessor do CVS. Muitas empresas também adotam o Git (como a Microsoft com o código fonte do Windows) ou o SVN, embora algumas empresas prefiram uma solução comercial, optando pelo ClearCase (da IBM) ou Team Foundation Server (da Microsoft). Optar por uma solução comercial geralmente está relacionada à garantia, pois as soluções livres não se responsabilizam por erros no software e perdas de informações, Porém as soluções livres podem ter melhor desempenho e segurança que as comerciais. As soluções comerciais apesar de supostas garantias adicionais, não garantem o sucesso da implementação nem indenizam por qualquer tipo de erro mesmo que comprovadamente advindo do software.
-
 
 Principais vantagens
 
@@ -93,7 +90,6 @@ A principal diferença entre o Git e qualquer outro SCV (Subversion e similares)
 
 O Git não trata nem armazena seus dados desta forma. Em vez disso, o Git trata seus dados mais como um conjunto de imagens de um sistema de arquivos em miniatura. Toda vez que você fizer um commit, ou salvar o estado de seu projeto no Git, ele basicamente captura uma foto de todos os seus arquivos e armazena uma referência para esse conjunto de arquivos. Para ser eficiente, se os arquivos não foram alterados, o Git não armazena o arquivo novamente, apenas um link para o arquivo idêntico anterior já armazenado. O Git trata seus dados mais como um fluxo do estado dos arquivos.
 
-
 Esta é uma diferença importante entre o Git e quase todos os outros SCVs. Isto faz o Git reconsiderar quase todos os aspectos de controle de versão que a maioria dos outros sistemas copiaram da geração anterior. Isso faz com que o Git seja mais como um minissistema de arquivos com algumas ferramentas incrivelmente poderosas, ao invés de simplesmente um SCV. Vejamos alguns dos benefícios que você ganha ao tratar seus dados desta forma quando cobrirmos ramificações no Git.
 
 Quase Todas as Operações são locais
@@ -126,91 +122,70 @@ A área de preparo é um arquivo, geralmente contido em seu diretório Git, que 
 
 O fluxo de trabalho básico Git é algo assim:
 
-Item. 1. Você modifica arquivos no seu diretório de trabalho.
-Item. 2. Você prepara os arquivos, adicionando imagens deles à sua área de preparo.
-Item. 3. Você faz commit, o que leva os arquivos como eles estão na área de preparo e armazena essas imagens de forma permanente para o diretório do Git.
+1. Você modifica arquivos no seu diretório de trabalho.
+2. Você prepara os arquivos, adicionando imagens deles à sua área de preparo.
+3. Você faz commit, o que leva os arquivos como eles estão na área de preparo e armazena essas imagens de forma permanente para o diretório do Git.
 
 Se uma versão específica de um arquivo está no diretório Git, é considerado commited. Se for modificado, mas foi adicionado à área de preparo, é considerado preparado. E se ele for alterado depois de ter sido carregado, mas não foi preparado, ele é considerado modificado.
 
 Comandos GIT
 
-
 Pessoal, os comandos, com toda certeza, são os mais cobrados em provas! Portanto, tenha atenção redobrada!
-
 
 Criar novo repositório
 git init
 
-
 Verificar estado dos arquivos/diretórios
 git status
-
 
 Adicionar um arquivo em específico (staged area)
 
 git add meu_arquivo.txt
 
-
 Adicionar um diretório em específico
 git add meu_diretorio
-
 
 Adicionar todos os arquivos/diretórios
 git add .
 
-
 Adicionar um arquivo que esta listado no
 .gitignore (geral ou do repositório)
 
-
 git add - f arquivo_no_gitignore.txt
-
 
 Comitar um arquivo
 git commit meu_arquivo.txt
 
-
 Comitar vários arquivos
 git commit meu_arquivo.txt meu_outro_arquivo.txt
-
 
 Comitar informando mensagem
 git commit meuarquivo.txt - m " minha mensagem de commit "
 
-
 Remover arquivo
 git rm meu_arquivo.txt
-
 
 Remover diretório
 git rm - r diretorio
 
-
 Exibir histórico
 git log
-
 
 Exibir histórico com diff das duas últimas
 alterações
 git log - p - 2
 
-
 Exibir resumo do histórico (hash completa, autor, data, comentário e quantidade de alterações ( + / - ))
 
-
 git log -- stat
-
 
 Exibir informações resumidas em uma linha
 (hash completa e comentário)
 
-
 git log -- pretty = oneline
-
 
 Exibir histórico com formatação específica
 (hash abreviada, autor, data e comentário)
-
 
 git log -- pretty = format : " % h - % a n , % a r : % s "
 
@@ -222,88 +197,67 @@ git log -- pretty = format : " % h - % a n , % a r : % s "
 
 % s: Comentário.
 
-
 Exibir histório de um arquivo específico
 git log -- <caminho_do_arquivo>
-
 
 Exibir histórico de um arquivo específico
 que contêm uma determinada palavra
 git log -- summary - S <palavra> [ <caminho_do_arquivo> ]
 
-
 Exibir histórico modificação de um arquivo
 git log -- diff-filter = M -- <caminho_do_arquivo>
-
 
 Exibir revisão e autor da última modificação de uma bloco de linhas
 git blame - L 12 , 22 meu_arquivo.txt
 
-
 Desfazendo alteração local (working directory)
 
-
 git checkout -- meu_arquivo.txt
-
 
 Desfazendo alteração local (staging area)
 
 git reset HEAD meu_arquivo.txt
 
-
 Exibir os repositórios remotos
 git remote
 git remote - v
 
-
 Vincular repositório local com um repositório remoto
 git remote add origin git @ github . com : usuario / repositorio
-
 
 Exibir informações dos repositórios remotos
 git remote show origin
 
-
 Renomear um repositório remoto
 git remote rename origin curso-git
-
 
 Desvincular um repositório remoto
 git remote rm curso-git
 
-
 Enviar arquivos/diretórios para o repositório remoto
 git push - u origin master
-
 
 Listar configurações
 git config -- list
 
-
 Setar usuário
 git config -- global user . name "nome"
-
 
 Setar editor
 git config -- global core . editor vim
 
-
 Setar ferramenta de merge
 git config -- global merge . tool vimdiff
 
-
 Atualizar os arquivos no branch atual
 git pull
-
 
 Buscar as alterações, mas não aplica-las no
 branch atual
 git fetch
 
-
 Clonar um repositório remoto já existente
 git clone git @ <caminho_do_arquivo>
-
 
 Usa busca binária para encontrar o commit
 que introduziu um bug

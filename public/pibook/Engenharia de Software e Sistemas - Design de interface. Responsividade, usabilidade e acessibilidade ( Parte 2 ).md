@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Design de interface. Responsividade, usabilidade e acessibilidade ( Parte 2 ).
-
+# Engenharia de Software e Sistemas - Design de interface. Responsividade, usabilidade e acessibilidade ( Parte 2 ).
 
 Índice
 
@@ -18,7 +17,6 @@ Capítulo. Engenharia de Software e Sistemas - Design de interface. Responsivida
 7) Questões Comentadas - Projeto de Interface - Multibancas
 
 8) Lista de Questões - Projeto de Interface - Multibancas
-
 
 PRoJETo DE INTERFACE DE USUÁRIo
 
@@ -84,7 +82,6 @@ prototipação, criação de taxonomias, copywrite, brainstorms, testes de
 usuário, cultura
 organizacional, além - é claro - do design de interface, design visual e arte gráfica.
 
-
 Eu gosto de explicar isso da seguinte maneira: imaginem uma Lamborghini Galhardo, Ano
 2017 e
 amarela como a da imagem acima, mas eu troco o motor dela pelo motor de uma
@@ -103,7 +100,6 @@ imponente, por
 outro lado ele vai me proporcionar momentos muito divertidos ao dirigi-la, ultrapassando
 todos os
 carros da cidade!
-
 
 Galera, é claro que isso é apenas um exemplo! Nós sabemos que são carros distintos
 de momentos
@@ -140,11 +136,9 @@ legal de tudo: esse prêmio existe desde 1997! Velho, eu fico horas brincando co
 essas coisas, é
 legal demais ver a evolução!;)
 
-
 HYPER ISLAND
 
 UM MAPA DO AMBIENTE
-
 
 APRESENTA
 
@@ -180,7 +174,6 @@ DESIGNERS PARA TRADUZIREM AS
 NECESSIDADES EM REQUERIMENTOS*
 
 f Inaki Arnate
-
 
 73%
 
@@ -251,7 +244,6 @@ RozThomas
 Sócio-Diretor d* PI»n*i»m«n(0
 do E«pO'>4<Ki». 0«r*
 
-
 Estilos de User Interface
 
 INCIDÊNCIA EM PROVA: BAIXA
@@ -291,7 +283,6 @@ quase sem) efeitos de volume, sombras e texturas. Simultaneamente ao avanço das
 tecnologias
 e do uso cada vez mais comum das interfaces digitais, diminuiu intensamente a utilização do
 
-
 Skeumorfismo e aumentou a aplicação do Flat Design. Ainda hoje é um estilo bastante
 utilizado e
 admirado porvários usuários.
@@ -304,13 +295,11 @@ TEST RIDE
 * X Easy and friendly
 employee time tracking.
 
-
 1 1
 
 The fastest growing agencies use time tracking system to make
 
 O
-
 
 1.1
 
@@ -358,7 +347,6 @@ Weight 2Mb
 
 Powct Gl.OW SHOT1
 
-
 Outro fator preponderante para a popularização do Flat Design foi o conceito
 de design
 responsivo, pois ele é muito mais maleável e adaptável que o skeumorfismo. É mais
@@ -381,7 +369,6 @@ boa tipografia,
 e moderno.
 Além disso, observem que ele utiliza formas geométricas básicas, como quadrados e retângulos.
 
-
 Start
 
 Mail
@@ -399,9 +386,7 @@ Latest News -
 
 rm
 
-
 Store
-
 
 People
 
@@ -415,7 +400,6 @@ Sports
 Cape Town, South
 África
 
-
 Messaging
 
 Video SkyDrive
@@ -424,7 +408,6 @@ Xbox UVE Games
 O
 
 lil
-
 
 Desktop Weather
 
@@ -442,7 +425,6 @@ bom design com
 inovação. A interação dos princípios de movimento e luz é utilizada para compor a
 movimentação
 dos objetos. Entendido?
-
 
 Uma melhoria nos cards que estrearam no Google Now, o Material Design faz um uso
 mais liberal
@@ -472,7 +454,6 @@ Microsoft o que o Material Design seria para a Google, que agora define a aparê
 do sistema
 operacional e aplicativos oficiais.
 
-
 12:34 PM
 
 Wednesday
@@ -491,14 +472,11 @@ c.
 
 » t 3
 
-
 3 4 5
-
 
 6 7 8 9
 
 3 3 *
-
 
 Wealher 340 Cworm*
 
@@ -509,7 +487,6 @@ Wealher 340 Cworm*
 12 13 14 15 1
 
 3 3 3 1
-
 
 UO 17 18
 
@@ -531,7 +508,6 @@ n I II
 
 HTTPS://FLUENT.MICROSOFT.COM
 
-
 Princípios de Interface Com Usuário
 
 INCIDÊNCIA EM PROVA: ALTA
@@ -548,9 +524,9 @@ três regras de ouro:
 
 í. Deixar o usuário no comando;
 
-Item. 2. Reduzir a carga de memória do usuário;
+2. Reduzir a carga de memória do usuário;
 
-Item. 3. Tornar a interface consistente.
+3. Tornar a interface consistente.
 
 Essas regras formam, na verdade, a base para um conjunto de princípios para o projeto
 de interfaces
@@ -588,7 +564,6 @@ de projeto que permitem a um usuário manter o controle.
 
 PRINCÍPIOS | DESCRIÇÃO
 
-
 DEFINA MODOS DE INTERAÇÃO
 PARA NÃO FORÇAR 0 USUÁRIO A
 
@@ -603,7 +578,6 @@ entra no modo de correção ortográfica. Não há nenhuma razão para forçar 0
 a permanecer no modo de revisão ortográfica se ele quer apenas fazer uma pequena
 edição de texto no meio do caminho. O usuário deve ser capaz de entrar e sair desse
 modo com pouco ou nenhum esforço.
-
 
 PROPORCIONE INTERAÇÃO
 
@@ -667,7 +641,6 @@ PRINCÍPIOS | DESCRIÇÃO
 
 Quando os usuários estão envolvidos em tarefas complexas, a demanda de memória
 
-
 REDUZA A DEMANDA DE
 MEMÓRIA RECENTE
 
@@ -691,7 +664,6 @@ Quando forem usados mnemónicos para realizar alguma função de sistema (por
 exemplo, Alt-P para chamar a função de impressão), esse mnemónico deve estar
 ligado à ação de uma forma que seja fácil de ser memorizada (por exemplo, a
 primeira letra da tarefa a ser solicitada).
-
 
 OLAYOUTVISUALDA
 INTERFACE DEVE SE BASEAR NA
@@ -726,7 +698,6 @@ tarefa a outra são definidos e implementados de maneira consistente. Os princí
 PRINCÍPIOS | DESCRIÇÃO
 
 Muitas interfaces implementam camadas de interações complexas com dezenas de
-
 
 PERMITA AO USUÁRIO INSERIR A
 
@@ -766,7 +737,6 @@ abaixo apresenta esses princípios:
 
 PRINCÍPIOS (SWEBOK) | DESCRIÇÃO
 
-
 CAPACIDADE DE APRENDIZADO
 
 (LEARNABILITY)
@@ -778,7 +748,6 @@ começar a trabalhar com ele.
 
 A interface deve usar termos e conceitos obtidos da experiência das pessoas que
 mais farão uso do software.
-
 
 A interface deve ser consistente de forma que, sempre que possível, operações
 comparáveis sejam acionadas da mesma maneira.
@@ -794,7 +763,6 @@ fornecer ajudas relacionadas ao contexto para os usuários.
 
 A interface deve fornecer mecanismos de interação apropriados para diversos tipos
 de usuários com necessidades especiais (cegos, visão parcial, surdos, daltônicos, etc).
-
 
 Ergonomia e Usabilidade
 
@@ -830,7 +798,6 @@ forma a usabilidade. Os critérios ergonômicos visam minimizar a ambiguidade na
 identificação e
 classificação das qualidades e problemas ergonômicos do software interativo:
 
-
 CRITÉRIOS
 ERGONÔMICOS
 
@@ -839,7 +806,6 @@ CONDUÇÃO
 DESCRIÇÃO
 
 Visa favorecer o aprendizado e a utilização do sistema por usuários novatos.
-
 
 CARGA DE
 TRABALHO
@@ -862,13 +828,11 @@ Qualidade particular do sistema com público-alvo vasto e variado, onde uma úni
 interface
 não pode atender plenamente todos os diferentes usuários.
 
-
 GESTÃO DE ERROS
 
 São situações em que as ações do usuário estão sujeitas a erros de grande
 responsabilidade
 com perda de dados, dinheiro ou colocando em risco a saúde das pessoas.
-
 
 HOMOGENEIDADE E
 
@@ -886,12 +850,10 @@ empregar estratégias desenvolvidas na interação com outras telas de um mesmo 
 códigos
 não significativos podem levar os usuários a cometer erros como a escolha da opção errada.
 
-
 COMPATIBILIDADE
 
 Favorece tanto o aprendizado como a utilização eficiente do sistema por usuários experientes
 em suas tarefas.
-
 
 Wireframes
 
@@ -933,7 +895,6 @@ criados com a finalidade de organizar elementos para atingir melhor um propósit
 específico. O
 objetivo geralmente está sendo relacionado ao objetivo comercial e a uma ideia criativa. O
 
-
 wireframe representa o layout da página ou o arranjo do conteúdo do site, incluindo
 elementos de
 interface e sistemas de navegação, e como eles funcionam juntos. E
@@ -961,7 +922,6 @@ disponíveis; as prioridades relativas das informações e funções; as regras 
 certos tipos de
 informação; e os efeitos de diferentes cenários em tela.
 
-
 O wireframe do site conecta a estrutura conceituai subjacente, ou arquitetura
 da informação, à
 superfície ou ao design visual do site. Eles ajudam a estabelecer a
@@ -981,7 +941,6 @@ com uma
 frequência maior nas últimas provas. Imagino que só ganhará importância futuramente.
 Vamos
 para os exercícios agora...
-
 
 RESUMo
 
@@ -1013,14 +972,12 @@ Utiliza
 muitos artifícios como texturas, sombras, gradientes, proporções, entre outros,
 para
 
-
 SKEUMORFISMO
 
 simular os objetos do nosso cotidiano. Esse estilo foi disseminado pela Apple na década
 de 1980 ao criar interfaces gráficas em que 0 usuário pudesse interagir e
 executar
 comandos no computador sem a necessidade de digitar códigos.
-
 
 FLAT DESIGN
 
@@ -1030,7 +987,6 @@ poucos (ou quase sem) efeitos de volume, sombras e texturas. Simultaneamente ao
 avanço das tecnologias e do uso cada vez mais comum das interfaces digitais, diminuiu
 intensamente a utilização do Skeumorfismo e aumentou a aplicação do Flat Design.
 Ainda hoje é um estilo bastante utilizado e admirado por vários usuários.
-
 
 METRO DESIGN
 
@@ -1066,7 +1022,6 @@ define a aparência do sistema operacional e aplicativos oficiais.
 REGRA DE OUR01: DEIXAR 0 USUÁRIO NO COMANDO
 
 PRINCÍPIOS | DESCRIÇÃO
-
 
 DEFINA MODOS DE INTERAÇÃO
 PARA NÃO FORÇAR 0 USUÁRIO A
@@ -1121,7 +1076,6 @@ A interface do usuário deve levá-lo ao o mundo virtual da aplicação. O usuá
 deve se preocupar com o sistema operacional, as funções de arquivos ou alguma
 outra tecnologia computacional enigmática.
 
-
 PROJETE PARA INTERAÇÃO
 DIRETA COM OBJETOS QUE
 APARECEM NA TELA
@@ -1138,7 +1092,6 @@ REGRA DE OURO 2: REDUZIR A CARGA DE MEMÓRIA DO USUÁRIO
 PRINCÍPIOS | DESCRIÇÃO
 
 Quando os usuários estão envolvidos em tarefas complexas, a demanda de memória
-
 
 REDUZA A DEMANDA DE
 MEMÓRIA RECENTE
@@ -1188,7 +1141,6 @@ PRINCÍPIOS | DESCRIÇÃO
 
 Muitas interfaces implementam camadas de interações complexas com dezenas de
 
-
 PERMITA AO USUÁRIO INSERIR A
 
 TAREFA ATUAL EM UM
@@ -1214,7 +1166,6 @@ regras de projeto de modo que a consistência seja mantida para toda a interaç�
 Uma vez que determinada sequência interativa tenha se tornado um padrão de fato
 (por exemplo, o uso de Alt-S para salvar um arquivo), o usuário pressupõe que isso
 
-
 EXPECTATIVA NOS USUÁRIOS,
 NÃO FAÇA ALTERAÇÕES A
 MENOS QUE HAJA UMA FORTE
@@ -1225,7 +1176,6 @@ vai ocorrer em qualquer aplicação que vá utilizar. Uma mudança (por exemplo,
 Alt-S para chamar uma função de escala) vai causar confusão.
 
 PRINCÍPIOS ISWEBOKJ | DESCRIÇÃO
-
 
 CAPACIDADE DE APRENDIZADO
 
@@ -1270,7 +1220,6 @@ fornecer ajudas relacionadas ao contexto para os usuários.
 A interface deve fornecer mecanismos de interação apropriados para diversos tipos
 de usuários com necessidades especiais (cegos, visão parcial, surdos, daltônicos, etc).
 
-
 CRITÉRIOS
 ERGONÔMICOS
 
@@ -1279,7 +1228,6 @@ CONDUÇÃO
 DESCRIÇÃO
 
 Visa favorecer o aprendizado e a utilização do sistema por usuários novatos.
-
 
 CARGA DE
 TRABALHO
@@ -1302,13 +1250,11 @@ Qualidade particular do sistema com público-alvo vasto e variado, onde uma úni
 interface
 não pode atender plenamente todos os diferentes usuários.
 
-
 GESTÃO DE ERROS
 
 São situações em que as ações do usuário estão sujeitas a erros de grande
 responsabilidade
 com perda de dados, dinheiro ou colocando em risco a saúde das pessoas.
-
 
 HOMOGENEIDADE E
 
@@ -1325,7 +1271,6 @@ empregar estratégias desenvolvidas na interação com outras telas de um mesmo 
 É a adequação entre a informação apresentada ou pedida e a referência na interface,
 códigos
 não significativos podem levar os usuários a cometer erros como a escolha da opção errada.
-
 
 COMPATIBILIDADE
 
@@ -1349,7 +1294,6 @@ ser um objeto, modelo,
 entre outros) deverá conter.
 
 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
-
 
 QUESTõES CoMENTADoS - DIVERSAS BANCAS
 
@@ -1377,7 +1321,7 @@ identificados e corrigidos antes da implementação, melhorando a experiência d
 
 Gabarito: Correto
 
-Item. 2. (IFB / IFB - 2017) Avalie as afirmativas abaixo sobre o projeto de interface com usuário.
+2. (IFB / IFB - 2017) Avalie as afirmativas abaixo sobre o projeto de interface com usuário.
 
 I) Deixar o usuário no comando, reduzir a carga de memória do usuário e tornar a
 interface
@@ -1409,7 +1353,6 @@ e) III, IV, V.
 
 Comentários:
 
-
 MANTENHA A
 CONSISTÊNCIA EM UMA
 LINHA DE PRODUTOS
@@ -1418,7 +1361,6 @@ COMPLETA
 
 Uma família de aplicações (ou seja, linha de produtos) deve implementar as mesmas
 regras de projeto de modo que a consistência seja mantida para toda a interação.
-
 
 OLAYOUT VISUAL DA
 INTERFACE DEVE SE
@@ -1439,7 +1381,7 @@ quadrinho acima; (V) Correto, conforme vimos no quadrinho acima.
 
 Gabarito: Letra C
 
-Item. 3. (CESPE/TRE-BA-2017) Tendo em vista que, no desenvolvimento de um software, é possível
+3. (CESPE/TRE-BA-2017) Tendo em vista que, no desenvolvimento de um software, é possível
 implementar de diversas formas a interface com o usuário, assinale a opção correta.
 
 a) No estilo material design, a interação dos princípios de movimento e luz é
@@ -1472,10 +1414,9 @@ feita pelo designer de interface com o usuário; (e) Errado, eles não têm
 crescido na mesma
 proporção - o skeumorfismo diminuiu intensamente.
 
-
 Gabarito: Letra A
 
-Item. 4. (CESPE/TCE-PA-2016) O termo wireframe designa a estrutura de informações em um
+4. (CESPE/TCE-PA-2016) O termo wireframe designa a estrutura de informações em um
 banco
 de dados.
 
@@ -1488,7 +1429,7 @@ de acordo com as especificações relatadas.
 
 Gabarito: Letra E
 
-Item. 5. (FCC / AL-MS - 2016) Após a concepção mental de uma página web é necessário
+5. (FCC / AL-MS - 2016) Após a concepção mental de uma página web é necessário
 criar um
 esquema básico da estrutura e dos componentes da página como um primeiro passo do seu
 design. Este esquema, que deve incluir informações suficientes para refletir o
@@ -1517,7 +1458,7 @@ barras laterais,
 
 Gabarito: Letra B
 
-Item. 6. (FCC / DPE-SP - 2015) Um Programador da Defensoria Pública do Estado de São
+6. (FCC / DPE-SP - 2015) Um Programador da Defensoria Pública do Estado de São
 Paulo foi
 designado para realizar o projeto da interface do usuário de um sistema. Ao seguir os
 princípios
@@ -1529,7 +1470,6 @@ a) o usuário seja forçado a realizar ações indesejadas, mesmo que o programa
 b) a interação com o usuário possa ser interrompida em algum ponto.
 
 c) o layout visual da interface seja baseado em uma metáfora do mundo real.
-
 
 d) seja mantida uma consistência de interações ao longo de uma família de aplicações.
 
@@ -1545,7 +1485,7 @@ que o programador as considere úteis.
 
 Gabarito: Letra A
 
-Item. 7. (FGV/CM-PE-2014) Protótipos auxiliam na elicitação e na validação dos requisitos de
+7. (FGV/CM-PE-2014) Protótipos auxiliam na elicitação e na validação dos requisitos de
 sistemas
 computacionais. Duas das técnicas muito utilizadas durante uma prototipação são:
 
@@ -1569,7 +1509,7 @@ wireframes.
 
 Gabarito: Letra C
 
-Item. 8. (FCC / DPE-SP - 2013) Sobre os princípios que orientam o projeto de interfaces
+8. (FCC / DPE-SP - 2013) Sobre os princípios que orientam o projeto de interfaces
 de usuário
 eficazes é correto afirmar:
 
@@ -1588,7 +1528,6 @@ com o sistema.
 c) Se modelos interativos anteriores tiverem criado expectativas nos usuários, porém
 são de
 difícil implementação, redefina esses modelos de forma a tornar a implementação mais fácil.
-
 
 d) Proporcione apenas um tipo de interação e treine os usuários para ele. Dê
 preferência pela
@@ -1612,7 +1551,7 @@ o sistema.
 
 Gabarito: Letra B
 
-Item. 9. (QUADRIX / CFP - 2012) No desenvolvimento da interface do usuário na web, esta
+9. (QUADRIX / CFP - 2012) No desenvolvimento da interface do usuário na web, esta
 imagem
 representa um:
 
@@ -1625,7 +1564,6 @@ elemento do
 layout e a sua relação com os demais elementos que formam o todo.
 
 c) Layout manager de uma interface de desenvolvimento contida no Adobe inDesign.
-
 
 d) Storyboard que mostra ao programador apenas como devem ser distribuídos os aspectos
 de
@@ -1666,7 +1604,6 @@ Visa favorecer o aprendizado e a utilização do sistema por usuários novatos.
 
 CONDUÇÃO
 
-
 CARGA DE
 TRABALHO
 
@@ -1688,13 +1625,11 @@ Qualidade particular do sistema com público-alvo vasto e variado, onde uma úni
 interface
 não pode atender plenamente todos os diferentes usuários.
 
-
 GESTÃO DE ERROS
 
 São situações em que as ações do usuário estão sujeitas a erros de grande
 responsabilidade
 com perda de dados, dinheiro ou colocando em risco a saúde das pessoas.
-
 
 HOMOGENEIDADE E
 
@@ -1770,13 +1705,11 @@ d) Estabelecer defaults (para escolhas e preenchimento de formulários) que faç
 para
 o usuário.
 
-
 e) Mostrar informações completas a priori, permitindo que o usuário reduza o
 nível de detalhe
 se desejar.
 
 Comentários:
-
 
 REDUZA A DEMANDA DE
 MEMÓRIA RECENTE
@@ -1787,7 +1720,6 @@ de
 recordar ações, entradas e resultados passados. Isso pode ser obtido pelo fornecimento
 de pistas visuais que permitam a um usuário reconhecer ações passadas, em vez de ter de
 se recordar delas.
-
 
 OLAYOUT VISUAL DA
 INTERFACE DEVE SE
@@ -1800,7 +1732,6 @@ cheques e registro de cheques para orientar o usuário pelo processo de pagament
 uma conta. Isso permite ao usuário se apoiar em indicações visuais bem compreensíveis,
 em vez de ter de memorizar uma sequência de interações misteriosa.
 
-
 POSSIBILITE QUE A
 INTERAÇÃO DE USUÁRIO
 POSSA SER INTERROMPIDA
@@ -1811,7 +1742,6 @@ Mesmo quando envolvido em uma sequência de ações, o usuário deve ser capaz d
 interromper a sequência para fazer alguma outra coisa (sem perder o trabalho que já
 havia feito). O usuário também deve ser capaz de "desfazer1 qualquer ação.
 
-
 ESTABELEÇA DEFAULTS
 
 SIGNIFICATIVOS
@@ -1820,7 +1750,6 @@ O conjunto de parâmetros iniciais (defaults) deve fazer sentido para o usuário
 porém um usuário também deve ser capaz de especificar suas preferências individuais.
 Entretanto, deve-se fornecer uma opção "reset" que permita o reestabelecimento dos
 valores-padrão originais.
-
 
 REVELE AS INFORMAÇÕES
 
@@ -1836,7 +1765,6 @@ Deve-se revelar as informações de maneira progressiva.
 
 Gabarito: Letra E
 
-
 LISTA DE QUESTõES - DIVERSAS BANCAS
 
 í. (CESPE / BANRISUL - 2022) Para criar e validar soluções de acordo com a
@@ -1845,7 +1773,7 @@ usuário, a prototipação com wireframes é adequada para representar a
 hierarquização da
 informação, o fluxo de navegação e interações de um determinado software.
 
-Item. 2. (IFB / IFB - 2017) Avalie as afirmativas abaixo sobre o projeto de interface com usuário.
+2. (IFB / IFB - 2017) Avalie as afirmativas abaixo sobre o projeto de interface com usuário.
 
 I) Deixar o usuário no comando, reduzir a carga de memória do usuário e tornar a
 interface
@@ -1875,7 +1803,7 @@ d) II, III, IV, V.
 
 e) III, IV, V.
 
-Item. 3. (CESPE/TRE-BA-2017) Tendo em vista que, no desenvolvimento de um software, é
+3. (CESPE/TRE-BA-2017) Tendo em vista que, no desenvolvimento de um software, é
 possível
 implementar de diversas formas a interface com o usuário, assinale a opção correta.
 
@@ -1891,7 +1819,6 @@ c) O design de interface com o usuário, também conhecido como UX, é responsá
 parte
 visual de um projeto e pela relação com o usuário.
 
-
 d) A atuação de um designer de interface com o usuário limita-se à apresentação do
 projeto,
 ficando a interação com o usuário para o desenvolvedor do software.
@@ -1900,11 +1827,11 @@ e) Embora o estilo flat design seja uma evolução do skeumorfismo, a utilizaç�
 dois
 estilos tem crescido na mesma proporção.
 
-Item. 4. (CESPE /TCE-PA-2016) O termo wireframe designa a estrutura de informações em um
+4. (CESPE /TCE-PA-2016) O termo wireframe designa a estrutura de informações em um
 banco
 de dados.
 
-Item. 5. (FCC / AL-MS - 2016) Após a concepção mental de uma página web é necessário
+5. (FCC / AL-MS - 2016) Após a concepção mental de uma página web é necessário
 criar um
 esquema básico da estrutura e dos componentes da página como um primeiro passo do seu
 design. Este esquema, que deve incluir informações suficientes para refletir o
@@ -1923,7 +1850,7 @@ d) Scenery.
 
 e) Escope.
 
-Item. 6. (FCC / DPE-SP - 2015) Um Programador da Defensoria Pública do Estado de São
+6. (FCC / DPE-SP - 2015) Um Programador da Defensoria Pública do Estado de São
 Paulo foi
 designado para realizar o projeto da interface do usuário de um sistema. Ao seguir os
 princípios
@@ -1942,7 +1869,7 @@ e) seja reduzida a demanda de memória do usuário, mesmo que o programador
 queira
 simplificar a interface.
 
-Item. 7. (FGV/CM-PE-2014) Protótipos auxiliam na elicitação e na validação dos requisitos de
+7. (FGV/CM-PE-2014) Protótipos auxiliam na elicitação e na validação dos requisitos de
 sistemas
 computacionais. Duas das técnicas muito utilizadas durante uma prototipação são:
 
@@ -1954,10 +1881,9 @@ c) prototipação em papel e wireframes;
 
 d) mockups e pesquisa de mercado;
 
-
 e) entrevistas e pesquisa de mercado.
 
-Item. 8. (FCC / DPE-SP - 2013) Sobre os princípios que orientam o projeto de interfaces de usuário
+8. (FCC / DPE-SP - 2013) Sobre os princípios que orientam o projeto de interfaces de usuário
 eficazes é correto afirmar:
 
 a) Os projetistas de software devem introduzir restrições e limitações para
@@ -1988,9 +1914,8 @@ o usuário saiba devem ser apresentadas todas de uma única vez, mesmo que o usu
 não
 demonstre interesse imediato por elas.
 
-Item. 9. (QUADRIX / CFP - 2012) No desenvolvimento da interface do usuário na web, esta imagem
+9. (QUADRIX / CFP - 2012) No desenvolvimento da interface do usuário na web, esta imagem
 representa um:
-
 
 a) Logoframe estático gerado automaticamente pelo Adobe Fireworks como protótipo
 visual
@@ -2027,7 +1952,7 @@ e) a interface deve atender completamente a todos os tipos de usuários, inclusi
 aqueles que
 não fazem parte do público-alvo para o qual a interface foi desenvolvida.
 
-Item. 11. (FCC/TCE-PR-2011) A terminologia e os conceitos aplicados em uma interface de usuário que
+11. (FCC/TCE-PR-2011) A terminologia e os conceitos aplicados em uma interface de usuário que
 afetam o design da interface estão associados ao fator:
 
 a) experiência com o computador.
@@ -2049,7 +1974,6 @@ b) Basear o layout visual em uma metáfora do mundo real.
 
 c) Permitir que a interação com o usuário seja interruptível e possa ser desfeita (undo).
 
-
 d) Estabelecer defaults (para escolhas e preenchimento de formulários) que façam sentido
 para
 o usuário.
@@ -2058,31 +1982,29 @@ e) Mostrar informações completas a priori, permitindo que o usuário reduza o 
 detalhe
 se desejar.
 
-
 GABARITo - DIVERSAS BANCAS
 
-Item. 1. CORRETO
+1. CORRETO
 
-Item. 2. LETRA E
+2. LETRA E
 
-Item. 3. LETRA B
+3. LETRA B
 
-Item. 4. LETRA B
+4. LETRA B
 
-Item. 5. LETRA A
+5. LETRA A
 
-Item. 6. LETRA C
+6. LETRA C
 
-Item. 7. LETRA A
+7. LETRA A
 
-Item. 8. LETRA E
+8. LETRA E
 
 g. LETRA B
 
-Item. 10. LETRA C
+10. LETRA C
 
-Item. 11. LETRA E
+11. LETRA E
 
-Item. 12. LETRA E
-
+12. LETRA E
 

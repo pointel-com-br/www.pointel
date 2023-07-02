@@ -1,9 +1,8 @@
-Capítulo. Desenvolvimento de Software - Estrutura de Arquivos.
-
+# Desenvolvimento de Software - Estrutura de Arquivos.
 
 No desenvolvimento de software, a estrutura de arquivos é uma parte essencial para organizar e gerenciar os diferentes elementos relacionados ao projeto. Embora a estrutura possa variar dependendo da tecnologia, linguagem de programação e preferências da equipe, existem alguns elementos comuns que podem ser considerados. Vou descrever uma estrutura básica que pode ser utilizada como ponto de partida:
 
-Item. 1. Diretório Raiz:
+1. Diretório Raiz:
 O diretório raiz do projeto é o nível superior da estrutura de arquivos e geralmente tem o nome do projeto. Ele contém todos os outros diretórios e arquivos relacionados ao projeto. Alguns diretórios comuns encontrados no diretório raiz são:
 
 - `src` ou `source`: Este diretório contém o código-fonte do projeto, organizado em subdiretórios lógicos, como módulos, pacotes ou componentes.
@@ -13,7 +12,7 @@ O diretório raiz do projeto é o nível superior da estrutura de arquivos e ger
 - `lib` ou `libraries`: Este diretório é usado para armazenar bibliotecas de terceiros ou dependências externas usadas pelo projeto.
 - `build` ou `dist`: Se o projeto for compilado ou construído em um formato distribuível, os arquivos resultantes podem ser colocados neste diretório.
 
-Item. 2. Estrutura do Código-fonte:
+2. Estrutura do Código-fonte:
 Dentro do diretório `src` ou `source`, é importante organizar o código-fonte de forma lógica e consistente. A estrutura pode variar dependendo da linguagem de programação e das necessidades do projeto, mas aqui estão algumas sugestões comuns:
 
 - `models` ou `entities`: Contém as classes que representam os modelos de dados ou objetos de domínio.
@@ -24,10 +23,10 @@ Dentro do diretório `src` ou `source`, é importante organizar o código-fonte 
 
 Novamente, essas são apenas sugestões e a estrutura pode variar dependendo da tecnologia, arquitetura e preferências da equipe.
 
-Item. 3. Controle de Versão:
+3. Controle de Versão:
 É uma prática comum usar sistemas de controle de versão, como Git, para gerenciar o código-fonte do projeto. O diretório `.git` é criado na raiz do projeto para rastrear as alterações, histórico e colaboração em equipe.
 
-Item. 4. Outros arquivos:
+4. Outros arquivos:
 Além dos diretórios mencionados acima, um projeto de software também pode incluir outros arquivos essenciais, como:
 
 - `README`: Um arquivo de texto que contém informações sobre o projeto, como instruções de instalação, configuração e uso.
@@ -36,7 +35,6 @@ Além dos diretórios mencionados acima, um projeto de software também pode inc
 - `config.xml` ou `app.config`: Exemplos de arquivos de configuração específicos de tecnologia ou framework.
 
 Essa é uma estrutura de arquivos básica que pode ser adaptada de acordo com as necessidades do projeto e as práticas de desenvolvimento adotadas. É importante manter a estrutura organizada, consistente e bem documentada para facilitar a colaboração entre os membros da equipe e garantir a manutenção e evolução eficientes do software.
-
 
 É senso comum que há a necessidade de salvar ou guardar nossos dados ou programas. E onde podemos fazer isso? Em geral, em dispositivos persistentes (Discos, PenDrive, Fitas, etc). O armazenamento de pequenos volumes de dados, via de regra, não encerra grandes problemas no que diz respeito à distribuição dos registros dentro de um arquivo.
 À medida que cresce o volume de dados, a frequência ou a complexidade dos acessos, crescem também os problemas de eficiência do armazenamento dos arquivos e do acesso a seus registros, sendo a sofisticação das técnicas de armazenamento e recuperação de dados uma consequência da necessidade de acesso rápido a grandes arquivos ou arquivos muito solicitados.

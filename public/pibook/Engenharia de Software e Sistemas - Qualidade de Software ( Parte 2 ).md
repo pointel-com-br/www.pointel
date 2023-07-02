@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Qualidade de Software ( Parte 2 ).
-
+# Engenharia de Software e Sistemas - Qualidade de Software ( Parte 2 ).
 
 Índice
 
@@ -34,7 +33,6 @@ Capítulo. Engenharia de Software e Sistemas - Qualidade de Software ( Parte 2 )
 15) Listade Questões - Testes de Software - FGV
 
 16) Listade Questões - Testes de Software - Diversas.
-
 
 Conceitos Básicos
 
@@ -78,7 +76,6 @@ de teste
 para expor defeitos. Os casos de teste podem ser obscuros e não precisam refletir
 como o sistema
 é usado normalmente.
-
 
 (FCC - TRFZj - Analista Judiciário - Item III) A única meta do teste de software é
 descobrir falhas ou defeitos no software que apresenta comportamento incorreto,
@@ -149,13 +146,11 @@ satisfazem os requisitos especificados e demonstrar que estão aptos para sua fi
 e
 detecção de defeitos.
 
-
 Interessante! No entanto, o que define um bom teste? Bem, existem quatro
 características que nos
 ajudam a classificar um teste como bom. São elas:
 
 CARACTERÍSTICAS | DESCRIÇÃO
-
 
 UM BOM TESTE TEM ALTA
 PROBABILIDADE DE
@@ -172,7 +167,6 @@ que as classes de falhas sejam investigadas.
 O tempo e os recursos de teste são limitados. Não tem sentido realizar um teste que
 tenha a mesma finalidade de outro teste. Cada teste deve ter uma finalidade diferente
 (mesmo que seja sutilmente diferente).
-
 
 UM BOM TESTE DEVERÁ SER
 "0 MELHOR DA RAÇA"
@@ -222,9 +216,7 @@ Ao longo de diversos anos, a Engenharia de Software evoluiu bastante, de modo a
 sugerir
 alguns princípios que guiam os Testes de Software. Ao todo, são sete princípios fundamentais:
 
-
 PRINCÍPIOS FUNDAMENTAIS | DESCRIÇÃO
-
 
 TESTES DEMONSTRAM A
 PRESENÇA DE DEFEITOS...
@@ -359,7 +351,6 @@ Dessa forma, um engenheiro de software deve projetar e implementar um sistema
 ou produto
 tendo em mente a testabilidade. O que seria isso, Diego?
 
-
 Cara, a testabilidade é definida como a facilidade com que um programa de computador
 pode ser
 testado. As seguintes características levam a um software testável:
@@ -416,7 +407,6 @@ e) observabilidade.
 Comentários: a questão trata da operabilidade - "quanto melhorfunciona, mais eficientemente pode
 ser testado" (Letra C).
 
-
 Processo de Teste
 
 INCIDÊNCIA EM PROVA: BAIXA
@@ -438,7 +428,6 @@ ETAPAS DO PROCESSO | DESCRIÇÃO
 
 Nesta etapa, elaboram-se o Projeto de Testes e o Plano de Testes. Ela acompanha
 
-
 PLANEJAMENTO
 
 PREPARAÇÃO
@@ -455,7 +444,6 @@ para que os testes sejam executados conforme planejados.
 nesta etapa, temos as atividades de elaborar e revisar casos de testes e roteiros de
 testes (scripts). Esse último descreve a relação dos casos de testes e a previsão de
 execução dos testes.
-
 
 Nesta etapa, testes são executados conforme roteiros estabelecidos para os testes.
 Executa-se sempre que ocorrem mudanças na aplicação e analisam-se os testes
@@ -501,7 +489,6 @@ Comentários: organiza-se 0 ambiente de testes (infraestrutura, equipamentos,
 hardware, software, pessoal capacitado,
 ferramentas e massa de testes adequadas) justamente na etapa de preparação de testes (Correto).
 
-
 Plano de Testes
 
 INCIDÊNCIA EM PROVA: BAIXA
@@ -545,7 +532,6 @@ REQUISITOS Descreve em linhas gerais 0 conjunto de requisitos a serem testados n
 projeto a ser
 desenvolvido, comunicando 0 que deve ser verificado.
 
-
 ESTRATÉGIAS E
 FERRAMENTAS
 EQUIPE E
@@ -576,7 +562,6 @@ funcionalidades a serem testados, os responsáveis e os riscos.
 
 Comentários: todos esses realmente são atributos que podem ser contemplados em um plano de teste
 (Correto).
-
 
 Casos de Testes
 
@@ -610,7 +595,6 @@ pelo
 testador. Vejam abaixo possíveis exemplos - bastante simplificados - de casos de testes
 para o
 nosso carro voador hipotético.
-
 
 ENTRADA/CONDIÇÃO
 
@@ -647,7 +631,6 @@ interessante seria tentar inserir o número 1234.56.7-7890 - se você conseguir,
 significa que o
 sistema está falhando, porque está aceitando um CPF em formato diferente do esperado.
 
-
 ENTRADA/CONDIÇÃO
 
 -Validara máscara do campo CPF
@@ -663,7 +646,6 @@ RESULTADO ESPERADO
 - Registro salvo na tabela de cadastro
 
 - Sistema deve retornará página inicial
-
 
 (INFRAERO - 2011) A especificação de um caso de teste (test case spec/fication') deve
 conter, entre outros, identificador, itens constantes no teste, especificação de entrada,
@@ -695,7 +677,6 @@ delas em
 detalhes. Na imagem à direita, podemos vercomo essas dimensões de subdividem e qual é
 a função
 de cada uma delas: como, quando e 0 que testar?
-
 
 Estratégia/Níveis de Testes
 
@@ -757,7 +738,6 @@ software e em diferentes pontos no tempo.
 O teste é feito pelo desenvolvedor do software e (para grandes projetos) por um grupo
 independente de teste.
 
-
 O teste e a depuração são atividades diferentes, mas a depuração deve ser associada com
 alguma estratégia de teste.
 
@@ -805,7 +785,6 @@ sistema e o domínio de informação) e terminamos com o código em si.
 
 (UFG - 2017) Considere os diferentes níveis de teste de funcionalidade de um software.
 Os testes de sistema estão para a Engenharia de Sistemas, assim como:
-
 
 a) os testes de integração e de validação estão, respectivamente, para o código e o
 projeto.
@@ -870,7 +849,6 @@ software foi
 integrado (construído e montado), é executada uma série de testes de ordem superior. Os
 critérios de validação - estabelecidos durante a análise de requisitos - devem ser avaliados.
 
-
 O teste de validação proporciona a garantia final de que o software
 satisfaz a todos os
 requisitos informativos, funcionais, comportamentais e de desempenho. A última
@@ -917,7 +895,6 @@ a) Teste de unidade, Teste de estresse, Teste de aceitação.
 
 b) Teste de integração, Teste de estresse, Teste de sistema.
 
-
 c) Teste de aceitação, Teste Chinês, Teste de caixa branca.
 
 d) Teste de unidade, Teste de integração, Teste de aceitação.
@@ -929,7 +906,6 @@ Comentários: (a) Errado, Teste de Estresse não é nível de teste; (b) Errado,
 Teste Chinês e Caixa Branca não são níveis de teste; (d) Correto, todos são níveis de teste; (e)
 Errado, Teste Caixa Branca e Preta
 não são níveis de teste (Letra D).
-
 
 Teste de Unidade
 
@@ -994,7 +970,6 @@ bastante similar, mas são testadas unidades de código-fonte.
 
 VIRABREQUIM BIELA
 PISTÃO
-
 
 DEFINIÇÕES DE PROVA - TESTES DE UNIDADE
 
@@ -1062,7 +1037,6 @@ Comentários: 0 teste de unidade - de fato - é aplicado a componentes e busca
 verificar se os fluxos de controle (ordem das
 instruções de um algoritmo) e de dados estão cobertos e conforme 0 esperado (Letra E).
 
-
 Teste de Integração
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -1126,7 +1100,6 @@ etapa anterior, agora é necessário testar se elas se comunicam
 corretamente. Vejam como as três peças mencionadas nos testes
 de unidade se integram.
 
-
 DEFINIÇÕES DE PROVA - TESTES DE INTEGRAÇÃO
 
 Testes de Integração são caracterizados portestaras interfaces entre os componentes ou interações
@@ -1189,7 +1162,6 @@ ambiente operacional real.
 Comentários: testes de integração ocorrem ainda no ambiente de desenvolvimento e, não, execução
 (Errado).
 
-
 Teste de Validação
 
 INCIDÊNCIA EM PROVA: MÉDIA I
@@ -1243,7 +1215,6 @@ de entregar
 o motor para os próprios funcionários da Citrõen testarem se está tudo certo. O teste
 é também
 realizado em relação ao que estava especificado nos critérios de validação.
-
 
 Galera, nós sabemos que a verificação ocorre em relação à
 especificação de requisitos e a validação ocorre em relação às
@@ -1303,7 +1274,6 @@ final do sistema. Sobre esse tipo de teste pode-se afirmar que tem como
 objetivo
 principal a validação do software quanto aos requisitos.
 
-
 Comentários: ele faz a validação quanto aos requisitos e seus critérios de validação
 descritos no documento de requisitos
 (Correto).
@@ -1321,7 +1291,6 @@ Comentários: observem que 0 enunciado evidentemente trata de uma comparação, 
 tem por finalidade encontrar
 defeitos e inconsistências no programa em relação a sua especificação é 0 teste de verificação
 (Errado).
-
 
 Teste de Sistema
 
@@ -1435,13 +1404,11 @@ c) Teste de aceitação
 d) Teste de especificação
 e) Teste de operação
 
-
 Comentários: a questão trata dos testes de sistema - eles buscam erros resultantes das
 interações e integrações do sistema
 como um todo e também dos problemas de interface. A questão foi tão genérica que, se houvesse a
 opção Teste de Integração,
 teríamos duas respostas (Letra A).
-
 
 Técnicas de Testes
 
@@ -1454,7 +1421,6 @@ se foca tanto em
 estruturas internas quanto nas entradas e saídas especificadas nos requisitos. Vejamos
 em detalhes
 cada uma delas. Venham comigo...
-
 
 Teste Caixa-Branca
 
@@ -1504,7 +1470,6 @@ interna do código. Outro nome é teste procedimental! Por que? Porque eu consig
 1 Geralmente é utilizado a Complexidade Ciclomática, que permite medir quantitativamente
 a complexidade lógica de um código por meio do número
 de caminhos independentes.
-
 
 os procedimentos internos do componente. Outro nome é teste orientado à lógica! Porque?
 Porque
@@ -1561,7 +1526,6 @@ do componente de software.
 
 Comentários: a questão está perfeita - definição pura e simples de teste caixa-branca (Correto).
 
-
 (TRE/PI - 2009) Também conhecido por teste estrutural ou orientado à lógica, é uma
 técnica de teste de software que trabalha diretamente sobre o código fonte
 do
@@ -1599,7 +1563,6 @@ e) orientado a dado.
 Comentários: a técnica que trata do exame minucioso da estrutura interna e detalhes procedimentais
 é a técnica de teste caixa-
 branca (Letra B).
-
 
 Teste Caixa-Preta
 
@@ -1656,7 +1619,6 @@ Orientado a
 Dado! Por que? Porque eu não consigo analisar sua lógica, mas eu sei quais dados
 devem ser
 gerados como resultado - além disso, dada uma entrada, temos uma saída específica.
-
 
 Vamos voltar novamente ao nosso motor de carro? Fazendo uma comparação, o teste
 caixa-preta
@@ -1723,7 +1685,6 @@ d) condição.
 
 e) fluxo de dados.
 
-
 Comentários: teste comportamental é um teste caixa-preta (Letra A).
 
 (MPE/RO - 2012) Considerando a arquitetura de software convencional, a técnica
@@ -1782,9 +1743,7 @@ d) Ponto de Função.
 
 e) Não estrutural.
 
-
 Comentários: trata-se do teste caixa-preta ou orientado à entrada/saída (Letra B).
-
 
 Teste Caixa-Cinza
 
@@ -1842,7 +1801,6 @@ especificações arquiteturais de um
 sistema se o testador empregar a técnica de caixa-branca, em vez das técnicas de caixa-cinza e de
 caixa-preta (Errado).
 
-
 Tipos de Testes
 
 Galera, agora veremos vários e vários tipos de testes. É importante que vocês saibam
@@ -1854,7 +1812,6 @@ engenharia
 de software, mas deixando claro que não se trata de uma lista exaustiva.
 Eventualmente, vocês
 podem encontrar um teste que não foi mencionado em aula. Animados?
-
 
 Teste de Desempenho
 
@@ -1903,7 +1860,6 @@ Revelada dia 04 de novembro às 5:00
 ESTRATÉGIA CAST ASSINATURA VITALÍCIA
 
 5:00 AM_
-
 
 Eu sei, linguagem muito técnica! Vamos falar de maneira bem clara: teste de desempenho
 trata do
@@ -1965,7 +1921,6 @@ infraestrutura tecnológica de produção é suficiente para suportar a quantida
 de
 acessos simultâneos à aplicação web. Uma forma de realizar essa verificação é utilizar
 ferramenta com suporte à medição de teste de cobertura.
-
 
 Comentários: ele realmente é realizado para mensurar se a infra estrutura tecnológica
 em produção (isto é, aquela que será
@@ -2088,7 +2043,6 @@ b) teste de estresse.
 
 c) teste de desempenho.
 
-
 d) latência da falha.
 
 e) workload.
@@ -2182,7 +2136,6 @@ desempenho do sistema está aceitável é a definição de teste de carga, no en
 teste de carga é um tipo de teste de
 desempenho-logo, questão perfeita (Correto).
 
-
 Teste de Usabilidade
 
 INCIDÊNCIA EM PROVA: BAIXÍSSIMA
@@ -2206,7 +2159,6 @@ treinamento, acesso
 às funcionalidades, entre outros. Costuma-se dizer que uma boa interface com o usuário
 deve
 ser fácil de usar e de entender.
-
 
 Em suma, trata-se de um teste focado na experiência do usuário que avalia a
 facilidade de uso
@@ -2255,7 +2207,6 @@ Correto, ele realmente é capaz
 de obter indícios do nível de satisfação do usuário; (III) Errado, ele não tem nenhuma intenção de
 avaliar a integridade dos dados
 registrados no sistema (Letra D).
-
 
 Teste de Regressão
 
@@ -2328,7 +2279,6 @@ versão 1.0 e disponibilizo para os alunos. Só que aí o Prof. Ricardo Vale me 
 nova funcionalidade que os alunos estão pedindo desesperadamente. Eu implemento essa nova
 funcionalidade e lanço a versão 1.1!
 
-
 Maaaaaaaaaaaaas... antes de lançar essa nova versão, eu faço um teste de regressão.
 Por que,
 Diego? Porque essa nova funcionalidade que eu implementei pode ter causado algum
@@ -2380,7 +2330,6 @@ testes de regressão, nós dizemos que 0
 sistema regrediu. Porque? Porque antes ele funcionava corretamente e, após a inserção de novas
 funcionalidades, ele parou de
 funcionar. Esse item é coisa linda! (Correto).
-
 
 Teste de Fumaça
 
@@ -2467,7 +2416,6 @@ Comentários: trata-se do teste de fumaça. Há apenas uma observação - ele n�
 fase de desenvolvimento,
 ele ocorre sempre que há uma nova integração, isto é, uma nova funcionalidade (Letra B).
 
-
 Teste de Comparação
 
 INCIDÊNCIA EM PROVA: BAIXÍSSIMA
@@ -2508,7 +2456,6 @@ protótipo e ao sistema em teste a fim de se produzir um relatório de diferenç
 Comentários: realmente é possível utilizar o teste back-to-back (ou comparação) para os mesmos
 casos deteste de entrada em
 sistemas diferentes a fim de gerar um relatório de diferenças (Correto).
-
 
 Testes Alfa e Beta
 
@@ -2583,7 +2530,6 @@ Para quem não sabe, o Navegador Firefox possui várias versões (entrem no site
 vocês
 mesmos...).
 
-
 Nightly
 
 Obtenha uma espreitadela do
@@ -2605,7 +2551,6 @@ final em seu
 próprio computador. No caso, eu no meu quarto - um ambiente não controlado
 pelos
 programadores. Vejam abaixo o link para enviar um feedback...
-
 
 MDN» FIREFOX
 
@@ -2638,7 +2583,6 @@ Comentários: teste alfa é conduzido pelo cliente no ambiente do desenvolvedor 
 em um ambiente controlado, para identificar erros e problemas de uso durante
 a
 operação do sistema pelos usuários é denominado:
-
 
 a) Teste Alfa.
 
@@ -2684,7 +2628,6 @@ e) Teste Alfa é feito sem os dados e o Teste Beta é feito com dados fictícios
 
 Comentários: testes alfa são realizados em ambiente controlado e testes beta são realizados no
 ambiente do usuário (Letra B).
-
 
 Testes de Recuperação
 
@@ -2779,7 +2722,6 @@ intervenção humana.
 Comentários: a questão está impecável - ademais, realmente pode ocorrer de forma automática ou
 manual (Correto).
 
-
 Testes de Compatibilidade
 
 INCIDÊNCIA EM PROVA: BAIXÍSSIMA
@@ -2819,7 +2761,6 @@ executado no sistema operacional Solaris.
 Comentários: eles realmente servem para testar um software em ambientes diferentes de hardware,
 software, sistema
 operacional, redes, entre outros (Correto).
-
 
 Testes de Segurança
 
@@ -2868,7 +2809,6 @@ implementadas, logo não possuem informações úteis e não são de interesse d
 incorporados a um sistema vão de fato protegê-lo de invasão imprópria.
 
 Comentários: a questão está perfeita - essa é a função de um teste de segurança (Correto).
-
 
 Testes Automatizados
 
@@ -2951,7 +2891,6 @@ FERRAMENTAS | DESCRIÇÃO
 
 Usado para testar aplicativos web, o Selenium é uma ferramenta de código aberto que
 
-
 SELENIUM
 
 APPIUM
@@ -2994,13 +2933,11 @@ BENEFÍCIOS | DESCRIÇÃO
 Automatizar seus testes transforma a escala na qual sua equipe de teste opera. Isso ocorre
 porque os computadores podem executar testes 24 horas por dia, 7 dias por semana.
 
-
 AUMENTO DE ESCALA
 
 Mesmo seus engenheiros de qualidade mais atentos só podem gerenciar 60 horas por
 semana! O resultado é que você pode executar muito mais testes com os mesmos recursos.
 Isso é importante, já que os engenheiros de teste são um recurso relativamente escasso.
-
 
 VELOCIDADE DE
 
@@ -3022,13 +2959,11 @@ seu aplicativo constantemente durante 0 desenvolvimento. Cada vez que um novo c�
 assim que estiver estável. Isso significa que todo 0 seu processo de lançamento se torna
 mais eficiente e simplificado.
 
-
 Vejamos na tabela seguinte uma comparação entre a realização de testes manuais e testes
 automatizados:
 
 CRITÉRIO TESTE MANUAL TESTE
 AUTOMATIZADO
-
 
 VELOCIDADE
 
@@ -3111,24 +3046,20 @@ FATORES | DESCRIÇÃO
 
 O teste deve seraquele que pode (e será) repetido regularmente. Porexemplo, não adianta
 
-
 REPETÍVEL
 
 automatizar um teste para um recurso que está prestes a ser preterido.
-
 
 DETERMINANTE
 
 Tem que haver um resultado claro certo e errado para o teste. Em outras palavras, deve ser
 fácil para um computador decidir se o teste falhou ou não.
 
-
 TEDIOSO
 
 Via de regra, os seres humanos são muito pobres em tarefas repetitivas. Nossas mentes
 vagam ou nos distraímos. Qualquer teste que envolva fazer repetidamente a mesma ação
 é melhor deixar para um computador automatizando-o.
-
 
 CRÍTICO
 
@@ -3141,7 +3072,6 @@ para se
 utilizar testes manuais? Vejamos:
 
 FATORES | DESCRIÇÃO
-
 
 MUDANÇAS
 CONSTANTES
@@ -3170,13 +3100,11 @@ ETAPAS | DESCRIÇÃO
 
 Isso dependerá do tipo de testes que você está automatizando - existem dezenas
 
-
 ESCOLHA UMA FERRAMENTA OU
 ESTRUTURA ADEQUADA PARA
 EXECUTAR OS TESTES
 
 de ferramentas.
-
 
 DEFINA COM PRECISÃO SEU CASO
 
@@ -3185,7 +3113,6 @@ DETESTE
 Isso significa anotar cada passo e o resultado necessário. É importante não fazer
 suposições e não perder nenhuma etapa que um testador manual possa fazer sem
 pensar nisso. Por exemplo, aceitar um pop-up de banner de cookie.
-
 
 CONVERTA SEU CASO DE TESTE
 EM UM TESTE QUE PODE SER
@@ -3212,7 +3139,6 @@ precisará atualizar seu teste e executá-lo novamente.
 Porfim, Depois de escolher sua ferramenta, você precisa aplicar a automação de testes
 da maneira
 correta. As práticas recomendadas a seguir se aplicam ao teste de nível do sistema:
-
 
 Planeje seus testes cuidadosamente. Certifique-se de que seus casos de
 teste estejam
@@ -3247,7 +3173,6 @@ Lembre-se de que você precisa reavaliar constantemente seus planos de teste à
 medida que
 seu aplicativo se desenvolve e muda. Não adianta testar recursos herdados que não fazem
 mais parte dos aplicativos.
-
 
 Doubles
 
@@ -3295,7 +3220,6 @@ DOUBLES | DESCRIÇÃO
 
 Trata-se de um objeto que é passado como argumento, mas não é usado no teste em si.
 Geralmente, é usado apenas para preencher a assinatura do método.
-
 
 DUMMY
 
@@ -3396,7 +3320,6 @@ Como
 Um objeto
 sob teste pode ter dependências sobre outros objetos complexos.
 
-
 Os mocks devem ter a mesma interface que os objetos reais, caso contrário não conseguirão se
 comunicar. Eles são utilizados quando temos objetos que geram resultados variáveis;
 objetos com
@@ -3420,7 +3343,6 @@ Os mocks possuem bibliotecas que ajudam em sua criação, tais como: EasyMock, J
 Mockito
 (para Java); NMock, TypeMock (para .NET), entre outros.
 
-
 RESUMo
 
 TESTE DE SOFTWARE
@@ -3434,7 +3356,6 @@ conformidade com sua
 especificação.
 
 CARACTERÍSTICAS | DESCRIÇÃO
-
 
 UM BOM TESTE TEM ALTA
 PROBABILIDADE DE
@@ -3451,7 +3372,6 @@ que as classes de falhas sejam investigadas.
 0 tempo e os recursos de teste são limitados. Não tem sentido realizar um teste que
 tenha a mesma finalidade de outro teste. Cada teste deve ter uma finalidade diferente
 (mesmo que seja sutilmente diferente).
-
 
 UM BOM TESTE DEVERÁ SER
 "0 MELHOR DA RAÇA"
@@ -3470,7 +3390,6 @@ teste, os possíveis efeitos colaterais associados com essa abordagem podem masc
 erros. Em geral, cada teste deve ser executado separadamente.
 
 PRINCÍPIOS FUNDAMENTAIS | DESCRIÇÃO
-
 
 TESTES DEMONSTRAM A
 PRESENÇA DE DEFEITOS...
@@ -3517,7 +3436,6 @@ Os testes devem ser elaborados de acordo com 0 contexto de utilização do softw
 Ex: um sistema bancário deve ser testado de maneira diferente de uma rede social.
 Assim como testes de aplicação web têm foco diferente do desktop.
 
-
 Identificar e corrigir os problemas de um software não garantem que ele está p
 Os testes foram elaborados para identificar todas as possíveis falhas? O si:
 atende às necessidades e expectativas dos usuários? Logo, há outros fatores!
@@ -3546,11 +3464,9 @@ inteligente vamos testar".
 
 <1
 
-
 ETAPAS DO PROCESSO | DESCRIÇÃO
 
 Nesta etapa, elaboram-se o Projeto de Testes e o Plano de Testes. Ela acompanha
-
 
 PLANEJAMENTO
 
@@ -3582,7 +3498,6 @@ Nesta etapa, o projeto é finalizado, registra-se toda a documentação e relata
 todas as incidências relevantes à melhoria do processo em um relatório de
 conformidades e não-conformidades - porfim, a documentação gerada é arquivada.
 
-
 PLANO DE TESTE
 
 CASOS DE TESTE
@@ -3612,7 +3527,6 @@ TESTE DE VALIDAÇÃO Também chamado de Teste de Aceitação, é executado quand
 está todo
 montado como um pacote e os erros de interface já foram descobertos e corrigidos.
 
-
 TESTE DE SISTEMA O Teste de Sistema é na realidade uma série de diferentes testes cuja finali<
 primária é exercitar o sistema como um todo.
 
@@ -3620,7 +3534,6 @@ TÉCNICAS DE TESTES | DESCRIÇÃO
 
 Também conhecido como teste estrutural, procedimental, orientado à lógica, caixa-
 de-vidro ou caixa-clara, ele analisa caminhos lógicos possíveis de serem executados,
-
 
 TESTE CAIXA-BRANCA
 
@@ -3648,7 +3561,6 @@ TIPOS DE TESTES | DESCRIÇÃO
 
 Trata-se de um tipo de teste projetado para testar o desempenho em tempo
 de
-
 
 TESTE DE DESEMPENHO
 
@@ -3684,7 +3596,6 @@ colaterais indesejados.
 Trata-se de um tipo de teste utilizado para expor erros que impedem a execução
 corretamente de uma função básica em um software.
 
-
 TESTE DE COMPARAÇÃO
 
 TESTE ALFA
@@ -3702,7 +3613,6 @@ o estado atual do sistema.
 Trata-se de um tipo de teste de aceitação executados em ambiente não controlado
 quando o desenvolvimento está praticamente concluído e quando o maior número
 possível de defeitos precisa ser encontrado antes do lançamento do produto.
-
 
 TESTE DE RECUPERAÇÃO
 
@@ -3723,7 +3633,6 @@ conhecido como teste de ameaça ou teste de invasão.
 
 H PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / TJ-AM - 2019) Erro e defeito são conceitos distintos: erro pode ser o resultado de uma
@@ -3743,7 +3652,7 @@ de maneira errada.
 
 Gabarito: Correto
 
-Item. 2. (CESPE / TJ-AM - 2019) Validação refere-se a um conjunto de atividades destinadas
+2. (CESPE / TJ-AM - 2019) Validação refere-se a um conjunto de atividades destinadas
 a garantir
 que o sistema esteja de acordo com os requisitos do usuário.
 
@@ -3757,7 +3666,7 @@ quando o software funciona de uma maneira que pode ser razoavelmente esperada pe
 
 Gabarito: Correto
 
-Item. 3. (CESPE / TJ-AM - 2019) O teste caixa preta trata o software como uma caixa cujo
+3. (CESPE / TJ-AM - 2019) O teste caixa preta trata o software como uma caixa cujo
 conteúdo é
 desconhecido e da qual só é possível visualizar os dados de entrada fornecidos e as
 respostas
@@ -3771,12 +3680,11 @@ foca nas saídas geradas em resposta a entradas escolhidas e condições especif
 
 Gabarito: Correto
 
-Item. 4. (CESPE / TJ-AM -2019) O teste de esforço é uma continuidade do teste de carga,
+4. (CESPE / TJ-AM -2019) O teste de esforço é uma continuidade do teste de carga,
 e ambos são
 modalidades do teste de desempenho.
 
 Comentários:
-
 
 O teste de desempenho (ou performance) é projetado para testar o desempenho em tempo
 de
@@ -3788,7 +3696,7 @@ normalmente - é realizado após o teste de carga.
 
 Gabarito: Correto
 
-Item. 5. (CESPE /TJ-AM -2019) O teste de integração descendente da modalidade primeiro em
+5. (CESPE /TJ-AM -2019) O teste de integração descendente da modalidade primeiro em
 largura
 (breadth-first) move-se pela hierarquia de controle e integra todos os
 componentes em um
@@ -3808,7 +3716,7 @@ aplicação.
 
 Gabarito: Errado
 
-Item. 6. (CESPE / MC-PA - 2019) Consoante os princípios dos métodos ágeis, na construção
+6. (CESPE / MC-PA - 2019) Consoante os princípios dos métodos ágeis, na construção
 de um
 sistema, os testes de unidade do código criado devem ser sempre executados primeiramente:
 
@@ -3830,12 +3738,11 @@ informal e, não, por especialistas em testes.
 
 Gabarito: Letra D
 
-Item. 7. (CESPE / FUB - 2018) Os testes de caixa-branca buscam verificar o comportamento
+7. (CESPE / FUB - 2018) Os testes de caixa-branca buscam verificar o comportamento
 interno do
 software, ou seja, os elementos relacionados ao código-fonte desse software.
 
 Comentários:
-
 
 Perfeito! A ideia da técnica de caixa-branca é testar a estrutura interna do software,
 isto é, seu
@@ -3843,7 +3750,7 @@ código-fonte em si.
 
 Gabarito: Correto
 
-Item. 8. (CESPE / BNB - 2018) Determinada equipe de desenvolvimento de softwares desejava
+8. (CESPE / BNB - 2018) Determinada equipe de desenvolvimento de softwares desejava
 realizar
 testes que avaliassem o comportamento do sistema por meio do estudo das entradas e das
 saídas relacionadas, sem validação da implementação do software e sem acesso ao seu
@@ -3862,7 +3769,7 @@ dessa forma, o teste de caixa-branca não é aplicável pois ele tem acesso ao c
 
 Gabarito: Correto
 
-Item. 9. (CESPE/ BNB-2018) Determinada equipe de desenvolvimento de softwares
+9. (CESPE/ BNB-2018) Determinada equipe de desenvolvimento de softwares
 pretendia realizar
 testes que permitissem avaliar cenários com os quais os usuários reais do sistema
 pudessem se
@@ -3897,7 +3804,6 @@ b) da caixa preta.
 
 c) da caixa branca.
 
-
 d) da caixa cinza.
 
 e) de integração.
@@ -3921,7 +3827,7 @@ automatizada, e sim eles podem.
 
 Gabarito: Correto
 
-Item. 12. (CESPE / STJ - 2018) Enquanto os testes de unidade propiciam a qualidade
+12. (CESPE / STJ - 2018) Enquanto os testes de unidade propiciam a qualidade
 externa, os testes
 de aceitação ajudam o desenvolvedor a avaliar a qualidade interna do código, dando
 feedback
@@ -3937,7 +3843,7 @@ unidade avaliam a qualidade dos módulos ou componentes.
 
 Gabarito: Errado
 
-Item. 13. (CESPE / STJ - 2018) Teste de software pode ser definido como o processo de execução
+13. (CESPE / STJ - 2018) Teste de software pode ser definido como o processo de execução
 de um
 programa ou sistema com a intenção de se verificar se o mesmo está de acordo com o
 planejado
@@ -3953,10 +3859,9 @@ essa definição está mais associada ao teste de validação que focalizam aç�
 seja, se o
 software funciona conforme foi proposto em seus requisitos.
 
-
 Gabarito: Correto
 
-Item. 14. (CESPE/ABIN-2018) As ferramentas de execução do teste são classificadas como
+14. (CESPE/ABIN-2018) As ferramentas de execução do teste são classificadas como
 ferramentas
 de suporte para execução e registro e têm, como vantagem, o fato de não requererem um
 grande esforço para a obtenção de resultados expressivos.
@@ -3969,7 +3874,7 @@ automatizados podem levar um grande tempo para serem concluídos.
 
 Gabarito: Errado
 
-Item. 15. (CESPE / ABIN - 2018) No teste funcional, que é uma das fases do processo de validação, não é
+15. (CESPE / ABIN - 2018) No teste funcional, que é uma das fases do processo de validação, não é
 necessário o conhecimento das estruturas internas do software.
 
 Comentários:
@@ -4000,13 +3905,12 @@ chamados de testes funcionais) nessa etapa.
 
 Gabarito: Errado
 
-Item. 17. (CESPE / STM - 2018) Em um processo de cascata, testes de sistemas testam todo
+17. (CESPE / STM - 2018) Em um processo de cascata, testes de sistemas testam todo
 o sistema,
 enquanto, em processos de desenvolvimento iterativo, será testado apenas um incremento a
 ser entregue ao cliente.
 
 Comentários:
-
 
 De acordo com Sommerville: "Em um processo de desenvolvimento iterativo, o teste de
 sistema
@@ -4069,7 +3973,7 @@ sentido de funcionalidade). Portanto, a questão está perfeita!
 
 Gabarito: Correto
 
-Item. 21. (CESPE / BNB - 2018) Uma equipe de desenvolvimento de softwares pretendia
+21. (CESPE / BNB - 2018) Uma equipe de desenvolvimento de softwares pretendia
 realizar testes
 de forma incremental durante o desenvolvimento de um programa, a fim de
 verificar se
@@ -4087,7 +3991,7 @@ Pelo contrário, esse é o principal teste responsável por verificar novos bugs
 
 Gabarito: Errado
 
-Item. 22. (CESPE / TRE-BA - 2017) Durante o planejamento de um projeto e a elaboração dos
+22. (CESPE / TRE-BA - 2017) Durante o planejamento de um projeto e a elaboração dos
 casos de
 uso, foram incluídos diversos componentes para cálculos de tributos e da
 quantidade de
@@ -4115,7 +4019,7 @@ logo - para testar um componente - utilizam-se testes unitários.
 
 Gabarito: Letra A
 
-Item. 23. (CESPE / TRE-BA - 2017) O gestor de um órgão organizador de concursos públicos
+23. (CESPE / TRE-BA - 2017) O gestor de um órgão organizador de concursos públicos
 pretende
 oferecer condições para que mais de um milhão de candidatos inscritos em determinado
 evento
@@ -4124,7 +4028,6 @@ situação,
 para verificarse o sistema eletrônico suportará uma quantidade grande de acessos
 simultâneos,
 a equipe de TI do órgão, ao preparar o ambiente de acesso eletrônico, deverá realizar o teste:
-
 
 a) de estresse.
 
@@ -4177,7 +4080,7 @@ baixo nível primeiro; (d) Errado, testes de validação são posteriores.
 
 Gabarito: Letra B
 
-Item. 25. (CESPE/TJDFT-2015) As atividades de validação incluem ostestes unitários e os de aceitação.
+25. (CESPE/TJDFT-2015) As atividades de validação incluem ostestes unitários e os de aceitação.
 
 Comentários:
 
@@ -4202,7 +4105,7 @@ automatizáveis.
 
 Gabarito: Correto
 
-Item. 27. (CESPE / MPU -2013) Para se avaliar a documentação do projeto do software, deve
+27. (CESPE / MPU -2013) Para se avaliar a documentação do projeto do software, deve
 ser utilizado
 o teste de unidade.
 
@@ -4236,10 +4139,9 @@ Comentários:
 
 Testes Caixa-Branca e Testes Caixa-Preta não são níveis de testes, mas técnicas de testes.
 
-
 Gabarito: Errado
 
-Item. 30. (CESPE / MPU - 2013) Testes funcionais são aplicados para identificar não
+30. (CESPE / MPU - 2013) Testes funcionais são aplicados para identificar não
 conformidades entre
 o programa e seus requisitos.
 
@@ -4267,7 +4169,6 @@ todo o
 domínio.
 
 Comentários:
-
 
 Particionamento de Equivalência é um dos critérios de teste caixa-preta e, não, teste de unidade!
 
@@ -4297,7 +4198,6 @@ em que se trata de estruturas internas (Ex: Laços).
 
 Gabarito: Errado
 
-
 33- (CESPE / INPI - 2013) De modo geral, o teste de release é um processo de teste
 do tipo caixa-
 branca em que as funcionalidades são verificadas e validadas mediante a avaliação
@@ -4324,7 +4224,7 @@ testes.
 
 Gabarito: Errado
 
-Item. 35. (CESPE / MPE-PI - 2012) Em teste funcional, o conjunto de valores de entrada
+35. (CESPE / MPE-PI - 2012) Em teste funcional, o conjunto de valores de entrada
 válidos pode ser
 reduzido por meio de partição em classes de equivalência, o que torna a quantidade de
 dados
@@ -4381,7 +4281,7 @@ O plano de testes necessita realmente - como insumo - da abordagem ou da estrat�
 
 Gabarito: Correto
 
-Item. 37. (CESPE / MEC - 2011) Na definição do documento referente ao plano de testes,
+37. (CESPE / MEC - 2011) Na definição do documento referente ao plano de testes,
 devem ser
 incluídos os tipos e a metodologia dos testes. No entanto, critérios de aceitação e
 processos
@@ -4393,7 +4293,7 @@ Na verdade, critérios de aceitação e processos associados estão abrangidos p
 
 Gabarito: Errado
 
-Item. 38. (CESPE / TJ-ES - 2011) No plano de teste, um documento de nível gerencial,
+38. (CESPE / TJ-ES - 2011) No plano de teste, um documento de nível gerencial,
 definem-se como
 o teste vai ser realizado, quem vai executar os testes, o prazo estimado e o nível
 de qualidade
@@ -4413,9 +4313,7 @@ Gabarito: Correto
 requisitos
 do software são atendidos, sem verificar o código ou a lógica do componente testado.
 
-
 Q-Q
-
 
 Comentários:
 
@@ -4423,7 +4321,7 @@ Perfeito, ele não necessita verificar o código ou a lógica interna do compone
 
 Gabarito: Correto
 
-Item. 40. (CESPE / MEC - 2011) O teste caixa-branca ou teste de caixa de vidro é um
+40. (CESPE / MEC - 2011) O teste caixa-branca ou teste de caixa de vidro é um
 método de projeto
 de casos de teste que usa a estrutura de controle do projeto procedimental para
 derivar casos
@@ -4470,7 +4368,6 @@ Gabarito: Errado
 43.(CESPE / SAD-PE - 2010) A respeito do plano de teste, um registro do
 processo de
 planejamento de testes de software, assinale a opção correta.
-
 
 a) O processo de planejamento de testes é usualmente descrito em um plano de testes.
 
@@ -4521,7 +4418,7 @@ A questão descreve testes de sistema e, não, testes de unidade.
 
 Gabarito: Errado
 
-Item. 45. (CESPE / TJ-ES - 2010) No teste de unidade, o software é forçado a falhar de diversos
+45. (CESPE / TJ-ES - 2010) No teste de unidade, o software é forçado a falhar de diversos
 modos a
 fim de verificar se os requisitos funcionais foram adequadamente implementados. As
 unidades,
@@ -4529,7 +4426,6 @@ sejam funções, procedimentos, métodos ou classes, são testadas duas a duas. 
 espera-se identificar erros relacionados a algoritmos incorretos ou mal
 implementados,
 estruturas de dados incorretas ou simples erros de programação.
-
 
 Comentários:
 
@@ -4563,7 +4459,7 @@ Lógica interna do componente codificado? Não, isso é Teste Caixa-Branca!
 
 Gabarito: Errado
 
-Item. 48. (CESPE / INMETRO - 2010) Testes de caixa preta são usualmente fundamentados na
+48. (CESPE / INMETRO - 2010) Testes de caixa preta são usualmente fundamentados na
 análise
 do código de um programa. Por outro lado, entre as técnicas de teste não relacionadas
 a testes
@@ -4585,12 +4481,11 @@ conhecimento do código e da lógica interna do componente testado.
 
 Comentários:
 
-
 Pelo contrário, a questão trata dos testes caixa-preta.
 
 Gabarito: Errado
 
-Item. 50. (CESPE / INMETRO - 2010) O teste de caminho básico é uma técnica que identifica
+50. (CESPE / INMETRO - 2010) O teste de caminho básico é uma técnica que identifica
 as rotinas
 normalmente usadas, deixando de lado as rotinas eventualmente executadas.
 
@@ -4602,7 +4497,7 @@ executados!
 
 Gabarito: Errado
 
-Item. 51. (CESPE / TRE-ES - 2010) O teste de partições caracteriza-se por ser um projeto
+51. (CESPE / TRE-ES - 2010) O teste de partições caracteriza-se por ser um projeto
 de caso de
 teste, em que o conhecimento da estrutura do programa é utilizado para projetar testes
 que
@@ -4616,7 +4511,7 @@ conhecimento da estrutura do programa!
 
 Gabarito: Errado
 
-Item. 52. (CESPE / TRE-BA- 2010) Teste funcional é uma técnica para se projetar casos de
+52. (CESPE / TRE-BA- 2010) Teste funcional é uma técnica para se projetar casos de
 teste na qual
 o programa ou sistema é considerado uma caixa-preta e, para testá-lo, são fornecidas
 entradas
@@ -4630,7 +4525,7 @@ fornecidas entradas e avaliadas as saídas geradas.
 
 Gabarito: Correto
 
-Item. 53. (CESPE / TJ-ES - 2010) O teste de integração, a exemplo do teste caixa-branca,
+53. (CESPE / TJ-ES - 2010) O teste de integração, a exemplo do teste caixa-branca,
 focaliza o
 esforço de validação na menor unidade de projeto do software e, com o uso de
 técnicas de
@@ -4640,14 +4535,13 @@ dos limites do componente.
 
 Comentários:
 
-
 Quem concentra esforços de validação na menor unidade de projeto do software é o
 teste de
 unidade e, não, teste de integração.
 
 Gabarito: Errado
 
-Item. 54. (CESPE / M PU-2010) O teste de integração geralmente é um processo deteste de
+54. (CESPE / M PU-2010) O teste de integração geralmente é um processo deteste de
 caixa-preta
 no qual os testes são derivados da especificação do sistema, cujo comportamento pode
 ser
@@ -4661,7 +4555,7 @@ caixa-branca e testes de caixa-preta.
 
 Gabarito: Errado
 
-Item. 55. (CESPE / TJ-ES - 2010) O teste de caixa-preta é utilizado quando uma nova
+55. (CESPE / TJ-ES - 2010) O teste de caixa-preta é utilizado quando uma nova
 versão do software
 está sendo lançada ou quando um novo ciclo de testes for necessário em
 paralelo ao
@@ -4685,14 +4579,13 @@ o primeiro teste a ser realizado.
 
 Gabarito: Errado
 
-Item. 57. (CESPE/TRE-BA-2010) Se um software já testado receber modificações e, após isso,
+57. (CESPE/TRE-BA-2010) Se um software já testado receber modificações e, após isso,
 somente
 essas modificações forem testadas, a aplicação do teste de regressão a esse software
 testará
 inclusive as partes que não tenham sido modificadas.
 
 Comentários:
-
 
 Perfeito! O teste de regressão testará tudo...
 
@@ -4706,7 +4599,7 @@ Não, a questão trata do teste beta.
 
 Gabarito: Errado
 
-Item. 59. (CESPE/INMETRO-2oIo) Um teste de recuperação deve evitar que o sistema apresente
+59. (CESPE/INMETRO-2oIo) Um teste de recuperação deve evitar que o sistema apresente
 falhas
 que interrompam o seu funcionamento.
 
@@ -4718,7 +4611,7 @@ recuperação de um sistema.
 
 Gabarito: Errado
 
-Item. 60. (CESPE / TRE-PR - 2009) Nos testes de integração, realizados antes dos testes
+60. (CESPE / TRE-PR - 2009) Nos testes de integração, realizados antes dos testes
 unitários, os
 componentes são construídos e testados separadamente.
 
@@ -4728,7 +4621,7 @@ Na verdade, testes de integração ocorrem após os testes unitários.
 
 Gabarito: Errado
 
-Item. 61. (CESPE / TRE-PR - 2009) O teste de aceitação envolve a integração de
+61. (CESPE / TRE-PR - 2009) O teste de aceitação envolve a integração de
 dois ou mais
 componentes que implementam funções ou características do sistema. Existem duas
 fases
@@ -4741,7 +4634,6 @@ não existe essa
 subdivisão de testes de sistema.
 
 Gabarito: Errado
-
 
 62.(CESPE / TRE-BA - 2009) A figura a seguir ilustra esquematicamente a técnica
 estrutural de
@@ -4765,7 +4657,7 @@ testes de condição, de fluxo de dados, de ciclos e de caminhos lógicos.
 
 Gabarito: Correto
 
-Item. 63. (CESPE / TRE-PR - 2009) Enquanto o teste caixa-preta é estrutural ou orientado
+63. (CESPE / TRE-PR - 2009) Enquanto o teste caixa-preta é estrutural ou orientado
 à lógica, o
 teste caixa-branca é funcional, orientado a dado ou orientado a entrada e saída.
 
@@ -4777,7 +4669,7 @@ Testes Caixa-Branca são estruturais ou orientados à lógica.
 
 Gabarito: Errado
 
-Item. 64. (CESPE/TRE-PR-2009) Entre os tipos de testes de caixa preta, encontram-se o teste
+64. (CESPE/TRE-PR-2009) Entre os tipos de testes de caixa preta, encontram-se o teste
 baseado
 em grafos; o particionamento de equivalência; a análise de valor-limite; e o
 teste de matriz
@@ -4788,7 +4680,6 @@ Comentários:
 De fato, todas essas são técnicas de teste caixa-preta.
 
 Gabarito: Correto
-
 
 6s.(CESPE / CEHAP-PB - 2009) Aplicado ao final do processo de teste, o teste
 caixa-preta ou
@@ -4802,7 +4693,7 @@ conteúdo interno dos componentes e são baseados em requisitos funcionais do so
 
 Gabarito: Correto
 
-Item. 66. (CESPE / CEHAP-PB - 2009) O teste gama envolve a liberação do sistema a uma
+66. (CESPE / CEHAP-PB - 2009) O teste gama envolve a liberação do sistema a uma
 série de
 clientes potenciais que concordam em usar esse sistema.
 
@@ -4836,7 +4727,7 @@ software, frequentemente é usado um processo de teste denominado teste beta".
 
 Gabarito: Errado
 
-Item. 68. (CESPE / MPE-RR - 2008) No Processo Unificado, um modelo de teste é
+68. (CESPE / MPE-RR - 2008) No Processo Unificado, um modelo de teste é
 tipicamente
 composto por casos de teste, os quais podem especificar como testar cenários
 específicos de
@@ -4846,14 +4737,13 @@ condições relevantes para as verificações dos cenários.
 
 Comentários:
 
-
 Ele - em geral - possui os seguintes campos: resumo, pré-condições, entradas, ações,
 resultados
 esperados e pós-condições.
 
 Gabarito: Correto
 
-Item. 69. (CESPE / IPEA - 2008) O teste caixa-preta ou comportamental, aplicado
+69. (CESPE / IPEA - 2008) O teste caixa-preta ou comportamental, aplicado
 no início do
 processo de teste, é embasado nos requisitos funcionais do software. Identifica, entre
 outros,
@@ -4878,7 +4768,7 @@ finais.
 
 Gabarito: Errado
 
-Item. 71. (CESPE / Hemobrás - 2008) As técnicas de avaliação de usabilidade
+71. (CESPE / Hemobrás - 2008) As técnicas de avaliação de usabilidade
 experimentais ou
 empíricas contam com a participação direta dos usuários e compreendem,
 basicamente, os
@@ -4900,7 +4790,6 @@ confiáveis.
 
 Gabarito: Correto
 
-
 -ji. (CESPE / TSE - 2007) Entre os artefatos produzidos por um processo de teste,
 têm-se os casos
 de teste. Um caso de teste é uma situação real de uso, pois não pode ser
@@ -4917,7 +4806,7 @@ pós-condições.
 
 Gabarito: Errado
 
-Item. 73. (CESPE / TSE - 2006) Os testes são realizados em várias fases de um
+73. (CESPE / TSE - 2006) Os testes são realizados em várias fases de um
 desenvolvimento. Testes
 de unidade são de baixo nível, testes de sistema são executados após os de
 integração, testes
@@ -4945,7 +4834,7 @@ porque pode medir a quantidade de código testada por um conjunto de casos de te
 
 Gabarito: Correto
 
-Item. 75. (CESPE / PMV-2005) O teste de usabilidade em um sítio da Web tem como objetivo
+75. (CESPE / PMV-2005) O teste de usabilidade em um sítio da Web tem como objetivo
 identificar
 problemas de usabilidade e coletar dados relacionados ao desempenho e às preferências
 dos
@@ -4957,10 +4846,9 @@ Esse desempenho - de fato - é relacionado à performance dos usuários na reali
 tarefas
 específicas.
 
-
 Gabarito: Correto
 
-Item. 76. (CESPE / SESPA-PA - 2004) Para efeito de validação de um software, o beta
+76. (CESPE / SESPA-PA - 2004) Para efeito de validação de um software, o beta
 teste é realizado
 pelo cliente usuário do software em um ambiente controlado, normalmente nas instalações
 do
@@ -4972,7 +4860,7 @@ Testes Alfa são feitos em ambiente controlado e Testes Beta são feitos em ambi
 
 Gabarito: Errado
 
-Item. 77. (CESPE / STJ - 2004) Um software-produto, antes de ser lançado no mercado
+77. (CESPE / STJ - 2004) Um software-produto, antes de ser lançado no mercado
 normalmente
 deve ser testado por usuários reais do sistema. Nessa etapa, configura-se a realização
 de beta
@@ -4985,7 +4873,6 @@ serem
 lançados no mercado.
 
 Gabarito: Correto
-
 
 QUESTõES CoMENTADAS - FCC
 
@@ -5016,7 +4903,7 @@ teste de regressão.
 
 Gabarito: Letra A
 
-Item. 2. (FCC / SEMEF MANAUS-AM - 2019) Considerando a realização de testes de caixa branca
+2. (FCC / SEMEF MANAUS-AM - 2019) Considerando a realização de testes de caixa branca
 e
 preta de software, a equipe técnica deve considerar que o teste de caixa:
 
@@ -5043,10 +4930,9 @@ qualquer componente do software ou o sistema por completo.
 
 Gabarito: Letra A
 
-Item. 3. (FCC / SEMEF MANAUS-AM -2019) Ao realizartestes de unidade de módulos de software,
+3. (FCC / SEMEF MANAUS-AM -2019) Ao realizartestes de unidade de módulos de software,
 um
 técnico de TI deve atentar que:
-
 
 a) um módulo pseudocontrolador é um módulo que contém apenas o número da versão do
 módulo sob teste.
@@ -5074,7 +4960,7 @@ pseudocontroladores substituem módulos chamados pelo módulo sob teste.
 
 Gabarito: Letra C
 
-Item. 4. (FCC / SEMEF MANAUS-AM -2019) A equipe de teste de software deve ter bem
+4. (FCC / SEMEF MANAUS-AM -2019) A equipe de teste de software deve ter bem
 entendido que
 um dos objetivos principais de um teste de software é:
 
@@ -5100,7 +4986,7 @@ sua especificação.
 
 Gabarito: Letra C
 
-Item. 5. (FCC / SEMEF MANAUS-AM - 2019) Uma equipe de assistentes técnicos está encarregada
+5. (FCC / SEMEF MANAUS-AM - 2019) Uma equipe de assistentes técnicos está encarregada
 de
 realizar os testes do software referente a um projeto. Dessa forma, essa equipe deve
 considerar
@@ -5111,7 +4997,6 @@ integração não
 introduza erros até então inexistentes. Tal tipo de teste denomina-se:
 
 a) de regressão.
-
 
 b) ascendente.
 
@@ -5129,7 +5014,7 @@ alterações não causem efeitos colaterais indesejados no software.
 
 Gabarito: Letra A
 
-Item. 6. (FCC/SEMEF MANAUS-AM-2019) A Fazenda Municipal aplica, em seus projetos de software,
+6. (FCC/SEMEF MANAUS-AM-2019) A Fazenda Municipal aplica, em seus projetos de software,
 as práticas de construção de software, dentre as quais está a codificação, que conta
 com três
 princípios fundamentais: de preparação, de codificação propriamente dita e de validação,
@@ -5162,7 +5047,7 @@ solucionado. (2) Compreendeu bem os princípios e conceitos básicos sobre o pro
 
 Gabarito: Letra D
 
-Item. 7. (FCC/SEFAZ-BA-2019) Suponha que uma Auditora Fiscal da área de TI atue na etapa
+7. (FCC/SEFAZ-BA-2019) Suponha que uma Auditora Fiscal da área de TI atue na etapa
 detestes
 e avaliação da qualidade de um software em desenvolvimento. Como o software
 sofria
@@ -5201,7 +5086,7 @@ regressão.
 
 Gabarito: Letra D
 
-Item. 8. (FCC/SEFAZ-BA-2019) Considere o procedimento apresentado na figura a seguir, no qual são
+8. (FCC/SEFAZ-BA-2019) Considere o procedimento apresentado na figura a seguir, no qual são
 utilizados documentos consistentes e adequados capazes de definir,
 registrar e prover
 condições de análise dos resultados obtidos ao longo do processo de testes de software.
@@ -5217,7 +5102,6 @@ Teste.
 b) Log de Teste e II corresponde ao Relatório de Incidentes de Teste.
 
 c) Gap de Teste e II corresponde à Refatoração de Testes.
-
 
 d) Registro de Testes Funcionais e Não Funcionais e II corresponde ao Relatório de
 Análise
@@ -5237,7 +5121,7 @@ para as devidas correções.
 
 Gabarito: Letra B
 
-Item. 9. (FCC / SEFAZ-SC - 2018) Os testes unitários são aplicados em subprogramas
+9. (FCC / SEFAZ-SC - 2018) Os testes unitários são aplicados em subprogramas
 individuais ou em
 componentes maiores construídos com unidades altamente coesas e são executados:
 
@@ -5340,7 +5224,6 @@ de forma que os módulos testados sejam integrados a partir do módulo de contro
 principal e
 os testes sejam conduzidos à medida que cada componente é inserido.
 
-
 O Auditor indicou em I e II, respectivamente, os testes de:
 
 a) caixa branca e de caixa preta, que são suficientes para validartodo o sistema.
@@ -5399,7 +5282,6 @@ c) um tipo diferente de teste para cada uma das situações elencadas.
 d) testes de caixa preta.
 
 e) testes de desempenho para os 2 primeiros e de carga para os demais.
-
 
 Comentários:
 
@@ -5463,7 +5345,6 @@ lógicos do software e as colaborações entre componentes são testados exercit
 conjuntos
 específicos de condições e/ou ciclos.
 
-
 O teste ...II... faz referência a testes realizados na interface do software. Esse
 tipo de teste
 examina alguns aspectos fundamentais de um sistema, com pouca preocupação em relação à
@@ -5491,7 +5372,7 @@ com pouca preocupação em relação à estrutura lógica interna do software.
 
 Gabarito: Letra C
 
-Item. 15. (FCC /TRT-PE -2012) No que se refere a testes de software, é correto afirmar que:
+15. (FCC /TRT-PE -2012) No que se refere a testes de software, é correto afirmar que:
 
 a) o teste de operação é a fase onde é testada a ergonomia da interface de uso do software.
 
@@ -5516,7 +5397,6 @@ do
 código ou lógica interna do componente de software; (c) Errado, um teste bem-sucedido
 é aquele
 que encontra erros - se ele não encontrar erros, é mais provável que o teste tenha sido mal feito;
-
 
 (d) Correto, essa é a definição de Teste Caixa-Branca; (e) Errado, não são possíveis
 resultados, são
@@ -5570,14 +5450,13 @@ um teste enviesado, de maneira que resulte nas saídas esperadas.
 
 Gabarito: Letra A
 
-Item. 17. (FCC / TRE-PE - 2011) Com relação aos testes de software, é correto afirmar:
+17. (FCC / TRE-PE - 2011) Com relação aos testes de software, é correto afirmar:
 
 a) Um princípio muitas vezes adotado ao testar um software é o de Pareto. Ele afirma que
 existe
 um forte desequilíbrio entre causas e efeitos, entre esforços e resultados e
 entre ações e
 objetivos alcançados.
-
 
 b) Testes sempre podem mostrar a ausência de erros.
 
@@ -5623,10 +5502,8 @@ e) dos requisitos não funcionais.
 
 Comentários:
 
-
 0 0 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
-
 
 Bastava lembrar da espiral! Testes de Integração estão associados ao Projeto de Software.
 
@@ -5666,7 +5543,7 @@ Logo, trata-se dos testes funcionais, de usabilidade e de aceitação.
 
 Gabarito: Letra A
 
-Item. 20. (FCC /TRT9-2010) O teste de sistema que força o software a falhar de diversos
+20. (FCC /TRT9-2010) O teste de sistema que força o software a falhar de diversos
 modos e verifica
 o retorno do processamento dentro de um tempo pré-estabelecido é um tipo de teste de:
 
@@ -5687,7 +5564,6 @@ o retorno do
 processamento dentro de um tempo pré-estabelecido é claramente o Teste de Recuperação!
 
 Gabarito: Letra C
-
 
 21.(FCC / SEFAZ-SP - 2009) Garantir que um ou mais componentes de um sistema combinados
 funcionam corretamente é o objetivo do tipo de teste:
@@ -5710,7 +5586,7 @@ do modo correto.
 
 Gabarito: Letra B
 
-Item. 22. (FCC / TRT15 - 2009) Os testes de integração têm por objetivo verificar se:
+22. (FCC / TRT15 - 2009) Os testes de integração têm por objetivo verificar se:
 
 a) os módulos testados produzem os mesmos resultados que as
 unidades testadas
@@ -5738,7 +5614,7 @@ mas não está errado - as funcionalidades dos módulos testados atendem aos req
 
 Gabarito: Letra C
 
-Item. 23. (FCC /TRT-MG -2009) NÃO se trata de uma técnica para testar software o teste de:
+23. (FCC /TRT-MG -2009) NÃO se trata de uma técnica para testar software o teste de:
 
 a) caixa preta.
 
@@ -5749,7 +5625,6 @@ c) desempenho.
 d) unidade.
 
 e) carga
-
 
 Comentários:
 
@@ -5805,7 +5680,6 @@ do modo correto.
 
 Gabarito: Letra C
 
-
 26.(FCC /TRT-GO-2008) Uma sistemática para construção da arquitetura do software
 enquanto,
 ao mesmo tempo, conduz ao descobrimento de erros associados às interfaces é a
@@ -5856,7 +5730,6 @@ seu código-fonte! Logo, trata-se de uma técnica de teste baseada em código!
 
 Gabarito: Letra B
 
-
 QUESTõES CoMENTADAS - FCV
 
 í. (FGV / IMBEL - 2021) Com referência às metodologias de teste de software, a
@@ -5889,7 +5762,7 @@ testes não-funcionais).
 
 Gabarito: Letra C
 
-Item. 2. (FGV / FUNSAÚDE-CE - 2021) No contexto da testagem de software, os testes do
+2. (FGV / FUNSAÚDE-CE - 2021) No contexto da testagem de software, os testes do
 tipo Unitário,
 aplicam-se normalmente:
 
@@ -5915,10 +5788,9 @@ teste de carga.
 
 Gabarito: Letra B
 
-Item. 3. (FGV / TCE-AM - 2021) A Equipe de Desenvolvimento de Software (EDS) de um
+3. (FGV / TCE-AM - 2021) A Equipe de Desenvolvimento de Software (EDS) de um
 tribunal de
 contas está trabalhando na construção de componentes de um novo sistema de software.
-
 
 Para verificar o funcionamento do software no nível de componente, a EDS deverá
 aplicartestes
@@ -5953,7 +5825,7 @@ realmente buscam exercitar decisões lógicas internas em seus lados verdadeiros
 
 Gabarito: Letra E
 
-Item. 4. (FGV / DPE-RJ - 2019) Uma empresa foi contratada por um órgão
+4. (FGV / DPE-RJ - 2019) Uma empresa foi contratada por um órgão
 governamental para
 modificar e adaptar um sistema para gerenciamento eletrônico de documentos, com base nas
 especificações criadas pelo próprio órgão. A contratada entregou ao órgão uma
@@ -5983,7 +5855,6 @@ teste de
 aceitação, que verifica se o software está de acordo com os requisitos estabelecidos.
 
 Gabarito: Letra D
-
 
 5- (FGV / DPE-RJ - 2019) No processo de validação de software, quando os
 componentes
@@ -6015,7 +5886,7 @@ alternativa "mais correta".
 
 Gabarito: Letra D
 
-Item. 6. (FGV / AL-RO - 2018) O teste de software que visa verificar que, por exemplo,
+6. (FGV / AL-RO - 2018) O teste de software que visa verificar que, por exemplo,
 a correção de
 uma falha (ou bug) não introduziu uma nova falha (ou bug), é o teste:
 
@@ -6043,7 +5914,7 @@ razões) não introduzam comportamento indesejado ou erros adicionais.
 
 Gabarito: Letra D
 
-Item. 7. (FGV / MPE-AL - 2018) Eduardo é o líder técnico do Sistema de Vendas de uma
+7. (FGV / MPE-AL - 2018) Eduardo é o líder técnico do Sistema de Vendas de uma
 rede de
 farmácias. O sistema deve ser utilizado em mais de 40 unidades espalhadas por vários
 estados.
@@ -6072,7 +5943,7 @@ processamento de dados, entre outros.
 
 Gabarito: Letra C
 
-Item. 8. (FGV / BANESTES - 2018) No contexto de teste de software, o termo "Beta teste"
+8. (FGV / BANESTES - 2018) No contexto de teste de software, o termo "Beta teste"
 caracteriza
 testes que:
 
@@ -6098,7 +5969,7 @@ realizados no ambiente do desenvolvedor; (e) Correto, é como funciona o teste b
 
 Gabarito: Letra E
 
-Item. 9. (FGV / BANESTES - 2018) O termo "Alfa teste" caracteriza testes de software que:
+9. (FGV / BANESTES - 2018) O termo "Alfa teste" caracteriza testes de software que:
 
 a) empregam primordialmente técnicas conhecidas como "Black box";
 
@@ -6109,7 +5980,6 @@ c) focam em pontos como performance e confiabilidade;
 d) são realizados em ambientes controlados pelo desenvolvedor;
 
 e) são realizados por usuários externos, em condições de uso semelhantes às de produção.
-
 
 Comentários:
 
@@ -6170,7 +6040,6 @@ computacional para garantir a qualidade e detectar falhas antes que ele seja
 disponibilizado
 para os seus usuários finais. Analise as afirmativas a seguir sobre tipos de teste de software:
 
-
 I. Teste de caixa preta é uma técnica de teste onde o código-fonte e a estrutura
 interna do
 sistema são considerados para modelar os casos de teste.
@@ -6203,7 +6072,7 @@ usabilidade.
 
 Gabarito: Letra B
 
-Item. 12. (FGV / ALERJ - 2017) A atividade de teste de software contribui para revelar
+12. (FGV / ALERJ - 2017) A atividade de teste de software contribui para revelar
 defeitos latentes
 nos programas. Em relação às técnicas de testes de software, é correto afirmar que:
 
@@ -6229,7 +6098,6 @@ hardwares e sob diferentes condições.
 
 Comentários:
 
-
 (a) Correto, em testes caixa-branca, teoricamente você deve testar todo caminho possível
 através
 do código - na prática, isso é meio inviável, (b) Errado, isso é um teste de
@@ -6240,7 +6108,7 @@ Errado, isso é um teste de instalação.
 
 Gabarito: Letra A
 
-Item. 13. (FGV / IBGE - 2016) Os testes de aceitação são muitas vezes a última etapa de
+13. (FGV / IBGE - 2016) Os testes de aceitação são muitas vezes a última etapa de
 testes antes de
 implantar o software em produção. Seu objetivo maior é verificar se o software está
 apto para
@@ -6286,7 +6154,7 @@ sim - ser realizado de forma automatizada.
 
 Gabarito: Letra E
 
-Item. 14. (FGV / IBGE -2016) Trata-se de um teste que desconhece o conteúdo do código
+14. (FGV / IBGE -2016) Trata-se de um teste que desconhece o conteúdo do código
 fonte. Nesse
 teste o componente testado é tratado como uma caixa preta: são fornecidos dados de entrada
 e o resultado comparado com aquele esperado e previamente conhecido. Além disso, esse
@@ -6311,7 +6179,7 @@ detalhes de implementação -também chamados de testes caixa-preta.
 
 Gabarito: Letra A
 
-Item. 15. (FGV/ Prefeitura de Paulínia - SP - 2016) A equipe de desenvolvimento de sistemas
+15. (FGV/ Prefeitura de Paulínia - SP - 2016) A equipe de desenvolvimento de sistemas
 da empresa
 "Sistemas Unidos" está trabalhando em um software com a utilização do processo
 unificado.
@@ -6350,7 +6218,6 @@ fazer essa
 avaliação, José está realizando testes do tipo:
 
 a) unitário.
-
 
 b) de integração.
 
@@ -6395,7 +6262,6 @@ esperado para
 o sistema.
 
 Comentários:
-
 
 (a) Errado, esse seria o teste de desempenho; (b) Correto, o teste unitário realmente
 testa o menor
@@ -6461,7 +6327,6 @@ c) de fluxo de dados.
 
 d) de caminho básico.
 
-
 e) de lógica composta.
 
 Comentários:
@@ -6472,7 +6337,7 @@ caixa-preta.
 
 Gabarito: Letra A
 
-Item. 20. (FGV / BADESC - 2010) O teste de software que projeta casos de
+20. (FGV / BADESC - 2010) O teste de software que projeta casos de
 testes derivados do
 conhecimento da estrutura e da implementação do software é conhecido por:
 
@@ -6493,7 +6358,6 @@ implementação do
 software é o famoso teste caixa-branca ou teste caixa-clara.
 
 Gabarito: Letra B
-
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -6542,7 +6406,6 @@ Comentários:
 de algoritmos,
 linguagem de programação ou quaisquer outras estruturas de dados, dessa funcionalidade".
 
-
 Essa é a dica para matar a questão: se não se avalia o funcionamento interno do
 software, apenas
 o seu "comportamento e as correspondentes saídas de dados", está na cara que é um
@@ -6551,7 +6414,7 @@ Preta.
 
 Gabarito: Letra D
 
-Item. 2. (IDHTEC/ PREFEITURA DE MARAGOGI-AL-2019) Engenharia de software é uma abordagem
+2. (IDHTEC/ PREFEITURA DE MARAGOGI-AL-2019) Engenharia de software é uma abordagem
 sistemática e disciplinada para o desenvolvimento de software (PRESSMAN, 2006). Considere
 V para afirmativa verdadeira e F para falsa:
 
@@ -6601,8 +6464,7 @@ linguagem de programação; (V) Correto, trata-se de uma definição de testes d
 
 Gabarito: Letra E
 
-
-Item. 3. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Quanto à Automação de Testes, julgue os
+3. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Quanto à Automação de Testes, julgue os
 itens a seguir:
 
 I. Ferramentas de automação não possuem outros usos, além da medição de performance de
@@ -6641,7 +6503,7 @@ fonte.
 
 Gabarito: Letra C
 
-Item. 4. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Sobre testes, analise as
+4. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Sobre testes, analise as
 afirmativas a
 seguir:
 
@@ -6659,7 +6521,6 @@ Integração, cuja responsabilidade principal fica a cargo dos desenvolvedores d
 que
 são profissionais que conhecem bem o código-fonte desenvolvido e dessa forma conseguem
 planejar os casos de teste com maior facilidade.
-
 
 III. Teste Funcional é a Técnica de teste em que o componente de software a
 ser testado é
@@ -6689,7 +6550,7 @@ efeitos colaterais, uma vez que o objetivo deles é a reexecução dos testes qu
 
 Gabarito: Letra C
 
-Item. 5. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Com relação aos testes realizados no
+5. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Com relação aos testes realizados no
 processo de desenvolvimento de software, julgue as afirmativas a seguir:
 
 I. Diversas atividades de testes são executadas a fim de se validar o produto de
@@ -6722,7 +6583,6 @@ e) As afirmativas I, II e III.
 
 Comentários:
 
-
 (I) Correto, é como funcionam os testes de software; (II) Correto, os testes de
 integração verificam
 o funcionamento em conjunto dos componentes do sistema; (III) Errado, os testes de
@@ -6731,7 +6591,7 @@ realizados pelos desenvolvedores, e não pelos usuários finais.
 
 Gabarito: Letra D
 
-Item. 6. (AVANÇA SP / CÂMARA MUNICIPAL DE TABOÃO DA SERRA-SP - 2019) No que se refere às
+6. (AVANÇA SP / CÂMARA MUNICIPAL DE TABOÃO DA SERRA-SP - 2019) No que se refere às
 técnicas de teste de software, há os testes conhecidos como "caixa preta" e "caixa
 branca".
 Sobre 0 tema, analise os itens a seguir e, ao final, assinale a alternativa correta:
@@ -6768,11 +6628,10 @@ qualquer conhecimento do código ou lógica interna do componente de software.
 
 Gabarito: Letra C
 
-Item. 7. (FUNDEP / PREFEITURA DE LAGOA SANTA-MG - 2019) Assinale a associação
+7. (FUNDEP / PREFEITURA DE LAGOA SANTA-MG - 2019) Assinale a associação
 correta
 presente na tabela ASSOCIAÇÕES que define corretamente os elementos a definir da TABELA
 A com as definições ou caracterizações da TABELA B.
-
 
 TABELA A
 
@@ -6813,11 +6672,9 @@ está de acordo com sua especificação e
 satisfaz às necessidades reais dos usuários
 do sistema.
 
-
 TABELA A
 
 Z
-
 
 TABELA B
 B
@@ -6828,11 +6685,9 @@ C
 D
 E
 
-
 TABELA A
 
 Z
-
 
 TABELA B
 B
@@ -6842,11 +6697,9 @@ D
 C
 E
 
-
 TABELA A
 
 Z
-
 
 TABELA B
 C
@@ -6858,11 +6711,9 @@ E
 
 □
 
-
 TABELA A
 
 Z
-
 
 TABELA B
 C
@@ -6894,10 +6745,9 @@ está de acordo com sua especificação e satisfaz às necessidades reais dos us
 
 Gabarito: Letra B
 
-Item. 8. (IESES / SCGÁS - 2019) Identifique a alternativa que descreve inequivocamente a
+8. (IESES / SCGÁS - 2019) Identifique a alternativa que descreve inequivocamente a
 intenção do
 teste de verificação de software ou, mais genericamente, verificação e validação (V&V):
-
 
 a) O teste de verificação de software tem a intenção de mostrar que um software se
 adequa às
@@ -6929,7 +6779,7 @@ cada estágio do processo de software
 
 Gabarito: Letra A
 
-Item. 9. (IESES / SCGÁS - 2019) Assinale a alternativa correta que apresenta a diferença
+9. (IESES / SCGÁS - 2019) Assinale a alternativa correta que apresenta a diferença
 entre teste de
 defeito e debugging:
 
@@ -6953,10 +6803,9 @@ erros.
 
 Gabarito: Letra A
 
-Item. 10. (IBADE / PREFEITURA DE VILHENA-RO - 2019) Sobre teste de software, podemos
+10. (IBADE / PREFEITURA DE VILHENA-RO - 2019) Sobre teste de software, podemos
 diferenciar
 teste da caixa preta e teste da caixa branca respectivamente da seguinte maneira:
-
 
 a) enquanto o primeiro ignora o código fonte, o segundo busca garantir que os
 componentes do
@@ -7023,7 +6872,6 @@ usabiIidade; (c)
 Errado, trata-se dos testes de caixa-preta em que o objetivo é testar se o software funciona ou
 não,
 
-
 ademais, nos testes de caixa-preta não há acesso às estruturas internas de um
 software, (d) Errado,
 trata-se dos de testes de Integração que são caracterizados por testar as
@@ -7034,7 +6882,7 @@ de testes unitários.
 
 Gabarito: Letra E
 
-Item. 12. (INSTITUTO AOCP / IBGE - 2019) Para chegar a um nível de perfeição de um
+12. (INSTITUTO AOCP / IBGE - 2019) Para chegar a um nível de perfeição de um
 software, é
 necessário aplicar muitos testes, sendo que o teste de integração é um dos mais
 importantes.
@@ -7066,7 +6914,7 @@ integração podem realizar testes de caixa-branca.
 
 Gabarito: Letra D
 
-Item. 13. (INSTITUTO AOCP / IBGE - 2019) A respeito dos testes de aceitação, analise as
+13. (INSTITUTO AOCP / IBGE - 2019) A respeito dos testes de aceitação, analise as
 assertivas e
 assinale a alternativa que aponta(s) as correta(s).
 
@@ -7087,7 +6935,6 @@ b) Apenas II.
 c) Apenas III.
 
 d) Apenas I e II.
-
 
 e) Apenas II e III.
 
@@ -7148,7 +6995,6 @@ Gabarito: Correto
 16.(COLÉGIO PEDRO II -2019) Teste é um conjunto de atividades que podem ser planejadas com
 antecedência e executadas sistematicamente. Deverá ser definido, para o processo de software,
 
-
 um conjunto de etapas nas quais podem-se empregartécnicas específicas de projeto de
 caso de
 teste e métodos de teste. O processo de software pode ser visto como a espiral
@@ -7191,7 +7037,7 @@ Observem que a questão pergunta do final do espiral para o começo.
 
 Gabarito: Letra D
 
-Item. 17. (COVEST-COPSET / UFPE - 2019) A respeito de princípios básicos para elaboração de
+17. (COVEST-COPSET / UFPE - 2019) A respeito de princípios básicos para elaboração de
 testes
 de software, assinale a alternativa correta.
 
@@ -7200,7 +7046,6 @@ a) A definição da saída ou resultado esperado é uma parte desnecessária em 
 b) Testes de software são tarefas repetitivas, pouco criativas ou desafiadoras, pois
 são fáceis de
 automatizar quando pensadas no início do projeto.
-
 
 c) Se muitos erros já foram encontrados em uma seção do programa, a
 probabilidade de
@@ -7266,7 +7111,6 @@ diminuir; (c) Errado, o teste de condição é um teste de caixa-branca; (d) Cor
 a definição do
 teste de partição; (e) Errado, a suposição de erros é um teste de caixa-preta.
 
-
 Gabarito: Letra D
 
 ig.(COVEST-COPSET / UFPE-2019) Quanto aos tipos detestes de software, assinale a
@@ -7309,7 +7153,7 @@ anterior.
 
 Gabarito: Letra D
 
-Item. 20. (COVEST-COPSET / UFPE - 2019) Como parte da prática de Integração
+20. (COVEST-COPSET / UFPE - 2019) Como parte da prática de Integração
 Contínua (Cl),
 podemos elaborar testes unitários, testes de integração e testes de aceitação. Ao se
 executar
@@ -7322,7 +7166,6 @@ funcionamento de tarefas críticas.
 b) executa-se a rotina com uma entrada pré-definida e compara-se a saída com um
 resultado
 pré-definido.
-
 
 c) executa-se o sistema inteiro com foco na especificação das funcionalidades para
 saber se a
@@ -7348,7 +7191,7 @@ defeitos e inconsistências com relação a sua especificação de requisitos.
 
 Gabarito: Letra C
 
-Item. 21. (CESGRANRIO / UNIRIO - 2019) José é um desenvolvedor e acabou de fazer uma
+21. (CESGRANRIO / UNIRIO - 2019) José é um desenvolvedor e acabou de fazer uma
 alteração no
 código. O gerente de projeto definiu que serão realizados os
 seguintes testes:
@@ -7388,7 +7231,6 @@ Já o entendimento de Sommerville é que o teste de aceitação (validação) oc
 do teste de
 sistema.
 
-
 Software
 executável
 
@@ -7424,10 +7266,8 @@ são projetados para determinar o grau com o qual a interface de um software fac
 a vida do
 usuário; (d) Errado, os testes de desempenho são utilizados testar o desempenho em tempo de
 
-
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
-
 
 execução do software dentro do contexto de um sistema integrado; (e) Errado, esses
 testes não são
@@ -7435,7 +7275,7 @@ comuns nos testes de integração.
 
 Gabarito: Letra B
 
-Item. 23. (FEPESE / CELESC - 2019) Assinale a alternativa que apresenta o tipo de teste de software que
+23. (FEPESE / CELESC - 2019) Assinale a alternativa que apresenta o tipo de teste de software que
 é baseado nos requisitos funcionais do software. Neste tipo de teste os casos de
 teste são
 gerados sem o conhecimento da estrutura interna do software:
@@ -7488,7 +7328,6 @@ impecavelmente.
 
 As lacunas das sentenças podem ser preenchidas CORRETAMENTE com a opção:
 
-
 a) Integração, Unidade, Fumaça, Integração, Regressão.
 
 b) Unidade, Integração, Regressão, Usabilidade, Regressão.
@@ -7513,7 +7352,7 @@ teste de regressão.
 
 Gabarito: Letra A
 
-Item. 25. (IF-PE / IF-PE - 2019) Em relação aos testes de software, podemos afirmar que:
+25. (IF-PE / IF-PE - 2019) Em relação aos testes de software, podemos afirmar que:
 
 I. teste de unidade é a realização de testes sobre unidades do sistema para garantir
 que a
@@ -7547,7 +7386,6 @@ de exercitar o sistema como um todo.
 
 Gabarito: Letra A
 
-
 26.(VUNESP / PREFEITURA DE ITAPEVI-SP - 2019) Um programador, após desenvolver
 um
 programa, iniciou o processo de depuração do código. O teste projetado em função da
@@ -7578,7 +7416,7 @@ código-fonte do software.
 
 Gabarito: Letra D
 
-Item. 27. (VUNESP / PREFEITURA DE PIRACICABA-SP - 2019) Dentre as técnicas de teste de
+27. (VUNESP / PREFEITURA DE PIRACICABA-SP - 2019) Dentre as técnicas de teste de
 software,
 pode-se estabelecer uma categorização entre testes de caixa preta e de caixa branca,
 sendo
@@ -7610,7 +7448,6 @@ software, conhecidos como testes alfa e beta, segundo os quais:
 a) o teste alfa é realizado nas instalações do desenvolvedor do software.
 
 b) o teste beta é realizado nas instalações do desenvolvedor do software.
-
 
 c) os testes alfa e beta são executados em um ambiente tercerizado.
 
@@ -7652,7 +7489,7 @@ colaterais indesejados é o teste de regressão.
 
 Gabarito: Letra E
 
-Item. 30. (IDECAN / IF-PB- 2019) O processo de teste tem dois objetivos distintos:
+30. (IDECAN / IF-PB- 2019) O processo de teste tem dois objetivos distintos:
 
 i) Demonstrar ao desenvolvedor e ao cliente que o software atende a seus requisitos e
 ii) Descobrir situações em que o software se comporta de maneira incorreta, indesejável
@@ -7673,7 +7510,6 @@ d) testes de integração focam na descoberta de erros associados com interfaces
 
 e) teste fumaça é uma abordagem de testes unitários.
 
-
 Comentários:
 
 (a) Correto, é impossível testar todas as possibilidades de defeitos de um sistema;
@@ -7688,7 +7524,7 @@ Errado, o teste de fumaça está relacionado ao teste de integração.
 
 Gabarito: Letra E
 
-Item. 31. (CCV / UFC - 2019) Sobre os tipos de testes de software, marque o item correto.
+31. (CCV / UFC - 2019) Sobre os tipos de testes de software, marque o item correto.
 
 a) Nos testes caixa-preta, todo o código da aplicação estará disponível para o
 profissional de
@@ -7727,12 +7563,11 @@ de integração.
 
 Gabarito: Letra D
 
-Item. 32. (CCV / UFC - 2019) Durante o desenvolvimento de um sistema, é necessária a
+32. (CCV / UFC - 2019) Durante o desenvolvimento de um sistema, é necessária a
 realização de
 testes, sendo um deles denominado de teste beta. Sobre esse tipo de teste,
 assinale a
 alternativa correta:
-
 
 a) É realizado no ambiente de desenvolvimento, onde somente os desenvolvedores envolvidos
 na escrita do código realizarão os testes.
@@ -7765,7 +7600,7 @@ desenvolvimento.
 
 Gabarito: Letra E
 
-Item. 33. (IF/ MS -2019) Segundo Pressman (2011), considere as seguintes afirmações sobre
+33. (IF/ MS -2019) Segundo Pressman (2011), considere as seguintes afirmações sobre
 Engenharia
 de Software:
 
@@ -7790,7 +7625,6 @@ c) Apenas a afirmação III é verdadeira.
 d) Apenas as afirmações I e III são verdadeiras.
 
 e) Apenas as afirmações II e III são verdadeiras.
-
 
 Comentários:
 
@@ -7847,9 +7681,8 @@ desempenho; (V) Correto,
 
 Gabarito: Letra C
 
-Item. 35. (FAUGRS/ UFCSPA-RS-2018) No teste de, os módulos são combinados e testados
+35. (FAUGRS/ UFCSPA-RS-2018) No teste de, os módulos são combinados e testados
 em grupo. Ele sucede o teste de, em que os módulos são testados individualmente,
-
 
 e antecede o teste de, em que o sistema completo é testado em um
 ambiente que
@@ -7914,7 +7747,6 @@ introduzidos novos erros, trata-se do teste de regressão.
 
 Gabarito: Letra C
 
-
 37-(FUNDATEC / CIGA-SC - 2018) A equipe responsável pelo desenvolvimento de um software
 está agilizando a conclusão de um release para entregá-lo estável ao cliente. No
 momento, as
@@ -7958,7 +7790,7 @@ preta.
 
 Gabarito: Letra B
 
-Item. 38. (INSTITUO AOCP/ PRODEB-2018) Qual é o tipo detestes em que o testadorestá
+38. (INSTITUO AOCP/ PRODEB-2018) Qual é o tipo detestes em que o testadorestá
 preocupado
 com a funcionalidade e não com a implementação?
 
@@ -7981,7 +7813,6 @@ importante do que a
 implementação pois para os clientes - normalmente - não importa como
 o software foi
 implementado, o que importa é que o software é funcional.
-
 
 Gabarito: Letra B
 
@@ -8037,7 +7868,6 @@ sistemática para construir a arquitetura de software ao mesmo tempo que
 conduz testes para
 descobrir erros associados com as interfaces.
 
-
 Gabarito: Errado
 
 43.(IBADE / IPM-JP- 2018) No âmbito dos testes de integração, a atividade de
@@ -8091,12 +7921,11 @@ sistema em relação aos seus requisitos originais e às necessidades atuais do 
 
 Gabarito: Letra A
 
-Item. 45. (AOCP / SUSIPE-PA - 2018) Sobre os testes de software, assinale a alternativa correta.
+45. (AOCP / SUSIPE-PA - 2018) Sobre os testes de software, assinale a alternativa correta.
 
 a) Um teste de regressão visa refazer os testes feitos anteriormente, visando
 garantir o
 funcionamento correto destes.
-
 
 b) Um teste operacional tem como objetivo testar a aplicação em funcionamento no
 sistema
@@ -8164,7 +7993,6 @@ c) Teste de validação.
 
 d) Teste de unidade.
 
-
 e) Teste de projeto.
 
 Comentários:
@@ -8225,7 +8053,6 @@ d) 2-3-5-g.
 e) 5-4-6-8.
 
 Comentários:
-
 
 (2) O teste que verifica o software da forma como ele deve funcionar, ou seja se
 ele está de acordo
@@ -8290,10 +8117,9 @@ verificação de softwares que visa exercitar caminhos do programa (executar seq
 linhas
 de código) com base nas definições e usos de cada variável.
 
-
 Gabarito: Letra B
 
-Item. 51. (UFPR/COREN-PR-2018) Sobre testes de software, identifique como verdadeiras (V) ou
+51. (UFPR/COREN-PR-2018) Sobre testes de software, identifique como verdadeiras (V) ou
 falsas
 
 (F) as seguintes afirmativas:
@@ -8332,7 +8158,7 @@ de aceitação focaliza apenas em ações visíveis ao usuário.
 
 Gabarito: Letra A
 
-Item. 52. (FAURGS / BANRISUL - 2018) No desenvolvimento de software, o processo de teste
+52. (FAURGS / BANRISUL - 2018) No desenvolvimento de software, o processo de teste
 resulta na
 produção de distintos artefatos. Dentre estes, documentos. Sobre o documento Plano de
 Teste,
@@ -8347,7 +8173,6 @@ c) Necessidades em termos de recursos humanos e treinamentos.
 d) Casos de teste.
 
 e) Cronograma.
-
 
 Comentários:
 
@@ -8365,7 +8190,7 @@ testar um software.
 
 Gabarito: Letra D
 
-Item. 53. (FAURGS / BANRISUL - 2018)é uma técnica utilizada para se
+53. (FAURGS / BANRISUL - 2018)é uma técnica utilizada para se
 projetar casos de
 teste, na qual o programa ou sistema é considerado como uma caixa-preta. Nesta técnica
 os
@@ -8438,7 +8263,7 @@ sistema é conseguida, analisando se o produto pode ser liberado para os cliente
 
 Gabarito: Letra A
 
-Item. 55. (FAURGS / BANRISUL-2018)é o teste que tem como foco as menores
+55. (FAURGS / BANRISUL-2018)é o teste que tem como foco as menores
 unidades
 de um programa, que podem serfunções, procedimentos, métodos ou classes. Neste contexto,
 espera-se que sejam identificados erros relacionados a algoritmos
@@ -8467,7 +8292,6 @@ Gabarito: Letra C
 56.(FAURGS / BANRISUL - 2018) Considere as seguintes afirmações sobre o Modelo "V" de
 teste
 de software.
-
 
 I - Descreve a relação entre ações de garantia da qualidade e as ações associadas à comunicação,
 modelagem e atividades iniciais de construção.
@@ -8508,13 +8332,12 @@ um programa atende a sua especificação (verificação) e às necessidades reai
 stakeholders
 (validação). O modelo em "V" ilustra os testes responsáveis por isso.
 
-
 Software
 executável
 
 Gabarito: Letra E
 
-Item. 57. (FAURGS / BANRISUL - 2018) Considere as seguintes afirmações sobre objetivos de teste.
+57. (FAURGS / BANRISUL - 2018) Considere as seguintes afirmações sobre objetivos de teste.
 
 I - A definição dos critérios de aceitação deve idealmente ocorrer depois do contrato
 do sistema
@@ -8541,7 +8364,6 @@ c) Apenas I e III.
 d) Apenas II e III.
 
 e) I, II, III.
-
 
 Comentários:
 
@@ -8603,7 +8425,6 @@ a) Linguagem de desenvolvimento.
 
 b) Usabilidade.
 
-
 c) Localização geográfica do dispositivo.
 
 d) Volume de dados.
@@ -8664,7 +8485,6 @@ e) i-3-4-2.
 
 Comentários:
 
-
 (2) O Teste que detecta falhas nas interfaces é o teste de integração; (4) O teste
 que avalia se os
 requisitos do software estão adequados é o teste de aceitação (validação); (1) O teste
@@ -8723,7 +8543,6 @@ b) I e II, apenas.
 c) I e III, apenas.
 
 d) II e III, apenas.
-
 
 Comentários:
 
@@ -8785,7 +8604,6 @@ programadorfica olhando o usuário utilizar o software e registra os erros que o
 
 Gabarito: Letra A
 
-
 65-(IADES / CFM - 2018) A respeito dos processos de verificação, de validação e de teste de
 software, assinale a opção correta.
 
@@ -8823,7 +8641,7 @@ realizados durante a atividade de verificação.
 
 Gabarito: Letra D
 
-Item. 66. (CS / SANEAGO-GO - 2018) No âmbito da Engenharia de Software, testes de unidade
+66. (CS / SANEAGO-GO - 2018) No âmbito da Engenharia de Software, testes de unidade
 são
 aqueles realizados:
 
@@ -8846,7 +8664,6 @@ de
 verificação nas menores unidades de projeto do software, como métodos e classes.
 
 Gabarito: Letra B
-
 
 67.(COPEREVE / UFSC - 2018) Considere as seguintes afirmativas a respeito de teste de
 software
@@ -8888,7 +8705,7 @@ de caixa-preta; (IV) Correto, essa é a definição de teste de integração.
 
 Gabarito: Letra A
 
-Item. 68. (CONSUPLAN / CÂMARA DE BELO HORIZONTE-MG - 2018) Na análise e
+68. (CONSUPLAN / CÂMARA DE BELO HORIZONTE-MG - 2018) Na análise e
 projeto de
 sistemas, uma fase considerada muito importante é a de testes. Diversos tipos de
 testes são
@@ -8912,7 +8729,6 @@ d) Testes de Integração.
 
 Comentários:
 
-
 Questão polêmica, a meu ver não há como definirem qual estágio os testes de
 caixa-branca e caixa-
 preta pertencem. Por exemplo, não há nada que impeça que um teste de caixa-preta seja
@@ -8921,7 +8737,7 @@ nas fases de teste de integração, sistema ou aceitação.
 
 Gabarito: Letra B
 
-Item. 69. (PR4/UFRJ-2018) Com relação a teste de software, quando questionado sobre a
+69. (PR4/UFRJ-2018) Com relação a teste de software, quando questionado sobre a
 construção
 de um produto corretamente, a referência se dá ao conjunto de atividades que garantem
 que o
@@ -8975,10 +8791,9 @@ tempo que conduz testes para descobrir erros associados com as interfaces, ou
 seja, os
 componentes já foram testados a nível de unidade, agora eles devem ser testados todos juntos.
 
-
 Gabarito: Letra A
 
-Item. 71. (CESGRANRIO / TRANSPETRO - 2018) Entre as técnicas de teste de software, aquela
+71. (CESGRANRIO / TRANSPETRO - 2018) Entre as técnicas de teste de software, aquela
 que gera
 versões levemente modificadas de um programa sob teste e exercita tanto o programa
 original
@@ -9029,7 +8844,6 @@ d) Refatoração
 e) Teste de integração
 
 Comentários:
-
 
 Quem verifica novamente os casos de teste aprovados em versões prévias do software e
 assim
@@ -9117,7 +8931,7 @@ o sistema regrediu.
 
 Gabarito: Letra D
 
-Item. 75. (IF-PE / IF-PE - 2016) Em relação aos Testes na Engenharia de Software, qual é
+75. (IF-PE / IF-PE - 2016) Em relação aos Testes na Engenharia de Software, qual é
 o que se refere
 ao reteste de uma unidade, integração ou sistema, após uma modificação, a fim de
 verificar se
@@ -9155,7 +8969,6 @@ II - O teste de desempenho tem porfinalidade elaborar casos de teste que possam
 subverter as
 verificações de segurança do programa.
 
-
 III - O teste de caixa branca trabalha diretamente sobre o código fonte do
 componente de
 software.
@@ -9188,7 +9001,7 @@ preta não possuem acesso ao código-fonte de componentes de software.
 
 Gabarito: Letra B
 
-Item. 77. (IESES / TRE-MA - 2015) É notório e de comprovado valor que os testes são a
+77. (IESES / TRE-MA - 2015) É notório e de comprovado valor que os testes são a
 melhor maneira
 de se garantir a qualidade de um software. O teste de regressão é um dos tipos de
 testes, que
@@ -9217,7 +9030,6 @@ Gabarito: Letra B
 78.(CESGRANRIO/Banco da Amazônia-2014) Um tipo deteste de validação possui as seguintes
 características:
 
-
 Realizado na instalação dos desenvolvedores.
 
 Conduzido em um ambiente controlado.
@@ -9240,7 +9052,7 @@ nas instalações destes - em um ambiente controlado - é o Teste Alfa.
 
 Gabarito: Letra A
 
-Item. 79. (CESGRANRIO / IBGE - 2014) Antes de lançar seu próximo produto, uma
+79. (CESGRANRIO / IBGE - 2014) Antes de lançar seu próximo produto, uma
 empresa de
 desenvolvimento de software costuma convidar seus principais clientes para testar uma
 versão
@@ -9264,7 +9076,7 @@ isso nos remete a testes alfa.
 
 Gabarito: Letra A
 
-Item. 80. (CESGRANRIO / IBGE-2014) No ciclo de desenvolvimento de sistemas, ostestes são de
+80. (CESGRANRIO / IBGE-2014) No ciclo de desenvolvimento de sistemas, ostestes são de
 suma
 importância e podem, dependendo do porte do sistema, ser bastante complexos, exigindo
 que
@@ -9287,7 +9099,7 @@ O teste que verifica se o sistema cumpre o que foi solicitado é o teste de acei
 
 Gabarito: Letra E
 
-Item. 81. (CESGRANRIO / IBGE-2014) Preocupado com os constantes erros nos sistemas entregues
+81. (CESGRANRIO / IBGE-2014) Preocupado com os constantes erros nos sistemas entregues
 aos
 usuários, um analista de desenvolvimento resolveu realizar testes conforme o
 modelo V. A
@@ -9324,7 +9136,6 @@ a) testes unitários.
 b) testes de integração.
 
 c) testes de usabilidade.
-
 
 d) testes de regressão.
 
@@ -9386,7 +9197,6 @@ teste de regressão; (e) Errado, isso não é teste de regressão.
 
 Gabarito: Letra B
 
-
 85-(CESGRANRIO / EPE - 2012) Em uma discussão sobre testes, um grupo de programadores
 emitiu as afirmativas a seguir.
 
@@ -9432,7 +9242,7 @@ falhas ou inconsistências entre requisitos.
 
 Gabarito: Letra E
 
-Item. 86. (ESAF / CVM - 2010) Teste de Equivalência de Classe é:
+86. (ESAF / CVM - 2010) Teste de Equivalência de Classe é:
 
 a) É uma técnica que trabalha por dedução física.
 
@@ -9441,7 +9251,6 @@ b) É uma técnica que tem por objetivo primário reduzir o número de casos de 
 c) É uma técnica que trabalha por dedução indutiva.
 
 d) É uma técnica que tem por objetivo primário ampliar o número de casos de testes.
-
 
 e) É uma técnica que tem por objetivo primário montar um conjunto de regras de decisão a
 partir
@@ -9475,7 +9284,7 @@ Essa é a definição impecável de teste de regressão.
 
 Gabarito: Letra C
 
-Item. 88. (NCE-UFRJ / UFRJ - 2008) Considere as seguintes afirmativas sobre testes de software:
+88. (NCE-UFRJ / UFRJ - 2008) Considere as seguintes afirmativas sobre testes de software:
 
 I - O teste de regressão consiste na re-execução de testes já executados para
 garantir que
@@ -9495,7 +9304,6 @@ d) I e II
 
 e) I, lie III
 
-
 Comentários:
 
 (a) Correto, ele realmente reexecuta os testes já executados anteriormente para
@@ -9508,34 +9316,33 @@ focalizam ações e saídas tais como percebidas pelo usuário final.
 
 Gabarito: Letra E
 
-
 LISTA DE QUESTõES - CESPE
 
 í. (CESPE / TJ-AM - 2019) Erro e defeito são conceitos distintos: erro pode ser o
 resultado de uma
 falha; defeito é uma imperfeição ou inconsistência no produto do software ou em seu processo.
 
-Item. 2. (CESPE / TJ-AM - 2019) Validação refere-se a um conjunto de atividades destinadas
+2. (CESPE / TJ-AM - 2019) Validação refere-se a um conjunto de atividades destinadas
 a garantir
 que o sistema esteja de acordo com os requisitos do usuário.
 
-Item. 3. (CESPE / TJ-AM - 2019) O teste caixa preta trata o software como uma caixa
+3. (CESPE / TJ-AM - 2019) O teste caixa preta trata o software como uma caixa
 cujo conteúdo é
 desconhecido e da qual só é possível visualizar os dados de entrada fornecidos e as
 respostas
 produzidas como saída.
 
-Item. 4. (CESPE / TJ-AM - 2019) O teste de esforço é uma continuidade do teste de
+4. (CESPE / TJ-AM - 2019) O teste de esforço é uma continuidade do teste de
 carga, e ambos são
 modalidades do teste de desempenho.
 
-Item. 5. (CESPE /TJ-AM -2019) O teste de integração descendente da modalidade primeiro em
+5. (CESPE /TJ-AM -2019) O teste de integração descendente da modalidade primeiro em
 largura
 (breadth-first) move-se pela hierarquia de controle e integra todos os
 componentes em um
 caminho selecionado como principal.
 
-Item. 6. (CESPE / MC-PA - 2019) Consoante os princípios dos métodos ágeis, na construção
+6. (CESPE / MC-PA - 2019) Consoante os princípios dos métodos ágeis, na construção
 de um
 sistema, os testes de unidade do código criado devem ser sempre executados primeiramente:
 
@@ -9549,11 +9356,11 @@ d) pelo programador.
 
 e) pelo programador com o apoio da equipe de testes.
 
-Item. 7. (CESPE / FUB - 2018) Os testes de caixa-branca buscam verificar o comportamento
+7. (CESPE / FUB - 2018) Os testes de caixa-branca buscam verificar o comportamento
 interno do
 software, ou seja, os elementos relacionados ao código-fonte desse software.
 
-Item. 8. (CESPE / BNB -2018) Determinada equipe de desenvolvimento de softwares desejava
+8. (CESPE / BNB -2018) Determinada equipe de desenvolvimento de softwares desejava
 realizar
 testes que avaliassem o comportamento do sistema por meio do estudo das entradas e das
 saídas relacionadas, sem validação da implementação do software e sem acesso ao seu
@@ -9564,7 +9371,7 @@ situação, somente o teste tipo caixa-preta é corretamente aplicável, pois o
 tipo caixa-branca
 depende de acesso ao código-fonte do sistema.
 
-Item. 9. (CESPE / BNB-2018) Determinada equipe de desenvolvimento de softwares pretendia
+9. (CESPE / BNB-2018) Determinada equipe de desenvolvimento de softwares pretendia
 realizar
 testes que permitissem avaliar cenários com os quais os usuários reais do sistema
 pudessem se
@@ -9575,7 +9382,7 @@ cenários, que são incompatíveis com os de release, devendo a aplicação dess
 ser
 descartada.
 
-Item. 10. (CESPE / BNB - 2018) O planejamento de testes é governado pela necessidade de
+10. (CESPE / BNB - 2018) O planejamento de testes é governado pela necessidade de
 selecionar
 alguns poucos casos de teste de um grande conjunto de possíveis casos. O exame que
 avalia se
@@ -9593,54 +9400,53 @@ d) da caixa cinza.
 
 e) de integração.
 
-Item. 11. (CESPE / STJ - 2018) Em um serviço de integração contínua, testes de unidade são
+11. (CESPE / STJ - 2018) Em um serviço de integração contínua, testes de unidade são
 executados
 automaticamente com a finalidade de detectar erros funcionais.
 
-Item. 12. (CESPE / STJ - 2018) Enquanto os testes de unidade propiciam a qualidade externa,
+12. (CESPE / STJ - 2018) Enquanto os testes de unidade propiciam a qualidade externa,
 os testes
 de aceitação ajudam o desenvolvedor a avaliar a qualidade interna do código, dando
 feedback
 sobre o design dos módulos e permitindo a manutenção com menor custo.
 
-Item. 13. (CESPE / STJ - 2018) Teste de software pode ser definido como o processo de
+13. (CESPE / STJ - 2018) Teste de software pode ser definido como o processo de
 execução de um
 programa ou sistema com a intenção de se verificar se o mesmo está de acordo com o
 planejado
 nas especificações dos seus requisitos.
 
-Item. 14. (CESPE/ABIN-2018) As ferramentas de execução dotestesão classificadas como
+14. (CESPE/ABIN-2018) As ferramentas de execução dotestesão classificadas como
 ferramentas
 de suporte para execução e registro e têm, como vantagem, o fato de não requererem um
 grande esforço para a obtenção de resultados expressivos.
 
-Item. 15. (CESPE / ABIN - 2018) No teste funcional, que é uma das fases do processo de validação, não é
+15. (CESPE / ABIN - 2018) No teste funcional, que é uma das fases do processo de validação, não é
 necessário o conhecimento das estruturas internas do software.
 
-Item. 16. (CESPE / ABIN - 2018) No teste de integração, o foco é a comunicação entre os
+16. (CESPE / ABIN - 2018) No teste de integração, o foco é a comunicação entre os
 módulos do
 software, não as suas funcionalidades; portanto, nessa fase, testes funcionais não podem
 ser
 utilizados.
 
-Item. 17. (CESPE / STM - 2018) Em um processo de cascata, testes de sistemas testam todo
+17. (CESPE / STM - 2018) Em um processo de cascata, testes de sistemas testam todo
 o sistema,
 enquanto, em processos de desenvolvimento iterativo, será testado apenas um
 incremento a
 ser entregue ao cliente.
 
-Item. 18. (CESPE/CGM DE JOÃO PESSOA-PB-2018) O particiona mento de equivalência é uma técnica
+18. (CESPE/CGM DE JOÃO PESSOA-PB-2018) O particiona mento de equivalência é uma técnica
 de teste caixa-preta caracterizada por dividir o domínio de entrada de um módulo em
 classes de
 equivalência, a partir das quais casos de teste são derivados.
-
 
 ig.(CESPE / STM - 2018) Testes de regressão servem ao propósito de verificar se o
 sistema pode
 operar na carga necessária, fazendo-a regredir constantemente até que o comportamento de
 falha do sistema seja testado ou que defeitos sejam identificados.
 
-Item. 20. (CESPE / STM -2018) Em testes de integração, a estratégia de integração bottom-up
+20. (CESPE / STM -2018) Em testes de integração, a estratégia de integração bottom-up
 integrará
 componentes de infraestrutura que fornecem serviços comuns, adicionando
 a eles
@@ -9648,7 +9454,7 @@ componentes funcionais; para testar uma nova característica, pode ser necessár
 integrar
 componentes diferentes.
 
-Item. 21. (CESPE / BNB - 2018) Uma equipe de desenvolvimento de softwares pretendia realizar
+21. (CESPE / BNB - 2018) Uma equipe de desenvolvimento de softwares pretendia realizar
 testes
 de forma incremental durante o desenvolvimento de um programa, a fim de
 verificar se
@@ -9660,7 +9466,7 @@ os testes de regressão, pois esses últimos não visam verificar novos bugs, ma
 tão somente,
 avaliar as funcionalidades do sistema.
 
-Item. 22. (CESPE / TRE-BA - 2017) Durante o planejamento de um projeto e a elaboração dos
+22. (CESPE / TRE-BA - 2017) Durante o planejamento de um projeto e a elaboração dos
 casos de
 uso, foram incluídos diversos componentes para cálculos de tributos e da
 quantidade de
@@ -9678,7 +9484,7 @@ d) de codificação.
 
 e) de integração.
 
-Item. 23. (CESPE / TRE-BA - 2017) O gestor de um órgão organizador de concursos públicos
+23. (CESPE / TRE-BA - 2017) O gestor de um órgão organizador de concursos públicos
 pretende
 oferecer condições para que mais de um milhão de candidatos inscritos em determinado
 evento
@@ -9698,12 +9504,11 @@ d) de sistema.
 
 e) de regressão.
 
-Item. 24. (CESPE /TRT-CE-2017) A respeito de engenharia de software, assinale a opção correta.
+24. (CESPE /TRT-CE-2017) A respeito de engenharia de software, assinale a opção correta.
 
 a) A finalidade dos testes de segurança é garantir que o sistema se recupere
 de uma falha e
 esteja apto a retomar o processamento em um prazo preestabelecido.
-
 
 b) Efetuar testes de regressão consiste em reexecutar testes já finalizados para
 garantir que
@@ -9717,31 +9522,31 @@ d) Na etapa de desenvolvimento de um software, os testes de validação e de
 integração são
 executados simultaneamente, para identificar inconsistências antes da entrega final.
 
-Item. 25. (CESPE /TJDFT-2015) As atividades de validação incluem os testes unitários e os de aceitação.
+25. (CESPE /TJDFT-2015) As atividades de validação incluem os testes unitários e os de aceitação.
 
-Item. 26. (CESPE / MEC - 2015) A automação de testes apresenta maior impacto
+26. (CESPE / MEC - 2015) A automação de testes apresenta maior impacto
 positivo sobre a
 realização de testes de regressão do que testes de usabilidade.
 
-Item. 27. (CESPE / MPU -2013) Para se avaliar a documentação do projeto do software, deve
+27. (CESPE / MPU -2013) Para se avaliar a documentação do projeto do software, deve
 ser utilizado
 o teste de unidade.
 
-Item. 28. (CESPE / ANTT - 2013) O teste de aceitação pode utilizar um processo chamado de
+28. (CESPE / ANTT - 2013) O teste de aceitação pode utilizar um processo chamado de
 teste alfa e
 beta, sendo conduzido por desenvolvedores e podendo contar com a participação do
 usuário. O
 teste alfa é realizado em ambiente real e o beta em ambiente controlado.
 
-Item. 29. (CESPE /TCE-RO -2013) Os principais níveis de teste de software são os de caixa
+29. (CESPE /TCE-RO -2013) Os principais níveis de teste de software são os de caixa
 branca, os de
 caixa preta, os de sistema e os de aceitação.
 
-Item. 30. (CESPE / MPU - 2013) Testes funcionais são aplicados para identificar não
+30. (CESPE / MPU - 2013) Testes funcionais são aplicados para identificar não
 conformidades entre
 o programa e seus requisitos.
 
-Item. 31. (CESPE / MPU - 2013) Um dos critérios do teste de unidade é o
+31. (CESPE / MPU - 2013) Um dos critérios do teste de unidade é o
 particionamento de
 equivalência, que consiste no particionamento do domínio de entrada do programa de
 modo
@@ -9749,13 +9554,13 @@ que o conjunto de testes resultantes corresponda a uma representação satisfat�
 todo o
 domínio.
 
-Item. 32. (CESPE / MPU - 2013) Para realizar testes de unidade ou estrutural, pode-se
+32. (CESPE / MPU - 2013) Para realizar testes de unidade ou estrutural, pode-se
 utilizar uma
 representação conhecida como grafo de fluxo de controle de um programa. A partir do
 grafo,
 executam-se todos os caminhos do programa, principalmente na presença de laços.
 
-Item. 33. (CESPE / INPI - 2013) De modo geral, o teste de release é um processo de teste
+33. (CESPE / INPI - 2013) De modo geral, o teste de release é um processo de teste
 do tipo caixa-
 branca em que as funcionalidades são verificadas e validadas mediante a avaliação
 interna dos
@@ -9767,34 +9572,33 @@ de forma a se garantir que os módulos que compõem o sistema sob
 construção estejam
 funcionando de acordo com as especificações.
 
-
 35- (CESPE / MPE-PI - 2012) Em teste funcional, o conjunto de valores de entrada
 válidos pode ser
 reduzido por meio de partição em classes de equivalência, o que torna a quantidade de
 dados
 de entrada finita.
 
-Item. 36. (CESPE / MEC - 2011) Ao ser estabelecido, um plano de testes necessita de
+36. (CESPE / MEC - 2011) Ao ser estabelecido, um plano de testes necessita de
 diversos insumos,
 sendo um deles a estratégia de testes.
 
-Item. 37. (CESPE / MEC - 2011) Na definição do documento referente ao plano de testes,
+37. (CESPE / MEC - 2011) Na definição do documento referente ao plano de testes,
 devem ser
 incluídos os tipos e a metodologia dos testes. No entanto, critérios de aceitação e
 processos
 associados fogem ao escopo desse documento e devem ser inseridos na análise dos riscos.
 
-Item. 38. (CESPE / TJ-ES - 2011) No plano de teste, um documento de nível gerencial,
+38. (CESPE / TJ-ES - 2011) No plano de teste, um documento de nível gerencial,
 definem-se como
 o teste vai ser realizado, quem vai executar os testes, o prazo estimado e o nível
 de qualidade
 esperado.
 
-Item. 39. (CESPE / MEC -2011) O teste denominado caixa-preta é utilizado para verificar se
+39. (CESPE / MEC -2011) O teste denominado caixa-preta é utilizado para verificar se
 os requisitos
 do software são atendidos, sem verificar o código ou a lógica do componente testado.
 
-Item. 40. (CESPE / MEC - 2011) O teste caixa-branca ou teste de caixa de vidro é um
+40. (CESPE / MEC - 2011) O teste caixa-branca ou teste de caixa de vidro é um
 método de projeto
 de casos de teste que usa a estrutura de controle do projeto procedimental para
 derivar casos
@@ -9804,19 +9608,19 @@ tenham sido exercitados pelo menos uma vez, já que erros lógicos e pressuposto
 incorretos são
 inversamente proporcionais à probabilidade de que um caminho de programa vai ser executado.
 
-Item. 41. (CESPE/MEC-2011) Quando o objetivo é testar uma funcionalidade, assegurando-se que,
+41. (CESPE/MEC-2011) Quando o objetivo é testar uma funcionalidade, assegurando-se que,
 para
 todo tipo de entrada, a saída observada corresponda àquela esperada, pode-se alcançar
 esse
 objetivo fazendo-se uso de testes do tipo caixa-branca.
 
-Item. 42. (CESPE / BRB - 2011) O teste de regressão tem o objetivo de localizar defeitos
+42. (CESPE / BRB - 2011) O teste de regressão tem o objetivo de localizar defeitos
 na estrutura
 interna do produto, exercitando, suficientemente, os possíveis caminhos de
 execução do
 sistema.
 
-Item. 43. (CESPE / SAD-PE - 2010) A respeito do plano de teste, um registro
+43. (CESPE / SAD-PE - 2010) A respeito do plano de teste, um registro
 do processo de
 planejamento de testes de software, assinale a opção correta.
 
@@ -9829,7 +9633,6 @@ teste de
 módulo.
 
 d) A produção de scripts de teste deve preceder a eventual construção de casos de teste.
-
 
 e) Ao se inspecionar o conteúdo de um plano de testes, devem-se encontrar,
 entre outras, as
@@ -9845,7 +9648,7 @@ dentro de um contexto totalmente integrado, procurando validartodas as suas
 potencialidades
 de forma unificada.
 
-Item. 45. (CESPE / TJ-ES - 2010) No teste de unidade, o software é forçado a falhar de
+45. (CESPE / TJ-ES - 2010) No teste de unidade, o software é forçado a falhar de
 diversos modos a
 fim de verificar se os requisitos funcionais foram adequadamente implementados. As
 unidades,
@@ -9854,17 +9657,17 @@ espera-se identificar erros relacionados a algoritmos incorretos ou mal
 implementados,
 estruturas de dados incorretas ou simples erros de programação.
 
-Item. 46. (CESPE / ABIN - 2010) Nos testes de caixa branca, o código-fonte do programa é
+46. (CESPE / ABIN - 2010) Nos testes de caixa branca, o código-fonte do programa é
 usado para
 identificar testes de defeitos potenciais, particularmente no processo de
 validação, o qual
 demonstra se um programa atende a sua especificação.
 
-Item. 47. (CESPE / INMETRO -2010) Os testes caixa preta (Black Box) avaliam as cláusulas de
+47. (CESPE / INMETRO -2010) Os testes caixa preta (Black Box) avaliam as cláusulas de
 código, a
 lógica interna do componente codificado, as configurações e outros elementos técnicos.
 
-Item. 48. (CESPE / INMETRO - 2010) Testes de caixa preta são usualmente fundamentados na
+48. (CESPE / INMETRO - 2010) Testes de caixa preta são usualmente fundamentados na
 análise
 do código de um programa. Por outro lado, entre as técnicas de teste não relacionadas
 a testes
@@ -9872,74 +9675,74 @@ de caixa preta, estão aquelas embasadas na intuição do testador, em
 especificações
 comportamentais e no uso.
 
-Item. 49. (CESPE / INMETRO - 2010) Os testes caixa branca (White Box) verificam a
+49. (CESPE / INMETRO - 2010) Os testes caixa branca (White Box) verificam a
 funcionalidade e a
 aderência aos requisitos, em uma ótica externa ou do usuário, sem que se
 tenha qualquer
 conhecimento do código e da lógica interna do componente testado.
 
-Item. 50. (CESPE / INMETRO - 2010) O teste de caminho básico é uma técnica que identifica
+50. (CESPE / INMETRO - 2010) O teste de caminho básico é uma técnica que identifica
 as rotinas
 normalmente usadas, deixando de lado as rotinas eventualmente executadas.
 
-Item. 51. (CESPE / TRE-ES - 2010) O teste de partições caracteriza-se por ser um projeto
+51. (CESPE / TRE-ES - 2010) O teste de partições caracteriza-se por ser um projeto
 de caso de
 teste, em que o conhecimento da estrutura do programa é utilizado para projetar testes
 que
 verificam todas as partes desse programa.
 
-Item. 52. (CESPE / TRE-BA- 2010) Teste funcional é uma técnica para se projetar casos de
+52. (CESPE / TRE-BA- 2010) Teste funcional é uma técnica para se projetar casos de
 teste na qual
 o programa ou sistema é considerado uma caixa-preta e, para testá-lo, são fornecidas
 entradas
 e avaliadas as saídas geradas.
 
-Item. 53. (CESPE / TJ-ES - 2010) O teste de integração, a exemplo do teste caixa-branca,
+53. (CESPE / TJ-ES - 2010) O teste de integração, a exemplo do teste caixa-branca,
 focaliza o
 esforço de validação na menor unidade de projeto do software e, com o uso de técnicas de
 componentização, caminhos de controle relevantes são testados para descobrir
 erros dentro
 dos limites do componente.
 
-Item. 54. (CESPE / MPU -2010) O teste de integração geralmente é um processo de teste de
+54. (CESPE / MPU -2010) O teste de integração geralmente é um processo de teste de
 caixa-preta
 no qual os testes são derivados da especificação do sistema, cujo comportamento pode
 ser
 determinado por meio do estudo de suas entradas e saídas.
 
-Item. 55. (CESPE /TJ-ES -2010) O teste de caixa-preta é utilizado quando uma nova versão do
+55. (CESPE /TJ-ES -2010) O teste de caixa-preta é utilizado quando uma nova versão do
 software
 está sendo lançada ou quando um novo ciclo de testes for necessário em
 paralelo ao
 desenvolvimento do mesmo.
 
-Item. 56. (CESPE / INMETRO - 2010) Um teste de regressão pode ser o primeiro teste a ser
+56. (CESPE / INMETRO - 2010) Um teste de regressão pode ser o primeiro teste a ser
 realizado no
 software.
 
-Item. 57. (CESPE/TRE-BA-2010) Se um software já testado receber modificações e, após isso,
+57. (CESPE/TRE-BA-2010) Se um software já testado receber modificações e, após isso,
 somente
 essas modificações forem testadas, a aplicação do teste de regressão a esse software
 testará
 inclusive as partes que não tenham sido modificadas.
 
-Item. 58. (CESPE /TRE-MT-2010) O teste alfa é conduzido pelo cliente em seu ambiente de uso final.
+58. (CESPE /TRE-MT-2010) O teste alfa é conduzido pelo cliente em seu ambiente de uso final.
 
-Item. 59. (CESPE/ INMETRO -2010) Um teste de recuperação deve evitar que o sistema apresente
+59. (CESPE/ INMETRO -2010) Um teste de recuperação deve evitar que o sistema apresente
 falhas
 que interrompam o seu funcionamento.
 
-Item. 60. (CESPE / TRE-PR - 2009) Nos testes de integração, realizados antes dos testes
+60. (CESPE / TRE-PR - 2009) Nos testes de integração, realizados antes dos testes
 unitários, os
 componentes são construídos e testados separadamente.
 
-Item. 61. (CESPE / TRE-PR - 2009) O teste de aceitação envolve a integração de
+61. (CESPE / TRE-PR - 2009) O teste de aceitação envolve a integração de
 dois ou mais
 componentes que implementam funções ou características do sistema. Existem duas
 fases
 distintas de teste do sistema: testes de integração e teste de caixa de vidro.
 
-Item. 62. (CESPE / TRE-BA - 2009) A figura a seguir ilustra esquematicamente a técnica
+62. (CESPE / TRE-BA - 2009) A figura a seguir ilustra esquematicamente a técnica
 estrutural de
 teste de software (ou teste caixa-branca), que avalia o comportamento interno do
 componente
@@ -9951,32 +9754,31 @@ condição, de fluxo de dados, de ciclos e de caminhos lógicos.
 
 ►
 
-
-Item. 63. (CESPE / TRE-PR - 2009) Enquanto o teste caixa-preta é estrutural ou orientado à
+63. (CESPE / TRE-PR - 2009) Enquanto o teste caixa-preta é estrutural ou orientado à
 lógica, o
 teste caixa-branca é funcional, orientado a dado ou orientado a entrada e saída.
 
-Item. 64. (CESPE / TRE-PR - 2009) Entre os tipos de testes de caixa preta, encontram-se o
+64. (CESPE / TRE-PR - 2009) Entre os tipos de testes de caixa preta, encontram-se o
 teste baseado
 em grafos; o particionamento de equivalência; a análise de valor-limite; e o
 teste de matriz
 ortogonal.
 
-Item. 65. (CESPE / CEHAP-PB - 2009) Aplicado ao final do processo de teste, o teste
+65. (CESPE / CEHAP-PB - 2009) Aplicado ao final do processo de teste, o teste
 caixa-preta ou
 comportamental é baseado nos requisitos funcionais do software.
 
-Item. 66. (CESPE / CEHAP-PB - 2009) O teste gama envolve a liberação do sistema a
+66. (CESPE / CEHAP-PB - 2009) O teste gama envolve a liberação do sistema a
 uma série de
 clientes potenciais que concordam em usar esse sistema.
 
-Item. 67. (CESPE / CEHAP-PB - 2009) O teste alfa, conhecido como teste de aceitação,
+67. (CESPE / CEHAP-PB - 2009) O teste alfa, conhecido como teste de aceitação,
 encerra-se
 quando cliente e projetista concordam que o sistema é uma implementação
 aceitável dos
 requisitos do sistema e não se aplica a sistemas desenvolvidos para um único cliente.
 
-Item. 68. (CESPE / MPE-RR - 2008) No Processo Unificado, um modelo de teste
+68. (CESPE / MPE-RR - 2008) No Processo Unificado, um modelo de teste
 é tipicamente
 composto por casos de teste, os quais podem especificar como testar cenários
 específicos de
@@ -9984,7 +9786,7 @@ casos de uso. Os casos de teste tipicamente especificam entradas, resultados esp
 e outras
 condições relevantes para as verificações dos cenários.
 
-Item. 69. (CESPE / IPEA - 2008) O teste caixa-preta ou comportamental,
+69. (CESPE / IPEA - 2008) O teste caixa-preta ou comportamental,
 aplicado no início do
 processo de teste, é embasado nos requisitos funcionais do software. Identifica, entre
 outros,
@@ -9992,11 +9794,11 @@ erros de iniciação e término, erros de estrutura de dados, erros de interface
 funções incorretas
 ou omitidas.
 
-Item. 70. (CESPE / Hemobrás - 2008) Teste de usabilidade consiste na análise de um website
+70. (CESPE / Hemobrás - 2008) Teste de usabilidade consiste na análise de um website
 por um
 grupo de experts em usabilidade.
 
-Item. 71. (CESPE / Hemobrás - 2008) As técnicas de avaliação de usabilidade
+71. (CESPE / Hemobrás - 2008) As técnicas de avaliação de usabilidade
 experimentais ou
 empíricas contam com a participação direta dos usuários e compreendem,
 basicamente, os
@@ -10006,18 +9808,17 @@ em consideração. Em geral, os testes de usabilidade com a participação dos
 usuários são
 avaliações confiáveis.
 
-Item. 72. (CESPE /TSE - 2007) Entre os artefatos produzidos por um processo de teste,
+72. (CESPE /TSE - 2007) Entre os artefatos produzidos por um processo de teste,
 têm-se os casos
 de teste. Um caso de teste é uma situação real de uso, pois não pode ser
 sintetizado a partir de
 parâmetros predefinidos.
 
-Item. 73. (CESPE / TSE - 2006) Os testes são realizados em várias fases de um
+73. (CESPE / TSE - 2006) Os testes são realizados em várias fases de um
 desenvolvimento. Testes
 de unidade são de baixo nível, testes de sistema são executados após os de
 integração, testes
 beta empregam apenas desenvolvedores.
-
 
 74-(CESPE /TSE-2006) Um teste de unidade pode ser projetado usando-se uma estratégia
 caixa
@@ -10025,104 +9826,102 @@ branca. Nesse caso, há um foco nos mecanismos internos da unidade sendo
 testada. A
 realização de testes caixa branca pode ser apoiada por métricas de cobertura.
 
-Item. 75. (CESPE / PM V-2005) O teste de usabilidade em um sítio da Web tem como
+75. (CESPE / PM V-2005) O teste de usabilidade em um sítio da Web tem como
 objetivo identificar
 problemas de usabilidade e coletar dados relacionados ao desempenho e às preferências
 dos
 usuários.
 
-Item. 76. (CESPE / SESPA-PA - 2004) Para efeito de validação de um software, o beta teste
+76. (CESPE / SESPA-PA - 2004) Para efeito de validação de um software, o beta teste
 é realizado
 pelo cliente usuário do software em um ambiente controlado, normalmente nas instalações
 do
 desenvolvedor.
 
-Item. 77. (CESPE / STJ - 2004) Um software-produto, antes de ser lançado no mercado
+77. (CESPE / STJ - 2004) Um software-produto, antes de ser lançado no mercado
 normalmente
 deve ser testado por usuários reais do sistema. Nessa etapa, configura-se a realização
 de beta
 testes.
 
-
 GABARITo
 
-Item. 1. CORRETO 27- ERRADO
+1. CORRETO 27- ERRADO
 53- ERRADO
 
-Item. 2. CORRETO 28. ERRADO
+2. CORRETO 28. ERRADO
 54- ERRADO
 
 3- CORRETO 29- ERRADO
 55- ERRADO
 
 4- CORRETO 30. CORRETO
-Item. 56. ERRADO
+56. ERRADO
 
 5- ERRADO 31- ERRADO
 57- CORRETO
 
-Item. 6. LETRA D 32. ERRADO
-Item. 58. ERRADO
+6. LETRA D 32. ERRADO
+58. ERRADO
 
 7- CORRETO 33- ERRADO
 59- ERRADO
 
-Item. 8. CORRETO 34- ERRADO
-Item. 60. ERRADO
+8. CORRETO 34- ERRADO
+60. ERRADO
 
 9- ERRADO 35- CORRETO
-Item. 61. ERRADO
+61. ERRADO
 
-Item. 10. LETRA B 36. CORRETO
-Item. 62. CORRETO
+10. LETRA B 36. CORRETO
+62. CORRETO
 
 li. CORRETO 37- ERRADO
-Item. 63. ERRADO
+63. ERRADO
 
-Item. 12. ERRADO 38. CORRETO
-Item. 64. CORRETO
+12. ERRADO 38. CORRETO
+64. CORRETO
 
 13- CORRETO 39- CORRETO 65.
 CORRETO
 
 14- ERRADO 40. CORRETO
-Item. 66. ERRADO
+66. ERRADO
 
 x5- CORRETO 41. ERRADO
-Item. 67. ERRADO
+67. ERRADO
 
-Item. 16. ERRADO 42. ERRADO
-Item. 68. CORRETO
+16. ERRADO 42. ERRADO
+68. CORRETO
 
 17- CORRETO 43- LETRA E
-Item. 69. ERRADO
+69. ERRADO
 
 i8. CORRETO 44. ERRADO
-Item. 70. ERRADO
+70. ERRADO
 
-Item. 19. ERRADO 45- ERRADO
+19. ERRADO 45- ERRADO
 7i- CORRETO
 
-Item. 20. CORRETO 46. ERRADO
-Item. 72. ERRADO
+20. CORRETO 46. ERRADO
+72. ERRADO
 
-Item. 21. ERRADO 47- ERRADO
+21. ERRADO 47- ERRADO
 73- ERRADO
 
-Item. 22. LETRA A 48. ERRADO
+22. LETRA A 48. ERRADO
 74- CORRETO
 
 23- LETRA A 49- ERRADO
 75- CORRETO
 
-Item. 24. LETRA B 50. ERRADO
-Item. 76. ERRADO
+24. LETRA B 50. ERRADO
+76. ERRADO
 
 25- ANULADO 5i- ERRADO
 77- CORRETO
 
-Item. 26. CORRETO 52. CORRETO
-
+26. CORRETO 52. CORRETO
 
 LISTA DE QUESTõES - FCC
 
@@ -10145,7 +9944,7 @@ d) Alfa.
 
 e) Showstopper.
 
-Item. 2. (FCC / SEMEF MANAUS-AM - 2019) Considerando a realização de testes de caixa
+2. (FCC / SEMEF MANAUS-AM - 2019) Considerando a realização de testes de caixa
 branca e
 preta de software, a equipe técnica deve considerar que o teste de caixa:
 
@@ -10159,7 +9958,7 @@ d) preta deve ser executado no modo de segurança do compilador em uso.
 
 e) branca visa testar apenas a interface de cada módulo de software.
 
-Item. 3. (FCC / SEMEF MANAUS-AM -2019) Ao realizartestes de unidade de módulos de
+3. (FCC / SEMEF MANAUS-AM -2019) Ao realizartestes de unidade de módulos de
 software, um
 técnico de TI deve atentar que:
 
@@ -10178,7 +9977,7 @@ pseudocontrolados.
 
 e) se admite apenas um módulo pseudocontrolado para cada módulo sob teste.
 
-Item. 4. (FCC / SEMEF MANAUS-AM -2019) A equipe de teste de software deve ter bem
+4. (FCC / SEMEF MANAUS-AM -2019) A equipe de teste de software deve ter bem
 entendido que
 um dos objetivos principais de um teste de software é:
 
@@ -10190,10 +9989,9 @@ c) detectar falhas ou defeitos no software, de acordo com o estabelecido em sua 
 
 d) demonstrar que o software sob análise não é cópia de outro software.
 
-
 e) verificar se o software sob análise não contém dados sigilosos.
 
-Item. 5. (FCC / SEMEF MANAUS-AM - 2019) Uma equipe de assistentes técnicos está
+5. (FCC / SEMEF MANAUS-AM - 2019) Uma equipe de assistentes técnicos está
 encarregada de
 realizar os testes do software referente a um projeto. Dessa forma, essa equipe deve
 considerar
@@ -10213,7 +10011,7 @@ d) fracionado.
 
 e) integral.
 
-Item. 6. (FCC/SEMEF MANAUS-AM-2019) A Fazenda Municipal aplica, em seus projetos de software,
+6. (FCC/SEMEF MANAUS-AM-2019) A Fazenda Municipal aplica, em seus projetos de software,
 as práticas de construção de software, dentre as quais está a codificação, que conta
 com três
 princípios fundamentais: de preparação, de codificação propriamente dita e de validação,
@@ -10234,7 +10032,7 @@ e) realizar testes unitários e corrigir erros do software é um dos
 princípios de codificação
 propriamente dita.
 
-Item. 7. (FCC / SEFAZ-BA-2019) Suponha que uma Auditora Fiscal da área de TI atue na
+7. (FCC / SEFAZ-BA-2019) Suponha que uma Auditora Fiscal da área de TI atue na
 etapa detestes
 e avaliação da qualidade de um software em desenvolvimento. Como o software
 sofria
@@ -10264,13 +10062,11 @@ d) de Regressão.
 
 e) de Caixa-preta.
 
-
-Item. 8. (FCC/SEFAZ-BA-2019) Considere o procedimento apresentado na figura a seguir, no
+8. (FCC/SEFAZ-BA-2019) Considere o procedimento apresentado na figura a seguir, no
 qual são
 utilizados documentos consistentes e adequados capazes de definir,
 registrar e prover
 condições de análise dos resultados obtidos ao longo do processo de testes de software.
-
 
 —A---------------------
 
@@ -10294,7 +10090,7 @@ Ciclomática de Teste.
 
 e) Relatório de Testes de Usabilidade e II corresponde ao Relatório de Testes Sincronizados.
 
-Item. 9. (FCC / SEFAZ-SC - 2018) Os testes unitários são aplicados em subprogramas individuais ou em
+9. (FCC / SEFAZ-SC - 2018) Os testes unitários são aplicados em subprogramas individuais ou em
 componentes maiores construídos com unidades altamente coesas e são executados:
 
 I. sempre com acesso ao código que está sendo testado.
@@ -10313,12 +10109,11 @@ b) I, II e III, apenas.
 
 c) I, II e IV, apenas.
 
-
 d) II, III e IV, apenas.
 
 e) I, II, III e IV.
 
-Item. 10. (FCC / DP-AM - 2018) Considere, por hipótese, que na Defensoria esteja sendo
+10. (FCC / DP-AM - 2018) Considere, por hipótese, que na Defensoria esteja sendo
 desenvolvido
 um projeto com prazo crítico, sendo necessário que os desenvolvedores avaliem
 o software
@@ -10350,7 +10145,7 @@ d) breadth-first.
 
 e) de caixa cinza (grey box).
 
-Item. 11. (FCC/TCM-GO-2O15) Um Auditor de Controle Externo doTribunal de Contas dos
+11. (FCC/TCM-GO-2O15) Um Auditor de Controle Externo doTribunal de Contas dos
 Municípios
 do Estado de Goiás da área de TI indicou a seguinte estratégia convencional para
 testes de um
@@ -10373,7 +10168,6 @@ O Auditor indicou em I e II, respectivamente, os testes de:
 
 a) caixa branca e de caixa preta, que são suficientes para validar todo o sistema.
 
-
 b) unidade e de integração; na sequência, indicou os testes de validação e de sistema
 que são
 adequados para validartodo o sistema.
@@ -10388,7 +10182,7 @@ que são adequados para validartodo o sistema.
 
 e) caixa preta e de caixa branca, que são suficientes para validartodo o sistema.
 
-Item. 12. (FCC/TCM-GO-2oi5) Um Auditor de Controle Externo doTribunal de Contas dos
+12. (FCC/TCM-GO-2oi5) Um Auditor de Controle Externo doTribunal de Contas dos
 Municípios
 do Estado de Goiás da Área de TI recebeu a tarefa de identificar testes que sejam
 capazes de
@@ -10419,7 +10213,7 @@ d) testes de caixa preta.
 
 e) testes de desempenho para os 2 primeiros e de carga para os demais.
 
-Item. 13. (FCC / TRTi - 2014) Considerando o teste de software, há o chamado teste de
+13. (FCC / TRTi - 2014) Considerando o teste de software, há o chamado teste de
 unidade, que
 consiste em testar:
 
@@ -10437,7 +10231,6 @@ testados de maneira integrada.
 d) o software completo em seu ambiente final de operação, já com o hardware base do projeto.
 
 e) apenas componentes ou módulos de software cujo código fonte tenha mais de 100 linhas.
-
 
 I4-(FCC / DPE-SP - 2013) Para aplicações convencionais, o software é testado a partir
 de duas
@@ -10466,7 +10259,7 @@ c) caixa branca - caixa preta
 d) de ciclo - de usabilidade
 e) unitário - de interface
 
-Item. 15. (FCC /TRT-PE -2012) No que se refere a testes de software, é correto afirmar que:
+15. (FCC /TRT-PE -2012) No que se refere a testes de software, é correto afirmar que:
 
 a) o teste de operação é a fase onde é testada a ergonomia da interface de uso do software.
 
@@ -10482,30 +10275,7 @@ como comandos condicionais e de repetição.
 
 e) um caso de teste é uma categoria de possíveis resultados na execução de testes.
 
-Item. 16. (FCC / TRE-PE - 2011) Com relação aos testes de software, é correto afirmar:
-
-a) Um princípio muitas vezes adotado ao testar um software é o de Pareto. Ele afirma
-que existe
-um forte desequilíbrio entre causas e efeitos, entre esforços e resultados e
-entre ações e
-objetivos alcançados.
-
-b) Testes sempre podem mostrar a ausência de erros.
-
-
-c) Para que o resultado de um teste de software seja confiável, é preciso garantir
-que os casos
-de teste utilizados cubram um número reduzido de possibilidades de execução.
-
-d) Um software que produz saídas corretas deve ser aprovado, pois isso demonstra que
-todos os
-erros foram corrigidos.
-
-e) Um programador deve testar seu próprio código porque facilmente conseguirá criar um
-caso
-de teste que rompe com a lógica de funcionamento do seu código.
-
-Item. 17. (FCC / TRE-PE - 2011) Com relação aos testes de software, é correto afirmar:
+16. (FCC / TRE-PE - 2011) Com relação aos testes de software, é correto afirmar:
 
 a) Um princípio muitas vezes adotado ao testar um software é o de Pareto. Ele afirma
 que existe
@@ -10527,7 +10297,29 @@ e) Um programador deve testar seu próprio código porque facilmente conseguirá
 caso
 de teste que rompe com a lógica de funcionamento do seu código.
 
-Item. 18. (FCC / INFRAERO - 2011) Na direção dos tipos de teste focados pela engenharia de software,
+17. (FCC / TRE-PE - 2011) Com relação aos testes de software, é correto afirmar:
+
+a) Um princípio muitas vezes adotado ao testar um software é o de Pareto. Ele afirma
+que existe
+um forte desequilíbrio entre causas e efeitos, entre esforços e resultados e
+entre ações e
+objetivos alcançados.
+
+b) Testes sempre podem mostrar a ausência de erros.
+
+c) Para que o resultado de um teste de software seja confiável, é preciso garantir
+que os casos
+de teste utilizados cubram um número reduzido de possibilidades de execução.
+
+d) Um software que produz saídas corretas deve ser aprovado, pois isso demonstra que
+todos os
+erros foram corrigidos.
+
+e) Um programador deve testar seu próprio código porque facilmente conseguirá criar um
+caso
+de teste que rompe com a lógica de funcionamento do seu código.
+
+18. (FCC / INFRAERO - 2011) Na direção dos tipos de teste focados pela engenharia de software,
 os testes de integração cuidam dos tópicos associados com os problemas de verificação:
 
 a) da engenharia de sistemas.
@@ -10540,7 +10332,7 @@ d) dos requisitos funcionais.
 
 e) dos requisitos não funcionais.
 
-Item. 19. (FCC / TRT14 - 2011) Garantir o funcionamento correto do software para
+19. (FCC / TRT14 - 2011) Garantir o funcionamento correto do software para
 atender as
 expectativas do cliente é o objetivo da homologação de sistemas. Nessa fase, que
 precede à
@@ -10556,8 +10348,7 @@ d) da caixa-branca, de carga e de configuração.
 
 e) de unidade, de carga e de integridade.
 
-
-Item. 20. (FCC/TRT9-2oIo) O teste de sistema que força o software a falhar de diversos modos e verifica
+20. (FCC/TRT9-2oIo) O teste de sistema que força o software a falhar de diversos modos e verifica
 o retorno do processamento dentro de um tempo pré-estabelecido é um tipo de teste de:
 
 a) Integração.
@@ -10570,7 +10361,7 @@ d) Desempenho.
 
 e) Segurança.
 
-Item. 21. (FCC / SEFAZ-SP - 2009) Garantir que um ou mais componentes de um sistema combinados
+21. (FCC / SEFAZ-SP - 2009) Garantir que um ou mais componentes de um sistema combinados
 funcionam corretamente é o objetivo do tipo de teste:
 
 a) de sistema.
@@ -10583,7 +10374,7 @@ d) operacional.
 
 e) funcional.
 
-Item. 22. (FCC /TRT15-2009) Os testes de integração têm por objetivo verificar se:
+22. (FCC /TRT15-2009) Os testes de integração têm por objetivo verificar se:
 
 a) os módulos testados produzem os mesmos resultados que as
 unidades testadas
@@ -10597,7 +10388,7 @@ d) os valores limites entre as unidades testadas individualmente são aceitávei
 
 e) o tempo de resposta dos módulos testados está adequado.
 
-Item. 23. (FCC /TRT-MG -2009) NÃO se trata de uma técnica para testar software o teste de:
+23. (FCC /TRT-MG -2009) NÃO se trata de uma técnica para testar software o teste de:
 
 a) caixa preta.
 
@@ -10622,7 +10413,6 @@ d) de desempenho.
 
 e) de estresse.
 
-
 25-(FCC / AFR-SP - 2009) Garantir que um ou mais componentes de um sistema combinados
 funcionam corretamente é o objetivo do tipo de teste:
 
@@ -10636,7 +10426,7 @@ d) de configuração.
 
 e) operacional.
 
-Item. 26. (FCC/TRT-GO-2oo8) Uma sistemática para construção da arquitetura do software
+26. (FCC/TRT-GO-2oo8) Uma sistemática para construção da arquitetura do software
 enquanto,
 ao mesmo tempo, conduz ao descobrimento de erros associados às interfaces é a
 estratégia de
@@ -10652,7 +10442,7 @@ d) arquitetura.
 
 e) integração.
 
-Item. 27. (FCC / METRÔ-SP - 2008) Um critério de teste de software baseado no fluxo de
+27. (FCC / METRÔ-SP - 2008) Um critério de teste de software baseado no fluxo de
 dados de
 aplicação pode ser utilizado como uma técnica de teste baseada:
 
@@ -10666,36 +10456,34 @@ d) no uso da aplicação.
 
 e) na intuição e experiência do engenheiro.
 
-
 GABARITo
 
-Item. 1. LETRA A 10. LETRA A
+1. LETRA A 10. LETRA A
 19- LETRA A
 
-Item. 2. LETRA A íi. LETRA B
-Item. 20. LETRA C
+2. LETRA A íi. LETRA B
+20. LETRA C
 
 3- LETRAC 12. LETRA D
-Item. 21. LETRA B
+21. LETRA B
 
 4- LETRAC 13- LETRAC
-Item. 22. LETRA C
+22. LETRA C
 
 5- LETRA A 14. LETRA C
-Item. 23. LETRA D
+23. LETRA D
 
-Item. 6. LETRA D 15- LETRA D
-Item. 24. LETRA E
+6. LETRA D 15- LETRA D
+24. LETRA E
 
 7- LETRA D 16. LETRA A
 25- LETRA C
 
-Item. 8. LETRA B 17- LETRA A
-Item. 26. LETRA E
+8. LETRA B 17- LETRA A
+26. LETRA E
 
 9- LETRA C 18. LETRA B
 27- LETRA B
-
 
 LISTA DE QUESTõES - FC V
 
@@ -10715,7 +10503,7 @@ d) Regressão.
 
 e) Testes não funcionais.
 
-Item. 2. (FGV / FUNSAÚDE-CE - 2021) No contexto da testagem de software, os testes do
+2. (FGV / FUNSAÚDE-CE - 2021) No contexto da testagem de software, os testes do
 tipo Unitário,
 aplicam-se normalmente:
 
@@ -10729,7 +10517,7 @@ d) à integração dos componentes.
 
 e) aos limites de carga.
 
-Item. 3. (FGV / TCE-AM - 2021) A Equipe de Desenvolvimento de Software (EDS) de um
+3. (FGV / TCE-AM - 2021) A Equipe de Desenvolvimento de Software (EDS) de um
 tribunal de
 contas está trabalhando na construção de componentes de um novo sistema de software.
 
@@ -10747,7 +10535,7 @@ d) preta como alternativa a testes de caixa branca;
 
 e) branca, para exercitar decisões lógicas em seus lados verdadeiro e falso.
 
-Item. 4. (FGV / DPE-RJ - 2019) Uma empresa foi contratada por um órgão
+4. (FGV / DPE-RJ - 2019) Uma empresa foi contratada por um órgão
 governamental para
 modificar e adaptar um sistema para gerenciamento eletrônico de documentos, com base nas
 especificações criadas pelo próprio órgão. A contratada entregou ao órgão uma
@@ -10760,7 +10548,6 @@ empresa.
 
 Conclui-se que está sendo realizado o teste de:
 
-
 a) unidade;
 
 b) regressão;
@@ -10771,7 +10558,7 @@ d) aceitação;
 
 e) cobertura.
 
-Item. 5. (FGV / DPE-RJ - 2019) No processo de validação de software, quando
+5. (FGV / DPE-RJ - 2019) No processo de validação de software, quando
 os componentes
 individuais são avaliados para garantir que eles possam operar corretamente, sendo
 testados
@@ -10789,7 +10576,7 @@ d) unidade.
 
 e) sistema.
 
-Item. 6. (FGV / AL-RO - 2018) O teste de software que visa verificar que, por exemplo,
+6. (FGV / AL-RO - 2018) O teste de software que visa verificar que, por exemplo,
 a correção de
 uma falha (ou bug) não introduziu uma nova falha (ou bug), é o teste:
 
@@ -10803,7 +10590,7 @@ d) de regressão.
 
 e) de recuperação.
 
-Item. 7. (FGV / MPE-AL - 2018) Eduardo é o líder técnico do Sistema de Vendas de uma
+7. (FGV / MPE-AL - 2018) Eduardo é o líder técnico do Sistema de Vendas de uma
 rede de
 farmácias. O sistema deve ser utilizado em mais de 40 unidades espalhadas por vários
 estados.
@@ -10823,14 +10610,13 @@ d) caixa-branca.
 
 e) de análise de valor-limite.
 
-Item. 8. (FGV / BANESTES - 2018) No contexto de teste de software, o termo "Beta teste"
+8. (FGV / BANESTES - 2018) No contexto de teste de software, o termo "Beta teste"
 caracteriza
 testes que:
 
 a) empregam primordialmente técnicas conhecidas como "White box";
 
 b) são equivalentes aos testes conhecidos pelo termo "Alfa teste";
-
 
 c) focam em pontos críticos, cujas correções são providenciadas de
 imediato pelos
@@ -10840,7 +10626,7 @@ d) são realizados num ambiente de laboratório do desenvolvedor;
 
 e) são realizados por usuários externos, em condições de uso semelhantes às de produção.
 
-Item. 9. (FGV / BANESTES - 2018) O termo "Alfa teste" caracteriza testes de software que:
+9. (FGV / BANESTES - 2018) O termo "Alfa teste" caracteriza testes de software que:
 
 a) empregam primordialmente técnicas conhecidas como "Black box";
 
@@ -10852,7 +10638,7 @@ d) são realizados em ambientes controlados pelo desenvolvedor;
 
 e) são realizados por usuários externos, em condições de uso semelhantes às de produção.
 
-Item. 10. (FGV / COMPESA - 2018) Com relação à análise estática de código, considere as afirmativas a
+10. (FGV / COMPESA - 2018) Com relação à análise estática de código, considere as afirmativas a
 seguir.
 
 I. É um tipo de teste de software.
@@ -10877,7 +10663,7 @@ d) I e II, somente.
 
 e) I, lie III.
 
-Item. 11. (FGV / IBGE - 2017) Testes devem ser realizados durante o desenvolvimento de um
+11. (FGV / IBGE - 2017) Testes devem ser realizados durante o desenvolvimento de um
 sistema
 computacional para garantir a qualidade e detectar falhas antes que ele seja
 disponibilizado
@@ -10895,7 +10681,6 @@ III.Teste de desempenho foca na experiência do usuário, ergonomia da interface
 às
 funcionalidades.
 
-
 Está correto o que se afirma em:
 
 a) somente I.
@@ -10908,7 +10693,7 @@ d) somente I e III.
 
 e) I, lie III.
 
-Item. 12. (FGV / ALERJ - 2017) A atividade de teste de software contribui para revelar
+12. (FGV / ALERJ - 2017) A atividade de teste de software contribui para revelar
 defeitos latentes
 nos programas. Em relação às técnicas de testes de software, é correto afirmar que:
 
@@ -10932,7 +10717,7 @@ e) testes de usabilidade verificam se o software instala como planejado, em
 diferentes
 hardwares e sob diferentes condições.
 
-Item. 13. (FGV / IBGE - 2016) Os testes de aceitação são muitas vezes a última etapa de
+13. (FGV / IBGE - 2016) Os testes de aceitação são muitas vezes a última etapa de
 testes antes de
 implantar o software em produção. Seu objetivo maior é verificar se o software está
 apto para
@@ -10958,12 +10743,11 @@ c) o teste de aceitação formal utiliza todo o conjunto de casos de teste aplic
 durante o teste
 do sistema, para procurar novos problemas;
 
-
 d) o teste beta é focado na busca de defeitos e seu progresso é facilmente medido;
 
 e) o teste de aceitação formal pode ser realizado de forma automatizada.
 
-Item. 14. (FGV / IBGE -2016) Trata-se de um teste que desconhece o conteúdo do código
+14. (FGV / IBGE -2016) Trata-se de um teste que desconhece o conteúdo do código
 fonte. Nesse
 teste o componente testado é tratado como uma caixa preta: são fornecidos dados de
 entrada
@@ -10981,7 +10765,7 @@ d) de carga;
 
 e) unitário.
 
-Item. 15. (FGV / Prefeitura de Paulínia - SP - 2016) A equipe de desenvolvimento de sistemas da empresa
+15. (FGV / Prefeitura de Paulínia - SP - 2016) A equipe de desenvolvimento de sistemas da empresa
 "Sistemas Unidos" está trabalhando em um software com a utilização do processo
 unificado.
 Seguindo essa metodologia, as equipes realizam diversas disciplinas ao
@@ -11022,10 +10806,9 @@ d) de segurança.
 
 e) de carga.
 
-Item. 17. (FGV / DPE-RJ - 2014) Testes unitários são amplamente empregados no
+17. (FGV / DPE-RJ - 2014) Testes unitários são amplamente empregados no
 desenvolvimento de
 software. Sua função principal é:
-
 
 a) testar o desempenho do software e de seus componentes.
 
@@ -11083,7 +10866,7 @@ d) de caminho básico.
 
 e) de lógica composta.
 
-Item. 20. (FGV / BADESC - 2010) O teste de software que projeta casos de
+20. (FGV / BADESC - 2010) O teste de software que projeta casos de
 testes derivados do
 conhecimento da estrutura e da implementação do software é conhecido por:
 
@@ -11095,32 +10878,29 @@ c) teste caixa-preta.
 
 d) teste de aceitação.
 
-
 e) teste de integração.
-
 
 GABARITo
 
-Item. 1. LETRAC 8. LETRA E
+1. LETRAC 8. LETRA E
 15- LETRA C
 
-Item. 2. LETRA B 9- LETRA D
-Item. 16. LETRA B
+2. LETRA B 9- LETRA D
+16. LETRA B
 
 3- LETRA E 10. LETRA E
 17- LETRA B
 
 4- LETRA D íi. LETRA B
-Item. 18. LETRA C
+18. LETRA C
 
 5- LETRA D 12. LETRA A
-Item. 19. LETRA A
+19. LETRA A
 
-Item. 6. LETRA D 13- LETRA E
-Item. 20. LETRA B
+6. LETRA D 13- LETRA E
+20. LETRA B
 
 7- LETRAC 14. LETRA A
-
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
@@ -11159,14 +10939,13 @@ d) Teste de caixa preta.
 
 e) Teste de caixa branca.
 
-Item. 2. (IDHTEC/PREFEITURA DE MARAGOGI-AL-2019) Engenharia de software é uma abordagem
+2. (IDHTEC/PREFEITURA DE MARAGOGI-AL-2019) Engenharia de software é uma abordagem
 sistemática e disciplinada para o desenvolvimento de software (PRESSMAN, 2006). Considere
 V para afirmativa verdadeira e F para falsa:
 
 () Análise de requisito - Através da análise de requisito é o momento onde efetua a
 programação
 do código fonte para desenvolver o software (JALOTE, 2005).
-
 
 () Design do software - Pelo design do software é o momento que o engenheiro de
 software
@@ -11196,7 +10975,7 @@ d) V, F, F, F.
 
 e) F, V, F, V.
 
-Item. 3. (IDHTEC / PREFEITURA DE MARAGOGI-AL- 2019) Quanto à Automação de Testes, julgue os
+3. (IDHTEC / PREFEITURA DE MARAGOGI-AL- 2019) Quanto à Automação de Testes, julgue os
 itens a seguir:
 
 I. Ferramentas de automação não possuem outros usos, além da medição de performance de
@@ -11223,9 +11002,8 @@ d) I, lie III.
 
 e) Somente II.
 
-Item. 4. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Sobre testes, analise as afirmativas a
+4. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Sobre testes, analise as afirmativas a
 seguir:
-
 
 I. Teste de regressão corresponde a um nível de teste, mas não é uma estratégia
 importante
@@ -11260,7 +11038,7 @@ d) I, lie III.
 
 e) Somente II.
 
-Item. 5. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Com relação aos testes realizados no
+5. (IDHTEC / PREFEITURA DE MARAGOGI-AL - 2019) Com relação aos testes realizados no
 processo de desenvolvimento de software, julgue as afirmativas a seguir:
 
 I. Diversas atividades de testes são executadas a fim de se validar o produto de
@@ -11291,8 +11069,7 @@ d) Apenas as afirmativas I e II.
 
 e) As afirmativas I, II e III.
 
-
-Item. 6. (AVANÇA SP / CÂMARA MUNICIPAL DE TABOÃO DA SERRA-SP - 2019) No que se refere às
+6. (AVANÇA SP / CÂMARA MUNICIPAL DE TABOÃO DA SERRA-SP - 2019) No que se refere às
 técnicas de teste de software, há os testes conhecidos como "caixa preta" e "caixa
 branca".
 Sobre o tema, analise os itens a seguir e, ao final, assinale a alternativa correta:
@@ -11315,11 +11092,10 @@ d) Apenas os itens I e II são verdadeiros.
 
 e) Todos os itens são verdadeiros.
 
-Item. 7. (FUNDEP / PREFEITURA DE LAGOA SANTA-MG - 2019) Assinale a associação
+7. (FUNDEP / PREFEITURA DE LAGOA SANTA-MG - 2019) Assinale a associação
 correta
 presente na tabela ASSOCIAÇÕES que define corretamente os elementos a definir da TABELA
 A com as definições ou caracterizações da TABELA B.
-
 
 TABELA A
 
@@ -11360,11 +11136,9 @@ está de acordo com sua especificação e
 satisfaz às necessidades reais dos usuários
 do sistema.
 
-
 TABELA A
 
 Z
-
 
 TABELA B
 B
@@ -11374,11 +11148,9 @@ C
 D
 E
 
-
 TABELA A
 
 Z
-
 
 TABELA B
 B
@@ -11388,11 +11160,9 @@ D
 C
 E
 
-
 TABELA A
 
 Z
-
 
 TABELA B
 C
@@ -11404,9 +11174,7 @@ E
 
 □
 
-
 TABELA A
-
 
 TABELA B
 C
@@ -11417,7 +11185,7 @@ E
 D
 A
 
-Item. 8. (IESES / SCGÁS - 2019) Identifique a alternativa que descreve inequivocamente a intenção do
+8. (IESES / SCGÁS - 2019) Identifique a alternativa que descreve inequivocamente a intenção do
 teste de verificação de software ou, mais genericamente, verificação e validação (V&V):
 
 a) O teste de verificação de software tem a intenção de mostrar que um software se
@@ -11436,7 +11204,7 @@ d) O teste de verificação procura verificar similaridades entre softwares para
 encontrá-
 los.
 
-Item. 9. (IESES / SCGÁS - 2019) Assinale a alternativa correta que apresenta a diferença entre teste de
+9. (IESES / SCGÁS - 2019) Assinale a alternativa correta que apresenta a diferença entre teste de
 defeito e debugging:
 
 a) Testes de defeito estabelecem a existência de defeitos já o debugging
@@ -11449,7 +11217,7 @@ c) O debugging somente pode serfeito depois do teste de defeito.
 
 d) O teste de defeito localiza e correção do defeito enquanto o debugging diz que há erro.
 
-Item. 10. (IBADE / PREFEITURA DE VILHENA-RO - 2019) Sobre teste de software, podemos diferenciar
+10. (IBADE / PREFEITURA DE VILHENA-RO - 2019) Sobre teste de software, podemos diferenciar
 teste da caixa preta e teste da caixa branca respectivamente da seguinte maneira:
 
 a) enquanto o primeiro ignora o código fonte, o segundo busca garantir que os
@@ -11467,7 +11235,6 @@ no segundo é feito de forma clara, analisando as entradas e saídas esperadas p
 d) enquanto que no primeiro há a necessidade de conhecer a estrutura do código, no
 segundo
 há apenas a necessidade de saber o resultado esperado para cada entrada de dados.
-
 
 e) enquanto que no primeiro teste não se conhece a entrada de dados, mas se
 sabe a saída
@@ -11501,7 +11268,7 @@ e) Testes em que as unidades individuais de programa ou classes de objetos são
 testadas
 individualmente.
 
-Item. 12. (INSTITUTO AOCP / IBGE - 2019) Para chegar a um nível de perfeição de um
+12. (INSTITUTO AOCP / IBGE - 2019) Para chegar a um nível de perfeição de um
 software, é
 necessário aplicar muitos testes, sendo que o teste de integração é um dos mais
 importantes.
@@ -11519,7 +11286,7 @@ d) Testar conformidade com a especificação dos requisitos.
 
 e) Realizarteste estrutural ou caixa-branca.
 
-Item. 13. (INSTITUTO AOCP / IBGE - 2019) A respeito dos testes de aceitação, analise as
+13. (INSTITUTO AOCP / IBGE - 2019) A respeito dos testes de aceitação, analise as
 assertivas e
 assinale a alternativa que aponta(s) as correta(s).
 
@@ -11538,7 +11305,6 @@ a) Apenas I.
 b) Apenas II.
 
 c) Apenas III.
-
 
 d) Apenas I e II.
 
@@ -11594,7 +11360,6 @@ alternativa que corresponde corretamente às respectivas fases de teste numerada
 na figura
 como 1, 2, 3 e 4 é:
 
-
 a) Recuperação - Esforço - Segurança - Desempenho.
 
 b) Sistema - Verificação - Validação - Depuração.
@@ -11603,7 +11368,7 @@ c) Sistema - Entrevista - Controle - Codificação.
 
 d) Sistema - Validação - Integração - Unidade.
 
-Item. 17. (COVEST-COPSET / UFPE -2019) A respeito de princípios básicos para elaboração de testes de
+17. (COVEST-COPSET / UFPE -2019) A respeito de princípios básicos para elaboração de testes de
 software, assinale a alternativa correta.
 
 a) A definição da saída ou resultado esperado é uma parte desnecessária em um caso de teste.
@@ -11624,7 +11389,7 @@ e) Ao se planejar um esforço de testes, faz-se a suposição tácita de que nen
 erro será
 encontrado.
 
-Item. 18. (COVEST-COPSET / UFPE - 2019) No contexto de diferentes técnicas de teste de caixa preta
+18. (COVEST-COPSET / UFPE - 2019) No contexto de diferentes técnicas de teste de caixa preta
 (black-box) e caixa branca (white-box), assinale a alternativa correta:
 
 a) A análise de valor limite é uma técnica caixa branca que foca em testar valores
@@ -11653,13 +11418,12 @@ para especulação de prováveis tipos de erros, culminando com a escrita de cas
 teste para
 expor estes erros.
 
-Item. 19. (COVEST-COPSET/UFPE-2019) Quanto aos tipos de testes de software, assinale a alternativa
+19. (COVEST-COPSET/UFPE-2019) Quanto aos tipos de testes de software, assinale a alternativa
 incorreta:
 
 a) Teste unitário ou de unidade é onde unidades de programa individuais ou classes
 de objeto
 são testadas. O foco é testar a funcionalidade de objetos ou métodos.
-
 
 b) Teste de componente é onde várias unidades individuais são integradas
 para criar
@@ -11681,7 +11445,7 @@ demonstrar que o sistema atende aos requisitos e em descobrir problemas e
 defeitos no
 sistema.
 
-Item. 20. (COVEST-COPSET / UFPE - 2019) Como parte da prática de Integração
+20. (COVEST-COPSET / UFPE - 2019) Como parte da prática de Integração
 Contínua (Cl),
 podemos elaborar testes unitários, testes de integração e testes de aceitação. Ao se
 executar
@@ -11706,7 +11470,7 @@ sistema e sua interoperabilidade.
 e) executa-se a rotina desejada em conjunto com um subconjunto de rotinas que possuem
 dependência direta e compara-se a saída com um resultado pré-definido.
 
-Item. 21. (CESGRANRIO / UNIRIO - 2019) José é um desenvolvedor e acabou de fazer uma
+21. (CESGRANRIO / UNIRIO - 2019) José é um desenvolvedor e acabou de fazer uma
 alteração no
 código. O gerente de projeto definiu que serão realizados os
 seguintes testes:
@@ -11724,10 +11488,9 @@ c) unitário/de integração; de sistema; de aceitação.
 
 d) unitário/de integração; de aceitação; de sistema.
 
-
 e) de sistema; de aceitação; unitário/de integração.
 
-Item. 22. (CESGRANRI0 / UNIRIO - 2019) Os testes de integração determinam se as
+22. (CESGRANRI0 / UNIRIO - 2019) Os testes de integração determinam se as
 unidades de
 software desenvolvidas independentemente funcionam corretamente quando
 estão
@@ -11745,7 +11508,7 @@ d) desempenho e os beta testes.
 
 e) desempenho e usabilidade.
 
-Item. 23. (FEPESE / CELESC - 2019) Assinale a alternativa que apresenta o tipo de teste de
+23. (FEPESE / CELESC - 2019) Assinale a alternativa que apresenta o tipo de teste de
 software que
 é baseado nos requisitos funcionais do software. Neste tipo de teste os casos de
 teste são
@@ -11761,8 +11524,7 @@ d) Caixa Funcional.
 
 e) Cobertura Funcional.
 
-
-Item. 24. (IF / MT - 2019) Analise as sentenças presentes em Pressmann (2006) relacionadas
+24. (IF / MT - 2019) Analise as sentenças presentes em Pressmann (2006) relacionadas
 abaixo,
 acerca de estratégias de teste para software convencional:
 
@@ -11792,7 +11554,6 @@ As lacunas das sentenças podem ser preenchidas CORRETAMENTE com a opção:
 
 a) Integração, Unidade, Fumaça, Integração, Regressão.
 
-
 b) Unidade, Integração, Regressão, Usabilidade, Regressão.
 
 c) Interação, Configuração, Regressão, Unidade, Utilidade.
@@ -11801,7 +11562,7 @@ d) Recuperação, Desempenho, Sistema, Desempenho, Unidade.
 
 e) Configuração, Regressão, Integração, Unidade, Fumaça.
 
-Item. 25. (IF-PE / IF-PE - 2019) Em relação aos testes de software, podemos afirmar que:
+25. (IF-PE / IF-PE - 2019) Em relação aos testes de software, podemos afirmar que:
 
 I. teste de unidade é a realização de testes sobre unidades do sistema para garantir
 que a
@@ -11825,7 +11586,7 @@ d) Apenas II e III
 
 e) Apenas I e III
 
-Item. 26. (VUNESP / PREFEITURA DE ITAPEVI-SP - 2019) Um programador, após
+26. (VUNESP / PREFEITURA DE ITAPEVI-SP - 2019) Um programador, após
 desenvolver um
 programa, iniciou o processo de depuração do código. O teste projetado em função da
 estrutura
@@ -11843,7 +11604,7 @@ d) Estrutural (caixa-branca).
 
 e) Funcional (caixa-preta).
 
-Item. 27. (VUNESP / PREFEITURA DE PIRACICABA-SP-2019) Dentre as técnicas de teste de software,
+27. (VUNESP / PREFEITURA DE PIRACICABA-SP-2019) Dentre as técnicas de teste de software,
 pode-se estabelecer uma categorização entre testes de caixa preta e de caixa branca,
 sendo
 correto que a técnica de teste denominada:
@@ -11858,8 +11619,7 @@ d) fluxo de dados é um método de teste de caixa preta.
 
 e) particionamento de equivalência é um método de teste de caixa preta.
 
-
-Item. 28. (VUNESP / PREFEITURA DE VALINHOS-SP - 2019) Há dois tipos de testes de validação
+28. (VUNESP / PREFEITURA DE VALINHOS-SP - 2019) Há dois tipos de testes de validação
 de
 software, conhecidos como testes alfa e beta, segundo os quais:
 
@@ -11873,7 +11633,7 @@ d) no teste alfa, participam apenas os desenvolvedores do software.
 
 e) no teste beta, participam apenas os desenvolvedores do software.
 
-Item. 29. (IADES / BRB - 2019) Há diversos tipos de testes de software e, entre eles, o
+29. (IADES / BRB - 2019) Há diversos tipos de testes de software e, entre eles, o
 tipo que consiste
 no reteste de um sistema ou componente focado em verificar se alguma modificação
 recente
@@ -11889,7 +11649,7 @@ d) integração.
 
 e) regressão.
 
-Item. 30. (IDECAN / IF-PB- 2019) O processo de teste tem dois objetivos distintos:
+30. (IDECAN / IF-PB- 2019) O processo de teste tem dois objetivos distintos:
 
 i) Demonstrar ao desenvolvedor e ao cliente que o software atende a seus requisitos e
 ii) Descobrir situações em que o software se comporta de maneira incorreta, indesejável
@@ -11910,7 +11670,7 @@ d) testes de integração focam na descoberta de erros associados com interfaces
 
 e) teste fumaça é uma abordagem de testes unitários.
 
-Item. 31. (CCV / UFC - 2019) Sobre os tipos de testes de software, marque o item correto.
+31. (CCV / UFC - 2019) Sobre os tipos de testes de software, marque o item correto.
 
 a) Nos testes caixa-preta, todo o código da aplicação estará disponível para o
 profissional de
@@ -11924,7 +11684,6 @@ c) Os testes de regressão são realizados pelos clientes com o intuito de checa
 todas as
 funcionalidades e alterações demandadas foram desenvolvidas.
 
-
 d) Os testes funcionais procuram verificar se o sistema está seguindo a
 sua especificação
 (requisitos), sem se preocupar com a estrutura adotada na implementação do sistema.
@@ -11933,7 +11692,7 @@ e) Os testes de unidade são realizados após a conclusão dos diferentes módul
 sistema,
 onde se busca analisar a corretude do funcionamento da integrado desses módulos.
 
-Item. 32. (CCV / UFC - 2019) Durante o desenvolvimento de um sistema, é necessária a
+32. (CCV / UFC - 2019) Durante o desenvolvimento de um sistema, é necessária a
 realização de
 testes, sendo um deles denominado de teste beta. Sobre esse tipo de teste,
 assinale a
@@ -11958,7 +11717,7 @@ e) É realizado pelos usuários do sistema, onde os requisitos do sistema são
 analisados, validados
 e os erros encontrados reportados para a equipe de desenvolvimento.
 
-Item. 33. (IF/ MS -2019) Segundo Pressman (2011), considere as seguintes afirmações sobre
+33. (IF/ MS -2019) Segundo Pressman (2011), considere as seguintes afirmações sobre
 Engenharia
 de Software:
 
@@ -11983,7 +11742,6 @@ c) Apenas a afirmação III é verdadeira.
 d) Apenas as afirmações I e III são verdadeiras.
 
 e) Apenas as afirmações II e III são verdadeiras.
-
 
 34-(FUMARC / CÂMARA DE CARMO DO CAJURU-MG - 2018) Em relação aos tipos de testes de
 software, julgue os itens a seguir, marcando com (V) a assertiva verdadeira e com (F)
@@ -12020,7 +11778,7 @@ c) V, F, V,V.
 
 d) V, V, F, F.
 
-Item. 35. (FAUGRS / UFCSPA-RS-2018) No teste de, os módulos são combinados e
+35. (FAUGRS / UFCSPA-RS-2018) No teste de, os módulos são combinados e
 testados
 em grupo. Ele sucede o teste de, em que os módulos são testados
 individualmente,
@@ -12067,7 +11825,7 @@ d) De segurança.
 
 e) De aceitação do produto.
 
-Item. 37. (FUNDATEC / CIGA-SC - 2018) A equipe responsável pelo desenvolvimento de um
+37. (FUNDATEC / CIGA-SC - 2018) A equipe responsável pelo desenvolvimento de um
 software
 está agilizando a conclusão de um release para entregá-lo estável ao cliente. No
 momento, as
@@ -12103,7 +11861,7 @@ d) De performance.
 
 e) De desenvolvimento.
 
-Item. 38. (INSTITUO AOCP/ PRODEB-2018) Qual é o tipo detestes em que o testador está
+38. (INSTITUO AOCP/ PRODEB-2018) Qual é o tipo detestes em que o testador está
 preocupado
 com a funcionalidade e não com a implementação?
 
@@ -12125,8 +11883,7 @@ defeitos e identificação de erros.
 análise de
 resultados.
 
-
-Item. 41. (A0CP / UNIR-2018) Os defeitos no processo de desenvolvimento, em sua maior parte,
+41. (A0CP / UNIR-2018) Os defeitos no processo de desenvolvimento, em sua maior parte,
 são de
 origem humana, pois são gerados na comunicação e na transformação de
 informações, e
@@ -12134,11 +11891,11 @@ continuam presentes nos diversos produtos de software produzidos, liberados e lo
 em
 partes do código raramente executadas.
 
-Item. 42. (AOCP / UNIR-2018) Para testar a complexidade de um software, pode ser utilizado
+42. (AOCP / UNIR-2018) Para testar a complexidade de um software, pode ser utilizado
 o teste de
 integração gue avalia a integração do software com vários usuários ao mesmo tempo.
 
-Item. 43. (IBADE / IPM-JP- 2018) No âmbito dos testes de integração, a atividade de
+43. (IBADE / IPM-JP- 2018) No âmbito dos testes de integração, a atividade de
 reexecução de um
 mesmo subconjunto dos que já foram executados para assegurar que alterações não tenham
 propagado efeitos colaterais indesejados é conhecida como teste de:
@@ -12153,7 +11910,7 @@ d) verificação.
 
 e) classe.
 
-Item. 44. (IBADE/IPM-JP-20i8) Uma estratégia deteste de software pode englobar
+44. (IBADE/IPM-JP-20i8) Uma estratégia deteste de software pode englobar
 diferentes tipos de
 testes para assegurar a qualidade do software. Os que proporcionam a garantia final de
 que o
@@ -12171,7 +11928,7 @@ d) totais.
 
 e) globais.
 
-Item. 45. (AOCP / SUSIPE-PA - 2018) Sobre os testes de software, assinale a alternativa correta.
+45. (AOCP / SUSIPE-PA - 2018) Sobre os testes de software, assinale a alternativa correta.
 
 a) Um teste de regressão visa refazer os testes feitos anteriormente,
 visando garantir o
@@ -12191,8 +11948,7 @@ e) Um teste de carga tem como objetivo verificar o comportamento do sistema com 
 grande
 carga de usuários simultâneos.
 
-Item. 46. (INSTITUTO AOCP / PRODEB - 2018) Qual é o objetivo da realização de testes funcionais?
-
+46. (INSTITUTO AOCP / PRODEB - 2018) Qual é o objetivo da realização de testes funcionais?
 
 a) Visualizar o sistema como caixa branca.
 
@@ -12204,7 +11960,7 @@ d) Identificar valor em funcionalidades não previstas.
 
 e) Permitir validação feita pelo cliente após a entrega final das funcionalidades.
 
-Item. 47. (PR-4/ UFRJ -2018) Assinale o teste que focaliza o esforço de verificação da menor unidade de
+47. (PR-4/ UFRJ -2018) Assinale o teste que focaliza o esforço de verificação da menor unidade de
 projeto de software:
 
 a) Teste de integração.
@@ -12217,7 +11973,7 @@ d) Teste de unidade.
 
 e) Teste de projeto.
 
-Item. 48. (FAURGS / UFRGS - 2018) Numere a segunda coluna de acordo com a primeira, associando os
+48. (FAURGS / UFRGS - 2018) Numere a segunda coluna de acordo com a primeira, associando os
 termos com suas respectivas definições:
 
 (1) Teste de regressão
@@ -12259,7 +12015,6 @@ a) 5-3-9-6.
 
 b) 2-4-6-1.
 
-
 c) 4-6-9-i.
 
 d) 2-3-5-g.
@@ -12278,7 +12033,7 @@ c) Teste de Sistemas.
 
 d) Teste de Fault.
 
-Item. 50. (CESGRANRIO / LIQUIGÁS - 2018) Um grupo de desenvolvedores elaborou vários casos de
+50. (CESGRANRIO / LIQUIGÁS - 2018) Um grupo de desenvolvedores elaborou vários casos de
 teste que selecionam caminhos de teste de acordo com as definições e com o uso de
 variáveis
 existentes em um programa. Esse tipo de teste caixa-branca é denominado:
@@ -12293,7 +12048,7 @@ d) análise de valor-limite.
 
 e) particionamento de equivalência.
 
-Item. 51. (UFPR/COREN-PR-2018) Sobre testes de software, identifique como verdadeiras (V) ou
+51. (UFPR/COREN-PR-2018) Sobre testes de software, identifique como verdadeiras (V) ou
 falsas
 
 (F) as seguintes afirmativas:
@@ -12318,8 +12073,7 @@ d) F-V-V-F.
 
 e) V-V-V-V.
 
-
-Item. 52. (FAURGS / BANRISUL - 2018) No desenvolvimento de software, o processo de teste
+52. (FAURGS / BANRISUL - 2018) No desenvolvimento de software, o processo de teste
 resulta na
 produção de distintos artefatos. Dentre estes, documentos. Sobre o documento Plano de
 Teste,
@@ -12335,7 +12089,7 @@ d) Casos de teste.
 
 e) Cronograma.
 
-Item. 53. (FAURGS / BANRISUL - 2018)é uma técnica utilizada para se
+53. (FAURGS / BANRISUL - 2018)é uma técnica utilizada para se
 projetar casos de
 teste, na qual o programa ou sistema é considerado como uma caixa-preta. Nesta técnica
 os
@@ -12363,7 +12117,7 @@ d) Teste estrutural - critérios baseados em fluxos de controle.
 
 e) Teste estrutural - particionamento de equivalência.
 
-Item. 54. (FAURGS / BANRISUL - 2018) é uma verificação de
+54. (FAURGS / BANRISUL - 2018) é uma verificação de
 consistência entre o
 sistema de software e sua especificação e, portanto, é uma atividade de verificação
 feita depois
@@ -12386,7 +12140,6 @@ b) Teste de unidade
 c) Inspeção
 d) Teste de regressão
 e) Teste de integração
-
 
 55- (FAURGS/ BANRISUL-2018)é o teste que tem como foco as menores
 unidades
@@ -12442,14 +12195,13 @@ d) Apenas II e III.
 
 e) I, II, III.
 
-Item. 57. (FAURGS / BANRISUL - 2018) Considere as seguintes afirmações sobre objetivos de teste.
+57. (FAURGS / BANRISUL - 2018) Considere as seguintes afirmações sobre objetivos de teste.
 
 I - A definição dos critérios de aceitação deve idealmente ocorrer depois do contrato
 do sistema
 ser assinado, pois os critérios de aceitação não fazem parte do contrato, embora
 possam ser
 acordados entre o cliente e o desenvolvedor.
-
 
 II - O processo de teste deve demonstrar ao desenvolvedor e ao cliente que o
 software atende
@@ -12513,7 +12265,6 @@ c) Localização geográfica do dispositivo.
 
 d) Volume de dados.
 
-
 e) Variedade de dispositivos e sistemas operacionais.
 
 6o.(FAURGS/ BANRISUL-2018) Numere a segunda coluna de acordo com a primeira, associando
@@ -12556,7 +12307,7 @@ d) 2-1-3-4.
 
 e) i-3-4-2.
 
-Item. 61. (FUMARC / COPASA - 2018) Teste realizado em ambiente de produção por um grupo de
+61. (FUMARC / COPASA - 2018) Teste realizado em ambiente de produção por um grupo de
 usuários finais para identificar problemas e realizar as devidas correções
 antes de liberar o
 software para toda a base de clientes:
@@ -12569,12 +12320,11 @@ c) Teste de Regressão.
 
 d) Teste Fumaça.
 
-Item. 62. (FUMARC / COPASA - 2018) Analise as seguintes afirmativas sobre os tipos de testes:
+62. (FUMARC / COPASA - 2018) Analise as seguintes afirmativas sobre os tipos de testes:
 
 I. O "Teste de Segurança" verifica se os mecanismos de proteção incorporados a um sistema
 vão
 de fato protegê-lo de invasão imprópria.
-
 
 II. O "Teste de Desempenho" é projetado para submeter o software a situações anormais
 de
@@ -12644,8 +12394,7 @@ acordo com o que foi especificado.
 
 e) Os testes devem ser executados antes das atividades de verificação.
 
-
-Item. 66. (CS / SANEAGO-GO - 2018) No âmbito da Engenharia de Software, testes de unidade
+66. (CS / SANEAGO-GO - 2018) No âmbito da Engenharia de Software, testes de unidade
 são
 aqueles realizados:
 
@@ -12661,7 +12410,7 @@ d) em módulos ou unidades do sistema, de maneira que possam validar um
 componente
 específico.
 
-Item. 67. (COPEREVE / UFSC - 2018) Considere as seguintes afirmativas a respeito de teste
+67. (COPEREVE / UFSC - 2018) Considere as seguintes afirmativas a respeito de teste
 de software
 e assinale a alternativa correta.
 
@@ -12690,7 +12439,7 @@ d) Somente as afirmativas I e III estão corretas.
 
 e) Somente as afirmativas II, III e IV estão corretas.
 
-Item. 68. (CONSUPLAN / CÂMARA DE BELO HORIZONTE-MG - 2018) Na análise e
+68. (CONSUPLAN / CÂMARA DE BELO HORIZONTE-MG - 2018) Na análise e
 projeto de
 sistemas, uma fase considerada muito importante é a de testes. Diversos tipos de
 testes são
@@ -12712,8 +12461,7 @@ c) Testes de Aceitação.
 
 d) Testes de Integração.
 
-
-Item. 69. (PR4 / UFRJ - 2018) Com relação a teste de software, quando questionado sobre
+69. (PR4 / UFRJ - 2018) Com relação a teste de software, quando questionado sobre
 a construção
 de um produto corretamente, a referência se dá ao conjunto de atividades que garantem
 que o
@@ -12729,7 +12477,7 @@ d) recuperação.
 
 e) verificação.
 
-Item. 70. (PR4 / UFRJ - 2018) Considere o seguinte texto: Uma técnica sistemática para
+70. (PR4 / UFRJ - 2018) Considere o seguinte texto: Uma técnica sistemática para
 construir a
 estrutura do programa enquanto, ao mesmo tempo, conduz testes para descobrir
 erros
@@ -12749,7 +12497,7 @@ d) sistema.
 
 e) depuração.
 
-Item. 71. (CESGRANRIO / TRANSPETRO - 2018) Entre as técnicas de teste de software, aquela
+71. (CESGRANRIO / TRANSPETRO - 2018) Entre as técnicas de teste de software, aquela
 que gera
 versões levemente modificadas de um programa sob teste e exercita tanto o programa
 original
@@ -12763,7 +12511,7 @@ c) de mutação
 d) de perfil operacional
 e) baseados em fluxo de controle
 
-Item. 72. (FAURGS / BANRISUL -2018)verifica novamente os casos de
+72. (FAURGS / BANRISUL -2018)verifica novamente os casos de
 teste aprovados
 em versões prévias do software e assim protege contra alterações indesejadas.
 Realiza-se
@@ -12781,7 +12529,7 @@ c) Inspeção
 d) Refatoração
 e) Teste de integração
 
-Item. 73. (UFLA / UFLA - 2018) Sobre teste de regressão de software, são verdadeiras as
+73. (UFLA / UFLA - 2018) Sobre teste de regressão de software, são verdadeiras as
 afirmativas
 abaixo, EXCETO:
 
@@ -12801,7 +12549,7 @@ d) Teste de regressão pode ser configurado para execução em servidores de
 integração
 contínua.
 
-Item. 74. (CESGRANRIO / IBGE - 2016) O sistema que controla as reservas dos clientes de
+74. (CESGRANRIO / IBGE - 2016) O sistema que controla as reservas dos clientes de
 uma rede
 hoteleira funciona apenas na Web. Entretanto, há uma demanda crescente para que a
 empresa
@@ -12826,7 +12574,7 @@ c) usabilidade
 d) regressão
 e) configuração
 
-Item. 75. (IF-PE / IF-PE - 2016) Em relação aos Testes na Engenharia de Software, qual é
+75. (IF-PE / IF-PE - 2016) Em relação aos Testes na Engenharia de Software, qual é
 o que se refere
 ao reteste de uma unidade, integração ou sistema, após uma modificação, a fim de
 verificar se
@@ -12841,7 +12589,6 @@ c) Teste alfa.
 d) Teste beta.
 
 e) Teste funcional.
-
 
 76.(FCM / IF Farroupilha-RS - 2016) O teste de software pode ser realizado de
 diversas formas.
@@ -12877,7 +12624,7 @@ d) lie III.
 
 e) 1,11, III e IV.
 
-Item. 77. (IESES / TRE-MA - 2015) É notório e de comprovado valor que os testes são a
+77. (IESES / TRE-MA - 2015) É notório e de comprovado valor que os testes são a
 melhor maneira
 de se garantir a qualidade de um software. O teste de regressão é um dos tipos de
 testes, que
@@ -12893,7 +12640,7 @@ c) Avaliar se a especificação feita pelo analista de sistemas está correta.
 
 d) Testar o menor nível de detalhe, normalmente este teste é realizado pelo programador.
 
-Item. 78. (CESGRANRIO/ Banco da Amazônia-2014) Um tipo deteste de validação possui as
+78. (CESGRANRIO/ Banco da Amazônia-2014) Um tipo deteste de validação possui as
 seguintes
 características:
 
@@ -12911,7 +12658,7 @@ c) Teste de estresse
 d) Teste de regressão
 e) Teste de desempenho
 
-Item. 79. (CESGRANRIO / IBGE - 2014) Antes de lançar seu próximo produto, uma
+79. (CESGRANRIO / IBGE - 2014) Antes de lançar seu próximo produto, uma
 empresa de
 desenvolvimento de software costuma convidar seus principais clientes para testar uma
 versão
@@ -12927,7 +12674,7 @@ c) de stress
 d) de integração
 e) de aceitação do cliente
 
-Item. 80. (CESGRANRIO / IBGE - 2014) No ciclo de desenvolvimento de sistemas, os testes são
+80. (CESGRANRIO / IBGE - 2014) No ciclo de desenvolvimento de sistemas, os testes são
 de suma
 importância e podem, dependendo do porte do sistema, ser bastante complexos, exigindo
 que
@@ -12945,7 +12692,7 @@ c) sistema
 d) operação
 e) aceitação
 
-Item. 81. (CESGRANRIO / IBGE-2014) Preocupado com os constantes erros nos sistemas entregues
+81. (CESGRANRIO / IBGE-2014) Preocupado com os constantes erros nos sistemas entregues
 aos
 usuários, um analista de desenvolvimento resolveu realizar testes conforme o
 modelo V. A
@@ -12959,8 +12706,7 @@ c) Teste de aceitação —> Geração de código
 d) Teste de integração —> Arquitetura do sistema
 e) Teste de caixa preta —> Desenho das estruturas de dados
 
-
-Item. 82. (IBFC / TRE-AM - 2014) Assinale o nome do teste de software que consiste
+82. (IBFC / TRE-AM - 2014) Assinale o nome do teste de software que consiste
 tipicamente na
 aplicação de versões mais recentes do software, para garantir que não surgiram novos
 defeitos
@@ -12974,7 +12720,7 @@ c) testes de usabilidade.
 
 d) testes de regressão.
 
-Item. 83. (FUMARC / AL-MG - 2014) Tipo de teste que consiste em aplicar em cada nova
+83. (FUMARC / AL-MG - 2014) Tipo de teste que consiste em aplicar em cada nova
 versão de um
 software todos os testes que já foram aplicados nas versões anteriores,
 possibilitando a
@@ -12990,7 +12736,7 @@ c) Teste de Regressão.
 
 d) Teste Unitário.
 
-Item. 84. (CCV-UFC / UFC - 2013) O principal objetivo do teste de regressão de software é:
+84. (CCV-UFC / UFC - 2013) O principal objetivo do teste de regressão de software é:
 
 a) Identificar defeitos ou erros no sistema em situação de sobrecarga do sistema (ou parte dele).
 
@@ -13024,8 +12770,7 @@ d) I e III, apenas.
 
 e) I, lie III.
 
-
-Item. 86. (ESAF / CVM - 2010) Teste de Equivalência de Classe é:
+86. (ESAF / CVM - 2010) Teste de Equivalência de Classe é:
 
 a) É uma técnica que trabalha por dedução física.
 
@@ -13039,7 +12784,7 @@ e) É uma técnica que tem por objetivo primário montar um conjunto de regras d
 decisão a partir
 de uma tabela.
 
-Item. 87. (FEPESE / SEFAZ-SC - 2010) Analise a definição abaixo.
+87. (FEPESE / SEFAZ-SC - 2010) Analise a definição abaixo.
 
 Teste de software que procura descobrir erros por meio da reaplicação parcial dos
 testes a um
@@ -13053,7 +12798,7 @@ c) Teste de regressão
 d) Teste de integração
 e) Teste de requisitos
 
-Item. 88. (NCE-UFRJ / UFRJ - 2008) Considere as seguintes afirmativas sobre testes de software:
+88. (NCE-UFRJ / UFRJ - 2008) Considere as seguintes afirmativas sobre testes de software:
 
 I - O teste de regressão consiste na re-execução de testes já executados para
 garantir que
@@ -13072,44 +12817,43 @@ d) I e II
 
 e) I, lie III
 
-
 GABARITo
 
-Item. 1. LETRA D 3i- LETRA D
-Item. 61. LETRA B
+1. LETRA D 3i- LETRA D
+61. LETRA B
 
-Item. 2. LETRA E 32. LETRA E
-Item. 62. LETRA C
+2. LETRA E 32. LETRA E
+62. LETRA C
 
 3- LETRAC 33- LETRA C
-Item. 63. LETRA B
+63. LETRA B
 
 4- LETRAC 34- LETRA C
-Item. 64. LETRA A
+64. LETRA A
 
 5- LETRA D 35- LETRA A
-Item. 65. LETRA D
+65. LETRA D
 
-Item. 6. LETRA C 36. LETRAC
-Item. 66. LETRA B
+6. LETRA C 36. LETRAC
+66. LETRA B
 
 7- LETRA B 37- LETRA B
-Item. 67. LETRA A
+67. LETRA A
 
-Item. 8. LETRA A 38. LETRA B
-Item. 68. LETRA B
+8. LETRA A 38. LETRA B
+68. LETRA B
 
 9- LETRA A 39- ERRADO
 69- LETRA E
 
-Item. 10. LETRA A 40. ERRADO
-Item. 70. LETRA A
+10. LETRA A 40. ERRADO
+70. LETRA A
 
 li. LETRA E 41. CORRETO
 71- LETRA C
 
-Item. 12. LETRA D 42. ERRADO
-Item. 72. LETRA A
+12. LETRA D 42. ERRADO
+72. LETRA A
 
 13- LETRA C 43- LETRA B
 73- LETRA B
@@ -13120,47 +12864,46 @@ Item. 72. LETRA A
 x5- CORRETO 45- LETRA E
 75- LETRA B
 
-Item. 16. LETRA D 46. LETRA B
-Item. 76. LETRA B
+16. LETRA D 46. LETRA B
+76. LETRA B
 
 17- LETRA D 47- LETRA D
 77- LETRA B
 
 i8. LETRA D 48. LETRA B
-Item. 78. LETRA A
+78. LETRA A
 
-Item. 19. LETRA D 49- LETRA D
+19. LETRA D 49- LETRA D
 79- LETRA A
 
-Item. 20. LETRA C 50. LETRA B
-Item. 80. LETRA E
+20. LETRA C 50. LETRA B
+80. LETRA E
 
-Item. 21. LETRAC 51- LETRA A
-Item. 81. LETRA D
+21. LETRAC 51- LETRA A
+81. LETRA D
 
-Item. 22. LETRA B 52. LETRA D
-Item. 82. LETRA D
+22. LETRA B 52. LETRA D
+82. LETRA D
 
 23- LETRA A 53- LETRA A
 83- LETRAC
 
-Item. 24. LETRA A 54- LETRA A
-Item. 84. LETRA B
+24. LETRA A 54- LETRA A
+84. LETRA B
 
 25- LETRA A 55- LETRA C
-Item. 85. LETRA E
+85. LETRA E
 
-Item. 26. LETRA D 56. LETRA E
-Item. 86. LETRA B
+26. LETRA D 56. LETRA E
+86. LETRA B
 
 27- LETRA E 57- LETRA D
-Item. 87. LETRA C
+87. LETRA C
 
-Item. 28. LETRA A 58. LETRA D
-Item. 88. LETRA E
+28. LETRA A 58. LETRA D
+88. LETRA E
 
 29- LETRA E 59- LETRA A
 
-Item. 30. LETRA E 60. LETRA A
-
+30. LETRA E 60. LETRA A
 

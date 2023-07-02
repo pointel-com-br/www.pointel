@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - PostgreSQL.
-
+# Desenvolvimento de Informação - Arquitetura de banco de dados relacional - PostgreSQL.
 
 Índice
 
@@ -28,7 +27,6 @@ Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relac
 12) Questões Comentadas - Postgre SQL e EnterpriseDB - Multibancas
 
 13) Lista de Questões - Postgre SQL e EnterpriseDB - Multibancas
-
 
 NoçõES SoBRE SGBDS PoSTCRESQL
 INTRoDUçÃo Ao PoSTCRESQL
@@ -69,7 +67,6 @@ usuários atuais entusiasmados com seus projetos são sua estabilidade, escalabi
 segurança sólidas, bem como os recursos que um sistema de gerenciamento de banco de
 dados de nível empresarial oferece.
 
-
 O PostgreSQL é um descendente de código aberto do programa original desenvolvido em
 Berkeley. Ele suporta grande parte dos comandos da linguagem SQL/ANSI padrão e
 oferece muitas características modernas, entre elas: consultas complexas,
@@ -98,7 +95,7 @@ PostgreSQL à versão atual. No dia 17 de fevereiro de 2021, a versão mais rece
 Postgres é a 13, e a plataforma ainda dá suporte as versões 12, 11, 10 e 9.6,
 versões
 anteriores não possuem mais suporte (Unsupported versions: 9.5 / 9.4 / 9.3 / 9.2 /
-Item. 9.1 / 9.0
+9.1 / 9.0
 
 / 8.4/8.3/8.2).
 
@@ -110,7 +107,6 @@ como as principais funcionalidades evoluíram ao longo do tempo. Aproveitando
 essa
 oportunidade, para que você possa ir se familiarizando com os termos associados aos
 serviços providos por um SGBD. Vamos nessa?
-
 
 Development H Production H Expected EOL
 
@@ -149,7 +145,6 @@ adicionados e vários aprimoramentos que fizeram o sistema de banco de dados rec
 seu nome atual: PostgreSQL. O nome "Postgres" ainda é usado como um apelido mais
 fácil de pronunciar.
 
-
 Agora com um novo nome ©, o PostgreSQL começou sua contagem de versionamentos
 pela versão 6.0, dando crédito a seus muitos anos anteriores de desenvolvimento. Com a
 ajuda de centenas de desenvolvedores de todo o mundo, o sistema foi alterado e
@@ -183,7 +178,7 @@ PRATICAR!
 Antes de continuar tratando das evoluções feitas no Postgres, vamos nos concentrar para
 fazermos a questão abaixo:
 
-Item. 1. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
+1. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
 ADMINISTRATIVO - SUPORTE E INFRAESTRUTURA DE TI
 
 A respeito de banco de dados, julgue os itens que se seguem.
@@ -192,7 +187,6 @@ O PostgreSQL 9.3, ao gerenciar o controle de concorrência, permite o acesso
 simultâneo aos dados. Internamente, a consistência dos dados é mantida por meio do
 MVCC (multiversion concurrency control), que impede que as transações visualizem
 dados inconsistentes.
-
 
 Comentário. O PostgreSQL fornece um rico conjunto de ferramentas para
 os
@@ -255,7 +249,6 @@ campos grandes sejam armazenados mesmo se for necessário que parte do dado
 seja armazenada em
 um bloco diferente da memória.
 
-
 particionamento de tabelas, verificação de índice bitmap, bloqueio de linha compartilhada,
 papéis (roles), online index builds, advisory locks, warm standby, tuplas do tipo
 heap-only,
@@ -278,7 +271,6 @@ condicional, restrições de exclusão, blocos de código anônimos,
 
 parâmetros nomeados, regras de senha.
 
-
 9.1
 
 Replicação síncrona, agrupamentos por colunas, tabelas unlogged,
@@ -288,14 +280,12 @@ armazenáveis, integração com Linux-SE, extensões, tabelas
 anexadas SQL/Med (Wrappers para dados externos), gatilhos em
 views.
 
-
 9.2
 
 Cascading replication streaming, varreduras index-only, suporte a
 JSON nativo, melhoria da gestão de bloqueio, range de tipos,
 ferramenta pg_receivexlog, índices GiST para espaço-
 particionado.
-
 
 9.3
 
@@ -305,7 +295,6 @@ rápido, nova ferramenta de monitoramento de servidor
 pg_isready, características de triggers, funcionalidades para
 visões, tabelas estrangeiras graváveis, visões materializadas e
 melhorias de replicação.
-
 
 9.4
 
@@ -319,20 +308,19 @@ de dados via pg_prewarm.
 IMPORT FOREIGN SCHEMA, row-level security policies, BRIN
 Index (Block Rage), Foreign table inheritance, GROUPING SETS,
 
-Item. 9.5 CUBE e ROLLUP, JSONB - operadores de modificações e
+9.5 CUBE e ROLLUP, JSONB - operadores de modificações e
 funções, INSERT ... ON CONFLICT DO
 NOTHING/UPDATE(UPSERT), pg_rewind.
 
 Esta nova versão permitirá aos usuários escalar com flexibilidade
 cargas de dados em alta performance. As novas funcionalidades
 
-Item. 9.6 incluem a realização de consultas de forma paralela, melhorias nas
+9.6 incluem a realização de consultas de forma paralela, melhorias nas
 técnicas de replicação síncrona, busca textual por frases, além de
 melhorias em performance e usabilidade.
 
 As versões continuam, chegamos às versões 10 e 11, abaixo temos mais algumas
 funcionalidades que forma adicionadas:
-
 
 10.6
 
@@ -340,7 +328,6 @@ Replicação Lógica (uma estrutura de publicação/assinatura para
 distribuição de dados), Particionamento Declarativo de Tabelas,
 Melhor paralelismo de consulta, Commit por Quórum para
 Replicação Síncrona, Autenticação SCRAM-SHA-256
-
 
 11.1
 
@@ -363,7 +350,6 @@ embutidas ao enorme gerenciamento de partições de tabelas
 * Algumas otimizações administrativas, incluindo a reconstrução simultânea de índices,
 soma de verificação off-line e, mais notavelmente, relatórios sobre o progresso dos
 processos de manutenção
-
 
 * Recursos de segurança, incluindo autenticação multifator e criptografia TCP/IP via
 GSSAPI2 (Generic Security Service Application Program Interface)
@@ -411,7 +397,6 @@ aplicações que aproveitam
 mecanismos de segurança tais como Kerberos, sem ter de programar explicitamente
 para qualquer
 mecanismo, ou seja, aplicações genéricas do ponto de vista de segurança.
-
 
 * índices, que agora são mais eficientes em geral para armazenar dados e aceitar
 operadores com parâmetros.
@@ -483,7 +468,6 @@ Packages and Installers
 
 Select your operating system family:
 
-
 Linux
 
 A
@@ -491,7 +475,6 @@ A
 macOS
 
 Windows
-
 
 Solaris
 
@@ -552,11 +535,11 @@ Windows Platforms
 & RI, 7, 8,10
 2008 RI. 7.8.10
 
-Item. 9.6 2012 R2 & RI,
+9.6 2012 R2 & RI,
 2008 R2, 7,8, 10
 2008 RI, 7,8,10
 
-Item. 9.5 2012 R2 & RI,
+9.5 2012 R2 & RI,
 2008 R2
 2008 R1
 
@@ -565,20 +548,18 @@ Figura 3 - Segunda tela para download do programa.
 Perceba que deixei salientando o link que você deve clicar para baixar o instalador.
 Passamos então para esta tela:
 
-
 PostgreSQL Database Download
-
 
 Version Linux x86-64
 Linuxx86-32
 
-Item. 13.2 N/A
+13.2 N/A
 N/A
 
-Item. 12.6 N/A
+12.6 N/A
 N/A
 
-Item. 11.11 N/A
+11.11 N/A
 N/A
 
 10.16
@@ -587,9 +568,9 @@ N/A
 
 9.5.25
 
-Item. 9.4.26 (Not Supported)
+9.4.26 (Not Supported)
 
-Item. 9.3.25 (Not Supported)
+9.3.25 (Not Supported)
 
 Windows x86-32
 
@@ -602,7 +583,6 @@ N/A
 Figura 4 - Selecionei a opção de Windows 64 bits.
 
 Figura 5 - Passo o passo das telas de instalação no Windows
-
 
 Este Computador > OS (C:) > Arquivos de Programas > PostgreSQL > 13
 
@@ -646,7 +626,6 @@ Documento de Te... 2 KB
 
 H serverjicense 09/02/2021 03:27
 Documento de Te... 2 KB
-
 
 * D:
 
@@ -708,7 +687,6 @@ Life) e os desenvolvedores do PostgreSQL não farão mais manutenção. Isso nã
 que você não pode executar uma versão antiga do PostgreSQL, significa simplesmente que
 esta versão não receberá nenhuma atualização do projeto oficial.
 
-
 EXPLoRANDo A TERMINoLoGIA Do PoSTCRESQL
 
 Uma instância do PostgreSQL é chamada de cluster porque uma única instância pode
@@ -743,7 +721,6 @@ Os usuários são definidos em todo o cluster, o que significa que não estão v
 a um
 banco de dados específico no cluster. Um usuário pode se conectar e gerenciar qualquer
 banco de dados no cluster para o qual tenha permissão.
-
 
 O PostgreSQL divide os usuários em duas categorias principais:
 
@@ -848,13 +825,11 @@ processo
 denominado processo de back-end, que por sua vez é responsável por servir uma e apenas
 uma conexão.
 
-
 Client establishing
 a new connection
 
 PostgreSQL server
 postmaster
-
 
 Existing client connections
 
@@ -908,7 +883,6 @@ diretório.
 
 * WALs: contém o log de intenção de alterações do banco de dados, usado para
 recuperar dados de um travamento crítico.
-
 
 CoNECTANDo A UM SERvIDoR PoSTCRES
 
@@ -998,7 +972,6 @@ do banco de dados criados dentro dessa base especificada na conexão.
 
 ATENÇÃO!
 
-
 Dica do professor 01:
 
 Se você quiser confirmar que se conectou ao servidor certo e da
@@ -1025,14 +998,12 @@ estratégia
 estrategia=# select inet_server_port();
 inet_server_po rt
 
-
 SELECT inet_server_addr(); - Mostra o endereço IP do servidor
 que aceitou a conexão.
 
 (1 row)
 
 5434
-
 
 A senha do usuário não é acessível usando SQL geral, por razões
 óbvias.
@@ -1046,8 +1017,7 @@ inet_server_addr
 
 Vejamos então como esse assunto já foi cobrado em provas anteriores:
 
-
-Item. 1. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
+1. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
 CONTROLE EXTERNO - TECNOLOGIA DA INFORMAÇÃO
 
 Sobre os fundamentos arquiteturais do banco de dados PostgreSQL, considere:
@@ -1093,7 +1063,6 @@ PostgreSQL
 distribution; most are developed by users."
 
 Gabarito: A
-
 
 TOME
 
@@ -1195,7 +1164,6 @@ seja rejeitada, especificamente, pelo uso do método reject. (falaremos dos
 métodos de
 acesso mais adiante). Vamos retomara a linha que foi adicionada ao arquivo pg_hba.conf:
 
-
 # TYPE DATABASE USER
 
 host all all
@@ -1249,7 +1217,6 @@ fornecer autenticação. Os principais métodos são scram-sha-256 (o método ma
 disponível desde PostgreSQL 10), md5 (o método usado em versões anteriores), reject
 sempre recusar a conexão e trust que sempre aceitar a conexão sem qualquer consideração
 às credenciais fornecidas.
-
 
 CRIANDo UM BANCo DE DADoS
 
@@ -1306,12 +1273,11 @@ PostgreSQL.
 Abaixo apresentamos uma questão de prova que cobra este assunto. Usaremos a questão
 para detalharmos alguns aspectos do comando CLUSTER e das definições de LOCALE.
 
-
 HORA DE
 
 PRATICAR!
 
-Item. 2. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+2. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Localização refere-se ao fato de uma aplicação respeitar as preferências
@@ -1370,7 +1336,6 @@ qual Locale está definido para sistema), você pode instruir initdb qual
 locale usar,
 especificando a opção --locale.
 
-
 Por exemplo:
 
 initdb --locale = sv_SE
@@ -1379,7 +1344,6 @@ Neste exemplo, para sistemas Unix definimos o idioma para Sueco (sv) que é fala
 Suécia (SE).
 
 Gabarito: C
-
 
 ORGANIZAçÃo Do SERVIDoR
 
@@ -1537,7 +1501,6 @@ ser desanexado do mestre original e tornar-se independente.
 Após iniciar o servidor usando comando pg_ctl, podemos visualizar alguns arquivos que
 compõem a configuração do servidor:
 
-
 * postmaster.pid - a existência deste arquivo no diretório de dados que é usado
 para
 ajudar pg_ctl a determinar se o servidor está sendo executado ou não.
@@ -1569,7 +1532,6 @@ administrador, você
 verá os processos em execução para o banco de dados conectado.
 
 select datname,pid, wait_event, backend_type from pg_stat_activity;
-
 
 estrategia=#
 datname
@@ -1625,7 +1587,6 @@ postgres 18220 8 2 345 4479296 8724
 O processo postmaster cujo PID é igual a 2256 é aquele que possui todos os outros
 subprocessos.
 Os principais processos de manutenção são os seguintes:
-
 
 * checkpointer é um processo responsável por executar os pontos de verificação, que
 são pontos no tempo em que o banco de dados garante que todos os dados sejam
@@ -1690,7 +1651,6 @@ RESTRICT.
 
 pg_namespace Lista os schemas de um determinado banco de dados.
 
-
 pg_proc
 pg.type
 
@@ -1727,12 +1687,11 @@ outro comando UPDATE ou SET.
 
 Vamos a seguir fazer uma questão a respeito do assunto.
 
-
 HORA DE
 
 PRATICAR!
 
-Item. 1. BANCA: FCC ANO: 2014 ÓRGÃO: TJ-AP PROVA: ANALISTA JUDICIÁRIO - BANCO
+1. BANCA: FCC ANO: 2014 ÓRGÃO: TJ-AP PROVA: ANALISTA JUDICIÁRIO - BANCO
 DE DADOS - DBA
 
 Um dos itens da administração do sistema gerenciador de bancos de dados
@@ -1792,11 +1751,9 @@ sessão atual
 
 Gabarito: A
 
-
 Para saber mais sobre outros elementos contidos nas quase 100 tabelas
 presentes no
 catálogo de dados, acesse: https://www.postgresql.org/docs/current/catalogs.html.
-
 
 AUTENTICAçÃo Do CLIENTE
 
@@ -1820,14 +1777,13 @@ PostgreSQL. Lembra que falamos que a autenticação acontece com a verificação
 do arquivo pg_hba.conf? Já vimos um exemplo de linha, agora vamos detalhar os métodos
 de autenticação (METHOD).
 
+1. GSSAPI
 
-Item. 1. GSSAPI
+2. SSPI
 
-Item. 2. SSPI
+3. LDAP
 
-Item. 3. LDAP
-
-Item. 4. RADIUS
+4. RADIUS
 
 Externai Authentication
 
@@ -1835,34 +1791,32 @@ Externai Authentication
 
 PostgreSQL
 
-Item. 1. PAM
+1. PAM
 
-Item. 2. Peer
+2. Peer
 
-Item. 3. ident
+3. ident
 
 OS Authentication
 
 Linux
 
-
 PostgreSQL Internai Authentication
 
-Item. 1. Trust
+1. Trust
 
-Item. 2. Reject
+2. Reject
 
-Item. 3. md5
+3. md5
 
-Item. 4. SCRAM
+4. SCRAM
 
-Item. 5. cert
+5. cert
 macOS
 
 Autenticação Descrição
 trusf Permite a conexão incondicionalmente. Este método permite a
 qualquer pessoa se conectar ao servidor de banco de dados
-
 
 PostgreSQL e se autenticar com o usuário que desejarem, sem a
 necessidade de senha ou qualquer outra autenticação.
@@ -1881,7 +1835,6 @@ md5 Exige que o cliente forneça uma senha MD5 para autenticação.
 Exige que o cliente forneça uma senha não criptografada para
 password autenticação. Uma vez que a senha é enviada em texto simples
 através da rede, não deve ser usado em redes não confiáveis.
-
 
 gss
 
@@ -1906,7 +1859,6 @@ Idap Autentica o cliente usando um servidor LDAP.
 radius Autentica usando um servidor RADIUS.
 
 cert Autentica usando certificados de cliente SSL.
-
 
 Autentica utilizando o serviço Pluggable Authentication Modules
 (PAM) fornecido pelo sistema operacional.
@@ -1938,7 +1890,6 @@ ambiente de rede interno isolado.
 Gabarito Errado.
 
 PERMISSõES E PAPÉIS (ROLES)
-
 
 O PostgreSQL administra as permissões de
 acesso ao banco de dados utilizando o conceito de
@@ -1993,7 +1944,6 @@ e não a outro).
 
 PAPÉIS No BANCo DE DADoS
 
-
 Papéis de bancos de dados são conceitos completamente
 separados dos usuários do sistema operacional. Na prática, pode
 ser conveniente manter uma correspondência, mas isso não é
@@ -2044,7 +1994,6 @@ temos
 um exemplo da criação de um ROLE e da execução do comando \du no psql. Logo em
 seguida, faremos uma questão para fixação do conteúdo.
 
-
 Figura 2 - Uma lista de usuários
 
 Dica: É uma boa prática criar uma ROLE que tem os privilégios CREATEDB e
@@ -2084,9 +2033,7 @@ Apenas para complementar nosso conhecimento a respeito de ROLES, apresentamos
 abaixo a sintaxe completa do comando. Observe que a maioria dos parâmetros é de
 entendimento intuitivo.
 
-
 0515200190-0E-vEevrteorntoMn uMriulorilVoieViireaira
-
 
 CREATE ROLE name [ [ WITH ] option [...]]
 As opções podem ser as seguintes:
@@ -2144,7 +2091,6 @@ tabela, todas as páginas são logicamente equivalentes, portanto, um determinad
 (linha) pode
 ser armazenado em qualquer página.
 
-
 A estrutura usada para armazenar a tabela é um arquivo heap. Os arquivos heap são
 listas de
 registros não ordenados de tamanho variável. O arquivo heap é estruturado como uma
@@ -2183,7 +2129,6 @@ PRATICAR!
 (Ministério da Economia - Desenvolvimento de Sistemas - 2020) Acerca de sistemas
 gerenciadores de banco de dados, julgue o item subsequente.
 
-
 No PostgreSQL, a principal unidade de armazenamento é uma tabela, sendo as tabelas
 armazenadas em arquivos de heap.
 
@@ -2204,7 +2149,6 @@ Gabarito Certo.
 Agora que já conhecemos os perfis de usuários e a forma como o servidor está
 organizado
 vamos brincar com os comandos de criação e manipulação dos dados.
-
 
 Como a maioria dos sistemas de banco de dados com capacidade de operar em rede, o
 PostgreSQL se encaixa no paradigma cliente-servidor. O coração do PostgreSQL é
@@ -2262,12 +2206,11 @@ Alguns desses comandos já foram cobrados em provas de concurso. Vejam a
 questão
 abaixo:
 
-
 HORA DE
 
 PRATICAR!
 
-Item. 1. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Analista
+1. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Analista
 Judiciário - Tecnologia da Informação
 
 O comando em SQL capaz de serializar dados de uma tabela para um arquivo em
@@ -2302,7 +2245,6 @@ comandos do postgreSQL. Dentre os comandos utilizados para exportar arquivo, exi
 lista, além do COPY, responsável pela manipulação de arquivos LOB (large objects). Vejam
 a lista na figura abaixo:
 
-
 COPY, LARGE OBJECT
 
 \copy ...
@@ -2325,7 +2267,6 @@ Gabarito: A.
 
 Vejam que vale a pena conhecer os principais comandos slash. Optamos por colocar abaixo
 uma lista destes comandos com suas respectivas descrições.
-
 
 GENERAL:
 
@@ -2375,7 +2316,6 @@ show the contents of the query buffer
 reset (clear) the query buffer
 write query buffer to file
 
-
 INPUT/OUTPUT:
 
 \echo [STRING]
@@ -2391,7 +2331,7 @@ execute cornmands from file
 send all query results to file or Ipipe
 write string to query output stream (see \o)
 
-Item. 2. BANCA: CESPE - Oficial Técnico de Inteligência/Área 9/2018
+2. BANCA: CESPE - Oficial Técnico de Inteligência/Área 9/2018
 
 Julgue o próximo item, a respeito de conceitos e comandos PostgreSQL e MySQL.
 
@@ -2427,13 +2367,11 @@ Vamos agora passar a analisar as peculiaridades dos comandos DDL do
 PostgreSQL,
 começando pelo principal comando desta categoria: o CREATE TABLE.
 
-
 CREATE DATABASE
 
 O comando CREATE DATABASE cria um banco de dados PostgreSQL. Para criar um
 banco de dados, você deve ser um superusuário ou ter o privilégio especial CREATEDB. O
 comando possui a seguinte sintaxe:
-
 
 CREATE DATABASE nome
 
@@ -2498,7 +2436,6 @@ CREATE TABLE
 
 O comando CREATE TABLE irá criar uma tabela nova, inicialmente vazia, no banco de
 dados. A tabela será de propriedade do usuário que emite o comando.
-
 
 Se o nome do esquema for fornecido (por exemplo, CREATE TABLE esquema.tabela ...),
 então a tabela será criada no esquema especificado. Caso contrário, ela é
@@ -2577,7 +2514,6 @@ FOREIGN KEY ( columnjiame [, ... ] ) REFERENCES reftable [ ( refcolumn [>...])]
 [ MATCH FULL | MATCH PARTIAL | MATCH SIMPLE ] [ ON DELETE action ] [ ON UPDATE action ] }
 
 [ DEFERRABLE | NOT DEFERRABLE ] [ INITIALLY DEFERRED | INITIALLY IMMEDIATE ]
-
 
 CREATE SEQUENCE
 
@@ -2703,8 +2639,7 @@ AS query
 
 [ WITH [ CASCADED | LOCAL ] CHECK OPTION ]
 
-
-Item. 3. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+3. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 A instrução SQL em PostgreSQL abaixo está mal formulada.
@@ -2812,7 +2747,6 @@ TO tabela [ WHERE condição ]
 
 DO [ ALSO | INSTEAD ] { NOTHING | command | ( command ; command ...) }
 
-
 O comando CREATE TRIGGER cria um gatilho. O gatilho fica associado a uma tabela,
 visão ou tabela estrangeira especificada e executa a função especificada quando ocorrem
 certos eventos. Conhecido como evento, condição, ação.
@@ -2857,7 +2791,6 @@ tabelas estrangeiras:
 Quando Evento Nível de linha
 Nível de comando
 
-
 BEFORE
 
 INSERT/UPDATE/DELETE
@@ -2871,7 +2804,6 @@ ESTRANGEIRAS
 
 TRUNCATE -
 TABELAS
-
 
 AFTER
 
@@ -2887,7 +2819,6 @@ ESTRANGEIRAS
 TRUNCATE -
 TABELAS
 
-
 INSTEAD OF
 
 INSERT/UPDATE/DELETE VISÕES -
@@ -2895,13 +2826,13 @@ TRUNCATE
 
 Perceba que:
 
-Item. 1. Não faz sentido definir o um trigger para um evento de TRUNCATE em nível de linha,
+1. Não faz sentido definir o um trigger para um evento de TRUNCATE em nível de linha,
 nem faz sentido definir eventos de TRUNCATE para visões.
 
-Item. 2. Também não faz sentido definir instruções de INSTEAD OF associada ao evento de
+2. Também não faz sentido definir instruções de INSTEAD OF associada ao evento de
 TRUCANTE.
 
-Item. 3. Outro ponto é que não existe gatilhos de nível de linhas (FOR EACH ROW) para
+3. Outro ponto é que não existe gatilhos de nível de linhas (FOR EACH ROW) para
 visões.
 
 Observem agora a sintaxe do comando abaixo:
@@ -2927,7 +2858,6 @@ UPDATE [ OF coLumn_name [, ... ] ]
 
 DELETE
 TRUNCATE
-
 
 OUTRoS CoMANDoS DDL
 
@@ -2955,7 +2885,6 @@ SELECT
 
 Visando analisar o passo a passo da execução do comando SELECT, apresentaremos a
 seguir a sintaxe do comando:
-
 
 [ WITH [ RECURSIVE ] with_query [, ...] ]
 
@@ -2991,7 +2920,6 @@ where from_item can be one of:
 [ LATERAL ] ( select ) [ AS ] alias [ (
 column_alias [, ...] ) ]
 with_query_name [ [ AS ] alias [ ( column_alias [, ...] ) ] ]
-
 
 [ LATERAL
 
@@ -3055,7 +2983,6 @@ presente, ela elimina os grupos que não satisfaçam a condição dada.
 As linhas de saída reais são calculadas utilizando as expressões de saída do SELECT
 para
 cada grupo de linha ou linha selecionada.
-
 
 SELECT DISTINCT elimina as linhas duplicadas a partir do resultado. SELECT DISTINCT
 ON elimina linhas que correspondem a todas as expressões especificadas. SELECT ALL
@@ -3172,7 +3099,6 @@ DELETE FRQM [ ONLY ] table_name [ * ] [ [ AS ] alias ]
 [ RETURNING * | output_expressíor? [ [ AS ] ] [j
 ...]
 
-
 UPDATE
 
 O comando UPDATE muda os valores das colunas especificadas em todas as linhas que
@@ -3206,7 +3132,7 @@ SET { column_name = { expression | DEFAULT } |
 
 [ RETURNING * | output_expression [ [ AS ] outputname ] [, ...] ]
 
-Item. 1. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+1. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Considere o trecho em PostgreSQL abaixo.
@@ -3228,7 +3154,6 @@ cláusula SELECT.
 E em erro, pois múltiplas inserções são possíveis somente com a utilização de
 colchetes para a limitação dos registros.
 
-
 Comentário. Para respondermos a essa questão, precisaríamos de mais detalhes sobre a
 tabela. Mas, considerando que ela só possui essas três colunas e que os tipos de
 dados
@@ -3236,7 +3161,6 @@ não são relevantes, podemos avaliar que o comando INSERT criará novas linhas 
 products. Desta forma, podemos marcar nossa resposta na alternativa B.
 
 Gabarito: B.
-
 
 PECULIARIDADES DoS TIPoS DE DADoS Do PoSTCRESQL
 
@@ -3299,7 +3223,6 @@ ser difícil. Por exemplo, você pode armazenar 763 como uma cadeia de caractere
 
 *
 
-
 caso, você irá armazenar os símbolos 7, 6 e 3, não o valor numérico 763. Por
 conseguinte,
 não é possível adicionar um número à cadeia de caracteres 763, porque não faz sentido
@@ -3359,7 +3282,6 @@ sugerimos que você armazene quantias monetárias como NUMERIC().
 
 Observem abaixo uma tabela com os tipos numéricos presentes no PostgreSQL:
 
-
 Name Storage Size Range
 smallint 2 bytes -32768 to +32767
 
@@ -3388,7 +3310,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 1. BANCA: FCC - Analista Judiciário (TRT 23a Região)/Apoio
+1. BANCA: FCC - Analista Judiciário (TRT 23a Região)/Apoio
 Especializado/Tecnologia da lnformação/2016
 
 São vários os tipos de dados numéricos no PostgreSQL. O tipo
@@ -3410,7 +3332,6 @@ Comentário: A questão trata dos tipos de dados numéricos do PostgreSQL.
 Observem
 abaixo uma tabela que vimos com os tipos numéricos presentes no PostgreSQL:
 
-
 Name Storage Size Range
 smallint 2 bytes -32768 to +32767
 
@@ -3430,7 +3351,6 @@ serial 4 bytes 1 to 2147483647
 
 bigserial 8 bytes 1 to 9223372036854775807
 
-
 Vejam que os tipos decimal e numeric têm o tamanho de armazenamento variável. Já os
 tipos smallserial, serial e bigserial são utilizados para valores auto
 incrementados, cujos
@@ -3438,7 +3358,7 @@ domínios só permitem valores positivos.
 
 Agora vamos aos erros das alternativas. Na letra A, diz que smallint tem 1 byte, ao invés de
 
-Item. 2. Na alternativa B, fala que o bigint é uma alternativa intermediária, quando na
+2. Na alternativa B, fala que o bigint é uma alternativa intermediária, quando na
 realidade
 ele é o valor numérico que possui o maior range. A assertiva C afirma erroneamente
 que
@@ -3457,7 +3377,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 2. BANCA: FCC - Técnico Judiciário (TRE-PB)/Apoio Especializado/Programação de
+2. BANCA: FCC - Técnico Judiciário (TRE-PB)/Apoio Especializado/Programação de
 Sistemas/2015
 
 No PostgreSQL, o tipo de dados numérico considerado meramente uma notação
@@ -3477,7 +3397,6 @@ Comentário: O gabarito da questão é a letra a). Novamente a banca FCC cobrou 
 questão sobre o tipo numérico serial. Conforme vimos na questão anterior, o tipo serial
 é utilizado para definir colunas identificadoras únicas, semelhante à propriedade auto
 incremento.
-
 
 Gabarito: A
 
@@ -3511,7 +3430,6 @@ e o falso
 possam ser inseridos de uma variedade de maneiras, na saída, os valores são sempre t
 para verdadeiro e f para falso.
 
-
 TIPoS GEoMÉTRICoS E DE REDE
 
 Os tipos geométricos suportam armazenamento de primitivas geométricas. Eles
@@ -3525,7 +3443,6 @@ POINT (27) (x,y) são as coordenadas
 LSEG [(0,0),(1,3)] Os pontos de início e fim de um segmento de
 reta
 
-
 PATH
 
 ((0,0),(3,0),(4,5),(1,6))
@@ -3534,7 +3451,6 @@ PATH
 
 BOX (1,1),(3,3) Pontos opostos dos vértices de um
 retângulo
-
 
 CIRCLE
 
@@ -3564,7 +3480,6 @@ nativo, de um tipo definido pelo usuário, do tipo de enumeração ou, ainda, de
 composto a ser criado. Arrays de domínios ainda não são suportados.
 
 Para ilustrar o uso de tipos de arrays, vamos criada uma tabela:
-
 
 CREATE TABLE sal_emp (
 name
@@ -3600,7 +3515,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 1. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 1a REGIÃO (RJ) PROVA: TÉCNICO DO
+1. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 1a REGIÃO (RJ) PROVA: TÉCNICO DO
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 No sistema gerenciador de Banco de Dados PostgreSQL (v. 9.1), a forma para se
@@ -3623,7 +3538,6 @@ atributos de tabela como arrays, podemos marcar como resposta a alternativa D. V
 agora conhecer um pouco sobre os BLOBs ou Binary Large Objects.
 
 Gabarito: D.
-
 
 LARGE OBoECTS (BLoBS)
 
@@ -3681,10 +3595,8 @@ i
 test=> SELECT lo_unlink(fruit.image) FROM fruit;
 lo_unlink
 
-
 Nomes de caminho completos devem ser usados com objetos grandes, pois o servidor de
 banco de dados é executado em um diretório diferente do que o cliente psql, por exemplo.
-
 
 Os arquivos são importados e exportados pelo usuário postgres. Então, o Postgres deve
 ter
@@ -3722,7 +3634,6 @@ enquanto o segundo é representado internamente de maneira binária e indexável
 JSON é amplamente utilizado ao trabalhar com tabelas grandes e quando uma estrutura de
 dados é necessária que minimiza o número de junções a serem feitas durante a fase de
 pesquisa.
-
 
 FUNCIoNALIDADES Do PGADMIN 4
 
@@ -3762,7 +3673,6 @@ liberado sob a licença do PostgreSQL. É possível visualizar a interface da pl
 na
 figura abaixo:
 
-
 nr?AdmÍn File'*' Object* Tools* Helpv
 
 Browser Depen< < ' gg TÉ Q. Properties SQL Statistics Dependents
@@ -3772,7 +3682,6 @@ v gServers(1)
 
 * * Databases (2)
 
-
 v *estratégia
 
 > ®Casts
@@ -3781,7 +3690,6 @@ v *estratégia
 v General
 
 Database estratégia
-
 
 > IQ Event Triggers
 
@@ -3889,7 +3797,6 @@ usando o seguinte comando:
 
 postgres -c log_connections=yes -c log_destination='syslog'
 
-
 No comando acima estamos definindo que todas as tentativas de conexão com o servidor
 serão adicionadas ao log (log_connectins=yes) e que o destino do log é
 definido pelo
@@ -3963,7 +3870,6 @@ Plugin.
 ao agendador de tarefas do SQL Server (SQLAgent). O pgAdmin fornece uma interface
 legal para isso.
 
-
 MANIPULANDo oS TIPoS: FUNçõES E oPERADoRES Do
 PoSTCRES
 
@@ -4009,7 +3915,6 @@ POSTGRESQL oferece muitas funções. As tabelas a seguir mostram as funções ma
 comuns, organizadas pelos tipos de dados suportados. O comando psql \df mostra todas
 as funções definidas e seus argumentos.
 
-
 iype
 
 Character
@@ -4023,7 +3928,6 @@ lengthUo/)
 length of col
 
 Retums
-
 
 String
 
@@ -4171,7 +4075,6 @@ natural logarithm
 base-10 logarithm
 convert col to a string based on mask
 
-
 TVpe
 
 Temporal
@@ -4191,7 +4094,6 @@ same as date_part()
 col rounded to units
 
 Retunis
-
 
 Geometric
 Network
@@ -4250,7 +4152,6 @@ PRATICAR!
 
 (Ministério da Economia - Desenvolvimento de Sistemas - 2020)
 
-
 ff aluno
 nome
 r matricula
@@ -4281,7 +4182,6 @@ insert into disciplina (id, descricao) values (5,'Geografia');
 
 insert into matricula (aluno, disciplina,ano, nota) values (1,1, 2020, 6.5);
 insert into matricula (aluno, disciplina, ano, nota) values (1, 3, 2020, 9.5);
-
 
 insert into matricula (aluno, disciplina, ano, nota) values (1, 5, 2020, 10.0);
 
@@ -4344,7 +4244,6 @@ O AS é um alias usado para definir o nome dada colunas e da relação de saída
 
 Gabarito Certo.
 
-
 OPERADoRES
 
 Os operadores são semelhantes às funções. A tabela abaixo apresenta os operadores mais
@@ -4352,7 +4251,6 @@ comuns. No psql, o comando \do mostra todos os operadores definidos e seus argum
 
 Type Function Example
 Returns
-
 
 Character
 String
@@ -4461,7 +4359,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 1. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
+1. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
 CONTROLE EXTERNO - TECNOLOGIA DA INFORMAÇÃO
 
 Em PostgreSQL, a função que converte a primeira letra da string informada em letra
@@ -4472,7 +4370,6 @@ A chgstr.
 B altertext.
 C initcap.
 D upper.
-
 
 E toupper.
 
@@ -4492,7 +4389,7 @@ alternativa C. Vamos para a próxima questão.
 
 Gabarito: C.
 
-Item. 2. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Analista Ministerial PROVA:
+2. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Analista Ministerial PROVA:
 Informática
 
 No banco de dados PostgreSQL, a função COALESCE
@@ -4528,7 +4425,6 @@ NULLIF, GREATEST e LEAST. Vejamos abaixo a definição de cada uma delas.
 A expressão CASE do SQL é uma expressão condicional genérica, semelhante às
 declarações if/else em outras linguagens de programação. Vejam a sintaxe do comando
 abaixo:
-
 
 CASE L-JHEN condítíon THEN resuLt
 [WHEN ...]
@@ -4578,7 +4474,6 @@ possam optar por removê-lo conscientemente.
 PL/pgSQL é uma linguagem estruturada em blocos. O texto completo da definição da função
 deve ser um bloco. Um bloco é definido como:
 
-
 CREATE FUNCTION nome_da_função (pl tipo, p2 tipo,p3 tipo,
 RETURNS tipo AS
 
@@ -4589,7 +4484,6 @@ END;
 
 LANGUAGE nome_da linguagem
 pn tipo)
-
 
 Cada declaração (declaration) e cada instrução (statement) dentro de um bloco
 são
@@ -4658,7 +4552,6 @@ Observem a presença de um sub-bloco e a utilização da variável quantity. Seu
 depender da posição em que é chamada dentro da função. Vejam a sintaxe para declaração
 de variável e atribuição de valor:
 
-
 name [CONSTANT] type [COLLATE collation_name] [NOT NULL]
 [{DEFAULT|:=|=}express/on];
 
@@ -4684,7 +4577,6 @@ pontos igual).
 Outra característica é podermos utilizar a instrução RAISE para relatar mensagens e
 exibir
 erros. Veja as possibilidades de uso do comando na figura abaixo:
-
 
 RAISE [ Levei
 RAISE [ Levei
@@ -4725,7 +4617,6 @@ sintaxe option = expressão. Cada expressão pode ser qualquer expressão de
 valor de
 string. As palavras-chave permitidas para opção são:
 
-
 MESSAGE - Define o texto da mensagem de erro. Esta opção não pode ser usada quando
 o RAISE
 inclui uma string formatada antes do USING. Observe as descrições do comando RAISE acima.
@@ -4759,7 +4650,6 @@ função. Eles simplesmente acrescentam zero ou mais linhas no conjunto de resul
 função.
 
 Aqui está um exemplo de uma função usando RETURN NEXT:
-
 
 CREATE TABLE foo (fooid INTj foosubid INT, fooname TEXT);
 INSERI INTO foo VALUES (1* 2^ "thiree');
@@ -4809,7 +4699,6 @@ base em certas condições. PL/pgSQL possui três formas de IF e duas formas par
 Com as declarações LOOP, EXIT, CONTINUE, WHILE, FOR e FOREACH, você pode
 mandar sua função PL/pgSQL repetir uma série de comandos. Observem o exemplo abaixo
 da sintaxe dos comandos LOOP, IF e EXIT utilizados em conjunto:
-
 
 LOOP
 
@@ -4862,7 +4751,6 @@ de uma linha na tabela emp é gravado na tabela de emp_audit. A hora atual e o n
 de
 usuário são carimbados na linha, juntamente ao tipo de operação executada nele.
 
-
 CREATE TABLE emp (
 
 empname
@@ -4888,13 +4776,11 @@ salary integer
 CREATE OR REPLACE FUNCTION process_emp_audit() RETURNS TRIGGER AS $emp_audit$
 BEGIN
 
-
 — Create a row in
 
 -- make use of the
 emp_audit to reflect the operation performed on emp,
 special variable TG_OP to work out the operation.
-
 
 IF (TG_OP = 'DELETE') THEN
 
@@ -4904,7 +4790,6 @@ RETURN OLD;
 ELSIF (TG_OP = 'UPDATE') THEN
 
 'D', now(), user, OLD.*;
-
 
 END;
 
@@ -4933,7 +4818,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 3. BANCA: CESPE - Analista Judiciário (STM)/Apoio Especializado/Análise de
+3. BANCA: CESPE - Analista Judiciário (STM)/Apoio Especializado/Análise de
 Sistemas/2018
 
 Julgue o item subsequente, a respeito do Postgres 9.6.
@@ -4953,13 +4838,11 @@ FOR EACH ROW EXECUTE PROCEDURE emp_stamp();
 
 CREATE TRIGGER emp_audit
 
-
 AFTER INSERT OR UPDATE OR DELETE ON emp
 
 FOR EACH ROW EXECUTE PRQCEDURE process emp audit();
 
 Gabarito: C
-
 
 ADMINISTRAçÃo DE SERVIDoRES
 
@@ -5080,12 +4963,10 @@ HORA DE
 
 PRATICAR!
 
-
-Item. 1. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL
+1. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL
 ADMINISTRATIVO - SUPORTE E INFRAESTRUTURA DE TI
 
 PROVA: ANALISTA
-
 
 Julgue o item abaixo:
 
@@ -5146,7 +5027,6 @@ resultados dessas consultas.
 
 Gabarito: E
 
-
 TRANSAçõES, MVCC, WALS E PoNToS DE vERIFICAçÃo
 
 O PostgreSQL possui um mecanismo de transação muito rico e compatível com os padrões
@@ -5202,7 +5082,6 @@ current_time | txid_current
 
 -i
 
-
 11:14:54.418179-03 | 707
 
 (1 row)
@@ -5211,7 +5090,6 @@ estrategia=> SELECT current_time, txid_current ();
 current_time | txid_current
 
 -i
-
 
 11:15:38.073236-03 | 708
 
@@ -5286,13 +5164,11 @@ smallint
 lasCupdate
 timestamp without time zone A
 
-
 1 749
 
 2 749
 
 3 749
-
 
 6 Addis Abeba 31 2006-02-15 09:45:25
 
@@ -5337,7 +5213,6 @@ timestamp without time zone
 
 2 751 0 7 novacidade
 107 2006-02-15 09:45:25
-
 
 Aula Cavalcanti)
 
@@ -5406,7 +5281,6 @@ ponto, interpretar) suas instruções SQL e sua carga de trabalho atual para for
 você acesso
 aos dados da maneira mais rápida.
 
-
 No entanto, encontrar o caminho mais rápido
 para os dados geralmente requer um equilíbrio
 entre a busca pelo caminho mais rápido
@@ -5441,7 +5315,6 @@ statement
 
 PARSER
 
-
 REWRITER
 
 (rule system)
@@ -5449,7 +5322,6 @@ REWRITER
 i
 
 OPTIMIZER
-
 
 EXECUTOR
 
@@ -5486,7 +5358,6 @@ complexas na
 administração de banco de dados e que não existe uma solução mágica ou solução única,
 portanto,
 é necessário ter experiência e muita prática.
-
 
 BACkUP E RESToRE
 
@@ -5535,7 +5406,6 @@ usando
 um tipo de arquivo customizados (Fc) que gera um arquivo com os dados compactados, o
 que economiza espaço. Ao lado, temos um exemplo do pg_restore, nele o parâmetro -j
 executa o restore em paralelo carregando múltiplas tabelas (8) ao mesmo tempo.
-
 
 Os formatos de arquivo de saída mais flexíveis são o formato de "custom" (-Fc) e o
 formato
@@ -5597,7 +5467,6 @@ reconstruir o banco de dados é criado e gravado em um arquivo ou na saída padr
 Este
 script de saída é equivalente ao formato de saída de texto sem formatação do pg_dump.
 
-
 Os backups são importantes porque, mesmo em um produto testado em batalha e de alta
 qualidade como o PostgreSQL, as coisas podem dar errado: muitas vezes, os usuários
 podem danificar acidentalmente seus dados, mas outras vezes, o hardware ou o software
@@ -5615,7 +5484,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 2. BANCA: FCC - Analista em Gestão (DPE-AM)/Especializado em Tecnologia da
+2. BANCA: FCC - Analista em Gestão (DPE-AM)/Especializado em Tecnologia da
 Informação de Defensoria/Analista de Sistema/2018
 
 No PostgreSQL 9.0, para efetuar o backup e a restauração de um banco de dados
@@ -5637,15 +5506,13 @@ destes comandos, sugiro que acesse este site1.
 
 Gabarito: D
 
-Item. 3. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 13a REGIÃO (PB) PROVA: ANALISTA
+3. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 13a REGIÃO (PB) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
-
 
 https://pt.wikibooks.org/wiki/PostgreSQL Pr%C3%Altico/Administra%C3%A7%C3%A3o/Backup e Restor
 e - Obs.: Apesar de usar a versão 8.1, a maioria dos exemplos são válidos e consistentes com a
 versão
 mais recente do SGBD.
-
 
 Paulo utiliza o pg_dump do PostgreSQL para fazer cópia de segurança de um banco
 de dados. Normalmente faz cópias de segurança no formato tar e utiliza o pg_restore
@@ -5708,7 +5575,6 @@ de 8
 GB para o tamanho das tabelas individuais. Além disso, a ordem relativa de itens de
 dados da tabela não pode ser mudada durante a restauração.
 
-
 Veja que, com essas informações, podemos nos aventurar a montar nosso comando
 pg_dump:
 
@@ -5722,14 +5588,13 @@ confirmado na alternativa B.
 
 Gabarito: B.
 
-
 QUESTõES CoMENTADAS - MULTIBANCAS
 
 HORA DE
 
 PRATICAR!
 
-Item. 1. DIRENS Aeronáutica - Estágio de Adaptação à Graduação de Sargento
+1. DIRENS Aeronáutica - Estágio de Adaptação à Graduação de Sargento
 (EEAR)/lnformática/2019/EAGS 2020
 
 Em se tratando do utilitário psql, para a criação de um banco de dados no PostgreSQL,
@@ -5778,7 +5643,6 @@ assim:
 Se não for especificado um comando, \h irá mostrar todos os comandos SQL que
 possuem ajuda com a sintaxe.
 
-
 O comando \di lista todos os índices do banco. O "i" é para indicar que queremos
 informações sobre os indexes.
 
@@ -5790,7 +5654,7 @@ alternativa C.
 
 Gabarito: C
 
-Item. 2. CEBRASPE (CESPE) - Auxiliar Judiciário (TJ PA)/Programador de
+2. CEBRASPE (CESPE) - Auxiliar Judiciário (TJ PA)/Programador de
 Computador/2020
 
 No sistema de gerenciamento de banco de dados PostgreSQL, para criar uma tabela
@@ -5813,7 +5677,7 @@ bytes) e bigserial (inteiro de 8 bytes). Logo, temos a respos ta na alternativa 
 
 Gabarito: E
 
-Item. 3. IBFC - Técnico Judiciário (TRE PA)/Apoio Especializado/Operação de
+3. IBFC - Técnico Judiciário (TRE PA)/Apoio Especializado/Operação de
 Computadores/2020
 
 Quanto às principais características do PostgreSQL, analise as afirmativas abaixo e dê
@@ -5833,7 +5697,6 @@ b) V, V, F
 c) F, V, V
 
 d) F, F, V
-
 
 Comentário: Vamos comentar cada um dos itens acima.
 
@@ -5856,7 +5719,7 @@ Assim, temos nosso gabarito na alternativa A.
 
 Gabarito: A.
 
-Item. 4. NC-UFPR - Profissional Nível Universitário Jr (ITAIPU)/Gestão da lnformação/2019
+4. NC-UFPR - Profissional Nível Universitário Jr (ITAIPU)/Gestão da lnformação/2019
 
 Considere a seguinte instrução SQL:
 WITH RECURSIVE cte(n) AS (
@@ -5891,7 +5754,6 @@ SELECT n+1 FROM cte WHERE n<5
 
 )
 
-
 SELECT * FROM cte;
 
 CTE (Common table expression) é um conjunto de dados temporário, que é nomeado
@@ -5924,7 +5786,7 @@ C.
 
 Gabarito: C
 
-Item. 5. NC-UFPR - Profissional Nível Universitário Jr (ITAIPUJ/Gestão da lnformação/2019
+5. NC-UFPR - Profissional Nível Universitário Jr (ITAIPUJ/Gestão da lnformação/2019
 
 Em relação à busca por texto utilizando os operadores LIKE, SIMILAR TO, expressão
 regular, Full Text Search (FTS), funções e operadores relacionados à busca textual no
@@ -5947,7 +5809,6 @@ to_tsvector, são conjuntos de trigrans das strings informadas, que são compara
 ordem alfabética durante a busca.
 
 Comentário: Vamos comentar cada uma das alternativas:
-
 
 a) ERRADA. O operador LIKE realiza busca por semelhança de palavras. Essa é sua
 principal finalidade, achar registros que possuem um padrão na sua cadeia de
@@ -6004,7 +5865,7 @@ necessariamente há a comparação em ordem alfabética
 
 Gabarito: C
 
-Item. 6. VUNESP - Técnico de Tecnologia da Informação (UFABC)/2019
+6. VUNESP - Técnico de Tecnologia da Informação (UFABC)/2019
 
 No Sistema Gerenciador de Bancos de Dados PostgreSQL (versão 9), há um comando
 que exibe o plano que o gerenciador irá utilizar para realizar uma determinada
@@ -6041,7 +5902,7 @@ utilizando um cursor criado previamente.
 
 Gabarito: A.
 
-Item. 7. CEBRASPE (CESPE) - Analista de Gestão de Resíduos Sólidos (SLU
+7. CEBRASPE (CESPE) - Analista de Gestão de Resíduos Sólidos (SLU
 DF)/lnformática/2019
 
 No que diz respeito a ferramentas de desenvolvimento, julgue o item a seguir.
@@ -6054,7 +5915,6 @@ Comentário: O PostgreSQL é um sistema de banco de dados objeto-relacional, de
 código aberto, que usa a linguagem SQL, sendo altamente extensível, com suporte ao
 tipo de dados JSON desde a versão 9.2, permitindo a manipulação de dados no
 
-
 I formato JSON de maneira eficiente, podendo armazenar documentos JSON no dois
 tipos de dados disponíveis: JSON e JSONB.
 
@@ -6065,7 +5925,7 @@ binário, com isso as consultas ficam mais rápidas.
 
 Gabarito: C.
 
-Item. 8. VUNESP - Analista de Tecnologia da Informação (Pref Olímpia)/2019
+8. VUNESP - Analista de Tecnologia da Informação (Pref Olímpia)/2019
 
 O sistema gerenciador de bancos de dados PostgreSQL (versão 9.5) possui os
 seguintes modos de desligamento (shutdown):
@@ -6097,7 +5957,7 @@ A única alternativa que traz os três modos é a letra e) Smart, Fast e Immedia
 
 Gabarito: E.
 
-Item. 9. CEBRASPE (CESPE) - Analista de Tecnologia da Informação (TCE-
+9. CEBRASPE (CESPE) - Analista de Tecnologia da Informação (TCE-
 RO)/Desenvolvimento de Sistemas/2019
 
 Em geral, a sintaxe para a criação de índice em banco de dados relacional segue uma
@@ -6107,7 +5967,6 @@ relacional PostgreSQL, em versão 9 ou superior.
 CREATE [ UNIQUE ] INDEX [ CONCURRENTLY ] [ name ] ON table [ USING method
 
 ]
-
 
 Tendo como referência essas informações, assinale a opção correta.
 
@@ -6157,13 +6016,12 @@ condição da cláusula WHERE).
 
 Gabarito: D
 
-Item. 10. CEBRASPE (CESPE) - Analista Judiciário (TJ AM)/Analista de Sistemas/2019
+10. CEBRASPE (CESPE) - Analista Judiciário (TJ AM)/Analista de Sistemas/2019
 
 A respeito de bancos de dados relacionais, julgue o item a seguir.
 
 Em um banco de dados PostgreSQL, a manipulação de ROLES é feita exclusivamente
 por comandos CREATE e DROP fornecidos com o banco de dados.
-
 
 Comentário: Um ROLE (papel) é um conjunto de permissões (ou privilégios) que pode
 ser atribuído aos usuários do banco. No PostgreSQL, a manipulação dos ROLES é
@@ -6173,7 +6031,7 @@ pelos comandos CREATE e DROP.
 
 Gabarito: E.
 
-Item. 11. IDECAN - Técnico (IF Baiano)/Tecnologia da Informação /2019
+11. IDECAN - Técnico (IF Baiano)/Tecnologia da Informação /2019
 
 Sobre o PostgreSQL, assinale a alternativa correta.
 
@@ -6217,8 +6075,7 @@ backup, conforme dito na questão.
 
 Gabarito: B
 
-
-Item. 12. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
+12. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
 ADMINISTRATIVO - SUPORTE E INFRAESTRUTURA DE TI
 
 A respeito de banco de dados, julgue os itens que se seguem.
@@ -6256,7 +6113,7 @@ transações.
 
 Gabarito: C.
 
-Item. 13. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
+13. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
 CONTROLE EXTERNO - TECNOLOGIA DA INFORMAÇÃO
 
 Sobre os fundamentos arquiteturais do banco de dados PostgreSQL, considere:
@@ -6275,7 +6132,6 @@ III. A aplicação cliente pode estar localizada em uma máquina diferente da m�
 em que o servidor está instalado. Neste caso, a comunicação entre ambos é efetuada
 por uma conexão TCP/IP. O servidor pode aceitar diferentes conexões dos clientes ao
 mesmo tempo.
-
 
 Está correto o que se afirma em
 Al, II e III.
@@ -6304,7 +6160,7 @@ distribution; most are developed by users."
 
 Gabarito: A
 
-Item. 14. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+14. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Localização refere-se ao fato de uma aplicação respeitar as preferências
@@ -6332,7 +6188,6 @@ do
 comando:
 
 CLUSTER [VERBOSE] table_name [ USING index_name ]
-
 
 Sobre as alternativas B e C, acabamos de definí-las acima. A alternativa D trata de
 um
@@ -6374,7 +6229,7 @@ Suécia (SE).
 
 Gabarito: C
 
-Item. 15. BANCA: FCC ANO: 2014 ÓRGÃO: TJ-AP PROVA: ANALISTA JUDICIÁRIO -
+15. BANCA: FCC ANO: 2014 ÓRGÃO: TJ-AP PROVA: ANALISTA JUDICIÁRIO -
 BANCO DE DADOS - DBA
 
 Um dos itens da administração do sistema gerenciador de bancos de dados
@@ -6392,7 +6247,6 @@ E a lista das funções presentes no banco de dados.
 Comentário. A questão pergunta sobre os dados que são armazenados na visão
 pq_setting. Sabemos o que são os dados de run-time, mas quais exatamente? Segue uma
 tabela com os parâmetros, os tipos e a descrição das informações contidas na visão.
-
 
 Nome Tipo Descrição
 name text Nome do parâmetro de configuração
@@ -6434,7 +6288,7 @@ sessão atual
 
 Gabarito: A
 
-Item. 16. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
+16. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
 ADMINISTRATIVO - SUPORTE E INFRAESTRUTURA DE TI
 
 Julgue o item abaixo:
@@ -6495,7 +6349,7 @@ resultados dessas consultas.
 
 Gabarito: E
 
-Item. 17. BANCA: FCC - Analista em Gestão (DPE AM)/Especializado em Tecnologia da
+17. BANCA: FCC - Analista em Gestão (DPE AM)/Especializado em Tecnologia da
 Informação de Defensoria/Analista de Sistema/2018
 
 No PostgreSQL 9.0, para efetuar o backup e a restauração de um banco de dados
@@ -6514,13 +6368,12 @@ Comentário: Para executarmos o backup de um banco de dados PostgreSQL, devemos
 usar o comando pg_dump ou pg_dumpall. Já para restauração podemos fazer uso dos
 comandos psql ou pg_restore. Logo, nossa resposta pode ser encontrada na alternativa D.
 
-
 Se você quiser conhecer alguns exemplo de utilização destes comandos, sugiro que acesse
 este site1.
 
 Gabarito: D
 
-Item. 18. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 13a REGIÃO (PB) PROVA: ANALISTA
+18. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 13a REGIÃO (PB) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Paulo utiliza o pg_dump do PostgreSQL para fazer cópia de segurança de um banco
@@ -6565,7 +6418,6 @@ e - Obs.: Apesar de usar a versão 8.1, a maioria dos exemplos são válidos e
 consistentes com a versão
 mais recente do SGBD.
 
-
 pode ser usado para examinar o arquivo e/ou selecionar as partes do banco de dados
 que
 devem ser restauradas.
@@ -6603,7 +6455,7 @@ confirmado na alternativa B.
 
 Gabarito: B.
 
-Item. 19. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Analista
+19. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Analista
 Judiciário - Tecnologia da Informação
 
 O comando em SQL capaz de serializar dados de uma tabela para um arquivo em
@@ -6637,7 +6489,6 @@ comandos do postgreSQL. Dentre os comandos utilizados para exportar arquivo, exi
 lista, além do COPY, responsável pela manipulação de arquivos LOB (large objects). Vejam
 a lista na figura abaixo:
 
-
 COPY, LARGE OBJECT
 
 \copy ...
@@ -6659,7 +6510,7 @@ large object operations
 
 Gabarito: A.
 
-Item. 20. BANCA: CESPE - Oficial Técnico de Inteligência/Área 9/2018
+20. BANCA: CESPE - Oficial Técnico de Inteligência/Área 9/2018
 
 Julgue o próximo item, a respeito de conceitos e comandos PostgreSQL e MySQL.
 
@@ -6689,7 +6540,7 @@ está incorreta.
 
 Gabarito: E
 
-Item. 21. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+21. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 A instrução SQL em PostgreSQL abaixo está mal formulada.
@@ -6697,7 +6548,6 @@ A instrução SQL em PostgreSQL abaixo está mal formulada.
 CREATE VIEW vista AS SELECT 'Hello World';
 
 Isto aconteceu, porque
-
 
 A a criação de uma visualização requer a utilização da cláusula WHERE para a
 restrição dos dados.
@@ -6755,9 +6605,8 @@ agora temos o tipo text e o nome hello.
 
 Gabarito: E.
 
-Item. 22. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+22. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
-
 
 Considere o trecho em PostgreSQL abaixo.
 
@@ -6787,7 +6636,7 @@ products. Desta forma, podemos marcar nossa resposta na alternativa B.
 
 Gabarito: B.
 
-Item. 23. BANCA: FCC - Analista Judiciário (TRT 23a
+23. BANCA: FCC - Analista Judiciário (TRT 23a
 Região)/Apoio
 Especializado/Tecnologia da lnformação/2016
 
@@ -6810,7 +6659,6 @@ Comentário: A questão trata dos tipos de dados numéricos do PostgreSQL.
 Observem
 abaixo uma tabela que vimos com os tipos numéricos presentes no PostgreSQL:
 
-
 Name Storage Size Range
 smallint 2 bytes -32768 to +32767
 
@@ -6830,7 +6678,6 @@ serial 4 bytes 1 to 2147483647
 
 bigserial 8 bytes 1 to 9223372036854775807
 
-
 Vejam que os tipos decimal e numeric têm o tamanho de armazenamento variável. Já os
 tipos smallserial, serial e bigserial são utilizados para valores auto
 incrementados, cujos
@@ -6839,7 +6686,7 @@ domínios só permitem valores positivos.
 Agora vamos aos erros das alternativas. Na letra A, diz que smallint tem 1 byte, ao
 invés de
 
-Item. 2. Na alternativa B, fala que o bigint é uma alternativa intermediária, quando na
+2. Na alternativa B, fala que o bigint é uma alternativa intermediária, quando na
 realidade
 ele é o valor numérico que possui o maior range. A assertiva C afirma erroneamente
 que
@@ -6854,7 +6701,7 @@ definir colunas identificadoras únicas, semelhante à propriedade auto incremen
 
 Gabarito: E
 
-Item. 24. BANCA: FCC - Técnico Judiciário (TRE PB)/Apoio Especializado/Programação
+24. BANCA: FCC - Técnico Judiciário (TRE PB)/Apoio Especializado/Programação
 de Sistemas/2015
 
 No PostgreSQL, o tipo de dados numérico considerado meramente uma notação
@@ -6877,8 +6724,7 @@ incremento.
 
 Gabarito: A
 
-
-Item. 25. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 1a REGIÃO (RJ) PROVA: TÉCNICO DO
+25. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 1a REGIÃO (RJ) PROVA: TÉCNICO DO
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 No sistema gerenciador de Banco de Dados PostgreSQL (v. 9.1), a forma para se
@@ -6902,7 +6748,7 @@ agora conhecer um pouco sobre os BLOBs ou Binary Large Objects.
 
 Gabarito: D.
 
-Item. 26. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
+26. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
 CONTROLE EXTERNO - TECNOLOGIA DA INFORMAÇÃO
 
 Em PostgreSQL, a função que converte a primeira letra da string informada em letra
@@ -6932,8 +6778,7 @@ alternativa C. Vamos para a próxima questão.
 
 Gabarito: C.
 
-
-Item. 27. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Analista Ministerial PROVA:
+27. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Analista Ministerial PROVA:
 Informática
 
 No banco de dados PostgreSQL, a função COALESCE
@@ -6988,12 +6833,11 @@ SELECT NULLIF(value, '(none)') ...
 Por fim, tempos as funções GREATEST e LEAST, que selecionam o valor maior ou menor
 de uma lista de expressões. Temos a resposta para a questão na alternativa D.
 
-
 Aula Thiago Cavalcanti)
 
 Gabarito: D
 
-Item. 28. BANCA: CESPE - Analista Judiciário (STM)/Apoio Especializado/Análise de
+28. BANCA: CESPE - Analista Judiciário (STM)/Apoio Especializado/Análise de
 Sistemas/2018
 
 Julgue o item subsequente, a respeito do Postgres 9.6.
@@ -7019,7 +6863,7 @@ FOR EACH ROW EXECUTE PROCEDURE process emp audit();
 
 Gabarito: C
 
-Item. 29. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão:
+29. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão:
 71 e 72
 
 Um sistema gerenciador de banco de dados (SGBD) instalado no Linux deve ser
@@ -7044,7 +6888,7 @@ listen_addresses para o IP fornecido; e reiniciar o serviço do SGBD.
 
 Comentário: Vamos comentar cada uma das alternativas acima:
 
-Item. 71. O parâmetro max_connections determina o número máximo de conexões simultâneas
+71. O parâmetro max_connections determina o número máximo de conexões simultâneas
 para o servidor de banco de dados. O padrão geralmente é 100 conexões, mas pode ser
 menor se as configurações do kernel não o suportarem. Este parâmetro só pode ser
 configurado no início do servidor. Ou seja, para alterar esse valor, precisamos
@@ -7056,7 +6900,7 @@ inicialmente tinha dado o gabarito como correto e, em seguida anulou a questão 
 conta
 deste equívoco.)
 
-Item. 72. O arquivo pg_hba.conf indicará ao PostgreSQL como autenticar usuários que fazem
+72. O arquivo pg_hba.conf indicará ao PostgreSQL como autenticar usuários que fazem
 acesso ao banco de dados. Em geral, as entradas do arquivo pg_hba.conf têm o seguinte
 layout:
 
@@ -7091,7 +6935,7 @@ alternativa está incorreta.
 
 Gabarito: E E
 
-Item. 30. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão: 82
+30. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão: 82
 
 Julgue os itens subsequentes, a respeito do Postgres 9.6.
 
@@ -7104,7 +6948,6 @@ LANGUAGE SQL
 IMMUTABLE
 
 RETURNS NULL ON NULL INPUT;
-
 
 Comentário: A questão trata dos parâmetros IMMUTABLE, STABLE, VOLATILE. Esses
 atributos informam ao otimizador de consulta sobre o comportamento da função.
@@ -7140,7 +6983,7 @@ as chamadas sejam otimizadas; um exemplo é setval ().
 
 Gabarito: C
 
-Item. 31. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
+31. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
 Questão: 66 a 70
 
 Julgue os próximos itens, que dizem respeito aos SGBDs Oracle, MySQL e
@@ -7159,9 +7002,8 @@ dados. Logo, a alternativa está errada.
 
 Gabarito: E
 
-Item. 32. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questões:
+32. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questões:
 86 e 88
-
 
 Julgue os itens que se seguem, a respeito do processamento de transações e
 otimização de desempenho do SGBD e de consultas SQL.
@@ -7180,7 +7022,7 @@ reusando espaço em blocos por linhas excluídas.
 
 Comentário: Vamos comentar cada uma das alternativas acima:
 
-Item. 86. Por padrão, o PostgreSQL é executado no modo de isolamento de transação READ
+86. Por padrão, o PostgreSQL é executado no modo de isolamento de transação READ
 COMMITTED. Isso significa que cada declaração dentro de uma transação obterá um novo
 instantâneo dos dados, que será constante ao longo da consulta. Para mudar de nível de
 isolamento, usamos o comando SET TRANSACTION, que possui a seguinte sintaxe.
@@ -7203,7 +7045,7 @@ Logo, a afirmação estaria correta. Contudo, observem que o enunciado apresenta
 SERIAZABLE, quando o correto seria SERIALIZABLE. Sendo assim a banca optou por
 anular a questão!
 
-Item. 88. O PostgreSQL e outros bancos de dados relacionais usam uma técnica chamada Multi-
+88. O PostgreSQL e outros bancos de dados relacionais usam uma técnica chamada Multi-
 Version Concurrency Control (MVCC) para manter o controle das transações. Uma
 penalidade de espaço surge quando usamos o MVCC, ela é conhecida como inchaço. O
 PostgreSQL precisa de ajuda de uma ferramenta externa chamada VACUUM para poder
@@ -7219,7 +7061,6 @@ momentos oportunos.
 Veja que Autovacuum não guarda nenhuma relação de similaridade funcional com o AWR.
 Podemos afirmar, portanto, que a alternativa está incorreta. Sabemos que o AWR significa
 
-
 Automatic Workload Repository, ou seja, é um repositório de informações a respeito da
 carga de trabalho do banco de dados. O framework do AWR coleta, processa e mantém
 estatísticas de desempenho para possibilitar detecção de problemas e é a base para as
@@ -7232,7 +7073,7 @@ período.
 
 Gabarito: Anulada E
 
-Item. 33. BANCA: CESPE - Oficial Técnico de Inteligência/Área 8/2018
+33. BANCA: CESPE - Oficial Técnico de Inteligência/Área 8/2018
 
 A respeito de sistemas gerenciadores de banco de dados, julgue o próximo item.
 
@@ -7273,13 +7114,10 @@ Logo, temos uma alternativa correta.
 
 Gabarito: C
 
-
-Item. 34. BANCA: FCC - Técnico Judiciário (TRT 2a
+34. BANCA: FCC - Técnico Judiciário (TRT 2a
 Especializado/Tecnologia da lnformação/2018
 
-
 Região)/Apoio
-
 
 Considere que um Técnico de TI deseja criar as tabelas abaixo em um banco de dados
 PostgreSQL 8 aberto e em condições ideais.
@@ -7290,7 +7128,6 @@ c odDep varchar(10) prima ry keyt
 local poínt
 
 ) ;
-
 
 CREATE TABLE funcionário (
 
@@ -7340,9 +7177,8 @@ Temos, então, a resposta na letra e).
 
 Gabarito: E
 
-Item. 35. BANCA: CESPE - Analista Judiciário (TRT 7a Região)/Apoio
+35. BANCA: CESPE - Analista Judiciário (TRT 7a Região)/Apoio
 Especializado/Tecnologia da lnformação/2017
-
 
 No sistema gerenciador de banco de dados PostgreSQL, a restrição de acesso pelo
 endereço IP do cliente é feita mediante alteração do arquivo de configuração
@@ -7362,7 +7198,6 @@ usado para conexões que utilizam estes parâmetros. O primeiro registro com os
 seguintes dados: tipo de correspondência de conexão, endereço do cliente, banco de
 dados solicitado e nome de usuário é usado para executar a autenticação. Abaixo
 temos um exemplo do arquivo:
-
 
 # TYPE DATABASE
 
@@ -7386,7 +7221,7 @@ METHOD
 reject
 gss
 
-Item. 36. BANCA: FCC - Técnico de Nível Superior (PGM Teresina)/Analista de
+36. BANCA: FCC - Técnico de Nível Superior (PGM Teresina)/Analista de
 Sistemas/2016
 
 Uma das recomendações na prática do tuning no PostgreSQL como forma de melhorar
@@ -7422,7 +7257,7 @@ Temos o gabarito na letra d).
 
 Gabarito: D
 
-Item. 37. BANCA: FCC - Analista de Sistemas (DPE RR)/2015
+37. BANCA: FCC - Analista de Sistemas (DPE RR)/2015
 
 Um Analista de Sistemas deseja fazer uma cópia de segurança consistente de um
 banco de dados PostgreSQL, mesmo que ele esteja sendo utilizado por outros
@@ -7454,7 +7289,7 @@ arquiteturas; com algumas modificações, até em outros bancos de dados SQL.
 
 Gabarito: A
 
-Item. 38. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
+38. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
 GOVERNAMENTAL - TECNOLOGIA DA INFORMAÇÃO
 
 Acerca de bancos de dados, julgue os itens a seguir.
@@ -7467,7 +7302,6 @@ Comentário. Essa questão é um pouco maldosa, força o candidato a conhecer de
 estrutura de pastas de um cluster de banco de dados do PostgreSQL. Veja a figura
 abaixo
 com uma lista de pastas criadas pela execução do comando initdb.
-
 
 This PC ► Windows (G) ► postgres
 
@@ -7499,7 +7333,6 @@ Filefolder
 
 [j. pg_stat 10/8/2015 5:37
 PM Filefolder
-
 
 . pg_stat_tmp
 
@@ -7560,7 +7393,7 @@ log.
 
 Gabarito: E.
 
-Item. 39. Ano: 2018 Banca: FCC Órgão: DPE-AM Cargo: Analista Área: Banco de
+39. Ano: 2018 Banca: FCC Órgão: DPE-AM Cargo: Analista Área: Banco de
 Sistemas Questão: 46
 
 Considere as instruções SQL a seguir, digitadas no PostgreSQL 9.0, em condições
@@ -7569,7 +7402,6 @@ ideais.
 CREATE TABLE processo (proc_num character(24));
 
 INSERT INTO processo SELECT '0000125-40.' || '1981.403.6100';
-
 
 SELECT proc_num, octet_length(proc_num) FROM processo;
 
@@ -7609,7 +7441,7 @@ na alternativa A.
 
 Gabarito: A
 
-Item. 40. Ano: 2018 Banca: FCC Órgão: TRT-06 Cargo: Analista Judiciário
+40. Ano: 2018 Banca: FCC Órgão: TRT-06 Cargo: Analista Judiciário
 Área:
 Tecnologia da Informação Questão: 34
 
@@ -7630,7 +7462,6 @@ WHERE nome = 'Paulo';
 I
 
 UPDATE salario SET salario = salario + 1000.00
-
 
 WHERE nome = 'Marcos';
 COMMIT;
@@ -7663,7 +7494,7 @@ Desta forma, podemos marcar nossa resposta na alternativa B.
 
 Gabarito: B
 
-Item. 41. Ano: 2017 Banca: FCC Órgão: TRT-11 Cargo: Técnico Judiciário de TI - Q. 46
+41. Ano: 2017 Banca: FCC Órgão: TRT-11 Cargo: Técnico Judiciário de TI - Q. 46
 
 Um comando SQL, cuja sintaxe é válida no PostgreSQL 9.3, está apresentado em:
 
@@ -7713,7 +7544,7 @@ Percebam que foi exatamente isso que a questão apresentou na alternativa E.
 
 Gabarito: E
 
-Item. 42. BANCA: FCC ANO: 2017 ÓRGÃO: TST PROVA: ANALISTA JUDICIÁRIO -
+42. BANCA: FCC ANO: 2017 ÓRGÃO: TST PROVA: ANALISTA JUDICIÁRIO -
 SUPORTE EM TECNOLOGIA DA INFORMAÇÃO
 
 [70] Um Analista de Suporte que utiliza o PostgreSQL possui uma tabela chamada
@@ -7754,14 +7585,13 @@ outras linguagens de programação:
 CASE WHEN condição THEN resultado
 [WHEN ...]
 
-
 [Resultado ELSE]
 END.
 
 Desta forma, podemos marcar nossa resposta na alternativa C.
 Gabarito: C
 
-Item. 43. BANCA: FCC ANO: 2017 ÓRGÃO: DPE-RS PROVA: ANALISTA - BANCO DE
+43. BANCA: FCC ANO: 2017 ÓRGÃO: DPE-RS PROVA: ANALISTA - BANCO DE
 DADOS
 
 [49] No sistema gerenciador de banco de dados PostgreSQL 8 (versão 8.3) há duas
@@ -7801,7 +7631,7 @@ entre TEMPLATE e templateO é opcional.
 
 Gabarito: E
 
-Item. 44. BANCA: FCC ANO: 2017 ÓRGÃO: DPE-RS PROVA: ANALISTA - BANCO DE
+44. BANCA: FCC ANO: 2017 ÓRGÃO: DPE-RS PROVA: ANALISTA - BANCO DE
 DADOS
 
 [53] Alguns sistemas gerenciadores de bancos de dados, como o PostgreSQL versão
@@ -7809,7 +7639,6 @@ DADOS
 8 permitem a definição de parâmetros de armazenamento de tabelas e de índices. Um
 desses parâmetros é o FILLFACTOR, sendo que no caso de
 a) índices B-Tree, seu valor padrão é 50.
-
 
 b) tabelas, pode variar entre os valores 50 e 100.
 
@@ -7835,7 +7664,7 @@ Logo essa
 
 Gabarito: I
 
-Item. 45. BANCA: FCC ANO: 2016 ÓRGÃO: TRT - 14a REGIÃO (RO E AC)
+45. BANCA: FCC ANO: 2016 ÓRGÃO: TRT - 14a REGIÃO (RO E AC)
 
 PROVA: ANALISTA JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
@@ -7871,7 +7700,6 @@ ON {[ TABLE ] table_name [, ...]
 
 | ALL TABLES IN SCHEMA schema_name [, ...]}
 
-
 TO {[ GROUP ] role_name | PUBLIC } [, ...] [ WITH GRANT OPTION ]
 
 GRANT {{ SELECT | INSERT | UPDATE | REFERENCES } ( column_name [, ...] )
@@ -7905,7 +7733,7 @@ Finalmente, podemos definir nossa resposta na alternativa E.
 
 Gabarito: E
 
-Item. 46. BANCA: FCC ANO: 2016 ÓRGÃO: TRT - 23a REGIÃO (MT) PROVA: TÉCNICO
+46. BANCA: FCC ANO: 2016 ÓRGÃO: TRT - 23a REGIÃO (MT) PROVA: TÉCNICO
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 [33] Um Técnico digitou as instruções abaixo.
@@ -7923,7 +7751,6 @@ a) 4872348400
 b) 0048432784000
 
 c) 48432784
-
 
 d) 48723484
 
@@ -7949,7 +7776,7 @@ podemos marcar nossa resposta na alternativa D.
 
 Gabarito: D.
 
-Item. 47. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 5a REGIÃO (BA) PROVA: ANALISTA
+47. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 5a REGIÃO (BA) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 No PostgreSQL, a função utilizada para obter informações sobre arquivos é chamada
@@ -7975,7 +7802,6 @@ servidor. Somente os arquivos dentro do diretório de cluster de banco de
 dados e do
 log_directory podem ser acessados. O uso dessas funções é restrito aos superusuários.
 São quatro as funções:
-
 
 pg_ls_dir retorna todos os nomes do diretório especificado, exceto as entradas especiais
 H II Q II II
@@ -8014,7 +7840,7 @@ nossa resposta.
 
 Gabarito: C.
 
-Item. 48. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+48. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Em PostgreSQL, se uma função de um gatilho (trigger) executar comandos SQL, existe
@@ -8042,7 +7868,7 @@ pessoas ache que é mais fácil usar uma das linguagens procedurais.
 
 Gabarito: A.
 
-Item. 49. BANCA: FCC ANO: 2007 ORGÃO: MPU PROVA: Analista de Informática - Banco
+49. BANCA: FCC ANO: 2007 ORGÃO: MPU PROVA: Analista de Informática - Banco
 de Dados
 
 NÃO é um tipo de junção suportado pelos gerenciadores de banco de dados
@@ -8086,12 +7912,11 @@ junção.
 O CROSS JOIN é basicamente um produto cartesiano entre as duas relações participantes
 da junção.
 
-
 Vejam que confirmamos nossa resposta na alternativa A.
 
 Gabarito: A.
 
-Item. 50. BANCA: FCC ANO: 2013 ORGÃO TRT - 12a Região (SC) PROVA: Técnico
+50. BANCA: FCC ANO: 2013 ORGÃO TRT - 12a Região (SC) PROVA: Técnico
 Judiciário - Tecnologia da Informação
 
 No banco de dados PostgreSQL, após uma operação de CROSS JOIN entre uma
@@ -8124,7 +7949,7 @@ definição está presente na alternativa E.
 
 Gabarito: E.
 
-Item. 51. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Técnico
+51. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Técnico
 Judiciário - Tecnologia da Informação
 
 Em PostgreSQL, uma função permite que o processamento da query seja interrompido
@@ -8140,7 +7965,6 @@ E stop
 Comentário. Observando as alternativas da questão, temos que as letras A, B, C e E
 não
 existem na documentação do PostgreSQL. Resta, portanto, analisarmos a alternativa D.
-
 
 A função pg_sleep aparece dentro das funções utilizadas para gerar atrasos nas execuções
 de um processo no servidor. São basicamente três comandos:
@@ -8163,7 +7987,7 @@ SELECT pg_sleep_until(1tomorrow 03:00');
 
 Gabarito: D.
 
-Item. 52. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Analista
+52. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Analista
 Judiciário - Tecnologia da Informação
 
 Considere o trecho do comando em SQL abaixo.
@@ -8193,11 +8017,10 @@ SERVER serve r_name
 
 Gabarito: E.
 
-Item. 53. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Prova: Analista Ministerial -
+53. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Prova: Analista Ministerial -
 Tecnologia da Informação
 
 No banco de dados PostgreSQL, o comando MOVE é utilizado para reposicionar
-
 
 A uma tabela em um banco de dados.
 B uma linha em uma tabela.
@@ -8258,20 +8081,20 @@ cursor. Você pode retornar um valor refcursor fora da função e deixar outra f
 operar o
 cursor. São três os principais comandos:
 
-Item. 1. FETCH - recupera a próxima linha do cursor no target, que pode ser uma linha, um
+1. FETCH - recupera a próxima linha do cursor no target, que pode ser uma linha, um
 registro, ou uma lista de variáveis simples, separadas por vírgulas, da mesma forma
 que o
 comando SELECT INTO. Se não houver nenhuma linha seguinte, o alvo é definido como
 NULL(s), tal como acontece com SELECT INTO. A variável especial FOUND pode verificar
 se uma linha foi obtida ou não.
 
-Item. 2. MOVE - reposiciona um cursor sem recuperar os dados. O MOVE funciona exatamente
+2. MOVE - reposiciona um cursor sem recuperar os dados. O MOVE funciona exatamente
 como o comando FETCH, exceto que só reposiciona o cursor e não retorna a linha para
 qual mudou o ponteiro. Aqui também é possível usar a variável especial
 FOUND para
 verificar se uma linha será obtida pelo próximo comando MOVE.
 
-Item. 3. CLOSE - fecha o cursor aberto. Pode ser utilizado para libertar recursos antes do
+3. CLOSE - fecha o cursor aberto. Pode ser utilizado para libertar recursos antes do
 final da
 operação, ou para liberar a variável cursor para ser aberta novamente.
 
@@ -8279,7 +8102,7 @@ Vejam que o exposto acima apenas confirma nossa resposta na alternativa D.
 
 Gabarito: D.
 
-Item. 54. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Analista Ministerial PROVA:
+54. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Analista Ministerial PROVA:
 Tecnologia da Informação
 
 No banco de dados PostgreSQL, o comando utilizado para efetivar a transação
@@ -8315,7 +8138,6 @@ READ WRITE | READ ONLY
 O BEGIN tem a mesma função do START TRANSACTION. Ou seja, o BEGIN inicia um
 bloco de transação, todas as declarações após o comando BEGIN serão executadas em
 uma única transação até que um COMMIT ou ROLLBACK explícito. Por padrão (sem o
-
 
 BEGIN), o PostgreSQL executa as transações em modo "autocommit", isto é, cada
 comando é executado em sua própria transação e uma efetivação é implicitamente
@@ -8357,7 +8179,7 @@ provocam o mesmo resultado para o PostgreSQL.
 
 Gabarito: A.
 
-Item. 55. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Técnico Ministerial PROVA:
+55. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Técnico Ministerial PROVA:
 Informática
 
 Em bancos de dados PostgreSQL, o comando DECLARE é utilizado para
@@ -8371,7 +8193,6 @@ número de linhas em uma consulta.
 C criar uma tabela, inicialmente vazia, no banco de dados corrente.
 
 D registrar um novo tipo de dado para uso no banco de dados corrente.
-
 
 E registrar uma nova linguagem procedural a ser utilizada em consultas ao banco de
 dados.
@@ -8387,7 +8208,7 @@ cada uma das operações descritas nas demais alternativas.
 
 Gabarito: B.
 
-Item. 56. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Técnico Ministerial PROVA:
+56. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Técnico Ministerial PROVA:
 Informática
 
 Quando o nível de isolamento de uma transação em SQL no banco de
@@ -8416,7 +8237,7 @@ a transação começar.
 
 Gabarito: D.
 
-Item. 57. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Técnico Ministerial PROVA:
+57. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Técnico Ministerial PROVA:
 Informática
 
 Em PostgreSQL, um conjunto de funções e expressões estão disponíveis para a
@@ -8430,7 +8251,6 @@ B xmlrowcat.
 C xmlgrep.
 D xmlagg.
 E xmlconcr.
-
 
 Comentário. Vejamos as ações feitas por cada uma das funções xml da questão. Antes,
 porém, precisamos eliminar da nossa analise as alternativas que não são funções XML.
@@ -8446,10 +8266,9 @@ Para a lista completa das funções XML, sugiro olhar a documentação oficial a
 
 Gabarito: D.
 
-
 LISTA DE QUESTõES - MULTIBANCAS
 
-Item. 1. DIRENS Aeronáutica - Estágio de Adaptação à Graduação de Sargento
+1. DIRENS Aeronáutica - Estágio de Adaptação à Graduação de Sargento
 (EEAR)/lnformática/2019/EAGS 2020
 
 Em se tratando do utilitário psql, para a criação de um banco de dados no PostgreSQL,
@@ -8481,7 +8300,7 @@ c) 3-2-4-1
 
 d) 4- 1 - 2-3
 
-Item. 2. CEBRASPE (CESPE) - Auxiliar Judiciário (TJ PA)/Programador de
+2. CEBRASPE (CESPE) - Auxiliar Judiciário (TJ PA)/Programador de
 Computador/2020
 
 No sistema de gerenciamento de banco de dados PostgreSQL, para criar uma tabela
@@ -8496,9 +8315,8 @@ djsmallinte real.
 
 e) serial e bigserial.
 
-Item. 3. IBFC - Técnico Judiciário (TRE PA)/Apoio Especializado/Operação de
+3. IBFC - Técnico Judiciário (TRE PA)/Apoio Especializado/Operação de
 Computadores/2020
-
 
 Quanto às principais características do PostgreSQL, analise as afirmativas abaixo e dê
 valores Verdadeiro (V) ou Falso (F).
@@ -8518,7 +8336,7 @@ c) F, V, V
 
 d) F, F,V
 
-Item. 4. NC-UFPR - Profissional Nível Universitário Jr (ITAIPU)/Gestão da lnformação/2019
+4. NC-UFPR - Profissional Nível Universitário Jr (ITAIPU)/Gestão da lnformação/2019
 
 Considere a seguinte instrução SQL:
 WITH RECURSIVE cte(n) AS (
@@ -8544,7 +8362,7 @@ d) 1,2,3,4
 
 e) 1
 
-Item. 5. NC-UFPR - Profissional Nível Universitário Jr (ITAIPU)/Gestão da lnformação/2019
+5. NC-UFPR - Profissional Nível Universitário Jr (ITAIPU)/Gestão da lnformação/2019
 
 Em relação à busca por texto utilizando os operadores LIKE, SIMILAR TO, expressão
 regular, Full Text Search (FTS), funções e operadores relacionados à busca textual no
@@ -8557,7 +8375,6 @@ b) O operador SIMILAR TO realiza busca baseada em expressões regulares,
 realizando o ranqueamento de semelhança entre as palavras do resultado em relação
 às palavras da busca.
 
-
 c) Erros de ortografia podem ser tratados pelo mecanismo de busca FTS, por
 semelhança entre os termos.
 
@@ -8567,7 +8384,7 @@ e) Os tipos tsquery e tsvector, criados respectivamente pelas funções to_tsque
 to_tsvector, são conjuntos de trigrans das strings informadas, que são comparadas em
 ordem alfabética durante a busca.
 
-Item. 6. VUNESP - Técnico de Tecnologia da Informação (UFABC)/2019
+6. VUNESP - Técnico de Tecnologia da Informação (UFABC)/2019
 
 No Sistema Gerenciador de Bancos de Dados PostgreSQL (versão 9), há um comando
 que exibe o plano que o gerenciador irá utilizar para realizar uma determinada
@@ -8604,7 +8421,7 @@ utilizando um cursor criado previamente.
 
 Gabarito: A.
 
-Item. 7. CEBRASPE (CESPE) - Analista de Gestão de Resíduos Sólidos (SLU
+7. CEBRASPE (CESPE) - Analista de Gestão de Resíduos Sólidos (SLU
 DF)/lnformática/2019
 
 No que diz respeito a ferramentas de desenvolvimento, julgue o item a seguir.
@@ -8613,8 +8430,7 @@ O PostgreSQL é um sistema gerenciador de banco de dados objeto-relacional
 (ORDBMS) que oferece suporte a tipos de dados especializados como o JSon e o
 JSonb.
 
-
-Item. 8. VUNESP - Analista de Tecnologia da Informação (Pref Olímpia)/2019
+8. VUNESP - Analista de Tecnologia da Informação (Pref Olímpia)/2019
 
 O sistema gerenciador de bancos de dados PostgreSQL (versão 9.5) possui os
 seguintes modos de desligamento (shutdown):
@@ -8629,7 +8445,7 @@ d) Partial, Permanent e Semi-permanent.
 
 e) Smart, Fast e Immediate.
 
-Item. 9. CEBRASPE (CESPE) - Analista de Tecnologia da Informação (TCE-
+9. CEBRASPE (CESPE) - Analista de Tecnologia da Informação (TCE-
 RO)/Desenvolvimento de Sistemas/2019
 
 Em geral, a sintaxe para a criação de índice em banco de dados relacional segue uma
@@ -8658,15 +8474,14 @@ e) Quando a cláusula WHERE está presente, um índice total é criado, porque
 a
 cláusula já é restritiva na operação de selecionar dados ou de inserir dados.
 
-Item. 10. CEBRASPE (CESPE) - Analista Judiciário (TJ AM)/Analista de Sistemas/2019
+10. CEBRASPE (CESPE) - Analista Judiciário (TJ AM)/Analista de Sistemas/2019
 
 A respeito de bancos de dados relacionais, julgue o item a seguir.
 
 Em um banco de dados PostgreSQL, a manipulação de ROLES é feita exclusivamente
 por comandos CREATE e DROP fornecidos com o banco de dados.
 
-Item. 11. IDECAN - Técnico (IF Baiano)/Tecnologia da Informação 72019
-
+11. IDECAN - Técnico (IF Baiano)/Tecnologia da Informação 72019
 
 Sobre o PostgreSQL, assinale a alternativa correta.
 
@@ -8685,7 +8500,7 @@ corretamente, cria uma tabela de nome mydb.
 e) O comando dropdb mydb remove todos os arquivos associados a um banco de
 dados. No entanto, o PostgreSQL cria um backup antes.
 
-Item. 12. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
+12. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
 ADMINISTRATIVO - SUPORTE E INFRAESTRUTURA DE TI
 
 A respeito de banco de dados, julgue os itens que se seguem.
@@ -8695,7 +8510,7 @@ simultâneo aos dados. Internamente, a consistência dos dados é mantida por me
 MVCC (multiversion concurrency control), que impede que as transações visualizem
 dados inconsistentes.
 
-Item. 13. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
+13. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
 CONTROLE EXTERNO - TECNOLOGIA DA INFORMAÇÃO
 
 Sobre os fundamentos arquiteturais do banco de dados PostgreSQL, considere:
@@ -8721,11 +8536,10 @@ A I, II e III.
 B I e II, apenas.
 C I e III, apenas.
 
-
 D II e III, apenas.
 E III, apenas.
 
-Item. 14. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+14. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Localização refere-se ao fato de uma aplicação respeitar as preferências
@@ -8743,7 +8557,7 @@ C initdb.
 D ccluster.
 E locale init.
 
-Item. 15. BANCA: FCC ANO: 2014 ÓRGÃO: TJ-AP PROVA: ANALISTA JUDICIÁRIO -
+15. BANCA: FCC ANO: 2014 ÓRGÃO: TJ-AP PROVA: ANALISTA JUDICIÁRIO -
 BANCO DE DADOS - DBA
 
 Um dos itens da administração do sistema gerenciador de bancos de dados
@@ -8758,7 +8572,7 @@ D a lista de bloqueios impostos.
 
 E a lista das funções presentes no banco de dados.
 
-Item. 16. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
+16. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
 ADMINISTRATIVO - SUPORTE E INFRAESTRUTURA DE TI
 
 Julgue o item abaixo:
@@ -8767,9 +8581,8 @@ A conexão com o PostgreSQL 9.3 é realizada, por padrão, na porta TCP 5432. Um
 das configurações de segurança permitida é o acesso por meio de SSL que é true, por
 padrão, e é aceito, neste caso, com o uso dos protocolos TCP, IP ou NTP.
 
-Item. 17. BANCA: FCC - Analista em Gestão (DPE AM)/Especializado em Tecnologia da
+17. BANCA: FCC - Analista em Gestão (DPE AM)/Especializado em Tecnologia da
 Informação de Defensoria/Analista de Sistema/2018
-
 
 No PostgreSQL 9.0, para efetuar o backup e a restauração de um banco de dados
 utilizam-se, respectivamente, os comandos
@@ -8783,7 +8596,7 @@ d) pg_dump e psql.
 
 e) sql_backup e sql_restore.
 
-Item. 18. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 13a REGIÃO (PB) PROVA: ANALISTA
+18. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 13a REGIÃO (PB) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Paulo utiliza o pg_dump do PostgreSQL para fazer cópia de segurança de um banco
@@ -8804,7 +8617,7 @@ C pg_dump -tar -a trt13 > tribunal.tar
 D pg_dump -tar -c trt13 > tribunal.tar
 E pg_dump -Fp -b trt13 > tribunal.tar
 
-Item. 19. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Analista
+19. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Analista
 Judiciário - Tecnologia da Informação
 
 O comando em SQL capaz de serializar dados de uma tabela para um arquivo em
@@ -8821,8 +8634,7 @@ uma tabela de um banco de dados, é o comando:
 
 (e) EXPORT.
 
-
-Item. 20. BANCA: CESPE - Oficial Técnico de Inteligência/Área 9/2018
+20. BANCA: CESPE - Oficial Técnico de Inteligência/Área 9/2018
 
 Julgue o próximo item, a respeito de conceitos e comandos PostgreSQL e MySQL.
 
@@ -8832,7 +8644,7 @@ comandos SQL na sessão atual.
 Certo
 Errado
 
-Item. 21. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+21. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 A instrução SQL em PostgreSQL abaixo está mal formulada.
@@ -8855,7 +8667,7 @@ correspondente ao nome da coluna.
 E por padrão, o tipo de dado será considerado indefinido (unknown) e a coluna irá
 utilizar o nome padrão ?column?.
 
-Item. 22. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+22. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Considere o trecho em PostgreSQL abaixo.
@@ -8877,8 +8689,7 @@ cláusula SELECT.
 E em erro, pois múltiplas inserções são possíveis somente com a utilização de
 colchetes para a limitação dos registros.
 
-
-Item. 23. BANCA: FCC - Analista Judiciário (TRT 23a Região)/Apoio
+23. BANCA: FCC - Analista Judiciário (TRT 23a Região)/Apoio
 Especializado/Tecnologia da lnformação/2016
 
 São vários os tipos de dados numéricos no PostgreSQL. O tipo
@@ -8897,7 +8708,7 @@ d) numeric pode armazenar números com precisão variável de, no máximo, 100 d
 e) serial é um tipo conveniente para definir colunas identificadoras únicas, semelhante
 à propriedade auto incremento.
 
-Item. 24. BANCA: FCC - Técnico Judiciário (TRE PB)/Apoio Especializado/Programação
+24. BANCA: FCC - Técnico Judiciário (TRE PB)/Apoio Especializado/Programação
 de Sistemas/2015
 
 No PostgreSQL, o tipo de dados numérico considerado meramente uma notação
@@ -8913,7 +8724,7 @@ d) bit.
 
 e) blob.
 
-Item. 25. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 1a REGIÃO (RJ) PROVA: TÉCNICO DO
+25. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 1a REGIÃO (RJ) PROVA: TÉCNICO DO
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 No sistema gerenciador de Banco de Dados PostgreSQL (v. 9.1), a forma para se
@@ -8930,8 +8741,7 @@ D . . . teste [][]...
 
 E . . . teste [ ] x [ ]. . .
 
-
-Item. 26. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
+26. BANCA: FCC ANO: 2012 ÓRGÃO: TCE-AM PROVA: ANALISTA TÉCNICO DE
 CONTROLE EXTERNO - TECNOLOGIA DA INFORMAÇÃO
 
 Em PostgreSQL, a função que converte a primeira letra da string informada em letra
@@ -8945,7 +8755,7 @@ D upper.
 
 E toupper.
 
-Item. 27. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Analista Ministerial PROVA:
+27. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Analista Ministerial PROVA:
 Informática
 
 No banco de dados PostgreSQL, a função COALESCE
@@ -8959,7 +8769,6 @@ interpretar o padrão utilizando a definição de expressão regular do padrão 
 B é uma expressão condicional genérica, semelhante às declarações if/else de outras
 linguagens.
 
-
 C é uma declaração SELECT arbitrária, ou uma subconsulta. A subconsulta é
 processada para determinar se retorna alguma linha.
 
@@ -8969,7 +8778,7 @@ todos os seus argumentos são nulos.
 E permite a conversão do carimbo do tempo {time stamp) para uma zona horária
 diferente.
 
-Item. 28. BANCA: CESPE - Analista Judiciário (STM)/Apoio Especializado/Análise de
+28. BANCA: CESPE - Analista Judiciário (STM)/Apoio Especializado/Análise de
 Sistemas/2018
 
 Julgue o item subsequente, a respeito do Postgres 9.6.
@@ -8980,9 +8789,8 @@ está sendo executada, por exemplo, DELETE, UPDATE, INSERT ou TRUNCATE.
 Certo
 Errado
 
-Item. 29. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão:
+29. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão:
 71 e 72
-
 
 Um sistema gerenciador de banco de dados (SGBD) instalado no Linux deve ser
 configurado de modo a permitir os seguintes requisitos:
@@ -9004,7 +8812,7 @@ se modificar o arquivo pg_hba.conf para o referido cluster; alterar o
 parâmetro
 listen_addresses para o IP fornecido; e reiniciar o serviço do SGBD.
 
-Item. 30. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão: 82
+30. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão: 82
 
 Julgue os itens subsequentes, a respeito do Postgres 9.6.
 
@@ -9018,7 +8826,7 @@ IMMUTABLE
 
 RETURNS NULL ON NULL INPUT;
 
-Item. 31. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
+31. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
 Questão: 66 a 70
 
 Julgue os próximos itens, que dizem respeito aos SGBDs Oracle, MySQL
@@ -9028,7 +8836,7 @@ PostgreSQL.
 69 Uma desvantagem do PostgreSQL em relação aos demais SGBDs é que ele não
 oferece recursos necessários para se realizar a replicação de dados.
 
-Item. 32. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questões:
+32. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questões:
 86 e 88
 
 Julgue os itens que se seguem, a respeito do processamento de transações e
@@ -9037,7 +8845,6 @@ otimização de desempenho do SGBD e de consultas SQL.
 86 O controle de nível de isolamento de transações é importante para gerenciar a forma
 como as transações concorrentes se comportarão no SGBD. No Postgres 9.6, o nível
 de isolamento padrão é READ COMMITTED, mas pode ser alterado para
-
 
 SERIAZABLE por meio do comando SET TRANSACTION ISOLATION LEVEL
 SERIAZABLE.
@@ -9048,7 +8855,7 @@ estatísticas de desempenho para detecção de problemas e manutenção automát
 banco de dados, por exemplo, reusando, ajustando e excluindo dados temporários e
 reusando espaço em blocos por linhas excluídas.
 
-Item. 33. BANCA: CESPE - Oficial Técnico de Inteligência/Área 8/2018
+33. BANCA: CESPE - Oficial Técnico de Inteligência/Área 8/2018
 
 A respeito de sistemas gerenciadores de banco de dados, julgue o próximo item.
 
@@ -9058,7 +8865,7 @@ partir da linha superior, para a linha inferior.
 Certo
 Errado
 
-Item. 34. BANCA: FCC - Técnico Judiciário (TRT 2a Região)/Apoio
+34. BANCA: FCC - Técnico Judiciário (TRT 2a Região)/Apoio
 Especializado/Tecnologia da lnformação/2018
 
 Considere que um Técnico de TI deseja criar as tabelas abaixo em um banco de dados
@@ -9070,7 +8877,6 @@ c odDep varchar (10) p r ima ry k ey t
 local point
 
 ) ;
-
 
 CREATE TABLE funcionário (
 
@@ -9094,8 +8900,7 @@ d) constraint departamento(codDep)
 
 e) references departamento(codDep)
 
-
-Item. 35. BANCA: CESPE - Analista Judiciário (TRT 7a Região)/Apoio
+35. BANCA: CESPE - Analista Judiciário (TRT 7a Região)/Apoio
 Especializado/Tecnologia da lnformação/2017
 
 No sistema gerenciador de banco de dados PostgreSQL, a restrição de acesso pelo
@@ -9108,7 +8913,7 @@ c) postmaster.opts.
 
 d) pg_ctl.
 
-Item. 36. BANCA: FCC - Técnico de Nível Superior (PGM Teresina)/Analista de
+36. BANCA: FCC - Técnico de Nível Superior (PGM Teresina)/Analista de
 Sistemas/2016
 
 Uma das recomendações na prática do tuning no PostgreSQL como forma de melhorar
@@ -9128,7 +8933,7 @@ cláusulas ORDER BY, GROUP BY.
 e) índices em todos os campos que compõem um statement SELECT DISTINCT e/ou
 cláusula CONSTRAINT.
 
-Item. 37. BANCA: FCC - Analista de Sistemas (DPE RR)/2015
+37. BANCA: FCC - Analista de Sistemas (DPE RR)/2015
 
 Um Analista de Sistemas deseja fazer uma cópia de segurança consistente de um
 banco de dados PostgreSQL, mesmo que ele esteja sendo utilizado por outros
@@ -9145,8 +8950,7 @@ d) gunzip.
 
 e) sql_backup.
 
-
-Item. 38. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
+38. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
 GOVERNAMENTAL - TECNOLOGIA DA INFORMAÇÃO
 
 Acerca de bancos de dados, julgue os itens a seguir.
@@ -9155,7 +8959,7 @@ No PostgreSQL 9.3, os arquivos de WAL (write-ahead logging), que armazenam as
 transações do SGBD na forma de segmentos de log, são gravados por padrão no
 diretório pg_wal abaixo do diretório data.
 
-Item. 39. Ano: 2018 Banca: FCC Órgão: DPE-AM Cargo: Analista Área: Banco de
+39. Ano: 2018 Banca: FCC Órgão: DPE-AM Cargo: Analista Área: Banco de
 Sistemas Questão: 46
 
 Considere as instruções SQL a seguir, digitadas no PostgreSQL 9.0, em condições
@@ -9180,7 +8984,7 @@ Será exibido na tela
 
 (E) uma mensagem de buffer overflow.
 
-Item. 40. Ano: 2018 Banca: FCC Órgão: TRT-06 Cargo: Analista Judiciário Área:
+40. Ano: 2018 Banca: FCC Órgão: TRT-06 Cargo: Analista Judiciário Área:
 Tecnologia da Informação Questão: 34
 
 Em um banco de dados PostgreSQL aberto e em condições ideais, um Analista
@@ -9202,7 +9006,6 @@ I
 UPDATE salario SET salario = salario + 1000.00
 WHERE nome = 'Marcos';
 
-
 COMMIT;
 
 Na segunda instrução UPDATE, o Analista aumentou o salário do funcionário Paulo
@@ -9219,7 +9022,7 @@ Para cancelar a operação realizada, a lacuna I deve ser preenchida pela instru
 
 (E) CANCEL UPDATE;
 
-Item. 41. Ano: 2017 Banca: FCC Órgão: TRT-11 Cargo: Técnico Judiciário de TI - Q. 46
+41. Ano: 2017 Banca: FCC Órgão: TRT-11 Cargo: Técnico Judiciário de TI - Q. 46
 
 Um comando SQL, cuja sintaxe é válida no PostgreSQL 9.3, está apresentado em:
 
@@ -9234,7 +9037,7 @@ nome2;
 
 (E) INSERT INTO tabTRT DEFAULT VALUES;
 
-Item. 42. BANCA: FCC ANO: 2017 ÓRGÃO: TST PROVA: ANALISTA JUDICIÁRIO -
+42. BANCA: FCC ANO: 2017 ÓRGÃO: TST PROVA: ANALISTA JUDICIÁRIO -
 SUPORTE EM TECNOLOGIA DA INFORMAÇÃO
 
 [70] Um Analista de Suporte que utiliza o PostgreSQL possui uma tabela chamada
@@ -9252,7 +9055,7 @@ d) IFNULL(salary; '0') FROM employee;
 
 e) NVL(salary; 0) FROM employee;
 
-Item. 43. BANCA: FCC ANO: 2017 ÓRGÃO: DPE-RS PROVA: ANALISTA - BANCO DE
+43. BANCA: FCC ANO: 2017 ÓRGÃO: DPE-RS PROVA: ANALISTA - BANCO DE
 DADOS
 
 [49] No sistema gerenciador de banco de dados PostgreSQL 8 (versão 8.3) há duas
@@ -9270,7 +9073,7 @@ d) HAVING templateO
 
 e) teste TEMPLATE templateO
 
-Item. 44. BANCA: FCC ANO: 2017 ÓRGÃO: DPE-RS PROVA: ANALISTA - BANCO DE
+44. BANCA: FCC ANO: 2017 ÓRGÃO: DPE-RS PROVA: ANALISTA - BANCO DE
 DADOS
 
 [53] Alguns sistemas gerenciadores de bancos de dados, como o PostgreSQL versão
@@ -9286,7 +9089,7 @@ d) tabelas muito atualizadas seu valor mais indicado é 100.
 
 e) tabelas, seu valor padrão é 70.
 
-Item. 45. BANCA: FCC ANO: 2016 ÓRGÃO: TRT - 14a REGIÃO (RO E AC)
+45. BANCA: FCC ANO: 2016 ÓRGÃO: TRT - 14a REGIÃO (RO E AC)
 
 PROVA: ANALISTA JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
@@ -9302,7 +9105,7 @@ d) GRANT INSERT ON Clientes TO ALL GROUP;
 
 e) GRANT INSERT ON Clientes TO PUBLIC;
 
-Item. 46. BANCA: FCC ANO: 2016 ÓRGÃO: TRT - 23a REGIÃO (MT) PROVA: TÉCNICO
+46. BANCA: FCC ANO: 2016 ÓRGÃO: TRT - 23a REGIÃO (MT) PROVA: TÉCNICO
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 [33] Um Técnico digitou as instruções abaixo.
@@ -9311,7 +9114,6 @@ No PostgreSQL:
 SELECT TRIM (0 FROM 0004872348400) AS "Exemplo";
 
 No Oracle:
-
 
 SELECT TRIM (0 FROM 0004872348400) "Exemplo" FROM sys.dual;
 
@@ -9326,7 +9128,7 @@ d) 48723484
 
 e) 00048723484
 
-Item. 47. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 5a REGIÃO (BA) PROVA: ANALISTA
+47. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 5a REGIÃO (BA) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 No PostgreSQL, a função utilizada para obter informações sobre arquivos é chamada
@@ -9338,7 +9140,7 @@ D pg_read_file
 
 E pg_file_access.
 
-Item. 48. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
+48. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 12a REGIÃO (SC) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Em PostgreSQL, se uma função de um gatilho (trigger) executar comandos SQL, existe
@@ -9352,7 +9154,7 @@ C sub-triggers.
 D indented triggers.
 E multi-trigger.
 
-Item. 49. BANCA: FCC ANO: 2007 ORGÃO: MPU PROVA: Analista de Informática - Banco
+49. BANCA: FCC ANO: 2007 ORGÃO: MPU PROVA: Analista de Informática - Banco
 de Dados
 
 NÃO é um tipo de junção suportado pelos gerenciadores de banco de dados
@@ -9362,11 +9164,10 @@ A INNER OUTER JOIN ON.
 B LEFT OUTER JOIN ON.
 C RIGHT OUTER JOIN ON.
 
-
 D NATURAL JOIN.
 ECROSS JOIN.
 
-Item. 50. BANCA: FCC ANO: 2013 ORGÃO TRT - 12a Região (SC) PROVA: Técnico
+50. BANCA: FCC ANO: 2013 ORGÃO TRT - 12a Região (SC) PROVA: Técnico
 Judiciário - Tecnologia da Informação
 
 No banco de dados PostgreSQL, após uma operação de CROSS JOIN entre uma
@@ -9386,7 +9187,7 @@ E todas as colunas da tabela 1, seguidas por todas as colunas da tabela 2. Caso 
 tabelas possuam NeM linhas, respectivamente, a tabela resultante irá conter o produto
 de N e M (N x M) linhas.
 
-Item. 51. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Técnico
+51. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Técnico
 Judiciário - Tecnologia da Informação
 
 Em PostgreSQL, uma função permite que o processamento da query seja interrompido
@@ -9399,7 +9200,7 @@ C wait
 D pg_sleep
 E stop
 
-Item. 52. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Analista
+52. BANCA: FCC ANO: 2013 ORGÃO: TRT - 12a Região (SC) PROVA: Analista
 Judiciário - Tecnologia da Informação
 
 Considere o trecho do comando em SQL abaixo.
@@ -9412,12 +9213,11 @@ B uma tabela remota.
 
 C um banco de dados do tipo cluster.
 
-
 D uma visualização ( VIEW ).
 
 E um servidor estrangeiro ( foreign server).
 
-Item. 53. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Prova: Analista Ministerial -
+53. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Prova: Analista Ministerial -
 Tecnologia da Informação
 
 No banco de dados PostgreSQL, o comando MOVE é utilizado para reposicionar
@@ -9428,7 +9228,7 @@ C uma coluna em uma linha.
 D o cursor sem trazer dados.
 E uma view em uma tabela
 
-Item. 54. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Analista Ministerial PROVA:
+54. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Analista Ministerial PROVA:
 Tecnologia da Informação
 
 No banco de dados PostgreSQL, o comando utilizado para efetivar a transação
@@ -9441,7 +9241,7 @@ C TRANSFER.
 D EFFECTIVE.
 E SELECT.
 
-Item. 55. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Técnico Ministerial PROVA:
+55. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Técnico Ministerial PROVA:
 Informática
 
 Em bancos de dados PostgreSQL, o comando DECLARE é utilizado para
@@ -9459,8 +9259,7 @@ D registrar um novo tipo de dado para uso no banco de dados corrente.
 E registrar uma nova linguagem procedural a ser utilizada em consultas ao banco de
 dados.
 
-
-Item. 56. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Técnico Ministerial PROVA:
+56. BANCA: FCC ANO: 2012 ORGÃO: MPE-AP - Técnico Ministerial PROVA:
 Informática
 
 Quando o nível de isolamento de uma transação em SQL no banco de
@@ -9481,7 +9280,7 @@ D antes de a transação começar.
 E durante a transação, desde que as transações concorrentes não tenham
 feito COMMIT.
 
-Item. 57. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Técnico Ministerial PROVA:
+57. BANCA: FCC ANO: 2012 ORGÃO: MPE-PE - Técnico Ministerial PROVA:
 Informática
 
 Em PostgreSQL, um conjunto de funções e expressões estão disponíveis para a
@@ -9496,66 +9295,63 @@ C xmlgrep.
 D xmlagg.
 E xmlconcr.
 
-
 GABARITo
 
+1. c 2. E
 
-Item. 1. c 2. E
+5. C 6. A
 
-Item. 5. C 6. A
+9. D 10. E
 
-Item. 9. D 10. E
+13. A 14. C
 
-Item. 13. A 14. C
+17. D 18. B
 
-Item. 17. D 18. B
+21. E 22. B
 
-Item. 21. E 22. B
+25. D 26. C
 
-Item. 25. D 26. C
+29. E E 30. C
 
-Item. 29. E E 30. C
+33. C 34. E
 
-Item. 33. C 34. E
+37. A 38. E
 
-Item. 37. A 38. E
+41. E 42. C
 
-Item. 41. E 42. C
+45. E 46. D
 
-Item. 45. E 46. D
+49. A 50. E
 
-Item. 49. A 50. E
+53. D 54. A
 
-Item. 53. D 54. A
+57. D
 
-Item. 57. D
+3. A 4. C
 
-Item. 3. A 4. C
+7. C 8. E
 
-Item. 7. C 8. E
+11. B 12. C
 
-Item. 11. B 12. C
+15. A 16. E
 
-Item. 15. A 16. E
+19. A 20. E
 
-Item. 19. A 20. E
+23. E 24. A
 
-Item. 23. E 24. A
+27. D 28. C
 
-Item. 27. D 28. C
+31. E 32. E
 
-Item. 31. E 32. E
+35. B 36. D
 
-Item. 35. B 36. D
+39. A 40. B
 
-Item. 39. A 40. B
+43. E 44. B
 
-Item. 43. E 44. B
+47. C 48. A
 
-Item. 47. C 48. A
+51. D 52. E
 
-Item. 51. D 52. E
-
-Item. 55. B 56. D
-
+55. B 56. D
 

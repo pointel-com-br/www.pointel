@@ -1,20 +1,18 @@
-Capítulo. Arquitetura de Software - SOLID.
-
+# Arquitetura de Software - SOLID.
 
 O SOLID é um acrônimo que representa cinco princípios da programação orientada a objetos e design de software. Esses princípios, formulados por Robert C. Martin, são diretrizes para criar sistemas de software flexíveis, extensíveis e de fácil manutenção. Aqui estão os cinco princípios SOLID:
 
-Item. 1. Princípio da Responsabilidade Única (Single Responsibility Principle - SRP): Uma classe deve ter uma única responsabilidade e motivo para mudar. Isso significa que uma classe deve ter apenas uma única funcionalidade ou responsabilidade, evitando que ela se torne muito grande ou complexa. Isso facilita a manutenção, reutilização e testabilidade do código.
+1. Princípio da Responsabilidade Única (Single Responsibility Principle - SRP): Uma classe deve ter uma única responsabilidade e motivo para mudar. Isso significa que uma classe deve ter apenas uma única funcionalidade ou responsabilidade, evitando que ela se torne muito grande ou complexa. Isso facilita a manutenção, reutilização e testabilidade do código.
 
-Item. 2. Princípio Aberto/Fechado (Open/Closed Principle - OCP): As entidades de software (classes, módulos, etc.) devem estar abertas para extensão, mas fechadas para modificação. Isso significa que o código existente não deve ser modificado quando novos recursos ou comportamentos precisarem ser adicionados. Em vez disso, deve ser possível estender o código existente por meio de herança, implementação de interfaces ou outros mecanismos.
+2. Princípio Aberto/Fechado (Open/Closed Principle - OCP): As entidades de software (classes, módulos, etc.) devem estar abertas para extensão, mas fechadas para modificação. Isso significa que o código existente não deve ser modificado quando novos recursos ou comportamentos precisarem ser adicionados. Em vez disso, deve ser possível estender o código existente por meio de herança, implementação de interfaces ou outros mecanismos.
 
-Item. 3. Princípio da Substituição de Liskov (Liskov Substitution Principle - LSP): As subclasses devem ser substituíveis por suas classes base sem afetar a integridade do sistema. Isso significa que uma classe derivada deve ser capaz de ser usada em qualquer lugar onde sua classe base é esperada, sem causar problemas de comportamento ou violar as precondições e pós-condições.
+3. Princípio da Substituição de Liskov (Liskov Substitution Principle - LSP): As subclasses devem ser substituíveis por suas classes base sem afetar a integridade do sistema. Isso significa que uma classe derivada deve ser capaz de ser usada em qualquer lugar onde sua classe base é esperada, sem causar problemas de comportamento ou violar as precondições e pós-condições.
 
-Item. 4. Princípio da Segregação de Interface (Interface Segregation Principle - ISP): Os clientes não devem ser forçados a depender de interfaces que não utilizam. Esse princípio sugere que as interfaces devem ser coesas e específicas para os clientes que as utilizam. Evite interfaces "gordas" que forçam os clientes a implementar métodos que não precisam.
+4. Princípio da Segregação de Interface (Interface Segregation Principle - ISP): Os clientes não devem ser forçados a depender de interfaces que não utilizam. Esse princípio sugere que as interfaces devem ser coesas e específicas para os clientes que as utilizam. Evite interfaces "gordas" que forçam os clientes a implementar métodos que não precisam.
 
-Item. 5. Princípio da Inversão de Dependência (Dependency Inversion Principle - DIP): Dependa de abstrações, não de implementações concretas. Esse princípio incentiva a dependência em interfaces ou classes abstratas em vez de depender de classes concretas. Isso promove a flexibilidade, o desacoplamento e a reutilização de código.
+5. Princípio da Inversão de Dependência (Dependency Inversion Principle - DIP): Dependa de abstrações, não de implementações concretas. Esse princípio incentiva a dependência em interfaces ou classes abstratas em vez de depender de classes concretas. Isso promove a flexibilidade, o desacoplamento e a reutilização de código.
 
 Esses princípios SOLID são diretrizes importantes para criar um código modular, flexível e de fácil manutenção. Eles promovem a coesão, o baixo acoplamento e a extensibilidade em sistemas de software orientados a objetos. Ao seguir esses princípios, você pode melhorar a qualidade do software, facilitar a evolução do sistema e tornar o código mais resiliente a mudanças.
-
 
 Escrever um código que satisfaça os requisitos atuais, e que também possa satisfazer requisitos futuros facilmente, deve ser o objetivo de qualquer desenvolvedor - evoluir com o tempo é o único fator que pode manter o código-fonte. Princípios SOLID são cinco princípios de design de código orientado a objeto para tornar o código mais entendível, claro, flexível, conciso e tolerante a mudanças; e para aumentar a adesão do código aos princípios da orientação a objetos.
 SOLID é um acrônimo para cada um dos cinco princípios que fazem parte desse grupo:
@@ -33,16 +31,15 @@ Esses cinco princípios de desenvolvimento de software são diretrizes a serem s
 
 Índice
 
-Item. 1 Responsabilidade Única
+1 Responsabilidade Única
 
-Item. 2 Aberto-Fechado
+2 Aberto-Fechado
 
-Item. 3 Substituição de Liskov
+3 Substituição de Liskov
 
-Item. 4 Segregação de Interface
+4 Segregação de Interface
 
-Item. 5 Inversão de Dependência
-
+5 Inversão de Dependência
 
 Responsabilidade Única
 
@@ -91,7 +88,6 @@ Para finalizar, vamos falar um pouquinho sobre coesão e acoplamento. A implemen
 Dito de outra forma, deve existir um único motivo para modificar uma classe. Ok? Bem, a coesão tem algumas vantagens: facilita a implementação de uma classe, bem como o seu entendimento e manutenção; facilita a alocação de um único responsável por manter uma classe; e facilita o reuso e teste de uma classe, pois é mais simples reusar e testar uma classe coesa do que uma classe com várias responsabilidades.
 
 Já o acoplamento é a força da conexão entre duas classes. Trata-se da medida em que as partes de um programa estão interconectadas entre si. Pode-se dizer que se refere à quantidade de dependência entre os elementos de um programa. Quanto menor o acoplamento, melhor será a reutilização de código e a manutenção do programa. Na tabela seguinte, veremos um conjunto de propriedades de projeto relacionadas a cada um dos princípios:
-
 
 PRINCÍPIO SOLID
 
@@ -152,5 +148,4 @@ Dependa de abstrações e, não, de implementações.
 PROPRIEDADES
 
 Acoplamento
-
 

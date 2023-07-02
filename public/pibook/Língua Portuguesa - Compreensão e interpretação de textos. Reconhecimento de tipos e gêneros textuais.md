@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Compreensão e interpretação de textos. Reconhecimento de tipos e gêneros textuais.
-
+# Língua Portuguesa - Compreensão e interpretação de textos. Reconhecimento de tipos e gêneros textuais.
 
 Índice
 
@@ -7,18 +6,13 @@ Capítulo. Língua Portuguesa - Compreensão e interpretação de textos. Reconh
 
 2) Tipo x Gênero
 
-
 3) Narração
-
 
 4) Descrição
 
-
 5) Injunção
 
-
 6) Dissertação
-
 
 7) Funções da Linguagem
 
@@ -42,7 +36,6 @@ Capítulo. Língua Portuguesa - Compreensão e interpretação de textos. Reconh
 
 17) Intertextualidade
 
-
 18) Interpretação e Compreensão
 
 19) Julgamento de Assertivas.
@@ -52,7 +45,6 @@ Capítulo. Língua Portuguesa - Compreensão e interpretação de textos. Reconh
 21) Lista de Questões - Compreensão e Interpretação - Cebraspe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CoNSIDERAçõES INICIAIS
 
@@ -92,7 +84,6 @@ Time de Português
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 TIPo X GÊNERo
 
 Gênero textual é um conjunto de características comuns de um texto.
@@ -106,7 +97,6 @@ ocorrência, diário, piada, ata, notícia de jornal, conto, crônica. O
 gêneros como a receita culinária, o manual de instruções, o tutorial.
 
 Vamos esquematizar:
-
 
 Narração
 
@@ -172,9 +162,7 @@ porque a tinham guardado no Verão. Distribuíam-na diariamente entre si
 e não
 tinham fome como ela. A Cigarra compreendeu que tinha feito ma/...
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Mora! da história: Não penses só em divertir-te. Trabalha e pensa no futuro.
 
@@ -193,7 +181,6 @@ alguns autores, especialmente
 clássicos, em que se verifica registro formal e erudito da língua.
 
 Antes de detalhar cada um dos tipos, vamos relembrar a diferença entre Tipo e Gênero:
-
 
 Tipo Textual
 (Modo de Organização)
@@ -222,7 +209,6 @@ A) Os gêneros textuais são formas de comunicação a serviço das tipologias t
 B) As tipologias textuais podem ser classificadas em primárias e secundárias.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 C) As tipologias textuais são ferramentas essenciais a serviço dos gêneros textuais.
 
@@ -267,9 +253,7 @@ Assim, ao olhar para as alternativas, temos que "injunção" é um tipo
 textual (modo de organização
 do texto). Portanto, Gabarito letra C.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NARRAçÃo
 
@@ -337,7 +321,6 @@ queimara.
 Desligou o fogo e gritou um palavrão bem alto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Observe as marcas temporais: os verbos estão conjugados no pretérito
 perfeito, indicando ações
@@ -416,9 +399,7 @@ Pode ser um narrador observador, que narra a história em terceira pessoa,
 como se a assistisse
 de fora, traz o relato de uma testemunha.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "...Ele andava calmamente, a rua estava escura dificultando sua
 caminhada, mas
@@ -481,9 +462,7 @@ e meia.
 - Sempre é tarde para os amigos, replicou Sofia, em ar de censura."
 (Machado de Assis, Quincas Borba, cap. XXXIV)
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Discurso indireto
 
@@ -542,9 +521,7 @@ NOTA!
 
 Por ser o discurso mais difícil de ser percebido, vamos sintetizar suas principais características:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ✓ As falas das personagens (feitas na 1a pessoa) surgem espontaneamente dentro discurso
 do narrado (na 3a pessoa);
@@ -569,12 +546,9 @@ Todas essas mudanças são lógicas e decorrentes da própria passagem de
 uma fala literal para
 uma fala recontada. Então, vamos sistematizar essas regras gerais.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Alteração na pontuação:
-
 
 Frases interrogativas, exclamativas e
 imperativas ( 11" ! ? -)
@@ -585,14 +559,12 @@ Conversão dos tempos verbais:
 
 *
 
-
 Futuro do presente do indicativo
 
 Futuro do pretérito do indicativo
 z
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Pretérito imperfeito do subjuntivo
 
@@ -639,7 +611,6 @@ HORA IX
 j(CR£F-20'Região''/ 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :"A prática demonstra isso: um quadro de emoçoes negativas conduz à
 depressão e a outroá
@@ -725,9 +696,7 @@ negativos o acontecimento de perder o início do evento. Então, tais
 expressões revelam um viés
 "afetivo" e "subjetivo".
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O advérbio "ainda" indica que há na fala expectativa ou convicção
 de que ele já deveria ter
@@ -821,9 +790,7 @@ alimentar e fazer a própria :
 
 : higiene pessoal. É um projeto de dominação diabólico que visa domesticar os homens para:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 : sempre, desde pequenos.
 
@@ -933,9 +900,7 @@ meu apartamento. Recebi,:
 
 : depois, a sua própria visita pessoal — devia ser meia-noite — e a sua veemente reclamação \
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 verbal. Devo dizer que estou desolado com tudo isso, e lhe dou inteira
 razão. O regulamento do:
@@ -946,14 +911,14 @@ impossível repousar no 903:
 quando há vozes, passos e músicas no 1.003, ou melhor, é impossível ao
 903 dormir quando o:
 
-Item. 1.003 se agita, pois, como não sei o seu nome nem o
+1.003 se agita, pois, como não sei o seu nome nem o
 senhor sabe o meu, ficamos:
 reduzidos a ser dois números empilhados entre dezenas de outros. Eu, 1.003,
 me limito a Leste :
 pelo 1.005, a Oeste pelo 1.001, ao Sul pelo Oceano Atlântico, ao Norte
 pelo 1.004, ao alto pelo:
 
-Item. 1.103 e embaixo pelo 903 — que é o senhor.
+1.103 e embaixo pelo 903 — que é o senhor.
 
 Todos esses números são comportados e silenciosos: apenas eu e
 o Oceano Atlântico:
@@ -992,14 +957,11 @@ Comentários:
 
 É isso mesmo! A crônica narra fatos do dia a dia, acontecimentos cotidianos e atuais, de uma :
 
-
 maneira diferente, com intenção crítica ou não. Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 !
-
 
 DESCRIçÃo
 
@@ -1073,7 +1035,6 @@ movimento na praia."
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 O texto começa pela descrição da ilha de Heron. Um texto
 descritivo é
 caracterizado fundamentalmente por:
@@ -1136,9 +1097,7 @@ itempo.
 
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 INJUNÇÂO
 
@@ -1206,9 +1165,7 @@ i Modo de fazer
 
 Aplique a so/ução e deixe repousar de 5 a 10 minutos. A mancha ficará marrom: não se preocupe,
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 é normal. Use uma escova de dentes para esfregar e enxágue.
 
@@ -1223,9 +1180,7 @@ O texto claramente é injuntivo / instrucional: é um passo a passo de como tira
 manchas difíceis.
 Gabarito: Letra C.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 DISSERTAçÃo
 
@@ -1290,9 +1245,7 @@ acabou sendo prejudicado. Por outro lado, já está sendo observada uma abertura
 gradual da economia em alguns Estados, fato que deve se replicar no resto do
 Brasil."
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Texto dissertativo expositivo-informativo
 
@@ -1350,9 +1303,7 @@ FUNDO!
 
 Zll
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Algumas provas também cobram o conceito de texto dissertativo argumentativo
 polêmico, que seria semelhante à modalidade argumentativa, mas com a diferença
@@ -1410,9 +1361,7 @@ sua progressão... etc. Vejamos fórmulas comuns de se construir um parágrafo i
 
 Divisão: é a enumeração explícita dos aspectos que serão tratados. É fácil e deixa o texto mais
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 organizado. Além disso, facilita o uso de elementos de coesão: "em relação ao primeiro
 item", "já
@@ -1478,9 +1427,7 @@ poder-saber que
 estrutura discursos de dominação. Assim, não basta proteger o cidadão do poder com o
 simples contraditório processual e a ampia defesa, abstratamente assegurados na
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Constituição. Deve haver um tratamento critico e uma posição política sobre o
 discurso
@@ -1548,9 +1495,7 @@ dificuldades, mas menos de três semanas depois, em uma das mais
 impressionantes
 reviravoltas da história militar, seus exércitos estavam a caminho do Cairo e Damasco. Todo
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 esse tempo depois, ainda há resquícios desse conflito no dia a dia do povo palestino...
 
@@ -1619,7 +1564,6 @@ Ex: O homem moderno sucumbiu ao consumismo, tem cada vez mais coisas e cada vez
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 menos tempo. Agora chegou ao extremo de comprar produtos cuja finalidade é o próprio
 desperdício...
 
@@ -1669,12 +1613,9 @@ haver uma conclusão que retoma a ideia-núcleo ou anuncia o tópico frasal do p
 
 A estrutura do parágrafo argumentativo pode ser vista assim:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Equipe Português Estratégia Concursos,
-
 
 V
 
@@ -1711,10 +1652,8 @@ renováveis poderá, por si, constituir-se no sucessor do petró/eo em nível mu
 
 (4).
 
-
 0 0 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 www. esfra teg/aconcursos. com. br
-
 
 Na introdução, o autor deixa clara sua tese: Há potencial de energia limpa.
 Entretanto, admite-se
@@ -1784,9 +1723,7 @@ i força da sensualidade justamente naqueles que tanto se empenharam em preveni-
 erradicá-la
 nos outros?
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O que mais violentamente repudiamos está em nós mesmos. Por vias oblíquas ou com
 piena i
@@ -1865,7 +1802,6 @@ embora se reconheça à música o privilégio de exprimir a alma, é somente às
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 : se aplica a definição de belo (Ka/ón) como "aquiio que agrada e atrai". Desordem e
 música vão, i
 
@@ -1939,7 +1875,6 @@ de se desenvolver parágrafos argumentativos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Há certa semelhança entre algumas técnicas, na medida em que um dado estatístico pode
 ser
 considerado um exemplo ou um esclarecimento, ou ainda uma explicação pode ser
@@ -2005,9 +1940,7 @@ dissolução dos costumes e a falta de solidariedade com os menos afortunados
 seriam
 sintomas de um mundo sem fé.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O aspecto "Vazio espiritual" é detalhado em subaspectos: a decomposição das famílias, a
 violência, as drogas...
@@ -2069,9 +2002,7 @@ analfabetos e 19 mi/hões declararam saber ler e escrever, sem, entretanto,
 nunca terem
 estado em uma sala de aula. No total, havia 135,8 milhões de eleitores no país em 2010.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Tópico frasal: A inclusão política dos brasileiros vem, a cada eleição. Em
 seguida as
@@ -2136,9 +2067,7 @@ Efeito: Surgem no cenário internacional de modo surpreendente.
 
 Ex: Sabemos todos que as bombas atômicas fabricadas até hoje são sujas (aliás, imundas)
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 porque, depois que explodem, deixam vagando pela atmosfera o já famoso e
 temido
@@ -2184,9 +2113,7 @@ uma generalização, uma conclusão não necessariamente é verdadeira.
 Ex: O leão é mamífero/ O leão é feroz.
 O lobo é mamífero/ O lobo é feroz.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O tigre é mamífero/ O tigre é feroz.
 
@@ -2237,9 +2164,7 @@ prova:
 
 EXEMPLIFICANDO
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Entre 1990 e 2010, mais de 96 milhões de pessoas foram afetadas por desastres
 no Brasil, como demonstra o Atias dos Desastres Naturais do Brasii. Destas, mais
@@ -2290,9 +2215,7 @@ Uma causa provável e seu decorrente efeito encontram-se, nessa ordem, neste
 aspecto da
 atividade do cronista: se dedicar exclusivamente a esse gênero / excelência a que chegou.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -2314,9 +2237,7 @@ Polêmico: Contrabalancear opiniões.
 
 Instrucional: Normatizar, prescrever, ensinar.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 FUNçõES DA LINGUAGEM
 
@@ -2366,12 +2287,9 @@ Como marcas textuais, temos o uso de interjeições, exclamações, reticências
 vocativos, verbos
 em primeira pessoa, adjetivos vaiorativos.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Equipe Português Estratégia Concursos,
-
 
 EXEMPLIFICANDO
 
@@ -2417,9 +2335,7 @@ FUNÇÃO FÁTICA:
 
 O foco da mensagem recai sobre o próprio "canal" em que ela é transmitida. Visa a testar,
 
-
 0 0 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 estabelecer, manter ou encerrar a comunicação.
 
@@ -2432,7 +2348,6 @@ Vejamos as tirinhas:
 
 môiouem - v
 ' UTÁPALAIPO7
-
 
 C optfight © 2003 Maurioo de Sousa Produções Ltda Todos os Oreüos reservados
 
@@ -2452,9 +2367,7 @@ Por objetivar induzir o ouvinte a fazer algo, esta é a linguagem predominante e
 sermões e em
 propaganda.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Bem GeLkDk
 
@@ -2471,9 +2384,7 @@ A linguagem é concisa e objetiva, típica dos textos jornalísticos, didáticos
 científicos e outros que
 tenham como finalidade primária informar ou ensinar.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 FUNÇÃO POÉTICA OU CONOTATIVA:
 
@@ -2520,9 +2431,7 @@ O este é meu norte.
 Outros que contem
 Passo por passo:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Eu morro ontem
 Nasço amanhã
@@ -2569,9 +2478,7 @@ poemas que falam sobre a poesia.
 
 EXEMPLIFICANDO
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Não faças versos sobre acontecimentos.
 
@@ -2618,9 +2525,7 @@ Ovo pode estar choco: é inquietante...)
 
 As cousas vivem metidas com as suas cousas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 E não exigem nada.
 
@@ -2660,9 +2565,7 @@ A metalinguagem também ocorre em outras formas de expressão que não a prosa e
 poesia.
 Observe as figuras abaixo:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O Sucio POR WILLIAN RAPHAEL SILVA
 
@@ -2672,9 +2575,7 @@ acabamos de estudar:
 
 EXEMPLIFICANDO
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 contexto
 nção: referencial
@@ -2730,9 +2631,7 @@ que denotam i
 i certa admiração.
 i
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Percebe-se que o emissor fica encantado. Por isso, pode-se dizer que a função
 do texto é a
@@ -2783,13 +2682,11 @@ textos de uma só vez.
 
 Agora que já vimos toda a teoria, é hora de Praticar!
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - NARRAçÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / PGE-PE / ASSISTENTE DE PROCURADORIA / 2019)
+1. (CEBRASPE / PGE-PE / ASSISTENTE DE PROCURADORIA / 2019)
 
 Passávamos férias na fazenda da Jureia, que ficava na região de lindas propriedades cafeeiras.
 lamos de automóvel até Barra do Pirai, onde pegávamos um carro de boi. Lembro-me do aboio
@@ -2817,7 +2714,7 @@ tempo.
 
 Questão incorreta.
 
-Item. 2. (CEBRASPE / SEDU-ES / 2010)
+2. (CEBRASPE / SEDU-ES / 2010)
 
 Julgue o item que se segue, relativo à interpretação, produção, tipos e
 gêneros de textos.
@@ -2829,13 +2726,11 @@ Outra questão conceituai. Todos esses gêneros contam "histórias", em
 sentido amplo:
 descrevem ações, com personagens, num fluxo temporal dinâmico. Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - DESCRIçÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 Desde os alvores da democracia ateniense, são sobejamente conhecidas as suas relações
 com a
@@ -2857,13 +2752,11 @@ objetivo principal de criar a imagem mental de um objeto, uma entidade, uma cena
 Traz um
 detalhamento visual, o que não ocorre aqui. Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - DISSERTAçÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Em qualquer tempo ou lugar, a vida social é sempre marcada por rituais. Essa
 afirmação pode ser
@@ -2909,7 +2802,7 @@ sobre eles. O texto predominantemente descritivo tem como foco o detalhamento de
 ser, um
 objeto, uma cena etc. Não é o caso aqui. Questão incorreta.
 
-Item. 2. (CEBRASPE / PGE-PE / ANA. JUDICIÁRIO DE PROCURADORIA / 2019)
+2. (CEBRASPE / PGE-PE / ANA. JUDICIÁRIO DE PROCURADORIA / 2019)
 
 Texto CB2A1-1
 
@@ -2932,9 +2825,7 @@ surpresa, lançando-nos na confusão. Dessa vez o salto coincidiu com a rápida 
 sociedade de tipo industrial dominada pelos proprietários das fábricas manufatureiras para uma
 sociedade de tipo pós-industrial dominada pelos proprietários dos meios de informação.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O fórceps com o qual a recém-nascida sociedade pós-industrial foi extraída do ventre da
 sociedade industrial anterior é representado pelo progresso científico e
@@ -2975,7 +2866,7 @@ mudaram simultaneamente" e que isso está acontecendo agora, pois as mudanças e
 ficando
 mais rápidas, gerando esses "saltos de época". Questão correta.
 
-Item. 3. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+3. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Texto 1A11-1
 
@@ -3001,9 +2892,7 @@ nomes de Pixis e Beethoven...
 A música de Pixis, ouvida como sendo de Beethoven, foi recebida com entusiasmo e paixão, e
 a de Beethoven, ouvida como sendo de Pixis, foi enxovalhada.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Esse episódio, cômico se não fosse doloroso, deveria nos tornar mais atentos e menos
 arrogantes a respeito do que julgamos ser arte.
@@ -3051,7 +2940,7 @@ Pixis como se fosse Beethoven.
 
 Gabarito letra B.
 
-Item. 4. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+4. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Texto 1A3-I
 
@@ -3072,9 +2961,7 @@ lucro das empresas, favorecendo-se, assim, a elevação dos seus investimentos �
 e,
 consequentemente, da produção — e o surgimento de novas empresas, o que provavelmente
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 resultaria no crescimento da produção, bem como no acirramento da concorrência, com possíveis
 reflexos sobre os preços. Em qualquer um desses cenários, o setor seria estimulado.
@@ -3127,7 +3014,7 @@ impostos sobre produtos nocivos. A alternativa restringe o texto a apenas um de 
 aspectos.
 Gabarito letra B.
 
-Item. 5. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
+5. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
 
 Texto CB1A1-H
 
@@ -3146,9 +3033,7 @@ total afronta à
 razoabiíidade administrativa, com flagrante desproporção entre o numerário despendido e o
 benefício auferido pela coletividade.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Além da insensatez detectada em alguns atos de administração, constata-se a existência de
 situação mais grave e preocupante, a degeneração de caráter em muitos entre os que ascendem
@@ -3181,7 +3066,7 @@ obra extremamente cara, com pouco benefício para o povo que paga por ela. Por e
 indícios,
 o texto é mais bem enquadrado no tipo argumentativo. Gabarito letra E.
 
-Item. 6. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
+6. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
 
 A modernidade é um contrato. Todos nós aderimos a ele no dia em que nascemos, e ele regula
 nossa vida até o dia em que morremos. Pouquíssimos entre nós são capazes de rescindi-lo ou
@@ -3215,11 +3100,9 @@ tem o efeito de incluir o leitor, fazendo que este se sinta mais próximo
 daquela realidade
 comentada no texto. Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 7. (CEBRASPE / SEFAZ-RS / 2018)
+7. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A1-II
 
@@ -3263,7 +3146,7 @@ requisito para o licenciamento, ser destinado a despesas variadas etc... Então,
 tem como
 finalidade informar. Gabarito letra B.
 
-Item. 8. (CEBRASPE / SEFAZ-RS / 2018)
+8. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A2-I
 
@@ -3283,9 +3166,7 @@ Desde o estabelecimento das Nações Unidas, um de seus objetivos fundamentais t
 promover e encorajar o respeito aos direitos humanos para todos, conforme estipulado na Carta
 das Nações Unidas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. São
 universais, ou seja, são aplicados de forma igual e sem discriminação a todas as pessoas. São
@@ -3324,7 +3205,7 @@ típicos recursos de argumentação, como citação de autoridades, estatística
 analogias etc.
 Basicamente são oferecidas informações sobre tais direitos. Gabarito letra E.
 
-Item. 9. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
+9. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
 
 Texto CB3A1AAA
 
@@ -3354,9 +3235,7 @@ transmitir ao leitor um conjunto de informações relativas às atividades desen
 sob o rótulo
 de inteligência.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -3368,7 +3247,7 @@ finalidade principal é informar, dissertar sobre a distinção entre esses dois
 conceitos. Questão
 correta.
 
-Item. 10. (CEBRASPE / PC-SE / DELEGADO / 2018)
+10. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 O Departamento de Atendimento a Grupos Vulneráveis (DAGV) da Polícia Civil de Sergipe
 atende a um público específico, que frequentemente se torna vítima de diversos tipos de
@@ -3403,7 +3282,7 @@ para dizer que o texto não é predominantemente narrativo. A melhor classifica�
 chamá-lo
 de um texto predominantemente expositivo. Questão incorreta.
 
-Item. 11. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+11. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Texto CB2A1AAA
 
@@ -3424,9 +3303,7 @@ de fala, limitado por regras de diversas naturezas. Dentre elas, podem ser desta
 as de
 financiamento de estudos, postos a julgamentos sobre suas finalidades e objetivos por comissões
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 de alto nível, bem como as regras que regem a oferta de trabalho. O
 perfil e a política das
@@ -3469,7 +3346,7 @@ Comentários:
 
 O texto é predominantemente dissertativo. Questão incorreta.
 
-Item. 12. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
+12. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
 
 É curioso notar que a ideia de porto está presente nas sociedades humanas desde
 o
@@ -3510,9 +3387,7 @@ trabalho no
 
 Brasil São Paulo: Método, 2008, p 17-8 (com adaptações)
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O texto é predominantemente descritivo, na medida em que
 apresenta detalhadamente as
@@ -3534,7 +3409,7 @@ A propósito, esse tipo de questão é sempre muito perigoso. Um critério que
 funciona bem para o
 CEBRASPE é pensar que são raros os textos puramente descritivos. Questão incorreta.
 
-Item. 13. (CEBRASPE / PC-GO-Delegado - 2017)
+13. (CEBRASPE / PC-GO-Delegado - 2017)
 
 Texto CB1A1AAA
 
@@ -3592,13 +3467,11 @@ meramente explicativo ou expositivo, pois não tem finalidade de
 comprovar ponto de vista.
 Gabarito letra C.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LISTA DE QUESTõES - NARRAçÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / PGE-PE / ASSISTENTE DE PROCURADORIA / 2019)
+1. (CEBRASPE / PGE-PE / ASSISTENTE DE PROCURADORIA / 2019)
 
 Passávamos férias na fazenda da Jureia, que ficava na região de lindas propriedades
 cafeeiras.
@@ -3620,7 +3493,7 @@ O texto é essencialmente descritivo, pois detalha lembranças acerca das viagen
 de férias que a
 personagem e sua família faziam com frequência durante a sua infância.
 
-Item. 2. (CEBRASPE / SEDU-ES / 2010)
+2. (CEBRASPE / SEDU-ES / 2010)
 
 Julgue o item que se segue, relativo à interpretação, produção, tipos
 e gêneros de textos.
@@ -3628,17 +3501,15 @@ Anedota, autobiografia e história em quadrinhos são gêneros textuais narrativ
 
 GABARITo
 
-Item. 1. INCORRETA
+1. INCORRETA
 
-Item. 2. CORRETA
-
+2. CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - DESCRIçÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 Desde os alvores da democracia ateniense, são sobejamente conhecidas as suas
 relações com a
@@ -3654,15 +3525,13 @@ expressão.
 
 GABARITo
 
-Item. 1. INCORRETA
-
+1. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - DISSERTAçÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Em qualquer tempo ou lugar, a vida social é sempre marcada por rituais.
 Essa afirmação pode ser
@@ -3700,7 +3569,7 @@ O texto apresentado é predominantemente descritivo, já que exemplifica
 uma das acepções do
 termo ritual.
 
-Item. 2. (CEBRASPE / PGE-PE / ANA. JUDICIÁRIO DE PROCURADORIA / 2019)
+2. (CEBRASPE / PGE-PE / ANA. JUDICIÁRIO DE PROCURADORIA / 2019)
 
 Texto CB2A1-1
 
@@ -3741,9 +3610,7 @@ avalanche ciclópica — talvez a mais irresistível de toda a história humana
 — na qual nós,
 contemporâneos, temos o privilégio e a desventura de estar envolvidos em primeira pessoa.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ninguém poderia ficar impassível diante de uma mudança dessa envergadura. Por
 isso a
@@ -3768,7 +3635,7 @@ O texto caracteriza-se como dissertativo-argumentativo, devido, entre
 outros aspectos, à
 presença de evidências e fatos históricos utilizados para validar a argumentação do autor.
 
-Item. 3. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+3. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Texto 1A11-1
 
@@ -3821,15 +3688,13 @@ B) criticar o modo como algumas pessoas consomem arte.
 
 C) dar notoriedade à carreira de Pixis.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 D) alertar o público de que não se deve confiar em tudo que se lê.
 
 E) incentivar o público a ampliar seu repertório musical.
 
-Item. 4. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+4. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Texto 1A3-I
 
@@ -3875,7 +3740,7 @@ D) defesa de ações governamentais mais efetivas no que se refere à política 
 
 E) razões para a diminuição de impostos ser considerada mais benéfica que o aumento destes.
 
-Item. 5. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
+5. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
 
 Texto CB1A1-H
 
@@ -3902,9 +3767,7 @@ benefício auferido peia coletividade.
 Aiém da insensatez detectada em alguns atos de administração, constata-se a existência de
 situação mais grave e preocupante, a degeneração de caráter em muitos entre os que ascendem
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 à gestão do interesse público. Essa degeneração, em alguns casos, precede a
 investidura; em
@@ -3925,7 +3788,7 @@ D) expositiva.
 
 E) argumentativa.
 
-Item. 6. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
+6. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
 
 A modernidade é um contrato. Todos nós aderimos a ele no dia em que nascemos, e ele
 regula
@@ -3957,7 +3820,7 @@ O texto apresenta estratégia argumentativa que visa aproximar o leitor
 das ideias desenvolvidas
 pelo autor.
 
-Item. 7. (CEBRASPE / SEFAZ-RS / 2018)
+7. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A1-II
 
@@ -3982,9 +3845,7 @@ imposto, com informações sobre o veículo, valores, datas, parcelas, formas de
 Com
 esse documento é possível quitar o IPVA, juntamente com o seguro obrigatório, e até fazer o
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 licenciamento antecipado. O não pagamento do IPVA implica multa e impede a
 realizaçao do
@@ -4004,7 +3865,7 @@ D) narrativo.
 
 E) prescritivo.
 
-Item. 8. (CEBRASPE / SEFAZ-RS / 2018)
+8. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A2-I
 
@@ -4055,11 +3916,9 @@ D) uma articulação entre as tipologias expositiva e narrativa.
 
 E) elementos que caracterizam a tipologia expositiva.
 
-Item. 9. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
-
+9. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Texto CB3A1AAA
 
@@ -4099,7 +3958,7 @@ transmitir ao leitor um conjunto de informações relativas às atividades
 desenvolvidas sob o rótulo
 de inteligência.
 
-Item. 10. (CEBRASPE / PC-SE / DELEGADO / 2018)
+10. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 O Departamento de Atendimento a Grupos Vulneráveis (DAGV) da Polícia Civil de Sergipe
 atende a um público específico, que frequentemente se torna vítima de
@@ -4139,9 +3998,7 @@ da escrita da história, está integrado a um projeto de nacionalização, de co
 do Estado e,
 portanto, de poder.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Certa produção historiográfica e sociológica, em debate pelo menos desde os anos 70 do
 século passado e já clássica na atualidade, trouxe novos ingredientes para a reflexão
@@ -4194,7 +4051,7 @@ adaptações).
 
 Por expor as ideias da autora, o texto é predominantemente descritivo.
 
-Item. 12. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
+12. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
 
 É curioso notar que a ideia de porto está presente nas sociedades humanas desde o
 aparecimento das cidades. Isso porque uma das características das primeiras estruturas
@@ -4225,9 +4082,7 @@ contexto do surgimento das cidades e da escrita. O comportamento fundamental des
 mudança
 localiza-se no aumento das possibilidades do agir humano, na diversificação dos papéis sociais e
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 na abertura para o futuro. Houve, em resumo, uma ampliaçao no grau de
 complexidade da
@@ -4242,7 +4097,7 @@ O texto é predominantemente descritivo, na medida em que
 apresenta detalhadamente as
 características dos portos na Antiguidade.
 
-Item. 13. (CEBRASPE / PC-GO-Delegado - 2017)
+13. (CEBRASPE / PC-GO-Delegado - 2017)
 
 Texto CB1A1AAA
 
@@ -4287,39 +4142,33 @@ e) descritivo.
 
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. CORRETA
 
-Item. 2. CORRETA
+3. LETRA B
 
-Item. 3. LETRA B
+4. LETRA B
 
-Item. 4. LETRA B
+5. LETRA E
 
-Item. 5. LETRA E
+6. CORRETA
 
-Item. 6. CORRETA
+7. LETRA B
 
-Item. 7. LETRA B
+8. LETRA E
 
-Item. 8. LETRA E
-
-Item. 9. CORRETA
-
+9. CORRETA
 
 INCORRETA
 
-
 INCORRETA
-
 
 INCORRETA
 
 LETRA C
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NoçõES BÁSICAS DE "TEXTo"
 
@@ -4372,9 +4221,7 @@ Grande abraço e ótimos estudos!
 
 Time de Português
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LINGUAGEM VERBAL E NÂo VERBAL
 
@@ -4384,10 +4231,10 @@ dicionário:
 
 Resiliência - substantivo feminino
 
-Item. 1. FÍSICA: propriedade que alguns corpos apresentam de retornar à forma original após terem
+1. FÍSICA: propriedade que alguns corpos apresentam de retornar à forma original após terem
 sido submetidos a uma deformação elástica.
 
-Item. 2. figurado (sentido) figuradamente: capacidade de se recobrar facilmente ou se adaptar à má
+2. figurado (sentido) figuradamente: capacidade de se recobrar facilmente ou se adaptar à má
 sorte ou às mudanças.
 
 O texto "não verbal" é o que usa outros elementos, que não a fala ou a escrita:
@@ -4415,9 +4262,7 @@ mesmo tempo. Teremos então imagens e palavras. Vejamos:
 Copvright ©1999 Maurido de Sousa ProduçõesLtda. Todos os direitos reservados.
 6493
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LINGUAGEM LITERÁRIA E NÃo LITERÁRIA
 
@@ -4460,12 +4305,9 @@ narrações, propagandas) tenham
 também efeitos estilísticos. A linguagem publicitária, por exemplo, abusa de efeitos estéticos em
 sua criação.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Equipe Português Estratégia Concursos,
-
 
 Basicamente, a intertextualidade é comunicação/diálogo entre textos (texto escrito,
 música, pintura, obra
@@ -4516,16 +4358,13 @@ Dourado
 Onde antes se via o Redentor Onde antes se via o
 Redentor
 
-
 É, meu amigo, só resta uma certeza
 É preciso acabar com a natureza
 
 É, meu amigo Só resta uma certeza
 É preciso acabar com a natureza
 
-
 0 0 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 É melhor lotear o nosso amor É melhor lotear o nosso
 amor
@@ -4543,9 +4382,7 @@ PM INDO MAIS
 
 AFUNDO!
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Algumas reproduções grosseiras de outros trabalhos, usando a mesma linguagem/sintaxe,
 envolvendo colagens ou montagens de textos diversos (como uma "colcha de retalhos"),
@@ -4594,9 +4431,7 @@ que são todas formas de intertextualidade, de comunicação entre textos.
 
 (SANASA - CAMPINAS (SP) / 2019 - Adaptada)
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Considere o trecho hipotético de uma conversa entre um cidadão-usuário e um
 atendente da empresa
@@ -4625,7 +4460,6 @@ de outras palavras, de modo a tornar a compreensão mais fácil. Tal recurso é 
 a paródia tem a finalidade humorística, irônica. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 INTERPRETAçÃo E CoMPREENSÃo
 
@@ -4686,9 +4520,7 @@ oração restritiva
 
 Ex: Embora ele tentasse estudar sempre, até nos fins de semana, continuou sendo criticado.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A conjunção "embora", por ser concessiva, nos permite inferir que aquela oração é
 vista como um
@@ -4750,9 +4582,7 @@ Vejamos mais um exemplo de subentendido:
 Novamente, a "oferta" de café, subentendida, não foi observada pelo ouvinte, que se ateve ao
 sentido literal
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 registrado nas palavras.
 
@@ -4772,12 +4602,12 @@ NOTA!
 
 Como se sair melhor nas questões de interpretação e compreensão:
 
-Item. 1. Leia o texto todo. Leia outra vez, marcando as ideias centrais de cada parágrafo, que
+1. Leia o texto todo. Leia outra vez, marcando as ideias centrais de cada parágrafo, que
 frequentemente vêm no seu início.
 
-Item. 2. A ideia central na introdução e na conclusão é a tese. No desenvolvimento é o tópico frasal.
+2. A ideia central na introdução e na conclusão é a tese. No desenvolvimento é o tópico frasal.
 
-Item. 3. Questões de recorrência são resolvidas encontrando uma paráfrase. Questões de inferência
+3. Questões de recorrência são resolvidas encontrando uma paráfrase. Questões de inferência
 exigem uma dedução baseada e pressupostos.
 
 I«** IX
@@ -4838,9 +4668,7 @@ certamente foram ;
 : criadas a partir de um novo processo evolutivo, completamente independente das leis e limitações
 da j
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 evolução orgânica.
 
@@ -4912,15 +4740,11 @@ as negociações estavam lentas. Em II e IV, as informações implícitas são r
 muito sutis, mas a questão
 é, mesmo assim, muito boa para o estudo deste tópico. Gabarito letra A.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ESQUEMATIZANDO
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 JULGAMENTo DE ASSERTIVAS: PRINCIPAIS ERRoS
 
@@ -4981,9 +4805,7 @@ Vamos fazer um exercício e localizar esses erros num texto.
 Para evitar os erros acima, o leitor deve ser capaz de fazer o "recorte temático", isto é, uma
 delimitação do
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 tema, um estabelecimento de fronteiras do que está no texto e o que o extrapola.
 
@@ -5073,9 +4895,7 @@ fábricas em :
 países de terceiro mundo estão sofisticadas; então poderíamos até entender um sentido concessivo de
 que j
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 não é esperado que essas fábricas sejam modernas, mas isso é diferente de
 dizer que "não parecem"
@@ -5135,11 +4955,10 @@ Agora que já vimos toda a teoria, é hora de Praticar!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - CoMPREENSÃo E INTERPRETAçÃo -
 CEBRASPE
 
-Item. 1. (CEBRASPE / PETROBRAS / 2022)
+1. (CEBRASPE / PETROBRAS / 2022)
 
 O uso de ferramentas certamente não requer linguagem. Chimpanzés usam
 galhos como
@@ -5165,7 +4984,7 @@ conhecimento geral.
 
 Questão correta.
 
-Item. 2. (CEBRASPE / PETROBRÁS / 2022)
+2. (CEBRASPE / PETROBRÁS / 2022)
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é
 terra de ninguém". Tal
@@ -5211,15 +5030,13 @@ sentimento de culpa, ou se carrega, ela é mínima. Agora/Por outro
 lado/Porém, dizer "cometi
 um crime contra honra" já traz outras implicações, não só de ordem jurídica, mas também de
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 grande responsabilidade pessoal.
 
 Questão incorreta.
 
-Item. 3. (CEBRASPE / PETROBRÁS / 2022)
+3. (CEBRASPE / PETROBRÁS / 2022)
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é
 terra de ninguém". Tal
@@ -5268,7 +5085,7 @@ pessoal.
 
 Questão correta.
 
-Item. 4. (CEBRASPE / PETROBRÁS / 2022)
+4. (CEBRASPE / PETROBRÁS / 2022)
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é
 terra de ninguém". Tal
@@ -5292,9 +5109,7 @@ prejulgamento nas redes sociais. Belo Horizonte, MG: Letramento, 2021, p. 36 (co
 
 No que se refere às ideias, aos sentidos e às construções linguísticas do texto precedente, assim
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 como a sua tipologia, julgue o item a seguir.
 
@@ -5320,7 +5135,7 @@ muito grave.
 
 Questão incorreta.
 
-Item. 5. (CEBRASPE / PETROBRÁS / 2022)
+5. (CEBRASPE / PETROBRÁS / 2022)
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna,
 em que Platão,
@@ -5378,9 +5193,7 @@ Comentários:
 
 Aqui temos uma questão de inferência, mas a resposta sempre se baseia na literalidade do texto:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 De acordo com este texto, a possibilidade de um indivíduo tornar-se justo e
 virtuoso depende de
@@ -5394,7 +5207,7 @@ vive de aparências, não possuem a virtude da verdade.
 
 Questão correta.
 
-Item. 6. (CEBRASPE / PETROBRÁS / 2022)
+6. (CEBRASPE / PETROBRÁS / 2022)
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é
 terra de ninguém". Tal
@@ -5436,7 +5249,7 @@ efeito de fazer presumir que há estrangeirismos que mascaram e outros que não 
 
 Questão correta.
 
-Item. 7. (CEBRASPE / PETROBRÁS / 2022)
+7. (CEBRASPE / PETROBRÁS / 2022)
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna,
 em que Platão,
@@ -5458,9 +5271,7 @@ inteligível, aparece-me a ideia do Bem, que se percebe com dificuldade,
 mas que não se pode
 ver sem se concluir que ela é a causa de tudo o que há de reto e de belo. Acrescento que é
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 preciso vê-la se se quer comportar-se com sabedoria, seja na vida privada, seja na vida pública.
 
@@ -5500,7 +5311,7 @@ acepção mais completa, já que o Sol é "a causa de tudo ", mas também
 
 Questão incorreta.
 
-Item. 8. (CEBRASPE / PETROBRÁS / 2022)
+8. (CEBRASPE / PETROBRÁS / 2022)
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna,
 em que Platão,
@@ -5546,9 +5357,7 @@ subsecutivo.
 
 No que se refere às ideias, aos sentidos e às construções linguísticas do texto precedente, assim
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 como a sua tipologia, julgue o item a seguir.
 
@@ -5571,7 +5380,7 @@ O que se posta ou compartilha (voz passiva sintética=VTD+SE)
 O que é postado ou compartilhado (voz passiva analítica=SER+Particípio)
 Questão correta.
 
-Item. 9. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+9. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 "Desprezo o que dizes, mas defenderei até a morte o teu direito
 a dizê-lo." É com essa
@@ -5629,11 +5438,9 @@ impediu alguém de exprimir as suas convicções acerca de quais devem ser
 essas leis e políticas,
 ou seja, se impediu sua liberdade de expressão. Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 10. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+10. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 A primeira celebração do Dia Mundial da Segurança dos Alimentos das
 Nações Unidas, que
@@ -5691,7 +5498,7 @@ O 3o parágrafo traz os custos adicionais em saúde na casa dos milhares e
 milhões, o que também
 caracteriza um problema causado pelos alimentos não seguros. Questão correta.
 
-Item. 11. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020) Utilize o texto
+11. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020) Utilize o texto
 da questão
 anterior.
 
@@ -5711,11 +5518,9 @@ contaminação dos alimentos ocorre de forma mais severa nos
 países do continente
 americano não está presente no texto, nem de forma explícita nem implícita. Questão incorreta.
 
-Item. 12. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
-
+12. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Entre todos os fatores técnicos da mobilidade, um papel
 particularmente importante foi
@@ -5758,7 +5563,7 @@ versa sobre globalização, ficava evidente a referência. A
 rede que torna informação
 instantaneamente disponível em todo o planeta é a internet. Questão correta.
 
-Item. 13. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+13. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Sozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada.
 Às vezes, na fuga,
@@ -5788,7 +5593,7 @@ subindo telhados em sequência, um após o outro, o que mostra a perseguição
 atrás da galinha.
 Questão correta.
 
-Item. 14. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão anterior.
+14. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão anterior.
 
 O trecho "Sua única vantagem é que havia tantas galinhas que morrendo uma
 surgiria no mesmo
@@ -5796,9 +5601,7 @@ instante outra tão igual como se fora a mesma" (2o parágrafo)
 nos remete à ideia de que a
 personagem já estava certa de sua morte e substituição.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -5806,7 +5609,7 @@ Sim. O trecho dá ideia da banalidade de cada galinha, que é substituída
 facilmente por outra, tão
 parecida com a anterior que pareceria a mesma. Questão correta.
 
-Item. 15. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+15. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Estúpida, tímida e livre. Não vitoriosa como seria um galo em fuga. Que é
 que havia nas suas
@@ -5830,7 +5633,7 @@ entidade estúpida, tímida e livre) vísceras que fazia dela um ser? A
 galinha é um ser. Questão
 correta.
 
-Item. 16. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+16. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Em qualquer tempo ou lugar, a vida social é sempre marcada por rituais.
 Essa afirmação pode ser
@@ -5877,9 +5680,7 @@ inesperada para muitos, porque tendemos a negar tanto a existência
 quanto a importância dos
 rituais na nossa vida cotidiana.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Nos períodos seguintes, explora o sentido corrente da palavra,
 indicando algo cerimonial,
@@ -5889,7 +5690,7 @@ Muitas vezes comentamos "Ah, foi apenas um ritual", querendo
 enfatizar exatamente que o
 evento em questão não teve maior significado e conteúdo... Questão correta.
 
-Item. 17. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão anterior.
+17. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão anterior.
 
 Depreende-se do trecho "Tudo se passa como se nós, modernos, guiados
 pela livre vontade,
@@ -5903,7 +5704,7 @@ Não repudia, inclusive seu texto quer refutar a ideia de que "rituais"
 sejam práticas arcaicas ou
 vazias de sentido. De forma alguma podemos afirmar que repudia o passado. Questão incorreta.
 
-Item. 18. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão 16.
+18. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão 16.
 
 O texto defende que, em uma manifestação social, o ritual é a dimensão
 que mais contribui para
@@ -5935,7 +5736,7 @@ apenas à forma, isto é, à convencionalidade, à rigidez, ao tradicionalismo.
 
 Questão incorreta.
 
-Item. 19. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
+19. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
 Texto CG1A1-II
 
 Segundo a Lei Geral de Proteção de Dados (Lei n.°
@@ -5956,9 +5757,7 @@ serviços ofertados a brasileiros. Mas há exceções, como a obtenção de
 informações pelo Estado
 para a segurança pública. Ao coletar um dado, as empresas deverão informar a finalidade da
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 coleta. Se o usuário aceitar repassar suas 16 informações, o que
 pode acontecer, por exemplo,
@@ -6033,11 +5832,9 @@ Brasil.
 
 Gabarito: Letra C.
 
-Item. 20. (CEBRASPE / SEFAZ-AL / AUDITOR / 2020)
-
+20. (CEBRASPE / SEFAZ-AL / AUDITOR / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 É uma loja grande e escura no centro da cidade, uma quadra
 distante da estação de trem.
@@ -6099,7 +5896,7 @@ Já a ambiguidade fica evidente no trecho: "sonhando com uma das
 vidas que não tive e me
 esquecendo da vida real". Questão correta.
 
-Item. 21. (CEBRASPE / SEFAZ-RS-Auditor Fiscal - 2019)
+21. (CEBRASPE / SEFAZ-RS-Auditor Fiscal - 2019)
 Texto 1A1-I
 
 O direito tributário brasileiro depara-se com grandes desafios,
@@ -6122,9 +5919,7 @@ investimentos, gerando, com isso, consequências negativas do ponto de
 vista tanto econômico
 quanto fiscal.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A competitividade gerada pela interdependência estadual é outro ponto.
 Na década de 60, a
@@ -6197,14 +5992,12 @@ ICMS. (...)
 3) A harmonização com os outros sistemas tributários é outro desafio que deve ser enfrentado.
 Gabarito letra E.
 
-Item. 22. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019) Utilize o texto da questão anterior.
+22. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019) Utilize o texto da questão anterior.
 
 Infere-se das ideias do texto 1A1-I que o autor é contrário
 a) ao modelo tributário europeu.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 b) à aplicação do IVA em nível federal.
 
@@ -6224,7 +6017,7 @@ chamada "guerra fiscal". Por esses argumentos, fica evidente que o autor é cont
 individual de cada estado e sugere uma legislação única, federal, como a do IVA que mencionou.
 Gabarito letra D.
 
-Item. 23. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+23. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 Desde os alvores da democracia ateniense, são sobejamente conhecidas as suas relações com a
 argumentação e a retórica. Porém, tal como a retórica e a argumentação podem ser postas ao
@@ -6245,7 +6038,7 @@ tal como a retórica e a argumentação podem ser postas ao serviço da mentira 
 também em relação à Uberdade de expressão se coloca a questão dos seus limites. Questão
 correta.
 
-Item. 24. (CEBRASPE / PGE-PE / ANA. JUDICIÁRIO DE PROCURADORIA / 2019)
+24. (CEBRASPE / PGE-PE / ANA. JUDICIÁRIO DE PROCURADORIA / 2019)
 
 Texto CB2A1-1
 
@@ -6266,9 +6059,7 @@ ocorrida no século XX, e, em menos de um século, um novo salto de época nos t
 de
 surpresa, lançando-nos na confusão. Dessa vez o salto coincidiu com a rápida passagem de uma
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 sociedade de tipo industrial dominada pelos proprietários das fábricas manufatureiras para uma
 sociedade de tipo pós-industrial dominada pelos proprietários dos meios de informação.
@@ -6314,7 +6105,7 @@ deixarmos de projetar nosso futuro, alguém o projetará para nós, não em fun�
 nossos
 interesses, mas do seu próprio proveito. Questão incorreta.
 
-Item. 25. (CEBRASPE / PGE-PE / ANA. JUDICIÁRIO DE PROCURADORIA / 2019) Utilizar texto da
+25. (CEBRASPE / PGE-PE / ANA. JUDICIÁRIO DE PROCURADORIA / 2019) Utilizar texto da
 questão anterior.
 
 De acordo com o texto, as sociedades deste século vivenciaram a substituição da agricultura e, a
@@ -6333,9 +6124,7 @@ Acabamos de nos recuperar da ultrapassagem da agricultura pela indústria, ocorr
 XX, e, em menos de um século, um novo salto de época nos tomou de surpresa, lançando-nos na
 confusão. Dessa vez o salto coincidiu com a rápida passagem de uma sociedade de tipo
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 industrial dominada pelos proprietários das fábricas manufatureiras para uma sociedade de tipo
 pós-industria! dominada pelos proprietários dos meios de informação.
@@ -6344,7 +6133,7 @@ Além disso, dizer que a sociedade é "dominada" não é o mesmo que dizer que "
 submeter", pois ser "dominado" é algo irresistível e "submeter-se" dá uma ideia mais voluntária.
 Questão incorreta.
 
-Item. 26. (CEBRASPE / PGE-PE / ANA. JUDICIÁRIO DE PROCURADORIA / 2019) Utilizar texto da
+26. (CEBRASPE / PGE-PE / ANA. JUDICIÁRIO DE PROCURADORIA / 2019) Utilizar texto da
 questão 24.
 
 Conclui-se do último parágrafo do texto que o sentimento de crise provocado pela sensação de
@@ -6364,7 +6153,7 @@ deixarmos de projetar nosso futuro, alguém o projetará para nós, não em fun�
 nossos
 interesses, mas do seu próprio proveito. Questão correta.
 
-Item. 27. (CEBRASPE / PRF / POLICIAL / 2019)
+27. (CEBRASPE / PRF / POLICIAL / 2019)
 
 A vida humana só viceja sob algum tipo de luz, de preferência a do sol, tão óbvia
 quanto essencial. Somos animais diurnos, por mais que boêmios da pá virada e vampiros
@@ -6396,9 +6185,7 @@ Não consigo pensar em um cargo público mais empolgante que o desse homem. Clar
 que o cargo, se existia, já foi extinto, e o homem da luz já deve ter se transferido para o mundo
 das trevas eternas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Reina Ido Moraes. "Luz! Mais luz". Internet: <www.nexojornal.com.br> (com adaptações).
 
@@ -6414,7 +6201,7 @@ diurnos, os boêmios apenas não concordam com essa afirmação:
 Somos animais diurnos, por mais que boêmios da pá virada e vampiros em gerai discordem
 dessa afirmativa. Questão incorreta.
 
-Item. 28. (CEBRASPE / PRF / POLICIAL / 2019) Utilizar texto da questão anterior.
+28. (CEBRASPE / PRF / POLICIAL / 2019) Utilizar texto da questão anterior.
 
 É correto inferir do trecho "o homem da luz já deve ter se transferido para o mundo das trevas
 eternas" (L 21 e 22) que provavelmente o funcionário responsável pelo acionamento da
@@ -6427,7 +6214,7 @@ humana,
 podemos inferir sim que provavelmente o funcionário já morreu, tanto pela metáfora eufemística
 (suavizada) da morte, quanto pela passagem do tempo mencionada no texto. Questão correta.
 
-Item. 29. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019)
+29. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019)
 
 A própria palavra "crise" é bem mais a expressão de um movimento do espírito que de um
 juízo fundado em argumentos extraídos da razão ou da experiência. Não há período
@@ -6460,16 +6247,14 @@ Comentários:
 O autor, ao contrário, relativiza o conceito de "crise" e diz que não é possível dizer realmente se
 há uma crise ou a razão de uma crise:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Mas é difícil dizer se a maior turbulência depende de uma crise moral (de uma
 diminuição da
 crença em princípios fundamentais) ou de outras causas, econômicas, sociais, políticas, culturais
 ou até mesmo biológicas. Questão incorreta.
 
-Item. 30. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019)
+30. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019)
 
 Como período e como crise, a época atual mostra-se, aliás, como coisa nova. Como período,
 as suas variáveis características instalam-se em toda parte e a tudo influenciam,
@@ -6507,7 +6292,7 @@ mesma.
 
 Questão correta.
 
-Item. 31. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019) Utilizar texto da questão anterior.
+31. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019) Utilizar texto da questão anterior.
 
 Conclui-se do último parágrafo do texto que a verdadeira crise não será resolvida enquanto os
 esforços persistirem centralizados na resolução da crise financeira.
@@ -6521,11 +6306,9 @@ a única crise que os responsáveis desejam afastar é a crise financeira, e nã
 está, na verdade, uma causa para mais aprofundamento da crise real — econômica, social,
 política, moral — que caracteriza o nosso tempo. Questão correta.
 
-Item. 32. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019)
-
+32. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O modelo econômico de produção capitalista, aperfeiçoado pelos avanços científicos e
 tecnológicos que, por sua vez, proporcionaram a reestruturação da produção e a Terceira
@@ -6570,7 +6353,7 @@ direitos básicos como educação, saúde e moradia, agravados, entre outros
 motivos, por
 propostas que concebem um Estado que seja parco em prestações sociais. Questão incorreta.
 
-Item. 33. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019) Utilizar texto da
+33. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019) Utilizar texto da
 questão anterior.
 
 Conforme o texto, a Terceira Revolução Industrial foi o evento histórico responsável por
@@ -6588,10 +6371,9 @@ tecnológicos que, por sua vez, proporcionaram a reestruturação da produção 
 Revolução Industrial, retirou do trabalho seu valor, transformando o empregado em simples
 mercadoria inserta no processo de produção. Questão incorreta.
 
-Item. 34. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019)
+34. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O desejo por igualdade em nossos dias, ensejado pela Declaração dos Direitos do Homem e
 do Cidadão, marco da modernidade, segundo Axel Honneth, advém de uma busca
@@ -6635,7 +6417,7 @@ por autorrespeito.
 Então, a busca por autorrespeito é que impulsiona o desejo de igualdade, não o contrário.
 Questão incorreta.
 
-Item. 35. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019) Utilizar texto da
+35. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019) Utilizar texto da
 questão anterior.
 
 O texto indica que, de acordo com Axel Honneth, o conflito motiva o reconhecimento dos
@@ -6651,11 +6433,9 @@ mínimo necessário para a perpetuação da sociedade, porque é pelo respeito m
 pretensões legítimas que as pessoas conseguem se relacionar socialmente (é requisito, é
 condição). Questão correta.
 
-Item. 36. (CEBRASPE / PRF / POLICIAL / 2019)
-
+36. (CEBRASPE / PRF / POLICIAL / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 As atividades pertinentes ao trabalho relacionam-se intrinsecamente com a satisfação das
 necessidades dos seres humanos — alimentar-se, proteger-se do frio e do calor, ter o que calçar
@@ -6691,7 +6471,7 @@ Sahlins propôs que tais sociedades fossem conhecidas como "sociedades de abund�
 "sociedades do lazer", pelo fato de que nelas a satisfação das necessidades básicas sociais e
 materiais se dá plenamente. Questão incorreta.
 
-Item. 37. (CEBRASPE / PRF / POLICIAL / 2019)
+37. (CEBRASPE / PRF / POLICIAL / 2019)
 
 O nome é o nosso rosto na multidão de palavras. Delineia os traços da imagem que
 fazem de nós, embora não do que somos (no íntimo). Alguns escondem seus donos, outros lhes
@@ -6714,9 +6494,7 @@ sobre um célebre arquiteto, de quem ela era secretária.
 
 João Anzanello Carrascoza. Homônimo. In: Diário das
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Coincidências. Ed. digital. São Paulo: Objetiva, p. 52 (com adaptações).
 
@@ -6730,7 +6508,7 @@ Comentários:
 Contradiz não, na verdade "confirma". O comentário é a explicação da metáfora. Questão
 incorreta.
 
-Item. 38. (CEBRASPE / PRF / POLICIAL / 2019) Utilizar texto da questão anterior.
+38. (CEBRASPE / PRF / POLICIAL / 2019) Utilizar texto da questão anterior.
 
 Infere-se que o autor do texto é espanhol.
 Comentários:
@@ -6738,7 +6516,7 @@ Comentários:
 Não se pode afirmar isso. Apenas foi dito que o nome é hispânico. Garcia é um nome hispânico e
 nem todo Garcia é espanhol. Questão incorreta.
 
-Item. 39. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+39. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Texto 1A11-1
 
@@ -6775,9 +6553,7 @@ escritor. São Paulo: Leya, 20 W (com adaptações).
 
 Infere-se do texto 1A11-1 que, na ocasião do concerto em Paris, em 1837,
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A) Pixis tocou uma composição de Beethoven como se fosse de sua autoria.
 
@@ -6814,7 +6590,7 @@ autor, não pela qualidade em si.
 E) Incorreto. Olha o devaneio! Houve apenas troca do nome na sequência do programa. Gabarito
 letra D.
 
-Item. 40. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019) Utilizar texto da questão anterior.
+40. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019) Utilizar texto da questão anterior.
 
 No texto 1A11-1, com o emprego da expressão "(hoje)" (L.2) entre parênteses, o autor
 
@@ -6837,13 +6613,11 @@ atualmente, mas não era na época. A prova disso é que a plateia o conhecia e 
 visão
 negativa dele, tanto que desprezou a música que pensaram ser dele. Gabarito letra A.
 
-Item. 41. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+41. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Texto 1A3-I
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A política tributária não se restringe ao objetivo de abastecer os cofres públicos,
 mas tem
@@ -6889,7 +6663,7 @@ aumento concorrência).
 O texto se estrutura nessa divisão: finalidade fiscal x finalidades sociais e econômicas. Todas as
 demais alternativas vão focar em apenas um dos aspectos. Gabarito letra A.
 
-Item. 42. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+42. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Texto 1A3-II
 
@@ -6909,9 +6683,7 @@ indivíduos de estabelecer convívio social organizado e de gerir a coisa públi
 mediante a
 concessão de poder a um soberano. Em decorrência disso, a condição necessária (mas não
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 suficiente) para que o poder de tributar seja legítimo é que ele emane do Estado, pois qualquer
 imposição tributária privada seria comparável a usurpação ou roubo.
@@ -6954,7 +6726,7 @@ fato.
 
 Gabarito letra A.
 
-Item. 43. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
+43. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
 
 Texto CB1A1-!
 
@@ -6975,9 +6747,7 @@ esboço de alegria durou até aparecer pela porta mal pintada de azul uma mulher
 praguejando com uma vassoura na mão e mandando desligar aquela música maldita. O
 caminhoneiro a chamou pelo nome:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 — Cadê o café, Helenice? Deixa de praguejar, coisa-ruim!
 
@@ -7021,7 +6791,7 @@ morasse alguém naquele cemitério de gigantes.
 
 O único sinal de vida vinha de um bar aberto. [...] Candeia era morta. Gabarito letra B.
 
-Item. 44. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
+44. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
 
 Texto CB1A1-H
 
@@ -7040,9 +6810,7 @@ total afronta à
 razoabilidade administrativa, com flagrante desproporção entre o numerário despendido e o
 benefício auferido pela coletividade.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Além da insensatez detectada em alguns atos de administração, constata-se a existência de
 situação mais grave e preocupante, a degeneração de caráter em muitos entre os que ascendem
@@ -7094,7 +6862,7 @@ permite extrapolação para uma regra geral.
 e) Não se falou em sobrecarga tributária em momento algum, além disso a alternativa é muito
 generalizante ao dizer que todos os gestores fazem um mau trabalho.
 
-Item. 45. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019) Utilizar texto da questão anterior.
+45. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019) Utilizar texto da questão anterior.
 
 Depreende-se do texto CB1A1-II que os jardins suspensos construídos no império do rei
 Nabucodonosor representavam
@@ -7103,9 +6871,7 @@ A) as sete maravilhas do mundo antigo.
 
 B) a riqueza do império babilónico.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 C) a degeneração de caráter de Nabucodonosor.
 
@@ -7124,7 +6890,7 @@ providenciou a construção de estupendos jardins suspensos.
 Como os jardins eram lembretes visuais da terra de Meda, entendemos que os jardins
 representam a paisagem da pátria da rainha Meda. Gabarito letra E.
 
-Item. 46. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
+46. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
 
 A modernidade é um contrato. Todos nós aderimos a ele no dia em que nascemos, e ele regula
 nossa vida até o dia em que morremos. Pouquíssimos entre nós são capazes de rescindi-lo ou
@@ -7152,7 +6918,7 @@ Comentários:
 Segundo o texto, a modernidade é um contrato e todos aderimos a ele. Então, em tese,
 concordamos, mesmo sem saber exatamente os detalhes do contrato. Questão incorreta.
 
-Item. 47. (CEBRASPE / TCE-PB-Auditor de Contas Públicas - 2018)
+47. (CEBRASPE / TCE-PB-Auditor de Contas Públicas - 2018)
 
 A história é uma disciplina definida por sua capacidade de lembrar. Poucos se lembram, porém,
 de como ela é capaz de esquecer. Há também quem caracterize a história como uma ciência da
@@ -7167,9 +6933,7 @@ de
 problemas estruturais que permanecem como que inalterados e assim se repetem,
 vergonhosamente, na nossa história nacional.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Nessa lista seria possível mencionar os racismos, o feminicídio, a corrupção, a
 homofobia e o
@@ -7215,7 +6979,7 @@ consequência de nossas escolhas (nossa escolha é a causa, logo somos causadore
 O "nós" tem sentido inclusivo e generalizante, indica que aquelas afirmações valem para o autor
 e também para o leitor e as pessoas em geral. Gabarito letra C.
 
-Item. 48. (CEBRASPE / MPU / ANALISTA / 2018)
+48. (CEBRASPE / MPU / ANALISTA / 2018)
 
 Texto CB1A1-H
 
@@ -7234,9 +6998,7 @@ A desigualdade não é natural; ela é uma construção sociai. Quando a desigua
 naturalizada, eia passa a instituir o poder da opressão social. Os mecanismos que reproduzem as
 desigualdades devem ser revelados de forma que se possibilite seu enfrentamento pela
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 sociedade civil por meio da cidadania ativa, buscando-se o aprofundamento da democracia e a
 garantia da justiça de gênero, da igualdade racial e dos direitos humanos.
@@ -7253,7 +7015,7 @@ A minoria em tela é a minoria que se beneficia da riqueza, isto é, a minoria r
 isso o texto fala em "desigualdade", no sentido de que "a minoria é rica" e a maioria é pobre.
 Questão incorreta.
 
-Item. 49. (CEBRASPE / MPU / ANALISTA / 2018) Utilizar texto da questão anterior.
+49. (CEBRASPE / MPU / ANALISTA / 2018) Utilizar texto da questão anterior.
 
 A história do Brasil é marcada por fatos cujos efeitos na sociedade até hoje contribuem para a
 manutenção de desigualdades.
@@ -7268,7 +7030,7 @@ bens, serviços e equipamentos públicos. Questão correta.
 
 Em suma, esses fatores históricos contribuem para a manutenção das desigualdades atuais.
 
-Item. 50. (CEBRASPE / MPU / TÉCNICO / 2018)
+50. (CEBRASPE / MPU / TÉCNICO / 2018)
 
 Texto CB2A1-1
 
@@ -7299,9 +7061,7 @@ comunicação como a Internet, pois é sinônimo de estranheza e de falta de tol
 
 Internet: <https://brasilescola.uol.com.br> (com adaptações).
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 De acordo com o texto, a herança cultural repassada pelos pais contribui para que seus filhos
 desenvolvam uma visão etnocêntrica.
@@ -7313,7 +7073,7 @@ Literal das linhas 7-9.
 A herança cultural que recebemos de nossos pais e antepassados contribui para isso, pois nos
 condiciona ao mesmo tempo em que nos educa. Questão correta.
 
-Item. 51. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão anterior.
+51. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão anterior.
 Um dos principais desencadeadores do etnocentrismo é a xenofobia.
 Comentários:
 
@@ -7326,7 +7086,7 @@ etnocêntrica desconsidera a lógica de funcionamento de outra cultura, o que fa
 indivíduo
 limitar-se à visão que possui como referência cultural. Questão incorreta.
 
-Item. 52. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 50.
+52. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 50.
 
 A cultura é um fator que limita a concepção de mundo dos diferentes povos, levando-os a uma
 visão estreita das dimensões da vida humana.
@@ -7336,7 +7096,7 @@ Comentários:
 Não é a cultura em si, é "limitarmo-nos a ela", isto é, "limitarmo-nos à nossa própria cultura" e
 depreciar as demais. Questão incorreta.
 
-Item. 53. (CEBRASPE / MPU / TÉCNICO / 2018)
+53. (CEBRASPE / MPU / TÉCNICO / 2018)
 
 Texto CB2A1-H
 
@@ -7359,9 +7119,7 @@ os padrões socioculturais de conduta e suprimir todas as formas de tráfico de 
 e
 exploração da prostituição feminina.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A Convenção prevê, ainda, a adoção de ações afirmativas, a exemplo do que ocorreu no
 Brasil com a cota eleitoral de sexo, prevista na Lei n. ° 9.504/1997 (Lei das Eleições). O
@@ -7381,7 +7139,7 @@ O texto não informa isso, não é possível saber qual foi o primeiro. Aliás, 
 texto traz
 menção a uma lei de 1997, anterior à vigência da Convenção. Questão incorreta.
 
-Item. 54. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão anterior.
+54. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão anterior.
 
 Depreende-se do texto que a cota eleitoral de sexo é um dos exemplos mais prósperos de ação
 afirmativa implementada no Brasil, no que diz respeito à eliminação da discriminação
@@ -7392,7 +7150,7 @@ Comentários:
 
 Não se faz nenhuma valoração sobre a eficácia da medida. Questão incorreta.
 
-Item. 55. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 53.
+55. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 53.
 
 As medidas a que se refere o terceiro parágrafo estão elencadas no segundo parágrafo,
 especialmente no trecho "toda distinção (...) outro campo" (I.5-9).
@@ -7404,7 +7162,7 @@ que os estados signatários adotem política destinada a eliminar a discriminaç
 política (conjunto de medidas) não está "elencado" no parágrafo, não há uma lista de medidas.
 Questão incorreta.
 
-Item. 56. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 53.
+56. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 53.
 
 Conforme o terceiro parágrafo do texto, a convenção pretende implementar medidas que
 acabem com a prática da prostituição e alterem os padrões de conduta da sociedade em geral
@@ -7419,11 +7177,9 @@ de "exploração". Contudo, em algumas questões o CEBRASPE não considera detal
 Além disso, não é a Convenção que implementa, mas sim os países signatários. Questão
 incorreta.
 
-Item. 57. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
-
+57. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Imagine uma operação de busca na selva. Sem mapas, binóculos ou apoio logístico;
 somente com um facão. Assim eram feitas as operações de combate à pornografia infantil pela
@@ -7470,7 +7226,7 @@ Comentários:
 Sim. O texto diz, expressamente até, que o programa foi criado para acelerar essa busca, que
 antes era feita de maneira muito "rudimentar", "pouco desenvolvida". Questão correta.
 
-Item. 58. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão anterior.
+58. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão anterior.
 
 Um dos benefícios do Nudetective para a Polícia Federal é tornar mais célere a investigação de
 crimes relacionados à pornografia infantil.
@@ -7483,11 +7239,9 @@ O programa executa em minutos uma busca que poderia levar meses
 
 Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 59. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
+59. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
 
 O primeiro parágrafo do texto informa que, antes da criação do Nudetective, a Polícia
 Federal
@@ -7501,7 +7255,7 @@ tecnológicos para a investigação", diz apenas que a investigação era feita 
 "braçal", figurativamente falando. O texto sugere que havia meios, mas não eram muito
 desenvolvidos, daí a metáfora do "facão". Questão incorreta.
 
-Item. 60. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
+60. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
 
 De acordo com o texto, diversos países da América e da Europa compraram a licença de uso do
 software criado pelos policiais federais do Mato Grosso do Sul, o que
@@ -7515,7 +7269,7 @@ A licença não é comprada, é gratuita:
 A licença de uso do software, que é programado em Java, é gratuita e só é disponibilizada
 para forças da lei e pesquisas acadêmicas. Questão incorreta.
 
-Item. 61. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
+61. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
 
 Conclui-se do texto que a varredura do Nudetective é restrita a dispositivos conectados
 à
@@ -7529,7 +7283,7 @@ um dispositivo ligado à internet.
 Para o teste, pegaram um HD com conteúdo já periciado e rodaram o programa. Questão
 incorreta.
 
-Item. 62. (CEBRASPE / SEFAZ-RS / 2018)
+62. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A1-I
 
@@ -7544,9 +7298,7 @@ cidade. Os menos afortunados entravam para o exército, com grandes chances de m
 uma guerra. Quem era rico escapava: mandava escravos para fazer o serviço sujo. Assim que
 surgiu a moeda, surgiu também a ideia de substituira contribuição braça! por dinheiro.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Era assim também no antigo Egito. As evidências indicam que, em 3.000 a.C., os faraós
 coletavam impostos em dinheiro ou em serviços pelo menos uma vez por ano. Ninguém era tão
@@ -7566,7 +7318,6 @@ deveriam cobrar de cada província. Os cálculos eram feitos com base no número
 hoje, a capacidade de cobrar impostos é diretamente proporcional à quantidade e à
 qualidade
 de informações disponíveis sobre os contribuintes.
-
 
 Depreende-se das informações do texto 1A1-I que
 
@@ -7598,7 +7349,7 @@ por sua vez, permitia que conquistassem e controlassem um território ainda maio
 OBS: Cuidado com a letra E, pois os egípcios cobravam impostos também em trabalho, não só
 em dinheiro. Gabarito letra C.
 
-Item. 63. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão anterior.
+63. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão anterior.
 
 Depreende-se do texto 1A1-I que, em 4.000 a.C.,
 
@@ -7609,9 +7360,7 @@ B) a moeda foi inventada, o que permitiu que o pagamento de impostos passasse a 
 feito
 exclusivamente com dinheiro.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 C) os povos da Mesopotâmia eram obrigados a trabalhar durante quase metade do ano para o
 rei.
@@ -7630,7 +7379,7 @@ produziam ao
 governo, os sumérios, um dos povos que viviam por ali, eram obrigados a passar até cinco meses
 por ano trabalhando para o Rei. Gabarito letra E.
 
-Item. 64. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão 62.
+64. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão 62.
 
 O texto 1A1-I caracteriza a economia do Império Romano como
 
@@ -7655,7 +7404,7 @@ isso, a conquista de outras terras e de povos dava aos romanos acesso a mais riq
 por sua vez, permitia que conquistassem e controlassem um território ainda maior. Gabarito letra
 A.
 
-Item. 65. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão 62.
+65. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão 62.
 
 Infere-se do texto 1A1-I que os impostos no antigo Egito eram
 
@@ -7675,11 +7424,9 @@ altos
 para estrangeiros..." (1.12-13). Ora, se eram "mais altos para os estrangeiros", isso implica dizer
 que os nativos também pagavam impostos, só que mais baixos. Gabarito letra C.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 66. (CEBRASPE / SEFAZ-RS / 2018)
+66. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A1-II
 
@@ -7720,7 +7467,7 @@ Comentários:
 Literal dos trechos "sua quitação é um requisito para o licenciamento" e "O não pagamento do
 IPVA implica multa e impede a realização do licenciamento". Gabarito letra D.
 
-Item. 67. (CEBRASPE / SEFAZ-RS / 2018)
+67. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A2-I
 
@@ -7740,9 +7487,7 @@ Desde o estabelecimento das Nações Unidas, um de seus objetivos fundamentais t
 promover e encorajar o respeito aos direitos humanos para todos, conforme estipulado na Carta
 das Nações Unidas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. São
 universais, ou seja, são aplicados de forma igual e sem discriminação a todas as pessoas. São
@@ -7767,7 +7512,7 @@ Comentários:
 
 Diretíssima. Insuscetíveis de venda ou cessão é a definição de "inalienáveis". Gabarito letra B.
 
-Item. 68. (CEBRASPE / SEFAZ-RS / 2018)
+68. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A2-II
 
@@ -7805,9 +7550,7 @@ a época.
 A Ekklesia, assembleia grega, era um modelo de instituição política bastante restrito. Era um
 "embrião" do que veio a ser a democracia representativa na sociedade de massas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Robert A. Dahl. Sobre a democracia. Trad. Beatriz Sidou. Brasília: Editora Universidade de
 Brasília, 2001, p. 117 (com
@@ -7833,7 +7576,7 @@ Como o texto declara: a democracia é o governo do povo, governo
 caracterizado pela
 representatividade popular. Gabarito letra D.
 
-Item. 69. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão anterior.
+69. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão anterior.
 
 Da comparação entre democracia moderna e democracia grega estabelecida no texto 1A2-II
 infere-se que
@@ -7863,7 +7606,7 @@ qualquer coisa, evitar a tirania— pior forma de governo para a época"
 e instituições políticas sólidas, que representem os três poderes, só se tornou possível após a
 derrocada (queda) do Antigo Regime Absolutista... Gabarito letra D.
 
-Item. 70. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018)
+70. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018)
 
 Texto CG1A1-I
 
@@ -7874,9 +7617,7 @@ jornais, livros,
 programas de computadores, parques temáticos, salas de aula — deve pautar-se em quatro
 razões principais.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Mesmo que nem sempre possibilite ao cientista um bom emprego, a ciência pode ser o
 caminho propício para vencer a pobreza nas nações emergentes. Ela faz funcionar a economia e a
@@ -7929,7 +7670,7 @@ Comentários:
 Na linha 2, temos o trecho "que vise a transmitir a todos os cidadãos a ciência"...
 Transmitir a todos exige naturalmente ampla divulgação. Gabarito letra E.
 
-Item. 71. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão
+71. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão
 anterior.
 
 De acordo com o texto CG1A1-I, para a transmissão da ciência a todos os cidadãos é necessário
@@ -7938,9 +7679,7 @@ A) relativizar o rigor científico diante das condições da população.
 
 B) encorajar as opiniões não convencionais e o debate.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 C) eliminar as possibilidades de mau emprego.
 
@@ -7956,7 +7695,7 @@ esforço de
 debater criticamente opiniões opostas e "praticar hábitos rigorosos de pensar", uma outra forma
 de referência ao debate crítico. Gabarito letra B.
 
-Item. 72. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
+72. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
 
 No último parágrafo do texto CG1A1-I, o autor afirma que "Descobrir a gota ocasional
 da
@@ -7985,7 +7724,7 @@ convencionais", refere-se justamente a ideias que não são unânimes, são dive
 Convenções são justamente regras relativamente aceitas de forma homogênea. "Debate"
 também sugere a oposição de opiniões. Gabarito letra B.
 
-Item. 73. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
+73. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
 
 No texto CG1A1-I, o trecho "(embora muitos tenham sido sistematicamente impedidos de
 adquirir esse conhecimento)" (L. 17 a 18) está entre parênteses, como um acréscimo, para indicar
@@ -8005,9 +7744,7 @@ D) os padrões de evidência, honestidade e rigor não têm sido respeitados pel
 
 E) o acesso dos cidadãos ao conhecimento científico está fora da alçada da política democrática.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -8017,7 +7754,7 @@ as razões estão questões econômicas e políticas: pouco acesso à educação
 políticas
 públicas nesse sentido, pouca divulgação, etc... Gabarito letra B.
 
-Item. 74. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
+74. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
 
 De acordo com as ideias do texto CG1A1-I, o conhecimento acerca do contexto cósmico e do
 ponto do espaço e do tempo em que o ser humano está pode ser alcançado pela divulgação em
@@ -8047,7 +7784,7 @@ Alternativa literal do quarto parágrafo:
 dos
 destinos— de nossa espécie, da vida, de nosso planeta, do Universo." Gabarito letra A.
 
-Item. 75. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+75. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Texto 1A9AAA
 
@@ -8067,9 +7804,7 @@ O que pretendo fazer agora é apresentar ao leitor, por assim dizer, alguns diap
 filmes verbais dos lugares por onde passamos e das pessoas que encontramos, tudo assim à
 maneira impressionista, e sem rigorosa ordem cronológica.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Usei como título deste capítulo, dedicado a minhas viagens, uma expressão popular que
 suponho de origem gauchesca: mundo velho sem porteira. Tenho-a ouvido desde menino, da
@@ -8119,7 +7854,7 @@ Comentários:
 "sem porteiras" tem direta referência a ausência de separação entre os lugares e as pessoas.
 Gabarito letra D.
 
-Item. 76. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
+76. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
 
 Conclui-se do texto 1A9AAA que seu autor, no capítulo da obra de que tal texto faz parte,
 
@@ -8133,9 +7868,7 @@ acompanhado de sua esposa.
 C) apresenta fotografias e outros recursos imagéticos, a fim de cativar os leitores de seu livro de
 memórias.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 D) pondera sobre aspectos negativos de seu hábito contumaz de viajar, o que é denotado pela
 alusão a "demônio" (1.3).
@@ -8152,7 +7885,7 @@ narrativas
 escritas, de caráter subjetivo, das viagens que fez acompanhado de sua esposa". Gabarito letra
 B.
 
-Item. 77. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+77. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Texto 1A9BBB
 
@@ -8198,9 +7931,7 @@ C) ilustrar a influência da língua geral no vocabulário do português falado 
 D) destacar a importância da língua geral como fator de inclusão social dos habitantes da zona
 rural, apelidados de caipiras.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 E) comprovar que o caipira é fruto da miscigenação entre índios e portugueses.
 Comentários:
@@ -8212,7 +7943,7 @@ quer
 indicar a contribuição dessa língua geral no vocabulário do português falado no brasil. Gabarito
 letra C.
 
-Item. 78. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+78. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Texto 1A10AAA
 
@@ -8265,15 +7996,13 @@ D) menos regressiva.
 E) mais indireta.
 Comentários:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Segundo o autor, a carga tributária brasileira é regressiva demais (os ricos são menos tributados,
 em termos proporcionais, porque o consumo é tributado em excesso). Então, defende uma
 menor regressividade. Gabarito letra D.
 
-Item. 79. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
+79. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
 
 No texto 1A10AAA, o autor defende a ideia de que o desenvolvimento econômico é
 
@@ -8296,7 +8025,7 @@ segundo o autor.
 
 Gabarito letra A.
 
-Item. 80. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+80. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Texto 1A10BBB
 
@@ -8329,9 +8058,7 @@ Por meio de ações corretivas dos poderes públicos e do estabelecimento de dir
 relativos à assistência social, à educação, ao trabalho, ao lazer, à saúde, à cultura e ao esporte,
 por exemplo, procurou-se promover uma igualdade material, ou seja, o tratamento equânime de
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 todos os seres humanos, bem como a sua equiparaçao no que diz respeito às possibilidades de
 concessão de oportunidades.
@@ -8367,7 +8094,7 @@ quanto mais justiça tributária (distribuição equânime de renda), menor a de
 social.
 Gabarito letra D.
 
-Item. 81. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
+81. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
 
 No texto 1A10BBB, a argumentação especificamente em defesa de uma reforma do sistema
 tributário brasileiro está explícita no
@@ -8395,11 +8122,9 @@ Nesse
 sentido, o imposto sobre a renda das pessoas físicas é o maior responsável por fazer avançar ou
 retroceder a capacidade econômica e, por consequência, a solidariedade social. Gabarito letra E.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 82. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
+82. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
 
 Texto CB3A1AAA
 
@@ -8432,7 +8157,7 @@ Comentários:
 Não se confundem, são diferentes. Segundo o texto, um foca na obtenção e análise de
 informação. Outro foca na proteção de dados sensíveis. Questão incorreta.
 
-Item. 83. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
+83. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
 
 Texto CB3A1BBB
 
@@ -8460,9 +8185,7 @@ Inteligência, n.° W, 2015, p.
 
 25-6 (com adaptações).
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O texto aponta que, embora haja consenso entre os países acerca da definição do que vem a ser
 espionagem, a criminalização dessa conduta não é universal, a exemplo do caso brasileiro, país
@@ -8474,7 +8197,7 @@ O texto, na verdade, aponta que a conduta da "espionagem" é criminalizada pela 
 cada país, sugerindo que os países como um todo a criminalizam, de forma universal. Também
 não foi dito no texto que a definição de espionagem é consensual. Questão incorreta.
 
-Item. 84. (CEBRASPE / ABIN / OFICIAL DE INTELIGÊNCIA / 2018)
+84. (CEBRASPE / ABIN / OFICIAL DE INTELIGÊNCIA / 2018)
 
 Texto CB1A1AAA
 
@@ -8514,7 +8237,7 @@ expressamente
 "convivemos com a guerra há, muito tempo, embora de maneira não perceptível. Questão
 incorreta.
 
-Item. 85. (CEBRASPE / ABIN / OFICIAL DE INTELIGÊNCIA / 2018) Utilizar texto da questão anterior.
+85. (CEBRASPE / ABIN / OFICIAL DE INTELIGÊNCIA / 2018) Utilizar texto da questão anterior.
 
 Depreende-se do texto que a guerra secreta é o mais complexo dos conflitos porque é um jogo
 estratégico de poder, de interesses e de influência que se desenvolve em um espaço específico:
@@ -8523,9 +8246,7 @@ acordos sem validade.
 
 Comentários:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A questão reproduz o conteúdo das linhas 12-15: Trata-se do mais complexo dos conflitos, pois
 ocorre nas sombras, nos bastidores do poder, identificando propagandas enganosas,
@@ -8544,7 +8265,7 @@ são
 "encenados", ou seja, não valem nada porque não serão cumpridos, não têm validade prática,
 efetividade. Contudo, não foi assim que a banca entendeu. Questão incorreta.
 
-Item. 86. (CEBRASPE / PC-SE / DELEGADO / 2018)
+86. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 A existência da polícia se justifica pela imprescindibiUdade dessa agência de segurança para
 a viabilidade do poder de coerção estatal. Em outras palavras, como atestam clássicos
@@ -8586,11 +8307,9 @@ faz outras ressalvas, como a atuação democrática. Portanto, por mais controve
 possa
 parecer, o item está incorreto. Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 87. (CEBRASPE / PC-SE / DELEGADO / 2018) Utilizar texto da questão anterior.
+87. (CEBRASPE / PC-SE / DELEGADO / 2018) Utilizar texto da questão anterior.
 
 Por ser o único modelo de policiamento que tem na participação social um de seus componentes
 centrais, o policiamento comunitário garante a real participação dos membros da população na
@@ -8603,7 +8322,7 @@ parte está correta, porém não podemos afirmar que o policiamento comunitário
 real participação da população. Ela apenas a prevê como elemento central, mas não há garantia.
 Questão incorreta.
 
-Item. 88. (CEBRASPE / PC-SE / DELEGADO / 2018)
+88. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 O Departamento de Atendimento a Grupos Vulneráveis (DAGV) da Polícia Civil de Sergipe
 atende a um público específico, que frequentemente se torna vítima de diversos tipos de
@@ -8629,14 +8348,12 @@ Alojar? De forma algum. O DAGV não é alojamento rs... É uma delegacia especia
 que
 atende a certos grupos, mas não os hospeda. Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LISTA DE QUESTõES - CoMPREENSÃo E INTERPRETAçÃo -
 CEBRASPE
 
-Item. 1. (CEBRASPE / PETROBRAS / 2022)
+1. (CEBRASPE / PETROBRAS / 2022)
 
 O uso de ferramentas certamente não requer linguagem. Chimpanzés usam galhos como
 ferramentas para caçar cupins, ou pedras para quebrar nozes. Obviamente, mesmo
@@ -8648,7 +8365,7 @@ que essas pedras não pudessem ter sido produzidas sem linguagem.
 O uso do advérbio "Obviamente" desempenha importante papel na argumentação apresentada
 no texto, realçando uma informação que já é tomada como conhecimento geral.
 
-Item. 2. (CEBRASPE / PETROBRÁS / 2022)
+2. (CEBRASPE / PETROBRÁS / 2022)
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é terra de ninguém". Tal
 afirmativa não é de hoje, mas ainda alimenta uma sensação de impunidade ou de falsa
@@ -8671,7 +8388,7 @@ A palavra "Agora", no início do último período, introduz no texto um marco
 temporal,
 correspondendo, em sentido, a Atualmente.
 
-Item. 3. (CEBRASPE / PETROBRÁS / 2022)
+3. (CEBRASPE / PETROBRÁS / 2022)
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é terra de ninguém". Tal
 afirmativa não é de hoje, mas ainda alimenta uma sensação de impunidade ou de falsa
@@ -8688,13 +8405,12 @@ prejulgamento nas redes sociais. Belo Horizonte, MG: Letramento, 2021, p. 36 (co
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 No que se refere às ideias, aos sentidos e às construções linguísticas do texto precedente, assim
 como a sua tipologia, julgue o item a seguir.
 
 No texto, predomina o tipo textual dissertativo-argumentativo.
 
-Item. 4. (CEBRASPE / PETROBRÁS / 2022)
+4. (CEBRASPE / PETROBRÁS / 2022)
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é terra de ninguém". Tal
 afirmativa não é de hoje, mas ainda alimenta uma sensação de impunidade ou de falsa
@@ -8716,7 +8432,7 @@ No texto, as frases 'compartilhei fake news de alguém' e 'cometi um crime contr
 honra' são
 consideradas equivalentes, já que o compartilhamento de fake news pode ser crime.
 
-Item. 5. (CEBRASPE / PETROBRÁS / 2022)
+5. (CEBRASPE / PETROBRÁS / 2022)
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna, em que Platão,
 utilizando-se de linguagem alegórica, discute o processo pelo qual o ser humano pode passar da
@@ -8749,9 +8465,7 @@ Em relação às ideias, aos sentidos e aspectos linguísticos do texto preceden
 o item
 subsecutivo.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No que se refere às ideias, aos sentidos e às construções linguísticas do texto precedente, assim
 como a sua tipologia, julgue o item a seguir.
@@ -8761,7 +8475,7 @@ acredita que pessoas que operam sua vivência unicamente a partir de redes socia
 vivem de
 aparências, que tais pessoas não conhecem a Verdade.
 
-Item. 6. (CEBRASPE / PETROBRÁS / 2022)
+6. (CEBRASPE / PETROBRÁS / 2022)
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é terra de ninguém". Tal
 afirmativa não é de hoje, mas ainda alimenta uma sensação de impunidade ou de falsa
@@ -8783,7 +8497,7 @@ como a sua tipologia, julgue o item a seguir.
 Infere-se do emprego do trecho "um estrangeirismo que mascara diversos crimes" (terceiro
 período) que há outros estrangeirismos que não mascaram crimes ou a eles se associam.
 
-Item. 7. (CEBRASPE / PETROBRÁS / 2022)
+7. (CEBRASPE / PETROBRÁS / 2022)
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna, em que Platão,
 utilizando-se de linguagem alegórica, discute o processo pelo qual o ser humano pode passar da
@@ -8811,9 +8525,7 @@ virtuoso. Aquele que conhece a justiça não pode deixar de agir de modo justo.
 Danilo Marcondes. Textos básicos de ética: de Platão a Foucault. 1a ed. Rio de Janeiro: Jahar,
 2007, p. 31 (com
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 adaptações).
 
@@ -8825,7 +8537,7 @@ Dado o fato de o vocábulo "mas", em sua primeira ocorrência no segundo períod
 parágrafo, ter sido empregado com sentidos adversativo, de oposição, os sentidos originais do
 texto seriam mantidos caso ele fosse substituído por porém.
 
-Item. 8. (CEBRASPE / PETROBRÁS / 2022)
+8. (CEBRASPE / PETROBRÁS / 2022)
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna, em que Platão,
 utilizando-se de linguagem alegórica, discute o processo pelo qual o ser humano pode passar da
@@ -8866,7 +8578,7 @@ trecho "falsa
 responsabilidade do que é postado ou compartilhado" (segundo período) poderia ser substituído
 por falsa responsabilidade do que se posta ou se compartilha.
 
-Item. 9. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+9. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 "Desprezo o que dizes, mas defenderei até a morte o teu direito a dizê-lo." É com
 essa
@@ -8875,9 +8587,7 @@ ensaio sobre Uberdade de expressão. A Uberdade de expressão — entendida em s
 em que se incluem a palavra escrita, as peças teatrais, os filmes, os vídeos, as fotografias, os
 cartuns, as pinturas, entre outros — é um direito consagrado no artigo 19.° da Declaração
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Universal dos Direitos do Homem, de 1948. A liberdade de expressão é particularmente valiosa
 em uma sociedade democrática, ao ponto de haver quem sustente que, na ausência de uma
@@ -8899,7 +8609,7 @@ seguinte.
 Segundo Ronald Dworkin, a ampla liberdade de expressão subjaz à existência de um governo
 legítimo e democrático.
 
-Item. 10. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+10. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 A primeira celebração do Dia Mundial da Segurança dos Alimentos das Nações Unidas, que
 ocorreu em 7 de junho de 2019, tinha como objetivo fortalecer os esforços para 4 garantir que os
@@ -8930,11 +8640,9 @@ perde em produtividade, e o da saúde, que necessita despender altos valores na
 recuperação
 das pessoas contaminadas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 11. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020) Utilize o texto da questão
+11. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020) Utilize o texto da questão
 anterior.
 
 Acerca das ideias, dos sentidos e dos aspectos linguísticos do texto precedente, julgue o item
@@ -8943,7 +8651,7 @@ seguinte.
 Embora seja um problema mundial, a contaminação dos alimentos ocorre de forma mais severa
 nos países do continente americano, de acordo com o texto.
 
-Item. 12. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+12. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Entre todos os fatores técnicos da mobilidade, um papel particularmente
 importante foi
@@ -8969,7 +8677,7 @@ A "rede mundial de computadores" a que o autor se refere na linha 9 do texto
 corresponde à
 Internet.
 
-Item. 13. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+13. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Sozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes, na fuga,
 pairava ofegante num beira! de telhado e enquanto o rapaz galgava outros com dificuldade tinha
@@ -8985,18 +8693,16 @@ O trecho "enquanto o rapaz galgava outros com dificuldade" (1o parágrafo) mostr
 havia
 uma perseguição à galinha pelos telhados da casa.
 
-Item. 14. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão anterior.
-
+14. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão anterior.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O trecho "Sua única vantagem é que havia tantas galinhas que morrendo uma surgiria no mesmo
 instante outra tão igual como se fora a mesma" (2o parágrafo) nos remete à ideia de
 que a
 personagem já estava certa de sua morte e substituição.
 
-Item. 15. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+15. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Estúpida, tímida e livre. Não vitoriosa como seria um galo em fuga. Que é que havia nas suas
 vísceras que fazia dela um ser? A galinha é um ser.
@@ -9004,7 +8710,7 @@ vísceras que fazia dela um ser? A galinha é um ser.
 As palavras que formam a frase "Estúpida, tímida e livre" (2o parágrafo) qualificam o ser que é o
 tema do texto: a galinha.
 
-Item. 16. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+16. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Em qualquer tempo ou lugar, a vida social é sempre marcada por rituais. Essa afirmação pode ser
 inesperada para muitos, porque tendemos a negar tanto a existência quanto a importância dos
@@ -9027,24 +8733,22 @@ dia com uma conotação de fenômeno formal e arcaico.
 A acepção de ritual empregada nos dois primeiros períodos do texto afasta-se, segundo a
 autora, do sentido corrente dessa palavra, explorado no restante do texto.
 
-Item. 17. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão anterior.
+17. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão anterior.
 
 Depreende-se do trecho "Tudo se passa como se nós, modernos, guiados pela livre
 vontade,
 estivéssemos liberados desse fenômeno do passado" (L. 11 a 12) que a autora, ao se declarar
 moderna, repudia o que pertence ao passado.
 
-Item. 18. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão 16.
+18. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020) Utilizar texto da questão 16.
 
 O texto defende que, em uma manifestação social, o ritual é a dimensão que mais contribui para
 a transmissão dos valores e conteúdos implicados nessa manifestação.
 
-Item. 19. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
+19. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
 Texto CG1A1-II
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Segundo a Lei Geral de Proteção de Dados (Lei n.° 13.709/2018), dados pessoais são
 informações que podem identificar alguém. Dentro desse conceito, foi criada uma categoria
@@ -9093,7 +8797,7 @@ mais adequada.
 
 E) o Brasil é pioneiro na edição de uma lei acerca da coleta e do uso de dados sensíveis.
 
-Item. 20. (CEBRASPE / SEFAZ-AL / AUDITOR / 2020)
+20. (CEBRASPE / SEFAZ-AL / AUDITOR / 2020)
 
 É uma loja grande e escura no centro da cidade, uma quadra distante da estação de
 trem.
@@ -9106,9 +8810,7 @@ me perco enquanto a atravesso e sou por ela atravessado. Tem meia dúzia de aten
 conheço dois ou três 13 pelo nome, e o dono do lugar é sempre simpático comigo.
 Sabe que
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 gosto do seu negócio, que, se me mudasse de novo para lá, seria seu freguês. Mas também sei
 que me vê como um tipo que há vinte anos vive na capital, que a essa altura é mais
@@ -9130,7 +8832,7 @@ seguir.
 O texto evidencia o sentimento ambíguo de nostalgia e de deslocamento do autor em relação à
 sua cidade natal.
 
-Item. 21. (CEBRASPE / SEFAZ-RS-Auditor Fiscal - 2019)
+21. (CEBRASPE / SEFAZ-RS-Auditor Fiscal - 2019)
 Texto 1A1-I
 
 O direito tributário brasileiro depara-se com grandes desafios, principalmente em tempos
@@ -9170,9 +8872,7 @@ Só assim o país recuperará o poder da economia e poderá utilizar essa recupe
 condição para intensificar a integração com outros países e para participar mais ativamente da
 globalização.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 André Pereira. Os desafios do direito tributário brasileiro. In: DCI - Diário Comércio,
 Indústria e Serviços. 2/mar./2017. Internet: <www.dci.com.br> (com adaptações).
@@ -9197,7 +8897,7 @@ e) o conflito fiscal propiciado pelo ICMS, a competitividade gerada pela
 interdependência dos
 estados e o afinamento com outros sistemas tributários.
 
-Item. 22. (CEBRASPE / SEFAZ-RS-Auditor Fiscal - 2019) Utilize o texto da questão anterior.
+22. (CEBRASPE / SEFAZ-RS-Auditor Fiscal - 2019) Utilize o texto da questão anterior.
 
 Infere-se das ideias do texto 1A1-I que o autor é contrário
 a) ao modelo tributário europeu.
@@ -9209,7 +8909,7 @@ d) à competência estadual para o ICMS.
 
 e) aos padrões tributários do mundo globalizado.
 
-Item. 23. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+23. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 Desde os alvores da democracia ateniense, são sobejamente conhecidas as suas relações com a
 argumentação e a retórica. Porém, tal como a retórica e a argumentação podem ser postas ao
@@ -9220,7 +8920,7 @@ No texto, sugere-se que a liberdade de expressão pode ser usada em favor da men
 e da
 manipulação.
 
-Item. 24. (CEBRASPE / PGE-PE / Ana. Judiciário de Procuradoria / 2019)
+24. (CEBRASPE / PGE-PE / Ana. Judiciário de Procuradoria / 2019)
 
 Texto CB2A1-1
 
@@ -9232,9 +8932,7 @@ fogo, o início da agricultura e do pastoreio na Mesopotâmia, a organização d
 democracia na
 Grécia, as grandes descobertas científicas e geográficas entre os séculos XII e XVI, o advento da
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 sociedade industrial no século XIX, tudo isso representa saltos de época, que
 desorientaram
@@ -9276,17 +8974,17 @@ Federico Carotti. São Paulo: Objetiva, 2017, p. 93-4 (com adaptações).
 Infere-se do texto que a desorientação das gerações, em épocas específicas, promove uma
 radical e simultânea alteração no escopo do trabalho, da riqueza, do poder e do saber humano.
 
-Item. 25. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019) Utilizar texto da questão anterior.
+25. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019) Utilizar texto da questão anterior.
 
 De acordo com o texto, as sociedades deste século vivenciaram a substituição da agricultura e, a
 partir disso, passaram a se submeter ao controle dos proprietários de veículos de informação.
 
-Item. 26. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019) Utilizar texto da questão 24.
+26. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019) Utilizar texto da questão 24.
 
 Conclui-se do último parágrafo do texto que o sentimento de crise provocado pela sensação de
 desorientação favorece um futuro prejudicial ao próprio sujeito em crise.
 
-Item. 27. (CEBRASPE / PRF / POLICIAL / 2019)
+27. (CEBRASPE / PRF / POLICIAL / 2019)
 
 A vida humana só viceja sob algum tipo de luz, de preferência a do sol, tão óbvia
 quanto essencial. Somos animais diurnos, por mais que boêmios da pá virada e vampiros
@@ -9295,9 +8993,7 @@ geral discordem dessa afirmativa. Poucas vezes a gente pensa nisso, do mesmo jei
 ser poucas as pessoas que acordam se sentindo primatas, mamíferos ou terráqueos, outros
 rótulos que nos cabem por força da natureza das coisas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A humanidade continua se aperfeiçoando na arte de afastaras trevas noturnas de todo
 habitat humano. Luz soa para muitos como sinônimo de civilização, e pode-se observar do
@@ -9328,13 +9024,13 @@ Infere-se do primeiro parágrafo do texto que "boêmios da pá virada e vampiros
 biologicamente dos seres humanos em geral, os quais tendem a desempenhar a maior parte de
 suas atividades durante a manhã e a tarde.
 
-Item. 28. (CEBRASPE / PRF / POLICIAL / 2019) Utilizar texto da questão anterior.
+28. (CEBRASPE / PRF / POLICIAL / 2019) Utilizar texto da questão anterior.
 
 É correto inferir do trecho "o homem da luz já deve ter se transferido para o mundo das trevas
 eternas" (L 21 e 22) que provavelmente o funcionário responsável pelo acionamento da
 iluminação urbana já morreu.
 
-Item. 29. (CEBRASPE / PGE-PE / Ana. Judiciário de Procuradoria / 2019)
+29. (CEBRASPE / PGE-PE / Ana. Judiciário de Procuradoria / 2019)
 
 A própria palavra "crise" é bem mais a expressão de um movimento do espírito que de um
 juízo fundado em argumentos extraídos da razão ou da experiência. Não há período
@@ -9355,9 +9051,7 @@ princípios fundamentais) ou de outras causas, econômicas, sociais, políticas,
 ou até
 mesmo biológicas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Norberto Bobbio. Elogio da serenidade e outros escritos morais. Trad. Marco Aurélio
 Nogueira. São Pau lo: Editora
@@ -9367,7 +9061,7 @@ Para o autor do texto, todo período histórico que se tornou passado se caracte
 como um
 período de crise moral.
 
-Item. 30. (CEBRASPE / PGE-PE / Ana. Judiciário de Procuradoria / 2019)
+30. (CEBRASPE / PGE-PE / Ana. Judiciário de Procuradoria / 2019)
 
 Como período e como crise, a época atual mostra-se, aliás, como coisa nova. Como período,
 as suas variáveis características instalam-se em toda parte e a tudo influenciam,
@@ -9397,12 +9091,12 @@ Record, 2017, p. 34-6 (com adaptações).
 Infere-se do texto que, na atualidade, é imposto um comportamento hegemônico e uniforme
 para lidar com diferentes situações de crise no mundo.
 
-Item. 31. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019) Utilizar texto da questão anterior.
+31. (CEBRASPE / PGE-PE / ANALISTA JUDICIÁRIO / 2019) Utilizar texto da questão anterior.
 
 Conclui-se do último parágrafo do texto que a verdadeira crise não será resolvida enquanto os
 esforços persistirem centralizados na resolução da crise financeira.
 
-Item. 32. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019)
+32. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019)
 
 O modelo econômico de produção capitalista, aperfeiçoado pelos avanços científicos e
 tecnológicos que, por sua vez, proporcionaram a reestruturação da produção e a Terceira
@@ -9420,9 +9114,7 @@ atividade econômica. A sociedade requer das organizações uma nova configuraç
 econômica, pautada na ética e na responsabilidade para com a sociedade e o meio ambiente, a
 fim de minimizar problemas sociais como concentração de renda, precarização das relações de
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 trabalho e falta de direitos básicos como educação, saúde e moradia, agravados, entre
 outros
@@ -9439,13 +9131,13 @@ De acordo com o texto, o quadro de concentração de renda, de precarização da
 trabalho e de falta de direitos básicos como educação, saúde e moradia é resultado da
 negligência estatal com relação às necessidades da população.
 
-Item. 33. (CEBRASPE / PGE-PE / Conhecimentos Básicos 1, 2, 3 e 4 / 2019) Utilizar texto da questão
+33. (CEBRASPE / PGE-PE / Conhecimentos Básicos 1, 2, 3 e 4 / 2019) Utilizar texto da questão
 anterior.
 
 Conforme o texto, a Terceira Revolução Industrial foi o evento histórico responsável por
 transformar o empregado em simples mercadoria do processo de produção.
 
-Item. 34. (CEBRASPE / PGE-PE / Conhecimentos Básicos 1, 2, 3 e 4 / 2019)
+34. (CEBRASPE / PGE-PE / Conhecimentos Básicos 1, 2, 3 e 4 / 2019)
 
 O desejo por igualdade em nossos dias, ensejado pela Declaração dos Direitos do Homem e
 do Cidadão, marco da modernidade, segundo Axel Honneth, advém de uma busca
@@ -9478,17 +9170,15 @@ O desejo de igualdade entre os indivíduos, manifesto a partir da criação da D
 dos
 Direitos do Homem e do Cidadão, impulsionou a busca por autorrespeito.
 
-Item. 35. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019) Utilizar texto da
+35. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019) Utilizar texto da
 questão anterior.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O texto indica que, de acordo com Axel Honneth, o conflito motiva o reconhecimento dos
 sujeitos de direito, o que é condição básica para a preservação da sociedade.
 
-Item. 36. (CEBRASPE / PRF / POLICIAL / 2019)
+36. (CEBRASPE / PRF / POLICIAL / 2019)
 
 As atividades pertinentes ao trabalho relacionam-se intrinsecamente com a satisfação das
 necessidades dos seres humanos — alimentar-se, proteger-se do frio e do calor, ter o que calçar
@@ -9515,7 +9205,7 @@ Thiago de Mello. Trabalho. Internet: <educacao.globo.com> (com adaptações).
 Conclui-se do texto que, devido à abundância de recursos, nas sociedades tribais os indivíduos
 não têm necessidade de separar as práticas laborais das outras atividades sociais.
 
-Item. 37. (CEBRASPE / PRF / POLICIAL / 2019)
+37. (CEBRASPE / PRF / POLICIAL / 2019)
 
 O nome é o nosso rosto na multidão de palavras. Delineia os traços da imagem que
 fazem de nós, embora não do que somos (no íntimo). Alguns escondem seus donos, outros lhes
@@ -9540,20 +9230,18 @@ João Anzanello Carrascoza. Homônimo. In: Diário das Coincidências. Ed. digit
 Objetiva, p. 52 (com
 adaptações).
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A afirmação de que alguns nomes põem nos olhos de seus donos "um azul que não possuem"
 (£.3) contradiz a ideia de que os nomes definem não as qualidades reais de cada um,
 mas o
 modo como os outros o veem.
 
-Item. 38. (CEBRASPE / PRF / POLICIAL / 2019) Utilizar texto da questão anterior.
+38. (CEBRASPE / PRF / POLICIAL / 2019) Utilizar texto da questão anterior.
 
 Infere-se que o autor do texto é espanhol.
 
-Item. 39. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+39. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Texto 1A11-1
 
@@ -9602,11 +9290,9 @@ do concerto.
 E) as peças de Pixis e Beethoven foram executadas de modo tão semelhante que o público não
 foi capaz de distingui-las.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 40. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019) Utilizar texto da questão anterior.
+40. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019) Utilizar texto da questão anterior.
 
 No texto 1A11-1, com o emprego da expressão "(hoje)" (L.2) entre parênteses, o autor
 
@@ -9620,7 +9306,7 @@ D) ressalta que se trata do dia do concerto de Franz Liszt.
 
 E) revela desprezo pela popularidade de Pixis em 1837.
 
-Item. 41. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+41. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Texto 1A3-I
 
@@ -9657,7 +9343,7 @@ D) ao estímulo do setor empresarial pela concessão de isenção do pagamento d
 
 E) ao crescimento da livre concorrência, com aumento dos impostos aplicados a empresas.
 
-Item. 42. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+42. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Texto 1A3-II
 
@@ -9667,9 +9353,7 @@ para
 que se alcance o bem comum. Desse modo, o poder de tributar está na origem do Estado ou do
 ente político, a partir da qual foi possível que as pessoas deixassem de viver no que Hobbes
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 definiu como o estado natural (ou a vida pré-política da humanidade) e passassem a constituir
 uma sociedade de fato, a geri-la mediante um governo, e a financiá-la, estabelecendo,
@@ -9699,7 +9383,7 @@ D) forma de submissão dos cidadãos ao Estado assemelhada a usurpação ou roub
 
 E) relação anterior à constituição do Estado e da própria sociedade.
 
-Item. 43. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
+43. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
 
 Texto CB1A1-I
 
@@ -9730,9 +9414,7 @@ bananas cozidas e um pote de margarina.
 — Cinco reais — ordenou Helenice, com a mão na garrafa térmica. — Só come se pagar.
 O homem pagou, sempre rindo da cara de Helenice, visivelmente bêbado.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Samuel invej ou o caminhoneiro. Nao tinha tanto dinheiro para comer naquele fim de tarde,
 fim de vida.
@@ -9752,7 +9434,7 @@ D) desigualdade explícita em todos os cantos do povoado.
 
 E) presença de pessoas mesquinhas e desgraçadas pelo povoado.
 
-Item. 44. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
+44. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
 
 Texto CB1A1-H
 
@@ -9797,11 +9479,9 @@ quando da sua inserção em um ambiente corrupto.
 E) o mau trabalho dos gestores públicos tem gerado, além de desperdício de dinheiro público,
 sobrecarga tributária e poucas perspectivas de vantagem para o povo.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 45. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019) Utilizar texto da questão anterior.
+45. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019) Utilizar texto da questão anterior.
 
 Depreende-se do texto CB1A1-II que os jardins suspensos construídos no império do rei
 Nabucodonosor representavam
@@ -9816,7 +9496,7 @@ D) a fertilidade do bioma local.
 
 E) a paisagem da pátria da rainha Meda.
 
-Item. 46. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
+46. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
 
 A modernidade é um contrato. Todos nós aderimos a ele no dia em que nascemos, e ele regula
 nossa vida até o dia em que morremos. Pouquíssimos entre nós são capazes de rescindi-lo ou
@@ -9839,7 +9519,7 @@ adaptações).
 Infere-se do texto que a modernidade impele o ser humano a tomar decisões com as quais ele
 não concorda.
 
-Item. 47. (CEBRASPE / TCE-PB-Auditor de Contas Públicas - 2018)
+47. (CEBRASPE / TCE-PB-Auditor de Contas Públicas - 2018)
 
 A história é uma disciplina definida por sua capacidade de lembrar. Poucos se lembram, porém,
 de como ela é capaz de esquecer. Há também quem caracterize a história como uma ciência da
@@ -9858,9 +9538,7 @@ Nessa lista seria possível mencionar os racismos, o feminicídio, a corrupção
 homofobia e o
 patrimonialismo.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Mas destaco aqui um tema que, de alguma maneira, dá conta de todos os demais: a
 nossa
@@ -9890,7 +9568,7 @@ d) recusa a definira desigualdade como "natural" (£.13).
 
 e) referência a escolhas "institucionais" (£.15).
 
-Item. 48. (CEBRASPE / MPU / ANALISTA / 2018)
+48. (CEBRASPE / MPU / ANALISTA / 2018)
 
 Texto CB1A1-H
 
@@ -9918,16 +9596,14 @@ No texto, a palavra minoria (I.5) refere-se aos grupos sociais marginalizados, e
 situação de
 maior vulnerabilidade social, tal qual a população das periferias, por exemplo.
 
-Item. 49. (CEBRASPE / MPU / ANALISTA / 2018) Utilizar texto da questão anterior.
+49. (CEBRASPE / MPU / ANALISTA / 2018) Utilizar texto da questão anterior.
 
 A história do Brasil é marcada por fatos cujos efeitos na sociedade até hoje contribuem para a
 manutenção de desigualdades.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 50. (CEBRASPE / MPU / TÉCNICO / 2018)
+50. (CEBRASPE / MPU / TÉCNICO / 2018)
 
 Texto CB2A1-1
 
@@ -9961,16 +9637,16 @@ Internet: <https://brasilescola.uol.com.br> (com adaptações).
 De acordo com o texto, a herança cultural repassada pelos pais contribui para que seus filhos
 desenvolvam uma visão etnocêntrica.
 
-Item. 51. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão anterior.
+51. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão anterior.
 
 Um dos principais desencadeadores do etnocentrismo é a xenofobia.
 
-Item. 52. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 42
+52. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 42
 
 A cultura é um fator que limita a concepção de mundo dos diferentes povos, levando-os a uma
 visão estreita das dimensões da vida humana.
 
-Item. 53. (CEBRASPE / MPU / TÉCNICO / 2018)
+53. (CEBRASPE / MPU / TÉCNICO / 2018)
 
 Texto CB2A1-H
 
@@ -9983,9 +9659,7 @@ A Convenção prevê que os Estados signatários adotem política destinada a el
 discriminação contra a mulher, entendida como "toda distinção, exclusão ou restrição baseada no
 sexo e que tenha por objeto ou resultado prejudicar ou anular o reconhecimento, gozo ou
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 exercício peta mulher, independentemente de seu estado civil, com base na
 igualdade do
@@ -10014,7 +9688,7 @@ O texto informa que, em 2002, entrou em vigor no Brasil o primeiro
 dispositivo legal para
 eliminação da discriminação contra a mulher.
 
-Item. 54. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão anterior.
+54. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão anterior.
 
 Depreende-se do texto que a cota eleitoral de sexo é um dos exemplos mais prósperos
 de ação
@@ -10022,13 +9696,13 @@ afirmativa implementada no Brasil, no que diz respeito à eliminação da
 discriminação contra a
 mulher.
 
-Item. 55. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 53.
+55. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 53.
 
 As medidas a que se refere o terceiro parágrafo estão elencadas no segundo
 parágrafo,
 especialmente no trecho "toda distinção (...) outro campo" (I.5-9).
 
-Item. 56. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 53.
+56. (CEBRASPE / MPU / TÉCNICO / 2018) Utilizar texto da questão 53.
 
 Conforme o terceiro parágrafo do texto, a convenção pretende implementar
 medidas que
@@ -10036,7 +9710,7 @@ acabem com a prática da prostituição e alterem os padrões de conduta da soci
 geral
 com relação à mulher.
 
-Item. 57. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
+57. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
 
 Imagine uma operação de busca na selva. Sem mapas, binóculos ou apoio
 logístico;
@@ -10057,9 +9731,7 @@ vídeo através de sua hash ou sua assinatura digital. Logo nos primeiros testes
 detecção de
 imagens apresentou mais de 90% de acerto.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Para o teste, pegaram um HD com conteúdo já periciado e rodaram o
 programa.
@@ -10096,19 +9768,19 @@ Infere-se do texto que o Nudetective foi desenvolvido especificamente para
 o combate à
 pornografia infantil.
 
-Item. 58. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão anterior.
+58. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão anterior.
 
 Um dos benefícios do Nudetective para a Polícia Federal é tornar mais célere a
 investigação de
 crimes relacionados à pornografia infantil.
 
-Item. 59. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
+59. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
 
 O primeiro parágrafo do texto informa que, antes da criação do Nudetective,
 a Polícia Federal
 não dispunha de dispositivos tecnológicos para a investigação de crimes de pedofilia na Internet.
 
-Item. 60. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
+60. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
 
 De acordo com o texto, diversos países da América e da Europa compraram a licença de
 uso do
@@ -10116,19 +9788,17 @@ software criado pelos policiais federais do Mato Grosso do Sul, o
 que demonstra o
 reconhecimento estrangeiro da qualidade do trabalho forense do Brasil.
 
-Item. 61. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
+61. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018) Utilizar texto da questão 57
 
 Conclui-se do texto que a varredura do Nudetective é restrita a dispositivos
 conectados à
 Internet.
 
-Item. 62. (CEBRASPE / SEFAZ-RS / 2018)
+62. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A1-!
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Peças de barro de 4.000 a.C. encontradas na Mesopotâmia são os documentos escritos mais
 antigos que conhecemos. E o mais antigo desses documentos faz referência aos
@@ -10174,7 +9844,6 @@ hoje, a capacidade de cobrar impostos é diretamente proporcional à quantidade
 e à qualidade
 de informações disponíveis sobre os contribuintes.
 
-
 Depreende-se das informações do texto 1A1-I que
 
 Internet: <https://super.abril.com.br> (com adaptações).
@@ -10193,7 +9862,7 @@ E) os egípcios e os sumérios passaram a cobrar dinheiro como pagamento de impo
 quando
 surgiu a moeda.
 
-Item. 63. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão anterior.
+63. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão anterior.
 
 Depreende-se do texto 1A1-I que, em 4.000 a.C.,
 
@@ -10205,9 +9874,7 @@ B) a moeda foi inventada, o que permitiu que o pagamento de impostos passasse a 
 feito
 exclusivamente com dinheiro.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 C) os povos da Mesopotâmia eram obrigados a trabalhar durante quase metade do ano
 para o
@@ -10221,7 +9888,7 @@ E) os alimentos produzidos pelos sumérios eram, em parte, entregues
 ao governo da
 Mesopotâmia.
 
-Item. 64. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão 62.
+64. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão 62.
 
 O texto 1A1-I caracteriza a economia do Império Romano como
 
@@ -10235,7 +9902,7 @@ D) agrícola.
 
 E) autossustentável.
 
-Item. 65. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão 62.
+65. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão 62.
 
 Infere-se do texto 1A1-I que os impostos no antigo Egito eram
 
@@ -10249,7 +9916,7 @@ D) estipulados pelos faraós.
 
 E) revertidos em benfeitorias.
 
-Item. 66. (CEBRASPE / SEFAZ-RS / 2018)
+66. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A1-II
 
@@ -10274,9 +9941,7 @@ imposto, com informações sobre o veículo, valores, datas, parcelas, formas de
 Com
 esse documento é possível quitar o IPVA, juntamente com o seguro obrigatório, e até fazer o
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 licenciamento antecipado. O não pagamento do IPVA implica multa e impede a
 realizaçao do
@@ -10296,7 +9961,7 @@ D) o pagamento integral do IPVA.
 
 E) a contratação do seguro obrigatório.
 
-Item. 67. (CEBRASPE / SEFAZ-RS / 2018)
+67. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A2-I
 
@@ -10345,13 +10010,11 @@ D) criados em prol de grupos sociais específicos.
 
 E) classificados em escalas de prioridade.
 
-Item. 68. (CEBRASPE / SEFAZ-RS / 2018)
+68. (CEBRASPE / SEFAZ-RS / 2018)
 
 Texto 1A2-II
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Nascida na Grécia, especificamente na cidade-Estado de Atenas, no período
 clássico, a
@@ -10419,7 +10082,7 @@ D) caracterizada pela representatividade popular.
 
 E) inviável em grupos sociais reduzidos.
 
-Item. 69. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão anterior.
+69. (CEBRASPE / SEFAZ-RS / 2018) Utilizar texto da questão anterior.
 
 Da comparação entre democracia moderna e democracia grega estabelecida no texto
 1A2-II
@@ -10431,9 +10094,7 @@ B) a democracia moderna é mais imperfeita do que era a democracia grega.
 
 C) ambas as democracias são pertinentes em qualquer contexto histórico.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 D) ambas as democracias caracterizam-se pelo propósito de proteger a sociedade contra
 regimes
@@ -10443,7 +10104,7 @@ E) a democracia moderna, à semelhança da grega, baseia-se na representatividad
 alcançada
 pelo sufrágio universal.
 
-Item. 70. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018)
+70. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018)
 
 Texto CG1A1-I
 
@@ -10516,15 +10177,13 @@ VII a.C.
 
 C) a ciência deve ser controlada por um pequeno e competente grupo de profissionais.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 D) a tecnologia, por seu largo alcance, alerta-nos contra futuros perigos.
 
 E) as descobertas e as formas de aprendizado da ciência devem ser amplamente divulgadas.
 
-Item. 71. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da
+71. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da
 questão
 anterior.
 
@@ -10540,7 +10199,7 @@ D) afastar a aprendizagem da ciência de questões políticas.
 
 E) distinguir os tópicos científicos de questões da economia.
 
-Item. 72. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
+72. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
 
 No último parágrafo do texto CG1A1-I, o autor afirma que "Descobrir a gota
 ocasional da
@@ -10560,7 +10219,7 @@ D) exige métodos que se contrapõem aos valores da democracia.
 
 E) necessita de um grupo de profissionais altamente qualificados capaz de prevenir erros.
 
-Item. 73. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
+73. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
 
 No texto CG1A1-I, o trecho "(embora muitos tenham sido sistematicamente
 impedidos de
@@ -10584,11 +10243,9 @@ D) os padrões de evidência, honestidade e rigor não têm sido respeitados pel
 
 E) o acesso dos cidadãos ao conhecimento científico está fora da alçada da política democrática.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 74. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
+74. (CEBRASPE / TCE-MG / CONHECIMENTOS GERAIS / 2018) Utilizar texto da questão 70.
 
 De acordo com as ideias do texto CG1A1-I, o conhecimento acerca do contexto cósmico e
 do
@@ -10613,7 +10270,7 @@ D) Apenas os itens II e III estão certos.
 
 E) Todos os itens estão certos.
 
-Item. 75. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+75. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Texto 1A9AAA
 
@@ -10663,9 +10320,7 @@ famintos, uns com
 terra demais, outros sem terra nenhuma. Em suma, o que o Velho queria mesmo era um
 mundo
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 que fosse de todo mundo. É neste sentido que desejo seja interpretada a frase que
 encabeça
@@ -10706,7 +10361,7 @@ E) romper com uma visão religiosa conservadora segundo a qual o mundo não
 deve ser
 adulterado pelo homem.
 
-Item. 76. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
+76. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
 
 Conclui-se do texto 1A9AAA que seu autor, no capítulo da obra de que tal texto faz parte,
 
@@ -10728,7 +10383,7 @@ alusão a "demônio" (I.3).
 
 E) reflete sobre a ideia de procurar novos horizontes a fim de entender melhor o próprio passado.
 
-Item. 77. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+77. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Texto 1A9BBB
 
@@ -10741,9 +10396,7 @@ mas em uma língua de origem indígena, derivada do tupi e chamada língua bras�
 brasiliana
 ou, mais comumente, geral.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No Brasil colônia, coexistiam duas versões de língua geral: a amazônica, ou nheengatu,
 ainda hoje empregada por cerca de oito mH pessoas, e a paulista, que desapareceu, não
@@ -10793,7 +10446,7 @@ rural, apelidados de caipiras.
 
 E) comprovar que o caipira é fruto da miscigenação entre índios e portugueses.
 
-Item. 78. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+78. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Texto 1A10AAA
 
@@ -10821,9 +10474,7 @@ competitividade para as empresas, geração de empregos, diminuição da inflaç
 indução do
 crescimento econômico.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Com a redução da carga tributária sobre o consumo, todos ganham: a população de baixa
 e
@@ -10860,7 +10511,7 @@ D) menos regressiva.
 
 E) mais indireta.
 
-Item. 79. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
+79. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
 
 No texto 1A10AAA, o autor defende a ideia de que o desenvolvimento econômico é
 
@@ -10874,7 +10525,7 @@ D) inviável com a diminuição da arrecadação pública.
 
 E) promovido com a diminuição da arrecadação pública.
 
-Item. 80. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+80. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 Texto 1A10BBB
 
@@ -10893,9 +10544,7 @@ diminuição da mortalidade infantil e do analfabetismo; a melhoria na
 expectativa de vida; o
 aumento do número de jovens nas escolas, entre outros.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No mundo, a busca pelo tratamento igual já estava presente desde antes da Revolução
 Francesa, mas, a partir dela, a luta por um tratamento equânime entre as pessoas não
@@ -10955,7 +10604,7 @@ D) Justiça tributária e desigualdade social relacionam-se de modo inversamente
 
 E) A desigualdade social é um dos obstáculos à justiça social.
 
-Item. 81. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
+81. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018) Utilizar texto da questão anterior.
 
 No texto 1A10BBB, a argumentação especificamente em defesa de uma reforma do
 sistema
@@ -10971,11 +10620,9 @@ D) quarto parágrafo.
 
 E) último parágrafo.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 82. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
+82. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
 
 Texto CB3A1AAA
 
@@ -11013,7 +10660,7 @@ O escopo do trabalho da inteligência se confunde com o da contrainteligência,
 embora sejam
 duas facetas da atividade de inteligência.
 
-Item. 83. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
+83. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
 
 Texto CB3A1BBB
 
@@ -11048,11 +10695,9 @@ espionagem, a criminalização dessa conduta não é universal, a exemplo do cas
 brasileiro, país
 onde o acusado de espionagem é sentenciado à morte apenas em situações extremas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 84. (CEBRASPE / ABIN / OFICIAL DE INTELIGÊNCIA / 2018)
+84. (CEBRASPE / ABIN / OFICIAL DE INTELIGÊNCIA / 2018)
 
 Texto CB1A1AAA
 
@@ -11098,7 +10743,7 @@ Para o autor do texto, há muito tempo o mundo encontra-se em uma guerra
 cuja intensidade
 aumenta a cada ciclo histórico e cujos efeitos já estão bem divulgados.
 
-Item. 85. (CEBRASPE / ABIN / OFICIAL DE INTELIGÊNCIA / 2018) Utilizar texto da questão anterior.
+85. (CEBRASPE / ABIN / OFICIAL DE INTELIGÊNCIA / 2018) Utilizar texto da questão anterior.
 
 Depreende-se do texto que a guerra secreta é o mais complexo dos conflitos porque é
 um jogo
@@ -11108,7 +10753,7 @@ nos bastidores do poder político internacional, onde governos semeiam inverdade
 e encenam
 acordos sem validade.
 
-Item. 86. (CEBRASPE / PC-SE / DELEGADO / 2018)
+86. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 A existência da polícia se justifica pela imprescindibilidade dessa agência de segurança
 para
@@ -11132,9 +10777,7 @@ necessariamente, a discussão sobre o desenvolvimento do policiamento comunitár
 o único
 modelo de policiamento que define a participação social como um de seus componentes
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 centrais. Para analisar essa participação, é preciso verificar se a ação promovida pelo
 modelo de
@@ -11150,7 +10793,7 @@ De acordo com o texto, a polícia atua a serviço do Estado democrático,
 assegurando tanto o
 poder de coerção como a manutenção do Estado.
 
-Item. 87. (CEBRASPE / PC-SE / DELEGADO / 2018) Utilizar texto da questão anterior.
+87. (CEBRASPE / PC-SE / DELEGADO / 2018) Utilizar texto da questão anterior.
 
 Por ser o único modelo de policiamento que tem na participação social um de seus
 componentes
@@ -11158,7 +10801,7 @@ centrais, o policiamento comunitário garante a real participação dos membros 
 população na
 segurança pública.
 
-Item. 88. (CEBRASPE / PC-SE / DELEGADO / 2018)
+88. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 O Departamento de Atendimento a Grupos Vulneráveis (DAGV) da Polícia Civil de Sergipe
 atende a um público específico, que frequentemente se torna vítima de
@@ -11184,20 +10827,19 @@ proteção constante.
 
 GABARITo
 
+1. CORRETA
 
-Item. 1. CORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. CORRETA
 
-Item. 3. CORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. CORRETA
 
-Item. 5. CORRETA
+6. CORRETA
 
-Item. 6. CORRETA
-
-Item. 7. INCORRETA
+7. INCORRETA
 
 8.
 
@@ -11283,9 +10925,7 @@ INCORRETA
 INCORRETA
 INCORRETA
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 35.
 
@@ -11452,5 +11092,4 @@ INCORRETA
 INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

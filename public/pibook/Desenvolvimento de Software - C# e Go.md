@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - C# e Go.
-
+# Desenvolvimento de Software - C# e Go.
 
 Índice
 
@@ -8,7 +7,6 @@ Capítulo. Desenvolvimento de Software - C# e Go.
 2) Desenvolvimento Back-End - C# - Questões Comentadas.
 
 3) Desenvolvimento Back-End - C# - Lista de Questões.
-
 
 DESENVoLVIMENTo BACK-END - C#
 
@@ -40,11 +38,9 @@ ambiente.
 Um programa em C# é composto de três partes básicas, e hierárquicas: os Namespaces, as Classes
 e os Métodos.
 
-
 / 57
 
 /
-
 
 NAMESPACE
 
@@ -105,11 +101,9 @@ Console.Writel_ine("Oi! Eu sou o Goku.");
 
 x' 4
 
-
 / 57
 
 /
-
 
 }
 
@@ -143,7 +137,6 @@ Console.Writel_ine("Oi! Eu sou o " + Nome);
 Declaramos uma nova variável no formato:
 
 Tipo nome_da_variavel [ = valorjnicial ];
-
 
 O valorjnicial está entre colchetes pois é opcional. Simples não é? Essa é a
 estrutura básica de
@@ -181,11 +174,9 @@ declarar dessa forma:
 stringf] Nomes = {"Ana", "Beto", "Carlos", "Daniel", "Elias", "Fernanda",
 "Goku", "Hélio", "lan", "Jonas"};
 
-
 / 57
 
 /
-
 
 Console.Writel_ine("Oi! Eu sou o " + Nomes[6]);
 
@@ -212,9 +203,7 @@ superclasse Animal quais variáveis e métodos ela teria? Algo mais ou menos ass
 Esta é uma boa classe para representar todos os animais, eles todos fazem essas coisas. Porém
 nem todos fazem tudo igual, não é mesmo?
 
-
 , 57
-
 
 Agora, se fossemos criar as classes Hipopótamo e Cachorro quais métodos seriam
 diferentes? De
@@ -230,13 +219,13 @@ Ao utilizar herança, a subclasse herda todos os atributos e métodos da classe 
 Mas caso você
 necessite que apenas alguns comportamentos sejam herdados, utilize a sobrescrita.
 
-Item. 1. Adicione a palavra-chave virtual ao método na classe base. Só assim o C# vai saber que esse
+1. Adicione a palavra-chave virtual ao método na classe base. Só assim o C# vai saber que esse
 método poderá ser sobrescrito!
 
-Item. 2. Adicione um método com a mesma assinatura na subclasse. A mesma assinatura é o mesmo
+2. Adicione um método com a mesma assinatura na subclasse. A mesma assinatura é o mesmo
 nome, mesmo tipo de retorno e os mesmos parâmetros.
 
-Item. 3. Adicione a palavra-chave override ao método da classe base.
+3. Adicione a palavra-chave override ao método da classe base.
 
 Agora que já temos os conceitos básicos de herança, vamos ver um código de exemplo?
 
@@ -249,11 +238,9 @@ public String nome;
 //o atributo nome é público será herdado por todas as subclasses
 public virtual void FazerBarulho(){
 
-
 / 57
 
 /
-
 
 Console.Writel_ine(" Grunhido");
 
@@ -280,11 +267,9 @@ através desses métodos da classe base. **/
 
 public class Cachorro : Animal {
 
-
 / 57
 
 /
-
 
 /** Cachorro será nossa primeira subclasse que extende Animal. Repare
 que o símbolo utilizado para indicar a herança é o sinal de dois
@@ -315,11 +300,9 @@ Console. Writel_ine("?");
 
 }
 
-
 / 57
 
 /
-
 
 /** O método FazerBarulhoO na classe Hipopótamo também foi
 sobrescrito, mas digamos que você não saiba o que o método
@@ -351,11 +334,9 @@ TOME
 
 NOTA!
 
-
 X 57
 
 /
-
 
 Mas nem tudo deverá ser público não é mesmo? Para isso o C# possui modificadores de
 acesso,
@@ -388,11 +369,9 @@ Mas o que é uma lista genérica? Elas também são chamadas de Collections. Um 
 é a
 própria classe List (que faz parte do framework .Net), outro são os arrays. A questão é que para
 
-
 / 57
 
 /
-
 
 que possa ser percorrido pelo foreach obrigatoriamente sua coleção implementará
 a interface
@@ -427,11 +406,9 @@ ordem. Caso a lista esteja vazia, o loop não imprimirá nada.
 
 Muito prático, não é mesmo? Mas como? O quê o foreach executa por trás das cortinas é isso:
 
-
 X 57
 
 /
-
 
 IEnumerator<Pessoa> enumerator = pessoas.GetEnumeratorQ;
 
@@ -475,11 +452,9 @@ public static List<int> GetListaNumerosQ
 var lista = new List<int>();
 for (int i = 0; i < 100; i++)
 
-
 / 57
 
 /
-
 
 {
 
@@ -522,7 +497,6 @@ ele é um criador de objetos enumeráveis. Ou seja, você ainda irá retorna uma
 até 100, a
 diferença é que a cada rodada do loop eu já retorno o objeto que está sendo inserido na lista.
 
-
 Dessa forma há um ganho de desempenho, imagine se o loop não fosse só até 100, mas
 fossem
 milhões?
@@ -560,11 +534,9 @@ yield break;
 //Faça outra coisa
 for (int i = 0; i < 20; i++) {
 
-
 / 57
 
 /
-
 
 yield return "Outro valor 11 + i;
 
@@ -592,11 +564,9 @@ diferentes fontes (coleções, banco de dados, até xml). Para utilizar o LINQ b
 incluir no início
 do arquivo a linha using System.Linq.
 
-
 / 57
 
 /
-
 
 INDO
 
@@ -635,7 +605,6 @@ primeira_expressao é retornada, caso seja falsa, a segunda_expressao é retorna
 ver a
 comparação de um mesmo trecho de código feito com o if-else e com o '?'.
 
-
 int
 string
 entrada Convert.Tolnt32(Console.Readl_ine());
@@ -644,11 +613,9 @@ classificacao;
 // construção com
 if-else.
 
-
 / 57
 
 /
-
 
 if (entrada >
 classificacao =
@@ -671,12 +638,11 @@ Curiosidade
 O operador condicional é associativo à direita. A expressão a ? b : c ? d : e
 é desenvolvida como a ? b : (c ? d : e), não como (a ? b : c) ? d : e.
 
-
 QUESTõES CoMENTADAS - DESENVoLVIMENTo BACK-END
 
 - C# - MULTIBANCAS
 
-Item. 1. (FGV - 2015 - Câmara Municipal de Caruaru - Analista Legislativo) Analise o código C# .NET a
+1. (FGV - 2015 - Câmara Municipal de Caruaru - Analista Legislativo) Analise o código C# .NET a
 seguir.
 
 for (int 1 = -5; i <= 7; i += 3)
@@ -730,11 +696,9 @@ na aba Output.
 
 Agora ficou fácil não é? Vamos ao teste de mesa:
 
-
 / 57
 
 /
-
 
 1o passo) i = -5, i <= 7, saída: -5, i = -5 + 3
 
@@ -748,7 +712,7 @@ Agora ficou fácil não é? Vamos ao teste de mesa:
 
 6o passo) i = 10, i > 7, condição retorna false, não entra mais no loop. Gabarito: E
 
-Item. 2. (FGV - 2015 - TCE/SE - Analista de Sistemas) Analise o código C# mostrado abaixo.
+2. (FGV - 2015 - TCE/SE - Analista de Sistemas) Analise o código C# mostrado abaixo.
 
 namespace ConsoleApplicationl
 
@@ -797,11 +761,9 @@ Vamos iniciar a execução desse programa pelo método MainO, dentro dele temos
 um foreach
 chamando o método XPTO com os argumentos -10 e 10. Esses argumentos são os parâmetros
 
-
 X 57
 
 /
-
 
 from e to. Eles são os valores de início (from) e fim (to) do for que está dentro
 do método. Então,
@@ -826,7 +788,7 @@ Retornamos então para o método Main(), o foreach apenas percorre todos os valo
 eles são
 escritos na tela. Gabarito: B
 
-Item. 3. (FGV - 2015 - TJ/BA - Analista Judiciário) Observe o trecho inicial, criado no Visual Studio
+3. (FGV - 2015 - TJ/BA - Analista Judiciário) Observe o trecho inicial, criado no Visual Studio
 2010
 Ultimate, para uma aplicação de console escrita em C#.
 
@@ -862,11 +824,9 @@ c) criação e utilização de expressões regulares;
 
 d) comunicação remota direta com outras aplicações C#;
 
-
 / 57
 
 /
-
 
 e) identificação e utilização de Web Services.
 
@@ -878,7 +838,7 @@ que utilizam a Language-lntegrated Query (LINQ) para consulta e atualização de
 Gabarito:
 B
 
-Item. 4. (FGV - 2014 - DPE-RJ - TÉCNICO SUPERIOR ESPECIALIZADO -
+4. (FGV - 2014 - DPE-RJ - TÉCNICO SUPERIOR ESPECIALIZADO -
 ANALISTA DE
 DESENVOLVIMENTO DE SISTEMAS)
 
@@ -936,11 +896,9 @@ e) AcelerandoPasseando.
 
 Comentários:
 
-
 / 57
 
 /
-
 
 Essa é uma questão simples, mas que pode assustar. Mas não você! Nós já sabemos como
 funciona
@@ -966,7 +924,7 @@ chamado o método mover() da classe Fusca. Esse método simplesmente escreve "Pa
 na
 tela. Gabarito: B
 
-Item. 5. (FGV - 2014 - DPE/RJ - Técnico Superior Especializado - Analista De
+5. (FGV - 2014 - DPE/RJ - Técnico Superior Especializado - Analista De
 Desenvolvimento De
 Sistemas)
 
@@ -999,12 +957,11 @@ mesmo erro da letra D (a inicialização com new apesar de desnecessária, pois 
 compilador já sabe
 que precisa alocar um espaço de 5 inteiros na memória, não está errada). Gabarito: A
 
-Item. 6. (VUNESP - 2014 - TCE/SP - Agente Da Fiscalização Financeira) Observe a declaração
+6. (VUNESP - 2014 - TCE/SP - Agente Da Fiscalização Financeira) Observe a declaração
 de um
 vetor em C#:
 
 int[] vetor = new int[3] {1, 2, 3 };
-
 
 Sem alterar o resultado, essa mesma declaração poderia ser escrita como:
 
@@ -1028,7 +985,7 @@ inicialização utilizando new quando já colocamos os valores desejados para o
 vetor entre
 colchetes. Gabarito: A
 
-Item. 7. (VUNESP - 2014 - PRODEST/ES - Analista De Tecnologia Da Informação) Na linguagem
+7. (VUNESP - 2014 - PRODEST/ES - Analista De Tecnologia Da Informação) Na linguagem
 de
 programação C#, a sintaxe correta para declarar um objeto do tipo Carro e produzir uma nova
 instância desse objeto é:
@@ -1050,7 +1007,7 @@ nome_da_variavel
 
 = new TipoObjetoQ; Gabarito: A
 
-Item. 8. (VUNESP - 2014 - PRODEST/ES - Analista De Tecnologia Da Informação) Na linguagem
+8. (VUNESP - 2014 - PRODEST/ES - Analista De Tecnologia Da Informação) Na linguagem
 de
 programação C#, a declaração dos tipos e de seus membros permite que seja determinada a
 sua visibilidade por meio de modificadores de acesso. Os modificadores disponíveis para esse
@@ -1062,11 +1019,9 @@ b) full-access, write, write-only, read e read-only.
 
 c) global, local, nested e virtual.
 
-
 X 57
 
 /
-
 
 d) public, private, published e protected.
 
@@ -1079,7 +1034,7 @@ não é?
 
 Gabarito: E
 
-Item. 9. (VUNESP - 2013 - IMESC - Analista De Tecnologia) Na linguagem C#, para inserir um elemento
+9. (VUNESP - 2013 - IMESC - Analista De Tecnologia) Na linguagem C#, para inserir um elemento
 no final de um ArrayList, deve ser utilizado o método:
 
 a) Add.
@@ -1104,7 +1059,7 @@ método que existe é o lnsert(int index, object value). Nesse caso, o objeto se
 inserido no índice
 especificado como parâmetro. Gabarito: A
 
-Item. 10. (VUNESP - 2013 - IMESC - Analista De Tecnologia) Analise o seguinte trecho de
+10. (VUNESP - 2013 - IMESC - Analista De Tecnologia) Analise o seguinte trecho de
 código em
 linguagem C#:
 
@@ -1122,11 +1077,9 @@ b) 10 e 18.
 
 c) 10 e 20.
 
-
 X 57
 
 /
-
 
 d) 12 e 19.
 
@@ -1157,7 +1110,7 @@ Nossa condição é y == 10? 20 == 10? falso. É retornada a segunda expressão:
 
 Então, expressao2 = 0ey-=0éo mesmo que y = y - 0 => y = 20. Gabarito: E
 
-Item. 11. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, é possível dividir
+11. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, é possível dividir
 a definição de uma classe em diversos arquivos. Para tanto, é necessário que a declaração da
 classe contenha a palavra chave:
 
@@ -1182,11 +1135,9 @@ implementado fora da sua classe. Aí nos sobram split e partial, as duas palavra
 caberiam, mas se
 você lembrar que split é na verdade um método para separar strings, sobra apenas o partial
 
-
 X 57
 
 /
-
 
 Uma classe pode ser dividida em vários arquivos, quando o compilador vê a
 palavra-chave partial
@@ -1198,7 +1149,7 @@ criar dois arquivos, um com a parte do formulário que você pode alterar e outr
 o código
 que é gerado automaticamente. Gabarito: B
 
-Item. 12. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, a forma correta
+12. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, a forma correta
 de declarar a classe B, derivada da classe A, é:
 
 a) public class B inherits A {}
@@ -1217,7 +1168,7 @@ Essa você já sabe não é? Vimos na aula. Em C# a sintaxe é a mesma tanto par
 herança quanto
 para a implementação de interfaces. Gabarito: D
 
-Item. 13. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, a
+13. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, a
 palavra
 reservada "sealed" pode ser utilizada na declaração de classes. Ela tem a função de
 a) indicar que a classe possui métodos que precisam ser sobrescritos.
@@ -1238,15 +1189,13 @@ Esse é um modificador extra da linguagem C# e indica que a classe não pode ser
 derivada, ou
 seja, não há herança, ela está "selada", "fechada". Gabarito: C
 
-Item. 14. (AOCP - 2012 - TCE/PA - Assessor Técnico - Analista De Sistemas) Em C#, os métodos chamados
+14. (AOCP - 2012 - TCE/PA - Assessor Técnico - Analista De Sistemas) Em C#, os métodos chamados
 pelo mecanismo de execução do programa quando o objeto está prestes a ser removido da
 memória são denominados de:
-
 
 X 57
 
 /
-
 
 a) Garbage Collection.
 
@@ -1310,11 +1259,9 @@ d) a variável y recebe por referência o valor da variável x do tipo double.
 
 x'"'
 
-
 / 57
 
 /
-
 
 e) multiplica o valor da variável int por x e atribui o valor calculado para a variável y.
 
@@ -1324,7 +1271,7 @@ Este é um exemplo do cast que é a conversão pelo compilador de uma variável 
 tipo para
 outro tipo. Várias linguagens fazem o cast. Não é diferente em C#. Gabarito: B
 
-Item. 16. (AOCP - 2012 - TCE/PA - Assessor Técnico - Analista De Sistemas) Segundo a Microsoft, um
+16. (AOCP - 2012 - TCE/PA - Assessor Técnico - Analista De Sistemas) Segundo a Microsoft, um
 conjunto de recursos introduzidos no Visual Studio 2010 que estende as capacidades de
 consultas à sintaxe da linguagem de C# e Visual Basic é conhecido como:
 
@@ -1346,7 +1293,7 @@ biblioteca LINQ trazem novas capacidades para que o desenvolvedor trabalhe com
 consultas.
 Gabarito: A
 
-Item. 17. (AOCP - 2012 - TCE/PA - Assessor Técnico - Administrador De Banco De Dados)
+17. (AOCP - 2012 - TCE/PA - Assessor Técnico - Administrador De Banco De Dados)
 Sobre a
 linguagem C# assinale a alternativa correta.
 
@@ -1369,11 +1316,9 @@ e) Há três tipos de passagem de parâmetros, por valor, por referência e por 
 
 Comentários:
 
-
 / 57
 
 /
-
 
 (a) É uma linguagem fortemente tipada; (b) Não suporta herança múltipla; (c)
 Ponteiros são
@@ -1383,18 +1328,15 @@ processo de
 ser liberados da
 memória, que fica livre para a utilização por outro objeto. Gabarito: E
 
-Item. 18. (FCC - 2014 - TRF3 - Analista Judiciário - Informática)
-
+18. (FCC - 2014 - TRF3 - Analista Judiciário - Informática)
 
 X 57
 
 /
 
-
 Utilize o programa C# abaixo para responder as questões de números 43 e 44.
 
 Os números à esquerda não fazem parte do programa, apenas indicam os números das linhas.
-
 
 [1] using
 
@@ -1499,7 +1441,6 @@ System.Text;
 [48] }
 
 [49] }
-
 
 O programa C# apresentado é executado apenas uma vez e finaliza. Para que o programa possa ser
 executado diversas vezes, até que o usuário digite 0 para finalizá-lo é
@@ -1570,11 +1511,9 @@ c) WriteLine é um método da classe Console. Como a classe System herda da clas
 Console,
 então WriteLine também é um método da classe System.
 
-
 / 57
 
 /
-
 
 d) Na linha [11 ]: double celsius = Double.Parse(tempCelsius); significa que double é
 uma classe
@@ -1602,7 +1541,7 @@ indicar qual é o valor default de um tipo parametrizado (Este é um conceito av
 que não
 cabe em nossa aula, caso queira saber mais veja a referência oficial). Gabarito: B
 
-Item. 20. (CESPE - 2013 - BACEN - Analista De Sistemas)
+20. (CESPE - 2013 - BACEN - Analista De Sistemas)
 
 class Teste
 f
@@ -1635,11 +1574,9 @@ d) num é = 4
 
 e) num é = 5
 
-
 / 57
 
 /
-
 
 Comentários:
 
@@ -1653,7 +1590,7 @@ chaves {0} será substituído pelo valor do argumento que vem logo em seguida. G
 de concentração de nulo e é usado para definir um valor padrão para tipos de valor anulável ou
 tipos de referência. No exemplo abaixo, caso a variável num seja nula, o valor de x será igual a
 
-Item. 1. int x = num ?? 1;
+1. int x = num ?? 1;
 
 Comentários:
 
@@ -1693,11 +1630,9 @@ d) Compila corretamente, mas apresenta erro de execução.
 
 e) Apresenta erro na compilação.
 
-
 / 57
 
 /
-
 
 Comentários:
 
@@ -1754,9 +1689,7 @@ b) Polimorfismo paramétrico
 c) Polimorfismo de subtipo
 d) Sobrecarga de operadores
 
-
 , 57
-
 
 e) Sobrecarga de métodos
 
@@ -1766,7 +1699,7 @@ Esta é a descrição da sobrecarga (overload). Lembre-se: se a assinatura é di
 sobrecarga,
 se a assinatura for igual é sobrescrita (override). Gabarito: E
 
-Item. 24. (CESGRANRIO - 2010 - ELETROBRAS - Analista De Sistemas - Engenharia De Software)
+24. (CESGRANRIO - 2010 - ELETROBRAS - Analista De Sistemas - Engenharia De Software)
 O
 programador de um sistema Web deseja imprimir, em determinada tela, a hora atual. Que
 fragmento de código C# atinge esse objetivo?
@@ -1791,7 +1724,7 @@ acordo com o sistema. O método ToString formata o resultado para mostrar as hor
 minutos
 (HH:mm). O m minúsculo é para não confundir com M maísculo do Mês. Gabarito: B
 
-Item. 25. (CESGRANRIO - 2010 - EPE - Analista De Gestão Corporativa - Tecnologia Da
+25. (CESGRANRIO - 2010 - EPE - Analista De Gestão Corporativa - Tecnologia Da
 Informação)
 Determinado órgão público federal deseja implantar um sistema de consulta na Internet. A
 plataforma utilizada será ASP.NET e a linguagem de programação, C#. Na modelagem orientada
@@ -1814,11 +1747,9 @@ que C#
 possui classes abstratas, polimorfismo (através de sobrecarga e sobreescrita), interfaces
 e que os
 
-
 / 57
 
 /
-
 
 namespaces servem para organizar as classes de uma biblioteca, e não associá-las. E
 também
@@ -1875,7 +1806,6 @@ Console.Writel_ine("A");
 
 }
 
-
 O resultado produzido no console é:
 
 a) PP
@@ -1918,7 +1848,7 @@ Então a saída fica PP/ A/ PP. Como writeline pula linha, e readkey mantém o c
 no mesmo
 ponto, letra A. Gabarito: A
 
-Item. 27. (FGV - 2016 - IBGE - Análise De Sistemas - Desenvolvimento De Sistemas)
+27. (FGV - 2016 - IBGE - Análise De Sistemas - Desenvolvimento De Sistemas)
 using System;
 
 namespace TESTE
@@ -1926,7 +1856,6 @@ namespace TESTE
 {
 
 class Program
-
 
 {
 
@@ -1973,17 +1902,15 @@ método myF receberá um número e receberá sua primeira potência. No exemplo 
 atribuiu ao
 int j, myF(5), ou seja 5*5 = 25. Engraçado que ele até coloca um comentário com a resposta j =
 
-Item. 25. Ao final ele apenas escreve o valor de j, transformado em string. Ou seja, 25. Gabarito: B
-
+25. Ao final ele apenas escreve o valor de j, transformado em string. Ou seja, 25. Gabarito: B
 
 , 57
-
 
 LISTA DE QUESTõES - DESENVoLVIMENTo BACK-END - C#
 
 - MULTIBANCAS
 
-Item. 1. (FGV - 2015 - Câmara Municipal de Caruaru - Analista Legislativo) Analise o código C# .NET a
+1. (FGV - 2015 - Câmara Municipal de Caruaru - Analista Legislativo) Analise o código C# .NET a
 seguir.
 
 for (int 1 = -5; i <= 7; i += 3)
@@ -2008,13 +1935,11 @@ d) 5,-2, 1,4
 
 e) 5,-2, 1,4, 7
 
-Item. 2. (FGV - 2015 - TCE/SE - Analista de Sistemas) Analise o código C# mostrado abaixo.
-
+2. (FGV - 2015 - TCE/SE - Analista de Sistemas) Analise o código C# mostrado abaixo.
 
 X 57
 
 /
-
 
 namespace ConsoleApplicationl
 
@@ -2057,7 +1982,7 @@ d) -7,-4,-1,2, 5,8,11
 
 e) 0
 
-Item. 3. (FGV - 2015 -TJ/BA-Analista Judiciário) Observe o trecho inicial, criado no Visual Studio 2010
+3. (FGV - 2015 -TJ/BA-Analista Judiciário) Observe o trecho inicial, criado no Visual Studio 2010
 Ultimate, para uma aplicação de console escrita em C#.
 
 using System;
@@ -2071,7 +1996,6 @@ namespace ConsoleApplicationl {
 class Program
 
 {
-
 
 static void Main(string[] args)
 
@@ -2091,7 +2015,7 @@ d) comunicação remota direta com outras aplicações C#;
 
 e) identificação e utilização de Web Services.
 
-Item. 4. (FGV - 2014 - DPE-RJ - TÉCNICO SUPERIOR ESPECIALIZADO - ANALISTA DE
+4. (FGV - 2014 - DPE-RJ - TÉCNICO SUPERIOR ESPECIALIZADO - ANALISTA DE
 DESENVOLVIMENTO DE SISTEMAS)
 
 Considere o código escrito na linguagem C# mostrado a seguir.
@@ -2139,14 +2063,13 @@ a) Acelerando.
 
 b) Passeando.
 
-
 c) Movendo.
 
 d) MovendoAcelerandoPasseando.
 
 e) AcelerandoPasseando.
 
-Item. 5. (FGV - 2014 - DPE/RJ - Técnico Superior Especializado - Analista De
+5. (FGV - 2014 - DPE/RJ - Técnico Superior Especializado - Analista De
 Desenvolvimento De
 Sistemas)
 
@@ -2164,7 +2087,7 @@ d) int lnteiros[]={1,2,3,4,5};
 
 e) int lnteiros[]=new int[5]{1,2,3,4,5};
 
-Item. 6. (VUNESP - 2014 - TCE/SP - Agente Da Fiscalização Financeira) Observe a
+6. (VUNESP - 2014 - TCE/SP - Agente Da Fiscalização Financeira) Observe a
 declaração de um
 vetor em C#:
 
@@ -2182,7 +2105,7 @@ d) int[] vetor = new int[];
 
 e) int[] vetor = new int[] = { 1, 2, 3 };
 
-Item. 7. (VUNESP - 2014 - PRODEST/ES - Analista De Tecnologia Da Informação) Na
+7. (VUNESP - 2014 - PRODEST/ES - Analista De Tecnologia Da Informação) Na
 linguagem de
 programação C#, a sintaxe correta para declarar um objeto do tipo Carro e produzir
 uma nova
@@ -2198,15 +2121,13 @@ d) Carro = new CarroO;
 
 , <
 
-
 X 57
 
 /
 
-
 e) obj = CarroQ;
 
-Item. 8. (VUNESP - 2014 - PRODEST/ES - Analista De Tecnologia Da Informação) Na
+8. (VUNESP - 2014 - PRODEST/ES - Analista De Tecnologia Da Informação) Na
 linguagem de
 programação C#, a declaração dos tipos e de seus membros permite que seja
 determinada a
@@ -2224,7 +2145,7 @@ d) public, private, published e protected.
 
 e) public, private, protected, internai e protected internai.
 
-Item. 9. (VUNESP - 2013 - IMESC - Analista De Tecnologia) Na linguagem C#, para inserir
+9. (VUNESP - 2013 - IMESC - Analista De Tecnologia) Na linguagem C#, para inserir
 um elemento
 no final de um ArrayList, deve ser utilizado o método:
 
@@ -2238,7 +2159,7 @@ d) Insert.
 
 e) Put.
 
-Item. 10. (VUNESP - 2013 - IMESC - Analista De Tecnologia) Analise o seguinte
+10. (VUNESP - 2013 - IMESC - Analista De Tecnologia) Analise o seguinte
 trecho de código em
 linguagem C#:
 
@@ -2258,10 +2179,9 @@ c) 10 e 20.
 
 d) 12 e 19.
 
-
 e) 12e20.
 
-Item. 11. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, é
+11. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, é
 possível dividir
 a definição de uma classe em diversos arquivos. Para tanto, é necessário que a
 declaração da
@@ -2273,7 +2193,7 @@ c) extern
 d) continue
 e) abstract
 
-Item. 12. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, a
+12. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na linguagem C#, a
 forma correta
 de declarar a classe B, derivada da classe A, é:
 
@@ -2287,7 +2207,7 @@ d) public class B : A {}
 
 e) public class B implements A {}
 
-Item. 13. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na
+13. (VUNESP - 2013 - MPE/ES - Agente Técnico - Desenvolvedor) Na
 linguagem C#f a palavra
 reservada "sealed" pode ser utilizada na declaração de classes. Ela tem a função de
 a) indicar que a classe possui métodos que precisam ser sobrescritos.
@@ -2310,11 +2230,9 @@ memória são denominados de:
 
 a) Garbage Collection.
 
-
 X 57
 
 /
-
 
 b) Destruidores.
 
@@ -2324,7 +2242,7 @@ d) Indexadores.
 
 e) Eventos.
 
-Item. 15. (AOCP - 2012 - TCE/PA - Assessor Técnico - Analista De Sistemas) Analise o
+15. (AOCP - 2012 - TCE/PA - Assessor Técnico - Analista De Sistemas) Analise o
 seguinte trecho do
 código C#:
 
@@ -2349,7 +2267,7 @@ d) a variável y recebe por referência o valor da variável x do tipo double.
 
 e) multiplica o valor da variável int por x e atribui o valor calculado para a variável y.
 
-Item. 16. (AOCP - 2012 - TCE/PA - Assessor Técnico - Analista De Sistemas) Segundo a
+16. (AOCP - 2012 - TCE/PA - Assessor Técnico - Analista De Sistemas) Segundo a
 Microsoft, um
 conjunto de recursos introduzidos no Visual Studio 2010 que estende as
 capacidades de
@@ -2365,7 +2283,7 @@ d) ADO.
 
 e) ASP.
 
-Item. 17. (AOCP - 2012 - TCE/PA - Assessor Técnico - Administrador De Banco
+17. (AOCP - 2012 - TCE/PA - Assessor Técnico - Administrador De Banco
 De Dados) Sobre a
 linguagem C# assinale a alternativa correta.
 
@@ -2374,7 +2292,6 @@ pela Microsoft como
 parte da plataforma .NET caracterizada por ser fracamente tipada.
 
 , <
-
 
 b) É a única linguagem de programação que suporta herança múltipla pura, ou
 seja, cada classe
@@ -2394,16 +2311,13 @@ e) Há três tipos de passagem de parâmetros, por valor, por referência e por 
 
 x'
 
-
 / 57
 
 /
 
-
 Utilize o programa C# abaixo para responder as questões de números 43 e 44.
 
 Os números à esquerda não fazem parte do programa, apenas indicam os números das linhas.
-
 
 [1] using
 
@@ -2509,7 +2423,6 @@ System.Text;
 
 [49] }
 
-
 O programa C# apresentado é executado apenas uma vez e finaliza. Para que o programa
 possa ser
 executado diversas vezes, até que o usuário digite 0 para finalizá-lo
@@ -2563,7 +2476,7 @@ e) Na linha [42]: default é um atributo exclusivo do comando switch e é
 usado apenas quando
 um valor numérico que não conste dos cases é fornecido pelo usuário.
 
-Item. 20. (CESPE - 2013 - BACEN - Analista De Sistemas)
+20. (CESPE - 2013 - BACEN - Analista De Sistemas)
 class Teste
 
 {
@@ -2572,11 +2485,9 @@ static void Main()
 
 {
 
-
 X 57
 
 /
-
 
 int num = 1;
 
@@ -2611,12 +2522,11 @@ anulável ou
 tipos de referência. No exemplo abaixo, caso a variável num seja nula, o valor de x
 será igual a
 
-Item. 1. int x = num ?? 1;
+1. int x = num ?? 1;
 
-Item. 22. (CESGRANRIO - 2013 - IBGE - Analista De Sistemas) O que ocorre com
+22. (CESGRANRIO - 2013 - IBGE - Analista De Sistemas) O que ocorre com
 o programa C#,
 apresentado abaixo, quando é compilado e posteriormente executado?
-
 
 using System;
 publlc cla.33 Prova
@@ -2634,7 +2544,6 @@ while {
 
 a[i] = 1 + (i>0 ? a[i-l] : 0) ;
 1++ r
-
 
 Console.WrlreLine(a[9]);
 
@@ -2661,14 +2570,13 @@ c) Polimorfismo de subtipo
 d) Sobrecarga de operadores
 e) Sobrecarga de métodos
 
-Item. 24. (CESGRANRIO - 2010 - ELETROBRAS - Analista De Sistemas - Engenharia
+24. (CESGRANRIO - 2010 - ELETROBRAS - Analista De Sistemas - Engenharia
 De Software) O
 programador de um sistema Web deseja imprimir, em determinada tela, a hora
 atual. Que
 fragmento de código C# atinge esse objetivo?
 
 a) Now.ToStringO;
-
 
 b) DateTime.Now.ToString( HH:mm );
 
@@ -2678,7 +2586,7 @@ d) Time.Now.ToString( HH:mm );
 
 e) Now.ToString( HH:mm );
 
-Item. 25. (CESGRANRIO - 2010 - EPE - Analista De Gestão Corporativa - Tecnologia
+25. (CESGRANRIO - 2010 - EPE - Analista De Gestão Corporativa - Tecnologia
 Da Informação)
 Determinado órgão público federal deseja implantar um sistema de consulta na
 Internet. A
@@ -2696,7 +2604,7 @@ d) proíbe o uso de interfaces para garantir a coesão e a modularidade do códi
 
 e) implementa, no âmbito da generalização, somente herança simples.
 
-Item. 26. (FGV - 2016 - IBGE- Análise De Sistemas - Desenvolvimento De Sistemas) Analise o
+26. (FGV - 2016 - IBGE- Análise De Sistemas - Desenvolvimento De Sistemas) Analise o
 código C#
 exibido a seguir:
 
@@ -2726,7 +2634,6 @@ class P {
 public void PPO
 
 {
-
 
 Console.WriteLine("PP");
 
@@ -2770,11 +2677,9 @@ using System;
 
 namespace TESTE
 
-
 / 57
 
 /
-
 
 {
 
@@ -2813,46 +2718,44 @@ GABARITo
 
 GABARITO
 
-Item. 1. E 6. A
-Item. 11. B
+1. E 6. A
+11. B
 
-Item. 2. B 7. A
-Item. 12. D
+2. B 7. A
+12. D
 
-Item. 3. B 8. E
-Item. 13. C
+3. B 8. E
+13. C
 
-Item. 4. B 9. A
-Item. 14. B
+4. B 9. A
+14. B
 
-Item. 5. A 10. E
-Item. 15. B
+5. A 10. E
+15. B
 
+16. A
 
-Item. 16. A
+17. E
 
-Item. 17. E
+18. C
 
-Item. 18. C
+19. B
 
-Item. 19. B
+20. Errado
 
-Item. 20. Errado
+21. Certo
 
-Item. 21. Certo
+22. A
 
-Item. 22. A
+23. E
 
-Item. 23. E
+24. B
 
-Item. 24. B
+25. E
 
-Item. 25. E
+26. A
 
-Item. 26. A
-
-Item. 27. B
+27. B
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 

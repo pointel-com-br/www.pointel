@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Lógica de Programação.
-
+# Desenvolvimento de Software - Lógica de Programação.
 
 Índice
 
@@ -23,7 +22,6 @@ Capítulo. Desenvolvimento de Software - Lógica de Programação.
 
 10) Lógica de Programação - Lista de Questões - Multibancas
 
-
 APRESENTAçÃo
 
 Faaaala, galera! Aqui quem vos fala é o Prof. Diego Carvalho e nós vamos
@@ -45,11 +43,9 @@ sobre as tecnologias mais recentes também estão a caminho :)
 @professordiegocarvalho
 x
 
-
 X 244
 
 /
-
 
 Conceitos Básicos
 
@@ -75,18 +71,16 @@ Algoritmo: conjunto predeterminado e bem definido de passos destinados à soluç
 problema, com
 um número finito de etapas.
 
-Item. 1. PóTCLm °
+1. PóTCLm °
 
 L H'STI'R£ Í CM
 
 < Z_tí4r A-o FoíW
 5 -Wdte tó/UAfc
 
-
 / 244
 
 /
-
 
 Professor, você pode dar um exemplo? Sim, o exemplo mais comum da bibliografia é
 mostrado acima: uma
@@ -95,7 +89,6 @@ receita de bolo. Observem que para fazer um bolo (solucionar um problema),
 sequência de passos finitos e predeterminados. No fim das contas, grosso modo, um
 software nada mais é
 do que a representação de um algoritmo.
-
 
 í (Quadrix - 2022 - CRC-PR) A respeito dos diagramas de casos de uso, dos diagramas
 de classe, da análise i
@@ -130,18 +123,14 @@ português-eles entendem
 elétrica), portanto é
 necessário representar esses algoritmos por meio de uma linguagem de programação.
 
-
 1 // cla«
 
 2 public S! ProgramningExample {
 
-
 5 pul ic void sayHellot) {
-
 
 8 System out printlnCHello World!"
 9 }
-
 
 Como assim, professor? Pessoal, um computador é uma grande
 calculadora. No entanto, ele é "burro", ele só calcula o que o mandam
@@ -169,7 +158,6 @@ de programação do
 mercado.
 
 *
-
 
 Pessoal... se eu não souber uma linguagem de programação, eu posso escrever um
 algoritmo utilizando um
@@ -225,7 +213,6 @@ alguns =
 : comandos genéricos ou primitivos para a interpretação do algoritmo."
 :
 
-
 Comentários: Os comandos genéricos ou primitivos são utilizados em pseudocódigo, e não
 em fluxogramas.
 O fluxograma é uma das formas de se representar as instruções de programa, mas
@@ -239,7 +226,6 @@ Processo Base de
 Dados
 
 L V
-
 
 Subprocesso
 r
@@ -261,7 +247,6 @@ tor
 
 .
 
-
 .
 
 í (CESPE/CEBRASPE - 2015 - TER-GO) Julgue os itens a seguir, relativos a lógica de programação.
@@ -270,7 +255,6 @@ tor
 abaixo correspondem, :
 
 = respectivamente, a dados armazenados, processo, documento e entrada manual.
-
 
 Comentários: Os símbolos em questão significam, respectivamente: dados externos,
 documento, processo
@@ -299,7 +283,6 @@ o nome do endereço na
 memória que ela ocupa. Observem a imagem abaixo: existe uma variável (espaço em
 memória) chamada
 numeroDaConta em que se armazena o valor 4823.
-
 
 numeroDaConta
 
@@ -344,7 +327,6 @@ resposta. Esse é um conceito básico da primeira aula de um curso de computaç�
 
 *
 
-
 Éiírf Vrfw FUybâík Hdp
 
 Rrowsit
@@ -367,7 +349,6 @@ YOUR LIBRARY TITLE
 
 Your Daily Mix + Twilight of the Gods
 
-
 Roccntly Playcd
 
 Recently Played
@@ -375,7 +356,6 @@ Recently Played
 Songs
 
 + The Bard's Song (In the For
-
 
 Albums
 Artisls
@@ -390,7 +370,6 @@ Artists + The Ninth Wave
 Stations
 
 Local Files
-
 
 VW«B
 
@@ -445,7 +424,6 @@ copa é Brazuca, é possível decompor esse nome? Sim, basta dividi-lo em caract
 
 1 Uma música em .mp3, um texto em .pdf, uma imagem em jpg são todos tipos estruturados.
 
-
 o Cadeia de Caracteres: também conhecido como String, são representações de
 sequências de
 caracteres, incluindo ou não símbolos. Pode ser uma palavra, frase, código, etc, por
@@ -469,7 +447,6 @@ teclado geralmente (Ex:
 busca do Google). A Escrita é uma Saída de Dados (Output) que busca mostrar
 informações ao usuário na
 tela do computador (Ex: resultado da busca do Google).
-
 
 Todas Imagens Vídeos Shopping Notícias IMais Configurações Ferramentas
 
@@ -526,7 +503,6 @@ Maior ou igual a
 2 Em operadores que possuem a mesma prioridade, o que aparecer primeiro deve ser priorizado! Além
 disso, parênteses possuem sempre a maior prioridade!
 
-
 Menor ou igual a
 
 Operadores Lógicos: servem para combinar resultados de expressões,
@@ -581,10 +557,8 @@ instruções executadas dependendo de uma condição de teste, i.e., o algoritmo
 terá caminhos diferentes
 para decisões diferentes. Bacana?
 
-
 * 05152001900 - Everton Murilo
 Vieira
-
 
 O contrário dessa afirmação é a execução sequencial das instruções, sem loops
 ou desvios. Quando
@@ -618,14 +592,11 @@ Se (Média >= 5.0) Então
 
 Aluno = Aprovado
 
-
 ,
-
 
 Senão
 
 Aluno = Reprovado
-
 
 Início
 
@@ -655,7 +626,6 @@ Se (Média >= 7.0) Então
 
 Aluno = Aprovado
 
-
 Senão
 
 Senão
@@ -665,7 +635,6 @@ Aluno = Recuperação
 Aluno = Reprovado
 
 *
-
 
 Aluno = Reprovado I
 
@@ -681,7 +650,6 @@ Não
 
 Aluno =
 Recuperação
-
 
 Vejam o código anterior! Nesse caso, o programa realiza um primeiro teste (Média >=
 5.0). No caso de a
@@ -717,7 +685,7 @@ de x, se x
 : Se (x > 0) então x++; senão if (x < 0) x- ;
 
 Comentários: O operador ++ significa operador incremental. x++ é o mesmo que x = x +
-Item. 1. Já o operador -
+1. Já o operador -
 significa operador decremental. x- é o mesmo que x = x - 1.
 
 Portanto, o código pode ser lido da seguinte forma:
@@ -733,7 +701,6 @@ Portanto, está correto.
 (Gabarito: Correto)
 
 *
-
 
 (FCC - 2017 - ARTESP) Considere o fluxograma abaixo.
 
@@ -759,7 +726,6 @@ nova senha. Falso.
 somente o usuário com a senha admin consegue alterar a variável SENHA.
 
 *
-
 
 : Como o passo pra informar a variável SENHA ocorre antes da verificação da "SENHA =
 admin", então ;
@@ -788,7 +754,6 @@ Não. Ele volta para o "Entre com a senha", pois há uma seta ligando "Acesso OK
 Falso. (Gabarito: Letra C)
 
 *
-
 
 CASO 4:
 
@@ -853,7 +818,6 @@ me <-a;
 
 3 Em inglês: If-Then, If-Then-Else, If-Then (nested) e Switch-Case.
 
-
 Atribui à variável me o valor de a, ou seja, 120.
 se (me > b) então me <- b;
 
@@ -885,7 +849,6 @@ não é! Vamos ver, pessoal...
 
 *
 
-
 Nao
 
 Preodente»
@@ -907,7 +870,6 @@ Votos = Votos + 1
 Fim-Enquanto
 
 *
-
 
 Sim
 
@@ -952,7 +914,6 @@ Fi m-Enquanto
 
 *
 
-
 Esse tipo de estrutura é um pouco diferente da primeira, já que define de antemão
 quantas vezes será
 repetida as instruções dentro do bloco. No nosso exemplo, a instrução "imprimir
@@ -985,7 +946,6 @@ Votos = Votos + 1
 
 Enquanto (Votos < 1.000)
 
-
 O último caso é o pós-testado. Como sugere o nome, nessa estrutura a instrução do
 bloco é executada
 sempre ao menos uma vez! Isso porque o primeiro teste somente é feito ao final. Em
@@ -999,7 +959,6 @@ para saber que
 parte da letra cantar. Vamos nessa?
 
 01 estrofe = 0
-
 
 03 Enquanto (estrofe < 3) Repetir
 
@@ -1031,7 +990,6 @@ parte da letra cantar. Vamos nessa?
 20 Se (estrofe % 2 == 1) Então
 
 21 imprimir("into your heart")
-
 
 22 Senão
 
@@ -1092,7 +1050,6 @@ acho mais fácil de visualizar. Abraços e até a próxima.
 
 *
 
-
 hey Jude
 remember to
 let her into your heart
@@ -1105,7 +1062,6 @@ better better better better better waaaaa —
 í
 lyncs *- $ony .Mv
 www. estra tegiaconcursos. com. br
-
 
 Funções e Procedimentos
 
@@ -1161,7 +1117,6 @@ regular uma parte de um programa; reduzir o acoplamento; entre outros.
 
 *
 
-
 Quando uma sub-rotina termina, ela é desalocada das estruturas internas do programa,
 i.e., seu tempo de
 vida termina! É praticamente como se ela nunca tivesse existido. Podemos chamá-la de
@@ -1214,7 +1169,6 @@ principal chama uma função ou procedimento, ele passa alguns valores chamados 
 Entrada.
 
 *
-
 
 Esse negócio costuma confundir muita gente, portanto vou explicar por meio de um
 exemplo, utilizando a
@@ -1280,7 +1234,6 @@ Valor 2 = 20
 Valores depois de chamar a Função:
 
 *
-
 
 Valor 1 = 5
 
@@ -1349,7 +1302,6 @@ Valor 2 = 20
 
 *
 
-
 Valores depois de chamar a Função:
 
 Valor 1 = 10
@@ -1397,7 +1349,6 @@ a recursão é uma técnica em que uma função chama a si mesma. Eu gosto de pe
 recursividade por
 meio de imagens como as apresentadas abaixo.
 
-
 RECURSION
 
 heie vm aiat*
@@ -1426,7 +1377,6 @@ fatorial é uma operação matemática em que um número natural (representado p
 produto de todos
 os inteiros positivos menores ou iguais a n.
 
-
 5!
 
 retorna 120
@@ -1438,7 +1388,6 @@ retorna 24
 vf at = 4'
 
 retorna 6
-
 
 vfat -3*
 
@@ -1486,9 +1435,7 @@ uma referência a um =
 : c) Py é subconjunto de Px.
 ;
 
-
 ,
-
 
 d) Py é categorizado como diretamente recursivo.
 
@@ -1564,11 +1511,9 @@ Linguagem de Alto Nível: linguagem com um nível de abstração relativamente e
 longe do código de
 máquina e mais próximo à linguagem humana. Desse modo, as linguagens de alto nível não estão
 
-
 /' 244
 
 /
-
 
 diretamente relacionadas à arquitetura do computador. O programador de uma linguagem de
 alto nível não
@@ -1598,13 +1543,11 @@ considerada uma das melhores da época. Ainda na mesma década, foram criados o 
 (LISt Processor) e o
 COBOL (COmmon Business Oriented Language).
 
-
 THE PERIODIC TABLE OF PROGRAMMING LANGUAGES
 
 VisualisaUon of tbe evolution of popular programmmg languages
 
 Mechâncal Furxzbonàl
-
 
 Ft Ag
 
@@ -1613,7 +1556,6 @@ ImperatiYt!
 Dyr^amtc
 
 Cb L
-
 
 Sn Bs
 
@@ -1625,7 +1567,6 @@ Sm ' H Declardlfve
 P 0
 
 B Lg
-
 
 Fo Pc
 Ad Cp
@@ -1662,7 +1603,6 @@ classes e heranças.
 Surgiu ainda, em 1964, a linguagem BASIC (Beginner's All-purpose Symbolic Instruction
 Code), que foi criada
 com fins educativos. Conheciam? Eu também não!
-
 
 s
 
@@ -1752,10 +1692,9 @@ Microsoft! Galera, e a evolução não parou! Atualmente, as linguagens
 de programação continuam
 crescendo, tanto na indústria quanto na pesquisa.
 
-
 QUESTõES CoMENTADAS - CESPE
 
-Item. 1. (CESPE / CEBRASPE - 2022 - BANRISUL) Em um algoritmo, todo resultado de uma operação de entrada
+1. (CESPE / CEBRASPE - 2022 - BANRISUL) Em um algoritmo, todo resultado de uma operação de entrada
 de dados é armazenado em uma posição na memória.
 
 Comentários:
@@ -1768,7 +1707,7 @@ O resultado de um algoritmo calculado a partir de um conjunto de dados de entrad
 necessariamente é
 armazenado em uma posição de memória para que posteriormente seja lido. Gabarito: Certo.
 
-Item. 2. (CESPE / CEBRASPE - 2022 - BANRISUL) Os laços usados em estruturas de repetição e teste podem
+2. (CESPE / CEBRASPE - 2022 - BANRISUL) Os laços usados em estruturas de repetição e teste podem
 ser
 feitos por meio de comandos como enquanto e repita.
 
@@ -1778,7 +1717,7 @@ Os comandos enquanto e repita, de fato, são estruturas de repetição. Entretan
 são estruturas de
 teste. Gabarito: Errado.
 
-Item. 3. (CESPE / CEBRASPE - 2022 - BANRISUL) O fluxograma é uma das formas de se
+3. (CESPE / CEBRASPE - 2022 - BANRISUL) O fluxograma é uma das formas de se
 representarem as
 instruções de um programa, utilizando-se de alguns comandos genéricos ou
 primitivos para a
@@ -1793,7 +1732,7 @@ utiliza-se de formas
 gráficas, que enfatizam os passos individuais e o fluxo de execução de um algoritmo. Gabarito:
 Errado.
 
-Item. 4. (CESPE / CEBRASPE - 2022 - BANRISUL) As estruturas se e senão são estruturas de repetição
+4. (CESPE / CEBRASPE - 2022 - BANRISUL) As estruturas se e senão são estruturas de repetição
 utilizadas
 nas situações em que, caso determinada condição seja alcançada, um comando é realizado,
 caso
@@ -1801,17 +1740,15 @@ contrário, outro comando é executado.
 
 Comentários:
 
-
 *
 05152001900 - Everton Murilo
 Vieira
-
 
 As estruturas se e senão são estruturas de seleção ou de decisão, e não estruturas
 de repetição. Fora este
 aspecto, o restante da afirmação está correta. Gabarito: Errado.
 
-Item. 5. (CESPE/CEBRASPE - 2022 - POLITEC - RO) O autômato finito determinístico:
+5. (CESPE/CEBRASPE - 2022 - POLITEC - RO) O autômato finito determinístico:
 
 a) corresponde à função de transição que recebe um estado ou um símbolo de entrada
 que sempre
@@ -1829,13 +1766,13 @@ Comentários:
 
 Um autômato finito determinístico tem três características pelo seu próprio nome:
 
-Item. 1. É um autômato.
+1. É um autômato.
 
-Item. 2. É finito: ou seja, tem um estado inicial, um conjunto de estados de aceitação,
+2. É finito: ou seja, tem um estado inicial, um conjunto de estados de aceitação,
 um conjunto finito de
 estados intermediários e de símbolos de entrada.
 
-Item. 3. É determinístico: significa que as regras de transição executadas pela função de
+3. É determinístico: significa que as regras de transição executadas pela função de
 transição entre os
 estados são bem determinadas. Por definição, gera-se um único ramo de
 computação para cada
@@ -1870,11 +1807,10 @@ Um autômato finito determinístico, pela definição de ser determinístico, so
 pode transitar para um
 estado para cada entrada. Portanto, ele não permite nem zero e nem n transições. Falso.
 
-
 e) consegue estar em vários estados ao mesmo tempo.
 Somente um estado. Falso. Gabarito: Letra C.
 
-Item. 6. (CESPE/CEBRASPE - 2022 - SEED-PR)
+6. (CESPE/CEBRASPE - 2022 - SEED-PR)
 
 programa
 
@@ -1990,7 +1926,7 @@ Teste: 7 <= 6. Falso, então sai no laço.
 
 Por fim, escreve o que está na variável valor, que é 720. Gabarito: Letra E.
 
-Item. 7. (CESPE / CEBRASPE - 2021 - SEED-PR) Considerando a, b, c e d como variáveis
+7. (CESPE / CEBRASPE - 2021 - SEED-PR) Considerando a, b, c e d como variáveis
 com valores iniciais
 iguais a 5, 7, 3 e 9, respectivamente, assinale a opção correta.
 
@@ -2008,9 +1944,7 @@ Comentários:
 
 Consideremos a = 3, b = 7, c = 3 e d = 9.
 
-
 Consideremos os significados dos sinais de operação:
-
 
 Operadores de comparação
 
@@ -2034,7 +1968,6 @@ Maior que (>)
 Maior ou igual a (>)
 Menor que (<)
 Menor ou igual a (<)
-
 
 Operadores lógicos
 &&
@@ -2080,9 +2013,7 @@ c) "\(d==12&&a !=10)éfalso"
 
 * a != 10: a variável "a" é "3", o que é igual a "3". Verdadeiro.
 
-
 ,
-
 
 * A expressão fica
 
@@ -2119,31 +2050,30 @@ o (falso OU falso OU falso) = falso.
 
 * Portanto, o item está errado!
 
-Item. 8. (CESPE / CEBRASPE - 2021-SEED-PR)
+8. (CESPE / CEBRASPE - 2021-SEED-PR)
 
+1. var
 
-Item. 1. var
+2. valores: vetor [1..5] de inteiro
 
-Item. 2. valores: vetor [1..5] de inteiro
-
-Item. 3. resultado, x: real
+3. resultado, x: real
 4.
 
-Item. 5. inicio
+5. inicio
 
-Item. 6. para i de 1 ate 5 faca
+6. para i de 1 ate 5 faca
 
-Item. 7. leia(valores)
+7. leia(valores)
 
-Item. 8. x<- x + valores
+8. x<- x + valores
 
-Item. 9. fimpara
+9. fimpara
 
-Item. 10. resultado <- x / 5
+10. resultado <- x / 5
 
-Item. 11. escreva("Resultado: ", resultado)
+11. escreva("Resultado: ", resultado)
 
-Item. 12. fimalgoritmo
+12. fimalgoritmo
 
 O resultado da lógica dos algoritmos precedente é a:
 
@@ -2163,53 +2093,51 @@ Antes de mais nada, é importante observar que, no pseudocódigo, os valores do 
 não são explícitos, e,
 sim, pedidos para o usuário (linha 7). Portanto, os itens b), c) e e) estão eliminados.
 
-Item. 6. para i de 1 ate 5 faca
+6. para i de 1 ate 5 faca
 
-Item. 7. leia(valores)
+7. leia(valores)
 
-Item. 8. x<- x + valores
+8. x<- x + valores
 
-Item. 9. fimpara
+9. fimpara
 
 Observa-se que, no laço acima, ele soma os valores de cada um dos itens do vetor e
 adiciona cada um numa
 variável.
 
-Item. 10. resultado <- x / 5
+10. resultado <- x / 5
 
 Já na linha 10, ele divide o valor da soma de todos os itens do vetor por 5, que
 é a quantidade de itens do
 vetor.
 
-
 ,
-
 
 Somar todos os itens de um vetor e dividir pela quantidade de itens no vetor é
 calcular a sua média. Gabarito:
 Letra A.
 
-Item. 9. (CESPE / CEBRASPE - 2021-SEED-PR)
+9. (CESPE / CEBRASPE - 2021-SEED-PR)
 
-Item. 1. var
+1. var
 
-Item. 2. num: inteiro
+2. num: inteiro
 
-Item. 3. inicio
+3. inicio
 
-Item. 4. leia(num)
+4. leia(num)
 
-Item. 5. se (num % 2) =/= 0 então
+5. se (num % 2) =/= 0 então
 
-Item. 6. escreva("X")
+6. escreva("X")
 
-Item. 7. senão
+7. senão
 
-Item. 8. escreva("Y")
+8. escreva("Y")
 
-Item. 9. fimse
+9. fimse
 
-Item. 10. fimalgoritmo
+10. fimalgoritmo
 
 Considerando-se a lógica do algoritmo anterior, é correto afirmar que, para todo valor de num
 (linha 4):
@@ -2247,7 +2175,6 @@ b) menor que 2, escreve X.
 
 Existem números inteiros pares menores do que 2, e que, portanto, escrevem Y. Errado.
 
-
 c) igual a 2, escreve Y.
 
 2 é um número par. Logo, escreve Y. Correto!
@@ -2261,7 +2188,7 @@ e) diferente de 2, escreve X.
 Existem números inteiros ímpares diferentes de 2, e que, portanto, escrevem X. Errado. Gabarito:
 Letra C.
 
-Item. 10. (CESPE / CEBRASPE - 2021 - SEED-PR)
+10. (CESPE / CEBRASPE - 2021 - SEED-PR)
 
 var
 valor: real
@@ -2314,7 +2241,6 @@ caso valor <> 0 (ou valor diferente de 0) não seja atendida. Daí ele sai do la
 O teste é sempre feito no
 início do bloco.
 
-
 O trecho acima lê do usuário um valor, e vai somando esse valor na variável
 "resultado" para sempre... Desde
 que o valor seja diferente de zero. Ou seja, ele vai sair do loop se o valor for 0.
@@ -2333,27 +2259,27 @@ Por fim, o usuário digita o valor 0. Ele volta para o "enquanto". O valor é ze
 Então ele sai do loop, e mostra
 o resultado, que é 15. Gabarito: Letra D.
 
-Item. 11. (CESPE / CEBRASPE - 2021 - SEED-PR)
+11. (CESPE / CEBRASPE - 2021 - SEED-PR)
 
-Item. 1. var
+1. var
 
-Item. 2. cont,n,resultado:inteiro
+2. cont,n,resultado:inteiro
 
-Item. 3. inicio
+3. inicio
 
-Item. 4. resultado <-l
+4. resultado <-l
 
-Item. 5. leia(n)
+5. leia(n)
 
-Item. 6. para cont de 1 ate n passo 1 faca
+6. para cont de 1 ate n passo 1 faca
 
-Item. 7. resultado <- resultado *cont
+7. resultado <- resultado *cont
 
-Item. 8. fimpara
+8. fimpara
 
-Item. 9. escreva(resultado)
+9. escreva(resultado)
 
-Item. 10. fimalgoritmo
+10. fimalgoritmo
 
 Em relação à lógica do algoritmo precedente, caso o valor de n (linha 5) seja igual a:
 
@@ -2373,23 +2299,22 @@ Este algoritmo está calculando o fatorial de n.
 
 A variável resultado é definida inicialmente como 1.
 
-Item. 6. para cont de 1 ate n passo 1 faca
+6. para cont de 1 ate n passo 1 faca
 
-Item. 7. resultado <- resultado *cont
+7. resultado <- resultado *cont
 
-Item. 8. fimpara
+8. fimpara
 
 Este loop roda n vezes, armazenando de 1 a 5 na variável cont a cada iteração. Além
 disso, ele multiplica na
 variável resultado o valor de cont.
-
 
 Assim, se o valor de num for 4, ele vai multiplicar i*i*2*3*4 = 24.
 Essa é a definição de fatorial.
 
 O fatorial de 5 é 1*2*3*4*5 = 120. Gabarito: Letra E.
 
-Item. 12. (CESPE / CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta a representação booleana
+12. (CESPE / CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta a representação booleana
 equivalente mais simplificada para a função F(X, Y, Z) = X-Z + Z-(X' + XY).
 
 a) Z + Y-Z
@@ -2411,7 +2336,6 @@ as propriedades da álgebra
 booleana, que incluem a distributiva, a associativa, a comutativa, a identidade
 e outras. Nessa notação,
 temos os seguintes operadores:
-
 
 Operador
 
@@ -2450,7 +2374,6 @@ ZY.
 
 Finalmente, podemos usar a distributiva mais uma vez: F(X, Y, Z) = Z(X + X') + XZ + YZ.
 
-
 Como X + X' é sempre verdadeiro (pois é a negação de X ou a negação de não X,
 que são complementares),
 podemos simplificar a expressão para F(X, Y, Z) = Z + XZ + YZ.
@@ -2461,7 +2384,7 @@ a letra E, que apresenta apenas o termo Z.
 
 Gabarito: Letra E.
 
-Item. 13. (CESPE / CEBRASPE - 2021 - SEED-PR) (Adaptada) O fato de o complemento do
+13. (CESPE / CEBRASPE - 2021 - SEED-PR) (Adaptada) O fato de o complemento do
 produto ser igual à
 soma dos complementos, ou seja, (A-B)' = A' + B', é justificado:
 
@@ -2483,7 +2406,7 @@ não (A ou B) = (não A e não B)
 
 Gabarito: Letra D.
 
-Item. 14. (CESPE / CEBRASPE - 2021 - PG-DF) O resultado do pseudocódigo precedente será 120.
+14. (CESPE / CEBRASPE - 2021 - PG-DF) O resultado do pseudocódigo precedente será 120.
 
 função avaliar( a, b )
 inicio
@@ -2511,7 +2434,6 @@ ma <-a;
 Atribui à variável ma o valor de a, ou seja, 120.
 se (ma < b) então ma <- b;
 
-
 Realizada uma condicional. Como ma = 120 e b = 30, 120 < 30 é falso. Portanto, não
 entra na condicional,
 me <-a;
@@ -2537,13 +2459,12 @@ de me, que é 30.
 
 Como a questão afirma que o resultado é 120, a resposta é Errado. Gabarito: Errado.
 
-Item. 15. (CESPE / CEBRASPE - 2021 - PG-DF) O resultado do pseudocódigo apresentado será 6.
+15. (CESPE / CEBRASPE - 2021 - PG-DF) O resultado do pseudocódigo apresentado será 6.
 
 inicio
 v <- vetor (2, 4, 6, 8 , 10 ,12 );
 
 escreva ( v[0] + " " +v[l] );
-
 
 Comentários:
 
@@ -2578,10 +2499,9 @@ resultado é um texto "2 4".
 
 Gabarito: Errado.
 
-Item. 16. (CESPE / CEBRASPE - 2021 - SEED-PR) (4 > 2) xor (5 = 3) and (4 > 2) or (5 = 5)
+16. (CESPE / CEBRASPE - 2021 - SEED-PR) (4 > 2) xor (5 = 3) and (4 > 2) or (5 = 5)
 
 Assinale a opção que apresenta o resultado da expressão anterior.
-
 
 a) 2
 
@@ -2596,7 +2516,6 @@ Comentários:
 
 xor significa operador "ou exclusivo".
 Consideremos as tabelas-verdade:
-
 
 A
 VERDADEIRO
@@ -2616,7 +2535,6 @@ FALSO
 FALSO
 FALSO
 
-
 A
 VERDADEIRO
 VERDADEIRO
@@ -2634,7 +2552,6 @@ VERDADEIRO
 VERDADEIRO
 VERDADEIRO
 FALSO
-
 
 A
 VERDADEIRO
@@ -2679,7 +2596,7 @@ verdadeiro
 
 Gabarito: Letra E.
 
-Item. 17. (CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do algoritmo
+17. (CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do algoritmo
 apresentado.
 
 programa {
@@ -2734,7 +2651,6 @@ c) 19
 d) 51
 
 e) 19
-
 
 Comentários:
 
@@ -2793,7 +2709,6 @@ Define achou = true.
 
 Valores do vetor: [37,51,77,81,19].
 Para i = 3:
-
 
 Testa o if: se vetor[i] > vetor [i+1], ou seja, se vetor[3] > vetor[4], ou seja, se 81 > 19
 naosei = vetor[i] = vetor[3] = 81
@@ -2865,7 +2780,6 @@ Testa o if: se vetor[i] > vetor [i+1], ou seja, se vetorfl] > vetor[2], ou seja,
 
 *
 
-
 naosei = vetor[i] = vetor[l] = 51
 
 Agora, troca os valores de vetor[l] e vetor[2],
@@ -2935,7 +2849,6 @@ Volta para o enquanto.
 
 Como achou = true, então entra no "enquanto".
 
-
 Define achou = false.
 
 Entra no "para", que irá rodar de 0 a 3, cada iteração com um valor para a variável i.
@@ -2975,7 +2888,7 @@ Valor final do vetor = [19,37,51,77,81].
 
 Gabarito: C
 
-Item. 18. (CESPE/CEBRASPE - 2020 - TJPA) Assinale a opção que apresenta o comando que tem
+18. (CESPE/CEBRASPE - 2020 - TJPA) Assinale a opção que apresenta o comando que tem
 a função de
 implementar desvios incondicionais no programa, mas que é de uso proibido na
 programação
@@ -3003,14 +2916,13 @@ O comando GOTO permite que o fluxo salte para um outro ponto qualquer do algorit
 marcado com o
 comando LABEL.
 
-
 Seu uso indiscriminado pode gerar problemas de legibilidade no programa,
 dificultando, especialmente, a
 sua compreensão, e, consequentemente, sua manutenibilidade.
 
 Portanto, seu uso deve ser evitado. Gabarito: Letra C.
 
-Item. 19. (CESPE/CEBRASPE - 2019 - TJ-AM] Os operadores lógicos 'e' e 'ou' possuem,
+19. (CESPE/CEBRASPE - 2019 - TJ-AM] Os operadores lógicos 'e' e 'ou' possuem,
 respectivamente, as
 funções de conjunção e disjunção.
 
@@ -3024,7 +2936,7 @@ Por outro lado, a disjunção lógica ocorre quando pelo menos um dos dois opera
 são verdadeiros. Ou
 seja, um ou. Gabarito: Errado.
 
-Item. 20. (CESPE / CEBRASPE - 2019 - TJ-AM]
+20. (CESPE / CEBRASPE - 2019 - TJ-AM]
 
 programa TROCA_VALORES
 var
@@ -3056,12 +2968,11 @@ quando a sub-rotina TROCA é executada.
 
 Comentários:
 
-
 Como as variáveis A e B têm escopo global, elas são visíveis em qualquer ponto do algoritmo.
 Gabarito:
 Errado.
 
-Item. 21. (CESPE / CEBRASPE - 2019-TJ-AM]
+21. (CESPE / CEBRASPE - 2019-TJ-AM]
 
 programa TROCA_VALORES
 var
@@ -3097,7 +3008,7 @@ elas, de fato, seriam
 novas variáveis, mas teriam um escopo local, e não global, para a sub-rotina TROCA. Gabarito:
 Errado.
 
-Item. 22. (CESPE/CEBRASPE - 2018 - ABIN) Julgue o item subsequente, relativo à lógica de programação.
+22. (CESPE/CEBRASPE - 2018 - ABIN) Julgue o item subsequente, relativo à lógica de programação.
 
 A expressão a seguir especifica que: 1 será adicionado a x, se x for maior que 0;
 1 será subtraído de x, se x
@@ -3116,7 +3027,6 @@ Portanto, o código pode ser lido da seguinte forma:
 menor do que 0, então
 subtrai 1 ao x".
 
-
 No caso de x ser igual a zero, nada ocorre.
 
 Isso é uma forma diferente de falar a mesma coisa que está sendo dita no enunciado.
@@ -3124,7 +3034,7 @@ Portanto, está correto.
 
 Gabarito: Correto.
 
-Item. 23. (CESPE/CEBRASPE - 2018 - ABIN) Na lógica de programação, um bloco de comando é definido como
+23. (CESPE/CEBRASPE - 2018 - ABIN) Na lógica de programação, um bloco de comando é definido como
 um conjunto de ações para determinada função e tem como delimitadores as palavras
 reservadas
 INPUTe OUTPUT.
@@ -3135,7 +3045,7 @@ De fato, na lógica de programação, um bloco de comando é definido como um co
 de ações para
 determinada função, mas seus delimitares são BEGIN e END; ou INICIO e FIM. Gabarito: Errado.
 
-Item. 24. (CESPE - 2017 - TRE/BA - Analista Judiciário - Analista de Sistemas) Assinale a opção que
+24. (CESPE - 2017 - TRE/BA - Analista Judiciário - Analista de Sistemas) Assinale a opção que
 apresenta a
 saída resultante da execução do algoritmo antecedente.
 
@@ -3166,7 +3076,6 @@ Comentários:
 Antes do loop, nossas variáveis valem:
 
 a = O;b = l;f=l;
-
 
 Após entrar no loop, não sai enquanto i <= 6. Então, temos que:
 
@@ -3220,7 +3129,6 @@ Segunda instrução: a = b; a = 3;
 
 Terceira instrução: b = f; b = 8;
 
-
 Quarta instrução: Saída = 12358;
 
 Logo, temos que: i = 6; f = 8; a = 3; b = 8;
@@ -3229,7 +3137,7 @@ A partir daí, não entra mais no loop porque a variável de controle será maio
 seis. Beleza? Então, a saída
 será: 12358. Gabarito: Errado
 
-Item. 25. (CESPE - 2017 - TRT 7? Região - CE - Técnico Judiciário - Tecnologia da Informação)
+25. (CESPE - 2017 - TRT 7? Região - CE - Técnico Judiciário - Tecnologia da Informação)
 
 10 A <- 5;
 n B - A * -2;
@@ -3278,10 +3186,9 @@ H 0 (6 + 10) - 25mod 4, pot é a potenciação, 5 elevado ao 2, que é igual a 2
 
 H 0 16 -1, mod é o resto da divisão, 25 mod 4 = 1;
 
-
 Portanto, H 0 15. Gabarito: C
 
-Item. 26. (CESPE- 2017 - SEDF - DF - Professor de Educação Básica - Informática) Considere o algoritmo
+26. (CESPE- 2017 - SEDF - DF - Professor de Educação Básica - Informática) Considere o algoritmo
 a seguir:
 
 Inteiro x=l, y=4, z=5;
@@ -3332,13 +3239,11 @@ z = z+y%x ->5 = 5 + 3%2 = 5+1 = 6
 y = y-l = 3-l = 2
 x=x+l=2+l=3
 
-
 ,
-
 
 x < y -> 3< 2? Não! Sai do loop e escreve z = 6. Gabarito: B
 
-Item. 27. (CESPE/CEBRASPE - 2016 - TCE/PA) A passagem de parâmetro em uma rotina pode ocorrer
+27. (CESPE/CEBRASPE - 2016 - TCE/PA) A passagem de parâmetro em uma rotina pode ocorrer
 de duas
 maneiras: por valor ou por referência. Em se tratando da passagem por valor,
 alteram-se os valores
@@ -3358,7 +3263,7 @@ O item diz que, na passagem por valor, os valores se alteram. Na verdade, isso
 ocorre na passagem por
 referência. Gabarito: Errado.
 
-Item. 28. (CESPE/CEBRASPE - 2016 - TCE/PA) Em se tratando de linguagens procedimentais, os
+28. (CESPE/CEBRASPE - 2016 - TCE/PA) Em se tratando de linguagens procedimentais, os
 dados são
 globais e, portanto, acessíveis a todos os procedimentos.
 
@@ -3370,7 +3275,7 @@ End. Dessa forma, os dados somente serão globais se forem declaradas em escopo 
 do contrário, serão
 restritos aos escopos dos procedimentos. Gabarito: Errado.
 
-Item. 29. (CESPE/CEBRASPE - 2015 - TER-GO) Comumente usados em fluxogramas representativos de sistemas,
+29. (CESPE/CEBRASPE - 2015 - TER-GO) Comumente usados em fluxogramas representativos de sistemas,
 os símbolos abaixo correspondem, respectivamente, a dados armazenados, processo, documento
 e
 entrada manual.
@@ -3381,8 +3286,7 @@ Os símbolos em questão significam, respectivamente: dados externos, documento,
 processo e entrada
 manual. Portanto, está errado. Gabarito: Errado.
 
-
-Item. 30. (CESPE - 2014 - ANATEL - Analista de Sistemas) A recursividade é uma técnica que pode ser
+30. (CESPE - 2014 - ANATEL - Analista de Sistemas) A recursividade é uma técnica que pode ser
 utilizada
 na implementação de sistemas de lógica complexa, com a finalidade de minimizar riscos de ocorrência
 de defeitos no software.
@@ -3405,7 +3309,7 @@ mais eficiente que um algoritmo recursivo (por conta da manutenção de estado, 
 etc). Portanto, não
 há essa correlação entre riscos de defeito e complexidade de implementação. Gabarito: Errado
 
-Item. 31. (CESPE - 2013 - CPRM - Analista de Sistemas) Na implementação de recursividade, uma das
+31. (CESPE - 2013 - CPRM - Analista de Sistemas) Na implementação de recursividade, uma das
 soluções
 para que se evite o fenômeno de terminação do programa - que possibilita a ocorrência de um looping
 infinito - é definir uma função ou condição de terminação das repetições.
@@ -3422,10 +3326,9 @@ problema. Toda recursividade é composta por um caso base e pelas chamadas recur
 
 Conforme vimos em aula, está perfeito novamente. Gabarito: Certo
 
-Item. 32. (CESPE - 2013 - CNJ - Programador de computador) No fluxograma abaixo, seA = 4, B = 4 e
+32. (CESPE - 2013 - CNJ - Programador de computador) No fluxograma abaixo, seA = 4, B = 4 e
 C = 8, o
 resultado que será computado para Área é igual a 32.
-
 
 Comentários:
 
@@ -3445,7 +3348,7 @@ S = 8*4*4*0 = 0
 
 S <= 0, logo: Não é Triângulo! Gabarito: Errado
 
-Item. 33. (CESPE - 2010 - MPU - Analista de Informática - Desenvolvimento de Sistemas) Se
+33. (CESPE - 2010 - MPU - Analista de Informática - Desenvolvimento de Sistemas) Se
 um trecho de
 algoritmo tiver de ser executado repetidamente e o número de repetições for indefinido,
 então é
@@ -3457,8 +3360,7 @@ Perfeito! Lembram-se que nós temos três estruturas de repetição? Pois é, o
 Enquanto-Faça serve para esse
 propósito! Gabarito: Certo
 
-
-Item. 34. (CESPE - 2010 - DETRAN/ES - Analista de Sistemas) O método de recursividade deve ser utilizado
+34. (CESPE - 2010 - DETRAN/ES - Analista de Sistemas) O método de recursividade deve ser utilizado
 para
 avaliar uma expressão aritmética na qual um procedimento pode chamar a si mesmo, ou
 seja, a
@@ -3482,7 +3384,7 @@ um verbo diferente para evitar confusão ("O método de recursividade pode ser
 utilizado..." ou "O método
 de recursividade é utilizado..."). Gabarito: Certo
 
-Item. 35. (CESPE - 2011 - TJ-ES - Técnico de Informática - Específicos) Uma estrutura de
+35. (CESPE - 2011 - TJ-ES - Técnico de Informática - Específicos) Uma estrutura de
 repetição possibilita
 executar um bloco de comando, repetidas vezes, até que seja encontrada uma dada
 condição que
@@ -3492,7 +3394,7 @@ Comentários:
 
 Essa é uma definição perfeita da Estrutura de Repetição. Gabarito: Certo
 
-Item. 36. (CESPE - 2011 - TJ-ES - Analista Judiciário - Análise de Banco de Dados - Específicos) Em uma
+36. (CESPE - 2011 - TJ-ES - Analista Judiciário - Análise de Banco de Dados - Específicos) Em uma
 estrutura
 de repetição com variável de controle, ou estrutura PARA, a verificação da condição é
 realizada antes
@@ -3510,10 +3412,9 @@ estrutura For/Para
 Repetição Pós-Testada (Do-
 While/Faça-Enquanto), de forma que elas sejam equivalentes. Gabarito: Errado
 
-Item. 37. (CESPE - 2011 - TJ/ES - Analista de Sistemas) Tanto a recursividade direta quanto a indireta
+37. (CESPE - 2011 - TJ/ES - Analista de Sistemas) Tanto a recursividade direta quanto a indireta
 necessitam
 de uma condição de saída ou de encerramento.
-
 
 Comentários:
 
@@ -3529,10 +3430,9 @@ Conforme vimos em aula, existe recursividade direta e indireta, mas ambas precis
 um caso-base, que
 é uma condição de saída, para não ficar em loop infinito. Gabarito: Certo
 
-
 QUESTõES CoMENTADAS - FCC
 
-Item. 1. (FCC - 2022 - TST) Considere o trecho de um algoritmo em pseudocódigo que mostra
+1. (FCC - 2022 - TST) Considere o trecho de um algoritmo em pseudocódigo que mostra
 comandos condicionais (se) aninhados com início e fim delimitados por {}:
 
 se (B1)
@@ -3548,7 +3448,6 @@ senão { se(B2)
 então { Comando3
 
 }
-
 
 }
 
@@ -3583,9 +3482,7 @@ falso, será executado o Comando4. Falso.
 
 b) se B2 for verdadeiro, somente o Comando3 será executado.
 
-
 ,
-
 
 Se B2 for verdadeiro, mas B1 for verdadeiro, ele entrará na
 primeira condicional, e executará
@@ -3607,7 +3504,7 @@ e) o Comando5 sempre será executado.
 
 Sim, o Comando5 sempre será executado, pois está fora das condicionais. Gabarito: E
 
-Item. 2. (FCC - 2022 - DPE-RS) Considere o seguinte algoritmo em pseudocódigo:
+2. (FCC - 2022 - DPE-RS) Considere o seguinte algoritmo em pseudocódigo:
 
 Algoritmo Valida
 tipo V = vetor [1..4] de inteiro
@@ -3650,9 +3547,7 @@ d) II deve ser preenchida com imprima ("Valor valido = ", vetor[indice])
 
 e) I deve ser preenchida com numero>=1900 ou numero<=2017
 
-
 ,
-
 
 Comentários:
 
@@ -3688,10 +3583,9 @@ Correto! Deve ser preenchido com "numero < 1900 o numero > 2017", porque
 a ideia é que entre
 no "enquanto" somente se o valor não for válido! E que fique ali até que seja válido. Gabarito: E
 
-Item. 3. (FCC - 2019 - TRF-4) Considere o programa em pseudocódigo abaixo, que
+3. (FCC - 2019 - TRF-4) Considere o programa em pseudocódigo abaixo, que
 não apresenta
 erros.
-
 
 var varl=l, var2=2: inteiro
 funcaol()
@@ -3763,7 +3657,6 @@ Neste caso, irá utilizar os valores de varl e var2 de dentro da
 funcaol. Ou seja, vai imprimir:
 "Variaveis dentro da funcaol (): var1= 100, var2 = 100".
 
-
 As variáveis globais não vão ser alteradas aqui porque as variáveis usadas
 são as locais do escopo
 da funcaol.
@@ -3790,7 +3683,7 @@ variável de escopo declarada
 nesta função. A função vai alterar o valor das variáveis globais. var1 = 1 + 1 = 2, e var2 = 2 + 2
 =
 
-Item. 4. E vai imprimir o seguinte: "Variaveis dentro da funcao2(): var1= 2
+4. E vai imprimir o seguinte: "Variaveis dentro da funcao2(): var1= 2
 var2 = 4"
 imprima("Variaveis depois de chamar a funcao2():var1 = ", var1, " var2=", var2)
 
@@ -3800,7 +3693,7 @@ chamar a funcao2(): var1 = 2 var2 = 4.
 
 Dentre as opções, a correta é, portanto, d). Gabarito: D
 
-Item. 4. (FCC - 2019 - AFAP) No âmbito dos sistemas de numeração computacionais, o número
+4. (FCC - 2019 - AFAP) No âmbito dos sistemas de numeração computacionais, o número
 decimal 132 tem sua respectiva correspondência aos seguintes em binário e hexadecimal:
 
 a) 1110 0111 e 84
@@ -3819,14 +3712,11 @@ Vamos item a item.
 
 Para converter decimal em binário, temos que dividir por 2 e pegar o resto.
 
-
 x-""' 72
-
 
 /' 244
 
 /
-
 
 (1)/2 0 1
 
@@ -3838,7 +3728,7 @@ A = 10, B = 11, C = 12, D = 13eE = 14.
 
 Agora, pegamos os valores de resto ao contrário e juntamos: (132)w = (84)i6. Gabarito: C
 
-Item. 5. (FCC - 2019 - AFAP) A soma do hexadecimal 1C5 com o binário de mais baixa ordem
+5. (FCC - 2019 - AFAP) A soma do hexadecimal 1C5 com o binário de mais baixa ordem
 1101, terá como resultado o decimal
 a) 434.
 
@@ -3875,7 +3765,7 @@ Portanto, (1 C5)16 + (1101)2 = (453)10 + (13)10= (466)10
 
 Gabarito: B
 
-Item. 6. (FCC - 2018 - SABESP) Antes de se escrever um programa em
+6. (FCC - 2018 - SABESP) Antes de se escrever um programa em
 uma linguagem de
 programação, uma prática recomendada é apresentar a lógica de
 programação usando
@@ -3883,9 +3773,7 @@ uma pseudolinguagem. Considere o algoritmo em pseudolinguagem
 apresentado abaixo,
 em que o operador mod retorna o resto da divisão inteira
 
-
 ,
-
 
 Programa Sabesp
 Var ano, n: inteiro
@@ -3898,7 +3786,6 @@ então
 n <- ano mod 100
 
 I
-
 
 Fim
 senão
@@ -3936,11 +3823,9 @@ Ao calcular o resto de uma divisão inteira de um ano por 100, você terá
 os dois últimos dígitos do
 ano. Observe:
 
-
 1945
 
 1900
-
 
 Portanto, falso.
 
@@ -3961,7 +3846,7 @@ ao ano atual (2018).
 
 Não há esta regra no algoritmo. Falso. Gabarito: C
 
-Item. 7. (FCC - 2018 - SABESP) Considere, por hipótese, que a SABESP utiliza
+7. (FCC - 2018 - SABESP) Considere, por hipótese, que a SABESP utiliza
 diferentes preços
 de tarifas para os serviços de abastecimento de água e/ou coleta
 de esgoto para o
@@ -4000,7 +3885,6 @@ e. a instrução escolha caso para avaliar os diferentes tipos de valor que pode
 pagos pelo usuário.
 
 Comentários:
-
 
 Vamos comentar item a item:
 
@@ -4041,10 +3925,9 @@ Não é o adequado usar a instrução escolha..caso porque os diferentes tipos
 de valor são definidos
 com por um intervalo, e não por valores discretos. Falso. Gabarito: D
 
-Item. 8. (FCC - 2017 - ARTESP) Considere o fluxograma abaixo.
+8. (FCC - 2017 - ARTESP) Considere o fluxograma abaixo.
 
 De acordo com a lógica expressa pelo fluxograma, conclui-se que:
-
 
 a) a solicitação da senha é encerrada quando o usuário fornece a senha admin.
 
@@ -4067,9 +3950,7 @@ Neste caso, ele segue o caminho indicado em vermelho. Ou seja, não encerra,
 mas, sim, pede
 para entrar nova senha. Falso.
 
-
 ,
-
 
 b) somente o usuário com a senha admin consegue alterar a variável SENHA.
 
@@ -4088,9 +3969,7 @@ nunca chegará no "ACESSO OK". Verdadeiro.
 
 d) quando a SENHA_ATUAL não confere, esta é inicializada com "x".
 
-
 ,
-
 
 À variável SENHA_ATUAL é sempre atribuído o valor "x", sendo este
 o segundo passo do
@@ -4102,7 +3981,7 @@ Não. Ele volta para o "Entre com a senha", pois há uma seta ligando
 "Acesso OK" com "Entre
 com a senha". Falso. Gabarito: C
 
-Item. 9. (FCC- 2017 - TRT 24a Região - MS - Técnico Judiciário -
+9. (FCC- 2017 - TRT 24a Região - MS - Técnico Judiciário -
 Tecnologia da Informação)
 Considere o algoritmo em pseudocódigo abaixo.
 
@@ -4150,9 +4029,7 @@ v3 <- v3 - 1 = 4 -1 = 3
 
 v3 > 1 -> 3>1
 
-
 ,
-
 
 v1 <- v1 * v2 = 9*3 = 27
 v3 <- v3 - 1 = 3 -1 = 2
@@ -4202,7 +4079,6 @@ a) não poderia usar a categoria 0 no comando escolha, nem atribuir zero ao valo
 
 b) apresenta erro de lógica na condição do comando condicional se.
 
-
 www. estra tegiaconcursos. com. br
 c) teria que usar uma condição no comando enquanto (verdadeiro) faça, pois este não pode
 avaliar apenas o valor lógico verdadeiro.
@@ -4249,15 +4125,13 @@ e) tem erro de sintaxe, pois o comando escolha deveria ter a cláusula senão, q
 
 O "senão" não é obrigatório no "escolha". Só se o programador quiser. Falso. Gabarito: B
 
-Item. 11. (FCC - 2017 - TRE-SP) Considere as duas funções, abaixo, escritas em
+11. (FCC - 2017 - TRE-SP) Considere as duas funções, abaixo, escritas em
 pseudocódigo, que
 implementam uma lógica.
-
 
 /' 244
 
 /
-
 
 função fl (N: inteiro): real
 Início
@@ -4273,7 +4147,6 @@ Fim
 função f2 (N: inteiro): real
 Var i: inteiro
 result: real
-
 
 Início
 
@@ -4318,7 +4191,6 @@ Não. É executada apenas uma vez, visto que é uma função iterativa, e não r
 Ela não é
 chamada dentro dela mesma. Falso.
 
-
 d) recursiva faz cálculos e apresenta resultados totalmente diferentes da função iterativa.
 
 É possível implementar de maneira iterativa funções recursivas, e retornar o mesmo
@@ -4333,7 +4205,7 @@ Na f2, se for 0 ou 1, nem sequer entra no "para... faça"; e retorna o valor de 
 
 Gabarito: E
 
-Item. 12. (FCC - 2017 - TRE-SP) Considere a lógica do algoritmo, abaixo, expressa em
+12. (FCC - 2017 - TRE-SP) Considere a lógica do algoritmo, abaixo, expressa em
 pseudocódigo.
 
 Var
@@ -4395,7 +4267,6 @@ Da análise do algoritmo, podemos deduzir que:
 * O usuário deve preencher os valores 1, 2 e 3 para declarar votos nos candidatos 1, 2 e 3;
 0 caso o voto seja em branco; e -1 para finalizar e mostrar os resultados.
 
-
 o Usando o número informado (0, 1, 2 ou 3), armazenado na variável voto, o sistema
 incrementa o valor em vetor[voto]. Se o valor informado for menor que zero, ou
 maior que 3, ele incrementa o valor de vetor[4],
@@ -4442,11 +4313,9 @@ Não, pois o objetivo do loop é mostrar os votos válidos nos candidatos 1, 2 e
 
 13.(FCC - 2017 - TRT-24) Considere o algoritmo em pseudocódigo abaixo.
 
-
 /' 244
 
 /
-
 
 var vl, v2, v3 : inteiro
 início
@@ -4507,13 +4376,11 @@ exiba(vl)
 
 Irá mostrar o valor de v1 atual, que é 81. Gabarito: D
 
-Item. 14. (FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo:
-
+14. (FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo:
 
 /' 244
 
 /
-
 
 função dígitos (n: inteiro): inteiro
 início
@@ -4593,7 +4460,6 @@ se (n < 10)
 
 65 <10? Falso, então vai para o "senão".
 
-
 Novamente a função recursiva, n/10 = 65/10 = 6. Rodemos novamente diqitos(ó). Quinta vez.
 se (n < 10)
 
@@ -4627,11 +4493,9 @@ Some os dois números e divida por 2
 Imprima o
 resultado encontrado
 
-
 / 244
 
 /
-
 
 Analisando o raciocínio lógico e as estruturas lógicas utilizadas no diagrama, é correto afirmar
 que:
@@ -4693,11 +4557,9 @@ Não, isso somente ocorrerá se os dois números forem diferentes de zero. Falso
 
 x-'"
 
-
 /' 244
 
 /
-
 
 16.(FCC - 2015 - DPE-SP) Considere o algoritmo em pseudocódigo no qual DIV calcula o
 quociente da divisão inteira e MOD o resto da divisão inteira:
@@ -4769,7 +4631,6 @@ Dito isso, o algoritmo ele funciona da seguinte maneira:
 
 * Define as variáveis "tres" e "cinco" como 0.
 
-
 * Dependendo do resto da divisão calculada, ele vai definir novos valores para as variáveis
 "cinco" e "tres".
 
@@ -4821,14 +4682,11 @@ Não, pois, contra a vontade do programa, se eu digitar um número para taxa men
 que 5, o
 quociente será 0, e o valor de cinco não tem como ser maior do que 1. Falso. Gabarito: B
 
-Item. 17. (FCC - 2015 - DPE-SP) Considere o algoritmo a seguir, na forma de pseudocódigo:
-
+17. (FCC - 2015 - DPE-SP) Considere o algoritmo a seguir, na forma de pseudocódigo:
 
 0 0
 
-
 /
-
 
 Var n, i, j , k,
 Var v: vetor[0.
@@ -4904,7 +4762,6 @@ E assim por diante. Até chegar em "k". Suponha que k = 6.
 
 Então, quando j = 7, ele coloca em v[7] o valor de v[6], e sai do loop.
 
-
 Até aí, note que ele transpôs para frente os valores do vetor, certo? E daí vem a
 seguinte instrução:
 v[k] x;
@@ -4930,14 +4787,11 @@ d) 4372.
 
 e) 20.
 
-
 x-""' 92
-
 
 /' 244
 
 /
-
 
 Comentários:
 
@@ -5019,7 +4873,6 @@ E <- E*B
 
 CB <- CB + 1
 
-
 Inicialmente E = 4 e B = 4. Portanto E <- 64*4 = 256. Então, E = 256. CB = 3 +
 1 =4. Volta para
 o teste.
@@ -5086,7 +4939,6 @@ e) Se for fornecido 1 para k, será impresso "Sucesso" duas vezes.
 
 Comentários:
 
-
 Da análise do algoritmo, nota-se que seu comportamento é o seguinte:
 
 * Temos um vetor de 10 posições.
@@ -5146,8 +4998,7 @@ e) Se for fornecido 1 para k, será impresso "Sucesso" duas vezes.
 
 Não. É o contrário. Será impresso "Insucesso" duas vezes, e "Sucesso" uma vez. Gabarito: B
 
-Item. 20. (FCC - 2014 - TRT-16) No algoritmo há:
-
+20. (FCC - 2014 - TRT-16) No algoritmo há:
 
 tipo V= vetor [1..10] inteiro
 var i, k: inteiro
@@ -5211,9 +5062,7 @@ d) um tipo estruturado homogêneo de dados, de um tipo básico que pode ser enco
 em
 diversas linguagens de programação.
 
-
 ,
-
 
 Sim, há um tipo homogêneo de dados, que é o vetor. No caso, é implementado um vetor
 de
@@ -5278,7 +5127,6 @@ Isso vai permitir que n1 esteja entre 0 e 10, ou que n2 esteja entre 0 e 10.
 Queremos que os dois
 estejam entre 0 e 10. Falso.
 
-
 c) (n1 >= 0 OU n1 <=10) E (n2 >= 0 OU n2 <=10)
 
 Isso também vai permitir que n1 ou n2 sejam maiores do que 0, e inclusive maior do que 10.
@@ -5327,9 +5175,7 @@ c) 0, 1 e 0 no caso de passagem de parâmetros por valor e.
 
 d) 0, 1 e 1 no caso de passagem de parâmetros por valor e.
 
-
 ,
-
 
 0, 1 e 1 no caso de passagem de parâmetros por referência.
 
@@ -5356,7 +5202,7 @@ escreva a // Se for passagem por valor, escreve 0; se for por referência, escre
 Ele escreve 0, 1 e 0, no caso de passagem de parâmetros por valor e 0, 1 e 1, no caso de passagem
 de parâmetros por referência. Gabarito: C
 
-Item. 22. (FCC - 2012 - ARCE - Analista Judiciário) Há duas maneiras de se passar
+22. (FCC - 2012 - ARCE - Analista Judiciário) Há duas maneiras de se passar
 argumentos ou
 parâmetros para funções: por valor e por referência. Todas as afirmativas sobre passagem
 de parâmetros estão corretas, EXCETO:
@@ -5395,14 +5241,11 @@ da função e fora dela; (e) Correto. Conforme vimos, são passadas cópias do v
 logo seu valor
 é alterado apenas dentro da função, mas não fora dela. Gabarito: C
 
-
 x-""' 99
-
 
 /' 244
 
 /
-
 
 23.(FCC - 2012 - BANESE) Dadas as variáveis reais (K e M), inteiras (X e Y) e lógicas (W e Z),
 produz um resultado correto o comando de atribuição:
@@ -5472,8 +5315,7 @@ Z é lógico. X é inteiro. Y é inteiro. X + Y, ou seja, "X mais Y", resulta em
 Não é possível atribuir a uma variável lógica (Z) um resultado de uma expressão de soma de dois
 inteiros (X + Y). Falso. Gabarito: B
 
-
-Item. 24. (FCC - 2010 - TJ-PA) Considere a seguinte e somente a seguinte
+24. (FCC - 2010 - TJ-PA) Considere a seguinte e somente a seguinte
 situação: Se um
 procedimento Px contiver uma referência a um outro procedimento Py que por sua vez
 contém uma referência direta ou indireta a Px, então
@@ -5530,9 +5372,7 @@ a) For
 b) lf...Then...Else
 c) While
 
-
 ,
-
 
 d) Do...While
 e) Next
@@ -5597,9 +5437,7 @@ IV. Registro é uma estrutura básica que permite guardar coleções de dados de
 diferentes
 tipos, sendo normalmente utilizado quando um objeto tem diferentes atributos.
 
-
 ,
-
 
 É correto o que consta APENAS em
 a) I e III.
@@ -5664,9 +5502,7 @@ c) Máquina de Turing.
 
 d) Sistema de Post.
 
-
 ,
-
 
 e) Máquina com Pilhas.
 
@@ -5724,11 +5560,9 @@ e) pode chamar a si mesma.
 
 Comentários:
 
-
 / 244
 
 /
-
 
 Por fim, vamos falar sobre recursividade! O que é isso, professor? Formalmente, é uma
 maneira
@@ -5740,10 +5574,9 @@ em recursividade por meio de imagens como as apresentadas abaixo.
 
 Conforme vimos em aula, ela pode chamar a si mesma. Gabarito: E
 
-
 QUESTõES CoMENTADAS - FCV
 
-Item. 1. (FGV - 2018 - Câmara de Salvador-BA) Expressões lógicas são frequentemente utilizadas
+1. (FGV - 2018 - Câmara de Salvador-BA) Expressões lógicas são frequentemente utilizadas
 em linguagens de programação. Por exemplo, um comando if com a expressão
 if not (A and B)
 
@@ -5770,15 +5603,13 @@ não (A ou B) = não A e não B
 
 Portanto, not (A and B) = not A or not B. Gabarito: Letra B.
 
-Item. 2. (FGV - 2018 - Câmara de Salvador-BA) Observe o trecho de pseudocódigo
+2. (FGV - 2018 - Câmara de Salvador-BA) Observe o trecho de pseudocódigo
 exibido a
 seguir.
-
 
 /' 244
 
 /
-
 
 a : = 1 ;
 
@@ -5840,7 +5671,6 @@ if a > c {
 Realiza o teste: 1 > 5
 Falso. Entra no "else".
 
-
 Realiza o teste: if a + b < c. 1 + 3 < 7.
 Verdadeiro. Entra dentro do if.
 
@@ -5879,7 +5709,6 @@ if a > c {
 
 Realiza o teste: 3 > 9
 
-
 Falso. Entra no "else".
 
 Realiza o teste: ifa + b<c. 3 + 7 < 11.
@@ -5917,7 +5746,6 @@ if a > c {
 
 Realiza o teste: 4 > 13
 Falso. Entra no "else".
-
 
 Realiza o teste: ifa + b<c. 4 + 9<15.
 Verdadeiro. Entra dentro do if.
@@ -5958,7 +5786,6 @@ if a > c {
 
 Realiza o teste: 6 > 17
 
-
 Falso. Entra no "else".
 
 Realiza o teste: if a + b < c. 6 + 13 < 19.
@@ -5993,12 +5820,11 @@ Fim do programa. Valores: a = 7, b = 15, c = 21
 
 Gabarito: Letra D.
 
-Item. 3. (FGV - 2018 - SEFIN-RO) Analise o trecho de pseudocódigo a seguir.
+3. (FGV - 2018 - SEFIN-RO) Analise o trecho de pseudocódigo a seguir.
 
 Assinale a opção que exibe o conteúdo integral do resultado que seria produzido numa
 hipotética
 execução desse código.
-
 
 a) 2 20
 
@@ -6014,12 +5840,9 @@ d) 2
 
 e) 2 20
 
-
 5 20
 
-
 8 20
-
 
 Comentários:
 
@@ -6045,7 +5868,6 @@ Verdadeiro. Entra no if, e cai em um outro if: if a > 5. Realiza o teste: a > 5.
 
 Verdadeiro. Entra no "então", e imprime "8 20"
 
-
 Fora dos ifs, mas ainda dentro do loop, executa a = a + 3 = 8 + 3 = 11.
 Fim do loop. Valores: a = 11, b = 20. Volta pro teste do while.
 
@@ -6055,7 +5877,7 @@ Note que, em todo o processo, somente houve uma impressão: 8 20.
 
 Gabarito: Letra C.
 
-Item. 4. (FGV - 2018 - Prefeitura de Niterói - RJ) Sabendo-se que a função retorna o
+4. (FGV - 2018 - Prefeitura de Niterói - RJ) Sabendo-se que a função retorna o
 número de
 elementos de um array e que L assume o tipo de um array de inteiros, indexados a
 partir
@@ -6103,11 +5925,9 @@ e) {2,10,10,10,10,12}
 
 Comentários:
 
-
 /' 244
 
 /
-
 
 Primeiro, algumas considerações.
 
@@ -6156,7 +5976,6 @@ Define trocou = true.
 
 Valor de L = 2,2,40,53,28,12.
 
-
 Para k = 1:
 
 Testa L[k] > L[k+1 ], ou seja, L[1 ] > L[2], ou seja, 2 > 40.
@@ -6174,7 +5993,6 @@ Valor de L = 2,2,40,53,28,12.
 Para k = 3:
 
 Testa L[k] > L[k+1 ], ou seja, L[3] > L[4], ou seja, 53 > 28.
-
 
 Verdadeiro. Entra no if.
 
@@ -6195,11 +6013,9 @@ L[k] = L[k+1], ou seja, L[4] = L[5], ou seja, L[4] = 12.
 L[k+1] = L[k], ou seja, L[5] = L[4], ou seja, L[5] = 28.
 Define trocou = true.
 
-
 / 244
 
 /
-
 
 Valor de L = 2,2,40,28,12,12.
 
@@ -6238,11 +6054,9 @@ Define trocou = true.
 
 Valor de L = 2,2,28,28,12,12.
 
-
 / 244
 
 /
-
 
 Para k = 3:
 
@@ -6279,11 +6093,9 @@ Falso. Não entra no loop.
 
 Valor de L = 2,2,28,12,12,12.
 
-
 / 244
 
 /
-
 
 Para k = 1:
 
@@ -6320,11 +6132,9 @@ Valor de L = 2,2,12,12,12,12.
 
 Volta para o while.
 
-
 / 244
 
 /
-
 
 Realiza o teste, trocou é true, então entra no while.
 Iteração do while número 4
@@ -6361,9 +6171,7 @@ Falso. Não entra no loop.
 
 Valor de L = 2,2,12,12,12,12.
 
-
 ,
-
 
 Para k = 4:
 
@@ -6379,7 +6187,7 @@ Valor final de L = 2,2,12,12,12,12.
 
 Gabarito: Letra D.
 
-Item. 5. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo exibido a seguir.
+5. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo exibido a seguir.
 
 x = 1;
 
@@ -6419,11 +6227,9 @@ Comentários:
 
 * O algoritmo itera x e y sempre do valor inicial até 9.
 
-
 /' 244
 
 /
-
 
 * Primeiro ele itera incrementando o valor de x; e dentro da iteração do x, ele itera y,
 incrementando o valor de y, e printando os valores de x e y.
@@ -6498,11 +6304,9 @@ Os prints seriam os seguintes:
 
 2 5
 
-
 /' 244
 
 /
-
 
 2 6
 
@@ -6526,7 +6330,6 @@ Os prints seriam os seguintes:
 
 4 7
 
-
 4 9
 
 5 7
@@ -6535,15 +6338,13 @@ Os prints seriam os seguintes:
 
 5 9
 
-
 7 9
 
 Ou seja, 28 vezes.
 Gabarito: Letra A.
 
-Item. 6. (FGV - 2016 - Prefeitura de Paulínia - SP) Analise o pseudocódigo de uma função recursiva
+6. (FGV - 2016 - Prefeitura de Paulínia - SP) Analise o pseudocódigo de uma função recursiva
 exibido a seguir.
-
 
 function f(x as integer) as integer:
 if x = 1 then
@@ -6588,9 +6389,7 @@ Vai retornar recursivamente return x + f(x - 1), ou seja, return 8 + f(7)
 
 Entrou na função com f(7).
 
-
 Testa o if x = 1.
-
 
 Como x é 7, entra no "senão".
 
@@ -6605,7 +6404,6 @@ Testa o if x = 1.
 
 Como x é 6, entra no "senão".
 
-
 Vai retornar recursivamente return
 x + f(x - 1),
 
@@ -6614,7 +6412,6 @@ ou seja, return 6 + f(5)
 Entrou na função com f(5).
 
 Testa o if x = 1.
-
 
 Como x é 5, entra no "senão".
 
@@ -6629,7 +6426,6 @@ Testa o if x = 1.
 
 Como x é 4, entra no "senão".
 
-
 Vai retornar recursivamente return
 x + f(x - 1),
 
@@ -6641,7 +6437,6 @@ Testa o if x = 1.
 
 Como x é 3, entra no "senão".
 
-
 Vai retornar recursivamente return
 x + f(x - 1),
 
@@ -6652,7 +6447,6 @@ ou seja, return 3
 Entrou na função com f(2).
 
 Ô.O
-
 
 Testa o if x = 1.
 
@@ -6675,12 +6469,11 @@ Volta da recursão em que houve return 8 + f(7). Assim, retorna8 +28= 36.
 Volta da recursão em que houve return 9 + f(8). Assim, retorna9 +36= 45.
 Gabarito: Letra D.
 
-Item. 7. (FGV - 2016 - SEE-PE) Analise a função ff definida pelo trecho de pseudocódigo
+7. (FGV - 2016 - SEE-PE) Analise a função ff definida pelo trecho de pseudocódigo
 exibido a
 seguir.
 
 OO
-
 
 function ff (N as integer) as integer
 
@@ -6734,7 +6527,6 @@ Vai retornar recursivamente return N + ff(N - 1), ou seja, return 11+ ff(10)
 
 Entrou na função com ff(10).
 
-
 Testa o if N = 5.
 
 Como N é 10, entra no "senão".
@@ -6771,7 +6563,6 @@ Vai retornar recursivamente return N + ff(N - 1), ou seja, return 6 + ff(5)
 
 Entrou na função com ff(5).
 
-
 Testa o if N = 5.
 
 Como N é 5, finalmente entra no "então". ff(N) = N, ou seja, ff(5) = 5. Agora, vai
@@ -6789,7 +6580,7 @@ Portanto, ff(12) = 68.
 
 Gabarito: Letra C.
 
-Item. 8. (FGV - 2017 - SEPOG-RO) Considere o algoritmo em pseudocódigo descrito a seguir.
+8. (FGV - 2017 - SEPOG-RO) Considere o algoritmo em pseudocódigo descrito a seguir.
 
 para i=0 até n
 inicio
@@ -6807,7 +6598,6 @@ execute f
 Assinale a opção que indica o número de vezes em que o código irá executar a função
 f para n
 igual a 8.
-
 
 www. estra tegiaconcursos. com. br
 a) 25
@@ -6853,8 +6643,7 @@ de 0 a 8. Como, em cada vez, ele executa f 17 vezes, então 9*17 = 153.
 Portanto, vai executar 153 vezes.
 Gabarito: Letra B.
 
-Item. 9. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo a seguir.
-
+9. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo a seguir.
 
 function f(a as integer, b as integer, c as
 integer) as integer
@@ -6917,9 +6706,7 @@ por referência, as duas variáveis podem ser tratadas como a mesma coisa.
 Dito isso, vamos seguir o algoritmo a partir da chamada da função:
 Testar o while "while b <= c"
 
-
 ,
-
 
 b <= c" é "2 <= 3. Verdadeiro, então entra no loop.
 a=b+c=2+3=5
@@ -6944,16 +6731,14 @@ O retorno de f(x, y, z) = f(6, 4, 3) = 6 + 4 + 3 = 13.
 Vai imprimir: 13 6 4 3
 Gabarito: Letra B.
 
-Item. 10. (FGV - 2014 - SUSAM) A figura a seguir apresenta um fluxograma de
+10. (FGV - 2014 - SUSAM) A figura a seguir apresenta um fluxograma de
 uma função que
 fornece ao usuário o valor do ingresso que deverá ser cobrado para a entrada no cinema
 
 Os parâmetros de entrada da função são sua IDADE e PROFISSÃO. A conversão deste
 fluxograma em pseudolinguagem de programação é:
 
-
 ,
-
 
 (A)
 
@@ -6968,7 +6753,6 @@ IMPRIMA ('VALOR DO INGRESSO IGUAL A 20 REAIS')
 
 FIM SE
 
-
 (B)
 
 SE (IDADE < 18) E (PROFISSÃO = ESTUDANTE) E
@@ -6979,7 +6763,6 @@ IMPRIMA ('VALOR DO INGRESSO IGUAL A 10 REAIS')
 SENÃO
 
 IMPRIMA ('VALOR DO INGRESSO IGUAL A 20 REAIS')
-
 
 (C)
 
@@ -6995,7 +6778,6 @@ SENÃO
 IMPRIMA ('VALOR DO INGRESSO IGUAL A 10 REAIS')
 
 FIM SE
-
 
 (D)
 
@@ -7037,7 +6819,6 @@ caso, se for professor, ele manda ingresso a 10 reais. Do contrário, o ingresso
 Note que, se ele for menor de 18, já tem ingresso de 10 reais.
 Agora, se não for, mas for estudante, ele tem ingresso a 10 reais.
 
-
 E, se não for estudante, ele tem ingresso a 10 reais também.
 
 Ou seja, a condição para ter ingresso a 10 reais é uma dessas 3 possibilidades!
@@ -7051,7 +6832,7 @@ reais.
 
 Gabarito: Letra A.
 
-Item. 11. (FGV - 2013 - TCE-BA) No mapeamento de um processo, o fluxograma
+11. (FGV - 2013 - TCE-BA) No mapeamento de um processo, o fluxograma
 tem papel
 relevante, pois ele descreve e mapeia as etapas do processo de forma lógica e
 planejada.
@@ -7068,12 +6849,10 @@ c)
 
 d)
 
-
 www. estra tegiaconcursos. com. br
 e)
 
 Comentários:
-
 
 Os símbolos de fluxograma são os seguintes:
 
@@ -7083,12 +6862,10 @@ r
 Base de Dados
 k
 
-
 Subprocesso
 r
 
 Início/Fim
-
 
 F
 
@@ -7104,10 +6881,9 @@ k Conec 1
 Portanto, o de decisão é o C.
 Gabarito: Letra C.
 
-
 QUESTõES CoMENTADAS - MULTIBANCAS
 
-Item. 1. (Quadrix - 2022 - CRC-PR) A respeito dos diagramas de casos de uso, dos
+1. (Quadrix - 2022 - CRC-PR) A respeito dos diagramas de casos de uso, dos
 diagramas de classe,
 da análise essencial e da lógica de programação, julgue o item a seguir
 
@@ -7123,7 +6899,7 @@ passos para atingir um objetivo. Mas esse objetivo é sempre definido, e
 nunca indefinido.
 Gabarito: Errado.
 
-Item. 2. (SELECON - 2022 - Prefeitura de Pontes e Lacerda) O algoritmo abaixo utiliza os
+2. (SELECON - 2022 - Prefeitura de Pontes e Lacerda) O algoritmo abaixo utiliza os
 conceitos
 de passagem de parâmetros, sendo de SD para X por referência; de NR para Y e de VL
 para
@@ -7163,7 +6939,6 @@ fimalgontmo
 Nessas condições, ao final da execução, os valores para SD, NR e VL serão, respectivamente:
 
 a) GUAPORÉ, 2023 e VERDADEIRO
-
 
 b) BURITI, 2022 e VERDADEIRO
 
@@ -7205,20 +6980,17 @@ mantém o seu valor inicial, que é FALSO. Não entra no if.
 
 Por fim, escreve os valores na tela. SD = "BURITI", NR = 2023. VL = FALSO. Gabarito: Letra D.
 
-Item. 3. (SELECON - 2022 - Prefeitura de Pontes e Lacerda-MT) No que se
+3. (SELECON - 2022 - Prefeitura de Pontes e Lacerda-MT) No que se
 refere à lógica de
 programação, observe o pseudocódigo abaixo, referente a um algoritmo que contém
 uma
 função recursiva.
 
-
 1^6
-
 
 X 244
 
 /
-
 
 algoritmo "PL_2022"
 var
@@ -7280,11 +7052,9 @@ false.
 Verdadeiro, entra no "então" e retorna o valor de AUX = 0. O valor de AUX
 é retornado ao RP.
 
-
 / 244
 
 /
-
 
 o Escreve o valor de RP, que é 0.
 
@@ -7292,7 +7062,7 @@ Pronto. Agora já sabemos que a resposta da questão é a letra C, por eliminaç
 é a única
 que começa com 0, e que imprime 6 valores. Gabarito: Letra D.
 
-Item. 4. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
+4. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
 
 <— é o comando de atribuição
 
@@ -7336,11 +7106,9 @@ Vamos analisar o código linha a linha.
 
 As variáveis x, y e z são declaradas como inteiro.
 
-
 / 244
 
 /
-
 
 Atribui x = 100.
 Atribui z = 3.
@@ -7379,7 +7147,6 @@ Valores parciais: x = 110 y = 276 z = 6. Volta para o "enquanto".
 Como z <= 7, ou seja, 6 <= 7 é verdadeiro, então segue no "enquanto".
 x = x-15 = 110-15 = 95
 
-
 Chega no "if x % 2 = 0 então".
 
 x%2 = 95%2 = 1 =0, é falso, entra no "senão".
@@ -7392,7 +7159,7 @@ Valores parciais: x = 95 y = 189 z = 8. Volta para o "enquanto".
 Como z <= 7, ou seja, 8 <= 7 é falso, então sai do "enquanto".
 Portanto, ele escreve: 95 189 8. Gabarito: Letra B.
 
-Item. 5. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
+5. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
 
 «- é o comando de atribuição
 o índice da primeira posição do vetor é 1
@@ -7432,7 +7199,6 @@ c) 51,47,87,29,91.
 
 d) 47,61,87,29,91.
 
-
 Comentários:
 
 Novamente, temos um código que você precisa saber identificar de cara, pois aparece muito. É
@@ -7468,11 +7234,9 @@ Então troca os valores:
 x = vetor[2] = 91
 vetor[2] = vetor[3] = 61
 
-
 / 244
 
 /
-
 
 vetor[3] = x = 91
 
@@ -7510,7 +7274,6 @@ Valores parciais do vetor: [47,61,87,29,91]. Volta pro "enquanto".
 
 0 0
 
-
 Como i < 5, ou seja, 5 < 5, é falso, então, sai "enquanto".
 
 E imprime o valor do vetor inteiro, já que o loop itera de 1 até 5:
@@ -7519,7 +7282,7 @@ E imprime o valor do vetor inteiro, já que o loop itera de 1 até 5:
 
 Gabarito: Letra D.
 
-Item. 6. (UFSC - 2022 - UFSC) Considere o pseudocódigo do método de ordenação Insertion Sort, o
+6. (UFSC - 2022 - UFSC) Considere o pseudocódigo do método de ordenação Insertion Sort, o
 qual ordena em ordem crescente os números naturais armazenados em um vetor (array) v de
 tamanho t indexado a partir de zero (ou seja, índices do vetor variam de 0 a t-1).
 
@@ -7562,11 +7325,9 @@ b) x^v[j]
 
 v[j] v[j - 1]
 
-
 X 244
 
 /
-
 
 v[j-1]^x
 j^j-1
@@ -7622,7 +7383,6 @@ v[j] v[j - 1]
 v[j-1]^x
 j^j-1
 
-
 Este é o correto, com todas as características que mencionei anteriormente.
 
 c) x <—v[j]
@@ -7649,16 +7409,14 @@ j-j-2
 
 Também não funciona, pois a variável j está decrementada com - 2. Gabarito: Letra B.
 
-Item. 7. (IDECAN - 2021 - PEFOCE) Na construção de algoritmos e programas de computador, sendo
+7. (IDECAN - 2021 - PEFOCE) Na construção de algoritmos e programas de computador, sendo
 x e y duas condições de teste, os operadores lógicos AND e OR são bastante utilizados nas
 estruturas de controle dos tipos seleção e repetição e correspondem às tabelasverdade
 mostradas, respectivamente, em
 
-
 X 244
 
 /
-
 
 A) /a/so
 verdadeiro
@@ -7683,7 +7441,6 @@ verdadeiro
 
 F
 F
-
 
 falso
 
@@ -7711,7 +7468,6 @@ V
 
 V
 
-
 falso
 
 C)
@@ -7737,7 +7493,6 @@ verdadeiro
 F
 V
 
-
 falso
 
 D)
@@ -7762,7 +7517,6 @@ verdadeiro
 
 V
 F
-
 
 falso
 
@@ -7797,14 +7551,12 @@ enquanto que o OR é verdadeiro se pelo menos uma das duas preposições forem v
 
 Os diagramas que mostram isso estão na alternativa B. Gabarito: Letra B.
 
-Item. 8. (CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do
+8. (CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do
 algoritmo apresentado.
-
 
 / 244
 
 /
-
 
 programa {
 
@@ -7857,11 +7609,9 @@ e) 19
 
 Comentários:
 
-
 OO
 
 www. estra tegiaconcursos. com. br
-
 
 O que este algoritmo faz é ordenar os números do vetor, o Bubble Sort. É um algoritmo clássico
 e a melhor forma de resolver essa questão é conhecendo-o previamente, para já responder sem
@@ -7897,11 +7647,9 @@ Para i = 1:
 Testa o if: se vetor[i] > vetor [i+1], ou seja, se vetor[1] > vetor[2], ou seja, se 81 > 51
 naosei = vetor[i] = vetor[1] = 81
 
-
 / 244
 
 /
-
 
 Agora, troca os valores de vetor[1 ] e vetor[2].
 vetor[1 ] = vetorfi + 1 ] = vetor[2] = 51
@@ -7937,11 +7685,9 @@ Define achou = true.
 
 Valores do vetor: [37,51,77,19,81].
 
-
 / 244
 
 /
-
 
 Volta para o enquanto.
 
@@ -7976,9 +7722,7 @@ Define achou = true.
 
 Valores do vetor: [37,51,19,77,81].
 
-
 www. estra tegiaconcursos. com. br
-
 
 Para i = 3:
 
@@ -8013,9 +7757,7 @@ Define achou = true.
 
 Valores do vetor: [37,19,51,77,81].
 
-
 www. estra tegiaconcursos. com. br
-
 
 Para i = 2:
 
@@ -8050,9 +7792,7 @@ Define achou = true.
 
 Valores do vetor: [19,37,51,77,81].
 
-
 www. estra tegiaconcursos. com. br
-
 
 Para i = 1:
 
@@ -8086,9 +7826,7 @@ Para i = 0:
 Testa o if: se vetorfi] > vetor [i+1], ou seja, se vetor[0] > vetorfi], ou seja, se 19 > 37
 Falso. Não entra no if.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Valores do vetor: [19,37,51,77,81 ].
 
@@ -8120,14 +7858,12 @@ Valor final do vetor = [19,37,51,77,81 ].
 
 Gabarito: Letra C.
 
-Item. 9. (QUADRIX - 2017 - SEDF/DF - Professor - Informática) É correto afirmar que o uso de
+9. (QUADRIX - 2017 - SEDF/DF - Professor - Informática) É correto afirmar que o uso de
 algoritmos eficientes está relacionado ao emprego de estruturas de dados adequadas.
-
 
 X 244
 
 /
-
 
 Comentários:
 
@@ -8141,14 +7877,12 @@ programação.
 Inicio algoritmo
 var
 
-
 Inicio
 
 N: inteiro
 para N de 1 ate 9 faca
 se N mod 2 = 1 então
 escreva(N)
-
 
 fimpara
 fim algoritmo
@@ -8167,11 +7901,9 @@ e) 1,3, 5, 7, 8
 
 Comentários:
 
-
 / 244
 
 /
-
 
 Para cada número de 1 a 9, se o resto da divisão desse número por 2 for igual a 1, escreva esse
 número. Logo:
@@ -8212,11 +7944,9 @@ V. Serve como modelo para programas, pois sua linguagem é intermediária à lin
 e às linguagens de programação, funcionando como uma boa ferramenta na validação da lógica
 de tarefas a serem automatizadas.
 
-
 / 244
 
 /
-
 
 Estão CORRETAS as proposições:
 
@@ -8260,7 +7990,6 @@ b) O comando retorne pode ser retirado do código e a função terá o mesmo efe
 
 c) Exemplo clássico de recursividade.
 
-
 d) Não é possível chamar a função fatorial dentro dela mesma.
 
 e) O resultado da função sempre retornará um valor elevado a ele mesmo (valor A valor).
@@ -8299,11 +8028,9 @@ provavelmente seria por valor. Gabarito: D
 14.(CESGRANRIO - 2014 - EPE - Tecnologia da Informação) Analise o algoritmo abaixo, onde
 a%b representa o resto da divisão de a por b.
 
-
 X 244
 
 /
-
 
 inicio
 inteiro x, y,i,r
@@ -8349,7 +8076,6 @@ Então, vamos testar?
 
 x= 128
 
-
 www. estra tegiaconcursos. com. br
 y = 56
 
@@ -8389,7 +8115,6 @@ Pessoa, nós podemos continuar fazendo na mão até descobri o valor final de r,
 perceberam que esse algoritmo está querendo descobrir o Máximo Divisor Comum (MDC) entre
 www. estra tegiaconcursos. com. br
 
-
 128 e 56? Ele sempre está decompondo os dois números e fará isso até descobrir qual será o
 MDC entre eles. Uma vez descoberto isso, eu não preciso fazer na mão. Sabemos 128 é divisível
 por 1,2, 4, 8, 16, 32 e 64. Sabemos que 56 é divisível por 1,2, 4, 7 e 8. Vimos que ambos têm
@@ -8426,11 +8151,9 @@ Que número seria impresso caso esse programa executasse?
 
 a) 0
 
-
 / 244
 
 /
-
 
 b) 10
 
@@ -8511,13 +8234,10 @@ Y0Y + 2, ou seja, Y 0 24;
 
 Enquanto X >= Y-1 faça, ou seja, enquanto 98 >= 21 faça.
 
-
 kWu
-
 
 ~ 05152001900 - Everton Murilo
 Vieira /
-
 
 X0X-1,ou seja, X097;
 Y0Y + 2, ou seja, Y 0 26;
@@ -8562,9 +8282,7 @@ X = 83, Y = 54;
 
 X = 82, Y = 56;
 
-
 www. estra tegiaconcursos. com. br
-
 
 X = 81,Y = 58;
 X = 80, Y = 60;
@@ -8594,9 +8312,7 @@ Gabarito: D
 apresentado na forma de uma pseudolinguagem (Português Estruturado). Esse algoritmo
 deverá ser utilizado para responder às questões.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Inicio
 
@@ -8643,11 +8359,9 @@ x2 0 x1 + x3 = 5 + 3 = 8 (x1, x2, x3 = 5, 8, 3)
 
 x3 0 x1 - x2 = 5 - 8 = -3 (x1, x2, x3 = 5, 8, -3)
 
-
 / 244
 
 /
-
 
 Quando i = 2, temos que:
 
@@ -8683,11 +8397,9 @@ Repetir
 
 Atribuir X - 2 a X;
 
-
 / 244
 
 /
-
 
 Imprimir (X);
 Até que X < -1;
@@ -8725,9 +8437,7 @@ Portanto, a estrutura é executada até X = -3. Gabarito: B
 19.(CONSULPLAN - 2012 - TSE - Programador de computador) Observe o trecho de
 pseudocódigo, que mostra o emprego da estrutura de controle enquanto ... faça ...
 
-
 / 244
-
 
 atribuir 0 a n;
 enquanto n < 7 faça
@@ -8765,7 +8475,6 @@ se AUX <=2
 
 então atribuir 5 a FF
 
-
 www. estra tegiaconcursos. com. br
 senão atribuir AUX*FF(AUX-1) a FF;
 fim; {fim da função FF}
@@ -8801,7 +8510,6 @@ AZUL tem o valor retornado por FF(4)
 
 AUX tem o valor 4 (passagem de parâmetro na chamada do programa principal)
 
-
 VERDE RECEBE VERDE + 1, ou seja, VERDE RECEBE 1
 
 AUX <= 2? Ou ainda, 4 <= 2? Não! Bloco senão é executado
@@ -8831,11 +8539,9 @@ FF retorna 5
 
 /* Agora é hora de voltar nas chamadas recursivas, do último para o primeiro
 
-
 X 244
 
 /
-
 
 Isso lembra alguma coisa?? LIFO?? Pilhas! São utilizadas nas chamadas
 recursivas para voltar a execução na hierarquia das chamadas */
@@ -8863,11 +8569,9 @@ limpe a tela
 escreva ("Seu nome é:", nome)
 escreva ("Sua idade é:", idade)
 
-
 / 244
 
 /
-
 
 se (nome = "João") então
 se (idade > 18) então
@@ -8896,7 +8600,6 @@ escreva (tecla)
 0 0
 ' 173
 
-
 leia (nome)
 
 escreva ("nome digitado: ")
@@ -8923,7 +8626,6 @@ escreva ("Digite seu nome: ")
 leia (nome)
 
 num <— 0
-
 
 www. estra tegiaconcursos. com. br
 se (nome = "José") então
@@ -8958,7 +8660,6 @@ fim algoritmo
 
 0 0
 ' 175
-
 
 Comentários:
 
@@ -8995,7 +8696,6 @@ a) 162 e 110.
 
 b) 110 e 121.
 
-
 www. estra tegiaconcursos. com. br
 c) 110e 162.
 
@@ -9030,11 +8730,9 @@ instruções do bloco da estrutura
 
 N2 recebe 32 + 6
 
-
 X 244
 
 /
-
 
 N1 recebe 6*3
 
@@ -9066,16 +8764,14 @@ N1 recebe 54 * 3
 N1 é igual a 162
 N2 é igual a 110
 
-
 / 244
 
 /
 
-
 Teste: N1 < N2? Não (finalmente :D), visto que 162 não é menor que 110!! Desse
 modo, saímos
 do loop e voltamos para a instrução imediatamente posterior, ou seja: N1 recebe 110 +
-Item. 11. Fim
+11. Fim
 do Código. Ao final, N1 tem o valor de 121 e N2 de 110. Gabarito: D
 
 23.(CESGRANRIO - 2010 - PETROBRÁS-Técnico em Informático) Relacionado à programação
@@ -9111,11 +8807,9 @@ a) O número de constantes deve ser menor ou igual ao número de variáveis em u
 b) O número de constantes deve ser menor ou igual ao número de procedimentos em um
 programa.
 
-
 / 244
 
 /
-
 
 c) O número de constantes deve ser igual ao número de variáveis em um programa.
 
@@ -9127,35 +8821,33 @@ Comentários:
 
 Galera, não há essa relação! O número de constantes e variáveis são independentes. Gabarito: D
 
-
 X 244
 
 /
 
-
 LISTA DE QUESTõES - CESPE
 
-Item. 1. (CESPE / CEBRASPE - 2022 - BANRISUL) Em um algoritmo, todo resultado
+1. (CESPE / CEBRASPE - 2022 - BANRISUL) Em um algoritmo, todo resultado
 de uma
 operação de entrada de dados é armazenado em uma posição na memória.
 
-Item. 2. (CESPE / CEBRASPE - 2022 - BANRISUL) Os laços usados em estruturas de repetição
+2. (CESPE / CEBRASPE - 2022 - BANRISUL) Os laços usados em estruturas de repetição
 e
 teste podem ser feitos por meio de comandos como enquanto e repita.
 
-Item. 3. (CESPE / CEBRASPE - 2022 - BANRISUL) O fluxograma é uma das formas
+3. (CESPE / CEBRASPE - 2022 - BANRISUL) O fluxograma é uma das formas
 de se
 representarem as instruções de um programa, utilizando-se de alguns comandos
 genéricos
 ou primitivos para a interpretação do algoritmo.
 
-Item. 4. (CESPE / CEBRASPE - 2022 - BANRISUL) As estruturas se e senão são
+4. (CESPE / CEBRASPE - 2022 - BANRISUL) As estruturas se e senão são
 estruturas de
 repetição utilizadas nas situações em que, caso determinada condição seja
 alcançada, um
 comando é realizado, caso contrário, outro comando é executado.
 
-Item. 5. (CESPE/CEBRASPE - 2022 - POLITEC - RO) O autômato finito determinístico:
+5. (CESPE/CEBRASPE - 2022 - POLITEC - RO) O autômato finito determinístico:
 
 a) corresponde à função de transição que recebe um estado ou um símbolo de entrada que
 sempre retorna um conjunto de estados como resultado.
@@ -9168,13 +8860,11 @@ d) permite zero, uma ou n transições para os estados de entrada.
 
 e) consegue estar em vários estados ao mesmo tempo.
 
-Item. 6. (CESPE/CEBRASPE - 2022 - SEED-PR)
-
+6. (CESPE/CEBRASPE - 2022 - SEED-PR)
 
 / 244
 
 /
-
 
 programa
 
@@ -9214,7 +8904,7 @@ d) 120
 
 e) 720
 
-Item. 7. (CESPE / CEBRASPE - 2021 - SEED-PR) Considerando a, b, c e d como variáveis com
+7. (CESPE / CEBRASPE - 2021 - SEED-PR) Considerando a, b, c e d como variáveis com
 valores iniciais iguais a 5, 7, 3 e 9, respectivamente, assinale a opção correta.
 
 a) O resultado da expressão (a != 3 || b < 10 || c == 5) é falso.
@@ -9227,36 +8917,34 @@ d) O resultado da expressão (c == 4 || d <=6) && (a >= 5 && b !=9) || (! (a < 5
 
 e) O resultado da expressão (a == 3 || b > 10 || d == 8 ) é verdadeiro.
 
-Item. 8. (CESPE / CEBRASPE - 2021 - SEED-PR)
-
+8. (CESPE / CEBRASPE - 2021 - SEED-PR)
 
 / 244
 
 /
 
+1. var
 
-Item. 1. var
+2. valores: vetor [1..5] de inteiro
 
-Item. 2. valores: vetor [1..5] de inteiro
-
-Item. 3. resultado, x: real
+3. resultado, x: real
 4 .
 
-Item. 5. inicio
+5. inicio
 
-Item. 6. para i de 1 ate 5 faca
+6. para i de 1 ate 5 faca
 
-Item. 7. leia(valores)
+7. leia(valores)
 
-Item. 8. x<- x + valores
+8. x<- x + valores
 
-Item. 9. fimpara
+9. fimpara
 
-Item. 10. resultado <- x / 5
+10. resultado <- x / 5
 
-Item. 11. escreva("Resultado: ", resultado)
+11. escreva("Resultado: ", resultado)
 
-Item. 12. fimalgoritmo
+12. fimalgoritmo
 
 O resultado da lógica dos algoritmos precedente é a:
 
@@ -9270,32 +8958,31 @@ d) soma dos valores da matriz vetor.
 
 e) ordenação dos valores de 1 a 5.
 
-Item. 9. (CESPE / CEBRASPE - 2021 - SEED-PR)
+9. (CESPE / CEBRASPE - 2021 - SEED-PR)
 
-Item. 1. var
+1. var
 
-Item. 2. num: inteiro
+2. num: inteiro
 
-Item. 3. inicio
+3. inicio
 
-Item. 4. leia (num)
+4. leia (num)
 
-Item. 5. se (num % 2) =/= 0 então
+5. se (num % 2) =/= 0 então
 
-Item. 6. escreva("X")
+6. escreva("X")
 
-Item. 7. senão
+7. senão
 
-Item. 8. escreva("Y")
+8. escreva("Y")
 
-Item. 9. fimse
+9. fimse
 
-Item. 10. fimalgoritmo
+10. fimalgoritmo
 
 Considerando-se a lógica do algoritmo anterior, é correto afirmar que, para
 todo valor de num
 (linha 4):
-
 
 a) maior que 2, escreve Y.
 
@@ -9344,26 +9031,25 @@ e) 16.
 
 11 .(CESPE / CEBRASPE - 2021 - SEED-PR)
 
+1. var
 
-Item. 1. var
+2. cont,n,resultado:inteiro
 
-Item. 2. cont,n,resultado:inteiro
+3. inicio
 
-Item. 3. inicio
+4. resultado <-l
 
-Item. 4. resultado <-l
+5. leia(n)
 
-Item. 5. leia(n)
+6. para cont de 1 ate n passo 1 faca
 
-Item. 6. para cont de 1 ate n passo 1 faca
+7. resultado <- resultado *cont
 
-Item. 7. resultado <- resultado *cont
+8. fimpara
 
-Item. 8. fimpara
+9. escreva(resultado)
 
-Item. 9. escreva(resultado)
-
-Item. 10. fimalgoritmo
+10. fimalgoritmo
 a) 4, o resultado será 4.
 
 b) 3, o resultado será 5
@@ -9374,7 +9060,7 @@ d) 6, o resultado será 30.
 
 e) 5, o resultado será 120.
 
-Item. 12. (CESPE / CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta a representação
+12. (CESPE / CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta a representação
 booleana equivalente mais simplificada para a função F(X, Y, Z) = XZ + Z(X' + XY).
 
 a) Z + Y-Z
@@ -9402,7 +9088,6 @@ e) pelo teorema da identidade.
 
 14.(CESPE / CEBRASPE - 2021 - PG-DF) O resultado do pseudocódigo precedente será 120.
 
-
 função avaliar( a, b )
 início
 ma <-a;
@@ -9429,7 +9114,7 @@ escreva ( v[0] + " " +v[l] );
 
 fim;
 
-Item. 16. (CESPE / CEBRASPE - 2021 - SEED-PR) (4 > 2) xor (5 = 3) and (4 > 2) or (5 = 5)
+16. (CESPE / CEBRASPE - 2021 - SEED-PR) (4 > 2) xor (5 = 3) and (4 > 2) or (5 = 5)
 
 Assinale a opção que apresenta o resultado da expressão anterior.
 
@@ -9444,7 +9129,6 @@ e) Verdadeiro
 
 17.(CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do
 algoritmo apresentado.
-
 
 programa {
 
@@ -9505,7 +9189,6 @@ função de implementar desvios incondicionais no programa, mas que é de uso
 proibido na
 programação estruturada.
 
-
 a) IF-THEN-ELSE
 
 b) CASE
@@ -9549,8 +9232,7 @@ Y está definida com escopo local na área de dados da memória; dessa forma, as
 variáveis A e B
 somente são visíveis quando a sub-rotina TROCA é executada.
 
-Item. 21. (CESPE / CEBRASPE - 2019 - TJ-AM]
-
+21. (CESPE / CEBRASPE - 2019 - TJ-AM]
 
 programa TROCA_VALORES
 var
@@ -9589,7 +9271,7 @@ de x, se x for menor que 0; o valor de x será mantido, se x for igual a zero.
 
 Se (x > 0) então x++; senão if (x < 0) x- ;
 
-Item. 23. (CESPE/CEBRASPE - 2018 - ABIN) Na lógica de programação, um bloco de
+23. (CESPE/CEBRASPE - 2018 - ABIN) Na lógica de programação, um bloco de
 comando é
 definido como um conjunto de ações para determinada função e tem como
 delimitadores
@@ -9610,7 +9292,6 @@ b = f;
 document.write(b);
 
 }
-
 
 www. estra tegiaconcursos. com. br
 a) 123456
@@ -9674,21 +9355,19 @@ d) 8.
 
 e) 9.
 
-Item. 27. (CESPE/CEBRASPE - 2016 - TCE/PA) A passagem de parâmetro em uma
+27. (CESPE/CEBRASPE - 2016 - TCE/PA) A passagem de parâmetro em uma
 rotina pode
 ocorrer de duas maneiras: por valor ou por referência. Em se tratando da
 passagem por
 valor, alteram-se os valores dos parâmetros que foram passados para a função.
 
-
 ,
 
-
-Item. 28. (CESPE/CEBRASPE - 2016 - TCE/PA) Em se tratando de linguagens
+28. (CESPE/CEBRASPE - 2016 - TCE/PA) Em se tratando de linguagens
 procedimentais, os
 dados são globais e, portanto, acessíveis a todos os procedimentos.
 
-Item. 29. (CESPE/CEBRASPE - 2015 - TER-GO) Comumente usados em fluxogramas representativos
+29. (CESPE/CEBRASPE - 2015 - TER-GO) Comumente usados em fluxogramas representativos
 de sistemas, os símbolos abaixo correspondem, respectivamente, a dados
 armazenados,
 processo, documento e entrada manual.
@@ -9710,13 +9389,11 @@ repetições.
 32.(CESPE - 2013 - CNJ - Programador de computador) No fluxograma abaixo, se A = 4, B =
 4 e C = 8, o resultado que será computado para Área é igual a 32.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Fim
 
-Item. 33. (CESPE - 2010 - MPU - Analista de Informática - Desenvolvimento de
+33. (CESPE - 2010 - MPU - Analista de Informática - Desenvolvimento de
 Sistemas) Se um
 trecho de algoritmo tiver de ser executado repetidamente e o número de
 repetições for
@@ -9732,7 +9409,7 @@ si mesmo, ou seja, a recursividade consiste em um método que, para que possa se
 aplicado
 a uma estrutura, aplica a si mesmo para as subestruturas componentes.
 
-Item. 35. (CESPE - 2011 - TJ-ES - Técnico de Informática - Específicos) Uma estrutura de
+35. (CESPE - 2011 - TJ-ES - Técnico de Informática - Específicos) Uma estrutura de
 repetição
 possibilita executar um bloco de comando, repetidas vezes, até que seja
 encontrada uma
@@ -9750,92 +9427,89 @@ desse tipo de estrutura por meio de estrutura de repetição pós-testada.
 a indireta
 necessitam de uma condição de saída ou de encerramento.
 
-
 GABARITo - CESPE
 
-Item. 1. CERTO
+1. CERTO
 
-Item. 2. ERRADO
+2. ERRADO
 
-Item. 3. ERRADO
+3. ERRADO
 
-Item. 4. ERRADO
+4. ERRADO
 
-Item. 5. LETRA C
+5. LETRA C
 
-Item. 6. LETRA E
+6. LETRA E
 
-Item. 7. LETRA B
+7. LETRA B
 
-Item. 8. LETRA A
+8. LETRA A
 
-Item. 9. LETRA C
+9. LETRA C
 
-Item. 10. LETRA D
+10. LETRA D
 
-Item. 11. LETRA E
+11. LETRA E
 
-Item. 12. LETRA E
+12. LETRA E
 
-Item. 13. LETRA D
+13. LETRA D
 
-Item. 14. ERRADO
+14. ERRADO
 
-Item. 15. ERRADO
+15. ERRADO
 
-Item. 16. ERRADO
+16. ERRADO
 
-Item. 17. LETRA C
+17. LETRA C
 
-Item. 18. LETRA C
+18. LETRA C
 
-Item. 19. ERRADO
+19. ERRADO
 
-Item. 20. ERRADO
+20. ERRADO
 
-Item. 21. ERRADO
+21. ERRADO
 
-Item. 22. CORRETO
+22. CORRETO
 
-Item. 23. ERRADO
+23. ERRADO
 
-Item. 24. ERRADO
+24. ERRADO
 
-Item. 25. LETRA C
+25. LETRA C
 
-Item. 26. LETRA B
+26. LETRA B
 
-Item. 27. ERRADO
+27. ERRADO
 
-Item. 28. ERRADO
+28. ERRADO
 
-Item. 29. ERRADO
+29. ERRADO
 
-Item. 30. ERRADO
+30. ERRADO
 
-Item. 31. CORRETO
+31. CORRETO
 
-Item. 32. ERRADO
+32. ERRADO
 
-Item. 33. CORRETO
+33. CORRETO
 
-Item. 34. CORRETO
+34. CORRETO
 
-Item. 35. CORRETO
+35. CORRETO
 
-Item. 36. ERRADO
+36. ERRADO
 
-Item. 37. CORRETO
-
+37. CORRETO
 
 /' 244
 
 /
 
-
 LISTA DE QUESTõES - FCC
 
-Item. 1. (FCC - 2022 - TST) Considere o trecho de um algoritmo em pseudocódigo que mostra
+1. (FCC - 2022 - TST) Considere o trecho de um algoritmo em pseudocódigo que mostra
 comandos condicionais (se) aninhados com início e fim delimitados por {}:
 
 se (B1)
@@ -9851,7 +9525,6 @@ senão { se(B2)
 então { Comando3
 
 }
-
 
 }
 
@@ -9874,13 +9547,11 @@ d) o Comando4 sempre será executado, uma vez que o comando B2 é sempre falso.
 
 e) o Comando5 sempre será executado.
 
-Item. 2. (FCC - 2022 - DPE-RS) Considere o seguinte algoritmo em pseudocódigo:
-
+2. (FCC - 2022 - DPE-RS) Considere o seguinte algoritmo em pseudocódigo:
 
 / 244
 
 /
-
 
 Algoritmo Valida
 tipo V = vetor [1..4] de inteiro
@@ -9923,9 +9594,8 @@ d) II deve ser preenchida com imprima ("Valor valido = ", vetor[indice])
 
 e) I deve ser preenchida com numero>=1900 ou numero<=2017
 
-Item. 3. (FCC - 2019 - TRF-4) Considere o programa em pseudocódigo abaixo, que não apresenta
+3. (FCC - 2019 - TRF-4) Considere o programa em pseudocódigo abaixo, que não apresenta
 erros.
-
 
 var varl=l, var2=2: inteiro
 funcaol()
@@ -9971,7 +9641,7 @@ d) Variaveis depois de chamar a funcaol (): var1=1 var2=2
 
 e) Variaveis depois de chamar a funcao2(): var1=101 var2=102
 
-Item. 4. (FCC - 2019 - AFAP) No âmbito dos sistemas de numeração
+4. (FCC - 2019 - AFAP) No âmbito dos sistemas de numeração
 computacionais, o número
 decimal 132 tem sua respectiva correspondência aos seguintes em binário e hexadecimal:
 
@@ -9985,7 +9655,7 @@ d) 1110 0100 e E4.
 
 e) 1000 0100 e 78
 
-Item. 5. (FCC - 2019 - AFAP) A soma do hexadecimal 1C5 com o binário de mais baixa ordem
+5. (FCC - 2019 - AFAP) A soma do hexadecimal 1C5 com o binário de mais baixa ordem
 1101, terá como resultado o decimal
 a) 434.
 
@@ -9997,11 +9667,9 @@ d) 479.
 
 e) 482
 
-
 ,
 
-
-Item. 6. (FCC - 2018 - SABESP) Antes de se escrever um programa em uma
+6. (FCC - 2018 - SABESP) Antes de se escrever um programa em uma
 linguagem de
 programação, uma prática recomendada é apresentar a lógica de
 programação usando
@@ -10020,7 +9688,6 @@ então
 n <- ano mod 100
 
 I
-
 
 Fim
 senão
@@ -10042,12 +9709,11 @@ d) se for fornecido 1950 para ano será impresso Ano inválido. (
 e) o usuário pode digitar apenas valores de ano com 4 dígitos, positivos e menores ou iguais
 ao ano atual (2018).
 
-Item. 7. (FCC - 2018 - SABESP) Considere, por hipótese, que a SABESP utiliza
+7. (FCC - 2018 - SABESP) Considere, por hipótese, que a SABESP utiliza
 diferentes preços
 de tarifas para os serviços de abastecimento de água e/ou coleta de esgoto
 para o
 município de São Paulo. Para a categoria Residencial/Favela as tarifas são:
-
 
 0 a 10
 
@@ -10070,11 +9736,9 @@ Valor da Tarifa
 
 acima de 50 7,89/m3
 
-
 /' 244
 
 /
-
 
 Foi solicitado a um estagiário propor a lógica de programação para a
 solução do seguinte
@@ -10096,7 +9760,7 @@ consumo.
 e. a instrução escolha caso para avaliar os diferentes tipos de valor que poderão ser
 pagos pelo usuário.
 
-Item. 8. (FCC - 2017 - ARTESP) Considere o fluxograma abaixo.
+8. (FCC - 2017 - ARTESP) Considere o fluxograma abaixo.
 
 De acordo com a lógica expressa pelo fluxograma, conclui-se que:
 
@@ -10111,10 +9775,9 @@ d) quando a SENHA_ATUAL não confere, esta é inicializada com "x".
 
 e) após acessar o comando que exibe ACESSO OK a estrutura de repetição finaliza.
 
-Item. 9. (FCC- 2017 - TRT 24a Região - MS - Técnico Judiciário - Tecnologia
+9. (FCC- 2017 - TRT 24a Região - MS - Técnico Judiciário - Tecnologia
 da Informação)
 Considere o algoritmo em pseudocódigo abaixo.
-
 
 var vl, v2, v3: inteiro
 início
@@ -10146,7 +9809,6 @@ d) 81
 e) 128
 
 1O.(FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo.
-
 
 Var pedágio, tm: real
 categoria: inteiro
@@ -10192,14 +9854,12 @@ comando condicional se.
 
 e) tem erro de sintaxe, pois o comando escolha deveria ter a cláusula senão, que é obrigatória.
 
-Item. 11. (FCC - 2017 - TRE-SP) Considere as duas funções, abaixo, escritas em pseudocódigo, que
+11. (FCC - 2017 - TRE-SP) Considere as duas funções, abaixo, escritas em pseudocódigo, que
 implementam uma lógica.
-
 
 /' 244
 
 /
-
 
 função fl (N: inteiro): real
 Início
@@ -10215,7 +9875,6 @@ Fim
 função f2 (N: inteiro): real
 Var i: inteiro
 result: real
-
 
 Início
 
@@ -10239,14 +9898,12 @@ d) recursiva faz cálculos e apresenta resultados totalmente diferentes da funç
 
 e) iterativa e a função recursiva retornam 1 para valores de N=0 e N = 1.
 
-Item. 12. (FCC - 2017 - TRE-SP) Considere a lógica do algoritmo, abaixo, expressa em
+12. (FCC - 2017 - TRE-SP) Considere a lógica do algoritmo, abaixo, expressa em
 pseudocódigo.
-
 
 / 244
 
 /
-
 
 Var
 tipo V= vetor [0. .4] inteiro
@@ -10280,7 +9937,6 @@ para (j <- 1 até 3 passo 1) faça
 imprima ("O candidato ", j," obteve ", votos[j], " votos")
 
 fim para
-
 
 Fim
 imprima ("Número de votos em branco= ", )
@@ -10325,16 +9981,13 @@ c) 27
 
 d) 81
 
-
 /' 244
 
 /
 
-
 e) 128
 
-Item. 14. (FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo:
-
+14. (FCC - 2017 - ARTESP) Considere o algoritmo em pseudocódigo abaixo:
 
 função dígitos (n:
 início
@@ -10367,11 +10020,9 @@ e) 6
 
 1£.(FCC - 2016 - CREMESP) Considere o diagrama abaixo:
 
-
 /' 244
 
 /
-
 
 Analisando o raciocínio lógico e as estruturas lógicas utilizadas no diagrama, é correto afirmar
 que:
@@ -10392,9 +10043,7 @@ por 2.
 16.(FCC - 2015 - DPE-SP) Considere o algoritmo em pseudocódigo no qual DIV calcula o
 quociente da divisão inteira e MOD o resto da divisão inteira:
 
-
 ,
-
 
 Var taxa, cinco, tres, quociente, resto: inteiro
 Início
@@ -10444,8 +10093,7 @@ d) para o valor inicial da taxa = 17 finaliza com cinco= 3 e tres=2.
 e) sempre finaliza com valores da variável cinco maiores ou igual a 1, masavariável tres pode
 ter valor 0.
 
-Item. 17. (FCC - 2015 - DPE-SP) Considere o algoritmo a seguir, na forma de pseudocódigo:
-
+17. (FCC - 2015 - DPE-SP) Considere o algoritmo a seguir, na forma de pseudocódigo:
 
 Var n, i, j , k,
 Var v: vetor[0.
@@ -10474,7 +10122,6 @@ x 0
 inteiro
 inteiro
 
-
 Este pseudocódigo
 
 Para j «- n-1 até k passo -1 faça
@@ -10495,11 +10142,9 @@ e) insere o valor de k entre v[x] e v[x+1 ] no vetor v.
 
 18.(FCC - 2015 - MANAUSPREV) Considere o fluxograma abaixo:
 
-
 /' 244
 
 /
-
 
 Se forem lidos para as variáveis A e B, respectivamente, os valores 4 e 4 será exibido o valor
 a) 47994.
@@ -10513,11 +10158,9 @@ d) 4372.
 19.(FCC - 2014 - TRT-16) Para responder às questões de números 43 e 44, considere o
 algoritmo em pseudo-código abaixo.
 
-
 / 244
 
 /
-
 
 tipo V= vetor [1..10] inteiro
 var i, k: inteiro
@@ -10558,7 +10201,7 @@ esta frase ser impressa uma única vez na pesquisa sequencial malsucedida no vet
 
 e) Se for fornecido 1 para k, será impresso "Sucesso" duas vezes.
 
-Item. 20. (FCC - 2014 - TRT-16) No algoritmo há:
+20. (FCC - 2014 - TRT-16) No algoritmo há:
 
 tipo V= vetor [1..10] inteiro
 var i, k: inteiro
@@ -10585,11 +10228,9 @@ imprima("Insucesso"
 
 fim
 
-
 / 244
 
 /
-
 
 a) diferentes estruturas de dados, de diferentes tipos básicos, que são encontrados em
 linguagens de programação procedurais.
@@ -10655,7 +10296,6 @@ devolva x
 
 Considere agora o seguinte trecho de código que invoca a função f definida acima.
 
-
 escreva a
 escreva f(a)
 escreva a
@@ -10683,7 +10323,7 @@ e) 0, 0 e 0 no caso de passagem de parâmetrospor valor e.
 
 0, 1 e 1 no caso de passagem de parâmetrospor referência.
 
-Item. 22. (FCC - 2012 - ARCE - Analista Judiciário) Há duas maneiras de se passar argumentos ou
+22. (FCC - 2012 - ARCE - Analista Judiciário) Há duas maneiras de se passar argumentos ou
 parâmetros para funções: por valor e por referência. Todas as afirmativas sobre passagem
 de parâmetros estão corretas, EXCETO:
 
@@ -10706,9 +10346,7 @@ produz um resultado correto o comando de atribuição:
 
 a) X «— K = M
 
-
 ,
-
 
 b) W <—X > Y
 
@@ -10718,7 +10356,7 @@ d) K + M «— 7.5
 
 e) Z <—X + Y
 
-Item. 24. (FCC - 2010 - TJ-PA) Considere a seguinte e somente a seguinte situação: Se um
+24. (FCC - 2010 - TJ-PA) Considere a seguinte e somente a seguinte situação: Se um
 procedimento Px contiver uma referência a um outro procedimento Py que por sua vez
 contém uma referência direta ou indireta a Px, então
 a) Px é subconjunto de Py.
@@ -10764,9 +10402,7 @@ entre o programa principal e os subprogramas, sendo que, na passagem de parâmet
 por valor, o valor real é passado e uma variável local é criada para armazená-lo; nesse
 processo sempre será efetuada a cópia dessa variável.
 
-
 ,
-
 
 II. Pilha é uma estrutura de dados com acesso restrito aos seus elementos ordenados pelo
 princípio FIFO; a pilha pode ser usada na avaliação de expressões numéricas, na
@@ -10818,78 +10454,75 @@ d) chama uma outra função.
 
 e) pode chamar a si mesma.
 
-
 /' 244
 
 /
 
-
 GABARITo - FCC
 
-Item. 1. LETRA E
+1. LETRA E
 
-Item. 2. LETRA E
+2. LETRA E
 
-Item. 3. LETRA D
+3. LETRA D
 
-Item. 4. LETRA C
+4. LETRA C
 
-Item. 5. LETRA B
+5. LETRA B
 
-Item. 6. LETRA C
+6. LETRA C
 
-Item. 7. LETRA D
+7. LETRA D
 
-Item. 8. LETRA C
+8. LETRA C
 
-Item. 9. LETRA D
+9. LETRA D
 
-Item. 10. LETRA B
+10. LETRA B
 
-Item. 11. LETRA E
+11. LETRA E
 
-Item. 12. LETRA C
+12. LETRA C
 
-Item. 13. LETRA D
+13. LETRA D
 
-Item. 14. LETRA E
+14. LETRA E
 
-Item. 15. LETRA C
+15. LETRA C
 
-Item. 16. LETRA B
+16. LETRA B
 
-Item. 17. LETRA B
+17. LETRA B
 
-Item. 18. LETRA B
+18. LETRA B
 
-Item. 19. LETRA B
+19. LETRA B
 
-Item. 20. LETRA D
+20. LETRA D
 
-Item. 21. LETRA C
+21. LETRA C
 
-Item. 22. LETRA C
+22. LETRA C
 
-Item. 23. LETRA B
+23. LETRA B
 
-Item. 24. LETRA B
+24. LETRA B
 
-Item. 25. LETRA B
+25. LETRA B
 
-Item. 26. LETRA A
+26. LETRA A
 
-Item. 27. LETRA D
+27. LETRA D
 
-Item. 28. LETRA C
+28. LETRA C
 
-Item. 29. LETRA E
+29. LETRA E
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
 LISTA DE QUESTõES - FGV
 
-Item. 1. (FGV - 2018 - Câmara de Salvador-BA) Expressões lógicas são frequentemente utilizadas
+1. (FGV - 2018 - Câmara de Salvador-BA) Expressões lógicas são frequentemente utilizadas
 em linguagens de programação. Por exemplo, um comando if com a expressão
 if not (A and B)
 
@@ -10905,7 +10538,7 @@ d) not (not A or not B)
 
 e) A and B
 
-Item. 2. (FGV - 2018 - Câmara de Salvador-BA) Observe o trecho de pseudocódigo exibido a
+2. (FGV - 2018 - Câmara de Salvador-BA) Observe o trecho de pseudocódigo exibido a
 seguir.
 
 a : = 1;
@@ -10921,7 +10554,6 @@ while b <> a and c < 20
 if a > c {
 
 c := c - 2
-
 
 }
 
@@ -10944,11 +10576,9 @@ print a, b, c;
 
 Numa hipotética execução desse código, os valores exibidos seriam:
 
-
 /' 244
 
 /
-
 
 a) 2,5,7;
 
@@ -10960,7 +10590,7 @@ d) 7, 15,21;
 
 e) 7, 17, 23
 
-Item. 3. (FGV - 2018 - SEFIN-RO) Analise o trecho de pseudocódigo a seguir.
+3. (FGV - 2018 - SEFIN-RO) Analise o trecho de pseudocódigo a seguir.
 
 Assinale a opção que exibe o conteúdo integral do resultado que seria produzido numa hipotética
 execução desse código.
@@ -10979,22 +10609,17 @@ d) 2
 
 e) 2 20
 
-
 5 20
-
 
 8 20
 
-
-Item. 4. (FGV - 2018 - Prefeitura de Niterói - RJ) Sabendo-se que a função retorna o número de
+4. (FGV - 2018 - Prefeitura de Niterói - RJ) Sabendo-se que a função retorna o número de
 elementos de um array e que L assume o tipo de um array de inteiros, indexados a partir
 de zero, analise o pseudocódigo a seguir.
-
 
 / 244
 
 /
-
 
 L := {10,2,40,53,28,12};
 
@@ -11034,7 +10659,7 @@ d) {2,2,12,12,12,12}
 
 e) {2,10,10,10,10,12}
 
-Item. 5. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo exibido a seguir.
+5. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo exibido a seguir.
 
 x = 1;
 
@@ -11056,11 +10681,9 @@ x = x+1;
 
 };
 
-
 / 244
 
 /
-
 
 De acordo com o pseudocódigo acima, assinale a opção que indica o número de vezes que o
 comando print é executado.
@@ -11075,7 +10698,7 @@ d) 84
 
 e) 100
 
-Item. 6. (FGV - 2016 - Prefeitura de Paulínia - SP) Analise o pseudocódigo de uma função recursiva
+6. (FGV - 2016 - Prefeitura de Paulínia - SP) Analise o pseudocódigo de uma função recursiva
 exibido a seguir.
 
 function f(x as integer) as integer:
@@ -11097,7 +10720,7 @@ d) 45
 
 e) 55
 
-Item. 7. (FGV - 2016 - SEE-PE) Analise a função ff definida pelo trecho de pseudocódigo exibido a
+7. (FGV - 2016 - SEE-PE) Analise a função ff definida pelo trecho de pseudocódigo exibido a
 seguir.
 
 function ff (N as integer) as integer
@@ -11120,7 +10743,6 @@ else
 
 Assinale a opção que indica o valor correto da expressão ff(12).
 
-
 www. estra tegiaconcursos. com. br
 a) 12
 
@@ -11132,7 +10754,7 @@ d) 72
 
 e) 78
 
-Item. 8. (FGV - 2017 - SEPOG-RO) Considere o algoritmo em pseudocódigo descrito a seguir,
+8. (FGV - 2017 - SEPOG-RO) Considere o algoritmo em pseudocódigo descrito a seguir,
 
 para i=0 até n
 inicio
@@ -11161,13 +10783,11 @@ d) 481
 
 e) 587
 
-Item. 9. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo a seguir.
-
+9. (FGV - 2016 - SEE-PE) Analise o trecho de pseudocódigo a seguir.
 
 / 244
 
 /
-
 
 function f(a as integer, b as integer, c as
 integer) as integer
@@ -11214,7 +10834,6 @@ e) 10, 8, 5 e 2.
 fornece ao usuário o valor do ingresso que deverá ser cobrado para a entrada no cinema
 www. estra tegiaconcursos. com. br
 
-
 Sim
 
 Não
@@ -11226,9 +10845,7 @@ V
 Os parâmetros de entrada da função são sua IDADE e PROFISSÃO. A conversão deste
 fluxograma em pseudolinguagem de programação é:
 
-
 www. estra tegiaconcursos. com. br
-
 
 (A)
 
@@ -11242,7 +10859,6 @@ SENÃO
 IMPRIMA ('VALOR DO INGRESSO IGUAL A 20 REAIS')
 
 FIM SE
-
 
 (B)
 
@@ -11268,7 +10884,6 @@ SENÃO
 IMPRIMA ('VALOR DO INGRESSO IGUAL A 10 REAIS')
 
 FIM SE
-
 
 (D)
 
@@ -11306,7 +10921,6 @@ uma decisão
 é
 a)
 
-
 b)
 
 c)
@@ -11315,36 +10929,33 @@ e)
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
 GABARITo - FCV
 
-Item. 1. LETRA B
+1. LETRA B
 
-Item. 2. LETRA D
+2. LETRA D
 
-Item. 3. LETRA C
+3. LETRA C
 
-Item. 4. LETRA D
+4. LETRA D
 
-Item. 5. LETRA A
+5. LETRA A
 
-Item. 6. LETRA D
+6. LETRA D
 
-Item. 7. LETRA C
+7. LETRA C
 
-Item. 8. LETRA B
+8. LETRA B
 
-Item. 9. LETRA B
+9. LETRA B
 
-Item. 10. LETRA A
+10. LETRA A
 
-Item. 11. LETRA C
-
+11. LETRA C
 
 ,
 
 /
-
 
 LISTA DE QUESTõES - MULTIBANCAS
 
@@ -11355,7 +10966,7 @@ Na lógica de programação, um algoritmo é conceituado como uma sequência est
 organizada de
 passos que tem por objetivo atingir um objetivo, seja ele definido ou indefinido.
 
-Item. 2. (SELECON - 2022 - Prefeitura de Pontes e Lacerda) O algoritmo abaixo utiliza os
+2. (SELECON - 2022 - Prefeitura de Pontes e Lacerda) O algoritmo abaixo utiliza os
 conceitos de
 passagem de parâmetros, sendo de SD para X por referência; de NR para Y e de VL para W por valor.
 
@@ -11400,12 +11011,11 @@ c) GUAPORÉ, 2022 e FALSO
 
 d) BURITI, 2023 e FALSO
 
-Item. 3. (SELECON - 2022 - Prefeitura de Pontes e Lacerda-MT) No que se refere à lógica
+3. (SELECON - 2022 - Prefeitura de Pontes e Lacerda-MT) No que se refere à lógica
 de programação,
 observe o pseudocódigo abaixo, referente a um algoritmo que contém uma função recursiva.
 
 *
-
 
 algoritmo "PL_2022"
 var
@@ -11437,11 +11047,9 @@ c) 011235
 
 d) 112358
 
-Item. 4. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
-
+4. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
 
 OO
-
 
 «— é o comando de atribuição
 
@@ -11478,13 +11086,11 @@ c) 80,189,7.
 
 d) 110, 276, 6.
 
-Item. 5. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
-
+5. (UFV - 2022 - UFV-MG) Considere o algoritmo em pseudocódigo a seguir
 
 X 244
 
 /
-
 
 «— é o comando de atribuição
 o índice da primeira posição do vetor é 1
@@ -11522,7 +11128,7 @@ c) 51,47,87,29,91.
 
 d) 47,61,87,29,91.
 
-Item. 6. (UFSC - 2022 - UFSC) Considere o pseudocódigo do método de ordenação Insertion
+6. (UFSC - 2022 - UFSC) Considere o pseudocódigo do método de ordenação Insertion
 Sort, o qual
 ordena em ordem crescente os números naturais armazenados em um vetor (array) v de
 tamanho t
@@ -11551,11 +11157,9 @@ enquanto j > 0 e v[j-l] > v[j] faça
 
 i *— i + 1
 
-
 / 244
 
 /
-
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -11592,7 +11196,7 @@ v[j] <- v[j -1]
 v[j -1]«- x
 j-j-2
 
-Item. 7. (IDECAN - 2021 - PEFOCE) Na construção de algoritmos e programas de computador,
+7. (IDECAN - 2021 - PEFOCE) Na construção de algoritmos e programas de computador,
 sendo x e y
 duas condições de teste, os operadores lógicos AND e OR são bastante utilizados nas
 estruturas de
@@ -11600,9 +11204,7 @@ controle dos tipos seleção e repetição e correspondem às tabelasverdade
 mostradas,
 respectivamente, em
 
-
 05152001900 --Evertroton MurirlioloVieieiriara
-
 
 A) falso
 verdadeiro
@@ -11625,7 +11227,6 @@ verdadeiro
 
 F
 F
-
 
 falso
 verdadeiro
@@ -11650,7 +11251,6 @@ verdadeiro
 V
 V
 
-
 C) falso
 verdadeiro
 falso
@@ -11674,7 +11274,6 @@ verdadeiro
 F
 V
 
-
 D) falso
 verdadeiro
 falso
@@ -11696,7 +11295,6 @@ verdadeiro
 
 V
 F
-
 
 falso
 
@@ -11724,7 +11322,7 @@ verdadeiro
 F
 V
 
-Item. 8. (CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do algoritmo
+8. (CESPE/CEBRASPE - 2021 - SEED-PR) Assinale a opção que apresenta o resultado do algoritmo
 apresentado.
 
 programa {
@@ -11770,7 +11368,6 @@ escreva (vetor[i]+ "\n")
 
 }
 
-
 www. estra tegiaconcursos. com. br
 a) 81
 5i
@@ -11781,25 +11378,20 @@ c) 19
 5i
 d) 51
 
-
 e) 19
-
 
 5i
 
-Item. 9. (QUADRIX - 2017 - SEDF/DF - Professor - Informática) É correto afirmar que 0 uso de algoritmos
+9. (QUADRIX - 2017 - SEDF/DF - Professor - Informática) É correto afirmar que 0 uso de algoritmos
 eficientes está relacionado ao emprego de estruturas de dados adequadas.
 
-Item. 10. (IF/CE-2017-IF/CE-Técnico de Tecnologia da Informação) Observe a seguinte lógica de
+10. (IF/CE-2017-IF/CE-Técnico de Tecnologia da Informação) Observe a seguinte lógica de
 programação.
-
 
 www. estra tegiaconcursos. com. br
 
-
 Inicio algoritmo
 var
-
 
 Inicio
 
@@ -11807,7 +11399,6 @@ N: inteiro
 para N de 1 ate 9 faca
 se N mod 2 = 1 então
 escreva(N)
-
 
 fimpara
 fim algoritmo
@@ -11841,11 +11432,9 @@ IV. Diferentes algoritmos não podem realizara mesma tarefa usando um conjunto
 diferenciado de
 instruções em mais ou menos tempo, espaço ou esforço do que outros.
 
-
 / 244
 
 /
-
 
 V. Serve como modelo para programas, pois sua linguagem é intermediária à linguagem humana e às
 linguagens de programação, funcionando como uma boa ferramenta na validação da lógica de tarefas
@@ -11863,7 +11452,7 @@ d) II, IV eV.
 
 e) I, II e III.
 
-Item. 12. (NUCEPE - 2015 - SEDUC/PI - Analista de Sistemas) O código abaixo é usado para calcular 0
+12. (NUCEPE - 2015 - SEDUC/PI - Analista de Sistemas) O código abaixo é usado para calcular 0
 fatorial de números. Assinale a alternativa CORRETA sobre esse código:
 
 função fatorial(n)
@@ -11887,13 +11476,11 @@ d) Não é possível chamar a função fatorial dentro dela mesma.
 
 e) O resultado da função sempre retornará um valor elevado a ele mesmo (valorA valor).
 
-
 / 244
 
 /
 
-
-Item. 13. (VUNESP -2015 -TCE/SP - Analista de Sistemas) Um usuário implementou uma rotina de um
+13. (VUNESP -2015 -TCE/SP - Analista de Sistemas) Um usuário implementou uma rotina de um
 programa, denominada Fatorial, e passou para essa rotina um parâmetro com 0 va lor 6, mas deseja
 receber, após a execução da rotina, nesse mesmo parâmetro, 0 valor 6! (seis fatorial). Para isso, a
 passagem de parâmetro deverá ser por:
@@ -11908,7 +11495,7 @@ d) referência.
 
 e) valor.
 
-Item. 14. (CESGRANRIO -2014- EPE - Tecnologia da Informação) Analise 0 algoritmo abaixo, onde a%b
+14. (CESGRANRIO -2014- EPE - Tecnologia da Informação) Analise 0 algoritmo abaixo, onde a%b
 representa 0 resto da divisão de a por b.
 
 inicio
@@ -11930,11 +11517,9 @@ a) 2
 
 b) 8
 
-
 / 244
 
 /
-
 
 c) 56
 
@@ -11942,7 +11527,7 @@ d) 64
 
 e) 128
 
-Item. 15. (CESGRANRIO - 2014 - PETROBRÁS - Analista de Sistemas) Analise 0 algoritmo abaixo em
+15. (CESGRANRIO - 2014 - PETROBRÁS - Analista de Sistemas) Analise 0 algoritmo abaixo em
 português estruturado.
 
 algoritmo segredo;
@@ -11976,13 +11561,11 @@ c) 15
 
 d) 100
 
-
 /
-
 
 e) 150
 
-Item. 16. (CESGRANRIO - 2014 - BASA - Analista de Sistemas) A saída do algoritmo apresentado abaixo para
+16. (CESGRANRIO - 2014 - BASA - Analista de Sistemas) A saída do algoritmo apresentado abaixo para
 as entradas 100 e 20, respectivamente, é
 inicio
 inteiro X, Y
@@ -12005,12 +11588,12 @@ d) 4
 
 e) 7
 
-Item. 17. (VUNESP -2014- SP/URBANISMO - Analista Administrativo) Analise 0 algoritmo a seguir,
+17. (VUNESP -2014- SP/URBANISMO - Analista Administrativo) Analise 0 algoritmo a seguir,
 apresentado na forma de uma pseudolinguagem (Português Estruturado). Esse algoritmo deverá ser
 utilizado para responder às questões.
 
 Considere que os valores lidos para xi, X2 e X3 tenham sido, respectivamente, 5, 4 e
-Item. 3. É correto afirmar
+3. É correto afirmar
 que 0 valor impresso ao final da execução do algoritmo é igual a:
 
 a)-3
@@ -12023,11 +11606,9 @@ d) 8
 
 e) 11
 
-
 / 244
 
 /
-
 
 i8. (CONSULPLAN - 2012 - TSE - Programador de computador) Observe 0 trecho de pseudocódigo.
 
@@ -12044,7 +11625,7 @@ A estrutura será executada até que X seja igual ao seguinte valor:
 a) -i
 b) -3
 
-Item. 19. (CONSULPLAN - 2012 - TSE - Programador de computador) Observe 0 trecho de pseudocódigo, que
+19. (CONSULPLAN - 2012 - TSE - Programador de computador) Observe 0 trecho de pseudocódigo, que
 mostra 0 emprego da estrutura de controle enquanto ... faça ...
 
 atribuiro a n;
@@ -12061,13 +11642,12 @@ a) Para n de 0 até 6 faça imprimir(n);
 
 b) Para n de 0 até 7 faça imprimir(n);
 
-Item. 20. (CONSULPLAN - 2012 - TSE -Técnico - Programação de Sistemas) Analise 0 pseudocódigo, que
+20. (CONSULPLAN - 2012 - TSE -Técnico - Programação de Sistemas) Analise 0 pseudocódigo, que
 ilustra 0 uso de uma função recursiva.
 
 programa PPRRGG;
 variáveis
 www. estra tegiaconcursos. com. br
-
 
 VERDE, AZUL: numérica;
 
@@ -12098,14 +11678,13 @@ c) 60 e 3.
 
 d) 300 e 4.
 
-Item. 21. (IADES - 2011 - PG/DF - Analista Jurídico - Analista de Sistemas) Os algoritmos são compostos
+21. (IADES - 2011 - PG/DF - Analista Jurídico - Analista de Sistemas) Os algoritmos são compostos
 por
 estruturas de controle de três tipos: sequencial, condicional e de repetição.
 
 Assinale a alternativa que apresenta apenas um tipo de estrutura de controle:
 
 a)...
-
 
 www. estra tegiaconcursos. com. br
 escreva ("Digite seu nome: ")
@@ -12140,7 +11719,6 @@ escreva ("Pressione qualquertecla para
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
 terminar...")
 leia (tecla)
 
@@ -12173,7 +11751,6 @@ var
 nome: literal
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 num: inteiro
 inicio
@@ -12208,7 +11785,6 @@ escreva ("Seu nome é:")
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
 escreva (nome)
 
 escreva ("Sua idade é:")
@@ -12216,7 +11792,7 @@ escreva (idade)
 
 fim algoritmo
 
-Item. 22. (IADES - 2011 -TRE-PA - Programador de Computador)
+22. (IADES - 2011 -TRE-PA - Programador de Computador)
 
 VAR
 
@@ -12248,11 +11824,10 @@ c) 110 e 162.
 
 d) 121e110.
 
-
 www. estra tegiaconcursos. com. br
 e) 173 e110.
 
-Item. 23. (CESGRANRIO - 2010 - PETROBRÁS - Técnico em Informático) Relacionado à
+23. (CESGRANRIO - 2010 - PETROBRÁS - Técnico em Informático) Relacionado à
 programação de
 computadores, um algoritmo, seja qual for a sua complexidade e a linguagem de
 programação na qual
@@ -12268,7 +11843,7 @@ d) engenharia estruturada.
 
 e) pseudolinguagem.
 
-Item. 24. (FEPESE - 2010 - SEFAZ-SC - Auditor Fiscal da Receita Estadual - Parte III - Tecnologia da
+24. (FEPESE - 2010 - SEFAZ-SC - Auditor Fiscal da Receita Estadual - Parte III - Tecnologia da
 Informação) Assinale a alternativa correta a respeito das variáveis e constantes, utilizadas em
 diversas
 linguagens de programação.
@@ -12283,63 +11858,59 @@ d) O número de constantes independe da quantidade de variáveis em um programa.
 
 e) O número de constantes deve ser igual ao número de procedimentos em um programa.
 
-
 www. estra tegiaconcursos. com. br
-
 
 GABARITo - MULTIBANCAS
 
-Item. 1. ERRADO
+1. ERRADO
 
-Item. 2. LETRA D
+2. LETRA D
 
-Item. 3. LETRA D
+3. LETRA D
 
-Item. 4. LETRA B
+4. LETRA B
 
-Item. 5. LETRA D
+5. LETRA D
 
-Item. 6. LETRA B
+6. LETRA B
 
-Item. 7. LETRA B
+7. LETRA B
 
-Item. 8. LETRA C
+8. LETRA C
 
-Item. 9. LETRA C
+9. LETRA C
 
-Item. 10. LETRA B
+10. LETRA B
 
-Item. 11. LETRA C
+11. LETRA C
 
-Item. 12. LETRA C
+12. LETRA C
 
-Item. 13. LETRA D
+13. LETRA D
 
-Item. 14. LETRA B
+14. LETRA B
 
-Item. 15. LETRA E
+15. LETRA E
 
-Item. 16. LETRA D
+16. LETRA D
 
-Item. 17. LETRA C
+17. LETRA C
 
-Item. 18. LETRA B
+18. LETRA B
 
-Item. 19. LETRA A
+19. LETRA A
 
-Item. 20. LETRA C
+20. LETRA C
 
-Item. 21. LETRA E
+21. LETRA E
 
-Item. 22. LETRA D
+22. LETRA D
 
-Item. 23. LETRA E
+23. LETRA E
 
-Item. 24. LETRA D
-
+24. LETRA D
 
 / 244
 
 /
-
 

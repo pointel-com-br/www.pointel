@@ -1,11 +1,9 @@
-Capítulo. Desenvolvimento de Informação - Aprendizado de máquina. Classificação. Regressão. Agrupamento. Redução. Associação. Recomendação.
-
+# Desenvolvimento de Informação - Aprendizado de máquina. Classificação. Regressão. Agrupamento. Redução. Associação. Recomendação.
 
 Índice
 
 1) Aprendizado Não Supervisionado
 w ww. estrategiaconcursos. com.br
-
 
 Conteúdo da Aula
 
@@ -30,7 +28,6 @@ Regras de associação
 THIAGO CAVALCANTI
 
 PROFESSOR
-
 
 CoNTEÚDo DA AULA
 
@@ -164,11 +161,9 @@ hipercubo
 Figura abaixo), muito
 menos um elipsoide de 200 dimensões dobrado em um espaço de 1.000 dimensões.
 
-
 *-- *
 
 *rçy Y
-
 
 * *----►*
 
@@ -236,7 +231,6 @@ necessárias para atingir uma determinada densidade cresce
 exponencialmente com o
 número de dimensões.
 
-
 Antes de apresentarmos alguns algoritmos específicos de redução de
 dimensionalidade,
 vamos dar uma olhada nas duas principais abordagens para reduzir a
@@ -277,7 +271,6 @@ pode ver um conjunto de dados 3D representado por círculos.
 
 -0.5
 
-
 Figura 1 - Um conjunto de dados 3D próximo a um subespaço 2D
 
 Observe que todas as instâncias de treinamento ficam próximas a um plano:
@@ -293,7 +286,6 @@ conjunto
 de dados de 3D para 2D. Observe que os eixos correspondem às novas feições
 zi e Z2 (as
 coordenadas das projeções no plano).
-
 
 H- *
 
@@ -347,7 +339,6 @@ realmente quer é desenrolar o rolo suíço para obter o conjunto de dados
 2D no lado direito
 da figura a seguir.
 
-
 Xi Zi
 
 Figura 4 - Esmagar projetando em um plano (esquerda) versus desenrolar o rocambole (direita)
@@ -395,7 +386,7 @@ limite de decisão é uma linha reta.
 No entanto, essa suposição implícita nem sempre se sustenta. Por
 exemplo, na parte
 inferior da figura a seguir, o limite de decisão está localizado em xi =
-Item. 5. Esse limite de
+5. Esse limite de
 decisão parece muito simples no espaço 3D original (um plano vertical), mas parece mais
 complexo no manifold desenrolado (uma coleção de quatro segmentos
 de linha
@@ -423,7 +414,6 @@ ser?)
 
 PCA - Principal component analysis
 
-
 Análise de Componentes Principais (PCA)é de longe o algoritmo
 de redução de
 dimensionalidade mais popular. Primeiro, ele identifica o hiperplano mais
@@ -447,7 +437,6 @@ pouca variação
 e a projeção na linha tracejada preserva uma quantidade intermediária de variação.
 
 i 1 r
-
 
 —I 1 1 1 V-
 
@@ -604,7 +593,6 @@ Por exemplo, vejamos as razões de variação explicadas dos dois
 primeiros componentes
 do conjunto de dados 3D representados na Figura 16:
 
-
 >>> pca.explained_variance_ratio_
 array([0.84248607, 0.14631839])
 
@@ -659,7 +647,6 @@ pode ver que reduzir a dimensionalidade para cerca de 100 dimensões não
 perderia muita
 variância explicada.
 
-
 Figura 7 -Variação explicada em função do número de dimensões
 
 Se você chegou até aqui e está com dificuldade de entender esse conteúdo
@@ -687,7 +674,6 @@ captura a maior parte da variação no conjunto de dados existente.
 produz
 uma representação dimensional inferior dos dados.
 
-
 * Autoencoders: usa uma rede neural para compactar dados de forma não linear
 com perda mínima de informações
 
@@ -701,7 +687,7 @@ com o objetivo de usar menos recursos para representar as informações originai
 
 Antes de continuarmos, vamos resolver uma questão sobre o assunto ...
 
-Item. 1. Questão inédita
+1. Questão inédita
 
 São considerados algoritmos para redução de dimensionalidade:
 
@@ -739,7 +725,6 @@ cluster é, portanto, uma coleção de objetos que são "semelhantes" entre eles
 "dissimilares"
 dos objetos pertencentes a outros clusters.
 
-
 Agrupamento baseado em distância .
 
 Dado um conjunto de pontos, com noção de distância entre os pontos, agrupar os pontos
@@ -765,7 +750,6 @@ o resultado da
 clusterização atenda às suas necessidades.
 
 Na imagem acima, como sabemos qual é a melhor solução de clustering?
-
 
 Para encontrar uma solução de clusterização específica, precisamos definir as
 medidas de
@@ -808,7 +792,6 @@ sob as transformações "naturais" do problema. Além disso, durante o
 agrupamento, não é
 aconselhável normalizar os dados extraídos de várias distribuições.
 
-
 Algoritmos de agrupamento
 
 Os algoritmos de agrupamento podem ser classificados conforme listado abaixo:
@@ -840,7 +823,6 @@ algumas iterações, ele atinge os clusters finais desejados.
 
 Finalmente, o último tipo de agrupamento usa uma abordagem completamente probabilística.
 Vamos falar sobre quatro dos algoritmos de clustering mais usados:
-
 
 * K-médias
 
@@ -892,7 +874,6 @@ Por fim, este algoritmo visa minimizar uma função objetivo, neste caso uma fun
 erro ao
 quadrado. A função objetivo é
 
-
 Onde
 
 J-l i-1
@@ -909,7 +890,6 @@ centros.
 * Selecione aleatoriamente os centros de cluster 'c' (centróides).
 
 * Calcule a distância entre cada ponto de dados e centros de cluster.
-
 
 * Atribua o ponto de dados ao centro do cluster cuja distância do centro do clusterseja a mínima
 de todos os centros do cluster.
@@ -963,7 +943,6 @@ dados produz o seguinte agrupamento de 3 médias. É melhor ou pior do que o
 agrupamento de 2
 médias?
 
-
 Infelizmente, não existe uma solução teórica geral para encontrar o número ótimo de
 clusters para
 qualquer conjunto de dados. Uma abordagem simples é comparar os resultados de várias
@@ -1007,7 +986,6 @@ Xi X P(nk(\xi)b«I* )6
 pelo
 usuário seja alcançado (a iteração pode ficar presa em alguns máximos ou mínimos locais)
 
-
 Para uma melhor compreensão, podemos considerar este simples exemplo monodimensional. Dado
 um determinado conjunto de dados, suponha que o represente como distribuído em um
 eixo. A
@@ -1036,7 +1014,6 @@ mais
 ao cluster B do que ao cluster A. O valor 0,2 de 'm' indica o grau de pertinência a A para tal
 ponto de
 dados.
-
 
 AGRUPAMENTo HIERÁRQUICo.
 
@@ -1076,7 +1053,6 @@ paramétrica,
 como uma gaussiana. Todo o conjunto de dados é, portanto, modelado por uma mistura
 dessas
 distribuições.
-
 
 Um modelo de mistura com alta probabilidade tende a ter as seguintes características:
 
@@ -1171,7 +1147,6 @@ probabilidades e devem atender a esta condição:
 
 fc=l
 
-
 Agora, como determinamos os valores ideais para esses parâmetros? Para conseguir isso,
 devemos
 garantir que cada gaussiana se ajuste aos pontos de dados pertencentes a cada cluster.
@@ -1227,7 +1202,6 @@ da mistura gaussiana, como discutiremos mais adiante.
 
 Da mesma forma, podemos afirmar o seguinte:
 
-
 O que significa que a probabilidade geral de se observar um ponto que vem da
 Gaussiana k é na
 verdade equivalente ao coeficiente de mistura para aquela Gaussiana. Isso faz
@@ -1240,7 +1214,6 @@ Sabemos de antemão que cada z ocorre independentemente dos outros e que eles
 só podem
 assumir o valor de um quando k é igual ao cluster de onde vem o ponto. Portanto:
 
-
 p(z)=p(~i=í)zip(z2=í)z2—p(^k=i)zk=H"**
 
 K
@@ -1252,7 +1225,6 @@ eles vieram da
 gaussiana k ? Acontece que na verdade é a própria função gaussiana! Seguindo a mesma
 lógica que
 usamos para definir p(z), podemos afirmar:
-
 
 p(xn|z) =
 
@@ -1285,7 +1257,6 @@ K K
 pM = ^p(xn|z)p(z) = ^TTfcjVjXnlp*.,!:*.)
 
 fc=l k=l
-
 
 Esta é a equação que define uma Mistura Gaussiana, e você pode ver claramente que
 ela depende
@@ -1340,7 +1311,6 @@ p(zk = 1) = 7Tfc, p(x„|cfc = 1) = jV(xn|^fc,Sfc)
 Então, vamos agora substituí-los na equação anterior:
 
 fl~fc-A/~(xn|pfc, Sfc)
-
 
 E é isso que estamos procurando! Resumindo um modelo de mistura é uma
 mistura de k
@@ -1410,7 +1380,6 @@ observadas, maximize a função como faria no caso totalmente observado, para ob
 nova estimativa dos parâmetros do seu modelo.
 
 * Repita até a convergência.
-
 
 PRoBLEMAS ASSoCIADoS E APLICAçõES PoSSÍVEIS Ao AGRUPAMENTo
 
@@ -1492,7 +1461,6 @@ uma determinada regra, o conjunto de itens (itemset) é a lista de todos os iten
 antecedente e
 no consequente.
 
-
 {Bread, Egg)
 
 Antecedent
@@ -1507,7 +1475,7 @@ Várias métricas podem ser usadas para nos ajudar a entender a força da
 associação entre o
 antecedente e o consequente. Vamos passar por elas.
 
-Item. 1. Suporte
+1. Suporte
 
 Esta medida dá uma ideia de quão frequente é um conjunto de itens em todas as
 transações.
@@ -1525,7 +1493,6 @@ suporte é a fração do número total de transações em que o conjunto de iten
 
 Transações que possuem X eY
 
-
 Suporte (X -> Yj =
 
 Total de transações
@@ -1540,8 +1507,7 @@ tiver um suporte muito baixo, não temos informações suficientes sobre o relac
 entre seus
 itens e, portanto, nenhuma conclusão pode ser tirada de tal regra.
 
-Item. 2. Confiança
-
+2. Confiança
 
 Esta medida define a probabilidade de ocorrência de consequentes no carrinho dado que
 o carrinho
@@ -1577,7 +1543,6 @@ Vou introduzir alguns números aqui para esclarecer isso ainda mais.
 
 Milk ÈToothbrush
 
-
 70 4
 
 Total de transações - 100. 10 delas têm leite e escova de dentes, 70 têm leite mas
@@ -1611,7 +1576,6 @@ conhecimento de {X} estar
 presente sobre a probabilidade de ter {Y} no carrinho sem qualquer conhecimento sobre
 a presença
 de {X}. Matematicamente,
-
 
 Lift (X y) =
 
@@ -1664,7 +1628,7 @@ com este problema? Como chegar a um conjunto de regras de associação mais impo
 a serem
 consideradas? O algoritmo a priori vem em nosso socorro!
 
-Item. 1. Gerando conjuntos de itens de uma lista de itens
+1. Gerando conjuntos de itens de uma lista de itens
 
 O primeiro passo na geração de regras de associação é obter todos os conjuntos de
 itens frequentes
@@ -1679,7 +1643,6 @@ conjunto de itens
 pode variar de um até o número total de itens que temos. Agora, buscamos apenas
 conjuntos de
 itens frequentes e não todos para verificar o número total de conjuntos de itens gerados.
-
 
 Os conjuntos de itens frequentes são aqueles que ocorrem pelo menos um número mínimo
 de vezes
@@ -1730,7 +1693,6 @@ o limite também.
 
 Essa metodologia é chamada de algoritmo a priori. As etapas envolvidas são:
 
-
 Gere todos os conjuntos de itens frequentes (suporte > minsup) com apenas um item. Em
 seguida,
 gere conjuntos de itens de comprimento 2 como todas as combinações possíveis dos
@@ -1758,7 +1720,7 @@ captamos, que é
 completamente subjetivo ao problema em questão e pode ser baseado em experiências
 anteriores.
 
-Item. 2. Gerando todas as regras possíveis dos conjuntos de itens frequentes
+2. Gerando todas as regras possíveis dos conjuntos de itens frequentes
 
 Uma vez que os conjuntos de itens frequentes são gerados, identificar regras é
 comparativamente
@@ -1855,13 +1817,11 @@ superconjuntos imediatos é frequente. Isso é como um conjunto de itens X
 frequente ao qual
 nenhum item y pode ser adicionado, de modo que {X,y} ainda permaneça acima do limite minsup.
 
-
 Frequent
 Itemset
 kets havingbread and butteralso
 have e nd support of the basket with bread,
 butter and g is abovethe valueof minsup
-
 
 At least one basket with bread and butter has
 something different from egg and support for
@@ -1870,7 +1830,6 @@ that basket is above threshold
 Closed
 Frequent
 Itemset
-
 
 I II r
 
@@ -1908,20 +1867,19 @@ associação, entrando em detalhes sempre que necessário. A seguir estão resum
 linha para
 alguns termos introduzidos neste processo -
 
-Item. 1. Mineração de regras de associação: (a) Geração de conjuntos de itens, (b) Geração de regras
+1. Mineração de regras de associação: (a) Geração de conjuntos de itens, (b) Geração de regras
 
-Item. 2. Princípio a priori: Todos os subconjuntos de um conjunto de itens frequentes também devem
+2. Princípio a priori: Todos os subconjuntos de um conjunto de itens frequentes também devem
 ser frequentes
 
-Item. 3. Algoritmo a priori: poda para obter com eficiência todos os conjuntos de itens frequentes
+3. Algoritmo a priori: poda para obter com eficiência todos os conjuntos de itens frequentes
 
-Item. 4. Conjunto de itens frequente máximo: nenhum dos superconjuntos imediatos é frequente
+4. Conjunto de itens frequente máximo: nenhum dos superconjuntos imediatos é frequente
 
-Item. 5. Conjunto de itens frequente fechado: nenhum dos superconjuntos imediatos tem o mesmo
+5. Conjunto de itens frequente fechado: nenhum dos superconjuntos imediatos tem o mesmo
 valor de suporte
 
 THIAGO CAVALCANTI
 
 PROFESSOR
-
 

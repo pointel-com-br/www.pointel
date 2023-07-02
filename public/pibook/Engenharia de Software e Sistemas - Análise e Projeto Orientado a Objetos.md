@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Análise e Projeto Orientado a Objetos.
-
+# Engenharia de Software e Sistemas - Análise e Projeto Orientado a Objetos.
 
 Índice
 
@@ -25,13 +24,11 @@ Capítulo. Engenharia de Software e Sistemas - Análise e Projeto Orientado a Ob
 
 11) Lista de Questões - APOO - Diversas
 
-
 PARADIGMA ORIENTADo A OBJEToS
 
 Conceitos Básicos
 
 INCIDÊNCIA EM PROVA: MÉDIA
-
 
 KEEP
 CALM
@@ -92,9 +89,7 @@ Galera, vocês conseguem perceber que a sociedade utiliza o conceito de objetos
 cotidianamente para
 resolver seus problemas?
 
-
 0 0
-
 
 Pois é, já é algo natural! Ele auxilia a modelagem de sistemas, reduzindo a diferença
 semântica
@@ -160,7 +155,6 @@ paradigma. Nós veremos cada um desses princípios
 em detalhes nos próximos tópicos porque eles
 despencam em prova. Fechado?
 
-
 Classes e Objetos
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -190,7 +184,6 @@ comportamento
 eles são únicos,
 mesmo que sejam instâncias de uma mesma classe e que tenham os mesmos valores de variáveis.
 
-
 O estado reflete os valores correntes dos atributos do objeto em um
 determinado momento.
 
@@ -214,7 +207,6 @@ domínio do
 problema, não são diretamente suportadas em todas as linguagens, mas são
 necessárias em
 linguagens orientada a objeto.
-
 
 Atributos
 
@@ -242,7 +234,6 @@ TIPO DE ATRIBUTO | DESCRIÇÃO
 
 Similar a uma variável global, trata-se de uma variável cujo valor é comum a todos
 
-
 ATRIBUTO DE CLASSE
 
 ATRIBUTO DE INSTÂNCIA
@@ -254,7 +245,6 @@ Trata-se de uma variável cujo valor é específico ao objeto e, não, à classe
 possui um valor diferente para cada instância. As linguagens de programação
 possuem palavras para definir o escopo da variável (Ex: em Java, por padrão, é de
 instância; para ser de classe, deve vir precedida de static).
-
 
 Métodos
 
@@ -292,7 +282,6 @@ TIPO DE MÉTODO | DESCRIÇÃO
 
 Similar a um método global, trata-se de um método que realiza operações
 
-
 MÉTODO DE CLASSE
 
 MÉTODO DE INSTÂNCIA
@@ -324,13 +313,11 @@ dito ligado
 Late Binding
 (Ligação Tardia). Vejamos...
 
-
 TIPO DE LIGAÇÃO | DESCRIÇÃO
 
 EARLY BINDING Também conhecida como Ligação Estática, ocorre quando o método a
 ser
 invocado é definido em tempo de compilação.
-
 
 LATE BINDING
 
@@ -340,7 +327,6 @@ invocado é definido em tempo de execução.
 Aqueles que já conhecem um pouco sobre orientação a objetos, respondam-me: Qual desses
 tipos
 de ligação é o mais comum quando utilizamos polimorfismo? Late Binding!
-
 
 Mensagens
 
@@ -399,7 +385,6 @@ transmissor. Em outras palavras, eles recebem mensagens de diversos objetos e en
 para
 seus respectivos donos. Relaxem, nós veremos isso mais à frente com o conceito de polimorfismo!
 
-
 Abstração
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -418,7 +403,6 @@ cv
 
 ,<o ,
 
-
 Condomínio do
 Edifício Rolimam
 
@@ -427,9 +411,7 @@ Nossa Senhora Aparecida
 
 CO
 
-
 S
-
 
 mal
 la 1 (S)
@@ -438,7 +420,6 @@ xo I
 ciae o
 
 Sest Senat ®
-
 
 d'ca Ministério das Cidades íS)
 
@@ -451,7 +432,6 @@ cn
 <v
 
 --7
-
 
 A abstração é um processo mental pelo qual nós seres humanos nos atemos aos aspectos
 mais
@@ -484,7 +464,6 @@ os quais não é definida uma forma de implementação específica1.
 se ela tiver um único método abstrato, que seja, deverá
 ser declarada como abstrata!
 
-
 Interface
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -511,9 +490,9 @@ método abstrato (sem corpo)". Em uma classe qualquer, existem três possibilida
 
 í. Se a classe possui pelo menos um método abstrato, será obrigatoriamente abstrata;
 
-Item. 2. Se a classe possui todos os métodos abstratos, será obrigatoriamente abstrata;
+2. Se a classe possui todos os métodos abstratos, será obrigatoriamente abstrata;
 
-Item. 3. Se a classe possui todos os métodos concretos, poderá ser concreta ou abstrata.
+3. Se a classe possui todos os métodos concretos, poderá ser concreta ou abstrata.
 
 No primeiro caso, é fácil verificar que a classe é abstrata se ela tem pelo menos um método
 abstrato;
@@ -536,7 +515,6 @@ Vejamos, portanto, quais são as diferenças...
 
 CARACTERÍSTICAS INTERFACES
 CLASSE ABSTRATA
-
 
 Suporta Herança Múltipla. Pode
 implementar diversas interfaces.
@@ -565,7 +543,6 @@ visibilidade.
 
 Pode conter atributos de instância.
 Contém construtores.
-
 
 Em geral, são mais lentas que
 abstratas.
@@ -606,7 +583,6 @@ uma classe abstrata pura, realmente não tem muitas diferenças práticas em rel
 De todo modo, conceitualmente, uma classe abstrata especifica o que um objeto é; uma
 interface
 especifica o que um objeto pode fazer.
-
 
 Encapsulamento
 
@@ -672,7 +648,6 @@ MODIFICADOR/ESPECIFICADOR | CLASSE | | PACOTE j SUBCLASSE |
 TODOS |
 UML —
 
-
 PACOTE X X
 
 PRIVADO X
@@ -689,11 +664,9 @@ DEFAÜLT X X
 
 PRIVADO X
 
-
 / 193
 
 /
-
 
 Polimorfismo
 
@@ -801,7 +774,6 @@ necessidade de quaisquer alterações. Nesse caso, um elemento (Ex: função, cl
 método, etc)
 pode ser escrito genericamente para que possa suportar valores idênticos sem depender do tipo.
 
-
 Como assim, professor? Vamos imaginar que você tenha listas de diversos tipos: você
 tem uma lista
 de carros, uma lista de pessoas, uma lista de animais e uma lista de filmes. Ok! E você sabe que
@@ -856,7 +828,6 @@ implícito). Ele permite que um argumento seja convertido para o tipo esperado p
 função,
 evitando assim um erro de tipo. Imaginem uma variável do tipo inteiro e uma variável do tipo real.
 
-
 É possível atribuir um valor inteiro a um tipo real (visto que ele é "maior") de
 forma implícita. Nesse
 momento, ocorre uma coerção (também chamada conversão) de uma variável de um tipo em
@@ -891,7 +862,6 @@ In a subclass, you can overload the methods inherited from the superclass. Such
 overloaded
 methods neither hide nor override the superclass instance methods—they are new methods,
 unique to the subclasse.
-
 
 Herança (Generalização/Especialização)
 
@@ -943,7 +913,6 @@ Eporque algumas
 linguagens não a implementam? Porque ela pode causar alguns problemas de ambiguidade!
 Quando superclasses possuem membros homônimos e a subclasse não redefine esses membros,
 
-
 no momento em que um objeto da subclasse tentar referenciar diretamente o membro
 homônimo
 das superclasses, o compilador não saberá a qual membro ele está se referindo.
@@ -990,7 +959,6 @@ Dessa forma, um nome pode assumir muitas formas e, como pode representar código
 diferente, o
 mesmo nome pode representar muitos comportamentos diferentes.
 
-
 Conceitos Básicos
 
 ANÁLISE E PRoJETo
@@ -1006,7 +974,6 @@ CRIAR
 Bem, vamos começar a distinguir o que é Análise e o que é Projeto. Para tal,
 preciso que vocês
 memorizem, decorem, tatuem, componham uma música com a frase:
-
 
 NA ANÃLISf,
 NA ANÃLI5Ê,
@@ -1085,7 +1052,6 @@ A soLur
 
 À
 
-
 A Análise consiste em atividades necessárias para entender o domínio do problema, isto
 é, o que
 deve ser feito. É uma atividade de investigação, com foco no cliente. Já o Projeto
@@ -1118,7 +1084,6 @@ que o sistema é desenvolvido, o Modelo de Classes é incrementado com novos det
 
 Existem três estágios sucessivos de abstração: análise, especificação e implementação.
 
-
 MODELO DE CLASSES DE ANÁLISE
 
 (OU DOMÍNIO]
@@ -1130,7 +1095,6 @@ utilizada na solução de um problema.
 Pessoa
 Empresa
 
-
 Nome
 Telefone
 Endereço
@@ -1139,13 +1103,11 @@ CNPJ
 
 Endereço
 
-
 MODELO DE CLASSES DE
 ESPECIFICAÇÃO (OU PROJETO]
 
 Construído durante a atividade de projeto, estende o modelo de classes
 análise e contém detalhes específicos inerentes à solução de software escolhi
-
 
 Pessoa
 
@@ -1164,7 +1126,6 @@ Empresa
 -Endereço: String
 
 +getContaQ: String
-
 
 MODELO DE CLASSES DE
 
@@ -1192,13 +1153,11 @@ public class Empresa {
 12 public Number CNPJ;
 public String Endereço;
 
-
 public getConta() {
 
 16 return 0;
 
 17 }
-
 
 À medida que o sistema é desenvolvido, o modelo é incrementado com novos detalhes. O
 Modelo de Análise enfatiza o desenho lógico, a visão externa, conceituai, abstrata,
@@ -1235,14 +1194,12 @@ o Design. Pessoal, a Análise apresenta quatro atividades principais:
 
 ►
 
-
 Em 1992, Ivar Jacobson (aquele da UML) propôs uma técnica
 chamada Análise de Robustez, que propunha a categorização
 das classes de acordo com sua responsabilidade: Classe de
 Fronteira; Classe de Controle; e Classe de Entidade.
 
 Fronteira Controle Entidade
-
 
 CLASSE DE FRONTEIRA
 
@@ -1289,7 +1246,6 @@ poderá durar
 mais que uma instância de caso de uso, porém costumam ter a mesma duração da instância de
 caso de uso.
 
-
 CLASSE DE CONTROLE
 
 Classe utilizada para controlara lógica de execução ou negócio correspondente a cada CÍ
@@ -1306,7 +1262,6 @@ controle está estreitamente relacionado à realização de um caso de uso
 específico. Em muitos
 cenários, é possível até dizer que os objetos de controle "executam" as realizações de casos de
 uso.
-
 
 No entanto, se as tarefas de caso de uso estiverem intrinsecamente relacionadas, alguns
 objetos
@@ -1330,7 +1285,6 @@ controle
 não controla tudo o que é necessário em um caso de uso. Em vez disso, ela coordena
 as atividades
 de outros objetos que implementam a funcionalidade.
-
 
 CLASSE DE ENTIDADE
 
@@ -1379,7 +1333,6 @@ que o
 sistema deve oferecer aos usuários. A segunda atividade se refere à
 identificação de
 responsabilidades.
-
 
 Essa identificação e categorização implica que cada classe seja especialista em realizar
 uma tarefa
@@ -1453,7 +1406,6 @@ nas camadas superiores; e mudanças em uma camada mais alta, que não impliquem 
 criação de
 um novo serviço em uma camada mais baixa, não afetarão camadas inferiores.
 
-
 A arquitetura em camadas permite melhor separação de responsabilidades;
 decomposição de
 complexidade; encapsulamento de implementação; maior reúso e extensibilidade. No
@@ -1465,7 +1417,6 @@ mas - para
 minimizar o impacto de mudanças - decidiu-se separar a camada de negócio da
 camada de
 interface gráfica, gerando três camadas:
-
 
 CAMADA DE
 APRESENTAÇÃO
@@ -1496,7 +1447,6 @@ O padrão de arquitetura em três camadas mais utilizado no mercado é designado
 Model-View-
 Controler (MVC):
 
-
 MODELO
 
 VISÃO
@@ -1514,7 +1464,6 @@ busca dados, apenas os renderiza em tela.
 Responsável por definir o comportamento da aplicação. Processa e responde a eventos,
 geralmente ações do usuário, e pode invocar alterações no modelo. Realiza, também, a
 validação de dados do usuário.
-
 
 RESUMo
 
@@ -1553,12 +1502,10 @@ TIPO DE ATRIBUTO | DESCRIÇÃO
 
 Similar a uma variável global, trata-se de uma variável cujo valor é comum a todos
 
-
 ATRIBUTO DE CLASSE
 
 os objetos membros de uma classe. Mudar o valor de uma variável de classe em um
 objeto membro automaticamente muda o valor para todos os objetos membros.
-
 
 ATRIBUTO DE INSTÂNCIA
 
@@ -1567,11 +1514,9 @@ possui um valor diferente para cada instância. As linguagens de programação
 possuem palavras para definir o escopo da variável (Ex: em Java, por padrão, é de
 instância; para ser de classe, deve vir precedida de static).
 
-
 TIPO DE MÉTODO | DESCRIÇÃO
 
 Similar a um método global, trata-se de um método que realiza operações
-
 
 MÉTODO DE CLASSE
 
@@ -1632,7 +1577,6 @@ públicos por padrão. visibilidade.
 MEMBROS DE DADOS Não contém atributos, apenas assinatura de Pode conter atributos,
 métodos.
 
-
 CONSTRUTORES
 VELOCIDADE
 
@@ -1644,7 +1588,6 @@ abstratas.
 Contém construtores.
 
 Em geral, são mais rápidas que interfaces.
-
 
 ENCAPSULAMENTO
 
@@ -1667,7 +1610,6 @@ interface. Em outras palavras, é o princípio pelo qual duas ou mais classes
 derivadas da mesma superclasse podem invocar métodos que têm a mesma
 assinatura, mas comportamentos distintos.
 
-
 HERANÇA
 
 Trata-se do princípio que permite que classes compartilhem atributos e métodos.
@@ -1677,7 +1619,6 @@ ou especializar operações ou atributos.
 HERANÇA SIMPLES HERANÇA MÚLTIPLA
 
 ENTE CtR CRIAR
-
 
 NA ANÃLIS&, PÊ5&NHA-5É O PRO0L&MA/ NO PROJfTO, P&5fNHA-5f A SOLUÇÃO/
 NA ANÃLI5&, PfS&NHA-Sf O PRO0L&MAZ NO PROJLTO, P&5fNHA-6& A SOLUÇÃO/
@@ -1691,7 +1632,6 @@ NA ANÃLI5&, PÊ5ÊNHA-S& O PROBL&MA/ NO PROJÉTO, P&5&NHA-5& A SOLUÇÃO/
 NA ANÃLISf, PÉS&NHA-5& O PROBLEMA/ NO PROJfTO, PÊ6&NHA-6& A SOLUÇÃO/
 NA ANÃLI5É, PfS&NHA-5f O PROBL&MA/ NO PROJ&TO, P&5&NHA-5f A SOLUf
 
-
 MODELO DE CLASSES DE ANÁLISE
 
 (OU DOMÍNIO]
@@ -1703,7 +1643,6 @@ utilizada na solução de um problema.
 Pessoa
 Empresa
 
-
 Nome
 Telefone
 Endereço
@@ -1712,13 +1651,11 @@ CNPJ
 
 Endereço
 
-
 MODELO DE CLASSES DE
 ESPECIFICAÇÃO (OU PROJETO]
 
 Construído durante a atividade de projeto, estende o modelo de classes de
 análise e contém detalhes específicos inerentes à solução de software escolhida.
-
 
 Pessoa
 
@@ -1738,7 +1675,6 @@ N 1 -Endereço: String
 
 +getContaQ: String
 
-
 MODELO DE CLASSES DE
 
 IMPLEMENTAÇÃO
@@ -1746,7 +1682,6 @@ IMPLEMENTAÇÃO
 Construído durante a atividade de implementação, estende o modelo de classes
 de projeto e contém detalhes específicos inerentes ao desenvolvimento das
 classes em alguma linguagem.
-
 
 CLASSE
 DE FRONTEIRA
@@ -1767,7 +1702,6 @@ de uso. Servem como uma ponte de comunicação entre objetos de fronteira e obje
 entidade. Decidem o que o sistema deve fazer quando um evento externo relevante ocorre,
 agindo como coordenador para a realização de casos de uso.
 
-
 CLASSE
 DE ENTIDADE
 
@@ -1775,7 +1709,6 @@ Classe utilizada para armazenar a informação que é manipulada ou processada p
 uso, partindo do domínio do negócio. Geralmente, essas classes armazenam informações
 persistentes. Há várias instâncias ou objetos de uma mesma classe de entidade coexistindo
 dentro do sistema.
-
 
 CAMADA DE
 APRESENTAÇÃO
@@ -1802,7 +1735,6 @@ informações para o sistema. Tipicamente, essa camada é implementada utilizand
 mecanismo de armazenamento persistente. Pode haver uma subcamada dentro desta
 camada chamada Camada de Persistência.
 
-
 MODELO
 
 VISÃO
@@ -1823,7 +1755,6 @@ validação de dados do usuário.
 
 D PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) Nas classes abstratas, que servem de modelo para outras
@@ -1838,7 +1769,7 @@ atributos e também métodos concretos.
 
 Gabarito: Correto
 
-Item. 2. (CESPE / BANRISUL - 2022) Em um projeto orientado a objetos, a decomposição do
+2. (CESPE / BANRISUL - 2022) Em um projeto orientado a objetos, a decomposição do
 sistema
 em objetos é influenciada por fatores como encapsulamento, granularidade e desempenho.
 
@@ -1856,7 +1787,7 @@ objetos muito complexos podem ter um impacto negativo na performance.
 
 Gabarito: Correto
 
-Item. 3. (CESPE / TELEBRÁS - 2021) Na orientação a objetos, o polimorfismo
+3. (CESPE / TELEBRÁS - 2021) Na orientação a objetos, o polimorfismo
 permite que os
 programadores definam comportamentos diferentes para um mesmo método. Além disso,
 dados os tipos de polimorfismo, é possível que, dentro de uma herança, um comportamento
@@ -1878,8 +1809,7 @@ execução.
 
 Gabarito: Errado
 
-
-Item. 4. (CESPE / Petrobrás - 2022) A POO é embasada nos conceitos de
+4. (CESPE / Petrobrás - 2022) A POO é embasada nos conceitos de
 classe, objeto,
 encapsulamento, herança, interfaces e polimorfismo; uma característica das
 interfaces, por
@@ -1897,7 +1827,7 @@ subclasse concretize seus métodos.
 
 Gabarito: Errado
 
-Item. 5. (CESPE / FUB - 2018) Na orientação a objetos, estes possuem diversos atributos e
+5. (CESPE / FUB - 2018) Na orientação a objetos, estes possuem diversos atributos e
 métodos, os
 quais são utilizados para se definir as características e ações das classes.
 
@@ -1910,7 +1840,7 @@ objetos.
 
 Gabarito: Errado
 
-Item. 6. (CESPE / BNB - 2018) O encapsulamento em uma classe garante que seus métodos e
+6. (CESPE / BNB - 2018) O encapsulamento em uma classe garante que seus métodos e
 suas
 variáveis tenham alta coesão e baixo acoplamento, seguindo os objetivos
 básicos da
@@ -1928,12 +1858,11 @@ acoplamento. Não há essa relação.
 
 Gabarito: Errado
 
-Item. 7. (CESPE / BNB - 2018) As interfaces são definições a respeito de como um objeto
+7. (CESPE / BNB - 2018) As interfaces são definições a respeito de como um objeto
 pode ser
 utilizado por outros objetos, sem envolver necessariamente uma interação com o usuário.
 
 Comentários:
-
 
 Perfeito! Uma interface é uma classe abstrata pura que especifica o que um objeto
 pode fazer. Além
@@ -1943,7 +1872,7 @@ define os serviços que ele pode fornecer.
 
 Gabarito: Correto
 
-Item. 8. (CESPE / BNB - 2018) De acordo com o conceito de herança, uma classe derivada
+8. (CESPE / BNB - 2018) De acordo com o conceito de herança, uma classe derivada
 é uma
 implementação mais genérica da classe da qual ela deriva, o que permite a reutilização
 de
@@ -1957,7 +1886,7 @@ implementação mais genérica da classe-pai quando, de fato, ela é mais espec�
 
 Gabarito: Errado
 
-Item. 9. (CESPE / BNB - 2018) Em programação orientada a objetos, a técnica utilizada
+9. (CESPE / BNB - 2018) Em programação orientada a objetos, a técnica utilizada
 para esconder
 detalhes internos de funcionamento de uma classe é denominada generalização.
 
@@ -1989,7 +1918,6 @@ Trata-se do encapsulamento, que restringe o acesso ao comportamento interno de u
 
 Gabarito: Letra A
 
-
 n.(CESPE/ ABIN-2018) Se, em tempo de execução de um sistema, ocorrer associação entre
 uma
 entidade e um atributo, então essa associação será considerada um acoplamento dinâmico.
@@ -2002,7 +1930,7 @@ uma Early Binding (ligação estática) ocorre em tempo de compilação.
 
 Gabarito: Correto
 
-Item. 12. (CESPE/ABIN-2018) Considere que, em um sistema de informações, um objeto possua
+12. (CESPE/ABIN-2018) Considere que, em um sistema de informações, um objeto possua
 dados
 de uma pessoa, tais como: nome, endereço, data de aniversário e número do cartão de
 crédito.
@@ -2020,7 +1948,7 @@ os dados do cartão de crédito estarão visíveis apenas na classe em que foram
 
 Gabarito: Errado
 
-Item. 13. (CESPE / STM - 2018) Um recurso de grande utilidade nesse tipo de programação
+13. (CESPE / STM - 2018) Um recurso de grande utilidade nesse tipo de programação
 consiste na
 possibilidade de um objeto exercer o comportamento de outro objeto.
 
@@ -2045,7 +1973,6 @@ modificador de
 acesso. No entanto, não é recomendável que seja dessa forma -0 ideal é que os
 modificadores de
 acesso não sejam definidos como público.
-
 
 Gabarito: Correto
 i5.(CESPE / STM- 2018) O tipo de herança mais eficiente e indicado é a
@@ -2100,7 +2027,6 @@ abstrações comuns
 compartilhados por um tipo de classe.
 
 Comentários:
-
 
 Na verdade, uma classe define atributos, comportamentos e abstrações comuns
 compartilhados
@@ -2188,7 +2114,7 @@ ao conceito de herança e também é chamado de Sobrescrita, Redefinição ou Ov
 
 Gabarito: Letra A
 
-Item. 21. (CESPE / TCE-PR - 2016) Em se tratando de orientação a objetos, o polimorfismo refere-se:
+21. (CESPE / TCE-PR - 2016) Em se tratando de orientação a objetos, o polimorfismo refere-se:
 
 a) ao reconhecimento do comportamento variado de um método, o que
 melhora o
@@ -2207,7 +2133,6 @@ meio de
 encapsulamento.
 
 Comentários:
-
 
 (a) Correto, métodos de mesmo nome com comportamentos variados; (b) Errado, a questão
 trata
@@ -2245,7 +2170,6 @@ Gabarito: Correto
 24.(CESPE / FUB - 2016) Quando uma classe é subclasse de várias superclasses, mas
 somente
 herda características de uma classe, a herança é do tipo simples.
-
 
 Comentários:
 
@@ -2308,7 +2232,6 @@ herança! O examinadortrocou herança por um nome qualquer...
 
 Gabarito: Errado
 
-
 27.(CESPE / TJDFT - 2015) A combinação de dados com o código que os manipula em um
 único
 objeto é denominada encapsulamento.
@@ -2328,7 +2251,7 @@ com o código que os manipula em um único objeto e esse código que os manipula
 
 Gabarito: Correto
 
-Item. 28. (CESPE / TCE-RN - 2015) O processo de herança permite a reutilização de código,
+28. (CESPE / TCE-RN - 2015) O processo de herança permite a reutilização de código,
 como
 também o reaproveitamento de atributos e métodos. Assim, em aplicações que
 utilizam
@@ -2365,7 +2288,6 @@ saber como ele
 funciona internamente, apenas como transmite os seus atributos.
 
 Comentários:
-
 
 'Transmitir' foi um verbo pouco adequado utilizado pelo examinador. Na verdade,
 dizer que o
@@ -2429,7 +2351,6 @@ estão na mesma hierarquia. Logo, não necessariamente ocorrerá uma herança m�
 
 Gabarito: Errado
 
-
 33-(CESPE / INPI - 2013) Em uma operação de sobrecarga, uma classe derivada pode
 redefinir
 operações de sua classe base.
@@ -2484,7 +2405,6 @@ Gabarito: Correto
 mecanismo de
 redefinição de métodos, assim como o conceito de ligação tardia.
 
-
 Comentários:
 
 Perfeito! Redefinição ou sobrescrita é um tipo de polimorfismo que envolve o conceito
@@ -2535,7 +2455,6 @@ contidos dentro de interfaces.
 
 Gabarito: Correto
 
-
 4i.(CESPE / FUB - 2011) Um objeto possui dados internos e métodos
 que definem,
 respectivamente, seu estado atual e seu comportamento. Um objeto pode se comunicar com
@@ -2585,7 +2504,6 @@ métodos de outras
 classes. Nesse caso, a subclasse herda e não precisa reescrevê-la.
 
 Gabarito: Correto
-
 
 45-(CESPE / BRB - 2011) Para que a interface pública de uma classe seja considerada
 coesa, é
@@ -2646,7 +2564,6 @@ funcionalidade de um sistema, logo é dinâmica e, não, estática.
 
 Gabarito: Errado
 
-
 48.(CESPE / TRT-RN - 2010) Programa que utilize uma linguagem orientada a objetos
 (00), ao
 incorporar corretamente ao seu funcionamento conceitos como os de encapsulamento, herança
@@ -2673,7 +2590,6 @@ e) atributos, métodos, instâncias e mensagens.
 
 Comentários:
 
-
 Os pilares derivados da abstração são: herança, polimorfismo e encapsulamento.
 
 Gabarito: Letra A
@@ -2692,7 +2608,7 @@ classe e que tenham os mesmos valores.
 
 Gabarito: Correto
 
-Item. 51. (CESPE / ABIN - 2010) Um objeto apresenta três características básicas, o estado,
+51. (CESPE / ABIN - 2010) Um objeto apresenta três características básicas, o estado,
 a identidade
 e o comportamento. A parte de dados de um objeto é definida por um conjunto de
 mensagens,
@@ -2706,7 +2622,7 @@ atributos e a parte funcional é definida por um conjunto de operações.
 
 Gabarito: Errado
 
-Item. 52. (CESPE / ABIN -2010) Objeto é o agrupamento de classes similares que apresentam os mesmos
+52. (CESPE / ABIN -2010) Objeto é o agrupamento de classes similares que apresentam os mesmos
 atributos e operações. Na definição de uma classe, é necessário estabelecer a que
 objeto ela
 ocorre como instância.
@@ -2721,12 +2637,11 @@ ele ocorre como instância.
 
 Gabarito: Errado
 
-Item. 53. (CESPE / TCU - 2010) Uma classe pode ser vista como uma descrição generalizada
+53. (CESPE / TCU - 2010) Uma classe pode ser vista como uma descrição generalizada
 de uma
 coleção de objetos semelhantes.
 
 Comentários:
-
 
 Perfeito! Essa é a definição de uma classe: descrição generalizada de uma coleção de
 objetos
@@ -2734,7 +2649,7 @@ semelhantes.
 
 Gabarito: Correto
 
-Item. 54. (CESPE / MPU - 2010) Uma mensagem enviada a um objeto pode levar à execução
+54. (CESPE / MPU - 2010) Uma mensagem enviada a um objeto pode levar à execução
 de um
 método que não esteja implementado na classe à qual o objeto pertence.
 
@@ -2752,7 +2667,7 @@ isto é, esse método é da classe-pai, mas é implementado na classe-filha. Cap
 
 Gabarito: Correto
 
-Item. 55. (CESPE / DETRAN-ES - 2010) Um dos conceitos em programação orientada a objetos é
+55. (CESPE / DETRAN-ES - 2010) Um dos conceitos em programação orientada a objetos é
 o de
 abstração, por meio da qual as características do mundo real podem ser
 modeladas, por
@@ -2766,7 +2681,7 @@ objetos e classes.
 
 Gabarito: Correto
 
-Item. 56. (CESPE / MPU - 2010) Considerando as características do relacionamento entre uma
+56. (CESPE / MPU - 2010) Considerando as características do relacionamento entre uma
 classe e
 suas subclasses, é correto afirmar que toda implementação de subclasse é polimórfica.
 
@@ -2776,13 +2691,12 @@ Na verdade, não é obrigatório fazer sobrescrita ou sobrecarga nos métodos he
 
 Gabarito: Errado
 
-Item. 57. (CESPE / Banco da Amazônia - 2010) A herança é um conceito implementado por
+57. (CESPE / Banco da Amazônia - 2010) A herança é um conceito implementado por
 todas as
 linguagens de programação orientadas a objeto. No entanto, algumas delas somente permitem
 o uso de herança simples, não sendo possível a criação de classes por meio de herança múltipla.
 
 Comentários:
-
 
 Perfeito! Um exemplo é a linguagem Java...
 
@@ -2833,7 +2747,6 @@ valores das
 propriedades de um objeto.
 
 Gabarito: Correto
-
 
 62.(CESPE / Banco da Amazônia - 2010) O comportamento de um objeto é definido em sua
 respectiva classe, por meio da implementação de métodos que são executados
@@ -2889,10 +2802,9 @@ Perfeito! Observem que ele falou mais de uma superclasse imediata, logo é realm
 uma herança
 múltipla - quando há somente uma, é uma herança simples.
 
-
 Gabarito: Correto
 
-Item. 66. (CESPE / DETRAN-DF - 2009) Uma classe é uma descrição de um conjunto de objetos
+66. (CESPE / DETRAN-DF - 2009) Uma classe é uma descrição de um conjunto de objetos
 que
 compartilham os mesmos atributos, operações, relacionamentos e semântica.
 
@@ -2918,7 +2830,7 @@ A questão inverteu os conceitos: objetos encapsulam funções
 
 Gabarito: Errado
 
-Item. 68. (CESPE / MPE-RR - 2008) Na orientação a objetos, um objeto tipicamente possui
+68. (CESPE / MPE-RR - 2008) Na orientação a objetos, um objeto tipicamente possui
 estado e
 operações definidas. O estado é representado por atributos, e as operações
 associadas ao
@@ -2934,14 +2846,13 @@ criados de acordo com elas.
 
 Gabarito: Correto
 
-Item. 69. (CESPE/PETROBRÁS-2007) Em um modelo de análise, as classes de fronteira modelam
+69. (CESPE/PETROBRÁS-2007) Em um modelo de análise, as classes de fronteira modelam
 interações entre o sistema e os atores. Cada classe de fronteira deve estar
 relacionada a um ou
 mais atores. Pode-se também ter classes de entidade, as quais tipicamente modelam dados
 persistentes.
 
 Comentários:
-
 
 Classes de Fronteira são utilizadas para modelar a interação entre um ator e o
 sistema. Para cada
@@ -2979,7 +2890,7 @@ negócio fica nas classes de controle.
 
 Gabarito: Correto
 
-Item. 71. (CESPE / PETROBRÁS - 2007) Em um modelo de projeto, para que um subsistema seja
+71. (CESPE / PETROBRÁS - 2007) Em um modelo de projeto, para que um subsistema seja
 coeso,
 seus conteúdos devem serfortemente relacionados e, para que ele seja fracamente
 acoplado, é
@@ -2999,7 +2910,7 @@ que um subsistema seja coeso, ou seja, tenha uma responsabilidade única.
 
 Gabarito: Correto
 
-Item. 72. (CESPE / ANATEL - 2006) Uma classe na análise orientada a objeto representa uma
+72. (CESPE / ANATEL - 2006) Uma classe na análise orientada a objeto representa uma
 abstração
 que pode ser mapeada para mais de uma classe no projeto. As classes na análise podem
 ser
@@ -3058,10 +2969,9 @@ Comentários:
 
 Valores? Não, os valores podem ser diferentes.
 
-
 Gabarito: Errado
 
-Item. 76. (CESPE / SERPRO - 2006) Uma das vantagens dos métodos de análise e projeto
+76. (CESPE / SERPRO - 2006) Uma das vantagens dos métodos de análise e projeto
 orientado a
 objetos é o aumento do gap conceituai entre os artefatos produzidos nas fases de
 análise,
@@ -3103,7 +3013,7 @@ diferentes (em hierarquias diferentes).
 
 Gabarito: Errado
 
-Item. 79. (CESPE / STJ - 2004) Com a análise orientada a objetos, busca-se identificar
+79. (CESPE / STJ - 2004) Com a análise orientada a objetos, busca-se identificar
 entidades do
 domínio do problema e caracterizá-las de acordo com sua importância para o problema.
 Essa
@@ -3112,7 +3022,6 @@ entidades
 identificadas darão sustentação para a definição das classes de objetos a serem implementadas.
 
 Comentários:
-
 
 Perfeito! Ela busca identificar entidades do domínio do problema e essas
 entidades ajudam a
@@ -3130,16 +3039,15 @@ Opa... definira linguagem de programação não afeta em nada a análise, apesar
 
 Gabarito: Errado
 
-
 QUESTõES CoMENTADAS - FCC
 
 í. (FCC / METRÔ-SP - 2019) Considere as seguintes situações:
 
-Item. 1. Um grupo foi formado por um conjunto de pessoas que têm vida própria, independente
+1. Um grupo foi formado por um conjunto de pessoas que têm vida própria, independente
 desse
 grupo.
 
-Item. 2. Uma equipe de TI é formada por um conjunto de programadores com dependência de
+2. Uma equipe de TI é formada por um conjunto de programadores com dependência de
 vida
 dessa equipe.
 
@@ -3158,11 +3066,11 @@ e) associação independente e composição.
 
 Comentários:
 
-Item. 1. Também chamada de agregação, em uma associação todo-parte as partes têm
+1. Também chamada de agregação, em uma associação todo-parte as partes têm
 existência
 própria. Em suma, o todo (grupo) independe da parte (pessoas).
 
-Item. 2. A composição é um tipo de associação e trata do relacionamento entre um elemento
+2. A composição é um tipo de associação e trata do relacionamento entre um elemento
 (todo) e
 outros elementos (as partes). Ela representa um vínculo mais forte entre objetos-todo e
 objetos-
@@ -3174,7 +3082,7 @@ programadores.
 
 Gabarito: Letra D
 
-Item. 2. (FCC / TRF3 - 2019) O Polimorfismo, um dos Pilares da Programação Orientada a
+2. (FCC / TRF3 - 2019) O Polimorfismo, um dos Pilares da Programação Orientada a
 Objetos -
 POO,
 
@@ -3187,7 +3095,6 @@ a: 1 - para
 quem for usar a classe não a use de forma errada; e 2 - para que implementação
 seja feita por
 meio dos métodos get e set.
-
 
 c) permite que um mesmo método possa ter vários comportamentos e a definição de
 qual
@@ -3211,7 +3118,7 @@ Herança.
 
 Gabarito: Letra C
 
-Item. 3. (FCC / SANASA Campinas -2019) Considere que um Analista de TI sabe que uma classe
+3. (FCC / SANASA Campinas -2019) Considere que um Analista de TI sabe que uma classe
 Pessoa
 Física e uma classe Pessoa Jurídica possuem o atributo nome como uma informação em
 comum
@@ -3246,8 +3153,7 @@ uma implementação incompleta que é compartilhada por um grupo de classes deri
 
 Gabarito: Letra C
 
-Item. 4. (FCC / SANASA Campinas - 2019) Considere:
-
+4. (FCC / SANASA Campinas - 2019) Considere:
 
 Os hidrômetros, relógios registradores de consumo de água, têm determinadas
 características. Em
@@ -3288,7 +3194,7 @@ especificamente - ainda - o polimorfismo por sobrescrita.
 
 Gabarito: Letra B
 
-Item. 5. (FCC / TRT-SC - 2013) Na programação orientada a objetos, as classes podem
+5. (FCC / TRT-SC - 2013) Na programação orientada a objetos, as classes podem
 conter, dentre
 outros elementos, métodos e atributos. Os métodos:
 
@@ -3314,8 +3220,7 @@ acessados pela própria classe.
 
 Gabarito: Letra D
 
-
-Item. 6. (FCC / TRT-SC - 2013) Na programação orientada a objetos, as classes podem
+6. (FCC / TRT-SC - 2013) Na programação orientada a objetos, as classes podem
 conter, dentre
 outros elementos, métodos e atributos. Os métodos:
 
@@ -3339,7 +3244,7 @@ Errado, só podem ser acessados dentro da própria classe.
 
 Gabarito: Letra D
 
-Item. 7. (FCC / AL-RN - 2013) Um dos conceitos básicos de orientação a objetos é o fato
+7. (FCC / AL-RN - 2013) Um dos conceitos básicos de orientação a objetos é o fato
 de um objeto,
 ao tentar acessar as propriedades de outro objeto, deve sempre fazê-lo por uso de
 métodos do
@@ -3363,7 +3268,7 @@ Manter objetos isolados? Opa... trata-se de uma característica típica de encap
 
 Gabarito: Letra E
 
-Item. 8. (FCC / TRE-SP - 2012) Nos conceitos de orientação a objetos, ..I... é uma
+8. (FCC / TRE-SP - 2012) Nos conceitos de orientação a objetos, ..I... é uma
 estrutura composta
 por ...II... que descrevem suas propriedades e também por ...III
 que moldam seu
@@ -3373,7 +3278,6 @@ Para completar corretamente o texto as lacunas devem ser preenchidas, respectiva
 a) objeto, métodos, assinaturas, Classes, cópias.
 
 b) polimorfismo, funções, métodos, Herança, cópias.
-
 
 c) classe, atributos, operações, Objetos, instâncias.
 
@@ -3391,7 +3295,7 @@ comportamento. Objetos são instâncias dessa estrutura e só existem em tempo d
 
 Gabarito: Letra C
 
-Item. 9. (FCCITJ-RJ - 2012) No contexto de programação orientada a objetos, considere as
+9. (FCCITJ-RJ - 2012) No contexto de programação orientada a objetos, considere as
 afirmativas
 abaixo.
 
@@ -3436,7 +3340,6 @@ Gabarito: Letra B
 a) Na hierarquia de classes, se superclasse é uma generalização de subclasses, pode-se
 inferir
 que a subclasse é uma especialização de superclasse.
-
 
 b) Numa árvore genealógica de classes, a classe mais baixa herda os atributos e
 métodos
@@ -3494,8 +3397,7 @@ um objeto pode existir sem que haja um evento associado; (e) Correto.
 
 Gabarito: Letra C
 
-Item. 12. (FCC / TJ-PE - 2012) Sobre orientação a objetos, considere:
-
+12. (FCC / TJ-PE - 2012) Sobre orientação a objetos, considere:
 
 I. A relação de herança permite modelar as similaridades inerentes a uma classe e
 também as
@@ -3535,7 +3437,7 @@ Trata-se de uma característica típica do polimorfismo estático.
 
 Gabarito: Errado
 
-Item. 13. (FCC / TRE-CE - 2012) Sobre orientação a objetos, é INCORRETO afirmar:
+13. (FCC / TRE-CE - 2012) Sobre orientação a objetos, é INCORRETO afirmar:
 
 a) os conceitos de generalização e especialização da orientação a objetos estão
 diretamente
@@ -3554,7 +3456,6 @@ superclasse podem invocar métodos que têm a mesma assinatura e mesmo comportam
 e) uma classe define o comportamento dos objetos através de seus métodos, e quais
 estados
 ele é capaz de manter através de seus atributos.
-
 
 Comentários:
 
@@ -3614,7 +3515,6 @@ Errado. É claro que
 elas podem possuir diferenças, caso contrário não faria sentido.
 
 Gabarito: Letra C
-
 
 15- (FCC / TST - 2012) Considere que a classe Pessoa possui 3 métodos que podem ser
 aplicados
@@ -3676,8 +3576,7 @@ descreve herança e, não, polimorfismo; (III) Errado. Isso é polimorfismo e, n
 
 Gabarito: Letra C
 
-
-Item. 17. (FCC / TST - 2012) Na orientação a objetos:
+17. (FCC / TST - 2012) Na orientação a objetos:
 
 a) a herança permite que os membros de uma classe, chamada de classe-pai,
 possam ser
@@ -3748,7 +3647,6 @@ atributos da classe-pai depende do modificador utilizado; (d) Errado. Na
 verdade, são métodos
 sobrescritos e, não, sobrecarregados; (e) Errado. Não vejo relação disso com polimorfismo.
 
-
 Gabarito: Letra A
 
 I8.(FCC/TRTII-2O12) No contexto de Programação Orientada a Objetos (OOP), sobre a relação
@@ -3803,7 +3701,6 @@ variáveis de instância.
 e) A principal regra prática do encapsulamento é marcar as variáveis de instância como
 públicas
 e fornecer métodos de captura e configuração privados.
-
 
 Comentários:
 
@@ -3869,7 +3766,6 @@ vantagens na mudança de paradigmas foi que agora temos um outro nível de reusa
 
 Gabarito: Letra C
 
-
 2i.(FCC / TRT-RS - 2011) O aumento da produtividade de desenvolvimento e a capacidade
 de
 compartilhar o conhecimento adquirido, representa uma vantagem no uso de
@@ -3896,7 +3792,7 @@ objetos são potencialmente reusáveis infelizmente.
 
 Gabarito: Letra B
 
-Item. 22. (FCC / TRT14 - 2011) Considere:
+22. (FCC / TRT14 - 2011) Considere:
 
 I. Uma classe define o comportamento dos objetos através de seus métodos, e quais
 estados ele
@@ -3930,7 +3826,6 @@ e) I, II, III e IV.
 
 Comentários:
 
-
 (I) Correto. Comportamento por meio de métodos e Estados por meio de atributos; (II)
 Correto.
 Excelente definição do conceito de herança; (III) Errado. Mesma
@@ -3941,7 +3836,7 @@ Correto. Atributos armazenam estados e os objetos reagem a mensagens.
 
 Gabarito: Correto
 
-Item. 23. (FCC /TRT-MT -2011) Sobre os conceitos de orientação a objetos, considere:
+23. (FCC /TRT-MT -2011) Sobre os conceitos de orientação a objetos, considere:
 
 I. Classe encapsula dados para descrever o conteúdo de alguma entidade do mundo real.
 
@@ -3993,7 +3888,6 @@ e) construtor.
 
 Comentários:
 
-
 O recurso que serve para inicializar os atributos e é executado automaticamente sempre
 que um
 novo objeto é criado é também chamado de método construtor.
@@ -4044,12 +3938,11 @@ Subprogramas ou sub-rotinas encapsuladas em objetos são os famosos métodos.
 
 Gabarito: Letra D
 
-Item. 27. (FCC / CAIXA-2011) Objetos se comunicam por passagem de mensagem, eliminando áreas
+27. (FCC / CAIXA-2011) Objetos se comunicam por passagem de mensagem, eliminando áreas
 de
 dados compartilhados.
 
 Comentários:
-
 
 Perfeito! Primeiro, objetos se comunicam por meio de passagem de mensagem.
 Segundo,
@@ -4111,7 +4004,6 @@ número), - (sinal de menos) e - (til) correspondem respectivamente a:
 
 a) público, pacote, privado e protegido.
 
-
 b) público, protegido, privado e pacote.
 
 c) privado, protegido, público e pacote.
@@ -4149,7 +4041,7 @@ típica de polimorfismo!
 
 Gabarito: Letra A
 
-Item. 31. (FCC /TRT14-2011) A classe Veiculo contém alguns atributos de interesse da classe
+31. (FCC /TRT14-2011) A classe Veiculo contém alguns atributos de interesse da classe
 Aeronave.
 Todavia, asaeronavestambém demonstram interesse em captaratributosetambém
 operações
@@ -4173,7 +4065,6 @@ relacionamento é-um! Aeronave é-um elemento turbinado? Claro que não! Aeronav
 tem-um
 elemento turbinado. Logo, discordo do gabarito...
 
-
 Gabarito: Letra B
 
 32.(FCC / TRT-RS - 2011) Na taxonomia utilizada para as formas de polimorfismo são,
@@ -4195,7 +4086,7 @@ Lembrando que sobrescrita é conhecida também como polimorfismo por inclusão.
 
 Gabarito: Letra A
 
-Item. 33. (FCC / TRE-CE - 2011) Sobre conceitos em programação orientada a objetos (OOP), analise:
+33. (FCC / TRE-CE - 2011) Sobre conceitos em programação orientada a objetos (OOP), analise:
 
 I. No polimorfismo ad-hoc, métodos com o mesmo nome e pertencentes à mesma
 classe,
@@ -4204,7 +4095,6 @@ podem receber argumentos distintos, consequentemente alterando a assinatura do m
 II. No polimorfismo paramétrico é possível determinar o método como atributos de
 objetos são
 acessados por outros objetos, protegendo o acesso direto aos mesmos através de operações.
-
 
 III. Na restrição de multiplicidade é possível determinar o número de atributos e operações
 que
@@ -4236,7 +4126,6 @@ Gabarito: Letra B
 
 34-(FCC / DPE-SP-2010) Classes e objetos são dois conceitos-chave da programação orientada a
 objetos. Com relação a estes conceitos, é correto afirmar que:
-
 
 a) uma classe é uma descrição de um ou mais objetos por meio de um conjunto
 uniforme de
@@ -4317,7 +4206,7 @@ Aumento é o resultado da implementação de um Método (Ex: setAumento).
 
 Gabarito: Letra B
 
-Item. 37. (FCC / TRE-RS - 2010) Um objeto é, na orientação a objetos,
+37. (FCC / TRE-RS - 2010) Um objeto é, na orientação a objetos,
 
 a) uma rotina de programação contida em uma classe que pode ser chamada diversas
 vezes
@@ -4348,7 +4237,6 @@ funcionar nesse estado.
 Gabarito: Letra C
 
 38.(FCC /TRT-PI -2010) Em relação à orientação a objetos, considere as assertivas abaixo.
-
 
 I. Um objeto pode ser real ou abstrato. Sendo uma instância de uma classe, possui
 informações
@@ -4415,7 +4303,6 @@ c) o estado de um objeto.
 
 d) o comportamento de um objeto.
 
-
 e) as operações de uma classe.
 
 Comentários:
@@ -4472,7 +4359,6 @@ da hierarquia de classes, desde que mantenham a mesma assinatura. Na orientaçã
 objetos,
 este é o conceito que embasa:
 
-
 a) a multiplicidade.
 
 b) o encapsulamento.
@@ -4491,7 +4377,7 @@ polimorfismo dinâmico.
 
 Gabarito: Letra D
 
-Item. 43. (FCC/Sergipe Gás SA-2010) "É o mecanismo pelo qual uma classe pode estenderoutra
+43. (FCC/Sergipe Gás SA-2010) "É o mecanismo pelo qual uma classe pode estenderoutra
 classe,
 aproveitando seus comportamentos e variáveis possíveis." Na programação orientada a
 objetos
@@ -4532,7 +4418,6 @@ Comentários:
 Objetos possuem três características: identidade, propriedades (atributos ou
 estados) e
 comportamentos (métodos ou operações).
-
 
 Gabarito: Letra B
 
@@ -4594,7 +4479,6 @@ são criados é denominado:
 
 a) void.
 
-
 b) interface.
 
 c) agregação.
@@ -4637,7 +4521,7 @@ Um método é um elemento que define as habilidades/comportamentos do objeto.
 
 Gabarito: Letra C
 
-Item. 49. (FCC / PGE-RJ - 2009) Sobre orientação a objetos, considere:
+49. (FCC / PGE-RJ - 2009) Sobre orientação a objetos, considere:
 
 I. Os valores dos atributos são definidos no nível de classe.
 
@@ -4656,7 +4540,6 @@ c) III, apenas.
 d) I e II, apenas.
 
 e) I e III, apenas.
-
 
 Comentários:
 
@@ -4678,7 +4561,7 @@ definidos no nível de classe, logo também discordo da FCC. Só para relembrá-
 
 Gabarito: Letra C
 
-Item. 50. (FCC / TJ-PA - 2009) A especificação de uma comunicação entre objetos,
+50. (FCC / TJ-PA - 2009) A especificação de uma comunicação entre objetos,
 que contém
 informações relacionadas ao que se espera resultar dessa atividade, é:
 
@@ -4698,7 +4581,7 @@ A comunicação entre objetos é feita por meio de mensagens...
 
 Gabarito: Letra B
 
-Item. 51. (FCC / TRE-PI - 2009) A afirmação de que o estado de um objeto não deve ser
+51. (FCC / TRE-PI - 2009) A afirmação de que o estado de um objeto não deve ser
 acessado
 diretamente, mas sim por meio de métodos de acesso, está associada ao
 conceito de
@@ -4710,10 +4593,9 @@ Perfeito! Métodos são públicos e atributos são privados...
 
 Gabarito: Correto
 
-Item. 52. (FCC / SEFAZ-SP - 2009) Sobre a visibilidade dos métodos na orientação a objetos considere:
+52. (FCC / SEFAZ-SP - 2009) Sobre a visibilidade dos métodos na orientação a objetos considere:
 
 I. Os métodos públicos de uma classe definem a interface da classe.
-
 
 II. Os métodos privativos de uma classe não fazem parte da interface da classe.
 
@@ -4745,7 +4627,7 @@ quantidade, tipo e ordem de parâmetros).
 
 Gabarito: Letra A
 
-Item. 53. (FCC / MPE-SE - 2009) "A utilização de um sistema orientado a objetos não deve
+53. (FCC / MPE-SE - 2009) "A utilização de um sistema orientado a objetos não deve
 depender de
 sua implementação interna, mas de sua interface." Esta afirmação remete ao conceito de:
 
@@ -4777,7 +4659,6 @@ fundamentos das linguagens 00 que é:
 
 a) polimorfismo.
 
-
 b) encapsulamento.
 
 c) dependência.
@@ -4794,7 +4675,7 @@ se de uma característica típica de encapsulamento!
 
 Gabarito: Letra B
 
-Item. 55. (FCC / MPE-SE - 2009) "...distintas implementações de uma operação de classe e que, no
+55. (FCC / MPE-SE - 2009) "...distintas implementações de uma operação de classe e que, no
 entanto,
 o nome e os parâmetros dessa operação sejam os mesmos". Trata-se de:
 
@@ -4814,7 +4695,7 @@ Distintas implementações de uma operação? Trata-se de uma característica t�
 
 Gabarito: Letra C
 
-Item. 56. (FCC / TJ-PI - 2009) Na programação orientada a objetos, é o
+56. (FCC / TJ-PI - 2009) Na programação orientada a objetos, é o
 princípio que oferece a
 capacidade de um método poder ser implementado de diferentes formas, ou mesmo de
 realizar
@@ -4838,10 +4719,9 @@ Poder ser implementado de diferentes formas? Realizar coisas diferentes? Trata-s
 de uma
 característica típica do polimorfismo.
 
-
 Gabarito: Letra A
 
-Item. 57. (FCC/TRT-MA-2009) Um analista desenvolveu métodos de impressão de dados com a
+57. (FCC/TRT-MA-2009) Um analista desenvolveu métodos de impressão de dados com a
 mesma
 assinatura para três classes de impressoras (jato de tinta, laser e matricial)
 derivadas de uma
@@ -4889,7 +4769,7 @@ implementações) em objetos distintos. Só pode ser polimorfismo...
 
 Gabarito: Letra B
 
-Item. 59. (FCC / SEFAZ-SP -2009) Compartilhamento de atributos e operações genéricas entre
+59. (FCC / SEFAZ-SP -2009) Compartilhamento de atributos e operações genéricas entre
 diversas
 classes descendentes de uma classe ancestral remete ao conceito de:
 
@@ -4900,7 +4780,6 @@ b) encapsulamento.
 c) herança.
 
 d) agregação.
-
 
 e) multiplicidade.
 
@@ -4954,7 +4833,6 @@ propriedade (Nome da Empresa).
 Gabarito: Letra E
 
 62.(FCC / TRT18 - 2008) São dois tipos de relacionamento todo-parte:
-
 
 a) agregação e composição.
 
@@ -5010,7 +4888,6 @@ Proteção de atributos e operações? Trata-se de uma característica típica d
 
 Gabarito: Letra B
 
-
 QUESTõES CoMENTADAS - FCV
 
 í. (FGV / SEFAZ-MG - 2023) Os padrões de projeto de software (design patterns) tiram
@@ -5045,7 +4922,7 @@ ao sistema sem muita alteração no código existente.
 
 Gabarito: Letra D
 
-Item. 2. (FGV / SEAD-AP - 2022) No contexto da orientação por objetos, o princípio pelo
+2. (FGV / SEAD-AP - 2022) No contexto da orientação por objetos, o princípio pelo
 qual duas ou
 mais classes derivadas de uma mesma classe podem incorporar métodos que têm a mesma
 assinatura original, porém com comportamentos especializados, é conhecido como:
@@ -5069,7 +4946,7 @@ polimorfismo - um dos princípios da orientação a objetos.
 
 Gabarito: Letra E
 
-Item. 3. (FGV / TCE-TO - 2022) O sistema de controle automotivo SisAut foi modelado
+3. (FGV / TCE-TO - 2022) O sistema de controle automotivo SisAut foi modelado
 orientado a
 objetos. O SisAut possui a classe Veículo, que compartilha seu código-fonte com suas
 subclasses: Carro e Moto. As subclasses Carro e Moto aproveitam os métodos e atributos
@@ -5098,7 +4975,7 @@ chamado de Herança - um dos princípios da orientação a objetos.
 
 Gabarito: Letra B
 
-Item. 4. (FGV / IBGE - 2016) Em Orientação a Objetos, para que uma subclasse de uma
+4. (FGV / IBGE - 2016) Em Orientação a Objetos, para que uma subclasse de uma
 classe possa ter
 seu próprio comportamento, e mesmo assim compartilhar algumas das funcionalidades
 da
@@ -5124,7 +5001,7 @@ polimorfismo.
 
 Gabarito: Letra E
 
-Item. 5. (FGV / CODEBA - 2016) Durante a fase de análise de um sistema que está sendo
+5. (FGV / CODEBA - 2016) Durante a fase de análise de um sistema que está sendo
 desenvolvido
 sob o paradigma de orientação a objetos, o analista Pedro quer representar, em um
 diagrama
@@ -5133,7 +5010,6 @@ podem ser
 considerados individualmente no sistema, independente da turma.
 
 Para representar a relação entre alunos e turma, Pedro deve utilizar:
-
 
 a) composição.
 
@@ -5162,7 +5038,7 @@ turmas.
 
 Gabarito: Letra B
 
-Item. 6. (FGV / TCE-SE - 2015) Em POO (Programação Orientada a Objetos), dizer que a
+6. (FGV / TCE-SE - 2015) Em POO (Programação Orientada a Objetos), dizer que a
 classe A
 estende a classe B é o mesmo que dizer que:
 
@@ -5182,7 +5058,7 @@ Se A estende B, A é derivada de B.
 
 Gabarito: Letra C
 
-Item. 7. (FGV / TCE-SE - 2015) Em POO (programação orientada a objetos), dizer que a
+7. (FGV / TCE-SE - 2015) Em POO (programação orientada a objetos), dizer que a
 classe A é
 superclasse de B é o mesmo que dizer que:
 
@@ -5196,14 +5072,13 @@ d) B implementa A;
 
 e) A implementa B.
 
-
 Comentários:
 
 Essa ficou fácil! Se A é superclasse de B, B é derivada de A.
 
 Gabarito: Letra C
 
-Item. 8. (FGV / PROCEMPA - 2014) Definir a responsabilidade de cada classe é um aspecto
+8. (FGV / PROCEMPA - 2014) Definir a responsabilidade de cada classe é um aspecto
 muito
 importante que deve ser observado durante a modelagem de um projeto de
 sistema de
@@ -5243,7 +5118,7 @@ a coesão, mas isso não é uma regra.
 
 Gabarito: Letra C
 
-Item. 9. (FGV / TJ-GO - 2014) Analise as afirmativas a seguir, no contexto
+9. (FGV / TJ-GO - 2014) Analise as afirmativas a seguir, no contexto
 das linguagens de
 programação orientadas a objetos:
 
@@ -5254,7 +5129,6 @@ simultaneamente.
 II. A herança múltipla é a possibilidade de uma classe implementar uma ou mais
 inferfaces
 simultaneamente.
-
 
 III. A herança múltipla é a possibilidade de, numa dada classe, coexistirem métodos homônimos
 com múltiplas assinaturas, desde que distintas.
@@ -5315,7 +5189,6 @@ na forma de objetos. Este tipo de banco de dados possui três bases principais.
 Assinale a
 alternativa que atende ao paradigma de Orientação a Objetos.
 
-
 a) Herança; isomorfismo; multilateralidade.
 
 b) Herança; polimorfismo; encapsulamento.
@@ -5372,10 +5245,9 @@ colaterais indesejados é o encapsulamento.
 
 Gabarito: Letra E
 
-Item. 13. (FGV / MEC -2009) Na Análise Orientada a Objetos, o princípio pelo qual duas ou
+13. (FGV / MEC -2009) Na Análise Orientada a Objetos, o princípio pelo qual duas ou
 mais classes
 derivadas de uma mesma superclasse podem invocar métodos que têm a mesma identificação
-
 
 (assinatura) mas comportamentos distintos, especializados para cada classe
 derivada, usando
@@ -5397,7 +5269,6 @@ classe
 derivada (subclasse) é um caso típico de polimorfismo.
 
 Gabarito: Letra D
-
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -5442,7 +5313,7 @@ comportamento específico através de uma mesma interface da classe.
 
 Gabarito: Letra E
 
-Item. 2. (IBFC /TRE-PA-2020) Assinale a alternativa que identifica incorretamente um conceito
+2. (IBFC /TRE-PA-2020) Assinale a alternativa que identifica incorretamente um conceito
 básico
 das linguagens orientadas a objetos.
 
@@ -5453,7 +5324,6 @@ d) subprogramação
 
 Comentários:
 
-
 Desses conceitos apresentados, apenas o de subprogramação não está relacionado a
 linguagens
 orientadas a objetos. Na verdade, esse conceito está ligado a linguagens com
@@ -5462,7 +5332,7 @@ procedimental.
 
 Gabarito: Letra D
 
-Item. 3. (IBFC / Prefeitura de Cruzeiro do Sul - AC - 2019) Um dos conceitos do paradigma
+3. (IBFC / Prefeitura de Cruzeiro do Sul - AC - 2019) Um dos conceitos do paradigma
 orientado a
 objetos consiste na alteração do funcionamento interno de um método herdado de um
 objeto
@@ -5483,7 +5353,7 @@ enunciado a alteração do funcionamento de um método que foi herdado.
 
 Gabarito: Letra A
 
-Item. 4. (CONSULPLAN/ Prefeitura de Suzano - SP - 2019) Na orientação a objetos, todo
+4. (CONSULPLAN/ Prefeitura de Suzano - SP - 2019) Na orientação a objetos, todo
 objeto está
 relacionado a uma classe que o representa e que serve como forma de modelo. O objeto
 terá
@@ -5515,7 +5385,6 @@ princípio do polimorfismo.
 
 Gabarito: Letra D
 
-
 5- (AOCP / IBGE - 2019) As classes, bem como os seus objetos, contêm atributos e
 métodos que
 estão intimamente relacionados. Os objetos podem se comunicar entre si, mas eles, em
@@ -5546,7 +5415,7 @@ a eles é o encapsulamento.
 
 Gabarito: Letra E
 
-Item. 6. (QUADRIX / Prefeitura de Jataí - GO - 2019) Na análise orientada a objetos, o
+6. (QUADRIX / Prefeitura de Jataí - GO - 2019) Na análise orientada a objetos, o
 diagrama que
 descreve os tipos de objetos e seus relacionamentos, descreve a estrutura
 estática de um
@@ -5567,7 +5436,7 @@ e) atividades.
 Comentários:
 
 Aqui estamos falando de UML. Existem diversos diagramas de UML, por exemplo a versão
-Item. 2.3 da
+2.3 da
 UML fornece 13 diagramas diferentes. O diagrama de classe fornece uma visão
 estática ou
 estrutural sistema, ou seja, ele não mostra a natureza dinâmica das comunicações entre
@@ -5576,10 +5445,9 @@ Ademais, os diagramas de classe também exibem relações entre classes.
 
 Gabarito: Letra A
 
-Item. 7. (QUADRIX / Prefeitura de Jataí - GO - 2019) No que se refere aos conceitos de
+7. (QUADRIX / Prefeitura de Jataí - GO - 2019) No que se refere aos conceitos de
 herança
 múltipla, julgue os itens subsequentes.
-
 
 I. Com a implementação da herança múltipla, é possível simplificaros programas e
 proporcionar
@@ -5615,7 +5483,7 @@ irá herdar a estrutura e os comportamentos de mais de uma classe-base.
 
 Gabarito: Letra C
 
-Item. 8. (QUADRIX/ CRO-GO-2019) Alguns conceitos como herança, polimorfismo e
+8. (QUADRIX/ CRO-GO-2019) Alguns conceitos como herança, polimorfismo e
 encapsulamento
 são abordados no desenvolvimento de sistemas orientados a objetos.
 
@@ -5627,7 +5495,7 @@ Orientado a Objetos (POO).
 
 Gabarito: Correto
 
-Item. 9. (COVEST-COPSET/ UFPE- 2019) No contexto dos principais elementos
+9. (COVEST-COPSET/ UFPE- 2019) No contexto dos principais elementos
 conceituais do
 modelo de objetos, assinale a alternativa que define corretamente o
 conceito de
@@ -5641,7 +5509,6 @@ b) É o processo de compartimentalizar os elementos de uma abstração que const
 estrutura e comportamento, servindo para separar a interface contratual de uma abstração
 e
 sua implementação.
-
 
 c) Refere-se à capacidade de salvar atributos de um objeto em um meio
 permanente de
@@ -5700,7 +5567,6 @@ III. permite a utilização das implementações das classes concretas ao invés
 utilização das
 classes abstratas.
 
-
 Está(ão) CORRETA(S), apenas, a(s) proposição(ões)
 
 a) I e II.
@@ -5723,7 +5589,7 @@ interface os métodos são todos abstratos;
 
 Gabarito: Letra A
 
-Item. 12. (IF-PE / IF-PE - 2019) Estrutura que contém a representação de dados e rotinas
+12. (IF-PE / IF-PE - 2019) Estrutura que contém a representação de dados e rotinas
 que processam
 esses dados, assim como representa um conjunto de objetos similares. A definição
 apresentada
@@ -5762,7 +5628,6 @@ c) Mecanismo que permite que métodos, com o mesmo nome, possam ser reimplementa
 dentro da própria classe.
 
 d) Representação do quanto uma classe depende de outra classe do sistema.
-
 
 e) Representação das características essenciais de um objeto e que o diferencia
 de outros
@@ -5805,7 +5670,7 @@ polimorfismo.
 
 Gabarito: Letra E
 
-Item. 15. (VUNESP/Câmara de Piracicaba - SP-2019) No contexto da orientação a objetos, existe
+15. (VUNESP/Câmara de Piracicaba - SP-2019) No contexto da orientação a objetos, existe
 uma
 medida de quanto dois itens, tais como classes ou métodos, estão
 inter-relacionados. Esta
@@ -5826,7 +5691,6 @@ d) interface.
 e) acoplamento.
 
 Comentários:
-
 
 À medida que trata do nível de dependência entre módulos de um software é o acoplamento.
 
@@ -5887,7 +5751,6 @@ então deve obrigatoriamente implementar os métodos abstratos da classe-pai.
 Gabarito: Letra C
 
 18.(UFMG / UFMG - 2019) Os quatro pilares do paradigma de Orientação a Objetos são:
-
 
 a) Sequenciamento, Procedimentos, Bibliotecas e Herança.
 
@@ -5952,7 +5815,6 @@ objetos, é a descrição dos atributos e serviços comuns a um grupo de objetos
 
 Gabarito: Letra C
 
-
 2o.(CCV-UFC/ UFC- 2019) Um dos recursos existentes na orientação a objetos é denominado
 polimorfismo. Com relação a esse recurso, é correto afirmar:
 
@@ -6012,7 +5874,6 @@ delegação
 não é utilizada por muitas das linguagens de programação; (b) Errado, não existe essa exigência;
 (c)
 
-
 Errado, não há essa dependência; (d) Errado, o polimorfismo também pode ocorrer por
 overriding
 (sobrescrita).
@@ -6046,7 +5907,7 @@ orientação a objetos são públicos, protegidos e privados.
 
 Gabarito: Letra E
 
-Item. 23. (COSEAC / UFF - 2019) Em relação à orientação objetos, avalie se são verdadeiras (V) ou
+23. (COSEAC / UFF - 2019) Em relação à orientação objetos, avalie se são verdadeiras (V) ou
 falsas
 
 (F) as afirmativas a seguir:
@@ -6075,7 +5936,6 @@ retornar
 valores; (II) Errado, uma classe não necessariamente deve possuir métodos e atributos;
 (III) Correto,
 o polimorfismo consiste em alterar alguma ação herdada de uma superclasse.
-
 
 Gabarito: Letra A
 
@@ -6124,7 +5984,7 @@ sem dizer como ele faz; (e) Errado, ela pode definir seus próprios atributos.
 
 Gabarito: Letra D
 
-Item. 25. (QUADRIX / CRQ 4a Região-SP - 2018) Com o princípio da "herança", um objeto faz
+25. (QUADRIX / CRQ 4a Região-SP - 2018) Com o princípio da "herança", um objeto faz
 reuso de
 código, possibilitando a redução de esforços no desenvolvimento de
 sistemas pelo
@@ -6135,7 +5995,6 @@ Comentários:
 Perfeito! Em suma, a herança facilita o compartilhamento de comportamento comum
 entre
 classes, permitindo que classes compartilhem atributos e métodos.
-
 
 Gabarito: Correto
 
@@ -6153,7 +6012,7 @@ objeto.
 
 Gabarito: Correto
 
-Item. 27. (QUADRIX / CRQ 4a Região-SP - 2018) Polimorfismo em POO é a combinação de
+27. (QUADRIX / CRQ 4a Região-SP - 2018) Polimorfismo em POO é a combinação de
 atributos e
 métodos internos a uma classe, de forma a deixar visível apenas o que é necessário
 para a
@@ -6190,10 +6049,9 @@ De fato, uma classe possui atributos e métodos, mas objetos não precisam
 obrigatoriamente
 possuirtodos os métodos. A palavra "devem" acabou deixando o item errado.
 
-
 Gabarito: Errado
 
-Item. 30. (FUNDEP / Prefeitura de Pará de Minas - MG - 2018) Qual recurso da programação
+30. (FUNDEP / Prefeitura de Pará de Minas - MG - 2018) Qual recurso da programação
 orientada
 a objetos permite que dois ou mais métodos possuam o mesmo nome desde que
 utilizem
@@ -6252,7 +6110,6 @@ do problema.
 Em suma, a Análise consiste em o que deve ser feito, enquanto o Projeto consiste em
 como deve
 ser feito.
-
 
 Gabarito: Letra B
 
@@ -6315,7 +6172,6 @@ relacionamento, as classes e os objetos interagem entre si para atingir seus obj
 São os
 tipos de uma associação, EXCETO:
 
-
 a) acoplamento.
 
 b) agregação.
@@ -6332,7 +6188,7 @@ associação a agregação, a composição e a dependência.
 
 Gabarito: Letra A
 
-Item. 34. (QUADRIX / CRM-PR- 2018) Com o polimorfismo, é possível que uma
+34. (QUADRIX / CRM-PR- 2018) Com o polimorfismo, é possível que uma
 operação seja
 implementada, em uma classe-fiIha, de forma diferente da classe-pai.
 
@@ -6344,7 +6200,7 @@ podem invocar métodos que têm a mesma identificação, mas comportamentos dist
 
 Gabarito: Correto
 
-Item. 35. (QUADRIX / CRM-PR - 2018) É obrigatório que uma classe possua, no mínimo, um atributo.
+35. (QUADRIX / CRM-PR - 2018) É obrigatório que uma classe possua, no mínimo, um atributo.
 
 Comentários:
 
@@ -6367,7 +6223,6 @@ operações ou
 atributos.
 
 Gabarito: Correto
-
 
 37- (QUADRIX/CRM-PR-2oI8) Uma classe especifica a estrutura de um objeto, informando
 quais
@@ -6420,7 +6275,6 @@ conhecida como polimorfismo ad-hoc. Ela permite que o programador use o mesmo no
 método para muitos métodos diferentes.
 
 Comentários:
-
 
 O polimorfismo ad-hoc é aquele que pode trabalhar com um número finito de
 tipos. Ele é
@@ -6479,7 +6333,6 @@ c) no tipo da referência ao objeto em vez do objeto referenciado, quando há a
 sobrescrita
 (overriding) de métodos.
 
-
 d) no tipo da referência ao objeto em vez do objeto referenciado, quando há a
 sobrecarga
 (overloading) de métodos.
@@ -6531,7 +6384,6 @@ de forma
 não apropriada, pode complicar um projeto desnecessariamente e
 resultar em
 um software passível de erros e difícil de manter.
-
 
 Quais estão corretas?
 
@@ -6644,7 +6496,6 @@ verdade, ela pode - sim - incorporar atributos e operações adicionais.
 
 Gabarito: Letra B
 
-
 49-(IF-TO / IF-TO - 2018) Considere o cenário onde uma Classe B lega suas
 estruturas e
 comportamentos de uma Classe A. Essa relação entre a Classe A e a Classe B é
@@ -6700,10 +6551,9 @@ coleção de objetos; (d) Errado, polimorfismo pode utilizar diferentes métodos
 (e) Errado, os
 objetos herdam todos os componentes da classe pai.
 
-
 Gabarito: Letra A
 
-Item. 51. (FUNRIO / AL-RR - 2018) Um programador, utilizando orientação a objeto, deseja
+51. (FUNRIO / AL-RR - 2018) Um programador, utilizando orientação a objeto, deseja
 fazer com
 que os atributos e serviços disponíveis em uma classe estejam escondidos, de modo que
 o
@@ -6749,7 +6599,7 @@ criado.
 
 Gabarito: Letra D
 
-Item. 53. (CS-UFG / SANEAGO - GO - 2018) Em programação orientada a objetos, o uso de
+53. (CS-UFG / SANEAGO - GO - 2018) Em programação orientada a objetos, o uso de
 composição
 ao invés de herança é preferível porque
 a) facilita o emprego de estruturas de decisão e controle.
@@ -6759,7 +6609,6 @@ b) reduz o acoplamento.
 c) elimina bugs.
 
 d) minimiza o consumo de memória e CPU.
-
 
 Comentários:
 
@@ -6773,7 +6622,7 @@ composição o acoplamento é menor.
 
 Gabarito: Letra B
 
-Item. 54. (CS-UFG / SANEAGO - GO - 2018) A programação orientada a objetos:
+54. (CS-UFG / SANEAGO - GO - 2018) A programação orientada a objetos:
 
 a) impossibilita o polimorfismo sem herança (extends em JAVA).
 
@@ -6795,7 +6644,7 @@ pode serfeita, por exemplo, com herança.
 
 Gabarito: Letra C
 
-Item. 55. (CS-UFG / SANEAGO - GO - 2018) Uma classe abstrata A contém o método abstrato
+55. (CS-UFG / SANEAGO - GO - 2018) Uma classe abstrata A contém o método abstrato
 foo(), que
 não foi reimplementado pela classe B que herda de A. Nesse contexto,
 
@@ -6818,7 +6667,6 @@ ele pode
 sobrecarregar.
 
 Gabarito: Letra B
-
 
 56.(PR-4 UFRJ / UFRJ - 2018) Com relação aos conceitos de orientação
 objeto, existe uma
@@ -6854,7 +6702,7 @@ requisitante, ele precisa apenas saber que o receptor sabe realizar tal operaç�
 
 Gabarito: Letra A
 
-Item. 57. (IBFC / Prefeitura de Divinópolis-MG - 2018) Assinale a alternativa que complete
+57. (IBFC / Prefeitura de Divinópolis-MG - 2018) Assinale a alternativa que complete
 correta e
 respectivamente as lacunas da frase a seguir:
 
@@ -6880,7 +6728,6 @@ interface da
 classe.
 
 Gabarito: Letra A
-
 
 58.(IBFC/TJ-PE-20i7) Em um programa orientado a objetos, verifica-se que a classe X
 estende a
@@ -6945,7 +6792,6 @@ d) iA - 2C - 3D - 4B.
 
 Comentários:
 
-
 (íC) Herança é o mecanismo pelo qual uma classe pode estender outra classe
 ou, ainda, ser
 estendida de outra classe; (2A) Métodos definem as habilidades dos objetos; (3B)
@@ -6996,7 +6842,6 @@ invocar
 métodos que têm a mesma identificação (assinatura), mas comportamentos distintos é o
 princípio
 do... polimorfismo.
-
 
 Gabarito: Letra E
 
@@ -7113,7 +6958,6 @@ posteriormente.
 II - instâncias específicas criadas a partir da definição das estruturas referentes ao conceito I.
 Esses conceitos correspondem, respectivamente, ao que se conhece pelos nomes de:
 
-
 a) I - Tipo; II - Classe
 b) I - Tipo; II - Construtor
 c) I - Classe; II - Tipo
@@ -7128,7 +6972,7 @@ suas instâncias chamadas Objetos.
 
 Gabarito: Letra D
 
-Item. 66. (IBFC / TRE-AM - 2014) Em programação orientada a objetos significa separar o
+66. (IBFC / TRE-AM - 2014) Em programação orientada a objetos significa separar o
 programa
 em partes, o mais isoladas possível, tornando o software mais flexível e fácil de modificar:
 
@@ -7169,10 +7013,9 @@ O conjunto de atributos e métodos agregados a um só objeto (opa, parece
 encapsulamento), que
 podem ser visíveis ou invisíveis... agora só pode ser encapsulamento mesmo.
 
-
 Gabarito: Letra D
 
-Item. 68. (IBFC / HEMOMINAS - 2013) Complete a frase a seguir com uma das alternativas
+68. (IBFC / HEMOMINAS - 2013) Complete a frase a seguir com uma das alternativas
 abaixo:
 "permite que os atributos de classes possam ser declarados como
 públicos, privados
@@ -7194,7 +7037,7 @@ ou protegidos.
 
 Gabarito: Letra D
 
-Item. 69. (ESAF / DNIT - 2013) A herança de D a partir de C é a habilidade que uma
+69. (ESAF / DNIT - 2013) A herança de D a partir de C é a habilidade que uma
 classe D tem
 implicitamente definida:
 
@@ -7220,12 +7063,11 @@ contrapartida, D é caracterizada com uma subclasse de C.
 
 Gabarito: Letra C
 
-Item. 70. (ESAF / CGU - 2012) Assinale a opção correta.
+70. (ESAF / CGU - 2012) Assinale a opção correta.
 
 a) As classes podem formar heranças segmentadas em classes adjacentes.
 
 b) Overflow é a redefinição do fluxo de uma classe, em uma de suas subclasses.
-
 
 c) Overriding é a redefinição de um método, definido em uma classe, em
 uma de suas
@@ -7268,7 +7110,7 @@ objeto". Trata-se, portanto, do mecanismo de encapsulamento.
 
 Gabarito: Letra D
 
-Item. 72. (CESGRANRIO / PETROBRÁS -2010) Análise as afirmativas a seguir relativas ao
+72. (CESGRANRIO / PETROBRÁS -2010) Análise as afirmativas a seguir relativas ao
 paradigma da
 orientação a objetos.
 
@@ -7279,7 +7121,6 @@ interna.
 II - Uma mensagem de um objeto A para um objeto B indica que A
 realizou uma tarefa
 requisitada por B.
-
 
 III - A existência da mesma operação polimórfica definida em duas classes, ClasseA e
 ClasseB,
@@ -7317,7 +7158,7 @@ ClasseA. Ambas podem serfilhas de ClasseC.
 
 Gabarito: Letra A
 
-Item. 73. (ESAF / SUSEP - 2010) Em relação à programação orientada a objetos, é correto afirmar que:
+73. (ESAF / SUSEP - 2010) Em relação à programação orientada a objetos, é correto afirmar que:
 
 a) o objeto é definido por atributos.
 
@@ -7343,14 +7184,13 @@ Gabarito: Letra A
 pode ter
 apenas uma subclasse.
 
-
 Comentários:
 
 Opa... herança simples significa que uma subclasse tem apenas uma superclasse direta.
 
 Gabarito: Errado
 
-Item. 75. (ESAF / SUSEP - 2010) Polimorfismo é a:
+75. (ESAF / SUSEP - 2010) Polimorfismo é a:
 
 a) utilização múltipla de programas em análise orientada a objetos.
 
@@ -7400,7 +7240,6 @@ b) Um objeto é qualquer coisa, real ou abstrata, a respeito do qual armazenamos
 dados e os
 métodos que os manipulam.
 
-
 c) Um método de um tipo de objeto referência somente as estruturas de dados desse
 tipo de
 objeto. Comparativamente, é similar às funções e procedures do universo da programação.
@@ -7430,18 +7269,17 @@ dizer!
 
 Gabarito: Letra A
 
-
 LISTA DE QUESTõES - CESPE
 
 í. (CESPE I BANRISUL - 2022) Nas classes abstratas, que servem de modelo para outras
 classes,
 é obrigatória a existência de pelo menos um método abstrato, sem corpo.
 
-Item. 2. (CESPE / BANRISUL - 2022) Em um projeto orientado a objetos, a decomposição do
+2. (CESPE / BANRISUL - 2022) Em um projeto orientado a objetos, a decomposição do
 sistema
 em objetos é influenciada por fatores como encapsulamento, granularidade e desempenho.
 
-Item. 3. (CESPE / TELEBRÁS - 2021) Na orientação a objetos, o polimorfismo
+3. (CESPE / TELEBRÁS - 2021) Na orientação a objetos, o polimorfismo
 permite que os
 programadores definam comportamentos diferentes para um mesmo método. Além disso,
 dados os tipos de polimorfismo, é possível que, dentro de uma herança, um comportamento
@@ -7451,37 +7289,37 @@ abstração mais próxima do mundo real, facilitando a compreensão do código c
 No polimorfismo, a decisão sobre qual método deve ser selecionado é tomada em tempo de
 concepção.
 
-Item. 4. (CESPE / Petrobrás - 2022) A POO é embasada nos conceitos de classe,
+4. (CESPE / Petrobrás - 2022) A POO é embasada nos conceitos de classe,
 objeto,
 encapsulamento, herança, interfaces e polimorfismo; uma característica das
 interfaces, por
 exemplo, é o fato de que elas não podem ser implementadas por uma classe, mas sim herdadas.
 
-Item. 5. (CESPE / FUB-2018) Na orientação a objetos, estes possuem diversos atributos e
+5. (CESPE / FUB-2018) Na orientação a objetos, estes possuem diversos atributos e
 métodos, os
 quais são utilizados para se definir as características e ações das classes.
 
-Item. 6. (CESPE / BNB - 2018) O encapsulamento em uma classe garante que seus métodos e
+6. (CESPE / BNB - 2018) O encapsulamento em uma classe garante que seus métodos e
 suas
 variáveis tenham alta coesão e baixo acoplamento, seguindo os objetivos
 básicos da
 programação orientada a objetos.
 
-Item. 7. (CESPE / BNB - 2018) As interfaces são definições a respeito de como um objeto
+7. (CESPE / BNB - 2018) As interfaces são definições a respeito de como um objeto
 pode ser
 utilizado por outros objetos, sem envolver necessariamente uma interação com o usuário.
 
-Item. 8. (CESPE / BNB - 2018) De acordo com o conceito de herança, uma classe derivada
+8. (CESPE / BNB - 2018) De acordo com o conceito de herança, uma classe derivada
 é uma
 implementação mais genérica da classe da qual ela deriva, o que permite a reutilização
 de
 métodos e de variáveis.
 
-Item. 9. (CESPE / BNB - 2018) Em programação orientada a objetos, a técnica utilizada
+9. (CESPE / BNB - 2018) Em programação orientada a objetos, a técnica utilizada
 para esconder
 detalhes internos de funcionamento de uma classe é denominada generalização.
 
-Item. 10. (CESPE/TCE-MG -2018) Em uma programação orientada a objetos, a técnica de
+10. (CESPE/TCE-MG -2018) Em uma programação orientada a objetos, a técnica de
 programação
 que mantém ocultos detalhes internos do funcionamento dos métodos de uma
 classe é
@@ -7490,18 +7328,17 @@ a) encapsulamento.
 
 b) polimorfismo.
 
-
 c) generalização.
 
 d) abstração.
 
 e) herança.
 
-Item. 11. (CESPE/ABIN-2018) Se, em tempo de execução de um sistema, ocorrerassociação entre
+11. (CESPE/ABIN-2018) Se, em tempo de execução de um sistema, ocorrerassociação entre
 uma
 entidade e um atributo, então essa associação será considerada um acoplamento dinâmico.
 
-Item. 12. (CESPE/ ABIN -2018) Considere que, em um sistema de informações, um objeto possua
+12. (CESPE/ ABIN -2018) Considere que, em um sistema de informações, um objeto possua
 dados
 de uma pessoa, tais como: nome, endereço, data de aniversário e número do cartão de
 crédito.
@@ -7511,17 +7348,17 @@ data de aniversário e deixe os dados do cartão de crédito protegidos em forma
 privado. Nesse
 caso, o sistema estará usando o recurso de interface.
 
-Item. 13. (CESPE / STM - 2018) Um recurso de grande utilidade nesse tipo de programação
+13. (CESPE / STM - 2018) Um recurso de grande utilidade nesse tipo de programação
 consiste na
 possibilidade de um objeto exercer o comportamento de outro objeto.
 
-Item. 14. (CESPE / STM - 2018) Os atributos de um objeto podem ser expostos tanto por
+14. (CESPE / STM - 2018) Os atributos de um objeto podem ser expostos tanto por
 meio de um
 enlace direto a uma variável interna quanto por meio do retorno de um valor por meio
 de um
 método.
 
-Item. 15. (CESPE / STM- 2018) O tipo de herança mais eficiente e indicado é a
+15. (CESPE / STM- 2018) O tipo de herança mais eficiente e indicado é a
 herança de
 implementação, pois possibilita que uma nova classe reutilize a implementação de outra
 classe
@@ -7529,17 +7366,17 @@ sem a necessidade de se recortar e colar o código de forma manual,
 tornando o código
 automaticamente disponível, como parte da nova classe.
 
-Item. 16. (CESPE / STM - 2018) O encapsulamento permite que um programa seja dividido em
+16. (CESPE / STM - 2018) O encapsulamento permite que um programa seja dividido em
 várias
 partes menores; contudo, as partes tornam-se dependentes umas das outras em
 relação à
 implementação e em relação ao trabalho realizado.
 
-Item. 17. (CESPE / STM -2018) Em orientação a objetos, os membros de dados de uma classe
+17. (CESPE / STM -2018) Em orientação a objetos, os membros de dados de uma classe
 devem ser
 acessados por um método específico do objeto, e não diretamente.
 
-Item. 18. (CESPE / SEDF - 2017) Um objeto define atributos, comportamentos e
+18. (CESPE / SEDF - 2017) Um objeto define atributos, comportamentos e
 abstrações comuns
 compartilhados por um tipo de classe.
 
@@ -7555,7 +7392,6 @@ prejudique a sua identificação pelo compilador.
 
 b) a identificação da assinatura do método corresponde ao seu nome.
 
-
 c) uma classe derivada da classe-mãe tem vários métodos com a mesma
 assinatura, e o
 compilador realiza o primeiro deles.
@@ -7568,7 +7404,7 @@ e) cada método tem um nome único na classe derivada da classe-mãe a ser ident
 pelo
 compilador.
 
-Item. 20. (CESPE/TRE-BA-2017) A partir de uma classe derivada de uma superclasse, podem-se
+20. (CESPE/TRE-BA-2017) A partir de uma classe derivada de uma superclasse, podem-se
 invocar
 métodos que tenham a mesma assinatura, mas comportamentos distintos, ou seja, em que
 haja
@@ -7586,7 +7422,7 @@ d) namespaces.
 
 e) atributos.
 
-Item. 21. (CESPE / TCE-PR - 2016) Em se tratando de orientação a objetos, o polimorfismo refere-se:
+21. (CESPE / TCE-PR - 2016) Em se tratando de orientação a objetos, o polimorfismo refere-se:
 
 a) ao reconhecimento do comportamento variado de um método, o que
 melhora o
@@ -7604,48 +7440,47 @@ e) à utilização de métodos específicos para manipular dados com proteção 
 meio de
 encapsulamento.
 
-Item. 22. (CESPE / FUB - 2016) Uma das vantagens de se utilizar encapsulamento em
+22. (CESPE / FUB - 2016) Uma das vantagens de se utilizar encapsulamento em
 orientação a
 objetos é impedir o acesso direto aos atributos de um objeto.
 
-Item. 23. (CESPE / FUB - 2016) O conjunto de valores das características de determinado
+23. (CESPE / FUB - 2016) O conjunto de valores das características de determinado
 objeto é
 denominado estado.
 
-Item. 24. (CESPE / FUB - 2016) Quando uma classe é subclasse de várias superclasses, mas
+24. (CESPE / FUB - 2016) Quando uma classe é subclasse de várias superclasses, mas
 somente
 herda características de uma classe, a herança é do tipo simples.
-
 
 25.(CESPE/TRE-GO-2oIS) Uma classe abstrata possui instâncias diretas, bem como suas
 classes
 descendentes.
 
-Item. 26. (CESPE / TJDFT - 2015) Recurso de classes é a propriedade dos objetos que
+26. (CESPE / TJDFT - 2015) Recurso de classes é a propriedade dos objetos que
 viabiliza a
 implementação de hierarquia entre objetos.
 
-Item. 27. (CESPE / TJDFT - 2015) A combinação de dados com o código que os manipula em
+27. (CESPE / TJDFT - 2015) A combinação de dados com o código que os manipula em
 um único
 objeto é denominada encapsulamento.
 
-Item. 28. (CESPE / TCE-RN - 2015) O processo de herança permite a reutilização de código,
+28. (CESPE / TCE-RN - 2015) O processo de herança permite a reutilização de código,
 como
 também o reaproveitamento de atributos e métodos. Assim, em aplicações que
 utilizam
 herança, a obtenção de polimorfismo é uma possibilidade.
 
-Item. 29. (CESPE / MEC - 2015) Objetos são definidos como entidades da modelagem de
+29. (CESPE / MEC - 2015) Objetos são definidos como entidades da modelagem de
 sistemas que
 armazenam estados com a utilização de atributos dos próprios objetos, sem
 interação com
 outros objetos por meio de mensagens.
 
-Item. 30. (CESPE / INPI - 2013) Ao se utilizar o encapsulamento, não é necessário saber
+30. (CESPE / INPI - 2013) Ao se utilizar o encapsulamento, não é necessário saber
 como ele
 funciona internamente, apenas como transmite os seus atributos.
 
-Item. 31. (CESPE / TRE-MS - 2013) Em programação orientada a objetos, a
+31. (CESPE / TRE-MS - 2013) Em programação orientada a objetos, a
 possibilidade de haver
 funções de mesmo nome, com funcionalidades similares em classes sem nenhuma relação
 entre
@@ -7661,24 +7496,23 @@ d) polimorfismo.
 
 e) relacionamento hierárquico.
 
-Item. 32. (CESPE / MPU - 2013) Se uma subclasse herdar características de duas ou mais
+32. (CESPE / MPU - 2013) Se uma subclasse herdar características de duas ou mais
 superclasses,
 ocorrerá uma herança múltipla.
 
-Item. 33. (CESPE / INPI - 2013) Em uma operação de sobrecarga, uma classe derivada pode
+33. (CESPE / INPI - 2013) Em uma operação de sobrecarga, uma classe derivada pode
 redefinir
 operações de sua classe base.
 
-Item. 34. (CESPE / TRE-RJ - 2012) Cada classe pode ter implementações de operação — ou
+34. (CESPE / TRE-RJ - 2012) Cada classe pode ter implementações de operação — ou
 métodos —
 com denominações únicas. Classes diferentes podem ter métodos com denominações
 iguais,
 porém, uma classe não pode ter métodos com denominações iguais e parâmetros diferentes.
 
-Item. 35. (CESPE / MPE-PI - 2012) É possível que um mesmo objeto tenha mais de um método
+35. (CESPE / MPE-PI - 2012) É possível que um mesmo objeto tenha mais de um método
 com o
 mesmo nome.
-
 
 36.(CESPE / TRE-RJ - 2012) As heranças, que são princípios de orientação a objetos,
 permitem o
@@ -7755,12 +7589,12 @@ situações de utilização do sistema, é considerado o diagrama responsável p
 mostrar a
 estrutura estática do sistema.
 
-Item. 48. (CESPE / TRT-RN - 2010) Programa que utilize uma linguagem orientada a objetos
+48. (CESPE / TRT-RN - 2010) Programa que utilize uma linguagem orientada a objetos
 (00), ao
 incorporarcorretamente ao seu funcionamento conceitos como os de encapsulamento, herança
 e polimorfismo, beneficia-se das características da 00.
 
-Item. 49. (CESPE / TRT-RN - 2010) Além dos conceitos de objeto e classe, o paradigma da
+49. (CESPE / TRT-RN - 2010) Além dos conceitos de objeto e classe, o paradigma da
 orientação a
 objetos envolve os princípios de:
 
@@ -7774,73 +7608,72 @@ d) generalização, especialização, herança e polimorfismo.
 
 e) atributos, métodos, instâncias e mensagens.
 
-Item. 50. (CESPE/ Banco da Amazônia-2010) Objetostêm identidade própria. Isso garante que,
+50. (CESPE/ Banco da Amazônia-2010) Objetostêm identidade própria. Isso garante que,
 mesmo
 tendo os mesmos valores de variáveis e pertencendo à mesma classe, dois
 objetos sejam
 considerados diferentes.
 
-Item. 51. (CESPE / ABIN - 2010) Um objeto apresenta três características básicas, o estado,
+51. (CESPE / ABIN - 2010) Um objeto apresenta três características básicas, o estado,
 a identidade
 e o comportamento. A parte de dados de um objeto é definida por um conjunto de
 mensagens,
 e a porção funcional, por um conjunto de atributos.
 
-Item. 52. (CESPE/ABIN -2010) Objeto é o agrupamento de classes similares que apresentam os
+52. (CESPE/ABIN -2010) Objeto é o agrupamento de classes similares que apresentam os
 mesmos
 atributos e operações. Na definição de uma classe, é necessário estabelecer a que
 objeto ela
 ocorre como instância.
 
-Item. 53. (CESPE / TCU - 2010) Uma classe pode ser vista como uma descrição generalizada
+53. (CESPE / TCU - 2010) Uma classe pode ser vista como uma descrição generalizada
 de uma
 coleção de objetos semelhantes.
 
-Item. 54. (CESPE / MPU - 2010) Uma mensagem enviada a um objeto pode levar à execução de
+54. (CESPE / MPU - 2010) Uma mensagem enviada a um objeto pode levar à execução de
 um
 método que não esteja implementado na classe à qual o objeto pertence.
 
-Item. 55. (CESPE / DETRAN-ES - 2010) Um dos conceitos em programação orientada a objetos é
+55. (CESPE / DETRAN-ES - 2010) Um dos conceitos em programação orientada a objetos é
 o de
 abstração, por meio da qual as características do mundo real podem ser
 modeladas, por
 exemplo, mediante o agrupamento de objetos e classes.
 
-
-Item. 56. (CESPE / MPU - 2010) Considerando as características do relacionamento entre uma
+56. (CESPE / MPU - 2010) Considerando as características do relacionamento entre uma
 classe e
 suas subclasses, é correto afirmar que toda implementação de subclasse é polimórfica.
 
-Item. 57. (CESPE / Banco da Amazônia - 2010) A herança é um conceito implementado por
+57. (CESPE / Banco da Amazônia - 2010) A herança é um conceito implementado por
 todas as
 linguagens de programação orientadas a objeto. No entanto, algumas delas somente permitem
 o uso de herança simples, não sendo possível a criação de classes por meio de herança múltipla.
 
-Item. 58. (CESPE / TRT-RN - 2010) Uma subclasse, por ser derivada de uma superclasse e
+58. (CESPE / TRT-RN - 2010) Uma subclasse, por ser derivada de uma superclasse e
 possuir todos
 os atributos da superclasse, além de atributos específicos, é mais
 especializada que a
 superclasse da qual foi derivada.
 
-Item. 59. (CESPE / MPU - 2010) Em uma hierarquia de classes na qual exista herança
+59. (CESPE / MPU - 2010) Em uma hierarquia de classes na qual exista herança
 múltipla, não é
 possível fazer uso do polimorfismo na implementação das classes.
 
-Item. 60. (CESPE / BASA - 2010) Na modelagem de classes, a hierarquia entre elas é
+60. (CESPE / BASA - 2010) Na modelagem de classes, a hierarquia entre elas é
 representada por
 meio de um relacionamento chamado generalização.
 
-Item. 61. (CESPE / TRE-BA - 2010) O estado de um objeto é definido pelo conjunto de
+61. (CESPE / TRE-BA - 2010) O estado de um objeto é definido pelo conjunto de
 valores de suas
 propriedades.
 
-Item. 62. (CESPE / Banco da Amazônia - 2010) O comportamento de um objeto é definido em
+62. (CESPE / Banco da Amazônia - 2010) O comportamento de um objeto é definido em
 sua
 respectiva classe, por meio da implementação de métodos que são executados
 quando tal
 objeto recebe uma mensagem.
 
-Item. 63. (CESPE / Banco da Amazônia - 2010) A abstração permite, entre outras
+63. (CESPE / Banco da Amazônia - 2010) A abstração permite, entre outras
 funcionalidades,
 identificar e compor objetos complexos e construir estruturas, na forma de classes de
 objetos,
@@ -7848,49 +7681,48 @@ para organizar objetos de diferentes tipos. Porém, conceitos implementados por 
 que são
 construídas com base na abstração não podem ser generalizados nem especializados.
 
-Item. 64. (CESPE/TRE-BA-2oIo) Em programação orientada a objetos, as propriedades que definem a
+64. (CESPE/TRE-BA-2oIo) Em programação orientada a objetos, as propriedades que definem a
 estrutura e o comportamento de um objeto são especificadas para a classe da qual o
 objeto é
 instância e são válidas para todos os objetos dessa classe.
 
-Item. 65. (CESPE / ANAC-2009) O uso de mais de uma super classe imediata é usualmente
+65. (CESPE / ANAC-2009) O uso de mais de uma super classe imediata é usualmente
 denominado
 herança múltipla; ter somente uma super classe direta é denominado herança simples.
 
-Item. 66. (CESPE / DETRAN-DF - 2009) Uma classe é uma descrição de um conjunto de
+66. (CESPE / DETRAN-DF - 2009) Uma classe é uma descrição de um conjunto de
 objetos que
 compartilham os mesmos atributos, operações, relacionamentos e semântica.
 
-Item. 67. (CESPE / TRT-BA - 2008) Os objetos permitem encapsular dados e funções, que
+67. (CESPE / TRT-BA - 2008) Os objetos permitem encapsular dados e funções, que
 modelam
 comportamentos e atributos, respectivamente.
 
-
-Item. 68. (CESPE / MPE-RR - 2008) Na orientação a objetos, um objeto tipicamente
+68. (CESPE / MPE-RR - 2008) Na orientação a objetos, um objeto tipicamente
 possui estado e
 operações definidas. O estado é representado por atributos, e as operações
 associadas ao
 objeto podem fornecer serviços a outros objetos. Os objetos são criados de acordo com classes.
 
-Item. 69. (CESPE / PETROBRÁS - 2007) Em um modelo de análise, as classes de fronteira
+69. (CESPE / PETROBRÁS - 2007) Em um modelo de análise, as classes de fronteira
 modelam
 interações entre o sistema e os atores. Cada classe de fronteira deve estar
 relacionada a um ou
 mais atores. Pode-se também ter classes de entidade, as quais tipicamente modelam dados
 persistentes.
 
-Item. 70. (CESPE / PETROBRÁS - 2007) Em um modelo de análise, as classes de controle podem
+70. (CESPE / PETROBRÁS - 2007) Em um modelo de análise, as classes de controle podem
 encapsular controles relacionados a casos de uso e representar lógicas de negócio que
 não se
 relacionem a uma classe de entidade específica.
 
-Item. 71. (CESPE / PETROBRÁS - 2007) Em um modelo de projeto, para que um subsistema seja
+71. (CESPE / PETROBRÁS - 2007) Em um modelo de projeto, para que um subsistema seja
 coeso,
 seus conteúdos devem ser fortemente relacionados e, para que ele seja fracamente
 acoplado, é
 necessário que se minimizem as dependências entre subsistemas.
 
-Item. 72. (CESPE / ANATEL - 2006) Uma classe na análise orientada a objeto representa uma
+72. (CESPE / ANATEL - 2006) Uma classe na análise orientada a objeto representa uma
 abstração
 que pode ser mapeada para mais de uma classe no projeto. As classes na análise podem
 ser
@@ -7900,7 +7732,7 @@ atores, uma entidade modela apenas objetos persistentes e uma controladora só p
 controlar
 interações entre instâncias de uma mesma classe.
 
-Item. 73. (CESPE / TSE - 2006) Um modelo de análise é menos abstrato que um de projeto e
+73. (CESPE / TSE - 2006) Um modelo de análise é menos abstrato que um de projeto e
 as classes
 em um modelo de análise não podem ser conceituais. As classes na análise podem modelar
 objetos persistentes, mas não transientes.
@@ -7911,30 +7743,29 @@ sistema, dividindo-o em subsistemas. Um subsistema expõe serviços via interfac
 devem
 ser especificadas na análise.
 
-Item. 75. (CESPE / TSE - 2006) Uma classe descreve objetos com as mesmas
+75. (CESPE / TSE - 2006) Uma classe descreve objetos com as mesmas
 responsabilidades,
 relacionamentos, operações, atributos e semântica. As instâncias de uma classe têm,
 portanto,
 os mesmos valores para os seus atributos.
 
-Item. 76. (CESPE / SERPRO - 2006) Uma das vantagens dos métodos de análise e projeto
+76. (CESPE / SERPRO - 2006) Uma das vantagens dos métodos de análise e projeto
 orientado a
 objetos é o aumento do gap conceituai entre os artefatos produzidos nas fases de
 análise,
 projeto e implementação.
 
-Item. 77. (CESPE / TRE-AL - 2004) Uma hierarquia de classes é um mecanismo por meio do
+77. (CESPE / TRE-AL - 2004) Uma hierarquia de classes é um mecanismo por meio do
 qual as
 modificações nos níveis inferiores da hierarquia se propagam de imediato para
 os níveis
 superiores.
 
-
-Item. 78. (CESPE / TRE-AL - 2004) O polimorfismo ocorre quando uma subclasse herda
+78. (CESPE / TRE-AL - 2004) O polimorfismo ocorre quando uma subclasse herda
 atributos e
 operações de classes diferentes.
 
-Item. 79. (CESPE / STJ - 2004) Com a análise orientada a objetos, busca-se identificar
+79. (CESPE / STJ - 2004) Com a análise orientada a objetos, busca-se identificar
 entidades do
 domínio do problema e caracterizá-las de acordo com sua importância para o problema.
 Essa
@@ -7942,103 +7773,101 @@ atividade tem consequências nas etapas de projeto de software, uma vez que as
 entidades
 identificadas darão sustentação para a definição das classes de objetos a serem implementadas.
 
-Item. 80. (CESPE / STJ - 2004) A definição da linguagem de programação a ser usada na
+80. (CESPE / STJ - 2004) A definição da linguagem de programação a ser usada na
 implementação
 tem igual importância e impacto no projeto e na análise orientados a objetos.
 
-
 GABARITo
 
-Item. 1. CORRETO 28. CORRETO
+1. CORRETO 28. CORRETO
 55- CORRETO
 
-Item. 2. CORRETO 29. ERRADO
-Item. 56. ERRADO
+2. CORRETO 29. ERRADO
+56. ERRADO
 
 3- ERRADO 30. CORRETO
 57- CORRETO
 
 4- ERRADO 31- LETRA D
-Item. 58. CORRETO
+58. CORRETO
 
 5- ERRADO 32. ERRADO
 59- ERRADO
 
-Item. 6. ERRADO 33- ERRADO
-Item. 60. CORRETO
+6. ERRADO 33- ERRADO
+60. CORRETO
 
 7- CORRETO 34- ERRADO
-Item. 61. CORRETO
+61. CORRETO
 
-Item. 8. ERRADO 35- CORRETO
-Item. 62. CORRETO
+8. ERRADO 35- CORRETO
+62. CORRETO
 
 9- ERRADO 36. CORRETO
-Item. 63. ERRADO
+63. ERRADO
 
-Item. 10. LETRA A 37- CORRETO
-Item. 64. CORRETO
+10. LETRA A 37- CORRETO
+64. CORRETO
 
 íi. CORRETO 38. ERRADO
 65- CORRETO
 
-Item. 12. ERRADO 39- CORRETO
-Item. 66. CORRETO
+12. ERRADO 39- CORRETO
+66. CORRETO
 
 13- CORRETO 40. CORRETO 67.
 ERRADO
 
 x4- CORRETO 41. CORRETO
-Item. 68. CORRETO
+68. CORRETO
 
 15- ERRADO 42. ERRADO
-Item. 69. CORRETO
+69. CORRETO
 
-Item. 16. ERRADO 43- CORRETO
-Item. 70. CORRETO
+16. ERRADO 43- CORRETO
+70. CORRETO
 
 17- CORRETO 44. CORRETO 71-
 CORRETO
 
 i8. ERRADO 45- CORRETO
-Item. 72. ERRADO
+72. ERRADO
 
 19- LETRA A 46. CORRETO
 73- ERRADO
 
-Item. 20. LETRA A 47- ERRADO
+20. LETRA A 47- ERRADO
 74- ERRADO
 
-Item. 21. LETRA A 48. CORRETO
+21. LETRA A 48. CORRETO
 75- ERRADO
 
-Item. 22. CORRETO 49- LETRA A
-Item. 76. ERRADO
+22. CORRETO 49- LETRA A
+76. ERRADO
 
 23- CORRETO 50. CORRETO 77-
 ERRADO
 
-Item. 24. ERRADO 51- ERRADO
-Item. 78. ERRADO
+24. ERRADO 51- ERRADO
+78. ERRADO
 
 25- ERRADO 52. ERRADO
 79- CORRETO
 
-Item. 26. ERRADO 53- CORRETO
-Item. 80. ERRADO
+26. ERRADO 53- CORRETO
+80. ERRADO
 
 27- CORRETO 54- CORRETO
-
 
 LISTA DE QUESTõES - FCC
 
 í. (FCC / METRÔ-SP - 2019) Considere as seguintes situações:
 
-Item. 1. Um grupo foi formado por um conjunto de pessoas que têm vida própria, independente
+1. Um grupo foi formado por um conjunto de pessoas que têm vida própria, independente
 desse
 grupo.
 
-Item. 2. Uma equipe de TI é formada por um conjunto de programadores com dependência de
+2. Uma equipe de TI é formada por um conjunto de programadores com dependência de
 vida
 dessa equipe.
 
@@ -8055,7 +7884,7 @@ d) associação todo-parte e composição.
 
 e) associação independente e composição.
 
-Item. 2. (FCC / TRF3 - 2019) O Polimorfismo, um dos Pilares da Programação Orientada a Objetos -
+2. (FCC / TRF3 - 2019) O Polimorfismo, um dos Pilares da Programação Orientada a Objetos -
 
 POO,
 
@@ -8080,7 +7909,7 @@ e) permite utilizar atributos e operações diferentes de uma subclasse,
 acrescentando ou
 substituindo características herdadas da classe pai.
 
-Item. 3. (FCC /SANASA Campinas -2019) Considere que um Analista de TI sabe que uma classe
+3. (FCC /SANASA Campinas -2019) Considere que um Analista de TI sabe que uma classe
 Pessoa
 Física e uma classe Pessoa Jurídica possuem o atributo nome como uma informação em
 comum
@@ -8104,7 +7933,7 @@ d) Classe sobrescrita.
 
 e) Pacote.
 
-Item. 4. (FCC / SANASA Campinas - 2019) Considere:
+4. (FCC / SANASA Campinas - 2019) Considere:
 
 Os hidrômetros, relógios registradores de consumo de água, têm determinadas
 características. Em
@@ -8129,7 +7958,7 @@ d) agregação e polimorfismo.
 
 e) visibilidade e composição.
 
-Item. 5. (FCC / TRT-SC - 2013) Na programação orientada a objetos, as classes podem conter, dentre
+5. (FCC / TRT-SC - 2013) Na programação orientada a objetos, as classes podem conter, dentre
 outros elementos, métodos e atributos. Os métodos:
 
 a) devem receber apenas parâmetros do mesmo tipo.
@@ -8142,7 +7971,7 @@ d) podem ser sobrescritos em aplicações que possuem relação de herança.
 
 e) definidos como private só podem ser acessados de classes do mesmo pacote.
 
-Item. 6. (FCC / TRT-SC - 2013) Na programação orientada a objetos, as classes podem conter, dentre
+6. (FCC / TRT-SC - 2013) Na programação orientada a objetos, as classes podem conter, dentre
 outros elementos, métodos e atributos. Os métodos:
 
 a) devem receber apenas parâmetros do mesmo tipo.
@@ -8151,12 +7980,11 @@ b) não podem ser sobrecarregados em uma mesma classe.
 
 c) precisam possuir corpo em interfaces e classes abstratas.
 
-
 d) podem ser sobrescritos em aplicações que possuem relação de herança.
 
 e) definidos como private só podem ser acessados de classes do mesmo pacote.
 
-Item. 7. (FCC / AL-RN - 2013) Um dos conceitos básicos de orientação a objetos é o fato
+7. (FCC / AL-RN - 2013) Um dos conceitos básicos de orientação a objetos é o fato
 de um objeto,
 ao tentar acessar as propriedades de outro objeto, deve sempre fazê-lo por uso de
 métodos do
@@ -8174,7 +8002,7 @@ d) mensagem.
 
 e) encapsulamento.
 
-Item. 8. (FCC / TRE-SP - 2012) Nos conceitos de orientação a objetos, ..I... é uma
+8. (FCC / TRE-SP - 2012) Nos conceitos de orientação a objetos, ..I... é uma
 estrutura composta
 por ...II... que descrevem suas propriedades e também por ...III
 que moldam seu
@@ -8191,7 +8019,7 @@ d) multiplicidade, símbolos, números, Classes, herdeiros.
 
 e) domínio, diagramas, casos de caso, Diagramas de classe, exemplos.
 
-Item. 9. (FCC / TJ-RJ - 2012) No contexto de programação orientada a objetos, considere
+9. (FCC / TJ-RJ - 2012) No contexto de programação orientada a objetos, considere
 as afirmativas
 abaixo.
 
@@ -8219,8 +8047,7 @@ d) II, III eV.
 
 e) II, IV eV.
 
-
-Item. 10. (FCC / TRF2 - 2012) Sobre orientação a objetos é correto afirmar:
+10. (FCC / TRF2 - 2012) Sobre orientação a objetos é correto afirmar:
 
 a) Na hierarquia de classes, se superclasse é uma generalização de subclasses, pode-se
 inferir
@@ -8238,7 +8065,7 @@ responderem ou agirem de forma idêntica.
 
 e) Os objetos de uma classe são idênticos no que se refere à sua interface e ao seu estado.
 
-Item. 11. (FCC /TRE-CE -2012) Orientação a Objetos é um paradigma de análise, projeto e programação
+11. (FCC /TRE-CE -2012) Orientação a Objetos é um paradigma de análise, projeto e programação
 de sistemas de software. A respeito desse paradigma, assinale a afirmativa incorreta.
 
 a) Um objeto pode ser considerado um conjunto de dados.
@@ -8253,7 +8080,7 @@ e) A orientação a objetos implementa o conceito de abstração, classe, objeto
 encapsulamento,
 herança e polimorfismo.
 
-Item. 12. (FCC / TJ-PE - 2012) Sobre orientação a objetos, considere:
+12. (FCC / TJ-PE - 2012) Sobre orientação a objetos, considere:
 
 I. A relação de herança permite modelar as similaridades inerentes a uma classe e
 também as
@@ -8279,8 +8106,7 @@ d) III, apenas.
 
 e) II, apenas.
 
-
-Item. 13. (FCC / TRE-CE - 2012) Sobre orientação a objetos, é INCORRETO afirmar:
+13. (FCC / TRE-CE - 2012) Sobre orientação a objetos, é INCORRETO afirmar:
 
 a) os conceitos de generalização e especialização da orientação a objetos estão
 diretamente
@@ -8300,7 +8126,7 @@ e) uma classe define o comportamento dos objetos através de seus métodos, e qu
 estados
 ele é capaz de manter através de seus atributos.
 
-Item. 14. (FCC /TCE-AM -2012) Sobre a orientação a objeto é correto afirmar:
+14. (FCC /TCE-AM -2012) Sobre a orientação a objeto é correto afirmar:
 
 a) Herança permite o reaproveitamento de atributos e métodos, porém, isso não altera o
 tempo
@@ -8339,7 +8165,6 @@ métodos são sobrescritos na classe Aluno e Professor com implementações bast
 distintas,
 em função dos dados associados a cada um deles. O exemplo ilustra o conceito de:
 
-
 a) hereditariedade.
 
 b) polimorfismo.
@@ -8350,7 +8175,7 @@ d) abstração.
 
 e) reusabilidade.
 
-Item. 16. (FCC /TRT-AM -2012) Sobre Programação Orientada a Objetos, analise:
+16. (FCC /TRT-AM -2012) Sobre Programação Orientada a Objetos, analise:
 
 I. A encapsulação garante que apenas as interfaces necessárias para interação com o
 objeto
@@ -8374,7 +8199,7 @@ c) I, apenas.
 
 d) II e III, apenas.
 
-Item. 17. (FCC / TST - 2012) Na orientação a objetos:
+17. (FCC / TST - 2012) Na orientação a objetos:
 
 a) a herança permite que os membros de uma classe, chamada de classe-pai,
 possam ser
@@ -8404,7 +8229,6 @@ abstratos. O
 polimorfismo obriga que as classes-filhas implementem os métodos e atributos
 desta classe-
 pai. O acesso aos atributos da classe-pai independe do modificador utilizado.
-
 
 d) o conceito de herança estabelece que uma classe possa aproveitar a
 implementação,
@@ -8471,7 +8295,6 @@ e) A principal regra prática do encapsulamento é marcar as variáveis de inst�
 públicas
 e fornecer métodos de captura e configuração privados.
 
-
 2o.(FCC / INFRAERO -2011) Sobre a programação orientada a objetos, analise:
 
 I. Neste tipo de programação, objetos executam ações, mas não suportam
@@ -8498,7 +8321,7 @@ d) I, II e III, apenas.
 
 e) I, II, III e IV.
 
-Item. 21. (FCC / TRT-RS - 2011) O aumento da produtividade de desenvolvimento e a
+21. (FCC / TRT-RS - 2011) O aumento da produtividade de desenvolvimento e a
 capacidade de
 compartilhar o conhecimento adquirido, representa uma vantagem no uso de
 projetos
@@ -8514,7 +8337,7 @@ d) todo método pode ser derivado naturalmente das operações de sua classe.
 
 e) o encapsulamento impossibilita equívocos de código.
 
-Item. 22. (FCC / TRT14 - 2011) Considere:
+22. (FCC / TRT14 - 2011) Considere:
 
 I. Uma classe define o comportamento dos objetos através de seus métodos, e quais
 estados ele
@@ -8536,7 +8359,6 @@ enviadas a ele, assim como se relacionar e enviar mensagens a outros objetos.
 
 Na orientação a objetos é correto o que se afirma em:
 
-
 a) I, II e III, apenas.
 
 b) I, II e IV, apenas.
@@ -8547,7 +8369,7 @@ d) II, III e IV, apenas.
 
 e) 1,11, III e IV.
 
-Item. 23. (FCC /TRT-MT -2011) Sobre os conceitos de orientação a objetos, considere:
+23. (FCC /TRT-MT -2011) Sobre os conceitos de orientação a objetos, considere:
 
 I. Classe encapsula dados para descrever o conteúdo de alguma entidade do mundo real.
 
@@ -8571,7 +8393,7 @@ d) I e II, apenas.
 
 e) II e IV, apenas.
 
-Item. 24. (FCC / CAIXA - 2011) Na orientação a objetos, é um recurso que serve para inicializar os
+24. (FCC / CAIXA - 2011) Na orientação a objetos, é um recurso que serve para inicializar os
 atributos e é executado automaticamente sempre que um novo objeto é criado:
 
 a) método.
@@ -8584,7 +8406,7 @@ d) classe.
 
 e) construtor.
 
-Item. 25. (FCC / TRE-RN - 2011) Método especial destinado ao preparo de novos objetos
+25. (FCC / TRE-RN - 2011) Método especial destinado ao preparo de novos objetos
 durante sua
 instanciação. Pode ser acionado por meio do operador new, recebendo parâmetros
 como
@@ -8604,7 +8426,6 @@ e) herança múltipla.
 subrotinas) são
 encapsuladas nos próprios objetos e passam a designar-se:
 
-
 a) atributo.
 
 b) herança.
@@ -8615,11 +8436,11 @@ d) método.
 
 e) encapsulamento.
 
-Item. 27. (FCC / CAIXA-2011) Objetos se comunicam por passagem de mensagem, eliminando áreas
+27. (FCC / CAIXA-2011) Objetos se comunicam por passagem de mensagem, eliminando áreas
 de
 dados compartilhados.
 
-Item. 28. (FCC / TCE-PR - 2011) Em relação à Programação Orientada a Objetos, é INCORRETO afirmar:
+28. (FCC / TCE-PR - 2011) Em relação à Programação Orientada a Objetos, é INCORRETO afirmar:
 
 a) Polimorfismo pode ser entendido como um conceito complementarão de herança. Assim, no
 polimorfismo é possível enviar a mesma mensagem a diferentes objetos e cada
@@ -8662,11 +8483,10 @@ d) privado, pacote, público e protegido.
 
 e) pacote, protegido, privado e público.
 
-Item. 30. (FCC / TRT-MS - 2011) Propriedade pela qual duas ou mais classes derivadas de
+30. (FCC / TRT-MS - 2011) Propriedade pela qual duas ou mais classes derivadas de
 uma mesma
 superclasse podem invocar métodos que têm a mesma assinatura mas comportamentos
 distintos. Trata-se de:
-
 
 a) polimorfismo.
 
@@ -8678,7 +8498,7 @@ d) multiplicidade.
 
 e) visibilidade.
 
-Item. 31. (FCC /TRT14-2011) A classe Veiculo contém alguns atributos de interesse da classe
+31. (FCC /TRT14-2011) A classe Veiculo contém alguns atributos de interesse da classe
 Aeronave.
 Todavia, as aeronaves também demonstram interesse em captar atributos e também operações
 da classe Elemento Turbinado. O enunciado enfatiza o conceito 00 de:
@@ -8693,7 +8513,7 @@ d) realização.
 
 e) encapsulamento.
 
-Item. 32. (FCC / TRT-RS - 2011) Na taxonomia utilizada para as formas de
+32. (FCC / TRT-RS - 2011) Na taxonomia utilizada para as formas de
 polimorfismo são,
 respectivamente, dois tipos categorizados como universal e dois como Ad Hoc:
 
@@ -8707,7 +8527,7 @@ d) Sobrecarga e Inclusão; Paramétrico e Coerção.
 
 e) Sobrecarga e Coerção; Paramétrico e Inclusão.
 
-Item. 33. (FCC / TRE-CE - 2011) Sobre conceitos em programação orientada a objetos (OOP), analise:
+33. (FCC / TRE-CE - 2011) Sobre conceitos em programação orientada a objetos (OOP), analise:
 
 I. No polimorfismo ad-hoc, métodos com o mesmo nome e pertencentes à mesma
 classe,
@@ -8732,7 +8552,6 @@ c) III, apenas.
 d) II e III, apenas.
 
 e) I e II, apenas.
-
 
 34-(FCC / DPE-SP-2010) Classes e objetos são dois conceitos-chave da programação
 orientada a
@@ -8761,7 +8580,7 @@ invocado através de um método.
 e) herança é o mecanismo pelo qual um objeto pode estender outro objeto, aproveitando seus
 comportamentos e variáveis possíveis.
 
-Item. 35. (FCC / TCE-SP - 2010) A descrição de um conjunto de entidades (reais ou
+35. (FCC / TCE-SP - 2010) A descrição de um conjunto de entidades (reais ou
 abstratas) de um
 mesmo tipo e com as mesmas características e comportamentos. Trata-se da definição de:
 
@@ -8775,8 +8594,8 @@ d) Classe.
 
 e) Objeto.
 
-Item. 36. (FCC / DPE-SP - 2010) A cidade de São Paulo, que possuía uma população de
-Item. 10.000.000 de
+36. (FCC / DPE-SP - 2010) A cidade de São Paulo, que possuía uma população de
+10.000.000 de
 habitantes, teve um aumento de mais 2.000.000 de novos habitantes. Na associação da
 frase
 acima aos conceitos da modelagem orientada a objeto, é correto afirmar que
@@ -8793,8 +8612,7 @@ d) objeto, instância, operação.
 
 e) classe, objeto, associação pelo método de agregação.
 
-Item. 37. (FCC /TRE-RS - 2010) Um objeto é, na orientação a objetos,
-
+37. (FCC /TRE-RS - 2010) Um objeto é, na orientação a objetos,
 
 a) uma rotina de programação contida em uma classe que pode ser chamada diversas
 vezes
@@ -8814,7 +8632,7 @@ e) uma porção de código que resolve um problema muito específico, parte de u
 problema
 maior.
 
-Item. 38. (FCC /TRT-PI -2010) Em relação à orientação a objetos, considere as assertivas abaixo.
+38. (FCC /TRT-PI -2010) Em relação à orientação a objetos, considere as assertivas abaixo.
 
 I. Um objeto pode ser real ou abstrato. Sendo uma instância de uma classe, possui
 informações
@@ -8847,7 +8665,7 @@ d) II, III e IV, apenas.
 
 e) I, II, III e IV.
 
-Item. 39. (FCC / SEFAZ-SP - 2010) Os valores das propriedades de um objeto em um determinado
+39. (FCC / SEFAZ-SP - 2010) Os valores das propriedades de um objeto em um determinado
 instante, que podem mudar ao longo do tempo, representam:
 
 a) a instância de uma classe.
@@ -8855,7 +8673,6 @@ a) a instância de uma classe.
 b) a identidade de um objeto.
 
 c) o estado de um objeto.
-
 
 d) o comportamento de um objeto.
 
@@ -8905,7 +8722,7 @@ d) o polimorfismo.
 
 e) o estereótipo.
 
-Item. 43. (FCC/Sergipe Gás SA-2010) "É o mecanismo pelo qual uma classe pode estenderoutra
+43. (FCC/Sergipe Gás SA-2010) "É o mecanismo pelo qual uma classe pode estenderoutra
 classe,
 aproveitando seus comportamentos e variáveis possíveis." Na programação orientada a
 objetos
@@ -8925,7 +8742,6 @@ e) encapsulamento, polimorfismo e interface.
 
 a) As classes, os métodos e as mensagens.
 
-
 b) A identidade, os atributos e as operações.
 
 c) O encapsulamento, a herança e o polimorfismo.
@@ -8934,7 +8750,7 @@ d) A instanciação, a generalização e a especialização.
 
 e) A classificação, a composição e a decomposição.
 
-Item. 45. (FCC/SEFAZ-SP-2oog) Uma classe é uma abstração que ajuda a lidar com a
+45. (FCC/SEFAZ-SP-2oog) Uma classe é uma abstração que ajuda a lidar com a
 complexidade e
 um bom exemplo de abstração é:
 
@@ -8948,7 +8764,7 @@ d) uma pessoa e o número do seu CPF na Receita Federal.
 
 e) uma casa e a empresa que a projetou e construiu.
 
-Item. 46. (FCC / SEFAZ-SP - 2009) Na orientação a objetos, ao nível de classe, são definidos os:
+46. (FCC / SEFAZ-SP - 2009) Na orientação a objetos, ao nível de classe, são definidos os:
 
 a) atributos e os valores dos atributos.
 
@@ -8960,7 +8776,7 @@ d) métodos e os valores dos atributos.
 
 e) métodos e a invocação das operações.
 
-Item. 47. (FCC/SEFAZ-SP-2009) O método utilizado para inicializar objetos de uma classe quando
+47. (FCC/SEFAZ-SP-2009) O método utilizado para inicializar objetos de uma classe quando
 estes
 são criados é denominado:
 
@@ -8974,7 +8790,7 @@ d) composição.
 
 e) construtor.
 
-Item. 48. (FCC/TJ-PI-2oog) Na programação orientada a objetos, é o princípio que oferece a
+48. (FCC/TJ-PI-2oog) Na programação orientada a objetos, é o princípio que oferece a
 capacidade
 de um método poder ser implementado de diferentes formas, ou mesmo de
 realizar coisas
@@ -8992,8 +8808,7 @@ d) uma chamada a um objeto para invocar uma classe.
 
 e) um objeto capaz de armazenar estados através de seus atributos.
 
-Item. 49. (FCC / PGE-RJ - 2009) Sobre orientação a objetos, considere:
-
+49. (FCC / PGE-RJ - 2009) Sobre orientação a objetos, considere:
 
 I. Os valores dos atributos são definidos no nível de classe.
 
@@ -9013,7 +8828,7 @@ d) I e II, apenas.
 
 e) I e III, apenas.
 
-Item. 50. (FCC / TJ-PA - 2009) A especificação de uma comunicação entre objetos,
+50. (FCC / TJ-PA - 2009) A especificação de uma comunicação entre objetos,
 que contém
 informações relacionadas ao que se espera resultar dessa atividade, é:
 
@@ -9027,13 +8842,13 @@ d) um processo oculto.
 
 e) um diálogo.
 
-Item. 51. (FCC / TRE-PI - 2009) A afirmação de que o estado de um objeto não deve ser
+51. (FCC / TRE-PI - 2009) A afirmação de que o estado de um objeto não deve ser
 acessado
 diretamente, mas sim por meio de métodos de acesso, está associada ao
 conceito de
 encapsulamento.
 
-Item. 52. (FCC / SEFAZ-SP - 2009) Sobre a visibilidade dos métodos na orientação a objetos considere:
+52. (FCC / SEFAZ-SP - 2009) Sobre a visibilidade dos métodos na orientação a objetos considere:
 
 I. Os métodos públicos de uma classe definem a interface da classe.
 
@@ -9053,7 +8868,7 @@ d) II.
 
 e) l.
 
-Item. 53. (FCC / MPE-SE - 2009) "A utilização de um sistema orientado a objetos não deve
+53. (FCC / MPE-SE - 2009) "A utilização de um sistema orientado a objetos não deve
 depender de
 sua implementação interna, mas de sua interface." Esta afirmação remete ao conceito de:
 
@@ -9061,14 +8876,13 @@ a) herança múltipla.
 
 b) herança polimórfica.
 
-
 c) prototipação.
 
 d) encapsulamento.
 
 e) especialização.
 
-Item. 54. (FCC / TRT-CE - 2009) Considere: A classe Pedido contém um método
+54. (FCC / TRT-CE - 2009) Considere: A classe Pedido contém um método
 chamado obter
 Produtos() que retorna uma lista de produtos pertencentes a um determinado pedido. O
 código
@@ -9088,7 +8902,7 @@ d) herança múltipla.
 
 e) estereotipagem.
 
-Item. 55. (FCC / MPE-SE - 2009) "...distintas implementações de uma operação de classe e que, no entanto,
+55. (FCC / MPE-SE - 2009) "...distintas implementações de uma operação de classe e que, no entanto,
 o nome e os parâmetros dessa operação sejam os mesmos". Trata-se de:
 
 a) objeto persistente.
@@ -9101,7 +8915,7 @@ d) subclasse.
 
 e) pseudo-estado.
 
-Item. 56. (FCC / TJ-PI - 2009) Na programação orientada a objetos, é o
+56. (FCC / TJ-PI - 2009) Na programação orientada a objetos, é o
 princípio que oferece a
 capacidade de um método poderser implementado de diferentes formas, ou mesmo de realizar
 coisas diferentes, ou seja, um único serviço pode oferecer variações, conforme se
@@ -9118,7 +8932,7 @@ d) Herança.
 
 e) Encapsulamento.
 
-Item. 57. (FCC/TRT-MA-2009) Um analista desenvolveu métodos de impressão de dados com a
+57. (FCC/TRT-MA-2009) Um analista desenvolveu métodos de impressão de dados com a
 mesma
 assinatura para três classes de impressoras (jato de tinta, laser e matricial)
 derivadas de uma
@@ -9132,10 +8946,9 @@ c) constitui-se em ferimento à regra de herança.
 
 d) visa ao aumento da coesão entre os atributos da superclasse.
 
-
 e) não é recomendada na orientação a objetos.
 
-Item. 58. (FCC / PGE-RJ - 2009) Um comando "abrir" ao provocar diferentes ações em objetos
+58. (FCC / PGE-RJ - 2009) Um comando "abrir" ao provocar diferentes ações em objetos
 distintos,
 por exemplo: em uma caixa, porta ou janela, representa figurativamente na orientação a
 objetos
@@ -9151,7 +8964,7 @@ d) agregação.
 
 e) herança.
 
-Item. 59. (FCC / SEFAZ-SP - 2009) Compartilhamento de atributos e operações genéricas entre
+59. (FCC / SEFAZ-SP - 2009) Compartilhamento de atributos e operações genéricas entre
 diversas
 classes descendentes de uma classe ancestral remete ao conceito de:
 
@@ -9165,7 +8978,7 @@ d) agregação.
 
 e) multiplicidade.
 
-Item. 60. (FCC / PGE-RJ - 2009) O conceito de Herança, na orientação a objetos, está
+60. (FCC / PGE-RJ - 2009) O conceito de Herança, na orientação a objetos, está
 especificamente
 associado ao significado de:
 
@@ -9200,7 +9013,6 @@ b) generalização e composição.
 
 c) generalização e especialização.
 
-
 d) composição e dependência.
 
 e) especialização e agregação.
@@ -9231,73 +9043,71 @@ d) agregação.
 
 e) especialização.
 
-
 GABARITo
 
-Item. 1. LETRA D 23- LETRA E
+1. LETRA D 23- LETRA E
 45- LETRA D
 
-Item. 2. LETRA C 24. LETRA E
-Item. 46. LETRA C
+2. LETRA C 24. LETRA E
+46. LETRA C
 
 3- LETRAC 25- LETRA B
 47- LETRA E
 
 4- LETRA B 26. LETRA D
-Item. 48. LETRA C
+48. LETRA C
 
 5- LETRA D 27- CORRETO
 49- LETRA C
 
-Item. 6. LETRA D 28. ANULADA
-Item. 50. LETRA B
+6. LETRA D 28. ANULADA
+50. LETRA B
 
 7- LETRA E 29. LETRA B
 5i- CORRETO
 
-Item. 8. LETRA C 30. LETRA A
-Item. 52. LETRA A
+8. LETRA C 30. LETRA A
+52. LETRA A
 
 9- LETRA B 3i- LETRA B
 53- LETRA D
 
-Item. 10. LETRA A 32. LETRA A
+10. LETRA A 32. LETRA A
 54- LETRA B
 
 li. LETRA C 33- LETRA B
 55- LETRA C
 
-Item. 12. ERRADO 34- LETRA A
-Item. 56. LETRA A
+12. ERRADO 34- LETRA A
+56. LETRA A
 
 13- LETRA D 35- LETRA D
 57- LETRA B
 
 14- LETRAC 36. LETRA B
-Item. 58. LETRA B
+58. LETRA B
 
 x5- LETRA B 37- LETRA C
 59- LETRA C
 
 i6. LETRA C 38. LETRA E
-Item. 60. LETRA B
+60. LETRA B
 
 17- LETRA A 39- LETRA C
-Item. 61. LETRA E
+61. LETRA E
 
 i8. LETRA A 40. LETRAC
-Item. 62. LETRA A
+62. LETRA A
 
-Item. 19. LETRA C 41. LETRA C
-Item. 63. LETRA E
+19. LETRA C 41. LETRA C
+63. LETRA E
 
-Item. 20. LETRA C 42. LETRA D
-Item. 64. LETRA B
+20. LETRA C 42. LETRA D
+64. LETRA B
 
-Item. 21. LETRA B 43- LETRA A
+21. LETRA B 43- LETRA A
 
-Item. 22. CORRETO 44- LETRA B
-
+22. CORRETO 44- LETRA B
 
 LISTA DE QUESTõES - FCV
 
@@ -9320,7 +9130,7 @@ d) usabilidade;
 
 e) desenvolvimento.
 
-Item. 2. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
+2. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
 solicitou à
 equipe de desenvolvimento uma funcionalidade capaz de emitir relatórios com
 cabeçalhos
@@ -9342,7 +9152,7 @@ d) não funcional de usabilidade;
 
 e) funcional de desenvolvimento.
 
-Item. 3. (FGV / TCE-TO - 2022) A Equipe de Desenvolvimento de Soluções (EDS) recebeu a
+3. (FGV / TCE-TO - 2022) A Equipe de Desenvolvimento de Soluções (EDS) recebeu a
 solicitação
 de que um dos campos utilizados para entrada de dados da aplicação Web em construção
 apresente sugestões de palavras dinamicamente, conforme o usuário for digitando
@@ -9359,12 +9169,11 @@ d) usabilidade;
 
 e) desenvolvimento.
 
-Item. 4. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
+4. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
 solicitou à
 equipe de desenvolvimento uma funcionalidade capaz de emitir relatórios com
 cabeçalhos
 padronizados. Assim, os cabeçalhos devem ter cor de fundo, paleta de cores e tipografia,
-
 
 seguindo o padrão adotado em outros documentos emitidos pelo departamento
 responsável
@@ -9382,7 +9191,7 @@ d) não funcional de usabiIidade;
 
 e) funcional de desenvolvimento.
 
-Item. 5. (FGV/TCE-TO-2022) As credenciais de acesso dos usuários de um aplicativo são
+5. (FGV/TCE-TO-2022) As credenciais de acesso dos usuários de um aplicativo são
 armazenadas
 em um banco de dados e são utilizadas unicamente para acesso às funcionalidades do
 aplicativo.
@@ -9408,7 +9217,7 @@ e) usar uma chave randômica gerada pelo aplicativo para cifrar as senhas por me
 um
 algoritmo de chave simétrica.
 
-Item. 6. (FGV / TCE-TO - 2022) A Equipe de Tecnologia (ETi) de um tribunal de contas
+6. (FGV / TCE-TO - 2022) A Equipe de Tecnologia (ETi) de um tribunal de contas
 está levantando
 as necessidades para um novo sistema junto às partes interessadas. Uma das
 partes
@@ -9428,7 +9237,7 @@ d) taxa de ocorrência de falhas;
 
 e) tempo de atualização de tela.
 
-Item. 7. (FGV / ALERJ - 2017) O Analista de Sistemas Pedro está realizando um
+7. (FGV / ALERJ - 2017) O Analista de Sistemas Pedro está realizando um
 levantamento de
 requisitos por meio da prototipação. Sua intenção com esse protótipo é proporcionar uma
 visão
@@ -9447,7 +9256,7 @@ d) textual;
 
 e) horizontal.
 
-Item. 8. (FGV / BADESC - 2010) Analise o fragmento a seguir:
+8. (FGV / BADESC - 2010) Analise o fragmento a seguir:
 
 "A base de dados deve ser protegida para acesso apenas de usuários autorizados".
 O fragmento acima apresenta um exemplo do seguinte requisito:
@@ -9462,7 +9271,7 @@ d) de domínio.
 
 e) não-funcional.
 
-Item. 9. (FGV / FIOCRUZ - 2010) Sobre os processos de engenharia de requisitos, na elicitação e na
+9. (FGV / FIOCRUZ - 2010) Sobre os processos de engenharia de requisitos, na elicitação e na
 análise ocorre total interação com os stakeholders no sistema, sendo o principal objetivo:
 
 a) a obtenção dos requisitos.
@@ -9475,7 +9284,7 @@ d) a conversão de especificações em requisitos.
 
 e) a execução do estudo de viabilidade do sistema.
 
-Item. 10. (FGV/ MEC-2009) Requisitos não-funcionais estão diretamente relacionados com a satisfação
+10. (FGV/ MEC-2009) Requisitos não-funcionais estão diretamente relacionados com a satisfação
 dos usuários. Assinale a alternativa que não indique um requisito não-funcional:
 
 a) O sistema de arquivos deve ser protegido, para acesso, apenas, de usuários autorizados.
@@ -9488,13 +9297,12 @@ d) O software poderá ser executado em plataforma windows e linux.
 
 e) O software deve emitir relatórios de vendas a cada quinze dias.
 
-Item. 11. (FGV / MEC - 2009) As declarações de serviços que o sistema deve fornecer, de
+11. (FGV / MEC - 2009) As declarações de serviços que o sistema deve fornecer, de
 como ele deve
 reagir a entradas específicas ou se comportar em determinadas situações, são chamadas de
 requisitos:
 
 a) não-funcionais.
-
 
 b) de domínio.
 
@@ -9504,7 +9312,7 @@ d) funcionais.
 
 e) de usuário.
 
-Item. 12. (FGV / MEC-2009) Existem técnicas que são usadas na fase de levantamento de
+12. (FGV / MEC-2009) Existem técnicas que são usadas na fase de levantamento de
 requisitos para
 coletar conhecimento dos usuários sobre os requisitos. Assinale a alternativa que
 indique apenas
@@ -9520,7 +9328,7 @@ d) leitura de documentos, protótipos, workshop, WBS e workflow.
 
 e) brainstorming, protótipos, workflow, leitura de documentos e intercepting.
 
-Item. 13. FGV / Senado Federal - 2008) Entre as atividades listadas a seguir, uma não faz
+13. FGV / Senado Federal - 2008) Entre as atividades listadas a seguir, uma não faz
 parte da
 Engenharia de Requisitos. Assinale-a.
 
@@ -9534,14 +9342,13 @@ d) verificação.
 
 e) gerenciamento.
 
-
 GABARITo
 
-Item. 1. LETRA D 6. LETRA C
-Item. 11. LETRA D
+1. LETRA D 6. LETRA C
+11. LETRA D
 
-Item. 2. LETRA B 7- LETRA E
-Item. 12. LETRAC
+2. LETRA B 7- LETRA E
+12. LETRAC
 
 3- LETRA D 8. LETRA E
 13- LETRA B
@@ -9549,7 +9356,6 @@ Item. 12. LETRAC
 4- LETRA B 9- LETRA A
 
 5- LETRA C 10. LETRA E
-
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
@@ -9584,7 +9390,7 @@ d) acoplamento e polimorfismo.
 
 e) encapsulamento e polimorfismo.
 
-Item. 2. (IBFC /TRE-PA-2020) Assinale a alternativa que identifica incorretamente um conceito
+2. (IBFC /TRE-PA-2020) Assinale a alternativa que identifica incorretamente um conceito
 básico
 das linguagens orientadas a objetos.
 
@@ -9593,7 +9399,7 @@ b) herança
 c) encapsulamento
 d) subprogramação
 
-Item. 3. (IBFC / Prefeitura de Cruzeiro do Sul - AC - 2019) Um dos conceitos do
+3. (IBFC / Prefeitura de Cruzeiro do Sul - AC - 2019) Um dos conceitos do
 paradigma orientado a
 objetos consiste na alteração do funcionamento interno de um método herdado de um
 objeto
@@ -9603,7 +9409,6 @@ a) Polimorfismo
 b) Pai e filho
 c) Encapsulamento
 d) Abstração
-
 
 4- (CONSULPLAN/ Prefeitura de Suzano - SP - 2019) Na orientação a objetos, todo
 objeto está
@@ -9625,7 +9430,7 @@ d) Superclasses e classes relacionadas, com interfaces idênticas; porém, com
 implementações
 diferentes.
 
-Item. 5. (AOCP / IBGE - 2019) As classes, bem como os seus objetos, contêm atributos e
+5. (AOCP / IBGE - 2019) As classes, bem como os seus objetos, contêm atributos e
 métodos que
 estão intimamente relacionados. Os objetos podem se comunicar entre si, mas eles, em
 geral,
@@ -9647,7 +9452,7 @@ d) Polimorfismo.
 
 e) Encapsulamento.
 
-Item. 6. (QUADRIX / Prefeitura de Jataí - GO - 2019) Na análise orientada a objetos, o
+6. (QUADRIX / Prefeitura de Jataí - GO - 2019) Na análise orientada a objetos, o
 diagrama que
 descreve os tipos de objetos e seus relacionamentos, descreve a estrutura
 estática de um
@@ -9665,7 +9470,7 @@ d) estados.
 
 e) atividades.
 
-Item. 7. (QUADRIX / Prefeitura de Jataí - GO - 2019) No que se refere aos conceitos de
+7. (QUADRIX / Prefeitura de Jataí - GO - 2019) No que se refere aos conceitos de
 herança
 múltipla, julgue os itens subsequentes.
 
@@ -9676,7 +9481,6 @@ soluções para resolver problemas difíceis.
 II. Ocorre herança múltipla quando uma classe herda de mais de uma classe, ou seja,
 existem
 múltiplas classes-base (pais) para a classe derivada (filha).
-
 
 III. Na herança múltipla, uma classe herda apenas a estrutura, e não o comportamento de mais
 de uma classe-base.
@@ -9691,11 +9495,11 @@ d) Apenas os itens I e III estão certos.
 
 e) Apenas os itens II e III estão certos.
 
-Item. 8. (QUADRIX/ CRO-GO-2019) Alguns conceitos como herança, polimorfismo e
+8. (QUADRIX/ CRO-GO-2019) Alguns conceitos como herança, polimorfismo e
 encapsulamento
 são abordados no desenvolvimento de sistemas orientados a objetos.
 
-Item. 9. (COVEST-COPSET/ UFPE- 2019) No contexto dos principais elementos
+9. (COVEST-COPSET/ UFPE- 2019) No contexto dos principais elementos
 conceituais do
 modelo de objetos, assinale a alternativa que define corretamente o
 conceito de
@@ -9723,7 +9527,7 @@ e) Denota as maneiras pelas quais um objeto pode agir e reagir, constituindo tod
 visão
 externa estática e dinâmica da abstração.
 
-Item. 10. (CESGRANRIO / UNIRIO - 2019) Em orientação a objetos, uma classe abstrata é uma
+10. (CESGRANRIO / UNIRIO - 2019) Em orientação a objetos, uma classe abstrata é uma
 classe
 que:
 
@@ -9737,8 +9541,7 @@ d) não possui variáveis de instância.
 
 e) não pode ter subclasses.
 
-Item. 11. (IF-PE / IF-PE - 2019) Sobre o uso de interfaces em orientação a objetos, podemos afirmar que:
-
+11. (IF-PE / IF-PE - 2019) Sobre o uso de interfaces em orientação a objetos, podemos afirmar que:
 
 I. evita que alterações de código em determinados componentes do sistema sejam
 refletidas
@@ -9762,7 +9565,7 @@ d) I e III.
 
 e) II.
 
-Item. 12. (IF-PE / IF-PE - 2019) Estrutura que contém a representação de dados e rotinas
+12. (IF-PE / IF-PE - 2019) Estrutura que contém a representação de dados e rotinas
 que processam
 esses dados, assim como representa um conjunto de objetos similares. A definição
 apresentada
@@ -9778,7 +9581,7 @@ d) Método.
 
 e) Construtor.
 
-Item. 13. (IF-PE / IF-PE - 2019) Marque a alternativa que representa a definição
+13. (IF-PE / IF-PE - 2019) Marque a alternativa que representa a definição
 de herança, em
 orientação a objetos.
 
@@ -9798,7 +9601,7 @@ e) Representação das características essenciais de um objeto e que o diferenc
 outros
 objetos do sistema.
 
-Item. 14. (VUNESP/Câmara de Piracicaba - SP-2019) Considerando a orientação a objetos,
+14. (VUNESP/Câmara de Piracicaba - SP-2019) Considerando a orientação a objetos,
 assinale a
 alternativa que define corretamente o que é polimorfismo.
 
@@ -9810,7 +9613,6 @@ b) O fato de uma subclasse herdar o comportamento de sua classe mãe.
 
 c) Uma solução reusável para um problema comum.
 
-
 d) Uma unidade coesa de funcionalidades que podem ser desenvolvidas e
 entregues
 independentemente para compor uma unidade maior.
@@ -9819,7 +9621,7 @@ e) Diferentes objetos podem responder à mesma mensagem de maneiras
 diferentes,
 possibilitando que objetos interajam uns com os outros sem conhecer seus tipos exatos.
 
-Item. 15. (VUNESP/Câmara de Piracicaba - SP-2019) No contexto da orientação a objetos, existe
+15. (VUNESP/Câmara de Piracicaba - SP-2019) No contexto da orientação a objetos, existe
 uma
 medida de quanto dois itens, tais como classes ou métodos, estão
 inter-relacionados. Esta
@@ -9839,7 +9641,7 @@ d) interface.
 
 e) acoplamento.
 
-Item. 16. (VUNESP / UFABC -2019) Considerando a orientação a objetos, é correto afirmar que:
+16. (VUNESP / UFABC -2019) Considerando a orientação a objetos, é correto afirmar que:
 
 a) uma mensagem é composta exclusivamente pelo objeto que deve receber tal mensagem.
 
@@ -9851,7 +9653,7 @@ d) cada objeto possui um limite máximo de número de mensagens que pode enviar.
 
 e) na herança múltipla, uma subclasse pode ter associada uma ou mais superclasses.
 
-Item. 17. (UFMG / UFMG - 2019) Uma classe abstrata A contém o método abstrato acao(). A
+17. (UFMG / UFMG - 2019) Uma classe abstrata A contém o método abstrato acao(). A
 classe B
 herda da classe A e não implementa o método acao(). Neste
 contexto, assinale a
@@ -9880,7 +9682,6 @@ d) Abstração, Encapsulamento, Herança e Polimorfismo.
 ig.(IDECAN / IF-PB - 2019) Sobre os conceitos de Orientação a Objetos, identifique com
 "V" caso
 verdadeiro ou "F" caso falso as assertivas a seguir.
-
 
 () A Sobrescrita permite que, em uma mesma classe, tenhamos vários métodos com o mesmo
 nome, mas com a assinatura diferente.
@@ -9943,7 +9744,6 @@ d) o polimorfismo depende de sobrecarga (overloading).
 
 São eles:
 
-
 a) herança, polimorfismo e agregação.
 
 b) especialização, agregação e associação.
@@ -9954,7 +9754,7 @@ d) realização, composição e associação.
 
 e) público, protegido e privado.
 
-Item. 23. (COSEAC / UFF- 2019) Em relação à orientação objetos, avalie se são verdadeiras (V) ou falsas
+23. (COSEAC / UFF- 2019) Em relação à orientação objetos, avalie se são verdadeiras (V) ou falsas
 
 (F) as afirmativas a seguir:
 
@@ -10005,36 +9805,35 @@ métodos e atributos que herdou. A classe que implementa a classe Abstrata não 
 definir
 seus próprios atributos.
 
-
 25- (QUADRIX / CRQ 4a Região-SP - 2018) Com o princípio da "herança", um objeto faz
 reuso de
 código, possibilitando a redução de esforços no desenvolvimento de
 sistemas pelo
 reaproveitamento de códigos herdados de outros objetos ou classes.
 
-Item. 26. (QUADRIX / CRQ 4a Região-SP - 2018) Graças ao encapsulamento, os atributos de um
+26. (QUADRIX / CRQ 4a Região-SP - 2018) Graças ao encapsulamento, os atributos de um
 objeto
 podem ser protegidos, permitindo o acesso a eles somente a partir de métodos
 específicos e
 autorizados.
 
-Item. 27. (QUADRIX / CRQ 4a Região-SP - 2018) Polimorfismo em POO é a combinação de
+27. (QUADRIX / CRQ 4a Região-SP - 2018) Polimorfismo em POO é a combinação de
 atributos e
 métodos internos a uma classe, de forma a deixar visível apenas o que é necessário
 para a
 comunicação entre dois objetos.
 
-Item. 28. (QUADRIX / CRQ 4a Região-SP - 2018) No conceito de orientação a objetos, a
+28. (QUADRIX / CRQ 4a Região-SP - 2018) No conceito de orientação a objetos, a
 herança é a
 capacidade de um novo objeto tomar atributos e operações de um objeto ou classe já existente.
 
-Item. 29. (QUADRIX / CRQ 4a Região-SP - 2018) Na POO, uma classe possui atributos, que
+29. (QUADRIX / CRQ 4a Região-SP - 2018) Na POO, uma classe possui atributos, que
 são as
 características comuns a todos os objetos dela derivados, e métodos, que são as
 operações que
 devem estar escritas em cada objeto.
 
-Item. 30. (FUNDEP / Prefeitura de Pará de Minas - MG - 2018) Qual recurso da programação
+30. (FUNDEP / Prefeitura de Pará de Minas - MG - 2018) Qual recurso da programação
 orientada
 a objetos permite que dois ou mais métodos possuam o mesmo nome desde que
 utilizem
@@ -10048,7 +9847,7 @@ c) Herança.
 
 d) Interface.
 
-Item. 31. (IBADE / IPM-JP -2018) No que diz respeito à Orientação a Objetos - 00, analise
+31. (IBADE / IPM-JP -2018) No que diz respeito à Orientação a Objetos - 00, analise
 as abordagens
 descritas a seguir.
 
@@ -10073,7 +9872,6 @@ c) Programação 00 e Análise 00.
 d) Projeto 00 e Programação 00.
 
 e) Programação 00 e Projeto 00.
-
 
 32.(FAURGS/ UFRGS- 2018) Em relação ao paradigma de orientação a objetos,
 assinale as
@@ -10127,36 +9925,35 @@ c) composição.
 
 d) dependência.
 
-Item. 34. (QUADRIX / CRM-PR- 2018) Com o polimorfismo, é possível que uma
+34. (QUADRIX / CRM-PR- 2018) Com o polimorfismo, é possível que uma
 operação seja
 implementada, em uma classe-filha, de forma diferente da classe-pai.
 
-Item. 35. (QUADRIX / CRM-PR - 2018) É obrigatório que uma classe possua, no mínimo, um atributo.
+35. (QUADRIX / CRM-PR - 2018) É obrigatório que uma classe possua, no mínimo, um atributo.
 
 36.(QUADRIX / CRM-PR - 2018) Com a herança, é admitido estabelecer relações entre
 classes,
 permitindo o compartilhamento de atributos e operações idênticas.
 
-
 yj. (QUADRIX/CRM-PR-2018) Uma classe especifica a estrutura de um objeto, informando
 quais
 serão seus valores.
 
-Item. 38. (QUADRIX / CRM-PR - 2018) Embora a orientação a objetos seja um paradigma eficaz
+38. (QUADRIX / CRM-PR - 2018) Embora a orientação a objetos seja um paradigma eficaz
 de
 análise e desenvolvimento de sistema, com ela, torna-se difícil abstrair, de uma
 maneira mais
 fidedigna, as situações do mundo real.
 
-Item. 39. (QUADRIX / CRM-PR - 2018) Algumas linguagens de programação orientadas a objeto são
+39. (QUADRIX / CRM-PR - 2018) Algumas linguagens de programação orientadas a objeto são
 baseadas em classes, mas há outras que não utilizam as classes de objetos.
 
-Item. 40. (QUADRIX/ SEDF- 2018) A sobreposição é um tipo importante de
+40. (QUADRIX/ SEDF- 2018) A sobreposição é um tipo importante de
 polimorfismo, também
 conhecida como polimorfismo ad-hoc. Ela permite que o programador use o mesmo nome de
 método para muitos métodos diferentes.
 
-Item. 41. (QUADRIX / SEDF- 2018) Na programação orientada a objetos, o estado do
+41. (QUADRIX / SEDF- 2018) Na programação orientada a objetos, o estado do
 objeto é
 representado ao armazenar valores em campos.
 
@@ -10196,7 +9993,6 @@ que
 habilita uma quantidade de operações diferentes a ter o mesmo nome,
 diminuindo o
 acoplamento entre objetos?
-
 
 a) Encapsulamento
 b) Especialização
@@ -10247,7 +10043,7 @@ c) Acoplamento
 d) Polimorfismo
 e) Coesão
 
-Item. 47. (FAURGS / TJ-RS-2018) No contexto da orientação a objetos,é um
+47. (FAURGS / TJ-RS-2018) No contexto da orientação a objetos,é um
 conceito que
 encapsula dados e abstrações procedurais necessárias para descrever o
 conteúdo e
@@ -10290,7 +10086,7 @@ d) Apenas II e III.
 
 e) I, lie III.
 
-Item. 49. (IF-TO / IF-TO - 2018) Considere o cenário onde uma Classe B lega
+49. (IF-TO / IF-TO - 2018) Considere o cenário onde uma Classe B lega
 suas estruturas e
 comportamentos de uma Classe A. Essa relação entre a Classe A e a Classe B é
 caracterizada
@@ -10302,7 +10098,7 @@ c) uma herança
 d) uma instância da classe
 e) uma anomalia de instância
 
-Item. 50. (CEPS-UFPA/ UFPA-2018) Em relação ao paradigma orientado a objetos, é CORRETO
+50. (CEPS-UFPA/ UFPA-2018) Em relação ao paradigma orientado a objetos, é CORRETO
 afirmar
 que:
 
@@ -10313,7 +10109,6 @@ recupera os efeitos dessas operações.
 b) mensagens são requisições enviadas de um atributo para outro, para que o objeto
 receptor
 forneça algum resultado por meio da execução de uma operação.
-
 
 c) classe define as características de um conjunto de atributos que podem herdar
 dados de
@@ -10327,7 +10122,7 @@ e) a herança permite que objetos herdem atributos de outras classes, sem
 estender esta
 característica para métodos.
 
-Item. 51. (FUNRIO / AL-RR - 2018) Um programador, utilizando orientação a objeto, deseja
+51. (FUNRIO / AL-RR - 2018) Um programador, utilizando orientação a objeto, deseja
 fazer com
 que os atributos e serviços disponíveis em uma classe estejam escondidos, de modo que
 o
@@ -10343,7 +10138,7 @@ c) persistência.
 
 d) polimorfismo.
 
-Item. 52. (CS-UFG/ UFG-2018) Na programação orientada a objetos, há um mecanismo que
+52. (CS-UFG/ UFG-2018) Na programação orientada a objetos, há um mecanismo que
 permite
 definir modificadores de acesso. Quando se define um atributo de uma classe
 com o
@@ -10357,7 +10152,7 @@ c) a classe é abstrata.
 
 d) o atributo é acessível somente aos métodos da classe.
 
-Item. 53. (CS-UFG / SANEAGO - GO - 2018) Em programação orientada a objetos, o uso de
+53. (CS-UFG / SANEAGO - GO - 2018) Em programação orientada a objetos, o uso de
 composição
 ao invés de herança é preferível porque
 a) facilita o emprego de estruturas de decisão e controle.
@@ -10368,7 +10163,7 @@ c) elimina bugs.
 
 d) minimiza o consumo de memória e CPU.
 
-Item. 54. (CS-UFG / SANEAGO - GO - 2018) A programação orientada a objetos:
+54. (CS-UFG / SANEAGO - GO - 2018) A programação orientada a objetos:
 
 a) impossibilita o polimorfismo sem herança (extends em JAVA).
 
@@ -10377,7 +10172,6 @@ b) impede a construção de software de difícil manutenção.
 c) faz uso de conceitos como classe, interfaces e envio de mensagens.
 
 d) requer que classes sejam estendidas para a reutilização de código.
-
 
 55- (CS-UFG / SANEAGO - GO - 2018) Uma classe abstrata A contém o método abstrato
 foo(), que
@@ -10413,7 +10207,7 @@ d) herança.
 
 e) namespaces.
 
-Item. 57. (IBFC / Prefeitura de Divinópolis-MG - 2018) Assinale a alternativa que complete
+57. (IBFC / Prefeitura de Divinópolis-MG - 2018) Assinale a alternativa que complete
 correta e
 respectivamente as lacunas da frase a seguir:
 
@@ -10426,7 +10220,7 @@ b) encapsulamento - abstratas - concretas
 c) encapsulamento - concretas - abstratas
 d) polimorfismo - concretas - abstratas
 
-Item. 58. (IBFC /TJ-PE - 2017) Em um programa orientado a objetos, verifica-se que a classe
+58. (IBFC /TJ-PE - 2017) Em um programa orientado a objetos, verifica-se que a classe
 X estende a
 classe Y. Ou seja, pode-se afirmar, pelos preceitos da POO (Programação Orientada a
 Objetos),
@@ -10441,7 +10235,6 @@ c) a classe Y é derivada de X
 d) a classe Y é subclasse de X
 
 e) a classe X é derivada de Y
-
 
 59-(IBFC / EMBASA-2017) Quanto aos fundamentos básicos de programação orientada a
 objetos,
@@ -10481,7 +10274,7 @@ c) iD - 2A - 3B - 4C
 
 d) iA - 2C - 3D - 4B.
 
-Item. 60. (IBFC / EBSERH -2017) Um dos conceitos em Orientação a Objetos é a classe
+60. (IBFC / EBSERH -2017) Um dos conceitos em Orientação a Objetos é a classe
 abstrata. Assinale
 a alternativa que complete correta e respectivamente as lacunas da frase abaixo:
 
@@ -10493,7 +10286,7 @@ c) superclasse - instâncias
 d) superclasse - atores/atrizes
 e) método - atributos.
 
-Item. 61. (IBFC / EBSERH - 2017) Consiste no princípio pelo qual duas ou mais classes
+61. (IBFC / EBSERH - 2017) Consiste no princípio pelo qual duas ou mais classes
 derivadas de uma
 mesma superclasse podem invocar métodos que têm a mesma identificação (assinatura) mas
 comportamentos distintos, especializados para cada classe:
@@ -10558,7 +10351,6 @@ e) Tratamento de Exceção
 dois conceitos
 fundamentais:
 
-
 l-a definição de uma estrutura, a partir da qual é possível especificar todas as
 características da
 implementação, operações e armazenamento de informações para instâncias que serão criadas
@@ -10573,7 +10365,7 @@ c) I - Classe; II - Tipo
 d) I - Classe; II - Objeto
 e) I - Classe; II - Metaclasse
 
-Item. 66. (IBFC / TRE-AM - 2014) Em programação orientada a objetos significa separar
+66. (IBFC / TRE-AM - 2014) Em programação orientada a objetos significa separar
 o programa
 em partes, o mais isoladas possível, tornando o software mais flexível e fácil de modificar:
 
@@ -10585,7 +10377,7 @@ c) Polimorfismo.
 
 d) Atributo.
 
-Item. 67. (IBFC / PC-RJ - 2013) Quanto à programação orientada a objeto, simplificadamente
+67. (IBFC / PC-RJ - 2013) Quanto à programação orientada a objeto, simplificadamente
 classe é o
 conjunto de objetos com características similares. O conjunto de atributos e métodos
 agregados
@@ -10600,7 +10392,7 @@ d) Encapsulamento.
 
 e) Herança.
 
-Item. 68. (IBFC / HEMOMINAS - 2013) Complete a frase a seguir com uma das
+68. (IBFC / HEMOMINAS - 2013) Complete a frase a seguir com uma das
 alternativas abaixo:
 "permite que os atributos de classes possam ser declarados como
 públicos, privados
@@ -10614,10 +10406,9 @@ c) Abstração.
 
 d) Encapsulamento.
 
-Item. 69. (ESAF / DNIT - 2013) A herança de D a partir de C é a habilidade que
+69. (ESAF / DNIT - 2013) A herança de D a partir de C é a habilidade que
 uma classe D tem
 implicitamente definida:
-
 
 a) em atributos e análises da classe C.
 
@@ -10629,7 +10420,7 @@ d) em parte das funcionalidades e operações de classes equivalentes.
 
 e) nos programas das classes.
 
-Item. 70. (ESAF / CGU - 2012) Assinale a opção correta.
+70. (ESAF / CGU - 2012) Assinale a opção correta.
 
 a) As classes podem formar heranças segmentadas em classes adjacentes.
 
@@ -10643,7 +10434,7 @@ d) Overriding é a redefinição de uma classe através de métodos de objetos d
 
 e) As classes não podem formar hierarquias de herança de superclasses e subclasses.
 
-Item. 71. (IADES / PGDF - 2011) Dentro do paradigma de programação orientada a objetos
+71. (IADES / PGDF - 2011) Dentro do paradigma de programação orientada a objetos
 (POO), há
 um mecanismo utilizado para impedir o acesso direto ao estado de um objeto, restando
 apenas
@@ -10657,7 +10448,7 @@ c) Polimorfismo
 d) Encapsulamento
 e) Subclasse
 
-Item. 72. (CESGRANRIO / PETROBRÁS -2010) Análise as afirmativas a seguir relativas ao
+72. (CESGRANRIO / PETROBRÁS -2010) Análise as afirmativas a seguir relativas ao
 paradigma da
 orientação a objetos.
 
@@ -10677,7 +10468,6 @@ subclasse de ClasseA.
 
 É correto APENAS o que se afirma em:
 
-
 a) l.
 
 b) II.
@@ -10688,7 +10478,7 @@ d) I e III.
 
 e) lie III.
 
-Item. 73. (ESAF / SUSEP - 2010) Em relação à programação orientada a objetos, é correto afirmar que:
+73. (ESAF / SUSEP - 2010) Em relação à programação orientada a objetos, é correto afirmar que:
 
 a) o objeto é definido por atributos.
 
@@ -10700,10 +10490,10 @@ d) atributos podem ser agrupados em pointvalues.
 
 e) atributos adequados dispensam referências a objetos.
 
-Item. 74. (ESAF / SUSEP - 2010) É correto afirmar que em herança simples uma superclasse pode ter
+74. (ESAF / SUSEP - 2010) É correto afirmar que em herança simples uma superclasse pode ter
 apenas uma subclasse.
 
-Item. 75. (ESAF / SUSEP - 2010) Polimorfismo é a:
+75. (ESAF / SUSEP - 2010) Polimorfismo é a:
 
 a) utilização múltipla de programas em análise orientada a objetos.
 
@@ -10741,7 +10531,6 @@ abstrata
 possui objetos
 criados a partir dela).
 
-
 b) Um objeto é qualquer coisa, real ou abstrata, a respeito do qual armazenamos
 dados e os
 métodos que os manipulam.
@@ -10756,83 +10545,81 @@ maneira como ele é implementado, uma vez que a definição sobre como
 implementar os
 conhecimentos ou ações de uma classe não são informadas.
 
-
 GABARITo
 
-Item. 1. LETRA E 27- ERRADO
+1. LETRA E 27- ERRADO
 53- LETRA B
 
-Item. 2. LETRA D 28. CORRETO
+2. LETRA D 28. CORRETO
 54- LETRA C
 
 3- LETRA A 29. ERRADO
 55- LETRA B
 
 4- LETRA D 30. LETRA B
-Item. 56. LETRA A
+56. LETRA A
 
 5- LETRA E 31- LETRA B
 57- LETRA A
 
-Item. 6. LETRA A 32. LETRA A
-Item. 58. LETRA E
+6. LETRA A 32. LETRA A
+58. LETRA E
 
 7- LETRAC 33- LETRA A
 59- LETRA B
 
-Item. 8. CORRETO 34- CORRETO
-Item. 60. LETRA C
+8. CORRETO 34- CORRETO
+60. LETRA C
 
 9- LETRA B 35- ERRADO
-Item. 61. LETRA E
+61. LETRA E
 
-Item. 10. LETRA B 36. CORRETO
-Item. 62. LETRA C
+10. LETRA B 36. CORRETO
+62. LETRA C
 
 li. LETRA A 37- ERRADO
-Item. 63. LETRA A
+63. LETRA A
 
-Item. 12. LETRA B 38. ERRADO
-Item. 64. LETRA A
+12. LETRA B 38. ERRADO
+64. LETRA A
 
 13- LETRA B 39- CORRETO
-Item. 65. LETRA D
+65. LETRA D
 
 14- LETRA E 40. ERRADO
-Item. 66. LETRA B
+66. LETRA B
 
 x5- LETRA E 41. CORRETO
-Item. 67. LETRA D
+67. LETRA D
 
-Item. 16. LETRA E 42. LETRA B
-Item. 68. LETRA D
+16. LETRA E 42. LETRA B
+68. LETRA D
 
 17- LETRA C 43- LETRA A
-Item. 69. LETRA C
+69. LETRA C
 
 i8. LETRA D 44. LETRA E
-Item. 70. LETRA C
+70. LETRA C
 
-Item. 19. LETRA C 45- LETRA C
+19. LETRA C 45- LETRA C
 7i- LETRA D
 
-Item. 20. LETRA C 46. LETRA D
-Item. 72. LETRA A
+20. LETRA C 46. LETRA D
+72. LETRA A
 
-Item. 21. LETRA A 47- LETRAC
+21. LETRA A 47- LETRAC
 73- LETRA A
 
-Item. 22. LETRA E 48. LETRA B
+22. LETRA E 48. LETRA B
 74- ERRADO
 
 23- LETRA A 49- LETRA C
 75- LETRA B
 
-Item. 24. LETRA D 50. LETRA A
-Item. 76. LETRA A
+24. LETRA D 50. LETRA A
+76. LETRA A
 
 25- CORRETO 5i- LETRA A
 
-Item. 26. CORRETO 52. LETRA D
-
+26. CORRETO 52. LETRA D
 

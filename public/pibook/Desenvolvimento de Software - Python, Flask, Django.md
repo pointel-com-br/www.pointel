@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Python, Flask, Django.
-
+# Desenvolvimento de Software - Python, Flask, Django.
 
 Índice
 
@@ -8,7 +7,6 @@ Capítulo. Desenvolvimento de Software - Python, Flask, Django.
 2) Python Django - Teoria
 
 3) Python Flask - Teoria
-
 
 APRESENTAçÃo DA AUUX
 
@@ -37,18 +35,15 @@ resumos e
 mnemónicos. Vamos ao que importa! lí
 x
 
-
 / 174
 
 /
-
 
 Conceitos Básicos
 
 PYTHoN
 
 RELEVÂNCIA EM PROVA: ALTA
-
 
 Í® python
 
@@ -98,7 +93,6 @@ embora a linguagem seja protegida por direitos autorais, ela está disponível s
 licença
 de código aberto.
 
-
 Alguns recursos de linguagem de programação do Python são:
 
 * Uma variedade de tipos de dados básicos está disponível: números (ponto
@@ -128,11 +122,9 @@ memória manualmente em seu código.
 
 x
 
-
 / 174
 
 /
-
 
 Python é uma linguagem com uma filosofia de simplicidade no seu design, é uma
 linguagem de
@@ -179,11 +171,9 @@ dinamicamente para cada variável, podendo alterá-lo durante a compilação ou 
 do
 programa.
 
-
 / 174
 
 /
-
 
 (CEBRASPE - PC PB- 2022) Na linguagem Python, o tipo de uma variável em tempo de
 execução é definido pelo interpretador pelo recurso denominado
@@ -221,7 +211,6 @@ PALAVRA-CHAVE DESCRIÇÃO
 
 And é um operador lógico. Os operadores lógicos são usados para combinar instruções
 
-
 AND
 
 condicionais. O valor de retorno será True somente se ambas as instruções retornarem
@@ -230,7 +219,6 @@ True, caso contrário retornará False.
 AS Usada para criar um alias.
 
 Usada ao depurar o código. Permite testar se uma condição em seu código retorna
-
 
 ASSERT
 
@@ -254,7 +242,6 @@ ELIF Usada em instruções condicionais (instruções if) e é abreviação de e
 ELSE com a ramificação "if", tenta as ramificações "elif" e termina com a ramificação "else"
 (até ser avaliada como True)
 
-
 EXCEPT
 
 Usada em blocos try...except. Ele define um bloco de código a serexecutado se o bloco
@@ -265,7 +252,6 @@ FALSE A palavra-chave false é um valor booleano e resultado de uma operação d
 comparação. A palavra-chave false é igual a o (True é igual a 1).
 
 Usada em blocos try...except. Ele define um bloco de código para ser executado
-
 
 FINALLY
 
@@ -281,7 +267,6 @@ uma vez para cada item de uma lista, tupla, conjunto etc.
 
 for i in [0,1,2]:
 print(i)
-
 
 FROM
 GLOBAL
@@ -349,7 +334,6 @@ impresso para o usuário.
 
 Sai de uma função e retornar um valor.
 
-
 (Profs. Paolla Ramos e Raphael L
 
 Valor booleano e resultado de uma operação de comparação. A palavra-chave True é
@@ -386,9 +370,7 @@ usar o
 https://www.w3schools.com/python/trypython Msp?filename=demo_default
 o link
 
-
 QQ
-
 
 Principais Características
 
@@ -431,7 +413,6 @@ o escopo de loops, funções e classes. Outras linguagens de programação costu
 colchetes
 para essa finalidade.
 
-
 Python é uma linguagem de programação interpretada, isso significa que, como
 desenvolvedor,
 você escreve arquivos Python (.py) em um editor de texto e depois coloca esses
@@ -443,11 +424,9 @@ C:\Users\Your Namexpython helloworld.py
 
 Em que "helloworld.py" é o nome do seu arquivo python.
 
-
 / 174
 
 /
-
 
 Sintaxe do Python
 
@@ -482,7 +461,6 @@ o Python
 fornecerá um erro: IndentationError: unexpected indent
 
 *
-
 
 Variáveis em Python
 
@@ -531,11 +509,9 @@ Além disso, é possível atribuir o mesmo valor a várias variáveis em uma lin
 que você precisa,
 não é? @
 
-
 / 174
 
 /
-
 
 x = y = z = "Laranja"
 
@@ -579,11 +555,9 @@ ser definida como a integração de duas strings em um objeto. Em Python, você 
 executar a
 concatenação usando o operador +. (tí
 
-
 / 174
 
 /
-
 
 Se você criar uma variável com o mesmo nome dentro de uma função, essa variável será local e só
 poderá ser usada dentro da função. A variável global com o mesmo nome permanecerá como
@@ -620,7 +594,6 @@ def myfunc():
 global x
 x = "fantastic"
 
-
 Tipos de dados Python
 
 Na programação, o tipo de dados é um conceito importante. Variáveis podem armazenar
@@ -636,7 +609,6 @@ TEXTO str x = "Hello
 World"
 
 Int: x = "Hello World"
-
 
 NUMÉRICOS int, float, complex
 
@@ -655,7 +627,6 @@ Dict: x = ("nomw=e": "John", "idade": 36}
 
 Set: x = {"maçã", "banana", "cereja"}
 
-
 CONJUNTO set,frozenset
 
 Frozenset: x = frozenset({"maçã",
@@ -664,7 +635,6 @@ Frozenset: x = frozenset({"maçã",
 BOOLEANO bool x = True
 
 Bytes: x = b"Hello"
-
 
 BINÁRIO bytes, bytearray, memoryview
 
@@ -698,11 +668,9 @@ Strings podem conter uma ou mais linhas, veja um exemplo de uma string com mais 
 uma linha
 usando três aspas - três aspas duplas () ou três aspas simples ('"):
 
-
 / 174
 
 /
-
 
 a = """Estratégia Concursos é referência na preparação de
 alunos para Concursos
@@ -760,7 +728,6 @@ seja, cortar uma
 
 *
 
-
 parte da string. É necessário especificar o índice inicial e o índice final, separados por dois
 pontos,
 
@@ -815,18 +782,15 @@ d) 0 -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
 
 e) -1 -2 -3 -4 -5 -6 -7 -8 -9 -10.
 
-
 / 174
 
 /
-
 
 Comentários: Pessoal, as bancas gostam muito de índices negativos, para dificultar um
 pouco. No caso da questão, é gerada
 uma sequência de números negativos iniciando em -1 e parando antes do -10 (ou seja, o for para no
 -9). O For é incrementado
 de -iem -1 formando a sequência -1-2 -3 -4-5-6 -7 -8 -9. (Gabarito: Letra A)
-
 
 MÉTODOS PARA MODIFICAR
 
@@ -881,7 +845,6 @@ ois."
 
 *
 
-
 CARACTER DE ESCAPE DESCRIÇÃO
 
 V Aspas simples
@@ -906,7 +869,6 @@ página atual e a continuar imprimindo na parte superior de outra.
 Python tem um conjunto de métodos integrados que você pode usar em strings.
 
 FUNÇÃO DESCRIÇÃO
-
 
 CAPITALIZEI)
 CASEFOLDO
@@ -961,7 +923,6 @@ Retorna True se a string for um identificador
 
 Retorna True se todos os caracteres da string forem minúsculos
 Retorna True se todos os caracteres da string forem numéricos
-
 
 ISPRINTABLEÍl Retorna True se todos os caracteres da string forem imprimíveis
 ISSPACEU Retorna True se todos os caracteres na string forem espaços em branco
@@ -1019,11 +980,9 @@ Python retorna a resposta booleana:
 
 print(10 > 9) #Retorna True
 
-
 / 174
 
 /
-
 
 print(10 == 9)#Retorna False
 print(10 < 9) #Retorna False
@@ -1074,11 +1033,9 @@ operadores nos seguintes grupos:
 * Operadores bit a bit
 Operadores aritméticos Python
 
-
 / 174
 
 /
-
 
 Exponenciação
 
@@ -1107,7 +1064,6 @@ OPERADOR DESCRIÇÃO
 EXEMPLO
 
 AND Retorna True se ambas as declarações forem verdadeiras x < 5 and x < io
-
 
 OR
 NÕT
@@ -1172,7 +1128,6 @@ binário 0
 
 10 » 1 # binário 1
 
-
 Coleções em Python
 
 Listas Python
@@ -1225,11 +1180,9 @@ print(len(lista3))
 
 Os itens da lista podem ser de qualquertipo de dados:
 
-
 / 174
 
 /
-
 
 listai = ["maçã", "banana", "cereja"]
 lista2 = [1, 5, 7, 9, 3]
@@ -1281,18 +1234,15 @@ Os itens do conjunto são imutáveis, mas você pode remover e/ou adicionar iten
 A partir da versão 3.7 do Python, os dicionários são ordenados. No Python 3.6 e anteriores, os
 dicionários não são ordenados.
 
-
 / 174
 
 /
-
 
 Você pode especificar um intervalo de índices especificando onde começar e
 onde terminar o
 intervalo. Ao especificar um intervalo, o valor de retorno será uma nova
 lista com os itens
 especificados.
-
 
 listai = ["maçã", "banana" "cereja", "laranja", "kiwi",
 print(listal [2:5]) #imprime na tela ['cereja', 'laranja'
@@ -1353,11 +1303,9 @@ INSERTO Adiciona um elemento na posição especificada
 
 POPO Remove o elemento na posição especificada
 
-
 / 174
 
 /
-
 
 Remove o primeiro item com o valor especificado
 Inverte a ordem da lista
@@ -1416,11 +1364,9 @@ for i in range(len(listal)):
 
 print(listal[i])
 
-
 / 174
 
 /
-
 
 Outra forma de percorrer a lista é usando um loop while. Use a função len() para
 determinar o
@@ -1436,11 +1382,9 @@ print(listal[i])
 
 i = i + 1
 
-
 / 174
 
 /
-
 
 List Comprehension
 
@@ -1490,11 +1434,9 @@ print(minhalista)
 Outra maneira de fazer uma cópia é usar o método interno Iist().
 frutas = ["maçã", "banana", "laranja"]
 
-
 / 174
 
 /
-
 
 minhalista = list(frutas)
 print(minhalista)
@@ -1530,11 +1472,9 @@ Dictionary , todos com qualidades e usos diferentes. Uma tupla é uma
 coleção ordenada e
 imutável .Tuplas são escritas com colchetes.
 
-
 / 174
 
 /
-
 
 Os itens de tupla são indexados, o primeiro item possui índice [o], o segundo item
 possui índice
@@ -1580,7 +1520,6 @@ print(tuplal[l]) #imprime banana
 Da mesma forma que ocorre na lista, é possível acessar tuplas com índice negativo.
 Lembrando
 que o -1 pega o último item, -2refere-se ao penúltimo item, etc.
-
 
 tuplal = ("maça", "banana", "laranja")
 print(tuplal[-1]) #imprime laranja
@@ -1637,18 +1576,15 @@ tupla2 = (1, 2, 3)
 
 tupla3 = tuplal + tupla2
 
-
 / 174
 
 /
-
 
 print(tupla3)
 
 Há outra função incrível que pode ser utilizada em tuplas! w Se você quiser
 multiplicar o conteúdo
 de uma tupla um determinado número de vezes, você pode usar o operador *:
-
 
 frutas
 tuplal
@@ -1668,7 +1604,6 @@ Python possui dois métodos integrados que você pode usar em tuplas.
 MÉTODO DESCRIÇÃO
 
 COUNTO Retorna o número de vezes que um valor especificado ocorre em uma tupla
-
 
 INDEXO
 
@@ -1708,11 +1643,9 @@ especificado está presente em um conjunto, usando a palavra-chave in.
 A partir da versão 3.7 do Python, os dicionários são ordenados. No Python 3.6 e anteriores, os
 dicionários não são ordenados.
 
-
 / 174
 
 /
-
 
 thisset = {"maça", "banana", "cereja"}
 for x in thisset:
@@ -1762,7 +1695,6 @@ Vejamos agora as várias maneiras de unir dois ou mais conjuntos em Python.
 
 *
 
-
 Você pode usar o método union() que retorna um novo conjunto contendo todos os itens
 de
 ambos os conjuntos ou o método update() que insere todos os itens de um conjunto em
@@ -1803,7 +1735,6 @@ MÉTODO DESCRIÇÃO EXEMPLO
 
 Gera novo conjunto, que contem apenas os ,z = x.mtersection
 
-
 INTERSECTION_UPDATE(]
 SYMMETRIC.DIFFERENCEÍ]
 
@@ -1832,11 +1763,9 @@ em conjuntos.
 
 MÉTODO DESCRIÇÃO
 
-
 / 174
 
 /
-
 
 ADD[] Adiciona um elemento ao conjunto
 CLEARO Remove todos os elementos do conjunto
@@ -1869,7 +1798,6 @@ SYMMETRIC_DIFFERENCE[] Retorna um conjunto com as diferenças simétricas de doi
 SYMMETRIC_DIFFERENCE_UPDATE[] Insere as diferenças simétricas deste conjunto e de outro
 UNIONO Retorna um conjunto contendo a união de conjuntos
 UPDATEU Atualize o conjunto com a união deste conjunto e outros
-
 
 Dicionários Python
 
@@ -1928,11 +1856,9 @@ UPDATEU Atualiza o dicionário com os pares de valores-chave especificados
 
 VALUESO Retorna uma lista de todos os valores no dicionário
 
-
 / 174
 
 /
-
 
 LISTA E UMA COLEÇÃO ORDENADA E MUTÁVEL. PERMITE MEMBROS DUPLICADOS.
 
@@ -1951,7 +1877,6 @@ Não ordenada
 
 MODIFICAÇÃO Mutável Imutável
 Mutável Mutável
-
 
 DUPLICATAS Permite duplicatas Permite duplicatas Não permite
 duplicatas
@@ -1982,7 +1907,6 @@ Lista list x = [4, 8]
 
 Tupla tuple x = (5, 10)
 
-
 COLEÇÃO/SEQUÊNCIA
 
 x = tuple()
@@ -1997,7 +1921,6 @@ Dicionário dictionary x = {'nome': 'Diego', idade: 31}
 dados predefinidos para lidar com coleções: conjuntos, dicionários, listas e
 tuplas. A
 respeito desses tipos de dados, julgue os itens a seguir.
-
 
 I O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.
 
@@ -2029,7 +1952,6 @@ armazenados em uma ordem específica além
 disso, conjuntos não contém elementos repetidos. Portanto, conjuntos são diferentes de
 listas. Por fim, o item III está correto,
 é possível a alteração dos elementos de uma lista. (Gabarito: Letra D).
-
 
 Condições do Python
 
@@ -2090,11 +2012,9 @@ print("A e B são iguais")
 
 Neste caso, será impresso na tela que "a e b são iguais".
 
-
 / 174
 
 /
-
 
 Pessoal, o if é muito utilizado na prática, além disso cai muito em provas! Além
 dele, temos o else,
@@ -2157,11 +2077,9 @@ b = 330
 
 print("A") if a > b else print("=") if a == b else print("B")
 
-
 / 174
 
 /
-
 
 A palavra-chave and é um operador lógico e é usada para combinar instruções
 condicionais:
@@ -2198,7 +2116,6 @@ retorna false. ®
 OPERADOR DESCRIÇÃO
 EXEMPLO
 
-
 Retorna True se todas as condições forem verdadeiras, caso
 contrário retorna False
 
@@ -2213,7 +2130,6 @@ x> i orx < 5
 not(x > i and x < 5)
 
 *
-
 
 Python While Loops
 
@@ -2260,7 +2176,7 @@ continue
 print(i)
 
 No exemplo acima, serão impressos todos os números da sequência de 1 a 6 exceto o
-Item. 3. Lembre-se
+3. Lembre-se
 que a instrução continue interrompe a iteração atual e continua com a próxima.
 Portanto, quando
 o valor da variável i for 3, vai pular o print e prosseguir o loop.
@@ -2270,11 +2186,9 @@ def F (a, b):
 
 while a != b:
 
-
 / 174
 
 /
-
 
 if a > b:
 
@@ -2302,7 +2216,6 @@ no condicional, se 48>36 então, a vai
 receber a - b. a = 46 e b = 36. A vai receber = 12 e retorna esse valor que será impresso. Assim,
 nosso gabarito é a letra B.
 (Gabarito: Letra B).
-
 
 Loop for em Python
 
@@ -2358,7 +2271,6 @@ Note que o for itera sobre o conjunto de valores que se inicia em 2 (incluso) at
 20 (não incluso),
 pulando de três em três unidades. Agora vejamos a quantidade de questões sobre loop for
 
-
 (FGV - TCU - 2022) A execução desse código na IDLE Shell produz, na
 ordem e
 exclusivamente, os números:
@@ -2412,7 +2324,6 @@ c) o-1-2-3 -4-5-6-7 -8 -9
 d) o -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
 
 e) -1 -2 -3 -4 -5 -6 -7 -8 -9 -10
-
 
 Comentários: Pessoal, as bancas gostam muito de índices negativos, para dificultar um
 pouco. No caso da questão, é gerada
@@ -2471,7 +2382,6 @@ Comentários: Pessoal, for k in range(i6,io, -2):gera 16,14 e 12. Nessa sequênc
 k vai somar os valores negativos da
 seguinte forma: -16 -14 e -12 que gera como resultado -42.(Gabarito: Letra D).
 
-
 Funções do Python
 
 Uma função é um bloco de código que só é executado quando é chamado. Você pode
@@ -2525,7 +2435,6 @@ def minhafuncao (*professores):
 
 print( professoresfl] + " é um professor de TI do Estratégia")
 minhafuncao("Diego Carvalho", "Raphael Lacerda")
-
 
 No exemplo anterior, será impresso Raphael Lacerda é professor de TI do
 Estratégia. A tupla
@@ -2590,11 +2499,9 @@ escrever uma
 função que nunca termina, ou uma que usa quantidades excessivas de memória ou poder
 do
 
-
 / 174
 
 /
-
 
 processador. No entanto, quando escrita corretamente, a recursão pode ser uma abordagem
 de
@@ -2618,7 +2525,6 @@ fatorial = fatorial * valor
 valor = valor - 1
 
 *
-
 
 Python Lambda
 
@@ -2653,9 +2559,7 @@ return lambda a : a * n
 dobravalor = minhafuncao (2)
 print(dobravalor(10)) #imprime 20
 
-
 ,
-
 
 Matrizes ou Arrays Python
 
@@ -2704,7 +2608,6 @@ removeO e o pop() é que o primeiro remove apenas a primeira ocorrência do valo
 MÉTODO DESCRIÇÃO
 
 *
-
 
 APPENDÍJ
 CLEARO
@@ -2785,11 +2688,9 @@ são muito importantes.
 
 x
 
-
 / 174
 
 /
-
 
 Classes/objetos Python
 
@@ -2841,7 +2742,6 @@ print(pl)
 Objetos também podem conter métodos. Métodos em objetos são funções que
 pertencem ao
 objeto.
-
 
 class Person:
 
@@ -2898,11 +2798,9 @@ da classe. Portanto, o correto
 
 x
 
-
 / 174
 
 /
-
 
 Herança Python
 
@@ -2958,9 +2856,7 @@ class Student(Person):
 
 def init(self, fname, lname):
 
-
 super().init(fname., lname)
-
 
 Iteradores Python
 
@@ -3000,7 +2896,6 @@ Para evitar que a iteração continue para sempre, podemos usar a instrução St
 No métodonext(), podemos adicionar uma condição de término para gerar um erro
 se a
 iteração for feita um número especificado de vezes:
-
 
 Escopo do Python
 
@@ -3053,7 +2948,6 @@ como duas variáveis separadas, uma disponível no escopo global (fora da
 função) e outra
 disponível no escopo local (dentro da função):
 
-
 x = 300
 
 def myfunc():
@@ -3074,11 +2968,9 @@ def myfunc():
 global x
 x = 300
 
-
 / 174
 
 /
-
 
 Módulos Python
 
@@ -3110,7 +3002,6 @@ módulo. A função dir():
 import platform
 x = dir(platform)
 print(x)
-
 
 Datas em Python
 
@@ -3167,26 +3058,20 @@ Wednesday
 %B Nome do mês, versão curta
 Dec
 
-
 / 174
 
 /
 
-
 December
-
 
 2018
 
-
 PM
-
 
 548513
 
 + O1OO
 CST
-
 
 %u Número da semana do ano, domingo como o primeiro dia da
 semana, 00-53
@@ -3194,11 +3079,9 @@ semana, 00-53
 %w Número da semana do ano, segunda-feira como 0 primeiro dia da
 semana, 00-53
 
-
 Mon Dec 31 17:41:00
 
 2018
-
 
 12/31/18
 
@@ -3206,7 +3089,6 @@ Mon Dec 31 17:41:00
 
 %
 2018
-
 
 Matemática Python
 
@@ -3242,7 +3124,6 @@ MATH.ATANHO Retorna a tangente hiperbólica inversa de um número
 
 MATH.CEILO Arredonda um número para o inteiro mais próximo
 
-
 MATH.COMBÍ]
 MATH.COPYSIGNÍ)
 
@@ -3277,11 +3158,9 @@ Retorna E elevado à potência de x
 
 Retorna Ex -1
 
-
 / 174
 
 /
-
 
 MATH.FABSO
 MATH.FACTORIALÍ)
@@ -3305,7 +3184,6 @@ MATH.ISQRTtl
 816118
 
 MATH.LGAMMAO
-
 
 816863
 
@@ -3378,7 +3256,6 @@ Retorna a tangente de um número
 Retorna a tangente hiperbólica de um número
 Retorna as partes inteiras truncadas de um número
 
-
 Python RegEx
 
 Um RegEx, ou Expressão Regular, é uma sequência de caracteres queforma um padrão de
@@ -3414,7 +3291,6 @@ EXEMPLO
 Um conjunto de caracteres
 "[a-m]"
 
-
 Sinaliza uma sequência especial (também pode ser usada para
 escapar de caracteres especiais)
 
@@ -3444,11 +3320,9 @@ Ou
 
 Capturare agrupar
 
-
 / 174
 
 /
-
 
 Uma sequência especial é \seguida por um dos caracteres na lista abaixo e tem um
 significado
@@ -3457,14 +3331,12 @@ especial.
 CARACTER DESCRIÇÃO
 EXEMPLO
 
-
 Retorna uma correspondência se os caracteres especificados
 estiverem no início da string
 
 "\AThe"
 
 Retorna uma correspondência em que os caracteres especificados r"\bain"
-
 
 estão no início ou no final de uma palavra
 
@@ -3474,7 +3346,6 @@ tratada como uma "string bruta")
 r"ain\b"
 
 Retorna uma correspondência onde os caracteres especificados r"\Bain"
-
 
 estão presentes, mas NÃO no início (ou no final) de uma palavra
 (o "r" no início está certificando-se de que a string está sendo
@@ -3488,7 +3359,6 @@ r"ain\B"
 "\d"
 
 Retorna uma correspondência onde a string NÃO contém dígitos "\D"
-
 
 Retorna uma correspondência onde a string contém um caractere
 de espaço em branco
@@ -3537,7 +3407,6 @@ alfabética entre a e n
 
 [0-91 Retorna uma correspondência para qualquer dígito entre 0 e 9
 
-
 [0-5H0-9]
 
 Retorna uma correspondência para qualquer número de dois dígitos de 00 a 59
@@ -3549,13 +3418,11 @@ Em conjuntos, +, */ |, (), $,{} não tem significado especial, então [+] signif
 
 retornar uma correspondência para qualquer caractere + na string
 
-
 RESUMO
 
 PALAVRA-CHAVE I DESCRIÇÃO
 
 And é um operador lógico. Os operadores lógicos são usados para combinar instruções
-
 
 AND
 AS
@@ -3571,11 +3438,9 @@ Truez caso contrário, o programa gerará um AssertionError. Você pode escrever
 mensagem a ser escrita caso o código retorne false
 x
 
-
 / 174
 
 /
-
 
 BREAK
 CLASS
@@ -3631,7 +3496,6 @@ for i in [0,1,2]:
 
 print(i)
 
-
 FROM
 GLOBAL
 
@@ -3673,7 +3537,6 @@ para definir um valor nulo ou nenhum valor.
 Usada para trabalhar com variáveis dentro de funções aninhadas, onde a variável não
 deve pertencer à função interna. Use a palavra-chave nonlocal para declarar que a
 variável não é local.
-
 
 RAISE
 RETURN
@@ -3729,9 +3592,7 @@ GERENCIA AUTOMATICAMENTE 0 USO DE MEMÓRIA
 PROGRAMAÇÃO ORIENTADA A OBJETOS
 PROGRAMAÇÃO FUNCIONAL
 
-
 www. estra tegiaconcursos. com. br
-
 
 TIPO DE DADO DESCRIÇÃO
 EXEMPLO
@@ -3740,7 +3601,6 @@ TEXTO str x = "Hello
 World"
 
 Int: x = "Hello World"
-
 
 NUMÉRICOS int, float, complex
 
@@ -3759,7 +3619,6 @@ Dict: x = {"nomw=e": "John", "idade": 36}
 
 Set: x = {"maçã", "banana", "cereja"}
 
-
 CONJUNTO set,frozenset
 
 Frozenset: x = frozenset({"maçã",
@@ -3769,7 +3628,6 @@ BOOLEANO bool x = True
 
 Bytes: x = b"Hello"
 
-
 BINÁRIO bytes, bytearray, memoryview
 
 Bytearray: x = bytearray(s)
@@ -3777,7 +3635,6 @@ Memoryview: x = memoryview(bytes(s))
 
 NENHUM TIPO NoneType NoneType:
 x = None
-
 
 MÉTODOS PARA MODIFICAR
 
@@ -3789,7 +3646,6 @@ Retorna a string em maiúsculas
 Retorna a string em letras minúsculas
 
 DESCRIÇÃO
-
 
 STRIPO
 REPLACEl)
@@ -3806,7 +3662,6 @@ CARACTER DE ESCAPE I_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ DESCRIÇ
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
 V
-
 
 Barra invertida
 Nova linha
@@ -3825,7 +3680,6 @@ Valor hexadecimal
 
 FUNÇÃO DESCRIÇÃO
 
-
 CAPITALIZEI)
 CASEFOLDÜ
 
@@ -3843,7 +3697,6 @@ FORMAT_MAP[)
 INDEXO
 
 ISALNUMO
-
 
 ISASCIIO
 ISDECIMALO
@@ -3893,7 +3746,6 @@ Retorna True se todos os caracteres na string forem espaços em branco
 Retorna True se a string seguiras regras de um título
 
 Retorna True se todos os caracteres da string forem maiúsculos
-
 
 JOINÜ
 LJUST(]
@@ -3964,14 +3816,12 @@ Módulo x % y
 
 ** Exponenciação x**y
 
-
 77 Floor Division: arredonda o resultado para o
 número inteiro mais próximo
 x//y
 
 FUNÇÃO DESCRIÇÃO
 IGUALA
-
 
 x = 5
 
@@ -4024,11 +3874,9 @@ IS Retorna True se ambas as variáveis forem o mesmo objeto x is y
 
 IS NOT Retorna True se ambas as variáveis não forem o mesmo objeto x is not y
 
-
 Retorna True se uma sequência com o valor especificado
 presente no objeto
 x in y
-
 
 Retorna True se uma sequência com o valor especificado não
 estiver presente no objeto
@@ -4050,7 +3898,6 @@ esquerda e deixe os bits mais à direita fora
 
 MÉTODO DESCRIÇÃO
 
-
 APPENDtJ
 CLEAREJ
 
@@ -4063,7 +3910,6 @@ INSERTO
 m
 REMOVEU
 REVERSEO
-
 
 Adiciona um elemento no final da lista
 Remove todos os elementos da lista
@@ -4081,9 +3927,7 @@ Inverte a ordem da lista
 
 Inverte a ordem da lista
 
-
 GO
-
 
 NÃO PODEMOS ALTERAR, ADICIONAR OU REMOVER ITENS
 APÓS A CRIAÇÃO DA TUPLA.
@@ -4091,7 +3935,6 @@ APÓS A CRIAÇÃO DA TUPLA.
 MÉTODO DESCRIÇÃO
 
 COUNTÍJ Retorna o número de vezes que um valor especificado ocorre em uma tupla
-
 
 INDEXO
 
@@ -4103,7 +3946,6 @@ Gera novo conjunto, que contem apenas os .
 
 . . z = x.mtersection(y)
 itens presentes em ambos os conjuntos
-
 
 INTERSECTION_UPDATE[]
 SYMMETRIC_DIFFERENCE[]
@@ -4117,7 +3959,6 @@ Novo conjunto, que contém apenas os
 elementos que NÃO estão presentes em z = x.symmetric_difference(y)
 ambos os conjuntos
 
-
 SYMMETRIC.DIFFERENCE.UPDATEO
 
 Manterá apenas os elementos que NÃO
@@ -4128,7 +3969,6 @@ x.symmetric difference update(y) ˣ
 MÉTODO | DESCRIÇÃO
 
 ADDO Adiciona um elemento ao conjunto
-
 
 CLEARO
 COPYO
@@ -4144,11 +3984,9 @@ Retorna um conjunto contendo a diferença entre dois ou mais conjuntos
 Remove os itens neste conjunto que também estão incluídos em outro conjunto
 especificado
 
-
 / 174
 
 /
-
 
 DISCARDO Remove o item especificado
 
@@ -4200,7 +4038,6 @@ UPDATEO Atualiza o dicionário com os pares de valores-chave especificados
 
 VALUESO Retorna uma lista de todos os valores no dicionário
 
-
 LISTA E UMA COLEÇÃO ORDENADA E MUTÁVEL. PERMITE MEMBROS DUPLICADOS.
 
 TUPLA E UMA COLEÇÃO ORDENADA E IMUTÁVEL. PERMITE MEMBROS DUPLICADOS.
@@ -4219,7 +4056,6 @@ Não ordenada
 MODIFICAÇÃO Mutável Imutável
 Mutável Mutável
 
-
 DUPLICATAS Permite duplicatas Permite duplicatas Não permite
 duplicatas
 
@@ -4234,7 +4070,6 @@ Entre chaves
 
 CATEGORIA TIPO PYTHON
 EXEMPLO
-
 
 bool
 int
@@ -4283,11 +4118,9 @@ contrário retorna False
 OR Retorna True se uma das condições for verdadeiras, caso contrário x > i orx < 5
 retorna False
 
-
 / 174
 
 /
-
 
 NOT Inverte o resultado: se o resultado da expressão for True,
 operador retorna false
@@ -4301,7 +4134,6 @@ COPYÍJ Retorna uma cópia da lista
 
 COUNTO Retorna 0 número de elementos com 0 valor especificado
 
-
 EXTENDÍJ
 INDEXO
 INSERTO
@@ -4309,7 +4141,6 @@ INSERTO
 PÕPÕ
 REMOVER
 REVERSEl]
-
 
 Adicione os elementos de uma lista (ou qualquer iterável) ao final da lista atual
 Retorna 0 índice do primeiro elemento com o valor especificado
@@ -4367,7 +4198,6 @@ PM
 %Z Fuso horário
 CST
 
-
 Número do dia do ano 001-366
 
 Número da semana do ano, domingo como 0 primeiro dia
@@ -4390,11 +4220,9 @@ Dia da semana ISO 8601 (1-7)
 
 Número da semana ISO 8601 (01-53)
 
-
 Mon Dec 31 17:41:00
 
 2018
-
 
 12/31/18
 
@@ -4403,9 +4231,7 @@ Mon Dec 31 17:41:00
 %
 2018
 
-
 DIRETIVA DESCRIÇÃO
-
 
 MATH.ACOSO
 MATH.ACOSHO
@@ -4462,7 +4288,6 @@ Retorna E elevado à potência de x
 
 Retorna Ex -1
 
-
 MATH.FABSO
 MATH.FACTORIALÜ
 MATH.FLOORO
@@ -4487,7 +4312,6 @@ MATH.ISNANÍ]
 816111
 
 MATH.LGAMMAO
-
 
 816863
 
@@ -4562,7 +4386,6 @@ Retorna as partes inteiras truncadas de um número
 
 FUNÇÃO DESCRIÇÃO
 
-
 Retorna uma lista contendo todas as correspondências
 
 Retorna um objeto Match se houver uma correspondência em qualquer lugar da string
@@ -4574,7 +4397,6 @@ DESCRIÇÃO EXEMPLO
 
 Um conjunto de caracteres
 "[a-m]"
-
 
 Sinaliza uma sequência especial (também pode ser usada para
 escapar de caracteres especiais)
@@ -4608,7 +4430,6 @@ Capturar e agrupar
 CARACTER DESCRIÇÃO
 EXEMPLO
 
-
 Retorna uma correspondência se os caracteres especificados
 estiverem no início da string
 
@@ -4638,7 +4459,6 @@ r"ain\B"
 
 Retorna uma correspondência onde a string NÃO contém dígitos "\D"
 
-
 Retorna uma correspondência onde a string contém um caractere
 de espaço em branco
 
@@ -4648,7 +4468,6 @@ caractere de espaço em branco
 "\s"
 
 "\S"
-
 
 \w Retorna uma correspondência em que a string contém qualquer
 caractere de palavra (caracteres de a a Z, dígitos de o a 9 e o
@@ -4692,7 +4511,6 @@ e z, minúsculas OU maiúsculas
 [+1 Em conjuntos, +, *, ., |, (), $,{} não tem significado especial,
 então [+] significa:
 retornar uma correspondência para qualquer caractere + na string
-
 
 Automação de Scripts
 
@@ -4749,7 +4567,6 @@ limitações e vantagens, bem como os principais métodos que serão usados.
 
 Saiba mais com o conteúdo a seguir. Falaremos sobre o Selenium Python e mostraremos um
 tutorial simples de como conseguir a sua primeira automação na web com essa biblioteca.
-
 
 O Selenium Python é uma biblioteca com diversos métodos que ajudam na automação web.
 Em suma, as funções permitem controlar o funcionamento de uma página e a interação
@@ -4810,11 +4627,9 @@ Características principais:
 e confiável
 sem lutar contra a ferramenta.
 
-
 / 174
 
 /
-
 
 * Poderoso: Projetado para casos de uso do mundo real, protege contra
 peculiaridades de
@@ -4876,11 +4691,9 @@ procedimentos de
 configuração em várias camadas de testes. A estrutura pytest oferece recursos poderosos,
 como
 
-
 / 174
 
 /
-
 
 regravação de assert, parametrização, marcadores, plug-ins, execução de teste paralelo e
 relatórios
@@ -4944,11 +4757,9 @@ PDFMiner é uma ferramenta de extração de texto para documentos PDF.
 
 * Suporta linguagens CJK e scripts de escrita vertical.
 
-
 / 174
 
 /
-
 
 * Possui um analisador de PDF extensível que pode ser usado para outros fins.
 
@@ -5002,11 +4813,9 @@ usado para automação de teste e automação robótica de processos (RPA). É e
 um dos
 cursos da Formação Desenvolvedor RPA.
 
-
 / 174
 
 /
-
 
 REFERÊNCIAS
 
@@ -5027,7 +4836,6 @@ https://borbpdf.com/
 
 https://blog.dsacademy.com.br/15-pacotes-python-para_automacao/
 
-
 Questões Cespe
 
 QUESTõES CoMENTADAS
@@ -5047,7 +4855,7 @@ ela ter sido criada. Portanto, as listas são consideradas sequências mutáveis
 
 Gabarito: Letra D
 
-Item. 2. (CEBRASPE - PC PB- 2022) Na linguagem Python, o tipo de uma variável
+2. (CEBRASPE - PC PB- 2022) Na linguagem Python, o tipo de uma variável
 em tempo de
 execução é definido pelo interpretador pelo recurso denominado
 a) tipagem dinâmica.
@@ -5070,7 +4878,7 @@ para cada variável, podendo alterá-lo durante a compilação ou a execução d
 
 Gabarito: Letra A
 
-Item. 3. (CESPE - PC PB- 2022) Python é uma linguagem procedural que utiliza quatro tipos
+3. (CESPE - PC PB- 2022) Python é uma linguagem procedural que utiliza quatro tipos
 de dados
 predefinidos para lidar com coleções: conjuntos, dicionários, listas e tuplas. A
 respeito desses
@@ -5079,7 +4887,6 @@ tipos de dados, julgue os itens a seguir.
 I O conjunto permite o armazenamento de uma tupla, mas não o de uma lista.
 
 II A tupla é idêntica à lista, exceto pela forma mais simples com que sua declaração é realizada.
-
 
 III A lista é um tipo de dados variável que permite a alteração de seus
 elementos após a sua
@@ -5114,7 +4921,7 @@ fim, o item III está correto, é possível a alteração dos elementos de uma l
 
 Gabarito: Letra D
 
-Item. 4. (CEBRASPE-(C0DEVASF-202i) Na linguagem Python, as listas são coleções de
+4. (CEBRASPE-(C0DEVASF-202i) Na linguagem Python, as listas são coleções de
 qualquertipo
 de objetos, com exceção das próprias listas, e seus elementos são alteráveis.
 
@@ -5128,7 +4935,7 @@ próprias listas, e seus elementos são alteráveis
 
 Gabarito: Errada
 
-Item. 5. (CEBRASPE - PF- 2021) O código Python a seguir apresenta como resultado "True".
+5. (CEBRASPE - PF- 2021) O código Python a seguir apresenta como resultado "True".
 
 x= bool(-3)
 
@@ -5145,11 +4952,9 @@ banca teve a coragem de dizer na justificativa de alteração dos gabaritos que 
 resultado que
 deveria ser True, e não "True"". Enfim, vamos para o código: x,y e z são possuem o valor "True".
 
-
 / 174
 
 /
-
 
 Quando utilizamos a clase bool para conversões temos uma "regra". Essa regra nos diz
 que quando
@@ -5163,7 +4968,7 @@ resultado True.
 
 Gabarito: Errada
 
-Item. 6. (CEBRASPE - SERPRO- 2021) As tuplas, embora sejam semelhantes às listas, estão
+6. (CEBRASPE - SERPRO- 2021) As tuplas, embora sejam semelhantes às listas, estão
 limitadas
 a, no máximo, cinco níveis.
 
@@ -5175,7 +4980,7 @@ questão não há a limitação de no máximo, cinco níveis nas tuplas.
 
 Gabarito: Errada
 
-Item. 7. (CEBRASPE - SERPRO- 2021) Listas são coleções alteráveis de qualquer tipo de
+7. (CEBRASPE - SERPRO- 2021) Listas são coleções alteráveis de qualquer tipo de
 objeto —
 como, por exemplo, outras listas — capazes de gerar um efeito top-down sem limite de níveis.
 
@@ -5185,7 +4990,7 @@ Perfeito! Perfeito! As listas são MUTÁVEIS, ou ALTERÁVEIS!
 
 Gabarito: Correta
 
-Item. 8. (CEBRASPE - PC DF- 2021) Com relação a mineração de dados, aprendizado de
+8. (CEBRASPE - PC DF- 2021) Com relação a mineração de dados, aprendizado de
 máquina e
 aplicações Python, julgue o item a seguir.
 
@@ -5215,15 +5020,13 @@ exemplo, jogar damas. E = a experiência de jogar muitos jogos de damas T = a ta
 de jogar
 damas. P = a probabilidade de o programa vencer o próximo jogo.".
 
-
 / 174
 
 /
 
-
 Gabarito: Correta
 
-Item. 9. (CEBRASPE - BANESE- 2021) No que se refere ao pacote NumPy do Python, julgue o
+9. (CEBRASPE - BANESE- 2021) No que se refere ao pacote NumPy do Python, julgue o
 item
 subsequente. O código a seguir retorna o valor do desvio padrão amostrai do conjunto
 de dados
@@ -5280,7 +5083,6 @@ resto
 
 Gabarito: Letra B
 
-
 n.(CEBRASPE - SEED PR- 2021) Na linguagem de programação Python, existem 3
 estruturas
 para armazenar dados indexados. A estrutura cujos valores são imutáveis depois de sua
@@ -5309,7 +5111,6 @@ Não ordenada
 MODIFICAÇÃO Mutável Imutável
 Mutável Mutável
 
-
 DUPLICATAS Permite duplicatas Permite duplicatas Não permite
 duplicatas
 
@@ -5324,7 +5125,7 @@ Entre chaves
 
 Gabarito: Letra C
 
-Item. 12. (CEBRASPE - PF- 2018) Considere os seguintes comandos na programação em Python.
+12. (CEBRASPE - PF- 2018) Considere os seguintes comandos na programação em Python.
 a = " Hello, World!"
 
 print(a.stripO)
@@ -5342,13 +5143,11 @@ branco (ou caracteres dentro do parêntese) do início/fim da string.
 
 Gabarito: Errada
 
-Item. 13. (CEBRASPE - PF- 2018) Considere o programa a seguir, na linguagem Python.
-
+13. (CEBRASPE - PF- 2018) Considere o programa a seguir, na linguagem Python.
 
 / 174
 
 /
-
 
 letras == ["P", "F"]
 forx in letras
@@ -5390,7 +5189,7 @@ método que cria um objeto, mas vocês não precisam saber disso).
 
 Gabarito: Correta
 
-Item. 15. (CESPE - 2013 - MPOG - Analista de Sistemas) Em Python, o comando int("i") cria
+15. (CESPE - 2013 - MPOG - Analista de Sistemas) Em Python, o comando int("i") cria
 um objeto
 do tipo int, que recebe 1 como parâmetro no seu construtor.
 
@@ -5403,7 +5202,6 @@ flutuante ou string em um inteiro. No caso, ele está recebendo um número como 
 das aspas) e convertendo em um inteiro. Esse número serve de parâmetro para o seu
 construtor
 (que é um método que cria um objeto, mas vocês não precisam saber disso).
-
 
 Gabarito: Correta
 i6.(CESPE - 2011 - ECT - Analista de Sistemas) A linguagem Python e seu interpretador
@@ -5427,7 +5225,7 @@ operacionais que possuam um software interpretador de Python.
 
 Gabarito: Correta
 
-Item. 17. (CESPE - 2008 - SERPRO - Analista de Sistemas) Python é uma linguagem livre de
+17. (CESPE - 2008 - SERPRO - Analista de Sistemas) Python é uma linguagem livre de
 alto nível,
 orientada a objetos e de difícil leitura, pois não permite identação de linhas de código.
 
@@ -5493,11 +5291,9 @@ Uma função é definida por meio da palavra-chave def.
 
 Gabarito: Letra A
 
-
 / 174
 
 /
-
 
 Questões FGV
 
@@ -5543,7 +5339,7 @@ valores pares de
 
 Gabarito: Letra C
 
-Item. 22. (FGV - PC AM- 2022) Considere o código Python a seguir.
+22. (FGV - PC AM- 2022) Considere o código Python a seguir.
 
 L=[o,i,i,2,3,5,8,i3,2i]
 
@@ -5554,11 +5350,9 @@ print (L[kj)
 Assinale o resultado exibido pela execução desse código, na IDLE Shell 3.9.9.
 a) 1, 2, 5,13
 
-
 / 174
 
 /
-
 
 b) o, í, 3, 8, 21, í, 2, 5,13, 21
 
@@ -5584,7 +5378,7 @@ for necessário, desenhe as listas (uma em cima da outra) POSIÇÕES =
 
 Gabarito: Letra D
 
-Item. 23. (FGV - SEFAZ AM- 2022) Analise o código a seguir em linguagem de programação Python:
+23. (FGV - SEFAZ AM- 2022) Analise o código a seguir em linguagem de programação Python:
 
 1 def rotina(array):
 
@@ -5597,7 +5391,6 @@ Item. 23. (FGV - SEFAZ AM- 2022) Analise o código a seguir em linguagem de prog
 6 ãrray(p) = array[p =- 1]
 
 7 p -= 1
-
 
 9 arrayfpj element
 
@@ -5624,13 +5417,11 @@ ordenado: [5, 9, 20, 31, 42, 56].
 
 Gabarito: Letra E
 
-Item. 24. ( FGV - MPE GO- 2022) Considere o código Python a seguir.
-
+24. ( FGV - MPE GO- 2022) Considere o código Python a seguir.
 
 / 174
 
 /
-
 
 defX(n):
 
@@ -5678,7 +5469,7 @@ depois usa-se o N
 
 Gabarito: Letra B
 
-Item. 25. (FGV-MPE GO-2022) Assinale a lista de números produzida pela execução, na IDLE
+25. (FGV-MPE GO-2022) Assinale a lista de números produzida pela execução, na IDLE
 Shell 3.9.9,
 do código Python a seguir.
 
@@ -5764,11 +5555,9 @@ Dado que os elementos de xi podem ser exibidos em ordem aleatória, a linha que
 possivelmente
 é produzida pelo comando print na execução do código acima é:
 
-
 / 174
 
 /
-
 
 a) ['AA', 'BB', 'CC, 'BB', {'C, 'A', 'B'}]
 
@@ -5835,7 +5624,6 @@ print (y/x)
 except:
 print("Deu erro!")
 
-
 else:
 
 print("Ok")
@@ -5894,7 +5682,6 @@ c) [3]
 
 d) [i, 2, 3]
 
-
 e) [3, 2,1]
 
 Comentários:
@@ -5904,7 +5691,7 @@ comando que inverte a lista passada. Dessa forma, sabemos que o resultado será 
 
 Gabarito: Letra E
 
-Item. 31. (FGV-MPE SC-2022) Analise o código Python a seguir.
+31. (FGV-MPE SC-2022) Analise o código Python a seguir.
 
 class xptoClass:
 def iter(self):
@@ -5944,13 +5731,11 @@ resultado [o, 1,
 
 Gabarito: Letra B
 
-Item. 32. (FGV - IMBEL- 2021) Analise o código Python a seguir.
-
+32. (FGV - IMBEL- 2021) Analise o código Python a seguir.
 
 / 174
 
 /
-
 
 x= [1,23,4,5]
 
@@ -5977,7 +5762,7 @@ amam! Resposta: e) [5,4,3,2,11.
 
 Gabarito: Letra E
 
-Item. 33. (FGV- IMBEL - 2021) Analise o código Python a seguir.
+33. (FGV- IMBEL - 2021) Analise o código Python a seguir.
 
 x= [1,23,4,5]
 
@@ -6015,11 +5800,9 @@ yield(k)
 for x in teste(10):
 print x
 
-
 / 174
 
 /
-
 
 A execução desse código:
 
@@ -6051,7 +5834,7 @@ de 1 até 10 na saída.
 
 Gabarito: Letra C
 
-Item. 35. (FGV-TJ RO-2021) Analise o código Python 2.7 a seguir.
+35. (FGV-TJ RO-2021) Analise o código Python 2.7 a seguir.
 
 def xpto (nl, n2):
 
@@ -6080,11 +5863,9 @@ e) 50
 
 Comentários:
 
-
 / 174
 
 /
-
 
 Pessoal, o while irá executar até que m != n2, ou seja, m diferente de n2. Dessa
 forma, ele vai
@@ -6135,17 +5916,14 @@ passado no print (ABC([2o],Io)), os demais serão 1,4,9,16,25,36,49,64,81.
 
 Gabarito: Letra D
 
-Item. 37. (FGV - FunSaúde CE- 2021) Observe o código Python V2.7.
+37. (FGV - FunSaúde CE- 2021) Observe o código Python V2.7.
 def F (a, b):
 
-
 1 1 1
-
 
 / 174
 
 /
-
 
 while a != b:
 if a > b:
@@ -6201,7 +5979,6 @@ c) -4, 0, 4;
 d) 4, -1,1;
 
 e) 4, 2, 2.
-
 
 Comentários:
 
@@ -6265,7 +6042,6 @@ d) U A E I
 
 e) U O I E A
 
-
 Comentários:
 
 Mais uma questão com valores negativos! Vejamos o que ela faz! range(-i, -5, -1). Na
@@ -6327,11 +6103,9 @@ c) uva, laranja;
 
 d) banana, laranja, manga;
 
-
 / 174
 
 /
-
 
 e) banana, laranja, manga;
 
@@ -6392,7 +6166,6 @@ print Li
 Assinale a opção que descreve corretamente o que acontece quando esse programa é
 executado
 no Python 2.7:
-
 
 a) Produz uma mensagem de erro, porque tenta executar uma operação inválida.
 
@@ -6455,7 +6228,6 @@ penúltima); (3) não fornecido - primeira posição do array (posição 0).
 
 Stop - última posição a ser acessada:
 
-
 Pode ser: (1) valor positivo - posição de acesso (por exemplo, o é a primeira, 1 é a segunda); (2)
 valor
 negativo - posição a partir do final do array (por exemplo, -íéa última posição, -2
@@ -6509,11 +6281,9 @@ teria como imprimir L[4] porque esse valor sequer existe, L só vai de 0 a 3.
 
 Gabarito: Letra A
 
-
 / 174
 
 /
-
 
 Questões FCC
 
@@ -6574,7 +6344,6 @@ Gabarito: Letra E
 
 4g.(FCC-TRF4-2019) Considere o código Python abaixo.
 def oper(l, item):
-
 
 pos = O
 x = False
@@ -6639,14 +6408,13 @@ um dos comandos citados: pyTTS: biblioteca de texto para fala; Tkinter:
 biblioteca padrão da
 linguagem Python; aiml: biblioteca para inteligência artificial com aprendizado de máquina; scapy:
 
-
 biblioteca que suporta envio de pacotes em rede, portanto nosso gabarito, numpy:
 biblioteca para
 uso científico, trabalha com vetores multidimensionais.
 
 Gabarito: Letra D
 
-Item. 51. (FCC - TJ MA- 2019) Considere o programa Python abaixo:
+51. (FCC - TJ MA- 2019) Considere o programa Python abaixo:
 numeroí = int(input('lnforme o número de Processos:'))
 
 numero2 = int(input('lnforme o número de Juízes:'))
@@ -6682,7 +6450,7 @@ gabarito é a letra E porque há uma divisão no try (resultado = numeroí / num
 
 Gabarito: Letra E
 
-Item. 52. (FCC - TJ MA- 2019) Considere o programa Python abaixo:
+52. (FCC - TJ MA- 2019) Considere o programa Python abaixo:
 
 I..
 
@@ -6698,11 +6466,9 @@ Para que o programa seja executado corretamente, em condições ideais, a indica
 deve ser
 substituída por:
 
-
 / 174
 
 /
-
 
 a) private exibir_processos(pro):
 
@@ -6722,7 +6488,7 @@ função, utiliza-se a palavra-chave def. Daí já conseguimos saber que o nosso
 
 Gabarito: Letra E
 
-Item. 53. (FCC - MPE PE- 2018) Considere o fragmento de código Python abaixo.
+53. (FCC - MPE PE- 2018) Considere o fragmento de código Python abaixo.
 class Cliente:
 
 I
@@ -6815,7 +6581,6 @@ Comentários:
 
 Pessoal, vejamos o que cada operação gera na lista a:
 
-
 a.insert(2, -5) # [99.15, 323, -5, 323, 2,12.5]
 
 a.append(323) # [99.15, 323, -5, 323, 2,12.5, 323]
@@ -6866,18 +6631,16 @@ range(len(a)):
 
 Gabarito: Letra D
 
-Item. 57. (FCC - PGM Teresina- 2016) Considere o código-fonte abaixo, criado na linguagem Python.
+57. (FCC - PGM Teresina- 2016) Considere o código-fonte abaixo, criado na linguagem Python.
 def dados(n):
 
 resultado = []
 a, b = o, 1
 while a < n:
 
-
 / 174
 
 /
-
 
 resultado, append(a)
 a, b = b, a+b
@@ -6930,7 +6693,6 @@ print x, len(x)
 a) o Fragmento 1 está in Correta, pois laços não podem ter uma cláusula else.
 
 b) no Fragmento 2, a instrução for está incorreta, pois ela não pode iterar sobre a.
-
 
 c) o Fragmento 1 está in Correta, pois não é possível iterar sobre
 sequências numéricas
@@ -6988,7 +6750,6 @@ testar a letra (e)! Antes de entrar na estrutura de repetição while, nós temo
 
 a = o
 b = 1
-
 
 Depois, temos que:
 
@@ -7063,7 +6824,6 @@ Gabarito: Letra A
 
 6i.(FCC-20i2-TRE/CE-Analista de Sistemas) Sobre Python é Correta afirmar:
 
-
 a) é uma linguagem compilada, ou seja, o código-fonte de um programa é lido pelo
 compilador,
 que cria um arquivo binário, executável diretamente pelo hardware.
@@ -7099,11 +6859,9 @@ possui restrição de tamanho.
 
 Gabarito: Letra C
 
-
 / 174
 
 /
-
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -7159,10 +6917,8 @@ return x
 x = 5
 dobra(x)
 
-
 0 0 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital)
-
 
 y
 dobra(x)
@@ -7215,12 +6971,11 @@ uma lista, porém imutável; (d) Correta, é realmente orientada a objetos.
 
 Gabarito: Letra D
 
-Item. 66. (CETAP - 2010 - AL/RR - Analista de Sistemas) Sobre a linguagem de
+66. (CETAP - 2010 - AL/RR - Analista de Sistemas) Sobre a linguagem de
 programação
 PYTHON, marque a alternativa INCORRETA.
 
 a) Python suporta a maioria das técnicas da programação orientada a objetos.
-
 
 b) Python suporta e faz uso constante de tratamento de exceções como uma forma de
 testar
@@ -7272,7 +7027,7 @@ Uma função é definida por meio da palavra-chave def.
 
 Gabarito: Letra A
 
-Item. 68. (UNIRIO - 2014 - UNIRIO) Sobre o comando range para construção de listas na
+68. (UNIRIO - 2014 - UNIRIO) Sobre o comando range para construção de listas na
 linguagem
 Python, é CORRETA afirmar que:
 
@@ -7282,11 +7037,9 @@ b) range(5) gera a lista [1,2,3,4,5].
 
 c) range(4,6) gera a lista [4,5,6,7,8,9].
 
-
 / 174
 
 /
-
 
 d) range(5,i) gera a lista [5].
 
@@ -7304,7 +7057,7 @@ range(5,i,-2) retorna [5, 3] porque o step é negativo.
 
 Gabarito: Letra A
 
-Item. 69. (QUADRIX-2018-COREN/RS) No que se refere à linguagem de programação
+69. (QUADRIX-2018-COREN/RS) No que se refere à linguagem de programação
 Python,
 assinale a alternativa correta.
 
@@ -7350,7 +7103,6 @@ também é muito utilizado como linguagem script em vários softwares.
 
 Gabarito: Letra E
 
-
 7O.(IFPI - 2012 - IFPI) Com relação à linguagem de programação Python, é INCORRETA a
 afirmação:
 
@@ -7393,7 +7145,6 @@ simples ou duplas;
 
 Gabarito: Letra C
 
-
 Questões Cespe
 
 LISTA DE QUESTõES
@@ -7405,7 +7156,7 @@ c) tuplas
 d) listas
 e) ranges
 
-Item. 2. (CEBRASPE - PC PB- 2022) Na linguagem Python, o tipo de uma variável em tempo de
+2. (CEBRASPE - PC PB- 2022) Na linguagem Python, o tipo de uma variável em tempo de
 execução é definido pelo interpretador pelo recurso denominado
 a) tipagem dinâmica.
 
@@ -7417,7 +7168,7 @@ d) interpretação bytecode.
 
 e) empacotamento.
 
-Item. 3. (CESPE - PC PB- 2022) Python é uma linguagem procedural que utiliza quatro tipos
+3. (CESPE - PC PB- 2022) Python é uma linguagem procedural que utiliza quatro tipos
 de dados
 predefinidos para lidar com coleções: conjuntos, dicionários, listas e tuplas. A
 respeito desses
@@ -7442,26 +7193,25 @@ d) Apenas os itens I e III estão certos.
 
 e) Apenas os itens II e III estão certos.
 
-Item. 4. (CEBRASPE-(CODEVASF-2021) Na linguagem Python, as listas são coleções de qualquertipo
+4. (CEBRASPE-(CODEVASF-2021) Na linguagem Python, as listas são coleções de qualquertipo
 de objetos, com exceção das próprias listas, e seus elementos são alteráveis.
 
-
-Item. 5. (CEBRASPE-PF-2021) O código Python a seguir apresenta como resultado "True".
+5. (CEBRASPE-PF-2021) O código Python a seguir apresenta como resultado "True".
 x = bool(-3)
 
 y = bool("True"*x)
 z= bool("False")
 print (xandyandz)
 
-Item. 6. (CEBRASPE - SERPRO- 2021) As tuplas, embora sejam semelhantes às listas, estão
+6. (CEBRASPE - SERPRO- 2021) As tuplas, embora sejam semelhantes às listas, estão
 limitadas
 a, no máximo, cinco níveis.
 
-Item. 7. (CEBRASPE - SERPRO- 2021) Listas são coleções alteráveis de qualquer tipo de
+7. (CEBRASPE - SERPRO- 2021) Listas são coleções alteráveis de qualquer tipo de
 objeto —
 como, por exemplo, outras listas — capazes de gerar um efeito top-down sem limite de níveis.
 
-Item. 8. (CEBRASPE - PC DF- 2021) Com relação a mineração de dados, aprendizado de
+8. (CEBRASPE - PC DF- 2021) Com relação a mineração de dados, aprendizado de
 máquina e
 aplicações Python, julgue o item a seguir.
 
@@ -7471,7 +7221,7 @@ programa de computador que aprende com a experiência de detectar imagens de arm
 explosivos em vídeos, tendo seu desempenho medido e melhorado por meio dos erros e de
 acertos decorrentes da experiência de detecção.
 
-Item. 9. (CEBRASPE - BANESE- 2021) No que se refere ao pacote NumPy do Python, julgue o
+9. (CEBRASPE - BANESE- 2021) No que se refere ao pacote NumPy do Python, julgue o
 item
 subsequente. O código a seguir retorna o valor do desvio padrão amostrai do conjunto
 de dados
@@ -7495,11 +7245,9 @@ Assinale a opção que corresponde à saída que o compilador Python apresentar�
 para os
 comandos em questão.
 
-
 / 174
 
 /
-
 
 a) i
 b) 3
@@ -7521,7 +7269,7 @@ cjtupla
 d) classe
 e) dicionário
 
-Item. 12. (CEBRASPE - PF- 2018) Considere os seguintes comandos na programação em Python.
+12. (CEBRASPE - PF- 2018) Considere os seguintes comandos na programação em Python.
 a = " Hello, World!"
 
 print(a.stripO)
@@ -7531,7 +7279,7 @@ Esses comandos, quando executados, apresentarão o resultado a seguir.
 a[o]=Hello,
 a[i]=World!
 
-Item. 13. (CEBRASPE - PF- 2018) Considere o programa a seguir, na linguagem Python.
+13. (CEBRASPE - PF- 2018) Considere o programa a seguir, na linguagem Python.
 letras == ["P", "F"]
 
 forx in letras
@@ -7546,8 +7294,7 @@ i4.(CESPE - 2013 - MPOG - Analista de Sistemas) Em Python, o comando int("i") cr
 um objeto
 do tipo int, que recebe 1 como parâmetro no seu construtor.
 
-
-Item. 15. (CESPE - 2013 - MPOG - Analista de Sistemas) Em Python, o comando int("i") cria
+15. (CESPE - 2013 - MPOG - Analista de Sistemas) Em Python, o comando int("i") cria
 um objeto
 do tipo int, que recebe 1 como parâmetro no seu construtor.
 
@@ -7561,7 +7308,7 @@ compilador C. Nesse caso, o código fonte é traduzido para o formato
 bytecode, que é
 multiplataforma e pode ser distribuído de forma independente.
 
-Item. 17. (CESPE - 2008 - SERPRO - Analista de Sistemas) Python é uma linguagem livre de
+17. (CESPE - 2008 - SERPRO - Analista de Sistemas) Python é uma linguagem livre de
 alto nível,
 orientada a objetos e de difícil leitura, pois não permite identação de linhas de código.
 
@@ -7595,11 +7342,9 @@ d) procedure calcular (a,b):
 
 e) sub calcular (a,b):
 
-
 / 174
 
 /
-
 
 Questões FGV
 
@@ -7627,7 +7372,7 @@ d) i, 3, 5
 
 e) 2, 4, 6
 
-Item. 22. (FGV - PC AM- 2022) Considere o código Python a seguir.
+22. (FGV - PC AM- 2022) Considere o código Python a seguir.
 
 L=[o,1,1,2,3,5,8,13,21]
 
@@ -7646,13 +7391,11 @@ d) o, 1, 3, 8, 21
 
 e) o, 1, 3, 8
 
-Item. 23. (FGV- SEFAZ AM- 2022) Analise o código a seguir em linguagem de programação Python:
-
+23. (FGV- SEFAZ AM- 2022) Analise o código a seguir em linguagem de programação Python:
 
 / 174
 
 /
-
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -7666,9 +7409,7 @@ wtiile ip > 0 and array[p - 1] > element:
 6 ãrray(p) = arrayfp =- 1]
 p -= 1
 
-
 return array
-
 
 13 print ( rotina{[9, 5, 31, 42, 20, 96] ) )
 
@@ -7719,8 +7460,7 @@ d) Executa, mas produz erro de execução na quinta chamada da função X.
 
 e) Executa, mas calcula erradamente o fatorial de 4.
 
-
-Item. 25. (FGV-MPE GO-2022) Assinale a lista de números produzida pela execução, na IDLE Shell 3.9.9,
+25. (FGV-MPE GO-2022) Assinale a lista de números produzida pela execução, na IDLE Shell 3.9.9,
 do código Python a seguir.
 
 for x in range(-i, -io, -1):
@@ -7782,11 +7522,9 @@ Dado que os elementos de xi podem ser exibidos em ordem aleatória, a linha que
 possivelmente
 é produzida pelo comando print na execução do código acima é:
 
-
 / 174
 
 /
-
 
 a) ['AA', 'BB', 'CC, 'BB', {'C, 'A', 'B'}]
 
@@ -7866,7 +7604,7 @@ d) [1, 2, 3]
 
 e) [3, 2,1]
 
-Item. 31. (FGV-MPE SC-2022) Analise o código Python a seguir.
+31. (FGV-MPE SC-2022) Analise o código Python a seguir.
 
 class xptoClass:
 def iter(self):
@@ -7888,11 +7626,9 @@ print(next(xptolter))
 
 No resultado produzido pela execução do código acima, a quinta linha contém exatamente:
 
-
 / 174
 
 /
-
 
 a) [o, 1,1, 2, 2, 3]
 
@@ -7903,7 +7639,7 @@ c) [0, í, 2, 3, 4, 5]
 d) [o, 1, 3, 5, 7, 9l
 e) [1, 2, 3, 4, 5, 6]
 
-Item. 32. (FGV- IMBEL- 2021) Analise o código Python a seguir.
+32. (FGV- IMBEL- 2021) Analise o código Python a seguir.
 x= [1,23,4,5]
 
 print (x[::-l])
@@ -7920,7 +7656,7 @@ d) 5
 
 e) [5,A3,2,1]
 
-Item. 33. (FGV - IMBEL - 2021) Analise o código Python a seguir.
+33. (FGV - IMBEL - 2021) Analise o código Python a seguir.
 x= [1,23,4,5]
 
 print (x[-i])
@@ -7949,7 +7685,6 @@ for x in teste(10):
 print: x
 
 A execução desse código:
-
 
 a) não tem efeito, pois nenhum comando print é acionado;
 
@@ -8000,7 +7735,6 @@ else:
 Lappend(len(L) ** 2)
 print ABC([2o],Io)
 
-
 O resultado da execução desse código é:
 
 a) [1, 4, g, 16, 25, 36, 49, 64]
@@ -8013,7 +7747,7 @@ d) [20,1, 4, 9,16, 25, 36, 49, 64, 81]
 
 e) [20, 4, 9,16, 25, 36, 49, 64, 81]
 
-Item. 37. (FGV - FunSaúde CE- 2021) Observe o código Python V2.7.
+37. (FGV - FunSaúde CE- 2021) Observe o código Python V2.7.
 def F (a, b):
 
 while a != b:
@@ -8045,7 +7779,6 @@ print k ** c
 
 Dado que uma execução da função F exibiu os números
 16, 9, 4,1, o, 1,
-
 
 é Correta afirmar que os valores dos parâmetros a, b, c empregados foram, respectivamente:
 a) -4, í, 2;
@@ -8105,11 +7838,9 @@ L=["A","E","I","O","U"]
 for k in range(o,len(L)):
 print (L[4-kJ)
 
-
 / 174
 
 /
-
 
 Assinale a opção que indica a saída produzida pela execução desse código.
 
@@ -8166,7 +7897,6 @@ e) a exibição dos valores 43,2,1 nessa ordem.
 
 44-(FGV - 2015 - CM/Caruaru - Analista Legislativo - Informática) Analise o código Python a
 seguir.
-
 
 Li=[io,20,30]
 I_2=[4O,5O]
@@ -8228,7 +7958,6 @@ d) a exibição de 8 valores, 16,14,12,10,16,14,12,10, nessa ordem.
 
 e) a exibição do valor 16, somente.
 
-
 Questões FCC
 
 47.(FCC- PGE AM-2O22)Em um programa escrito em Python, uma série de dados foram
@@ -8286,7 +8015,6 @@ v = [1, 2, 32, 8,17,19, 42,13, o]
 
 print(oper(v, 8))
 
-
 Para que o código exiba na tela o valorTrue se o item buscado no vetor por meio da
 função oper
 for encontrado, a lacuna I deve ser corretamente preenchida por
@@ -8300,7 +8028,7 @@ d) while (pos < len(l) && not(x)):
 
 e) while pos < len(l) and not x:
 
-Item. 50. (FCC - SANASA- 2019) Uma Analista de TI está desenvolvendo um scanner de rede em
+50. (FCC - SANASA- 2019) Uma Analista de TI está desenvolvendo um scanner de rede em
 Python
 e, para importar um recurso referente para manipulação de pacotes de rede,
 utilizou no
@@ -8315,7 +8043,7 @@ d) from scapy.all import *
 
 e) from numpy import *
 
-Item. 51. (FCC - TJ MA- 2019) Considere o programa Python abaixo:
+51. (FCC - TJ MA- 2019) Considere o programa Python abaixo:
 numeroí = int(input('lnforme o número de Processos:'))
 numero2 = int(input('lnforme o número de Juízes:'))
 
@@ -8342,13 +8070,11 @@ d) throw: e catch(err)
 
 e) try: e except ZeroDivisionError:
 
-
 / 174
 
 /
 
-
-Item. 52. (FCC - TJ MA- 2019) Considere o programa Python abaixo:
+52. (FCC - TJ MA- 2019) Considere o programa Python abaixo:
 I..
 
 forx in pro:
@@ -8373,7 +8099,7 @@ d) definition exibir_processos(pro):
 
 e) def exibir_processos(pro):
 
-Item. 53. (FCC - MPE PE- 2018) Considere o fragmento de código Python abaixo.
+53. (FCC - MPE PE- 2018) Considere o fragmento de código Python abaixo.
 class Cliente:
 
 I
@@ -8403,11 +8129,9 @@ import ..I.. as b
 import matplotlib.pyplot as a
 x - b.linspace(o, 3, 20)
 
-
 / 174
 
 /
-
 
 y = b.linspace(o, 9, 20)
 a.plot(x, y)
@@ -8458,7 +8182,6 @@ print i, a[i]
 Considere a saída gerada pelo programa:
 0ARSETE
 
-
 iPRODATER
 2 SEMEST
 
@@ -8478,7 +8201,7 @@ d) for i in range(len(a)):
 
 e) for i in range(a):
 
-Item. 57. (FCC - PGM Teresina- 2016) Considere o código-fonte abaixo, criado na linguagem Python.
+57. (FCC - PGM Teresina- 2016) Considere o código-fonte abaixo, criado na linguagem Python.
 def dados(n):
 
 resultado = []
@@ -8510,11 +8233,9 @@ if n % x == o:
 
 print n, x, n/x
 
-
 / 174
 
 /
-
 
 break
 else:
@@ -8569,7 +8290,6 @@ d) resultado.add(a)
 a, b = a, a+b
 e) resultado.append(a)
 
-
 a, b = a+b, b
 
 6o.(FCC - 2012 - MPE/PE - Analista de Sistemas) Em Python, os métodos de lista
@@ -8611,7 +8331,6 @@ um mesmo tipo.
 e) Uma String Python é uma sequência imutável, alocada estaticamente, com
 restrição de
 tamanho.
-
 
 Questões Comentadas - Diversas Bancas
 
@@ -8661,11 +8380,9 @@ d) 25
 
 65.(UERJ - UERJ - Analista De Sistemas) A linguagem Python possui a seguinte característica:
 
-
 / 174
 
 /
-
 
 a) é uma linguagem compilada.
 
@@ -8675,7 +8392,7 @@ c) a tupla é um tipo mutável.
 
 d) é orientada a objetos.
 
-Item. 66. (CETAP - 2010 - AL/RR - Analista de Sistemas) Sobre a linguagem de
+66. (CETAP - 2010 - AL/RR - Analista de Sistemas) Sobre a linguagem de
 programação
 PYTHON, marque a alternativa INCORRETA.
 
@@ -8707,7 +8424,7 @@ d) procedure calcular (a, b):
 
 e) sub calcular (a,b):
 
-Item. 68. (UNIRIO - 2014 - UNIRIO) Sobre o comando range para construção de listas na
+68. (UNIRIO - 2014 - UNIRIO) Sobre o comando range para construção de listas na
 linguagem
 Python, é CORRETA afirmar que:
 
@@ -8721,10 +8438,9 @@ d) range(5,i) gera a lista [5].
 
 e) range(5,i,-2) gera a lista [4,5].
 
-Item. 69. (QUADRIX-2018-COREN/RS) No que se refere à linguagem de programação
+69. (QUADRIX-2018-COREN/RS) No que se refere à linguagem de programação
 Python,
 assinale a alternativa correta.
-
 
 a) A Python é uma linguagem de alto nível e robusta. Ela possui seu próprio
 framework e é
@@ -8777,83 +8493,80 @@ e) Em Python, os nomes de variáveis, funções, módulos e classes são
 conhecidos como
 identificadores. O identificador_quantidade é Correta em Python.
 
-
 / 174
 
 /
 
-
 GABARITo
 í. Letra D 26.Letra A
-Item. 51. Letra E
+51. Letra E
 
-Item. 2. Letra A 27.Letra A
-Item. 52. Letra E
+2. Letra A 27.Letra A
+52. Letra E
 
-Item. 3. Letra D 28.Letra D
-Item. 53. Letra D
+3. Letra D 28.Letra D
+53. Letra D
 
-Item. 4. Errado 29.Letra B
-Item. 54. Letra A
+4. Errado 29.Letra B
+54. Letra A
 
-Item. 5. Errado 30. Letra E
-Item. 55. Letra C
+5. Errado 30. Letra E
+55. Letra C
 
-Item. 6. Errado 31. Letra B
-Item. 56. Letra D
+6. Errado 31. Letra B
+56. Letra D
 
-Item. 7. Correta 32. Letra E
-Item. 57. Letra B
+7. Correta 32. Letra E
+57. Letra B
 
-Item. 8. Correta 33. Letra D
-Item. 58. Letra E
+8. Correta 33. Letra D
+58. Letra E
 
-Item. 9. Correta 34. Letra C
-Item. 59. Letra C
+9. Correta 34. Letra C
+59. Letra C
 
-Item. 10. Letra B 35. Letra C
+10. Letra B 35. Letra C
 60.Letra A
 
-Item. 11. Letra C 36. Letra D
-Item. 61. Letra C
+11. Letra C 36. Letra D
+61. Letra C
 
-Item. 12. Errado 37. Letra B
+12. Errado 37. Letra B
 62.Letra A
 
-Item. 13. Errado 38. Letra B
-Item. 63. Letra D
+13. Errado 38. Letra B
+63. Letra D
 
-Item. 14. Correta 39. Letra C
+14. Correta 39. Letra C
 64.Letra A
 
-Item. 15. Correta 40. Letra C
-Item. 65. Letra D
+15. Correta 40. Letra C
+65. Letra D
 
-Item. 16. Correta 41. Letra E
-Item. 66. Letra E
+16. Correta 41. Letra E
+66. Letra E
 
-Item. 17. Errado 42. Letra C
-Item. 67. Letra A
+17. Errado 42. Letra C
+67. Letra A
 
-Item. 18. Correta 43. Letra B
-Item. 68. Letra A
+18. Correta 43. Letra B
+68. Letra A
 
 19.Errado 44. Letra B
-Item. 69. LetraE
+69. LetraE
 
-Item. 20. Letra A 45. Letra D
-Item. 70. Letra C
+20. Letra A 45. Letra D
+70. Letra C
 
-Item. 21. Letra C 46.Letra A
+21. Letra C 46.Letra A
 
-Item. 22. Letra D 47. Letra B
+22. Letra D 47. Letra B
 
-Item. 23. Letra E 48.Letra E
+23. Letra E 48.Letra E
 
-Item. 24. Letra B 49.Letra E
+24. Letra B 49.Letra E
 
-Item. 25. Letra A 50.Letra D
-
+25. Letra A 50.Letra D
 
 FRAMEWoRkS PYTHoN: DJANGo
 
@@ -8913,11 +8626,9 @@ usuário no
 banco de dados. Ele é responsável por lidar com a parte lógica da aplicação web, bem como como
 os dados são armazenados no banco de dados.
 
-
 / 174
 
 /
-
 
 * Views: Esta é uma interface de usuário. Ele é responsável por exibir os dados dos bancos de
 dados
@@ -8968,11 +8679,9 @@ Portanto, em nosso caso, uma "view" é a função de retorno de chamada do Pytho
 uma URL
 específica, porque essa função de retorno de chamada descreve quais dados são apresentados.
 
-
 / 174
 
 /
-
 
 Além disso, é sensato separar o conteúdo da apresentação - que é onde os templates
 entram. No
@@ -8985,7 +8694,6 @@ URL do Django.
 
 i (CESPE - SEFAZ CE- 2021) Com relação à arquitetura de desenvolvimento de software, julgue o i
 i item a seguir.
-
 
 i O framework Django utiliza a estrutura MTV (model-template-view), sendo template a
 camada i
@@ -9040,11 +8748,9 @@ codigo em Python.
 
 * Internacionalização - esse framework tem suporte a aplicações multi-linguagem.
 
-
 / 174
 
 /
-
 
 * NewForms - é possível gerar e manipular formulários facilmente através dos modelos de
 dados definidos.
@@ -9108,11 +8814,9 @@ O arquivo settings.py contém todas as configurações do projeto junto com os d
 conexão do banco de dados. Por padrão, o Django trabalha com SQLite, banco de dados e permite
 a configuração para outros bancos de dados também.
 
-
 / 174
 
 /
-
 
 A conectividade do banco de dados requer todos os detalhes da conexão, como nome do
 banco
@@ -9175,11 +8879,9 @@ tratamento da solicitação.
 
 Modelos Django
 
-
 / 174
 
 /
-
 
 Um modelo é a fonte única e definitiva de dados sobre seus dados. Ele contém os
 campos e
@@ -9203,12 +8905,12 @@ Django gerencia bem e produz páginas HTML que são visíveis para o usuário fi
 
 A função Template basicamente tem três parâmetros:
 
-Item. 1. Request: Solicitação Inicial.
+1. Request: Solicitação Inicial.
 
-Item. 2. O Caminho para criar templates - Existe a opção TEMPLATE_DIRS relacionada às variáveis
+2. O Caminho para criar templates - Existe a opção TEMPLATE_DIRS relacionada às variáveis
 projectpy que estão mudando.
 
-Item. 3. Dicionário de Parâmetros - Um dicionário que contém todo e qualquer
+3. Dicionário de Parâmetros - Um dicionário que contém todo e qualquer
 elemento
 necessário para o template.
 
@@ -9220,20 +8922,19 @@ de formulários fica melhor para a realização de uma série de tarefas comuns
 relacionadas a
 formulários. Usando-o, você pode:
 
-Item. 1. Mostrar um formulário HTML com widgets gerados automaticamente.
+1. Mostrar um formulário HTML com widgets gerados automaticamente.
 
-Item. 2. Verificar os dados submetidos conforme um conjunto de regras de validação.
+2. Verificar os dados submetidos conforme um conjunto de regras de validação.
 
-Item. 3. Re-exibir um formulário no caso de haver erros de validação.
+3. Re-exibir um formulário no caso de haver erros de validação.
 
-Item. 4. Converter dados de formulários submetidos a tipos relevantes do Python.
+4. Converter dados de formulários submetidos a tipos relevantes do Python.
 
 A biblioteca trabalha com os seguintes conceitos:
 
 Conceito | Descrição
 
 Uma classe que corresponde a um widget de formulário
-
 
 Widget
 
@@ -9246,11 +8947,9 @@ Uma classe que é responsável por fazer validação, e.g. um
 EmailField que assegura-se de que seu dado é um
 endereço de e-mail válido.
 
-
 / 174
 
 /
-
 
 Form
 Form Media
@@ -9303,11 +9002,9 @@ Escrever aplicações web pode ser monótono, porque nós repetimos certos padr�
 várias vezes. O Django tenta tirar um pouco dessa monotonia nas camadas de model e template,
 mas os desenvolvedores web também experimentam esse tédio na camada da view.
 
-
 / 174
 
 /
-
 
 As views genéricas do Django foram criadas para diminuir esse sofrimento. Elas pegam
 padrões
@@ -9371,11 +9068,9 @@ armazenados no sistema de arquivos. Este é um objeto que na verdade entende coi
 como
 sistema de arquivos, abertura e leitura de arquivos, etc.
 
-
 / 174
 
 /
-
 
 O sistema de armazenamento padrão do Django é dado pela
 configuração
@@ -9443,11 +9138,9 @@ parte das
 aplicações Web não são o washingtonpost.com oouslashdot.org; são simplesmente
 sites
 
-
 / 174
 
 /
-
 
 pequenos a médio com tráfico equivalente. Mas para aplicações de porte médio para
 grande, é
@@ -9478,7 +9171,6 @@ templates.
 0 objetivo da internacionalização é permitir que uma única aplicação web ofereça seus
 conteúdos e funcionalidades em múltiplas linguagens.
 
-
 0 desenvolvedor Django, pode conseguir isto adicionando uns poucos hooks ao seu código
 
 Python e templates. Estes hooks, chamados translation strings, dizem ao Django: "Este
@@ -9492,10 +9184,10 @@ execução, conforme as preferências de idioma do usuário. Essencialmente, o D
 duas
 coisas:
 
-Item. 1. Permite que o desenvolvedor ou autor de templates especifique quais partes de sua
+1. Permite que o desenvolvedor ou autor de templates especifique quais partes de sua
 aplicação podem ser traduzidas.
 
-Item. 2. Usa os hooks para traduzir a aplicação web para um usuário em particular de acordo com
+2. Usa os hooks para traduzir a aplicação web para um usuário em particular de acordo com
 sua preferência.
 
 Sinais (Signals)
@@ -9510,11 +9202,9 @@ ocorrido. Eles são especialmente úteis quando muitas peças de código podem e
 interessados
 nos mesmos eventos.
 
-
 / 174
 
 /
-
 
 O Django fornece um conjunto de sinais embutidos que deixam o código do usuário ser
 notificado pelo próprio Django sobre certas ações. Estas incluem algumas notificações úteis:
@@ -9578,11 +9268,9 @@ mysite/
 projeto. Seu nome não importa para o Django; você
 pode renomeá-lo para o que quiser.
 
-
 / 174
 
 /
-
 
 manage.py
 mysite/_init_.py
@@ -9634,11 +9322,9 @@ Comentários: Para iniciar seu projeto, o comando para a sua criação é: $
 django-admin
 startproject mysite (Gabarito: Letra C)
 
-
 / 174
 
 /
-
 
 Memcached
 
@@ -9667,11 +9353,9 @@ apresentação dos dados, as interfaces gráficas, por exemplo, ou ainda o local
 View -» é a camada que traz consigo a lógica do negócio. É o que determina o que vai acontecer
 no projeto.
 
-
 / 174
 
 /
-
 
 FRAMEWoRkS PYTHoN: FLASk
 
@@ -9723,11 +9407,9 @@ impossíveis de fazer mudança. Características do Flask:
 
 * Suporte para Cookies seguros;
 
-
 / 174
 
 /
-
 
 * Extensa documentação;
 
@@ -9769,5 +9451,4 @@ objetos,
 rastreamento, etc. Inclui uma biblioteca estatística de aprendizado de máquina que
 contém redes
 neurais, árvore de decisão e algoritmos de maximização.
-
 

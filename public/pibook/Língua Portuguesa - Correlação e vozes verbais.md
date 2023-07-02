@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Correlação e vozes verbais.
-
+# Língua Portuguesa - Correlação e vozes verbais.
 
 Índice
 
@@ -18,7 +17,6 @@ Capítulo. Língua Portuguesa - Correlação e vozes verbais.
 7) Lista de Questões - Vozes verbais - Cebraspe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NoçõES INICIAIS
 
@@ -52,7 +50,6 @@ isso faremos questões, e muitas, para consolidar todos os detalhes.
 Vamos em frente! I
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CoRRELAçÃo DoS TEMPoS VERBAIS
 
@@ -122,7 +119,6 @@ Ex.: Aonde quer que eu vá, eu levarei você no olhar...
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 (pres. subj.) (pres.)
 
 Ex.: Aonde quer que eu vá, eu levo você no olhar...
@@ -169,7 +165,6 @@ Não é produtivo querer gravar a regra de cada correlação, foque nos exemplos
 nas "correlações essenciais"!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 l«** IX
 
@@ -235,7 +230,6 @@ Gabarito letra B.
 (FUNPRESP-EXE / 2022)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Seja como for, está claro que a distinção entre o que seria natural e o que seria
 cultural não faz o menor
@@ -309,7 +303,6 @@ já foi extinto, e o homem da luz já deve ter se transferido para o mundo das t
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A correção gramatical e os sentidos do texto seriam mantidos caso a forma verbal
 "existia" fosse substituída
 por existisse.
@@ -382,7 +375,6 @@ parecem ter.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 : b) Ao serem visitadas, as instalações costumam impressionar o público que se deixa
 levar pela significação
 
@@ -448,7 +440,6 @@ este sempre dependerá das
 
 L; G...a..b..a..r.i.t.o...l.e..t.r.a...B
 
-
 IOM(
 NOTA!
 
@@ -459,12 +450,10 @@ Tem gerado nas últimas décadas = gerou nas últimas décadas
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Tinha estado = estivera; Tenha sido = haja sido
 Se pudéssemos, faríamos = se pudermos, faremos
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LoCUçÃo VERBAL X TEMPo CoMPoSTo
 
@@ -498,7 +487,6 @@ Alguns pontos não foram contabilizados na minha prova discursiva.
 Alguns pontos não se contabilizaram na minha prova discursiva, (próclise)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Embora as estruturas sejam equivalentes, "Não contabilizaram-se" seria erro de colocação
 pronominal, pois
@@ -564,7 +552,6 @@ sujeito. O "ser" da voz passiva
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Há uma locução de tempo composto "Ter+particípio", essa locução de tempo composto se
 mantém; então
 basta subtrair o verbo "ser" da locução passiva que teremos a voz ativa de novo.
@@ -594,13 +581,11 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 VoZES VERBAIS
 
 As vozes verbais indicam a relação do sujeito com o verbo, definindo o papel do
 sujeito como agente ou
 paciente.
-
 
 TIPO DE VOZ
 
@@ -608,13 +593,11 @@ EXPLICAÇÃO
 
 EXEMPLO
 
-
 VOZ ATIVA
 
 O sujeito é agente, pratica a ação.
 
 [O policial] deteve os criminosos.
-
 
 VOZ PASSIVA
 
@@ -624,7 +607,6 @@ recebe o efeito da ação.
 [Os criminososl foram detidos oelo policial.
 
 Detiveram-SE [os criminosos].
-
 
 VOZ REFLEXIVA
 
@@ -641,7 +623,6 @@ chance.
 (Nos dois primeiros exemplos, o SE tem função
 de objeto direto. No último, de objeto indireto
 (deu a si)).
-
 
 VOZ REFLEXIVA
 RECÍPROCA
@@ -678,7 +659,6 @@ Sujeito rbjeto direto
 O campeão foi derrotado pelo desafiante, (voz passiva analítica)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Suj. Paciente Ser+ Particípio Agente da passiva
 
@@ -745,7 +725,6 @@ consomem enchem não
 = apenas os armários, as garagens, as casas e as vidas, mas também as mentes das pessoas.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 : Sem prejuízo da correção gramatical e da coerência do texto, a oração "que se possuem e se
 consomem"
@@ -818,7 +797,6 @@ governo. / Se sinais de
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 "O próximo governo não encontrará [um ambiente econômico internacional sereno]" (voz ativa)
 
 Não será encontrado [um ambiente econômico internacional sereno] pelo próximo governo, (voz
@@ -887,7 +865,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Na conversão para a voz passiva, o objeto direto da voz ativa vira sujeito paciente.
 O tempo original do verbo
 (presente) deve ser mantido na locução (SER + particípio). O sujeito ativo vai virar agente da
@@ -955,7 +932,6 @@ Comentários:
 Vejamos:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 a) INCORRETO, "se dá" não configura voz passiva porque, aqui, "dar" não é verbo
 transitivo direto, mas sim
@@ -1029,7 +1005,6 @@ aceita voz passiva o verbo de ligação, pois é um verbo de estado, não é de 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 GUARDE UMA INFORMAÇÃO: a voz passiva está diretamente relacionada à existência de um
 objeto direto
 na voz ativa, pois ele vai virar sujeito paciente na voz passiva. Se não for
@@ -1092,7 +1067,6 @@ i passivo. Então, sem verbo transitivo direto, não há voz passiva. Então, ve
 indiretos (Letra C:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 levam a=proporcionam), intransitivos (Letra E: sair) ou de ligação (Letras A e D: era
 e estão) não admitem
@@ -1158,7 +1132,6 @@ Não é esperado [ISTO],
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Essa oração é sujeito paciente, ISTO não é esperado. Somente na voz ativa é que essa
 oração seria objeto
 direto. Eu espero [que o governo resolvo tudo sozinho] (Espero [ISTO]). Só nesse caso
@@ -1170,7 +1143,7 @@ I«** IX
 (INSS / 2016)
 
 Pena ganhou evidência como comediógrafo a partir de
-Item. 1838. ano em que foi encenada sua peça O Juiz de Paz na
+1838. ano em que foi encenada sua peça O Juiz de Paz na
 to Roça Embora tenha produzido alguns dramas (que lhe
 renderam duras criticas), destacou-se de fato pelas suas
 comédias e farsas, nas quais retratou a cultura e os costumes da
@@ -1218,7 +1191,6 @@ Vive-se bem aqui.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Sempre se está sujeito a erros.
 
 Não custa lembrar: cuidado com a voz reflexiva, em que o agente pratica a ação e
@@ -1233,11 +1205,10 @@ reflexivo ou se há um verbo sem sujeito conhecido no texto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTÕES COMENTADAS - CORRELAÇÃO VERBAL -
 CEBRASPE
 
-Item. 1. CEBRASPE / FUNPRESP-EXE / 2022
+1. CEBRASPE / FUNPRESP-EXE / 2022
 
 Seja como for, está claro que a distinção entre o que seria natural e o que seria
 cultural não faz o
@@ -1266,7 +1237,7 @@ poderá perceber este mundo como um todo.
 
 Questão correta.
 
-Item. 2. (CEBRASPE / SEFAZ-RS / 2019)
+2. (CEBRASPE / SEFAZ-RS / 2019)
 
 is Liszl. no entanto, registraria que um erro tipográfico
 invertera, no programa do concerto, os nomes de Pixis e
@@ -1289,7 +1260,7 @@ simples pela sua forma composta: tinha ou havia invertido.
 
 Gabarito letra D.
 
-Item. 3. (CEBRASPE / SEFAZ-RS / 2019)
+3. (CEBRASPE / SEFAZ-RS / 2019)
 
 A correção gramatical e os sentidos do texto 1A3-I seriam preservados caso o fragmento
 "favorecendo-se,
@@ -1301,12 +1272,11 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Incorreto. O verbo no futuro causa problema de correlação verbal, temos uma hipótese
 no pretérito, o verbo
 fica: "favoreceria".
 
-Item. 4. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
+4. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
 
 Nesse futuro não tão remoto, teremos conquistado a utopio de uma verdadeira justiça social.
 
@@ -1332,7 +1302,7 @@ valor de ação "já concluída" naquele momento.
 
 Questão incorreta.
 
-Item. 5. (CEBRASPE / PM-AL / 2017)
+5. (CEBRASPE / PM-AL / 2017)
 
 Enquanto se diz que os pobres da cidade são violentos, a atenção da violência que eles sofrem é
 invertida.
@@ -1354,7 +1324,7 @@ invertida.
 
 Questão incorreta.
 
-Item. 6. (CEBRASPE / TRE-BA / 2017)
+6. (CEBRASPE / TRE-BA / 2017)
 
 ...Esta [a discussão democrática do orçamento] tem sido uma prática, sobretudo no nível
 do poder local, que
@@ -1369,7 +1339,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 "Tem ajudado" é locução de pretérito perfeito composto, que indica
 uma ação que começou em
 determinado momento do passado e perdura no presente. Esta locução pode ser
@@ -1378,7 +1347,7 @@ ajudando", são equivalentes.
 
 Gabarito letra A.
 
-Item. 7. (CEBRASPE / TRF l5 REGIÃO / 2017)
+7. (CEBRASPE / TRF l5 REGIÃO / 2017)
 
 As recorrentes menções a esse tema (a economia informal) refletem as dificuldades que
 as organizações, os
@@ -1399,10 +1368,9 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTÕES COMENTADAS - VOZES VERBAIS - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-RS / 2022
+1. CEBRASPE / DPE-RS / 2022
 
 O consumismo é uma economia do logro, do excesso e do lixo, pois faz que o ser
 humano trabalhe
@@ -1428,7 +1396,7 @@ para a voz passiva analítica
 (SER+PARTICÍPIO: são possuídas/são consumidas)
 Questão correta.
 
-Item. 2. CEBRASPE / MJSP / 2022
+2. CEBRASPE / MJSP / 2022
 
 ...Dentro dessa perspectiva, contemplam-se ações voltadas para as drogas lícitas
 e ilícitas, e suas
@@ -1450,7 +1418,7 @@ contemplam-se ações voltadas para as drogas lícitas e ilícitas
 ações voltadas paro as drogas lícitas e ilícitas são contempladas
 Questão correta.
 
-Item. 3. (CEBRASPE / MP-CE / 2020)
+3. (CEBRASPE / MP-CE / 2020)
 
 Desenvolveram -se, de forma consistente, meios técnicos que também permitiram à
 informação viajar
@@ -1464,14 +1432,13 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Aqui, temos voz passiva sintética: VTD + SE. Para confirmar, observe o valor passivo:
 Desenvolveram-se meios técnicos =Meios técnicos foram desenvolvidos
 
 O núcleo do sujeito passivo é "meios", daí a forma no plural.
 Questão correta.
 
-Item. 4. (CEBRASPE / SEFAZ-DF / 2020)
+4. (CEBRASPE / SEFAZ-DF / 2020)
 
 Sem prejuízo da correção gramatical e da coerência do texto, o período
 "Sustentabilidade é vista como uma
@@ -1503,7 +1470,7 @@ coordenação (no ambiente ecológico, no [ambiente] social e no [ambiente] econ
 
 Questão correta.
 
-Item. 5. (CEBRASPE / PF / 2018)
+5. (CEBRASPE / PF / 2018)
 
 Dir-se-á, no entanto, que nenhum deles partilha realmente do direito de julgar; os
 peritos não intervêm antes
@@ -1527,10 +1494,9 @@ Dir-se-á [ISTO]
 [ISTO] SERÁ DITO A oração em colchetes é o sujeito do verbo.
 Questão correta.
 
-Item. 6. (CEBRASPE /SEFAZ-RS / 2018)
+6. (CEBRASPE /SEFAZ-RS / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 preservou-se, com o passar dos séculos, a associação dos atributos de beleza e
 expressão cultural ao valor
@@ -1563,7 +1529,7 @@ A associação FOI PRESERVADA.
 
 Gabarito letra C.
 
-Item. 7. (CEBRASPE /EBSERH / 2018)
+7. (CEBRASPE /EBSERH / 2018)
 
 Durante o período do Estado Novo (1937-1945), no governo de Getúlio Vargas, foram
 adotados dispositivos
@@ -1581,7 +1547,7 @@ AdotaraM-se Dispositivos.
 
 Questão incorreta.
 
-Item. 8. (CEBRASPE /STM / 2018)
+8. (CEBRASPE /STM / 2018)
 
 Todos esses senhores [que buscam pela violência o domínio sobre a mulher] parece que
 não sabem o que é
@@ -1603,7 +1569,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 No primeiro caso, os "senhores violentos" se julgam (julgam a si próprios) com o
 direto de impor o seu amor.
 Temos SE reflexivo.
@@ -1614,7 +1579,7 @@ apassivador. A classificação não é a mesma.
 
 Questão incorreta.
 
-Item. 9. (CEBRASPE /IHBDF / 2018)
+9. (CEBRASPE /IHBDF / 2018)
 
 A vida de Florence Nightingale, a criadora da moderna enfermagem, daria um romance.
 [...] Aos dezesseis
@@ -1649,10 +1614,9 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - VoZES VERBAIS - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-RS / 2022
+1. CEBRASPE / DPE-RS / 2022
 
 O consumismo é uma economia do logro, do excesso e do lixo, pois faz que o ser
 humano trabalhe
@@ -1668,7 +1632,7 @@ e se consomem"
 maneira: que são possuídas e
 consumidas.
 
-Item. 2. CEBRASPE / MJSP / 2022
+2. CEBRASPE / MJSP / 2022
 
 ...Dentro dessa perspectiva, contemplam-se ações voltadas para as drogas lícitas
 e ilícitas, e suas
@@ -1680,7 +1644,7 @@ No último período do segundo parágrafo, o termo "ações voltadas para as dro
 e ilícitas" constitui
 o sujeito da forma verbal "contemplam".
 
-Item. 3. (CEBRASPE / MP-CE / 2020)
+3. (CEBRASPE / MP-CE / 2020)
 
 Desenvolveram -se, de forma consistente, meios técnicos que também permitiram à
 informação viajar
@@ -1690,7 +1654,7 @@ O termo "Desenvolveram-se" (L.3) poderia ser substituído pela locução Foram
 desenvolvidos, sem prejuízo
 do sentido e da correção gramatical do texto.
 
-Item. 4. (CEBRASPE / SEFAZ-DF / 2020)
+4. (CEBRASPE / SEFAZ-DF / 2020)
 
 Sem prejuízo da correção gramatical e da coerência do texto, o período
 "Sustentabilidade é vista como uma
@@ -1702,7 +1666,7 @@ sustentabilidade como uma abordagem de negócios para criar valor a longo prazo,
 considerando-se como
 uma companhia opera no ambiente ecológico, no social e no econômico.
 
-Item. 5. (CEBRASPE / PF / 2018)
+5. (CEBRASPE / PF / 2018)
 
 Dir-se-á, no entanto, que nenhum deles partilha realmente do direito de julgar; os
 peritos não intervêm antes
@@ -1710,10 +1674,9 @@ da sentença para fazer um julgamento, mas para esclarecer a decisão dos juíze
 
 A expressão "Dir-se-á" (L.l) poderia ser corretamente substituída por Será dito.
 
-Item. 6. (CEBRASPE /SEFAZ-RS / 2018)
+6. (CEBRASPE /SEFAZ-RS / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 preservou-se, com o passar dos séculos, a associação dos atributos de beleza e
 expressão cultural ao valor
@@ -1732,7 +1695,7 @@ d) foram preservados.
 
 e) teria sido preservada.
 
-Item. 7. (CEBRASPE /EBSERH / 2018)
+7. (CEBRASPE /EBSERH / 2018)
 
 Durante o período do Estado Novo (1937-1945), no governo de Getúlio Vargas, foram
 adotados dispositivos
@@ -1740,7 +1703,7 @@ legais para fortalecer a família numerosa, por meio de diversas medidas...
 
 A substituição de "foram adotados" por adotou-se preservaria a correção e o sentido do texto.
 
-Item. 8. (CEBRASPE /STM / 2018)
+8. (CEBRASPE /STM / 2018)
 
 Todos esses senhores [que buscam pela violência o domínio sobre a mulher] parece que
 não sabem o que é
@@ -1758,7 +1721,7 @@ amor ou coisa equivalente?
 
 O vocábulo se recebe a mesma classificação em "se julgam" (L.2) e "se castigam" (L.6).
 
-Item. 9. (CEBRASPE /IHBDF / 2018)
+9. (CEBRASPE /IHBDF / 2018)
 
 A vida de Florence Nightingale, a criadora da moderna enfermagem, daria um romance.
 [...] Aos dezesseis
@@ -1784,28 +1747,25 @@ apassivador.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 GABARITo
 
+1. CORRETA
 
-Item. 1. CORRETA
+2. CORRETA
 
-Item. 2. CORRETA
+3. CORRETA
 
-Item. 3. CORRETA
+4. CORRETA
 
-Item. 4. CORRETA
+5. CORRETA
 
-Item. 5. CORRETA
+6. LETRA C
 
-Item. 6. LETRA C
+7. INCORRETA
 
-Item. 7. INCORRETA
+8. INCORRETA
 
-Item. 8. INCORRETA
-
-Item. 9. INCORRETA
+9. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

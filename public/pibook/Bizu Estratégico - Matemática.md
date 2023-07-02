@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Matemática.
-
+# Bizu Estratégico - Matemática.
 
 Olá, prezado aluno. Tudo certo?
 
@@ -13,7 +12,6 @@ Todos os bizus destinam-se a alunos que já estejam na fase bem final de revisã
 estudaram bastante o conteúdo teórico da disciplina e, nos últimos dias, precisam revisar por
 algum material bem curto e objetivo).
 
-
 ANÁLISE ESTATÍSTICA
 
 Segue abaixo uma análise estatística dos assuntos mais exigidos pela Banca Cebraspe, para
@@ -25,24 +23,19 @@ Assunto % de cobrança
 
 Teoria dos Conjuntos 33,33%
 
-
 Fração, Razão, Proporção e Regra de Três
 
 20,00%
-
 
 Porcentagem
 
 16,67%
 
-
 Conjuntos Numéricos
 
 10,00%
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Matemática - SERPRO
 
@@ -56,9 +49,7 @@ Porcentagem 10 a 14 http://questo. es/a 1 f7bm
 
 Fração, Razão, Proporção e Regra de Três 15 a 18 http://questo. es/mi3hcd
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Apresentação
 
@@ -91,13 +82,11 @@ auxiliá-lo(a) na disciplina de Matemática. Fiz uma análise bem cautelosa dos 
 queridos pela banca examinadora, e todos eles estão aqui! Cada questão no concurso vale
 ouro, então não podemos dar bobeira! Mãos à obra!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Teoria dos Conjuntos
 
-Item. 1. Igualdade de conjuntos
+1. Igualdade de conjuntos
 o Dois conjuntos são iguais se e somente se eles possuem os mesmos elementos
 (na definição de igualdade entre conjuntos não é relevante a noção de ordem entre
 os elementos).
@@ -125,11 +114,9 @@ o Mas não podemos afirmar que aE{{a,b},{a,c}}, pois os elementos de
 
 {{a,b},{a,c}} são conjuntos e não letras.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
-Item. 2. Conjunto das Partes
+2. Conjunto das Partes
 o O conjunto das Partes "P(A)" é o conjunto formado por todos os subconjuntos
 de um conjunto.
 
@@ -144,7 +131,7 @@ Temos 4 elementos.
 
 Portanto: 24 = 16
 
-Item. 3. Operações com conjuntos
+3. Operações com conjuntos
 o A interseção de dois conjuntos A e B é o conjunto formado pelos elementos que são
 comuns a A e B, isto é, pelos elementos que pertencem a A e também pertencem a
 B, ou seja, A e B. (AT! B).
@@ -162,9 +149,7 @@ Se AcB, então .4AB=.4
 o A União de dois conjuntos A e B é o conjunto formado reunião dos elementos
 desses conjuntos, ou seja, A ou B. (A U B).
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 7in>i=ji
 
@@ -196,18 +181,17 @@ Sendo A = {0,1,2,3}, B = {2, 4, 6} e C = {1,2,3,4}, determine (A - B) U (BA C).
 
 * (A- B) U (BA C) = {2, 4} U {0, 1, 3} = {0, 1, 2, 3, 4}
 
-Item. 4. Propriedades da união e interseção
+4. Propriedades da união e interseção
 o ?lU(7lAfí)=>4
 
 o 4AG4UB)=4
 
 o 4A(BUC)=(4AB)U(4AC)
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 o >lU(BnC)=(4UB)n(4UC)
 
-Item. 5. Complementação
+5. Complementação
 o Consideremos dois conjuntos A e B, tais que AcB. Chama-se complementar de
 A em relação a B o conjunto B - A, ou seja, o conjunto formado pelos elementos de B
 que não pertencem ao conjunto A.
@@ -228,7 +212,7 @@ Au A = U
 
 Af) A = &
 
-Item. 6. Uso dos Diagramas de Venn para a solução de problemas envolvendo conjuntos
+6. Uso dos Diagramas de Venn para a solução de problemas envolvendo conjuntos
 o Esses digramas possuem um papel fundamental na organização de dados.
 
 Total
@@ -236,7 +220,6 @@ Total
 A e B
 
 A ou B
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 o As questões normalmente pedem alguma dessas informações. Então para
@@ -264,7 +247,7 @@ usando 3 diagramas.
 
 Conjuntos Numéricos
 
-Item. 7. Conjunto dos Naturais (N), Inteiros (Z) e Racionais (Q)
+7. Conjunto dos Naturais (N), Inteiros (Z) e Racionais (Q)
 
 O conjunto dos números naturais é representado pelo símbolo RJ. Basicamente, esse
 conjunto compreenderá
@@ -275,9 +258,7 @@ N - (0,1,2,3,4,5,6,...}
 Para obtermos o conjunto dos números inteiros, basta pegar os naturais e
 adicionar os números negativos!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Chegamos aos conjuntos dos números racionais! O Q será formado pelo conjunto dos
 números inteiros
@@ -287,7 +268,7 @@ representado na forma de fração! Perceba, portanto, que o conjunto dos inteiro
 subconjunto dos
 racionais! Z C Q.
 
-Item. 8. Conjunto dos Irracionais (I), Reais (R) e Complexos (C)
+8. Conjunto dos Irracionais (I), Reais (R) e Complexos (C)
 
 Normalmente, representamos o conjunto dos irracionais como IR — Q ou simplesmente I.
 Lembre-se da
@@ -323,15 +304,11 @@ números reais em um diagrama, também usamos uma reta! É a chamada reta real!
 4 1 > I 1 1 1 1 * » 1 1<
 1 1 1 1 1 1 1 !-►
 
-
 .0
-
 
 .6
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 -Um número complexo é um número "z" que possui a forma:
 
@@ -343,7 +320,7 @@ z — a + bí a, b E IR e í — V —1
 
 IR c C
 
-Item. 9. Problemas envolvendo Conjuntos Numéricos
+9. Problemas envolvendo Conjuntos Numéricos
 
 * A soma de números naturais é sempre um número natural;
 
@@ -373,7 +350,7 @@ Item. 9. Problemas envolvendo Conjuntos Numéricos
 
 Porcentagem
 
-Item. 10. Percentual de um valor
+10. Percentual de um valor
 o Em geral, podemos trocar o denominador 100 pelo símbolo % (por cento).
 
 o Para calcular x% de um valor, basta multiplicar o valor pelo número
@@ -381,28 +358,23 @@ o Exemplo:
 
 Calcular 20% de 30% de 40% de 1.000.
 
-
 .1
-
 
 .6
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 _£2_. _22_. _Í2_. 1000 — 6000 — 24
 
 100 100 100 250
 
-Item. 11. Transformação de fração ordinária em taxa percentual
+11. Transformação de fração ordinária em taxa percentual
 o Para transformar uma fração ordinária ou um número qualquer em taxa percentual,
 basta multiplicá-la por 100%.
 
 o Exemplo:
 
 Transformar a fração 3/8 em taxa percentual.
-
 
 * - ³=³ - 100% =³⁰—⁰
 
@@ -414,7 +386,7 @@ Transformar 0,4 em taxa percentual.
 
 * 0,4 = 0,4 100% = 40%
 
-Item. 12. Participação percentual de uma parte do todo
+12. Participação percentual de uma parte do todo
 o Imagine um grupo de 300 pessoas, 120 são homens. Como calculamos a
 participação percentual dos homens?
 
@@ -422,8 +394,7 @@ Basta dividir a "parte" pelo "todo"
 
 — 100% = 40%
 
-
-Item. 13. Variação percentual
+13. Variação percentual
 o A razão entre a diferença de valores (valor final menos o valor inicial) e o preço inicial,
 expressa em forma de porcentagem, é chamada variação percentual.
 
@@ -437,15 +408,11 @@ Se i < 0, taxa é de decrescimento (desconto)
 
 o Exemplo:
 
-
 .2
-
 
 .6
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Exemplo: Guilherme decidiu comprar uma televisão no valor de R$ 1.200,00.
 Esperou o seu salário entrar no início do mês, para que ficasse mais
@@ -457,7 +424,7 @@ Vfinal ^inicial 1500-1200
 
 Vinicial 1200
 
-Item. 14. Variações percentuais sucessivas
+14. Variações percentuais sucessivas
 o Para diminuir p% de um valor original, devemos multiplicar por 100% - p%.
 
 o Para aumentar p% de um valor original, devemos multiplicar por 100% + p%.
@@ -483,7 +450,7 @@ r 100
 
 Fração, Razão e Proporção
 
-Item. 15. Operações com frações
+15. Operações com frações
 
 * Adição / Subtração - para somarmos/subtrairmos duas frações, deveremos deixá-
 las, necessariamente, com os mesmos denominadores. E para isso precisaremos
@@ -492,16 +459,12 @@ muitas vezes encontrar o Mínimo Múltiplo Comum (M.M.C).
 * Adição / Subtração - para somarmos/subtrairmos duas frações, deveremos deixá-
 las, necessariamente, com os mesmos denominadores. E para isso precisaremos
 muitas vezes encontrar o Mínimo Múltiplo Comum (M.M.C).
-
 
 .3
 
-
 .6
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 2 3 16 + 9 25
 
@@ -522,7 +485,6 @@ básica, repetimos a primeira fração e multiplicamos pelo inverso da segunda f
 
 ± " s'7"T7"2
 
-
 * Potenciação/Radiciação - o grande cuidado aqui que devemos ter é no lance do
 expoente da fração (-)n e do índice do radical n- .
 
@@ -532,7 +494,7 @@ expoente da fração (-)n e do índice do radical n- .
 
 5Z 25
 
-Item. 16. Múltiplos e divisores
+16. Múltiplos e divisores
 
 * O MMC de dois, três ou mais números inteiros é o menor número que é múltiplo
 simultaneamente dos dois, três ou mais números, com exceção do número 0
@@ -542,11 +504,9 @@ simultaneamente dos dois, três ou mais números, com exceção do número 0
 * O MDC entre dois ou mais números naturais é o maior número que os divide sem
 deixar resto.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 
-
-Item. 17. Média aritmética simples
+17. Média aritmética simples
 
 * A média aritmética preserva a soma da lista de números
 
@@ -557,7 +517,7 @@ Média= (x1+x2+x3+...+xn)/n
 
 Regra de Três Simples e Composta
 
-Item. 18. Regra de Três Simples e Composta
+18. Regra de Três Simples e Composta
 
 S Regra de três - Consiste em transformar uma proporção em uma equação matemática
 com uma incógnita. Para fazer isto, basta fazer uma multiplicação cruzada dos termos
@@ -567,13 +527,10 @@ Por exemplo: Considere que o mesmo carro percorra em média 500
 km com um tanque de 40 L de gasolina. Qual a distância percorrida
 se o carro utiliza 100 L de gasolina?
 
-
 Gasolina
 (L)
 
-
 Distância (km)
-
 
 X
 
@@ -592,15 +549,11 @@ mais proporções.
 Tudo que está no numerador das proporções 2 e 3 é multiplicado por X. Tudo
 que está no denominador das proporções 2 e 3 é multiplicado por 2.
 
-
 .5
-
 
 .6
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Vamos ficando por aqui.
 
@@ -608,5 +561,4 @@ Esperamos que tenha gostado do nosso Bizu!
 Bons estudos!
 
 l@)@profleomathias
-
 

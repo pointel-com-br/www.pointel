@@ -1,5 +1,4 @@
-Capítulo. Raciocínio Lógico - Equivalências Lógicas.
-
+# Raciocínio Lógico - Equivalências Lógicas.
 
 Índice
 
@@ -14,7 +13,6 @@ Capítulo. Raciocínio Lógico - Equivalências Lógicas.
 5) Lista de Questões - Equivalências Lógicas - Cebraspe
 
 6) Lista de Questões - Introdução à Álgebra de Proposições - Cebraspe
-
 
 APRESENTAçÃo DA AULA
 
@@ -40,7 +38,6 @@ Conte comigo nessa caminhada =)
 
 Prof. Eduardo Mocellin.
 (ÍS) @edu.mocellin
-
 
 EQUIVALÊNCIAS LóGICAS
 
@@ -87,7 +84,6 @@ Para negar "ou": negar ambas as proposições e trocar por "e".
 
 (pVq) = p«-»q
 
-
 [Negação da bicondicional|
 
 ~(poq) = pYq
@@ -97,7 +93,6 @@ Para negar "ou": negar ambas as proposições e trocar por "e".
 ~(p<^q) = p<->(~ q)
 
 ~(p<->q) = ( pA~q) V (qA~p)
-
 
 Outras equivalências
 
@@ -120,7 +115,6 @@ antecedente.
 Quanto o termo comum é o antecedente, a equivalência apresenta uma conjunção no consequente.
 
 (p->q)A(p->r) = p->(qAr)
-
 
 O que é uma equivalência lógica
 
@@ -169,11 +163,9 @@ Passo 1: determinar o número de linhas da tabela-verdade.
 
 Número de linhas = 2" = 22 = 4.
 
-
 'i
 
 Passo 2: desenhar o esquema da tabela-verdade.
-
 
 Devemos determinar:
 
@@ -194,7 +186,6 @@ consequente é falso.
 
 A conjunção (p->q)A(q-»p)
 (q—>p) for verdadeiro.
-
 
 i Para a bicondicional, já sabemos que ela será verdadeira quando p e q forem ambos
 verdadeiros ou ambos
@@ -225,7 +216,6 @@ OU
 
 p^>q = (p—»q )A(q—>p)
 
-
 Equivalências fundamentais
 
 Existem quatro equivalências fundamentais que devem ser entendidas e memorizadas. Dê
@@ -238,9 +228,9 @@ p->q = ~q->~p
 
 A equivalência é realizada do seguinte modo:
 
-Item. 1. Invertem-se as posições do antecedente e do consequente; e
+1. Invertem-se as posições do antecedente e do consequente; e
 
-Item. 2. Negam-se ambos os termos da condicional.
+2. Negam-se ambos os termos da condicional.
 
 Como exemplo, sejam as proposições:
 
@@ -269,7 +259,6 @@ então hoje não choveu".
 
 Em resumo: p->q não é equivalente a ~p->~q.
 
-
 Mostre que são equivalentes p-»q e ~q-»~p.
 
 Para mostrar a equivalência, montaremos a tabela-verdade de ~q->~p e compararemos com p-»q.
@@ -286,7 +275,6 @@ Por fim, podemos incluir na
 assumidos por ~q-»~p.
 
 Observe que os valores lógicos são exatamente iguais e, portanto, p->q e ~q->~p são equivalentes.
-
 
 Vamos resolver dois exercícios envolvendo essa equivalência que acabamos de aprender.
 
@@ -332,7 +320,6 @@ A proposição equivalente pode ser descrita por:
 ~o-»~u: "Se [não há fogo], então [não há fumaça]."
 
 Gabarito: Letra C.
-
 
 í (Pref. Bagé/2020) Uma proposição equivalente de "Se a prova está difícil, então
 Antônio não será aprovado
@@ -386,7 +373,6 @@ a->~p: "Se [Antônio for aprovado no concurso], então [a prova não está difí
 
 : Gabarito: Letra B.
 
-
 INDO MAIS
 
 FUNDO!
@@ -436,7 +422,6 @@ p: "A prova está difícil."
 
 = a: "Antônio não será aprovado."
 
-
 A proposição original é descrita por p-»a:
 
 p->a: "Se [a prova está difícil], então [Antônio não será aprovado no concurso]."
@@ -465,11 +450,11 @@ p-»q = ~pVq
 
 A equivalência é realizada do seguinte modo:
 
-Item. 1. Nega-se o primeiro termo;
+1. Nega-se o primeiro termo;
 
-Item. 2. Troca-se a condicional (-») pela disjunção inclusiva (V); e
+2. Troca-se a condicional (-») pela disjunção inclusiva (V); e
 
-Item. 3. Mantém-se o segundo termo.
+3. Mantém-se o segundo termo.
 
 Como exemplo, considere novamente a seguinte condicional:
 
@@ -477,7 +462,6 @@ p-»q: "Se [hoje choveu], então [João fez a barba]."
 Observe que a frase seguinte é equivalente:
 
 ~pVq: "[Hoje não choveu] ou [João fez a barba]."
-
 
 Mostre que são equivalentes p-»q e ~pVq
 
@@ -511,7 +495,6 @@ Observe que os valores lógicos são exatamente iguais e, portanto, p->q e ~pVq 
 equivalentes.
 
 p->q = ~pVq
-
 
 Vamos resolver duas questões que utilizam essa equivalência.
 
@@ -569,7 +552,6 @@ A dupla negação de uma proposição corresponde à proposição original. Fica
 
 : ~C"*g = ~g-»C
 
-
 A proposição equivalente pode ser escrita por:
 
 ~g->c:"Se [não caça com gato], então [tem cão]."
@@ -626,7 +608,6 @@ equivalência fundamental:
 
 p-»q = ~pVq
 
-
 A equivalência é realizada do seguinte modo:
 
 * Nega-se o primeiro termo;
@@ -649,11 +630,11 @@ pVq = ~p->q
 
 A equivalência é realizada do seguinte modo:
 
-Item. 1. Nega-se o primeiro termo;
+1. Nega-se o primeiro termo;
 
-Item. 2. Troca-se a disjunção inclusiva (V) pela condicional (->); e
+2. Troca-se a disjunção inclusiva (V) pela condicional (->); e
 
-Item. 3. Mantém-se o segundo termo.
+3. Mantém-se o segundo termo.
 
 Como exemplo, a disjunção inclusiva "[Pedro estuda] ou [trabalha]" é equivalente a "Se
 [Pedro não estuda],
@@ -684,7 +665,6 @@ chamar ;
 realizamos uma disjunção inclusiva com o segundo termo.
 
 (~P)->q = ~(~p)Vq
-
 
 A dupla negação de uma proposição simples é equivalente à própria proposição simples,
 isto é, ~(~p) = p.
@@ -747,7 +727,6 @@ A equivalência obtida é descrita por:
 ~nw~o: "Se [os cantadores da madrugada não saíram hoje], então [eu não ouço bem]."
 j Gabarito: Letra E.
 
-
 DESPENCA NA
 
 PROVA!
@@ -800,7 +779,6 @@ par, então o número não é par.
 
 ; Comentários:
 
-
 Sejam as proposições:
 
 p: "Um número inteiro é par."
@@ -827,7 +805,6 @@ Esse resultado pode ser lido como:
 inteiro não for par), então (o seu quadrado não é par)]."
 
 Gabarito: Letra A
-
 
 Equivalências provenientes da negação de proposições
 
@@ -868,7 +845,6 @@ Como exemplo, a dupla negação "Não é verdade que [Joãozinho não comeu o ch
 equivalente a
 "Joãozinho comeu o chocolate".
 
-
 ATENÇÃO
 
 DECORE!
@@ -883,9 +859,9 @@ Negação da conjunção
 
 Para realizar a negação conjunção pAq, deve-se seguir o seguinte procedimento:
 
-Item. 1. Negam-se ambas as parcelas da conjunção;
+1. Negam-se ambas as parcelas da conjunção;
 
-Item. 2. Troca-se a conjunção (A) pela disjunção inclusiva (V).
+2. Troca-se a conjunção (A) pela disjunção inclusiva (V).
 
 Como resultado, podemos escrever que a negação de pAq, também conhecida por ~(pAq), é
 equivalente a
@@ -909,7 +885,6 @@ A negação dessa frase é:
 
 r
 
-
 I
 
 j Mostre que são equivalentes ~(pAq) e ~p V~q.
@@ -920,7 +895,6 @@ proposições
 = simples de maneira alternada.
 
 = Para fins de comparação, vamos incluir ambas as proposições em uma mesma tabela.
-
 
 p q ~p ~q pf\q ~(p^q) ~py~q
 
@@ -980,16 +954,15 @@ equivalentes.
 
 ~ (pAq) =~p V~q
 
-
 Negação da disjunção inclusiva
 
 De modo semelhante à negação da conjunção, para negarmos a disjunção inclusiva pVq,
 devemos seguir o
 seguinte procedimento:
 
-Item. 1. Negam-se ambas as parcelas da disjunção inclusiva;
+1. Negam-se ambas as parcelas da disjunção inclusiva;
 
-Item. 2. Troca-se a disjunção inclusiva (V) pela conjunção (A).
+2. Troca-se a disjunção inclusiva (V) pela conjunção (A).
 
 Como resultado disso, podemos escrever que a negação de pVq, também conhecida
 por ~(pVq), é
@@ -1019,7 +992,6 @@ Para negar "e": negar ambas as proposições e trocar por "ou".
 Para negar "ou": negar ambas as proposições e trocar por "e".
 
 ~ (pVq) =~p A~q
-
 
 (SSP AM/2022) Considere a afirmação:
 
@@ -1072,7 +1044,6 @@ Logo, a negação requerida pode ser descrita por:
 
 Gabarito: Letra B.
 
-
 (SEMSA Manaus/2022) Considere a sentença:
 
 "Paulo é torcedor do Nacional ou Débora não é torcedora do Fast".
@@ -1124,7 +1095,6 @@ Logo, a negação requerida pode ser descrita por:
 
 Gabarito: Letra D.
 
-
 (TRT 9/2022) A negação da afirmação: "não ficou doente e vai ficar em casa" é:
 
 a) Ficou doente e não vai ficar em casa.
@@ -1173,7 +1143,6 @@ dv~c: "[Ficou doente] ou [não vai ficar em casa]."
 
 Gabarito: Letra C.
 
-
 (SAAE/2018) Considere a afirmação:
 
 Vou de tênis e visto um paletó, ou não faço sucesso.
@@ -1192,7 +1161,6 @@ e) Vou de tênis ou visto um paletó ou faço sucesso
 Comentário:
 
 Sejam as proposições simples:
-
 
 A afirmação do enunciado é dada por:
 
@@ -1231,7 +1199,6 @@ Morgan e, além disso, a dupla negação de s corresponde à proposição origin
 
 Gabarito: Letra A.
 
-
 Negação da condicional
 
 A negação de p-»q é realizada por meio da seguinte equivalência:
@@ -1240,11 +1207,11 @@ A negação de p-»q é realizada por meio da seguinte equivalência:
 
 A negação da condicional é realizada do seguinte modo:
 
-Item. 1. Mantém-se o primeiro termo;
+1. Mantém-se o primeiro termo;
 
-Item. 2. Troca-se a condicional (-») pela conjunção (A); e
+2. Troca-se a condicional (-») pela conjunção (A); e
 
-Item. 3. Nega-se o segundo termo.
+3. Nega-se o segundo termo.
 
 Como exemplo, considere a condicional:
 
@@ -1328,7 +1295,6 @@ A sentença original pode ser descrita por j-»f:
 
 j—»f: "Se [João vai ao jogo], então [o Flamengo perde]".
 
-
 i Para realizar a negação de uma condicional, usa-se a equivalência ~(p-»q)
 = pA~q. Para aplicar essa
 i equivalência, devemos seguir o seguinte procedimento:
@@ -1385,11 +1351,9 @@ i * Troca-se a condicional (->) pela conjunção (A); e
 
 : * Nega-se o segundo termo.
 
-
 .
 
 Aplicando para a condicional da questão, temos que a negação de e-»n é dada por:
-
 
 ~ (e-> n) = eA~n
 
@@ -1452,7 +1416,6 @@ Assim, temos:
 
 ~(pVq) E p«-»q
 
-
 ATENÇÃO
 
 DECORE!
@@ -1490,7 +1453,6 @@ equivalência já conhecida, a
 
 ~(pYq) E p<->q
 
-
 : Podemos negar os dois lados desse resultado da seguinte forma:
 
 ~(~(pYq)) E ~(p<->q)
@@ -1510,7 +1472,6 @@ esquerdo da equivalência
 : anterior:
 
 ~(poq) = (pYq)
-
 
 Podemos ainda negar a proposição bicondicional, negando apenas uma das suas proposições simples.
 Veja:
@@ -1560,7 +1521,6 @@ Finalmente chegamos à negação da bicondicional, utilizando apenas operadores 
 conjunção e
 disjunção inclusiva.
 
-
 ATENÇÃO
 
 DECORE!
@@ -1574,7 +1534,6 @@ As quatro formas mais comuns de negação da bicondicional são:
 ~ (p«*q) E q)
 
 ~ (p<->q) E (pA~ q) V (qA~p)
-
 
 Outras equivalências
 
@@ -1608,7 +1567,6 @@ Equivalência da negação do bicondicional ~(P<->q): nega-se apenas um dos term
 
 ~ (p<—>q) = po( q)
 
-
 ATENÇÃO
 
 DECORE!
@@ -1635,7 +1593,6 @@ d) Ou João passa no concurso público ou João estuda.
 ; Comentários:
 
 A proposição composta original é uma bicondicional p<->q cujos termos são:
-
 
 : p:" João passa no concurso
 público."
@@ -1669,9 +1626,7 @@ negação:
 
 p<H>q E (~p)o(~q)
 
-
 : Gabarito: Letra D.
-
 
 Negações da conjunção para a forma condicional
 
@@ -1730,7 +1685,6 @@ A dupla negação ~(~q) equivale à proposição original q. Logo:
 
 ~(pAq) E q ->~p
 
-
 ATENÇÃO
 
 DECORE!
@@ -1781,7 +1735,6 @@ Aplicando essas equivalências para o caso em questão, ficamos com:
 (ii) . ~(cA~f) = c^~(~f)
 
 (iii) . ~(cA~f) = ~f-> ~c
-
 
 Como uma dupla negação corresponde à proposição original, nossas equivalências ficam assim:
 
@@ -1834,7 +1787,6 @@ c-»f: "Se [corro], então [fico cansado]."
 
 Gabarito: Letra A.
 
-
 Conjunção de condicionais
 
 Existem duas equivalências que de vez em quando aparecem nas provas:
@@ -1854,7 +1806,6 @@ consequente.
 (p-»q)A(p->r) = p->(qAr)
 
 Podemos verificar as duas equivalências por tabela-verdade:
-
 
 j (SEFAZ-AL/2020) Considere as proposições:
 
@@ -1926,7 +1877,6 @@ valores lógicos (V ou
 atribuídos às proposições
 j simples que as compõem.
 
-
 Para o caso em questão, podemos montar a seguinte tabela-verdade:
 
 Veja que ambas as proposições apresentam a mesma tabela-verdade e, portanto, são equivalentes.
@@ -1956,7 +1906,6 @@ Vamos agora praticar algumas questões gerais sobre o que aprendemos.
 HORA DE
 
 PRATICAR!
-
 
 (CBM AM/2022) Gabriel comprou a camiseta do Nacional-AM, e guardou para uma ocasião
 especial. Certo
@@ -2014,7 +1963,6 @@ temos a seguinte equivalência:
 Logo, a negação requerida pode ser descrita por:
 
 ~vV(~jA~b): "[Não vestiu a camiseta] ou [(não foi ao jogo) e (não foi ao bar)]."
-
 
 Veja que essa negação é apresentada na alternativa E, que a representa a expressão "e não" por
 "nem":
@@ -2078,7 +2026,6 @@ me alimentei)]."
 
 = Gabarito: Letra C.
 
-
 (DEPEN/2021) Com relação a lógica proposicional, julgue o item a seguir.
 
 Considere as seguintes proposições
@@ -2130,9 +2077,7 @@ representada por sua forma equivalente ~(pA~q). O gabarito, portanto, é CERTO.
 
 Gabarito: CERTO.
 
-
 ÁLGEBRA DE PROPOSIÇÕES
-
 
 A álgebra de proposições trata do uso sequencial de equivalências lógicas e de outras
 propriedades para
@@ -2175,7 +2120,6 @@ pAq = qAp
 pVq = qVp
 pYq = qVp
 p<->q = q<->p
-
 
 EXEMPLIFICANDO
 
@@ -2221,7 +2165,6 @@ altera a ordem das proposições nas alternativas justamente para tentar esconde
 resposta. Vamos a um
 exemplo.
 
-
 (TJ SP/2015) Uma afirmação equivalente à afirmação: 'Se Marcondes é físico ou Isabela
 não é economista,
 então Natália não é advogada e Rui é médico', é:
@@ -2242,7 +2185,6 @@ Primeiramente, observe que a questão nos dá uma condicional e nos pede uma con
 equivalente. Isso
 significa que precisamos saber a contrapositiva:
 
-
 Vamos dar nomes às proposições simples:
 
 p-»q = ~q->~p
@@ -2250,7 +2192,6 @@ m: "Marcondes é físico."
 i: "Isabela é economista."
 n: "Natália é advogada."
 r: "Rui é médico."
-
 
 A proposição original do enunciado é dada por:
 
@@ -2276,7 +2217,6 @@ Devemos, então, procurar pela seguinte frase:
 
 II'Se [(Natália é advogada) ou (Rui não é médico)], então [(Marcondes não é físico) e (Isabela é
 economista)]"
-
 
 i Veja que a letra E apresenta uma frase muito parecida. Essa alternativa utilizou a propriedade
 comutativa
@@ -2326,7 +2266,6 @@ Observe que a propriedade associativa não mistura em uma mesma expressão o con
 "e" e o conectivo "ou"
 
 Vamos a um exemplo que mostra uma utilidade para a propriedade associativa.
-
 
 Mostre que pV(qV~p) é uma tautologia.
 
@@ -2392,7 +2331,6 @@ podemos escrever:
 
 j Gabarito: Letra A.
 
-
 Propriedade distributiva
 
 Na álgebra elementar, a propriedade distributiva da multiplicação com relação à adição
@@ -2440,7 +2378,6 @@ podemos colocar o
 termo "pv" em evidência.
 
 (p\/jq) A (pVr) = pV(qA r)
-
 
 (SEFAZ SC/2010) Na questão, considere a notação -X para a negação da proposição X.
 
@@ -2502,7 +2439,6 @@ k: "Sueli pratica corrida."
 : "[Sueli é professora] e, [(pratica ginástica) ou (pratica
 corrida)]."
 
-
 Logo, temos a seguinte representação:
 
 sA(gVk)
@@ -2560,7 +2496,6 @@ Aplicando a propriedade distributiva em "PV", temos:
 
 PV[QA~R] = [PVQ] A [PV~R]
 
-
 í Note, portanto, que a partir de PV[~(Q->R)] chegamos em [PVQ]A[PV~R]. Logo,
 as proposições são
 
@@ -2610,7 +2545,6 @@ Note que p A t é equivalente a p porque se trata de uma conjunção em que um t
 
 * Se p for falso, teremos F A V, que é uma conjunção falsa.
 
-
 Além disso, p A c é equivalente a c porque se trata de uma conjunção em que temos
 um termo sempre falso
 
@@ -2636,7 +2570,6 @@ sempre falso (c). Isso significa que o valor de pVc é consequência somente do 
 * Se p for verdadeiro, teremos V V F, que é uma disjunção verdadeira; e
 
 * Se p for falso, teremos F V F, que é uma disjunção falsa.
-
 
 Para fins de memorização, observe o análogo da teoria dos conjuntos:
 
@@ -2669,7 +2602,6 @@ A disjunção inclusiva de um termo com uma contradição corresponde ao própri
 
 ; Gabarito: Letra B.
 
-
 Propriedade da absorção
 
 A propriedade da absorção é representada por duas equivalências:
@@ -2682,7 +2614,6 @@ Para fins de memorização, observe o análogo da teoria dos conjuntos:
 pV(pAç) = p
 
 Essas equivalências são demonstráveis por tabela-verdade:
-
 
 p q pAç pV(pAç)
 
@@ -2722,7 +2653,6 @@ d) ~(P Aq).
 = Pela propriedade da absorção, sabemos que p A (p V q) = p. Logo, a negação pedida é ~p.
 
 = Gabarito: Letra A.
-
 
 Propriedade da idempotência
 
@@ -2768,7 +2698,6 @@ inclusiva e trocando
 Ficamos com:
 
 [PA(~Q)]A(~Q)
-
 
 Pela propriedade associativa, podemos escrever:
 
@@ -2827,7 +2756,6 @@ indicam uma ordem diferente de se executar o operador "ou". Utilizando a proprie
 associativa do lado
 direito da bicondicional, podemos reescrever:
 
-
 (~pV~q) V r <-> (~pV ~q) V r
 
 Podemos concluir, portanto, que ambos os lados da expressão bicondicional
@@ -2869,7 +2797,6 @@ todos os
 
 ~P-> (P-»Q)
 
-
 : Utilizando a equivalência p->q = ~pVq, temos:
 
 ~(~P)V(P—>Q)
@@ -2886,7 +2813,6 @@ Utilizando a propriedade associativa:
 PV~P é uma tautologia, logo:
 
 tVQ
-
 
 í Observe que t V Q é a disjunção inclusiva de um termo que é sempre verdade com
 a proposição Q. Portanto, i
@@ -2927,7 +2853,6 @@ inclusiva é sempre verdadeira
 (propriedade da identidade para a disjunção inclusiva). Logo, trata-se de uma tautologia.
 
 Gabarito: CERTO.
-
 
 QUESTõES CoMENTADAS - CEBRASPE
 
@@ -2974,7 +2899,6 @@ A proposição equivalente pode ser escrita por:
 m-»~p: "Se [Maria está mentindo], então [Paulo não está mentindo]."
 
 Gabarito: CERTO.
-
 
 2.(CESPE/PM TO/2021) A proposição "Se André é culpado então Bruno não é suspeito" é equivalente à
 a) "Se Bruno é suspeito então André é inocente".
@@ -3034,7 +2958,6 @@ b-»~a: "Se [Bruno é suspeito], então [André é inocente]."
 
 Gabarito: Letra A.
 
-
 3.(CESPE/SEFAZ AL/2020) P: "Se o trabalho dos servidores públicos que atuam
 no setor Alfa fica
 prejudicado, então os servidores públicos que atuam nesse setor padecem.".
@@ -3085,7 +3008,6 @@ seres humanos saberiam se comportar".
 Comentários:
 
 Sejam as proposições simples:
-
 
 h: "Os seres humanos sabem se comportar."
 
@@ -3139,7 +3061,6 @@ b->g: "Se [Sônia é baixa], então [Sônia pratica ginástica olímpica]."
 
 Para essa questão, vamos considerar correta a negação b utilizando o antônimo "alta". Nesse caso,
 temos:
-
 
 ~b: "Sônia é alta."
 
@@ -3200,7 +3121,6 @@ Uma equivalência fundamental envolvendo o conectivo condicional é a contraposi
 E ~q->~p. Para
 aplicar essa equivalência, devemos realizar o seguinte procedimento:
 
-
 * Invertem-se as posições do antecedente e do consequente; e
 
 * Negam-se ambos os termos da condicional.
@@ -3257,7 +3177,6 @@ aplicar essa equivalência, devemos realizar o seguinte procedimento:
 
 * Negam-se ambos os termos da condicional.
 
-
 Para o caso em questão, temos:
 
 ~b-»a = ~a->~(~b)
@@ -3305,7 +3224,6 @@ risco
 de ser punido)], [(aquele funcionário público será leniente com a fraude) ou (dela participará)]."
 
 Observe que a proposição a ser avaliada pode ser descrita por (cVd)->(aVb):
-
 
 (cVd)-»(aVb): "Se [(aquele funcionário público foi leniente com a fraude) ou (dela participou)],
 então
@@ -3365,7 +3283,6 @@ A dupla negação de b corresponde à proposição original. Logo, ficamos com:
 
 Essa proposição equivalente pode ser descrita por:
 
-
 bvd: "[Paulo foi ao banco] ou [ele está sem dinheiro]."
 
 A assertiva erra ao inserir o conectivo "e" no lugar do conectivo "ou". O gabarito,
@@ -3424,7 +3341,6 @@ P = R->S = ~ RV S
 
 Gabarito: CERTO.
 
-
 ll.(CESPE/PF/2018) P: "A nomeação do novo servidor público ocorre para reposição de
 vacância em área
 essencial, ou o candidato aprovado não será nomeado".
@@ -3456,7 +3372,6 @@ aplicar essa equivalência, devemos realizar o seguinte procedimento:
 
 * Mantém-se o segundo termo.
 
-
 Para o caso em questão, temos:
 
 nV~a = ~n->~a
@@ -3479,7 +3394,6 @@ eleição, serei atingido por uma benfeitoria que ele fizer após ser eleito".
 Comentários:
 
 Sejam as proposições simples:
-
 
 a: "O candidato X me dará um agrado antes da eleição."
 
@@ -3512,7 +3426,6 @@ benfeitoria que ele fizer após ser eleito]."
 A questão apresentou esse condicional na forma em que se omite o "então". O gabarito, portanto, é
 CERTO.
 Gabarito: CERTO.
-
 
 Negação da conjunção e da disjunção inclusiva (leis de De Morgan)
 
@@ -3556,7 +3469,7 @@ aluguéis não é alto]".
 
 Gabarito: CERTO.
 
-Item. 14. (CESPE/SEFAZ-AL/2020) A negação da proposição "Os servidores públicos que atuam
+14. (CESPE/SEFAZ-AL/2020) A negação da proposição "Os servidores públicos que atuam
 nesse setor
 padecem e os beneficiários dos serviços prestados por esse setor padecem." é corretamente expressa
 por
@@ -3567,7 +3480,6 @@ esse setor não padecem."
 Comentários:
 
 Sejam as proposições simples:
-
 
 s: "Os servidores públicos que atuam nesse setor padecem."
 
@@ -3627,7 +3539,6 @@ mundo.
 
 Comentário:
 
-
 Sejam as proposições simples:
 
 e: "Crescer além de certo porte é um ótimo negócio para empresários."
@@ -3679,7 +3590,6 @@ Comentários:
 
 Sejam as proposições simples:
 
-
 u: "O IPTU, eu pago parcelado."
 
 a: "O IPVA, eu pago em parcela única."
@@ -3729,7 +3639,6 @@ kVa: "[O síndico troca de carro] ou [reforma seu apartamento]."
 Para realizar a negação de uma disjunção inclusiva, usa-se a equivalência ~(pVq) =
 ~pA~q. Para aplicar essa
 equivalência, devemos seguir o seguinte procedimento:
-
 
 * Negam-se ambas as parcelas da disjunção inclusiva;
 
@@ -3784,7 +3693,6 @@ Para realizar a negação de uma disjunção inclusiva, usa-se a equivalência ~
 ~pA~q. Para aplicar essa
 equivalência, devemos seguir o seguinte procedimento:
 
-
 * Negam-se ambas as parcelas da disjunção inclusiva;
 
 * Troca-se a disjunção inclusiva (V) pela conjunção (A).
@@ -3804,7 +3712,7 @@ de "diminui".
 
 Gabarito: Letra A.
 
-Item. 19. (CESPE/MEC/2014) A negação da proposição "O candidato é pós-graduado ou sabe falar inglês"
+19. (CESPE/MEC/2014) A negação da proposição "O candidato é pós-graduado ou sabe falar inglês"
 pode
 ser corretamente expressa por "O candidato não é pós-graduado nem sabe falar inglês".
 
@@ -3835,7 +3743,6 @@ temos:
 ~(pVi) = ~p A ~i
 
 Logo, a negação pode ser descrita por:
-
 
 ~p A ~i: "[O candidato não é pós-graduado] e [o candidato não sabe falar inglês]."
 
@@ -3879,7 +3786,6 @@ será falso, ou seja, trata-se de uma contradição.
 
 Gabarito: CERTO.
 
-
 21.(CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
 
 Se P e Q forem proposições simples, então a proposição -[PV(--Q)]o[(-'P)AQ] é uma tautologia.
@@ -3907,7 +3813,6 @@ lógicos. Isso significa
 que a bicondicional é sempre verdadeira e, portanto, trata-se de uma tautologia.
 
 Gabarito: CERTO.
-
 
 Negação da Condicional
 
@@ -3958,7 +3863,6 @@ há crime.",
 julgue a seguir.
 
 A negação da proposição Q pode ser corretamente expressa por "Não há evidência, mas há crime.".
-
 
 Comentários:
 
@@ -4014,7 +3918,6 @@ Comentários:
 
 Devemos verificar se a bicondicional pAq<^~(p^~q) é uma tautologia.
 
-
 Observe que a segunda parcela, dada por ~(p-»~q), é a negação de uma condicional.
 
 Para realizar a negação de uma condicional, usa-se a equivalência ~(p-»q) =
@@ -4049,7 +3952,7 @@ sempre verdadeira. Logo, é correto afirmar que a bicondicional é uma tautologi
 
 Gabarito: CERTO.
 
-Item. 25. (CESPE/ANVISA/2016) Julgue o seguinte item, relativo a raciocínio lógico, a princípios de
+25. (CESPE/ANVISA/2016) Julgue o seguinte item, relativo a raciocínio lógico, a princípios de
 contagem e
 probabilidade e a operações com conjuntos.
 
@@ -4067,7 +3970,6 @@ p: "João tem problemas cardíacos."
 
 r: "João toma remédios que controlam a pressão."
 A proposição composta original pode ser definida pela condicional p->r:
-
 
 p-»r: "Se [João tem problemas cardíacos], então [ele toma remédios que controlam a pressão]."
 
@@ -4126,7 +4028,6 @@ equivalência, devemos seguir o seguinte procedimento:
 
 * Troca-se a condicional (-») pela conjunção (A); e
 
-
 * Nega-se o segundo termo.
 
 Para o caso em questão, temos:
@@ -4178,7 +4079,6 @@ Logo, a negação pode ser descrita por:
 
 eA~d: "[João se esforçou o bastante] e [não conseguiu o que desejava]".
 
-
 A negação apresentada está errada, pois corresponde a ~eAd. Observe que a expressão
 "mas, mesmo assim"
 corresponde à conjunção "e".
@@ -4187,7 +4087,7 @@ corresponde à conjunção "e".
 
 Gabarito: ERRADO.
 
-Item. 28. (CESPE/COGE-CE/2019) Pl: Se os recursos foram aplicados em finalidade diversa da prevista ou
+28. (CESPE/COGE-CE/2019) Pl: Se os recursos foram aplicados em finalidade diversa da prevista ou
 se a
 obra foi superfaturada, então a prestação de contas da prefeitura não foi aprovada.
 
@@ -4239,7 +4139,6 @@ equivalência, devemos seguir o seguinte procedimento:
 
 Para o caso em questão, temos:
 
-
 ~[(aVs)-»p] = (aVs) A ~p
 
 Utilizando o conectivo "mas" para representar a conjunção, temos:
@@ -4248,7 +4147,6 @@ Utilizando o conectivo "mas" para representar a conjunção, temos:
 superfaturada)], mas [a prestação de contas da prefeitura foi aprovada]".
 
 Gabarito: Letra A.
-
 
 Outras equivalências e negações
 
@@ -4274,7 +4172,7 @@ equivalentes.
 
 Gabarito: ERRADO.
 
-Item. 30. (CESPE/TCE-RS/2013) Com base na proposição P: "Quando o cliente vai ao banco
+30. (CESPE/TCE-RS/2013) Com base na proposição P: "Quando o cliente vai ao banco
 solicitar um
 empréstimo, ou ele aceita as regras ditadas pelo banco, ou ele não obtém o dinheiro",
 julgue o item que
@@ -4289,7 +4187,6 @@ cliente não obtém o dinheiro"
 Comentários:
 
 Sejam as proposições simples:
-
 
 p: "O cliente aceita as regras ditadas pelo banco."
 
@@ -4344,7 +4241,6 @@ equivalentes, pois correspondem à seguinte equivalência:
 
 (p-»r)A(q->r) = (pVq)->r
 
-
 Caso você não se lembre dessa equivalência na hora da prova, não se esqueça que
 SEMPRE podemos
 recorrer à tabela-verdade para verificar se duas proposições são equivalentes.
@@ -4387,13 +4283,11 @@ proposições são equivalentes, pois correspondem à seguinte equivalência:
 
 (p-»r)A(q->r) = (pVq)->r
 
-
 Caso você não se lembre dessa equivalência na hora da prova, não se esqueça que
 SEMPRE podemos
 recorrer à tabela-verdade para verificar se duas proposições são equivalentes.
 
 Gabarito: CERTO.
-
 
 Questões com mais de uma equivalência
 
@@ -4447,7 +4341,6 @@ um quadro", de fato pode ser
 representada por sua forma equivalente ~(pA~q). O gabarito, portanto, é CERTO.
 
 Gabarito: CERTO.
-
 
 34.(CESPE/PC DF/2021) A proposição "Se Marcos é culpado, então Paulo ou Carlos são inocentes."
 equivale
@@ -4504,7 +4397,6 @@ A dupla negação de m corresponde à proposição original. Ficamos com:
 
 ~m->pVc E ~pA~c ->m
 
-
 Logo, temos a seguinte equivalência:
 
 ~pA~c -»m: "Se [(Paulo é culpado) e (Carlos é culpado)], então [Marcos é inocente]."
@@ -4520,7 +4412,7 @@ condicional, quando deveria apresentar a conjunção "e".
 
 Gabarito: ERRADO.
 
-Item. 35. (CESPE/CBM AL/2017) A respeito de proposições lógicas, julgue o item a seguir.
+35. (CESPE/CBM AL/2017) A respeito de proposições lógicas, julgue o item a seguir.
 Considere que P e Q sejam as seguintes proposições:
 
 P: Se a humanidade não diminuir a produção de material plástico ou não encontrar uma
@@ -4554,7 +4446,6 @@ A segunda proposição pode ser descrita por (d A s) V a:
 (d A s) V a: "[A humanidade diminui a produção de material plástico] e [encontra uma solução para o
 problema do lixo desse material] ou [o acúmulo de plástico no meio ambiente degradará a vida no
 planeta]."
-
 
 Devemos verificar se (~d V~s)-»a é equivalente a (d A s) V a.
 
@@ -4614,8 +4505,7 @@ equivalentes.
 
 Gabarito: CERTO.
 
-
-Item. 37. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à conjunção
+37. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à conjunção
 "e"; V, à
 disjunção "ou"; —à condicional "se..., então"; <->, à bicondicional "se, e somente se";
 ~ corresponda
@@ -4665,13 +4555,12 @@ negação de [PA~(QVR)j.
 
 Gabarito: ERRADO.
 
-Item. 38. (CESPE/TCE-ES/2012) Proposições são sentenças que podem ser julgadas como verdadeiras — V — ou
+38. (CESPE/TCE-ES/2012) Proposições são sentenças que podem ser julgadas como verdadeiras — V — ou
 falsas — F —, de forma que um julgamento exclui o outro, e são simbolizadas por letras maiusculas,
 como
 P, Q, R e S. A partir de proposições conhecidas, novas proposições podem ser
 construídas usando-se
 símbolos especiais. Alguns desses símbolos são apresentados na tabela abaixo.
-
 
 símbolo
 
@@ -4706,7 +4595,6 @@ V, se P e Q forem V; caso contrário, será F
 
 F, se P e Q forem F; caso contrário, será V
 F, se P for V e Q for F; caso contrário, será V
-
 
 <—>
 
@@ -4762,8 +4650,7 @@ termos da direita são iguais. Logo, as proposições são equivalentes.
 
 Gabarito: CERTO.
 
-
-Item. 39. (CESPE/SEFAZ-ES/2010) Considerando os símbolos lógicos - (negação), A (conjunção), V
+39. (CESPE/SEFAZ-ES/2010) Considerando os símbolos lógicos - (negação), A (conjunção), V
 (disjunção), ->
 (condicional) e as proposições
 julgue o item que se segue.
@@ -4802,7 +4689,6 @@ equivalentes.
 
 Gabarito: CERTO.
 
-
 Questões com mais de um item
 
 Texto para as próximas questões
@@ -4816,25 +4702,25 @@ receber os benefícios providos pela associação de moradores de seu condomíni
 Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
 Tendo como referência essas proposições, julgue os itens a seguir.
 
-Item. 40. (CESPE/SEFAZ AL/2021) Considerando-se verdadeira a proposição P, é correto concluir que, se
+40. (CESPE/SEFAZ AL/2021) Considerando-se verdadeira a proposição P, é correto concluir que, se
 Marcos
 não tem direito a receber os benefícios providos pela associação de moradores de seu condomínio,
 então,
 necessariamente, ele não figura no quadro de associados nem está com os pagamentos em dia.
 
-Item. 41. (CESPE/SEFAZ AL/2021) A proposição P é equivalente à proposição "Se Marcos não figura no quadro
+41. (CESPE/SEFAZ AL/2021) A proposição P é equivalente à proposição "Se Marcos não figura no quadro
 de
 associados ou não está com os pagamentos em dia, então ele não tem direito a receber
 os benefícios
 providos pela associação de moradores de seu condomínio.".
 
-Item. 42. (CESPE/SEFAZ AL/2021) A proposição P é equivalente à proposição "Se Marcos tem direito a
+42. (CESPE/SEFAZ AL/2021) A proposição P é equivalente à proposição "Se Marcos tem direito a
 receber os
 benefícios providos pela associação de moradores de seu condomínio, então ele figura no
 quadro de
 associados e está com os pagamentos em dia.".
 
-Item. 43. (CESPE/SEFAZ AL/2021) A proposição Q é uma negação da proposição "Se Marcos está
+43. (CESPE/SEFAZ AL/2021) A proposição Q é uma negação da proposição "Se Marcos está
 com os
 pagamentos em dia, então ele figura no quadro de associados.".
 
@@ -4860,7 +4746,6 @@ descrita por ~aAd.
 
 ~aAd: "[Marcos não figura no quadro de associados], mas [ele está com os pagamentos em dia]."
 Feitas essas observações, vamos avaliar os itens da questão.
-
 
 Questão 40
 
@@ -4911,7 +4796,6 @@ Questão 41
 Sabemos que a proposição composta P pode ser descrita por aAd->b.
 
 Note que o item apresenta como supostamente equivalente a P a proposição composta ~aV~d-»~b:
-
 
 ~aV~d-»~b: "Se [(Marcos não figura no quadro de associados) ou (não está com os pagamentos em dia)],
 então [ele não tem direito a receber os benefícios providos pela associação de moradores de seu
@@ -4971,7 +4855,6 @@ Para o caso em questão, temos que a negação de ~aAd, dada por ~{~aAd), é:
 
 ~(~aAd) = ~a—»~d
 
-
 Logo, a negação da proposição composta Q pode ser descrita por:
 
 ~a-»~d: "Se [Marcos não figura no quadro de associados], então [Marcos não está com os pagamentos
@@ -5001,11 +4884,11 @@ conclusão, e Pl a P3 são
 
 = as premissas, julgue os itens a seguir.
 
-Item. 44. (CESPE/PF/2021) A proposição Pl é equivalente a "Não é verdade que a fiscalização
+44. (CESPE/PF/2021) A proposição Pl é equivalente a "Não é verdade que a fiscalização
 foi deficiente e
 que as falhas construtivas foram corrigidas".
 
-Item. 45. (CESPE/PF/2021) Uma negação correta da proposição Pl pode ser expressa por: "Se a fiscalização
+45. (CESPE/PF/2021) Uma negação correta da proposição Pl pode ser expressa por: "Se a fiscalização
 não
 foi deficiente, as falhas construtivas foram corrigidas".
 
@@ -5026,7 +4909,6 @@ p: "Os mutuários tiveram prejuízos."
 Note que a proposição Pl corresponde à condicional d-»~c escrita na forma em que se
 omite o "então":
 d-»~c: "Se [a fiscalização foi deficiente], [as falhas construtivas não foram corrigidas]."
-
 
 Além disso, a proposição P2 corresponde à condicional c-»~p escrita na forma em que se omite o
 "então":
@@ -5082,7 +4964,6 @@ A dupla negação em c corresponde à proposição original, de modo que a nega�
 
 ~(d-»~c) = dAc
 
-
 Logo, a negação correta é:
 
 dAc: "(A fiscalização foi deficiente) e (as falhas construtivas foram corrigidas)"
@@ -5112,7 +4993,6 @@ Gabarito: 44 - CERTO. 45 - ERRADO. 46 - ERRADO.
 
 Texto para as próximas questões
 
-
 I
 
 : Julgue os seguintes itens, considerando a proposição P: "Se o responsável pela
@@ -5121,11 +5001,11 @@ indicação fizer sua parte e j
 : seus aliados trabalharem duro, vencerão.".
 ;
 
-Item. 47. (CESPE/MJSP/2021) A proposição P é equivalente a "Se não vencermos, o responsável pela
+47. (CESPE/MJSP/2021) A proposição P é equivalente a "Se não vencermos, o responsável pela
 indicação
 não terá feito sua parte ou seus aliados não terão trabalhado duro.".
 
-Item. 48. (CESPE/MJSP/2021) A negação da proposição P pode ser expressa por "Se o responsável pela
+48. (CESPE/MJSP/2021) A negação da proposição P pode ser expressa por "Se o responsável pela
 indicação
 não fizer sua parte ou seus aliados não trabalharem duro, não vencerão.".
 
@@ -5141,7 +5021,6 @@ v: "(Eles) vencerão."
 
 Note que a proposição P pode ser descrita pela condicional fAa->v na forma em que se omite o
 "então".
-
 
 fAa-»v: "Se [(o responsável pela indicação fizer sua parte) e (seus aliados trabalharem duro)],
 [vencerão]."
@@ -5196,7 +5075,6 @@ equivalência: p-*q = pA~q. Para o caso em questão, a negação de P é dada po
 
 Logo, a negação correta é:
 
-
 (fAa)A~v: "(O responsável pela indicação faz sua parte) e (seus aliados trabalharam duro) e (não
 vencerão)"
 
@@ -5204,7 +5082,6 @@ O gabarito, portanto, é ERRADO.
 Gabarito: 47 - CERTO. 48 - ERRADO.
 
 Texto para as próximas questões
-
 
 I
 
@@ -5214,11 +5091,11 @@ cidadão-cliente fica satisfeito", julgue =
 = os itens a seguir.
 ;
 
-Item. 49. (CESPE/SEFAZ DF/2020) A proposição P é logicamente equivalente à seguinte
+49. (CESPE/SEFAZ DF/2020) A proposição P é logicamente equivalente à seguinte
 proposição: "Se o
 cidadão-cliente não fica satisfeito, então o servidor não gosta do que faz".
 
-Item. 50. (CESPE/SEFAZ DF/2020) A proposição "O servidor não gosta do que faz, ou o cidadão-cliente não
+50. (CESPE/SEFAZ DF/2020) A proposição "O servidor não gosta do que faz, ou o cidadão-cliente não
 fica
 satisfeito" é uma maneira correta de negar a proposição P.
 
@@ -5252,7 +5129,6 @@ A proposição equivalente pode ser escrita por:
 
 ~s->~g:" Se [o cidadão-cliente não fica satisfeito], então [o servidor não gosta do que faz]."
 
-
 O gabarito, portanto, é CERTO.
 
 Questão 50
@@ -5285,10 +5161,10 @@ o que desejar", julgue
 
 : os itens a seguir.
 
-Item. 51. (CESPE/MPOG/2015) A proposição "João não se esforça o bastante ou João conseguirá o que desejar"
+51. (CESPE/MPOG/2015) A proposição "João não se esforça o bastante ou João conseguirá o que desejar"
 é logicamente equivalente à proposição P.
 
-Item. 52. (CESPE/MPOG/2015) A proposição "Se João não conseguiu o que desejava, então João não se esforçou
+52. (CESPE/MPOG/2015) A proposição "Se João não conseguiu o que desejava, então João não se esforçou
 o bastante" é logicamente equivalente à proposição P.
 
 Comentários:
@@ -5302,7 +5178,6 @@ A proposição composta P pode ser definida pela condicional e-»d:
 
 e-»d:"Se [João se esforçar o bastante], então [João conseguirá o que desejar]."
 Vamos agora verificar as assertivas.
-
 
 Questão 51
 
@@ -5350,7 +5225,6 @@ A proposição equivalente pode ser escrita por:
 
 Gabarito: 51 - CERTO. 52 - CERTO.
 
-
 .
 
 Texto para as próximas questões
@@ -5362,17 +5236,17 @@ aquela que prejudique j
 
 = seus interesses".
 
-Item. 53. (CESPE/PF/2O18) A proposição P é logicamente equivalente à proposição: "Não é
+53. (CESPE/PF/2O18) A proposição P é logicamente equivalente à proposição: "Não é
 verdade que o bom
 jornalista faça reportagem em benefício próprio ou que deixe de fazer aquela que
 prejudique seus
 interesses".
 
-Item. 54. (CESPE/PF/2018) A negação da proposição P está corretamente expressa por: "O bom
+54. (CESPE/PF/2018) A negação da proposição P está corretamente expressa por: "O bom
 jornalista faz
 reportagem em benefício próprio e deixa de fazer aquela que não prejudique seus interesses".
 
-Item. 55. (CESPE/PF/2018) A negação da proposição P está corretamente expressa por: "Se o bom jornalista
+55. (CESPE/PF/2018) A negação da proposição P está corretamente expressa por: "Se o bom jornalista
 não
 faz reportagem em benefício próprio, então ele deixa de fazer aquela reportagem que
 prejudica seus
@@ -5409,7 +5283,6 @@ que as duas proposições compostas são equivalentes:
 ~(rV p) = ~rA~p
 
 O gabarito, portanto, é CERTO.
-
 
 Questão 54
 
@@ -5467,11 +5340,9 @@ Em português, (~r) -» q corresponde à negação apresentada:
 fazer aquela
 reportagem que prejudica seus interesses]."
 
-
 O gabarito, portanto, é CERTO.
 
 Gabarito: 53 - CERTO. 54 - ERRADO. 55 - CERTO.
-
 
 *
 * .
@@ -5490,13 +5361,13 @@ a legitimidade da ;
 Ê Tendo como referência a proposição apresentada, julgue os itens seguintes.
 ;
 
-Item. 56. (CESPE/TC-DF/2014) A proposição P é logicamente equivalente à proposição "Se não
+56. (CESPE/TC-DF/2014) A proposição P é logicamente equivalente à proposição "Se não
 condenarmos a
 corrupção por motivos econômicos, a condenaremos por ser imoral e por corroer a
 legitimidade da
 democracia".
 
-Item. 57. (CESPE/TC-DF/2014) A proposição P é logicamente equivalente à proposição
+57. (CESPE/TC-DF/2014) A proposição P é logicamente equivalente à proposição
 "Condenaremos a
 corrupção por ser imoral ou por corroer a legitimidade da democracia ou por motivos econômicos".
 
@@ -5532,7 +5403,6 @@ Para aplicar essa equivalência, devemos realizar o seguinte procedimento:
 * Negam-se ambos os termos da condicional.
 
 Para o caso em questão, temos:
-
 
 (~i V~d) -»e = ~e -» ~(~i V~d)
 
@@ -5584,7 +5454,6 @@ conectivo "e".
 O gabarito, portanto, é ERRADO.
 Gabarito: 56 - CERTO. 57 - ERRADO.
 
-
 QUESTõES CoMENTADAS - CEBRASPE
 
 Álgebra de proposições
@@ -5634,7 +5503,6 @@ questão será
 sempre verdadeira. Logo, é correto afirmar que a bicondicional é uma tautologia.
 
 Gabarito: CERTO.
-
 
 2.(CESPE/EMAP/2018) Julgue o item seguinte, relativo à lógica proposicional e de argumentação.
 
@@ -5694,7 +5562,6 @@ suficiente por sua utilização nos primeiros anos de operação".
 
 Comentários:
 
-
 Sejam as proposições simples:
 
 g:" O governo quer que a ferrovia seja construída."
@@ -5752,7 +5619,6 @@ volumosos
 investimentos iniciais na construção] ou [haverá demanda suficiente por sua utilização nos
 primeiros anos
 de operação]."
-
 
 A proposição que obtivemos difere da apresentada na assertiva somente pelo
 primeiro ou, que não é
@@ -5815,7 +5681,6 @@ podemos aplicar a mesma equivalência nessa parcela:
 
 ~[P->(Q->R)] = PA[QA(~R)J
 
-
 A equivalência obtida corresponde à alternativa D, que não apresenta os
 colchetes. Isso porque, pela
 propriedade associativa, podemos executar as conjunções em qualquer ordem.
@@ -5856,7 +5721,6 @@ necessariamente
 uma das duas parcelas é verdadeira. Isso significa que o nosso consequente fica:
 
 t V R
-
 
 Observe que t V R é uma disjunção inclusiva com um dos termos sempre verdadeiro t.
 Trata-se de uma
@@ -5903,7 +5767,6 @@ Veja que, ao colocar
 as duas proposições compostas em uma mesma tabela, percebe-se que elas não são
 equivalentes, pois seus
 valores são diferentes na primeira e na sétima linha.
-
 
 p Q R ~P ~Q ~R PA~Q QA~P [PÁ-O]—>~R R >[QA~P]
 
@@ -5968,7 +5831,6 @@ W: "é divisível por 15";
 
 então a proposição --Q, a negação de Q, poderá ser corretamente expressa por UAVA(--W).
 
-
 Comentários:
 
 Q é uma condicional que pode ser escrita do seguinte modo:
@@ -6009,7 +5871,6 @@ Comentários:
 Primeiramente, vale notar que a construção da tabela-verdade é uma solução possível.
 Ocorre que essa não
 é a melhor forma de se resolver a questão, pois levaria mais tempo.
-
 
 Vamos resolver o problema por álgebra de proposições.
 
@@ -6083,7 +5944,6 @@ ERRADO.
 
 Gabarito: ERRADO.
 
-
 1O.(CESPE/CADE/2O14) Considerando os conectivos lógicos usuais e que as letras maiúsculas
 representem
 proposições lógicas simples, julgue o item seguinte acerca da lógica proposicional.
@@ -6134,12 +5994,11 @@ lógico. Sendo assim, a bicondicional sempre será verdadeira, tratando-se de um
 
 Gabarito: CERTO.
 
-
 Equivalências lógicas
 
 Equivalências fundamentais
 
-Item. 1. (CESPE/PC DF/2021) Com relação a estruturas lógicas, lógica de argumentação e lógica
+1. (CESPE/PC DF/2021) Com relação a estruturas lógicas, lógica de argumentação e lógica
 proposicional,
 julgue o item subsequente.
 
@@ -6147,7 +6006,7 @@ A proposição "Se Paulo está mentindo, então Maria não está mentindo" é eq
 proposição "Se
 Maria está mentindo, então Paulo não está mentindo".
 
-Item. 2. (CESPE/PM TO/2021) A proposição "Se André é culpado então Bruno não é suspeito" é equivalente à
+2. (CESPE/PM TO/2021) A proposição "Se André é culpado então Bruno não é suspeito" é equivalente à
 a) "Se Bruno é suspeito então André é inocente".
 
 b) "Se Bruno não é suspeito então André é culpado".
@@ -6158,7 +6017,7 @@ d) "Se André é inocente então Bruno é culpado".
 
 e) "Se André não é culpado então Bruno é suspeito".
 
-Item. 3. (CESPE/SEFAZ AL/2020) P: "Se o trabalho dos servidores públicos que atuam no setor
+3. (CESPE/SEFAZ AL/2020) P: "Se o trabalho dos servidores públicos que atuam no setor
 Alfa fica
 prejudicado, então os servidores públicos que atuam nesse setor padecem.".
 
@@ -6166,7 +6025,7 @@ A proposição P é equivalente à proposição "Se os servidores públicos que 
 padecem,
 então o trabalho dos servidores públicos que atuam no setor Alfa não fica prejudicado."
 
-Item. 4. (CESPE/TJ-SE/2014) Considerando que P seja a proposição "Se os seres humanos
+4. (CESPE/TJ-SE/2014) Considerando que P seja a proposição "Se os seres humanos
 soubessem se
 comportar, haveria menos conflitos entre os povos", julgue o item seguinte.
 
@@ -6174,15 +6033,14 @@ A proposição P é logicamente equivalente à proposição "Se houvesse menos c
 os
 seres humanos saberiam se comportar".
 
-Item. 5. (CESPE/EMAP/2018) Julgue o item seguinte, relativo à lógica proposicional e de argumentação.
+5. (CESPE/EMAP/2018) Julgue o item seguinte, relativo à lógica proposicional e de argumentação.
 
 A proposição "Se Sônia é baixa, então Sônia pratica ginástica olímpica." é logicamente
 equivalente à
 sentença "Se Sônia é alta, então Sônia não pratica ginástica olímpica."
 
-Item. 0.0
+0.0
 www. estra tegiaconcursos. com. br
-
 
 6.(CESPE/MDIC/2014) A proposição "Se o interessado der três passos, alugará a pouca distância uma
 loja
@@ -6244,7 +6102,6 @@ A proposição C é equivalente à seguinte proposição: "Se o candidato X não
 agrado antes da
 eleição, serei atingido por uma benfeitoria que ele fizer após ser eleito".
 
-
 Negação da conjunção e da disjunção inclusiva (leis de De Morgan)
 
 13.(CESPE/MDIC/2014) A negação da proposição "A Brasil Central é uma das ruas mais movimentadas do
@@ -6252,7 +6109,7 @@ centro da cidade e lá o preço dos aluguéis é alto" está corretamente expres
 não é
 uma das ruas mais movimentadas do centro da cidade ou lá o preço dos aluguéis não é alto".
 
-Item. 14. (CESPE/SEFAZ-AL/2020) A negação da proposição "Os servidores públicos que atuam
+14. (CESPE/SEFAZ-AL/2020) A negação da proposição "Os servidores públicos que atuam
 nesse setor
 padecem e os beneficiários dos serviços prestados por esse setor padecem." é corretamente expressa
 por
@@ -6282,7 +6139,7 @@ e) Crescer além de certo porte não é um ótimo negócio para empresários, ne
 negócio para o
 mundo.
 
-Item. 16. (CESPE/SEFAZ-RS/2018) A negação da proposição "O IPTU, eu pago parcelado; o IPVA,
+16. (CESPE/SEFAZ-RS/2018) A negação da proposição "O IPTU, eu pago parcelado; o IPVA,
 eu pago em
 parcela única" pode ser escrita como
 a) "Eu pago o IPTU em parcela única ou pago o IPVA parcelado".
@@ -6295,10 +6152,9 @@ d) "Eu não pago o IPTU parcelado ou não pago o IPVA em parcela única".
 
 e) "Eu pago o IPTU em parcela única e pago o IPVA parcelado".
 
-Item. 17. (CESPE/SERPRO/2013) A negação da proposição "O síndico troca de carro ou reforma seu
+17. (CESPE/SERPRO/2013) A negação da proposição "O síndico troca de carro ou reforma seu
 apartamento"
 pode ser corretamente expressa por "O síndico não troca de carro nem reforma seu apartamento".
-
 
 18.(CESPE/PC MA/2018) A qualidade da educação dos jovens sobe ou a sensação de
 segurança da
@@ -6316,7 +6172,7 @@ d) A qualidade da educação dos jovens sobe e a sensação de segurança da soc
 
 e) A qualidade da educação dos jovens diminui ou a sensação de segurança da sociedade sobe.
 
-Item. 19. (CESPE/MEC/2014) A negação da proposição "O candidato é pós-graduado ou sabe falar inglês"
+19. (CESPE/MEC/2014) A negação da proposição "O candidato é pós-graduado ou sabe falar inglês"
 pode
 ser corretamente expressa por "O candidato não é pós-graduado nem sabe falar inglês".
 
@@ -6331,7 +6187,6 @@ A proposição (AVB)A[(--A)A(--B)] é sempre falsa.
 21.(CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
 
 Se P e Q forem proposições simples, então a proposição -[PV(--Q)]o[(-'P)AQ] é uma tautologia.
-
 
 Negação da Condicional
 
@@ -6357,7 +6212,7 @@ independentemente do valor lógico das proposições que a estruturam. Nesse sen
 considerando-se p
 e q como proposições, a proposição composta pAq<^~(p-»~q) é uma tautologia.
 
-Item. 25. (CESPE/ANVISA/2016) Julgue o seguinte item, relativo a raciocínio lógico, a princípios de
+25. (CESPE/ANVISA/2016) Julgue o seguinte item, relativo a raciocínio lógico, a princípios de
 contagem e
 probabilidade e a operações com conjuntos.
 
@@ -6385,8 +6240,7 @@ A negação da proposição P pode ser corretamente expressa por "João não se 
 bastante, mas,
 mesmo assim, conseguiu o que desejava".
 
-
-Item. 28. (CESPE/COGE-CE/2019) Pl: Se os recursos foram aplicados em finalidade diversa da prevista ou
+28. (CESPE/COGE-CE/2019) Pl: Se os recursos foram aplicados em finalidade diversa da prevista ou
 se a
 obra foi superfaturada, então a prestação de contas da prefeitura não foi aprovada.
 
@@ -6412,13 +6266,12 @@ e) "Se a prestação de contas da prefeitura foi aprovada, então os recursos n�
 aplicados em finalidade
 diversa da prevista e a obra não foi superfaturada".
 
-
 Outras equivalências e negações
 
 29.(CESPE/PETROBRAS/2022) Acerca de lógica matemática, julgue o item a seguir.
 Dadas três proposições p, q e r, tem-se que pVq->r é equivalente a (p-»r)V(q-»r).
 
-Item. 30. (CESPE/TCE-RS/2013) Com base na proposição P: "Quando o cliente vai ao banco
+30. (CESPE/TCE-RS/2013) Com base na proposição P: "Quando o cliente vai ao banco
 solicitar um
 empréstimo, ou ele aceita as regras ditadas pelo banco, ou ele não obtém o dinheiro",
 julgue o item que
@@ -6459,7 +6312,6 @@ A proposição "Se não ajo como um homem da minha idade, sou tratado como crian
 mínimo de maturidade, sou tratado como criança" é equivalente a "Se não ajo como um homem da minha
 idade ou não tenho um mínimo de maturidade, sou tratado como criança"
 
-
 Questões com mais de uma equivalência
 
 33.(CESPE/DEPEN/2021) Com relação a lógica proposicional, julgue o item a seguir.
@@ -6476,7 +6328,7 @@ Assim, a proposição "Paola é feliz apenas se ela pinta um quadro" pode ser re
 equivale
 à proposição "Se Paulo ou Carlos são culpados, então Marcos é inocente.".
 
-Item. 35. (CESPE/CBM AL/2017) A respeito de proposições lógicas, julgue o item a seguir.
+35. (CESPE/CBM AL/2017) A respeito de proposições lógicas, julgue o item a seguir.
 Considere que P e Q sejam as seguintes proposições:
 
 P: Se a humanidade não diminuir a produção de material plástico ou não encontrar uma
@@ -6507,14 +6359,12 @@ composta:
 
 A negação de S —S - pode ser corretamente expressa por [~PV(QVR)]A[(~R)V~(P<^Q)j.
 
-
-Item. 38. (CESPE/TCE-ES/2012) Proposições são sentenças que podem ser julgadas como verdadeiras — V — ou
+38. (CESPE/TCE-ES/2012) Proposições são sentenças que podem ser julgadas como verdadeiras — V — ou
 falsas — F —, de forma que um julgamento exclui o outro, e são simbolizadas por letras maiusculas,
 como
 P, Q, R e S. A partir de proposições conhecidas, novas proposições podem ser
 construídas usando-se
 símbolos especiais. Alguns desses símbolos são apresentados na tabela abaixo.
-
 
 símbolo
 
@@ -6550,7 +6400,6 @@ V, se P e Q forem V; caso contrário, será F
 F, se P e Q forem F; caso contrário, será V
 F, se P for V e Q for F; caso contrário, será V
 
-
 <—>
 
 bicondicional
@@ -6565,7 +6414,7 @@ seguir.
 
 Essa proposição é logicamente equivalente à proposição {[(~R)VS]_>[( ~P)A(~Q)]}V[(PAS)< >(QAR)].
 
-Item. 39. (CESPE/SEFAZ-ES/2010) Considerando os símbolos lógicos - (negação), A (conjunção), V
+39. (CESPE/SEFAZ-ES/2010) Considerando os símbolos lógicos - (negação), A (conjunção), V
 (disjunção), -»
 (condicional) e as proposições
 julgue o item que se segue.
@@ -6578,7 +6427,6 @@ T :{{pA--q)V(--pAr))A(-'qA--r)
 As proposições compostas --S e T são equivalentes, ou seja, têm a
 mesma tabela-verdade,
 independentemente dos valores lógicos das proposições simples p, q, e r que as constituem.
-
 
 Questões com mais de um item
 
@@ -6593,26 +6441,25 @@ receber os benefícios providos pela associação de moradores de seu condomíni
 Q: "Marcos não figura no quadro de associados, mas ele está com os pagamentos em dia."
 Tendo como referência essas proposições, julgue os itens a seguir.
 
-Item. 40. (CESPE/SEFAZ AL/2021) Considerando-se verdadeira a proposição P, é correto concluir que, se
+40. (CESPE/SEFAZ AL/2021) Considerando-se verdadeira a proposição P, é correto concluir que, se
 Marcos
 não tem direito a receber os benefícios providos pela associação de moradores de seu condomínio,
 então,
 necessariamente, ele não figura no quadro de associados nem está com os pagamentos em dia.
 
-Item. 41. (CESPE/SEFAZ AL/2021) A proposição P é equivalente à proposição "Se Marcos não figura no quadro
+41. (CESPE/SEFAZ AL/2021) A proposição P é equivalente à proposição "Se Marcos não figura no quadro
 de
 associados ou não está com os pagamentos em dia, então ele não tem direito a receber
 os benefícios
 providos pela associação de moradores de seu condomínio.".
 
-Item. 42. (CESPE/SEFAZ AL/2021) A proposição P é equivalente à proposição "Se Marcos tem direito a
+42. (CESPE/SEFAZ AL/2021) A proposição P é equivalente à proposição "Se Marcos tem direito a
 receber os
 benefícios providos pela associação de moradores de seu condomínio, então ele figura no
 quadro de
 associados e está com os pagamentos em dia.".
 
-
-Item. 43. (CESPE/SEFAZ AL/2021) A proposição Q é uma negação da proposição "Se Marcos está
+43. (CESPE/SEFAZ AL/2021) A proposição Q é uma negação da proposição "Se Marcos está
 com os
 pagamentos em dia, então ele figura no quadro de associados.".
 
@@ -6631,14 +6478,13 @@ conclusão, e Pl a P3 são
 
 = as premissas, julgue os itens a seguir.
 
-Item. 44. (CESPE/PF/2021) A proposição Pl é equivalente a "Não é verdade que a fiscalização
+44. (CESPE/PF/2021) A proposição Pl é equivalente a "Não é verdade que a fiscalização
 foi deficiente e
 que as falhas construtivas foram corrigidas".
 
-Item. 45. (CESPE/PF/2021) Uma negação correta da proposição Pl pode ser expressa por: "Se a fiscalização
+45. (CESPE/PF/2021) Uma negação correta da proposição Pl pode ser expressa por: "Se a fiscalização
 não
 foi deficiente, as falhas construtivas foram corrigidas".
-
 
 46.(CESPE/PF/2021) A proposição P2 é equivalente a "Se as falhas construtivas não foram
 corrigidas, os
@@ -6657,21 +6503,19 @@ s..e..u..s...a..l.ia...d..o..s..t.r..a.b..a..l.h..a..re..md..u..r.o..,..v..e.n..
 ."
 I;
 
-Item. 47. (CESPE/MJSP/2021) A proposição P é equivalente a "Se não vencermos, o responsável pela
+47. (CESPE/MJSP/2021) A proposição P é equivalente a "Se não vencermos, o responsável pela
 indicação
 não terá feito sua parte ou seus aliados não terão trabalhado duro.".
 
-Item. 48. (CESPE/MJSP/2021) A negação da proposição P pode ser expressa por "Se o responsável pela
+48. (CESPE/MJSP/2021) A negação da proposição P pode ser expressa por "Se o responsável pela
 indicação
 não fizer sua parte ou seus aliados não trabalharem duro, não vencerão.".
 
 .
 
-
 Texto para as próximas questões
 
 I
-
 
 I
 
@@ -6681,14 +6525,13 @@ cidadão-cliente fica satisfeito", julgue ;
 : os itens a seguir.
 ;
 
-Item. 49. (CESPE/SEFAZ DF/2020) A proposição P é logicamente equivalente à seguinte
+49. (CESPE/SEFAZ DF/2020) A proposição P é logicamente equivalente à seguinte
 proposição: "Se o
 cidadão-cliente não fica satisfeito, então o servidor não gosta do que faz".
 
-Item. 50. (CESPE/SEFAZ DF/2020) A proposição "O servidor não gosta do que faz, ou o cidadão-cliente não
+50. (CESPE/SEFAZ DF/2020) A proposição "O servidor não gosta do que faz, ou o cidadão-cliente não
 fica
 satisfeito" é uma maneira correta de negar a proposição P.
-
 
 |
 
@@ -6700,12 +6543,11 @@ o que desejar", julgue ;
 = os itens a seguir.
 ;
 
-Item. 51. (CESPE/MPOG/2015) A proposição "João não se esforça o bastante ou João conseguirá o que desejar"
+51. (CESPE/MPOG/2015) A proposição "João não se esforça o bastante ou João conseguirá o que desejar"
 é logicamente equivalente à proposição P.
 
-Item. 52. (CESPE/MPOG/2015) A proposição "Se João não conseguiu o que desejava, então João não se esforçou
+52. (CESPE/MPOG/2015) A proposição "Se João não conseguiu o que desejava, então João não se esforçou
 o bastante" é logicamente equivalente à proposição P.
-
 
 .
 
@@ -6718,17 +6560,17 @@ aquela que prejudique j
 
 = seus interesses".
 
-Item. 53. (CESPE/PF/2O18) A proposição P é logicamente equivalente à proposição: "Não é
+53. (CESPE/PF/2O18) A proposição P é logicamente equivalente à proposição: "Não é
 verdade que o bom
 jornalista faça reportagem em benefício próprio ou que deixe de fazer aquela que
 prejudique seus
 interesses".
 
-Item. 54. (CESPE/PF/2018) A negação da proposição P está corretamente expressa por: "O bom
+54. (CESPE/PF/2018) A negação da proposição P está corretamente expressa por: "O bom
 jornalista faz
 reportagem em benefício próprio e deixa de fazer aquela que não prejudique seus interesses".
 
-Item. 55. (CESPE/PF/2018) A negação da proposição P está corretamente expressa por: "Se o bom jornalista
+55. (CESPE/PF/2018) A negação da proposição P está corretamente expressa por: "Se o bom jornalista
 não
 faz reportagem em benefício próprio, então ele deixa de fazer aquela reportagem que
 prejudica seus
@@ -6736,11 +6578,9 @@ interesses".
 
 .
 
-
 Texto para as próximas questões
 
 I
-
 
 I
 
@@ -6756,78 +6596,76 @@ a legitimidade da j
 : Tendo como referência a proposição apresentada, julgue os itens seguintes.
 j
 
-Item. 56. (CESPE/TC-DF/2014) A proposição P é logicamente equivalente à proposição "Se não
+56. (CESPE/TC-DF/2014) A proposição P é logicamente equivalente à proposição "Se não
 condenarmos a
 corrupção por motivos econômicos, a condenaremos por ser imoral e por corroer a
 legitimidade da
 democracia".
 
-Item. 57. (CESPE/TC-DF/2014) A proposição P é logicamente equivalente à proposição
+57. (CESPE/TC-DF/2014) A proposição P é logicamente equivalente à proposição
 "Condenaremos a
 corrupção por ser imoral ou por corroer a legitimidade da democracia ou por motivos econômicos".
-
 
 GABARITo - CEBRASPE
 
 Equivalências lógicas
 
-Item. 1. CERTO 21.CERTO
-Item. 41. ERRADO
+1. CERTO 21.CERTO
+41. ERRADO
 
-Item. 2. LETRA A 22.CERTO
-Item. 42. ERRADO
+2. LETRA A 22.CERTO
+42. ERRADO
 
-Item. 3. CERTO 23.CERTO
-Item. 43. CERTO
+3. CERTO 23.CERTO
+43. CERTO
 
-Item. 4. ERRADO 24.CERTO
-Item. 44. CERTO
+4. ERRADO 24.CERTO
+44. CERTO
 
-Item. 5. ERRADO 25.CERTO
-Item. 45. ERRADO
+5. ERRADO 25.CERTO
+45. ERRADO
 
-Item. 6. ERRADO 26.CERTO
-Item. 46. ERRADO
+6. ERRADO 26.CERTO
+46. ERRADO
 
-Item. 7. CERTO 27. ERRADO
-Item. 47. CERTO
+7. CERTO 27. ERRADO
+47. CERTO
 
-Item. 8. ERRADO 28. LETRA A
-Item. 48. ERRADO
+8. ERRADO 28. LETRA A
+48. ERRADO
 
-Item. 9. ERRADO 29. ERRADO
+9. ERRADO 29. ERRADO
 49.CERTO
 
 10.CERTO 30.CERTO
-Item. 50. ERRADO
+50. ERRADO
 
-Item. 11. CERTO 31.CERTO
-Item. 51. CERTO
+11. CERTO 31.CERTO
+51. CERTO
 
-Item. 12. CERTO 32.CERTO
-Item. 52. CERTO
+12. CERTO 32.CERTO
+52. CERTO
 
-Item. 13. CERTO 33.CERTO
+13. CERTO 33.CERTO
 53.CERTO
 
-Item. 14. ERRADO 34. ERRADO
-Item. 54. ERRADO
+14. ERRADO 34. ERRADO
+54. ERRADO
 
-Item. 15. LETRA A 35.CERTO
+15. LETRA A 35.CERTO
 55.CERTO
 
-Item. 16. LETRA D 36.CERTO
-Item. 56. CERTO
+16. LETRA D 36.CERTO
+56. CERTO
 
-Item. 17. CERTO 37. ERRADO
-Item. 57. ERRADO
+17. CERTO 37. ERRADO
+57. ERRADO
 
-Item. 18. LETRA A 38.CERTO
+18. LETRA A 38.CERTO
 
 19.CERTO 39.CERTO
 
-Item. 20. CERTO 40. ERRADO
-
+20. CERTO 40. ERRADO
 
 LISTA DE QUESTõES - CEBRASPE
 
@@ -6873,8 +6711,7 @@ d) PAQA(~R).
 
 e) (-PH(Q^R)
 
-
-Item. 5. (CESPE/PF/2018) As proposições P, Q e R a seguir referem-se a um ilícito penal envolvendo João,
+5. (CESPE/PF/2018) As proposições P, Q e R a seguir referem-se a um ilícito penal envolvendo João,
 Carlos,
 Paulo e Maria:
 
@@ -6889,7 +6726,7 @@ Independentemente de quem seja culpado, a proposição {P->(--Q)}->{QV[(--Q)VR]}
 será sempre
 verdadeira, isto é, será uma tautologia.
 
-Item. 6. (CESPE/PF/2018) As proposições P, Q e R a seguir referem-se a um ilícito penal envolvendo João,
+6. (CESPE/PF/2018) As proposições P, Q e R a seguir referem-se a um ilícito penal envolvendo João,
 Carlos,
 Paulo e Maria:
 
@@ -6901,7 +6738,7 @@ R: "Maria é inocente".
 Considerando que ~X representa a negação da proposição X, julgue o item a seguir.
 As proposições PA(~Q)->(~R) e R->[QA(~P)] são equivalentes.
 
-Item. 7. (CESPE/TRE-GO/2015)
+7. (CESPE/TRE-GO/2015)
 
 Q: Se L for um número natural divisível por 3 e por 5, então L será divisível por 15.
 Julgue o item que se segue, acerca de lógica proposicional.
@@ -6914,12 +6751,11 @@ W: "é divisível por 15";
 
 então a proposição --Q, a negação de Q, poderá ser corretamente expressa por UAVA(--W).
 
-Item. 8. (CESPE/TJ SE/2014) Julgue o próximo item, considerando os conectivos lógicos usuais
+8. (CESPE/TJ SE/2014) Julgue o próximo item, considerando os conectivos lógicos usuais
 -, A, V, ->,<-> e
 que P, Q e R representam proposições lógicas simples.
 
 A proposição [P-»(QAR)]<->{[(--P)VQ]A[(-«P)VR]} é uma tautologia.
-
 
 9.(CESPE/AFT/2O13)
 
@@ -6949,36 +6785,33 @@ Se S = (PAQ)V(PAR), então a última coluna da tabela-verdade de S conterá, de 
 ordem
 em que aparecem, os seguintes elementos: V, F, V, V, F, V, F e F.
 
-Item. 10. (CESPE/CADE/2014) Considerando os conectivos lógicos usuais e que as letras maiúsculas
+10. (CESPE/CADE/2014) Considerando os conectivos lógicos usuais e que as letras maiúsculas
 representem
 proposições lógicas simples, julgue o item seguinte acerca da lógica proposicional.
 
 A proposição [(PVQ)A(RVS)] <-> [QA(RVS)]V[(PAR)V(PAS)J é uma tautologia.
 
-
 GABARITo - CEBRASPE
 
 Álgebra de proposições
 
+1. CERTO
 
-Item. 1. CERTO
+2. CERTO
 
-Item. 2. CERTO
+3. CERTO
 
-Item. 3. CERTO
+4. LETRA D
 
-Item. 4. LETRA D
+5. CERTO
 
-Item. 5. CERTO
+6. ERRADO
 
-Item. 6. ERRADO
+7. CERTO
 
-Item. 7. CERTO
+8. CERTO
 
-Item. 8. CERTO
+9. ERRADO
 
-Item. 9. ERRADO
-
-Item. 10. CERTO
-
+10. CERTO
 

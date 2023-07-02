@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Legislação dos Dados.
-
+# Bizu Estratégico - Legislação dos Dados.
 
 Legislação Acerca Da Privacidade De Proteção De Dados
 
@@ -21,7 +20,6 @@ Legislação Acerca da Privacidade de Proteção de Dados do professor Antonio D
 Equipe
 Legislação Específica Estratégia Concursos.
 
-
 ANÁLISE ESTATÍSTICA
 
 Pessoal, segue abaixo uma análise estatística dos assuntos mais exigidos pela Banca
@@ -29,7 +27,6 @@ CEBRASPE no
 âmbito da disciplina de Legislação Acerca da Privacidade de Proteção de Dados em
 concursos. Com
 base nessa análise, podemos focar nos pontos mais importantes para revisar e detonar na prova!
-
 
 Assunto
 
@@ -39,9 +36,7 @@ Lei n5 12.527/2011 (Lei de Acesso à Informação)
 
 83,33%
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 MAPA DO BIZU
 
@@ -64,9 +59,7 @@ Assunto Bizus Caderno de
 Lei nQ 12.527/2011 (Lei de Acesso à Informação) 1
 http://questo.es/ogd4je
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Apresentação
 
@@ -89,11 +82,9 @@ Espero que gostem!
 
 Um grande abraço e bons estudos!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
-Item. 1. Lei n° 12.527/2011 (Lei de Acesso à Informação).
+1. Lei n° 12.527/2011 (Lei de Acesso à Informação).
 
 Lei n® 12.527/2011 (Lei de Acesso à Informação)
 Noções Iniciais
@@ -137,9 +128,7 @@ origem, trânsito e destino
 qualidade da informação coletada na fonte, com o máximo de
 detalhamento possível, sem modificações
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Diretrizes do acesso à informação
 acesso à informação
@@ -147,7 +136,6 @@ acesso à informação
 publicidade é a regra geral; sigilo é exceção
 
 /
-
 
 transparência ativa
 serviço de informações ao cidadão (SIC)
@@ -192,16 +180,13 @@ motivação. Em outras palavras, é ilegal um ente público exigir que o interes
 indique que
 necessita da informação para o propósito A ou B.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Restrições
 
 São consideradas imprescindíveis à segurança da sociedade ou do Estado e, portanto,
 passíveis de
 classificação as informações cuja divulgação ou acesso irrestrito possam (art. 23):
-
 
 _o
 'õ)
@@ -248,16 +233,13 @@ investigação/fiscalização em andamento,
 relacionadas com a prevenção ou repressão
 de infrações
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo JürTO
-
 
 ultrassecreto , ,
 
 1 25 anos |
 
 secreto ( .
-
 
 grau de sigilo - prazo máximo
 
@@ -275,9 +257,7 @@ classificar o grau de
 sigilo
 tratamento médico
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Responsabilidades dos Agentes Públicos
 
@@ -291,9 +271,7 @@ Nesse sentido, constituem condutas ilícitas que ensejam responsabilidade do
 agente público ou
 militar (art. 32):
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Então é isso pessoal, vamos ficando por aqui.
 Esperamos que tenha gostado do nosso Bizu!
@@ -301,5 +279,4 @@ Bons estudos!
 
 @alinecalado. f
 @prof!eoma th ias
-
 

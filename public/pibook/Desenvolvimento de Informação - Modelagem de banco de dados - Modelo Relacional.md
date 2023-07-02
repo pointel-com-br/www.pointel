@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Modelagem de banco de dados - Modelo Relacional.
-
+# Desenvolvimento de Informação - Modelagem de banco de dados - Modelo Relacional.
 
 Índice
 
@@ -24,7 +23,6 @@ Capítulo. Desenvolvimento de Informação - Modelagem de banco de dados - Model
 10) Lista de Questões - Modelo Relacional - CEBRASPE
 
 11) Lista de Questões - Modelo Relacional - CESGRANRIO
-
 
 IMPLEMENTAçÃo DE SGBDS RELACIoNAIS.
 
@@ -74,10 +72,8 @@ grande volume de receitas advindas deste produto. Assim, não queria
 perder espaço neste mercado, mesmo que fosse para ela mesma. Mas
 o que Codd propôs que seria tão revolucionário?
 
-
 Para responder a essa pergunta, vamos iniciar com uma definição informal do modelo. O
 modelo relacional é constantemente descrito como tendo os três aspectos a seguir:
-
 
 TOME
 
@@ -110,7 +106,6 @@ Favorita
 
 0000003 Ricardo Vale MIDC Salada
 0000004 Paulo Bilynskyj Delegado (DHPP) McDonald's
-
 
 Colunas:
 
@@ -145,7 +140,6 @@ seria, portanto, um conjunto de relações. Cada relação pode ser vista como u
 Assim, os SGBDs relacionais devem representar os dados sob a forma de
 tabelas
 bidimensionais organizadas em linhas e colunas.
-
 
 Observe que os sistemas relacionais só exigem que o banco de dados seja percebido pelo
 usuário como tabelas. As tabelas são a estrutura lógica em um sistema relacional, não
@@ -187,7 +181,6 @@ vez por todas, essa característica. Olhe para o modelo abaixo e perceba que tem
 tabelas: empregado (EMP) e departamento (DEPTO). Perceba que a coluna DEPTO# da
 tabela EMP possui os valores dos departamentos.
 
-
 DEPTO#
 
 Dl
@@ -207,7 +200,6 @@ ORÇAMENTO
 12M
 
 5M
-
 
 EMP#
 
@@ -240,7 +232,6 @@ SALÁRIO
 
 35K
 
-
 Sendo assim, existe uma conexão entre a linha D1 da tabela DEPTO e a linha E1 da
 tabela
 EMP. Essa conexão é representada pelo aparecimento do valor D1 na tabela EMP. Vamos
@@ -269,24 +260,23 @@ ESTA É
 
 DIFÍCIL!
 
-Item. 1. Uma coleção ilimitada de tipos escalares (incluindo em particular o tipo
+1. Uma coleção ilimitada de tipos escalares (incluindo em particular o tipo
 booleano ou valor verdade).
 
 1 Sarrafo é um militar para identificar um padrão mínimo aceitável. No salto com
 vara, o sarrafo é aquele
 pedaço de madeira colocado na horizontal que deve ser ultrapassado pelo saltador.
 
-
-Item. 2. Um gerador de tipo de relação e uma interpretação pretendida para esses
+2. Um gerador de tipo de relação e uma interpretação pretendida para esses
 tipos de relações gerados
 
-Item. 3. Recursos para definição de RelVars ou variáveis de relação desses tipos de
+3. Recursos para definição de RelVars ou variáveis de relação desses tipos de
 relações gerados.
 
-Item. 4. Um operador de atribuição relacional para atribuição de valores de relações
+4. Um operador de atribuição relacional para atribuição de valores de relações
 a essas RelVars.
 
-Item. 5. Uma coleção ilimitada de operadores relacionais genéricos ("a álgebra
+5. Uma coleção ilimitada de operadores relacionais genéricos ("a álgebra
 relacional") para derivar valores de relações a partir de outros valores de relações.
 
 A coleção ilimitada de tipos escalares está associada aos tipos de dados que podem ser
@@ -431,11 +421,9 @@ forma, o
 subsistema de autorização utiliza informações do catálogo sobre usuários e restrições de
 segurança para conceder ou negar tais requisições.
 
-
 ESQUEMATIZANDO
 
 Figura 3 - Metadados, catálogo de dados ou dicionários de dados
-
 
 TABELAS
 
@@ -448,7 +436,6 @@ a seguir resume os conceitos vistos por meio da representação da tabela Alunos
 
 Nome da Atributos
 relação
-
 
 Relação
 
@@ -497,7 +484,6 @@ faz
 parte da definição do modelo relacional. Não se esqueça disso! Outro ponto importante
 está relacionado à integridade dos dados. O modelo apresenta um conjunto de restrições
 básicas para dados e relacionamentos, conhecidas como restrições de integridade.
-
 
 Ok! Temos as nossas relações! Conseguimos definir, pelo menos de forma gráfica, um
 conjunto de tabelas com seus atributos. Se quisermos, podemos povoar ou inserir tuplas
@@ -554,7 +540,6 @@ questão.
 O conjunto completo de atributos é conhecido como cabeçalho, este vai determinar o tipo
 de uma tupla.
 
-
 Segundo o CJ Date, as tuplas satisfazem a uma série de propriedades importantes, todas
 elas consequências imediatas das definições apresentadas até aqui:
 
@@ -607,7 +592,6 @@ Ano: 2019 Banca: TRC Órgão: Estratégia Assunto: Modelo Relacional - Tuplas
 
 2 Elmasri, Ramez. Sistemas de Bancos de Dados (p. 42). Edição do Kindle.
 
-
 Analise as afirmações abaixo:
 
 I. Cada tupla contém exatamente um valor (do tipo apropriado) para cada um de seus
@@ -638,7 +622,6 @@ ser representada em uma folha de papel. Vejamos algumas das diferenças entre ta
 
 Característica Relação
 Tabela
-
 
 Nomes de tipo são omitidos nos cabeçalhos.
 
@@ -672,7 +655,6 @@ propriedades de acordo com CJDate:
 3 Neste caso, pense em uma tabela do Excel. Se estivermos falando de uma tabela no
 modelo relacional,
 ela não pode conter linhas duplicadas e todos os seus atributos devem ser atômicos.
-
 
 Figura 4 - Propriedades de uma relação.
 
@@ -712,7 +694,6 @@ alternativa está incorreta.
 B) As tuplas não são ordenadas de cima para baixo, nem seus atributos ou componentes
 são ordenados da esquerda para a
 direita.
-
 
 C) Pela definição de modelo relacional do Codd, os atributos de uma relação devem
 ter valores atômicos. Logo, cada coluna deve
@@ -774,7 +755,6 @@ alternativa correta.
 
 Gabarito: C.
 
-
 VISõES
 
 As views ou visões são objetos SQL que podemos criar dentro dos nossos bancos de
@@ -827,7 +807,6 @@ fato armazenados no banco de dados.
 
 As visões, ao contrário, não "existem realmente", mas apenas oferecem diferentes
 modos de visualização dos "dados reais".
-
 
 I»
 
@@ -896,7 +875,6 @@ manipulação diretamente sobre visões complexas.
 
 Agora vamos colocar essas definições em um esquema:
 
-
 Visão
 
 J
@@ -918,7 +896,6 @@ encontrar o registro.
 Um arquivo de índice consiste em um conjunto de registros com o formato apresentado na
 figura abaixo. A esse registro se dá o nome de registro de índice ou entrada de índice.
 
-
 Chave
 (Search-key)
 
@@ -934,7 +911,6 @@ especificado e
 a localização de registros em um intervalo especificado de valores. Veja a figura
 abaixo para
 entender um pouco mais sobre índices:
-
 
 INDEX TABLE
 
@@ -984,7 +960,6 @@ Os índices podem ainda ser classificados de acordo com a figura abaixo:
 ESQUEMATIZANDO
 
 Figura 2 - Conceitos de índices
-
 
 (Ministério da Economia - Especialista em Ciência de Dados - 2020) Julgue os itens a
 seguir, a respeito de banco de dados relacionais.
@@ -1036,7 +1011,6 @@ denominadas chaves secundárias ou alternativas.
 Segundo o Date, se K for um conjunto de atributos de uma variável de relação R,
 então K é
 uma chave candidata para R, se e somente se, ela possui ambas as propriedades.
-
 
 ATENÇÃO
 
@@ -1094,7 +1068,6 @@ ser
 duplicados em uma coluna; no entanto, cada combinação de valores de todas as colunas
 na definição da restrição de chave primária deve ser exclusiva.
 
-
 Comentário: Questão interessante, pois nos permite fazer um rápido comentário sobre chaves. Uma
 chave identifica unicamente
 uma linha de uma relação. Toda relação pode ter vários conjuntos de atributos que podem ser
@@ -1133,7 +1106,6 @@ tabela APROVADOS?
 
 APROVADOS
 
-
 ld Aprovado Nome Municipio CPF
 Passaporte
 
@@ -1156,7 +1128,6 @@ RESUMINDO
 Atributos de uma
 relação cujos valores
 
-
 Chave candidata
 
 Chave primária
@@ -1166,13 +1137,11 @@ devem corresponder
 a valores de alguma
 chave candidata de
 
-
 Toda superchave
 com a propriedade
 
 Chave Estrangeira
 alguma relação.
-
 
 de irredutibilidade.
 
@@ -1270,7 +1239,6 @@ Os atributos também são usados como parâmetros para recuperação das informa
 executar a junção entre duas
 tabelas. Logo, temos uma alternativa correta.
 
-
 Gabarito: CERTO.
 
 HORA DE
@@ -1323,7 +1291,6 @@ PRATICAR!
 (Ministério da Economia - Especialista em Ciência de Dados - 2020) Julgue os itens a
 seguir, a respeito de banco de dados relacionais.
 
-
 Em um sistema de banco de dados relacional, o dado do tipo CHAR é usado para
 armazenar um conjunto de caracteres de tamanho variável, ocupando o tamanho da
 cadeia de caracteres do texto armazenado
@@ -1352,7 +1319,6 @@ determinada entidade, não estiver relacionada a uma instância da outra entidad
 estrangeira será nulo.
 
 Gabarito: ERRADO.
-
 
 RESTRIçõES DE INTEGRIDADE
 
@@ -1407,7 +1373,6 @@ Você deve se lembrar que cada tipo de dado tem um conjunto de operações que p
 executado sobre eles. Imagine as operações de soma e subtração nos tipos de dados
 numéricos. Na linguagem SQL, é implementada pelo comando CHECK.
 
-
 Integridade de Chave (Unicidade) - Garante a unicidade do valor da chave primária em
 cada uma das tuplas de uma relação. Implementado pela palavra-chave UNIQUE.
 
@@ -1451,7 +1416,6 @@ de estudos. São estruturas criadas por mim para facilitar a memorização das r
 de
 integridade. Quando estudamos a linguagem SQL, aprofundamos um pouco mais sobre
 esse assunto com uma visão mais prática dos conceitos apresentados.
-
 
 Antes de continuarmos a tratar do assunto, vamos fazer uma rápida questão. Essa é uma
 questão inédita, criada pela banca TRC para trabalhar pontos específicos do assunto.
@@ -1515,7 +1479,6 @@ mudanças (exclusão, alteração) na chave primária relacionada. Alternativa c
 
 Gabarito: A
 
-
 REGRAS DE CoDD
 
 Para que um banco de dados seja considerado relacional, ele deve seguir as 13 regras
@@ -1523,12 +1486,12 @@ definidas por E.F.Cood. Apresentamos abaixo as referências a cada uma das regra
 muito comum encontrar publicações falando das 12 regras. O que acontece é que são 13
 regras, numeradas de 0 até 12.
 
-Item. 0. Regra fundamental ou regra base: Todas as regras se baseiam na noção de que, para
+0. Regra fundamental ou regra base: Todas as regras se baseiam na noção de que, para
 um banco de dados ser qualificado como relacional, ele dever utilizar
 recursos
 exclusivamente relacionais para seu gerenciamento.
 
-Item. 1. Informação: Todas as informações em um banco de dados são representadas de forma
+1. Informação: Todas as informações em um banco de dados são representadas de forma
 explícita no nível lógico e são estruturadas exatamente, em apenas uma forma,
 por
 valores em tabelas. Em outras palavras, todos os valores em bases de dados relacionais
@@ -1537,35 +1500,29 @@ são representados em colunas e linhas de uma tabela. Veja um exemplo abaixo:
 PG J V E DQCGPSGW
 ÚLTIMOS JOGOS
 
-
 ' | H Fame-go
 
 64 27 20 * 3 22 57 55 79
-
 
 ' I ^9^ Palmeiras
 
 54 27 15 9 3 ₂₁ 42 21 67
 —
 
-
 ' | «dl Sá™5
 
 51 27 15 6 6 26 58 12 63
 ---- -------
-
 
 T? Sào Paulo
 
 46 27 12 10 5 17 27 10 57
 ------------
 
-
 | Corinrians
 
 44 27 11 11 5 20 50 10 54
 - "
-
 
 ' I O *"temacicrai
 
@@ -1575,29 +1532,24 @@ T? Sào Paulo
 Grêmio 41 27 11 8 8
 50 44 14 51
 
-
 * @ Bania
 
 41 27 11 8 8 24 50 6 51
 ------------
-
 
 * | / Atraetk»
 
 59 27 11 6 10 29 58 9 48
 ---------
 
-
 r Goias
 
 58 27 11 5 11 59 29 -10 47 —
-
 
 L* Ô ',ÍSC0
 
 57 27 10 7 10 51 25 -6 46
 ------------
-
 
 r 'íjl r<ec>co-MG
 
@@ -1610,36 +1562,30 @@ r 'íjl r<ec>co-MG
 i* | Focaieza 51 27 9 4
 14 57 50 -7 38
 
-
 F | Ceara
 
 29 27 8 5 14 29 27 -2 36
 —
-
 
 | W Fvm'"ense
 
 29 27 8 5 14 58 28 -10 36
 ------------
 
-
 | Crurero
 
 28 ₂₇ 6 10 11 54 22 -12 35
 —
-
 
 " I & »
 
 26 27 6 8 13 59 18 -21 32
 ------------
 
-
 r | c-aoecoense
 
 17 27 3 8 16 42 21 -21 21
 ---- -----
-
 
 r I qjp ««
 
@@ -1649,15 +1595,13 @@ r I qjp ««
 PG J.cccs Vvtftttfi Ei-csxi O
 GPoatfiD* GCottcortra SÜ ..
 
-
-Item. 2. Acesso Garantido: Todos os dados precisam ser acessíveis.
+2. Acesso Garantido: Todos os dados precisam ser acessíveis.
 Cada valor atômico (datum), em um banco de dados relacional,
 possui a garantia de ser logicamente acessado pela
 combinação do nome de tabela, do valor da chave primária e do
 nome da coluna. Ou seja, os dados devem possuir
 identificadores únicos que permitam o acesso aos mesmos,
 evitando problemas de interpretação da informação.
-
 
 categoryjd category_name remarks
 
@@ -1675,7 +1619,7 @@ categoryjd category_name remarks
 
 7 Action V nan J
 
-Item. 3. Tratamento sistemático de valores nulos: Valores
+3. Tratamento sistemático de valores nulos: Valores
 nulos ou em branco devem ser suportados de forma
 sistemática, independentemente do tipo de dado, para
 representar informações inexistentes e informações
@@ -1683,7 +1627,7 @@ inaplicáveis. É também implícito que tais
 representações devem ser manipuladas pelo SGBD de
 maneira sistemática.
 
-Item. 4. Catálogo on-line dinâmico: A descrição ou metadados do banco de dados é
+4. Catálogo on-line dinâmico: A descrição ou metadados do banco de dados é
 representada no nível lógico da mesma forma que os dados ordinários, permitindo que os
 usuários autorizados utilizem a mesma linguagem relacional aplicada aos dados regulares
 para terem acesso aos mesmos. É possível usar a linguagem SQL para conhecer
@@ -1693,7 +1637,6 @@ tabelas
 de um banco de dados na figura abaixo:
 
 Orders Table Unes Table
-
 
 OrderID: Integer
 
@@ -1711,7 +1654,6 @@ Line: Integer
 PartID: Integer
 
 Quantity: Integer
-
 
 Customers Table
 
@@ -1735,7 +1677,7 @@ PartID: Integer
 
 Pi ctu re: Lon g Var b i nary
 
-Item. 5. Sublinguagem ampla dos dados: Um sistema relacional pode suportar
+5. Sublinguagem ampla dos dados: Um sistema relacional pode suportar
 várias
 linguagens e várias formas de recuperação de informações. Entretanto, deve haver pelo
 menos uma linguagem, com uma sintaxe bem definida e expressa por um conjunto de
@@ -1751,13 +1693,12 @@ autorizações/segurança de acesso.
 
 * Administração de transações (begin, commit e rollback).
 
-
-Item. 7. Inserção, atualização e exclusão de alto nível: A capacidade de manipular um
+7. Inserção, atualização e exclusão de alto nível: A capacidade de manipular um
 conjunto
 de dados (em uma relação) através de um simples comando deve se estender às operações
 de inclusão, alteração ou exclusão de dados.
 
-Item. 8. Independência física de dados: Programas de aplicação e recursos
+8. Independência física de dados: Programas de aplicação e recursos
 ad hoc
 permanecem logicamente inalterados quando ocorrem mudanças no método de acesso ou
 na forma de armazenamento físico. Em outras palavras, quando for necessária
@@ -1769,16 +1710,14 @@ permanecer inalterados os mecanismos de consulta e manipulação de dados
 utilizados
 pelos usuários finais.
 
-Item. 9. Independência lógica de dados: Mudanças nas relações e nas views provocam pouco
+9. Independência lógica de dados: Mudanças nas relações e nas views provocam pouco
 ou nenhum impacto nas aplicações. Ou seja, as alterações nas tabelas que preservam os
 valores originais não devem afetar os aplicativos e recursos ad hoc.
-
 
 Independência Lógica
 de Dados:
 
 Usuários Finais
-
 
 É a capacidade de alterar
 o esquema conceituai sem
@@ -1804,7 +1743,6 @@ Conceitual-Extemo
 Mapeamento
 Conceitual-lntemo
 
-
 É a capacidade de alterar
 o esquema interno sem ter
 que alterar o esquema
@@ -1820,7 +1758,7 @@ I
 
 BDn
 
-Item. 10. Independência de integridade: As aplicações não são afetadas quando ocorrem
+10. Independência de integridade: As aplicações não são afetadas quando ocorrem
 mudanças nas regras de restrições de integridade. Deve ser possível que todas as regras
 de integridade sejam definidas na linguagem relacional e armazenadas no
 catálogo de
@@ -1831,7 +1769,7 @@ ser estabelecidas dentro do catálogo do sistema ou dicionário de dados, e ser
 totalmente
 independente da lógica dos aplicativos.
 
-Item. 11. Independência de distribuição: As aplicações não são logicamente afetadas quando
+11. Independência de distribuição: As aplicações não são logicamente afetadas quando
 ocorrem mudanças geográficas dos dados. Ou seja, os usuários finais não devem perceber
 o fato de o banco de dados ser distribuído ou local. Sistemas de banco de dados
 distribuídos
@@ -1839,8 +1777,7 @@ distribuídos
 inclusive, estar fisicamente distantes entre si. Essa capacidade de distribuição não pode
 afetar a funcionalidade do sistema e dos aplicativos que fazem uso do banco de dados.
 
-
-Item. 12. Não transposição das regras: Se um sistema
+12. Não transposição das regras: Se um sistema
 possui uma linguagem de baixo nível, essa linguagem
 não pode ser usada para subverter as regras de
 integridades e as restrições definidas no nível mais
@@ -1887,7 +1824,6 @@ Quando dados distribuídos existentes são redistribuídos em outras localidades
 
 Gabarito: B
 
-
 Falaremos agora sobre a álgebra relacional, um assunto bastante explorado em concursos
 públicos. Esse tema possui algumas características matemáticas que são baseadas,
 principalmente, na teoria de conjuntos. O conjunto básico de operações
@@ -1927,7 +1863,6 @@ característica é conhecida como fechamento. Veja a figura abaixo:
 
 0 0
 
-
 Consulta sobre a relação Alunos. Retorna a lista dos candidatos e suas notas. (CandNota)
 
 Figura 1 - Exemplo da propriedade de fechamento
@@ -1965,10 +1900,8 @@ pipeline é materializado (se necessário). Neste caso, evita-se a materializaç
 os
 resultados intermediários no processamento de uma consulta.
 
-
 Sejam R, S e T relações, considere
 as operações (R x S] AT
-
 
 Avaliação
 materizalizada
@@ -1982,13 +1915,13 @@ Avaliação em pipeline
 L
 J
 
-Item. 1. Algumas tuplas de R são avaliadas na
+1. Algumas tuplas de R são avaliadas na
 operação (R x S)
 
-Item. 2. 0 resultado obtido (tl) em 1 segue o
+2. 0 resultado obtido (tl) em 1 segue o
 fluxo e será operado com T.
 
-Item. 3. Volta para o passo 1 e avalia as
+3. Volta para o passo 1 e avalia as
 próximas linhas.
 
 Figura 2 - Avaliação materializada e em pipeline
@@ -1998,12 +1931,10 @@ para vocês a lista de operações consideradas fundamentais da álgebra relacio
 operações são divididas em unárias e binárias. Vou apresentar apenas a lista na figura
 abaixo, logo em seguida vamos tratar separadamente de cada uma destas operações.
 
-
 CZ)
 
 CÚ
 'CÚ
-
 
 * União
 
@@ -2013,7 +1944,6 @@ CÚ
 cartesiano
 
 Figura 3 - Operações fundamentais da álgebra relacional.
-
 
 Sobre a taxonomia, é importante lembrar que temos um conjunto de operações conhecidas
 como fundamentais. São elas: seleção, projeção, união, diferença, produto cartesiano
@@ -2035,7 +1965,6 @@ linhas que possuem algumas restrições. Por exemplo, funcionários que possuem
 salário
 maior que 10 mil reais. Vamos procurar entender melhor o que a operação faz exatamente
 com outro exemplo. Vejam a tabela abaixo:
-
 
 América do Norte
 América Latina
@@ -2101,10 +2030,8 @@ condições). Sobre esse predicado, é preciso tecer alguns comentários. Primei
 perfeitamente possível que ele seja uma composição de restrições sobre diferentes colunas
 da tabela.
 
-
 Cada restrição é conhecida como termo. Os termos podem ser ligados por conectivos A (e),
 v (ou), (não). Cada termo pode ser composto por:
-
 
 <atributo> operador <atributo> ou <atributo> operador <constante>
 Ex: NomeCandidato = NomeAprovado || NomeAprovado =
@@ -2167,7 +2094,6 @@ RIO DE JANEIRO
 RICARDO VALE 333.333.333-33 40 DIREITO CONSTITUCIONAL
 MINAS GERAIS
 
-
 PRoJEçÃo
 n LISTA DE ATRIBUTOS (RELAÇAO)
 
@@ -2203,7 +2129,6 @@ professores. Para tal, nós poderíamos realizar a seguinte operação algébric
 professor,
 cpf (PROFESSOR).
 
-
 NOME
 PROFESSOR
 
@@ -2226,7 +2151,6 @@ JANEIRO
 RICARDO VALE 333.333.333-33 40 DIREITO CONSTITUCIONAL
 MINAS GERAIS
 
-
 ROSENVAL
 JÚNIOR
 
@@ -2238,7 +2162,6 @@ gerais
 ALMEIDA 555.555.555-55 19 DIREITO ADMINISTRATIVO
 Espírito santo
 resultado
-
 
 NOME
 PROFESSOR
@@ -2260,18 +2183,13 @@ CPF
 
 111.111.111-
 
-
 222.222.222-
-
 
 333.333.333-
 
-
 444.444.444-
 
-
 555.555.555-
-
 
 I
 
@@ -2291,7 +2209,6 @@ e) união.
 
 Comentários: conforme vimos em aula, definir as colunas que devem ser exibidas é uma Projeção
 (Letra C).
-
 
 RENAME (RENoMEAçÀo)
 
@@ -2346,13 +2263,11 @@ alias costumam ser usados para tornar os nomes das colunas mais legíveis e exis
 apenas para a
 duração da consulta.
 
-
 A operação é caracterizada por R u S, onde R e S são duas relações com a mesma
 quantidade de atributos, os quais operam sobre o mesmo domínio. O resultado contém as
 tuplas que estão em R, S ou ambas. Suponha que R seja a relação professor e S a
 relação
 aluno, se quisermos fazer a união das duas relações temos que:
-
 
 TABELA PROFESSOR
 
@@ -2424,7 +2339,6 @@ uma tabela que contém, sem repetições, todos os elementos que são comuns às
 tabelas fornecidas como operandos. Vamos agora, mostrar um exemplo da operação de
 intersecção entre as tabelas professor escolar e professor universitário.
 
-
 TABELA PROFESSOR ESCOLAR
 
 NOME CPF DT NASCIMENTO
@@ -2434,7 +2348,6 @@ TABELA PROFESSOR UNIVERSITÁRIO
 
 NOME CPF DT NASCIMENTO
 DIEGO CARVALHO 111.111.111-11 12/10/1988
-
 
 RENATO DA COSTA
 RICARDO VALE
@@ -2499,7 +2412,6 @@ comutativa, ou seja, R-S í S-R. No caso do exemplo abaixo, observem que o resul
 trará as linhas que estão na Tabela PROFESSOR ESCOLAR que não estão na Tabela
 PROFESSOR UNIVERSITÁRIO.
 
-
 TAB ELA PROFESSOR ESCOLAR
 
 NOME CPF DT NASCIMENTO
@@ -2527,7 +2439,6 @@ NEVES 888.888.888-88 11/04/1985
 
 HERBERT ALMEIDA 555.555.555-55 28/02/1977
 
-
 PRoDUTo CARTESIANo
 
 (Relação A) X (Relação B)
@@ -2554,7 +2465,6 @@ DIREITO CONSTITUCIONAL 102
 
 RICARDO VALE 333.333.333-33
 DIREITO AMBIENTAL 103
-
 
 ROSENVAL JÚNIOR
 HERBERT ALMEIDA
@@ -2607,7 +2517,6 @@ ROSENV AL JUNIOR 444.444.444-44 DIREITO ADMINISTRATIVO 104
 
 HERBERT ALMEIDA 555.555.555-55 DIREITO ADMINISTRATIVO 104
 
-
 JUNçÃo
 
 RELAÇÃO A M CONDIÇÃO RELAÇÃO B
@@ -2628,7 +2537,6 @@ Se desejarmos apresentar - em uma única tabela - as linhas da Tabela PROFESSOR 
 Tabela DISCIPLINA cujo CÓDIGO (PROFESSOR) seja igual a CÓDIGO (DISCIPLINA),
 
 temos que: PROFESSOR txi CóDIGo = CóDIGo DISCIPLINA.
-
 
 TABELA PROFESSOR
 
@@ -2654,7 +2562,6 @@ DIREITO AMBIENTAL 103
 
 DIREITO ADMINISTRATIVO 104
 
-
 NOME PROFESSOR CPF CODIGO NOME DISCIPLINA
 DIEGO CARVALHO 111.111.111-11
 
@@ -2677,7 +2584,6 @@ entre os
 atributos de junção. Essa comparação é conhecida como predicado. Caso esse predicado
 seja uma igualdade entre valores, essa junção é conhecida como Equijoin. Vejamos um
 exemplo:
-
 
 Car
 
@@ -2735,7 +2641,6 @@ Full outer join: tuplas da relação à direita e à esquerda são preservadas
 
 Notação:
 
-
 PARTS
 
 Left outer join
@@ -2748,7 +2653,6 @@ Unmatched
 row
 
 Right outer join
-
 
 PART PROD# PRICE
 
@@ -2790,13 +2694,11 @@ PLASTIC 30 7.55
 
 Figura 4 - Exemplo de left, full e right outer join.
 
-
 Antijoin: Representada pelo seguinte símbolo: t>. A operação retorna os valores da
 relação
 que não satisfazem à condição de junção. Vejam o exemplo abaixo:
 
 Employee Dept Employee [> Dept
-
 
 Name Empld DeptName
 
@@ -2825,7 +2727,6 @@ todos".
 Seu resultado será composto, basicamente, pelos elementos da primeira tabela
 que se
 relacionem com todos os elementos da segunda tabela. Vejam o exemplo abaixo:
-
 
 Cl
 Cl
@@ -2885,7 +2786,6 @@ Uma expressão da álgebra relacional representando a tabela formada pelos códi
 (COD_FUNC) e nomes (NOME) dos funcionários que ganham salário (SAL) entre 1000 e
 3000 reais e trabalham no departamento de código (COD_DEP) 3 é
 
-
 ^COD_FUNCPNOME(CFCOD_DEP=3 A SAL>1ODD A SAL<30OD(TAB_FUNC))
 
 B A SAL<3COD(TAB_FUNC))
@@ -2931,7 +2831,6 @@ Operadores relacionais especiais
 * De restrição (também conhecido como seleção),
 projeção, junção e divisão.
 
-
 TABELA CoM o RESUMo DAS oPERAçõES DA ÁLGEBRA RELACIoNAL.
 
 OPERAÇÃO FINALIDADE
@@ -2952,7 +2851,6 @@ o rxj p
 
 JUNÇÃO O mesmo que EQUIJOIN, exceto que atributos de junção de R2 não são
 incluídos na /?1 * < condição junça-o>R2r>, OR
-
 
 NATURAL relação resultante; se os atributos de junção tiverem os mesmos nomes,
 eles nem sequer
@@ -2979,7 +2877,6 @@ R, nR2
 
 R,-R2
 
-
 PRODUTO
 CARTESIANO
 
@@ -2988,7 +2885,6 @@ possíveis combinações de tuplas de R, e R₂.
 
 R^ x R2
 
-
 DIVISÃO Produz uma relação F?(X) que inclui todas as tuplas t[X] em ^(Z) que
 aparecem em F?₁
 em combinação com toda tupla de R₂(Y), onde Z = X u Y.
@@ -2996,7 +2892,6 @@ em combinação com toda tupla de R₂(Y), onde Z = X u Y.
 R,(z)4-R₂(y>
 
 Figura 5 - Resumo das operações da álgebra relacional.
-
 
 NoRMALIZAçÃo
 
@@ -3019,7 +2914,6 @@ TABELA VENDAS
 
 Cod Compra Nome Endereço CPF
 Produto
-
 
 Thiago SQSW
 
@@ -3049,14 +2943,12 @@ Produto
 
 Thiago SQÍ3W 99999999 Caneta
 
-
 2 Thiago
 
 3 Thiago
 
 SQSW
 SQSW
-
 
 99999999
 
@@ -3091,7 +2983,6 @@ CLIENTE, não geramos uma anomalia de atualização e ainda por cima reduzimos
 a redundância dos dados.
 
 Show hein!? §
-
 
 CoNCEIToS BÁSICoS
 
@@ -3197,7 +3088,6 @@ ti[Nome] = t2[Nome] ti [Endereço] = t2[Endereçoj.
 
 Cod Compra Nome Endereço CPF Produto
 
-
 Thiago SQSW
 
 Thiago SQSW
@@ -3213,7 +3103,6 @@ Thiago SQSW
 Caneta
 Livro
 Borracha
-
 
 Mais uma vez: a questão aqui é perceber que se você escolher um determinado valor
 para
@@ -3271,7 +3160,6 @@ nessas informações, assinale a alternativa que contém o número total de supe
 distintas para essa tabela.
 
 (A) 2
-
 
 (B) 7
 
@@ -3352,7 +3240,6 @@ ANO: 2015 ÓRGÃO: TJDFT PROVA: PROGRAMAÇÃO DE SISTEMAS
 
 Julgue os itens seguintes a respeito de banco de dados.
 
-
 [61] Em uma tabela de um banco de dados relacional, se uma restrição de chave
 primária
 for definida como composta de mais de uma coluna, os seus valores poderão
@@ -3400,7 +3287,6 @@ exemplo.
 
 CódigoAluno | Nome | Telefones | Endereço
 
-
 A001
 
 B001
@@ -3442,7 +3328,6 @@ Praça Ramos
 Você consegue perceber que temos dois atributos acima que não são atômicos.
 Claramente, podemos dividir os valores presentes nas colunas Telefones e Endereço.
 
-
 Vamos trabalhar cada um dos casos separadamente, começando pela coluna Telefones.
 Para acabar com os atributos multivalores precisamos criar uma outra tabela
 que vai
@@ -3466,12 +3351,10 @@ atributos atômicos da coluna Endereço.
 
 Código Aluno Nome Logradouro Número Bairro Cep
 
-
 A001 Fabrício Ribeiro Rua 17 de
 Julho
 
 98 Morumbi 12635-965
-
 
 B001 Carlos
 
@@ -3484,7 +3367,6 @@ Março
 Janeiro
 
 54532-098
-
 
 C001 Emerson
 Pimentel
@@ -3521,7 +3403,6 @@ atributo em uma tupla deve ser um único valor do domínio desse atributo.
 relações contêm vários atributos em uma única coluna e não são permitidas
 no modelo relacional.
 
-
 SECUNDA FoRMA NoRMAL (2FN)
 
 A segunda forma norma visa resolver um problema de dependência parcial. Uma relação
@@ -3531,15 +3412,11 @@ os conceitos. Veja a tabela abaixo:
 
 Cod Compra CPF Nome Endereço Produto
 
-
 99999999 Thiago SQSW
 
-
 99999999 Thiago SQSW
-
 
 88888888 Flávia SQSW
-
 
 Caneta
 Livro
@@ -3556,7 +3433,6 @@ nova relação é criada para absolver os atributos por ele determinado. Assim t
 
 Cod Compra CPF Produto
 
-
 1 99999999
 
 2 99999999
@@ -3566,7 +3442,6 @@ Cod Compra CPF Produto
 Caneta
 Livro
 Borracha
-
 
 Nome
 
@@ -3579,7 +3454,6 @@ SQSW
 SQSW
 
 88888888 Flávia 304
-
 
 Agora temos duas relações com ausência de dependência funcional parcial. Logo, nosso
 modelo acima está na segunda forma normal. Lembrando que existe uma cumulatividade
@@ -3608,7 +3482,6 @@ IOQÊ 1-95E knprpwqra dEsjit 3 35D.O3 1
 
 I0CE 1 Wfl knpiESSwa rohlf G 380 03 6B80 ca
 
-
 N pedida Codiqo produto Ouarrt Valor unt Subtotal I
 
 1005 1-934 5 1 500,00 7 500,00
@@ -3624,7 +3497,6 @@ Cüdigo produto Pradtilo
 1-956 iriipiessúra desjet
 
 1-923 Imp rewora rn^nciai
-
 
 IfflS
 
@@ -3665,7 +3537,6 @@ uma chave da relação.
 Uma relação está na Terceira Forma Normal (3FN) se ela estiver na 2FN e nenhum
 atributo
 não chave (não primário) é transitivamente dependente de uma chave candidata. Enfim, na
-
 
 3FN não se aceita dependência transitiva. O Navathe descreve uma definição mais geral
 da terceira forma normal que diz basicamente o seguinte:
@@ -3744,7 +3615,6 @@ contudo, eles determinam o mesmo endereço, ou, em outras palavras, eles estão
 associados ao mesmo endereço. É justamente essa replicação que desejamos evitar na
 terceira forma normal. Vamos então separar a tabela acima:
 
-
 CPF Nome telResidencial
 
 001 Thiago 61 555-1255
@@ -3753,14 +3623,12 @@ CPF Nome telResidencial
 
 003 Lucas 61 555-1555
 
-
 Vinicius
 Ladjane
 
 61 555-1555
 
 81 555-9299
-
 
 Veja que a redundância anterior desapareceu
 a apenas um endereço da tabela abaixo.
@@ -3817,7 +3685,6 @@ HORA_ATEND)
 MEDICO (ID MEDICO, CRMJVIEDICO, NOMEJVIEDICO)
 CONSULTA (CRM MEDICO, DATA_ATEND, HORA_ATEND)
 
-
 (B) PACIENTE (ID PACIENTE, NOME_PACIENTE)
 MEDICO (ID MEDICO, CRMJVIEDICO, NOME_MEDICO)
 
@@ -3872,7 +3739,6 @@ DF5 4|
 
 Normalização FNBC
 
-
 LOTES1AX j
 
 Propriedade_num Area Numjote
@@ -3885,7 +3751,6 @@ Veja na figura que temos duas chaves candidatas (Propriedade_num) e
 (Nome_cidade,
 Numjote). Temos ainda uma dependência funcional onde Area determina o Nome_cidade.
 Neste caso, temos que fazer a separação proposta na figura acima. Veja que Area ->
-
 
 Nome_cidade não fere a terceira forma normal pois Nome_cidade é um atributo primário.
 Vamos agora continuar nosso estudo fazendo mais uma questão sobre o assunto.
@@ -3955,7 +3820,6 @@ SISTEMAS
 Considere a entidade a seguir, retirada de um diagrama de entidade-relacionamento, que
 possui como chave primária os atributos employeejd e start_date.
 
-
 JOB.HISTORY
 
 OTiployeeid
@@ -3993,7 +3857,6 @@ eliminarmos dependência
 parcial, podemos observar que a alternativa D está correta, pois é uma implicação da 2FN.
 
 Gabarito: D.
-
 
 As formas normais vistas até o momento são apoiadas em dependências funcionais (2FN,
 3FN e BCNF) e podem ser consideradas para cada relação. Uma base de dados será
@@ -4048,7 +3911,6 @@ Funcionário,
 Projeto e Dependente.
 
 0 0
-
 
 Funcionário Projeto Dependente
 
@@ -4112,7 +3974,6 @@ Outra definição, desta vez, de acordo com o Navathe. "Um esquema de relação 
 4FN com relação a um conjunto de dependências funcionais ou multivaloradas F se, para
 toda dependência multivalorada não trivial X—>—»Y em F+, X for uma superchave de R."
 
-
 Formalmente, o conjunto de todas as dependências de F, bem como todas as dependências
 que podem ser inferidas para F, é chamado de clausura de F, que é denotada por F+.
 
@@ -4152,7 +4013,6 @@ Thiago PM 02 Vinícius
 Thiago PM 02 Maria Clara
 
 Thiago PM. 02 Gustavo
-
 
 I Funcionário Dependente 1
 
@@ -4234,7 +4094,6 @@ Nono fornece Nome peca N<
 
 RI R2 R3
 
-
 Agora entenda que, o objetivo da 5FN é descobrir que a relação tem um dependência de
 junção não trivial, ou seja, possuir um conjunto de projeções que podem ser usadas
 para
@@ -4282,7 +4141,6 @@ Eliminar dependência multivalorada
 
 Figura 1 - Resumo das formas normais
 
-
 QUESTõES CoMENTADAS - CEBRASPE (CESPE)
 
 Aproveitamos este espaço para complementar seu entendimento sobre o assunto, sempre
@@ -4293,7 +4151,7 @@ modelo relacional, álgebra relacional e formas normais. A minha sugestão é qu
 de tentar fazer as questões você assista aos vídeos sobre o assunto associados a essa
 aula.
 
-Item. 1. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo:
+1. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo:
 Escrivão Conteúdo Banco de dados Relacional
 
 CPF
@@ -4328,7 +4186,7 @@ de dados.
 96 Os dados armazenados na referida tabela são considerados não estruturados.
 Comentário:
 
-Item. 93. Essa questão foi dada pelo CESPE como correta. Eu discordo. Vamos lá
+93. Essa questão foi dada pelo CESPE como correta. Eu discordo. Vamos lá
 ...
 
 supondo que exista uma tabela (modelo relacional) com dados e que os dados são
@@ -4347,22 +4205,22 @@ processo de Big Data, a mineração de dados como sugere a alternativa, pode apa
 como parte desse processo. Logo, na minha opinião temos uma alternativa errada,
 mas o CESPE julgou CORRETA.
 
-Item. 94. Para que a tabela seja considerada uma relação ela tem que possuir atributos
+94. Para que a tabela seja considerada uma relação ela tem que possuir atributos
 atômicos ou estar na primeira forma normal. Como não temos atributos compostos ou
 multivalorados podemos considerar a normalização a 1FN. Sendo assim, podemos
 marcar a assertiva como correta.
 
-Item. 95. O campo CPF pela descrição organização dos atributos pode ser usado como
+95. O campo CPF pela descrição organização dos atributos pode ser usado como
 chave primária, contudo não faz sentido falar de chave estrangeira quando
 temos
 apenas uma relação. Logo temos mais uma alternativa incorreta.
 
-Item. 96. Os dados armazenados no modelo relacional são dados estruturados. Logo, a
+96. Os dados armazenados no modelo relacional são dados estruturados. Logo, a
 alternativa está incorreta.
 
 Gabarito: 93.C(com ressalvas) 94.C 95.E 96.E
 
-Item. 2. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo:
+2. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo:
 Agente Conteúdo Banco de dados
 
 Considerando o modelo entidade-relacionamento (ER) precedente, julgue os seguintes
@@ -4374,8 +4232,7 @@ realizar a fusão das tabelas referentes às entidades envolvidas no relacioname
 
 Comentário: Vamos comentar cada uma das afirmações acima.
 
-
-Item. 82. Quando vamos passar do modelo ER para o relacional um relacionamento 1 :N,
+82. Quando vamos passar do modelo ER para o relacional um relacionamento 1 :N,
 precisamos pegar a chave primária do lado 1 e colocar como chave estrangeira do lado
 
 N. No exemplo, temos que usar a chave primária (código) associada ao tipo de produto
@@ -4386,7 +4243,7 @@ temos uma alternativa incorreta.
 
 Gabarito: 82. E
 
-Item. 3. Ano: 2018 Banca: CESPE Órgão: EBSERH Prova: Analista de Tecnologia da
+3. Ano: 2018 Banca: CESPE Órgão: EBSERH Prova: Analista de Tecnologia da
 Informação
 
 Com relação a banco de dados, julgue o item seguinte.
@@ -4414,7 +4271,7 @@ desse atributo estão presentes uma coluna de outra tabela.
 
 Gabarito: E
 
-Item. 4. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
+4. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
 
 Considerando os conceitos de banco de dados relacionais, assinale a opção correta a
 respeito das propriedades de uma tupla.
@@ -4430,7 +4287,6 @@ E Uma tupla nunca é vazia, seu grau pode variar de 1 até n.
 Comentário: Vimos informações que as tuplas são linhas de uma tabela. Elas, quando
 consideramos a referência teórica e matemática do modelo relacional não são
 ordenadas e não se repetem. Vamos agora analisar cada uma das alternativas acima.
-
 
 A) A tupla é a linha da tabela. Representa uma instância ou um valor armazenado.
 Pense na tabela aluno, cada aluno armazenado é uma tupla da tabela. Contudo, uma
@@ -4463,7 +4319,7 @@ denominada grau e pode variar de 0 até n. Logo, temos mais uma alternativa inco
 
 Gabarito: C
 
-Item. 5. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Análise de
+5. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Análise de
 Sistemas de Informação
 
 Acerca de modelagem relacional e pontos de função, julgue o item a seguir.
@@ -4490,7 +4346,6 @@ Vamos relembrar da nossa videoaula. Nela apresentamos um conjunto de
 componentes definidos pelo Date para banco de dados relacionais. Segundo ele o
 modelo relacional consiste em cinco componentes:
 
-
 1) Uma coleção ilimitada de tipos escalares, incluindo em particular o tipo booleano
 ou valor verdade. (TIPOS DE DADOS)
 
@@ -4509,7 +4364,7 @@ de relações a partir de outros valores de relações. (OPERAÇÕES)
 
 Gabarito: C.
 
-Item. 6. Banca: CESPE Ano: 2015 Órgão: TRE-MT Prova: Analista Judiciário - Análise
+6. Banca: CESPE Ano: 2015 Órgão: TRE-MT Prova: Analista Judiciário - Análise
 de Sistemas
 
 No modelo relacional formal,
@@ -4552,8 +4407,7 @@ parece saudável. Sendo assim, a alternativa E está incorreta.
 
 Gabarito: D.
 
-
-Item. 7. BANCA: CESPE ANO: 2015 ÓRGÃO: TRE-GO PROVA: TÉCNICO DO
+7. BANCA: CESPE ANO: 2015 ÓRGÃO: TRE-GO PROVA: TÉCNICO DO
 JUDICIÁRIO - PROGRAMAÇÃO DE SISTEMAS
 
 Julgue os seguintes itens, a respeito da modelagem de dados.
@@ -4596,7 +4450,7 @@ da tabela. Sendo assim podemos assinalar a alternativa como incorreta.
 
 Gabarito: C E E E.
 
-Item. 8. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Análise de
+8. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Análise de
 Sistemas de Informação
 
 Acerca de modelagem relacional, julgue o item a seguir.
@@ -4623,7 +4477,7 @@ os eventos de negócio, como a contratação de um novo funcionário.
 
 i Gabarito: E
 
-Item. 9. Ano: 2010 Banca: CESPE Órgão: MPU Prova: Analista de Informática - Banco
+9. Ano: 2010 Banca: CESPE Órgão: MPU Prova: Analista de Informática - Banco
 de Dados
 
 Acerca de administração de banco de dados relacionais, julgue os itens que
@@ -4645,7 +4499,7 @@ atualizações inválidas. Logo, a alternativa está incorreta.
 
 Gabarito: E.
 
-Item. 10. Ano: 2008 Banca: CESPE Órgão: STF Prova: Analista Judiciário - Tecnologia da
+10. Ano: 2008 Banca: CESPE Órgão: STF Prova: Analista Judiciário - Tecnologia da
 Informação
 
 O armazenamento e a recuperação de grandes quantidades de dados é um trabalho
@@ -4662,9 +4516,7 @@ apresenta o conceito de integridade referencial. Como eu falei, a integridade re
 modelo relacional. A ligação entre as tabelas é feira por meio destas IRs. Vejam mais
 um exemplo desta situação na figura abaixo:
 
-
 rattíat«EPARTMrtENTO
-
 
 ClrtK Pririéfrfk
 
@@ -4710,7 +4562,7 @@ Cher-M CvxAMta5 óa FUN CIONZRIO:
 
 Gabarito: C.
 
-Item. 11. Ano: 2014 Banca: CESPE Órgão: SUFRAMA Prova: Analista Técnico
+11. Ano: 2014 Banca: CESPE Órgão: SUFRAMA Prova: Analista Técnico
 -
 Tecnologia da Informação
 
@@ -4728,7 +4580,7 @@ alternativa está correta.
 
 Gabarito: C.
 
-Item. 12. BANCA: CESPE ANO: 2015 ÓRGÃO: TJDFT PROVA: PROGRAMAÇÃO DE
+12. BANCA: CESPE ANO: 2015 ÓRGÃO: TJDFT PROVA: PROGRAMAÇÃO DE
 SISTEMAS
 
 Julgue os itens seguintes a respeito de banco de dados.
@@ -4755,7 +4607,7 @@ correta.
 
 Gabarito: C.
 
-Item. 13. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário - Suporte
+13. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário - Suporte
 Técnico
 
 Acerca de banco de dados, julgue os itens que se seguem.
@@ -4779,7 +4631,7 @@ peculiaridades para validação do número. Assim a afirmação está incorreta.
 
 Gabarito: C E.
 
-Item. 14. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Área 08 Questão: 142
+14. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Área 08 Questão: 142
 
 A respeito de sistemas gerenciadores de banco de dados, julgue os próximos itens.
 
@@ -4797,8 +4649,7 @@ branco. Desta forma a alternativa está correta.
 
 Gabarito: C.
 
-
-Item. 15. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
+15. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
 Questão: 61 a 65
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados, julgue os
@@ -4816,16 +4667,16 @@ na primeira forma normal (1FN) consiste da eliminação das tabelas aninhadas.
 
 Comentário: Vamos comentar cada uma das alternativas acima.
 
-Item. 61. Primeiramente a hierarquia entre as formas normais é crescente, para estar na
+61. Primeiramente a hierarquia entre as formas normais é crescente, para estar na
 segunda é preciso estar na primeira, para estar na terceira é necessário que esteja na
 segunda e assim por diante. Veja que a afirmação da alternativa vai no sentido oposto.
 Logo, temos uma alternativa incorreta.
 
-Item. 62. A passagem para a terceira forma normal tem como objetivo eliminar as
+62. A passagem para a terceira forma normal tem como objetivo eliminar as
 dependências funcionais transitivas. O que está escrito na assertiva não chegar nem
 perto da definição. Sendo assim, a alternativa está errada.
 
-Item. 65. Essa questão do aninhamento de tabela associada a primeira forma normal nem
+65. Essa questão do aninhamento de tabela associada a primeira forma normal nem
 sempre é muito clara. Contudo, podemos perceber que, quando temos atributos
 compostos e multivalorados, há perda de atomicidade dos atributos. E a composição
 de diversos atributos atômicos pode ser vista como outra tabela. Logo, acabamos por
@@ -4833,7 +4684,7 @@ ter uma tabela dentro da outra.
 
 Gabarito: E E C.
 
-Item. 16. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
+16. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
 GOVERNAMENTAL - TECNOLOGIA DA INFORMAÇÃO
 
 A respeito de banco de dados, julgue os itens subsequentes.
@@ -4850,8 +4701,7 @@ usar chaves estrangeiras quando normalizamos para a 1FN.
 
 i Gabarito: E.
 
-
-Item. 17. BANCA: CESPE ANO: 2013 ÓRGÃO: CRPM PROVA: ANALISTA EM
+17. BANCA: CESPE ANO: 2013 ÓRGÃO: CRPM PROVA: ANALISTA EM
 GEOCIÊNCIAS - SISTEMAS DE INFORMAÇÃO
 
 No que concerne a mapeamento de dados lógico e físico e a elaboração e implantação
@@ -4877,7 +4727,7 @@ que participam do relacionamento.
 
 L_Ga_ba_r_it_o:_E.
 
-Item. 18. BANCA: CESPE ANO: 2013 ÓRGÃO: ANTT PROVA: ANALISTA
+18. BANCA: CESPE ANO: 2013 ÓRGÃO: ANTT PROVA: ANALISTA
 ADMINISTRATIVO - DESENVOLVIMENTO DE SISTEMAS
 
 Julgue os itens subsequentes, relativos a banco de dados.
@@ -4894,10 +4744,9 @@ Gabarito: C.
 
 L
 
-
 J
 
-Item. 19. BANCA: CESPE ANO: 2013 ÓRGÃO: TCE-ES PROVA: ANALISTA
+19. BANCA: CESPE ANO: 2013 ÓRGÃO: TCE-ES PROVA: ANALISTA
 ADMINISTRATIVO - INFORMÁTICA
 
 O conjunto de operações cujo resultado seja uma nova relação e que envolve seleção,
@@ -4909,7 +4758,6 @@ B álgebra relacional.
 C generalização.
 D chave primária.
 
-
 E herança.
 
 Comentário: Essa questão você deve fazer rapidamente e ganhar tempo na hora da
@@ -4918,7 +4766,7 @@ se você conhece as operações da álgebra relacional.
 
 Gabarito B.
 
-Item. 20. CESPE - Auditor de Controle Externo (TCE-PA)/lnformática/Analista de
+20. CESPE - Auditor de Controle Externo (TCE-PA)/lnformática/Analista de
 Sistema/2016
 
 Julgue o item que se segue, relativo a modelagem de dados.
@@ -4935,7 +4783,7 @@ considerados equivalentes caso gerem o mesmo esquema de banco de dados.
 
 Gabarito: C
 
-Item. 21. Ano: 2016 Banca: CESPE Órgão: TCE-SC Cargo: Auditor de TI
+21. Ano: 2016 Banca: CESPE Órgão: TCE-SC Cargo: Auditor de TI
 
 Com relação aos bancos de dados relacionais, julgue os próximos itens.
 
@@ -4963,7 +4811,6 @@ armazena informações advinda de uma ou mais tabelas. A visão não é armazena
 fisicamente em disco e é removida ou apagada ao final da sua utilização. Sendo assim,
 a alternativa 95 encontra-se incorreta.
 
-
 Dentro do contexto de bancos de dados relacionais, é possível usar as operações de
 junção. Essas operações utilizam atributos que operam sobre o mesmo domínio
 presentes em cada uma das tabelas. Esses atributos são utilizados para juntar ou
@@ -4972,7 +4819,7 @@ as tabelas. Vejam que temos mais uma vez uma alternativa correta.
 
 Gabarito: C E C.
 
-Item. 22. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 56
+22. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 56
 
 Acerca da aplicação dos princípios de normalização (Formas Normais), assinale a
 opção correta.
@@ -5020,8 +4867,7 @@ não pela segunda como sugere a questão.
 
 Gabarito: B
 
-
-Item. 23. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM
+23. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM
 TECNOLOGIA DA INFORMAÇÃO
 
 A respeito de modelo entidade-relacionamento e normalização, julgue os
@@ -5056,9 +4902,8 @@ demais conjuntamente. Vejam a figura abaixo:
 
 Gabarito: C C.
 
-Item. 24. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
+24. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
 GOVERNAMENTAL - TECNOLOGIA DA INFORMAÇÃO
-
 
 A respeito de banco de dados, julgue os itens subsequentes.
 
@@ -5106,10 +4951,9 @@ SQL inclui comandos para especificar direitos de acesso para relações e views.
 
 Gabarito: C E C E C.
 
-
 QUESTõES CESCRANRIo CoMENTADAS
 
-Item. 1. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
+1. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
 
 A Figura abaixo exibe uma tabela pertencente a um banco de dados
 Relacional. Essa tabela é
@@ -5154,13 +4998,13 @@ Comentário: Vamos lembrar algumas características que as colunas que fazer par
 da chave
 devem possuir:
 
-Item. 1. Isoladamente, cada coluna que faz parte da chave não pode ter
+1. Isoladamente, cada coluna que faz parte da chave não pode ter
 atributos nulos. Esse
 ponto elimina as colunas A e D das opções de composições para a chave
 primária. E
 consequentemente exclui as alternativas A, B e E.
 
-Item. 2. A composição dos atributos não pode ter valores repetidos em duas linhas da
+2. A composição dos atributos não pode ter valores repetidos em duas linhas da
 tabela. Essa
 é a propriedade de unicidade da chave.
 
@@ -5170,7 +5014,6 @@ observamos que os valos 2X, 88P se repetem na segunda e na penúltima linha para
 atributos
 C e E, o que inviabiliza o uso de, apenas esses dois atributos como chave primária.
 
-
 Isso nos leva a analisar a alternativa D, observe que, em conjunto, os valores dos
 atributos B, E
 e C não se repetem em nenhuma das linhas da tabela. Logo, temos
@@ -5179,12 +5022,11 @@ alternativa D.
 
 Gabarito: D
 
-Item. 2. CESGRANRIO - Engenheiro (PETROBRASJ/Equipamentos Júnior/Eletrônica/2018
+2. CESGRANRIO - Engenheiro (PETROBRASJ/Equipamentos Júnior/Eletrônica/2018
 
 As Tabelas W e Z, exibidas na Figura a seguir, fazem parte de um banco de dados relacional.
 
 W Z
-
 
 A
 
@@ -5264,9 +5106,9 @@ E H e B
 
 Comentário: Para resolver essa questão temos que ter em mente duas coisas.
 
-Item. 1. É necessário validar a unicidade da chave primária.
+1. É necessário validar a unicidade da chave primária.
 
-Item. 2. É necessário validas a integridade referencial. Ou seja, os valores da
+2. É necessário validas a integridade referencial. Ou seja, os valores da
 chave estrangeira
 devem estar presentes na coluna referenciada (chave primária).
 
@@ -5284,7 +5126,6 @@ c) (ERRADA) A coluna B pode ser uma chave primária, mas a coluna H possui o
 valor TYU2 que
 não existe na coluna G, logo, não pode ser considerada uma chave estrangeira.
 
-
 d) (CERTA) A coluna D pode ser considerada chave primária pois tem
 a propriedade de
 unicidade. Já a coluna B pode ser considerada uma chave estrangeira, pois
@@ -5297,7 +5138,7 @@ duas vezes, o que fere a propriedade de unicidade.
 
 Gabarito: D
 
-Item. 3. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
+3. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
 
 As chaves estrangeiras (FKs) são utilizadas no modelo
 
@@ -5349,8 +5190,7 @@ Assim temos o gabarito na alternativa E.
 
 Gabarito: E.
 
-
-Item. 4. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/EditaI 02
+4. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/EditaI 02
 
 Sejam as tabelas R(A1,A2) e S(A3,A4) pertencentes a um dado esquema
 relacional, em que
@@ -5382,9 +5222,9 @@ respectivamente, a chave primária e a chave estrangeira de R.
 
 Comentário: A chave estrangeira é uma coluna de uma tabela que pode assumir:
 
-Item. 1. Valor nulo, caso o relacionamento não seja obrigatório.
+1. Valor nulo, caso o relacionamento não seja obrigatório.
 
-Item. 2. Um dos valores da coluna referenciada, que geralmente é a chave
+2. Um dos valores da coluna referenciada, que geralmente é a chave
 primária da tabela
 referenciada.
 
@@ -5418,14 +5258,13 @@ e) ERRADO. Chaves estrangeiras aceitam o valor nulo e referenciam um valor
 contido na chave
 primária da tabela de origem.
 
-
 Gabarito: A.
 
 HORA DE
 
 PRATICAR!
 
-Item. 5. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETRO)/lnfraestrutura/2018
+5. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETRO)/lnfraestrutura/2018
 
 As Tabelas a seguir fazem parte do esquema de um banco de dados de uma
 escola de nível
@@ -5484,7 +5323,6 @@ tabela PARTICIPACAO.
 são atualizados na
 tabela PARTICIPACAO.
 
-
 Seja o seguinte comando SQL:
 
 SELECT P.MATRICULA
@@ -5524,12 +5362,11 @@ HORA DE
 
 PRATICAR!
 
-Item. 6. CESGRANRIO - Engenheiro (PETROBRASJ/Equipamentos Júnior/Eletrônica/2018
+6. CESGRANRIO - Engenheiro (PETROBRASJ/Equipamentos Júnior/Eletrônica/2018
 
 A Figura 1 a seguir exibe duas relações que fazem parte de um banco de dados relacional.
 
 S T
-
 
 A B
 
@@ -5564,7 +5401,6 @@ G H
 Sobre essas relações foi aplicada uma sequência de operações da
 Álgebra Relacional, que
 resultou na relação exibida na Figura 2.
-
 
 C
 
@@ -5630,8 +5466,7 @@ Gabarito: B.
 
 - PRATICAR!
 
-Item. 7. CESGRANRIO - Analista (PETROBRAS)/Sistema Júnior/2018
-
+7. CESGRANRIO - Analista (PETROBRAS)/Sistema Júnior/2018
 
 Um estagiário da área de administração de banco de dados recebeu a tarefa
 de normalizar as
@@ -5668,17 +5503,17 @@ seu dever da casa correto e nada mais precisa ser feito para a normalização a 
 Quer saber
 por quê?
 
-Item. 1. Todas as colunas são atômicas, logo não temos problemas com a primeira
+1. Todas as colunas são atômicas, logo não temos problemas com a primeira
 forma normal.
 Não existem atributos compostos ou multivalorados.
 
-Item. 2. As tabelas possuem chave primária e esta é simples, ou seja, não
+2. As tabelas possuem chave primária e esta é simples, ou seja, não
 temos problemas com a
 segunda forma normal. Não pode existir dependência parcial com chaves
 primárias de
 apenas 1 atributo.
 
-Item. 3. Todas as dependências transitivas foram eliminadas e com ela os
+3. Todas as dependências transitivas foram eliminadas e com ela os
 problemas resolvidos pela
 terceira forma normal.
 
@@ -5688,10 +5523,9 @@ Gabarito: E.
 
 - PRATICAR!
 
-Item. 8. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETROJ/Processos de Negócio/2018
+8. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETROJ/Processos de Negócio/2018
 
 Considere a seguinte notação para especificar componentes de esquemas relacionais:
-
 
 * Tabelas são descritas por um nome e uma lista de colunas, separadas por vírgulas.
 
@@ -5740,7 +5574,6 @@ y2^y3
 
 y3^yl
 
-
 T3(zl,z2,z3)
 
 (zl,z3)->z2
@@ -5783,8 +5616,7 @@ Por fim, a letra E apresenta a nossa resposta.
 
 Gabarito: E
 
-
-Item. 9. CESGRANRIO - Escriturário (BB)/"Sem Área"/2018
+9. CESGRANRIO - Escriturário (BB)/"Sem Área"/2018
 
 No âmbito de bancos de dados relacionais, uma tabela que esteja na
 
@@ -5834,14 +5666,13 @@ e) ERRADA. Uma tabela na 2FN pode conter chave primária composta.
 
 Gabarito: C
 
-Item. 10. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
+10. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
 
 Se uma tabela relacional atende à 2? forma normal, então ela NÃO possui
 A dependência funcional transitiva
 
 B dependência funcional multivalorada
 C coluna multivalorada
-
 
 D chave primária atômica
 E chave primária composta
@@ -5856,7 +5687,7 @@ alternativa C.
 
 Gabarito: C.
 
-Item. 11. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
+11. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
 
 A teoria da normalização para o modelo relacional especifica Formas
 Normais, critérios que
@@ -5895,12 +5726,11 @@ fazem parte das regras das Formas Normais.
 
 Gabarito: C.
 
-Item. 12. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
+12. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
 
 A Tabela relacional abaixo contém dados sobre os empregados de uma empresa
 que integram
 a sua comissão interna de prevenção de acidentes.
-
 
 MATRÍCULA
 
@@ -6028,7 +5858,6 @@ relacionais, sem que seja necessário fazê-lo por meio de comandos SQL.
 * Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas por
 vírgulas.
 
-
 * Por serem irrelevantes para a questão, os tipos de dados das colunas não são especificados.
 
 * Colchetes são usados para representar colunas que admitem o valor nulo.
@@ -6052,7 +5881,6 @@ fl REF F
 Sabendo-se que o esquema relacional preservou a semântica do modelo conceituai, qual
 diagrama E-R deu origem a esse esquema relacional?
 
-
 CM)
 
 B
@@ -6070,7 +5898,6 @@ O 91
 G
 
 D
-
 
 Comentário: Bom ... vamos resolver a questão ... vou descrever a lógica que usei para
 resolver...
@@ -6093,7 +5920,6 @@ Gabarito: C.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
-
 
 HORA DE
 
@@ -6146,14 +5972,12 @@ HORA DE
 
 PRATICAR!
 
-
-Item. 15. CESGRANRIO
+15. CESGRANRIO
 (Adaptada)
 
 Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
 
 A notação a seguir será usada para descrever esquemas de bancos de dados relacionais.
-
 
 * Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas
 por
@@ -6189,7 +6013,6 @@ B A(al,a2,a3)
 B(bl,b2)
 
 C(çl,c2)
-
 
 R(al,bl,rl)
 al REF A
@@ -6232,7 +6055,6 @@ C(çl,c2)
 
 R(al,bl,rl)
 al REF A
-
 
 bl REF B
 S(bl,cl)
@@ -6277,7 +6099,6 @@ D Cl={ xl,x2,x3,x4,x5,x6,x7,x8,x9}
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
-
 
 C2={ xl,x2,x3,x4,x5,x6,x7,x8,x9}
 E Cl={}
@@ -6344,8 +6165,7 @@ Gabarito: D
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
 
-
-Item. 17. Ano: 2016 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
+17. Ano: 2016 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
 Informação e Comunicação
 
 A segunda forma normal está relacionada com o conceito de
@@ -6376,11 +6196,10 @@ Após essa revisão podemos marcar nossa resposta na alternativa A.
 
 Gabarito: A
 
-Item. 18. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
+18. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
 
 O diagrama de entidades e relacionamentos a seguir representa o modelo de um banco de
 dados sobre o qual é possível deduzir o nível de abstração usado na representação.
-
 
 Concurso
 
@@ -6426,7 +6245,7 @@ Gabarito: C
 
 - PRATICAR!
 
-Item. 19. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
+19. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
 
 A álgebra relacional fornece um alicerce formal para as operações do modelo relacional.
 
@@ -6440,7 +6259,6 @@ satisfaça uma condição de seleção.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
-
 
 b) operação de PROJEÇÃO mantém quaisquer tuplas duplicadas, de modo que o resultado
 dessa operação é um conjunto de tuplas que pode conter tuplas repetidas
@@ -6471,7 +6289,7 @@ HORA DE
 
 - PRATICAR!
 
-Item. 20. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+20. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Para responder à questão, tenha como referência o diagrama de entidades e
@@ -6479,7 +6297,6 @@ relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
 
 Movimento
-
 
 Conta
 
@@ -6495,7 +6312,6 @@ dep_origem
 historico
 
 \>saldo
-
 
 Contato_C|iente
 
@@ -6529,7 +6345,6 @@ cidade
 
 <e_sta_d_o z
 
-
 Que expressão em Álgebra Relacional cria, a partir da Tabela Conta, uma Tabela com
 duas
 colunas, id_conta e debito_bloqueado_sn, contendo apenas as
@@ -6555,30 +6370,28 @@ representada pelos parênteses, podemos achar nossa resposta na alternativa C.
 
 Gabarito: C.
 
-Item. 21. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
+21. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
 de Sistemas
 
 O esquema de um banco de dados relacional é descrito de acordo com a seguinte notação:
 
-Item. 1. uma tabela possui um nome e um conjunto de colunas, separadas por vírgulas. Por exemplo,
+1. uma tabela possui um nome e um conjunto de colunas, separadas por vírgulas. Por exemplo,
 MX(coll,col2,col3,col4) representa uma tabela cujo nome é MX.
 
-Item. 2. os tipos de dados das colunas têm pouca importância para a questão, logo não são
+2. os tipos de dados das colunas têm pouca importância para a questão, logo não são
 apresentados.
 
-Item. 3. colunas que admitem o valor nulo são exibidas entre colchetes (por exemplo [col 1]).
+3. colunas que admitem o valor nulo são exibidas entre colchetes (por exemplo [col 1]).
 
-Item. 4. as colunas que compõem a chave primária de uma tabela estão sublinhadas.
+4. as colunas que compõem a chave primária de uma tabela estão sublinhadas.
 
-Item. 5. as chaves estrangeiras são representadas da seguinte forma:<lista_de_colunas> REF
+5. as chaves estrangeiras são representadas da seguinte forma:<lista_de_colunas> REF
 
 <nome_de_tabela>
 
 Seja o seguinte modelo E-R:
 
-
 Qual esquema relacional preserva a semântica do modelo acima?
-
 
 (A) E(ea,tipo,eb₁e1a,e2a,[d1],[x1],[f1],[y1])
 d1 REF D
@@ -6659,7 +6472,6 @@ escolha da questão. Logo, teremos: D (dl,d2) e X (dl, ea, xl). Neste caso, dl R
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
 
-
 Vejam que já precisamos buscar o atributo e E para compor a chave primária de X
 juntamente
 com dl. Agora vamos representar a herança, seja da entidade de nível superior seja
@@ -6685,7 +6497,7 @@ Juntando toda essa construção acima, podemos encontrar nossa resposta na alter
 
 Gabarito: B.
 
-Item. 22. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
+22. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
 da Informação
 
 Considere uma relação R seguindo o modelo de dados relacional com os campos atômicos
@@ -6722,37 +6534,34 @@ levando nossa resposta a alternativa C.
 
 Gabarito: C.
 
-
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
-
 
 HORA DE
 
 PRATICAR!
 
-Item. 23. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
+23. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
 
 O esquema de um banco de dados relacional é descrito segundo a notação a seguir.
 
-Item. 1. Uma tabela possui um nome e um conjunto de colunas, separadas por vírgulas. Por
+1. Uma tabela possui um nome e um conjunto de colunas, separadas por vírgulas. Por
 exemplo,
 TX(coll,col2,col3,col4) representa uma tabela cujo nome é TX.
 
-Item. 2. Os tipos de dados das colunas são irrelevantes para a questão, logo não são apresentados.
+2. Os tipos de dados das colunas são irrelevantes para a questão, logo não são apresentados.
 
-Item. 3. Colunas que admitem o valor nulo são exibidas entre colchetes (por exemplo [col 1]).
+3. Colunas que admitem o valor nulo são exibidas entre colchetes (por exemplo [col 1]).
 
-Item. 4. As colunas que compõem a chave primária de uma tabela estão sublinhadas.
+4. As colunas que compõem a chave primária de uma tabela estão sublinhadas.
 
-Item. 5. As chaves estrangeiras são representadas da seguinte forma: REF
+5. As chaves estrangeiras são representadas da seguinte forma: REF
 Seja o seguinte modelo E-R:
 
 Qual esquema relacional preserva a semântica do modelo acima?
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
-
 
 (A) EG(e1,e2,gl,g2,p1,p2,f1,q1,q2)
 f1 REF F
@@ -6829,7 +6638,7 @@ Gabarito: E.
 
 == PRATICAR!
 
-Item. 24. Ano: 2012 Banca: CESGRANRIO Órgão: Petrobras Prova: Analista de Sistemas Júnior - Processos
+24. Ano: 2012 Banca: CESGRANRIO Órgão: Petrobras Prova: Analista de Sistemas Júnior - Processos
 de Negócios-2012
 
 Na sua definição teórica, as relações do modelo relacional precisam satisfazer
@@ -6838,7 +6647,6 @@ propriedades, entre elas a de que
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
-
 
 a) cada atributo contém um conjunto finito de tuplas.
 
@@ -6853,19 +6661,19 @@ e) sempre existe uma tupla identificadora.
 Comentário: Segundo Date, as propriedades que precisam ser satisfeitas para que uma tabela
 possa ser considerada uma relação são as seguintes. Dentro de qualquer relação data:
 
-Item. 1. Cada tupla contém exatamente um valor (do tipo apropriado) para cada atributo.
+1. Cada tupla contém exatamente um valor (do tipo apropriado) para cada atributo.
 
-Item. 2. Atributos não são ordenados da esquerda para a direita.
+2. Atributos não são ordenados da esquerda para a direita.
 
-Item. 3. Tuplas não são ordenadas de cima para baixo.
+3. Tuplas não são ordenadas de cima para baixo.
 
-Item. 4. Não existem tuplas em duplicata.
+4. Não existem tuplas em duplicata.
 
 Logo, ao analisar as alternativas, podemos encontrar nossa resposta na letra D.
 
 Gabarito: D .
 
-Item. 25. Ano: 2012 Banca: CESGRANRIO Órgão: LIQUIGÁS Prova: Profissional Júnior - Administração de
+25. Ano: 2012 Banca: CESGRANRIO Órgão: LIQUIGÁS Prova: Profissional Júnior - Administração de
 Banco de Dados
 
 No Modelo Relacional,
@@ -6900,12 +6708,11 @@ Gabarito: B.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
 
-
 CAIU
 
 na prova!
 
-Item. 26. BANCA: CESGRANRIO ANO: 2013 ÓRGÃO: LIQUIGÁS PROVA: ANALISTA DE SISTEMAS -
+26. BANCA: CESGRANRIO ANO: 2013 ÓRGÃO: LIQUIGÁS PROVA: ANALISTA DE SISTEMAS -
 TECNOLOGIA DA INFORMAÇÃO
 
 Seja a seguinte sequência de operações da Álgebra Relacional:
@@ -6928,9 +6735,8 @@ HORA DE
 
 PRATICAR!
 
-Item. 27. BANCA: CESGRANRIO ANO: 2013 ÓRGÃO: BNDES PROVA: ANALISTA DE SISTEMAS - ANALISTA
+27. BANCA: CESGRANRIO ANO: 2013 ÓRGÃO: BNDES PROVA: ANALISTA DE SISTEMAS - ANALISTA
 DE SISTEMAS - DESENVOLVIMENTO
-
 
 T
 
@@ -6966,7 +6772,6 @@ R1 R2
 20 8
 
 Que sequência é essa?
-
 
 A R(R I ,R2) - nT1 „ (T) - nT1 J2 (T M T1>V3 V)
 
@@ -7009,7 +6814,7 @@ Gabarito: C.
 
 == PRATICAR!
 
-Item. 28. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: CEFET-RJ PROVA: TECNÓLOGO WEB
+28. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: CEFET-RJ PROVA: TECNÓLOGO WEB
 
 O mundo assistiu em março de 2013 à eleição de um novo Papa. Para facilitar seu
 trabalho na
@@ -7035,7 +6840,6 @@ Que consulta da álgebra relacional lista exclusivamente o nome e o país de tod
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
 
-
 Comentário: A dica para resolver esta questão é lembrar da operação de Natural Join.
 Vejam
 que nas duas tabelas existe o atributo cidade. A junção é, portanto, feita por meio
@@ -7060,7 +6864,7 @@ Gabarito: B.
 
 == PRATICAR!
 
-Item. 29. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: PETROBRAS PROVA: TÉCNICO TÉCNICO DE
+29. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: PETROBRAS PROVA: TÉCNICO TÉCNICO DE
 INFORMÁTICA
 
 Considere o esquema relacional abaixo, no qual placa é a chave primária.
@@ -7104,8 +6908,7 @@ Gabarito: D.
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
 
-
-Item. 30. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: FINEP PROVA: ANALISTA DA FINEP - INFORMÁTICA -
+30. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: FINEP PROVA: ANALISTA DA FINEP - INFORMÁTICA -
 DESENVOLVIMENTO DE SISTEMAS
 
 Qual forma normal se baseia no conceito de dependência multivalorada?
@@ -7120,7 +6923,7 @@ Comentário: Já vimos que a questão das dependências multivaloradas está rel
 
 Gabarito: E.
 
-Item. 31. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: PETROBRAS PROVA: TÉCNICO TÉCNICO DE
+31. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: PETROBRAS PROVA: TÉCNICO TÉCNICO DE
 INFORMÁTICA
 
 A álgebra relacional fornece um alicerce formal para as operações do modelo relacional.
@@ -7156,17 +6959,15 @@ Comentando a alternativa D, ela está incorreta por atribuir a operação de SEL
 é uma
 operação unária, o trabalho realizado pela operação de UNIÃO, que é uma operação binária.
 
-
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
-
 
 A alternativa E criou uma operação no modelo relacional ©, ela não existe. Uma operação
 unária que retorne duas relações. Lembre-se de propriedade de fechamento!
 
 Gabarito: C.
 
-Item. 32. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: BANCO DA AMAZÔNIA PROVA: TÉCNICO CIENTÍFICO
+32. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: BANCO DA AMAZÔNIA PROVA: TÉCNICO CIENTÍFICO
 
 - BANCO DE DADOS
 
@@ -7220,7 +7021,6 @@ RI4 (Decomposição) Se X->YZ, então X->Y e X^Z
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
 
-
 RI5 (Aditiva) Se X^Y e X^Z, então X^YZ
 
 RI6 (Pseudotransitiva) Se X->Y e WY->Z, então WX->Z
@@ -7249,14 +7049,13 @@ não conseguimos inferi-la por nenhuma das regras apresentadas.
 
 Gabarito: E.
 
-
 LISTA DE QUESTõES - CESPE (CEBRASPE)
 
 HORA DE
 
 PRATICAR!
 
-Item. 1. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo:
+1. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo:
 Escrivão Conteúdo Banco de dados Relacional
 
 CPF
@@ -7293,9 +7092,8 @@ xz HORA DE
 
 « PRATICAR!
 
-Item. 2. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo:
+2. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo:
 Agente Conteúdo Banco de dados
-
 
 Considerando o modelo entidade-relacionamento (ER) precedente, julgue os
 seguintes itens, relativos a banco de dados.
@@ -7309,7 +7107,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 1. Ano: 2018 Banca: CESPE Órgão: EBSERH Prova: Analista de Tecnologia da
+1. Ano: 2018 Banca: CESPE Órgão: EBSERH Prova: Analista de Tecnologia da
 Informação
 
 Com relação a banco de dados, julgue o item seguinte.
@@ -7321,7 +7119,7 @@ VS-, HO/RA DE
 
 « PRATICAR!
 
-Item. 2. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
+2. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
 
 Considerando os conceitos de banco de dados relacionais, assinale a opção correta
 a respeito das propriedades de uma tupla.
@@ -7338,9 +7136,8 @@ HORA DE
 
 PRATICAR!
 
-Item. 3. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Análise de
+3. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Análise de
 Sistemas de Informação
-
 
 Acerca de modelagem relacional e pontos de função, julgue o item a seguir.
 
@@ -7352,7 +7149,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 4. Banca: CESPE Ano: 2015 Órgão: TRE-MT Prova: Analista Judiciário - Análise
+4. Banca: CESPE Ano: 2015 Órgão: TRE-MT Prova: Analista Judiciário - Análise
 de Sistemas
 
 No modelo relacional formal,
@@ -7371,7 +7168,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 5. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Análise de
+5. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Análise de
 Sistemas de Informação
 
 Acerca de modelagem relacional, julgue o item a seguir.
@@ -7384,7 +7181,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 6. Ano: 2010 Banca: CESPE Órgão: MPU Prova: Analista de Informática - Banco
+6. Ano: 2010 Banca: CESPE Órgão: MPU Prova: Analista de Informática - Banco
 de Dados
 
 Acerca de administração de banco de dados relacionais, julgue os itens que se
@@ -7395,9 +7192,8 @@ precisão, correção ou validade. Nesse contexto, a integridade tem como funç�
 assegurar que os dados no banco de dados sejam precisos e preservados contra
 atualizações válidas.
 
-Item. 7. BANCA: CESPE ANO: 2015 ÓRGÃO: TRE-GO PROVA: TÉCNICO DO
+7. BANCA: CESPE ANO: 2015 ÓRGÃO: TRE-GO PROVA: TÉCNICO DO
 JUDICIÁRIO - PROGRAMAÇÃO DE SISTEMAS
-
 
 Julgue os seguintes itens, a respeito da modelagem de dados.
 
@@ -7420,7 +7216,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 8. Ano: 2008 Banca: CESPE Órgão: STF Prova: Analista Judiciário - Tecnologia
+8. Ano: 2008 Banca: CESPE Órgão: STF Prova: Analista Judiciário - Tecnologia
 da Informação
 
 O armazenamento e a recuperação de grandes quantidades de dados é um trabalho
@@ -7436,7 +7232,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 9. Ano: 2014 Banca: CESPE Órgão: SUFRAMA Prova: Analista Técnico -
+9. Ano: 2014 Banca: CESPE Órgão: SUFRAMA Prova: Analista Técnico -
 Tecnologia da Informação
 
 Com relação aos sistemas gerenciadores de banco de dados (SGBD), julgue os
@@ -7449,11 +7245,10 @@ HORA DE
 
 PRATICAR!
 
-Item. 10. Ano: 2015 Banca: CESPE Órgão: TJDFT Prova: Programação de
+10. Ano: 2015 Banca: CESPE Órgão: TJDFT Prova: Programação de
 Sistemas
 
 Julgue os itens seguintes a respeito de banco de dados.
-
 
 [61] Em uma tabela de um banco de dados relacional, se uma restrição de chave
 primária for definida como composta de mais de uma coluna, os seus valores
@@ -7464,7 +7259,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 11. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
+11. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário -
 Suporte Técnico
 
 Acerca de banco de dados, julgue os itens que se seguem.
@@ -7480,7 +7275,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 12. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Área 08 Questão: 142
+12. Ano: 2018 Banca: CESPE Órgão: ABIN Cargo: Área 08 Questão: 142
 
 A respeito de sistemas gerenciadores de banco de dados, julgue os próximos itens.
 
@@ -7491,7 +7286,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 13. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
+13. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
 Questão: 61 a 65
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados, julgue os
@@ -7508,12 +7303,11 @@ ocorre com as demais formas normais.
 relacional na primeira forma normal (1FN) consiste da eliminação das tabelas
 aninhadas.
 
-
 HORA DE
 
 PRATICAR!
 
-Item. 14. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
+14. BANCA: CESPE ANO: 2015 ÓRGÃO: CGE-PI PROVA: AUDITOR
 GOVERNAMENTAL - TECNOLOGIA DA INFORMAÇÃO
 
 A respeito de banco de dados, julgue os itens subsequentes.
@@ -7525,7 +7319,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 15. BANCA: CESPE ANO: 2013 ÓRGÃO: CRPM PROVA: ANALISTA EM
+15. BANCA: CESPE ANO: 2013 ÓRGÃO: CRPM PROVA: ANALISTA EM
 GEOCIÊNCIAS - SISTEMAS DE INFORMAÇÃO
 
 No que concerne a mapeamento de dados lógico e físico e a elaboração e
@@ -7539,7 +7333,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 16. BANCA: CESPE ANO: 2013 ÓRGÃO: ANTT PROVA: ANALISTA
+16. BANCA: CESPE ANO: 2013 ÓRGÃO: ANTT PROVA: ANALISTA
 ADMINISTRATIVO - DESENVOLVIMENTO DE SISTEMAS
 
 Julgue os itens subsequentes, relativos a banco de dados.
@@ -7551,7 +7345,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 17. BANCA: CESPE ANO: 2013 ÓRGÃO: TCE-ES PROVA: ANALISTA
+17. BANCA: CESPE ANO: 2013 ÓRGÃO: TCE-ES PROVA: ANALISTA
 ADMINISTRATIVO - INFORMÁTICA
 
 O conjunto de operações cujo resultado seja uma nova relação e que envolve
@@ -7563,10 +7357,9 @@ B álgebra relacional.
 C generalização.
 D chave primária.
 
-
 E herança.
 
-Item. 18. CESPE - Auditor de Controle Externo (TCE-PA)/lnformática/Analista de
+18. CESPE - Auditor de Controle Externo (TCE-PA)/lnformática/Analista de
 Sistema/2016
 
 Julgue o item que se segue, relativo a modelagem de dados.
@@ -7578,7 +7371,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 19. Ano: 2016 Banca: CESPE Órgão: TCE-SC Cargo: Auditor de TI
+19. Ano: 2016 Banca: CESPE Órgão: TCE-SC Cargo: Auditor de TI
 
 Com relação aos bancos de dados relacionais, julgue os próximos itens.
 
@@ -7599,7 +7392,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 20. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 56
+20. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 56
 
 Acerca da aplicação dos princípios de normalização (Formas Normais), assinale a
 opção correta.
@@ -7618,7 +7411,6 @@ todos os atributos de uma relação sejam multivalorados ou estejam em tabelas
 aninhadas, o que garante grupos repetidos de dados, reduzindo o tamanho físico do
 banco de dados.
 
-
 E A Segunda Forma Normal (2FN) requer que, ao fim da sua aplicação, não haja
 dependências transitivas de atributos que não sejam com toda chave candidata.
 
@@ -7626,7 +7418,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 21. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA -
+21. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA -
 ANALISTA EM TECNOLOGIA DA INFORMAÇÃO
 
 A respeito de modelo entidade-relacionamento e normalização, julgue os itens
@@ -7640,7 +7432,7 @@ de entidades, em um relacionamento ternário R entre três entidades A, B e C, a
 cardinalidade máxima de A e B dentro de R indica quantas ocorrências de C podem
 estar associadas a um par de ocorrências de A e B.
 
-Item. 22. BANCA: CESPE ANO: 201 ÓRGÃO: CGE-PI PROVA: AUDITOR
+22. BANCA: CESPE ANO: 201 ÓRGÃO: CGE-PI PROVA: AUDITOR
 GOVERNAMENTAL - TECNOLOGIA DA INFORMAÇÃO
 
 A respeito de banco de dados, julgue os itens subsequentes.
@@ -7662,61 +7454,59 @@ preciso criar chaves estrangeiras que representem a ligação entre elas.
 dados possibilita a criação das tabelas bem como a autorização de acesso aos
 dados para determinados usuários do banco de dados.
 
-
 GABARITo
 
-Item. 1. C(com ressalvas) CEE
+1. C(com ressalvas) CEE
 
-Item. 2. E
+2. E
 
-Item. 3. E
+3. E
 
-Item. 4. C
+4. C
 
-Item. 5. C
+5. C
 
-Item. 6. D
+6. D
 
-Item. 7. C E E E
+7. C E E E
 
-Item. 8. E
+8. E
 
-Item. 9. E
+9. E
 
-Item. 10. C
+10. C
 
-Item. 11. C
+11. C
 
-Item. 12. C
+12. C
 
-Item. 13. C E
+13. C E
 
-Item. 14. C
+14. C
 
-Item. 15. E E C
+15. E E C
 
-Item. 16. E
+16. E
 
-Item. 17. E
+17. E
 
-Item. 18. C
+18. C
 
-Item. 19. B
+19. B
 
-Item. 20. C
+20. C
 
-Item. 21. C E C
+21. C E C
 
-Item. 22. B
+22. B
 
-Item. 23. C C
+23. C C
 
-Item. 24. C E C E C
-
+24. C E C E C
 
 LISTA DE QUESTõES - CESGRANRIO
 
-Item. 1. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
+1. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
 
 A Figura abaixo exibe uma tabela pertencente a um banco de dados Relacional. Essa
 tabela é
@@ -7758,13 +7548,11 @@ D (B, E, C)
 
 E (E, D, C)
 
-Item. 2. CESGRANRIO - Engenheiro (PETROBRAS)/Equipamentos Júnior/Eletrônica/2018
+2. CESGRANRIO - Engenheiro (PETROBRAS)/Equipamentos Júnior/Eletrônica/2018
 
 As Tabelas W e Z, exibidas na Figura a seguir, fazem parte de um banco de dados relacional.
 
-
 w Z
-
 
 A
 2222
@@ -7839,7 +7627,7 @@ C B e H
 D D e B
 E H e B
 
-Item. 3. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
+3. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
 
 As chaves estrangeiras (FKs) são utilizadas no modelo
 
@@ -7851,7 +7639,7 @@ C entidade-relacionamento para representar relacionamentos.
 D relacional para representar atributos que admitem valores nulos.
 E relacional para representar ligações entre linhas de tabelas.
 
-Item. 4. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
+4. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
 
 Sejam as tabelas R(A1,A2) e S(A3,A4) pertencentes a um dado esquema relacional, em que
 todos os atributos (Al, A2, A3 e A4) assumem valores inteiros. Sabe-se também que A4
@@ -7868,7 +7656,6 @@ B for nulo ou igual a um valor de Al ou A2 em alguma tupla de R,
 sendo Al e A2,
 respectivamente, a chave primária e a chave estrangeira de R.
 
-
 C nunca for nulo e for igual a um valor de Al em uma tupla de R, sendo Al a
 chave primária de
 R.
@@ -7881,7 +7668,7 @@ E nunca for nulo e for igual a um valor de Al ou A2, em alguma tupla de R, sendo
 Al e A2,
 respectivamente, a chave primária e a chave estrangeira de R.
 
-Item. 5. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETRO)/lnfraestrutura/2018
+5. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETRO)/lnfraestrutura/2018
 
 As Tabelas a seguir fazem parte do esquema de um banco de dados de uma escola de
 nível
@@ -7934,7 +7721,6 @@ alunos inscritos.
 inserida na
 tabela PARTICIPACAO.
 
-
 * Após a correção de um simulado, os pontos obtidos pelos alunos inscritos são
 atualizados na
 tabela PARTICIPACAO.
@@ -7963,12 +7749,11 @@ PARTICIPACAO)
 
 * E HMATRICULA ((oDATA = '02/06/2017' (SIMULADO))ixCoDIGo=PARTICIPACAo.CoDIGo PARTICIPACAO)
 
-Item. 6. CESGRANRIO - Engenheiro (PETROBRAS)/Equipamentos Júnior/Eletrônica/2018
+6. CESGRANRIO - Engenheiro (PETROBRAS)/Equipamentos Júnior/Eletrônica/2018
 
 A Figura 1 a seguir exibe duas relações que fazem parte de um banco de dados relacional.
 
 S T
-
 
 A B
 
@@ -8016,13 +7801,12 @@ A (OB>25 (TTC(S))) MA=GT
 
 B Tlc ((Ob>25 (S))) MA=G T)
 
-
 C JTc (SMc=G T)
 
 D Tic ((<JG<40 (T)) MG=A S)
 E TTc (<JB<35 (A))
 
-Item. 7. CESGRANRIO - Analista (PETROBRASJ/Sistema Júnior/2018
+7. CESGRANRIO - Analista (PETROBRASJ/Sistema Júnior/2018
 
 Um estagiário da área de administração de banco de dados recebeu a tarefa de
 normalizar as
@@ -8052,7 +7836,7 @@ D é necessário eliminar todas as colunas multivaloradas existentes.
 
 E nada mais precisa ser feito.
 
-Item. 8. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETROJ/Processos de Negócio/2018
+8. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETROJ/Processos de Negócio/2018
 
 Considere a seguinte notação para especificar componentes de esquemas relacionais:
 
@@ -8071,7 +7855,6 @@ A Tl(xl,x2,x3)
 
 x2->xl
 x!4>x3
-
 
 T2(yl,y2,y3)
 y2^yl
@@ -8116,7 +7899,6 @@ x2->x4
 
 T2(yl,y2ty3)
 
-
 T3(zl,z2,z3)
 z2^zl
 
@@ -8134,7 +7916,7 @@ T3(zl,z2,z3)
 z2-»zl
 z2->z3
 
-Item. 9. CESGRANRIO - Escriturário (BB)/"Sem Área'72018
+9. CESGRANRIO - Escriturário (BB)/"Sem Área'72018
 
 No âmbito de bancos de dados relacionais, uma tabela que esteja na
 
@@ -8146,7 +7928,7 @@ C terceira forma normal não pode conter dependências funcionais parciais.
 D terceira forma normal pode conter dependências funcionais transitivas.
 E segunda forma normal não pode conter chave primária composta.
 
-Item. 10. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
+10. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
 
 Se uma tabela relacional atende à 22 forma normal, então ela NÃO possui
 A dependência funcional transitiva
@@ -8157,7 +7939,7 @@ C coluna multivalorada
 D chave primária atômica
 E chave primária composta
 
-Item. 11. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
+11. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
 
 A teoria da normalização para o modelo relacional especifica Formas Normais, critérios
 que
@@ -8170,18 +7952,16 @@ A nulos
 
 B indivisíveis
 
-
 C multivalorados
 
 D contidos na chave primária
 
 E contidos tanto na chave primária quanto na chave estrangeira
 
-Item. 12. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
+12. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
 
 A Tabela relacional abaixo contém dados sobre os empregados de uma empresa que integram
 a sua comissão interna de prevenção de acidentes.
-
 
 MATRÍCULA
 
@@ -8296,7 +8076,6 @@ E não atende a nenhuma das formas normais.
 A notação a seguir é uma forma alternativa de descrever esquemas de bancos de dados
 relacionais, sem que seja necessário fazê-lo por meio de comandos SQL.
 
-
 * Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas
 por
 vírgulas.
@@ -8331,7 +8110,6 @@ diagrama E-R deu origem a esse esquema relacional?
 
 ----------O 9 2
 
-
 CM)
 
 B
@@ -8350,14 +8128,13 @@ G
 
 D
 
-
 r>fl
 
 O»1
 
 E
 
-Item. 14. CESGRANRIO - Técnico Científico (BASA)/Tecnologia da lnformação/2018
+14. CESGRANRIO - Técnico Científico (BASA)/Tecnologia da lnformação/2018
 
 Considere que, em um modelo Entidade-Relacionamento, há duas entidades denominadas X e
 Y que se relacionam por meio de um relacionamento denominado R; que uma entidade de X
@@ -8388,14 +8165,13 @@ referencia a chave primária de TR.
 
 E uma tabela T com todos os atributos das entidades X e Y.
 
-Item. 15. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
+15. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
 (Adaptada)
 
 A notação a seguir será usada para descrever esquemas de bancos de dados relacionais.
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
-
 
 * Uma tabela é descrita por meio de um nome e um conjunto de colunas, separadas por
 vírgulas.
@@ -8430,7 +8206,6 @@ B A(al,a2,a3)
 B(bl,b2)
 
 C(çl,c2)
-
 
 R(al,bl,rl)
 al REF A
@@ -8474,13 +8249,12 @@ C(çl,c2)
 R(al,bl,rl)
 al REF A
 
-
 bl REF B
 S(bl,cl)
 bl REF B
 cl REF C
 
-Item. 16. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
+16. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
 
 A Figura a seguir exibe, por meio de um diagrama E-R, o modelo conceituai de um banco de
 dados.
@@ -8520,7 +8294,7 @@ c) dependência multivalorada
 d) tabelas aninhadas
 e) colunas multivaloradas
 
-Item. 18. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
+18. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
 
 O diagrama de entidades e relacionamentos a seguir representa o modelo de um banco de
 dados
@@ -8537,7 +8311,7 @@ d) deve ser transformado em um modelo dimensional.
 
 e) deve ser transformado em um modelo UML.
 
-Item. 19. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
+19. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Informática Júnior
 
 A álgebra relacional fornece um alicerce formal para as operações do modelo relacional.
 
@@ -8562,7 +8336,7 @@ original em duas relações: uma tem as colunas (atributos) necessárias e cont�
 resultado da
 operação, e a outra contém as colunas descartadas
 
-Item. 20. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+20. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Para responder à questão, tenha como referência o diagrama de entidades e
@@ -8570,7 +8344,6 @@ relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
 
 Movimento
-
 
 Conta
 
@@ -8586,7 +8359,6 @@ dep_origem
 historico
 
 \_sald_o z
-
 
 Contato_C|iente
 
@@ -8636,23 +8408,22 @@ igual a
 
 (E) ^id_conta,debito_bloqueado_sn(^credito_bloqueado_sn="S" (Conta))
 
-Item. 21. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
+21. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Analise
 de Sistemas
 
 O esquema de um banco de dados relacional é descrito de acordo com a seguinte notação:
 
-Item. 1. uma tabela possui um nome e um conjunto de colunas, separadas por vírgulas. Por
+1. uma tabela possui um nome e um conjunto de colunas, separadas por vírgulas. Por
 exemplo,
 MX(coll,col2,col3,col4) representa uma tabela cujo nome é MX.
 
-Item. 2. os tipos de dados das colunas têm pouca importância para a questão, logo não são apresentados.
+2. os tipos de dados das colunas têm pouca importância para a questão, logo não são apresentados.
 
+3. colunas que admitem o valor nulo são exibidas entre colchetes (por exemplo [col 1]).
 
-Item. 3. colunas que admitem o valor nulo são exibidas entre colchetes (por exemplo [col 1]).
+4. as colunas que compõem a chave primária de uma tabela estão sublinhadas.
 
-Item. 4. as colunas que compõem a chave primária de uma tabela estão sublinhadas.
-
-Item. 5. as chaves estrangeiras são representadas da seguinte
+5. as chaves estrangeiras são representadas da seguinte
 forma:<lista_de_colunas> REF
 
 <nome_de_tabela>
@@ -8660,7 +8431,6 @@ forma:<lista_de_colunas> REF
 Seja o seguinte modelo E-R:
 
 Qual esquema relacional preserva a semântica do modelo acima?
-
 
 (A) E(ea,tipo,eb,e1a,e2a,[d1],[x1],[f1],[y1])
 d1 REF D
@@ -8725,8 +8495,7 @@ d1 REF D
 
 D(ü,d2)
 
-
-Item. 22. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
+22. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa - Tecnologia
 da Informação
 
 Considere uma relação R seguindo o modelo de dados relacional com os campos atômicos
@@ -8752,26 +8521,24 @@ d) está na FNBC e não está na 3FN
 
 e) está na 3FN e não está na FNBC
 
-Item. 23. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
+23. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
 
 O esquema de um banco de dados relacional é descrito segundo a notação a seguir.
 
-Item. 1. Uma tabela possui um nome e um conjunto de colunas, separadas por vírgulas. Por
+1. Uma tabela possui um nome e um conjunto de colunas, separadas por vírgulas. Por
 exemplo,
 TX(coll,col2,col3,col4) representa uma tabela cujo nome éTX.
 
-Item. 2. Os tipos de dados das colunas são irrelevantes para a questão, logo não são apresentados.
+2. Os tipos de dados das colunas são irrelevantes para a questão, logo não são apresentados.
 
-Item. 3. Colunas que admitem o valor nulo são exibidas entre colchetes (por exemplo [coll]).
+3. Colunas que admitem o valor nulo são exibidas entre colchetes (por exemplo [coll]).
 
-Item. 4. As colunas que compõem a chave primária de uma tabela estão sublinhadas.
+4. As colunas que compõem a chave primária de uma tabela estão sublinhadas.
 
-Item. 5. As chaves estrangeiras são representadas da seguinte forma: REF
+5. As chaves estrangeiras são representadas da seguinte forma: REF
 Seja o seguinte modelo E-R:
 
-
 Qual esquema relacional preserva a semântica do modelo acima?
-
 
 (A) EG(el,e2,gl,g2,p1,p2,f1,q1,q2)
 Í1 REF F
@@ -8827,8 +8594,7 @@ e1 REF E
 
 F(fl.f2)
 
-
-Item. 24. Ano: 2012 Banca: CESGRANRIO Órgão: Petrobras Prova: Analista de Sistemas Júnior - Processos
+24. Ano: 2012 Banca: CESGRANRIO Órgão: Petrobras Prova: Analista de Sistemas Júnior - Processos
 de Negócios-2012
 
 Na sua definição teórica, as relações do modelo relacional precisam
@@ -8844,7 +8610,7 @@ d) inexistem tuplas duplicadas.
 
 e) sempre existe uma tupla identificadora.
 
-Item. 25. Ano: 2012 Banca: CESGRANRIO Órgão: LIQUIGÁS Prova: Profissional Júnior - Administração de
+25. Ano: 2012 Banca: CESGRANRIO Órgão: LIQUIGÁS Prova: Profissional Júnior - Administração de
 Banco de Dados
 
 No Modelo Relacional,
@@ -8859,7 +8625,7 @@ d) os domínios são conjuntos de valores múltiplos.
 
 e) um esquema de relação é uma coleção de n-tuplas.
 
-Item. 26. BANCA: CESGRANRIO ANO: 2013 ÓRGÃO: LIQUIGÁS PROVA: ANALISTA DE SISTEMAS -
+26. BANCA: CESGRANRIO ANO: 2013 ÓRGÃO: LIQUIGÁS PROVA: ANALISTA DE SISTEMAS -
 TECNOLOGIA DA INFORMAÇÃO
 
 Seja a seguinte sequência de operações da Álgebra Relacional:
@@ -8873,9 +8639,8 @@ C Projeção, junção e seleção
 D Projeção, seleção e junção
 E Seleção, projeção e junção
 
-Item. 27. BANCA: CESGRANRIO ANO: 2013 ÓRGÃO: BNDES PROVA: ANALISTA DE SISTEMAS - ANALISTA
+27. BANCA: CESGRANRIO ANO: 2013 ÓRGÃO: BNDES PROVA: ANALISTA DE SISTEMAS - ANALISTA
 DE SISTEMAS - DESENVOLVIMENTO
-
 
 T
 
@@ -8930,7 +8695,7 @@ D R(R1 ,R2)«—7tT1v1 «aT1>15(T))M T2>V1 («v:.v<_,wy <V)>)
 E P(R I.R2)-7IT1T2(T)-TIV3V1(V)
 R - ° R2=17 (P)
 
-Item. 28. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: CEFET-RJ PROVA: TECNÓLOGO WEB
+28. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: CEFET-RJ PROVA: TECNÓLOGO WEB
 
 O mundo assistiu em março de 2013 à eleição de um novo Papa. Para facilitar seu
 trabalho na
@@ -8953,8 +8718,7 @@ Que consulta da álgebra relacional lista exclusivamente o nome e o país de tod
 
 (E) ° Nome Pais (CARDEAL X CIDADEPAIS)
 
-
-Item. 29. BANCA: CESGRANRIO ANO: 2014 ORGAO: PETROBRAS PROVA: TÉCNICO TÉCNICO DE
+29. BANCA: CESGRANRIO ANO: 2014 ORGAO: PETROBRAS PROVA: TÉCNICO TÉCNICO DE
 INFORMÁTICA
 
 Considere o esquema relacional abaixo, no qual placa é a chave primária.
@@ -8975,7 +8739,7 @@ D HP1aca (GAno = 2011 AND Valor < 9000 (VE1CU L0 ))
 
 E ^Placa (^Ano = 2011; KValor < 9000 (VEICU L0 ))
 
-Item. 30. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: FINEP PROVA: ANALISTA DA FINEP - INFORMÁTICA -
+30. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: FINEP PROVA: ANALISTA DA FINEP - INFORMÁTICA -
 DESENVOLVIMENTO DE SISTEMAS
 
 Qual forma normal se baseia no conceito de dependência multivalorada?
@@ -8986,7 +8750,7 @@ C Segunda Forma Normal
 D Terceira Forma Normal
 E Quarta Forma Normal
 
-Item. 31. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: PETROBRAS PROVA: TÉCNICO TÉCNICO DE
+31. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: PETROBRAS PROVA: TÉCNICO TÉCNICO DE
 INFORMÁTICA
 
 A álgebra relacional fornece um alicerce formal para as operações do modelo relacional.
@@ -9008,14 +8772,13 @@ D operação SELEÇÃO é usada para incluir todas as tuplas de duas relações 
 única relação,
 sendo que as tuplas duplicadas são eliminadas.
 
-
 E resultado da operação SELEÇÃO pode ser visualizado como uma partição vertical da
 relação
 original em duas relações: uma tem as colunas (atributos) necessárias e contém o
 resultado da
 operação, e a outra contém as colunas descartadas.
 
-Item. 32. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: BANCO DA AMAZÔNIA PROVA: TÉCNICO CIENTÍFICO
+32. BANCA: CESGRANRIO ANO: 2014 ÓRGÃO: BANCO DA AMAZÔNIA PROVA: TÉCNICO CIENTÍFICO
 
 - BANCO DE DADOS
 
@@ -9036,72 +8799,70 @@ EY-»ZX
 
 GABARITo
 
-Item. 1. D
+1. D
 
-Item. 2. D
+2. D
 
-Item. 3. E
+3. E
 
-Item. 4. A
+4. A
 
-Item. 5. E
+5. E
 
-Item. 6. B
+6. B
 
-Item. 7. E
+7. E
 
-Item. 8. E
+8. E
 
-Item. 9. C
+9. C
 
-Item. 10. C
+10. C
 
-Item. 11. C
+11. C
 
-Item. 12. E
+12. E
 
-Item. 13. C
+13. C
 
-Item. 14. B
+14. B
 
-Item. 15. C
+15. C
 
-Item. 16. D
+16. D
 
+17. A
 
-Item. 17. A
+18. C
 
-Item. 18. C
+19. C
 
-Item. 19. C
+20. C
 
-Item. 20. C
+21. B
 
-Item. 21. B
+22. C
 
-Item. 22. C
+23. E
 
-Item. 23. E
+24. D
 
-Item. 24. D
+25. B
 
-Item. 25. B
+26. D
 
-Item. 26. D
+27. C
 
-Item. 27. C
+28. B
 
-Item. 28. B
+29. D
 
-Item. 29. D
+30. E
 
-Item. 30. E
+31. C
 
-Item. 31. C
-
-Item. 32. E
+32. E
 
 SERPRO (Analista - Especialização: Tecnologia) Banco de dados - 2023
 (Pós-Edital)
-
 

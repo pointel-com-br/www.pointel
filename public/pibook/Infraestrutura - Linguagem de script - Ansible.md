@@ -1,5 +1,4 @@
-Capítulo. Infraestrutura - Linguagem de script - Ansible.
-
+# Infraestrutura - Linguagem de script - Ansible.
 
 Ansible é uma popular ferramenta de automação de TI que também pode ser considerada uma linguagem de script. Embora seja baseado em YAML, uma linguagem de marcação de dados, o Ansible permite a escrita de scripts para automatizar e orquestrar tarefas de infraestrutura.
 

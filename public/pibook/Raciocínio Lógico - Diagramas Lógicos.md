@@ -1,5 +1,4 @@
-Capítulo. Raciocínio Lógico - Diagramas Lógicos.
-
+# Raciocínio Lógico - Diagramas Lógicos.
 
 Índice
 
@@ -22,7 +21,6 @@ Capítulo. Raciocínio Lógico - Diagramas Lógicos.
 9) Lista de Questões - Diagramas Lógicos - Cebraspe
 
 10) Lista de Questões - Validade de Argumentos - Cebraspe
-
 
 PRoPoSIçõES QUANTIFICADAS E DIAGRAMAS LóGICoS
 
@@ -54,7 +52,6 @@ Nesse momento, já gostaria de resolver uma questão com vocês em que esclareç
 situações que podem
 causar dúvidas! Galera, muita atenção nos comentários!
 
-
 W ESCLARECENDO!
 
 é FIQUE
@@ -85,7 +82,6 @@ somem e é possível
 dizer com precisão que a sentença é falsa. Ora, se conseguimos atribuir um valor
 lógico para a sentença, ela
 não é aberta.
-
 
 B) 7 + 3 = 11
 
@@ -144,7 +140,6 @@ poderá ser verdadeira ou falsa. Trata-se de uma sentença aberta.
 Para não ficarmos apenas na teoria, vamos praticar o que acabamos de ver em uma questão bem
 completa.
 
-
 HORA DE
 
 PRATICAR!
@@ -200,7 +195,6 @@ que Donald Trump não é mais o presidente dos EUA (portanto, a sentença é fal
 
 Gabarito: LETRA B.
 
-
 Proposições Quantificadas e Categóricas
 
 Agora que relembramos o que é uma sentença aberta, vamos descobrir como a
@@ -254,7 +248,6 @@ Percebemos que essa
 afirmação é falsa. Veja que, de fato, com a simples adição do
 quantificador, conseguimos julgar a
 afirmação e atribuir-lhe um valor lógico.
-
 
 o Todo homem é careca.
 
@@ -312,7 +305,6 @@ Lemos essa expressão como "existe x tal que x é menor ou igual a pi.". Atente-
 que, mais uma vez, é
 possível atribuir um valor lógico à expressão. De fato, existem números que são menores que pi.
 
-
 o Algum homem é careca.
 
 Podemos usar também "algum" para denotar o quantificador existencial. E aí?
@@ -326,7 +318,6 @@ HORA DE
 PRATICAR!
 
 r . .. .
-
 
 (PREF. DE GRAMADO-RS/2019) A alternativa que apresenta uma sentença aberta com
 o quantificador
@@ -374,7 +365,6 @@ Negação de Proposições Quantificadas
 Antes de aprendermos a negar proposições quantificadas, devemos conhecer alguns
 tipos de proposições
 que são fundamentais.
-
 
 * Proposição Universal Afirmativa: É toda proposição iniciada por um
 quantificador universal e cujo
@@ -434,11 +424,9 @@ futebol". Esse tipo de erro é bastante comum entre os alunos.
 
 0 0
 
-
 / 60
 
 /
-
 
 Para negar o fato de que "todo brasileiro gosta de futebol" devemos falar que "pelo
 menos um brasileiro
@@ -490,7 +478,6 @@ Tudo na oração que se declara sobre o sujeito
 Todo estudante alcança seus objetivos.
 
 Qualquer auditor ganha muito bem.
-
 
 HORA DE
 
@@ -551,7 +538,6 @@ Observe que quando temos o quantificador universal "nenhum", não precisamos neg
 predicado. Isso
 acontece pois quando falamos "nenhum", na verdade já temos uma negação subentendida.
 
-
 I»
 
 HORA DE
@@ -559,7 +545,6 @@ HORA DE
 PRATICAR!
 
 .. ..
-
 
 (SEFAZ-ES/2022) A negação de "Nenhuma cobra voa" é
 
@@ -622,7 +607,6 @@ r: Pelo menos uma pessoa participou do congresso.
 
 -r: Nenhuma pessoa participou do congresso.
 
-
 HORA DE
 
 PRATICAR!
@@ -641,7 +625,6 @@ afirmação é falsa,
 : D) nenhum animal preto é inseto.
 
 i E) nem todos os insetos são pretos.
-
 
 ; Comentários:
 
@@ -668,7 +651,6 @@ Observe uma questão bem recente:
 
 EXEMPLIFICANDO
 
-
 *
 
 í (CM TAUBATÉ/2022) O avô de Luciano disse: "Com óculos, todas as fotos são nítidas."
@@ -684,7 +666,6 @@ b) com óculos todas as fotos não são nítidas.
 d) com óculos há, pelo menos, uma foto que não é nítida.
 
 : e) com óculos nenhuma foto é nítida.
-
 
 Zll
 
@@ -743,7 +724,6 @@ positiva" e "proposição
 
 0 0
 
-
 particular negativa". No entanto, essa mesma classificação ganha uma nomenclatura nova
 no contexto das
 proposições categóricas. Acompanhe:
@@ -774,7 +754,6 @@ Forma Aspecto Geral Exemplo I
 
 A Todo S é P. Todo brasileiro é educado.
 
-
 E Todo S não é P
 Nenhum S é P.
 
@@ -802,7 +781,6 @@ entender melhor como classificamos as proposições categóricas em mais quatro 
 par
 afirmativo-negativo de proposições universais.
 
-
 Todo marinheiro é pescador.
 Todo marinheiro não é pescador.
 
@@ -811,11 +789,9 @@ Todo marinheiro não é pescador.
 
 Perceba que sempre as proposições categóricas de forma A e E serão contrárias.
 
-
 * Proposições subcontrárias: São proposições particulares que possuem qualidades distintas, isto é,
 todo
 par afirmativo-negativo de proposições particulares.
-
 
 Algum empresário é rico.
 Algum empresário não é rico.
@@ -828,7 +804,6 @@ Note, dessa vez, que as proposições categóricas de forma I e O serão sempre 
 * Proposições subalternas: São proposições que, apesar de possuírem a mesma qualidade, diferem pela
 quantidade.
 
-
 A: Todo estudante é preparado.
 I: Algum estudante é preparado.
 
@@ -840,12 +815,10 @@ Todas as proposições categóricas de forma A e I são subalternas entre si, be
 as proposições de
 forma E e O.
 
-
 Proposições contraditórias: São proposições que
 quantidade.
 
 diferem, simultaneamente, em qualidade e
-
 
 A: Todo animal é dócil.
 
@@ -853,7 +826,6 @@ O: Algum animal não é dócil.
 
 E: Nenhum jogador é amigável.
 Algum jogador é amigável.
-
 
 A
 
@@ -878,7 +850,6 @@ E
 
 > Todo S não é P.
 
-
 Algum S é P. Subcontrárias
 
 O
@@ -898,7 +869,6 @@ estamos estudando.
 Pelo contrário, essas classificações costumam cair bem pouco. No entanto, como
 queremos gabaritar a
 prova, vale a pena dedicar um pouco de tempo para entendê-las.
-
 
 TOME
 
@@ -958,7 +928,6 @@ conclusão está disfarçada na alternativa B: "um homem que não é feliz, não
 
 Gabarito: Letra B.
 
-
 Diagramas Lógicos
 
 Com essa bagagem formada sobre proposições categóricas, agora vamos entrar finalmente no
@@ -985,7 +954,6 @@ totalmente o conjunto dos responsáveis, de modo que os responsáveis
 que não são engenheiros são representados pela parte fora do conjunto
 dos engenheiros mas ainda dentro do conjunto dos responsáveis.
 
-
 * Nenhum engenheiro é responsável.
 
 Nesse caso, representamos os dois conjuntos totalmente
@@ -1006,7 +974,6 @@ diagrama que mostre a intersecção entre os dois conjuntos.
 É exatamente essa intersecção que indicará que existe algum
 engenheiro que também é responsável, sendo ele, então, um
 elemento comum aos dois conjuntos.
-
 
 * Algum engenheiro não é responsável
 
@@ -1046,7 +1013,6 @@ Agora, devemos analisar as alternativas.
 
 (A) todo funcionário público é médico.
 
-
 Alternativa incorreta. Essa afirmativa não é necessariamente verdade. A região azul no
 diagrama abaixo
 representa os funcionários públicos que não são médicos. Isso contraria o que está na afirmativa.
@@ -1076,7 +1042,6 @@ até funcionários
 públicos que não são professores. Observe a região azul do diagrama:
 
 Gabarito: LETRA E.
-
 
 Validade de Argumentos
 
@@ -1113,7 +1078,6 @@ Animais Extintos
 
 Se não há elefantes extintos, então:
 
-
 Animais Extintos
 
 Elefantes
@@ -1121,7 +1085,6 @@ Elefantes
 Observe que, de fato, nenhum elefante é mamute, pois, não há intersecção entre os
 diagramas. Logo, a
 conclusão do argumento é verdadeira, permitindo concluir que se trata de um argumento válido.
-
 
 b) Alternativa incorreta. Se todas as meninas jogam vôlei, então podemos desenhar o seguinte:
 
@@ -1160,12 +1123,11 @@ de maria é de chocolate. Por esse motivo, a alternativa encontra-se errada.
 
 Gabarito: LETRA A.
 
-
 QUESTõES CoMENTADAS - CEBRASPE
 
 Proposição Quantificada e Categórica
 
-Item. 1. (CESPE/IBGE/2021) Se a informação "Todas as casas das ruas A e B foram visitadas." é falsa,
+1. (CESPE/IBGE/2021) Se a informação "Todas as casas das ruas A e B foram visitadas." é falsa,
 então
 
 A) todas as casas da rua A não foram visitadas ou todas as casas da rua B não foram visitadas.
@@ -1219,13 +1181,12 @@ Como a segunda proposição é idêntica, ficamos no final com:
 
 Original: Todas as casas da rua Aforam visitadas e todas as casas da rua B foram visitadas.
 
-
 Negação: Alguma casa da rua A não foi visitada ou alguma casa da rua B não
 foi visitada.
 
 Gabarito: LETRA B.
 
-Item. 2. (CESPE/ME/2020) A negação da proposição "Todas as reuniões devem ser gravadas por mídias
+2. (CESPE/ME/2020) A negação da proposição "Todas as reuniões devem ser gravadas por mídias
 digitais"
 é corretamente expressa por "Nenhuma reunião deve ser gravada por mídias digitais".
 
@@ -1243,7 +1204,7 @@ Observe que o enunciado não substituiu o tipo de quantificador nem negou o pred
 
 Gabarito: ERRADO.
 
-Item. 3. (CESPE/EMBASA/2018) Suponha que, devido a um desastre natural, regiões que ficaram sem acesso a
+3. (CESPE/EMBASA/2018) Suponha que, devido a um desastre natural, regiões que ficaram sem acesso a
 água potável recebam periodicamente a visita de caminhões-pipa, os quais distribuem água
 entre os
 moradores dessas localidades. Embora todos os moradores tenham direito a água, são
@@ -1274,8 +1235,7 @@ p: Todas as famílias da rua B são preferenciais.
 
 Gabarito: ERRADO.
 
-
-Item. 4. (CESPE/TRF-1/2017) Venho acompanhando pelo jornal um debate acalorado entre
+4. (CESPE/TRF-1/2017) Venho acompanhando pelo jornal um debate acalorado entre
 professores
 universitários a respeito de um tema da especialidade deles: sistemas de informação. O
 debate, que se
@@ -1302,7 +1262,7 @@ Portanto, trata-se de uma proposição categórica afirmativa particular.
 
 Gabarito: CERTO.
 
-Item. 5. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
+5. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
 considerados
 perigosos são revistados diariamente, e todos os detentos que cometeram crimes
 utilizando armas são
@@ -1345,7 +1305,7 @@ violentos praticados por jovens de classe média. Tendo como referência o texto
 julgue os itens a
 seguir.
 
-Item. 6. (CESPE/PC-CE/2012) A negação da proposição "Toda pessoa pobre é violenta" é
+6. (CESPE/PC-CE/2012) A negação da proposição "Toda pessoa pobre é violenta" é
 equivalente a "Existe
 alguma pessoa pobre que não é violenta".
 
@@ -1362,7 +1322,7 @@ p: "Toda pessoa pobre é violenta."
 -p: "Alguma pessoa pobre não é violenta."
 Gabarito: CERTO.
 
-Item. 7. (CESPE/PC-CE/2012) Considerando que Jorge não seja pobre, mas pratique atos
+7. (CESPE/PC-CE/2012) Considerando que Jorge não seja pobre, mas pratique atos
 violentos, é correto
 afirmar que Jorge é um contraexemplo para a afirmação: "Todo indivíduo pobre pratica atos
 violentos".
@@ -1389,8 +1349,7 @@ errado pois Jorge não é pobre.
 
 Gabarito: ERRADO.
 
-
-Item. 8. (CESPE/PF/2009) Se A for a proposição "Todos os policiais são honestos", então a proposição
+8. (CESPE/PF/2009) Se A for a proposição "Todos os policiais são honestos", então a proposição
 --A estará
 enunciada corretamente por "Nenhum policial é honesto".
 
@@ -1412,12 +1371,11 @@ A: "Todos os policiais são honestos."
 -A: "Algum policial não é honesto."
 Gabarito: ERRADO.
 
-
 QUESTõES CoMENTADAS - CEBRASPE
 
 Diagramas Lógicos
 
-Item. 1. (CESPE/PREF. B. DOS COQUEIROS/2020) O quadro de servidores de transporte escolar de determinada
+1. (CESPE/PREF. B. DOS COQUEIROS/2020) O quadro de servidores de transporte escolar de determinada
 prefeitura é formado por motoristas e monitores, apenas. A respeito desses servidores, sabe-se que:
 
 * Alguns motoristas gostam de futebol;
@@ -1458,7 +1416,6 @@ de futebol, coerente com a informação passada no enunciado. Além disso, devem
 considerar que todos
 os servidores que gostam de futebol, também gostam de voleibol.
 
-
 Perceba que, se Pedro é um servidor que não gosta de voleibol, então ele não gosta
 de futebol também.
 Como consequência, ele não pode ser um monitor (todo monitor gosta de futebol). Logo,
@@ -1470,7 +1427,7 @@ de Futebol Motoristas
 
 Gabarito: LETRA B.
 
-Item. 2. (CESPE/PREF. B. DOS COQUEIROS/2020) Certa prefeitura dispõe de 10 motoristas.
+2. (CESPE/PREF. B. DOS COQUEIROS/2020) Certa prefeitura dispõe de 10 motoristas.
 Sabe-se que todos
 esses motoristas gostam de viajar e que 6 desses motoristas usam óculos. Considerando-se essa
 situação
@@ -1498,7 +1455,6 @@ Se 6 deles usam óculos, então são apenas alguns e não todos. Existirá
 distintas possibilidades de
 representação para esse fato, acompanhe abaixo uma delas:
 
-
 Usaremos ela para julgar nossas alternativas.
 
 A) todo motorista que gosta de viajar usa óculos.
@@ -1525,7 +1481,7 @@ Certo. Todo motorista gosta de viajar e alguns deles usam óculos.
 
 Gabarito: LETRA E.
 
-Item. 3. (CESPE/PREF. B. DOS COQUEIROS/2020) A respeito dos servidores que trabalham em certa
+3. (CESPE/PREF. B. DOS COQUEIROS/2020) A respeito dos servidores que trabalham em certa
 prefeitura,
 sabe-se que:
 
@@ -1537,7 +1493,6 @@ Considerando-se essas informações, conclui-se que, nessa prefeitura,
 A) todos os servidores que usam botas também usam luvas.
 
 B) todos os servidores que usam luvas são do setor de manutenção.
-
 
 C) todos os servidores que usam botas são do setor de manutenção.
 
@@ -1565,7 +1520,6 @@ B) todos os servidores que usam luvas são do setor de manutenção.
 
 Errado. Existem servidores que usam luvas mas não são do setor de manutenção.
 
-
 C) todos os servidores que usam botas são do setor de manutenção.
 
 Errado. Observe no nosso diagrama que o conjunto dos servidores do setor de manutenção
@@ -1586,7 +1540,7 @@ Errado. Há servidores que não usam luvas mas usam botas. Confira a região des
 
 Gabarito: LETRA D.
 
-Item. 4. (CESPE/FUNPRESP/2016) Considerando as características do raciocínio analítico e a
+4. (CESPE/FUNPRESP/2016) Considerando as características do raciocínio analítico e a
 estrutura da
 argumentação, julgue o item a seguir.
 
@@ -1600,10 +1554,9 @@ ave, devemos desenhar dois conjuntos totalmente separados, sem intersecção ent
 Olhando para o
 diagrama, poderemos concluir, de igual modo, que nenhuma ave é peixe.
 
-
 Gabarito: CERTO.
 
-Item. 5. (CESPE/TRE-MT/2015) Assinale a opção que apresenta um argumento lógico válido.
+5. (CESPE/TRE-MT/2015) Assinale a opção que apresenta um argumento lógico válido.
 
 A) Todos os garotos jogam futebol e Maria não é um garoto, então Maria não joga futebol.
 
@@ -1638,7 +1591,6 @@ cientistas, existem pessoas
 que são loucas, existem pessoas que não são loucas nem cientistas. Observe
 uma representação
 esquemática da situação:
-
 
 Pedro pode estar muito bem fora dos dois conjuntos. Logo, não é uma
 conclusão necessariamente
@@ -1676,14 +1628,13 @@ argumento não é necessariamente verdade.
 
 Gabarito: LETRA D.
 
-Item. 6. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
+6. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
 considerados
 perigosos são revistados diariamente, e todos os detentos que cometeram crimes
 utilizando armas são
 considerados perigosos. Com base nessa informação, julgue o item seguinte.
 
 Se um detento cometeu um assalto à mão armada, então ele é revistado diariamente.
-
 
 Comentários:
 
@@ -1706,7 +1657,7 @@ perigoso. Quem
 
 Gabarito: CERTO.
 
-Item. 7. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
+7. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
 considerados
 perigosos são revistados diariamente, e todos os detentos que cometeram crimes
 utilizando armas são
@@ -1722,14 +1673,13 @@ concluir que todos os detentos revistados diariamente são perigosos. Muito
 cuidado! Sabendo disso,
 podemos desenhar o seguinte diagrama:
 
-
 A região fora de "perigosos" mas dentro de "revistados diariamente" representa
 exatamente esses detentos,
 que não são perigosos, mas mesmo assim são revistados todos os dias.
 
 Gabarito: ERRADO.
 
-Item. 8. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
+8. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
 considerados
 perigosos são revistados diariamente, e todos os detentos que cometeram crimes
 utilizando armas são
@@ -1757,12 +1707,11 @@ revistadas diariamente.
 
 Gabarito: ERRADO.
 
-Item. 9. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
+9. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
 considerados
 perigosos são revistados diariamente, e todos os detentos que cometeram crimes
 utilizando armas são
 considerados perigosos. Com base nessa informação, julgue o item seguinte.
-
 
 Sabendo-se que um detento é considerado perigoso, é correto afirmar que ele cometeu crime à mão
 armada.
@@ -1785,7 +1734,6 @@ Texto para as próximas questões
 
 Considere que proposições P, Q e R, listadas abaixo, sejam verdadeiras.
 
-
 P: Todo sistema operacional Linux é um tipo de Unix.
 
 Q: O sistema operacional MacOS Leopard é um tipo de Unix.
@@ -1793,7 +1741,7 @@ Q: O sistema operacional MacOS Leopard é um tipo de Unix.
 R: Nenhuma versão do sistema operacional Microsoft Windows é do tipo Unix.
 Julgue o item seguinte, tendo como referência as proposições P, Q e R.
 
-Item. 10. (CESPE/SERPRO/2013) É possível inferir que o sistema operacional MacOS Leopard é uma versão de
+10. (CESPE/SERPRO/2013) É possível inferir que o sistema operacional MacOS Leopard é uma versão de
 Microsoft Windows.
 
 Comentários:
@@ -1803,7 +1751,6 @@ Da proposição P, todo sistema operacional Linux é um tipo de Unix. Logo, temo
 Da proposição Q, se todo sistema operacional MacOS Leopard é um tipo de Unix, há algumas
 possibilidades
 para isso, abaixo segue uma delas:
-
 
 Da proposição R, se nenhuma versão do sistema operacional Microsoft Windows é do tipo Unix, então,
 
@@ -1815,7 +1762,7 @@ MacOs Leopard ser uma versão do Microsoft Windows.
 
 Gabarito: ERRADO.
 
-Item. 11. (CESPE/SERPRO/2013) A partir da veracidade das proposições P e Q, é possível inferir que o
+11. (CESPE/SERPRO/2013) A partir da veracidade das proposições P e Q, é possível inferir que o
 sistema
 operacional MacOs Leopard pode ser um Linux.
 
@@ -1827,14 +1774,13 @@ Da proposição Q, se todo sistema operacional MacOS Leopard é um tipo de Unix,
 possibilidades
 para isso:
 
-
 Note que no diagrama que destacamos, o MacOs Leopard está dentro do Linux. Logo, com
 base apenas nas
 proposições P e Q, existe uma possibilidade do MacOs Leopard ser um tipo de Linux.
 
 Gabarito: CERTO.
 
-Item. 12. (CESPE/SERPRO/2013) Alguma versão do sistema operacional Windows pode ser do tipo Linux.
+12. (CESPE/SERPRO/2013) Alguma versão do sistema operacional Windows pode ser do tipo Linux.
 
 Comentários:
 
@@ -1844,12 +1790,11 @@ sendo todo sistema operacional Linux do tipo Unix, não há como o Windows ser d
 
 Gabarito: ERRADO.
 
-
 QUESTõES CoMENTADAS - CEBRASPE
 
 Validade de Argumentos
 
-Item. 1. (CESPE/PO-AL/2013) Nas investigações, pesquisadores e peritos devem evitar fazer
+1. (CESPE/PO-AL/2013) Nas investigações, pesquisadores e peritos devem evitar fazer
 afirmações e tirar
 conclusões errôneas. Erros de generalização, ocorridos ao se afirmar que certas características
 presentes
@@ -1875,7 +1820,6 @@ Note que a região delimitada pelo conjunto X está no interior da região delim
 pela característica a,
 indicando que todos de X possuem a. Se X contém Y, então,
 
-
 Veja que o Conjunto Y, por estar em X, também está totalmente inserido no grupo que
 possui a característica
 a. Logo, não é um erro de generalização dizer que todos os elementos de Y possuem a caraterística
@@ -1899,7 +1843,7 @@ Não é aceitável um erro que cause prejuízo aos cofres públicos.
 
 Com base nessas premissas, julgue o item subsequente, relativo a argumento lógico válido.
 
-Item. 2. (CESPE/TCE-ES/2012) O argumento constituído das premissas acima e da conclusão "Se
+2. (CESPE/TCE-ES/2012) O argumento constituído das premissas acima e da conclusão "Se
 o erro não é
 aceitável, então houve prejuízo aos cofres públicos" é um argumento lógico válido.
 
@@ -1919,7 +1863,7 @@ Por não ter uma conclusão necessariamente verdadeira, o argumento formado é i
 
 Gabarito: ERRADO.
 
-Item. 3. (CESPE/TCE-ES/2012) O argumento constituído das premissas acima e da conclusão "Se uma
+3. (CESPE/TCE-ES/2012) O argumento constituído das premissas acima e da conclusão "Se uma
 auditoria
 cometeu erro e não houve prejuízo aos cofres públicos, então o erro é aceitável" é
 um argumento lógico
@@ -1958,7 +1902,7 @@ equivalentes quando têm as mesmas valorações V ou F. Se uma proposição for 
 então a sua
 negação será falsa, e vice-versa. Com base nessas informações, julgue os itens.
 
-Item. 4. (CESPE/PREVIC/2011) Suponha que um argumento tenha como premissas as seguintes proposições.
+4. (CESPE/PREVIC/2011) Suponha que um argumento tenha como premissas as seguintes proposições.
 
 Alguns participantes da PREVIC são servidores da União.
 Alguns professores universitários são servidores da União.
@@ -1976,7 +1920,6 @@ PREVIC são servidores da União, então podemos desenhar o seguinte:
 Além disso, temos que alguns professores universitários são servidores da União. Essa
 premissa gera um
 conjunto de possibilidades, seguem algumas:
-
 
 Servidores
 da
@@ -2004,7 +1947,7 @@ necessariamente verdadeira, o argumento lógico em questão é inválido.
 
 Gabarito: ERRADO.
 
-Item. 5. (CESPE/PREVIC/2011) Considere o diagrama abaixo.
+5. (CESPE/PREVIC/2011) Considere o diagrama abaixo.
 
 Analista
 Administrativo
@@ -2027,7 +1970,6 @@ um dançarino. A conclusão exprime exatamente essa ideia e, por esse motivo, es
 equivocada. Podemos
 ter sim um analista que seja ágil. Uma possível representação em diagramas para isso seria:
 
-
 Note que as duas premissas continuam satisfeitas: temos a totalidade dos dançarinos
 sendo ágeis e nenhum
 analista administrativo é dançarino. Mesmo assim, veja que conseguimos representar alguns
@@ -2047,7 +1989,7 @@ verdadeiras, obtém-se a conclusão P3, também verdadeira por consequência ló
 premissas. A
 respeito das formas válidas de argumentos, julgue os itens.
 
-Item. 6. (CESPE/PC-ES/2011) Se as premissas Pl e P2 de um argumento forem dadas,
+6. (CESPE/PC-ES/2011) Se as premissas Pl e P2 de um argumento forem dadas,
 respectivamente, por
 "Todos os leões são pardos" e "Existem gatos que são pardos", e a sua conclusão P3 for dada por
 "Existem
@@ -2059,7 +2001,6 @@ De acordo com a premissa Pl, podemos desenhar o seguinte diagrama:
 
 Já quando usamos premissa P2, várias possibilidades surgem, inclusive a destacada abaixo:
 
-
 Observe que todos os leões são pardos e que apenas alguns gatos são, conforme
 premissas PI e P2.
 Ademais, não há intersecção entre o conjunto dos leões e dos gatos, mostrando que a
@@ -2070,7 +2011,7 @@ verdadeira, então o argumento formado por Pl, P2 e P3 é inválido.
 
 Gabarito: ERRADO.
 
-Item. 7. (CESPE/PC-ES/2011) Considere a seguinte sequência de proposições:
+7. (CESPE/PC-ES/2011) Considere a seguinte sequência de proposições:
 Pl - Existem policiais que são médicos.
 
 P2 - Nenhum policial é infalível.
@@ -2098,7 +2039,6 @@ Gabarito: ERRADO.
 
 Texto para as próximas questões
 
-
 A lógica sentenciai, ou proposicional, trata do raciocínio expresso por sentenças, ou
 proposições, que
 podem ser julgadas como verdadeiras (V) ou falsa (F), mas que não admitem os
@@ -2119,7 +2059,7 @@ verdadeira das proposições que são colocadas como premissas, sempre considera
 verdadeiras. Com
 base nas informações do texto acima, julgue os itens.
 
-Item. 8. (CESPE/TRE-PR/2009) Considerando como premissas as proposições "Nenhum universitário é
+8. (CESPE/TRE-PR/2009) Considerando como premissas as proposições "Nenhum universitário é
 analista
 judiciário" e "Todo analista judiciário faz curso de informática", e como conclusão a proposição
 "Nenhum
@@ -2146,8 +2086,7 @@ incorreto.
 
 Gabarito: ERRADO.
 
-
-Item. 9. (CESPE/TRE-PR/2009) A dedução expressa por "Todos os dinossauros são animais
+9. (CESPE/TRE-PR/2009) A dedução expressa por "Todos os dinossauros são animais
 extintos; existem
 mamíferos que são animais extintos; portanto, existem mamíferos que são dinossauros" é
 um raciocínio
@@ -2169,7 +2108,7 @@ de premissas que foram fornecidas. Dessa forma, o argumento é inválido.
 
 Gabarito: ERRADO.
 
-Item. 10. (CESPE/TRE-PR/2009) Considere que a sequência de proposições a seguir constituam três
+10. (CESPE/TRE-PR/2009) Considere que a sequência de proposições a seguir constituam três
 premissas e
 a conclusão, nessa ordem: "Todas as mulheres são pessoas vaidosas"; "Todas as pessoas
 vaidosas são
@@ -2180,7 +2119,6 @@ caprichosas". Nesse caso, tem-se uma dedução que expressa um raciocínio corre
 Comentários:
 
 Se todas as mulheres são pessoas vaidosas, então:
-
 
 Se todas as pessoas vaidosas são caprichosas, então:
 
@@ -2198,12 +2136,11 @@ essas pessoas serão caprichosas.
 
 Gabarito: CERTO
 
-
 LISTA DE QUESTõES - CEBRASPE
 
 Proposição Quantificada e Categórica
 
-Item. 1. (CESPE/IBGE/2021) Se a informação "Todas as casas das ruas A e B foram visitadas." é falsa,
+1. (CESPE/IBGE/2021) Se a informação "Todas as casas das ruas A e B foram visitadas." é falsa,
 então
 
 A) todas as casas da rua A não foram visitadas ou todas as casas da rua B não foram visitadas.
@@ -2216,11 +2153,11 @@ D) nenhuma casa da rua A foi visitada e nenhuma casa da rua B foi visitada.
 
 E) todas as casas da rua A não foram visitadas ou todas as casas da rua B não foram visitadas.
 
-Item. 2. (CESPE/ME/2020) A negação da proposição "Todas as reuniões devem ser gravadas por mídias
+2. (CESPE/ME/2020) A negação da proposição "Todas as reuniões devem ser gravadas por mídias
 digitais"
 é corretamente expressa por "Nenhuma reunião deve ser gravada por mídias digitais".
 
-Item. 3. (CESPE/EMBASA/2018) Suponha que, devido a um desastre natural, regiões que ficaram
+3. (CESPE/EMBASA/2018) Suponha que, devido a um desastre natural, regiões que ficaram
 sem acesso a
 água potável recebam periodicamente a visita de caminhões-pipa, os quais distribuem água
 entre os
@@ -2236,7 +2173,7 @@ A negação da afirmação "Todas as famílias da rua B são preferenciais" é "
 família da rua B é
 preferencial".
 
-Item. 4. (CESPE/TRF-1/2017) Venho acompanhando pelo jornal um debate acalorado entre
+4. (CESPE/TRF-1/2017) Venho acompanhando pelo jornal um debate acalorado entre
 professores
 universitários a respeito de um tema da especialidade deles: sistemas de informação. O
 debate, que se
@@ -2251,7 +2188,7 @@ Pode-se extrair do texto a seguinte proposição categórica afirmativa
 particular: "Alguns professores
 universitários participavam de um debate".
 
-Item. 5. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
+5. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
 considerados
 perigosos são revistados diariamente, e todos os detentos que cometeram crimes
 utilizando armas são
@@ -2260,7 +2197,6 @@ considerados perigosos. Com base nessa informação, julgue o item seguinte.
 A negação da proposição "Todos os detentos considerados perigosos são
 revistados diariamente" é
 equivalente à proposição "Nenhum detento perigoso é revistado diariamente".
-
 
 Texto para as próximas questões
 
@@ -2282,46 +2218,44 @@ violentos praticados por jovens de classe média. Tendo como referência o texto
 julgue os itens a
 seguir.
 
-Item. 6. (CESPE/PC-CE/2012) A negação da proposição "Toda pessoa pobre é violenta" é
+6. (CESPE/PC-CE/2012) A negação da proposição "Toda pessoa pobre é violenta" é
 equivalente a "Existe
 alguma pessoa pobre que não é violenta".
 
-Item. 7. (CESPE/PC-CE/2012) Considerando que Jorge não seja pobre, mas pratique atos
+7. (CESPE/PC-CE/2012) Considerando que Jorge não seja pobre, mas pratique atos
 violentos, é correto
 afirmar que Jorge é um contraexemplo para a afirmação: "Todo indivíduo pobre pratica atos
 violentos".
 
-Item. 8. (CESPE/PF/2009) Se A for a proposição "Todos os policiais são honestos", então a proposição --A
+8. (CESPE/PF/2009) Se A for a proposição "Todos os policiais são honestos", então a proposição --A
 estará
 enunciada corretamente por "Nenhum policial é honesto".
 
 0 0
 
-
 GABARITo
 
-Item. 1. LETRA B
+1. LETRA B
 
-Item. 2. ERRADO
+2. ERRADO
 
-Item. 3. ERRADO
+3. ERRADO
 
-Item. 4. CERTO
+4. CERTO
 
-Item. 5. ERRADO
+5. ERRADO
 
-Item. 6. CERTO
+6. CERTO
 
-Item. 7. ERRADO
+7. ERRADO
 
-Item. 8. ERRADO
-
+8. ERRADO
 
 LISTA DE QUESTõES - CEBRASPE
 
 Diagramas Lógicos
 
-Item. 1. (CESPE/PREF. B. DOS COQUEIROS/2020) O quadro de servidores de transporte escolar de determinada
+1. (CESPE/PREF. B. DOS COQUEIROS/2020) O quadro de servidores de transporte escolar de determinada
 prefeitura é formado por motoristas e monitores, apenas. A respeito desses servidores, sabe-se que:
 
 * Alguns motoristas gostam de futebol;
@@ -2344,7 +2278,7 @@ D) monitor e não gosta de futebol.
 
 E) monitor, mas não se sabe se ele gosta ou não de futebol.
 
-Item. 2. (CESPE/PREF. B. DOS COQUEIROS/2020) Certa prefeitura dispõe de 10 motoristas.
+2. (CESPE/PREF. B. DOS COQUEIROS/2020) Certa prefeitura dispõe de 10 motoristas.
 Sabe-se que todos
 esses motoristas gostam de viajar e que 6 desses motoristas usam óculos. Considerando-se essa
 situação
@@ -2360,7 +2294,7 @@ D) existe motorista que usa óculos e não gosta de viajar.
 
 E) existe motorista que usa óculos e gosta de viajar.
 
-Item. 3. (CESPE/PREF. B. DOS COQUEIROS/2020) A respeito dos servidores que trabalham em certa
+3. (CESPE/PREF. B. DOS COQUEIROS/2020) A respeito dos servidores que trabalham em certa
 prefeitura,
 sabe-se que:
 
@@ -2379,14 +2313,13 @@ D) todos os servidores do setor de manutenção usam botas.
 
 E) todos os servidores que não usam luvas também não usam botas.
 
-Item. 4. (CESPE/FUNPRESP/2016) Considerando as características do raciocínio analítico e a
+4. (CESPE/FUNPRESP/2016) Considerando as características do raciocínio analítico e a
 estrutura da
 argumentação, julgue o item a seguir.
 
-
 O raciocínio Nenhum peixe é ave. Logo, nenhuma ave é peixe é válido.
 
-Item. 5. (CESPE/TRE-MT/2015) Assinale a opção que apresenta um argumento lógico válido.
+5. (CESPE/TRE-MT/2015) Assinale a opção que apresenta um argumento lógico válido.
 
 A) Todos os garotos jogam futebol e Maria não é um garoto, então Maria não joga futebol.
 
@@ -2402,7 +2335,7 @@ E) Em Brasília moram muitos funcionários públicos, Gustavo é funcionário p�
 Gustavo mora em
 Brasília.
 
-Item. 6. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
+6. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
 considerados
 perigosos são revistados diariamente, e todos os detentos que cometeram crimes
 utilizando armas são
@@ -2410,7 +2343,7 @@ considerados perigosos. Com base nessa informação, julgue o item seguinte.
 
 Se um detento cometeu um assalto à mão armada, então ele é revistado diariamente.
 
-Item. 7. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
+7. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
 considerados
 perigosos são revistados diariamente, e todos os detentos que cometeram crimes
 utilizando armas são
@@ -2418,7 +2351,7 @@ considerados perigosos. Com base nessa informação, julgue o item seguinte.
 
 Somente os detentos perigosos serão revistados diariamente.
 
-Item. 8. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
+8. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
 considerados
 perigosos são revistados diariamente, e todos os detentos que cometeram crimes
 utilizando armas são
@@ -2428,7 +2361,7 @@ Sabendo-se que um detento não cometeu crime estando armado, é correto afirmar 
 seguramente, ele
 não será revistado.
 
-Item. 9. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
+9. (CESPE/DEPEN/2013) Em determinado estabelecimento penitenciário, todos os detentos
 considerados
 perigosos são revistados diariamente, e todos os detentos que cometeram crimes
 utilizando armas são
@@ -2445,53 +2378,50 @@ P: Todo sistema operacional Linux é um tipo de Unix.
 
 Q: O sistema operacional MacOS Leopard é um tipo de Unix.
 
-
 R: Nenhuma versão do sistema operacional Microsoft Windows é do tipo Unix.
 Julgue o item seguinte, tendo como referência as proposições P, Q e R.
 
-Item. 10. (CESPE/SERPRO/2013) É possível inferir que o sistema operacional MacOS Leopard é
+10. (CESPE/SERPRO/2013) É possível inferir que o sistema operacional MacOS Leopard é
 uma versão de
 Microsoft Windows.
 
-Item. 11. (CESPE/SERPRO/2013) A partir da veracidade das proposições P e Q, é possível inferir que o
+11. (CESPE/SERPRO/2013) A partir da veracidade das proposições P e Q, é possível inferir que o
 sistema
 operacional MacOs Leopard pode ser um Linux.
 
-Item. 12. (CESPE/SERPRO/2013) Alguma versão do sistema operacional Windows pode ser do tipo Linux.
+12. (CESPE/SERPRO/2013) Alguma versão do sistema operacional Windows pode ser do tipo Linux.
 
 0 0
 
-
 GABARITo
 
-Item. 1. LETRA B
+1. LETRA B
 
-Item. 2. LETRA E
+2. LETRA E
 
-Item. 3. LETRA D
+3. LETRA D
 
-Item. 4. CERTO
+4. CERTO
 
-Item. 5. LETRA D
+5. LETRA D
 
-Item. 6. CERTO
+6. CERTO
 
-Item. 7. ERRADO
+7. ERRADO
 
-Item. 8. ERRADO
+8. ERRADO
 
-Item. 9. ERRADO
+9. ERRADO
 
-Item. 10. ERRADO
+10. ERRADO
 
-Item. 11. CERTO
+11. CERTO
 
-Item. 12. ERRADO
-
+12. ERRADO
 
 Validade de Argumentos
 
-Item. 1. (CESPE/PO-AL/2013) Nas investigações, pesquisadores e peritos devem evitar fazer
+1. (CESPE/PO-AL/2013) Nas investigações, pesquisadores e peritos devem evitar fazer
 afirmações e tirar
 conclusões errôneas. Erros de generalização, ocorridos ao se afirmar que certas características
 presentes
@@ -2523,11 +2453,11 @@ Não é aceitável um erro que cause prejuízo aos cofres públicos.
 
 Com base nessas premissas, julgue o item subsequente, relativo a argumento lógico válido.
 
-Item. 2. (CESPE/TCE-ES/2012) O argumento constituído das premissas acima e da conclusão "Se o
+2. (CESPE/TCE-ES/2012) O argumento constituído das premissas acima e da conclusão "Se o
 erro não é
 aceitável, então houve prejuízo aos cofres públicos" é um argumento lógico válido.
 
-Item. 3. (CESPE/TCE-ES/2012) O argumento constituído das premissas acima e da conclusão "Se uma auditoria
+3. (CESPE/TCE-ES/2012) O argumento constituído das premissas acima e da conclusão "Se uma auditoria
 cometeu erro e não houve prejuízo aos cofres públicos, então o erro é aceitável" é
 um argumento lógico
 válido.
@@ -2544,7 +2474,6 @@ proposições anteriores. A última proposição de um argumento é chamada conc
 
 0 0
 
-
 Perceber a forma de um argumento é o aspecto primordial para se decidir sua validade. Duas
 proposições
 são logicamente equivalentes quando têm as mesmas valorações V ou F. Se uma
@@ -2552,7 +2481,7 @@ proposição for
 verdadeira, então a sua negação será falsa, e vice-versa. Com base nessas informações, julgue os
 itens.
 
-Item. 4. (CESPE/PREVIC/2011) Suponha que um argumento tenha como premissas as seguintes proposições.
+4. (CESPE/PREVIC/2011) Suponha que um argumento tenha como premissas as seguintes proposições.
 
 Alguns participantes da PREVIC são servidores da União.
 Alguns professores universitários são servidores da União.
@@ -2561,7 +2490,7 @@ Nesse caso, se a conclusão for "Alguns participantes da PREVIC são professores
 universitários", então essas
 três proposições constituirão um argumento válido.
 
-Item. 5. (CESPE/PREVIC/2011) Considere o diagrama abaixo.
+5. (CESPE/PREVIC/2011) Considere o diagrama abaixo.
 
 Analista
 Administrativo
@@ -2586,17 +2515,16 @@ verdadeiras, obtém-se a conclusão P3, também verdadeira por consequência ló
 premissas. A
 respeito das formas válidas de argumentos, julgue os itens.
 
-Item. 6. (CESPE/PC-ES/2011) Se as premissas Pl e P2 de um argumento forem dadas,
+6. (CESPE/PC-ES/2011) Se as premissas Pl e P2 de um argumento forem dadas,
 respectivamente, por
 "Todos os leões são pardos" e "Existem gatos que são pardos", e a sua conclusão P3 for dada por
 "Existem
 gatos que são leões", então essa sequência de proposições constituirá um argumento válido.
 
-Item. 7. (CESPE/PC-ES/2011) Considere a seguinte sequência de proposições:
+7. (CESPE/PC-ES/2011) Considere a seguinte sequência de proposições:
 Pl - Existem policiais que são médicos.
 
 P2 - Nenhum policial é infalível.
-
 
 P3 - Nenhum médico é infalível.
 
@@ -2624,20 +2552,20 @@ verdadeira das proposições que são colocadas como premissas, sempre considera
 verdadeiras. Com
 base nas informações do texto acima, julgue os itens.
 
-Item. 8. (CESPE/TRE-PR/2009) Considerando como premissas as proposições "Nenhum universitário é
+8. (CESPE/TRE-PR/2009) Considerando como premissas as proposições "Nenhum universitário é
 analista
 judiciário" e "Todo analista judiciário faz curso de informática", e como conclusão a proposição
 "Nenhum
 universitário faz curso de informática", então o raciocínio formado por essas proposições é
 correto.
 
-Item. 9. (CESPE/TRE-PR/2009) A dedução expressa por "Todos os dinossauros são animais
+9. (CESPE/TRE-PR/2009) A dedução expressa por "Todos os dinossauros são animais
 extintos; existem
 mamíferos que são animais extintos; portanto, existem mamíferos que são dinossauros" é
 um raciocínio
 correto.
 
-Item. 10. (CESPE/TRE-PR/2009) Considere que a sequência de proposições a seguir constituam três
+10. (CESPE/TRE-PR/2009) Considere que a sequência de proposições a seguir constituam três
 premissas e
 a conclusão, nessa ordem: "Todas as mulheres são pessoas vaidosas"; "Todas as pessoas
 vaidosas são
@@ -2647,27 +2575,25 @@ caprichosas". Nesse caso, tem-se uma dedução que expressa um raciocínio corre
 
 0 0
 
-
 GABARITo
 
-Item. 1. ERRADO
+1. ERRADO
 
-Item. 2. ERRADO
+2. ERRADO
 
-Item. 3. ERRADO
+3. ERRADO
 
-Item. 4. ERRADO
+4. ERRADO
 
-Item. 5. ERRADO
+5. ERRADO
 
-Item. 6. ERRADO
+6. ERRADO
 
-Item. 7. ERRADO
+7. ERRADO
 
-Item. 8. ERRADO
+8. ERRADO
 
-Item. 9. ERRADO
+9. ERRADO
 
-Item. 10. CERTO
-
+10. CERTO
 

@@ -1,7 +1,6 @@
-Capítulo. Manual de Medição Funcional de Software.
+# Manual de Medição Funcional de Software.
 
-
-Item. 1. Introdução
+1. Introdução
 
 Este manual visa definir as regras de contagem funcional a serem utilizadas para o
 processo de
@@ -65,12 +64,11 @@ considerações sobre a utilização da métrica no processo de terceirização.
 apresenta um glossário com
 algumas definições de conceitos usados no corpo deste manual.
 
+2. Processo De Medição De Software
 
-Item. 2. Processo De Medição De Software
+2.1. Determinação Do Tipo De Medição
 
-Item. 2.1. Determinação Do Tipo De Medição
-
-Item. 2.1.1. Quanto ao alvo da medição
+2.1.1. Quanto ao alvo da medição
 
 Consiste na qualificação do alvo da medição. Podemos medir as funcionalidades envolvidas
 em casos
@@ -78,7 +76,7 @@ de desenvolvimento ou de manutenção e também as funcionalidades presentes em 
 aplicação. Detalhamos
 nesta seção os tipos de medição quanto ao alvo.
 
-Item. 2.1.1.1. Caso de desenvolvimento
+2.1.1.1. Caso de desenvolvimento
 
 Situação de criação de demanda do usuário relativa a uma nova aplicação. O tamanho
 funcional de um
@@ -105,7 +103,7 @@ e rotinas de migração. Após a instalação, essas funções não serão mais 
 A fórmula de cálculo do tamanho funcional do caso de desenvolvimento (FDes) é a seguinte:
 FDes = Flnc + FConv
 
-Item. 2.1.1.2. Caso de melhoria ou redesenvolvimento
+2.1.1.2. Caso de melhoria ou redesenvolvimento
 
 Trata-se da situação em que uma aplicação já foi desenvolvida, mas o usuário solicita
 algum tipo de
@@ -121,16 +119,15 @@ ou redesenvolvimento funcionalidades que serão alvo somente de teste, tendo em
 vista possuírem alto
 acoplamento com as funcionalidades integrantes da melhoria ou redesenvolvimento.
 
-Item. 2.1.1.3. Aplicação
+2.1.1.3. Aplicação
 
 Situação em que se deseja dimensionar o tamanho funcional disponibilizado para o
 usuário em uma
 determinada aplicação ou de parte da mesma.
 
+2.1.2. Quanto ao método de medição
 
-Item. 2.1.2. Quanto ao método de medição
-
-Item. 2.1.2.1. Medição indicativa
+2.1.2.1. Medição indicativa
 
 Este método é utilizado antes da iniciação de um projeto de desenvolvimento de software. Na
 contagem
@@ -157,7 +154,7 @@ Para uma contagem indicativa em elementos funcionais, deve-se considerar 25 EF p
 cada ALI e 12
 EF para cada AIE.
 
-Item. 2.1.2.2. Medição estimativa
+2.1.2.2. Medição estimativa
 
 O objetivo específico dessa contagem, baseada no método da Nesma, é determinar o tamanho funcional
 do software de modo a sustentar ações gerenciais para planejamento do projeto, a
@@ -181,7 +178,7 @@ média para as funções transacionais EE, SE e CE. Ou seja, uma medição estim
 elementos funcionais
 equivale a 75% de uma medição estimativa em pontos de função.
 
-Item. 2.1.2.3. Contagem detalhada
+2.1.2.3. Contagem detalhada
 
 A contagem detalhada se dá através da identificação, classificação e mensuração das
 funcionalidades
@@ -192,15 +189,14 @@ registrada em
 artefatos indicados na metodologia de desenvolvimento do TCU como requisito da aplicação alvo da
 medição.
 
+2.2. Identificação Do Escopo Da Medição E Da Fronteira Da Aplicação
 
-Item. 2.2. Identificação Do Escopo Da Medição E Da Fronteira Da Aplicação
-
-Item. 2.2.1. Escopo da medição
+2.2.1. Escopo da medição
 
 O escopo define o conjunto de funções que serão alvo da medição e pode abranger uma ou mais
 aplicações.
 
-Item. 2.2.2. Fronteira da aplicação
+2.2.2. Fronteira da aplicação
 
 Na área de tecnologia da informação, o termo "aplicação" é usado, de modo geral, como
 sinônimo de
@@ -260,12 +256,11 @@ Fiscalizações (CE);
 Gestão de Fundos de Participação Constitucionais (CE); Gestão de Jurisprudência (CE);
 Gestão de Pessoas
 
-
 (área de infraestrutura - infra); Gestão de Processos e Documentos (CE), Gestão de
 Recursos Humanos (Adm);
 Gestão de Saúde Médica (Adm); Gestão de Tomadas de Contas Especiais (CE); Gestão do Portal (Infra).
 
-Item. 2.3. Identificação Das Funções de Dados
+2.3. Identificação Das Funções de Dados
 
 As funções de dado representam as funcionalidades fornecidas ao usuário a fim de
 atender às suas
@@ -290,7 +285,7 @@ A identificação dos arquivos lógicos deve seguir os seguintes passos:
 
 * Classificação de cada arquivo lógico como ALI ou AIE.
 
-Item. 2.3.1. Identificação dos arquivos lógicos
+2.3.1. Identificação dos arquivos lógicos
 
 Os requisitos de armazenamento, funcionais e não funcionais, de uma aplicação são
 classificados em
@@ -334,7 +329,7 @@ candidatas a arquivos lógicos em uma aplicação e devem passar pelo crivo das 
 de identificação para a
 correta avaliação, conforme CPM.
 
-Item. 2.3.2. Classificação de cada arquivo lógico como ALI ou AIE
+2.3.2. Classificação de cada arquivo lógico como ALI ou AIE
 
 A diferença básica entre um arquivo lógico interno (ALI) e um arquivo de interface
 externa (AIE) é que
@@ -342,7 +337,7 @@ um AIE não é mantido pela aplicação sendo contada. O AIE está conceitualmen
 fronteira da aplicação
 enquanto o ALI está dentro da mesma.
 
-Item. 2.3.2.1. Regras de classificação de arquivo lógico interno
+2.3.2.1. Regras de classificação de arquivo lógico interno
 
 Para que determinada função seja identificada como um ALI, todas as regras seguintes
 devem ser
@@ -356,7 +351,7 @@ usuário dentro do escopo da medição;
 * Sua principal intenção é armazenar dados mantidos através de um ou mais processos
 elementares dentro da fronteira da aplicação sendo contada.
 
-Item. 2.3.2.2. Regras de classificação de arquivo de interface externa
+2.3.2.2. Regras de classificação de arquivo de interface externa
 
 Para que determinada função seja contada como um arquivo de interface externa, todas
 as regras
@@ -387,12 +382,11 @@ visão do aplicativo A. Se
 for considerado mais do que um grupo lógico de dados no aplicativo B, seria contado como mais de um
 AIE. O
 
-
 CPM afirma que os dados devem ser "identificados em um ALI em uma ou mais outras aplicações". Não
 estipula
 que lá apenas seja um ALI para um AIE.
 
-Item. 2.3.3. Regras de contagem de campos (TD - Tipos de Dado)
+2.3.3. Regras de contagem de campos (TD - Tipos de Dado)
 
 Na contagem de campos (TD) que atravessam a fronteira deve-se abstrair dos
 detalhes de
@@ -450,8 +444,7 @@ mais de uma vez como tipo de dado.
 referência
 devem ser contados normalmente como tipos de dados.
 
-
-Item. 2.3.4. Regras de contagem de subagrupamentos (TR - Tipos de Registro)
+2.3.4. Regras de contagem de subagrupamentos (TR - Tipos de Registro)
 
 As seguintes regras devem ser utilizadas para determinar o número de subagrupamentos de dados (tipos
 de registro - TR) de um ALI ou AIE.
@@ -462,7 +455,7 @@ um ALI ou AIE.
 
 * Se não houver nenhum subgrupo, deve-se contar o próprio ALI ou AIE como um tipo de registro.
 
-Item. 2.3.5. Considerações para funções de dado em casos de melhoria
+2.3.5. Considerações para funções de dado em casos de melhoria
 
 Uma função de dado é considerada modificada e integrante do escopo de medição de um
 caso de
@@ -499,7 +492,7 @@ AIE existente. Ou também pode não representar nada do ponto de vista do usuár
 Devem ser
 revisadas sempre as regras de identificação das funções de dado.
 
-Item. 2.4. Identificação Das Funções Transacionais
+2.4. Identificação Das Funções Transacionais
 
 As funções transacionais representam as funcionalidades de processamento de dados
 fornecidas pela
@@ -512,8 +505,7 @@ contadas uma única vez dentro de uma aplicação.
 As funções transacionais são classificadas em entradas externas, saídas externas e consultas
 externas.
 
-
-Item. 2.4.1. Regras para determinar se um processo elementar é único
+2.4.1. Regras para determinar se um processo elementar é único
 
 Em todas as funções transacionais, para determinar se devemos contar mais de um processo, uma ou
 mais das três proposições devem obrigatoriamente ser verdadeiras:
@@ -532,7 +524,7 @@ elementares da aplicação;
 processos
 elementares da aplicação.
 
-Item. 2.4.2. Regras de identificação de entrada externa (EE)
+2.4.2. Regras de identificação de entrada externa (EE)
 
 Para que uma função transacional seja classificada como entrada externa, ela deve atender a todas as
 regras abaixo:
@@ -545,7 +537,7 @@ regras abaixo:
 e/ou alterar o
 comportamento da aplicação.
 
-Item. 2.4.3. Regras de identificação de saída externa (SE)
+2.4.3. Regras de identificação de saída externa (SE)
 
 Para que uma função transacional seja classificada como saída externa, ela deve atender a todas as
 regras abaixo:
@@ -561,7 +553,7 @@ controle. Sua lógica de processamento deve obrigatoriamente conter cálculo, ou
 dados
 derivados, ou manter um arquivo lógico interno, ou alterar o comportamento da aplicação.
 
-Item. 2.4.4. Regras de identificação de consulta externa (CE)
+2.4.4. Regras de identificação de consulta externa (CE)
 
 Para que uma função transacional seja classificada como consulta externa, ela deve atender a todas
 as
@@ -571,7 +563,6 @@ regras abaixo:
 
 * Enviar dados ou informações de controle para fora da fronteira da aplicação.
 
-
 * Ter como principal intenção apresentar informações ao usuário através da simples
 recuperação
 de dados ou informações de controle de ALIs e/ou AlEs. Sua lógica de processamento não deve
@@ -579,7 +570,7 @@ conter fórmula matemática ou cálculo, tampouco criar dados derivados. Nenhum 
 ser
 mantido durante seu processamento, nem o comportamento da aplicação pode ser alterado.
 
-Item. 2.4.5. Regras de contagem de campos (TD - Tipos de Dado)
+2.4.5. Regras de contagem de campos (TD - Tipos de Dado)
 
 As seguintes regras devem ser válidas na contagem de campos (TD - Tipos de Dados):
 
@@ -613,7 +604,7 @@ dados;
 gerados pela
 aplicação.
 
-Item. 2.4.6. Regras de contagem para arquivo referenciado (AR)
+2.4.6. Regras de contagem para arquivo referenciado (AR)
 
 As seguintes regras devem ser válidas na contagem de um arquivo referenciado. As duas primeiras, que
 tratam da atualização de arquivos, não são aplicáveis para consultas externas.
@@ -626,11 +617,10 @@ lido;
 
 * Deve-se contar um arquivo referenciado para cada ALI ou AIE lido durante o processamento.
 
-Item. 2.4.7. Considerações para funções transacionais em casos de melhoria
+2.4.7. Considerações para funções transacionais em casos de melhoria
 
 Uma função transacional é considerada modificada e integrante do escopo de medição de um caso de
 melhoria quando há alteração em alguns dos seguintes itens:
-
 
 * Tipos de dados: se eles foram adicionados, excluídos ou alterados da função. Se
 houve
@@ -650,13 +640,13 @@ para determinar a unicidade de uma transação, sua alteração também determin
 alteração
 na função.
 
-Item. 2.5. Mensuração Do Tamanho Funcional De Cada Função
+2.5. Mensuração Do Tamanho Funcional De Cada Função
 
 Identificadas as funcionalidades que integram o escopo da medição, o próximo
 passo é derivar
 efetivamente o tamanho funcional associado a cada função.
 
-Item. 2.5.1. Mensuração do tamanho funcional em elementos funcionais e suas submétricas
+2.5.1. Mensuração do tamanho funcional em elementos funcionais e suas submétricas
 
 A métrica Elementos Funcionais (EF) proposta por Castro e Hernandes (2013) baseia-se
 nos conceitos
@@ -698,23 +688,21 @@ CE EFt = 0,75 + 0,76*AR + 0,10*TD
 
 Tabela 1 - Fórmulas de cálculo de elementos funcionais por tipo de funcionalidade
 
-
 A métrica Elementos Funcionais, EF, resulta da soma dos Elementos Funcionais de
 Transação, EFt,
 com os Elementos Funcionais de Dados, EFd. Essas submétricas representam respectivamente
 os elementos
 funcionais associados a transações (CE, EE e SE) e a dados (AIE e ALI).
 
-Item. 2.5.2. Mensuração do tamanho funcional em pontos de função
+2.5.2. Mensuração do tamanho funcional em pontos de função
 
-Item. 2.5.2.1. Mensuração em pontos de função de desenvolvimento de funcionalidade
+2.5.2.1. Mensuração em pontos de função de desenvolvimento de funcionalidade
 
 Para se dimensionar o desenvolvimento de uma funcionalidade em pontos de função é
 necessário
 primeiro classificar a sua complexidade e depois derivar, conforme tabela abaixo, o número de
 pontos de função
 a partir das complexidades identificadas.
-
 
 Funções
 
@@ -740,7 +728,7 @@ Baixa Média Alta
 
 Tabela 2 - Pontos de função por complexidade e tipo de função
 
-Item. 2.5.2.1.1. Classificação da complexidade de funções de dado
+2.5.2.1.1. Classificação da complexidade de funções de dado
 
 Cada função de dado é classificada com relação à sua complexidade em baixa, média e
 alta. A
@@ -750,14 +738,12 @@ de registro
 
 A tabela a seguir deve ser usada para derivação da complexidade das funções de dado.
 
-
 Quantidade de tipos de registro
 (TR)
 
 Quantidade de tipos de dados (TD)
 
 1 a 19 20 a 50 51 ou mais
-
 
 2 a 5
 
@@ -777,7 +763,7 @@ Média
 Alta
 Alta
 
-Item. 2.5.2.1.2. Classificação da complexidade de funções transacionais
+2.5.2.1.2. Classificação da complexidade de funções transacionais
 
 Cada função transacional é classificada com relação à sua complexidade em baixa, média
 e alta. As
@@ -785,11 +771,9 @@ funções transacionais têm sua complexidade determinada pela quantidade de tip
 dados (campos) e
 arquivos referenciados (ALI ou AIE), conforme tabelas apresentadas a seguir.
 
-
 As tabelas a seguir devem ser usadas para derivação da complexidade das transações de
 acordo com
 seu tipo.
-
 
 Quantidade de arquivos
 referenciados (AR)
@@ -809,7 +793,6 @@ Baixa Média Alta
 Média Alta Alta
 
 Tabela 4 - Complexidade das entradas externas
-
 
 Quantidade de arquivos
 referenciados (AR)
@@ -831,7 +814,7 @@ Média Alta Alta
 
 Tabela 5 - Complexidade das saídas externas e consultas externas
 
-Item. 2.5.2.2. Mensuração em Pontos de função de manutenção evolutiva de funcionalidade
+2.5.2.2. Mensuração em Pontos de função de manutenção evolutiva de funcionalidade
 
 O dimensionamento de pontos de função em um caso de melhoria de uma funcionalidade
 (no contexto
@@ -843,7 +826,7 @@ deste manual em caso de conflito com a Nesma. Assim, um ponto de função (PF ou
 equivalente a um
 ponto de função de melhoria (EFP).
 
-Item. 2.5.2.2.1. Dimensionamento de EFP em funcionalidades incluídas
+2.5.2.2.1. Dimensionamento de EFP em funcionalidades incluídas
 
 Segundo a Nesma, as funcionalidades incluídas em um caso de melhoria serão
 dimensionadas usando
@@ -855,7 +838,7 @@ Em que:
 EFPinc - pontos de função de melhoria da funcionalidade envolvida
 FPinc - pontos de função da funcionalidade envolvida
 
-Item. 2.5.2.2.2. Dimensionamento de EFP em funcionalidades de conversão de dados
+2.5.2.2.2. Dimensionamento de EFP em funcionalidades de conversão de dados
 
 Segundo a Nesma, as funcionalidades de conversão em um caso de melhoria serão
 dimensionadas
@@ -866,10 +849,9 @@ Em que:
 
 EFPconv - pontos de função de melhoria da funcionalidade de conversão envolvida
 
-
 FPconv - pontos de função da funcionalidade de conversão envolvida.
 
-Item. 2.5.2.2.3. Dimensionamento de EFP em funcionalidades excluídas
+2.5.2.2.3. Dimensionamento de EFP em funcionalidades excluídas
 
 Para funções excluídas, um fator de impacto de 0,4 é usado. O número de pontos de função de melhoria
 para uma única função excluída é determinado da seguinte forma:
@@ -880,8 +862,8 @@ Em que:
 EFPexc - pontos de função de melhoria da funcionalidade excluída
 FPexc - pontos de função da funcionalidade excluída
 
-Item. 2.5.2.2.4. Dimensionamento de EFP em funcionalidades alteradas
-Item. 2.5.2.2.4.1. Funções de dados
+2.5.2.2.4. Dimensionamento de EFP em funcionalidades alteradas
+2.5.2.2.4.1. Funções de dados
 
 As funções de dados que mudam são identificadas e o tamanho de cada função de dados
 após a
@@ -900,7 +882,6 @@ Número de TDs na função de dados original
 O fator de impacto Fl é obtido da tabela abaixo usando a porcentagem de mudança em
 número de
 elementos de dados:
-
 
 Porcentagem de TDs
 Fator de impacto (Fl)
@@ -940,7 +921,6 @@ Se um AIE ou um ALI for dividido em duas (ou mais) funções de dados, uma funç
 excluída
 e duas (ou mais) adicionadas são contadas.
 
-
 Se um AIE e um ALI são combinados, duas funções de dados excluídas e uma função de
 dados
 adicionada são contadas.
@@ -953,7 +933,7 @@ Fl - fator de impacto
 
 FPalt - pontos de função da funcionalidade alterada
 
-Item. 2.5.2.2.4.2. Funções transacionais
+2.5.2.2.4.2. Funções transacionais
 
 As funções transacionais que mudam são identificadas e o tamanho de cada transação após a mudança
 é determinado.
@@ -981,7 +961,6 @@ Número de ALRs na função de transação original
 
 * Determinar o fator de impacto para a transação
 
-
 Mudança:
 Porcentagem de ALRs
 
@@ -1007,7 +986,6 @@ Porcentagem de TDs
 
 Tabela 7 - Fatores de impacto para funções transacionais
 
-
 * Calcular o número de pontos de função da melhoria
 
 EFPalt = Fl x FPalt
@@ -1018,7 +996,7 @@ Fl - fator de impacto
 
 FPalt - pontos de função da funcionalidade alterada
 
-Item. 2.5.3. Reflexão sobre a escolha da métrica funcional
+2.5.3. Reflexão sobre a escolha da métrica funcional
 
 A métrica Pontos de Função apresentada na seção 2.5.2 (aplicando a métrica Nesma para manutenções
 evolutivas) é um padrão mundial de mercado e isso não pode ser ignorado. Mas a métrica Elementos
@@ -1075,7 +1053,6 @@ uma iniciativa adequada.
 No caso da parede, seria o equivalente a mudar a área a ser mantida hipoteticamente
 para 25%, ou seja, 0,5
 
-
 m2. Melhor aplicar esse fator (e outros que precisam ser considerados) diretamente na
 derivação do custo
 (esforço) e não maquiar o tamanho do objeto.
@@ -1090,7 +1067,7 @@ em escala ordinal (o que impediria na teoria, cálculo de médias, produtividade
 
 . demonstra uma melhor correlação com o esforço (Castro e Hernandes; 2013).
 
-Item. 2.6. Aplicação Dos Percentuais Por Atividade Implementada
+2.6. Aplicação Dos Percentuais Por Atividade Implementada
 
 O tamanho funcional será cheio quando forem implementadas todas as disciplinas
 do ciclo de
@@ -1100,7 +1077,6 @@ disciplinas não tratadas. Caso não haja uma tabela específica na metodologia 
 desenvolvimento, deve-se
 seguir a tabela abaixo:
 
-
 Disciplina realizada
 
 % Atividade
@@ -1109,7 +1085,6 @@ Disciplina realizada
 projeto
 
 % Total
-
 
 Engenharia de requisitos
 
@@ -1121,7 +1096,6 @@ Design/Arquitetura 9 1
 
 Implementação 36 4
 
-
 Testes
 
 22,5
@@ -1132,14 +1106,14 @@ Desenvolvimento completo 90 10
 
 Tabela 8 - Percentuais por atividade
 
-Item. 2.7. Dimensionamento Final
+2.7. Dimensionamento Final
 
 Para se dimensionar uma Aplicação ou Casos de Desenvolvimento e Casos de Melhoria, deve-se somar
 os tamanhos funcionais apurados nos passos anteriores de todas as funcionalidades
 envolvidas no escopo da
 contagem.
 
-Item. 3. Documentação de Medições
+3. Documentação de Medições
 
 Todo dimensionamento deve ser detalhado nos relatórios de medição ou em um sistema de
 informação
@@ -1149,14 +1123,13 @@ Cada caso de desenvolvimento ou de melhoria terá seu próprio relatório, que
 registrará as
 funcionalidades e atributos envolvidos.
 
-
-Item. 3.1. Nomenclatura
+3.1. Nomenclatura
 
 A utilização do jargão do negócio deve ser cuidadosamente observada para não ser
 confundido com os
 hábitos de linguagem do analista de desenvolvimento.
 
-Item. 3.1.1. Padrão para nomenclatura de funções de transação
+3.1.1. Padrão para nomenclatura de funções de transação
 
 O nome do processo elementar deverá, sempre que possível, ser composto do conceito
 envolvido e do
@@ -1166,7 +1139,7 @@ palavra deverá estar com letra maiúscula.
 
 Exemplos: Tramitação de processo - incluir ou Incluir tramitação de processo ou Tramitar Processo
 
-Item. 3.1.2. Padrão para nomenclatura de tipos de registro
+3.1.2. Padrão para nomenclatura de tipos de registro
 
 Deve representar o conceito. Se for um subtipo, pode-se usar expressão "é um"; se for
 agrupamento de
@@ -1182,7 +1155,7 @@ Suponhamos que um arquivo lógico Processo tenha um agrupamento com campos de tr
 do
 processo. Nesse caso, o nome do registro lógico poderia ser "Tem tramitação" ou "Tramitação".
 
-Item. 3.2. Itens Exigidos Em Uma Contagem Detalhada
+3.2. Itens Exigidos Em Uma Contagem Detalhada
 
 É obrigatória a referência à documentação das funcionalidades, fazendo-se distinção da
 versão do
@@ -1217,8 +1190,7 @@ conforme
 esta seção. A área responsável por medições do TCU possui modelos de planilhas excel que podem ser
 usadas.
 
-
-Item. 4. Itens Não Mensuráveis
+4. Itens Não Mensuráveis
 
 Esta seção avalia a possibilidade de se derivar um número que deve ser somado ao
 tamanho funcional
@@ -1244,13 +1216,13 @@ que essas tenham alcançado uma melhor performance. Contudo, em caso de alteraç
 nome de uma view,
 os códigos podem realmente ser adaptados e, nesse caso, impactados.
 
-Item. 4.1. Manutenção Corretiva Em Sistema Legado
+4.1. Manutenção Corretiva Em Sistema Legado
 
 Quando o sistema não tiver sido desenvolvido pela contratada, deve-se calcular
 o tamanho da
 manutenção corretiva e aplicar um fator de ajuste redutor para 75%.
 
-Item. 4.2. Documentação De Sistema
+4.2. Documentação De Sistema
 
 Demandas de criação de documentação a partir do zero de um sistema já
 existente devem ser
@@ -1258,7 +1230,7 @@ dimensionadas considerando o percentual da atividade de documentação sobre o t
 funcional cheio das
 funcionalidades, sem aplicação de fatores de redução.
 
-Item. 4.3. Atualização De Plataforma
+4.3. Atualização De Plataforma
 
 Nesta categoria encontram-se as demandas de conversão de funcionalidades face a
 atualização de
@@ -1270,7 +1242,7 @@ funcionalidades impactadas pela conversão devem ser tratadas como mantidas e ao
 funcional apurado
 deve-se aplicar um fator de ajuste redutor para 30%.
 
-Item. 4.4. Manutenção Cosmética
+4.4. Manutenção Cosmética
 
 A manutenção em interface, denominada na literatura manutenção cosmética, é associada às
 demandas
@@ -1286,7 +1258,6 @@ será feito o pagamento equivalente a apenas uma mudança. Deve-se contabilizar
 uma manutenção por
 funcionalidade impactada.
 
-
 Para cada manutenção, conta-se: 0,6 PF ou 0,45 EF
 
 Obs.: em PF, equivale a 20% da contagem de uma função transacional de mais baixa
@@ -1294,7 +1265,7 @@ complexidade (3
 
 PF).
 
-Item. 4.5. Adaptação De Funcionalidades Sem Atualização De Requisitos Funcionais
+4.5. Adaptação De Funcionalidades Sem Atualização De Requisitos Funcionais
 
 São consideradas nesta categoria as demandas de manutenção adaptativa associadas a
 solicitações
@@ -1322,7 +1293,7 @@ processamento, o tamanho funcional equivale a 25% do tamanho original da funçã
 nesse caso, pode-se
 considerar 18,75% do tamanho original da função.
 
-Item. 4.6. Múltiplas Mídias
+4.6. Múltiplas Mídias
 
 Considerando-se a contagem funcional de funcionalidades entregues em mais de uma mídia,
 a aplicação
@@ -1353,8 +1324,7 @@ existente (com impacto no código) deve ser contada como alteração de uma fun�
 não como
 uma nova funcionalidade).
 
-
-Item. 4.7. Primeira Referência A Arquivos Lógicos Em Contextos Diferentes De Desenvoivimentos
+4.7. Primeira Referência A Arquivos Lógicos Em Contextos Diferentes De Desenvoivimentos
 
 Em contratos externos, um arquivo lógico já existente em uma aplicação alvo de
 manutenção evolutiva
@@ -1372,7 +1342,7 @@ e TD) no contexto da contratada, exceto se houver mudança estrutural do arquivo
 aplicação
 como um todo.
 
-Item. 4.8. Dados De Código
+4.8. Dados De Código
 
 Os dados de código, conforme definido pelo CPM, não serão contados mesmo que estejam
 definidos
@@ -1383,7 +1353,7 @@ menor em relação a
 requisitos funcionais e seu custo deverá estar inserido no valor acordado no contrato com
 terceiros.
 
-Item. 4.9. Criação E Alteração De Scripts De Atualização Do Siga
+4.9. Criação E Alteração De Scripts De Atualização Do Siga
 
 A carga inicial dos dados de configuração do SIGA (Sistema De Gerenciamento De Acesso
 que
@@ -1409,16 +1379,15 @@ simples mudança de valores passados como parâmetros. Nesse caso poderia ser
 contabilizado como uma
 reexecução de script, conforme seção deste Manual).
 
-Item. 4.10. Reexecução De Scripts De Atualização E De Carga De Dados
+4.10. Reexecução De Scripts De Atualização E De Carga De Dados
 
 Demandas de reexecução de scripts de atualização e de carga de dados poderão ser
 dimensionadas
 com 0,1 PF ou 0,07 EF.
 
+5. Aplicação da Métrica em Contextos Específicos de Desenvolvimento
 
-Item. 5. Aplicação da Métrica em Contextos Específicos de Desenvolvimento
-
-Item. 5.1. Medição De Desenvolvimento Por Parametrização
+5.1. Medição De Desenvolvimento Por Parametrização
 
 O desenvolvimento por parametrização é uma das formas utilizadas para a adaptação de
 um software
@@ -1458,7 +1427,7 @@ contratante e sua contagem deve seguir as mesmas regras de desenvolvimento de um
 sistema de informação
 tradicional contidas neste manual.
 
-Item. 5.2. Medição De Portais Web
+5.2. Medição De Portais Web
 
 O desenvolvimento de portais pode utilizar linguagens de programação para construir o
 núcleo da
@@ -1484,7 +1453,6 @@ em uma das camadas do portal, deve ser considerada como alteração nas funciona
 presentes nas
 interfaces modificadas por esses meios e, portanto, as funcionalidades alteradas são contadas.
 
-
 A simples ativação de funcionalidades pré-existentes deve ser dimensionada conforme
 descrito neste
 manual quando um usuário intermediário administrativo utiliza um recurso técnico para essa
@@ -1504,7 +1472,7 @@ arquivo mantido, não importando o número de páginas que forem afetadas. Isso 
 frequentemente com
 barras de navegação, cabeçalhos e outros elementos que se repetem em várias páginas web.
 
-Item. 5.3. Medição De Componentes De Software
+5.3. Medição De Componentes De Software
 
 Componentes são funcionalidades implementadas normalmente como serviços SOA, webservices ou
 microserviços. São exemplos de componentes: um serviço rest de validação de CPF e um
@@ -1513,13 +1481,13 @@ com a capacidade funcional de promover conversão de protocolo e de acionar um o
 serviços pré-
 existentes.
 
-Item. 5.3.1. Quem ou o que é o usuário?
+5.3.1. Quem ou o que é o usuário?
 
 O usuário de um componente pode ser além de uma pessoa ou aplicação que interage com
 o sistema,
 um desenvolvedor que define a solução visando a um melhor reaproveitamento.
 
-Item. 5.3.2. Qual a definição que deve ser utilizada para "componente"?
+5.3.2. Qual a definição que deve ser utilizada para "componente"?
 
 Um componente pode ser definido sob a perspectiva dos desenvolvedores, ou sob a
 perspectiva dos
@@ -1527,7 +1495,7 @@ usuários que necessitam dele. As suas funcionalidades podem não estar sempre v
 ao usuário final, mas
 existem na forma de processos elementares especificados para a equipe de desenvolvimento.
 
-Item. 5.3.3. Requisitos para contagem de componentes
+5.3.3. Requisitos para contagem de componentes
 
 Há requisitos obrigatórios para um componente ser contado:
 
@@ -1536,7 +1504,7 @@ Há requisitos obrigatórios para um componente ser contado:
 * ser criado com a visão de reuso por outras aplicações (se for um serviço de negócio ou
 middleware);
 
-Item. 5.3.3.1. Ser um processo elementar
+5.3.3.1. Ser um processo elementar
 
 Como toda funcionalidade, para poder ser contado, um componente (ex.: webservice)
 precisa ser um
@@ -1550,7 +1518,6 @@ características:
 
 3) ser autocontido;
 
-
 4) deixar o negócio da aplicação em estado consistente.
 
 Percebe-se no paper Pontos de Função & Contagem de Software Aplicativo Middleware (IFPUG,
@@ -1561,7 +1528,7 @@ IFPUG Utilizando Pontos de Função para medir software reutilizável percebe-se
 funcionalidades também
 são auto-contidas.
 
-Item. 5.3.3.2. Ser criado com a visão de reuso por outras aplicações (se for um serviço de negócio ou
+5.3.3.2. Ser criado com a visão de reuso por outras aplicações (se for um serviço de negócio ou
 middleware)
 
 Não pode ser criado apenas para uso interno a uma aplicação, caso típico de uma subrotina. No mesmo
@@ -1605,7 +1572,7 @@ compartilhados". (Questão: Assunto: Dúvida Contagem SOA Data:
 12/02/2010, em
 http://www.fattocs.com/files/pt/livro-apf/discussoes/livro-apf-2011-02.pdf).
 
-Item. 5.3.4. Ajustes na técnica de contagem
+5.3.4. Ajustes na técnica de contagem
 
 Para fins de contagem de componentes, valem as seguintes considerações:
 
@@ -1619,8 +1586,7 @@ derivação da complexidade da transação. Contudo, esses componentes não deve
 considerados como
 arquivos lógicos da aplicação.
 
-
-Item. 5.3.5. Medição de front-end
+5.3.5. Medição de front-end
 
 A camada de interface com o usuário (front-end) pode ter seu desenvolvimento solicitado
 separadamente
@@ -1638,9 +1604,9 @@ derivação da complexidade da transação. Contudo, esses componentes não deve
 considerados como
 arquivos lógicos da aplicação.
 
-Item. 5.4. Medição de Data Warehouse
+5.4. Medição de Data Warehouse
 
-Item. 5.4.1. Estimativa do tamanho funcional
+5.4.1. Estimativa do tamanho funcional
 
 De posse do documento de visão do projeto, devem ser contadas as tabelas fato e as tabelas dimensão.
 Se não for possível identificar a complexidade das mesmas, devido a ausência dos
@@ -1659,9 +1625,9 @@ contados. Para o cômputo de elementos funcionais, se houver necessidade de esti
 funções, deve-se aplicar
 o fator de 75% do tamanho estimado em pontos de função.
 
-Item. 5.4.2. ETL
+5.4.2. ETL
 
-Item. 5.4.2.1. Entradas externas
+5.4.2.1. Entradas externas
 
 Em casos de melhoria e desenvolvimento de data warehouse, geralmente existem
 funcionalidades de
@@ -1695,7 +1661,7 @@ funcionalidades da DSA serão consideradas na contagem. Os dados da DSA serão c
 como arquivos
 lógicos internos. As cargas de dados serão contadas como entradas externas.
 
-Item. 5.4.2.2. Funções de dados relacionadas a entradas externas
+5.4.2.2. Funções de dados relacionadas a entradas externas
 
 Em um modelo de dados multidimensional, esquema estrela, são reconhecidos dois tipos de
 entidades:
@@ -1774,7 +1740,7 @@ são integrados dentro de um novo arquivo lógico interno (tabela fato ou tabela
 dimensão). Cada funcionalidade
 de carga de dados para o arquivo lógico interno é contada como uma entrada externa.
 
-Item. 5.4.2.3. Consultas e saídas externas
+5.4.2.3. Consultas e saídas externas
 
 Frequentemente, em casos de melhoria e desenvolvimento de DW, existem funcionalidades
 que geram
@@ -1796,7 +1762,7 @@ Assim, os dados do sistema de origem são contados como arquivos de interface ex
 e as consultas são
 contadas como consultas externas ou saídas externas.
 
-Item. 5.4.3. OLAP
+5.4.3. OLAP
 
 Em aplicações de data warehouse, existem requisitos para geração de relatórios usando
 ferramentas.
@@ -1806,7 +1772,7 @@ saídas externas. Os relatórios gerados pelo usuário por meio da ferramenta OL
 são contados, porque
 não constituem um requisito do usuário para a equipe de desenvolvimento.
 
-Item. 5.4.3.1. Tabelas de visualização - geração de cubos ou contexto de análise ou universo
+5.4.3.1. Tabelas de visualização - geração de cubos ou contexto de análise ou universo
 
 Esse tipo de tabela normalmente é utilizado para consumo por outras aplicações ou pelo
 próprio data
@@ -1828,8 +1794,7 @@ novas fórmulas em uma tabela fato, deve ser contada a funcionalidade de geraç�
 análise como
 EFP alterado de acordo com o padrão da Nesma reproduzido neste manual.
 
-
-Item. 5.4.3.2. Caso de melhoria - criação de fórmulas
+5.4.3.2. Caso de melhoria - criação de fórmulas
 
 As fórmulas são atributos lógicos associados às tabelas fato ou tabelas dimensão. Estas
 são criadas
@@ -1864,7 +1829,7 @@ EE: carga de dados na tabela dimensão
 
 SE ou CE: geração de contexto de análise
 
-Item. 5.4.4. Funcionalidades de controle do data warehouse
+5.4.4. Funcionalidades de controle do data warehouse
 
 Como um dos propósitos do data warehouse é o de disponibilizar dados históricos, as funções de
 limpeza
@@ -1884,7 +1849,7 @@ entanto, estes mecanismos de controle devem ser criados para o DW, sendo
 consideradas pelo perfil
 administrador. Assim, estas funcionalidades devem ser contadas.
 
-Item. 5.4.5. Medição de relatórios
+5.4.5. Medição de relatórios
 
 Os relatórios serão identificados como processos elementares sempre do ponto de
 vista negociai
@@ -1906,7 +1871,7 @@ seria computada apenas uma funcionalidade. Se uma mesma informação for apresen
 em um gráfico
 como em uma tabela, só se considerará uma funcionalidade.
 
-Item. 5.5. Medição de Projetos Ágeis
+5.5. Medição de Projetos Ágeis
 
 Deve-se buscar seguir o modelo proposto no Roteiro de Métricas de Software do Sisp versão 2.2
 (SLTI,
@@ -1957,7 +1922,6 @@ EF - tamanho medido em elementos funcionais conforme seção 2.5.1. Mensuração
 do tamanho
 funcional em elementos funcionais e suas submétricas
 
-
 O coeficiente 1,36 foi obtido a partir da correlação linear1 entre o tamanho em PF
 e o tamanho em EF
 apurados no dimensionamento da produção funcional de sprints de desenvolvimento ágil
@@ -1965,7 +1929,6 @@ interno ao TCU do
 sistema e-Contas no período de 4/11/2012 a 13/12/2012. A tabela que se segue apresenta os números
 apurados
 no período.
-
 
 Data medição
 
@@ -2049,13 +2012,13 @@ PF/EF
 
 Tabela 9 - Produção funcional de sprints do e-Contas
 
-Item. 6. Métrica Na Gestão De Contratos Externos
+6. Métrica Na Gestão De Contratos Externos
 
 Alguns detalhes são apresentados para subsidiar as medições aplicadas em projetos alvo
 de gestão de
 contratos externos.
 
-Item. 6.1. Tipos De Medição Aplicados
+6.1. Tipos De Medição Aplicados
 
 Para efeito de remuneração da empresa, serão aplicáveis ao processo de gestão de
 contratos externos
@@ -2063,17 +2026,17 @@ os tipos de medição caso de melhoria, caso de desenvolvimento e aplicação, s
 usando o método de
 contagem detalhada.
 
-Item. 6.2. Funções Já Existentes Na Aplicação Não Serão Remuneradas
+6.2. Funções Já Existentes Na Aplicação Não Serão Remuneradas
 
 Funções pré-existentes no sistema contratado não serão remuneradas, exceto se sofrerem
 alteração no
 escopo da medição de um caso de melhoria.
 
-Item. 6.3. Aceite De Medição É Obrigatório
+6.3. Aceite De Medição É Obrigatório
 
 A medição realizada deve ser auditada por especialistas do TCU.
 
-Item. 6.4. Diferenças De Contagem
+6.4. Diferenças De Contagem
 
 Casos que exigirem revisão na aplicação da métrica (por exemplo: dupla interpretação,
 omissão) e não
@@ -2086,12 +2049,11 @@ práticas de contagem
 p-value de 8,15E-08, ou seja, trata-se de
 uma correlação confiável estatisticamente falando.
 
-
 usadas em contratos com a Administração Pública. O padrão seguido para sanar a diferença deve ser
 registrado
 no guia "Melhores Práticas de Medição Funcional" do TCU e deve ser adotado nas contagens seguintes.
 
-Item. 6.5. Reaproveitamento De Funcionalidades
+6.5. Reaproveitamento De Funcionalidades
 
 Funcionalidades que fizerem parte do framework já implementado pelo TCU não
 devem ser
@@ -2099,7 +2061,7 @@ remuneradas. São exemplos de funcionalidades já implementadas: controle de ace
 usuário, consulta a
 lista de unidades do TCU, funções associadas à gestão eletrônica de documentos, entre outras.
 
-Item. 6.6. Tratar Revisões do Manual
+6.6. Tratar Revisões do Manual
 
 Este Manual de Medições é dinâmico e está em constante evolução. É importante que
 seja tratado no
@@ -2107,7 +2069,7 @@ contrato o impacto de possíveis revisões. Se nada for dito em contrário, pode
 aplicadas novas versões
 do Manual, desde que haja concordância das partes envolvidas.
 
-Item. 6.7. Documentação Exigida
+6.7. Documentação Exigida
 
 É responsabilidade da contratada manter um baseline de funcionalidades das aplicações
 (pode conter
@@ -2127,7 +2089,7 @@ adequada punição à contratada.
 
 A documentação deve seguir o padrão definido neste manual.
 
-Item. 6.8. Revisão Dos Percentuais Por Atividade Implementada
+6.8. Revisão Dos Percentuais Por Atividade Implementada
 
 O contrato pode revisar os percentuais das fases do ciclo de desenvolvimento de
 software constantes
@@ -2135,7 +2097,7 @@ da metodologia de desenvolvimento e da tabela apresentada no passo "Aplicação 
 percentuais por atividade
 implementada" do processo de medição.
 
-Item. 6.9. Manutenção Corretiva
+6.9. Manutenção Corretiva
 
 O contrato deve detalhar como se dá a garantia. Uma manutenção corretiva faz parte da
 garantia do
@@ -2143,12 +2105,10 @@ contrato. Caso não exista cláusula contratual de garantia, deve ser considerad
 garantia de seis meses,
 preconizada por lei (Código do Consumidor).
 
-
-Item. 6.10. Prazo Máximo De Desenvolvimento
+6.10. Prazo Máximo De Desenvolvimento
 
 É importante que o contrato estabeleça critério para definição de um prazo máximo de entrega dos
 projetos. Se o contrato não especificar percentuais, deve-se seguir os indicados abaixo.
-
 
 Tamanho do Projeto
 (em PF)
@@ -2226,8 +2186,7 @@ T: prazo máximo de desenvolvimento em meses
 
 V: tamanho funcional do projeto
 
-
-Item. 7. Glossário
+7. Glossário
 
 Nessa seção são apresentadas algumas definições usadas nesse documento.
 
@@ -2240,7 +2199,6 @@ ALI Arquivo Lógico Interno.
 ALR Arquivo Lógico Referenciado.
 
 APF Análise de Pontos de Função.
-
 
 Aplicação
 
@@ -2320,7 +2278,6 @@ requisitos técnicos. A codificação de atributos descritivos em objetos de neg
 sua descrição, nome ou outros dados que também o descrevam, como a data de
 início ou término de sua vigência, são os atributos típicos desses arquivos.
 
-
 Dados de negócio
 
 Dados de referência
@@ -2343,7 +2300,6 @@ Informação criada a partir da transformação de dados existentes. Requer outr
 processamento além da recuperação, conversão e edição direta de dados.
 
 E
-
 
 EE
 EF
@@ -2401,7 +2357,6 @@ Funcional.
 
 FDES É o tamanho funcional do caso de desenvolvimento.
 
-
 FP_ALTERADO
 FP_NAO_A JUSTADO
 
@@ -2424,13 +2379,10 @@ suas necessidades de dados.
 Representam as funcionalidades de processamento de dados fornecidas pelo
 sistema ao usuário.
 
-
 IFPUG International Function Point Users Group
-
 
 Informações de
 controle
-
 
 ISO/IEC
 IEC
@@ -2479,7 +2431,6 @@ m. Ordenação ou organização de dados.
 
 M
 
-
 Manual de Práticas de
 Contagem
 
@@ -2507,7 +2458,6 @@ consistente.
 T
 
 TD Tipo de Dado
-
 
 Tipo de Dado
 Tipo de Registro
@@ -2537,8 +2487,7 @@ Visão do usuário Representa uma descrição formal das necessidades do negóci
 do usuário em sua
 própria linguagem, sendo compreendida por usuários e desenvolvedores.
 
-
-Item. 8. Referências Bibliográficas
+8. Referências Bibliográficas
 
 CASTRO, M.V.B.; HERNANDES, C.A.M., A Metric of Software Size as a Tool for IT Governance,
 
@@ -2572,31 +2521,29 @@ FPA_for_Software_Enhancement_(v2.2.1 ).pdf>. Acesso em: 16 out. 2012. 2009.
 SLTI. Secretaria de Logística e Tecnologia da Informação. Ministério do Planejamento, Orçamento e
 Gestão. Roteiro de Métricas de Software do SISP, versão 2.2. Brasília: SISP. 2016.
 
-
 Anexo I - Relatório de medição estimativa de tamanho funcional (exemplo)
 
-Item. 1. ID da medição :
+1. ID da medição :
 
-Item. 2. Nome do caso :
+2. Nome do caso :
 
-Item. 3. Nome do autor damedição : Data://
+3. Nome do autor damedição : Data://
 
-Item. 4. Propósito da medição :
+4. Propósito da medição :
 
-Item. 5. Tipo da medição : ( ) Aplicação ( ) Desenvolvimento ( ) Melhoria
+5. Tipo da medição : ( ) Aplicação ( ) Desenvolvimento ( ) Melhoria
 
-Item. 6. Escopo da medição :
+6. Escopo da medição :
 
-Item. 7. Fronteira(s) :
+7. Fronteira(s) :
 
 N° ID NOME
 
-Item. 8. Pressuposições adotadas :
+8. Pressuposições adotadas :
 
 10.Documentação utilizada
 
 N° NOME URL ID
-
 
 11.Funções de dados
 
@@ -2613,7 +2560,6 @@ REQ.
 TIPO COMPL. PF/EF INC/ALT/ FI
 
 EXC
-
 
 SUBTOTAL
 
@@ -2649,14 +2595,13 @@ FUNÇÃO
 
 15.Resultado da estimativa :
 
-Item. 1. TAMANHO FUNCIONAL: FP ou EF
+1. TAMANHO FUNCIONAL: FP ou EF
 
-Item. 2. ESFORÇO: PESSOA-MÊS
+2. ESFORÇO: PESSOA-MÊS
 
-Item. 3. TEMPO : MESES
+3. TEMPO : MESES
 
 < assinatura >
-
 
 Anexo II - Relatório de contagem funcional detalhada (exemplo)
 
@@ -2664,22 +2609,21 @@ ID da contagem
 
 2 . Nome do caso :
 
-Item. 3. Nome do autor da contagem : Data: / /
+3. Nome do autor da contagem : Data: / /
 
 4 . Propósito da contagem :
 
-Item. 5. Tipo da contagem : ( ) Aplicação ( ) Desenvolvimento ( ) Melhoria
+5. Tipo da contagem : ( ) Aplicação ( ) Desenvolvimento ( ) Melhoria
 
-Item. 6. Escopo da contagem :
+6. Escopo da contagem :
 Fronteira(s)
 
 N° ID NOME
 
-Item. 8. Pressuposições adotadas
+8. Pressuposições adotadas
 10.Documentação utilizada
 
 N° NOME URL ID
-
 
 11.Funções de dados
 FUNÇÃO
@@ -2701,7 +2645,6 @@ EF
 INC/ALT/
 EXC
 
-
 xxxxxxxxxxxxxxxxxx
 
 F0001 D001 R001
@@ -2709,7 +2652,6 @@ F0001 D001 R001
 ALI BAIXA 7
 
 ALT
-
 
 ELEMENTO
 
@@ -2732,7 +2674,6 @@ ALT
 
 EXC
 
-
 12.Funções de transação
 FUNÇÃO
 
@@ -2751,13 +2692,11 @@ INC/ALT
 
 /EXC
 
-
 XXXXXXXXXXXXXXXXXX
 
 F0002 D002 R002
 
 ALT
-
 
 ELEMENTO
 
@@ -2781,7 +2720,6 @@ ALT
 
 EXC
 
-
 N° NOME
 
 ID
@@ -2802,8 +2740,7 @@ EF
 
 INC/ALT/EXC FI
 
-Item. 14. TAMANHO FUNCIONAL FINAL
+14. TAMANHO FUNCIONAL FINAL
 
 <a
-
 

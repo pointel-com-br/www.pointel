@@ -1,5 +1,4 @@
-Capítulo. Raciocínio Lógico - Associações Lógicas.
-
+# Raciocínio Lógico - Associações Lógicas.
 
 Índice
 
@@ -8,7 +7,6 @@ Capítulo. Raciocínio Lógico - Associações Lógicas.
 2) Questões Comentadas - Associação Lógica - Cebraspe
 
 3) Lista de Questões - Associação Lógica - Cebraspe
-
 
 ASSoCIAçÃo LóGICA
 
@@ -61,7 +59,6 @@ Pedro Mais baixo
 É assim que associaremos o fato de Pedro ser o mais baixo, colocando as informações na mesma linha.
 Sabemos também que Pedro não faz natação, como representamos isso? Simplesmente colocando natação
 em uma linha diferente da de Pedro.
-
 
 Amigo Esporte Cabelo Altura
 
@@ -126,7 +123,6 @@ Alternativa incorreta. Pedro é moreno mas José pratica natação e não voleib
 
 B) José é ruivo e Antônio pratica futebol.
 
-
 Alternativa incorreta. José é ruivo mas Antônio pratica voleibol e não natação.
 
 C) Antônio é o mais alto e Pedro é moreno.
@@ -146,7 +142,6 @@ A tabela é uma ótima estratégia para resolver a grande maioria das questões 
 assunto. Não
 se esqueça que a resolução das questões a seguir é de fundamental importância para sua evolução na
 matéria e consequente ganho de velocidade na prova. Não deixe de fazê-las!
-
 
 QUESTõES CoMENTADAS - CEBRASPE
 
@@ -207,7 +202,6 @@ Posição 12 22 32 42 52 62
 
 Pessoa Flávio Bruno Dani Carla
 
-
 Agora, para fazer a próxima mudança, temos que considerar as afirmativas III e V ao mesmo tempo. A
 afirmativa III diz que Evandro não está antes de todos (ou seja, não pode estar na l3 posição). No
 entanto,
@@ -250,14 +244,13 @@ sendo uma outra configuração possível. Logo, para marcamos as nossas resposta
 a
 essas duas últimas tabelas.
 
-Item. 1. (CESPE/SEFAZ-AL/2020) A segunda e a terceira posições da fila são ocupadas por Evandro e Bruno.
+1. (CESPE/SEFAZ-AL/2020) A segunda e a terceira posições da fila são ocupadas por Evandro e Bruno.
 
 Comentários
 
 De acordo com o comentário inicial da questão encontrado logo acima, as possibilidades de
 configuração
 que obtemos ao considerar as afirmativas do enunciado são:
-
 
 Posição 19 29
 
@@ -271,13 +264,12 @@ Posição 19 29 39 49 59 69
 
 Pessoa Flávio Evandro Bruno Alberto Dani Carla
 
-
 Observe que, em qualquer uma das duas, Evandro ocupa a segunda posição e Bruno ocupa a terceira
 posição. Portanto, o gabarito do item está correto.
 
 Gabarito: CERTO.
 
-Item. 2. (CESPE/SEFAZ-AL/2020) Carla pode ocupar a última posição da fila ou a penúltima.
+2. (CESPE/SEFAZ-AL/2020) Carla pode ocupar a última posição da fila ou a penúltima.
 
 Comentários
 
@@ -299,7 +291,7 @@ Carla está na última posição (6?). Logo, o item está correto.
 
 Gabarito: CERTO.
 
-Item. 3. (CESPE/SEFAZ-AL/2020) A quarta posição da fila somente pode ser ocupada por Dani.
+3. (CESPE/SEFAZ-AL/2020) A quarta posição da fila somente pode ser ocupada por Dani.
 
 Comentários
 
@@ -309,7 +301,6 @@ configuração que obtemos ao considerar as afirmativas do enunciado são:
 Posição 19 29 39 49 59 69
 
 Pessoa Flávio Evandro Bruno Dani Carla Alberto
-
 
 Posição 19 29 39 49
 
@@ -326,13 +317,12 @@ Alberto também pode ocupar essa posição. Logo, o item está errado.
 
 Gabarito: ERRADO.
 
-Item. 4. (CESPE/SEFAZ-AL/2020) Bruno e Dani estão, necessariamente, em posições consecutivas.
+4. (CESPE/SEFAZ-AL/2020) Bruno e Dani estão, necessariamente, em posições consecutivas.
 
 Comentários
 
 De acordo com o comentário inicial da questão encontrado logo após o enunciado, as possibilidades de
 configuração que obtemos ao considerar as afirmativas do enunciado são:
-
 
 Posição 19 29 39 49 59 69
 
@@ -348,7 +338,7 @@ entre Bruno e Dani. Logo, o item está errado.
 
 Gabarito: ERRADO.
 
-Item. 5. (CESPE/SEFAZ-RS/2018) De acordo com o assunto de que tratavam, os processos de um departamento
+5. (CESPE/SEFAZ-RS/2018) De acordo com o assunto de que tratavam, os processos de um departamento
 foram separados e guardados em capas brancas (B), vermelhas (V), laranjas (L) e azuis (A). O
 assistente
 administrativo responsável agrupou esses processos pelas respectivas cores das capas e os colocou em
@@ -385,7 +375,6 @@ ficaram à direita dos de capas laranjas.
 Depois disso, foi informado que os de capa azuis ficam à esquerda dos de capa vermelha. Logo,
 devemos
 ajustar nosso desenho.
-
 
 Perceba que a configuração encontrada realmente obedece todos os requisitos do enunciado. Portanto,
 a
@@ -436,7 +425,6 @@ Com isso, a formação que sobra para João é a de Ciência da Computação (CC
 que
 o Engenheiro de Informação pode ter é 27 anos.
 
-
 Analista Formação Idade
 
 João CC 25
@@ -459,7 +447,7 @@ Tiago SI 29
 
 Agora, com a tabela montada, podemos analisar os itens.
 
-Item. 6. (CESPE/BNB/2018) Paulo tem 27 anos de idade.
+6. (CESPE/BNB/2018) Paulo tem 27 anos de idade.
 
 Comentários
 
@@ -477,7 +465,7 @@ Percebemos que Paulo realmente tem 27 anos idade. O item é correto.
 
 Gabarito: CERTO.
 
-Item. 7. (CESPE/BNB/2018) João é formado em ciência da computação.
+7. (CESPE/BNB/2018) João é formado em ciência da computação.
 
 Comentários
 
@@ -496,8 +484,7 @@ Veja que obtemos que João é formado em Ciência da Computação e tem 25 anos.
 
 Gabarito: CERTO.
 
-
-Item. 8. (CESPE/BNB/2018) Tiago tem 29 anos de idade.
+8. (CESPE/BNB/2018) Tiago tem 29 anos de idade.
 
 Comentários
 
@@ -551,7 +538,6 @@ intenção distinta. Vamos usar uma tabela para nos auxiliar na organização da
 
 A primeira afirmativa nos garante que João não blefa e não tem o pior jogo.
 
-
 Em um primeiro momento vamos apenas representar que João é diferente da pessoa que tem intenção de
 blefar. Não preencheremos o fato dele não ter o pior jogo pois não sabemos se a pessoa que blefa
 tem o
@@ -586,12 +572,11 @@ José Sem Seq. Desistir
 
 Com nossa tabela completa, podemos analisar os itens propostos.
 
-Item. 9. (CESPE/FUB/2015) João tem a intenção de continuar a jogada e, além disso, possui um par.
+9. (CESPE/FUB/2015) João tem a intenção de continuar a jogada e, além disso, possui um par.
 
 Comentários
 
 A tabela que obtivemos nos comentários iniciais dessa questão foi a seguinte:
-
 
 Jogador Jogo Intenção
 
@@ -604,7 +589,7 @@ Veja que João realmente tem um par e tem a intenção de continuar.
 
 Gabarito: CERTO.
 
-Item. 10. (CESPE/FUB/2015) Pedro é o jogador que possui o pior jogo
+10. (CESPE/FUB/2015) Pedro é o jogador que possui o pior jogo
 Comentários
 
 A tabela que obtivemos nos comentários iniciais dessa questão foi a seguinte:
@@ -647,7 +632,6 @@ Funcionário Cargo Aposenta
 
 José
 
-
 Analista
 
 Uma outra informação é que o analista se aposentará antes de Mário. Na prática, isso significa que
@@ -680,7 +664,7 @@ Luís Analista Segundo
 Mário Auditor Último
 Com a tabela preenchida, conseguimos analisar os itens abaixo.
 
-Item. 11. (CESPE/TC-DF/2014) Mário é analista, José é técnico e Luís, auditor.
+11. (CESPE/TC-DF/2014) Mário é analista, José é técnico e Luís, auditor.
 
 Comentários
 
@@ -698,8 +682,7 @@ Conclusão que tiramos: Mário é o auditor, José é o técnico e Luís, o anal
 
 Gabarito: ERRADO.
 
-
-Item. 12. (CESPE/TC-DF/2014) Se os três servidores trabalharem até o momento da aposentadoria e se
+12. (CESPE/TC-DF/2014) Se os três servidores trabalharem até o momento da aposentadoria e se
 aposentarem nos tempos previstos, então José ou Mário ainda estarão trabalhando quando Luís
 completar o tempo necessário para se aposentar.
 
@@ -732,7 +715,6 @@ Pedro usava camisa azul; a pessoa de camisa verde pediu carne e Rodrigo não ped
 informações podem ser visualizadas na tabela abaixo, em que, no cruzamento de uma linha com uma
 coluna, V corresponde a fato verdadeiro e F, a fato falso.
 
-
 Azul
 Branca
 Verde
@@ -757,14 +739,13 @@ V
 
 Rodrigo
 
-Item. 13. (CESPE/PF/2014) Se João pediu peixe, então Rodrigo não usava camisa branca.
+13. (CESPE/PF/2014) Se João pediu peixe, então Rodrigo não usava camisa branca.
 
 Comentários
 
 Pessoal, acredito que tentar utilizar a tabela acima pode atrapalhar mais que ajudar. Vamos fazer
 uma
 tabela bem mais simples que deixará o que está acontecendo mais claro.
-
 
 A primeira informação passada pelo enunciado foi que Pedro usava camisa azul.
 
@@ -799,7 +780,7 @@ verde
 (ou seja, não está vestindo branco!). Logo, o item é correto.
 Gabarito: CERTO.
 
-Item. 14. (CESPE/PF/2014) Das informações apresentadas, é possível inferir que Pedro pediu frango.
+14. (CESPE/PF/2014) Das informações apresentadas, é possível inferir que Pedro pediu frango.
 
 Comentários
 
@@ -812,7 +793,6 @@ A primeira informação passada pelo enunciado foi que Pedro usava camisa azul.
 Pessoa Camisa Prato
 
 Pedro Azul
-
 
 A segunda informação é que a pessoa de camisa verde pediu carne.
 
@@ -841,7 +821,7 @@ podemos afirmar com categoria que Pedro pediu o frango.
 
 Gabarito: ERRADO.
 
-Item. 15. (CESPE/PF/2014) As informações apresentadas na situação em apreço e o fato de João ter pedido
+15. (CESPE/PF/2014) As informações apresentadas na situação em apreço e o fato de João ter pedido
 peix
 não são suficientes para se identificarem a cor da camisa de cada uma dessas pessoas e o prato que
 cada
@@ -856,7 +836,6 @@ uma tabela bem mais simples que deixará o que está acontecendo mais claro.
 A primeira informação passada pelo enunciado foi que Pedro usava camisa azul.
 
 A segunda informação é que a pessoa de camisa verde pediu carne.
-
 
 Pessoa Camisa Prato
 
@@ -914,7 +893,6 @@ Auditor Idade Cidade Natal
 
 28 anos Goiânia
 
-
 Agora, devemos associar duas informações: Paulo não nasceu em Curitiba (nasceu em Brasília ou
 Goiânia)
 e Tiago nasceu no Centro-Oeste (nasceu em Brasília ou Goiânia). Logo, encontramos os dois nascidos
@@ -944,7 +922,7 @@ Tiago 25 anos Brasília
 Com essa última análise, conseguimos preencher completamente nossa tabela e estamos prontos para
 encarar os itens.
 
-Item. 16. (CESPE/MTE/2013) O auditor brasiliense tem 27 anos.
+16. (CESPE/MTE/2013) O auditor brasiliense tem 27 anos.
 
 Comentários
 
@@ -962,7 +940,7 @@ Percebemos que o auditor brasiliense, Tiago, tem 25 anos e não 27 como apontado
 
 Gabarito: ERRADO.
 
-Item. 17. (CESPE/MTE/2013) Paulo nasceu em Goiânia.
+17. (CESPE/MTE/2013) Paulo nasceu em Goiânia.
 
 Comentários
 
@@ -976,11 +954,10 @@ João 27 anos Curitiba
 
 Tiago 25 anos Brasília
 
-
 Percebemos que Paulo, que tem 28 anos, realmente nasceu em Goiânia.
 Gabarito: CERTO.
 
-Item. 18. (CESPE/MTE/2013) O auditor que nasceu em Curitiba tem 25 anos.
+18. (CESPE/MTE/2013) O auditor que nasceu em Curitiba tem 25 anos.
 
 Comentários
 
@@ -1034,7 +1011,6 @@ Assessora Função Tempo na função
 
 Lina 13 anos
 
-
 A segunda informação que podemos utilizar é que a analista processual ocupa a função há 20 anos.
 
 Assessora Função Tempo na função
@@ -1063,7 +1039,6 @@ assessora de assuntos internacionais.
 
 Assessora Função Tempo na função
 
-
 Lina
 
 Mara
@@ -1083,14 +1058,13 @@ Cerimonialista
 
 Com a tabela montada, é possível analisar os itens.
 
-Item. 19. (CESPE/STF/2013) A assessora de assuntos internacionais ocupa a função há exatos 11 anos.
+19. (CESPE/STF/2013) A assessora de assuntos internacionais ocupa a função há exatos 11 anos.
 
 Comentários
 
 A tabela que montamos nos comentários iniciais da questão foi:
 
 Assessora Função Tempo na função
-
 
 Lina
 
@@ -1112,15 +1086,13 @@ Cerimonialista
 Olhando a tabela: Lina, que é assessora de assuntos internacionais, está na função há 13 anos.
 Gabarito: ERRADO.
 
-
-Item. 20. (CESPE/STF/2013) Mara é a assessora que ocupa essa função há mais tempo.
+20. (CESPE/STF/2013) Mara é a assessora que ocupa essa função há mais tempo.
 
 Comentários
 
 A tabela que montamos nos comentários iniciais da questão foi:
 
 Assessora Função Tempo na função
-
 
 Lina
 
@@ -1142,14 +1114,13 @@ Cerimonialista
 Olhando a tabela, vemos que a assessora que ocupa a função há mais tempo é Mara.
 Gabarito: CERTO.
 
-Item. 21. (CESPE/STF/2013) Lina é a cerimonialista.
+21. (CESPE/STF/2013) Lina é a cerimonialista.
 
 Comentários
 
 A tabela que montamos nos comentários iniciais da questão foi:
 
 Assessora Função Tempo na função
-
 
 Lina
 
@@ -1195,7 +1166,6 @@ VI. O jogo do dia 23 será em Lisboa.
 Considerando essa situação hipotética, julgue os itens a seguir.
 Comentários Iniciais
 
-
 Temos três times que jogarão em dias e cidades distintos. Mais uma vez, precisaremos
 de uma tabela para
 organizar as informações que são trazidas pelo enunciado.
@@ -1231,7 +1201,7 @@ Lembre-se que os dados em vermelho foram completados automaticamente uma vez que
 sobraram eles
 para preencher a coluna vaga. Com a tabela completa, podemos analisar item por item.
 
-Item. 22. (CESPE/ANS/2013) O Flamengo jogará no dia 22.
+22. (CESPE/ANS/2013) O Flamengo jogará no dia 22.
 
 Comentários
 
@@ -1247,10 +1217,9 @@ Corinthians Lisboa 23
 
 Ao olhar a tabela, confirmamos que Flamengo jogará em Roma no dia 22.
 
-
 Gabarito: CERTO.
 
-Item. 23. (CESPE/ANS/2013) O jogo em Paris ocorrerá no dia 24.
+23. (CESPE/ANS/2013) O jogo em Paris ocorrerá no dia 24.
 
 Comentários
 
@@ -1267,7 +1236,7 @@ Corinthians Lisboa 23
 Ao olhar a tabela, confirmamos que o jogo em Paris ocorrerá dia 24.
 Gabarito: CERTO.
 
-Item. 24. (CESPE/ANS/2013) O Corinthians jogará em Paris.
+24. (CESPE/ANS/2013) O Corinthians jogará em Paris.
 
 Comentários
 
@@ -1285,7 +1254,7 @@ Ao olhar a tabela acima, é possível verificar que o Corinthians jogará em Lis
 
 Gabarito: ERRADO.
 
-Item. 25. (CESPE/MME/2013) Em uma repartição pública, todos os 36 servidores têm estaturas
+25. (CESPE/MME/2013) Em uma repartição pública, todos os 36 servidores têm estaturas
 diferentes. O
 mais baixo dos homens é mais alto do que cinco mulheres, o segundo homem mais baixo é mais alto do
 que seis mulheres, o terceiro homem mais baixo é mais alto do que sete mulheres e,
@@ -1308,7 +1277,6 @@ Comentários
 
 Observe no esquema a seguir que os cinco servidores mais baixos dessa repartição são mulheres.
 
-
 são 36 servidores, os próximos 30 servidores aparecem em pares, totalizando 15 homens e 15
 mulheres.
 
@@ -1316,7 +1284,6 @@ mulheres.
 
 Como temos 5 mulheres que estão no início e fora dos pares, ficamos com 15 + 5 = 20 mulheres.
 Gabarito: Letra A
-
 
 Associação Lógica
 
@@ -1342,15 +1309,15 @@ Com base nessas informações, julgue os itens a seguir, considerando a ordenaç
 esquerda para a
 direita:
 
-Item. 1. (CESPE/SEFAZ-AL/2020) A segunda e a terceira posições da fila são ocupadas por Evandro e Bruno.
+1. (CESPE/SEFAZ-AL/2020) A segunda e a terceira posições da fila são ocupadas por Evandro e Bruno.
 
-Item. 2. (CESPE/SEFAZ-AL/2020) Carla pode ocupar a última posição da fila ou a penúltima.
+2. (CESPE/SEFAZ-AL/2020) Carla pode ocupar a última posição da fila ou a penúltima.
 
-Item. 3. (CESPE/SEFAZ-AL/2020) A quarta posição da fila somente pode ser ocupada por Dani.
+3. (CESPE/SEFAZ-AL/2020) A quarta posição da fila somente pode ser ocupada por Dani.
 
-Item. 4. (CESPE/SEFAZ-AL/2020) Bruno e Dani estão, necessariamente, em posições consecutivas.
+4. (CESPE/SEFAZ-AL/2020) Bruno e Dani estão, necessariamente, em posições consecutivas.
 
-Item. 5. (CESPE/SEFAZ-RS/2018) De acordo com o assunto de que tratavam, os processos de um departamento
+5. (CESPE/SEFAZ-RS/2018) De acordo com o assunto de que tratavam, os processos de um departamento
 foram separados e guardados em capas brancas (B), vermelhas (V), laranjas (L) e azuis
 (A). O assistente
 administrativo responsável agrupou esses processos pelas respectivas cores das capas e
@@ -1384,15 +1351,14 @@ anos de idade. Paulo não é formado em CC, e sua idade não é 29 anos. A respe
 de suas
 formações e de suas idades, julgue os itens:
 
-Item. 0.0
+0.0
 www. estra tegiaconcursos. com. br
 
+6. (CESPE/BNB/2018) Paulo tem 27 anos de idade.
 
-Item. 6. (CESPE/BNB/2018) Paulo tem 27 anos de idade.
+7. (CESPE/BNB/2018) João é formado em ciência da computação.
 
-Item. 7. (CESPE/BNB/2018) João é formado em ciência da computação.
-
-Item. 8. (CESPE/BNB/2018) Tiago tem 29 anos de idade.
+8. (CESPE/BNB/2018) Tiago tem 29 anos de idade.
 
 Texto para as próximas questões
 
@@ -1419,9 +1385,9 @@ e o outro tem a intenção de blefar. Sabe-se, ainda, que:
 
 Com base nessa situação hipotética, julgue os itens:
 
-Item. 9. (CESPE/FUB/2015) João tem a intenção de continuar a jogada e, além disso, possui um par.
+9. (CESPE/FUB/2015) João tem a intenção de continuar a jogada e, além disso, possui um par.
 
-Item. 10. (CESPE/FUB/2015) Pedro é o jogador que possui o pior jogo
+10. (CESPE/FUB/2015) Pedro é o jogador que possui o pior jogo
 Texto para as próximas questões
 
 José, Luís e Mário são funcionários públicos nas funções de auditor, analista
@@ -1434,9 +1400,9 @@ ano passado, no mesmo mês que José saiu de férias, ou Luís ou Mário também
 Com base nessas
 informações, julgue os itens:
 
-Item. 11. (CESPE/TC-DF/2014) Mário é analista, José é técnico e Luís, auditor.
+11. (CESPE/TC-DF/2014) Mário é analista, José é técnico e Luís, auditor.
 
-Item. 12. (CESPE/TC-DF/2014) Se os três servidores trabalharem até o momento da
+12. (CESPE/TC-DF/2014) Se os três servidores trabalharem até o momento da
 aposentadoria e se
 aposentarem nos tempos previstos, então José ou Mário ainda estarão trabalhando
 quando Luís
@@ -1454,9 +1420,8 @@ informações podem ser visualizadas na tabela abaixo, em que, no cruzamento de 
 linha com uma
 coluna, V corresponde a fato verdadeiro e F, a fato falso.
 
-Item. 0.0
+0.0
 www. estra tegiaconcursos. com. br
-
 
 Azul
 Branca
@@ -1482,11 +1447,11 @@ V
 
 Rodrigo
 
-Item. 13. (CESPE/PF/2014) Se João pediu peixe, então Rodrigo não usava camisa branca.
+13. (CESPE/PF/2014) Se João pediu peixe, então Rodrigo não usava camisa branca.
 
-Item. 14. (CESPE/PF/2014) Das informações apresentadas, é possível inferir que Pedro pediu frango.
+14. (CESPE/PF/2014) Das informações apresentadas, é possível inferir que Pedro pediu frango.
 
-Item. 15. (CESPE/PF/2014) As informações apresentadas na situação em apreço e o fato de João ter pedido
+15. (CESPE/PF/2014) As informações apresentadas na situação em apreço e o fato de João ter pedido
 peixe
 não são suficientes para se identificarem a cor da camisa de cada uma dessas pessoas e o prato que
 cada
@@ -1504,11 +1469,11 @@ Curitiba nem tem
 julgue os seguintes
 itens.
 
-Item. 16. (CESPE/MTE/2013) O auditor brasiliense tem 27 anos.
+16. (CESPE/MTE/2013) O auditor brasiliense tem 27 anos.
 
-Item. 17. (CESPE/MTE/2013) Paulo nasceu em Goiânia.
+17. (CESPE/MTE/2013) Paulo nasceu em Goiânia.
 
-Item. 18. (CESPE/MTE/2013) O auditor que nasceu em Curitiba tem 25 anos.
+18. (CESPE/MTE/2013) O auditor que nasceu em Curitiba tem 25 anos.
 
 Texto para as próximas questões
 
@@ -1531,12 +1496,11 @@ IV. Lina ocupa a função há exatos 13 anos.
 
 Com base nessa situação hipotética, julgue os itens subsequentes.
 
-Item. 19. (CESPE/STF/2013) A assessora de assuntos internacionais ocupa a função há exatos 11 anos.
+19. (CESPE/STF/2013) A assessora de assuntos internacionais ocupa a função há exatos 11 anos.
 
-Item. 20. (CESPE/STF/2013) Mara é a assessora que ocupa essa função há mais tempo.
+20. (CESPE/STF/2013) Mara é a assessora que ocupa essa função há mais tempo.
 
-
-Item. 21. (CESPE/STF/2013) Lina é a cerimonialista.
+21. (CESPE/STF/2013) Lina é a cerimonialista.
 
 Texto para as próximas questões
 
@@ -1560,13 +1524,13 @@ VI. O jogo do dia 23 será em Lisboa.
 
 Considerando essa situação hipotética, julgue os itens a seguir.
 
-Item. 22. (CESPE/ANS/2013) O Flamengo jogará no dia 22.
+22. (CESPE/ANS/2013) O Flamengo jogará no dia 22.
 
-Item. 23. (CESPE/ANS/2013) O jogo em Paris ocorrerá no dia 24.
+23. (CESPE/ANS/2013) O jogo em Paris ocorrerá no dia 24.
 
-Item. 24. (CESPE/ANS/2013) O Corinthians jogará em Paris.
+24. (CESPE/ANS/2013) O Corinthians jogará em Paris.
 
-Item. 25. (CESPE/MME/2013) Em uma repartição pública, todos os 36 servidores têm estaturas
+25. (CESPE/MME/2013) Em uma repartição pública, todos os 36 servidores têm estaturas
 diferentes. O
 mais baixo dos homens é mais alto do que cinco mulheres, o segundo homem mais baixo é mais alto do
 que seis mulheres, o terceiro homem mais baixo é mais alto do que sete mulheres e,
@@ -1587,32 +1551,30 @@ E) 18.
 
 0 0
 
-
 GABARITo
 
-Item. 1. CORRETO 10. CORRETO
-Item. 19. ERRADO
+1. CORRETO 10. CORRETO
+19. ERRADO
 
-Item. 2. CORRETO 11. ERRADO
-Item. 20. CORRETO
+2. CORRETO 11. ERRADO
+20. CORRETO
 
-Item. 3. ERRADO 12. CORRETO
-Item. 21. ERRADO
+3. ERRADO 12. CORRETO
+21. ERRADO
 
-Item. 4. ERRADO 13. CORRETO
-Item. 22. CORRETO
+4. ERRADO 13. CORRETO
+22. CORRETO
 
-Item. 5. LETRA C 14. ERRADO
-Item. 23. CORRETO
+5. LETRA C 14. ERRADO
+23. CORRETO
 
-Item. 6. CORRETO 15. ERRADO
-Item. 24. ERRADO
+6. CORRETO 15. ERRADO
+24. ERRADO
 
-Item. 7. CORRETO 16. ERRADO
+7. CORRETO 16. ERRADO
 25.LETRA A
 
-Item. 8. CORRETO 17. CORRETO
+8. CORRETO 17. CORRETO
 
-Item. 9. CORRETO 18. ERRADO
-
+9. CORRETO 18. ERRADO
 

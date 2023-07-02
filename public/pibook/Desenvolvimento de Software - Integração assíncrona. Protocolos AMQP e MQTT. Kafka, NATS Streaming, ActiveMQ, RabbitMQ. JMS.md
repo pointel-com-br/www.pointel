@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Integração assíncrona. Protocolos AMQP e MQTT. Kafka, NATS Streaming, ActiveMQ, RabbitMQ. JMS.
-
+# Desenvolvimento de Software - Integração assíncrona. Protocolos AMQP e MQTT. Kafka, NATS Streaming, ActiveMQ, RabbitMQ. JMS.
 
 AVISO
 
@@ -11,5 +10,4 @@ apenas de videoaula.
 Bons estudos!
 
 Estratégia Concursos.
-
 

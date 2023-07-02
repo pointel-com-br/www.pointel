@@ -1,5 +1,4 @@
-Capítulo. Língua Inglesa - Substantivos, Artigos, Pronomes, Preposições.
-
+# Língua Inglesa - Substantivos, Artigos, Pronomes, Preposições.
 
 Índice
 
@@ -22,7 +21,6 @@ Capítulo. Língua Inglesa - Substantivos, Artigos, Pronomes, Preposições.
 9) Lista de Questões e Gabaritos A1 CESPE
 
 10) Resumo A1 CESPE
-
 
 FoRMAçÃo DE FRASES
 
@@ -63,7 +61,6 @@ Verbo - gave (o que?)
 Objeto direto - the box (para quem?)
 Objeto indireto - to the woman
 
-
 My students are friendly.
 Meus alunos são amigáveis.
 
@@ -99,7 +96,6 @@ My grandma wants BBQ, so my grandpa is hosting a cookout.
 
 Minha avó quer churrasco, então meu avô está fazendo um churrasco ao ar livre.
 
-
 Quando não for usada uma conjunção para unir as duas frases simples, pode ser usado o ponto
 e vírgula.
 
@@ -123,9 +119,7 @@ d) The / soldier / not / stupid / is / , / intelligent / is / he:
 
 e) Where / from / she / is:
 
-
 f) What / her / occupation / is:
-
 
 g) My / house / comfortable /, / small / is / but / very:
 
@@ -134,7 +128,6 @@ h) The / very / is / now / busy / captain:
 i) Think / is / really / ship / I / this / necessary:
 
 j) I / airplane / think / the / is / lost / not:
-
 
 Gabarito:
 
@@ -179,8 +172,7 @@ In the short term lawyers wH£have contact with American courts.
 
 Nofem+o) curto prazo advogados terào contato com tribunais americanos.
 
-
-Item. 1. Em perguntas com determinados verbos, inverte-se as posições do verbo e
+1. Em perguntas com determinados verbos, inverte-se as posições do verbo e
 sujeito. Observe: "Are you Brazilian?" (Você é brasileiro?). Note que sujeito e verbo
 estão
 invertidos em inglês. Moral da história: em perguntas, pode haver inversão de posições.
@@ -189,19 +181,19 @@ inverter a
 tradução das palavras e isso não causará nenhum problema, ou seja, você vai entender
 perfeitamente o que está escrito.
 
-Item. 2. A forma negativa de alguns verbos. Observe: "No, l'm not Brazilian" (Não, eu não
+2. A forma negativa de alguns verbos. Observe: "No, l'm not Brazilian" (Não, eu não
 sou brasileiro). Veja que em inglês se escreve "am not" e em português "não sou".
 Perceba que se traduzirmos na sequência, a parte "am not" seria traduzida como "sou
 não". Moral da história: com alguns verbos, a negativa se forma com a adição da
 palavra
 "not" APÓS o verbo (em português, o "não" vem ANTES do verbo).
 
-Item. 3. Substantivos acompanhados de adjetivos. Observe a sentença: "/ am an American
+3. Substantivos acompanhados de adjetivos. Observe a sentença: "/ am an American
 lawyer" (Eu sou um advogado americano). Nesse caso, trata-se de um substantivo
 acompanhado de um adjetivo. Quando isso acontecer, o adjetivo sempre vem antes do
 substantivo. Moral da história: A regra é simples: adjetivo vem antes do substantivo.
 
-Item. 4. Caso genitivo ('s). É aquele famoso 's que vemos em nomes de lojas.
+4. Caso genitivo ('s). É aquele famoso 's que vemos em nomes de lojas.
 Observe:
 "Roberto's computer is obsolete" (O computador do Roberto é obsoleto). Essa estrutura de 's
 não existe em português. Sendo assim, quando você se deparar com uma frase como essa,
@@ -210,7 +202,6 @@ lembre-se que você deve traduzir de trás para frente.
 Resumindo: estas são as 4 ocasiões em que inversões que você encontrará em sua prova. De
 maneira geral, as sentenças em inglês obedecem a sequência "SUJEITO + VERBO +
 COMPLEMENTO".
-
 
 SUBSTANTIVoS
 
@@ -222,7 +213,7 @@ ou
 objeto, um aposto, um adjetivo ou um advérbio. Vai depender do contexto em que ele se
 encontra.
 
-Item. 2.1. Substantivos Simples e Compostos
+2.1. Substantivos Simples e Compostos
 
 Quando um substantivo é formado de apenas uma palavra, ele é chamado de substantivo
 simples (one-word noun).
@@ -243,7 +234,6 @@ regras para indicar quando os substantivos compostos são escritos juntos ou sep
 My mother-in-law and sister-in-law like ice cream.
 
 Minha sogra e minha cunhada gostam de sorvete.
-
 
 EXERCÍCIOS
 
@@ -274,7 +264,6 @@ i) ( C ) Funcionário Público
 j) ( C ) Estatal
 k) ( C ) Piscina
 
-
 MAPA MENTAL
 
 Substantivos
@@ -293,8 +282,7 @@ sunrise, mother-in-law, ice-
 cream, greenhouse, haircut
 w ... w
 
-
-Item. 2.2. Substantivos Contáveis e Incontáveis
+2.2. Substantivos Contáveis e Incontáveis
 
 Um substantivo contável (countable noun) se refere a coisas que existem em unidades
 individuais distintas. É expresso com o acréscimo de um s no final da palavra.
@@ -330,7 +318,6 @@ A maioria dos substantivos incontáveis são:
 
 * Sentimentos (anger (raiva), happiness (felicidade), etc)
 
-
 MAPA MENTAL
 
 Substantivos
@@ -354,8 +341,7 @@ primas, tempo livre
 
 F
 
-
-Item. 2.3. Plural dos Substantivos
+2.3. Plural dos Substantivos
 
 O Plural dos substantivos é formado de diferentes formas. Na maioria dos substantivos faz-se o
 plural por acrescentar apenas um "S" à palavra.
@@ -380,7 +366,6 @@ O "ES" também é usado para fazer o plural dos substantivos abaixo que terminam
 Substantivo Plural
 
 Mas para a maioria dos substantivos que terminam com "O" é acrescentado apenas o "S":
-
 
 Substantivo Plural
 
@@ -407,8 +392,7 @@ The women gave the mice to the children.
 
 As mulheres deram os ratos para as crianças.
 
-
-Item. 2.4. Gêneros dos Substantivos (Nouns Gender)
+2.4. Gêneros dos Substantivos (Nouns Gender)
 
 Na Língua Inglesa, diferente do Português, alguns substantivos têm o mesmo formato para o
 masculino e feminino. Outros são variáveis de acordo com o gênero. Observe abaixo alguns
@@ -447,7 +431,7 @@ teacher professor (a)
 uncle / aunt tio / tia
 waiter / waitress garçon / garçonete
 
-Item. 2.5. Substantivo que indica Posse (the genitive)
+2.5. Substantivo que indica Posse (the genitive)
 
 No caso possessivo, um substantivo muda sua forma de mostrar que ele possui ou está
 intimamente relacionado a outra coisa. Normalmente, os substantivos tornam-se possessivos
@@ -473,7 +457,6 @@ Aquela é a casa do James.
 Se estiver no final da frase fica implícito, para não ter que repetir novamente o substantivo.
 
 The blue house is James's (house).
-
 
 A casa azul é (a casa) do James.
 
@@ -516,7 +499,6 @@ mãe)
 d) Os filhos de Bob e Mary são lindos bebês (os bebês não são dos dois, Bob tem seus bebês
 e Mary os dela, ou seja, cada um tem filhos separados).
 
-
 e) Lei de Murphy.
 
 f) Salário do funcionário/empregado.
@@ -534,7 +516,6 @@ Charles's boss
 Bob and Mary's children
 Bob's and Mary's children
 
-
 ARTIGoS
 
 O que é um artigo? Basicamente, um artigo é um adjetivo. Assim como os adjetivos, os artigos
@@ -543,7 +524,7 @@ Os artigos (articles) em Inglês são três: o Definido (The = o, a, os, as) e o
 Indefinidos
 (A=um, uma) e (AN=um, uma).
 
-Item. 3.1. O Artigo Definido The
+3.1. O Artigo Definido The
 
 Usa o artigo definido The para se referir a coisas específicas, quando nos referimos a algo que
 já foi mencionado antes. Pode ser antes de palavras no singular ou plural. Portanto, o ouvinte
@@ -569,7 +550,6 @@ palavra United no nome ou que são compostos de ilhas pequenas. Ex: The United S
 América (Os Estados Unidos da América), The United Kingdom (O Reino Unido), The
 Philippines (As Filipinas).
 
-
 Usa-se o the antes de nomes de rios, oceanos e mares. Ex: the Nile, the Pacific (o
 Nilo, o
 pacífico). Antes de pontos no globo. Ex: the Equator (o Equador), the North Pole (o
@@ -578,7 +558,7 @@ Norte). Antes de áreas geográficas. Ex: the Middle East (o Oriente Médio). E 
 desertos, florestas, golfos e penínsulas. Ex: the Sahara, the Black Forest (o Saara, a Floresta
 Negra).
 
-Item. 3.2. O Artigo Indefinido A (um, uma)
+3.2. O Artigo Indefinido A (um, uma)
 
 Usa-se o artigo indefinido A para referir-se a algo em geral, algo que os seus
 ouvintes não
@@ -613,7 +593,6 @@ book (um livro usado), a U.S. flag (uma bandeira dos Estados Unidos), a
 user
 pronúncia=(yoõ'zar) (um usuário).
 
-
 Lembre-se! Estamos falando dos sons das letras, ou seja, fonética na Lingua Inglesa,
 não na
 Portuguesa. E a letra "w" tem som de consoante na Língua Inglesa na maioria dos
@@ -628,7 +607,7 @@ o "a"
 charge (uma
 cobrança única). A pronúncia de one é (wün).
 
-Item. 3.3. O Artigo Indefinido AN (um, uma)
+3.3. O Artigo Indefinido AN (um, uma)
 
 Usa-se o artigo indefinido AN para referir-se a algo em geral, algo que os seus
 ouvintes não
@@ -698,30 +677,29 @@ l) AN emergency
 m) A drop
 n) AN offer
 
-Item. 3.4. Plural dos Artigos Indefinidos
+3.4. Plural dos Artigos Indefinidos
 
 Para expressar o plural dos artigos indefinidos A, AN (um, uma),
 usa-se o adjetivo
 (determinante): some (uns, umas, alguns, algumas) ou zero article (não se usa artigo).
 
-
 They visited some distant areas.
 
 Eles visitaram algumas áreas distantes.
 
-Item. 3.5. The Zero Article (Omissão Do Artigo)
+3.5. The Zero Article (Omissão Do Artigo)
 
 O artigo zero acontece quando os substantivos dispensam o uso do artigo
 definido the e
 indefinidos a (n). Alguns exemplos quando não se usa artigo são:
 
-Item. 3.5.1. Dias de semana
+3.5.1. Dias de semana
 
 Sunday is a fascinating.
 
 O Domingo é um dia fascinante.
 
-Item. 3.5.2. Nomes de pessoas, maioria dos países e territórios, cidades, estados, ruas
+3.5.2. Nomes de pessoas, maioria dos países e territórios, cidades, estados, ruas
 
 Mary traveled to Rio.
 
@@ -731,14 +709,13 @@ Exceção: the Netherlands , the Dominican Republic, the Philippines, the
 United States
 (Holanda, República Dominicana, Filipinas, Estados Unidos) e nomes de família: The Smiths.
 
-Item. 3.5.2. Nomes de lagos e baías
+3.5.2. Nomes de lagos e baías
 l'm going to visit Lake Erie.
 Vou conhecer o lago Erie.
 
 Exceção: grupos de lagos: The Great Lakes (Os Grandes Lagos)
 
-Item. 3.5.3. Nomes de montanhas
-
+3.5.3. Nomes de montanhas
 
 Mount Everest is Earth's highest mountain above sea levei.
 
@@ -747,7 +724,7 @@ O Monte Everest é a montanha mais alta da Terra acima do nível do mar.
 Exceção: cadeias de montanhas como os Andes (the Andes) ou as Montanhas Rochosas (the
 Rockies) ou nomes incomuns como the Matterhorn.
 
-Item. 3.5.4. Nomes de continentes e ilhas
+3.5.4. Nomes de continentes e ilhas
 
 Asia is the largest of the world's continents.
 A Ásia é o maior dos continentes do mundo.
@@ -756,7 +733,7 @@ Exceção: cadeias de ilhas como the Aleutians, the Hebrides, or the Canary Isla
 Aleutas,
 as Hébridas ou as Ilhas Canárias).
 
-Item. 3.5.5. Pronomes possessivos
+3.5.5. Pronomes possessivos
 
 My parents live in Brazil.
 
@@ -781,7 +758,6 @@ d) Brazil exports different kinds of goods.
 e) convention was interesting, but a little tiring.
 
 f) lt'svery expensive project.
-
 
 g) Accounting issystem that enables companies to record allmoney that
 comes in
@@ -818,10 +794,9 @@ j) The
 k) The
 l) An
 
-
 PRoNoMES
 
-Item. 4.7. Pronomes Pessoais
+4.7. Pronomes Pessoais
 
 Os Pronomes Pessoais (Personal Pronouns) são divididos em Pronomes
 sujeito (Subject
@@ -864,7 +839,6 @@ You you (lhe, o, a, te, ti, a você)
 We (nós) us (nos)
 
 You you (vos, lhes, vocês)
-
 
 They (eles, elas) them (lhes, os, as)
 
@@ -917,7 +891,6 @@ is (verbo to be na terceira pessoa do singular) e o segundo, Its é o pronome
 possessivo da
 pessoa It, o qual será visto mais na frente nesta aula.
 
-
 Traduza as seguintes frases, perceba a utilização do pronome "it"
 
 EXERCÍCIOS
@@ -965,12 +938,11 @@ las.
 
 If they call from the insurance company, tell them I am on my way.
 
-
 Se ligarem da seguradora, diga a ele (ela) que estou a caminho.
 
 EXERCÍCIOS
 
-Item. 1. Escolha o pronome correto para preencher as lacunas.
+1. Escolha o pronome correto para preencher as lacunas.
 
 a) Some companies will import raw material. They will import
 (them; it) from
@@ -1022,8 +994,7 @@ f) It (English)
 
 g) They (auditors)
 
-
-Item. 4.2. PRONOMES REFLEXIVOS
+4.2. PRONOMES REFLEXIVOS
 
 Enquanto os Pronomes Pessoais são usados para expressar o sujeito os
 Pronomes
@@ -1066,14 +1037,13 @@ Onde it=pronome sujeito e itself=reflexivo
 
 Alguns minutos depois que o trem deixou a estação, ele parou por si só.
 
-
 Enjoy yourselves!
 Divirtam-se!
 
 Help yourself!
 Sirva-se!
 
-Item. 4.3. PRONOMES POSSESSIVOS
+4.3. PRONOMES POSSESSIVOS
 
 Enquanto os pronomes pessoais indicam o sujeito, os possessivos indicam posse
 (meu, seu,
@@ -1109,7 +1079,6 @@ They - their theirs (deles, delas)
 
 My wallet is the black one.
 Minha carteira é a preta.
-
 
 The black wallet is mine.
 A carteira preta é minha.
@@ -1156,7 +1125,6 @@ impolite.
 
 GABARITO:
 
-
 a) Your car is blue, but mine is black.
 
 b) She kissed her father and I kissed my mother.
@@ -1175,7 +1143,7 @@ h) The cities and their inhabitants face several problems with the heavy.
 
 i) My neighbor is a nice person, but hers is very noisy and impolite.
 
-Item. 4.4. PRONOMES DEMONSTRATIVOS
+4.4. PRONOMES DEMONSTRATIVOS
 
 Os Pronomes Demonstrativos (Demonstrative pronouns/adjectives ) servem para
 apontar,
@@ -1191,7 +1159,7 @@ That - aquele(a), aquilo, esse(a), isso Those - aqueles, aquelas, esses(as)
 
 This - este, esta, isto These - estes, estas
 
-Item. 4.4.1. This (Este, Esta, Isto)
+4.4.1. This (Este, Esta, Isto)
 
 This is my city. (Demonstrative pronoun)
 
@@ -1201,8 +1169,7 @@ This city is beautiful. (Demonstrative adjective)
 
 Esta cidade é linda, (pronome demonstrativo adjetivo pois está antes do substantivo city)
 
-
-Item. 4.4.2. That (Aquele, aquela, aquilo)
+4.4.2. That (Aquele, aquela, aquilo)
 
 That is a good question.
 Essa é uma boa pergunta.
@@ -1210,7 +1177,7 @@ Essa é uma boa pergunta.
 That question was already answered.
 Essa pergunta já foi respondida.
 
-Item. 4.4.3. These (Estes, estas)
+4.4.3. These (Estes, estas)
 
 These are our technologies.
 Estas são nossas tecnologias.
@@ -1218,7 +1185,7 @@ Estas são nossas tecnologias.
 "These technologies are helping to overcome the barriers of physical distance."
 "Estas tecnologias estão ajudando a vencer as barreiras da distância física."
 
-Item. 4.4.4. Those (Aqueles, aquelas)
+4.4.4. Those (Aqueles, aquelas)
 
 Those are American actors.
 Aqueles são atores americanos.
@@ -1226,12 +1193,11 @@ Aqueles são atores americanos.
 Those actors are very famous.
 Aqueles atores são muito famosos.
 
-Item. 4.5. PRONOMES INTERROGATIVOS
+4.5. PRONOMES INTERROGATIVOS
 
 Os Pronomes Interrogativos substituem substantivos em perguntas.
 
 Who is running for president? (The New York Times)
-
 
 Quem está se candidatando para presidente?
 
@@ -1275,7 +1241,6 @@ j) How long do you intend to study English today?
 
 GABARITO:
 
-
 a) Qual o seu nome?
 
 b) Qual o seu nome: Lucas ou Michael?
@@ -1296,7 +1261,7 @@ i) Que tipo de carro você prefere: carros grandes ou carros pequenos?
 
 j) Quanto tempo você pretende estudar inglês hoje?
 
-Item. 4.6. PRONOMES RELATIVOS
+4.6. PRONOMES RELATIVOS
 
 Os pronomes relativos introduzem orações relativas, que são um tipo
 de oração
@@ -1321,7 +1286,6 @@ O vendedor que me ajudou me deu boa orientação.
 Se depois do who vier um pronome, ele pode ser substituído pelo whom, that ou nada.
 
 Jarius is the man who/whom/that we met last week.
-
 
 Jairo é o homem que/o qual conhecemos semana passada.
 
@@ -1367,7 +1331,6 @@ f) The email, which I sent her, was about the new investments in the plant in Ar
 
 g) In my point of view, the computer that you bought is not suitable.
 
-
 h) Paul is the boy who was fired last week.
 
 i) My blue bike, which is nearly ten years old, still runs well.
@@ -1394,7 +1357,7 @@ h) Paul é o garoto que foi demitido semana passada.
 
 i) Minha bicicleta azul, que tem quase dez anos, ainda funciona bem.
 
-Item. 4.7. PRONOMES INDEFINIDOS
+4.7. PRONOMES INDEFINIDOS
 
 Os Pronomes Indefinidos (Indefinite Pronouns) podem ser substantivos
 quando os
@@ -1402,7 +1365,7 @@ substituem, ou adjetivos, quando qualificam os substantivos. Veja nos quadros
 abaixo os
 Pronomes Indefinidos existentes na Língua Inglesa:
 
-Item. 4.7.1. Pronomes Indefinidos Pessoais:
+4.7.1. Pronomes Indefinidos Pessoais:
 
 Pronomes Indefinidos Pessoais T radução
 anyone - anybody alguém, qualquer pessoa
@@ -1410,7 +1373,6 @@ everyone - everybody todos, todo o mundo
 no one - none - nobody ninguém, nenhum (a)
 
 somebody - someone alguém
-
 
 Somebody/someone refuses to permit ANVISA investigators access to records.
 
@@ -1420,7 +1382,7 @@ Everybody/everyone is in the bank.
 
 Todos estão no banco.
 
-Item. 4.7.2. Pronomes Indefinidos Impessoais:
+4.7.2. Pronomes Indefinidos Impessoais:
 
 DECORE!
 
@@ -1441,12 +1403,11 @@ They do anything to keep lower their prices.
 
 Eles fazem tudo / qualquer coisa para manter os preços deles baixos.
 
-Item. 4.7.3. Pronomes Indefinidos de Lugares:
+4.7.3. Pronomes Indefinidos de Lugares:
 
 Pronomes Indefinidos de lugares T radução
 anywhere qualquer lugar
 (interrogativa); nenhum lugar
-
 
 (negativa)
 
@@ -1467,7 +1428,7 @@ Não achamos nossas chaves em lugar nenhum.
 
 ATENTO!
 
-Item. 4.7.3. Pronomes Indefinidos em Massa:
+4.7.3. Pronomes Indefinidos em Massa:
 
 Pronomes Indefinidos T radução
 all Todos (as)
@@ -1484,7 +1445,6 @@ Indefinidos em massa - Expressam algo em grande quantidade ou que não têm plur
 Some e Any: São usados quando não se pode ou não se precisa especificar
 a quantidade
 exata de algo.
-
 
 Some e seus compostos são usados em frases afirmativas. Some também pode ser usado em
 frases interrogativas quando se trata de um oferecimento ou pedido ou quando se espera uma
@@ -1523,7 +1483,6 @@ a) aparecer após a palavra if;
 
 b) significar qualquer;
 
-
 c) houver palavra de sentido negativo na frase como seldom (raramente), never (nunca), rarely
 
 (raramente), without (sem), etc.
@@ -1544,17 +1503,15 @@ Are there any tellers working now?
 
 Há (alguns) caixas de banco trabalhando agora?
 
-Item. 4.7.4. Quanto à concordância verbal:
+4.7.4. Quanto à concordância verbal:
 
 Singular Plural Singular e Plural
-
 
 Everybody (todos/as)
 
 Both (ambos)
 
 Most (maioria/mais)
-
 
 Everyone (todos/as)
 
@@ -1564,7 +1521,6 @@ muitos)
 (vários,
 
 All (todo/a/tudo)
-
 
 Everything (tudo)
 
@@ -1576,7 +1532,6 @@ poucos/as)
 None (nenhum/a;
 ninguém)
 
-
 Somebody (alguém)
 
 Many (muitos/as)
@@ -1584,7 +1539,6 @@ Many (muitos/as)
 Any (algum/a;
 nenhum/a; todo/a;
 qualquer)
-
 
 Anybody (alguém)
 
@@ -1598,7 +1552,6 @@ pouco de)
 
 Nobody (ninguém)
 Each (todo/a; cada)
-
 
 Every (todo/a; cada)
 Much (muito/a)
@@ -1634,7 +1587,6 @@ b) She talks to nobody at work.
 She doesn't talk to anybody at work.
 
 c) There is nothinq in the box.
-
 
 There isn't anything in the box.
 
@@ -1674,7 +1626,6 @@ h) Ele não veria ninguém na convenção.
 
 i) A (o) secretária (o) não sabe falar nenhum idioma estrangeiro.
 
-
 PREPoSIçõES
 
 A Preposição (Preposition) é a palavra que mostra o relacionamento entre um
@@ -1683,52 +1634,51 @@ com uma dúvida que permeia as mentes de muitos de vocês sobre o uso do TO e do
 que são preposições que causam confusão, vou dar algumas dicas que vocês devem ficar
 atentos ao uso deles. Quando usar um ou outro.
 
-Item. 5.1. PREPOSIÇÕES FOR e TO
+5.1. PREPOSIÇÕES FOR e TO
 
 FOR:
 
-Item. 1. Para indicar finalidade:
+1. Para indicar finalidade:
 
 What is this box for?
 
 Para que serve essa caixa?
 
-Item. 2. Objetivo de uma ação quando for seguido de um substantivo:
+2. Objetivo de uma ação quando for seguido de um substantivo:
 
 He carne over for dinner. (FOR + substantivo)
 Ele veio aqui para jantar.
 
-Item. 3. Tempo:
+3. Tempo:
 
 I have studied English for five hours.
 
 Eu tenho estudado Inglês por cinco horas.
 
-Item. 4. Favor ou benefício:
+4. Favor ou benefício:
 
 He fixed dinner for me.
 
 Ele preparou o jantar para mim.
 
-
 TO:
 
-Item. 1. Para indicar transferência de alguém.
+1. Para indicar transferência de alguém.
 
 They are going to the library. (transferência do corpo de um lugar a outro)
 Eles (as) estão indo para a biblioteca.
 
-Item. 2. Transferência de algo.
+2. Transferência de algo.
 
 She gave the book to me. ( o livro é trocado da mão dela para minha mão)
 Ela me deu o livro. (Ela deu o livro para mim).
 
-Item. 3. Troca de algo.
+3. Troca de algo.
 
 He is going to talk to you. (troca de informações)
 Ele está indo falar com você.
 
-Item. 4. Objetivo de uma ação quando for seguido de um verbo:
+4. Objetivo de uma ação quando for seguido de um verbo:
 
 He carne over to have dinner. (TO + verbo)
 Ele veio aqui para jantar.
@@ -1745,8 +1695,7 @@ então eu fui e enviei a carta para ele = benefício)
 
 Eu enviei uma carta para ele.
 
-
-Item. 5.2. PREPOSIÇÕES ABOVE e OVER
+5.2. PREPOSIÇÕES ABOVE e OVER
 
 Outra dúvida que permeia as mentes de muitos alunos é sobre quando se usa o ABOVE e o
 OVER. Alguns alunos iniciantes chegam até a confundir o OVER como preposição com o
@@ -1770,31 +1719,30 @@ No entanto, em muitos casos o "above" e o "over" são usados de formas diferente
 
 ABOVE:
 
-Item. 1. Para indicar que algo está em um nível superior:
+1. Para indicar que algo está em um nível superior:
 
 Their mansion is 700 meters above sea levei.
 
 A mansão deles fica a 700 metros acima do nível do mar.
 
-Item. 2. Quando algo está em um nível mais alto que outro em um ponto ou escala:
+2. Quando algo está em um nível mais alto que outro em um ponto ou escala:
 
 His name is above mine in the waiting list.
 
 O nome dele está acima do meu na lista de espera.
 
-
-Item. 3. Quando não há contato físico de uma coisa com outra:
+3. Quando não há contato físico de uma coisa com outra:
 
 The crib mobile is above the baby.
 
 O móbile do berço está acima do bebê.
 
-Item. 4. Indica que não há movimento de um local ou posição para outra:
+4. Indica que não há movimento de um local ou posição para outra:
 
 The helicopter hovered above the stadium.
 O helicóptero pairou sobre o estádio.
 
-Item. 5. Quando se referir a temperaturas em relação ao zero ou à média:
+5. Quando se referir a temperaturas em relação ao zero ou à média:
 
 The temperature at noon was 10°C above zero.
 
@@ -1804,14 +1752,14 @@ The forecast for the weekend is above average for this time of year.
 
 A previsão para o fim de semana está acima da média para esta época do ano.
 
-Item. 6. Quando usada de modo figurado significando better than (melhor do que):
+6. Quando usada de modo figurado significando better than (melhor do que):
 
 She thinks she is above the law.
 Ela acha que está acima da lei.
 
 OVER:
 
-Item. 1. Quando algo toca outra coisa ou serve de cobertura:
+1. Quando algo toca outra coisa ou serve de cobertura:
 
 The mom put a sheet over the baby.
 
@@ -1819,16 +1767,15 @@ A mãe colocou um lençol sobre o bebê.
 
 Pour some cream over the apple pie.
 
-
 Ponha um pouco de creme sobre a torta de maçã.
 
-Item. 2. Indica movimento de um local ou posição para outra:
+2. Indica movimento de um local ou posição para outra:
 
 That small plane flies over the mountains every week.
 
 Aquele pequeno avião sobrevoa as montanhas toda semana.
 
-Item. 3. Quando indica números ou tempo e é sinônimo de more than (mais do que):
+3. Quando indica números ou tempo e é sinônimo de more than (mais do que):
 
 Over 60% of voters approve.
 
@@ -1854,8 +1801,7 @@ HQUt
 
 ATENTO!
 
-
-Item. 5.3. PREPOSIÇÕES DE LUGAR
+5.3. PREPOSIÇÕES DE LUGAR
 
 at the back - atrás (no fundo) in - dentro
 at the front - à frente at - em, no, a
@@ -1884,8 +1830,7 @@ within - dentro de
 ATINCAO
 DECORE!
 
-
-Item. 5.4. PREPOSIÇÕES DE MOVIMENTO
+5.4. PREPOSIÇÕES DE MOVIMENTO
 
 across através de, de través
 along ao longo de
@@ -1908,7 +1853,6 @@ up para cima
 to para
 
 ESCLARECENDO!
-
 
 Variações: O que chamei de "variações" refere-se ao modo variado como usamos o ON, AT e
 IN nas preposições de lugares, pois isto implica em como vemos os objetos quanto à altura,
@@ -1950,7 +1894,6 @@ I usually watch movies at night.
 
 Eu usualmente assisto filmes à noite.
 
-
 I watched a movie in the night that you traveled to Recife.
 Eu assisti um filme na noite em que você viajou para Recife.
 
@@ -1990,7 +1933,6 @@ participantes.
 Para tempos como "sábado de manhã" (Saturday morning) ou "domingo à tarde" (Sunday
 evening), nós usamos on para referir-se a partes do dia:
 
-
 You can't borrow my car on Saturday afternoon.
 
 Você não pode pegar emprestado meu carro no sábado à tarde.
@@ -2029,7 +1971,6 @@ Despite doing awful in College she got a good job.
 
 Apesar de ir mal na faculdade, ela conseguiu um bom emprego.
 
-
 In spite of doing awful in College she got a good job.
 
 Apesar de ir mal na faculdade, ela conseguiu um bom emprego.
@@ -2060,7 +2001,6 @@ next to ao lado de, perto de
 past após, depois, além de
 throughout por todo, por, por todo
 tempo
-
 
 RESUMo
 
@@ -2103,7 +2043,6 @@ significa "qualquer". 3. Em interrogativas na sua maioria
 * As preposições Despite (apesar de) e Spite of (apesar de) também são
 muito importantes e sempre estão presentes em provas.
 
-
 Pronome Reflexivo Tradução
 
 He (ele)- himself A si, a ele mesmo, -se
@@ -2145,7 +2084,6 @@ That - aquele, aquela, aquilo Those - aqueles, aquelas
 
 This - este, esta, isto These - estes, estas
 
-
 || PrPornoonmomesesInIdnedfeinfindiodsosPePsesosaoiasis Tradução
 anyone - anybody alguém, qualquer pessoa
 everyone - everybody todos, todo o mundo
@@ -2177,7 +2115,6 @@ na dianteira
 during durante
 next to ao lado de, perto de
 past após, depois, além de
-
 
 Dica da Ena: Procure conferir o gabarito somente depois de resolver
 as
@@ -2219,10 +2156,9 @@ Comentários:
 Judge the following items, based on the previous text.
 Julgue os itens seguintes, com base no texto anterior.
 
-Item. 01. In the last sentence of the last paragraph, the word "prickly" means peaceful.
+01. In the last sentence of the last paragraph, the word "prickly" means peaceful.
 
-Item. 01. Na última frase do último parágrafo, a palavra "espinhoso" significa pacífico.
-
+01. Na última frase do último parágrafo, a palavra "espinhoso" significa pacífico.
 
 A Martian colony and Earth have a prickly relationship in The Expanse television
 series and
@@ -2240,10 +2176,10 @@ questão no seu gabarito definitivo.
 
 GABARITO: ANULADA
 
-Item. 02. The War of the Worlds was a radio drama that told the real story of an invasion from Mars,
+02. The War of the Worlds was a radio drama that told the real story of an invasion from Mars,
 panicking countless people.
 
-Item. 02. A Guerra dos Mundos foi um drama de rádio que contou a história real de uma invasão de
+02. A Guerra dos Mundos foi um drama de rádio que contou a história real de uma invasão de
 Marte, deixando inúmeras pessoas em pânico.
 
 A história contada pela "Guerra dos Mundos" não foi real, mas sim, fictícia. O que aconteceu é
@@ -2251,11 +2187,11 @@ que muitos acreditaram que era real e entraram em pânico.
 
 GABARITO: ERRADA
 
-Item. 03. According to the text, the speculations about extraterrestrial life started in the
+03. According to the text, the speculations about extraterrestrial life started in the
 late 1800s
 due to canal-like features observed on Mars.
 
-Item. 03. De acordo com o texto, as especulações sobre vida extraterrestre começaram no final de
+03. De acordo com o texto, as especulações sobre vida extraterrestre começaram no final de
 1800 devido a características semelhantes a canais observadas em Marte.
 
 O que aconteceu naquela época foi que muitos especularam que uma espécie alienígena
@@ -2264,7 +2200,6 @@ as
 especulações sobre vida extraterrestre" em geral.
 
 GABARITO: ERRADA
-
 
 T ranslation
 
@@ -2314,7 +2249,6 @@ romances chamada "A Expansão".
 
 Internet: <www.solarsystem.nasa.gov> (adaptado).
 
-
 Analista Ambiental - IBAMA - CESPE - 2022
 
 There's growing evidence that people and the planet are increasingly impacted by
@@ -2350,7 +2284,6 @@ frequência e se tornando mais intensos.
 
 There's growing evidence that people and the planet are increasingly impacted by extreme
 events.
-
 
 Há evidências crescentes de que as pessoas e o planeta são cada vez mais impactados por
 eventos extremos.
@@ -2392,7 +2325,6 @@ GABARITO: CERTA
 06 Experts predict an abrupt change in climate conditions due to continually harmful
 human
 activities.
-
 
 06 Especialistas prevêem uma mudança abrupta nas condições climáticas devido a atividades
 humanas prejudiciais que ocorrem continuamente.
@@ -2437,7 +2369,6 @@ atribuídos às atividades humanas. Com a ajuda de modelos climáticos, os cient
 uma impressionante variedade de estudos, procurando possíveis ligações entre as atividades
 humanas e eventos extremos, como ondas de calor, chuvas e eventos de inundação, secas,
 
-
 tempestades e incêndios florestais. Cada vez mais, eles são capazes de concluir que há
 conexões fortes.
 
@@ -2477,7 +2408,6 @@ pesticides are above the limits more than doubled.
 
 07 De 2013 a 2019, a percentagem de locais em águas superficiais europeias cujos níveis de
 pesticidas estão acima dos limites mais do que duplicou.
-
 
 De 2013 a 2019, essa parcela dos níveis de pesticidas que excederam os limites variou entre
 13% e 30%. A percentagem das águas subterrâneas com excedências foi consideravelmente
@@ -2520,7 +2450,6 @@ a quarter of all reported monitoring sites in European surface waters in 2019. F
 2013 to
 2019, this share varied between 13% and 30%. The share for groundwater with exceedances
 was considerably lower, at between 3% and 7%.
-
 
 O novo indicador da AEA mostra que os níveis de pesticidas que excederam os limites foram
 medidos em um quarto de todos os locais de monitoramento relatados em águas superficiais
@@ -2581,8 +2510,7 @@ Internet: <www.nytimes.com> (adapeted)
 
 Comentários:
 
-Item. 09. According to the text,
-
+09. According to the text,
 
 A there is a limited number of bodies of water which helps prevent floods and droughts.
 
@@ -2593,9 +2521,9 @@ D there are many reptiles amnog the animais found in Pantanal.
 E one phenomenon that takes place in the Pantanal was compared to the human respiratory
 system.
 
-Item. 09. According to the text,
+09. According to the text,
 
-Item. 09. De acordo com o texto,
+09. De acordo com o texto,
 
 A there is a limited number of bodies of water which helps prevent floods and
 droughts. -
@@ -2604,7 +2532,6 @@ existe um número limitado de massas de água que ajuda a prevenir inundações 
 O texto diz que o pantanal com seus inúmeros pântanos, lagoas e afluentes purificam a água e
 ajudam a prevenir enchentes e secas. Portanto, não se pode dizer que os corpos de água são
 limitados. Errada.
-
 
 B The fires in Australia drew more attention than the ones in the Pantanal. - os incêndios na
 Austrália chamaram mais atenção do que os do Pantanal.
@@ -2641,8 +2568,7 @@ GABARITO: ANULADA
 
 Essa questão foi anulada por não haver nenhuma resposta correta.
 
-Item. 10. According to the text,
-
+10. According to the text,
 
 A the climate change is the only responsible factor for the wildfires in the Pantanal.
 B the Pantanal is larger than Greece, Paraguay and Bolívia altogether.
@@ -2652,9 +2578,9 @@ C the Pantanal has had this kind of fires more often before.
 D the water cycle in the Pantanal depends on the life of many animais, which live there.
 E nearly 25% of the Pantanal wetland has been burned down.
 
-Item. 10. According to the text,
+10. According to the text,
 
-Item. 10. De acordo com o texto,
+10. De acordo com o texto,
 
 A the climate change is the only responsible factor for the wildfires in the Pantanal. - mudança
 climática é o único fator responsável pelos incêndios florestais no Pantanal.
@@ -2682,7 +2608,6 @@ ciclo da água no Pantanal depende da vida de muitos animais que ali vivem.
 
 Pelo contrário, a vida animal é que depende do ciclo de água. Errada.
 
-
 E nearly 25% of the Pantanal wetland has been burned down. - quase 25% do Pantanal
 foi
 queimado.
@@ -2698,7 +2623,7 @@ O segmento acima no início do texto deixa claro que essa é a opção correta.
 
 GABARITO: E
 
-Item. 11. Without changing the meaning of the text, the verb "swell", in the sentence "Like
+11. Without changing the meaning of the text, the verb "swell", in the sentence "Like
 a vast
 tub, the wetland swells with water during the rainy season and empties out during the
 dry
@@ -2711,20 +2636,19 @@ C becomes drier.
 D sinks.
 E dives.
 
-Item. 11. Without changing the meaning of the text, the verb "swell", in the sentence "Like
+11. Without changing the meaning of the text, the verb "swell", in the sentence "Like
 a vast
 tub, the wetland swells with water during the rainy season and empties out during the
 dry
 months", could be replaced by
 
-Item. 11. Sem alterar o sentido do texto, o verbo "inchar", na frase "Como uma imensa banheira, o
+11. Sem alterar o sentido do texto, o verbo "inchar", na frase "Como uma imensa banheira, o
 pantanal se enche de água durante a estação chuvosa e esvazia durante os meses secos",
 poderia ser substituído por
 
 A becomes wetter. - torna-se mais úmido.
 
 B becomes flooded. - fica inundado.
-
 
 Like a vast tub, the wetland swells with water during the rainy season and empties out during
 the dry months. Fittingly, this rhythm has a name that evokes a beating heart: the flood pulse.
@@ -2746,7 +2670,7 @@ E dives. - mergulha.
 
 GABARITO: B
 
-Item. 12. If written in the passive voice, the sentence "For centuries, ranchers have used fire to clear
+12. If written in the passive voice, the sentence "For centuries, ranchers have used fire to clear
 fields and new land", in the text, would be
 
 A For centuries, fire has been used by ranchers to clear fields and new land.
@@ -2759,11 +2683,10 @@ E For centuries, fire is being used by ranchers to clear fields and new land.
 
 ATENTO!
 
-Item. 12. If written in the passive voice, the sentence "For centuries, ranchers have used fire to clear
+12. If written in the passive voice, the sentence "For centuries, ranchers have used fire to clear
 fields and new land", in the text, would be
 
-
-Item. 12. Se escrita na voz passiva, a frase "Durante séculos, os fazendeiros têm usado o fogo para
+12. Se escrita na voz passiva, a frase "Durante séculos, os fazendeiros têm usado o fogo para
 limpar campos e novas terras", no texto, seria
 
 A For centuries, fire has been used by ranchers to clear fields and new land. - Durante séculos,
@@ -2793,7 +2716,6 @@ fogo está sendo usado por fazendeiros para limpar campos e novas terras.
 O tempo verbal do enunciado é Present Perfect e da opção é Presente Contínuo. Errada.
 
 GABARITO: A
-
 
 T ranslation
 
@@ -2835,7 +2757,6 @@ upon which life depends. Its countless swamps, lagoons and tributaries purify wa
 prevent floods and droughts. They also store untold amounts of carbon, helping to stabilize the
 climate.
 
-
 O pântano, que é maior que a Grécia e se estende por partes do Brasil, Paraguai e Bolívia,
 também oferece presentes invisíveis a uma vasta faixa da América do Sul, regulando o ciclo da
 água do qual a vida depende. Seus inúmeros pântanos, lagoas e afluentes purificam a água e
@@ -2856,7 +2777,7 @@ ano, a seca agravada pela mudança climática transformou os pântanos em um bar
 e os incêndios ficaram fora de controle.
 
 Catrin Einhorn, Maria Magdalena Arréllaga, Blacki Migliozzi e Scott Reinhard. 13 de outubro de
-Item. 2020. Internet: <www.nytimes.com> (adaptado)
+2020. Internet: <www.nytimes.com> (adaptado)
 
 HoatM
 
@@ -2878,7 +2799,6 @@ department established its Cops Mentoring Kids program during the 2015-2016 acad
 year. This initiative connects police officers who serve as mentors with at-risk students in local
 schools.
 
-
 13 Mentoring provides an avenue to change future generations' mind-sets. Countering and
 preventing
 
@@ -2895,11 +2815,11 @@ Comentários:
 Based on the text presented above, judge the following items.
 Com base no texto apresentado acima, julgue os itens seguintes.
 
-Item. 13. In the first paragraph, "values" (I.3), "recognizes" (I.4) and "serves" (I.6) refer
+13. In the first paragraph, "values" (I.3), "recognizes" (I.4) and "serves" (I.6) refer
 to things
 done by the Police Department of Hollywood.
 
-Item. 13. No primeiro parágrafo, "valores" (I.3), "reconhece" (I.4) e "serve" (I.6) refere-se
+13. No primeiro parágrafo, "valores" (I.3), "reconhece" (I.4) e "serve" (I.6) refere-se
 a coisas
 feitas pelo Departamento de Polícia de Hollywood.
 
@@ -2922,12 +2842,11 @@ Os dois primeiros verbos referem-se ao departamento de polícia. Mas, o terceiro
 
 GABARITO: ERRADA
 
-Item. 14. The expression "this hardship" (I.8) refers to information presented in the end of
+14. The expression "this hardship" (I.8) refers to information presented in the end of
 the first
 paragraph: the fact that many young people live in the town's urban area.
 
-
-Item. 14. A expressão "esta dificuldade" (I.8) refere-se à informação apresentada no final do primeiro
+14. A expressão "esta dificuldade" (I.8) refere-se à informação apresentada no final do primeiro
 parágrafo: o fato de muitos jovens residirem na área urbana da cidade.
 
 A dificuldade (hardship) mencionada no texto refere-se ao fato de que muitos dos 20.000
@@ -2937,7 +2856,7 @@ da cidade.
 
 GABARITO: ERRADA
 
-Item. 15. The expression "Cops Mentoring Kids" (1.10) is the name of the program created by the
+15. The expression "Cops Mentoring Kids" (1.10) is the name of the program created by the
 students of local schools and the Police Department.
 
 15.A expressão "Policiais Mentores de Crianças" (1.10) é o nome do programa criado
@@ -2951,10 +2870,10 @@ departamento de polícia para o trabalho com os alunos em situação de risco de
 
 GABARITO: ERRADA
 
-Item. 16. In line 5, the expressions "upstanding" and "law-abiding" are used to describe the kind of
+16. In line 5, the expressions "upstanding" and "law-abiding" are used to describe the kind of
 citizens the Police Department wants young people to become.
 
-Item. 16. Na linha 5, as expressões "íntegros" e "cumpridores da lei" são usadas para descrever o
+16. Na linha 5, as expressões "íntegros" e "cumpridores da lei" são usadas para descrever o
 tipo de cidadão que o Departamento de Polícia deseja que os jovens se tornem.
 
 The agency recognizes the importance of raising young people to become upstanding, law-
@@ -2967,8 +2886,7 @@ A assertiva expressa corretamente ao que essas expressões se referem no texto.
 
 GABARITO: CERTA
 
-
-Item. 17. It can be concluded from the text that working to raise young people's
+17. It can be concluded from the text that working to raise young people's
 self-esteem and
 values is a way to stop these people from becoming criminais.
 
@@ -3009,7 +2927,6 @@ This initiative connects police officers who serve as mentors with at-risk stude
 local
 schools. Mentoring provides an avenue to change future generations' mind-sets. Countering
 and preventing recruitment efforts by criminal organizations should concern everyone.
-
 
 Essa iniciativa conecta policiais que atuam como mentores com alunos em situação de risco em
 escolas locais. O programa de mentores fornece um caminho para mudar a mentalidade das
@@ -3055,7 +2972,6 @@ that are more likely to be transparent — gray.
 to
 respond to threats, plays a major role in the graying process. "Normally, the
 
-
 19 sympathetic nervous system is an emergency system for fight or flight, and it is supposed to
 be very beneficiai or, at the very least, its effects are supposed to be transient and
 
@@ -3097,7 +3013,6 @@ O texto diz que as descobertas fornecem a primeira correlação científica entr
 cabelo se tornar grisalho. O que havia antes era apenas uma crença.
 
 GABARITO: CERTA
-
 
 20 Melanocytes are hair follicles, which create different color shades in hair and skin.
 
@@ -3144,7 +3059,6 @@ and it is
 supposed to be very beneficiai or, at the very least, its effects are supposed to be
 transient and
 reversible," said Ya-Chieh Hsu.
-
 
 "Normalmente, o sistema nervoso simpático é um sistema de emergência para lutar ou
 fugir e
@@ -3196,7 +3110,6 @@ found that the
 sympathetic nervous system, which prepares the body to respond to threats, plays a
 major role
 in the graying process.
-
 
 O estresse faz com que as células-tronco se diferenciem mais rapidamente,
 exaurindo seu
@@ -3257,7 +3170,6 @@ to BraziTs 200 million. While further integrating into the global
 economy could threaten
 uncompetitive companies and their workers, competitive businesses would most likely benefit.
 
-
 Brazil's insertion would also allow the country to better leverage its
 competitive advantages,
 such as in natural resource-based industries.
@@ -3309,7 +3221,6 @@ internacional em comparação com outros países com economias fortes.
 
 GABARITO: ERRADA
 
-
 FKXM
 ATENTO!
 
@@ -3350,7 +3261,7 @@ exportadores"
 (terceira frase).
 
 Brazil is an outlier in that its trade penetration is extremely low, with trade at
-Item. 24.1 percent of
+24.1 percent of
 GDP in 2017. The number of exporters relative to the population is also very small:
 its absolute
 number of exporters is roughly the same as that of Norway, a country with
@@ -3415,7 +3326,6 @@ também permitiria ao país alavancar melhor suas vantagens competitivas, como
 nas indústrias
 baseadas em recursos naturais.
 
-
 FKXM
 ATENTO!
 
@@ -3457,7 +3367,7 @@ Internet: <www.bbc.com> (adapted).
 
 Comentários:
 
-Item. 28. In text above, the expression "What began for many as a temporary stop-gap
+28. In text above, the expression "What began for many as a temporary stop-gap
 measure" (at
 the beginning of the fifth paragraph) refers to
 
@@ -3468,14 +3378,13 @@ C "absence of travellers" (fourth paragraph).
 
 D "long road to recovery" (fourth paragraph).
 
-
 E "virtual reality" (fourth paragraph).
 
-Item. 28. In text above, the expression "What began for many as a temporary stop-gap
+28. In text above, the expression "What began for many as a temporary stop-gap
 measure" (at
 the beginning of the fifth paragraph) refers to
 
-Item. 28. No texto acima, a expressão ''O que começou para muitos como uma
+28. No texto acima, a expressão ''O que começou para muitos como uma
 medida paliativa
 temporária" (no início do quinto parágrafo) refere-se a
 
@@ -3521,10 +3430,9 @@ anterior. Essa é a opção correta.
 
 GABARITO: E
 
-Item. 29. According to text, the tourism sector
+29. According to text, the tourism sector
 
 A has been lightly affected by the pandemic.
-
 
 B may face a change in the way services are promoted.
 C ceased functioning completely.
@@ -3532,9 +3440,9 @@ C ceased functioning completely.
 D did not use technology to attract potential tourists before the pandemic.
 E is not expected to recover from the disruptions.
 
-Item. 29. According to text, the tourism sector
+29. According to text, the tourism sector
 
-Item. 29. De acordo com o texto, o setor de turismo
+29. De acordo com o texto, o setor de turismo
 
 A has been lightly affected by the pandemic. - tem sido ligeiramente afetado pela pandemia.
 
@@ -3571,7 +3479,6 @@ Houve uma grande baixa no setor, mas não deixou de funcionar completamente. Err
 D did not use technology to attract potential tourists before the pandemic.
 - não usou
 tecnologia para atrair turistas em potencial antes da pandemia.
-
 
 Pelo contrário, eles se voltaram para a realidade virtual (RV). Errada.
 
@@ -3619,7 +3526,6 @@ reality (VR) — a technology still in its relative infancy — to keep would-be
 interested
 and prepare for the long road to recovery.
 
-
 Na ausência de viajantes, conselhos de turismo, hotéis e destinos se voltaram para a
 realidade
 virtual (RV) - uma tecnologia ainda em sua infância - para manter os visitantes
@@ -3653,7 +3559,6 @@ permanente de
 marketing de turismo.
 
 Internet: <www.bbc.com> (adaptado).
-
 
 ATENÇÃO!
 
@@ -3733,7 +3638,6 @@ watchdog guardian, defender
 widespread extensive,
 comprehensive
 
-
 FKXM
 ATENTO!
 
@@ -3771,14 +3675,13 @@ Internet: <www.solarsystem.nasa.gov> (adapted).
 
 Judge the following items, based on the previous text.
 
-Item. 01. In the last sentence of the last paragraph, the word "prickly" means peaceful.
+01. In the last sentence of the last paragraph, the word "prickly" means peaceful.
 
-Item. 02. The War of the Worlds was a radio drama that told the real story of an
+02. The War of the Worlds was a radio drama that told the real story of an
 invasion from Mars,
 panicking countless people.
 
-
-Item. 03. According to the text, the speculations about extraterrestrial life started
+03. According to the text, the speculations about extraterrestrial life started
 in the late 1800s
 due to canal-like features observed on Mars.
 
@@ -3833,7 +3736,6 @@ from EEA
 member countries across Europe, shows the share of water bodies where
 excessive leveis of
 pesticides have been recorded from 2013 to 2019.
-
 
 The new EEA indicator shows that leveis of pesticides exceeding thresholds
 were
@@ -3907,7 +3809,7 @@ Catrin Einhorn, Maria Magdalena Arréllaga, Blacki Migliozzi and Scott Reinhard.
 2020.
 Internet: <www.nytimes.com> (adapeted)
 
-Item. 09. According to the text,
+09. According to the text,
 
 A there is a limited number of bodies of water which helps prevent floods and droughts.
 B he fires in Australia drew more attention than the ones in the Pantanal.
@@ -3919,7 +3821,7 @@ E one phenomenon that takes place in the Pantanal was compared to the human
 respiratory
 system.
 
-Item. 10. According to the text,
+10. According to the text,
 
 A the climate change is the only responsible factor for the wildfires in the Pantanal.
 B the Pantanal is larger than Greece, Paraguay and Bolívia altogether.
@@ -3929,7 +3831,7 @@ C the Pantanal has had this kind of fires more often before.
 D the water cycle in the Pantanal depends on the life of many animais which live there.
 E nearly 25% of the Pantanal wetland has been burned down.
 
-Item. 11. Without changing the meaning of the text , the verb "swell", in the sentence
+11. Without changing the meaning of the text , the verb "swell", in the sentence
 "Like a vast
 tub, the wetland swells with water during the rainy season and empties out
 during the dry
@@ -3938,13 +3840,12 @@ months", could be replaced by
 A becomes wetter.
 B becomes flooded.
 
-
 C becomes drier.
 D sinks.
 
 E dives.
 
-Item. 12. If written in the passive voice, the sentence "For centuries, ranchers have used
+12. If written in the passive voice, the sentence "For centuries, ranchers have used
 fire to clear
 fields and new land", in the text, would be
 
@@ -3990,7 +3891,6 @@ Internet: < https://leb.fbi.gov> (adapted).
 
 Based on the text presented above, judge the following items.
 
-
 13.In the first paragraph, "values" (I.3), "recognizes" (I.4) and "serves" (I.6) refer
 to things done
 by the Police Department of Hollywood.
@@ -4003,11 +3903,11 @@ paragraph: the fact that many young people live in the town's urban area.
 created by the
 students of local schools and the Police Department.
 
-Item. 16. In line 5, the expressions "upstanding" and "law-abiding" are used to describe
+16. In line 5, the expressions "upstanding" and "law-abiding" are used to describe
 the kind of
 citizens the Police Department wants young people to become.
 
-Item. 17. It can be concluded from the text that working to raise young
+17. It can be concluded from the text that working to raise young
 people's self-esteem and
 values is a way to stop these people from becoming criminais.
 
@@ -4048,7 +3948,6 @@ effects to hair
 follicles. The findings provide the first scientific link between stress and hair
 graying. The new
 study is an
-
 
 28 important step toward understanding the role of stress on various tissues.
 Internet: <www.nytimes.com> (adapted).
@@ -4100,7 +3999,6 @@ Judge the following items, based on the text above.
 23 According to the text, at the time of publication, there were eight countries
 with economies
 larger than BraziTs.
-
 
 24 The authors present data that demonstrates that, when the text was
 written, Brazil
@@ -4154,10 +4052,9 @@ trick to a permanent fixture of tourism marketing.
 
 Internet: <www.bbc.com> (adapted).
 
-Item. 28. In text above, the expression "What began for many as a temporary stop-gap
+28. In text above, the expression "What began for many as a temporary stop-gap
 measure" (at
 the beginning of the fifth paragraph) refers to
-
 
 A "long-term tool" (fifth paragraph).
 
@@ -4167,7 +4064,7 @@ C "absence of travellers" (fourth paragraph).
 D "long road to recovery" (fourth paragraph).
 E "virtual reality" (fourth paragraph).
 
-Item. 29. According to text, the tourism sector
+29. According to text, the tourism sector
 
 A has been lightly affected by the pandemic.
 
@@ -4176,7 +4073,6 @@ C ceased functioning completely.
 
 D did not use technology to attract potential tourists before the pandemic.
 E is not expected to recover from the disruptions.
-
 
 GABARITO
 
@@ -4192,18 +4088,15 @@ Texto 3 07-ERRADA; 08-ERRADA;
 
 Texto 4 09-X; 10-E; 11-B; 12-A;
 
-
 Texto 5
 
 13-ERRADA; 14-ERRADA; 15-ERRADA; 16-
 CERTA; 17-CERTA;
 
-
 Texto 6
 
 18-ERRADA; 19-CERTA; 20-ERRADA; 21-
 CERTA; 22-ERRADA;
-
 
 Texto 7
 
@@ -4211,7 +4104,6 @@ Texto 7
 X; 27-CERTA;
 
 Texto 8 28-E; 29-B;
-
 
 MESTI MAIS
 ATENÇÃO!
@@ -4261,5 +4153,4 @@ para os
 professores, assim saberemos quem deve responder a pergunta. E para trilhas,
 e outros
 materiais escreva para contato@estrategiaconcursos.com.br.
-
 

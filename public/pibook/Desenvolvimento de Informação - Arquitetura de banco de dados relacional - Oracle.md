@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - Oracle.
-
+# Desenvolvimento de Informação - Arquitetura de banco de dados relacional - Oracle.
 
 Índice
 
@@ -20,7 +19,6 @@ Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relac
 8) Questões Comentadas - Banco de Dados ORACLE - Multibancas
 
 9) Lista de Questões - Banco de Dados ORACLE - Multibancas
-
 
 SISTEMAS GERENCIADoRES DE BANCo DE DADoS: ORACLE
 
@@ -78,7 +76,6 @@ conectados ao servidor, e o armazenamento de memória temporária utilizada por 
 processos. Processos do servidor analisam e executam instruções SQL e recuperam ou
 retornam os resultados para o usuário ou aplicação.
 
-
 Oracle Net, que é uma camada de software que permite os aplicativos do cliente e o
 banco de
 dados Oracle se comunicarem através da rede, e o Oracle Net Listener, que é um processo que
@@ -134,7 +131,6 @@ Infrastructure,
 fornecendo serviços em nuvem otimizados para cargas de trabalho para
 processamento de
 transações e data warehousing.
-
 
 O Autonomous Data Warehouse é um serviço de banco de dados em nuvem
 otimizado para
@@ -203,7 +199,6 @@ optar por fazê-lo, o OUI inicia automaticamente o Oracle Database Configuration
 Assistant (DBCA)
 para guiá-lo através do processo de criação e configuração de um banco de dados.
 
-
 Antes de iniciar o processo de instalação, é importante obter informações
 sobre os pré-
 requisitos e opções de instalação.
@@ -267,7 +262,6 @@ Métodos de instalação
 
 Os métodos de instalação são divididos em Desktop Class e Server Class:
 
-
 Desktop Class - Esta classe de instalação é mais apropriada para computadores laptop ou
 desktop. Ela inclui um banco de dados inicial e requer uma configuração mínima.
 
@@ -328,7 +322,6 @@ das mesmas funcionalidades do Enterprise Edition, mas suporta apenas um usuário
 Seu foco é a utilização para desenvolvimento e publicação (deployments) de aplicações.
 
 Diretórios de instalação
-
 
 É preciso informar alguns endereços onde serão armazenados os arquivos. Primeiro você
 deve
@@ -392,7 +385,6 @@ Vamos listar algumas das opções com os valores default entre parênteses para 
 possa
 entender o contexto de cada uma delas.
 
-
 1) Product Languages você escolhe o idioma usado após a instalação (English).
 
 2) Database Configuration Type define um template usado para a configuração do seu
@@ -431,23 +423,23 @@ o Oracle Universal Installer (OUI). Os passos a seguir consideram que o computad
 possui
 nenhuma versão do Oracle instalada.
 
-Item. 1. Efetue o login no computador que deseja instalar o Oracle com o privilégio de
+1. Efetue o login no computador que deseja instalar o Oracle com o privilégio de
 administrador
 com autorização para instalar o software, criar e executar o banco de dados.
 
-Item. 2. Supondo que você já possui os arquivos de instalação, execute o Oracle Universal Installer.
+2. Supondo que você já possui os arquivos de instalação, execute o Oracle Universal Installer.
 
-Item. 3. A primeira tela que aparece é para definir a forma como você quer tratar as
+3. A primeira tela que aparece é para definir a forma como você quer tratar as
 atualizações de
 segurança. Você pode optar por receber as notificações de segurança no seu e-mail.
 Vamos para a
 próxima tela.
 
-Item. 4. Nesta tela, você deve selecionar a opção de instalação. Escolha a opção "criar e
+4. Nesta tela, você deve selecionar a opção de instalação. Escolha a opção "criar e
 configurar
 um banco de dados". Selecione Next!
 
-Item. 5. Nesta tela, você deve escolher o método de instalação. Sugerimos que você escolha
+5. Nesta tela, você deve escolher o método de instalação. Sugerimos que você escolha
 Desktop
 Class e passe para a próxima tela. Veja a seguir uma tela semelhante a que você
 deve estar
@@ -455,8 +447,7 @@ visualizando. Caso você opte pela opção Server Class, você deve seguir inser
 dados para as
 configurações avançadas.
 
-
-Item. 6. Nesta tela, você deve informar os seguintes detalhes de configuração: (1)
+6. Nesta tela, você deve informar os seguintes detalhes de configuração: (1)
 Localização ou
 diretório da base do Oracle, (2) Diretório de instalação do software, (3) Localização
 dos arquivos de
@@ -468,13 +459,13 @@ denominado dba,
 para as contas de
 gerenciamento que tratamos anteriormente.
 
-Item. 7. Para a primeira instalação em sistemas operacionais Linux e Unix, especifique um
+7. Para a primeira instalação em sistemas operacionais Linux e Unix, especifique um
 diretório
 para os arquivos de instalação e o nome de algum grupo do sistema operacional com
 permissão de
 escrita neste diretório.
 
-Item. 8. Se for a primeira vez que procedemos a instalação do Oracle no computador, uma
+8. Se for a primeira vez que procedemos a instalação do Oracle no computador, uma
 janela
 para definir o diretório de inventário (Inventory Directory) deve aparecer. Preencha
 essa janela com
@@ -482,11 +473,11 @@ o diretório, ele será utilizado pelo OUI para registrar todas as instalações
 do SGBD no seu
 computador. Passe para próxima tela.
 
-Item. 9. Esta tela vai verificar os pré-requisitos que comentamos anteriormente. Se
+9. Esta tela vai verificar os pré-requisitos que comentamos anteriormente. Se
 alguma das
 verificações falhar, tome as ações corretivas necessárias e siga em frente!
 
-Item. 10. Uma tela de sumário vai listar todos os dados. Revise as informações e selecione
+10. Uma tela de sumário vai listar todos os dados. Revise as informações e selecione
 Finish
 para começar a instalação. Uma janela mostrará o progresso da instalação. Após a
 instalação,
@@ -494,21 +485,19 @@ aparecerá outra janela de configuração com o assistente de configuração de 
 dados. Depois
 da criação do banco de dados, aparecerá um resumo das informações.
 
-
-Item. 11. Este passo é opcional. Você pode clicar em Password Management para desbloquear as
+11. Este passo é opcional. Você pode clicar em Password Management para desbloquear as
 contas de usuário, fazendo com que elas estejam acessíveis aos usuários. As contas SYS e SYSTEM
 são desbloqueadas por padrão.
 
-Item. 12. Para Linux e Unix, execute os scripts especificados.
+12. Para Linux e Unix, execute os scripts especificados.
 
-Item. 13. Tome nota das informações da janela de finalização e saia do OUI. Parabéns, você
+13. Tome nota das informações da janela de finalização e saia do OUI. Parabéns, você
 concluiu
 a instalação do Oracle! Sei que a maioria dos alunos não deve ter seguido esse
 roteiro, mas a ideia
 aqui é que você tenha conhecimento das informações utilizadas durante uma instalação.
 Veremos,
 a seguir, a criação e gerenciamento de um banco de dados.
-
 
 CRIANDo UM BANCo DE DADoS CoM DBCA
 
@@ -570,7 +559,6 @@ vai usar uma área de recuperação flash e se vai habilitar o uso do archive mo
 etapa oito do
 nosso fluxo visa tratar dos exemplos de esquema e script, geralmente, não é muito relevante.
 
-
 O passo nove vai permitir ajustes nos parâmetros de inicialização. São quatro
 grupos de
 informações: (1) Memória, (2) Sizing, nesta guia, você especifica o menor tamanho de
@@ -627,7 +615,6 @@ e lógicas são separadas, o armazenamento físico de dados pode ser controlado 
 afetar o acesso
 às estruturas de armazenamento lógico.
 
-
 Visão geral da estrutura física
 
 Nesta seção, explicamos as estruturas de banco de dados físicos de um banco de dados Oracle,
@@ -673,7 +660,6 @@ E como podemos incluir um datafile em uma tablespace? O comando do Oracle respon
 pela alteração de espaços de tabela pode ser usado para diferentes propósitos. Pela
 sintaxe do
 comando, podemos observar esse fato:
-
 
 ALTER TABLESPACE tablespace_name
 
@@ -742,7 +728,6 @@ file_specification acima, temos a possibilidade de definir o tamanho (SIZE) para
 DATAFILE, bem
 como outros parâmetros importantes para a incorporação e expansão dele. Veja na figura a seguir:
 
-
 { [ 'filename' | 'ASM_filename' ]
 
 [ SIZE integer [K|M|G|T|P|EJ]
@@ -765,7 +750,6 @@ como outros parâmetros importantes para a incorporação e expansão dele. Veja
 | ('filename | ASM_filename'
 
 [, 'filename | ASM_filename' ] )
-
 
 [ SIZE integer [K|M|G|T|P|E]J
 [ REUSE ]
@@ -809,8 +793,7 @@ AUTOEXTEND ON
 NEXT 512K
 MAXSIZE 250M;
 
-
-Item. 1. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 44
+1. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 44
 
 O SGBD Oracle llg armazena logicamente seus dados em tablespaces e fisicamente em datafiles
 associados à tablespace. Considere um banco de dados com a tablespace tbs_03.
@@ -866,7 +849,6 @@ modificado
 pelo Oracle para refletir a mudança. Um arquivo de controle também é usado na
 recuperação de
 banco de dados.
-
 
 HORA DE
 
@@ -932,7 +914,6 @@ forward consiste em aplicar sequencialmente as alterações de blocos (redo reco
 contidas nos
 registros do redo log.
 
-
 Archive Log Files
 
 Você pode ativar o arquivamento automático do log de redo. A
@@ -992,7 +973,6 @@ Após conhecer todos os arquivos físicos presentes no Oracle, vamos agora fazer
 análise
 da estrutura lógica do SGBD.
 
-
 Visão geral da estrutura lógica
 
 As estruturas de armazenamento lógicas, incluindo blocos de dados, extensões e segmentos,
@@ -1038,7 +1018,6 @@ sistema é criar uma smallfile tablespace, que é o tipo tradicional de
 tabelspace Oracle. As
 tablespaces SYSTEM e SYSAUX são criados como espaços de tabela smallfile.
 
-
 A Oracle também permite criar espaços de tabela bigfile. Isso permite que o Oracle
 Database
 contenha espaços de tabela formados a partir de poucos arquivos grandes em
@@ -1065,14 +1044,13 @@ indisponível, ao mesmo tempo em que permite o acesso normal ao restante da base
 dados. Isso
 faz com que muitas tarefas administrativas sejam mais fáceis de executar.
 
-Item. 2. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - REGIÃO (RJ) PROVA: ANALISTA JUDICIÁRIO -
+2. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - REGIÃO (RJ) PROVA: ANALISTA JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
 
 O sistema gerenciador de Bancos de Dados Oracle llg armazena as tabelas de dicionário de dados
 na tablespace
 
 A MAIN.
-
 
 B SYSTEM.
 C SYSAUX.
@@ -1101,7 +1079,6 @@ DBA_*: são views que disponibilizam informações de administração e contêm 
 os schemas de usuários.
 
 Podemos, portanto, marcar nossa reposta na alternativa B.
-
 
 Gabarito B
 
@@ -1157,7 +1134,6 @@ undo, o servidor de banco de dados gerencia o desfazer com a utilização de
 tablespaces. A Oracle
 recomenda que você use o gerenciamento de undo automático.
 
-
 As versões anteriores da Oracle usam segmentos de rollbalk para armazenar informações de
 undo. A informação em um segmento de reversão era usada durante a recuperação de
 banco de
@@ -1187,7 +1163,7 @@ Vamos agora fazer uma questão sobre este assunto. Ao final da aula, traremos ma
 algumas
 questões que abordam esse conteúdo.
 
-Item. 3. BANCA: FCC ANO: 2008 ÓRGÃO: TRT - 2§ REGIÃO (SP) PROVA: ANALISTA JUDICIÁRIO -
+3. BANCA: FCC ANO: 2008 ÓRGÃO: TRT - 2§ REGIÃO (SP) PROVA: ANALISTA JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
 
 A estrutura lógica de armazenamento nas bases de dados Oracle é representada na sequência
@@ -1206,7 +1182,6 @@ anteriores.
 Esta questão é somente para fixarmos o conteúdo.
 
 Gabarito: B
-
 
 OBJEToS Do SCHEMA
 
@@ -1268,7 +1243,6 @@ contêm os
 dados realmente. Em vez disso, elas derivam seus dados das tabelas nas
 quais se baseiam,
 conhecidas como as tabelas de base da visão.
-
 
 Como tabelas, os dados de uma view podem ser consultados, atualizados, inseridos e
 excluídos,
@@ -1394,7 +1368,6 @@ ANSI SQL Data Type Oracle Data Type
 
 CHARACTER(n)
 
-
 CHAR(n)
 
 CHARACTER VARYING(n)
@@ -1472,7 +1445,7 @@ binárias ou 18 casas decimais. Esses valores são informados como parâmetros, 
 podemos
 observar na tabela acima.
 
-Item. 1. PROVAS: FCC ANO: 2013 PROVA: TRT - 12^ REGIÃO (SC) - TÉCNICO JUDICIÁRIO - TECNOLOGIA
+1. PROVAS: FCC ANO: 2013 PROVA: TRT - 12^ REGIÃO (SC) - TÉCNICO JUDICIÁRIO - TECNOLOGIA
 DA INFORMAÇÃO
 
 Disciplina: Banco de Dados (TI) - Assuntos:
@@ -1518,8 +1491,7 @@ O tipo TIME consiste de hora, minuto e segundo. A hora é um número de 00 a 23.
 minuto
 é um número de dois algarismos, de 00 a 59. O segundo é um inteiro entre 00-59 ou um número
 decimal com uma escala mínima de cinco e precisão mínima de três, que pode conter valores de
-Item. 00.000 a 59.999.
-
+00.000 a 59.999.
 
 DATA TYPE STORAGE SIZE
 (BYTES)
@@ -1579,7 +1551,7 @@ de valores
 nulos para essa coluna. Agora que vimos os tipos de dados, vamos passar rapidamente pela estrutura
 de memória do Oracle.
 
-Item. 2. BANCA: FCC ANO: 2012 ÓRGÃO: TST PROVA: ANALISTA JUDICIÁRIO - TECNOLOGIA DA
+2. BANCA: FCC ANO: 2012 ÓRGÃO: TST PROVA: ANALISTA JUDICIÁRIO - TECNOLOGIA DA
 INFORMAÇÃO
 
 No SGDB Oracle, versão llg, os limites de tamanho para os tipos de dados CHAR e CHAR VARYING
@@ -1588,7 +1560,6 @@ são, respectivamente,
 A 1000 e 2000 bytes.
 
 B 1000 e 4000 bytes.
-
 
 C 2000 e 4000 bytes.
 
@@ -1624,12 +1595,10 @@ Antes de continuarmos, vamos apresentar algumas tabelas que descrevem, de forma 
 cada
 um dos tipos de dados que apresentamos nesta seção:
 
-
 Oracle Data Type Descrição
 
 Um conjunto de caracteres de comprimento variáve. CHAR indica que a semântica de
 caracteres é usada para dimensionar a string; BYTE indica que a semântica de bytes é usada.
-
 
 VARCHAR2(size [BYTE | CHAR])
 
@@ -1761,7 +1730,6 @@ Um ponteiro para um Large Binary File armazenado fora do banco de dados. Arquivo
 devem ser acessíveis a partir do servidor que executa a instância Oracle. O tamanho máximo
 é de 4GB.
 
-
 ESTRUTURA DE MEMóRIA
 
 Um servidor de banco de dados Oracle consiste em um banco de dados Oracle e uma
@@ -1782,7 +1750,7 @@ permite o acesso a um único banco de dados por usuários em vários computadore
 melhor
 desempenho.
 
-Item. 3. BANCA: CESPE ANO: 2013 ÓRGÃO: TRT - 82 REGIÃO (PA E AP) PROVA: ANALISTA JUDICIÁRIO -
+3. BANCA: CESPE ANO: 2013 ÓRGÃO: TRT - 82 REGIÃO (PA E AP) PROVA: ANALISTA JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
 
 A respeito do sistema de gerenciamento de banco de dados Oracle, versão llg, assinale
@@ -1823,7 +1791,6 @@ Comentário: Vamos comentar cada uma das alternativas acima:
 
 Na alternativa A, temos uma troca entre os conceitos de SGA e PGA. Lembrem-se que SGA
 (SYSTEM GLOBAL AREA) refere-se à área de memória compartilhada. Já o PGA (PROGRAM
-
 
 GLOBAL AREA) trata da área de memória não compartilhada, ou seja, um PGA é alocado
 para
@@ -1914,7 +1881,6 @@ para ler ou gravar blocos de dados dentro da instância da SGA.
 O Oracle permite, por ser uma memória dinâmica, que o tamanho da SGA seja ajustado em
 tempo de execução, sem a necessidade de baixar ou indisponibilizar o ambiente de banco de dados.
 
-
 A memória para a SGA é alocada em unidades granulares, onde um grão pode ter 4MB ou
 16MB. Se a SGA for menor ou igual a 128MB, o crescimento será de 4MB. Do contrário,
 o aumento
@@ -1967,7 +1933,6 @@ Buffers sujos contêm blocos de dados alterados ou acrescentados, devido a uma i
 DML, que ainda não foram submetidos a commit. Esse buffer não pode ser reutilizado
 até que estes
 blocos de dados sejam gravados com êxito no disco.
-
 
 Buffers livres são buffers que não possuem dados armazenados ou que guardam blocos de
 dados que são idênticos aos blocos correspondentes no disco. Áreas de buffers livres
@@ -2029,7 +1994,6 @@ funcionam como o cache principal. A sintaxe para usar esse tipo de buffer é a s
 BUFFER_POOL { KEEP | RECYCLE | DEFAULT }
 
 CREATE TABLE table_name (coll number) STORAGE (BUFFER_POOL KEEP;
-
 
 ALTER INDEX index_name STORAGE (BUFFER_POOL RECYCLE;
 
@@ -2150,10 +2114,9 @@ exigidas por uma sessão de banco de dados. Essencialmente, a UGA armazena o est
 sessão.
 A figura que descreve a UGA pode ser vista abaixo:
 
-
 UGA
 
-Item. 4. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 46
+4. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 46
 
 Quando uma instância é iniciada, o SGBD Oracle llg aloca uma área de
 memória e inicia
@@ -2176,7 +2139,6 @@ enunciado. Sendo assim, podemos concluir que nossa resposta está na alternativa
 
 Gabarito: C
 
-
 Um servidor de banco de dados Oracle consiste em um banco de dados Oracle e uma
 instância
 Oracle. Cada vez que um banco de dados for iniciado, a área global de sistema
@@ -2195,7 +2157,7 @@ permite o acesso a um único banco de dados por usuários em vários computadore
 melhor
 desempenho.
 
-Item. 1. BANCA: CESPE ANO: 2013 ÓRGÃO: TRT - 8? REGIÃO (PA E AP) PROVA: ANALISTA JUDICIÁRIO -
+1. BANCA: CESPE ANO: 2013 ÓRGÃO: TRT - 8? REGIÃO (PA E AP) PROVA: ANALISTA JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
 
 A respeito do sistema de gerenciamento de banco de dados Oracle, versão llg, assinale
@@ -2239,7 +2201,6 @@ Comentário: Vamos comentar cada uma das alternativas acima:
 Na alternativa A, temos uma troca entre os conceitos de SGA e PGA. Lembrem-se que SGA
 (SYSTEM GLOBAL AREA) refere-se à área de memória compartilhada. Já o PGA (PROGRAM
 
-
 GLOBAL AREA) trata da área de memória não compartilhada, ou seja, um PGA é alocado
 para
 cada processo.
@@ -2329,7 +2290,6 @@ para ler ou gravar blocos de dados dentro da instância da SGA.
 O Oracle permite, por ser uma memória dinâmica, que o tamanho da SGA seja ajustado em
 tempo de execução, sem a necessidade de baixar ou indisponibilizar o ambiente de banco de dados.
 
-
 A memória para a SGA é alocada em unidades granulares, onde um grão pode ter 4MB ou
 16MB. Se a SGA for menor ou igual a 128MB, o crescimento será de 4MB. Do contrário,
 o aumento
@@ -2382,7 +2342,6 @@ Buffers sujos contêm blocos de dados alterados ou acrescentados, devido a uma i
 DML, que ainda não foram submetidos a commit. Esse buffer não pode ser reutilizado
 até que estes
 blocos de dados sejam gravados com êxito no disco.
-
 
 Buffers livres são buffers que não possuem dados armazenados ou que guardam blocos de
 dados que são idênticos aos blocos correspondentes no disco. Áreas de buffers livres
@@ -2444,7 +2403,6 @@ funcionam como o cache principal. A sintaxe para usar esse tipo de buffer é a s
 BUFFER_POOL { KEEP | RECYCLE | DEFAULT }
 
 CREATE TABLE table_name (coll number) STORAGE (BUFFER_POOL KEEP;
-
 
 ALTER INDEX index_name STORAGE (BUFFER_POOL RECYCLE;
 
@@ -2565,10 +2523,9 @@ exigidas por uma sessão de banco de dados. Essencialmente, a UGA armazena o est
 sessão.
 A figura que descreve a UGA pode ser vista abaixo:
 
-
 UGA
 
-Item. 2. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 46
+2. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 46
 
 Quando uma instância é iniciada, o SGBD Oracle llg aloca uma área de
 memória e inicia
@@ -2591,19 +2548,18 @@ enunciado. Sendo assim, podemos concluir que nossa resposta está na alternativa
 
 Gabarito: C
 
-
 ESTRUTURA DE PRoCESSoS
 
 Todos os usuários conectados ao banco de dados Oracle devem executar dois módulos de
 código para acessar uma instância de banco de dados Oracle.
 
-Item. 1. Aplicação ou ferramenta Oracle: Um usuário de banco de dados executa uma aplicação
+1. Aplicação ou ferramenta Oracle: Um usuário de banco de dados executa uma aplicação
 de
 banco de dados (como um programa de pré-compilador) ou uma ferramenta Oracle (como o
 SQL *
 Plus), que emite instruções SQL para um banco de dados Oracle.
 
-Item. 2. Código do servidor de banco de dados Oracle: Cada usuário tem algum código de
+2. Código do servidor de banco de dados Oracle: Cada usuário tem algum código de
 banco de
 dados Oracle em execução em seu nome, que interpreta e processa instruções SQL do aplicativo.
 
@@ -2638,9 +2594,9 @@ TIPoS DE PRoCESSoS
 Os processos em um sistema de banco de dados Oracle podem ser classificados em dois
 grandes grupos:
 
-Item. 1. Processos de usuário que executam o aplicativo ou ferramenta de código Oracle.
+1. Processos de usuário que executam o aplicativo ou ferramenta de código Oracle.
 
-Item. 2. Processos de banco de dados Oracle que executam o código do servidor de banco de
+2. Processos de banco de dados Oracle que executam o código do servidor de banco de
 dados
 Oracle. Eles incluem os processos do servidor e os processos em segundo plano.
 
@@ -2686,7 +2642,6 @@ System Global Area
 
 I I
 
-
 Recoverer
 (RECO)
 
@@ -2723,7 +2678,6 @@ vezes chamado
 de um processo de usuário) para executar o aplicativo. O aplicativo cliente tem
 bibliotecas do Oracle
 Database ligadas nele, que fornecem as APIs necessárias para se comunicar com o banco de dados.
-
 
 Processos do cliente diferem em vários aspectos dos processos do Oracle. Eles interagem
 diretamente com a instância. Os processos do Oracle servem ao processo cliente, pois
@@ -2783,7 +2737,6 @@ CONNECT SYS/password AS SYSDBA
 
 Gabarito Certo.
 
-
 Uma conexão é um canal de comunicação entre um processo de usuário e uma instância de
 banco de dados Oracle. É estabelecida utilizando os mecanismos de comunicação entre
 processos
@@ -2815,7 +2768,6 @@ sessões de usuários podem compartilhar um único processo do servidor. Veja na
 abaixo um
 exemplo de conexão e sessão:
 
-
 Esta seção descreve os dois tipos de processos que executam o código do servidor de
 banco
 de dados Oracle (os processos do servidor e os processos em segundo plano). Vamos
@@ -2843,13 +2795,13 @@ criados em nome de uma aplicação de usuário podem executar um ou mais dos
 seguintes
 procedimentos:
 
-Item. 1. Analisar e executar instruções SQL emitidas através da aplicação.
+1. Analisar e executar instruções SQL emitidas através da aplicação.
 
-Item. 2. Ler blocos de dados necessários a partir de arquivos de dados em disco para os
+2. Ler blocos de dados necessários a partir de arquivos de dados em disco para os
 buffers de
 dados partilhada da SGA, se os blocos já não estão presentes na SGA.
 
-Item. 3. Retornar os resultados de tal maneira que a aplicação possa processar as informações.
+3. Retornar os resultados de tal maneira que a aplicação possa processar as informações.
 
 Processos de segundo plano
 
@@ -2868,7 +2820,6 @@ outro processo arquivar os dados.
 
 O Oracle Database cria processos de segundo plano automaticamente quando uma instância
 de banco de dados é inicializada. Uma instância pode ter muitos processos em segundo plano, alguns
-
 
 0515200190-0E-vEevrteorntoMn uMriulorilVoieViireaira
 dos quais nem sempre existem em cada configuração do banco de dados. A consulta a
@@ -2897,7 +2848,7 @@ Process (RECO). Vejam a organização deles na arquitetura do Oracle na figura a
 
 Antes, porém, vejamos a questão abaixo:
 
-Item. 1. BANCA: FCC ANO: 2009 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
+1. BANCA: FCC ANO: 2009 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 NÃO é um processo do tipo background contido em uma instância Oracle:
@@ -2921,20 +2872,17 @@ sigla é ARCO. Podemos observar sua presença na figura a seguir.
 
 Gabarito: D
 
-
 RECO PMON SMON
 
 l í l
 
 System Global Area
 
-
 Data ba se
 Buffer Cache
 
 Redo Log
 Buffer
-
 
 User
 Process
@@ -2949,7 +2897,6 @@ Dedicated
 Server
 Process
 
-
 User Process es
 
 CKPT
@@ -2960,11 +2907,9 @@ Offllne
 x Storage
 Device
 
-
 DBWO
 
 LGWR
-
 
 Legend:
 
@@ -3016,7 +2961,6 @@ comando:
 [oracle@XXXX ~]$ ps aux | grep pmon
 oracle 17011 0.0 0.0 60292 696 pts/O D+ 12:14 0:00 grep pmon
 
-
 System Monitor Process (SMON)
 
 O processo System Monitor verifica a consistência no banco de dados, localizando e
@@ -3053,15 +2997,15 @@ Quando for necessária a recuperação de uma instância, o Oracle realizará as
 etapas
 através do SMON:
 
-Item. 1. Executar rollforward para recuperar os dados que não foram registrados nos arquivos
+1. Executar rollforward para recuperar os dados que não foram registrados nos arquivos
 de
 dados, entretanto, que foram gravados no redo log online. Durante esse processo, o
 SMON lê os
 arquivos de redo log e aplica as alterações registradas nos blocos de dados;
 
-Item. 2. Abrir o banco de dados para permitir que os usuários estabeleçam logon;
+2. Abrir o banco de dados para permitir que os usuários estabeleçam logon;
 
-Item. 3. Submeter a rollback as transações não submetidas a commit.
+3. Submeter a rollback as transações não submetidas a commit.
 
 Database Writer Process (DBWn)
 
@@ -3072,7 +3016,6 @@ data files, por sua
 vez, são arquivos físicos do sistema operacional que armazenam os dados do banco de
 dados
 propriamente ditos.
-
 
 A gravação dos blocos de dados nos arquivos de dados é realizada de forma assíncrona
 e
@@ -3137,7 +3080,6 @@ para o disco imediatamente, juntamente com as entradas de redo. Após esta etapa
 servidor
 Oracle pode garantir que as alterações não serão perdidas mesmo que haja uma falha de instância.
 
-
 Sempre que uma transação é submetida para commit, o servidor Oracle atribui
 um SCN
 (System Change Number, número de alteração do sistema) à transação. Ele é aproveitado
@@ -3194,7 +3136,6 @@ Quando acontece um shutdown;
 O processo de Checkpoint é habilitado através do parâmetro CHECKPOINT_PROCESS. Veja a
 figura abaixo com detalhes sobre o CKPT:
 
-
 System Global Area
 (SGA)
 
@@ -3230,7 +3171,7 @@ transações em dúvida, removendo da tabela de transação pendente de cada ban
 todas
 as linhas que correspondem às operações resolvidas.
 
-Item. 2. BANCA: Cespe/2018 - Analista judiciário (STM)/ apoio especializado/ Análise de sistemas
+2. BANCA: Cespe/2018 - Analista judiciário (STM)/ apoio especializado/ Análise de sistemas
 
 Julgue o item que se segue, a respeito do processamento de transações e otimização de
 desempenho do SGBD e de consultas SQL.
@@ -3243,7 +3184,6 @@ desempenho para detecção de problemas e manutenção automática do banco de d
 exemplo, reusando, ajustando e excluindo dados temporários e reusando espaço em blocos
 por
 linhas excluídas.
-
 
 Certo
 Errado
@@ -3302,7 +3242,6 @@ processos ARCn existem somente quando o banco de dados está no modo
 ARCHIVELOG e
 arquivamento automático está habilitado.
 
-
 Job Queue Processes (CJQO and Jnnn)
 
 O Oracle Database utiliza processos de fila de trabalho para executar tarefas do
@@ -3324,7 +3263,7 @@ A fila de processos de trabalho dinâmica pode executar um grande número de job
 mesmo
 tempo em um determinado intervalo. A sequência de eventos é a seguinte:
 
-Item. 1. O processo de coordenador de trabalho (CJQO) é automaticamente iniciado e
+1. O processo de coordenador de trabalho (CJQO) é automaticamente iniciado e
 interrompido
 quando necessário pelo Oracle Scheduler. O processo coordenador seleciona
 periodicamente
@@ -3332,15 +3271,15 @@ trabalhos que precisam ser executados a partir de uma tabela de sistemas denomin
 JOB$. Os
 trabalhos selecionados são ordenados, de acordo com o tempo.
 
-Item. 2. O processo de coordenador cria dinamicamente processos escravos (Jnnn) para executar
+2. O processo de coordenador cria dinamicamente processos escravos (Jnnn) para executar
 a
 fila trabalho (Jobs queue).
 
-Item. 3. O processo da fila de trabalho executa um dos trabalhos que foi selecionado pelo
+3. O processo da fila de trabalho executa um dos trabalhos que foi selecionado pelo
 processo
 CJQO para execução. Cada processo da fila de trabalho é executado até a conclusão.
 
-Item. 4. Depois de terminar o processo de execução de cada trabalho, ele procura por mais
+4. Depois de terminar o processo de execução de cada trabalho, ele procura por mais
 jobs. Se
 não há trabalhos agendados para execução, ele entra em um estado de sleep, do qual ele acorda
 em
@@ -3398,7 +3337,6 @@ exemplo, quatro processos de lidar com cada semestre em um ano em vez de um proc
 fazer o
 tratamento de todos os semestres, por si só. Veja na figura abaixo uma execução em paralelo:
 
-
 Parallel Execution
 Coordinator
 
@@ -3412,7 +3350,7 @@ FROM employees
 
 WHERE phone_number LIKE *650%';
 
-Item. 3. BANCA: FCC ANO: 2013 ÓRGÃO: MPE-MA PROVA: ANALISTA JUDICIÁRIO BANCO DE DADOS
+3. BANCA: FCC ANO: 2013 ÓRGÃO: MPE-MA PROVA: ANALISTA JUDICIÁRIO BANCO DE DADOS
 
 Na arquitetura do Sistema Gerenciador de Bancos de Dados Oracle, existem os
 processos
@@ -3421,7 +3359,6 @@ e
 processo opcional são, respectivamente,
 
 AJob Queue (CJQ) e Space Management Coordinator (SMCO).
-
 
 B Recoverer (RECO) e Archiver (ARC).
 
@@ -3444,7 +3381,6 @@ Gabarito: B
 
 Finalmente, terminamos nossa explicação teórica sobre processos no Oracle. Ao final vamos
 observar como cada um dos processos está relacionado com a SGA. Vejam a figura abaixo:
-
 
 MoDo DE INICIALIZAçÃo E DE ENCERRAMENTo DE
 
@@ -3505,7 +3441,6 @@ persistentes, na medida em que todas as alterações feitas aos parâmetros enqu
 instância
 está sendo executado pode perdurar, por exemplo, após um encerramento e reinicialização.
 
-
 VISÃo GERAL DA INICIALIZAçÃo DA INSTÂNCIA E Do BANCo DE DADoS
 
 Os três passos para iniciar um banco de dados Oracle, tornando-o disponível para uso
@@ -3565,7 +3500,6 @@ completar
 as operações de manutenção específicas. No entanto, a base de dados ainda não está
 disponível
 para as operações normais de usuários.
-
 
 Se o Oracle Database permite que várias instâncias montem o mesmo banco de
 dados
@@ -3628,7 +3562,6 @@ respectivamente. Em seguida, o Oracle Database fecha todos os arquivos de dados 
 e os
 arquivos de log de redo. (Quaisquer arquivos de dados off-line de todos os espaços de tabela off-
 
-
 line já foram fechados. Se posteriormente você reabrir o banco de dados, qualquer
 espaço de tabela
 que estava off-line e seus arquivos de dados permanecem off-line e fechados,
@@ -3688,7 +3621,6 @@ preocupação dentro da estratégia de backup e recuperação, são cópias de a
 banco de
 dados físicos. Você pode fazer backups físicos com utilitários RMAN ou do sistema operacional.
 
-
 Em contraste, os backups lógicos contêm dados lógicos, tais como tabelas e procedimentos
 armazenados. Você pode extrair os dados lógicos com um utilitário de banco de dados
 Oracle, como
@@ -3728,7 +3660,6 @@ Whole database backups
 
 ARCHIVELOG NOARCHIVELOG
 
-
 open, inconsistent
 consistent
 closed open. inconsistent
@@ -3747,7 +3678,6 @@ dados que compõem o espaço de tabela. Backups de espaços de tabelas, seja onl
 offline, são
 válidos apenas se o banco de dados está operando no modo ARCHIVELOG. A razão é que o log de
 redo é necessário para tornar o espaço de tabela restaurado consistente.
-
 
 Um backup de arquivo de dados é um backup de um único arquivo de dados. Backups de
 arquivo de dados, que não são tão comuns como backups de tabela, são válidos em bancos de dados
@@ -3810,7 +3740,6 @@ mudanças
 podem ser perdidas. Esta situação pode ocorrer quando os arquivos de dados são
 modificados
 enquanto os backups estão sendo feitos.
-
 
 Se você fizer um backup de banco de dados quando ele está aberto ou montado após um
 desligamento inconsistente, então o backup é inconsistente. Um backup de arquivos de
@@ -3882,7 +3811,6 @@ arquivamento tem estas vantagens:
 possa recuperar todas
 as transações confirmadas no caso de um sistema operacional ou falha de disco.
 
-
 * Se você mantiver um log arquivado, poderá usar um backup feito enquanto o banco de dados
 está aberto e em uso normal
 do sistema.
@@ -3899,7 +3827,7 @@ secundários não é feita em tempo real.
 
 Gabarito Errado.
 
-Item. 1. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: TÉCNICO DO JUDICIÁRIO - PROGRAMADOR DE
+1. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: TÉCNICO DO JUDICIÁRIO - PROGRAMADOR DE
 SISTEMAS
 
 Sobre backup e recuperação do banco de dados Oracle é correto afirmar:
@@ -3940,7 +3868,6 @@ D. Como vimos, podemos executar backups completos online. Neste caso, precisamos
 arquivos de logs de redo, ou off-line.
 
 Gabarito: E
-
 
 RMAN
 
@@ -3995,7 +3922,6 @@ Um catálogo de recuperação - Um esquema de banco de dados separado usado para
 atividade RMAN contra um ou mais bancos de dados de destino. Um catálogo de
 recuperação RMAN
 
-
 preserva os metadados do repositório se o arquivo de controle for perdido, tornando
 muito mais
 fácil para restaurar e recuperar, após a perda do arquivo de controle. O banco de
@@ -4008,7 +3934,7 @@ Para executar um backup, basta iniciar o RMAN e conectar ao banco de dados TARGE
 em
 seguida, executar o comando BACKUP DATABASE. Para saber mais sobre o comando, acesse.
 
-Item. 2. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 13^ REGIÃO (PB) PROVA: ANALISTA JUDICIÁRIO -
+2. BANCA: FCC ANO: 2014 ÓRGÃO: TRT - 13^ REGIÃO (PB) PROVA: ANALISTA JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
 
 Recovery Manager - RMAN é um utilitário de banco de dados que faz o backup,
@@ -4054,10 +3980,9 @@ sistema operacional ou usar alguns recursos do RMAN através do Enterprise Manag
 
 Gabarito: D
 
-
 QUESTõES CoMENTADAS CoMPLEMENTARES
 
-Item. 1. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+1. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 No Oracle llg, os advisors são desenvolvidos com base em componentes de infraestrutura,
 sendo
@@ -4112,8 +4037,7 @@ Assim, temos o gabarito da questão na letra e).
 
 Gabarito: E
 
-
-Item. 2. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+2. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 Em condições normais de operação, na versãol2c do Oracle, é possível realizar operações
 online
@@ -4153,7 +4077,7 @@ Temos a resposta da questão na letra c).
 
 Gabarito: C
 
-Item. 3. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+3. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 Antes do Oracle 12c, os tamanhos máximos em bytes dos data types varchar2, nvarchar2
 e raw
@@ -4172,7 +4096,6 @@ respectivamente,
 (D) 32.767, 16.256 e 8.156.
 
 (E) 32.767, 32.767 e 16.256.
-
 
 Comentários: Vejamos alguns dos tipos de dados do Oracle.
 
@@ -4198,7 +4121,7 @@ dados.
 
 Gabarito: A
 
-Item. 4. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+4. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 No âmbito do Oracle Data Guard, o Oracle Database 12cRl implementa uma standby role
 que
@@ -4229,7 +4152,6 @@ A cláusula FOR FARSYNC cria uma instância de sincronização remota do Oracle 
 Você pode usar a duplicação de banco de dados ativa ou a duplicação baseada em backup para
 criar uma instância de sincronização distante.
 
-
 Uma instância de sincronização remota do Oracle Data Guard é um destino remoto do
 Oracle
 Data Guard que aceita redo a partir do banco de dados primário e, em seguida, envia esse redo
@@ -4251,7 +4173,7 @@ Temos a resposta da questão na letra e).
 
 Gabarito: E
 
-Item. 5. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+5. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 Um profissional de TI necessitava proteger, em tempo real, a exibição de diversos
 dados sobre
@@ -4289,7 +4211,6 @@ Data Redaction
 
 XXXX-XXXX-XXXX-5100
 
-
 O mascaramento ou reescrita de dados suporta os seguintes tipos de função:
 
 Reescrita completa de dados: Nesse caso, o banco de dados redigirá todo o conteúdo das
@@ -4321,7 +4242,6 @@ telefone
 antes da confirmação do pagamento da reserva. Assim, se você tentar enviar seu
 telefone a
 aplicação vai substituir por "[phone-hidde]".
-
 
 Fui
 
@@ -4364,8 +4284,7 @@ relacionados, como o Oracle Audit Vault e o Database Firewall, e o Oracle Databa
 
 Gabarito: C
 
-Item. 6. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
-
+6. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 Com respeito ao Automatic SQL Tuning no Oracle Database 12c, quando o SQL Tuning
 Advisor é
@@ -4421,8 +4340,7 @@ Por exemplo, conecte o SQL * Plus ao banco de dados com privilégios de administ
 e
 execute a seguinte consulta:
 
-
-Item. 7. BANCA: FCC/2018 - analista em gestão (DPE AM)/ especializado em tecnologia da informação
+7. BANCA: FCC/2018 - analista em gestão (DPE AM)/ especializado em tecnologia da informação
 de defensoria/ analista de banco de dados
 
 Na definição do armazenamento (storage), considerando o sistema gerenciador de banco de
@@ -4448,12 +4366,11 @@ aos dados armazenados no banco de dados e a eficiência com que o espaço no ban
 INITIAL: Especifica o tamanho da primeira extensão do objeto. O Oracle aloca espaço para essa
 extensão quando você cria o objeto de esquema.
 
-
 NEXT: Especifica em bytes o tamanho da próxima extensão a ser alocada ao objeto
 
 Gabarito: C
 
-Item. 8. FCC/2018 - analista em gestão (DPE AM)/ especializado em tecnologia da informação de
+8. FCC/2018 - analista em gestão (DPE AM)/ especializado em tecnologia da informação de
 defensoria/ analista de banco de dados
 
 Considerando o sistema gerenciador de banco de dados Oracle llg, uma tarefa de
@@ -4494,12 +4411,11 @@ ALTER TABLESPACE).
 
 Gabarito: A
 
-Item. 9. BANCA: FCC - Técnico Judiciário (TRT 23^ Região)/ Apoio Especializado/ Tecnologia da
+9. BANCA: FCC - Técnico Judiciário (TRT 23^ Região)/ Apoio Especializado/ Tecnologia da
 lnformação/2016
 
 Com relação às estruturas que fazem parte de um banco de dados Oracle e que possuem um
 papel importante na reconstrução do banco de dados a partir de um backup,
-
 
 a) o banco de dados consiste em uma ou mais unidades de armazenamento lógico chamadas
 tablespaces, que consistem em um ou mais arquivos chamados datafiles.
@@ -4565,14 +4481,13 @@ assertiva incorreta.
 
 Gabarito: A
 
-Item. 10. BANCA: FCC - Analista Judiciário (TRT 14§ Região)/Apoio Especializado/ Tecnologia da
+10. BANCA: FCC - Analista Judiciário (TRT 14§ Região)/Apoio Especializado/ Tecnologia da
 lnformação/2016
 
 Em uma empresa, um servidor Oracle llg apresentou um problema e o disco
 no qual se
 localizavam os arquivos do banco de dados foi danificado e perderam-se todos
 os arquivos
-
 
 (control files, datafiles, online redo log files etc.), porém, o disco no qual estava
 a flash recovery
@@ -4611,7 +4526,7 @@ será possível. Desta forma, podemos marcar nossa resposta na alternativa D.
 
 Gabarito: D
 
-Item. 11. BANCA: FCC - Analista de Tecnologia da Informação (CREMESP)/Administração de Banco de
+11. BANCA: FCC - Analista de Tecnologia da Informação (CREMESP)/Administração de Banco de
 Dados/2016
 
 O Recovery Manager (RMAN) é um recurso do Oracle llg que executa tarefas de backup e
@@ -4640,7 +4555,6 @@ Os componentes de I a III são, correta e respectivamente,
 a) File Recovery Area - Media Manager - RMAN executable.
 
 b) Disk Recovery Area - Device Backup Manager - target client.
-
 
 c) Fast Recovery Area - Media Manager - RMAN client.
 
@@ -4685,7 +4599,7 @@ de dados.
 
 Gabarito: C
 
-Item. 12. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2015
+12. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2015
 
 Sobre as estruturas de armazenamento do sistema gerenciador de banco de dados Oracle llg é
 correto afirmar:
@@ -4708,7 +4622,7 @@ um tablespace e apenas um banco de dados.
 
 Gabarito: D
 
-Item. 13. BANCA: FCC - Técnico Judiciário (TRT 16- Região)/Apoio Especializado/ Tecnologia da
+13. BANCA: FCC - Técnico Judiciário (TRT 16- Região)/Apoio Especializado/ Tecnologia da
 lnformação/2014
 
 No Oracle, uma base de dados física consiste de arquivos armazenados no disco e uma
@@ -4768,7 +4682,6 @@ proprietário da Oracle que não pode ser lido por outros programas. Arquivos te
 são
 uma classe especial de arquivos de dados associados apenas a tablespaces temporários.
 
-
 Arquivos de dados podem ser divididos nos seguintes componentes:
 
 Segmento: Um segmento contém um tipo específico de objeto de banco de
@@ -4791,7 +4704,7 @@ banco de dados.
 
 Gabarito: E
 
-Item. 14. BANCA: FCC - Analista Judiciário (TRT 13â Região)/Apoio Especializado/Tecnologia da
+14. BANCA: FCC - Analista Judiciário (TRT 13â Região)/Apoio Especializado/Tecnologia da
 lnformação/2014
 
 Considere o texto abaixo:
@@ -4879,7 +4792,7 @@ prever como mudanças de sistemas podem afetar na performance do SQL.
 
 Gabarito: A
 
-Item. 15. BANCA: FCC - Analista Judiciário (TRT 1- Região)/Apoio Especializado/Tecnologia da
+15. BANCA: FCC - Analista Judiciário (TRT 1- Região)/Apoio Especializado/Tecnologia da
 lnformação/2014
 
 O sistema gerenciador de Bancos de Dados Oracle llg armazena as tabelas de dicionário de dados
@@ -4890,7 +4803,6 @@ BSYSTEM.
 C SYSAUX.
 D UNDO.
 
-
 ETEMP.
 
 Comentário. Uma das partes mais importantes de um banco de dados Oracle é o seu dicionário
@@ -4898,25 +4810,25 @@ de dados, que é um conjunto de tabelas de somente leitura que contêm informaç
 sobre o
 banco de dados. Um dicionário de dados contém:
 
-Item. 1. As definições de todos os objetos de esquema no banco de dados (tabelas, índices,
+1. As definições de todos os objetos de esquema no banco de dados (tabelas, índices,
 clusters,
 sinônimos, sequências, procedimentos, funções, pacotes, gatilhos, e assim por diante)
 
-Item. 2. Quanto espaço foi alocado para e quanto é usado atualmente, para cada um dos
+2. Quanto espaço foi alocado para e quanto é usado atualmente, para cada um dos
 objetos de
 esquema
 
-Item. 3. Os valores padrão para colunas
+3. Os valores padrão para colunas
 
-Item. 4. Informações sobre as restrições de integridade
+4. Informações sobre as restrições de integridade
 
-Item. 5. Os nomes de usuários do Oracle Database
+5. Os nomes de usuários do Oracle Database
 
-Item. 6. Privilégios e funções que cada usuário tenha
+6. Privilégios e funções que cada usuário tenha
 
-Item. 7. Informações de auditoria, tais como quem acessou ou atualizou os objetos de esquema
+7. Informações de auditoria, tais como quem acessou ou atualizou os objetos de esquema
 
-Item. 8. Outras informações do banco de dados geral
+8. Outras informações do banco de dados geral
 
 I O dicionário de dados é estruturado em tabelas e visões, assim como outros dados de
 banco
@@ -4937,7 +4849,7 @@ Pelo exposto acima, confirmamos nossa resposta na alternativa B.
 
 Gabarito: B
 
-Item. 16. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
+16. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Data warehouses geralmente contém tabelas com grande número de informações e requerem
@@ -4953,9 +4865,7 @@ B List.
 CIndexed.
 D Neutral.
 
-
 I
-
 
 E Forecast.
 
@@ -4969,7 +4879,7 @@ composta
 
 Gabarito: B
 
-Item. 17. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
+17. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Arquitetar e manter processos ETL é considerado por muitos uma das tarefas mais
@@ -5030,7 +4940,7 @@ organização. É muito marketing! Mas é quase isso que a plataforma oferece. �
 
 Gabarito: A
 
-Item. 18. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2013
+18. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2013
 
 O gerenciamento de configuração é um componente fundamental nas operações de TI diárias
 de
@@ -5061,7 +4971,7 @@ usando um Conector de Gerenciamento de Mudanças.
 
 Gabarito: C
 
-Item. 19. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
+19. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
 
 Considere:
 
@@ -5138,10 +5048,9 @@ no banco de dados. Por produzir backups menores, gera melhor desempenho.
 
 Gabarito: E
 
-Item. 20. BANCA: FCC-Analista (DPE RS)/lnformática/2013
+20. BANCA: FCC-Analista (DPE RS)/lnformática/2013
 
 Sobre arquitetura do SGBD Oracle, considere:
-
 
 I. Os componentes principais de um servidor corporativo típico são uma ou mais CPUs,
 espaço em
@@ -5185,7 +5094,7 @@ tablespaces SYSTEM e SYSAUX são criados como espaços de tabela smallfile.
 
 Gabarito: E
 
-Item. 21. BANCA: FCC - Analista Ministerial (MPE MA)/Banco de Dados/2013
+21. BANCA: FCC - Analista Ministerial (MPE MA)/Banco de Dados/2013
 
 Quando uma base de dados é criada no Sistema Gerenciador de Bancos de Dados Oracle,
 são
@@ -5203,14 +5112,13 @@ e) SIDeSGA.
 Comentário: Cada banco de dados Oracle contém uma tablespace SYSTEM e uma tablespace
 SYSAUX. O Oracle cria automaticamente cada tablespace quando o banco de dados é criado. O
 
-
 padrão do sistema é criar uma smallfile tablespace, que é o tipo tradicional de
 tablespace
 Oracle. As tablespaces SYSTEM e SYSAUX são criados como espaços de tabela smallfile.
 
 Gabarito: D
 
-Item. 22. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: TÉCNICO DO JUDICIÁRIO - PROGRAMADOR DE
+22. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: TÉCNICO DO JUDICIÁRIO - PROGRAMADOR DE
 SISTEMAS
 
 Sobre os mecanismos de segurança do banco de dados Oracle é correto afirmar:
@@ -5263,7 +5171,6 @@ um conjunto de propriedades que determinam coisas como: as ações (privilégios
 disponíveis para o usuário, as quotas de tablespace (espaço em disco disponível) e os
 limites
 de recursos do sistema (por exemplo, o tempo de processamento da CPU) para o usuário.
-
 
 Analisando as alternativas, observamos que o texto acima descreve exatamente o que está
 exposto na alternativa A. As demais letras possuem erros. A letra B diz que só
@@ -5329,8 +5236,7 @@ parte dos dados de produção para ambientes de teste, contudo, ele aplica uma m
 que
 modifica os valores.
 
-
-Item. 23. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
+23. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
 SISTEMAS
 
 Visão do Oracle 10g que apresenta uma lista das diferentes métricas que dão uma
@@ -5367,12 +5273,11 @@ DBA_FREE_SPACE descreve os extents livres em todos os tablespaces do banco de da
 DBA_SEGMENTS descreve a quantidade de armazenamento alocada para todos os
 seguimentos (segments) no banco de dados.
 
-
 Vejam, portanto, que confirmamos a resposta na alternativa C.
 
 Gabarito: C
 
-Item. 24. BANCA: FCC - Analista Judiciário (TST)/ Apoio Especializado/ Suporte em Tecnologia da
+24. BANCA: FCC - Analista Judiciário (TST)/ Apoio Especializado/ Suporte em Tecnologia da
 lnformação/2012
 
 Um banco de dados criado por meio do SGBD dados Oracle, versão llg, tem uma estrutura lógica
@@ -5405,7 +5310,6 @@ mais
 data blocks; um segment é formado por um ou mais extents; um tablespace é formado
 por um
 ou mais segments.
-
 
 Data Blocks
 
@@ -5448,8 +5352,7 @@ resposta, que pode ser encontrada na letra D.
 
 Gabarito: D
 
-
-Item. 25. BANCA: FCC - Analista Judiciário (TRE CE)/ Apoio Especializado/ Análise de Sistemas/2012
+25. BANCA: FCC - Analista Judiciário (TRE CE)/ Apoio Especializado/ Análise de Sistemas/2012
 
 No banco de dados Oracle 10g, os segmentos
 a) são as unidades mais básicas de armazenamento dentro das tuplas.
@@ -5481,7 +5384,7 @@ agrupamento de segmentos logicamente relacionados está dentro de um tablaspace.
 
 Gabarito: E
 
-Item. 26. BANCA: FCC - Analista Judiciário (TRE PE)/Apoio Especializado/Análise de Sistemas/2011
+26. BANCA: FCC - Analista Judiciário (TRE PE)/Apoio Especializado/Análise de Sistemas/2011
 
 O processo de background Oracle que executa a recuperação, se necessário, na
 inicialização da
@@ -5507,10 +5410,9 @@ ele é aberto. Além desta funcionalidade, o SMON é responsável por unir espa�
 nos
 tablespaces, se eles forem gerenciados pelo dicionário.
 
-
 Gabarito: C
 
-Item. 27. BANCA: FCC - Analista Judiciário (TRE PE)/Apoio Especializado/ Análise de Sistemas/2011
+27. BANCA: FCC - Analista Judiciário (TRE PE)/Apoio Especializado/ Análise de Sistemas/2011
 
 Contém apenas estruturas de armazenamento lógico do banco de dados Oracle:
 
@@ -5553,7 +5455,7 @@ em seu próprio segmento.
 
 Gabarito: A
 
-Item. 28. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2010
+28. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2010
 
 As entradas da estrutura física do database ORACLE 10g são especificadas no
 a) Control file.
@@ -5563,7 +5465,6 @@ b) Data file.
 c) Parameter file.
 
 d) Archive log file.
-
 
 e) Redo log file.
 
@@ -5604,7 +5505,7 @@ contém informações como:
 
 Gabarito: A
 
-Item. 29. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2010
+29. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2010
 
 A sequência, do menor para o maior nível de granulidade, das unidade de alocação de espaço no
 ORACLE 10g é (extent, data block e segment).
@@ -5646,7 +5547,7 @@ em seu próprio segmento.
 
 Gabarito: C
 
-Item. 30. BANCA: FCC - Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
+30. BANCA: FCC - Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
 
 Strings de caracteres de tamanho fixo são armazenados em um banco de dados ORACLE por meio
@@ -5679,8 +5580,7 @@ O tipo de dados NVARCHAR2 armazena cadeias de caracteres de comprimento variáve
 
 Gabarito: A
 
-
-Item. 31. BANCA: FCC Analista do Ministério Público de Sergipe/ Informática l/Gestão e Análise de
+31. BANCA: FCC Analista do Ministério Público de Sergipe/ Informática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
 
 Uma instância do banco de dados ORACLE é constituída
@@ -5709,7 +5609,7 @@ associado de forma eficiente e serve a um ou vários usuários de banco de dados
 
 Gabarito: D
 
-Item. 32. BANCA: FCC - Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
+32. BANCA: FCC - Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
 
 O modo de execução no qual o ORACLE copia os online redo logs cheios para o disco é
@@ -5739,7 +5639,6 @@ NOARCHIVELOG. Você pode:
 
 Fazer backup do banco de dados enquanto ele estiver aberto e sendo acessado pelos usuários.
 
-
 Recuperar o banco de dados para qualquer ponto desejado no tempo.
 
 Para proteger o banco de dados do modo ARCHIVELOG em caso de falha, faça backup dos logs
@@ -5747,7 +5646,7 @@ arquivados.
 
 Gabarito: E
 
-Item. 33. BANCA: FCC - Analista do Ministério Público de Sergipe/ Informática l/Gestão e Análise de
+33. BANCA: FCC - Analista do Ministério Público de Sergipe/ Informática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
 
 NÃO se trata de um componente da estrutura lógica de um banco de dados ORACLE:
@@ -5778,7 +5677,7 @@ exemplo, ele contém as seguintes informações:
 
 Gabarito: C
 
-Item. 34. BANCA: FCC ANO: 2009 ÓRGÃO: TRT - 15§ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
+34. BANCA: FCC ANO: 2009 ÓRGÃO: TRT - 15§ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 São apenas tipos de objetos de um schema Oracle:
@@ -5805,7 +5704,7 @@ tables, Views.
 
 Gabarito: B
 
-Item. 35. BANCA: FCC ANO: 2009 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
+35. BANCA: FCC ANO: 2009 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Cada database Oracle tem
@@ -5852,8 +5751,7 @@ ARCHIVELOG).
 
 Gabarito: A
 
-
-Item. 36. BANCA: FCC ANO: 2008 ÓRGÃO: TRT - 2? REGIÃO (SP) PROVA: ANALISTA JUDICIÁRIO -
+36. BANCA: FCC ANO: 2008 ÓRGÃO: TRT - 2? REGIÃO (SP) PROVA: ANALISTA JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
 
 O Oracle copiará os arquivos online redo logs cheios para o disco se a base de dados estiver em
@@ -5905,11 +5803,10 @@ a alternativa D.
 
 Gabarito: D
 
-Item. 37. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão: 74
+37. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão: 74
 
 Um sistema gerenciador de banco de dados (SGBD) instalado no Linux deve ser configurado de
 modo a permitir os seguintes requisitos:
-
 
 I no máximo, 1000 conexões simultâneas;
 
@@ -5943,7 +5840,7 @@ LISTENER = (DESCRIPTION_LIST =
 
 Gabarito: E
 
-Item. 38. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questões: 83 a 85
+38. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questões: 83 a 85
 
 Acerca do Oracle 12C, julgue os próximos itens.
 
@@ -5968,10 +5865,9 @@ armazenado em várias colunas em blocos de dados no disco.
 
 Comentário: Vamos comentar cada uma das alternativas:
 
-Item. 83. Vamos começar relembrando alguns conceitos. Uma Instância Oracle contém memória
+83. Vamos começar relembrando alguns conceitos. Uma Instância Oracle contém memória
 e
 conjunto de processos em background. A memória é dividida em duas áreas distintas: System
-
 
 Global Area (SGA) e Program Global Area (PGA). O Oracle cria processos servidores para
 lidar
@@ -6007,7 +5903,7 @@ SALES SALES
 Row Format Column Forrnat
 í SALES I
 
-Item. 84. Um bloco é um conjunto contíguo de bits ou bytes que forma uma unidade de dados
+84. Um bloco é um conjunto contíguo de bits ou bytes que forma uma unidade de dados
 identificável. Em alguns bancos de dados, um bloco é a menor quantidade de dados que
 um
 programa pode solicitar. É um múltiplo de um bloco do sistema operacional, que é a
@@ -6024,8 +5920,7 @@ freelist. O sistema de suporte à decisão (DSS) e os ambientes de banco de dado
 data
 warehouse tendem a se beneficiar de valores de tamanho de bloco maiores.
 
-
-Item. 85. Afigura abaixo descreve um bloco de arquivos no Oracle. Veja que existe um
+85. Afigura abaixo descreve um bloco de arquivos no Oracle. Veja que existe um
 cabeçalho de
 bloco, que contém o endereço do bloco de dados, o diretório da tabela e o diretório
 da linha e
@@ -6041,7 +5936,6 @@ em blocos.
 
 Row Header Column Data
 
-
 Row Piece in a Database Block
 
 I Common and Variable Header
@@ -6051,7 +5945,6 @@ H Table Directory
 I Free Space
 
 □ Row Data
-
 
 Row Overhead
 Number of Columns
@@ -6068,7 +5961,7 @@ Block
 
 Gabarito: E C C
 
-Item. 39. BANCA: Cespe - Analista Judiciário (TRT Região)/Apoio Especializado/Tecnologia da
+39. BANCA: Cespe - Analista Judiciário (TRT Região)/Apoio Especializado/Tecnologia da
 lnformação/2016
 
 Julgue o item seguinte, relativo ao banco de dados Oracle.
@@ -6092,8 +5985,7 @@ no AWR são analisados pelo Automatic Database Diagnostic Monitor (ADDM).
 
 Gabarito: C
 
-
-Item. 40. BANCA: Cespe - Analista Judiciário (TRT 8- Região)/Apoio Especializado/Tecnologia da
+40. BANCA: Cespe - Analista Judiciário (TRT 8- Região)/Apoio Especializado/Tecnologia da
 lnformação/2016
 
 Assinale a opção referente ao arquivo que grava todas as mudanças realizadas no DataBase e que
@@ -6116,7 +6008,7 @@ no modo ARCHIVELOG e o arquivamento automático está ativado.
 
 Gabarito: B
 
-Item. 41. BANCA: Cespe - Analista Administrativo (ANTT)/Tecnologia da Informação/lnfraestrutura de
+41. BANCA: Cespe - Analista Administrativo (ANTT)/Tecnologia da Informação/lnfraestrutura de
 TI/2013
 
 No que se refere ao sistema de gerenciamento de banco de dados (SGBD) Oracle e ao
@@ -6140,9 +6032,8 @@ layout de bancos de dados e o gerenciamento de espaço em disco.
 
 Gabarito: C
 
-Item. 42. BANCA: CESPE ANO: 2012 ÓRGÃO: TJ-RO PROVA: ANALISTA JUDICIÁRIO - DESENVOLVIMENTO
+42. BANCA: CESPE ANO: 2012 ÓRGÃO: TJ-RO PROVA: ANALISTA JUDICIÁRIO - DESENVOLVIMENTO
 DE SISTEMAS
-
 
 Assinale a opção correta acerca das ferramentas, dos recursos e das características do
 SGBD
@@ -6209,7 +6100,6 @@ armazenam somente as colunas incluídas na sua definição, os índices IOT arma
 as
 colunas da tabela.
 
-
 O objetivo principal do Database Resource Manager é fornecer ao servidor do Oracle
 Database
 mais controle sobre as decisões de gerenciamento de recursos, problemas
@@ -6231,7 +6121,7 @@ problemáticas do sistema.
 
 Gabarito: B
 
-Item. 43. BANCA: Cespe - Analista Judiciário (TJ AL)/ Apoio Especializado/ Análise de Sistemas/2012
+43. BANCA: Cespe - Analista Judiciário (TJ AL)/ Apoio Especializado/ Análise de Sistemas/2012
 
 Acerca de planos de manutenção e tuning em banco de dados Oracle llg, assinale a
 opção
@@ -6273,7 +6163,6 @@ hipotética de um esquema.
 A execução do SQL Access Advisor mostra as recomendações, com sua classificação e benefício
 total. A classificação é uma medida da importância das consultas que a recomendação ajuda.
 
-
 O benefício é a melhoria total no custo de execução (em termos de custo do
 otimizador) de
 todas as consultas, usando a recomendação.
@@ -6302,7 +6191,7 @@ e) Quem é responsável por esta atividade é o O SQL Access Advisor.
 
 Gabarito: A
 
-Item. 44. BANCA: Cespe - Oficial Bombeiro Militar (CBM DF)/ Complementar/ Informática/ 2011
+44. BANCA: Cespe - Oficial Bombeiro Militar (CBM DF)/ Complementar/ Informática/ 2011
 
 No que se refere ao banco de dados Oracle, julgue o próximo item.
 
@@ -6330,7 +6219,7 @@ OMF
 
 Gabarito: C
 
-Item. 45. BANCA: Cespe Analista (FINEP)/ Informática/ Desenvolvimento de Sistemas/2009
+45. BANCA: Cespe Analista (FINEP)/ Informática/ Desenvolvimento de Sistemas/2009
 
 Uma das instâncias do sistema gerenciador de banco de dados Oracle 10g consiste de
 arquivos
@@ -6405,8 +6294,7 @@ de controle do banco de dados para indicar o ponto de verificação mais recente
 
 Gabarito: C
 
-Item. 46. BANCA: FGV ANO: 2015 ÓRGÃO: TJ-SC PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE SISTEMAS
-
+46. BANCA: FGV ANO: 2015 ÓRGÃO: TJ-SC PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE SISTEMAS
 
 Dois utilitários frequentemente usados nas instalações ORACLE no auxílio à manutenção dos
 dados são:
@@ -6448,20 +6336,19 @@ Database 10g (10.1).
 
 Confirmamos, portando, a resposta na alternativa D.
 
-
 Gabarito: D
 
-Item. 47. BANCA: FGV ANO: 2015 ÓRGÃO: TCE-SE PROVA: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO
+47. BANCA: FGV ANO: 2015 ÓRGÃO: TCE-SE PROVA: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO
 
 - DESENVOLVIMENTO
 
 Analise as seguintes afirmativas sobre tablespaces no Oracle:
 
-Item. 1. Uma tablespace pertence sempre a um único banco de dados.
+1. Uma tablespace pertence sempre a um único banco de dados.
 
-Item. 2. Uma tablespace armazena apenas as tabelas de um banco de dados e seus respectivos índices.
+2. Uma tablespace armazena apenas as tabelas de um banco de dados e seus respectivos índices.
 
-Item. 3. Datafiles são sempre associados a somente uma tablespace.
+3. Datafiles são sempre associados a somente uma tablespace.
 Somente está correto o que se afirma em:
 
 Al;
@@ -6489,10 +6376,9 @@ datafile pertence a apenas um tablespace.
 
 Gabarito: B
 
-
 LISTA DE QUESTõES - MULTIBANCAS
 
-Item. 1. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+1. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 No Oracle llg, os advisors são desenvolvidos com base em componentes de infraestrutura,
 sendo
@@ -6520,7 +6406,7 @@ além de fazer recomendações para melhorar a performance.
 de problemas
 e autoajuste e onde as informações estatísticas são armazenadas na forma de snapshots.
 
-Item. 2. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+2. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 Em condições normais de operação, na versãol2c do Oracle, é possível realizar operações
 online
@@ -6538,7 +6424,7 @@ DDL, tais como
 
 (E) call set online ou transaction online.
 
-Item. 3. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+3. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 Antes do Oracle 12c, os tamanhos máximos em bytes dos data types varchar2, nvarchar2
 e raw
@@ -6552,14 +6438,13 @@ respectivamente,
 
 (B) 16.256, 8.156 e 4.096.
 
-
 (C) 16.256, 16.256 e 8.156.
 
 (D) 32.767, 16.256 e 8.156.
 
 (E) 32.767, 32.767 e 16.256.
 
-Item. 4. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+4. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 No âmbito do Oracle Data Guard, o Oracle Database 12cRl implementa uma standby role
 que
@@ -6584,7 +6469,7 @@ outro primary database evitando, assim, a necessidade de se usar um segundo casc
 FarSync
 Standby.
 
-Item. 5. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+5. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 Um profissional de TI necessitava proteger, em tempo real, a exibição de diversos
 dados sobre
@@ -6608,7 +6493,7 @@ Security do Oracle Database 12c, chamada
 
 (E) SecureFiles LOBs.
 
-Item. 6. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
+6. BANCA: FCC Sefaz/SC - Auditor-Fiscal da Receita Estadual (Tecnologia da lnformação)/2018
 
 Com respeito ao Automatic SQLTuning no Oracle Database 12c, quando o SQLTuning Advisor
 é
@@ -6637,7 +6522,7 @@ As configurações padrão (default) para esses parâmetros são, respectivament
 (D) true - 15.000.
 (E) true - 10.000.
 
-Item. 7. BANCA: FCC/2018 - analista em gestão (DPE AM)/ especializado em tecnologia da informação
+7. BANCA: FCC/2018 - analista em gestão (DPE AM)/ especializado em tecnologia da informação
 de defensoria/ analista de banco de dados
 
 Na definição do armazenamento (storage), considerando o sistema gerenciador de
@@ -6655,7 +6540,7 @@ d) STORAGE (MAIN 10G PLUS 1G).
 
 e) STORAGE (MAJOR 10G ADD 1G).
 
-Item. 8. FCC/2018 - analista em gestão (DPE AM)/ especializado em tecnologia da informação
+8. FCC/2018 - analista em gestão (DPE AM)/ especializado em tecnologia da informação
 de
 defensoria/ analista de banco de dados
 
@@ -6673,13 +6558,12 @@ c) CREATE DATAFILE, TABLESPACE 'dl.dbf', bl SIZE 40MB AUTOEXT = 1;
 
 d) CREATE FILE 40MB TYPE BIGFILE TABLESPACE bl
 
-
 DATA 'dl.dbf' EXTENSION ON;
 
 e) CREATE 'dl.dbf' TABLESPACE bl BIGFILE
 SIZE 40M AUTOEXTEND ON;
 
-Item. 9. BANCA: FCC - Técnico Judiciário (TRT 23- Região)/ Apoio Especializado/ Tecnologia da
+9. BANCA: FCC - Técnico Judiciário (TRT 23- Região)/ Apoio Especializado/ Tecnologia da
 lnformação/2016
 
 Com relação às estruturas que fazem parte de um banco de dados Oracle e que possuem um
@@ -6711,7 +6595,7 @@ no
 parâmetro DB_BLOCK_SIZE, é normalmente um múltiplo do tamanho de um bloco do Sistema
 Operacional.
 
-Item. 10. BANCA: FCC - Analista Judiciário (TRT 14a Região)/Apoio Especializado/ Tecnologia da
+10. BANCA: FCC - Analista Judiciário (TRT 14a Região)/Apoio Especializado/ Tecnologia da
 lnformação/2016
 
 Em uma empresa, um servidor Oracle llg apresentou um problema e o disco
@@ -6734,12 +6618,11 @@ o disco é danificado, impedindo o acesso à flash recovery area.
 d) será possível restaurar um backup RMAN em conjunto com os archive redo log files contidos
 na flash recovery area.
 
-
 e) não será possível restaurar o banco de dados, pois o software Oracle foi
 corrompido e o disco
 no qual se localizavam os arquivos do banco de dados foi danificado.
 
-Item. 11. BANCA: FCC - Analista de Tecnologia da Informação (CREMESP)/Administração de Banco de
+11. BANCA: FCC - Analista de Tecnologia da Informação (CREMESP)/Administração de Banco de
 Dados/2016
 
 O Recovery Manager (RMAN) é um recurso do Oracle llg que executa tarefas de backup e
@@ -6775,7 +6658,7 @@ d) Fast Recovery Area - Device Backup Manager - target client.
 
 e) File Recovery Area - Recovery Manager - RMAN client.
 
-Item. 12. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2015
+12. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2015
 
 Sobre as estruturas de armazenamento do sistema gerenciador de banco de dados Oracle
 llg é
@@ -6791,9 +6674,8 @@ d) Um tablespace pode ser composto por um ou mais segmentos.
 
 e) Uma extensão é mapeada em mais de um datafile.
 
-Item. 13. BANCA: FCC - Técnico Judiciário (TRT 16- Região)/Apoio Especializado/ Tecnologia da
+13. BANCA: FCC - Técnico Judiciário (TRT 16- Região)/Apoio Especializado/ Tecnologia da
 lnformação/2014
-
 
 No Oracle, uma base de dados física consiste de arquivos armazenados no disco e uma
 instância
@@ -6812,7 +6694,7 @@ d) mineração de dados.
 
 e) dados.
 
-Item. 14. BANCA: FCC - Analista Judiciário (TRT 13- Região)/Apoio Especializado/Tecnologia da
+14. BANCA: FCC - Analista Judiciário (TRT 13- Região)/Apoio Especializado/Tecnologia da
 lnformação/2014
 
 Considere o texto abaixo:
@@ -6841,7 +6723,7 @@ d) SQL Analysis Advisor.
 
 e) SQL Performance Impact Advisor.
 
-Item. 15. BANCA: FCC - Analista Judiciário (TRT 1? Região)/Apoio
+15. BANCA: FCC - Analista Judiciário (TRT 1? Região)/Apoio
 Especializado/Tecnologia da
 lnformação/2014
 
@@ -6855,10 +6737,9 @@ B SYSTEM.
 C SYSAUX.
 D UNDO.
 
-
 ETEMP.
 
-Item. 16. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
+16. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Data warehouses geralmente contém tabelas com grande número de informações e requerem
@@ -6875,7 +6756,7 @@ CIndexed.
 D Neutral.
 E Forecast.
 
-Item. 17. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
+17. BANCA: FCC ANO: 2013 ÓRGÃO: TRT - 15^ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Arquitetar e manter processos ETL é considerado por muitos uma das tarefas mais
@@ -6894,7 +6775,7 @@ D Query and Input (OQI).
 
 E Business Intelligence (OBI).
 
-Item. 18. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2013
+18. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2013
 
 O gerenciamento de configuração é um componente fundamental nas operações de TI diárias
 de
@@ -6908,7 +6789,6 @@ componente é
 o
 a) Log Analiser.
 
-
 b) Graphical Configurator Addon.
 
 c) Configuration Change Console.
@@ -6917,7 +6797,7 @@ d) Data Recovery Manager.
 
 e) Instant Support.
 
-Item. 19. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
+19. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
 
 Considere:
 
@@ -6964,7 +6844,6 @@ I. Os componentes principais de um servidor corporativo típico são uma ou mais
 disco e memória. Enquanto o banco de dados Oracle é armazenado em um disco do servidor, uma
 instância Oracle existe na memória do servidor.
 
-
 II. Os arquivos de dados em um BD Oracle são agrupados em uma ou mais tablespaces. Dentro de
 cada tablespace as estruturas lógicas do banco de dados, como tabelas e índices, são
 segmentos
@@ -6987,7 +6866,7 @@ d) III.
 
 e) I e II.
 
-Item. 21. BANCA: FCC - Analista Ministerial (MPE MA)/Banco de Dados/2013
+21. BANCA: FCC - Analista Ministerial (MPE MA)/Banco de Dados/2013
 
 Quando uma base de dados é criada no Sistema Gerenciador de Bancos de Dados Oracle,
 são
@@ -7002,7 +6881,7 @@ d) SYS e SYSTEM.
 
 e) SIDeSGA.
 
-Item. 22. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: TÉCNICO DO JUDICIÁRIO - PROGRAMADOR DE
+22. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: TÉCNICO DO JUDICIÁRIO - PROGRAMADOR DE
 SISTEMAS
 
 Sobre os mecanismos de segurança do banco de dados Oracle é correto afirmar:
@@ -7024,8 +6903,7 @@ E Um domínio de segurança no Oracle permite determinar papéis e privilégios 
 usuário,
 entretanto, não permitem definir cotas de tablespaces e limite de recursos da CPU.
 
-
-Item. 23. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
+23. BANCA: FCC ANO: 2012 ÓRGÃO: TRE-CE PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
 SISTEMAS
 
 Visão do Oracle 10g que apresenta uma lista das diferentes métricas que dão uma
@@ -7040,7 +6918,7 @@ C DBA_THRESHOLDS.
 D DBA_FREE_SPACE.
 E DBA_SEGMENTS.
 
-Item. 24. BANCA: FCC - Analista Judiciário (TST)/ Apoio Especializado/ Suporte em Tecnologia da
+24. BANCA: FCC - Analista Judiciário (TST)/ Apoio Especializado/ Suporte em Tecnologia da
 lnformação/2012
 
 Um banco de dados criado por meio do SGBD dados Oracle, versão llg, tem uma estrutura lógica
@@ -7056,7 +6934,7 @@ d) o banco de dados pode conter um ou mais tablespaces.
 
 e) um segmento pode ser dividido em vários tablespaces.
 
-Item. 25. BANCA: FCC - Analista Judiciário (TRE CE)/ Apoio Especializado/ Análise de Sistemas/2012
+25. BANCA: FCC - Analista Judiciário (TRE CE)/ Apoio Especializado/ Análise de Sistemas/2012
 
 No banco de dados Oracle 10g, os segmentos
 a) são as unidades mais básicas de armazenamento dentro das tuplas.
@@ -7069,8 +6947,7 @@ d) são agrupados em uma ou mais estruturas lógicas que são as views.
 
 e) contêm todos os dados de um agrupamento lógico dentro de um tablespace.
 
-Item. 26. BANCA: FCC - Analista Judiciário (TRE PE)/Apoio Especializado/Análise de Sistemas/2011
-
+26. BANCA: FCC - Analista Judiciário (TRE PE)/Apoio Especializado/Análise de Sistemas/2011
 
 O processo de background Oracle que executa a recuperação, se necessário, na
 inicialização da
@@ -7087,7 +6964,7 @@ d) Log Writer Process (LGWR).
 
 e) Recoverer Process (RECO).
 
-Item. 27. BANCA: FCC - Analista Judiciário (TRE PE)/Apoio Especializado/ Análise de Sistemas/2011
+27. BANCA: FCC - Analista Judiciário (TRE PE)/Apoio Especializado/ Análise de Sistemas/2011
 
 Contém apenas estruturas de armazenamento lógico do banco de dados Oracle:
 
@@ -7101,7 +6978,7 @@ d) datafiles, data blocks e control files.
 
 e) control files, redo log files e data blocks.
 
-Item. 28. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2010
+28. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2010
 
 As entradas da estrutura física do database ORACLE 10g são especificadas no
 a) Control file.
@@ -7114,7 +6991,7 @@ d) Archive log file.
 
 e) Redo log file.
 
-Item. 29. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2010
+29. BANCA: FCC - Agente de Defensoria Pública (DPE SP)/ Administrador de Banco de Dados/2010
 
 A sequência, do menor para o maior nível de granulidade, das unidade de alocação de
 espaço no
@@ -7128,8 +7005,7 @@ c) segment, extent e data block.
 
 d) data block, segment e extent.
 
-
-Item. 30. BANCA: FCC - Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
+30. BANCA: FCC - Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
 
 Strings de caracteres de tamanho fixo são armazenados em um banco de dados ORACLE por meio
@@ -7144,7 +7020,7 @@ d) varchar ou varchar2.
 
 e) nchar ou nvarchar.
 
-Item. 31. BANCA: FCC Analista do Ministério Público de Sergipe/ Informática l/Gestâo e Análise de
+31. BANCA: FCC Analista do Ministério Público de Sergipe/ Informática l/Gestâo e Análise de
 Projeto de lnfraestrutura/2010
 
 Uma instância do banco de dados ORACLE é constituída
@@ -7158,7 +7034,7 @@ d) pela área global do sistema (SGA) e pelos processos background, apenas.
 
 e) pela área global do sistema (SGA) e pelos processos user, apenas.
 
-Item. 32. BANCA: FCC - Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
+32. BANCA: FCC - Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
 
 O modo de execução no qual o ORACLE copia os online redo logs cheios para o disco é
@@ -7173,11 +7049,10 @@ d) checkpoint.
 
 e) archivelog.
 
-Item. 33. BANCA: FCC - Analista do Ministério Público de Sergipe/ Informática l/Gestão e Análise de
+33. BANCA: FCC - Analista do Ministério Público de Sergipe/ Informática l/Gestão e Análise de
 Projeto de lnfraestrutura/2010
 
 NÃO se trata de um componente da estrutura lógica de um banco de dados ORACLE:
-
 
 a) tablespaces.
 
@@ -7189,7 +7064,7 @@ d) data blocks.
 
 e) segments.
 
-Item. 34. BANCA: FCC ANO: 2009 ÓRGÃO: TRT - 15§ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
+34. BANCA: FCC ANO: 2009 ÓRGÃO: TRT - 15§ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 São apenas tipos de objetos de um schema Oracle:
@@ -7202,7 +7077,7 @@ C table, tablespace, index e cluster.
 D tablespace, index, cluster e directory.
 E tablespace, index, cluster e view
 
-Item. 35. BANCA: FCC ANO: 2009 ÓRGÃO: TRT - 15§ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
+35. BANCA: FCC ANO: 2009 ÓRGÃO: TRT - 15§ REGIÃO (CAMPINAS-SP) PROVA: ANALISTA
 JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 Cada database Oracle tem
@@ -7222,9 +7097,8 @@ C II, somente.
 D I e II, somente.
 E I e III, somente.
 
-Item. 36. BANCA: FCC ANO: 2008 ÓRGÃO: TRT - 2^ REGIÃO (SP) PROVA: ANALISTA JUDICIÁRIO -
+36. BANCA: FCC ANO: 2008 ÓRGÃO: TRT - 2^ REGIÃO (SP) PROVA: ANALISTA JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
-
 
 O Oracle copiará os arquivos online redo logs cheios para o disco se a base de
 dados estiver em
@@ -7237,7 +7111,7 @@ C dedicated.
 D archivelog.
 E backup.
 
-Item. 37. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão: 74
+37. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questão: 74
 
 Um sistema gerenciador de banco de dados (SGBD) instalado no Linux deve ser
 configurado de
@@ -7255,7 +7129,7 @@ execução, respectivamente, por meio dos comandos SET system sessions = 1000 e 
 system
 listener = 10.10.10.2.
 
-Item. 38. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questões: 83 a 85
+38. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Analista de Sistemas Questões: 83 a 85
 
 Acerca do Oracle 12C, julgue os próximos itens.
 
@@ -7278,9 +7152,8 @@ nova transação, o registro é armazenado como uma nova linha na tabela e, assi
 registro é
 armazenado em várias colunas em blocos de dados no disco.
 
-Item. 39. BANCA: Cespe - Analista Judiciário (TRT 8- Região)/Apoio Especializado/Tecnologia da
+39. BANCA: Cespe - Analista Judiciário (TRT 8- Região)/Apoio Especializado/Tecnologia da
 lnformação/2016
-
 
 Julgue o item seguinte, relativo ao banco de dados Oracle.
 
@@ -7291,7 +7164,7 @@ desempenho que possibilita a detecção de problemas.
 Certo
 Errado
 
-Item. 40. BANCA: Cespe - Analista Judiciário (TRT 8- Região)/Apoio Especializado/Tecnologia da
+40. BANCA: Cespe - Analista Judiciário (TRT 8- Região)/Apoio Especializado/Tecnologia da
 lnformação/2016
 
 Assinale a opção referente ao arquivo que grava todas as mudanças realizadas no DataBase e que
@@ -7303,7 +7176,7 @@ c) Undo file
 d) Control file
 e) Alert log file
 
-Item. 41. BANCA: Cespe - Analista Administrativo (ANTT)/Tecnologia da Informação/lnfraestrutura
+41. BANCA: Cespe - Analista Administrativo (ANTT)/Tecnologia da Informação/lnfraestrutura
 de
 TI/2013
 
@@ -7320,7 +7193,7 @@ deste.
 Certo
 Errado
 
-Item. 42. BANCA: CESPE ANO: 2012 ÓRGÃO: TJ-RO PROVA: ANALISTA JUDICIÁRIO - DESENVOLVIMENTO
+42. BANCA: CESPE ANO: 2012 ÓRGÃO: TJ-RO PROVA: ANALISTA JUDICIÁRIO - DESENVOLVIMENTO
 DE SISTEMAS
 
 Assinale a opção correta acerca das ferramentas, dos recursos e das características do
@@ -7331,7 +7204,6 @@ A Por meio do recurso OSS (Oracle segment shrink) do Oracle 10g, pode-se compact
 áreas de
 memória RAM marcadas como booked, transferindo-as para o disco, permitindo, assim, maior
 alocação de memória no processamento de consultas.
-
 
 B lOTs (index organized tables) são estruturas de dados que permitem armazená-los de
 forma
@@ -7353,7 +7225,7 @@ DBMS_SCHEDULER, gerencia triggers de sistemas e permite a autocriação de índi
 de
 melhorar o desempenho de acesso aos dados de forma programada.
 
-Item. 43. BANCA: Cespe - Analista Judiciário (TJ AL)/ Apoio Especializado/ Análise de Sistemas/2012
+43. BANCA: Cespe - Analista Judiciário (TJ AL)/ Apoio Especializado/ Análise de Sistemas/2012
 
 Acerca de planos de manutenção e tuning em banco de dados Oracle llg, assinale a
 opção
@@ -7381,7 +7253,7 @@ e) Em cada execução do SQL Tuning Advisor, o administrador do banco de dados d
 selecionar
 as consultas SQL de alta carga no sistema e gerar recomendações sobre como ajustá-las.
 
-Item. 44. BANCA: Cespe - Oficial Bombeiro Militar (CBM DF)/ Complementar/ Informática/ 2011
+44. BANCA: Cespe - Oficial Bombeiro Militar (CBM DF)/ Complementar/ Informática/ 2011
 
 No que se refere ao banco de dados Oracle, julgue o próximo item.
 
@@ -7395,8 +7267,7 @@ de terabytes, conforme o tamanho do bloco do espaço de tabela.
 Certo
 Errado
 
-
-Item. 45. BANCA: Cespe Analista (FINEP)/ Informática/ Desenvolvimento de Sistemas/2009
+45. BANCA: Cespe Analista (FINEP)/ Informática/ Desenvolvimento de Sistemas/2009
 
 Uma das instâncias do sistema gerenciador de banco de dados Oracle 10g consiste de
 arquivos
@@ -7414,7 +7285,7 @@ d) PMON (process monitor).
 
 e) CKPT (check point).
 
-Item. 46. BANCA: FGV ANO: 2015 ÓRGÃO: TJ-SC PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE SISTEMAS
+46. BANCA: FGV ANO: 2015 ÓRGÃO: TJ-SC PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE SISTEMAS
 
 Dois utilitários frequentemente usados nas instalações ORACLE no auxílio à manutenção dos
 dados são:
@@ -7427,17 +7298,17 @@ C Transact SQL e SYSDBA;
 D SQL*Loader e Data Pump;
 E DBCAe ADRCI.
 
-Item. 47. BANCA: FGV ANO: 2015 ÓRGÃO: TCE-SE PROVA: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO
+47. BANCA: FGV ANO: 2015 ÓRGÃO: TCE-SE PROVA: ANALISTA DE TECNOLOGIA DA INFORMAÇÃO
 
 - DESENVOLVIMENTO
 
 Analise as seguintes afirmativas sobre tablespaces no Oracle:
 
-Item. 1. Uma tablespace pertence sempre a um único banco de dados.
+1. Uma tablespace pertence sempre a um único banco de dados.
 
-Item. 2. Uma tablespace armazena apenas as tabelas de um banco de dados e seus respectivos índices.
+2. Uma tablespace armazena apenas as tabelas de um banco de dados e seus respectivos índices.
 
-Item. 3. Datafiles são sempre associados a somente uma tablespace.
+3. Datafiles são sempre associados a somente uma tablespace.
 Somente está correto o que se afirma em:
 
 Al;
@@ -7448,102 +7319,99 @@ C2;
 D 2 e 3;
 E3.
 
-
 GABARITo
 
-Item. 1. E
+1. E
 
-Item. 2. C
+2. C
 
-Item. 3. A
+3. A
 
-Item. 4. E
+4. E
 
-Item. 5. C
+5. C
 
-Item. 6. B
+6. B
 
-Item. 7. C
+7. C
 
-Item. 8. A
+8. A
 
-Item. 9. A
+9. A
 
-Item. 10. D
+10. D
 
-Item. 11. C
+11. C
 
-Item. 12. D
+12. D
 
-Item. 13. E
+13. E
 
-Item. 14. A
+14. A
 
-Item. 15. B
+15. B
 
-Item. 16. B
+16. B
 
-Item. 17. A
+17. A
 
-Item. 18. C
+18. C
 
-Item. 19. E
+19. E
 
-Item. 20. E
+20. E
 
-Item. 21. D
+21. D
 
-Item. 22. A
+22. A
 
-Item. 23. C
+23. C
 
-Item. 24. D
+24. D
 
-Item. 25. E
+25. E
 
-Item. 26. C
+26. C
 
-Item. 27. A
+27. A
 
-Item. 28. A
+28. A
 
-Item. 29. C
+29. C
 
-Item. 30. A
+30. A
 
-Item. 31. D
+31. D
 
-Item. 32. E
+32. E
 
-Item. 33. C
+33. C
 
-Item. 34. B
+34. B
 
-Item. 35. A
+35. A
 
-Item. 36. D
+36. D
 
-Item. 37. E
+37. E
 
-Item. 38. ECC
+38. ECC
 
-Item. 39. C
+39. C
 
-Item. 40. B
+40. B
 
-Item. 41. C
+41. C
 
+42. B
 
-Item. 42. B
+43. A
 
-Item. 43. A
+44. C
 
-Item. 44. C
+45. C
 
-Item. 45. C
+46. D
 
-Item. 46. D
-
-Item. 47. B
-
+47. B
 

@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Servidores Web.
-
+# Bizu Estratégico - Servidores Web.
 
 Olá, prezado aluno. Tudo certo?
 
@@ -16,7 +15,6 @@ revisar por algum
 material bem curto e objetivo).
 
 Além disso, utilizamos os materiais do professor Evandro para elaborar esse Bizu.
-
 
 Apresentação
 
@@ -39,12 +37,9 @@ Espero que gostem!
 
 Um grande abraço e bons estudos!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
 Servidores Web e de Aplicação - SERPRO
-
 
 Assunto Bizu
 
@@ -53,13 +48,11 @@ Servidores web e de aplicação. Wildfly, I IS, Apache. 1
 Caderno de Questões
 http://questo.es/io3ms3
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Servidores Web e de Aplicação
 
-Item. 1. Servidores web e de aplicação. 2.1 Wildfly, IIS,
+1. Servidores web e de aplicação. 2.1 Wildfly, IIS,
 Apache.
 
 Servidores web e de aplicação. Wildfly, IIS, Apache.
@@ -75,7 +68,6 @@ e
 como é realizado o processamento, o usuário nem fica sabendo (é transparente), ele só
 recebe
 o resultado final.
-
 
 Transparência
 
@@ -111,9 +103,7 @@ usuários concorrentes.
 
 Oculta a falha e a recuperação de um recurso.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 * Middleware: camada de software localizada logicamente entre uma camada de
 nível mais alto
@@ -159,9 +149,7 @@ limitado pela capacidade do servidor e pela rede que o liga aos clientes. Ou sej
 um único
 servidor não consegue atender milhares de clientes de forma satisfatória, por exemplo.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 * Modelo peer-to-peer: todos os processos possuem papeis semelhantes, sem
 distinção entre
@@ -191,7 +179,6 @@ em plena condição de uso. Consegue detectar erros e se proteger de possíveis 
 processamento. As
 tarefas de processamento são distribuídas o mais uniformemente possível entre os nós.
 
-
 JBoss Application Server (AS)
 
 JBoss Enterprise Application
@@ -213,9 +200,7 @@ Apache. É utilizado para ajudar o administrador a controlar o funcionamento do 
 httpd.
 O script apachectl pode operar em dois modos:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 - Front end simples que configura quaisquer variáveis de ambiente necessárias e então
 chama o
@@ -238,7 +223,6 @@ WCF e o próprio IIS.
 * permite que o IIS processe requisições no pool de
 aplicativos utilizando o "Integrated Pipeline"
 
-
 Modo clássico
 
 * utiliza o pipeline de processamento do IIS 6,
@@ -246,13 +230,10 @@ inicialmente as requisições são processadas através .
 
 dos m ódulos do IIS7
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Vamos ficando por aqui.
 
 Esperamos que tenha gostado do nosso Bizu!
 Bons estudos!
-
 

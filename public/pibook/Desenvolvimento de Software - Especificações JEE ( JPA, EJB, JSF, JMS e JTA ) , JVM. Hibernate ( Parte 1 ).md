@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, JMS e JTA ) , JVM. Hibernate ( Parte 1 ).
-
+# Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, JMS e JTA ) , JVM. Hibernate ( Parte 1 ).
 
 Índice
 
@@ -56,7 +55,6 @@ Capítulo. Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, J
 26) Java EE - JDBC - Lista de Questões.
 
 *
-
 
 JAVA EE
 
@@ -124,7 +122,6 @@ Arquitetura Java EE - apresentada na imagem abaixo:
 JEE; e atualmente é conhecido
 como Java EE.
 
-
 Database
 
 O Client System é a Camada do Cliente; Web Container é a Camada Web; o EJB
@@ -144,7 +141,6 @@ informações relevantes ao negócio e,
 diferente do que apresenta a imagem, não trata apenas do banco de dados, mas também de sistemas
 legados, processamento de
 transações de mainframe, sistemas externos, entre outros.
-
 
 aplicações são inerentemente complexas, acessando dados de diversas fontes e
 distribuindo as
@@ -175,7 +171,6 @@ Camada EIS: software roda no Servidor EIS.
 Galera, a imagem abaixo apresenta um pouco da evolução do Java EE e a tabela que
 segue
 apresenta as APIs do Java EE:
-
 
 Jbjava
 
@@ -255,7 +250,6 @@ Ease of use
 Complete
 Java EE 6
 
-
 JPE
 
 Project
@@ -264,7 +258,6 @@ EJB, JMS
 RMI/IIOP
 
 Beans 1.0
-
 
 May 1998
 
@@ -292,7 +285,6 @@ JAVA EE 6 (10/12/2009) JAVA EE 7 (12/06/2013)
 
 *
 
-
 -
 
 Java API for WebSocket
@@ -303,7 +295,6 @@ Java Servlet 3.0 Java Servlet 3.1
 JavaServer Faces (JSF) 2.0 JavaServer Faces (JSF) 2.2
 Expression Language (EL) 2.2 Expression Language (EL) 3.0
 JavaServer Pages (JSP) 2.2 JavaServer Pages (JSP) 2.3
-
 
 JavaServer Pages Standard Tag Library
 (JSTL) 1.2
@@ -316,7 +307,6 @@ Java Platform
 
 - Concurrency Utilities for
 Java EE 1.0
-
 
 Contexts and Dependency Injection for
 Java 1.0
@@ -333,7 +323,6 @@ Interceptors 1.1 Interceptors 1.2
 Java EE Connector Architecture 1.6 Java EE Connector Architecture 1.7
 Java Persistence API (JPA) 2.0 Java Persistence API (JPA) 2.1
 
-
 Common Annotations for the Java
 Platform 1.1
 
@@ -343,7 +332,6 @@ Platform 1.2
 Java Message Service API (JMS) 1.1 Java Message Service API (JMS) 2.0
 Java Transaction API (JTA) 1.1 Java Transaction API (JTA) 1.2
 JavaMail API 1.4 JavaMail API 1.5
-
 
 Java API for RESTful Web Services
 (JAX-RS) 1.1
@@ -355,7 +343,6 @@ RS) 2.0
 Services
 
 1.3
-
 
 Java API for XML-Based Web Services
 (JAX-WS) 2.2
@@ -382,7 +369,6 @@ Java APIs for XML Messaging 1.3
 
 Java API for XML Registries (JAXR) 1.0 Java API for XML Registries (JAXR) 1.0
 
-
 Java Authentication Service Provider
 Interface for Containers (JASPIC) 1.0
 Java Authorization Service Provider
@@ -392,7 +378,6 @@ Java Authentication Service Provider
 Interface for Containers (JASPIC) 1.1
 Java Authorization Service Provider
 Contract for Containers (JACC) 1.5
-
 
 Java EE Application Deployment 1.2 Java EE Application Deployment
 
@@ -404,7 +389,6 @@ J2EE Management 1.1 J2EE Management 1.1
 Languages
 
 1.0
-
 
 Java Architecture for XML Binding
 (JAXB) 2.2
@@ -468,9 +452,7 @@ Expression Language (EL)
 Standard Tag Library for JavaServer Pages (JSTL)
 Debugging Support for Other Languages
 
-
 ,
-
 
 Contexts and Dependency Injection for the Java EE Platform
 Dependency Injection for Java
@@ -502,11 +484,9 @@ SAAJ, JAX-
 RS, JAXB, JMS, JAAS, JASPIC, JACC, JCA, JavaMail, Management Specification e Deployment
 Specification - além disso, ele não oferece suporte a Arquivos EAR (apenas Arquivos WAR).
 
-
 / 235
 
 /
-
 
 Feature EJB Lite EJI
 
@@ -553,7 +533,6 @@ cada componente do Java EE para seu contêiner correspondente. Existem três tip
 básicos de
 módulo:
 
-
 MÓDULO DESCRIÇÃO
 
 EAR Também chamado Enteprise Application Archives, contém a aplicação
@@ -575,11 +554,9 @@ bibliotecas, etc.
 mudança? Para que o servidor
 possa diferenciar o que está sendo implantado.
 
-
 / 235
 
 /
-
 
 COMMON ANNOTATIONS
 
@@ -643,9 +620,7 @@ tipicamente utilizado para liberar recursos que esteja mantendo. O método em qu
 anotação
 é aplicada deve satisfazer diversos critérios.
 
-
 ,
-
 
 javax.annotation.Priority:
 
@@ -709,9 +684,7 @@ testadas de dentro de métodos das classes anotadas. Ela também pode ser utiliz
 declarar
 papéis que não estão implicitamente declarados.
 
-
 ,
-
 
 javax.annotation.sql.DataSourceDefinition:
 
@@ -747,10 +720,9 @@ quantas questões eu encontrei sobre esse assunto? Absolutamente nenhuma! Logo,
 saibam
 dosar seus níveis de atenção e estudos em cada disciplina.
 
-
 QUESTõES CoMENTADAS -JAVA EE - MULTIBANCAS
 
-Item. 1. (CESPE - 2009 - INMETRO - Analista de Sistemas) São exemplos de tipos de componentes de
+1. (CESPE - 2009 - INMETRO - Analista de Sistemas) São exemplos de tipos de componentes de
 software reusáveis desenvolvidos na plataforma JEE: JSP (Java Server Page); biblioteca de tags;
 Servlet; EJB. O grau de reúso provido por esses componentes, EJBs e JSPs, é usualmente
 superior a bibliotecas de TAG.
@@ -765,7 +737,7 @@ características de uma biblioteca: sua reusabilidade! Logo, isso não faz
 sentido! Bibliotecas de
 Tags são mais reusáveis. Gabarito: E
 
-Item. 2. (CESPE - 2005 - SERPRO - Analista de Sistemas) A tecnologia Enterprise JavaBeans (EJB) é uma
+2. (CESPE - 2005 - SERPRO - Analista de Sistemas) A tecnologia Enterprise JavaBeans (EJB) é uma
 arquitetura de componentes do tipo cliente que atua na plataforma J2EE.
 
 Comentários:
@@ -776,12 +748,11 @@ JAVA EE 6 (10/12/2009) JAVA EE 7 (12/06/2013)
 
 Enterprise JavaBeans (EJB) 3.1 Enterprise JavaBeans (EJB) 3.2
 
-
 Conforme vimos em aula, Enterprise Java Bean (EJB) não é uma arquitetura, é um
 componente da
 Arquitetura J2EE. Além disso, é do tipo Servidor (veja a imagem acima). Gabarito: E
 
-Item. 3. (CESPE - 2010 - TCU - Auditor Federal de Controle Externo) A web profile da plataforma JEE
+3. (CESPE - 2010 - TCU - Auditor Federal de Controle Externo) A web profile da plataforma JEE
 apresenta, em relação ao perfil application server definido em edições anteriores da plataforma
 Java, as seguintes vantagens: fornece suporte para POJOs (Plain Old Java
 Objects) e
@@ -812,7 +783,7 @@ conta do JAX-RS, no entanto o Full Profile também é (inclusive é aderente ao 
 também).
 Logo, a questão está errada desde o início. Gabarito: E
 
-Item. 4. (CESPE - 2010 - TRE/MT - Analista Judiciário - Tecnologia da Informação - A) Clientes J2EE são
+4. (CESPE - 2010 - TRE/MT - Analista Judiciário - Tecnologia da Informação - A) Clientes J2EE são
 necessariamente páqinas web dinâmicas que normalmente não fazem acessos a banco de dados,
 nem executam regras de negócio complexas.
 
@@ -820,11 +791,9 @@ Comentários:
 
 Database
 
-
 / 235
 
 /
-
 
 Conforme vimos em aula, os clientes Java EE não são necessariamente Páginas Web
 Dinâmicas
@@ -832,7 +801,7 @@ Dinâmicas
 Gabarito:
 E
 
-Item. 5. (CESPE - 2010 - TRE/MT - Analista Judiciário - Tecnologia da Informação - D) Um componente
+5. (CESPE - 2010 - TRE/MT - Analista Judiciário - Tecnologia da Informação - D) Um componente
 J2EE é uma unidade funcional de software autocontida, escrito na linguagem de programação
 Java e executado exclusivamente em servidores.
 
@@ -850,22 +819,20 @@ exclusivamente em servidores, podem ser executados no cliente (conforme imagem
 acima).
 Gabarito: E
 
-Item. 6. (CESPE - 2011 - PREVIC - Analista de Sistemas) Em uma aplicação multicamadas na plataforma
+6. (CESPE - 2011 - PREVIC - Analista de Sistemas) Em uma aplicação multicamadas na plataforma
 Java EE, servlets, JavaServer Faces e JSP consistem em tecnologias utilizadas na camada web.
 
 Comentários:
-
 
 / 235
 
 /
 
-
 Data base
 
 Conforme vimos em aula, a Camada Web é composta por JSP, JSF e Servlets. Gabarito: C
 
-Item. 7. (ESAF - 2012 - CGU - Analista de Finanças e Controle) Os níveis da plataforma J2EE são:
+7. (ESAF - 2012 - CGU - Analista de Finanças e Controle) Os níveis da plataforma J2EE são:
 
 a) Patrocinador. Web. Negócios. Sistemas de Computação Corporativos.
 
@@ -888,7 +855,7 @@ Conforme vimos em aula, os níveis são: Cliente, Web, Negócios e Sistemas de
 Informação
 Corporativos (EIS). Gabarito: B
 
-Item. 8. (CESGRANRIO - 2008 - BNDES - Analista de Sistemas) Uma aplicação empresarial
+8. (CESGRANRIO - 2008 - BNDES - Analista de Sistemas) Uma aplicação empresarial
 contendo
 componentes EJB e módulos web deverá ser publicada em um servidor de aplicações compatível
 com J2EE. No contexto do empacotamento dessa aplicação para publicação (deploy), é correto
@@ -898,11 +865,9 @@ a) não há como juntar componentes EJB e módulos web em uma mesma aplicação,
 pois
 deverão ser publicados separadamente.
 
-
 / 235
 
 /
-
 
 b) um arquivo EAR poderá conter arquivos WAR e JAR representativos dos módulos web e
 EJB.
@@ -934,7 +899,7 @@ faz nenhum sentido; e a última opção está errada porque arquivo JAR
 pode empacotar
 componentes EJB, Cliente e Applet. Gabarito: B
 
-Item. 9. (FCC - 2011 - TRT/19 - Analista de Sistemas) A especificação Java EE define os
+9. (FCC - 2011 - TRT/19 - Analista de Sistemas) A especificação Java EE define os
 seguintes
 componentes:
 
@@ -958,11 +923,9 @@ e) cliente, servidor, cliente.
 
 Comentários:
 
-
 / 235
 
 /
-
 
 Database
 
@@ -1002,11 +965,9 @@ Hibernate não é integrante do J2EE?". Galera, o Hibernate é um framework que
 implementa a
 especificação JPA. Logo, ele não faz parte do J2EE ou Java EE. Beleza? Gabarito: B
 
-
 / 235
 
 /
-
 
 11.(FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da
 Informação) O
@@ -1044,11 +1005,9 @@ e) Beans, Swing e JVM.
 
 Comentários:
 
-
 / 235
 
 /
-
 
 Database
 
@@ -1056,7 +1015,7 @@ Conforme vimos em aula, JSP e Servlets são fáceis! E os beans? Pois é,
 excepcionalmente eles
 podem ser executados em Servidores Web (Contêiner Web). Gabarito: C
 
-Item. 13. (FCC - 2014 - TRT/2 - Analista de Sistemas) Um contêiner Java EE pode oferecer serviços como
+13. (FCC - 2014 - TRT/2 - Analista de Sistemas) Um contêiner Java EE pode oferecer serviços como
 gestão de memória, ciclo de vida e estado de objetos, conexões, transações, serviços de nomes,
 segurança, tolerância a falhas, integração, clustering, alta disponibilidade, confiabilidade e web
 services. Um servidor Java EE completo disponibiliza dois tipos principais de contêiner, que são:
@@ -1077,13 +1036,11 @@ Database
 
 Conforme vimos em aula, disponibiliza o Contêiner Web e Contêiner EJB! Gabarito: C
 
-Item. 14. (FCC - 2012 - TJ/PE - Analista de Sistemas) Sobre a plataforma Java EE 6, é correto afirmar:
-
+14. (FCC - 2012 - TJ/PE - Analista de Sistemas) Sobre a plataforma Java EE 6, é correto afirmar:
 
 / 235
 
 /
-
 
 a) Simplifica a implantação sem a necessidade de descritores de implantação, com
 exceção do
@@ -1122,42 +1079,40 @@ transação, segurança, etc;
 
 (e) Essa ele entregou! Anotações são marcados com @. Gabarito: A
 
-
 / 235
 
 /
 
-
 LISTA DE QUESTõES-JAVA EE - MULTIBANCAS
 
-Item. 1. (CESPE - 2009 - INMETRO - Analista de Sistemas) São exemplos de tipos de componentes de
+1. (CESPE - 2009 - INMETRO - Analista de Sistemas) São exemplos de tipos de componentes de
 software reusáveis desenvolvidos na plataforma JEE: JSP (Java Server Page); biblioteca de tags;
 Servlet; EJB. O grau de reúso provido por esses componentes, EJBs e JSPs, é usualmente
 superior a bibliotecas de TAG.
 
-Item. 2. (CESPE - 2005 - SERPRO - Analista de Sistemas) A tecnologia Enterprise JavaBeans (EJB) é uma
+2. (CESPE - 2005 - SERPRO - Analista de Sistemas) A tecnologia Enterprise JavaBeans (EJB) é uma
 arquitetura de componentes do tipo cliente que atua na plataforma J2EE.
 
-Item. 3. (CESPE - 2010 - TCU - Auditor Federal de Controle Externo) A web profile da plataforma JEE
+3. (CESPE - 2010 - TCU - Auditor Federal de Controle Externo) A web profile da plataforma JEE
 apresenta, em relação ao perfil application server definido em edições anteriores da plataforma
 Java, as seguintes vantagens: fornece suporte para POJOs (Plain Old Java
 Objects) e
 Annotations; possui modelo de empacotamento de componentes mais simples; a configuração
 dos seus descritores XML (extensible markup language) é mais fácil; é aderente ao padrão SOA.
 
-Item. 4. (CESPE - 2010 - TRE/MT - Analista Judiciário - Tecnologia da Informação - A) Clientes J2EE são
+4. (CESPE - 2010 - TRE/MT - Analista Judiciário - Tecnologia da Informação - A) Clientes J2EE são
 necessariamente páginas web dinâmicas que normalmente não fazem acessos a banco de dados,
 nem executam regras de negócio complexas.
 
-Item. 5. (CESPE - 2010-TRE/MT -Analista Judiciário-Tecnologia da Informação - D) Um
+5. (CESPE - 2010-TRE/MT -Analista Judiciário-Tecnologia da Informação - D) Um
 componente
 J2EE é uma unidade funcional de software autocontida, escrito na linguagem de programação
 Java e executado exclusivamente em servidores.
 
-Item. 6. (CESPE - 2011 - PREVIC - Analista de Sistemas) Em uma aplicação multicamadas na plataforma
+6. (CESPE - 2011 - PREVIC - Analista de Sistemas) Em uma aplicação multicamadas na plataforma
 Java EE, servlets, JavaServer Faces e JSP consistem em tecnologias utilizadas na camada web.
 
-Item. 7. (ESAF - 2012 - CGU - Analista de Finanças e Controle) Os níveis da plataforma J2EE são:
+7. (ESAF - 2012 - CGU - Analista de Finanças e Controle) Os níveis da plataforma J2EE são:
 
 a) Patrocinador. Web. Negócios. Sistemas de Computação Corporativos.
 
@@ -1169,13 +1124,11 @@ d) Fornecedor. Web. Político. Sistemas de Informação Camada.
 
 e) Cliente. Stakeholders. Negócios. Background corporativo.
 
-
 / 235
 
 /
 
-
-Item. 8. (CESGRANRIO - 2008 - BNDES - Analista de Sistemas) Uma aplicação empresarial
+8. (CESGRANRIO - 2008 - BNDES - Analista de Sistemas) Uma aplicação empresarial
 contendo
 componentes EJB e módulos web deverá ser publicada em um servidor de aplicações compatível
 com J2EE. No contexto do empacotamento dessa aplicação para publicação (deploy), é correto
@@ -1196,7 +1149,7 @@ d) módulos web não devem ser empacotados, pois isso inviabiliza seu acesso pel
 
 e) arquivos JAR servem apenas para empacotar componentes EJB.
 
-Item. 9. (FCC - 2011 - TRT/19 - Analista de Sistemas) A especificação Java EE define os
+9. (FCC - 2011 - TRT/19 - Analista de Sistemas) A especificação Java EE define os
 seguintes
 componentes:
 
@@ -1218,7 +1171,7 @@ d) servidor, cliente, cliente.
 
 e) cliente, servidor, cliente.
 
-Item. 10. (FCC - 2011 - TRT - 1a REGIÃO (RJ) - Analista Judiciário - Tecnologia da Informação) J2EE é
+10. (FCC - 2011 - TRT - 1a REGIÃO (RJ) - Analista Judiciário - Tecnologia da Informação) J2EE é
 uma
 plataforma de programação para servidores na linguagem de programação Java, que integra
 uma série de especificações e containers, cada uma com funcionalidades distintas. Nesse
@@ -1234,8 +1187,7 @@ d) JDBC, Hibernate e JPA.
 
 e) JSP, JSF e Eclipse.
 
-
-Item. 11. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da
+11. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da
 Informação) O
 Contêiner J2EE que fornece aos desenvolvedores o ambiente para rodar Java Server Pages
 (JSPs) e servlets é:
@@ -1250,7 +1202,7 @@ d) do cliente do aplicativo (Application client container).
 
 e) Web (Web container).
 
-Item. 12. (FCC - 2010 - TCE-SP - Agente da Fiscalização Financeira - Informática - Suporte de Web) São
+12. (FCC - 2010 - TCE-SP - Agente da Fiscalização Financeira - Informática - Suporte de Web) São
 apenas tipos de componentes executados em servidores Web:
 
 a) Beans, Servlets e J2EE.
@@ -1263,7 +1215,7 @@ d) Beans, Swing e JSP.
 
 e) Beans, Swing e JVM.
 
-Item. 13. (FCC - 2014 - TRT/2 - Analista de Sistemas) Um contêiner Java EE pode oferecer serviços como
+13. (FCC - 2014 - TRT/2 - Analista de Sistemas) Um contêiner Java EE pode oferecer serviços como
 gestão de memória, ciclo de vida e estado de objetos, conexões, transações, serviços de nomes,
 segurança, tolerância a falhas, integração, clustering, alta disponibilidade, confiabilidade e web
 services. Um servidor Java EE completo disponibiliza dois tipos principais de contêiner, que são:
@@ -1278,7 +1230,7 @@ d) Servlet Container e JSP Container.
 
 e) Application Client Container e Web Container.
 
-Item. 14. (FCC - 2012 - TJ/PE - Analista de Sistemas) Sobre a plataforma Java EE 6, é correto afirmar:
+14. (FCC - 2012 - TJ/PE - Analista de Sistemas) Sobre a plataforma Java EE 6, é correto afirmar:
 
 a) Simplifica a implantação sem a necessidade de descritores de implantação, com
 exceção do
@@ -1288,9 +1240,7 @@ b) Necessita do descritor de implantação ejb-jar.xml e entradas relacionadas a
 services
 no arquivo web.xml.
 
-
 ,
-
 
 c) Faz uso de anotações (annotations). Anotações são modificadores Java, semelhantes aos
 públicos e privados, que devem ser especificados nos arquivos de configuração XML.
@@ -1301,33 +1251,29 @@ apenas para o tipo bean.
 
 e) Anotações são marcados com um caracter # (cerquilha).
 
-
 / 235
 
 /
-
 
 GABARITo
 
 GABARITO
 
-Item. 1. E 6. C
-Item. 11. E
+1. E 6. C
+11. E
 
-Item. 2. E 7. B
-Item. 12. C
+2. E 7. B
+12. C
 
-Item. 3. E 8. B
-Item. 13. C
+3. E 8. B
+13. C
 
-Item. 4. E 9. C
-Item. 14. A
+4. E 9. C
+14. A
 
-Item. 5. E 10. B
-
+5. E 10. B
 
 /
-
 
 JAVA SERVER PAGES (JSP)
 
@@ -1394,11 +1340,9 @@ Arquivo: HelloWorld.jsp (No MVC, em geral, é utilizada como Visão)
 
 </title>
 
-
 / 235
 
 /
-
 
 </head>
 
@@ -1466,11 +1410,9 @@ que foi criada a Tecnologia JSP.
 
 x'"'
 
-
 / 235
 
 /
-
 
 Um grande benefício dessa tecnologia é a integração com HTML! Galera, HTML é uma
 linguagem
@@ -1529,9 +1471,7 @@ instanciados explicitamente. No JSP, existem nove: request, response, pageContex
 application,
 out, config, page, session e exception. Em seguida, veremos a sintaxe da linguagem!
 
-
 ,
-
 
 PROVA!
 
@@ -1570,7 +1510,6 @@ métodos
 para uso subsequente em expressões ou scriptlets. Alguns alunos me perguntam como eu
 decoro
 isso! Bem, uma declaração declara! Declara o quê? Variáveis! Como? Com ponto de exclamação.
-
 
 Quando eu gosto de enfatizar uma declaração, eu uso um ponto de exclamação!
 No JSP, é
@@ -1630,7 +1569,6 @@ vindo!".
 
 3 Apesar disso, hoje em dia, é considerado má prática utilizar Scriptlets em Páginas JSP.
 
-
 Vocês se lembram que eu falei que expressões são similares a scriptlets? Pois é, a
 expressão <%
 expressão %> equivale a out.println(expressão), visto que o valor da expressão é
@@ -1677,7 +1615,6 @@ ou Página JSP. Esse também é tranquilo de decorar, porque é o único que uti
 sigla jsp.
 Professor, você pode dar um exemplo de Ação JSP? Claro, meu querido! Temos vinte delas:
 
-
 JSP:USEBEAN jsp:param jsp:invoque
 
 JSP:SETPRoPERTY jsp:fallback jsp:doBody
@@ -1697,11 +1634,9 @@ jsp:expression
 visualmente com a ajuda de uma
 ferramenta de desenvolvimento.
 
-
 / 235
 
 /
-
 
 Essas ações ajudam a controlar o comportamento da Engine da Servlet. As ações mais
 famosas e
@@ -1745,7 +1680,6 @@ ATRIBUTO PROPÓSITO
 5 Ele ajuda a localizar a instanciar Componentes JavaBean. Dessa forma, não é
 necessário instanciar explicitamente
 um objeto da classe para acessar seus métodos.
-
 
 buffer Especifica o modelo de buffering da saída padrão.
 
@@ -1793,7 +1727,6 @@ taglib - estende o conjunto de tags através de uma biblioteca de tags.
 
 COMPONENTES EM INGLÊS SINTAXE
 
-
 Declarações Declarations
 
 Expressões Expressions
@@ -1806,9 +1739,7 @@ Scriptlets Scriptlets
 
 <% Scriptlet %>
 
-
 ,
-
 
 Comentários Comments
 
@@ -1880,7 +1811,6 @@ ${Lista["1"]} // É exatamente igual ao anterior
 da linguagem de expressão
 oferecida pelo JSP 2.0 e a criada linguagem de expressão criada para o JSF.
 
-
 ${Lista[ "Carro"]}
 
 ${Lista.Carro} // É exatamente igual ao anterior
@@ -1913,13 +1843,11 @@ realiza a função deve ser o mesmo nome da própria função? Não é obrigató
 função pode se
 chamar Multiplica e o método que a realiza se chamar Divida - sem nenhum problema.
 
-
 ,
-
 
 QUESTõES CoMENTADAS - JSP - CEBRASPE
 
-Item. 1. (CESPE - 2013 - CNJ - Analista de Sistemas) Como forma de incluir dinamismo em
+1. (CESPE - 2013 - CNJ - Analista de Sistemas) Como forma de incluir dinamismo em
 páginas
 JSP, é possível incluir blocos de código Java conhecidos como scriptlets.
 
@@ -1935,7 +1863,7 @@ não possui nada após o sinal de porcentagem.
 
 Conforme vimos em aula, trata-se dos Scriplets. Gabarito: C
 
-Item. 2. (CESPE - 2011 - PREVIC - Analista de Sistemas) O container JSP provê uma lista
+2. (CESPE - 2011 - PREVIC - Analista de Sistemas) O container JSP provê uma lista
 de objetos
 instanciados, chamados de objetos implícitos. É através do objeto aplicação (application
 object) que são rastreadas as informações de um cliente específico entre múltiplas requisições.
@@ -1956,9 +1884,7 @@ para execução da página.
 application Objeto do tipo ServIetContext que permite compartilhar
 informações entre todos os componentes web da aplicação.
 
-
 ,
-
 
 out Objeto da classe JspWriter que permite imprimir para o
 response através do método println.
@@ -1978,7 +1904,7 @@ Galera, olhem para as duas definições acima! A questão está se referindo ao 
 Application
 ou Session? Evidente que é o Session! Gabarito: E
 
-Item. 3. (CESPE - 2013 - TRT/10 - Analista de Sistemas) Nas páginas JSP, combinam-se
+3. (CESPE - 2013 - TRT/10 - Analista de Sistemas) Nas páginas JSP, combinam-se
 modelos
 estáticos, incluindo fragmentos de HTML ou XML, com o código para gerar conteúdo dinâmico
 e compilar páginas JSP dinamicamente em servlets, quando solicitado.
@@ -1995,18 +1921,16 @@ customizadas, que definem como a página construirá conteúdo dinâmico.
 
 Conforme vimos em aula, combina estático e dinâmico, compilando em servlets. Gabarito: C
 
-Item. 4. (CESPE - 2013 - TRT/10 - Analista de Sistemas) O JSP, cuja base é a
+4. (CESPE - 2013 - TRT/10 - Analista de Sistemas) O JSP, cuja base é a
 linguagem de
 programação Java, tem portabilidade de plataforma, o que o permite ser executado em
 diversos sistemas operacionais, como o Windows e o Linux.
 
 Comentários:
 
-
 / 235
 
 /
-
 
 Primeiro, o que é JSP? É uma tecnologia da plataforma Java Enterprise Edition (Java
 EE) que
@@ -2022,7 +1946,7 @@ ser executada em qualquer sistema operacional que possua uma Java Virtual
 Machine (JVM).
 Gabarito: C
 
-Item. 5. (CESPE - 2013 - TRT/10 - Analista de Sistemas) Para usar o JSP com Java embutido e algumas
+5. (CESPE - 2013 - TRT/10 - Analista de Sistemas) Para usar o JSP com Java embutido e algumas
 tags de marcação complexas, o programador tem de conhecer a fundo as complexidades do
 desenvolvimento de aplicações.
 
@@ -2038,7 +1962,7 @@ bem JSP e, não, os meandros de todo desenvolvimento de aplicações. Não faz s
 dizer que
 ele precisa conhecer a fundo as complexidades do desenvolvimento de aplicações. Gabarito: E
 
-Item. 6. (CESPE - 2013 - SERPRO - Analista - Suporte Técnico) Um scriptlet na tecnologia
+6. (CESPE - 2013 - SERPRO - Analista - Suporte Técnico) Um scriptlet na tecnologia
 JSP (Java
 server pages) abrange todo o código entre "<#" e
 
@@ -2055,9 +1979,7 @@ Scriptlets Scriptlets <% Scriptlet
 
 Comentários Comments <%- Comentário -%>
 
-
 ,
-
 
 Ações Action s <jsp: Ação
 />
@@ -2067,7 +1989,7 @@ Diretivas Directives <%@ Diretiva
 
 Conforme vimos em aula, scriplets vem entre "<%" e Gabarito: E
 
-Item. 7. (CESPE - 2011 - CBM-DF - Oficial Bombeiro Militar Complementar - Informática) O
+7. (CESPE - 2011 - CBM-DF - Oficial Bombeiro Militar Complementar - Informática) O
 uso de
 Javabeans, o controle de transferência entre as páginas e o suporte independente de
 applets
@@ -2101,7 +2023,7 @@ Conforme vimos em aula, temos: jsp:useBean (para uso de javabeans); jsp:forward 
 controle
 de transferência entre páginas); e jsp:plugin (para suporte a applets). Gabarito: C
 
-Item. 8. (CESPE - 2011 - PREVIC - Analista de Tecnologia da Informação) Em
+8. (CESPE - 2011 - PREVIC - Analista de Tecnologia da Informação) Em
 uma aplicação
 multicamadas na plataforma Java EE, servlets, JavaServer Faces e JSP consistem
 em
@@ -2109,9 +2031,7 @@ tecnologias utilizadas na camada web.
 
 Comentários:
 
-
 ,
-
 
 Galera, todos eles são da Camada Web! A fonte oficial diz: "Java Servlet, JavaServer
 Faces, and
@@ -2120,7 +2040,6 @@ the server",
 conforme podemos ver na imagem abaixo:
 
 Java EE Application 1 Java EE Application 2
-
 
 Application
 Client
@@ -2137,7 +2056,6 @@ Machine
 _ Java EE
 Server
 
-
 EIS Tier
 
 _ Database
@@ -2145,7 +2063,7 @@ Server
 
 Gabarito: C
 
-Item. 9. (CESPE - 2017 - TRE/BA - Analista de Sistemas) A respeito da JSP (JavaServer Pages), assinale
+9. (CESPE - 2017 - TRE/BA - Analista de Sistemas) A respeito da JSP (JavaServer Pages), assinale
 a opção correta.
 
 a) As páginas JSP compiladas não precisam ser executadas em uma máquina virtual Java (JVM).
@@ -2181,11 +2099,9 @@ sendo o
 oferece
 x'
 
-
 / 235
 
 /
-
 
 oportunidade de dar dinâmica ao permitir que o valor seja um bean e que se possa
 utilizar a
@@ -2194,10 +2110,9 @@ ele serve;
 
 (e) Errado, há necessidade de ser transformada em uma Servlet. Gabarito: C
 
-
 QUESTõES CoMENTADAS - JSP - MULTIBANCAS
 
-Item. 1. (FCC - 2012 - TRE-SP - Técnico Judiciário - Programação de Sistemas) As tags
+1. (FCC - 2012 - TRE-SP - Técnico Judiciário - Programação de Sistemas) As tags
 utilizadas em
 uma página JSP para importar classes de um pacote, habilitar o uso de bibliotecas de
 classes
@@ -2229,7 +2144,7 @@ de bibliotecas de tags.
 
 Conforme vimos em aula, trata-se das Diretivas. Gabarito: A
 
-Item. 2. (FCC - 2009 - PGE-RJ - Técnico Superior de Análise de Sistemas e Métodos) Blocos
+2. (FCC - 2009 - PGE-RJ - Técnico Superior de Análise de Sistemas e Métodos) Blocos
 ou trechos
 de operações em código Java podem ser incluídos em uma página JSP por meio de:
 
@@ -2245,9 +2160,7 @@ e) scriptlet.
 
 Comentários:
 
-
 ,
-
 
 Scriplets são importantíssimos e, de todos, é facilmente o que mais cai em prova!
 Trata-se de
@@ -2259,7 +2172,7 @@ que não possui nada após o sinal de porcentagem.
 
 Conforme vimos em aula, trata-se das Scriplets. Gabarito: E
 
-Item. 3. (FCC - 2010 - TRT - 20a REGIÃO (SE) - Técnico Judiciário - Tecnologia da
+3. (FCC - 2010 - TRT - 20a REGIÃO (SE) - Técnico Judiciário - Tecnologia da
 Informação) Na
 diretiva page, do JSP, podemos utilizar o atributo import que permite:
 
@@ -2288,11 +2201,9 @@ Import Especifica uma lista de pacotes ou classes importadas.
 Info Define uma string que pode ser acessada para informações.
 isThreadSafe Define se a servlet é capaz de atender múltiplas solicitações.
 
-
 / 235
 
 /
-
 
 language Define a linguagem de programação utilizada.
 
@@ -2304,7 +2215,7 @@ Conforme vimos em aula, ele especifica uma lista de pacotes ou classes importada
 
 Gabarito: E
 
-Item. 4. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação) Em JSP,
+4. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação) Em JSP,
 a diretiva taglib define:
 
 a) uma biblioteca de tags para serem usadas na página.
@@ -2329,13 +2240,11 @@ Conforme vimos em aula, a Diretiva Taglib estende o conjunto de tags através de
 biblioteca
 de tags, similar ao que diz a primeira opção. Gabarito: A
 
-
 / 235
 
 /
 
-
-Item. 5. (FCC - 2008 - MPE-RS - Técnico em Informática - Área Sistemas) Para incluir
+5. (FCC - 2008 - MPE-RS - Técnico em Informática - Área Sistemas) Para incluir
 blocos de código
 Java em uma página JSP utiliza-se a categoria de tags denominada:
 
@@ -2361,7 +2270,7 @@ que não possui nada após o sinal de porcentagem.
 
 Conforme vimos em aula, trata-se dos Scriplets. Gabarito: D
 
-Item. 6. (FCC - 2010 - METRÔ-SP - Analista - Tecnologia da Informação) Na diretiva page,
+6. (FCC - 2010 - METRÔ-SP - Analista - Tecnologia da Informação) Na diretiva page,
 do JSP,
 utiliza-se o atributo import, que permite:
 
@@ -2380,7 +2289,6 @@ Comentários:
 ATRIBUTO PROPÓSITO
 
 buffer Especifica o modelo de buffering da saída padrão.
-
 
 autoFIush Controla o comportamento da saída padrão da Servlet.
 contentType Define a codificação de caracteres e media type (MIME)
@@ -2401,7 +2309,7 @@ isScriptingEnabled Determina se elementos de script são permitidos.
 Conforme vimos em aula, ele especifica uma lista de pacotes ou classes importadas.
 Gabarito: C
 
-Item. 7. (FCC - 2012 - TRE-SP - Técnico Judiciário - Programação de Sistemas) No JavaServer Pages a
+7. (FCC - 2012 - TRE-SP - Técnico Judiciário - Programação de Sistemas) No JavaServer Pages a
 tag <%=conteúdo %> é uma:
 
 a) Declaration tag.
@@ -2416,9 +2324,7 @@ e) Expression tag.
 
 Comentários:
 
-
 ,
-
 
 COMPONENTES EM INGLÊS SINTAXE
 
@@ -2441,7 +2347,7 @@ Diretivas Directives <%@ Diretiva
 
 Conforme vimos em aula, trata-se da Tag Expression! Gabarito: E
 
-Item. 8. (FCC - 2011 - TRE/AP - Analista de Sistemas - A) Em JSP o conceito de classes
+8. (FCC - 2011 - TRE/AP - Analista de Sistemas - A) Em JSP o conceito de classes
 e objetos não
 leva em conta os princípios de proteção de dados tanto nas propriedades quanto nos métodos.
 
@@ -2457,7 +2363,7 @@ todos os seus recursos, tais como modificadores de acesso, tratamento de exceç�
 
 Conforme vimos em aula, leva - sim - em consideração. Gabarito: E
 
-Item. 9. (FCC - 2011 - TRE/AP - Analista de Sistemas - C) Em JSP pode-se chamar o
+9. (FCC - 2011 - TRE/AP - Analista de Sistemas - C) Em JSP pode-se chamar o
 construtor do
 objeto pai em qualquer parte do código e não há tratamento de exceções
 nos métodos
@@ -2471,11 +2377,9 @@ permite utilizar ou o código Java dentro das páginas web ou tags que realizam 
 lógica. Por ser
 x'
 
-
 / 235
 
 /
-
 
 tecnologia Java, seus objetos são definidos segundo define a linguagem, i.e.,
 podendo utilizar
@@ -2528,11 +2432,9 @@ nome da função coincida com o nome do método da classe Java.
 
 Comentários:
 
-
 / 235
 
 /
-
 
 Por fim, devemos utilizar a Diretiva Taglib para importar a Biblioteca de Tags
 personalizada que
@@ -2586,11 +2488,9 @@ declaração de atributos ou métodos, utilizam-se as tags:
 
 a) <% %>
 
-
 / 235
 
 /
-
 
 b) <%! %>
 
@@ -2623,7 +2523,7 @@ Diretivas Directives <%@ Diretiva
 
 Declarações lembra...? Ponto de Exclamação! Gabarito: B
 
-Item. 14. (FCC - 2012 - TST - Analista de Sistemas) Páginas JavaServer Pages são páginas web:
+14. (FCC - 2012 - TST - Analista de Sistemas) Páginas JavaServer Pages são páginas web:
 
 a) que permitem combinar códigos Java, HTML estático, CSS, XML e JavaScript.
 
@@ -2636,7 +2536,6 @@ d) Transformadas em bytecode e executadas no cliente.
 e) Combinadas com servlets no desenvolvimento exclusivo de páginas estáticas.
 
 Comentários:
-
 
 Galera, trata-se de uma tecnologia para geração de documentos baseados em texto e
 executados
@@ -2668,7 +2567,6 @@ c) Exception.
 
 d) Application.
 
-
 e) pageContext.
 
 Comentários:
@@ -2684,7 +2582,6 @@ que vai ser enviada ao cliente. Não é usado com frequência.
 
 pageContext Objeto do tipo PageContext e contém informações de contexto
 para execução da página.
-
 
 application Objeto do tipo ServIetContext que permite
 compartilhar
@@ -2709,7 +2606,7 @@ Observem que todos eles manipulam informações (atributos arbitrários),
 exceto o Objeto
 Exception, que apenas retorna erros. Gabarito: C
 
-Item. 16. (FCC - 2007 - TRF/4 - Analista de Sistemas) Uma ferramenta usada especificamente
+16. (FCC - 2007 - TRF/4 - Analista de Sistemas) Uma ferramenta usada especificamente
 para gerar
 páginas dinâmicas de HTML, baseada em programação Java, é:
 
@@ -2733,11 +2630,9 @@ conjunto de dados estáticos (Ex: HTML e XML); ou pode ser um conjunto de elemen
 JSP e tags
 customizadas, que definem como a página construirá conteúdo dinâmico.
 
-
 / 235
 
 /
-
 
 Sabe aquelas questões que você não pode errar de tão fácil? Ei-la! Gabarito: E
 
@@ -2780,9 +2675,7 @@ e) <jsp:newlnstance id="cliente" class= "dados.Cliente"/>
 
 Comentários:
 
-
 ,
-
 
 JSP:USEBEAN jsp:param jsprinvoque
 jsp:output
@@ -2832,9 +2725,7 @@ II. uri="caminho/nome_do_arquivo"%>.
 
 d) I. JSF, <%@page
 
-
 ,
-
 
 II. import="caminho/nome_do_arquivo%>.
 
@@ -2880,7 +2771,6 @@ Comentários:
 
 ATRIBUTO PROPÓSITO
 
-
 buffer Especifica o modelo de buffering da saída padrão.
 
 autoFlush Controla o comportamento da saída padrão da Servlet.
@@ -2919,7 +2809,6 @@ b) Import.
 
 c) isThreadSafe.
 
-
 d) Session.
 
 e) AutoFIush.
@@ -2952,11 +2841,9 @@ deve ser gerada, será definida na diretiva page do JSP por meio do atributo:
 
 a) info.
 
-
 / 235
 
 /
-
 
 b) extends.
 
@@ -2990,7 +2877,6 @@ isScriptingEnabled Determina se elementos de script são permitidos.
 Conforme vimos em aula, trata-se do Atributo Extends.
 
 Gabarito: B
-
 
 22.(FGV - 2008 - Senado Federal - Analista de Sistemas) No contexto do Desenvolvimento
 WEB
@@ -3045,11 +2931,9 @@ separa a
 lógica do conteúdo da sua apresentação. Páginas JSP são compiladas em
 Servlets e podem
 
-
 / 235
 
 /
-
 
 chamar beans a fim de executar o processamento no servidor. Espera, professor! Como
 assim são
@@ -3105,11 +2989,9 @@ em Servlets?
 
 Conforme vimos em aula, Páginas JSP são compiladas em Servlets. Gabarito: A
 
-
 / 235
 
 /
-
 
 24.(NCE - 2005 - BNDES - Analista de Sistemas) Considere as seguintes afirmativas sobre JSP e
 Servlets:
@@ -3148,9 +3030,7 @@ isErrorPage Indica se a Página JSP possui URL de outra página.
 
 Extends Especifica uma superclasse a ser estendida pela servlet.
 
-
 ,
-
 
 Import Especifica uma lista de pacotes ou classes importadas.
 
@@ -3196,11 +3076,9 @@ Gabarito: B
 
 x'
 
-
 / 235
 
 /
-
 
 25.(CESGRANRIO - 2012 - CEF-Analista de Sistemas) Um objeto implícito é utilizado dentro de
 páginas JSP sem que haja necessidade de declará-lo. Que objeto é esse?
@@ -3241,9 +3119,7 @@ config Objeto do tipo ServIetConfig da página JSP.
 page Sinônimo do operador "this" do objeto HttpJspPage. Não é
 usado com frequência.
 
-
 ,
-
 
 session Objeto do tipo HttpSession que guarda informações da sessão
 de um usuário específico entre múltiplas requisições.
@@ -3288,11 +3164,9 @@ Conforme vimos em aula, trata-se do JSP! Gabarito: B
 JSP interrompe o processamento das requisições pela página corrente e as direciona para
 outro componente Web?
 
-
 / 235
 
 /
-
 
 a) <jsp:invoke>
 
@@ -3342,11 +3216,9 @@ d) Diretiva Page.
 
 e) Diretiva taglib.
 
-
 / 235
 
 /
-
 
 Comentários:
 
@@ -3372,54 +3244,51 @@ conhecidas são: (...)
 
 Conforme vimos em aula, trata-se da Ação jsp:include. Gabarito: B
 
-
 QQ SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital)
 
-
 LISTA DE QUESTõES - JSP - CEBRASPE
 
-Item. 1. (CESPE - 2013 - CNJ - Analista de Sistemas) Como forma de incluir dinamismo em
+1. (CESPE - 2013 - CNJ - Analista de Sistemas) Como forma de incluir dinamismo em
 páginas
 JSP, é possível incluir blocos de código Java conhecidos como scriptlets.
 
-Item. 2. (CESPE - 2011 - PREVIC - Analista de Sistemas) O container JSP provê uma lista
+2. (CESPE - 2011 - PREVIC - Analista de Sistemas) O container JSP provê uma lista
 de objetos
 instanciados, chamados de objetos implícitos. É através do objeto aplicação (application
 object) que são rastreadas as informações de um cliente específico entre múltiplas requisições.
 
-Item. 3. (CESPE - 2013 - TRT/10 - Analista de Sistemas) Nas páginas JSP, combinam-se
+3. (CESPE - 2013 - TRT/10 - Analista de Sistemas) Nas páginas JSP, combinam-se
 modelos
 estáticos, incluindo fragmentos de HTML ou XML, com o código para gerar conteúdo dinâmico
 e compilar páginas JSP dinamicamente em servlets, quando solicitado.
 
-Item. 4. (CESPE - 2013 - TRT/10 - Analista de Sistemas) O JSP, cuja base é a
+4. (CESPE - 2013 - TRT/10 - Analista de Sistemas) O JSP, cuja base é a
 linguagem de
 programação Java, tem portabilidade de plataforma, o que o permite ser executado em
 diversos sistemas operacionais, como o Windows e o Linux.
 
-Item. 5. (CESPE - 2013 - TRT/10 - Analista de Sistemas) Para usar o JSP com Java embutido e algumas
+5. (CESPE - 2013 - TRT/10 - Analista de Sistemas) Para usar o JSP com Java embutido e algumas
 tags de marcação complexas, o programador tem de conhecer a fundo as complexidades do
 desenvolvimento de aplicações.
 
-Item. 6. (CESPE - 2013 - SERPRO - Analista - Suporte Técnico) Um scriptlet na tecnologia
+6. (CESPE - 2013 - SERPRO - Analista - Suporte Técnico) Um scriptlet na tecnologia
 JSP (Java
 server pages) abrange todo o código entre "<#" e "#>".
 
-Item. 7. (CESPE - 2011 - CBM-DF - Oficial Bombeiro Militar Complementar - Informática) O
+7. (CESPE - 2011 - CBM-DF - Oficial Bombeiro Militar Complementar - Informática) O
 uso de
 Javabeans, o controle de transferência entre as páginas e o suporte independente de applets
 Java pelos browsers são possibilidades proporcionadas pela action tag da JSP.
 
-Item. 8. (CESPE - 2011 - PREVIC - Analista de Tecnologia da Informação) Em uma
+8. (CESPE - 2011 - PREVIC - Analista de Tecnologia da Informação) Em uma
 aplicação
 multicamadas na plataforma Java EE, servlets, JavaServer Faces e JSP consistem
 em
 tecnologias utilizadas na camada web.
 
-Item. 9. (CESPE - 2017 - TRE/BA - Analista de Sistemas) A respeito da JSP (JavaServer Pages), assinale
+9. (CESPE - 2017 - TRE/BA - Analista de Sistemas) A respeito da JSP (JavaServer Pages), assinale
 a opção correta.
-
 
 a) As páginas JSP compiladas não precisam ser executadas em uma máquina virtual Java (JVM).
 
@@ -3441,40 +3310,35 @@ compatível, estará pronta para ser executada, não havendo a necessidade de el
 transformada
 em um Servlet.
 
-
 ,
-
 
 GABARITo
 
 GABARITO
 
+1. c
 
-Item. 1. c
+2. E
 
-Item. 2. E
+3. C
 
-Item. 3. C
+4. C
 
-Item. 4. C
+5. E
 
-Item. 5. E
+6. E
 
-Item. 6. E
+7. C
 
-Item. 7. C
+8. C
 
-Item. 8. C
-
-Item. 9. C
-
+9. C
 
 ,
 
-
 LISTA DE QUESTõES -JSP - MULTIBANCAS
 
-Item. 1. (FCC - 2012 - TRE-SP - Técnico Judiciário - Programação de Sistemas) As tags utilizadas em
+1. (FCC - 2012 - TRE-SP - Técnico Judiciário - Programação de Sistemas) As tags utilizadas em
 uma página JSP para importar classes de um pacote, habilitar o uso de bibliotecas de classes
 (por exemplo, JSTL) e incluir arquivos (por exemplo, JSP Fragments) são conhecidas como
 tags:
@@ -3489,7 +3353,7 @@ d) de expressão.
 
 e) standard action.
 
-Item. 2. (FCC - 2009 - PGE-RJ - Técnico Superior de Análise de Sistemas e Métodos) Blocos ou trechos
+2. (FCC - 2009 - PGE-RJ - Técnico Superior de Análise de Sistemas e Métodos) Blocos ou trechos
 de operações em código Java podem ser incluídos em uma página JSP por meio de:
 
 a) diretiva page.
@@ -3502,7 +3366,7 @@ d) taglib.
 
 e) scriptlet.
 
-Item. 3. (FCC - 2010 - TRT - 20a REGIÃO (SE) - Técnico Judiciário - Tecnologia da
+3. (FCC - 2010 - TRT - 20a REGIÃO (SE) - Técnico Judiciário - Tecnologia da
 Informação) Na
 diretiva page, do JSP, podemos utilizar o atributo import que permite:
 
@@ -3515,11 +3379,9 @@ c) configurar pacotes.
 d) importar arquivos htm
 e) importar pacotes.
 
-
 ,
 
-
-Item. 4. (FCC - 2009 - TRT -16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação) Em JSP,
+4. (FCC - 2009 - TRT -16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação) Em JSP,
 a diretiva taglib define:
 
 a) uma biblioteca de tags para serem usadas na página.
@@ -3532,7 +3394,7 @@ d) uma biblioteca para ser inserida na página.
 
 e) um módulo logicamente coesivo.
 
-Item. 5. (FCC - 2008 - MPE-RS - Técnico em Informática - Área Sistemas) Para incluir blocos de código
+5. (FCC - 2008 - MPE-RS - Técnico em Informática - Área Sistemas) Para incluir blocos de código
 Java em uma página JSP utiliza-se a categoria de tags denominada:
 
 a) diretivas.
@@ -3545,7 +3407,7 @@ d) scriptlets.
 
 e) comentários.
 
-Item. 6. (FCC - 2010 - METRÔ-SP - Analista - Tecnologia da Informação) Na diretiva page, do JSP,
+6. (FCC - 2010 - METRÔ-SP - Analista - Tecnologia da Informação) Na diretiva page, do JSP,
 utiliza-se o atributo import, que permite:
 
 a) configurar pacotes.
@@ -3558,13 +3420,12 @@ d) configurar arquivos html.
 
 e) importar figuras.
 
-Item. 7. (FCC - 2012 - TRE-SP - Técnico Judiciário - Programação de Sistemas) No JavaServer Pages a
+7. (FCC - 2012 - TRE-SP - Técnico Judiciário - Programação de Sistemas) No JavaServer Pages a
 tag <%=conteúdo %> é uma:
 
 a) Declaration tag.
 
 b) Directive tag.
-
 
 c) Scriplet tag.
 
@@ -3572,15 +3433,15 @@ d) Action tag.
 
 e) Expression tag.
 
-Item. 8. (FCC - 2011 - TRE/AP - Analista de Sistemas - A) Em JSP o conceito de classes e objetos não
+8. (FCC - 2011 - TRE/AP - Analista de Sistemas - A) Em JSP o conceito de classes e objetos não
 leva em conta os princípios de proteção de dados tanto nas propriedades quanto nos métodos.
 
-Item. 9. (FCC - 2011 - TRE/AP - Analista de Sistemas - C) Em JSP pode-se chamar o
+9. (FCC - 2011 - TRE/AP - Analista de Sistemas - C) Em JSP pode-se chamar o
 construtor do
 objeto pai em qualquer parte do código e não há tratamento de exceções nos métodos
 nativos.
 
-Item. 10. (FCC - 2010 - MPU - Analista de Sistemas) O contêiner, que executa JSP,
+10. (FCC - 2010 - MPU - Analista de Sistemas) O contêiner, que executa JSP,
 transforma o
 programa JSP em Servlet, assim, a expressão "<%= Math.Random()%>" se torna argumento
 para out.printlnQ.
@@ -3589,7 +3450,7 @@ para out.printlnQ.
 sejam executados a partir das funções da linguagem de expressão em JSP, é necessário que o
 nome da função coincida com o nome do método da classe Java.
 
-Item. 12. (FCC - 2009 - TCE/SP - Analista de Sistemas ) Quando se usa classes do tipo
+12. (FCC - 2009 - TCE/SP - Analista de Sistemas ) Quando se usa classes do tipo
 bean, não é
 necessário instanciar explicitamente um objeto da classe para poder acessar seus métodos. A
 instância do objeto é criada pelo elemento especial:
@@ -3604,7 +3465,7 @@ d) <jsp:useJava.Bean/>
 
 e) <jsp:useBean/>
 
-Item. 13. (FCC - 2008 - TCE/SP - Analista de Sistema) Nas páginas dinâmicas escritas em
+13. (FCC - 2008 - TCE/SP - Analista de Sistema) Nas páginas dinâmicas escritas em
 JSP, para
 declaração de atributos ou métodos, utilizam-se as tags:
 
@@ -3612,11 +3473,9 @@ a) <% %>
 
 b) <%! %>
 
-
 / 235
 
 /
-
 
 c) <%= %>
 
@@ -3624,7 +3483,7 @@ d) <%- -%>
 
 e) /* */
 
-Item. 14. (FCC - 2012 - TST - Analista de Sistemas) Páginas JavaServer Pages são páginas web:
+14. (FCC - 2012 - TST - Analista de Sistemas) Páginas JavaServer Pages são páginas web:
 
 a) que permitem combinar códigos Java, HTML estático, CSS, XML e JavaScript.
 
@@ -3636,7 +3495,7 @@ d) Transformadas em bytecode e executadas no cliente.
 
 e) Combinadas com servlets no desenvolvimento exclusivo de páginas estáticas.
 
-Item. 15. (FCC - 2009 - TRT/3 - Analista de Sistemas) NÃO possui uma habilidade de armazenar e
+15. (FCC - 2009 - TRT/3 - Analista de Sistemas) NÃO possui uma habilidade de armazenar e
 recuperar valores de atributos arbitrários o objeto implícito de JSP:
 
 a) Session.
@@ -3649,7 +3508,7 @@ d) Application.
 
 e) pageContext.
 
-Item. 16. (FCC - 2007 - TRF/4 - Analista de Sistemas) Uma ferramenta usada especificamente para gerar
+16. (FCC - 2007 - TRF/4 - Analista de Sistemas) Uma ferramenta usada especificamente para gerar
 páginas dinâmicas de HTML, baseada em programação Java, é:
 
 a) o WSDL.
@@ -3662,12 +3521,10 @@ d) a XSL.
 
 e) o JSP.
 
-Item. 17. (FCC - 2013 - ALERN - Analista de Sistemas) Em uma aplicação web desenvolvida utilizando
+17. (FCC - 2013 - ALERN - Analista de Sistemas) Em uma aplicação web desenvolvida utilizando
 a plataforma Java EE 6, há a seguinte classe Java:
 
-
 ,
-
 
 package dados;
 
@@ -3713,11 +3570,9 @@ a) I. Javascript, <%@page
 
 II. file="caminho/nome_do_arquivo"%>.
 
-
 / 235
 
 /
-
 
 b) I. Java Servlet, <%@include
 
@@ -3751,7 +3606,7 @@ d) <%@page include= "pacote.Classe"%> e <%@library uri="caminho/biblioteca"%>.
 
 e) <%@import class= "pacote.Classe"%> e <%@taglib urli="caminho/biblioteca"%>.
 
-Item. 20. (FCC - 2012 - TRE-CE - Analista Judiciário - Análise de Sistemas) <%@ page atributol =
+20. (FCC - 2012 - TRE-CE - Analista Judiciário - Análise de Sistemas) <%@ page atributol =
 "valorl"
 atributo2="valor2"... %> é a sintaxe típica da diretiva Page, em JSP. Um de seus atributos, se
 definido para true, indica o processamento normal do servlet quando múltiplas requisições
@@ -3769,7 +3624,6 @@ e) AutoFIush.
 
 21 .(FCC - 2008 - MPE-RS - Técnico em Informática - Área Sistemas) Se uma super classe de servlet
 deve ser gerada, será definida na diretiva page do JSP por meio do atributo:
-
 
 a) info.
 
@@ -3817,11 +3671,9 @@ a) compilação em um servlet.
 
 b) presença maciça de código Assembly.
 
-
 / 235
 
 /
-
 
 c) impossibilidade de inclusão de comentários.
 
@@ -3867,11 +3719,9 @@ d) String.
 
 e) Request.
 
-
 / 235
 
 /
-
 
 26.(FMP-RS - 2013 - MPE-AC - Analista - Tecnologia da Informação) No contexto de
 arquitetura
@@ -3921,37 +3771,34 @@ d) Diretiva Page.
 
 e) Diretiva taglib.
 
-
 / 235
 
 /
-
 
 GABARITo
 
 GABARITO
 
-Item. 1. A 8. E
-Item. 15. C 22. D
+1. A 8. E
+15. C 22. D
 
-Item. 2. E 9. E
-Item. 16. E 23. A
+2. E 9. E
+16. E 23. A
 
-Item. 3. E 10. C
-Item. 17. D 24. B
+3. E 10. C
+17. D 24. B
 
-Item. 4. A 11. E
-Item. 18. E 25. E
+4. A 11. E
+18. E 25. E
 
-Item. 5. D 12. E
-Item. 19. A 26. B
+5. D 12. E
+19. A 26. B
 
-Item. 6. C 13. B
-Item. 20. C 27. C
+6. C 13. B
+20. C 27. C
 
-Item. 7. E 14. A
-Item. 21. B 28. B
-
+7. E 14. A
+21. B 28. B
 
 SERVLETS
 
@@ -3992,7 +3839,6 @@ OLHA
 
 AL-AHLI FAMINTO
 
-
 Interesse de clube árabe complica a
 renovação de Guerrero com o Timão
 
@@ -4015,14 +3861,11 @@ imagem anterior!
 
 1 Oracle afirma: "A servlet can almost be thought of as an applet that runs on the server side".
 
-
 * 05152001900 - Everton
 Murilo Vieira
 
-
 Q TIMES globoesporte.com
 Q BUSCAR
-
 
 princípios editoriais
 grupo globo
@@ -4059,7 +3902,6 @@ futpédia
 SÉRIE A SÉRIE B
 
 times de A aZ»
-
 
 interesse ae auDe araDe compnca a
 renovação de Guerrero com o Timão
@@ -4107,7 +3949,6 @@ res.setContentType("text/html");
 PrintWriter out = res.getWriter();
 
 out.println("<html>");
-
 
 * 05152001900 - Everton
 Murilo Vieira
@@ -4160,9 +4001,7 @@ por meio do objeto ServIetConfig.
 
 2 Seu nome completo é: javax.servlet.http.HttpServIet.
 
-
 ,
-
 
 Voltando ao nosso código: importamos os dois pacotes, estendemos essa classe
 abstrata e
@@ -4200,11 +4039,9 @@ poderosos para gerar as strings do HTML baseadas em informações dinâmicas
 vindas, por
 exemplo, de um banco de dados. Vocês entenderam direitinho?
 
-
 / 235
 
 /
-
 
 sin
 CFlA OBJeftÇ
@@ -4258,15 +4095,13 @@ requisição do cliente,
 o contêiner gera um novo par de objetos request e response, cria uma nova thread e os passa para
 ela.
 
-
 / 235
 
 /
 
-
 QUESTõES CoMENTADAS - SERVLETS - CEBRASPE
 
-Item. 1. (CESPE - 2013 - TRT - 10a REGIÃO (DF e TO) - Técnico Judiciário
+1. (CESPE - 2013 - TRT - 10a REGIÃO (DF e TO) - Técnico Judiciário
 - Tecnologia da
 Informação) No ciclo de vida de um servlet, o servidor recebe uma requisição e a
 repassa
@@ -4288,7 +4123,7 @@ Perfeito, conforme visto em aula.
 
 Gabarito: C
 
-Item. 2. (CESPE - 2013 - DPE/SP - Analista de Sistemas) No ciclo de vida de um servlet,
+2. (CESPE - 2013 - DPE/SP - Analista de Sistemas) No ciclo de vida de um servlet,
 o servidor
 recebe uma requisição e a repassa para o container, que a delega a um
 servlet. O
@@ -4310,13 +4145,11 @@ Conforme vimos em aula, está perfeito!
 
 Gabarito: C
 
-Item. 3. (CESPE - 2008 - MPE/RR - Analista de Sistemas) O nome completo da
+3. (CESPE - 2008 - MPE/RR - Analista de Sistemas) O nome completo da
 classe da qual
 herda a classe acima declarada é javax.servIet.HttpServIet. A classe indicada também
 
-
 ,
-
 
 herda, indiretamente, da classe java.lang.Object. Portanto, é correto afirmar que
 classes
@@ -4373,9 +4206,7 @@ HttpSession session = request.getSession();
 // Send the user the bookstore's opening page
 dispatcher.forward(request,response);
 
-
 ,
-
 
 }
 
@@ -4390,7 +4221,7 @@ return "The BookStore servlet returns the main web page " +
 
 }
 
-Item. 4. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Para a recuperação dos parâmetros
+4. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Para a recuperação dos parâmetros
 que
 o browser envia para essa servlet, deve-se fazer acesso ao objeto apontado
 pela variável
@@ -4406,7 +4237,7 @@ HttpServIetRequest.
 
 Gabarito: C
 
-Item. 5. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Se, durante o
+5. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Se, durante o
 processamento de um
 pedido por essa servlet, quando da execução da linha de código 10, o
 valor da variável
@@ -4425,7 +4256,7 @@ JVM e o usuário não visualizará!
 
 Gabarito: E
 
-Item. 6. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Durante o funcionamento
+6. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Durante o funcionamento
 de uma
 aplicação web na qual esteja em uso a servlet acima declarada, cada pedido
 http enviado
@@ -4433,11 +4264,9 @@ pelo browser e direcionado à servlet BookStoreServIet implicará a criação de
 uma nova
 instância da classe BookStoreServIet, bem como a criação de uma thread que invoca o
 
-
 / 235
 
 /
-
 
 método service(HttpServletRequest, HttpServIetResponse), declarado no
 código
@@ -4451,7 +4280,7 @@ implicará a criação de uma nova thread para cada novo pedido.
 
 Gabarito: E
 
-Item. 7. (CESPE - 2008 - TRT/5 - Analista de Sistemas) Java Servlets são
+7. (CESPE - 2008 - TRT/5 - Analista de Sistemas) Java Servlets são
 componentes Java
 executados somente do lado do servidor.
 
@@ -4469,7 +4298,7 @@ Perfeito, conforme visto em aula.
 
 Gabarito: C
 
-Item. 8. (CESPE - 2011 - AL/ES - Analista de Sistemas) Servlet pode ser
+8. (CESPE - 2011 - AL/ES - Analista de Sistemas) Servlet pode ser
 considerado um applet
 que é executado no lado servidor.
 
@@ -4489,11 +4318,9 @@ não entendeu dessa maneira :(
 
 Gabarito: C
 
-
 ,
 
-
-Item. 9. (CESPE - 2011 - TRE/ES - Analista de Sistemas) Um servlet é uma classe Java
+9. (CESPE - 2011 - TRE/ES - Analista de Sistemas) Um servlet é uma classe Java
 utilizada
 para ampliar a capacidade de acesso dos servidores a aplicações por meio do
 modelo
@@ -4549,9 +4376,7 @@ Opa, não precisa utilizar HTTP (apesar de ele ser o mais comum).
 
 Gabarito: E
 
-
 ,
-
 
 11 .(CESPE - 2013 - TRE/MS - Analista de Sistemas - D) O servlet é uma classe de
 programa
@@ -4612,11 +4437,9 @@ abstrato!
 
 x'"'
 
-
 / 235
 
 /
-
 
 A interface ServIetContext é um conjunto de métodos que uma servlet utiliza para
 interagir com
@@ -4678,20 +4501,17 @@ Confome vimos em aula, servlet não é um servidor de aplicação, mas simplesme
 Classe
 Java.
 
-
 / 235
 
 /
-
 
 Gabarito: E
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
 QUESTõES CoMENTADAS - SERVLETS - MULTIBANCAS
 
-Item. 1. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da Informação) Quando um
+1. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da Informação) Quando um
 servlet
 é carregado pela primeira vez para a máquina virtual Java do servidor:
 
@@ -4719,7 +4539,7 @@ Perfeito, conforme visto em aula.
 
 Gabarito: B
 
-Item. 2. (FCC - 2011 - TRT - 1a REGIÃO - Analista de Sistemas) Em relação às
+2. (FCC - 2011 - TRT - 1a REGIÃO - Analista de Sistemas) Em relação às
 tecnologias Java, é
 INCORRETO afirmar que as Servlets:
 
@@ -4741,11 +4561,9 @@ e) são carregadas apenas uma vez e, para cada nova requisição, a servlet gera
 
 Comentários:
 
-
 / 235
 
 /
-
 
 (a) Deixa a responsabilidade do ambiente de execução e protocolo para a API? De jeito
 algum!
@@ -4759,7 +4577,7 @@ requisição.
 
 Gabarito: A
 
-Item. 3. (FCC - 2010 - DPE/SP - Analista de Sistemas) Servlets são projetadas
+3. (FCC - 2010 - DPE/SP - Analista de Sistemas) Servlets são projetadas
 para fornecer aos
 desenvolvedores uma solução JAVA para criar aplicações web. Para criar
 Servlets é
@@ -4790,7 +4608,7 @@ javax.servlet.http - cuja estrutura é mostrada a seguir:
 Conforme vimos em aula, trata-se da javax.servlet e javax.servlet.http.
 Gabarito: A
 
-Item. 4. (FCC - 2012 - TRE/CE - Analista de Sistemas) No contexto do ciclo de vida de
+4. (FCC - 2012 - TRE/CE - Analista de Sistemas) No contexto do ciclo de vida de
 um servlet,
 considere:
 
@@ -4804,9 +4622,7 @@ o método init() é invocado, para preparar recursos para a execução do
 serviço ou para
 estabelecer conexão com outros serviços.
 
-
 ,
-
 
 III. Estando o servlet pronto para atender as requisições dos clientes, o
 container cria um
@@ -4871,7 +4687,6 @@ web. A partir do momento que a servlet é inicializada, o contêiner pode utiliz
 para tratar
 requisições dos clientes. Chama-se então o método service com dois parâmetros:
 
-
 ServIetRequest, que contém a solicitação do cliente; e o ServIetResponse, que
 contém a
 resposta - ambos criados pelo contêiner.
@@ -4895,7 +4710,7 @@ servidor liberará os recursos investidos.
 
 Gabarito: E
 
-Item. 5. (FCC - 2013 - DPE/SP - Analista de Sistemas) Um Servlet Contêiner
+5. (FCC - 2013 - DPE/SP - Analista de Sistemas) Um Servlet Contêiner
 controla o ciclo
 de vida de uma servlet onde são invocados três métodos essenciais: um para
 inicializar a
@@ -4929,11 +4744,9 @@ a) I, II, III e IV.
 
 b) I, apenas.
 
-
 / 235
 
 /
-
 
 c) I e IV, apenas.
 
@@ -4994,15 +4807,13 @@ tudo nisso? O Servlet Container!
 
 (IV) Conforme vimos em aula, não se chama método unload - o nome do método é destroy!
 
-
 / 235
 
 /
 
-
 Gabarito: B
 
-Item. 6. (FCC - 2006 - BACEN - Analista de Sistemas) Para ser um servlet,
+6. (FCC - 2006 - BACEN - Analista de Sistemas) Para ser um servlet,
 uma classe deve
 estender a classe I e exceder as ações "doGet" ou "doPost" (ou ambas),
 dependendo se os
@@ -5013,7 +4824,6 @@ correta e
 respectivamente I, II e III:
 
 I II III
-
 
 A HttpJspServIet
 
@@ -5060,7 +4870,7 @@ HttpServIetResponse em sua execução.
 
 Gabarito: D
 
-Item. 7. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da
+7. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da
 Informação) Em Java, a
 passagem de dados de um formulário do cliente para o servlet pode ocorrer
 por meio do
@@ -5076,11 +4886,9 @@ d) getParameterO
 
 e) nameComponentO
 
-
 / 235
 
 /
-
 
 Comentários:
 
@@ -5097,7 +4905,7 @@ Conforme vimos em aula, trata-se do método getParameter().
 
 Gabarito: D
 
-Item. 8. (FCC - 2012 - TRE-CE - Programador de computador) A tecnologia
+8. (FCC - 2012 - TRE-CE - Programador de computador) A tecnologia
 Java Servlet é
 baseada na construção de classes servlet que executam no servidor recebendo dados de
 requisições do cliente, processando esses dados, opcionalmente acessando
@@ -5134,11 +4942,9 @@ d) As duas asserções são proposições verdadeiras, mas a segunda não é a j
 correta
 da primeira.
 
-
 / 235
 
 /
-
 
 e) As duas asserções são proposições verdadeiras e a segunda é a justificativa
 correta da
@@ -5162,7 +4968,7 @@ segunda justifica a primeira.
 
 Gabarito: E
 
-Item. 9. (FCC - 2013 - AL-RN - Analista Legislativo - Analista de Sistemas) No Java
+9. (FCC - 2013 - AL-RN - Analista Legislativo - Analista de Sistemas) No Java
 EE 6 os
 métodos doPost e doGet podem ser sobrescritos em uma servlet criada na aplicação para
 receberem as requisições vindas de páginas HTML. Quando sobrescritos na
@@ -5193,11 +4999,9 @@ Conforme vimos em aula, essa classe abstrata é a HttpServIet.
 
 Gabarito: B
 
-
 / 235
 
 /
-
 
 1O.(FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da
 Informação)
@@ -5258,9 +5062,7 @@ estrutura, classes Java especializadas que se assemelham muito à estrutura dos 
 Java,
 porém rodando em um servidor web e não no do cliente.
 
-
 ,
-
 
 Gabarito: E
 
@@ -5315,9 +5117,7 @@ Conforme vimos em aula, são executados no Container Web.
 
 Gabarito: C
 
-
 ,
-
 
 14.(CESGRANRIO - 2006 - DECEA - Analista de Sistemas - B) Applets e
 Servlets são
@@ -5370,11 +5170,9 @@ página JSP transforma-se em um servlet, que é compilado, carregado e inicializ
 
 Comentários:
 
-
 / 235
 
 /
-
 
 Isso é da aula de Páginas JSP, no entanto é sabido que Pásginas JSP se transformam
 em
@@ -5444,7 +5242,6 @@ c) III
 d) I e III
 
 e) II e III
-
 
 Comentários:
 
@@ -5522,7 +5319,6 @@ apesar de não serem restritas a ele.
 
 Comentários:
 
-
 A documentação oficial afirma que se trata de uma classe java pura utilizada para
 estender as
 capacidades dos servidores que hospedam aplicações acessadas por meio de um
@@ -5575,11 +5371,9 @@ II. Servlets são independentes de plataforma, de modo que podem ser
 executadas em
 diferentes servidores, em diferentes sistemas operacionais.
 
-
 / 235
 
 /
-
 
 III. As Servlets podem acessar qualquer uma das APIs Java. Uma Servlet pode usar a
 API
@@ -5628,9 +5422,7 @@ d) instanciar a classe Servlet, passando para o parâmetro
 requestType o valor
 Servlet. HTTP_REQUEST.
 
-
 ,
-
 
 e) invocar o método Servlet.service(Servlet.HTTP_REQUEST) antes do
 processamento da
@@ -5672,11 +5464,9 @@ a) É um método da JPA utilizado na persistência assíncrona de dados.
 
 b) É um componente que roda do lado do cliente para tratar problemas de comunicação.
 
-
 / 235
 
 /
-
 
 c) É uma classe Java utilizada para estender as capacidades de um servidor.
 
@@ -5727,11 +5517,9 @@ Sobre o código do Servlet, é possível afirmar que:
 
 a) ao ser executado por um contêiner de Servlet, será exibida uma tela em branco no navegador.
 
-
 / 235
 
 /
-
 
 b) ao ser executado por um contêiner de Servlet, será exibida a mensagem "Servlet em
 operação!"
@@ -5781,11 +5569,9 @@ e) release()
 
 Comentários:
 
-
 / 235
 
 /
-
 
 Galera, coloquei essa questão para que vocês saibam que nem sempre será possível
 responder
@@ -5801,13 +5587,12 @@ era invalidate().
 
 Gabarito: D
 
-
-Item. 1. (CESPE - 2013 - TRT - 10a REGIÃO (DF e TO) - Técnico Judiciário - Tecnologia da Informação)
+1. (CESPE - 2013 - TRT - 10a REGIÃO (DF e TO) - Técnico Judiciário - Tecnologia da Informação)
 No ciclo de vida de um servlet, o servidor recebe uma requisição e a repassa para o container,
 que a delega a um servlet. O container carrega a classe na memória, cria uma instância da
 classe do servlet e inicia a instância chamando o método init().
 
-Item. 2. (CESPE - 2013 - DPE/SP - Analista de Sistemas) No ciclo de vida de um servlet, o servidor
+2. (CESPE - 2013 - DPE/SP - Analista de Sistemas) No ciclo de vida de um servlet, o servidor
 recebe uma requisição e a repassa para o container, que a delega a um servlet. O container
 carrega a classe na memória, cria uma instância da classe do servlet e inicia a
 instância
@@ -5852,50 +5637,48 @@ public String getServIetlnfoQ {
 
 return "The BookStore servlet returns the main web page " +
 
-
 "for Duke's Bookstore.";
 
 }
 
 }
 
-Item. 3. (CESPE - 2008 - MPE/RR - Analista de Sistemas) O nome completo da classe da qual herda a
+3. (CESPE - 2008 - MPE/RR - Analista de Sistemas) O nome completo da classe da qual herda a
 classe acima declarada é javax.servIet.HttpServIet. A classe indicada também
 herda,
 indiretamente, da classe java.lang.Object. Portanto, é correto afirmar que classes em
 Java
 podem ter herança múltipla.
 
-Item. 4. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Para a recuperação dos parâmetros que o
+4. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Para a recuperação dos parâmetros que o
 browser envia para essa servlet, deve-se fazer acesso ao objeto apontado pela variável
 request, declarada na linha 3.
 
-Item. 5. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Se, durante o processamento de um pedido
+5. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Se, durante o processamento de um pedido
 por essa servlet, quando da execução da linha de código 10, o valor da variável dispatcher for
 null (nulo), então, a mensagem There was no dispatcher será apresentada na interface do
 usuário.
 
-Item. 6. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Durante o funcionamento de uma aplicação
+6. (CESPE - 2008 - MPE/RR - Analista de Sistemas) Durante o funcionamento de uma aplicação
 web na qual esteja em uso a servlet acima declarada, cada pedido http enviado pelo browser
 e direcionado à servlet BookStoreServIet implicará a criação de uma nova instância da classe
 BookStoreServIet, bem como a criação de uma thread que invoca o
 método
 service(HttpServletRequest, HttpServIetResponse), declarado no código apresentado.
 
-Item. 7. (CESPE - 2008 - TRT/5 - Analista de Sistemas) Java Servlets são componentes Java executados
+7. (CESPE - 2008 - TRT/5 - Analista de Sistemas) Java Servlets são componentes Java executados
 somente do lado do servidor.
 
-Item. 8. (CESPE - 2011 - ALVES - Analista de Sistemas) Servlet pode ser considerado um applet que é
+8. (CESPE - 2011 - ALVES - Analista de Sistemas) Servlet pode ser considerado um applet que é
 executado no lado servidor.
 
-Item. 9. (CESPE - 2011 - TRE/ES - Analista de Sistemas) Um servlet é uma classe Java utilizada para
+9. (CESPE - 2011 - TRE/ES - Analista de Sistemas) Um servlet é uma classe Java utilizada para
 ampliar a capacidade de acesso dos servidores a aplicações por meio do modelo requisição-
 resposta. Embora os servlets possam responder a um tipo específico de requisição hospedada
 em servidores web, os servlets não respondem a requisições genéricas.
 
 10.(CESPE - 2013 - CNJ - Analista de Sistemas) Apesar de serem independentes de plataforma,
 os servlets, para funcionarem, precisam utilizar o protocolo HTTP.
-
 
 11 .(CESPE - 2013 - TRE/MS - Analista de Sistemas - D) O servlet é uma classe de programa em
 Java utilizada para estender a capacidade dos servidores em aplicações web que trabalham
@@ -5927,7 +5710,6 @@ troca e manipulação de dados XML com comunicação assíncrona, utilizando XML
 e o servlet é exemplo de servidor de aplicações que contém diretórios como o bin e o webapps
 e é responsável por gerenciar requisições recebidas de clientes.
 
-
 GABARITo
 
 GABARITO
@@ -5937,14 +5719,13 @@ c 5. E 9. E
 c 6. E 10. E
 
 E 7. C
-Item. 11. C 15
+11. C 15
 
 c 8. C 12. E
 
-
 LISTA DE QUESTõES - SERvLET - MULTIBANCAS
 
-Item. 1. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da Informação) Quando um servlet
+1. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da Informação) Quando um servlet
 é carregado pela primeira vez para a máquina virtual Java do servidor:
 
 a) ocorre um destroyO no processo cliente.
@@ -5957,7 +5738,7 @@ d) ocorre a execução do método getOutputStream().
 
 e) o seu método stream() é invocado.
 
-Item. 2. (FCC - 2011 - TRT - 1a REGIÃO - Analista de Sistemas) Em relação às tecnologias Java, é
+2. (FCC - 2011 - TRT - 1a REGIÃO - Analista de Sistemas) Em relação às tecnologias Java, é
 INCORRETO afirmar que as Servlets:
 
 a) deixam para a API utilizada na sua escrita a responsabilidade com o ambiente em que elas serão
@@ -5974,7 +5755,7 @@ novamente.
 
 e) são carregadas apenas uma vez e, para cada nova requisição, a servlet gera uma nova thread.
 
-Item. 3. (FCC - 2010 - DPE/SP - Analista de Sistemas) Servlets são projetadas para fornecer aos
+3. (FCC - 2010 - DPE/SP - Analista de Sistemas) Servlets são projetadas para fornecer aos
 desenvolvedores uma solução JAVA para criar aplicações web. Para criar Servlets é
 necessário importar as classes padrão de extensão dos pacotes:
 
@@ -5988,9 +5769,8 @@ d) servlet.javax e servlet.javax.http.
 
 e) javax.servlet.smtp e javax.servlet.html.
 
-Item. 4. (FCC - 2012 - TRE/CE - Analista de Sistemas) No contexto do ciclo de vida de um servlet,
+4. (FCC - 2012 - TRE/CE - Analista de Sistemas) No contexto do ciclo de vida de um servlet,
 considere:
-
 
 I. Quando o servidor recebe uma requisição, ela é repassada para o container que, por sua
 vez, carrega a classe na memória e cria uma instância da classe do servlet.
@@ -6017,7 +5797,7 @@ c) I, III e IV, apenas.
 d) II, III e IV, apenas
 e) I, II, III e IV.
 
-Item. 5. (FCC - 2013 - DPE/SP - Analista de Sistemas) Um Servlet Contêiner controla o
+5. (FCC - 2013 - DPE/SP - Analista de Sistemas) Um Servlet Contêiner controla o
 ciclo de
 vida de uma servlet onde são invocados três métodos essenciais: um para inicializar a
 instância da servlet, um para processar a requisição e outro para descarregar a servlet da
@@ -6035,7 +5815,6 @@ III. O Servlet Contêiner invoca o método service da servlet para processar a r
 passando os objetos request e response. O método service não é chamado a cada
 requisição, mas apenas uma vez, na primeira requisição do usuário à servlet.
 
-
 IV. Para descarregar a servlet da memória, o Servlet Contêiner chama o método unload, que
 faz com que o garbage collector retire a instância da servlet da memória.
 
@@ -6051,12 +5830,11 @@ d) II, III e IV, apenas.
 
 e) II e III, apenas.
 
-Item. 6. (FCC - 2006 - BACEN - Analista de Sistemas) Para ser um servlet, uma classe deve estender
+6. (FCC - 2006 - BACEN - Analista de Sistemas) Para ser um servlet, uma classe deve estender
 a classe I e exceder as ações "doGet" ou "doPost" (ou ambas), dependendo se os dados
 estão sendo enviados por uma ação GET ou por uma ação POST. Estes métodos tomam
 dois argumentos: um II e um III em sua execução. Preenchem correta e respectivamente I,
 II e III:
-
 
 I
 
@@ -6074,11 +5852,9 @@ III
 Xml HttpServIetResponse
 HttpServIetRequest
 
-
 C HttpSen/letRequest
 
 Xm I HttpServIetRquest Xml HttpServIetResponse
-
 
 D HttpServIet
 
@@ -6090,7 +5866,7 @@ HttpServIetRequest
 HttpServIetResponse
 HttpServIetResponse.write
 
-Item. 7. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da Informação) Em Java, a passagem
+7. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da Informação) Em Java, a passagem
 de dados de um formulário do cliente para o servlet pode ocorrer por meio do uso do
 método:
 
@@ -6104,11 +5880,10 @@ d) getParameterO
 
 e) nameComponentO
 
-Item. 8. (FCC - 2012 - TRE-CE - Programador de computador) A tecnologia Java Servlet é baseada
+8. (FCC - 2012 - TRE-CE - Programador de computador) A tecnologia Java Servlet é baseada
 na construção de classes servlet que executam no servidor recebendo dados de requisições
 do cliente, processando esses dados, opcionalmente acessando recursos externos como
 bancos de dados, e respondendo ao cliente com conteúdo no formato HTML.
-
 
 Com relação ao tema, analise as asserções a seguir:
 
@@ -6137,7 +5912,7 @@ primeira.
 
 e) As duas asserções são proposições verdadeiras e a segunda é a justificativa correta da primeira.
 
-Item. 9. (FCC - 2013 - AL-RN - Analista Legislativo - Analista de Sistemas) No Java EE 6 os métodos
+9. (FCC - 2013 - AL-RN - Analista Legislativo - Analista de Sistemas) No Java EE 6 os métodos
 doPost e doGet podem ser sobrescritos em uma servlet criada na aplicação para receberem
 as requisições vindas de páginas HTML. Quando sobrescritos na servlet, eles substituem
 seus métodos ancestrais existentes na classe abstrata:
@@ -6154,7 +5929,6 @@ e) HttpServIetObject.
 
 10.(FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação) Para
 ler os parâmetros de inicialização do contexto de um servlet utiliza-se o método:
-
 
 a) String getlnitParameter(String).
 
@@ -6270,7 +6044,6 @@ b) II
 
 c) III
 
-
 d) I e III
 
 e) II e III
@@ -6349,7 +6122,6 @@ d) prerender.
 
 I. Servlets são implementadas como arquivos de classe da Linguagem Java.
 
-
 II. Servlets são independentes de plataforma, de modo que podem ser executadas em
 diferentes servidores, em diferentes sistemas operacionais.
 
@@ -6397,7 +6169,6 @@ d) É uma biblioteca JBOSS que emula servidores no lado do cliente.
 
 e) É uma JSP que possibilita a execução de código no lado do cliente, mesmo sem comunicação
 com um servidor.
-
 
 23.(VUNESP - 2013 - FUNDUNESP - Analista Programador Júnior) Considere o Servlet a seguir:
 
@@ -6448,31 +6219,29 @@ d) invalidate()
 
 e) release()
 
-
 GABARITo
 
 GABARITO
 
-Item. 1. B 11. E 21. B
+1. B 11. E 21. B
 
-Item. 2. A 12. E 22. C
+2. A 12. E 22. C
 
-Item. 3. A 13. C 23. C
+3. A 13. C 23. C
 
-Item. 4. E 14. E 24. D
+4. E 14. E 24. D
 
-Item. 5. B 15. E
+5. B 15. E
 
-Item. 6. D 16. C
+6. D 16. C
 
-Item. 7. D 17. B
+7. D 17. B
 
-Item. 8. E 18. E
+8. E 18. E
 
-Item. 9. B 19. C
+9. B 19. C
 
-Item. 10. A 20. D
-
+10. A 20. D
 
 JAVA SERVER FACES (JSF)
 
@@ -6544,7 +6313,6 @@ a Sun Microsystems junto com uma comunidade de desenvolvedores resolveu
 criar uma
 especificação padronizada baseada nesse framework, denominado Java Server Faces (JSF).
 
-
 Cuidado com as questões de prova que afirmam que se trata apenas de uma especificação
 - ele
 é tanto uma especificação quanto um framework* 1. Cuidado também com aquelas que
@@ -6609,7 +6377,6 @@ Aplicação Web. Ela possui as seguintes partes:
 
 1 As implementações da especificação mais famosas são Oracle Mojarra e o Apache MyFaces.
 
-
 * Um conjunto de Managed Beans (ou Beans Gerenciados);
 
 * Um Descritor de Implantação Web (web.xml);
@@ -6628,7 +6395,6 @@ podem validar o tamanho de um campo, tipo de entrada, range de um valor numéric
 expressão
 regular, entre outros. É possível, inclusive, criar o seu próprio validador customizado.
 
-
 Browser
 
 WebContainer
@@ -6642,7 +6408,6 @@ ji
 Generates
 Gomponent
 Tree
-
 
 Renders HTML
 (HTTP Response)
@@ -6683,7 +6448,6 @@ basicamente,
 três atividades:
 
 * Criar uma Página Web (usando tags de componentes);
-
 
 * Desenvolver Managed Beans;
 
@@ -6753,7 +6517,7 @@ inicialização;
 entre outros.
 
 O faces-config.xml tem sido rapidamente substituído por annotations - novidade do JSF
-Item. 2.0. Essa
+2.0. Essa
 versão trouxe: suporte a facelets; utilização de templates para a aplicação;
 simplificação do
 desenvolvimento de componentes; suporte nativo a Ajax (f:ajax); navegação
@@ -6762,9 +6526,7 @@ condicional; suporte ao Método GET; adição de novos escopos (Flash e View);
 composição de
 componentes customizados; etc.
 
-
 ,
-
 
 O JSF1 tinha os escopos Request (Default), Session e Application. A partir do JSF2,
 ganhamos o
@@ -6798,7 +6560,6 @@ ser
 implementadas por esse componente - evitando repetição de código e facilitando a
 manutenção
 do sistema.
-
 
 No JSF, esse componente é o FacesServIet! Como mostra a imagem da estrutura geral de
 uma
@@ -6859,11 +6620,9 @@ Apply Request Values: qualquer dado que for enviado como parte da requisição �
 passado
 para os componentes apropriados. Essas visões atualizam seus estados com os valores dos
 
-
 / 235
 
 /
-
 
 dados. Dados podem vir de formulários, cookies enviados com a requisição ou por meio
 de
@@ -7005,15 +6764,13 @@ filtros de conversão de imagens; filtros de compressão de dados; filtros de
 criptografia; filtros de
 tokenização; filtros XSLT; filtros que acionam eventos de acesso a recursos, entre outros.
 
-
 / 235
 
 /
 
-
 QUESTõES CoMENTADAS - JSF - MULTIBANCAS
 
-Item. 1. (FCC - 2013 - TRT/12 - Analista de Sistemas) Considere as instruções abaixo encontradas
+1. (FCC - 2013 - TRT/12 - Analista de Sistemas) Considere as instruções abaixo encontradas
 em um arquivo de uma aplicação que utiliza JSF:
 
 <managed-bean>
@@ -7054,7 +6811,7 @@ aplicação específica que utiliza JSF.
 
 Conforme vimos em aula, o responsável é o faces-config.xml. Gabarito: D
 
-Item. 2. (CESPE - 2009 - SECONT-ES - Auditor do Estado - Tecnologia da Informação) O JSF
+2. (CESPE - 2009 - SECONT-ES - Auditor do Estado - Tecnologia da Informação) O JSF
 é um framework web embasado em interface gráfica, capaz de renderizar componentes
 e manipular eventos em aplicações web no padrão Java EE, no qual os componentes JSF
 são orientados a eventos. O JSF fornece, ainda, mecanismos para conversão, validação,
@@ -7071,15 +6828,13 @@ internacionalização e acessibilidade; e prover extensibilidade. Segundo, tagli
 tags) para adicionar componentes a páginas web e conectar componentes a objetos
 server-side.
 
-
 / 235
 
 /
 
-
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
-Item. 3. (FCC - 2012 - TJ-PE - Programador de computador) Em uma aplicação que utiliza
+3. (FCC - 2012 - TJ-PE - Programador de computador) Em uma aplicação que utiliza
 JSF,
 para configurar o fluxo de comunicação presente na servlet de controle, é utilizado um
 arquivo de configuração:
@@ -7116,7 +6871,7 @@ View e Controller. Vamos resumir essa diferença entre esses dois arquivos?
 
 Conforme vimos em aula, trata-se do faces-config.xml. Gabarito: C
 
-Item. 4. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Entre os
+4. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Entre os
 itens que
 o padrão Java Server Faces (JSF) utiliza, estão os componentes, os eventos
 e a
@@ -7135,13 +6890,11 @@ server-side.
 
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
-Item. 5. (FCC - 2013 - TRT/9 - Analista de Sistemas) Uma aplicação utilizando o framework
+5. (FCC - 2013 - TRT/9 - Analista de Sistemas) Uma aplicação utilizando o framework
 JSF e
 a IDE NetBeans gera automaticamente dois componentes essenciais assim descritos:
 
-
 ,
-
 
 I. É responsável por receber requisições dos componentes View do MVC, redirecioná-las
 para os beans gerenciados (managed beans) do componente Model do MVC e responder
@@ -7187,7 +6940,7 @@ Conforme vimos em aula, o primeiro é o FacesServIet e o segundo faces-config.xm
 Gabarito:
 C
 
-Item. 6. (CESPE - 2012 - ANAC - Analista Administrativo - Área 4) A validação de dados
+6. (CESPE - 2012 - ANAC - Analista Administrativo - Área 4) A validação de dados
 de um
 componente pode ser uma das funções de um backing bean, em uma aplicação JSF.
 
@@ -7205,13 +6958,11 @@ para construir a interface com o usuário.
 Conforme vimos em aula, Backing Beans são Managed Beans, e essa pode ser uma de suas
 funções. Gabarito: C
 
-
 / 235
 
 /
 
-
-Item. 7. (FCC - 2012 - TST - Analista de Sistemas) O framework JavaServer Faces
+7. (FCC - 2012 - TST - Analista de Sistemas) O framework JavaServer Faces
 (JSF) é
 utilizado no desenvolvimento de aplicações web que utiliza o design pattern MVC. O JSF:
 
@@ -7267,9 +7018,7 @@ devemos configurar também o arquivo de configuração faces-config.xml, referen
 uma
 aplicação específica que utiliza JSF.
 
-
 ,
-
 
 Ele é responsável por descrever e configurar elementos e subelementos que
 compõem o
@@ -7313,7 +7062,7 @@ próprias tags!
 
 Gabarito: D
 
-Item. 8. (CESPE - 2013 - SERPRO - Analista - Desenvolvimento de Sistemas) O JSF
+8. (CESPE - 2013 - SERPRO - Analista - Desenvolvimento de Sistemas) O JSF
 provê uma
 linguagem de expressão exclusiva para acesso a objetos armazenados em bancos de dados.
 
@@ -7331,15 +7080,13 @@ necessário:
 
 Conforme vimos em aula, ela serve para referenciar propriedades e Managed Beans.
 
-
 / 235
 
 /
 
-
 Gabarito: E
 
-Item. 9. (FCC - 2012 - TST - Analista de Sistemas) Para criar as páginas
+9. (FCC - 2012 - TST - Analista de Sistemas) Para criar as páginas
 XHTML de uma
 aplicação JSF é possível utilizar um conjunto de bibliotecas de tags JSF. Algumas
 dessas
@@ -7389,11 +7136,9 @@ o Namespace: xmlns:f="http://java.sun.com/jsf/core"
 
 FACELETS: fornece tags para criar templates para aplicações web.
 
-
 / 235
 
 /
-
 
 o Namespace: xmlns:ui="http://java.sun.com/jsf/facelets"
 
@@ -7454,11 +7199,9 @@ para construir a interface com o usuário.
 
 Conforme vimos em aula, trata-se da FacesServIet. Gabarito: E
 
-
 / 235
 
 /
-
 
 12.(CESPE - 2012 - TJ/AL - Analista de Sistemas - B) Em um aplicativo Facelets, a
 tag f:ajax
@@ -7520,11 +7263,9 @@ FacesServIet.
 
 Conforme vimos em aula, trata-se da fase Apply Request Values. Gabarito: B
 
-
 / 235
 
 /
-
 
 14.(CESPE - 2012 - TJ/RO - Analista de Sistemas - E) JNDI, parte do projeto de JSF,
 utiliza
@@ -7585,9 +7326,7 @@ Comentários:
 
 Gabarito: D
 
-
 ,
-
 
 16.(CESPE - 2013 - CPRM - Analista de Sistemas) Facelets são utilizadas para
 desenvolver
@@ -7646,11 +7385,9 @@ Conforme vimos em aula, trata-se da fase Apply Request Values. Gabarito: C
 em
 JSF 2 (Java Server Faces), um managed bean permanece no escopo de session.
 
-
 / 235
 
 /
-
 
 Comentários:
 
@@ -7673,7 +7410,7 @@ relacionada ao processamento de pedidos http assíncronos.
 Comentários:
 
 O faces-config.xml têm sido rapidamente substituído por annotations - novidade do JSF
-Item. 2.0. Essa
+2.0. Essa
 versão trouxe: suporte a facelets; utilização de templates para a aplicação;
 simplificação do
 desenvolvimento de componentes; suporte nativo a Ajax (f:ajax); navegação
@@ -7704,11 +7441,9 @@ Comentários:
 Apply Request Values: qualquer dado que for enviado como parte da requisição é passado para
 os componentes apropriados. Essas visões atualizam seus estados com os valores dos dados.
 
-
 / 235
 
 /
-
 
 Dados podem vir de formulários, cookies enviados com a requisição ou por meio de
 cabeçalhos
@@ -7762,11 +7497,9 @@ especificação padronizada baseada nesse framework, denominado Java Server Face
 
 Conforme vimos em aula, trata-se do JSF! Gabarito: B
 
-
 / 235
 
 /
-
 
 23.(CESPE - 2015 - TCU - Analista de Sistemas) A partir da interpretação
 do trecho JSF
@@ -7827,7 +7560,6 @@ Conforme vimos em aula, a questão está perfeita! Gabarito: C
 25.(FGV - 2013 - ALEMA - Analista de Sistemas) Com relação à especificação Java Server
 Faces (JSF), assinale V para a afirmativa verdadeira e F para a falsa.
 
-
 () Visa substituir a especificação Java Server Pages.
 
 () Java Server Faces são usadas como uma fachada para Servlets e Java Server Pages.
@@ -7882,9 +7614,7 @@ especificação padronizada baseada nesse framework, denominado Java Server Face
 
 (V) Perfeito, implementa o padrão MVC! Gabarito: A
 
-
 ,
-
 
 26.(CESPE - 2014 - TJ-SE - Analista Judiciário - Análise de Sistemas) Em aplicações
 web nos
@@ -7901,7 +7631,7 @@ exemplo, por meio da tag f:ajax, conforme apresentado na sintaxe abaixo.
 Comentários:
 
 O faces-config.xml têm sido rapidamente substituído por annotations - novidade do JSF
-Item. 2.0. Essa
+2.0. Essa
 versão trouxe: suporte a facelets; utilização de templates para a aplicação;
 simplificação do
 desenvolvimento de componentes; suporte nativo a Ajax (f:ajax); navegação
@@ -7932,15 +7662,13 @@ Plataforma Java EE - sendo considerada obsoleta para JSF!
 
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
-
 / 235
 
 /
 
-
 LISTA DE QUESTõES-JSF - MULTIBANCAS
 
-Item. 1. (FCC - 2013 - TRT/12 - Analista de Sistemas) Considere as instruções abaixo
+1. (FCC - 2013 - TRT/12 - Analista de Sistemas) Considere as instruções abaixo
 encontradas
 em um arquivo de uma aplicação que utiliza JSF:
 
@@ -7969,14 +7697,14 @@ d) faces-config.xml.
 
 e) config-bean.xml.
 
-Item. 2. (CESPE - 2009 - SECONT-ES - Auditor do Estado - Tecnologia da Informação) O JSF
+2. (CESPE - 2009 - SECONT-ES - Auditor do Estado - Tecnologia da Informação) O JSF
 é um
 framework web embasado em interface gráfica, capaz de renderizar componentes e
 manipular eventos em aplicações web no padrão Java EE, no qual os componentes JSF
 são orientados a eventos. O JSF fornece, ainda, mecanismos para conversão, validação,
 execução de lógica de negócios e controle de navegação.
 
-Item. 3. (FCC - 2012 - TJ-PE - Programador de computador) Em uma aplicação que utiliza
+3. (FCC - 2012 - TJ-PE - Programador de computador) Em uma aplicação que utiliza
 JSF,
 para configurar o fluxo de comunicação presente na servlet de controle, é utilizado um
 arquivo de configuração:
@@ -7989,17 +7717,15 @@ c) faces-config.xml.
 
 d) webcontext.xml.
 
-
 ,
 
-
-Item. 4. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Entre os
+4. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Entre os
 itens que o
 padrão Java Server Faces (JSF) utiliza, estão os componentes, os
 eventos e a
 navegabilidade.
 
-Item. 5. (FCC - 2013 - TRT/9 - Analista de Sistemas) Uma aplicação utilizando o framework
+5. (FCC - 2013 - TRT/9 - Analista de Sistemas) Uma aplicação utilizando o framework
 JSF e
 a IDE NetBeans gera automaticamente dois componentes essenciais assim descritos:
 
@@ -8025,11 +7751,11 @@ d) servlet Controller e ao arquivo web-config.xml.
 
 e) servlet Facelet e ao arquivo web.xml.
 
-Item. 6. (CESPE - 2012 - ANAC - Analista Administrativo - Área 4) A validação de dados
+6. (CESPE - 2012 - ANAC - Analista Administrativo - Área 4) A validação de dados
 de um
 componente pode ser uma das funções de um backing bean, em uma aplicação JSF.
 
-Item. 7. (FCC - 2012 - TST - Analista de Sistemas) O framework JavaServer Faces (JSF) é
+7. (FCC - 2012 - TST - Analista de Sistemas) O framework JavaServer Faces (JSF) é
 utilizado
 no desenvolvimento de aplicações web que utiliza o design pattern MVC. O JSF:
 
@@ -8044,18 +7770,16 @@ WEB-INF.xml e FACES-CONFIG.xml.
 
 d) possui bibliotecas que suportam Ajax (Asynchronous JavaScript And XML).
 
-
 /
-
 
 e) provê um conjunto de tags limitado para criar somente páginas HTML/XHTML.
 
-Item. 8. (CESPE - 2013 - SERPRO - Analista - Desenvolvimento de Sistemas) O JSF provê uma
+8. (CESPE - 2013 - SERPRO - Analista - Desenvolvimento de Sistemas) O JSF provê uma
 linguagem de expressão exclusiva para acesso a objetos armazenados em bancos
 de
 dados.
 
-Item. 9. (FCC - 2012 - TST - Analista de Sistemas) Para criar as páginas XHTML de uma
+9. (FCC - 2012 - TST - Analista de Sistemas) Para criar as páginas XHTML de uma
 aplicação
 JSF é possível utilizar um conjunto de bibliotecas de tags JSF. Algumas dessas
 bibliotecas
@@ -8100,9 +7824,7 @@ apresentação, o uso de facelets traz vantagens em relação ao uso de JSP. Uma
 a
 maior modularidade, com o uso de templates e componentes compostos (composite).
 
-
 ,
-
 
 11.(FCC - 2012 - TJ-PE - Analista Judiciário - Análise de Sistemas) No JSF, o
 componente
@@ -8162,7 +7884,6 @@ que utilizam JSF. Sua principal limitação é a impossibilidade de acessar valo
 métodos em
 beans gerenciados.
 
-
 c) Facelets é uma parte da especificação JSF e também a tecnologia para implementar as regras
 de negócio em aplicações que utilizam JSF.
 
@@ -8200,16 +7921,16 @@ d) Update Model Values Phase.
 
 e) Invoke Application Phase.
 
-Item. 18. (CESPE - 2013 - INPI - Analista Judiciário - Análise de Sistemas) Quando
+18. (CESPE - 2013 - INPI - Analista Judiciário - Análise de Sistemas) Quando
 registrado em
 JSF 2 (Java Server Faces), um managed bean permanece no escopo de session.
 
-Item. 19. (CESPE - 2010 - TCU - Analista de Sistemas) Para suportar a construção de
+19. (CESPE - 2010 - TCU - Analista de Sistemas) Para suportar a construção de
 aplicações
 com Ajax e JSF, recomenda-se aos desenvolvedores de páginas que usem a tag <f:ajax>,
 relacionada ao processamento de pedidos http assíncronos.
 
-Item. 20. (FCC - 2011 - TRE-RN - Técnico Judiciário - Programação de Sistemas) No ciclo de
+20. (FCC - 2011 - TRE-RN - Técnico Judiciário - Programação de Sistemas) No ciclo de
 vida
 do JSF copiar os parâmetros de requisição para valores submetidos pelos componentes,
 é a tarefa típica da fase:
@@ -8224,18 +7945,16 @@ d) Processar validações (Process validation).
 
 e) Atualizar valores do modelo (Update model values).
 
-
 / 235
 
 /
 
-
-Item. 21. (CESPE - 2010 - MPU - Analista de Sistemas) Uma aplicação web deve
+21. (CESPE - 2010 - MPU - Analista de Sistemas) Uma aplicação web deve
 prover
 mecanismos de validação de dados. O JSF fornece vários validadores de dados padrões
 que podem ser utilizados no lado do cliente (client-side).
 
-Item. 22. (FCC - 2010 - TRT - 22a Região (PI) - Técnico Judiciário - Tecnologia da
+22. (FCC - 2010 - TRT - 22a Região (PI) - Técnico Judiciário - Tecnologia da
 Informação) É
 um framework MVC utilizado no desenvolvimento de aplicações para a internet de forma
 visual, que utiliza o recurso de arrastar e soltar os componentes na tela para
@@ -8252,7 +7971,7 @@ d) Servlets.
 
 e) Java Server Pages.
 
-Item. 23. (CESPE - 2015 - TCU - Analista de Sistemas) A partir da interpretação do trecho
+23. (CESPE - 2015 - TCU - Analista de Sistemas) A partir da interpretação do trecho
 JSF
 (JavaServer Faces), versão 2, no código a seguir, verifica-se que uma providência
 válida é
@@ -8296,7 +8015,6 @@ c) V, F e F.
 
 *
 
-
 d) V, Ve F.
 
 e) F, V e F.
@@ -8321,30 +8039,28 @@ mais indicada que a JSP (JavaServer Pages), uma vez que esta não suporta todos 
 novos
 recursos da versão Java EE 7.
 
-
 GABARITO
 
-Item. 1. D 8. E
-Item. 15. D 22. B
+1. D 8. E
+15. D 22. B
 
-Item. 2. C 9. A
-Item. 16. C 23. C
+2. C 9. A
+16. C 23. C
 
-Item. 3. C 10. C
-Item. 17. C 24. C
+3. C 10. C
+17. C 24. C
 
-Item. 4. C 11. E
-Item. 18. E 25. A
+4. C 11. E
+18. E 25. A
 
-Item. 5. C 12. E
-Item. 19. C 26. C
+5. C 12. E
+19. C 26. C
 
-Item. 6. C 13. B
-Item. 20. C 27. C
+6. C 13. B
+20. C 27. C
 
-Item. 7. D 14. E
-Item. 21. E
-
+7. D 14. E
+21. E
 
 JAVA PERSISTENCE API (JPA)
 
@@ -8411,11 +8127,9 @@ public class Bar implements javax.ejb.EntityBean { ...
 
 1 Possui até uma versão para .NET - chama-se NHibernate.
 
-
 / 235
 
 /
-
 
 Galera, esse conceito é teórico! Na prática, por dificuldades técnicas (entre
 outras razões),
@@ -8478,7 +8192,6 @@ Enfim, ele foi
 incorporado ao EJB 3.0 (apesar de ser independente deste), permitindo sua
 utilização em
 Ambientes Java SE e Java EE.
-
 
 Em suma, podemos dizer que o JPA é um padrão para persistência de dados que fornece
 aos
@@ -8544,11 +8257,9 @@ dados.
 @OneToMany Mapeamento um para muitos (1 :N).
 @OneToOne Mapeamento um para um (1:1).
 
-
 / 235
 
 /
-
 
 Galera, vocês sabem o que é um EntityManager? Trata-se de uma interface que funciona
 como
@@ -8618,11 +8329,9 @@ Um artigo do DevMedia faz uma excelente comparação entre Persistence Context e
 Memória
 Cache de um Processador (aquela mais rápida):
 
-
 / 235
 
 /
-
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -8692,9 +8401,7 @@ EntityManagerFactory, basta chamar a função createEntityManager.
 2 Ele especifica qual implementação será utilizada (Hibernate, Toplink, JDO, etc); conexão com
 banco, etc.
 
-
 www. estra tegiaconcursos. com. br
-
 
 * = Extended persiste nce context
 
@@ -8729,9 +8436,7 @@ objeto que foi
 desconectado do EntityManager. Quando um objeto é Destacado, mudanças sucessivas não irão
 mais ser rastreadas e nenhuma sincronização automática do banco de dados será realizada.
 
-
 ,
-
 
 Por fim, é interessante mencionar uma implementação do JPA que tem feito sucesso
 ultimamente:
@@ -8743,10 +8448,9 @@ JCA e SDO. Galera, isso nunca caiu em prova, mas eu acho importante saber que ex
 essa
 implementação também. Blz?
 
-
 QUESTõES CoMENTADAS - JPA - MULTIBANCAS
 
-Item. 1. (FCC - 2007 - TRE/MS - Analista de Sistemas - III) A API de Persistência Java
+1. (FCC - 2007 - TRE/MS - Analista de Sistemas - III) A API de Persistência Java
 pode ser
 utilizada no container Web e/ou no container EJB e disponibiliza recursos de mapeamento
 objeto-relacional as aplicações Java EE.
@@ -8763,7 +8467,7 @@ pelo Container EJB, pelo Container Web ou pelo Application Client.
 
 Conforme vimos em aula, a questão está completamente perfeita! Gabarito: C
 
-Item. 2. (CESPE - 2014 - TJ-SE - Analista Judiciário - Banco de Dados) A JPA, que foi
+2. (CESPE - 2014 - TJ-SE - Analista Judiciário - Banco de Dados) A JPA, que foi
 criada como
 alternativa para o Hibernate para conexão com os sistemas gerenciadores de banco de
 dados, está nativa no Java SE a partir da versão 1.3.
@@ -8785,7 +8489,7 @@ e
 Hibernate é a implementação dessa especificação (assim como TopLink, OpenJPA, JDO, etc).
 Gabarito: E
 
-Item. 3. (FCC - 2014 - TRT - 13a Região (PB) - Técnico Judiciário - Tecnologia da
+3. (FCC - 2014 - TRT - 13a Região (PB) - Técnico Judiciário - Tecnologia da
 Informação) Java
 Persistence API (JPA) é uma API padrão da linguagem Java para persistência de dados em
 bancos de dados relacionais. Em uma aplicação que utiliza JPA:
@@ -8794,11 +8498,9 @@ a) pode ser utilizada, como provedor de persistência, as bibliotecas
 EclipseLink, Hibernate,
 OracleTopLink, JBossSeam e JDBCProvider.
 
-
 / 235
 
 /
-
 
 b) as classes de entidade do banco de dados permitem o mapeamento entre objetos da
 classe e
@@ -8842,7 +8544,7 @@ de servidor de banco de dados sem a necessidade de alterar o código, (e) Claro 
 as relações
 devem ser refletidas nas classes de entidade (@OneToOne, @ManyToOne, etc). Gabarito: D
 
-Item. 4. (CESPE - 2010 - MPU - Analista de Sistemas) A versão 3.0 da API de Persistência
+4. (CESPE - 2010 - MPU - Analista de Sistemas) A versão 3.0 da API de Persistência
 Java
 utiliza descritores de implantação, não permitindo uso de anotações.
 
@@ -8863,11 +8565,9 @@ Anotações
 (Annotations) - principalmente para consultas e atualizações de dados. O
 desenvolvedor define
 
-
 / 235
 
 /
-
 
 como os objetos são mapeados e o framework faz o resto - acessa o banco, gera os
 comandos
@@ -8879,7 +8579,7 @@ a versão atual permite - sim - a utilização de Descritores de Implantação e
 Anotações. Gabarito:
 E
 
-Item. 5. (CESPE - 2010 - MPU - Analista de Sistemas) A versão 3.0 da API de
+5. (CESPE - 2010 - MPU - Analista de Sistemas) A versão 3.0 da API de
 Persistência Java
 provê uma linguagem de consulta de persistência Java que é uma forma melhorada da
 linguagem de consulta do EJB.
@@ -8930,15 +8630,13 @@ QL) for both static and dynamic queries. It also supports the use of
 pluggable persistence
 providers.
 
-
 / 235
 
 /
 
-
 Gabarito: C
 
-Item. 6. (CESPE - 2010 - MPU - Analista de Sistemas) A API de Persistência Java é
+6. (CESPE - 2010 - MPU - Analista de Sistemas) A API de Persistência Java é
 embasada em
 ideias contidas em frameworks líderes de mercado, como Hibernate, Oracle
 TopLink e
@@ -8960,7 +8658,7 @@ Conforme vimos em aula, JPA pegou as melhores ideias dos frameworks líderes de 
 e
 condensou em uma especificação. Gabarito: C
 
-Item. 7. (CESPE - 2013 - TRE/MS - Analista de Sistemas) Assinale a opção correspondente ao
+7. (CESPE - 2013 - TRE/MS - Analista de Sistemas) Assinale a opção correspondente ao
 elemento que, além de ser utilizado para definir um meio de mapeamento objeto-relacional
 para objetos Java simples e comuns (POJOs), denominados beans de entidade, também é
 utilizado para gerenciar o desenvolvimento de entidades do modelo relacional
@@ -8995,11 +8693,9 @@ nomenclatura dos métodos, construtor público padrão e sem parâmetros, entre 
 o
 JPA, o POJO é a unidade básica!
 
-
 / 235
 
 /
-
 
 E foi assim que surgiu o Java Persistence API (JPA)! Olha que engraçado: a
 especificação surgiu
@@ -9023,7 +8719,7 @@ Conforme vimos em aula, JPA é utilizado para realizar o mapeamento
 objeto/relacional,
 utilizando POJOs, em ambientes Java SE e Java EE. Gabarito: C
 
-Item. 8. (FCC - 2012 - TJ-PE - Analista Judiciário - Análise de Sistemas) Quando se
+8. (FCC - 2012 - TJ-PE - Analista Judiciário - Análise de Sistemas) Quando se
 utiliza JPA, um
 EntityManager mapeia um conjunto de classes a um banco de dados particular.
 Este
@@ -9053,7 +8749,7 @@ Implantação
 
 Conforme vimos em aula, trata-se do Persistence Unit. Gabarito: B
 
-Item. 9. (CESPE - 2013 - CNJ - Técnico Judiciário - Programação de Sistemas) Os objetos
+9. (CESPE - 2013 - CNJ - Técnico Judiciário - Programação de Sistemas) Os objetos
 mapeados
 na linguagem Java que devem ser persistidos como objetos precisam utilizar JPA (Java
 Persistence API), pois o JPA permite realizar o mapeamento
@@ -9062,11 +8758,9 @@ automatizado e transparente e sua persistência em um banco de dados relacional.
 
 Comentários:
 
-
 / 235
 
 /
-
 
 Em suma, podemos dizer que o JPA é um padrão para persistência de dados que fornece
 aos
@@ -9117,18 +8811,16 @@ pelo Container EJB, pelo Container Web ou pelo Application Client.
 Conforme vimos em aula, está perfeito - lembrando que JPA faz parte da Especificação
 do EJB
 
-Item. 3.0. Gabarito: C
+3.0. Gabarito: C
 
 12.(CESPE - 2013 - CPRM - Analista em Geociências - Sistemas) Java Persistence API
 (JPA) é
 uma solução para persistência de dados, utilizada, inclusive, quando há mapeamento do
 modelo orientado a objeto para bancos de dados relacionais.
 
-
 / 235
 
 /
-
 
 Comentários:
 
@@ -9184,9 +8876,7 @@ da
 especificação EJB e serve para definir as interfaces de acesso local e/ou remoto de um
 componente EJB.
 
-
 ,
-
 
 Comentários:
 
@@ -9243,9 +8933,7 @@ private EntityManager em;
 
 private EntityTransaction et;
 
-
 ,
-
 
 private void iniciarTransacao()
 
@@ -9295,7 +8983,7 @@ nomes), o parâmetro é o Persistence Unit definido no Descritor de Implantaçã
 (persistence.xml).
 Gabarito: A
 
-Item. 18. (FCC - 2012 - TJ-PE - Programador de computador) Em uma classe de entidade
+18. (FCC - 2012 - TJ-PE - Programador de computador) Em uma classe de entidade
 de uma
 aplicação que utiliza JPA, a anotação que define um atributo que não será salvo no
 banco de
@@ -9306,11 +8994,9 @@ a) @Optional.
 b) @Transient
 c) @Stateless.
 
-
 / 235
 
 /
-
 
 d) @Stateful.
 
@@ -9349,7 +9035,7 @@ dados.
 
 Conforme vimos em aula, trata-se da anotação @Transient. Gabarito: B
 
-Item. 19. (FCC - 2011 - TRT - 19a Região (AL) - Técnico Judiciário - Tecnologia da
+19. (FCC - 2011 - TRT - 19a Região (AL) - Técnico Judiciário - Tecnologia da
 Informação) Os
 estados do ciclo de vida de uma instância de uma entidade, definidos na JPA 2.0, são:
 
@@ -9357,11 +9043,9 @@ a) novo (new), gerenciado (managed), destacado (detached) e removido (removed).
 
 b) ativo (active), inativo (inactive) e removido (removed).
 
-
 / 235
 
 /
-
 
 c) novo (new), temporário (temporary), permanente (permanent) e destacado (detached).
 
@@ -9383,19 +9067,19 @@ EntityManager e não possui qualquer representação no banco de dados. Bacana?
 
 Conforme vimos em aula, trata-se da primeira opção! Gabarito: A
 
-Item. 20. (FEPESE - 2013 - JUCESC - Analista Técnico em Gestão de Registro Mercantil -
+20. (FEPESE - 2013 - JUCESC - Analista Técnico em Gestão de Registro Mercantil -
 Analista
 de Informática) Em relação à JPA e Hibernate, considere as seguintes afirmativas.
 
-Item. 1. JPA especifica uma JSR.
+1. JPA especifica uma JSR.
 
-Item. 2. Hibernate especifica uma JSR.
+2. Hibernate especifica uma JSR.
 
-Item. 3. Hibernate cuida da camada de persistência enquanto JPA da camada de transação.
+3. Hibernate cuida da camada de persistência enquanto JPA da camada de transação.
 
-Item. 4. Hibernate é uma implementação de JSR.
+4. Hibernate é uma implementação de JSR.
 
-Item. 5. JPA é uma implementação de JSR.
+5. JPA é uma implementação de JSR.
 
 Assinale a alternativa que indica todas as afirmativas corretas.
 
@@ -9411,11 +9095,9 @@ e) São corretas apenas as afirmativas 3, 4 e 5
 
 Comentários:
 
-
 / 235
 
 /
-
 
 Que tal, agora, entrar mais a fundo no JPA? Bem, os frameworks do mercado
 possuíam
@@ -9436,7 +9118,7 @@ Perfeito, é uma implementação de JSR; (4) Não, JPA é uma especificação de
 
 Gabarito: A
 
-Item. 21. (FCC - 2011 - TCE/PR - Analista de Sistemas) A JPA:
+21. (FCC - 2011 - TCE/PR - Analista de Sistemas) A JPA:
 
 a) pode ser usada fora de componentes EJB e fora da plataforma Java EE, em
 aplicações Java
@@ -9479,11 +9161,9 @@ Java SE.
 cabeça de
 vocês. Está errado!
 
-
 / 235
 
 /
-
 
 Essas ferramentas facilitam o mapeamento dos atributos de uma base de dados relacional
 para
@@ -9534,11 +9214,9 @@ Gabarito: A
 22.(FCC - 2011 - TRT - 23a REGIÃO (MT) - Técnico Judiciário - Tecnologia da Informação) Em
 relação à JPA (Java Persistence API) é INCORRETO afirmar que:
 
-
 / 235
 
 /
-
 
 ©Entity
 
@@ -9579,7 +9257,6 @@ e) @OneToMany indica que o atributo contém um conjunto de entidades que a refer
 
 Comentários:
 
-
 ANOTAÇÃO
 
 DESCRIÇÃO
@@ -9606,7 +9283,6 @@ tabela.
 de
 dados.
 
-
 @lnheritance Define um relacionamento de herança à entidade.
 @ManyToOne Mapeamento muitos para um (N:1).
 @OneToMany Mapeamento um para muitos (1 :N).
@@ -9615,20 +9291,19 @@ dados.
 Conforme vimos em aula, namedQuery define apenas uma consulta! A Anotação namedQueries é
 quem define diversas consultas! Gabarito: A
 
-
 LISTA DE QUESTõES - JPA- MULTIBANCAS
 
-Item. 1. (FCC - 2007 - TRE/MS - Analista de Sistemas - III) A API de Persistência Java
+1. (FCC - 2007 - TRE/MS - Analista de Sistemas - III) A API de Persistência Java
 pode ser
 utilizada no container Web e/ou no container EJB e disponibiliza recursos de mapeamento
 objeto-relacional as aplicações Java EE.
 
-Item. 2. (CESPE - 2014 - TJ-SE - Analista Judiciário - Banco de Dados) A JPA, que foi
+2. (CESPE - 2014 - TJ-SE - Analista Judiciário - Banco de Dados) A JPA, que foi
 criada como
 alternativa para o Hibernate para conexão com os sistemas gerenciadores de banco de
 dados, está nativa no Java SE a partir da versão 1.3.
 
-Item. 3. (FCC - 2014 - TRT - 13a Região (PB) - Técnico Judiciário - Tecnologia da
+3. (FCC - 2014 - TRT - 13a Região (PB) - Técnico Judiciário - Tecnologia da
 Informação) Java
 Persistence API (JPA) é uma API padrão da linguagem Java para persistência de dados em
 bancos de dados relacionais. Em uma aplicação que utiliza JPA:
@@ -9661,26 +9336,24 @@ entidade criadas na aplicação, o que torna a execução mais rápida. O mapeam
 relações
 é feito em tempo de execução pelas bibliotecas do provedor de persistência.
 
-Item. 4. (CESPE - 2010 - MPU - Analista de Sistemas) A versão 3.0 da API de
+4. (CESPE - 2010 - MPU - Analista de Sistemas) A versão 3.0 da API de
 Persistência Java
 utiliza descritores de implantação, não permitindo uso de anotações.
 
-Item. 5. (CESPE - 2010 - MPU - Analista de Sistemas) A versão 3.0 da API de
+5. (CESPE - 2010 - MPU - Analista de Sistemas) A versão 3.0 da API de
 Persistência Java
 provê uma linguagem de consulta de persistência Java que é uma forma melhorada da
 linguagem de consulta do EJB.
 
-Item. 6. (CESPE - 2010 - MPU - Analista de Sistemas) A API de Persistência Java é
+6. (CESPE - 2010 - MPU - Analista de Sistemas) A API de Persistência Java é
 embasada em
 ideias contidas em frameworks líderes de mercado, como Hibernate, Oracle
 TopLink e
 Objetos de Dados Java.
 
-
 ,
 
-
-Item. 7. (CESPE - 2013 - TRE/MS - Analista de Sistemas) Assinale a opção correspondente ao
+7. (CESPE - 2013 - TRE/MS - Analista de Sistemas) Assinale a opção correspondente ao
 elemento que, além de ser utilizado para definir um meio de mapeamento objeto-relacional
 para objetos Java simples e comuns (POJOs), denominados beans de entidade, também é
 utilizado para gerenciar o desenvolvimento de entidades do modelo relacional
@@ -9696,7 +9369,7 @@ c) JPA
 d) spring
 e) struts
 
-Item. 8. (FCC - 2012 - TJ-PE - Analista Judiciário - Análise de Sistemas) Quando se
+8. (FCC - 2012 - TJ-PE - Analista Judiciário - Análise de Sistemas) Quando se
 utiliza JPA, um
 EntityManager mapeia um conjunto de classes a um banco de dados particular.
 Este
@@ -9712,7 +9385,7 @@ d) entity transaction.
 
 e) persistence provider.
 
-Item. 9. (CESPE - 2013 - CNJ - Técnico Judiciário - Programação de Sistemas) Os objetos
+9. (CESPE - 2013 - CNJ - Técnico Judiciário - Programação de Sistemas) Os objetos
 mapeados
 na linguagem Java que devem ser persistidos como objetos precisam utilizar JPA (Java
 Persistence API), pois o JPA permite realizar o mapeamento
@@ -9734,9 +9407,7 @@ de dados.
 uma solução para persistência de dados, utilizada, inclusive, quando há mapeamento do
 modelo orientado a objeto para bancos de dados relacionais.
 
-
 ,
-
 
 13.(CESPE - 2013 - TRE/MS - Analista de Sistemas - C) JPA é um
 framework MVC de
@@ -9791,11 +9462,9 @@ et.begin();
 O parâmetro "Exemplo", passado para o método createEntityManagerFactory da classe
 Persistence refere-se ao nome:
 
-
 / 235
 
 /
-
 
 a) da unidade de persistência definido na tag persistence-unit contida
 no arquivo
@@ -9813,7 +9482,7 @@ e) da classe que faz a conexão com o banco de dados relacional ao qual a aplica
 deseja se
 conectar.
 
-Item. 18. (FCC - 2012 - TJ-PE - Programador de computador) Em uma classe de entidade de
+18. (FCC - 2012 - TJ-PE - Programador de computador) Em uma classe de entidade de
 uma
 aplicação que utiliza JPA, a anotação que define um atributo que não será salvo no
 banco
@@ -9849,16 +9518,15 @@ destacado
 Analista de
 Informática) Em relação à JPA e Hibernate, considere as seguintes afirmativas.
 
-Item. 1. JPA especifica uma JSR.
+1. JPA especifica uma JSR.
 
-Item. 2. Hibernate especifica uma JSR.
+2. Hibernate especifica uma JSR.
 
-Item. 3. Hibernate cuida da camada de persistência enquanto JPA da camada de transação.
+3. Hibernate cuida da camada de persistência enquanto JPA da camada de transação.
 
+4. Hibernate é uma implementação de JSR.
 
-Item. 4. Hibernate é uma implementação de JSR.
-
-Item. 5. JPA é uma implementação de JSR.
+5. JPA é uma implementação de JSR.
 
 Assinale a alternativa que indica todas as afirmativas corretas.
 
@@ -9895,7 +9563,7 @@ e) possui uma interface EntityBeans que padroniza operações Create Read Update
 Delete
 (CRUD) que envolvem tabelas.
 
-Item. 22. (FCC - 2011 - TRT - 23a REGIÃO (MT) - Técnico Judiciário - Tecnologia da Informação) Em
+22. (FCC - 2011 - TRT - 23a REGIÃO (MT) - Técnico Judiciário - Tecnologia da Informação) Em
 relação à JPA (Java Persistence API) é INCORRETO afirmar que:
 
 ©Entity
@@ -9919,7 +9587,6 @@ private string nome;
 @oneToMany(cascade = cascadeType.ALL, mappedBy = "domicld")
 private collection<Predio> prediocoliection;
 
-
 a) @NamedQuery é aplicada para definir várias consultas.
 
 b) @Entity define que haverá correspondência da classe com uma tabela do banco de dados.
@@ -9936,9 +9603,7 @@ pode ser nulo.
 
 e) @OneToMany indica que o atributo contém um conjunto de entidades que a referenciam.
 
-
 ,
-
 
 GABARITo
 
@@ -9946,29 +9611,28 @@ GABARITO
 
 lo
 
-Item. 1. c 8. B
-Item. 15. E
+1. c 8. B
+15. E
 
-Item. 2. E 9. C
-Item. 16. C
+2. E 9. C
+16. C
 
-Item. 3. D 10. E
-Item. 17. A
+3. D 10. E
+17. A
 
-Item. 4. E 11. C
-Item. 18. B
+4. E 11. C
+18. B
 
-Item. 5. C 12. C
-Item. 19. A
+5. C 12. C
+19. A
 
-Item. 6. C 13. E
-Item. 20. A
+6. C 13. E
+20. A
 
-Item. 7. C 14. C
-Item. 21. A
+7. C 14. C
+21. A
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 HIBERNATE
 
@@ -10023,7 +9687,6 @@ construção da Especificação
 de Persistência Java (JPA). Apesar disso, ele também é oferecido para executar a mesma função na
 plataforma .NET - é o famoso
 NHibernate.
-
 
 OBSERVAÇÕES
 
@@ -10085,11 +9748,9 @@ muito sentido utilizar o Hibernate, porque ele continuará manipulando o
 banco de dados
 diretamente.
 
-
 / 235
 
 /
-
 
 OBSERVAÇÕES
 
@@ -10123,7 +9784,6 @@ Um
 recurso interessante é o Query Cache, que permite fazer um cache das queries
 executadas diversas
 vezes.
-
 
 Hibernate: Arquitetura
 
@@ -10188,9 +9848,7 @@ name="hibernate.connection.uri">jdbc:mysql://localhost/banco_dados</property>
 
 </hibernate-configuration>
 
-
 ,
-
 
 Observem também que ele configura a SessionFactory, que é a classe utilizada pelo
 Hibernate
@@ -10244,7 +9902,6 @@ por controlar transações:
 
 2 Classes Persistentes não precisam implementar interfaces ou herdar de uma classe-base especial!
 
-
 * Session (org.hibernate.Session): trata-se de um objeto leve, single-threaded, de
 vida curta
 que representa uma comunicação entre a aplicação e os objetos persistentes, através de
@@ -10289,7 +9946,6 @@ Object) - que nada mais é que um objeto simples que possui um construtor
 padrão sem
 argumentos.
 
-
 Hibernate: Ciclo De Vida Da Persistência
 
 Agora vamos falar um pouco sobre os estados de um objeto no Hibernate! Nas diversas
@@ -10330,11 +9986,9 @@ representação no banco de dados e um valor identificador. Qualquer mudança em
 um
 objeto nesse estado é detectada e sincronizada com a base de dados.
 
-
 / 235
 
 /
-
 
 * Desanexado: a instância foi associada a um contexto persistente3, no entanto não
 está mais
@@ -10373,7 +10027,6 @@ na linguagem Java a partir da versão Java SE 5.0. As anotações mais comuns s�
 
 ANOTAÇÃO DESCRIÇÃO
 
-
 @Table
 
 Utilizada para especificar detalhes da tabela que serão utilizados
@@ -10389,13 +10042,11 @@ identificadora, isto é, será a chave primária. Pode ser um campo
 único ou a combinação de múltiplos campos dependendo da
 estrutura da tabela.
 
-
 @Column
 
 Utilizada para especificar detalhes da coluna para o qual um campo
 ou propriedade será mapeado. Pode-se utilizar essa anotação com
 os atributos: name, length, nullable e unique.
-
 
 @Entity
 
@@ -10418,12 +10069,10 @@ e vice-versa. Entenderam bem? Eles podem até ter nomes parecidos, mas não
 são iguais
 (Hibernate: float; Java: Float; SQL: FLOAT). Vejamos a tabela abaixo com os tipos primitivos:
 
-
 Tipo de
 Mapeamento
 
 Tipo Java Tipo SQL
-
 
 integer
 long
@@ -10476,9 +10125,7 @@ CHAR(1) (T or
 
 'F')
 
-
 ,
-
 
 Vamos ver um exemplo de uma Tabela EMPREGADO:
 
@@ -10531,11 +10178,9 @@ return primeitoNome;
 
 }
 
-
 / 235
 
 /
-
 
 public void setPrimeiroNome( String primeiro_nome) {
 this.primeiroNome= primeiro_nome;
@@ -10605,11 +10250,9 @@ time de futebol e jogadores. Ora, um time de futebol tem vários jogadores, mas 
 jogador só
 joga em um time de futebol. Outro exemplo: um órgão tem vários servidores, mas um servidor
 
-
 / 235
 
 /
-
 
 pertence a um único órgão. Tranquilo de entender, não é? A anotação
 utilizada para esse
@@ -10663,13 +10306,11 @@ objeto seja carregado múltiplas vezes pelo Hibernate ou que a informação entr
 conflito. Sobre
 esse assunto, é isso que vocês precisam saber.
 
-
 ,
-
 
 QUESTõES CoMENTADAS - HIBERNATE - MULTIBANCAS
 
-Item. 1. (FCC - 2011 - TRT - 19a Região (AL) - Técnico Judiciário - Tecnologia da Informação) Linguagem
+1. (FCC - 2011 - TRT - 19a Região (AL) - Técnico Judiciário - Tecnologia da Informação) Linguagem
 de queries, fornecida pelo Hibernate, que é similar em aparência ao SQL e que, no entanto, é
 orientada a objeto e compreende noções como herança, polimorfismo e associação. Trata-se
 de:
@@ -10698,7 +10339,7 @@ HQL e também ao SQL tradicional.
 
 Conforme vimos em aula, trata-se do HQL! Gabarito: D
 
-Item. 2. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da Informação) Os
+2. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da Informação) Os
 três
 estados de objeto definidos pelo framework Hibernate são:
 
@@ -10714,7 +10355,6 @@ e) Transiente (Transient), Permanente (Permanent) e Resiliente (Resilient).
 
 Comentários:
 
-
 SaJc( )
 
 EvictC)
@@ -10725,7 +10365,7 @@ ClearCKy
 
 Conforme vimos em aula, trata-se do Transiente, Persistente e Destacado. Gabarito: D
 
-Item. 3. (FCC - 2012 - TRE-CE - Técnico Judiciário - Programação de Sistemas) Com relação ao framework
+3. (FCC - 2012 - TRE-CE - Técnico Judiciário - Programação de Sistemas) Com relação ao framework
 Hibernate é correto afirmar:
 
 a) Permite fazer a persistência automatizada dos objetos em uma aplicação Java para as
@@ -10757,11 +10397,9 @@ seguido pelo sufixo .map.xml.
 
 Comentários:
 
-
 / 235
 
 /
-
 
 O trabalho do desenvolvedor é definir como os objetos são mapeados nas tabelas do
 banco
@@ -10826,17 +10464,15 @@ arquivo de mapeamento hbm.xml individuais para cada classe de persistência e,
 então,
 referenciá-la e mapeá-la no cfg.xml.
 
-
 / 235
 
 /
-
 
 (e) Conforme vimos em aula, pode-se usar annotations. Ademais, o sufixo seria hbm.xml.
 
 Gabarito: A
 
-Item. 4. (FCC - 2010 - TRT - 22a Região (PI) - Técnico Judiciário - Tecnologia da Informação)
+4. (FCC - 2010 - TRT - 22a Região (PI) - Técnico Judiciário - Tecnologia da Informação)
 Hibernate é
 um framework:
 
@@ -10882,15 +10518,13 @@ relacional.
 
 Gabarito: E
 
-Item. 5. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da Informação) Sendo um grupo de classes
+5. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da Informação) Sendo um grupo de classes
 e componentes responsáveis pelo armazenamento e recuperação de dados, esta camada inclui
 necessariamente um modelo das entidades do domínio de negócios (mesmo que seja somente
 um modelo de metadados). No âmbito do mapeamento objeto-relacional (hibernate) esta é a
 camada de:
 
-
 ,
-
 
 a) negócio.
 
@@ -10916,7 +10550,7 @@ hibernate.cfg.xml, hibernate.properties e hbm.xml.
 Conforme vimos em aula, a camada responsável pelo armazenamento e recuperação de dados
 é a Camada de Persistência. Gabarito: E
 
-Item. 6. (FCC - 2007 - MPU - Analista de Informática - Desenvolvimento de Sistemas) Objetos que têm
+6. (FCC - 2007 - MPU - Analista de Informática - Desenvolvimento de Sistemas) Objetos que têm
 uma representação no banco de dados, mas não fazem mais parte de uma sessão do Hibernate,
 o que significa que o seu estado pode não estar mais sincronizado com o banco de dados, são
 do tipo:
@@ -10951,11 +10585,9 @@ Persistente: a instância está atualmente associada a um contexto persistente, 
 representação no banco de dados e um valor identificador. Qualquer mudança em um objeto
 nesse estado é detectada e sincronizada com a base de dados.
 
-
 / 235
 
 /
-
 
 Desanexado: a instância foi associada a um contexto persistente, no entanto
 não está mais
@@ -10967,7 +10599,7 @@ estado intermediário.
 
 Conforme vimos em aula, trata-se do Tipo Detached (Desanexado)l Gabarito: B
 
-Item. 7. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da Informação) Em
+7. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da Informação) Em
 sua
 essência, o Hibernate é um framework para:
 
@@ -10997,7 +10629,7 @@ Conforme vimos em aula, trata-se de um framework para mapeamento objeto-relacion
 
 Gabarito: A
 
-Item. 8. (FCC - 2012 - TRF - 2a REGIÃO - Técnico Judiciário - Informática) Quando se cria uma aplicação
+8. (FCC - 2012 - TRF - 2a REGIÃO - Técnico Judiciário - Informática) Quando se cria uma aplicação
 Java utilizando um recurso de Mapeamento Objeto-Relacional como o Hibernate, o
 mapeamento entre classes e tabelas, propriedades e colunas, associações e chaves estrangeiras,
 tipos do Java e tipos do SQL, é feito através de metadados. Esses metadados
@@ -11013,11 +10645,9 @@ c) descriptions.
 
 d) patterns.
 
-
 / 235
 
 /
-
 
 e) actions.
 
@@ -11033,7 +10663,7 @@ dados. O desenvolvedor define como os objetos são mapeados e o framework faz o 
 
 Conforme vimos em aula, trata-se de Annotations! Gabarito: B
 
-Item. 9. (FCC - 2008 - TRF5 - Analista de Sistemas) Usando o Hibernate, as pesquisas
+9. (FCC - 2008 - TRF5 - Analista de Sistemas) Usando o Hibernate, as pesquisas
 podem ser
 realizadas em bancos de dados por meio de:
 
@@ -11061,7 +10691,7 @@ tradicional.
 
 Conforme vimos em aula, trata-se do Criteria Query API, HQL e SQL. Gabarito: E
 
-Item. 10. (CONSULPLAN - 2012 - TSE - Analista Judiciário - Análise de Sistemas) Por suas características,
+10. (CONSULPLAN - 2012 - TSE - Analista Judiciário - Análise de Sistemas) Por suas características,
 Hibernate 3.5 constitui uma ferramenta com a finalidade de realizar o seguinte tipo de
 mapeamento:
 
@@ -11074,7 +10704,6 @@ c) entidade/relacionamento para modelagem de dados.
 d) lógico/físico para desenvolvimento por meio da prototipação.
 
 Comentários:
-
 
 Pois bem! Era trabalhoso transformar objetos de uma classe em registros de uma tabela
 e vice-
@@ -11133,7 +10762,6 @@ interfaces session e transaction, tendo ainda suporte a herança e polimorfismo.
 a licença LGPL, o que permite seu uso em projetos comerciais ou open source.
 
 Comentários:
-
 
 A imagem abaixo mostra de maneira absurdamente abstrata uma sugestão de arquitetura em
 que
@@ -11196,7 +10824,6 @@ critério, entre outras.
 
 Comentários:
 
-
 Quando utilizamos o Hibernate para realizar consultas no banco de dados, temos a
 oportunidade
 de trabalhar com SQL (Structured Query Language), HQL (Hibernate Query
@@ -11209,7 +10836,7 @@ tradicional.
 
 Conforme vimos em aula, está perfeito! Vocês já notaram que isso cai bastante, né?l Gabarito: C
 
-Item. 14. (CESPE - 2009 - CEHAP-PB - Programador de computador) No framework Hibernate, é comum
+14. (CESPE - 2009 - CEHAP-PB - Programador de computador) No framework Hibernate, é comum
 que uma instância de uma classe persistente tenha três estados específicos. Assinale a opção
 que contém esses três estados.
 
@@ -11222,7 +10849,7 @@ Comentários:
 
 Conforme vimos em aula, trata-se do Transient, Persistent e Detached. Gabarito: C
 
-Item. 15. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) O Hibernate, framework
+15. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) O Hibernate, framework
 utilizado no
 desenvolvimento de consultas e atualização de dados em um banco relacional, foi criado para
 facilitar a integração entre programas em Java, funcionando também em ambientes .Net
@@ -11230,11 +10857,9 @@ facilitar a integração entre programas em Java, funcionando também em ambient
 
 Comentários:
 
-
 / 235
 
 /
-
 
 Nota de Rodapé: Hibernate tornou-se um framework tão popular que acabou por
 ser utilizado
@@ -11250,7 +10875,7 @@ a integração entre Aplicações Java e Bancos de Dados Relacionais, fazendo o 
 entre
 ambos os paradigmas. Bacana? Gabarito: C
 
-Item. 16. (CESPE - 2011 - Correios - Analista de Correios - Analista de Sistemas - Desenvolvimento de
+16. (CESPE - 2011 - Correios - Analista de Correios - Analista de Sistemas - Desenvolvimento de
 Sistemas) No Hibernate, o recurso Query Cache possibilita fazer o cache de queries que
 são
 executadas várias vezes.
@@ -11269,7 +10894,7 @@ vezes.
 
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
-Item. 17. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
+17. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
 No Hibernate, caso o nome da classe seja diferente do nome da tabela mapeada, é necessário
 informar, na anotação @Table, o nome da tabela, por meio do atributo name.
 
@@ -11281,7 +10906,6 @@ Utilizada para especificar detalhes da tabela que serão utilizados
 para persistir entidades na base de dados. Caso essa anotação seja
 omitida, não resultará em erro, porém será utilizado o nome da
 
-
 @Table
 classe como valor default. Dessa forma, apenas definimos a
 anotação se quisermos sobrescrever o nome da classe. Possui os
@@ -11291,13 +10915,11 @@ Conforme vimos em aula, é exatamente isso! Sobrescreve-se o nome da tabela
 por meio do
 atributo name. Gabarito: C
 
-
 / 235
 
 /
 
-
-Item. 18. (CESPE - 2013 - SERPRO - Analista - Desenvolvimento de Sistemas) Em Hibernate, a configuração
+18. (CESPE - 2013 - SERPRO - Analista - Desenvolvimento de Sistemas) Em Hibernate, a configuração
 de conexões de banco de dados deve ser feita somente por meio do uso de arquivo de
 propriedade.
 
@@ -11327,7 +10949,7 @@ Conforme vimos em aula, pode ser feito por meio do arquivo
 de propriedades
 (hibernate.properties) ou arquivo de configuração (hibernate.cfg.xml). Gabarito: E
 
-Item. 19. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) De acordo com o mapeamento mostrado
+19. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) De acordo com o mapeamento mostrado
 abaixo, no Hibernate, a coluna EventoJD manterá a chave primária da tabela Eventos.
 
 <hibernate-mappingpackage=
@@ -11349,13 +10971,11 @@ Comentários:
 
 ANOTAÇÃO DESCRIÇÃO
 
-
 @Table
 
 Utilizada para especificar detalhes da tabela que serão utilizados
 para persistir entidades na base de dados. Caso essa anotação seja
 omitida, não resultará em erro, porém será utilizado o nome da
-
 
 @ld
 classe como valor default. Dessa forma, apenas definimos a
@@ -11367,13 +10987,11 @@ identificadora, isto é, será a chave primária. Pode ser um campo
 único ou a combinação de múltiplos campos dependendo da
 estrutura da tabela.
 
-
 @Column
 
 Utilizada para especificar detalhes da coluna para o qual um campo
 ou propriedade será mapeado. Pode-se utilizar essa anotação com
 os atributos: name, length, nullable e unique.
-
 
 @Entity
 
@@ -11385,7 +11003,7 @@ Conforme vimos em aula, houve o mapeamento da classe Evento para a Tabela Evento
 cujo
 atributo identificador "id" será a coluna "EventoJD". Gabarito: C
 
-Item. 20. (CESPE - 2010 - TRE-BA - Programador de computador) O Hibernate, um framework
+20. (CESPE - 2010 - TRE-BA - Programador de computador) O Hibernate, um framework
 para o
 mapeamento objeto-relacional, é escrito na linguagem Java e, por isso, somente pode ser
 executado no ambiente Java.
@@ -11400,7 +11018,7 @@ também é oferecido para executar a mesma função na plataforma .NET - é o fa
 
 Conforme vimos em aula, ele também pode ser executado em ambiente .NET. Gabarito: E
 
-Item. 21. (CESPE - 2013 - MPOG - Técnico de Nível Superior - V - Categoria Profissional 7) Quando se
+21. (CESPE - 2013 - MPOG - Técnico de Nível Superior - V - Categoria Profissional 7) Quando se
 desenvolve um mapeamento com Hibernate, uma classe persistente criada não
 precisa
 implementar ou herdar qualquer classe especial do framework Hibernate.
@@ -11411,12 +11029,11 @@ Nota de Rodapé: Classes Persistentes não precisam implementar interfaces ou
 herdar de uma
 classe-base especial!
 
-
 Conforme vimos em aula, classes persistentes não precisam implementar interfaces ou
 herdar uma
 classe-base especial. Gabarito: C
 
-Item. 22. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
+22. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
 O objeto Session Factory do Hibernate mantém o mapeamento objeto relacional na sessão.
 
 Comentários:
@@ -11434,7 +11051,7 @@ Conforme vimos em aula, é na sessão que se mantém o mapeamento objeto-relacio
 Gabarito:
 C
 
-Item. 23. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
+23. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
 A Interface Criteria do Hibernate é utilizada para realizar consultas ao banco de dados.
 
 Comentários:
@@ -11454,7 +11071,7 @@ bancos de dados.
 
 Gabarito: C
 
-Item. 24. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Os tipos de mapeamento do Hibernate são
+24. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Os tipos de mapeamento do Hibernate são
 considerados tipos de dados SQL e precisam de conversão para dados Java nas respectivas
 classes Java.
 
@@ -11468,20 +11085,17 @@ e vice-versa. Entenderam bem? Eles podem até ter nomes parecidos, mas não
 são iguais
 (Hibernate: date; Java: Date; SQL: DATE). Vejamos a tabela abaixo:
 
-
 / 235
 
 /
-
 
 Conforme vimos em aula, os tipos de mapeamento não são tipos SQL, muito menos Java -
 são
 Tipos Hibernate! Gabarito: E
 
-
 LISTA DE QUESTõES - HIBERNATE - MULTIBANCAS
 
-Item. 1. (FCC - 2011 - TRT - 19a Região (AL) - Técnico Judiciário - Tecnologia da Informação) Linguagem
+1. (FCC - 2011 - TRT - 19a Região (AL) - Técnico Judiciário - Tecnologia da Informação) Linguagem
 de queries, fornecida pelo Hibernate, que é similar em aparência ao SQL e que, no entanto, é
 orientada a objeto e compreende noções como herança, polimorfismo e associação. Trata-se
 de:
@@ -11496,7 +11110,7 @@ d) HQL.
 
 e) JEEQL
 
-Item. 2. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da Informação) Os
+2. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da Informação) Os
 três
 estados de objeto definidos pelo framework Hibernate são:
 
@@ -11510,7 +11124,7 @@ d) Transiente (Transient), Persistente (Persistent) e Destacado (Detached).
 
 e) Transiente (Transient), Permanente (Permanent) e Resiliente (Resilient).
 
-Item. 3. (FCC - 2012 - TRE-CE - Técnico Judiciário - Programação de Sistemas) Com relação ao framework
+3. (FCC - 2012 - TRE-CE - Técnico Judiciário - Programação de Sistemas) Com relação ao framework
 Hibernate é correto afirmar:
 
 a) Permite fazer a persistência automatizada dos objetos em uma aplicação Java para as
@@ -11540,13 +11154,11 @@ necessário criar
 um arquivo de mapeamento XML que deve ser salvo obrigatoriamente com o nome da classe
 seguido pelo sufixo .map.xml.
 
-
 / 235
 
 /
 
-
-Item. 4. (FCC - 2010 - TRT - 22a Região (PI) - Técnico Judiciário - Tecnologia da Informação)
+4. (FCC - 2010 - TRT - 22a Região (PI) - Técnico Judiciário - Tecnologia da Informação)
 Hibernate é
 um framework:
 
@@ -11574,7 +11186,7 @@ e) cujo objetivo é diminuir a complexidade entre os programas Java que precisam
 trabalhar
 com um banco de dados do modelo relacional.
 
-Item. 5. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da Informação) Sendo um grupo de
+5. (FCC - 2007 - TRE-SE - Analista Judiciário - Tecnologia da Informação) Sendo um grupo de
 classes
 e componentes responsáveis pelo armazenamento e recuperação de dados, esta camada inclui
 necessariamente um modelo das entidades do domínio de negócios (mesmo que seja somente
@@ -11591,7 +11203,7 @@ d) consistência.
 
 e) persistência.
 
-Item. 6. (FCC - 2007 - MPU - Analista de Informática - Desenvolvimento de Sistemas) Objetos que têm
+6. (FCC - 2007 - MPU - Analista de Informática - Desenvolvimento de Sistemas) Objetos que têm
 uma representação no banco de dados, mas não fazem mais parte de uma sessão do Hibernate,
 o que significa que o seu estado pode não estar mais sincronizado com o banco de dados, são
 do tipo:
@@ -11606,15 +11218,13 @@ d) persistent.
 
 e) consistent.
 
-Item. 7. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da Informação) Em
+7. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia da Informação) Em
 sua
 essência, o Hibernate é um framework para:
-
 
 / 235
 
 /
-
 
 a) mapeamento objeto-relacional (ORM).
 
@@ -11626,7 +11236,7 @@ d) construção de aplicações utilizando-se inversão de controle (loC).
 
 e) injeção de dependência (dependency injection) em aplicativos.
 
-Item. 8. (FCC - 2012 - TRF - 2a REGIÃO - Técnico Judiciário - Informática) Quando se cria uma aplicação
+8. (FCC - 2012 - TRF - 2a REGIÃO - Técnico Judiciário - Informática) Quando se cria uma aplicação
 Java utilizando um recurso de Mapeamento Objeto-Relacional como o Hibernate, o
 mapeamento entre classes e tabelas, propriedades e colunas, associações e chaves estrangeiras,
 tipos do Java e tipos do SQL, é feito através de metadados. Esses metadados
@@ -11644,7 +11254,7 @@ d) patterns.
 
 e) actions.
 
-Item. 9. (FCC - 2008 - TRF5 - Analista de Sistemas) Usando o Hibernate, as pesquisas
+9. (FCC - 2008 - TRF5 - Analista de Sistemas) Usando o Hibernate, as pesquisas
 podem ser
 realizadas em bancos de dados por meio de:
 
@@ -11658,7 +11268,7 @@ d) Criteria Query API e SQL, apenas.
 
 e) Criteria Query API, HQL e SQL.
 
-Item. 10. (CONSULPLAN - 2012 - TSE - Analista Judiciário - Análise de Sistemas) Por suas características,
+10. (CONSULPLAN - 2012 - TSE - Analista Judiciário - Análise de Sistemas) Por suas características,
 Hibernate 3.5 constitui uma ferramenta com a finalidade de realizar o seguinte tipo de
 mapeamento:
 
@@ -11670,19 +11280,17 @@ c) entidade/relacionamento para modelagem de dados.
 
 d) lógico/físico para desenvolvimento por meio da prototipação.
 
-Item. 11. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) No Hibernate,
+11. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) No Hibernate,
 apenas a
 linguagem de consulta HQL (Hibernate Query Language) pode ser utilizada. A HQL executa os
 pedidos SQL sobre as classes de persistência do Java em vez de tabelas no banco de dados, o
 que diminui a distância entre o desenvolvimento das regras de negócio e o banco de dados.
 
-
 / 235
 
 /
 
-
-Item. 12. (CESPE - 2009 - SECONT-ES - Auditor do Estado - Tecnologia da Informação) O Hibernate, um
+12. (CESPE - 2009 - SECONT-ES - Auditor do Estado - Tecnologia da Informação) O Hibernate, um
 framework de mapeamento objeto relacional (ORM), cria uma camada persistência na solução
 desenvolvida, o que permite ligar os objetos aos bancos de dados relacionais. Entre
 seus
@@ -11690,7 +11298,7 @@ serviços, o Hibernate provê um meio de se controlar transações, por meio de 
 interfaces session e transaction, tendo ainda suporte a herança e polimorfismo. É distribuído sob
 a licença LGPL, o que permite seu uso em projetos comerciais ou open source.
 
-Item. 13. (CESPE - 2010 - TCU - Auditor Federal de Controle Externo - Tecnologia da Informação - Parte
+13. (CESPE - 2010 - TCU - Auditor Federal de Controle Externo - Tecnologia da Informação - Parte
 II)
 
 Uma equipe de desenvolvimento de software recebeu a incumbência de desenvolver
@@ -11726,7 +11334,7 @@ meio da formulação de queries em linguagens HQL (hibernate query language) e S
 (structured query language), bem como pelo uso de APIs (application programming interfaces)
 de busca por critério, entre outras.
 
-Item. 14. (CESPE - 2009 - CEHAP-PB - Programador de computador) No framework Hibernate, é comum
+14. (CESPE - 2009 - CEHAP-PB - Programador de computador) No framework Hibernate, é comum
 que uma instância de uma classe persistente tenha três estados específicos. Assinale a opção
 que contém esses três estados.
 
@@ -11735,32 +11343,30 @@ b) connected, disconnected, detached
 c) transient, persistent, detached
 d) transient, connected, timewait
 
-
 / 235
 
 /
 
-
-Item. 15. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) O Hibernate, framework utilizado
+15. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) O Hibernate, framework utilizado
 no
 desenvolvimento de consultas e atualização de dados em um banco relacional, foi criado para
 facilitar a integração entre programas em Java, funcionando também em ambientes .Net
 (N Hibernate).
 
-Item. 16. (CESPE - 2011 - Correios - Analista de Correios - Analista de Sistemas - Desenvolvimento de
+16. (CESPE - 2011 - Correios - Analista de Correios - Analista de Sistemas - Desenvolvimento de
 Sistemas) No Hibernate, o recurso Query Cache possibilita fazer o cache de queries que
 são
 executadas várias vezes.
 
-Item. 17. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
+17. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
 No Hibernate, caso o nome da classe seja diferente do nome da tabela mapeada, é necessário
 informar, na anotação @Table, o nome da tabela, por meio do atributo name.
 
-Item. 18. (CESPE - 2013 - SERPRO - Analista - Desenvolvimento de Sistemas) Em Hibernate, a configuração
+18. (CESPE - 2013 - SERPRO - Analista - Desenvolvimento de Sistemas) Em Hibernate, a configuração
 de conexões de banco de dados deve ser feita somente por meio do uso de arquivo de
 propriedade.
 
-Item. 19. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) De acordo com o mapeamento
+19. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) De acordo com o mapeamento
 mostrado
 abaixo, no Hibernate, a coluna EventoJD manterá a chave primária da tabela Eventos.
 
@@ -11780,26 +11386,25 @@ abaixo, no Hibernate, a coluna EventoJD manterá a chave primária da tabela Eve
 
 </hibernate-mapping>
 
-Item. 20. (CESPE - 2010 - TRE-BA - Programador de computador) O Hibernate, um framework
+20. (CESPE - 2010 - TRE-BA - Programador de computador) O Hibernate, um framework
 para o
 mapeamento objeto-relacional, é escrito na linguagem Java e, por isso, somente pode ser
 executado no ambiente Java.
 
-Item. 21. (CESPE - 2013 - MPOG - Técnico de Nível Superior - V - Categoria Profissional 7) Quando se
+21. (CESPE - 2013 - MPOG - Técnico de Nível Superior - V - Categoria Profissional 7) Quando se
 desenvolve um mapeamento com Hibernate, uma classe persistente criada não
 precisa
 implementar ou herdar qualquer classe especial do framework Hibernate.
 
-Item. 22. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
+22. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
 O objeto Session Factory do Hibernate mantém o mapeamento objeto relacional na sessão.
 
-Item. 23. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
+23. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção de Sistemas)
 A Interface Criteria do Hibernate é utilizada para realizar consultas ao banco de dados.
 
 *
 
-
-Item. 24. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Os tipos de mapeamento do Hibernate são
+24. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Os tipos de mapeamento do Hibernate são
 considerados tipos de dados SQL e precisam de conversão para dados Java nas respectivas
 classes Java.
 
@@ -11807,27 +11412,26 @@ GABARITo
 
 GABARITO
 
-Item. 1. D 8. B
-Item. 15. C 22. C
+1. D 8. B
+15. C 22. C
 
-Item. 2. D 9. E
-Item. 16. C 23. C
+2. D 9. E
+16. C 23. C
 
-Item. 3. A 10. A
-Item. 17. C 24. E
+3. A 10. A
+17. C 24. E
 
-Item. 4. E 11. E
-Item. 18. E
+4. E 11. E
+18. E
 
-Item. 5. E 12. C
-Item. 19. C
+5. E 12. C
+19. C
 
-Item. 6. B 13. C
-Item. 20. E
+6. B 13. C
+20. E
 
-Item. 7. A 14. C
-Item. 21. C
-
+7. A 14. C
+21. C
 
 JDBC
 
@@ -11897,11 +11501,9 @@ Java, normalmente é independente de plataforma e escrito pelos próprios desenv
 É
 o tipo mais recomendado para ser usado.
 
-
 / 235
 
 /
-
 
 Open Database Connectivity (ODBC) é um padrão aberto desenvolvido para que linguagens de
 programação ou sistemas operacionais se comuniquem com bancos de dados de
@@ -11955,14 +11557,11 @@ DriverManager. getConnection("jdbc:odbc:meusCdsDb"," conta", "sen ha");
 
 catch(SQLException e)
 
-
 2-22
-
 
 / 235
 
 /
-
 
 { // Se o carregador não localizar o driver do banco para conexão, lança a
 
@@ -12019,11 +11618,9 @@ con.closeO;
 
 catch(SQLException onConClose)
 
-
 / 235
 
 /
-
 
 {
 
@@ -12044,13 +11641,11 @@ de que vamos encerrar esta conexão mesmo que uma exceção ocorra, reservamos o
 fechamento
 para a cláusula finally().
 
-
 ,
-
 
 QUESTõES CoMENTADAS - JDBC - MULTIBANCAS
 
-Item. 1. (FCC - 2006 - BACEN - Analista de Sistemas) O estabelecimento de conexão entre um aplicativo
+1. (FCC - 2006 - BACEN - Analista de Sistemas) O estabelecimento de conexão entre um aplicativo
 Java e um banco de dados, para processar instruções SQL de consulta e atualização, é
 possibilitado por meio do padrão aberto, desenvolvido pela Microsoft, denominado:
 
@@ -12078,7 +11673,7 @@ determinado banco.
 
 Conforme vimos em aula, trata-se do ODBC. Gabarito: B
 
-Item. 2. (CESPE - 2008 - IPEA - Analista de Sistemas) O JDBC é usado, entre outras coisas, para acesso
+2. (CESPE - 2008 - IPEA - Analista de Sistemas) O JDBC é usado, entre outras coisas, para acesso
 a bancos de dados sem SQL, por meio de Java.
 
 Comentários:
@@ -12095,7 +11690,7 @@ construídas.
 
 Conforme vimos em aula, ele pode acessar praticamente qualquer coisa. Gabarito: C
 
-Item. 3. (FCC - 2008 - TRT - 2a REGIÃO (SP) - Analista Judiciário - Tecnologia da Informação) A
+3. (FCC - 2008 - TRT - 2a REGIÃO (SP) - Analista Judiciário - Tecnologia da Informação) A
 utilização
 de JDBC, em um programa Java, inicia com a indicação do pacote que contém a JDBC API pela
 declaração:
@@ -12104,9 +11699,7 @@ a) import java.awt.*;
 
 b) import java.util.*;
 
-
 ,
-
 
 c) import java.sql.*;
 
@@ -12126,7 +11719,7 @@ de dados diferentes de maneira uniforme padronizada, utilizam-se Drivers.
 
 Conforme vimos em aula, trata-se do java.sql. Gabarito: C
 
-Item. 4. (ESAF - 2009 - ANA - Analista Administrativo - Tecnologia da Informação - Desenvolvimento) Em
+4. (ESAF - 2009 - ANA - Analista Administrativo - Tecnologia da Informação - Desenvolvimento) Em
 uma aplicação Java, se o carregador de classes não conseguir localizar a classe do driver de
 banco de dados para uma conexão JDBC, é lançada a exceção
 a) java.lang.ClassNotFoundException.
@@ -12159,15 +11752,13 @@ catch(SQLException e)
 // exceção java.lang.ClassNotFoundExeption
 e.printStackTrace();
 
-
 / 235
 
 /
 
-
 Conforme vimos em aula, trata-se do java.lang.ClassNotFoundException. Gabarito: A
 
-Item. 5. (FGV - 2009 - MEC - Analista de Sistemas - Especialista) Observe o código abaixo, que se refere
+5. (FGV - 2009 - MEC - Analista de Sistemas - Especialista) Observe o código abaixo, que se refere
 á implementação de Java no acesso a Banco de Dados em JDBC.
 
 package wlss.jdbcTT;
@@ -12206,7 +11797,6 @@ String aut = rs.getString("autor");
 
 int totalFaixas = rs.getlnt("total_faixas");
 System.out.println(48 + " Titulo: " + tit + "
-
 
 Autor: " + aut
 
@@ -12247,7 +11837,6 @@ d) Estabelecer a conexão com o Banco de Dados.
 
 e) Criar uma variável para logon do Banco de Dados.
 
-
 Comentários:
 
 Para acessar um banco de dados, o primeiro passo é estabelecer uma conexão! É
@@ -12262,7 +11851,7 @@ para receber a conexão.
 
 Conforme vimos em aula, trata-se do estabelecimento de uma conexão. Gabarito: D
 
-Item. 6. (FCC - 2012 - MPE-AP - Técnico Ministerial - Informática) Analise as linhas a seguir presentes
+6. (FCC - 2012 - MPE-AP - Técnico Ministerial - Informática) Analise as linhas a seguir presentes
 em
 um programa Java que não apresenta erros.
 
@@ -12290,7 +11879,7 @@ Comentários:
 
 Conforme vimos em aula: a = Connection; b = Statement; c = ResuItSet. Gabarito: D
 
-Item. 7. (CESPE - 2012 - TJ-RO - Analista Judiciário - Análise de Sistemas - Desenvolvimento - B) JDBC,
+7. (CESPE - 2012 - TJ-RO - Analista Judiciário - Análise de Sistemas - Desenvolvimento - B) JDBC,
 uma biblioteca vinculada a API da arquitetura JEE, define como um cliente pode acessar bancos
 de dados OO exclusivamente.
 
@@ -12309,7 +11898,7 @@ Conforme vimos em aula, ele pode acessar bancos de dados de quaisquer
 paradigmas (OO,
 Relacional, etc). Gabarito: E
 
-Item. 8. (COPEVE-UFAL - 2012 - ALGÁS - Analista de Tecnologia da Informação - I) Na arquitetura do
+8. (COPEVE-UFAL - 2012 - ALGÁS - Analista de Tecnologia da Informação - I) Na arquitetura do
 JDBC, a diferença entre os tipos Statement e PreparedStatement é o fato do PreparedStatement
 manter os dados criptografados durante o tráfego entre o cliente e o servidor do SGBD.
 
@@ -12319,7 +11908,7 @@ Não existe isso! De fato, o PreparedStatement é mais seguro, visto que
 ajuda a impedir SQL
 Injection. No entanto, ele não mantém dados criptografados. Gabarito: E
 
-Item. 9. (FGV - 2009 - MEC - Administrador de Banco de Dados) O pacote "java.sql" da API Java consiste
+9. (FGV - 2009 - MEC - Administrador de Banco de Dados) O pacote "java.sql" da API Java consiste
 de um conjunto de classes e interfaces que permitem embutir código SQL em métodos Java
 para por meio de drivers JDBC acessar diversos SGBDs. As alternativas a seguir apresentam
 interfaces do pacote "java.sql", à exceção de uma. Assinale-a.
@@ -12336,7 +11925,7 @@ Pegadinha de banca que não sabe avaliar conhecimento! DriverManager não é uma
 interface, é
 uma classe! Gabarito: D
 
-Item. 10. (CESPE - 2008 - HEMOBRÁS - Analista de Gestão Corporativa - Administrador de
+10. (CESPE - 2008 - HEMOBRÁS - Analista de Gestão Corporativa - Administrador de
 Banco de
 Dados) O JDBC fornece a classe CalIableStatementSQL, que permite que procedimentos ou
 funções SQL armazenados sejam chamados.
@@ -12348,11 +11937,9 @@ e funções
 armazenados no banco (quando o banco suportar este recurso). A interface
 ResuItSet permite
 
-
 / 235
 
 /
-
 
 colher os resultados da execução de nossa query no banco de dados. Esta interface
 apresenta
@@ -12362,10 +11949,9 @@ recursos.
 
 Conforme vimos em aula, o nome correto é CalIableStatement. Gabarito: E
 
-
 LISTA DE QUESTõES - JDBC - MULTIBANCAS
 
-Item. 1. (FCC - 2006 - BACEN - Analista de Sistemas) O estabelecimento de conexão entre um aplicativo
+1. (FCC - 2006 - BACEN - Analista de Sistemas) O estabelecimento de conexão entre um aplicativo
 Java e um banco de dados, para processar instruções SQL de consulta e atualização, é
 possibilitado por meio do padrão aberto, desenvolvido pela Microsoft, denominado:
 
@@ -12379,10 +11965,10 @@ d) JDBC.
 
 e) OLE.
 
-Item. 2. (CESPE - 2008 - IPEA - Analista de Sistemas) O JDBC é usado, entre outras coisas, para acesso
+2. (CESPE - 2008 - IPEA - Analista de Sistemas) O JDBC é usado, entre outras coisas, para acesso
 a bancos de dados sem SQL, por meio de Java.
 
-Item. 3. (FCC - 2008 - TRT - 2a REGIÃO (SP) - Analista Judiciário - Tecnologia da Informação) A
+3. (FCC - 2008 - TRT - 2a REGIÃO (SP) - Analista Judiciário - Tecnologia da Informação) A
 utilização
 de JDBC, em um programa Java, inicia com a indicação do pacote que contém a JDBC API pela
 declaração:
@@ -12397,7 +11983,7 @@ d) import java.swing.*;
 
 e) import java.jdbc.*;
 
-Item. 4. (ESAF - 2009 - ANA - Analista Administrativo - Tecnologia da Informação - Desenvolvimento) Em
+4. (ESAF - 2009 - ANA - Analista Administrativo - Tecnologia da Informação - Desenvolvimento) Em
 uma aplicação Java, se o carregador de classes não conseguir localizar a classe do driver de
 banco de dados para uma conexão JDBC, é lançada a exceção
 a) java.lang.ClassNotFoundException.
@@ -12410,11 +11996,9 @@ d) java.io.lOException.
 
 e) java.util.lnputMismatchException.
 
-
 ,
 
-
-Item. 5. (FGV - 2009 - MEC - Analista de Sistemas - Especialista) Observe o código abaixo, que se refere
+5. (FGV - 2009 - MEC - Analista de Sistemas - Especialista) Observe o código abaixo, que se refere
 á implementação de Java no acesso a Banco de Dados em JDBC.
 
 package wlss.jdbcTT;
@@ -12453,7 +12037,6 @@ String aut = rs.getString("autor");
 
 int totalFaixas = rs.getlnt("total_faixas");
 System.out.println(48 + " Titulo: " + tit + "
-
 
 Autor: " + aut
 
@@ -12494,7 +12077,7 @@ d) Estabelecer a conexão com o Banco de Dados.
 
 e) Criar uma variável para logon do Banco de Dados.
 
-Item. 6. (FCC - 2012 - MPE-AP - Técnico Ministerial - Informática) Analise as linhas a seguir presentes
+6. (FCC - 2012 - MPE-AP - Técnico Ministerial - Informática) Analise as linhas a seguir presentes
 em
 um programa Java que não apresenta erros.
 
@@ -12517,15 +12100,15 @@ d) Connection, Statement e ResuItSet.
 
 e) DaoConnection, Statement e ResuItSet.
 
-Item. 7. (CESPE - 2012 - TJ-RO - Analista Judiciário - Análise de Sistemas - Desenvolvimento - B) JDBC,
+7. (CESPE - 2012 - TJ-RO - Analista Judiciário - Análise de Sistemas - Desenvolvimento - B) JDBC,
 uma biblioteca vinculada a API da arquitetura JEE, define como um cliente pode acessar bancos
 de dados OO exclusivamente.
 
-Item. 8. (COPEVE-UFAL - 2012 - ALGÁS - Analista de Tecnologia da Informação - I) Na arquitetura do
+8. (COPEVE-UFAL - 2012 - ALGÁS - Analista de Tecnologia da Informação - I) Na arquitetura do
 JDBC, a diferença entre os tipos Statement e PreparedStatement é o fato do PreparedStatement
 manter os dados criptografados durante o tráfego entre o cliente e o servidor do SGBD.
 
-Item. 9. (FGV - 2009 - MEC - Administrador de Banco de Dados) O pacote "java.sql" da API Java consiste
+9. (FGV - 2009 - MEC - Administrador de Banco de Dados) O pacote "java.sql" da API Java consiste
 de um conjunto de classes e interfaces que permitem embutir código SQL em métodos Java
 para por meio de drivers JDBC acessar diversos SGBDs. As alternativas a seguir apresentam
 interfaces do pacote "java.sql", à exceção de uma. Assinale-a.
@@ -12536,41 +12119,36 @@ c) Statement
 d) DriverManager
 e) Connection
 
-Item. 10. (CESPE - 2008 - HEMOBRÁS - Analista de Gestão Corporativa - Administrador de
+10. (CESPE - 2008 - HEMOBRÁS - Analista de Gestão Corporativa - Administrador de
 Banco de
 Dados) O JDBC fornece a classe CalIableStatementSQL, que permite que procedimentos ou
 funções SQL armazenados sejam chamados.
 
-
 ,
-
 
 GABARITo
 
 GABARITO
 
+1. B
 
-Item. 1. B
+2. C
 
-Item. 2. C
+3. C
 
-Item. 3. C
+4. A
 
-Item. 4. A
+5. D
 
-Item. 5. D
+6. D
 
-Item. 6. D
+7. E
 
-Item. 7. E
+8. E
 
-Item. 8. E
+9. D
 
-Item. 9. D
-
-Item. 10. E
-
+10. E
 
 ,
-
 

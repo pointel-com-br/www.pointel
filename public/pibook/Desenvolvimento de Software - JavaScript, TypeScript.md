@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - JavaScript, TypeScript.
-
+# Desenvolvimento de Software - JavaScript, TypeScript.
 
 Índice
 
@@ -20,7 +19,6 @@ Capítulo. Desenvolvimento de Software - JavaScript, TypeScript.
 8) TypeScript - Questões Comentadas
 
 9) TypeScript - Lista de Questões
-
 
 Conceitos Básicos
 
@@ -58,7 +56,6 @@ x
 y 79
 
 /
-
 
 meio de adicionar interatividade a uma página web. A primeira versão, denominada
 JavaScript
@@ -124,11 +121,9 @@ precisa ser compilada.
 1 Javascript é a linguagem de script padrão de todos os navegadores modernos e do HTML5. Apesar
 disso, ela não é utilizada apenas em Páginas HTML.
 
-
 y 79
 
 /
-
 
 IMPORTANTE
 
@@ -199,7 +194,6 @@ y 79
 
 /
 
-
 Para escrever código Javascript, não há necessidade de instalar um
 software especial.
 Escrevemos com um editor de textos simples e visualizamos o resultado em um
@@ -236,7 +230,6 @@ Externo: escrever o script em um arquivo externo com extensão .js e inserir com
 </body>
 
 </html>
-
 
 Incorporado: também conhecida como interna, insere-se o script na seção <head> do
 documento.
@@ -314,7 +307,6 @@ y 79
 
 /
 
-
 HTML, estaremos misturando as camadas de marcação e comportamento,
 dificultando a
 manutenção e o entendimento dos códigos. Entendido até agora?
@@ -383,11 +375,9 @@ c = a + b;
 
 a = 5; b = 6; c = a + b;
 
-
 y 79
 
 /
-
 
 A sintaxe determina que o ponto-e-vírgula seja obrigatório para separar
 declarações em uma
@@ -448,11 +438,9 @@ var carros = new Array("Volks", "Ford", "BMW");
 
 2 Strings podem vir com aspas simples ou duplas.
 
-
 y 79
 
 /
-
 
 JS: SAÍDA DE DADOS
 
@@ -531,7 +519,6 @@ y 79
 
 /
 
-
 Eventos são bastante utilizados em Javascript e viabilizam a interatividade em uma
 página web. Na
 verdade, eventos viabilizam a própria existência do Javascript. Sem eles, não teríamos
@@ -592,11 +579,9 @@ livre, bem documentado, pequeno, leve e suportado pelos navegadores mais popular
 elemento qualquer da página) ou independente de interferência do
 usuário (Ex: onload - quando um documento é carregado).
 
-
 y 79
 
 /
-
 
 Eu sei, isso é tudo muito abstrato. Vamos ver um exemplo para vocês entenderem melhor: imagine um
 carrinho de compras de uma página de e-commerce (Ex: Netshoes). Quando o usuário
@@ -654,7 +639,6 @@ c) 125
 
 d) 532110
 
-
 e) null
 
 Comentários: pessoal, estamos utilizando na execução do código o index, então este é concatenado
@@ -671,7 +655,6 @@ array = [o,i,i,2,3,5]
 if(o % 2 == o){ Zero dividido por 2 = o
 txt += 0 Temos a string txt concatenada com 0
 
-
 No próximo elemento, chamamos a função de novo:
 
 value = í;
@@ -680,7 +663,6 @@ index = í;
 array = [0,1,1,2,3,51
 
 if(i % 2 == o){ ¥2 = 0.5, logo não entremos na seleção, já que a divisão é diferente de zero.
-
 
 Próximo elemento:
 
@@ -725,7 +707,6 @@ y 79
 
 /
 
-
 QUESTõES CoMENTADAS - JS
 
 í. (ESAF/CGU - 2012) Variáveis Javascript contêm:
@@ -748,7 +729,7 @@ o tipo não é obrigatório - JavaScript é fracamente tipada.
 
 Gabarito: Letra A
 
-Item. 2. (FGV / SENADO - 2008) Em relação ao JavaScript, não é correto afirmar que:
+2. (FGV / SENADO - 2008) Em relação ao JavaScript, não é correto afirmar que:
 
 a) é uma linguagem script que só pode ser usada em páginas HTML.
 
@@ -772,7 +753,7 @@ páginas HTML.
 
 Gabarito: Letra A
 
-Item. 3. (FGV / DPE-RO - 2015) As linguagens de programação utilizadas em programação
+3. (FGV / DPE-RO - 2015) As linguagens de programação utilizadas em programação
 frontend e
 back-end são, respectivamente:
 
@@ -786,7 +767,6 @@ d) PHP e Java;
 
 e) C++ePHP.
 
-
 Comentários:
 
 Grosso modo, o front-end trata da interface de interação com o usuário e o back-end
@@ -797,7 +777,7 @@ Front-end; (c) Back-end e Front-end; (d) Back-end e Back-end; (e) Back-end e Bac
 
 Gabarito: Letra A
 
-Item. 4. (CONSULPLAN /TRF 2-2017) Brendan Eich desenvolveu a primeira versão do JavaScript
+4. (CONSULPLAN /TRF 2-2017) Brendan Eich desenvolveu a primeira versão do JavaScript
 para
 o browser Mozilla, em 1995. A ideia era que a linguagem tivesse uma sintaxe parecida
 com Java,
@@ -819,7 +799,7 @@ Para declarar arrays explicitamente, a sintaxe utilizada é var nome_do_array = 
 
 Gabarito: Letra A
 
-Item. 5. (CONSUPLAN/ TRF2 - 2017) Em javascript, eventos são chamadas de código que ocorrem
+5. (CONSUPLAN/ TRF2 - 2017) Em javascript, eventos são chamadas de código que ocorrem
 quando o usuário ou o browser executam determinadas ações. Existem eventos para quando
 o
 usuário clicar em algum lugar, para quando mover o ponteiro do mouse sobre uma região
@@ -836,7 +816,6 @@ Comentários:
 
 PROPRIEDADES | DESCRIÇÃO
 
-
 onload
 onclick
 onchange
@@ -851,7 +830,6 @@ y 79
 
 /
 
-
 onreload
 onexchange
 
@@ -864,7 +842,7 @@ algum objeto.
 
 Gabarito: Letra B
 
-Item. 6. (FGV/ IBGE - 2016) Uma página contém o seguinte código JavaScript:
+6. (FGV/ IBGE - 2016) Uma página contém o seguinte código JavaScript:
 
 function teste() {
 var letras = [] ;
@@ -905,7 +883,7 @@ escopo mais externo. Nesse caso, a linha letras.push('C'); não será executada.
 
 Gabarito: Letra C
 
-Item. 7. (FGV / IBGE - 2016) Um website foi programado para exibir o nome do usuário no
+7. (FGV / IBGE - 2016) Um website foi programado para exibir o nome do usuário no
 canto da tela
 através do seguinte código HTML:
 
@@ -915,11 +893,9 @@ Considerando que o nome está armazenado na variável "meuNome", a sintaxe
 correta em
 Javascript para trocar a palavra "usuário" pelo conteúdo da variável é:
 
-
 / 79
 
 /
-
 
 a) document.getElementByld(cliente).innerHTML - "meuNome"
 
@@ -940,7 +916,7 @@ document.getElementByld("cliente").innerHTML = meuNome (Sem as aspas!)
 
 Gabarito: Letra D
 
-Item. 8. (FGV / IBGE - 2016) Para a produção de um website responsivo com grande
+8. (FGV / IBGE - 2016) Para a produção de um website responsivo com grande
 quantidade de
 textos e imagens, as técnicas mais eficientes se baseiam na aplicação de:
 
@@ -972,11 +948,9 @@ muitas
 polegadas até um celular. Para isso, podemos destacar algumas propriedades de
 um website
 
-
 / 79
 
 /
-
 
 responsivo. Grades (divs e outros elementos) fluidas e proporcionais, distribuindo o
 conteúdo de
@@ -990,7 +964,7 @@ de estilo para cada tamanho de tela.
 
 Gabarito: Letra C
 
-Item. 9. (FGV / IBGE - 2016) Com a introdução do HTML5, diversas novas APIs Javascript
+9. (FGV / IBGE - 2016) Com a introdução do HTML5, diversas novas APIs Javascript
 (Application
 Programming Interfaces) foram disponibilizadas, aumentando consideravelmente a
 quantidade
@@ -1022,11 +996,9 @@ Gabarito: Letra D
 
 io.(FGV/TCM-SP -2015) Em Javascript, considere o trecho de código a seguir:
 
-
 / 79
 
 /
-
 
 fimction base (x)
 
@@ -1080,11 +1052,9 @@ seria da seguinte forma: class Cachorro { }
 II. A maneira mais comum de se instanciar um objeto em JavaScript a partir da classe
 "Cachorro" seria da seguinte forma: Cachorro cachorro = new Cachorro;
 
-
 y 79
 
 /
-
 
 III. Tanto comentários de uma linha com barras duplas (//...) quanto comentários em
 blocos
@@ -1139,11 +1109,9 @@ Gabarito: Letra B
 
 13.OESES / IFSC-2015) Observe o código javascript abaixo:
 
-
 / 79
 
 /
-
 
 <script type="text/java5cript">
 
@@ -1204,14 +1172,11 @@ uma string, ele irá converter qualquer outro operando em string. Isso se chama 
 
 Gabarito: Letra A
 
-
 / 79
 
 /
 
-
 i5.(FGV/TCE-SP-20i5) Em uma página HTML, é declarado o seguinte formulário:
-
 
 cfonn id-"dados'r action-^script.php"
 
@@ -1268,9 +1233,7 @@ d) While.
 
 e) Do/while.
 
-
 / 79
-
 
 Comentários:
 
@@ -1286,7 +1249,7 @@ do { ... } while (a < 10);
 
 Gabarito: Letra C
 
-Item. 17. (MPE-RS / MPE-RS -2015) Dado o código HTML abaixo:
+17. (MPE-RS / MPE-RS -2015) Dado o código HTML abaixo:
 
 <!DOCTYPE html>
 
@@ -1315,18 +1278,17 @@ Quais dos comandos Javascript listados abaixo podem ser colocados no espaço ind
 pelos
 pontos para que a página, ao ser carregada, altere somente a cor do texto "UM" para azul?
 
-Item. 1. document.getElementsByTagName("p")[o].style.color = "#ooooFF";
+1. document.getElementsByTagName("p")[o].style.color = "#ooooFF";
 
-Item. 2. document.getElementsByTagName("p")[o].color = "#ooooFF";
+2. document.getElementsByTagName("p")[o].color = "#ooooFF";
 
-Item. 3. document.getElementsByTagName("p").item(o).style.color = "#ooooFF";
+3. document.getElementsByTagName("p").item(o).style.color = "#ooooFF";
 
 a) Apenas 1.
 
 b) Apenas 2.
 
 c) Apenas 3.
-
 
 d) Apenas 1 e 3.
 
@@ -1383,11 +1345,9 @@ o Resultado: "Um", "Dois", "Tres", "Dez".
 
 shift() remove o primeiro element do array (Um).
 
-
 / 79
 
 /
-
 
 Resultado: "Dois", "Tres", "Dez".
 
@@ -1455,7 +1415,6 @@ document.write(y.idade + "");
 - Até aqui é bem simples: y tem o valor de dados, dentro de x. Portanto y.idade é igual a 18.
 document.write(x.getDados(). idade);
 
-
 - Aqui está a verdadeira questão, o fato de mudar o valor de y.idade
 afetará o valor de
 x.dados.idade? A resposta é sim, e vamos ver o porque.
@@ -1493,11 +1452,9 @@ Gabarito: Letra B
 
 2o.(MPE-RS / MPE-RS -2015) Quais são os valores de saída do código Javascript abaixo?
 
-
 y 79
 
 /
-
 
 Cscript ty pe="text/j avascri pt " >
 
@@ -1546,7 +1503,7 @@ a saída seria como os números linha a linha, e não lado a lado.
 
 Gabarito: Letra A
 
-Item. 21. (MPE-RS / MPE-RS - 2015) Dado o seguinte código JSON com Javascript:
+21. (MPE-RS / MPE-RS - 2015) Dado o seguinte código JSON com Javascript:
 
 var text = '{ "employees"' : [' 4-
 
@@ -1565,18 +1522,15 @@ c) divide um objeto em três strings e atribui dados a elas.
 
 d) concatena três arrays em um objeto e atribui dados a ele.
 
-
 y 79
 
 /
-
 
 e) cria um array com três objetos e atribui ciados a eles
 
 Comentários:
 
 ENTRADA SAÍDA
-
 
 var text = '{"employees" : [' +
 
@@ -1607,7 +1561,7 @@ queria seria necessário usar JSON.parse(text) para obter-se o array.
 
 Gabarito: Letra E
 
-Item. 22. (UFG / AL-GO - 2015) Leia o trecho em Javacript a seguir:
+22. (UFG / AL-GO - 2015) Leia o trecho em Javacript a seguir:
 
 Qual é a saída da execução desse trecho de código Javascript?
 a) 123
@@ -1628,7 +1582,6 @@ lo. Vejamos um exemplo:
 
 00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital) 28
-
 
 var a = {};
 
@@ -1664,7 +1617,7 @@ retornariam 456 ao final do código.
 
 Gabarito: Letra B
 
-Item. 23. (FGV / BANESTES -2021) Considere o código javascript a seguir:
+23. (FGV / BANESTES -2021) Considere o código javascript a seguir:
 
 let txt =
 
@@ -1688,11 +1641,9 @@ b) 013
 
 c) 125
 
-
 / 79
 
 /
-
 
 d) 532110
 
@@ -1750,11 +1701,9 @@ do comando para receber a data corrente é:
 
 a) <p "demo">H</p>
 
-
 / 79
 
 /
-
 
 b) <p class="demo">H</p>
 
@@ -1776,7 +1725,7 @@ Então, o correto é:
 
 Gabarito: Letra C
 
-Item. 25. (CESPE / PGDF - 2021) Julgue o item a seguir, referente a linguagem de scripts.
+25. (CESPE / PGDF - 2021) Julgue o item a seguir, referente a linguagem de scripts.
 
 <input type='text' id='a' value=,5l>
 
@@ -1817,7 +1766,6 @@ y 79
 
 /
 
-
 Gabarito: Correto
 
 26.(CESPE / SEED-PR - 2021) resultado = (x for x in [5.-2])
@@ -1845,7 +1793,7 @@ intervalo de (5 a 2), logo termos: 5,4,3,2, dentro do intervalo 582. Simples, n�
 
 Gabarito: Letra B
 
-Item. 27. (CESPE / SEED-PR - 2021) JavaScript trabalha com números usando os operadores
+27. (CESPE / SEED-PR - 2021) JavaScript trabalha com números usando os operadores
 aritméticos
 fornecidos pela própria linguagem. No entanto, a linguagem aceita operações
 matemáticas
@@ -1871,7 +1819,6 @@ resultando em 2. Se fosse utilizado o Match.round () teríamos o arredondamento 
 inteiro mais
 próximo, ou seja, 2.0.
 
-
 Gabarito: Correto
 
 29.(CESPE / ME - 2020) Nos padrões web, as camadas deverão ser separadas de acordo
@@ -1893,7 +1840,7 @@ xHTML, CSS e JS nas respectivas funções apresentadas.
 
 Gabarito: Correto
 
-Item. 30. (CESPE / TJ-AM - 2019) JavaScript é uma linguagem de programação
+30. (CESPE / TJ-AM - 2019) JavaScript é uma linguagem de programação
 orientada ao
 desenvolvimento da interface para aplicações web, cujo código-fonte é compilado pelo
 servidor
@@ -1907,7 +1854,7 @@ seria o C++.
 
 Gabarito: Errado
 
-Item. 31. (CESPE / SLU-DF - 2019) Uma função JavaScript é um bloco de código utilizado
+31. (CESPE / SLU-DF - 2019) Uma função JavaScript é um bloco de código utilizado
 para executar
 tarefas repetidas e é definida pela palavra-chave public seguida por um nome
 seguido por
@@ -1929,9 +1876,7 @@ document.getElementByld("demo").innerHTML = "Minha primeira função JavaScript!
 
 </script>
 
-
 / 79
-
 
 Ou seja, a função se inicia pelo function e não pela palavra public, com argumento
 (no exemplo
@@ -1959,7 +1904,7 @@ questão escrito "é obrigatório" e estará correta.
 
 Gabarito: Errado
 
-Item. 33. (FCC / TRT11 - 2005) Em JavaScript, para declarar nomes de identificadores válidos
+33. (FCC / TRT11 - 2005) Em JavaScript, para declarar nomes de identificadores válidos
 utiliza-se:
 
 a) somente número no primeiro caractere.
@@ -1979,7 +1924,7 @@ caractere.
 
 Gabarito: Letra B
 
-Item. 34. (FCC / TRE-SE - 2007) O cliente JavaScript, quando se soltar um botão do mouse
+34. (FCC / TRE-SE - 2007) O cliente JavaScript, quando se soltar um botão do mouse
 pressionado,
 invocará o evento:
 
@@ -1995,14 +1940,11 @@ e) MouseOut.
 
 Comentários:
 
-
 / 79
 
 /
 
-
 PROPRIEDADES DESCRIÇÃO
-
 
 onmouseover
 onmousedown
@@ -2021,7 +1963,7 @@ O usuário retira 0 ponteiro de um elemento ou de seus filhos.
 
 Gabarito: Letra C
 
-Item. 35. (FCC / MPE-SE - 2008) Uma função embutida na linguagem JavaScript que calcula o
+35. (FCC / MPE-SE - 2008) Uma função embutida na linguagem JavaScript que calcula o
 conteúdo
 de uma string denomina-se:
 
@@ -2044,7 +1986,6 @@ executes the
 statements". Portanto, ela avalia e executa códigos dentro de uma string e apresenta o
 resultado,
 como podemos ver abaixo:
-
 
 var x = 10;
 var y = 20;
@@ -2072,11 +2013,9 @@ JavaScript e será aberto por um navegador que as suporte.
 
 <hi>Página Principal</hi>
 
-
 / 79
 
 /
-
 
 <form>
 comando y
@@ -2133,14 +2072,11 @@ Comentários:
 
 Trata-se da última opção: alert, confirm e prompt.
 
-
 / 79
 
 /
 
-
 MÉTODOS DESCRIÇÃO
-
 
 alertO
 confirm ()
@@ -2203,7 +2139,6 @@ y 79
 
 /
 
-
 /fO.(FCC -TRT-20 - 2010) É um método do objeto History:
 
 a) Case.
@@ -2228,11 +2163,9 @@ go() Carrega uma URL específica do histórico.
 
 Gabarito: Letra D
 
-
 y 79
 
 /
-
 
 LISTA DE QUESTõES - JS
 
@@ -2248,7 +2181,7 @@ d) um delimitador, escopo e um referenciador.
 
 e) um identificador, extensão e um ponteiro.
 
-Item. 2. (FGV / SENADO - 2008) Em relação ao JavaScript, não é correto afirmar que:
+2. (FGV / SENADO - 2008) Em relação ao JavaScript, não é correto afirmar que:
 
 a) é uma linguagem script que só pode ser usada em páginas HTML.
 
@@ -2260,7 +2193,7 @@ d) pode ser usada para criar cookies.
 
 e) pode adicionar interatividade nas páginas html.
 
-Item. 3. (FGV / DPE-RO - 2015) As linguagens de programação utilizadas em programação frontend e
+3. (FGV / DPE-RO - 2015) As linguagens de programação utilizadas em programação frontend e
 back-end são, respectivamente:
 
 a) Javascript e Java;
@@ -2273,7 +2206,7 @@ d) PHP e Java;
 
 e) C++e PHP.
 
-Item. 4. (CONSULPLAN /TRF 2-2017) Brendan Eich desenvolveu a primeira versão do JavaScript
+4. (CONSULPLAN /TRF 2-2017) Brendan Eich desenvolveu a primeira versão do JavaScript
 para
 o browser Mozilla, em 1995. A ideia era que a linguagem tivesse uma sintaxe parecida
 com Java,
@@ -2289,7 +2222,7 @@ c) int array[ ] = [16, 34, 36, 42, 50, 58].
 
 d) var array = int[i6, 34, 36, 42, 50, 58].
 
-Item. 5. (CONSUPLAN/ TRF2 - 2017) Em javascript, eventos são chamadas de código que ocorrem
+5. (CONSUPLAN/ TRF2 - 2017) Em javascript, eventos são chamadas de código que ocorrem
 quando o usuário ou o browser executam determinadas ações. Existem eventos para quando
 o
 usuário clicar em algum lugar, para quando mover o ponteiro do mouse sobre uma região
@@ -2297,18 +2230,16 @@ ou
 quando o ponteiro do mouse sairdessa região. Os eventos que compreendem carregamento de
 janela e alteração em um campo são representados respectivamente pelos comandos:
 
-
 y 79
 
 /
-
 
 a) onload e onclick
 b) onload e onchange
 c) onchange e onreload
 d) onclick e onexchange
 
-Item. 6. (FGV / IBGE - 2016) Uma página contém o seguinte código JavaScript:
+6. (FGV / IBGE - 2016) Uma página contém o seguinte código JavaScript:
 
 function teste() {
 var letras = [] ;
@@ -2341,7 +2272,7 @@ d) A,B,C,D,E
 
 e) D,E
 
-Item. 7. (FGV / IBGE - 2016) Um website foi programado para exibir o nome do usuário no canto da tela
+7. (FGV / IBGE - 2016) Um website foi programado para exibir o nome do usuário no canto da tela
 através do seguinte código HTML:
 
 <p id="cliente">usuário</p>
@@ -2357,14 +2288,12 @@ c) document.getElementByName(cliente).innerHTML = meuNome
 d) document.getElementByld("cliente").innerHTML - meuNome
 e) document.getElementByld(meuNome).innerHTML = "cliente"
 
-Item. 8. (FGV / IBGE - 2016) Para a produção de um website responsivo com grande quantidade de
+8. (FGV / IBGE - 2016) Para a produção de um website responsivo com grande quantidade de
 textos e imagens, as técnicas mais eficientes se baseiam na aplicação de:
-
 
 y 79
 
 /
-
 
 a) grades fixas e dimensionadas em unidades absolutas, imagens dimensionadas em unidades
 absolutas e posicionadas de modo fluido, e JavaScript para alterar as regras de estilo
@@ -2387,7 +2316,7 @@ e) grades fluidas, imagens flexíveis limitadas por elementos de contenção, e 
 para
 posicionartodo o conteúdo de acordo com a resolução de tela.
 
-Item. 9. (FGV / IBGE - 2016) Com a introdução do HTML5, diversas novas APIs Javascript
+9. (FGV / IBGE - 2016) Com a introdução do HTML5, diversas novas APIs Javascript
 (Application
 Programming Interfaces) foram disponibilizadas, aumentando consideravelmente a
 quantidade
@@ -2407,13 +2336,11 @@ e) redimensionamento dinâmico de imagens, detecção de resolução de tela e R
 (Responsive
 Web Display)
 
-Item. 10. (FGV/TCM-SP -2015) Em Javascript, considere o trecho de código a seguir:
-
+10. (FGV/TCM-SP -2015) Em Javascript, considere o trecho de código a seguir:
 
 / 79
 
 /
-
 
 fimction base (x)
 
@@ -2470,11 +2397,9 @@ i2.(IESES / IFSC -2015) Uma determinada linha de código JavaScript 1.8 se lê d
 
 var novoCachorro = new Cachorro();
 
-
 / 79
 
 /
-
 
 Assinale a alternativa que apresenta um trecho de código que deve ser inserido antes
 da linha
@@ -2515,7 +2440,7 @@ b) Criciúma, Curitiba
 c) São Paulo Criciúma Curitiba Itajaí Rio do Sul Erechim
 d) Criciúma Curitiba
 
-Item. 14. (FGV/TCE-SE-20i5) E m um programa Javascript, encontra-se o seguinte comando:
+14. (FGV/TCE-SE-20i5) E m um programa Javascript, encontra-se o seguinte comando:
 
 var x = 3 + "4";
 
@@ -2531,13 +2456,11 @@ d) número 7;
 
 e) o mesmo de antes da execução do comando, devido a um erro referente à conversão detipos
 
-Item. 15. (FGV/TCE-SP-2O15) Em uma página HTML, é declarado o seguinte formulário:
-
+15. (FGV/TCE-SP-2O15) Em uma página HTML, é declarado o seguinte formulário:
 
 y 79
 
 /
-
 
 <form id—"dados" action-"script.php"
 
@@ -2569,7 +2492,7 @@ d) document.getElementByld("input").tamanho.value;
 
 e) document.getElementByld("form").tamanho.value.
 
-Item. 16. (NUCEPE / SEFAZ-PI - 2015) Laços são importantes construções em
+16. (NUCEPE / SEFAZ-PI - 2015) Laços são importantes construções em
 linguagens de
 programação. Qual tipo de laço (loop) NÃO possui suporte em JavaScript?
 
@@ -2583,8 +2506,7 @@ d) While.
 
 e) Do/while.
 
-Item. 17. (MPE-RS / MPE-RS -2015) Dado o código HTML abaixo:
-
+17. (MPE-RS / MPE-RS -2015) Dado o código HTML abaixo:
 
 <!DOCTYPE html>
 
@@ -2615,9 +2537,9 @@ pontos para que a página, ao ser carregada, altere somente a cor do texto "UM" 
 
 í. document.getElementsByTagName("p")[o].style.color = "#ooooFF";
 
-Item. 2. document.getElementsByTagName("p")[o].color = "#ooooFF";
+2. document.getElementsByTagName("p")[o].color = "#ooooFF";
 
-Item. 3. document.getElementsByTagName("p").item(o).style.color = "#ooooFF";
+3. document.getElementsByTagName("p").item(o).style.color = "#ooooFF";
 
 a) Apenas 1.
 
@@ -2645,11 +2567,9 @@ d oc u me nt. wri te (n um ei os) ;
 
 </script>
 
-
 y 79
 
 /
-
 
 Quando o bloco for inserido no corpo de uma página HTML e executado no navegador, o
 que será
@@ -2661,7 +2581,7 @@ c) Dois,Tres,Dez,Um
 d) Dez,Dois,Tres
 e) Um,Dois,Tres,Dez,Dez
 
-Item. 19. (MPE-RS / MPE-RS -2015) Dado o código Javascript abaixo:
+19. (MPE-RS / MPE-RS -2015) Dado o código Javascript abaixo:
 
 <script type="text/javascript">
 function Aluno() {
@@ -2710,11 +2630,9 @@ e) undefined 18 18
 
 20.(MPE-RS / MPE-RS-2015) Quais são os valores de saída do código Javascript abaixo?
 
-
 / 79
 
 /
-
 
 Cscript ty pe="text/j avascri pt " >
 
@@ -2772,13 +2690,11 @@ d) concatena três arrays em um objeto e atribui dados a ele.
 
 e) cria um array com três objetos e atribui dados a eles
 
-Item. 22. (UFG / AL-GO - 2015) Leia o trecho em Javacript a seguir:
-
+22. (UFG / AL-GO - 2015) Leia o trecho em Javacript a seguir:
 
 y 79
 
 /
-
 
 Qual é a saída da execução desse trecho de código Javascript?
 a) 123
@@ -2789,7 +2705,7 @@ c) 156
 
 d) 423
 
-Item. 23. (FGV / BANESTES -2021) Considere o código javascript a seguir:
+23. (FGV / BANESTES -2021) Considere o código javascript a seguir:
 
 let txt =
 
@@ -2817,13 +2733,11 @@ d) 532110
 
 e) null
 
-Item. 24. (FGV / BANESTES -2021) Considere o código javascript a seguir:
-
+24. (FGV / BANESTES -2021) Considere o código javascript a seguir:
 
 y 79
 
 /
-
 
 document.getElementByld('demo').innerHTML = Date()
 
@@ -2841,7 +2755,7 @@ d) <p js="demo">H</p>
 
 e) <p onclick=udemo">H</p>
 
-Item. 25. (CESPE / PGDF 2021) Julgue o item a seguir, referente a linguagem de scripts.
+25. (CESPE / PGDF 2021) Julgue o item a seguir, referente a linguagem de scripts.
 
 <input type='text' id='a' value=,5l>
 
@@ -2877,45 +2791,43 @@ c) 2,2,2,2,2
 d) 5,3,i
 e) 4,3
 
-Item. 27. (CESPE / SEED-PR - 2021) JavaScript trabalha com números usando os operadores aritméticos
+27. (CESPE / SEED-PR - 2021) JavaScript trabalha com números usando os operadores aritméticos
 fornecidos pela própria linguagem. No entanto, a linguagem aceita operações matemáticas
 
-
 / 79
-
 
 mais complexas por meio de um conjunto de funções e constantes definidas como
 propriedades
 do objeto Math.
 
-Item. 28. (CESPE / SEED-PR - 2021) A opção Match.ceil () apresenta a função que permite
+28. (CESPE / SEED-PR - 2021) A opção Match.ceil () apresenta a função que permite
 realizar, em
 JS, a operação matemática de arredondar para cima o número 1,17, obtendo-se o valor 2.
 
-Item. 29. (CESPE / ME - 2020) Nos padrões web, as camadas deverão ser separadas de acordo
+29. (CESPE / ME - 2020) Nos padrões web, as camadas deverão ser separadas de acordo
 com o
 objetivo para o qual elas foram desenvolvidas. Criar páginas em camadas lógicas é uma
 boa
 prática: xHTML, folhas de estilo CSS e JavaScript são voltadas, respectivamente, para as camadas
 de conteúdo, de apresentação visual do conteúdo e de comportamento dos elementos.
 
-Item. 30. (CESPE / TJ-AM - 2019) JavaScript é uma linguagem de programação
+30. (CESPE / TJ-AM - 2019) JavaScript é uma linguagem de programação
 orientada ao
 desenvolvimento da interface para aplicações web, cujo código-fonte é compilado pelo
 servidor
 antes de sua execução.
 
-Item. 31. (CESPE / SLU-DF - 2019) Uma função JavaScript é um bloco de código utilizado
+31. (CESPE / SLU-DF - 2019) Uma função JavaScript é um bloco de código utilizado
 para executar
 tarefas repetidas e é definida pela palavra-chave public seguida por um nome
 seguido por
 parênteses ().
 
-Item. 32. (CESPE / SLU-DF - 2019) O JSX (JavaScript Syntax Extension) é de uso obrigatório
+32. (CESPE / SLU-DF - 2019) O JSX (JavaScript Syntax Extension) é de uso obrigatório
 no React e
 permite inserir a interface do usuário no código JavaScript.
 
-Item. 33. (FCC / TRT11 - 2005) Em JavaScript, para declarar nomes de identificadores válidos utiliza-se:
+33. (FCC / TRT11 - 2005) Em JavaScript, para declarar nomes de identificadores válidos utiliza-se:
 
 a) somente número no primeiro caractere.
 
@@ -2927,7 +2839,7 @@ d) espaço entre caracteres a partir do segundo caractere.
 
 e) uma palavra reservada do JavaScript
 
-Item. 34. (FCC /TRE-SE - 2007) O cliente JavaScript, quando se soltar um botão do mouse
+34. (FCC /TRE-SE - 2007) O cliente JavaScript, quando se soltar um botão do mouse
 pressionado,
 invocará o evento:
 
@@ -2941,7 +2853,7 @@ d) MouseMove.
 
 e) MouseOut.
 
-Item. 35. (FCC / MPE-SE - 2008) Uma função embutida na linguagem JavaScript que calcula o
+35. (FCC / MPE-SE - 2008) Uma função embutida na linguagem JavaScript que calcula o
 conteúdo
 de uma string denomina-se:
 
@@ -2949,11 +2861,9 @@ a) string.
 
 b) eval.
 
-
 / 79
 
 /
-
 
 c) number.
 
@@ -3018,7 +2928,6 @@ y 79
 
 /
 
-
 a) servidor, cliente e servidor.
 
 b) cliente, servidor e cliente.
@@ -3052,44 +2961,43 @@ c) Open.
 d) Forward
 e) Hostname
 
-
 GABARITo - JS
 
-Item. 1. LETRA A 15- LETRA C
-Item. 29. ERRADO
+1. LETRA A 15- LETRA C
+29. ERRADO
 
-Item. 2. LETRA A i6. LETRA C
-Item. 30. ERRADO
+2. LETRA A i6. LETRA C
+30. ERRADO
 
 3- LETRA A 17- LETRA D
 3i- ERRADO
 
 4- LETRA A i8. LETRA A
-Item. 32. ERRADO
+32. ERRADO
 
 5- LETRA B 19- LETRA B
 33- LETRA B
 
-Item. 6. LETRA C 20. LETRA A
+6. LETRA C 20. LETRA A
 34- LETRA C
 
 7- LETRA D 21. LETRA E
 35- LETRA B
 
-Item. 8. LETRA C 22. LETRA B
-Item. 36. LETRA D
+8. LETRA C 22. LETRA B
+36. LETRA D
 
 9- LETRA D 23- LETRA B
 37- LETRA E
 
-Item. 10. LETRA A 24. LETRA C
-Item. 38. LETRA B
+10. LETRA A 24. LETRA C
+38. LETRA B
 
 íi. LETRA D 25- CORRETO
 39- LETRA E
 
-Item. 12. LETRA B 26. LETRA B
-Item. 40. LETRA D
+12. LETRA B 26. LETRA B
+40. LETRA D
 
 13- LETRA A 27- CORRETO
 
@@ -3097,11 +3005,9 @@ Item. 40. LETRA D
 
 x53
 
-
 y 79
 
 /
-
 
 Conceitos Básicos
 
@@ -3118,7 +3024,6 @@ incorporada
 a maioria dos navegadores web, servidores e aplicativos. E 0 que tem haver ECMA com
 Javascript,
 Professor?
-
 
 JavaScript
 
@@ -3149,7 +3054,6 @@ que qualquer
 y 79
 
 /
-
 
 linguagem de script se destina ao uso por programadores profissionais e não
 profissionais, para
@@ -3195,7 +3099,6 @@ y 79
 
 /
 
-
 Galera, agora vamos começar a falar de termos mais técnicos! O documento do
 ECMAScript
 continuou evoluindo (ECMA - 262). Em 2015 foi lançado o ECMAScript 6, ECMAScript 7,
@@ -3222,11 +3125,9 @@ ESPECIFICAÇÃO | DESCRIÇÃO
 
 Um método que retorna o Asynclterator padrão para um objeto. Chamado pela
 
-
 @@ASYNCITERATOR
 
 semântica da declaração for-await-of.
-
 
 @@HASINSTANCE
 
@@ -3239,18 +3140,15 @@ instanceof.
 Uma propriedade com valor booleano quez se true, indica que um objeto deve ser
 nivelado para seus elementos de matriz por Array.prototype.concat.
 
-
 @@ITERATOR
 
 Um método que retorna o Iterator padrão para um objeto. Chamado pela
 semântica da instrução for-of.
 
-
 @@MATCH
 
 Um método de expressão regular que corresponde à expressão regularem relação
 a uma string. Chamado pelo método String.prototype.match.
-
 
 @@MATCHALL
 
@@ -3263,18 +3161,15 @@ String. prototype.matchAII.
 Um método de expressão regular que substitui as substrings correspondentes de
 uma string. Chamado pelo método String.prototype.replace.
 
-
 @@SEARCH
 
 Um método de expressão regular que retorna o índice em uma string que
 corresponde à expressão regular. Chamado pelo método String.prototype.search.
 
-
 @@SPECIES
 
 Uma propriedade com valor de função que é a função construtora usada para criar
 objetos derivados.
-
 
 @@SPLIT
 
@@ -3285,7 +3180,6 @@ x
 y 79
 
 /
-
 
 Um método que converte um objeto em um valor primitivo corres
 Chamado pela operação abstrata ToPrimitive.
@@ -3328,7 +3222,6 @@ x
 y 79
 
 /
-
 
 QUESTõES CoMENTADAS - ECMASCRIPT
 
@@ -3390,13 +3283,11 @@ let, são instruções distintas, let cria uma variável com escopo de bloco.
 
 Gabarito: Letra D
 
-Item. 2. (UFC / CCV - 2018) O que acontece quando executamos o código abaixo em um
+2. (UFC / CCV - 2018) O que acontece quando executamos o código abaixo em um
 navegador com
 suporte à ECMAScript versão ES6 ou superior?
 
-
 / 79
-
 
 <'DOCTYPE httnl>
 
@@ -3439,10 +3330,9 @@ concatena ponto, logo recebemos 3 de length.
 
 Gabarito: Letra C
 
-Item. 3. (UFC / CCV - 2018) O que acontece quando executamos o código abaixo em um
+3. (UFC / CCV - 2018) O que acontece quando executamos o código abaixo em um
 navegador com
 suporte à ECMAScript versão ES6 ou superior?
-
 
 <!DOCTYPE litml-*
 
@@ -3486,17 +3376,15 @@ do navegador e não no console.
 
 Gabarito: Letra D
 
-Item. 4. (COVED / UFPE - 2019) Considere a execução do código JavaScript abaixo,
+4. (COVED / UFPE - 2019) Considere a execução do código JavaScript abaixo,
 compatível com o
 ECMAScript 6, e a respectiva numeração das linhas de código na coluna à esquerda, e
 assinale a
 alternativa correta.
 
-
 y 79
 
 /
-
 
 1 var a 5;
 
@@ -3551,14 +3439,13 @@ Logo: console.log(a); // 4 console.log(b); //1 console.log(a); // 5 console.log(
 
 Gabarito: Letra A
 
-Item. 5. (UFPR / COREN - 2018) Em relação ao JavaScript (versão ECMAScript 2015 ou
+5. (UFPR / COREN - 2018) Em relação ao JavaScript (versão ECMAScript 2015 ou
 superior), é
 correto afirmar:
 
 a) A expressão "varfunc = x=>x *x;" define a variável x apontando para a função func
 que calcula
 a raiz quadrada de x.
-
 
 b) Template literais ou template strings são literais string que permitem expressões
 embutidas,
@@ -3598,11 +3485,9 @@ função focus adiciona foco e não remove o foco da janela atual.
 
 Gabarito: Letra C
 
-
 y 79
 
 /
-
 
 LISTA DE QUESTõES - ECMASCRIPT
 
@@ -3644,13 +3529,11 @@ e) A declaração da variável teste utilizando let funcionaria da
 mesma forma se
 utilizássemos var.
 
-Item. 2. (UFC / CCV - 2018) O que acontece quando executamos o código abaixo em um
+2. (UFC / CCV - 2018) O que acontece quando executamos o código abaixo em um
 navegador com
 suporte à ECMAScript versão ES6 ou superior?
 
-
 / 79
-
 
 <'DOCTYPE httnl>
 
@@ -3681,7 +3564,7 @@ d) A variável triângulo terá o comprimento 4.
 
 e) A variável triângulo terá o comprimento 6.
 
-Item. 3. (UFC / CCV - 2018) O que acontece quando executamos o código abaixo em um
+3. (UFC / CCV - 2018) O que acontece quando executamos o código abaixo em um
 navegador com
 suporte à ECMAScript versão ES6 ou superior?
 
@@ -3716,11 +3599,9 @@ seguinte texto:
 
 {"name":"Joao","age":2O,"city":"Fortaleza"}.
 
-
 y 79
 
 /
-
 
 e) Será exibido no console do
 
@@ -3728,7 +3609,7 @@ e) Será exibido no console do
 
 navegador o seguinte texto:
 
-Item. 4. (COVED / UFPE - 2019) Considere a execução do código JavaScript abaixo,
+4. (COVED / UFPE - 2019) Considere a execução do código JavaScript abaixo,
 compatível com o
 ECMAScript 6, e a respectiva numeração das linhas de código na coluna à esquerda, e
 assinale a
@@ -3768,7 +3649,7 @@ d) uma mensagem de erro referente a linha 3
 
 e) uma mensagem de erro referente a linha 4
 
-Item. 5. (UFPR / COREN - 2018) Em relação ao JavaScript (versão ECMAScript 2015 ou
+5. (UFPR / COREN - 2018) Em relação ao JavaScript (versão ECMAScript 2015 ou
 superior), é
 correto afirmar:
 
@@ -3789,35 +3670,29 @@ ser "arri.push(...arr2);".
 
 d) No ECMAScript 6, os tipos de dados primitivos são: bool, number, String, Symbol e closures.
 
-
 e) A função focus do objeto Window, quando o script é executado nos navegadores da
 web,
 remove o foco da janela atual.
-
 
 y 79
 
 /
 
-
 GABARITo - ECMASCRIPT
 
+1. LETRA D
 
-Item. 1. LETRA D
+2. LETRA C
 
-Item. 2. LETRA C
+3. LETRA D
 
-Item. 3. LETRA D
+4. LETRA A
 
-Item. 4. LETRA A
-
-Item. 5. LETRA C
-
+5. LETRA C
 
 / 79
 
 /
-
 
 Conceitos Básicos
 
@@ -3864,11 +3739,9 @@ deficiência.
 
 Vejamos um exemplo de código escrito em TypeScript e depois em Javascript:
 
-
 y 79
 
 /
-
 
 CONDIÇÃO DE APROVAÇÃO EM TYPESCRIPT
 
@@ -3935,11 +3808,9 @@ b) TypeScript é um subconjunto de JavaScript.
 
 c) Em um enum não é possível misturar membros de tipos baseados em string e number.
 
-
 y 79
 
 /
-
 
 d) Em uma classe TypeScript é possível utilizar herança múltipla por meio da palavra
 chave extends.
@@ -3964,7 +3835,6 @@ y 79
 
 /
 
-
 í. (CESGRANRIO / BB - 2021) Considere o fragmento de código TypeScript a seguir.
 const a=<T extends {b:string}> (obj:T)=>{<códigoremovido>};
 
@@ -3988,7 +3858,7 @@ typescript
 
 Gabarito: Letra D
 
-Item. 2. (CESGRANRIO / BB - 2021) Considere o código HTML a seguir.
+2. (CESGRANRIO / BB - 2021) Considere o código HTML a seguir.
 
 <ldoctype html>
 
@@ -4024,7 +3894,6 @@ onload = (event) => {
 const texto = document.querySelector('???') as HTMLInputElement;
 console.log('Texto inicial: texto.value);
 
-
 Que texto o programador deverá utilizar no lugar de ???, no código do arquivo
 TypeScript script.ts,
 para exibir o valor do campo HTML input na console?
@@ -4043,7 +3912,7 @@ TypeScript script.ts, a partir do campo HTML input.
 
 Gabarito: Letra B
 
-Item. 3. (FCC / MPE-PB - 2018) Considere o fragmento de código TypeScript abaixo.
+3. (FCC / MPE-PB - 2018) Considere o fragmento de código TypeScript abaixo.
 
 interface CriaArrayString {
 (índice: number): string;
@@ -4081,11 +3950,9 @@ Nome [2] = Mariana
 
 Gabarito: Letra B
 
-
 / 79
 
-
-Item. 4. (UFC / CCV - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
+4. (UFC / CCV - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
 contém
 apenas frameworks/bibliotecas/plataformas que foram desenvolvidas ou que dependem de
 JavaScript ou TypeScript:
@@ -4108,7 +3975,7 @@ podemos inclusive ser escritos como AngularJS, ReactJS e VueJS.
 
 Gabarito: Letra C
 
-Item. 5. (CVV / UFC - 2019) Sobre TypeScript, assinale a alternativa correta.
+5. (CVV / UFC - 2019) Sobre TypeScript, assinale a alternativa correta.
 
 a) Toda função deve possuir um nome.
 
@@ -4140,13 +4007,12 @@ indica que o diretório é a raiz de um projeto TypeScript.
 
 Gabarito: Letra E
 
-Item. 6. (FCC / MPE-PE - 2018) Considere o fragmento de código TypeScript abaixo.
+6. (FCC / MPE-PE - 2018) Considere o fragmento de código TypeScript abaixo.
 
 x
 y 79
 
 /
-
 
 interface CriaArrayString {
 (Índice: number]: string;
@@ -4182,11 +4048,9 @@ comando document.body.innerHTML = nomesfi];
 
 Gabarito: Letra B
 
-
 / 79
 
 /
-
 
 LISTA DE QUESTõES - TYPESCRIPT
 
@@ -4205,7 +4069,7 @@ d) objeto que for passado para a função a() deve ter um campo b do tipo string
 
 e) valor retornado pela função a() é um objeto que estende um objeto do tipo string.
 
-Item. 2. (CESGRANRIO / BB - 2021) Considere o código HTML a seguir.
+2. (CESGRANRIO / BB - 2021) Considere o código HTML a seguir.
 
 <ldoctype html>
 
@@ -4253,13 +4117,11 @@ c) #texto
 d) .idTexto
 x
 
-
 / 79
-
 
 e) .texto
 
-Item. 3. (FCC / MPE-PB - 2018) Considere o fragmento de código TypeScript abaixo.
+3. (FCC / MPE-PB - 2018) Considere o fragmento de código TypeScript abaixo.
 
 interface CriaArrayString {
 (índice: number): string,-
@@ -4283,7 +4145,7 @@ d) será exibido na tela o nome Ana.
 
 e) ocorrerá um erro na linha que contém o comando document.body.innerHTML = nomes[ij;
 
-Item. 4. (UFC / CCV - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
+4. (UFC / CCV - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
 contém
 apenas frameworks/bibliotecas/plataformas que foram desenvolvidas ou que dependem de
 JavaScript ou TypeScript:
@@ -4298,7 +4160,7 @@ d) Angular, Node.js, Java.
 
 e) Java AWT, Angular, Scala.
 
-Item. 5. (CVV/ UFC - 2019) Sobre TypeScript, assinale a alternativa correta.
+5. (CVV/ UFC - 2019) Sobre TypeScript, assinale a alternativa correta.
 
 a) Toda função deve possuir um nome.
 
@@ -4314,13 +4176,11 @@ e) A presença de um arquivo tsconfig.json em um diretório indica que o diretó
 raiz de um
 projeto TypeScript.
 
-Item. 6. (FCC / MPE-PE - 2018) Considere o fragmento de código TypeScript abaixo.
+6. (FCC / MPE-PE - 2018) Considere o fragmento de código TypeScript abaixo.
 
 x76
 
-
 / 79
-
 
 interface CriaArrayString {
 (Índice: number): string;
@@ -4349,20 +4209,17 @@ y 79
 
 /
 
-
 GABARITo - TYPESCRIPT
 
+1. LETRA D
 
-Item. 1. LETRA D
+2. LETRA B
 
-Item. 2. LETRA B
+3. LETRA B
 
-Item. 3. LETRA B
+4. LETRA C
 
-Item. 4. LETRA C
+5. LETRA E
 
-Item. 5. LETRA E
-
-Item. 6. LETRA B
-
+6. LETRA B
 

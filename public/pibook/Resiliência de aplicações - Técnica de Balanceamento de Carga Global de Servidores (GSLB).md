@@ -1,5 +1,4 @@
-Capítulo. Resiliência de aplicações - Técnica de Balanceamento de Carga Global de Servidores (GSLB).
-
+# Resiliência de aplicações - Técnica de Balanceamento de Carga Global de Servidores (GSLB).
 
 A técnica de Balanceamento de Carga Global de Servidores (GSLB - Global Server Load Balancing) é uma estratégia utilizada para aumentar a resiliência de aplicações distribuídas em diferentes localidades geográficas. Ela visa otimizar a distribuição de carga entre servidores localizados em diferentes regiões, garantindo alta disponibilidade e melhor desempenho para os usuários em diferentes partes do mundo.
 
@@ -7,13 +6,13 @@ O GSLB é comumente usado em cenários em que a aplicação é hospedada em múl
 
 O funcionamento básico do GSLB envolve os seguintes passos:
 
-Item. 1. Monitoramento dos servidores: O GSLB monitora o estado e a disponibilidade dos servidores em diferentes localidades geográficas. Isso pode ser feito por meio de verificações de saúde periódicas, como testes de ping, requisições HTTP ou verificações de status de serviços nos servidores.
+1. Monitoramento dos servidores: O GSLB monitora o estado e a disponibilidade dos servidores em diferentes localidades geográficas. Isso pode ser feito por meio de verificações de saúde periódicas, como testes de ping, requisições HTTP ou verificações de status de serviços nos servidores.
 
-Item. 2. Tomada de decisão do GSLB: Com base nas informações coletadas do monitoramento, o GSLB toma a decisão de rotear as requisições do usuário para o servidor mais adequado. Essa decisão pode ser baseada em critérios como latência, carga atual do servidor, localização geográfica do usuário ou qualquer outro critério configurado.
+2. Tomada de decisão do GSLB: Com base nas informações coletadas do monitoramento, o GSLB toma a decisão de rotear as requisições do usuário para o servidor mais adequado. Essa decisão pode ser baseada em critérios como latência, carga atual do servidor, localização geográfica do usuário ou qualquer outro critério configurado.
 
-Item. 3. Roteamento da requisição: O GSLB redireciona a requisição do usuário para o servidor escolhido com base na decisão tomada. Isso pode ser feito por meio de técnicas como o DNS (Domain Name System), em que o endereço IP retornado pela consulta DNS é o do servidor escolhido.
+3. Roteamento da requisição: O GSLB redireciona a requisição do usuário para o servidor escolhido com base na decisão tomada. Isso pode ser feito por meio de técnicas como o DNS (Domain Name System), em que o endereço IP retornado pela consulta DNS é o do servidor escolhido.
 
-Item. 4. Entrega da resposta: O servidor selecionado processa a requisição do usuário e envia a resposta de volta ao usuário por meio do GSLB.
+4. Entrega da resposta: O servidor selecionado processa a requisição do usuário e envia a resposta de volta ao usuário por meio do GSLB.
 
 O GSLB oferece vários benefícios, como:
 

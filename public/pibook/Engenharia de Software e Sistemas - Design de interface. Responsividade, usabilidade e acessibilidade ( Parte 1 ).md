@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Design de interface. Responsividade, usabilidade e acessibilidade ( Parte 1 ).
-
+# Engenharia de Software e Sistemas - Design de interface. Responsividade, usabilidade e acessibilidade ( Parte 1 ).
 
 Índice
 
@@ -30,7 +29,6 @@ Capítulo. Engenharia de Software e Sistemas - Design de interface. Responsivida
 13) Lista de Questões - Engenharia de Usabilidade - FGV
 
 14) Lista de Questões - Engenharia de Usabilidade - Diversas.
-
 
 ENGENHARIA DE USABILIDADE
 
@@ -145,7 +143,6 @@ custos de manutenção1. Nielsen define cinco componentes ou critérios de quali
 fazem algo
 ser usável:
 
-
 CRITÉRIOS DE
 QUALIDADE
 
@@ -157,7 +154,6 @@ vantagem competitiva, melhores opiniões na mídia, melhores comentários, custo
 manutenção reduzidos, produtividade do usuário final
 melhorada, custos de treinamento reduzidos, custos de documentação reduzidos, probabilidade
 reduzida de litígio por clientes insatisfeitos".
-
 
 LEARNABILITY
 (FACILIDADE DE
@@ -217,7 +213,6 @@ Ex: você pode desenhar protótipos em papel para dar às pessoas representaçõ
 de
 como seu produto ficará parecido visualmente e como o sistema vai reagir às entradas do usuário.
 
-
 Não importa como você obtém seus requisitos, você deve se certificar de
 avaliar os seguintes
 pontos abaixo para garantir que você tenha todas as opções cobertas. Vejamos:
@@ -271,7 +266,6 @@ Jakob Nielsen criou a Engenharia de Usabilidade Descontada/Reduzida, que é um
 método de
 simplificação da usabilidade para realizar melhorias rápidas e baratas nas interfaces de usuário:
 
-
 TÉCNICAS DE ENGENHARIA DE
 USABILIDADE DESCONTADA
 
@@ -299,7 +293,6 @@ Aqui cabe salientaralgumas coisas! Jakob Nielsen cita dez princípios gerais ou
 recomendações para
 avaliação de heurísticas, apresentadas a seguir:
 
-
 PRINCÍPIOS PARA
 AVALIAÇÃO DE HEURÍSTICAS
 
@@ -311,7 +304,6 @@ DESCRIÇÃO
 
 0 sistema deve sempre manter os usuários informados sobre o que está
 acontecendo, através de feedback apropriado e em tempo razoável.
-
 
 LIBERDADE E CONTROLE DO
 
@@ -356,7 +348,6 @@ O sistema deve falar a linguagem dos usuários, com palavras, frases e conceitos
 familiares ao usuário, ao invés de termos orientados ao sistema. Siga convenções
 do mundo real, tornando as informações que aparecem em uma ordem natural e
 lógica.
-
 
 Os usuários não precisam adivinhar que diferentes palavras, situações ou ações
 significam a mesma coisa. Siga as convenções da plataforma e mantenha a
@@ -407,13 +398,13 @@ outra sequência de atividades para realizar testes de usabilidade em aplicaçõ
 
 í. Definir categorias de testes de usabilidade e identificar cada objetivo;
 
-Item. 2. Projetar testes que possibilitam que cada objetivo possa ser avaliado;
+2. Projetar testes que possibilitam que cada objetivo possa ser avaliado;
 
-Item. 3. Selecionar participantes que irão conduzir ostestes de usabilidade;
+3. Selecionar participantes que irão conduzir ostestes de usabilidade;
 
-Item. 4. Dar instrumentos para a interação dos participantes com a aplicação;
+4. Dar instrumentos para a interação dos participantes com a aplicação;
 
-Item. 5. Desenvolver um mecanismo para avaliar a usabilidade na aplicação.
+5. Desenvolver um mecanismo para avaliar a usabilidade na aplicação.
 
 O autor também afirma que a única maneira de determinar a usabilidade é por meio de
 testes
@@ -484,9 +475,7 @@ emprego). Algumas dessas questões e seus efeitos no design da interface de usu�
 mostrados
 na tabela a seguir:
 
-
 BAIXA ALTA
-
 
 EXPERIÊNCIA
 COMO USUÁRIO
@@ -552,7 +541,6 @@ da informação). Dessa forma, os conteúdos podem ser relacionados e
 simultaneamente permitir
 que o usuário tenha relativa liberdade para a exploração dos conteúdos. Vejamos:
 
-
 ESTRUTURAS DE
 NAVEGAÇÃO
 
@@ -583,7 +571,6 @@ por conta
 disso que áreas como UX Design são tão importantes dentro de uma empresa. Para
 garantir que as
 experiências dos usuários finais sejam as melhores possíveis.
-
 
 E como garantir que todos esses usuários tenham uma excelente experiência com os seus
 designs?
@@ -668,7 +655,6 @@ melhor o seu sistema, fazendo com que a navegação se torne mais simples e fác
 Consistência, em design de interação, nada mais é do que criar esses padrões dentro do
 sistema.
 
-
 CONSISTÊNCIA
 
 Representar de forma semelhante os controles com funções semelhantes, posicionar
@@ -693,7 +679,6 @@ aumenta a
 coerência entretelas; porque reduz otempo de desenvolvimento; e porque melhora a
 qualidade da
 interface. Entendido?
-
 
 Guias de Estilo de Usabilidade
 
@@ -740,7 +725,6 @@ padrões de
 comportamento da interface; elementos de interação; mensagens; dispositivos de
 interface de
 hardware; e padrões específicos.
-
 
 Usabilidade Para Aplicativos em Dispositivos Móveis
 
@@ -881,11 +865,9 @@ existentes em cada plataforma móvel específica. Para isto a empresa usa um apl
 específico
 para cada plataforma, o qual segue cada respectivo padrão de interface e de forma de uso.
 
-
 Isso faz com que sejam agregados mais recursos e o usuário aprenda a usar o sistema
 mais
 rapidamente, elevando a usabilidade e consequentemente as suas vendas.
-
 
 Folhas de Estilo
 
@@ -933,7 +915,6 @@ entenda as várias maneiras pelas quais o resultado pode parecer diferente do qu
 Se a usabilidade é a capacidade que um sistema oferece ao usuário de realizar
 tarefas, é claro que
 as folhas de estilo -que cuidam da apresentação de uma página -tem influência em sua usabilidade.
-
 
 e-PWG: Cartilha de Usabilidade do Governo Eletrônico
 
@@ -1009,7 +990,6 @@ a pessoa intervém, dialoga, modifica o objeto da interação (no caso, um síti
 Se a interface é fácil de aprender, simples, direta e amigável, a pessoa estará
 inclinada a usar. Sítios
 com usabilidade pensam sob o ponto de vista do cidadão. Para tal, deve-se observar alguns pontos:
-
 
 CIDADÃO
 
@@ -1148,7 +1128,6 @@ ou campos a serem preenchidos, menor a chance de erros, menor o tempo para concl
 um serviço
 e teremos a certeza de que ele escolherá a web como seu canal de comunicação com o governo.
 
-
 Vamos ver agora algumas diretrizes recomendadas para desenvolvimento
 de sítios. Diretrizes
 devem ser tomadas como ponto de partida no desenvolvimento e teste de
@@ -1158,7 +1137,6 @@ são fundamentais no
 desenvolvimento de sítios. As diretrizes propostas por esta cartilha
 baseiam-se na observação
 concreta de problemas comuns nas páginas de instituições públicas no Brasil. São elas:
-
 
 Contexto e Navegação
 Carga de Informação
@@ -1196,33 +1174,32 @@ RECOMENDAÇÕES DE CONTEXTO E NAVEGAÇÃO
 
 í.i Página inicial clara.
 
-Item. 1.2 Estrutura do sítio lógica e fácil.
+1.2 Estrutura do sítio lógica e fácil.
 
-Item. 1.3 Estruturar a informação de forma lógica e intuitiva para 0 cidadão.
+1.3 Estruturar a informação de forma lógica e intuitiva para 0 cidadão.
 
-Item. 1.4 O conteúdo mais importante antes da dobra.
+1.4 O conteúdo mais importante antes da dobra.
 
-Item. 1.5 Elementos da identidade visual localizados sempre no mesmo lugar.
+1.5 Elementos da identidade visual localizados sempre no mesmo lugar.
 
-Item. 1.6 A ferramenta de busca presente em todas as páginas
+1.6 A ferramenta de busca presente em todas as páginas
 1.7As páginas, seções ou serviços mais utilizados visíveis.
 
-Item. 1.8 Não use páginas de transição.
+1.8 Não use páginas de transição.
 
-Item. 1.9 Documentação, tutorial e ajuda.
+1.9 Documentação, tutorial e ajuda.
 
-Item. 1.10 Formatos especiais de arquivo e download.
+1.10 Formatos especiais de arquivo e download.
 
-Item. 1.11 Não use janelas pop-up ou abra links em nova janela.
+1.11 Não use janelas pop-up ou abra links em nova janela.
 
-Item. 1.12 Busca simples e depois, avançada.
+1.12 Busca simples e depois, avançada.
 
-Item. 1.13 Resultados da caixa de busca.
+1.13 Resultados da caixa de busca.
 
-Item. 1.14 Formulários amigáveis.
+1.14 Formulários amigáveis.
 
 Diretriz 2 - Carga de Informação
-
 
 A carga de informação é a soma de todos os elementos da
 interface: textos, links, ícones,
@@ -1245,23 +1222,23 @@ página ou serviço.
 
 RECOMENDAÇÕES DE CARGA DE INFORMAÇÃO
 
-Item. 1.15 Não abarrote a página inicial com excesso de informações.
+1.15 Não abarrote a página inicial com excesso de informações.
 
-Item. 1.16 Elimine elementos desnecessários das páginas.
+1.16 Elimine elementos desnecessários das páginas.
 
-Item. 1.17 Elimine passos desnecessários em serviços e preenchimento de formulários.
+1.17 Elimine passos desnecessários em serviços e preenchimento de formulários.
 
-Item. 1.18 Em textos extensos, oferecer a opção de baixar o documento.
+1.18 Em textos extensos, oferecer a opção de baixar o documento.
 
-Item. 1.19 Apenas peça os dados necessários.
+1.19 Apenas peça os dados necessários.
 
-Item. 1.20 Peça para 0 cidadão converter dados, medidas ou valores
+1.20 Peça para 0 cidadão converter dados, medidas ou valores
 
-Item. 1.21 Cidadão não deve necessitar memorizar dados.
+1.21 Cidadão não deve necessitar memorizar dados.
 
-Item. 1.22 A rolagem vertical ou horizontal de tela.
+1.22 A rolagem vertical ou horizontal de tela.
 
-Item. 1.23 O bom senso no número de filtros e opções disponíveis.
+1.23 O bom senso no número de filtros e opções disponíveis.
 
 Diretriz 3 - Autonomia
 
@@ -1277,26 +1254,25 @@ autonomia na utilização do sítio.
 
 RECOMENDAÇÕES DE AUTONOMIA
 
-Item. 1.24 Mantenha a função do botão de retrocesso (back/voltar) do navegador.
+1.24 Mantenha a função do botão de retrocesso (back/voltar) do navegador.
 
-Item. 1.25 Não crie páginas que abram e funcionem em tela cheia.
+1.25 Não crie páginas que abram e funcionem em tela cheia.
 
-Item. 1.26 Permitirão cidadão marcar(favoritar) qualquer página de seu interesse.
+1.26 Permitirão cidadão marcar(favoritar) qualquer página de seu interesse.
 
-Item. 1.27 Não usar expressões como "compatível com" "melhor visto na resolução...".
+1.27 Não usar expressões como "compatível com" "melhor visto na resolução...".
 
-Item. 1.28 Possibilitar ao cidadão interromper ou cancelar o processamento ou transação.
+1.28 Possibilitar ao cidadão interromper ou cancelar o processamento ou transação.
 
-Item. 1.29 É do cidadão 0 controle sobre a navegação
+1.29 É do cidadão 0 controle sobre a navegação
 
-Item. 1.30 Não usar plug-ins auto-instaláveis.
+1.30 Não usar plug-ins auto-instaláveis.
 
-Item. 1.31 Permitir a cópia de trechos de documentos.
+1.31 Permitir a cópia de trechos de documentos.
 
-Item. 1.32 Quando possível, oferecer a personalização da página.
+1.32 Quando possível, oferecer a personalização da página.
 
 Diretriz 4-Erros
-
 
 Errar é humano. O cidadão pode não entender como proceder em determinado
 passo do serviço
@@ -1312,17 +1288,17 @@ RECOMENDAÇÕES DE ERROS
 
 1.33As ações do portal devem ser reversíveis.
 
-Item. 1.34 Permita erros de digitação em busca.
+1.34 Permita erros de digitação em busca.
 
-Item. 1.35 Avise toda indisponibilidade (Ex: troca de servidores).
+1.35 Avise toda indisponibilidade (Ex: troca de servidores).
 
-Item. 1.36 Em formulários, mostre 0 formato desejado.
+1.36 Em formulários, mostre 0 formato desejado.
 
-Item. 1.37 Em formulários, só deixe no campo 0 número de caracteres desejado.
+1.37 Em formulários, só deixe no campo 0 número de caracteres desejado.
 
-Item. 1.38 As mensagens de erro devem ser sucintas e explicativas
+1.38 As mensagens de erro devem ser sucintas e explicativas
 
-Item. 1.39 Não limpe 0 conteúdo do formulário inteiro porcausa de um erro.
+1.39 Não limpe 0 conteúdo do formulário inteiro porcausa de um erro.
 
 Diretriz 5 - Desenho
 
@@ -1346,35 +1322,33 @@ nível de satisfação durante a interação com o portal. Em resumo o desenho d
 
 - Garantir a facilidade de navegação.
 
-
-Item. 1.40 Utilizar um projeto padrão de páginas.
+1.40 Utilizar um projeto padrão de páginas.
 
 RECOMENDAÇÕES DE DESENHO
 
-Item. 1.41 Agrupar e hierarquizar, de forma clara, as áreas de informação.
+1.41 Agrupar e hierarquizar, de forma clara, as áreas de informação.
 
-Item. 1.42 Usar espaço em branco para separar conteúdos ou assuntos diferentes.
+1.42 Usar espaço em branco para separar conteúdos ou assuntos diferentes.
 
-Item. 1.43 Usarfundos neutros, que não comprometam o objetivo do sítio.
+1.43 Usarfundos neutros, que não comprometam o objetivo do sítio.
 
-Item. 1.44 Evitar caixa com opções ou de menus de cortina na navegação principal e persistente.
+1.44 Evitar caixa com opções ou de menus de cortina na navegação principal e persistente.
 
-Item. 1.45 O desenho deve estar a serviço da informação
+1.45 O desenho deve estar a serviço da informação
 
-Item. 1.46 Elementos do desenho não devem trabalhar em benefício de uma estética particular.
+1.46 Elementos do desenho não devem trabalhar em benefício de uma estética particular.
 
-Item. 1.47 Utilizar a animação com bom senso.
+1.47 Utilizar a animação com bom senso.
 
-Item. 1.48 Conteúdo agradável de ser lido.
+1.48 Conteúdo agradável de ser lido.
 
-Item. 1.49 Texto alinhado à esquerda.
+1.49 Texto alinhado à esquerda.
 
-Item. 1.50 Esquema consistente de cores e fontes.
+1.50 Esquema consistente de cores e fontes.
 
-Item. 1.51 Respeitar a velocidade de conexão do público-alvo.
+1.51 Respeitar a velocidade de conexão do público-alvo.
 
-
-Item. 1.52 Utilizar de forma consciente plug-ins e multimídia.
+1.52 Utilizar de forma consciente plug-ins e multimídia.
 
 Diretriz 6-Redação
 
@@ -1390,22 +1364,22 @@ deve ser objetivo.
 
 RECOMENDAÇÕES DE REDAÇÃO
 
-Item. 1.53 Utilizar uma linguagem clara e familiar
+1.53 Utilizar uma linguagem clara e familiar
 
-Item. 1.54 O texto objetivo.
+1.54 O texto objetivo.
 
-Item. 1.55 Dividir o texto em tópicos.
+1.55 Dividir o texto em tópicos.
 
-Item. 1.56 Títulos informativos e com destaque visual.
+1.56 Títulos informativos e com destaque visual.
 1.57Título da página explanatório e único.
 
-Item. 1.58 Utilizartermos simples e claros como rótulos de menu.
+1.58 Utilizartermos simples e claros como rótulos de menu.
 
-Item. 1.59 Gramática correta.
+1.59 Gramática correta.
 
-Item. 1.60 Use ênfase e negrito.
+1.60 Use ênfase e negrito.
 
-Item. 1.61 Evitar o uso de caixa alta.
+1.61 Evitar o uso de caixa alta.
 
 Diretriz 7 - Consistência e Familiariadade
 
@@ -1423,21 +1397,20 @@ Em resumo: o cidadão deve sentir-se bem-vindo no sítio; e o sítio deve
 ser familiar, identificado
 com a experiência de vida.
 
-
-Item. 1.62 Usar convenções.
+1.62 Usar convenções.
 
 RECOMENDAÇÕES DE CONSISTÊNCIA E FAMILIARIADADE
 
-Item. 1.63 Usarformato de data e unidades de medida de acordo com 0 padrão utilizado na instituição ou
+1.63 Usarformato de data e unidades de medida de acordo com 0 padrão utilizado na instituição ou
 país.
 
-Item. 1.64 Planejara estrutura do sítio de acordo com o contexto das tarefas realizadas pelos cidadãos.
+1.64 Planejara estrutura do sítio de acordo com o contexto das tarefas realizadas pelos cidadãos.
 
-Item. 1.65 Facilitara navegação do sítio.
+1.65 Facilitara navegação do sítio.
 
-Item. 1.66 Planejara estrutura do portal de acordo com 0 contexto das tarefas realizadas pelos cidadãos.
+1.66 Planejara estrutura do portal de acordo com 0 contexto das tarefas realizadas pelos cidadãos.
 
-Item. 1.67 Remeter a formulários os links de contato.
+1.67 Remeter a formulários os links de contato.
 
 Pessoal, quem quiser saber mais detalhes sobre cada recomendação;
 sobre métodos de
@@ -1494,7 +1467,6 @@ MÉTODOS EMPÍRICOS | DESCRIÇÃO
 
 Utilizado para descobrir o modelo mental que os participantes têm de determinado
 
-
 ARRANJO DE CARTÕES
 (CARD SORTING)
 
@@ -1518,7 +1490,6 @@ e descobrir como determinadas tarefas são realizadas. Através da análise das
 verbalizações dos participantes, o pesquisador pode obter um melhor entendimento das
 questões de usabilidade associadas com a interface - geralmente os participantes são
 amigos ou, no mínimo, conhecidos.
-
 
 DIÁRIOS DE INCIDENTES
 
@@ -1602,7 +1573,6 @@ sobre o assunto do inquérito e precisa-se obter tais dados com o mínimo de dis
 possível. A maioria dos questionários é classificada como fechado (uma opção entre várias
 alternativas) ou aberto (não tem alternativas).
 
-
 REGISTRO DE
 CONVERSAÇÕES
 
@@ -1629,7 +1599,6 @@ MÉTODOS NÃO-EMPÍRICOS | DESCRIÇÃO
 A medição da complexidade de uma tarefa é feita através do número de passos
 necessários para completar a mesma. Logo, quanto menos passos, mais simples é a
 
-
 ANÁLISE DE TAREFA
 
 AVALIAÇÃO HEURÍSTICA
@@ -1642,7 +1611,6 @@ Um pequeno grupo de peritos em design de telas examina uma determinada interface
 procura dos problemas que violem alguns princípios gerais de projeto. Pede-se que estes
 peritos avaliem a interface isoladamente, evitando que os achados de um sejam
 influenciados pelos de outro indivíduo. Posteriormente, comparam-se os resultados.
-
 
 AVALIAÇÃO DE PERITOS
 
@@ -1669,14 +1637,12 @@ apresentada
 anteriormente, e o percurso cognitivo. No segundo, o pesquisador tenta realizara sua
 avaliação de acordo com o ponto de vista de um usuário típico da interface.
 
-
 INSPEÇÃO DE PADRÕES
 
 Neste método de avaliação de interface de usuário, a interface é avaliada por um
 especialista a partir de um determinado padrão previamente escolhido, tal como: e-MAG
 (Padrão de Acessibilidade do Governo Eletrônico). Avalia-se a conformidade com o que
 foi preconizado pelo padrão escolhido anteriormente.
-
 
 RESUMo
 
@@ -1705,7 +1671,6 @@ rápida e fácil. Ademais, erros catastróficos não devem ocorrer.
 
 O sistema deve ser agradável de usar, para que os usuários fiquem satisfeitos e voltem mais
 vezes para usá-lo.
-
 
 ANÁLISE DO PERFIL
 
@@ -1737,7 +1702,6 @@ Pesquisa e catalogação do conhecimento ergonômico disponível para a
 concepção da interface no tipo de contexto de uso (usuário, tarefa, equipamento
 e ambiente) no qual o sistema está inserido.
 
-
 TÉCNICAS DE ENGENHARIA DE
 USABILIDADE DESCONTADA
 
@@ -1748,7 +1712,6 @@ DESCRIÇÃO
 
 Trata-se da observação de usuários utilizando o sistema para descobrir nível de
 utilização, desentendimentos, entre outros.
-
 
 CENÁRIOS DE USO Trata-se de uma espécie de prototipação para obterfeedback sobre a usabilidade
 do sistema.
@@ -1761,7 +1724,6 @@ AVALIAÇÕES HEURÍSTICAS Trata-se de avaliações que examinam se uma interface
 acordo com
 princípios reconhecidos de usabilidade (heurísticas).
 
-
 PRINCÍPIOS PARA
 AVALIAÇÃO DE HEURÍSTICAS
 
@@ -1773,7 +1735,6 @@ DESCRIÇÃO
 
 0 sistema deve sempre manter os usuários informados sobre o que está
 acontecendo, através de feedback apropriado e em tempo razoável.
-
 
 LIBERDADE E CONTROLE DO
 
@@ -1844,7 +1805,6 @@ Os diálogos não devem conter informações irrelevantes ou raramente
 necessárias. Cada unidade extra de informação em um diálogo compete com as
 unidades relevantes de informação e diminui sua visibilidade relativa.
 
-
 AJUDA E
 DOCUMENTAÇÃO
 
@@ -1852,7 +1812,6 @@ Mesmo que seja melhor que um sistema possa ser usado sem documentação,
 pode ser necessário fornecer uma ajuda e documentação. Qualquer informação
 deve serfácil de ser pesquisada, com foco na atividade do usuário, lista de
 concretos a serem realizados, e não ser muito grande.
-
 
 ESTRUTURAS DE
 NAVEGAÇÃO
@@ -1877,156 +1836,152 @@ RECOMENDAÇÕES DE CONTEXTO E NAVEGAÇÃO
 
 í.i Página inicial clara.
 
-Item. 1.2 Estrutura do sítio lógica e fácil.
+1.2 Estrutura do sítio lógica e fácil.
 
-Item. 1.3 Estruturar a informação de forma lógica e intuitiva para 0 cidadão.
+1.3 Estruturar a informação de forma lógica e intuitiva para 0 cidadão.
 
-Item. 1.4 O conteúdo mais importante antes da dobra.
+1.4 O conteúdo mais importante antes da dobra.
 
-Item. 1.5 Elementos da identidade visual localizados sempre no mesmo lugar.
+1.5 Elementos da identidade visual localizados sempre no mesmo lugar.
 
-Item. 1.6 A ferramenta de busca presente em todas as páginas
+1.6 A ferramenta de busca presente em todas as páginas
 1.7As páginas, seções ou serviços mais utilizados visíveis.
 
-Item. 1.8 Não use páginas de transição.
+1.8 Não use páginas de transição.
 
-Item. 1.9 Documentação, tutorial e ajuda.
+1.9 Documentação, tutorial e ajuda.
 
-Item. 1.10 Formatos especiais de arquivo e download.
+1.10 Formatos especiais de arquivo e download.
 
-Item. 1.11 Não use janelas pop-up ou abra links em nova janela.
+1.11 Não use janelas pop-up ou abra links em nova janela.
 
-Item. 1.12 Busca simples e depois, avançada.
+1.12 Busca simples e depois, avançada.
 
-Item. 1.13 Resultados da caixa de busca.
+1.13 Resultados da caixa de busca.
 
-Item. 1.14 Formulários amigáveis.
+1.14 Formulários amigáveis.
 
 RECOMENDAÇÕES DE CARGA DE INFORMAÇÃO
 
-Item. 1.15 Não abarrote a página inicial com excesso de informações.
+1.15 Não abarrote a página inicial com excesso de informações.
 
-Item. 1.16 Elimine elementos desnecessários das páginas.
+1.16 Elimine elementos desnecessários das páginas.
 
-Item. 1.17 Elimine passos desnecessários em serviços e preenchimento de formulários.
+1.17 Elimine passos desnecessários em serviços e preenchimento de formulários.
 
-Item. 1.18 Em textos extensos, oferecer a opção de baixar o documento.
+1.18 Em textos extensos, oferecer a opção de baixar o documento.
 
-Item. 1.19 Apenas peça os dados necessários.
+1.19 Apenas peça os dados necessários.
 
-Item. 1.20 Peça para 0 cidadão converter dados, medidas ou valores
+1.20 Peça para 0 cidadão converter dados, medidas ou valores
 
-Item. 1.21 Cidadão não deve necessitar memorizar dados.
+1.21 Cidadão não deve necessitar memorizar dados.
 
-Item. 1.22 A rolagem vertical ou horizontal de tela.
+1.22 A rolagem vertical ou horizontal de tela.
 
-Item. 1.23 O bom senso no número de filtros e opções disponíveis.
+1.23 O bom senso no número de filtros e opções disponíveis.
 
 RECOMENDAÇÕES DE AUTONOMIA
 
-Item. 1.24 Mantenha a função do botão de retrocesso (back/voltar) do navegador.
+1.24 Mantenha a função do botão de retrocesso (back/voltar) do navegador.
 
+1.25 Não crie páginas que abram e funcionem em tela cheia.
 
-Item. 1.25 Não crie páginas que abram e funcionem em tela cheia.
+1.26 Permitirão cidadão marcar(favoritar) qualquer página de seu interesse.
 
-Item. 1.26 Permitirão cidadão marcar(favoritar) qualquer página de seu interesse.
+1.27 Não usar expressões como "compatível com" "melhor visto na resolução...".
 
-Item. 1.27 Não usar expressões como "compatível com" "melhor visto na resolução...".
+1.28 Possibilitar ao cidadão interromper ou cancelar o processamento ou transação.
 
-Item. 1.28 Possibilitar ao cidadão interromper ou cancelar o processamento ou transação.
+1.29 É do cidadão 0 controle sobre a navegação
 
-Item. 1.29 É do cidadão 0 controle sobre a navegação
+1.30 Não usar plug-ins auto-instaláveis.
 
-Item. 1.30 Não usar plug-ins auto-instaláveis.
+1.31 Permitir a cópia de trechos de documentos.
 
-Item. 1.31 Permitir a cópia de trechos de documentos.
-
-Item. 1.32 Quando possível, oferecer a personalização da página.
+1.32 Quando possível, oferecer a personalização da página.
 
 RECOMENDAÇÕES DE ERROS
 
 1.33As ações do portal devem ser reversíveis.
 
-Item. 1.34 Permita erros de digitação em busca.
+1.34 Permita erros de digitação em busca.
 
-Item. 1.35 Avise toda indisponibilidade (Ex: troca de servidores).
+1.35 Avise toda indisponibilidade (Ex: troca de servidores).
 
-Item. 1.36 Em formulários, mostre 0 formato desejado.
+1.36 Em formulários, mostre 0 formato desejado.
 
-Item. 1.37 Em formulários, só deixe no campo o número de caracteres desejado.
+1.37 Em formulários, só deixe no campo o número de caracteres desejado.
 
-Item. 1.38 As mensagens de erro devem ser sucintas e explicativas
+1.38 As mensagens de erro devem ser sucintas e explicativas
 
-Item. 1.39 Não limpe 0 conteúdo do formulário inteiro por causa de um erro.
+1.39 Não limpe 0 conteúdo do formulário inteiro por causa de um erro.
 
-
-Item. 1.40 Utilizar um projeto padrão de páginas.
+1.40 Utilizar um projeto padrão de páginas.
 
 RECOMENDAÇÕES DE DESENHO
 
-Item. 1.41 Agrupar e hierarquizar, de forma clara, as áreas de informação.
+1.41 Agrupar e hierarquizar, de forma clara, as áreas de informação.
 
-Item. 1.42 Usar espaço em branco para separar conteúdos ou assuntos diferentes.
+1.42 Usar espaço em branco para separar conteúdos ou assuntos diferentes.
 
-Item. 1.43 Usarfundos neutros, que não comprometam 0 objetivo do sítio.
+1.43 Usarfundos neutros, que não comprometam 0 objetivo do sítio.
 
-Item. 1.44 Evitar caixa com opções ou de menus de cortina na navegação principal e persistente.
+1.44 Evitar caixa com opções ou de menus de cortina na navegação principal e persistente.
 
-Item. 1.45 O desenho deve estar a serviço da informação
+1.45 O desenho deve estar a serviço da informação
 
-Item. 1.46 Elementos do desenho não devem trabalhar em benefício de uma estética particular.
+1.46 Elementos do desenho não devem trabalhar em benefício de uma estética particular.
 
-Item. 1.47 Utilizar a animação com bom senso.
+1.47 Utilizar a animação com bom senso.
 
-Item. 1.48 Conteúdo agradável de ser lido.
+1.48 Conteúdo agradável de ser lido.
 
-Item. 1.49 Texto alinhado à esquerda.
+1.49 Texto alinhado à esquerda.
 
-Item. 1.50 Esquema consistente de cores e fontes.
+1.50 Esquema consistente de cores e fontes.
 
-Item. 1.51 Respeitar a velocidade de conexão do público-alvo.
+1.51 Respeitar a velocidade de conexão do público-alvo.
 
-Item. 1.52 Utilizar de forma consciente plug-ins e multimídia.
+1.52 Utilizar de forma consciente plug-ins e multimídia.
 
 RECOMENDAÇÕES DE REDAÇÃO
 
-Item. 1.53 Utilizar uma linguagem clara e familiar
+1.53 Utilizar uma linguagem clara e familiar
 
-Item. 1.54 O texto objetivo.
+1.54 O texto objetivo.
 
-Item. 1.55 Dividir o texto em tópicos.
+1.55 Dividir o texto em tópicos.
 
-Item. 1.56 Títulos informativos e com destaque visual.
+1.56 Títulos informativos e com destaque visual.
 1.57Título da página explanatório e único.
 
-Item. 1.58 Utilizartermos simples e claros como rótulos de menu.
+1.58 Utilizartermos simples e claros como rótulos de menu.
 
-Item. 1.59 Gramática correta.
+1.59 Gramática correta.
 
-Item. 1.60 Use ênfase e negrito.
+1.60 Use ênfase e negrito.
 
-Item. 1.61 Evitar o uso de caixa alta.
+1.61 Evitar o uso de caixa alta.
 
-
-Item. 1.62 Usar convenções.
+1.62 Usar convenções.
 
 RECOMENDAÇÕES DE CONSISTÊNCIA E FAMILIARIADADE
 
-Item. 1.63 Usarformato de data e unidades de medida de acordo com 0 padrão utilizado na instituição ou
+1.63 Usarformato de data e unidades de medida de acordo com 0 padrão utilizado na instituição ou
 país.
 
-Item. 1.64 Planejara estrutura do sítio de acordo com o contexto das tarefas realizadas pelos cidadãos.
+1.64 Planejara estrutura do sítio de acordo com o contexto das tarefas realizadas pelos cidadãos.
 
-Item. 1.65 Facilitara navegação do sítio.
+1.65 Facilitara navegação do sítio.
 
-Item. 1.66 Planejara estrutura do portal de acordo com 0 contexto das tarefas realizadas pelos cidadãos.
+1.66 Planejara estrutura do portal de acordo com 0 contexto das tarefas realizadas pelos cidadãos.
 
-Item. 1.67 Remeter a formulários os links de contato.
+1.67 Remeter a formulários os links de contato.
 
 MÉTODOS EMPÍRICOS | DESCRIÇÃO
 
 Utilizado para descobrir o modelo mental que os participantes têm de
-
 
 ARRANJO DE CARTÕES
 (CARD SORTING)
@@ -2086,7 +2041,6 @@ de observações controladas; realizadas em uma situação artificial; através 
 manipulação deliberadas de algumas variáveis; e com o objetivo de testar uma ou
 mais hipóteses específicas. É uma avaliação formalmente projetada através de
 controles e balanços muito bem ajustados.
-
 
 LISTAS DE VERIFICAÇÃO
 DE CARACTERÍSTICAS
@@ -2166,12 +2120,10 @@ MÉTODOS NÃO-EMPÍRICOS | DESCRIÇÃO
 
 A medição da complexidade de uma tarefa é feita através do número de passos
 
-
 ANÁLISE DE TAREFA
 
 necessários para completar a mesma. Logo, quanto menos passos, mais simples é
 a tarefa. O método de análise da tarefa pode ser utilizado para o desenvolvimento
-
 
 AVALIAÇÃO HEURÍSTICA
 
@@ -2221,7 +2173,6 @@ conformidade com o que foi preconizado pelo padrão escolhido anteriormente.
 
 D PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
 QUESTõES CoMENTADoS - CESPE
 
 í. (CESPE / BANRISUL - 2022) A arquitetura da informação estuda a operação
@@ -2244,7 +2195,7 @@ para melhorar o uso do usuário.
 
 Gabarito: Errado
 
-Item. 2. (CESPE / BANRISUL - 2022) A acessibilidade está relacionada
+2. (CESPE / BANRISUL - 2022) A acessibilidade está relacionada
 à facilidade com que
 determinada informação é assimilada por pessoas com alguma deficiência.
 
@@ -2262,7 +2213,7 @@ para tornar a informação mais acessível.
 
 Gabarito: Correto
 
-Item. 3. (CESPE/ DPE-RO-2021) Durante a utilização do sistema, existe uma
+3. (CESPE/ DPE-RO-2021) Durante a utilização do sistema, existe uma
 sensibilidade ao contexto
 e, em vez de inúmeras opções, é indicado apenas o que se deve fazer
 como próximo passo
@@ -2284,7 +2235,6 @@ d) visibilidade.
 
 e) mapeamento.
 
-
 Comentários:
 
 O mapeamento significa a relação entre o controle e o efeito, ou seja,
@@ -2299,12 +2249,11 @@ diversas funções, apenas aquilo que ela deve fazer.
 
 Gabarito: Letra E
 
-Item. 4. (CESPE/TCU -2005) Uma estrutura linear de navegação para uma aplicação
+4. (CESPE/TCU -2005) Uma estrutura linear de navegação para uma aplicação
 em ambiente web
 deve ser utilizada quando a aplicação for caracterizada por uma
 sequência previsível de
 interações, com poucas variantes de fluxos de navegação.
-
 
 Comentários:
 
@@ -2333,7 +2282,7 @@ variantes de fluxo de navegação.
 
 Gabarito: Correto
 
-Item. 5. (CESPE / TCU - 2005) No projeto da interface usuário de um sistema,
+5. (CESPE / TCU - 2005) No projeto da interface usuário de um sistema,
 a quantidade de ações,
 tarefas e estados do sistema indicados no modelo da interface permite
 prever a carga de
@@ -2349,8 +2298,7 @@ se projetar bem a interface com o usuário para reduzir a carga de memória do u
 
 Gabarito: Correto
 
-
-Item. 6. (CESPE / TCU - 2005) A variabilidade do tempo de resposta
+6. (CESPE / TCU - 2005) A variabilidade do tempo de resposta
 de um sistema tem pouca
 importância para o desempenho médio do usuário na realização de tarefas com esse sistema.
 
@@ -2370,7 +2318,7 @@ médio do usuário na realização de tarefas.
 
 Gabarito: Errado
 
-Item. 7. (CESPE / TRE-MS - 2013) A engenharia da usabilidade é embasada no uso das técnicas de:
+7. (CESPE / TRE-MS - 2013) A engenharia da usabilidade é embasada no uso das técnicas de:
 
 a) avaliações heurísticas e cenários de uso.
 
@@ -2381,7 +2329,6 @@ c) observação do usuário e helps online.
 d) cenários de uso e informações na tela do sistema.
 
 e) verbalização simplificada e helps online.
-
 
 Comentários:
 
@@ -2413,12 +2360,11 @@ A tabela nos mostra que se trata de cenários de uso e avaliações heurísticas
 
 Gabarito: Letra A
 
-Item. 8. (CESPE / CNJ - 2013) Uma página desenvolvida em conformidade com as
+8. (CESPE / CNJ - 2013) Uma página desenvolvida em conformidade com as
 normas sintáticas de
 Javascript, Java ou PHPterá necessariamente usabilidade de boa qualidade, bem
 como de boa
 acessibilidade.
-
 
 Comentários:
 
@@ -2430,7 +2376,7 @@ garantir boa usabilidade.
 
 Gabarito: Errado
 
-Item. 9. (CESPE / CNJ - 2013) Se o preenchimento de um formulário cadastral
+9. (CESPE / CNJ - 2013) Se o preenchimento de um formulário cadastral
 de um sistema ocasiona
 cinco erros, em média, e esses erros representam um esforço de uma hora
 para correção, então,
@@ -2483,7 +2429,7 @@ falando sobre testes de carga.
 
 Gabarito: Errado
 
-Item. 11. (CESPE / UNIPAMPA - 2013) Utilidade é considerada um atributo-chave que
+11. (CESPE / UNIPAMPA - 2013) Utilidade é considerada um atributo-chave que
 deve ser pensado
 de forma paralela com a usabilidade.
 
@@ -2517,14 +2463,13 @@ identificar problemas; e crítica, que sugere soluções e melhorias.
 
 Gabarito: Correto
 
-Item. 13. (CESPE / HEMOBRÁS - 2013) De acordo com Jakob Nielsen, a usabilidade
+13. (CESPE / HEMOBRÁS - 2013) De acordo com Jakob Nielsen, a usabilidade
 tornou-se popular
 entre as empresas que a utilizam websites devido ao retorno
 financeiro que ela pode
 proporcionar.
 
 Comentários:
-
 
 A usabilidade evita perdas e proporciona Return On Investment (ROI),
 isto é, retorno financeiro
@@ -2538,7 +2483,6 @@ por Nielsen está o
 uso de uma linguagem familiar ao usuário.
 
 Comentários:
-
 
 COMPATIBILIDADE ENTRE SISTEMA
 
@@ -2557,7 +2501,6 @@ Gabarito: Correto
 i5.(CESPE / HEMOBRÁS - 2008) De acordo com Jakob Nielsen, para melhorar a
 usabilidade de
 um sistema, o designer deve avaliar outras interfaces existentes.
-
 
 Comentários:
 
@@ -2638,7 +2581,6 @@ significativamente diferentes de usabilidade quando usado em diferentes contexto
 
 Comentários:
 
-
 A Norma ISO/IEC 9241-11 define usabiIidade como medida na qual um produto pode ser
 usado por
 usuários específicos para alcançar objetivos específicos com eficácia, eficiência e
@@ -2698,7 +2640,6 @@ sistema.
 
 Comentários:
 
-
 Nunca entendi por que essa questão está errada! O máximo que eu consigo elucubrar é
 que a
 facilidade de uso é uma das funções mais importantes da interface do usuário e, não,
@@ -2719,7 +2660,7 @@ erros, facilidade de aprendizado, memorização, eficiência e satisfação.
 
 Gabarito: Correto
 
-Item. 23. (CESPE / SEFAZ-AL - 2002) Técnicas de inteligência artificial podem ser usadas
+23. (CESPE / SEFAZ-AL - 2002) Técnicas de inteligência artificial podem ser usadas
 para permitir
 que um sistema adapte-se automaticamente ao usuário, aumentando a facilidade de uso para
 este usuário.
@@ -2754,8 +2695,7 @@ benefícios mensuráveis que podem ser obtidos de um sistema usável.
 
 Gabarito: Correto
 
-
-Item. 25. (CESPE / TCU - 2010) Identificar categorias e definir os objetivos de teste para
+25. (CESPE / TCU - 2010) Identificar categorias e definir os objetivos de teste para
 cada categoria
 são recomendações normalmente consideradas para a elaboração de teste de usabilidade.
 
@@ -2784,10 +2724,9 @@ tudo que 0 usuário quiser fazer, ele precisar abrir um manual? Isso é um indí
 de
 usabilidade!
 
-
 Gabarito: Errado
 
-Item. 27. (CESPE/TCU-2010) Uma questão do tipo A interação é simples? jamais deve ser
+27. (CESPE/TCU-2010) Uma questão do tipo A interação é simples? jamais deve ser
 utilizada para
 determinar se a usabilidade foi atingida em um sistema.
 
@@ -2810,7 +2749,6 @@ engenharia de
 usabilidade é a que permite o conhecimento do usuário ao qual o software se destina.
 
 Comentários:
-
 
 ANÁLISE DO PERFIL
 
@@ -2850,7 +2788,6 @@ melhor o usuário ao qual o software se destina.
 
 Gabarito: Correto
 
-
 QUESTõES CoMENTADoS - FCC
 
 í. (FCC / TCE-PR-2011) A terminologia e os conceitos aplicados em uma interface de usuário que
@@ -2869,7 +2806,6 @@ e) treinamento.
 Comentários:
 
 BAIXA ALTA
-
 
 EXPERIÊNCIA
 COMO USUÁRIO
@@ -2920,7 +2856,7 @@ A questão trata do fator: Experiência Com o Domínio. Questão puramente decor
 
 Gabarito: Letra B
 
-Item. 2. (FCC / TCE-PR-2011) O sistema deve apresentar facilidade de uso, permitindo que
+2. (FCC / TCE-PR-2011) O sistema deve apresentar facilidade de uso, permitindo que
 mesmo um
 usuário sem experiência seja capaz de produzir algum trabalho satisfatoriamente. Trata-se
 de
@@ -2935,7 +2871,6 @@ c) satisfação.
 d) intuitividade.
 
 e) erro.
-
 
 Comentários:
 
@@ -2968,7 +2903,7 @@ rapidamente obter algum resultado satisfatório.
 
 Gabarito: Letra D
 
-Item. 3. (FCC / TJ-PE - 2012) Para que ocorra minimamente uma interação, a interface deve
+3. (FCC / TJ-PE - 2012) Para que ocorra minimamente uma interação, a interface deve
 apresentar
 características que facilitem sua utilização, permitindo que usuários básicos ou
 avançados
@@ -2988,7 +2923,6 @@ e) intuitividade.
 
 Comentários:
 
-
 CRITÉRIOS DE
 QUALIDADE
 LEARNABILITY
@@ -3004,7 +2938,6 @@ assimilação,
 de forma que um usuário - mesmo sem experiência - possa rapidamente obter
 algum
 resultado satisfatório. Trata-se do atributo mais importante de acordo com Jakob Nielsen.
-
 
 EFFICIENCY
 (EFICIÊNCIA)
@@ -3038,7 +2971,7 @@ rapidamente obter algum resultado satisfatório.
 
 Gabarito: Letra E
 
-Item. 4. (FCC/TRT6-2012) Em relação ao desenho (design, programação visual), que tem um
+4. (FCC/TRT6-2012) Em relação ao desenho (design, programação visual), que tem um
 impacto
 significativo na credibilidade e usabilidade de um site, é correto afirmar:
 
@@ -3070,32 +3003,31 @@ Comentários:
 
 RECOMENDAÇÕES DE DESENHO
 
-Item. 1.40 Utilizar um projeto padrão de páginas (Letra E).
+1.40 Utilizar um projeto padrão de páginas (Letra E).
 
-Item. 1.41 Agrupar e hierarquizar, de forma clara, as áreas de informação (Letra D).
+1.41 Agrupar e hierarquizar, de forma clara, as áreas de informação (Letra D).
 
+1.42 Usar espaço em branco para separar conteúdos ou assuntos diferentes (Letra C).
 
-Item. 1.42 Usar espaço em branco para separar conteúdos ou assuntos diferentes (Letra C).
+1.43 Usar fundos neutros, que não comprometam 0 objetivo do sítio (Letra B).
 
-Item. 1.43 Usar fundos neutros, que não comprometam 0 objetivo do sítio (Letra B).
+1.44 Evitar caixa com opções ou de menus de cortina na navegação principal e persistente.
 
-Item. 1.44 Evitar caixa com opções ou de menus de cortina na navegação principal e persistente.
+1.45 O desenho deve estar a serviço da informação.
 
-Item. 1.45 O desenho deve estar a serviço da informação.
+1.46 Elementos do desenho não devem trabalhar em benefício de uma estética particular.
 
-Item. 1.46 Elementos do desenho não devem trabalhar em benefício de uma estética particular.
+1.47 Utilizar a animação com bom senso.
 
-Item. 1.47 Utilizar a animação com bom senso.
+1.48 Conteúdo agradável de ser lido.
 
-Item. 1.48 Conteúdo agradável de ser lido.
+1.49 Texto alinhado à esquerda.
 
-Item. 1.49 Texto alinhado à esquerda.
+1.50 Esquema consistente de cores e fontes.
 
-Item. 1.50 Esquema consistente de cores e fontes.
+1.51 Respeitar a velocidade de conexão do público-alvo.
 
-Item. 1.51 Respeitar a velocidade de conexão do público-alvo.
-
-Item. 1.52 Utilizarde forma consciente plug-ins e multimídia.
+1.52 Utilizarde forma consciente plug-ins e multimídia.
 
 A função do sítio-a informação-é soberana sobre o desenho. Qualquertipo de
 conformação que
@@ -3105,7 +3037,7 @@ abandonada.
 
 Gabarito: Letra A
 
-Item. 31. (FCC / TRT6 - 2012) NÃO consta entre as diretrizes de usabilidade em Governo Eletrônico:
+31. (FCC / TRT6 - 2012) NÃO consta entre as diretrizes de usabilidade em Governo Eletrônico:
 
 a) Contexto e navegação - é importante que o site informe a pessoa em que contexto
 ela se
@@ -3133,7 +3065,6 @@ como cada um dos recursos disponíveis.
 
 Comentários:
 
-
 Contexto e Navegação (Letra A)
 Carga de Informação (Letra B)
 Consistência e Familiaridade
@@ -3143,7 +3074,6 @@ DIRETRIZES
 Erros (Letra D)
 Desenho
 Redação
-
 
 Autonomia (Letra C)
 
@@ -3187,7 +3117,6 @@ Inspeção de Padrões e Avaliação de Peritos.
 
 Gabarito: Letra B
 
-
 QUESTõES CoMENTADoS - FCV
 
 í. (FGV / Senado Federal - 2008) A usabilidade consiste num conjunto de técnicas que aferem:
@@ -3218,7 +3147,7 @@ sentido lógico.
 
 Gabarito: Letra A
 
-Item. 2. (FGV / ALERJ - 2017) O Antiquário "Só Velharia" possui um sistema de catálogo
+2. (FGV / ALERJ - 2017) O Antiquário "Só Velharia" possui um sistema de catálogo
 de produtos,
 desenvolvido há três anos, que é utilizado por todos os seus funcionários. Há cerca
 de um ano,
@@ -3243,7 +3172,6 @@ d) criatividade
 e) eficiência
 
 Comentários:
-
 
 Também conhecida como Intuitividade, o sistema deve serde fácil aprendizado e
 assimilação,
@@ -3272,7 +3200,7 @@ seja capaz de retornar depois de um tempo sem ter que aprendertudo novamente.
 
 Gabarito: Letra A
 
-Item. 3. (FGV / IBGE - 2016) Atualmente, existem vários métodos de avaliação de
+3. (FGV / IBGE - 2016) Atualmente, existem vários métodos de avaliação de
 usabilidade, alguns
 analisando as ações dos usuários finais, outros que dependem apenas de especialistas.
 Para
@@ -3298,7 +3226,6 @@ Ocorre na medida que os participantes e os pesquisados avaliam juntos a interfac
 participantes são encorajados a perguntar sobre 0 processo de interagir com
 esta
 
-
 AVALIAÇÃO COOPERATIVA
 
 interface e 0 pesquisadorfaz perguntas sobre 0 entendimento do participante em relação
@@ -3307,9 +3234,7 @@ exija menos recursos.
 
 A questão trata da Avaliação Cooperativa.
 
-
 Gabarito: Letra D
-
 
 QUESTõES CoMENTADoS - DIvERSAS BANCAS
 
@@ -3365,7 +3290,6 @@ rapidamente obter algum resultado satisfatório. Trata-se do atributo mais
 importante de acordo
 com Jakob Nielsen.
 
-
 i. (ESAF/CVM -2oio) No ciclo da Engenharia da Usabilidade, as atividades da fase de análise
 são:
 
@@ -3390,7 +3314,6 @@ possibilidades e
 restrições da estrutura. Análise de ameaças à segurança do projeto.
 
 Comentários:
-
 
 ANÁLISE DO PERFIL
 
@@ -3428,12 +3351,11 @@ possibilidades e restrições da plataforma; e análise de princípios gerais pa
 
 Gabarito: Letra C
 
-Item. 3. (ESAF / CVM - 2010) São heurísticas de usabilidade:
+3. (ESAF / CVM - 2010) São heurísticas de usabilidade:
 
 a) Coerência e padrões. Prevenção de erros. Relembrar em vez de Reconhecer.
 Flexibilidade e
 eficiência de mapeamento. Ajuda e documentação.
-
 
 b) Visibilidade do estado do sistema. Mapeamento entre o sistema e o mundo real.
 Liberdade e
@@ -3457,7 +3379,6 @@ erros. Ajuda à implementação.
 
 Comentários:
 
-
 PRINCÍPIOS PARA
 AVALIAÇÃO DE HEURÍSTICAS
 
@@ -3469,7 +3390,6 @@ DESCRIÇÃO
 
 O sistema deve sempre manter os usuários informados sobre o que está
 acontecendo, através de feedback apropriado e em tempo razoável.
-
 
 LIBERDADE E CONTROLE DO
 
@@ -3496,7 +3416,6 @@ familiares ao usuário, ao invés de termos orientados ao sistema. Siga convenç
 do mundo real, tornando as informações que aparecem em uma ordem natural e
 lógica.
 
-
 RECONHECIMENTO EM LUGAR DE
 
 LEMBRANÇA
@@ -3511,7 +3430,6 @@ sistema e o
 mundo real; liberdade e controle ao usuário; prevenção de erros; e reconhecer em vez de relembrar.
 
 Gabarito: Letra B
-
 
 4- (CESGRANRIO / BACEN - 2009) Uma empresa, contratada para desenvolver uma aplicação
 standalone de análise financeira, deve utilizar um manual de orientações para construção
@@ -3539,7 +3457,7 @@ independentemente do nível do usuário!
 
 Gabarito: Letra A
 
-Item. 5. (CESGRANRIO / PETROBRÁS - 2008) Assinale a opção que NÃO expressa um princípio de
+5. (CESGRANRIO / PETROBRÁS - 2008) Assinale a opção que NÃO expressa um princípio de
 projeto de interface com o usuário.
 
 a) Reduzira demanda de memória de curto prazo do usuário.
@@ -3564,14 +3482,13 @@ informações, ele deve buscá-las.
 
 Gabarito: Letra E
 
-Item. 6. (QUADRIX/ CFP-2012) Com relação às recomendações de usabilidade em websites, é
+6. (QUADRIX/ CFP-2012) Com relação às recomendações de usabilidade em websites, é
 correto
 afirmar que:
 
 a) janelas pop-up devem sempre ser utilizadas porque são acessíveis aos deficientes visuais
 e
 fornecem informações úteis antes mesmo de o usuário pedir.
-
 
 b) documentos para download devem ser sempre disponibilizados em formatos especiais ou
 proprietários.
@@ -3594,38 +3511,37 @@ RECOMENDAÇÕES DE CONTEXTO E NAVEGAÇÃO
 
 í.i Página inicial clara.
 
-Item. 1.2 Estrutura do sítio lógica e fácil.
+1.2 Estrutura do sítio lógica e fácil.
 
-Item. 1.3 Estruturar a informação de forma lógica e intuitiva para 0 cidadão.
+1.3 Estruturar a informação de forma lógica e intuitiva para 0 cidadão.
 
-Item. 1.4 O conteúdo mais importante antes da dobra.
+1.4 O conteúdo mais importante antes da dobra.
 
-Item. 1.5 Elementos da identidade visual localizados sempre no mesmo lugar.
+1.5 Elementos da identidade visual localizados sempre no mesmo lugar.
 
-Item. 1.6 A ferramenta de busca presente em todas as páginas.
+1.6 A ferramenta de busca presente em todas as páginas.
 
-Item. 1.7 As páginas, seções ou serviços mais utilizados visíveis.
+1.7 As páginas, seções ou serviços mais utilizados visíveis.
 
-Item. 1.8 Não use páginas de transição.
+1.8 Não use páginas de transição.
 
-Item. 1.9 Documentação, tutorial e ajuda.
+1.9 Documentação, tutorial e ajuda.
 
-Item. 1.10 Formatos especiais de arquivo e download.
+1.10 Formatos especiais de arquivo e download.
 
-Item. 1.11 Não use janelas pop-up ou abra links em nova janela.
+1.11 Não use janelas pop-up ou abra links em nova janela.
 
-Item. 1.12 Busca simples e depois, avançada.
+1.12 Busca simples e depois, avançada.
 
-Item. 1.13 Resultados da caixa de busca.
+1.13 Resultados da caixa de busca.
 
-Item. 1.14 Formulários amigáveis.
+1.14 Formulários amigáveis.
 
 O comportamento e as funcionalidades do navegador não devem ser alterados
 para satisfazer
 necessidades especiais das páginas, pois o usuário deve ter autonomia na utilização do site.
 
 Gabarito: Letra E
-
 
 LISTA DE QUESTõES - CESPE
 
@@ -3635,11 +3551,11 @@ de usuário para avaliar se está assegurado o correto funcionamento e o
 entendimento dos
 conteúdos com a apresentação eficiente e atrativa das informações.
 
-Item. 2. (CESPE / BANRISUL - 2022) A acessibilidade está relacionada à facilidade
+2. (CESPE / BANRISUL - 2022) A acessibilidade está relacionada à facilidade
 com que
 determinada informação é assimilada por pessoas com alguma deficiência.
 
-Item. 3. (CESPE/ DPE-RO-2021) Durante a utilização do sistema, existe uma sensibilidade ao
+3. (CESPE/ DPE-RO-2021) Durante a utilização do sistema, existe uma sensibilidade ao
 contexto
 e, em vez de inúmeras opções, é indicado apenas o que se deve fazer como próximo
 passo
@@ -3661,23 +3577,23 @@ d) visibilidade.
 
 e) mapeamento.
 
-Item. 4. (CESPE/TCU-2005) Uma estrutura linear de navegação para uma aplicação em ambiente
+4. (CESPE/TCU-2005) Uma estrutura linear de navegação para uma aplicação em ambiente
 web
 deve ser utilizada quando a aplicação for caracterizada por uma sequência
 previsível de
 interações, com poucas variantes de fluxos de navegação.
 
-Item. 5. (CESPE / TCU - 2005) No projeto da interface usuário de um sistema, a
+5. (CESPE / TCU - 2005) No projeto da interface usuário de um sistema, a
 quantidade de ações,
 tarefas e estados do sistema indicados no modelo da interface permite prever
 a carga de
 memória dos usuários desse sistema.
 
-Item. 6. (CESPE / TCU - 2005) A variabilidade do tempo de resposta de um
+6. (CESPE / TCU - 2005) A variabilidade do tempo de resposta de um
 sistema tem pouca
 importância para o desempenho médio do usuário na realização de tarefas com esse sistema.
 
-Item. 7. (CESPE /TRE-MS - 2013) A engenharia da usabilidade é embasada no uso das técnicas de:
+7. (CESPE /TRE-MS - 2013) A engenharia da usabilidade é embasada no uso das técnicas de:
 
 a) avaliações heurísticas e cenários de uso.
 
@@ -3689,14 +3605,13 @@ d) cenários de uso e informações na tela do sistema.
 
 e) verbalização simplificada e helps online.
 
-
-Item. 8. (CESPE / CNJ - 2013) Uma página desenvolvida em conformidade com as normas
+8. (CESPE / CNJ - 2013) Uma página desenvolvida em conformidade com as normas
 sintáticas de
 Javascript, Java ou PHP terá necessariamente usabilidade de boa qualidade, bem como de
 boa
 acessibilidade.
 
-Item. 9. (CESPE / CNJ - 2013) Se o preenchimento de um formulário cadastral de um sistema
+9. (CESPE / CNJ - 2013) Se o preenchimento de um formulário cadastral de um sistema
 ocasiona
 cinco erros, em média, e esses erros representam um esforço de uma hora para
 correção, então,
@@ -3704,47 +3619,47 @@ nessa situação, infere-se que não foi utilizada adequadamente a engenharia de
 usabilidade
 durante a fase de desenvolvimento.
 
-Item. 10. (CESPE / CNJ - 2013) A usabilidade consiste em extrair informações a respeito de
+10. (CESPE / CNJ - 2013) A usabilidade consiste em extrair informações a respeito de
 quando o
 sistema não suporta a carga aplicada, sendo importante para estruturar e
 dimensionar a
 arquitetura e prover informações para escalar o sistema.
 
-Item. 11. (CESPE / UNIPAMPA - 2013) Utilidade é considerada um atributo-chave que deve ser
+11. (CESPE / UNIPAMPA - 2013) Utilidade é considerada um atributo-chave que deve ser
 pensado
 de forma paralela com a usabilidade.
 
-Item. 12. (CESPE / UNIPAMPA - 2013) A usabilidade deve ser acompanhada
+12. (CESPE / UNIPAMPA - 2013) A usabilidade deve ser acompanhada
 necessariamente de
 avaliações.
 
-Item. 13. (CESPE / HEMOBRÁS - 2013) De acordo com Jakob Nielsen, a usabilidade tornou-se
+13. (CESPE / HEMOBRÁS - 2013) De acordo com Jakob Nielsen, a usabilidade tornou-se
 popular
 entre as empresas que a utilizam websites devido ao retorno financeiro que
 ela pode
 proporcionar.
 
-Item. 14. (CESPE / HEMOBRÁS - 2008) Entre os princípios de usabilidade descritos por Nielsen
+14. (CESPE / HEMOBRÁS - 2008) Entre os princípios de usabilidade descritos por Nielsen
 está o
 uso de uma linguagem familiar ao usuário.
 
-Item. 15. (CESPE / HEMOBRÁS - 2008) De acordo com Jakob Nielsen, para melhorar a
+15. (CESPE / HEMOBRÁS - 2008) De acordo com Jakob Nielsen, para melhorar a
 usabilidade de
 um sistema, o designer deve avaliar outras interfaces existentes.
 
-Item. 16. (CESPE/SERPRO-2oo8) De acordo com Jakob Nielsen, um dos cinco atributos da
+16. (CESPE/SERPRO-2oo8) De acordo com Jakob Nielsen, um dos cinco atributos da
 usabilidade
 é a facilidade com que o sistema é lembrado.
 
-Item. 17. (CESPE / SERPRO - 2008) O grau de usabilidade de um sistema de informação
+17. (CESPE / SERPRO - 2008) O grau de usabilidade de um sistema de informação
 independe do
 grau de integração do usuário no processo de design do sistema.
 
-Item. 18. (CESPE / TCU - 2005) Segundo a norma ISO 9241, um produto
+18. (CESPE / TCU - 2005) Segundo a norma ISO 9241, um produto
 pode ter níveis
 significativamente diferentes de usabilidade quando usado em diferentes contextos.
 
-Item. 19. (CESPE / TCU - 2005) Os atributos eficácia, eficiência e satisfação dos usuários
+19. (CESPE / TCU - 2005) Os atributos eficácia, eficiência e satisfação dos usuários
 definidos na
 norma ISO 9241 são atributos diretamente mensuráveis e verificáveis.
 
@@ -3768,68 +3683,66 @@ de dados do estabelecimento. A facilidade de uso é uma das funções mais
 importantes do
 sistema.
 
-Item. 22. (CESPE / SEFAZ-AL - 2002) A utilização de recursos visuais na interface de um
+22. (CESPE / SEFAZ-AL - 2002) A utilização de recursos visuais na interface de um
 sistema não é
 suficiente para garantir níveis adequados de facilidade de uso.
 
-Item. 23. (CESPE / SEFAZ-AL - 2002) Técnicas de inteligência artificial podem ser usadas
+23. (CESPE / SEFAZ-AL - 2002) Técnicas de inteligência artificial podem ser usadas
 para permitir
 que um sistema adapte-se automaticamente ao usuário, aumentando a facilidade de uso para
 este usuário.
 
-Item. 24. (CESPE / TCU - 2010) Vantagem competitiva e redução de custos de manutenção estão
+24. (CESPE / TCU - 2010) Vantagem competitiva e redução de custos de manutenção estão
 entre
 os benefícios mensuráveis que podem ser obtidos de um sistema usável.
 
-Item. 25. (CESPE / TCU - 2010) Identificar categorias e definir os objetivos de teste para
+25. (CESPE / TCU - 2010) Identificar categorias e definir os objetivos de teste para
 cada categoria
 são recomendações normalmente consideradas para a elaboração de teste de usabilidade.
 
-Item. 26. (CESPE / TCU - 2010) Se um sistema é utilizável com instrução ou ajuda contínua,
+26. (CESPE / TCU - 2010) Se um sistema é utilizável com instrução ou ajuda contínua,
 então há
 usabilidade nesse sistema.
 
-Item. 27. (CESPE/TCU -2010) Uma questão do tipo A interação é simples? jamais deve ser
+27. (CESPE/TCU -2010) Uma questão do tipo A interação é simples? jamais deve ser
 utilizada para
 determinar se a usabilidade foi atingida em um sistema.
 
-Item. 28. (CESPE / ECT - 2011) A engenharia da usabilidade é aplicada em qualquer tipo de
+28. (CESPE / ECT - 2011) A engenharia da usabilidade é aplicada em qualquer tipo de
 interface,
 como, por exemplo, sítios web, software e desktop. Uma das principais fases da
 engenharia de
 usabilidade é a que permite o conhecimento do usuário ao qual o software se destina.
 
-
 GABARITo
 
-Item. 1. ERRADO li. CORRETO
-Item. 21. ERRADO
+1. ERRADO li. CORRETO
+21. ERRADO
 
-Item. 2. CORRETO 12. CORRETO
-Item. 22. CORRETO
+2. CORRETO 12. CORRETO
+22. CORRETO
 
 3- LETRA E 13- CORRETO
-Item. 23. CORRETO
+23. CORRETO
 
 4- CORRETO 14- CORRETO
-Item. 24. CORRETO
+24. CORRETO
 
 5- CORRETO 15- CORRETO 25-
 CORRETO
 
-Item. 6. ERRADO i6. CORRETO
-Item. 26. ERRADO
+6. ERRADO i6. CORRETO
+26. ERRADO
 
 7- LETRA A 17- ERRADO
 27- ERRADO
 
-Item. 8. ERRADO i8. CORRETO
-Item. 28. CORRETO
+8. ERRADO i8. CORRETO
+28. CORRETO
 
 9- CORRETO 19- ERRADO
 
-Item. 10. ERRADO 20. CORRETO
-
+10. ERRADO 20. CORRETO
 
 LISTA DE QUESTõES - FCC
 
@@ -3847,7 +3760,7 @@ d) motivação.
 
 e) treinamento.
 
-Item. 2. (FCC /TCE-PR- 2011) O sistema deve apresentarfacilidade de uso, permitindo que
+2. (FCC /TCE-PR- 2011) O sistema deve apresentarfacilidade de uso, permitindo que
 mesmo um
 usuário sem experiência seja capaz de produzir algum trabalho satisfatoriamente. Trata-se
 de
@@ -3863,7 +3776,7 @@ d) intuitividade.
 
 e) erro.
 
-Item. 3. (FCC / TJ-PE - 2012) Para que ocorra minimamente uma interação, a interface deve
+3. (FCC / TJ-PE - 2012) Para que ocorra minimamente uma interação, a interface deve
 apresentar
 características que facilitem sua utilização, permitindo que usuários básicos ou
 avançados
@@ -3881,7 +3794,7 @@ d) erros.
 
 e) intuitividade.
 
-Item. 4. (FCC /TRT6 - 2012) Em relação ao desenho (design, programação visual), que tem
+4. (FCC /TRT6 - 2012) Em relação ao desenho (design, programação visual), que tem
 um impacto
 significativo na credibilidade e usabilidade de um site, é correto afirmar:
 
@@ -3894,7 +3807,6 @@ funcionalidade do site deve ser abandonada.
 b) O fundo deve chamar mais atenção do que a informação, desde que seja relacionado ao
 tema
 do site. Um fundo de impacto imprime uma personalidade diferenciada ao site.
-
 
 c) Não se deve usar espaço em branco para separar conteúdos ou assuntos diferentes.
 Devem-
@@ -3910,7 +3822,7 @@ e) Utilizar um projeto padrão de páginas passa a não ser necessário, uma vez
 usuário
 possui, por experiência, contato com uma grande diversidade de sites com diferentes desenhos.
 
-Item. 5. (FCC / TRT6 - 2012) NÃO consta entre as diretrizes de usabilidade em Governo Eletrônico:
+5. (FCC / TRT6 - 2012) NÃO consta entre as diretrizes de usabilidade em Governo Eletrônico:
 
 a) Contexto e navegação - é importante que o site informe a pessoa em que contexto
 ela se
@@ -3936,7 +3848,7 @@ passo a forma correta de navegação no site e as tecnologias utilizadas na sua
 construção, assim
 como cada um dos recursos disponíveis.
 
-Item. 6. (FCC / TCE-CE - 2015) As avaliações de usabilidade permitem a concepção de
+6. (FCC / TCE-CE - 2015) As avaliações de usabilidade permitem a concepção de
 interfaces que
 atendam as expectativas e necessidades dos usuários além de garantir melhores decisões
 de
@@ -3956,22 +3868,19 @@ d) Arranjo de Cartões (card-sorting) e Avaliação Cooperativa.
 
 e) Co-descoberta e Diário de Incidentes.
 
-
 GABARITo
 
+1. LETRA B
 
-Item. 1. LETRA B
+2. LETRA D
 
-Item. 2. LETRA D
+3. LETRA E
 
-Item. 3. LETRA E
+4. LETRA A
 
-Item. 4. LETRA A
+5. LETRA E
 
-Item. 5. LETRA E
-
-Item. 6. LETRA B
-
+6. LETRA B
 
 LISTA DE QUESTõES - FC V
 
@@ -3993,7 +3902,7 @@ e) a duração (tempo de vida útil) de um equipamento de informática antes que
 torne obsoleto
 tecnologicamente.
 
-Item. 2. (FGV / ALERJ - 2017) O Antiquário "Só Velharia" possui um sistema de catálogo
+2. (FGV / ALERJ - 2017) O Antiquário "Só Velharia" possui um sistema de catálogo
 de produtos,
 desenvolvido há três anos, que é utilizado por todos os seus funcionários. Há cerca
 de um ano,
@@ -4017,7 +3926,7 @@ c) erro
 d) criatividade
 e) eficiência
 
-Item. 3. (FGV / IBGE - 2016) Atualmente, existem vários métodos de avaliação de
+3. (FGV / IBGE - 2016) Atualmente, existem vários métodos de avaliação de
 usabilidade, alguns
 analisando as ações dos usuários finais, outros que dependem apenas de especialistas.
 Para
@@ -4033,15 +3942,12 @@ c) análise do especialista;
 
 d) avaliação cooperativa;
 
-
 e) walkthrough heurístico.
-
 
 GABARITo
 
-Item. 1. LETRA A 2. LETRA A
-Item. 3. LETRA D
-
+1. LETRA A 2. LETRA A
+3. LETRA D
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
@@ -4066,7 +3972,7 @@ e) custo para se corrigir defeitos encontrados depois que o software foi liberad
 o usuário
 final.
 
-Item. 2. (ESAF / CVM - 2010) No ciclo da Engenharia da Usabilidade, as atividades da fase
+2. (ESAF / CVM - 2010) No ciclo da Engenharia da Usabilidade, as atividades da fase
 de análise
 são:
 
@@ -4090,11 +3996,10 @@ e) Análise da instituição do usuário. Análise de compromissos. Análise das
 possibilidades e
 restrições da estrutura. Análise de ameaças à segurança do projeto.
 
-Item. 3. (ESAF / CVM - 2010) São heurísticas de usabilidade:
+3. (ESAF / CVM - 2010) São heurísticas de usabilidade:
 
 a) Coerência e padrões. Prevenção de erros. Relembrar em vez de Reconhecer. Flexibilidade e
 eficiência de mapeamento. Ajuda e documentação.
-
 
 b) Visibilidade do estado do sistema. Mapeamento entre o sistema e o mundo real.
 Liberdade e
@@ -4116,7 +4021,7 @@ Liberdade e Controle ao Usuário. Suporte para o usuário reconhecer,
 diagnosticar e aplicar
 erros. Ajuda à implementação.
 
-Item. 4. (CESGRANRIO / BACEN - 2009) Uma empresa, contratada para desenvolver uma aplicação
+4. (CESGRANRIO / BACEN - 2009) Uma empresa, contratada para desenvolver uma aplicação
 standalone de análise financeira, deve utilizar um manual de orientações para construção
 da
 interface gráfica dessa aplicação. De acordo com as heurísticas de Nielsen, qual é a
@@ -4133,7 +4038,7 @@ d) Aterminologia deve ser baseada na linguagem do usuário e não orientada ao s
 
 e) A interface deve ter convenções que não sejam ambíguas.
 
-Item. 5. (CESGRANRIO / PETROBRÁS - 2008) Assinale a opção que NÃO expressa um princípio de
+5. (CESGRANRIO / PETROBRÁS - 2008) Assinale a opção que NÃO expressa um princípio de
 projeto de interface com o usuário.
 
 a) Reduzira demanda de memória de curto prazo do usuário.
@@ -4150,7 +4055,7 @@ e) Mostrar informações completas a priori, permitindo que o usuário reduza o 
 detalhe
 se desejar.
 
-Item. 6. (QUADRIX/CFP-2012) Com relação às recomendações de usabilidade em websites, é
+6. (QUADRIX/CFP-2012) Com relação às recomendações de usabilidade em websites, é
 correto
 afirmar que:
 
@@ -4160,7 +4065,6 @@ fornecem informações úteis antes mesmo de o usuário pedir.
 
 b) documentos para download devem ser sempre disponibilizados em formatos especiais ou
 proprietários.
-
 
 c) páginas de transição, de abertura (splash-pages) ou "em construção" devem ser usadas
 para
@@ -4174,20 +4078,17 @@ e) o comportamento e as funcionalidades do navegador não devem ser alterados pa
 satisfazer
 necessidades especiais das páginas, pois o usuário deve ter autonomia na utilização do site.
 
-
 GABARITo
 
+1. LETRA C
 
-Item. 1. LETRA C
+2. LETRA C
 
-Item. 2. LETRA C
+3. LETRA B
 
-Item. 3. LETRA B
+4. LETRA A
 
-Item. 4. LETRA A
+5. LETRA E
 
-Item. 5. LETRA E
-
-Item. 6. LETRA E
-
+6. LETRA E
 

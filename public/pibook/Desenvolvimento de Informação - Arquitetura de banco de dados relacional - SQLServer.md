@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - SQLServer.
-
+# Desenvolvimento de Informação - Arquitetura de banco de dados relacional - SQLServer.
 
 Índice
 
@@ -16,7 +15,6 @@ Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relac
 6) Lista de Questões - Microsoft SQL Server - CEBRASPE
 
 7) Lista de Questões - Microsoft SQL Server - Multibancas
-
 
 MICRoSoFTSQLSERVER2012 ou SUPERIoR
 
@@ -53,7 +51,6 @@ Veja na tabela abaixo as melhorias trazidas por cada versão do SQL Server:
 
 Versão Desempenho e escalabilidade Suporte e diagnóstico
 
-
 SQL Server 2012
 
 Procedimento de limpeza do
@@ -84,7 +81,6 @@ suporta mensagens no log de erros do
 SQL Server; Nova DMF para substituir
 o DBCC INPUTBUFFER (Função de
 
-
 Gerenciamento Dinâmico);
 Aprimoramento de XEvents para falha
 de roteamento de leitura para um
@@ -93,7 +89,6 @@ Manipulação aprimorada do Service
 Broker com o failover do grupo de
 disponibilidade; Particionamento
 Automático do Soft-NUMA.
-
 
 SQL Server 2014
 
@@ -164,7 +159,6 @@ Disponibilidade; Novo DMV para
 monitorar o log de transações e
 informações de VLF; Informações do
 
-
 MAXDOP para criar / atualizar
 estatísticas; Atualização de
 
@@ -198,7 +192,6 @@ consulta; Recarga dinâmica de alguns
 parâmetros do perfil do agente de
 replicação
 
-
 SQL Server 2017
 
 Assemblies CLR podem ser adicionados a uma lista de desbloqueio;
@@ -218,7 +211,6 @@ Novas funções de string; novas opções de acesso em massa;
 Aprimoramentos de objetos otimizados para memória; DATABASE SCOPED
 CREDENTIAL é uma nova classe de garantia; Banco de dados
 COMPATIBILITY_LEVEL 140 é adicionado.
-
 
 SQL Server 2019
 
@@ -258,7 +250,6 @@ Os seguintes requisitos se aplicam a todas as instalações:
 
 Componente Requisito
 
-
 .NET Framework
 
 Software de rede
@@ -271,7 +262,6 @@ instalar o .NET Framework 4.6.
 
 Os sistemas operacionais com suporte para SQL Server têm software de
 rede interno.
-
 
 Disco rígido
 
@@ -299,7 +289,6 @@ Requisitos de processador, de memória e do sistema operacional
 Os requisitos de memória e processador a seguir aplicam-se a todas as edições do SQL Server:
 
 Componente I Requisito
-
 
 Memória
 
@@ -335,7 +324,6 @@ algumas edições, cada uma com suas características e funcionalidades. Após a
 requisitos,
 vamos partir para a instalação do SQL Server propriamente dito.
 
-
 Center 1807 blog.
 
 SQL Server Evaluations
@@ -364,7 +352,7 @@ Aplica-se a SQL Server 2016 (13.x) e SQL Server 2017 (14.x).
 O SQL Server Installation Center é o utilitário que você vai utilizar antes de instalar o SQL
 Server
 
-Item. 2017. Ele ativa o SQL Server Setup para que você possa criar novas
+2017. Ele ativa o SQL Server Setup para que você possa criar novas
 instâncias e outras
 funcionalidades.
 
@@ -393,7 +381,6 @@ gratuita
 
 1 >1.1 li h
 
-
 Developer
 
 O SQL Server 2017 Developer é uma edição gratuita completa, licenciada para uso como banco
@@ -412,7 +399,6 @@ Selecione SQL Server 2017 na infraestrutura local. Em seguida, aparecerá uma te
 você fazer
 a opção por um tipo de instalação.
 
-
 SQL Server 2017
 
 Evaluation Edition
@@ -422,7 +408,6 @@ Selecione um tipo de instalação:
 ©- X
 
 Básico Personalizado Baixar Mídia
-
 
 Selecione o tipo de instalação
 Básico para instalar a
@@ -450,7 +435,7 @@ para ajudar a melhorar o produto. Para saber mais sobre os controles de privacid
 processamento de dados e para desativar a coleta
 dessas informações vejacocu menta ;àc
 
-Item. 14.1805 .4072.1
+14.1805 .4072.1
 
 Para que você faça a instalação do SQL Server 2017 utilizando o assistente de
 instalação, selecione
@@ -463,7 +448,6 @@ Evaluation Edition
 Selecione um tipo de instalação:
 
 Básico Personalizado Baixar Mídia
-
 
 Selecione o tipo de instalação
 Básico para instalar a
@@ -485,7 +469,6 @@ configuração do SQL Server
 agora e instale-os depois em um
 computador de sua escolha.
 
-
 O SQL Server transmite para a Microsoft informações sobre a sua experiência de instalação, assim
 como outros dados de uso e de desempenho,
 para ajudar a melhorar o produto. Para saber mais sobre os controles de privacidade e o
@@ -496,7 +479,6 @@ dessas informações veja, ocumentaçàc
 
 Na próxima etapa, você deverá especificar o local de destino do download:
 
-
 SQL Server 2017 © - x
 
 Evaluation Edition
@@ -506,7 +488,6 @@ Especifique o local de destino do download de mídia do SQL Server
 SELECIONAR IDIOMA | Português (Brasil)
 MÍNIMO DE ESPAÇO EM DISCO
 LIVRE
-
 
 LOCAL DE MÍDIA
 
@@ -526,7 +507,6 @@ seguir as etapas indicadas para a instalação.
 
 ^5 Central de Instalação do SQL Server
 
-
 □ X
 
 Planejamento Requisitos de
@@ -537,7 +517,6 @@ de hardware e software.
 Manutenção lxk Documentação de Segurança
 Ferramentas Exibir a
 documentação de segurança.
-
 
 Recursos
 Avançado
@@ -584,7 +563,6 @@ Como aplicar atualizações de SQL Server
 Microsoft SQL Server 2017 Exiba o documento sobre como aplicar as atualizações
 de produto apropriadas durante uma nova instalação ou a uma instalação existente do SQL Server
 2017.
-
 
 No menu disponível na Central de Instalação do SQL Server, é possível visualizar:
 
@@ -655,7 +633,6 @@ Plataforma WOW64 da edição Aprovado
 
 OK Cancelar
 
-
 Caso exista, corrija as falhas. Se não houver, o SQL Server exibe a próxima tela:
 
 No nosso exemplo, apenas marcamos a opção "SQL Server Feature Installation" e seguimos.
@@ -663,7 +640,6 @@ No nosso exemplo, apenas marcamos a opção "SQL Server Feature Installation" e 
 O próximo passo é a escolha dos componentes do SQL Server. Nesta etapa, você deve
 aguardar o
 preenchimento da barra de status da execução.
-
 
 Ao final, a verificação de compatibilidade do ambiente estará concluída e você deve continuar.
 
@@ -678,13 +654,11 @@ Instance Configuration
 Specfy th» nome ond mtonre !£> fc* the rntorxe ot SQL Server lnatonce K> becorne* jxt <rf th»
 rnteUtw pott»
 
-
 SMvoRoto
 Peetire Setectnn
 
 ©Def«Jt instonce
 O Mamed mtonce
-
 
 In*toner Co<ilK)urot*or>
 t***> Spoce ítequremenK
@@ -699,7 +673,6 @@ MSSQLSDtVER
 
 ClArqievotde pro^emet^erroscft 5QL Server\
 !B
-
 
 ArMtyns Se* vices Cordão etaon
 
@@ -724,7 +697,6 @@ Imterce Nem* Untonce ID tneK«es
 td»«nr> Vervon
 
 [ < Bocfr ) [ Next > ~| | Concei ] | Me»
-
 
 O SQL Server dá suporte a até 50 instâncias do Mecanismo de Banco de Dados em um
 único
@@ -756,11 +728,9 @@ alguns minutos até a conclusão e depois clicar em "Next".
 
 Antes de iniciar a instalação, o setup do SQL Server te dá um relatório de tudo que será instalado.
 
-
 O processo de instalação, então, começa. Aguarde alguns minutos e a instalação será
 concluída.
 Clique em "Close" e pronto!
-
 
 SQL Server 2017
 
@@ -769,7 +739,6 @@ Evaluation Edition
 ©- x
 
 A instalação foi concluída com sucesso!
-
 
 NOME DA INSTÂNCIA
 MSSQLSERVER01
@@ -810,10 +779,9 @@ Microsoft SQL Server.
 
 Clique em SQL Server Management Studio, aparecerá a figura abaixo (aguarde até abrir o programa):
 
-
 Vamos fazer a primeira questão, a qual aborda a instalação.
 
-Item. 1. Analista Judiciário (STF)/Apoio Especializado/Suporte em Tecnologia da lnformação/2013
+1. Analista Judiciário (STF)/Apoio Especializado/Suporte em Tecnologia da lnformação/2013
 
 A respeito de configuração e administração de bancos de dados, julgue o item a seguir.
 
@@ -834,17 +802,14 @@ Essa cópia é suficiente para o gerenciamento das instâncias.
 
 Gabarito: C
 
-
 CoNCEIToS SoBRE o DATABASE ENGINE
 
 Inicialmente, veremos quais são os componentes do servidor e suas principais características:
-
 
 Componentes de
 servidor
 
 Descrição
-
 
 Mecanismo de
 Banco de Dados do
@@ -858,13 +823,11 @@ integração da análise de banco de dados e na integração do PolyBase
 para acesso ao Hadoop e a outras fontes de dados heterogêneas, bem
 como o servidor Data Quality Services (DQS).
 
-
 Analysis Services
 
 Analysis Services inclui as ferramentas para criação e gerenciamento de
 aplicativos OLAP (processamento analítico online) e de mineração de
 dados.
-
 
 Reporting Services
 
@@ -873,7 +836,6 @@ gerenciar e implantar relatórios tabulares, de matriz, gráficos e de
 forma livre. O Reporting Services também é uma plataforma extensível
 que você pode usar para desenvolver aplicativos de relatório.
 
-
 Integration
 Services
 
@@ -881,7 +843,6 @@ Integration Services é um conjunto de ferramentas gráficas e objetos
 programáveis para mover, copiar e transformar dados. Ele também
 inclui o componente Data Quality Services (DQS) para o Integration
 Services.
-
 
 Master Data
 Services
@@ -903,7 +864,6 @@ suporte a soluções escalonáveis de aprendizado de máquina por meio
 de fontes de dados empresariais. No SQL Server 2016, havia suporte
 para a linguagem R. O SQL Server 2017 oferece suporte às linguagens R
 e Python.
-
 
 Servidor do
 Machine Learning
@@ -972,7 +932,6 @@ SQL Server Integration Services
 Ferramentas de gerenciamento do SQL Server
 
 As seções a seguir fornecem uma breve explicação sobre cada componente.
-
 
 INTERFACE PARA PRoGRAMAçÃo T-SQL
 
@@ -1078,7 +1037,7 @@ administrador precisava criar um login do servidor. Com o advento do SQL Server 
 um usuário
 pode ser autocontido dentro de um banco de dados.
 
-Item. 1. Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
+1. Analista do Ministério Público de Sergipe/lnformática l/Gestão e Análise de
 Projeto de
 lnfraestrutura/2010
 
@@ -1143,7 +1102,6 @@ seja eficaz, é muitas vezes insuficiente para satisfazer a
 alta demanda de usuários por dados quase em tempo
 real.
 
-
 Se o tempo necessário para o usuário acessar os dados
 atualizados nas réplicas for pequeno é recomendável
 usar a replicação transacional. Em vez de distribuir
@@ -1158,7 +1116,6 @@ reporting.
 Custom Application
 
 Figura 2 - Replicação transacional
-
 
 Figura 3 - Merge Replication
 
@@ -1182,7 +1139,6 @@ sincronização.
 Profissionais do SQL Server debatem constantemente o uso da replicação como uma
 tecnologia para
 alta disponibilidade (HA) ou de recuperação de desastres (DR). Poderia ser usado para qualquer um?
-
 
 Existe uma possibilidade; no entanto, a replicação única move apenas as mudanças nos
 esquemas e
@@ -1326,7 +1282,6 @@ O SQL Server 2012 inclui duas interfaces gráficas que permitem gerenciar, monit
 manter, e
 desenvolver em um ambiente SQL Server. O primeiro é o SQL Server Management Studio (SSMS),
 
-
 que permite executar praticamente qualquer ação que você pode pensar contra uma
 instância do
 SQL Server. É um ambiente integrado onde você pode acessar muitas instâncias do SQL
@@ -1358,7 +1313,7 @@ serviço ou para alterar as propriedades de serviço. O SQL Server Configuration
 também
 deve ser usado para iniciar o Mecanismo de Banco de Dados usando parâmetros de inicialização.
 
-Item. 2. Auditor de Controle Externo (TCE-PA)/lnformática/Analista de Suporte/2016
+2. Auditor de Controle Externo (TCE-PA)/lnformática/Analista de Suporte/2016
 
 Acerca da configuração e administração dos bancos de dados SQL Server 2008 R2 e MySQL 5.7,
 julgue o item subsequente.
@@ -1383,7 +1338,6 @@ Server inicie automaticamente. Se isto não foi feito, você poderá alterar
 essa definição a
 qualquer momento.
 
-
 Gabarito: C
 
 CATÁLoGo INTERNo (VIEwS SYS.*)
@@ -1403,7 +1357,6 @@ cobrirmos em detalhe nesta aula. Tentaremos fornecer alguns exemplos para mostra
 valor ou a
 relevância destes objetos. Cada visão do sistema é coberta em detalhes no SQL Server Books Online,
 que inclui descrições de cada coluna.
-
 
 Object Explorer
 ▼ g >
@@ -1499,7 +1452,6 @@ disponíveis:
 
 * COLUMNS
 
-
 * CONSTRAINT_COLUMN_USAGE
 
 * CONSTRAINT_TABLE_USAGE
@@ -1571,7 +1523,6 @@ instância do SQL Server. Cada um dos bancos de dados serve a um propósito espe
 e é
 necessário para executar o SQL Server:
 
-
 master - O banco de dados mestre, como seu nome sugere, é o banco de dados primário do
 sistema. Sem ele, o SQL Server não pode iniciar. O banco de dados mestre contém as
 informações mais importantes sobre objetos dentro da instância do SQL Server, como o
@@ -1632,8 +1583,7 @@ desta base de dados.
 
 Vamos agora resolver uma questão de provas passadas:
 
-Item. 3. Técnico Judiciário (TRT 9^ Região)/Apoio Especializado/Tecnologia da lnformação/2015
-
+3. Técnico Judiciário (TRT 9^ Região)/Apoio Especializado/Tecnologia da lnformação/2015
 
 A automatização de administração em várias instâncias do banco de dados SQL Server é
 chamada administração multisservidor. A administração multisservidor é utilizada
@@ -1677,7 +1627,6 @@ MultisErver administrat on coriguration
 
 Manter server
 
-
 Gabarito: D
 
 server server
@@ -1691,7 +1640,6 @@ cuidadosa
 sobre a sua estrutura. Bancos de dados podem ser criados usando várias tecnologias e
 técnicas
 diferentes, por exemplo T-SQL e SSMS.
-
 
 Por padrão, todos os bancos de dados SQL Server consistem de dois tipos de arquivos. O arquivo de
 dados contém os dados e objetos do banco de dados como tabelas, visões e
@@ -1738,7 +1686,7 @@ em disco para um banco de dados, no caso dos outros arquivos de dados atingirem 
 capacidade
 máxima.
 
-Item. 4. Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
+4. Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
 
 Considerando o sistema gerenciador de banco de dados Microsoft SQL Server 2008 sobre os
 arquivos presentes nesse gerenciador é correto afirmar:
@@ -1818,7 +1766,6 @@ gigabytes (GB) e terabytes (TB) também podem ser especificados.
 * MAXSIZE especifica o tamanho máximo até onde o arquivo pode crescer (mostrado em
 megabytes por padrão).
 
-
 * FILEGROWTH especifica o incremento para crescimento do arquivo caso exceda o tamanho
 disponível. Também é mostrado em megabytes por padrão, mas pode ser especificado
 como uma percentagem.
@@ -1873,7 +1820,6 @@ são minimamente escritas no log, o que reduz o tamanho do log de transações. 
 este não elimina a necessidade de fazer backup do log de transações. Ao contrário do
 modelo de recuperação completa, no modelo de log em massa você só pode restaura um
 backup até o fim; você não pode restaurar em algum ponto no tempo.
-
 
 MECANISMo DE BACKUP
 
@@ -1955,7 +1901,6 @@ Além do armazenamento local para guardar os backups, o SQL Server também ofere
 suporte ao
 backup e à restauração no serviço de armazenamento de Blob do Windows Azure.
 
-
 O SQL Server dá suporte ao armazenamento de backups no serviço de armazenamento de
 Blobs do
 Microsoft Azure, das seguintes maneiras:
@@ -1998,14 +1943,13 @@ uma Máquina Virtual do Microsoft Azure, sem que seja necessário anexar/desanex
 banco de
 dados ou baixar e anexar o VHD.
 
-Item. 5. Analista Judiciário (TRE MS)/Apoio Especializado/Análise de Sistemas/2013
+5. Analista Judiciário (TRE MS)/Apoio Especializado/Análise de Sistemas/2013
 
 No Sql Server, um becape
 a) de arquivo agrega um ou mais arquivos ou grupos de arquivos de banco de dados.
 
 b) parcial agrega dados que ainda não foram afetados por COMMIT, tanto de dados quanto de
 transações.
-
 
 c) completo de banco de dados agrega todos os dados de todos os bancos de dados no
 momento em que o becape é concluído, com exceção dos logs de transação.
@@ -2033,7 +1977,7 @@ Assim, temos o gabarito na letra a).
 
 Gabarito: A
 
-Item. 6. Inspetor de Controle Externo (TCE-RN)/Tecnologia da lnformação/2015
+6. Inspetor de Controle Externo (TCE-RN)/Tecnologia da lnformação/2015
 
 No que se refere a tecnologia e arquitetura de banco de dados, julgue o próximo item.
 
@@ -2065,7 +2009,6 @@ de camada-1.
 Logo, o gabarito da questão é certo.
 
 Gabarito: C
-
 
 CoNSTRUINDo UM BANCo DE DADoS
 
@@ -2119,7 +2062,6 @@ cada tipo de dados
 numéricos exatos.
 
 ESQUEMATIZANDO
-
 
 Data Type
 bigint
@@ -2197,11 +2139,10 @@ armazenar
 a mantissa do número flutuante em notação científica e, portanto, determina o tamanho
 de precisão
 e o espaço de armazenamento. Se n for especificado, ele deve ser um valor entre 1 e
-Item. 53. O valor
+53. O valor
 padrão de n é de 53. Veja abaixo uma tabela com o relacionamento entre o valor de
 n, a precisão e
 o espaço de armazenamento:
-
 
 n value
 
@@ -2209,20 +2150,17 @@ Precision
 
 Storage size
 
-
 1-24
 
 7 digiits
 
 4 bytes
 
-
 25-51
 
 15 digits
 
 8 bytes
-
 
 TIPoS DE DADoS DE STRINC
 
@@ -2291,7 +2229,6 @@ bancos de
 dados SQL Server. Eles oferecem a conveniência de armazenar a data e hora de várias maneiras. Há
 seis tipos de dados nesta categoria.
 
-
 time(n) Este tipo de dados armazena a hora do dia sem a consciência de fuso horário
 com base em
 um relógio de 24 horas. Time, aceita um argumento, que é a precisão fracionária de
@@ -2339,7 +2276,7 @@ de dados, você pode armazenar o deslocamento do fuso horário juntamente com a 
 hora. Um
 valor de 2012/04/01 03:10:24-06:00 podem ser armazenados usando este tipo de dados.
 
-Item. 1. Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
+1. Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
 
 Um novo tipo de dado introduzido no MS-SQL SERVER 2008 possibilita o controle de fusos
 horários e deve ser preenchido com um dos padrões estabelecidos pela ISO 8601. Este
@@ -2359,7 +2296,6 @@ Comentário: O tipo de dado datetimeoffset (Transact-SQL) define a data combinad
 hora de um dia que possui reconhecimento de fuso horário e é baseada em um relógio
 de 24
 horas.
-
 
 Formatos de literal de cadeia de caracteres padrão (usados para cliente de nível inferior): YYYY-
 MM-DD hh:mm:ss[.nnnnnnn] [{+|-}hh:mm]
@@ -2422,7 +2358,6 @@ PRATICAR!
 (Ministério da Economia - Desenvolvimento de Sistemas - 2020) Acerca de sistemas
 gerenciadores de banco de dados, julgue o item subsequente.
 
-
 O SQL Server tem um tipo de dado denominado sql_variant, que armazena dados de
 imagem e texto de tamanho grande, maior que 10 kMbytes.
 
@@ -2461,7 +2396,7 @@ A lista a seguir mostra os tipos de dados que não permitidos em uma coluna ou v
 
 Gabarito Errado.
 
-Item. 2. Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
+2. Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
 
 Espaciais são dados que identificam formas e locais geográficos. Entre eles podem estar
 pontos
@@ -2493,7 +2428,6 @@ países, estradas ou lagos.
 SQL Server dá suporte a dois tipos de dados espaciais: geometria e geografia .
 
 O tipo geometria representa dados em um sistema de coordenadas euclidiano (plano).
-
 
 O tipo geografia representa dados em um sistema de coordenadas esféricas.
 Assim, o gabarito da questão está na letra d).
@@ -2534,7 +2468,6 @@ colunas, tipos de dados e operadores especiais.
 
 Vejam abaixo uma figura com a sintaxe do comando CREATE TABLE.
 
-
 CREATE TABLE [database_name.[owner].]table_name
 (<column name> <data type>
 
@@ -2559,7 +2492,6 @@ CREATE TABLE [database_name.[owner].]table_name
 [TEXTIMAGEJDN {<filegroup> | DEFAULT}]
 
 ESQUEMATIZANDO
-
 
 A definição acima está incompleta do ponto de vista de possibilidades sintáticas do
 comando. Caso
@@ -2635,7 +2567,6 @@ DATABASE. A principal diferença é em termos de escopo. Aqui, você define o pa
 no nível da
 coluna em vez do nível de banco de dados.
 
-
 Quando você define uma coluna como NULL ou NOT NULL você restringe ou não o uso do valor nulo,
 presente em todos os tipos de dados, para a coluna especificada. O padrão,
 caso não seja
@@ -2693,7 +2624,6 @@ Vamos agora mostrar um exemplo prático da criação de uma tabela:
 CREATE TABLE Employees
 (
 
-
 EmployeelD int IDENTITY
 FirstName varchar(25)
 
@@ -2705,7 +2635,6 @@ NOT NULL,
 NULL,
 
 ESCLARECENDO
-
 
 LastName
 Title
@@ -2725,7 +2654,6 @@ NOT NULL,
 
 NOT NULL,
 
-
 PriorSalary
 money
 
@@ -2733,13 +2661,11 @@ NOT NULL,
 
 LastRaise AS Salary - PriorSalary,
 
-
 HireDate date NOT NULL,
 
 TerminationDate date NULL,
 
 ManagerEmplD int NOT NULL,
-
 
 Department
 
@@ -2805,7 +2731,6 @@ ALTER TABLE table_name
 |ADD
 
 <column name> <data_type>
-
 
 [[DEFAULT <constant_expression>]
 
@@ -2884,7 +2809,6 @@ TO [ schema_name. ] target_table
 }
 
 }
-
 
 Vamos agora tratar das alterações de tabele que definem restrições de integridade.
 Antes, porém,
@@ -3005,7 +2929,7 @@ restrição. Para contornar esta situação é preciso corrigir os dados existen
 pode fazer uso
 da opção WITH NOCHECK na instrução ALTER.
 
-Item. 3. Técnico Judiciário (TRT 23a Região)/Apoio Especializado/Tecnologia da lnformação/2016
+3. Técnico Judiciário (TRT 23a Região)/Apoio Especializado/Tecnologia da lnformação/2016
 Atenção: Para responder à questão, considere as informações abaixo.
 
 Um Técnico está participando da modelagem de um banco de dados utilizando o Modelo
@@ -3015,7 +2939,6 @@ contém os seguintes atributos:
 NumeroProcesso - inteiro (PK)
 DigitoProcesso - inteiro (PK)
 AnoProcesso - inteiro (PK)
-
 
 NumeroOABAdvogadoProcesso - cadeia de caracteres
 NomeAdvogadoProcesso - cadeia de caracteres
@@ -3093,7 +3016,6 @@ pnecision [ , scale ]
 
 } [ ,-..n ]
 
-
 [ CONSTRAINT constraint_name ]
 
 {
@@ -3161,7 +3083,6 @@ USE conta
 
 DROP TABLE Clientes, Colaboradores
 
-
 DATA MANIPULATIoN LANGUACE (DML)
 
 A DML (linguagem de manipulação de dados) afeta as informações armazenadas no banco de
@@ -3205,7 +3126,6 @@ DELETE
 
 }
 
-
 [; ]
 
 ]
@@ -3229,7 +3149,6 @@ t a b1e_o r_v i e w_n ame
 }
 
 WITH <common_table_expression>
-
 
 Especifica o conjunto de resultados nomeados temporário, também conhecido como expressão
 de
@@ -3266,7 +3185,6 @@ O CoMANDoINSERT
 
 Adiciona uma ou mais linhas a uma tabela ou exibição no SQL Server. Sintaxe:
 
-
 [ WITH <common_table_expression> [ ,...n ] ]
 INSERT
 
@@ -3279,7 +3197,6 @@ INSERT
 { <object> | rowsetfunctionlimited
 
 [ WITH ( <Table_Hint_ILimited> [ ...n ] ) ]
-
 
 <
 
@@ -3349,7 +3266,6 @@ e parênteses são necessários.
 
 (columnjist)
 
-
 É uma lista de uma ou mais colunas onde os dados devem ser inseridos, columnjist
 deve ser
 colocada entre parênteses e separada por vírgulas.
@@ -3377,7 +3293,6 @@ UPDATE
 | @table_variable
 
 }
-
 
 SET
 
@@ -3425,9 +3340,7 @@ SET
 
 }
 
-
 [ > ]
-
 
 [ OPTION ( <qiuery_hint> [ , ...n ] ) ]
 
@@ -3558,7 +3471,6 @@ armazenados desta categoria, usados para manutenção geral do Mecanismo de Banc
 Dados do
 SQL Server.
 
-
 sp_add_log_file_recover_suspect_db (Transact-SQL)
 
 Adiciona um arquivo de log a um grupo de arquivos quando a recuperação não pode ser
@@ -3613,7 +3525,6 @@ SQL Server fornece os seguintes grupos de funções do sistema:
 * Funções de controle de alterações
 
 * Funções do coletor de dados
-
 
 * Funções FileStream e FileTable
 
@@ -3674,7 +3585,6 @@ uniqueidentifier.
 é do
 tipo uniqueidentifier.
 
-
 sys.fn_hadr_distributed_ag_database_replica
 
 Usado para mapear um banco de dados em um grupo de disponibilidade distribuído para o
@@ -3727,7 +3637,7 @@ Server para vários bancos de dados ou são executadas consultas distribuídas.
 processamento de transações online (OLTP) e são resumidos para análise de suporte
 à decisão.
 
-Item. 4. Analista Judiciário (TRF 3a Região)/Apoio Especializado/lnformática - Banco de
+4. Analista Judiciário (TRF 3a Região)/Apoio Especializado/lnformática - Banco de
 Dados/2014
 
 No SQL Server 2012, os gatilhos DDL são disparados em resposta a diversos eventos DDL. Esses
@@ -3786,7 +3696,6 @@ GRANT { ALL [ PRIVILEGES ] }
 
 [ ON [ class :: ] securable ] TO principal [ ,...n ]
 [ WITH GRANT OPTION ] [ AS principal ]
-
 
 O argumento ALL vai garantir todas as permissões que podem variar dependo
 do objeto sobre o qual
@@ -3849,7 +3758,6 @@ revertida por meio do comando REVERT.
 REVOKE - Ele revoga as permissões concedidas pelo GRANT ou uma instrução DENY para
 um determinado usuário ou grupo. Veja a sintaxe do comando abaixo.
 
-
 Simplified syntax for REVOKE
 REVOKE [ GRANT OPTION FOR ]
 
@@ -3868,10 +3776,9 @@ permission [ ( column [ ,...n ] ) ] [ ,...n ]
 { TO | FROM } principal [ ,...n ]
 [ CASCADE] [ AS principal ]
 
-
 QUESTõES CoMENTADAS - CESPE (CEBRASPE)
 
-Item. 1. CEBRASPE (CESPE) - Especialista Técnico (BNB)/Analista de Sistema/2018
+1. CEBRASPE (CESPE) - Especialista Técnico (BNB)/Analista de Sistema/2018
 
 Acerca de bancos de dados, julgue o item que se segue.
 
@@ -3893,7 +3800,7 @@ que modificações feitas no esquema inviabilizem o uso da visão.
 
 Gabarito: E
 
-Item. 2. CEBRASPE (CESPE) - Professor de Educação Básica (SEDF)/lnformática/2017
+2. CEBRASPE (CESPE) - Professor de Educação Básica (SEDF)/lnformática/2017
 
 Julgue o item a seguir, a respeito de banco de dados, organização de
 arquivos, métodos de
@@ -3915,7 +3822,7 @@ eliminar a correlação no processamento. Logo, temos uma alternativa incorreta.
 
 Gabarito: E
 
-Item. 3. CEBRASPE (CESPE) - Auditor de Controle Externo
+3. CEBRASPE (CESPE) - Auditor de Controle Externo
 (TCE-PA)/lnformática/Analista de
 Suporte/2016
 
@@ -3935,7 +3842,6 @@ e para gerenciar a configuração de conectividade de rede de computadores
 cliente do SQL Server.
 A ferramenta é instalada em conjunto com o SQL Server.
 
-
 Durante a instalação, o SQL Server normalmente é configurado para
 iniciar automaticamente. Se
 isto não foi feito, você poderá alterar essa definição a qualquer momento
@@ -3944,7 +3850,7 @@ Configuration Manager.
 
 Gabarito: C
 
-Item. 4. CEBRASPE (CESPE) - Auditor de Controle Externo
+4. CEBRASPE (CESPE) - Auditor de Controle Externo
 (TCE-PA)/lnformática/Analista de
 Suporte/2016
 
@@ -3992,7 +3898,7 @@ Server offline, e exigir
 
 Gabarito: C.
 
-Item. 5. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Infraestrutura
+5. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Infraestrutura
 
 A respeito da configuração e administração de banco de dados, julgue os próximos itens.
 
@@ -4016,10 +3922,9 @@ instalação do SQL Server.
 
 Gabarito: E.
 
-Item. 6. CEBRASPE (CESPE) - Inspetor de Controle Externo (TCE-RN)/Tecnologia da lnformação/2015
+6. CEBRASPE (CESPE) - Inspetor de Controle Externo (TCE-RN)/Tecnologia da lnformação/2015
 
 No que se refere a tecnologia e arquitetura de banco de dados, julgue o próximo item.
-
 
 No MSSQL Server 2014, o recurso AlwaysOn é uma solução de alta disponibilidade e de
 recuperação de desastres que fornece uma alternativa, em nível corporativo, para o
@@ -4066,7 +3971,7 @@ i usuários finais ou de aplicativos.
 
 Gabarito: C.
 
-Item. 7. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
+7. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
 SISTEMAS
 
 Acerca dos sistemas gerenciadores de banco de dados (SGBD) PostgreSQL,
@@ -4113,8 +4018,7 @@ j
 
 Gabarito: C
 
-
-Item. 8. CEBRASPE (CESPE) - Analista Judiciário (TJDFT)/Apoio Especializado/Suporte em
+8. CEBRASPE (CESPE) - Analista Judiciário (TJDFT)/Apoio Especializado/Suporte em
 Tecnologia da
 lnformação/2015
 
@@ -4150,7 +4054,7 @@ possa chamar agentes de :
 
 Gabarito: C
 
-Item. 9. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR -
+9. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR -
 ANALISTA DE
 SISTEMAS
 
@@ -4161,7 +4065,6 @@ cadeia de strings de
 tamanho fixo e variável até 2A90.
 
 r
-
 
 ..
 
@@ -4187,7 +4090,6 @@ Julgue os itens subsequentes, relativos ao Microsoft SQL Server.
 
 r*"*
 
-
 = Comentário: A cláusula SELECT dentro do comando de criação da visão vai
 definir o conteúdo que i
 
@@ -4205,11 +4107,10 @@ i de qualquer complexidade.
 
 Gabarito: C.
 
-Item. 11. ANO: 2014 BANCA: CESPE ÓRGÃO: ANATEL PROVA: ANALISTA ADMINISTRATIVO - SUPORTE E
+11. ANO: 2014 BANCA: CESPE ÓRGÃO: ANATEL PROVA: ANALISTA ADMINISTRATIVO - SUPORTE E
 INFRAESTRUTURA DE TI
 
 A respeito de banco de dados, julgue os itens que se seguem.
-
 
 [1] É válida para o PostgreSQL 9.3, mas não para o SQL Server 2012, a criação da
 SEQUENCE seqa
@@ -4250,7 +4151,7 @@ referenciar um objeto de ;
 
 Gabarito:
 
-Item. 12. ANO: 2014 BANCA: CESPE ÓRGÃO: ANTAQ PROVA: ANALISTA ADMINISTRATIVO - ANALISTA DE
+12. ANO: 2014 BANCA: CESPE ÓRGÃO: ANTAQ PROVA: ANALISTA ADMINISTRATIVO - ANALISTA DE
 INFRAESTRUTURA
 
 Acerca do Microsoft SQL Server 2008, julgue os seguintes itens.
@@ -4260,7 +4161,6 @@ escopo de servidor (on
 all server), é necessária a permissão control server no servidor.
 
 r"
-
 
 |
 
@@ -4279,7 +4179,7 @@ de dados ;
 
 Gabarito: C
 
-Item. 13. ANO: 2014 BANCA: CESPE ÓRGÃO: ANTAQ PROVA: ANALISTA ADMINISTRATIVO - ANALISTA DE
+13. ANO: 2014 BANCA: CESPE ÓRGÃO: ANTAQ PROVA: ANALISTA ADMINISTRATIVO - ANALISTA DE
 INFRAESTRUTURA
 
 Acerca do Microsoft SQL Server 2008, julgue os seguintes itens.
@@ -4302,7 +4202,6 @@ Gabarito: C.
 14.ANO: 2014 BANCA: CESPE ÓRGÃO: TC-DF PROVA: ANALISTA DE ADMINISTRAÇÃO PÚBLICA
 -
 SISTEMAS DE TECNOLOGIA DA INFORMAÇÃO
-
 
 Julgue os seguintes itens, acerca de sistemas de gerenciamento de bancos de
 dados (SGBD) e de
@@ -4363,7 +4262,6 @@ e) de logs de transações inclui todos os registros de log de forma
 cumulativa, independentemente
 de ter havido becape de log anterior ou becape completo.
 
-
 .
 
 i Comentário: Vamos comentar cada uma das alternativas acima. Segundo a
@@ -4390,7 +4288,6 @@ i c) Errado. Backup completo contém todos os dados em um banco de dados ou em u
 grupos de arquivos ou arquivos. Além disso, contém log suficiente para permitir a recuperação ;
 
 : desses dados.
-
 
 d) Errado. Backup diferencial se baseia no backup completo mais recente de
 um banco de dados
@@ -4485,7 +4382,6 @@ e definir listas não ;
 ; transacionais de dados, visando compilar listas mestre sustentáveis. Master Data Services inclui
 ;
 
-
 outros recursos, como hierarquias, segurança granular, transações, controle
 de versão de dados e
 regras de negócios.
@@ -4546,7 +4442,6 @@ tabela ou índice clusterizado.
 
 !
 
-
 |
 
 ; Comentário: Vamos analisar cada uma das alternativa ...
@@ -4572,7 +4467,6 @@ valor desse fator determina ;
 ser preenchida com dados, ;
 
 ; reservando o restante como espaço livre para futuro crescimento. O valor do fillfactor é uma ;
-
 
 porcentagem de 1 a 100 e o padrão para todo o servidor é zero (0), o
 que significa que as páginas
@@ -4607,7 +4501,7 @@ lógicas de innerjoin, left outerjoin, left semi join e left antl semi joln.
 
 Gabarito: C.
 
-Item. 18. ANO: 2013 BANCA: CESPE ÓRGÃO: ANTT PROVA: ANALISTA
+18. ANO: 2013 BANCA: CESPE ÓRGÃO: ANTT PROVA: ANALISTA
 ADMINISTRATIVO -
 INFRAESTRUTURADETI
 
@@ -4646,7 +4540,7 @@ configurar determinadas ;
 
 Gabarito: C.
 
-Item. 19. CESPE - Analista Administrativo (TCE-ES)/lnformática/2013
+19. CESPE - Analista Administrativo (TCE-ES)/lnformática/2013
 
 A ferramenta presente no SQL Server que, após analisar uma carga de
 trabalho, pode
@@ -4660,7 +4554,6 @@ b) SQL Server Admin.
 c) SQL Server Configuration Manager.
 
 d) Orientador de Otimização do Mecanismo de Banco de Dados.
-
 
 e) SQL Server Profiler.
 
@@ -4727,7 +4620,6 @@ ferramentas de gerenciamento, independentemente da quantidade de instâncias
 do SQL Server
 instaladas na máquina.
 
-
 * .
 
 = Comentário: Independentemente do número de instâncias do SQL Server, do
@@ -4743,7 +4635,6 @@ Gabarito: C.
 22.ANO: 2013 BANCA: CESPE ÓRGÃO: STF PROVA: ANALISTA JUDICIÁRIO -
 SUPORTE EM
 TECNOLOGIA DA INFORMAÇÃO
-
 
 Julgue os itens subsecutivos, com relação ao tuning de banco de dados.
 
@@ -4761,7 +4652,7 @@ com ;
 
 Gabarito: E.
 
-Item. 23. ANO: 2013 BANCA: CESPE ÓRGÃO: CRPM PROVA: ANALISTA EM GEOCIÊNCIAS - SISTEMAS DE
+23. ANO: 2013 BANCA: CESPE ÓRGÃO: CRPM PROVA: ANALISTA EM GEOCIÊNCIAS - SISTEMAS DE
 INFORMAÇÃO
 
 Com relação a técnicas de análise de desempenho e otimização de consultas
@@ -4806,7 +4697,6 @@ administração de dados.
 ser restaurados com
 o uso de versões anteriores.
 
-
 .
 
 i Comentário: Nenhum backup do SQL Server pode ser restaurado para uma versão anterior do SQL i
@@ -4825,7 +4715,6 @@ de versões anteriores, ;
 : você deve usar a opção MOVE.
 Gabarito: C.
 
-
 25.ANO: 2013 BANCA: CESPE ÓRGÃO: BACEN PROVA: ANALISTA DO BACEN - ANÁLISE E
 DESENVOLVIMENTO DE SISTEMAS
 
@@ -4834,7 +4723,6 @@ Considerando os sistemas de gerenciamento de bancos de dados, julgue o próximo 
 [1] PostgreSQL, MariaDB, IIS e SQL Server são exemplos de sistemas
 gerenciadores de bancos de
 dados.
-
 
 |
 
@@ -4869,7 +4757,6 @@ Com relação a banco de dados, julgue os itens que se seguem.
 [1] No SQL SERVER 2012, permite-se a combinação da cláusula TOP com OFFSET e FETCH
 no mesmo
 escopo de consulta.
-
 
 .
 
@@ -4906,7 +4793,6 @@ SUPORTE
 
 A respeito do banco de dados SQL Server e da linguagem SQL, julgue os itens seguintes.
 
-
 [1] O comando SELECT GETDATE() recebe como retorno a data e a hora atual do sistema
 operacional.
 
@@ -4916,7 +4802,6 @@ SELECT SYSTEM_ADMIN.
 
 *
 ***
-
 
 = Comentário: O GETDATE() está descrito corretamente. Já o SYSTEM_ADMIN não!
 O certo seria i
@@ -4970,10 +4855,9 @@ comprimento ou precisão i
 
 Gabarito: C.
 
-
 QUESTõES CoMENTADAS - MULTIBANCAS
 
-Item. 12. Ano: 2018 Banca: FCC Órgão: DPE-AM Cargo: Analista Área: Banco de Sistemas Questão: 47.
+12. Ano: 2018 Banca: FCC Órgão: DPE-AM Cargo: Analista Área: Banco de Sistemas Questão: 47.
 
 Um Analista de Sistemas deseja alterar a coluna quantidade, que faz parte
 da tabela pedido do
@@ -5055,7 +4939,6 @@ nenhuma das seguintes características:
 
 https://docs.microsoft.com/en-us/sql/t-sql/statements/alter-table-transact-sql?view=sql-server-2017
 
-
 * Ser usada em estatísticas geradas pela instrução CREATE STATISTICS, a
 menos que (1) a
 coluna seja do tipo de dados varchar, nvarchar ou varbinary, o tipo de
@@ -5095,7 +4978,6 @@ SELECT campol FROM tabela WHERE campol > 17;
 Certo
 
 Errado
-
 
 Comentário: O comando CREATE VIEW (Transact-SQL) cria uma tabela virtual cujo
 conteúdo
@@ -5167,7 +5049,6 @@ determinada ordem, será preciso usar UP junto com ORDER BY em uma
 instrução de
 subseleção.
 
-
 Comentário: O gabarito da questão é letra a), pois o comando DELETE remove
 uma ou mais
 linhas de uma tabela ou exibição no SQL Server.
@@ -5202,7 +5083,7 @@ e) A instrução TRUNCATE TABLE não apresenta a cláusula UP (n).
 
 Gabarito: A
 
-Item. 15. FCC - Analista Judiciário (TST)/Apoio Especializado/Análise de Sistemas/2017
+15. FCC - Analista Judiciário (TST)/Apoio Especializado/Análise de Sistemas/2017
 
 Um Analista de Sistemas deseja fazer um backup completo de um banco de
 dados SQL Server
@@ -5240,7 +5121,6 @@ do banco de
 dados para criar um backup de log (BACKUP LOG). Veja a sintaxe para fazer um backup
 de um
 Database completo:
-
 
 --Backing Up a Whole Database
 
@@ -5302,12 +5182,11 @@ momento.
 
 Gabarito: C
 
-Item. 17. FCC - Auditor de Controle Externo (TCM-GO)/lnformática/2015
+17. FCC - Auditor de Controle Externo (TCM-GO)/lnformática/2015
 
 A figura abaixo apresenta o diagrama da relação entre os principais elementos
 de uma solução
 baseada em SQL Server Reporting Services.
-
 
 É correto afirmar sobre os elementos do diagrama:
 
@@ -5402,7 +5281,7 @@ cluster de failover) do SQL Server. Assim, o gabarito é errado.
 
 Gabarito: E
 
-Item. 19. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
+19. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
 
 O comando do Transact SQL do Microsoft SQL Server 2008 para criar um sinônimo,
 atribuindo
@@ -5435,7 +5314,7 @@ Temos, então, a resposta na letra b).
 
 Gabarito: B
 
-Item. 20. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
+20. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
 
 O comando do Transact SQL do Microsoft SQL Server 2008 para atualizar o valor de 20
 registros, da coluna 'taxa', da tabela 'Blue', dividindo por 2 o valor dessa coluna 'taxa' é
@@ -5457,7 +5336,6 @@ PRINTING taxa = taxa/2
 Comentário: A instrução UPDATE (Transact-SQL) altera dados existentes em uma tabela ou
 exibição no SQL Server 2017. Veja a sintaxe:
 
-
 [ WITH <common_table_expression> [...n] ]
 UPDATE
 
@@ -5471,7 +5349,6 @@ UPDATE
 | @table_variable
 
 }
-
 
 SET
 
@@ -5520,7 +5397,7 @@ Assim, temos o gabarito da questão na letra d).
 
 Gabarito: D
 
-Item. 21. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
+21. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
 
 No sistema gerenciador de banco de dados Microsoft SQL Server 2008, por meio da função
 sys.dm_index_physical_stats é possível verificar
@@ -5533,7 +5410,6 @@ c) o número total de usuários do banco de dados.
 d) a quantidade máxima permitida de tabelas no banco de dados.
 
 e) o nível de fragmentação de índices do banco de dados.
-
 
 Comentário: A função sys.dm_db_fts_index_physical_stats (Transact-SQL) retorna uma
 linha
@@ -5554,7 +5430,6 @@ keyphrase index page count bigint Tamanho lógico da extração
 em
 número de páginas de índice.
 
-
 similarityjndex page count
 bigint
 
@@ -5567,7 +5442,7 @@ o índice. Por esse motivo, o gabarito da questão é a letra e).
 
 Gabarito: E
 
-Item. 22. CESPE - Analista Administrativo (ANTAQ)/TI - Analista de lnfraestrutura/2014
+22. CESPE - Analista Administrativo (ANTAQ)/TI - Analista de lnfraestrutura/2014
 
 Acerca do Microsoft SQL Server 2008, julgue o seguinte item.
 
@@ -5582,7 +5457,6 @@ Comentário: A instrução CREATE INDEX (Transact-SQL) Cria um índice relaciona
 ou exibição. Também chamado de um índice rowstore porque é um índice de
 árvore B
 clusterizado ou não clusterizado. Veja a sintaxe:
-
 
 CREATE [ UNIQUE ] [ CLUSTERED | NONCLUSTERED ] INDEX index_name
 
@@ -5624,7 +5498,7 @@ Dessa forma, o gabarito da questão é certo.
 
 Gabarito: C
 
-Item. 23. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
+23. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
 
 Um recurso presente no MS-SQL Server 2008 modela as entidades relacionadas ao SQL
 Server
@@ -5651,7 +5525,6 @@ a) SQL Entity Manager.
 b) UCP Manager.
 
 c) SQL Server Utility.
-
 
 d) SQL Query Administrator.
 
@@ -5685,7 +5558,7 @@ Assim, temos o gabarito na letra c).
 
 Gabarito: C
 
-Item. 24. FCC - Agente de Defensoria Pública (DPE SP)/Analista de Sistemas/2013
+24. FCC - Agente de Defensoria Pública (DPE SP)/Analista de Sistemas/2013
 
 Uma das funções disponíveis no sistema gerenciador de bancos de dados Microsoft SQL
 Server
@@ -5716,7 +5589,6 @@ portanto,
 Assim, temos o gabarito na letra b).
 
 Gabarito: B
-
 
 25.CESPE - Analista do Banco Central do Brasil/Área 5 - Infraestrutura e Logística/2013
 
@@ -5792,7 +5664,7 @@ Portanto, o gabarito é a letra d).
 
 Gabarito: D
 
-Item. 27. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 50
+27. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 50
 
 No SQL Server 2012, os seguintes comandos foram executados individualmente para criar as
 tabelas no banco de dados MeuBanco.
@@ -5825,7 +5697,6 @@ CONSTRAINT FK_Tab3_Responsavel FOREIGN KEY
 (Responsável) REFERENCES Tab3 (Inscricao));
 
 A figura abaixo representa o conteúdo das tabelas Tabl, Tab2 e Tab3 de MeuBanco.
-
 
 Tabl
 
@@ -5901,7 +5772,6 @@ permanece
 disponível no SGBD, agora sem dados armazenados. Sendo assim podemos marcar nossa
 resposta na alternativa D.
 
-
 No primeiro TRUNCATE, as linhas da Tabl não serão removidas, pois existe uma referência
 para ela na Tab2. Como a cláusula ON DELETE não foi definida, devemos considerar por
 padrão a existência de um ON DELETE NO ACTION, logo, nenhuma linha da Tabl será
@@ -5909,7 +5779,7 @@ removida.
 
 Gabarito: D
 
-Item. 28. BANCA: VUNESP ANO: 2012 ÓRGÃO: TJ-SP PROVA: ANALISTA JUDICIÁRIO - COMUNICAÇÃO E
+28. BANCA: VUNESP ANO: 2012 ÓRGÃO: TJ-SP PROVA: ANALISTA JUDICIÁRIO - COMUNICAÇÃO E
 PROCESSAMENTO DE DADOS
 
 No Microsoft SQL Server 2008, as teclas de atalho para inserir ou remover um bookmark são:
@@ -5926,7 +5796,6 @@ ou remover um indicador você deve usar o Ctrl + K. Segue abaixo uma lista com a
 teclas de
 atalho para bookmarks do SQL Server. Uma lista de outros atalhos pode ser vista aqui.
 
-
 Ação
 SQL Server 2014
 
@@ -5941,7 +5810,6 @@ Próximo indicador
 CTRL+K. CTRL+N CTRL+K
 
 CTRL+N
-
 
 Se o indicador atual estiver em uma pasta, moverá para o próximo indicador
 na pasta.Os indicadores fora da pasta são ignorados.
@@ -5971,8 +5839,7 @@ CTRL+L
 
 Gabarito: A
 
-
-Item. 29. BANCA: VUNESP ANO: 2013 ÓRGÃO: IMESC PROVA: ANALISTA DE TECNOLOGIA -
+29. BANCA: VUNESP ANO: 2013 ÓRGÃO: IMESC PROVA: ANALISTA DE TECNOLOGIA -
 INFORMÁTICA
 
 O sistema gerenciador de bancos de dados Microsoft SQL Server 2008 conta com um
@@ -6005,7 +5872,6 @@ da ferramenta:
 
 ÇA Microsoft SQL Server Management Studio
 
-
 File Edit: View (
 
 New Query |_
@@ -6018,7 +5884,6 @@ ConnectT
 
 Query J Project Debug SQL Prompt 5 Tools Window Cor
 í
-
 
 S □ Databasa
 S ÜJ SecLirity
@@ -6033,8 +5898,7 @@ Trace Query in SQL Server Profiler Ctrl+Alt+P
 
 Gabarito: D
 
-
-Item. 30. BANCA: VUNESP ANO: 2012 ÓRGÃO: TJ-SP PROVA: ANALISTA JUDICIÁRIO - COMUNICAÇÃO E
+30. BANCA: VUNESP ANO: 2012 ÓRGÃO: TJ-SP PROVA: ANALISTA JUDICIÁRIO - COMUNICAÇÃO E
 PROCESSAMENTO DE DADOS
 
 Um usuário do Microsoft SQL Server 2008 deseja atribuir um sinônimo de nome SI para a
@@ -6102,10 +5966,9 @@ GO
 
 Você pode conhecer um pouco mais sobre sinônimos aqui.
 
-
 Gabarito: C
 
-Item. 31. BANCA: VUNESP ANO: 2013 ÓRGÃO: CETESB PROVA: ANALISTA DE TECNOLOGIA DA
+31. BANCA: VUNESP ANO: 2013 ÓRGÃO: CETESB PROVA: ANALISTA DE TECNOLOGIA DA
 INFORMAÇÃO - ADMINISTRADOR DE BANCO DE DADOS
 
 O procedimento armazenado do Transact do SQL Microsoft SQL Server 2008 que
@@ -6155,12 +6018,11 @@ futuras do SQL Sever. Em seu lugar você deve utilizar o comando CREATE LOGIN.
 
 Gabarito: C
 
-Item. 32. BANCA: VUNESP ANO: 2013 ÓRGÃO: CETESB PROVA: ANALISTA DE TECNOLOGIA DA
+32. BANCA: VUNESP ANO: 2013 ÓRGÃO: CETESB PROVA: ANALISTA DE TECNOLOGIA DA
 INFORMAÇÃO - ADMINISTRADOR DE BANCO DE DADOS
 
 Sobre os Sistemas Gerenciadores de Bancos de Dados (considerando o Microsoft SQL Server
 2008), é correto afirmar que
-
 
 A devem ser desligados por, pelo menos, 2 horas diariamente.
 
@@ -6181,7 +6043,7 @@ base é uma das principais tarefas de qualquer SGBD.
 
 Gabarito: B
 
-Item. 33. BANCA: VUNESP ANO: 2013 ÓRGÃO: COREN-SP PROVA: ANALISTA - ADMINISTRADOR DE
+33. BANCA: VUNESP ANO: 2013 ÓRGÃO: COREN-SP PROVA: ANALISTA - ADMINISTRADOR DE
 BANCO DE DADOS
 
 Considerando o tuning do sistema gerenciador de bancos de dados Microsoft SQL Server
@@ -6224,7 +6086,6 @@ SQL Server, você pode ter um gargalo de l/O.
 AVG. Disk Sec/Read é o tempo médio, em segundos, de uma leitura de dados do disco.
 AVG. Disk Sec/Write é o tempo médio, em segundos, de uma gravação de dados no disco.
 
-
 Disco físico: % Disk Time é a porcentagem de tempo decorrido que a unidade de
 disco
 selecionada foi ocupada servindo a pedidos de leitura e escrita. Uma orientação geral
@@ -6247,7 +6108,7 @@ A.
 
 Gabarito: A
 
-Item. 34. BANCA: VUNESP ANO: 2014 ÓRGÃO: PRODEST-ES PROVA: ANALISTA DE TECNOLOGIA DA
+34. BANCA: VUNESP ANO: 2014 ÓRGÃO: PRODEST-ES PROVA: ANALISTA DE TECNOLOGIA DA
 INFORMAÇÃO - DESENVOLVIMENTO DE SISTEMAS
 
 No Transact SQL do sistema gerenciador de bancos de dados MS SQL Server 2008 R2, o
@@ -6278,7 +6139,6 @@ HOW
 <comando SQL>
 
 GO
-
 
 E MAKE PROCEDURE <nome do procedimento>
 OF TYPE
@@ -6317,7 +6177,7 @@ Podemos observar que a sintaxe converge com a resposta da questão na alternativ
 
 Gabarito: A
 
-Item. 35. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE TÉCNICO - DESENVOLVEDOR
+35. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE TÉCNICO - DESENVOLVEDOR
 
 O comando do sistema gerenciador de bancos de dados Microsoft SQL Server
 2008 que
@@ -6337,7 +6197,6 @@ comandos GRANT, REVOKE e DENY usados para garantir e retirar privilégios de ace
 sobre
 objetos. Contudo, nenhuma das respostas possui essas alternativas.
 
-
 Temos, portanto, que voltar nosso foco para outra opção que seria remover o acesso de
 um
 usuário por meio da exclusão do seu login. Isso é feito por meio do comando DROP
@@ -6354,7 +6213,7 @@ Para executar o comando precisamos da permissão de ALTER ANY LOGIN no servidor.
 
 Gabarito: C
 
-Item. 36. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE TÉCNICO - DESENVOLVEDOR
+36. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE TÉCNICO - DESENVOLVEDOR
 
 No sistema gerenciador de bancos de dados Microsoft SQL Server 2008, o comando SAVE
 TRANSACTION tem a função de
@@ -6398,8 +6257,7 @@ na alternativa B.
 
 Gabarito: B
 
-
-Item. 37. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
+37. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
 Uma forma de inserir comentários em um comando SQL no sistema gerenciador de banco de
@@ -6465,8 +6323,7 @@ GO
 
 Gabarito: C
 
-
-Item. 38. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
+38. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
 No sistema gerenciador de banco de dados Microsoft SQL Server 2008, o
@@ -6500,7 +6357,7 @@ encontra-se na alternativa A.
 
 Gabarito: A
 
-Item. 39. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
+39. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
 No sistema gerenciador de banco de dados Microsoft SQL Server 2008, a
@@ -6523,8 +6380,7 @@ confirmamos a resposta na alternativa B.
 
 Gabarito: B
 
-
-Item. 40. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
+40. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
 O comando do sistema gerenciador de banco de dados Microsoft SQL Server 2000 para
@@ -6547,14 +6403,14 @@ SHUTDOWN
 
 Ao executar o comando acima, o SQL Server, irá parar, seguindo as seguintes etapas:
 
-Item. 1. Desabilitar logons (exceto para os membros sysadmin e serveradmin).
+1. Desabilitar logons (exceto para os membros sysadmin e serveradmin).
 
-Item. 2. Esperar a conclusão de procedimentos armazenados ou instruções TSQL em execução. Para
+2. Esperar a conclusão de procedimentos armazenados ou instruções TSQL em execução. Para
 exibir uma lista de todos os processos ativos e bloqueios, execute sp_who e
 spjock,
 respectivamente.
 
-Item. 3. Inserir um ponto de verificação em cada banco de dado da instância.
+3. Inserir um ponto de verificação em cada banco de dado da instância.
 
 Para encerrar o SQL server sem os pontos de verificação em cada banco de dados, execute com
 o argumento: "WITH NOWAIT".
@@ -6566,7 +6422,7 @@ Pelo exposto acima temos a nossa resposta na alternativa E.
 
 Gabarito: E
 
-Item. 41. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
+41. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
 O comando do sistema gerenciador de banco de dados Microsoft SQL Server 2000 que tem
@@ -6576,7 +6432,6 @@ A SELECT @@TOTAL_READ
 B SELECT @@PROCID
 
 C SELECT @@DBTS
-
 
 DSELECT @@IDLE
 E SELECT @@SPID
@@ -6629,10 +6484,9 @@ Por fim o @@SPID que retorna o ID de sessão do processo de usuário atual.
 
 Gabarito: A
 
-
 LISTA DE QUESTõES - CESPE (CEBRASPE)
 
-Item. 1. CEBRASPE (CESPE) - Especialista Técnico (BNB)/Analista de Sistema/2018
+1. CEBRASPE (CESPE) - Especialista Técnico (BNB)/Analista de Sistema/2018
 
 Acerca de bancos de dados, julgue o item que se segue.
 
@@ -6646,7 +6500,7 @@ AS
 
 SELECT campol FROM tabela WHERE campol > 17;
 
-Item. 2. CEBRASPE (CESPE) - Professor de Educação Básica (SEDF)/lnformática/2017
+2. CEBRASPE (CESPE) - Professor de Educação Básica (SEDF)/lnformática/2017
 
 Julgue o item a seguir, a respeito de banco de dados, organização de arquivos,
 métodos de
@@ -6657,7 +6511,7 @@ correlacionada para eliminar as correlações, sem considerarem como opção o n
 das
 consultas aninhadas ou a utilização de técnicas de reescrita.
 
-Item. 3. CEBRASPE (CESPE) - Auditor de Controle Externo (TCE-PA)/lnformática/Analista de
+3. CEBRASPE (CESPE) - Auditor de Controle Externo (TCE-PA)/lnformática/Analista de
 Suporte/2016
 
 Acerca da configuração e administração dos bancos de dados SQL Server 2008 R2 e MySQL 5.7,
@@ -6666,7 +6520,7 @@ julgue o item subsequente.
 A ferramenta SQL Server Configuration Manager permite realizar configurações de modo que
 uma instância do SQL Server se inicie automaticamente quando o servidor for ligado.
 
-Item. 4. CEBRASPE (CESPE) - Auditor de Controle Externo (TCE-PA)/lnformática/Analista de
+4. CEBRASPE (CESPE) - Auditor de Controle Externo (TCE-PA)/lnformática/Analista de
 Suporte/2016
 
 Acerca da configuração e administração dos bancos de dados SQL Server 2008 R2 e MySQL 5.7,
@@ -6675,7 +6529,7 @@ julgue o item subsequente.
 Caso a senha de uma conta do SQL Server 2008 R2 seja alterada, a nova senha entrará em vigor
 imediatamente, sem a necessidade de reinicialização do SQL Server.
 
-Item. 5. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Infraestrutura
+5. Ano: 2015 Banca: CESPE Órgão: STJ Prova: Analista Judiciário - Infraestrutura
 
 A respeito da configuração e administração de banco de dados, julgue os próximos itens.
 
@@ -6684,8 +6538,7 @@ instalado em
 computadores com sistema de arquivos FAT32, mas apenas em computadores com sistema de
 arquivos NTFS.
 
-
-Item. 6. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
+6. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
 SISTEMAS
 
 Acerca dos sistemas gerenciadores de banco de dados (SGBD) PostgreSQL, Microsoft SQL
@@ -6700,7 +6553,7 @@ processamento de transações on-line e data warehousing. A única maneira de re
 grupo
 de arquivos com otimização de memória é descartar o banco de dados.
 
-Item. 7. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
+7. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
 SISTEMAS
 
 Julgue os itens subsequentes, relativos ao Microsoft SQL Server.
@@ -6709,14 +6562,14 @@ Julgue os itens subsequentes, relativos ao Microsoft SQL Server.
 strings de
 tamanho fixo e variável até 2A90.
 
-Item. 8. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
+8. Ano: 2015 Banca: CESPE Órgão: MEC Prova: TÉCNICO DE NÍVEL SUPERIOR - ANALISTA DE
 SISTEMAS
 
 Julgue os itens subsequentes, relativos ao Microsoft SQL Server.
 
 [1] VIEW é uma tabela virtual cujo conteúdo está definido por uma instrução SELECT.
 
-Item. 9. ANO: 2014 BANCA: CESPE ÓRGÃO: ANATEL PROVA: ANALISTA ADMINISTRATIVO - SUPORTE E
+9. ANO: 2014 BANCA: CESPE ÓRGÃO: ANATEL PROVA: ANALISTA ADMINISTRATIVO - SUPORTE E
 INFRAESTRUTURA DE TI
 
 A respeito de banco de dados, julgue os itens que se seguem.
@@ -6726,7 +6579,7 @@ por meio do seguinte comando:
 
 CREATE SEQUENCE seqa START WITH 1;
 
-Item. 10. ANO: 2014 BANCA: CESPE ÓRGÃO: ANTAQ PROVA: ANALISTA ADMINISTRATIVO - ANALISTA DE
+10. ANO: 2014 BANCA: CESPE ÓRGÃO: ANTAQ PROVA: ANALISTA ADMINISTRATIVO - ANALISTA DE
 INFRAESTRUTURA
 
 Acerca do Microsoft SQL Server 2008, julgue os seguintes itens.
@@ -6735,9 +6588,8 @@ Acerca do Microsoft SQL Server 2008, julgue os seguintes itens.
 servidor (on
 all server), é necessária a permissão control server no servidor.
 
-Item. 11. ANO: 2014 BANCA: CESPE ÓRGÃO: ANTAQ PROVA: ANALISTA ADMINISTRATIVO - ANALISTA DE
+11. ANO: 2014 BANCA: CESPE ÓRGÃO: ANTAQ PROVA: ANALISTA ADMINISTRATIVO - ANALISTA DE
 INFRAESTRUTURA
-
 
 Acerca do Microsoft SQL Server 2008, julgue os seguintes itens.
 
@@ -6745,7 +6597,7 @@ Acerca do Microsoft SQL Server 2008, julgue os seguintes itens.
 lógica dos
 valores da chave determina a ordem física das linhas correspondentes em uma tabela.
 
-Item. 12. ANO: 2014 BANCA: CESPE ÓRGÃO: TC-DF PROVA: ANALISTA DE ADMINISTRAÇÃO PÚBLICA -
+12. ANO: 2014 BANCA: CESPE ÓRGÃO: TC-DF PROVA: ANALISTA DE ADMINISTRAÇÃO PÚBLICA -
 SISTEMAS DE TECNOLOGIA DA INFORMAÇÃO
 
 Julgue os seguintes itens, acerca de sistemas de gerenciamento de bancos de dados
@@ -6756,7 +6608,7 @@ cópias de segurança de dados.
 feito off-line,
 desde que a tabela não possua tipos de dados LOB (Large Object).
 
-Item. 13. ANO: 2013 BANCA: CESPE ÓRGÃO: ANTT PROVA: ANALISTA ADMINISTRATIVO -
+13. ANO: 2013 BANCA: CESPE ÓRGÃO: ANTT PROVA: ANALISTA ADMINISTRATIVO -
 INFRAESTRUTURADETI
 
 A respeito de SQL Server, julgue os itens subsecutivos.
@@ -6765,7 +6617,7 @@ A respeito de SQL Server, julgue os itens subsecutivos.
 é a
 realização de consultas, pelo desenvolvedor, diretamente em base de dados via framework.
 
-Item. 14. ANO: 2013 BANCA: CESPE ÓRGÃO: ANTT PROVA: ANALISTA ADMINISTRATIVO -
+14. ANO: 2013 BANCA: CESPE ÓRGÃO: ANTT PROVA: ANALISTA ADMINISTRATIVO -
 INFRAESTRUTURA DE TI
 
 A respeito de SQL Server, julgue os itens subsecutivos.
@@ -6793,8 +6645,7 @@ Julgue os itens subsecutivos, com relação ao tuning de banco de dados.
 determinadas
 consultas.
 
-
-Item. 17. ANO: 2013 BANCA: CESPE ÓRGÃO: CRPM PROVA: ANALISTA EM GEOCIÊNCIAS - SISTEMAS DE
+17. ANO: 2013 BANCA: CESPE ÓRGÃO: CRPM PROVA: ANALISTA EM GEOCIÊNCIAS - SISTEMAS DE
 INFORMAÇÃO
 
 Com relação a técnicas de análise de desempenho e otimização de consultas SQL, julgue
@@ -6804,7 +6655,7 @@ seguintes.
 [1] No SQL Server, o comando TRUNCATE TABLE remove todos os dados de uma tabela e, se a tabela
 tiver uma coluna de identidade, provoca a reinicialização do contador de identidade.
 
-Item. 18. ANO: 2013 BANCA: CESPE ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
+18. ANO: 2013 BANCA: CESPE ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
 DA INFORMAÇÃO
 
 Acerca do banco de dados SQL Server, julgue os itens subsequentes.
@@ -6813,7 +6664,7 @@ Acerca do banco de dados SQL Server, julgue os itens subsequentes.
 número da
 porta para as instâncias do SQL Server 2008.
 
-Item. 19. ANO: 2013 BANCA: CESPE ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
+19. ANO: 2013 BANCA: CESPE ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
 DA INFORMAÇÃO
 
 Acerca do banco de dados SQL Server, julgue os itens subsequentes.
@@ -6822,7 +6673,7 @@ Acerca do banco de dados SQL Server, julgue os itens subsequentes.
 no modo
 gráfico podem ser convertidos de volta para a consulta original.
 
-Item. 20. ANO: 2013 BANCA: CESPE ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
+20. ANO: 2013 BANCA: CESPE ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
 DA INFORMAÇÃO
 
 Acerca do banco de dados SQL Server, julgue os itens subsequentes.
@@ -6845,7 +6696,6 @@ o uso de versões anteriores.
 
 22.ANO: 2013 BANCA: CESPE ÓRGÃO: BACEN PROVA: ANALISTA DO BACEN - ANÁLISE E
 DESENVOLVIMENTO DE SISTEMAS
-
 
 Considerando os sistemas de gerenciamento de bancos de dados, julgue o próximo item.
 
@@ -6897,7 +6747,6 @@ Para se retornar um usuário qualquer conectado a uma base de dados, deve-se exe
 o comando
 SELECT SYSTEM_ADMIN.
 
-
 27.ANO: 2012 BANCA: CESPE ÓRGÃO: TJ-AC PROVA: ANALISTA JUDICIÁRIO - ANALISTA DE
 SUPORTE
 
@@ -6907,7 +6756,7 @@ A respeito do banco de dados SQL Server e da linguagem SQL, julgue os itens segu
 como
 resultado.
 
-Item. 28. ANO: 2012 BANCA: CESPE ÓRGÃO: PEFOCE PROVA: PERITO CRIMINAL - ANALISTA DE SISTEMAS
+28. ANO: 2012 BANCA: CESPE ÓRGÃO: PEFOCE PROVA: PERITO CRIMINAL - ANALISTA DE SISTEMAS
 
 A respeito de SQL Server e sistemas operacionais, julgue os próximos itens.
 
@@ -6919,7 +6768,7 @@ Hyper-V. Por exemplo, não é possível executá-lo em uma máquina virtual comp
 sistema
 operacional hospedeiro seja o Linux CentOS 4.
 
-Item. 29. ANO: 2012 BANCA: CESPE ÓRGÃO: PEFOCE PROVA: PERITO CRIMINAL - ANALISTA DE SISTEMAS
+29. ANO: 2012 BANCA: CESPE ÓRGÃO: PEFOCE PROVA: PERITO CRIMINAL - ANALISTA DE SISTEMAS
 
 No que se refere a banco de dados e sistemas de suporte a decisão, julgue os itens subsecutivos.
 
@@ -6929,69 +6778,67 @@ informações do plano de consulta de determinada transação SQL, que podem ser
 para
 otimizar as consultas e analisar o desempenho de transações SQL executadas pelo SGBD.
 
-
 GABARITo
 
-Item. 1. E
+1. E
 
-Item. 2. E
+2. E
 
-Item. 3. C
+3. C
 
-Item. 4. C
+4. C
 
-Item. 5. E
+5. E
 
-Item. 6. C
+6. C
 
-Item. 7. E
+7. E
 
-Item. 8. C
+8. C
 
-Item. 9. E
+9. E
 
-Item. 10. C
+10. C
 
-Item. 11. C
+11. C
 
-Item. 12. E
+12. E
 
-Item. 13. C
+13. C
 
-Item. 14. C
+14. C
 
-Item. 15. C
+15. C
 
-Item. 16. E
+16. E
 
-Item. 17. C
+17. C
 
-Item. 18. C
+18. C
 
-Item. 19. C
+19. C
 
-Item. 20. E
+20. E
 
-Item. 21. C
+21. C
 
-Item. 22. E
+22. E
 
-Item. 23. E
+23. E
 
-Item. 24. D
+24. D
 
-Item. 25. E
+25. E
 
-Item. 26. E
+26. E
 
-Item. 27. C
+27. C
 
-Item. 28. E
+28. E
 
-Item. 29. C
+29. C
 
-
-Item. 12. Ano: 2018 Banca: FCC Órgão: DPE-AM Cargo: Analista Área: Banco de Sistemas Questão: 47.
+12. Ano: 2018 Banca: FCC Órgão: DPE-AM Cargo: Analista Área: Banco de Sistemas Questão: 47.
 
 Um Analista de Sistemas deseja alterar a coluna quantidade, que faz parte da tabela pedido do
 banco de dados empresa, do tipo INT para o tipo DECIMAL(7,2). Para isso, utilizando Transact-
@@ -7008,7 +6855,7 @@ SQL no SQL Server, deverá usar o comando
 
 (E) ALTER TABLE empresa MODIFY COLUMN quantidade TO DECIMAL (7, 2);
 
-Item. 13. CESPE - Especialista Técnico (BNB)/Analista de Sistema/2018
+13. CESPE - Especialista Técnico (BNB)/Analista de Sistema/2018
 
 Acerca de bancos de dados, julgue o item que se segue.
 
@@ -7025,7 +6872,7 @@ Certo
 
 Errado
 
-Item. 14. FCC - Agente de Fiscalização à Regulação de Transporte (ARTESPJ/Tecnologia da
+14. FCC - Agente de Fiscalização à Regulação de Transporte (ARTESPJ/Tecnologia da
 lnformação/2017
 
 Em relação à remoção de linhas no SQL Server, é correto afirmar:
@@ -7039,7 +6886,6 @@ instrução DROP TABLE.
 b) Ao utilizar uma instrução DELETE, se a cláusula WHERE não for especificada, apenas
 a
 primeira linha da tabela será excluída.
-
 
 c) Diferentemente da instrução DELETE, uma tabela esvaziada usando a instrução TRUNCATE
 TABLE é removida do banco de dados, junto com seus índices e outros objetos associados.
@@ -7056,7 +6902,7 @@ determinada ordem, será preciso usar UP junto com ORDER BY em uma instrução
 de
 subseleção.
 
-Item. 15. FCC - Analista Judiciário (TST)/Apoio Especializado/Análise de Sistemas/2017
+15. FCC - Analista Judiciário (TST)/Apoio Especializado/Análise de Sistemas/2017
 
 Um Analista de Sistemas deseja fazer um backup completo de um banco de dados SQL
 Server
@@ -7090,12 +6936,11 @@ uma instância do SQL Server se inicie automaticamente quando o servidor for lig
 Certo
 Errado
 
-Item. 17. FCC - Auditor de Controle Externo (TCM-GO)/lnformática/2015
+17. FCC - Auditor de Controle Externo (TCM-GO)/lnformática/2015
 
 A figura abaixo apresenta o diagrama da relação entre os principais elementos de uma
 solução
 baseada em SQL Server Reporting Services.
-
 
 É correto afirmar sobre os elementos do diagrama:
 
@@ -7130,7 +6975,7 @@ como opção de armazenamento.
 Certo
 Errado
 
-Item. 19. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
+19. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
 
 O comando do Transact SQL do Microsoft SQL Server 2008 para criar um sinônimo,
 atribuindo
@@ -7141,7 +6986,7 @@ c) SYNONYM teste <- primeiro_db.primeiros_programas
 d) DESCRIBE SYNONYM teste FOR EACH primeiro_db.primeiros_prograrnas
 e) MAKE SYNONYM teste OF primeiro_db.primeiros_programas
 
-Item. 20. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
+20. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
 
 O comando do Transact SQL do Microsoft SQL Server 2008 para atualizar o valor de 20
 registros, da coluna 'taxa', da tabela 'Blue', dividindo por 2 o valor dessa coluna 'taxa' é
@@ -7160,7 +7005,7 @@ SET taxa - taxa/2
 e) UPDATE FIRST(20) Blue
 PRINTING taxa = taxa/2
 
-Item. 21. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
+21. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2015
 
 No sistema gerenciador de banco de dados Microsoft SQL Server 2008, por meio da função
 sys.dm_index_physical_stats é possível verificar
@@ -7174,7 +7019,7 @@ d) a quantidade máxima permitida de tabelas no banco de dados.
 
 e) o nível de fragmentação de índices do banco de dados.
 
-Item. 22. CESPE - Analista Administrativo (ANTAQ)/TI - Analista de lnfraestrutura/2014
+22. CESPE - Analista Administrativo (ANTAQ)/TI - Analista de lnfraestrutura/2014
 
 Acerca do Microsoft SQL Server 2008, julgue o seguinte item.
 
@@ -7182,11 +7027,10 @@ O argumento clustered do comando create index cria um índice em que a ordem ló
 dos
 valores da chave determina a ordem física das linhas correspondentes em uma tabela.
 
-
 Certo
 Errado
 
-Item. 23. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
+23. FCC - Agente de Defensoria Pública (DPE SP)/Administrador de Banco de Dados/2013
 
 Um recurso presente no MS-SQL Server 2008 modela as entidades relacionadas ao SQL
 Server
@@ -7218,7 +7062,7 @@ d) SQL Query Administrator.
 
 e) Server Control Panei.
 
-Item. 24. FCC - Agente de Defensoria Pública (DPE SP)/Analista de Sistemas/2013
+24. FCC - Agente de Defensoria Pública (DPE SP)/Analista de Sistemas/2013
 
 Uma das funções disponíveis no sistema gerenciador de bancos de dados Microsoft SQL
 Server
@@ -7237,7 +7081,6 @@ momento
 da execução dessa função.
 
 e) da velocidade de conexão do usuário corrente ao Microsoft SQL Server.
-
 
 25.CESPE - Analista do Banco Central do Brasil/Área 5 - Infraestrutura e Logística/2013
 
@@ -7272,11 +7115,10 @@ d) Orientador de Otimização do Mecanismo de Banco de Dados.
 
 e) SQL Server Profiler.
 
-Item. 27. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 50
+27. Ano: 2017 Banca: FGV Órgão: Alerj Cargo: Analista de Tecnologia da Informação Q. 50
 
 No SQL Server 2012, os seguintes comandos foram executados individualmente para criar as
 tabelas no banco de dados MeuBanco.
-
 
 CREATE TABLE Tabl
 
@@ -7354,7 +7196,6 @@ ordem:
 
 TRUNCATE TABLE Tabl;
 
-
 DELETE TOP (2) FROM Tab2 WHERE Cod < 4000;
 TRUNCATE TABLE Tab3;
 
@@ -7376,7 +7217,7 @@ cada linha excluída;
 para
 cada linha excluída.
 
-Item. 28. BANCA: VUNESP ANO: 2012 ÓRGÃO: TJ-SP PROVA: ANALISTA JUDICIÁRIO - COMUNICAÇÃO E
+28. BANCA: VUNESP ANO: 2012 ÓRGÃO: TJ-SP PROVA: ANALISTA JUDICIÁRIO - COMUNICAÇÃO E
 PROCESSAMENTO DE DADOS
 
 No Microsoft SQL Server 2008, as teclas de atalho para inserir ou remover um bookmark são:
@@ -7387,7 +7228,7 @@ C Alt + U
 D Alt + K
 E Alt + B
 
-Item. 29. BANCA: VUNESP ANO: 2013 ÓRGÃO: IMESC PROVA: ANALISTA DE TECNOLOGIA -
+29. BANCA: VUNESP ANO: 2013 ÓRGÃO: IMESC PROVA: ANALISTA DE TECNOLOGIA -
 INFORMÁTICA
 
 O sistema gerenciador de bancos de dados Microsoft SQL Server 2008 conta com um
@@ -7395,14 +7236,13 @@ recurso
 denominado IntelliSense que provê facilidades para a edição de comandos. O botão do SQL
 Server 2008 que permite habilitar ou desabilitar esse recurso é
 
-
 A
 B
 
 C
 D
 
-Item. 30. BANCA: VUNESP ANO: 2012 ÓRGÃO: TJ-SP PROVA: ANALISTA JUDICIÁRIO - COMUNICAÇÃO E
+30. BANCA: VUNESP ANO: 2012 ÓRGÃO: TJ-SP PROVA: ANALISTA JUDICIÁRIO - COMUNICAÇÃO E
 PROCESSAMENTO DE DADOS
 
 Um usuário do Microsoft SQL Server 2008 deseja atribuir um sinônimo de nome SI para a
@@ -7416,7 +7256,7 @@ C CREATE SYNONYM Sl FOR Produtos;
 D CREATE SYNM Sl (Produtos);
 E CREATE SYM Sl Produtos;
 
-Item. 31. BANCA: VUNESP ANO: 2013 ÓRGÃO: CETESB PROVA: ANALISTA DE TECNOLOGIA DA
+31. BANCA: VUNESP ANO: 2013 ÓRGÃO: CETESB PROVA: ANALISTA DE TECNOLOGIA DA
 INFORMAÇÃO - ADMINISTRADOR DE BANCO DE DADOS
 
 O procedimento armazenado do Transact do SQL Microsoft SQL Server 2008 que exibe
@@ -7430,14 +7270,13 @@ C sp_depends.
 D sp_enumdsn.
 E sp_grantlogin.
 
-Item. 32. BANCA: VUNESP ANO: 2013 ÓRGÃO: CETESB PROVA: ANALISTA DE TECNOLOGIA DA
+32. BANCA: VUNESP ANO: 2013 ÓRGÃO: CETESB PROVA: ANALISTA DE TECNOLOGIA DA
 INFORMAÇÃO - ADMINISTRADOR DE BANCO DE DADOS
 
 Sobre os Sistemas Gerenciadores de Bancos de Dados (considerando o Microsoft SQL Server
 2008), é correto afirmar que
 
 A devem ser desligados por, pelo menos, 2 horas diariamente.
-
 
 B devem tratar comandos emitidos pelo usuário, permitindo, por exemplo, a busca de dados.
 C não podem ser utilizados em ambiente de rede.
@@ -7447,7 +7286,7 @@ de tarefas.
 
 E podem funcionar sem a presença de um sistema operacional no servidor.
 
-Item. 33. BANCA: VUNESP ANO: 2013 ÓRGÃO: COREN-SP PROVA: ANALISTA - ADMINISTRADOR DE
+33. BANCA: VUNESP ANO: 2013 ÓRGÃO: COREN-SP PROVA: ANALISTA - ADMINISTRADOR DE
 BANCO DE DADOS
 
 Considerando o tuning do sistema gerenciador de bancos de dados Microsoft SQL Server 2012,
@@ -7461,7 +7300,7 @@ D o número de acessos por minuto ao disco rígido.
 
 E o número médio de bytes lidos e escritos em um segundo.
 
-Item. 34. BANCA: VUNESP ANO: 2014 ÓRGÃO: PRODEST-ES PROVA: ANALISTA DE TECNOLOGIA DA
+34. BANCA: VUNESP ANO: 2014 ÓRGÃO: PRODEST-ES PROVA: ANALISTA DE TECNOLOGIA DA
 
 INFORMAÇÃO - DESENVOLVIMENTO DE SISTEMAS
 
@@ -7481,7 +7320,6 @@ OF
 
 <comando SQL>
 GO
-
 
 C CREATE PROCEDURE cnome do procedimento>
 
@@ -7504,7 +7342,7 @@ OFTYPE
 <comando SQL>
 GO
 
-Item. 35. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE TÉCNICO - DESENVOLVEDOR
+35. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE TÉCNICO - DESENVOLVEDOR
 
 O comando do sistema gerenciador de bancos de dados Microsoft SQL Server
 2008 que
@@ -7519,7 +7357,7 @@ D DROP ACTION <nome>
 
 E EXCEPT ACTION <nome>
 
-Item. 36. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE TÉCNICO - DESENVOLVEDOR
+36. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE TÉCNICO - DESENVOLVEDOR
 
 No sistema gerenciador de bancos de dados Microsoft SQL Server 2008, o comando SAVE
 TRANSACTION tem a função de
@@ -7528,13 +7366,12 @@ A criar um trigger.
 
 B definir um ponto de salvamento de transações.
 
-
 C encerrar todas as conexões com o banco de dados.
 D fazer o backup de um banco de dados.
 
 E fazer o backup de uma tabela.
 
-Item. 37. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
+37. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
 Uma forma de inserir comentários em um comando SQL no sistema gerenciador de banco de
@@ -7547,7 +7384,7 @@ C -- texto do comentário
 D % texto do comentário %
 E # texto do comentário #
 
-Item. 38. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
+38. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
 No sistema gerenciador de banco de dados Microsoft SQL Server 2008, o procedimento
@@ -7561,7 +7398,7 @@ C sp_pkeys
 D sp_catalogs
 E sp_grantlogin.
 
-Item. 39. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
+39. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
 No sistema gerenciador de banco de dados Microsoft SQL Server 2008, a seleção de
@@ -7576,8 +7413,7 @@ D de usuários conectados ao servidor.
 
 E médio de registros por tabela.
 
-
-Item. 40. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
+40. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
 O comando do sistema gerenciador de banco de dados Microsoft SQL Server 2000 para parar
@@ -7590,7 +7426,7 @@ C LOCK
 D REVOKE
 ESHUTDOWN
 
-Item. 41. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
+41. BANCA: VUNESP ANO: 2013 ÓRGÃO: MPE-ES PROVA: AGENTE ESPECIALIZADO - ANALISTA DE
 BANCO DE DADOS
 
 O comando do sistema gerenciador de banco de dados Microsoft SQL Server 2000 que tem
@@ -7603,67 +7439,65 @@ C SELECT @@DBTS
 D SELECT @@IDLE
 E SELECT @@SPID
 
-
 GABARITo
 
-Item. 12. B
+12. B
 
-Item. 13. E
+13. E
 
-Item. 14. A
+14. A
 
-Item. 15. B
+15. B
 
-Item. 16. C
+16. C
 
-Item. 17. A
+17. A
 
-Item. 18. E
+18. E
 
-Item. 19. B
+19. B
 
-Item. 20. D
+20. D
 
-Item. 21. E
+21. E
 
-Item. 22. C
+22. C
 
-Item. 23. C
+23. C
 
-Item. 24. B
+24. B
 
-Item. 25. C
+25. C
 
-Item. 26. D
+26. D
 
-Item. 27. D
+27. D
 
-Item. 28. A
+28. A
 
-Item. 29. D
+29. D
 
-Item. 30. C
+30. C
 
-Item. 31. C
+31. C
 
-Item. 32. B
+32. B
 
-Item. 33. A
+33. A
 
-Item. 34. A
+34. A
 
-Item. 35. C
+35. C
 
-Item. 36. B
+36. B
 
-Item. 37. C
+37. C
 
-Item. 38. A
+38. A
 
-Item. 39. B
+39. B
 
-Item. 40. E
+40. E
 
-Item. 41. A
-
+41. A
 

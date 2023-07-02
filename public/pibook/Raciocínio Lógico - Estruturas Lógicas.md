@@ -1,28 +1,20 @@
-Capítulo. Raciocínio Lógico - Estruturas Lógicas.
-
+# Raciocínio Lógico - Estruturas Lógicas.
 
 Índice
 
 1) Aviso
 
-
 2) Apresentação do Curso
-
 
 3) Introdução às Proposições.
 
-
 4) Proposições Simples.
-
 
 5) Proposições Compostas.
 
-
 6) Conversão de Linguagem
 
-
 7) Tabela Verdade
-
 
 8) Tautologia, Contradição e Contingência
 
@@ -50,7 +42,6 @@ Capítulo. Raciocínio Lógico - Estruturas Lógicas.
 
 20) Lista de Questões - Tautologia, Contradição e Contingência - Cebraspe
 
-
 AVISO IMPORTANTE!
 
 Olá, Alunos (as)!
@@ -72,7 +63,6 @@ No mais, continuaremos à disposição de todos no Fórum de dúvidas!
 Atenciosamente,
 Equipe Exatas
 Estratégia Concursos
-
 
 APRESENTAçÃo Do CURSo
 
@@ -126,7 +116,6 @@ precioso tempo "caçando por aí" o conteúdo que será cobrado na sua prova.
 Ademais, sempre que
 necessário, você poderá fazer perguntas sobre as aulas no fórum de dúvidas. Bons estudos!
 
-
 APRESENTAçÃo DA AULA
 
 Fala, pessoal!
@@ -171,7 +160,6 @@ Conte comigo nessa caminhada =)
 
 Prof. Eduardo Mocellin.
 fÕJ @edu.mocellin
-
 
 INTRoDUçÃo ÀS PRoPoSIçõES
 
@@ -236,7 +224,6 @@ Proposições
 
 As bancas costumam utilizar a palavra expressão como sinônimo de sentença.
 
-
 A lógica bivalente e as leis do pensamento
 
 Lógica Bivalente = Lógica Proposicional, Lógica Clássica, Lógica Aristotélica. Obedece três
@@ -244,14 +231,13 @@ princípios,
 
 conhecidos por Leis do Pensamento:
 
-Item. 1. Identidade: Uma proposição verdadeira é sempre verdadeira, e uma proposição falsa é sempre
+1. Identidade: Uma proposição verdadeira é sempre verdadeira, e uma proposição falsa é sempre
 falsa.
 
-Item. 2. Não Contradição: Uma proposição não pode ser verdadeira e falsa ao mesmo tempo.
+2. Não Contradição: Uma proposição não pode ser verdadeira e falsa ao mesmo tempo.
 
-Item. 3. Terceiro Excluído: Uma proposição ou é verdadeira ou é falsa. Não existe um terceiro valor
+3. Terceiro Excluído: Uma proposição ou é verdadeira ou é falsa. Não existe um terceiro valor
 "talvez".
-
 
 Proposição lógica
 
@@ -312,7 +298,6 @@ Gabarito: CERTO.
 
 Nesse momento, vamos nos aprofundar no conceito de proposição.
 
-
 Uma proposição deve ser uma oração
 
 Uma proposição lógica deve ser uma oração. Isso significa que ela necessariamente deve
@@ -353,7 +338,6 @@ ATENTO!
 Não basta que a sentença apresente um verbo para que ela seja considerada uma
 proposição.
 
-
 í (PETROBRAS/2022) Acerca de lógica matemática, julgue o item a seguir.
 I
 
@@ -367,7 +351,6 @@ I
 : exclamativa (apresenta ponto de exclamação). Não se trata, portanto, de uma proposição.
 
 = Gabarito: ERRADO.
-
 
 (BNB/2018) A sentença "É justo que toda a população do país seja penalizada
 pelos erros de seus
@@ -419,7 +402,6 @@ Para que não reste dúvidas, veja a seguinte frase:
 
 "Na Via Láctea existem mais de 1 trilhão de estrelas."
 E aí, astrônomo? Sabe dizer se essa frase é verdadeira ou se é falsa?
-
 
 Mesmo que não saibamos se a frase é verdadeira ou falsa, não resta dúvida de que a
 frase é uma proposição,
@@ -479,7 +461,6 @@ para x diferente de
 
 A questão a seguir apresenta uma aplicação muito interessante do que aprendemos até agora.
 
-
 (ISS GRU/2019) Dentre as sentenças a seguir, aquela que é uma sentença aberta é
 a) 3 x + 4- x- 3- 2 x = 0
 
@@ -520,7 +501,6 @@ Alternativa B
 "7 + 3 = 11" é uma proposição falsa. Seu valor lógico não depende da determinação
 de uma variável.
 
-
 Vamos desenvolver a equação.
 
 Alternativa C
@@ -535,11 +515,9 @@ proposição falsa.
 
 Alternativa D
 
-
 "13 *% = 7" corresponde a uma sentença aberta. Caso atribuíssemos a % o valor —, a sentença seria
 verdadeira e, caso atribuíssemos qualquer outro valor, ela seria falsa. Logo, o gabarito é a
 alternativa D.
-
 
 .
 
@@ -570,7 +548,6 @@ ATENTO!
 
 Existem situações em que as bancas são bastante sutis quando querem indicar que uma
 frase é uma sentença aberta. Veja o exercício a seguir.
-
 
 í (TJ CE/2008) A frase "No ano de 2007, o índice de criminalidade da cidade caiu
 pela metade em relação ao
@@ -611,7 +588,6 @@ realmente correu
 
 É possível utilizar símbolos para transformar sentenças abertas em proposições:
 
-
 a) 3: "existe"; "algum".
 
 b) 3!: "existe um único".
@@ -634,7 +610,6 @@ dos números naturais, x + 9 = 10".
 
 "Vx E N | x + 9 = 10"-falso
 í (SEBRAE/2008) A proposição "Ninguém ensina ninguém" é um exemplo de sentença aberta.
-
 
 : Comentários:
 
@@ -666,7 +641,6 @@ verdadeira e falsa ao mesmo tempo.
 
 r
 
-
 |
 
 í (TRF1/2017) "A maior prova de honestidade que realmente posso dar neste
@@ -681,7 +655,6 @@ enunciado é falso, então ;
 ; o enunciador é, de fato, honesto.
 
 = Comentários:
-
 
 i Primeiramente, devemos pressupor nessa questão que uma pessoa honesta sempre diz a
 verdade, e uma
@@ -748,7 +721,6 @@ afirmar
 
 : categoricamente que a filha de Telma é bonita?
 
-
 : Veja que não é possível atribuir um valor lógico V ou F para essa frase, pois ela emite uma
 opinião, que não :
 
@@ -757,7 +729,6 @@ opinião, que não :
 : Cumpre destacar que muitas questões não chegam a entrar nesse nível de detalhe, de
 modo que é bem :
 j comum que essas frases mais subjetivas sejam consideradas proposições.
-
 
 i Nessa questão, consideramos que esta alternativa não apresenta uma proposição
 justamente porque não
@@ -803,7 +774,6 @@ declarativa em questão: ou
 = Note, ainda, que essa atribuição de valor lógico não depende de opinião.
 
 ; Gabarito: Letra E.
-
 
 Distinção entre proposição, sentença e expressão
 
@@ -852,7 +822,6 @@ Proposições
 
 - Sentença aberta
 
-
 FIQUE
 
 ATENTO!
@@ -871,7 +840,7 @@ qual se declara algo)
 
 = e predicado (o que se declara sobre o sujeito). Na relação seguinte há expressões e sentenças:
 
-Item. 1. Três mais nove é igual a doze.
+1. Três mais nove é igual a doze.
 
 ; 2. Pelé é brasileiro.
 
@@ -904,7 +873,6 @@ sentenças
 i declarativas.
 
 : Gabarito: Letra A
-
 
 A lógica bivalente e as leis do pensamento
 
@@ -978,7 +946,6 @@ atribuído um e somente um ;
 
 Vamos praticar os conceitos aprendidos até agora.
 
-
 HORA DE
 
 PRATICAR!
@@ -1036,7 +1003,6 @@ A frase acima é uma sentença imperativa (indica uma ordem ou um pedido), bem c
 = exclamativa (apresenta ponto de exclamação). Não se trata, portanto, de uma proposição.
 
 j Gabarito: Letra D.
-
 
 (BB/2007) Na lista de frases apresentadas a seguir, há exatamente três proposições.
 
@@ -1101,11 +1067,9 @@ verdadeiro ou falso. As demais
 
 ; frases não são sentenças declarativas (proposições):
 
-
 .
 
 I. Sentença exclamativa;
-
 
 = II. Trata-se de uma expressão, pois não exprime um pensamento com sentido completo;
 
@@ -1145,14 +1109,11 @@ falsa", não ;
 existe um terceiro valor.
 :
 
-
 : Gabarito: Letra A
 
 >
 
-
 I
-
 
 PRoPoSIçõES SIMPLES
 
@@ -1207,7 +1168,6 @@ p: "Vou comer."
 
 ~ (~p): "Não vou comer nada."
 
-
 Definição de proposição simples
 
 Dizemos que uma proposição é simples quando ela não pode ser dividida proposições menores.
@@ -1258,7 +1218,6 @@ falsa, ~p é verdadeira, e se p é verdadeira, ~p é falsa. Essa ideia pode ser
 representada na seguinte tabela,
 conhecida por tabela-verdade:
 
-
 Cada linha da tabela representa uma possível combinação de valores lógicos para as
 proposições p e ~p. A
 primeira linha representa o fato de que se p assumir o valor V, ~p deve assumir o
@@ -1306,7 +1265,6 @@ d)Uma negação duas vezes mais forte
 = Por "negação de uma negação", entende-se que a questão quis se referir à negação de uma
 proposição do
 tipo sentença declarativa negativa.
-
 
 Ao se negar uma sentença declarativa negativa, obtém-se uma sentença
 declarativa afirmativa, ou uma
@@ -1368,7 +1326,6 @@ p: "Está quente em Parai."
 
 ~p: "Não é verdade que está quente em Parai."
 
-
 A pegadinha da questão era a letra A, que utiliza o antônimo "frio" para negar a
 palavra "quente" presente i
 
@@ -1413,7 +1370,6 @@ Se voltarmos para a estrutura original, temos:
 Observe que é errado negar a oração subordinada. Isso significa que "Pedro respondeu
 que não estudou
 todo o edital" não é a negação de "Pedro respondeu que estudou todo o edital".
-
 
 FIQUE
 
@@ -1462,7 +1418,6 @@ O próximo passo é preencher os valores de ~(~P) observando que essa
 proposição é a negação da
 proposição ~p.
 
-
 Agora basta reconhecer que a primeira coluna e a última coluna da tabela verdade são
 exatamente iguais.
 Isso significa que, para os dois valores lógicos que p pode assumir (V ou F), os
@@ -1508,7 +1463,6 @@ P ~P ~(~p) ~(~(~p))
 V F —► F
 
 F V —► V
-
 
 p ~P ~(~p) ~(~(~p))
 
@@ -1578,7 +1532,6 @@ d) o significado da frase não leva em conta a disjunção.
 : e) a negação presente na frase evidencia seu significado.
 j
 
-
 Comentários:
 
 Observe que, no caso apresentado, a língua portuguesa está em descompasso com a
@@ -1603,7 +1556,6 @@ Por fim, gostaria de ressaltar que a negação proposições quantificadas ("exi
 todo", etc.) não é
 objeto desta aula e será vista no decorrer do curso, caso seja objeto do seu edital.
 
-
 PRoPoSIçõES CoMPoSTAS
 
 Proposições compostas
@@ -1616,7 +1568,6 @@ conectivos.
 proposições simples que a compõem.
 
 * O operador lógico de negação (~) não é um conectivo.
-
 
 Tipo
 
@@ -1698,7 +1649,6 @@ Condição suficiente Condição necessária
 * A recíproca de p->q é dada pela troca entre antecedente o e o consequente: q->p. A recíproca é uma
 proposição completamente diferente da condicional original.
 
-
 Conjunção (pAq): é verdadeira somente quando as proposições p e q são ambas verdadeiras.
 Disjunção Inclusiva (pVq): é falsa somente quando as proposições p e q são ambas falsas
 Disjunção Exclusiva (pVq): é falsa quando ambas as proposições tiverem o mesmo valor.
@@ -1707,7 +1657,6 @@ Condicional (p-»q): é falsa somente quando |a primeira proposição é verdade
 falsa.|
 
 Bicondicional (po-q): é verdadeira quando ambas as proposições tiverem o mesmo valor.
-
 
 Conjunção
 iie ii
@@ -1756,7 +1705,6 @@ F
 F
 V
 
-
 Definição de proposição composta
 
 Proposição composta é uma proposição que resulta da combinação de duas ou mais
@@ -1796,7 +1744,6 @@ proposição composta S, que utiliza um conectivo distinto.
 As relações entre os valores lógicos das proposições simples e o consequente valor
 lógico da proposição
 composta obtida pelo uso de conectivos serão estudadas a seguir.
-
 
 Conectivos lógicos
 
@@ -1849,7 +1796,6 @@ dizer que essa frase é verdadeira. Isso significa que pAq é verdadeiro.
 
 Inserindo este raciocínio em uma tabela-verdade, teremos:
 
-
 Voltemos à história de Maria e João:
 
 Exemplo 2: consideremos agora que Maria realmente foi ao cinema e, com isso, a
@@ -1887,7 +1833,6 @@ proposição composta pAq é falso.
 A nossa tabela atualizada fica da seguinte forma:
 
 Por fim, a quarta possibilidade para a história dos seus amigos Maria e João é a seguinte:
-
 
 Exemplo 4: Maria novamente não foi ao cinema. Nesse caso, o valor lógico da
 proposição p é
@@ -1933,7 +1878,6 @@ fins de Lógica de
 Proposições, "mas" é igual ao conectivo "e". O mesmo vale para outras expressões
 adversativas que
 correspondem ao "mas".
-
 
 (SEFAZ SP/2006) Considere a proposição "Paula estuda, mas não passa no concurso". Nessa
 proposição, o
@@ -1996,7 +1940,6 @@ Note que a proposição composta "Pedro não estuda nem trabalha." corresponde a
 
 ~eA~t: "[Pedro não estuda] e [Pedro não trabalha]."
 
-
 Disjunção inclusiva (pvq)
 
 O operador lógico "ou" é um conectivo do tipo disjunção inclusiva. É representado pelo
@@ -2049,7 +1992,6 @@ Nesse caso, a disjunção inclusiva aVb é dada por:
 aVb: "7 + 1 = 10 ou café não é uma bebida." (F)
 
 Essa proposição é falsa, pois ambas as proposições simples a e b são falsas.
-
 
 Na lógica de proposições, o uso do conectivo "ou" sozinho será, na grande maioria das
 situações, com
@@ -2110,7 +2052,6 @@ V
 
 F
 
-
 ATENÇÃO
 
 DECORE!
@@ -2161,7 +2102,6 @@ hoje é domingo, ou hoje é segunda-feira" é falsa.
 O uso da expressão "...ou..., mas não ambos" é utilizado como disjunção exclusiva. Exemplo:
 
 pVq: "Pedro vai ao parque ou Maria vai ao cinema, mas não ambos."
-
 
 FIQUE
 
@@ -2215,7 +2155,6 @@ porque o gato não pode
 
 = Gabarito: Letra E.
 
-
 Condicional (p->q)
 
 O operador lógico "se...,então" é um conectivo do tipo condicional. É
@@ -2262,7 +2201,6 @@ q: "Frederico sabe somar."
 
 p->q: "Se Frederico é matemático, então Frederico sabe somar."
 Analisemos as possibilidades:
-
 
 1) p: "Frederico é matemático" e q: "Frederico sabe somar" são ambas verdadeiras.
 Nesse caso,
@@ -2323,7 +2261,6 @@ Emília é capixaba (p é V) e não gosta de moqueca (q é F)
 
 Gabarito: Letra C.
 
-
 (SEFAZ AM/2022) Considere as sentenças a seguir.
 
 * Paulo é carioca ou Bernardo é paulista.
@@ -2377,7 +2314,6 @@ Em resumo, temos os seguintes valores lógicos:
 
 * sé verdadeiro;
 
-
 Sendo p falso, temos que ~p é verdadeiro. Logo:
 
 * ~p é verdadeiro;
@@ -2427,7 +2363,6 @@ p->q: "Pedro vai ao parque, logo Maria vai ao cinema."
 
 p-»q: "Pedro ir ao parque implica Maria ir ao cinema."
 
-
 * Quando p, q.
 
 p->q: "Quando Pedro vai ao parque, Maria vai ao cinema."
@@ -2454,7 +2389,6 @@ p->q: "Maria vai ao cinema, pois Pedro vai ao parque."
 * q porque p. Novamente ocorre a inversão da ordem entre p e q.
 
 p—>q: "Maria vai ao cinema porque Pedro vai ao parque."
-
 
 Muita atenção para os casos em que ocorre a inversão da ordem entre p e q. As
 quatro
@@ -2495,7 +2429,6 @@ p->q: "Maria ir ao cinema é condição necessária para Pedro ir ao parque."
 Como será visto mais à frente, a expressão "condição necessária e suficiente" se
 refere às
 proposições que compõem o conectivo bicondicional.
-
 
 FIQUE
 
@@ -2562,7 +2495,6 @@ enunciado apresenta
 
 ; a condicional P->Q, que pode ser representada das seguintes formas:
 
-
 P-*Q: "[Ana é engenheira] somente se [Bianca é arquiteta]."
 
 P->Q: "Se [Ana é engenheira], então [Bianca é arquiteta]."
@@ -2619,11 +2551,9 @@ e) Uma condição necessária para Bianca ser arquiteta é Ana não ser engenhei
 Podemos reescrever a proposição composta apresentada nessa alternativa do seguinte modo:
 "[Ana não ser engenheira] é condição necessária para [Bianca ser arquiteta]."
 
-
 i
 í Essa proposição composta pode ser reescrita novamente da seguinte forma:
 i
-
 
 I
 
@@ -2686,7 +2616,6 @@ quando o antecedente é verdadeiro ao mesmo tempo em que o consequente é falso.
 
 : Gabarito: ERRADO.
 
-
 Obtenção da recíproca da condicional
 
 A recíproca da condicional é uma nova proposição composta completamente
@@ -2733,7 +2662,6 @@ O enunciado deu a condicional p-»q e pede a sua recíproca q->p.
 q->p: "Se seus dentes ficaram mais claros, então você usou a pasta dental XYZ."
 
 Gabarito: Letra D.
-
 
 Bicondicional (p«^q)
 
@@ -2790,7 +2718,6 @@ ser o primeiro dia do mês de setembro se hoje não for dia 01/09. Assim, o valo
 lógico da
 proposição composta é falso.
 
-
 (CM Gramado/2019) Se P e Q são proposições falsas, então o valor lógico da proposição P<-»Q é
 verdadeiro.
 
@@ -2833,7 +2760,6 @@ p<->q: "Pedro vai ao parque somente se Maria vai ao cinema e Maria vai ao cinema
 vai
 ao parque."
 
-
 INDO MAIS
 
 FUNDO!
@@ -2841,11 +2767,11 @@ FUNDO!
 Perceba que as duas últimas formas apresentadas de se representar a bicondicional são
 geradas por meio de:
 
-Item. 1. Aplicação de um conectivo condicional por duas vezes;
+1. Aplicação de um conectivo condicional por duas vezes;
 
-Item. 2. Inversão das proposições p e q na segunda aplicação do condicional; e
+2. Inversão das proposições p e q na segunda aplicação do condicional; e
 
-Item. 3. Junção dos condicionais por meio da conjunção "e".
+3. Junção dos condicionais por meio da conjunção "e".
 
 p->q: "Se p, então q."
 
@@ -2878,7 +2804,6 @@ Considere novamente a seguinte bicondicional:
 
 p<->q: "Pedro vai ao parque se e somente se Maria vai ao cinema."
 Podemos representar essa bicondicional também desses dois modos:
-
 
 * pé condição necessária e suficiente para q
 p<->q: "Pedro ir ao parque é condição necessária e suficiente para Maria ir ao cinema."
@@ -2917,7 +2842,6 @@ li
 ..
 ..
 
-
 : (TRF 1/2006) Se todos os nossos atos têm causa, então não há atos livres. Se não
 há atos livres, então todos
 
@@ -2945,7 +2869,6 @@ q: "Não há atos livres."
 
 : Gabarito: Letra C.
 
-
 Na sequência, realizaremos uma série de questões envolvendo os conectivos lógicos. Antes
 de prosseguir,
 peço que você DECORE o resumo a seguir.
@@ -2966,7 +2889,6 @@ Bicondicional (p<->q): é verdadeira quando ambas as proposições tiverem o mes
 Decorou? Para reforçar ainda mais o aprendizado, tente reproduzir em uma folha as
 tabelas-verdade dos
 cinco conectivos sem espiar o PDF.
-
 
 Conjunção
 ii e ii
@@ -3000,7 +2922,6 @@ V
 V
 F
 
-
 se...então"
 
 p-*q
@@ -3026,7 +2947,6 @@ questões.
 HORA DE
 
 PRATICAR!
-
 
 (SEFAZ CE/2021) Julgue o item seguinte, considerando a estrutura lógica das situações
 apresentadas em
@@ -3083,7 +3003,6 @@ q são proposições
 verdadeiras e r é uma proposição falsa.
 
 Gabarito: CERTO.
-
 
 í (PGE PE/2019) Se as proposições "A afirmação foi feita pelo político" e "A
 população acredita na afirmação i
@@ -3147,7 +3066,6 @@ condicional verdadeiro.
 Portanto, para A e B verdadeiros, (AA~B)-»~A é verdadeiro.
 Gabarito: ERRADO.
 
-
 = (Pref. Sananduva/2020) Se J, A e Q são proposições simples verdadeiras, então o
 valor lógico da proposição
 í (~JAA)«o>(~QV~A) é falso.
@@ -3184,7 +3102,6 @@ lógico. Logo, temos
 
 i Portanto, para J, A e Q verdadeiros, (~JAA)<->(~QV~A) é verdadeiro.
 
-
 : Gabarito: ERRADO.
 
 í (GRAMADOTUR/2019) Suponha que seja verdadeiro o valor lógico da proposição P e falso
@@ -3213,7 +3130,6 @@ d) Apenas II e III.
 : e) Apenas I, III e IV.
 
 ; Comentários:
-
 
 Vamos analisar as quatro proposições compostas:
 
@@ -3264,7 +3180,6 @@ Observação: o símbolo "©" indica disjunção exclusiva (ou...ou).
 
 Portanto, concluímos que apenas as proposições compostas II e III são verdadeiras.
 Gabarito: Letra D.
-
 
 í (PM AM/2022) Sabe-se que a sentença "Se o sapato é preto, então a meia é preta
 ou o cinto é preto" é
@@ -3328,7 +3243,6 @@ sejam falsos. Logo:
 = * "O cinto não é preto." (~c é verdadeiro).
 j Gabarito: Letra A.
 
-
 (CBM AL/2021) Considere a seguinte proposição.
 
 P: "Se a vegetação está seca e sobre ela cai uma faísca, ocorre um incêndio."
@@ -3377,7 +3291,6 @@ independentemente
 dos valores lógicos das demais proposições simples (f e i) que constituem a proposição sAf-*i.
 
 Gabarito: CERTO.
-
 
 (PETROBRAS/2022) Julgue o item seguinte, considerando a proposição P: "Como nossas
 reservas de matéria
@@ -3431,7 +3344,6 @@ eA~n->i será verdadeira,
 independentemente dos valores lógicos das suas demais proposições simples constituintes (e e i).
 
 Gabarito: CERTO
-
 
 (EBSERH/2020) Considere verdadeira a afirmação I e falsa a afirmação II:
 
@@ -3496,24 +3408,23 @@ condicional só é falsa no caso V->F.
 
 Gabarito: Letra E.
 
-
 CoNVERSÃo DA LINGUAGEM NATURAL PARA A PRoPoSICIoNAL
 
 Conversão da linguagem natural para a proposicional
 
 Ordem de precedência da negação e dos conectivos
 
-Item. 1. Realizar a negação abrangendo o menor enunciado possível (~);
+1. Realizar a negação abrangendo o menor enunciado possível (~);
 
-Item. 2. Conjunção (A);
+2. Conjunção (A);
 
-Item. 3. Disjunção inclusiva (V);
+3. Disjunção inclusiva (V);
 
-Item. 4. Disjunção exclusiva (V);
+4. Disjunção exclusiva (V);
 
-Item. 5. Condicional (->);
+5. Condicional (->);
 
-Item. 6. Bicondicional (<->).
+6. Bicondicional (<->).
 
 Análise do significado das proposições
 
@@ -3553,7 +3464,6 @@ Para o CESPE, a proposição abaixo não se trata de uma conjunção. É uma pro
 "As pessoas têm o direito ao livre pensar e à liberdade de expressão."
 
 "As pessoas têm o direito a isso."
-
 
 Introdução
 
@@ -3603,7 +3513,6 @@ a-»d: "Se [João é meu amigo], então [empresto dinheiro para João]."
 linguagem matemática que
 vamos tratar no presente tópico.
 
-
 Ordem de precedência da negação e dos conectivos
 
 Em diversas situações encontramos proposições compostas sem o devido uso dos parênteses.
@@ -3634,17 +3543,17 @@ DECORE!
 
 Ordem de precedência da negação e dos conectivos
 
-Item. 1. Realizar a negação abrangendo o menor enunciado possível (~);
+1. Realizar a negação abrangendo o menor enunciado possível (~);
 
-Item. 2. Conjunção (A);
+2. Conjunção (A);
 
-Item. 3. Disjunção inclusiva (V);
+3. Disjunção inclusiva (V);
 
-Item. 4. Disjunção exclusiva (V);
+4. Disjunção exclusiva (V);
 
-Item. 5. Condicional (->);
+5. Condicional (->);
 
-Item. 6. Bicondicional (<->).
+6. Bicondicional (<->).
 
 No exemplo dado,p ->q A r", devemos observar que a negação se refere exclusivamente a
 p. Em seguida,
@@ -3653,7 +3562,6 @@ melhor escrito da
 seguinte forma:
 
 (~ p)-»(qAr)
-
 
 Em alguns casos as bancas utilizam vírgulas para indicar parênteses nas proposições.
 Considere a seguinte
@@ -3682,7 +3590,6 @@ a conjunção deveria ser realizada antes da condicional. O resultado seria o se
 
 p -» (v A s)
 
-
 (Pref. Farroupilha/2018) Dada a proposição
 
 Indique o termo com maior prioridade.
@@ -3701,7 +3608,6 @@ Vimos que, na ordem de precedência, a negação apresenta a maior prioridade.
 O gabarito, portanto, é letra A.
 
 Gabarito: Letra A.
-
 
 (CRA PR/2019) No que se refere à estrutura lógica, julgue o item.
 O valor-verdade da expressão lógica (2>3) (l<0)->(3*4) é F
@@ -3762,7 +3668,6 @@ ser representada por :
 
 : (~P—»~R)A~Q oU por ~P—»(~RA~Q).
 
-
 í Como não há qualquer indicativo na frase original de que a condicional deve ser
 executada primeiro,
 
@@ -3783,7 +3688,6 @@ seguir:
 (~P->~R)A~Q: "(Se [hoje não choveu], então [Maria não foi ao comércio]), e (José não foi à praia)."
 
 =L.G...a..b...a..r.i.t.o..:...C..E...R..T...O
-
 
 Conversão para a linguagem proposicional
 
@@ -3848,7 +3752,6 @@ Perceba que o enunciado já nos dá as proposições p e q. A negação ~p é:
 A proposição composta apresenta o conectivo "Se...então". Logo, temos uma condicional.
 Vamos analisar
 melhor suas componentes:
-
 
 .
 
@@ -3921,7 +3824,6 @@ consideram que o termo
 
 ; "não é verdade que" nega a proposição composta como um todo.
 
-
 .
 
 i Observação 2: Será visto na aula de equivalências lógicas, se for pertinente ao seu
@@ -3930,7 +3832,6 @@ edital, que existe uma i
 ; outra forma de negar essa proposição composta utilizando as Leis de De Morgan.
 
 : Gabarito: Letra A.
-
 
 í (UFRJ/2022) Sejam as proposições "Marcos é ator", "É falso que Marcos é biólogo" e "Marcos é
 rico". A
@@ -3942,13 +3843,11 @@ rico". A
 
 í a) (~pAq) <-> (~qV~r)
 
-
 I
 
 b) (~pAq) -»(~qV~r)
 
 i c) (pV~q) <-> (qA~r)
-
 
 I
 
@@ -3989,7 +3888,6 @@ disjunção inclusiva "ou" e, por fim, a bicondicional "se e somente se". Logo, 
 proposição procurada é dada j
 por (~pAq) <-> (~qV~r):
 
-
 I
 
 í (~pAq) o- (~qV~r): "[(Marcos não é ator) e (Marcos não é biólogo)] se e somente se [(Marcos é
@@ -3998,7 +3896,6 @@ biólogo) ;
 ou (Marcos não é rico)]."
 
 = Gabarito: Letra A.
-
 
 Análise do significado das proposições
 
@@ -4052,7 +3949,6 @@ i
 
 ; Comentários:
 
-
 ESTA É
 
 DIFÍCIL!
@@ -4100,7 +3996,6 @@ presença humana no
 planeta é recente)],[a presença humana no planeta não é causadora do atual aquecimento global]."
 
 Gabarito: CERTO.
-
 
 Proposições simples em períodos longos
 
@@ -4173,7 +4068,6 @@ oração. "De um planejamento
 
 ; Trata-se de uma proposição simples.
 
-
 CESPE: período composto por subordinação
 
 FIQUE
@@ -4233,7 +4127,6 @@ decidir seu próprio destino e
 
 j Gabarito: Letra C.
 
-
 (BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
 
 A sentença "O reconhecimento crescente da necessidade de reformas na área econômica é
@@ -4258,7 +4151,6 @@ acompanha a sociedade há várias décadas."
 Trata-se, portanto, de uma proposição simples.
 
 Gabarito: ERRADO.
-
 
 CESPE: o impasse entre o sujeito composto e a conjunção "e"
 
@@ -4306,7 +4198,6 @@ sentença. Sendo iguais, devem ser representadas da mesma maneira.
 
 Portanto, segundo o melhor entendimento, "João e Maria foram ao cinema" é uma
 proposição composta.
-
 
 A polêmica não para por aqui.
 
@@ -4358,7 +4249,6 @@ Executivo,
 ; Legislativo e Judiciário".
 j Gabarito: ERRADO
 
-
 CESPE: o predicado das orações e a conjunção
 
 APRESTE MAIS
@@ -4407,7 +4297,6 @@ pAq:" As pessoas têm o direito ao livre pensar e à liberdade de expressão."
 
 : Gabarito: CERTO.
 
-
 TABELA-VERDADE
 
 Tabela-verdade
@@ -4447,7 +4336,6 @@ Uma vez listadas todas as combinações de valores lógicos possíveis para p, q
 Para o da primeira linha (onde p, q e r assumem o valor verdadeiro), veremos que a proposição
 composta do exemplo assumirá o valor V. Para o caso da quarta linha (V, F, F) veremos que o
 valor assumido por ~ (p—>~q) V (~r—>q) será falso.
-
 
 Número de linhas de uma ta bela-verdade
 
@@ -4544,7 +4432,6 @@ será 2n. Para o caso da questão, n = 4. Logo, número de linhas será 24 = 16.
 
 Gabarito: CERTO.
 
-
 (ISS Campinas/2019) Pretende-se analisar se uma proposição P, composta por quatro proposições
 simples, i
 implica uma proposição Q, composta pelas mesmas quatro proposições simples, combinadas com
@@ -4608,7 +4495,6 @@ e r). Este passo é fundamental, pois organiza o raciocínio de maneira simples 
 
 Observe como aplicar esta "engenharia reversa":
 
-
 Para determinar ~ (p->~q)V(~r-»q)
 
 , precisamos obter ~ (p—q)
@@ -4636,7 +4522,6 @@ presente caso, temos 3 proposições simples, p, q e r, portanto, teremos 8 linh
 Vejamos:
 
 r ~r (p -^>~q) ~(p -^>~q) (~r—>q) ~{p —>~<7)v(~r—>q)
-
 
 Passo 3: atribuir V ou F às proposições simples de maneira alternada
 
@@ -4681,7 +4566,6 @@ azul corresponderá aos valores lógicos que queremos determinar e as colunas em
 que
 estamos utilizando como referência para a operação.
 
-
 Obtenção de ~q realizando a negação de q:
 
 Obtenção de (p^~q) por meio das colunas p e ~q. Observe que a condicional só será falsa quando p for
@@ -4725,7 +4609,6 @@ F F V V F V F
 
 F F F V V V F
 
-
 Obtenção de (~r-»q) por meio das colunas ~r e q. Observe que a condicional só será falsa quando ~r
 for
 verdadeiro e q for falso:
@@ -4739,7 +4622,6 @@ V V F F V F V V
 V F V V F V F V
 
 V F F V V V F F
-
 
 F V V F F V F V
 
@@ -4796,7 +4678,6 @@ F F V V F V F V V
 
 F F F V V V F F F
 
-
 HORA DE
 
 PRATICAR!
@@ -4804,7 +4685,6 @@ PRATICAR!
 í (IBGE/2021) Considere a seguinte proposição P:
 
 I
-
 
 I
 
@@ -4859,7 +4739,6 @@ públicas) e (justifica o emprego dos recursos que lhe são destinados)]."
 í 23 = 8
 í
 
-
 Passo 2: desenhar o esquema da tabela-verdade.
 Note que:
 
@@ -4878,7 +4757,6 @@ Passo 4: obter o valor das demais proposições.
 A conjunção aAj é verdadeira somente para os casos em que a é verdadeiro e j é verdadeiro. Nos
 outros
 casos, aAj é falso.
-
 
 A condicional p-»aAj só e falsa quando o antecedente p é verdadeiro e o consequente aAj é falso.
 Nos demais
@@ -4914,7 +4792,6 @@ Para determinar PV [~(PAQ)j, precisamos obter P e ~(PAQ).
 Para determinar ~(PAQ), precisamos obter PAQ.
 
 Para determinar PAQ, precisamos obter P e Q.
-
 
 p Q PaQ -(PaQ) Pv[~(PaQ)]
 
@@ -4968,7 +4845,6 @@ F F F V V
 
 Veremos adiante que, quando uma proposição é sempre verdadeira, damos a ela o nome de tautologia.
 Gabarito: Letra E.
-
 
 í (ABIN/2018) A tabela a seguir mostra as três primeiras colunas das 8 linhas das
 tabelas verdade das
@@ -5043,7 +4919,6 @@ enunciado.
 
 Gabarito: CERTO.
 
-
 (ABIN/2018) A tabela a seguir mostra as três primeiras colunas das 8 linhas das
 tabelas verdade das
 proposições PA(QVR) e (PAQ)->R, em que P, Qe R são proposições lógicas simples.
@@ -5112,7 +4987,6 @@ enunciado.
 
 Resposta: CERTO.
 
-
 TAUToLoGIA, CoNTRADIçÃo E CoNTINGÊNCIA
 
 Tautologia, contradição e contingência
@@ -5154,7 +5028,6 @@ p ~P PV~P ph~p
 \J F M F
 
 F V V F
-
 
 Quando duas proposições assumem valores lógicos necessariamente iguais, dizemos que as proposições
 são
@@ -5199,27 +5072,26 @@ As tautologias e as contradições nem sempre são fáceis de se identificar.
 
 Para descobrirmos se uma proposição composta é uma tautologia, podemos utilizar 3 métodos:
 
-Item. 1. Tabela-verdade: se a proposição composta final for sempre verdadeira, ela é uma tautologia;
+1. Tabela-verdade: se a proposição composta final for sempre verdadeira, ela é uma tautologia;
 
-Item. 2. Absurdo: tentar aplicar o valor lógico falso à proposição. Se nessa tentativa chegarmos a algum
+2. Absurdo: tentar aplicar o valor lógico falso à proposição. Se nessa tentativa chegarmos a algum
 absurdo, isso significa que a proposição nunca poderá ser falsa e, portanto, é uma tautologia
 (sempre
 verdadeira); ou
 
-Item. 3. Equivalências Lógicas/Álgebra de proposições: desenvolver a expressão por equivalências lógicas
+3. Equivalências Lógicas/Álgebra de proposições: desenvolver a expressão por equivalências lógicas
 ou álgebra de proposições e chegar na tautologia t.
-
 
 Já para sabermos se uma proposição composta é uma contradição, podemos proceder da seguinte forma:
 
-Item. 1. Tabela-verdade: se a proposição composta final for sempre falsa, ela é uma contradição;
+1. Tabela-verdade: se a proposição composta final for sempre falsa, ela é uma contradição;
 
-Item. 2. Absurdo: tentar aplicar o valor lógico verdadeiro à proposição. Se nessa tentativa chegarmos a
+2. Absurdo: tentar aplicar o valor lógico verdadeiro à proposição. Se nessa tentativa chegarmos a
 algum absurdo, isso significa que a proposição nunca poderá ser verdadeira e, portanto, é
 uma
 contradição (sempre falsa); ou
 
-Item. 3. Equivalências Lógicas/Álgebra de proposições: desenvolver a expressão por equivalências lógicas
+3. Equivalências Lógicas/Álgebra de proposições: desenvolver a expressão por equivalências lógicas
 ou álgebra de proposições e chegar na contradição c.
 
 W ESCLARECENDO!
@@ -5245,7 +5117,6 @@ proposição é uma tautologia:
 O terceiro método, equivalências lógicas/álgebra de proposições, será abordado em aula futura, caso
 esse
 assunto faça parte do seu edital.
-
 
 Primeiro método: determinar a tabela-verdade
 
@@ -5277,7 +5148,6 @@ Passo 4: obter o valor das demais proposições.
 pAq é verdadeiro somente quando p e q são ambos verdadeiros. q-> r é falso somente quando q é
 verdadeiro
 e r é falso.
-
 
 p r pAq (pAq)-r
 ((pAq)^r)o(p^(q^r))
@@ -5327,7 +5197,6 @@ V V F V F F F
 
 \J F V F V V V
 
-
 V F F F V V V
 
 F V V F V V V
@@ -5343,7 +5212,6 @@ Por fim, a bicondicional ((pAq) -> r) «-> (p-> (q-> r)) é verdadeira quando ((
 ambos verdadeiros ou ambos falsos. Observe que esse caso sempre ocorre, e
 isso significa que a
 bicondicional proposta é uma tautologia.
-
 
 (EMAP/2018) Julgue o seguinte item, relativo à lógica proposicional e à lógica de argumentação.
 
@@ -5393,7 +5261,6 @@ tautologia. Trata-se de uma
 contingência, pois [P-»Q]AP pode ser tanto verdadeiro quanto falso.
 
 Gabarito: ERRADO.
-
 
 (CBM AL/2017) A respeito de proposições lógicas, julgue o item a seguir.
 
@@ -5465,7 +5332,6 @@ Comentários:
 PAQAR só será verdadeira quando todas as suas parcelas são verdadeiras. Nos demais casos é falsa.
 Além disso, PVQ só será falsa quando P for falsa e Q for falsa.
 
-
 p Q R P/\Q/\R PvQ P/\Qf\R-> P\l Q
 
 \J \J V V V
@@ -5506,7 +5372,6 @@ F F V F F V
 F F F F F V
 
 Gabarito: CERTO.
-
 
 Segundo método: provar por absurdo
 
@@ -5556,7 +5421,6 @@ Para fins de resolução de questões de tautologia e de contradição, provar p
 costuma ser a melhor opção quando comparada com a tabela-verdade. Isso porque
 a
 construção de uma tabela-verdade costuma levar mais tempo.
-
 
 (CBM AL/2017) A respeito de proposições lógicas, julgue o item a seguir.
 
@@ -5610,7 +5474,6 @@ V—>F
 F
 
 Gabarito: ERRADO.
-
 
 i (PETROBRAS/2022) A proposição [(p->r)A(q->r)]->[r->(pVq)] é sempre verdadeira,
 independentemente do i
@@ -5698,7 +5561,6 @@ valores de p, q e r obtidos pelo método anterior (p falso, q falso e r verdadei
 
 Gabarito: ERRADO.
 
-
 r
 í (SEFAZ-SP/2006) Seja a sentença aberta A: (~ p V p) O [ ] e a sentença B: "Se
 o espaço [ ] for ocupado por
@@ -5769,7 +5631,6 @@ tautologia.
 
 j Gabarito: Letra B.
 
-
 Implicação
 
 Para finalizar essa parte teórica, vamos entender o conceito de implicação.
@@ -5811,10 +5672,9 @@ A-»B é uma tautologia.
 
 Gabarito: Letra B.
 
-
 Introdução às proposições
 
-Item. 1. (CESPE/PETROBRAS/2022) A seguinte afirmação é uma proposição: A quantidade de
+1. (CESPE/PETROBRAS/2022) A seguinte afirmação é uma proposição: A quantidade de
 formigas no
 planeta Terra é maior que a quantidade de grãos de areia.
 
@@ -5842,7 +5702,7 @@ quantidade de grãos de areia".
 O gabarito, portanto, é CERTO.
 Gabarito: CERTO.
 
-Item. 2. (CESPE/PETROBRAS/2022) Acerca de lógica matemática, julgue o item a seguir.
+2. (CESPE/PETROBRAS/2022) Acerca de lógica matemática, julgue o item a seguir.
 A frase "Saia daqui!" é uma proposição simples.
 
 Comentários:
@@ -5851,7 +5711,7 @@ A frase acima é uma ordem e uma exclamação. Não se trata, portanto, de uma p
 
 Gabarito: ERRADO.
 
-Item. 3. (CESPE/ADAPAR/2021) Considere as seguintes construções.
+3. (CESPE/ADAPAR/2021) Considere as seguintes construções.
 
 * P: "Vacinação é uma medida efetiva para controle de doenças".
 
@@ -5864,7 +5724,6 @@ considerando as construções
 apresentadas.
 
 0 0
-
 
 a) Apenas P é uma proposição.
 
@@ -5889,7 +5748,7 @@ proposições.
 
 Gabarito: Letra D.
 
-Item. 4. (CESPE/ADAPAR/2021) Considere as seguintes construções.
+4. (CESPE/ADAPAR/2021) Considere as seguintes construções.
 
 * P: "A plantação foi pulverizada".
 
@@ -5935,7 +5794,6 @@ ausência de verbo.
 
 Gabarito: Letra A.
 
-
 5.(CESPE/TJ-PR/2O19) Considere as seguintes sentenças.
 
 I. A ouvidoria da justiça recebe críticas e reclamações relacionadas ao Poder Judiciário do estado.
@@ -5967,7 +5825,7 @@ A frase III é uma sentença interrogativa e, portanto, não é uma proposição
 
 Gabarito: Letra C.
 
-Item. 6. (CESPE/FINEP/2009) Acerca de proposições, considere as seguintes frases.
+6. (CESPE/FINEP/2009) Acerca de proposições, considere as seguintes frases.
 
 I. Os Fundos Setoriais de Ciência e Tecnologia são instrumentos de financiamento de projetos.
 
@@ -5993,7 +5851,6 @@ e) I, II e IV.
 
 Comentários:
 
-
 A frase I é uma proposição, pois é uma oração declarativa à qual pode ser atribuída
 um, e apenas um, dos
 dois possíveis valores lógicos: verdadeiro ou falso.
@@ -6007,7 +5864,7 @@ condicional.
 
 Gabarito: Letra A
 
-Item. 7. (CESPE/MPE-TO/2006) Julgue o item subsequente.
+7. (CESPE/MPE-TO/2006) Julgue o item subsequente.
 Na lista abaixo, há exatamente três proposições.
 
 I. Faça suas tarefas.
@@ -6043,8 +5900,7 @@ Temos apenas duas proposições. Portanto, a assertiva está errada.
 
 Gabarito: ERRADO.
 
-
-Item. 8. (CESPE/TRE-ES/2011) Entende-se por proposição todo conjunto de palavras ou símbolos que
+8. (CESPE/TRE-ES/2011) Entende-se por proposição todo conjunto de palavras ou símbolos que
 exprimem
 um pensamento de sentido completo, isto é, que afirmam fatos ou exprimam juízos a
 respeito de
@@ -6067,7 +5923,7 @@ proposições. A frase do enunciado é uma sentença exclamativa e, portanto, n�
 
 Gabarito: ERRADO.
 
-Item. 9. (CESPE/ANS/2013) A expressão "Como não se indignar, assistindo todos os dias a
+9. (CESPE/ANS/2013) A expressão "Como não se indignar, assistindo todos os dias a
 atos de violência
 fortuitos estampados em todos os meios de comunicação do Brasil e do mundo?" é uma proposição lógica
 que pode ser representada por P-»Q, em que P e Q são proposições lógicas convenientemente
@@ -6079,7 +5935,7 @@ A sentença em questão é interrogativa. Não se trata de proposição.
 
 Gabarito: ERRADO.
 
-Item. 10. (CESPE/INSS/2016) Julgue o item a seguir, relativos a raciocínio lógico e operações com
+10. (CESPE/INSS/2016) Julgue o item a seguir, relativos a raciocínio lógico e operações com
 conjuntos.
 
 A sentença "Bruna, acesse a Internet e verifique a data da aposentadoria do Sr. Carlos!" é uma
@@ -6092,8 +5948,7 @@ A frase acima é uma ordem e uma exclamação. Não se trata de proposição.
 
 Gabarito: ERRADO.
 
-
-Item. 11. (CESPE/CBM-AL/2017) A respeito de proposições lógicas, julgue o item a seguir.
+11. (CESPE/CBM-AL/2017) A respeito de proposições lógicas, julgue o item a seguir.
 A sentença "Soldado, cumpra suas obrigações." é uma proposição simples.
 
 Comentários:
@@ -6102,7 +5957,7 @@ Temos uma sentença imperativa (indica ordem). Não se trata de uma proposição
 
 Gabarito: ERRADO.
 
-Item. 12. (CESPE/AFT/2013) Julgue o item subsequente, relacionado a lógica proposicional.
+12. (CESPE/AFT/2013) Julgue o item subsequente, relacionado a lógica proposicional.
 
 A sentença "Quem é o maior defensor de um Estado não intervencionista, que permite
 que as leis de
@@ -6117,7 +5972,6 @@ Comentários:
 A sentença em questão é interrogativa. Não se trata de proposição.
 
 Gabarito: ERRADO.
-
 
 QUESTõES CoMENTADAS - CEBRASPE
 
@@ -6173,7 +6027,6 @@ b) A Polícia Civil de determinado município não prendeu, na sexta-feira, um j
 22 anos de idade
 suspeito de ter cometido assassinatos em série.
 
-
 c) A Polícia Civil de determinado município prendeu, na sexta-feira, um jovem de 22
 anos de idade que não
 é suspeito de ter cometido assassinatos em série.
@@ -6207,7 +6060,7 @@ suspeito de ter cometido assassinatos em série."
 
 Gabarito: Letra B.
 
-Item. 3. (CESPE/ANTAQ/2014) Julgue o item seguinte, acerca da proposição P: Quando acreditar que estou
+3. (CESPE/ANTAQ/2014) Julgue o item seguinte, acerca da proposição P: Quando acreditar que estou
 certo,
 não me importarei com a opinião dos outros.
 
@@ -6226,7 +6079,6 @@ Nesse caso, podemos negar a proposição do seguinte modo:
 
 ~p: "Não acredito nisso."
 
-
 Retornando à proposição original:
 
 ~p: "Não acredito que estou certo."
@@ -6235,7 +6087,7 @@ Perceba que a negação obtida é diferente da sugerida pelo enunciado.
 
 Gabarito: ERRADO.
 
-Item. 4. (CESPE/TRT10/2013) A negação da proposição "A empresa não entrega o que promete" é
+4. (CESPE/TRT10/2013) A negação da proposição "A empresa não entrega o que promete" é
 "A empresa
 entrega o que não promete".
 
@@ -6262,7 +6114,7 @@ Perceba que a negação obtida é diferente da sugerida pelo enunciado.
 
 Gabarito: ERRADO.
 
-Item. 5. (CESPE/MPU/2013) A negação da proposição "A licitação anterior não pode ser
+5. (CESPE/MPU/2013) A negação da proposição "A licitação anterior não pode ser
 repetida sem prejuízo
 para a administração" está corretamente expressa por "A licitação anterior somente
 poderá ser repetida
@@ -6277,7 +6129,6 @@ forma de sentença declarativa negativa.
 p: "A licitação anterior não pode ser repetida sem prejuízo para a administração."
 A principal forma de negar a sentença declarativa negativa é eliminar o "não":
 
-
 ~p: licitação anterior pode ser repetida sem prejuízo para a administração."
 
 Observe que o enunciado da questão trouxe algo totalmente diferente, acrescentando a
@@ -6287,7 +6138,6 @@ e substituindo a palavra "sem" pela palavra "com":
 "A licitação anterior somente poderá ser repetida com prejuízo para a administração" .
 
 Gabarito: ERRADO.
-
 
 QUESTõES CoMENTADAS - CEBRASPE
 
@@ -6337,7 +6187,6 @@ verdadeiras. Logo, devemos ter:
 * n falso.
 
 Gabarito: ERRADO.
-
 
 2.(CESPE/SEFAZ SE/2022) Proposição P: Se o auditor for diligente e a auditoria bem
 planejada, a fraude
@@ -6407,7 +6256,6 @@ d/\p -> f Ar
 
 F
 
-
 Temos uma conjunção dAp no antecedente. Para que a conjunção seja falsa, basta que
 uma das proposições
 simples, d ou p, seja falsa.
@@ -6463,7 +6311,6 @@ indicação trabalharam duro", pode-se concluir que o responsável pela indicaç
 Comentários:
 
 Considere as seguintes proposições simples:
-
 
 r: "O responsável pela indicação fez sua parte."
 
@@ -6524,7 +6371,6 @@ Comentários:
 
 Sejam as proposições simples p e q:
 
-
 p: "Há carência de recursos tecnológicos no setor Alfa."
 
 q: "O trabalho dos servidores públicos que atuam nesse setor pode ficar prejudicado."
@@ -6549,7 +6395,7 @@ F F V
 
 Gabarito: CERTO.
 
-Item. 6. (CESPE/SEFAZ-AL/2020) P4: "Se os beneficiários dos serviços prestados pelo setor
+6. (CESPE/SEFAZ-AL/2020) P4: "Se os beneficiários dos serviços prestados pelo setor
 Alfa são mal
 atendidos, então os beneficiários dos serviços prestados por esse setor padecem.".
 
@@ -6582,7 +6428,6 @@ F V V
 
 F F V
 
-
 Se a condicional P4 for verdadeira, o antecedente p pode ser tanto verdadeiro quanto
 falso. O que não pode
 ocorrer é V->F, pois nesse caso temos um condicional falso.
@@ -6593,7 +6438,7 @@ não será necessariamente verdadeira.
 
 Gabarito: ERRADO.
 
-Item. 7. (CESPE/PGE-PE/2019) Acerca da lógica sentenciai, julgue o item que se segue.
+7. (CESPE/PGE-PE/2019) Acerca da lógica sentenciai, julgue o item que se segue.
 
 Se as proposições "A afirmação foi feita pelo político." e "A população acredita na
 afirmação feita pelo
@@ -6635,7 +6480,7 @@ F F V
 
 Gabarito: ERRADO.
 
-Item. 8. (CESPE/INSS/2016) Julgue o item a seguir, relativos a raciocínio lógico e operações com
+8. (CESPE/INSS/2016) Julgue o item a seguir, relativos a raciocínio lógico e operações com
 conjuntos.
 
 Caso a proposição simples "Aposentados são idosos" tenha valor lógico falso, então o
@@ -6645,7 +6490,6 @@ proposição "Aposentados são idosos, logo eles devem repousar" será falso.
 Comentários:
 
 Vamos dar nomes às proposições simples:
-
 
 p: "Aposentados são idosos."
 
@@ -6670,7 +6514,7 @@ De modo semelhante, poderíamos lembrar que a proposição condicional é falsj 
 
 Gabarito: ERRADO.
 
-Item. 9. (CESPE/TRT17/2009) Caso a proposição "No Brasil havia, em média, em 2007, seis juízes para
+9. (CESPE/TRT17/2009) Caso a proposição "No Brasil havia, em média, em 2007, seis juízes para
 cada 100
 mil habitantes na justiça do trabalho estadual, mas, no estado do Espírito Santo, essa
 média era de 13
@@ -6703,7 +6547,6 @@ A questão nos pede para avaliar se é verdadeira a seguinte condicional:
 "Se [no Brasil não havia, em média, em 2007, seis juízes para cada 100 mil habitantes na justiça do
 trabalho
 estadual], então, [no estado do Espírito Santo, essa média não era de 13 juízes]".
-
 
 A condicional pode ser descrita por ~p-»~q. Observe que, como temos p e q
 ambos verdadeiros, suas
@@ -6746,7 +6589,7 @@ condicional a->b, é falsa. Isso porque tal condicional seria F somente se a fos
 
 Gabarito: ERRADO.
 
-Item. 11. (CESPE/EBSERH/2018) Considere as seguintes proposições: P: O paciente receberá alta; Q: O
+11. (CESPE/EBSERH/2018) Considere as seguintes proposições: P: O paciente receberá alta; Q: O
 paciente
 receberá medicação; R: O paciente receberá visitas.
 
@@ -6764,7 +6607,6 @@ O enunciado pergunta se a proposição "Caso o paciente receba visitas, ele não
 medicação." é falsa.
 Observe que ela pode ser descrita por R—>~Q.
 
-
 Como Q—>~R é falsa, Q é V e ~R é F, a proposição condicional é falsa somente
 quando a primeira
 proposição é verdadeira e a segunda é falsa Consequentemente, ~Q é F e R é V.
@@ -6776,7 +6618,7 @@ verdadeiro e o consequente ~Q falso. Assim, R—>~Q é uma condicional falsa, co
 
 Gabarito: CERTO.
 
-Item. 12. (CESPE/PC-CE/2012) Considere como verdadeira a proposição seguinte.
+12. (CESPE/PC-CE/2012) Considere como verdadeira a proposição seguinte.
 
 P4: Se teve treinamento adequado e se dedicou nos estudos, então o policial tem informações
 precisas ao
@@ -6817,8 +6659,7 @@ verdadeira.
 
 Gabarito: ERRADO.
 
-
-Item. 13. (CESPE/TRE PE/2016) Considerando que p, q, r e s sejam proposições nas quais p e s sejam
+13. (CESPE/TRE PE/2016) Considerando que p, q, r e s sejam proposições nas quais p e s sejam
 verdadeiras
 e q e r sejam falsas, assinale a opção em que a sentença apresentada seja verdadeira.
 
@@ -6845,7 +6686,6 @@ FAFVF
 
 Pela ordem de precedência dos conectivos, devemos executar a conjunção antes.
 
-
 (F A F) VF
 F VF
 
@@ -6870,7 +6710,6 @@ Alternativa C:
 
 ~(V)
 F
-
 
 Alternativa D: Essa alternativa pode ser resolvida de uma forma mais rápida.
 Observe que temos uma
@@ -6901,7 +6740,7 @@ F
 
 Gabarito: Letra D.
 
-Item. 14. (CESPE/Técnico PRF/2012) Um jovem, visando ganhar um novo smartphone no dia das
+14. (CESPE/Técnico PRF/2012) Um jovem, visando ganhar um novo smartphone no dia das
 crianças,
 apresentou à sua mãe a seguinte argumentação: "Mãe, se tenho 25 anos, moro com você
 e papai, dou
@@ -6927,7 +6766,6 @@ Comentários:
 
 Sejam as proposições simples:
 
-
 a: "Tenho 25 anos."
 
 m: "Moro com você e papai."
@@ -6947,7 +6785,7 @@ verdadeira.
 
 Gabarito: ERRADO.
 
-Item. 15. (CESPE/TRE-GO/2015) A respeito de lógica proposicional, julgue o item subsequente.
+15. (CESPE/TRE-GO/2015) A respeito de lógica proposicional, julgue o item subsequente.
 
 Se P, Q e R forem proposições simples e se T for a proposição composta falsa
 [PA(--Q)]->R, então,
@@ -6983,7 +6821,6 @@ Comentários:
 
 Sejam as proposições simples:
 
-
 I: "Há autorização legislativa." (V)
 
 s:" Há abertura de créditos suplementares." (V)
@@ -7018,7 +6855,7 @@ Logo, a proposição P é verdadeira.
 
 Gabarito: CERTO.
 
-Item. 17. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à conjunção
+17. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à conjunção
 "e"; V, à
 disjunção "ou"; à condicional "se..., então"; O, à bicondicional "se, e somente
 se"; ~ corresponda
@@ -7036,7 +6873,6 @@ A questão pergunta se a condicional [PA~(QVR)]->[RA(P<->Q)] é sempre verdadeir
 se tivermos Q
 
 verdadeiro.
-
 
 Primeiramente vamos verificar o precedente do condicional: [PA~(QVR)]. Observe que, se Q
 é verdadeiro,
@@ -7061,7 +6897,7 @@ independentemente do valor do consequente.
 
 Gabarito: CERTO.
 
-Item. 18. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à conjunção
+18. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à conjunção
 "e"; V, à
 disjunção "ou"; à condicional "se..., então"; O, à bicondicional "se, e somente
 se"; ~ corresponda
@@ -7093,7 +6929,6 @@ Agora vamos obter o valor lógico de [P-»(QVR)]A(P<->Q) para P verdadeiro com Q
 
 [V—>(FVF)]A(V<->F)
 
-
 [V^F]A(F)
 FAF
 
@@ -7103,7 +6938,7 @@ Abas as proposições compostas apresentam o mesmo valor lógico (falso).
 
 Gabarito: ERRADO.
 
-Item. 19. (CESPE/CAM DEP/2012) Admitindo-se que a proposição "Eu não recebi dinheiro para pressionar
+19. (CESPE/CAM DEP/2012) Admitindo-se que a proposição "Eu não recebi dinheiro para pressionar
 pela
 aprovação desse projeto de lei" seja verdadeira, também será verdadeira a proposição
 "Se ele não
@@ -7126,7 +6961,7 @@ caso em que o condicional é falso é quando p é verdadeiro e q é falso.
 
 Gabarito: CERTO.
 
-Item. 20. (CESPE/TCE-ES/2012) Proposições são sentenças que podem ser julgadas como verdadeiras — V — ou
+20. (CESPE/TCE-ES/2012) Proposições são sentenças que podem ser julgadas como verdadeiras — V — ou
 falsas — F —, de forma que um julgamento exclui o outro, e são simbolizadas por letras maiusculas,
 como
 P, Q, R e S. A partir de proposições conhecidas, novas proposições podem ser
@@ -7158,7 +6993,6 @@ seguir.
 Se P e S forem V e Q e R forem F, então o valor lógico da proposição em questão será F.
 Comentários:
 
-
 Vamos trocar proposições simples pelos valores lógicos dados para P, S, Q e R.
 
 {(PVQ) -> [RA(~S)]} V [(PAS)<->(QAR)]
@@ -7182,7 +7016,7 @@ O valor lógico da proposição em questão é F, como afirma o enunciado.
 
 Gabarito: CERTO.
 
-Item. 21. (CESPE/TRE-RJ/2012) Julgue o item a seguir tendo como base a seguinte proposição
+21. (CESPE/TRE-RJ/2012) Julgue o item a seguir tendo como base a seguinte proposição
 P: "Se eu for
 barrado pela lei da ficha limpa, não poderei ser candidato nessas eleições, e se eu
 não registrar minha
@@ -7211,7 +7045,6 @@ b: "Eu serei barrado pela lei da ficha limpa"
 A proposição composta P é dada por:
 
 (b->e)A(r->e)
-
 
 Se r e e forem falsos, como afirma o enunciado, teremos:
 
@@ -7271,7 +7104,6 @@ seja, a x b x c = 30. Temos 5 possibilidades de distribuição de processos (a/b
 
 Somente agora, com todas as possibilidades descritas, podemos avaliar as proposições apresentadas.
 
-
 Para cada uma das 5 possibilidades devemos avaliar o valor lógico de P e de Q para,
 em seguida, determinar
 o valor lógico da condicional P-*Q.
@@ -7292,7 +7124,7 @@ verdadeira.
 
 Gabarito: CERTO.
 
-Item. 23. (CESPE/MPE-TO/2006) A proposição P: "Ser honesto é condição necessária para um
+23. (CESPE/MPE-TO/2006) A proposição P: "Ser honesto é condição necessária para um
 cidadão ser
 admitido no serviço público" é corretamente simbolizada na forma A -> B, em que A
 representa "ser
@@ -7317,7 +7149,6 @@ que "ser honesto"
 é o antecedente.
 
 Gabarito: ERRADO.
-
 
 QUESTõES CoMENTADAS - CEBRASPE
 
@@ -7368,8 +7199,7 @@ regra, o tempo verbal não é relevante em lógica de proposições.
 
 Gabarito: CERTO.
 
-
-Item. 2. (CESPE/ADAPAR/2021) Sendo A, B, C e D proposições simples escolhidas adequadamente,
+2. (CESPE/ADAPAR/2021) Sendo A, B, C e D proposições simples escolhidas adequadamente,
 assinale a
 opção que, no âmbito da lógica proposicional, apresenta uma expressão lógica
 que representa
@@ -7421,7 +7251,6 @@ isso, [o estado será mais rico]."
 Na teoria da aula, não vimos um conectivo "com isso". Nesse caso, devemos nos lembrar de que:
 O termo proposição é usado para se referir ao significado das orações.
 
-
 Note que, no caso em questão, "o estado será mais rico" é consequência da seguinte causa: "Se o
 Paraná é
 uma área livre de febre aftosa sem vacinação, então haverá ampliação do comércio de carnes
@@ -7436,7 +7265,7 @@ antecedente é A->BAC. Portanto, a proposição composta completa é dada por:
 
 Gabarito: Letra C.
 
-Item. 3. (CESPE/BANESE/2021) Com relação a estruturas lógicas, julgue o item a seguir, nos quais são
+3. (CESPE/BANESE/2021) Com relação a estruturas lógicas, julgue o item a seguir, nos quais são
 utilizados
 os símbolos usuais dos conectivos lógicos e as letras P, Q, R e S representam proposições lógicas.
 
@@ -7478,7 +7307,6 @@ Note, portanto, que temos apenas uma proposição simples, pois temos apenas uma
 
 Logo, é errado afirmar que a frase pode ser expressa pela proposição (PAQ)=>(RAS).
 Gabarito: ERRADO.
-
 
 4.(CESPE/SEFAZ-RS/2019) No exercício de suas atribuições profissionais, auditores fiscais
 sempre fazem
@@ -7544,7 +7372,6 @@ e) (q-»r). Alternativa falsa, pois já foi visto que (q->r) é F
 
 Gabarito: Letra B.
 
-
 5.(CESPE/SEFAZ RS/2017) As proposições P, Qe R são as descritas a seguir.
 
 * P: "Ele cuida das nascentes".
@@ -7576,11 +7403,11 @@ e dos conectivos. Veja que a ordem apresentada da proposição composta
 corresponde à ordem de
 precedência:
 
-Item. 1. Primeiro realizamos as negações abrangendo o menor enunciado possível: ~P; ~R.
+1. Primeiro realizamos as negações abrangendo o menor enunciado possível: ~P; ~R.
 
-Item. 2. Depois realizamos a disjunção inclusiva QV~R
+2. Depois realizamos a disjunção inclusiva QV~R
 
-Item. 3. Por fim, montamos a condicional com os seus dois termos: (~P)-»[QV(~R)]
+3. Por fim, montamos a condicional com os seus dois termos: (~P)-»[QV(~R)]
 
 Vamos primeiro realizaras negações:
 
@@ -7602,8 +7429,7 @@ de que os pronomes "ele", "ela" e "eles" indicariam uma sentença aberta.
 
 Gabarito: Letra B.
 
-
-Item. 6. (CESPE/TCDF/2012) Com a finalidade de reduzir as despesas mensais com energia
+6. (CESPE/TCDF/2012) Com a finalidade de reduzir as despesas mensais com energia
 elétrica na sua
 repartição, o gestor mandou instalar, nas áreas de circulação, sensores de presença e de claridade
 natural
@@ -7649,7 +7475,7 @@ declarativa afirmativa:
 
 Gabarito: CERTO.
 
-Item. 7. (CESPE/TRT21/2010) Considerando que cada proposição lógica simples seja representada por uma
+7. (CESPE/TRT21/2010) Considerando que cada proposição lógica simples seja representada por uma
 letra
 maiúscula e utilizando os símbolos usuais para os conectivos lógicos, julgue o item seguinte.
 
@@ -7658,7 +7484,6 @@ Miss Brasil" é
 representada corretamente pela expressão simbólica (P AQ) -> R.
 
 Comentários:
-
 
 Observe que a condicional apresentada está na forma "q, pois p", ou seja,
 ocorre inversão entre o
@@ -7674,7 +7499,7 @@ portanto, escrever a proposição composta na forma (pAq) -» r.
 
 Gabarito: CERTO.
 
-Item. 8. (CESPE/MDIC/2014) Considerando que P seja a proposição "A Brasil Central é uma
+8. (CESPE/MDIC/2014) Considerando que P seja a proposição "A Brasil Central é uma
 das ruas mais
 movimentadas do centro da cidade e lá o preço dos aluguéis é alto, mas se o interessado der três
 passos,
@@ -7710,8 +7535,7 @@ baixo)]"
 Como resultado, a frase pode ser escrita da forma QARA(S->T).
 Gabarito: CERTO.
 
-
-Item. 9. (CESPE/TRT10/2013) Ao noticiar que o presidente do país X teria vetado um projeto de lei, um
+9. (CESPE/TRT10/2013) Ao noticiar que o presidente do país X teria vetado um projeto de lei, um
 jornalista
 fez a seguinte afirmação. Se o presidente não tivesse vetado o projeto, o motorista que foi pego
 dirigindo
@@ -7763,7 +7587,7 @@ apreensão do veículo), mas (continuaria com a sua habilitação)].
 Podemos então descrevê-la como "P->(QAR)", ou seja, como "P-»QAR".
 Gabarito: CERTO.
 
-Item. 10. (CESPE/TRE RJ/2012) Julgue o item a seguir tendo como base a seguinte proposição
+10. (CESPE/TRE RJ/2012) Julgue o item a seguir tendo como base a seguinte proposição
 P: "Se eu for
 barrado pela lei da ficha limpa, não poderei ser candidato nessas eleições, e se eu
 não registrar minha
@@ -7774,7 +7598,6 @@ proposições convenientes e os símbolos -> e A representam, respectivamente, o
 "se
 então e e .
 Comentários:
-
 
 Vamos definir as proposições simples:
 
@@ -7830,7 +7653,6 @@ do negócio será baixa]."
 
 Gabarito: CERTO.
 
-
 12.(CESPE/TRE-GO/2015) A respeito de lógica proposicional, julgue o item subsequente.
 
 A proposição "Quando um indivíduo consome álcool ou tabaco em excesso ao longo da
@@ -7880,7 +7702,6 @@ forma:
 
 Gabarito: ERRADO.
 
-
 14.(CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
 
 A sentença "No Livro dos Heróis da Pátria consta o nome de Francisco José do Nascimento, o Dragão do
@@ -7900,7 +7721,7 @@ atuação como líder abolicionista no estado do Ceará."
 
 Gabarito: CERTO.
 
-Item. 15. (CESPE/MME/2013) A proposição "As fontes de energia fósseis estão, pouco
+15. (CESPE/MME/2013) A proposição "As fontes de energia fósseis estão, pouco
 a pouco, sendo
 substituídas por fontes de energia menos poluentes, como a energia elétrica, a eólica e a solar -
 as fontes
@@ -7934,7 +7755,6 @@ sistemas judicial e policial contra todo ato de intolerância" é uma proposiç�
 
 Comentários:
 
-
 Vamos reescrever a frase na ordem direta:
 
 "Uma atuação repressora e preventiva dos sistemas judicial e policial contra todo ato de
@@ -7954,7 +7774,7 @@ Trata-se de uma proposição simples.
 
 Gabarito: ERRADO.
 
-Item. 17. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
+17. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
 
 A frase "Todo ato de violência tem como consequência outro ato de violência" estará
 simbolicamente
@@ -7976,7 +7796,7 @@ Logo, não se pode escrevê-la na forma condicional.
 
 Gabarito: ERRADO.
 
-Item. 18. (CESPE/ABIN/2018) Julgue o item a seguir, a respeito de lógica proposicional.
+18. (CESPE/ABIN/2018) Julgue o item a seguir, a respeito de lógica proposicional.
 
 A proposição "A vigilância dos cidadãos exercida pelo Estado é consequência da radicalização da
 sociedade
@@ -7985,7 +7805,6 @@ em que
 P e Q são proposições simples escolhidas adequadamente.
 
 Comentários:
-
 
 A proposição em questão é simples, apresentando apenas um verbo. Podemos simplificar a frase assim:
 
@@ -7999,7 +7818,7 @@ Trata-se de uma proposição simples.
 
 Gabarito: ERRADO.
 
-Item. 19. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
+19. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
 
 A expressão "Viva Mandela, viva Mandela! gritava a multidão entusiasmada" estará corretamente
 representada na forma PVQ, em que P e Q sejam proposições lógicas adequadamente escolhidas.
@@ -8023,7 +7842,7 @@ na frase é um elemento da oração.
 
 Gabarito: ERRADO.
 
-Item. 20. (CESPE/BASA/2012) P: "Se o consumidor não precisa financiar o veículo, então ele tem acesso a
+20. (CESPE/BASA/2012) P: "Se o consumidor não precisa financiar o veículo, então ele tem acesso a
 taxas
 mais baixas para financiamento."
 
@@ -8036,7 +7855,6 @@ Comentários:
 Nessa questão devemos nos recordar que o termo proposição é usado para se referir ao
 significado das
 sentenças.
-
 
 Observe que a forma "Quem não precisa financiar o automóvel tem acesso a
 taxas mais baixas para
@@ -8052,7 +7870,7 @@ modos.
 
 Gabarito: CERTO.
 
-Item. 21. (CESPE/FUB/2013) Com base na proposição P: "Precisando de ajuda, o filho recorre ao pai",
+21. (CESPE/FUB/2013) Com base na proposição P: "Precisando de ajuda, o filho recorre ao pai",
 julgue o
 próximo item, relativo a lógica proposicional.
 
@@ -8075,7 +7893,7 @@ forma "se p, q". Logo, podemos reescrever:
 
 Gabarito: CERTO.
 
-Item. 22. (CESPE/TRT10/2013) PI: Além de ser suportado pela estrutura óssea da coluna, seu peso é
+22. (CESPE/TRT10/2013) PI: Além de ser suportado pela estrutura óssea da coluna, seu peso é
 suportado
 também por sua estrutura muscular.
 
@@ -8098,8 +7916,7 @@ coluna)."
 
 Gabarito: CERTO.
 
-
-Item. 23. (CESPE/IBAMA/2013) Considere que as proposições sejam representadas por letras maiúsculas e
+23. (CESPE/IBAMA/2013) Considere que as proposições sejam representadas por letras maiúsculas e
 que
 se utilizem os seguintes símbolos para os conectivos lógicos: A - conjunção; V - disjunção; => -
 condicional;
@@ -8137,7 +7954,7 @@ r: "Evidencia-se isso."
 Agora, percebe-se que a condicional em questão é dada por (pAq)-> r.
 Gabarito: ERRADO.
 
-Item. 24. (CESPE/INSS/2016) Com relação a lógica proposicional, julgue o item subsequente.
+24. (CESPE/INSS/2016) Com relação a lógica proposicional, julgue o item subsequente.
 
 Na lógica proposicional, a oração "Antônio fuma 10 cigarros por dia, logo a probabilidade de ele
 sofrer um
@@ -8151,7 +7968,6 @@ p: "Antônio fuma 10 cigarros por dia."
 
 q: "A probabilidade de Antônio sofrer infarto é dez vezes maior do que a de Pedro, que é não
 fumante."
-
 
 Observe que em q temos as orações subordinadas "de Antônio sofrer infarto" e "que é não fumante". A
 banca CESPE tem o entendimento de que quando se apresenta uma única oração principal com orações
@@ -8208,7 +8024,6 @@ por ligações é quatro vezes superior à quantidade de interrupções nas cham
 aparelhos
 cadastrados em planos tarifados por minutos.
 
-
 Pl: A quantidade de interrupções nas chamadas de planos por ligações é quatro vezes superior à
 quantidade de interrupções nas chamadas de planos por minutos.
 
@@ -8230,7 +8045,7 @@ aparelhos cadastrados em planos tarifados por minutos.
 
 Gabarito: ERRADO.
 
-Item. 26. (CESPE/ANVISA/2016) Considerando os símbolos normalmente usados para representar os conectivos
+26. (CESPE/ANVISA/2016) Considerando os símbolos normalmente usados para representar os conectivos
 lógicos, julgue os itens seguintes, relativos a lógica proposicional e à lógica de
 argumentação. Nesse
 sentido, considere, ainda, que as proposições lógicas simples sejam representadas por letras
@@ -8255,14 +8070,13 @@ Trata-se de uma proposição simples.
 
 Gabarito: ERRADO.
 
-Item. 27. (CESPE/AFT/2013) Julgue o item subsequente, relacionado a lógica proposicional.
+27. (CESPE/AFT/2013) Julgue o item subsequente, relacionado a lógica proposicional.
 
 A sentença "A presença de um órgão mediador e regulador das relações entre empregados
 e patrões é
 necessária em uma sociedade que busca a justiça social" é uma proposição simples.
 
 Comentários:
-
 
 A banca CESPE tem o entendimento de que, quando se apresenta uma única oração
 principal com orações
@@ -8278,7 +8092,7 @@ Trata-se, portanto, de uma proposição simples.
 
 Gabarito: CERTO.
 
-Item. 28. (CESPE/STF/2013) Julgue o item seguinte, relativo à lógica proposicional.
+28. (CESPE/STF/2013) Julgue o item seguinte, relativo à lógica proposicional.
 
 A sentença "A indicação de juízes para o STF deve ser consequência de um currículo
 que demonstre
@@ -8302,7 +8116,7 @@ simples,
 
 Gabarito: ERRADO.
 
-Item. 29. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
+29. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
 
 A frase "O ser humano precisa se sentir apreciado, valorizado para crescer com saúde física,
 emocional e
@@ -8314,7 +8128,6 @@ A banca CESPE tem o entendimento de que, quando se apresenta uma única oração
 principal com orações
 subordinadas a ela, temos uma proposição simples.
 
-
 "O ser humano precisa se sentir apreciado, valorizado para crescer com saúde física, emocional e
 psíquica"
 "O ser humano precisa disso"
@@ -8323,7 +8136,7 @@ Trata-se de uma proposição simples.
 
 Gabarito: CERTO.
 
-Item. 30. (CESPE/TRE-GO/2015) A respeito de lógica proposicional, julgue o item subsequente.
+30. (CESPE/TRE-GO/2015) A respeito de lógica proposicional, julgue o item subsequente.
 
 A proposição "No Brasil, 20% dos acidentes de trânsito ocorrem com indivíduos que
 consumiram bebida
@@ -8346,7 +8159,7 @@ Trata-se de uma proposição simples.
 
 Gabarito: CERTO.
 
-Item. 31. (CESPE/TJ-SE/2014) Julgue o item que se segue, relacionados à lógica proposicional.
+31. (CESPE/TJ-SE/2014) Julgue o item que se segue, relacionados à lógica proposicional.
 
 A sentença "A crença em uma justiça divina, imparcial, incorruptível e infalível é
 lenitivo para muitos que
@@ -8366,12 +8179,11 @@ desconhecem os caminhos para a busca do seus direitos, assegurados na Constitui�
 
 "A crença em uma justiça é lenitivo para muitos."
 
-
 Trata-se de uma proposição simples.
 
 Gabarito: CERTO.
 
-Item. 32. (CESPE/STF/2013) Julgue o item seguinte, relativo à lógica proposicional.
+32. (CESPE/STF/2013) Julgue o item seguinte, relativo à lógica proposicional.
 
 A sentença "um ensino dedicado à formação de técnicos negligencia a formação de
 cientistas" constitui
@@ -8390,7 +8202,7 @@ Trata-se, portanto, de uma proposição simples.
 
 Gabarito: CERTO.
 
-Item. 33. (CESPE/TJ AC/2012) Considerando que as proposições lógicas sejam
+33. (CESPE/TJ AC/2012) Considerando que as proposições lógicas sejam
 representadas por letras
 maiúsculas, julgue o próximo item, relativo a lógica proposicional e de argumentação.
 
@@ -8413,8 +8225,7 @@ Trata-se, sem dúvida, de uma proposição simples:
 
 Gabarito: ERRADO.
 
-
-Item. 34. (CESPE/CADE/2014) Considerando os conectivos lógicos usuais e que as letras maiusculas
+34. (CESPE/CADE/2014) Considerando os conectivos lógicos usuais e que as letras maiusculas
 representem
 proposições lógicas simples, julgue o item seguinte acerca da lógica proposicional.
 
@@ -8444,7 +8255,7 @@ Trata-se de uma proposição simples.
 
 Gabarito: ERRADO.
 
-Item. 35. (CESPE/STF/2013) Julgue o item abaixo, relacionado à lógica proposicional.
+35. (CESPE/STF/2013) Julgue o item abaixo, relacionado à lógica proposicional.
 
 A sentença: "Um governo efetivo precisa de regras rígidas, de tribunais que desempenhem
 suas funções
@@ -8470,7 +8281,6 @@ seriedade e celeridade c de um sistema punitivo rigoroso."
 Trata-se de uma proposição simples.
 
 Gabarito: ERRADO.
-
 
 Tabela-Verdade
 l.(CESPE/PETROBRAS/2022) Julgue o item seguinte, considerando a proposição P: "Como nossas reservas
@@ -8508,7 +8318,7 @@ inferior a dez.
 
 Gabarito: CERTO.
 
-Item. 2. (CESPE/SEFAZ SE/2022) Proposição P: Se o auditor for diligente e a auditoria bem planejada, a
+2. (CESPE/SEFAZ SE/2022) Proposição P: Se o auditor for diligente e a auditoria bem planejada, a
 fraude
 será encontrada e o responsável será punido.
 
@@ -8525,7 +8335,6 @@ d) 16
 e) 32.
 
 0 0
-
 
 Comentários:
 
@@ -8557,7 +8366,7 @@ linhas da tabela-verdade
 
 Gabarito: Letra D.
 
-Item. 3. (CESPE/IBGE/2021) Considere a seguinte proposição P:
+3. (CESPE/IBGE/2021) Considere a seguinte proposição P:
 
 Se produz as informações de que o Brasil necessita, o IBGE ajuda o país a estabelecer políticas
 públicas e
@@ -8585,7 +8394,6 @@ p: "O IBGE produz as informações de que o Brasil necessita."
 a: "O IBGE ajuda o país a estabelecer políticas públicas."
 
 j: "O IBGE justifica o emprego dos recursos que lhe são destinados."
-
 
 Note que a proposição P é uma condicional em que se omite o "então", podendo ser escrita como p ->
 aAj.
@@ -8616,7 +8424,6 @@ j aAj P >aAj
 
 Passo 3: atribuir V ou F às proposições simples de maneira alternada.
 
-
 Passo 4: obter o valor das demais proposições.
 
 A conjunção aAj é verdadeira somente para os casos em que a é verdadeiro e j é verdadeiro. Nos
@@ -8633,7 +8440,7 @@ igual a 3.
 
 Gabarito: Letra C.
 
-Item. 4. (CESPE/CBM AL/2021) Considere a seguinte proposição.
+4. (CESPE/CBM AL/2021) Considere a seguinte proposição.
 
 P: "Se a vegetação está seca e sobre ela cai uma faísca, ocorre um incêndio."
 Com relação à proposição apresentada, julgue o item seguinte.
@@ -8642,7 +8449,6 @@ A tabela-verdade da proposição P possui 8 linhas.
 Comentários:
 
 Considere as seguintes proposições simples:
-
 
 s: "A vegetação está seca."
 
@@ -8699,7 +8505,6 @@ tabela-verdade
 Logo, é correto afirmar que a tabela-verdade associada à proposição P possui menos de 10 linhas.
 Gabarito: CERTO.
 
-
 6.(CESPE/IBGE/2021) A quantidade de linhas da tabela-verdade da proposição composta P->QVR, em que
 P, Q e R são proposições simples e independentes entre si, que apresentam o valor lógico F é igual
 a
@@ -8742,7 +8547,6 @@ Por curiosidade, ao montar a tabela-verdade, temos o seguinte:
 
 Gabarito: Letra A.
 
-
 7.(CESPE/CBM AL/2021) Considere os conectivos lógicos usuais e assuma que as letras maiúsculas
 representam proposições lógicas e que o símbolo ~ representa a negação. Considere também que as
 três
@@ -8767,7 +8571,6 @@ Para determinar (PAQ)<->(~R), precisamos obter (PAQ) e (~R).
 Para determinar PAQ, precisamos obter P e Q.
 
 Para determinar (~R), precisamos obter R.
-
 
 Passo 4: obter o valor das demais proposições.
 
@@ -8836,7 +8639,6 @@ Note, portanto, que é correto afirmar que a última coluna da tabela-verdade re
 (PAQ)<->(~R) apresenta a sequência FVVFVFVF.
 Gabarito: CERTO.
 
-
 8.(CESPE/CBM AL/2021) Considere os conectivos lógicos usuais e assuma que as letras maiúsculas
 representam proposições lógicas e que o símbolo ~ representa a negação. Considere também que as
 três
@@ -8860,7 +8662,6 @@ Passo 2: desenhar o esquema da tabela-verdade.
 Para determinar (P->Q)VR, precisamos obter (P—>Q) e R.
 
 Para determinar (P—>Q), precisamos obter P e Q.
-
 
 Passo 4: obter o valor das demais proposições.
 
@@ -8913,7 +8714,7 @@ falsa.
 
 Gabarito: ERRADO.
 
-Item. 9. (CESPE/PC DF/2021) Com relação a estruturas lógicas, lógica de argumentação e lógica
+9. (CESPE/PC DF/2021) Com relação a estruturas lógicas, lógica de argumentação e lógica
 proposicional,
 julgue o item subsequente.
 
@@ -8923,7 +8724,6 @@ verdadeiro quando a proposição p for verdadeira e a proposição q for falsa.
 Comentários:
 
 Uma forma de julgar o item apresentado é montar a tabela-verdade da proposição composta em questão.
-
 
 Um outro modo de resolver o problema é testar valores para p e q. Note que, se fizermos p e q ambos
 falsos,
@@ -8945,7 +8745,7 @@ Por curiosidade, ao montar a tabela-verdade, percebe-se que estamos diante de um
 
 Gabarito: ERRADO.
 
-Item. 10. (CESPE/BANESE/2021) Com relação a estruturas lógicas, julgue o item a seguir, nos quais são
+10. (CESPE/BANESE/2021) Com relação a estruturas lógicas, julgue o item a seguir, nos quais são
 utilizad
 os símbolos usuais dos conectivos lógicos e as letras P, Q, R e S representam proposições lógicas.
 
@@ -8964,7 +8764,6 @@ P e Q
 representando proposições lógicas. Nessa situação, a última coluna da tabela-verdade referente à
 proposição lógica P-»(~Q), em que o símbolo ~ representa o conectivo de negação, quando escrita na
 posição horizontal, é igual a:
-
 
 © @
 
@@ -8999,7 +8798,6 @@ V
 Passo 4: obter o valor das demais proposições.
 
 ~Q apresenta o valor lógico contrário de Q.
-
 
 A condicional P-»(~Q) é falsa somente quando P é verdadeiro e (~Q) é falso. Nos demais casos, a
 condicional
@@ -9039,7 +8837,7 @@ Para o nosso caso, temos n = 2. Logo, número de linhas é 22= 4.
 
 Gabarito: ERRADO.
 
-Item. 12. (CESPE/TRF1/2017) A partir da proposição P: "Quem pode mais, chora menos.", que corresponde a
+12. (CESPE/TRF1/2017) A partir da proposição P: "Quem pode mais, chora menos.", que corresponde a
 um
 ditado popular, julgue o item.
 
@@ -9052,7 +8850,6 @@ Comentários:
 A proposição composta P não apresenta um conectivo conhecido. Assim, a transformação da
 língua
 portuguesa para a linguagem proposicional deve ser feita avaliando-se o sentido.
-
 
 Observa-se que se trata de um condicional, pois a frase nos traz o sentido de que se a primeira
 oração ocorre
@@ -9071,7 +8868,7 @@ diz que ela teria "no mínimo 8 linhas".
 
 Gabarito: ERRADO.
 
-Item. 13. (CESPE/PGE-PE/2019) Considere as seguintes proposições.
+13. (CESPE/PGE-PE/2019) Considere as seguintes proposições.
 
 Pl: Se a empresa privada causar prejuízos à sociedade e se o governo interferir na sua gestão,
 então o
@@ -9109,7 +8906,6 @@ p: "A popularidade do governo cairá."
 f: "O governo será visto como fraco."
 
 Perceba que com apenas essas cinco proposições simples podemos descrever Pl, P2, Ql e Q2:
-
 
 Pl= (eAi) —»s
 P2= s-*p
@@ -9159,7 +8955,6 @@ E JL V
 
 Para obter ~p -> ~q, devemos antes obter a negação de p e de q:
 
-
 p q ~p ~q p-*q ~p ->~q
 
 V V F F V
@@ -9188,13 +8983,12 @@ condicional ~p->~q é verdadeira. Logo, a assertiva é ERRADA.
 
 Gabarito: ERRADO.
 
-Item. 15. (CESPE/BNB/2018) A tabela a seguir mostra o início da construção de tabelas-verdade de
+15. (CESPE/BNB/2018) A tabela a seguir mostra o início da construção de tabelas-verdade de
 proposições
 compostas a partir das proposições simples P, Qe R.
 
 Os elementos da coluna da tabela-verdade correspondente à proposição (POQ)VR, de cima para baixo,
 na ordem em que aparecem, são V/V/V/F/V/F/V/V.
-
 
 Comentários:
 
@@ -9250,14 +9044,13 @@ F F V V V
 
 F F F V V
 
-
 Os elementos da coluna da tabela-verdade correspondente à proposição (P«->Q)VR, de cima para baixo,
 na
 ordem em que aparecem, realmente são V/V/V/F/V/F/V/V.
 
 Gabarito: CERTO.
 
-Item. 16. (CESPE/BNB/2018) A tabela a seguir mostra o início da construção de tabelas-verdade de
+16. (CESPE/BNB/2018) A tabela a seguir mostra o início da construção de tabelas-verdade de
 proposições
 compostas a partir das proposições simples P, Q e R.
 
@@ -9275,7 +9068,6 @@ Passo 2: desenhar o esquema da tabela-verdade.
 Para determinar P A(QVR), precisamos obter P e (QVR)
 
 Para determinar (QVR), precisamos obter Q e R.
-
 
 Passo 4: obter o valor das demais proposições.
 
@@ -9322,7 +9114,7 @@ Observe que o os valores lógicos de P Á(QVR), de cima para baixo, são V/V/V|/
 
 Gabarito: ERRADO.
 
-Item. 17. (CESPE/MEC/2015)
+17. (CESPE/MEC/2015)
 
 P Q R
 
@@ -9341,7 +9133,6 @@ F V F
 V F F
 
 F F F
-
 
 A figura acima apresenta as colunas iniciais de uma tabela-verdade, em que P, Q e R representam
 proposições lógicas, e V e F correspondem, respectivamente, aos valores lógicos verdadeiro e falso.
@@ -9394,7 +9185,6 @@ F F F V
 
 A disjunção inclusiva PV(Q<->R) só é falsa quando P e (Q<->R) forem ambos falsos.
 
-
 p Q R Q^R Pv(Q<-»R)
 
 V V V V V
@@ -9415,7 +9205,7 @@ F F F V V
 A assertiva apresenta a exata ordem obtida para os valores de PV(Q«->R).
 Gabarito: CERTO.
 
-Item. 18. (CESPE/MEC/2015)
+18. (CESPE/MEC/2015)
 
 p Q R
 
@@ -9452,7 +9242,6 @@ Comentários:
 Perceba que o Passo 1, "determinar o número de linhas da tabela-verdade", já está feito. O mesmo
 ocorre
 com o Passo 3, "atribuir V ou F às proposições simples de maneira alternada".
-
 
 Quanto ao Passo 3, observe que nessa questão é necessário obedecer aos valores alternados da tabela-
 verdade original do enunciado.
@@ -9503,12 +9292,11 @@ V F F F F
 
 F F F F V
 
-
 Escrito na horizontal, os valores de P-»(QAR) são V/V/F/V/F/V/F/|V.
 
 Gabarito: ERRADO.
 
-Item. 19. (CESPE/TJ-SE/2014) Julgue o próximo item, considerando os conectivos lógicos usuais A, V,
+19. (CESPE/TJ-SE/2014) Julgue o próximo item, considerando os conectivos lógicos usuais A, V,
 ->,<-> e
 que P, Q e R representam proposições lógicas simples.
 
@@ -9516,7 +9304,6 @@ Sabendo-se que, para a construção da tabela verdade da proposição (PVQ)<-»(
 abaixo normalmente se faz necessária, é correto afirmar que, a partir da tabela mostrada, a coluna
 correspondente à proposição (PVQ)<-»(QAR) conterá, de cima para baixo e na sequência, os seguintes
 elementos: VFFFVFFF.
-
 
 Comentários:
 
@@ -9550,7 +9337,6 @@ Para determinar (PVQ)<->(QAR), precisamos obter (PVQ) e (QAR)
 Para determinar (PVQ), precisamos obter P e Q.
 
 Para determinar (QAR), precisamos obter Q e R.
-
 
 Passo 4: obter o valor das demais proposições.
 
@@ -9616,8 +9402,7 @@ portanto, o gabarito é ERRADO.
 
 Gabarito: ERRADO.
 
-
-Item. 20. (CESPE/ANS/2013)
+20. (CESPE/ANS/2013)
 
 p Q R S
 
@@ -9673,8 +9458,7 @@ se de uma tautologia, isto é, o valor da expressão será sempre verdadeiro.
 
 Gabarito: ERRADO.
 
-
-Item. 21. (CESPE/ANS/2O13)
+21. (CESPE/ANS/2O13)
 
 p Q R S
 
@@ -9739,7 +9523,6 @@ V
 
 V
 
-
 Passo 4: obter o valor das demais proposições.
 
 (P^Q) é falsa somente quando P é verdadeiro e Q é falso. Nos demais casos é verdadeira.
@@ -9802,8 +9585,7 @@ F F F V F V
 
 Gabarito: CERTO.
 
-
-Item. 22. (CESPE/PO-AL/2013) Considerando que as letras maiúsculas P, Q e R representem proposições
+22. (CESPE/PO-AL/2013) Considerando que as letras maiúsculas P, Q e R representem proposições
 conhecidas, julgue o item.
 
 Considerando-se as diferentes combinações de valorações verdadeiras ou falsas atribuídas às
@@ -9854,12 +9636,10 @@ PAR é verdadeira quando P e R são V. Nos demais casos, é falsa.
 
 QVR é F somente quando Q e R são ambos F. Nos demais casos, é verdadeiro.
 
-
 Observe que as três proposições compostas são verdadeiras para os casos da segunda e da sétima
 linha.
 
 Gabarito: ERRADO.
-
 
 QUESTõES CoMENTADAS - CEBRASPE
 
@@ -9911,7 +9691,6 @@ condicional [(p->r)A(q-»r)J—»[r—>(pVq)] é falsa. Logo, é errado dizer qu
 sempre
 verdadeira.
 
-
 Método 1: tabela-verdade
 valores de p, q e r obtidos pelo método anterior.
 
@@ -9946,7 +9725,6 @@ Trata-se de um absurdo, pois Q não pode ser verdadeiro e falso ao mesmo tempo.
 Consequentemente, Q-»(PVQ) não pode ser falsa. Logo, trata-se de uma tautologia, isto é, o valor
 lógico da
 proposição Q-»(PVQ) é sempre verdadeiro.
-
 
 Método 1: tabela-verdade
 
@@ -10004,7 +9782,6 @@ P->Q é falsa somente quando P é V e Q é F. Nos demais casos, é verdadeira.
 
 [P->Q]AP é verdadeira quando P->Q é V e P é V. Nos demais casos, é falsa.
 
-
 p Q P—>Q (P—>Q)AP
 V V V V
 
@@ -10046,7 +9823,6 @@ Para obter ~P-> (P-»Q), precisamos determinar ~P e (P-»Q).
 Para obter ~P, precisamos determinar P.
 
 Para obter (P-»Q), precisamos determinar PeQ.
-
 
 Passo 4: obter o valor das demais proposições.
 
@@ -10104,7 +9880,6 @@ Vamos tentar mostrar que P-»[QV(~R)J pode ser falsa. Se chegarmos em um absurdo
 não
 pode ser falsa e, portanto, é sempre verdadeira.
 
-
 Observe que para a condicional ser falsa, seu precedente deve ser verdadeiro e seu consequente deve
 ser
 falso. Assim, P é V e QV(~R) é F.
@@ -10129,7 +9904,7 @@ valores de P, Q e R obtidos pelo método anterior.
 
 Gabarito: ERRADO.
 
-Item. 6. (CESPE/DPEN/2013) Considerando que, P, Q e R sejam proposições conhecidas, julgue o próximo
+6. (CESPE/DPEN/2013) Considerando que, P, Q e R sejam proposições conhecidas, julgue o próximo
 item.
 
 A proposição [(PA Q) -> R] V R é uma tautologia, ou seja, ela é sempre verdadeira, independentemente
@@ -10154,13 +9929,12 @@ ser verdadeiro.
 
 Para (PA Q) ser verdadeiro, P é V e Q é V.
 
-
 Observe que não chegamos a uma contradição. Para P verdadeiro, Q verdadeiro e R falso, temos que a
 proposição original é falsa. Logo, não se trata de uma tautologia.
 
 Gabarito: ERRADO.
 
-Item. 7. (CESPE/ANCINE/2012) A proposição [P<->Q]->[(--P)V(--Q)] tem somente o valor lógico V,
+7. (CESPE/ANCINE/2012) A proposição [P<->Q]->[(--P)V(--Q)] tem somente o valor lógico V,
 independentemente dos valores lógicos de P e Q.
 
 Comentários:
@@ -10188,7 +9962,7 @@ verdadeiro e Q verdadeiro. Logo, a assertiva está errada.
 
 Gabarito: ERRADO.
 
-Item. 8. (CESPE/DETRAN-DF/2009) Considerando que A, B e C sejam proposições, que os símbolos V e A
+8. (CESPE/DETRAN-DF/2009) Considerando que A, B e C sejam proposições, que os símbolos V e A
 representam os conectivos "ou" e "e", respectivamente, e que o símbolo - denota o modificador
 negação,
 julgue o item a seguir.
@@ -10203,7 +9977,6 @@ realizar por tabela-verdade, uma vez que temos apenas duas proposições simples
 Passo 1: determinar o número de linhas da tabela-verdade.
 
 Temos 2 proposições e, portanto, 22 = 4 linhas.
-
 
 Passo 2 e Passo 3: desenhar o esquema da tabela-verdade e atribuir V ou F às proposições simples de
 maneira alternada.
@@ -10249,8 +10022,7 @@ Observe que, de fato, (AVB)A[(~A)A(~B)] é sempre falsa.
 
 Gabarito: CERTO.
 
-
-Item. 9. (CESPE/EMAP/2018) Julgue o item seguinte, relativo à lógica proposicional e de argumentação.
+9. (CESPE/EMAP/2018) Julgue o item seguinte, relativo à lógica proposicional e de argumentação.
 
 Se P e Q são proposições lógicas simples, então a proposição composta S = [P->Q] O [Qv(~P)] é uma
 tautologia, isto é, independentemente dos valores lógicos V ou F atribuídos a P e Q, o valor lógico
@@ -10289,7 +10061,6 @@ Qv(~P) é falsa somente quando QéFe~PéFao mesmo tempo.
 Caso
 contrário, a bicondicional é falsa.
 
-
 p Q ~P P—>Q Qv(~P) [P—>Q]^->[Qv(~P)]
 
 V V F V V V
@@ -10303,7 +10074,7 @@ Temos, portanto, que o valor lógico da proposição composta em questão é sem
 
 Gabarito: CERTO.
 
-Item. 10. (CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
+10. (CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
 
 Se P e Q forem proposições simples, então a proposição -'[PV(-'Q)]-o[(-P)AQ] é uma tautologia.
 Comentários:
@@ -10327,7 +10098,6 @@ Para obter ~Q, precisamos determinar Q.
 
 Para obter (~P)AQ, precisamos determinar ~PeQ.
 Para obter ~P, precisamos determinar P.
-
 
 Passo 4: obter o valor das demais proposições.
 
@@ -10356,17 +10126,16 @@ Observe que a proposição avaliada é uma tautologia.
 
 Gabarito: CERTO.
 
-
 LISTA DE QUESTõES - CEBRASPE
 
 Introdução às proposições
 l.(CESPE/PETROBRAS/2022) A seguinte afirmação é uma proposição: A quantidade de formigas no planeta
 Terra é maior que a quantidade de grãos de areia.
 
-Item. 2. (CESPE/PETROBRAS/2022) Acerca de lógica matemática, julgue o item a seguir.
+2. (CESPE/PETROBRAS/2022) Acerca de lógica matemática, julgue o item a seguir.
 A frase "Saia daqui!" é uma proposição simples.
 
-Item. 3. (CESPE/ADAPAR/2021) Considere as seguintes construções.
+3. (CESPE/ADAPAR/2021) Considere as seguintes construções.
 
 * P: "Vacinação é uma medida efetiva para controle de doenças".
 
@@ -10388,7 +10157,7 @@ d) Apenas P e R são proposições.
 
 e) P, Qe R são proposições.
 
-Item. 4. (CESPE/ADAPAR/2021) Considere as seguintes construções.
+4. (CESPE/ADAPAR/2021) Considere as seguintes construções.
 
 * P: "A plantação foi pulverizada".
 
@@ -10412,7 +10181,6 @@ cujo valor lógico pode ser verdadeiro ou falso.
 
 e) Nem P nem Qsão proposições.
 
-
 5.(CESPE/TJ-PR/2O19) Considere as seguintes sentenças.
 
 I. A ouvidoria da justiça recebe críticas e reclamações relacionadas ao Poder Judiciário do estado.
@@ -10432,7 +10200,7 @@ d) Apenas as sentenças II e III são proposições.
 
 e) Todas as sentenças são proposições.
 
-Item. 6. (CESPE/FINEP/2009) Acerca de proposições, considere as seguintes frases.
+6. (CESPE/FINEP/2009) Acerca de proposições, considere as seguintes frases.
 
 I. Os Fundos Setoriais de Ciência e Tecnologia são instrumentos de financiamento de projetos.
 
@@ -10456,7 +10224,7 @@ d) I, II e III.
 
 e) I, II e IV.
 
-Item. 7. (CESPE/MPE-TO/2006) Julgue o item subsequente.
+7. (CESPE/MPE-TO/2006) Julgue o item subsequente.
 Na lista abaixo, há exatamente três proposições.
 
 I. Faça suas tarefas.
@@ -10469,8 +10237,7 @@ IV. Esta proposição é falsa.
 
 V. O número 1.024 é uma potência de 2.
 
-
-Item. 8. (CESPE/TRE-ES/2011) Entende-se por proposição todo conjunto de palavras ou símbolos
+8. (CESPE/TRE-ES/2011) Entende-se por proposição todo conjunto de palavras ou símbolos
 que exprimem
 um pensamento de sentido completo, isto é, que afirmam fatos ou exprimam
 juízos a respeito de
@@ -10486,24 +10253,24 @@ proposição são verdadeiro e falso. Com base nessas informações, julgue o it
 
 A frase "Que dia maravilhoso!" consiste em uma proposição objeto de estudo da lógica bivalente.
 
-Item. 9. (CESPE/ANS/2013) A expressão "Como não se indignar, assistindo todos os dias a
+9. (CESPE/ANS/2013) A expressão "Como não se indignar, assistindo todos os dias a
 atos de violência
 fortuitos estampados em todos os meios de comunicação do Brasil e do mundo?" é uma
 proposição lógica
 que pode ser representada por P-»Q, em que P e Q são proposições lógicas convenientemente
 escolhidas.
 
-Item. 10. (CESPE/INSS/2016) Julgue o item a seguir, relativos a raciocínio lógico e operações com
+10. (CESPE/INSS/2016) Julgue o item a seguir, relativos a raciocínio lógico e operações com
 conjuntos.
 
 A sentença "Bruna, acesse a Internet e verifique a data da aposentadoria do Sr.
 Carlos!" é uma proposição
 composta que pode ser escrita na forma p A q.
 
-Item. 11. (CESPE/CBM-AL/2017) A respeito de proposições lógicas, julgue o item a seguir.
+11. (CESPE/CBM-AL/2017) A respeito de proposições lógicas, julgue o item a seguir.
 A sentença "Soldado, cumpra suas obrigações." é uma proposição simples.
 
-Item. 12. (CESPE/AFT/2013) Julgue o item subsequente, relacionado a lógica proposicional.
+12. (CESPE/AFT/2013) Julgue o item subsequente, relacionado a lógica proposicional.
 
 A sentença "Quem é o maior defensor de um Estado não intervencionista, que
 permite que as leis de
@@ -10513,36 +10280,33 @@ ministro da Fazenda?" é uma proposição composta que pode ser corretamente
 representada na forma
 (PVQ)AR, em que P, Q e R são proposições simples convenientemente escolhidas.
 
-
 GABARITo - CEBRASPE
 
 Introdução às proposições
 
+1. CERTO
 
-Item. 1. CERTO
+2. ERRADO
 
-Item. 2. ERRADO
+3. LETRA D
 
-Item. 3. LETRA D
+4. LETRA A
 
-Item. 4. LETRA A
+5. LETRA C
 
-Item. 5. LETRA C
+6. LETRA A
 
-Item. 6. LETRA A
+7. ERRADO
 
-Item. 7. ERRADO
+8. ERRADO
 
-Item. 8. ERRADO
+9. ERRADO
 
-Item. 9. ERRADO
+10. ERRADO
 
-Item. 10. ERRADO
+11. ERRADO
 
-Item. 11. ERRADO
-
-Item. 12. ERRADO
-
+12. ERRADO
 
 LISTA DE QUESTõES - CEBRASPE
 
@@ -10592,49 +10356,45 @@ e) A Polícia Civil de determinado município não prendeu, na sexta-feira, um j
 22 anos de idade que
 não é suspeito de ter cometido assassinatos em série.
 
-Item. 3. (CESPE/ANTAQ/2014) Julgue o item seguinte, acerca da proposição P: Quando acreditar
+3. (CESPE/ANTAQ/2014) Julgue o item seguinte, acerca da proposição P: Quando acreditar
 que estou certo,
 não me importarei com a opinião dos outros.
 
 Uma negação correta da proposição "Acredito que estou certo" seria "Acredito que não estou certo".
 
-Item. 4. (CESPE/TRT10/2013) A negação da proposição "A empresa não entrega o que promete"
+4. (CESPE/TRT10/2013) A negação da proposição "A empresa não entrega o que promete"
 é "A empresa
 entrega o que não promete".
 
-
-Item. 5. (CESPE/MPU/2013) A negação da proposição "A licitação anterior não pode ser
+5. (CESPE/MPU/2013) A negação da proposição "A licitação anterior não pode ser
 repetida sem prejuízo
 para a administração" está corretamente expressa por "A licitação anterior
 somente poderá ser repetida
 com prejuízo para a administração".
 
-
 Proposições simples
 
-Item. 1. ERRADO
+1. ERRADO
 
-Item. 2. LETRA B
+2. LETRA B
 
-Item. 3. ERRADO
+3. ERRADO
 
-Item. 4. ERRADO
+4. ERRADO
 
-Item. 5. ERRADO
-
+5. ERRADO
 
 x 205
 
-
 Proposições compostas
 
-Item. 1. (CESPE/PETROBRAS/2022) Julgue o item seguinte, considerando a proposição P: "Como
+1. (CESPE/PETROBRAS/2022) Julgue o item seguinte, considerando a proposição P: "Como
 nossas reservas
 de matéria prima se esgotaram e não encontramos um novo nicho de mercado, entramos em falência".
 
 Caso a proposição "entramos em falência" seja falsa, a proposição P também será falsa.
 
-Item. 2. (CESPE/SEFAZ SE/2022) Proposição P: Se o auditor for diligente e a auditoria bem
+2. (CESPE/SEFAZ SE/2022) Proposição P: Se o auditor for diligente e a auditoria bem
 planejada, a fraude
 será encontrada e o responsável será punido.
 
@@ -10655,7 +10415,7 @@ d) 3
 
 e) 4
 
-Item. 3. (CESPE/SEFAZ CE/2021) Julgue o item seguinte, considerando a estrutura
+3. (CESPE/SEFAZ CE/2021) Julgue o item seguinte, considerando a estrutura
 lógica das situações
 apresentadas em cada caso.
 
@@ -10663,7 +10423,7 @@ Suponha que a afirmação "Carlos pagará o imposto ou Ana não comprará a casa
 falsa. Nesse caso,
 é correto concluir que Ana comprará a casa.
 
-Item. 4. (CESPE/MJSP/2021) Julgue o seguinte item, considerando a proposição P: "Se
+4. (CESPE/MJSP/2021) Julgue o seguinte item, considerando a proposição P: "Se
 o responsável pela
 indicação fizer sua parte e seus aliados trabalharem duro, vencerão.".
 
@@ -10671,7 +10431,7 @@ Sendo verdadeiras a proposição P e as proposições "não venceram" e "os
 aliados do responsável pela
 indicação trabalharam duro", pode-se concluir que o responsável pela indicação não fez sua parte.
 
-Item. 5. (CESPE/SEFAZ-AL/2020) Pl: "Se há carência de recursos tecnológicos no setor Alfa,
+5. (CESPE/SEFAZ-AL/2020) Pl: "Se há carência de recursos tecnológicos no setor Alfa,
 então o trabalho dos
 servidores públicos que atuam nesse setor pode ficar prejudicado.".
 
@@ -10683,8 +10443,7 @@ proposição Pl será falsa.
 
 0 0
 
-
-Item. 6. (CESPE/SEFAZ-AL/2020) P4: "Se os beneficiários dos serviços prestados pelo
+6. (CESPE/SEFAZ-AL/2020) P4: "Se os beneficiários dos serviços prestados pelo
 setor Alfa são mal
 atendidos, então os beneficiários dos serviços prestados por esse setor padecem.".
 
@@ -10692,7 +10451,7 @@ Se a proposição P4 for verdadeira, então a proposição "Os beneficiários do
 prestados pelo setor
 Alfa são mal atendidos." será, necessariamente, verdadeira.
 
-Item. 7. (CESPE/PGE-PE/2019) Acerca da lógica sentenciai, julgue o item que se segue.
+7. (CESPE/PGE-PE/2019) Acerca da lógica sentenciai, julgue o item que se segue.
 
 Se as proposições "A afirmação foi feita pelo político." e "A população
 acredita na afirmação feita pelo
@@ -10700,14 +10459,14 @@ político." forem falsas, então a proposição "Se a afirmação foi feita pelo
 população não acredita
 na afirmação feita pelo político." também será falsa.
 
-Item. 8. (CESPE/INSS/2016) Julgue o item a seguir, relativos a raciocínio lógico e operações com
+8. (CESPE/INSS/2016) Julgue o item a seguir, relativos a raciocínio lógico e operações com
 conjuntos.
 
 Caso a proposição simples "Aposentados são idosos" tenha valor lógico falso,
 então o valor lógico da
 proposição "Aposentados são idosos, logo eles devem repousar" será falso.
 
-Item. 9. (CESPE/TRT17/2009) Caso a proposição "No Brasil havia, em média, em 2007, seis
+9. (CESPE/TRT17/2009) Caso a proposição "No Brasil havia, em média, em 2007, seis
 juízes para cada 100
 mil habitantes na justiça do trabalho estadual, mas, no estado do Espírito Santo, essa
 média era de 13
@@ -10725,7 +10484,7 @@ Se a proposição "João desejava ir à Lua, mas não conseguiu" for verdadeira,
 proposição P será
 necessariamente falsa.
 
-Item. 11. (CESPE/EBSERH/2018) Considere as seguintes proposições: P: O paciente receberá
+11. (CESPE/EBSERH/2018) Considere as seguintes proposições: P: O paciente receberá
 alta; Q: O paciente
 receberá medicação; R: O paciente receberá visitas.
 
@@ -10737,8 +10496,7 @@ Se a proposição Q- >[~R] for falsa, então será também falsa a proposição:
 paciente receba visitas,
 ele não receberá medicação.
 
-
-Item. 12. (CESPE/PC-CE/2012) Considere como verdadeira a proposição seguinte.
+12. (CESPE/PC-CE/2012) Considere como verdadeira a proposição seguinte.
 
 P4: Se teve treinamento adequado e se dedicou nos estudos, então o policial tem
 informações precisas ao
@@ -10752,7 +10510,7 @@ informações precisas ao tomar decisões", então a proposição "O policial se
 dedicou nos estudos" será,
 necessariamente, verdadeira.
 
-Item. 13. (CESPE/TRE PE/2016) Considerando que p, q, r e s sejam proposições nas quais p
+13. (CESPE/TRE PE/2016) Considerando que p, q, r e s sejam proposições nas quais p
 e s sejam verdadeiras
 e q e r sejam falsas, assinale a opção em que a sentença apresentada seja verdadeira.
 
@@ -10764,7 +10522,7 @@ d) ~[(~pVq)A(~qVr)A(~rVs)]V(~pVs)
 
 e) (pAs)A(qV~s)
 
-Item. 14. (CESPE/Técnico PRF/2012) Um jovem, visando ganhar um novo smartphone no
+14. (CESPE/Técnico PRF/2012) Um jovem, visando ganhar um novo smartphone no
 dia das crianças,
 apresentou à sua mãe a seguinte argumentação: "Mãe, se tenho 25 anos, moro com você
 e papai, dou
@@ -10788,12 +10546,11 @@ tenho 25 anos, moro com você e papai, dou despesas a vocês e dependo de mesada
 então eu não ajo
 como um homem da minha idade".
 
-Item. 15. (CESPE/TRE-GO/2015) A respeito de lógica proposicional, julgue o item subsequente.
+15. (CESPE/TRE-GO/2015) A respeito de lógica proposicional, julgue o item subsequente.
 
 Se P, Q e R forem proposições simples e se T for a proposição composta
 falsa [PA(--Q)]—>R, então,
 necessariamente, P, Q e R serão proposições verdadeiras.
-
 
 16.(CESPE/TRE-RJ/2012) P: Se não há autorização legislativa ou indicação dos
 recursos financeiros
@@ -10809,7 +10566,7 @@ sejam verdadeiras e que as proposições "Há indicação de recursos financeiro
 abertura de créditos
 especiais" sejam falsas. Nesse caso, a proposição P será verdadeira.
 
-Item. 17. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à
+17. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à
 conjunção "e"; V, à
 disjunção "ou"; à condicional "se..., então"; <->, à bicondicional "se, e
 somente se"; ~ corresponda à
@@ -10821,7 +10578,7 @@ Se Q for uma proposição verdadeira, então, independentemente dos valores lóg
 e R, a proposição
 S será sempre verdadeira.
 
-Item. 18. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à
+18. (CESPE/SERPRO/2013) Considerando que o símbolo lógico A corresponda à
 conjunção "e"; V, à
 disjunção "ou"; à condicional "se..., então"; <->, à bicondicional "se, e
 somente se"; ~ corresponda
@@ -10833,7 +10590,7 @@ Se P for uma proposição verdadeira e se Q e R forem falsas, então as proposi�
 e [P-»(QVR)]A(P<-»Q)
 terão valores lógicos diferentes.
 
-Item. 19. (CESPE/CAM DEP/2012) Admitindo-se que a proposição "Eu não recebi dinheiro para
+19. (CESPE/CAM DEP/2012) Admitindo-se que a proposição "Eu não recebi dinheiro para
 pressionar pela
 aprovação desse projeto de lei" seja verdadeira, também será verdadeira a
 proposição "Se ele não
@@ -10841,7 +10598,7 @@ depositou dinheiro em minha conta, eu não recebi dinheiro para pressionar pela
 aprovação desse projeto
 de lei", mesmo que seja falsa a proposição "Ele não depositou dinheiro em minha conta".
 
-Item. 20. (CESPE/TCE-ES/2012) Proposições são sentenças que podem ser julgadas como
+20. (CESPE/TCE-ES/2012) Proposições são sentenças que podem ser julgadas como
 verdadeiras — V — ou
 falsas — F —, de forma que um julgamento exclui o outro, e são simbolizadas por
 letras maiusculas, como
@@ -10866,14 +10623,13 @@ contrário, será V
 <—> bicondicional P< >Q P se, e somente se, Q V, se P e Q tiverem os mesmos
 valores; caso contrário, será F
 
-
 Considerando as definições acima e a proposição {(PVQ)->[RA(~S)]}V[(PAS)<-»(QAR)],
 julgue o item a
 seguir.
 
 Se P e S forem V e Q e R forem F, então o valor lógico da proposição em questão será F.
 
-Item. 21. (CESPE/TRE-RJ/2012) Julgue o item a seguir tendo como base a seguinte proposição
+21. (CESPE/TRE-RJ/2012) Julgue o item a seguir tendo como base a seguinte proposição
 P: "Se eu for
 barrado pela lei da ficha limpa, não poderei ser candidato nessas eleições, e se eu
 não registrar minha
@@ -10903,44 +10659,42 @@ S: Algum analista recebeu apenas 2 processos.
 Com base nessas informações, julgue o item que se segue.
 P->Q é sempre verdadeira.
 
-Item. 23. (CESPE/MPE-TO/2006) A proposição P: "Ser honesto é condição necessária
+23. (CESPE/MPE-TO/2006) A proposição P: "Ser honesto é condição necessária
 para um cidadão ser
 admitido no serviço público" é corretamente simbolizada na forma A -> B, em
 que A representa "ser
 honesto" e B representa "para um cidadão ser admitido no serviço público" .
 
-
 GABARITo - CEBRASPE
 
 Proposições compostas
 
-Item. 1. ERRADO 9.CERTO
+1. ERRADO 9.CERTO
 17.CERTO
 
-Item. 2. LETRA B 10. ERRADO
-Item. 18. ERRADO
+2. LETRA B 10. ERRADO
+18. ERRADO
 
-Item. 3. CERTO 11. CERTO
+3. CERTO 11. CERTO
 19.CERTO
 
-Item. 4. CERTO 12. ERRADO
+4. CERTO 12. ERRADO
 20.CERTO
 
 5.CERTO 13.LETRA D
-Item. 21. ERRADO
+21. ERRADO
 
-Item. 6. ERRADO 14. ERRADO
-Item. 22. CERTO
+6. ERRADO 14. ERRADO
+22. CERTO
 
-Item. 7. ERRADO 15. ERRADO
-Item. 23. ERRADO
+7. ERRADO 15. ERRADO
+23. ERRADO
 
-Item. 8. ERRADO 16.CERTO
-
+8. ERRADO 16.CERTO
 
 Conversão da linguagem natural para a proposicional
 
-Item. 1. (CESPE/PETROBRAS/2022) Julgue o item seguinte, considerando a proposição P: "Como
+1. (CESPE/PETROBRAS/2022) Julgue o item seguinte, considerando a proposição P: "Como
 nossas reservas
 de matéria prima se esgotaram e não encontramos um novo nicho de mercado, entramos em falência".
 
@@ -10950,7 +10704,7 @@ estrutura lógica, ser substituída por: "Se nossas reservas de matéria
 prima se esgotarem e não
 encontrarmos um novo nicho de mercado, então entraremos em falência".
 
-Item. 2. (CESPE/ADAPAR/2021) Sendo A, B, C e D proposições simples escolhidas adequadamente,
+2. (CESPE/ADAPAR/2021) Sendo A, B, C e D proposições simples escolhidas adequadamente,
 assinale a
 opção que, no âmbito da lógica proposicional, apresenta uma expressão
 lógica que representa
@@ -10970,7 +10724,7 @@ d) (A—>BAC)AD
 
 e) (AABACHD
 
-Item. 3. (CESPE/BANESE/2021) Com relação a estruturas lógicas, julgue o item a seguir, nos
+3. (CESPE/BANESE/2021) Com relação a estruturas lógicas, julgue o item a seguir, nos
 quais são utilizados
 os símbolos usuais dos conectivos lógicos e as letras P, Q, R e S representam proposições lógicas.
 
@@ -10982,7 +10736,7 @@ governo federal e pelos governos estaduais dessa região no ano de 2002" pode se
 expressa corretamente
 pela proposição lógica (PAQ)=>(RAS).
 
-Item. 4. (CESPE/SEFAZ-RS/2019) No exercício de suas atribuições profissionais, auditores
+4. (CESPE/SEFAZ-RS/2019) No exercício de suas atribuições profissionais, auditores
 fiscais sempre fazem
 afirmações verdadeiras, ao passo que sonegadores sempre fazem proposições falsas.
 
@@ -10997,7 +10751,6 @@ apresenta uma afirmação verdadeira.
 
 0 0
 
-
 a) "Saulo não é um pequeno comerciante".
 
 b) "Saulo vende mais a cada mês".
@@ -11008,7 +10761,7 @@ d) "Saulo paga seus impostos em dia".
 
 e) "Se Saulo vende mais em um mês, paga seus impostos em dia".
 
-Item. 5. (CESPE/SEFAZ-RS/2017) As proposições P, Q e R são as descritas a seguir.
+5. (CESPE/SEFAZ-RS/2017) As proposições P, Q e R são as descritas a seguir.
 
 * P: "Ele cuida das nascentes".
 
@@ -11032,7 +10785,7 @@ acampar".
 e) "Se ele não cuida das nascentes, então ela cuida do meio ambiente e eles não gostam de
 acampar".
 
-Item. 6. (CESPE/TC-DF/2012) Com a finalidade de reduzir as despesas mensais com
+6. (CESPE/TC-DF/2012) Com a finalidade de reduzir as despesas mensais com
 energia elétrica na sua
 repartição, o gestor mandou instalar, nas áreas de circulação, sensores de presença e
 de claridade natural
@@ -11055,8 +10808,7 @@ A sentença "Maria é mais bonita que Sílvia, pois Maria é Miss Universo e
 Sílvia é Miss Brasil" é
 representada corretamente pela expressão simbólica (P A Q) -» R.
 
-
-Item. 8. (CESPE/MDIC/2014) Considerando que P seja a proposição "A Brasil Central
+8. (CESPE/MDIC/2014) Considerando que P seja a proposição "A Brasil Central
 é uma das ruas mais
 movimentadas do centro da cidade e lá o preço dos aluguéis é alto, mas se o
 interessado der três passos,
@@ -11068,7 +10820,7 @@ A proposição P pode ser expressa corretamente na forma QARA(S->T), em que Q, R
 T representem
 proposições convenientemente escolhidas.
 
-Item. 9. (CESPE/TRT10/2013) Ao noticiar que o presidente do país X teria vetado um projeto
+9. (CESPE/TRT10/2013) Ao noticiar que o presidente do país X teria vetado um projeto
 de lei, um jornalista
 fez a seguinte afirmação. Se o presidente não tivesse vetado o projeto, o motorista
 que foi pego dirigindo
@@ -11097,7 +10849,7 @@ A proposição A estará corretamente simbolizada por P—>QAR, em que os símbo
 "A" representam,
 respectivamente, os conectivos lógicos denominados condicional e conjunção.
 
-Item. 10. (CESPE/TRE RJ/2012) Julgue o item a seguir tendo como base a seguinte proposição
+10. (CESPE/TRE RJ/2012) Julgue o item a seguir tendo como base a seguinte proposição
 P: "Se eu for
 barrado pela lei da ficha limpa, não poderei ser candidato nessas eleições, e se eu
 não registrar minha
@@ -11122,7 +10874,6 @@ a construção da ferrovia e não haverá demanda suficiente por sua utilizaçã
 nos primeiros anos de
 operação, então a taxa interna de retorno do negócio será baixa".
 
-
 12.(CESPE/TRE-GO/2015) A respeito de lógica proposicional, julgue o item subsequente.
 
 A proposição "Quando um indivíduo consome álcool ou tabaco em excesso ao
@@ -11145,7 +10896,7 @@ A sentença "No Livro dos Heróis da Pátria consta o nome de Francisco José do
 Nascimento, o Dragão do
 Mar, por sua atuação como líder abolicionista no estado do Ceará." é uma proposição simples.
 
-Item. 15. (CESPE/MME/2013) A proposição "As fontes de energia fósseis estão, pouco
+15. (CESPE/MME/2013) A proposição "As fontes de energia fósseis estão, pouco
 a pouco, sendo
 substituídas por fontes de energia menos poluentes, como a energia elétrica, a eólica
 e a solar - as fontes
@@ -11164,7 +10915,7 @@ e) PAQ
 preventiva dos
 sistemas judicial e policial contra todo ato de intolerância" é uma proposição composta.
 
-Item. 17. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
+17. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
 
 A frase "Todo ato de violência tem como consequência outro ato de
 violência" estará simbolicamente
@@ -11172,7 +10923,7 @@ representada, de maneira correta, na forma P—>Q, em que P e Q
 sejam proposições lógicas
 convenientemente escolhidas.
 
-Item. 18. (CESPE/ABIN/2018) Julgue o item a seguir, a respeito de lógica proposicional.
+18. (CESPE/ABIN/2018) Julgue o item a seguir, a respeito de lógica proposicional.
 
 A proposição "A vigilância dos cidadãos exercida pelo Estado é consequência da
 radicalização da sociedade
@@ -11180,14 +10931,13 @@ civil em suas posições políticas." pode ser corretamente representada pela ex
 lógica P->Q, em que
 P e Q são proposições simples escolhidas adequadamente.
 
-
-Item. 19. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
+19. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
 
 A expressão "Viva Mandela, viva Mandela! gritava a multidão
 entusiasmada" estará corretamente
 representada na forma PVQ, em que P e Q sejam proposições lógicas adequadamente escolhidas.
 
-Item. 20. (CESPE/BASA/2012) P: "Se o consumidor não precisa financiar o veículo, então ele
+20. (CESPE/BASA/2012) P: "Se o consumidor não precisa financiar o veículo, então ele
 tem acesso a taxas
 mais baixas para financiamento."
 
@@ -11195,13 +10945,13 @@ A proposição acima também pode ser expressa da seguinte forma: "Quem não
 precisa financiar o
 automóvel tem acesso a taxas mais baixas para financiamento".
 
-Item. 21. (CESPE/FUB/2013) Com base na proposição P: "Precisando de ajuda, o filho recorre
+21. (CESPE/FUB/2013) Com base na proposição P: "Precisando de ajuda, o filho recorre
 ao pai", julgue o
 próximo item, relativo a lógica proposicional.
 
 A proposição P estará corretamente expressa por "Se precisa de ajuda, o filho recorre ao pai".
 
-Item. 22. (CESPE/TRT10/2013) PI: Além de ser suportado pela estrutura óssea da coluna, seu
+22. (CESPE/TRT10/2013) PI: Além de ser suportado pela estrutura óssea da coluna, seu
 peso é suportado
 também por sua estrutura muscular.
 
@@ -11211,7 +10961,7 @@ proposições convenientemente escolhidas e o símbolo A representa o
 conectivo lógico denominado
 conjunção.
 
-Item. 23. (CESPE/IBAMA/2013) Considere que as proposições sejam representadas por letras
+23. (CESPE/IBAMA/2013) Considere que as proposições sejam representadas por letras
 maiúsculas e que
 se utilizem os seguintes símbolos para os conectivos lógicos: A - conjunção; V -
 disjunção; => - condicional;
@@ -11222,7 +10972,7 @@ A proposição "Se João implica com Maria e Maria implica com João, então evi
 que a relação entre
 João e Maria é conflituosa" pode ser corretamente representada por [(P=>Q)A(Q=>P)]^R.
 
-Item. 24. (CESPE/INSS/2016) Com relação a lógica proposicional, julgue o item subsequente.
+24. (CESPE/INSS/2016) Com relação a lógica proposicional, julgue o item subsequente.
 
 Na lógica proposicional, a oração "Antônio fuma 10 cigarros por dia, logo a
 probabilidade de ele sofrer um
@@ -11240,8 +10990,7 @@ aparelhos cadastrados em planos tarifados por ligações é quatro vezes
 inferior à quantidade de
 interrupções nas chamadas realizadas de aparelhos cadastrados em planos tarifados por minutos".
 
-
-Item. 26. (CESPE/ANVISA/2016) Considerando os símbolos normalmente usados para
+26. (CESPE/ANVISA/2016) Considerando os símbolos normalmente usados para
 representar os conectivos
 lógicos, julgue os itens seguintes, relativos a lógica proposicional e à
 lógica de argumentação. Nesse
@@ -11252,13 +11001,13 @@ A sentença "A fiscalização federal é imprescindível para manter a qualidade
 tanto dos alimentos quanto
 dos medicamentos que a população consome" pode ser representada simbolicamente por PAQ.
 
-Item. 27. (CESPE/AFT/2013) Julgue o item subsequente, relacionado a lógica proposicional.
+27. (CESPE/AFT/2013) Julgue o item subsequente, relacionado a lógica proposicional.
 
 A sentença "A presença de um órgão mediador e regulador das relações entre empregados
 e patrões é
 necessária em uma sociedade que busca a justiça social" é uma proposição simples.
 
-Item. 28. (CESPE/STF/2013) Julgue o item seguinte, relativo à lógica proposicional.
+28. (CESPE/STF/2013) Julgue o item seguinte, relativo à lógica proposicional.
 
 A sentença "A indicação de juízes para o STF deve ser consequência de um
 currículo que demonstre
@@ -11266,19 +11015,19 @@ excelência e grande experiência na magistratura" pode ser corretamente represe
 forma P->Q, em
 que P e Q sejam proposições simples convenientemente escolhidas.
 
-Item. 29. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
+29. (CESPE/ANS/2013) Com relação às proposições lógicas, julgue o próximo item.
 
 A frase "O ser humano precisa se sentir apreciado, valorizado para crescer com saúde
 física, emocional e
 psíquica" é uma proposição lógica simples.
 
-Item. 30. (CESPE/TRE-GO/2015) A respeito de lógica proposicional, julgue o item subsequente.
+30. (CESPE/TRE-GO/2015) A respeito de lógica proposicional, julgue o item subsequente.
 
 A proposição "No Brasil, 20% dos acidentes de trânsito ocorrem com indivíduos
 que consumiram bebida
 alcoólica" é uma proposição simples.
 
-Item. 31. (CESPE/TJ-SE/2014) Julgue o item que se segue, relacionados à lógica proposicional.
+31. (CESPE/TJ-SE/2014) Julgue o item que se segue, relacionados à lógica proposicional.
 
 A sentença "A crença em uma justiça divina, imparcial, incorruptível e infalível é
 lenitivo para muitos que
@@ -11286,14 +11035,13 @@ desconhecem os caminhos para a busca de seus direitos, assegurados na Constitui�
 uma proposição
 lógica simples.
 
-Item. 32. (CESPE/STF/2013) Julgue o item seguinte, relativo à lógica proposicional.
+32. (CESPE/STF/2013) Julgue o item seguinte, relativo à lógica proposicional.
 
 A sentença "um ensino dedicado à formação de técnicos negligencia a formação
 de cientistas" constitui
 uma proposição simples.
 
-
-Item. 33. (CESPE/TJ AC/2012) Considerando que as proposições lógicas sejam
+33. (CESPE/TJ AC/2012) Considerando que as proposições lógicas sejam
 representadas por letras
 maiúsculas, julgue o próximo item, relativo a lógica proposicional e de argumentação.
 
@@ -11301,7 +11049,7 @@ A sentença "A justiça e a lei nem sempre andam pelos mesmos caminhos"
 pode ser representada
 simbolicamente por PAQ, em que as proposições P e Q são convenientemente escolhidas.
 
-Item. 34. (CESPE/CADE/2014) Considerando os conectivos lógicos usuais e que as letras
+34. (CESPE/CADE/2014) Considerando os conectivos lógicos usuais e que as letras
 maiúsculas representem
 proposições lógicas simples, julgue o item seguinte acerca da lógica proposicional.
 
@@ -11311,7 +11059,7 @@ Servidores Civis da União, das Autarquias e das Fundações Públicas Federais"
 é uma proposição lógica
 composta.
 
-Item. 35. (CESPE/STF/2013) Julgue o item abaixo, relacionado à lógica proposicional.
+35. (CESPE/STF/2013) Julgue o item abaixo, relacionado à lógica proposicional.
 
 A sentença: "Um governo efetivo precisa de regras rígidas, de tribunais que desempenhem
 suas funções
@@ -11319,56 +11067,54 @@ com seriedade e celeridade e de um sistema punitivo rigoroso" pode ser corretame
 representada pela
 expressão (PAQ)AR, em que P, Q e R sejam proposições convenientemente escolhidas.
 
-
 GABARITo - CEBRASPE
 
 Conversão da linguagem natural para a proposicional
 
-Item. 1. CERTO 13. ERRADO
-Item. 25. ERRADO
+1. CERTO 13. ERRADO
+25. ERRADO
 
-Item. 2. LETRA C 14.CERTO
-Item. 26. ERRADO
+2. LETRA C 14.CERTO
+26. ERRADO
 
-Item. 3. ERRADO 15.LETRA D
-Item. 27. CERTO
+3. ERRADO 15.LETRA D
+27. CERTO
 
 4.LETRA B 16. ERRADO
-Item. 28. ERRADO
+28. ERRADO
 
-Item. 5. LETRA B 17. ERRADO
+5. LETRA B 17. ERRADO
 29.CERTO
 
-Item. 6. CERTO 18. ERRADO
-Item. 30. CERTO
+6. CERTO 18. ERRADO
+30. CERTO
 
 7.CERTO 19. ERRADO
-Item. 31. CERTO
+31. CERTO
 
 8.CERTO 20.CERTO
-Item. 32. CERTO
+32. CERTO
 
 9.CERTO 21.CERTO
-Item. 33. ERRADO
+33. ERRADO
 
 10.CERTO 22.CERTO
-Item. 34. ERRADO
+34. ERRADO
 
-Item. 11. CERTO 23. ERRADO
-Item. 35. ERRADO
+11. CERTO 23. ERRADO
+35. ERRADO
 
-Item. 12. CERTO 24.CERTO
-
+12. CERTO 24.CERTO
 
 Tabela-Verdade
 
-Item. 1. (CESPE/PETROBRAS/2022) Julgue o item seguinte, considerando a proposição P: "Como
+1. (CESPE/PETROBRAS/2022) Julgue o item seguinte, considerando a proposição P: "Como
 nossas reservas
 de matéria prima se esgotaram e não encontramos um novo nicho de mercado, entramos em falência".
 
 O número de linhas da tabela-verdade associada à proposição P é inferior a dez.
 
-Item. 2. (CESPE/SEFAZ SE/2022) Proposição P: Se o auditor for diligente e a auditoria bem
+2. (CESPE/SEFAZ SE/2022) Proposição P: Se o auditor for diligente e a auditoria bem
 planejada, a fraude
 será encontrada e o responsável será punido.
 
@@ -11384,7 +11130,7 @@ d) 16
 
 e) 32.
 
-Item. 3. (CESPE/IBGE/2021) Considere a seguinte proposição P:
+3. (CESPE/IBGE/2021) Considere a seguinte proposição P:
 
 Se produz as informações de que o Brasil necessita, o IBGE ajuda o país a
 estabelecer políticas públicas e
@@ -11403,7 +11149,7 @@ d) 4.
 
 e) 5.
 
-Item. 4. (CESPE/CBM AL/2021) Considere a seguinte proposição.
+4. (CESPE/CBM AL/2021) Considere a seguinte proposição.
 
 P: "Se a vegetação está seca e sobre ela cai uma faísca, ocorre um incêndio."
 Com relação à proposição apresentada, julgue o item seguinte.
@@ -11411,7 +11157,6 @@ Com relação à proposição apresentada, julgue o item seguinte.
 A tabela-verdade da proposição P possui 8 linhas.
 
 0 0
-
 
 5.(CESPE/MJSP/2021) Julgue o seguinte item, considerando a proposição P: "Se o
 responsável pela
@@ -11444,7 +11189,6 @@ A última coluna da tabela-verdade relacionada à expressão (PAQ)<->(~R) aprese
 valores V ou F na
 seguinte sequência, de cima para baixo: FVVFVFVF.
 
-
 8.(CESPE/CBM AL/2021) Considere os conectivos lógicos usuais e assuma que as
 letras maiúsculas
 representam proposições lógicas e que o símbolo ~ representa a negação. Considere também que as
@@ -11456,11 +11200,11 @@ A última coluna da tabela-verdade relacionada à expressão (P-»Q)VR apresenta
 ou F na seguinte
 sequência, de cima para baixo: VFFFVVVV.
 
-Item. 9. (CESPE/PC DF/2021) Com relação a estruturas lógicas, lógica de argumentação e
+9. (CESPE/PC DF/2021) Com relação a estruturas lógicas, lógica de argumentação e
 lógica proposicional,
 julgue o item subsequente.
 
-Item. 10. (CESPE/BANESE/2021) Com relação a estruturas lógicas, julgue o item a seguir, nos
+10. (CESPE/BANESE/2021) Com relação a estruturas lógicas, julgue o item a seguir, nos
 quais são utilizados
 os símbolos usuais dos conectivos lógicos e as letras P, Q, R e S representam proposições lógicas.
 
@@ -11482,7 +11226,6 @@ proposição lógica P-»(~Q), em que o símbolo ~ representa o conectivo de
 negação, quando escrita na
 posição horizontal, é igual a:
 
-
 ll.(CESPE/SEFAZ-DF/2020) Considerando a proposição P: "Se o servidor gosta do que faz,
 então o cidadão-
 cliente fica satisfeito", julgue o item a seguir.
@@ -11491,7 +11234,7 @@ P é uma proposição composta formada por duas proposições simples, de modo
 que sua tabela-verdade
 possui 2 linhas.
 
-Item. 12. (CESPE/TRF1/2017) A partir da proposição P: "Quem pode mais, chora menos.", que
+12. (CESPE/TRF1/2017) A partir da proposição P: "Quem pode mais, chora menos.", que
 corresponde a um
 ditado popular, julgue o item.
 
@@ -11499,7 +11242,7 @@ A tabela verdade da proposição P, construída a partir dos valores lógicos da
 proposições simples que a
 compõem, tem pelo menos 8 linhas.
 
-Item. 13. (CESPE/PGE-PE/2019) Considere as seguintes proposições.
+13. (CESPE/PGE-PE/2019) Considere as seguintes proposições.
 
 Pl: Se a empresa privada causar prejuízos à sociedade e se o governo interferir na
 sua gestão, então o
@@ -11517,7 +11260,7 @@ Tendo como referência essas proposições, julgue o item seguinte, a respeito d
 argumentação.
 A tabela-verdade da proposição P1AP2AQ1AQ2 tem mais de 30 linhas.
 
-Item. 14. (CESPE/INSS/2015) Com relação a lógica proposicional, julgue o item subsequente.
+14. (CESPE/INSS/2015) Com relação a lógica proposicional, julgue o item subsequente.
 
 Supondo-se que p seja a proposição simples "João é fumante" , que q seja a
 proposição simples "João
@@ -11525,7 +11268,7 @@ não é saudável" e que p -> q, então o valor lógico da proposição "João
 não é fumante, logo ele é
 saudável" será verdadeiro.
 
-Item. 15. (CESPE/BNB/2018) A tabela a seguir mostra o início da construção de
+15. (CESPE/BNB/2018) A tabela a seguir mostra o início da construção de
 tabelas-verdade de proposições
 compostas a partir das proposições simples P, Q e R.
 
@@ -11547,14 +11290,13 @@ F F V
 
 F F F
 
-
 Julgue o item seguinte, considerando o correto preenchimento da tabela anterior, se necessário.
 
 Os elementos da coluna da tabela-verdade correspondente à proposição (PHQ)VR,
 de cima para baixo,
 na ordem em que aparecem, são V/V/V/F/V/F/V/V.
 
-Item. 16. (CESPE/BNB/2018) A tabela a seguir mostra o início da construção de
+16. (CESPE/BNB/2018) A tabela a seguir mostra o início da construção de
 tabelas-verdade de proposições
 compostas a partir das proposições simples P, Q e R.
 
@@ -11562,7 +11304,7 @@ Os elementos da coluna da tabela-verdade correspondente à proposição PÀ(QVR)
 de cima para baixo,
 na ordem em que aparecem, são V/V/V/V/F/V/F/F.
 
-Item. 17. (CESPE/MEC/2015)
+17. (CESPE/MEC/2015)
 
 P Q R
 
@@ -11594,8 +11336,7 @@ O (2) (3) (4) (5) (6) (7) ®
 
 Pv(Q*+R) V V V F V F V V
 
-
-Item. 18. (CESPE/MEC/2015)
+18. (CESPE/MEC/2015)
 
 P Q R
 
@@ -11629,7 +11370,7 @@ posição horizontal é igual a
 
 P-+(QAiD V V F F V F V V
 
-Item. 19. (CESPE/TJ-SE/2014) Julgue o próximo item, considerando os conectivos lógicos usuais
+19. (CESPE/TJ-SE/2014) Julgue o próximo item, considerando os conectivos lógicos usuais
 A, V, ->,<-> e
 que P, Q e R representam proposições lógicas simples.
 
@@ -11640,7 +11381,6 @@ tabela mostrada, a coluna
 correspondente à proposição (PVQ)<-»(QAR) conterá, de cima para baixo e na
 sequência, os seguintes
 elementos: VFFFVFFF.
-
 
 p Q R
 
@@ -11661,8 +11401,7 @@ F F F
 
 (PvQ)o(QAP)
 
-
-Item. 20. (CESPE/ANS/2013)
+20. (CESPE/ANS/2013)
 
 p Q R S
 
@@ -11698,7 +11437,7 @@ V
 F
 V
 
-Item. 21. (CESPE/ANS/2013)
+21. (CESPE/ANS/2013)
 
 P Q R S
 
@@ -11724,7 +11463,6 @@ de uma proposição S, composta das proposições lógicas simples P, Q e R, jul
 
 Se S=(P->Q)V(QAR), então a coluna da tabela-verdade de S será igual à mostrada a seguir.
 
-
 S
 V
 V
@@ -11735,7 +11473,7 @@ V
 V
 V
 
-Item. 22. (CESPE/PO-AL/2013) Considerando que as letras maiúsculas P, Q e R
+22. (CESPE/PO-AL/2013) Considerando que as letras maiúsculas P, Q e R
 representem proposições
 conhecidas, julgue o item.
 
@@ -11745,41 +11483,39 @@ P, Q e R, é correto concluir que as proposições Q->P,--(PAR) e QVR não
 podem ser simultaneamente
 verdadeiras.
 
-
 GABARITo - CEBRASPE
 
 Tabela-Verdade
 
-Item. 1. CERTO 9. ERRADO
+1. CERTO 9. ERRADO
 17.CERTO
 
-Item. 2. LETRA D 10. ERRADO
-Item. 18. ERRADO
+2. LETRA D 10. ERRADO
+18. ERRADO
 
-Item. 3. LETRA C 11.ERRADO
-Item. 19. ERRADO
+3. LETRA C 11.ERRADO
+19. ERRADO
 
-Item. 4. CERTO 12. ERRADO
-Item. 20. ERRADO
+4. CERTO 12. ERRADO
+20. ERRADO
 
 5.CERTO 13.CERTO
-Item. 21. CERTO
+21. CERTO
 
-Item. 6. LETRA A 14. ERRADO
-Item. 22. ERRADO
+6. LETRA A 14. ERRADO
+22. ERRADO
 
-Item. 7. CERTO 15.CERTO
+7. CERTO 15.CERTO
 
-Item. 8. ERRADO 16. ERRADO
-
+8. ERRADO 16. ERRADO
 
 Tautologia, contradição e contingência
 
-Item. 1. (CESPE/PETROBRAS/2022) A proposição [(p-»r)A(q->r)]->[r->(pVq)] é
+1. (CESPE/PETROBRAS/2022) A proposição [(p-»r)A(q->r)]->[r->(pVq)] é
 sempre verdadeira,
 independentemente do valor-verdade das proposições p,q e r.
 
-Item. 2. (CESPE/ME/2020) Considere que as seguintes proposições sejam verdadeiras.
+2. (CESPE/ME/2020) Considere que as seguintes proposições sejam verdadeiras.
 P: "Se o processo foi relatado e foi assinado, então ele foi discutido em reunião".
 Q: "Se o processo não foi relatado, então ele não foi assinado".
 
@@ -11787,7 +11523,7 @@ Com base nessas informações, julgue o item a seguir.
 
 O valor lógico da proposição Q-»(PVQ) é sempre verdadeiro.
 
-Item. 3. (CESPE/EMAP/2018) Julgue o seguinte item, relativo à lógica proposicional e à lógica de
+3. (CESPE/EMAP/2018) Julgue o seguinte item, relativo à lógica proposicional e à lógica de
 argumentação.
 
 Se P e Q são proposições simples, então a proposição [P-»Q]AP é
@@ -11796,7 +11532,7 @@ independentemente dos valores lógicos V ou F atribuídos a P e Q, o valor lógi
 [P->Q]AP será sempre
 V.
 
-Item. 4. (CESPE/STJ/2018) Considere as proposições P e Q a seguir.
+4. (CESPE/STJ/2018) Considere as proposições P e Q a seguir.
 
 P: Todo processo que tramita no tribunal A ou é enviado para tramitar no tribunal B ou no tribunal
 C.
@@ -11808,7 +11544,7 @@ A proposição -P->(P->Q), em que ->P denota a negação da proposição P, é u
 tautologia, isto é, todos os
 elementos de sua tabela-verdade são V (verdadeiro).
 
-Item. 5. (CESPE/EBSERH/2018) A respeito de lógica proposicional, julgue o item que se segue.
+5. (CESPE/EBSERH/2018) A respeito de lógica proposicional, julgue o item que se segue.
 
 Se P, Q e R forem proposições simples e se ~R indicar a
 negação da proposição R, então,
@@ -11816,7 +11552,7 @@ independentemente dos valores lógicos V = verdadeiro ou F = falso de P, Q e R, 
 proposição P-»QV(~R)
 será sempre V.
 
-Item. 6. (CESPE/DPEN/2013) Considerando que, P, Q e R sejam proposições conhecidas, julgue o
+6. (CESPE/DPEN/2013) Considerando que, P, Q e R sejam proposições conhecidas, julgue o
 próximo item.
 
 A proposição [(PA Q) -> R] V R é uma tautologia, ou seja, ela é sempre verdadeira,
@@ -11825,12 +11561,11 @@ dos valores lógicos de P, Q e R.
 
 0 0
 
-
-Item. 7. (CESPE/ANCINE/2012) A proposição [P<->Q]->[(--P)V(--Q)] tem somente
+7. (CESPE/ANCINE/2012) A proposição [P<->Q]->[(--P)V(--Q)] tem somente
 o valor lógico V,
 independentemente dos valores lógicos de P e Q.
 
-Item. 8. (CESPE/DETRAN-DF/2009) Considerando que A, B e C sejam proposições, que
+8. (CESPE/DETRAN-DF/2009) Considerando que A, B e C sejam proposições, que
 os símbolos V e A
 representam os conectivos "ou" e "e", respectivamente, e que o símbolo - denota o
 modificador negação,
@@ -11838,7 +11573,7 @@ julgue o item a seguir.
 
 A proposição (AVB)A[(--A)A(--B)] é sempre falsa.
 
-Item. 9. (CESPE/EMAP/2018) Julgue o item seguinte, relativo à lógica proposicional e de argumentação.
+9. (CESPE/EMAP/2018) Julgue o item seguinte, relativo à lógica proposicional e de argumentação.
 
 Se P e Q são proposições lógicas simples, então a proposição composta S = [P->Q] O
 [Qv(~P)j é uma
@@ -11846,33 +11581,31 @@ tautologia, isto é, independentemente dos valores lógicos V ou F atribuídos a
 o valor lógico de S
 será sempre V.
 
-Item. 10. (CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
+10. (CESPE/BNB/2018) Julgue o item que se segue, a respeito de lógica proposicional.
 
 Se P e Q forem proposições simples, então a proposição --[PV(--Q)]<->[(--P)AQ] é uma tautologia.
-
 
 GABARITo - CEBRASPE
 
 Tautologia, contradição e contingência
 
-Item. 1. ERRADO
+1. ERRADO
 
-Item. 2. CERTO
+2. CERTO
 
-Item. 3. ERRADO
+3. ERRADO
 
-Item. 4. CERTO
+4. CERTO
 
-Item. 5. ERRADO
+5. ERRADO
 
-Item. 6. ERRADO
+6. ERRADO
 
-Item. 7. ERRADO
+7. ERRADO
 
-Item. 8. CERTO
+8. CERTO
 
-Item. 9. CERTO
+9. CERTO
 
-Item. 10. CERTO
-
+10. CERTO
 

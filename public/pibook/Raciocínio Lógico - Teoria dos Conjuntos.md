@@ -1,5 +1,4 @@
-Capítulo. Raciocínio Lógico - Teoria dos Conjuntos.
-
+# Raciocínio Lógico - Teoria dos Conjuntos.
 
 Índice
 
@@ -16,7 +15,6 @@ Capítulo. Raciocínio Lógico - Teoria dos Conjuntos.
 6) Lista de Questões - União, Intersecção, Complementar e Diferença - Cebraspe
 
 7) Lista de Questões - Princípio da Inclusão-Exclusão - Cebraspe
-
 
 TEoRIA DoS CoNJUNToS
 
@@ -71,7 +69,6 @@ Essa relação de pertinência entre um elemento e um conjunto é representada p
 
 * 15 G C : Lemos: 15 pertence a C.
 
-
 Atente-se à simbologia! Podemos dizer que um elemento não pertence a um determinado conjunto. Para
 isso, utilizamos o símbolo "não pertence": g.
 
@@ -106,7 +103,6 @@ inteiramente contido em A. Nessas condições, dizemos que (a, e] está contido 
 e] é
 um subconjunto de A. Algumas vezes, você poderá ver o termo "parte" sendo usado como sinônimo de
 subconjunto. Agora, imagine a seguinte situação:
-
 
 Nesse caso, temos que {a, e} í B : Lemos: [a, e] não está contido em B ou {a, e] não é um
 subconjunto de
@@ -153,7 +149,6 @@ ESQUEMATIZANDO
 A 7) {a,e,f} B Ti {1,3,5} E 0 (Sicrano,
 Beltrano}
 
-
 HORA DE
 
 PRATICAR!
@@ -198,7 +193,6 @@ Não importa! O importante é que todos elementos de A são os mesmos elementos 
 HORA DE
 
 PRATICAR!
-
 
 (MPE-GO/2022) Sejam x e y números tais que os conjuntos {0,8,2} e {x, y, 2} são iguais, podemos
 afirmar
@@ -256,7 +250,6 @@ verificar que ela é inválida.
 
 Gabarito: LETRA B.
 
-
 Subconjuntos
 
 Vamos aprofundar um pouco o nosso estudo sobre os subconjuntos. Para começar, tente dizer quais são
@@ -266,7 +259,6 @@ subconjuntos do conjunto A = (a, b}. Pronto? Observe como fica:
 A tabela acima lista todos os subconjuntos que podemos formar utilizando o conjunto A. Sabendo
 disso,
 podemos escrever as seguintes relações:
-
 
 * 0 c A
 
@@ -283,7 +275,6 @@ pode aparecer como um simples par de chaves {}. Já o conjunto unitário é todo
 
 O conjunto vazio é subconjunto de qualquer outro conjunto.
 
-
 TOME
 
 K NOTA!
@@ -296,14 +287,12 @@ Observe que [a,b] c A, indicando que qualquer conjunto é também um subconjunto
 
 B = [a, b, c). Vamos listar os seus subconjuntos também?
 
-
 Quando um subconjunto de B é diferente do próprio B, chamamos ele de subconjunto próprio de B. Por
 exemplo, {a}, {&}, {c}, (a, b], (a, c] são subconjuntos próprios de B. Já o subconjunto (a, b, c} é
 denominado
 impróprio pois é igual ao próprio B! Com os conjuntos listados na tabela acima são subconjuntos de
 B, então
 podemos escrever:
-
 
 * 0 c B
 
@@ -340,7 +329,6 @@ Seguindo essa receita, vamos listar os subconjuntos de C = [1,2,3} ?
 Passo 1: Você não deve esquecer que o conjunto vazio é subconjunto de qualquer outro conjunto,
 portanto:
 
-
 Passo 2: Transformando cada elemento em um subconjunto, um por um.
 
 0,(1}, {2), {3}
@@ -352,7 +340,6 @@ Passo 3: Escrever os subconjuntos formado por pares de elementos.
 Passo 4: Ir para os trios.
 
 0, {1}, {2}, {3}, {1, 2}, {1,3}, {2,3}, {1,2,3}
-
 
 Como o conjunto C só possui 3 elementos, encerramos por aqui! Listamos todos os subconjuntos dele.
 Observe que quando tínhamos um conjunto com 2 elementos, obtivemos 4 subconjuntos. Ao aumentar um
@@ -404,7 +391,6 @@ estejam em P±.
 
 Gabarito: ERRADO.
 
-
 : (IDAF-AC/2020) Quantos subconjuntos possui o conjunto das vogais?
 ;
 A)10
@@ -419,7 +405,6 @@ j D) 50
 í Seja V o conjunto formado por todas as vogais, então temos que: V = (d, e, í, O, u}
 
 I
-
 
 I
 
@@ -466,7 +451,6 @@ C) {1,{0,1}}
 
 D) {</>,{</>}}
 
-
 Comentários:
 
 O jeito mais imediato de resolver a questão é listar todos os subconjuntos de A. Perceba que
@@ -477,7 +461,6 @@ conjunto vazio e você deve lembrar que o conjunto vazio é sempre subconjunto d
 Ao listar os subconjuntos do conjunto A, percebemos que apenas o conjunto {1, {0,1}} não é elemento
 de
 pQ4). Isso acontece, pois, o conjunto {0,1} não é elemento de A.
-
 
 Gabarito: Letra C.
 
@@ -498,7 +481,6 @@ F. Galera, muita atenção aqui! {a, b, c] não é um subconjunto de F, é um el
 está
 listado juntamente com os demais elementos!
 
-
 * 1 G F
 
 * 2 G F
@@ -512,7 +494,6 @@ listado juntamente com os demais elementos!
 * {W} G F
 
 E nesses casos, quando usaremos a relação de inclusão? Veja alguns exemplos de subconjuntos de F:
-
 
 * {1,2}cF
 
@@ -536,7 +517,6 @@ HORA DE
 
 r
 
-
 (PREF. JEQUIÉ/2018) Considerando o conjunto A = [íl, A, {A}} qual das afirmações abaixo não está
 correta?
 
@@ -547,7 +527,6 @@ B) Í1 c A
 C) {A} c A
 
 D) {A} G A
-
 
 Comentários:
 
@@ -581,7 +560,6 @@ dizemos que {{A}} c A.
 Com isso, a única alternativa que pode estar errada é a letra B, pois Sl é um elemento de A e,
 portanto, o
 correto seria Sl G A.
-
 
 União, Intersecção, Complementar e Diferença
 Representação por Diagramas
@@ -627,7 +605,6 @@ x, tal que x é vogal. Lemos essa barrinha vertical como "tal que". Não esqueç
 
 Por fim, temos a representação por diagramas que estudamos agora a pouco! Fechou?
 
-
 União
 
 Nessa parte da nossa aula, veremos que existem várias operações que os conjuntos podem se submeter.
@@ -657,7 +634,6 @@ e
 D. Logo, o conjunto intersecção será formado apenas pelo elemento 2: C A D = {2}. Veja mais um
 exemplo
 abaixo.
-
 
 Temos que X = {A,B,C,D} e Z = {B,C,D,E}. São dois conjuntos distintos, mas que
 possuem alguns
@@ -738,7 +714,6 @@ dos dois. ;
 
 ; Gabarito: Letra A.
 
-
 Quando dois conjuntos possuem elementos em comum, podemos representá-los assim:
 
 Essa região comum representa exatamente a sua intersecção. Os elementos que estão na
@@ -756,7 +731,6 @@ PRATICAR!
 
 (CM MONTE ALTO/2019) Observe o diagrama de conjuntos e considere que há elementos em todas as suas
 regiões.
-
 
 A partir dessa disposição, é correto afirmar que
 
@@ -803,7 +777,6 @@ D) qualquer elemento que esteja em três desses conjuntos, certamente está em C
 Alternativa incorreta. D só faz intersecção com E. Desse modo, um elemento de D só poder estar, no
 máximo, em dois conjuntos.
 
-
 E) há elemento de G que também é elemento de A, mas não é elemento de B.
 
 Alternativa incorreta. Todo elemento de G que também é elemento de A também pertence a B.
@@ -848,7 +821,6 @@ Ora, nesse nosso exemplo, todos os elementos de A não são elementos de Bü Sen
 escrever que:
 
 A-B = {10,20,30} = A
-
 
 HORA DE
 
@@ -903,7 +875,6 @@ todos os três elementos do nosso conjunto diferença. Portanto, coincidentement
 (A-B)riC = {1,3,51
 
 Gabarito: Letra A.
-
 
 (PREF. SÃO GONÇALO/2022) Sejam A e B conjuntos definidos da seguinte maneira:
 A = {pessoas que moram em São Gonçalo}
@@ -986,7 +957,6 @@ conjunto complementar com esse "expoente" C ou uma barra em cima. Ademais,
 podemos definir o
 conjunto complementar utilizando o que acabamos de ver sobre conjunto diferença.
 
-
 TOME
 
 NOTA!
@@ -1002,7 +972,6 @@ ver?
 X/ HORA DE
 
 PRATICAR!
-
 
 j (PREF. NOVO HAMBURGO/2020) A é o conjunto de todas as pessoas que dominam o idioma
 espanhol e B é
@@ -1030,7 +999,6 @@ Comentários:
 Vamos analisar cada uma das alternativas tendo em mente que:
 
 * A é o conjunto das pessoas que dominam ESPANHOL;
-
 
 * B é o conjunto das pessoas que dominam INGLÊS.
 
@@ -1069,7 +1037,6 @@ Alternativa incorreta. U é o conjunto universo e representa todos aqueles que d
 idiomas.
 Gabarito: Letra B.
 
-
 Princípio da Inclusão-Exclusão
 
 Pessoal, muitas vezes vamos precisar determinar o número de elementos de um conjunto.
@@ -1089,7 +1056,6 @@ intersecções.
 Imagine dois conjuntos A e B com elementos em comum. Se n(4) é o número de
 elementos de A e n(B) é
 o número de elementos de B, quanto vale n(A UB)?
-
 
 TOME
 
@@ -1123,7 +1089,6 @@ disjuntos temos que:
 
 n(A U B) = n(A) + n(B)
 
-
 TOME
 
 NOTA!
@@ -1131,7 +1096,6 @@ NOTA!
 pois:
 
 n(A n B) = 0.
-
 
 HORA DE
 
@@ -1193,7 +1157,6 @@ conjunto envolvido em um problema típico de Princípio da Inclusão-Exclusão. 
 quero deixar claro
 para vocês o significado de cada uma das regiões no seguinte diagrama:
 
-
 Região de
 elementos A B
 
@@ -1246,7 +1209,6 @@ fazer
 frequentam nenhum
 dos cursos. Em diagramas, podemos representar essa informação da seguinte maneira:
 
-
 Observe que a questão não informou a quantidade de alunos que fazem os dois cursos
 simultaneamente.
 
@@ -1278,7 +1240,6 @@ fazem nenhum dos cursos, então:
 
 n(Z U F) = 150 - 15 = 135
 
-
 São 135 alunos que fazem pelo menos um dos cursos. A questão diz ainda que: n(7) = 90 e n(F) = 72.
 
 n(/UF)=n(/) + n(F)-n(/nF) -> 135 = 90 + 72 - n(I n F) ->
@@ -1303,7 +1264,6 @@ Vamos fazer uma leitura de cada uma das regiões da figura acima?
 Região de elementos
 comuns apenas aos
 conjuntos A e B.
-
 
 Região de elementos
 exclusivos do conjunto A
@@ -1331,7 +1291,6 @@ A,B e C.
 Região de elementos
 comuns apenas aos
 conjuntos B e C.
-
 
 Observe que o número de regiões com três conjuntos aumenta bastante em
 relação à análise
@@ -1438,7 +1397,6 @@ francês.
 
 B) 50 candidatos falam somente inglês.
 
-
 C) 46 candidatos falam pelo menos dois idiomas.
 
 D) 49 candidatos falam francês.
@@ -1486,7 +1444,6 @@ Errado. Não temos informações suficientes que nos permitam concluir isso.
 
 B) 50 candidatos falam somente inglês.
 
-
 Errado. Pelo diagrama que desenhamos, vemos que 46 candidatos falam apenas inglês.
 
 C) 46 candidatos falam pelo menos dois idiomas.
@@ -1514,7 +1471,6 @@ idioma.
 
 Gabarito: LETRA E.
 
-
 Em algumas questões não precisaremos aplicar diretamente a fórmula acima. Será
 necessário um trabalho
 mais braçal da nossa parte, para chegar à resposta. Muitas vezes a questão pede
@@ -1536,7 +1492,6 @@ HORA DE
 PRATICAR!
 
 r .
-
 
 í (TRF-3/2019) O número de matriculados nas disciplinas de Cálculo, Estatística e
 Microeconomia é 150. Sabe-
@@ -1575,7 +1530,6 @@ matriculados em
 ; Microeconomia e Cálculo ao mesmo tempo. Sendo assim, se não existe aluno matriculado nas duas, não
 j pode ter aluno matriculado nas 3.
 
-
 Sabemos ainda que 12 deles cursam simultaneamente Microeconomia e Estatística.
 
 80 deles cursam SOMENTE cálculo.
@@ -1583,7 +1537,6 @@ Sabemos ainda que 12 deles cursam simultaneamente Microeconomia e Estatística.
 Como temos 80 alunos que fazem somente Cálculo, então devemos ter 16 alunos que fazem
 Cálculo e
 Estatística para poder completar os 96 alunos da turma.
-
 
 São 35 alunos de Estatística e no diagrama temos 12 + 16 = 28. Logo, 7 alunos cursam somente
 Estatística.
@@ -1598,7 +1551,6 @@ x + 115 = 150
 
 x — 35
 
-
 = Cuidado aqui! 35 é a quantidade de alunos que fazem APENAS Microeconomia. Para
 descobrir o total de
 
@@ -1608,12 +1560,11 @@ n(M) = 35 + 12 -► n(M) = 47
 
 = Gabarito: Letra B.
 
-
 QUESTõES CoMENTADAS - CEBRASPE
 
 União, Intersecção, Complementar e Diferença
 
-Item. 1. (CESPE/COGE-CE/2019) Segundo o portal cearatransparente.ce.gov.br, em 2018, dos 184 municípios
+1. (CESPE/COGE-CE/2019) Segundo o portal cearatransparente.ce.gov.br, em 2018, dos 184 municípios
 do
 estado do Ceará, 4 celebraram exatamente 1 convênio com o governo estadual, 22 celebraram exatamente
 2 convênios com o governo estadual, e 156 celebraram 3 ou mais convênios com o governo
@@ -1651,7 +1602,7 @@ Mo todos os municípios que celebram 1 ou mais convênios. Isso é representado 
 
 Gabarito: LETRA D.
 
-Item. 2. (CESPE/TRF-1/2017) Em uma reunião de colegiado, após a aprovação de uma matéria
+2. (CESPE/TRF-1/2017) Em uma reunião de colegiado, após a aprovação de uma matéria
 polêmica pelo
 placar de 6 votos a favor e 5 contra, um dos 11 presentes fez a seguinte afirmação: "Basta um de
 nós mudar
@@ -1667,7 +1618,6 @@ Comentários:
 
 É possível representar os conjuntos A e B conforme o diagrama abaixo.
 
-
 Observe que não há intersecção entre A e B, pois, uma mesma pessoa não pode
 pertencer aos dois
 conjuntos. Isso ocorre devido a impossibilidade de se votar a favor e contra
@@ -1678,7 +1628,7 @@ A\B terá também seis elementos e não apenas um, como indica o item.
 
 Gabarito: ERRADO.
 
-Item. 3. (CESPE/INSS/2015) Julgue o item a seguir, relativos a raciocínio lógico e operações com
+3. (CESPE/INSS/2015) Julgue o item a seguir, relativos a raciocínio lógico e operações com
 conjuntos.
 
 Se A, B e C forem conjuntos quaisquer tais que A, B c C, então (C \ 4) O {A U B) = C O B.
@@ -1719,7 +1669,7 @@ Para o conjunto Í1 = {1, 2, 3,4, 5,6, 7,8,9,10}, se A for um subconjunto de O,
 indique por a soma
 dos elementos de A e considere e S(0) = 0. Nesse sentido, julgue o item a seguir.
 
-Item. 4. (CESPE/SUFRAMA/2014) Se A e B forem subconjuntos de O, tais que A c B, então 0 < SÇA) <
+4. (CESPE/SUFRAMA/2014) Se A e B forem subconjuntos de O, tais que A c B, então 0 < SÇA) <
 <
 
 55.
@@ -1740,7 +1690,6 @@ Não tem como escolher um subconjunto de 12 e a soma dos elementos dele fornecer
 resultado maior
 que a soma dos elementos de 12. Concorda? Da mesma forma, se pegarmos um subconjunto de B, digamos
 
-
 A, a soma dos elementos de A vai ser menor ou igual a soma dos elementos de B.
 Por exemplo, se A =
 
@@ -1756,7 +1705,7 @@ fizemos aqui. Logo, item correto.
 
 Gabarito: CERTO.
 
-Item. 5. (CESPE/SUFRAMA/2014) Se A c íl, e se I2\+l é o complementar de A em
+5. (CESPE/SUFRAMA/2014) Se A c íl, e se I2\+l é o complementar de A em
 O, então S(Í2\>1) =
 S(Í2)-S(21).
 
@@ -1786,13 +1735,12 @@ Conforme o item trouxe.
 
 Gabarito: CERTO.
 
-Item. 6. (CESPE/SUFRAMA/2014) É possível encontrar conjuntos A e B, subconjuntos de Q, disjuntos, tais
+6. (CESPE/SUFRAMA/2014) É possível encontrar conjuntos A e B, subconjuntos de Q, disjuntos, tais
 que
 
 A UB = í2eS(A) = S(B).
 
 Comentários:
-
 
 Nada disso, pessoal. O primeiro passo é perceber que a $(12) = 55 é um número
 ímpar. Dessa forma, como
@@ -1824,7 +1772,7 @@ concursos até que no concurso de número x foram aprovados pela primeira vez; c
 Nx
 seja a quantidade de elementos de Sx. A respeito desses conjuntos, julgue os itens a seguir.
 
-Item. 7. (CESPE/PF/2014) O conjunto Sj U S₂ U S₃ U... contém todos os servidores do conjunto S.
+7. (CESPE/PF/2014) O conjunto Sj U S₂ U S₃ U... contém todos os servidores do conjunto S.
 Comentários:
 
 Pessoal, eu sei que o enunciado pode ser um pouco confuso mesmo. Mas, vamos
@@ -1853,8 +1801,7 @@ todo mundo devemos ter a totalidade dos servidores. Dessa forma, o item encontra
 
 Gabarito: CERTO.
 
-
-Item. 8. (CESPE/PF/2014) Existem dois números inteiros, a e b, distintos e positivos, tais que Sa O Sb
+8. (CESPE/PF/2014) Existem dois números inteiros, a e b, distintos e positivos, tais que Sa O Sb
 é não vazio.
 
 Comentários:
@@ -1876,10 +1823,9 @@ contrariando as informações do enunciado.
 
 Gabarito: ERRADO.
 
-
 Princípio da Inclusão-Exclusão
 
-Item. 1. (CESPE/FUNPRESP-EXE/2022) A seguir, são apresentadas informações obtidas a partir de uma
+1. (CESPE/FUNPRESP-EXE/2022) A seguir, são apresentadas informações obtidas a partir de uma
 pesquisa
 realizada com 1.000 pessoas.
 
@@ -1897,7 +1843,6 @@ simultaneamente plano de previdência privada e aplicações em outros produtos 
 Comentários:
 
 Vamos desenhar os diagramas, moçada!
-
 
 Para a compreensão do diagrama, considere "P" o conjunto formado por aquelas pessoas
 que possuem plano
@@ -1923,7 +1868,6 @@ aplicações financeiras.
 
 0 0
 
-
 A pesquisa foi realizada com 1.000 pessoas. Sendo assim, quando somamos cada uma das
 regiões do
 diagrama que desenhamos, devemos obter exatamente esse número. Logo,
@@ -1948,7 +1892,7 @@ possuem os dois produtos, enquanto apenas 320 não usam nenhum dos dois.
 
 Gabarito: ERRADO.
 
-Item. 2. (CESPE/ME/2020) O setor de gestão de pessoas de determinada empresa realiza regularmente a
+2. (CESPE/ME/2020) O setor de gestão de pessoas de determinada empresa realiza regularmente a
 análise
 de pedidos de férias e de licenças dos seus funcionários. Os pedidos são feitos em processos, em
 que o
@@ -1970,13 +1914,12 @@ licença, simultaneamente. Como a questão não informou esse valor, suponha que
 seja x. O diagrama,
 portanto, é o seguinte:
 
-
 15 — x representa a quantidade de pessoas que pediram APENAS férias. 23 — x
 representa a quantidade
 de pessoas que pediram APENAS licença. A questão informou que o total de processos
 analisados foram
 
-Item. 30. Logo, a soma dos valores discriminados acima deve ser 30.
+30. Logo, a soma dos valores discriminados acima deve ser 30.
 
 (15 — x) + x + (23 — x) = 30 -> 38 — x = 30 -> x = 8
 
@@ -1991,13 +1934,12 @@ SÓ FERIAS = 15 — x = 15 — 8 = 7
 7 pessoas fizeram APENAS o pedido de férias.
 Gabarito: ERRADO.
 
-Item. 3. (CESPE/PREF. B dos COQUEIROS/2020) Em uma pesquisa feita com um grupo de 100
+3. (CESPE/PREF. B dos COQUEIROS/2020) Em uma pesquisa feita com um grupo de 100
 turistas que
 visitavam Aracaju, verificou-se que todos eles tinham visitado pelo menos duas das
 seguintes praias:
 Atalaia, Aruana e da Costa. A tabela a seguir mostra quantos desses turistas visitaram as referidas
 praias.
-
 
 Praias
 Visitadas
@@ -2032,7 +1974,6 @@ D) Apenas os itens I e III estão certos.
 E) Todos os itens estão certos.
 
 Comentários:
-
 
 Não esqueça que, nesse tipo de questão, a primeira coisa que você deve se perguntar
 é: qual a quantidade
@@ -2080,16 +2021,14 @@ CORRETO. Essa informação está no próprio enunciado, quando ele diz que os tu
 visitaram pelo menos
 duas das praias.
 
-
 III. Nenhum dos turistas participantes da pesquisa visitou todas as três praias citadas.
 
 ERRADO. De acordo com o que desenvolvemos, 10 pessoas visitaram as três praias.
 Gabarito: LETRA A.
 
-Item. 4. (CESPE/TJ-PR/2019) Em determinado tribunal, os conselheiros atuam nos conselhos I, II e III,
+4. (CESPE/TJ-PR/2019) Em determinado tribunal, os conselheiros atuam nos conselhos I, II e III,
 podendo
 atuar em apenas um, em dois ou em todos os conselhos, como mostra a tabela seguinte.
-
 
 Quantidade de
 Conselheiros
@@ -2118,7 +2057,6 @@ questão, devemos
 sempre começar com a quantidade de elementos na intersecção dos três conjuntos. De
 acordo com a tabela,
 temos 4 conselheiros que atuam nos três conselhos.
-
 
 Uma vez com a quantidade de elementos da intersecção dos três conjuntos, partimos para
 a análise dos
@@ -2152,8 +2090,7 @@ N = 17 + 11 + 8 -► N = 36
 
 Gabarito: LETRA B.
 
-
-Item. 5. (CESPE/IFF/2018) Em uma consulta a 600 estudantes de uma escola acerca da preferência
+5. (CESPE/IFF/2018) Em uma consulta a 600 estudantes de uma escola acerca da preferência
 deles entre
 teatro ou cinema, apenas 50 deles não gostam de cinema nem de teatro. Entre os demais, 370 gostam
 de
@@ -2195,7 +2132,6 @@ universo é formado por 600 estudantes, a soma das quantidades de cada uma das p
 do diagrama deve
 totalizar esse mesmo número.
 
-
 (420 -%)+% + (370 - x) + 50 = 600
 
 840 — x = 600
@@ -2204,7 +2140,7 @@ x = 240
 
 Gabarito: LETRA D.
 
-Item. 6. (CESPE/IFF/2018) Para um conjunto qualquer X, n(X) representa a quantidade de
+6. (CESPE/IFF/2018) Para um conjunto qualquer X, n(X) representa a quantidade de
 elementos de X.
 Nesse sentido, considere que os conjuntos A, B e C tenham as seguintes propriedades:
 
@@ -2251,7 +2187,6 @@ bovina;
 
 Comentários Iniciais:
 
-
 Antes de julgar as questões, vamos fazer alguns comentários iniciais. É preciso
 desenvolver o diagrama de
 Venn. Observe que temos 800 contêineres que vamos distribuir frango, carne suína e carne bovina.
@@ -2284,10 +2219,9 @@ contabilizando 150 + 100 = 250 contêineres com carne suína. Isso significa que
 temos 200 contêineres
 APENAS com carne suína.
 
-
 Carne Carne
 
-Item. 1. (CESPE/EMAP/2018) Nessa situação hipotética, 250 contêineres foram carregados somente
+1. (CESPE/EMAP/2018) Nessa situação hipotética, 250 contêineres foram carregados somente
 com carne
 suína.
 
@@ -2301,7 +2235,7 @@ Carne Carne
 
 Gabarito: ERRADO.
 
-Item. 8. (CESPE/EMAP/2018) Nessa situação, 50 contêineres foram carregados somente com carne bovina.
+8. (CESPE/EMAP/2018) Nessa situação, 50 contêineres foram carregados somente com carne bovina.
 
 Comentários:
 
@@ -2311,8 +2245,7 @@ contêineres carregados apenas com carne bovina.
 
 Gabarito: CERTO.
 
-
-Item. 9. (CESPE/EMAP/2018) Nessa situação hipotética, a carga de 400 contêineres continha frango
+9. (CESPE/EMAP/2018) Nessa situação hipotética, a carga de 400 contêineres continha frango
 congelado.
 
 Comentários:
@@ -2326,7 +2259,7 @@ faltando: a quantidade de contêineres com APENAS frango.
 Carne Carne
 
 Quando somamos os valores dos contêineres com frango, encontramos 100 + 100 + 200 =
-Item. 400. Logo, o
+400. Logo, o
 item encontra-se correto ao afirmar que existem 400 contêineres com frango congelado.
 
 Gabarito: CERTO.
@@ -2341,7 +2274,7 @@ esteve em C e 6 desses 25 passageiros estiveram em A e em B. Com referência a e
 hipotética,
 julgue os itens a seguir.
 
-Item. 10. (CESPE/PF/2018) Se 11 passageiros estiveram em B, então mais de 15 estiveram em A.
+10. (CESPE/PF/2018) Se 11 passageiros estiveram em B, então mais de 15 estiveram em A.
 
 Comentários:
 
@@ -2355,7 +2288,6 @@ Note que se 25 dos 30 passageiros estiveram em A ou em B, então 5 passageiros e
 Ç. Além disso, como nenhum desses 25 passageiros que esteve em A ou em B esteve em
 C, então o número
 de elementos na intersecção dos três conjuntos é nulo, bem como qualquer intersecção com C.
-
 
 O enunciado ainda fala que 6 dos 25 passageiros estiveram em A e em B.
 
@@ -2372,7 +2304,6 @@ foi
 Sabemos que 25 pessoas visitaram A ou B e que já contabilizamos 11 delas no diagrama. As 14 pessoas
 que
 estão faltando para completar essas 25 pessoas são aquelas que estiveram APENAS no país A.
-
 
 Por fim, podemos ver que 14 + 6 = 20 pessoas estiverem em A e, portanto, o item está correto.
 
@@ -2391,7 +2322,7 @@ II. 180 papiloscopistas sentem-se satisfeitos ao executar pelo menos uma dessas 
 
 Considerando que todos os 200 papiloscopistas responderam à pesquisa, julgue o item seguinte.
 
-Item. 11. (CESPE/PF/2018) A quantidade de papiloscopistas que se sentem satisfeitos ao
+11. (CESPE/PF/2018) A quantidade de papiloscopistas que se sentem satisfeitos ao
 executar exatamente
 uma das referidas tarefas é superior a 100.
 
@@ -2409,7 +2340,6 @@ enunciado mostra que 180 dos 200 papiloscopistas sentem-se satisfeitos ao execut
 menos uma
 delas.
 
-
 Com isso, sobra 20 papiloscopistas que não se sentem satisfeitos identificando vítimas
 ou descobrindo
 crimes de falsificação. A quantidade de papiloscopistas que se sentem satisfeito apenas
@@ -2422,7 +2352,7 @@ Como essa quantidade é superior a 100, o gabarito está correto.
 
 Gabarito: CERTO.
 
-Item. 12. (CESPE/PF/2018) Nessa situação, as informações dadas permitem inferir que
+12. (CESPE/PF/2018) Nessa situação, as informações dadas permitem inferir que
 exatamente 75
 papiloscopistas sentem-se satisfeitos ao executarem a tarefa de identificação de vítimas.
 
@@ -2446,7 +2376,7 @@ número de papiloscopistas que se sentem satisfeitos com a tarefa de identifica�
 
 Gabarito: ERRADO.
 
-Item. 13. (CESPE/SEFAZ-RS/2018) Em determinado dia, os órgãos responsáveis atenderam 50 contribuintes
+13. (CESPE/SEFAZ-RS/2018) Em determinado dia, os órgãos responsáveis atenderam 50 contribuintes
 para
 resolver pendências relativas ao IPTU, ao IPVA e a outros tributos. Sabe-se que foram atendidos:
 
@@ -2455,7 +2385,6 @@ I. 18 contribuintes com pendências de IPTU;
 II. 23 contribuintes com pendências de IPVA;
 
 III. 8 contribuintes com pendências de IPTU e IPVA.
-
 
 Nesse caso, a quantidade de contribuintes atendidos cujas pendências não se referiam a IPTU nem a
 IPVA
@@ -2553,7 +2482,6 @@ Observe que disseram que 95 visitaram o Mercado Central e contabilizamos 30
 + 15 + 20 = 65. A
 diferença de 30 é o número de pessoas que visitaram APENAS o Mercado Central e o Dragão do Mar.
 
-
 Mercado Espigão
 
 Centro Cultural
@@ -2580,10 +2508,9 @@ Mercado Espigão
 Centro Cultural
 Dragão do Mar
 
-Item. 14. (CESPE/BNB/2018) Mais de 15 dos participantes do evento visitaram somente o Centro Cultural
+14. (CESPE/BNB/2018) Mais de 15 dos participantes do evento visitaram somente o Centro Cultural
 Dragão
 do Mar.
-
 
 Comentários:
 
@@ -2598,7 +2525,7 @@ Dragão do Mar
 
 Gabarito: ERRADO.
 
-Item. 15. (CESPE/BNB/2018) Menos de 12 dos participantes do evento visitaram somente o Espigão de
+15. (CESPE/BNB/2018) Menos de 12 dos participantes do evento visitaram somente o Espigão de
 Iracema
 e o Mercado Central.
 
@@ -2615,7 +2542,7 @@ Dragão do Mar
 
 Gabarito: ERRADO.
 
-Item. 16. (CESPE/BNB/2018) Mais de 50 dos participantes do evento não visitaram o Centro Cultural
+16. (CESPE/BNB/2018) Mais de 50 dos participantes do evento não visitaram o Centro Cultural
 Dragão do
 Mar.
 
@@ -2627,7 +2554,6 @@ Mar. O número de pessoas que não visitaram esse ponto turístico é dado por 3
 + 15 = 60. O item
 afirma que mais de 50 pessoas não visitaram o Dragão do Mar, portanto, está correto.
 
-
 Mercado Espigão
 
 Centro Cultural
@@ -2635,7 +2561,7 @@ Dragão do Mar
 
 Gabarito: CERTO.
 
-Item. 17. (CESPE/BNB/2018) Menos de 180 pessoas participaram do evento.
+17. (CESPE/BNB/2018) Menos de 180 pessoas participaram do evento.
 
 Comentários:
 
@@ -2664,7 +2590,6 @@ A = {casais com pelo menos um filho com mais de 20 anos de idade};
 B = {casais com pelo menos um filho com menos de 10 anos de idade};
 C = {casais com pelo menos 4 filhos}.
 
-
 Considerando que n(P) indique a quantidade de elementos de um conjunto P, suponha que:
 
 n(A) = 18; n(B) = 20; n(C) = 25;
@@ -2675,7 +2600,7 @@ O diagrama a seguir mostra essas quantidades de elementos.
 
 Com base nas informações e no diagrama precedentes, julgue os itens a seguir.
 
-Item. 18. (CESPE/EBSERH/2018) A referida comunidade é formada por menos de 180 pessoas.
+18. (CESPE/EBSERH/2018) A referida comunidade é formada por menos de 180 pessoas.
 
 Comentários:
 
@@ -2694,7 +2619,6 @@ de A (são 2) ou
 somente fazem parte de B (são 3). Esses 5 casais possuem pelo menos um filho. Logo,
 podemos contar
 3x5 = 15 pessoas nesse grupo.
-
 
 Os outros 5 casais que estão tanto no conjunto A e no conjunto B, possuem, no
 mínimo, 2 filhos. A
@@ -2715,7 +2639,7 @@ O item afirma que a população possui menos de 180 pessoas e, portanto, está e
 
 Gabarito: ERRADO.
 
-Item. 19. (CESPE/EBSERH/2018) Pelo menos 30 casais dessa comunidade têm 2 ou mais filhos.
+19. (CESPE/EBSERH/2018) Pelo menos 30 casais dessa comunidade têm 2 ou mais filhos.
 
 Comentários:
 
@@ -2741,7 +2665,6 @@ explicação é a seguinte: como estão no grupo A, elas possuem pelo menos um f
 de 20 anos
 de idade.
 
-
 Mas, como também estão no grupo B, eles possuem pelo menos um filho com menos de 10 anos de idade.
 
 Logo, a quantidade mínima de filhos desses casais é dois. Logo, somando os 25 casais do conjunto C
@@ -2750,7 +2673,7 @@ com os
 
 Gabarito: CERTO.
 
-Item. 20. (CESPE/ANVISA/2016) Situação hipotética: A ANVISA realizará inspeções em
+20. (CESPE/ANVISA/2016) Situação hipotética: A ANVISA realizará inspeções em
 estabelecimentos
 comerciais que são classificados como Bar ou Restaurante e naqueles que são
 considerados ao mesmo
@@ -2798,8 +2721,7 @@ o item afirma que existem mais de 15, então ele está errado.
 
 Gabarito: ERRADO.
 
-
-Item. 21. (CESPE/DPU/2015) Na zona rural de um município, 50% dos agricultores cultivam
+21. (CESPE/DPU/2015) Na zona rural de um município, 50% dos agricultores cultivam
 soja; 30%, arroz;
 40%, milho; e 10% não cultivam nenhum desses grãos. Os agricultores que produzem milho não
 cultivam
@@ -2828,12 +2750,11 @@ cultivam milho e não 30%.
 
 Gabarito: ERRADO.
 
-
 LISTA DE QUESTõES - CEBRASPE
 
 União, Intersecção, Complementar e Diferença
 
-Item. 1. (CESPE/COGE-CE/2019) Segundo o portal cearatransparente.ce.gov.br, em 2018, dos 184
+1. (CESPE/COGE-CE/2019) Segundo o portal cearatransparente.ce.gov.br, em 2018, dos 184
 municípios do
 estado do Ceará, 4 celebraram exatamente 1 convênio com o governo estadual, 22 celebraram exatamente
 2 convênios com o governo estadual, e 156 celebraram 3 ou mais convênios com o governo
@@ -2854,7 +2775,7 @@ D) Mo - M1
 
 E) Mo U Mi
 
-Item. 2. (CESPE/TRF-1/2017) Em uma reunião de colegiado, após a aprovação de uma matéria
+2. (CESPE/TRF-1/2017) Em uma reunião de colegiado, após a aprovação de uma matéria
 polêmica pelo
 placar de 6 votos a favor e 5 contra, um dos 11 presentes fez a seguinte afirmação: "Basta um de
 nós mudar
@@ -2866,7 +2787,7 @@ Se A for o conjunto dos presentes que votaram a favor e B for o conjunto dos
 presentes que votaram contra,
 então o conjunto diferença A\B terá exatamente um elemento.
 
-Item. 3. (CESPE/INSS/2015) Julgue o item a seguir, relativos a raciocínio lógico e operações com
+3. (CESPE/INSS/2015) Julgue o item a seguir, relativos a raciocínio lógico e operações com
 conjuntos.
 
 Se A, B e C forem conjuntos quaisquer tais que A, B c C, então (C \ Â) n {A U B) = C n B.
@@ -2877,17 +2798,16 @@ Para o conjunto Í2 = {1, 2, 3,4, 5,6, 7,8,9,10], se A for um subconjunto de O,
 indique por a soma
 dos elementos de A e considere e S(0) = 0. Nesse sentido, julgue o item a seguir.
 
-Item. 4. (CESPE/SUFRAMA/2014) Se A e B forem subconjuntos de O, tais que A c B, então 0 < SÇA) <
+4. (CESPE/SUFRAMA/2014) Se A e B forem subconjuntos de O, tais que A c B, então 0 < SÇA) <
 <
 
 55.
 
-Item. 5. (CESPE/SUFRAMA/2014) Se A c íl, e se Í2\/1 é o complementar de A em
+5. (CESPE/SUFRAMA/2014) Se A c íl, e se Í2\/1 é o complementar de A em
 fi, então S(J2\.4) =
 S(Í2)-S(X).
 
-
-Item. 6. (CESPE/SUFRAMA/2014) É possível encontrar conjuntos A e B, subconjuntos de Q,
+6. (CESPE/SUFRAMA/2014) É possível encontrar conjuntos A e B, subconjuntos de Q,
 disjuntos, tais que
 
 A UB = í2eS(A) = S(B).
@@ -2902,38 +2822,36 @@ concursos até que no concurso de número x foram aprovados pela primeira vez; c
 Nx
 seja a quantidade de elementos de Sx. A respeito desses conjuntos, julgue os itens a seguir.
 
-Item. 7. (CESPE/PF/2014) O conjunto Si U S₂ U S₃ U... contém todos os servidores do conjunto S.
+7. (CESPE/PF/2014) O conjunto Si U S₂ U S₃ U... contém todos os servidores do conjunto S.
 
-Item. 8. (CESPE/PF/2014) Existem dois números inteiros, a e b, distintos e positivos, tais que Sa n Sb
+8. (CESPE/PF/2014) Existem dois números inteiros, a e b, distintos e positivos, tais que Sa n Sb
 é não vazio.
 
 0 0
 
-
 GABARITo
 
-Item. 1. LETRA D
+1. LETRA D
 
-Item. 2. ERRADO
+2. ERRADO
 
-Item. 3. ERRADO
+3. ERRADO
 
-Item. 4. CERTO
+4. CERTO
 
-Item. 5. CERTO
+5. CERTO
 
-Item. 6. ERRADO
+6. ERRADO
 
-Item. 7. CERTO
+7. CERTO
 
-Item. 8. ERRADO
-
+8. ERRADO
 
 LISTA DE QUESTõES - CEBRASPE
 
 Princípio da Inclusão-Exclusão
 
-Item. 1. (CESPE/FUNPRESP-EXE/2022) A seguir, são apresentadas informações obtidas a partir de uma
+1. (CESPE/FUNPRESP-EXE/2022) A seguir, são apresentadas informações obtidas a partir de uma
 pesquisa
 realizada com 1.000 pessoas.
 
@@ -2948,7 +2866,7 @@ Há mais pessoas que não possuem aplicações em nenhum produto financeiro que 
 que possuem
 simultaneamente plano de previdência privada e aplicações em outros produtos financeiros.
 
-Item. 2. (CESPE/ME/2020) O setor de gestão de pessoas de determinada empresa realiza regularmente a
+2. (CESPE/ME/2020) O setor de gestão de pessoas de determinada empresa realiza regularmente a
 análise
 de pedidos de férias e de licenças dos seus funcionários. Os pedidos são feitos em processos, em
 que o
@@ -2961,13 +2879,12 @@ nessa situação hipotética, julgue o item que se segue.
 A quantidade de processos analisados nesse dia que eram referentes apenas a pedido de férias é
 igual a 8.
 
-Item. 3. (CESPE/PREF. B dos COQUEIROS/2020) Em uma pesquisa feita com um grupo de 100
+3. (CESPE/PREF. B dos COQUEIROS/2020) Em uma pesquisa feita com um grupo de 100
 turistas que
 visitavam Aracaju, verificou-se que todos eles tinham visitado pelo menos duas das
 seguintes praias:
 Atalaia, Aruana e da Costa. A tabela a seguir mostra quantos desses turistas visitaram as referidas
 praias.
-
 
 Praias
 Visitadas
@@ -2987,7 +2904,6 @@ I. Menos de 40 turistas visitaram a praia de Atalaia.
 
 II. Nenhum dos turistas participantes da pesquisa visitou apenas uma das praias citadas.
 
-
 III. Nenhum dos turistas participantes da pesquisa visitou todas as três praias citadas.
 
 Assinale a opção correta.
@@ -3002,10 +2918,9 @@ D) Apenas os itens I e III estão certos.
 
 E) Todos os itens estão certos.
 
-Item. 4. (CESPE/TJ-PR/2019) Em determinado tribunal, os conselheiros atuam nos conselhos I, II e III,
+4. (CESPE/TJ-PR/2019) Em determinado tribunal, os conselheiros atuam nos conselhos I, II e III,
 podendo
 atuar em apenas um, em dois ou em todos os conselhos, como mostra a tabela seguinte.
-
 
 Quantidade de
 Conselheiros
@@ -3025,7 +2940,7 @@ D) 58.
 
 E) 84.
 
-Item. 5. (CESPE/IFF/2018) Em uma consulta a 600 estudantes de uma escola acerca da preferência
+5. (CESPE/IFF/2018) Em uma consulta a 600 estudantes de uma escola acerca da preferência
 deles entre
 teatro ou cinema, apenas 50 deles não gostam de cinema nem de teatro. Entre os demais, 370 gostam
 de
@@ -3043,8 +2958,7 @@ D) 240.
 
 E) 370.
 
-
-Item. 6. (CESPE/IFF/2018) Para um conjunto qualquer X, n(X) representa a quantidade de
+6. (CESPE/IFF/2018) Para um conjunto qualquer X, n(X) representa a quantidade de
 elementos de X.
 Nesse sentido, considere que os conjuntos A, B e C tenham as seguintes propriedades:
 
@@ -3077,13 +2991,13 @@ carne bovina; 450, com carne suína; 100, com frango e carne bovina; 150, com ca
 bovina;
 100, com frango e carne suína.
 
-Item. 7. (CESPE/EMAP/2018) Nessa situação hipotética, 250 contêineres foram carregados somente
+7. (CESPE/EMAP/2018) Nessa situação hipotética, 250 contêineres foram carregados somente
 com carne
 suína.
 
-Item. 8. (CESPE/EMAP/2018) Nessa situação, 50 contêineres foram carregados somente com carne bovina.
+8. (CESPE/EMAP/2018) Nessa situação, 50 contêineres foram carregados somente com carne bovina.
 
-Item. 9. (CESPE/EMAP/2018) Nessa situação hipotética, a carga de 400 contêineres continha frango
+9. (CESPE/EMAP/2018) Nessa situação hipotética, a carga de 400 contêineres continha frango
 congelado.
 (PF/2018) Texto para as próximas questões
 
@@ -3095,9 +3009,8 @@ esteve em C e 6 desses 25 passageiros estiveram em A e em B. Com referência a e
 hipotética,
 julgue os itens a seguir.
 
-Item. 10. (CESPE/PF/2018) Se 11 passageiros estiveram em B, então mais de 15 estiveram em A.
+10. (CESPE/PF/2018) Se 11 passageiros estiveram em B, então mais de 15 estiveram em A.
 Texto para as próximas questões
-
 
 O resultado de uma pesquisa acerca da satisfação de 200 papiloscopistas, no que diz
 respeito às tarefas
@@ -3110,15 +3023,15 @@ II. 180 papiloscopistas sentem-se satisfeitos ao executar pelo menos uma dessas 
 
 Considerando que todos os 200 papiloscopistas responderam à pesquisa, julgue o item seguinte.
 
-Item. 11. (CESPE/PF/2018) A quantidade de papiloscopistas que se sentem satisfeitos ao
+11. (CESPE/PF/2018) A quantidade de papiloscopistas que se sentem satisfeitos ao
 executar exatamente
 uma das referidas tarefas é superior a 100.
 
-Item. 12. (CESPE/PF/2018) Nessa situação, as informações dadas permitem inferir que
+12. (CESPE/PF/2018) Nessa situação, as informações dadas permitem inferir que
 exatamente 75
 papiloscopistas sentem-se satisfeitos ao executarem a tarefa de identificação de vítimas.
 
-Item. 13. (CESPE/SEFAZ-RS/2018) Em determinado dia, os órgãos responsáveis atenderam 50 contribuintes
+13. (CESPE/SEFAZ-RS/2018) Em determinado dia, os órgãos responsáveis atenderam 50 contribuintes
 para
 resolver pendências relativas ao IPTU, ao IPVA e a outros tributos. Sabe-se que foram atendidos:
 
@@ -3160,20 +3073,19 @@ pontos turísticos, julgue os itens a seguir.
 
 0 0
 
-
-Item. 14. (CESPE/BNB/2018) Mais de 15 dos participantes do evento visitaram somente o Centro Cultural
+14. (CESPE/BNB/2018) Mais de 15 dos participantes do evento visitaram somente o Centro Cultural
 Dragão
 do Mar.
 
-Item. 15. (CESPE/BNB/2018) Menos de 12 dos participantes do evento visitaram somente o Espigão de
+15. (CESPE/BNB/2018) Menos de 12 dos participantes do evento visitaram somente o Espigão de
 Iracema
 e o Mercado Central.
 
-Item. 16. (CESPE/BNB/2018) Mais de 50 dos participantes do evento não visitaram o Centro
+16. (CESPE/BNB/2018) Mais de 50 dos participantes do evento não visitaram o Centro
 Cultural Dragão do
 Mar.
 
-Item. 17. (CESPE/BNB/2018) Menos de 180 pessoas participaram do evento.
+17. (CESPE/BNB/2018) Menos de 180 pessoas participaram do evento.
 
 Texto para as próximas questões
 
@@ -3194,11 +3106,11 @@ O diagrama a seguir mostra essas quantidades de elementos.
 
 Com base nas informações e no diagrama precedentes, julgue os itens a seguir.
 
-Item. 18. (CESPE/EBSERH/2018) A referida comunidade é formada por menos de 180 pessoas.
+18. (CESPE/EBSERH/2018) A referida comunidade é formada por menos de 180 pessoas.
 
-Item. 19. (CESPE/EBSERH/2018) Pelo menos 30 casais dessa comunidade têm 2 ou mais filhos.
+19. (CESPE/EBSERH/2018) Pelo menos 30 casais dessa comunidade têm 2 ou mais filhos.
 
-Item. 20. (CESPE/ANVISA/2016) Situação hipotética: A ANVISA realizará inspeções em
+20. (CESPE/ANVISA/2016) Situação hipotética: A ANVISA realizará inspeções em
 estabelecimentos
 comerciais que são classificados como Bar ou Restaurante e naqueles que são
 considerados ao mesmo
@@ -3207,7 +3119,7 @@ são classificados como Bar e 60 são classificados como Restaurante. Nessa situ
 mais de 15
 estabelecimentos que são classificados como Bar e como Restaurante ao mesmo tempo.
 
-Item. 21. (CESPE/DPU/2015) Na zona rural de um município, 50% dos agricultores cultivam
+21. (CESPE/DPU/2015) Na zona rural de um município, 50% dos agricultores cultivam
 soja; 30%, arroz;
 40%, milho; e 10% não cultivam nenhum desses grãos. Os agricultores que produzem milho não
 cultivam
@@ -3217,28 +3129,26 @@ exatamente 30% das propriedades, cultiva-se apenas milho.
 
 0 0
 
-
 GABARITo
 
-Item. 1. ERRADO 9. CERTO
-Item. 17. CERTO
+1. ERRADO 9. CERTO
+17. CERTO
 
-Item. 2. ERRADO 10. CERTO
-Item. 18. ERRADO
+2. ERRADO 10. CERTO
+18. ERRADO
 
-Item. 3. LETRA A 11. CERTO
+3. LETRA A 11. CERTO
 19.CERTO
 
-Item. 4. LETRA B 12. ERRADO
-Item. 20. ERRADO
+4. LETRA B 12. ERRADO
+20. ERRADO
 
-Item. 5. LETRA D 13. LETRA B
-Item. 21. ERRADO
+5. LETRA D 13. LETRA B
+21. ERRADO
 
-Item. 6. LETRA C 14. ERRADO
+6. LETRA C 14. ERRADO
 
-Item. 7. ERRADO 15. ERRADO
+7. ERRADO 15. ERRADO
 
-Item. 8. CERTO 16. CERTO
-
+8. CERTO 16. CERTO
 

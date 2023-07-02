@@ -1,4 +1,4 @@
-Capítulo. Governança da Tecnologia e Serviços - Gerenciamento de serviços ( ITIL v4 ).
+# Governança da Tecnologia e Serviços - Gerenciamento de serviços ( ITIL v4 ).
 
 Concursos
 
@@ -12,7 +12,6 @@ Tecnologia) Governança de TI - 2023
 (Pós-Edital)
 
 Autor:
-
 
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
 
@@ -31,7 +30,6 @@ Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
 6) ITIL 4 - Questões Comentadas
 
 7) ITIL 4 - Lista de Questões
-
 
 APRESENTAçÃo DA AUDX
 
@@ -94,7 +92,6 @@ RELEVÂNCIA EM PROVA: ALTA
 
 TÊ^vÃNcí/^^RÕv/HÍHTssÍM/r
 
-
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
 
 Além disso, essas faixas não são por banca - são baseadas tanto na quantidade de
@@ -102,7 +99,6 @@ vezes que o
 assunto caiu em prova independentemente da banca e também em minhas avaliações sobre
 cada
 assunto.
-
 
 ntrodução
 
@@ -183,7 +179,6 @@ ITIL 4 não há mais esses conceitos, porem deve-se dar atenção a essas
 diferenças pois são alvo dos
 examinadores nas cobranças em provas.
 
-
 ESTA CAI
 
 NA PROVA!
@@ -249,7 +244,6 @@ deve-se buscar a cocriação de valor (criação de valor de forma conjunta)
 por todas as partes
 Organizações, Provedores, Consumidores e outros Stakeholders.
 
-
 Para gerar valor, geralmente, organizações produzem e entregam produtos e
 serviços. Produto
 consiste em uma configuração de recursos de uma organização que se destina a oferecer
@@ -260,7 +254,6 @@ e riscos
 específicos. Professora, de novo o conceito de serviço? Pessoal, eu vou repetir esse conceito até
 vocês
 tatuarem em seus corações QP
-
 
 SERVIÇO É 0 MEIO QUE PERMITE A
 COCRIAÇÃO DE VALOR AO FACILITAR A
@@ -365,7 +358,6 @@ ADEQUADO AO USO
 
 DISPONIBILIDADE, CAPACIDADE, NÍVEIS DE SEGURANÇA E CONTINUIDADE DO SERVIÇO.
 
-
 Modelo de Quatro Dimensões
 
 RELEVÂNCIA EM PROVA: ALTA
@@ -422,7 +414,6 @@ MELHORIAS DESCRIÇÃO
 sistemas de autoridade bem definidos.
 
 - Cada pessoa na organização deve ter um claro entendimento da sua contribuição
-
 
 ORGANIZAÇÕES E PESSOAS
 
@@ -488,7 +479,6 @@ há diferentes tipos de relacionamentos entre as organizações que poderão ser
 visualizados na
 tabela seguinte.
 
-
 TIPO SAÍDAS
 
 SUPRIMENTO DE
@@ -509,7 +499,6 @@ EXEMPLOS
 
 Compra de
 
-
 Bens Fornecedor Cliente
 
 BENS
@@ -517,7 +506,6 @@ BENS
 de suprimento
 telefones e
 computadores
-
 
 ENTREGA DE
 
@@ -535,7 +523,6 @@ Metas
 Cloud
 Computing
 (laaS, PaaS)
-
 
 PARCERIA DE
 
@@ -597,7 +584,6 @@ através de produtos e serviços.
 
 Com isso, segundo o ITIL V4, a XPTO se concentrou em implementar as dimensões:
 
-
 a) pessoas e tecnologia;
 
 b) parceiros e informação;
@@ -632,7 +618,6 @@ Comentários: Pessoal, perfeita questão. Os principais elementos da ITIL é o m
 (4D) e o Sistema de valor
 de serviços (SVS). (Gabarito: Correto).
 
-
 Sistema de Valor de Serviços
 
 RELEVÂNCIA EM PROVA: ALTÍSSIMA
@@ -661,7 +646,6 @@ ATENÇÃO
 
 «k A DECORE!
 
-
 'Opportunity
 
 L /Demand J
@@ -676,12 +660,10 @@ r 1
 7alue
 k J
 
-
 CONCEITOS DESCRIÇÃO
 
 Acionam atividades dentro da SVS que levam à criação de valor. Nem toda
 oportunidade é explorada e nem toda demanda é atendida.
-
 
 OPORTUNIDADE E DEMANDA
 
@@ -690,7 +672,6 @@ Oportunidade: é a possibilidade de gerar valor ou melhorara organização.
 Demanda: representa a necessidade ou desejo por produtos e serviços de clientes
 internos ou externos.
 
-
 VALOR
 
 Benefícios, utilidade ou importância percebidos em algo.
@@ -698,7 +679,6 @@ Benefícios, utilidade ou importância percebidos em algo.
 ELEMENTOS DO SVS DESCRIÇÃO
 
 Recomendações que podem orientar uma organização em todas as circunstâncias,
-
 
 PRINCÍPIOS ORIENTADORES
 
@@ -729,7 +709,6 @@ Pessoal, pela importância do SVS, criei um esquema para facilitar o entendiment
 
 SISTEMA DE VALOR DE SERVIÇOS
 
-
 PRINCÍPIOS
 ORIENTADORES
 
@@ -744,11 +723,9 @@ ri
 
 MELHORIA CONTÍNUA
 
-
 k J
 
 k à
-
 
 Princípios Orientadores
 
@@ -778,11 +755,9 @@ PRINCÍPIOS DESCRIÇÃO
 
 - Tudo que a organização precisa mapear para criar valor para as partes interessadas;
 
-
 FOQUE NO VALOR
 
 - Engloba muitas perspectivas, incluindo a experiência de clientes e usuários.
-
 
 COMECE ONDE VOCÊ ESTÁ
 
@@ -818,7 +793,6 @@ organização;
 - Integre tecnologia, informações, pessoas, organizações, parceiros, acordos (tudo
 deve ser coordenado).
 
-
 MANTENHA A SIMPLICIDADE E
 
 PRATICIDADE
@@ -838,7 +812,6 @@ Pensar e trabalhar holisticamente (Think and work holistically)
 
 Manter de forma simples e prática (Keep it simple and practical)
 Otimizar e automatizar (Optimize and automate)
-
 
 OTIMIZE E AUTOMATIZE
 
@@ -915,7 +888,6 @@ analisar, avaliar a saída de um processo ou tarefa. Exemplo simples e contextua
 o aluno fez
 uma tarefa da Trilha Estratégica: ler a aula de ITIL e responder 30 questões ao fim da aula.
 
-
 Percentual de acertos: 80% (o aluno é do Estratégia e estuda COM estratégia!). Qual
 Feedback pode
 ser fornecido nesse caso? O aluno conseguiu absorver o conteúdo. Basicamente é isso.
@@ -977,7 +949,6 @@ Mantenha a simplicidade e praticidade
 2 Ciclo de feedback: Técnica que consiste no uso das saídas de uma parte de um sistema como
 entradas para essa mesma parte do sistema.
 
-
 O sexto princípio também apresenta um conceito da abordagem ágil, mantenha a
 simplicidade e
 praticidade. Se há uma abordagem simples para solucionar um problema ela deve ser
@@ -1014,7 +985,6 @@ deve maximizar o valor do trabalho realizado deforma a entregar valor. Otimizar 
 automatizarem
 um grau razoável.
 
-
 Governança
 
 RELEVÂNCIA EM PROVA: ALTA
@@ -1041,13 +1011,11 @@ I
 - Cobre a avaliação da organização e sua estratégia, portfólio e relacionamento com
 outras partes.
 
-
 AVALIAR
 
 -"ONDE ESTAMOS?"
 
 - Envolve realizar um diagnóstico.
-
 
 DIRIGIR
 
@@ -1059,7 +1027,6 @@ organização.
 
 - As políticas definem um conjunto de regras de comportamento na organização.
 
-
 MONITORAR
 
 - Envolve o monitoramento do desempenho da organização e suas práticas, produtos e
@@ -1068,7 +1035,6 @@ serviços.
 -"CHEGAMOS LÁ?"
 
 - O propósito é garantir que o desempenho está de acordo om as políticas e direção.
-
 
 Cadeia de Valor de Serviços
 
@@ -1102,7 +1068,6 @@ organizações reajam às mudanças nas demandas de seus stakeholders da maneira
 eficaz e
 eficiente.
 
-
 Demand
 
 W HF
@@ -1127,7 +1092,6 @@ ATIVIDADE PROPÓSITO
 
 ENGAJAR Prover entendimento sobre as necessidades dos stakeholders, transparência e bom
 relacionamento com as partes interessadas.
-
 
 Garantir entendimento da visão, estado atual, e direcionamento para produtos e
 serviços da organização.
@@ -1161,7 +1125,6 @@ práticas e pelo sistema de i
 Comentários: Pessoal, a questão inverteu os conceitos, na verdade o SVS que é composto
 por práticas e pela
 CVS (Gabarito: Errado).
-
 
 Práticas de Gerenciamento
 
@@ -1197,7 +1160,6 @@ há aqui algumas práticas do dia-a-dia como gerenciamento de incidentes,
 eventos, problemas,
 liberação, etc. Desta forma será mais fácil o aprendizado e a memorização.
 
-
 PRÁTICAS DE GERENCIAMENTO GERAL
 
 PRÁTICAS DE GERENCIAMENTO DE
@@ -1211,7 +1173,6 @@ Melhoria contínua Análise de negócios
 Gerenciamento de plataforma e
 infraestrutura
 
-
 Gerenciamento da segurança da
 informação
 
@@ -1223,7 +1184,6 @@ de software
 
 Gerenciamento do conhecimento Controle de mudanças
 Medição e relatórios Gerenciamento de incidentes
-
 
 Gerenciamento da mudança
 organizacional
@@ -1238,13 +1198,11 @@ Gerenciamento de relacionamento Gerenciamento de liberação
 Gerenciamento de riscos Gerenciamento de catálogo de
 serviços
 
-
 Gerenciamento financeiro de
 serviços
 
 Gerenciamento de configuração de
 serviço
-
 
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
 
@@ -1252,7 +1210,6 @@ Gerenciamento da estratégia Gerenciamento de continuidade de
 serviço
 Gerenciamento de fornecedor
 Desenho de serviço
-
 
 Gerenciamento de talento e força de
 trabalho
@@ -1266,7 +1223,6 @@ serviço
 
 Teste e validação de serviço
 
-
 Práticas de Gerenciamento Geral
 
 RELEVÂNCIA EM PROVA: ALTÍSSIMA
@@ -1278,7 +1234,6 @@ organização, ligadas ao
 gerenciamento geral do negócio. Vejamos cada uma das 14 práticas de gerenciamento geral
 e seu
 respectivo objetivo.
-
 
 PRÁTICA DE GERENCIAMENTO
 
@@ -1317,7 +1272,6 @@ reduzindo os níveis de
 incerteza.
 
 Garante que as mudanças em uma organização sejam implementadas de maneira
-
 
 GERENCIAMENTO DA
 MUDANÇA ORGANIZACIONAL
@@ -1359,7 +1313,6 @@ possível evento que pode causar perdas ou danos, ou dificultar o atingimento
 de
 objetivos. Também pode ser apenas uma incerteza, com probabilidade de resultados
 positivos ou negativos.
-
 
 GERENCIAMENTO FINANCEIRO
 
@@ -1420,25 +1373,21 @@ Produtos/Serviços; de Projetos; e de Clientes. Vejamos a descrição de cada ti
 
 TIPO DESCRIÇÃO
 
-
 PORTFÓLIO DE
 PRODUTOS/SERVIÇOS
 
 O conjunto completo de produtos e/ou serviços gerenciados pela organização e de
 parceiros ou fornecedores. Inclui produtos e serviços em desenvolvimento.
 
-
 PORTFÓLIO DE PROJETOS
 
 Usado para gerenciar e coordenar projetos que foram autorizados dentro de restrições
 de custo, prazo e escopo. Garante que não há projeto duplicado.
 
-
 PORTFÓLIO DE CLIENTES
 
 Registra todos os clientes da organização que recebem produtos ou serviços. Mantido
 pela prática de Gerenciamento de Relacionamento.
-
 
 Gerenciamento de Relacionamento
 
@@ -1471,7 +1420,6 @@ INSOURCING Produtos e serviços são entregues internamente pela organização.
 
 OUTSOURCING Produtos e serviços são entregues por um fornecedor externo.
 
-
 SINGLE SOURCE OU
 PARTNERSHIP [PARCERIA]
 
@@ -1502,11 +1450,9 @@ ATIVIDADE AJUDA A ENTREGAR...
 
 CRIAR UM SENSO DE
 
-
 URGÊNCIA
 
 Objetivos relevantes e claros, participantes engajados.
-
 
 GERENCIAR PARTES
 INTERESSADAS
@@ -1574,7 +1520,6 @@ dificultar o atingimento de objetivos. O termo também pode ser definido como
 incerteza do
 resultado e usado no contexto da mensuração da probabilidade de resultados positivos e negativos.
 
-
 As principais atividades do gerenciamento de riscos são três: Identificar,
 Avaliar e Tratar. A
 avaliação de risco consiste na atividade de identificação, análise e apreciação de riscos.
@@ -1625,7 +1570,6 @@ Padrão de Resposta: Em relação à Obsoí, 0 candidato deve discordar do consu
 três aspectos
 observados em relação ao gerenciamento de conhecimento.
 
-
 O COBIT 2019 possui processo chamado de Conhecimento Gerenciado, que visa
 fornecer 0
 conhecimento e as informações necessárias para apoiar todos os funcionários na
@@ -1650,7 +1594,6 @@ conhecimento adequados nos papéis corretos para suportar seus objetivos de
 negócio. Inclui
 atividades de planejamento, recrutamento, treinamento, avaliação de desempenho, etc.
 
-
 VVorkforce
 planning
 k
@@ -1658,7 +1601,6 @@ k
 4entoring 1
 
 and1 succession
-
 
 Gerenciamento da Arquitetura
 
@@ -1672,7 +1614,6 @@ Arquitetura de Negócio, Arquitetura de Serviços, Arquitetura de Sistemas
 de Informação,
 Arquitetura de Tecnologia, Arquitetura de Ambiente. Vejamos a descrição de cada uma delas.
 
-
 TIPO DE ARQUITETURA DESCRIÇÃO
 
 NEGÓCIO Estratégias e visão (onde a organização quer chegar)
@@ -1680,7 +1621,6 @@ NEGÓCIO Estratégias e visão (onde a organização quer chegar)
 SERVIÇO Lista de todos os serviços que a organização oferece
 
 SISTEMAS DE INFORMAÇÃO E
-
 
 DADOS
 
@@ -1732,7 +1672,6 @@ Alcançado por meio da coleta de dados relevantes seguida de sua avaliação
 em determinados
 contextos.
 
-
 Os dados podem vir de vários lugares tais como: produtos, serviços, práticas, equipes
 e indivíduos,
 parceiros e fornecedores, etc. Conceitos importantes relacionados à medição e relatórios
@@ -1769,7 +1708,6 @@ São exemplos de atividades típicas da prática melhoria contínua:
 
 * Sigla em inglês: Key Performance Indicator (KPI)
 
-
 Práticas de Gerenciamento de Serviços
 
 RELEVÂNCIA EM PROVA: ALTÍSSIMA
@@ -1778,7 +1716,6 @@ As práticas de Gerenciamento de Serviços são voltadas ao gerenciamento do ser
 propriamente
 dito, ou seja, para serviços de TI, como gerenciamento da disponibilidade, ativos de TI, entre
 outros.
-
 
 PRÁTICA DE GERENCIAMENTO
 
@@ -1793,7 +1730,6 @@ identificados.
 PROJETO DE SERVIÇO Projetar produtos e serviços que sejam adequados ao propósito e ao
 uso e possam ser
 fornecidos pela organização e seu ecossistema.
-
 
 GERENCIAMENTO DE NÍVEL DE
 
@@ -1864,9 +1800,7 @@ determinadas mudanças de estado identificadas como eventos.
 Minimizar o impacto negativo de incidentes restaurando a operação normal do serviço
 o mais rápido possível.
 
-
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
-
 
 GERENCIAMENTO DE
 
@@ -1931,7 +1865,6 @@ Requisitos de Garantia são tipicamente não-funcionais e geralmente atrelados a
 critérios de
 aceitação. Podem ser restrições, características.
 
-
 Projeto de Serviço
 
 Projetar produtos e serviços que são adequados ao seu propósito e uso, e que podem
@@ -1981,7 +1914,6 @@ ideia central do Catálogo de serviços de uma organização é prover uma fonte
 consistente
 de informação sobre todos os serviços e garantir a disponibilidade para o público relevante.
 
-
 A lista de serviços do catálogo representa aqueles que estão disponíveis e visíveis
 aos clientes e é
 um subconjunto do portfólio de serviços. A "forma" do catálogo pode variar (documento,
@@ -1991,7 +1923,6 @@ mente que
 catálogo é um subconjunto do portfólio.
 
 r
-
 
 I
 
@@ -2080,7 +2011,6 @@ prática ou serviço. As atividades especificas do gerenciamento da capacidade s
 
 ATIVIDADE I DESCRIÇÃO
 
-
 ANÁLISE DA CAPACIDADE E
 DESEMPENHO DO SERVIÇO
 
@@ -2102,7 +2032,6 @@ DO SERVIÇO
 Gerenciamento de Disponibilidade
 
 Sigla do inglês Service Levei agreement.
-
 
 Visa assegurar que os serviços entregam níveis acordados de disponibilidade
 para atender às
@@ -2146,7 +2075,6 @@ TERMO DEFINIÇÃO
 
 RECOVERY TIME OBJECTIVE
 
-
 [RTOJ
 RECOVERY POINT OBJECTIVE
 
@@ -2168,11 +2096,9 @@ condições normais.
 
 Identifica as Funções Vitais de Negócio e suas dependências.
 
-
 ESTA CAI
 
 NA PROVA!
-
 
 i
 í (SEFAZ/AL - 2021 - Adaptada) A um auditor da SEFAZ foi solicitada avaliação acerca
@@ -2239,19 +2165,16 @@ Existem basicamente três tipos de mudanças da ITIL: mudança padrão, mudança
 normal e
 mudança emergencial. Vejamos a descrição de cada uma delas:
 
-
 TIPOS DE MUDANÇA DESCRIÇÃO
 
 Mudança de baixo risco e pré-autorizadas.
 
 PADRÃO
 
-
 NORMAL
 
 Mudança que precisa ser agendada, avaliada e autorizada de acordo com um processo
 formal. O nível de autorização varia de acordo com o risco da mudança.
-
 
 EMERGENCIAL
 
@@ -2296,7 +2219,6 @@ diferentes: Gerenciamento de Ativos e Gerenciamento de Configuração.
 ESTA CAI
 
 NA PROVA!
-
 
 .
 
@@ -2368,7 +2290,6 @@ precisa:
 
 * Auditar aplicações e infraestrutura para identificar itens que não estão documentados.
 
-
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
 
 í (Inédita - Prof. Paolla) 0 processo preconizado pela ITIL, responsável por: prestar informações
@@ -2420,7 +2341,6 @@ cascata.
 New or changed
 infrastructure
 
-
 Release plan
 
 New or changed
@@ -2436,7 +2356,6 @@ retease
 Review
 
 Monitoramento e Gerenciamento de Eventos
-
 
 O propósito desta prática é observar serviços e seus
 componentes, registrando e relatando
@@ -2455,7 +2374,6 @@ INFORMAÇÃO - Normalmente não precisam de uma ação imediata ao serem identif
 - São úteis para análise de dados posterior.
 
 ALERTA - Permitem que uma ação seja tomada antes de um impacto negativo.
-
 
 EXCEÇÃO
 
@@ -2498,7 +2416,6 @@ a) ativos;
 b) configuração
 c) incidentes;
 
-
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
 
 d) release;
@@ -2521,7 +2438,6 @@ incidentes é minimizar
 o impacto negativo de incidentes, restaurando a operação normal do serviço o
 mais rápido possível
 (Gabarito: Errado).
-
 
 |
 
@@ -2560,7 +2476,6 @@ alternativas são eventos normais. (Gabarito: Letra B).
 
 r* ..
 
-
 ..
 
 í (FGV / COMPESA - 2018) A Incidentes registrados pelo Service Desk devem ser associados a códigos
@@ -2587,7 +2502,6 @@ d) Violação de uma exigência regulatória da companhia.
 = e) Limitação de acesso à serviços de TI por executivos da companhia.
 ;
 
-
 Comentários: Pessoal, a prática Gerenciamento de Incidentes visa minimizar o
 impacto negativo de
 incidentes restaurando a operação normal do serviço o mais rápido possível. É muito
@@ -2610,7 +2524,6 @@ TIPOS DE EVENTOS I DESCRIÇÃO
 
 PROBLEMA Causa (em potencial) de um ou mais incidentes.
 
-
 ERRO CONHECIDO
 SOLUÇÃO DE CONTORNO
 
@@ -2620,7 +2533,6 @@ Solução para um problema que ainda não foi totalmente resolvido.
 Fases do Gerenciamento de Problemas são três: Identificação do problema,
 Controle do Problema
 e Controle do Erro.
-
 
 A k
 
@@ -2664,7 +2576,6 @@ objetivo minimizar o impacto
 negativo e a frequência de incidentes, identificando as causas raiz dos
 problemas e desenvolvendo
 soluções permanentes.
-
 
 (PG-DF - 2021 - Adaptada) Há gerenciamento de incidentes na ITIL, mas não há processo
 específico para o
@@ -2726,7 +2637,6 @@ tecnologias de comunicação:
 
 * Telefone, Chat, E-mail;
 
-
 * Portal Online, Aplicações Mobile;
 
 * Rede Social, etc.
@@ -2760,7 +2670,6 @@ podem ser de diversos tipos, com carátertécnico (teste de unidade, regressão,
 integração, sistema,
 etc.).
 
-
 Práticas de Gerenciamento de Técnico
 
 RELEVÂNCIA EM PROVA: ALTA
@@ -2770,7 +2679,6 @@ gerenciamento de tecnologias
 envolvendo desenvolvimento de software, infraestrutura e implantação. São
 apenas 3 práticas, de
 forma que se torna mais fácil a memorização.
-
 
 PRÁTICA DE GERENCIAMENTO
 
@@ -2832,7 +2740,6 @@ São Atividades típicas:
 
 * Controle de versão.
 
-
 Gerenciamento de Infraestrutura e Plataformas
 
 O proposito desta prática é supervisionar a infraestrutura e as
@@ -2892,7 +2799,6 @@ II. Gerenciamento de Ativos de TI, Gerenciamento de Liberação,
 Gerenciamento de Configuração,
 Gerenciamento de Nível de Serviço e Gerenciamento de Problemas são práticas da ITIL.
 
-
 III. Gerenciamento Financeiro não é uma prática do modelo ITIL.
 
 Assinale:
@@ -2917,13 +2823,11 @@ Serviços. Por fim, o item III está incorreto pois o Gerenciamento Financeiro �
 prática do modelo ITIL
 ligada ao Gerenciamento Geral. (Gabarito: Letra B).
 
-
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
 
 REFERÊNCIAS
 
 AXELOS. ITIL FOUNDATION, ITIL 4 Edition. London, TSO Information e Publishing Solution, 2019.
-
 
 RESUMo
 
@@ -2932,7 +2836,6 @@ Gerenciamento de Serviço:
 
 r
 
-
 T
 
 i Conjunto de recursos organizacionais especializados para gerar valor para os clientes
@@ -2940,7 +2843,6 @@ na i
 
 : forma de serviços
 ;
-
 
 SERVIÇO É 0 MEIO QUE PERMITE A
 COCRIAÇÃO DE VALOR AO FACILITAR A
@@ -2976,7 +2878,6 @@ As quatro dimensões são:
 
 * Parceiros e Fornecedores;
 
-
 * Fluxos de Valore Processos.
 
 Social
@@ -2993,7 +2894,6 @@ MELHORIAS | DESCRIÇÃO
 sistemas de autoridade bem definidos.
 
 - Cada pessoa na organização deve ter um claro entendimento da sua contribuição
-
 
 ORGANIZAÇÕES E PESSOAS
 
@@ -3039,7 +2939,6 @@ coordenada e integrada para gerar valor na forma de produtos e serviços.
 
 - Focam em quais atividades são desempenhadas e como elas estão organizadas.
 
-
 - Fluxo de Valor é uma série de passos que a organização segue para criar e entregar
 produtos e serviços a seus consumidores.
 
@@ -3057,7 +2956,6 @@ de valor. Vejam
 que a ITIL assim como os demais frameworks foca na entrega de valor.
 
 Guiding Principies
-
 
 'Opportunity ►
 
@@ -3081,7 +2979,6 @@ CONCEITOS I DESCRIÇÃO
 Acionam atividades dentro da SVS que levam à criação de valor. Nem toda
 oportunidade é explorada e nem toda demanda é atendida.
 
-
 OPORTUNIDADE E DEMANDA
 
 Oportunidade: é a possibilidade de gerar valor ou melhorara organização.
@@ -3089,16 +2986,13 @@ Oportunidade: é a possibilidade de gerar valor ou melhorara organização.
 Demanda: representa a necessidade ou desejo por produtos e serviços de clientes
 internos ou externos.
 
-
 VALOR
 
 Benefícios, utilidade ou importância percebidos em algo.
 
-
 ELEMENTOS DO SVS DESCRIÇÃO
 
 Recomendações que podem orientar uma organização em todas as circunstâncias,
-
 
 PRINCÍPIOS ORIENTADORES
 
@@ -3106,7 +3000,6 @@ independentemente das mudanças em suas metas, estratégias, tipo de trabalho ou
 estrutura de gerenciamento. Um princípio orientador é universal e duradouro.
 
 GOVERNANÇA Meio pelo qual uma organização é dirigida e controlada.
-
 
 CADEIA DE VALOR DE SERVIÇO
 
@@ -3121,14 +3014,12 @@ objetivo.
 
 Prática que alinha as práticas e os serviços de uma organização com as necessidades
 
-
 MELHORIA CONTÍNUA
 
 de negócio em constante mudança através da identificação e da melhoria contínuas
 de todos os elementos envolvidos no gerenciamento efetivo de produtos e serviços.
 
 SISTEMA DE VALOR DE SERVIÇOS
-
 
 PRINCÍPIOS
 ORIENTADORES
@@ -3144,7 +3035,6 @@ r
 
 MELHORIA CONTÍNUA
 
-
 k J
 
 k Ã
@@ -3153,11 +3043,9 @@ PRINCÍPIOS DESCRIÇÃO
 
 - Tudo que a organização precisa mapear para criar valor para as partes interessadas;
 
-
 FOQUE NO VALOR
 
 - Engloba muitas perspectivas, incluindo a experiência de clientes e usuários.
-
 
 COMECE ONDE VOCÊ ESTÁ
 
@@ -3184,7 +3072,6 @@ organização;
 
 - 0 trabalho deve sertransparente e as informações devem ser o mais visíveis possível.
 
-
 PENSE E TRABALHE DE FORMA
 
 HOLÍSTICA
@@ -3194,7 +3081,6 @@ HOLÍSTICA
 - Integre tecnologia, informações, pessoas, organizações, parceiros, acordos (tudo
 deve ser coordenado).
 
-
 MANTENHA A SIMPLICIDADE E
 
 PRATICIDADE
@@ -3202,7 +3088,6 @@ PRATICIDADE
 - Se um processo, serviço, ação ou métrica não produzir nenhum valor, elimine-o;
 
 - Use o menor número de passos possível para completar uma tarefa.
-
 
 OTIMIZE E AUTOMATIZE
 
@@ -3216,13 +3101,11 @@ ATIVIDADES DA GOVERNANÇA DESCRIÇÃO
 - Cobre a avaliação da organização e sua estratégia, portfólio e relacionamento com
 outras partes.
 
-
 AVALIAR
 
 -"ONDE ESTAMOS?"
 
 - Envolve realizar um diagnóstico.
-
 
 DIRIGIR
 
@@ -3233,7 +3116,6 @@ organização.
 - "PARA ONDE QUEREMOS IR?"
 
 - As políticas definem um conjunto de regras de comportamento na organização.
-
 
 MONITORAR
 
@@ -3258,9 +3140,7 @@ Cadeia de valor de serviços
 
 * Entregar e Suportar
 
-
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
-
 
 Design
 
@@ -3268,9 +3148,7 @@ Design
 
 Products £
 
-
 Value
-
 
 Obtain/build
 
@@ -3307,7 +3185,6 @@ aperfeiçoamento por meio de medições.
 
 Práticas
 
-
 PRÁTICAS DE GERENCIAMENTO GERAL
 
 Gerenciamento da arquitetura
@@ -3339,7 +3216,6 @@ infraestrutura
 
 Gerenciamento e desenvolvimento
 de software
-
 
 Gerenciamento da mudança
 organizacional
@@ -3387,7 +3263,6 @@ serviço
 
 Teste e validação de serviço
 
-
 PRÁTICA DE GERENCIAMENTO
 
 GERAL
@@ -3426,7 +3301,6 @@ incerteza.
 
 Garante que as mudanças em uma organização sejam implementadas de maneira
 
-
 GERENCIAMENTO DA
 MUDANÇA ORGANIZACIONAL
 
@@ -3444,9 +3318,7 @@ recursos. Inclui: Portfólio de Produtos/Serviços; Portfólio de Projetos; Port
 de
 Clientes.
 
-
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
-
 
 GERENCIAMENTO DE
 
@@ -3505,7 +3377,6 @@ fornecedores-chave para reduzir o risco de falha.
 Garante que uma organização tenha as pessoas certas com as habilidades e o
 conhecimento adequados nos papéis corretos para suportar seus objetivos de negócio.
 
-
 PRÁTICA DE GERENCIAMENTO
 
 DE SERVIÇOS
@@ -3519,7 +3390,6 @@ identificados.
 PROJETO DE SERVIÇO Projetar produtos e serviços que sejam adequados ao propósito e ao
 uso e possam ser
 fornecidos pela organização e seu ecossistema.
-
 
 GERENCIAMENTO DE NÍVEL DE
 
@@ -3552,7 +3422,6 @@ Garante que os serviços entreguem os níveis de disponibilidade acordados para 
 
 Garante que os níveis de disponibilidade e de desempenho dos serviços sejam
 suficientes em caso de desastre.
-
 
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
 
@@ -3587,7 +3456,6 @@ Captura a demanda de resolução de incidentes e requisições de serviço.
 Garante que produtos e serviços novos ou modificados atendam aos requisitos
 definidos.
 
-
 PRÁTICA DE GERENCIAMENTO
 
 DE SERVIÇOS
@@ -3614,7 +3482,6 @@ terceiros.
 
 Gerencia a implantação de hardware, software, documentação, processos ou
 qualquer outro componente de serviço novo ou alterado em ambientes de produção.
-
 
 QUESTõES CoMENTADAS - DIVERSAS BANCAS
 
@@ -3661,7 +3528,7 @@ uma prática do modelo ITIL ligada ao Gerenciamento Geral.
 
 Gabarito: Letra B
 
-Item. 2. (Inédita - Prof. Paolla) O processo preconizado pela ITIL, responsável
+2. (Inédita - Prof. Paolla) O processo preconizado pela ITIL, responsável
 por: prestar informações
 confiáveis sobre a configuração de serviços e os itens de configuração que
 os suportam. Inclui
@@ -3679,7 +3546,6 @@ d) gerenciamento de continuidade.
 
 e) gerenciamento de configuração.
 
-
 Comentários:
 
 O propósito da prática Gerenciamento de configuração é prestar informações confiáveis
@@ -3696,7 +3562,7 @@ gerenciamento de configuração.
 
 Gabarito: Letra E
 
-Item. 3. (Inédita - Prof. Paolla) A prática preconizada pela ITIL, responsável por
+3. (Inédita - Prof. Paolla) A prática preconizada pela ITIL, responsável por
 garantir a uma
 organização a compreensão o tratamento eficaz dos riscos. Termo que é definido no
 glossário
@@ -3728,7 +3594,7 @@ atividade de identificação, análise e apreciação de riscos.
 
 Gabarito: Letra C
 
-Item. 4. (Inédita - Prof. Paolla) A respeito da ITIL, analise as afirmativas a seguir.
+4. (Inédita - Prof. Paolla) A respeito da ITIL, analise as afirmativas a seguir.
 
 I. É independente de tecnologia e fornecedor.
 
@@ -3736,7 +3602,6 @@ II. É adequada para todas as áreas de atividade.
 
 III. Apresenta o Modelo de Quatro Dimensões: Organizações e Pessoas; Informação e
 Tecnologia; Parceiros e Fornecedores; Fluxos de Valor e Processos.
-
 
 Assinale:
 
@@ -3760,7 +3625,7 @@ de práticas de gerenciamento de serviços. Portanto, todas as afirmativas estiv
 
 Gabarito: Letra E
 
-Item. 5. (Inédita - Prof. Paolla) De acordo com a definição da ITIL
+5. (Inédita - Prof. Paolla) De acordo com a definição da ITIL
 (Information Technology
 Infrastructure Library), o modelo de quatro dimensões da ITIL existe para
 suportar uma
@@ -3776,7 +3641,7 @@ Definição perfeita do Modelo Quatro Dimensões da ITIL.
 
 Gabarito: Correta
 
-Item. 6. (Inédita - Prof. Paolla) De acordo com a definição da ITIL
+6. (Inédita - Prof. Paolla) De acordo com a definição da ITIL
 (Information Technology
 Infrastructure Library), a dimensão que inclui os relacionamentos da organização
 com outras
@@ -3796,10 +3661,9 @@ Pessoal, inicialmente, Fluxos de Valor e Pessoas não existe. A dimensão que tr
 relacionamentos
 da organização com outras é a dimensão Parceiros e Fornecedores, portanto, gabarito Letra D.
 
-
 Gabarito: Letra D
 
-Item. 7. (Inédita - Prof. Paolla) ITIL representa um conjunto das melhores práticas para a
+7. (Inédita - Prof. Paolla) ITIL representa um conjunto das melhores práticas para a
 definição de
 processos necessários ao funcionamento da área de TI.
 
@@ -3828,7 +3692,7 @@ Técnico.
 
 Gabarito: Letra E
 
-Item. 8. (Inédita - Prof. Paolla) Na ITIL, as práticas do grupo de práticas de
+8. (Inédita - Prof. Paolla) Na ITIL, as práticas do grupo de práticas de
 Gerenciamento de Serviço
 são voltadas ao gerenciamento do serviço propriamente dito, ou seja, para serviços de
 TI, como
@@ -3852,7 +3716,6 @@ letra B apresenta duas práticas que correspondem ao grupo de Gerenciamento de
 Serviços:
 Gerenciamento de Incidentes e Gerenciamento de Problemas. Portanto, nosso gabarito. A letra C
 
-
 apresenta duas práticas do gerenciamento geral assim como a letra D. A letra E também
 apresenta
 uma prática de gerenciamento geral: Gerenciamento de Riscos, além da prática de
@@ -3861,7 +3724,7 @@ de serviços: Gerenciamento de Incidentes.
 
 Gabarito: Letra B
 
-Item. 9. (Inédita - Prof. Paolla) Na ITIL, uma prática responsável por assegurar que a
+9. (Inédita - Prof. Paolla) Na ITIL, uma prática responsável por assegurar que a
 disponibilidade e
 desempenho do serviço são mantidas em níveis suficientes em caso de desastre além de
 lidar
@@ -3890,7 +3753,7 @@ impacto.
 
 Gabarito: Letra D
 
-Item. 10. (Inédita - Prof. Paolla) Uma Prática de Gerenciamento, no contexto da ITIL, é
+10. (Inédita - Prof. Paolla) Uma Prática de Gerenciamento, no contexto da ITIL, é
 responsável pela
 disponibilização no tempo certo, no volume adequado e no custo apropriado dos recursos
 de
@@ -3915,7 +3778,6 @@ c) de Capacidade.
 d) de Configuração.
 
 e) de Disponibilidade.
-
 
 Comentários:
 
@@ -3947,7 +3809,7 @@ Fluxos de Valor de serviço.
 
 Gabarito: Errado
 
-Item. 12. (FGV - CGE SC - 2023) No contexto de um ambiente digital em contínua evolução,
+12. (FGV - CGE SC - 2023) No contexto de um ambiente digital em contínua evolução,
 a integração
 de princípios ágeis e lean no ITIL 4 apoia as organizações na obtenção de valor
 empresarial e na
@@ -4130,8 +3992,7 @@ e garantindo a continuidade dos serviços.
 
 Gabarito: Letra C
 
-
-Item. 15. (FGV-TJDFT- 2022) Segundo o ITIL versão 4, a prática que define metas claras e
+15. (FGV-TJDFT- 2022) Segundo o ITIL versão 4, a prática que define metas claras e
 baseadas no
 negócio para o desempenho dos serviços, permitindo que a entrega de um
 serviço seja
@@ -4274,7 +4135,6 @@ II. Contribuir para a melhoria da qualidade dos serviços de TI.
 III. Garantir que o acesso aos serviços de TI acordados seja fornecidos apenas aos
 autorizados a receber por estes serviços.
 
-
 IV. Coordenar as atividades de fornecedores, equipes de suporte através de projetos,
 sempre que necessário.
 
@@ -4340,7 +4200,6 @@ adoção
 deste processo para seus superiores apresentando a eles os objetivos do
 processo de
 Gerenciamento de Problemas.
-
 
 Selecione a opção que apresenta apenas exemplos de objetivos deste processo.
 
@@ -4422,7 +4281,6 @@ do alinhamento e prioridade dos incidentes com as prioridades do negócio está
 relacionada com a
 fase de Operação de Serviço e com o processo de Gerenciamento de Incidentes na ITIL.
 
-
 Gabarito: Letra A
 
 ig.(FGV -DPE-RJ - 2019) Em ITIL, o objetivo do gerenciamento de incidentes é restaurar a
@@ -4483,7 +4341,6 @@ b) II;
 c) III;
 
 d) I e II;
-
 
 e) I, lie III.
 
@@ -4567,7 +4424,7 @@ problemas em ITIL.
 
 Gabarito: Letra B
 
-Item. 22. (Inédita - Prof. Paolla) A ITIL se preocupa em realizar uma abordagem holística, e utilização de
+22. (Inédita - Prof. Paolla) A ITIL se preocupa em realizar uma abordagem holística, e utilização de
 uma abordagem ágil, embora não prevê a utilização de DevOps.
 
 Comentários:
@@ -4584,7 +4441,7 @@ e entregar serviços de TI de alto valor para os clientes.
 
 Gabarito: Errado
 
-Item. 23. (Inédita - Prof. Paolla) A ITIL define o ciclo de vida composto por 5 dimensões.
+23. (Inédita - Prof. Paolla) A ITIL define o ciclo de vida composto por 5 dimensões.
 
 Comentários:
 
@@ -4677,7 +4534,6 @@ independentemente das mudanças em suas metas, estratégias, tipo de trabalho ou
 de
 gerenciamento. Um princípio orientador é universal e duradouro.
 
-
 () Conjunto de recursos organizacionais destinado a executar um trabalho ou atingir um objetivo.
 
 a) i, 2, 3,5,4;
@@ -4696,14 +4552,12 @@ ELEMENTOS DO SVS | DESCRIÇÃO
 
 Recomendações que podem orientar uma organização em todas as circunstâncias,
 
-
 PRINCÍPIOS ORIENTADORES
 
 independentemente das mudanças em suas metas, estratégias, tipo de trabalho ou
 estrutura de gerenciamento. Um princípio orientador é universal e duradouro.
 
 GOVERNANÇA Meio pelo qual uma organização é dirigida e controlada.
-
 
 CADEIA DE VALOR DE SERVIÇO
 
@@ -4716,7 +4570,6 @@ PRÁTICAS Conjunto de recursos organizacionais destinado a executar um trabalho 
 objetivo.
 
 Prática que alinha as práticas e os serviços de uma organização com as necessidades
-
 
 MELHORIA CONTÍNUA
 
@@ -4744,7 +4597,6 @@ de Serviços que mostra as atividades-chave necessárias para atender à demanda
 por meio do gerenciamento de produtos e serviços
 
 Comentários:
-
 
 Parece tudo certo né, pessoal? Mas há um erro sutil: Na verdade a CVS é que é o
 elemento central
@@ -4792,7 +4644,7 @@ Perfeito, pessoal! É exatamente esse o contexto da Governança.
 
 Gabarito: Correto
 
-Item. 31. (FGV / CGU - 2022) A alta administração da XPTO está implementando o ITIL V4.
+31. (FGV / CGU - 2022) A alta administração da XPTO está implementando o ITIL V4.
 Para alcançar
 os resultados e trabalhar de forma mais eficaz, é necessário considerar todas as
 dimensões do
@@ -4804,7 +4656,6 @@ Ao implementar o ITIL V4, a XPTO se preocupou em como as várias partes da organ
 trabalham deforma integrada e coordenada para habilitara criação de valor através de
 produtos
 e serviços.
-
 
 Com isso, segundo o ITIL V4, a XPTO se concentrou em implementar as dimensões:
 
@@ -4843,7 +4694,7 @@ na letra D.
 
 Gabarito: Letra D.
 
-Item. 32. (FGV / PC-AM - 2022) Analise as afirmativas abaixo sobre o ITIL 4:
+32. (FGV / PC-AM - 2022) Analise as afirmativas abaixo sobre o ITIL 4:
 
 I. Um dos princípios norteadores do ITIL 4 é o foco na entrega de
 valor para as partes
@@ -4869,7 +4720,6 @@ e) I e III
 
 Comentários:
 
-
 O item I está correto, pois os Princípios da ITIL 4 são: Foque no valor; Comece
 onde você está;
 Progrida iterativamente com feedback; Colabore e promova a visibilidade; Pense
@@ -4894,7 +4744,7 @@ composto por várias cadeias de valor de serviço.", porque é possível ter vá
 
 Gabarito: Letra D
 
-Item. 33. (FGV / SEFAZ-AM - 2022) Segundo o ITIL versão 4, o objetivo da prática de
+33. (FGV / SEFAZ-AM - 2022) Segundo o ITIL versão 4, o objetivo da prática de
 gerenciamento de
 ativos de TI é
 a) minimizar o impacto dos incidentes de hardware, restaurando a operação normal o mais
@@ -4937,7 +4787,6 @@ que tem como
 proposito supervisionar a infraestrutura e as plataformas usadas por uma organização.
 
 Gabarito: Letra C
-
 
 34-(FGV / TJDFT - 2022) A prática do ITIL versão 4 que tem por objetivo minimizar o
 impacto
@@ -4999,7 +4848,6 @@ Gabarito: Letra B
 I. A operação normal de um serviço deve ser restaurada o mais rápido possível, de
 modo que o
 impacto seja mínimo, de acordo com o gerenciamento de incidentes.
-
 
 II. Gerenciamento de capacidade é uma das Práticas de gerenciamento de serviços.
 
@@ -5259,7 +5107,6 @@ plenamente em conformidade com a ITIL.
 
 Gabarito: Letra D
 
-
 /f2.(FGV / MPE-MS - 2013 - Adaptada) Com relação a um incidente em um Serviço de
 TI, analise
 as afirmativas a seguir.
@@ -5329,7 +5176,6 @@ horário comercial, e nem por mais de 12 horas a qualquer momento em um serviço
 funcione
 ininterruptamente.
 
-
 d) O Provedor de Serviço se compromete a alocar pelo menos 3 técnicos qualificados
 para
 responder a qualquer indagação que os usuários de um determinado serviço possam solicitar.
@@ -5389,7 +5235,6 @@ inclui: planejar, coordenar e entregar como esperado. Portanto, correta questão
 
 Gabarito: Correto
 
-
 45-(CESPE / CODEVASF- 2021) Em uma reunião estratégica de determinada organização, foram
 elencadas as necessidades de TI a seguir.
 
@@ -5441,14 +5286,13 @@ organizações, independentemente de seu tipo ou tecnologias empregadas.
 
 Gabarito: Correto
 
-Item. 47. (CESPE / TCE-RJ -2021) A cadeia de valor do serviço, um dos componentes
+47. (CESPE / TCE-RJ -2021) A cadeia de valor do serviço, um dos componentes
 principais da ITIL,
 pode ser adaptada para gerenciar serviços em organizações onde a tecnologia da
 informação
 (TI) é centralizada ou que implementem a abordagem DevOps.
 
 Comentários:
-
 
 CVS é sim um dos componentes principais da ITIL - inserida dentro do SVS. É um
 modelo flexível
@@ -5504,12 +5348,11 @@ As quatro dimensões são: Organizações e Pessoas; Informação e Tecnologia;
 Parceiros e
 Fornecedores; Fluxos de Valor e Processos.
 
-
 by multiple factors
 
 Gabarito: Correto
 
-Item. 51. (CESPE / Ministério da Economia - 2021) De acordo com a ITIL 4, informação e tecnologia
+51. (CESPE / Ministério da Economia - 2021) De acordo com a ITIL 4, informação e tecnologia
 formam uma perspectiva para a entrega de serviços.
 
 Comentários:
@@ -5520,7 +5363,7 @@ Parceiros e Fornecedores; Fluxos de Valor e Processos.
 
 Gabarito: Correto
 
-Item. 52. (CESPE / Ministério da Economia - 2021) O mesmo papel de consumidor de
+52. (CESPE / Ministério da Economia - 2021) O mesmo papel de consumidor de
 serviços é
 compartilhado entre consumidor, usuário e patrocinador.
 
@@ -5532,9 +5375,8 @@ Erro sutil na questão.
 
 Gabarito: Errado
 
-Item. 53. (CESPE / Ministério da Economia - 2021) A governança é um dos componentes do SVS (service
+53. (CESPE / Ministério da Economia - 2021) A governança é um dos componentes do SVS (service
 value system) da ITIL 4.
-
 
 Comentários:
 
@@ -5593,10 +5435,9 @@ si. Gerenciamento da Arquitetura está ligado a arquitetura organizacional. Pare
 que a banca
 copiou a definição não é mesmo?
 
-
 Gabarito: Correto
 
-Item. 57. (CESPE / Ministério da Economia - 2021) Não há prática específica para gestão de riscos, sendo
+57. (CESPE / Ministério da Economia - 2021) Não há prática específica para gestão de riscos, sendo
 o gerenciamento de riscos realizado pela prática gerenciamento da segurança.
 
 Comentários:
@@ -5604,7 +5445,7 @@ Comentários:
 Eita! Aí não né, cespe! Nem venha com esse papo! Há sim a prática gerenciamento de
 riscos na ITIL
 
-Item. 4. Gerenciamento de riscos é a prática que garante a uma organização a compreensão o
+4. Gerenciamento de riscos é a prática que garante a uma organização a compreensão o
 tratamento
 eficaz dos riscos. Risco é definido no glossário da ITIL como um possível evento que
 pode causar
@@ -5623,7 +5464,7 @@ Comentários:
 A questão estava indo muito bem até dizer que não há prática específica com essa
 finalidade na ITIL
 
-Item. 4. Análise de negócios é a prática analítica de um negócio ou de algum de seus
+4. Análise de negócios é a prática analítica de um negócio ou de algum de seus
 elementos, que
 define suas necessidades e recomenda soluções para atendê-las e/ou para resolver o
 problema de
@@ -5707,7 +5548,6 @@ Serviços de TI pertence ao volume Desenho de Serviço.
 
 Comentários:
 
-
 Na verdade, o Gerenciamento Financeiro encontra-se no Gerenciamento Geral na ITIL 4.
 Gerenciamento financeiro de serviços visa apoiar as estratégias e planos de gerenciamento de
 serviços uma organização garantindo que seus recursos e investimentos financeiros estejam
@@ -5763,14 +5603,13 @@ d) Errada, Definição serviço: conjunto de recursos organizacionais especializ
 gerar valor
 para os clientes na forma de serviços.
 
-
 e) Errada até mesmo para ITIL 3, pois os cinco estágios da ITIL V3 eram:
 Estratégia, Desenho,
 Transição, Operação e Melhoria contínua.!
 
 Gabarito: Letra B
 
-Item. 66. (IDECAN - PEFOCE - 2021) ITIL V4 constitui uma estrutura para
+66. (IDECAN - PEFOCE - 2021) ITIL V4 constitui uma estrutura para
 gerenciamento, uma
 tendência crescente de aplicar as melhores práticas nas empresas e nos negócios,
 definindo
@@ -5817,14 +5656,13 @@ requisições pré-definidas de usuários de uma maneira efetiva e amigável.
 
 Gabarito: Correto
 
-Item. 68. (CESPE - PG-DF - 2021) A prática gestão de acessos tem a finalidade de
+68. (CESPE - PG-DF - 2021) A prática gestão de acessos tem a finalidade de
 garantir a menor
 interrupção possível do serviço provido no caso de alteração em um ambiente de
 tecnologia da
 informação para melhoria dos negócios.
 
 Comentários:
-
 
 Errado, a questão inverteu o nome da prática. O propósito do gerenciamento
 de incidentes é
@@ -5834,7 +5672,7 @@ serviço o mais rápido possível.
 
 Gabarito: Errado
 
-Item. 69. (Quadrix / CORE-PR- 2021 - Adaptada) Na ITIL 4, Gerenciamento
+69. (Quadrix / CORE-PR- 2021 - Adaptada) Na ITIL 4, Gerenciamento
 de Incidente,
 Gerenciamento de Problema e Cumprimento de Requisição são exemplos de práticas
 da
@@ -5868,7 +5706,7 @@ há essa restrição "dentro de um período mínimo de 24 horas".
 
 Gabarito: Errado
 
-Item. 71. (Quadrix / CORE-PR- 2021) A função Gerenciamento das Operações de TI é responsável
+71. (Quadrix / CORE-PR- 2021) A função Gerenciamento das Operações de TI é responsável
 por
 gerenciar aplicativos ao longo de seu ciclo de vida.
 
@@ -5884,10 +5722,9 @@ de manutenção, conformidade e auditabilidade é denominada Desenvolvimento e
 Gerenciamento
 de Softwares.
 
-
 Gabarito: Errado
 
-Item. 72. (FCC / TJ-MA - 2019 - Adaptada) A Central de Serviços (CS) recebeu as seguintes solicitações:
+72. (FCC / TJ-MA - 2019 - Adaptada) A Central de Serviços (CS) recebeu as seguintes solicitações:
 
 - Substituição do toner da impressora a laser.
 
@@ -5933,7 +5770,7 @@ fechadas pela CS, mas são tratadas pelo processo de Cumprimento das Requisiçõ
 
 Gabarito: Letra B
 
-Item. 73. (FCC / TRF 4a. Região - 2019 - Adaptada) Na busca por maior eficiência e eficácia em uma
+73. (FCC / TRF 4a. Região - 2019 - Adaptada) Na busca por maior eficiência e eficácia em uma
 organização que utiliza a ITIL edição 2011, um Analista sugeriu modificar a infraestrutura de um
 ativo de TI. A permissão para tal modificação deve ser concedida
 no processo de
@@ -6050,7 +5887,6 @@ e) gerenciamento de catálogo, na ITIL, e gerenciar o catálogo, no COBIT.
 
 Comentários:
 
-
 O gerenciamento do conhecimento é uma prática que mantém e aprimora o uso eficaz,
 eficiente
 e conveniente da informação e do conhecimento no âmbito de uma organização. Ademais,
@@ -6104,7 +5940,6 @@ da questão
 está em dizer que atribui aos clientes a propriedade dos custos e riscos específicos.
 
 Gabarito: Errado
-
 
 82.(CESPE/ TCE-RO - 2019 - Adaptada) O desenvolvimento de sistemas é fortemente
 apoiado
@@ -6176,9 +6011,7 @@ questão contextualizou Garantia e atribuiu o conceito a utilidade, o que torna 
 
 Gabarito: Errado
 
-
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
-
 
 LISTA DE QUESTõES
 
@@ -6209,7 +6042,7 @@ d) se somente as afirmativas I e II estiverem corretas.
 
 e) se somente as afirmativas II e III estiverem corretas.
 
-Item. 2. (Inédita - Prof. Paolla) O processo preconizado pela ITIL, responsável por:
+2. (Inédita - Prof. Paolla) O processo preconizado pela ITIL, responsável por:
 prestar informações
 confiáveis sobre a configuração de serviços e os itens de configuração que os
 suportam. Inclui
@@ -6227,7 +6060,7 @@ d) gerenciamento de continuidade.
 
 e) gerenciamento de configuração.
 
-Item. 3. (Inédita - Prof. Paolla) A prática preconizada pela ITIL, responsável
+3. (Inédita - Prof. Paolla) A prática preconizada pela ITIL, responsável
 por garantir a uma
 organização a compreensão o tratamento eficaz dos riscos. Termo que é definido no
 glossário
@@ -6240,7 +6073,6 @@ b) Gerenciamento de Indecentes
 c) Gerenciamento de Riscos
 d) Gerenciamento de Incertezas
 e) Gerenciamento de Projetos
-
 
 4- (Inédita - Prof. Paolla) A respeito da ITIL, analise as afirmativas a seguir.
 
@@ -6263,7 +6095,7 @@ d) se somente as afirmativas II e III estiverem corretas.
 
 e) se todas as afirmativas estiverem corretas.
 
-Item. 5. (Inédita - Prof. Paolla) De acordo com a definição da ITIL
+5. (Inédita - Prof. Paolla) De acordo com a definição da ITIL
 (Information Technology
 Infrastructure Library), o modelo de quatro dimensões da ITIL existe para
 suportar uma
@@ -6273,7 +6105,7 @@ serviços. Este modelo apresenta quatro perspectivas críticas para a promoção
 eficaz
 de valor, para os clientes e outras partes interessadas, na forma de produtos e serviços.
 
-Item. 6. (Inédita - Prof. Paolla) De acordo com a definição da ITIL
+6. (Inédita - Prof. Paolla) De acordo com a definição da ITIL
 (Information Technology
 Infrastructure Library), a dimensão que inclui os relacionamentos da organização
 com outras
@@ -6287,7 +6119,7 @@ c) Informação e Tecnologia
 d) Parceiros e Fornecedores
 e) Fluxos de Valor e Processos
 
-Item. 7. (Inédita - Prof. Paolla) ITIL representa um conjunto das melhores práticas para a
+7. (Inédita - Prof. Paolla) ITIL representa um conjunto das melhores práticas para a
 definição de
 processos necessários ao funcionamento da área de TI.
 
@@ -6304,7 +6136,7 @@ c) Serviços, Serviços e Técnico
 d) Geral, Geral e Serviços
 e) Geral, Serviços, Técnico
 
-Item. 8. (Inédita - Prof. Paolla) Na ITIL, as práticas do grupo de práticas de
+8. (Inédita - Prof. Paolla) Na ITIL, as práticas do grupo de práticas de
 Gerenciamento de Serviço
 são voltadas ao gerenciamento do serviço propriamente dito, ou seja, para serviços de
 TI, como
@@ -6318,7 +6150,7 @@ c) Gerenciamento da Arquitetura e Gerenciamento de Relacionamento
 d) Gerenciamento de Portfolio e Gerenciamento de Estratégia
 e) Gerenciamento de Riscos e Gerenciamento de Incidentes
 
-Item. 9. (Inédita - Prof. Paolla) Na ITIL, uma prática responsável por assegurar que a
+9. (Inédita - Prof. Paolla) Na ITIL, uma prática responsável por assegurar que a
 disponibilidade e
 desempenho do serviço são mantidas em níveis suficientes em caso de desastre além de
 lidar
@@ -6335,7 +6167,7 @@ c) Gerenciamento de Problemas.
 d) Gerenciamento da Continuidade do Serviço
 e) Gerenciamento da Disponibilidade
 
-Item. 10. (Inédita - Prof. Paolla) Uma Prática de Gerenciamento, no contexto da ITIL, é
+10. (Inédita - Prof. Paolla) Uma Prática de Gerenciamento, no contexto da ITIL, é
 responsável pela
 disponibilização no tempo certo, no volume adequado e no custo apropriado dos recursos
 de
@@ -6361,10 +6193,9 @@ d) de Configuração.
 
 e) de Disponibilidade.
 
-
 íi. (Inédita-Prof. Paolla) Princípios orientadores, Governança e Gestão são componentes do SVS.
 
-Item. 12. (FGV - CGE SC - 2023) No contexto de um ambiente digital em contínua evolução,
+12. (FGV - CGE SC - 2023) No contexto de um ambiente digital em contínua evolução,
 a integração
 de princípios ágeis e lean no ITIL 4 apoia as organizações na obtenção de valor
 empresarial e na
@@ -6386,7 +6217,7 @@ e) permite às organizações reagir rapidamente a mudanças no ambiente digital
 feedback
 dos clientes, o que pode aumentar a satisfação dos clientes e a receita empresarial.
 
-Item. 13. (FGV - CGE SC - 2023) Toda organização desenvolve um conjunto de
+13. (FGV - CGE SC - 2023) Toda organização desenvolve um conjunto de
 competências
 organizacionais para prover valor na forma de produtos e serviços. Uma dessas
 competências é
@@ -6425,14 +6256,13 @@ d) release;
 
 e) risco.
 
-Item. 15. (FGV-TJDFT-2022) Segundo 0 ITIL versão 4, a prática que define metas claras e
+15. (FGV-TJDFT-2022) Segundo 0 ITIL versão 4, a prática que define metas claras e
 baseadas no
 negócio para o desempenho dos serviços, permitindo que a entrega de um
 serviço seja
 devidamente avaliada, monitorada e gerenciada com relação a essas metas, é o
 gerenciamento
 de:
-
 
 a) capacidade de serviço;
 
@@ -6511,7 +6341,6 @@ segundo a ITIL®, deverão constar no relatório.
 
 Avalie se são objetivos do relatório:
 
-
 I. Fazer com que os recursos planejados nas fases de Estratégia de Serviço e Desenho do
 Serviço sejam realizados na fase de Operação de Serviço.
 
@@ -6578,7 +6407,6 @@ operação normal do serviço o mais rápido possível.
 
 Nesse contexto, uma situação que deveria sertratada como um incidente e:
 
-
 a) após cinco tentativas de acesso ao sistema, a senha de um usuário foi bloqueada;
 
 b) um segmento de rede falhou e o usuário não foi previamente notificado
@@ -6638,13 +6466,12 @@ e) restaurar rapidamente a normalidade e a disponibilidade dos serviços,
 minimizando o
 impacto negativo nas operações do negócio.
 
-Item. 22. (Inédita - Prof. Paolla) A ITIL se preocupa em realizar uma abordagem holística, e utilização de
+22. (Inédita - Prof. Paolla) A ITIL se preocupa em realizar uma abordagem holística, e utilização de
 uma abordagem ágil, embora não prevê a utilização de DevOps.
 
-Item. 23. (Inédita - Prof. Paolla) A ITIL define o ciclo de vida composto por 5 dimensões.
+23. (Inédita - Prof. Paolla) A ITIL define o ciclo de vida composto por 5 dimensões.
 
-
-Item. 24. (Inédita - Prof. Paolla) A dimensão da ITIL que inclui os relacionamentos da organização com
+24. (Inédita - Prof. Paolla) A dimensão da ITIL que inclui os relacionamentos da organização com
 outras que ajudam a projetar, desenvolver, implantar, entregar, suportar e melhorar os
 serviços é:
 
@@ -6656,7 +6483,7 @@ c) Parceiros e Fornecedores;
 
 d) Fluxos de Valor e Processos.
 
-Item. 25. (Inédita - Prof. Paolla) A dimensão da ITIL que cobre papeis, responsabilidades,
+25. (Inédita - Prof. Paolla) A dimensão da ITIL que cobre papeis, responsabilidades,
 estruturas
 organizacionais, cultura, equipes e competências necessárias para criar e entregar
 serviços é
@@ -6670,7 +6497,7 @@ c) Parceiros e Fornecedores;
 
 d) Fluxos de Valor e Processos.
 
-Item. 26. (Inédita - Prof. Paolla) Associe corretamente as definições aos componentes do SVS.
+26. (Inédita - Prof. Paolla) Associe corretamente as definições aos componentes do SVS.
 
 1 Princípios orientadores;
 
@@ -6704,12 +6531,11 @@ a) i, 2, 3,5,4;
 
 b) 5/ 4, 3,1, 2;
 
-
 C) 5, 3, 2,1, 4;
 
 d) 4, 3, 2, 5, i;
 
-Item. 27. (Inédita - Prof. Paolla) As práticas da ITIL 4 são definidas como recomendações
+27. (Inédita - Prof. Paolla) As práticas da ITIL 4 são definidas como recomendações
 que podem
 orientar uma organização em todas as circunstâncias, independentemente das
 mudanças em
@@ -6717,19 +6543,19 @@ suas metas, estratégias, tipo de trabalho ou estrutura de gerenciamento.
 Um princípio
 orientador é universal e duradouro
 
-Item. 28. (Inédita - Prof. Paolla) O Sistema de Valor de Serviço é o elemento central da Cadeia de Valor
+28. (Inédita - Prof. Paolla) O Sistema de Valor de Serviço é o elemento central da Cadeia de Valor
 de Serviços que mostra as atividades-chave necessárias para atender à demanda e criar valor
 por meio do gerenciamento de produtos e serviços
 
-Item. 29. (Inédita - Prof. Paolla) A ITIL 4 apresenta as práticas dividas em 3 grupos,
+29. (Inédita - Prof. Paolla) A ITIL 4 apresenta as práticas dividas em 3 grupos,
 Gerenciamento
 Administrativo, Gerenciamento de Serviços e Gerenciamento Operacional.
 
-Item. 30. (Inédita - Prof. Paolla) Governança é um componente do SVS e é o meio pelo qual
+30. (Inédita - Prof. Paolla) Governança é um componente do SVS e é o meio pelo qual
 uma
 organização é dirigida e controlada.
 
-Item. 31. (FGV / CGU - 2022) A alta administração da XPTO está implementando o ITIL V4.
+31. (FGV / CGU - 2022) A alta administração da XPTO está implementando o ITIL V4.
 Para alcançar
 os resultados e trabalhar de forma mais eficaz, é necessário considerar todas as
 dimensões do
@@ -6753,7 +6579,7 @@ d) fluxo de valor e processos;
 
 e) organizações e tecnologia.
 
-Item. 32. (FGV / PC-AM - 2022) Analise as afirmativas abaixo sobre o ITIL 4:
+32. (FGV / PC-AM - 2022) Analise as afirmativas abaixo sobre o ITIL 4:
 
 I. Um dos princípios norteadores do ITIL 4 é o foco na entrega de
 valor para as partes
@@ -6762,7 +6588,6 @@ interessadas.
 II. O ITIL 4 reforça a diferença entre incidente e problema, e possui práticas
 distintas para cada
 um destes conceitos.
-
 
 III. OITIL 4 orienta que cada organização deve possuir apenas um único fluxo de
 valor, composto
@@ -6779,7 +6604,7 @@ d) I e II
 
 e) I e III
 
-Item. 33. (FGV / SEFAZ-AM - 2022) Segundo o ITIL versão 4, o objetivo da prática de
+33. (FGV / SEFAZ-AM - 2022) Segundo o ITIL versão 4, o objetivo da prática de
 gerenciamento de
 ativos de TI é
 a) minimizar o impacto dos incidentes de hardware, restaurando a operação normal o mais
@@ -6798,7 +6623,7 @@ econômica.
 e) monitorar a infraestrutura e responder às condições que possam levar a possíveis falhas ou
 incidentes.
 
-Item. 34. (FGV / TJDFT - 2022) A prática do ITIL versão 4 que tem por objetivo minimizar
+34. (FGV / TJDFT - 2022) A prática do ITIL versão 4 que tem por objetivo minimizar
 o impacto
 negativo de uma interrupção não planejada de um serviço, restaurando a operação normal
 do
@@ -6813,7 +6638,7 @@ d) release;
 
 e) risco.
 
-Item. 35. (FGV / DPE - RJ - 2019) Em ITIL, o objetivo do gerenciamento de incidentes é
+35. (FGV / DPE - RJ - 2019) Em ITIL, o objetivo do gerenciamento de incidentes é
 restaurar a
 operação normal do serviço o mais rápido possível. Nesse contexto, uma situação que
 deveria
@@ -6826,7 +6651,6 @@ interrupções de serviço;
 
 c) um usuário não consegue acessar um serviço após o horário previamente estabelecido;
 
-
 d) o tôner de uma impressora de rede acaba e os usuários direcionam seus trabalhos
 para a
 impressora reserva;
@@ -6834,7 +6658,7 @@ impressora reserva;
 e) o serviço de correio eletrônico é interrompido para manutenção preventiva, conforme
 notificado previamente aos usuários.
 
-Item. 36. (FGV / BANESTES -2018-Adaptada) Acerca do ITIL, analise as afirmativas a seguir:
+36. (FGV / BANESTES -2018-Adaptada) Acerca do ITIL, analise as afirmativas a seguir:
 
 I. A operação normal de um serviço deve ser restaurada o mais rápido possível, de
 modo que o
@@ -6857,7 +6681,7 @@ d) I, lie III
 
 e) lie III
 
-Item. 37. (FGV / COMPESA - 2018) Incidentes registrados pelo Service Desk devem ser associados a
+37. (FGV / COMPESA - 2018) Incidentes registrados pelo Service Desk devem ser associados a
 códigos de prioridade que determinam o tempo de solução estimado para a falha reportada. O
 ITIL V3 sugere a definição de critérios com base no nível de urgência e impacto para que seja
 definido um modelo de priorização no tratamento dos incidentes.
@@ -6875,13 +6699,12 @@ d) Violação de uma exigência regulatória da companhia.
 
 e) Limitação de acesso à serviços de TI por executivos da companhia.
 
-Item. 38. (FGV / MPE - BA - 2017 - Adaptada) ITIL é um framework para gerenciamento de serviços de
+38. (FGV / MPE - BA - 2017 - Adaptada) ITIL é um framework para gerenciamento de serviços de
 TI utilizado por diversas organizações.
 
 De acordo com o ITIL, são Práticas de Gerenciamento Geral:
 
 a) Gerenciamento de Estratégia e Gerenciamento de Portfolio;
-
 
 b) Gerenciamento do desempenho e capacidade e Gerenciamento de Fornecedor;
 
@@ -6950,7 +6773,6 @@ e) V, F e F.
 ITIL V3, de
 Gerenciamento de Serviços de TI, assinale V para a afirmativa verdadeira e F para a falsa.
 
-
 ( ) Controle de Mudanças é a prática responsável por maximizar o número de mudanças
 de
 sucesso em serviços, assegurando: Avaliação de riscos; Autorização de
@@ -7016,7 +6838,6 @@ INADEQUADA para constar em um ANS.
 
 a) O tempo máximo de resposta a uma determinada consulta não pode exceder 40 segundos.
 
-
 b) A aplicação de cadastramento de fornecedores da organização deverá estar disponível
 no
 mínimo em 80% do tempo durante o horário comercial.
@@ -7037,7 +6858,7 @@ providenciar um local e equipamentos alternativos para dar continuidade a um
 determinado
 serviço em, no máximo, 24 horas a partir da interrupção do serviço.
 
-Item. 44. (CESPE / CODEVASF - 2021) Em uma reunião estratégica de determinada organização,
+44. (CESPE / CODEVASF - 2021) Em uma reunião estratégica de determinada organização,
 foram
 elencadas as necessidades de TI a seguir.
 
@@ -7059,7 +6880,7 @@ A necessidade II, ainda que verse sobre gerenciamento de projetos, pode ser aten
 uma vez que esta dispõe de prática específica para gerenciamento de projeto, que possibilita que
 os projetos sejam entregues a contento.
 
-Item. 45. (CESPE / CODEVASF - 2021) Em uma reunião estratégica de determinada organização,
+45. (CESPE / CODEVASF - 2021) Em uma reunião estratégica de determinada organização,
 foram
 elencadas as necessidades de TI a seguir.
 
@@ -7081,18 +6902,17 @@ A necessidade III pode ser atendida tanto pela ITIL, com a prática de gerenciam
 visa realizar tratamento eficaz dos riscos, quanto pelo PMBOK, que dispõe de uma área de
 conhecimento com processos que visam implementar e planejar as respostas aos riscos.
 
-
-Item. 46. (CESPE / TCE-RJ - 2021) A estrutura da ITIL 4 é composta pelo modelo de quatro
+46. (CESPE / TCE-RJ - 2021) A estrutura da ITIL 4 é composta pelo modelo de quatro
 dimensões e
 pelo sistema de valor de serviço; neste, incluem-se a governança e as práticas da ITIL.
 
-Item. 47. (CESPE / TCE-RJ -2021) A cadeia de valor do serviço, um dos componentes
+47. (CESPE / TCE-RJ -2021) A cadeia de valor do serviço, um dos componentes
 principais da ITIL,
 pode ser adaptada para gerenciar serviços em organizações onde a tecnologia da
 informação
 (TI) é centralizada ou que implementem a abordagem DevOps.
 
-Item. 48. (CESPE / TCE-RJ - 2021) Quanto ao aspecto de abrangência, de forma similar ao
+48. (CESPE / TCE-RJ - 2021) Quanto ao aspecto de abrangência, de forma similar ao
 COBIT 5, a
 ITIL 4 descreve uma abordagem holística no gerenciamento de serviços, nas
 seguintes
@@ -7100,55 +6920,54 @@ dimensões: planejamento e estratégia do serviço; desenho e construção do se
 entrega e
 suporte de serviços; monitoramento e melhoria contínua do serviço.
 
-Item. 49. (CESPE/ SEFAZ/CE-2021) Na ITIL 4, a cadeia de valor de serviço (CVS) é composta
+49. (CESPE/ SEFAZ/CE-2021) Na ITIL 4, a cadeia de valor de serviço (CVS) é composta
 por práticas
 e pelo sistema de valores de serviço (SVS).
 
-Item. 50. (CESPE / BANESE - 2021) O sistema de valor do serviço (SVS) considera as
+50. (CESPE / BANESE - 2021) O sistema de valor do serviço (SVS) considera as
 dimensões
 organizações e pessoas; informação e tecnologia; parceiros e fornecedores; e cadeias de
 valor e
 processos.
 
-Item. 51. (CESPE / Ministério da Economia - 2021) De acordo com a ITIL 4, informação e
+51. (CESPE / Ministério da Economia - 2021) De acordo com a ITIL 4, informação e
 tecnologia
 formam uma perspectiva para a entrega de serviços.
 
-Item. 52. (CESPE / Ministério da Economia - 2021) O mesmo papel de consumidor de
+52. (CESPE / Ministério da Economia - 2021) O mesmo papel de consumidor de
 serviços é
 compartilhado entre consumidor, usuário e patrocinador.
 
-Item. 53. (CESPE / Ministério da Economia - 2021) A governança é um dos componentes do SVS (service
+53. (CESPE / Ministério da Economia - 2021) A governança é um dos componentes do SVS (service
 value system) da ITIL 4.
 
-Item. 54. (CESPE / Ministério da Economia -2021) Em relação à organização do consumidor, o
+54. (CESPE / Ministério da Economia -2021) Em relação à organização do consumidor, o
 provedor
 do serviço deve ser uma entidade externa.
 
-Item. 55. (CESPE / Ministério da Economia - 2021) Informação e tecnologia é uma das
+55. (CESPE / Ministério da Economia - 2021) Informação e tecnologia é uma das
 dimensões do
 gerenciamento de serviço e inclui os conhecimentos usados para fornecer
 serviços e as
 tecnologias usadas para gerenciartodos os aspectos do sistema de valor de serviço.
 
-Item. 56. (CESPE / Ministério da Economia -2021) A prática de gerenciamento de arquitetura
+56. (CESPE / Ministério da Economia -2021) A prática de gerenciamento de arquitetura
 tem como
 objetivo fornecer uma compreensão de todos os diferentes elementos que compõem
 uma
 organização, a fim de permitirque a organização gerencie mudanças complexas em uma forma
 estruturada e ágil.
 
-Item. 57. (CESPE / Ministério da Economia - 2021) Não há prática específica para gestão de riscos, sendo
+57. (CESPE / Ministério da Economia - 2021) Não há prática específica para gestão de riscos, sendo
 o gerenciamento de riscos realizado pela prática gerenciamento da segurança.
 
-
-Item. 58. (CESPE / Ministério da Economia - 2021) Um dos objetivos das quatro dimensões do
+58. (CESPE / Ministério da Economia - 2021) Um dos objetivos das quatro dimensões do
 serviço é
 realizar a análise de negócios e recomendar soluções para se resolver um problema de
 negócios,
 visto que não há prática específica com essa finalidade na ITIL 4.
 
-Item. 59. (CESPE / Ministério da Economia - 2021) Na ITIL 4, o gerenciamento de incidentes
+59. (CESPE / Ministério da Economia - 2021) Na ITIL 4, o gerenciamento de incidentes
 e o
 gerenciamento de problemas foram unidos em uma única prática que visa restaurar a
 operação
@@ -7156,7 +6975,7 @@ normal do serviço o mais rapidamente possível, juntamente com a descoberta da 
 raiz do
 problema.
 
-Item. 60. (CESPE / Ministério da Economia - 2021) A ITIL 4 possui prática
+60. (CESPE / Ministério da Economia - 2021) A ITIL 4 possui prática
 específica para o
 gerenciamento de infraestrutura, a qual visa supervisionar as plataformas
 usadas pela
@@ -7164,7 +6983,7 @@ organização, estando preparada para tecnologias como chatbots, inteligência
 artificial e
 gerenciamento de dispositivos móveis.
 
-Item. 61. (CESPE / Ministério da Economia - 2021) A prática de gerenciamento e
+61. (CESPE / Ministério da Economia - 2021) A prática de gerenciamento e
 desenvolvimento de
 software na ITIL 4 gerencia a implementação da solução embasada em práticas
 ágeis,
@@ -7178,17 +6997,17 @@ de serviços e gerenciamento da demanda fazem parte do estágio denominado
 estratégia de
 serviço.
 
-Item. 63. (Quadrix - CFT - 2021 - Adaptada) Na ITIL, o processo Gerenciamento Financeiro
+63. (Quadrix - CFT - 2021 - Adaptada) Na ITIL, o processo Gerenciamento Financeiro
 para os
 Serviços de TI pertence ao volume Desenho de Serviço.
 
-Item. 64. (Quadrix - CFT - 2021 - Adaptada) Os processos Gerenciamento de
+64. (Quadrix - CFT - 2021 - Adaptada) Os processos Gerenciamento de
 Mudanças e
 Gerenciamento de Liberação e Implantação fazem parte do volume Transição de Serviço do
 ITIL
 4-
 
-Item. 65. (Fundatec-CRF/PR-2021-Adaptada) Assinale a alternativa correta sobre a ITIL 4.
+65. (Fundatec-CRF/PR-2021-Adaptada) Assinale a alternativa correta sobre a ITIL 4.
 
 a) Sua abordagem de ciclo de vida permite que se tenha uma visão do gerenciamento
 dos
@@ -7206,10 +7025,9 @@ d) Define serviço como um conjunto de processos que garantem conformidade em
 suas
 práticas.
 
-
 e) Gerenciamento de Mudança é um dos seus 5 estágios.
 
-Item. 66. (IDECAN - PEFOCE - 2021) ITIL V4 constitui uma estrutura para
+66. (IDECAN - PEFOCE - 2021) ITIL V4 constitui uma estrutura para
 gerenciamento, uma
 tendência crescente de aplicar as melhores práticas nas empresas e nos negócios,
 definindo
@@ -7231,34 +7049,34 @@ d) Tecnologias.
 
 e) Informações.
 
-Item. 67. (CESPE-PG-DF-2O2i) Demandas de baixo risco, como a alteração de senhas em uma
+67. (CESPE-PG-DF-2O2i) Demandas de baixo risco, como a alteração de senhas em uma
 estação
 de trabalho, pode ser consideradas uma requisição de serviço que se enquadra no
 processo de
 cumprimento de requisição.
 
-Item. 68. (CESPE - PG-DF - 2021) A prática gestão de acessos tem a finalidade de
+68. (CESPE - PG-DF - 2021) A prática gestão de acessos tem a finalidade de
 garantir a menor
 interrupção possível do serviço provido no caso de alteração em um ambiente de
 tecnologia da
 informação para melhoria dos negócios.
 
-Item. 69. (Quadrix / CORE-PR- 2021 - Adaptada) Na ITIL 4, Gerenciamento de
+69. (Quadrix / CORE-PR- 2021 - Adaptada) Na ITIL 4, Gerenciamento de
 Incidente,
 Gerenciamento de Problema e Cumprimento de Requisição são exemplos de práticas
 da
 Operação de Serviço.
 
-Item. 70. (Quadrix / CORE-PR- 2021 - Adaptada) O processo Gerenciamento de Eventos tem como
+70. (Quadrix / CORE-PR- 2021 - Adaptada) O processo Gerenciamento de Eventos tem como
 objetivo principal restaurar a operação normal de um serviço dentro de um período
 mínimo de
 24 horas.
 
-Item. 71. (Quadrix / CORE-PR- 2021) A função Gerenciamento das Operações de TI é responsável
+71. (Quadrix / CORE-PR- 2021) A função Gerenciamento das Operações de TI é responsável
 por
 gerenciar aplicativos ao longo de seu ciclo de vida.
 
-Item. 72. (FCC /TJ-MA-2019-Adaptada) A Central de Serviços (CS) recebeu as seguintes solicitações:
+72. (FCC /TJ-MA-2019-Adaptada) A Central de Serviços (CS) recebeu as seguintes solicitações:
 
 - Substituição do toner da impressora a laser.
 
@@ -7269,7 +7087,6 @@ corporativo.
 - Dúvidas sobre utilização do sistema de Processo Judicial Eletrônico.
 
 - Solicitação do manual para uso do sistema de antivírus.
-
 
 As solicitações acima, de acordo com a ITIL,
 
@@ -7292,7 +7109,7 @@ e) foram recebidas pelo mesmo sistema de registro de incidentes, mas são
 tratadas pelo
 processo de Gerenciamento de Acesso.
 
-Item. 73. (FCC /TRF 4a. Região-2019) Na busca por maior eficiência e eficácia em uma
+73. (FCC /TRF 4a. Região-2019) Na busca por maior eficiência e eficácia em uma
 organização que
 utiliza a ITIL V3 edição 2011, um Analista sugeriu modificar a infraestrutura de um
 ativo de TI. A
@@ -7308,7 +7125,7 @@ d) de Incidentes.
 
 e) de Mudanças.
 
-Item. 74. (CESPE / PG-DF - 2021) Há gerenciamento de incidentes na ITIL, mas
+74. (CESPE / PG-DF - 2021) Há gerenciamento de incidentes na ITIL, mas
 não há processo
 específico para o gerenciamento de problemas cujo objetivo seja realizar a prevenção
 proativa
@@ -7330,7 +7147,6 @@ informação (TI); no entanto, no desenvolvimento do caso de negócio, é
 viável incluir
 informações sobre custos e benefícios financeiros acerca dos serviços de TI envolvidos.
 
-
 77-(CESPE/TJ-PA-2O2o) No gerenciamento da estratégia dos serviços da ITIL, é preciso
 fornecer
 valor para o cliente na forma de serviços de TI. Na criação de valor de negócio de
@@ -7347,7 +7163,7 @@ d) provedores de serviço e unidades de serviço compartilhadas.
 
 e) recursos e habilidades.
 
-Item. 78. (CESPE / TJ-PA - 2020 - Adaptada) O processo responsável por compartilhar perspectivas,
+78. (CESPE / TJ-PA - 2020 - Adaptada) O processo responsável por compartilhar perspectivas,
 ideias, experiência e informações, assim como por garantir que elas estejam disponíveis no lugar
 certo e no momento certo, com vistas a apoiar todas as atividades do processo e facilitar a
 tomada de decisão, é denominado.
@@ -7362,23 +7178,23 @@ d) gerenciamento de qualidade, na ITIL, e gerenciara qualidade, no COBIT.
 
 e) gerenciamento de catálogo, na ITIL, e gerenciar o catálogo, no COBIT.
 
-Item. 79. (CESPE/TJ-AM -2019-Adaptada) O gerenciamento de serviços é padronizado, uma
+79. (CESPE/TJ-AM -2019-Adaptada) O gerenciamento de serviços é padronizado, uma
 vez que
 a ITIL é um conjunto de bibliotecas padrão, de modo que, independentemente do tamanho
 da
 empresa, a gestão dos serviços de TI deve ser a mesma.
 
-Item. 80. (CESPE / TJ-AM - 2019 - Adaptada) Na ITIL, há uma separação clara entre a área
+80. (CESPE / TJ-AM - 2019 - Adaptada) Na ITIL, há uma separação clara entre a área
 de TI e o
 negócio, o que facilita o processo de gerenciamento de serviços de TI.
 
-Item. 81. (CESPE / TJ-AM - 2019 - Adaptada) Serviço, para a ITIL, é qualquer forma de
+81. (CESPE / TJ-AM - 2019 - Adaptada) Serviço, para a ITIL, é qualquer forma de
 entregar valor
 aos clientes de uma empresa, atribuindo-lhes a propriedade dos custos e riscos
 específicos, com
 o intuito de atingir os resultados esperados pelos clientes.
 
-Item. 82. (CESPE/ TCE-RO - 2019 - Adaptada) O desenvolvimento de sistemas é fortemente
+82. (CESPE/ TCE-RO - 2019 - Adaptada) O desenvolvimento de sistemas é fortemente
 apoiado
 por práticas da ITIL, em especial pelo gerenciamento da configuração. O objetivo
 principal desse
@@ -7394,99 +7210,96 @@ d) suportar a transição por meio de planejamento eficaz.
 
 e) controlar versão de software, hardware e demais itens de infraestrutura.
 
-
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
 
 83.(CESPE/TJ-AM-2019-Adaptada) A utilidade do serviço, na ITIL, está diretamente associada
 à disponibilidade e à capacidade que o serviço deve possuir ao entregar valor aos clientes por
 meio dos resultados que eles desejarem.
 
-
 Aula única (Profs. Paolla Ramos e Fernando Pedrosa)
 
 GABARITo - DIVERSAS BANCAS
 
 í. Letra B 29.Errado
-Item. 57. Errado
+57. Errado
 
-Item. 2. Letra E 30. Correto
+2. Letra E 30. Correto
 58.Errado
 
-Item. 3. Letra C 31. Letra D
-Item. 59. Errado
+3. Letra C 31. Letra D
+59. Errado
 
-Item. 4. Letra E 32. Letra D
+4. Letra E 32. Letra D
 60.Correto
 
-Item. 5. Correta 33. Letra C
-Item. 61. Errado
+5. Correta 33. Letra C
+61. Errado
 
-Item. 6. Letra D 34. Letra C
+6. Letra D 34. Letra C
 62.Errado
 
-Item. 7. Letra E 35. Letra B
-Item. 63. Errado
+7. Letra E 35. Letra B
+63. Errado
 
-Item. 8. Letra B 36. Letra D
+8. Letra B 36. Letra D
 64.Errado
 
-Item. 9. Letra D 37. Letra A
-Item. 65. Letra B
+9. Letra D 37. Letra A
+65. Letra B
 
-Item. 10. Letra C 38. Letra A
-Item. 66. Letra
+10. Letra C 38. Letra A
+66. Letra
 
-Item. 11. Errado 39. Letra B
-Item. 67. Correto
+11. Errado 39. Letra B
+67. Correto
 
-Item. 12. Letra E 40. Letra A
-Item. 68. Errad
+12. Letra E 40. Letra A
+68. Errad
 
-Item. 13. Letra D 41. Letra D
-Item. 69. Errad
+13. Letra D 41. Letra D
+69. Errad
 
-Item. 14. Letra C 42. Letra E
-Item. 70. Errado
+14. Letra C 42. Letra E
+70. Errado
 
-Item. 15. Letra E 43.Letra D
-Item. 71. Errado
+15. Letra E 43.Letra D
+71. Errado
 
-Item. 16. Letra D 44. Correto
+16. Letra D 44. Correto
 72.Letra B
 
-Item. 17. Anulada 45. Correto 73.
+17. Anulada 45. Correto 73.
 Letra E
 
-Item. 18. Letra A 46.Correto
-Item. 74. Errado
+18. Letra A 46.Correto
+74. Errado
 
-Item. 19. Letra B 47. Correto
-Item. 75. Errado
+19. Letra B 47. Correto
+75. Errado
 
-Item. 20. Letra E 48.Errado
-Item. 76. Errado
+20. Letra E 48.Errado
+76. Errado
 
-Item. 21. Letra B 49.Errado
-Item. 77. Letra A
+21. Letra B 49.Errado
+77. Letra A
 
-Item. 22. Errado 50. Correto
-Item. 78. Letra C
+22. Errado 50. Correto
+78. Letra C
 
-Item. 23. Errado 51. Correto
-Item. 79. Errado
+23. Errado 51. Correto
+79. Errado
 
-Item. 24. Letra C 52. Errado
+24. Letra C 52. Errado
 80.Errado
 
-Item. 25. Letra A 53. Correto
+25. Letra A 53. Correto
 81.X Errado
 
-Item. 26. Letra C 54. Errado
-Item. 82. Letra A
+26. Letra C 54. Errado
+82. Letra A
 
-Item. 27. Errado 55. Correto
-Item. 83. Errado
+27. Errado 55. Correto
+83. Errado
 
 28.Errado 56. Correto
-
 

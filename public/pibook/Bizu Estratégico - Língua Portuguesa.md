@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Língua Portuguesa.
-
+# Bizu Estratégico - Língua Portuguesa.
 
 Fala, pessoal. Tudo certo?
 
@@ -20,7 +19,6 @@ Este bizu foi confeccionado tomando-se como base os livros digitais elaborados p
 professor
 Felipe Luccas, além das atualizações e revisões elaboradas pela equipe de professores de
 Língua Portuguesa do Estratégia Concursos.
-
 
 ANÁLISE ESTATÍSTICA
 
@@ -51,14 +49,11 @@ Segue índice da aula e baterias de questões, elaboradas em nosso Sistema de Qu
 para
 que você possa praticar após a leitura desse bizu.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Português - SERPRO
 
 Assunto Bizus Caderno no SQ
-
 
 Interpretação de Textos
 
@@ -66,13 +61,11 @@ Interpretação de Textos
 
 http://questo.es/zawp5p
 
-
 Coesão e Coerência
 
 4a6
 
 http ://qu esto. es/6c2raj
-
 
 Pontuação
 
@@ -80,13 +73,11 @@ Pontuação
 
 http ://qu esto. es/0bf1 n0
 
-
 Classes de Palavras
 
 14 a 23
 
 http://questo. es/a5q 14c
-
 
 Concordância
 
@@ -94,13 +85,11 @@ Concordância
 
 http://questo. es/zfr93n
 
-
 Ortografia e Acentuação
 
 31 a 33
 
 http ://qu esto. es/H7 9hv
-
 
 Reescrita de Frases
 
@@ -108,13 +97,11 @@ Reescrita de Frases
 
 http://questo. es/hmaxaj
 
-
 Sintaxe
 
 40 a 50
 
 http://questo. es/o97t4b
-
 
 Semântica
 
@@ -122,9 +109,7 @@ Semântica
 
 http://questo. es/oo3ewl
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Apresentação
 
@@ -164,9 +149,7 @@ pontos mais
 queridos pela banca examinadora, e todos eles estão aqui! Cada questão no concurso vale
 ouro, então não podemos dar bobeira! Mãos à obra!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Interpretação de Textos
 
@@ -209,7 +192,6 @@ o Principais comandos de questões (enunciado):
 "No texto ... ".
 
 2) Inferência (Interpretação) - Informações que estão além do texto!
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 o O leitor deve fazer deduções a partir do texto. O fundamento da dedução será um
@@ -255,7 +237,6 @@ O texto original diz "A" e o texto parafraseado da assertiva errada diz "Não
 A" ou "B". Para disfarçar essa contradição, a banca usará muitas palavras do
 texto, fará uma paráfrase muito semelhante, mas com um vocábulo crucial
 que fará o sentido ficar inverso ao do texto.
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 o Tangenciar o tema
@@ -307,7 +288,6 @@ diferentes.
 
 Ex.: flagrante e fragrante; mandado e mandato.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 o Hiperônimo X Hipônimo
 
@@ -351,9 +331,7 @@ Pontuação
 
 7) 1o Princípio Geral: Ordem Direta
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 > Sujeito + Verbo + Complemento (+ Adjuntos)
 
@@ -397,9 +375,7 @@ viu o mar.
 
 > Isolar/Marcar
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Aposto explicativo: Fui ao Rio de Janeiro, uma cidade violenta.
 
@@ -443,9 +419,7 @@ separados pelas vírgulas são orações com função de predicativos do sujeito
 Comprei frutas, passei no açougue, fui à feira (enumeração de orações
 coordenadas).
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 9) Ponto e vírgula
 
@@ -475,9 +449,7 @@ acessório, suprimível.
 
 13) Aspas
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 > Indicam citação literal, gíria, ironia, estrangeirismo, arcaísmo, linguagem informal.
 Indicam que a palavra foi utilizada com uma "intenção especial", um provável
@@ -527,9 +499,7 @@ políticos em geral).
 
 > O artigo também é usado para universalizar uma espécie, no sentido de "todo":
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 "o (todo) homem é criativo";
 
@@ -577,9 +547,7 @@ Substituem sujeito: João é magro, Ele é magro.
 
 Substituem complementos:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 * o, a, os, as substituem somente objetos diretos.
 
@@ -630,9 +598,7 @@ alguém, algum, algo, todo, outro, tudo, nada e etc.
 Representam substantivos já referidos no texto. Que, o(a) qual(s), cuja, onde,
 aonde, quem.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 O pronome "cujo" tem como principais características:
 
@@ -696,9 +662,7 @@ Concessivas: ainda que, apesar de que, embora, mesmo que, por mais que.
 
 Conformativas: conforme, como, segundo.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Comparativas: que, do que, mais do que, menos do que, melhor que.
 
@@ -743,9 +707,7 @@ o O verbo concorda com o próprio numeral ou com o determinante.
 
 20% dos eleitores ficaram revoltados.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 28)Artigo Determinante
 o Concorda com o artigo determinante. A exceção ocorre quando o artigo
@@ -791,9 +753,7 @@ o Porque: conjunção explicativa/causal;
 o Porquê: substantivo. (Virá antecedido de um determinante (artigo, pronome,
 numeral...).
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 32)Acentuação
 o Monossílabos: acentuam-se os terminados em: a(s), e(s), o(s) e ditongos crescentes ei(s),
@@ -840,9 +800,7 @@ Sem hífen diante de vogal. Interestadual.
 
 o Prefixos que SEMPRE tem hífen: vice, ex, sem, além, aquém, pós, pré, pró.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Reescrita de Frases
 
@@ -881,7 +839,6 @@ Há
 absoluta liberdade formal e sintática por parte do narrador, que mistura
 reproduções literais das falas com paráfrases, que alterna pensamentos e registro
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 de falas e ações, aproximando a fala do narrador e do personagem, como se ambos
 falassem em uníssono.
@@ -893,13 +850,11 @@ fazer discursos é o que era."
 
 37) Passagem do discurso direto para o indireto
 
-
 Discurso direto: 1°
 pessoa
 
 Discurso indireto: 3°
 pessoa
-
 
 Frases interrogativas,
 exclamativas e
@@ -931,7 +886,6 @@ O desafiante derrotou o campeão (voz ativa).
 O campeão foi derrotado pelo desafiante (voz passiva analítica).
 
 39)Voz Passiva Sintética (VTD ou VTDI + se):
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 o Derrotou-se o campeão.
@@ -983,7 +937,6 @@ Numeral: Os dois viajarão após a prova. Ambos viajarão após a prova.
 Oração (substituível por ISTO): Convém que todos estudem para a prova
 (oração subordinada substantiva subjetiva). Estudar é importante (oração
 reduzida). Espera-se que a prova seja difícil (VTD + SE).
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 o Oração sem sujeito
@@ -1044,9 +997,7 @@ o Termo preposicionado ligado ao nome (substantivo, adjetivo, advérbio) que
 possui
 transitividade. Parece um objeto indireto, mas não complementa verbo.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 45)Adjunto Adnominal
 o Os adjuntos adnominais ficam junto ao nome e atribuem a ele características como
@@ -1092,9 +1043,7 @@ se aquele nome for transformado numa ação: complemento nominal.
 o Se refere ao verbo para trazer uma ideia de circunstância, como tempo, modo,
 causa, meio, lugar, instrumento, motivo, oposição...
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Ele morreu ontem (adjunto adverbial de tempo).
 
@@ -1147,7 +1096,6 @@ o Conjunção explicativa: Estude, que o edital já vai sair.
 
 o Conjunção aditiva: Você fala que fala hein, meu amigo!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 o Locução conjuntiva final: Estudo para que meu filho tenha uma vida melhor,
 
@@ -1193,9 +1141,7 @@ equivalência ou semelhança.
 V Antônimos: São palavras que se aproximam semanticamente por uma relação de
 antagonismo ou oposição.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 53) Homônimos e Parônimos
 
@@ -1249,7 +1195,6 @@ prudência)
 descriminar (tirara culpa) discriminar
 (distinguir)
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 despensa (local onde se guardam
 mantimentos)
@@ -1290,7 +1235,6 @@ infligir (aplicar pena) infringir
 
 mandado (ordem judicial) mandato (procuração)
 
-
 peão (aquele que anda a pé, domador de
 cavalos)
 
@@ -1314,7 +1258,6 @@ sustar (suspender) suster (sustentar)
 
 tráfego (trânsito) tráfico
 (comércio ilegal)
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 vadear (atravessar a vau) vadiar (andar
@@ -1345,5 +1288,4 @@ Bons estudos!
 continue em frente de qualquer jeito". (Martin Luther King)
 
 @profíeomathias
-
 

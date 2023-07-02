@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - HTML.
-
+# Desenvolvimento de Software - HTML.
 
 Índice
 
@@ -8,7 +7,6 @@ Capítulo. Desenvolvimento de Software - HTML.
 2) Desenvolvimento Front-End - HTML - Questões Comentadas - MULTIBANCAS
 
 3) Desenvolvimento Front-End - HTML - Lista de Questões - MULTIBANCAS
-
 
 Sumário
 
@@ -63,7 +61,6 @@ wwN.estrategiaconcursos.com.br
 
 /
 
-
 Elementos inline
 
 Atributo de classe HTML
@@ -90,11 +87,9 @@ Questões Cespe
 
 Gabarito
 
-
 ./ 187
 
 /
-
 
 APRESENTAçÃo DA AULA
 
@@ -122,9 +117,7 @@ conteúdo de forma mais simples. Aproveitem o material, além dos esquemas,
 resumos e
 mnemónicos. Vamos ao que importa! (§)
 
-
 /
-
 
 Conceitos Básicos
 
@@ -143,7 +136,6 @@ para que vocês
 possam testar o que veremos. Recomendo esse:
 
 HTTPS://WWW.W3SCHOOLS.COM/HTML/
-
 
 <!DOCTYPE html>
 
@@ -191,9 +183,7 @@ de eventos concorrentes dependentes de tempo (como áudio, vídeo, etc.), conect
 hiperligações (em inglês: hyperlink e link). O padrão é
 independente de outros padrões de processamento de texto em geral.
 
-
 /
-
 
 r
 i
@@ -208,7 +198,6 @@ Web, porém, não executa comandos como loops de repetição. (Gabarito: Errado)
 Vejamos um exemplo de um documento HTML Simples além da visualização da
 Estrutura
 da Página HTML gerada.
-
 
 <!DOCTYPE html>
 
@@ -261,9 +250,7 @@ hiper-objetos e para descrever as ligações.
 
 x" 7
 
-
 /
-
 
 : a) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0
 Strict//EN"
@@ -325,9 +312,7 @@ formulário e tipos de entrada, como data, e-mail e intervalo, o que torna
 mais fácil
 para os desenvolvedores criar formulários amigáveis.
 
-
 /
-
 
 O HTML5 foi projetado para ser compatível com as versões anteriores
 do HTML,
@@ -383,9 +368,7 @@ estilo ou layout. Se você deseja controlar o layout ou a aparência da
 página da Web, use
 CSS.
 
-
 /
-
 
 <html>
 
@@ -414,16 +397,13 @@ CONSISTE EM UMA SÉRIE DE ELEMENTOS
 
 ELEMENTOS HTML INFORMAM AO NAVEGADOR COMO EXIBIR 0 CONTEÚDO E ROTULAM PARTES
 
-
 00 CONTEÚDO COMO "ISTO É UM TÍTULO", "ISTO É UM PARÁGRAFO","
 
 028467' 98
 
 ", ETC.
 
-
 www. estra tegiaconcursos. com. br
-
 
 HTML Básico
 
@@ -433,7 +413,6 @@ documento:
 <!DOCTYPE html>. O próprio documento HTML começa <html> e termina com
 </html>.
 A parte visível do documento HTML está entre <body>e </body>.
-
 
 <!DOCTYPE html>
 
@@ -466,7 +445,6 @@ Os cabeçalhos HTML são definidos com as tags <h1 >to .<hó>. <h1 >define o
 cabeçalho
 mais importante. Enquanto <hó>define o título menos importante:
 
-
 <hl>Este é o título l</hl>
 
 <h2>Este é o título 2</h2>
@@ -481,9 +459,7 @@ Este é o título 3
 
 Os parágrafos HTML são definidos com a tag <p>:
 
-
 www. estra tegiaconcursos. com. br
-
 
 <p>Isto é um parágrafo.</p>
 
@@ -524,9 +500,7 @@ As imagens HTML são definidas com a tag <img>. O arquivo de origem (
 src), texto
 alternativo ( alt), widthe height são fornecidos como atributos:
 
-
 www. estra tegiaconcursos. com. br
-
 
 <img src="w3schools.jpg" alt="W3Schools.com"
 width="104" height="142">
@@ -542,7 +516,6 @@ fonte HTML da página.
 chtml lang=''pt-br">
 
 <head itemtype="http://schema.org/WebSite">
-
 
 <script»
 
@@ -607,7 +580,6 @@ CSS). Você também pode editar o HTML ou CSS dinamicamente no painel
 Elementos ou
 Estilos que é aberto.
 
-
 K fi~l | Elements Console Sources Network Performance Memory Application Security Lighthouse
 Recorder Ã »
 CDOCTYPE html>
@@ -636,9 +608,7 @@ none;">-</iframe>
 
 </html>
 
-
 I
-
 
 Elementos HTML
 
@@ -668,7 +638,6 @@ aninhados. O exemplo abaixo contém quatro elementos HTML ( , <html>e
 <body>)
 
 :<h1><p>
-
 
 <!DOCTYPE html>
 
@@ -703,16 +672,13 @@ elementos html que não precisam da tag final. Mas a boa prática de
 programação diz:
 "Nunca pule a tag final!" ©
 
-
 /
-
 
 Como disse, há elementos que não precisam da tag final! São
 conhecidos como
 elementos HTML sem conteúdo ou elementos vazios. A tag <br> define uma
 quebra de
 linha e é um elemento vazio sem uma tag de fechamento. Veja o exemplo a seguir.
-
 
 <!DOCTYPE html>
 
@@ -740,7 +706,6 @@ letras
 minúsculas em HTML e exige letras minúsculas para tipos de documento mais
 restritos,
 comoXHTML.
-
 
 Atributos HTML
 
@@ -786,9 +751,7 @@ para personalizar o comportamento do elemento de mídia de
 acordo com suas
 necessidades.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Cabeçalhos HTML
 
@@ -798,7 +761,6 @@ Os cabeçalhos HTML são definidos com as tags <h1> até <hó>.
 Relembrando, <h1>
 define o cabeçalho mais importante. <hó>define o título menos importante.
 
-
 <!DOCTYPE html>
 
 <html>
@@ -806,7 +768,6 @@ define o cabeçalho mais importante. <hó>define o título menos importante.
 <body>
 
 Título 1
-
 
 <hl>Título
 
@@ -837,7 +798,6 @@ Título 3
 
 Título 4
 
-
 </body>
 
 </html>
@@ -861,7 +821,6 @@ Cada título HTMLtem um tamanho padrão. No entanto, você pode especificar o
 tamanho
 de qualquer cabeçalho com o atributo style, usando a propriedade font-size CSS:
 
-
 CDOCTYPE html>
 
 <html>
@@ -882,9 +841,7 @@ Título 1
 Você pode alterar o tamanho de um título com o atributo style,
 usando a propriedade font-size.
 
-
 /
-
 
 Parágrafos HTML
 
@@ -896,7 +853,6 @@ linha e os navegadores adicionam automaticamente algum espaço em branco
 (uma
 margem) antes e depois de um parágrafo.
 
-
 <!DOCTYPE html>
 
 <html>
@@ -905,7 +861,6 @@ margem) antes e depois de um parágrafo.
 
 Isto é um parágrafo.
 Isto é um parágrafo.
-
 
 <p>Isto é
 
@@ -930,7 +885,6 @@ conteúdo (ou
 definir uma alteração) em uma página HTML. A tag <hr> é uma tag vazia,
 o que significa
 que não tem tag final.
-
 
 <!DOCTYPE html>
 
@@ -972,7 +926,6 @@ Este é outro texto.
 
 *
 
-
 O elemento HTML <br>define uma quebra de linha. Use <br>se quiser uma
 quebra de
 linha (uma nova linha) sem iniciar um novo parágrafo. A tag <br> é uma
@@ -985,7 +938,6 @@ um elemento
 <pre> é exibido em uma fonte de largura fixa (geralmente Courier) e
 preserva espaços e
 quebras de linha:
-
 
 <pre>
 
@@ -1017,29 +969,23 @@ d) <code> e </code>
 
 e) <pre> e </pre>.
 
-
 x-""' 20
-
 
 ./ 187
 
 /
 
-
 Comentários: O elemento HTML <pre>define o texto pré-formatado. O texto dentro de um
 elemento <pre> é exibido em uma fonte de largura fixa (geralmente Courier) e preserva espaços
 e quebras de linha. (Gabarito: Letra E)
 
-
 /
-
 
 Estilos HTML
 
 O atributo HTML style é usado para adicionar estilos a um elemento, como cor, fonte,
 tamanho e muito mais. A definição do estilo de um elemento HTML pode ser feita com o
 atributo style.
-
 
 <!DOCTYPE html>
 
@@ -1071,7 +1017,6 @@ O atributo HTML style tem a seguinte sintaxe2:
 
 A propriedade CSS background-color define a cor de fundo de um elemento HTML.
 
-
 <!DOCTYPE html>
 
 <html>
@@ -1079,7 +1024,6 @@ A propriedade CSS background-color define a cor de fundo de um elemento HTML.
 <body style="background-color:powderblue;">
 
 Este é um título
-
 
 <hl>Este é um título</hl>
 
@@ -1093,9 +1037,7 @@ Isso é um parágrafo.
 
 2 property é uma propriedade CSS. vaLue é um valor CSS.
 
-
 /
-
 
 <!DOCTYPE html>
 
@@ -1104,7 +1046,6 @@ Isso é um parágrafo.
 <body>
 
 Este é um título
-
 
 <hl style="background-color:powderblue;">Este é um título</hl>
 
@@ -1129,7 +1070,6 @@ Font-family Define a fonte a ser usada para um elemento HTML
 Font-size Define o tamanho do texto para um elemento HTML
 
 Text-align Define o alinhamento horizontal do texto para um elemento HTML
-
 
 <!DOCTYPE html>
 
@@ -1182,16 +1122,13 @@ Cabeçalho centralizado
 
 Parágrafo centralizado
 
-
 / 187
 
 /
 
-
 Formatação de Texto HTML
 
 O HTML contém vários elementos para definir o texto com um significado especial.
-
 
 Elementos
 de
@@ -1202,7 +1139,6 @@ Descrição
 <b> Texto em negrito, sem nenhuma importância extra.
 
 Texto importante. O conteúdo interno geralmente é exibido em
-
 
 <strong>
 
@@ -1222,7 +1158,6 @@ outro idioma, um pensamento, o nome de um navio, etc.
 
 Define o texto que foi excluído de um documento. Os navegadores
 
-
 <del>
 
 geralmente traçam uma linha através do texto excluído.
@@ -1230,7 +1165,6 @@ geralmente traçam uma linha através do texto excluído.
 <ins> Texto inserido. Os navegadores geralmente sublinham o texto inserido.
 
 Texto subscrito. O texto subscrito aparece meio caractere abaixo da
-
 
 <sub>
 
@@ -1243,9 +1177,7 @@ Texto sobrescrito. O texto sobrescrito aparece meio caractere acima da
 linha normal e, às vezes, é renderizado em uma fonte menor. O texto
 sobrescrito pode ser usado para notas de rodapé, como WWW111.
 
-
 /
-
 
 <B> TEXTO EM NEGRITO
 
@@ -1261,7 +1193,6 @@ sobrescrito pode ser usado para notas de rodapé, como WWW111.
 
 <DEL> TEXTO DELETADO
 
-
 <INS
 
 80965
@@ -1270,18 +1201,15 @@ sobrescrito pode ser usado para notas de rodapé, como WWW111.
 
 <SUP> TEXTO SOBRESCRITO
 
-
 / 187
 
 /
-
 
 Citação em HTML
 
 O elemento HTML <blockquote> define uma seção que é citada de outra fonte.
 Os
 navegadores geralmente indentam <blockquote>elementos.
-
 
 <!DOCTYPE html>
 
@@ -1320,7 +1248,6 @@ rendimento. Para mim foi essencial poder contar com o apoio dos coaches!
 A tag HTML <q> define uma citação curta. Os navegadores normalmente inserem aspas
 ao redor da citação.
 
-
 clDOCTYPE html>
 
 <html>
@@ -1354,9 +1281,7 @@ de um
 documento ou artigo. As informações de contato podem ser um endereço de e-mail, URL,
 endereço físico, número de telefone, identificador de mídia social, etc. O texto no
 
-
 *
-
 
 elemento <address> geralmente é renderizado em itálico e os navegadores sempre
 adicionam uma quebra de linha antes e depois do elemento <address>.
@@ -1370,7 +1295,6 @@ geralmente é renderizado em itálico .
 BDO significa Bi-Directional Override. A tag HTML <bdo> é usada para
 substituir a
 direção do texto atual:
-
 
 1—
 
@@ -1393,9 +1317,7 @@ C->
 
 <Q> DEFINE UMA CITAÇÃO CURTA EM LINHA
 
-
 /
-
 
 Comentários HTML
 
@@ -1414,9 +1336,7 @@ comentários, você pode colocar notificações e lembretes em seu código HTML.
 
 <!-- Lembre-se de adicionar mais informações aqui -->
 
-
 *
-
 
 Cores HTML
 
@@ -1425,7 +1345,6 @@ HEX, HSL, RGBA ou HSLA. Em HTML, uma cor pode ser especificada usando um nome
 de cor, a cor de fundo dos elementos HTML, a cor do texto, a cor das bordas, e
 muito
 mais. Vejamos os exemplos!
-
 
 <!DOCTYPE html>
 
@@ -1464,7 +1383,6 @@ SlateBlue
 Violet
 LightGray
 
-
 <!DOCTYPE html>
 
 <html>
@@ -1496,9 +1414,7 @@ nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat
 olutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
 ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
 
-
 /
-
 
 <!DOCTYPE html>
 
@@ -1541,7 +1457,6 @@ Hello World
 </body>
 
 </html>
-
 
 <!DOCTYPE html>
 
@@ -1592,9 +1507,7 @@ hsla(9,100%, 64%, 0.5)
 In addition to the predefined color names, colors can be specified using RGB, HEX, HSL, or even
 transparent colors using RGBA or HSLA color values.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Links HTML
 
@@ -1644,9 +1557,7 @@ como o clique de um botão:
 
 cbutton onclick="document.location='default.asp'">HTML </ button >
 
-
 www. estra tegiaconcursos. com. br
-
 
 Imagens HTML
 
@@ -1671,7 +1582,6 @@ da Web, caso contrário, seus visitantes receberão um ícone de link quebrado. 
 de
 link quebrado e o texto alt são mostrados se o navegador não conseguir encontrar a
 imagem.
-
 
 <!DOCTYPE html>
 
@@ -1698,14 +1608,12 @@ da fonte da imagem é especificado no atributo src:
 
 Há duas maneiras de especificar a URL no src atributo:
 
-Item. 1. URL absoluta - Links para uma imagem externa que está hospedada em outro site.
+1. URL absoluta - Links para uma imagem externa que está hospedada em outro site.
 
-Item. 2. URL relativo - Links para uma imagem hospedada no site. Aqui, a URL não inclui o nome
+2. URL relativo - Links para uma imagem hospedada no site. Aqui, a URL não inclui o nome
 de domínio. Se a URL começar sem uma barra, ela será relativa à página atual. Exemplo:
 
-
 *
-
 
 src="img_girl.jpg". Se a URL começar com uma barra, ela será relativa ao
 domínio.
@@ -1738,7 +1646,6 @@ src ou se o usuário usar um leitor de tela). O valor do atributo alt deve descr
 a
 imagem.
 
-
 <!DOCTYPE html>
 
 <html>
@@ -1764,9 +1671,7 @@ Alternative text
 O atributo alt deve refletir o conteúdo da imagem: para que os usuários
 que nào podem ver a imagem entendam o que ela contém:
 
-
 /
-
 
 O HTML permite GIFs animados. E também permite usar uma imagem como link, para
 isso, basta colocar a tag <img> dentro da tag <a>
@@ -1774,14 +1679,12 @@ isso, basta colocar a tag <img> dentro da tag <a>
 Vejamos os tipos de arquivo de imagem mais comuns, suportados em todos os
 navegadores (Chrome, Edge, Firefox, Safari, Opera):
 
-
 Abreviação Formato do arquivo
 APNG Animated Portable Network Graphics
 
 *apng
 
 Extensão
-
 
 GIF
 ICO
@@ -1812,7 +1715,6 @@ Tag Descrição
 
 <img> Define uma imagem;
 
-
 <map>
 
 <area>
@@ -1824,11 +1726,9 @@ Define um mapa de imagem;
 Define uma área clicável dentro de um mapa de imagem;
 Define um contêiner para vários recursos de imagem.
 
-
 / 187
 
 /
-
 
 Espera aí, mas o que é um mapa de
 imagem? Veremos isso agora!
@@ -1864,11 +1764,9 @@ cimg src="workplace.jpg" alt="Workplace" usemap="#workmap">
 
 s'"
 
-
 ./ 187
 
 /
-
 
 Tabelas HTML
 
@@ -1884,7 +1782,6 @@ número de células seja o mesmo em cada linha.
 Às vezes, você deseja que suas células sejam células de cabeçalho de tabela. Nesses
 casos, use a tag <th> em vez da tag <td>, dessa forma é possível adicionar cabeçalhos
 de tabela.
-
 
 clOOCTYPE html>
 
@@ -1956,7 +1853,6 @@ Para entender melhor o exemplo, adicionamos bordas à tabela.
 
 </html>
 
-
 <TABLE> DEFINE UMA TABELA
 
 <TH> DEFINE UMA CÉLULA DE CABEÇALHO EM UMA TABELA
@@ -2014,7 +1910,6 @@ tabelas HTML
 podem ter tamanhos diferentes para cada coluna, linha ou tabela inteira. Use o atributo
 style com as propriedades width ou height para especificar o tamanho de uma tabela,
 
-
 linha ou coluna, para definir a largura da tabela HTML, adicione o
 atributo style ao
 elemento <table>. Para definir o tamanho de uma coluna específica, adicione o
@@ -2066,9 +1961,7 @@ uma célula abranger várias colunas, use o atributo colspan. Para fazer uma
 célula abranger
 várias linhas, use o atributo rowspan
 
-
 /
-
 
 Estilizaçâo de Tabelas HTML
 
@@ -2097,9 +1990,7 @@ Cada grupo é especificado com um elemento <col>. O atributo span especifica
 quantas
 colunas recebem o estilo. Já, o atributo style especifica o estilo a ser dado às colunas.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Listas HTML
 
@@ -2110,7 +2001,6 @@ item da
 lista começa com a tag <li>. Os itens da lista serão marcados com
 marcadores (pequenos
 círculos pretos) por padrão:
-
 
 <!DOCTYPE html>
 
@@ -2146,7 +2036,6 @@ Uma lista ordenada começa com a tag <ol>. Cada item da lista começa com
 a tag <li>.
 Os itens da lista serão marcados com números por padrão
 
-
 <!DOCTYPE html>
 
 <html>
@@ -2171,11 +2060,11 @@ Os itens da lista serão marcados com números por padrão
 
 Uma lista HTML ordenada
 
-Item. 1. Café
+1. Café
 
-Item. 2. Chá
+2. Chá
 
-Item. 3. Leite
+3. Leite
 
 O HTML também suporta listas de descrição. Uma lista de descrição
 é uma lista de
@@ -2184,10 +2073,8 @@ descrição, a tag
 
 <dt> define o termo (nome) e a tag <dd> descreve cada termo.
 
-
 * 05152001900 - Everton
 Murilo Vieira
-
 
 <!DOCTYPE html>
 
@@ -2230,12 +2117,10 @@ um i
 : site utilizando listas de definições do HTML5. Nestas listas, o termo a ser
 descrito e a descrição =
 
-
 : propriamente dita são criados, respectivamente, pelas tags
 i
 
 I
-
 
 I
 
@@ -2243,12 +2128,10 @@ I
 
 = b) <dd> e <tt>
 
-
 : c) <ul> e <li>
 :
 
 I
-
 
 I
 
@@ -2256,9 +2139,7 @@ I
 
 = e) <dd> e <dt>
 
-
 I
-
 
 I
 
@@ -2266,7 +2147,6 @@ I
 i
 
 I
-
 
 I
 
@@ -2277,12 +2157,10 @@ define o termo i
 
 I
 
-
 I
 
 : (nome) e a tag <dd> descreve cada termo. <dt> define um termo em uma lista de
 descrição. ;
-
 
 I
 
@@ -2291,9 +2169,7 @@ i
 
 Listas Não Ordenadas
 
-
 /
-
 
 Como já vimos, uma lista não ordenada começa com a tag <ul> e cada item
 da lista
@@ -2309,9 +2185,7 @@ Além de toda as opções já citadas, ainda podemos ter listas aninhadas, ou
 seja, uma lista
 dentro da outra lista.
 
-
 /
-
 
 <!DOCTYPE html>
 
@@ -2412,9 +2286,7 @@ background-color: #111111;
 
 </head>
 
-
 /
-
 
 <body>
 
@@ -2466,9 +2338,7 @@ no caso em =
 = que seja necessário utilizar uma lista não ordenada.
 =
 
-
 www. estra tegiaconcursos. com. br
-
 
 = a) <b>
 
@@ -2522,19 +2392,17 @@ você define o tipo e o resultado será como a imagem logo após o código. Veja
 
 </ol>
 
-
 ./ 187
 
 /
 
-
 Lista Ordenada com Números
 
-Item. 1. Café
+1. Café
 
-Item. 2. Chá
+2. Chá
 
-Item. 3. Leite
+3. Leite
 
 Lista Ordenada com Letras
 
@@ -2568,11 +2436,9 @@ a contar a partir de um número específico, poderá usar o atributo start e
 definir o valor
 que deseja iniciar.
 
-
 / 187
 
 /
-
 
 <!DOCTYPE html>
 
@@ -2611,11 +2477,11 @@ O atributo inicial
 Por padrào, uma lista ordenada começará a contar a partir de 1. Use o atributo start
 para começar a contar a partir de um número especificado:
 
-Item. 50. Café
+50. Café
 
-Item. 51. Chá
+51. Chá
 
-Item. 52. Leite
+52. Leite
 
 L. Café
 LI. Chá
@@ -2634,7 +2500,6 @@ USE 0 ELEMENTO HTML <LI>PARA DEFINIR UM ITEM DE LISTA
 AS LISTAS PODEM SER ANINHADAS
 
 OS ITENS DA LISTA PODEM CONTER OUTROS ELEMENTOS HTML
-
 
 Bloco HTML e elementos embutidos
 
@@ -2659,7 +2524,6 @@ uma
 seção em um documento HTML. Vejamos todos os elementos de nível de bloco HTML:
 
 ELEMENTOS DE NÍVEL DE BLOCO
-
 
 <0>
 
@@ -2707,9 +2571,7 @@ entendimento do conteúdo principal. Geralmente é usado para
 representar barras
 laterais, citações e outros conteúdos relacionados tangencialmente.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Lembre-se de que o elemento <aside> é um elemento semântico, o que
 significa que é
@@ -2768,9 +2630,7 @@ do elemento
 especificados em
 pixels ou como uma porcentagem do espaço disponível.
 
-
 /
-
 
 Lembre-se de que os atributos de altura e largura são opcionais e, se
 você não os
@@ -2830,9 +2690,7 @@ compatível com o elemento <track>, como WebVTT (Web Video Text Tracks).
 
 Theora é um codec de vídeo, de compressão com perda de dados
 
-
 /
-
 
 Quando o vídeo for reproduzido, as legendas serão exibidas sobre o vídeo
 com base nas
@@ -2845,7 +2703,6 @@ Elementos inline
 Um elemento inline não começa em uma nova linha. Pelo contrário,
 ocupa apenas a
 largura necessária.
-
 
 <!DOCTYPE html>
 
@@ -2872,9 +2729,7 @@ apenas a largura necessária.
 
 Vejamos os elementos inline em HTML:
 
-
 /
-
 
 ELEMENTOS INLINEHTML
 
@@ -2883,7 +2738,6 @@ HTML.
 Ele não tem atributos obrigatórios, mas style, class e id são comuns.
 Quando usado junto
 com CSS, o elemento <div> pode ser usado para estilizar blocos de conteúdo:
-
 
 <!DOCTYPE html>
 
@@ -2918,9 +2772,7 @@ A beira do rio Tâmisa, Londres tem sido um importante assentamento por dois
 milênios, sua história remonta à sua fundação pelos romanos, que a batizaram
 de Londinium.
 
-
 /
-
 
 O elemento <span> é um contêiner embutido usado para marcar uma parte de
 um texto
@@ -2947,9 +2799,7 @@ Para relembrar, fica esse grande lembrete:
 
 <SPAN> DEFINE UMA SEÇÃO EM UM DOCUMENTO [EM UNHA)
 
-
 www. estra tegiaconcursos. com. br
-
 
 Atributo de classe HTML
 
@@ -2969,7 +2819,6 @@ com o valor
 "cidade". Todos os três elementos serão estilizados igualmente de
 acordo com a
 definição de estilo.
-
 
 cIDOCTYPE html>
 
@@ -2992,7 +2841,6 @@ padding: 20px;
 Londres
 
 Londres é a capital da Inglaterra.
-
 
 }
 
@@ -3050,15 +2898,12 @@ exemplo, <div class="city main">. O elemento será estilizado de acordo
 com todas as
 classes especificadas.
 
-
 * 05152001900 - Everton
 Murilo Vieira
-
 
 No exemplo a seguir, o primeiro elemento <h2> pertence tanto à classe city
 quanto à
 classe main e obterá os estilos CSS de ambas as classes:
-
 
 clDOCTYPE html>
 
@@ -3130,10 +2975,8 @@ exemplo a seguir, ambos <p> apontam para a classe "city" e compartilharão o
 mesmo
 estilo
 
-
 * 05152001900 - Everton
 Murilo Vieira
-
 
 <!DOCTYPE html>
 
@@ -3154,7 +2997,6 @@ classe
 
 Mesmo que os dois elementos não tenham o mesmo nome de tag. eles podem
 apontar para a mesma classe e obter o mesmo estilo CSS:
-
 
 }
 
@@ -3188,7 +3030,6 @@ determinadas
 tarefas para elementos específicos. O JavaScript pode acessar elementos com um
 nome
 de classe específico com o método getElementsByClassNameQ.
-
 
 clDOCTYPE html>
 
@@ -3249,7 +3090,6 @@ Tóquio é a capital do Japão.
 
 </html>
 
-
 0 ATRIBUTO HTML CLASS ESPECIFICA UM OU MAIS NOMES DE CLASSE PARA UM ELEMENTO
 
 CLASSES SÃO USADAS POR CSS E JAVASCRIPT PARA SELECIONAR E ACESSAR ELEMENTOS
@@ -3263,9 +3103,7 @@ DIFERENTES ELEMENTOS HTML PODEM APONTAR PARA 0 MESMO NOME DE CLASSE
 JAVASCRIPT PODE ACESSAR ELEMENTOS COM UM NOME DE CLASSE ESPECÍFICO COM 0 MÉTODO
 GETELEMENTSBYCLASSNAMEO
 
-
 www. estra tegiaconcursos. com. br
-
 
 Formulários HTML
 
@@ -3292,7 +3130,6 @@ opções)
 cinput type="submit"> Exibe um botão de envio (para enviar o formulário)
 
 cinput type=" button" > Exibe um botão clicável
-
 
 <IDOCTYPE html>
 
@@ -3343,9 +3180,7 @@ usuários de leitores de tela, porque o leitor de tela lerá o rótulo em voz al
 quando o
 usuário focar no elemento de entrada.
 
-
 /
-
 
 O elemento <labei> também ajuda os usuários que têm dificuldade em clicar em regiões
 muito pequenas (como botões de opção ou caixas de seleção) - porque quando o usuário
@@ -3356,7 +3191,6 @@ O atributo for da tag <label> deve ser igual ao atributo id do <input> para uni-
 O cinput type="radio">define um botão de opção. Os botões de opção permitem
 que
 um usuário selecione UMA dentre um número limitado de opções.
-
 
 <!DOCTYPE html>
 
@@ -3400,7 +3234,6 @@ O JavaScript
 
 O <input type="checkbox"> define uma caixa de seleção. As caixas de seleção permitem
 que um usuário selecione ZERO ou MAIS opções de um número limitado de opções.
-
 
 <!DOCTYPE html>
 
@@ -3452,15 +3285,12 @@ O Eu tenho um carro
 O <input type="submit"> define um botão para enviar os dados do formulário para um
 manipulador de formulário. O manipulador de formulário geralmente é um arquivo no
 
-
 / 187
 
 /
 
-
 servidor com um script para processar dados de entrada. O manipulador de formulário é
 especificado no atributo action do formulário.
-
 
 <!DOCTYPE html>
 
@@ -3536,9 +3366,7 @@ O atributo do método especifica o método HTTP a ser usado ao enviar os dados d
 formulário. Os dados do formulário podem ser enviados como variáveis de URL
 (com
 
-
 /
-
 
 method="get") ou como pós-transação HTTP (com method="post"). O método HTTP
 padrão ao enviar dados de formulário é GET.
@@ -3549,7 +3377,6 @@ Anexa os dados do formulário ao URL, em pares de nome/valor;
 
 NUNCA use GET para enviar dados confidenciais! (os dados do formulário
 enviado são visíveis na URL!);
-
 
 Get
 
@@ -3571,7 +3398,6 @@ grandes quantidades de dados;
 - Os envios de formulário com POST não podem ser marcados.
 
 Vejamos um compilado dos atributos dos formulários HTML.
-
 
 Atributo de
 Formulários
@@ -3596,15 +3422,12 @@ target Especifica onde exibir a resposta recebida após o envio do formulário
 
 Os elementos HTML <form>
 
-
 /
-
 
 Vimos os atributos agora vamos ver os elementos dos formulários HTML! O
 elemento
 
 <form> pode conter um ou mais dos seguintes elementos de formulário:
-
 
 Elementos de
 Formulários
@@ -3637,7 +3460,6 @@ Descrição
 
 Vejamos agora os diferentes tipos de entrada que você pode usar em HTML
 
-
 Tipos de entrada
 de Formulários
 
@@ -3668,9 +3490,7 @@ aparecer no campo de entrada.
 Dependendo do suporte do navegador, um seletor de data pode
 aparecer no campo de entrada.
 
-
 /
-
 
 <input
 type="datetime-
@@ -3749,7 +3569,7 @@ usuário selecione apenas uma dentre um número limitado de opções.
 Define um controle para inserir um número cujo valor exato não é
 importante (como um controle deslizante). O intervalo padrão é de 0 a
 
-Item. 100. No entanto, você pode definir restrições sobre quais números são
+100. No entanto, você pode definir restrições sobre quais números são
 aceitos com os atributos min, maxe :step
 
 Define um botão de redefinição que redefinirá todos os valores do
@@ -3761,9 +3581,7 @@ como um campo de texto normal).
 Define um botão para enviar dados de formulário para um manipulador
 de formulário
 
-
 ,
-
 
 <input type="tel">
 
@@ -3795,9 +3613,7 @@ Permite ao usuário selecionar uma semana e um ano. Dependendo do
 suporte do navegador, um seletor de data pode aparecer no campo
 de entrada.
 
-
 /
-
 
 APIs HTML
 
@@ -3902,9 +3718,7 @@ A geolocalização também é muito útil para informações específicas do loc
 
 * Navegação curva a curva (GPS).
 
-
 /
-
 
 API de armazenamento da Web em HTML
 
@@ -3939,7 +3753,6 @@ WINDOW.LOCALSTORAGE - ARMAZENA DADOS SEM DATA DE VALIDADE
 WINDOW.SESSIO NSTORAGE - ARMAZENA DADOS PARA UMA SESSÃO (OS DADOS SÃO
 PERDIDOS QUANDO A GUIA DO NAVEGADOR É FECHADA)
 
-
 .
 
 í (CESPE - PGE RJ - 2022) Julgue o item que se segue, relacionado a
@@ -3948,9 +3761,7 @@ desenvolvimento de j
 : sistemas.
 =
 
-
 /
-
 
 No HTML 5, sessionStorage pode ser utilizado para armazenamento local de dados, tendo
 como
@@ -3972,11 +3783,9 @@ sessionStorage pode ser utilizado para armazenamento local de dados quando na ve
 o
 window.localStorage que o faz. (Gabarito: Errado)
 
-
 ./ 187
 
 /
-
 
 XHTML
 
@@ -4018,9 +3827,7 @@ diferente do HTML. A DTD especifica as regras para o documento e determina
 como o documento deve ser interpretado por navegadores da Web e outros
 aplicativos.
 
-
 www. estra tegiaconcursos. com. br
-
 
 * Tipo MIME: XHTML usa um tipo MIME (Multipurpose Internet Mail Extensions)
 diferente do HTML. O tipo MIME informa aos navegadores da Web e outros
@@ -4031,9 +3838,7 @@ e é frequentemente usado em combinação com outras tecnologias, como CSS e
 JavaScript, para criar páginas da Web dinâmicas e interativas. No entanto, o HTML ainda
 é amplamente usado e suportado por todos os navegadores modernos.
 
-
 /
-
 
 Acessibilidade HTML
 
@@ -4074,9 +3879,7 @@ conteúdo de uma página da web.
 idioma padrão da página da web. Isso ajuda a garantir que o conteúdo seja interpretado
 e pronunciado corretamente por tecnologias assistivas.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Vale a pena notar que o atributo lang não está limitado ao HTML5 - ele faz parte do
 HTML há muitos anos. No entanto, é um importante recurso de acessibilidade que vale a
@@ -4088,12 +3891,9 @@ chtml lang="en">
 
 </html>
 
-
 /
 
-
 RESUMO
-
 
 <!DOCTYPE html>
 
@@ -4128,15 +3928,11 @@ O que é HTML?
 * Os elementos HTML rotulam partes do conteúdo como "isto é um título", "isto é
 um parágrafo", "isto é um link", etc.
 
-
 7$
-
 
 /
 
-
 HTML Básico
-
 
 <!DOCTYPE html>
 
@@ -4160,7 +3956,6 @@ Meu primeiro parágrafo.
 Os cabeçalhos HTML são definidos com as tags <h1 >to .<hó>. <h1 >define o cabeçalho
 mais importante. Enquanto <hó>define o título menos importante:
 
-
 <hl>Este é o título l</hl>
 
 <h2>Este é o título 2</h2>
@@ -4174,7 +3969,6 @@ Este é o título 2
 Este é o título 3
 
 Elementos HTML
-
 
 Um elemento HTML é definido por uma tag inicial, algum conteúdo e uma tag final. O
 elemento HTML é tudo, desde a tag inicial até a tag final:
@@ -4192,7 +3986,6 @@ Tag inicial conteúdo do elemento Tag final
 <p> My first paragraph. </p>
 
 <br> none none
-
 
 <!DOCTYPE html>
 
@@ -4224,9 +4017,7 @@ link vai:
 
 <a href="https://www.w3schools.com">Este é um link</a> Este é um link
 
-
 /
-
 
 Cabeçalhos HTML
 
@@ -4234,7 +4025,6 @@ Cabeçalhos HTML são títulos ou subtítulos que você deseja exibir em uma pá
 Os cabeçalhos HTML são definidos com as tags <h1> até <hó>. Relembrando,
 <h1>
 define o cabeçalho mais importante. <hó>define o título menos importante.
-
 
 <!DOCTYPE html>
 
@@ -4273,7 +4063,6 @@ elemento HTML <p> define um parágrafo. Um parágrafo sempre começa em uma nova
 linha e os navegadores adicionam automaticamente algum espaço em branco (uma
 margem) antes e depois de um parágrafo.
 
-
 <!DOCTYPE html>
 
 <html>
@@ -4282,7 +4071,6 @@ margem) antes e depois de um parágrafo.
 
 Isto é um parágrafo.
 Isto é um parágrafo.
-
 
 <p>Isto é
 
@@ -4307,13 +4095,11 @@ definir uma alteração) em uma página HTML. A tag <hr> é uma tag vazia, o que
 significa
 que não tem tag final.
 
-
 Estilos HTML
 
 O atributo HTML style é usado para adicionar estilos a um elemento, como cor, fonte,
 tamanho e muito mais. A definição do estilo de um elemento HTML pode ser feita com o
 atributo style.
-
 
 <!DOCTYPE html>
 
@@ -4344,7 +4130,6 @@ O atributo HTML style tem a seguinte sintaxe4:
 <tagname style="property:value;">
 
 4 property é uma propriedade CSS. vaLue é um valor CSS.
-
 
 <!DOCTYPE html>
 
@@ -4392,14 +4177,12 @@ Color Define a cor do texto para um elemento HTML
 
 Font-family Define a fonte a ser usada para um elemento HTML
 
-
 Font-size
 Text-align
 
 Define o tamanho do texto para um elemento HTML
 
 Define o alinhamento horizontal do texto para um elemento HTML
-
 
 LU
 GO
@@ -4459,9 +4242,7 @@ maneira em todos os navegadores:
 
 * Um link ativo é sublinhado e vermelho
 
-
 /
-
 
 O atributo target especifica onde abrir o documento vinculado.
 
@@ -4488,7 +4269,6 @@ Vejamos os tipos de arquivo de imagem mais comuns, suportados em todos os
 navegadores (Chrome, Edge, Firefox, Safari, Opera):
 
 Abreviação Formato do arquivo Extensão
-
 
 APNG
 
@@ -4520,14 +4300,11 @@ Scalable Vector Graphics
 *png
 svg
 
-
 /
-
 
 Tag Descrição
 
 <img> Define uma imagem;
-
 
 <map>
 
@@ -4579,7 +4356,6 @@ Listas Não Ordenadas
 
 Valor Descrição
 
-
 Define o marcador de item da lista para um marcador (padrão).
 Define o marcador de item da lista para um círculo.
 
@@ -4618,18 +4394,13 @@ AS LISTAS PODEM SER ANINHADAS
 
 OS ITENS DA LISTA PODEM CONTER OUTROS ELEMENTOS HTML
 
-
 www. estra tegiaconcursos. com. br
-
 
 ELEMENTOS DE NÍVEL DE BLOCO
 
-
 <TFOOT>
 
-
 www. estra tegiaconcursos. com. br
-
 
 ELEMENTOS INLINE HTML
 
@@ -4649,11 +4420,9 @@ ELEMENTOS INLINE HTML
 
 Para relembrar, fica esse grande lembrete:
 
-
 / 187
 
 /
-
 
 <DIV> DEFINE UMA SEÇÃO EM UM DOCUMENTO (NÍVEL DE BLOCO]
 
@@ -4700,9 +4469,7 @@ cinput type=" radio" >
 Exibe um botão de opção (para selecionar uma das muitas
 opções)
 
-
 /
-
 
 <input type="checkbox">
 
@@ -4729,7 +4496,6 @@ Anexa os dados do formulário ao URL, em pares de nome/valor;
 NUNCA use GET para enviar dados confidenciais! (os dados do formulário
 enviado são visíveis na URL!);
 
-
 Get
 
 Post
@@ -4751,7 +4517,6 @@ grandes quantidades de dados;
 
 Vejamos um compilado dos atributos dos formulários HTML.
 
-
 Atributo de
 Formulários
 accept-
@@ -4770,9 +4535,7 @@ ao servidor (somente para method="post")
 method Especifica o método HTTP a ser usado ao enviar dados de formulário
 name Especifica o nome do formulário
 
-
 /
-
 
 novalidate
 rei
@@ -4788,7 +4551,6 @@ Vimos os atributos agora vamos ver os elementos dos formulários HTML! O
 elemento
 
 <form> pode conter um ou mais dos seguintes elementos de formulário:
-
 
 Elementos de
 Formulários
@@ -4821,7 +4583,6 @@ Descrição
 
 Vejamos agora os diferentes tipos de entrada que você pode usar em HTML
 
-
 Tipos de entrada
 de Formulários
 cinput
@@ -4837,9 +4598,7 @@ Define uma caixa de seleção. As caixas de seleção permitem que um
 usuário selecione ZERO ou MAIS opções de um número limitado de
 opções.
 
-
 /
-
 
 cinput
 type=" color" >
@@ -4923,12 +4682,10 @@ usuário selecione apenas uma dentre um número limitado de opções.
 Define um controle para inserir um número cujo valor exato não é
 importante (como um controle deslizante). O intervalo padrão é de 0 a
 
-Item. 100. No entanto, você pode definir restrições sobre quais números são
+100. No entanto, você pode definir restrições sobre quais números são
 aceitos com os atributos min, maxe :step
 
-
 ,
-
 
 cinput
 type=" reset">
@@ -5004,9 +4761,7 @@ Define um comentário
 
 <aside> Define o conteúdo além do conteúdo da página
 
-
 /
-
 
 <audio> Define o conteúdo de som incorporado
 
@@ -5069,11 +4824,9 @@ elemento <colgroup
 
 <dt> Define um termo/nome em uma lista de descrição
 
-
 / 187
 
 /
-
 
 <em> Define o texto enfatizado
 
@@ -5138,11 +4891,9 @@ usado para vincular a folhas de estilo)
 
 <meter> Define uma medição escalar dentro de um intervalo conhecido (um medidor)
 
-
 / 187
 
 /
-
 
 <nav>
 
@@ -5256,11 +5007,9 @@ Define o texto subscrito
 Define um cabeçalho visível para um elemento <details>
 Define o texto sobrescrito
 
-
 / 187
 
 /
-
 
 <svg> Define um contêiner para gráficos SVG
 
@@ -5303,11 +5052,9 @@ normal
 <wbr> Define uma possível quebra de linha
 x
 
-
 / 187
 
 /
-
 
 Mais cobrados em provas
 
@@ -5338,7 +5085,6 @@ iframes e incorporar apenas conteúdo de fontes confiáveis.
 Símbolos HTML
 
 Número Entidade Descrição
-
 
 &#169
 &#174
@@ -5372,9 +5118,7 @@ Número Entidade Descrição
 
 &clubs Club preto
 
-
 /
-
 
 &hearts
 &diams
@@ -5419,9 +5163,7 @@ Atributo Valor Descrição
 charset character_set Especifica a codificação de caracteres para o
 documento HTML
 
-
 /
-
 
 content text
 content-security-
@@ -5472,9 +5214,7 @@ todos os dispositivos:
 
 cmeta name="viewport" content="width=device-widthj initial-scale=l.0">
 
-
 /
-
 
 A viewport é a área visível do usuário de uma página da web. Varia de acordo com o
 dispositivo - será menor em um telefone celular do que na tela do computador. Você
@@ -5517,25 +5257,21 @@ serão
 baixados e armazenados em cache. Em visitas posteriores, o site será carregado a partir
 do cache, permitindo que ele funcione offline.
 
-
 /
-
 
 REFERÊNCIAS
 
 https://www.w3schools.com/html/
 
-
 www. estra tegiaconcursos. com. br
 
 /
-
 
 Questões Cespe
 
 QUESTõES CoMENTADAS
 
-Item. 1. (CESPE-TCE RJ-2022). Quanto ao desenvolvimento de sistemas web, julgue o item
+1. (CESPE-TCE RJ-2022). Quanto ao desenvolvimento de sistemas web, julgue o item
 seguinte.
 
 HTML5 é uma linguagem de programação que permite estruturar páginas web e
@@ -5549,7 +5285,7 @@ repetição.
 
 Gabarito: Errado
 
-Item. 2. (CESPE -DP DF- 2022) Julgue o item seguinte, a respeito da formatação de dados.
+2. (CESPE -DP DF- 2022) Julgue o item seguinte, a respeito da formatação de dados.
 
 A tag <meta charset="UTF-8"> define o conjunto de caracteres usados na página,
 nesse caso, o UTF-8, que é o padrão para HTML5.
@@ -5563,7 +5299,7 @@ caracteres UTF-8, que abrange quase todos os caracteres e símbolos do mundo!
 
 Gabarito: Correto
 
-Item. 3. (CESPE - PGE RJ - 2022) Julgue o item que se segue, relacionado a desenvolvimento
+3. (CESPE - PGE RJ - 2022) Julgue o item que se segue, relacionado a desenvolvimento
 de sistemas.
 
 No HTML 5, sessionStorage pode ser utilizado para armazenamento local de dados,
@@ -5572,9 +5308,7 @@ funcionamento.
 
 Comentários:
 
-
 /
-
 
 É possível usar dois objetos para armazenar dados no cliente:
 window.localStorage e
@@ -5587,7 +5321,7 @@ window.localStorage que o faz.
 
 Gabarito: Errado
 
-Item. 4. (CESPE - APEX - 2021) E m HTML5, considerando-se o contexto de geolocalização e
+4. (CESPE - APEX - 2021) E m HTML5, considerando-se o contexto de geolocalização e
 acesso ao dispositivo, para se obter retorno mais rápido e de baixa precisão sobre a
 localização de um dispositivo, deve-se
 a) invocar um método para o objeto PositionOptions da API com o parâmetro "0".
@@ -5609,7 +5343,7 @@ geolocalização.
 
 Gabarito: Letra D
 
-Item. 5. (CESPE-PGDF-2021) Acerca de linguagens de marcação utilizadas para formatação
+5. (CESPE-PGDF-2021) Acerca de linguagens de marcação utilizadas para formatação
 de dados, julgue o item a seguir.
 
 HTML e XML são equivalentes, pois ambas possuem uma semântica de apresentação
@@ -5623,11 +5357,9 @@ foi projetado para armazenar e transportar dados.
 
 Gabarito: Errado
 
-
 /
 
-
-Item. 6. (CESPE - SEFAZ CE - 2021) Com relação à arquitetura de desenvolvimento de
+6. (CESPE - SEFAZ CE - 2021) Com relação à arquitetura de desenvolvimento de
 software, julgue o item a seguir.
 
 Um link de navegação compartilhado por diversas páginas é incluído no
@@ -5646,10 +5378,9 @@ navegação compartilhado por diversas páginas é incluído no elemento <nav>.
 
 Gabarito: Errado
 
-Item. 7. (CESPE - PGDF - 2021) Julgue o item a seguir, referente a linguagens de scripts.
+7. (CESPE - PGDF - 2021) Julgue o item a seguir, referente a linguagens de scripts.
 
 Considere o código seguinte, em HTML e JavaScript.
-
 
 <html>
 
@@ -5682,9 +5413,7 @@ resultado a seguir
 
 Comentários:
 
-
 www. estra tegiaconcursos. com. br
-
 
 Pessoal, perfeita questão. O script realiza a concatenação dos valores id a e b e
 insere em
@@ -5714,7 +5443,7 @@ lementById('b').value);
 
 Gabarito: Correto
 
-Item. 8. (CESPE - TJ PA - 2020) A respeito do tratamento off-line de um sítio no HTML
+8. (CESPE - TJ PA - 2020) A respeito do tratamento off-line de um sítio no HTML
 5,
 assinale a opção correta.
 
@@ -5747,10 +5476,9 @@ criar um arquivo chamado "manifesto de cache" e vinculá-lo ao seu HTML usando a
 <html>. O manifesto de cache é um arquivo de texto simples que contém uma lista de
 arquivos que devem ser armazenados em cache.
 
-
 Gabarito: Letra B
 
-Item. 9. (CESPE - MPE CE - 2020) Acerca de JSON e HTML 5, julgue o item subsecutivo.
+9. (CESPE - MPE CE - 2020) Acerca de JSON e HTML 5, julgue o item subsecutivo.
 
 No HTML 5, localStorage é um recurso de armazenamento local que usa objetos
 JavaScript e que permite manter dados sem data de expiração prévia.
@@ -5770,7 +5498,7 @@ localStorage, você pode definir e recuperar valores usando JavaScript.
 
 Gabarito: Correto
 
-Item. 10. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
+10. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
 item a seguir:
 
 No HTML 5, os novos campos para formulários, como email, search e range, e os
@@ -5791,13 +5519,11 @@ pattern e required, reduzem a necessidade de utilização de plugins para
 auxiliar a
 formatação dos elementos.
 
-
 /
-
 
 Gabarito: Correto
 
-Item. 11. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
+11. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
 item a seguir:
 
 No HTML 5, as tags de link e script usadas para referenciar arquivos de
@@ -5826,7 +5552,7 @@ Já, no HTML 5 é assim:
 
 Gabarito: Correto
 
-Item. 12. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
+12. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
 item a seguir.
 
 A instrução DOCTYPE do HTML 5 é mais simples que a das versões anteriores HTML
@@ -5837,16 +5563,13 @@ Comentários:
 Pessoal, como vimos, é bem mais simples! Vamos relembrar como é a instrução DOCTYPE
 do HTML 5:
 
-
 <!DOCTYPE html>
 
 Gabarito: Correto
 
-Item. 13. (CESPE - TJ PA - 2020)
-
+13. (CESPE - TJ PA - 2020)
 
 /
-
 
 ClDOCTYPE hcml>
 
@@ -5895,9 +5618,7 @@ document.getElementByld("prova").innerHTML += x + ": " + meuObjeto[x] +
 Isso incluirá o nome da propriedade e o valor dela na saída. Por exemplo: nome: Caca.
 Idade: 52. carro: null. Vejamos o resultado da execução do código.
 
-
 www. estra tegiaconcursos. com. br
-
 
 <!DOCTYPE html>
 
@@ -5925,7 +5646,7 @@ nomeldadecarro
 
 Gabarito: Letra B
 
-Item. 14. (CESPE - TJ PA - 2020) Na linguagem HTML 5, geralmente
+14. (CESPE - TJ PA - 2020) Na linguagem HTML 5, geralmente
 considera-se
 determinado elemento como o ponto central do conteúdo do documento, o qual
 pode ser, por exemplo, um post.
@@ -5961,7 +5682,6 @@ reprodutor de mídia ou um aplicativo de plug-in. A tag <article> define um
 conteúdo
 independente de outras partes do sítio e altamente relevante. É autocontido. Exemplo:
 
-
 www. estra tegiaconcursos. com. br
 comentário enviado por usuário, post de um blog, artigo de uma revista. A tag <figure>
 especifica o conteúdo independente, como ilustrações, diagramas, fotos, listagens
@@ -5970,7 +5690,7 @@ código, etc. Portanto, nosso gabarito é a tag < article >
 
 Gabarito: Letra D
 
-Item. 15. (CESPE-SLU DF-2019) Com relação a desenvolvimento de software, julgue o item
+15. (CESPE-SLU DF-2019) Com relação a desenvolvimento de software, julgue o item
 a seguir.
 
 De acordo com o trecho de código a seguir, escrito em HTML5, novos valores de date
@@ -6028,7 +5748,7 @@ especificado no atributo action do elemento <form>.
 
 Gabarito: Correto
 
-Item. 16. (CESPE - MPC TCE-PA - 2019) O HTML (hypertext markup language) tem amplo
+16. (CESPE - MPC TCE-PA - 2019) O HTML (hypertext markup language) tem amplo
 uso difundido nas páginas publicadas na Internet. Assinale a opção que corresponde
 à tag utilizada no caso em que seja necessário utilizar uma lista não ordenada.
 
@@ -6056,7 +5776,7 @@ Normalmente é usado para exibir o cabeçalho de um grupo de células da tabela.
 
 Gabarito: Letra D
 
-Item. 17. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
+17. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
 5, do JavaScript, do XML e do CSS, julgue o item subsequente.
 
 O HTML 5 define como os navegadores web devem lidar com marcações antigas como
@@ -6068,13 +5788,11 @@ Comentários:
 Pessoal, apesar dessas tags serem obsoletas, o HTML5 ainda reconhece o funcionamento
 dessas tags. E o HTML 5 define como os navegadores web devem lidar com elas.
 
-
 /
-
 
 Gabarito: Correto
 
-Item. 18. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
+18. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
 5, do JavaScript, do XML e do CSS, julgue o item subsequente.
 
 O HTML 5 especifica novas API (application program interface) para o modelo
@@ -6094,7 +5812,7 @@ e soltar eventos enviados pelo servidor, como desenhos, vídeos e similares.
 
 Gabarito: Correto
 
-Item. 19. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
+19. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
 5, do JavaScript, do XML e do CSS, julgue o item subsequente.
 
 A XHTML 5 é uma serialização XML que tem as mesmas características e sintaxes do
@@ -6115,13 +5833,11 @@ compatibilidade, tipo de documento. Portanto, não tem as mesmas característica
 e
 sintaxes do HTML 5.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Gabarito: Errado
 
-Item. 20. (CESPE - MPE PI - 2018) Julgue o próximo item, relativo a lógica de programação
+20. (CESPE - MPE PI - 2018) Julgue o próximo item, relativo a lógica de programação
 e linguagens de programação.
 
 <html>
@@ -6162,7 +5878,7 @@ document.getElementByld("demo").innerHTML = colors;
 
 Gabarito: Correto
 
-Item. 21. (CESPE - TJ STJ - 2018) Julgue o item seguinte, a respeito
+21. (CESPE - TJ STJ - 2018) Julgue o item seguinte, a respeito
 de Maven,
 desenvolvimento web, servidor web, servidor de aplicação e criptografia.
 
@@ -6171,9 +5887,7 @@ automaticamente focado quando do carregamento da página.
 
 Comentários:
 
-
 www. estra tegiaconcursos. com. br
-
 
 O atributo autofocus é um atributo HTML5 que pode ser usado para especificar que um
 elemento de formulário deve ser focado automaticamente quando a página é carregada.
@@ -6186,7 +5900,7 @@ examinador,
 
 Gabarito: Errado
 
-Item. 22. (CESPE - STM - 2018) Julgue o item subsequente, a respeito de programação web.
+22. (CESPE - STM - 2018) Julgue o item subsequente, a respeito de programação web.
 
 Em HTML5, a tag <output> fornece uma indicação ao usuário do que pode ser inserido
 no campo.
@@ -6206,7 +5920,7 @@ botões de opção e muito mais.
 
 Gabarito: Errado
 
-Item. 23. (CESPE - TRE BA - 2017) Entre os novos elementos do HTM L5, o elemento:
+23. (CESPE - TRE BA - 2017) Entre os novos elementos do HTM L5, o elemento:
 
 a) <mark> é o ponto de parada do cursor em qualquer parte da página HTML.
 
@@ -6224,16 +5938,14 @@ a) <mark> Define o texto marcado/destacado; b) <progress> Representa o progresso
 uma tarefa; c) <meter> Define uma medição escalar dentro de um intervalo conhecido
 (um medidor); d) <figcaption> Define uma legenda para um elemento <figure>; e)
 
-
 www. estra tegiaconcursos. com. br
-
 
 <main> Especifica o conteúdo principal de um documento. Portanto, nosso gabarito é a
 letra B.
 
 Gabarito: Letra B
 
-Item. 24. (CESPE - TCE-PA - 2016) Acerca dos conceitos e das técnicas necessários à
+24. (CESPE - TCE-PA - 2016) Acerca dos conceitos e das técnicas necessários à
 construção de sítios web em que se utilizam CSS e HTML, julgue o item que se segue.
 
 HTML é uma linguagem de programação utilizada na construção de páginas na Web.
@@ -6248,7 +5960,7 @@ quando na verdade é uma linguagem de marcação.
 
 Gabarito: Errado
 
-Item. 25. (CESPE -TCE-PA - 2016) Julgue o item que se segue, relativamente a
+25. (CESPE -TCE-PA - 2016) Julgue o item que se segue, relativamente a
 desenvolvimento de sistemas web.
 
 Após a incorporação do jQuery ao HTML5, o desenvolvimento de funcionalidades por
@@ -6275,9 +5987,7 @@ selecionar e manipular elementos HTML5, como os novos elementos
 semânticos
 introduzidos no HTML5 (por exemplo, <header>, <footer> e <article>). A questão limita
 
-
 /
-
 
 a funcionalidade do jQuery além de citar a incorporação do jQuery ao HTML5, o que
 está
@@ -6285,7 +5995,7 @@ errado.
 
 Gabarito: Errado
 
-Item. 26. (CESPE -TCE-PA - 2016) Julgue o item que se segue,
+26. (CESPE -TCE-PA - 2016) Julgue o item que se segue,
 relativamente a
 desenvolvimento de sistemas web.
 
@@ -6299,7 +6009,7 @@ da web.
 
 Gabarito: Errado
 
-Item. 27. (CESPE - FUNPRESP-EXE - 2016) Acerca da tecnologia Java, julgue o
+27. (CESPE - FUNPRESP-EXE - 2016) Acerca da tecnologia Java, julgue o
 próximo
 item.
 
@@ -6318,7 +6028,7 @@ que pode ser usado para adicionar um texto fixo é o alt.
 
 Gabarito: Errado
 
-Item. 28. (CESPE - FUNPRESP-JUD - 2016) A respeito das tecnologias relacionadas ao
+28. (CESPE - FUNPRESP-JUD - 2016) A respeito das tecnologias relacionadas ao
 desenvolvimento web em Java, julgue o item a seguir.
 
 No HTML 5, a tag <rp> é usada para informar o que deve ser exibido nos browsers
@@ -6326,16 +6036,14 @@ que não suportam anotações ruby.
 
 Comentários:
 
-
 /
-
 
 Na referência do HTML 5 temos que <rp> define o que mostrar em navegadores que não
 suportam anotações ruby.
 
 Gabarito: Correto
 
-Item. 29. (CESPE - TRT 8 - 2016) Assinale a opção que apresenta a tag
+29. (CESPE - TRT 8 - 2016) Assinale a opção que apresenta a tag
 incluída na
 especificação do HTML5 que permite a reprodução de arquivos que contenham som
 ou música.
@@ -6358,7 +6066,7 @@ nativamente no navegador, sem a necessidade de plug-ins de terceiros, como o Fla
 
 Gabarito: Letra E
 
-Item. 30. (CESPE - TRE PI - 2016) A respeito de páginas web desenvolvidas
+30. (CESPE - TRE PI - 2016) A respeito de páginas web desenvolvidas
 utilizando-se
 HTML 5, assinale a opção correta.
 
@@ -6379,9 +6087,7 @@ determinar o seu cabeçalho.
 
 Comentários:
 
-
 /
-
 
 Nosso gabarito é a letra D. O elemento <iframe> é um elemento HTML usado
 para
@@ -6410,7 +6116,7 @@ uma página.
 
 Gabarito: Letra D
 
-Item. 31. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
+31. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
 formulários eletrônicos.
 
 O elemento labei funciona como um indicador de caminho a seguir. Muitos browsers
@@ -6446,7 +6152,7 @@ de caminho a seguir.
 
 Gabarito: Correto
 
-Item. 32. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
+32. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
 formulários eletrônicos.
 
 É vedada a utilização de FIELDSET para agrupar qualquer variedade de elementos
@@ -6462,7 +6168,7 @@ como a questão está dizendo o oposto, nosso gabarito é: Errado.
 
 Gabarito: Errado
 
-Item. 33. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
+33. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
 formulários eletrônicos.
 
 A tag <label> pode ser aplicada a todos os elementos de formulário, até mesmo a
@@ -6476,11 +6182,9 @@ button.
 
 Gabarito: Errado
 
-
 /
 
-
-Item. 34. (CESPE -TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
+34. (CESPE -TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
 formulários eletrônicos.
 
 É possível agrupar inputs de um formulário e, ainda, as opções de uma tag <select>
@@ -6524,15 +6228,13 @@ Pessoal, é super possível! Inclusive uma das formas é utilizando a tag <field
 
 Gabarito: Correto
 
-
 ./ 187
 
 /
 
-
 Questões FCC
 
-Item. 35. (FCC - PGE AM - 2022) No cabeçalho de uma página HTML deseja-se indicar ao
+35. (FCC - PGE AM - 2022) No cabeçalho de uma página HTML deseja-se indicar ao
 navegador o conjunto de caracteres recomendado pela linguagem HTML5, que
 abrange a maioria dos caracteres e símbolos utilizados na maior parte dos idiomas,
 inclusive acentos existentes no Português. Para isso deve-se utilizar a instrução
@@ -6562,7 +6264,7 @@ podem ser necessárias para exibir os caracteres corretamente.
 
 Gabarito: Letra A
 
-Item. 36. (FCC - TRT 23 - 2022) Para criar sites responsivos usando HTML5 é aconselhável
+36. (FCC - TRT 23 - 2022) Para criar sites responsivos usando HTML5 é aconselhável
 fornecer ao navegador instruções sobre como controlar as dimensões e a escala da
 página por meio da definição da viewport da página, utilizando o comando
 a) <viewport initial-scale=" 1.0" max-width=" 100%" />
@@ -6582,9 +6284,7 @@ layout e
 conteúdo para se adequar ao tamanho do dispositivo e da tela do usuário.
 Sites
 
-
 /
-
 
 responsivos usam uma combinação de grades flexíveis, imagens e consultas de mídia para
 criar uma experiência de usuário perfeita e intuitiva em uma ampla variedade
@@ -6653,11 +6353,9 @@ content= "width=device-width, initial-scale= 1,0">. Assim, nosso gabarito é a l
 
 Gabarito: Letra B
 
-
 /
 
-
-Item. 37. (FCC - TRT22 - 2022) Uma Analista deseja escrever no rodapé da página web
+37. (FCC - TRT22 - 2022) Uma Analista deseja escrever no rodapé da página web
 HTML5 "Copyright ©", sem aspas, indicando que a página possui direitos autorais.
 
 Uma das maneiras corretas de fazer isso é por meio da instrução
@@ -6677,7 +6375,7 @@ O sinal © é criado pela instrução &copy que significa sinal de direitos auto
 
 Gabarito: Letra A
 
-Item. 38. (FCC-TJ SC- 2021) Em uma situação hipotética, um profissional de TI
+38. (FCC-TJ SC- 2021) Em uma situação hipotética, um profissional de TI
 deseja
 inserir um vídeo institucional do Tribunal de Justiça de Santa Catarina que está no
 Youtube, no site do Tribunal.
@@ -6706,7 +6404,7 @@ content.
 
 Gabarito: Letra E
 
-Item. 39. (FCC-TJ MA-2019) Um Analista que está desenvolvendo a página de
+39. (FCC-TJ MA-2019) Um Analista que está desenvolvendo a página de
 abertura
 de um site deseja fazer com que as páginas HTML referentes aos links do menu sejam
 direcionadas e exibidas em um contêiner criado pela tag section no interior
@@ -6751,11 +6449,9 @@ tag
 
 Gabarito: Letra D
 
-
 /
 
-
-Item. 40. (FCC-AFAP-2019) E m uma página HTML 5 de abertura de um site, um Analista
+40. (FCC-AFAP-2019) E m uma página HTML 5 de abertura de um site, um Analista
 de Informática deseja definir uma área no centro onde outras páginas HTML poderão
 ser carregadas a partir de cliques nos links do menu principal. Ao abrir a página de
 abertura, um arquivo HTML já poderá ser exibido nessa área, cujo conteúdo poderá
@@ -6780,7 +6476,7 @@ incorporar vídeos, mapas e outros conteúdos interativos. Portanto é o nosso g
 
 Gabarito: Letra C
 
-Item. 41. (FCC - Pref Manaus - 2019) Em um parágrafo de uma página web desenvolvida
+41. (FCC - Pref Manaus - 2019) Em um parágrafo de uma página web desenvolvida
 com HTML5, um programador está usando palavras longas e está com medo do
 navegador quebrar as palavras ou linhas em locais incorretos. Para indicar os locais
 desejados para possíveis quebras de linha, quando a largura da janela do navegador
@@ -6801,13 +6497,11 @@ Para indicar os locais desejados para possíveis quebras de linha, quando a larg
 janela do navegador mudar, o programador deverá usar a tag <wbr>. De acordo com a
 definição, <wbr> define uma possível quebra de linha.
 
-
 /
-
 
 Gabarito: Letra D
 
-Item. 42. (FCC -TRF 4 - 2019) HTML5 incluiu um conjunto de tags semânticas para
+42. (FCC -TRF 4 - 2019) HTML5 incluiu um conjunto de tags semânticas para
 substituir
 algumas construções que eram feitas com HTML4. Por exemplo, as instruções <div
 id="header"> </div> e <div id="menu"x/div> feitas em HTML4, são feitas
@@ -6835,7 +6529,7 @@ para os desenvolvedores estruturar seu conteúdo de maneira lógica e significat
 
 Gabarito: Letra B
 
-Item. 43. (FCC - TJ MA - 2019) Um Técnico Judiciário que utiliza HTML5 está criando um
+43. (FCC - TJ MA - 2019) Um Técnico Judiciário que utiliza HTML5 está criando um
 parágrafo em uma página web que tem muitas palavras longas e, para evitar que o
 navegador quebre linha no lugar errado, utilizou uma tag para especificar onde, em
 um parágrafo, será aceitável uma quebra de linha. A tag correta para isso é:
@@ -6855,13 +6549,11 @@ Comentários:
 Pessoal, é exatamente o mesmo caso da questão da Pref Manaus de 2019! Deve ser
 utilizada a tag <wbr> que define uma possível quebra de linha.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Gabarito: Letra B
 
-Item. 44. (FCC - TRF 3 - 2019) Considere o fragmento abaixo de uma página HTML5 que
+44. (FCC - TRF 3 - 2019) Considere o fragmento abaixo de uma página HTML5 que
 utiliza elementos semânticos.
 
 <figure>
@@ -6889,7 +6581,7 @@ Pessoal, o elemento <figcaption> define uma legenda para um elemento <figure>.
 
 Gabarito: Letra E
 
-Item. 45. (FCC -Pref Manaus - 2019) Um programador precisa utilizar uma tag
+45. (FCC -Pref Manaus - 2019) Um programador precisa utilizar uma tag
 semântica
 incorporada a versão 5 da linguagem HTML, cujo objetivo é definir algum conteúdo
 adicional colocado normalmente à direita, mas relacionado com um conteúdo que o
@@ -6933,7 +6625,7 @@ usuário.
 
 Gabarito: Letra C
 
-Item. 46. (FCC -TRF 3 - 2019) Um programador está criando o menu principal da página de
+46. (FCC -TRF 3 - 2019) Um programador está criando o menu principal da página de
 abertura de um site, que conterá o bloco principal de links de
 navegação.
 Considerando os elementos semânticos da linguagem HTML5, estes links devem ficar
@@ -6958,14 +6650,12 @@ para agrupar links que levam a outras páginas ou a diferentes partes da mesma p
 
 Gabarito: Letra D
 
-Item. 47. (FCC - SANASA - 2019) Um Desenvolvedor de software precisa inserir uma
+47. (FCC - SANASA - 2019) Um Desenvolvedor de software precisa inserir uma
 instrução no cabeçalho de uma página HTML que fará referência a um arquivo
 chamado aOOI.css a ser aplicado apenas quando a página for aberta em dispositivos
 com tela de até 600 pixels. A instrução correta que deverá ser inserida é
 
-
 /
-
 
 a) <@import URL(a001 .css) only screen and (max-width: 600px)>
 
@@ -7000,7 +6690,7 @@ Web em telas com largura máxima de 600 pixels.
 
 Gabarito: Letra C
 
-Item. 48. (FCC - SABESP - 2018) Um Técnico está desenvolvendo uma página web com
+48. (FCC - SABESP - 2018) Um Técnico está desenvolvendo uma página web com
 HTML5 e deseja exibir um texto com fonte Courier de largura fixa, preservando os
 espaços e as quebras de linha.
 
@@ -7021,13 +6711,11 @@ Vamos relembrar o que foi falado durante a aula? O elemento HTML <pre>define o t
 pré-formatado. O texto dentro de um elemento <pre> é exibido em uma fonte de largura
 fixa (geralmente Courier) e preserva espaços e quebras de linha.
 
-
 /
-
 
 Gabarito: Letra E
 
-Item. 49. (FCC-DPE AM - 2018) Um Técnico Programador deseja fazer um glossário
+49. (FCC-DPE AM - 2018) Um Técnico Programador deseja fazer um glossário
 de
 termos em um site utilizando listas de definições do HTML5. Nestas listas, o termo a
 ser descrito e a descrição propriamente dita são criados, respectivamente, pelas tags
@@ -7053,7 +6741,7 @@ em uma lista de descrição. <dd> descreve o termo em uma lista de descrição.
 
 Gabarito: Letra A
 
-Item. 50. (FCC - TST - 2017) Considere, hipoteticamente, que um Programador deseja
+50. (FCC - TST - 2017) Considere, hipoteticamente, que um Programador deseja
 publicar um vídeo institucional no site do Tribunal Superior do Trabalho. Para isso, no
 local da página HTML5 onde deseja colocar o vídeo, utilizou o bloco de código abaixo.
 
@@ -7075,9 +6763,7 @@ e) mp4, avi e mov.
 
 Comentários:
 
-
 www. estra tegiaconcursos. com. br
-
 
 O elemento <video> suporta vários formatos de arquivo de vídeo diferentes,
 incluindo:
@@ -7085,7 +6771,7 @@ MP4, WebM e Ogg.
 
 Gabarito: Letra C
 
-Item. 51. (FCC - TRF 5 - 2017) Uma das recomendações que consta nas Web
+51. (FCC - TRF 5 - 2017) Uma das recomendações que consta nas Web
 Content
 Accessibility Guidelines - WCAG é fornecer legendas e outras alternativas para
 conteúdo multimídia.
@@ -7125,7 +6811,7 @@ Portanto, o nosso gabarito é a letra E.
 
 Gabarito: Letra E
 
-Item. 52. (FCC -TRT 24 - 2017) Preocupado com a acessibilidade de um site que está
+52. (FCC -TRT 24 - 2017) Preocupado com a acessibilidade de um site que está
 sendo
 desenvolvido para o Tribunal Regional do Trabalho da 24a Região, um Técnico
 www. estra tegiaconcursos. com. br
@@ -7154,7 +6840,7 @@ nosso gabarito é a letra a.
 
 Gabarito: Letra A
 
-Item. 53. (FCC - ALMS - 2016) A viewport é a área visível do usuário de uma página
+53. (FCC - ALMS - 2016) A viewport é a área visível do usuário de uma página
 web e
 pode variar de acordo com o dispositivo. HTML5 introduziu um método para deixar
 os web designers terem controle sobre a viewport através da tag
@@ -7180,13 +6866,11 @@ página da web, em um navegador da web. O elemento meta com um atributo viewport
 elas podem ajustar seu layout e aparência para caber no tamanho e na resolução do
 dispositivo que está sendo usado para visualizá-las.
 
-
 /
-
 
 Gabarito: Letra B
 
-Item. 54. (FCC - ELETROSUL - 2016) A uma página HTML5 deseja-se vincular um arquivo
+54. (FCC - ELETROSUL - 2016) A uma página HTML5 deseja-se vincular um arquivo
 chamado arql.css e um arquivo chamado arq2.js.
 
 Para isso devem-se utilizar as instruções
@@ -7233,7 +6917,7 @@ em "arq2.js" na página da web.
 
 Gabarito: Letra E
 
-Item. 55. (FCC - ALMS - 2016) Considere o fragmento de código HTM L5 a seguir.
+55. (FCC - ALMS - 2016) Considere o fragmento de código HTM L5 a seguir.
 
 <body>
 
@@ -7245,9 +6929,7 @@ i
 
 </body>
 
-
 www. estra tegiaconcursos. com. br
-
 
 Para disponibilizar na página o áudio chamado beethoven.mp3 a lacuna I deve ser
 corretamente preenchida por
@@ -7273,7 +6955,7 @@ type=" audio/mpeg" >
 
 Gabarito: Letra C
 
-Item. 56. (FCC - SEMF Teresina - 2016) Em uma página HTML há um parágrafo vazio criado
+56. (FCC - SEMF Teresina - 2016) Em uma página HTML há um parágrafo vazio criado
 pela tag <p id="local"x/p>. Em um bloco JavaScript da mesma página, para
 inserir
 neste parágrafo a palavra Teresina, utiliza-se o comando
@@ -7298,11 +6980,9 @@ inserir o elemento id="local", deve usar o método document.getElementByld e usa
 
 Gabarito: Letra A
 
-
 /
 
-
-Item. 57. (FCC-TRT 23-2016) De acordo com as recomendações da W3C para a linguagem
+57. (FCC-TRT 23-2016) De acordo com as recomendações da W3C para a linguagem
 HTML5, a instrução
 a) <meta charset="utf-8" /> está incorreta, pois tem uma barra no final.
 
@@ -7334,7 +7014,7 @@ está errada. O correto seria <script src="myscripts.js"x/script>
 
 Gabarito: Letra D
 
-Item. 58. (FCC-TRF3 - 2016) Em um site que utiliza HTML5 Application Cache há um arquivo
+58. (FCC-TRF3 - 2016) Em um site que utiliza HTML5 Application Cache há um arquivo
 chamado dados.appcache que define que uma página poderá ter o conteúdo
 acessado mesmo estando offline. Nessa página, para apontar para esse arquivo deve-
 se utilizar a instrução
@@ -7355,9 +7035,7 @@ manifesto do cache do aplicativo. Um manifesto de cache de aplicativo é um arqu
 define os recursos que devem ser armazenados em cache pelo navegador da Web para
 que possam ser usados offline.
 
-
 /
-
 
 A sintaxe usada é a seguinte: <html manifest="dados.appcache">, portanto o
 gabarito
@@ -7365,15 +7043,13 @@ gabarito
 
 Gabarito: Letra A
 
-
 / 187
 
 /
 
-
 Questões FCV
 
-Item. 59. (FGV -TJ TO- 2022) No HTML5, o evento que é disparado quando um objeto é
+59. (FGV -TJ TO- 2022) No HTML5, o evento que é disparado quando um objeto é
 carregado é:
 
 a) begin;
@@ -7406,7 +7082,7 @@ especificar o ponto inicial padrão para uma trilha de texto, como subtítulos o
 
 Gabarito: Letra B
 
-Item. 60. (FGV-M PE SC- 2022) Sobre elementos block-level (nível de bloco) e elementos
+60. (FGV-M PE SC- 2022) Sobre elementos block-level (nível de bloco) e elementos
 inline (em linha) no HTML, analise as afirmativas a seguir.
 
 I. Um elemento block-level sempre começa numa nova linha.
@@ -7425,7 +7101,6 @@ c) I e II;
 
 d) I e III;
 
-
 www. estra tegiaconcursos. com. br
 e) II e III..
 
@@ -7441,7 +7116,7 @@ correta: <div> é um elemento block-level. Assim, ficamos com as assertivas I e 
 
 Gabarito: Letra D
 
-Item. 61. (FGV-MPE GO - 2022) Num documento HTML5, assinale o elemento que contém
+61. (FGV-MPE GO - 2022) Num documento HTML5, assinale o elemento que contém
 meta informações sobre a página.
 
 a) <!DOCTYPE html>
@@ -7466,11 +7141,9 @@ nosso gabarito é a letra C.
 
 Gabarito: Letra C
 
-Item. 62. (FGV -TJ TO- 2022) Observe o código HTML e JavaScript a seguir:
-
+62. (FGV -TJ TO- 2022) Observe o código HTML e JavaScript a seguir:
 
 www. estra tegiaconcursos. com. br
-
 
 <!DOCTYPE html>
 
@@ -7513,7 +7186,7 @@ gabarito é a letra B.
 
 Gabarito: Letra B
 
-Item. 63. (FGV -Sefaz AM - 2022) A linguagem de marcação HTML é amplamente utilizada
+63. (FGV -Sefaz AM - 2022) A linguagem de marcação HTML é amplamente utilizada
 na construção de páginas da Internet.
 
 O elemento HTML, que permite reproduzir um arquivo de vídeo no formato MP4 em
@@ -7528,9 +7201,7 @@ d) <movie>
 
 e) <video>.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Comentários:
 
@@ -7541,7 +7212,7 @@ navegadores da web.
 
 Gabarito: Letra E
 
-Item. 64. (FGV-IMBEL-2021) Analise a imagem a seguir, produzida numa página Web.
+64. (FGV-IMBEL-2021) Analise a imagem a seguir, produzida numa página Web.
 
 B t||£)
 
@@ -7595,9 +7266,7 @@ e) <trxtd>A</tdxtd>C</tdx/tr>
 
 </tablex/thx/tr>.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Gabarito:
 
@@ -7623,7 +7292,7 @@ a letra E, que possuem códigos inválidos.
 
 Gabarito: Letra B
 
-Item. 65. (FGV-TJ RO-2021) No contexto do HTML, a sintaxe correta para um comentário,
+65. (FGV-TJ RO-2021) No contexto do HTML, a sintaxe correta para um comentário,
 delimitando um trecho que NÃO deve ser exibido pelo browser, é:
 
 a) <— Texto do comentário —>
@@ -7644,7 +7313,7 @@ da web. O nosso gabarito é a letra D: <!—Texto do comentário —>
 
 Gabarito: Letra D
 
-Item. 66. (FGV- IMBEL- 2021) Analise o trecho HTML a seguir.
+66. (FGV- IMBEL- 2021) Analise o trecho HTML a seguir.
 
 <table>
 
@@ -7652,9 +7321,7 @@ Item. 66. (FGV- IMBEL- 2021) Analise o trecho HTML a seguir.
 
 <trxth>B</thxth>D</thx/tr>
 
-
 /
-
 
 </table>
 
@@ -7681,7 +7348,7 @@ célula que contém informações de cabeçalho para uma tabela.
 
 Gabarito: Letra A
 
-Item. 67. (FGV -MPE AL - 2018) O HTML 5 introduziu diversos elementos
+67. (FGV -MPE AL - 2018) O HTML 5 introduziu diversos elementos
 semânticos,
 gráficos e de multimídia.
 
@@ -7706,13 +7373,12 @@ da
 página da web, como um capítulo ou um tema. Dentre os novos elementos semânticos
 www. estra tegiaconcursos. com. br
 
-
 <header>, <footer> <article> e <section>, a única opção que não é uma novidade no
 HTML5 é o <div>.
 
 Gabarito: Letra B
 
-Item. 68. (FGV-ALERO - 2018) No contexto dos elementos introduzidos pelo HTML 5,
+68. (FGV-ALERO - 2018) No contexto dos elementos introduzidos pelo HTML 5,
 analise as afirmativas a seguir.
 
 I. Os elementos "header", "section" e "footer" são elementos block-level.
@@ -7762,13 +7428,11 @@ profundidade de 8 bpp pode representar até 256 cores diferentes, enquanto uma
 tela
 com profundidade de 24 bpp pode representar até 16 milhões de cores diferentes.
 
-
 /
-
 
 Gabarito: Letra A
 
-Item. 69. (FGV-ALERO - 2018) Assinale a opção que melhor descreve a utilização da tag
+69. (FGV-ALERO - 2018) Assinale a opção que melhor descreve a utilização da tag
 canvas no HTML5.
 
 a) Definir mídias de áudio e vídeo.
@@ -7791,7 +7455,7 @@ ou outras imagens visuais em tempo real.
 
 Gabarito: Letra B
 
-Item. 70. (FGV -MPE AL - 2018) Observe o código a seguir.
+70. (FGV -MPE AL - 2018) Observe o código a seguir.
 
 <button onmouseover="this.innerHTML=r ON* "
 omnouseout="this. innerHTML=l OFF1 ">Aqui</button>
@@ -7834,7 +7498,7 @@ ou para fora.
 
 Gabarito: Letra A
 
-Item. 71. (FGV -ALERO - 2018) Analise o código a seguir.
+71. (FGV -ALERO - 2018) Analise o código a seguir.
 
 dDoertPE html>
 
@@ -7876,7 +7540,6 @@ $(this) [OJ.innerText
 Sabe-se que com essa página exibida, o operador clicou no botão por três vezes.
 Assinale o valor exibido no botão após esses cliques.
 
-
 www. estra tegiaconcursos. com. br
 a) 0
 
@@ -7911,7 +7574,7 @@ o valor exibido no botão após esses cliques é 4.
 
 Gabarito: Letra E
 
-Item. 72. (FGV - BANESTES- 2018) HTML é uma linguagem utilizada para construção de
+72. (FGV - BANESTES- 2018) HTML é uma linguagem utilizada para construção de
 páginas na Internet. O comando de formatação da linguagem HTML para indicar que
 um determinado texto deve ser apresentado sublinhado é:
 
@@ -7931,9 +7594,7 @@ Vejamos o significado de cada tag: A tag <b> representa um trecho de texto que d
 ser renderizado em negrito. A tag <s> representa um trecho de texto que não é mais
 preciso ou relevante. Geralmente é usado para riscar o texto para indicar que ele foi
 
-
 /
-
 
 removido ou substituído. A tag <i> representa um trecho de texto que deve
 ser
@@ -7944,7 +7605,7 @@ tag
 
 Gabarito: Letra E
 
-Item. 73. (FGV -BANESTES - 2018) Ao desenvolver uma aplicação cliente
+73. (FGV -BANESTES - 2018) Ao desenvolver uma aplicação cliente
 Web, o
 programador precisa mostrar um aviso quando a página requisitada tem o acesso
 proibido.
@@ -7983,14 +7644,12 @@ GET, POST, etc.) ou não suporta o recurso solicitado.
 
 Gabarito: Letra B
 
-Item. 74. (FGV -IBGE - 2017) HTML5 (Hypertext Markup Language, versão 5) é uma
+74. (FGV -IBGE - 2017) HTML5 (Hypertext Markup Language, versão 5) é uma
 linguagem utilizada para estruturação e apresentação de conteúdo na Internet.
 
 Analise a página HTML5 a seguir:
 
-
 /
-
 
 <!DOCTYPE html>
 
@@ -8071,7 +7730,7 @@ Portanto, o elemento document.getElementBylD("result".innetHTML = "Você apertou
 
 Gabarito: Letra D
 
-Item. 75. (FGV -ALERJ - 2017) Analise a estrutura básica da página HTML a seguir:
+75. (FGV -ALERJ - 2017) Analise a estrutura básica da página HTML a seguir:
 
 <head>
 
@@ -8134,7 +7793,7 @@ dos links quando clicados são, respectivamente azul e verde.
 
 Gabarito: Letra D
 
-Item. 76. (FGV -MPE BA - 2017) A HTML é uma linguagem de marcação utilizada
+76. (FGV -MPE BA - 2017) A HTML é uma linguagem de marcação utilizada
 na
 construção de páginas na Web.
 
@@ -8164,14 +7823,12 @@ nosso gabarito é a letra c: _blank- Abre o documento em uma nova janela ou guia
 
 Gabarito: Letra C
 
-Item. 77. (FGV-IBGE-2017) O HTML 5 introduziu um método para permitir que o designer
+77. (FGV-IBGE-2017) O HTML 5 introduziu um método para permitir que o designer
 controle a área de visualização de um site através da tag <meta>. A sintaxe correta
 para que a largura de uma página siga a largura da tela de um dispositivo, com uma
 escala inicial de 1X no momento em que ela é carregada é:
 
-
 /
-
 
 a) <meta name="viewport" content="device, scale=1.0">;
 
@@ -8200,7 +7857,7 @@ será exibida em uma escala de 1:1 no dispositivo. É necessário saber a sintax
 
 Gabarito: Letra D
 
-Item. 78. (FGV - IBGE- 2016) A sigla HTML significa Hyper Text Markup Language, o que
+78. (FGV - IBGE- 2016) A sigla HTML significa Hyper Text Markup Language, o que
 pode ser traduzido como Linguagem de Marcação de Hipertexto. Uma linguagem de
 marcação pode ser definida como um sistema para:
 
@@ -8229,30 +7886,28 @@ estrutura lógica e hierárquica, para que os navegadores da web possam
 interpretar e
 exibir o conteúdo corretamente. Portanto, nosso gabarito é: Uma linguagem de marcação
 
-
 /
-
 
 pode ser definida como um sistema para marcar um documento indicando a sua estrutura
 lógica e hierárquica especificamente para a transmissão e exibição eletrônicas
 
 Gabarito: Letra A
 
-Item. 79. (FGV-IBGE - 2016) Um desenvolvedor Web mobile pretende utilizar os
+79. (FGV-IBGE - 2016) Um desenvolvedor Web mobile pretende utilizar os
 novos
 elementos semânticos disponíveis no HTML5 em suas páginas. Associe corretamente
 os elementos HTML5 enumerados com o posicionamento na ilustração que representa
 conceitualmente as partes de uma página HTML:
 
-Item. 1. <header>
+1. <header>
 
-Item. 2. <ÍOÕtEF>
+2. <ÍOÕtEF>
 
-Item. 4. <aside>
+4. <aside>
 
-Item. 5. <staion>
+5. <staion>
 
-Item. 6. <artkle>
+6. <artkle>
 
 A sequência correta é:
 
@@ -8283,9 +7938,7 @@ elemento representa uma seção da página que está relacionada ao conteúdo pr
 mas separada dele. Geralmente é usado para exibir barras laterais ou citações
 extraíveis,
 
-
 /
-
 
 este é o elemento E. 5) section: Este elemento representa uma seção genérica de um
 documento, como um capítulo, uma seção de um jornal ou uma seção de um site, este é
@@ -8298,7 +7951,7 @@ A=1, B=3, C=5, D=6, E=4 e F=2
 
 Gabarito: Letra A
 
-Item. 80. (FGV - IBGE- 2016) Com a introdução do HTML5, diversas novas APIs Javascript
+80. (FGV - IBGE- 2016) Com a introdução do HTML5, diversas novas APIs Javascript
 (Application Programming Interfaces) foram disponibilizadas,
 aumentando
 consideravelmente a quantidade de recursos disponíveis para a produção de páginas
@@ -8328,7 +7981,7 @@ Server-Sent Events (SSE).
 
 Gabarito: Letra D
 
-Item. 81. (FGV-IBGE-2016) A declaração <!DOCTYPE> permite ao navegador apresentar
+81. (FGV-IBGE-2016) A declaração <!DOCTYPE> permite ao navegador apresentar
 uma página web corretamente. A declaração correta para uma página em HTML5 é:
 
 a) <!DOCTYPE HTML PUBLIC " -//W3C//DTD HTML 5.0
@@ -8340,9 +7993,7 @@ b) <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 5.0 Transitional//EN
 
 c) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0">
 
-
 /
-
 
 d) <!DOCTYPE html>
 
@@ -8354,33 +8005,31 @@ A declaração <!DOCTYPE html> define que este documento é um documento HTML5.
 
 Gabarito: Letra D
 
-
 /
-
 
 Questões Cespe
 
 LISTAS QUESTõES
 
-Item. 1. (CESPE-TCE RJ-2022). Quanto ao desenvolvimento de sistemas web, julgue o item
+1. (CESPE-TCE RJ-2022). Quanto ao desenvolvimento de sistemas web, julgue o item
 seguinte.
 
 HTML5 é uma linguagem de programação que permite estruturar páginas web e
 executar comandos como loops de repetição, por exemplo.
 
-Item. 2. (CESPE -DP DF- 2022) Julgue o item seguinte, a respeito da formatação de dados.
+2. (CESPE -DP DF- 2022) Julgue o item seguinte, a respeito da formatação de dados.
 
 A tag <meta charset="UTF-8"> define o conjunto de caracteres usados na página,
 nesse caso, o UTF-8, que é o padrão para HTML5.
 
-Item. 3. (CESPE - PGE RJ - 2022) Julgue o item que se segue, relacionado a desenvolvimento
+3. (CESPE - PGE RJ - 2022) Julgue o item que se segue, relacionado a desenvolvimento
 de sistemas.
 
 No HTML 5, sessionStorage pode ser utilizado para armazenamento local de dados,
 tendo como característica o armazenamento de dados restritos à aba em
 funcionamento.
 
-Item. 4. (CESPE-APEX-2021) Em HTML5, considerando-se o contexto de geolocalização e
+4. (CESPE-APEX-2021) Em HTML5, considerando-se o contexto de geolocalização e
 acesso ao dispositivo, para se obter retorno mais rápido e de baixa precisão sobre a
 localização de um dispositivo, deve-se
 a) invocar um método para o objeto PositionOptions da API com o parâmetro "0".
@@ -8391,17 +8040,15 @@ c) testar a existência do objeto navigator.geolocation no dispositivo.
 
 d) chamar o método getCurrentPosition() da API de geolocalização.
 
-Item. 5. (CESPE-PGDF-2021) Acerca de linguagens de marcação utilizadas para formatação
+5. (CESPE-PGDF-2021) Acerca de linguagens de marcação utilizadas para formatação
 de dados, julgue o item a seguir.
 
 HTML e XML são equivalentes, pois ambas possuem uma semântica de apresentação
 predefinida.
 
-
 www. estra tegiaconcursos. com. br
 
-
-Item. 6. (CESPE - SEFAZ CE - 2021) Com relação à arquitetura de desenvolvimento de
+6. (CESPE - SEFAZ CE - 2021) Com relação à arquitetura de desenvolvimento de
 software, julgue o item a seguir.
 
 Um link de navegação compartilhado por diversas páginas é incluído no
@@ -8409,10 +8056,9 @@ elemento
 
 <main> de uma página HTML5.
 
-Item. 7. (CESPE - PGDF - 2021) Julgue o item a seguir, referente a linguagens de scripts.
+7. (CESPE - PGDF - 2021) Julgue o item a seguir, referente a linguagens de scripts.
 
 Considere o código seguinte, em HTML e JavaScript.
-
 
 <html>
 
@@ -8444,7 +8090,7 @@ Em um navegador Internet com JavaScript habilitado, esse código
 apresentará o
 resultado a seguir
 
-Item. 8. (CESPE - TJ PA - 2020) A respeito do tratamento off-line de um sítio no HTML
+8. (CESPE - TJ PA - 2020) A respeito do tratamento off-line de um sítio no HTML
 5,
 assinale a opção correta.
 
@@ -8456,7 +8102,6 @@ que o navegador deve copiar para que estejam disponíveis para uso off-line.
 
 c) É necessário que os arquivos PHP estejam listados na sessão cache.
 
-
 www. estra tegiaconcursos. com. br
 d) Na sessão network do arquivo manifesto, devem estar relacionados os arquivos que
 precisam ser substituídos por outros no retorno da conexão.
@@ -8464,19 +8109,19 @@ precisam ser substituídos por outros no retorno da conexão.
 e) Na sessão fallback do arquivo manifesto, devem estar relacionados os arquivos que
 não são utilizados para o processamento off-line.
 
-Item. 9. (CESPE - MPE CE - 2020) Acerca de JSON e HTML 5, julgue o item subsecutivo.
+9. (CESPE - MPE CE - 2020) Acerca de JSON e HTML 5, julgue o item subsecutivo.
 
 No HTML 5, localStorage é um recurso de armazenamento local que usa objetos
 JavaScript e que permite manter dados sem data de expiração prévia.
 
-Item. 10. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
+10. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
 item a seguir:
 
 No HTML 5, os novos campos para formulários, como email, search e range, e os
 atributos, como placeholder, pattern e required, reduzem a necessidade de utilização
 de plugins para auxiliar a formatação dos elementos.
 
-Item. 11. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
+11. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
 item a seguir:
 
 No HTML 5, as tags de link e script usadas para referenciar arquivos de
@@ -8484,17 +8129,15 @@ CSS e
 JavaScript não precisam informar o atributo type, porque, na sua ausência, o
 navegador assume que o arquivo é do tipo text/css ou text/javascript.
 
-Item. 12. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
+12. (CESPE - ProTI ME - 2020) Acerca de desenvolvimento de sistemas web, julgue o
 item a seguir.
 
 A instrução DOCTYPE do HTML 5 é mais simples que a das versões anteriores HTML
 4 ou XHTML 1.
 
-Item. 13. (CESPE - TJ PA - 2020)
-
+13. (CESPE - TJ PA - 2020)
 
 /
-
 
 ClDOCTYPE hcml>
 
@@ -8527,7 +8170,7 @@ c) [object Object][object Object][object Object]
 d) Caca+52+null
 e) nome+ldade+carro.
 
-Item. 14. (CESPE - TJ PA - 2020) Na linguagem HTML 5, geralmente considera-se
+14. (CESPE - TJ PA - 2020) Na linguagem HTML 5, geralmente considera-se
 determinado elemento como o ponto central do conteúdo do documento, o qual
 pode ser, por exemplo, um post.
 
@@ -8543,13 +8186,12 @@ d) article.
 
 e) figure.
 
-Item. 15. (CESPE-SLU DF-2019) Com relação a desenvolvimento de software, julgue o item
+15. (CESPE-SLU DF-2019) Com relação a desenvolvimento de software, julgue o item
 a seguir.
 
 De acordo com o trecho de código a seguir, escrito em HTML5, novos valores de date
 e time são válidos como atributos de elementos de formulário, e apenas o campo data
 é de preenchimento obrigatório.
-
 
 www. estra tegiaconcursos. com. br
 ílDOCTYPE html>
@@ -8580,7 +8222,7 @@ cinput id="data,r type=date required name=data/>
 
 </body>
 
-Item. 16. (CESPE - MPC TCE-PA - 2019) O HTML (hypertext markup language) tem amplo
+16. (CESPE - MPC TCE-PA - 2019) O HTML (hypertext markup language) tem amplo
 uso difundido nas páginas publicadas na Internet. Assinale a opção que corresponde
 à tag utilizada no caso em que seja necessário utilizar uma lista não ordenada.
 
@@ -8594,14 +8236,14 @@ d) <ul>
 
 e) <th>
 
-Item. 17. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
+17. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
 5, do JavaScript, do XML e do CSS, julgue o item subsequente.
 
 O HTML 5 define como os navegadores web devem lidar com marcações antigas como
 
 <font>, <center> e outras tags de apresentação.
 
-Item. 18. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
+18. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
 5, do JavaScript, do XML e do CSS, julgue o item subsequente.
 
 O HTML 5 especifica novas API (application program interface) para o modelo
@@ -8609,17 +8251,15 @@ de
 objeto de documento (DOM — document object model) referente a arrastar e soltar
 eventos enviados pelo servidor, como desenhos, vídeos e similares.
 
-Item. 19. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
+19. (CESPE-TJ AM -2019) Acerca do desenvolvimento web mediante o uso do HTML
 5, do JavaScript, do XML e do CSS, julgue o item subsequente.
 
-
 www. estra tegiaconcursos. com. br
-
 
 A XHTML 5 é uma serialização XML que tem as mesmas características e sintaxes do
 HTML5.
 
-Item. 20. (CESPE - MPE PI - 2018) Julgue o próximo item, relativo a lógica de programação
+20. (CESPE - MPE PI - 2018) Julgue o próximo item, relativo a lógica de programação
 e linguagens de programação.
 
 <html>
@@ -8649,19 +8289,19 @@ resultado:
 JavaScript
 Blue,Red,White
 
-Item. 21. (CESPE - TJ STJ - 2018) Julgue o item seguinte, a respeito de
+21. (CESPE - TJ STJ - 2018) Julgue o item seguinte, a respeito de
 Maven,
 desenvolvimento web, servidor web, servidor de aplicação e criptografia.
 
 No HTML5, o atributo autofocos possibilita que qualquer elemento <input> seja
 automaticamente focado quando do carregamento da página.
 
-Item. 22. (CESPE - STM - 2018) Julgue o item subsequente, a respeito de programação web.
+22. (CESPE - STM - 2018) Julgue o item subsequente, a respeito de programação web.
 
 Em HTML5, a tag <output> fornece uma indicação ao usuário do que pode ser inserido
 no campo.
 
-Item. 23. (CESPE - TRE BA - 2017) Entre os novos elementos do HTML5, o elemento:
+23. (CESPE - TRE BA - 2017) Entre os novos elementos do HTML5, o elemento:
 
 a) <mark> é o ponto de parada do cursor em qualquer parte da página HTML.
 
@@ -8671,44 +8311,43 @@ c) <meter> interpreta medições meteorológicas.
 
 d) <figcaption> captura figuras.
 
-
 www. estra tegiaconcursos. com. br
 e) <main> define a estrutura principal da linguagem C dentro da página HTML
 
-Item. 24. (CESPE - TCE-PA - 2016) Acerca dos conceitos e das técnicas
+24. (CESPE - TCE-PA - 2016) Acerca dos conceitos e das técnicas
 necessários à
 construção de sítios web em que se utilizam CSS e HTML, julgue o item que se segue.
 
 HTML é uma linguagem de programação utilizada na construção de páginas na Web.
 
-Item. 25. (CESPE -TCE-PA - 2016) Julgue o item que se segue,
+25. (CESPE -TCE-PA - 2016) Julgue o item que se segue,
 relativamente a
 desenvolvimento de sistemas web.
 
 Após a incorporação do jQuery ao HTML5, o desenvolvimento de funcionalidades por
 meio dessa biblioteca JavaScript ficou limitado a aplicações para dispositivos móveis.
 
-Item. 26. (CESPE -TCE-PA - 2016) Julgue o item que se segue,
+26. (CESPE -TCE-PA - 2016) Julgue o item que se segue,
 relativamente a
 desenvolvimento de sistemas web.
 
 O elemento <canvas> do HTML5 especifica uma forma padrão para inserir um vídeo
 em uma página da Web.
 
-Item. 27. (CESPE - FUNPRESP-EXE - 2016) Acerca da tecnologia Java, julgue o próximo
+27. (CESPE - FUNPRESP-EXE - 2016) Acerca da tecnologia Java, julgue o próximo
 item.
 
 Em HTML5, o atributo title da tag <img> pode ser usado para se adicionar um texto
 fixo a ser sempre apresentado imediatamente acima de uma imagem.
 
-Item. 28. (CESPE - FUNPRESP-JUD - 2016) A respeito das tecnologias relacionadas
+28. (CESPE - FUNPRESP-JUD - 2016) A respeito das tecnologias relacionadas
 ao
 desenvolvimento web em Java, julgue o item a seguir.
 
 No HTML 5, a tag <rp> é usada para informar o que deve ser exibido nos browsers
 que não suportam anotações ruby.
 
-Item. 29. (CESPE - TRT 8 - 2016) Assinale a opção que apresenta a tag
+29. (CESPE - TRT 8 - 2016) Assinale a opção que apresenta a tag
 incluída na
 especificação do HTML5 que permite a reprodução de arquivos que contenham som
 ou música.
@@ -8719,15 +8358,13 @@ b) <img>
 
 c) <sound>
 
-
 /
-
 
 d) <music>
 
 e) <audio>.
 
-Item. 30. (CESPE - TRE PI - 2016) A respeito de páginas web desenvolvidas utilizando-se
+30. (CESPE - TRE PI - 2016) A respeito de páginas web desenvolvidas utilizando-se
 HTML 5, assinale a opção correta.
 
 a) Para a visualização de vídeos incluídos na página web, é necessária a presença de
@@ -8745,14 +8382,14 @@ sendo construída.
 e) O elemento <header> é usado exclusivamente no início de uma página para
 determinar o seu cabeçalho.
 
-Item. 31. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
+31. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
 formulários eletrônicos.
 
 O elemento labei funciona como um indicador de caminho a seguir. Muitos browsers
 renderizam o conteúdo daquela tag como uma área clicável a fim de levar o foco para
 o campo relacionado.
 
-Item. 32. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
+32. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
 formulários eletrônicos.
 
 É vedada a utilização de FIELDSET para agrupar qualquer variedade de elementos
@@ -8769,26 +8406,23 @@ como a questão está dizendo o oposto, nosso gabarito é: Errado.
 Gabarito: Errado
 www. estra tegiaconcursos. com. br
 
-
-Item. 33. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
+33. (CESPE - TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
 formulários eletrônicos.
 
 A tag <label> pode ser aplicada a todos os elementos de formulário, até mesmo a
 elementos button.
 
-Item. 34. (CESPE -TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
+34. (CESPE -TCE-PA - 2016) Julgue o item seguinte no que se refere à construção de
 formulários eletrônicos.
 
 É possível agrupar inputs de um formulário e, ainda, as opções de uma tag <select>
 usando-se a tag <fieldset>.
 
-
 /
-
 
 Questões FCC
 
-Item. 35. (FCC - PGE AM - 2022) No cabeçalho de uma página HTML deseja-se indicar ao
+35. (FCC - PGE AM - 2022) No cabeçalho de uma página HTML deseja-se indicar ao
 navegador o conjunto de caracteres recomendado pela linguagem HTML5, que
 abrange a maioria dos caracteres e símbolos utilizados na maior parte dos idiomas,
 inclusive acentos existentes no Português. Para isso deve-se utilizar a instrução
@@ -8802,7 +8436,7 @@ d) <meta charset="ASC-ll">
 
 e) cmeta charset="PT-BR">
 
-Item. 36. (FCC - TRT 23 - 2022) Para criar sites responsivos usando HTML5 é
+36. (FCC - TRT 23 - 2022) Para criar sites responsivos usando HTML5 é
 aconselhável
 fornecer ao navegador instruções sobre como controlar as dimensões e a escala da
 página por meio da definição da viewport da página, utilizando o comando
@@ -8815,7 +8449,7 @@ d) cmeta type= "viewport" initial-scale=" 100%" max-width=" 100%" />
 
 e) cmeta type= "viewport" screen="width=100%, initial-scale=1.0">
 
-Item. 37. (FCC - TRT22 - 2022) Uma Analista deseja escrever no rodapé da página web
+37. (FCC - TRT22 - 2022) Uma Analista deseja escrever no rodapé da página web
 HTML5 "Copyright ©", sem aspas, indicando que a página possui direitos autorais.
 
 Uma das maneiras corretas de fazer isso é por meio da instrução
@@ -8829,14 +8463,12 @@ d) cp>Copyright &copyright;c/p>e) cp>Copyright &cpsymbol;c/
 
 e) cp>Copyright &cpsymbol;c/p>
 
-Item. 38. (FCC - TJ SC - 2021) Em uma situação hipotética, um profissional de TI
+38. (FCC - TJ SC - 2021) Em uma situação hipotética, um profissional de TI
 deseja
 inserir um vídeo institucional do Tribunal de Justiça de Santa Catarina que está no
 Youtube, no site do Tribunal.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Para isso, obteve o código personalizado abaixo no site do Youtube.
 
@@ -8852,7 +8484,7 @@ c) media
 d) frame
 e) iframe
 
-Item. 39. (FCC-TJ MA-2019) Um Analista que está desenvolvendo a página de
+39. (FCC-TJ MA-2019) Um Analista que está desenvolvendo a página de
 abertura
 de um site deseja fazer com que as páginas HTML referentes aos links do menu sejam
 direcionadas e exibidas em um contêiner criado pela tag section no interior
@@ -8866,7 +8498,7 @@ c) dialog
 d) iframe
 e) article
 
-Item. 40. (FCC - AFAP - 2019) Em uma página HTML 5 de abertura de um site, um Analista
+40. (FCC - AFAP - 2019) Em uma página HTML 5 de abertura de um site, um Analista
 de Informática deseja definir uma área no centro onde outras páginas HTML poderão
 ser carregadas a partir de cliques nos links do menu principal. Ao abrir a página de
 abertura, um arquivo HTML já poderá ser exibido nessa área, cujo conteúdo poderá
@@ -8882,11 +8514,9 @@ d) main.
 
 e) core.
 
-
 /
 
-
-Item. 41. (FCC - Pref Manaus - 2019) E m um parágrafo de uma página web desenvolvida
+41. (FCC - Pref Manaus - 2019) E m um parágrafo de uma página web desenvolvida
 com HTML5, um programador está usando palavras longas e está com medo do
 navegador quebrar as palavras ou linhas em locais incorretos. Para indicar os locais
 desejados para possíveis quebras de linha, quando a largura da janela do navegador
@@ -8901,7 +8531,7 @@ d) <wbr>.
 
 e) <br/>.
 
-Item. 42. (FCC -TRF 4 - 2019) HTML5 incluiu um conjunto de tags semânticas para
+42. (FCC -TRF 4 - 2019) HTML5 incluiu um conjunto de tags semânticas para
 substituir
 algumas construções que eram feitas com HTML4. Por exemplo, as instruções <div
 id="header"> </div> e <div id="menu"x/div> feitas em HTML4, são feitas
@@ -8918,7 +8548,7 @@ d) <headerx/header> e <navigationx/navigation>
 
 e) <headerx/header> e <menuareax/menuarea>
 
-Item. 43. (FCC - TJ MA - 2019) Um Técnico Judiciário que utiliza HTML5 está criando um
+43. (FCC - TJ MA - 2019) Um Técnico Judiciário que utiliza HTML5 está criando um
 parágrafo em uma página web que tem muitas palavras longas e, para evitar que o
 navegador quebre linha no lugar errado, utilizou uma tag para especificar onde, em
 um parágrafo, será aceitável uma quebra de linha. A tag correta para isso é:
@@ -8933,12 +8563,10 @@ d) <rt>
 
 e) <br>
 
-Item. 44. (FCC - TRF 3 - 2019) Considere o fragmento abaixo de uma página HTML5 que
+44. (FCC - TRF 3 - 2019) Considere o fragmento abaixo de uma página HTML5 que
 utiliza elementos semânticos.
 
-
 /
-
 
 <figure>
 
@@ -8959,7 +8587,7 @@ d) <figlabel>Figura 1 - Foto das dependências do TRF3</figlabel>
 
 e) <figcaption>Figura 1 - Foto das dependências do TRF3.</figcaption>
 
-Item. 45. (FCC -Pref Manaus - 2019) Um programador precisa utilizar uma tag semântica
+45. (FCC -Pref Manaus - 2019) Um programador precisa utilizar uma tag semântica
 incorporada a versão 5 da linguagem HTML, cujo objetivo é definir algum conteúdo
 adicional colocado normalmente à direita, mas relacionado com um conteúdo que o
 circunda colocado normalmente à esquerda. Deverá escolher, nesse caso, a tag:
@@ -8974,7 +8602,7 @@ d) <figcaption>
 
 e) <summary>
 
-Item. 46. (FCC - TRF 3 - 2019) Um programador está criando o menu principal da página
+46. (FCC - TRF 3 - 2019) Um programador está criando o menu principal da página
 de
 abertura de um site, que conterá o bloco principal de links de
 navegação.
@@ -8990,7 +8618,7 @@ d) <nav>
 
 e) <navigation>
 
-Item. 47. (FCC - SANASA - 2019) Um Desenvolvedor de software precisa inserir
+47. (FCC - SANASA - 2019) Um Desenvolvedor de software precisa inserir
 uma
 instrução no cabeçalho de uma página HTML que fará referência a um arquivo
 chamado aOOI.css a ser aplicado apenas quando a página for aberta em dispositivos
@@ -9006,7 +8634,7 @@ d) <inport file="a001 .css" media="screen and (max-width: 600px)">
 
 e) <style>@media only screen and (min-width: óOOpx) URL(a001 .css) <style>.
 
-Item. 48. (FCC - SABESP - 2018) Um Técnico está desenvolvendo uma página web com
+48. (FCC - SABESP - 2018) Um Técnico está desenvolvendo uma página web com
 HTML5 e deseja exibir um texto com fonte Courier de largura fixa, preservando os
 espaços e as quebras de linha.
 
@@ -9021,7 +8649,7 @@ d) <code> e </code>
 
 e) <pre> e </pre>.
 
-Item. 49. (FCC-DPE AM - 2018) Um Técnico Programador deseja fazer um glossário
+49. (FCC-DPE AM - 2018) Um Técnico Programador deseja fazer um glossário
 de
 termos em um site utilizando listas de definições do HTML5. Nestas listas, o termo a
 ser descrito e a descrição propriamente dita são criados, respectivamente, pelas tags
@@ -9035,7 +8663,7 @@ d) <tt> e <dd>
 
 e) <dd> e <dt>
 
-Item. 50. (FCC - TST - 2017) Considere, hipoteticamente, que um Programador deseja
+50. (FCC - TST - 2017) Considere, hipoteticamente, que um Programador deseja
 publicar um vídeo institucional no site do Tribunal Superior do Trabalho. Para isso, no
 local da página HTML5 onde deseja colocar o vídeo, utilizou o bloco de código abaixo.
 
@@ -9056,7 +8684,7 @@ d) wmv, rmvb e mp4
 
 e) mp4, avi e mov.
 
-Item. 51. (FCC - TRF 5 - 2017) Uma das recomendações que consta nas Web
+51. (FCC - TRF 5 - 2017) Uma das recomendações que consta nas Web
 Content
 Accessibility Guidelines - WCAG é fornecer legendas e outras alternativas para
 conteúdo multimídia.
@@ -9085,7 +8713,7 @@ d) <caption href="legenda_br.vtt" kind= "subtitles" srclang="pt" label = "Portug
 
 e) <track src="legenda_br.vtt" kind= "subtitles" srclang="pt" label="Português">
 
-Item. 52. (FCC -TRT 24 - 2017) Preocupado com a acessibilidade de um site que está
+52. (FCC -TRT 24 - 2017) Preocupado com a acessibilidade de um site que está
 sendo
 desenvolvido para o Tribunal Regional do Trabalho da 24a Região, um Técnico
 recomendou o uso de recursos da linguagem HTML, versão 5, para identificar o idioma
@@ -9101,11 +8729,9 @@ d) a propriedade language na tag <meta>.
 
 e) a tag <lang> no interior da tag <head>
 
-
 www. estra tegiaconcursos. com. br
 
-
-Item. 53. (FCC - ALMS - 2016) A viewport é a área visível do usuário de uma página
+53. (FCC - ALMS - 2016) A viewport é a área visível do usuário de uma página
 web e
 pode variar de acordo com o dispositivo. HTML5 introduziu um método para deixar
 os web designers terem controle sobre a viewport através da tag
@@ -9119,7 +8745,7 @@ d) <page>
 
 e) <scale>
 
-Item. 54. (FCC - ELETROSUL - 2016) A uma página HTML5 deseja-se vincular um arquivo
+54. (FCC - ELETROSUL - 2016) A uma página HTML5 deseja-se vincular um arquivo
 chamado arql.css e um arquivo chamado arq2.js.
 
 Para isso devem-se utilizar as instruções
@@ -9141,7 +8767,7 @@ e) <link rel= "stylesheet" type="text/css" href="arq1 ,css"> e <script src="arq2
 
 </script> no cabeçalho da página.
 
-Item. 55. (FCC - ALMS - 2016) Considere o fragmento de código HTML5 a seguir.
+55. (FCC - ALMS - 2016) Considere o fragmento de código HTML5 a seguir.
 
 <body>
 
@@ -9163,11 +8789,10 @@ c) <source src="beethoven.mp3" type="audio/mpeg">
 
 d) <sound source="beethoven.mp3" media="audio/mp3">
 
-
 www. estra tegiaconcursos. com. br
 e) <source src="beethoven.mp3" media = "sound/mpeg" play="on">
 
-Item. 56. (FCC - SEMF Teresina - 2016) E m uma página HTML há um parágrafo vazio criado
+56. (FCC - SEMF Teresina - 2016) E m uma página HTML há um parágrafo vazio criado
 pela tag <p id="local"x/p>. Em um bloco JavaScript da mesma página, para
 inserir
 neste parágrafo a palavra Teresina, utiliza-se o comando
@@ -9181,7 +8806,7 @@ d) document.demo.value = "Teresina";
 
 e) document.getElementByName("local").innerHTML = "Teresina";
 
-Item. 57. (FCC-TRT 23-2016) De acordo com as recomendações da W3C para a linguagem
+57. (FCC-TRT 23-2016) De acordo com as recomendações da W3C para a linguagem
 HTML5, a instrução
 a) <meta charset= "utf-8" /> está incorreta, pois tem uma barra no final.
 
@@ -9195,7 +8820,7 @@ e) <script src="myscript.js"> está incorreta, pois faltou o
 atributo
 language="javascript"
 
-Item. 58. (FCC-TRF3 - 2016) Em um site que utiliza HTML5 Application Cache há um arquivo
+58. (FCC-TRF3 - 2016) Em um site que utiliza HTML5 Application Cache há um arquivo
 chamado dados.appcache que define que uma página poderá ter o conteúdo
 acessado mesmo estando offline. Nessa página, para apontar para esse arquivo deve-
 se utilizar a instrução
@@ -9209,13 +8834,11 @@ d) <cache src= "dados.inf">
 
 e) <!MANIFEST cache="demo.appcache">
 
-
 /
-
 
 Questões FCV
 
-Item. 59. (FGV -TJ TO- 2022) No HTML5, o evento que é disparado quando um objeto é
+59. (FGV -TJ TO- 2022) No HTML5, o evento que é disparado quando um objeto é
 carregado é:
 
 a) begin;
@@ -9228,7 +8851,7 @@ d) run;
 
 e) start.
 
-Item. 60. (FGV -MPE SC- 2022) Sobre elementos block-level (nível de bloco) e elementos
+60. (FGV -MPE SC- 2022) Sobre elementos block-level (nível de bloco) e elementos
 inline (em linha) no HTML, analise as afirmativas a seguir.
 
 I. Um elemento block-level sempre começa numa nova linha.
@@ -9249,7 +8872,7 @@ d) I e III;
 
 e) II e III..
 
-Item. 61. (FGV-MPE GO - 2022) Num documento HTML5, assinale o elemento que contém
+61. (FGV-MPE GO - 2022) Num documento HTML5, assinale o elemento que contém
 meta informações sobre a página.
 
 a) <!DOCTYPE html>
@@ -9261,11 +8884,9 @@ d) <html>
 
 e) <script>.
 
-Item. 62. (FGV -TJ TO- 2022) Observe o código HTML e JavaScript a seguir:
-
+62. (FGV -TJ TO- 2022) Observe o código HTML e JavaScript a seguir:
 
 www. estra tegiaconcursos. com. br
-
 
 <!DOCTYPE html>
 
@@ -9299,7 +8920,7 @@ c) 2022.1
 d) Tejota
 e) tjProcesso
 
-Item. 63. (FGV -Sefaz AM - 2022) A linguagem de marcação HTML é amplamente utilizada
+63. (FGV -Sefaz AM - 2022) A linguagem de marcação HTML é amplamente utilizada
 na construção de páginas da Internet.
 
 O elemento HTML, que permite reproduzir um arquivo de vídeo no formato MP4 em
@@ -9314,8 +8935,7 @@ d) <movie>
 
 e) <video>.
 
-Item. 64. (FGV-IMBEL-2021) Analise a imagem a seguir, produzida numa página Web.
-
+64. (FGV-IMBEL-2021) Analise a imagem a seguir, produzida numa página Web.
 
 www. estra tegiaconcursos. com. br
 lilJLJ
@@ -9372,7 +8992,7 @@ e) <trxtd>A</tdxtd>C</tdx/tr>
 
 </tablex/thx/tr>.
 
-Item. 65. (FGV-TJ RO-2021) No contexto do HTML, a sintaxe correta para um comentário,
+65. (FGV-TJ RO-2021) No contexto do HTML, a sintaxe correta para um comentário,
 delimitando um trecho que NÃO deve ser exibido pelo browser, é:
 
 a) <— Texto do comentário —>
@@ -9385,11 +9005,9 @@ d) <!—Texto do comentário —>
 
 e) <—Texto do comentário —/>.
 
-
 www. estra tegiaconcursos. com. br
 
-
-Item. 66. (FGV- IMBEL- 2021) Analise o trecho HTML a seguir.
+66. (FGV- IMBEL- 2021) Analise o trecho HTML a seguir.
 
 <table>
 
@@ -9410,7 +9028,7 @@ d) com uma linha e uma coluna.
 
 e) com linhas e colunas desalinhadas.
 
-Item. 67. (FGV -MPE AL - 2018) O HTML 5 introduziu diversos elementos semânticos,
+67. (FGV -MPE AL - 2018) O HTML 5 introduziu diversos elementos semânticos,
 gráficos e de multimídia.
 
 Assinale o elemento que não é uma novidade nessa versão.
@@ -9425,7 +9043,7 @@ d) <header>
 
 e) <section>.
 
-Item. 68. (FGV-ALERO - 2018) No contexto dos elementos introduzidos pelo HTML 5,
+68. (FGV-ALERO - 2018) No contexto dos elementos introduzidos pelo HTML 5,
 analise as afirmativas a seguir.
 
 I. Os elementos "header", "section" e "footer" são elementos block-level.
@@ -9448,7 +9066,7 @@ d) I e II, somente.
 
 e) II e III, somente..
 
-Item. 69. (FGV -ALERO - 2018) Assinale a opção que melhor descreve a utilização da tag
+69. (FGV -ALERO - 2018) Assinale a opção que melhor descreve a utilização da tag
 canvas no HTML5.
 
 a) Definir mídias de áudio e vídeo.
@@ -9461,7 +9079,7 @@ d) Dividir a tela em áreas verticais de altura variável, que funcionam como pa
 
 e) Desenhar a entrada de dados e as caixas de diálogo..
 
-Item. 70. (FGV -MPE AL - 2018) Observe o código a seguir.
+70. (FGV -MPE AL - 2018) Observe o código a seguir.
 
 <button onmouseove r="this.innerHTML=r ON'"
 omnouseout="tliis. innerHTML=l OFF1 ">Aqni</button>
@@ -9485,12 +9103,11 @@ d) "Abrir" inicialmente, "on" quando o cursor do mouse entra na área do botão,
 "Abrir" quando o cursor do mouse sai da área do botão, assim mudando a cada
 movimentação para dentro ou para fora.
 
-
 e) "Abrir" inicialmente, "on" quando o cursor do mouse entra na área do botão, e
 "off" quando o cursor do mouse sai da área do botão pela primeira vez. Nas demais
 saídas, mudar para "Abrir".
 
-Item. 71. (FGV -ALERO - 2018) Analise o código a seguir.
+71. (FGV -ALERO - 2018) Analise o código a seguir.
 
 <!DOCT¥PE html>
 
@@ -9541,10 +9158,9 @@ d) 1234
 
 e) 4.
 
-Item. 72. (FGV - BANESTES- 2018) HTML é uma linguagem utilizada para construção de
+72. (FGV - BANESTES- 2018) HTML é uma linguagem utilizada para construção de
 páginas na Internet. O comando de formatação da linguagem HTML para indicar que
 um determinado texto deve ser apresentado sublinhado é:
-
 
 www. estra tegiaconcursos. com. br
 a) <bx/b>
@@ -9557,7 +9173,7 @@ d) <px/p>
 
 e) <ux/u>.
 
-Item. 73. (FGV -BANESTES - 2018) Ao desenvolver uma aplicação cliente
+73. (FGV -BANESTES - 2018) Ao desenvolver uma aplicação cliente
 Web, o
 programador precisa mostrar um aviso quando a página requisitada tem o acesso
 proibido.
@@ -9574,7 +9190,7 @@ d) 500;
 
 e) 501.
 
-Item. 74. (FGV -IBGE - 2017) HTML5 (Hypertext Markup Language, versão 5) é uma
+74. (FGV -IBGE - 2017) HTML5 (Hypertext Markup Language, versão 5) é uma
 linguagem utilizada para estruturação e apresentação de conteúdo na Internet.
 
 Analise a página HTML5 a seguir:
@@ -9613,9 +9229,7 @@ Aperte aqui!</button></p>
 
 </bodyx/html>
 
-
 www. estra tegiaconcursos. com. br
-
 
 Considere que você está utilizando um navegador web que suporta HTML5 Local
 Storage e ao acessar essa página pela primeira vez você apertou três vezes o botão
@@ -9637,7 +9251,7 @@ d) Você apertou 52 vezes.
 
 e) Você apertou 55 vezes.
 
-Item. 75. (FGV-ALERJ - 2017) Analise a estrutura básica da página HTML a seguir:
+75. (FGV-ALERJ - 2017) Analise a estrutura básica da página HTML a seguir:
 
 <html>
 
@@ -9673,11 +9287,10 @@ c) vermelha e verde;
 
 d) azul e verde;
 
-
 www. estra tegiaconcursos. com. br
 e) preta e amarela.
 
-Item. 76. (FGV -MPE BA - 2017) A HTML é uma linguagem de marcação utilizada na
+76. (FGV -MPE BA - 2017) A HTML é uma linguagem de marcação utilizada na
 construção de páginas na Web.
 
 O comando de formatação da linguagem para definir um hyperlink indicando que o
@@ -9693,7 +9306,7 @@ d) <a href = "uri" target ="_parent">meu link</a>
 
 e) <a href = "uri" target ="_self">meu link</a>.
 
-Item. 77. (FGV-IBGE - 2017) O HTML 5 introduziu um método para permitir que o designer
+77. (FGV-IBGE - 2017) O HTML 5 introduziu um método para permitir que o designer
 controle a área de visualização de um site através da tag <meta>. A sintaxe correta
 para que a largura de uma página siga a largura da tela de um dispositivo, com uma
 escala inicial de 1X no momento em que ela é carregada é:
@@ -9708,7 +9321,7 @@ d) <meta name= "viewport" content="width=device-width, initial-scale=1.0">;
 
 e) <meta type= "viewport" content= "width=device-width" scale="initial-scale-1 ">.
 
-Item. 78. (FGV-IBGE-2016) A sigla HTML significa Hyper Text Markup Language, o
+78. (FGV-IBGE-2016) A sigla HTML significa Hyper Text Markup Language, o
 que
 pode ser traduzido como Linguagem de Marcação de Hipertexto. Uma linguagem de
 marcação pode ser definida como um sistema para:
@@ -9724,7 +9337,6 @@ documento, incluindo tipografia, cor e tamanho dos caracteres;
 c) marcar um documento indicando a ordem em que o conteúdo deve ser apresentado
 em meio eletrônico;
 
-
 www. estra tegiaconcursos. com. br
 d) definir as ligações entre diferentes documentos a partir de
 palavras-chave
@@ -9732,21 +9344,21 @@ específicas;
 
 e) criar documentos específicos para transmissão eletrônica através da Internet.
 
-Item. 79. (FGV-IBGE - 2016) Um desenvolvedor Web mobile pretende utilizar os
+79. (FGV-IBGE - 2016) Um desenvolvedor Web mobile pretende utilizar os
 novos
 elementos semânticos disponíveis no HTML5 em suas páginas. Associe corretamente
 os elementos HTML5 enumerados com o posicionamento na ilustração que representa
 conceitualmente as partes de uma página HTML:
 
-Item. 1. <header>
+1. <header>
 
-Item. 2. <ÍOÕtEF>
+2. <ÍOÕtEF>
 
-Item. 4. <aside>
+4. <aside>
 
-Item. 5. <staion>
+5. <staion>
 
-Item. 6. <article>
+6. <article>
 
 A sequência correta é:
 
@@ -9760,7 +9372,7 @@ d) A=2, B=3, C=6, D=4, E=5 e F=3;
 
 e) A=1, B=6, C=4, D=3, E=5 e F=2.
 
-Item. 80. (FGV - IBGE- 2016) Com a introdução do HTML5, diversas novas APIs Javascript
+80. (FGV - IBGE- 2016) Com a introdução do HTML5, diversas novas APIs Javascript
 (Application Programming Interfaces) foram disponibilizadas,
 aumentando
 consideravelmente a quantidade de recursos disponíveis para a produção de páginas
@@ -9773,16 +9385,14 @@ b) armazenamento em nuvem, suporte a telas de toque e SSL (Secure Sockets Layer)
 c) acesso a câmeras em dispositivos móveis, suporte a streaming de vídeo e SSE
 (Streaming SIMD Extensions);
 
-
 /
-
 
 d) armazenamento local, geolocalização e SSE (Server-Sent Events);
 
 e) redimensionamento dinâmico de imagens, detecção de resolução de tela e RWD
 (Responsive Web Display)
 
-Item. 81. (FGV -IBGE - 2016) A declaração <!DOCTYPE> permite ao navegador apresentar
+81. (FGV -IBGE - 2016) A declaração <!DOCTYPE> permite ao navegador apresentar
 uma página web corretamente. A declaração correta para uma página em HTML5 é:
 
 a) <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 5.0 Strict//EN"
@@ -9797,176 +9407,172 @@ d) cIDOCTYPE html>
 
 e) <!DOCTYPE XML PUBLIC "-//W3C//DTD HTML 5.0">
 
-
 /
-
 
 GABARITo
 í. Errado
 
-Item. 2. Correto
+2. Correto
 
-Item. 3. Errado
+3. Errado
 
-Item. 4. Letra D
+4. Letra D
 
-Item. 5. Errado
+5. Errado
 
-Item. 6. Errado
+6. Errado
 
-Item. 7. Correto
+7. Correto
 
-Item. 8. Letra B
+8. Letra B
 
-Item. 9. Correto
+9. Correto
 
-Item. 10. Correto
+10. Correto
 
-Item. 11. Correto
+11. Correto
 
-Item. 12. Correto
+12. Correto
 
-Item. 13. Letra B
+13. Letra B
 
-Item. 14. Letra D
+14. Letra D
 
-Item. 15. Correto
+15. Correto
 
-Item. 16. Letra D
+16. Letra D
 
-Item. 17. Correto
+17. Correto
 
-Item. 18. Correto
+18. Correto
 
-Item. 19. Errado
+19. Errado
 
-Item. 20. Correto
+20. Correto
 
-Item. 21. Errado
+21. Errado
 
-Item. 22. Errado
+22. Errado
 
-Item. 23. Letra B
+23. Letra B
 
-Item. 24. Errado
+24. Errado
 
-Item. 25. Errado
+25. Errado
 
-Item. 26. Errado
+26. Errado
 
-Item. 27. Errado
+27. Errado
 
-Item. 28. Correto
+28. Correto
 
-Item. 29. Letra E
+29. Letra E
 
-Item. 30. Letra D
+30. Letra D
 
-Item. 31. Correto
+31. Correto
 
-Item. 32. Errado
+32. Errado
 
-Item. 33. Errado
+33. Errado
 
-Item. 34. Correto
+34. Correto
 
-Item. 35. Letra A
+35. Letra A
 
-Item. 36. Letra B
+36. Letra B
 
-Item. 37. Letra A
+37. Letra A
 
-Item. 38. Letra E
+38. Letra E
 
-Item. 39. Letra D
+39. Letra D
 
-Item. 40. Letra C
+40. Letra C
 
-Item. 41. Letra D
+41. Letra D
 
-Item. 42. Letra B
+42. Letra B
 
-Item. 43. Letra B
+43. Letra B
 
-Item. 44. Letra E
+44. Letra E
 
-Item. 45. Letra C
+45. Letra C
 
-Item. 46. Letra D
+46. Letra D
 
-Item. 47. Letra C
+47. Letra C
 
-Item. 48. Letra E
+48. Letra E
 
-Item. 49. Letra A
+49. Letra A
 
-Item. 50. Letra C
+50. Letra C
 
-Item. 51. Letra E
+51. Letra E
 
-Item. 52. Letra A
+52. Letra A
 
-Item. 53. Letra B
+53. Letra B
 
-Item. 54. Letra E
+54. Letra E
 
-Item. 55. Letra C
+55. Letra C
 
-Item. 56. Letra A
+56. Letra A
 
-Item. 57. Letra D
+57. Letra D
 
-Item. 58. Letra A
+58. Letra A
 
-Item. 59. Letra B
+59. Letra B
 
-Item. 60. Letra D
+60. Letra D
 
-Item. 61. Letra C
+61. Letra C
 
-Item. 62. Letra B
+62. Letra B
 
-Item. 63. Letra E
+63. Letra E
 
-Item. 64. Letra B
+64. Letra B
 
-Item. 65. Letra D
+65. Letra D
 
-Item. 66. Letra A
+66. Letra A
 
-Item. 67. Letra B
+67. Letra B
 
-Item. 68. Letra A
+68. Letra A
 
-Item. 69. Letra B
+69. Letra B
 
-Item. 70. Letra A
+70. Letra A
 
-Item. 71. Letra E
+71. Letra E
 
-Item. 72. Letra E
+72. Letra E
 
-Item. 73. Letra B
+73. Letra B
 
-Item. 74. Letra D
+74. Letra D
 
-Item. 75. Letra D
+75. Letra D
 
-Item. 76. Letra C
+76. Letra C
 
-Item. 77. Letra D
+77. Letra D
 
-Item. 78. Letra A
+78. Letra A
 
-Item. 79. Letra A
+79. Letra A
 
-Item. 80. Letra D
+80. Letra D
 
-Item. 81. Letra D
-
+81. Letra D
 
 www. estra tegiaconcursos. com. br
 
 /
-
 

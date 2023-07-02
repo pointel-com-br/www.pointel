@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Estrutura de Dados (2).
-
+# Desenvolvimento de Software - Estrutura de Dados (2).
 
 Índice
 
@@ -58,7 +57,6 @@ Capítulo. Desenvolvimento de Software - Estrutura de Dados (2).
 27) Estruturasde Dados - Hashing - Lista de Questões.
 
 28) Estruturasde Dados - Bitmap - Lista de Questões.
-
 
 ESTRUTURA DE DADoS
 
@@ -119,9 +117,7 @@ predecessor e/ou mais de um sucessor. Como exemplo, podemos citar Árvores,
 Grafos e Tabelas
 de Dispersão. Essa é uma classificação muito importante e muito simples de entender. Pessoal,
 
-
 ,
-
 
 vocês perceberão que esse assunto é cobrado de maneira superficial na
 maioria das questões,
@@ -183,7 +179,6 @@ por outros TADs -, e esconde a efetiva implementação dessa estrutura de quem a
 
 1 Filas, Pilhas, Árvores, Deques, entre outros.
 
-
 VEToRES E MATRIZES
 
 Um Vetor é uma estrutura de dados linear que necessita de somente um índice para que
@@ -210,8 +205,7 @@ elementos ocupam posições contíguas na memória. A alocação dos elementos p
 colocando os
 elementos linha-por-linha ou coluna-por-coluna.
 
-
-Item. 7. S
+7. S
 
 E
 
@@ -227,7 +221,6 @@ Matriz 2x7 e Vetor (7 Posições)
 IBFC - 2022 - DETRAN-AM) Relacione as duas colunas quanto aos respectivos tipos de Estruturas de
 Dados:
 
-
 (A) Vetores
 
 (B) Registros
@@ -239,7 +232,6 @@ Dados:
 (2) Heterogêneas
 
 *
-
 
 í a) A2 - BI - C2
 
@@ -264,7 +256,6 @@ de string, um vetor de booleanos, e assim por diante. Portanto, são homogêneos
 diferente.
 
 = Portanto, é heterogêneo. Assim, Al - B2 - Cl. Gabarito: Letra D
-
 
 j (UFRPE - 2022 - UFRPE) Sobre algoritmos e estrutura de dados, assinale a afirmativa correta.
 
@@ -325,7 +316,6 @@ siga a
 
 = Não, é possível implementar pilhas com vetores também. Falso. (Gabarito: Letra D).
 
-
 LISTA ENCADEADA
 
 Também conhecida como Lista Encadeada Linear, Lista Ligada Linear ou Linked List,
@@ -354,7 +344,6 @@ para esta lista é o ponteiro nulo. Uma lista pode ser inicializada com uma list
 
 UsT/V bNCAPEAP/Ã
 
-
 I Vp? PR.OX
 
 ?LL
@@ -378,7 +367,6 @@ todas aquelas que são Não-Circulares. Por fim: da mesma forma
 que há Listas Circulares Simples, há também Listas Circulares Duplas. Nesse caso, o
 ponteiro anterior do primeiro elemento aponta para o último
 elemento e o ponteiro posterior do último elemento aponta para o primeiro elemento.
-
 
 Observe que uma Lista Circular não tem um primeiro ou último nó natural. Precisamos,
 portanto, estabelecer
@@ -413,7 +401,6 @@ ponteiros para os nós
 em ambos os lados. Dado um ponteiro para um elemento, pode-se acessar os elementos
 adjacentes e, dado
 um ponteiro para o último elemento, pode-se percorrer a lista em ordem inversa.
-
 
 Existem cinco operações básicas sobre uma lista encadeada: Criação, em que se cria a
 lista na memória;
@@ -455,7 +442,6 @@ Uma vantagem desse tipo de alocação é que o tamanho do arquivo não precisa s
 conhecido antes de sua
 criação, já que cada bloco terá um ponteiro para o próximo bloco.
 
-
 í (CESPE/CEBRASPE - 2019 - MPC-PA) Assinale a opção que apresenta a denominação da estrutura de
 dados
 
@@ -483,7 +469,6 @@ d)árvore
 : referencia o primeiro também. A questão deixa claro que quer uma estrutrua de dados em que os
 elementos
 inicial e final não estejam ligados. Falso.
-
 
 b) Grafo
 
@@ -531,7 +516,6 @@ possibilita que ela j
 3 No Acesso Sequencial: quanto mais ao fim, maior o tempo para acessar; no Acesso Direto: todos os
 elementos são acessados no mesmo tempo.
 
-
 a) uma fila.
 
 b) um grafo.
@@ -570,7 +554,6 @@ a sair". Falso. (Gabarito: Letra C).
 
 *
 
-
 PILHAS
 
 A Pilha é um conjunto ordenado de itens no qual novos itens podem ser
@@ -602,7 +585,6 @@ podem ser
 implementadas por meio de Vetores (Pilha Sequencial - Alocação Estática de
 Memória)
 ou Listas (Pilha Encadeada - Alocação Dinâmica de Memória).
-
 
 FILAS
 
@@ -647,7 +629,6 @@ deve navegar pelos
 quatro primeiros elementos - logo a lista é mais lenta nesse sentido. Bacana?
 
 *
-
 
 (CESPE/CEBRASPE - 2017 - TRE-TO) A estrutura de dados que consiste no
 armazenamento de cada
@@ -705,7 +686,6 @@ Letra B)
 
 r
 
-
 I
 
 ! (CESPE/CEBRASPE-2017-TRF-1) Acerca de estrutura de dados, julgue o próximo item.
@@ -718,7 +698,6 @@ i Comentários:
 
 i
 
-
 I
 
 : Fila é uma estrutura de dados que segue a lógica FIFO (first-in first-out) armazena elementos de
@@ -730,7 +709,6 @@ início. Então, está certo. (Gabarito: Certo)
 ;
 
 *
-
 
 ESTRUTURAS DE DADoS: ÁRVoRE
 
@@ -762,7 +740,6 @@ todos os nós têm grau 0 ou 2. E uma Árvore Binária Completa é aquela em que
 as folhas estão no
 mesmo nível, como mostram as imagens abaixo.
 
-
 i
 
 (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) O tipo de dados
@@ -773,7 +750,6 @@ i
 
 *
 
-
 Comentários: Perfeito, observem que alguns autores tratam Tipos de Dados como sinônimo
 de Estruturas
 de Dados. Gabarito: C
@@ -782,14 +758,11 @@ APWRt ISINAIRA
 
 /
 
-
 D/
-
 
 /
 
 QQ
-
 
 Uma Árvore Binária Completa com x folhas conterá sempre (2x - 1) nós. Observem a
 imagem acima e façam
@@ -828,7 +801,6 @@ r* ..
 
 .. ..
 
-
 i (CETAP - 2010 - AL-RR - Analista de Sistemas - A) Uma árvore binária é aquela
 que tem como conteúdo
 
@@ -860,11 +832,9 @@ restante... que restante, professor? Pois é, não tem restante! Logo, 9 não te
 subárvore da direita. Vejam
 abaixo como ficou e vamos analisar 0 outro lado.
 
-
 / 215
 
 /
-
 
 A subárvore da direita da raiz 12 tem raiz 14 e tem dois filhos: na esquerda, 13 e
 na direita 15. Fim! Galera,
@@ -882,11 +852,9 @@ tem apenas um filho; (3) e remover um nó que tenha dois filhos. O primeiro caso
 muito simples: basta
 retirar o nó desejado e ponto final. Vejamos como fica:
 
-
 No segundo caso, basta retirar o nó da árvore e conectar seu único filho (e sua
 subárvore, se houver)
 diretamente ao pai do nó removido. Vejamos:
-
 
 Já o último caso, nós podemos utilizar duas estratégias. Você pode escolher qual
 deseja utilizar em uma
@@ -900,7 +868,6 @@ PASSO 2: IDENTIFIQUE O MAIOR ELEMENTO DE TODA SUBÁRVORE À ESQUERDA DO NÓ IDEN
 PASSO 1 (EM VERDE)
 
 *
-
 
 PASSO 3: COPIE O VALOR DO NÓ IDENTIFICADO NO PASSO 2 PARA O NÓ IDENTIFICADO NO PASSO 1
 PASSO 4: REMOVA O ELEMENTO IDENTIFICADO NO PASSO 2.
@@ -935,130 +902,125 @@ Vamos ver um exemplo:
 
 *
 
-
 Como ler essa árvore em Pré-Ordem? Vamos tentar...
 
 //Percorrendo a Árvore em Pré-Ordem:
 
-Item. 1. Visite a Raiz: {80};
+1. Visite a Raiz: {80};
 
-Item. 2. Percorra a subárvore esquerda em pré-ordem:
+2. Percorra a subárvore esquerda em pré-ordem:
 
-Item. 1. Visite a Raiz: {30};
+1. Visite a Raiz: {30};
 
-Item. 2. Percorra a subárvore esquerda em pré-ordem:
+2. Percorra a subárvore esquerda em pré-ordem:
 
-Item. 1. Visite a Raiz: {10};
+1. Visite a Raiz: {10};
 
-Item. 2. Percorra a subárvore esquerda em pré-ordem: {Vazio}
+2. Percorra a subárvore esquerda em pré-ordem: {Vazio}
 
-Item. 3. Percorra a subárvore direita em pré-ordem: {Vazio}
+3. Percorra a subárvore direita em pré-ordem: {Vazio}
 
-Item. 3. Percorra a subárvore direita em pré-ordem:
+3. Percorra a subárvore direita em pré-ordem:
 
-Item. 1. Visite a Raiz: {60};
+1. Visite a Raiz: {60};
 
-Item. 2. Percorra a subárvore esquerda em pré-ordem:
+2. Percorra a subárvore esquerda em pré-ordem:
 
-Item. 1. Visite a Raiz: {40}
+1. Visite a Raiz: {40}
 
-Item. 2. Percorra a subárvore esquerda em pré-ordem: {Vazio}
+2. Percorra a subárvore esquerda em pré-ordem: {Vazio}
 
-Item. 3. Percorra a subárvore direita em pré-ordem: {Vazio}
+3. Percorra a subárvore direita em pré-ordem: {Vazio}
 
-Item. 3. Percorra a subárvore direita em pré-ordem:
+3. Percorra a subárvore direita em pré-ordem:
 
-Item. 1. Visite a Raiz: {70}
-
+1. Visite a Raiz: {70}
 
 ,
 
+2. Percorra a subárvore esquerda em pré-ordem: {Vazio}
 
-Item. 2. Percorra a subárvore esquerda em pré-ordem: {Vazio}
+3. Percorra a subárvore direita em pré-ordem: {Vazio}
 
-Item. 3. Percorra a subárvore direita em pré-ordem: {Vazio}
+3. Percorra a subárvore direita em pré-ordem:
 
-Item. 3. Percorra a subárvore direita em pré-ordem:
+1. Visite a Raiz: {85};
 
-Item. 1. Visite a Raiz: {85};
+2. Percorra a subárvore esquerda em pré-ordem: {Vazio}
 
-Item. 2. Percorra a subárvore esquerda em pré-ordem: {Vazio}
+3. Percorra a subárvore direita em pré-ordem: {Vazio}
 
-Item. 3. Percorra a subárvore direita em pré-ordem: {Vazio}
+1. Visite a Raiz: {100};
 
-Item. 1. Visite a Raiz: {100};
+2. Percorra a subárvore esquerda em pré-ordem:
 
-Item. 2. Percorra a subárvore esquerda em pré-ordem:
+1. Visite a Raiz: {90};
 
-Item. 1. Visite a Raiz: {90};
+2. Percorra a subárvore esquerda em pré-ordem: {Vazio}
 
-Item. 2. Percorra a subárvore esquerda em pré-ordem: {Vazio}
+3. Percorra a subárvore direita em pré-ordem: {Vazio}
 
-Item. 3. Percorra a subárvore direita em pré-ordem: {Vazio}
-
-Item. 3. Percorra a subárvore direita em pré-ordem: {Vazio}
+3. Percorra a subárvore direita em pré-ordem: {Vazio}
 
 RESULTADO: 80, 30, 10, 60, 40, 70, 85, 100, 90
 
 //Percorrendo a Árvore em In-Ordem:
 
-Item. 1. Percorra a subárvore esquerda em in-ordem:
+1. Percorra a subárvore esquerda em in-ordem:
 
-Item. 1. Percorra a subárvore esquerda em in-ordem:
+1. Percorra a subárvore esquerda em in-ordem:
 
-Item. 1. Percorra a subárvore esquerda em in-ordem: {Vazio}
+1. Percorra a subárvore esquerda em in-ordem: {Vazio}
 
-Item. 2. Visite a Raiz: {10}
+2. Visite a Raiz: {10}
 
-Item. 3. Percorra a subárvore direita em in-ordem: {Vazio}
+3. Percorra a subárvore direita em in-ordem: {Vazio}
 
-Item. 2. Visite a Raiz: {30}
+2. Visite a Raiz: {30}
 
-Item. 3. Percorra a subárvore direita em in-ordem:
-
+3. Percorra a subárvore direita em in-ordem:
 
 ,
 
+1. Percorra a subárvore esquerda em in-ordem:
 
-Item. 1. Percorra a subárvore esquerda em in-ordem:
+1. Percorra a subárvore esquerda em in-ordem: {Vazio}
 
-Item. 1. Percorra a subárvore esquerda em in-ordem: {Vazio}
+2. Visite a Raiz: {40}
 
-Item. 2. Visite a Raiz: {40}
+3. Percorra a subárvore direita em in-ordem: {Vazio}
 
-Item. 3. Percorra a subárvore direita em in-ordem: {Vazio}
+2. Visite a Raiz: {60}
 
-Item. 2. Visite a Raiz: {60}
+3. Percorra a subárvore direita em in-ordem:
 
-Item. 3. Percorra a subárvore direita em in-ordem:
+1. Percorra a subárvore esquerda em in-ordem: {Vazio}
 
-Item. 1. Percorra a subárvore esquerda em in-ordem: {Vazio}
+2. Visite a Raiz: {70}
 
-Item. 2. Visite a Raiz: {70}
+3. Percorra a subárvore direita em in-ordem: {Vazio}
 
-Item. 3. Percorra a subárvore direita em in-ordem: {Vazio}
+2. Visite a Raiz: {80}
 
-Item. 2. Visite a Raiz: {80}
+3. Percorra a subárvore direita em in-ordem:
 
-Item. 3. Percorra a subárvore direita em in-ordem:
-
-Item. 1. Percorra a subárvore esquerda em in-ordem: {Vazio}
+1. Percorra a subárvore esquerda em in-ordem: {Vazio}
 
 , 2. Visite a Raiz: {85}
 
-Item. 3. Percorra a subárvore direita em in-ordem:
+3. Percorra a subárvore direita em in-ordem:
 
-Item. 1. Percorra a subárvore esquerda em in-ordem:
+1. Percorra a subárvore esquerda em in-ordem:
 
-Item. 1. Percorra a subárvore esquerda em in-ordem: {Vazio}
+1. Percorra a subárvore esquerda em in-ordem: {Vazio}
 
-Item. 2. Visite a Raiz: {90}
+2. Visite a Raiz: {90}
 
-Item. 3. Percorra a subárvore direita em in-ordem: {Vazio}
+3. Percorra a subárvore direita em in-ordem: {Vazio}
 
-Item. 2. Visite a Raiz: {100}
+2. Visite a Raiz: {100}
 
-Item. 3. Percorra a subárvore direita em in-ordem: {Vazio}
+3. Percorra a subárvore direita em in-ordem: {Vazio}
 
 RESULTADO: 10, 30, 40, 60, 70, 80, 85, 90, 100.
 
@@ -1066,63 +1028,61 @@ RESULTADO: 10, 30, 40, 60, 70, 80, 85, 90, 100.
 
 *
 
+1. Percorra a subárvore esquerda em pós-ordem:
 
-Item. 1. Percorra a subárvore esquerda em pós-ordem:
+1. Percorra a subárvore esquerda em pós-ordem:
 
-Item. 1. Percorra a subárvore esquerda em pós-ordem:
+1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
 
-Item. 1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
+2. Percorra a subárvore direita em pós-ordem: {Vazio}
 
-Item. 2. Percorra a subárvore direita em pós-ordem: {Vazio}
+3. Visite a Raiz: {10}
 
-Item. 3. Visite a Raiz: {10}
+2. Percorra a subárvore direita em pós-ordem:
 
-Item. 2. Percorra a subárvore direita em pós-ordem:
+1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
 
-Item. 1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
+1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
 
-Item. 1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
+2. Percorra a subárvore direita em pós-ordem: {Vazio}
 
-Item. 2. Percorra a subárvore direita em pós-ordem: {Vazio}
+3. Visite a Raiz: {40}
 
-Item. 3. Visite a Raiz: {40}
+2. Percorra a subárvore direita em pós-ordem:
 
-Item. 2. Percorra a subárvore direita em pós-ordem:
+1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
 
-Item. 1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
+2. Percorra a subárvore direita em pós-ordem: {Vazio}
 
-Item. 2. Percorra a subárvore direita em pós-ordem: {Vazio}
+3. Visite a Raiz: {70}
 
-Item. 3. Visite a Raiz: {70}
+3. Visite a Raiz: {60}
 
-Item. 3. Visite a Raiz: {60}
+3. Visite a Raiz: {30}
 
-Item. 3. Visite a Raiz: {30}
+2. Percorra a subárvore direita em pós-ordem:
 
-Item. 2. Percorra a subárvore direita em pós-ordem:
+1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
 
-Item. 1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
+2. Percorra a subárvore direita em pós-ordem:
 
-Item. 2. Percorra a subárvore direita em pós-ordem:
+1. Percorra a subárvore esquerda em pós-ordem:
 
-Item. 1. Percorra a subárvore esquerda em pós-ordem:
+1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
 
-Item. 1. Percorra a subárvore esquerda em pós-ordem: {Vazio}
+2. Percorra a subárvore direita em pós-ordem: {Vazio}
 
-Item. 2. Percorra a subárvore direita em pós-ordem: {Vazio}
-
-Item. 3. Visite a Raiz: {90}
+3. Visite a Raiz: {90}
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
+2. Percorra a subárvore direita em pós-ordem: {Vazio}
 
-Item. 2. Percorra a subárvore direita em pós-ordem: {Vazio}
+3. Visite a Raiz: {100}
 
-Item. 3. Visite a Raiz: {100}
+3. Visite a Raiz: {85}
 
-Item. 3. Visite a Raiz: {85}
-
-Item. 3. Visite a Raiz: {80}
+3. Visite a Raiz: {80}
 
 RESULTADO: 10, 40, 70, 60, 30, 90, 100, 85, 80.
 
@@ -1184,7 +1144,6 @@ só podem ser armazenados nas folhas.
 
 *
 
-
 Por fim, vamos falar um pouco sobre Árvores AVL! Uma Árvore AVL (Adelson-Vesky e
 Landis) é uma Árvore
 Binária de Busca em que, para qualquer nó, a altura das subárvores da esquerda e da
@@ -1219,7 +1178,6 @@ Esquerdo (Genial, né?). Neste caso, realizamos uma rotação à direita no Ramo
 5-4 como mostrado na
 imagem abaixo de forma a rebalancear a árvore.
 
-
 Já na imagem abaixo, a Árvore AVL tem sua propriedade violada no Nó 8. A altura da
 subárvore esquerda é
 maior do que a altura da subárvore direita em 2. Essa diferença de 2 é construída
@@ -1231,7 +1189,6 @@ altura, executamos uma rotação esquerda seguida de uma rotação direita. Veja
 W°'1)
 
 0(OO)
-
 
 /
 
@@ -1257,9 +1214,7 @@ exercícios. Vamos ver agora a complexidade logarítmica dessas estruturas.
 
 ALGoRITMo PIOR CASO
 
-
 ,
-
 
 Espaço O(n)
 
@@ -1295,7 +1250,6 @@ Quem quiser brincar de Árvore AVL
 https://www.cs.usfca.edu/~galles/visualization/AVLtree.html
 
 *
-
 
 GRAFoS
 
@@ -1342,7 +1296,6 @@ utilizada. Seguem as premissas:
 
 *
 
-
 Nó, Nodo ou Vértice:
 
 Qualquer elemento de um conjunto N.
@@ -1359,11 +1312,9 @@ Arco Incidente (Relação de Incidência):
 
 São aqueles arcos que levam a um nó (Ex: (C,D) é incidente em D).
 
-
 / 215
 
 /
-
 
 Grau:
 
@@ -1402,7 +1353,6 @@ arcos em relação ao
 número de vértices e esparso se contém poucos arcos. Como assim, professor?
 
 *
-
 
 Um grafo é denso se o seu número de arcos é da mesma ordem que o quadrado do
 número de vértices; e é esparso se o número de arcos for da mesma ordem que o
@@ -1469,7 +1419,6 @@ se fosse um grafo ponderado, bastaria colocar o peso, em vez de colocar 1 na Mat
 de Adjacências. Existem
 só mais alguns detalhes.
 
-
 Em grafos não direcionados, as matrizes de adjacência são simétricas ao longo da
 diagonal principal - isto é,
 a entrada ay é igual à entrada ay. Matrizes de Adjacência de grafos direcionados, no entanto, não
@@ -1512,12 +1461,10 @@ arestas que não estão presentes. Lembram-se da lista? Nós só representamos o
 nós adjacentes, em
 contraste com a Matriz de Adjacência. No entanto, quanto mais denso, isso pode mudar.
 
-
 I
 
 (CESPE/CEBRASPE - 2017 - TRF-1) Acerca dos conceitos de árvores e grafos, julgue o item que se
 segue. i
-
 
 A soma dos graus de todos os vértices de um grafo é sempre par.
 
@@ -1574,7 +1521,6 @@ Letra B)
 
 *
 
-
 HASHINC
 
 As Tabelas de Dispersão, também conhecidas como Tabelas de Espelhamento ou Tabelas
@@ -1592,9 +1538,7 @@ abaixo ilustra a inserção de uma coleção de valores com suas respectivas
 chaves numa
 Tabela de Dispersão.
 
-
 CAAVL|
-
 
 VALOR
 
@@ -1637,13 +1581,11 @@ número de dados que possuam faixas de valores variáveis.
 quociente 1 e resto 2. Em
 outras palavras, 8*1 + 2 = 10.
 
-
 BITMAPS
 
 ° § 2 © * < <
 
 o o £ O ? » § £ O
-
 
 »«?s?§§§ Wi? i? ij -
 
@@ -1702,11 +1644,9 @@ Punk Rock
 8 The Who Inglaterra
 Rock
 
-
 ,
 
 /
-
 
 9 Green Day EUA
 Punk Rock
@@ -1787,9 +1727,7 @@ utilizando os
 de
 termos o índice, mas utilizando os bitmaos não haverá comparações de strings, mas
 
-
 ,
-
 
 somente uma avaliação bit a bit, que é muito mais performática. Ademais, é
 possível
@@ -1880,11 +1818,9 @@ facilitar consultas, principalmente com colunas com pouca cardinalidade, ou seja
 poucos
 valores possíveis.
 
-
 / 215
 
 /
-
 
 ESTRUTURA DE ARQUIVoS
 
@@ -1942,16 +1878,14 @@ operação de leitura/escrita. No terceiro caso, o arquivo é visto como um
 conjunto de
 registros indexados por uma chave.
 
-
 ,
 
 /
 
-
 QUESTõES CoMENTADAS - ESTRUTURA DE DADoS -
 MULTIBANCAS
 
-Item. 1. (CESPE/CEBRASPE - 2020 - Ministério da Economia) A respeito de dados, informação,
+1. (CESPE/CEBRASPE - 2020 - Ministério da Economia) A respeito de dados, informação,
 conhecimento
 e inteligência, julgue o próximo item.
 
@@ -1971,7 +1905,7 @@ seja, os dois não são a mesma coisa para serem classificados em sua totalidade
 
 Gabarito: Errado
 
-Item. 2. (FGV - 2015 - DPE/MT - Analista de Sistemas) No desenvolvimento de sistemas, a
+2. (FGV - 2015 - DPE/MT - Analista de Sistemas) No desenvolvimento de sistemas, a
 escolha de
 estruturas de dados em memória é especialmente relevante. Dentre outras classificações,
 é possível
@@ -2013,8 +1947,7 @@ Conforme vimos em aula, trata-se de pilha e árvore respectivamente.
 
 Gabarito: Letra D
 
-
-Item. 3. (CESPE - 2010 - DETRAN/ES - Analista de Sistemas) Um tipo abstrato de dados
+3. (CESPE - 2010 - DETRAN/ES - Analista de Sistemas) Um tipo abstrato de dados
 apresenta uma parte
 destinada à implementação e outra à especificação. Na primeira, são descritas, em forma
 sintática e
@@ -2044,7 +1977,7 @@ operação e inicialização.
 
 Gabarito: Errado
 
-Item. 4. (CESPE - 2010 - TRT/RN - Analista de Sistemas) O tipo abstrato de dados
+4. (CESPE - 2010 - TRT/RN - Analista de Sistemas) O tipo abstrato de dados
 consiste em um modelo
 matemático (v,o), em que v é um conjunto de valores e o é um conjunto de operações que podem ser
 realizadas sobre valores.
@@ -2065,7 +1998,7 @@ de Tipos Abstratos de Dados.
 
 Gabarito: Correto
 
-Item. 5. (CESPE - 2010 - BASA - Analista de Sistemas) A escolha de estruturas internas de dados
+5. (CESPE - 2010 - BASA - Analista de Sistemas) A escolha de estruturas internas de dados
 utilizados por
 um programa pode ser organizada a partir de TADs que definem classes de objetos com características
 distintas.
@@ -2082,10 +2015,9 @@ esconde a efetiva implementação dessa estrutura de quem a manipula.
 
 Conforme vimos em aula, definem classes de objetos com características semelhantes.
 
-
 Gabarito: Errado
 
-Item. 6. (CESPE - 2010 - BASA - Analista de Sistemas) A descrição dos parâmetros das operações e os
+6. (CESPE - 2010 - BASA - Analista de Sistemas) A descrição dos parâmetros das operações e os
 efeitos
 da ativação das operações representam, respectivamente, os níveis sintático e semântico
 em que
@@ -2105,7 +2037,7 @@ Conforme vimos em aula, realmente se trata respectivamente do nível sintático 
 
 Gabarito: Correto
 
-Item. 7. (FCC - 2010 - TRE/AM - Analista de Sistemas) Em relação aos tipos abstratos de dados - TAD, é
+7. (FCC - 2010 - TRE/AM - Analista de Sistemas) Em relação aos tipos abstratos de dados - TAD, é
 correto
 afirmar:
 
@@ -2147,8 +2079,7 @@ errada - infelizmente!).
 
 Gabarito: Letra E
 
-
-Item. 8. (FCC - 2009 - TRE/PI - Analista de Sistemas) Em relação a tipos abstratos de dados, é correto
+8. (FCC - 2009 - TRE/PI - Analista de Sistemas) Em relação a tipos abstratos de dados, é correto
 afirmar
 que:
 
@@ -2188,13 +2119,11 @@ formado por outros TADs; (e) Correto. Escondem a implementação de quem os mani
 
 Gabarito: Letra E
 
-
 QUESTõES CoMENTADAS-VEToRES E MATRIZES -
 MULTIBANCAS
 
-Item. 1. (IBFC - 2022 - DETRAN-AM) Relacione as duas colunas quanto aos respectivos tipos de Estruturas de
+1. (IBFC - 2022 - DETRAN-AM) Relacione as duas colunas quanto aos respectivos tipos de Estruturas de
 Dados:
-
 
 (A) Vetores
 
@@ -2232,7 +2161,7 @@ Assim, Al - B2 - Cl.
 
 Gabarito: Letra D
 
-Item. 2. (IADES - 2022 - ADASA) Com base nas definições referentes à estrutura de dados digitais, à
+2. (IADES - 2022 - ADASA) Com base nas definições referentes à estrutura de dados digitais, à
 vetorização e à digitalização, assinale a alternativa correta.
 
 a) A estrutura vetorial é composta por uma grade homogênea de linhas e colunas.
@@ -2260,9 +2189,7 @@ A estrutura vetorial é linear e homogênea. O correto seria dizer que a estrutu
 matricial é composta por
 uma grade homogênea de linhas e colunas, e não vetorial. Falso.
 
-
 ,
-
 
 b) A digitalização é o processo de mudança de documentos cartográficos do formato vetorial para o
 formato raster.
@@ -2286,7 +2213,7 @@ Esta é uma boa definição de matriz. Correto!
 
 Gabarito: Letra E
 
-Item. 3. (UFPRE - 2022 - UFPRE) A estrutura de dados "vetor" (array) é um arranjo unidimensional que
+3. (UFPRE - 2022 - UFPRE) A estrutura de dados "vetor" (array) é um arranjo unidimensional que
 pode
 acomodar múltiplos dados. Sobre essas estruturas de dados, assinale a alternativa incorreta.
 
@@ -2340,10 +2267,9 @@ Verdadeiro.
 
 Gabarito: Letra D
 
-
 (Profs. Paolla Ramos e Raphael L
 
-Item. 4. (FUNDATEC - 2022 - Prefeitura de Restinga Sêca - RS) Assinale a estrutura de dados linear e
+4. (FUNDATEC - 2022 - Prefeitura de Restinga Sêca - RS) Assinale a estrutura de dados linear e
 estática,
 caracterizada por uma sequência de elementos de um mesmo tipo de dado e que são armazenados em
 posições consecutivas de memória.
@@ -2385,7 +2311,7 @@ A definição do enunciado é uma ótima definição de vetor. Verdadeiro.
 
 Gabarito: Letra E
 
-Item. 5. (FGV - 2021 - IMBEL) Considere um conjunto de 65.536 chaves ordenadas,
+5. (FGV - 2021 - IMBEL) Considere um conjunto de 65.536 chaves ordenadas,
 distintas entre si,
 armazenadas num array.
 
@@ -2423,7 +2349,6 @@ quantas vezes conseguimos dividir por 2 o valor:
 
 2048/2 = 1024 (6x)
 
-
 1024/2 = 512 (7x)
 
 512/2 = 256 (8x)
@@ -2448,7 +2373,7 @@ Portanto, são, no máximo, 16 vezes.
 
 Gabarito: Letra B
 
-Item. 6. (FCC - 2019 - SANASA Campinas) Um Analista de TI necessitou usar uma estrutura
+6. (FCC - 2019 - SANASA Campinas) Um Analista de TI necessitou usar uma estrutura
 de dados simples
 que utilizasse pouca carga de memória de armazenamento. Tal estrutura é vista como um arranjo cuja
 capacidade pode variar dinamicamente, isto é, se o espaço reservado for totalmente ocupado e algum
@@ -2485,9 +2410,7 @@ Para ser hashing, deveria ser mencionado um algoritmo de hashing, o que não é 
 
 c) árvore.
 
-
 ,
-
 
 Para ser uma árvore, deveriam ser mencionadas estruturas como nós e filhos, o que não é o caso.
 Falso.
@@ -2503,7 +2426,7 @@ As informações ditas no enunciado se referem a um vetor. Verdadeiro.
 
 Gabarito: Letra E
 
-Item. 7. (FCC - 2013 - MPE-AM) Considere o vetor vet a seguir:
+7. (FCC - 2013 - MPE-AM) Considere o vetor vet a seguir:
 
 1 2 3 4 5 6 7 8
 
@@ -2561,8 +2484,7 @@ AMAZONAS
 
 Gabarito: Letra E
 
-
-Item. 8. (FCC - 2012 - TJ-RJ) O algoritmo conhecido como busca binária é um algoritmo de desempenho
+8. (FCC - 2012 - TJ-RJ) O algoritmo conhecido como busca binária é um algoritmo de desempenho
 ótimo
 para encontrar a posição de um item em
 a) uma árvore B.
@@ -2610,7 +2532,7 @@ numérico. Correto!
 
 Gabarito: Letra E
 
-Item. 9. (FCC - 2009 - TJ-PA - Analista Judiciário - Tecnologia da Informação) Considere uma estrutura
+9. (FCC - 2009 - TJ-PA - Analista Judiciário - Tecnologia da Informação) Considere uma estrutura
 de dados
 do tipo vetor. Com respeito a tal estrutura, é correto que seus componentes são,
 caracteristicamente,
@@ -2635,8 +2557,7 @@ direto. Gabarito: E
 
 Gabarito: Letra E
 
-
-Item. 10. (CETAP - 2010 - AL-RR - Analista de Sistemas) Matrizes são estruturas de dados de
+10. (CETAP - 2010 - AL-RR - Analista de Sistemas) Matrizes são estruturas de dados de
 n-dimensões. Por
 simplicidade, chamaremos de matrizes as matrizes bidimensionais numéricas (que
 armazenam
@@ -2667,7 +2588,7 @@ Matriz 3x5; (e) Perfeito, uma Matriz 2x2 multiplicada por outra Matriz 2x2 resul
 
 Gabarito: Letra D
 
-Item. 11. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da Informação
+11. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da Informação
 - Arquitetura de
 Tecnologia) Os dados armazenados em uma estrutura do tipo matriz não podem ser
 acessados de
@@ -2687,7 +2608,7 @@ de leitura.
 
 Gabarito: Errado
 
-Item. 12. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da Informação) Entre
+12. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da Informação) Entre
 alguns tipos
 de estrutura de dados, podem ser citados os vetores, as pilhas e as filas.
 
@@ -2697,7 +2618,7 @@ Questão extremamente simples - realmente são exemplos de estruturas de dados.
 
 Gabarito: Correto
 
-Item. 13. (CESPE - 2011 - EBC - Analista - Engenharia de Software) Vetores são utilizados
+13. (CESPE - 2011 - EBC - Analista - Engenharia de Software) Vetores são utilizados
 quando estruturas
 indexadas necessitam de mais que um índice para identificar um de seus elementos.
 
@@ -2705,13 +2626,12 @@ Comentários:
 
 *
 
-
 Não! Se são necessários mais de um índice, utilizam-se Matrizes! Vetores necessitam apenas de um
 índice.
 
 Gabarito: Errado
 
-Item. 14. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Vetores podem ser
+14. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Vetores podem ser
 considerados
 como listas de informações armazenadas em posição contígua na memória.
 
@@ -2723,7 +2643,7 @@ armazenadas em posição contígua na memória? Sim, em geral são armazenados d
 
 Gabarito: Correto
 
-Item. 15. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Uma posição específica de
+15. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Uma posição específica de
 um vetor
 pode ser acessada diretamente por meio de seu índice.
 
@@ -2735,7 +2655,7 @@ diretamente por meio de seu índice.
 
 Gabarito: Correto
 
-Item. 8. (FCC - 2016 - Copergás - PE - Analista Tecnologia da Informação) Considere o
+8. (FCC - 2016 - Copergás - PE - Analista Tecnologia da Informação) Considere o
 algoritmo a seguir, na
 forma de pseudocódigo:
 
@@ -2770,7 +2690,6 @@ Fim
 Este pseudocódigo
 a) exclui o valor contido na posição x do vetor v.
 
-
 b) insere o valor de x entre v[k-l] e v[k] no vetor v.
 
 c) exclui o valor contido na posição k do vetor v.
@@ -2794,11 +2713,10 @@ v[k]).
 
 Gabarito: Letra B
 
-
 QUESTõES CoMENTADAS - LISTA ENCADEADA -
 MULTIBANCAS
 
-Item. 1. (UFV - 2022 - UFV-MG) Considere as afirmativas a seguir sobre estrutura de dados:
+1. (UFV - 2022 - UFV-MG) Considere as afirmativas a seguir sobre estrutura de dados:
 
 I. Uma estrutura de dados heterogênea envolve a utilização de mais de um tipo básico de
 dado.
@@ -2858,7 +2776,7 @@ Corretas: I, II e IV.
 
 Gabarito: Letra C
 
-Item. 2. (Quadrix - 2022 - PRODAM-AM) Assinale a alternativa que apresenta o nome do
+2. (Quadrix - 2022 - PRODAM-AM) Assinale a alternativa que apresenta o nome do
 tipo de estrutura em
 que cada elemento armazena um ou vários dados e um ponteiro para o próximo elemento,
 que
@@ -2885,7 +2803,7 @@ ordenada.
 
 Gabarito: Letra A
 
-Item. 3. (FUNDATEC - 2022 - IF-RS) Que tipo de estrutura de dados está representada na Figura 1
+3. (FUNDATEC - 2022 - IF-RS) Que tipo de estrutura de dados está representada na Figura 1
 abaixo?
 
 Figura 1 - Estrutura de dados
@@ -2915,7 +2833,7 @@ Portanto, é uma lista ligada.
 
 Gabarito: Letra D
 
-Item. 4. (IBADE - 2022 - SES-MG) Uma estrutura de dados onde existe uma coleção ordenada
+4. (IBADE - 2022 - SES-MG) Uma estrutura de dados onde existe uma coleção ordenada
 de entidades
 sendo a metodologia de busca com base no deslocamento relativo ao primeiro (cabeça) da
 coleção,
@@ -2949,7 +2867,6 @@ Verdadeiro.
 
 c) pilha.
 
-
 Em uma pilha, temos o topo da pilha. Neste caso, temos apenas 3 operações: top, para ver qual
 elemento está no topo
 da pilha; pop, para remover o elemento do topo da pilha; e push, para incluir um
@@ -2968,7 +2885,7 @@ Em uma árvore binária, percorre-se do nó raiz, e não da cabeça. Falso.
 
 Gabarito: Letra B
 
-Item. 5. (FGV - 2021 - TJ-RO) Considere a lista duplamente encadeada exibida a seguir.
+5. (FGV - 2021 - TJ-RO) Considere a lista duplamente encadeada exibida a seguir.
 
 (1, 3, 0, "Verde")
 
@@ -3034,8 +2951,7 @@ A lista é Vermelho - Azul - Amarelo - Verde.
 
 Gabarito: Letra E
 
-
-Item. 6. (FGV - 2021 - TJ-RO) Considere a lista duplamente encadeada exibida a seguir.
+6. (FGV - 2021 - TJ-RO) Considere a lista duplamente encadeada exibida a seguir.
 
 (1, 3, 0, "Verde")
 
@@ -3101,7 +3017,7 @@ A lista é Vermelho - Azul - Amarelo - Verde.
 
 Gabarito: Letra E
 
-Item. 7. CESPE/CEBRASPE - 2019 - MPC-PA) Assinale a opção que apresenta a denominação da
+7. CESPE/CEBRASPE - 2019 - MPC-PA) Assinale a opção que apresenta a denominação da
 estrutura de
 dados constituída por um conjunto de elementos individualizados, em que cada um dos
 elementos —
@@ -3114,7 +3030,6 @@ b) grafo
 c) lista duplamente encadeada
 d) árvore
 e) pilha
-
 
 Comentários:
 
@@ -3150,7 +3065,7 @@ a sair. Falso.
 
 Gabarito: Letra C
 
-Item. 8. (CESPE/CEBRASPE - 2017 - TRT-7) Considere uma estrutura de dados em
+8. (CESPE/CEBRASPE - 2017 - TRT-7) Considere uma estrutura de dados em
 que cada elemento
 armazenado apresenta ligações de apontamento com seu sucessor e com o seu predecessor,
 o que
@@ -3192,7 +3107,7 @@ Falso.
 
 Gabarito: Letra C
 
-Item. 9. (CESPE/CEBRASPE - 2018 - BNB)
+9. (CESPE/CEBRASPE - 2018 - BNB)
 
 Uma lista encadeada é basicamente uma estrutura de dados em lista em que cada nó possui três
 campos: um para os
@@ -3200,14 +3115,13 @@ dados, um para o endereço do nó anterior, e outro para o endereço do nó post
 
 Comentários:
 
-
 Este é o conceito de lista duplamente encadeada, e não da lista encadeada. No caso, uma lista
 encadeada possui um
 endereço apenas para o nó posterior, e não para o anterior.
 
 Gabarito: Errado
 
-Item. 10. (FGV - 2018 - MPE-AL) Considere a representação de uma lista duplamente encadeada que armazena
+10. (FGV - 2018 - MPE-AL) Considere a representação de uma lista duplamente encadeada que armazena
 os times de futebol que participam de um torneio.
 
 Nó Time
@@ -3253,7 +3167,7 @@ Já temos a resposta.
 
 Gabarito: Letra A
 
-Item. 11. (CESPE/CEBRASPE - 2018 - BNB)
+11. (CESPE/CEBRASPE - 2018 - BNB)
 
 Uma lista encadeada é basicamente uma estrutura de dados em lista em que cada nó possui três
 campos: um para os
@@ -3267,7 +3181,7 @@ endereço apenas para o nó posterior, e não para o anterior.
 
 Gabarito: Errado
 
-Item. 12. (FCC - 2013 - DPE-SP) Em uma J_, para cada novo elemento inserido na estrutura, alocamos um
+12. (FCC - 2013 - DPE-SP) Em uma J_, para cada novo elemento inserido na estrutura, alocamos um
 espaço
 de memória para armazená-lo. Desta forma, o espaço total de memória gasto
 pela estrutura é
@@ -3303,7 +3217,7 @@ errada. Os demais itens d) e e) não têm nada a ver com o assunto.
 
 Gabarito: Letra B
 
-Item. 13. (FCC - FAURGS - SES-RS) Qual é a afirmativa correta sobre estruturas de dados?
+13. (FCC - FAURGS - SES-RS) Qual é a afirmativa correta sobre estruturas de dados?
 
 a) Uma pilha armazena os dados em uma estrutura de dados do tipo árvore binária.
 
@@ -3355,13 +3269,12 @@ e) Em uma fila, o primeiro elemento a ser inserido será o último a ser retirad
 adicionam-se e removem-
 se itens no início.
 
-
 Não. A regra da fila é a FIFO (first-in last-out), ou seja, o primeiro a entrar é o primeiro a
 sair. Falso.
 
 Gabarito: Letra B
 
-Item. 14. (FCC - 2013 - DPE-SP) Em uma J_, para cada novo elemento inserido na estrutura, alocamos um
+14. (FCC - 2013 - DPE-SP) Em uma J_, para cada novo elemento inserido na estrutura, alocamos um
 espaço
 de memória para armazená-lo. Desta forma, o espaço total de memória gasto
 pela estrutura é
@@ -3397,7 +3310,7 @@ errada. Os demais itens d) e e) não têm nada a ver com o assunto.
 
 Gabarito: Letra B
 
-Item. 15. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) O tempo de
+15. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) O tempo de
 busca
 de um elemento em uma lista duplamente encadeada é igual à metade do tempo da busca
 de um
@@ -3411,7 +3324,7 @@ tempo de busca de um elemento.
 
 Gabarito: Errado
 
-Item. 16. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
+16. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
 Dados) Em algumas
 implementações, uma lista vazia pode ter um único nó, chamado de sentinela, nó cabeça
 ou header.
@@ -3421,7 +3334,6 @@ sobre a lista, como inserir novos dados, recuperar o tamanho da lista, entre out
 
 Comentários:
 
-
 Perfeito! Ele simplifica a implementação de algumas operações porque se guarda o
 endereço do primeiro e
 do último elemento de uma estrutura de dados de modo que o programador
@@ -3430,7 +3342,7 @@ estrutura de implementação da lista para realizar suas operações. Gabarito: 
 
 Gabarito: Correto
 
-Item. 17. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) Estruturas
+17. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) Estruturas
 ligadas
 como listas encadeadas superam a limitação das matrizes que não podem alterar seu tamanho inicial.
 
@@ -3440,7 +3352,7 @@ Perfeito! Listas Encadeadas admitem alocação dinâmica, em contraste com as ma
 
 Gabarito: Correto
 
-Item. 18. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
+18. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
 Dados) As listas
 duplamente encadeadas diferenciam-se das listas simplesmente encadeadas pelo fato de, na
 primeira,
@@ -3456,7 +3368,7 @@ aponta para o nó sucessor.
 
 Gabarito: Errado
 
-Item. 19. (FCC - 2012 - TRE-SP - Analista Judiciário - Análise de Sistemas - E) Numa lista singularmente
+19. (FCC - 2012 - TRE-SP - Analista Judiciário - Análise de Sistemas - E) Numa lista singularmente
 encadeada,
 para acessar o último nodo é necessário partir do primeiro e ir seguindo os campos
 de ligação até
@@ -3470,14 +3382,13 @@ ao final da lista.
 
 Gabarito: Correto
 
-Item. 20. (CESPE - 2011 - EBC - Analista - Engenharia de Software) Uma lista é uma
+20. (CESPE - 2011 - EBC - Analista - Engenharia de Software) Uma lista é uma
 coleção de elementos do
 mesmo tipo dispostos linearmente, que podem ou não seguir determinada organização. As
 listas
 podem ser dos seguintes tipos: de encadeamento simples, duplamente encadeadas e ordenadas.
 
 Comentários:
-
 
 Uma lista é, por natureza, heterogênea, i.e., seus elementos são compostos por tipos
 de dados primitivos
@@ -3503,7 +3414,7 @@ Como, professor? Ela é uma lista em que seus elementos são ordenados (crescent
 
 Gabarito: Correto
 
-Item. 21. (CESPE - 2009 - ANAC - Técnico Administrativo - Informática) Em uma lista
+21. (CESPE - 2009 - ANAC - Técnico Administrativo - Informática) Em uma lista
 circular duplamente
 encadeada, cada nó aponta para dois outros nós da lista, um anterior e um posterior.
 
@@ -3513,7 +3424,7 @@ Perfeito! Há dois ponteiros: uma para o nó anterior e um para o nó posterior.
 
 Gabarito: Correto
 
-Item. 22. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da
+22. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da
 Informação) A principal
 característica de uma lista encadeada é o fato de o último elemento da lista apontar
 para o elemento
@@ -3525,7 +3436,7 @@ Não, o último elemento da lista não aponta para nenhum outro nó em uma lista
 
 Gabarito: Errado
 
-Item. 23. (CESPE - 2009 - TCE-AC - Analista de Controle Externo - Processamentos de Dados) Uma lista
+23. (CESPE - 2009 - TCE-AC - Analista de Controle Externo - Processamentos de Dados) Uma lista
 encadeada
 é uma coleção de nodos que, juntos, formam uma ordem linear. Se é possível os nodos se deslocarem
 em ambas as direções na lista, diz-se que se trata de uma lista simplesmente encadeada.
@@ -3538,8 +3449,7 @@ duplamente encadeada.
 
 Gabarito: Errado
 
-
-Item. 24. (CESPE - 2008 - HEMOBRÁS - Técnico de Informática) Uma estrutura do tipo lista, em que é
+24. (CESPE - 2008 - HEMOBRÁS - Técnico de Informática) Uma estrutura do tipo lista, em que é
 desejável
 percorrer o seu conteúdo nas duas direções indiferentemente, é denominado lista
 duplamente
@@ -3551,7 +3461,7 @@ Perfeito, é exatamente isso!
 
 Gabarito: Correto
 
-Item. 25. (CESPE - 2010 - TRE/MT - Analista de Sistemas - C) Uma lista duplamente encadeada é uma
+25. (CESPE - 2010 - TRE/MT - Analista de Sistemas - C) Uma lista duplamente encadeada é uma
 lista em
 que o seu último elemento referencia o primeiro.
 
@@ -3561,7 +3471,7 @@ Não, isso se trata de uma Lista Circular!
 
 Gabarito: Errado
 
-Item. 26. (CESPE - 2006 - SGA/AC - Analista de Sistemas) O principal problema da alocação por lista
+26. (CESPE - 2006 - SGA/AC - Analista de Sistemas) O principal problema da alocação por lista
 encadeada
 é a fragmentação.
 
@@ -3571,7 +3481,7 @@ Não! Em geral, a alocação por lista encadeada elimina a fragmentação.
 
 Gabarito: Errado
 
-Item. 27. (CESPE - 2008 - MCT - Analista de Sistemas) O armazenamento de arquivos em
+27. (CESPE - 2008 - MCT - Analista de Sistemas) O armazenamento de arquivos em
 disco pode ser feito
 por meio de uma lista encadeada, em que os blocos de disco são ligados por ponteiros. A utilização
 de
@@ -3583,7 +3493,7 @@ Não, ela elimina a fragmentação externa!
 
 Gabarito: Errado
 
-Item. 28. (CESPE - 2009-FINEP-Analista de Sistemas) Uma lista encadeada é uma representação
+28. (CESPE - 2009-FINEP-Analista de Sistemas) Uma lista encadeada é uma representação
 de objetos na
 memória do computador que consiste de uma sequência de células em que:
 
@@ -3599,9 +3509,7 @@ d) cada célula contém um objeto de algum tipo e o endereço da célula seguint
 
 e) a primeira célula contém o endereço da última célula.
 
-
 ,
-
 
 Comentários:
 
@@ -3609,7 +3517,7 @@ Cada célula contém um objeto de algum tipo e o endereço da célula seguinte!
 
 Gabarito: Letra D
 
-Item. 29. (CESPE - 2010 - BASA - Analista de Sistemas) Em uma lista encadeada, o tempo de acesso a
+29. (CESPE - 2010 - BASA - Analista de Sistemas) Em uma lista encadeada, o tempo de acesso a
 qualquer
 um de seus elementos é constante e independente do tamanho da estrutura de dados.
 
@@ -3627,7 +3535,7 @@ independentemente do tamanho da estrutura.
 
 Gabarito: Errado
 
-Item. 30. (CESPE - 2010 - INMETRO - Analista de Sistemas - C) Considere que Roberto tenha feito uso de
+30. (CESPE - 2010 - INMETRO - Analista de Sistemas - C) Considere que Roberto tenha feito uso de
 uma
 lista encadeada simples para programar o armazenamento e o posterior acesso aos dados acerca dos
 equipamentos instalados em sua empresa. Considere, ainda, que, após realizar uma
@@ -3649,7 +3557,7 @@ Portanto, a lista só é percorrida em uma única direção.
 
 Gabarito: Errado
 
-Item. 31. (FCC - 2003 - TRE/AM - Analista de Sistemas) Os dados contidos em uma lista encadeada estão:
+31. (FCC - 2003 - TRE/AM - Analista de Sistemas) Os dados contidos em uma lista encadeada estão:
 
 a) ordenados seqüencialmente.
 
@@ -3663,7 +3571,6 @@ e) em ordem lógica e não, necessariamente, em ordem física.
 
 Comentários:
 
-
 A Ordem Física é sua disposição na memória do computador e a Ordem Lógica é como
 ela pode ser lida e
 entendida. Ora, a ordem em que ela se encontra na memória pouco importa,
@@ -3674,7 +3581,7 @@ necessariamente física.
 
 Gabarito: Errado
 
-Item. 32. (FCC - 2010 - DPE/SP - Analista de Sistemas) Uma estrutura de dados que possui
+32. (FCC - 2010 - DPE/SP - Analista de Sistemas) Uma estrutura de dados que possui
 três campos: dois
 ponteiros e campo de informação denomina-se:
 
@@ -3694,7 +3601,7 @@ Trata-se da Lista Encadeada Dupla: dois ponteiros (Ant e Prox) e um campo de inf
 
 Gabarito: Letra A
 
-Item. 33. (CESPE - 2010 - TRE/MT - Analista de Sistemas) O algoritmo para inclusão de elementos em uma
+33. (CESPE - 2010 - TRE/MT - Analista de Sistemas) O algoritmo para inclusão de elementos em uma
 pilha
 é usado sem nenhuma alteração para incluir elementos em uma lista.
 
@@ -3706,10 +3613,9 @@ elementos de ambas necessita do primeiro elemento (ou topo). Portanto, questão 
 
 Gabarito: Correto
 
-
 QUESTõES CoMENTADAS - PILHAS - MULTIBANCAS
 
-Item. 1. (FGV - 2022 - PC-AM) Assinale as operações características de uma estrutura de dados do tipo
+1. (FGV - 2022 - PC-AM) Assinale as operações características de uma estrutura de dados do tipo
 pilha
 (stack).
 
@@ -3744,7 +3650,7 @@ este nome, estão associadas a listas.
 
 Gabarito: Letra D
 
-Item. 2. (FGV - 2022 - TJDFT) Júlio está desenvolvendo uma aplicação e precisa implementar um mecanismo
+2. (FGV - 2022 - TJDFT) Júlio está desenvolvendo uma aplicação e precisa implementar um mecanismo
 de desfazer/refazer de um editor de texto utilizando o algoritmo LIFO (Last In, First Out).
 
 Para implementar o algoritmo LIFO, Júlio deve usar a estrutura de dados:
@@ -3783,14 +3689,13 @@ d) nó folha;
 
 Nó folha é o nó de uma árvore que não possui filhos. Não tem nada a ver com o enunciado. Falso.
 
-
 e) tabela hash.
 
 Tabelas hash não seguem regra LIFO. Falso.
 
 Gabarito: Letra B
 
-Item. 3. (CESPE/CEBRASPE - 2022 - DPE-RO) Em um sistema operacional, a estrutura de dados
+3. (CESPE/CEBRASPE - 2022 - DPE-RO) Em um sistema operacional, a estrutura de dados
 utilizada para
 organizar chamadas de funções recursivas por meio da inserção ou remoção de elementos
 via
@@ -3832,7 +3737,7 @@ executa.
 
 Gabarito: Letra D
 
-Item. 4. (UFV - 2022 - UFV-MG) Considere as afirmativas a seguir sobre estrutura de dados:
+4. (UFV - 2022 - UFV-MG) Considere as afirmativas a seguir sobre estrutura de dados:
 
 I. Uma estrutura de dados heterogênea envolve a utilização de mais de um tipo básico de
 dado.
@@ -3867,7 +3772,6 @@ Isso mesmo. Significa que cada elemento da estrutura de dados pode ter mais de u
 dado. Por exemplo,
 um inteiro, uma string, um booleano, etc. Verdadeiro.
 
-
 II. Uma lista encadeada pode ser definida como uma sequência de células em que cada
 célula contém um
 elemento e o endereço da célula seguinte.
@@ -3892,10 +3796,9 @@ Corretas: I, II e IV.
 
 Gabarito: Letra C
 
-Item. 5. (IBFC - 2022 - DPE-MT) Assinale a alternativa que apresenta a relação entre as
+5. (IBFC - 2022 - DPE-MT) Assinale a alternativa que apresenta a relação entre as
 duas estruturas de
 dados da coluna da esquerda com as respectivas características técnicas da coluna da direita.
-
 
 (1) PILHA
 
@@ -3939,7 +3842,7 @@ elementos no final, e remover do início. Portanto, 2-AD.
 
 Gabarito: Letra A
 
-Item. 6. (FUNDATEC - 2022 - IPE Saúde) Uma sequência de valores é armazenada em uma estrutura de dados,
+6. (FUNDATEC - 2022 - IPE Saúde) Uma sequência de valores é armazenada em uma estrutura de dados,
 onde novos elementos são inseridos no final da lista e removidos também do final da
 mesma. Dessa
 forma, qualquer elemento só pode ser removido quando todos os elementos inseridos após
@@ -3953,7 +3856,6 @@ b) Lista simplesmente encadeada.
 c) Fila.
 
 d) Pilha.
-
 
 e) Árvore binária.
 
@@ -3994,7 +3896,7 @@ do enunciado.
 
 Gabarito: Letra D
 
-Item. 7. (FGV - 2021 - FUNSAÚDE-CE) As operações POP e PUSH aplicáveis às estruturas de
+7. (FGV - 2021 - FUNSAÚDE-CE) As operações POP e PUSH aplicáveis às estruturas de
 dados são
 conhecidas como
 a) árvores binárias.
@@ -4021,7 +3923,7 @@ duas operações:
 
 Gabarito: Letra E
 
-Item. 8. (FGV - 2021 - IMBEL) No contexto das estruturas de dados, considere uma pilha
+8. (FGV - 2021 - IMBEL) No contexto das estruturas de dados, considere uma pilha
 (stack) onde as
 seguintes operações foram executadas.
 
@@ -4031,7 +3933,6 @@ PUSH (12)
 PUSH (14)
 POP
 PUSH (20)
-
 
 PUSH (15)
 POP
@@ -4103,13 +4004,12 @@ Portanto, 3 /19.
 
 Gabarito: Letra C
 
-Item. 9. (CESPE/CEBRASPE - 2018 - ABIN) Julgue o item subsequente, relativo à lógica de programação.
+9. (CESPE/CEBRASPE - 2018 - ABIN) Julgue o item subsequente, relativo à lógica de programação.
 
 Pilha é uma estrutura de dados em que o último elemento a ser inserido será o primeiro a ser
 retirado.
 
 Comentários:
-
 
 A pilha é uma estrutura de dados que usa o princípio LIFO (Last In, First Out), que significa
 justamente "último a entrar,
@@ -4117,7 +4017,7 @@ primeiro a sair".
 
 Gabarito: Certo
 
-Item. 10. (FGV - 2018 - AL-RO) Considere uma pilha de latas de sardinhas na prateleira
+10. (FGV - 2018 - AL-RO) Considere uma pilha de latas de sardinhas na prateleira
 de um supermercado.
 Assinale a estrutura de dados que mais se assemelha ao modo como essas latas são manuseadas.
 
@@ -4166,7 +4066,7 @@ Verdadeiro.
 
 Gabarito: Letra E
 
-Item. 11. (FGV - 2018 - MPE-AL) Considere as seguintes operações sobre uma estrutura de dados,
+11. (FGV - 2018 - MPE-AL) Considere as seguintes operações sobre uma estrutura de dados,
 inicialmente
 vazia, organizada na forma de pilhas (ou stack),
 
@@ -4193,7 +4093,6 @@ d) 6
 e) 2
 
 Comentários:
-
 
 Precisamos definir os comandos.
 
@@ -4229,7 +4128,7 @@ Ao fim, temos apenas o elemento 6.
 
 Gabarito: Letra D
 
-Item. 12. (CESPE - 2011 - FUB - Analista de Tecnologia da Informação - Específicos) As pilhas são
+12. (CESPE - 2011 - FUB - Analista de Tecnologia da Informação - Específicos) As pilhas são
 listas encadeadas
 cujos elementos são retirados e acrescentados sempre ao final, enquanto as filas são listas
 encadeadas
@@ -4244,7 +4143,7 @@ final.
 
 Gabarito: Errado
 
-Item. 13. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção
+13. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção
 de Sistemas) Na
 estrutura de dados do tipo lista, todo elemento novo que é introduzido na pilha
 torna-se o elemento
@@ -4265,9 +4164,7 @@ Definitivo, permaneceu
 como errada. E a justificativa dela foi: "A ausência de especificação do tipo de lista no item
 torna correta a
 
-
 ,
-
 
 informação nele apresentada, razão pela qual se opta pela alteração de seu gabarito". Vejam que
 bizarro: se
@@ -4279,7 +4176,7 @@ falar em
 
 Gabarito: Errado
 
-Item. 14. (CESPE - 2012 - TJ-RO - Analista Judiciário - Analista de Sistemas Suporte -
+14. (CESPE - 2012 - TJ-RO - Analista Judiciário - Analista de Sistemas Suporte -
 E) Visitas a sítios
 armazenadas em um navegador na ordem last-in-first-out é um exemplo de lista.
 
@@ -4291,7 +4188,7 @@ mas esse não é o foco da questão.
 
 Gabarito: Errado
 
-Item. 15. (ESAF - 2013 - DNIT - Analista Administrativo - Tecnologia da Informação)
+15. (ESAF - 2013 - DNIT - Analista Administrativo - Tecnologia da Informação)
 Assinale a opção correta
 relativa às operações básicas suportadas por pilhas.
 
@@ -4313,7 +4210,7 @@ elemento do topo; (e) Perfeito! Gabarito: E
 
 Gabarito: Errado
 
-Item. 16. (FCC - 2012 - TST - Analista de Sistemas - C) As pilhas e as filas são estruturas de dados
+16. (FCC - 2012 - TST - Analista de Sistemas - C) As pilhas e as filas são estruturas de dados
 essenciais para
 os sistemas computacionais. É correto afirmar que a pilha é conhecida como lista FIFO - First In
 First
@@ -4325,14 +4222,13 @@ Não! Pilha é LIFO e Fila é FIFO.
 
 Gabarito: Errado
 
-Item. 17. (FCC - 2012 - TRE/CE - Analista de Sistemas) Sobre pilhas é correto afirmar:
+17. (FCC - 2012 - TRE/CE - Analista de Sistemas) Sobre pilhas é correto afirmar:
 
 a) Uma lista LIFO (Last-ln/First-Out) é uma estrutura estática, ou seja, é uma
 coleção que não pode
 aumentar e diminuir durante sua existência.
 
 b) Os elementos na pilha são sempre removidos na mesma ordem em que foram inseridos.
-
 
 c) Uma pilha suporta apenas duas operações básicas, tradicionalmente denominadas push
 (insere um
@@ -4367,7 +4263,7 @@ sobre a estrutura. Bacana?
 
 Gabarito: Letra D
 
-Item. 18. (CESPE - 2011 - EBC - Analista - Engenharia de Software) As pilhas, também conhecidas como
+18. (CESPE - 2011 - EBC - Analista - Engenharia de Software) As pilhas, também conhecidas como
 listas
 LIFO ou PEPS, são listas lineares em que todas as operações de inserção e remoção de elementos são
 feitas por um único extremo da lista, denominado topo.
@@ -4380,7 +4276,7 @@ Sair, ou seja, FIFO.
 
 Gabarito: Errado
 
-Item. 19. (VUNESP - 2011 - TJM-SP - Analista de Sistemas - Judiciário) Lista do tipo LIFO (Last in,
+19. (VUNESP - 2011 - TJM-SP - Analista de Sistemas - Judiciário) Lista do tipo LIFO (Last in,
 First Out) e lista
 do tipo FIFO (Firstin,First Out) são, respectivamente, características das
 estruturas de dados
@@ -4402,8 +4298,7 @@ E aí, já está automático para responder? Tem que ser automática: Pilha (LIF
 
 Gabarito: Letra B
 
-
-Item. 20. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
+20. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
 Informação - Arquitetura de
 Tecnologia) A definição da estrutura pilha permite a inserção e a eliminação de itens,
 de modo que
@@ -4419,7 +4314,7 @@ Pilha como Pilha Encadeada
 
 Gabarito: Correto
 
-Item. 21. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da Informação -
+21. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da Informação -
 Administração de
 Dados) Na representação física de uma pilha sequencial, é necessário uso de uma
 variável ponteiro
@@ -4449,7 +4344,7 @@ será um ponteiro. Logo, discordo do gabarito!
 
 Gabarito: Correto
 
-Item. 22. (CESPE - 2009 - ANAC - Técnico Administrativo - Informática) As operações de inserir e
+22. (CESPE - 2009 - ANAC - Técnico Administrativo - Informática) As operações de inserir e
 retirar sempre
 afetam a base de uma pilha.
 
@@ -4459,7 +4354,7 @@ Não, sempre afetam o topo da pilha!
 
 Gabarito: Errado
 
-Item. 23. (FCC - 2009 - TRT - 16- REGIÃO (MA) - Técnico Judiciário - Tecnologia da
+23. (FCC - 2009 - TRT - 16- REGIÃO (MA) - Técnico Judiciário - Tecnologia da
 Informação) Pilha é uma
 estrutura de dados:
 
@@ -4473,7 +4368,6 @@ d) que pode ser implementada somente por meio de listas.
 
 e) cujo acesso aos seus elementos segue a lógica LIFO, apenas.
 
-
 Comentários:
 
 (a) Não, somente LIFO; (b) Não, somente pelo Topo; (c) Não, pode ser por listas; (d)
@@ -4482,7 +4376,7 @@ vetores; (e) Perfeito, é exatamente isso.
 
 Gabarito: Errado
 
-Item. 24. (CESPE- 2004-STJ-Analista de Sistemas) Em geral, em uma pilha só se admite ter acesso ao
+24. (CESPE- 2004-STJ-Analista de Sistemas) Em geral, em uma pilha só se admite ter acesso ao
 elemento
 localizado em seu topo. Isso se adapta perfeitamente à característica das seqüências em
 que só o
@@ -4494,7 +4388,7 @@ Perfeito, é exatamente isso - muda-se apenas a perspectiva!
 
 Gabarito: Correto
 
-Item. 25. (CESPE - 2004 - STJ - Analista de Sistemas) A seguir, está representada corretamente uma
+25. (CESPE - 2004 - STJ - Analista de Sistemas) A seguir, está representada corretamente uma
 operação de
 desempilhamento em uma pilha de nome p.
 
@@ -4513,7 +4407,7 @@ topo será o elemento anterior ao topo. O que ocorreu? Eu desempilhei a pilha!
 
 Gabarito: Correto
 
-Item. 26. (CESPE - 2010 - TRE/MT - Analista de Sistemas - A) O tipo nó é inadequado
+26. (CESPE - 2010 - TRE/MT - Analista de Sistemas - A) O tipo nó é inadequado
 para implementar
 estruturas de dados do tipo pilha.
 
@@ -4525,7 +4419,7 @@ tipos nós!
 
 Gabarito: Errado
 
-Item. 27. (FGV - 2015 - DPE/MT - Analista de Sistemas) Assinale a opção que apresenta a estrutura de
+27. (FGV - 2015 - DPE/MT - Analista de Sistemas) Assinale a opção que apresenta a estrutura de
 dados na
 qual o primeiro elemento inserido é o último a ser removido.
 
@@ -4534,7 +4428,6 @@ b) Fila
 c) Pilha
 d) Grafo
 e) Tabela de dispersão
-
 
 Comentários:
 
@@ -4550,7 +4443,7 @@ Conforme vimos em aula, trata-se da Pilha. Gabarito: C
 
 Gabarito: Correto
 
-Item. 28. (FCC - 2012 - MPE/AP - Técnico Ministerial - Informática) Nas estruturas de dados,
+28. (FCC - 2012 - MPE/AP - Técnico Ministerial - Informática) Nas estruturas de dados,
 
 a) devido às características das operações da fila, o primeiro elemento a ser inserido será o
 último a ser
@@ -4588,8 +4481,7 @@ pilha. Item certo; (e) na verdade essas características são das filas. Item er
 
 Gabarito: Letra D
 
-
-Item. 1. (IBFC - 2022 - AFEAM) Assinale, das alternativas abaixo, a única que identifica
+1. (IBFC - 2022 - AFEAM) Assinale, das alternativas abaixo, a única que identifica
 respectivamente uma
 Estrutura de Dados do tipo FIFO (First In, First Out) e uma outra com a Estrutura de dados do tipo
 LIFO
@@ -4612,7 +4504,7 @@ pilha.
 
 Gabarito: Letra D
 
-Item. 2. (IF-TO - 2022 - IF-TO) Em estrutura de dados os conceitos de FILAS e PILHAS
+2. (IF-TO - 2022 - IF-TO) Em estrutura de dados os conceitos de FILAS e PILHAS
 são usados para
 implementar diversos recursos computacionais que vão desde compiladores e
 interpretadores a
@@ -4648,7 +4540,7 @@ padrão LIFO (last-in first-out), ou seja, o último a entrar é o primeiro a sa
 
 Gabarito: Letra D
 
-Item. 3. (UFRPE - 2022 - UFRPE) Sobre algoritmos e estrutura de dados, assinale a afirmativa correta.
+3. (UFRPE - 2022 - UFRPE) Sobre algoritmos e estrutura de dados, assinale a afirmativa correta.
 
 a) Listas encadeadas ou ligadas são estruturas de dados estáticas, o que significa que o número
 de nós não pode
@@ -4657,7 +4549,6 @@ ser modificado durante a execução do programa.
 b) Pilhas são estruturas de dados do tipo FIFO (first-in first-out), em que o primeiro elemento
 a ser inserido será
 o primeiro a ser retirado.
-
 
 c) Árvores são estruturas de dados do tipo FIFO (first-in first-out), em que o primeiro elemento
 a ser inserido
@@ -4703,7 +4594,7 @@ Não, é possível implementar pilhas com vetores também. Falso.
 
 Gabarito: Letra D
 
-Item. 4. (CESPE/CEBRASPE - 2021 - SEED-PR) Em determinada estrutura de dados, os valores seguem a regra
+4. (CESPE/CEBRASPE - 2021 - SEED-PR) Em determinada estrutura de dados, os valores seguem a regra
 segundo a qual o último a entrar é o primeiro a sair.
 
 Essa estrutura é do tipo
@@ -4736,7 +4627,7 @@ próximo.
 
 Gabarito: Letra B
 
-Item. 5. (CESPE/CEBRASPE - 2021 - SEED-PR) Na estrutura de dados denominada FILA,
+5. (CESPE/CEBRASPE - 2021 - SEED-PR) Na estrutura de dados denominada FILA,
 
 a) o último elemento a ser inserido será o primeiro a ser retirado.
 
@@ -4745,7 +4636,6 @@ remove-se item do
 início.
 
 c) os elementos de um mesmo tipo de dado estão organizados de maneira sequencial e ordenada.
-
 
 d) os elementos não estão necessariamente armazenados sequencialmente na memória por ordem
 descrente
@@ -4788,7 +4678,7 @@ Isso seria uma matriz, e não uma fila. Falso.
 
 Gabarito: Letra B
 
-Item. 6. (CESPE/CEBRASPE - 2017 - TRT-7) A lógica FIFO (first-in first-out) é utilizada na estrutura de
+6. (CESPE/CEBRASPE - 2017 - TRT-7) A lógica FIFO (first-in first-out) é utilizada na estrutura de
 dados do
 tipo
 a) pointer ou ponteiros.
@@ -4821,13 +4711,12 @@ seguir lógica FIFO ou LIFO.
 
 Gabarito: Letra B
 
-Item. 7. (CESPE/CEBRASPE - 2017 - TRF-1) Acerca de estrutura de dados, julgue o próximo item.
+7. (CESPE/CEBRASPE - 2017 - TRF-1) Acerca de estrutura de dados, julgue o próximo item.
 
 A fila é uma lista de elementos em que os itens são sempre inseridos em uma das extremidades e
 excluídos da outra.
 
 Comentários:
-
 
 Fila é uma estrutura de dados que segue a lógica FIFO (first-in first-out) armazena elementos de
 forma sequencial,
@@ -4837,7 +4726,7 @@ certo.
 
 Gabarito: Certo
 
-Item. 8. (CESPE/CEBRASPE-2018-TCE-MG)
+8. (CESPE/CEBRASPE-2018-TCE-MG)
 
 Uma estrutura de dados em que o primeiro elemento inserido seja o primeiro elemento a ser retirado
 é denominada
@@ -4883,7 +4772,7 @@ Numa lista, é possível inserir ou remover de qualquer posição. Falso.
 
 Gabarito: Letra D
 
-Item. 9. (FCC - 2019 - TRF-4) O Round-Robin é um tipo de escalonamento preemptivo mais simples e
+9. (FCC - 2019 - TRF-4) O Round-Robin é um tipo de escalonamento preemptivo mais simples e
 consiste
 em repartir uniformemente o tempo da CPU entre todos os processos prontos para a
 execução. Os
@@ -4908,7 +4797,6 @@ e) árvore binária.
 
 Comentários:
 
-
 No Round-Robin, os processos são organizados em uma estrutura de dados. Fatias de tempo da CPU são
 locadas
 para cada um desses processos. No caso de um processo não terminar dentro da sua fatia de tempo,
@@ -4932,7 +4820,7 @@ Sobre as demais estruturas de dados:
 
 Gabarito: Letra C
 
-Item. 10. (FCC - 2013 - MPE-MA) Ana precisa utilizar uma estrutura de dados para
+10. (FCC - 2013 - MPE-MA) Ana precisa utilizar uma estrutura de dados para
 gerenciar trabalhos de
 impressão em uma impressora compartilhada por vários computadores em uma rede. As regras dessa
 estrutura devem permitir que os trabalhos sejam impressos na ordem em que forem enviados, ou seja,
@@ -4988,8 +4876,7 @@ Certo!
 
 Gabarito: Letra E
 
-Item. 11. (FCC - 2013 - TRE-SP) No que se refere a estruturas de dados é INCORRETO afirmar:
-
+11. (FCC - 2013 - TRE-SP) No que se refere a estruturas de dados é INCORRETO afirmar:
 
 a) Numa fila dupla, os elementos podem ser inseridos e removidos de qualquer um dos extremos da
 fila.
@@ -5057,7 +4944,7 @@ endereço do primeiro. Então, é preciso percorrer todos. Certo.
 
 Gabarito: Letra B
 
-Item. 12. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
+12. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
 Informação - Análise de
 Sistemas) Em um programa existe a necessidade de guardar todas as alterações feitas em determinado
 dado para que seja possível desfazer alterações feitas ao longo de toda a sua
@@ -5076,8 +4963,7 @@ Dessa forma, resgata-se o último estado válido e, não, o primeiro.
 
 Gabarito: Errado
 
-
-Item. 13. (CESPE - 2012 - TST - Analista de Sistemas - A) As pilhas e as filas são estruturas de dados
+13. (CESPE - 2012 - TST - Analista de Sistemas - A) As pilhas e as filas são estruturas de dados
 essenciais
 para os sistemas computacionais. É correto afirmar que a fila é conhecida como lista LIFO - Last In
 First
@@ -5089,7 +4975,7 @@ Não, Fila é FIFO!
 
 Gabarito: Errado
 
-Item. 14. (CESPE - 2012 - TRE-RJ - Técnico Judiciário - Programação de Sistemas) As filas são
+14. (CESPE - 2012 - TRE-RJ - Técnico Judiciário - Programação de Sistemas) As filas são
 estruturas com base
 no princípio LIFO (last in, first out), no qual os dados que forem inseridos primeiro
 na fila serão os
@@ -5102,7 +4988,7 @@ Não, isso é uma Pilha (LIFO).
 
 Gabarito: Errado
 
-Item. 15. (FCC - 2012 - MPE-AP-Analista de Sistemas - A) Nas estruturas de dados, devido às
+15. (FCC - 2012 - MPE-AP-Analista de Sistemas - A) Nas estruturas de dados, devido às
 características das
 operações da fila, o primeiro elemento a ser inserido será o último a ser retirado. Estruturas
 desse tipo
@@ -5114,7 +5000,7 @@ Não, será o primeiro a ser retirado - são do tipo FIFO!
 
 Gabarito: Errado
 
-Item. 16. (FCC - 2012 - MPE-AP - Analista de Sistemas - C) Nas estruturas de dados, a fila é uma lista
+16. (FCC - 2012 - MPE-AP - Analista de Sistemas - C) Nas estruturas de dados, a fila é uma lista
 linear na
 qual as operações de inserção e retirada ocorrem apenas no início da lista.
 
@@ -5124,7 +5010,7 @@ Não, isso é a definição de Pilha!
 
 Gabarito: Errado
 
-Item. 17. (FCC - 2012 - TRE-SP - Analista Judiciário - Análise de Sistemas - D) Pela
+17. (FCC - 2012 - TRE-SP - Analista Judiciário - Análise de Sistemas - D) Pela
 definição de fila, se os
 elementos são inseridos por um extremo da lista linear, eles só podem ser removidos pelo outro.
 
@@ -5134,8 +5020,7 @@ Exato! Essa é a definição de fila: insere-se por um extremo e remove-se por o
 
 Gabarito: Correto
 
-
-Item. 18. (FCC - 2011 - TRT - 19- Região (AL) - Analista Judiciário - Tecnologia da Informação) FIFO
+18. (FCC - 2011 - TRT - 19- Região (AL) - Analista Judiciário - Tecnologia da Informação) FIFO
 refere-se a
 estruturas de dados do tipo:
 
@@ -5155,7 +5040,7 @@ Trata-se da Fila!
 
 Gabarito: Letra A
 
-Item. 19. (ESAF - 2010 - CVM - Analista de Sistemas - prova 2) Uma fila é um tipo de lista linear em
+19. (ESAF - 2010 - CVM - Analista de Sistemas - prova 2) Uma fila é um tipo de lista linear em
 que:
 
 a) as inserções são realizadas em um extremo e as remoções no outro extremo.
@@ -5175,7 +5060,7 @@ FIFO!
 
 Gabarito: Letra A
 
-Item. 20. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) No armazenamento de dados
+20. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) No armazenamento de dados
 pelo método FIFO
 (first in - first out), a estrutura de dados é representada por uma fila, em cuja
 posição final ocorrem
@@ -5187,7 +5072,7 @@ Perfeito! Basta lembrar de uma fila: o primeiro a entrar é o primeiro a sair.
 
 Gabarito: Correto
 
-Item. 21. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da Informação) Entre
+21. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da Informação) Entre
 alguns tipos
 de estrutura de dados, podem ser citados os vetores, as pilhas e as filas.
 
@@ -5197,8 +5082,7 @@ Perfeito, são todos exemplos de estruturas de dados!
 
 Gabarito: Correto
 
-
-Item. 22. (CESPE - 2004 - SES/PA - Analista de Sistemas) Uma estrutura mais geral que as pilhas e
+22. (CESPE - 2004 - SES/PA - Analista de Sistemas) Uma estrutura mais geral que as pilhas e
 filas é o deque,
 em que as inserções, retiradas e acessos são permitidos em ambas as extremidades.
 
@@ -5208,7 +5092,7 @@ Perfeito, deques permitem todas essas operações!
 
 Gabarito: Correto
 
-Item. 23. (CESPE - 2009 - TCE/AC - Analista de Sistemas - D) Um deque (double ended queue) requer
+23. (CESPE - 2009 - TCE/AC - Analista de Sistemas - D) Um deque (double ended queue) requer
 inserção
 e remoção no topo de uma lista e permite a implementação de filas com algum tipo de
 prioridade. A
@@ -5224,7 +5108,7 @@ prioridade, mas geralmente é realizada com a utilização de filas duplamente e
 
 Gabarito: Errado
 
-Item. 24. (FCC - 2007 - TRT/23 - Analista de Sistemas) Uma estrutura de dados com vocação de FIFO de
+24. (FCC - 2007 - TRT/23 - Analista de Sistemas) Uma estrutura de dados com vocação de FIFO de
 duplo
 fim e que admite a rápida inserção e remoção em ambos os extremos é:
 
@@ -5244,7 +5128,7 @@ Trata-se de um Deque-fila duplamente encadeada!
 
 Gabarito: Letra C
 
-Item. 25. (CESPE - 2004 - PBV/RR - Analista de Sistemas) As filas com prioridade são listas lineares
+25. (CESPE - 2004 - PBV/RR - Analista de Sistemas) As filas com prioridade são listas lineares
 nas quais os
 elementos são pares da forma (qi, pi), em que q é o elemento do tipo base e p é uma prioridade. Elas
 possuem uma política de fila do tipo FIFO (first in first out) entre os elementos de mesma
@@ -5256,8 +5140,7 @@ Perfeito! É assim que funciona a prioridade em conjunto com filas. Gabarito: C
 
 Gabarito: Correto
 
-
-Item. 26. (CESPE - 2004 - STJ - Analista de Sistemas) A seguir, está representada corretamente uma
+26. (CESPE - 2004 - STJ - Analista de Sistemas) A seguir, está representada corretamente uma
 operação de
 retirada em uma fila de nome f.
 
@@ -5290,7 +5173,7 @@ aquele elemento anterior.
 
 Gabarito: Errado
 
-Item. 27. (FCC - 2016 - Prefeitura de Teresina - PI - Analista Tecnológico - Analista de
+27. (FCC - 2016 - Prefeitura de Teresina - PI - Analista Tecnológico - Analista de
 Suporte Técnico)
 Considerando uma estrutura de dados do tipo fila, e a seguinte sequência de comandos sobre essa fila
 (sendo que o comando Push representa uma inserção de elemento e o comando Pop
@@ -5319,14 +5202,13 @@ dois pop's, os elementos
 
 Gabarito: Letra D
 
-Item. 28. (FCC - 2016 - TRT - 23- REGIÃO (MT) - Técnico Judiciário - Tecnologia da
+28. (FCC - 2016 - TRT - 23- REGIÃO (MT) - Técnico Judiciário - Tecnologia da
 Informação) Estruturas de
 dados básicas, como as pilhas e filas, são usadas em uma gama variada de aplicações.
 As filas, por
 exemplo, suportam alguns métodos essenciais, como o:
 
 a) enqueue(x), que insere o elemento x no fim da fila, sobrepondo o último elemento.
-
 
 b) dequeue(), que remove e retorna o elemento do começo da fila; um erro ocorrerá
 se a fila estiver
@@ -5352,7 +5234,7 @@ portanto, inclui na fila, enquanto dequeue remove!
 
 Gabarito: Letra B
 
-Item. 29. (FCC - 2017 - TRE/BA - Analista de Sistemas) A estrutura que, além de ser similar à fila, é
+29. (FCC - 2017 - TRE/BA - Analista de Sistemas) A estrutura que, além de ser similar à fila, é
 apropriada
 para ampliar as características desta, permitindo inserir e retirar elementos tanto do
 início quanto do
@@ -5389,12 +5271,11 @@ essas duas estruturas. Bacana?
 
 Gabarito: Letra C
 
-
 QUESTõES CoMENTADAS - ESTRUTURAS DE DADoS -
 
 ÁRVoRE #42 - MULTIBANCAS
 
-Item. 1. (FGV - 2022 - SEMSA Manaus) Observe a configuração de uma árvore B, onde uma página pode ter no
+1. (FGV - 2022 - SEMSA Manaus) Observe a configuração de uma árvore B, onde uma página pode ter no
 máximo 4 filhas, contendo as chaves 7,10,15, 18, 20, 22, 26, 30, 35, 40.
 
 Após a inserção da chave 5, a configuração das chaves do nó raiz da árvore seria
@@ -5432,10 +5313,9 @@ O nó raiz é justamente o primeiro da árvore. Ou seja, a resposta é 10 20 30.
 
 Gabarito: Letra B
 
-Item. 2. (FGV - 2022 - SEMSA Manaus) Numa estrutura de dados do tipo Árvore B, onde cada nó não raiz
+2. (FGV - 2022 - SEMSA Manaus) Numa estrutura de dados do tipo Árvore B, onde cada nó não raiz
 pode
 conter entre d e 2.d chaves, a complexidade do algoritmo de busca é da ordem
-
 
 * 05152001900 - Everton
 Murilo Vieira
@@ -5469,7 +5349,7 @@ Isso é da ordem de log de N na base d, ou O(logdN).
 
 Gabarito: Letra B
 
-Item. 3. (UFPRE - 2022 - UFPRE) Acerca de estruturas de dados, assinale a alternativa correta.
+3. (UFPRE - 2022 - UFPRE) Acerca de estruturas de dados, assinale a alternativa correta.
 
 a) A estrutura denominada Pilha é considerada do tipo FIFO (first in, first out); o
 primeiro elemento inserido será
@@ -5529,14 +5409,13 @@ e) A estrutura denominada árvore AVL é uma árvore binária não balanceada, e
 cada nó representa uma
 diferença de altura entre as subárvores direita e esquerda de 1, 2 ou 3 nós.
 
-
 A árvore AVL é uma árvore binária balanceada, e a diferença entre as subárvores da
 direita e da esquerda é de no
 máximo 1 nó. Falso.
 
 Gabarito: Letra D
 
-Item. 4. (MetroCapital Soluções - 2022 - Prefeitura de Nova Odessa - SP) A Estrutura de dados (ED) é um
+4. (MetroCapital Soluções - 2022 - Prefeitura de Nova Odessa - SP) A Estrutura de dados (ED) é um
 modo
 particular de armazenamento e organização de dados em um computador de modo que possam
 ser
@@ -5565,13 +5444,12 @@ por nó.
 
 Gabarito: Letra E
 
-Item. 5. (CESPE/CEBRASPE-2020-TJ-PA)
+5. (CESPE/CEBRASPE-2020-TJ-PA)
 
 Thomas H. Cormen et al. Algoritmos teoria
 e prática. Editora Campus, v. 2, 2002. p. 207.
 
 De acordo com a figura anterior, o procedimento
-
 
 CONSULTA (x)
 
@@ -5602,7 +5480,7 @@ Significa que está procurando o menor valor da árvore. Ou seja, resposta é mi
 
 Gabarito: Letra B
 
-Item. 6. (CESPE/CEBRASPE - 2022 - Petrobrás) Uma árvore de decisão representa um determinado
+6. (CESPE/CEBRASPE - 2022 - Petrobrás) Uma árvore de decisão representa um determinado
 número de
 caminhos possíveis de decisão e os resultados de cada um deles, apresentando muitos
 pontos
@@ -5627,7 +5505,7 @@ uma construção de uma
 
 Gabarito: Correto
 
-Item. 7. (CESPE/CEBRASPE - 2022 - Petrobrás) Uma árvore de decisão representa um
+7. (CESPE/CEBRASPE - 2022 - Petrobrás) Uma árvore de decisão representa um
 determinado número de
 caminhos possíveis de decisão e os resultados de cada um deles, apresentando muitos
 pontos
@@ -5645,7 +5523,6 @@ aleatórias, que compõem as florestas aleatórias, pode ser realizada por meio 
 bootstrap dos dados, em que cada
 árvore é treinada com base no resultado de bootstrap_sample (inputs).
 
-
 Comentários:
 
 As florestas aleatórias correspondem a uma técnica de aprendizado de máquina em que se
@@ -5662,7 +5539,7 @@ previsões ou classificações.
 
 Gabarito: Correto
 
-Item. 8. (FGV - 2022 - MPE-GO) Árvores B são muito usadas na implementação de índices em bancos de
+8. (FGV - 2022 - MPE-GO) Árvores B são muito usadas na implementação de índices em bancos de
 dados.
 
 Uma árvore desse tipo é dita balanceada quando
@@ -5702,7 +5579,7 @@ altura fixa, e, portanto, balaceada. Verdadeiro.
 
 Gabarito: Letra E
 
-Item. 9. (FGV - 2018 - Câmara de Salvador - BA) Gerenciadores de bancos de
+9. (FGV - 2018 - Câmara de Salvador - BA) Gerenciadores de bancos de
 dados frequentemente
 empregam índices implementados na forma de árvores B. Nesse tipo de organização, considerando-se
 uma árvore na qual o número máximo de chaves numa página não folha é 19 (ou seja, d=20), o número
@@ -5723,7 +5600,6 @@ e) 316.
 Comentários:
 
 O limite superior da profundidade da árvore é d < 1 + log[d/2]((N+l)/2), sendo que:
-
 
 * d = a ordem da árvore, ou seja, o número máximo de chaves numa página não folha. Neste caso,
 d = 20.
@@ -5770,7 +5646,7 @@ inteiro, então é 7.
 
 Gabarito: Letra B
 
-Item. 10. (FGV - 2018 - MPE-AL) Em uma árvore B de ordem d, onde cada nó que não o raiz possui entre d e
+10. (FGV - 2018 - MPE-AL) Em uma árvore B de ordem d, onde cada nó que não o raiz possui entre d e
 2d
 chaves, estão armazenadas 30.000 chaves.
 
@@ -5808,7 +5684,6 @@ d < 1 + log[s](15000,5)
 Vamos calcular log[8](15000,5) multiplicando 8 por 8 até o valor ultrapassar 15.000,5:
 8*8 = 64 (2x)
 
-
 64*8 = 512 (3x)
 
 512*8 = 4.096 (4x)
@@ -5827,7 +5702,7 @@ Como a quantidade máxima de tentativas é um inteiro, então é 5.
 
 Gabarito: Letra B
 
-Item. 11. (FGV - 2018 - Banestes) Sobre as características de índices estruturados na forma de Btrees e
+11. (FGV - 2018 - Banestes) Sobre as características de índices estruturados na forma de Btrees e
 Hash
 tables, analise as afirmativas a seguir.
 
@@ -5894,10 +5769,9 @@ Errado.
 
 Gabarito: Letra B
 
-Item. 12. (FCC - 2017 -TRE-SP) Considere, hipoteticamente, que um Técnico do TRE-SP tem, em seu
+12. (FCC - 2017 -TRE-SP) Considere, hipoteticamente, que um Técnico do TRE-SP tem, em seu
 computador,
 a seguinte organização de um diretório
-
 
 Principal: Dados
 
@@ -5946,7 +5820,7 @@ quantidade máxima de níveis que ela possui. Note que ela possui 5 níveis.
 
 Gabarito: Letra D
 
-Item. 13. (FCC - 2019 - TRF-4) Determinada estrutura de dados foi projetada para minimizar o número de
+13. (FCC - 2019 - TRF-4) Determinada estrutura de dados foi projetada para minimizar o número de
 acessos à memória secundária. Como o número de acessos à memória secundária depende
 diretamente da altura da estrutura, esta foi concebida para ter uma altura inferior às
 estruturas
@@ -6006,7 +5880,7 @@ realizadas em tempo linear. É o contrário da Árvore B, que é balanceada.
 
 Gabarito: Letra B
 
-Item. 14. (FCC - 2015 - DPE-SP) Atenção: Para responder à próxima questão, considere as declarações em
+14. (FCC - 2015 - DPE-SP) Atenção: Para responder à próxima questão, considere as declarações em
 pseudocódigo abaixo.
 
 Considere que * indica ponteiro ou apontador.
@@ -6025,7 +5899,6 @@ novo <- aloca (*tipoNo)
 novo->info <- info
 novo->prox <- NULO
 
-
 se (inicio = NULO)
 então
 inicio <- novo
@@ -6036,7 +5909,6 @@ aux <- inicio
 enquanto (aux NULO) faça
 ant <- aux
 aux <- aux->prox
-
 
 Fim
 fim se
@@ -6060,7 +5932,6 @@ fim NULO;
 
 fim se
 
-
 Fim
 fim se
 libera (aux)
@@ -6083,7 +5954,7 @@ recursividade.
 e) árvores binárias balanceadas, nas quais, para cada nó, as alturas de suas subárvores diferem
 de, no máximo,
 
-Item. 2. Nelas, o custo das operações depende da altura da árvore, por isso elas devem ter a
+2. Nelas, o custo das operações depende da altura da árvore, por isso elas devem ter a
 maior altura possível.
 
 Comentários:
@@ -6099,7 +5970,6 @@ b) deques, que são pilhas que permitem inserir e remover dados em ambas as
 extremidades.
 Deques são listas, e não pilhas, que permitem inserir e remover dados em ambas as extremidades.
 Falso.
-
 
 c) árvores n-árias, estruturas de dados lineares que não são adequadas para representar dados
 que devem ser
@@ -6120,13 +5990,13 @@ necessariamente possui apenas dois nós filhos - é por meio de recursão. Certo
 e) árvores binárias balanceadas, nas quais, para cada nó, as alturas de suas subárvores diferem
 de, no máximo,
 
-Item. 2. Nelas, o custo das operações depende da altura da árvore, por isso elas devem ter a maior
+2. Nelas, o custo das operações depende da altura da árvore, por isso elas devem ter a maior
 altura possível.
 As árvores não podem ter a maior altura possível, e, sim, a menor altura possível. Errado.
 
 Gabarito: Letra D
 
-Item. 15. (FGV - 2022 - SEFAZ-AM) A estrutura de dados usada em índices multiníveis dinâmicos em banco
+15. (FGV - 2022 - SEFAZ-AM) A estrutura de dados usada em índices multiníveis dinâmicos em banco
 de
 dados relacionais, que garantem que tais estruturas sempre estejam balanceadas e que o
 espaço
@@ -6173,7 +6043,7 @@ Uma árvore binária não necessariamente é balanceada, portanto não é a resp
 
 Gabarito: Letra D
 
-Item. 16. (FGV - 2021 - IMBEL) Considere uma árvore B+ com as seguintes características.
+16. (FGV - 2021 - IMBEL) Considere uma árvore B+ com as seguintes características.
 
 I. A raiz é uma folha ou um nó que contém, no mínimo, dois filhos.
 
@@ -6184,7 +6054,6 @@ que possui entre
 1 e 2d-l chaves.
 
 IV. Somente os nós folhas contêm dados associados às chaves.
-
 
 Assinale o número máximo de acessos necessários para localizar uma chave, com d=10,
 num universo de 10 milhões
@@ -6207,7 +6076,7 @@ Iogiol0000000 = 7.
 
 Gabarito: Letra B
 
-Item. 17. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) As operações
+17. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) As operações
 de
 busca em uma árvore binária não a alteram, enquanto operações de inserção e remoção
 de nós
@@ -6221,7 +6090,7 @@ Remoção podem provocar diversas mudanças estruturais.
 
 Gabarito: Correto
 
-Item. 18. (CETAP - 2010 - AL-RR - Analista de Sistemas - A) Uma árvore binária é aquela que tem como
+18. (CETAP - 2010 - AL-RR - Analista de Sistemas - A) Uma árvore binária é aquela que tem como
 conteúdo
 somente valores binários.
 
@@ -6231,7 +6100,7 @@ Não! Uma árvore binária é aquela que tem, no máximo, grau 2!
 
 Gabarito: Errado
 
-Item. 19. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados)
+19. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados)
 O tipo de dados
 árvore representa organizações hierárquicas entre dados.
 
@@ -6241,10 +6110,9 @@ Perfeito, observem que alguns autores tratam Tipos de Dados como sinônimo de Es
 
 Gabarito: Correto
 
-Item. 20. (CETAP - 2010 - AL-RR - Analista de Sistemas - B) Uma árvore é composta por duas raízes,
+20. (CETAP - 2010 - AL-RR - Analista de Sistemas - B) Uma árvore é composta por duas raízes,
 sendo uma
 principal e a outra secundária.
-
 
 Comentários:
 
@@ -6252,7 +6120,7 @@ Não, uma árvore possui somente um nó raiz!
 
 Gabarito: Errado
 
-Item. 21. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) Denomina-se árvore binária a que possui
+21. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) Denomina-se árvore binária a que possui
 apenas
 dois nós.
 
@@ -6262,7 +6130,7 @@ Não, árvore binária é aquela em que cada nó tem, no máximo, dois filhos!
 
 Gabarito: Errado
 
-Item. 22. (FUNCAB - 2010 - SEJUS-RO - Analista de Sistemas - II) Árvores são estruturas de dados
+22. (FUNCAB - 2010 - SEJUS-RO - Analista de Sistemas - II) Árvores são estruturas de dados
 estáticas com
 sua raiz representada no nível um.
 
@@ -6274,7 +6142,7 @@ para autor).
 
 Gabarito: Errado
 
-Item. 23. (CESPE - 2009 - ANAC - Especialista em Regulação - Economia) Considerando-se uma
+23. (CESPE - 2009 - ANAC - Especialista em Regulação - Economia) Considerando-se uma
 árvore binária
 completa até o nível 5, então a quantidade de folhas nesse nível será 24.
 
@@ -6286,7 +6154,7 @@ fórmula 2d, portanto 25.
 
 Gabarito: Errado
 
-Item. 24. (CESPE - 2009 - ANAC - Analista de Sistemas) Uma árvore binária completa até o
+24. (CESPE - 2009 - ANAC - Analista de Sistemas) Uma árvore binária completa até o
 nível 10 tem 2.047
 nós.
 
@@ -6296,7 +6164,7 @@ Se possui 10 níveis, possui (2d+l -1): 2047 nós!
 
 Gabarito: Correto
 
-Item. 25. (FGV - 2015 - DPE/MT - Analista de Sistemas) No desenvolvimento de sistemas, a
+25. (FGV - 2015 - DPE/MT - Analista de Sistemas) No desenvolvimento de sistemas, a
 escolha de
 estruturas de dados em memória é especialmente relevante. Dentre outras classificações,
 é possível
@@ -6337,7 +6205,7 @@ Conforme vimos em aula, trata-se de pilha e árvore respectivamente.
 
 Gabarito: Letra D
 
-Item. 26. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) As listas, pilhas, filas e árvores são
+26. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) As listas, pilhas, filas e árvores são
 estruturas de
 dados que têm como principal característica a sequencialidade dos seus elementos.
 
@@ -6347,7 +6215,7 @@ Não! Árvores ntêm como principal característica a sequencialidade dos seus e
 
 Gabarito: Errado
 
-Item. 27. (FCC - 2012 - MPE-AP - Analista Ministerial - Tecnologia da Informação - A) A árvore é uma
+27. (FCC - 2012 - MPE-AP - Analista Ministerial - Tecnologia da Informação - A) A árvore é uma
 estrutura
 linear que permite representar uma relação de hierarquia. Ela possui um nó raiz e
 subárvores não
@@ -6359,12 +6227,11 @@ Comentários:
 
 Gabarito: Errado
 
-Item. 28. (CESPE - 2010 -TRE/MT - Analista de Sistemas - E) O uso de recursividade é totalmente
+28. (CESPE - 2010 -TRE/MT - Analista de Sistemas - E) O uso de recursividade é totalmente
 inadequado
 na implementação de operações para manipular elementos de uma estrutura de dados do tipo árvore.
 
 *
-
 
 Comentários:
 
@@ -6372,7 +6239,7 @@ Pelo contrário, é fundamental para implementação de operações.
 
 Gabarito: Errado
 
-Item. 29. (FCC - 2011 - TRT - 19- Região (AL) - Técnico Judiciário - Tecnologia da Informação) Em uma
+29. (FCC - 2011 - TRT - 19- Região (AL) - Técnico Judiciário - Tecnologia da Informação) Em uma
 árvore
 binária, todos os nós têm grau:
 
@@ -6392,7 +6259,7 @@ Olha a pegadinha! Todos os nós têm grau 0 (Folha), 1 (Único filho) ou 2 (Dois
 
 Gabarito: Errado
 
-Item. 30. (CESPE - 2011 - STM - Analista de Sistemas) Enquanto uma lista encadeada somente pode ser
+30. (CESPE - 2011 - STM - Analista de Sistemas) Enquanto uma lista encadeada somente pode ser
 percorrida de um único modo, uma árvore binária pode ser percorrida de muitas maneiras diferentes.
 
 Comentários:
@@ -6426,8 +6293,7 @@ Logo, uma árvore pode ser percorrida de modo pré-fixado, in-fixado e pós-fixa
 
 Gabarito: Correto
 
-
-Item. 31. (FCC - 2016 - Prefeitura de Teresina - PI - Analista Tecnológico - Analista de Suporte
+31. (FCC - 2016 - Prefeitura de Teresina - PI - Analista Tecnológico - Analista de Suporte
 Técnico)
 Considerando a estrutura de dados denominada árvore,
 
@@ -6457,7 +6323,7 @@ mesma profundidade; (e) Certo!
 
 Gabarito: Letra E
 
-Item. 32. (CESPE - 2017 - TRE/BA - Analista de Sistemas) No estabelecimento de uma estrutura
+32. (CESPE - 2017 - TRE/BA - Analista de Sistemas) No estabelecimento de uma estrutura
 hierárquica, foi
 definida a seguinte árvore binária S:
 
@@ -6492,13 +6358,11 @@ Letra C (11( 10(9(8))(14(13)(15))) está quase certa, mas faltou um parêntese:
 
 Gabarito: Anulada
 
-
-Item. 33. (CESGRANRIO - 2012 - PETROBRÁS - Analista de Sistemas) Qual figura representa uma árvore AVL?
+33. (CESGRANRIO - 2012 - PETROBRÁS - Analista de Sistemas) Qual figura representa uma árvore AVL?
 
 a)
 
 d)
-
 
 e)
 
@@ -6531,10 +6395,9 @@ da esquerda;
 requisitos para ser
 definida como uma Árvore AVL.
 
-
 Gabarito: Letra E
 
-Item. 34. (CESGRANRIO - 2006 - DECEA - Analista de Sistemas) Suponha a seguinte árvore AVL.
+34. (CESGRANRIO - 2006 - DECEA - Analista de Sistemas) Suponha a seguinte árvore AVL.
 
 A inserção do elemento 30 nessa árvore:
 
@@ -6568,7 +6431,7 @@ sentido; (e) Errado. Também nenhum sentido.
 
 Gabarito: Letra B
 
-Item. 35. (CESPE - 2012 - TJ/RO - Analista de Sistemas) Assinale a opção em que é
+35. (CESPE - 2012 - TJ/RO - Analista de Sistemas) Assinale a opção em que é
 apresentado exemplo de
 estrutura de informação do tipo abstrata, balanceada, não linear e com relacionamento hierárquico.
 
@@ -6576,7 +6439,6 @@ a) lista duplamente encadeada
 b) árvore binária
 c) pilha
 d) árvore AVL
-
 
 e)deque
 
@@ -6588,7 +6450,7 @@ relacionamento hierárquico?
 
 Gabarito: Letra D
 
-Item. 36. (FCC - 2008 - TRT/18 - Analista de Sistemas) Árvore AVL balanceada em altura significa que,
+36. (FCC - 2008 - TRT/18 - Analista de Sistemas) Árvore AVL balanceada em altura significa que,
 para cada
 nó da árvore, a diferença entre as alturas das suas sub- árvores (direita e esquerda) sempre será:
 
@@ -6622,7 +6484,7 @@ de altura de suas subárvores de 1, 0 ou -1. Certinho?
 
 Gabarito: Letra E
 
-Item. 37. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas) Uma árvore AVL é uma estrutura de dados
+37. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas) Uma árvore AVL é uma estrutura de dados
 muito usada para armazenar dados em memória. Ela possui algumas propriedades que fazem com que
 sua altura tenha uma relação muito específica com o número de elementos nela
 armazenados. Para
@@ -6641,7 +6503,6 @@ d) 3
 e) 2
 
 Comentários:
-
 
 Galera, vocês precisam saber uma coisa: uma minoria dos autores considera que as
 folhas de uma árvore
@@ -6667,14 +6528,13 @@ Vejam na imagem acima! Coloquei 0003 e não desbalanceou; coloquei 0002, desbala
 na última eu
 tive que rebalancear. Vamos inserir o último:
 
-
 Pronto! Com seis nós, a altura máxima que atingiremos será 3. Portanto, a resposta
 para nossa questão é
 Letra D.
 
 Gabarito: Letra D
 
-Item. 38. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas) Uma árvore AVL é uma árvore binária de
+38. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas) Uma árvore AVL é uma árvore binária de
 busca autobalanceada que respeita algumas propriedades fundamentais. Como todas as
 árvores, ela
 tem uma propriedade chamada altura, que é igual ao valor da altura de sua raiz.
@@ -6701,8 +6561,7 @@ Errado, uma árvore com seis nós e altura igual a três também está balancead
 
 Gabarito: Letra D
 
-
-Item. 39. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas) Após a inserção de um nó, é
+39. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas) Após a inserção de um nó, é
 necessário
 verificar cada um dos nós ancestrais desse nó inserido, relativamente à consistência
 com as regras
@@ -6739,7 +6598,7 @@ maior do que 1, portanto a primeira está verdadeira e a segunda falsa.
 
 Gabarito: Letra C
 
-Item. 40. (CESGRANRIO - 2010 - EPE - Analista de Sistemas) Um programador decidiu utilizar, em
+40. (CESGRANRIO - 2010 - EPE - Analista de Sistemas) Um programador decidiu utilizar, em
 determinado
 sistema de análise estatística, uma árvore AVL como estrutura de dados.
 Considerando-se n a
@@ -6775,12 +6634,11 @@ O(log n)
 Remoção O(log n)
 O(log n)
 
-
 Questão tranquila! Trata-se do O(log n).
 
 Gabarito: Letra B
 
-Item. 41. (CESGRANRIO - 2012 - PETROBRÁS - Analista de Sistemas) Todos os N nomes de uma
+41. (CESGRANRIO - 2012 - PETROBRÁS - Analista de Sistemas) Todos os N nomes de uma
 lista de
 assinantes de uma companhia telefônica foram inseridos, em ordem alfabética, em três
 estruturas de
@@ -6836,7 +6694,7 @@ Questão tranquila! Trata-se do 0(n), O(log n) e O(log n) respectivamente.
 
 Gabarito: Letra D
 
-Item. 42. (IBFC - 2014 - TRE/AM - Analista de Sistemas) Quanto ao Algoritmo e estrutura de dados no
+42. (IBFC - 2014 - TRE/AM - Analista de Sistemas) Quanto ao Algoritmo e estrutura de dados no
 caso de
 árvore AVL (ou árvore balanceada pela altura), analise as afirmativas abaixo, dê valores Verdadeiro
 (V)
@@ -6848,9 +6706,7 @@ suas sub-árvores (direita e esquerda) não é maior do que um.
 () Caso a árvore não esteja balanceada é necessário seu balanceamento através da rotação simples ou
 rotação dupla.
 
-
 ,
-
 
 Assinale a alternativa correta:
 
@@ -6868,7 +6724,7 @@ A primeira alternativa está impecável, assim como a segunda. Vimos exaustivame
 
 Gabarito: Letra D
 
-Item. 43. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas) Uma sequência desordenada de números
+43. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas) Uma sequência desordenada de números
 armazenada em um vetor é inserida em uma árvore AVL. Após a inserção nesta árvore, é
 feito um
 percurso em ordem simétrica (em ordem) e o valor de cada nó visitado é inserido em uma pilha. Depois
@@ -6908,16 +6764,14 @@ retiramos do topo (maior) para a base (menor), logo em ordem descendente.
 
 Gabarito: Letra B
 
-Item. 44. (FGV - 2009 - MEC - Analista de Sistemas) Acerca das estruturas de dados
+44. (FGV - 2009 - MEC - Analista de Sistemas) Acerca das estruturas de dados
 Árvores, analise as
 afirmativas a seguir.
 
 I. A árvore AVL é uma árvore binária com uma condição de balanço, porém não completamente
 balanceada.
 
-
 ,
-
 
 II. Árvores admitem tratamento computacional eficiente quando comparadas às estruturas mais
 genéricas como os grafos.
@@ -6945,7 +6799,7 @@ chave da raiz.
 
 Gabarito: Letra B
 
-Item. 45. (CESPE - 2014 - TJ/SE - Analista de Sistemas) Em uma árvore AVL (Adelson-Velsky e Landis),
+45. (CESPE - 2014 - TJ/SE - Analista de Sistemas) Em uma árvore AVL (Adelson-Velsky e Landis),
 caso a
 diferença de altura entre as sub-árvores de um nó seja igual a 2 e a diferença de altura entre o nó
 filho
@@ -6971,15 +6825,13 @@ direita no Ramo 0025-
 entanto, o Gabarito
 Definitivo foi Correto! Sinceramente, não faço ideia de onde o CESPE tirou isso...
 
-
 *
-
 
 (I)
 
 Gabarito: Letra C
 
-Item. 46. (CESPE - 2010 - PETROBRÁS - Analista de Sistemas) As árvores usadas como estruturas de
+46. (CESPE - 2010 - PETROBRÁS - Analista de Sistemas) As árvores usadas como estruturas de
 pesquisa
 têm características especiais que garantem sua utilidade e propriedades como facilidade de acesso
 aos
@@ -7019,8 +6871,7 @@ encontramos o 33; (III) Correto. Trata-se de um Árvore Binária sem filhos.
 
 Gabarito: Letra E
 
-
-Item. 47. (CESPE - 2010 - PETROBRÁS - Analista de Sistemas) No sistema de dados do
+47. (CESPE - 2010 - PETROBRÁS - Analista de Sistemas) No sistema de dados do
 Departamento de
 Recursos Humanos de uma grande empresa multinacional, os registros de
 funcionários são
@@ -7058,8 +6909,7 @@ Ramo 18-23. O resultado
 
 Gabarito: Letra D
 
-
-Item. 48. (CESPE - 2014 - TJ/SE - Analista de Sistemas) Existem dois vetores, chamados A
+48. (CESPE - 2014 - TJ/SE - Analista de Sistemas) Existem dois vetores, chamados A
 e B, que estão
 ordenados e contêm N elementos cada, respeitando a propriedade A[N-l]<B[0], onde os
 índices de
@@ -7121,9 +6971,7 @@ diz que você retira os elementos da pilha (também sempre pelo topo) e coloca d
 volta nos vetores. Logo,
 ficaria:
 
-
 ,
-
 
 - Vetor A = [1, 3, 5]
 
@@ -7135,10 +6983,9 @@ i=0, , N-l. Bacana?
 
 Gabarito: Letra A
 
-
 QUESTõES CoMENTADAS - GRAFoS - MULTIBANCAS
 
-Item. 1. (CESPE/CEBRASPE - 2017 -TRF-1) Acerca dos conceitos de árvores e grafos, julgue o item que se
+1. (CESPE/CEBRASPE - 2017 -TRF-1) Acerca dos conceitos de árvores e grafos, julgue o item que se
 segue.
 
 A soma dos graus de todos os vértices de um grafo é sempre par.
@@ -7152,7 +6999,7 @@ par.
 
 Gabarito: Certo
 
-Item. 2. (CESPE/CEBRASPE-2018-PF)
+2. (CESPE/CEBRASPE-2018-PF)
 
 Considerando a terminologia e os conceitos básicos de grafos, julgue o item a seguir,
 relativo ao grafo precedente.
@@ -7166,7 +7013,7 @@ deles é "três", e não "quatro".
 
 Gabarito: Errado
 
-Item. 3. (CESPE/CEBRASPE-2018-PF)
+3. (CESPE/CEBRASPE-2018-PF)
 
 Considerando a terminologia e os conceitos básicos de grafos, julgue o item a seguir,
 relativo ao grafo precedente.
@@ -7193,7 +7040,6 @@ os vértices D ou M. E existem caminhos mínimos entre eles, por exemplo:
 
 Existem caminhos maiores, se eu quiser fazer, por exemplo:
 
-
 * ABKLCD: tamanho 5
 
 * JBKLCD: tamanho 5
@@ -7208,7 +7054,7 @@ tamanho 4 - a maior que conseguimos encontrar. Portanto, o diâmetro do grafo é
 
 Gabarito: Certo
 
-Item. 4. (CESPE/CEBRASPE - 2018 - PF)
+4. (CESPE/CEBRASPE - 2018 - PF)
 
 Considerando a terminologia e os conceitos básicos de grafos, julgue o item a seguir, relativo ao
 grafo precedente.
@@ -7237,7 +7083,7 @@ Portanto:
 
 Gabarito: Certo
 
-Item. 5. (CESPE/CEBRASPE-2018-IFF)
+5. (CESPE/CEBRASPE-2018-IFF)
 
 Considerando o grafo precedente, assinale a opção correta.
 
@@ -7250,7 +7096,6 @@ c) Os arcos al e a2 são arcos irmãos.
 d) Os nós 2 e 3 têm grau 3.
 
 e) O grafo não pode ser classificado como conexo.
-
 
 Comentários:
 
@@ -7285,11 +7130,11 @@ e) O grafo não pode ser classificado como conexo.
 Um grafo conexo possui pelo menos um caminho entre todos os pares de nós. Neste grafo, não dá para
 chegar no nó
 
-Item. 5. Então o grafo não é conexo. Verdadeiro.
+5. Então o grafo não é conexo. Verdadeiro.
 
 Gabarito: Certo
 
-Item. 6. (CESPE/CEBRASPE - 2017 - TRE-TO) A estrutura de dados formada por conjuntos de
+6. (CESPE/CEBRASPE - 2017 - TRE-TO) A estrutura de dados formada por conjuntos de
 pontos (nós ou
 vértices) em um conjunto de linhas (arestas e arcos) que conectam vários pontos é denominada
 a) lista encadeada.
@@ -7333,7 +7178,7 @@ Falso.
 
 Gabarito: Letra C
 
-Item. 7. (CESPE/CEBRASPE - 2019 - TJ-AM) A respeito de lógica, estrutura e linguagem de programação,
+7. (CESPE/CEBRASPE - 2019 - TJ-AM) A respeito de lógica, estrutura e linguagem de programação,
 julgue
 o item seguinte.
 
@@ -7342,7 +7187,6 @@ o antecede ou aquele que é
 seu sucessor, e cada elemento está associado a somente um antecessor e a vários sucessores.
 
 Comentários:
-
 
 Em um grafo, cada vértice pode estar ligado a vários outros vértices por meio de arestas. Porém, os
 vértices em si não
@@ -7353,10 +7197,9 @@ não é correta.
 
 Gabarito: Errado
 
-Item. 8. (FCC - 2017 - ARTESP) Considere a estrutura de dados abaixo.
+8. (FCC - 2017 - ARTESP) Considere a estrutura de dados abaixo.
 
 o
-
 
 Esta estrutura representa cinco localidades indicadas por 0, 1, 2, 3, 4 com as rotas
 e as respectivas distâncias entre
@@ -7391,7 +7234,6 @@ a) partindo de qualquer uma das localidades é possível ir para todas as outras
 para a localidade de
 origem.
 
-
 É possível ir a qualquer uma das localidades para todas as outras, e voltar para a localidade de
 origem. A banca definiu
 este item como errado. Acredito que tenha considerado que é possível, mas não
@@ -7424,7 +7266,7 @@ e) é possível ir e voltar de todas as localidades adjacentes.
 
 Gabarito: Letra B
 
-Item. 9. (FCC - 2017 - ARTESP) Nas rodovias paulistas os veículos pagam pedágio em função
+9. (FCC - 2017 - ARTESP) Nas rodovias paulistas os veículos pagam pedágio em função
 do número de
 eixos e da sua categoria. Há 15 categorias de veículos. Para realizar o cálculo do pedágio, existe
 uma
@@ -7474,8 +7316,7 @@ As demais alternativas estão incorretas.
 
 Gabarito: Letra B
 
-
-Item. 10. (FCC - 2017 - ARTESP) Considere a estrutura abaixo que representa um problema de rotas em
+10. (FCC - 2017 - ARTESP) Considere a estrutura abaixo que representa um problema de rotas em
 pequena
 escala.
 
@@ -7527,8 +7368,7 @@ Portanto, a alternativa com o menor caminho é a letra C.
 
 Gabarito: Letra C
 
-Item. 11. (FCC - 2018 - DPE-AM) Considere o grafo abaixo.
-
+11. (FCC - 2018 - DPE-AM) Considere o grafo abaixo.
 
 A complexidade ciclomático é uma métrico que mede o complexidade de um determinado
 módulo (uma classe, um
@@ -7567,7 +7407,7 @@ Ou seja, Cc = 17 - 13 + 2 = 6.
 
 Gabarito: Letra A
 
-Item. 12. (FGV - 2019 - DPE-RJ) Para que um sistema seja testado adequadamente, é preciso
+12. (FGV - 2019 - DPE-RJ) Para que um sistema seja testado adequadamente, é preciso
 realizar uma
 quantidade mínima de testes. Para apoiar essa definição, foi criada a Complexidade
 Ciclomática de
@@ -7606,7 +7446,7 @@ Ou seja, Cc = 7- 5 + 2 = 4.
 
 Gabarito: Letra D
 
-Item. 13. (CESPE - 2010 - TJ/ES - Analista de Suporte) Considerando-se a implementação de
+13. (CESPE - 2010 - TJ/ES - Analista de Suporte) Considerando-se a implementação de
 um grafo denso,
 direcionado e ponderado, se o número de vértices ao quadrado tem valor próximo ao número de arcos,
 o uso de uma matriz de adjacência simétrica apresenta vantagens em relação ao uso de
@@ -7631,8 +7471,7 @@ errado, mas ele já havia afirmado que era um grafo denso. A Matriz de
 Adjacência simétrica é uma
 representação utilizada em grafos não-direcionados, logo a questão já está errada. Gabarito: E
 
-
-Item. 14. (FCC - 2013 - MPE/SE - Analista do Ministério Público) Considere:
+14. (FCC - 2013 - MPE/SE - Analista do Ministério Público) Considere:
 
 I. Estrutura de dados que possui uma sequência de células, na qual cada célula contém um objeto de
 algum tipo e o endereço da célula seguinte.
@@ -7662,7 +7501,7 @@ Binárias, visto que falou de método de varredura e raiz.
 
 Gabarito: Letra D
 
-Item. 15. (CESPE - 2013 - TCE/ES - Analista de Sistemas) Considerando o grafo ilustrado acima, assinale
+15. (CESPE - 2013 - TCE/ES - Analista de Sistemas) Considerando o grafo ilustrado acima, assinale
 a opção
 em que é apresentada a descrição em vértices (V) e arestas (A).
 
@@ -7686,7 +7525,6 @@ e) V = { 2, 4, 1, 3, 6, 5 }
 
 A = {(4, 2), (3, 1), (5, 2), (6, 3), (5, 3)}
 
-
 Comentários:
 
 Galera, os vértices não precisam estar ordenados, logo todos os itens estão corretos.
@@ -7699,7 +7537,7 @@ perfeito!
 
 Gabarito: Letra E
 
-Item. 16. (CESPE - 2012 - TJ/RO - Analista de Suporte - ITEM B) Grafo corresponde a uma estrutura
+16. (CESPE - 2012 - TJ/RO - Analista de Suporte - ITEM B) Grafo corresponde a uma estrutura
 abstrata de
 dados que representa um relacionamento entre pares de objetos e que pode armazenar dados em suas
 arestas e vértices, ou em ambos.
@@ -7724,17 +7562,15 @@ através de grafos. Professor, pode me passar um exemplo? Claro!
 
 Conforme vimos em aula, a definição está perfeita!
 
-
 Gabarito: Correto
 
-Item. 17. (CESPE - 2012 - PEFOCE - Perito Criminal) Considere que um grafo G seja constituído por um
+17. (CESPE - 2012 - PEFOCE - Perito Criminal) Considere que um grafo G seja constituído por um
 conjunto
 
 (N) e por uma relação binária (A), tal que G = (N, A), em que os elementos de N são denominados nós
 (ou vértices) e os elementos de A são denominados arcos (ou arestas). Em face dessas informações e
 do grafo abaixo, é correto afirmar que esses conjuntos são N = {1,2,3,4} e A =
 {(1,2),(2,1),(2,4),(2,3)}.
-
 
 Comentários:
 
@@ -7745,14 +7581,13 @@ quatro arestas: A =
 
 Gabarito: Correto
 
-Item. 18. (CESPE - 2012 - BASA - Analista de Sistemas) É misto o grafo com arestas não dirigidas que
+18. (CESPE - 2012 - BASA - Analista de Sistemas) É misto o grafo com arestas não dirigidas que
 representam
 ruas de dois sentidos e com arestas dirigidas que correspondem a trechos de um único
 sentido,
 modelado para representar o mapa de uma cidade cujos vértices sejam os cruzamentos ou
 finais de
 ruas e cujas arestas sejam os trechos de ruas sem cruzamentos.
-
 
 Comentários:
 
@@ -7772,7 +7607,7 @@ análise e exemplos da internet de Michael T. Goodrich e Roberto Tamassia.
 
 Gabarito: Correto
 
-Item. 19. (CESPE - 2012 - BASA - Analista de Sistemas) Para modelar a rede que conecta todos os
+19. (CESPE - 2012 - BASA - Analista de Sistemas) Para modelar a rede que conecta todos os
 computadores
 em uma sala de escritório com a menor metragem possível de cabos, é adequado utilizar
 um grafo G
@@ -7792,7 +7627,7 @@ computadores? Não, vértices são os computadores! Quem representa pares são a
 
 Gabarito: Errado
 
-Item. 20. (CESPE - 2012 - BASA - Analista de Sistemas) Um grafo completo contém pelo
+20. (CESPE - 2012 - BASA - Analista de Sistemas) Um grafo completo contém pelo
 menos um subgrafo
 ponderado.
 
@@ -7806,7 +7641,7 @@ posso ter um grafo completo ponderado ou não; e posso ter um grafo ponderado co
 
 Gabarito: Errado
 
-Item. 21. (CESPE - 2012 - BASA - Analista de Sistemas) Um grafo não direcionado é dito conectado quando
+21. (CESPE - 2012 - BASA - Analista de Sistemas) Um grafo não direcionado é dito conectado quando
 há
 pelo menos um caminho entre dois vértices quaisquer do grafo.
 
@@ -7844,7 +7679,7 @@ aluno.
 
 Gabarito: Correto
 
-Item. 22. (CESPE - 2012 - TJ/AC - Analista de Sistemas) Define-se um grafo como fortemente conexo se
+22. (CESPE - 2012 - TJ/AC - Analista de Sistemas) Define-se um grafo como fortemente conexo se
 todos os
 nós puderem ser atingidos a partir de qualquer outro nó.
 
@@ -7866,7 +7701,7 @@ outro vértice do grafo.
 
 Gabarito: Correto
 
-Item. 23. (CESPE - 2013 - CRPM - Analista de Sistemas) Considere que o grafo não
+23. (CESPE - 2013 - CRPM - Analista de Sistemas) Considere que o grafo não
 orientado representado na
 figura abaixo possua as seguintes características:
 
@@ -7884,10 +7719,9 @@ Comentários:
 
 A questão está quase perfeita, mas ela possui um deslize: não existe a aresta (A,B) - seria (C,D).
 
-
 Gabarito: Errado
 
-Item. 24. (CESPE - 2012 - BASA - Analista de Sistemas) A implementação de um grafo do
+24. (CESPE - 2012 - BASA - Analista de Sistemas) A implementação de um grafo do
 tipo ponderado e
 direcionado na forma de uma matriz de adjacência utiliza menor quantidade de memória
 que a
@@ -7911,7 +7745,7 @@ adjacentes - diferente da Matriz de Adjacência.
 
 Gabarito: Errado
 
-Item. 25. (CESGRANRIO -2014-BASA-Analista de Sistemas) O grafo acima pode ser representado pela seguinte
+25. (CESGRANRIO -2014-BASA-Analista de Sistemas) O grafo acima pode ser representado pela seguinte
 matriz:
 
 0 10 10
@@ -7954,7 +7788,6 @@ d) 110 11
 
 11110
 
-
 0 110 0
 
 e' I 0 1 0 I
@@ -7983,7 +7816,7 @@ do Nó 2 para o Nó 3. Descobrimos a resposta!
 
 Gabarito: Letra A
 
-Item. 26. (CESPE - 2012 - TJ/SE - Analista de Sistemas) Um grafo é formado por um par de conjuntos de
+26. (CESPE - 2012 - TJ/SE - Analista de Sistemas) Um grafo é formado por um par de conjuntos de
 vértices
 e arestas, não podendo o conjunto de vértices ser particionado em subconjuntos.
 
@@ -7997,7 +7830,7 @@ de um conjunto de vértices em subconjuntos.
 
 Gabarito: Errado
 
-Item. 27. (CESPE - 2012 - TRT/AM - Analista de Sistemas) Um grafo é uma estrutura de dados consistida
+27. (CESPE - 2012 - TRT/AM - Analista de Sistemas) Um grafo é uma estrutura de dados consistida
 em um
 conjunto de nós (ou vértices) e um conjunto de arcos (ou arestas). O grafo em que os arcos possuem
 um número ou peso associados a eles, é chamado de grafo:
@@ -8027,15 +7860,13 @@ ou Grafos Valorados ou Grafos Pesados.
 
 Gabarito: Letra D
 
-
 * 05152001900 - Everton Murilo
 Vieira
-
 
 QUESTõES CoMENTADAS - HASHING -
 MULTIBANCAS
 
-Item. 1. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia
+1. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia
 da
 Informação - Administração de Dados) A pesquisa sequencial é aplicável em
 estruturas não ordenadas.
@@ -8046,7 +7877,7 @@ Perfeito! Para fazer uma pesquisa sequencial, não é necessário que os dados
 estejam
 ordenados - diferentemente da pesquisa binária. Gabarito: C
 
-Item. 2. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração
+2. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração
 de
 Dados) As colisões ocorrem na utilização de tabela hash porque várias chaves
 podem resultar na mesma posição.
@@ -8055,7 +7886,7 @@ Comentários:
 
 Perfeito! É raro, mas acontece... Gabarito: C
 
-Item. 3. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia
+3. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia
 da
 Informação - Administração de Dados) Ocorre o hashing quando não há
 o
@@ -8070,7 +7901,7 @@ tabela em um específico endereço calculado a partir da aplicação de uma fun�
 da
 entrada. Gabarito: E
 
-Item. 4. (FCC - 2008 - METRÔ-SP - Analista Treinee - Análise de Sistemas) O objetivo de
+4. (FCC - 2008 - METRÔ-SP - Analista Treinee - Análise de Sistemas) O objetivo de
 fazer uma busca rápida a partir de uma chave de pesquisa simples e obter
 o
 valor desejado é alcançado pela estrutura de dados especial denominada:
@@ -8085,15 +7916,13 @@ d) árvore binária.
 
 e) tabela de hashing.
 
-
 ,
-
 
 Comentários:
 
 Trata-se da Tabela de Hashing! Gabarito: E
 
-Item. 5. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração
+5. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração
 de
 Dados) A busca que utiliza uma tabela hash realiza comparação das chaves para
 encontrar a posição do elemento que está sendo buscado.
@@ -8105,7 +7934,7 @@ comparados.
 
 Gabarito: E
 
-Item. 6. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) No método de hashing, por
+6. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) No método de hashing, por
 meio de acesso sequencial, são utilizados tabelas e mapas para
 recuperar
 informações de endereço de arquivos de forma rápida e eficiente.
@@ -8114,7 +7943,7 @@ Comentários:
 
 Não, Método de Hashing não faz Acesso Sequencial. Gabarito: E
 
-Item. 7. (FCC - 2015 - DPE-SP - Programador) Um Programador da Defensoria
+7. (FCC - 2015 - DPE-SP - Programador) Um Programador da Defensoria
 Pública
 do Estado de São Paulo foi solicitado a propor uma solução para o problema: Há
 uma quantidade grande de dados classificáveis por chave e estes dados devem
@@ -8144,21 +7973,17 @@ subconjuntos, somente ordena a estrutura não-linear de forma a facilitar
 uma busca
 binária. Gabarito: B
 
-
 / 215
 
 /
 
-
 QUESTõES CoMENTADAS - BITMAP -
 MULTIBANCAS
 
-Item. 1. (FGV - 2015 - TJ-RO - Analista Judiciário - Análise de Sistemas)
-
+1. (FGV - 2015 - TJ-RO - Analista Judiciário - Análise de Sistemas)
 
 ID
 1210
-
 
 Nome
 A
@@ -8199,7 +8024,6 @@ a)
 
 1210 1
 
-
 b)
 Física
 Química
@@ -8220,9 +8044,7 @@ c)
 
 45 100
 
-
 ,
-
 
 57 100
 
@@ -8238,7 +8060,6 @@ d)
 0100100000
 
 0010010011
-
 
 e)
 00000000110
@@ -8286,11 +8107,9 @@ Matemática 0 0 1 0 0
 
 A resposta, portanto, é a letra B. Gabarito: B
 
-
 ,
 
-
-Item. 2. (FGV - 2014 - DPE-RJ - Técnico Superior Especializado - Administração de
+2. (FGV - 2014 - DPE-RJ - Técnico Superior Especializado - Administração de
 Dados)
 
 Candidato
@@ -8340,7 +8159,6 @@ inscrição provaNome nota
 abaixo representa o mapa de bits na indexação da tabela Avaliação quando a chave
 considerada é a concatenação dos atributos Inscrição e provaNome.
 
-
 lOlMatemática
 lOlPortuguês
 lOIPrática
@@ -8363,10 +8181,8 @@ lOIPrática
 
 00000010000
 
-
 * 05152001900 - Everton Murilo
 Vieira
-
 
 105Português
 105Prática
@@ -8424,7 +8240,6 @@ d)
 e)
 101111
 
-
 102111
 
 105111
@@ -8454,14 +8269,12 @@ simples, somente para a coluna Inscrição
 
 A resposta, portanto, é letra A. Gabarito: A
 
-
 / 215
-
 
 LISTA DE QUESTÕES - ESTRUTURA DE DADoS -
 MULTIBANCAS
 
-Item. 1. (CESPE/CEBRASPE - 2020 - Ministério da Economia) A respeito de dados, informação,
+1. (CESPE/CEBRASPE - 2020 - Ministério da Economia) A respeito de dados, informação,
 conhecimento
 e inteligência, julgue o próximo item.
 
@@ -8469,7 +8282,7 @@ Embora com características particulares, dados não estruturados podem ser clas
 em sua totalidade, assim
 como os dados estruturados.
 
-Item. 2. (FGV - 2015 - DPE/MT - Analista de Sistemas) No desenvolvimento de sistemas, a
+2. (FGV - 2015 - DPE/MT - Analista de Sistemas) No desenvolvimento de sistemas, a
 escolha de
 estruturas de dados em memória é especialmente relevante. Dentre outras classificações,
 é possível
@@ -8489,37 +8302,35 @@ d) Pilha e árvore binária de busca.
 
 e) Fila e pilha.
 
-Item. 3. (CESPE - 2010 - DETRAN/ES - Analista de Sistemas) Um tipo abstrato de dados apresenta
+3. (CESPE - 2010 - DETRAN/ES - Analista de Sistemas) Um tipo abstrato de dados apresenta
 uma
 parte destinada à implementação e outra à especificação. Na primeira, são descritas, em
 forma
 sintática e semântica, as operações que podem ser realizadas; na segunda, os objetos e as operações
 são representados por meio de representação, operação e inicialização.
 
-Item. 4. (CESPE - 2010 - TRT/RN - Analista de Sistemas) O tipo abstrato de dados
+4. (CESPE - 2010 - TRT/RN - Analista de Sistemas) O tipo abstrato de dados
 consiste em um
 modelo matemático (v,o), em que v é um conjunto de valores e o é um conjunto de
 operações que
 podem ser realizadas sobre valores.
 
-Item. 5. (CESPE - 2010 - BASA - Analista de Sistemas) A escolha de estruturas
+5. (CESPE - 2010 - BASA - Analista de Sistemas) A escolha de estruturas
 internas de dados
 utilizados por um programa pode ser organizada a partir de TADs que definem classes de objetos com
 características distintas.
 
-Item. 6. (CESPE - 2010 - BASA - Analista de Sistemas) A descrição dos parâmetros das operações
+6. (CESPE - 2010 - BASA - Analista de Sistemas) A descrição dos parâmetros das operações
 e os
 efeitos da ativação das operações representam, respectivamente, os níveis sintático e
 semântico em
 que ocorre a especificação dos TDAs.
 
-Item. 7. (FCC - 2010 - TRE/AM - Analista de Sistemas) Em relação aos tipos abstratos de
+7. (FCC - 2010 - TRE/AM - Analista de Sistemas) Em relação aos tipos abstratos de
 dados - TAD,
 é correto afirmar:
 
-
 *
-
 
 a) 0 TAD não encapsula a estrutura de dados para permitir que os usuários possam ter
 acesso a todas as
@@ -8537,7 +8348,7 @@ implementação.
 
 e) TAD é um tipo de dados que esconde a sua implementação de quem o manipula.
 
-Item. 8. (FCC - 2009 - TRE/PI - Analista de Sistemas) Em relação a tipos abstratos
+8. (FCC - 2009 - TRE/PI - Analista de Sistemas) Em relação a tipos abstratos
 de dados, é correto
 afirmar que:
 
@@ -8557,40 +8368,35 @@ e) são tipos de dados que escondem a sua implementação de quem o manipula; de
 maneira geral as
 operações sobre estes dados são executadas sem que se saiba como isso é feito.
 
-
 0 0
-
 
 GABARITo-ESTRUTURA DE DADoS - MULTIBANCAS
 
 GABARITO
 
-Item. 1. Errado
+1. Errado
 
-Item. 2. Letra D
+2. Letra D
 
-Item. 3. Errado
+3. Errado
 
-Item. 4. Correto
+4. Correto
 
-Item. 5. Errado
+5. Errado
 
-Item. 6. Correto
+6. Correto
 
-Item. 7. Letra E
+7. Letra E
 
-Item. 8. Letra E
-
+8. Letra E
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 QUESTõES CoMENTADAS-VEToRES E MATRIZES -
 MULTIBANCAS
 
-Item. 1. (IBFC - 2022 - DETRAN-AM) Relacione as duas colunas quanto aos respectivos tipos de Estruturas de
+1. (IBFC - 2022 - DETRAN-AM) Relacione as duas colunas quanto aos respectivos tipos de Estruturas de
 Dados:
-
 
 (A) Vetores
 
@@ -8628,7 +8434,7 @@ Assim, Al - B2 - Cl.
 
 Gabarito: Letra D
 
-Item. 2. (IADES - 2022 - ADASA) Com base nas definições referentes à estrutura de dados digitais, à
+2. (IADES - 2022 - ADASA) Com base nas definições referentes à estrutura de dados digitais, à
 vetorização e à digitalização, assinale a alternativa correta.
 
 a) A estrutura vetorial é composta por uma grade homogênea de linhas e colunas.
@@ -8656,9 +8462,7 @@ A estrutura vetorial é linear e homogênea. O correto seria dizer que a estrutu
 matricial é composta por
 uma grade homogênea de linhas e colunas, e não vetorial. Falso.
 
-
 ,
-
 
 b) A digitalização é o processo de mudança de documentos cartográficos do formato vetorial para o
 formato raster.
@@ -8682,7 +8486,7 @@ Esta é uma boa definição de matriz. Correto!
 
 Gabarito: Letra E
 
-Item. 3. (UFPRE - 2022 - UFPRE) A estrutura de dados "vetor" (array) é um arranjo unidimensional que
+3. (UFPRE - 2022 - UFPRE) A estrutura de dados "vetor" (array) é um arranjo unidimensional que
 pode
 acomodar múltiplos dados. Sobre essas estruturas de dados, assinale a alternativa incorreta.
 
@@ -8736,10 +8540,9 @@ Verdadeiro.
 
 Gabarito: Letra D
 
-
 (Profs. Paolla Ramos e Raphael L
 
-Item. 4. (FUNDATEC - 2022 - Prefeitura de Restinga Sêca - RS) Assinale a estrutura de dados linear e
+4. (FUNDATEC - 2022 - Prefeitura de Restinga Sêca - RS) Assinale a estrutura de dados linear e
 estática,
 caracterizada por uma sequência de elementos de um mesmo tipo de dado e que são armazenados em
 posições consecutivas de memória.
@@ -8781,7 +8584,7 @@ A definição do enunciado é uma ótima definição de vetor. Verdadeiro.
 
 Gabarito: Letra E
 
-Item. 5. (FGV - 2021 - IMBEL) Considere um conjunto de 65.536 chaves ordenadas,
+5. (FGV - 2021 - IMBEL) Considere um conjunto de 65.536 chaves ordenadas,
 distintas entre si,
 armazenadas num array.
 
@@ -8819,9 +8622,7 @@ quantas vezes conseguimos dividir por 2 o valor:
 
 2048/2 = 1024 (6x)
 
-
 www. estra tegiaconcursos. com. br
-
 
 1024/2 = 512 (7x)
 
@@ -8847,7 +8648,7 @@ Portanto, são, no máximo, 16 vezes.
 
 Gabarito: Letra B
 
-Item. 6. (FCC - 2019 - SANASA Campinas) Um Analista de TI necessitou usar uma estrutura
+6. (FCC - 2019 - SANASA Campinas) Um Analista de TI necessitou usar uma estrutura
 de dados simples
 que utilizasse pouca carga de memória de armazenamento. Tal estrutura é vista como um arranjo cuja
 capacidade pode variar dinamicamente, isto é, se o espaço reservado for totalmente ocupado e algum
@@ -8884,9 +8685,7 @@ Para ser hashing, deveria ser mencionado um algoritmo de hashing, o que não é 
 
 c) árvore.
 
-
 ,
-
 
 Para ser uma árvore, deveriam ser mencionadas estruturas como nós e filhos, o que não é o caso.
 Falso.
@@ -8902,7 +8701,7 @@ As informações ditas no enunciado se referem a um vetor. Verdadeiro.
 
 Gabarito: Letra E
 
-Item. 7. (FCC - 2013 - MPE-AM) Considere o vetor vet a seguir:
+7. (FCC - 2013 - MPE-AM) Considere o vetor vet a seguir:
 
 1 2 3 4 5 6 7 8
 
@@ -8960,8 +8759,7 @@ AMAZONAS
 
 Gabarito: Letra E
 
-
-Item. 8. (FCC - 2012 - TJ-RJ) O algoritmo conhecido como busca binária é um algoritmo de desempenho
+8. (FCC - 2012 - TJ-RJ) O algoritmo conhecido como busca binária é um algoritmo de desempenho
 ótimo
 para encontrar a posição de um item em
 a) uma árvore B.
@@ -9009,7 +8807,7 @@ numérico. Correto!
 
 Gabarito: Letra E
 
-Item. 9. (FCC - 2009 - TJ-PA - Analista Judiciário - Tecnologia da Informação) Considere uma estrutura
+9. (FCC - 2009 - TJ-PA - Analista Judiciário - Tecnologia da Informação) Considere uma estrutura
 de dados
 do tipo vetor. Com respeito a tal estrutura, é correto que seus componentes são,
 caracteristicamente,
@@ -9034,8 +8832,7 @@ direto. Gabarito: E
 
 Gabarito: Letra E
 
-
-Item. 10. (CETAP - 2010 - AL-RR - Analista de Sistemas) Matrizes são estruturas de dados de
+10. (CETAP - 2010 - AL-RR - Analista de Sistemas) Matrizes são estruturas de dados de
 n-dimensões. Por
 simplicidade, chamaremos de matrizes as matrizes bidimensionais numéricas (que
 armazenam
@@ -9066,7 +8863,7 @@ Matriz 3x5; (e) Perfeito, uma Matriz 2x2 multiplicada por outra Matriz 2x2 resul
 
 Gabarito: Letra D
 
-Item. 11. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da Informação
+11. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da Informação
 - Arquitetura de
 Tecnologia) Os dados armazenados em uma estrutura do tipo matriz não podem ser
 acessados de
@@ -9086,7 +8883,7 @@ de leitura.
 
 Gabarito: Errado
 
-Item. 12. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da Informação) Entre
+12. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da Informação) Entre
 alguns tipos
 de estrutura de dados, podem ser citados os vetores, as pilhas e as filas.
 
@@ -9096,7 +8893,7 @@ Questão extremamente simples - realmente são exemplos de estruturas de dados.
 
 Gabarito: Correto
 
-Item. 13. (CESPE - 2011 - EBC - Analista - Engenharia de Software) Vetores são utilizados
+13. (CESPE - 2011 - EBC - Analista - Engenharia de Software) Vetores são utilizados
 quando estruturas
 indexadas necessitam de mais que um índice para identificar um de seus elementos.
 
@@ -9104,13 +8901,12 @@ Comentários:
 
 *
 
-
 Não! Se são necessários mais de um índice, utilizam-se Matrizes! Vetores necessitam apenas de um
 índice.
 
 Gabarito: Errado
 
-Item. 14. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Vetores podem ser
+14. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Vetores podem ser
 considerados
 como listas de informações armazenadas em posição contígua na memória.
 
@@ -9122,7 +8918,7 @@ armazenadas em posição contígua na memória? Sim, em geral são armazenados d
 
 Gabarito: Correto
 
-Item. 15. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Uma posição específica de
+15. (CESPE - 2010 - TRE-BA - Analista Judiciário - Análise de Sistemas) Uma posição específica de
 um vetor
 pode ser acessada diretamente por meio de seu índice.
 
@@ -9134,7 +8930,7 @@ diretamente por meio de seu índice.
 
 Gabarito: Correto
 
-Item. 8. (FCC - 2016 - Copergás - PE - Analista Tecnologia da Informação) Considere o
+8. (FCC - 2016 - Copergás - PE - Analista Tecnologia da Informação) Considere o
 algoritmo a seguir, na
 forma de pseudocódigo:
 
@@ -9169,7 +8965,6 @@ Fim
 Este pseudocódigo
 a) exclui o valor contido na posição x do vetor v.
 
-
 b) insere o valor de x entre v[k-l] e v[k] no vetor v.
 
 c) exclui o valor contido na posição k do vetor v.
@@ -9193,11 +8988,10 @@ v[k]).
 
 Gabarito: Letra B
 
-
 QUESTõES CoMENTADAS - LISTA ENCADEADA -
 MULTIBANCAS
 
-Item. 1. (UFV - 2022 - UFV-MG) Considere as afirmativas a seguir sobre estrutura de dados:
+1. (UFV - 2022 - UFV-MG) Considere as afirmativas a seguir sobre estrutura de dados:
 
 I. Uma estrutura de dados heterogênea envolve a utilização de mais de um tipo básico de
 dado.
@@ -9222,7 +9016,7 @@ c) I, II e IV.
 
 d) II, III e IV.
 
-Item. 2. (Quadrix - 2022 - PRODAM-AM) Assinale a alternativa que apresenta o nome do
+2. (Quadrix - 2022 - PRODAM-AM) Assinale a alternativa que apresenta o nome do
 tipo de estrutura em
 que cada elemento armazena um ou vários dados e um ponteiro para o próximo elemento,
 que
@@ -9238,7 +9032,7 @@ c) lista duplamente encadeada e não ordenada
 d) lista duplamente encadeada e não ordenada
 e) lista triplamente encadeada
 
-Item. 3. (FUNDATEC - 2022 - IF-RS) Que tipo de estrutura de dados está representada na Figura 1
+3. (FUNDATEC - 2022 - IF-RS) Que tipo de estrutura de dados está representada na Figura 1
 abaixo?
 
 Figura 1 - Estrutura de dados
@@ -9252,7 +9046,7 @@ d) Lista ligada.
 
 e) Vetor.
 
-Item. 4. (IBADE - 2022 - SES-MG) Uma estrutura de dados onde existe uma coleção ordenada
+4. (IBADE - 2022 - SES-MG) Uma estrutura de dados onde existe uma coleção ordenada
 de entidades
 sendo a metodologia de busca com base no deslocamento relativo ao primeiro (cabeça) da
 coleção,
@@ -9266,10 +9060,9 @@ c) pilha.
 
 d) fila.
 
-
 e) árvore binária.
 
-Item. 5. (FGV - 2021 - TJ-RO) Considere a lista duplamente encadeada exibida a seguir.
+5. (FGV - 2021 - TJ-RO) Considere a lista duplamente encadeada exibida a seguir.
 
 (1, 3, 0, "Verde")
 
@@ -9294,7 +9087,7 @@ d) Vermelho, Amarelo, Azul, Verde;
 
 e) Vermelho, Azul, Amarelo, Verde.
 
-Item. 6. (FGV - 2021 - TJ-RO) Considere a lista duplamente encadeada exibida a seguir.
+6. (FGV - 2021 - TJ-RO) Considere a lista duplamente encadeada exibida a seguir.
 
 (1, 3, 0, "Verde")
 
@@ -9319,7 +9112,7 @@ d) Vermelho, Amarelo, Azul, Verde;
 
 e) Vermelho, Azul, Amarelo, Verde.
 
-Item. 7. CESPE/CEBRASPE - 2019 - MPC-PA) Assinale a opção que apresenta a denominação da
+7. CESPE/CEBRASPE - 2019 - MPC-PA) Assinale a opção que apresenta a denominação da
 estrutura de
 dados constituída por um conjunto de elementos individualizados, em que cada um dos
 elementos —
@@ -9332,7 +9125,7 @@ c) lista duplamente encadeada
 d) árvore
 e) pilha
 
-Item. 8. (CESPE/CEBRASPE - 2017 - TRT-7) Considere uma estrutura de dados em
+8. (CESPE/CEBRASPE - 2017 - TRT-7) Considere uma estrutura de dados em
 que cada elemento
 armazenado apresenta ligações de apontamento com seu sucessor e com o seu predecessor,
 o que
@@ -9345,14 +9138,13 @@ c) uma lista duplamente encadeada.
 
 d) uma pilha.
 
-Item. 9. (CESPE/CEBRASPE - 2018 - BNB)
-
+9. (CESPE/CEBRASPE - 2018 - BNB)
 
 Uma lista encadeada é basicamente uma estrutura de dados em lista em que cada nó possui três
 campos: um para os
 dados, um para o endereço do nó anterior, e outro para o endereço do nó posterior.
 
-Item. 10. (FGV - 2018 - MPE-AL) Considere a representação de uma lista duplamente encadeada que armazena
+10. (FGV - 2018 - MPE-AL) Considere a representação de uma lista duplamente encadeada que armazena
 os times de futebol que participam de um torneio.
 
 Nó Time
@@ -9380,13 +9172,13 @@ c) Real Madrid, Roma, Barcelona, Chelsea, Bayern.
 d) Barcelona, Bayern, Chelsea, Real Madrid, Roma
 e) Roma, Real Madrid, Bayern, Chelsea, Barcelona.
 
-Item. 11. (CESPE/CEBRASPE - 2018 - BNB)
+11. (CESPE/CEBRASPE - 2018 - BNB)
 
 Uma lista encadeada é basicamente uma estrutura de dados em lista em que cada nó possui três
 campos: um para os
 dados, um para o endereço do nó anterior, e outro para o endereço do nó posterior.
 
-Item. 12. (FCC - 2013 - DPE-SP) Em uma J_, para cada novo elemento inserido na estrutura, alocamos um
+12. (FCC - 2013 - DPE-SP) Em uma J_, para cada novo elemento inserido na estrutura, alocamos um
 espaço
 de memória para armazená-lo. Desta forma, o espaço total de memória gasto
 pela estrutura é
@@ -9408,7 +9200,7 @@ c) estrutura de filas (FIFO) - disco - sequência - buffer - memória alocada
 d) arquitetura de memória primária - tamanho - fila - contador sequencial - conexão
 e) arquitetura TCP/IP - tamanho fixo - conexão - número de roteamento - tabela MTU
 
-Item. 13. (FCC - FAURGS - SES-RS) Qual é a afirmativa correta sobre estruturas de dados?
+13. (FCC - FAURGS - SES-RS) Qual é a afirmativa correta sobre estruturas de dados?
 
 a) Uma pilha armazena os dados em uma estrutura de dados do tipo árvore binária.
 
@@ -9426,8 +9218,7 @@ e) Em uma fila, o primeiro elemento a ser inserido será o último a ser retirad
 adicionam-se e removem-
 se itens no início.
 
-
-Item. 14. (FCC - 2013 - DPE-SP) Em uma J_, para cada novo elemento inserido na estrutura, alocamos um
+14. (FCC - 2013 - DPE-SP) Em uma J_, para cada novo elemento inserido na estrutura, alocamos um
 espaço
 de memória para armazená-lo. Desta forma, o espaço total de memória gasto
 pela estrutura é
@@ -9449,13 +9240,13 @@ c) estrutura de filas (FIFO) - disco - sequência - buffer - memória alocada
 d) arquitetura de memória primária - tamanho - fila - contador sequencial - conexão
 e) arquitetura TCP/IP - tamanho fixo - conexão - número de roteamento - tabela MTU
 
-Item. 15. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) O tempo de
+15. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) O tempo de
 busca
 de um elemento em uma lista duplamente encadeada é igual à metade do tempo da busca
 de um
 elemento em uma lista simplesmente encadeada.
 
-Item. 16. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
+16. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
 Dados) Em algumas
 implementações, uma lista vazia pode ter um único nó, chamado de sentinela, nó cabeça
 ou header.
@@ -9463,65 +9254,64 @@ Entre suas possíveis funções, inclui-se simplificar a implementação de algu
 realizadas
 sobre a lista, como inserir novos dados, recuperar o tamanho da lista, entre outras.
 
-Item. 17. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) Estruturas
+17. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados) Estruturas
 ligadas
 como listas encadeadas superam a limitação das matrizes que não podem alterar seu tamanho inicial.
 
-Item. 18. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
+18. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
 Dados) As listas
 duplamente encadeadas diferenciam-se das listas simplesmente encadeadas pelo fato de, na
 primeira,
 os nós da lista formarem um anel com o último elemento ligado ao primeiro da lista.
 
-Item. 19. (FCC - 2012 - TRE-SP - Analista Judiciário - Análise de Sistemas - E) Numa lista singularmente
+19. (FCC - 2012 - TRE-SP - Analista Judiciário - Análise de Sistemas - E) Numa lista singularmente
 encadeada,
 para acessar o último nodo é necessário partir do primeiro e ir seguindo os campos
 de ligação até
 chegar ao final da lista.
 
-Item. 20. (CESPE - 2011 - EBC - Analista - Engenharia de Software) Uma lista é uma
+20. (CESPE - 2011 - EBC - Analista - Engenharia de Software) Uma lista é uma
 coleção de elementos do
 mesmo tipo dispostos linearmente, que podem ou não seguir determinada organização. As
 listas
 podem ser dos seguintes tipos: de encadeamento simples, duplamente encadeadas e ordenadas.
 
-Item. 21. (CESPE - 2009 - ANAC - Técnico Administrativo - Informática) Em uma lista
+21. (CESPE - 2009 - ANAC - Técnico Administrativo - Informática) Em uma lista
 circular duplamente
 encadeada, cada nó aponta para dois outros nós da lista, um anterior e um posterior.
 
-Item. 22. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da
+22. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da
 Informação) A principal
 característica de uma lista encadeada é o fato de o último elemento da lista apontar
 para o elemento
 imediatamente anterior.
 
-
-Item. 23. (CESPE - 2009 - TCE-AC - Analista de Controle Externo - Processamentos de Dados) Uma lista
+23. (CESPE - 2009 - TCE-AC - Analista de Controle Externo - Processamentos de Dados) Uma lista
 encadeada
 é uma coleção de nodos que, juntos, formam uma ordem linear. Se é possível os nodos se deslocarem
 em ambas as direções na lista, diz-se que se trata de uma lista simplesmente encadeada.
 
-Item. 24. (CESPE - 2008 - HEMOBRÁS - Técnico de Informática) Uma estrutura do tipo lista, em que é
+24. (CESPE - 2008 - HEMOBRÁS - Técnico de Informática) Uma estrutura do tipo lista, em que é
 desejável
 percorrer o seu conteúdo nas duas direções indiferentemente, é denominado lista
 duplamente
 encadeada.
 
-Item. 25. (CESPE - 2010 - TRE/MT - Analista de Sistemas - C) Uma lista duplamente
+25. (CESPE - 2010 - TRE/MT - Analista de Sistemas - C) Uma lista duplamente
 encadeada é uma lista em
 que o seu último elemento referencia o primeiro.
 
-Item. 26. (CESPE - 2006 - SGA/AC - Analista de Sistemas) O principal problema da alocação por lista
+26. (CESPE - 2006 - SGA/AC - Analista de Sistemas) O principal problema da alocação por lista
 encadeada
 é a fragmentação.
 
-Item. 27. (CESPE - 2008 - MCT - Analista de Sistemas) O armazenamento de arquivos em disco
+27. (CESPE - 2008 - MCT - Analista de Sistemas) O armazenamento de arquivos em disco
 pode ser feito
 por meio de uma lista encadeada, em que os blocos de disco são ligados por ponteiros. A utilização
 de
 lista encadeada elimina completamente o problema de fragmentação interna.
 
-Item. 28. (CESPE - 2009 - FINEP - Analista de Sistemas) Uma lista encadeada é uma representação de
+28. (CESPE - 2009 - FINEP - Analista de Sistemas) Uma lista encadeada é uma representação de
 objetos na
 memória do computador que consiste de uma sequência de células em que:
 
@@ -9537,11 +9327,11 @@ d) cada célula contém um objeto de algum tipo e o endereço da célula seguint
 
 e) a primeira célula contém o endereço da última célula.
 
-Item. 29. (CESPE - 2010 - BASA - Analista de Sistemas) Em uma lista encadeada, o tempo de acesso a
+29. (CESPE - 2010 - BASA - Analista de Sistemas) Em uma lista encadeada, o tempo de acesso a
 qualquer
 um de seus elementos é constante e independente do tamanho da estrutura de dados.
 
-Item. 30. (CESPE - 2010 - INMETRO - Analista de Sistemas - C) Considere que Roberto tenha
+30. (CESPE - 2010 - INMETRO - Analista de Sistemas - C) Considere que Roberto tenha
 feito uso de uma
 lista encadeada simples para programar o armazenamento e o posterior acesso aos dados acerca dos
 equipamentos instalados em sua empresa. Considere, ainda, que, após realizar uma
@@ -9553,7 +9343,7 @@ em uma lista encadeada simples, o algoritmo usado por Roberto realizou a consult
 equipamento
 Y sem reiniciar a pesquisa do começo da lista.
 
-Item. 31. (FCC - 2003 - TRE/AM - Analista de Sistemas) Os dados contidos em uma lista encadeada estão:
+31. (FCC - 2003 - TRE/AM - Analista de Sistemas) Os dados contidos em uma lista encadeada estão:
 
 a) ordenados seqüencialmente.
 
@@ -9565,10 +9355,9 @@ d) em ordem lógica e, necessariamente, em ordem física.
 
 e) em ordem lógica e não, necessariamente, em ordem física.
 
-Item. 32. (FCC - 2010 - DPE/SP - Analista de Sistemas) Uma estrutura de dados que possui
+32. (FCC - 2010 - DPE/SP - Analista de Sistemas) Uma estrutura de dados que possui
 três campos: dois
 ponteiros e campo de informação denomina-se:
-
 
 a) lista encadeada dupla.
 
@@ -9580,58 +9369,54 @@ d) fila.
 
 e) vetor.
 
-Item. 33. (CESPE - 2010 - TRE/MT - Analista de Sistemas) O algoritmo para inclusão de elementos em uma
+33. (CESPE - 2010 - TRE/MT - Analista de Sistemas) O algoritmo para inclusão de elementos em uma
 pilha
 é usado sem nenhuma alteração para incluir elementos em uma lista.
-
 
 GABARITo - MULTIBANCAS
 
 GABARITO
 
-Item. 1. Letra C 12. Letra B
-Item. 23. Errado
+1. Letra C 12. Letra B
+23. Errado
 
-Item. 2. Letra A 13. Letra B
-Item. 24. Correto
+2. Letra A 13. Letra B
+24. Correto
 
-Item. 3. Letra D 14. Letra B
-Item. 25. Errado
+3. Letra D 14. Letra B
+25. Errado
 
-Item. 4. Letra B 15. Errado
-Item. 26. Errado
+4. Letra B 15. Errado
+26. Errado
 
-Item. 5. Letra E 16. Correto
-Item. 27. Errado
+5. Letra E 16. Correto
+27. Errado
 
-Item. 6. Letra E 17. Correto
-Item. 28. Letra D
+6. Letra E 17. Correto
+28. Letra D
 
-Item. 7. Letra C 18. Errado
-Item. 29. Errado
+7. Letra C 18. Errado
+29. Errado
 
-Item. 8. Letra C 19. Correto
-Item. 30. Errado
+8. Letra C 19. Correto
+30. Errado
 
-Item. 9. Errado 20. Correto
-Item. 31. Errado
+9. Errado 20. Correto
+31. Errado
 
-Item. 10. Letra A 21. Correto
-Item. 32. Letra A
+10. Letra A 21. Correto
+32. Letra A
 
-Item. 11. Errado 22. Errado
-Item. 33. Correto
-
+11. Errado 22. Errado
+33. Correto
 
 *
 
-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 LISTA DE QUESTÕES - PILHAS - MULTIBANCAS
 
-Item. 1. (FGV - 2022 - PC-AM) Assinale as operações características de uma estrutura de dados do tipo
+1. (FGV - 2022 - PC-AM) Assinale as operações características de uma estrutura de dados do tipo
 pilha
 (stack).
 
@@ -9666,7 +9451,7 @@ este nome, estão associadas a listas.
 
 Gabarito: Letra D
 
-Item. 2. (FGV - 2022 - TJDFT) Júlio está desenvolvendo uma aplicação e precisa implementar um mecanismo
+2. (FGV - 2022 - TJDFT) Júlio está desenvolvendo uma aplicação e precisa implementar um mecanismo
 de desfazer/refazer de um editor de texto utilizando o algoritmo LIFO (Last In, First Out).
 
 Para implementar o algoritmo LIFO, Júlio deve usar a estrutura de dados:
@@ -9705,14 +9490,13 @@ d) nó folha;
 
 Nó folha é o nó de uma árvore que não possui filhos. Não tem nada a ver com o enunciado. Falso.
 
-
 e) tabela hash.
 
 Tabelas hash não seguem regra LIFO. Falso.
 
 Gabarito: Letra B
 
-Item. 3. (CESPE/CEBRASPE - 2022 - DPE-RO) Em um sistema operacional, a estrutura de dados
+3. (CESPE/CEBRASPE - 2022 - DPE-RO) Em um sistema operacional, a estrutura de dados
 utilizada para
 organizar chamadas de funções recursivas por meio da inserção ou remoção de elementos
 via
@@ -9754,7 +9538,7 @@ executa.
 
 Gabarito: Letra D
 
-Item. 4. (UFV - 2022 - UFV-MG) Considere as afirmativas a seguir sobre estrutura de dados:
+4. (UFV - 2022 - UFV-MG) Considere as afirmativas a seguir sobre estrutura de dados:
 
 I. Uma estrutura de dados heterogênea envolve a utilização de mais de um tipo básico de
 dado.
@@ -9786,7 +9570,6 @@ Vamos analisar item a item:
 I. Uma estrutura de dados heterogênea envolve a utilização de mais de um tipo básico de
 dado.
 
-
 Isso mesmo. Significa que cada elemento da estrutura de dados pode ter mais de um tipo básico de
 dado. Por exemplo,
 um inteiro, uma string, um booleano, etc. Verdadeiro.
@@ -9815,10 +9598,9 @@ Corretas: I, II e IV.
 
 Gabarito: Letra C
 
-Item. 5. (IBFC - 2022 - DPE-MT) Assinale a alternativa que apresenta a relação entre as
+5. (IBFC - 2022 - DPE-MT) Assinale a alternativa que apresenta a relação entre as
 duas estruturas de
 dados da coluna da esquerda com as respectivas características técnicas da coluna da direita.
-
 
 (1) PILHA
 
@@ -9862,13 +9644,12 @@ elementos no final, e remover do início. Portanto, 2-AD.
 
 Gabarito: Letra A
 
-Item. 6. (FUNDATEC - 2022 - IPE Saúde) Uma sequência de valores é armazenada em uma estrutura de dados,
+6. (FUNDATEC - 2022 - IPE Saúde) Uma sequência de valores é armazenada em uma estrutura de dados,
 onde novos elementos são inseridos no final da lista e removidos também do final da
 mesma. Dessa
 forma, qualquer elemento só pode ser removido quando todos os elementos inseridos após
 ele
 também forem removidos. Essa descrição caracteriza uma estrutura de dados conhecida como:
-
 
 a) Lista duplamente encadeada.
 
@@ -9917,7 +9698,7 @@ do enunciado.
 
 Gabarito: Letra D
 
-Item. 7. (FGV - 2021 - FUNSAÚDE-CE) As operações POP e PUSH aplicáveis às estruturas de
+7. (FGV - 2021 - FUNSAÚDE-CE) As operações POP e PUSH aplicáveis às estruturas de
 dados são
 conhecidas como
 a) árvores binárias.
@@ -9944,12 +9725,11 @@ duas operações:
 
 Gabarito: Letra E
 
-Item. 8. (FGV - 2021 - IMBEL) No contexto das estruturas de dados, considere uma pilha
+8. (FGV - 2021 - IMBEL) No contexto das estruturas de dados, considere uma pilha
 (stack) onde as
 seguintes operações foram executadas.
 
 CLEAR
-
 
 PUSH
 PUSH
@@ -10029,14 +9809,12 @@ PUSH (19)
 Inclui o número 19 na pilha.
 Pilha: (base) [12, 20,19](topo)
 
-
 Portanto, a pilha ficou com 3 elementos, sendo que, em seu topo, está o número 19.
 Portanto, 3 /19.
 
 Gabarito: Letra C
 
-
-Item. 9. (CESPE/CEBRASPE - 2018 - ABIN) Julgue o item subsequente, relativo à lógica de programação.
+9. (CESPE/CEBRASPE - 2018 - ABIN) Julgue o item subsequente, relativo à lógica de programação.
 
 Pilha é uma estrutura de dados em que o último elemento a ser inserido será o primeiro a ser
 retirado.
@@ -10049,7 +9827,7 @@ primeiro a sair".
 
 Gabarito: Certo
 
-Item. 10. (FGV - 2018 - AL-RO) Considere uma pilha de latas de sardinhas na prateleira
+10. (FGV - 2018 - AL-RO) Considere uma pilha de latas de sardinhas na prateleira
 de um supermercado.
 Assinale a estrutura de dados que mais se assemelha ao modo como essas latas são manuseadas.
 
@@ -10098,7 +9876,7 @@ Verdadeiro.
 
 Gabarito: Letra E
 
-Item. 11. (FGV - 2018 - MPE-AL) Considere as seguintes operações sobre uma estrutura de dados,
+11. (FGV - 2018 - MPE-AL) Considere as seguintes operações sobre uma estrutura de dados,
 inicialmente
 vazia, organizada na forma de pilhas (ou stack),
 
@@ -10121,7 +9899,6 @@ b) 10,2
 c) 2,6
 
 d) 6
-
 
 e) 2
 
@@ -10161,7 +9938,7 @@ Ao fim, temos apenas o elemento 6.
 
 Gabarito: Letra D
 
-Item. 12. (CESPE - 2011 - FUB - Analista de Tecnologia da Informação - Específicos) As pilhas são
+12. (CESPE - 2011 - FUB - Analista de Tecnologia da Informação - Específicos) As pilhas são
 listas encadeadas
 cujos elementos são retirados e acrescentados sempre ao final, enquanto as filas são listas
 encadeadas
@@ -10176,7 +9953,7 @@ final.
 
 Gabarito: Errado
 
-Item. 13. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção
+13. (CESPE - 2013 - INPI - Analista de Planejamento - Desenvolvimento e Manutenção
 de Sistemas) Na
 estrutura de dados do tipo lista, todo elemento novo que é introduzido na pilha
 torna-se o elemento
@@ -10192,7 +9969,6 @@ então, que se trata de uma lista do tipo pilha. Em uma pilha, todo elemento nov
 que é introduzido torna-
 se o elemento do topo, logo... questão correta!
 
-
 Bem, esse foi o Gabarito Preliminar, mas a banca mudou de opinião e, no Gabarito Definitivo,
 permaneceu
 como errada. E a justificativa dela foi: "A ausência de especificação do tipo de lista no item
@@ -10207,7 +9983,7 @@ falar em
 
 Gabarito: Errado
 
-Item. 14. (CESPE - 2012 - TJ-RO - Analista Judiciário - Analista de Sistemas Suporte -
+14. (CESPE - 2012 - TJ-RO - Analista Judiciário - Analista de Sistemas Suporte -
 E) Visitas a sítios
 armazenadas em um navegador na ordem last-in-first-out é um exemplo de lista.
 
@@ -10219,7 +9995,7 @@ mas esse não é o foco da questão.
 
 Gabarito: Errado
 
-Item. 15. (ESAF - 2013 - DNIT - Analista Administrativo - Tecnologia da Informação)
+15. (ESAF - 2013 - DNIT - Analista Administrativo - Tecnologia da Informação)
 Assinale a opção correta
 relativa às operações básicas suportadas por pilhas.
 
@@ -10241,7 +10017,7 @@ elemento do topo; (e) Perfeito! Gabarito: E
 
 Gabarito: Errado
 
-Item. 16. (FCC - 2012 - TST - Analista de Sistemas - C) As pilhas e as filas são estruturas de dados
+16. (FCC - 2012 - TST - Analista de Sistemas - C) As pilhas e as filas são estruturas de dados
 essenciais para
 os sistemas computacionais. É correto afirmar que a pilha é conhecida como lista FIFO - First In
 First
@@ -10253,12 +10029,11 @@ Não! Pilha é LIFO e Fila é FIFO.
 
 Gabarito: Errado
 
-Item. 17. (FCC - 2012 - TRE/CE - Analista de Sistemas) Sobre pilhas é correto afirmar:
+17. (FCC - 2012 - TRE/CE - Analista de Sistemas) Sobre pilhas é correto afirmar:
 
 a) Uma lista LIFO (Last-ln/First-Out) é uma estrutura estática, ou seja, é uma
 coleção que não pode
 aumentar e diminuir durante sua existência.
-
 
 b) Os elementos na pilha são sempre removidos na mesma ordem em que foram inseridos.
 
@@ -10296,7 +10071,7 @@ sobre a estrutura. Bacana?
 
 Gabarito: Letra D
 
-Item. 18. (CESPE - 2011 - EBC - Analista - Engenharia de Software) As pilhas, também conhecidas como
+18. (CESPE - 2011 - EBC - Analista - Engenharia de Software) As pilhas, também conhecidas como
 listas
 LIFO ou PEPS, são listas lineares em que todas as operações de inserção e remoção de elementos são
 feitas por um único extremo da lista, denominado topo.
@@ -10309,7 +10084,7 @@ Sair, ou seja, FIFO.
 
 Gabarito: Errado
 
-Item. 19. (VUNESP - 2011 - TJM-SP - Analista de Sistemas - Judiciário) Lista do tipo LIFO (Last in,
+19. (VUNESP - 2011 - TJM-SP - Analista de Sistemas - Judiciário) Lista do tipo LIFO (Last in,
 First Out) e lista
 do tipo FIFO (Firstin,First Out) são, respectivamente, características das
 estruturas de dados
@@ -10329,15 +10104,13 @@ Comentários:
 
 E aí, já está automático para responder? Tem que ser automática: Pilha (LIFO) e Fila (FIFO).
 
-
 / 215
 
 /
 
-
 Gabarito: Letra B
 
-Item. 20. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
+20. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
 Informação - Arquitetura de
 Tecnologia) A definição da estrutura pilha permite a inserção e a eliminação de itens,
 de modo que
@@ -10353,7 +10126,7 @@ Pilha como Pilha Encadeada
 
 Gabarito: Correto
 
-Item. 21. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da Informação -
+21. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da Informação -
 Administração de
 Dados) Na representação física de uma pilha sequencial, é necessário uso de uma
 variável ponteiro
@@ -10383,7 +10156,7 @@ será um ponteiro. Logo, discordo do gabarito!
 
 Gabarito: Correto
 
-Item. 22. (CESPE - 2009 - ANAC - Técnico Administrativo - Informática) As operações de inserir e
+22. (CESPE - 2009 - ANAC - Técnico Administrativo - Informática) As operações de inserir e
 retirar sempre
 afetam a base de uma pilha.
 
@@ -10393,7 +10166,7 @@ Não, sempre afetam o topo da pilha!
 
 Gabarito: Errado
 
-Item. 23. (FCC - 2009 - TRT - 16- REGIÃO (MA) - Técnico Judiciário - Tecnologia da
+23. (FCC - 2009 - TRT - 16- REGIÃO (MA) - Técnico Judiciário - Tecnologia da
 Informação) Pilha é uma
 estrutura de dados:
 
@@ -10405,7 +10178,6 @@ c) que pode ser implementada somente por meio de vetores.
 
 d) que pode ser implementada somente por meio de listas.
 
-
 e) cujo acesso aos seus elementos segue a lógica LIFO, apenas.
 
 Comentários:
@@ -10416,7 +10188,7 @@ vetores; (e) Perfeito, é exatamente isso.
 
 Gabarito: Errado
 
-Item. 24. (CESPE- 2004-STJ-Analista de Sistemas) Em geral, em uma pilha só se admite ter acesso ao
+24. (CESPE- 2004-STJ-Analista de Sistemas) Em geral, em uma pilha só se admite ter acesso ao
 elemento
 localizado em seu topo. Isso se adapta perfeitamente à característica das seqüências em
 que só o
@@ -10428,7 +10200,7 @@ Perfeito, é exatamente isso - muda-se apenas a perspectiva!
 
 Gabarito: Correto
 
-Item. 25. (CESPE - 2004 - STJ - Analista de Sistemas) A seguir, está representada corretamente uma
+25. (CESPE - 2004 - STJ - Analista de Sistemas) A seguir, está representada corretamente uma
 operação de
 desempilhamento em uma pilha de nome p.
 
@@ -10447,7 +10219,7 @@ topo será o elemento anterior ao topo. O que ocorreu? Eu desempilhei a pilha!
 
 Gabarito: Correto
 
-Item. 26. (CESPE - 2010 - TRE/MT - Analista de Sistemas - A) O tipo nó é inadequado
+26. (CESPE - 2010 - TRE/MT - Analista de Sistemas - A) O tipo nó é inadequado
 para implementar
 estruturas de dados do tipo pilha.
 
@@ -10459,7 +10231,7 @@ tipos nós!
 
 Gabarito: Errado
 
-Item. 27. (FGV - 2015 - DPE/MT - Analista de Sistemas) Assinale a opção que apresenta a estrutura de
+27. (FGV - 2015 - DPE/MT - Analista de Sistemas) Assinale a opção que apresenta a estrutura de
 dados na
 qual o primeiro elemento inserido é o último a ser removido.
 
@@ -10483,7 +10255,7 @@ Conforme vimos em aula, trata-se da Pilha. Gabarito: C
 
 Gabarito: Correto
 
-Item. 28. (FCC - 2012 - MPE/AP - Técnico Ministerial - Informática) Nas estruturas de dados,
+28. (FCC - 2012 - MPE/AP - Técnico Ministerial - Informática) Nas estruturas de dados,
 
 a) devido às características das operações da fila, o primeiro elemento a ser inserido será o
 último a ser
@@ -10521,7 +10293,6 @@ pilha. Item certo; (e) na verdade essas características são das filas. Item er
 
 Gabarito: Letra D
 
-
 GABARITo
 
 GABARITO
@@ -10529,40 +10300,39 @@ GABARITO
 A
 V
 
-Item. 1. 11.
-Item. 21. C
+1. 11.
+21. C
 
-Item. 2. 12. E
-Item. 22. E
+2. 12. E
+22. E
 
-Item. 3. 13. E
-Item. 23. E
+3. 13. E
+23. E
 
-Item. 4. 14. E
-Item. 24. C
+4. 14. E
+24. C
 
-Item. 5. 15. E
-Item. 25. C
+5. 15. E
+25. C
 
-Item. 6. 16. E
-Item. 26. E
+6. 16. E
+26. E
 
-Item. 7. 17. D
-Item. 27. C
+7. 17. D
+27. C
 
-Item. 8. 18. E
-Item. 28. D
+8. 18. E
+28. D
 
-Item. 9. 19. B
+9. 19. B
 
-Item. 10. 20. C
+10. 20. C
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
 LISTA DE QUESTõES - FILAS - MULTIBANCAS
 
-Item. 1. (IBFC - 2022 - AFEAM) Assinale, das alternativas abaixo, a única que identifica
+1. (IBFC - 2022 - AFEAM) Assinale, das alternativas abaixo, a única que identifica
 respectivamente uma
 Estrutura de Dados do tipo FIFO (First In, First Out) e uma outra com a Estrutura de dados do tipo
 LIFO
@@ -10573,7 +10343,7 @@ b) pilha-fila
 c) vetor-lista
 d) fila-pilha
 
-Item. 2. (IF-TO - 2022 - IF-TO) Em estrutura de dados os conceitos de FILAS e PILHAS
+2. (IF-TO - 2022 - IF-TO) Em estrutura de dados os conceitos de FILAS e PILHAS
 são usados para
 implementar diversos recursos computacionais que vão desde compiladores e
 interpretadores a
@@ -10601,7 +10371,7 @@ e) Nas FILAS é usado o princípio do primeiro a entrar é o segundo a sair, já
 a regra do
 segundo a entrar é o terceiro a sair.
 
-Item. 3. (UFRPE - 2022 - UFRPE) Sobre algoritmos e estrutura de dados, assinale a afirmativa correta.
+3. (UFRPE - 2022 - UFRPE) Sobre algoritmos e estrutura de dados, assinale a afirmativa correta.
 
 a) Listas encadeadas ou ligadas são estruturas de dados estáticas, o que significa que o número
 de nós não pode
@@ -10619,7 +10389,7 @@ d) Filas podem ser implementadas em listas encadeadas ou em vetores.
 
 e) Pilhas só podem ser implementadas em listas encadeadas.
 
-Item. 4. (CESPE/CEBRASPE - 2021 - SEED-PR) Em determinada estrutura de dados, os valores seguem a regra
+4. (CESPE/CEBRASPE - 2021 - SEED-PR) Em determinada estrutura de dados, os valores seguem a regra
 segundo a qual o último a entrar é o primeiro a sair.
 
 Essa estrutura é do tipo
@@ -10633,9 +10403,7 @@ d) lista duplamente encadeada.
 
 e) matriz.
 
-
 *
-
 
 a) o último elemento a ser inserido será o primeiro a ser retirado.
 
@@ -10651,7 +10419,7 @@ de valores.
 
 e) os elementos são formados de índices em duas dimensões: linhas e colunas.
 
-Item. 6. (CESPE/CEBRASPE - 2017 - TRT-7) A lógica FIFO (first-in first-out) é utilizada na estrutura
+6. (CESPE/CEBRASPE - 2017 - TRT-7) A lógica FIFO (first-in first-out) é utilizada na estrutura
 de dados do
 tipo
 a) pointer ou ponteiros.
@@ -10662,12 +10430,12 @@ c) stack ou pilhas.
 
 d) array ou matrizes.
 
-Item. 7. (CESPE/CEBRASPE - 2017 - TRF-1) Acerca de estrutura de dados, julgue o próximo item.
+7. (CESPE/CEBRASPE - 2017 - TRF-1) Acerca de estrutura de dados, julgue o próximo item.
 
 A fila é uma lista de elementos em que os itens são sempre inseridos em uma das extremidades e
 excluídos da outra.
 
-Item. 8. (CESPE/CEBRASPE-2018-TCE-MG)
+8. (CESPE/CEBRASPE-2018-TCE-MG)
 
 Uma estrutura de dados em que o primeiro elemento inserido seja o primeiro elemento a ser retirado
 é denominada
@@ -10681,7 +10449,7 @@ d) fila.
 
 e) lista.
 
-Item. 9. (FCC - 2019 - TRF-4) O Round-Robin é um tipo de escalonamento preemptivo mais simples e
+9. (FCC - 2019 - TRF-4) O Round-Robin é um tipo de escalonamento preemptivo mais simples e
 consiste
 em repartir uniformemente o tempo da CPU entre todos os processos prontos para a
 execução. Os
@@ -10704,7 +10472,7 @@ d) fila simples.
 
 e) árvore binária.
 
-Item. 10. (FCC - 2013 - MPE-MA) Ana precisa utilizar uma estrutura de dados para
+10. (FCC - 2013 - MPE-MA) Ana precisa utilizar uma estrutura de dados para
 gerenciar trabalhos de
 impressão em uma impressora compartilhada por vários computadores em uma rede. As regras dessa
 estrutura devem permitir que os trabalhos sejam impressos na ordem em que forem enviados, ou seja,
@@ -10715,7 +10483,6 @@ deve ser permitido inserir pedidos de impressão no meio dos pedidos já realiza
 A estrutura de dados mais adequada para Ana utilizar é
 a) pilha.
 
-
 b) lista encadeada ordenada.
 
 c) árvore binária.
@@ -10724,7 +10491,7 @@ d) tabela hash.
 
 e) fila.
 
-Item. 11. (FCC - 2013 - TRE-SP) No que se refere a estruturas de dados é INCORRETO afirmar:
+11. (FCC - 2013 - TRE-SP) No que se refere a estruturas de dados é INCORRETO afirmar:
 
 a) Numa fila dupla, os elementos podem ser inseridos e removidos de qualquer um dos extremos da
 fila.
@@ -10744,7 +10511,7 @@ e) Numa lista singularmente encadeada, para acessar o último nodo é necessári
 primeiro e ir seguindo
 os campos de ligação até chegar ao final da lista.
 
-Item. 12. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da Informação
+12. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da Informação
 - Análise de
 Sistemas) Em um programa existe a necessidade de guardar todas as alterações feitas em determinado
 dado para que seja possível desfazer alterações feitas ao longo de toda a sua
@@ -10753,34 +10520,34 @@ situação, a estrutura de dados mais adequada para o armazenamento de todas as
 alterações citadas
 seria uma fila.
 
-Item. 13. (CESPE - 2012 - TST - Analista de Sistemas - A) As pilhas e as filas são estruturas de dados
+13. (CESPE - 2012 - TST - Analista de Sistemas - A) As pilhas e as filas são estruturas de dados
 essenciais
 para os sistemas computacionais. É correto afirmar que a fila é conhecida como lista LIFO - Last In
 First
 Out.
 
-Item. 14. (CESPE - 2012 - TRE-RJ - Técnico Judiciário - Programação de Sistemas) As filas são estruturas
+14. (CESPE - 2012 - TRE-RJ - Técnico Judiciário - Programação de Sistemas) As filas são estruturas
 com base
 no princípio LIFO (last in, first out), no qual os dados que forem inseridos primeiro
 na fila serão os
 últimos a serem removidos. Existem duas funções que se aplicam a todas as filas: PUSH, que insere um
 dado no topo da fila, e POP, que remove o item no topo da fila.
 
-Item. 15. (FCC - 2012 - MPE-AP - Analista de Sistemas - A) Nas estruturas de dados, devido às
+15. (FCC - 2012 - MPE-AP - Analista de Sistemas - A) Nas estruturas de dados, devido às
 características das
 operações da fila, o primeiro elemento a ser inserido será o último a ser retirado. Estruturas
 desse tipo
 são conhecidas como LIFO.
 
-Item. 16. (FCC - 2012 - MPE-AP - Analista de Sistemas - C) Nas estruturas de dados, a fila é uma lista
+16. (FCC - 2012 - MPE-AP - Analista de Sistemas - C) Nas estruturas de dados, a fila é uma lista
 linear na
 qual as operações de inserção e retirada ocorrem apenas no início da lista.
 
-Item. 17. (FCC - 2012 - TRE-SP - Analista Judiciário - Análise de Sistemas - D) Pela
+17. (FCC - 2012 - TRE-SP - Analista Judiciário - Análise de Sistemas - D) Pela
 definição de fila, se os
 elementos são inseridos por um extremo da lista linear, eles só podem ser removidos pelo outro.
 
-Item. 18. (FCC - 2011 - TRT - 19- Região (AL) - Analista Judiciário - Tecnologia da Informação) FIFO
+18. (FCC - 2011 - TRT - 19- Região (AL) - Analista Judiciário - Tecnologia da Informação) FIFO
 refere-se a
 estruturas de dados do tipo:
 
@@ -10794,8 +10561,7 @@ d) matriz quadrada.
 
 e) cubo.
 
-
-Item. 19. (ESAF - 2010 - CVM - Analista de Sistemas - prova 2) Uma fila é um tipo de lista linear em
+19. (ESAF - 2010 - CVM - Analista de Sistemas - prova 2) Uma fila é um tipo de lista linear em
 que:
 
 a) as inserções são realizadas em um extremo e as remoções no outro extremo.
@@ -10808,21 +10574,21 @@ d) a inserção de um elemento requer a remoção de outro elemento.
 
 e) a ordem de saída não corresponde à ordem de entrada dos elementos.
 
-Item. 20. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) No armazenamento de dados pelo
+20. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) No armazenamento de dados pelo
 método FIFO
 (first in - first out), a estrutura de dados é representada por uma fila, em cuja
 posição final ocorrem
 inserções e, na inicial, retiradas.
 
-Item. 21. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da Informação) Entre
+21. (CESPE - 2008 - TRT - 5- Região (BA) - Técnico Judiciário - Tecnologia da Informação) Entre
 alguns tipos
 de estrutura de dados, podem ser citados os vetores, as pilhas e as filas.
 
-Item. 22. (CESPE - 2004 - SES/PA - Analista de Sistemas) Uma estrutura mais geral que as pilhas e filas
+22. (CESPE - 2004 - SES/PA - Analista de Sistemas) Uma estrutura mais geral que as pilhas e filas
 é o deque,
 em que as inserções, retiradas e acessos são permitidos em ambas as extremidades.
 
-Item. 23. (CESPE - 2009 - TCE/AC - Analista de Sistemas - D) Um deque (double ended queue) requer
+23. (CESPE - 2009 - TCE/AC - Analista de Sistemas - D) Um deque (double ended queue) requer
 inserção
 e remoção no topo de uma lista e permite a implementação de filas com algum tipo de
 prioridade. A
@@ -10830,7 +10596,7 @@ implementação de um deque, geralmente é realizada com a utilização de uma l
 simplesmente
 encadeada.
 
-Item. 24. (FCC - 2007 - TRT/23 - Analista de Sistemas) Uma estrutura de dados com vocação de FIFO de
+24. (FCC - 2007 - TRT/23 - Analista de Sistemas) Uma estrutura de dados com vocação de FIFO de
 duplo
 fim e que admite a rápida inserção e remoção em ambos os extremos é:
 
@@ -10844,13 +10610,13 @@ d) uma lista linear.
 
 e) uma árvore AVL.
 
-Item. 25. (CESPE - 2004 - PBV/RR - Analista de Sistemas) As filas com prioridade são listas lineares
+25. (CESPE - 2004 - PBV/RR - Analista de Sistemas) As filas com prioridade são listas lineares
 nas quais os
 elementos são pares da forma (qi, pi), em que q é o elemento do tipo base e p é uma prioridade. Elas
 possuem uma política de fila do tipo FIFO (first in first out) entre os elementos de mesma
 prioridade.
 
-Item. 26. (CESPE - 2004 - STJ - Analista de Sistemas) A seguir, está representada corretamente uma
+26. (CESPE - 2004 - STJ - Analista de Sistemas) A seguir, está representada corretamente uma
 operação de
 retirada em uma fila de nome f.
 
@@ -10859,13 +10625,12 @@ erro {fila vazia}
 
 senão j f.começo.info
 
-Item. 27. (FCC - 2016 - Prefeitura de Teresina - PI - Analista Tecnológico - Analista de
+27. (FCC - 2016 - Prefeitura de Teresina - PI - Analista Tecnológico - Analista de
 Suporte Técnico)
 Considerando uma estrutura de dados do tipo fila, e a seguinte sequência de comandos sobre essa fila
 (sendo que o comando Push representa uma inserção de elemento e o comando Pop
 representa uma
 exclusão de elemento) e considerando também que a fila estava inicialmente vazia:
-
 
 Push 3, Push 5, Pop 3, Push 7, Pop 5, Push 9, Push 8
 
@@ -10881,7 +10646,7 @@ d) 7-9-8.
 
 e) 3-5-3-7-5-9-8.
 
-Item. 28. (FCC - 2016 - TRT - 23- REGIÃO (MT) - Técnico Judiciário - Tecnologia da
+28. (FCC - 2016 - TRT - 23- REGIÃO (MT) - Técnico Judiciário - Tecnologia da
 Informação) Estruturas de
 dados básicas, como as pilhas e filas, são usadas em uma gama variada de aplicações.
 As filas, por
@@ -10901,7 +10666,7 @@ inserido.
 e) top(), que retorna o elemento do fim da fila sem removê-lo; um erro ocorrerá se a fila estiver
 vazia.
 
-Item. 29. (FCC - 2017 - TRE/BA - Analista de Sistemas) A estrutura que, além de ser similar à fila, é
+29. (FCC - 2017 - TRE/BA - Analista de Sistemas) A estrutura que, além de ser similar à fila, é
 apropriada
 para ampliar as características desta, permitindo inserir e retirar elementos tanto do
 início quanto do
@@ -10917,47 +10682,44 @@ d) fila circular.
 
 e) pilha
 
-
 GABARITo
 
 GABARITO
 
-Item. 1. Letra D 11. Letra B
-Item. 21. Correto
+1. Letra D 11. Letra B
+21. Correto
 
-Item. 2. Letra D 12. Errado
-Item. 22. Correto
+2. Letra D 12. Errado
+22. Correto
 
-Item. 3. Letra D 13. Errado
-Item. 23. Errado
+3. Letra D 13. Errado
+23. Errado
 
-Item. 4. Letra B 14. Errado
-Item. 24. Letra C
+4. Letra B 14. Errado
+24. Letra C
 
-Item. 5. Letra B 15. Errado
-Item. 25. Correto
+5. Letra B 15. Errado
+25. Correto
 
-Item. 6. Letra B 16. Errado
-Item. 26. Errado
+6. Letra B 16. Errado
+26. Errado
 
-Item. 7. Correto 17. Correto
-Item. 27. Letra D
+7. Correto 17. Correto
+27. Letra D
 
-Item. 8. Letra D 18. Letra A
-Item. 28. Letra B
+8. Letra D 18. Letra A
+28. Letra B
 
-Item. 9. Letra C 19. Letra A
-Item. 29. Letra C
+9. Letra C 19. Letra A
+29. Letra C
 
-Item. 10. Letra E 20. Correto
-
+10. Letra E 20. Correto
 
 /
 
-
 (Profs. Paolla Ramos e Raphael L
 
-Item. 1. (FGV - 2022 - SEMSA Manaus) Observe a configuração de uma árvore B, onde uma
+1. (FGV - 2022 - SEMSA Manaus) Observe a configuração de uma árvore B, onde uma
 página pode ter no
 máximo 4 filhas, contendo as chaves 7,10,15, 18, 20, 22, 26, 30, 35, 40.
 
@@ -10974,7 +10736,7 @@ d) 10,30
 
 e) 20,30
 
-Item. 2. (FGV - 2022 - SEMSA Manaus) Numa estrutura de dados do tipo Árvore B, onde
+2. (FGV - 2022 - SEMSA Manaus) Numa estrutura de dados do tipo Árvore B, onde
 cada nó não raiz pode
 conter entre d e 2.d chaves, a complexidade do algoritmo de busca é da ordem
 a) log de N na base 2.
@@ -10987,7 +10749,7 @@ d) N.
 
 e) N2.
 
-Item. 3. (UFPRE - 2022 - UFPRE) Acerca de estruturas de dados, assinale a alternativa correta.
+3. (UFPRE - 2022 - UFPRE) Acerca de estruturas de dados, assinale a alternativa correta.
 
 a) A estrutura denominada Pilha é considerada do tipo FIFO (first in, first out); o
 primeiro elemento inserido será
@@ -11011,12 +10773,11 @@ e) A estrutura denominada árvore AVL é uma árvore binária não balanceada, e
 cada nó representa uma
 diferença de altura entre as subárvores direita e esquerda de 1, 2 ou 3 nós.
 
-Item. 4. (MetroCapital Soluções - 2022 - Prefeitura de Nova Odessa - SP) A Estrutura de
+4. (MetroCapital Soluções - 2022 - Prefeitura de Nova Odessa - SP) A Estrutura de
 dados (ED) é um modo
 particular de armazenamento e organização de dados em um computador de modo
 que possam ser
 usados eficientemente. Analise a imagem a seguir:
-
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -11032,7 +10793,7 @@ d) Vetor de vetores.
 
 e) Árvore binária.
 
-Item. 5. (CESPE/CEBRASPE-2020-TJ-PA)
+5. (CESPE/CEBRASPE-2020-TJ-PA)
 
 Thomas H. Cormen et al. Algoritmos teoria
 e prática. Editora Campus, v. 2, 2002. p. 207.
@@ -11056,7 +10817,7 @@ d) successor.
 
 e) predecessor.
 
-Item. 6. (CESPE/CEBRASPE - 2022 - Petrobrás) Uma árvore de decisão representa um
+6. (CESPE/CEBRASPE - 2022 - Petrobrás) Uma árvore de decisão representa um
 determinado número de
 caminhos possíveis de decisão e os resultados de cada um deles, apresentando
 muitos pontos
@@ -11066,7 +10827,6 @@ transparente e lidam facilmente com diversos atributos numéricos, assim como
 atributos categóricos,
 podendo até mesmo classificar dados sem atributos definidos.
 
-
 De acordo com os aspectos construtivos de uma árvore de decisão, julgue o item a seguir.
 
 A entropia de uma árvore de decisão aborda o aspecto da quantidade de informações que está
@@ -11074,7 +10834,7 @@ associada às respostas
 que podem ser obtidas às perguntas formuladas, representando o grau de incerteza associado aos
 dados.
 
-Item. 7. (CESPE/CEBRASPE - 2022 - Petrobrás) Uma árvore de decisão representa um
+7. (CESPE/CEBRASPE - 2022 - Petrobrás) Uma árvore de decisão representa um
 determinado número de
 caminhos possíveis de decisão e os resultados de cada um deles, apresentando
 muitos pontos
@@ -11092,7 +10852,7 @@ aleatórias, que compõem as florestas aleatórias, pode ser realizada por meio 
 dados, em que cada
 árvore é treinada com base no resultado de bootstrap sample (inputs).
 
-Item. 8. (FGV - 2022 - MPE-GO) Árvores B são muito usadas na implementação de índices em
+8. (FGV - 2022 - MPE-GO) Árvores B são muito usadas na implementação de índices em
 bancos de dados.
 
 Uma árvore desse tipo é dita balanceada quando
@@ -11106,7 +10866,7 @@ d) o número de ponteiros em cada nó intermediário é constante.
 
 e) toda página folha tem o mesmo número de páginas intermediárias até a raiz.
 
-Item. 9. (FGV - 2018 - Câmara de Salvador - BA) Gerenciadores de bancos de dados
+9. (FGV - 2018 - Câmara de Salvador - BA) Gerenciadores de bancos de dados
 frequentemente empregam
 índices implementados na forma de árvores B. Nesse tipo de organização, considerando-se
 uma árvore
@@ -11124,7 +10884,7 @@ d) 100;
 
 e) 316.
 
-Item. 10. (FGV - 2018 - MPE-AL) Em uma árvore B de ordem d, onde cada nó que não o
+10. (FGV - 2018 - MPE-AL) Em uma árvore B de ordem d, onde cada nó que não o
 raiz possui entre d e 2d
 chaves, estão armazenadas 30.000 chaves.
 
@@ -11141,7 +10901,7 @@ d) 15
 
 e) 15.000
 
-Item. 11. (FGV - 2018 - Banestes) Sobre as características de índices estruturados na
+11. (FGV - 2018 - Banestes) Sobre as características de índices estruturados na
 forma de Btrees e Hash
 tables, analise as afirmativas a seguir.
 
@@ -11152,7 +10912,6 @@ II. B-trees favorecem consultas que buscam chaves num determinado intervalo (ope
 >= e <=).
 
 III. B-trees são usualmente mais lentas para buscas pela chave (operador =).
-
 
 IV. Hash tables favorecem buscas, com o operador 'LI KE' do SQL, que não contenham
 caracteres curingas na
@@ -11171,13 +10930,12 @@ d) somente II, III, IV;
 
 e) I, II, III, IVe V.
 
-Item. 12. (FCC-2017-TRE-SP) Considere, hipoteticamente, que um Técnico doTRE-SPtem, em seu computador,
+12. (FCC-2017-TRE-SP) Considere, hipoteticamente, que um Técnico doTRE-SPtem, em seu computador,
 a seguinte organizaçao de um diretorio
 
 Principal: Dados
 
 Dentro de Dados: Técnicos Práticos
-
 
 Dentro de Técnicos: Árvores Hash
 Dentro de Práticos: Programas
@@ -11204,7 +10962,7 @@ d) árvore, que consegue armazenar este diretório, é de ordem 5.
 
 e) hashing, ao armazenar este diretório, não terá colisões na tabela de dispersão
 
-Item. 13. (FCC - 2019 - TRF-4) Determinada estrutura de dados foi projetada
+13. (FCC - 2019 - TRF-4) Determinada estrutura de dados foi projetada
 para minimizar o número de
 acessos à memória secundária. Como o número de acessos à memória
 secundária depende
@@ -11231,13 +10989,12 @@ d) árvore rubro-negra.
 
 e) árvore binária de busca não balanceada.
 
-Item. 14. (FCC - 2015 - DPE-SP) Atenção: Para responder à próxima questão, considere as
+14. (FCC - 2015 - DPE-SP) Atenção: Para responder à próxima questão, considere as
 declarações em
 pseudocódigo abaixo.
 
 Considere que * indica ponteiro ou apontador.
 Tipo tipoNo = registro
-
 
 * 05152001900 -
 Everton Murilo Vieira
@@ -11265,7 +11022,6 @@ enquanto (aux NULO) faça
 ant <- aux
 aux <- aux->prox
 
-
 Fim
 fim se
 fim enquanto
@@ -11288,7 +11044,6 @@ fim NULO;
 
 fim se
 
-
 Fim
 fim se
 libera (aux)
@@ -11308,14 +11063,13 @@ d) árvores binárias de busca, cujas funções que realizam percursos são natu
 implementadas usando-se
 recursividade.
 
-
 e) árvores binárias balanceadas, nas quais, para cada nó, as alturas de suas subárvores diferem
 de, no máximo,
 
-Item. 2. Nelas, o custo das operações depende da altura da árvore, por isso elas devem ter a
+2. Nelas, o custo das operações depende da altura da árvore, por isso elas devem ter a
 maior altura possível.
 
-Item. 15. (FGV - 2022 - SEFAZ-AM) A estrutura de dados usada em índices multiníveis
+15. (FGV - 2022 - SEFAZ-AM) A estrutura de dados usada em índices multiníveis
 dinâmicos em banco de
 dados relacionais, que garantem que tais estruturas sempre estejam balanceadas
 e que o espaço
@@ -11330,7 +11084,7 @@ d) árvore B.
 
 e) árvore binária.
 
-Item. 16. (FGV - 2021 - IMBEL) Considere uma árvore B+ com as seguintes características.
+16. (FGV - 2021 - IMBEL) Considere uma árvore B+ com as seguintes características.
 
 I. A raiz é uma folha ou um nó que contém, no mínimo, dois filhos.
 
@@ -11356,45 +11110,43 @@ d) 100
 
 e) 1.000
 
-Item. 17. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
+17. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
 Dados) As operações de
 busca em uma árvore binária não a alteram, enquanto operações de inserção e
 remoção de nós
 provocam mudanças sistemáticas na árvore.
 
-Item. 18. (CETAP - 2010 - AL-RR - Analista de Sistemas - A) Uma árvore binária é aquela
+18. (CETAP - 2010 - AL-RR - Analista de Sistemas - A) Uma árvore binária é aquela
 que tem como conteúdo
 somente valores binários.
 
-Item. 19. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados)
+19. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de Dados)
 O tipo de dados
 árvore representa organizações hierárquicas entre dados.
 
-Item. 20. (CETAP - 2010 - AL-RR - Analista de Sistemas - B) Uma árvore é composta por
+20. (CETAP - 2010 - AL-RR - Analista de Sistemas - B) Uma árvore é composta por
 duas raízes, sendo uma
 principal e a outra secundária.
 
-Item. 21. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) Denomina-se árvore binária a
+21. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) Denomina-se árvore binária a
 que possui apenas
 dois nós.
 
-Item. 22. (FUNCAB - 2010 - SEJUS-RO - Analista de Sistemas - II) Árvores são estruturas
+22. (FUNCAB - 2010 - SEJUS-RO - Analista de Sistemas - II) Árvores são estruturas
 de dados estáticas com
 sua raiz representada no nível um.
 
-
 ,
 
-
-Item. 23. (CESPE - 2009 - ANAC - Especialista em Regulação - Economia) Considerando-se uma
+23. (CESPE - 2009 - ANAC - Especialista em Regulação - Economia) Considerando-se uma
 árvore binária
 completa até o nível 5, então a quantidade de folhas nesse nível será 24.
 
-Item. 24. (CESPE - 2009 - ANAC - Analista de Sistemas) Uma árvore binária completa até o
+24. (CESPE - 2009 - ANAC - Analista de Sistemas) Uma árvore binária completa até o
 nível 10 tem 2.047
 nós.
 
-Item. 25. (FGV - 2015 - DPE/MT - Analista de Sistemas) No desenvolvimento de
+25. (FGV - 2015 - DPE/MT - Analista de Sistemas) No desenvolvimento de
 sistemas, a escolha de
 estruturas de dados em memória é especialmente relevante. Dentre outras
 classificações, é possível
@@ -11414,21 +11166,21 @@ d) Pilha e árvore binária de busca.
 
 e) Fila e pilha.
 
-Item. 26. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) As listas, pilhas, filas e
+26. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) As listas, pilhas, filas e
 árvores são estruturas de
 dados que têm como principal característica a sequencialidade dos seus elementos.
 
-Item. 27. (FCC - 2012 - MPE-AP - Analista Ministerial - Tecnologia da Informação - A) A
+27. (FCC - 2012 - MPE-AP - Analista Ministerial - Tecnologia da Informação - A) A
 árvore é uma estrutura
 linear que permite representar uma relação de hierarquia. Ela possui um nó
 raiz e subárvores não
 vazias.
 
-Item. 28. (CESPE - 2010 -TRE/MT - Analista de Sistemas - E) O uso de recursividade é
+28. (CESPE - 2010 -TRE/MT - Analista de Sistemas - E) O uso de recursividade é
 totalmente inadequado
 na implementação de operações para manipular elementos de uma estrutura de dados do tipo árvore.
 
-Item. 29. (FCC - 2011 - TRT - 19- Região (AL) - Técnico Judiciário - Tecnologia da
+29. (FCC - 2011 - TRT - 19- Região (AL) - Técnico Judiciário - Tecnologia da
 Informação) Em uma árvore
 binária, todos os nós têm grau:
 
@@ -11442,14 +11194,13 @@ d) maior ou igual a 2.
 
 e) 0 ou 1.
 
-Item. 30. (CESPE - 2011 - STM - Analista de Sistemas) Enquanto uma lista
+30. (CESPE - 2011 - STM - Analista de Sistemas) Enquanto uma lista
 encadeada somente pode ser
 percorrida de um único modo, uma árvore binária pode ser percorrida de muitas maneiras diferentes.
 
-Item. 31. (FCC - 2016 - Prefeitura de Teresina - PI - Analista Tecnológico -
+31. (FCC - 2016 - Prefeitura de Teresina - PI - Analista Tecnológico -
 Analista de Suporte Técnico)
 Considerando a estrutura de dados denominada árvore,
-
 
 a) a sua altura é definida como a profundidade média de todos os seus vértices.
 
@@ -11463,7 +11214,7 @@ e) a profundidade de um vértice em uma árvore é definida como o comprimento d
 da árvore até
 esse vértice.
 
-Item. 32. (CESPE - 2017 - TRE/BA - Analista de Sistemas) No estabelecimento de uma estrutura
+32. (CESPE - 2017 - TRE/BA - Analista de Sistemas) No estabelecimento de uma estrutura
 hierárquica, foi
 definida a seguinte árvore binária S:
 
@@ -11483,14 +11234,12 @@ d) (13(10(9)(ll))(14(15)))
 
 e) (13(ll(9)(10))(14(15)))
 
-Item. 33. (CESGRANRIO - 2012 - PETROBRÁS - Analista de Sistemas) Qual figura representa uma árvore AVL?
+33. (CESGRANRIO - 2012 - PETROBRÁS - Analista de Sistemas) Qual figura representa uma árvore AVL?
 a)
 
 b)
 
-
 ,
-
 
 d)
 
@@ -11498,8 +11247,7 @@ e)
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
-
-Item. 34. (CESGRANRIO - 2006 - DECEA - Analista de Sistemas) Suponha a seguinte árvore AVL.
+34. (CESGRANRIO - 2006 - DECEA - Analista de Sistemas) Suponha a seguinte árvore AVL.
 
 A inserção do elemento 30 nessa árvore:
 
@@ -11513,7 +11261,7 @@ d) altera a raiz da árvore (nó 41).
 
 e) torna o nó 33 pai do nó 27.
 
-Item. 35. (CESPE - 2012 - TJ/RO - Analista de Sistemas) Assinale a opção em que é apresentado exemplo de
+35. (CESPE - 2012 - TJ/RO - Analista de Sistemas) Assinale a opção em que é apresentado exemplo de
 estrutura de informação do tipo abstrata, balanceada, não linear e com relacionamento hierárquico.
 
 a) lista duplamente encadeada
@@ -11523,10 +11271,9 @@ d) árvore AVL
 
 e) deque
 
-Item. 36. (FCC - 2008 - TRT/18 - Analista de Sistemas) Árvore AVL balanceada em altura significa que,
+36. (FCC - 2008 - TRT/18 - Analista de Sistemas) Árvore AVL balanceada em altura significa que,
 para cada
 nó da árvore, a diferença entre as alturas das suas sub- árvores (direita e esquerda) sempre será:
-
 
 a) menor ou igual a 2.
 
@@ -11538,7 +11285,7 @@ d) igual a 1.
 
 e) igual a -1, 0 ou 1.
 
-Item. 37. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas) Uma árvore AVL é uma
+37. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas) Uma árvore AVL é uma
 estrutura de dados
 muito usada para armazenar dados em memória. Ela possui algumas propriedades que fazem
 com que
@@ -11558,7 +11305,7 @@ d) 3
 
 e) 2
 
-Item. 38. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas) Uma árvore AVL é uma
+38. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas) Uma árvore AVL é uma
 árvore binária de
 busca autobalanceada que respeita algumas propriedades fundamentais. Como todas
 as árvores, ela
@@ -11574,7 +11321,7 @@ c) Uma árvore com três nós e altura igual a dois
 d) Uma árvore com três nós e altura igual a três
 e) Uma árvore com seis nós e altura igual a três
 
-Item. 39. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas) Após a inserção de um
+39. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas) Após a inserção de um
 nó, é necessário
 verificar cada um dos nós ancestrais desse nó inserido, relativamente à
 consistência com as regras
@@ -11589,7 +11336,6 @@ formado por
 
 Analisando-se as afirmações acima, conclui-se que:
 
-
 a) as duas afirmações são verdadeiras, e a segunda justifica a primeira.
 
 b) as duas afirmações são verdadeiras, e a segunda não justifica a primeira.
@@ -11600,7 +11346,7 @@ d) a primeira afirmação é falsa, e a segunda é verdadeira.
 
 e) as duas afirmações são falsas.
 
-Item. 40. (CESGRANRIO - 2010 - EPE - Analista de Sistemas) Um programador decidiu
+40. (CESGRANRIO - 2010 - EPE - Analista de Sistemas) Um programador decidiu
 utilizar, em determinado
 sistema de análise estatística, uma árvore AVL como estrutura de dados.
 Considerando-se n a
@@ -11618,7 +11364,7 @@ d) Q(n log n)
 
 e) Q(n2)
 
-Item. 41. (CESGRANRIO - 2012 - PETROBRÁS - Analista de Sistemas) Todos os N nomes de
+41. (CESGRANRIO - 2012 - PETROBRÁS - Analista de Sistemas) Todos os N nomes de
 uma lista de
 assinantes de uma companhia telefônica foram inseridos, em ordem alfabética, em
 três estruturas de
@@ -11636,7 +11382,7 @@ d) O(N), O(Log(N)), O(Log(N))
 
 e) O(N),O(N),O(Log(N))
 
-Item. 42. (IBFC - 2014 - TRE/AM - Analista de Sistemas) Quanto ao Algoritmo e estrutura
+42. (IBFC - 2014 - TRE/AM - Analista de Sistemas) Quanto ao Algoritmo e estrutura
 de dados no caso de
 árvore AVL (ou árvore balanceada pela altura), analise as afirmativas abaixo, dê
 valores Verdadeiro (V)
@@ -11658,8 +11404,7 @@ c) V-F
 
 d) V-V
 
-
-Item. 43. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas) Uma sequência desordenada
+43. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas) Uma sequência desordenada
 de números
 armazenada em um vetor é inserida em uma árvore AVL. Após a inserção nesta árvore, é
 feito um
@@ -11679,7 +11424,7 @@ d) na ordem inversa do vetor original.
 
 e) ordenada ascendentemente de acordo com sua altura na árvore.
 
-Item. 44. (FGV - 2009 - MEC - Analista de Sistemas) Acerca das estruturas de
+44. (FGV - 2009 - MEC - Analista de Sistemas) Acerca das estruturas de
 dados Árvores, analise as
 afirmativas a seguir.
 
@@ -11692,7 +11437,7 @@ genéricas como os grafos.
 III. Em uma Árvore Binária de Busca, todas as chaves da subárvore esquerda são maiores que a chave
 da raiz.
 
-Item. 45. (CESPE - 2014 - TJ/SE - Analista de Sistemas) Em uma árvore AVL (Adelson-Velsky
+45. (CESPE - 2014 - TJ/SE - Analista de Sistemas) Em uma árvore AVL (Adelson-Velsky
 e Landis), caso a
 diferença de altura entre as sub-árvores de um nó seja igual a 2 e a diferença de
 altura entre o nó filho
@@ -11700,7 +11445,7 @@ do nó desbalanceado seja igual a -1, deve-se realizar uma rotação dupla com o
 para a direita e o
 pai para a esquerda a fim de que a árvore volte a ser balanceada.
 
-Item. 46. (CESPE - 2010 - PETROBRÁS - Analista de Sistemas) As árvores usadas como
+46. (CESPE - 2010 - PETROBRÁS - Analista de Sistemas) As árvores usadas como
 estruturas de pesquisa
 têm características especiais que garantem sua utilidade e propriedades como facilidade
 de acesso aos
@@ -11718,7 +11463,6 @@ filhos.
 
 É (São) correta(s) APENAS a(s) afirmativa(s):
 
-
 a) I.
 
 b) II.
@@ -11729,7 +11473,7 @@ d) I e II.
 
 e) II e III.
 
-Item. 47. (CESPE - 2010 - PETROBRÁS - Analista de Sistemas) No sistema de dados do Departamento de
+47. (CESPE - 2010 - PETROBRÁS - Analista de Sistemas) No sistema de dados do Departamento de
 Recursos
 Humanos de uma grande empresa multinacional, os registros de funcionários são
 armazenados em
@@ -11754,7 +11498,7 @@ d) 15
 
 e) 8
 
-Item. 48. (CESPE - 2014 - TJ/SE - Analista de Sistemas) Existem dois vetores, chamados A
+48. (CESPE - 2014 - TJ/SE - Analista de Sistemas) Existem dois vetores, chamados A
 e B, que estão
 ordenados e contêm N elementos cada, respeitando a propriedade A[N-l]<B[0],
 onde os índices de
@@ -11784,113 +11528,109 @@ d) não estão ordenados e A[i] < B[i], para todo i=0, , N-l.
 
 e) não estão ordenados e A[i] > B[i], para todo i=0, , N-l.
 
-
 GABARITo
 
 GABARITO
 
+1. Letra B
 
-Item. 1. Letra B
+2. Letra B
 
-Item. 2. Letra B
+3. Letra D
 
-Item. 3. Letra D
+4. Letra E
 
-Item. 4. Letra E
+5. Letra B
 
-Item. 5. Letra B
+6. Correto
 
-Item. 6. Correto
+7. Correto
 
-Item. 7. Correto
+8. Letra E
 
-Item. 8. Letra E
+9. Letra B
 
-Item. 9. Letra B
+10. Letra B
 
-Item. 10. Letra B
+11. Letra B
 
-Item. 11. Letra B
+12. Letra D
 
-Item. 12. Letra D
+13. Letra B
 
-Item. 13. Letra B
+14. Letra D
 
-Item. 14. Letra D
+15. Letra D
 
-Item. 15. Letra D
+16. Letra B
 
-Item. 16. Letra B
+17. Correto
 
-Item. 17. Correto
+18. Errado
 
-Item. 18. Errado
+19. Correto
 
-Item. 19. Correto
+20. Errado
 
-Item. 20. Errado
+21. Errado
 
-Item. 21. Errado
+22. Errado
 
-Item. 22. Errado
+23. Errado
 
-Item. 23. Errado
+24. Correto
 
-Item. 24. Correto
+25. Letra D
 
-Item. 25. Letra D
+26. Errado
 
-Item. 26. Errado
+27. Errado
 
-Item. 27. Errado
+28. Errado
 
-Item. 28. Errado
+29. Errado
 
-Item. 29. Errado
+30. Correto
 
-Item. 30. Correto
+31. Letra E
 
-Item. 31. Letra E
+32. Anulada
 
-Item. 32. Anulada
+33. Letra E
 
-Item. 33. Letra E
+34. Letra B
 
-Item. 34. Letra B
+35. Letra D
 
-Item. 35. Letra D
+36. Letra E
 
-Item. 36. Letra E
+37. Letra D
 
-Item. 37. Letra D
+38. Letra D
 
-Item. 38. Letra D
+39. Letra C
 
-Item. 39. Letra C
+40. Letra B
 
-Item. 40. Letra B
+41. Letra D
 
-Item. 41. Letra D
+42. Letra D
 
-Item. 42. Letra D
+43. Letra B
 
-Item. 43. Letra B
+44. Letra B
 
-Item. 44. Letra B
+45. Letra C
 
-Item. 45. Letra C
+46. Letra E
 
-Item. 46. Letra E
+47. Letra D
 
-Item. 47. Letra D
-
-Item. 48. Letra A
-
-SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
+48. Letra A
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
+SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
 
 LISTA DE QUESTõES - CRAFoS - MULTIBANCAS
 
@@ -11899,31 +11639,29 @@ segue.
 
 A soma dos graus de todos os vértices de um grafo é sempre par.
 
-Item. 2. (CESPE/CEBRASPE-2018-PF)
+2. (CESPE/CEBRASPE-2018-PF)
 
 Considerando a terminologia e os conceitos básicos de grafos, julgue o item a seguir, relativo ao
 grafo precedente.
 No grafo em apreço, existem três ciclos com comprimento quatro: AJBA, BKLB e CDMC.
 
-Item. 3. (CESPE/CEBRASPE-2018-PF)
+3. (CESPE/CEBRASPE-2018-PF)
 
 Considerando a terminologia e os conceitos básicos de grafos, julgue o item a seguir, relativo ao
 grafo precedente.
 O grafo em questão tem diâmetro igual a quatro.
 
-Item. 4. (CESPE/CEBRASPE-2018-PF)
+4. (CESPE/CEBRASPE-2018-PF)
 
 Considerando a terminologia e os conceitos básicos de grafos, julgue 0 item a seguir, relativo ao
 grafo precedente.
 Os vértices A, B, C, D, J, K, L, M têm graus iguais, respectivamente, a 2, 4, 3, 2, 2, 2, 3, 2.
 
-Item. 5. (CESPE/CEBRASPE-2018-IFF)
-
+5. (CESPE/CEBRASPE-2018-IFF)
 
 / 215
 
 /
-
 
 Considerando o grafo precedente, assinale a opção correta.
 
@@ -11937,7 +11675,7 @@ d) Os nós 2 e 3 têm grau 3.
 
 e) O grafo não pode ser classificado como conexo.
 
-Item. 6. (CESPE/CEBRASPE - 2017 - TRE-TO) A estrutura de dados formada por conjuntos de pontos (nós
+6. (CESPE/CEBRASPE - 2017 - TRE-TO) A estrutura de dados formada por conjuntos de pontos (nós
 ou vértices) em um conjunto de linhas (arestas e arcos) que conectam vários pontos é denominada
 a) lista encadeada.
 
@@ -11949,15 +11687,14 @@ d) árvore.
 
 e) pilha.
 
-Item. 7. (CESPE/CEBRASPE - 2019 - TJ-AM) A respeito de lógica, estrutura e linguagem de programação,
+7. (CESPE/CEBRASPE - 2019 - TJ-AM) A respeito de lógica, estrutura e linguagem de programação,
 julgue o item seguinte.
 
 Na estrutura do tipo grafo, cada elemento indica 0 próximo elemento, seja aquele que
 0 antecede ou aquele que é
 seu sucessor, e cada elemento está associado a somente um antecessor e a vários sucessores.
 
-Item. 8. (FCC - 2017 - ARTESP) Considere a estrutura de dados abaixo.
-
+8. (FCC - 2017 - ARTESP) Considere a estrutura de dados abaixo.
 
 Esta estrutura representa cinco localidades indicadas por 0, 1, 2, 3, 4 com as rotas
 e as respectivas distâncias entre
@@ -11976,7 +11713,6 @@ b) a distância da rota direta partindo de uma localidade x para uma localidade 
 da rota de retorno
 de y para x.
 
-
 www. estra tegiaconcursos. com. br
 c) a rota direta mais longa entre duas localidades é 9.
 
@@ -11984,7 +11720,7 @@ d) a rota mais curta partindo da localidade 3 e chegando na localidade 2 é 9.
 
 e) é possível ir e voltar de todas as localidades adjacentes.
 
-Item. 9. (FCC - 2017 - ARTESP) Nas rodovias paulistas os veículos pagam pedágio em função
+9. (FCC - 2017 - ARTESP) Nas rodovias paulistas os veículos pagam pedágio em função
 do número de
 eixos e da sua categoria. Há 15 categorias de veículos. Para realizar o cálculo do
 pedágio, existe uma
@@ -12021,7 +11757,7 @@ c) vp vp + (mpedagio[0rn] + mpedagio[1rn]) * tm
 d) vp <- (mpedagio[n r 0]/ mpedagio[n , 1]) * tm
 e) se (n = 0) então vp <- 0 senão vp <- (mpedagio[0 r n]/ 2) * tm fim se
 
-Item. 10. (FCC - 2017 - ARTESP) Considere a estrutura abaixo que representa um
+10. (FCC - 2017 - ARTESP) Considere a estrutura abaixo que representa um
 problema de rotas em
 pequena escala.
 
@@ -12041,7 +11777,6 @@ c) {1} {3,2} {4,5} {6}, caminho mais curto 1-3-4-6.
 d) {6} {5,4} {3,1} {1}, caminho mais curto 6-4-3-1, que é igual a 1-3-4-6.
 
 e) {6} {4} {5,3} {2,1} {1}, caminho mais curto 6-4-3-5-2-1, que é igual a 1-2-5-3-4-6.
-
 
 www. estra tegiaconcursos. com. br
 íi. (FCC - 2018 - DPE-AM) Considere o grafo abaixo.
@@ -12073,7 +11808,7 @@ d) 20
 
 e) 18
 
-Item. 12. (FGV - 2019 - DPE-RJ) Para que um sistema seja testado adequadamente,
+12. (FGV - 2019 - DPE-RJ) Para que um sistema seja testado adequadamente,
 é preciso realizar uma
 quantidade mínima de testes. Para apoiar essa definição, foi criada a
 Complexidade Ciclomática de
@@ -12087,11 +11822,9 @@ Complexidade Ciclomática pode ser calculada tanto pelo número de regiões quan
 pelo número
 de arestas e nós.
 
-
 / 215
 
 /
-
 
 Com base no grafo de fluxo acima, correspondente a um trecho de código a sertestado, a quantidade
 mínima detestes
@@ -12108,14 +11841,14 @@ d) 4 (quatro);
 
 e) 3 (três).
 
-Item. 13. (CESPE - 2010-TJ/ES-Analista de Suporte) Considerando-se a implementação de um grafo
+13. (CESPE - 2010-TJ/ES-Analista de Suporte) Considerando-se a implementação de um grafo
 denso,
 direcionado e ponderado, se o número de vértices ao quadrado tem valor próximo ao
 número de
 arcos, o uso de uma matriz de adjacência simétrica apresenta vantagens em relação ao uso de uma
 lista de adjacência.
 
-Item. 14. (FCC - 2013 - MPE/SE - Analista do Ministério Público) Considere:
+14. (FCC - 2013 - MPE/SE - Analista do Ministério Público) Considere:
 
 I. Estrutura de dados que possui uma sequência de células, na qual cada célula contém um objeto
 de algum tipo e o endereço da célula seguinte.
@@ -12135,13 +11868,11 @@ d) listas ligadas, grafos e árvores binárias.
 
 e) grafos, listas ligadas e árvores binárias.
 
-Item. 15. (CESPE - 2013 -TCE/ES - Analista de Sistemas) Considerando 0 grafo ilustrado acima,
+15. (CESPE - 2013 -TCE/ES - Analista de Sistemas) Considerando 0 grafo ilustrado acima,
 assinale a
 opção em que é apresentada a descrição em vértices (V) e arestas (A).
 
-
 ,
-
 
 a) V = {1, 2, 3, 4, 5, 6 }
 
@@ -12163,13 +11894,13 @@ e) V = { 2, 4,1, 3, 6, 5}
 
 A = {(4, 2), (3,1), (5, 2), (6, 3), (5, 3)}
 
-Item. 16. (CESPE - 2012 -TJ/RO-Analista de Suporte - ITEM B) Grafo corresponde a uma
+16. (CESPE - 2012 -TJ/RO-Analista de Suporte - ITEM B) Grafo corresponde a uma
 estrutura abstrata
 de dados que representa um relacionamento entre pares de objetos e que pode armazenar
 dados
 em suas arestas e vértices, ou em ambos.
 
-Item. 17. (CESPE - 2012 - PEFOCE - Perito Criminal) Considere que um grafo G seja
+17. (CESPE - 2012 - PEFOCE - Perito Criminal) Considere que um grafo G seja
 constituído por um
 conjunto (N) e por uma relação binária (A), tal que G = (N, A), em que os
 elementos de N são
@@ -12178,14 +11909,13 @@ dessas informações e do grafo abaixo, é correto afirmar que esses conjuntos s
 
 {(1,2),(2,1),(2,4),(2,3)}.
 
-
-Item. 18. (CESPE - 2012 - BASA - Analista de Sistemas) É misto o grafo com arestas não
+18. (CESPE - 2012 - BASA - Analista de Sistemas) É misto o grafo com arestas não
 dirigidas que
 representam ruas de dois sentidos e com arestas dirigidas que correspondem a trechos de um único
 sentido, modelado para representar o mapa de uma cidade cujos vértices sejam os cruzamentos ou
 finais de ruas e cujas arestas sejam os trechos de ruas sem cruzamentos.
 
-Item. 19. (CESPE - 2012 - BASA - Analista de Sistemas) Para modelar a rede que conecta
+19. (CESPE - 2012 - BASA - Analista de Sistemas) Para modelar a rede que conecta
 todos os
 computadores em uma sala de escritório com a menor metragem possível de cabos, é
 adequado
@@ -12193,24 +11923,22 @@ utilizar um grafo G cujos vértices representem os possíveis pares (u, v) de
 computadores e cujas
 arestas representem 0 comprimento dos cabos necessários para ligar os computadores u e v,
 
-
 ,
-
 
 determinando-se o caminho mínimo, que contenha todos os vértices de G, a partir de um
 dado
 vértice v.
 
-Item. 20. (CESPE - 2012- BASA-Analista de Sistemas) Um grafo completo contém pelo menos um subgrafo
+20. (CESPE - 2012- BASA-Analista de Sistemas) Um grafo completo contém pelo menos um subgrafo
 ponderado.
 
-Item. 21. (CESPE - 2012 - BASA - Analista de Sistemas) Um grafo não direcionado é dito conectado quando
+21. (CESPE - 2012 - BASA - Analista de Sistemas) Um grafo não direcionado é dito conectado quando
 há pelo menos um caminho entre dois vértices quaisquer do grafo.
 
-Item. 22. (CESPE - 20i2-TJ/AC-Analista de Sistemas) Define-se um grafo como fortemente conexo se todos
+22. (CESPE - 20i2-TJ/AC-Analista de Sistemas) Define-se um grafo como fortemente conexo se todos
 os nós puderem ser atingidos a partir de qualquer outro nó.
 
-Item. 23. (CESPE - 2013 - CRPM - Analista de Sistemas) Considere que 0 grafo não orientado representado
+23. (CESPE - 2013 - CRPM - Analista de Sistemas) Considere que 0 grafo não orientado representado
 na figura abaixo possua as seguintes características:
 
 Gi = (Vi, Ai)
@@ -12223,12 +11951,12 @@ Nesse caso, é correto afirmar que o grafo Gi possui quatro vértices, nomeados 
 cinco
 arcos, que conectam pares de vértices, conforme especificado em Ai.
 
-Item. 24. (CESPE - 2012 - BASA - Analista de Sistemas) A implementação de um grafo do tipo ponderado e
+24. (CESPE - 2012 - BASA - Analista de Sistemas) A implementação de um grafo do tipo ponderado e
 direcionado na forma de uma matriz de adjacência utiliza menor quantidade de memória
 que a
 implementação desse mesmo grafo na forma de uma lista encadeada.
 
-Item. 25. (CESGRANRIO - 2014 - BASA - Analista de Sistemas) O grafo acima pode ser
+25. (CESGRANRIO - 2014 - BASA - Analista de Sistemas) O grafo acima pode ser
 representado pela
 seguinte matriz:
 
@@ -12251,7 +11979,6 @@ b) 10001
 10001
 
 01010
-
 
 0 1111
 
@@ -12283,11 +12010,11 @@ e) 10 10 1
 
 110 0 0
 
-Item. 26. (CESPE - 2012 - TJ/SE - Analista de Sistemas) Um grafo é formado por um par de
+26. (CESPE - 2012 - TJ/SE - Analista de Sistemas) Um grafo é formado por um par de
 conjuntos de
 vértices e arestas, não podendo o conjunto de vértices ser particionado em subconjuntos.
 
-Item. 27. (CESPE - 2012 - TRT/AM - Analista de Sistemas) Um grafo é uma estrutura de dados consistida em
+27. (CESPE - 2012 - TRT/AM - Analista de Sistemas) Um grafo é uma estrutura de dados consistida em
 um conjunto de nós (ou vértices) e um conjunto de arcos (ou arestas). O grafo em
 que os arcos
 possuem um número ou peso associados a eles, é chamado de grafo:
@@ -12302,61 +12029,57 @@ d) ponderado.
 
 e) orientado.
 
-
 www. estra tegiaconcursos. com. br
-
 
 GABARITo
 
 GABARITO
 
-Item. 1. Correto 10. Letra C
-Item. 19. Errado
+1. Correto 10. Letra C
+19. Errado
 
-Item. 2. Errado 11. Letra A
-Item. 20. Errado
+2. Errado 11. Letra A
+20. Errado
 
 3- Correto 12. Letra D
-Item. 21. Correto
+21. Correto
 
 4- Correto 13- Errado
-Item. 22. Correto
+22. Correto
 
 5- Letra E U- Letra D
-Item. 23. Errado
+23. Errado
 
-Item. 6. Letra C 15- Letra E
-Item. 24. Errado
+6. Letra C 15- Letra E
+24. Errado
 
 7- Errado 16. Correto
-Item. 25. Letra A
+25. Letra A
 
-Item. 8. Letra B 17- Correto
-Item. 26. Errado
+8. Letra B 17- Correto
+26. Errado
 
 9- Letra B i8. Correto
-Item. 27. Letra D
-
+27. Letra D
 
 www. estra tegiaconcursos. com. br
 
-
 LISTA DE QUESTõES - HASHING - MULTIBANCAS
 
-Item. 1. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
+1. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
 Informação - Administração de Dados) A pesquisa sequencial é aplicável em
 estruturas não ordenadas.
 
-Item. 2. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
+2. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
 Dados) As colisões ocorrem na utilização de tabela hash porque várias chaves
 podem resultar na mesma posição.
 
-Item. 3. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
+3. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia da
 Informação - Administração de Dados) Ocorre o hashing quando não há o
 armazenamento de cada entrada de uma tabela em um específico endereço
 calculado a partir da aplicação de uma função chave da entrada.
 
-Item. 4. (FCC - 2008 - METRÔ-SP - Analista Treinee - Análise de Sistemas) O objetivo de
+4. (FCC - 2008 - METRÔ-SP - Analista Treinee - Análise de Sistemas) O objetivo de
 fazer uma busca rápida a partir de uma chave de pesquisa simples e obter o
 valor desejado é alcançado pela estrutura de dados especial denominada:
 
@@ -12370,15 +12093,15 @@ d) árvore binária.
 
 e) tabela de hashing.
 
-Item. 5. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
+5. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Administração de
 Dados) A busca que utiliza uma tabela hash realiza comparação das chaves para
 encontrar a posição do elemento que está sendo buscado.
 
-Item. 6. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) No método de hashing, por
+6. (CESPE - 2010 - DETRAN-ES - Analista de Sistemas) No método de hashing, por
 meio de acesso sequencial, são utilizados tabelas e mapas para recuperar
 informações de endereço de arquivos de forma rápida e eficiente.
 
-Item. 7. (FCC - 2015 - DPE-SP - Programador) Um Programador da Defensoria Pública
+7. (FCC - 2015 - DPE-SP - Programador) Um Programador da Defensoria Pública
 do Estado de São Paulo foi solicitado a propor uma solução para o problema: Há
 uma quantidade grande de dados classificáveis por chave e estes dados devem
 ser divididos em subconjuntos com base em alguma característica das chaves.
@@ -12386,9 +12109,7 @@ Um método eficiente deve ser capaz de localizar em qual subconjunto deve-se
 colocar cada chave e depois estes subconjuntos bem menores devem ser
 gerenciados por algum método simples de busca para que se localize uma chave
 
-
 ,
-
 
 rapidamente. O Programador propôs como solução, corretamente, a
 implementação de:
@@ -12403,38 +12124,32 @@ d) Fila duplamente encadeada.
 
 e) Árvore Binária de Busca.
 
-
 ,
-
 
 GABARITo
 
 GABARITO
 
+1. c
 
-Item. 1. c
+2. C
 
-Item. 2. C
+3. E
 
-Item. 3. E
+4. E
 
-Item. 4. E
+5. E
 
-Item. 5. E
+6. E
 
-Item. 6. E
-
-Item. 7. B
-
+7. B
 
 LISTA DE QUESTõES - BITMAP - MULTIBANCAS
 
-Item. 1. (FGV - 2015 - TJ-RO - Analista Judiciário - Análise de Sistemas)
-
+1. (FGV - 2015 - TJ-RO - Analista Judiciário - Análise de Sistemas)
 
 ID
 1210
-
 
 Nome
 A
@@ -12493,9 +12208,7 @@ c)
 
 57 100
 
-
 1210
-
 
 d)
 0011001100
@@ -12503,7 +12216,6 @@ d)
 0100100000
 
 0010010011
-
 
 e)
 00000000110
@@ -12528,12 +12240,10 @@ Matemática
 Química
 Química
 
-Item. 2. (FGV - 2014 - DPE-RJ - Técnico Superior Especializado - Administração de
+2. (FGV - 2014 - DPE-RJ - Técnico Superior Especializado - Administração de
 Dados)
 
-
 0 0
-
 
 Candidato
 inscrição candidatoNome
@@ -12584,7 +12294,6 @@ considerada é a concatenação dos atributos Inscrição e provaNome.
 
 lOlMatemática 00001000000
 
-
 lOlPortuguês
 lOIPrática
 
@@ -12594,7 +12303,6 @@ lOIPrática
 
 102Matemática 00000100000
 
-
 102Português
 102Prática
 
@@ -12603,7 +12311,6 @@ lOIPrática
 00000000100
 
 105Matemática 00000010000
-
 
 105Português
 105Prática
@@ -12618,9 +12325,7 @@ lOóPrática
 
 00000000001
 
-
 www. estra tegiaconcursos. com. br
-
 
 Num mapa de bits para a mesma tabela, usando apenas o atributo Inscrição, o mapa
 de bits seria
@@ -12672,13 +12377,11 @@ e)
 
 106 011
 
-
 GABARITo
 
 CABARITO
 
-Item. 1. B
+1. B
 
-Item. 2. A
-
+2. A
 

@@ -1,10 +1,8 @@
-Capítulo. Desenvolvimento de Informação - Tecnologias de integração. Workflow.
-
+# Desenvolvimento de Informação - Tecnologias de integração. Workflow.
 
 Índice
 
 1) Workflow
-
 
 WORKFLOW
 
@@ -35,7 +33,6 @@ Atividade é o conjunto de procedimentos que deve ser executado a fim de produzi
 um determinado resultado. É considerada uma unidade de trabalho executada por um único
 responsável, que tem condições determinadas de início e fim. Enfim, qualquer ação ou
 trabalho específico.
-
 
 Atividades podem ser divididas em primárias, que têm participação direta na criação
 do bem ou serviço. As atividades primárias podem ser críticas ou não críticas. As
@@ -92,10 +89,8 @@ Nesta situação a tarefa deixa de ser o menor elemento e passa a ser a decompos
 das atividades em um conjunto de passos ou ações para realizar o trabalho determinado.
 Já o cenário é uma modalidade de execução da tarefa, que pode ser subdividido em passos,
 
-
 que, neste caso, é uma ação no nível atômico. Outro ponto interessante é que o CBOK
 apresenta a visão lógica e visão física na modelagem de um workflow.
-
 
 Visão lógica
 
@@ -130,7 +125,6 @@ transversais à organização. Elas ajudam na normalização das formas de traba
 e
 aumentam a eficiência global das atividades de uma empresa ou organização. É possível,
 por exemplo, formalizar a aprovação ou reprovação de uma tarefa.
-
 
 Imagine que você fez um relatório e seu chefe tenha que validá-lo. Por meio de uma
 ferramenta de workflow, você pode inserir esse documento e enviar para o seu chefe
@@ -187,7 +181,6 @@ médico. O sistema deve correlacionar a chegada do relatório com o processo
 * Distribuição de trabalho - Distribuição das tarefas entre um conjunto
 de
 participantes disponíveis.
-
 
 * Exceção - Evento que ocorre fora da sequência normal de um processo
 de
@@ -302,7 +295,6 @@ processadas de modo ininterrupto. Um exemplo são os sistemas de análise e conc
 de empréstimos e seguros de bancos e seguradoras: repetitivos, previsíveis e de larga
 escala. Veja um exemplo na figura a seguir relativo a um empréstimo bancário:
 
-
 COLABORATIVO
 
 Os sistemas de workflow colaborativo são adequados para processos que envolvam
@@ -331,7 +323,6 @@ Exemplo: Na mudança de regra, os documentos passam a ser tratados e processados
 a regra nova sem afetar documentos da regra antiga. Veja o exemplo a seguir para
 entender
 o exemplo de um workflow orientado para objeto.
-
 
 TRANSACIoNAL
 
@@ -385,7 +376,6 @@ existente em uma atividade. Definimos, portanto, quem faz o que, não se refere 
 pessoas
 ou cargos, mas a papéis.
 
-
 As regras (rules) são atributos que definem de que forma os dados que trafegam no
 fluxo de trabalho devem ser processados, roteados e controlados pelo sistema de
 Workflow.
@@ -411,7 +401,5 @@ outro dentro do fluxo de trabalho. As rotas podem ser sequenciais, paralelas
 ou
 condicionais, conforme verificamos na figura abaixo:
 
-
 Rota Sequencial
-
 

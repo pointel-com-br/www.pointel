@@ -1,22 +1,20 @@
-Capítulo. Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Estruturais.
-
+# Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Estruturais.
 
 Índice
 
-Item. 1 Adapter
+1 Adapter
 
-Item. 2 Bridge
+2 Bridge
 
-Item. 3 Composite
+3 Composite
 
-Item. 4 Decorator
+4 Decorator
 
-Item. 5 Façade
+5 Façade
 
-Item. 6 Flyweight
+6 Flyweight
 
-Item. 7 Proxy
-
+7 Proxy
 
 Adapter
 
@@ -65,5 +63,4 @@ Proxy
 Esse padrão provê um substituto ou ponto através do qual um objeto pode controlar o acesso a outro objeto.
 Esse padrão de projeto deve ser utilizado quando houver uma necessidade de uma referência mais versátil ou sofisticada para um objeto do que um simples ponteiro. Por exemplo, proxies virtuais criam objetos caros por demanda e proxies de proteção controlam o acesso ao objeto original. Considerem a hipótese de um sistema que acesse um banco de dados por meio de uma classe de conexão.
 No entanto, por medidas de segurança, vamos supor que se deseja que esse sistema não tenha acesso direto ao banco de dados referido. Dessa forma, o usuário se conectará ao Proxy (isto é, a classe substituta ou suplente) e o Proxy que irá se conectar ao banco de dados. Claro, tudo isso ocorrendo de maneira transparente para o usuário.
-
 

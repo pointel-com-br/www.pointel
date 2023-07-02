@@ -1,10 +1,8 @@
-Capítulo. Desenvolvimento de Software - Java.
-
+# Desenvolvimento de Software - Java.
 
 Índice
 
 1) Java SE - Conceitos Básicos - Teoria
-
 
 APRESENTAçÃo DA AUU\
 
@@ -56,9 +54,7 @@ tenho que fazer. Portanto, deem o máximo que vocês podem dar, lembrem-se é po
 é pelos
 seus SONHOS!
 
-
 /
-
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -116,9 +112,7 @@ execução num mesmo programa);
 
 * Desalocação de memória automática por processo de coletor de lixo;
 
-
 www. estra tegiaconcursos. com. br
-
 
 * Carga Dinâmica de Código - Programas em Java são formados por uma coleção de classes
 armazenadas independentemente e que podem ser carregadas no momento de utilização.
@@ -161,9 +155,7 @@ Corporation adquire a empresa responsável pela linguagem Java, a Sun Microsyste
 US$
 7,4 bilhões, com o objetivo de levar o Java e outros produtos da Sun ao dispor dos consumidores.
 
-
 /
-
 
 Há anos falava-se que Java era lento, porém houve melhorias na JVM incluindo o
 compilador
@@ -236,9 +228,7 @@ uma
 grande variedade de operações paralelas. Respiração, circulação sanguínea, digestão,
 pensar e
 
-
 /
-
 
 caminhar, por exemplo, podem ocorrer em paralelo, assim como todos os
 sentidos — visão,
@@ -315,9 +305,7 @@ aplicações Java em uso hoje. Java é uma linguagem multiplataforma, orientada
 a objetos e
 x" 7
 
-
 /
-
 
 centrada em rede que pode ser usada como uma plataforma em si. É uma
 linguagem de
@@ -356,7 +344,6 @@ Internet das Coisas: Java tem sido usado para programar sensores e hardware em
 dispositivos de
 borda que podem se conectar de forma independente à Internet.
 
-
 r JAVA: USOS 1
 
 ROMIlNSi
@@ -369,7 +356,6 @@ r INITELIGÉNC IA 1
 1ARTIFICIAI
 
 F
-
 
 r DESENVOLVIME 1
 
@@ -385,9 +371,7 @@ COISAS
 
 Vejamos agora as quatro principais edições Java:
 
-
 www. estra tegiaconcursos. com. br
-
 
 * Java Standard Edition (Java SE): O Java Standard Edition é a
 plataforma central de
@@ -434,9 +418,7 @@ Java ME fornece um subconjunto da funcionalidade do Java SE, mas também
 apresenta
 bibliotecas específicas para dispositivos móveis.
 
-
 /
-
 
 HJAVASE^^? IM1
 
@@ -494,7 +476,6 @@ linguagem de programação Java e executados na plataforma Java. Já, o JRE é u
 usuário
 final da plataforma Java para rodar aplicações.
 
-
 b
 
 JDK: DESENVOLVER,TESTAR E
@@ -506,7 +487,6 @@ PLATAFORMA JAVA JRE: USADO PELO USUÁRIO FINAL DA
 PLATAFORMA JAVA PARA RODAR ►
 
 APLICAÇÕES.
-
 
 PROVA!
 
@@ -536,9 +516,7 @@ contenham notações matemáticas comumente utilizadas. Do ponto de vista do pro
 linguagens de alto nível são preferíveis às de máquina. Java é uma das linguagens de
 programação
 
-
 /
-
 
 de alto nível mais amplamente usadas.
 
@@ -579,18 +557,14 @@ Ta-dahü! Essa é a mágica do Java! Compilare interpretar códigos.
 
 Então quando Java compila (ou converte) todo o código .java transforma-o em um arquivo .class.
 
-
 /
-
 
 PROVA!
 
 (FCC / PGE MT - 2016) Considere a imagem abaixo, que mostra o esquema de
 funcionamento da Java Virtual Machine-JVM.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Java Code (java)
 
@@ -617,9 +591,7 @@ por uma JVM. A questão pergunta qual o produto resultante do processo de compil
 que é exatamente o
 bytecode(Gabarito: Letra B).
 
-
 www. estra tegiaconcursos. com. br
-
 
 Ambiente típico de desenvolvimento Java — fase de edição.
 Fase 1: criando um programa
@@ -665,9 +637,7 @@ carregadosa partirde um disco em seu sistema ou em uma rede (porexemplo, sua fac
 local
 ou rede corporativa ou a internet).
 
-
 /
-
 
 Memória
 
@@ -691,9 +661,7 @@ Memória
 
 Verificador de bytecode
 
-
 /
-
 
 O verificador de bytecode confirma que todos os bytecodes são válidos e não violam
 restrições de
@@ -742,9 +710,7 @@ momento certo
 programa
 existe na memória ele pode armazenar valores de dados na memória principal.
 
-
 www. estra tegiaconcursos. com. br
-
 
 (CESPE / SERPRO - 2021) A compilação de um programa JAVA para ambiente
 Windows gera um programa com extensão EXE, o qual é executado pelo sistema
@@ -754,7 +720,6 @@ Comentários: Pessoal, na verdade, não há a extensão EXE no ambiente citado. 
 .class, java. Mas não há
 
 .exe (Gabarito: Errado).
-
 
 3ava Virtual Machine (JVM)
 
@@ -790,7 +755,6 @@ operacional para que o programa Java funcione na máquina.
 
 Passagem por Valor e por referência
 www. estra tegiaconcursos. com. br
-
 
 Duas maneiras de passar argumentos em chamadas de método em muitas linguagens
 de
@@ -839,9 +803,7 @@ um argumento, o parâmetro no método chamado e o argumento no
 método chamador
 referenciam o mesmo objeto na memória.
 
-
 www. estra tegiaconcursos. com. br
-
 
 PASSAGEM DE PARÂMETROS POR VALOR
 
@@ -892,9 +854,7 @@ de software pode ser produzido em massa e instalado por administradores. Um
 pacote é um
 conjunto de arquivos e diretórios em um formato definido.
 
-
 /
-
 
 Os componentes de um pacote se dividem em duas categorias.
 
@@ -937,9 +897,7 @@ Optional Installation Scripts
 (request, checkinstall.
 Procedure, and Class Action)
 
-
 /
-
 
 Você deve criar os objetos de pacote antes de construir o pacote. Os componentes
 abaixo fazem
@@ -996,12 +954,9 @@ diretamente da classe Object. É por esse motivo que todos os objetos podem
 invocar os
 métodos da classe Object, tais como equalsQ e toString().
 
-
 /
 
-
 HERANÇA
-
 
 MECANISMO QUE PERMITE QUE CARACTERÍSTICAS COMUNS
 A DIVERSAS CLASSES SEJAM FATORADAS EM UMA CLASSE
@@ -1013,7 +968,6 @@ CARACTERÍSTICAS DA CLASSE BASE
 SEMPRE UTILIZADA EM JAVA, MESMO QUE NÃO EXPLICITAMENTE
 
 JAVA OFERECE MECANISMOS PARA DEFINIR CLASSES DERIVADAS A PARTIR DE CLASSES EXISTENTES
-
 
 jobject
 
@@ -1089,7 +1043,6 @@ adequada para seu sistema.
 
 APPLET
 
-
 PEQUENA APLICAÇÃO
 EXECUTADA EM UMA
 JANELA
@@ -1127,18 +1080,17 @@ classes pode levar algum tempo. Para definir programas Java que rodem no servido
 veja como
 construir servlets.
 
-
 Os 5 métodos que definem o ciclo de vida de uma applet são:
 
 í. init() - inicialização; chamado quando a applet é inicialmente carregada;
 
-Item. 2. start()-execução (animação); chamado após o init();
+2. start()-execução (animação); chamado após o init();
 
-Item. 3. stop() - interrupção; faz a applet parar a execução da animação, áudio ou vídeo;
+3. stop() - interrupção; faz a applet parar a execução da animação, áudio ou vídeo;
 
-Item. 4. paint() - para desenharalgo na applet;
+4. paint() - para desenharalgo na applet;
 
-Item. 5. destroy() - liberação de recursos; chamado quando o browser é fechado.
+5. destroy() - liberação de recursos; chamado quando o browser é fechado.
 
 PROVA!
 
@@ -1152,11 +1104,9 @@ applet quando ele é carregado.
 II. O método destroy é chamado pelo contêiner de applets quando o applet é removido
 da memória.
 
-
 / 183
 
 /
-
 
 III. Cinco métodos do ciclo de vida de um applet são chamados pelo contêiner de applets
 entre o momento em que o applet é carregado no navegadore o momento em que ele
@@ -1215,17 +1165,13 @@ Comentários: Pessoal, perfeita questão! (Gabarito: Correto).
 para execução de uma atividade específica dentro de páginas HTML. Assim, essas
 páginas podem ser visualizadas em um browser.
 
-
 /
-
 
 Comentários: Pessoal, applets sempre executam nos clientes web, são escritos em Java,
 podem ser visualizadas em um
 browser. (Gabarito: Correto).
 
-
 www. estra tegiaconcursos. com. br
-
 
 Sintaxe
 
@@ -1279,7 +1225,6 @@ o dígitos de 0 a 9 (de \u0030 a \u0039).
 
 NÃO PODE SER UMA PALAVRA-RESERVADA (PALAVRA-CHAVE);
 
-
 C-> QC
 
 CD g
@@ -1297,9 +1242,7 @@ NÃO PODE SER NULL;
 NÃO PODE CONTER ESPAÇOS EM BRANCOS OU OUTROS CARACTERES DE FORMATAÇÃO;
 DEVE SER A COMBINAÇÃO DE UMA OU MAIS LETRAS E DÍGITOS UNICODE-16
 
-
 www. estra tegiaconcursos. com. br
-
 
 Observações: caracteres compostos (acentuados) não são interpretados igualmente aos
 não
@@ -1366,11 +1309,9 @@ indicando o número da figura e o nome do arquivo.
 
 s'"
 
-
 ./ 183
 
 /
-
 
 O Java também tem comentários tradicionais, que podem ser distribuídos ao
 longo de várias
@@ -1413,7 +1354,6 @@ PALAVRA | DESCRIÇÃO
 
 Um modificador sem acesso. Usado para classes e métodos: Uma classe abstrata não
 
-
 ABSTRACT
 
 pode ser usada para criar objetos (para acessá-la, ela deve ser herdada de outra
@@ -1439,9 +1379,7 @@ DEFAULT Especifica 0 bloco de código padrão em uma instrução switch
 
 DO Usado junto com while para criar um loop do-while.
 
-
 /
-
 
 Um tipo de dados que pode armazenar números inteiros de 1,70-308 a 1,70+308
 Usado em instruções condicionais
@@ -1507,7 +1445,6 @@ estáticos podem ser acessados sem criar um objeto de uma classe
 Restringir a precisão e 0 arredondamento dos cálculos de ponto flutuante
 Refere-se a objetos da superclasse (pai)
 
-
 Seleciona um dos muitos blocos de código a serem executados
 
 Um modificador sem acesso, que especifica que os métodos só podem ser
@@ -1539,7 +1476,6 @@ MODIFICADORES | DESCRIÇÃO
 
 A classe e/ou seus membros são acessíveis somente por classes do mesmo pacote,
 
-
 DEFAULTOU PACKAGE
 
 na sua declaração não é definido nenhum tipo de modificador, sendo este
@@ -1551,12 +1487,10 @@ PUBLIC O código é acessível para todas as classes
 Membros da classe definidos como private não podem ser acessados ou usados por
 nenhuma outra classe. Esse modificador não se aplica às classes, somente para seus
 
-
 PRIVATE
 
 métodos e atributos. Esses atributos e métodos também não podem ser visualizados
 pelas classes herdadas.
-
 
 PROTECTED
 
@@ -1572,9 +1506,7 @@ PROTEGIDO
 PÚBLICO
 PACOTE
 
-
 /
-
 
 Tipos Primitivos
 
@@ -1635,11 +1567,9 @@ localizado na classe Integer).
 
 x-'"
 
-
 ./ 183
 
 /
-
 
 DECIMAL
 
@@ -1706,9 +1636,7 @@ caractere: char; inteiro: byte, short,
 int, long, float; decimal: double. Das opções apresentadas, a única gue não consta é a string.
 (Gabarito: Letra C).
 
-
 /
-
 
 Operadores
 
@@ -1719,7 +1647,6 @@ antes de
 outros. Por exemplo, na Álgebra podemos mostrar a seguinte ordem: primeiro
 divisão e
 multiplicação e depois soma e subtração.
-
 
 f >
 
@@ -1773,7 +1700,6 @@ operam:
 
 unário, binário e ternário.
 
-
 int a = 5, b=2, c
 a—;
 
@@ -1795,7 +1721,6 @@ em a e b.
 na
 expressão booteana (c < 0), e em a ou b.
 
-
 r
 \
 
@@ -1812,9 +1737,7 @@ r
 
 Operadores Lógicos:!, &&, ||.
 
-
 /
-
 
 Operadores Bit a Bit (ou Bitwise): &, |, A, «, », »>.
 
@@ -1855,7 +1778,6 @@ com um segundo valor, basta colocar o símbolo da operação antes do sinal "=" 
 colocar o segundo
 valor à direita. Exemplos de uso:
 
-
 int numero ' = 3; //numero recebe
 numero += 7; //numero recebe
 numero - = 32; //numero recebe
@@ -1885,11 +1807,9 @@ executados
 primeiro aqueles que tiverem maior precedência. Se existirem operadores com o mesmo
 valor de
 
-
 ./ 183
 
 /
-
 
 precedência, será realizado primeiro aquele cujo símbolo aparecer primeiro. É possível
 alterar a
@@ -1927,7 +1847,6 @@ retorna "falso" caso contrário. O operador OR (||) retorna "falso" quando seus 
 operandos são
 falsos e retorna "verdadeiro" caso contrário. Exemplos de uso:
 
-
 boolean variavel;
 
 va ri avel=(2<45)&&(45<2)
@@ -1954,7 +1873,6 @@ contrário. Estes
 operadores podem ser usados em qualquertipo de dados, desde que possuam o mesmo tamanho
 em bits. Exemplos de uso:
 
-
 int numero;
 numero=34&435;
 numero=34A46;
@@ -1968,11 +1886,9 @@ numero=436|547;
 
 s'"
 
-
 ./ 183
 
 /
-
 
 Precedência 7: operadores de igualdade
 
@@ -2026,7 +1942,6 @@ operando for um Objeto pertencente à classe passada como segundo operando e "fa
 caso
 contrário. Exemplos de uso:
 
-
 boolean variavel;
 vari avel=(4<4);
 vari avel=(4<=4);
@@ -2062,9 +1977,7 @@ realizado um Shift e o segundo número é a quantidade de posições de bits a s
 deslocados.
 Exemplos de uso:
 
-
 /
-
 
 int numero=-3; //numero vale -3
 
@@ -2088,7 +2001,6 @@ e boolean. Eles também não alteram as variáveis passadas para eles. No lugar 
 um número que deve ser direcionado par uma variável por meio da operação de
 atribuição (veja
 abaixo). Exemplos de uso:
-
 
 int numero=5;
 numero=numero+8;
@@ -2121,7 +2033,6 @@ segundo
 pode dividir o primeiro número pelo segundo. Também não pode ser usado em valores
 booleans
 ou char. O terceiro retorna o resto da divisão do primeiro pelo segundo. Exemplos de uso:
-
 
 int numero=5;
 numero=numero*4;
@@ -2169,14 +2080,11 @@ Inversão-aumenta o número em uma unidade e inverte o seu sinal. Só pode ser u
 inteiros.
 Já a operação de negação ! transforma "verdadeiro" em "falso" e vice-versa, só podendo ser usado
 
-
 /
-
 
 em variáveis do tipo boolean. Também só funcionam em variáveis, não em literais.
 Exemplos de
 uso:
-
 
 int numero=5;
 boolean ligado=false;
@@ -2209,7 +2117,6 @@ Observação: uma diferença importante entre os operadores'++' eprefixais e
 sufixais é o tempo
 de avaliação da expressão comparado com a alteração da variável. A saber:
 
-
 int x = 5;
 int y, z;
 y = x++;
@@ -2225,7 +2132,6 @@ z = ++x;
 
 // primeiro modifica x, e depois atribui azo novo
 valor de x
-
 
 Neste exemplo, temos que, ao final x vale 7 (duas vezes incrementado), y vale 5 (o
 valor inicial de
@@ -2261,11 +2167,9 @@ na instrução anterior.
 
 s'"
 
-
 ./ 183
 
 /
-
 
 Pessoal, para entender o que é abordado, é necessário ter conhecimento das operações
 lógicas.
@@ -2299,7 +2203,6 @@ fim para o início: (o|i)
 resultado de A|B é ooinioi. (Gabarito: Letra B).
 
 1 Sistemas Numéricos
-
 
 Vetores
 
@@ -2357,9 +2260,7 @@ identificador = nome do vetor.
 
 Veja um vetor de duas dimensões e vinte e cinco elementos (5 x 5):
 
-
 www. estra tegiaconcursos. com. br
-
 
 Ele possui 25 elementos que são acessados (referenciados) pelos índices:
 [o][o], [i][o], [2][O], [3][o], [4][o],
@@ -2380,7 +2281,6 @@ I GRUPO DE VARIÁVEIS QUE CONTÉM VALORES 00 MESMO TIPO
 
 ESTRUTURA DE DADOS COM ELEMENTOS DE UM MESMO TIPO OU UMA MESMA ESTRUTURA
 PODE TER MAIS DE UMA DIMENSÃO
-
 
 I ÍNDICE INICIA EM ZERO [01, 24
 
@@ -2405,7 +2305,6 @@ delimitada por chaves e cada elemento é separado do outro através de vírgulas
 Outro modo de uso é declarando, iniciando com o tamanho (quantidade de elementos) do
 vetor e
 depois atribuindo os valores, como o equivalente a seguir:
-
 
 int[] vetor= new int [4];
 vetor={34, 27, 3, 2};
@@ -2460,7 +2359,6 @@ Veja que a diferença é sutil. Está apenas no "for (String i: cars)". O exempl
 pode ser lido
 assim: para cada elemento String (chamado i - como no índice) em cars, imprima o valor de i.
 
-
 Se você comparar o loop for com o loop for-each , verá que o método for -each é
 mais fácil de
 escrever, não requer um contador (usando a propriedade length) e é mais legível.
@@ -2488,9 +2386,7 @@ length(). No caso em
 questão, como foi solicitado o ultimo elemento do array, o correto seria utilizar o length -1.
 (Gabarito: Letra B).
 
-
 /
-
 
 Conversão de Tipos
 
@@ -2530,11 +2426,9 @@ System out.println(myDouble); // Outputs 9.0
 
 }
 
-
 ./ 183
 
 /
-
 
 A redução da conversão deve ser feita manualmente, colocando o tipo entre parênteses
 na frente do valor:
@@ -2550,14 +2444,11 @@ System out.println(myDouble); // Outputs 9.78
 
 System out.println(mylnt); // Outputs 9
 
-
 }
-
 
 ./ 183
 
 /
-
 
 Controle de Fluxo
 
@@ -2629,9 +2520,7 @@ incondicionalmente exibida
 
 A saída gera o resultado: 8 PM é o mesmo que 20 horas.
 
-
 ,
-
 
 A instrução if...else, também conhecida como instrução if-then-else, a instrução de
 seleção dupla
@@ -2708,11 +2597,9 @@ em false, e a 2 em true.
 
 s'"
 
-
 ./ 183
 
 /
-
 
 // Instruções a serem executadas caso as expressões booteanas 1
 e 3
@@ -2732,7 +2619,6 @@ if (hora < 0 || hora >= 24)
 if (hora < 0)
 
 System.out.print("Erro: A hora deve ser maior que 0.");
-
 
 else {
 
@@ -2780,7 +2666,6 @@ else if (hora <= 12)
 System.out.print(hora + " AM é o mesmo que " + hora +
 " horas.");
 
-
 else
 
 }
@@ -2788,11 +2673,9 @@ else
 System.out.print(hora + " PM é o mesmo que " + hora +
 " horas.");
 
-
 ./ 183
 
 /
-
 
 No exemplo acima há um recurso estilístico para indentar o código com a finalidade de
 aprimorar
@@ -2809,13 +2692,11 @@ if (hora < 0)
 
 System.out.print("Erro: A hora deve ser maior que 0.");
 
-
 else
 if (hora >= 24)
 else
 
 System.out.print("Erro: A hora deve ser menor que 24.");
-
 
 if (hora <= 12)
 
@@ -2827,7 +2708,6 @@ horas. ") *
 System.out.pri nt(hora + " AM é o mesmo que " + hora +
 
 System.out.pri nt(hora + " PM é o mesmo que " + hora +
-
 
 A instrução switch por vezes chamada de switch...case possibilita a execução condicional
 de
@@ -2864,11 +2744,9 @@ delimita o início do bloco de instruções relativo à case. Após: podem ser i
 ou mais
 x-"'" 52
 
-
 ./ 183
 
 /
-
 
 instruções, incluindo a palavra-chave break que será abordada mais adiante. Ao
 iniciar outra
@@ -2936,11 +2814,9 @@ case segunda:
 System.out.print("Segunda ");
 case 3:
 
-
 ./ 183
 
 /
-
 
 System.out.print("Terça ");
 case 4:
@@ -3010,11 +2886,9 @@ System.out.print("Sábado ");
 
 x-'"
 
-
 ./ 183
 
 /
-
 
 case 0:
 
@@ -3062,9 +2936,7 @@ do {
 
 while (condition);
 
-
 www. estra tegiaconcursos. com. br
-
 
 O exemplo abaixo usa um loop do/while. O loop sempre será executado pelo menos uma
 vez,
@@ -3093,9 +2965,7 @@ testa-se a condição
 oferecida, portanto, permite que um conjunto de instruções não seja executada nenhuma vez.
 (Gabarito: Letra A).
 
-
 /
-
 
 Classes e Objetos
 
@@ -3134,12 +3004,9 @@ mesma definição. Sendo que ao necessitarmos utilizar essa entidade temos que c
 objeto
 através do nosso modelo que é a classe.
 
-
 ^7
 
-
 /
-
 
 Tudo em Java está associado a classes e objetos, juntamente com seus atributos e
 métodos. Por
@@ -3174,9 +3041,7 @@ construir um
 objeto de uma classe antes que um programa possa executar as tarefas que os métodos
 da
 
-
 /
-
 
 classe definem. O processo para fazer isso é chamado instanciação. Um objeto é então
 referido
@@ -3244,9 +3109,7 @@ também tem
 atributos, como cor, número de portas, quantidade de gasolina no tanque,
 velocidade atual e
 
-
 /
-
 
 registro das milhas totais dirigidas (isto é, a leitura do hodômetro). Assim como suas
 capacidades,
@@ -3313,14 +3176,11 @@ System.out.pri ntln(myObj.x);
 
 }
 
-
 x-"'" 60
-
 
 ./ 183
 
 /
-
 
 A palavra-chave final é útil quando você deseja que uma variável armazene sempre o
 mesmo
@@ -3381,22 +3241,18 @@ MODIFICADOR DESCRIÇÃO
 
 PUBLIC A classe é acessível por qualquer outra classe
 
-
 DEFAULT
 
 A classe só é acessível por classes no mesmo pacote. Isso é usado quando você não
 especifica um modificador.
 
-
 /
-
 
 Para atributos, métodos e construtores, você pode usar um dos seguintes:
 
 MODIFICADOR | DESCRIÇÃO
 
 A classe, métodos ou atributos assim declarados podem ser acessadas em qualquer
-
 
 PUBLIC
 
@@ -3420,7 +3276,6 @@ um modificador.
 
 O código é acessível no mesmo pacote e subclasses. Marca a visibilidade de um
 método ou variável de instância para que apenas a própria classe ou suas filhas
-
 
 PROTECTED
 
@@ -3453,9 +3308,7 @@ FINAL A classe não pode ser herdada por outras classes
 ABSTRACT A classe não pode ser usada para criar objetos. Para acessar uma classe abstrata, ela
 deve ser herdada de outra classe.
 
-
 /
-
 
 Para atributos e métodos, você pode usar um dos seguintes:
 
@@ -3499,7 +3352,6 @@ modificador
 a) final.
 
 b) native.
-
 
 www. estra tegiaconcursos. com. br
 c) volatile.
@@ -3572,11 +3424,9 @@ int x; // Create a class attribute
 // Create a class constructor for the Main class
 public Main() {
 
-
 ./ 183
 
 /
-
 
 x = 5; // Set the initial value for the class attribute x
 
@@ -3647,9 +3497,7 @@ nenhum campo do objeto terá um valor arbitrário, que possa tornar erros de nã
 inicialização
 difíceis de detectar.
 
-
 /
-
 
 ESTA CAI NA
 
@@ -3703,9 +3551,7 @@ III. Ficam acessíveis somente para suas classes derivadas.
 
 Está correto o que se afirma em
 
-
 /
-
 
 a) I, apenas.
 
@@ -3723,7 +3569,6 @@ própria classe! Não ficam disponíveis no pacote e também não ficam acessív
 subclasses! Portanto nosso gabarito é
 apenas o item I. (Gabarito: Letra A).
 
-
 Herança e Encapsulamento
 
 Encapsulamento e ocultamento de informações
@@ -3739,7 +3584,6 @@ Esse
 ocultamento de informações, como veremos, é crucial à boa engenharia de software.
 
 ENCAPSULAMENTO E OCULTAMENTO DE INFORMAÇÕES
-
 
 CLASSES (E SEUS OBJETOS]
 ENCAPSULAM, ISTO É, CONTÊM
@@ -3788,9 +3632,7 @@ return StrNome;
 
 }
 
-
 www. estra tegiaconcursos. com. br
-
 
 }
 
@@ -3870,7 +3712,6 @@ obj.printHello() ;
 
 *
 
-
 ESTA CAI NA
 
 PROVA!
@@ -3905,9 +3746,7 @@ programação Java.
 
 public class DocumentoProcesso extends Object
 
-
 /
-
 
 private String docNumero;
 private int classificacao;
@@ -3945,7 +3784,6 @@ public int promove()
 
 {return classificacao + i;}
 
-
 public class Oficio extends DocumentoProcesso
 private int precedencia;
 
@@ -3968,11 +3806,9 @@ public int promoveO
 
 }
 
-
 ./ 183
 
 /
-
 
 Com base nos conceitos de orientação a objetos, é correto afirmar que:
 
@@ -4031,12 +3867,9 @@ de formato em que é feito o backup, como programas, textos, áudios, vídeos et
 dos tipos
 de dispositivo em que esses itens serão armazenados.
 
-
 /
 
-
 INTERFACES
-
 
 TODOS OS MÉTODOS DA INTERFACE SÃO
 IMPLICITAMENTE MÉTODOS PUBLIC ABSTRACT
@@ -4081,7 +3914,6 @@ O polimorfismo permite escrever programas que processam objetos que compartilham
 superclasse, direta ou indiretamente, como se todos fossem objetos da superclasse; isso
 pode
 simplificara programação.
-
 
 Considere o exemplo de polimorfismo a seguir. Suponha que criamos um programa que
 simula o
@@ -4151,9 +3983,7 @@ versão correta da subclasse do método é chamada com base no tipo de referênc
 armazenado na
 variável da superclasse.
 
-
 www. estra tegiaconcursos. com. br
-
 
 POLIMORFISMO
 
@@ -4205,9 +4035,7 @@ criar vários
 métodos com o mesmo nome que realizam as mesmas tarefas, ou tarefas semelhantes, mas
 sobre tipos diferentes ou números diferentes de argumentos.
 
-
 /
-
 
 O compilador distingue os métodos sobrecarregados pelas suas assinaturas
 — uma
@@ -4227,12 +4055,9 @@ e tipo de
 parâmetros). Métodos sobrecarregados são distinguidos por suas assinaturas — combinações
 dos nomes e número, tipos e ordem dos parâmetros dos métodos, mas não pelostipos de retorno.
 
-
 7$
 
-
 /
-
 
 Tratamento de Exceções
 
@@ -4337,18 +4162,14 @@ ESTADO I DESCRIÇÃO
 
 Uma nova thread inicia seu ciclo de vida no estado novo. Ela permanece nesse estado
 
-
 EXECUTÁVEL
 
 até que o programa inicie a thread, o que a coloca no estado executável. Considera-
 se que uma thread no estado executável está executando sua tarefa.
 
-
 7%
 
-
 /
-
 
 Às vezes a thread executável transita para o estado de espera enquanto aguarda
 outra thread realizar uma tarefa. Uma thread em espera volta ao estado executável
@@ -4405,9 +4226,7 @@ executável a
 partir do estado novo, ela está no estado pronto. Uma thread pronta entra no estado
 de execução
 
-
 /
-
 
 (isto é, começa a executar) quando o sistema operacional a atribui a um processador —
 também
@@ -4431,7 +4250,6 @@ operacional usa para determinar qual thread despachar é chamado agendamento de
 thread e
 depende das prioridades de thread.
 
-
 exrcutóveí
 i
 sistema operacional I
@@ -4439,7 +4257,6 @@ sistema operacional I
 I
 
 * despacha uma thread I
-
 
 pronto executando
 
@@ -4487,11 +4304,9 @@ ArrayList<Integer> integers;
 
 x-'"
 
-
 ./ 183
 
 /
-
 
 declara integers como um ArrayList que só pode armazenar Integers. Ao inserir um valor
 int em
@@ -4561,9 +4376,7 @@ o elemento é colocado em um novo contêiner e esse contêiner é vinculado a um
 outros
 contêineres da lista.
 
-
 /
-
 
 MÉTODOS LINKEDLIST | DESCRIÇÃO
 
@@ -4621,9 +4434,7 @@ Vamos conhecer os mapas! Mapa ou Map associam chaves a valores. As chaves em um 
 devem ser únicas, mas os valores associados não precisam ser. Se um Map contém chaves
 únicas
 
-
 /
-
 
 e valores únicos, diz-se que implementa um mapeamento de um para um. Se somente as
 chaves
@@ -4650,7 +4461,6 @@ MÉTODOS I DESCRIÇÃO
 
 CLEARU Remove todos os pares chave/valor do mapa;
 
-
 CONTAINSKEY(K)
 CONTAINSVALUEÍV]
 
@@ -4670,7 +4480,6 @@ Retorna o valor associado com a chave k;
 Remove a entrada que tiver chave igual a k;
 
 UM SET É UMA COLLECTION NÃO ORDENADA QUE NÃO CONTÉM ELEMENTOS DUPLICADOS.
-
 
 CZ3
 
@@ -4692,9 +4501,7 @@ TREEMAPS ARMAZENAM ELEMENTOS EM UMA ÁRVORE.
 
 HASHMAP RECEBE DOIS ARGUMENTOS - 0 TIPO DA CHAVE E 0 TIPO 00 VALOR.
 
-
 /
-
 
 Streams e Serialização
 
@@ -4747,9 +4554,7 @@ simples e concisa de escrevercódigo que resulta em facilidade de manutenção e
 paralelização sem
 efeitos indesejados em tempo de execução.
 
-
 www. estra tegiaconcursos. com. br
-
 
 A proposta em torno da Streams API é fazer com que o desenvolvedor não se preocupe
 mais
@@ -4814,7 +4619,6 @@ fluxo original.
 
 Resulta em um fluxo em que cada elemento do fluxo original é mapeado para um
 
-
 MAP
 
 novo valor (possivelmente de um tipo diferente) — por exemplo, mapear valores
@@ -4826,9 +4630,7 @@ fluxo tem o mesmo número de elementos que o fluxo original.
 
 -s""
 
-
 /
-
 
 FOREACH Realiza o processamento em cada elemento em um fluxo (por exemplo, exibircada
 elemento).
@@ -4883,9 +4685,7 @@ código faz.
 
 TIPO | DESCRIÇÃO
 
-
 www. estra tegiaconcursos. com. br
-
 
 NOMES E IDENTIFICADORES DE
 
@@ -4967,7 +4767,6 @@ nomes curtos, mas significativos. O nome deve indicar a intenção da utilizaç�
 variável. Os nomes comuns para variáveis temporárias são i, j, k, m, n e para
 inteiros, c, d, e e para caracteres.
 
-
 CONSTANTES Constantes devem ter todas as letras maiúsculas separadas por underline
 
 As boas práticas de programação chamam a atenção a técnicas que irão
@@ -5022,9 +4821,7 @@ expressões algébricas.
 você. Se existem vários níveis de recuo, cada nível deve ser recuado pela mesma quantidade
 adicional de espaço.
 
-
 /
-
 
 * Sempre inclua chaves em uma instrução do...while. Isso ajuda a eliminar ambiguidade entre
 a instrução while e uma instrução do...while que contém apenas uma instrução.
@@ -5086,9 +4883,7 @@ como
 14 JEPs (JDK Enhancement Proposals) que melhoram ainda mais a linguagem e a plataforma
 Java para ajudar os desenvolvedores a serem mais produtivos.
 
-
 /
-
 
 Java 17 é o mais recente lançamento de suporte de longo prazo (LTS) sob a cadência
 de
@@ -5111,7 +4906,6 @@ descrições dos 17 JEPs!
 JEP | DESCRIÇÃO
 
 Classes e interfaces seladas restringem outras classes ou interfaces que podem
-
 
 JEP 409: CLASSES SELADAS
 
@@ -5162,7 +4956,6 @@ JEP 407: REMOVE RMI ACTIVATION Remove 0 mecanismo de ativação de Remote Method
 Invocation (RMI),
 preservando 0 resto do RMI.
 
-
 JEP 410: REMOVA OAOT
 EXPERIMENTAL EO COMPILADOR
 
@@ -5180,9 +4973,7 @@ O Security Manager remonta ao Java 1.0. Não foi 0 principal meio de proteger 0
 código Java do lado do cliente por muitos anos e, raramente, foi usado para
 proteger 0 código do lado do servidor. Removê-lo em uma versão futura ajudará
 
-
 /
-
 
 a eliminar uma carga de manutenção significativa e permitirá que a plataforma
 Java avance.
@@ -5222,9 +5013,7 @@ quando será substituído pelo JDK 19. O JDK 17 receberá atualizações até pe
 setembro
 de 2024.
 
-
 /
-
 
 REFERÊNCIAS
 
@@ -5235,9 +5024,7 @@ Deitei, Paul. Java: como programar / Paul Deitei, Harvey Deitei; tradução Edso
 Furmankiewicz;
 revisão técnica Fabio Lucchini. -- São Paulo: Pearson Education do Brasil, 2017
 
-
 www. estra tegiaconcursos. com. br
-
 
 RESUMo
 
@@ -5283,13 +5070,10 @@ MULTIPLATAFORMA
 ROBUSTA
 PORTÁVEL
 
-
 www. estra tegiaconcursos. com. br
-
 
 Java é uma linguagem WORA, que significa Write once, run anywhere ou "Escreva uma vez,
 execute em qualquer lugar"
-
 
 JAVA SE
 
@@ -5376,11 +5160,9 @@ pacote é
 geralmente criado e construído por um desenvolvedor de aplicativos depois de
 terminar de
 
-
 / 183
 
 /
-
 
 desenvolvero código do aplicativo. Um produto de software precisa serconstruído em um
 ou mais
@@ -5402,7 +5184,6 @@ Para construir um pacote, você deve fornecer:
 
 HERANÇA
 
-
 MECANISMO QUE PERMITE QUE CARACTERÍSTICAS COMUNS
 A DIVERSAS CLASSES SEJAM FATORADAS EM UMA CLASSE
 BASE, OU SUPERCLASSE
@@ -5413,7 +5194,6 @@ CARACTERÍSTICAS DA CLASSE BASE
 SEMPRE UTILIZADA EM JAVA, MESMO QUE NÃO EXPLICITAMENTE
 
 JAVA OFERECE MECANISMOS PARA DEFINIR CLASSES DERIVADAS A PARTIR DE CLASSES EXISTENTES
-
 
 jobject
 
@@ -5465,7 +5245,6 @@ jobject
 
 (java.lang.Throwable objects)
 
-
 PEQUENA APLICAÇÃO
 EXECUTADA EM UMA
 
@@ -5478,7 +5257,6 @@ NECESSITA DE UM
 
 PODE SER
 DISPONIBILIZADA PARA
-
 
 JANELA
 
@@ -5499,7 +5277,6 @@ OU VIDEO;
 
 PAINTO - PARA DESENHAR ALGO NA APPLET;
 
-
 9877
 
 - LIBERAÇAO DE RECURSOS; CHAMADO QUANDO 0 BROWSER E
@@ -5509,11 +5286,9 @@ FECHADO.
 Identificadores
 x
 
-
 / 183
 
 /
-
 
 O Java é case sensitive, ou seja, Java diferencia maiúsculas de minúsculas: "MyClass" e "myclass"
 têm significados diferentes assim como Analista é diferente de analista.
@@ -5536,7 +5311,6 @@ não podem ser usadas como nome de variáveis, nome de classes, etc.
 PALAVRA | DESCRIÇÃO
 
 Um modificador sem acesso. Usado para classes e métodos: Uma classe abstrata não
-
 
 ABSTRACT
 
@@ -5568,7 +5342,6 @@ DOUBLE Um tipo de dados que pode armazenar números inteiros de 1,70-308 a 1,70+
 ELSE Usado em instruções condicionais
 
 ENUM Declara um tipo enumerado (imutável)
-
 
 Estende uma classe (indica que uma classe é herdada de outra classe)
 
@@ -5636,7 +5409,6 @@ por um thread por vez
 
 Refere-se ao objeto atual em um método ou construtor
 
-
 Cria um erro personalizado
 
 Indica quais exceções podem ser lançadas por um método
@@ -5662,7 +5434,6 @@ MODIFICADORES | DESCRIÇÃO
 
 A classe e/ou seus membros são acessíveis somente por classes do mesmo pacote,
 
-
 DEFAULT OU PACKAGE
 
 na sua declaração não é definido nenhum tipo de modificador, sendo este
@@ -5674,12 +5445,10 @@ PUBLIC O código é acessível para todas as classes
 Membros da classe definidos como private não podem ser acessados ou usados por
 nenhuma outra classe. Esse modificador não se aplica às classes, somente para seus
 
-
 PRIVATE
 
 métodos e atributos. Esses atributos e métodos também não podem ser visualizados
 pelas classes herdadas.
-
 
 PROTECTED
 
@@ -5704,7 +5473,6 @@ LÓGICO boolean
 false true false
 
 *
-
 
 CARACTERE char 16 bits
 0 2l6-l '\uoooo'
@@ -5769,7 +5537,6 @@ LÓGICOS | BIT A BIT
 (
 \
 
-
 Operadores Relacionais
 
 >, <» >=, <=, ==, 1=, ?, instanceof
@@ -5787,9 +5554,7 @@ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 SUFIXAIS
 PREFIXAIS
 
-
 /
-
 
 MULTIPLICATIVOS
 
@@ -5820,7 +5585,6 @@ A
 
 &&
 
-
 = += -= *= /= %= & = A= |= «= »= >»=
 
 Vetores
@@ -5847,11 +5611,9 @@ Java, existem dois tipos de conversão:
 Ampliação da transmissão (automaticamente) - convertendo um tipo menor em um tamanho de
 tipo maior:
 
-
 / 183
 
 /
-
 
 k
 
@@ -5880,11 +5642,9 @@ I SWITCH: ESPECIFICA MUITOS BLOCOS ALTERNATIVOS DE CÓDIGO A SEREM EXECUTADOS
 
 NÃO ESQUEÇA DE AUMENTAR A VARIÁVEL USADA NA CONDIÇÃO, CASO CONTRÁRIO 0 LOOP NUNCA TERMINARÁ!
 
-
 / 183
 
 /
-
 
 Classes e Objetos
 
@@ -5908,7 +5668,6 @@ como tração e freio. Uma classe é como um construtor de objetos, ou um "proje
 para criar
 objetos.
 
-
 Pessoal, uma classe é uma "coisa" mais generalista, por
 exemplo, fruta, carro... Já, o objeto consiste na
 "especificação" daquela "coisa". Como é o caso do carro
@@ -5928,9 +5687,7 @@ objetos e um objeto é uma instância de uma classe.
 Quando os objetos individuais são criados, eles
 herdam todas as variáveis e métodos da classe.
 
-
 /
-
 
 MODIFICADOR DE ACESSO - CONTROLA 0 NIVEL DE ACESSO.
 MODIFICADOR DE NÃO ACESSO - FORNECEM OUTRAS FUNCIONALIDADES
@@ -5956,7 +5713,6 @@ MODIFICADOR DESCRIÇÃO
 
 FINAL A classe não pode ser herdada por outras classes
 
-
 ABSTRACT
 
 A classe não pode ser usada para criar objetos. Para acessar uma classe abstrata, ela
@@ -5979,14 +5735,11 @@ Métodos synchronized só podem ser acessados por um thread por vez
 O valor de um atributo não é armazenado em cache localmente e é sempre lido na
 "memória principal"
 
-
 / 183
 
 /
 
-
 ENCAPSULAMENTO E OCULTAMENTO DE INFORMAÇÕES
-
 
 CLASSES (E SEUS OBJETOS]
 ENCAPSULAM, ISTO É, CONTÊM
@@ -6004,7 +5757,6 @@ OBJETOS
 
 INTERFACES
 
-
 TODOS OS MÉTODOS DA INTERFACE SÃO
 IMPLICITAMENTE MÉTODOS PUBLIC ABSTRACT
 
@@ -6019,7 +5771,6 @@ Sincronismo e Multithreading
 
 A qualquer momento, diz-se que uma thread está em um de vários estados de thread
 www. estra tegiaconcursos. com. br
-
 
 DESCRIÇÃO
 
@@ -6069,7 +5820,6 @@ Uma thread executável entra no estado terminado (às vezes chamado estado morto
 quando ela conclui com sucesso suas tarefas ou é de outro modo terminada (talvez
 em razão de um erro).
 
-
 executa uet
 sistema operacional
 i despacha uma thread
@@ -6098,9 +5848,7 @@ mais elementos.
 
 MÉTODOS ARRAYLISfJ DESCRIÇÃO
 
-
 /
-
 
 Adiciona um elemento ao final do ArrayList.
 Remove todos os elementos do ArrayList.
@@ -6153,14 +5901,11 @@ GETl) Retorna o valor associado com a chave k;
 
 REMOVE(K) Remove a entrada que tiver chave igual a k;
 
-
 /
-
 
 UM SET É UMA COLLECTION NÃO ORDENADA QUE NÃO CONTÉM ELEMENTOS B^5B
 
 HASHSET ARMAZENA SEUS ELEMENTOS EM UMA TARELA DE HASH.
-
 
 TREESET ARMAZENA SEUS ELEMENTOS EM UMA ÁRVORE.
 
@@ -6173,9 +5918,7 @@ A CLASSE TREESET IMPLEMENTA SORTEDSET.
 Streams e Serialização
 www. estra tegiaconcursos. com. br
 
-
 Code Conventions
-
 
 TIPO
 
@@ -6272,7 +6015,6 @@ JEP | DESCRIÇÃO
 
 Classes e interfaces seladas restringem outras classes ou interfaces que podem
 
-
 JEP 409: CLASSES SELADAS
 
 JEP 306: RESTAURE A SEMÂNTICA
@@ -6297,7 +6039,6 @@ Fornece novos tipos de interface e implementações para geradores de número
 pseudo-aleatório (PRNGs). Essa mudança melhora a interoperabilidade de
 diferentes PRNGs e torna mais fácil solicitar um algoritmo com base em
 requisitos, em vez de codificar uma implementação específica.
-
 
 JEP 382: NOVO PIPELINE DE
 RENDERIZAÇÃO DO MACOS
@@ -6385,13 +6126,11 @@ de execução para instruções vetoriais otimizadas em arquiteturas de CPU
 suportadas, alcançando, assim, um desempenho superior aos cálculos escalares
 equivalentes.
 
-
 QUESTõES CoMENTADAS - FCV
 
 í. (FGV / CGU - 2022) Observe o trecho de código a seguir.
 
 1 importjava.io.*;
-
 
 3 interface Segunda {public void segunda();}
 4 interface Terca { public void terca();}
@@ -6412,7 +6151,6 @@ QUESTõES CoMENTADAS - FCV
 14 public void quarta(){System.out.println("Segunda!!!");j
 
 15}
-
 
 17 public class teste
 18 {
@@ -6447,9 +6185,7 @@ interfaces pode haver "herança múltipla", ou seja, herança de duas ou mais cl
 Agora vamos
 analisaro código. No código há três interfaces, Segunda, Terca e Quarta além das classes Sexta e
 
-
 /
-
 
 Quinta. Sendo que a classe Quinta é classe pai, ou superclasse, e a classe Sexta é
 classe filha, ou
@@ -6472,7 +6208,7 @@ resultado que será apresentado na tela é Segunda! E temos nosso gabarito na al
 
 Gabarito: Letra C
 
-Item. 2. (FGV/TJDFT-2022) Observe as classes abaixo descritas na linguagem de programação Java.
+2. (FGV/TJDFT-2022) Observe as classes abaixo descritas na linguagem de programação Java.
 
 public class DocumentoProcesso extends Object
 
@@ -6513,7 +6249,6 @@ public void setClassificacao(int classificacao)
 public int promoveO
 
 {return classificacao + 1;}
-
 
 www. estra tegiaconcursos. com. br
 public class Oficio extends DocumentoProcesso
@@ -6588,24 +6323,20 @@ classes. Para cada instância de variável, um método getter retorna seu valor,
 enquanto um
 método setter o define ou atualiza seu valor.
 
-
 /
-
 
 Gabarito: Letra E
 
-Item. 3. (FGV / PGE-AM - 2022) Considere o trecho de programa Java abaixo.
+3. (FGV / PGE-AM - 2022) Considere o trecho de programa Java abaixo.
 
 public class Calcular {
 
 public double reajuste(double salario, double percentual) {
 return salario + salario * percentual / 100;
 
-
 public double reajuste(double salario) {
 
 return salario * 1.30;
-
 
 public static double reajuste(float salario) {
 
@@ -6654,7 +6385,7 @@ um erro. Ocorre uma sobrescrita que é possível em Java! Por fim, temos nosso g
 
 Gabarito: Letra E
 
-Item. 4. (FGV / DPE-RJ - 2019) Considere as seguintes afirmativas sobre class
+4. (FGV / DPE-RJ - 2019) Considere as seguintes afirmativas sobre class
 constructor na
 linguagem Java.
 
@@ -6662,9 +6393,7 @@ I. Deve receber o mesmo nome da classe a ele associada.
 
 II. Não deve ser especificado um tipo de retorno na sua declaração.
 
-
 www. estra tegiaconcursos. com. br
-
 
 III. É útil para a definição de valores iniciais para os atributos da classe.
 
@@ -6704,7 +6433,7 @@ protected ou private.
 
 Gabarito: Letra D
 
-Item. 5. (FGV / MPE-AL - 2018) Analise o código Java a seguir,
+5. (FGV / MPE-AL - 2018) Analise o código Java a seguir,
 
 public class Exemplo {
 
@@ -6715,7 +6444,6 @@ String out = (aAb)==o ? "Sim": (a & b)!=0
 
 ? "Talvez": "Não";
 System.out.println(out);
-
 
 A execução do código acima produzirá
 a) um erro de compilação.
@@ -6728,11 +6456,9 @@ d) a linha "Não".
 
 e) a linha "Talvez".
 
-
 ./ 183
 
 /
-
 
 Comentários:
 
@@ -6760,7 +6486,7 @@ for falso.
 
 Gabarito: Letra D
 
-Item. 6. (FGV / MPE - AL - 2018) No Java, a classe Error e Exception derivam da classe
+6. (FGV / MPE - AL - 2018) No Java, a classe Error e Exception derivam da classe
 a) ClassNotFoundException.
 
 b) lOException.
@@ -6795,13 +6521,11 @@ dados de rastreamento de pilha).Error e Exception são, portanto, derivadas da
 superclasse
 Throwable. Uma imagem para lembrarda hierarquia de exceções.
 
-
 /
-
 
 Gabarito: Letra E
 
-Item. 7. (FGV / MPE-AL - 2018) Sobre as variáveis e os métodos declarados como private, em Java,
+7. (FGV / MPE-AL - 2018) Sobre as variáveis e os métodos declarados como private, em Java,
 analise as afirmativas a seguir.
 
 I. Ficam acessíveis somente aos membros da própria classe.
@@ -6831,13 +6555,11 @@ subclasses! Portanto nosso gabarito é apenas o item I.
 
 Gabarito: Letra A
 
-
 ./ 183
 
 /
 
-
-Item. 8. (FGV / BANESTES - 2018) Considere a compilação de um ou mais programas por meio
+8. (FGV / BANESTES - 2018) Considere a compilação de um ou mais programas por meio
 da linha
 de comando, num ambiente Java. Nesse caso, o comando que está corretamente formado
 para esse fim é:
@@ -6862,7 +6584,7 @@ arquivo .class da classe em questão. Assim, devemos usar a seguinte sintaxe: ja
 
 Gabarito: Letra C
 
-Item. 9. (FGV /ALE-RO- 2018) Analise a definição de um array em Java.
+9. (FGV /ALE-RO- 2018) Analise a definição de um array em Java.
 int[ ][ ] multi - new int[ 5 ][ 10 ];
 
 Assinale o código que exibe corretamente um elemento de cada linha desse array.
@@ -6889,13 +6611,11 @@ do array (multi) com a respectiva referência: [i][o]. Assim, temos como gabarit
 
 Gabarito: Letra A.
 
-Item. 10. (FGV/ALE-RO-2018) No contexto da linguagem Java, assinale o modificador (modifier)
+10. (FGV/ALE-RO-2018) No contexto da linguagem Java, assinale o modificador (modifier)
 que
 se refere ao nível de acesso.
 
-
 /
-
 
 a) abstract
 b) final
@@ -6962,9 +6682,7 @@ de uma subclasse chama (explícita ou implicitamente) o construtor da superclass
 uma
 classe abstrata deve, necessariamente, ter subclasses, a classe abstrata precisa ter um construtor.
 
-
 /
-
 
 Já, o item I está incorreto: Construtores podem ter qualquer modificador de
 acesso: private,
@@ -7035,11 +6753,9 @@ e) JDBC.
 
 Comentários:
 
-
 ./ 183
 
 /
-
 
 Vamos traduzir essa sopa de letrinhas? JNDI - Java Naming and Directory Interface (Nomeação
 Java e Interface de Diretório); RMI - Remote Method Invocation (Invocação do Método Remoto);
@@ -7109,9 +6825,7 @@ incorpora as
 tecnologias EJB, CDI e as outras features do Java EE dentro do Tomcat, ou seja,
 atualmente a
 
-
 /
-
 
 assertiva estaria errada. Porem foi considerada correta. Item II certo! Por fim,
 vejamos o item III.
@@ -7157,14 +6871,11 @@ deve receber o modificador static.
 
 Gabarito: Letra B
 
-
 /
-
 
 QUESTõES CoMENTADAS - FCC
 
 i6.(FCC / PGE-AM - 2022) Considere o trecho de programa Java abaixo.
-
 
 public class Exemplol {
 
@@ -7174,7 +6885,7 @@ int[] vet = {78, 89, 90, 34,
 int [] dados = verificar (vet)
 
 args) {
-Item. 32. 56};
+32. 56};
 
 }
 
@@ -7184,7 +6895,6 @@ max = vet.length;
 for (a = 0; a <= max - 1; a++) {
 
 for (b = 0; b <= max - a; b++) {
-
 
 if (b <
 if
@@ -7238,13 +6948,11 @@ eliminamos as alternativas c e d. Ficamos então com a alternativa E que é o no
 gabarito: public
 static int[] verificar(int vet[])
 
-
 *
-
 
 Gabarito: Letra E
 
-Item. 17. (FCC / PGE-AM - 2022) Considere st um objeto do tipo PreparedStatement e conn
+17. (FCC / PGE-AM - 2022) Considere st um objeto do tipo PreparedStatement e conn
 um objeto
 do tipo Connection, ambos em condições ideais para a execução do método salvar, de uma
 classe Java.
@@ -7348,11 +7056,9 @@ Gabarito: Letra D
 
 ig.(FCC / AFAP - 2019) Considere o método Java abaixo.
 
-
 ./ 183
 
 /
-
 
 public int conectar() {
 try {
@@ -7425,7 +7131,6 @@ porque
 o item
 a) IV está incorreto, pois não especifica o tamanho da array.
 
-
 www. estra tegiaconcursos. com. br
 b) V está incorreto, pois deve haver apenas um par de colchetes após o nome da array.
 
@@ -7470,7 +7175,6 @@ v[i + l] = v[i];
 
 }
 
-
 Para que a ordenação por inserção ocorra corretamente, as lacunas I e II
 devem ser
 corretamente preenchidas com
@@ -7480,9 +7184,7 @@ c) i=j-i; i >=o && v[i]>x; - -i e v[i+i]=x
 d) i=j-i; i >=o && v[i]>x; ++i e v[i]=x
 e) i=j-i; i >=o || v[i]>x; - -i e v[i+i]=x
 
-
 /
-
 
 Comentários:
 
@@ -7496,7 +7198,7 @@ x (v[jj) com o valor da próxima posição do vetor, realizando as trocas entre 
 
 Gabarito: Letra C
 
-Item. 22. (FCC - TRF 3a Região /2019) No interior do método main da classe principal de
+22. (FCC - TRF 3a Região /2019) No interior do método main da classe principal de
 uma aplicação
 Java SE um método foi chamado usando as instruções abaixo.
 
@@ -7526,7 +7228,7 @@ cadastraDados(double[] d)
 
 Gabarito: Letra A
 
-Item. 23. (FCC / SANASA - 2019) Na orientação a objetos uma classe abstrata é construída
+23. (FCC / SANASA - 2019) Na orientação a objetos uma classe abstrata é construída
 para ser um
 modelo para classes derivadas e na sua construção há algumas restrições. Assim,
 considere a
@@ -7545,9 +7247,7 @@ private abstract int multiplica(double ni, int n2);
 private double multiplica(double ni, double n2){return m*n2;j
 public Calcula()
 
-
 /
-
 
 A instrução que NÃO é permitida nessa classe é
 a) private abstract int multiplica(double ni, int n2);
@@ -7601,7 +7301,7 @@ apresentado na questão. Portanto nosso gabarito é a letra B.
 
 Gabarito: Letra B
 
-Item. 25. (FCC / AFAP - 2019) Considere a classe Java a seguir em condições ideais.
+25. (FCC / AFAP - 2019) Considere a classe Java a seguir em condições ideais.
 
 import java.sql.*;
 
@@ -7612,11 +7312,9 @@ Class.forName("com.mysql.jdbc. Driver");
 Connection con = DriverManager.getConnection
 ("jdbc:mysql://localhost:33o6/banco", "root", "");
 
-
 ./ 183
 
 /
-
 
 Statement st = con.createStatement();
 return i;
@@ -7691,9 +7389,7 @@ d) Colaborador c = new Colaborador(); c.setNome("Pedro");
 
 e) Colaborador c = new Colaborador().setNome("Pedro");
 
-
 /
-
 
 Comentários:
 
@@ -7726,7 +7422,7 @@ instância da classe, essa opção pode gerar um erro de compilação.
 
 Gabarito: Letra D
 
-Item. 27. (FCC / SABESP - 2018) As interfaces são usadas nas aplicações Java quando se deseja permitir
+27. (FCC / SABESP - 2018) As interfaces são usadas nas aplicações Java quando se deseja permitir
 que diversas classes implementem determinados métodos, mesmo que de formas diferentes.
 
 Em uma interface Java
@@ -7767,9 +7463,7 @@ interface
 
 Gabarito: Letra A.
 
-
 www. estra tegiaconcursos. com. br
-
 
 28.(FCC / TRF 3a Região - 2014) Herança e interfaces são conceitos da orientação a objetos que
 possibilitam a obtenção de polimorfismo. Em Java, uma interface pode
@@ -7844,9 +7538,7 @@ necessários para
 construir uma interface gráfica de usuário, (c) Conforme vimos em
 aula, ele permite
 
-
 /
-
 
 desenvolvimento de aplicações desktop e de interfaces gráficos (Swing e AWT); Vocês
 sabiam
@@ -7872,7 +7564,7 @@ em aula, é uma linguagem orientada a objetos e possui suporte nativo a threads.
 
 Gabarito: Letra B
 
-Item. 30. (FCC / TRT 22a Região - 2010) A plataforma Java disponibiliza um interpretador
+30. (FCC / TRT 22a Região - 2010) A plataforma Java disponibiliza um interpretador
 que traduz,
 em tempo de execução, o bytecode para instruções nativas do processador, permitindo,
 dessa
@@ -7921,11 +7613,9 @@ e) PHP.
 
 Comentários:
 
-
 ./ 183
 
 /
-
 
 Java é também uma linguagem portável e multiplataforma! O Compilador é capaz de gerar
 um
@@ -7967,13 +7657,11 @@ Virtual Java. Conforme vimos em aula, trata-se da Java Virtual Machine (JVM)!
 
 Gabarito: Letra C
 
-
 /
-
 
 QUESTõES CoMENTADAS - CESPE
 
-Item. 33. (CESPE I Petrobrás - 2022)
+33. (CESPE I Petrobrás - 2022)
 
 package cadastrollsuario;
 
@@ -8024,9 +7712,7 @@ out.println("</BODY>");
 out.println("</HTML>");
 out.close();
 
-
 /
-
 
 }
 
@@ -8053,7 +7739,7 @@ Portanto, há perda de funcionalidade no código tornando errada a assertiva.
 
 Gabarito: Errada
 
-Item. 34. (CESPE - DP DF - 2022) No Java 8, o uso do método map() permite aplicar uma função a todos
+34. (CESPE - DP DF - 2022) No Java 8, o uso do método map() permite aplicar uma função a todos
 os elementos de um stream.
 
 Comentários:
@@ -8067,7 +7753,7 @@ que terminam seu processamento, fornecem uma instância do Stream como saída.
 
 Gabarito: Correto
 
-Item. 35. (CESPE - DP DF- 2022) Quando a mensageria é utilizada com linguagem Java, as
+35. (CESPE - DP DF- 2022) Quando a mensageria é utilizada com linguagem Java, as
 requisições
 são processadas exclusivamente de forma síncrona.
 
@@ -8080,9 +7766,7 @@ dos
 sistemas baseados em um padrão de Chamada de Procedimento Remoto (RPC), o sistema de
 mensageria usa principalmente um padrão de passagem de mensagem assíncrona sem relação
 
-
 /
-
 
 entre pedidos e respostas. Ou seja, o serviço é realizado de forma assíncrona, o que
 torna a
@@ -8138,7 +7822,7 @@ usar o código-fonte.
 
 Gabarito: Letra E
 
-Item. 37. (CESPE / PGDDF - 2021) Julgue o item subsecutivo, a respeito de lógica e de
+37. (CESPE / PGDDF - 2021) Julgue o item subsecutivo, a respeito de lógica e de
 estrutura de
 programação.
 
@@ -8146,9 +7830,7 @@ função avaliar( a, b)
 início
 ma <-a;
 
-
 /
-
 
 se (ma < b) então ma <- b;
 me <-a;
@@ -8227,9 +7909,7 @@ A }
 
 Com relação aos trechos de código precedentes, é correto afirmar que
 
-
 *
-
 
 a) o parâmetro th is, na linha 7 da classe CarroEsportivo, é uma palavra reservada
 usada para
@@ -8305,9 +7985,7 @@ processos Java separados e sendo executados em portas separadas.
 
 Gabarito: Errado
 
-
 /
-
 
 4O.(CESPE — Ministério da Economia - 2020) Em Java 8, o método de limite de fluxo
 tem como
@@ -8319,7 +7997,7 @@ Na verdade, o método limit é utilizado para limitara quantidade de elementos e
 
 Gabarito: Errado
 
-Item. 41. (CESPE/ Ministério da Economia-2020) Uma expressão lambda é usada principalmente para
+41. (CESPE/ Ministério da Economia-2020) Uma expressão lambda é usada principalmente para
 definir a implementação procedural de uma interface associativa.
 
 Comentários:
@@ -8384,7 +8062,7 @@ aplicativosjava.
 
 Gabarito: Letra A
 
-Item. 43. (CESPE / MPE-CE -2020) Com base na linguagem de programação Java, julgue o item a seguir.
+43. (CESPE / MPE-CE -2020) Com base na linguagem de programação Java, julgue o item a seguir.
 
 O código
 public class mpce {
@@ -8399,9 +8077,7 @@ System.out.println(num[i][j]);
 
 }
 
-
 apresentará, quando executado, o resultado a seguir.
-
 
 Comentários:
 
@@ -8413,15 +8089,13 @@ em seguida preenchendo as colunas.
 
 Gabarito: Errado
 
-Item. 44. (CESPE/MPE-CE-2020) Com base na linguagem de programação Java, julgue o item a
+44. (CESPE/MPE-CE-2020) Com base na linguagem de programação Java, julgue o item a
 seguir.
 
 O código
 public class mpce {
 
-
 /
-
 
 public static int Funcao(int num, int resultado)!
 if(num<i)
@@ -8492,11 +8166,9 @@ int num;
 
 num = 36;
 
-
 ./ 183
 
 /
-
 
 for(int i=o; i < num; i++) {
 if(i*i >= num) break;
@@ -8566,9 +8238,7 @@ variável de instância para que todas as classes em todos os pacotes tenham ace
 a questão
 está incorreta!
 
-
 www. estra tegiaconcursos. com. br
-
 
 Gabarito: Errado
 
@@ -8632,9 +8302,7 @@ sobrescrito.
 
 Gabarito: Letra E
 
-
 /
-
 
 49.(CESPE / TCE-PA - 2016) O fato de as expressões lambda terem sido excluídas do
 Java 8
@@ -8663,7 +8331,7 @@ Não é necessário utilizar um array.
 
 Gabarito: Errado
 
-Item. 51. (CESPE / TRE-PI - 2016) A linguagem Java foi, originalmente, desenvolvida para
+51. (CESPE / TRE-PI - 2016) A linguagem Java foi, originalmente, desenvolvida para
 a) permitir a comunicação entre aparelhos domésticos e computadores.
 
 b) traduzirfórmulas matemáticas utilizando-se cartões perfurados.
@@ -8691,13 +8359,11 @@ dispositivos e eletrodomésticos
 
 Gabarito: Letra A
 
-
 ./ 183
 
 /
 
-
-Item. 52. (CESPE / TER-GO - 2015) Em um grupo do tipo Array, podem-se armazenar
+52. (CESPE / TER-GO - 2015) Em um grupo do tipo Array, podem-se armazenar
 dados de
 diferentes tipos.
 
@@ -8711,7 +8377,7 @@ seu comprimento é fixo.
 
 Gabarito: Errado
 
-Item. 53. (CESPE / TJDFT - 2015) Na tecnologia JSP (Java Server Pages), cada documento é
+53. (CESPE / TJDFT - 2015) Na tecnologia JSP (Java Server Pages), cada documento é
 convertido
 pelo contêiner JSP em um servlet, o que ajuda a separar a apresentação do conteúdo.
 
@@ -8725,7 +8391,7 @@ um TomCat por exemplo, em um Servlet.
 
 Gabarito: Correto
 
-Item. 54. (CESPE / SERPRO - 2013) A tecnologia JSE (Java Small Editon) utilizada pela
+54. (CESPE / SERPRO - 2013) A tecnologia JSE (Java Small Editon) utilizada pela
 plataforma iOS
 permite o desenvolvimento de aplicações para todos os seus dispositivos, como
 estações
@@ -8759,9 +8425,7 @@ softwares
 embarcados, i.e., aplicações que rodam em um dispositivo de
 propósito específico,
 
-
 /
-
 
 desempenhando alguma tarefa útil. Em geral, possuem limitações de recursos como memória
 ou
@@ -8803,7 +8467,7 @@ desenvolvimento em nuvem!
 
 Gabarito: Errado
 
-Item. 57. (CESPE /TRT 10a Região-2013) O uso de System.out.println() possibilita a exibição de textos;
+57. (CESPE /TRT 10a Região-2013) O uso de System.out.println() possibilita a exibição de textos;
 para a exibição de valores de variáveis, é necessário utilizar showAttributes().
 
 Comentários:
@@ -8828,11 +8492,9 @@ Comentários:
 
 Como o valor apresentado (5.000) é menor que 10.000, a assertiva está correta!
 
-
 ./ 183
 
 /
-
 
 Gabarito: Correto
 
@@ -8890,9 +8552,7 @@ Gabarito: Correto
 62.(CESPE / TRE-MA - 2009) Para definição e manipulação de uma exceção em Java, devem
 constar no programa, obrigatoriamente, os termos:
 
-
 /
-
 
 a) try e catch.
 
@@ -8910,7 +8570,7 @@ Pessoal, o correto é Try e catch.
 
 Gabarito: Letra A
 
-Item. 63. (CESPE / SERPRO - 2008) A I inguagem Java, orientada a objetos, tem como característica ser
+63. (CESPE / SERPRO - 2008) A I inguagem Java, orientada a objetos, tem como característica ser
 compilada em um código executado em máquina virtual.
 
 Comentários:
@@ -8959,13 +8619,11 @@ programa - é o modificador menos restritivo. Perfeito, são públicos para toda
 
 Gabarito: Correto
 
-
 /
-
 
 QUESTõES CoMENTADAS - OUTRAS BANCAS
 
-Item. 66. (UFMA/ UFMA-2019) Duas características importantes e relacionadas entre si,
+66. (UFMA/ UFMA-2019) Duas características importantes e relacionadas entre si,
 presentes
 em Java porseruma linguagem orientada a objetos, são a herança e o polimorfismo.
 Considere
@@ -9023,13 +8681,11 @@ devemos utilizar public abstract class NomeDaClasse. Porque a classe abstrata é
 uma
 superclasse que não possui instâncias.
 
-
 /
-
 
 Gabarito: Letra A
 
-Item. 68. (UFRN / UFRN - 2019) Na programação orientada a objetos, o polimorfismo é a
+68. (UFRN / UFRN - 2019) Na programação orientada a objetos, o polimorfismo é a
 habilidade
 de objetos de classes diferentes responderem à mesma mensagem de maneiras diferentes.
 
@@ -9050,7 +8706,7 @@ polimorfismo de sobrecarga. Todas as demais são invenções.
 
 Gabarito: Letra A
 
-Item. 69. (IADES / Hemocentro - DF- 2017) Considerando que Luta e Jogo são
+69. (IADES / Hemocentro - DF- 2017) Considerando que Luta e Jogo são
 classes, e que
 Esporte, Individual e Coletivo são interfaces, com relação aos conceitos de classes e
 interfaces
@@ -9083,13 +8739,11 @@ interface pode estender múltiplas interfaces) que são interfaces.
 
 Gabarito: Letra B
 
-Item. 70. (ESAF / Receita Federal - 2012) Em programação Java, o comando while:
+70. (ESAF / Receita Federal - 2012) Em programação Java, o comando while:
 
 a) executa um bloco exclusivamente de comandos de atribuição.
 
-
 /
-
 
 b) executa um bloco de comandos enquanto sua condição for verdadeira.
 
@@ -9109,16 +8763,13 @@ existe; (e) Não, esse comando entra no bloco e só depois avalia a condição.
 
 Gabarito: Letra B
 
-
 /
-
 
 LISTA DE QUESTõES - FCV
 
 í. (FGV / CGU - 2022) Observe o trecho de código a seguir.
 
 1 importjava.io.*;
-
 
 3 interface Segunda {public void segunda();}
 4 interface Terca { public void terca();}
@@ -9129,7 +8780,6 @@ LISTA DE QUESTõES - FCV
 
 8 public void segunda(){System.out.println("Segunda");}
 
-
 11 class Sexta extends Quinta implements Quarta {
 
 12 public void segunda(){System.out.println("Segunda!");}
@@ -9138,7 +8788,6 @@ LISTA DE QUESTõES - FCV
 14 public void quarta(){System.out.println("Segunda!!!");}
 
 15}
-
 
 17 public class teste
 18 {
@@ -9165,7 +8814,7 @@ d) Segunda!!
 
 e) Segunda!!!
 
-Item. 2. (FGV/TJDFT-2022) Observe as classes abaixo descritas na linguagem de programação Java.
+2. (FGV/TJDFT-2022) Observe as classes abaixo descritas na linguagem de programação Java.
 
 public class DocumentoProcesso extends Object
 www. estra tegiaconcursos. com. br
@@ -9229,7 +8878,6 @@ public int promoveO
 
 Com base nos conceitos de orientação a objetos, é correto afirmar que:
 
-
 a) os atributos private de DocumentoProcesso são acessíveis por Oficio;
 
 b) a anotação ©Override indica que o método promove() é abstrato e polimórfico;
@@ -9243,18 +8891,16 @@ da classe Oficio faça referências a instâncias da classe DocumentoProcesso;
 e) os métodos getDocNumero() e setDocNumero() da classe DocumentoProcesso encapsulam
 o atributo docNumero e asseguram que os objetos da classe mantenham estados consistentes.
 
-Item. 3. (FGV / PGE-AM - 2022) Considere o trecho de programa Java abaixo.
+3. (FGV / PGE-AM - 2022) Considere o trecho de programa Java abaixo.
 
 piíblic class Calcular {
 
 public double reajuste(double salario, double percentual) {
 return salario + salario * percentual / 100;
 
-
 public double reajuste(double salario) {
 
 return salario * 1.30;
-
 
 public static double reajuste(float salario) {
 
@@ -9282,7 +8928,7 @@ e) uma chamada correta ao método reajuste, em condições ideais, é float sal 
 1000.5;
 double c - Calcular.reajuste(sal);
 
-Item. 4. (FGV / DPE-RJ - 2019) Considere as seguintes afirmativas sobre class constructor na
+4. (FGV / DPE-RJ - 2019) Considere as seguintes afirmativas sobre class constructor na
 linguagem Java.
 
 I. Deve receber o mesmo nome da classe a ele associada.
@@ -9299,9 +8945,7 @@ a) I e II;
 
 b) lie III;
 
-
 /
-
 
 c) III e IV;
 
@@ -9309,7 +8953,7 @@ d) I, lie III;
 
 e) I, III e IV.
 
-Item. 5. (FGV / MPE-AL - 2018) Analise o código Java a seguir.
+5. (FGV / MPE-AL - 2018) Analise o código Java a seguir.
 public class Exemplo {
 
 public static void main(String[] args) {
@@ -9335,7 +8979,7 @@ d) a linha "Não".
 
 e) a linha "Talvez".
 
-Item. 6. (FGV/MPE-AL-2018) No Java, a classe Error e Exception derivam da classe
+6. (FGV/MPE-AL-2018) No Java, a classe Error e Exception derivam da classe
 a) ClassNotFoundException.
 
 b) lOException.
@@ -9346,7 +8990,7 @@ d) RuntimeException.
 
 e) Throwable.
 
-Item. 7. (FGV / MPE-AL - 2018) Sobre as variáveis e os métodos declarados como private, em Java,
+7. (FGV / MPE-AL - 2018) Sobre as variáveis e os métodos declarados como private, em Java,
 analise as afirmativas a seguir.
 
 I. Ficam acessíveis somente aos membros da própria classe.
@@ -9362,13 +9006,12 @@ b) II, apenas.
 
 c) III, apenas.
 
-
 www. estra tegiaconcursos. com. br
 d) I e II, apenas.
 
 e) II e III, apenas.
 
-Item. 8. (FGV / BANESTES - 2018) Considere a compilação de um ou mais programas por meio da linha
+8. (FGV / BANESTES - 2018) Considere a compilação de um ou mais programas por meio da linha
 de comando, num ambiente Java. Nesse caso, o comando que está corretamente formado
 para esse fim é:
 
@@ -9378,7 +9021,7 @@ c) javac *.java
 d) jvm Testei.java teste2.java
 e) parse java teste.java
 
-Item. 9. (FGV /ALE-RO- 2018) Analise a definição de um array em Java.
+9. (FGV /ALE-RO- 2018) Analise a definição de um array em Java.
 int[ ][ ] multi = new int[ 5 ][ 10 ];
 
 Assinale o código que exibe corretamente um elemento de cada linha desse array.
@@ -9393,7 +9036,7 @@ d) for (int i = o; i <= multi.length; i++) { System.out.println(multi[i,ij);
 
 e) for (int i = 1; i < multi[o],length; i++) { System.out.println(multi[i,i]);
 
-Item. 10. (FGV / ALE-RO - 2018) No contexto da linguagem Java, assinale o modificador
+10. (FGV / ALE-RO - 2018) No contexto da linguagem Java, assinale o modificador
 (modifier) que
 se refere ao nível de acesso.
 
@@ -9403,7 +9046,7 @@ c) protected
 d) static
 e) volatile
 
-Item. 11. (FGV / ALE-RO - 2018) Sobre construtores (constructors), no contexto da linguagem
+11. (FGV / ALE-RO - 2018) Sobre construtores (constructors), no contexto da linguagem
 Java,
 analise as afirmativas a seguir.
 
@@ -9425,7 +9068,7 @@ d) I e II, somente.
 
 e) II e III, somente.
 
-Item. 12. (FGV / MPE AL - 2018) O package "java.util.regex" do Java permite a
+12. (FGV / MPE AL - 2018) O package "java.util.regex" do Java permite a
 manipulação de
 expressões regulares.
 
@@ -9441,7 +9084,7 @@ d) Collector, Retriever e SyntaxParser.
 
 e) Parser, Inspectore Evaluator.
 
-Item. 13. (FGV / MPE - AL - 2018) Servidores de aplicação baseados em Java Platform
+13. (FGV / MPE - AL - 2018) Servidores de aplicação baseados em Java Platform
 Enterprise
 Edition possuem vários tipos de API.
 
@@ -9459,7 +9102,7 @@ d) JTS.
 
 e) JDBC.
 
-Item. 14. (FGV / IBGE - 2017) Os servidores de aplicação fornecem a infraestrutura básica
+14. (FGV / IBGE - 2017) Os servidores de aplicação fornecem a infraestrutura básica
 necessária
 para o desenvolvimento e a distribuição de aplicações. Em relação aos servidores de
 aplicação
@@ -9484,7 +9127,6 @@ b) somente II;
 c) somente III;
 
 d) somente I e II;
-
 
 www. estra tegiaconcursos. com. br
 e) I, lie III.
@@ -9518,14 +9160,11 @@ deve receber o modificador static.
 
 Gabarito: Letra B
 
-
 /
-
 
 LISTA DE QUESTõES - FCC
 
 i6.(FCC / PGE-AM - 2022) Considere o trecho de programa Java abaixo.
-
 
 public class Exemplol {
 
@@ -9535,7 +9174,7 @@ int [] vet = {78, 89, 90, 34,
 int [] dados = verificar (vet)
 
 args) {
-Item. 32. 56};
+32. 56};
 
 }
 
@@ -9545,7 +9184,6 @@ max = vet.length;
 for (a = 0; a <= max - 1; a++) {
 
 for (b = 0; b <= max - a; b++) {
-
 
 if (b <
 if
@@ -9583,14 +9221,12 @@ d) public int verificar(int vet)
 
 e) public static int[] verificar(int vet[])
 
-Item. 17. (FCC / PGE-AM - 2022) Considere st um objeto do tipo PreparedStatement e conn
+17. (FCC / PGE-AM - 2022) Considere st um objeto do tipo PreparedStatement e conn
 um objeto
 do tipo Connection, ambos em condições ideais para a execução do método salvar, de uma
 classe Java.
 
-
 *
-
 
 st.setString{1, cliente.getCpf());
 
@@ -9640,11 +9276,9 @@ e) number renda = parseNumber(request.getParameter("renda"));
 
 ig.(FCC / AFAP - 2019) Considere o método Java abaixo.
 
-
 ./ 183
 
 /
-
 
 public int conectar() {
 try {
@@ -9733,7 +9367,6 @@ for(..l..){
 
 V[i + l] = V[i];
 
-
 }
 
 }
@@ -9747,7 +9380,7 @@ c) i=j-i; i >=o && v[i]>x; - -i e v[i+i]=x
 d) i=j-i; i >=o && v[i]>x; ++i e v[i]=x
 e) i=j-i; i >=o || v[i]>x; - -i e v[i+i]=x
 
-Item. 22. (FCC - TRF 3a Região /2019) No interior do método main da classe principal de
+22. (FCC - TRF 3a Região /2019) No interior do método main da classe principal de
 uma aplicação
 Java SE um método foi chamado usando as instruções abaixo.
 
@@ -9768,15 +9401,13 @@ d) public final double[] cadastraDados(double d[])
 
 e) public static double cadastraDados(double[] d)
 
-Item. 23. (FCC / SANASA - 2019) Na orientação a objetos uma classe abstrata é construída
+23. (FCC / SANASA - 2019) Na orientação a objetos uma classe abstrata é construída
 para ser um
 modelo para classes derivadas e na sua construção há algumas restrições. Assim,
 considere a
 classe abstrata abaixo, criada na Linguagem Java.
 
-
 /
-
 
 public abstract class Calcula {
 
@@ -9819,7 +9450,7 @@ d) System.Out.Println(null, n[i]);
 
 e) JOptionPane.showWindows(o, n[2]);
 
-Item. 25. (FCC / AFAP - 2019) Considere a classe Java a seguir em condições ideais.
+25. (FCC / AFAP - 2019) Considere a classe Java a seguir em condições ideais.
 import java.sql.*;
 
 public class ClienteDados {
@@ -9844,7 +9475,6 @@ isso seja
 permitido, deve-se inserir o comando
 www. estra tegiaconcursos. com. br
 
-
 No método conectar podem ser lançadas duas exceções que o Analista de Informática
 deseja
 que sejam tratadas não no interior do método, mas sim por quem o chamar. Para que
@@ -9864,7 +9494,7 @@ SQLException) abaixo do comando return 1.
 
 e) throws DataBaseException, SQLQueryException na linha de declaração do método.
 
-Item. 26. (FCC/TRF3-20i9) Uma classe Colaborador de uma aplicação Java tem o método abaixo,
+26. (FCC/TRF3-20i9) Uma classe Colaborador de uma aplicação Java tem o método abaixo,
 public void setNome(String nome) {
 
 this.nome = nome;
@@ -9884,7 +9514,7 @@ d) Colaborador c - new Colaborador(); c.setNome("Pedro");
 
 e) Colaborador c - new Colaborador().setNome("Pedro");
 
-Item. 27. (FCC / SABESP - 2018) As interfaces são usadas nas aplicações Java quando se deseja permitir
+27. (FCC / SABESP - 2018) As interfaces são usadas nas aplicações Java quando se deseja permitir
 que diversas classes implementem determinados métodos, mesmo que de formas diferentes.
 
 Em uma interface Java
@@ -9914,11 +9544,9 @@ d) possuir métodos abstratos e estáticos.
 
 e) conter declarações de constantes e de variáveis não inicializadas.
 
-
 /
 
-
-Item. 29. (FCC / TRE-RN - 2011) Em relação ao Java Standard Edition, é INCORRETO afirmar:
+29. (FCC / TRE-RN - 2011) Em relação ao Java Standard Edition, é INCORRETO afirmar:
 
 a) Possui gerenciamento de memória embutido, por meio do coletorde lixo.
 
@@ -9936,7 +9564,7 @@ necessidade de recompilação.
 
 e) Usa conceitos tais como orientação a objetos e multithreading.
 
-Item. 30. (FCC / TRT 22a Região - 2010) A plataforma Java disponibiliza um interpretador
+30. (FCC / TRT 22a Região - 2010) A plataforma Java disponibiliza um interpretador
 que traduz,
 em tempo de execução, o bytecode para instruções nativas do processador, permitindo,
 dessa
@@ -9953,7 +9581,7 @@ d) J2SE.
 
 e) JavaFX.
 
-Item. 31. (FCC / Sergipe Gás- 2010) É tida como uma das principais linguagens
+31. (FCC / Sergipe Gás- 2010) É tida como uma das principais linguagens
 de programação
 orientada a objeto; tem como característica a compilação para um bytecode e execução
 por
@@ -9969,7 +9597,7 @@ d) Java.
 
 e) PHP.
 
-Item. 32. (FCC -TCE-SP - 2010) Os aplicativos Java "rodam" em diferentes ambientes. A
+32. (FCC -TCE-SP - 2010) Os aplicativos Java "rodam" em diferentes ambientes. A
 tradução dos
 códigos Java (bytecode), para instruções específicas de cada sistema e dispositivo,
 é uma
@@ -9985,15 +9613,13 @@ d) Java Comunication Process (JCP).
 
 e) Java Enterprise Machine (JEM).
 
-
 ./ 183
 
 /
 
-
 LISTA DE QUESTõES - CESPE
 
-Item. 33. (CESPE I Petrobrás - 2022)
+33. (CESPE I Petrobrás - 2022)
 
 package cadastrollsuario;
 
@@ -10044,9 +9670,7 @@ out.println("</BODY>");
 out.println("</HTML>");
 out.close();
 
-
 /
-
 
 }
 
@@ -10061,14 +9685,14 @@ String nome = request.getAttribute("nome");
 
 sem perda de funcionalidade no código.
 
-Item. 34. (CESPE - DP DF - 2022) No Java 8, o uso do método map() permite aplicar uma função a todos
+34. (CESPE - DP DF - 2022) No Java 8, o uso do método map() permite aplicar uma função a todos
 os elementos de um stream.
 
-Item. 35. (CESPE - DP DF- 2022) Quando a mensageria é utilizada com linguagem Java, as
+35. (CESPE - DP DF- 2022) Quando a mensageria é utilizada com linguagem Java, as
 requisições
 são processadas exclusivamente de forma síncrona.
 
-Item. 36. (CESPE / SEED PR -2021) Java é uma linguagem construída a partir de um legado
+36. (CESPE / SEED PR -2021) Java é uma linguagem construída a partir de um legado
 das
 linguagens C e C++. No entanto, ela apresenta características únicas que a diferem das
 demais,
@@ -10094,16 +9718,14 @@ d) Apenas os itens II e III estão certos.
 
 e) Todos os itens estão certos.
 
-Item. 37. (CESPE / PGDDF - 2021) Julgue o item subsecutivo, a respeito de lógica e de
+37. (CESPE / PGDDF - 2021) Julgue o item subsecutivo, a respeito de lógica e de
 estrutura de
 programação.
 
 função avaliar( a, b)
 início
 
-
 /
-
 
 ma <-a;
 
@@ -10147,7 +9769,6 @@ da classe CarroEsportivo.
 
 2 £
 
-
 private String marca;
 
 4 ptiblic CarroEsportivoCítring modelCj
@@ -10183,9 +9804,7 @@ acessar atributos públicos da classe Carro.
 3g.(CESPE / PGDF - 2021) Com relação a servidores de aplicação e seus serviços e a teoria de
 becapes, julgue o item a seguir.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Apenas uma única instância do Tomcat pode existir em uma única JVM (Java virtual
 machine);
@@ -10193,17 +9812,17 @@ no entanto, é possível ter múltiplas instâncias em uma mesma máquina virtua
 que em
 processos Java separados, em execução em portas separadas.
 
-Item. 40. (CESPE — Ministério da Economia - 2020) Em Java 8, o método de limite de fluxo
+40. (CESPE — Ministério da Economia - 2020) Em Java 8, o método de limite de fluxo
 tem como
 objetivo eliminar elementos com base em um critério.
 
-Item. 41. (CESPE / Ministério da Economia - 2020) Uma expressão lambda é usada
+41. (CESPE / Ministério da Economia - 2020) Uma expressão lambda é usada
 principalmente para
 definir a implementação procedural de uma interface associativa.
 
 Comentários:
 
-Item. 42. (CESPE / Pref. Barra dos Coqueiros - 2020) A máquina virtual do Java (JVM)
+42. (CESPE / Pref. Barra dos Coqueiros - 2020) A máquina virtual do Java (JVM)
 utiliza uma
 tecnologia especificamente para aumentaro desempenho da aplicação, identificando
 códigos
@@ -10218,7 +9837,7 @@ d) JRE (Java Runtime Environment).
 
 e) JDK (Java Development Kit).
 
-Item. 43. (CESPE/MPE-CE-2020) Com base na linguagem de programação Java, julgue o item a seguir.
+43. (CESPE/MPE-CE-2020) Com base na linguagem de programação Java, julgue o item a seguir.
 
 O código
 public class mpce {
@@ -10241,9 +9860,7 @@ System.out.println(num[i][j]);
 
 apresentará, quando executado, o resultado a seguir.
 
-
 /
-
 
 44.(CESPE/MPE-CE-2O2o) Com base na linguagem de programação Java, julgue o item a seguir.
 
@@ -10297,25 +9914,23 @@ b) 12 3 4 5 6
 
 c) 12 3 4 5
 
-
 /
-
 
 d) 012 345
 
 e) 0123456
 
-Item. 46. (CESPE / STM - 2018) Os membros de uma classe definidos como PUBLIC não podem
+46. (CESPE / STM - 2018) Os membros de uma classe definidos como PUBLIC não podem
 ser
 acessados ou usados por nenhuma outra classe.
 
-Item. 47. (CESPE / CGM-Joao Pessoa- 2018) A JME oferece um ambiente robusto e flexível para
+47. (CESPE / CGM-Joao Pessoa- 2018) A JME oferece um ambiente robusto e flexível para
 aplicativos executados em dispositivos móveis e integrados cuja capacidade de memória, de
 vídeo e de processamento são limitados, tais como set-top boxes e reprodutores de
 discos blu-
 ray.
 
-Item. 48. (CESPE / TER-TO- 2017) Na orientação a objetos, a alteração do
+48. (CESPE / TER-TO- 2017) Na orientação a objetos, a alteração do
 comportamento dos
 métodos herdados das superclasses para um comportamento mais específico nas subclasses,
 deforma a se criar um novo método na classe filha que contém a mesma assinatura e o
@@ -10331,19 +9946,19 @@ d) abstração.
 
 e) sobrescrita.
 
-Item. 49. (CESPE / TCE-PA - 2016) O fato de as expressões lambda terem sido excluídas do
+49. (CESPE / TCE-PA - 2016) O fato de as expressões lambda terem sido excluídas do
 Java 8
 possibilitou que a linguagem Java ficasse mais flexível e que a implementação de seu
 código se
 tornasse mais precisa.
 
-Item. 50. (CESPE / FUNPRESP-JUD - 2016) Para lidar com um conjunto de objetos
+50. (CESPE / FUNPRESP-JUD - 2016) Para lidar com um conjunto de objetos
 em JSon, é
 necessário utilizar um array que permita realizar, em uma única operação, a carga de
 todos os
 objetos.
 
-Item. 51. (CESPE / TRE-PI - 2016) A linguagem Java foi, originalmente, desenvolvida para
+51. (CESPE / TRE-PI - 2016) A linguagem Java foi, originalmente, desenvolvida para
 a) permitir a comunicação entre aparelhos domésticos e computadores.
 
 b) traduzirfórmulas matemáticas utilizando-se cartões perfurados.
@@ -10354,41 +9969,39 @@ d) trabalharcom inteligência artificial por meio de uma abordagem puramente ló
 
 e) demonstrara viabilidade da implementação da álgebra relacional de dados.
 
-Item. 52. (CESPE / TER-GO - 2015) Em um grupo do tipo Array, podem-se armazenar
+52. (CESPE / TER-GO - 2015) Em um grupo do tipo Array, podem-se armazenar
 dados de
 diferentes tipos.
 
-Item. 53. (CESPE / TJDFT - 2015) Na tecnologia JSP (Java Server Pages), cada documento é
+53. (CESPE / TJDFT - 2015) Na tecnologia JSP (Java Server Pages), cada documento é
 convertido
 pelo contêiner JSP em um servlet, o que ajuda a separara apresentação do conteúdo.
 
-
 www. estra tegiaconcursos. com. br
 
-
-Item. 54. (CESPE / SERPRO - 2013) A tecnologia JSE (Java Small Editon) utilizada pela
+54. (CESPE / SERPRO - 2013) A tecnologia JSE (Java Small Editon) utilizada pela
 plataforma iOS
 permite o desenvolvimento de aplicações para todos os seus dispositivos, como
 estações
 gráficas, iPad, iPod, entre outros.
 
-Item. 55. (CESPE / MPOG - 2013) O JME foi criado para trabalhar com ambientes de
+55. (CESPE / MPOG - 2013) O JME foi criado para trabalhar com ambientes de
 programação
 multiprocessados em ambientes distribuídos.
 
-Item. 56. (CESPE / ANTT - 2013) JSE, JME, JEE e JCE são edições da tecnologia Java
+56. (CESPE / ANTT - 2013) JSE, JME, JEE e JCE são edições da tecnologia Java
 voltadas para o
 desenvolvimento de aplicações para desktop/servidores, dispositivos móveis,
 ambientes
 corporativos e ambientes em nuvem, respectivamente.
 
-Item. 57. (CESPE /TRT 10a Região-2013) O uso de System.out.println() possibilita a exibição
+57. (CESPE /TRT 10a Região-2013) O uso de System.out.println() possibilita a exibição
 de textos;
 para a exibição de valores de variáveis, é necessário utilizar showAttributes().
 
 Comentários:
 
-Item. 58. (CESPE / TRT 10a Região -2013) No código abaixo, caso a variável salário assuma o valor igual
+58. (CESPE / TRT 10a Região -2013) No código abaixo, caso a variável salário assuma o valor igual
 a 5000, o valor b da variável avaliação será atribuído corretamente.
 
 if (salario > 10000) {
@@ -10397,17 +10010,17 @@ avaliacao="a";
 else
 avaliacao="b";
 
-Item. 59. (CESPE / TRT 10a Região - 2013) A execução do código abaixo informará a classe
+59. (CESPE / TRT 10a Região - 2013) A execução do código abaixo informará a classe
 do objeto
 que foi atribuído à variável de nome varzp
 
 String nome = var^.getnameO;
 
-Item. 60. (CESPE / MPU -2013) O tratamento de exceção em Java consiste no bloco
+60. (CESPE / MPU -2013) O tratamento de exceção em Java consiste no bloco
 try-catch-finally. O
 bloco finally sempre executa ao término do bloco try.
 
-Item. 61. (CESPE / MPU - 2013) Se a thread executando um código try ou catch for
+61. (CESPE / MPU - 2013) Se a thread executando um código try ou catch for
 interrompida ou
 abortada, o bloco finally poderá não ser executado, apesar de a aplicação como um todo
 continuar.
@@ -10425,11 +10038,9 @@ d) finally e retry.
 
 e) try e retry.
 
-
 ./ 183
 
 /
-
 
 63.(CESPE /SERPRO-2008) A linguagem Java, orientada a objetos, tem como característica ser
 compilada em um código executado em máquina virtual.
@@ -10440,13 +10051,11 @@ utilizar componentes gráficos.
 6s.(CESPE / TRT - 5a Região - 2008) Em Java, os métodos public de uma classe são utilizados
 pelos clientes da classe para manipular dados armazenados em objetos dessa classe.
 
-
 /
-
 
 LISTA DE QUESTõES - OUTRAS BANCAS
 
-Item. 66. (UFMA / UFMA - 2019) Duas características importantes e relacionadas entre si,
+66. (UFMA / UFMA - 2019) Duas características importantes e relacionadas entre si,
 presentes
 em Java porseruma linguagem orientada a objetos, são a herança e o polimorfismo.
 Considere
@@ -10482,7 +10091,7 @@ b public abstract NomeDaClasse
 c) public class NomeDaClasse
 d) public class private NomeDaClasse
 
-Item. 68. (UFRN / UFRN - 2019) Na programação orientada a objetos, o polimorfismo é a
+68. (UFRN / UFRN - 2019) Na programação orientada a objetos, o polimorfismo é a
 habilidade
 de objetos de classes diferentes responderem à mesma mensagem de maneiras diferentes.
 
@@ -10495,7 +10104,7 @@ c) polimorfismo de abstração.
 
 d) polimorfismo de classificação.
 
-Item. 69. (IADES / Hemocentro - DF- 2017) Considerando que Luta e Jogo são classes, e
+69. (IADES / Hemocentro - DF- 2017) Considerando que Luta e Jogo são classes, e
 que
 Esporte, Individual e Coletivo são interfaces, com relação aos conceitos de classes e
 interfaces
@@ -10505,9 +10114,7 @@ a) interface Futebol implements Esporte, Jogo{}.
 
 b) interface Futebol extends Esporte,Coletivofj
 
-
 /
-
 
 c) interface Futebol implements Esporte^
 
@@ -10515,7 +10122,7 @@ d) class Judo extends Esporte, Individualf}
 
 e) interface Karatê extends Luta{}
 
-Item. 70. (ESAF / Receita Federal - 2012) Em programação Java, o comando while:
+70. (ESAF / Receita Federal - 2012) Em programação Java, o comando while:
 
 a) executa um bloco exclusivamente de comandos de atribuição.
 
@@ -10527,84 +10134,80 @@ d) equivale ao comando what-if.
 
 e) é idêntico ao comando do while.
 
-
 /
-
 
 GABARITo
 í. Letra C 25. Letra B
 49.Errado
 
-Item. 2. Letra E 26. Letra D
-Item. 50. Errado
+2. Letra E 26. Letra D
+50. Errado
 
-Item. 3. Letra E 27. Letra A
-Item. 51. Letra A
+3. Letra E 27. Letra A
+51. Letra A
 
-Item. 4. Letra D 28. Letra A
-Item. 52. Errado
+4. Letra D 28. Letra A
+52. Errado
 
-Item. 5. Letra D 29. Letra B
-Item. 53. Correto
+5. Letra D 29. Letra B
+53. Correto
 
-Item. 6. Letra D 30. Letra A
-Item. 54. Errado
+6. Letra D 30. Letra A
+54. Errado
 
-Item. 7. Letra A 31. Letra D
-Item. 55. Errado
+7. Letra A 31. Letra D
+55. Errado
 
-Item. 8. Letra C 32. Letra C
-Item. 56. Errado
+8. Letra C 32. Letra C
+56. Errado
 
-Item. 9. Letra A 33. Errada
-Item. 57. Errado
+9. Letra A 33. Errada
+57. Errado
 
-Item. 10. Letra C 34. Correto
-Item. 58. Correto
+10. Letra C 34. Correto
+58. Correto
 
-Item. 11. Letra E 35. Errado
-Item. 59. Errado
+11. Letra E 35. Errado
+59. Errado
 
-Item. 12. Letra C 36. Letra E
+12. Letra C 36. Letra E
 60.Errado
 
-Item. 13. Letra A 37. Errado
+13. Letra A 37. Errado
 61.Correto
 
-Item. 14. Letra E 38. Letra E
+14. Letra E 38. Letra E
 62.Letra A
 
-Item. 15. Letra B 39. Errado
-Item. 63. Correto
+15. Letra B 39. Errado
+63. Correto
 
 16.Letra E 40. Errado
 64.Correto
 
-Item. 17. Letra B 41. Errado
-Item. 65. Correto
+17. Letra B 41. Errado
+65. Correto
 
 18.Letra D 42. Letra A
-Item. 66. Letra
+66. Letra
 
 19.Letra D 43. Errado
-Item. 67. Letra A
+67. Letra A
 
-Item. 20. Letra E 44. Correto
-Item. 68. Letra
+20. Letra E 44. Correto
+68. Letra
 
-Item. 21. Letra C 45. Correto
-Item. 69. Letra
+21. Letra C 45. Correto
+69. Letra
 
-Item. 22. Letra A 46.Errado
-Item. 70. Letra B
+22. Letra A 46.Errado
+70. Letra B
 
-Item. 23. Letra A 47. Correto
+23. Letra A 47. Correto
 
-Item. 24. Letra B 48.Letra E
-
+24. Letra B 48.Letra E
 
 www. estra tegiaconcursos. com. br
 
 /
-
 

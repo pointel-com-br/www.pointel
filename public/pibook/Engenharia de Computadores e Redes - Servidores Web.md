@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Computadores e Redes - Servidores Web.
-
+# Engenharia de Computadores e Redes - Servidores Web.
 
 Índice
 
@@ -27,9 +26,7 @@ Capítulo. Engenharia de Computadores e Redes - Servidores Web.
 
 12) Servidores Web - IIS - Lista de Questões - Multibancas.
 
-
 Somente 2
-
 
 SISTEMAS DISTRIBUÍDoS
 
@@ -94,9 +91,7 @@ localização.
 Relocação Oculta que um recurso pode ser movido para outra
 localização enquanto em uso.
 
-
 Semente 3
-
 
 Replicação
 Concorrência
@@ -130,14 +125,11 @@ Internet:
 
 Computação em Nuvem:
 
-
 Spmênte 4
-
 
 y 72
 
 /
-
 
 Alguns conceitos recorrentes em provas de concurso são:
 
@@ -159,14 +151,12 @@ distribuídas geograficamente
 Ocultar a heterogeneidade dos sistemas operacionais e protocolos de
 comunicação subjacentes
 
-
 3GL and 4GL
 Applications
 
 Applicattons
 eBusIness XML
 Exchanges
-
 
 Proprietary EDI
 Fotmats
@@ -204,14 +194,11 @@ processamento responsável pelo processamento da tarefa. Portanto, trata-se
 de um dos
 componentes mais importantes, o qual utiliza um algoritmo de escalonamento.
 
-
 Spménte 5
-
 
 / 72
 
 /
-
 
 As principais características de um sistema distribuído são:
 
@@ -263,14 +250,11 @@ crescimento significativo no número de recursos e no número de clientes;
 RISC, CISC), sistemas operacionais diferentes (Windows, Linux etc.) devem ser integrados
 no mesmo sistema distribuído.
 
-
 Spménte 6
-
 
 / 72
 
 /
-
 
 Funções, Modelos/Arquiteturas e Plataformas
 
@@ -337,14 +321,11 @@ Vamos ver algumas plataformas que dão suporte aos sistemas e aplicações distr
 
 * Biztalk: Enterprise integration broker da Microsoft;
 
-
 Spménte 7
-
 
 / 72
 
 /
-
 
 São inúmeras as soluções tecnológicas para implementar a distribuição:
 
@@ -400,14 +381,11 @@ remover máquinas para reparos sem interromper a aplicação;
 
 * existência de opções de softwares sem custos de licenciamento para cluster.
 
-
 Spmênte 8
-
 
 y 72
 
 /
-
 
 Resumindo, cluster é um agregado de computadores, um recurso de processamento utilizado
 em
@@ -455,14 +433,11 @@ extraterrestre (já vimos nesta aula). Não há um requisito de alta disponibili
 equipamentos
 e a localização dos equipamentos é transparente para os usuários.
 
-
 Spménte 9
-
 
 / 72
 
 /
-
 
 |
 
@@ -472,7 +447,6 @@ coleção de máquinas paralelas conectadas entre si que, por trabalharem
 juntas, fornecem alta ;
 disponibilidade e(ou) balanceamento de carga; o GRID, por sua vez, envolve a integração, j
 gestão de recursos computacionais fracamente acoplados e geograficamente distribuídos.
-
 
 i Comentários:
 
@@ -493,17 +467,13 @@ Gabarito: Correta :
 ;2. (CESPE/TRE-PE - 2015) Os sistemas operacionais têm rotinas que não são executadas de forma ;I
 linear, masz sim, concorrentemente, em função de eventos assíncronos.
 
-
 Spmênte 10
-
 
 y 72
 
 /
 
-
 = Comentários:
-
 
 As rotinas do sistema operacional são executadas conforme as características das tarefas (jobs). i
 i Existem os jobs do tipo CPU bound e os l/O bound. Os eventos variam conforme a necessidade :
@@ -513,17 +483,13 @@ afirmou que as rotinas são executadas em função de eventos assíncronos! Port
 
 i correta.
 
-
 Gabarito: Correta
 
-
 Spménte 11
-
 
 / 72
 
 /
-
 
 SERVIDoR DE APLICAçÃo JBoSS/WILDFLY
 
@@ -578,9 +544,7 @@ essencial como uma camada oculta de tradução. Permite a comunicação e o gere
 aplicativos
 distribuídos.
 
-
 Spmênte 12
-
 
 Core Infrastructure
 
@@ -633,14 +597,11 @@ servidor. Ele não lida
 diretamente com a carga de aplicações no servidor, sendo responsável por iniciar e
 terminar os
 
-
 Spménte 13
-
 
 / 72
 
 /
-
 
 processos que rodam em cada servidor, interagindo com o Domain Controller
 para ajudar no
@@ -692,14 +653,11 @@ ou reiniciar o servidor. Duas bibliotecas iguais de versões diferentes podem co
 no mesmo
 servidor.
 
-
 Spménte 14
-
 
 / 72
 
 /
-
 
 Instalação, Configuração e Implantação
 
@@ -759,14 +717,11 @@ Controller e o Domain Controller. Dando continuidade, agora vamos criar os perfi
 o domain
 controler (master) e para os host controllers (slave), baseados no modo Domain e renomeá-los:
 
-
 Spménte 15
-
 
 / 72
 
 /
-
 
 # cp -Rap /EAP_HOME/domain /EAP_HOME/master
 # cp -Rap /EAP_HOME/domain /EAP_HOME/slave01
@@ -830,7 +785,6 @@ Web Deployments for main-server-group
 
 B Runtime Operations
 
-
 OSGi
 
 B Deployments
@@ -857,14 +811,11 @@ o sistema
 operacional específico que o suporta. Antes do componente ser executado no servidor,
 ele precisa
 
-
 Spménte 16
-
 
 / 72
 
 /
-
 
 ser montado em uma estrutura que o container possa entender e executar. No
 JBoss/Wildfly, a
@@ -928,20 +879,17 @@ caminhos (paths) padrão:
 trabalho de uma
 instância em um domínio gerenciado.
 
-
 Spménte 17
-
 
 / 72
 
 /
 
-
 ESTA É
 
 DIFÍCIL!
 
-Item. 1. (IBFC/EMBASA - 2017) Para que o servidor JBOSS Application Server 7 possa ser plenamente
+1. (IBFC/EMBASA - 2017) Para que o servidor JBOSS Application Server 7 possa ser plenamente
 executado, existe a necessidade que esteja previamente instalado e configurado o:
 
 A) JMF
@@ -989,14 +937,11 @@ de login do JBoss AS Administration Console deve-se digitar,
 A) na linha de endereço do navegador, http://localhost:8080/admin-console.
 i B) em linha de comando, jboss -a console.
 
-
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação -
-
 
 2023 (Pós-Edital) Soménte 18
 
 / 72
-
 
 C) na linha de endereço do navegador, http://localhost:8084/settings.
 
@@ -1024,19 +969,16 @@ Portanto, a alternativa A está correta e é o gabarito da questão.
 
 Gabarito: Letra A
 
-
 Spménte 19
-
 
 / 72
 
 /
 
-
 QUESTõES CoMENTADAS - SISTEMAS DISTRIBUÍDoS -
 MULTIBANCAS
 
-Item. 1. (CESPE/MBASA - 2010) Clusters ou combinações de clusters são usados quando os conteúdos
+1. (CESPE/MBASA - 2010) Clusters ou combinações de clusters são usados quando os conteúdos
 são críticos, apesar de não haver necessidade de estarem disponíveis e (ou) processados
 rapidamente.
 
@@ -1052,7 +994,7 @@ errada.
 
 Gabarito: Errada
 
-Item. 2. (IADES/PG-DF - 2011) Segundo Andrew Tanembaum (2007) "Sistema Distribuído é
+2. (IADES/PG-DF - 2011) Segundo Andrew Tanembaum (2007) "Sistema Distribuído é
 uma
 coleção de computadores independentes que se apresenta ao usuário como um sistema único
 e consistente". Assinale a alternativa correta a respeito de um sistema de
@@ -1087,14 +1029,11 @@ servidor onde será executada tal tarefa. Lembre que um dos princípios de siste
 distribuídos é
 a transparência, portanto o usuário não tem ideia qual servidor será utilizado.
 
-
 Spmênte 20
-
 
 y 72
 
 /
-
 
 (B) Em um sistema distribuído não há a figura fixa dos servidores dedicados a atender requisições.
 
@@ -1119,7 +1058,7 @@ Portanto, a alternativa E está correta e é o gabarito da questão.
 
 Gabarito: Letra E
 
-Item. 3. (FCC/TRE-PE - 2011) Arquitetura padrão proposta pelo Object Management Group (OMG)
+3. (FCC/TRE-PE - 2011) Arquitetura padrão proposta pelo Object Management Group (OMG)
 para estabelecer e simplificar a troca de dados entre sistemas distribuídos heterogêneos por
 meio de uma estrutura comum para o gerenciamento de objetos distribuídos que é conhecida
 como Object Manager Architecture (OMA). Trata-se de
@@ -1150,16 +1089,13 @@ questão.
 
 Gabarito: Letra D
 
-
 Spménte 21
-
 
 / 72
 
 /
 
-
-Item. 4. (CESPE/SERPRO - 2013) Com relação à arquitetura de sistemas distribuídos, julgue os
+4. (CESPE/SERPRO - 2013) Com relação à arquitetura de sistemas distribuídos, julgue os
 próximos itens. Na arquitetura distribuída, os sistemas orientados a eventos
 possuem
 processos fortemente acoplados.
@@ -1172,7 +1108,7 @@ acoplados. Portanto, a questão está errada.
 
 Gabarito: Errada
 
-Item. 5. (FUNCAB/MDA - 2014) São desvantagens dos sistemas distribuídos:
+5. (FUNCAB/MDA - 2014) São desvantagens dos sistemas distribuídos:
 
 A) dependência de hardware e custo maior de desenvolvimento.
 
@@ -1204,7 +1140,7 @@ Portanto, a alternativa B está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-Item. 6. (CESPE/TRE-PE - 2015) Os sistemas operacionais têm rotinas que não são executadas de forma
+6. (CESPE/TRE-PE - 2015) Os sistemas operacionais têm rotinas que não são executadas de forma
 linear, mas, sim, concorrentemente, em função de eventos assíncronos.
 
 Comentários:
@@ -1216,14 +1152,11 @@ necessidade
 dos usuários (mais uso do processador ou de dispositivos de entrada/saída). Por isso,
 a assertiva
 
-
 Spmênte 22
-
 
 y 72
 
 /
-
 
 afirmou que as rotinas são executadas em função de eventos assíncronos! Portanto, a
 questão está
@@ -1231,7 +1164,7 @@ correta.
 
 Gabarito: Correta
 
-Item. 7. (CESPE/TJ-DFT - 2015) Nos sistemas implementados a partir do uso de uma
+7. (CESPE/TJ-DFT - 2015) Nos sistemas implementados a partir do uso de uma
 arquitetura de
 componentes distribuídos, o middleware tem a responsabilidade de gerenciar a interação
 entre esses componentes.
@@ -1254,7 +1187,7 @@ Portanto, a questão está correta.
 
 Gabarito: Correta
 
-Item. 8. (CESPE/STJ - 2015) A arquitetura orientada a serviços é forma de desenvolvimento de sistemas
+8. (CESPE/STJ - 2015) A arquitetura orientada a serviços é forma de desenvolvimento de sistemas
 distribuídos em que os componentes de sistemas são serviços autônomos, razão por que,
 devido à interoperabilidade, as ligações entre os serviços devem ser rígidas para não provocar
 mudanças durante sua execução.
@@ -1271,21 +1204,18 @@ flexíveis durante sua execução. Portanto, a questão está errada.
 
 Gabarito: Errada
 
-Item. 9. (IBFC/EBSERH - 2017) Assinale a alternativa correta. Cluster é um
+9. (IBFC/EBSERH - 2017) Assinale a alternativa correta. Cluster é um
 conceito que está
 diretamente relacionado aos sistemas de alta disponibilidade. Existem vários tipos de cluster,
 no entanto há alguns que são mais conhecidos, como:
 
 A) cluster paralelo - cluster de alta disponibilidade - cluster de três camadas
 
-
 Spmênte 23
-
 
 y 72
 
 /
-
 
 B) cluster de alto desempenho - cluster virtual - cluster matricial
 
@@ -1345,14 +1275,11 @@ outro nó defeituoso;
 
 ( ) realizar processamento da aplicação de forma paralela entre os vários nós do cluster;
 
-
 Spmênte 24
-
 
 y 72
 
 /
-
 
 ( ) monitoramento dos nós feito por eles mesmos, por uma rede diferente da rede de dados.
 A sequência correta é:
@@ -1405,14 +1332,11 @@ espalhados pelo mundo, fracamente acoplados (sistemas operacionais e máquinas
 diferentes).
 Portanto, a questão está correta.
 
-
 Spménte 25
-
 
 / 72
 
 /
-
 
 Gabarito: Correta
 
@@ -1464,14 +1388,11 @@ os escravos realizam as tarefas e retornam com os resultados. E por aí vai...
 um dado
 problema (ex.: quebrar uma senha por força bruta).
 
-
 Spménte 26
-
 
 / 72
 
 /
-
 
 (IV) Grid é fracamente acoplado, geralmente "espalhado pelo mundo",
 tendo os recursos
@@ -1524,14 +1445,11 @@ Gabarito: Letra C
 
 14.(UFMG/UFMG - 2019) Um Cluster de Alta Disponibilidade é caracterizado por
 
-
 Spmênte 27
-
 
 y 72
 
 /
-
 
 A) no máximo 2 servidores para redundância ou tolerância a falhas e
 fontes de energia
@@ -1563,17 +1481,14 @@ questão.
 
 Gabarito: Letra B
 
-
 Spménte 28
 
-
 / 72
-
 
 QUESTõES CoMENTADAS - SERVIDoR DE APLICAçÃo
 JBoSS/WILDFLY - MULTIBANCAS
 
-Item. 1. (IBFC/EBSERH - 2016) "JBoss é um servidorde código
+1. (IBFC/EBSERH - 2016) "JBoss é um servidorde código
 fontebaseado na
 plataforma e implementado na linguagem de programação
 Assinale a
@@ -1605,7 +1520,7 @@ está correta e é o gabarito da questão.
 
 Gabarito: Letra D
 
-Item. 2. (FUNCAB/CREA-AC - 2016) Um administrador de rede instalou o Jboss AS 7 no modo domain.
+2. (FUNCAB/CREA-AC - 2016) Um administrador de rede instalou o Jboss AS 7 no modo domain.
 Nesse caso, um dos processos principais, que coordena as instâncias e distribui o
 arquivo
 implantado para todas as instâncias do domínio, é denominado:
@@ -1620,14 +1535,11 @@ D) system controller.
 
 E) standalone controler.
 
-
 Spménte 29
-
 
 / 72
 
 /
-
 
 Comentários:
 
@@ -1653,7 +1565,7 @@ Portanto, a alternativa B está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-Item. 3. (FCC/TRT11 - 2017) Após instalar o servidor JBoss AS 5 para Windows, deve-se entrar na pasta
+3. (FCC/TRT11 - 2017) Após instalar o servidor JBoss AS 5 para Windows, deve-se entrar na pasta
 
 $JBOSS_HOME/bin e digitar run.bat para iniciá-lo. Com o servidor iniciado, para acessar a área
 de login do JBoss AS Administration Console deve-se digitar,
@@ -1670,14 +1582,11 @@ E) na linha de endereço do navegador, http://localhost:80/server-console.
 
 Comentários:
 
-
 Spmênte 30
-
 
 y 72
 
 /
-
 
 O deploy varia conforme o tipo de perfil (profile) definido para o JBoss/Wildfly.
 Vamos ver como
@@ -1697,7 +1606,7 @@ Portanto, a alternativa A está correta e é o gabarito da questão.
 
 Gabarito: Letra A
 
-Item. 4. (IBFC/EMBASA - 2017) Para que o servidor JBOSS Application Server 7 possa ser plenamente
+4. (IBFC/EMBASA - 2017) Para que o servidor JBOSS Application Server 7 possa ser plenamente
 executado, existe a necessidade que esteja previamente instalado e configurado o:
 
 A) JMF
@@ -1732,18 +1641,15 @@ Portanto, a alternativa D está correta e é o gabarito da questão.
 
 Gabarito: Letra D
 
-Item. 5. (FGV/Câmara de Salvador-BA - 2018) No âmbito do JBoss AS 7.x, os modos de
+5. (FGV/Câmara de Salvador-BA - 2018) No âmbito do JBoss AS 7.x, os modos de
 operação
 disponíveis são denominados:
 
-
 Spmênte 31
-
 
 y 72
 
 /
-
 
 A) Domain e Standalone;
 
@@ -1789,7 +1695,7 @@ Portanto, a alternativa A está correta e é o gabarito da questão.
 
 Gabarito: Letra A
 
-Item. 6. (FCC/MPE-PE - 2018) Em uma instalação padrão do JBoss Application Server (AS) 7, o diretório
+6. (FCC/MPE-PE - 2018) Em uma instalação padrão do JBoss Application Server (AS) 7, o diretório
 que contém a página de boas-vindas do AS é o
 
 A) standalone.
@@ -1802,14 +1708,11 @@ D) server-welcome.
 
 E) bundles.
 
-
 Spménte 32
-
 
 / 72
 
 /
-
 
 Comentários:
 
@@ -1847,7 +1750,7 @@ Portanto, a alternativa B está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-Item. 7. (FCC/CLDF - 2018) Considere que o servidor de aplicações JBoss AS 7 está
+7. (FCC/CLDF - 2018) Considere que o servidor de aplicações JBoss AS 7 está
 instalado e
 configurado em modo padrão em um computador com sistema operacional Windows 10. Para
 testar se o servidor JBoss está funcionando, utilizando um navegador, deve-se digitar o URL
@@ -1871,14 +1774,11 @@ Web na
 URL http://x.x.x.x:9990/console/ (onde x.x.x.x é o endereço IP do servidor).
 Note que a porta
 
-
 Spménte 33
-
 
 / 72
 
 /
-
 
 utilizada pelo servidor é a 9990, mas roda a aplicação na 8080. Ou seja, o
 JBoss/Wildfly roda em
@@ -1886,23 +1786,20 @@ uma porta e a aplicação em outra. Portanto, a alternativa C está correta e é
 
 Gabarito: Letra C
 
-
 Spmênte 34
-
 
 y 72
 
 /
 
-
 LISTA DE QUESTõES - SISTEMAS DISTRIBUÍDoS -
 MULTIBANCAS
 
-Item. 1. (CESPE/MBASA - 2010) Clusters ou combinações de clusters são usados quando os conteúdos
+1. (CESPE/MBASA - 2010) Clusters ou combinações de clusters são usados quando os conteúdos
 são críticos, apesar de não haver necessidade de estarem disponíveis e (ou) processados
 rapidamente.
 
-Item. 2. (IADES/PG-DF - 2011) Segundo Andrew Tanembaum (2007) "Sistema Distribuído é uma
+2. (IADES/PG-DF - 2011) Segundo Andrew Tanembaum (2007) "Sistema Distribuído é uma
 coleção de computadores independentes que se apresenta ao usuário como um sistema único
 e consistente". Assinale a alternativa correta a respeito de um sistema de
 informação
@@ -1928,7 +1825,7 @@ E) Em um sistema de objetos distribuídos é possível invocar métodos de um ob
 ainda que
 este não esteja presente no computador do usuário.
 
-Item. 3. (FCC/TRE-PE - 2011) Arquitetura padrão proposta pelo Object Management Group (OMG)
+3. (FCC/TRE-PE - 2011) Arquitetura padrão proposta pelo Object Management Group (OMG)
 para estabelecer e simplificar a troca de dados entre sistemas distribuídos heterogêneos por
 meio de uma estrutura comum para o gerenciamento de objetos distribuídos que é conhecida
 como Object Manager Architecture (OMA). Trata-se de
@@ -1943,21 +1840,18 @@ D) CORBA.
 
 E) COM.
 
-
 Spmênte 35
-
 
 y 72
 
 /
 
-
-Item. 4. (CESPE/SERPRO - 2013) Com relação à arquitetura de sistemas distribuídos, julgue os
+4. (CESPE/SERPRO - 2013) Com relação à arquitetura de sistemas distribuídos, julgue os
 próximos itens. Na arquitetura distribuída, os sistemas orientados a eventos
 possuem
 processos fortemente acoplados.
 
-Item. 5. (FUNCAB/MDA - 2014) São desvantagens dos sistemas distribuídos:
+5. (FUNCAB/MDA - 2014) São desvantagens dos sistemas distribuídos:
 
 A) dependência de hardware e custo maior de desenvolvimento.
 
@@ -1973,20 +1867,20 @@ E) ausência de controle das suas operações e dependência do tipo de rede uti
 para ligar as
 localidades.
 
-Item. 6. (CESPE/TRE-PE - 2015) Os sistemas operacionais têm rotinas que não são executadas de forma
+6. (CESPE/TRE-PE - 2015) Os sistemas operacionais têm rotinas que não são executadas de forma
 linear, mas, sim, concorrentemente, em função de eventos assíncronos.
 
-Item. 7. (CESPE/TJ-DFT - 2015) Nos sistemas implementados a partir do uso de uma
+7. (CESPE/TJ-DFT - 2015) Nos sistemas implementados a partir do uso de uma
 arquitetura de
 componentes distribuídos, o middleware tem a responsabilidade de gerenciar a interação
 entre esses componentes.
 
-Item. 8. (CESPE/STJ - 2015) A arquitetura orientada a serviços é forma de desenvolvimento de sistemas
+8. (CESPE/STJ - 2015) A arquitetura orientada a serviços é forma de desenvolvimento de sistemas
 distribuídos em que os componentes de sistemas são serviços autônomos, razão por que,
 devido à interoperabilidade, as ligações entre os serviços devem ser rígidas para não provocar
 mudanças durante sua execução.
 
-Item. 9. (IBFC/EBSERH - 2017) Assinale a alternativa correta. Cluster é um
+9. (IBFC/EBSERH - 2017) Assinale a alternativa correta. Cluster é um
 conceito que está
 diretamente relacionado aos sistemas de alta disponibilidade. Existem vários tipos de cluster,
 no entanto há alguns que são mais conhecidos, como:
@@ -2003,14 +1897,11 @@ E) cluster de alto desempenho - cluster de alta disponibilidade - cluster para
 balanceamento de
 carga
 
-
 Spmênte 36
-
 
 y 72
 
 /
-
 
 1O.(FGV/IBGE - 2017) Keyse é gerente de um centro de dados que hospeda distintos
 tipos de
@@ -2043,14 +1934,14 @@ D) V-V-F-F;
 
 E) F - F - V - V.
 
-Item. 11. (CESPE/IPHAN - 2018) Cluster e GRID possuem características semelhantes,
+11. (CESPE/IPHAN - 2018) Cluster e GRID possuem características semelhantes,
 como o
 multiprocessamento distribuído, mas se distinguem pelas seguintes razões: cluster é uma
 coleção de máquinas paralelas conectadas entre si que, por trabalharem juntas, fornecem alta
 disponibilidade e(ou) balanceamento de carga; o GRID, por sua vez, envolve a integração,
 gestão de recursos computacionais fracamente acoplados e geograficamente distribuídos.
 
-Item. 12. (UFLA/UFI_A - 2018) O aumento da facilidade de acesso à Internet tem permitido uma grande
+12. (UFLA/UFI_A - 2018) O aumento da facilidade de acesso à Internet tem permitido uma grande
 disponibilização da informação. Para dar suporte a essa facilidade de acesso é necessária uma
 enorme infraestrutura de hardware e software. Considerando as
 características de
@@ -2060,9 +1951,7 @@ I. Um sistema de multiprocessamento simétrico pode ser composto por milhares
 de
 computadores com processadores e sistemas operacionais heterogêneos.
 
-
 Spmênte 37
-
 
 II. Um sistema de processamento paralelo em massa visa resolver problemas que exigem
 capacidade de utilização de memória compartilhada usando um único conjunto de núcleos de
@@ -2113,14 +2002,11 @@ C) diversos servidores conectados por uma rede wifi e fontes de energia
 redundantes, dentre
 outros dispositivos.
 
-
 Spménte 38
-
 
 / 72
 
 /
-
 
 D) um único servidor com diversas fontes de energia redundantes ligados a um gerador
 para que
@@ -2144,19 +2030,16 @@ GABARITO
 
 5- B 10- B
 
-
 Spmênte 39
-
 
 y 72
 
 /
 
-
 LISTA DE QUESTõES - SERVIDoR DE APLICAçÃo
 JBoSS/WILDFLY - MULTIBANCAS
 
-Item. 1. (IBFC/EBSERH - 2016) "JBoss é um servidorde código
+1. (IBFC/EBSERH - 2016) "JBoss é um servidorde código
 fontebaseado na
 plataforma e implementado na linguagem de programação
 Assinale a
@@ -2172,7 +2055,7 @@ D) de aplicação - aberto - JEE - Java
 
 E) de impressão - aberto - JSE - JavaScript
 
-Item. 2. (FUNCAB/CREA-AC - 2016) Um administrador de rede instalou o Jboss AS 7 no modo domain.
+2. (FUNCAB/CREA-AC - 2016) Um administrador de rede instalou o Jboss AS 7 no modo domain.
 Nesse caso, um dos processos principais, que coordena as instâncias e distribui o
 arquivo
 implantado para todas as instâncias do domínio, é denominado:
@@ -2187,7 +2070,7 @@ D) system controller.
 
 E) standalone controler.
 
-Item. 3. (FCC/TRT11 - 2017) Após instalar o servidor JBoss AS 5 para Windows, deve-se entrar na pasta
+3. (FCC/TRT11 - 2017) Após instalar o servidor JBoss AS 5 para Windows, deve-se entrar na pasta
 
 $JBOSS_HOME/bin e digitar run.bat para iniciá-lo. Com o servidor iniciado, para acessar a área
 de login do JBoss AS Administration Console deve-se digitar,
@@ -2200,18 +2083,15 @@ C) na linha de endereço do navegador, http://localhost:8084/settings.
 
 D) em linha de comando, jboss -a mode=console.
 
-
 Spménte 40
-
 
 / 72
 
 /
 
-
 E) na linha de endereço do navegador, http://localhost:80/server-console.
 
-Item. 4. (IBFC/EMBASA - 2017) Para que o servidor JBOSS Application Server 7 possa ser plenamente
+4. (IBFC/EMBASA - 2017) Para que o servidor JBOSS Application Server 7 possa ser plenamente
 executado, existe a necessidade que esteja previamente instalado e configurado o:
 
 A) JMF
@@ -2222,7 +2102,7 @@ C) JXL
 
 D) JDK
 
-Item. 5. (FGV/Câmara de Salvador-BA - 2018) No âmbito do JBoss AS 7.x, os modos de operação
+5. (FGV/Câmara de Salvador-BA - 2018) No âmbito do JBoss AS 7.x, os modos de operação
 disponíveis são denominados:
 
 A) Domain e Standalone;
@@ -2235,7 +2115,7 @@ D) Monouser e Multiuser;
 
 E) Open e Authenticated.
 
-Item. 6. (FCC/MPE-PE - 2018) Em uma instalação padrão do JBoss Application Server (AS) 7, o diretório
+6. (FCC/MPE-PE - 2018) Em uma instalação padrão do JBoss Application Server (AS) 7, o diretório
 que contém a página de boas-vindas do AS é o
 
 A) standalone.
@@ -2248,21 +2128,18 @@ D) server-welcome.
 
 E) bundles.
 
-Item. 7. (FCC/CLDF - 2018) Considere que o servidor de aplicações JBoss AS 7
+7. (FCC/CLDF - 2018) Considere que o servidor de aplicações JBoss AS 7
 está instalado e
 configurado em modo padrão em um computador com sistema operacional Windows 10. Para
 testar se o servidor JBoss está funcionando, utilizando um navegador, deve-se digitar o URL
 
 A) server://127.0.0.1:0800
 
-
 Spmênte 41
-
 
 y 72
 
 /
-
 
 B) ftp://localhost:0800
 
@@ -2275,7 +2152,6 @@ E) http://127.0.0.1:80
 GABARITo
 
 GABARITO
-
 
 1- D
 
@@ -2291,14 +2167,11 @@ GABARITO
 
 7- C
 
-
 Spménte 42
-
 
 / 72
 
 /
-
 
 APACHE
 
@@ -2357,14 +2230,11 @@ se utilizar "-k" antes do argumento):
 
 * start: inicializa o daemon httpd;
 
-
 Spménte 43
-
 
 / 72
 
 /
-
 
 * stop: finaliza o daemon httpd;
 
@@ -2431,14 +2301,11 @@ Options Indexes FollowSymLinks
 
 </Directory>
 
-
 Spménte 44
-
 
 / 72
 
 /
-
 
 <Files> limita o escopo das diretrizes pelos de nomes de arquivos. Funciona igual ao
 <Directory>,
@@ -2486,14 +2353,11 @@ Group www-data
 ServerName www.site2.com.br
 DocumentRoot /var/www/www_site2_com_br
 
-
 Spménte 45
-
 
 / 72
 
 /
-
 
 CustomLog /var/log/apache/site2/access.log combined
 ErrorLog /var/log/apache/site2/error.log
@@ -2548,11 +2412,9 @@ tempo (em segundos) a esperar para a próxima requisição do mesmo cliente (na 
 conexão).
 Exemplo:
 
-
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Servidores Web e de Aplicação - 2023
 (Pós-Edital) Sj
 lente 46
-
 
 KeepAlive On
 MaxKeepAliveRequests 50
@@ -2569,9 +2431,7 @@ PROVA!
 : 1. (Quadrix/CRM-PR - 2018) Um servidor Apache pode hospedar muitos sites web diferentes, ;
 simultaneamente, com o uso do método chamado de Virtual hosting.
 
-
 Ê Comentários:
-
 
 I
 
@@ -2588,7 +2448,6 @@ diretiva <virtualHost> indica que o servidor Web irá
 
 I
 
-
 I
 
 A) executar em uma máquina virtual.
@@ -2604,7 +2463,6 @@ i Comentários:
 
 I
 
-
 i
 i <VirtualHost> permite servir mais de um site no mesmo servidor (sites
 virtuais). Podem ser i
@@ -2615,17 +2473,13 @@ gerenciar o site, i
 i Portanto, a alternativa C está correta e é o gabarito da questão.
 i
 
-
 Gabarito: Letra C
 
-
 Spmênte 47
-
 
 y 72
 
 /
-
 
 IIS (INTERNET INFoRMATIoN SERVICES)
 
@@ -2689,14 +2543,11 @@ usando o IIS;
 * O diretório base para o FTP é "UNIDADE:\lnetpub\ftproot", geralmente
 "C:\inetpub\ftproot" (note que só muda o "www" por "ftp").
 
-
 Spménte 48
-
 
 / 72
 
 /
-
 
 Vamos falar um pouco sobre pool de aplicativos (app/ication pool- IIS7/7.5):
 
@@ -2727,7 +2578,6 @@ que o modo
 integrado.
 
 F 1
-
 
 Modo integrado
 k
@@ -2772,20 +2622,17 @@ Mais duas informações importantes, que valem para os outros servidores Web tam
 
 * A porta padrão para requisições HTTP é a 80;
 
-
 Spménte 49
-
 
 / 72
 
 /
 
-
 A porta padrão para requisições HTTPS (HTTP seguro) é a 443.
 
 PROVA!
 
-Item. 1. (INAZ do Pará/DPE-PR - 2017) No Windows Server 2012, durante a instalação do
+1. (INAZ do Pará/DPE-PR - 2017) No Windows Server 2012, durante a instalação do
 Servidor WEB
 (IIS), que opção de segurança deve ser utilizada para analisar as requisições feitas
 ao servidor
@@ -2825,12 +2672,11 @@ Portanto, a alternativa E está correta e é o gabarito da questão.
 
 Gabarito: Errada
 
-Item. 2. (Colégio Pedro ll/Colégio Pedro II - 2016) Assinale a alternativa que
+2. (Colégio Pedro ll/Colégio Pedro II - 2016) Assinale a alternativa que
 NÃO apresenta uma
 característica do servidor de aplicação IIS.
 
 A) Gera páginas HTML dinâmicas.
-
 
 B) Também é um servidor de aplicativo.
 
@@ -2848,18 +2694,15 @@ mesmo servidor. Portanto, a alternativa C está correta e é o gabarito da quest
 
 Gabarito: Letra C
 
-
 Spménte 51
-
 
 / 72
 
 /
 
-
 QUESTõES CoMENTADAS - APACHE - MULTIBANCAS
 
-Item. 1. (CESPE/FUB - 2015) O Apache, que provê páginas por meio do protocolo
+1. (CESPE/FUB - 2015) O Apache, que provê páginas por meio do protocolo
 HTTP, possui
 código-fonte aberto, funciona em ambiente multiplataforma, tanto no Windows
 quanto no
@@ -2875,7 +2718,7 @@ correta.
 
 Gabarito: Correta
 
-Item. 2. (CESPE/STJ - 2015) Com relação ao servidor Apache, julgue o próximo item.
+2. (CESPE/STJ - 2015) Com relação ao servidor Apache, julgue o próximo item.
 
 As diretrizes <Directory> e <Files> são utilizadas em arquivos htaccess para
 permitir que
@@ -2889,7 +2732,7 @@ diretório
 
 Gabarito: Errada
 
-Item. 3. (CESPE/STJ - 2015) Com relação ao servidor Apache, julgue o próximo item.
+3. (CESPE/STJ - 2015) Com relação ao servidor Apache, julgue o próximo item.
 
 Um administrador pode incluir uma configuração para determinado diretório por
 meio da
@@ -2908,18 +2751,15 @@ Options Indexes FollowSymLinks
 
 Portanto, a questão está correta.
 
-
 Spménte 52
-
 
 / 72
 
 /
 
-
 Gabarito: Correta
 
-Item. 4. (FCC/Prefeitura de Teresina-PI - 2016) Uma das formas de se iniciar o servidor Apache é por
+4. (FCC/Prefeitura de Teresina-PI - 2016) Uma das formas de se iniciar o servidor Apache é por
 meio do comando
 
 A) apache inic
@@ -2947,7 +2787,7 @@ Portanto, a alternativa B está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-Item. 5. (CESPE/TRT8 - 2016) A diretiva que limita a apresentação dos arquivos que têm a extensão
+5. (CESPE/TRT8 - 2016) A diretiva que limita a apresentação dos arquivos que têm a extensão
 
 .conf, em um servidor Apache Web Server, é
 
@@ -2962,14 +2802,11 @@ D) Location - conf
 E) Indexlgnore *.conf
 Comentários:
 
-
 Spménte 53
-
 
 / 72
 
 /
-
 
 A diretiva Indexlgnore adiciona à lista de arquivos a serem escondidos quando listar
 um diretório.
@@ -2987,7 +2824,7 @@ Portanto, a alternativa E está correta e é o gabarito da questão.
 
 Gabarito: Letra E
 
-Item. 6. (FIOCRUZ/FIOCRUZ - 2016) São exemplos de comandos para reiniciar o Apache nas
+6. (FIOCRUZ/FIOCRUZ - 2016) São exemplos de comandos para reiniciar o Apache nas
 versões
 linux RedHat e Ubuntu, respectivamente:
 
@@ -3017,20 +2854,17 @@ a alternativa B está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-Item. 7. (CCV-UFC/UFC - 2016) Qual das diretivas abaixo deve ser configurada no
+7. (CCV-UFC/UFC - 2016) Qual das diretivas abaixo deve ser configurada no
 arquivo de
 configuração do servidor Apache para informar se serão aceitas ou não
 conexões HTTP
 persistentes?
 
-
 Spmênte 54
-
 
 y 72
 
 /
-
 
 A) Mutex.
 
@@ -3061,7 +2895,7 @@ Portanto, a alternativa C está correta e é o gabarito da questão.
 
 Gabarito: Letra C
 
-Item. 8. (CS-UFG/CELG-GT-GO - 2017) Na configuração do Apache HTTP Server (httpd), o uso
+8. (CS-UFG/CELG-GT-GO - 2017) Na configuração do Apache HTTP Server (httpd), o uso
 da
 diretiva <virtualHost> indica que o servidor Web irá
 
@@ -3085,16 +2919,13 @@ Portanto, a alternativa C está correta e é o gabarito da questão.
 
 Gabarito: Letra C
 
-
 Spmênte 55
-
 
 y 72
 
 /
 
-
-Item. 9. (SUGEP-UFRPE/UFRPE - 2018) Numa instalação com o Servidor Apache existe a
+9. (SUGEP-UFRPE/UFRPE - 2018) Numa instalação com o Servidor Apache existe a
 necessidade
 de alterar o arquivo de configuração. O arquivo de configuração padrão do
 Apache é o
@@ -3119,7 +2950,7 @@ o mesmo nome! Portanto, a alternativa A está correta e é o gabarito da questã
 
 Gabarito: Letra A
 
-Item. 10. (CESPE/ABIN - 2018) A determinação da porta e do endereço que o
+10. (CESPE/ABIN - 2018) A determinação da porta e do endereço que o
 servidor Apache irá
 escutar deve ser feita por meio da diretiva listen. Sem sua definição, o servidor
 Apache se
@@ -3149,14 +2980,11 @@ diferentes,
 
 simultaneamente, com o uso do método chamado de Virtual hosting.
 
-
 Spménte 56
-
 
 / 72
 
 /
-
 
 Comentários:
 
@@ -3165,7 +2993,7 @@ correta.
 
 Gabarito: Correta
 
-Item. 12. (FGV/Prefeitura de Niterói-RJ - 2018) O arquivo httpd.conf é o arquivo
+12. (FGV/Prefeitura de Niterói-RJ - 2018) O arquivo httpd.conf é o arquivo
 de configuração
 principal do servidor Web Apache. Ele contém diretivas que controlam o
 funcionamento do
@@ -3195,7 +3023,7 @@ Portanto, a alternativa B está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-Item. 13. (CESPE/EBSERH - 2018) Para que arquivos para funcionamento de um sítio web
+13. (CESPE/EBSERH - 2018) Para que arquivos para funcionamento de um sítio web
 armazenados
 no diretório /var/www/sitio01 fiquem acessíveis via HTTP usando o Apache, é
 necessário
@@ -3209,14 +3037,11 @@ subpáginas.
 A página raiz é especificada através da diretiva DocumentRoot e será mostrada quando
 se entrar
 
-
 Spmênte 57
-
 
 y 72
 
 /
-
 
 no domínio principal, como http://. Na configuração
 padrão do
@@ -3274,19 +3099,16 @@ Portanto, a alternativa A está correta e é o gabarito da questão.
 
 Gabarito: Letra A
 
-
 Spménte 58
-
 
 / 72
 
 /
 
-
 QUESTõES CoMENTADAS - IIS (INTERNET INFoRMATIoN
 SERVICES) - MULTIBANCAS
 
-Item. 1. (CESPE/MEC - 2011) A partir da instalação do IIS é disponibilizado um sítio-padrão
+1. (CESPE/MEC - 2011) A partir da instalação do IIS é disponibilizado um sítio-padrão
 cujas pastas
 estão instaladas no servidor, no caminho físico c:\lnetpub\wwwroot.
 
@@ -3298,7 +3120,7 @@ O diretório base do site padrão é
 
 Gabarito: Correta
 
-Item. 2. (FCC/TRT19 - 2011) O serviço que faz do Windows 2003 um Servidor Web é o IIS
+2. (FCC/TRT19 - 2011) O serviço que faz do Windows 2003 um Servidor Web é o IIS
 (Internet
 Information Services). Quando o IIS é instalado da maneira padrão, é disponibilizado um
 site
@@ -3325,20 +3147,17 @@ O diretório base do site padrão é
 
 Gabarito: Letra A
 
-Item. 3. (Quadrix/SERPRO - 2014) IIS e Apache são servidores cuja finalidade é:
+3. (Quadrix/SERPRO - 2014) IIS e Apache são servidores cuja finalidade é:
 
 A) prover serviços de impressão para o Windows e o Linux, respectivamente.
 
 B) prover serviços WEB.
 
-
 Spménte 59
-
 
 / 72
 
 /
-
 
 C) prover serviços de WEB e e-mail, respectivamente.
 
@@ -3356,7 +3175,7 @@ está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-Item. 4. (UFRJ/UFRJ - 2015) Considere as seguintes afirmativas acerca do servidor Web IIS 7:
+4. (UFRJ/UFRJ - 2015) Considere as seguintes afirmativas acerca do servidor Web IIS 7:
 I - Nesta versão do IIS não é possível mais instalar e configurar o serviço FTP.
 
 II - No IIS 7, os pools de aplicativos podem ser executados dos seguintes modos:
@@ -3396,16 +3215,13 @@ e é o gabarito da questão.
 
 Gabarito: Letra C
 
-
 Spmênte 60
-
 
 y 72
 
 /
 
-
-Item. 5. (Colégio Pedro ll/Colégio Pedro II - 2016) Assinale a alternativa que
+5. (Colégio Pedro ll/Colégio Pedro II - 2016) Assinale a alternativa que
 NÃO apresenta uma
 característica do servidor de aplicação IIS.
 
@@ -3427,7 +3243,7 @@ mesmo servidor. Portanto, a alternativa C está correta e é o gabarito da quest
 
 Gabarito: Letra C
 
-Item. 6. (IBFC/EBSERH - 2016) Ao ser instalado o IIS (Internet Information Services), no
+6. (IBFC/EBSERH - 2016) Ao ser instalado o IIS (Internet Information Services), no
 disco rígido C:,
 por padrão os diretórios que serão criados para hospedagem de páginas e para FTP serão
 respectivamente:
@@ -3453,16 +3269,13 @@ Portanto, a alternativa B está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-
 Spmênte 61
-
 
 y 72
 
 /
 
-
-Item. 7. (FCC/TRE-SP - 2017) Hipoteticamente, o Técnico, responsável pela administração do
+7. (FCC/TRE-SP - 2017) Hipoteticamente, o Técnico, responsável pela administração do
 servidor
 com Windows Server 2012 do TRE-SP, realizou a instalação do serviço IIS com a
 configuração
@@ -3499,7 +3312,7 @@ alternativa A está correta e é o gabarito da questão.
 
 Gabarito: Letra A
 
-Item. 8. (INAZ do Pará/DPE-PR - 2017) No Windows Server 2012, durante a instalação do
+8. (INAZ do Pará/DPE-PR - 2017) No Windows Server 2012, durante a instalação do
 Servidor WEB
 (IIS), que opção de segurança deve ser utilizada para analisar as requisições feitas
 ao servidor
@@ -3517,14 +3330,11 @@ E) Filtragem de solicitações.
 
 Comentários:
 
-
 Spménte 62
-
 
 / 72
 
 /
-
 
 Segurança: No Windows Server, durante a instalação do IIS, há opção de segurança
 "Filtragem de
@@ -3548,7 +3358,7 @@ Portanto, a alternativa E está correta e é o gabarito da questão.
 
 Gabarito: Letra E
 
-Item. 9. (IBFC/IDAM - 2019) Quanto às diferenças entre os servidores Apache e
+9. (IBFC/IDAM - 2019) Quanto às diferenças entre os servidores Apache e
 IIS, analise as
 afirmativas abaixo, dê valores Verdadeiro (V) ou Falso (F).
 
@@ -3581,36 +3391,33 @@ Portanto, a alternativa B está correta e é o gabarito da questão.
 
 Gabarito: Letra B
 
-
 Spmênte 63
-
 
 y 72
 
 /
 
-
 LISTA DE QUESTõES - APACHE - MULTIBANCAS
 
-Item. 1. (CESPE/FUB - 2015) O Apache, que provê páginas por meio do protocolo
+1. (CESPE/FUB - 2015) O Apache, que provê páginas por meio do protocolo
 HTTP, possui
 código-fonte aberto, funciona em ambiente multiplataforma, tanto no Windows
 quanto no
 Linux.
 
-Item. 2. (CESPE/STJ - 2015) Com relação ao servidor Apache, julgue o próximo item.
+2. (CESPE/STJ - 2015) Com relação ao servidor Apache, julgue o próximo item.
 
 As diretrizes <Directory> e <Files> são utilizadas em arquivos htaccess para
 permitir que
 usuários controlem o acesso a seus arquivos.
 
-Item. 3. (CESPE/STJ - 2015) Com relação ao servidor Apache, julgue o próximo item.
+3. (CESPE/STJ - 2015) Com relação ao servidor Apache, julgue o próximo item.
 
 Um administrador pode incluir uma configuração para determinado diretório por
 meio da
 diretriz <Directory>.
 
-Item. 4. (FCC/Prefeitura de Teresina-PI - 2016) Uma das formas de se iniciar o servidor
+4. (FCC/Prefeitura de Teresina-PI - 2016) Uma das formas de se iniciar o servidor
 Apache é por
 meio do comando
 
@@ -3624,7 +3431,7 @@ D) apachectl go
 
 E) apache send
 
-Item. 5. (CESPE/TRT8 - 2016) A diretiva que limita a apresentação dos arquivos que têm a
+5. (CESPE/TRT8 - 2016) A diretiva que limita a apresentação dos arquivos que têm a
 extensão
 
 .conf, em um servidor Apache Web Server, é
@@ -3639,18 +3446,15 @@ D) Location - conf
 
 E) Indexlgnore *.conf
 
-Item. 6. (FIOCRUZ/FIOCRUZ - 2016) São exemplos de comandos para reiniciar o Apache nas
+6. (FIOCRUZ/FIOCRUZ - 2016) São exemplos de comandos para reiniciar o Apache nas
 versões
 linux RedHat e Ubuntu, respectivamente:
 
-
 Spménte 64
-
 
 / 72
 
 /
-
 
 A) service apache restart ou /etc/init.d/http restart.
 
@@ -3662,7 +3466,7 @@ D) /etc/init.d/httpd reload ou /etc/init.d/apache2 restart.
 
 E) service apache reload ou /etc/init.d/http reload.
 
-Item. 7. (CCV-UFC/UFC - 2016) Qual das diretivas abaixo deve ser configurada no
+7. (CCV-UFC/UFC - 2016) Qual das diretivas abaixo deve ser configurada no
 arquivo de
 configuração do servidor Apache para informar se serão aceitas ou não
 conexões HTTP
@@ -3678,7 +3482,7 @@ D) CacheEnable.
 
 E) HostnameLookups.
 
-Item. 8. (CS-UFG/CELG-GT-GO - 2017) Na configuração do Apache HTTP Server (httpd), o uso da
+8. (CS-UFG/CELG-GT-GO - 2017) Na configuração do Apache HTTP Server (httpd), o uso da
 diretiva <virtualHost> indica que o servidor Web irá
 
 A) executar em uma máquina virtual.
@@ -3689,7 +3493,7 @@ C) rodar mais de um website em uma mesma máquina.
 
 D) ser replicado em várias máquinas, embora aparente ser um único host.
 
-Item. 9. (SUGEP-UFRPE/UFRPE - 2018) Numa instalação com o Servidor Apache existe a
+9. (SUGEP-UFRPE/UFRPE - 2018) Numa instalação com o Servidor Apache existe a
 necessidade
 de alterar o arquivo de configuração. O arquivo de configuração padrão do
 Apache é o
@@ -3701,30 +3505,27 @@ B) apch.ini
 
 C) http.confg
 
-
 Spmênte 65
-
 
 y 72
 
 /
 
-
 D) apache.ini
 
 E) apch.conf
 
-Item. 10. (CESPE/ABIN - 2018) A determinação da porta e do endereço que o
+10. (CESPE/ABIN - 2018) A determinação da porta e do endereço que o
 servidor Apache irá
 escutar deve ser feita por meio da diretiva listen. Sem sua definição, o servidor
 Apache se
 mantém fora de operação.
 
-Item. 11. (Quadrix/CRM-PR - 2018) Um servidor Apache pode hospedar muitos sites web
+11. (Quadrix/CRM-PR - 2018) Um servidor Apache pode hospedar muitos sites web
 diferentes,
 simultaneamente, com o uso do método chamado de Virtual hosting.
 
-Item. 12. (FGV/Prefeitura de Niterói-RJ - 2018) O arquivo httpd.conf é o arquivo
+12. (FGV/Prefeitura de Niterói-RJ - 2018) O arquivo httpd.conf é o arquivo
 de configuração
 principal do servidor Web Apache. Ele contém diretivas que controlam o
 funcionamento do
@@ -3744,7 +3545,7 @@ D) Redirect
 
 E) SetlnputFilter
 
-Item. 13. (CESPE/EBSERH - 2018) Para que arquivos para funcionamento de um sítio web
+13. (CESPE/EBSERH - 2018) Para que arquivos para funcionamento de um sítio web
 armazenados
 no diretório /var/www/sitio01 fiquem acessíveis via HTTP usando o Apache, é
 necessário
@@ -3752,7 +3553,7 @@ incluir, no arquivo de configuração do servidor, a seguinte linha.
 
 DocumentRoot /var/www/sitio01
 
-Item. 14. (FCC/SEMEF Manaus-AM - 2019) Um programador deseja reiniciar o Servidor HTTP Apache
+14. (FCC/SEMEF Manaus-AM - 2019) Um programador deseja reiniciar o Servidor HTTP Apache
 Versão 2.4 de forma que os visitantes ativos do site possam concluir os
 downloads em
 andamento antes de o servidor ser reiniciado. Para isso deve usar o comando
@@ -3765,14 +3566,11 @@ C) restartserver -j graceful
 
 D) start -s graceful-stop
 
-
 Spmênte 66
-
 
 y 72
 
 /
-
 
 E) runserver -j restart
 
@@ -3794,23 +3592,20 @@ GABARITO
 
 5- E 10- Errada
 
-
 Spmênte 67
-
 
 y 72
 
 /
 
-
 LISTA DE QUESTõES - IIS (INTERNET INFoRMATIoN
 SERVICES) - MULTIBANCAS
 
-Item. 1. (CESPE/MEC - 2011) A partir da instalação do IIS é disponibilizado um sítio-padrão
+1. (CESPE/MEC - 2011) A partir da instalação do IIS é disponibilizado um sítio-padrão
 cujas pastas
 estão instaladas no servidor, no caminho físico c:\lnetpub\wwwroot.
 
-Item. 2. (FCC/TRT19 - 2011) O serviço que faz do Windows 2003 um Servidor Web é o IIS
+2. (FCC/TRT19 - 2011) O serviço que faz do Windows 2003 um Servidor Web é o IIS
 (Internet
 Information Services). Quando o IIS é instalado da maneira padrão, é disponibilizado um
 site
@@ -3828,7 +3623,7 @@ D) c:\http\www
 
 E) c:\net\web
 
-Item. 3. (Quadrix/SERPRO - 2014) IIS e Apache são servidores cuja finalidade é:
+3. (Quadrix/SERPRO - 2014) IIS e Apache são servidores cuja finalidade é:
 
 A) prover serviços de impressão para o Windows e o Linux, respectivamente.
 
@@ -3840,7 +3635,7 @@ D) prover serviços de WEB para Linux e Windows, respectivamente.
 
 E) viabilizar programas para execução de páginas HTML também conhecidos como browsers.
 
-Item. 4. (UFRJ/UFRJ - 2015) Considere as seguintes afirmativas acerca do servidor Web IIS 7:
+4. (UFRJ/UFRJ - 2015) Considere as seguintes afirmativas acerca do servidor Web IIS 7:
 I - Nesta versão do IIS não é possível mais instalar e configurar o serviço FTP.
 
 II - No IIS 7, os pools de aplicativos podem ser executados dos seguintes modos:
@@ -3852,9 +3647,7 @@ Pode-se afirmar que:
 
 A) apenas II e III estão corretas.
 
-
 Spmênte 68
-
 
 B) apenas I e II estão corretas.
 
@@ -3864,7 +3657,7 @@ D) apenas I está correta.
 
 E) I, II e III estão corretas.
 
-Item. 5. (Colégio Pedro ll/Colégio Pedro II - 2016) Assinale a alternativa que NÃO apresenta uma
+5. (Colégio Pedro ll/Colégio Pedro II - 2016) Assinale a alternativa que NÃO apresenta uma
 característica do servidor de aplicação IIS.
 
 A) Gera páginas HTML dinâmicas.
@@ -3875,7 +3668,7 @@ C) Executa códigos PHP, Perl, Javascript e ASP.
 
 D) Usa o protocolo FTP para permitir que proprietários de sites carreguem e baixem arquivos.
 
-Item. 6. (IBFC/EBSERH - 2016) Ao ser instalado o IIS (Internet Information Services), no
+6. (IBFC/EBSERH - 2016) Ao ser instalado o IIS (Internet Information Services), no
 disco rígido C:,
 por padrão os diretórios que serão criados para hospedagem de páginas e para FTP serão
 respectivamente:
@@ -3890,7 +3683,7 @@ D) C:/inetpub/wwwdir e C:/inetpub/ftpdir
 
 E) C:/inetpub/rootwww e C:/inetpub/rootftp
 
-Item. 7. (FCC/TRE-SP - 2017) Hipoteticamente, o Técnico, responsável pela administração do
+7. (FCC/TRE-SP - 2017) Hipoteticamente, o Técnico, responsável pela administração do
 servidor
 com Windows Server 2012 do TRE-SP, realizou a instalação do serviço IIS com a
 configuração
@@ -3906,14 +3699,11 @@ A) http://127.0.0.1
 
 B) ftp://10.0.0.1
 
-
 SpmêntE 69
-
 
 y 72
 
 /
-
 
 C) https://192.168.0.1
 
@@ -3921,7 +3711,7 @@ D) http://192.168.0.1
 
 E) https://255.255.255.0
 
-Item. 8. (INAZ do Pará/DPE-PR - 2017) No Windows Server 2012, durante a instalação do
+8. (INAZ do Pará/DPE-PR - 2017) No Windows Server 2012, durante a instalação do
 Servidor WEB
 (IIS), que opção de segurança deve ser utilizada para analisar as requisições feitas
 ao servidor
@@ -3937,7 +3727,7 @@ D) Restrições de IP e Domínio.
 
 E) Filtragem de solicitações.
 
-Item. 9. (IBFC/IDAM - 2019) Quanto às diferenças entre os servidores Apache e
+9. (IBFC/IDAM - 2019) Quanto às diferenças entre os servidores Apache e
 IIS, analise as
 afirmativas abaixo, dê valores Verdadeiro (V) ou Falso (F).
 
@@ -3955,19 +3745,15 @@ C) F, V, V
 
 D) F, F, V
 
-
 Spmênte 70
-
 
 y 72
 
 /
 
-
 GABARITo
 
 GABARITO
-
 
 1- Correta
 
@@ -3987,12 +3773,9 @@ GABARITO
 
 9- B
 
-
 Spménte 71
-
 
 / 72
 
 /
-
 

@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Web services. Mensageria, Stream e CORBA.
-
+# Engenharia de Software e Sistemas - Web services. Mensageria, Stream e CORBA.
 
 Índice
 
@@ -26,7 +25,6 @@ Capítulo. Engenharia de Software e Sistemas - Web services. Mensageria, Stream 
 11) Lista de Questões - WS e REST - FGV
 
 12) Lista de Questões - WS e REST - Diversas
-
 
 Mensageria e CORBA
 
@@ -96,7 +94,6 @@ entre os dois sistemas com o intuito e, por conta desse middleware, diz-se que a
 comunicação é
 indireta. A mensageria permite, portanto, o processamento de requisições de forma assíncrona
 
-
 - além de integrar sistemas desenvolvidos em tecnologias diferentes (Ex: Java e .NET).
 Qual a
 vantagem disso? Reduzir o grau de acoplamento (isto é, dependência) entre os componentes.
@@ -130,12 +127,10 @@ BENEFÍCIO | DESCRIÇÃO
 As mensagens podem ser enviadas e processadas de forma assíncrona, ou seja, o
 produtor de mensagens não precisa esperar pela resposta imediata do consumidor. Isso
 
-
 ASSINCRONICIDADE
 
 permite uma maior flexibilidade e escalabilidade no sistema, já que os componentes
 podem trabalhar de forma independente e não precisam estar ativos simultanemente.
-
 
 ACOPLAMENTO FRACO
 
@@ -151,7 +146,6 @@ O uso de filas de mensagens permite uma maior escalabilidade horizontal do siste
 Mais produtores e consumidores podem ser adicionados conforme necessário, e as filas
 podem ser dimensionadas para suportar grandes volumes de mensagens, garantindo
 um processamento eficiente e distribuído.
-
 
 TOLERÂNCIA A FALHAS
 
@@ -220,12 +214,10 @@ PRINCIPAIS COMPONENTES | DESCRIÇÃO
 São componentes de software que encapsulam a lógica de negócio e oferecem serviços
 e operações para serem invocados remotamente. Os objetos CORBA são
 
-
 OBJETOS
 
 implementados usando uma linguagem de programação suportada pelo CORBA, como
 C++, Java ou Python, e são registrados em um Serviço de Nomes (Naming Service).
-
 
 OBJECT REQUEST BROKER
 
@@ -236,7 +228,6 @@ objetos CORBA. O ORB atua como intermediário entre os clientes que solicitam
 serviços e os objetos distribuídos que oferecem esses serviços. Ele lida com a localização
 do objeto correto, a serialização dos parâmetros da solicitação, o envio da solicitação
 ao objeto e a entrega da resposta ao cliente.
-
 
 INTERFACE DEFINITION
 LANGUAGE (IDL)
@@ -314,7 +305,6 @@ dados. Galera, esses assuntos não caem muito em prova, mas não são assuntos c
 então
 vale a leitura.
 
-
 Conceitos Básicos
 
 WEB SERvICES
@@ -385,7 +375,6 @@ Web Services são componentes de software com baixo fator de acoplamento, utiliz
 padrões de
 internet.
 
-
 Web Services representam uma função/lógica de negócio ou um serviço que pode ser acessado por uma
 outra
 aplicação na web, sobre redes públicas e, geralmente, disponibilizado por protocolos conhecidos.
@@ -405,7 +394,6 @@ dispostas em
 redes de computadores.
 
 CARACTERÍSTICA | DESCRIÇÃO
-
 
 WEB SERVICES SÃO
 AUTOCONTIDOS
@@ -535,7 +523,6 @@ serviço (URL). Notem que a página informa o endereço do endpoint-.
 EndPoint
 https://www.camara.gov.br/SitCamaraWS/Deputados.asrTix7wsdl
 
-
 Esse endpoint exibe todos os serviços oferecidos, mas é possível acessar cada um
 individualmente.
 
@@ -546,7 +533,6 @@ HTTPSy/WWW.CAMARA.LEG.BR/SITCAMARAWS/DEPUTADOS.ASMX/OBTERDEPUTADOS
 O endereço acima contém ao final o método ObterDeputados, que lista todos os deputados
 dessa
 casa legislativa. Se eu acessar os detalhes do contrato, vou encontrar algo assim:
-
 
 Dados Abertos -
 Legislativo
@@ -649,7 +635,6 @@ is shown below.
 
 </deputado»
 
-
 O resultado veio em formato XML (formato de dados adotado pela W3C para troca de
 informações
 entre aplicações distribuídas). Note que ele trouxe diversos dados da deputada Benedita
@@ -669,7 +654,6 @@ HTTPS://www.CAMARA.LEG.BR/SITCAMARAwS/DEPUTADoS.ASMX/oBTERDETALHESDEPUTADo
 No entanto, vendo os detalhes do contrato desse método, é possível verificar
 que ele permite
 receber alguns parâmetros de entrada para filtrar os resultados de saída. Vejamos:
-
 
 Dados Abertos -
 Legislativo
@@ -733,7 +717,6 @@ Entrada em
 15/04/2015 e saída em 02/02/2016). Caso eu não informe o parâmetro da legislatura,
 será retornado
 o histórico de todas as legislaturas de que a deputada participou.
-
 
 This XML file does not appear to have any style information associated with it. The document tree
 is shown below.
@@ -852,7 +835,6 @@ mudassem o formato de armazenamento dos dados?Tudo isso poderia impactar de form
 negativa
 a integração e a comunicação entre os dois sistemas.
 
-
 O ideal, portanto, seria fazer a integração dos sistemas por meio de um Web Service.
 A utilização
 de serviços web permite que todas essas mudanças ocorram indiscriminadamente desde que a
@@ -883,7 +865,6 @@ acoplamento, reduz os custos, não requer a interação de usuários finais1, en
 1 Há implementações de Web Services que tratam da interação máquina-máquina ou
 aplicação-aplicação - sem a obrigatoriedade de interferência
 humana.
-
 
 Arquitetura de Web Services
 
@@ -919,7 +900,6 @@ satisfaçam. É importante destacar que quando um fornecedor e um solicitante
 entram em
 acordo, ocorre o que chamamos de Bind (Vínculo).
 
-
 Paradigma SOAP
 
 Galera, agora vamos começar a falar de termos mais técnicos! Uma das formas de
@@ -927,7 +907,6 @@ realizar a
 comunicação entre serviços web é por meio de três padrões fundamentais:
 
 PADRÕES | DESCRIÇÃO
-
 
 SOAP (SIMPLE/SINGLE OBJECT
 
@@ -956,7 +935,6 @@ muito muito
 importante - ela sozinha permite responder dezenas ou até centenas de questões de
 provas. Essa
 é a base para os serviços web do Paradigma SOAP.
-
 
 WS-
 ENCRPYTIDN
@@ -1007,7 +985,6 @@ especificações
 com suas respectivas extensões foram chamados de WS-*. O que você precisa guardar é
 que o
 escopo foi aumentando cada vez mais...
-
 
 SOAP
 
@@ -1078,7 +1055,6 @@ a ficar muito abstrato e eu não estou conseguindo acompanhar! Então vamos pass
 alguns
 pontos mais concretos...
 
-
 0 que é o SOAP? É um protocolo! Para quê? Para a troca estruturada de dados entre
 serviços web
 em redes de computadores. Ele não é um formato? Sim, esse protocolo especifica um
@@ -1096,7 +1072,6 @@ ELEMENTOS | SITUAÇÃO DESCRIÇÃO
 |
 
 Trata-se do elemento-raiz do documento XML. Ele identifica o documento XML como
-
 
 ENVELOPE
 (ENVOLOPE)
@@ -1121,7 +1096,6 @@ assinatura digital, etc. Podem ser definidos vários cabeçalhos.
 
 Trata-se do elemento que contém a carga útil (payload) da Mensagem SOAP. É aqui que
 
-
 OBRIGATÓRIO
 
 (BODYJ
@@ -1131,7 +1105,6 @@ da mensagem, incluindo a chamada ao procedimento ou o retorno de seu resultado.
 
 Trata-se do elemento contido no corpo responsável por relatar possíveis erros de envio
 
-
 FALHA
 IFAULTJ
 
@@ -1140,7 +1113,6 @@ OPCIONAL
 ou processamento de mensagens, informando localização e formato dos erros
 encontrados. Quando estiver presente deve aparecer como um elemento filho do
 elemento Body.
-
 
 Vamos ver como é uma Mensagem SOAP? No exemplo a seguir, temos uma requisição em que
 é
@@ -1219,11 +1191,9 @@ quatro elementos. Vejam que não é difícil identificá-los em uma Mensagem SOA
 faz uma
 requisição e recebe uma resposta como resultado.
 
-
 WSDL
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
-
 
 DEFINIÇÃO DE WSDL
 
@@ -1288,7 +1258,6 @@ comunicação, codificação de dados, localização, portas, endereço de
 rede, etc. Ela também adiciona informações sobre como o serviço se
 comunicará e quem pode alcançá-lo.
 
-
 Professor, qual a vantagem de fazer essa separação? A vantagem é que, caso a
 implementação
 (perspectiva concreta) do serviço seja modificada por alguma razão, a interface
@@ -1352,7 +1321,6 @@ integrar serviços web. Ele contém informações genéricas sobre a provedores 
 web,
 implementações e metadados básicas sobre eles.
 
-
 Vamos testar a faixa etária dos meus alunos agora! Alguém
 sabe o que é esse livro da imagem ao lado? Galera, isso é
 uma lista telefônica. Quando o telefone fixo começou a se
@@ -1390,7 +1358,6 @@ essas informações, é possível encontrar algum serviço sobre o qual já se p
 informações. Há também informações de contato do negócio (Ex: Endereço,
 Telefone, Fax,
 Identificadores, etc).
-
 
 A Páginas Amarelas contêm uma classificação do serviço ou negócio disponíveis baseado em
 taxonomias padronizadas (Ex: SIC, NAICS, UNSPSC). Como é, Diego?Ás Páginas Amarelas usam
@@ -1451,7 +1418,6 @@ Consulta
 Interface de
 Publicação (Publisher) para publicar e atualizar um serviço.
 
-
 Vamos agora fazer um resumão do Paradigma SOAP! Uma aplicação
 (Cliente/Solicitante de
 Serviço) utiliza um serviço de diretórios (Agente de Serviço)-como o UDDI-para localizar
@@ -1471,7 +1437,6 @@ escreve
 uma Mensagem SOAP respondendo a requisição inicial com o resultado e envia para o
 Cliente
 SOAP. Por fim, este último lê a mensagem e repassa o resultado para a aplicação requisitante.
-
 
 Paradigma REST
 
@@ -1608,7 +1573,6 @@ computacional (hoje em dia, eles são verdadeiras máquinas, mas naquela época 
 mais
 fracos). Além disso, as redes móveis de internet ainda suportavam baixa velocidade - a tecnologia
 
-
 3G original possuía uma velocidade máxima de download de 0.3 Mbps; o 4G atual suporta
 até 900
 Mbps; e o 5G promete chegar aos sGbps.
@@ -1679,7 +1643,6 @@ importante: no
 SOAP, existe uma especificação que deve ser seguida para todas as requisições/respostas
 (chamada WSDL); no REST, não existe nenhuma especificação obrigatória.
 
-
 SOAP
 
 [SIMPLE OBJECT ACCESS PROTOCOLJ
@@ -1690,7 +1653,6 @@ REST
 É um protocolo de comunicação baseado em XML. É um estilo arquitetural ou de
 desenvolvimento
 independente de tecnologia.
-
 
 Utiliza um Envelope enviado por geralmente por HTTP
 
@@ -1740,7 +1702,6 @@ componentes do cliente e do servidor evoluam de forma independente e, por sua ve
 que o sistema seja escalável. Em outras palavras, busca-se separar a
 arquitetura e
 responsabilidades em dois ambientes.
-
 
 STATELESS
 (SEM ESTADO)
@@ -1809,7 +1770,6 @@ estender parte da lógica do servidor para o cliente, seja através de applets o
 diferentes clientes podem se comportar de maneiras específicas mesmo que utilizando
 exatamente os mesmos serviços providos pelo servidor.
 
-
 Todas aplicações que siga essas restrições são consideradas Aplicações RESTful. Como
 vocês
 devem ter notado, essas restrições não ditam a tecnologia a ser utilizada para o
@@ -1860,7 +1820,6 @@ Brasil (BR);
 Se testarmos
 com Klaus, retornará 28.9% de ser da Alemanha (DE); 27.2% de ser da Áustria (AT); e 25% de ser da
 
-
 Dinamarca (DK). Se testarmos com Sato, retornará 97.2% de ser do Japão (JP); 1.5% de
 ser da
 Turquia (TR); e 0.006% de ser da Itália (IT).
@@ -1892,7 +1851,6 @@ XML,
 etc). Então, fechamos aqui a nossa aula... eu sei que se trata de um assunto
 complexo e técnico,
 mas vocês vão ver que os exercícios não são tão complicados. Vamos lá...
-
 
 RESUMo
 
@@ -1930,7 +1888,6 @@ permitindo que elas enviem e recebam dados.
 
 CARACTERÍSTICA | DESCRIÇÃO
 
-
 WEB SERVICES SÃO
 AUTOCONTIDOS
 WEB SERVICES SÃO
@@ -1961,7 +1918,6 @@ arquitetura de processador, linguagem de programação, entre outros.
 
 PADRÕES | DESCRIÇÃO
 
-
 SOAP (SIMPLE/SINGLE OBJECT
 
 ACCESS PROTOCOLJ
@@ -1982,7 +1938,6 @@ informações podem ser organizadas.
 
 DEFINIÇÃO DE SOAP
 
-
 Trata-se de uma das formas de comunicação para encapsular dados transferidos no formato XML para Web
 Services.
 
@@ -1998,7 +1953,6 @@ entre Web Services.
 ELEMENTOS | SITUAÇÃO | DESCRIÇÃO
 
 Trata-se do elemento-raiz do documento XML. Ele identifica o documento XML como
-
 
 ENVELOPE
 (ENVOLOPE)
@@ -2038,7 +1992,6 @@ ou processamento de mensagens, informando localização e formato dos erros
 encontrados. Quando estiver presente deve aparecer como um elemento filho do
 elemento Body.
 
-
 DEFINIÇÃO DE WSDL
 
 Trata-se de uma linguagem de descrição de web services, escrita em XML, para descrever
@@ -2056,7 +2009,6 @@ distribuídos e
 descentralizados (sim, alguns autores o consideram também como um protocolo).
 
 WSDL 1.1 WSDL 2.0
-
 
 definitions
 types
@@ -2082,7 +2034,6 @@ operation
 | input H
 
 | output 1—I
-
 
 service
 
@@ -2114,11 +2065,9 @@ Trata-se de um protocolo que é um dos maiores blocos de construção requeridos
 Services
 com sucesso (Sim, alguns o chamam de protocolo!).
 
-
 Trata-se de um padrão de descoberta que define como são organizadas as informações de descrição do
 serviço,
 permitindo que os solicitantes descubram os serviços.
-
 
 Service
 Provider
@@ -2130,12 +2079,10 @@ Service Interface
 Publish
 Invoke/Bind
 
-
 SOAP Request
 WSDL
 
 SOAP Response SOAP Request SOAP Response
-
 
 >ervice Descriptior
 
@@ -2170,7 +2117,6 @@ POST Esse método é utilizado para submeter uma entidade a um recurso específi
 frequentemente
 causando uma mudança no estado do recurso ou efeitos colaterais no servidor.
 
-
 DELETE
 TRACE
 CONNECT
@@ -2188,7 +2134,6 @@ Esse método estabelece um túnel para o servidor identificado pelo recurso de d
 Esse método é usado para descrever as opções de comunicação com o recurso de destino.
 Esse método é utilizado para aplicar modificações parciais em um recurso.
 
-
 SOAP
 
 [SIMPLE OBJECT ACCESS PROTOCOLJ
@@ -2199,7 +2144,6 @@ REST
 É um protocolo de comunicação baseado em XML. É um estilo arquitetural ou de
 desenvolvimento
 independente de tecnologia.
-
 
 Utiliza um Envelope enviado por geralmente por
 
@@ -2212,7 +2156,6 @@ Suporta somente recursos no formato XML. Suporta recursos no formato HTML XML,
 JSON,
 
 YAML, TXT, etc.
-
 
 Permite invocar serviços por meio de Métodos RPC
 
@@ -2229,7 +2172,6 @@ maior, devido ao baixo overhead.
 
 Permite fazer caching.
 
-
 Requer maior largura de banda para trafegar os
 dados.
 Suporta recursos da WS-Security para incrementar a
@@ -2245,7 +2187,6 @@ Suporta apenas SSL/TLS e HTTPS para incrementara
 segurança.
 
 JavaScript pode facilmente chamar REST.
-
 
 RESTRIÇÃO OU
 
@@ -2272,7 +2213,6 @@ A comunicação entre cliente e servidor deve ser stateless (isto é, sem guarda
 servidor não precisa lembrar do estado do cliente. Em vez disso, os clientes devem incluir
 todas as informações necessárias na requisição para que o servidor possa entendê-la e
 processá-la.
-
 
 SISTEMA EM
 CAMADAS
@@ -2332,7 +2272,6 @@ utilizando exatamente os mesmos serviços providos pelo servidor.
 
 H PARA MAIS DICAS: WWW.INSTA6RAM.COM/PROFESSORDIEGOCARVALHO
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) Em um serviço RESTful, todos os métodos são
@@ -2349,7 +2288,7 @@ trata de URI e, não, URL.
 
 Gabarito: Errado
 
-Item. 2. (CESPE / TRT8 - 2022) Em uma API RESTful, cada solicitação deve conter todos os
+2. (CESPE / TRT8 - 2022) Em uma API RESTful, cada solicitação deve conter todos os
 dados
 necessários ao seu atendimento para não depender de informações armazenadas em outras
 sessões, o que caracteriza uma restrição de:
@@ -2366,7 +2305,6 @@ e) comunicação stateless.
 
 Comentários:
 
-
 STATELESS
 (SEM ESTADO]
 
@@ -2382,7 +2320,7 @@ informações necessárias para que o servidor consiga entendê-la e processá-l
 
 Gabarito: Letra E
 
-Item. 3. (CESPE / TRT8 2022) O método que serve para depuração em HTTP, ao instruir o
+3. (CESPE / TRT8 2022) O método que serve para depuração em HTTP, ao instruir o
 servidor a
 enviar de volta a solicitação, é o:
 
@@ -2431,7 +2369,7 @@ a solicitação,
 
 Gabarito: Letra C
 
-Item. 4. (CESPE / FUNPRESP-EXE - 2022) SOAP (Simple Object Access Protocol) é um protocolo
+4. (CESPE / FUNPRESP-EXE - 2022) SOAP (Simple Object Access Protocol) é um protocolo
 de
 comunicação usado para a troca de mensagens XML entre o cliente e o provedor de serviço.
 
@@ -2443,12 +2381,11 @@ define uma organização para a troca estruturada de dados entre Web Services.
 
 Gabarito: Correto
 
-Item. 5. (CESPE / FUNPRESP-EXE - 2022) UDDI (Universal Description Discovery and
+5. (CESPE / FUNPRESP-EXE - 2022) UDDI (Universal Description Discovery and
 Integration) é um
 padrão utilizado em SOA para a criação de repositórios de descrição de serviços.
 
 Comentários:
-
 
 Perfeito! O UDDI trata-se de um diretório/registro para armazenamento de informações
 sobre Web
@@ -2458,7 +2395,7 @@ podemos dizer que o UDDI é como uma lista telefônica.
 
 Gabarito: Correto
 
-Item. 6. (CESPE / FUNPRESP-EXE - 2022) Um documento WSDL possui um conjunto de elementos de
+6. (CESPE / FUNPRESP-EXE - 2022) Um documento WSDL possui um conjunto de elementos de
 nós abstratos e concretos que especificam a localização de um serviço.
 
 Comentários:
@@ -2473,7 +2410,7 @@ perspectivas: abstratas e concretas.
 
 Gabarito: Correto
 
-Item. 7. (CESPE / Petrobrás - 2022) Web service é um sistema de software projetado para
+7. (CESPE / Petrobrás - 2022) Web service é um sistema de software projetado para
 suportar
 interação entre máquinas através de uma rede; esse sistema possui uma interface
 descrita em
@@ -2491,7 +2428,7 @@ Services podem ser representadas.
 
 Gabarito: Correto
 
-Item. 8. (CESPE / Petrobrás - 2022) Uma das vantagens do SOAP é a sua utilização correta
+8. (CESPE / Petrobrás - 2022) Uma das vantagens do SOAP é a sua utilização correta
 dos métodos
 HTML (PUT, GET, POST, DELETE), enquanto o REST utiliza apenas o método POST para
 realizar as requisições através de um arquivo XML.
@@ -2504,8 +2441,7 @@ linguagens, como HTML, XML, JSON, YAML, já o SOAP suporta apenas o XML.
 
 Gabarito: Errado
 
-
-Item. 9. (CESPE / Petrobrás - 2022) Os protocolos SOAP e REST são os padrões mais
+9. (CESPE / Petrobrás - 2022) Os protocolos SOAP e REST são os padrões mais
 utilizados na
 comunicação entre os sistemas por meio do web service; esses protocolos, unidos à
 estrutura
@@ -2521,7 +2457,7 @@ comunicação e o REST é um estilo arquitetural. Ao meu ver, o item deveria ter
 
 Gabarito: Correto
 
-Item. 10. (CESPE / DPE-RO - 2021) O REST emprega um protocolo universal, o HTTP, para
+10. (CESPE / DPE-RO - 2021) O REST emprega um protocolo universal, o HTTP, para
 oferecer um
 serviço web simples e aberto. Verbos HTTP são usados para realizar chamadas e indicar
 para o
@@ -2551,7 +2487,7 @@ Gabarito: Letra A
 
 A respeito de tecnologia de integração com RESTful, julgue os itens a seguir.
 
-Item. 11. (CESPE / SERPRO - 2021) Webservices possibilitam tanto a recuperação do estado
+11. (CESPE / SERPRO - 2021) Webservices possibilitam tanto a recuperação do estado
 atual de um
 recurso quanto a exclusão do recurso.
 
@@ -2566,7 +2502,6 @@ etc).
 Logo, webservices RESTful realmente possibilitam tanto a recuperação do estado
 atual de um
 recurso quanto a exclusão do próprio recurso.
-
 
 Gabarito: Correto
 i2.(CESPE / SERPRO - 2021) O protocolo de comunicação HTTP e a identificação de
@@ -2585,7 +2520,7 @@ pode-se utilizar apenas URL, URI + HTTP ou URL + HTTP.
 
 Gabarito: Errado
 
-Item. 13. (CESPE / SERPRO - 2021) As interações acontecem sem controle de estado, o que é
+13. (CESPE / SERPRO - 2021) As interações acontecem sem controle de estado, o que é
 conhecido
 como stateless.
 
@@ -2624,7 +2559,6 @@ ao servidor final.
 
 Comentários:
 
-
 Na verdade, é recomendado que-entre o cliente e o servidor-haja um balanceadorde carga
 (Load
 Balancer), responsável justamente por distribuir as requisições entre os
@@ -2657,7 +2591,7 @@ ou de consumidor, consumindo serviço de outros serviços web.
 
 Gabarito: Correto
 
-Item. 17. (CESPE / SEFAZ-BA - 2019) Os web services são componentes de software na web que
+17. (CESPE / SEFAZ-BA - 2019) Os web services são componentes de software na web que
 podem
 fornecer determinados serviços a aplicações criadas em diferentes linguagens. Podem usar
 o
@@ -2680,7 +2614,6 @@ Comentários:
 O padrão utilizado para descrever a estrutura de Mensagens SOAP é o WSDL.
 
 Gabarito: Letra B
-
 
 i8.(CESPE ITRT-CE - 2019) Assinale a opção que apresenta o método HTTP que deve ser
 usado
@@ -2730,7 +2663,6 @@ Perfeito! Ele realmente permite integrar sistemas e realizar a comunicação ent
 
 Gabarito: Correto
 
-
 22.(CESPE / STJ -2018) Os serviços Web RESTful utilizam o HTTP como um meio de
 comunicação
 entre cliente e servidor.
@@ -2766,7 +2698,7 @@ a troca de mensagens entre aplicações distribuídas.
 
 Gabarito: Errado
 
-Item. 25. (CESPE / SEDF - 2017) Serviços expressos por meio de contratos web services têm
+25. (CESPE / SEDF - 2017) Serviços expressos por meio de contratos web services têm
 o potencial
 de evitar completamente a transformação, objetivo-chave dos contratos
 de serviços
@@ -2783,7 +2715,6 @@ que se
 mantenha sua interface. No entanto, eventualmente eu posso precisar alterar a interface
 de um
 serviço - e, nesse caso, não dá para evitar a transformação do contrato do serviço.
-
 
 Logo, o contrato não é imutável, deve-se realmente evitar modificá-lo, mas ele não é
 imune a
@@ -2842,8 +2773,7 @@ tecnologia, logo não dependem de linguagem de programação ou sistema operacio
 
 Gabarito: Letra C
 
-Item. 27. (CESPE / TRE-PE - 2017) REST (Representational State Transfer) é:
-
+27. (CESPE / TRE-PE - 2017) REST (Representational State Transfer) é:
 
 a) um estilo de desenvolvimento que utiliza o protocolo HTTP e se baseia na
 interação simples
@@ -2900,7 +2830,6 @@ Comentários:
 restrições ao
 formato da mensagem; (d) Errado, essa frase sequer faz sentido; (e) Correto.
 
-
 Gabarito: Letra E
 
 2g.(CESPE / TRE-MT - 2016) Acerca de REST (representational state transfer), assinale a
@@ -2949,8 +2878,7 @@ Na verdade, independe de tecnologias - inclusindo as linguagens de programação
 
 Gabarito: Errado
 
-
-Item. 32. (CESPE/ TCE-PA - 2016) Ao se usar o protocolo SOAP (Simple Object Access
+32. (CESPE/ TCE-PA - 2016) Ao se usar o protocolo SOAP (Simple Object Access
 Protocol), cada
 solicitação e cada resposta são colocadas em um envelope SOAP, nos momentos de
 invocação
@@ -2962,7 +2890,7 @@ Perfeito! Toda requisição e toda resposta trafega encapsulada em um Envelope S
 
 Gabarito: Correto
 
-Item. 33. (CESPE / MEC - 2015) Entre as restrições da REST está a interface uniforme, a
+33. (CESPE / MEC - 2015) Entre as restrições da REST está a interface uniforme, a
 qual requer que
 um serviço ofereça várias operações e aguarde a solicitação dessas operações pelo servidor.
 
@@ -2974,7 +2902,7 @@ aproxima dessa descrição seja o Sistema em Camadas.
 
 Gabarito: Errado
 
-Item. 34. (CESPE / MEC-2015) Afim de implementar serviços em REST, recomenda-se utilizar os
+34. (CESPE / MEC-2015) Afim de implementar serviços em REST, recomenda-se utilizar os
 WSDL
 já existentes com mínima alteração do cabeçalho, informando somente que o protocolo a
 ser
@@ -2986,7 +2914,7 @@ REST não utiliza WSDL! Essa é uma tecnologia de Web Services SOAP.
 
 Gabarito: Errado
 
-Item. 35. (CESPE / MEC-2015) As principais características do REST (Representationl State
+35. (CESPE / MEC-2015) As principais características do REST (Representationl State
 Transfer) são
 interface uniforme, stateless e cache.
 
@@ -3001,14 +2929,13 @@ utilizada são relevantes para os clientes.
 
 Comentários:
 
-
 Na verdade, é independe de tecnologia - logo a linguagem de implementação e a
 plataforma são
 irrelevantes para os clientes.
 
 Gabarito: Errado
 
-Item. 37. (CESPE / ANTAQ - 2014) Em arquiteturas REST, nenhum contexto de cliente pode ser
+37. (CESPE / ANTAQ - 2014) Em arquiteturas REST, nenhum contexto de cliente pode ser
 mantido
 em servidor.
 
@@ -3057,7 +2984,6 @@ Gabarito: Correto
 40.(CESPE / CNJ - 2013) A linguagem WSDL é utilizada para descrever web services
 limitadas ao
 tipo request-response.
-
 
 Comentários:
 
@@ -3114,7 +3040,6 @@ variedade de
 plataformas e(ou) frameworks.
 
 Comentários:
-
 
 Perfeito! Web Services são independentes de plataforma, sistema operacional,
 arquitetura de
@@ -3174,7 +3099,6 @@ segurança dos web services no UDDI e no WSDL. Por questão de
 compatibilidade, essas
 extensões não afetam os cabeçalhos do envelope SOAP.
 
-
 Comentários:
 
 Na verdade, ele propõe extensões para aprimorar a segurança dos Web Services no SOAP!
@@ -3201,7 +3125,7 @@ utilização de cache no cliente (Cacheable).
 
 Gabarito: Errado
 
-Item. 49. (CESPE / SERPRO - 2013) Um web service pode ocorrer sobre o HTTP (Hypertext
+49. (CESPE / SERPRO - 2013) Um web service pode ocorrer sobre o HTTP (Hypertext
 Transfer
 Protocol), utilizando-se os serviços RESTfull (Representational State Transfer).
 
@@ -3229,10 +3153,9 @@ Comentários:
 
 REST não é um protocolo e não é embasado em XML.
 
-
 Gabarito: Errado
 
-Item. 51. (CESPE / MPU - 2013) Web services é um método de comunicação entre serviços na
+51. (CESPE / MPU - 2013) Web services é um método de comunicação entre serviços na
 Web que
 aderem estritamente ao XML, como é o caso de serviços cuja comunicação é
 baseada na
@@ -3244,7 +3167,7 @@ O REST não adere estritamente o XML - SOAP, sim!
 
 Gabarito: Errado
 
-Item. 52. (CESPE / PEFOCE - 2012) SOAP é um protocolo leve destinado à troca de
+52. (CESPE / PEFOCE - 2012) SOAP é um protocolo leve destinado à troca de
 informações
 estruturadas em um ambiente distribuído e descentralizado. Uma mensagem SOAP,
 por
@@ -3259,7 +3182,7 @@ elementos (envelope, cabeçalho, corpo, etc).
 
 Gabarito: Errado
 
-Item. 53. (CESPE / MPE-PI - 2012) Em web services, utiliza-se o protocolo SOAP (Simple
+53. (CESPE / MPE-PI - 2012) Em web services, utiliza-se o protocolo SOAP (Simple
 Object Access
 Protocol) para a comunicação entre os serviços.
 
@@ -3281,7 +3204,6 @@ REST não utiliza WSDL!
 
 Gabarito: Errado
 
-
 55.(CESPE / MEC - 2011) O UDDI (Universal Description Discovery and
 Integration), que
 corresponde a um registro de web services, é dividido em páginas brancas, amarelas e
@@ -3290,14 +3212,12 @@ nas quais são prestadas aos clientes informações sobre a empresa, os serviço
 oferecidos
 e as especificações WSDL desses serviços.
 
-
 Comentários:
 
 VM50 i
 SZXÓtJc I
 
 III1 USI) L I1
-
 
 cowros
 
@@ -3334,7 +3254,6 @@ máquina-máquina ou
 aplicação-aplicação - sem a obrigatoriedade de interferência humana.
 
 Gabarito: Correto
-
 
 58.(CESPE / MEC - 2011) Em formulários HTML, apenas o método post é suportado; o
 método get
@@ -3376,7 +3295,7 @@ Não está sendo utilizada como substituta - cada uma é adequada a um contexto 
 
 Gabarito: Errado
 
-Item. 61. (CESPE / TCU - 2010) Uma equipe de desenvolvimento de software recebeu a
+61. (CESPE / TCU - 2010) Uma equipe de desenvolvimento de software recebeu a
 incumbência de
 desenvolver um sistema com as características apresentadas a seguir.
 
@@ -3391,7 +3310,6 @@ envolvendo
 servlets, JSP (Java server pages), Ajax, JSF (Java server faces) 2.0, Hibernate 3.5,
 SOA e web
 services.
-
 
 O líder da equipe iniciou, então, um extenso processo de coleta de dados com o
 objetivo de
@@ -3450,7 +3368,6 @@ b) SOAP (Simple Object Access Protocol) é um protocolo com base em HTML que per
 troca
 de informações entre aplicações em um ambiente distribuído.
 
-
 c) UDDI (Universal Description, Discovery and Integration) é um diretório para
 armazenamento
 de informações a respeito de web sevices. Essas informações são descritas em SOAP.
@@ -3504,8 +3421,7 @@ Na verdade, todos são baseados em XML e, não, HTTP!
 
 Gabarito: Errado
 
-
-Item. 66. (CESPE / INMETRO - 2009) Na SOA, a descrição do serviço é mantida em um
+66. (CESPE / INMETRO - 2009) Na SOA, a descrição do serviço é mantida em um
 repositório
 WSDL, em formato UDDI (Universal Description, Discovery and Integration).
 
@@ -3533,7 +3449,7 @@ diretório, tal como o WSDL UDDI.
 
 Gabarito: Errado
 
-Item. 68. (CESPE / ANTAQ - 2009) Um componente importante da arquitetura de serviços
+68. (CESPE / ANTAQ - 2009) Um componente importante da arquitetura de serviços
 web é
 formado por um serviço de diretório que armazena descrições de serviços. Esse serviço
 deve
@@ -3545,7 +3461,7 @@ Perfeito! O Padrão UDDI define o serviço de diretório que armazena descriçõ
 
 Gabarito: Correto
 
-Item. 69. (CESPE / ANTAQ - 2009) Em serviços web, o SOAP pode ser transportado por
+69. (CESPE / ANTAQ - 2009) Em serviços web, o SOAP pode ser transportado por
 protocolos
 como REST, HTTP, SMTP e JMS.
 
@@ -3556,7 +3472,6 @@ Inclusive, ele utiliza
 o Protocolo HTTP.
 
 Gabarito: Anulada
-
 
 7O.(CESPE / TRT-BA - 2008) O UDDI é uma especificação técnica que tem
 como objetivo
@@ -3620,7 +3535,6 @@ em outras linguagens. Em teoria, elas podem ser escritas em outras linguagens qu
 
 Gabarito: Errado
 
-
 73.(CESPE / STJ - 2008) O SOAP encapsula mensagens que podem ser transmitidas via
 HTTP;
 permite o modelo de interação cliente-servidor; define como usar XML para
@@ -3646,7 +3560,7 @@ uma requisição quanto uma resposta.
 
 Gabarito: Errado
 
-Item. 74. (CESPE / MPE-AM - 2008) No protocolo HTTP (Hypertext Transfer Protocol), o método
+74. (CESPE / MPE-AM - 2008) No protocolo HTTP (Hypertext Transfer Protocol), o método
 GET é
 utilizado em solicitações enviadas pelo servidor ao navegador para que este solicite
 dados ao
@@ -3661,7 +3575,6 @@ forneça os dados
 solicitados.
 
 Gabarito: Errado
-
 
 QUESTõES CoMENTADAS - FCC
 
@@ -3696,7 +3609,7 @@ Quem usa o padrão de chamadas do Protocolo HTTP é o REST.
 
 Gabarito: Letra C
 
-Item. 2. (FCC / CM-SP - 2014) Pela sua simplicidade e facilidade de entendimento,
+2. (FCC / CM-SP - 2014) Pela sua simplicidade e facilidade de entendimento,
 praticamente qualquer
 cliente ou servidor com suporte aos protocolos ...I pode fazer uso do REST. Uma de suas
 principais
@@ -3720,7 +3633,6 @@ c) HTTP/HTTPS - URIs - PUT, GET, POST e DELETE
 d) XML/JSON/RSS/Atom - URLs - CRUD stateless: Create, Read, Update, Delete
 e) HTTP/HTTPS - caches - CRUD stateless: Create, Read, Update, Delete
 
-
 Comentários:
 
 Pela sua simplicidade e facilidade de entendimento, praticamente qualquer cliente ou
@@ -3733,7 +3645,7 @@ dá através de operações básicas como PUT, GET, POST, DELETE.
 
 Gabarito: Correto
 
-Item. 3. (FCC / AL-SP - 2010) GET e POST são alguns dos principais métodos que determinam
+3. (FCC / AL-SP - 2010) GET e POST são alguns dos principais métodos que determinam
 o que o
 servidor deve fazer com o URLfornecido no momento da requisição de um recurso.
 Relacionado
@@ -3770,7 +3682,6 @@ utilizado para
 enviar grandes quantidades de dados por meio de um formulário; (IV) Correto.
 
 Gabarito: Letra B
-
 
 QUESTõES CoMENTADAS - FG V
 
@@ -3809,7 +3720,7 @@ acessá-la depois sem fazer o reenvio à API.
 
 Gabarito: Letra E
 
-Item. 2. (FGV / TJDFT - 2022) O analista de sistemas Pedro desenvolveu o
+2. (FGV / TJDFT - 2022) O analista de sistemas Pedro desenvolveu o
 webservice RService
 aplicando o estilo de arquitetura REST (Representational State Transfer). As aplicações
 clientes
@@ -3830,7 +3741,6 @@ b) código sob demanda;
 c) interface uniforme;
 
 d) sistema em camadas;
-
 
 e) capacidade de cache.
 
@@ -3854,7 +3764,7 @@ componente o mais genérico possível, tornando-o muito mais fácil de ser refat
 
 Gabarito: Letra C
 
-Item. 3. (FGV / TJDFT - 2022) Kátia é uma web designer contratada para fazer uma página
+3. (FGV / TJDFT - 2022) Kátia é uma web designer contratada para fazer uma página
 web para o
 Tribunal de Justiça. Ela fará uso do protocolo HTTP, pois este é um protocolo da
 camada de
@@ -3888,10 +3798,9 @@ caminho até o recurso alvo no qual foi destinado, provendo um mecanismo útil p
 
 Gabarito: Letra E
 
-Item. 4. (FGV / FUNSAÚDE - 2021) Com relação ao HTTP no contexto de aplicações web, assinale a
+4. (FGV / FUNSAÚDE - 2021) Com relação ao HTTP no contexto de aplicações web, assinale a
 lista
 que contém dois dos métodos desse protocolo.
-
 
 b) GETePOST.
 
@@ -3908,7 +3817,7 @@ entanto, os dois primeiros são disparadamente os mais conhecidos e cobrados em 
 
 Gabarito: Letra B
 
-Item. 5. (FGV / Prefeitura de Niterói-RJ - 2018) As tecnologias SOAP e REST são largamente
+5. (FGV / Prefeitura de Niterói-RJ - 2018) As tecnologias SOAP e REST são largamente
 utilizadas
 para troca de informações estruturadas em sistemas distribuídos. Sobre essas
 tecnologias,
@@ -3948,10 +3857,9 @@ HTTPS; (III) Errado, não é obrigatório utilizar JSON.
 
 Gabarito: Letra A
 
-Item. 6. (FGV/AL-RO-2018) O padrão REST define um conjunto de restrições e propriedades
+6. (FGV/AL-RO-2018) O padrão REST define um conjunto de restrições e propriedades
 baseado
 em HTTP. Sobre REST, analise as afirmativas a seguir.
-
 
 I. Web services que obedecem ao padrão REST precisam utilizar o formato
 JSON para
@@ -3987,7 +3895,7 @@ o estado de cada solicitante durante várias solicitações (state/ess).
 
 Gabarito: Letra B
 
-Item. 7. (FGV / AL-RO - 2018) SOAP é um protocolo para troca de informações estruturadas.
+7. (FGV / AL-RO - 2018) SOAP é um protocolo para troca de informações estruturadas.
 Sobre a
 estrutura da mensagem SOAP, analise as afirmativas a seguir.
 
@@ -4013,14 +3921,13 @@ e) I, lie III.
 
 Comentários:
 
-
 (I) Correto; (II) Errado, Header é opcional; (III) Errado, quando estiver presente deve
 aparecer como
 um elemento filho do elemento Body.
 
 Gabarito: Letra A
 
-Item. 8. (FGV / BANESTES - 2018) Sobre os princípios do padrão REST, analise as afirmativas a seguir.
+8. (FGV / BANESTES - 2018) Sobre os princípios do padrão REST, analise as afirmativas a seguir.
 
 I. As mensagens REST são documentos texto no formato JSON.
 
@@ -4051,7 +3958,7 @@ implementado com JMS; (III) Correto.
 
 Gabarito: Letra C
 
-Item. 9. (FGV / BANESTES - 2018) A linguagem baseada em XML utilizada para descrever um
+9. (FGV / BANESTES - 2018) A linguagem baseada em XML utilizada para descrever um
 web
 service, suas operações e como acessá-lo é:
 
@@ -4066,7 +3973,6 @@ d) WSDL
 e) UDDI
 
 Comentários:
-
 
 A linguagem baseada em XML utilizada para descrever um web service, suas operações e
 como
@@ -4108,7 +4014,7 @@ troca de informações em uma plataforma descentralizada e distribuída.
 
 Gabarito: Letra A
 
-Item. 11. (FGV / BANESTES - 2018) Usualmente, WebServices envolvem a utilização dos padrões
+11. (FGV / BANESTES - 2018) Usualmente, WebServices envolvem a utilização dos padrões
 XML,
 SOAP e WSDL. A função de cada um deles é, respectivamente:
 
@@ -4127,7 +4033,6 @@ Comentários:
 A função de cada um deles é, respectivamente, rotular e formatar os dados,
 transferir as
 mensagens, descrevera disponibilidade do serviço.
-
 
 Gabarito: Letra C
 
@@ -4167,7 +4072,7 @@ Comentários:
 
 Gabarito: Letra A
 
-Item. 13. (FGV / IBGE - 2017) Com relação a REST e SOAP, analise as afirmativas a seguir:
+13. (FGV / IBGE - 2017) Com relação a REST e SOAP, analise as afirmativas a seguir:
 
 I. REST é baseado em orientação a recursos, sendo indicado para operações stateless.
 
@@ -4184,7 +4089,6 @@ Está correto somente o que se afirma em:
 a) I;
 
 b) H;
-
 
 C) III;
 
@@ -4244,7 +4148,6 @@ a) Title e Meta;
 
 b) Envope e Body;
 
-
 c) Headere Fault;
 
 d) Model e Control;
@@ -4283,7 +4186,7 @@ honestamente não vejo erro nesse item; (e) Errado, não há nenhuma relação c
 
 Gabarito: Letra A
 
-Item. 17. (FGV / DPE-RO - 2015) A função da WSDL (Web Services Description Language -
+17. (FGV / DPE-RO - 2015) A função da WSDL (Web Services Description Language -
 Linguagem
 de Descrição de Serviços Web) é:
 
@@ -4298,7 +4201,6 @@ d) linguagem de programação para serviços SOAP;
 e) linguagem de programação para XML.
 
 Comentários:
-
 
 (a) WSDL não executa nada, apenas descrever serviços web; (b) Correto; (c) Errado,
 descreve
@@ -4363,7 +4265,6 @@ afirmativa
 verdadeira e F para a falsa.
 
 () O elemento "SOAP HEADER" é obrigatório em qualquer mensagem SOAP.
-
 
 () A especificação SOAP fornece um modelo de processamento distribuído, o qual assume
 que
@@ -4482,7 +4383,6 @@ linguagem Java;
 web; (e)
 Errado, esse seria o UDDI.
 
-
 Gabarito: Letra B
 
 23.(FGV / MEC - 2009) A respeito das tecnologias relacionadas a Web Services, analise as
@@ -4541,7 +4441,6 @@ d) somente II e III.
 
 e) I, lie III.
 
-
 Comentários:
 
 (I) Correto; (II) Errado, é utilizado para descrever serviços web; Errado, é diretório
@@ -4549,7 +4448,6 @@ para descrição de
 serviços web.
 
 Gabarito: Letra A
-
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -4573,7 +4471,7 @@ As quatro operações são: POST, GET, PUT e DELETE.
 
 Gabarito: Letra C
 
-Item. 2. (IBFC / TJ-PE - 2017) Existe a necessidade em um documento XML ser identificado
+2. (IBFC / TJ-PE - 2017) Existe a necessidade em um documento XML ser identificado
 como uma
 mensagem SOAP. A estrutura da mensagem SOAP (Simple Object Access Protocol), em um
 documento XML, contém os seguintes elementos:
@@ -4594,7 +4492,7 @@ SOAP contém Envelope (Obrigatório) - Header (Opcional) - Body (Obrigatório).
 
 Gabarito: Letra D
 
-Item. 3. (IBFC / EBSERH - 2017) Assinale a alternativa que apresenta o serviço de
+3. (IBFC / EBSERH - 2017) Assinale a alternativa que apresenta o serviço de
 diretório onde
 empresas podem registrar (publicar) e buscar (descobrir) por Serviços Web (Web Services):
 
@@ -4608,7 +4506,6 @@ d) X.500
 
 e) LDAP
 
-
 Comentários:
 
 Serviço de diretório? Permite registrar/publicar e buscar/descobrir web services? Trata-se
@@ -4618,7 +4515,7 @@ do UDDI
 
 Gabarito: Letra A
 
-Item. 4. (IBFC / EBSERH -2017) Web service é uma solução utilizada na integração de
+4. (IBFC / EBSERH -2017) Web service é uma solução utilizada na integração de
 sistemas. Os Web
 services são componentes que permitem às aplicações enviar e receber dados, como padrão,
 em formato:
@@ -4639,7 +4536,7 @@ O formato padrão de Web Services (SOAP) é o XML! As outras opções não fazem
 
 Gabarito: Letra C
 
-Item. 5. (IBFC / EBSERH - 2017) Conforme o W3C (World Wide Web Consortium) pode-se definir
+5. (IBFC / EBSERH - 2017) Conforme o W3C (World Wide Web Consortium) pode-se definir
 um
 Web Service como sendo:
 
@@ -4671,10 +4568,9 @@ troca de informações entre máquinas da rede; (e) Errado, acredito que isso se
 relacionado
 ao modelo entidade relacionamento.
 
-
 Gabarito: Letra D
 
-Item. 6. (IBFC / EMDEC -2016) Quanto as tecnologias aplicadas em um Web Service temos:
+6. (IBFC / EMDEC -2016) Quanto as tecnologias aplicadas em um Web Service temos:
 
 "Para a representação e estruturação dos dados nas mensagens recebidas/enviadas é
 utilizado
@@ -4710,7 +4606,7 @@ protocolo UDDI.
 
 Gabarito: Letra D
 
-Item. 7. (CCV / UFC - 2016) Sobre Web Services, assinale a opção correta.
+7. (CCV / UFC - 2016) Sobre Web Services, assinale a opção correta.
 
 a) Web services não possui suporte a mensagens com arquivos binários.
 
@@ -4731,8 +4627,7 @@ são recomendados pela W3C; (e) Errado, é claro que pode.
 
 Gabarito: Letra C
 
-
-Item. 8. (IF-PI / IF-PI - 2016) Trata-se de um protocolo de comunicação de web services
+8. (IF-PI / IF-PI - 2016) Trata-se de um protocolo de comunicação de web services
 descrito por
 uma WSDL (Web Services Description Language), ele consiste de um grande
 arquivo XML
@@ -4755,7 +4650,7 @@ comunicação é o SOAP.
 
 Gabarito: Letra A
 
-Item. 9. (FUNIVERSA / IF-AP - 2016) SOAP (Simple Object Access Protocol) é um
+9. (FUNIVERSA / IF-AP - 2016) SOAP (Simple Object Access Protocol) é um
 protocolo de
 comunicação que permite a troca de mensagens entre aplicações Web, geralmente
 usando
@@ -4793,7 +4688,6 @@ e) Protocolo HTTP. XML. SOAP. WSDL. UDDI.
 
 Comentários:
 
-
 Protocolo HTTP, XML, SOAP, WSDL e UDDI.
 
 Gabarito: Letra E
@@ -4828,7 +4722,7 @@ Correto.
 
 Gabarito: Letra B
 
-Item. 12. (MPE-RS / MPE-RS - 2012) Um formulário em HTML é um modelo de entrada de um
+12. (MPE-RS / MPE-RS - 2012) Um formulário em HTML é um modelo de entrada de um
 conjunto
 de dados. O primeiro passo a ser dado para a construção de um formulário é fazer as
 etiquetas
@@ -4843,7 +4737,6 @@ d) post-cat
 e) push - pull
 
 Comentários:
-
 
 Os métodos que transferem dados do browser (cliente) para o servidor são denominados
 POST e
@@ -4901,7 +4794,6 @@ adequada a Web.
 
 Gabarito: Correto
 
-
 15.UFF / UFF - 2009) No tocante ao protocolo de transferência de hipertexto
 (HTTP), esse
 protocolo da categoria "solicitação e resposta" possui três métodos de solicitação. São eles:
@@ -4944,7 +4836,7 @@ As duas abordagens são WS-* e REST.
 
 Gabarito: Letra A
 
-Item. 17. (CESGRANRIO / REFAP-ES - 2007) O estilo arquitetural REST (Representational
+17. (CESGRANRIO / REFAP-ES - 2007) O estilo arquitetural REST (Representational
 State
 Transfer) para WEB tem como característica:
 
@@ -4960,7 +4852,6 @@ e) utilizar os métodos HTTP: GET, POST, PUT e DELETE.
 
 Comentários:
 
-
 (a) Errado, ele não utiliza RPC; (b) Errado, acelera a transferência do HTTP com a
 implementação
 de cache; (c) Errado, não há nenhuma relação com combate a SPAM; (d) Errado, não
@@ -4970,14 +4861,13 @@ utiliza SOAP;
 
 Gabarito: Letra E
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) Em um serviço RESTful, todos os métodos são
 identificados pela
 mesma URL, sendo cada método acionado por uma porta específica.
 
-Item. 2. (CESPE / TRT8 - 2022) Em uma API RESTful, cada solicitação deve conter todos os
+2. (CESPE / TRT8 - 2022) Em uma API RESTful, cada solicitação deve conter todos os
 dados
 necessários ao seu atendimento para não depender de informações armazenadas em
 outras
@@ -4993,7 +4883,7 @@ d) sistema de camadas.
 
 e) comunicação stateless.
 
-Item. 3. (CESPE / TRT8 - 2022) O método que serve para depuração em HTTP, ao instruir o
+3. (CESPE / TRT8 - 2022) O método que serve para depuração em HTTP, ao instruir o
 servidor a
 enviar de volta a solicitação, é 0:
 
@@ -5003,36 +4893,35 @@ c) trace
 d) connect
 e) post
 
-Item. 4. (CESPE / FUNPRESP-EXE - 2022) SOAP (Simple Object Access Protocol) é um protocolo
+4. (CESPE / FUNPRESP-EXE - 2022) SOAP (Simple Object Access Protocol) é um protocolo
 de
 comunicação usado para a troca de mensagens XML entre o cliente e o provedor de serviço.
 
-Item. 5. (CESPE / FUNPRESP-EXE - 2022) UDDI (Universal Description Discovery and
+5. (CESPE / FUNPRESP-EXE - 2022) UDDI (Universal Description Discovery and
 Integration) é um
 padrão utilizado em SOA para a criação de repositórios de descrição de serviços.
 
-Item. 6. (CESPE / FUNPRESP-EXE - 2022) Um documento WSDL possui um conjunto de elementos
+6. (CESPE / FUNPRESP-EXE - 2022) Um documento WSDL possui um conjunto de elementos
 de
 nós abstratos e concretos que especificam a localização de um serviço.
 
-Item. 7. (CESPE / Petrobrás - 2022) Web service é um sistema de software projetado para
+7. (CESPE / Petrobrás - 2022) Web service é um sistema de software projetado para
 suportar
 interação entre máquinas através de uma rede; esse sistema possui uma interface
 descrita em
 formato processável por máquina, especificamente o WSDL (web services descriptor language).
 
-Item. 8. (CESPE / Petrobrás - 2022) Uma das vantagens do SOAP é a sua utilização correta dos métodos
+8. (CESPE / Petrobrás - 2022) Uma das vantagens do SOAP é a sua utilização correta dos métodos
 HTML (PUT, GET, POST, DELETE), enquanto o REST utiliza apenas o método POST para
 realizar as requisições através de um arquivo XML.
 
-
-Item. 9. (CESPE / Petrobrás - 2022) Os protocolos SOAP e REST são os padrões mais
+9. (CESPE / Petrobrás - 2022) Os protocolos SOAP e REST são os padrões mais
 utilizados na
 comunicação entre os sistemas por meio do web service; esses protocolos, unidos à
 estrutura
 básica XML, compõem a estrutura básica dos web services.
 
-Item. 10. (CESPE / DPE-RO - 2021) O REST emprega um protocolo universal, o HTTP, para
+10. (CESPE / DPE-RO - 2021) O REST emprega um protocolo universal, o HTTP, para
 oferecer um
 serviço web simples e aberto. Verbos HTTP são usados para realizar chamadas e indicar
 para o
@@ -5052,35 +4941,35 @@ e) TRACE.
 
 A respeito de tecnologia de integração com RESTful, julgue os itens a seguir.
 
-Item. 11. (CESPE / SERPRO - 2021) Webservices possibilitam tanto a recuperação do estado
+11. (CESPE / SERPRO - 2021) Webservices possibilitam tanto a recuperação do estado
 atual de um
 recurso quanto a exclusão do recurso.
 
-Item. 12. (CESPE / SERPRO - 2021) O protocolo de comunicação HTTP e a identificação de
+12. (CESPE / SERPRO - 2021) O protocolo de comunicação HTTP e a identificação de
 recursos
 podem ser utilizados por meio de URL (Uniform Resource Locator).
 
-Item. 13. (CESPE / SERPRO - 2021) As interações acontecem sem controle de estado, o que é
+13. (CESPE / SERPRO - 2021) As interações acontecem sem controle de estado, o que é
 conhecido
 como stateless.
 
-Item. 14. (CESPE / SERPRO - 2021) A arquitetura RESTful não possibilita o uso
+14. (CESPE / SERPRO - 2021) A arquitetura RESTful não possibilita o uso
 de servidores
 intermediários, chamados de balanceadoresde carga, razão porque o cliente sempre se
 conecta
 ao servidor final.
 
-Item. 15. (CESPE/ MEC-2020) REST usa um modelo centrado em recursos de serviços encapsulados,
+15. (CESPE/ MEC-2020) REST usa um modelo centrado em recursos de serviços encapsulados,
 em
 que cada recurso fornecido pelo serviço possui uma URL e todos os recursos oferecem
 suporte
 a uma interface uniforme.
 
-Item. 16. (CESPE / SLU-DF - 2019) Um web service pode assumir o papel de provedor de
+16. (CESPE / SLU-DF - 2019) Um web service pode assumir o papel de provedor de
 serviço e de
 consumidor de serviço.
 
-Item. 17. (CESPE / SEFAZ-BA - 2019) Os web services são componentes de software na web que
+17. (CESPE / SEFAZ-BA - 2019) Os web services são componentes de software na web que
 podem
 fornecer determinados serviços a aplicações criadas em diferentes linguagens. Podem usar
 o
@@ -5091,7 +4980,6 @@ destas mensagens geralmente utiliza-se:
 a) REST.
 
 b) WSDL.
-
 
 c) CORBA.
 
@@ -5111,37 +4999,37 @@ ig.(CESPE / BNB - 2018) SOAP utiliza um sistema de mensagens SMTP sobre a camada
 de
 transporte.
 
-Item. 20. (CESPE / MPE-PI - 2018) Para implementar um web service de baixo overhead que
+20. (CESPE / MPE-PI - 2018) Para implementar um web service de baixo overhead que
 tenha
 recursos identificáveis e localizáveis por meio de uma URI (Uniform Resource
 Identifier)
 mediante o protocolo HTTP, pode-se utilizar o REST (Representational State Transfer).
 
-Item. 21. (CESPE / STJ - 2018) Web service é uma solução utilizada na integração de
+21. (CESPE / STJ - 2018) Web service é uma solução utilizada na integração de
 sistemas e na
 comunicação entre aplicações diferentes.
 
-Item. 22. (CESPE / STJ -2018) Os serviços Web RESTful utilizam o HTTP como um meio de
+22. (CESPE / STJ -2018) Os serviços Web RESTful utilizam o HTTP como um meio de
 comunicação
 entre cliente e servidor.
 
-Item. 23. (CESPE / STJ - 2018) A REST define uma arquitetura cliente-servidor na qual o
+23. (CESPE / STJ - 2018) A REST define uma arquitetura cliente-servidor na qual o
 servidor não
 mantém contexto de cliente entre transações, ou seja, é stateless e toda transação
 contém as
 informações necessárias para satisfazer a solicitação.
 
-Item. 24. (CESPE / STM - 2018) O SOAP é um tipo de modelo de dados XML elaborado para
+24. (CESPE / STM - 2018) O SOAP é um tipo de modelo de dados XML elaborado para
 facilitar a
 inserção de campos HTML em páginas web.
 
-Item. 25. (CESPE / SEDF - 2017) Serviços expressos por meio de contratos web services têm
+25. (CESPE / SEDF - 2017) Serviços expressos por meio de contratos web services têm
 o potencial
 de evitar completamente a transformação, objetivo-chave dos contratos
 de serviços
 padronizados.
 
-Item. 26. (CESPE / TRE-BA - 2017) No que se refere a web services, assinale a opção correta.
+26. (CESPE / TRE-BA - 2017) No que se refere a web services, assinale a opção correta.
 
 a) As solicitações e respostas XML trafegam no protocolo HTTP, não sendo possível
 utilizá-las
@@ -5164,7 +5052,7 @@ de
 programação sob a qual tenham sido desenvolvidos e do sistema operacional do computador
 onde esses sistemas forem executados.
 
-Item. 27. (CESPE / TRE-PE - 2017) REST (Representational State Transfer) é:
+27. (CESPE / TRE-PE - 2017) REST (Representational State Transfer) é:
 
 a) um estilo de desenvolvimento que utiliza o protocolo HTTP e se baseia na interação
 simples
@@ -5186,7 +5074,7 @@ e) um modelo de desenvolvimento de software estruturado e organizado como um con
 de
 classes de objeto e de relações entre essas classes.
 
-Item. 28. (CESPE / MEC-2016) A respeito dos conceitos de web services e REST, assinale a opção correta.
+28. (CESPE / MEC-2016) A respeito dos conceitos de web services e REST, assinale a opção correta.
 
 a) O método POST é utilizado na atualização de um recurso existente.
 
@@ -5201,7 +5089,6 @@ d) Ao desenvolver uma aplicação, o recurso é transferido pela rede.
 e) As chamadas às URIs (uniform resource indicator) são feitas por meio de métodos
 HTTP, os
 quais indicam para o serviço a ação a ser realizada com o recurso.
-
 
 2g.(CESPE / TRE-MT - 2016) Acerca de REST (representational state transfer), assinale a
 opção
@@ -5219,39 +5106,39 @@ e) REST consiste em um estilo de desenvolvimento baseado em complexa
 interação
 cliente/servidor.
 
-Item. 30. (CESPE/ TCE-PA - 2016) Os web services devem ser projetados para ser
+30. (CESPE/ TCE-PA - 2016) Os web services devem ser projetados para ser
 utilizados
 independentemente de paradigmas de programação.
 
-Item. 31. (CESPE/ TCE-PA - 2016) Para que um web service funcione corretamente,
+31. (CESPE/ TCE-PA - 2016) Para que um web service funcione corretamente,
 os softwares
 cliente/servidor devem ser escritos na mesma linguagem.
 
-Item. 32. (CESPE/ TCE-PA - 2016) Ao se usar o protocolo SOAP (Simple Object Access
+32. (CESPE/ TCE-PA - 2016) Ao se usar o protocolo SOAP (Simple Object Access
 Protocol), cada
 solicitação e cada resposta são colocadas em um envelope SOAP, nos momentos de
 invocação
 e retorno de um web service, respectivamente.
 
-Item. 33. (CESPE / MEC - 2015) Entre as restrições da REST está a interface uniforme, a
+33. (CESPE / MEC - 2015) Entre as restrições da REST está a interface uniforme, a
 qual requer que
 um serviço ofereça várias operações e aguarde a solicitação dessas operações pelo servidor.
 
-Item. 34. (CESPE/ MEC-2015) Afim de implementar serviços em REST, recomenda-se utilizar os
+34. (CESPE/ MEC-2015) Afim de implementar serviços em REST, recomenda-se utilizar os
 WSDL
 já existentes com mínima alteração do cabeçalho, informando somente que o protocolo a
 ser
 utilizado é o REST.
 
-Item. 35. (CESPE / MEC-2015) As principais características do REST (Representationl State
+35. (CESPE / MEC-2015) As principais características do REST (Representationl State
 Transfer) são
 interface uniforme, stateless e cache.
 
-Item. 36. (CESPE/ MEC - 2015) E m uma web service, a linguagem de implementação e a
+36. (CESPE/ MEC - 2015) E m uma web service, a linguagem de implementação e a
 plataforma
 utilizada são relevantes para os clientes.
 
-Item. 37. (CESPE / ANTAQ - 2014) Em arquiteturas REST, nenhum contexto de cliente pode ser
+37. (CESPE / ANTAQ - 2014) Em arquiteturas REST, nenhum contexto de cliente pode ser
 mantido
 em servidor.
 
@@ -5262,7 +5149,6 @@ mantido
 no cliente, e o servidor não deve guardar o estado da comunicação de nenhum cliente
 que se
 comunique com o servidor, além de uma única requisição.
-
 
 3g.(CESPE / CNJ - 2013) Uma das formas de comunicação para encapsular dados
 transferidos no
@@ -5278,71 +5164,71 @@ Zji.(CESPE / CNJ - 2013) Nos registros de negócio UDDI, a descrição da forma 
 acesso aos web
 services é um procedimento contido nas páginas verdes (green pages).
 
-Item. 42. (CESPE / CNJ - 2013) Um dos elementos de uma mensagem SOAP é o corpo (body),
+42. (CESPE / CNJ - 2013) Um dos elementos de uma mensagem SOAP é o corpo (body),
 no qual
 devem estar contidas as informações de erro e status.
 
-Item. 43. (CESPE / ANTT - 2013) Web Services provêm um meio padrão para
+43. (CESPE / ANTT - 2013) Web Services provêm um meio padrão para
 interoperação entre
 diferentes aplicativos de software, que podem ser executados em uma
 variedade de
 plataformas e(ou) frameworks.
 
-Item. 44. (CESPE / TCE-RO - 2013) O SOAP permite a troca de mensagens estruturadas em
+44. (CESPE / TCE-RO - 2013) O SOAP permite a troca de mensagens estruturadas em
 ambiente
 distribuído e descentralizado, com o uso de tecnologias XML. Essas mensagens
 podem ser
 trocadas por uma variedade de protocolos subjacentes como, por exemplo, o HTTP.
 
-Item. 45. (CESPE / SERPRO - 2013) A comunicação entre sistemas clientes e servidores para
+45. (CESPE / SERPRO - 2013) A comunicação entre sistemas clientes e servidores para
 troca de
 mensagens pode ser realizada por meio de SOAP (Simple Object Access Protocol), que é
 um
 protocolo para troca de informações estruturadas independente de linguagem de programação.
 
-Item. 46. (CESPE / CNJ - 2013) Uma das formas de comunicação para encapsular dados
+46. (CESPE / CNJ - 2013) Uma das formas de comunicação para encapsular dados
 transferidos no
 formato XML para aplicações serviço web (webservice) é o SOAP (Simple Object
 Access
 Protocol).
 
-Item. 47. (CESPE / TRE-MS - 2013) O WS-Security propõe uma série de extensões para
+47. (CESPE / TRE-MS - 2013) O WS-Security propõe uma série de extensões para
 aprimorar a
 segurança dos web services no UDDI e no WSDL. Por questão de
 compatibilidade, essas
 extensões não afetam os cabeçalhos do envelope SOAP.
 
-Item. 48. (CESPE / BACEN - 2013) O estilo arquitetural REST define um conjunto de
+48. (CESPE / BACEN - 2013) O estilo arquitetural REST define um conjunto de
 restrições para uma
 aplicação, como, por exemplo, utilização de arquitetura par-a-par, manutenção de
 informações
 de estado, não uso de cache no cliente e apresentação de uma interface uniforme.
 
-Item. 49. (CESPE / SERPRO - 2013) Um web service pode ocorrer sobre o HTTP (Hypertext
+49. (CESPE / SERPRO - 2013) Um web service pode ocorrer sobre o HTTP (Hypertext
 Transfer
 Protocol), utilizando-se os serviços RESTfull (Representational State Transfer).
 
-Item. 50. (CESPE / STF - 2013) A REST (Representational State Transfer), protocolo de
+50. (CESPE / STF - 2013) A REST (Representational State Transfer), protocolo de
 comunicação
 embasado em XML, permite a comunicação de mensagens entre aplicações por meio de
 qualquer protocolo de comunicação em rede. Normalmente, esse protocolo é
 utilizado na
 integração de sistemas legados.
 
-Item. 51. (CESPE / MPU - 2013) Web services é um método de comunicação entre serviços na
+51. (CESPE / MPU - 2013) Web services é um método de comunicação entre serviços na
 Web que
 aderem estritamente ao XML, como é o caso de serviços cuja comunicação é
 baseada na
 interface da arquitetura REST.
 
-Item. 52. (CESPE / PEFOCE - 2012) SOAP é um protocolo leve destinado à troca
+52. (CESPE / PEFOCE - 2012) SOAP é um protocolo leve destinado à troca
 de informações
 estruturadas em um ambiente distribuído e descentralizado. Uma mensagem SOAP,
 por
 exemplo, é um documento XML composto de três partes obrigatórias: envelope, cabeçalho e
 corpo.
 
-Item. 53. (CESPE / MPE-PI - 2012) Em web services, utiliza-se o protocolo SOAP (Simple
+53. (CESPE / MPE-PI - 2012) Em web services, utiliza-se o protocolo SOAP (Simple
 Object Access
 Protocol) para a comunicação entre os serviços.
 
@@ -5350,7 +5236,7 @@ Protocol) para a comunicação entre os serviços.
 o WSDL como
 linguagem de descrição de serviços, é uma forma de implementação de SOA na web.
 
-Item. 55. (CESPE / MEC - 2011) O UDDI (Universal Description Discovery and
+55. (CESPE / MEC - 2011) O UDDI (Universal Description Discovery and
 Integration), que
 corresponde a um registro de web services, é dividido em páginas brancas, amarelas e
 verdes,
@@ -5358,36 +5244,35 @@ nas quais são prestadas aos clientes informações sobre a empresa, os serviço
 oferecidos
 e as especificações WSDL desses serviços.
 
-Item. 56. (CESPE / PREVIC - 2011) No WSDL (Web Services Definition Language), é prescrito o
+56. (CESPE / PREVIC - 2011) No WSDL (Web Services Definition Language), é prescrito o
 leiaute
 de banco de dados com descrições de serviços, por meio das quais os clientes de web
 service
 podem procurar serviços relevantes.
 
-Item. 57. (CESPE / PREVIC-2011) Web Services são sistemas embasados na Web que oferecem
+57. (CESPE / PREVIC-2011) Web Services são sistemas embasados na Web que oferecem
 serviços
 gerais para aplicações remotas, não requerendo interações imediatas de usuários finais.
 
-Item. 58. (CESPE/MEC-2011) E m formulários HTML, apenas o método post é suportado; o método
+58. (CESPE/MEC-2011) E m formulários HTML, apenas o método post é suportado; o método
 get
 é utilizado em aplicações JavaScript.
 
-Item. 59. (CESPE / MEC -2011) Um web service pode ser desenvolvido, também, com o uso de
+59. (CESPE / MEC -2011) Um web service pode ser desenvolvido, também, com o uso de
 REST, que
 utiliza o protocolo HTTP para comunicação entre emissor e destinatário, e o
 SOAP, para
 encapsular as mensagens trafegadas.
 
-Item. 60. (CESPE / MPU - 2010) REST (Representationals State Transfer) é uma tecnologia que
+60. (CESPE / MPU - 2010) REST (Representationals State Transfer) é uma tecnologia que
 está
 sendo utilizada em web services, como substituta das tecnologias SOAP (Simple Object
 Access
 Protocol) e WSDL.
 
-Item. 61. (CESPE / TCU - 2010) Uma equipe de desenvolvimento de software recebeu a
+61. (CESPE / TCU - 2010) Uma equipe de desenvolvimento de software recebeu a
 incumbência de
 desenvolver um sistema com as características apresentadas a seguir.
-
 
 - 0 sistema deverá ser integrado, interoperável, portável e seguro.
 
@@ -5423,14 +5308,14 @@ embasado em SOAP (Single Object Access Protocol), por isso não é recomendável
 do
 padrão REST de arquitetura de software no desenvolvimento do sistema em questão.
 
-Item. 62. (CESPE / MPU - 2010) A descrição de um web service é feita utilizando-se WSDL
+62. (CESPE / MPU - 2010) A descrição de um web service é feita utilizando-se WSDL
 (Web Services
 Description Language), que é uma linguagem embasada em RPC (Remote Procedure Call) e
 UDDI (Universal Description Discovery and Integration), com a qual se descreve a forma
 de
 acesso dos serviços e seus parâmetros de entrada e de saída.
 
-Item. 63. (CESPE / TRE-MT -2010) Com relação a web services, assinale a opção correta.
+63. (CESPE / TRE-MT -2010) Com relação a web services, assinale a opção correta.
 
 a) As arquiteturas de aplicação de web services são arquiteturas firmemente acopladas,
 nas quais
@@ -5452,8 +5337,7 @@ aplicações em que componentes de um sistema distribuído são executados em
 plataformas
 semelhantes de um mesmo fornecedor.
 
-
-Item. 64. CESPE / ANATEL - 2009) Os três padrões fundamentais que possibilitam comunicações
+64. CESPE / ANATEL - 2009) Os três padrões fundamentais que possibilitam comunicações
 entre
 web services são: Simple Object Access Protocol (SOAP) — protocolo que define
 uma
@@ -5468,37 +5352,37 @@ permitindo que os solicitantes descubram os serviços. Um desses padrões não u
 XML
 (Extensible Mark-up Language).
 
-Item. 65. (CESPE / CEHAP-PB - 2009) São padrões de Web Services o SOAP, o WSDL e o UDDI,
+65. (CESPE / CEHAP-PB - 2009) São padrões de Web Services o SOAP, o WSDL e o UDDI,
 todos
 baseados em HTTP.
 
-Item. 66. (CESPE / INMETRO - 2009) Na SOA, a descrição do serviço é mantida em um
+66. (CESPE / INMETRO - 2009) Na SOA, a descrição do serviço é mantida em um
 repositório
 WSDL, em formato UDDI (Universal Description, Discovery and Integration).
 
-Item. 67. (CESPE / ANTAQ - 2009) Nos serviços web, clientes e servidores, direta ou
+67. (CESPE / ANTAQ - 2009) Nos serviços web, clientes e servidores, direta ou
 indiretamente,
 podem acessar documentos UDDI completos por meio de seus URIs (Uniform
 Resource
 Identifier), usando um serviço de diretório, tal como o WSDL.
 
-Item. 68. (CESPE / ANTAQ - 2009) Um componente importante da arquitetura de serviços
+68. (CESPE / ANTAQ - 2009) Um componente importante da arquitetura de serviços
 web é
 formado por um serviço de diretório que armazena descrições de serviços. Esse serviço
 deve
 obedecer ao padrão UDDI (Universal Description, Discovery And Integration).
 
-Item. 69. (CESPE / ANTAQ - 2009) Em serviços web, o SOAP pode ser transportado por
+69. (CESPE / ANTAQ - 2009) Em serviços web, o SOAP pode ser transportado por
 protocolos
 como REST, HTTP, SMTP e JMS.
 
-Item. 70. (CESPE / TRT-BA - 2008) O UDDI é uma especificação técnica que tem
+70. (CESPE / TRT-BA - 2008) O UDDI é uma especificação técnica que tem
 como objetivo
 descrever, descobrir e integrar web services; é embasado na tecnologia XML, que fornece
 uma
 plataforma neutra de dados e permite descrever relações hierárquicas de modo natural.
 
-Item. 71. (CESPE / STJ - 2008) O serviço UDDI fornece uma interface para
+71. (CESPE / STJ - 2008) O serviço UDDI fornece uma interface para
 publicar e atualizar
 informações acerca de serviços web; possibilita pesquisar descrições WSDL pelo nome;
 provê
@@ -5508,7 +5392,7 @@ corresponda a uma chave ou recuperar entidades que correspondam a um conjunto de
 critérios
 de busca.
 
-Item. 72. (CESPE / STJ - 2008) O WSDL separa a parte abstrata de uma descrição de
+72. (CESPE / STJ - 2008) O WSDL separa a parte abstrata de uma descrição de
 serviço da parte
 concreta; nessa descrição, a parte concreta contém as definições de tipos usados pelo
 serviço e
@@ -5518,26 +5402,25 @@ podem ser acessados via um serviço de diretório como o UDDI; as definições W
 ser
 geradas a partir de definições de interfaces escritas em outras linguagens.
 
-Item. 73. (CESPE / STJ - 2008) O SOAP encapsula mensagens que podem ser transmitidas via
+73. (CESPE / STJ - 2008) O SOAP encapsula mensagens que podem ser transmitidas via
 HTTP;
 permite o modelo de interação cliente-servidor; define como usar XML para representar
 mensagens de requisição e resposta. Um documento XML é transportado no corpo de uma
 mensagem SOAP; no modelo cliente-servidor, o corpo de uma mensagem SOAP pode conter
 uma requisição, mas não uma resposta.
 
-Item. 74. (CESPE / MPE-AM -2008) No protocolo HTTP (Hypertext Transfer Protocol), o método
+74. (CESPE / MPE-AM -2008) No protocolo HTTP (Hypertext Transfer Protocol), o método
 GET é
 utilizado em solicitações enviadas pelo servidor ao navegador para que este solicite
 dados ao
 usuário de uma página ou para que o próprio navegador forneça os dados solicitados.
 
-
 GABARITo
 
-Item. 1. ERRADO 42.
+1. ERRADO 42.
 ERRADO
 
-Item. 2. LETRA E 43-
+2. LETRA E 43-
 CORRETO
 
 3- LETRA C 44. CORRETO
@@ -5546,20 +5429,20 @@ CORRETO
 
 5- CORRETO 46. CORRETO
 
-Item. 6. CORRETO 47- ERRADO
+6. CORRETO 47- ERRADO
 
 7- CORRETO 48. ERRADO
 
-Item. 8. ERRADO 49-
+8. ERRADO 49-
 ANULADA
 
 9- CORRETO 50. ERRADO
 
-Item. 10. LETRA A 5i- ERRADO
+10. LETRA A 5i- ERRADO
 
 íi. CORRETO 52. ERRADO
 
-Item. 12. ERRADO 53- CORRETO
+12. ERRADO 53- CORRETO
 
 13- CORRETO 54- ERRADO
 
@@ -5573,34 +5456,34 @@ i6. CORRETO 57- CORRETO
 
 i8. LETRA B 59- ERRADO
 
-Item. 19. ERRADO 60. ERRADO
+19. ERRADO 60. ERRADO
 
-Item. 20. CORRETO 61. ERRADO
+20. CORRETO 61. ERRADO
 
-Item. 21. CORRETO 62. ERRADO
+21. CORRETO 62. ERRADO
 
-Item. 22. CORRETO 63. LETRA D
+22. CORRETO 63. LETRA D
 
 23- CORRETO 64. ERRADO
 
-Item. 24. ERRADO 65. ERRADO
+24. ERRADO 65. ERRADO
 
 25- CORRETO 66. ERRADO
 
-Item. 26. LETRA C 67. ERRADO
+26. LETRA C 67. ERRADO
 
 27- LETRA A 68. CORRETO
 
-Item. 28. LETRA E 69.
+28. LETRA E 69.
 ANULADA
 
-Item. 29. LETRA C 70. CORRETO
+29. LETRA C 70. CORRETO
 
-Item. 30. CORRETO 71- CORRETO
+30. CORRETO 71- CORRETO
 
 3i- ERRADO 72. ERRADO
 
-Item. 32. CORRETO 73- ERRADO
+32. CORRETO 73- ERRADO
 
 33- ERRADO 74- ERRADO
 
@@ -5608,18 +5491,17 @@ Item. 32. CORRETO 73- ERRADO
 
 35- CORRETO
 
-Item. 36. ERRADO
+36. ERRADO
 
 37- CORRETO
 
-Item. 38. CORRETO
+38. CORRETO
 
 39- CORRETO
 
-Item. 40. ERRADO
+40. ERRADO
 
 4i- CORRETO
-
 
 í. (CESPE / TRT8 - 2022) Em uma API RESTful, cada solicitação deve conter todos os
 dados
@@ -5636,7 +5518,7 @@ d) sistema de camadas.
 
 e) comunicação stateless.
 
-Item. 2. (CESPE / TRT8 - 2022) O método que serve para depuração em HTTP, ao instruir o
+2. (CESPE / TRT8 - 2022) O método que serve para depuração em HTTP, ao instruir o
 servidor a
 enviar de volta a solicitação, é o:
 
@@ -5646,29 +5528,29 @@ c) trace
 d) connect
 e) post
 
-Item. 3. (CESPE / FUNPRESP-EXE - 2022) SOAP (Simple Object Access Protocol) é um protocolo
+3. (CESPE / FUNPRESP-EXE - 2022) SOAP (Simple Object Access Protocol) é um protocolo
 de
 comunicação usado para a troca de mensagens XML entre o cliente e o provedor de serviço.
 
-Item. 4. (CESPE / FUNPRESP-EXE - 2022) UDDI (Universal Description Discovery and
+4. (CESPE / FUNPRESP-EXE - 2022) UDDI (Universal Description Discovery and
 Integration) é um
 padrão utilizado em SOA para a criação de repositórios de descrição de serviços.
 
-Item. 5. (CESPE / FUNPRESP-EXE - 2022) Um documento WSDL possui um conjunto de elementos
+5. (CESPE / FUNPRESP-EXE - 2022) Um documento WSDL possui um conjunto de elementos
 de
 nós abstratos e concretos que especificam a localização de um serviço.
 
-Item. 6. (CESPE / Petrobrás - 2022) Web service é um sistema de software projetado para
+6. (CESPE / Petrobrás - 2022) Web service é um sistema de software projetado para
 suportar
 interação entre máquinas através de uma rede; esse sistema possui uma interface
 descrita em
 formato processável por máquina, especificamente o WSDL (web services descriptor language).
 
-Item. 7. (CESPE / Petrobrás - 2022) Uma das vantagens do SOAP é a sua utilização correta dos métodos
+7. (CESPE / Petrobrás - 2022) Uma das vantagens do SOAP é a sua utilização correta dos métodos
 HTML (PUT, GET, POST, DELETE), enquanto o REST utiliza apenas o método POST para
 realizar as requisições através de um arquivo XML.
 
-Item. 8. (CESPE / Petrobrás - 2022) Os protocolos SOAP e REST são os padrões mais
+8. (CESPE / Petrobrás - 2022) Os protocolos SOAP e REST são os padrões mais
 utilizados na
 comunicação entre os sistemas por meio do web service; esses protocolos, unidos à
 estrutura
@@ -5676,8 +5558,7 @@ básica XML, compõem a estrutura básica dos web services.
 
 0 0
 
-
-Item. 9. (CESPE / DPE-RO - 2021) O REST emprega um protocolo universal, o HTTP, para
+9. (CESPE / DPE-RO - 2021) O REST emprega um protocolo universal, o HTTP, para
 oferecer um
 serviço web simples e aberto. Verbos HTTP são usados para realizar chamadas e indicar
 para o
@@ -5697,19 +5578,19 @@ e) TRACE.
 
 A respeito de tecnologia de integração com RESTful, julgue os itens a seguir.
 
-Item. 10. (CESPE / SERPRO -2021) Webservices possibilitam tanto a recuperação do estado atual
+10. (CESPE / SERPRO -2021) Webservices possibilitam tanto a recuperação do estado atual
 de um
 recurso quanto a exclusão do recurso.
 
-Item. 11. (CESPE / SERPRO - 2021) O protocolo de comunicação HTTP e a identificação de
+11. (CESPE / SERPRO - 2021) O protocolo de comunicação HTTP e a identificação de
 recursos
 podem ser utilizados por meio de URL (Uniform Resource Locator).
 
-Item. 12. (CESPE / SERPRO -2021) As interações acontecem sem controle de estado, o que é
+12. (CESPE / SERPRO -2021) As interações acontecem sem controle de estado, o que é
 conhecido
 como stateless.
 
-Item. 13. (CESPE / SERPRO - 2021) A arquitetura RESTful não possibilita o uso
+13. (CESPE / SERPRO - 2021) A arquitetura RESTful não possibilita o uso
 de servidores
 intermediários, chamados de balanceadores de carga, razão por que o cliente sempre se
 conecta
@@ -5721,11 +5602,11 @@ que cada recurso fornecido pelo serviço possui uma URL e todos os recursos ofer
 suporte
 a uma interface uniforme.
 
-Item. 15. (CESPE / SLU-DF - 2019) Um web service pode assumir o papel de provedor de
+15. (CESPE / SLU-DF - 2019) Um web service pode assumir o papel de provedor de
 serviço e de
 consumidor de serviço.
 
-Item. 16. (CESPE / SEFAZ-BA-2019) Os web services são componentes de software na web que
+16. (CESPE / SEFAZ-BA-2019) Os web services são componentes de software na web que
 podem
 fornecer determinados serviços a aplicações criadas em diferentes linguagens. Podem usar
 o
@@ -5743,8 +5624,7 @@ d) RESTFUL.
 
 e) HTML.
 
-
-Item. 17. (CESPE / TRT-CE - 2019) Assinale a opção que apresenta o método HTTP que deve
+17. (CESPE / TRT-CE - 2019) Assinale a opção que apresenta o método HTTP que deve
 ser usado
 para a busca de recursos por meio do web service RESTful.
 
@@ -5753,40 +5633,40 @@ b) get
 c) put
 d) options
 
-Item. 18. (CESPE / BNB - 2018) SOAP utiliza um sistema de mensagens SMTP sobre a camada de
+18. (CESPE / BNB - 2018) SOAP utiliza um sistema de mensagens SMTP sobre a camada de
 transporte.
 
-Item. 19. (CESPE / MPE-PI - 2018) Para implementar um web service de baixo overhead que
+19. (CESPE / MPE-PI - 2018) Para implementar um web service de baixo overhead que
 tenha
 recursos identificáveis e localizáveis por meio de uma URI (Uniform Resource
 Identifier)
 mediante o protocolo HTTP, pode-se utilizar o REST (Representational State Transfer).
 
-Item. 20. (CESPE / STJ - 2018) Web service é uma solução utilizada na integração de
+20. (CESPE / STJ - 2018) Web service é uma solução utilizada na integração de
 sistemas e na
 comunicação entre aplicações diferentes.
 
-Item. 21. (CESPE / STJ -2018) Os serviços Web RESTful utilizam o HTTP como um meio de
+21. (CESPE / STJ -2018) Os serviços Web RESTful utilizam o HTTP como um meio de
 comunicação
 entre cliente e servidor.
 
-Item. 22. (CESPE / STJ - 2018) A REST define uma arquitetura cliente-servidor na qual o
+22. (CESPE / STJ - 2018) A REST define uma arquitetura cliente-servidor na qual o
 servidor não
 mantém contexto de cliente entre transações, ou seja, é stateless e toda transação
 contém as
 informações necessárias para satisfazer a solicitação.
 
-Item. 23. (CESPE / STM - 2018) O SOAP é um tipo de modelo de dados XML elaborado para
+23. (CESPE / STM - 2018) O SOAP é um tipo de modelo de dados XML elaborado para
 facilitar a
 inserção de campos HTML em páginas web.
 
-Item. 24. (CESPE / SEDF - 2017) Serviços expressos por meio de contratos web services têm
+24. (CESPE / SEDF - 2017) Serviços expressos por meio de contratos web services têm
 o potencial
 de evitar completamente a transformação, objetivo-chave dos contratos
 de serviços
 padronizados.
 
-Item. 25. (CESPE / TRE-BA - 2017) No que se refere a web services, assinale a opção correta.
+25. (CESPE / TRE-BA - 2017) No que se refere a web services, assinale a opção correta.
 
 a) As solicitações e respostas XML trafegam no protocolo HTTP, não sendo possível
 utilizá-las
@@ -5801,7 +5681,6 @@ e saída de cada operação.
 c) As duas formas de envio de mensagem para que um cliente possa efetuar solicitações
 a um
 Web Service são One-Way Messaging e Request-Response Messaging.
-
 
 d) O WSDL (Web Services Description Language) é uma linguagem para o desenvolvimento
 de
@@ -5834,7 +5713,7 @@ e) um modelo de desenvolvimento de software estruturado e organizado como um con
 de
 classes de objeto e de relações entre essas classes.
 
-Item. 27. (CESPE / MEC-2016) A respeito dos conceitos de web services e REST, assinale a opção correta.
+27. (CESPE / MEC-2016) A respeito dos conceitos de web services e REST, assinale a opção correta.
 
 a) O método POST é utilizado na atualização de um recurso existente.
 
@@ -5850,11 +5729,10 @@ e) As chamadas às URIs (uniform resource indicator) são feitas por meio de mé
 HTTP, os
 quais indicam para o serviço a ação a ser realizada com o recurso.
 
-Item. 28. (CESPE / TRE-MT - 2016) Acerca de REST (representational state transfer), assinale a opção
+28. (CESPE / TRE-MT - 2016) Acerca de REST (representational state transfer), assinale a opção
 correta.
 
 a) O protocolo REST utiliza SOAP e XML.
-
 
 b) REST utiliza recurso não identificável baseado em PUT e GET.
 
@@ -5866,43 +5744,43 @@ e) REST consiste em um estilo de desenvolvimento baseado em complexa
 interação
 cliente/servidor.
 
-Item. 29. (CESPE/ TCE-PA - 2016) Os web services devem ser projetados para ser
+29. (CESPE/ TCE-PA - 2016) Os web services devem ser projetados para ser
 utilizados
 independentemente de paradigmas de programação.
 
-Item. 30. (CESPE/ TCE-PA - 2016) Para que um web service funcione corretamente,
+30. (CESPE/ TCE-PA - 2016) Para que um web service funcione corretamente,
 os softwares
 cliente/servidor devem ser escritos na mesma linguagem.
 
-Item. 31. (CESPE/ TCE-PA - 2016) Ao se usar o protocolo SOAP (Simple Object Access
+31. (CESPE/ TCE-PA - 2016) Ao se usar o protocolo SOAP (Simple Object Access
 Protocol), cada
 solicitação e cada resposta são colocadas em um envelope SOAP, nos momentos de
 invocação
 e retorno de um web service, respectivamente.
 
-Item. 32. (CESPE / MEC - 2015) Entre as restrições da REST está a interface uniforme, a
+32. (CESPE / MEC - 2015) Entre as restrições da REST está a interface uniforme, a
 qual requer que
 um serviço ofereça várias operações e aguarde a solicitação dessas operações pelo servidor.
 
-Item. 33. (CESPE / MEC -2015) Afim de implementar serviços em REST, recomenda-se utilizar os
+33. (CESPE / MEC -2015) Afim de implementar serviços em REST, recomenda-se utilizar os
 WSDL
 já existentes com mínima alteração do cabeçalho, informando somente que o protocolo a
 ser
 utilizado é o REST.
 
-Item. 34. (CESPE / MEC-2015) As principais características do REST(Representationl State
+34. (CESPE / MEC-2015) As principais características do REST(Representationl State
 Transfer) são
 interface uniforme, stateless e cache.
 
-Item. 35. (CESPE/ MEC - 2015) Em uma web service, a linguagem de implementação e a
+35. (CESPE/ MEC - 2015) Em uma web service, a linguagem de implementação e a
 plataforma
 utilizada são relevantes para os clientes.
 
-Item. 36. (CESPE / ANTAQ-2014) Em arquiteturas REST, nenhum contexto de cliente pode ser
+36. (CESPE / ANTAQ-2014) Em arquiteturas REST, nenhum contexto de cliente pode ser
 mantido
 em servidor.
 
-Item. 37. (CESPE / ANATEL - 2014) REST é uma técnica de engenharia de software para
+37. (CESPE / ANATEL - 2014) REST é uma técnica de engenharia de software para
 sistemas
 hipermídia distribuídos. De acordo com essa técnica, o estado da informação deve ser
 mantido
@@ -5910,32 +5788,31 @@ no cliente, e o servidor não deve guardar o estado da comunicação de nenhum c
 que se
 comunique com o servidor, além de uma única requisição.
 
-Item. 38. (CESPE / CNJ - 2013) Uma das formas de comunicação para encapsular dados
+38. (CESPE / CNJ - 2013) Uma das formas de comunicação para encapsular dados
 transferidos no
 formato XML para aplicações serviço web (Webservice) é o SOAP (Simple Object
 Access
 Protocol).
 
-
-Item. 39. (CESPE / CNJ - 2013) A linguagem WSDL é utilizada para descrever web services
+39. (CESPE / CNJ - 2013) A linguagem WSDL é utilizada para descrever web services
 limitadas ao
 tipo request-response.
 
-Item. 40. (CESPE / CNJ - 2013) Nos registros de negócio UDDI, a descrição da forma de
+40. (CESPE / CNJ - 2013) Nos registros de negócio UDDI, a descrição da forma de
 acesso aos web
 services é um procedimento contido nas páginas verdes (green pages).
 
-Item. 41. (CESPE / CNJ - 2013) Um dos elementos de uma mensagem SOAP é o corpo (body),
+41. (CESPE / CNJ - 2013) Um dos elementos de uma mensagem SOAP é o corpo (body),
 no qual
 devem estar contidas as informações de erro e status.
 
-Item. 42. (CESPE / ANTT - 2013) Web Services provêm um meio padrão para
+42. (CESPE / ANTT - 2013) Web Services provêm um meio padrão para
 interoperação entre
 diferentes aplicativos de software, que podem ser executados em uma
 variedade de
 plataformas e(ou) frameworks.
 
-Item. 43. (CESPE / TCE-RO - 2013) O SOAP permite a troca de mensagens estruturadas em
+43. (CESPE / TCE-RO - 2013) O SOAP permite a troca de mensagens estruturadas em
 ambiente
 distribuído e descentralizado, com o uso de tecnologias XML. Essas mensagens
 podem ser
@@ -5947,29 +5824,29 @@ mensagens pode ser realizada por meio de SOAP (Simple Object Access Protocol), q
 um
 protocolo para troca de informações estruturadas independente de linguagem de programação.
 
-Item. 45. (CESPE / CNJ - 2013) Uma das formas de comunicação para encapsular dados
+45. (CESPE / CNJ - 2013) Uma das formas de comunicação para encapsular dados
 transferidos no
 formato XML para aplicações serviço web (webservice) é o SOAP (Simple Object
 Access
 Protocol).
 
-Item. 46. (CESPE / TRE-MS - 2013) O WS-Security propõe uma série de extensões para
+46. (CESPE / TRE-MS - 2013) O WS-Security propõe uma série de extensões para
 aprimorar a
 segurança dos web services no UDDI e no WSDL. Por questão de
 compatibilidade, essas
 extensões não afetam os cabeçalhos do envelope SOAP.
 
-Item. 47. (CESPE / BACEN - 2013) O estilo arquitetural REST define um conjunto de
+47. (CESPE / BACEN - 2013) O estilo arquitetural REST define um conjunto de
 restrições para uma
 aplicação, como, por exemplo, utilização de arquitetura par-a-par, manutenção de
 informações
 de estado, não uso de cache no cliente e apresentação de uma interface uniforme.
 
-Item. 48. (CESPE / SERPRO - 2013) Um web service pode ocorrer sobre o HTTP (Hypertext
+48. (CESPE / SERPRO - 2013) Um web service pode ocorrer sobre o HTTP (Hypertext
 Transfer
 Protocol), utilizando-se os serviços RESTfull (Representational State Transfer).
 
-Item. 49. (CESPE / STF - 2013) A REST (Representational State Transfer), protocolo de
+49. (CESPE / STF - 2013) A REST (Representational State Transfer), protocolo de
 comunicação
 embasado em XML, permite a comunicação de mensagens entre aplicações por meio
 de
@@ -5977,14 +5854,13 @@ qualquer protocolo de comunicação em rede. Normalmente, esse protocolo é
 utilizado na
 integração de sistemas legados.
 
-Item. 50. (CESPE / MPU - 2013) Web services é um método de comunicação entre serviços na
+50. (CESPE / MPU - 2013) Web services é um método de comunicação entre serviços na
 Web que
 aderem estritamente ao XML, como é o caso de serviços cuja comunicação é
 baseada na
 interface da arquitetura REST.
 
-
-Item. 51. (CESPE / PEFOCE - 2012) SOAP é um protocolo leve destinado à troca
+51. (CESPE / PEFOCE - 2012) SOAP é um protocolo leve destinado à troca
 de informações
 estruturadas em um ambiente distribuído e descentralizado. Uma mensagem SOAP,
 por
@@ -5992,15 +5868,15 @@ exemplo, é um documento XML composto de três partes obrigatórias: envelope, c
 e
 corpo.
 
-Item. 52. (CESPE / MPE-PI - 2012) Em web services, utiliza-se o protocolo SOAP (Simple
+52. (CESPE / MPE-PI - 2012) Em web services, utiliza-se o protocolo SOAP (Simple
 Object Access
 Protocol) para a comunicação entre os serviços.
 
-Item. 53. (CESPE / TJ-RO - 2012) Representational state transfer (REST), que utiliza o WSDL
+53. (CESPE / TJ-RO - 2012) Representational state transfer (REST), que utiliza o WSDL
 como
 linguagem de descrição de serviços, é uma forma de implementação de SOA na web.
 
-Item. 54. (CESPE / MEC - 2011) O UDDI (Universal Description Discovery and
+54. (CESPE / MEC - 2011) O UDDI (Universal Description Discovery and
 Integration), que
 corresponde a um registro de web services, é dividido em páginas brancas, amarelas e
 verdes,
@@ -6008,32 +5884,32 @@ nas quais são prestadas aos clientes informações sobre a empresa, os serviço
 oferecidos
 e as especificações WSDL desses serviços.
 
-Item. 55. (CESPE / PREVIC - 2011) No WSDL (Web Services Definition Language), é prescrito o
+55. (CESPE / PREVIC - 2011) No WSDL (Web Services Definition Language), é prescrito o
 leiaute
 de banco de dados com descrições de serviços, por meio das quais os clientes de web
 service
 podem procurar serviços relevantes.
 
-Item. 56. (CESPE / PREVIC-2011) Web Services são sistemas embasados na Web que oferecem
+56. (CESPE / PREVIC-2011) Web Services são sistemas embasados na Web que oferecem
 serviços
 gerais para aplicações remotas, não requerendo interações imediatas de usuários finais.
 
-Item. 57. (CESPE I MEC -2011) Em formulários HTML, apenas o método post é suportado; o
+57. (CESPE I MEC -2011) Em formulários HTML, apenas o método post é suportado; o
 método get
 é utilizado em aplicações JavaScript.
 
-Item. 58. (CESPE / MEC -2011) Um web service pode ser desenvolvido, também, com o uso de REST, que
+58. (CESPE / MEC -2011) Um web service pode ser desenvolvido, também, com o uso de REST, que
 utiliza o protocolo HTTP para comunicação entre emissor e destinatário, e o
 SOAP, para
 encapsular as mensagens trafegadas.
 
-Item. 59. (CESPE / MPU - 2010) REST (Representationals State Transfer) é uma tecnologia que
+59. (CESPE / MPU - 2010) REST (Representationals State Transfer) é uma tecnologia que
 está
 sendo utilizada em web services, como substituta das tecnologias SOAP (Simple Object
 Access
 Protocol) e WSDL.
 
-Item. 60. (CESPE / TCU - 2010) Uma equipe de desenvolvimento de software recebeu a
+60. (CESPE / TCU - 2010) Uma equipe de desenvolvimento de software recebeu a
 incumbência de
 desenvolver um sistema com as características apresentadas a seguir.
 
@@ -6048,7 +5924,6 @@ envolvendo
 servlets, JSP (Java server pages), Ajax, JSF (Java server faces) 2.0, Hibernate 3.5,
 SOA e web
 services.
-
 
 0 líder da equipe iniciou, então, um extenso processo de coleta de dados com o
 objetivo de
@@ -6071,14 +5946,14 @@ embasado em SOAP (Single Object Access Protocol), por isso não é recomendável
 do
 padrão REST de arquitetura de software no desenvolvimento do sistema em questão.
 
-Item. 61. (CESPE / MPU - 2010) A descrição de um web service é feita utilizando-se WSDL
+61. (CESPE / MPU - 2010) A descrição de um web service é feita utilizando-se WSDL
 (Web Services
 Description Language), que é uma linguagem embasada em RPC (Remote Procedure Call) e
 UDDI (Universal Description Discovery and Integration), com a qual se descreve a forma
 de
 acesso dos serviços e seus parâmetros de entrada e de saída.
 
-Item. 62. (CESPE /TRE-MT-2010) Com relação a web services, assinale a opção correta.
+62. (CESPE /TRE-MT-2010) Com relação a web services, assinale a opção correta.
 
 a) As arquiteturas de aplicação de web services são arquiteturas firmemente acopladas,
 nas quais
@@ -6111,42 +5986,41 @@ representadas; Universal Description, Discovery And Integration (UDDI) —
 padrão de
 descoberta que define como são organizadas as informações de descrição do serviço,
 
-
 permitindo que os solicitantes descubram os serviços. Um desses padrões não utiliza a
 XML
 (Extensible Mark-up Language).
 
-Item. 64. (CESPE / CEHAP-PB - 2009) São padrões de Web Services o SOAP, o WSDL e o UDDI,
+64. (CESPE / CEHAP-PB - 2009) São padrões de Web Services o SOAP, o WSDL e o UDDI,
 todos
 baseados em HTTP.
 
-Item. 65. (CESPE/INMETRO-2Oog) Na SOA, a descrição do serviço é mantida em um repositório
+65. (CESPE/INMETRO-2Oog) Na SOA, a descrição do serviço é mantida em um repositório
 WSDL,
 em formato UDDI (Universal Description, Discovery and Integration).
 
-Item. 66. (CESPE / ANTAQ - 2009) Nos serviços web, clientes e servidores, direta ou
+66. (CESPE / ANTAQ - 2009) Nos serviços web, clientes e servidores, direta ou
 indiretamente,
 podem acessar documentos UDDI completos por meio de seus URIs (Uniform
 Resource
 Identifier), usando um serviço de diretório, tal como o WSDL.
 
-Item. 67. (CESPE / ANTAQ - 2009) Um componente importante da arquitetura de
+67. (CESPE / ANTAQ - 2009) Um componente importante da arquitetura de
 serviços web é
 formado por um serviço de diretório que armazena descrições de serviços. Esse serviço
 deve
 obedecerão padrão UDDI (Universal Description, Discovery And Integration).
 
-Item. 68. (CESPE / ANTAQ - 2009) E m serviços web, o SOAP pode ser transportado por
+68. (CESPE / ANTAQ - 2009) E m serviços web, o SOAP pode ser transportado por
 protocolos
 como REST, HTTP, SMTP e JMS.
 
-Item. 69. (CESPE / TRT-BA - 2008) O UDDI é uma especificação técnica que tem como
+69. (CESPE / TRT-BA - 2008) O UDDI é uma especificação técnica que tem como
 objetivo
 descrever, descobrir e integrar web services; é embasado na tecnologia XML, que fornece
 uma
 plataforma neutra de dados e permite descrever relações hierárquicas de modo natural.
 
-Item. 70. (CESPE / STJ - 2008) O serviço UDDI fornece uma interface para
+70. (CESPE / STJ - 2008) O serviço UDDI fornece uma interface para
 publicar e atualizar
 informações acerca de serviços web; possibilita pesquisar descrições WSDL pelo nome;
 provê
@@ -6156,7 +6030,7 @@ corresponda a uma chave ou recuperar entidades que correspondam a um conjunto de
 critérios
 de busca.
 
-Item. 71. (CESPE / STJ - 2008) O WSDL separa a parte abstrata de uma descrição de serviço
+71. (CESPE / STJ - 2008) O WSDL separa a parte abstrata de uma descrição de serviço
 da parte
 concreta; nessa descrição, a parte concreta contém as definições de tipos usados pelo
 serviço e
@@ -6166,7 +6040,7 @@ podem ser acessados via um serviço de diretório como o UDDI; as definições W
 ser
 geradas a partir de definições de interfaces escritas em outras linguagens.
 
-Item. 72. (CESPE / STJ - 2008) O SOAP encapsula mensagens que podem ser transmitidas via
+72. (CESPE / STJ - 2008) O SOAP encapsula mensagens que podem ser transmitidas via
 HTTP;
 permite o modelo de interação cliente-servidor; define como usar XML para
 representar
@@ -6174,19 +6048,17 @@ mensagens de requisição e resposta. Um documento XML é transportado no corpo 
 mensagem SOAP; no modelo cliente-servidor, o corpo de uma mensagem SOAP pode conter
 uma requisição, mas não uma resposta.
 
-
-Item. 73. (CESPE / MPE-AM -2008) No protocolo HTTP (Hypertext Transfer Protocol), o método
+73. (CESPE / MPE-AM -2008) No protocolo HTTP (Hypertext Transfer Protocol), o método
 GET é
 utilizado em solicitações enviadas pelo servidor ao navegador para que este solicite
 dados ao
 usuário de uma página ou para que o próprio navegador forneça os dados solicitados.
 
-
 GABARITo
 
-Item. 1. LETRA E 42. CORRETO
+1. LETRA E 42. CORRETO
 
-Item. 2. LETRA C 43- CORRETO
+2. LETRA C 43- CORRETO
 
 3- CORRETO 44. CORRETO
 
@@ -6194,19 +6066,19 @@ Item. 2. LETRA C 43- CORRETO
 
 5- CORRETO 46. ERRADO
 
-Item. 6. CORRETO 47- ERRADO
+6. CORRETO 47- ERRADO
 
 7- ERRADO 48. ANULADA
 
-Item. 8. CORRETO 49- ERRADO
+8. CORRETO 49- ERRADO
 
 9- LETRA A 50. ERRADO
 
-Item. 10. CORRETO 51- ERRADO
+10. CORRETO 51- ERRADO
 
 li. ERRADO 52. CORRETO
 
-Item. 12. CORRETO 53- ERRADO
+12. CORRETO 53- ERRADO
 
 13- ERRADO 54- CORRETO
 
@@ -6214,7 +6086,7 @@ Item. 12. CORRETO 53- ERRADO
 
 15- CORRETO 56. CORRETO
 
-Item. 16. LETRA B 57- ERRADO
+16. LETRA B 57- ERRADO
 
 17- LETRA B 58. ERRADO
 
@@ -6222,31 +6094,31 @@ i8. ERRADO 59- ERRADO
 
 19- CORRETO 60. ERRADO
 
-Item. 20. CORRETO 61. ERRADO
+20. CORRETO 61. ERRADO
 
-Item. 21. CORRETO 62. LETRA D
+21. CORRETO 62. LETRA D
 
-Item. 22. CORRETO 63. ERRADO
+22. CORRETO 63. ERRADO
 
 23- ERRADO 64. ERRADO
 
-Item. 24. ERRADO 65- ERRADO
+24. ERRADO 65- ERRADO
 
 25- LETRAC 66. ERRADO
 
-Item. 26. LETRA A 67. CORRETO
+26. LETRA A 67. CORRETO
 
 27- LETRA E 68. ANULADA
 
-Item. 28. LETRAC 69. CORRETO
+28. LETRAC 69. CORRETO
 
-Item. 29. CORRETO 70. CORRETO
+29. CORRETO 70. CORRETO
 
-Item. 30. ERRADO 7i- ERRADO
+30. ERRADO 7i- ERRADO
 
 31- CORRETO 72. ERRADO
 
-Item. 32. ERRADO 73- ERRADO
+32. ERRADO 73- ERRADO
 
 33- ERRADO
 
@@ -6254,18 +6126,17 @@ Item. 32. ERRADO 73- ERRADO
 
 35- ERRADO
 
-Item. 36. CORRETO
+36. CORRETO
 
 37- CORRETO
 
-Item. 38. CORRETO
+38. CORRETO
 
 39- ERRADO
 
-Item. 40. CORRETO
+40. CORRETO
 
-Item. 41. ERRADO
-
+41. ERRADO
 
 QUESTõES CoMENTADAS - FC V
 
@@ -6292,7 +6163,7 @@ d) somente II e III;
 
 e) I, lie III.
 
-Item. 2. (FGV / TJDFT - 2022) O analista de sistemas Pedro desenvolveu o
+2. (FGV / TJDFT - 2022) O analista de sistemas Pedro desenvolveu o
 webservice RService
 aplicando o estilo de arquitetura REST (Representational State Transfer). As aplicações
 clientes
@@ -6316,7 +6187,7 @@ d) sistema em camadas;
 
 e) capacidade de cache.
 
-Item. 3. (FGV / TJDFT - 2022) Kátia é uma web designer contratada para fazer uma página
+3. (FGV / TJDFT - 2022) Kátia é uma web designer contratada para fazer uma página
 web para o
 Tribunal de Justiça. Ela fará uso do protocolo HTTP, pois este é um protocolo da
 camada de
@@ -6325,7 +6196,6 @@ são
 chamadas de métodos. Kátia, então, testa o envio da página pelo servidor, cria uma
 coleção de
 páginas web em um servidor remoto e instrui o servidor a enviar de volta a solicitação.
-
 
 Para implementar a página web, Kátia deve usar, respectivamente, os métodos:
 
@@ -6339,7 +6209,7 @@ d) POST, HEAD, OPTIONS;
 
 e) GET, PUT, TRACE.
 
-Item. 4. (FGV/ FUNSAÚDE - 2021) Com relação ao HTTP no contexto de aplicações web,
+4. (FGV/ FUNSAÚDE - 2021) Com relação ao HTTP no contexto de aplicações web,
 assinale a lista
 que contém dois dos métodos desse protocolo.
 
@@ -6353,7 +6223,7 @@ d) READ e WRITE.
 
 e) STARTe END.
 
-Item. 5. (FGV / Prefeitura de Niterói-RJ -2018) As tecnologias SOAP e REST são largamente
+5. (FGV / Prefeitura de Niterói-RJ -2018) As tecnologias SOAP e REST são largamente
 utilizadas
 para troca de informações estruturadas em sistemas distribuídos. Sobre essas
 tecnologias,
@@ -6385,14 +6255,13 @@ d) I e II, apenas.
 
 e) I, lie III.
 
-Item. 6. (FGV/AL-RO-2018) O padrão REST define um conjunto de restrições e propriedades
+6. (FGV/AL-RO-2018) O padrão REST define um conjunto de restrições e propriedades
 baseado
 em HTTP. Sobre REST, analise as afirmativas a seguir.
 
 I. Web services que obedecem ao padrão REST precisam utilizar o formato
 JSON para
 encapsular os dados da resposta às requisições dos sistemas solicitantes.
-
 
 II. Os métodos GET, POST, PUT e DELETE do protocolo de comunicação HTTP são
 compatíveis
@@ -6414,7 +6283,7 @@ d) I e II, somente.
 
 e) I, lie III.
 
-Item. 7. (FGV / AL-RO - 2018) SOAP é um protocolo para troca de informações estruturadas. Sobre a
+7. (FGV / AL-RO - 2018) SOAP é um protocolo para troca de informações estruturadas. Sobre a
 estrutura da mensagem SOAP, analise as afirmativas a seguir.
 
 I. O formato da mensagem é baseado na linguagem de marcação XML.
@@ -6437,7 +6306,7 @@ d) I e III, somente.
 
 e) I, lie III.
 
-Item. 8. (FGV / BANESTES - 2018) Sobre os princípios do padrão REST, analise as afirmativas a seguir.
+8. (FGV / BANESTES - 2018) Sobre os princípios do padrão REST, analise as afirmativas a seguir.
 
 I. As mensagens REST são documentos texto no formato JSON.
 
@@ -6452,7 +6321,6 @@ Está correto o que se afirma em:
 
 a) somente I;
 
-
 b) somente II;
 
 c) somente III;
@@ -6461,7 +6329,7 @@ d) somente I e III;
 
 e) I, lie III.
 
-Item. 9. (FGV / BANESTES - 2018) A linguagem baseada em XML utilizada para descrever um
+9. (FGV / BANESTES - 2018) A linguagem baseada em XML utilizada para descrever um
 web
 service, suas operações e como acessá-lo é:
 
@@ -6475,7 +6343,7 @@ d) WSDL
 
 e) UDDI
 
-Item. 10. (FGV / BANESTES -2018) Sobre a implementação de serviços web com padrão SOAP,
+10. (FGV / BANESTES -2018) Sobre a implementação de serviços web com padrão SOAP,
 analise
 as afirmativas a seguir.
 
@@ -6501,7 +6369,7 @@ d) somente I e II;
 
 e) I, lie III.
 
-Item. 11. (FGV / BANESTES - 2018) Usualmente, WebServices envolvem a utilização dos padrões
+11. (FGV / BANESTES - 2018) Usualmente, WebServices envolvem a utilização dos padrões
 XML,
 SOAP e WSDL. A função de cada um deles é, respectivamente:
 
@@ -6515,14 +6383,13 @@ d) transferir as mensagens, descrever a disponibilidade do serviço, formatar os
 
 e) descrever as classes e suas interfaces, instanciar os objetos, descrever os algoritmos.
 
-Item. 12. (FGV / IBGE - 2017) SOAP (Simple Object Access Protocol) é um protocolo de
+12. (FGV / IBGE - 2017) SOAP (Simple Object Access Protocol) é um protocolo de
 comunicação
 projetado para permitir a troca de informações de maneira estruturada
 entre sistemas
 distribuídos. Em relação à estrutura da mensagem SOAP versão 1.2 definida pela W3C,
 analise
 as afirmativas a seguir:
-
 
 I. A mensagem SOAP é definida em um documento XML que contém um elemento
 raiz
@@ -6546,7 +6413,7 @@ d) somente I e III;
 
 e) I, lie III.
 
-Item. 13. (FGV / IBGE - 2017) Com relação a REST e SOAP, analise as afirmativas a seguir:
+13. (FGV / IBGE - 2017) Com relação a REST e SOAP, analise as afirmativas a seguir:
 
 I. REST é baseado em orientação a recursos, sendo indicado para operações stateless.
 
@@ -6570,7 +6437,7 @@ d) I e II;
 
 e) I e III.
 
-Item. 14. (FGV / IBGE - 2017) SOAP (Simple Object Access Protocol) é um protocolo de
+14. (FGV / IBGE - 2017) SOAP (Simple Object Access Protocol) é um protocolo de
 comunicação
 utilizado para troca de informações estruturadas entre sistemas computacionais.
 Analise as
@@ -6581,7 +6448,6 @@ elemento-raiz da
 mensagem.
 
 II. O elemento <Header> é opcional e o elemento <Body> obrigatório.
-
 
 III. O elemento <Fault> é utilizado para transportar informações de erro
 dentro de uma
@@ -6599,7 +6465,7 @@ d) somente I e III;
 
 e) I, lie III.
 
-Item. 15. (FGV / IBGE - 2016) Uma mensagem no protocolo SOAP, versão 1.2, é representada
+15. (FGV / IBGE - 2016) Uma mensagem no protocolo SOAP, versão 1.2, é representada
 por um
 documento XML capaz de transportar dados de serviços Web. Os elementos
 considerados
@@ -6615,7 +6481,7 @@ d) Model e Control;
 
 e) Footer e Namespace.
 
-Item. 16. (FGV / DPE-RO - 2015) A REST (Representational State Transfer, em português
+16. (FGV / DPE-RO - 2015) A REST (Representational State Transfer, em português
 Transferência
 de Estado Representacional) dá ênfase:
 
@@ -6633,7 +6499,7 @@ d) na segurança por meio do protocolo HTTPS 2.0;
 
 e) na integração baseada em troca de mensagens assíncronas por meio de web-sockets.
 
-Item. 17. (FGV / DPE-RO - 2015) A função da WSDL (Web Services Description Language -
+17. (FGV / DPE-RO - 2015) A função da WSDL (Web Services Description Language -
 Linguagem
 de Descrição de Serviços Web) é:
 
@@ -6646,7 +6512,6 @@ c) descrever os objetos de um Serviço REST;
 d) linguagem de programação para serviços SOAP;
 
 e) linguagem de programação para XML.
-
 
 i8.(FGV / TJ-GO - 2014) Mensagem utilizada para comunicação com um Serviço Web (Web
 Service), implementado com o protocolo SOAP 1.2.
@@ -6714,8 +6579,7 @@ d) V, V e F.
 
 e) F, F e V.
 
-
-Item. 20. (FGV / Senado Federal - 2012) A respeito de mensagens SOAP, assinale a alternativa correta.
+20. (FGV / Senado Federal - 2012) A respeito de mensagens SOAP, assinale a alternativa correta.
 
 a) O elemento Envelope deve usar o namespace "http://www.w3.org/2oo1/12/soap-envelope".
 
@@ -6727,7 +6591,7 @@ d) O elemento Fault é obrigatório em uma mensagem SOAP.
 
 e) O elemento Header é obrigatório em uma mensagem SOAP.
 
-Item. 21. (FGV / SEAD-AP - 2010) Originalmente SOAP representava um protocolo para
+21. (FGV / SEAD-AP - 2010) Originalmente SOAP representava um protocolo para
 troca de
 informações estruturadas em uma plataforma descentralizada e
 distribuída, utilizando
@@ -6752,7 +6616,7 @@ d) AJAX
 
 e) XSLT
 
-Item. 22. FGV / MEC - 2009) Um Web Service é definido pela W3C como um sistema de
+22. FGV / MEC - 2009) Um Web Service é definido pela W3C como um sistema de
 software
 projetado para fornecer interoperabilidade entre máquinas em uma determinada
 rede. Dentro
@@ -6777,8 +6641,7 @@ e) A WSDL (Web Services Description Language) é uma especificação para public
 localizar
 informações sobre Web Services.
 
-
-Item. 23. (FGV / MEC - 2009) A respeito das tecnologias relacionadas a Web Services, analise as
+23. (FGV / MEC - 2009) A respeito das tecnologias relacionadas a Web Services, analise as
 afirmativas a seguir:
 
 I. A UDDI é uma plataforma de arquitetura orientada a serviços assíncronos utilizada
@@ -6805,7 +6668,7 @@ d) se somente as afirmativas II e III estiverem corretas.
 
 e) se todas as afirmativas estiverem corretas.
 
-Item. 24. (FGV / Senado Federal - 2008) Considere as assertivas a seguir sobre as relações entre SOAP,
+24. (FGV / Senado Federal - 2008) Considere as assertivas a seguir sobre as relações entre SOAP,
 WSDLeUDDI:
 
 I. UDDI é um diretório de serviços web descrito por WSDL.
@@ -6825,33 +6688,31 @@ d) somente II e III.
 
 e) I, lie III.
 
-
 GABARITo
 
-Item. 1. LETRAC 9- LETRA B
+1. LETRAC 9- LETRA B
 17- LETRA E
 
-Item. 2. CORRETO 10. LETRA A
+2. CORRETO 10. LETRA A
 i8. LETRA C
 
 3- LETRA B li. LETRAC
-Item. 19. LETRA A
+19. LETRA A
 
 4- LETRA E 12. LETRA D
-Item. 20. LETRA B
+20. LETRA B
 
 5- LETRA C 13- LETRA A
-Item. 21. LETRA D
+21. LETRA D
 
-Item. 6. LETRA E 14- LETRAC
-Item. 22. LETRA A
+6. LETRA E 14- LETRAC
+22. LETRA A
 
 7- LETRA B x5- LETRA A
 23- LETRA A
 
-Item. 8. LETRA A i6. LETRA A
+8. LETRA A i6. LETRA A
 24- LETRA B
-
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -6869,7 +6730,7 @@ d) PUT, GET, INSERT e DELETE
 
 e) SELECT, GET, PUT e DELETE
 
-Item. 2. (IBFC / TJ-PE - 2017) Existe a necessidade em um documento XML ser identificado
+2. (IBFC / TJ-PE - 2017) Existe a necessidade em um documento XML ser identificado
 como uma
 mensagem SOAP. A estrutura da mensagem SOAP (Simple Object Access Protocol), em um
 documento XML, contém os seguintes elementos:
@@ -6884,7 +6745,7 @@ d) Envelope (obrigatório) - Header (opcional) - Body (obrigatório)
 
 e) Envelope (obrigatório) - Head (opcional) - Main (obrigatório)
 
-Item. 3. (IBFC / EBSERH - 2017) Assinale a alternativa que apresenta o serviço de
+3. (IBFC / EBSERH - 2017) Assinale a alternativa que apresenta o serviço de
 diretório onde
 empresas podem registrar (publicar) e buscar (descobrir) por Serviços Web (Web Services):
 
@@ -6898,7 +6759,7 @@ d) X.500
 
 e) LDAP
 
-Item. 4. (IBFC / EBSERH -2017) Web service é uma solução utilizada na integração de
+4. (IBFC / EBSERH -2017) Web service é uma solução utilizada na integração de
 sistemas. Os Web
 services são componentes que permitem às aplicações enviar e receber dados, como padrão,
 em formato:
@@ -6913,10 +6774,9 @@ d) TLS
 
 e) XDR.
 
-Item. 5. (IBFC / EBSERH - 2017) Conforme o W3C (World Wide Web Consortium) pode-se definir
+5. (IBFC / EBSERH - 2017) Conforme o W3C (World Wide Web Consortium) pode-se definir
 um
 Web Service como sendo:
-
 
 a) uma estrutura conceituai para reger projetos de engenharia de software.
 
@@ -6934,7 +6794,7 @@ e) um modelo de dados que representa um conjunto de conceitos dentro de um domí
 os
 relacionamentos entre estes.
 
-Item. 6. (IBFC / EMDEC -2016) Quanto as tecnologias aplicadas em um Web Service temos:
+6. (IBFC / EMDEC -2016) Quanto as tecnologias aplicadas em um Web Service temos:
 
 "Para a representação e estruturação dos dados nas mensagens recebidas/enviadas é
 utilizado
@@ -6956,7 +6816,7 @@ c) UDDI-XML-SOAP-WSDL
 
 d) XML - SOAP - WSDL - UDDI.
 
-Item. 7. (CCV / UFC - 2016) Sobre Web Services, assinale a opção correta.
+7. (CCV / UFC - 2016) Sobre Web Services, assinale a opção correta.
 
 a) Web services não possui suporte a mensagens com arquivos binários.
 
@@ -6969,7 +6829,7 @@ d) WDSL e SOAP não são recomendação do W3C (World Wide Web Consortium).
 e) Um componente Web Service desenvolvido em linguagem Java não pode ser acessado por
 meio da linguagem PHP.
 
-Item. 8. (IF-PI / IF-PI -2016) Trata-se de um protocolo de comunicação de web services
+8. (IF-PI / IF-PI -2016) Trata-se de um protocolo de comunicação de web services
 descrito por uma
 WSDL (Web Services Description Language), ele consiste de um grande
 arquivo XML
@@ -6985,8 +6845,7 @@ d) DHCP.
 
 e) DNS.
 
-
-Item. 9. (FUNIVERSA / IF-AP - 2016) SOAP (Simple Object Access Protocol) é um
+9. (FUNIVERSA / IF-AP - 2016) SOAP (Simple Object Access Protocol) é um
 protocolo de
 comunicação que permite a troca de mensagens entre aplicações Web, geralmente
 usando
@@ -7004,7 +6863,7 @@ d) FTP (File Transfer Protocol)
 
 e) ODF (Open Document Format)
 
-Item. 10. (ESAF/ANAC-2016) São tecnologias essenciais para Web Services:
+10. (ESAF/ANAC-2016) São tecnologias essenciais para Web Services:
 
 a) Protocolo HSTP. XML. SIP. WSDL. UMDI.
 
@@ -7016,7 +6875,7 @@ d) Protocolo HTIP. XDL. SO2AP. WSDD. UDDI.
 
 e) Protocolo HTTP. XML. SOAP. WSDL. UDDI.
 
-Item. 11. (FUMARC / AL-MG - 2014) Analise as seguintes afirmativas sobre os métodos HTML:
+11. (FUMARC / AL-MG - 2014) Analise as seguintes afirmativas sobre os métodos HTML:
 
 I. HTML POST é utilizado para enviar dados para serem processados em um servidor Web.
 
@@ -7036,7 +6895,7 @@ c) II e III, apenas.
 
 d) I, lie III.
 
-Item. 12. (MPE-RSI MPE-RS - 2012) Um formulário em HTML é um modelo de entrada de um
+12. (MPE-RSI MPE-RS - 2012) Um formulário em HTML é um modelo de entrada de um
 conjunto
 de dados. O primeiro passo a ser dado para a construção de um formulário é fazer as
 etiquetas
@@ -7076,11 +6935,11 @@ d) Apenas I e III.
 
 e) Apenas II e III.
 
-Item. 14. (COPEVE-UFAL / ALGÁS - 2012) REST é uma técnica de engenharia de software
+14. (COPEVE-UFAL / ALGÁS - 2012) REST é uma técnica de engenharia de software
 utilizada no
 desenvolvimento de sistemas hipermídia distribuídos e adequada para a Web.
 
-Item. 15. UFF / UFF - 2009) No tocante ao protocolo de transferência de
+15. UFF / UFF - 2009) No tocante ao protocolo de transferência de
 hipertexto (HTTP), esse
 protocolo da categoria "solicitação e resposta" possui três métodos de solicitação. São eles:
 
@@ -7094,7 +6953,7 @@ d) PUT, GETe INIT;
 
 e) PUSH, POSTeHEAD.
 
-Item. 16. (CESGRANRIO / PETROBRÁS - 2008) A interoperabilidade entre aplicações nos dias
+16. (CESGRANRIO / PETROBRÁS - 2008) A interoperabilidade entre aplicações nos dias
 atuais é
 fortemente baseada no uso de web services. Duas abordagens arquiteturais distintas para
 o
@@ -7110,7 +6969,6 @@ d) SGML e HTML
 
 e) B2B e B2C
 
-
 i7.(CESGRANRIO / REFAP-ES - 2007) O estilo arquitetural REST (Representational State
 Transfer) para WEB tem como característica:
 
@@ -7124,24 +6982,22 @@ d) usar SOAP para interoperabilidade entre sistemas heterogêneos.
 
 e) utilizar os métodos HTTP: GET, POST, PUT e DELETE.
 
-
 GABARITo
 
-Item. 1. LETRAC 7- LETRA C
+1. LETRAC 7- LETRA C
 13- LETRA E
 
-Item. 2. LETRA D 8. LETRA A
-Item. 14. CORRETO
+2. LETRA D 8. LETRA A
+14. CORRETO
 
 3- LETRA A 9- LETRAC
 15- LETRAC
 
 4- LETRAC 10. LETRA E
-Item. 16. LETRA A
+16. LETRA A
 
 5- LETRA D íi. LETRA B
 17- LETRA E
 
-Item. 6. LETRA D 12. LETRA B
-
+6. LETRA D 12. LETRA B
 

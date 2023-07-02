@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Scrum.
-
+# Engenharia de Software e Sistemas - Scrum.
 
 Índice
 
@@ -34,7 +33,6 @@ Capítulo. Engenharia de Software e Sistemas - Scrum.
 15) Lista de Questões - Metodologias Ágeis - Scrum - FGV
 
 16) Lista de Questões - Metodologias Ágeis - Scrum - Diversas
-
 
 APRESENTAçÃo
 
@@ -73,7 +71,6 @@ Além disso, essas faixas não são por banca - é baseado tanto na quantidade d
 que caiu em
 prova independentemente da banca e também em minhas avaliações sobre cada assunto...
 
-
 #ATENÇÃO
 
 Avisos
@@ -111,7 +108,6 @@ assunto previamente administrado. A imensa maioria das questões para
 que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
 completos, abrangentes e direcionados.
-
 
 Conceitos Básicos
 
@@ -192,7 +188,6 @@ produto e técnicas de trabalho, de modo que você possa continuamente melhorar 
 produto, 0 time e 0 ambiente de
 trabalho.
 
-
 Oframework Scrum consiste de times Scrum associados a papéis, eventos, artefatos e regras. Cada
 componente dentro
 doframework serve a um propósito específico e é essencial para o uso e sucesso do Scrum. As regras
@@ -211,13 +206,13 @@ problemas complexos.
 
 Em suma, Scrum requer um Scrum Master para promover um ambiente onde:
 
-Item. 1. Um Product Owner ordena 0 trabalho para um problema complexo em um Product Backlog.
+1. Um Product Owner ordena 0 trabalho para um problema complexo em um Product Backlog.
 
-Item. 2. O Scrum Team transforma uma seleção do trabalho em um incremento de valor durante uma Sprint.
+2. O Scrum Team transforma uma seleção do trabalho em um incremento de valor durante uma Sprint.
 
-Item. 3. O Scrum Team e seus stakeholders inspecionam os resultados e se ajustam para a próxima Sprint.
+3. O Scrum Team e seus stakeholders inspecionam os resultados e se ajustam para a próxima Sprint.
 
-Item. 4. Repita
+4. Repita
 
 Em primeiro lugar, percebam que ele é um framework - isso significa dizer que ele
 agrega
@@ -268,7 +263,6 @@ complexidades ambientais e suas
 interações têm aumentado rapidamente, a utilidade do Scrum em lidar com a complexidade é provada
 diariamente.
 
-
 Scrum demonstra efetividade especialmente na transferência de conhecimento iterativo e
 incremental. Scrum é agora
 amplamente usado para produtos, serviços e no gerenciamento da própria empresa. A essência do Scrum
@@ -312,7 +306,6 @@ constantemente.
 
 YíÁCríCAS
 
-
 LAóTÍCo
 
 ©
@@ -322,7 +315,6 @@ PRÚTÍCA5
 ©
 
 [h£JO£ES FizÁcrícAs]
-
 
 Diego, o que seria exatamente um ambiente complexo? Existe uma coisa chamada Modelo
 Cynefin
@@ -350,7 +342,6 @@ abordagem
 iterativa e incremental (maximizando as oportunidades defeedback') para aperfeiçoar a
 previsão e
 controle de riscos.
-
 
 Pilares Fundamentais
 
@@ -410,7 +401,6 @@ que inspecionam 0 incremento
 resultado do trabalho devem compartilhar uma definição comum de "Pronto".
 
 [Guia Scrum - Versão 2020]
-
 
 O processo emergente e o trabalho devem ser visíveis tanto para quem executa o trabalho quanto para
 quem recebe o
@@ -473,7 +463,6 @@ vez de
 evitar mudanças.
 
 [Guia Scrum - Versão 2017]
-
 
 Se um inspetor determina que um ou mais aspectos de um processo desviou para fora
 dos limites aceitáveis, e que o
@@ -547,7 +536,6 @@ a
 qualidade do produto.
 
 ADAPTAÇÃO O projeto deve ser capaz de se adaptar o projeto às necessidades de negócio.
-
 
 Principais Valores
 
@@ -663,7 +651,6 @@ Comentários: a questão mistura valores (Foco, Abertura, Coragem, Comprometimen
 pilares (Transparência,
 Inspeção e Adaptação) (Letra E).
 
-
 Papéis
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -719,7 +706,6 @@ Master, um Product Owner e Developers. Dentro de um Scrum Team, não há sub-tim
 uma unidade
 coesa de profissionais focados em um objetivo de cada vez, a Meta do Produto. Os Scrum Teams são
 multifuncionais, 0
-
 
 que significa que os membros possuem todas as habilidades necessárias para criar valor a cada
 Sprint. Eles também são
@@ -788,7 +774,6 @@ e) Product Backlog, o Time de Desenvolvimento e o Scrum Sprint
 Comentários: o Time Scrum é formado pelo Product Ownerz Time de Desenvolvimento (Desenvolvedores)
 e Scrum Master
 (Letra D).
-
 
 Product Owner (PO)
 
@@ -864,7 +849,6 @@ requerimentos.
 
 [Guia Scrum - Versão 2020]
 
-
 O Product Owner é responsável por maximizar o valor do produto resultante do trabalho do Scrum
 Team. A forma como
 isso é feito pode variar amplamente entre organizações, Scrum Teams e indivíduos. O
@@ -926,7 +910,6 @@ Comentários: o papel responsável por maximizar 0 valor do produto e do
 trabalho do time de desenvolvimento
 (desenvolvedores), além de ser a pessoa responsável porgerenciaro Backlog do Produto é 0 Product
 Owner (Letra A).
-
 
 Developers (DV)
 
@@ -997,7 +980,6 @@ Os desenvolvedores não contêm sub-times dedicados a domínios específicos de 
 tais c
 teste ou análise de negócios.
 
-
 Os desenvolvedores são estruturados e autorizados pela organização para organizar e gerenciar
 próprio trabalho.
 
@@ -1059,7 +1041,6 @@ e) time de desenvolvimento, ao Scrum master e ao product owner, em conjunto.
 Comentários: a criação e a estimação de tarefas cabem ao Time de Desenvolvimento ou Desenvolvedores
 (Letra C).
 
-
 Scrum Master (SM)
 
 O Scrum Master é responsável por garantir que o Scrum seja entendido e aplicado! Ele
@@ -1087,7 +1068,6 @@ pela Equipe
 Scrum.
 
 Ele é responsável por orientar o Product Owner na criação e ordenação do Product Backlog.
-
 
 GO QC
 
@@ -1136,7 +1116,6 @@ criado pelo Time Scrum.
 O Scrum Master trabalhando para o Product Owner
 
 O Scrum Master serve 0 Product Owner de várias maneiras, incluindo:
-
 
 * Garantindo que objetivos, escopo e domínio do produto sejam entendidos o melhor possível por
 todos do Time Scrum.
@@ -1221,7 +1200,6 @@ Backlog;
 
 * Facilitar a colaboração dos stakeholder, conforme solicitado ou necessário.
 
-
 O Scrum Master serve a organização de várias maneiras, incluindo:
 
 * Liderar, treinar e orientar a organização na adoção do Scrum;
@@ -1293,7 +1271,6 @@ sendo também o responsável pelo que será entregue. A Equipe de Pedreiros resp
 você!
 Até o Mestre de Obras responde somente a você! Viu a sua importância?
 
-
 Você é o cara que tem que tentarfazer essa casa ficar da melhorforma possível-com
 máximo valor
 agregado. Você é o cara que vai priorizar o que deve ser feito primeiro; você é o cara que coloca
@@ -1353,7 +1330,6 @@ d) Scrum Project Manager.
 
 Comentários: esse é 0 papel do Scrum Master (Letra B).
 
-
 Artefatos
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -1391,7 +1367,6 @@ Team, e seus stakeholders.
 
 Product Backlog
 
-
 PRODUCTBACKLOG
 
 Trata-se de uma lista ordenada (porvalor, risco, prioridade, entre outros) de requisitos
@@ -1417,7 +1392,6 @@ enquanto o produto também existir. Por que? Porque sempre haverá novos requisi
 1 Apesar de o Scrum Team (PO, SM, DV) ser o responsável pela criação do Product Backlog, o
 responsável pelo artefato e o único que pode priorizar
 suas funcionalidades é o Product Owner.
-
 
 necessidades e mudanças a serem incorporadas. Logo, trata-se de um artefato vivo -
 sempre em
@@ -1462,7 +1436,6 @@ removidos. É claro que, durante o andamento do projeto, algumas funcionalidades
 acabar
 perdendo a importância - não importando sob que circunstâncias isso ocorreu.
 
-
 Backlog do Produto: Twitter
 Login de usuários já cadastrados
 Cadastrar novo usuário
@@ -1499,7 +1472,6 @@ usuário diferentes que eu desejo que sejam
 implementadas na minha aplicação. Legal, mas quando
 eu sei quando um desses itens pode realmente ser
 considerado pronto (também chamado ready)?
-
 
 Para que um item possa ser incluído em uma sprint, ele deve ser pequeno o suficiente para que caiba
 em uma única sprint e deve deixar tudo claro e transparente quanto à expectativa do
@@ -1580,7 +1552,6 @@ nos detalhes dos
 itens do Backlog do Produto. Durante 0 refinamento do Backlog do Produto, os itens são
 inspecionados e revisados. O
 
-
 Time de Scrum decide como e quando o refinamento está "Pronto". Este refinamento usualmente não
 consome mais de
 io°/o da capacidade do Time de Desenvolvimento.
@@ -1659,7 +1630,6 @@ Meta do Produto é 0
 objetivo de longo prazo para 0 Scrum Team. Eles devem cumprir (ou abandonar) um objetivo antes de
 assumir 0 próximo.
 
-
 (TRT7 - 2017) Assinale a opção que apresenta o termo no qual constam as solicitações
 de melhorias e novas funcionalidades do software no método Scrum:
 
@@ -1710,9 +1680,7 @@ Comentários: as funcionalidades a serem implementadas, na forma de histórias d
 usuários, são mantidas em uma lista
 ordenada chamada de Product Backlog (Letra A).
 
-
 Sprint Backlog
-
 
 SPRINT BACKLOG
 
@@ -1783,7 +1751,6 @@ META DA SPRINT: USUÁRIOS PODERÃO ESTAR N0 TWITTER
 
 Ativar login com usuário GMail Montar layout do box de login
 
-
 Login de usuários
 já cadastrados
 
@@ -1801,7 +1768,6 @@ Inserir hint explicativo de funcionamento
 (...)
 
 Estruturar persistência
-
 
 Cadastrar
 novo usuário
@@ -1863,7 +1829,6 @@ a Sprint, 0 Time de
 Desenvolvimento pode gerenciar 0 seu progresso.
 
 [Guia Scrum - Versão 2020]
-
 
 O Sprint Backlog é composto pela Meta da Sprint (por que), o conjunto de itens do Product Backlog
 selecionados para a
@@ -1930,9 +1895,7 @@ que 0 compromisso de fazer essa lista de tarefas é da Equipe de Desenvolvimento
 Desenvolvedores [Versão
 2020] - não se trata de um compromisso do Scrum Team (Letra B).
 
-
 Product Increment
-
 
 PRODUCTINCREMENT
 
@@ -2007,7 +1970,6 @@ do tempo. Sempre lembrando que o Definition of Ready é opcional, já o Definiti
 Done é
 obrigatório. Compreenderam?
 
-
 Por fim, é interessante mencionar outros artefatos que não estão explícitos no guia
 como o Gráfico
 
@@ -2018,7 +1980,6 @@ quantidade
 restante estimada de trabalho. Via de regra, as unidades utilizadas são de esforço (em
 horas)
 planejado pelo tempo decorrido.
-
 
 Esse gráfico ajuda os gestores a acompanharem o andamento da equipe em projetos,
 considerando
@@ -2077,7 +2038,6 @@ a mesma Definição de
 
 Pronto.
 
-
 Eventos
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -2122,7 +2082,6 @@ você já
 possa utilizar na sua casa. Nos primeiros quinze dias, ele deve entregar os armários
 do banheiro
 prontinhos para você utilizar.
-
 
 Nos próximos quinze dias, ele deve entregar os armários da área de serviço também
 prontos para
@@ -2191,7 +2150,6 @@ Por falar em
 planejamento da sprint, vamos falar agora sobre os eventos. Porque eu fiz essa pausa
 para falar um
 pouco mais sobre as sprints?
-
 
 Porque os quatro eventos que serão detalhados a seguir compõem uma sprint - além, é
 claro, do
@@ -2273,7 +2231,6 @@ colocados de volta no Backlog do Produto. O trabalho feito se deprecia rapidamen
 deve ser frequentemente
 reestimado.
 
-
 O cancelamento de Sprints consome recursos, já que todos se reagrupam em outro planejamento da
 Sprint para iniciar
 outra Sprint. Cancelamentos de Sprints são frequentemente traumáticos para o Time Scrum, e são
@@ -2336,7 +2293,6 @@ diária.
 Comentários: a questão está correta, mas eu enfatizaria que time-boxes são tempos de duração máxima
 fixa (Correto).
 
-
 Sprint Planning
 
 O trabalho a ser realizado na Sprint é planejado na Reunião de Planejamento da
@@ -2349,9 +2305,9 @@ duração é menor. O Scrum Master garante que o evento ocorra e que os particip
 entendam
 seu propósito. Ela consiste em duas partes e devem responder adequadamente as perguntas:
 
-Item. 1.0 QUE SERÁ ENTREGUE COMO RESULTADO DO INCREMENTO DA PRÓXIMA SPRINT?
+1.0 QUE SERÁ ENTREGUE COMO RESULTADO DO INCREMENTO DA PRÓXIMA SPRINT?
 
-Item. 2. COMO 0 TRABALHO NECESSÁRIO PARA ENTREGAR 0 INCREMENTO SERÁ REALIZADO?
+2. COMO 0 TRABALHO NECESSÁRIO PARA ENTREGAR 0 INCREMENTO SERÁ REALIZADO?
 
 Na primeira parte, os desenvolvedores tentam prever as funcionalidades
 que serão
@@ -2400,7 +2356,6 @@ Planning Poker, que não está no guia oficial, mas que é frequentemente utiliz
 1 Há uma polêmica danada: alguns afirmam que ela estima complexidade e, não, esforço;
 outros dizem que é uma combinação de complexidade,
 esforço, risco, etc.
-
 
 estimar esforço como para estimar tamanho. Essa técnica busca uma abordagem dinâmica e
 divertida na estimativa de Histórias de Usuário, e elimina a influência que um
@@ -2473,7 +2428,6 @@ projeto que
 tenha um certo nível de complexidade. Finalmente, estudos mostram que a média de
 estimativas
 individuais levam a melhores resultados, uma vez que promovem discussões em grupo.
-
 
 Estas discussões em grupo são a base do Planning Poker e elas conduzem a um consenso
 entre os
@@ -2626,7 +2580,6 @@ itens mais importantes do Product Backlog e como eles são mapeados para a Meta 
 
 Team também pode convidar outras pessoas para participar da Sprint Planning parafornecer conselhos.
 
-
 A Sprint Planning aborda os seguintes tópicos:
 
 Tópico um: Por que esta Sprint é valiosa?
@@ -2690,7 +2643,6 @@ de esforço; (c) Correto; (d) Errado, se ainda está no planejamento, a sprint n
 Errado, os desenvolvedores
 também participam da reunião de planejamento (Letra C).
 
-
 Daily Scrum
 
 A Reunião Diária (15 minutos) é um evento que busca criar um plano para as próximas 24 horas
@@ -2722,9 +2674,9 @@ nós utilizávamos ambos: perguntas e discussões. Bem, aqui segue um exemplo do
 ser
 utilizado:
 
-Item. 1.0 QUE EU FIZ ONTEM QUE AJUDOU 0 OS DESENVOLVEDORES A ATENDEREM A META DA SPRINT?
+1.0 QUE EU FIZ ONTEM QUE AJUDOU 0 OS DESENVOLVEDORES A ATENDEREM A META DA SPRINT?
 
-Item. 3. EU VEJO ALGUM OBSTÁCULO QUE IMPEÇA A MIM OU AOS DESENVOLVEDORES NO ATENDIMENTO DA META DA
+3. EU VEJO ALGUM OBSTÁCULO QUE IMPEÇA A MIM OU AOS DESENVOLVEDORES NO ATENDIMENTO DA META DA
 SPRINT?
 
 As Reuniões Diárias melhoram a comunicação entre os integrantes, eliminam a necessidade
@@ -2748,7 +2700,6 @@ otimiza a colaboração e a performance do time através da inspeção do trabal
 previsão do próximo trabalho da Sprint. A Reunião Diária é mantida no mesmo horário e
 local todo dia para reduzir a
 complexidade.
-
 
 O Time de Desenvolvimento usa a Reunião Diária para inspecionar o progresso em direção ao objetivo
 da Sprint e para
@@ -2823,7 +2774,6 @@ a) 15 minutos b)ihora c) 30 minutos d) 2 horas e) 45 minutos
 
 Comentários: 0 time-box da reunião diária é de 15 minutos (Letra A).
 
-
 Sprint Review
 
 No final da sprint, ocorre a Revisão da Sprint (Proporcional a 4 horas). Embora seja utilizada para
@@ -2875,7 +2825,6 @@ estes problemas foram resolvidos;
 
 * O Time de Desenvolvimento demonstra 0 trabalho que está "Pronto"e responde as questões sobre 0
 incremento;
-
 
 * O Product Owner discute o Backlog do Produto tal como está. Ele (ou ela) projeta os prováveis
 alvos e datas de entrega
@@ -2937,7 +2886,6 @@ e) de Planejamento da Sprint.
 Comentários: a questão trata da revisão da sprint, que é executada no final para inspecionar 0
 incremento e adaptar 0 Backlog
 do Produto, se necessário (Letra A).
-
 
 Sprint Retrospective
 
@@ -3012,7 +2960,6 @@ de viagens com roteiros predefinidos e burocráticos, nosso produto elabora traj
 personalizados e
 adaptáveis".
 
-
 Clevator Pitch. s&aVnce,
 SVu.ctu.re:
 
@@ -3055,20 +3002,19 @@ sprints à frente. Por fim, é salutar enfatizar que o ciclo de vida do nosso
 framework é baseado em
 três fases principais:
 
-Item. 1. PRÉ-PLANEJAMENTO (PRE-GAME PHASE)
+1. PRÉ-PLANEJAMENTO (PRE-GAME PHASE)
 
 Define o sistema sendo desenvolvido. Cria-se o Product Backlog, que contém os
 requisitos atuais e
 informações sobre o planejamento do projeto. Cria-se também uma arquitetura de alto nível.
 
-Item. 2. DESENVOLVIMENTO (GAME PHASE)
-
+2. DESENVOLVIMENTO (GAME PHASE)
 
 O sistema é desenvolvido em sprints, por meio de uma abordagem iterativa. A cada
 sprint, novas
 funcionalidades são adicionadas de modo tradicional, i.e., análise, projeto, implementação, etc.
 
-Item. 3. PÓS-PLANEJAMENTO (POST-GAME PHASE)
+3. PÓS-PLANEJAMENTO (POST-GAME PHASE)
 
 Após o desenvolvimento, são feitas reuniões para analisar o progresso do projeto e
 demonstrar o
@@ -3137,7 +3083,6 @@ Retrospective conclui a Sprint. É limitada pelo Timebox de no máximo três hor
 um mês. Para Sprints
 mais curtas, 0 evento geralmente é mais curto.
 
-
 (SINESP-2O15) No Scrum, o evento que ocorre no final da sprint que serve para a equipe
 examinar a sprint passada e planejar melhorias é conhecido como:
 
@@ -3174,7 +3119,6 @@ analisar se o
 processo foi efetivamente utilizado e se há alguma sugestão de melhoria. Porfim, essas
 melhorias
 servem de entrada para a próxima reunião de planejamento. Fechou?
-
 
 Novidades do Scrum
 
@@ -3226,7 +3170,6 @@ autores utilizaram e que passou a ser visto e aplicado como regra.
 Por essa razão, eles resolveram remover as perguntas por completo para que não fossem
 mais
 interpretadas incorretamente e gerassem uma disfunção nos Times Scrum.
-
 
 ARTEFATOS E COMPROMISSOS
 
@@ -3371,7 +3314,6 @@ fazer-o que acaba gerando produtos inúteis e promovendo o desperdício (o que n
 preconizado
 pelo lean thinking) portoda a organização.
 
-
 AUTO-ORGANIZÁVEL AUTO-GERENCIÁVEL
 
 Houve uma mudança de termos: saiu o "auto-organizável" e entrou o
@@ -3400,7 +3342,6 @@ compartilhar a mesma Meta do Produto, Product Backlog e Product Owner. No entant
 apenas
 um PO deve ser considerado, além do mesmo Backlog do Produto e Meta do Produto.
 
-
 RESUMo
 
 [Guia Scrum - Versão 2017]
@@ -3426,7 +3367,6 @@ envolvidas no projeto.
 INSPEÇÃO Todo trabalho deve ser inspecionado com a frequência necessária para garantir
 a
 qualidade do produto.
-
 
 ADAPTAÇÃO
 
@@ -3457,7 +3397,6 @@ O Time Scrum e seus Stakeholders
 concordam em estarem abertos a todo
 0 trabalho c aos desafios com
 a execução dos trabalhos
-
 
 VALORES | DESCRIÇÃO
 
@@ -3496,7 +3435,6 @@ Scrum.
 
 Ele é responsável por orientar o Product Owner na criação e ordenação do Product Backlog.
 
-
 GO QC
 
 LU GD
@@ -3526,7 +3464,6 @@ não é totalmente
 adotado e compreendido.
 
 Ele ensina a Equipe Scrum a criar itens do Product Backlog de forma clara e concisa.
-
 
 Ele comunica claramente a visão, objetivo e itens do Product Backlog para os desenvolvedores.
 
@@ -3581,7 +3518,6 @@ Ele é responsável por garantir que os desenvolvedores entendam os itens do Pro
 Backlog no nív
 necessário.
 
-
 PRODUCT BACKLOG
 
 SPRINT BACKLOG
@@ -3600,7 +3536,6 @@ Trata-se da é da soma de todos os itens do Backlog do Produto completados duran
 a Sprint e o valor dos incrementos de todas as sprints anteriores-sendo validado como
 "pronto".
 
-
 DEFINIÇÃO DE READY
 DEFINIÇÃO DE DONE
 
@@ -3609,7 +3544,6 @@ requisito começara ser desenvolvido.
 
 Conjunto de critérios que indicam que uma determinada história de usuário atende a
 todos os requisitos de aceitação para se tornar um incremento.
-
 
 SPRINT PLANNING
 
@@ -3638,7 +3572,6 @@ validar 0 produto, a equipe busca revisar e validar 0 processo executado para ge
 funcionalidades. A ideia é planejar maneiras de aumentara qualidade e efetividade do
 processo.
 
-
 Scrum Artifacts
 
 Ç Product Backlog
@@ -3655,7 +3588,6 @@ Sprint Review J
 C Sprint Retrospective J
 
 1 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
-
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -3677,7 +3609,7 @@ Sprints.
 
 Gabarito: Correto
 
-Item. 2. (CESPE / BANRISUL - 2022) A metodologia Lean apresenta uma proposta para aumento de
+2. (CESPE / BANRISUL - 2022) A metodologia Lean apresenta uma proposta para aumento de
 produtividade e eficiência com foco em eliminação de desperdícios.
 
 Comentários:
@@ -3696,7 +3628,7 @@ aumentar a qualidade dos produtos e serviços e melhorar os resultados da empres
 
 Gabarito: Correto
 
-Item. 3. (CESPE / BANRISUL - 2022) A Sprint pode ser considerada o núcleo do Scrum, pois
+3. (CESPE / BANRISUL - 2022) A Sprint pode ser considerada o núcleo do Scrum, pois
 é nesse
 período que são executados eventos como: reunião de planejamento da Sprint, reunião
 diária,
@@ -3713,7 +3645,6 @@ desenvolvimento, uma
 revisão da Sprint e a retrospectiva da Sprint.
 
 Gabarito: Correto
-
 
 4- (CESPE / BANRISUL - 2022) A equipe de desenvolvimento é responsável por
 controlar e
@@ -3733,7 +3664,7 @@ não tem permissão para agir sobre o que outras pessoas disserem.
 
 Gabarito: Errado
 
-Item. 5. (CESPE/ BANRISUL-2022) Um ponto fundamental do Scrum é o conceito de equipe que
+5. (CESPE/ BANRISUL-2022) Um ponto fundamental do Scrum é o conceito de equipe que
 deve
 ser seguido, principalmente quando se refere a equipes multifuncionais ou
 multidisciplinares,
@@ -3747,7 +3678,7 @@ desenvolvimento.
 
 Gabarito: Errado
 
-Item. 6. (CESPE / BANRISUL - 2022) No Scrum, a definição de pronto é considerada o
+6. (CESPE / BANRISUL - 2022) No Scrum, a definição de pronto é considerada o
 compromisso a
 ser alcançado pelo sprint backlog, ao término da execução com sucesso da sprint.
 
@@ -3759,7 +3690,7 @@ Definição de Pronto
 
 Gabarito: Errado
 
-Item. 7. (CESPE / BANRISUL - 2022) O sprint backlog é formado unicamente dos itens do
+7. (CESPE / BANRISUL - 2022) O sprint backlog é formado unicamente dos itens do
 product
 backlog selecionados para a sprint e da meta da sprint.
 
@@ -3771,8 +3702,7 @@ juntamente com o plano para entregar o incremento do produto e atingir o objetiv
 
 Gabarito: Errado
 
-
-Item. 8. (CESPE / BANRISUL - 2022) Scrum baseia-se no empirismo, que afirma que o
+8. (CESPE / BANRISUL - 2022) Scrum baseia-se no empirismo, que afirma que o
 conhecimento
 decorre da experiência e da tomada de decisões com base no que é observado, assim
 como do
@@ -3790,7 +3720,7 @@ abordagem iterativa e incremental para aperfeiçoar a previsibilidade e o contro
 
 Gabarito: Correto
 
-Item. 9. (CESPE / BANRISUL - 2022) Sprint é uma lista de requisitos organizados por
+9. (CESPE / BANRISUL - 2022) Sprint é uma lista de requisitos organizados por
 funcionalidades
 priorizadas, cujos itens podem ser adicionados a qualquer momento, exceto
 durante sua
@@ -3887,7 +3817,6 @@ pronto.
 
 Comentários:
 
-
 Para cada item do Product Backlog selecionado, os Developers planejam otrabalho
 necessário para
 criar um Incremento que atenda à Definição de Pronto. Isso geralmente é feito
@@ -3934,7 +3863,7 @@ edital.
 
 Gabarito: Anulado
 
-Item. 17. (CESPE/ BANRISUL-2022) Daily scrum é um evento de quinze minutos, realizado
+17. (CESPE/ BANRISUL-2022) Daily scrum é um evento de quinze minutos, realizado
 diariamente
 no mesmo horário e local, do qual não participam o product owner e o scrum master.
 
@@ -3999,7 +3928,6 @@ pode servir como um alvo para o Scrum Team planejar.
 
 Gabarito: Errado
 
-
 22.(CESPE / MPC-SC - 2022) O Sprint Backlog é uma lista ordenada que inclui o que é
 necessário
 para melhorar o produto, sendo, juntamente com o Product Backlog, a fonte
@@ -4054,7 +3982,6 @@ De acordo com o guia: "Uma Sprint pode ser cancelada se a Meta da Sprint se torn
 o Product Owner tem autoridade para cancelar a Sprint".
 
 Gabarito: Errado
-
 
 26.(CESPE / BANRISUL - 2022) A sprint planning é uma cerimônia na qual o product
 owner e os
@@ -4168,7 +4095,6 @@ assim como um projeto curto.
 
 Comentários:
 
-
 O conceito de sprint tem origem no SCRUM, e não no RUP.
 
 Gabarito: Errado
@@ -4193,11 +4119,10 @@ longa, de 3 horas.
 
 Gabarito: Correto
 
-Item. 33. (CESPE / Petrobrás - 2022) O Scrum usa um conjunto de "padrões de processo de
+33. (CESPE / Petrobrás - 2022) O Scrum usa um conjunto de "padrões de processo de
 software",
 que são adequados para projetos com prazos apertados e requisitos que mudam
 frequentemente.
-
 
 Comentários:
 
@@ -4221,7 +4146,6 @@ Comentários:
 Na verdade, o product backlog é definido na fase de pré-planejamento.
 
 Gabarito: Errado
-
 
 35-(CESPE / FUNPRESP-EXE - 2022) No desenvolvimento de software ágil com base
 em
@@ -4282,7 +4206,6 @@ b) daily.
 
 c) backlog.
 
-
 d) retrospectiv.
 
 e) planning.
@@ -4299,7 +4222,7 @@ processos e às ferramentas.
 
 Gabarito: Letra D
 
-Item. 39. (CESPE/TJ-RJ - 2021) A metodologia Scrum estabelece vários papéis a serem
+39. (CESPE/TJ-RJ - 2021) A metodologia Scrum estabelece vários papéis a serem
 desempenhados
 pelo time; o responsável por controlar o progresso do desenvolvimento do
 projeto e ser o
@@ -4325,7 +4248,7 @@ maneira de medir o progresso de uma Sprint no Scrum.
 
 Gabarito: Letra B
 
-Item. 40. (CESPE / TELEBRÁS - 2021) Ao se usar a metodologia Scrum, recomenda-se que, ao
+40. (CESPE / TELEBRÁS - 2021) Ao se usar a metodologia Scrum, recomenda-se que, ao
 final do
 sprint, ocorra uma reunião (sprint review) em que a equipe Scrum e todas as partes
 interessadas
@@ -4346,7 +4269,6 @@ aprimorar o produto. Além disso, essa reunião deve ocorrer - preferencialmente
 informal.
 
 Gabarito: Correto
-
 
 4i.(CESPE / TELEBRÁS - 2021) Em Scrum, na Sprint planning, o product owner seleciona
 os itens
@@ -4405,7 +4327,6 @@ projeto,
 codificação e testes, as quais normalmente são repetidas iteração a iteração.
 
 Comentários:
-
 
 Scrum é composto por Planejamento da Sprint, Execução da Sprint, Reunião Diária,
 Revisão da
@@ -4466,7 +4387,6 @@ mesmo apresentado na Sprint Review. Em vez disso, ele retorna ao Product
 Backlog para
 consideração futura.
 
-
 Gabarito: Letra A
 
 48.(CESPE / APEX-BRASIL - 2021) No Scrum, cada artefato tem um compromisso, para
@@ -4526,7 +4446,6 @@ algum item seja retirado - lembrando aqui do princípio da transparência.
 
 Gabarito: Correto
 
-
 5i.(CESPE / Ministério da Economia - 2020) O Scrum Master é diretamente
 responsável por
 manter e priorizar o backlog do produto, além de colaborar com o time de desenvolvimento.
@@ -4545,7 +4464,7 @@ transparente, visível e compreensível.
 
 Gabarito: Errado
 
-Item. 52. (CESPE / Ministério da Economia - 2020) Um dos artefatos do Scrum, o backlog do
+52. (CESPE / Ministério da Economia - 2020) Um dos artefatos do Scrum, o backlog do
 produto é
 gerenciado, exclusivamente, pelo dono do produto e representa o conteúdo, a
 disponibilidade
@@ -4566,7 +4485,7 @@ ordenação e requisitos de mudança.
 
 Gabarito: Correto
 
-Item. 53. (CESPE / Ministério da Economia - 2020) Sprint é o ciclo de desenvolvimento de
+53. (CESPE / Ministério da Economia - 2020) Sprint é o ciclo de desenvolvimento de
 poucas
 semanas sobre o qual se estrutura o Scrum e durante o qual cabe ao scrum master
 manter
@@ -4588,7 +4507,6 @@ uso de um gráfico de Burndown, no qual é possível visualizar a expectativa de
 produtividade
 ideal do projeto e comparar com a produtividade real.
 
-
 Comentários:
 
 Perfeito! O Gráfico de Burndown torna visível a evolução diária do trabalho
@@ -4601,7 +4519,7 @@ visualizar a expectativa de produtividade ideal do projeto e comparar com a prod
 
 Gabarito: Correto
 
-Item. 55. (CESPE / Ministério da Economia - 2020) Backlog da sprint é diferente do backlog
+55. (CESPE / Ministério da Economia - 2020) Backlog da sprint é diferente do backlog
 do produto,
 já que o primeiro é um conjunto de itens selecionados a partir do segundo, sendo
 parte do
@@ -4633,7 +4551,7 @@ pequenos requisitos ou solicitações de um projeto sob a perspectiva do usuári
 
 Gabarito: Correto
 
-Item. 57. (CESPE / Ministério da Economia - 2020) Pequenas partes do trabalho com a
+57. (CESPE / Ministério da Economia - 2020) Pequenas partes do trabalho com a
 perspectiva do
 patrocinador são artefatos denominados Epics.
 
@@ -4646,7 +4564,6 @@ duas ou mais
 histórias de tamanho menor. Não há nenhuma relação com pequenas partes de trabalho com
 a
 perspectiva do patrocinados - são grandes histórias de usuário sob a perspectiva do usuário.
-
 
 Gabarito: Errado
 
@@ -4704,7 +4621,6 @@ ocorrência de alterações posteriores.
 
 Comentários:
 
-
 (a) Errado. Times de Desenvolvimento e Time Scrum são diferentes - o primeiro está
 contido no
 segundo. Eles são, de fato, auto-organizáveis, mas o responsável por gerenciar
@@ -4721,7 +4637,7 @@ completo e o restante da questão também não faz sentido algum.
 
 Gabarito: Letra C
 
-Item. 61. (CESPE / MPC-PA-2019) A gestão ágil é uma das tendências nos projetos de
+61. (CESPE / MPC-PA-2019) A gestão ágil é uma das tendências nos projetos de
 desenvolvimento
 de software. O backlog é um dos artefatos que auxiliam na organização do projeto, em
 especial
@@ -4757,7 +4673,7 @@ progresso; (e) Correto.
 
 Gabarito: Letra E
 
-Item. 62. (CESPE / FUB - 2018) No método Scrum, ao final de cada período de duas a quatro
+62. (CESPE / FUB - 2018) No método Scrum, ao final de cada período de duas a quatro
 semanas de
 um Sprint backlog, pode-se planejar uma entrega periódica ao cliente.
 
@@ -4770,7 +4686,6 @@ redação correta da
 questão seria: No método Scrum, ao final de cada período de duas a quatro semanas de
 um Sprint
 backlog, pode-se planejar realizar uma entrega periódica ao cliente.
-
 
 Gabarito: Errado
 
@@ -4816,7 +4731,7 @@ verificamos empiricamente.
 
 Gabarito: Errado
 
-Item. 66. (CESPE /TCE-RO - 2013) Na metodologia Scrum, a equipe trabalha nos processos e
+66. (CESPE /TCE-RO - 2013) Na metodologia Scrum, a equipe trabalha nos processos e
 não há
 cargos na equipe. Como um dos papéis necessários, o Scrum Master deve
 garantir que o
@@ -4825,7 +4740,6 @@ processo seja entendido e atuar como facilitador para ajudar a equipe.
 Comentários:
 
 Perfeito! Lembrem-se de que não há cargos, mas papéis ou responsabilidades!
-
 
 Gabarito: Correto
 
@@ -4845,7 +4759,7 @@ também nunca estará completo - lembrem-se que ele é um organismo vivo.
 
 Gabarito: Errado
 
-Item. 68. (CESPE / BASA - 2012) O escopo, a importância e a estimativa de um Sprint
+68. (CESPE / BASA - 2012) O escopo, a importância e a estimativa de um Sprint
 do Scrum são
 definidos pelo Product Owner.
 
@@ -4859,7 +4773,7 @@ Product Owner, no entanto quem define as estimativas é a Equipe de Desenvolvime
 
 Gabarito: Errado
 
-Item. 69. (CESPE / BASA - 2012) A metodologia Scrum, ágil para gerência de projetos,
+69. (CESPE / BASA - 2012) A metodologia Scrum, ágil para gerência de projetos,
 baseia-se em
 ciclos de 30 dias, denominados sprints, em que se trabalha para alcançar
 objetivos bem
@@ -4877,11 +4791,10 @@ ser alcançada.
 
 Gabarito: Correto
 
-Item. 70. (CESPE / ECT - 2011) Para que se obtenha sucesso na utilização do Scrum, o cliente deve se
+70. (CESPE / ECT - 2011) Para que se obtenha sucesso na utilização do Scrum, o cliente deve se
 tornar parte da equipe de desenvolvimento do software, participando diretamente do processo.
 
 Comentários:
-
 
 O cliente não se torna parte da equipe de desenvolvimento. Há - sim - uma forte
 integração, no
@@ -4891,7 +4804,7 @@ infelizmente a banca não entendeu dessa maneira :(
 
 Gabarito: Correto
 
-Item. 71. (CESPE / MEC - 2011) O framework scrum engloba conceitos como times scrum,
+71. (CESPE / MEC - 2011) O framework scrum engloba conceitos como times scrum,
 eventos com
 duração fixa (time-boxes), artefatos e regras. São exemplos de eventos que têm duração
 fixa: a
@@ -4909,7 +4822,7 @@ professor? Porque o conceito de time-box é aquilo que tem uma duração máxima
 
 Gabarito: Correto
 
-Item. 72. (CESPE / MEC 2011) Produto da metodologia Scrum, o documento product backlog
+72. (CESPE / MEC 2011) Produto da metodologia Scrum, o documento product backlog
 contém os
 requisitos definidos a partir da visão do cliente e é utilizado novamente no final do
 sprint para
@@ -4945,9 +4858,7 @@ nível) e a Sprint Backlog é um conjunto de tarefas que devem ser feitas
 para entregar um
 incremento potencialmente entregável (baixo nível).
 
-
 Gabarito: Errado
-
 
 QUESTõES CoMENTADAS - FCC
 
@@ -4988,7 +4899,7 @@ não é uma prática preconizada pelo Scrum.
 
 Gabarito: Letra C
 
-Item. 2. (FCC / TRF - 3a REGIÃO - 2019) SCRUM atende aos princípios do Manifesto Ágil porque:
+2. (FCC / TRF - 3a REGIÃO - 2019) SCRUM atende aos princípios do Manifesto Ágil porque:
 
 a) pessoas de negócio e desenvolvedores devem trabalhar diariamente em conjunto portodo
 o
@@ -5008,7 +4919,6 @@ e) não admite a comunicação direta entre os desenvolvedores, pessoalmente. Is
 ser
 feito por intermédio de um gerente ou coordenador.
 
-
 Comentários:
 
 (a) Correto, indivíduos e interações valorizam mais processos e ferramentas; (b) Errado,
@@ -5021,7 +4931,7 @@ frequentemente.
 
 Gabarito: Letra A
 
-Item. 3. (FCC /TRF - 3a REGIÃO -2019) A Reunião Diária do Scrum é:
+3. (FCC /TRF - 3a REGIÃO -2019) A Reunião Diária do Scrum é:
 
 a) executada no final da Sprint para inspecionar o incremento e adaptar o Backlog do
 Produto,
@@ -5051,7 +4961,7 @@ Sprint; (d) Correto; (e) Errado, ela dura 15 minutos e não busca definir os pro
 
 Gabarito: Letra D
 
-Item. 4. (FCC/TRF - 3a REGIÃO-2019) No roteiro SCRUM, de gerenciamento Ágil, a
+4. (FCC/TRF - 3a REGIÃO-2019) No roteiro SCRUM, de gerenciamento Ágil, a
 atividade que
 discute funcionalidades de modo a atualizar o que já foi feito, o que será feito e dificuldades é:
 
@@ -5069,7 +4979,6 @@ c) Sprint Goal resultado da negociação entre o time de desenvolvimento e o Pro
 Owner-
 PO reconhecido como necessidade(s) fundamental(ais) do cliente nesse momento.
 
-
 d) Daily Scrum, reunião que ocorre diariamente, durante 15 minutos, com todos
 participantes
 em pé, onde se atualiza a situação presente da Sprint sendo trabalhada.
@@ -5086,7 +4995,7 @@ Daily Scrum [Versão 2017].
 
 Gabarito: Letra D
 
-Item. 5. (FCC / SANASA Campinas - 2019) Um Analista de TI tem como tarefas ordenar os
+5. (FCC / SANASA Campinas - 2019) Um Analista de TI tem como tarefas ordenar os
 itens do
 Backlog do Produto visando o alcance das metas e missões do projeto, buscando garantir
 que o
@@ -5114,7 +5023,7 @@ Quem ordena os itens do Product Backlog é o Product Owner.
 
 Gabarito: Letra D
 
-Item. 6. (FCC / TRF - 4a REGIÃO - 2019) Uma Analista de TI está atuando como Product
+6. (FCC / TRF - 4a REGIÃO - 2019) Uma Analista de TI está atuando como Product
 Owner em um
 projeto Scrum. Ela está trabalhando na formulação de um acordo para definir quais são
 os
@@ -5127,7 +5036,6 @@ transparência e os padrões de qualidade estabelecidos entre eles. O acordo, de
 a) Scrum rules, integra os eventos, papéis e artefatos, administrando as relações
 e interações
 entre eles, e é criado na ia sessão do Sprint Review Meeting.
-
 
 b) incremento, pode evoluir normalmente ao longo do projeto, porém é recomendável que
 a
@@ -5170,7 +5078,7 @@ aderem à definição atual de "Pronto" do Time Scrum.
 
 Gabarito: Letra E
 
-Item. 7. (FCC/TJ-MA-2019) Um Analista Judiciário, no papel de Scrum Master, esclarece que:
+7. (FCC/TJ-MA-2019) Um Analista Judiciário, no papel de Scrum Master, esclarece que:
 
 a) o gerenciamento do Product Backlog não fica unicamente na responsabilidade do
 Product
@@ -5187,7 +5095,6 @@ requerido na Revisão da Sprint.
 
 d) o Scrum recomenda que haja apenas quatro subtimes no Development Team relativos aos
 domínios de conhecimento: teste, arquitetura, operação e análise de negócios.
-
 
 e) o Scrum Team consiste de profissionais que realizam o trabalho de entregar um incremento
 potencialmente liberável do produto "Pronto" no início de cada Sprint.
@@ -5212,7 +5119,7 @@ potencialmente liberável do produto "Pronto" ao final de cada Sprint.
 
 Gabarito: Letra C
 
-Item. 8. (FCC / SEGEP-MA- 2018) O Scrum prescreve quatro eventos formais, contidos
+8. (FCC / SEGEP-MA- 2018) O Scrum prescreve quatro eventos formais, contidos
 dentro dos
 limites da Sprint, para inspeção e adaptação. Dois desses eventos são:
 
@@ -5234,7 +5141,7 @@ diária e retrospectiva da sprint.
 
 Gabarito: Letra E
 
-Item. 9. (FCC /TRT-MG -2015) Com relação ao Scrum, considere:
+9. (FCC /TRT-MG -2015) Com relação ao Scrum, considere:
 
 I. O Product Owner, ou dono do produto, é responsável porgarantirque o Scrum seja
 entendido
@@ -5247,7 +5154,6 @@ do Time de
 Desenvolvimento. Como isso é feito pode variar amplamente nas organizações, Times Scrum
 e
 indivíduos.
-
 
 III. O coração do Scrum é a Sprint, um time-boxed de um mês ou menos, durante
 o qual um
@@ -5307,7 +5213,6 @@ entre 3 e 9 pessoas [Versão 2017]; (b) Errado, são mantidas em uma lista chama
 a duração é
 menos de um mês; (e) Correto.
 
-
 Gabarito: Letra E
 
 li. (FCC / TRE-CE - 2012) No SCRUM, sprint é:
@@ -5330,7 +5235,7 @@ Backlog; (d) Correto; (e) Errado, isso é o Product Backlog.
 
 Gabarito: Letra D
 
-Item. 12. (FCC /TRT-SP-2012) Analise o texto:
+12. (FCC /TRT-SP-2012) Analise o texto:
 
 O Scrum enfatiza o uso de um conjunto de padrões de processos de software que
 provaram ser
@@ -5369,7 +5274,6 @@ introduzidas). O gerente do produto avalia o registro e atualiza as prioridades 
 requisitado".
 
 Gabarito: Letra D
-
 
 13- (FCC / TRF-2 - 2012) Segundo Roger S. Pressman, em seu livro Engenharia de
 Software, 7a
@@ -5429,12 +5333,11 @@ Scrum Team e Scrum Master. Viagem completa da banca...
 
 Gabarito: Letra A
 
-Item. 15. (FCC / INFRAERO - 2011) Em relação às regras do Scrum, é INCORRETO afirmar:
+15. (FCC / INFRAERO - 2011) Em relação às regras do Scrum, é INCORRETO afirmar:
 
 a) O Sprint deve ser realizado num período máximo de 40 dias e ter uma equipe de trabalho
 não
 superiora 10 pessoas.
-
 
 b) Se o Sprint tomar um rumo não desejado, é possível dissolvê-lo e começar um novo
 Sprint,
@@ -5496,7 +5399,6 @@ e) Scrum.
 
 Comentários:
 
-
 A questão deu duas dicas: primeira, ela fala em gerenciamento; segundo, ela fala que
 o nome é
 inspirado em um esporte. Logo, trata-se do Scrum!
@@ -5555,7 +5457,6 @@ Comentários:
 Na primeira parte, os desenvolvedores trabalham para prever as funcionalidades
 que serão
 desenvolvidas durante a Sprint. O Product Owner debate a meta a Sprint deve realizar e os itens de
-
 
 Backlog do Produto que, se completados na Sprint, atingirão a meta. Na segunda parte,
 tendo
@@ -5620,10 +5521,9 @@ potencialmente entregáveis do produto - o nome desses ciclos de desenvolvimento
 em que o
 software é desenvolvido em processos iterativos é chamado: Sprint.
 
-
 Gabarito: Letra C
 
-Item. 21. (FCC / TRE-RS - 2010) Em reunião, toda conversação é restringida às respostas
+21. (FCC / TRE-RS - 2010) Em reunião, toda conversação é restringida às respostas
 dos elementos
 às perguntas colocadas pelo Scrum Master, sendo uma delas: "O que planeja desenvolver
 até a
@@ -5647,7 +5547,7 @@ a Daily Scrum Meeting -também chamada de Reunião Diária.
 
 Gabarito: Letra E
 
-Item. 22. (FCC / TRE-RS -2010) No contexto das regras do SCRUM, é correto afirmar:
+22. (FCC / TRE-RS -2010) No contexto das regras do SCRUM, é correto afirmar:
 
 a) Durante a realização do Sprint, o Backlog pode ser modificado por
 qualquer um dos
@@ -5677,7 +5577,6 @@ só pode
 ser modificado pelo Development Team [Versão 2017]; (b) Correto; (c) Errado. Scrum
 Master é
 apenas um facilitador - quem pode modificar o Product Backlog é o Product Owner; (d) Errado. É
-
 
 possível, sim, dissolver uma sprint; (e) Errado. Na verdade, as discussões ocorrem mais
 entre os
@@ -5743,14 +5642,13 @@ e) XP.
 
 Comentários:
 
-
 Palavras-chave: processo iterativo, sprint, 30 dias, incremento pronto... essas palavras
 tratam de
 uma metodologia ágil chamada Scrum.
 
 Gabarito: Letra A
 
-Item. 25. (FCC / AFR-SP- 2009) O conceito de sprint aplica-se ao modelo ágil do processo
+25. (FCC / AFR-SP- 2009) O conceito de sprint aplica-se ao modelo ágil do processo
 de engenharia
 de software denominado:
 
@@ -5769,7 +5667,6 @@ Comentários:
 O conceito de sprint é um inerentemente do processo de engenharia de software chamado Scrum!
 
 Gabarito: Letra E
-
 
 QUESTõES CoMENTADAS - FCV
 
@@ -5797,7 +5694,7 @@ organizações, Scrum Teams e indivíduos.
 
 Gabarito: Letra D
 
-Item. 2. (FGV / TCE-TO - 2022) Na metodologia ágil SCRUM há diversos eventos formais que
+2. (FGV / TCE-TO - 2022) Na metodologia ágil SCRUM há diversos eventos formais que
 são
 realizados para inspecionar e adaptar artefatos. O evento SCRUM que tem como
 propósito
@@ -5829,8 +5726,7 @@ Review trata do produto, enquanto a Sprint Retrospective trata do processo.
 
 Gabarito: Letra E
 
-
-Item. 3. (FGV / TCE-TO - 2022) Na metodologia ágil Scrum, Sprints são eventos de duração
+3. (FGV / TCE-TO - 2022) Na metodologia ágil Scrum, Sprints são eventos de duração
 fixa de até
 um mês que envolvem todo o trabalho necessário para atingir a meta do Produto. Se a
 meta se
@@ -5856,7 +5752,7 @@ Apenas o Product Onwer possui a autoridade para cancelar uma Sprint.
 
 Gabarito: Letra D
 
-Item. 4. (FGV / TCE-TO - 2022) Na metodologia ágil SCRUM há diversos eventos formais que
+4. (FGV / TCE-TO - 2022) Na metodologia ágil SCRUM há diversos eventos formais que
 são
 realizados para inspecionar e adaptar artefatos. O evento SCRUM que tem como
 propósito
@@ -5896,7 +5792,6 @@ reforçar os aspectos positivos.
 
 Gabarito: Letra E
 
-
 5- (FGV / TCE-TO - 2022) Na metodologia ágil Scrum, Sprints são eventos de duração
 fixa de até
 um mês que envolvem todo o trabalho necessário para atingir a meta do Produto. Se a
@@ -5921,7 +5816,7 @@ Só quem pode cancelar uma sprint é o Product Owner.
 
 Gabarito: Letra D
 
-Item. 6. (FGV / TCE-TO - 2022) Durante o processo de monitoramento do progresso de entregas
+6. (FGV / TCE-TO - 2022) Durante o processo de monitoramento do progresso de entregas
 no
 SCRUM, normalmente são utilizadas várias práticas úteis, como burndown e
 burnup. Essas
@@ -5953,7 +5848,6 @@ contrato com o cliente; (c) Errado, de acordo com o guia oficial: "Existem vári
 práticas para prever
 o progresso, como burn-downs, burn-ups ou cumulative flows. Embora comprovadamente úteis,
 
-
 eles não substituem a importância do empirismo. Em ambientes complexos, o que
 acontecerá é
 desconhecido. Somente o que já aconteceu pode ser usado para a tomada de decisão
@@ -5970,7 +5864,7 @@ vez de "não podem substituir".
 
 Gabarito: Letra C
 
-Item. 7. (FGV / Senado Federal - Análise de Sistemas - 2022) Durante o processo de
+7. (FGV / Senado Federal - Análise de Sistemas - 2022) Durante o processo de
 monitoramento
 do progresso de entregas no SCRUM, normalmente são utilizadas várias práticas úteis,
 como
@@ -6015,10 +5909,9 @@ estabelecido em contrato com o cliente. Isso não é verdade - as práticas pode
 não devem
 substituir o cronograma estabelecido em contrato com o cliente.
 
-
 Gabarito: Letra C
 
-Item. 8. (FGV / TJDFT - 2022) Uma equipe de analista de sistemas está desenvolvendo o
+8. (FGV / TJDFT - 2022) Uma equipe de analista de sistemas está desenvolvendo o
 software
 ProgramaTJ aplicando a metodologia Lean. A equipe decidiu implementar
 apenas as
@@ -6050,7 +5943,7 @@ ser eliminadas.
 
 Gabarito: Letra C
 
-Item. 9. (FGV / TJDFT - 2022) Uma equipe de desenvolvimento de sistemas de software
+9. (FGV / TJDFT - 2022) Uma equipe de desenvolvimento de sistemas de software
 (EDSS) está
 trabalhando no desenvolvimento de uma nova aplicação Web utilizando
 práticas ágeis
@@ -6076,7 +5969,6 @@ solicitada;
 d) mantero prazo planejado para desenvolvimento da Sprint, removendo um dos itens do
 Sprint
 Backlog para adicionar a alteração solicitada;
-
 
 e) manter o prazo planejado para desenvolvimento da Sprint, adicionando a alteração
 solicitada
@@ -6136,7 +6028,6 @@ definidas no SCRUM é a retrospectiva. Assinale a opção que melhor descreve o 
 da
 retrospectiva definida no SCRUM.
 
-
 a) Planejar medidas que possam trazer, no próximo Sprint, melhorias
 relacionadas à
 colaboração entre as pessoas, processos ou ferramentas.
@@ -6174,7 +6065,7 @@ Diária.
 
 Gabarito: Letra A
 
-Item. 12. (FGV / AL-RO - 2018) Para o desenvolvimento do Sistema de Informações ao Cidadão
+12. (FGV / AL-RO - 2018) Para o desenvolvimento do Sistema de Informações ao Cidadão
 (SIC), foi
 decidida a utilização de uma metodologia ágil. Segundo o Manifesto Ágil, esta decisão
 indica
@@ -6259,7 +6150,6 @@ se sobre:
 
 a) plan, documentaton, test;
 
-
 b) roles, artifacts, activities;
 
 c) requisites, code, products;
@@ -6318,7 +6208,6 @@ através de conversa face a face. As Metodologias Tradicionais utilizam document
 relatórios,
 telefonemas para promover a comunicação no projeto.
 
-
 Simplicidade - a arte de maximizar a quantidade de trabalho não realizado - é essencial. As
 Metodologias
 Tradicionais, algumas vezes, recorriam a implementações desnecessariamente complexas, a
@@ -6333,7 +6222,7 @@ segunda opção.
 
 Gabarito: Letra B
 
-Item. 17. (FGVITJ-RO - 2015) O manifesto ágil tem por princípio que:
+17. (FGVITJ-RO - 2015) O manifesto ágil tem por princípio que:
 
 a) mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento;
 
@@ -6369,7 +6258,6 @@ Contínua atenção à excelência técnica e bom design aumenta a agilidade. As
 acreditavam que, para se obter máxima velocidade e flexibilidade no desenvolvimento de software,
 poder-
 se-ia sacrificar a qualidade deste software.
-
 
 As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizáveis. As Metodologias
 Tradicionais geralmente precisam de um gerente de projetos responsável por organizar o trabalho da
@@ -6437,7 +6325,6 @@ constante indefinidamente evitando interrupções e intervalos regulares;
 
 e) as melhores arquiteturas, requisitos e designs emergem de equipes auto-organizáveis.
 
-
 Comentários:
 
 (a) Errado, software funcional é a medida primária de progresso; (b) Errado, pessoas
@@ -6502,7 +6389,6 @@ característica do XP
 períodos,
 incentivando a entrega frequente de funcionalidades de software.
 
-
 Gabarito: Letra A
 
 2i.(FGV / PROCEMPA-2014) O Manifesto Ágil é uma declaração de princípios que fundamentam
@@ -6558,12 +6444,11 @@ Errado, indivíduos e interações mais que processos e ferramentas.
 
 Gabarito: Letra B
 
-Item. 23. (FGV / DPE-RJ - 2014) Uma das características da metodologia ágil Scrum é:
+23. (FGV / DPE-RJ - 2014) Uma das características da metodologia ágil Scrum é:
 
 a) focar nas práticas de engenharia.
 
 b) focar na documentação formal do software.
-
 
 c) ser um método iterativo e incremental.
 
@@ -6626,7 +6511,6 @@ se divide-o próprio guia afirma que times de desenvolvimento não contém sub-t
 dedicados a
 domínios específicos de conhecimento, logo a questão está flagrantemente errada. No entanto,
 
-
 como a banca retirou a questão literalmente do Pressman, foi considerada como
 correta; (III)
 Correto, o incremento é parte fundamental do modelo ágil.
@@ -6685,7 +6569,6 @@ II. O Backlog do Produto é uma lista de itens priorizados, composta por
 requisitos e
 funcionalidades que devem ser construídos para concretizar a visão.
 
-
 III. No início de cada Sprint, a equipe se reúne para escolher os itens a serem
 desenvolvidos até
 o final dessa iteração, o que dá origem ao Backlog do Sprint.
@@ -6730,7 +6613,6 @@ No Scrum, os projetos são divididos em ciclos chamados sprints.
 
 Gabarito: Letra E
 
-
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
 A questão 86 baseia-se na Figura 11, que exibe a imagem de um gráfico elaborado no
@@ -6743,7 +6625,7 @@ quantidade de trabalho que ainda precisa serfeita; e (3) a linha tracejada exibe
 esforço estimado,
 enquanto a linha contínua mostra o esforço atual.
 
-Item. 1. (FUNDATEC / ISS-Porto Alegre - 2022) No framework "Scrum", a equipe pode monitorar
+1. (FUNDATEC / ISS-Porto Alegre - 2022) No framework "Scrum", a equipe pode monitorar
 seu
 progresso ao final de cada Sprint por meio do gráfico mostrado na Figura 17, o qual
 é chamado
@@ -6767,7 +6649,7 @@ Burndown ou Release Burndown Chart. Todas as outras opções apresentam eventos!
 
 Gabarito: Letra B
 
-Item. 2. (FUNDATEC / ISS-Porto Alegre -2022) No framework "Scrum", elabora-se uma lista
+2. (FUNDATEC / ISS-Porto Alegre -2022) No framework "Scrum", elabora-se uma lista
 ordenada
 de tudo que é conhecido ser necessário no produto. Sobre essa lista, considere,
 ainda, as
@@ -6800,7 +6682,7 @@ a questão: Product Backlog!
 
 Gabarito: Letra D
 
-Item. 3. (CESGRANRIO/ Banco da Amazônia - 2021) "O Scrum é um arcabouço que ajuda pessoas,
+3. (CESGRANRIO/ Banco da Amazônia - 2021) "O Scrum é um arcabouço que ajuda pessoas,
 times e organizações a gerar valor por meio de soluções adaptativas para
 problemas
 complexos."
@@ -6826,7 +6708,7 @@ Os três pilares são o TIA (Transparência, Inspeção e Adaptação).
 
 Gabarito: Letra E
 
-Item. 4. (COMPERVE/TJ-RN-2020) O Scrum é um framework dentro do qual as pessoas podem
+4. (COMPERVE/TJ-RN-2020) O Scrum é um framework dentro do qual as pessoas podem
 tratar
 e resolver problemas de forma ágil. O coração do Scrum são suas sprints.
 Segundo
@@ -6835,7 +6717,6 @@ o Scrum Guide, em um projeto que adota Scrum, a autoridade de cancelar uma sprin
 a) Time scrum.
 
 b) Scrum Master.
-
 
 c) Product Owner.
 
@@ -6847,7 +6728,7 @@ Apenas o Product Owner tem autoridade para cancelar a sprint.
 
 Gabarito: Letra C
 
-Item. 5. (INSTITUTO AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Assinale a
+5. (INSTITUTO AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Assinale a
 alternativa que
 apresenta uma metodologia para desenvolvimento de software:
 
@@ -6875,7 +6756,7 @@ atividades de auditoria e controle em sistemas de informação.
 
 Gabarito: Letra D
 
-Item. 6. (UFCG/ UFCG- 2019) A respeito do framework de trabalho Scrum, marque a
+6. (UFCG/ UFCG- 2019) A respeito do framework de trabalho Scrum, marque a
 alternativa
 correta:
 
@@ -6896,7 +6777,6 @@ sem ninguém responsável pelo treinamento desses desenvolvedores.
 
 Comentários:
 
-
 (a) Errado. O gráfico possui um eixo X que representa o tempo, que pode ser medido
 em dias,
 semanas, sprints, entre outros. Enquanto o eixo Y demonstra a entrega planejada, que
@@ -6909,7 +6789,7 @@ de abertura e coragem; (e) Errado, há também o Scrum Master.
 
 Gabarito: Letra C
 
-Item. 7. (VUNESP / Prefeitura de Campinas - SP - 2019) No método ágil Scrum,
+7. (VUNESP / Prefeitura de Campinas - SP - 2019) No método ágil Scrum,
 há um artefato
 denominado backlog, aplicado a diversas etapas do método. Em particular, o
 backlog do
@@ -6933,7 +6813,7 @@ nenhum dos outros itens faz qualquer sentido.
 
 Gabarito: Letra B
 
-Item. 8. (INSTITUTO AOCP/ IBGE - 2019) O time de desenvolvimento de software do
+8. (INSTITUTO AOCP/ IBGE - 2019) O time de desenvolvimento de software do
 IBGE está
 utilizando o método ágil Scrum para desenvolvimento de software. Sabendo disso, analise
 as
@@ -6961,7 +6841,6 @@ d) Apenas I e II.
 
 e) Apenas II e III.
 
-
 Comentários:
 
 (I) Errado, é Product Owner, Scrum Master e Time de Desenvolvimento [Versão
@@ -6970,7 +6849,7 @@ Desenvolvedores [Versão 2020]; (II) Correto; (III) Errado, é claro que é um v
 
 Gabarito: Letra B
 
-Item. 9. (INSTITUTO AOCP / EMPREL- 2019) Assinale a alternativa que
+9. (INSTITUTO AOCP / EMPREL- 2019) Assinale a alternativa que
 apresenta uma das
 características do Scrum referente ao Scrum Team (Time Scrum):
 
@@ -7019,7 +6898,6 @@ Comentários:
 Para iniciar a Reunião de Planejamento da Sprint, deve-se atualizar o backlog do produto.
 
 Gabarito: Letra A
-
 
 n.(CS-UFG / Prefeitura de Goianira - GO -2019) De acordo com o Guia do Scrum, uma
 sprint tem
@@ -7096,7 +6974,7 @@ planejados para que nada seja alterado até sua conclusão.
 
 Gabarito: Letra E
 
-Item. 13. (IF-PE / IF-PE - 2019) A reunião de balanço sobre o que foi realizado durante
+13. (IF-PE / IF-PE - 2019) A reunião de balanço sobre o que foi realizado durante
 uma sprint e onde
 o time deve mostrar ao product owner os resultados obtidos é chamada de:
 
@@ -7146,10 +7024,9 @@ característica de uma metodologia ágil de desenvolvimento de software
 chamada Extreme
 Progamming; (III) Correto, valorizam-se mais os indivíduos do que processos e ferramentas.
 
-
 Gabarito: Letra B
 
-Item. 15. (COMPERVE / UFRN- 2019) O Scrum é um framework no qual as pessoas podem abordar
+15. (COMPERVE / UFRN- 2019) O Scrum é um framework no qual as pessoas podem abordar
 problemas adaptativos complexos ao mesmo tempo em que entregam, de maneira produtiva e
 criativa, produtos de mais alto valor possível. Nesse framework, existem
 três papéis
@@ -7191,7 +7068,7 @@ O responsável por garantir que a equipe está aderindo aos valores do Scrum é 
 
 Gabarito: Letra C
 
-Item. 17. (IF-PA / IF-PA - 2019) A gestão de projetos é um dos grandes desafios no
+17. (IF-PA / IF-PA - 2019) A gestão de projetos é um dos grandes desafios no
 desenvolvimento de
 produtos de software, pois uma gestão padronizada, aliada às boas
 práticas de
@@ -7202,7 +7079,6 @@ frameworks mais utilizados na gestão de projetos de software e sobre ele é cor
 a) Por definição, o seu ciclo é composto pela seguinte sequência: "Sprint", "Sprint View" e
 "Daily
 Scrum".
-
 
 b) Por definição, "Sprint Review" é uma reunião informal que ocorre ao final de cada
 "Sprint"
@@ -7268,7 +7144,6 @@ e) 1,11, III e IV.
 
 Comentários:
 
-
 (I) Errado, Scrum é um framework leve, simples de entender e extremamente difícil de
 dominar,
 para desenvolver e manter produtos complexos e adaptativos, enquanto entrega
@@ -7293,7 +7168,6 @@ Comentários:
 A Retrospectiva da Sprint é a última reunião do Scrum, ocorrendo logo após a Revisão
 da Sprint. A
 Revisão da Sprint busca avaliar o produto e a Retrospectiva da Sprint busca avaliar o Processo.
-
 
 Gabarito: Letra B
 
@@ -7326,10 +7200,9 @@ os valores seguem uma escala baseada na Sequência de Fibonacci. Nota: outra seq
 pode ser
 escolhida, porém Fibonacci é a mais utilizada.
 
-
 Gabarito: Letra B
 
-Item. 21. (FAURGS / TJ-RS - 2018) Considere as seguintes afirmações sobre SCRUM.
+21. (FAURGS / TJ-RS - 2018) Considere as seguintes afirmações sobre SCRUM.
 
 I - Um sprint do SCRUM é uma unidade de planejamento na qual o trabalho a serfeito
 é avaliado,
@@ -7370,7 +7243,7 @@ não, Product Owner.
 
 Gabarito: Letra B
 
-Item. 22. (Instituto Excelência / Prefeitura de São Carlos - SP -2018) Considerando o Scrum, e os papeis
+22. (Instituto Excelência / Prefeitura de São Carlos - SP -2018) Considerando o Scrum, e os papeis
 de partes interessadas, equipe e usuários. Avaliando as descrições abaixo defina os
 papeis nas
 alternativas a seguir.
@@ -7383,7 +7256,6 @@ uma Sprint.
 
 II) Assegura para que a equipe siga os valores e práticas, protege a equipe de alterações da Sprint
 atua como facilitador removendo qualquer obstáculo ou algo levantado pela equipe
-
 
 III) Lista contendo todas as funcionalidades desejada dos produtos com o tempo cresce ou muda
 de acordo que se aprende sobre o usuário e seu produto:
@@ -7403,7 +7275,7 @@ Comentários:
 
 Gabarito: Letra B
 
-Item. 23. (INSTITUTO AOCP / PRODEB - 2018) O SCRUM é um método ágil que caracteriza-se por
+23. (INSTITUTO AOCP / PRODEB - 2018) O SCRUM é um método ágil que caracteriza-se por
 ter
 bem definido quais são os papéis que precisam estar envolvidos no desenvolvimento do
 projeto.
@@ -7445,7 +7317,6 @@ e) Sprintholder.
 
 Comentários:
 
-
 Os profissionais que realizam o trabalho de entregar uma versão usável que
 potencialmente
 incrementa o produto "Pronto" ao final de cada sprint é o Time de Desenvolvimento
@@ -7454,7 +7325,7 @@ ou Desenvolvedores [Versão 2020].
 
 Gabarito: Letra A
 
-Item. 25. (INSTITUTO AOCP / PRODEB - 2018) O Product Owner exerce um papel fundamental para
+25. (INSTITUTO AOCP / PRODEB - 2018) O Product Owner exerce um papel fundamental para
 a
 execução de um produto de sucesso dentro de um determinado método ágil. Ele é
 responsável
@@ -7502,9 +7373,8 @@ Developers
 
 Gabarito: Letra C
 
-Item. 27. (INSTITUTO AOCP/ UFOB -2018) Scrum é um método de desenvolvimento ágil. Esse método
+27. (INSTITUTO AOCP/ UFOB -2018) Scrum é um método de desenvolvimento ágil. Esse método
 envolve as etapas de requisitos, análise, projeto, evolução e entrega do software.
-
 
 Comentários:
 
@@ -7569,7 +7439,7 @@ maximizar o valor criado pelo Time Scrum.
 
 Gabarito: Correto
 
-Item. 31. (AOCP / UNIR -2018) O framework Scrum consiste em um conjunto formado por Times
+31. (AOCP / UNIR -2018) O framework Scrum consiste em um conjunto formado por Times
 Scrum
 e seus papéis associados, Eventos com Duração Fixa (Time-Boxes), Artefatos e Regras.
 
@@ -7579,7 +7449,7 @@ Eu novamente enfatizaria que são eventos com duração máxima fixa, mas a ques
 
 Gabarito: Correto
 
-Item. 32. (INSTITUTO AOCP / UFOB- 2018) No Scrum, são utilizados encontros diários, os
+32. (INSTITUTO AOCP / UFOB- 2018) No Scrum, são utilizados encontros diários, os
 chamados
 Daily Scrum, para disseminar o conhecimento desenvolvido no dia anterior.
 
@@ -7597,7 +7467,7 @@ do próximo trabalho da Sprint.
 
 Gabarito: Correto
 
-Item. 33. (INSTITUTO AOCP/ PRODEB - 2018) Sobre a retrospectiva de Sprint usando Scrum,
+33. (INSTITUTO AOCP/ PRODEB - 2018) Sobre a retrospectiva de Sprint usando Scrum,
 assinale a
 alternativa correta:
 
@@ -7620,7 +7490,6 @@ algum; (e)
 Errado, isso ocorre no planejamento da sprint.
 
 Gabarito: Letra A
-
 
 34- (FUNDATEC / SPGG - RS - 2018) O framework Scrum prescreve os seguintes eventos formais
 para inspeção e adaptação:
@@ -7645,7 +7514,7 @@ formais para inspeção e adaptação.
 
 Gabarito: Letra E
 
-Item. 35. (FUNDATEC / SPGG - RS - 2018) Considere as seguintes assertivas sobre o framework Scrum:
+35. (FUNDATEC / SPGG - RS - 2018) Considere as seguintes assertivas sobre o framework Scrum:
 
 I. Emprega uma abordagem iterativa e incremental para aperfeiçoar a
 previsibilidade e o
@@ -7681,7 +7550,6 @@ Correto, todos esses realmente são valores fundamentais.
 
 Gabarito: Letra E
 
-
 36.(FUNDATEC / SPGG - RS - 2018) Sobre o cancelamento de uma Sprint, no framework Scrum,
 afirma-se que:
 
@@ -7709,7 +7577,7 @@ Time de Desenvolvimento [Versão 2017] ou Desenvolvedores [Versão 2020].
 
 Gabarito: Letra B
 
-Item. 37. (FAPEC / UFMS - 2018) Assinale a alternativa correta considerando as
+37. (FAPEC / UFMS - 2018) Assinale a alternativa correta considerando as
 responsabilidades e os
 papéis na metodologia SCRUM.
 
@@ -7738,7 +7606,6 @@ denominado Scrum
 Users.
 
 Comentários:
-
 
 (a) Correto; (b) Errado, é o Scrum Master; (c) Errado, é conhecido como Equipe de
 Desenvolvimento
@@ -7805,7 +7672,6 @@ descrito como
 "Pronto", todos devem entender 0 que 0 "Pronto" significa. Embora, isso possa variar por Time
 Scrum,
 
-
 os integrantes devem ter um entendimento compartilhado do que significa o trabalho
 estar completo,
 assegurando a transparência. Esta é a "Definição de Pronto" para o Time Scrum e é
@@ -7870,7 +7736,6 @@ c) Apenas II e IV.
 d) Apenas II e III.
 
 e) Apenas I e III.
-
 
 Comentários:
 
@@ -7992,7 +7857,6 @@ minutos;
 
 Gabarito: Letra B
 
-
 46.(FUNDATEC / CIGA-SC - 2018) Para responder à questão, considere a Figura 7, obtida
 a partir
 do site o, mostra, esquematicamente, uma visão geral do framework ou
@@ -8045,7 +7909,6 @@ um artefato.
 Além disso, ele é mantido pelo Product Owner e, não, pelo Scrum Master; (II) Errado.
 Ela envolve
 apenas os desenvolvedores e, não, toda a equipe do projeto; (III) Correto.
-
 
 Gabarito: Letra C
 
@@ -8113,7 +7976,6 @@ o Product Owner é ouvido em relação às prioridades e os objetivos. É nela t
 onde o time irá
 deliberar sobre o que conseguem fazer em relação às necessidades, formalizando o Sprint Backlog.
 
-
 (Sprint Review) Time-box de ^h, onde o incremento do produto que está
 pronto para uso, é
 apresentado ao Product Owner para apreciação. Também é nesta reunião, que deve ser
@@ -8144,7 +8006,7 @@ me impedindo.
 
 Gabarito: Letra C
 
-Item. 48. (FAURGS / UFCSPA - RS- 2018) é uma metodologia
+48. (FAURGS / UFCSPA - RS- 2018) é uma metodologia
 ágil que fornece
 um framework de gerenciamento de projetos. É centralizada em torno de um
 conjunto
@@ -8174,8 +8036,7 @@ um backlog de trabalho e na seleção das tarefas mais importantes para um sprin
 
 Gabarito: Letra C
 
-
-Item. 49. (IADES / APEX-BRASIL - 2018) Na metodologia Scrum, existem times que
+49. (IADES / APEX-BRASIL - 2018) Na metodologia Scrum, existem times que
 tipicamente
 consistem de um dono do produto, um mestre Scrum e um time de desenvolvimento. Acerca
 das respectivas responsabilidades, é correto afirmar que o:
@@ -8230,7 +8091,6 @@ Gabarito: Letra A
 5i.(UFG / SANEAGO -2017) Na metodologia SCRUM, quais são os itens registrados dentro de
 uma "Retrospectiva"?
 
-
 a) Pontos positivos, negativos e melhorias para a próxima iteração.
 
 b) Itens entregues e itens a serem desenvolvidos.
@@ -8253,7 +8113,7 @@ para a próxima iteração.
 
 Gabarito: Letra A
 
-Item. 52. (UFG/SANEAGO-2017) O pré-planejamento (também conhecido como pré-game) é uma das
+52. (UFG/SANEAGO-2017) O pré-planejamento (também conhecido como pré-game) é uma das
 cerimônias conhecidas da metodologia SCRUM. Por definição, é objetivo
 deste pré-
 planejamento:
@@ -8278,7 +8138,7 @@ uma das quatro cerimônias tradicionais do Scrum!
 
 Gabarito: Anulada
 
-Item. 53. (UFG / SANEAGO - 2017) Dentro do método SCRUM, quais são as informações
+53. (UFG / SANEAGO - 2017) Dentro do método SCRUM, quais são as informações
 utilizadas para
 criar o gráfico burndown?
 
@@ -8291,7 +8151,6 @@ c) Tempo gasto na sprint anterior e esforço de tarefas já realizadas.
 d) Tempo total na resolução de impedimentos e estimativas para finalização do projeto.
 
 Comentários:
-
 
 O Gráfico de Burndown torna visível a evolução diária do trabalho da equipe de
 desenvolvimento,
@@ -8330,7 +8189,7 @@ justificativa:
 
 Gabarito: Anulada
 
-Item. 55. (UFG / SANEAGO - 2017) Em uma equipe que trabalha orientada pelo Scrum,
+55. (UFG / SANEAGO - 2017) Em uma equipe que trabalha orientada pelo Scrum,
 
 a) a descoberta de um "erro" ou "defeito" recebe máxima prioridade e justifica a
 extensão da
@@ -8349,7 +8208,6 @@ desenvolvimento,
 a despeito de um determinado membro da equipe possuir habilidades específicas.
 
 Comentários:
-
 
 (a) Errado, não se estende prazo de sprint; (b) Errado, Product Owner é o único
 responsável por
@@ -8407,9 +8265,8 @@ Product Backlog para 0 Sprint Backlog.
 
 Gabarito: Letra E
 
-Item. 57. (CESGRANRIO/CEFET-RJ-2014) No Scrum, segundo o guia 2013, o responsável pelo trabalho
+57. (CESGRANRIO/CEFET-RJ-2014) No Scrum, segundo o guia 2013, o responsável pelo trabalho
 de expressar claramente os itens do Backlog do Produto é o:
-
 
 a) Product Master
 b) Product Owner
@@ -8425,7 +8282,7 @@ por priorizá-los nas Sprint Planning Meetings (Reuniões de Planejamento da Spr
 
 Gabarito: Letra B
 
-Item. 58. (CESGRANRIO / EPE - 2014) No planejamento de projetos de software, e
+58. (CESGRANRIO / EPE - 2014) No planejamento de projetos de software, e
 principalmente em
 metodologias ágeis de desenvolvimento, muitos autores defendem a técnica
 conhecida como
@@ -8466,7 +8323,6 @@ forma indefinida, é acordado de antemão o tempo limite para cada tarefa de pro
 (tempo fixo e
 escopo variável).
 
-
 Gabarito: Letra E
 
 5g.(UNIRIO / UNIRIO - 2014) De acordo com o autor Schwaber, o Scrum é um framework para
@@ -8488,7 +8344,6 @@ Os três pilares são: Transparência, Inspeção e Adaptação.
 
 Gabarito: Letra B
 
-
 LISTA DE QUESTõES - CESPE
 
 í. (CESPE / BANRISUL - 2022) Na metodologia Scrum, cada sprint segue um ciclo normal
@@ -8497,58 +8352,57 @@ desenvolvimento, constituído de análise de requisitos,
 desenvolvimento, testes e
 documentação.
 
-Item. 2. (CESPE / BANRISUL - 2022) A metodologia Lean apresenta uma proposta para aumento
+2. (CESPE / BANRISUL - 2022) A metodologia Lean apresenta uma proposta para aumento
 de
 produtividade e eficiência com foco em eliminação de desperdícios.
 
-Item. 3. (CESPE / BANRISUL - 2022) A Sprint pode ser considerada o núcleo do Scrum, pois
+3. (CESPE / BANRISUL - 2022) A Sprint pode ser considerada o núcleo do Scrum, pois
 é nesse
 período que são executados eventos como: reunião de planejamento da Sprint, reunião
 diária,
 revisão da Sprint e retrospectiva da Sprint.
 
-Item. 4. (CESPE / BANRISUL - 2022) A equipe de desenvolvimento é responsável
+4. (CESPE / BANRISUL - 2022) A equipe de desenvolvimento é responsável
 por controlar e
 priorizar a lista de itens que contempla todas as necessidades para a construção do produto.
 
-Item. 5. (CESPE / BANRISUL-2022) Um ponto fundamental do Scrum é o conceito de equipe que
+5. (CESPE / BANRISUL-2022) Um ponto fundamental do Scrum é o conceito de equipe que
 deve
 ser seguido, principalmente quando se refere a equipes multifuncionais ou
 multidisciplinares,
 em que existem responsabilidades individuais e não papéis.
 
-Item. 6. (CESPE / BANRISUL - 2022) No Scrum, a definição de pronto é considerada o
+6. (CESPE / BANRISUL - 2022) No Scrum, a definição de pronto é considerada o
 compromisso a
 ser alcançado pelo sprint backlog, ao término da execução com sucesso da sprint.
 
-Item. 7. (CESPE / BANRISUL - 2022) O sprint backlog é formado unicamente dos itens do
+7. (CESPE / BANRISUL - 2022) O sprint backlog é formado unicamente dos itens do
 product
 backlog selecionados para a sprint e da meta da sprint.
 
-Item. 8. (CESPE / BANRISUL - 2022) Scrum baseia-se no empirismo, que afirma que o
+8. (CESPE / BANRISUL - 2022) Scrum baseia-se no empirismo, que afirma que o
 conhecimento
 decorre da experiência e da tomada de decisões com base no que é observado, assim
 como do
 lean thinking, que reduz o desperdício e se concentra no essencial.
 
-Item. 9. (CESPE / BANRISUL - 2022) Sprint é uma lista de requisitos organizados por
+9. (CESPE / BANRISUL - 2022) Sprint é uma lista de requisitos organizados por
 funcionalidades
 priorizadas, cujos itens podem ser adicionados a qualquer momento, exceto
 durante sua
 execução, que possui duração de um mês ou menos.
 
-Item. 10. (CESPE / BANRISUL-2022) Durante a sprint, nenhuma mudança que coloque em risco a
+10. (CESPE / BANRISUL-2022) Durante a sprint, nenhuma mudança que coloque em risco a
 meta
 da sprint é feita, contudo o product backlog pode ser refinado conforme necessário.
 
-Item. 11. (CESPE / BANRISUL - 2022) No Scrum, para maximizar a transparência das
+11. (CESPE / BANRISUL - 2022) No Scrum, para maximizar a transparência das
 principais
 informações, o compromisso do artefato incremento é com a meta do produto.
 
-Item. 12. (CESPE / BANRISUL - 2022) O Product Owner é auxiliado pelo Scrum Master na
+12. (CESPE / BANRISUL - 2022) O Product Owner é auxiliado pelo Scrum Master na
 criação de
 técnicas a serem usadas na definição de meta do produto.
-
 
 i3-(CESPE / BANRISUL - 2022) Como unidade fundamental, os Scrum Teams são
 auto-
@@ -8556,7 +8410,7 @@ organizados, o que significa que seus integrantes decidem, de forma coesa, os se
 limites e o
 melhor a serfeito nas atividades relacionadas ao produto.
 
-Item. 14. (CESPE / BANRISUL - 2022) Durante a sprint planning do Scrum, na definição de
+14. (CESPE / BANRISUL - 2022) Durante a sprint planning do Scrum, na definição de
 como o
 trabalho escolhido será realizado, fica a critério exclusivo dos
 developers a forma de
@@ -8564,71 +8418,70 @@ planejamento do trabalho necessário para criar um incremento que atenda à
 definição de
 pronto.
 
-Item. 15. (CESPE/ BANRISUL-2022) O product backlog, o sprint backlog e o incremento são
+15. (CESPE/ BANRISUL-2022) O product backlog, o sprint backlog e o incremento são
 projetados
 para maximizar a transparência das principais informações, com o foco no progresso que
 está
 sendo medido.
 
-Item. 16. (CESPE / BANRISUL - 2022) Um incremento surge depois de um product backlog
+16. (CESPE / BANRISUL - 2022) Um incremento surge depois de um product backlog
 alcançar a
 definição de pronto e, em seguida, ser liberado na sprint review.
 
-Item. 17. (CESPE / BANRISUL-2022) Daily scrum é um evento de quinze minutos, realizado
+17. (CESPE / BANRISUL-2022) Daily scrum é um evento de quinze minutos, realizado
 diariamente
 no mesmo horário e local, do qual não participam o product owner e o scrum master.
 
-Item. 18. (CESPE / BANRISUL - 2022) A sprint planning é uma cerimônia na qual o product
+18. (CESPE / BANRISUL - 2022) A sprint planning é uma cerimônia na qual o product
 owner e os
 developers selecionam, de forma colaborativa, itens do product backlog a serem incluídos
 na
 sprint atual.
 
-Item. 19. (CESPE / BANRISUL - 2022) O scrum team pode cancelar uma sprint caso conclua que sua meta
+19. (CESPE / BANRISUL - 2022) O scrum team pode cancelar uma sprint caso conclua que sua meta
 se tornou obsoleta e que a entrega não agregará valor ao projeto.
 
-Item. 20. (CESPE / BANRISUL - 2022) Transparência, inspeção e adaptação são valores que
+20. (CESPE / BANRISUL - 2022) Transparência, inspeção e adaptação são valores que
 orientam o
 Scrum Team em seu trabalho, suas ações e seu comportamento.
 
-Item. 21. (CESPE / BANRISUL - 2022) A meta da sprint descreve um estado futuro do produto,
+21. (CESPE / BANRISUL - 2022) A meta da sprint descreve um estado futuro do produto,
 que pode
 servir como um alvo para o planejamento do scrum team.
 
-Item. 22. (CESPE / MPC-SC - 2022) O Sprint Backlog é uma lista ordenada que inclui o que
+22. (CESPE / MPC-SC - 2022) O Sprint Backlog é uma lista ordenada que inclui o que
 é necessário
 para melhorar o produto, sendo, juntamente com o Product Backlog, a fonte
 de trabalho
 realizado pelo Scrum Team.
 
-Item. 23. (CESPE / BANRISUL - 2022) A meta da sprint descreve um estado futuro do produto,
+23. (CESPE / BANRISUL - 2022) A meta da sprint descreve um estado futuro do produto,
 que pode
 servir como um alvo para o planejamento do scrum team.
 
-Item. 24. (CESPE / BANRISUL - 2022) Transparência, inspeção e adaptação são valores que
+24. (CESPE / BANRISUL - 2022) Transparência, inspeção e adaptação são valores que
 orientam o
 scrum team em seu trabalho, suas ações e seu comportamento.
 
-Item. 25. (CESPE / BANRISUL-2022) O scrum team pode cancelar uma sprint caso conclua que
+25. (CESPE / BANRISUL-2022) O scrum team pode cancelar uma sprint caso conclua que
 sua meta
 se tornou obsoleta e que a entrega não agregará valor ao projeto.
 
-
-Item. 26. (CESPE / BANRISUL - 2022) A sprint planning é uma cerimônia na qual o product
+26. (CESPE / BANRISUL - 2022) A sprint planning é uma cerimônia na qual o product
 owner e os
 deveiopers selecionam, de forma colaborativa, itens do product backlog a serem incluídos
 na
 sprint atual.
 
-Item. 27. (CESPE / BANRISUL-2022) Dailyscrum é um evento de quinze minutos, realizado
+27. (CESPE / BANRISUL-2022) Dailyscrum é um evento de quinze minutos, realizado
 diariamente
 no mesmo horário e local, do qual não participam o product owner e o scrum master.
 
-Item. 28. (CESPE / BANRISUL - 2022) Um incremento surge depois de um product backlog
+28. (CESPE / BANRISUL - 2022) Um incremento surge depois de um product backlog
 alcançar a
 definição de pronto e, em seguida, ser liberado na sprint review.
 
-Item. 29. (CESPE / BANRISUL - 2022) Durante a sprint planning do Scrum, na definição de
+29. (CESPE / BANRISUL - 2022) Durante a sprint planning do Scrum, na definição de
 como o
 trabalho escolhido será realizado, fica a critério exclusivo dos
 deveiopers a forma de
@@ -8636,46 +8489,45 @@ planejamento do trabalho necessário para criar um incremento que atenda à
 definição de
 pronto.
 
-Item. 30. (CESPE / BANRISUL - 2022) Como unidade fundamental, os Scrum Teams são
+30. (CESPE / BANRISUL - 2022) Como unidade fundamental, os Scrum Teams são
 auto-
 organizados, o que significa que seus integrantes decidem, de forma coesa, os seus
 limites e o
 melhor a serfeito nas atividades relacionadas ao produto.
 
-Item. 31. (CESPE / Petrobrás - 2022) O conceito de sprint tem sua origem no RUP a partir
+31. (CESPE / Petrobrás - 2022) O conceito de sprint tem sua origem no RUP a partir
 da execução
 das fases, cada uma delas com seu marco; cada ciclo no RUP tinha uma sprint
 considerada,
 assim como um projeto curto.
 
-Item. 32. (CESPE / Petrobrás - 2022) No Scrum, todo o trabalho necessário para atingir a
+32. (CESPE / Petrobrás - 2022) No Scrum, todo o trabalho necessário para atingir a
 meta do
 produto está embutido nas sprints, inclusive as daily scrums e as sprint retrospective.
 
-Item. 33. (CESPE / Petrobrás - 2022) O Scrum usa um conjunto de "padrões de processo de software",
+33. (CESPE / Petrobrás - 2022) O Scrum usa um conjunto de "padrões de processo de software",
 que são adequados para projetos com prazos apertados e requisitos que mudam
 frequentemente.
 
-Item. 34. (CESPE / FUNPRESP-EXE - 2022) Na fase de desenvolvimento do Scrum, os requisitos
+34. (CESPE / FUNPRESP-EXE - 2022) Na fase de desenvolvimento do Scrum, os requisitos
 são
 escritos no product backlog.
 
-Item. 35. (CESPE / FUNPRESP-EXE - 2022) No desenvolvimento de software ágil com
+35. (CESPE / FUNPRESP-EXE - 2022) No desenvolvimento de software ágil com
 base em
 prototipação, é essencial que todos os requisitos do sistema tenham
 sido definidos
 previamente.
 
-Item. 36. (CESPE / FUNPRESP-EXE - 2022) As fases do processo tradicional de engenharia de
+36. (CESPE / FUNPRESP-EXE - 2022) As fases do processo tradicional de engenharia de
 software,
 como análise, projeto, implementação e testes, podem estar representadas dentro
 de uma
 sprint do Scrum.
 
-Item. 37. (CESPE / SEFAZ-SE - 2022) De acordo com a metodologia Scrum, a reunião em que
+37. (CESPE / SEFAZ-SE - 2022) De acordo com a metodologia Scrum, a reunião em que
 são
 apresentados os pontos positivos e negativos da sprint é a:
-
 
 a) sprint planning.
 
@@ -8687,7 +8539,7 @@ d) backlog refinement.
 
 e) sprint review.
 
-Item. 38. (CESPE / TJ-RJ - 2021) Na metodologia Scrum, o rito que tem como finalidade
+38. (CESPE / TJ-RJ - 2021) Na metodologia Scrum, o rito que tem como finalidade
 refletir sobre o
 andamento das atividades na sprint é conhecido como:
 
@@ -8701,7 +8553,7 @@ d) retrospectiv.
 
 e) planning.
 
-Item. 39. (CESPE /TJ-RJ - 2021) A metodologia Scrum estabelece vários papéis a serem
+39. (CESPE /TJ-RJ - 2021) A metodologia Scrum estabelece vários papéis a serem
 desempenhados
 pelo time; o responsável por controlar o progresso do desenvolvimento do
 projeto e ser o
@@ -8717,7 +8569,7 @@ d) stakeholder.
 
 e) gerente do time de desenvolvimento.
 
-Item. 40. (CESPE / TELEBRÁS - 2021) Ao se usar a metodologia Scrum, recomenda-se que, ao
+40. (CESPE / TELEBRÁS - 2021) Ao se usar a metodologia Scrum, recomenda-se que, ao
 final do
 sprint, ocorra uma reunião (sprint review) em que a equipe Scrum e todas as partes
 interessadas
@@ -8725,24 +8577,23 @@ se encontrem, preferencialmente de modo informal, com os objetivos de validar as
 entregas da
 equipe Scrum e verificar se os critérios estabelecidos no planejamento foram executados.
 
-Item. 41. (CESPE /TELEBRÁS - 2021) Em Scrum, na Sprint planning, o product owner seleciona
+41. (CESPE /TELEBRÁS - 2021) Em Scrum, na Sprint planning, o product owner seleciona
 os itens
 do product backlog para incluir na Sprint e determina detalhadamente aos developers a
 forma
 de trabalho a ser aplicada para viabilizar a criação de um incremento de valor.
 
-Item. 42. (CESPE/TELEBRÁS - 2021) Para o método Scrum, o Product Backlog consiste em uma
+42. (CESPE/TELEBRÁS - 2021) Para o método Scrum, o Product Backlog consiste em uma
 lista de
 necessidades do cliente, ou seja, uma lista com as funcionalidades desejadas para um produto
 
-Item. 43. (CESPE / TELEBRÁS - 2021) Eliminar desperdício, amplificar o aprendizado e decidir
+43. (CESPE / TELEBRÁS - 2021) Eliminar desperdício, amplificar o aprendizado e decidir
 o mais
 tarde possível são alguns dos princípios do método Lean.
 
-Item. 44. (CESPE / TCE-RJ - 2021) O SCRUM é composto por quatro atividades: planeamento,
+44. (CESPE / TCE-RJ - 2021) O SCRUM é composto por quatro atividades: planeamento,
 projeto,
 codificação e testes, as quais normalmente são repetidas iteração a iteração.
-
 
 45-(CESPE / CODEVASF- 2021) Na metodologia Scrum, é feita na sprint planning a seleção
 dos
@@ -8750,11 +8601,11 @@ itens do backlog que serão desenvolvidos durante a sprint; depois de fechado o 
 escopo,
 a sprint não poderá mais ser alterada.
 
-Item. 46. (CESPE / SERPRO - 2021) Daily Scrum é o único momento do dia em que os
+46. (CESPE / SERPRO - 2021) Daily Scrum é o único momento do dia em que os
 developers se
 reúnem para discutir detalhadamente a adaptação ou o replanejamento do trabalho da sprint.
 
-Item. 47. (CESPE IAPEX-BRASIL-2021) Em Scrum, um item do Product Backlog incluído em uma
+47. (CESPE IAPEX-BRASIL-2021) Em Scrum, um item do Product Backlog incluído em uma
 Sprint
 e que não atenda à Definição de Pronto:
 
@@ -8766,7 +8617,7 @@ c) será liberado com ressalvas, desde que haja acordo no Scrum Team.
 
 d) será apresentado na Sprint Review para uma segunda avaliação do Scrum Team
 
-Item. 48. ÍCESPE IAPEX-BRASIL - 2021) No Scrum, cada artefato tem um compromisso, para
+48. ÍCESPE IAPEX-BRASIL - 2021) No Scrum, cada artefato tem um compromisso, para
 assegurar
 que a informação fornecida aumente a transparência e o foco, possibilitando a
 mensuração do
@@ -8780,11 +8631,11 @@ c) Definition of Done.
 
 d) Burn Down.
 
-Item. 49. (CESPE / Ministério da Economia - 2020) Os métodos ágeis de
+49. (CESPE / Ministério da Economia - 2020) Os métodos ágeis de
 desenvolvimento
 de software têm duas unidades principais de entrega: lançamentos e iterações.
 
-Item. 50. (CESPE / Ministério da Economia - 2020) O responsável direto pelo backlog da
+50. (CESPE / Ministério da Economia - 2020) O responsável direto pelo backlog da
 sprint é o time
 de desenvolvimento, que decide sobre as adições e(ou) remoções e os ajustes de tarefas
 durante
@@ -8792,11 +8643,11 @@ a execução da sprint; no entanto, se algum item for retirado, o dono do produt
 ser avisado
 o mais breve possível.
 
-Item. 51. (CESPE / Ministério da Economia - 2020) O Scrum Masteré diretamente
+51. (CESPE / Ministério da Economia - 2020) O Scrum Masteré diretamente
 responsável por
 manter e priorizar o backlog do produto, além de colaborar com o time de desenvolvimento.
 
-Item. 52. (CESPE / Ministério da Economia - 2020) Um dos artefatos do Scrum, o backlog do
+52. (CESPE / Ministério da Economia - 2020) Um dos artefatos do Scrum, o backlog do
 produto é
 gerenciado, exclusivamente, pelo dono do produto e representa o conteúdo, a
 disponibilidade
@@ -8804,12 +8655,11 @@ e a ordenação do trabalho a ser realizado, sendo a única porta de entrada par
 os registros
 de requisitos de mudança a serem realizados no produto.
 
-Item. 53. (CESPE / Ministério da Economia - 2020) Sprint é o ciclo de desenvolvimento de
+53. (CESPE / Ministério da Economia - 2020) Sprint é o ciclo de desenvolvimento de
 poucas
 semanas sobre o qual se estrutura o Scrum e durante o qual cabe ao scrum master
 manter
 o sprint backlog atualizado, indicando as tarefas já concluídas e aquelas ainda por concluir.
-
 
 54-(CESPE / Ministério da Economia - 2020) Uma forma de acompanhar a produtividade é
 fazer
@@ -8817,25 +8667,25 @@ uso de um gráfico de Burndown, no qual é possível visualizar a expectativa de
 produtividade
 ideal do projeto e comparar com a produtividade real.
 
-Item. 55. (CESPE / Ministério da Economia - 2020) Backlog da sprint é diferente do backlog
+55. (CESPE / Ministério da Economia - 2020) Backlog da sprint é diferente do backlog
 do produto,
 já que o primeiro é um conjunto de itens selecionados a partir do segundo, sendo
 parte do
 planejamento da equipe para entregar um incremento do produto.
 
-Item. 56. (CESPE / Ministério da Economia-2020) As histórias são consideradas pequenos
+56. (CESPE / Ministério da Economia-2020) As histórias são consideradas pequenos
 requisitos de
 um projeto na perspectiva do usuário final.
 
-Item. 57. (CESPE / Ministério da Economia - 2020) Pequenas partes do trabalho com a
+57. (CESPE / Ministério da Economia - 2020) Pequenas partes do trabalho com a
 perspectiva do
 patrocinador são artefatos denominados Epics.
 
-Item. 58. (CESPE / Ministério da Economia - 2020) Oscrum master possui autoridade para
+58. (CESPE / Ministério da Economia - 2020) Oscrum master possui autoridade para
 cancelar
 uma sprint antes de o time-boxed da sprint terminar.
 
-Item. 59. (CESPE / SLU-DF - 2019) Entre os processos da gestão de projetos com Scrum, as
+59. (CESPE / SLU-DF - 2019) Entre os processos da gestão de projetos com Scrum, as
 inspeções
 constituem os processos mais complexos e formais e, por isso, ocorrem somente ao fim
 de um
@@ -8843,7 +8693,7 @@ ciclo de várias sprints, após a liberação de uma funcionalidade plena e o se
 reconhecimento
 pelo demandante.
 
-Item. 60. (CESPE /TCE-RO- 2019) No Scrum,
+60. (CESPE /TCE-RO- 2019) No Scrum,
 
 a) os times de desenvolvimento ou times Scrum são auto-organizáveis e
 responsáveis por
@@ -8865,14 +8715,13 @@ e) após o planejamento da sprint, o backlog do produto torna-se completo, o que
 impede a
 ocorrência de alterações posteriores.
 
-Item. 61. (CESPE / MPC-PA-2019) A gestão ágil é uma das tendências nos projetos de
+61. (CESPE / MPC-PA-2019) A gestão ágil é uma das tendências nos projetos de
 desenvolvimento
 de software. O backlog é um dos artefatos que auxiliam na organização do projeto, em
 especial
 na definição das características tanto do produto (Product Backlog) quanto das Sprints
 (Sprint
 Backlog). Com relação a esses conceitos, assinale a opção correta:
-
 
 a) O backlog da Sprint não pode ser alterado após sua elaboração.
 
@@ -8888,11 +8737,11 @@ para cada Sprint depende do Product Backlog.
 
 e) O backlog da Sprint deve prever a duração de, no máximo, um mês para cada Sprint.
 
-Item. 62. (CESPE / FUB - 2018) No método Scrum, ao final de cada período de duas a quatro
+62. (CESPE / FUB - 2018) No método Scrum, ao final de cada período de duas a quatro
 semanas de
 um Sprint backlog, pode-se planejar uma entrega periódica ao cliente.
 
-Item. 63. (CESPE / BNB-2018) No Scrum, o Product Owner é a pessoa que define os itens que
+63. (CESPE / BNB-2018) No Scrum, o Product Owner é a pessoa que define os itens que
 compõem
 o product backlog.
 
@@ -8902,37 +8751,37 @@ responsável por gerenciar o backlog do produto, possuindo, ainda, a
 responsabilidade de
 maximizar o valor do produto e do trabalho da equipe de desenvolvimento.
 
-Item. 65. (CESPE / SERPRO - 2013) Scrum é um processo de desenvolvimento que tem como
+65. (CESPE / SERPRO - 2013) Scrum é um processo de desenvolvimento que tem como
 ponto de
 partida um conjunto de requisitos bem definidos.
 
-Item. 66. (CESPE / TCE-RO - 2013) Na metodologia Scrum, a equipe trabalha nos processos
+66. (CESPE / TCE-RO - 2013) Na metodologia Scrum, a equipe trabalha nos processos
 e não há
 cargos na equipe. Como um dos papéis necessários, o Scrum Master deve
 garantir que o
 processo seja entendido e atuar como facilitador para ajudar a equipe.
 
-Item. 67. (CESPE / BASA - 2012) Em um projeto gerido com a metodologia Scrum, um produto
+67. (CESPE / BASA - 2012) Em um projeto gerido com a metodologia Scrum, um produto
 estará,
 ao final de cada sprint, completamente testado, estando 100% completos todos os
 requisitos
 do product backlog.
 
-Item. 68. (CESPE / BASA - 2012) O escopo, a importância e a estimativa de um Sprint
+68. (CESPE / BASA - 2012) O escopo, a importância e a estimativa de um Sprint
 do Scrum são
 definidos pelo Product Owner.
 
-Item. 69. (CESPE / BASA - 2012) A metodologia Scrum, ágil para gerência de projetos,
+69. (CESPE / BASA - 2012) A metodologia Scrum, ágil para gerência de projetos,
 baseia-se em
 ciclos de 30 dias, denominados sprints, em que se trabalha para alcançar
 objetivos bem
 definidos.
 
-Item. 70. (CESPE / ECT - 2011) Para que se obtenha sucesso na utilização do Scrum, o
+70. (CESPE / ECT - 2011) Para que se obtenha sucesso na utilização do Scrum, o
 cliente deve se
 tornar parte da equipe de desenvolvimento do software, participando diretamente do processo.
 
-Item. 71. (CESPE / MEC - 2011) O framework scrum engloba conceitos como times scrum,
+71. (CESPE / MEC - 2011) O framework scrum engloba conceitos como times scrum,
 eventos com
 duração fixa (time-boxes), artefatos e regras. São exemplos de eventos que têm duração
 fixa: a
@@ -8940,14 +8789,13 @@ reunião de planejamento da versão para entrega, a sprint, a reunião diária, 
 da sprint e
 a retrospectiva da sprint.
 
-
 ji.(CESPE / MEC 2011) Produto da metodologia Scrum, o documento product backlog contém
 os
 requisitos definidos a partir da visão do cliente e é utilizado novamente no final do
 sprint para
 revisão ou modificações dos requisitos inicialmente definidos.
 
-Item. 73. (CESPE / ABIN - 2010) No SCRUM, um backlog consiste em uma lista de itens
+73. (CESPE / ABIN - 2010) No SCRUM, um backlog consiste em uma lista de itens
 priorizados a
 serem desenvolvidos para um software. Essa lista é mantida no product owner, o qual
 pode
@@ -8955,14 +8803,13 @@ alterá-la a qualquer momento, desde que os itens alterados não estejam na spri
 backlog. Isso
 significa que product backlog e sprint backlog são estruturas similares.
 
-
 GABARITo
 
-Item. 1. CORRETO 26. ANULADO
+1. CORRETO 26. ANULADO
 51- ERRADO
 
-Item. 2. CORRETO 27- ERRADO
-Item. 52. CORRETO
+2. CORRETO 27- ERRADO
+52. CORRETO
 
 3- CORRETO 28. CORRETO
 53- ERRADO
@@ -8973,64 +8820,63 @@ Item. 52. CORRETO
 5- ERRADO 30. ERRADO
 55- CORRETO
 
-Item. 6. ERRADO 31- ERRADO
-Item. 56. CORRETO
+6. ERRADO 31- ERRADO
+56. CORRETO
 
 7- ERRADO 32. CORRETO
 57- ERRADO
 
-Item. 8. CORRETO 33- CORRETO
-Item. 58. ERRADO
+8. CORRETO 33- CORRETO
+58. ERRADO
 
 9- ERRADO 34- ERRADO
 59- ERRADO
 
-Item. 10. CORRETO 35- ERRADO
-Item. 60. LETRAC
+10. CORRETO 35- ERRADO
+60. LETRAC
 
 li. ERRADO 36. CORRETO
-Item. 61. LETRA E
+61. LETRA E
 
-Item. 12. CORRETO 37- LETRA B
-Item. 62. ERRADO
+12. CORRETO 37- LETRA B
+62. ERRADO
 
 13- ERRADO 38. LETRA D
-Item. 63. CORRETO
+63. CORRETO
 
 14- CORRETO 39- LETRA B
-Item. 64. CORRETO
+64. CORRETO
 
 x5- ANULADO 40. CORRETO
-Item. 65. ERRADO
+65. ERRADO
 
 i6. ANULADO 41. ERRADO
-Item. 66. CORRETO
+66. CORRETO
 
 17- ERRADO 42. CORRETO
-Item. 67. ERRADO
+67. ERRADO
 
 i8. ANULADO 43- CORRETO
-Item. 68. ERRADO
+68. ERRADO
 
-Item. 19. ERRADO 44. ERRADO
-Item. 69. CORRETO
+19. ERRADO 44. ERRADO
+69. CORRETO
 
-Item. 20. ERRADO 45- CORRETO
-Item. 70. CORRETO
+20. ERRADO 45- CORRETO
+70. CORRETO
 
-Item. 21. ERRADO 46. ERRADO
+21. ERRADO 46. ERRADO
 71- CORRETO
 
-Item. 22. ANULADO 47- LETRA A
-Item. 72. CORRETO
+22. ANULADO 47- LETRA A
+72. CORRETO
 
 23- ERRADO 48. LETRA C
 73- ERRADO
 
-Item. 24. ERRADO 49- CORRETO
+24. ERRADO 49- CORRETO
 
 25- ERRADO 50. CORRETO
-
 
 LISTA DE QUESTõES - FCC
 
@@ -9057,7 +8903,7 @@ e) test driven development, prática que consiste em definir e implementar os te
 unidade
 antes da programação.
 
-Item. 2. (FCC / TRF - 3a REGIÃO - 2019) SCRUM atende aos princípios do Manifesto Ágil porque:
+2. (FCC / TRF - 3a REGIÃO - 2019) SCRUM atende aos princípios do Manifesto Ágil porque:
 
 a) pessoas de negócio e desenvolvedores devem trabalhar diariamente em conjunto por
 todo o
@@ -9077,7 +8923,7 @@ e) não admite a comunicação direta entre os desenvolvedores, pessoalmente. Is
 ser
 feito por intermédio de um gerente ou coordenador.
 
-Item. 3. (FCC/TRF-3a REGIÃO-2019) A Reunião Diária do Scrum é:
+3. (FCC/TRF-3a REGIÃO-2019) A Reunião Diária do Scrum é:
 
 a) executada no final da Sprint para inspecionar o incremento e adaptar o Backlog do
 Produto,
@@ -9095,10 +8941,9 @@ d) um time-boxed de 15 minutos, para que o Time de Desenvolvimento possa sincron
 as
 atividades e criar um plano para as próximas 24 horas.
 
-
 e) um time-boxed de 6o minutos, durante o qual os produtos de uma Sprint são definidos.
 
-Item. 4. (FCC / TRF - 3a REGIÃO - 2019) No roteiro SCRUM, de gerenciamento Ágil, a
+4. (FCC / TRF - 3a REGIÃO - 2019) No roteiro SCRUM, de gerenciamento Ágil, a
 atividade que
 discute funcionalidades de modo a atualizar o que já foi feito, o que será feito e dificuldades é:
 
@@ -9124,7 +8969,7 @@ e) Product Backlog onde se produz uma lista contendo todas as funcionalidades de
 para
 um produto em sua situação atual.
 
-Item. 5. (FCC / SANASA Campinas - 2019) Um Analista de TI tem como tarefas ordenar os
+5. (FCC / SANASA Campinas - 2019) Um Analista de TI tem como tarefas ordenar os
 itens do
 Backlog do Produto visando o alcance das metas e missões do projeto, buscando garantir
 que o
@@ -9146,7 +8991,7 @@ d) Product Owner.
 
 e) DevelopmentTeam Leader.
 
-Item. 6. (FCC / TRF - 4a REGIÃO - 2019) Uma Analista de TI está atuando como Product
+6. (FCC / TRF - 4a REGIÃO - 2019) Uma Analista de TI está atuando como Product
 Owner em um
 projeto Scrum. Ela está trabalhando na formulação de um acordo para definir quais são
 os
@@ -9160,7 +9005,6 @@ transparência e os padrões de qualidade estabelecidos entre eles. O acordo, de
 a) Scrum rules, integra os eventos, papéis e artefatos, administrando as relações
 e interações
 entre eles, e é criado na ia sessão do Sprint Review Meeting.
-
 
 b) incremento, pode evoluir normalmente ao longo do projeto, porém é recomendável que
 a
@@ -9180,7 +9024,7 @@ e) DoD, também orienta o Scrum Team no conhecimento de quantos itens do
 Product
 Backlog podem ser selecionados durante a Sprint Planning Meeting.
 
-Item. 7. (FCC/TJ-MA-2019) Um Analista Judiciário, no papel de Scrum Master, esclarece que:
+7. (FCC/TJ-MA-2019) Um Analista Judiciário, no papel de Scrum Master, esclarece que:
 
 a) o gerenciamento do Product Backlog não fica unicamente na responsabilidade do
 Product
@@ -9202,7 +9046,7 @@ e) o Scrum Team consiste de profissionais que realizam o trabalho de entregar um
 incremento
 potencialmente liberável do produto "Pronto" no início de cada Sprint.
 
-Item. 8. (FCC / SEGEP-MA- 2018) O Scrum prescreve quatro eventos formais, contidos dentro dos
+8. (FCC / SEGEP-MA- 2018) O Scrum prescreve quatro eventos formais, contidos dentro dos
 limites da Sprint, para inspeção e adaptação. Dois desses eventos são:
 
 a) revisão do backlog e orientação do Scrum Master.
@@ -9215,8 +9059,7 @@ d) revisão das especificações e reunião de planejamento da Sprint.
 
 e) reunião diária e retrospectiva da Sprint.
 
-Item. 9. (FCC /TRT-MG -2015) Com relação ao Scrum, considere:
-
+9. (FCC /TRT-MG -2015) Com relação ao Scrum, considere:
 
 I. O Product Owner, ou dono do produto, é responsável por garantir que o Scrum seja
 entendido
@@ -9246,7 +9089,7 @@ d) II.
 
 e) I e III.
 
-Item. 10. (FCC /TRT-SC-2013) SCRUM é um framework baseado no modelo ágil. No SCRUM,
+10. (FCC /TRT-SC-2013) SCRUM é um framework baseado no modelo ágil. No SCRUM,
 
 a) o scrum team é a equipe de desenvolvimento, necessariamente dividida em papéis como
 analista, designer e programador. Em geral o scrum team tem de 10 a 20 pessoas.
@@ -9269,7 +9112,7 @@ importantes a serem tratados em cada sprint. É responsável por conhecer e
 avaliar as
 necessidades dos clientes.
 
-Item. 11. (FCC / TRE-CE - 2012) No SCRUM, sprint é:
+11. (FCC / TRE-CE - 2012) No SCRUM, sprint é:
 
 a) um representante dos stakeholders e do negócio.
 
@@ -9281,8 +9124,7 @@ d) uma iteração que segue um ciclo (PDCA) e entrega incremento de software pro
 
 e) um conjunto de requisitos, priorizado pelo Product Owner.
 
-
-Item. 12. (FCC / TRT-SP - 2012) Analise o texto:
+12. (FCC / TRT-SP - 2012) Analise o texto:
 
 O Scrum enfatiza o uso de um conjunto de padrões de processos de software que
 provaram ser
@@ -9310,7 +9152,7 @@ d) registro pendente de trabalhos (Backlog).
 
 e) registro iterativo de desenvolvimento (sprint).
 
-Item. 13. (FCC / TRF-2 - 2012) Segundo Roger S. Pressman, em seu livro Engenharia de
+13. (FCC / TRF-2 - 2012) Segundo Roger S. Pressman, em seu livro Engenharia de
 Software, 7a
 edição, os princípios do Scrum são consistentes com o manifesto ágil e são usados
 para orientar
@@ -9330,7 +9172,7 @@ d) backlog.
 
 e) sprint.
 
-Item. 14. (FCC / INFRAERO-2011) Um dos principais conceitos do Scrum para atacara
+14. (FCC / INFRAERO-2011) Um dos principais conceitos do Scrum para atacara
 complexidade do
 desenvolvimento e gerenciamento de software é a implantação de
 um controle
@@ -9348,8 +9190,7 @@ d) Sprint, Scrum Master e Planning Meeting.
 
 e) Sprint, Scrum Team e Product Backlog.
 
-Item. 15. (FCC / INFRAERO - 2011) Em relação às regras do Scrum, é INCORRETO afirmar:
-
+15. (FCC / INFRAERO - 2011) Em relação às regras do Scrum, é INCORRETO afirmar:
 
 a) O Sprint deve ser realizado num período máximo de 40 dias e ter uma equipe de
 trabalho não
@@ -9374,7 +9215,7 @@ imediatamente tomar
 decisões, quando necessárias, para remover todas as situações que impeçam a agilidade do
 trabalho.
 
-Item. 16. (FCC/TCE-SE-2Oii) Aceita a imprevisibilidade do desenvolvimento de software e
+16. (FCC/TCE-SE-2Oii) Aceita a imprevisibilidade do desenvolvimento de software e
 a contorna
 através da adaptação constante. Destaca-se das demais metodologias ágeis por
 dar mais
@@ -9393,7 +9234,7 @@ d) DSDM.
 
 e) Scrum.
 
-Item. 17. (FCC / TRT-RS - 2011) Para utilizar o processo de estimativa por Story Points em
+17. (FCC / TRT-RS - 2011) Para utilizar o processo de estimativa por Story Points em
 Scrum,
 inicialmente:
 
@@ -9409,8 +9250,7 @@ e) o Product Planning deve avaliar cada Sprint contida no Backlog transacional e
 decidir pela
 prioridade de atividades.
 
-
-Item. 18. (FCC / TRT-RJ - 2011) No SCRUM, o processo de desenvolvimento inicia com uma
+18. (FCC / TRT-RJ - 2011) No SCRUM, o processo de desenvolvimento inicia com uma
 reunião de
 planejamento na qual o Product Owner e a equipe decidem, em conjunto, o que deverá
 ser
@@ -9428,7 +9268,7 @@ d) Sprint.
 
 e) Sprint Burndown.
 
-Item. 19. (FCC / TRE-ES - 2010) Os princípios Scrum são usados para guiar as
+19. (FCC / TRE-ES - 2010) Os princípios Scrum são usados para guiar as
 atividades de
 desenvolvimento dentro de um processo que incorpora as seguintes atividades de arcabouço:
 requisitos, análise, projeto, evolução e entrega. Em cada atividade de arcabouço, as
@@ -9445,7 +9285,7 @@ d) história de usuário.
 
 e) sprint.
 
-Item. 20. (FCC / TRF 4a - 2010) Na fase de desenvolvimento do Scrum, o software é
+20. (FCC / TRF 4a - 2010) Na fase de desenvolvimento do Scrum, o software é
 desenvolvido em
 processos iterativos denominados:
 
@@ -9459,7 +9299,7 @@ d) Product Owner.
 
 e) Product Backlog Cycle.
 
-Item. 21. (FCC / TRE-RS - 2010) Em reunião, toda conversação é restringida às respostas dos
+21. (FCC / TRE-RS - 2010) Em reunião, toda conversação é restringida às respostas dos
 elementos
 às perguntas colocadas pelo Scrum Master, sendo uma delas: "O que planeja desenvolver
 até a
@@ -9475,8 +9315,7 @@ d) duas vezes por semana.
 
 e) diariamente.
 
-Item. 22. (FCC / TRE-RS - 2010) No contexto das regras do SCRUM, é correto afirmar:
-
+22. (FCC / TRE-RS - 2010) No contexto das regras do SCRUM, é correto afirmar:
 
 a) Durante a realização do Sprint, o Backlog pode ser modificado por
 qualquer um dos
@@ -9497,7 +9336,7 @@ desejável, novas funcionalidades devem ser implementadas para garantir o prazo 
 e) O foco na produtividade se estende às Scrum meetings e a conversação é pautada em
 discussões portoda a equipe.
 
-Item. 23. (FCC / TRE-RS - 2010) No SCRUM, o produto final, a data final e o custo do
+23. (FCC / TRE-RS - 2010) No SCRUM, o produto final, a data final e o custo do
 projeto são
 determinados:
 
@@ -9511,7 +9350,7 @@ d) respectivamente, nas fases intermediárias, no planejamento, no final do proj
 
 e) em função das iterações.
 
-Item. 24. (FCC / DPE-SP - 2010) Na engenharia de software, um processo iterativo denominado
+24. (FCC / DPE-SP - 2010) Na engenharia de software, um processo iterativo denominado
 sprint,
 que segue o ciclo PDCA para entregar, num período de 30 dias
 aproximadamente, um
@@ -9527,7 +9366,7 @@ d) FDD.
 
 e) XP.
 
-Item. 25. (FCCIAFR-SP-2009) O conceito de sprint aplica-se ao modelo ágil do processo de
+25. (FCCIAFR-SP-2009) O conceito de sprint aplica-se ao modelo ágil do processo de
 engenharia
 de software denominado:
 
@@ -9541,34 +9380,32 @@ d) DSDM.
 
 e) Scrum.
 
-
 GABARITo
 
-Item. 1. LETRA C 10. LETRA E
+1. LETRA C 10. LETRA E
 19- LETRA E
 
-Item. 2. LETRA A li. LETRA D
-Item. 20. LETRAC
+2. LETRA A li. LETRA D
+20. LETRAC
 
 3- LETRA D 12. LETRA D
-Item. 21. LETRA E
+21. LETRA E
 
 4- LETRA D 13- LETRA E
-Item. 22. LETRA B
+22. LETRA B
 
 5- LETRA D 14- LETRA A
 23- LETRA B
 
-Item. 6. LETRA E 15- LETRA A
-Item. 24. LETRA A
+6. LETRA E 15- LETRA A
+24. LETRA A
 
 7- LETRA C i6. LETRA E
 25- LETRA E
 
-Item. 8. LETRA E 17- LETRA A
+8. LETRA E 17- LETRA A
 
 9- LETRA B i8. LETRA B
-
 
 LISTA DE QUESTõES - FCV
 
@@ -9586,7 +9423,7 @@ c) Gerente de Projetos
 d) Product Owner
 e) Desenvolvedor
 
-Item. 2. (FGV / TCE-TO - 2022) Na metodologia ágil SCRUM há diversos eventos formais que
+2. (FGV / TCE-TO - 2022) Na metodologia ágil SCRUM há diversos eventos formais que
 são
 realizados para inspecionar e adaptar artefatos. O evento SCRUM que tem como
 propósito
@@ -9606,7 +9443,7 @@ d) Product Backlog;
 
 e) Sprint Retrospective.
 
-Item. 3. (FGV / TCE-TO - 2022) Na metodologia ágil Scrum, Sprints são eventos de duração
+3. (FGV / TCE-TO - 2022) Na metodologia ágil Scrum, Sprints são eventos de duração
 fixa de até
 um mês que envolvem todo o trabalho necessário para atingir a meta do Produto. Se a
 meta se
@@ -9624,7 +9461,7 @@ d) Product Owner;
 
 e) Product Backlog.
 
-Item. 4. (FGV / TCE-TO - 2022) Na metodologia ágil SCRUM há diversos eventos formais que
+4. (FGV / TCE-TO - 2022) Na metodologia ágil SCRUM há diversos eventos formais que
 são
 realizados para inspecionar e adaptar artefatos. O evento SCRUM que tem como
 propósito
@@ -9633,7 +9470,6 @@ o que
 deu certo durante a Sprint, quais problemas foram encontrados e como esses problemas
 foram
 (ou não) resolvidos, é o:
-
 
 a) Daily Scrum;
 
@@ -9645,7 +9481,7 @@ d) Product Backlog;
 
 e) Sprint Retrospective.
 
-Item. 5. (FGV / TCE-TO - 2022) Na metodologia ágil Scrum, Sprints são eventos de duração
+5. (FGV / TCE-TO - 2022) Na metodologia ágil Scrum, Sprints são eventos de duração
 fixa de até
 um mês que envolvem todo o trabalho necessário para atingir a meta do Produto. Se a
 meta se
@@ -9663,7 +9499,7 @@ d) Product Owner;
 
 e) Product Backlog.
 
-Item. 6. (FGV / TCE-TO - 2022) Durante o processo de monitoramento do progresso de
+6. (FGV / TCE-TO - 2022) Durante o processo de monitoramento do progresso de
 entregas no
 SCRUM, normalmente são utilizadas várias práticas úteis, como burndown e
 burnup. Essas
@@ -9685,7 +9521,7 @@ e) o acompanhamento do Scrum Master em identificar possíveis impedimentos
 durante a
 execução da sprint.
 
-Item. 7. (FGV / Senado Federal - Análise de Sistemas - 2022) Durante o processo de
+7. (FGV / Senado Federal - Análise de Sistemas - 2022) Durante o processo de
 monitoramento
 do progresso de entregas no SCRUM, normalmente são utilizadas várias práticas úteis,
 como
@@ -9695,7 +9531,6 @@ a) medição de apontamento de horas e estimativa de entrega alinhada entre o Pr
 o Scrum Master.
 
 b) o cronograma estabelecido em contrato com o cliente.
-
 
 c) o conhecimento prático do processo, principalmente em ambientes complexos onde não é
 possível prever os resultados.
@@ -9708,7 +9543,7 @@ e) o acompanhamento do Scrum Master em identificar possíveis impedimentos
 durante a
 execução da sprint.
 
-Item. 8. (FGV / TJDFT - 2022) Uma equipe de analista de sistemas está desenvolvendo o
+8. (FGV / TJDFT - 2022) Uma equipe de analista de sistemas está desenvolvendo o
 software
 ProgramaTJ aplicando a metodologia Lean. A equipe decidiu implementar
 apenas as
@@ -9730,7 +9565,7 @@ d) respeitar as pessoas;
 
 e) criação de conhecimento.
 
-Item. 9. (FGV / TJDFT - 2022) Uma equipe de desenvolvimento de sistemas de software
+9. (FGV / TJDFT - 2022) Uma equipe de desenvolvimento de sistemas de software
 (EDSS) está
 trabalhando no desenvolvimento de uma nova aplicação Web utilizando
 práticas ágeis
@@ -9760,7 +9595,6 @@ Backlog para adicionar a alteração solicitada;
 e) manter o prazo planejado para desenvolvimento da Sprint, adicionando a alteração
 solicitada
 no Product Backlog.
-
 
 io.(FGV / FUNSAÚDE - 2021) Analise a frase a seguir.
 
@@ -9806,7 +9640,7 @@ e) Disseminar conhecimento sobre o que foi feito no dia anterior para poder prio
 o trabalho
 a ser realizado no dia que se inicia.
 
-Item. 12. (FGV / AL-RO - 2018) Para o desenvolvimento do Sistema de Informações ao Cidadão
+12. (FGV / AL-RO - 2018) Para o desenvolvimento do Sistema de Informações ao Cidadão
 (SIC), foi
 decidida a utilização de uma metodologia ágil. Segundo o Manifesto Ágil, esta decisão
 indica
@@ -9822,7 +9656,6 @@ d) à negociação do contrato.
 
 e) ao cumprimento do plano.
 
-
 i3-(FGV / Banestes- 2018) Com relação aos valores relacionados ao
 desenvolvimento ágil de
 software, NÃO se pode incluir:
@@ -9837,7 +9670,7 @@ d) responder a mudanças mais que seguir um plano;
 
 e) software funcional mais que documentação abrangente.
 
-Item. 14. (FGV / Banestes -2018) Um dos valores relacionados ao ambiente ágil de desenvolvimento é:
+14. (FGV / Banestes -2018) Um dos valores relacionados ao ambiente ágil de desenvolvimento é:
 
 a) documentação abrangente mais que software funcional;
 
@@ -9849,7 +9682,7 @@ d) rapidez na construção mais que excelência técnica;
 
 e) respondera mudanças mais que seguir um plano.
 
-Item. 15. (FGV / TJ-SC - 2015) O SCRUM, processo para o desenvolvimento de software ágil,
+15. (FGV / TJ-SC - 2015) O SCRUM, processo para o desenvolvimento de software ágil,
 estrutura-
 se sobre:
 
@@ -9863,7 +9696,7 @@ d) client team, development team, deliverables;
 
 e) interface, data, code.
 
-Item. 16. (FGV / PGE-RO - 2015) Durante 5 anos gerenciando o desenvolvimento de
+16. (FGV / PGE-RO - 2015) Durante 5 anos gerenciando o desenvolvimento de
 sistemas de
 informação, Claudia teve que lidar com diversas insatisfações de seus usuários pois os
 sistemas
@@ -9889,12 +9722,11 @@ b) somente II;
 
 c) somente III;
 
-
 d) somente I e III;
 
 e) I, lie III.
 
-Item. 17. (FGVITJ-RO - 2015) O manifesto ágil tem por princípio que:
+17. (FGVITJ-RO - 2015) O manifesto ágil tem por princípio que:
 
 a) mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento;
 
@@ -9910,7 +9742,7 @@ e) pessoas de negócio e desenvolvedores devem trabalharem ambientes separados p
 reduzir
 as interferências no processo de desenvolvimento.
 
-Item. 18. (FGV/Câmara Municipal de Caruaru - PE-2015) O desenvolvimento ágil de software é
+18. (FGV/Câmara Municipal de Caruaru - PE-2015) O desenvolvimento ágil de software é
 guiado
 por metodologias que compartilham um conjunto comum de valores e de princípios, conforme
 definido pelo Manifesto Ágil. Assinale a opção que indica um princípio do desenvolvimento ágil.
@@ -9933,7 +9765,7 @@ e) A entrega contínua e adiantada de software, mesmo que o conjunto de
 funcionalidades
 desenvolvidas não agregue valor, deve serfeita para satisfazer o cliente.
 
-Item. 19. (FGV / DPE-RO - 2015) O Manifesto Ágil é uma declaração que reúne os princípios
+19. (FGV / DPE-RO - 2015) O Manifesto Ágil é uma declaração que reúne os princípios
 e práticas
 que fundamentam o desenvolvimento ágil de software. É um dos princípios desse manifesto:
 
@@ -9953,8 +9785,7 @@ constante indefinidamente evitando interrupções e intervalos regulares;
 
 e) as melhores arquiteturas, requisitos e designs emergem de equipes auto-organizáveis.
 
-
-Item. 20. (FGV / DPE-RO - 2015) Uma metodologia de desenvolvimento de software é
+20. (FGV / DPE-RO - 2015) Uma metodologia de desenvolvimento de software é
 um conjunto
 estruturado de práticas que auxiliam o processo de produção de software. Em geral, a
 adoção
@@ -9988,7 +9819,7 @@ d) somente I e II;
 
 e) I, lie III.
 
-Item. 21. (FGV / PROCEMPA-2014) O Manifesto Ágil é uma declaração de princípios que
+21. (FGV / PROCEMPA-2014) O Manifesto Ágil é uma declaração de princípios que
 fundamentam
 o desenvolvimento ágil de software. A respeito desses princípios, assinale a afirmativa correta.
 
@@ -10008,7 +9839,7 @@ afetar a satisfação do cliente.
 
 e) Mudanças nos requisitos são bem-vindas, desde que não impactem o desenvolvimento.
 
-Item. 22. (FGV / TJ-GO- 2014) O Manifesto Ágil lista valores seguidos por
+22. (FGV / TJ-GO- 2014) O Manifesto Ágil lista valores seguidos por
 desenvolvedores com a
 finalidade de melhorar a maneira pela qual o software é desenvolvido. A alternativa
 que se
@@ -10024,8 +9855,7 @@ d) negociação de contratos mais que colaboração com o cliente;
 
 e) negociação de contratos mais que indivíduos e interações.
 
-
-Item. 23. (FGV / DPE-RJ - 2014) Uma das características da metodologia ágil Scrum é:
+23. (FGV / DPE-RJ - 2014) Uma das características da metodologia ágil Scrum é:
 
 a) focar nas práticas de engenharia.
 
@@ -10037,7 +9867,7 @@ d) exigir o planejamento do projeto, de acordo com as práticas do PMBOK.
 
 e) não exigir interação com o cliente.
 
-Item. 24. (FGV / TJ-AM - 2013) Com relação aos princípios do modelo ágil de processo Scrum, analise as
+24. (FGV / TJ-AM - 2013) Com relação aos princípios do modelo ágil de processo Scrum, analise as
 afirmativas a seguir.
 
 I. O processo precisa ser adaptável tanto a modificações técnicas quanto de negócios
@@ -10063,7 +9893,7 @@ d) se somente as afirmativas I e II estiverem corretas.
 
 e) se todas as afirmativas estiverem corretas.
 
-Item. 25. (FGV / MPE-MS - 2013) Em Scrum, pode-se utilizar diversas técnicas para estimar o
+25. (FGV / MPE-MS - 2013) Em Scrum, pode-se utilizar diversas técnicas para estimar o
 que será
 feito durante o projeto ou na próxima "Sprint". A respeito da estimativa
 chamada de "Story
@@ -10082,7 +9912,6 @@ Points", é inspirada na
 sequência de Fibonnacci.
 
 Assinale:
-
 
 a) se somente a afirmativa III estiver correta
 b) se somente as afirmativas I e III estiverem corretas
@@ -10126,36 +9955,34 @@ d) Daily Scrum.
 
 e) Sprints.
 
-
 GABARITo
 
-Item. 1. LETRA D 10. LETRA D
-Item. 19. LETRA E
+1. LETRA D 10. LETRA D
+19. LETRA E
 
-Item. 2. LETRA E li. LETRA A
-Item. 20. LETRA A
+2. LETRA E li. LETRA A
+20. LETRA A
 
 3- LETRA D 12. LETRA B
-Item. 21. LETRA B
+21. LETRA B
 
 4- LETRA E 13- LETRA C
-Item. 22. LETRA B
+22. LETRA B
 
 5- LETRA D 14. LETRA E
 23- LETRAC
 
-Item. 6. LETRA C 15- LETRA B
-Item. 24. LETRA E
+6. LETRA C 15- LETRA B
+24. LETRA E
 
 7- LETRA C i6. LETRA B
 25- LETRA B
 
-Item. 8. LETRA C 17- LETRA A
-Item. 26. LETRA E
+8. LETRA C 17- LETRA A
+26. LETRA E
 
 9- LETRA E i8. LETRA B
 27- LETRA E
-
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
@@ -10190,7 +10017,7 @@ d) Sprint Retrospective Chart.
 
 e) Sprint Review Meeting Chart.
 
-Item. 2. (FUNDATEC/ISS-Porto Alegre-2022) No framework "Scrum", elabora-se uma lista
+2. (FUNDATEC/ISS-Porto Alegre-2022) No framework "Scrum", elabora-se uma lista
 ordenada
 de tudo que é conhecido ser necessário no produto. Sobre essa lista,
 considere, ainda, as
@@ -10214,10 +10041,9 @@ c) Backlog Planning.
 
 d) Product Backlog.
 
-
 e) Definição de Pronto.
 
-Item. 3. (CESGRANRIO/ Banco da Amazônia - 2021) "O Scrum é um arcabouço que ajuda pessoas,
+3. (CESGRANRIO/ Banco da Amazônia - 2021) "O Scrum é um arcabouço que ajuda pessoas,
 times e organizações a gerar valor por meio de soluções adaptativas para
 problemas
 complexos."
@@ -10237,7 +10063,7 @@ c) respeito, inspeção e adaptação
 d) transparência, compromisso e respeito
 e) transparência, inspeção e adaptação
 
-Item. 4. (COMPERVE/TJ-RN-2020) O Scrum é um framework dentro do qual as pessoas podem
+4. (COMPERVE/TJ-RN-2020) O Scrum é um framework dentro do qual as pessoas podem
 tratar
 e resolver problemas de forma ágil. O coração do Scrum são suas sprints.
 Segundo
@@ -10251,7 +10077,7 @@ c) Product Owner.
 
 d) Team manager.
 
-Item. 5. (INSTITUTO AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Assinale a
+5. (INSTITUTO AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Assinale a
 alternativa que
 apresenta uma metodologia para desenvolvimento de software:
 
@@ -10265,7 +10091,7 @@ d) SCRUM
 
 e) ISACA
 
-Item. 6. (UFCG/ UFCG- 2019) A respeito do framework de trabalho Scrum, marque a
+6. (UFCG/ UFCG- 2019) A respeito do framework de trabalho Scrum, marque a
 alternativa
 correta:
 
@@ -10281,12 +10107,11 @@ c) O Product Backlog é uma lista de funcionalidades esperadas para um produto.
 
 d) Foco, comprometimento e respeito não fazem parte dos valores de Scrum.
 
-
 e) Uma equipe Scrum é composta exclusivamente por um Product Owner e
 desenvolvedores,
 sem ninguém responsável pelo treinamento desses desenvolvedores.
 
-Item. 7. (VUNESP / Prefeitura de Campinas - SP - 2019) No método ágil Scrum, há um
+7. (VUNESP / Prefeitura de Campinas - SP - 2019) No método ágil Scrum, há um
 artefato
 denominado backlog, aplicado a diversas etapas do método. Em particular, o
 backlog do
@@ -10302,7 +10127,7 @@ d) um conjunto de normas seguidas pela empresa proprietária do produto.
 
 e) uma relação dos futuros usuários do produto.
 
-Item. 8. (INSTITUTO AOCP/ IBGE - 2019) O time de desenvolvimento de software do
+8. (INSTITUTO AOCP/ IBGE - 2019) O time de desenvolvimento de software do
 IBGE está
 utilizando o método ágil Scrum para desenvolvimento de software. Sabendo disso, analise
 as
@@ -10330,7 +10155,7 @@ d) Apenas I e II.
 
 e) Apenas II e III.
 
-Item. 9. (INSTITUTO AOCP / EMPREL- 2019) Assinale a alternativa que apresenta
+9. (INSTITUTO AOCP / EMPREL- 2019) Assinale a alternativa que apresenta
 uma das
 características do Scrum referente ao Scrum Team (Time Scrum):
 
@@ -10344,12 +10169,11 @@ d) É auto-organizável e não ultrapassa sete pessoas em sua composição.
 
 e) Reuniões diárias são realizadas para possibilitar a interatividade das tarefas.
 
-Item. 10. (CESGRANRIO / UNIRIO- 2019) Uma equipe de desenvolvimento adota o método
+10. (CESGRANRIO / UNIRIO- 2019) Uma equipe de desenvolvimento adota o método
 SCRUM
 para gerenciar seu projeto. Para iniciar a reunião de planejamento da Sprint,
 deve(m)-se definir
 e atualizar:
-
 
 a) o Backlog do Produto
 b) o plano de revisão da Sprint
@@ -10405,7 +10229,7 @@ d) Sprint, Scrum Master, Product Owner e Backlog.
 
 e) Backlog, Product Owner, Scrum Master e Sprint.
 
-Item. 13. (IF-PE / IF-PE - 2019) A reunião de balanço sobre o que foi realizado durante
+13. (IF-PE / IF-PE - 2019) A reunião de balanço sobre o que foi realizado durante
 uma sprint e onde
 o time deve mostrar ao product owner os resultados obtidos é chamada de:
 
@@ -10416,7 +10240,6 @@ b) retrospectiva da sprint.
 c) reunião diária.
 
 d) revisão da sprint.
-
 
 e) reunião de estimativas.
 
@@ -10442,7 +10265,7 @@ d) lie III.
 
 e) 1,11 e III.
 
-Item. 15. (COMPERVE / UFRN- 2019) O Scrum é um framework no qual as pessoas podem abordar
+15. (COMPERVE / UFRN- 2019) O Scrum é um framework no qual as pessoas podem abordar
 problemas adaptativos complexos ao mesmo tempo em que entregam, de maneira produtiva e
 criativa, produtos de mais alto valor possível. Nesse framework, existem
 três papéis
@@ -10456,7 +10279,7 @@ c) product leader, development team e scrum master.
 
 d) product scrum, development team e development master.
 
-Item. 16. (COSEAC IUFF - 2019) Em relação aos métodos ágeis, o responsável por garantir que
+16. (COSEAC IUFF - 2019) Em relação aos métodos ágeis, o responsável por garantir que
 a equipe
 está aderindo aos valores do Scrum é representado por:
 
@@ -10470,7 +10293,7 @@ d) gerente de projetos.
 
 e) stakeholders.
 
-Item. 17. (IF-PA / IF-PA - 2019) A gestão de projetos é um dos grandes desafios no
+17. (IF-PA / IF-PA - 2019) A gestão de projetos é um dos grandes desafios no
 desenvolvimento de
 produtos de software, pois uma gestão padronizada, aliada às boas
 práticas de
@@ -10481,7 +10304,6 @@ frameworks mais utilizados na gestão de projetos de software e sobre ele é cor
 a) Por definição, o seu ciclo é composto pela seguinte sequência: "Sprint", "Sprint View" e
 "Daily
 Scrum".
-
 
 b) Por definição, "Sprint Review" é uma reunião informal que ocorre ao final de cada
 "Sprint"
@@ -10586,7 +10408,7 @@ d) Apenas II e III.
 
 e) I, lie III.
 
-Item. 22. (Instituto Excelência / Prefeitura de São Carlos - SP -2018) Considerando o Scrum, e os papeis
+22. (Instituto Excelência / Prefeitura de São Carlos - SP -2018) Considerando o Scrum, e os papeis
 de partes interessadas, equipe e usuários. Avaliando as descrições abaixo defina os
 papeis nas
 alternativas a seguir.
@@ -10604,7 +10426,6 @@ III) Lista contendo todas as funcionalidades desejada dos produtos com o tempo c
 ou muda
 de acordo que se aprende sobre o usuário e seu produto:
 
-
 a) I. Scrum Master II. Product Owner III. Product Backlog
 b) I. Product Owner. II. Scrum Master. III. Product Backlog.
 
@@ -10614,7 +10435,7 @@ d) I. Product Backlog. II. Scrum Owner. III. Product Master.
 
 e) Nenhuma das alternativas.
 
-Item. 23. (INSTITUTO AOCP / PRODEB - 2018) O SCRUM é um método ágil que caracteriza-se por
+23. (INSTITUTO AOCP / PRODEB - 2018) O SCRUM é um método ágil que caracteriza-se por
 ter
 bem definido quais são os papéis que precisam estar envolvidos no desenvolvimento do
 projeto.
@@ -10630,7 +10451,7 @@ d) Scrum Master, Product Owner e Equipe do Projeto.
 
 e) Product Owner, Gerente de Projetos, PMO e Analista de Negócios.
 
-Item. 24. (INSTITUTO AOCP / PRODEB - 2018) Consiste de profissionais que realizam o trabalho
+24. (INSTITUTO AOCP / PRODEB - 2018) Consiste de profissionais que realizam o trabalho
 de
 entregar uma versão usável que potencialmente incrementa o produto "Pronto" ao final de
 cada
@@ -10646,7 +10467,7 @@ d) Stakeholder.
 
 e) Sprintholder.
 
-Item. 25. (INSTITUTO AOCP / PRODEB - 2018) O Product Owner exerce um papel fundamental para
+25. (INSTITUTO AOCP / PRODEB - 2018) O Product Owner exerce um papel fundamental para
 a
 execução de um produto de sucesso dentro de um determinado método ágil. Ele é
 responsável
@@ -10674,27 +10495,26 @@ a) Sprint; Stakeholders; Secretária.
 
 b) Artefatos; Linguagem de Programação; Reuniões.
 
-
 c) Product Owner; Scrummaster; Equipe.
 
 d) Programador; Analista; Tester.
 
 e) Gerente de sistemas; Sprint; Planejamento.
 
-Item. 27. (INSTITUTO AOCP/UFOB-2018) Scrum é um método de desenvolvimento ágil. Esse método
+27. (INSTITUTO AOCP/UFOB-2018) Scrum é um método de desenvolvimento ágil. Esse método
 envolve as etapas de requisitos, análise, projeto, evolução e entrega do software.
 
-Item. 28. (AOCP/ UNIR -2018) O Backlog da Sprint é a recomendação do trabalho que o Time
+28. (AOCP/ UNIR -2018) O Backlog da Sprint é a recomendação do trabalho que o Time
 identifica
 como necessário para alcançar a meta da Sprint. Os itens do Backlog da Sprint devem
 ser
 íntegros.
 
-Item. 29. (AOCP / UNIR - 2018) O Product Owner é um comitê responsável pelo gerenciamento
+29. (AOCP / UNIR - 2018) O Product Owner é um comitê responsável pelo gerenciamento
 do
 Backlog do Produto e por garantir o valor do trabalho realizado pelo Time Scrum.
 
-Item. 30. (AOCP / UNIR - 2018) O ScrumMaster é responsável por garantir que o Time Scrum
+30. (AOCP / UNIR - 2018) O ScrumMaster é responsável por garantir que o Time Scrum
 esteja
 aderindo aos valores do Scrum, às práticas e às regras. Também ajuda o Time Scrum e
 a
@@ -10702,15 +10522,15 @@ organização a adotarem o Scrum e treina e leva o Time Scrum a ser mais
 produtivo e a
 desenvolver produtos de maior qualidade.
 
-Item. 31. (AOCP/ UNIR -2018) O framework Scrum consiste em um conjunto formado por Times
+31. (AOCP/ UNIR -2018) O framework Scrum consiste em um conjunto formado por Times
 Scrum
 e seus papéis associados, Eventos com Duração Fixa (Time-Boxes), Artefatos e Regras.
 
-Item. 32. (INSTITUTO AOCP / UFOB- 2018) No Scrum, são utilizados encontros diários, os
+32. (INSTITUTO AOCP / UFOB- 2018) No Scrum, são utilizados encontros diários, os
 chamados
 Daily Scrum, para disseminar o conhecimento desenvolvido no dia anterior.
 
-Item. 33. (INSTITUTO AOCP/ PRODEB - 2018) Sobre a retrospectiva de Sprint usando Scrum,
+33. (INSTITUTO AOCP/ PRODEB - 2018) Sobre a retrospectiva de Sprint usando Scrum,
 assinale a
 alternativa correta:
 
@@ -10738,8 +10558,7 @@ d) Product Backlog e Sprint Backlog.
 
 e) Sprint Retrospective e Daily Scrum.
 
-Item. 35. (FUNDATEC / SPGG - RS - 2018) Considere as seguintes assertivas sobre o framework Scrum:
-
+35. (FUNDATEC / SPGG - RS - 2018) Considere as seguintes assertivas sobre o framework Scrum:
 
 I. Emprega uma abordagem iterativa e incremental para aperfeiçoar a
 previsibilidade e o
@@ -10780,7 +10599,7 @@ iniciado.
 e) Uma Sprint somente pode ser cancelada pelo Time de Desenvolvimento caso o seu time-
 boxed ainda não tenha iniciado.
 
-Item. 37. (FAPEC / UFMS - 2018) Assinale a alternativa correta considerando as responsabilidades e os
+37. (FAPEC / UFMS - 2018) Assinale a alternativa correta considerando as responsabilidades e os
 papéis na metodologia SCRUM.
 
 a) O responsável por gerenciar o Product Backlog (garantindo que esteja visível para
@@ -10803,12 +10622,11 @@ d) O grupo de gerentes com responsabilidade de avaliar os custos
 do projeto é
 denominado Scrum Cost.
 
-
 e) O grupo de usuários finais do produto desenvolvido durante o projeto é
 denominado Scrum
 Users.
 
-Item. 38. (FAPEC/ UFMS - 2018) Considere as afirmações a seguir sobre as fases
+38. (FAPEC/ UFMS - 2018) Considere as afirmações a seguir sobre as fases
 da metodologia
 SCRUM.
 
@@ -10834,7 +10652,7 @@ d) Apenas II e III.
 
 e) I, lie III.
 
-Item. 39. (INSTITUTO AOCP/ PRODEB- 2018) Considerando a metodologia Scrum,
+39. (INSTITUTO AOCP/ PRODEB- 2018) Considerando a metodologia Scrum,
 assinale a
 alternativa que discorre corretamente sobre o que significa quando o item do
 Backlog do
@@ -10850,7 +10668,7 @@ d) Significa Pronto para liberação em produção.
 
 e) Significa que está pronto para ser implementado, ou seja, especificado.
 
-Item. 40. (INSTITUTO AOCP/ PRODEB - 2018) Sobre as características gerais do Scrum, assinale
+40. (INSTITUTO AOCP/ PRODEB - 2018) Sobre as características gerais do Scrum, assinale
 a
 alternativa correta:
 
@@ -10864,13 +10682,12 @@ d) Incorpora desenvolvimento mas não requisitos.
 
 e) Não se adapta bem a requisitos mutáveis.
 
-Item. 41. (INSTITUTO AOCP/ PRODEB - 2018) Sobre o método ágil denominado SCRUM, faça uma
+41. (INSTITUTO AOCP/ PRODEB - 2018) Sobre o método ágil denominado SCRUM, faça uma
 análise das assertivas e assinale a alternativa que apresente somente práticas
 do método
 SCRUM.
 
 I. Sprint Planning Meeting (Reunião de Planejamento da Sprint).
-
 
 II. Spikes Solution (Spikes de Planejamento).
 
@@ -10888,7 +10705,7 @@ d) Apenas II e III.
 
 e) Apenas I e III.
 
-Item. 42. (CESGRANRIO I Transpetro- 2018) A metodologia de desenvolvimento
+42. (CESGRANRIO I Transpetro- 2018) A metodologia de desenvolvimento
 SCRUM é
 caracterizada por ser ágil e rápida nas entregas. Um dos elementos-chave do processo
 SCRUM
@@ -10910,7 +10727,7 @@ e) eventualmente, se necessário, caso ocorram eventos adversos não previstos q
 o
 projeto.
 
-Item. 43. (INSTITUTO AOCP/ PRODEB - 2018) Sobre a definição de Scrum, assinale a
+43. (INSTITUTO AOCP/ PRODEB - 2018) Sobre a definição de Scrum, assinale a
 alternativa
 correta.
 
@@ -10937,10 +10754,9 @@ Produto.
 
 d) Um Backlog do Produto deve estar completo antes do início da primeira Sprint.
 
-Item. 45. (INSTITUTO AOCP / PRODEB-2018) Considerando a realização de Reuniões diárias
+45. (INSTITUTO AOCP / PRODEB-2018) Considerando a realização de Reuniões diárias
 utilizando
 Scrum, assinale a alternativa correta.
-
 
 a) Serve para sincronizar as atividades e criar um plano para as próximas 12 horas.
 
@@ -10996,7 +10812,6 @@ c) Apenas III.
 d) Apenas I e III.
 
 e) I, lie III.
-
 
 47-(FUNRIO / Câmara de São João de Meriti - RJ -2018) SCRUM é um framework dentro
 do qual
@@ -11055,7 +10870,7 @@ d) Sprint Planning, Sprint Retrospective, Sprint Review e Daily Scrum.
 
 e) Daily Scrum, Sprint Planning, Sprint Retrospective e Sprint Review.
 
-Item. 48. (FAURGS / UFCSPA - RS- 2018) é uma metodologia
+48. (FAURGS / UFCSPA - RS- 2018) é uma metodologia
 ágil que fornece
 um framework de gerenciamento de projetos. É centralizada em torno de um
 conjunto
@@ -11073,7 +10888,7 @@ c) SCRUM
 d) MDA-Arquitetura Dirigida a Modelos
 e) Programação em Pares
 
-Item. 49. (IADES / APEX-BRASIL - 2018) Na metodologia Scrum, existem times que
+49. (IADES / APEX-BRASIL - 2018) Na metodologia Scrum, existem times que
 tipicamente
 consistem de um dono do produto, um mestre Scrum e um time de desenvolvimento. Acerca
 das respectivas responsabilidades, é correto afirmar que o:
@@ -11119,7 +10934,7 @@ c) Itens não entregues a serem desenvolvidos na próxima iteração.
 
 d) Estimativas para o desenvolvimento de funcionalidades escolhidas pelo cliente
 
-Item. 52. (UFG / SANEAGO -2017) O pré-planejamento (também conhecido como pré-game) é uma
+52. (UFG / SANEAGO -2017) O pré-planejamento (também conhecido como pré-game) é uma
 das
 cerimônias conhecidas da metodologia SCRUM. Por definição, é objetivo
 deste pré-
@@ -11127,14 +10942,13 @@ planejamento:
 
 a) integração do software entregue na última interação com a versão que será desenvolvida.
 
-
 b) distribuição dos pacotes de trabalho entre os membros da equipe.
 
 c) detalhamento, priorização e estimativa de desenvolvimento dos pacotes de trabalho.
 
 d) levantamento de pontos positivos, negativos e melhorias no processo.
 
-Item. 53. (UFG / SANEAGO - 2017) Dentro do método SCRUM, quais são as informações
+53. (UFG / SANEAGO - 2017) Dentro do método SCRUM, quais são as informações
 utilizadas para
 criar o gráfico burndown?
 
@@ -11146,7 +10960,7 @@ c) Tempo gasto na sprint anterior e esforço de tarefas já realizadas.
 
 d) Tempo total na resolução de impedimentos e estimativas para finalização do projeto.
 
-Item. 54. (UFG / SANEAGO-2017) Faz parte do conjunto de eventos do SCRUM um encontro
+54. (UFG / SANEAGO-2017) Faz parte do conjunto de eventos do SCRUM um encontro
 conhecido
 em inglês por Daily SCRUM. O Daily Scrum:
 
@@ -11158,7 +10972,7 @@ c) ocorre uma vez por semana.
 
 d) é um encontro do qual o Scrum Master não participa.
 
-Item. 55. (UFG/SANEAGO-2017) Em uma equipe que trabalha orientada pelo Scrum,
+55. (UFG/SANEAGO-2017) Em uma equipe que trabalha orientada pelo Scrum,
 
 a) a descoberta de um "erro" ou "defeito" recebe máxima prioridade e justifica a
 extensão da
@@ -11176,7 +10990,7 @@ d) a responsabilidade pela produção do incremento cabe a toda a equipe de
 desenvolvimento, a
 despeito de um determinado membro da equipe possuir habilidades específicas.
 
-Item. 56. (ESAF/ESAF-20i5) O SCRUM é uma metodologia ágil para gestão e planejamento de
+56. (ESAF/ESAF-20i5) O SCRUM é uma metodologia ágil para gestão e planejamento de
 projetos
 de software. Nele, as funcionalidades a serem implementadas em um projeto são mantidas
 em
@@ -11191,7 +11005,6 @@ alocadas em um Sprint são transferidas dopara o.
 a) Product Backlog, Sprint Backlog, Product Owner, Product Backlog, Sprint
 Planning Meeting
 e Product Backlog.
-
 
 b) Sprint Planning Meeting, Product Backlog, Product Owner, Product Backlog,
 Product
@@ -11209,7 +11022,7 @@ e) Product Backlog, Sprint Planning Meeting, Product Owner, Product Backlog, Pro
 Backlog
 e Sprint Backlog.
 
-Item. 57. (CESGRANRIO / CEFET-RJ-2014) No Scrum, segundo o guia 2013, o responsável pelo
+57. (CESGRANRIO / CEFET-RJ-2014) No Scrum, segundo o guia 2013, o responsável pelo
 trabalho
 de expressar claramente os itens do Backlog do Produto é o:
 
@@ -11219,7 +11032,7 @@ c) Scrum Master
 d) Scrum Owner
 e) Time de Desenvolvimento
 
-Item. 58. (CESGRANRIO / EPE - 2014) No planejamento de projetos de software, e
+58. (CESGRANRIO / EPE - 2014) No planejamento de projetos de software, e
 principalmente em
 metodologias ágeis de desenvolvimento, muitos autores defendem a técnica
 conhecida como
@@ -11251,7 +11064,6 @@ funcionalidade que pode ser desenvolvida naquela "caixa" de tempo.
 para
 desenvolvimento e manutenção de produtos complexos baseado em três pilares, que são:
 
-
 a) simplicidade, reflexão, organização.
 
 b) transparência, inspeção e adaptação.
@@ -11262,44 +11074,43 @@ d) backlog (do produto e do sprint), gráfico de burndown, incremento do produto
 
 e) controle, documentação, previsibilidade.
 
-
 GABARITo
 
-Item. 1. LETRA B 21. LETRA B
-Item. 41. LETRA E
+1. LETRA B 21. LETRA B
+41. LETRA E
 
-Item. 2. LETRA D 22. LETRA B
-Item. 42. LETRA D
+2. LETRA D 22. LETRA B
+42. LETRA D
 
 3- LETRA E 23- LETRA D
 43- LETRA B
 
 4- LETRA C 24. LETRA A
-Item. 44. LETRA E
+44. LETRA E
 
 5- LETRA D 25- LETRA C
 45- LETRA B
 
-Item. 6. LETRAC 26. LETRA C
-Item. 46. LETRA C
+6. LETRAC 26. LETRA C
+46. LETRA C
 
 7- LETRA B 27- CORRETO
 47- LETRA C
 
-Item. 8. LETRA B 28. ERRADO
-Item. 48. LETRA C
+8. LETRA B 28. ERRADO
+48. LETRA C
 
 9- LETRA D 29- ERRADO
 49- LETRA C
 
-Item. 10. LETRA A 30. CORRETO
-Item. 50. LETRA A
+10. LETRA A 30. CORRETO
+50. LETRA A
 
 íi. LETRA D 31- CORRETO
 51- LETRA A
 
-Item. 12. LETRA E 32. CORRETO
-Item. 52. ANULADA
+12. LETRA E 32. CORRETO
+52. ANULADA
 
 13- LETRA D 33- LETRA A
 53- LETRA A
@@ -11311,17 +11122,16 @@ Item. 52. ANULADA
 55- LETRA D
 
 i6. LETRA C 36. LETRA B
-Item. 56. LETRA E
+56. LETRA E
 
 17- LETRA B 37- LETRA A
 57- LETRA B
 
 i8. LETRA D 38. LETRA C
-Item. 58. LETRA E
+58. LETRA E
 
-Item. 19. LETRA B 39- LETRA A
+19. LETRA B 39- LETRA A
 59- LETRA B
 
-Item. 20. LETRA B 40. LETRA B
-
+20. LETRA B 40. LETRA B
 

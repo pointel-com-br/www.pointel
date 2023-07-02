@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Raciocínio Lógico.
-
+# Bizu Estratégico - Raciocínio Lógico.
 
 Olá, prezado aluno. Tudo certo?
 
@@ -15,7 +14,6 @@ estudaram bastante o conteúdo teórico da disciplina e, nos últimos dias, prec
 revisar por
 algum material bem curto e objetivo).
 
-
 ANÁLISE ESTATÍSTICA
 
 Segue abaixo uma análise estatística dos assuntos mais exigidos pela Banca Cebraspe,
@@ -28,29 +26,23 @@ Assunto % de cobrança
 
 Estruturas Lógicas e Equivalências Lógicas 67,74%
 
-
 Diagramas Lógicos
 
 16,13%
-
 
 Lógica de Argumentação
 
 9,68%
 
-
 Associações Lógicas
 
 6,45%
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Raciocínio Lógico - SERPRO
 
 Assunto Bizus Caderno de Questões
-
 
 Estruturas Lógicas e Equivalências Lógicas
 
@@ -58,13 +50,11 @@ Estruturas Lógicas e Equivalências Lógicas
 
 http://questo.es/wxbp8q
 
-
 Lógica de Argumentação
 
 8 e 9
 
 htto://auesto.es/iadizx
-
 
 Diagramas Lógicos
 
@@ -72,14 +62,11 @@ Diagramas Lógicos
 
 http://questo.es/3c8hp3
 
-
 Associações Lógicas
 
 12 http ://qu esto. es/vfto3r
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Apresentação
 
@@ -119,13 +106,11 @@ pontos mais
 queridos pela banca examinadora, e todos eles estão aqui! Cada questão no concurso vale
 ouro, então não podemos dar bobeira! Mãos à obra!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Estruturas Lógicas e Equivalências Lógicas
 
-Item. 1. Proposições Lógicas
+1. Proposições Lógicas
 
 Proposição Lógica é uma frase declarativa, de modo que transmite pensamentos
 de
@@ -157,9 +142,7 @@ J Não são proposições lógicas:
 
 V Princípios aplicados às proposições:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Princípio da Identidade
 
@@ -174,19 +157,17 @@ Princípio do Terceiro Excluído
 * Uma proposição só pode ter um dos dois valores lógicos, isto é, ou é verdadeira (V) ou
 falsa (F), não podendo ter outro valor.
 
-Item. 2. Tipos de Proposições
+2. Tipos de Proposições
 
 S As proposições podem ser classificadas em simples ou compostas:
 
 r
-
 
 Simples
 
 -
 
 Compostas
-
 
 Não pode ser dividida em proposições
 menores.
@@ -198,7 +179,7 @@ entre si, resultando numa única declaração.
 
 Ex: Se eu estudar, então serei aprovado.
 
-Item. 3. Conectivos Lógicos
+3. Conectivos Lógicos
 
 Os conectivos lógicos são elementos que unem as proposições simples para formar as
 proposições compostas.
@@ -207,9 +188,7 @@ J Conectivo "e" (conjunção):
 
 > p A q : "Estudar é necessário e ser nomeado é uma glória".
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Tabela-Verdade da Conjunção:
 
@@ -241,9 +220,7 @@ F F F
 
 J Conectivo "ou exclusivo" (disjunção exclusiva):
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 > p v q: "Ou passarei num concurso ou ganharei um bom salário."
 
@@ -268,9 +245,7 @@ J Conectivo "Se...então" (condicional):
 > O "Se...então" somente será FALSO quando o antecedente for VERDADEIRO e
 o consequente for FALSO!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Tabela-Verdade do "Se...então" (condicional):
 
@@ -295,14 +270,11 @@ J Conectivo "Se e somente se" (bicondicional):
 
 Direito".
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Conectivo "Se e somente se"
 
 Representação I0
-
 
 Valor lógico
 
@@ -343,19 +315,16 @@ J Operador de Negação:
 
 i. Não é verdade que Maria é professora.
 
-
 .0
 
-
 .8
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 ii. É falso que Maria é professora.
 
 iii. É mentira que Maria é professora.
 
-Item. 4. Precedência dos Conectivos Lógicos
+4. Precedência dos Conectivos Lógicos
 
 Ordem de precedência dos conectivos lógicos:
 
@@ -364,7 +333,7 @@ a esquerda.
 
 As operações entre parênteses possuem prioridade.
 
-Item. 5. Tautologia, Contradição e Contingência
+5. Tautologia, Contradição e Contingência
 
 S Tautologia: quando a coluna de resultado da tabela-verdade tem apenas valores V.
 
@@ -372,7 +341,7 @@ S Contradição: quando a coluna de resultado da tabela-verdade tem apenas valor
 
 S Contingência: quando a coluna de resultado da tabela-verdade tem valores V e F.
 
-Item. 6. Equivalências mais importantes
+6. Equivalências mais importantes
 
 Deve-se negar a primeira parte da proposição e trocar o conectivo "Se...
 então" pelo conectivo "OU".
@@ -388,21 +357,17 @@ Deve-se negar as duas partes e interver as posições das proposições obtidas.
 
 Exemplo:
 
-
 LI
-
 
 .8
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 * Afirmação: Se viajo, então acordo cedo.
 
 * Equivalente: Se não acordo cedo, então não viajo
 
-Item. 7. Negações mais importantes
+7. Negações mais importantes
 o 1a Lei de De Morgan
 
 Conectivo E
@@ -459,13 +424,11 @@ o Afirmação: Se surfo então sou feliz.
 
 o Negação: Surfo e não sou feliz.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Lógica de Argumentação
 
-Item. 8. Implicações Lógicas
+8. Implicações Lógicas
 
 * Conjunção (pAq): é verdadeira quando as proposições p e q são ambas verdadeiras.
 
@@ -477,7 +440,7 @@ Item. 8. Implicações Lógicas
 
 * Bicondicional (p<->q): é verdadeira quando ambas as proposições tiverem o mesmo valor.
 
-Item. 9. Argumento Dedutivo
+9. Argumento Dedutivo
 
 Lógica de argumentação: argumentos dedutivos
 
@@ -499,9 +462,7 @@ Argumentos categóricos apresentam proposições categóricas.
 Os argumentos hipotéticos são aqueles que fazem uso dos cinco conectivos: conjunção, disjunção
 inclusiva, disjunção exclusiva, condicional e bicondicional.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Validade dos argumentos dedutivos X Verdade das proposições
 
@@ -543,7 +504,7 @@ Já para um argumento inválido podemos ter as quatro situações:
 
 Diagramas Lógicos
 
-Item. 10. Proposições Quantificadas
+10. Proposições Quantificadas
 
 Em Raciocínio Lógico, quando escrevemos "x + 10 = 50", sem qualquer outra informação,
 teremos uma
@@ -553,9 +514,7 @@ sentença torna-se verdadeira. Observe que o valor lógico da sentença depende
 de quem é "x", nossa
 variável. Por esse motivo, temos uma sentença aberta.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Quantificador Universal - V
 
@@ -603,9 +562,7 @@ proposições usando esse tipo de substituição:
 
 - "Todo trabalhador não acorda tarde." = "Nenhum trabalhador acorda tarde."
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 E se for necessário negar uma proposição universal negativa, como fazemos? Realizamos
 exatamente a
@@ -631,7 +588,7 @@ Observe que quando temos o quantificador universal "nenhum", não precisamos neg
 predicado. Isso
 acontece pois quando falamos "nenhum", na verdade já temos uma negação subentendida.
 
-Item. 11. Diagramas Lógicos
+11. Diagramas Lógicos
 
 * Todo engenheiro é responsável.
 
@@ -639,15 +596,13 @@ Item. 11. Diagramas Lógicos
 
 Engenheiros
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 > Algum engenheira é responsável
 
 Associações Lógicas
 
-Item. 12. Montagem da Tabela
+12. Montagem da Tabela
 
 Nas questões que versam sobre Associações Lógicas, são várias características que
 precisamos
@@ -665,9 +620,7 @@ uma tabela com quatro parâmetros que queremos associar: amigo, altura, esporte 
 pratica
 e cor do cabelo. Observe:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Amigo Esporte Cabelo Altura
 Pedro Futebol Moreno Mais baixo
@@ -698,10 +651,7 @@ continue em frente de qualquer jeito". (Martin Luther King)
 
 [O] @profíeomathias
 
-
 .8
 
-
 .8
-
 

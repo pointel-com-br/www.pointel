@@ -1,5 +1,4 @@
-Capítulo. Ciência de dados.
-
+# Ciência de dados.
 
 Ciência de dados é uma disciplina multidisciplinar que combina conhecimentos em estatística, programação, matemática e domínio do assunto para extrair insights e conhecimentos de conjuntos de dados complexos. O objetivo da ciência de dados é descobrir padrões, realizar análises e tomar decisões baseadas em dados para resolver problemas do mundo real.
 
@@ -7,19 +6,19 @@ Os cientistas de dados utilizam uma variedade de técnicas, ferramentas e algori
 
 O processo de ciência de dados geralmente envolve as seguintes etapas:
 
-Item. 1. Definição do problema: Identificar e definir claramente o problema a ser resolvido e as metas a serem alcançadas.
+1. Definição do problema: Identificar e definir claramente o problema a ser resolvido e as metas a serem alcançadas.
 
-Item. 2. Coleta de dados: Identificar as fontes de dados relevantes e coletar os conjuntos de dados necessários para a análise.
+2. Coleta de dados: Identificar as fontes de dados relevantes e coletar os conjuntos de dados necessários para a análise.
 
-Item. 3. Limpeza e pré-processamento de dados: Realizar a limpeza e transformação dos dados, removendo valores ausentes, tratando outliers e padronizando os formatos.
+3. Limpeza e pré-processamento de dados: Realizar a limpeza e transformação dos dados, removendo valores ausentes, tratando outliers e padronizando os formatos.
 
-Item. 4. Análise exploratória de dados: Realizar análises descritivas dos dados, como estatísticas descritivas, visualizações e identificação de padrões.
+4. Análise exploratória de dados: Realizar análises descritivas dos dados, como estatísticas descritivas, visualizações e identificação de padrões.
 
-Item. 5. Modelagem de dados: Selecionar e aplicar técnicas de modelagem, como regressão, classificação, agrupamento, entre outras, para extrair informações e fazer previsões.
+5. Modelagem de dados: Selecionar e aplicar técnicas de modelagem, como regressão, classificação, agrupamento, entre outras, para extrair informações e fazer previsões.
 
-Item. 6. Avaliação e validação do modelo: Avaliar a qualidade do modelo por meio de métricas relevantes e técnicas de validação cruzada.
+6. Avaliação e validação do modelo: Avaliar a qualidade do modelo por meio de métricas relevantes e técnicas de validação cruzada.
 
-Item. 7. Implantação e comunicação dos resultados: Implementar o modelo em um ambiente de produção e comunicar os resultados para as partes interessadas de forma clara e compreensível.
+7. Implantação e comunicação dos resultados: Implementar o modelo em um ambiente de produção e comunicar os resultados para as partes interessadas de forma clara e compreensível.
 
 A ciência de dados é amplamente utilizada em diversos setores, como finanças, saúde, marketing, varejo, indústria, entre outros. Suas aplicações são diversas, incluindo detecção de fraudes, recomendações de produtos, previsão de demanda, análise de sentimentos, diagnóstico médico, otimização de processos, entre outros.
 

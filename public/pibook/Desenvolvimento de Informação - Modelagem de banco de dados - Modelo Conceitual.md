@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Modelagem de banco de dados - Modelo Conceitual.
-
+# Desenvolvimento de Informação - Modelagem de banco de dados - Modelo Conceitual.
 
 Índice
 
@@ -27,7 +26,6 @@ CESG 113
 
 10) Lista de Questões - Administração de Dados, Projetos de Banco de Dados e Modelagem Conceituai -
 CEBR 142
-
 
 MoDELAGEM CoNCEITUAL DE DADoS (MoDELo DE
 
@@ -127,7 +125,6 @@ Programas de aplicação
 
 Figura 1 - Projeto de banco de dados
 
-
 Perceba que cada projeto gera como resultado um esquema. Nesta aula nosso foco será
 entender as possíveis estruturas notacionais para definição de um esquema conceituai. O
 modelo entidade-relacionamento (ER) será o primeiro a ser estudado, em seguida
@@ -171,7 +168,6 @@ análise funcional, que pode ser vista como o um processo simplificado de engenh
 software. Vamos, então, dar continuidade a nossa explicação focando nossa atenção nos
 conceitos de análise funcional.
 
-
 ANÁLISE FUNCIoNAL
 
 Ainda sobre a figura vista anteriormente, podemos observar que, em paralelo
@@ -193,7 +189,6 @@ de
 requisitos, projeto, implementação, validação e teste de aceitação e implantação, operação
 e manutenção.
 
-
 Estudo da
 viabilidade
 
@@ -213,7 +208,6 @@ mento)
 
 Implantação Avaliação
 
-
 2J
 
 MANUTENÇÃO
@@ -225,36 +219,35 @@ Figura 2 - Ciclo de vida de um sistema de informação.
 Já as atividades do ciclo de vida micro, que focalizam o sistema de banco de dados,
 incluem:
 
-Item. 1. Definição do sistema. O escopo do sistema de banco de dados, seus
+1. Definição do sistema. O escopo do sistema de banco de dados, seus
 usuários e suas aplicações são definidos. As interfaces para diversas
 categorias de usuários, as restrições do tempo de resposta e as necessidades
 de armazenamento são identificadas.
 
-Item. 2. Projeto de banco de dados. Um projeto lógico e físico completo do sistema
+2. Projeto de banco de dados. Um projeto lógico e físico completo do sistema
 de banco de dados no SGBD escolhido é preparado.
 
-Item. 3. Implementação do banco de dados. Isso compreende o processo de
+3. Implementação do banco de dados. Isso compreende o processo de
 especificar as definições de banco de dados conceituais, externas e internas,
 crias os arquivos de banco de dados (vazios) e implementar as aplicações de
 software.
 
-Item. 4. Carga ou conversão de dados. O banco de dados é preenchido ou pela carga
+4. Carga ou conversão de dados. O banco de dados é preenchido ou pela carga
 dos dados diretamente ou pela conversão de arquivos existentes para o
 formato do sistema de banco de dados.
 
-
-Item. 5. Conversão de aplicação. Quais quer aplicação de software de um sistema
+5. Conversão de aplicação. Quais quer aplicação de software de um sistema
 anterior são convertidas para o novo sistema.
 
-Item. 6. Teste e validação. O novo sistema é testado e validado. O teste e a validação
+6. Teste e validação. O novo sistema é testado e validado. O teste e a validação
 dos programas exigem várias técnicas que normalmente são abordadas pela
 engenharia de software.
 
-Item. 7. Operação. O sistema de banco de dado e suas aplicações são colocados em
+7. Operação. O sistema de banco de dado e suas aplicações são colocados em
 operação. Normalmente, os sistemas antigos e os novos são operados em
 paralelo por um período.
 
-Item. 8. Monitoramento e manutenção. Durante a fase operacional, o sistema é
+8. Monitoramento e manutenção. Durante a fase operacional, o sistema é
 constantemente monitorado e mantido. O crescimento e a expansão podem
 ocorrer no conteúdo de dados e nas aplicações. Importantes modificações
 podem ser necessárias de tempos em tempos.
@@ -262,13 +255,11 @@ podem ser necessárias de tempos em tempos.
 As fases de projeto e implementação de um grande banco de dados podem ser visualizadas
 na figura abaixo:
 
-
 Conteúdo, estrutura e
 restrições de dados
 
 Aplicações de
 banco de dados
-
 
 Fase 1: Levantamento
 e análise
@@ -315,7 +306,6 @@ de transação
 e aplicação
 
 Figura 3 - Fases do projeto e implementação de banco de dados
-
 
 A fase de escolha de um SGBD deve considerar alguns aspectos relacionados ao custo de
 aquisição do software, manutenção, aquisição de hardware, criação ou conversão
@@ -369,7 +359,6 @@ Uma classe é representada na forma de um retângulo, contendo duas linhas que s
 última
 os métodos. Vejamos uma figura que ajude a entender melhor esses conceitos:
 
-
 Concurseiro
 nome: String
 concursoAlvo: String
@@ -402,7 +391,6 @@ relacionamentos ajudam a descrever casos de uso. A figura abaixo descreve um dia
 de caso de uso. Nela temos os atores Paciente, Secretária, Doutor e Balconista que
 fazem
 acesso a diferentes macrofuncionalidades do sistema, ou seja, os casos de uso.
-
 
 Figura 4 - Diagrama de caso de uso
 
@@ -443,18 +431,17 @@ importante ter em mente que os modelos de dados corporativos são necessários e
 ser modelados e documentados em todos os níveis de abstração. Assim, o desenvolvimento
 de um modelo de dados corporativos pode ser abordado em função de seis princípios:
 
+1. Desenvolver o modelo "top-down".
 
-Item. 1. Desenvolver o modelo "top-down".
+2. Dar primazia ao core business.
 
-Item. 2. Dar primazia ao core business.
+3. Cobrir toda a organização
 
-Item. 3. Cobrir toda a organização
+4. Tentar prever o futuro no seu modelo.
 
-Item. 4. Tentar prever o futuro no seu modelo.
+5. Desenvolver cooperativamente;
 
-Item. 5. Desenvolver cooperativamente;
-
-Item. 6. Obtenha consenso, não perfeição.
+6. Obtenha consenso, não perfeição.
 
 Definição de dados e nomenclatura - essas ações visão a definição de dados chave e os
 padrões de nomenclatura usados pelos gerenciadores ou projetistas de dados.
@@ -502,7 +489,6 @@ garantir facilidade na localização e manipulação dos dados. Acerca dos papé
 do
 administrador de dados (AD) e dos dicionários de dados, julgue os itens a seguir.
 
-
 Enquanto o AD se preocupa com o gerenciamento dos dados como patrimônio da
 empresa, o administrador de banco de dados (ABD) é responsável pelo gerenciamento
 físico e dos acessos ao banco de dados.
@@ -522,25 +508,24 @@ do projeto de banco de dados é tipicamente uma atividade realizada pelo adminis
 de
 dados. Vamos em frente!
 
-
 MoDELo ENTIDADE RELACIoNAMENTo - ER
 
 Na fase de projeto de banco de dados, é importante usar um modelo de dados conceituai
 de alto nível com as seguintes características:
 
-Item. 1. Expressividade. O modelo de dados deve ser expressivo o suficiente para distinguir
+1. Expressividade. O modelo de dados deve ser expressivo o suficiente para distinguir
 diferentes tipos de dados, relacionamentos e restrições.
 
-Item. 2. Simplicidade e compreensão. O modelo deve ser simples o suficiente para que
+2. Simplicidade e compreensão. O modelo deve ser simples o suficiente para que
 usuários típicos não especialista compreendam e usem seus conceitos.
 
-Item. 3. Minimalismo. O modelo deve ter um pequeno número de conceitos básicos, que são
+3. Minimalismo. O modelo deve ter um pequeno número de conceitos básicos, que são
 distintos e não sobrepostos.
 
-Item. 4. Representação diagramática. O modelo deverá ter uma notação diagramática para
+4. Representação diagramática. O modelo deverá ter uma notação diagramática para
 exibir um esquema conceituai que seja fácil de interpretar.
 
-Item. 5. Formalidade. Um esquema conceituai expresso no modelo de dado deve
+5. Formalidade. Um esquema conceituai expresso no modelo de dado deve
 representar uma especificação não ambígua forma dos dados (precisão e não
 ambiguidade).
 
@@ -611,7 +596,6 @@ palavra grave, isto é, com acento tónico na penúltima sílaba. Em geral, as
 palavras graves não levam
 acento gráfico.
 
-
 HORA DE
 
 PRATICAR!
@@ -647,7 +631,6 @@ do Peter Chen. Apresenta um diagrama simples do modelo entidade-relacionamento.
 
 The Entily-Relaticnship Model
 
-
 ENTITY SET RELATIONSHIP
 SET
 
@@ -664,7 +647,6 @@ Thiago
 Cavalcanti com o CPF 045034045-12. Essa instância vai ser usada para definir um Tipo
 de
 Entidade, neste caso, FUNCIONÁRIO.
-
 
 O termo conjunto tentar expor o conceito de que a entidade FUNCIONÁRIO, por exemplo,
 deve ser uma descrição de um conjunto de funcionários de uma empresa em um
@@ -700,7 +682,6 @@ Vejamos um exemplo de duas entidades (cliente e empréstimo) com seus
 respectivos
 atributos na figura abaixo.
 
-
 Qcodclientej) ^teiefone^
 
 'X
@@ -711,13 +692,11 @@ cliente
 
 -emp—réstimo
 
-
 <homé^> \ 'jdade?
 
 Cdatanascimentq';
 
 C codern préstim o Á ÇvalorJ
-
 
 ATRIBUToS
 
@@ -728,7 +707,6 @@ propriedades ou características das entidades ou dos relacionamentos. É import
 que os atributos também podem ser representados por círculos, ou ainda não
 serem
 representados para não sobrecarregar o diagrama.
-
 
 Até aqui tratamos apenas dos elementos gráficos básicos do modelo, vamos,
 então,
@@ -745,7 +723,6 @@ ER o nome aparece sublinhado dentro da elipse. Quando o diagrama utiliza círcul
 para
 representar os atributos, o círculo aparece preenchido conforme observamos na figura a
 seguir:
-
 
 código
 nome
@@ -777,7 +754,6 @@ das demais ocorrências da mesma entidade.
 Pode ser simples ou composto.
 
 Figura 5 - Identificador de entidade.
-
 
 Existem algumas entidades que não possuem atributos suficientes para que cada uma
 das suas instâncias seja identificada de forma unívoca. Falaremos sobre esse
@@ -835,7 +811,6 @@ de um dado armazenado (exemplo: calcular a idade utilizando a data de nascimento
 
 Obrigatórios ou Opcionais
 
-
 Atributos cujo valor seja exigido em todas as instâncias da entidade são
 denominados
 obrigatórios. Caso não seja, eles são denominados opcionais. Todos os
@@ -887,14 +862,12 @@ entidade PRODUTO como um atributo ID_FABRICANTE).
 Antes de continuar, gostaria de apresentar um rápido resumo dessas características vistas
 até aqui:
 
-
 Figura 8 - Atributos no modelo entidade relacionamento.
 
 Seguimos a nossa jornada através dos atributos. Nosso objetivo agora é entender o que
 são valores nulos e tratar de uma composição especial dos atributos: os
 atributos
 complexos.
-
 
 Atributos nulos
 
@@ -950,7 +923,6 @@ PRATICAR!
 
 (Ministério da Economia - Especialista em Gestão de Projetos - 2020)
 
-
 Com relação às informações contidas no modelo conceituai precedente, julgue o próximo
 item.
 
@@ -976,7 +948,6 @@ modelo conceituai. Logo,
 podemos incorporar ou associar os atributos às entidades e aos relacionamentos.
 
 Gabarito: CERTO
-
 
 Agora vamos tratar dos relacionamentos que são usados para associações entre as
 entidades. No diagrama ER, os relacionamentos são representados por losangos. Observe
@@ -1009,7 +980,6 @@ relacionamento obrigatório.
 Um livro é obrigatoriamente publicado por no máximo 1 editora."
 
 Vamos agora fazer mais uma questão sobre o assunto:
-
 
 HORA DE
 
@@ -1049,7 +1019,6 @@ Gabarito: ERRADO.
 Assinale a opção que corresponde ao tipo de restrição de integridade expressa no
 próprio
 diagrama de entidades e relacionamentos no modelo relacional.
-
 
 a) dependência
 b) enumeração
@@ -1094,7 +1063,6 @@ a) generalização.
 
 b) relacionamento binário.
 
-
 c) autorrelacionamento.
 
 d) entidade associativa.
@@ -1114,7 +1082,6 @@ Gabarito: C.
 Agora vamos fazer mais um esquema para descrever os relacionamentos
 
 Figura 3 - Resumo dos relacionamentos
-
 
 ENTIDADE FoRTE X ENTIDADE FRACA
 
@@ -1156,7 +1123,6 @@ JUDICIÁRIO - TECNOLOGIA DA INFORMAÇÃO
 
 O modelo E-R utiliza alguns conceitos básicos como entidades, atributos e
 relacionamentos. Os atributos podem ser classificados em obrigatórios, opcionais,
-
 
 monovalorados, multivalorados, simples ou compostos. Nesse contexto, uma entidade
 chamada Empregado possui os atributos ID, Nome, TelefonesContato, CNH e Endereço.
@@ -1283,7 +1249,6 @@ da superclasse. O círculo pode ser vazio ou pode conter um símbolo "d" (para
 disjunção) ou
 "o" (para sobreposição). Vejam a figura abaixo para esclarecer a nossa explicação.
 
-
 Antes de falarmos mais detalhes sobre disjunção e sobreposição vamos definir o que vem
 a ser atributo de herança. Como discutido anteriormente, os tipos de entidade de nível
 superior e de nível inferior são criados com base em seus atributos. O tipo de
@@ -1312,7 +1277,6 @@ definida por um atributo em que na definição deste atributo ele possua um valo
 implica em uma restrição de disjunção. A restrição de disjunção é representada por um
 símbolo "d" escrito em um círculo num diagrama ERE como mostrado na figura.
 
-
 Restrição de sobreposição: Esta restrição estabelece que a mesma instância
 de
 entidades de nível superior pode pertencer a mais de um tipo de entidade de nível
@@ -1326,7 +1290,6 @@ de entidade PLAYER e POLITICIAN mostram uma restrição de sobreposição, uma
 celebridade pode ser um jogador bem como um político (ver figura). Da mesma forma, uma
 entidade do tipo BOOK pode pertencer a ambos TEXTBOOK e LANGUAGE_BOOK, desde
 que o livro sobre idioma também possa ser um livro prescrito em uma disciplina.
-
 
 (Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Técnico Judiciário - Operação de
 Computadores)
@@ -1382,7 +1345,6 @@ livros
 não necessariamente pertencem às categorias TEXTBOOK ou LANGUAGE BOOK, alguns
 podem pertencer à categoria NOVEL, por exemplo.
 
-
 ACREGAçÃo/ENTIDADE ASSoCIATIvA
 
 Os diagramas ER discutidos até agora representam as relações entre duas ou
@@ -1411,7 +1373,6 @@ grupo de
 autores pode ser publicado por uma única editora; no entanto, um editor pode imprimir
 muitos livros escritos por diferentes autores.
 
-
 HORA DE
 
 PRATICAR!
@@ -1429,7 +1390,6 @@ Gabarito: ERRADO
 
 (BANCA: CESPE ANO: 2010 ÓRGÃO: INMETRO PROVA: PESQUISADOR - GOVERNANÇA
 DE TI)
-
 
 Considerando a figura acima, que ilustra um modelo conceituai, assinale a opção correta.
 A As entidades pessoa física e pessoa jurídica são
@@ -1484,7 +1444,6 @@ relacionamento ternário, é sim uma relação de
 generalização/especialização.
 
 Gabarito: A.
-
 
 OUTRAS REPRESENTAçõES CoNCEITUAIS
 
@@ -1558,14 +1517,14 @@ Na figura acima podemos observar uma linha tracejada e uma linha contínua.
 Os
 relacionamentos são classificados da seguinte forma:
 
-Item. 1. Relacionamento Obrigatório: Um relacionamento obrigatório especifica que cada
+1. Relacionamento Obrigatório: Um relacionamento obrigatório especifica que cada
 instância de uma entidade deve estar relacionada a outra instância. Isso é representado
 por
 uma linha reta. Veja o caso entre times e jogadores. Cada jogador deve ser membro de
 um
 time. E um time deve ter pelo menos um jogador.
 
-Item. 2. Relacionamento Opcional: Um relacionamento opcional especifica que cada instância
+2. Relacionamento Opcional: Um relacionamento opcional especifica que cada instância
 de uma entidade pode estar relacionada a outra instância. Isso é representado por uma
 linha tracejada. Nesta situação, uma confederação pode organizar uma ou várias
 ligas,
@@ -1577,7 +1536,6 @@ mínima e
 máxima. Perceba na figura abaixo:
 
 Cada PEDIDO deve ser feito por um e apenas um COSUMIDOR
-
 
 Talvez não tenha ficado tão claro ainda. Vamos ver um exemplo com um relacionamento
 de cardinalidade máxima N (muitos). O que eu quero que você perceba, é
@@ -1608,7 +1566,6 @@ mais conhecidas é muito usada para representar relacionamento entre
 entidades.
 Conhecida no português como diagrama pé-de-galinha ou, no inglês, crows feet notation.
 Apresentamos a seguir uma explicação gráfica dos principais elementos desta notação.
-
 
 Uma entidade
 
@@ -1658,7 +1615,6 @@ notação. Existem diferentes
 versões de notações para El, sem um padrão único. De uma forma ou outra, a El é
 suportada por muitas ferramentas de
 modelagem de dados e é uma das notações mais populares para o projeto de banco de dados.
-
 
 A notação de El é semelhante à notação de Barker, ela apresenta a frequência máxima de um papel
 através da marcação na
@@ -1715,7 +1671,6 @@ e uma descrição dos espaços onde devem aparecer os atributos chaves e os
 demais
 atributos em uma entidade.
 
-
 I
 I
 
@@ -1744,10 +1699,8 @@ para que uma ocorrência de uma entidade filha exista, deverá existir, relacion
 a
 ela, obrigatoriamente, uma ocorrência de entidade pai.
 
-
 Veja que existe uma sutileza aqui. Para resolver essa diferença vamos observar algumas
 figuras.
-
 
 Entity-A
 
@@ -1786,7 +1739,6 @@ Assim, neste exemplo, a chave primária da
 entidade pai participa da chave primária
 da entidade filha!
 
-
 Uma entidade pai em um relacionamento não
 identificado mandatório pode ser uma entidade
 independente de identificador (como mostrado na
@@ -1821,7 +1773,6 @@ Mandatory Non-Identifying
 Relationship
 
 **Child Entity
-
 
 Entity-A
 
@@ -1861,7 +1812,6 @@ O último termo (O) representa que o atributo em questão é opcional. Vejam a f
 abaixo
 com o exemplo desta nomenclatura.
 
-
 Empioyee
 empNr
 empName
@@ -1891,7 +1841,6 @@ permitido ou não que uma entidade tenha mais de uma especialização dentro
 das
 possibilidades.
 
-
 Exclusiva
 
 Inclusiva
@@ -1901,14 +1850,13 @@ juntamente com o projeto lógico e físico são as principais etapas de um proje
 banco
 de dados. Veremos os aspectos do projeto lógico quando tratarmos do modelo relacional.
 
-
 QUESTõES CoMENTADAS CESPE
 
 < , HORA DE
 
 PRATICAR!
 
-Item. 1. CEBRASPE (CESPE) - Auditor de Finanças e Controle de Arrecadação da Fazenda
+1. CEBRASPE (CESPE) - Auditor de Finanças e Controle de Arrecadação da Fazenda
 Estadual (SEFAZ AL) /2020
 
 Com relação a banco de dados, julgue o item seguinte.
@@ -1925,7 +1873,6 @@ do
 relacionamento POSSU/ partindo da entidade Ambiente. É importante atentar para
 algo que confunde muitos candidatos: a cardinalidade sempre está do lado oposto
 da entidade, devendo ser encontrada da seguinte forma:
-
 
 Daí tiramos que uma instância da entidade Ambiente deve relacionar-se com um e
 somente um elemento na entidade Setor. Agora, vamos analisar partindo
@@ -1946,7 +1893,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 2. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
+2. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
 
 Considerando o diagrama entidade- relacionamento precedente e os múltiplos
 aspectos que a modelagem de dados oferece ao analista para examinar os dados no
@@ -1955,7 +1902,6 @@ contexto de uma aplicação de software, julgue o item subsecutivo.
 No diagrama apresentado, a modalidade obrigatória que conecta transportador e
 transporta indica que, para todo alimento fabricado, é necessária uma ação de
 transporte.
-
 
 Comentário: Essa questão reforça a importância de entender as notações
 complementares à notação ER. Neste caso, temos que lembrar que relembrar da
@@ -1971,10 +1917,9 @@ alimento fabricado. Concluímos, assim, que a assertiva está errada.
 
 Gabarito: Errado
 
-
 « PRATICAR!
 
-Item. 3. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
+3. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
 
 Considerando o diagrama entidade- relacionamento precedente e os múltiplos
 aspectos que a modelagem de dados oferece ao analista para examinar os dados no
@@ -1993,7 +1938,6 @@ analisando.
 Relacionamento autoriza
 
 Otransportad
-
 
 Um distribuidor é autorizado obrigatoriamente por um fabricante, enquanto um
 
@@ -2025,12 +1969,11 @@ obrigatoriamente contratado por um fabricante. Em todos os casos, o relacionamen
 
 Gabarito: Certo
 
-
 . . HORA DE
 
 PRATICAR!
 
-Item. 4. CEBRASPE (CESPE) - Ass Min (MPC TCE-PA)/TCE-PA/lnformática/2019
+4. CEBRASPE (CESPE) - Ass Min (MPC TCE-PA)/TCE-PA/lnformática/2019
 
 As seguintes informações foram extraídas de um diagrama de entidades-
 relacionamento no contexto de um banco de dados relacional.
@@ -2066,7 +2009,6 @@ também.
 c) Errado. O cliente pode escolher um ou vários trechos de voo. E não existem várias
 opções de aeronaves para o trecho reservado.
 
-
 í d) Errado. Temos um relacionamento um para muitos. Um trecho de voo está
 relacionado a muitas reservas.
 
@@ -2082,7 +2024,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 5. CEBRASPE (CESPE) - Tec (EBSERH)/EBSERH/lnformática/2018
+5. CEBRASPE (CESPE) - Tec (EBSERH)/EBSERH/lnformática/2018
 
 Tendo como referência o modelo lógico precedente, julgue o item a seguir.
 
@@ -2113,7 +2055,6 @@ O modelo apresentado nos permite concluir que:
 Hospital (determinada Universidade pode possuir vários Hospitais) e pode ainda
 não ter nenhuma correspondência;
 
-
 Uma ocorrência de Hospital está associada a apenas uma ocorrência de Universidade
 
 {determinado Hospital está vinculado a apenas uma Universidade). Aqui vemos,
@@ -2121,7 +2062,7 @@ portanto, OUTRO ERRO no item.
 
 Gabarito: Errado
 
-Item. 6. CEBRASPE (CESPE) - APF/PF/2018
+6. CEBRASPE (CESPE) - APF/PF/2018
 
 Considerando o modelo entidade-relacionamento (ER) precedente, julgue o seguinte
 item, relativo a banco de dados.
@@ -2137,7 +2078,7 @@ produtos. Logo, temos uma alternativa incorreta.
 
 Gabarito: Errado
 
-Item. 7. CEBRASPE (CESPE) - Ana Min (MPE PI)/MPE Pl/Tecnologia da lnformação/2018
+7. CEBRASPE (CESPE) - Ana Min (MPE PI)/MPE Pl/Tecnologia da lnformação/2018
 
 Tendo em vista que, ao se desenvolver um sistema de vendas e compras para um
 cliente, devem-se descrever os produtos, as entradas, as saídas, o controle de estoque
@@ -2155,7 +2096,6 @@ serve justamente para evitar a redundância dos dados, mantendo a unicidade dos
 dados para que não haja dados conflitantes no sistema. Uma possível correção para a
 assertiva seria:
 
-
 "No sistema implementado, o cliente não terá de cadastrar cada produto nos módulos
 de vendas e compras, pois a redundância será tratada na fase da modelagem do
 banco de dados"
@@ -2166,7 +2106,7 @@ Gabarito: Errado
 
 F PRATICAR!
 
-Item. 8. CEBRASPE (CESPE) - AFA (SEFAZ RS)/SEFAZ RS/2018
+8. CEBRASPE (CESPE) - AFA (SEFAZ RS)/SEFAZ RS/2018
 
 No modelo entidade-relacionamento, as propriedades particulares que descrevem uma
 entidade são denominadas
@@ -2209,8 +2149,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 9. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
-
+9. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
 
 Julgue o item seguinte, a respeito dos conceitos de modelagem de dados e níveis de
 abstração.
@@ -2228,7 +2167,7 @@ Gabarito: Certo
 
 F PRATICAR!
 
-Item. 10. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
+10. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
 
 Julgue o item seguinte, a respeito dos conceitos de modelagem de dados e níveis de
 abstração.
@@ -2249,7 +2188,7 @@ h^F^
 
 « PRATICAR!
 
-Item. 11. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário - Suporte
+11. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário - Suporte
 Técnico
 
 Acerca de banco de dados, julgue os itens que se seguem.
@@ -2264,12 +2203,11 @@ entidades no modelo entidade-relacionamento. O que representa os relacionamentos
 são os verbos ou ações associadas a cada entidade. Desta forma, temos a afirmação
 acima como incorreta.
 
-
 Gabarito: Errado
 
 « PRATICAR!
 
-Item. 12. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico
+12. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico
 Judiciário -
 Desenvolvimento de Sistemas Questão: 64 e 65
 
@@ -2290,7 +2228,7 @@ Gabarito: Certo
 
 F PRATICAR!
 
-Item. 13. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
+13. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
 
 A respeito de entidades, relacionamentos e tipos de chave, assinale a opção correta.
 A Uma entidade fraca não possui seus próprios atributos chave.
@@ -2319,7 +2257,6 @@ consegue identificar um elemento da entidade. Para compor a chave ele precisa de
 atributo que vai ser definido na entidade forte a ele associada. Sendo assim, temos
 uma alternativa incorreta.
 
-
 B) A chave primária de uma relação pode ser classificada em simples, quando possuir
 apenas um atributo, ou composta, quando tiver dois ou mais atributos. Sendo assim,
 temos mais uma alternativa incorreta.
@@ -2336,7 +2273,7 @@ Gabarito: E.
 
 F PRATICAR!
 
-Item. 14. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
+14. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
 Questão: 61 a 65
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados, julgue os
@@ -2353,7 +2290,7 @@ detalhes de como as informações estão organizadas internamente no banco de da
 
 Comentário: Vamos comentar cada uma das alternativas acima.
 
-Item. 63. Quem descrever como os dados são armazenados no sistema de gerenciamento
+63. Quem descrever como os dados são armazenados no sistema de gerenciamento
 de banco de dados é o modelo físico, ele o faz descrevendo o modo como os dados
 são salvos em meios de armazenamentos, como discos e fitas, sendo exigido a
 definição tanto dos dispositivos de armazenamento físico como dos métodos de
@@ -2361,7 +2298,7 @@ acesso (físico) necessários para se chegar aos dados nesse dispositivos, o que
 dependente tanto de software como de hardware. Novamente, temos mais uma
 alternativa incorreta.
 
-Item. 64. Essa alternativa está correta. Quando descemos na hierarquia dos modelos de
+64. Essa alternativa está correta. Quando descemos na hierarquia dos modelos de
 dado, aumentamos o nível detalhamento.
 
 Gabarito: Errado Certo
@@ -2369,9 +2306,8 @@ h^F^
 
 P PRATICAR!
 
-Item. 15. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
+15. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
 ADMINISTRATIVO - DESENVOLVIMENTO DE SISTEMAS DE INFORMAÇÃO
-
 
 Com base nos modelos de banco de dados, julgue os itens subsequentes.
 
@@ -2396,7 +2332,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 16. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
+16. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
 Questão 40
 
 De acordo com a notação para diagramas entidade-relacionamento, assinale a opção
@@ -2414,22 +2350,21 @@ E entidade forte, atributo, atributo composto e atributo fraco
 Comentários: Essa questão nos ajuda a relembrar a notação gráfica definida pelo
 modelo entidade-relacionamento. Os símbolos acima representam, respectivamente:
 
-Item. 1. Uma entidade fraca, que significa que a instâncias dessas entidades não
+1. Uma entidade fraca, que significa que a instâncias dessas entidades não
 conseguem existir dentro do modelo sem a existência de uma instância na entidade
 pai, conhecida também como forte, proprietária ou identificadora.
 
-Item. 2. Um atributo-chave, neste caso, todos os atributos que são caracterizados com essa
+2. Um atributo-chave, neste caso, todos os atributos que são caracterizados com essa
 linha sublinhada abaixo do seu nome fazem parte da chave da entidade. Quando
 apenas um atributo for sublinhado a chave é conhecida como simples. Caso mais de
 um atributo seja sublinhado a chave é dita composta.
 
-
-Item. 3. As elipses concêntricas representam um atributo multivalorado. Neste contexto
+3. As elipses concêntricas representam um atributo multivalorado. Neste contexto
 você pode ter várias instâncias de atributos associadas a uma única instância
 da
 entidade. O caso clássico de atributo multivalorado é telefone.
 
-Item. 4. Um atributo derivado, ele pode ser calculado a partir de um ou mais atributos
+4. Um atributo derivado, ele pode ser calculado a partir de um ou mais atributos
 armazenados na base de dados. Desta forma, ele não precisa ser gravado na base de
 dados.
 
@@ -2440,7 +2375,7 @@ Gabarito: C.
 
 F PRATICAR!
 
-Item. 17. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
+17. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
 Questão 41
 
 Acerca do modelo entidade-relacionamento estendido, assinale a opção correta.
@@ -2479,11 +2414,10 @@ h^F^
 
 « PRATICAR!
 
-Item. 18. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 57
+18. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 57
 
 Considere que existe uma entidade PESSOA com um relacionamento denominado
 CASAMENTO que pode associar diversas ocorrências na mesma entidade PESSOA.
-
 
 De acordo com as propriedades do diagrama entidade-relacionamento, o conceito
 desse relacionamento (CASAMENTO) pode ser definido como
@@ -2516,7 +2450,7 @@ Gabarito: C
 
 PRATICAR!
 
-Item. 19. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM
+19. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM
 TECNOLOGIA DA INFORMAÇÃO
 
 A respeito de modelo entidade-relacionamento e normalização, julgue os
@@ -2540,9 +2474,7 @@ para dizer que a primeira forma normal é parte da definição do modelo relacio
 seja, se eu disser que uma tabela do modelo relacional ela está automaticamente na
 primeira forma normal.
 
-
 \n\n\n. estrategiaconcursos. com.br
-
 
 Uma propriedade importante de um relacionamento é de quantas ocorrências de uma
 entidade podem estar associadas a uma determinada ocorrência através do
@@ -2556,7 +2488,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 20. BANCA: CESPE ANO: 2015 ÓRGÃO: TRE-GO PROVA: TÉCNICO DO
+20. BANCA: CESPE ANO: 2015 ÓRGÃO: TRE-GO PROVA: TÉCNICO DO
 JUDICIÁRIO - PROGRAMAÇÃO DE SISTEMAS
 
 Julgue os seguintes itens, a respeito da modelagem de dados.
@@ -2575,7 +2507,6 @@ chave primária é definido como um conjunto de entidades fortes.
 
 [68] Uma chave primária identifica um único valor de uma tupla no banco de dados e
 não possui mais de um atributo na tabela.
-
 
 Comentário. Analisando a alternativa 65 podemos observar que trata de uma narrativa
 consistente e, portanto, correta.
@@ -2600,7 +2531,7 @@ Gabarito: Certo Errado Errado Errado.
 
 F PRATICAR!
 
-Item. 21. BANCA: CESPE ANO: 2015 ÓRGÃO: STJ PROVA: TÉCNICO JUDICIÁRIO -
+21. BANCA: CESPE ANO: 2015 ÓRGÃO: STJ PROVA: TÉCNICO JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
 
 A respeito da modelagem de dados e da qualidade de software, julgue os
@@ -2632,8 +2563,7 @@ entidade é única dentro do modelo.
 
 Gabarito: [84] Errado [86] Certo.
 
-
-Item. 22. Ano: 2016 Banca: CESPE Órgão: TCE-PA Prova: Auditor de Controle Externo -
+22. Ano: 2016 Banca: CESPE Órgão: TCE-PA Prova: Auditor de Controle Externo -
 Área Informática - Analista de Suporte
 
 Considerando a figura apresentada, que ilustra o modelo de um banco de dados
@@ -2661,7 +2591,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 23. Ano: 2017 Banca: CESPE Órgão: TRE-PE Prova: Analista Judiciário - Análise de
+23. Ano: 2017 Banca: CESPE Órgão: TRE-PE Prova: Analista Judiciário - Análise de
 Sistemas
 
 Assinale a opção que corresponde ao tipo de restrição de integridade expressa no
@@ -2673,7 +2603,6 @@ c) normas de aceitação
 d) cardinalidade
 e) repetição
 
-
 Comentário: Observe que, pelas definições que acabamos de explicar a alternativa
 que se adequa melhor a nossa questão está na letra D.
 
@@ -2681,7 +2610,7 @@ Gabarito: D.
 
 F PRATICAR!
 
-Item. 24. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Analista Judiciário - Análise de
+24. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Analista Judiciário - Análise de
 Sistemas
 
 Considere que existe uma entidade PESSOA com um relacionamento denominado
@@ -2700,8 +2629,7 @@ e) especialização.
 
 Gabarito: C.
 
-
-Item. 25. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Técnico Judiciário - Operação
+25. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Técnico Judiciário - Operação
 de Computadores
 
 Acerca do modelo entidade-relacionamento estendido, assinale a opção correta.
@@ -2735,7 +2663,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 26. BANCA: CESPE ANO: 2010 ÓRGÃO: INMETRO PROVA: PESQUISADOR -
+26. BANCA: CESPE ANO: 2010 ÓRGÃO: INMETRO PROVA: PESQUISADOR -
 GOVERNANÇA DE TI
 
 Considerando a figura acima, que ilustra um modelo conceituai, assinale a
@@ -2798,10 +2726,9 @@ ternário, é sim uma relação de generalização/especialização.
 
 Gabarito: A.
 
-
 QUESTõES CoMENTADAS CESCRANRIO.
 
-Item. 1. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
+1. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
 
 A empresa que irá administrar o estacionamento de um clube decidiu desenvolver um
 sistema de
@@ -2841,24 +2768,23 @@ Qual diagrama de classes conceituais representa adequadamente os conceitos
 envolvidos no
 negócio descrito acima e as relações entre esses conceitos?
 
-
 Comentário:
 
 Essa é uma questão que verificar o seu entendimento sobre cardinalidade. Perceba que:
 
-Item. 1. Cada cartão de acesso está associado a 1 sócio e cada sócio possui apenas 1 cartão de acesso.
+1. Cada cartão de acesso está associado a 1 sócio e cada sócio possui apenas 1 cartão de acesso.
 
-Item. 2. Cada sócio pode registrar zero ou mais veículos, mas cada veículo só pode pertencer a 1 sócio.
+2. Cada sócio pode registrar zero ou mais veículos, mas cada veículo só pode pertencer a 1 sócio.
 
-Item. 3. Cada veículo pode ter zero ou várias estadias, mas cada estadia deve ser associada
+3. Cada veículo pode ter zero ou várias estadias, mas cada estadia deve ser associada
 a apenas 1
 veículo.
 
-Item. 4. Todos os meses os sócios pagarão seus respectivos boletos, mas cada boleto só pode
+4. Todos os meses os sócios pagarão seus respectivos boletos, mas cada boleto só pode
 pertencer a
 1 sócio.
 
-Item. 5. Todo boleto possui zero ou 1 pagamento. Veja que o pagamento só é registrado
+5. Todo boleto possui zero ou 1 pagamento. Veja que o pagamento só é registrado
 depois que é
 feito. Logo, até o pagamento o boleto não estará associado a nenhum pagamento.
 
@@ -2866,7 +2792,7 @@ A partir destas descrições, chegamos na resposta correta na alternativa D.
 
 Gabarito: D
 
-Item. 2. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
+2. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
 
 A Figura a seguir representa um diagrama E-R.
 
@@ -2881,7 +2807,6 @@ C uma instância de K pode estar associada a muitas instâncias L.
 
 D uma instância de M pode estar associada a, no máximo, uma instância de L.
 E a relação R possui muitas instâncias de L.
-
 
 Comentário. A questão demonstra um relacionamento com 3 entidades (ternário).
 Neste caso,
@@ -2909,7 +2834,7 @@ e) ERRADA. Pode possuir 1 ou muitas.
 
 Gabarito: A.
 
-Item. 3. CESGRANRIO - Analista (UNIRIO)/Tecnologia da lnformação/2019
+3. CESGRANRIO - Analista (UNIRIO)/Tecnologia da lnformação/2019
 
 O diagrama E-R, exibido pela Figura abaixo, representa o modelo conceituai de um banco de dados.
 
@@ -2927,7 +2852,6 @@ A K={kl,k2,k3,k4,k5,k6}
 
 L={kl,k2,k3,k4,k5,k6}
 M={}
-
 
 S={(tl,kl),(t2,kl),(t3,kl),(t4,kl)}
 B K={kl,k2,k3,k4,k5,k6}
@@ -2957,13 +2881,13 @@ S={(tl,k6),(t2,k5),(t3,k4),(t4,k3),(t5,k2)}
 
 Comentário. Para resolver essa questão temos que olhar para as regras descritas do modelo:
 
-Item. 1. Cardinalidade: Cada instância da entidade K deve estar associada a zero ou várias
+1. Cardinalidade: Cada instância da entidade K deve estar associada a zero ou várias
 instâncias da
 entidade de T. Já cada instância da entidade T pode estar associa a no mínimo zero
 e no máximo
 uma instância de K.
 
-Item. 2. Herança, que é descrita como uma generalização total e exclusiva, ou seja, todos
+2. Herança, que é descrita como uma generalização total e exclusiva, ou seja, todos
 os elementos da
 classe pai devem pertencer ale apenas uma das classes filhas.
 
@@ -2986,7 +2910,6 @@ Agora vamos analisar a lista de elementos presentes em K. Cada elemento de K dev
 estar presente
 em L ou M, mas nunca nos dois ao mesmo tempo. Se observarmos a letra A, todos os elementos de
 
-
 K pertencem a pertencem L, e nenhuma M. Isso é perfeitamente possível. Logo, a nossa
 resposta já
 está na alternativa A. Vamos entender os problemas presentes nas demais alternativas:
@@ -3003,7 +2926,7 @@ e) k3 não aparece nem em L nem em M o que não é possível pois a especializa�
 
 Gabarito: A
 
-Item. 4. CESGRANRIO - Analista (UNIRIO)/Tecnologia da lnformação/2019
+4. CESGRANRIO - Analista (UNIRIO)/Tecnologia da lnformação/2019
 
 Em qual diagrama E-R a relação R define uma função de E em F?
 
@@ -3014,7 +2937,6 @@ elemento de A tem um elemento correspondente em B e um elemento de A só possui 
 correspondente no conjunto B. ("lei do cada" e "lei do todo"). Tendo então
 uma função Y =
 X2, podemos enxergar isso como:
-
 
 Então, para encontrarmos o diagrama, temos que achar uma relação onde que todo
 elemento de E
@@ -3034,7 +2956,6 @@ que gerará: [1, (1 ou n) ]
 
 A única opção que satisfaz as duas condições é o diagrama:
 
-
 E (M)
 
 ▼
@@ -3047,14 +2968,13 @@ HORA DE
 
 PRATICAR!
 
-Item. 5. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETRO)/ Processos de Negócio/2018
+5. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETRO)/ Processos de Negócio/2018
 
 A Figura a seguir exibe um modelo E-R composto por duas entidades e uma relação.
 
 Qual diagrama de Venn contém uma relação que atende às regras de multiplicidade
 definidas no
 modelo E-R acima?
-
 
 Comentário. O relacionamento R apresentado na questão tem cardinalidade 1:N.
 Analisando a
@@ -3081,8 +3001,7 @@ e) ERRADA. Note que bl se relaciona com mais de uma instância de El, violando a
 
 Gabarito: D
 
-Item. 6. CESGRANRIO - Escriturário (BB)/"Sem Área"/2018
-
+6. CESGRANRIO - Escriturário (BB)/"Sem Área"/2018
 
 Um banco de dados possui um modelo conceituai cuja descrição é feita pelo diagrama E-R a seguir.
 
@@ -3127,7 +3046,6 @@ relacionamento de
 C com A é obrigatório, ou seja, RI não pode ser um conjunto vazio e deve apresentar
 pelo menos 1
 
-
 relacionamento para as instâncias cl e c2. Isso anula as alternativas A e B. A letra
 A não apresenta
 relacionamento par a c2, enquanto a letra B não apresenta nenhum relacionamento.
@@ -3147,7 +3065,7 @@ relacionamentos. Perceba que todas as regras são respeitadas.
 
 Gabarito: D.
 
-Item. 7. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
+7. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
 
 Os conjuntos a seguir representam um banco de dados relacional.
 
@@ -3162,14 +3080,12 @@ T3={(ql,rl),(q2,r3),(q3,r4)}
 
 Qual modelo E-R define regras de cardinalidade compatíveis com esse banco de dados?
 
-
 Comentário. Vamos analisar cada alternativa e identificar inconsistências no modelo E-R
 que não
 devem existir neste banco de dados.
 
 a) CORRETO. O que podemos inferir de acordo com o que nos foi dado na questão: O relacionamento
 TI existe entre as entidades P e Q. Temos a instância pl se relacionando com três instâncias de Q
-
 
 (ql, q2, q3). Podemos concluir, com certeza, que a entidade P se relaciona no máximo
 com N
@@ -3215,7 +3131,7 @@ cardinalidade mínima de R em relação a QéO.
 
 Gabarito: A.
 
-Item. 8. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
+8. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/Edital 02
 
 O modelo de Entidades e Relacionamentos (ER) é bastante utilizado na modelagem
 conceituai de
@@ -3237,7 +3153,6 @@ E independentemente das cardinalidades do relacionamento.
 
 Comentário.
 
-
 Sabemos que a existência de atributos no relacionamento independe da cardinalidade.
 Logo, temos
 a nossa resposta na alternativa E.
@@ -3248,7 +3163,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 9. BANCA: CESGRANRIO ANO: 2014 ORGAO: PETROBRAS PROVA: TÉCNICO - TÉCNICO DE
+9. BANCA: CESGRANRIO ANO: 2014 ORGAO: PETROBRAS PROVA: TÉCNICO - TÉCNICO DE
 INFORMÁTICA
 
 O diagrama a seguir apresenta um modelo de entidades e relacionamentos segundo a
@@ -3327,7 +3242,6 @@ Qual diagrama E-R descreve adequadamente os elementos envolvidos no negócio da 
 
 b)
 
-
 e)
 
 Comentário: A chave para responder à questão está na frase: "Um pedido é entregue por
@@ -3372,13 +3286,12 @@ Após compilar todas essas informações acima, podemos marcar nossa resposta na
 
 Gabarito: C
 
-Item. 11. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+11. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Considere as Tabelas a seguir para responder a questão.
 
 Essas Tabelas fazem parte do esquema de um banco de dados usado por uma associação de
 criadores de cães para organizar informações sobre os torneios que ela promove.
-
 
 CREATE TABLE CAO (
 
@@ -3411,7 +3324,6 @@ COD NUMBER(5) NOT NULL,
 NOME VARCHAR2(50) NOT NULL,
 CONSTRAINT ARBITRO_PK PRIMARY KEY (COD)
 
-
 )
 
 CREATE TABLE
@@ -3441,7 +3353,6 @@ REFERENCES COMPETICAO (COD)
 
 CREATE TABLE AVALIACAO
 
-
 COD_CAO
 COD_COMP
 COD_ARBTR
@@ -3460,7 +3371,6 @@ NOT NULL,
 CONSTRAINT AVALIACAO PK PRIMARY KEY
 
 (COD CAO,COD COMPjCOD ARBTR),
-
 
 CONSTRAINT AVALIACAO_FK1
 REFERENCES CAO (COD),
@@ -3498,7 +3408,6 @@ competição. Suas colunas são autoexplicativas.
 participam de
 competições. Suas colunas são autoexplicativas.
 
-
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
@@ -3510,7 +3419,6 @@ associação de criadores de cães?
 a)
 
 b)
-
 
 e)
 
@@ -3542,7 +3450,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 12. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+12. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Uma empresa que atua no ramo de entrega de encomendas precisa de um sistema de
 informação
@@ -3555,7 +3463,6 @@ empresa:
 *Uma entrega é identificada internamente por um código. Além disso, é necessário
 registrar o peso
 e as dimensões do objeto a ser entregue, o endereço de entrega e o custo da operação de entrega;
-
 
 * Uma entrega pode ser paga através de cartão de crédito, cartão de débito ou
 boleto bancário.
@@ -3587,9 +3494,7 @@ requisitos listados acima, sem que haja perda de informações ou redundância d
 além de
 observar as boas práticas de modelagem conceituai de dados?
 
-
 c)
-
 
 e)
 
@@ -3613,14 +3518,13 @@ pagamentos, e um pagamento pode ser associado a uma e somente uma entrega.
 
 Dito isto, podemos marcar nossa resposta na alternativa C.
 
-
 Gabarito: C
 
 HORA DE
 
 PRATICAR!
 
-Item. 13. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
+13. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
 Júnior - Informática
 
 ALUNO (cpf : string , nome : string , endereço : string, telefone : string)
@@ -3651,7 +3555,7 @@ CAIU
 
 na prova!
 
-Item. 14. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Analista de Tecnologia da Informação
+14. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Analista de Tecnologia da Informação
 
 Uma das características do Modelo de Entidade e Relacionamentos é que
 a) cada domínio de possíveis valores possui um atributo.
@@ -3669,7 +3573,6 @@ restringe
 os valores possíveis de um atributo. A alternativa a) fala algo que se opõe a esse
 conceito, logo está
 errada.
-
 
 Dois conjuntos de entidades, ou de valores armazenados em uma entidade específica,
 podem ser
@@ -3699,7 +3602,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 15. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+15. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Para responder à questão, tenha como referência o diagrama de entidades e
@@ -3707,7 +3610,6 @@ relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
 
 Movimento
-
 
 Conta
 
@@ -3723,7 +3625,6 @@ dep_origem
 historico
 
 <saldo >
-
 
 Contato_Cliente
 id_telefone
@@ -3758,7 +3659,6 @@ Que representação gráfica do modelo ER proposta pela notação IDEF1X represe
 relacionamento
 existente entre Conta e Cliente?
 
-
 Comentário: Temos que observar que a questão trata especificamente da ligação entre as
 duas
 entidades ou do relacionamento entre elas. Observe que os cantos arredondados da
@@ -3772,7 +3672,6 @@ estamos
 falando de um relacionamento n:n, que no modelo IDEF1X é designado por uma bola
 fechada. Veja
 na figura abaixo:
-
 
 1 zero, one or more
 
@@ -3790,16 +3689,14 @@ Sendo assim, podemos marcar nossa resposta na alternativa B.
 
 Gabarito: B
 
-Item. 16. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+16. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
-
 
 Para responder à questão, tenha como referência o diagrama de entidades e
 relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
 
 Movimento
-
 
 Conta
 seq_movimento
@@ -3862,7 +3759,6 @@ Movimento (id_movimento, id_conta, id_agencia, codigo_tipo_conta)
 
 4 atributos chave sendo 3 chaves FK
 
-
 Agora vamos analisar as demais entidades:
 
 Endereco_Cliente (id cliente) -1 atributo FK
@@ -3883,7 +3779,7 @@ Desta forma, nossa resposta encontra-se na alternativa D.
 
 Gabarito: D
 
-Item. 17. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Análise
+17. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Análise
 de Sistemas
 
 A federação de futebol de um estado brasileiro resolveu criar uma nova forma de
@@ -3910,9 +3806,7 @@ Qual diagrama E-R descreve, adequadamente, as regras de negócio apresentadas ac
 de
 observar os preceitos de um bom modelo conceituai de dados?
 
-
 c)
-
 
 e)
 
@@ -3962,7 +3856,7 @@ no enunciado.
 
 Gabarito: D
 
-Item. 18. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
+18. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
 
 Um país irá leiloar blocos de exploração de petróleo e precisa de um sistema de
 informação para
@@ -3996,13 +3890,11 @@ exploração ele pertence?
 
 Qual diagrama E-R atende a todos os requisitos descritos acima?
 
-
 a)
 
 b)
 
 c)
-
 
 Comentário: Observem que o ponto crucial para responder a essa questão é o fato de
 uma empresa
@@ -4018,10 +3910,9 @@ reflete a descrição do enunciado.
 
 Gabarito: C
 
-
 LISTA DE QUESTõES - CEBRASPE
 
-Item. 1. CEBRASPE (CESPE) - Auditor de Finanças e Controle de Arrecadação da Fazenda
+1. CEBRASPE (CESPE) - Auditor de Finanças e Controle de Arrecadação da Fazenda
 Estadual (SEFAZ AL)/2020
 
 Com relação a banco de dados, julgue o item seguinte.
@@ -4031,8 +3922,7 @@ pode não relacionar-se com nenhum item na entidade Setor ou pode relacionar-se
 com vários itens nesta entidade, enquanto um item na entidade Setor pode relacionar-
 se somente com um item na entidade Ambiente.
 
-Item. 1. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
-
+1. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
 
 Considerando o diagrama entidade- relacionamento precedente e os múltiplos
 aspectos que a modelagem de dados oferece ao analista para examinar os dados no
@@ -4042,7 +3932,7 @@ No diagrama apresentado, a modalidade obrigatória que conecta transportador e
 transporta indica que, para todo alimento fabricado, é necessária uma ação de
 transporte.
 
-Item. 2. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
+2. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
 
 Considerando o diagrama entidade- relacionamento precedente e os múltiplos
 aspectos que a modelagem de dados oferece ao analista para examinar os dados no
@@ -4054,11 +3944,10 @@ distribuição,
 contratação de transporte e produção de alimento, o que caracteriza uma relação 1 x
 n.
 
-Item. 3. CEBRASPE (CESPE) -Ass Min (MPC TCE-PA)/TCE-PA/lnformática/2019
+3. CEBRASPE (CESPE) -Ass Min (MPC TCE-PA)/TCE-PA/lnformática/2019
 
 As seguintes informações foram extraídas de um diagrama de entidades-
 relacionamento no contexto de um banco de dados relacional.
-
 
 De acordo com as informações do texto 9A1-I, assinale a opção correta, com relação
 à leitura das regras do negócio representadas no modelo apresentado.
@@ -4077,7 +3966,7 @@ d) Um trecho de voo está relacionado a apenas uma reserva.
 e) Ao realizar uma reserva, o cliente recebe um único número de assento, válido para
 todos os trechos que forem reservados.
 
-Item. 4. CEBRASPE (CESPE) - Tec (EBSERH)/EBSERH/lnformática/2018
+4. CEBRASPE (CESPE) - Tec (EBSERH)/EBSERH/lnformática/2018
 
 Tendo como referência o modelo lógico precedente, julgue o item a seguir.
 
@@ -4085,8 +3974,7 @@ A partir do modelo apresentado, infere-se que um hospital pode estar
 vinculado a
 várias universidades, pois a tabela Hospital apresenta cardinalidade (0, n).
 
-
-Item. 5. CEBRASPE (CESPE) - APF/PF/2018
+5. CEBRASPE (CESPE) - APF/PF/2018
 
 Considerando o modelo entidade-relacionamento (ER) precedente, julgue o seguinte
 item, relativo a banco de dados.
@@ -4094,7 +3982,7 @@ item, relativo a banco de dados.
 Conforme o modelo ER em questão, um tipo de produto pode estar associado a
 somente 1 produto e cada produto possui um preço e uma descrição.
 
-Item. 6. CEBRASPE (CESPE) - Ana Min (MPE PI)/MPE Pl/Tecnologia da lnformação/2018
+6. CEBRASPE (CESPE) - Ana Min (MPE PI)/MPE Pl/Tecnologia da lnformação/2018
 
 Tendo em vista que, ao se desenvolver um sistema de vendas e compras para um
 cliente, devem-se descrever os produtos, as entradas, as saídas, o controle de estoque
@@ -4106,7 +3994,7 @@ vendas e compras, pois a redundância será controlada pelo usuário, e não
 pela
 modelagem do banco de dados.
 
-Item. 7. CEBRASPE (CESPE) - AFA (SEFAZ RS)/SEFAZ RS/2018
+7. CEBRASPE (CESPE) - AFA (SEFAZ RS)/SEFAZ RS/2018
 
 No modelo entidade-relacionamento, as propriedades particulares que descrevem uma
 entidade são denominadas
@@ -4120,8 +4008,7 @@ d) relacionamentos.
 
 e) instâncias.
 
-
-Item. 8. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
+8. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
 
 Julgue o item seguinte, a respeito dos conceitos de modelagem de dados e níveis de
 abstração.
@@ -4130,7 +4017,7 @@ No modelo de entidade-relacionamento, uma entidade se caracteriza por um objeto 
 mundo real que possui um conjunto de propriedades; os valores de um subconjunto
 dessas propriedades podem identificar de maneira única a entidade.
 
-Item. 9. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
+9. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
 
 Julgue o item seguinte, a respeito dos conceitos de modelagem de dados e níveis de
 abstração.
@@ -4139,7 +4026,7 @@ Na cardinalidade de mapeamento entre o conjunto de entidades X e Y de uma
 associação um-para-um, uma entidade em X é associada, no máximo, a uma entidade
 em Y, e uma entidade em Y é associada, no máximo, a uma entidade em X.
 
-Item. 10. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário - Suporte
+10. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário - Suporte
 Técnico
 
 Acerca de banco de dados, julgue os itens que se seguem.
@@ -4149,7 +4036,7 @@ enquanto as coisas abstratas são representadas pelo relacionamento entre
 as
 entidades.
 
-Item. 11. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico
+11. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico
 Judiciário -
 Desenvolvimento de Sistemas Questão: 64 e 65
 
@@ -4160,8 +4047,7 @@ ou
 mais entidades que possuem atributos em comum — por exemplo, as entidades carro
 e ônibus podem ser generalizadas na superclasse veículo.
 
-
-Item. 12. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
+12. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
 
 A respeito de entidades, relacionamentos e tipos de chave, assinale a opção correta.
 A Uma entidade fraca não possui seus próprios atributos chave.
@@ -4177,7 +4063,7 @@ dos tipos 1:1 e 1:n.
 E Uma entidade forte existe no banco de dados e possui atributos que a identificam
 sem que ela precise estar associada a outra entidade identificadora.
 
-Item. 13. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
+13. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
 Questão: 61 a 65
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados, julgue os
@@ -4192,7 +4078,7 @@ gerenciamento de banco de dados (SGBD).
 utilizados por programadores são considerados menos abstratos, pois contêm mais
 detalhes de como as informações estão organizadas internamente no banco de dados.
 
-Item. 14. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
+14. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
 ADMINISTRATIVO - DESENVOLVIMENTO DE SISTEMAS DE INFORMAÇÃO
 
 Com base nos modelos de banco de dados, julgue os itens subsequentes.
@@ -4203,8 +4089,7 @@ entidade-relacionamento (MER), que é um modelo representacional, e suas variaç
 [90] O modelo de dados físico é considerado de baixo nível, o que significa que
 somente os sistemas gerenciadores de banco de dados conseguem interpretá-lo.
 
-
-Item. 15. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
+15. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
 Questão 40
 
 De acordo com a notação para diagramas entidade-relacionamento, assinale a opção
@@ -4219,7 +4104,7 @@ D entidade, atributo-chave, atributo multivalorado e atributo derivado
 
 E entidade forte, atributo, atributo composto e atributo fraco
 
-Item. 16. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
+16. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
 Questão 41
 
 Acerca do modelo entidade-relacionamento estendido, assinale a opção correta.
@@ -4241,8 +4126,7 @@ herança, encapsulamento e polimorfismo.
 E A simbologia do referido modelo é a mesma do modelo entidade-relacionamento,
 não havendo novas representações.
 
-Item. 17. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 57
-
+17. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 57
 
 Considere que existe uma entidade PESSOA com um relacionamento denominado
 CASAMENTO que pode associar diversas ocorrências na mesma entidade PESSOA.
@@ -4257,7 +4141,7 @@ C autorrelacionamento.
 D entidade associativa.
 E especialização.
 
-Item. 18. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM
+18. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM
 TECNOLOGIA DA INFORMAÇÃO
 
 A respeito de modelo entidade-relacionamento e normalização, julgue os
@@ -4272,7 +4156,7 @@ de entidades, em um relacionamento ternário R entre três entidades A, B e C, a
 cardinalidade máxima de A e B dentro de R indica quantas ocorrências de C podem
 estar associadas a um par de ocorrências de A e B.
 
-Item. 19. BANCA: CESPE ANO: 2015 ÓRGÃO: TRE-GO PROVA: TÉCNICO DO
+19. BANCA: CESPE ANO: 2015 ÓRGÃO: TRE-GO PROVA: TÉCNICO DO
 JUDICIÁRIO - PROGRAMAÇÃO DE SISTEMAS
 
 Julgue os seguintes itens, a respeito da modelagem de dados.
@@ -4289,11 +4173,10 @@ referencial desse banco por uma chave primária.
 [67] Um conjunto de entidades que não possuem atributos suficientes para formar uma
 chave primária é definido como um conjunto de entidades fortes.
 
-
 [68] Uma chave primária identifica um único valor de uma tupla no banco de dados e
 não possui mais de um atributo na tabela.
 
-Item. 20. BANCA: CESPE ANO: 2015 ÓRGÃO: STJ PROVA: TÉCNICO JUDICIÁRIO -
+20. BANCA: CESPE ANO: 2015 ÓRGÃO: STJ PROVA: TÉCNICO JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
 
 A respeito da modelagem de dados e da qualidade de software, julgue os
@@ -4307,7 +4190,7 @@ entre entidades, cujo número de entidades envolvidas é conhecido como hierarqu
 estendido, e as entidades, nesse modelo, são definidas como um ente que pode ser
 distintamente identificado.
 
-Item. 21. Ano: 2016 Banca: CESPE Órgão: TCE-PA Prova: Auditor de Controle Externo -
+21. Ano: 2016 Banca: CESPE Órgão: TCE-PA Prova: Auditor de Controle Externo -
 Área Informática - Analista de Suporte
 
 Considerando a figura apresentada, que ilustra o modelo de um banco de dados
@@ -4317,7 +4200,7 @@ hipotético, julgue o item que se segue.
 implementação e é independente de um sistema gerenciador de banco de dados
 (SGBD).
 
-Item. 22. Ano: 2017 Banca: CESPE Órgão: TRE-PE Prova: Analista Judiciário - Análise de
+22. Ano: 2017 Banca: CESPE Órgão: TRE-PE Prova: Analista Judiciário - Análise de
 Sistemas
 
 Assinale a opção que corresponde ao tipo de restrição de integridade expressa no
@@ -4329,7 +4212,7 @@ c) normas de aceitação
 d) cardinalidade
 e) repetição
 
-Item. 23. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Analista Judiciário - Análise de
+23. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Analista Judiciário - Análise de
 Sistemas
 
 Considere que existe uma entidade PESSOA com um relacionamento denominado
@@ -4346,7 +4229,7 @@ d) entidade associativa.
 
 e) especialização.
 
-Item. 24. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Técnico Judiciário - Operação
+24. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Técnico Judiciário - Operação
 de Computadores
 
 Acerca do modelo entidade-relacionamento estendido, assinale a opção correta.
@@ -4368,8 +4251,7 @@ herança, encapsulamento e polimorfismo.
 e) A simbologia do referido modelo é a mesma do modelo entidade-relacionamento,
 não havendo novas representações.
 
-
-Item. 25. BANCA: CESPE ANO: 2010 ÓRGÃO: INMETRO PROVA: PESQUISADOR -
+25. BANCA: CESPE ANO: 2010 ÓRGÃO: INMETRO PROVA: PESQUISADOR -
 GOVERNANÇA DE TI
 
 A As entidades pessoa física e pessoa jurídica são
@@ -4397,67 +4279,65 @@ tipo ternário ou de grau maior, que são modelados usando-se uma entidade assoc
 por meio de relacionamentos binários, a cada uma das entidades que participam do
 relacionamento ternário.
 
-
 GABARITo
 
 GABARITO
 
-Item. 1. Errado
+1. Errado
 
-Item. 2. Errado
+2. Errado
 
-Item. 3. Certo
+3. Certo
 
-Item. 4. B
+4. B
 
-Item. 5. Errado
+5. Errado
 
-Item. 6. Errado
+6. Errado
 
-Item. 7. Errado
+7. Errado
 
-Item. 8. B
+8. B
 
-Item. 9. Certo
+9. Certo
 
-Item. 10. Certo
+10. Certo
 
-Item. 11. E
+11. E
 
-Item. 12. C
+12. C
 
-Item. 13. E
+13. E
 
-Item. 14. E C
+14. E C
 
-Item. 15. E E
+15. E E
 
-Item. 16. C
+16. C
 
-Item. 17. A
+17. A
 
-Item. 18. C
+18. C
 
-Item. 19. CC
+19. CC
 
-Item. 20. C E E E
+20. C E E E
 
-Item. 21. E C
+21. E C
 
-Item. 22. E
+22. E
 
-Item. 23. D
+23. D
 
-Item. 24. C
+24. C
 
-Item. 25. A
+25. A
 
-Item. 26. A
-
+26. A
 
 LISTA DE QUESTõES - CESCRANRIO.
 
-Item. 1. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
+1. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
 
 A empresa que irá administrar o estacionamento de um clube decidiu desenvolver um
 sistema de
@@ -4497,8 +4377,7 @@ Qual diagrama de classes conceituais representa adequadamente os conceitos
 envolvidos no
 negócio descrito acima e as relações entre esses conceitos?
 
-
-Item. 2. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
+2. CESGRANRIO - Técnico (UNIRIO)/Tecnologia da lnformação/2019
 
 A Figura a seguir representa um diagrama E-R.
 
@@ -4514,10 +4393,9 @@ C uma instância de K pode estar associada a muitas instâncias L.
 D uma instância de M pode estar associada a, no máximo, uma instância de L.
 E a relação R possui muitas instâncias de L.
 
-Item. 3. CESGRANRIO - Analista (UNIRIOJ/Tecnologia da lnformação/2019
+3. CESGRANRIO - Analista (UNIRIOJ/Tecnologia da lnformação/2019
 
 O diagrama E-R, exibido pela Figura abaixo, representa o modelo conceituai de um banco de dados.
-
 
 Suponha que os elementos do conjunto T a seguir sejam instâncias da entidade de mesmo
 nome,
@@ -4560,12 +4438,11 @@ L={kl,k2}
 
 M={k4,k5,k6}
 
-
-Item. 4. CESGRANRIO - Analista (UNIRIO)/Tecnologia da lnformação/2019
+4. CESGRANRIO - Analista (UNIRIO)/Tecnologia da lnformação/2019
 
 Em qual diagrama E-R a relação R define uma função de E em F?
 
-Item. 5. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETRO)/ Processos de Negócio/2018
+5. CESGRANRIO - Analista de Sistemas Júnior (TRANSPETRO)/ Processos de Negócio/2018
 
 A Figura a seguir exibe um modelo E-R composto por duas entidades e uma relação.
 
@@ -4573,8 +4450,7 @@ Qual diagrama de Venn contém uma relação que atende às regras de multiplicid
 definidas no
 modelo E-R acima?
 
-
-Item. 6. CESGRANRIO - Escriturário (BB)/"Sem Área"/2018
+6. CESGRANRIO - Escriturário (BB)/"Sem Área"/2018
 
 Um banco de dados possui um modelo conceituai cuja descrição é feita pelo diagrama E-R a seguir.
 
@@ -4582,7 +4458,6 @@ Admita-se que o estado desse banco de dados seja definido, em parte, pelos segui
 
 A-{ai,a2,a3,a4,a5,a6}
 Al={a2,a3,a₄}
-
 
 A2={ai,a₅,a₆}
 
@@ -4616,7 +4491,7 @@ E Rl={(as,ci),(a2,ci),(a5,c2),(a2,c2)}
 
 R2={(a5,di),(a6,d2),(a5,d3),(a5,d4),(a6,d4)}
 
-Item. 7. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
+7. CESGRANRIO - Profissional (LIQUIGÁS)/Analista de Sistemas/Júnior TI/2018/Edital 02
 
 Os conjuntos a seguir representam um banco de dados relacional.
 
@@ -4631,8 +4506,7 @@ T3={(ql,rl),(q2,r3),(q3,r4)}
 
 Qual modelo E-R define regras de cardinalidade compatíveis com esse banco de dados?
 
-
-Item. 8. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/EditaI 02
+8. CESGRANRIO - Profissional (LIQUIGÁS)/Arquiteto de Soluções/Júnior TI/2018/EditaI 02
 
 O modelo de Entidades e Relacionamentos (ER) é bastante utilizado na modelagem
 conceituai de
@@ -4660,7 +4534,7 @@ a nossa resposta na alternativa E.
 
 Gabarito: E.
 
-Item. 9. BANCA: CESGRANRIO ANO: 2014 ORGAO: PETROBRAS PROVA: TÉCNICO - TÉCNICO DE
+9. BANCA: CESGRANRIO ANO: 2014 ORGAO: PETROBRAS PROVA: TÉCNICO - TÉCNICO DE
 INFORMÁTICA
 
 O diagrama a seguir apresenta um modelo de entidades e relacionamentos segundo a
@@ -4669,7 +4543,6 @@ Engenharia de Informação.
 
 Coleção Item Coleção
 A notação equivalente em IDEF1X é
-
 
 HORA DE
 
@@ -4719,21 +4592,18 @@ O sistema deve, também, atender a alguns requisitos adicionais. São eles:
 
 Qual diagrama E-R descreve adequadamente os elementos envolvidos no negócio da empresa KWX?
 
-
 c)
-
 
 HORA DE
 
 PRATICAR!
 
-Item. 11. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+11. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Considere as Tabelas a seguir para responder a questão.
 
 Essas Tabelas fazem parte do esquema de um banco de dados usado por uma associação de
 criadores de cães para organizar informações sobre os torneios que ela promove.
-
 
 CREATE TABLE CAO (
 
@@ -4766,7 +4636,6 @@ COD NUMBER(5) NOT NULL,
 NOME VARCHAR2(50) NOT NULL,
 CONSTRAINT ARBITRO_PK PRIMARY KEY (COD)
 
-
 )
 
 CREATE TABLE
@@ -4796,7 +4665,6 @@ REFERENCES COMPETICAO (COD)
 
 CREATE TABLE AVALIACAO
 
-
 COD_CAO
 COD_COMP
 COD_ARBTR
@@ -4815,7 +4683,6 @@ NOT NULL,
 CONSTRAINT AVALIACAO PK PRIMARY KEY
 
 (COD CAO,COD COMPjCOD ARBTR),
-
 
 CONSTRAINT AVALIACAO_FK1
 REFERENCES CAO (COD),
@@ -4853,7 +4720,6 @@ competição. Suas colunas são autoexplicativas.
 participam de
 competições. Suas colunas são autoexplicativas.
 
-
 * Cada linha da Tabela AVALIACAO representa a nota atribuída a um cão, por um
 determinado
 árbitro em uma determinada competição. Suas colunas são autoexplicativas.
@@ -4866,14 +4732,13 @@ a)
 
 b)
 
-
 e)
 
 HORA DE
 
 PRATICAR!
 
-Item. 12. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
+12. Ano: 2016 Banca: CESGRANRIO Órgão: UNIRIO Prova: Técnico em Tecnologia da Informação
 
 Uma empresa que atua no ramo de entrega de encomendas precisa de um sistema de
 informação
@@ -4910,7 +4775,6 @@ o valor pago e o número do código de barras do boleto;
 
 * Não há entrega registrada no sistema que não tenha, pelo menos, um pagamento associado a ela.
 
-
 Qual diagrama E-R representa corretamente os elementos e as regras presentes na
 descrição dos
 requisitos listados acima, sem que haja perda de informações ou redundância de dados,
@@ -4919,10 +4783,9 @@ observar as boas práticas de modelagem conceituai de dados?
 
 b)
 
-
 e)
 
-Item. 13. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
+13. Ano: 2014 Banca: CESGRANRIO Órgão: Petrobras Prova: Técnico(a) de Exploração de Petróleo
 Júnior - Informática
 
 ALUNO (cpf: string, nome : string, endereço : string, telefone : string)
@@ -4939,7 +4802,7 @@ c) entidade, entidade e atributo
 d) entidade, entidade e relacionamento nxm
 e) entidade, atributo e entidade
 
-Item. 14. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Analista de Tecnologia da Informação
+14. Ano: 2014 Banca: CESGRANRIO Órgão: CEFET-RJ Prova: Analista de Tecnologia da Informação
 
 Uma das características do Modelo de Entidade e Relacionamentos é que
 a) cada domínio de possíveis valores possui um atributo.
@@ -4950,14 +4813,13 @@ c) toda chave candidata é uma chave primária.
 
 d) todos os atributos em determinado conjunto de atributos têm o mesmo conjunto de entidades.
 
-
 e) um conjunto de relacionamentos pode ser considerado um conjunto de n-tuplas.
 
 HORA DE
 
 PRATICAR!
 
-Item. 15. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+15. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Para responder à questão, tenha como referência o diagrama de entidades e
@@ -4965,7 +4827,6 @@ relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
 
 Movimento
-
 
 Conta
 
@@ -4981,7 +4842,6 @@ dep_origem
 historico
 
 Vsaldo J
-
 
 Contato_Cliente
 id_telefone
@@ -5015,10 +4875,9 @@ Que representação gráfica do modelo ER proposta pela notação IDEF1X represe
 relacionamento
 existente entre Conta e Cliente?
 
-
 3 PRATICAR!
 
-Item. 16. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
+16. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco de
 Dados
 
 Para responder à questão, tenha como referência o diagrama de entidades e
@@ -5026,7 +4885,6 @@ relacionamentos,
 apresentado abaixo, que representa parte do modelo de dados de uma instituição financeira.
 
 Movimento
-
 
 Conta
 seq_movimento
@@ -5065,7 +4923,6 @@ b) 8
 
 c) 9
 
-
 d) 11
 
 e) 13
@@ -5074,7 +4931,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 17. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Análise
+17. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Análise
 de Sistemas
 
 A federação de futebol de um estado brasileiro resolveu criar uma nova forma de
@@ -5103,9 +4960,7 @@ observar os preceitos de um bom modelo conceituai de dados?
 
 a)
 
-
 c)
-
 
 e)
 
@@ -5113,7 +4968,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 18. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
+18. Ano: 2014 Banca: CESGRANRIO Órgão: FINEP Prova: Analista - Desenvolvimento de Sistemas
 
 Um país irá leiloar blocos de exploração de petróleo e precisa de um sistema de
 informação para
@@ -5122,7 +4977,6 @@ realizados e o
 vencedor de cada leilão. Todos os consórcios que irão disputar os leilões terão que
 ser previamente
 cadastrados no sistema. Um consórcio é formado por uma ou mais empresas.
-
 
 O objeto de cada leilão é um bloco de exploração. Os consórcios poderão registrar
 vários lances para
@@ -5148,50 +5002,47 @@ exploração ele pertence?
 
 Qual diagrama E-R atende a todos os requisitos descritos acima?
 
-
 c)
-
 
 GABARITo
 
-Item. 1. D
+1. D
 
-Item. 2. A
+2. A
 
-Item. 3. A
+3. A
 
-Item. 4. D
+4. D
 
-Item. 5. D
+5. D
 
-Item. 6. D
+6. D
 
-Item. 8. E
+8. E
 
-Item. 9. A
+9. A
 
 io. c
 
-Item. 11. C
+11. C
 
-Item. 12. C
+12. C
 
-Item. 13. A
+13. A
 
-Item. 14. E
+14. E
 
-Item. 15. B
+15. B
 
-Item. 16. D
+16. D
 
-Item. 17. D
+17. D
 
-Item. 18. C
-
+18. C
 
 LISTA DE QUESTõES - CEBRASPE
 
-Item. 1. CEBRASPE (CESPE) - Auditor de Finanças e Controle de Arrecadação da Fazenda
+1. CEBRASPE (CESPE) - Auditor de Finanças e Controle de Arrecadação da Fazenda
 Estadual (SEFAZ AL)/2020
 
 Com relação a banco de dados, julgue o item seguinte.
@@ -5201,8 +5052,7 @@ pode não relacionar-se com nenhum item na entidade Setor ou pode relacionar-se
 com vários itens nesta entidade, enquanto um item na entidade Setor pode relacionar-
 se somente com um item na entidade Ambiente.
 
-Item. 1. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
-
+1. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
 
 Considerando o diagrama entidade- relacionamento precedente e os múltiplos
 aspectos que a modelagem de dados oferece ao analista para examinar os dados no
@@ -5212,7 +5062,7 @@ No diagrama apresentado, a modalidade obrigatória que conecta transportador e
 transporta indica que, para todo alimento fabricado, é necessária uma ação de
 transporte.
 
-Item. 2. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
+2. CEBRASPE (CESPE) - Ana Min (MPE CE)/MPE CE/Ciências da Computação/2020
 
 Considerando o diagrama entidade- relacionamento precedente e os múltiplos
 aspectos que a modelagem de dados oferece ao analista para examinar os dados no
@@ -5224,11 +5074,10 @@ distribuição,
 contratação de transporte e produção de alimento, o que caracteriza uma relação 1 x
 n.
 
-Item. 3. CEBRASPE (CESPE) -Ass Min (MPC TCE-PA)/TCE-PA/lnformática/2019
+3. CEBRASPE (CESPE) -Ass Min (MPC TCE-PA)/TCE-PA/lnformática/2019
 
 As seguintes informações foram extraídas de um diagrama de entidades-
 relacionamento no contexto de um banco de dados relacional.
-
 
 De acordo com as informações do texto 9A1-I, assinale a opção correta, com relação
 à leitura das regras do negócio representadas no modelo apresentado.
@@ -5247,7 +5096,7 @@ d) Um trecho de voo está relacionado a apenas uma reserva.
 e) Ao realizar uma reserva, o cliente recebe um único número de assento, válido para
 todos os trechos que forem reservados.
 
-Item. 4. CEBRASPE (CESPE) - Tec (EBSERH)/EBSERH/lnformática/2018
+4. CEBRASPE (CESPE) - Tec (EBSERH)/EBSERH/lnformática/2018
 
 Tendo como referência o modelo lógico precedente, julgue o item a seguir.
 
@@ -5255,8 +5104,7 @@ A partir do modelo apresentado, infere-se que um hospital pode estar
 vinculado a
 várias universidades, pois a tabela Hospital apresenta cardinalidade (0, n).
 
-
-Item. 5. CEBRASPE (CESPE) - APF/PF/2018
+5. CEBRASPE (CESPE) - APF/PF/2018
 
 Considerando o modelo entidade-relacionamento (ER) precedente, julgue o seguinte
 item, relativo a banco de dados.
@@ -5264,7 +5112,7 @@ item, relativo a banco de dados.
 Conforme o modelo ER em questão, um tipo de produto pode estar associado a
 somente 1 produto e cada produto possui um preço e uma descrição.
 
-Item. 6. CEBRASPE (CESPE) - Ana Min (MPE PI)/MPE Pl/Tecnologia da lnformação/2018
+6. CEBRASPE (CESPE) - Ana Min (MPE PI)/MPE Pl/Tecnologia da lnformação/2018
 
 Tendo em vista que, ao se desenvolver um sistema de vendas e compras para um
 cliente, devem-se descrever os produtos, as entradas, as saídas, o controle de estoque
@@ -5276,7 +5124,7 @@ vendas e compras, pois a redundância será controlada pelo usuário, e não
 pela
 modelagem do banco de dados.
 
-Item. 7. CEBRASPE (CESPE) - AFA (SEFAZ RS)/SEFAZ RS/2018
+7. CEBRASPE (CESPE) - AFA (SEFAZ RS)/SEFAZ RS/2018
 
 No modelo entidade-relacionamento, as propriedades particulares que descrevem uma
 entidade são denominadas
@@ -5290,8 +5138,7 @@ d) relacionamentos.
 
 e) instâncias.
 
-
-Item. 8. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
+8. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
 
 Julgue o item seguinte, a respeito dos conceitos de modelagem de dados e níveis de
 abstração.
@@ -5300,7 +5147,7 @@ No modelo de entidade-relacionamento, uma entidade se caracteriza por um objeto 
 mundo real que possui um conjunto de propriedades; os valores de um subconjunto
 dessas propriedades podem identificar de maneira única a entidade.
 
-Item. 9. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
+9. CEBRASPE (CESPE) - Tec (FUB)/FUB/Tecnologia da lnformação/2018
 
 Julgue o item seguinte, a respeito dos conceitos de modelagem de dados e níveis de
 abstração.
@@ -5309,7 +5156,7 @@ Na cardinalidade de mapeamento entre o conjunto de entidades X e Y de uma
 associação um-para-um, uma entidade em X é associada, no máximo, a uma entidade
 em Y, e uma entidade em Y é associada, no máximo, a uma entidade em X.
 
-Item. 10. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário - Suporte
+10. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico Judiciário - Suporte
 Técnico
 
 Acerca de banco de dados, julgue os itens que se seguem.
@@ -5319,7 +5166,7 @@ enquanto as coisas abstratas são representadas pelo relacionamento entre
 as
 entidades.
 
-Item. 11. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico
+11. Ano: 2018 Banca: CESPE Órgão: STJ Cargo: Técnico
 Judiciário -
 Desenvolvimento de Sistemas Questão: 64 e 65
 
@@ -5330,8 +5177,7 @@ ou
 mais entidades que possuem atributos em comum — por exemplo, as entidades carro
 e ônibus podem ser generalizadas na superclasse veículo.
 
-
-Item. 12. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
+12. Ano: 2018 Banca: CESPE Órgão: TCM-BA Cargo: Auditor de Contas Questão:
 
 A respeito de entidades, relacionamentos e tipos de chave, assinale a opção correta.
 A Uma entidade fraca não possui seus próprios atributos chave.
@@ -5347,7 +5193,7 @@ dos tipos 1:1 e 1:n.
 E Uma entidade forte existe no banco de dados e possui atributos que a identificam
 sem que ela precise estar associada a outra entidade identificadora.
 
-Item. 13. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
+13. Ano: 2018 Banca: CESPE Órgão: STM Cargo: Programação de Sistemas
 Questão: 61 a 65
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados, julgue os
@@ -5362,7 +5208,7 @@ gerenciamento de banco de dados (SGBD).
 utilizados por programadores são considerados menos abstratos, pois contêm mais
 detalhes de como as informações estão organizadas internamente no banco de dados.
 
-Item. 14. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
+14. BANCA: CESPE ANO: 2014 ÓRGÃO: ANATEL PROVA: ANALISTA
 ADMINISTRATIVO - DESENVOLVIMENTO DE SISTEMAS DE INFORMAÇÃO
 
 Com base nos modelos de banco de dados, julgue os itens subsequentes.
@@ -5373,8 +5219,7 @@ entidade-relacionamento (MER), que é um modelo representacional, e suas variaç
 [90] O modelo de dados físico é considerado de baixo nível, o que significa que
 somente os sistemas gerenciadores de banco de dados conseguem interpretá-lo.
 
-
-Item. 15. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
+15. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
 Questão 40
 
 De acordo com a notação para diagramas entidade-relacionamento, assinale a opção
@@ -5389,7 +5234,7 @@ D entidade, atributo-chave, atributo multivalorado e atributo derivado
 
 E entidade forte, atributo, atributo composto e atributo fraco
 
-Item. 16. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
+16. Ano: 2015 Banca: CESPE Órgão: TRE-PI Cargo: Operação de computadores -
 Questão 41
 
 Acerca do modelo entidade-relacionamento estendido, assinale a opção correta.
@@ -5411,8 +5256,7 @@ herança, encapsulamento e polimorfismo.
 E A simbologia do referido modelo é a mesma do modelo entidade-relacionamento,
 não havendo novas representações.
 
-Item. 17. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 57
-
+17. Ano: 2015 Banca: CESPE Órgão: TRE-PI - Questão 57
 
 Considere que existe uma entidade PESSOA com um relacionamento denominado
 CASAMENTO que pode associar diversas ocorrências na mesma entidade PESSOA.
@@ -5427,7 +5271,7 @@ C autorrelacionamento.
 D entidade associativa.
 E especialização.
 
-Item. 18. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM
+18. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM
 TECNOLOGIA DA INFORMAÇÃO
 
 A respeito de modelo entidade-relacionamento e normalização, julgue os
@@ -5442,7 +5286,7 @@ de entidades, em um relacionamento ternário R entre três entidades A, B e C, a
 cardinalidade máxima de A e B dentro de R indica quantas ocorrências de C podem
 estar associadas a um par de ocorrências de A e B.
 
-Item. 19. BANCA: CESPE ANO: 2015 ÓRGÃO: TRE-GO PROVA: TÉCNICO DO
+19. BANCA: CESPE ANO: 2015 ÓRGÃO: TRE-GO PROVA: TÉCNICO DO
 JUDICIÁRIO - PROGRAMAÇÃO DE SISTEMAS
 
 Julgue os seguintes itens, a respeito da modelagem de dados.
@@ -5459,11 +5303,10 @@ referencial desse banco por uma chave primária.
 [67] Um conjunto de entidades que não possuem atributos suficientes para formar uma
 chave primária é definido como um conjunto de entidades fortes.
 
-
 [68] Uma chave primária identifica um único valor de uma tupla no banco de dados e
 não possui mais de um atributo na tabela.
 
-Item. 20. BANCA: CESPE ANO: 2015 ÓRGÃO: STJ PROVA: TÉCNICO JUDICIÁRIO -
+20. BANCA: CESPE ANO: 2015 ÓRGÃO: STJ PROVA: TÉCNICO JUDICIÁRIO -
 TECNOLOGIA DA INFORMAÇÃO
 
 A respeito da modelagem de dados e da qualidade de software, julgue os
@@ -5477,7 +5320,7 @@ entre entidades, cujo número de entidades envolvidas é conhecido como hierarqu
 estendido, e as entidades, nesse modelo, são definidas como um ente que pode ser
 distintamente identificado.
 
-Item. 21. Ano: 2016 Banca: CESPE Órgão: TCE-PA Prova: Auditor de Controle Externo -
+21. Ano: 2016 Banca: CESPE Órgão: TCE-PA Prova: Auditor de Controle Externo -
 Área Informática - Analista de Suporte
 
 Considerando a figura apresentada, que ilustra o modelo de um banco de dados
@@ -5487,7 +5330,7 @@ hipotético, julgue o item que se segue.
 implementação e é independente de um sistema gerenciador de banco de dados
 (SGBD).
 
-Item. 22. Ano: 2017 Banca: CESPE Órgão: TRE-PE Prova: Analista Judiciário - Análise de
+22. Ano: 2017 Banca: CESPE Órgão: TRE-PE Prova: Analista Judiciário - Análise de
 Sistemas
 
 Assinale a opção que corresponde ao tipo de restrição de integridade expressa no
@@ -5499,7 +5342,7 @@ c) normas de aceitação
 d) cardinalidade
 e) repetição
 
-Item. 23. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Analista Judiciário - Análise de
+23. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Analista Judiciário - Análise de
 Sistemas
 
 Considere que existe uma entidade PESSOA com um relacionamento denominado
@@ -5516,7 +5359,7 @@ d) entidade associativa.
 
 e) especialização.
 
-Item. 24. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Técnico Judiciário - Operação
+24. Ano: 2016 Banca: CESPE Órgão: TRE-PI Prova: Técnico Judiciário - Operação
 de Computadores
 
 Acerca do modelo entidade-relacionamento estendido, assinale a opção correta.
@@ -5538,8 +5381,7 @@ herança, encapsulamento e polimorfismo.
 e) A simbologia do referido modelo é a mesma do modelo entidade-relacionamento,
 não havendo novas representações.
 
-
-Item. 25. BANCA: CESPE ANO: 2010 ÓRGÃO: INMETRO PROVA: PESQUISADOR -
+25. BANCA: CESPE ANO: 2010 ÓRGÃO: INMETRO PROVA: PESQUISADOR -
 GOVERNANÇA DE TI
 
 A As entidades pessoa física e pessoa jurídica são
@@ -5567,61 +5409,59 @@ tipo ternário ou de grau maior, que são modelados usando-se uma entidade assoc
 por meio de relacionamentos binários, a cada uma das entidades que participam do
 relacionamento ternário.
 
-
 GABARITo
 
 GABARITO
 
-Item. 1. Errado
+1. Errado
 
-Item. 2. Errado
+2. Errado
 
-Item. 3. Certo
+3. Certo
 
-Item. 4. B
+4. B
 
-Item. 5. Errado
+5. Errado
 
-Item. 6. Errado
+6. Errado
 
-Item. 7. Errado
+7. Errado
 
-Item. 8. B
+8. B
 
-Item. 9. Certo
+9. Certo
 
-Item. 10. Certo
+10. Certo
 
-Item. 11. E
+11. E
 
-Item. 12. C
+12. C
 
-Item. 13. E
+13. E
 
-Item. 14. E C
+14. E C
 
-Item. 15. E E
+15. E E
 
-Item. 16. C
+16. C
 
-Item. 17. A
+17. A
 
-Item. 18. C
+18. C
 
-Item. 19. CC
+19. CC
 
-Item. 20. C E E E
+20. C E E E
 
-Item. 21. E C
+21. E C
 
-Item. 22. E
+22. E
 
-Item. 23. D
+23. D
 
-Item. 24. C
+24. C
 
-Item. 25. A
+25. A
 
-Item. 26. A
-
+26. A
 

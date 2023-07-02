@@ -1,22 +1,20 @@
-Capítulo. Arquitetura de Software - Padrões GRASP.
-
+# Arquitetura de Software - Padrões GRASP.
 
 Os Padrões GRASP (General Responsibility Assignment Software Patterns) são um conjunto de diretrizes para atribuir responsabilidades a classes e objetos em um sistema de software. Eles fornecem princípios orientadores para ajudar os arquitetos de software a tomar decisões de design relacionadas à alocação de responsabilidades. Aqui estão alguns exemplos dos padrões GRASP mais comuns:
 
-Item. 1. Padrão Creator: O padrão Creator aborda a questão de qual classe deve ser responsável pela criação de objetos. Ele sugere que a classe que tem a maior quantidade de informações necessárias para criar um objeto seja responsável por sua criação. Isso ajuda a evitar acoplamento excessivo e garante uma responsabilidade clara pela criação de objetos.
+1. Padrão Creator: O padrão Creator aborda a questão de qual classe deve ser responsável pela criação de objetos. Ele sugere que a classe que tem a maior quantidade de informações necessárias para criar um objeto seja responsável por sua criação. Isso ajuda a evitar acoplamento excessivo e garante uma responsabilidade clara pela criação de objetos.
 
-Item. 2. Padrão Controller: O padrão Controller sugere que uma classe (ou objeto) seja designada como o controlador responsável por coordenar e controlar o fluxo de operações do sistema. O controlador é responsável por receber as solicitações externas, tomar decisões e invocar os objetos adequados para realizar as ações necessárias.
+2. Padrão Controller: O padrão Controller sugere que uma classe (ou objeto) seja designada como o controlador responsável por coordenar e controlar o fluxo de operações do sistema. O controlador é responsável por receber as solicitações externas, tomar decisões e invocar os objetos adequados para realizar as ações necessárias.
 
-Item. 3. Padrão Information Expert: O padrão Information Expert sugere que a responsabilidade seja atribuída à classe ou objeto que possui as informações necessárias para executar uma determinada operação. Isso significa que a classe com o conhecimento mais relevante sobre um determinado domínio ou contexto é a mais apropriada para realizar as ações correspondentes.
+3. Padrão Information Expert: O padrão Information Expert sugere que a responsabilidade seja atribuída à classe ou objeto que possui as informações necessárias para executar uma determinada operação. Isso significa que a classe com o conhecimento mais relevante sobre um determinado domínio ou contexto é a mais apropriada para realizar as ações correspondentes.
 
-Item. 4. Padrão Low Coupling: O padrão Low Coupling visa reduzir o acoplamento entre classes e objetos. Ele sugere que a responsabilidade seja atribuída de forma a minimizar as dependências entre as classes, promovendo um sistema mais flexível e fácil de manter. O objetivo é garantir que as classes dependam o mínimo possível umas das outras.
+4. Padrão Low Coupling: O padrão Low Coupling visa reduzir o acoplamento entre classes e objetos. Ele sugere que a responsabilidade seja atribuída de forma a minimizar as dependências entre as classes, promovendo um sistema mais flexível e fácil de manter. O objetivo é garantir que as classes dependam o mínimo possível umas das outras.
 
-Item. 5. Padrão High Cohesion: O padrão High Cohesion sugere que as responsabilidades sejam atribuídas de forma a maximizar a coesão em uma classe. Isso significa que uma classe deve ter uma única responsabilidade bem definida e não deve ter responsabilidades conflitantes. Uma alta coesão torna as classes mais fáceis de entender, testar e manter.
+5. Padrão High Cohesion: O padrão High Cohesion sugere que as responsabilidades sejam atribuídas de forma a maximizar a coesão em uma classe. Isso significa que uma classe deve ter uma única responsabilidade bem definida e não deve ter responsabilidades conflitantes. Uma alta coesão torna as classes mais fáceis de entender, testar e manter.
 
-Item. 6. Padrão Polymorphism: O padrão Polymorphism incentiva o uso de polimorfismo para lidar com diferentes comportamentos em um sistema. Ele sugere que a responsabilidade seja atribuída a uma classe base ou interface, permitindo que várias implementações diferentes possam ser usadas de forma transparente. Isso promove a flexibilidade e extensibilidade do sistema.
+6. Padrão Polymorphism: O padrão Polymorphism incentiva o uso de polimorfismo para lidar com diferentes comportamentos em um sistema. Ele sugere que a responsabilidade seja atribuída a uma classe base ou interface, permitindo que várias implementações diferentes possam ser usadas de forma transparente. Isso promove a flexibilidade e extensibilidade do sistema.
 
 Esses são alguns exemplos dos padrões GRASP, que fornecem orientações para atribuir responsabilidades em um sistema de software. Os padrões GRASP ajudam a melhorar a organização, a manutenibilidade e a escalabilidade do sistema, promovendo uma estrutura clara e uma distribuição adequada de responsabilidades.
-
 
 O GRASP, acrônimo de General Responsability Assignment Software Patterns (ou Principies), consiste em um conjunto de práticas que descrevem os princípios fundamentais de atribuição de responsabilidade a objetos, expressas na forma de padrões. Ele ajuda a compreender melhor a utilização da orientação a objetos em projetos complexos.
 A qualidade de um projeto orientado a objetos está fortemente relacionada à distribuição de responsabilidades, que podem ser divididas em Responsabilidade de Conhecimento (Knowing) e Responsabilidade de Realização (Doing). A primeira refere-se à distribuição das características do sistema entre as classes e a segunda à distribuição do comportamento do sistema entre as classes.

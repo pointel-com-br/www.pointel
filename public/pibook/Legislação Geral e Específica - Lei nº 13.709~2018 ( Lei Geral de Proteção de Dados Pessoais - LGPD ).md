@@ -1,5 +1,4 @@
-Capítulo. Legislação Geral e Específica - Lei nº 13.709~2018 ( Lei Geral de Proteção de Dados Pessoais - LGPD ).
-
+# Legislação Geral e Específica - Lei nº 13.709~2018 ( Lei Geral de Proteção de Dados Pessoais - LGPD ).
 
 Índice
 
@@ -10,7 +9,6 @@ Capítulo. Legislação Geral e Específica - Lei nº 13.709~2018 ( Lei Geral de
 3) Questões Comentadas - Lei 13.709/2018 (Lei Geral de Proteção de Dados)
 
 4) Lista de Questões - Lei 13.709/2018 (Lei Geral de Proteção de Dados)
-
 
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
@@ -24,7 +22,6 @@ meio deste curso
 sobre a LGPD - Lei Geral de Proteção de Dados.
 
 Antes de passar ao conteúdo, peço licença para apresentar-me.
-
 
 /*V'
 
@@ -46,7 +43,6 @@ uma das principais
 ferramentas de trabalho. Assim, espero fazer uso desta experiência para enriquecer nosso curso
 com exemplos e casos práticos e aproximar a linguagem e a lógica da Lei a cada um de vocês.
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
@@ -54,8 +50,7 @@ Não deixe de se inscrever para receber notícias, questões e materiais
 exclusivos, além de
 novidades sobre concursos de modo geral.
 
-
-Item. 1. INTRoDUçÃo
+1. INTRoDUçÃo
 
 Olá, amigas (os)!
 
@@ -88,13 +83,11 @@ uma noção geral da norma e detalhes dos pontos mais importantes.
 
 Tudo pronto? Vamos em frente!
 
-
-Item. 2. NoçõES GERAIS SoBRE A LGPD
+2. NoçõES GERAIS SoBRE A LGPD
 
 Para dominar a Lei, vamos usar estratégia de batalha, "dividir para
 conquistar"! Portanto, vale
 destacarmos a estrutura da LGPD, dividida em 9 capítulos:
-
 
 A LGPD, afinal, regulamenta o direito fundamental a proteção dos dados
 pessoais, hoje previsto
@@ -110,7 +103,7 @@ f:ainclu..s.i.v..e...n..o..s...m...e..io...s..d..ig..i.t.a..i.s..
 (..E..C1..1..5../.2..0..2..2.)
 :!
 
-Item. 3. DISPoSIçõES GERAIS
+3. DISPoSIçõES GERAIS
 
 A LGPD dispõe sobre o tratamento de dados pessoais, inclusive nos meios
 digitais, sendo que
@@ -138,7 +131,6 @@ indivíduos localizados no território nacional
 □ tratamento seja realizado no território nacional
 
 □ dados pessoais objeto do tratamento tenham sido coletados no território nacional
-
 
 Percebam, portanto, que pouco importa onde os dados pessoais estejam sendo armazenados,
 ou o meio no
@@ -171,7 +163,6 @@ Pois bem, de outro lado, a LGPD não se aplica ao tratamento de dados pessoais
 realizado nas seguintes
 situações (art. 4^):
 
-
 Aos trabalhos acadêmicos, embora a Lei não se aplique integralmente, continuam
 sendo aplicáveis os
 requisitos para de dados pessoais (art. 7^) e de dados sensíveis (art. 11).
@@ -199,7 +190,6 @@ gerais de proteção e os direitos do titular dos dados
 □ autoridade nacional emitirá opiniões técnicas ou recomendações referentes a estes
 casos, devendo
 solicitar aos responsáveis relatórios de impacto à proteção de dados pessoais.
-
 
 LGPD aplica-se
 
@@ -248,7 +238,6 @@ forma, é importante ter uma boa noção da definição literal, visto que muita
 de
 prova limitam-se a exigir esta memorização.
 
-
 Avante!
 
 A Lei veicula as seguintes definições (art. 5o):
@@ -283,13 +272,11 @@ a um indivíduo;
 Percebam, então, que ao se retirar a informação quanto ao titular do dado pessoal,
 dizemos quele ele se tornou anônimo ou anonimizado:
 
-
 á k
 
 D.ado pesso *al
 k
 anonimização
-
 
 Dado
 
@@ -317,7 +304,6 @@ comunicação entre o controlador, os titulares dos dados e a Autoridade
 Nacional de Proteção de
 Dados (ANPD);
 
-
 Agente
 
 Z
@@ -339,7 +325,6 @@ do controlador
 X,
 >
 
-
 Encarregado
 k >
 
@@ -355,7 +340,6 @@ Proteção de Dados (ANPD)
 X
 
 /
-
 
 autoridade nacional: "órgão"1 da administração pública responsável por
 zelar, implementar
@@ -411,7 +395,6 @@ contém a descrição dos processos de tratamento de dados pessoais que podem ge
 XIX), atualmente ela possui
 natureza de autarquia (entidade) - art. 55-A.
 
-
 liberdades civis e aos direitos fundamentais, bem como medidas, salvaguardas e
 mecanismos de
 mitigação de risco;
@@ -421,7 +404,6 @@ Fundamentos da LGPD
 > Fundamentos da proteção de dados pessoais
 
 A proteção de dados pessoais tem como fundamentos (art. 29):
-
 
 cn
 O
@@ -438,7 +420,6 @@ informação
 comunicação
 opinião
 intimidade
-
 
 E inviolabilidade da
 
@@ -480,7 +461,6 @@ informação.
 : E Liberdade de expressão, de informação, de comunicação e de opinião.
 j
 
-
 Comentário
 
 Gabarito (D). Ao contrário do que menciona a letra (D), a LGPD prevê o respeito à
@@ -492,7 +472,6 @@ Princípios
 As atividades de tratamento de dados pessoais deverão observar a
 boa-fé e os seguintes
 princípios (art. 6o):
-
 
 éspõ n sa b i I i zãçào'''\
 e prestação de )
@@ -509,7 +488,6 @@ expressos 1
 L na LGPD À
 
 necessidade^)
-
 
 p r e ve n Çã o
 se g u ra n ça
@@ -535,7 +513,6 @@ posterior de forma incompatível com essas finalidades.
 O princípio da adequação diz respeito à compatibilidade entre o
 tratamento e as finalidades
 informadas ao titular, de acordo com o contexto do tratamento.
-
 
 Por sua vez, o princípio da necessidade está ligado à limitação do
 tratamento ao mínimo
@@ -595,7 +572,6 @@ comunicação e opinião
 adequação
 necessidade
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 proteger o livre
@@ -621,11 +597,10 @@ não discriminação
 responsabilização e
 prestação de contas
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
-Item. 4. TRATAMENTo DE DADoS PESSoAIS
+4. TRATAMENTo DE DADoS PESSoAIS
 
 Neste capítulo, estudaremos as hipóteses em que os dados poderão ser
 tratados, como se dá o
@@ -673,7 +648,6 @@ Para proteger seus titulares, a LGPD estabelece que o tratamento de
 dados pessoais somente
 poderá ser realizado nas seguintes hipóteses (art. 7o):
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 fornecimento de consentimento pelo titular
@@ -699,7 +673,6 @@ dados (sempre que
 possível)
 
 c
-
 
 (D
 
@@ -793,7 +766,6 @@ Pela importância em provas, vamos a um diagrama com as hipóteses de tratamento
 comentada artigo
 por artigo. SaraivaJur. 4a ed. P. 73
 
-
 Indo adiante, vejam que, além de detalhar as hipóteses que autorizam
 o tratamento de dados
 pessoais, a LGPD estabelece importantes requisitos para o tratamento de dados em seu artigo 7o.
@@ -811,7 +783,6 @@ titular e os princípios da
 LGPD (§ 4o). O raciocínio aqui é que, implicitamente, tem
 significado de consentimento a
 publicização do dado pelo seu titular.
-
 
 Ponto interessante é que o tratamento posterior dos dados pessoais
 tornados públicos pelo titular
@@ -875,7 +846,6 @@ revogação. Nesse sentido, a LGPD prevê que, havendo a
 revogação, são ratificados os
 tratamentos realizados sob amparo do consentimento anteriormente manifestado (§ 5°).
 
-
 Antonio Daud, Equipe Legislação Especíl
 - Prof. Antonio Daud
 
@@ -921,7 +891,6 @@ RESUMINDO
 0,0
 www. estra tegiaconcursos. com. br
 
-
 Um dos princípios da LGPD é o do livre acesso, que representa uma
 garantia, aos titulares de
 dados, de consulta facilitada e gratuita sobre a forma e a duração do
@@ -933,7 +902,6 @@ direito ao acesso facilitado às
 informações sobre o tratamento de seus dados, as quais deverão ser
 disponibilizadas de forma
 clara, adequada e ostensiva acerca de (art. 9o):
-
 
 Nas hipóteses em que o consentimento é necessário, esse será
 considerado nulo caso as
@@ -987,7 +955,6 @@ tratamento sem consentimento do titular (quando indispensável para
 as 7 finalidades acima
 listadas).
 
-
 Comparando com as hipóteses de tratamento de dados pessoais em geral, notamos que,
 no caso dos dados sensíveis:
 
@@ -1015,7 +982,6 @@ para cumprimento de obrigação legal ou regulatória pelo controlador
 publicidade à referida dispensa de consentimento (segundo prevê o art. 23, I, da LGPD).
 
 ESQUEMATIZANDO
-
 
 Antonio Daud, Equipe Legislação Específica Estratégia Concursu^W^
 - Prof. Antonio Daud
@@ -1045,7 +1011,6 @@ terapia, em benefício dos
 interesses dos titulares de dados, e para permitir:
 
 I - a portabilidade de dados quando solicitada pelo titular; ou
-
 
 II - as transações financeiras e administrativas resultantes do uso e da
 prestação dos serviços
@@ -1108,7 +1073,6 @@ criar padrões e técnicas de
 anonimização e realizar verificações sobre sua segurança (ouvido o Conselho
 Nacional de Proteção de
 Dados Pessoais).
-
 
 A LGPD estabelece que a determinação do que é esforço razoável (para se
 saber se o dado foi
@@ -1173,7 +1137,6 @@ segurança da informação que incluam, sempre que possível, a anonimização
 ou pseudonimização
 dos dados, bem como considerem os devidos padrões éticos relacionados a estudos e pesquisas.
 
-
 Quando os resultados dos estudos forem divulgados, logicamente sua
 divulgação em nenhuma
 hipótese poderá revelar dados pessoais (art. 13, § 1o).
@@ -1233,7 +1196,6 @@ em jogos, aplicações de internet ou outras atividades ao fornecimento
 de informações pessoais
 além das estritamente necessárias à atividade (art. 14, § 4°).
 
-
 No tratamento de dados de crianças, os controladores deverão manter pública a
 informação sobre
 os tipos de dados coletados, a forma de sua utilização e os procedimentos
@@ -1266,7 +1228,6 @@ Nesse sentido, a LGPD prevê que o término do tratamento de dados
 pessoais ocorrerá nas
 seguintes hipóteses (art. 15):
 
-
 E o que acontece com os dados pessoais após o término do tratamento dos dados?
 
 Em regra, os dados pessoais serão eliminados após o término de seu
@@ -1276,7 +1237,6 @@ limites técnicos das atividades (art. 16).
 No entanto, pode ser autorizada a conservação dos dados
 pessoais (após o término do
 tratamento) para as seguintes finalidades:
-
 
 cumprimento de obrigação legal ou
 regulatória pelo controlador
@@ -1290,8 +1250,7 @@ anonimizados os dados
 
 (vedado seu acesso por terceiro)
 
-
-Item. 5. DIREIToS Do TITULAR DoS DADoS
+5. DIREIToS Do TITULAR DoS DADoS
 
 Já sabemos que o "titular dos dados" é a pessoa natural a que os dados se referem.
 Nesse sentido, a LGPD
@@ -1305,7 +1264,6 @@ Assim, buscando resguardar o titular de dados pessoais, a LGPD lhe garante o dir
 a obter do controlador,
 em relação aos dados do titular por ele tratados, mediante requisição, a qualquer momento, o
 seguinte:
-
 
 Sobre tais direitos, vale registrar observações quanto a três deles:
 
@@ -1366,7 +1324,6 @@ ao operador) - art.
 Ao receber o requerimento, caso o controlador esteja impossibilitado de atender de
 maneira imediata a
 solicitação do titular, deverá enviar ao titular resposta em que poderá (art. 18, § 49):
-
 
 □ comunicar que não é agente de tratamento dos dados e indicar, sempre que possível, o agente
 ou
@@ -1429,7 +1386,6 @@ menciona Tarcísio Texeira, in Lei Geral de Proteção de Dados pessoais comenta
 comentada artigo
 por artigo. SaraivaJur. 4a ed. P. 73
 
-
 Caso o controlador descumpra tal dever e deixe de oferecer informações sobre a decisão
 automatizada, a
 autoridade nacional poderá realizar auditoria para verificação de aspectos
@@ -1459,7 +1415,7 @@ individual e coletiva (art. 22). Nestas situações, os titulares dos dados far�
 instrumentos previstos
 no Código de Defesa do Consumidor (CDC), da Lei da Ação Civil Pública, entre outras.
 
-Item. 6. TRATAMENTo DE DADoS PESSoAIS PELo PoDER
+6. TRATAMENTo DE DADoS PESSoAIS PELo PoDER
 PÚBLICo
 
 Sabemos que a LGPD aplica-se tanto para entes da Administração
@@ -1485,7 +1441,6 @@ pessoas de direito
 público, a LGPD prevê que a aplicação das "regras de poder
 público" a elas dependerá da
 atividade desempenhada por elas (art. 24).
-
 
 Se a estatal atuar em regime de concorrência, explorando atividade econômica
 (CF, art. 173), terão
@@ -1528,7 +1483,6 @@ deve ser feito de
 forma transparente e com respeito à intimidade, vida privada, honra e imagem
 das pessoas, bem como
 às liberdades e garantias individuais.
-
 
 armazenadas pelo poder público deverão ser mantidas sob sigilo, pelo
 período máximo de 100
@@ -1594,7 +1548,6 @@ II - poderão ter autorizada sua divulgação ou acesso por terceiros diante
 de previsão legal ou
 consentimento expresso da pessoa a que elas se referirem.
 
-
 Nesse sentido, a Autoridade Nacional de Proteção de Dados (ANPD)
 poderá dispor sobre as
 formas de publicidade das operações de tratamento de dados pessoais
@@ -1641,7 +1594,6 @@ A LGPD permite o uso compartilhado de dados pessoais pelo poder público, desde 
 
 □ sejam respeitados os princípios da LGPD (mencionados no art. 6o da Lei).
 
-
 Como exemplo de compartilhamento de dados podemos citar situação em
 que a Abin
 (Agência Brasileira de Inteligência) teve acesso a dados das carteiras de
@@ -1681,7 +1633,6 @@ requisitos comentados). Por outro lado, será vedado, como regra geral,
 o compartilhamento de
 dados pessoais entre o poder público e entidades privadas.
 
-
 FIQUE
 
 ATENTO!
@@ -1698,7 +1649,6 @@ DECORE!
 Adiante veremos as situações excepcionais em que o poder público
 poderá compartilhar dados
 com entidades privadas (art. 26, §1°):
-
 
 *
 
@@ -1736,7 +1686,6 @@ para se impedir o compartilhamento pela Administração.
 
 r**
 
-
 i 3) Quando houver previsão legal ou a transferência for respaldada em
 contratos, i
 
@@ -1751,7 +1700,6 @@ possível a transferência
 dos dados, com uma condição: estes contratos e convênios deverão ser
 comunicados à autoridade
 nacional (art. 26, §2°).
-
 
 i 4) Exclusivamente para prevenção de fraudes e irregularidades, para proteger e i
 
@@ -1770,7 +1718,6 @@ a utilização dos dados compartilhados para outras finalidades.
 ESTA CAI NA
 
 PROVA!
-
 
 Outro ponto importante deste compartilhamento é que, em regra, a
 comunicação ou o uso
@@ -1795,7 +1742,6 @@ j
 
 L
 
-
 Ora, nas situações que acabamos de estudar, em que a LGPD permite
 o compartilhamento de
 dados com entidades privadas (execução descentralizada, dados
@@ -1803,7 +1749,6 @@ acessíveis publicamente,
 previsão legal ou contratual, e prevenção de fraudes), será possível
 o compartilhamento sem o
 consentimento do titular e a comunicação prévia à ANPD.
-
 
 í 2) nas hipóteses em que a própria LGPD dispensa o consentimento
 
@@ -1834,7 +1779,6 @@ especial as regras da
 Lei do Habeas Data (Lei 9.507/1997), da Lei do Processo Administrativo
 Federal (Lei 9.784/1999)
 e da Lei de Acesso à Informação (Lei 12.527/2011) - art. 23, § 3o.
-
 
 condições para compartihlamento
 atender finalidades específicas de políticas
@@ -1885,7 +1829,6 @@ do tratamento realizado
 
 □ emitir parecer técnico complementar para garantir o cumprimento da LGPD
 
-
 □ estabelecer normas complementares para as atividades de comunicação e de uso
 compartilhado de dados pessoais (poder normativo da ANPD)
 
@@ -1898,7 +1841,7 @@ dados pessoais
 □ sugerir a adoção de padrões e de boas práticas para os tratamentos de dados pessoais
 pelo Poder Público.
 
-Item. 7. TRANSFERÊNCIA INTERNACIoNAL DE DADoS
+7. TRANSFERÊNCIA INTERNACIoNAL DE DADoS
 
 Transferência internacional de dados nada mais é do que a "transferência de
 dados pessoais para país
@@ -1916,7 +1859,6 @@ Situações em que a transferência internacional é permitida
 
 A transferência internacional de dados pessoais somente é permitida nos seguintes casos (art. 33):
 
-
 Detalhe interessante é que, na transferência para outros países ou organismos
 internacionais, os entes da
 Administração Pública de direito público poderão requerer à autoridade nacional a
@@ -1927,7 +1869,6 @@ p.u.).
 Abrindo um parêntese, ressalto que, nesta avaliação do nível de proteção de dados do
 país estrangeiro ou
 do organismo internacional, a autoridade nacional levará em consideração (art. 34):
-
 
 Além de verificar o nível de proteção do destino, quando solicitado, a autoridade
 nacional também irá definir
@@ -1950,8 +1891,7 @@ suficientes de observância dos princípios gerais de proteção e dos direitos
 do titular deverão ser
 comunicadas à autoridade nacional (art. 36).
 
-
-Item. 8. AGENTES DE TRATAMENTo DE DADoS PESSoAIS
+8. AGENTES DE TRATAMENTo DE DADoS PESSoAIS
 
 Já sabemos que "agentes de tratamento" é um gênero que inclui o controlador e o
 operador de dados
@@ -1989,7 +1929,6 @@ a medidas, salvaguardas e mecanismos de mitigação de risco adotados, no mínim
 
 9 "Guia de Elaboração de Inventário de Dados Pessoais", elaborado pelo Governo Federal, em abril de
 2021.
-
 
 0 operador deverá realizar o tratamento segundo as instruções fornecidas pelo
 controlador, que verificará
@@ -2037,13 +1976,11 @@ clara e objetiva, preferencialmente no sítio eletrônico do controlador (§ 12)
 
 As atividades do encarregado consistem em (§ 22):
 
-
 Além destas atividades, a autoridade nacional poderá estabelecer normas complementares
 sobre a definição
 e as atribuições do encarregado (§ 3Q), inclusive hipóteses de dispensa da necessidade
 de sua indicação,
 conforme a natureza e o porte da entidade ou o volume de operações de tratamento de dados.
-
 
 Atribuições
 no
@@ -2076,7 +2013,6 @@ orientar funcionários e contratados da entidade
 outras atribuições determinadas pelo
 controlador ou previstas em norma
 
-
 Responsabilidade e ressarcimento de danos
 
 0 controlador ou o operador que, em razão do exercício de atividade de tratamento de
@@ -2104,7 +2040,6 @@ causado ao titular, a
 LGPD ainda previu que os agentes de tratamento só não serão responsabilizados quando
 provarem que (art.
 43):
-
 
 exclusão da
 responsabilidade dos
@@ -2172,11 +2107,10 @@ consumo permanecem sujeitas às regras de responsabilidade previstas na legisla�
 pertinente. Então,
 nestes casos, o Código de Defesa do Consumidor (CDC) continuará sendo aplicável.
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
-Item. 9. SEGURANçA E BoAS PRÁTICAS NA PRoTEçÃo DE
+9. SEGURANçA E BoAS PRÁTICAS NA PRoTEçÃo DE
 
 DADoS
 
@@ -2241,7 +2175,6 @@ VI - as medidas que foram ou que serão adotadas para reverter ou mitigar os efe
 Pessoais comentada
 artigo por artigo. SaraivaJur. 4a ed. P. 166-167
 
-
 Portanto, vejam que a Lei não chega a estabelecer um prazo para a comunicação do
 incidente, embora
 preveja o conteúdo mínimo desta comunicação.
@@ -2288,7 +2221,6 @@ obrigações específicas
 para os diversos envolvidos no tratamento, as ações educativas, os mecanismos internos
 de supervisão e de
 mitigação de riscos e outros aspectos relacionados ao tratamento de dados pessoais (art. 50).
-
 
 Ao estabelecer regras de boas práticas, o controlador e o operador levarão em
 consideração, em relação ao
@@ -2349,7 +2281,6 @@ autoridade nacional estimulará
 a adoção de padrões técnicos que facilitem o controle pelos titulares dos seus dados pessoais (art.
 51).
 
-
 Considerando a importância da proteção dos dados pessoais, o legislador atribuiu à
 Autoridade Nacional de
 Proteção de Dados (ANPD) a competência para fiscalizar se os agentes de tratamento de
@@ -2361,7 +2292,6 @@ tratamento de dados,
 eles estarão sujeitos a uma série de sanções administrativas, que poderão ser aplicadas
 pela autoridade
 nacional (art. 52):
-
 
 Veja como este tema foi cobrado na questão a seguir:
 
@@ -2388,14 +2318,12 @@ E Detenção, de 1 a 2 meses
 
 Comentários:
 
-
 : Como visto acima, as sanções mencionadas nos itens (A) a (D) estão previstas na
 LGPD, que prevê apenas
 
 = sanções de natureza administrativa. A detenção, no entanto, é sanção penal, não arrolada na Lei.
 Gabarito
 U= .(.E...)
-
 
 Seguindo adiante, vale destacar que, se o infrator for um órgão público ou entidade
 pública, ele não se
@@ -2465,7 +2393,6 @@ sanções administrativas, civis ou penais, sejam aplicadas, a exemplo daquelas 
 no Código de Defesa
 do Consumidor.
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 apenas se antes já se aplicou ou multa (simples ou
@@ -2475,7 +2402,6 @@ eliminação dos dados pessoais
 - nao aplicáveis a entes da Admin. Púb.
 
 - arrecadação p/ Fundo de Def. dos Dir. Difusos
-
 
 Em atendimento aos princípios do contraditório e da ampla defesa, tais
 sanções serão aplicadas após
@@ -2536,11 +2462,10 @@ conter fundamentação detalhada de todos os seus elementos, demonstrando a
 observância dos critérios
 previstos nesta Lei (§1Q).
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
-Item. 11. AUToRIDADE NACIoNAL DE PRoTEçÃo DE DADoS
+11. AUToRIDADE NACIoNAL DE PRoTEçÃo DE DADoS
 
 (ANPD)
 
@@ -2553,7 +2478,6 @@ próprio e tem sede e foro no Distrito Federal (art. 55-A). Portanto, embora o a
 como um "órgão", na realidade a ANPD é uma autarquia.
 
 A ANPD possui a seguinte composição (art. 55-C):
-
 
 > Conselho Diretor
 
@@ -2586,7 +2510,6 @@ Diretor somente
 perderão seus cargos em virtude de (i) renúncia, (ii) condenação judicial transitada em
 julgado ou (iii) pena
 de demissão decorrente de processo administrativo disciplinar - PAD (art. 55-E).
-
 
 Para esta demissão, a instauração do PAD caberá ao Ministro de Estado da Casa Civil
 da Presidência da
@@ -2633,7 +2556,6 @@ Diretor.
 autonomia técnica e decisória
 patrimônio próprio
 
-
 <
 
 kANPD
@@ -2644,7 +2566,6 @@ Conselho Diretor (órgão máximo)
 
 Cons. Nacióhal de Proteção de dados
 e Privaddade
-
 
 Autoridade
 Nacional
@@ -2660,7 +2581,6 @@ jOuvidoria
 / Procuradoria
 unidades administrativas
 unidades especializadas
-
 
 /
 
@@ -2681,14 +2601,11 @@ Senado
 
 - prazo)
 
-
 Competências da ANPD
 
 Compete à ANPD (art. 55-J):
 
-
 : I - zelar pela proteção dos dados pessoais, nos termos da legislação;
-
 
 I
 
@@ -2817,7 +2734,6 @@ dirigidas à ANPD (item V acima), poderão ser analisadas de forma agregada, e a
 eventuais providências
 delas decorrentes poderão ser adotadas de forma padronizada (§ 65).
 
-
 Quanto à competência por deliberar sobre a interpretação da LGPD (item XX acima), vale
 registrar que a
 LGPD é o órgão central de interpretação da LGPD e do estabelecimento de normas e
@@ -2898,7 +2814,6 @@ para as empresas
 de pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administração no
 País.
 
-
 II - as doações, os legados, as subvenções e outros recursos que lhe forem destinados;
 
 III - os valores apurados na venda ou aluguel de bens móveis e imóveis de sua propriedade;
@@ -2923,7 +2838,7 @@ Por outro lado, constituem o patrimônio da ANPD os bens e os direitos (art. 55-
 I - que lhe forem transferidos pelos órgãos da Presidência da República; e
 II - que venha a adquirir ou a incorporar.
 
-Item. 12. CoNSELHo NACIoNAL DE PRoTEçÃo DE DADoS
+12. CoNSELHo NACIoNAL DE PRoTEçÃo DE DADoS
 PESSoAIS E DA PRIVACIDADE (CNPD)
 
 O Conselho Nacional de Proteção de Dados Pessoais e da Privacidade (CNPD) será
@@ -2953,7 +2868,6 @@ produtivo;
 X - 2 (dois) de entidades representativas do setor empresarial relacionado à área de
 tratamento de dados pessoais; e
 
-
 XI - 2 (dois) de entidades representativas do setor laborai.
 
 Os representantes serão designados por ato do Presidente da República, permitida a
@@ -2978,16 +2892,13 @@ Ponto importante é que a participação no Conselho Nacional de Proteção de D
 Pessoais e da Privacidade
 (CNPD) será considerada prestação de serviço público relevante, não remunerada.
 
-
 ESQUEMATIZANDO
 
 r
 
 Cons. Diretor da ANPD
 
-
 CNPD
-
 
 mandato de 4 anos
 
@@ -2998,7 +2909,6 @@ mandato de 2 anos p/
 representantes nao governamentais
 
 (1 recondução)
-
 
 membros escolhidos pelo Presid.
 Repúb. + sabatina do Senado
@@ -3017,7 +2927,6 @@ Compete ao Conselho Nacional de Proteção de Dados Pessoais e da Privacidade (a
 = II - elaborar relatórios anuais de avaliação da execução das ações da Política Nacional de
 
 : Proteção de Dados Pessoais e da Privacidade;
-
 
 III - sugerir ações a serem realizadas pela ANPD;
 
@@ -3054,7 +2963,6 @@ Comitê Gestor da Internet (CGI-BR)
 propor diretrizes estratégicas e fornecer
 subsídios para
 
-
 ©
 
 competências
@@ -3070,7 +2978,6 @@ elaborar estudos, realizar debates e audiências
 públicas sobre a proteção de dados e
 privacidade
 disseminar o conhecimento à população
-
 
 13.REGRAS FINAIS
 
@@ -3103,8 +3010,7 @@ Por fim, os direitos e princípios expressos na LGPD não excluem outros previst
 ordenamento jurídico
 pátrio relacionados à matéria ou nos tratados internacionais em que o Brasil seja parte (art. 64).
 
-
-Item. 14. RESUMo
+14. RESUMo
 
 LGPD aplica-se
 
@@ -3140,7 +3046,6 @@ tratamento brasileiros ou
 * objeto de transferência internacional de dados com outro país que não o de proveniência
 (desde que o país de proveniência proporcione proteção adequada a dados pessoais)
 
-
 Objetivos
 
 * proteger direitos
@@ -3158,7 +3063,6 @@ adequação
 necessidade
 
 *
-
 
 privacidade
 
@@ -3190,13 +3094,11 @@ responsabilização e
 prestação de
 contas
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 dados não poderão ser repassados a terceiro
 sem o consentimento de um dos pais ou
 responsável legal
-
 
 /- \
 
@@ -3239,7 +3141,6 @@ anonimizados os dados
 
 (vedado seu acesso por terceiro)
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 titularidade de seus dados
@@ -3255,7 +3156,6 @@ explorando atividade econômica
 
 estatais mesmo tratamento dado aos particulares
 na execução de políticas públicas
-
 
 TRATAMENTO DE
 DADOS PESSOAIS
@@ -3300,7 +3200,6 @@ prevenção de fraudes e irregularidades, para
 proteger segurança do titular dos dados (vedado
 para outras finalidades)
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concursül
 - Prof. Antonio Daud
 a quem competem as decisões sobre tratamento
@@ -3308,7 +3207,6 @@ de dados
 mantém registro das operações de tratamento
 elabora relatório de impacto à proteção de
 dados a pedido da autoridade nacional
-
 
 Atribuições
 no
@@ -3346,7 +3244,6 @@ dano decorre de culpa exclusiva do titular ou de
 terceiro
 descumprir as obrigações legais
 
-
 Responsabilidades
 e ressarcimento
 de danos
@@ -3363,7 +3260,6 @@ deixar de observar a legislação ou
 não fornecer a segurança que o titular dele
 pode esperar
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 apenas se antes já se aplicou ou multa (simples ou
@@ -3374,9 +3270,7 @@ eliminação dos dados pessoais
 
 - arrecadação p/ Fundo de Def. dos Dir. Difusos
 
-
 - Prof. Antonio Daud
-
 
 ---------------------------- -
 &ANPD
@@ -3404,7 +3298,6 @@ z0uvidoria
 unidades administrativas
 unidades especializadas
 
-
 /
 
 --------- /-------------------
@@ -3425,7 +3318,6 @@ representantes governamentais
 indicados pelos titulares dos
 respectivos órgãos/entidades
 
-
 Conselho
 Nac. de
 Proteção
@@ -3444,7 +3336,6 @@ Comitê Gestor da Internet (CGI-BR)
 propor diretrizes estratégicas e fornecer
 subsídios para
 
-
 O
 
 competências
@@ -3461,12 +3352,11 @@ públicas sobre a proteção de dados e
 privacidade
 disseminar o conhecimento à população
 
-
 QUESTõES CoMENTADAS
 
 Capítulo I
 
-Item. 1. CEBRASPE - Analista Ambiental (IBAMA)/Licenciamento Ambiental/2022
+1. CEBRASPE - Analista Ambiental (IBAMA)/Licenciamento Ambiental/2022
 
 Dado com identificação genética ou biométrica de pessoas naturais é definido
 como dado pessoal
@@ -3475,7 +3365,6 @@ sensível pela Lei n.° 13.709/2018.
 Comentários
 
 O item está de acordo com a definição legal de dado sensível:
-
 
 i
 
@@ -3493,7 +3382,7 @@ genético ou ;
 
 Gabarito (C)
 
-Item. 2. FUNDATEC - Analista de Gestão em Saúde (IPE Saúde)/Administração/2022
+2. FUNDATEC - Analista de Gestão em Saúde (IPE Saúde)/Administração/2022
 
 A Lei n° 13.709/2018 - Lei Geral de Proteção de Dados Pessoais
 (LGPD) - dispõe sobre o
@@ -3525,7 +3414,6 @@ difundidas na internet.
 
 Comentários
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
@@ -3551,7 +3439,7 @@ Art. 12 Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos mei
 
 Gabarito (A)
 
-Item. 3. AOCP - Analista em Previdência (IPE Prev)/Analista de Sistemas/2022
+3. AOCP - Analista em Previdência (IPE Prev)/Analista de Sistemas/2022
 
 De acordo com a Lei Federal n2 13.709/2018 (LGPD), a disciplina da proteção de dados
 pessoais tem como
@@ -3574,10 +3462,9 @@ A partir daí, percebemos que a alternativa incorreta é a letra (D), que prevê
 princípio da República Brasileira
 em suas relações internacionais (CF, art. 42), mas não fundamento específico da LGPD.
 
-
 Gabarito (D)
 
-Item. 4. CEBRASPE - Técnico da Defensoria Pública (DPE RO)/Técnico em lnformática/2022
+4. CEBRASPE - Técnico da Defensoria Pública (DPE RO)/Técnico em lnformática/2022
 
 Segundo a Lei Geral de Proteção de Dados Pessoais, a pessoa natural ou jurídica a
 quem compete decisões
@@ -3606,7 +3493,6 @@ alternativas estão todas incorretas:
 
 Art. 5Q Para os fins desta Lei, considera-se:
 i
-
 
 I
 
@@ -3641,7 +3527,7 @@ Nacional de ;
 
 Gabarito (C)
 
-Item. 5. CEBRASPE - Profissional Petrobras de Nível Superior (PETROBRASj/Analista de
+5. CEBRASPE - Profissional Petrobras de Nível Superior (PETROBRASj/Analista de
 Sistema/Processo de
 Negócio/2022
 
@@ -3652,11 +3538,9 @@ identificado.
 
 Comentários
 
-
 A questão apresenta corretamente o conceito de dado anonimizado:
 
 .. ..
-
 
 ..
 
@@ -3669,7 +3553,7 @@ t.o..; J
 
 Gabarito (C)
 
-Item. 6. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Administrativo/2022
+6. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Administrativo/2022
 A respeito da Lei Geral de Proteção de Dados Pessoais (LGPD), julgue o item a seguir.
 
 Segundo a referida lei, considera-se encarregado a pessoa natural ou jurídica, de
@@ -3679,7 +3563,6 @@ privado, que realiza o tratamento de dados pessoais em nome do controlador.
 Comentários
 
 O item se equivoca ao confundir os conceitos de operador e encarregado:
-
 
 .
 
@@ -3700,7 +3583,7 @@ Nacional de ;
 
 Gabarito (E)
 
-Item. 7. CEBRASPE - Auditor Fiscal de Controle Externo (TCE-SC)/Ciências da Computação/2022
+7. CEBRASPE - Auditor Fiscal de Controle Externo (TCE-SC)/Ciências da Computação/2022
 
 Competem ao controlador, e não a encarregado, as decisões referentes ao tratamento de dados
 pessoais.
@@ -3723,12 +3606,11 @@ Proteção de Dados (ANPD);
 
 Gabarito (C)
 
-Item. 8. FUNDATEC - Analista de Planejamento, Orçamento e Gestão (SEPOG RS)/2O22
+8. FUNDATEC - Analista de Planejamento, Orçamento e Gestão (SEPOG RS)/2O22
 
 Segundo a Lei Geral de Proteção de Dados - LGPD (Lei Federal n9 13.709/2018), são
 considerados Agentes
 de Tratamento:
-
 
 I. Encarregado.
 
@@ -3751,7 +3633,7 @@ Apenas controlador e operador são considerados agentes de tratamento:
 
 Gabarito: D
 
-Item. 9. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Administrativo/2022
+9. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Administrativo/2022
 A respeito da Lei Geral de Proteção de Dados Pessoais (LGPD), julgue o item a seguir.
 
 Essa lei não se aplica ao tratamento de dados pessoais realizados para fins exclusivos de segurança
@@ -3760,7 +3642,6 @@ pública.
 Comentários
 
 A questão cobrou corretamente hipótese de não aplicação da LGPD, prevista em seu art. 4^:
-
 
 Gabarito: Certo
 
@@ -3796,10 +3677,9 @@ Nacional de ;
 
 Gabarito: ERRADO.
 
-Item. 11. FCC - Técnico (Pge Am)/Administração/2022
+11. FCC - Técnico (Pge Am)/Administração/2022
 
 A disciplina estabelecida pela lei geral de proteção de dados - LGPD (Lei 13.709/2018),
-
 
 A não admite o compartilhamento de dados pessoais entre operador e controlador, sendo
 irrelevante o teor
@@ -3829,9 +3709,7 @@ incorreta, na medida em que a LGPD permite o compartilhamento de dados
 pessoais entre operador e
 controlador, desde que seja obtido o consentimento específico do titular:
 
-
 .
-
 
 Art. 72. § 52 O controlador que obteve 0 consentimento referido no inciso I do caput
 deste i
@@ -3849,13 +3727,11 @@ A letra (B) está incorreta, visto que os dados pessoais serão anonimizados, se
 
 r------
 
-
 Art. 72, iv - para a realização de estudos por órgão de pesquisa, garantida, sempre que i
 i possível, a anonimização dos dados pessoais;
 ;
 
 . ..
-
 
 A letra (C) está incorreta, na medida em que a LGPD não se aplica ao tratamento de
 dados pessoais for feito
@@ -3863,12 +3739,10 @@ para fins jornalísticos ou acadêmicos:
 
 *
 
-
 Art. 42 Esta Lei não se aplica ao tratamento de dados pessoais:
 i
 
 I
-
 
 I
 
@@ -3882,18 +3756,15 @@ j
 
 Li
 
-
 A letra (D) está incorreta, ao contrariar a seguinte regra legal:
 
 r------- ..
-
 
 t
 í Art. 9Q. § 3Q Quando o tratamento de dados pessoais for condição para o
 fornecimento de í
 
 = produto ou de serviço ou para o exercício de direito, o titular será informado com :
-
 
 destaque sobre esse fato e sobre os meios pelos quais poderá exercer os direitos do
 titular
@@ -3913,7 +3784,6 @@ i
 
 I
 
-
 I
 
 : I - realizado por pessoa natural para fins exclusivamente particulares e não econômicos; ;
@@ -3922,7 +3792,7 @@ Gabarito (E)
 
 Capítulo II
 
-Item. 12. FGV - Assistente Administrativo da Fazenda Estadual (Sefaz AM)/2022
+12. FGV - Assistente Administrativo da Fazenda Estadual (Sefaz AM)/2022
 
 De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), 0 tratamento de
 dados pessoais sensíveis
@@ -3951,7 +3821,6 @@ Comentários
 
 Relembrando as hipóteses de tratamento de dados sensíveis (art. 11):
 
-
 A partir desta lista, percebemos que a letra (D) está correta.
 
 A letra (A) está incorreta, pois a proteção da vida de terceiro também
@@ -3966,7 +3835,7 @@ Por fim, a letra (E) está incorreta, pois estão incluídos os profissionais e 
 
 Gabarito (D)
 
-Item. 13. VUNESP - Analista Legislativo (ALESP)/Suporte Técnico/2022
+13. VUNESP - Analista Legislativo (ALESP)/Suporte Técnico/2022
 
 A Lei Geral de Proteção de Dados Pessoais - LGPD (Lei n^ 13.709, de 14/08/2018)
 prevê tipos de tratamento
@@ -3978,7 +3847,6 @@ controlador em ambiente controlado e seguro. Esse tipo de tratamento é denomina
 
 A Insensibilização.
 
-
 B Adequação.
 
 C Anonimização.
@@ -3988,7 +3856,6 @@ E Não discriminação.
 Comentários
 
 O enunciado cobrou a definição legal de pseudonimização:
-
 
 f
 
@@ -4020,9 +3887,8 @@ seguro (art. 13, §4°)
 
 Gabarito (D)
 
-Item. 14. FGV - Analista de Tecnologia da Informação (BANESTES)/Desenvolvimento de Sistemas/2021
+14. FGV - Analista de Tecnologia da Informação (BANESTES)/Desenvolvimento de Sistemas/2021
 O banco de dados gerenciado por Paulo possui os dados a seguir.
-
 
 id pessoa
 ea5d0cl0
@@ -4056,7 +3922,6 @@ tratamento nos dados
 para perder a possibilidade de associação, direta ou indireta, a um indivíduo, e gerou a tabela
 abaixo.
 
-
 id pessoa
 dlb2d23f
 c9ee2d5b
@@ -4088,7 +3953,6 @@ CEP 22040-320
 
 CEP 72000-100
 
-
 À luz da LGPD, o tratamento realizado por Paulo foi:
 
 A bloqueio;
@@ -4109,7 +3973,7 @@ de nascimento e do endereço.
 
 Gabarito (B)
 
-Item. 15. FGV - Analista de Gestão Corporativa (EPE)/Recursos Humanos/2022
+15. FGV - Analista de Gestão Corporativa (EPE)/Recursos Humanos/2022
 
 Considere que um instituto público brasileiro de pesquisas estatísticas esteja fazendo o
 tratamento de dados
@@ -4139,14 +4003,12 @@ legal:
 
 r------
 
-
 v
 í Art. 11, II - sem fornecimento de consentimento do titular, nas hipóteses
 em que for i
 
 = indispensável para: (..)
 =
-
 
 c) realização de estudos por órgão de pesquisa, garantida, sempre que possível, a
 anonimização dos dados pessoais sensíveis;
@@ -4159,7 +4021,7 @@ visto que o enunciado não menciona nenhuma irregularidade cometida.
 
 Gabarito (E)
 
-Item. 16. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
+16. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
 
 De acordo com a LGPD (Lei Geral de Proteção de Dados Pessoais), o consentimento é a
 manifestação livre,
@@ -4192,10 +4054,9 @@ J;
 
 Relembrando as principais características do consentimento:
 
-
 Gabarito (B)
 
-Item. 17. QUADRIX - Assistente (CRN 4)/Administrativo/2022
+17. QUADRIX - Assistente (CRN 4)/Administrativo/2022
 
 0 tratamento de dados pessoais de crianças dispensa o consentimento específico dos pais
 ou do responsável
@@ -4209,7 +4070,7 @@ específico de um dos pais ou responsável legal (art. 14, §1°).
 
 Gabarito (E)
 
-Item. 18. FUNDATEC - Analista de Gestão em Saúde (IPE Saúde)/Administração/2022
+18. FUNDATEC - Analista de Gestão em Saúde (IPE Saúde)/Administração/2022
 
 Conforme a Lei n^ 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD) - o
 tratamento de dados
@@ -4229,7 +4090,6 @@ A Apenas I.
 B Apenas II.
 
 C Apenas I e II.
-
 
 D Apenas II e III.
 E I, II e III.
@@ -4294,7 +4154,6 @@ sempre que possível, a
 anonimização desses dados.
 
 Comentários
-
 
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
@@ -4361,9 +4220,7 @@ titular:
 r
 í I - mediante o fornecimento de consentimento pelo titular;
 
-
 I
-
 
 I
 
@@ -4378,11 +4235,9 @@ i II - para o cumprimento de obrigação legal ou regulatória pelo controlador;
 
 ; disposições do Capítulo IV desta Lei;
 
-
 / 159
 
 /
-
 
 IV - para a realização de estudos por órgão de pesquisa, garantida, sempre que
 possível, a
@@ -4434,7 +4289,6 @@ O item está errado, visto que a LGPD permite o tratamento
 de dados mesmo sem o
 consentimento do titular nas hipóteses listadas nos incisos II a X a seguir:
 
-
 Art. 7Q O tratamento de dados pessoais somente poderá ser realizado nas
 seguintes i
 
@@ -4443,7 +4297,6 @@ seguintes i
 : I - mediante o fornecimento de consentimento pelo titular;
 
 i II - para o cumprimento de obrigação legal ou regulatória pelo controlador;
-
 
 III - pela administração pública, para o tratamento e uso compartilhado de
 dados
@@ -4508,7 +4361,6 @@ Gabarito (C)
 
 24.CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Advogado/2022
 
-
 Os dados pessoais de crianças poderão ser coletados sem consentimento dos pais ou do
 responsável legal
 quando for necessário para a proteção delas, hipótese em que tais dados poderão,
@@ -4539,7 +4391,7 @@ artigo.
 
 Gabarito (E)
 
-Item. 25. CEBRASPE - Técnico em Gestão de Telecomunicações (TELEBRAS)/Assistente Administrativo/2022
+25. CEBRASPE - Técnico em Gestão de Telecomunicações (TELEBRAS)/Assistente Administrativo/2022
 
 Na hipótese de tratamento de dados pessoais de crianças, a legislação de regência
 exige que ambos os pais
@@ -4555,7 +4407,6 @@ deles:
 
 .. ..
 
-
 *
 
 **
@@ -4569,10 +4420,9 @@ i
 
 Gabarito (E)
 
-
 Capítulo III
 
-Item. 26. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
+26. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
 
 Toda pessoa natural tem assegurada a titularidade de seus dados pessoais e
 garantidos os direitos
@@ -4583,7 +4433,6 @@ Comentários
 É isso mesmo, o item transcreveu a seguinte regra da LGPD:
 
 r
-
 
 Art. 17. Toda pessoa natural tem assegurada a titularidade de seus dados
 pessoais e i
@@ -4609,7 +4458,6 @@ de decisões tomadas
 unicamente com base em tratamento automatizado de dados pessoais que afetem seus interesses:
 
 ..
-
 
 ..
 !
@@ -4640,7 +4488,6 @@ A anonimização, o bloqueio e a eliminação de dados desnecessários,
 excessivos ou tratados em
 desconformidade com o disposto nesta Lei é um dos direitos do titular dos dados:
 
-
 Art. 18, IV - anonimização, bloqueio ou eliminação de dados desnecessários, excessivos
 ou i
 
@@ -4655,7 +4502,7 @@ h ..
 
 Gabarito (C)
 
-Item. 29. VUNESP - Analista Legislativo (ALESP)/lnfraestrutura de TI/2022
+29. VUNESP - Analista Legislativo (ALESP)/lnfraestrutura de TI/2022
 
 Nos termos da Lei Geral de Proteção de Dados Pessoais (LGPD) (Lei n? 13.709, de
 14/08/2018), tem-se que,
@@ -4691,7 +4538,6 @@ LGPD, sendo que apenas a letra
 
 A letra (A), incorreta, visto que tais direitos são assegurados apenas às pessoas naturais
 (físicas):
-
 
 Art. 17. Toda pessoa natural tem assegurada a titularidade de seus dados pessoais e
 i
@@ -4732,7 +4578,6 @@ mediante i
 
 = os segredos comercial e industrial;
 
-
 § 3Q Os direitos previstos neste artigo serão exercidos mediante requerimento expresso do
 titular ou de representante legalmente constituído, a agente de tratamento.
 
@@ -4770,7 +4615,6 @@ incompletos,
 correção de dados inexatos ou
 desatualizados
 
-
 Direitos
 junto ao
 controlador
@@ -4798,14 +4642,13 @@ revogação do consentimento
 
 Gabarito (E)
 
-Item. 30. FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Segurança da lnformação/2022
+30. FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Segurança da lnformação/2022
 
 Empresas privadas e órgãos públicos vêm adequando seus processos de coleta,
 armazenamento e
 manipulação dos dados pessoais a fim de operarem em conformidade com os requisitos
 legais da Lei Geral
 de Proteção de Dados (LGPD). A LGPD define vários agentes com distintas responsabilidades para 0
-
 
 tratamento dos dados pessoais. O titular do dado pessoal tem assegurado direitos diante
 desses agentes
@@ -4855,7 +4698,6 @@ A letra (C), incorreta, pois não diz respeito a hipótese arrolada no art. 18 d
 enunciado.
 A letra (D), correta, trazendo um dos direitos do titular dos dados:
 
-
 Art. 18, IV - anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou i
 
 .=...t.r.a..t.a..d..o..s..e..md..e.
@@ -4866,7 +4708,6 @@ Por fim, a letra (E), incorreta, sendo que a Banca tentou confundir 0 candidato
 trazendo conceito próximo
 ao da transferência internacional de dados:
 
-
 Art. 59, XV - transferência internacional de dados: transferência de dados pessoais para país :
 
 = estrangeiro ou organismo internacional do qual 0 país seja membro;
@@ -4874,11 +4715,9 @@ Art. 59, XV - transferência internacional de dados: transferência de dados pes
 
 L
 
-
 Gabarito (D)
 
-
-Item. 31. FCC-Técnico Judiciário (TRT 4? Região)/Administrativa/"Sem Especialidade"/2022
+31. FCC-Técnico Judiciário (TRT 4? Região)/Administrativa/"Sem Especialidade"/2022
 Considere os seguintes itens:
 
 I. Confirmação da existência de tratamento.
@@ -4936,14 +4775,12 @@ os j
 
 Gabarito (C)
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
-
 Capítulo IV
 
-Item. 32. FGV - Auditor Fiscal (Sefaz-MG)/2023
+32. FGV - Auditor Fiscal (Sefaz-MG)/2023
 
 Em tema de tratamento de dados pessoais pelo poder público, de acordo com a Lei
 Geral de Proteção de
@@ -4971,7 +4808,6 @@ poder público:
 
 r
 
-
 ,
 
 i LGPD, Art. 25. Os dados deverão ser mantidos em formato interoperável e estruturado i
@@ -4988,7 +4824,7 @@ encontram amparo no caput do art. 25.
 
 Gabarito (B)
 
-Item. 33. FGV - Auditor Federal de Finanças e Controle (CGU)/2022
+33. FGV - Auditor Federal de Finanças e Controle (CGU)/2022
 
 A Lei Geral de Proteção de Dados Pessoais (LGPD) estabelece que o uso
 compartilhado de dados
@@ -5013,7 +4849,6 @@ ou instrumentos congêneres;
 C nos casos em que os dados forem acessíveis publicamente e desde que o
 titular dos dados
 apresente documento formal, com firma reconhecida, de aquiescência com o compartilhamento;
-
 
 D nos casos de execução centralizada de atividade pública que
 recomende o compartilhamento
@@ -5090,8 +4925,7 @@ Por fim, a letra (E) está correta, ao mencionar a hipótese do inciso V, transc
 
 Gabarito (E)
 
-Item. 34. FGV - Técnico Federal de Finanças e Controle (CGU)/2022
-
+34. FGV - Técnico Federal de Finanças e Controle (CGU)/2022
 
 A Lei Geral de Proteção de Dados Pessoais (LGPD) dispõe sobre o tratamento
 de dados pessoais,
@@ -5155,8 +4989,7 @@ estão incorretas.
 
 Gabarito (D)
 
-Item. 35. CEBRASPE - Advogado (TELEBRAS)/2022
-
+35. CEBRASPE - Advogado (TELEBRAS)/2022
 
 Em regra, a comunicação ou o uso compartilhado de dados pessoais de pessoa
 jurídica de direito
@@ -5168,7 +5001,6 @@ Comentários
 
 A assertiva está plenamente de acordo com o art. 27 da LGPD:
 
-
 Art. 27. A comunicação ou o uso compartilhado de dados pessoais de pessoa jurídica de
 i
 
@@ -5179,7 +5011,7 @@ nacional e j
 
 Gabarito (C)
 
-Item. 36. CEBRASPE - Advogado (TELEBRAS)/2022
+36. CEBRASPE - Advogado (TELEBRAS)/2022
 
 Em respeito aos princípios de proteção de dados pessoais, o uso compartilhado
 de dados pessoais
@@ -5235,7 +5067,6 @@ de dados a que tenha acesso, sem exceções.
 
 Assinale a alternativa que apresenta a sequência correta de cima para baixo.
 
-
 A V-V-V
 
 BV-F-V
@@ -5252,7 +5083,6 @@ O item I está correto. Se estiverem em regime de concorrência de mercado,
 o tratamento dado a
 elas deve ser o mesmo dado às demais empresas privadas:
 
-
 .
 
 Art. 24. As empresas públicas e as sociedades de economia mista que atuam em regime de
@@ -5266,7 +5096,6 @@ Art. 24. As empresas públicas e as sociedades de economia mista que atuam em re
 O item II está correto, visto que, sendo prestadoras de serviços públicos,
 o tratamento dado será
 o mesmo das pessoas de direito público:
-
 
 Art. 24, Parágrafo único. As empresas públicas e as sociedades de economia mista,
 quando i
@@ -5317,8 +5146,7 @@ titular
 
 Gabarito (D)
 
-
-Item. 38. QUADRIX- Fiscal Biomédico (CRBM 3)/2022
+38. QUADRIX- Fiscal Biomédico (CRBM 3)/2022
 
 Os dados deverão ser mantidos em formato interoperável e estruturado para o
 uso compartilhado,
@@ -5334,7 +5162,6 @@ com vistas ao compartilhamento:
 
 r
 
-
 Art. 25. Os dados deverão ser mantidos em formato interoperável e estruturado para o
 i
 
@@ -5348,7 +5175,7 @@ acesso das ;
 
 Gabarito (C)
 
-Item. 39. IDECAN - Assistente em Administração (UNILAB)/2022
+39. IDECAN - Assistente em Administração (UNILAB)/2022
 
 Segundo o Art. 31 da Lei Geral de Proteção de Dados Pessoais (Lei n°
 13.709/2018), "quando
@@ -5374,7 +5201,7 @@ cabíveis para fazer cessar a violação.
 
 Gabarito (A)
 
-Item. 40. FGV - Consultor Legislativo (Senado)/2022
+40. FGV - Consultor Legislativo (Senado)/2022
 
 A Lei Geral de Proteção de Dados (Lei n° 13.709/2018) dispõe sobre
 o tratamento de dados
@@ -5383,7 +5210,6 @@ jurídica de direito público
 ou privado, com o objetivo de proteger os direitos fundamentais de liberdade
 e de privacidade e
 o livre desenvolvimento da personalidade da pessoa natural.
-
 
 Nesse contexto de tratamento de dados pessoais, de acordo com a citada lei,
 a empresa pública
@@ -5413,9 +5239,7 @@ Cobrança da aplicação da LGPD às empresas estatais, lembrando que
 quando elas atuarem na
 prestação de serviços públicos deverão seguir as "regras de poder público":
 
-
 * .
-
 
 Art. 24. As empresas públicas e as sociedades de economia mista que atuam em regime de
 
@@ -5436,7 +5260,7 @@ j
 
 Gabarito (A)
 
-Item. 41. FCC - Juiz Estadual (TJ GO)/2021
+41. FCC - Juiz Estadual (TJ GO)/2021
 
 A propósito do tratamento de dados pessoais, no âmbito da Lei Geral de
 Proteção de Dados, Lei
@@ -5459,7 +5283,6 @@ sentido contrário.
 C as empresas públicas e sociedades de economia mista terão o
 mesmo tratamento dispensado
 às pessoas jurídicas de direito público, independentemente da atividade por elas desempenhada.
-
 
 D a comunicação ou o uso compartilhado de dados pessoais de pessoa jurídica
 de direito público
@@ -5540,7 +5363,6 @@ termos do ;
 
 : inciso I do caput do art. 23 desta Lei; ou
 
-
 III - nas exceções constantes do § 19 do art. 26 desta Lei [execução descentralizada
 de
 atividade pública, dados acessíveis publicamente, previsão legal ou contratual, e
@@ -5555,7 +5377,6 @@ instauração de procedimento de desclassificação:
 
 r1*
 
-
 t
 i LGPD, art. 19. A confirmação de existência ou o acesso a dados pessoais
 serão i
@@ -5565,13 +5386,11 @@ serão i
 
 I
 
-
 Além disso, saliento que a Lei de Acesso Informação estabelece que
 as informações pessoais
 poderão ter autorizada sua divulgação ou acesso por terceiros diante de (i)
 previsão legal ou (ii)
 consentimento expresso da pessoa a que elas se referirem:
-
 
 i
 í Lei 12.527/2011, art. 31. O tratamento das informações pessoais deve ser feito de
@@ -5624,7 +5443,6 @@ pessoais i
 = constantes de bases de dados a que tenha acesso, exceto: (..)
 =
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
@@ -5634,7 +5452,6 @@ titular
 dos dados, desde que vedado o tratamento para outras finalidades.
 
 Gabarito (E)
-
 
 Capítulos V e VI
 
@@ -5705,13 +5522,12 @@ operação,
 
 = distinguindo claramente esta de outras finalidades; ou
 
-
 IX - quando necessário para atender as hipóteses previstas nos incisos II, V e VI do art. 7?
 desta Lei.
 
 Gabarito (E)
 
-Item. 44. Instituto AOCP - Cientista de Dados (MJSP) /2020
+44. Instituto AOCP - Cientista de Dados (MJSP) /2020
 
 Segundo a Lei n? 13.709/2018, de Proteção de Dados, a transferência internacional de
 dados pessoais é
@@ -5759,7 +5575,7 @@ Os demais itens estão todos de acordo com as demais hipóteses do art. 33 da LG
 
 Gabarito (E)
 
-Item. 45. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
+45. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
 
 É vedado ao controlador e ao operador manter registro das operações de tratamento de
 dados pessoais que
@@ -5769,7 +5585,6 @@ Comentários
 
 Ao contrário, trata-se de uma obrigação legal do controlador e do operador:
 
-
 i
 
 Art. 37. O controlador e o operador devem manter registro das operações de tratamento i
@@ -5777,11 +5592,9 @@ Art. 37. O controlador e o operador devem manter registro das operações de tra
 .:..d..e..dadospessoais..querealizarem,..e..specialmenteq.u..a..n.d
 ..o...b..a..s..e..a..d..o...n..o...legítimointere.s..s.e,j
 
-
 Gabarito (E)
 
 46.CEBRASPE - Técnico Ambiental (IBAMA)/2022
-
 
 0 operador que causar dano a outrem no desempenho da atividade de tratamento de dados
 pessoais, por
@@ -5797,7 +5610,6 @@ subsidiária):
 
 r .
 
-
 *
 
 Art. 42, §1-, I - o operador responde solidariamente pelos danos causados pelo tratamento
@@ -5811,7 +5623,7 @@ j
 
 Gabarito (E)
 
-Item. 47. CEBRASPE - Analista de Previdência Complementar (FUNPRESP-EXE)/Jurídica/2022
+47. CEBRASPE - Analista de Previdência Complementar (FUNPRESP-EXE)/Jurídica/2022
 
 A obrigação de os agentes de tratamento de dados pessoais repararem dano patrimonial
 será afastada se
@@ -5838,7 +5650,7 @@ atribuído, ;
 
 Gabarito (C)
 
-Item. 48. FGV - Perito Criminal (PC AM)/2022
+48. FGV - Perito Criminal (PC AM)/2022
 
 A principal função da Lei Geral de Proteção de Dados (LGPD) é garantir que o
 tratamento de dados pessoais
@@ -5858,7 +5670,6 @@ A a política de proteção de dados pessoais.
 
 B relatório de avaliação de vulnerabilidades no acesso a dados pessoais.
 
-
 C relatório de impacto à proteção de dados pessoais.
 D termo de consentimento no uso de dados pessoais.
 E política de segurança da informação.
@@ -5868,7 +5679,6 @@ Comentários
 O documento que a autoridade nacional poderá solicitar do controlador é chamado de
 relatório de impacto
 à proteção de dados pessoais:
-
 
 * *
 * .
@@ -5882,7 +5692,7 @@ j
 
 Gabarito (C)
 
-Item. 49. FGV - Analista Judiciário (TJDFT)/2022
+49. FGV - Analista Judiciário (TJDFT)/2022
 
 De acordo com o Art. 37 da LGPD (Lei Geral de Proteção de Dados Pessoais), as
 operações de tratamento
@@ -5915,7 +5725,7 @@ Pessoais"1.
 
 Gabarito (A)
 
-Item. 50. IADES - Analista de Sistemas (CFQ)/Ênfase em lnfraestrutura/2021
+50. IADES - Analista de Sistemas (CFQ)/Ênfase em lnfraestrutura/2021
 
 No que concerne à Lei Geral de Proteção de Dados Pessoais (LGPD), com relação aos
 agentes de tratamento
@@ -5924,7 +5734,6 @@ de dados pessoais, assinale a alternativa correta.
 1 "Guia de Elaboração de Inventário de Dados Pessoais", elaborado pelo
 Governo Federal, em abril de
 2021.
-
 
 A 0 controlador e o operador não podem manter registro das operações de tratamento de
 dados pessoais
@@ -5953,7 +5762,6 @@ Comentários
 A letra (A), incorreta, pois os agentes devem manter tal registro, para fins de transparência:
 
 r *
-
 
 Art. 37. O controlador e o operador devem manter registro das operações de tratamento
 i
@@ -5991,12 +5799,10 @@ do operador:
 .. ..
 ..
 
-
 ..
 ..
 
 Art. 43. Os agentes de tratamento só não serão responsabilizados quando provarem:
-
 
 I
 
@@ -6011,10 +5817,8 @@ i III - que o dano é decorrente de culpa exclusiva do titular dos dados ou de t
 
 A letra (E), incorreta, visto tratar-se de atividade do encarregado:
 
-
 j
 í Art. 41, § 2^ As atividades do encarregado consistem em:
-
 
 I - aceitar reclamações e comunicações dos titulares, prestar esclarecimentos e adotar
 providências;
@@ -6028,7 +5832,6 @@ IV - executar as demais atribuições determinadas pelo controlador ou estabelec
 normas complementares.
 
 Gabarito (B)
-
 
 Capítulos VII e VIII
 
@@ -6080,7 +5883,6 @@ dados, deverá garantir a segurança deles:
 
 R
 
-
 T
 
 Art. 47. Os agentes de tratamento ou qualquer outra pessoa que intervenha em uma das
@@ -6102,7 +5904,6 @@ dele.
 Comentários
 
 A condição econômica do infrator será, sim, avaliada para definição das sanções a serem aplicadas:
-
 
 Art. 52, § 15 As sanções serão aplicadas após procedimento administrativo que
 possibilite i
@@ -6149,7 +5950,7 @@ L ..
 
 Gabarito (C)
 
-Item. 54. FUNDATEC - Analista de Planejamento, Orçamento e Gestão (SEPOG RS)/2022
+54. FUNDATEC - Analista de Planejamento, Orçamento e Gestão (SEPOG RS)/2022
 
 De acordo com a LGPD (Lei Federal n5 13.709/2018), os agentes de tratamento de dados,
 em razão das
@@ -6174,7 +5975,6 @@ multa simples?
 A R$ 30.000,00.
 
 B R$ 70.000,00.
-
 
 C R$ 10.000.000,00.
 
@@ -6204,7 +6004,7 @@ os ;
 
 Gabarito (D)
 
-Item. 55. FCC-Técnico Judiciário (TRT 4? Região)/Administrativa/"Sem Especialidade"/2022
+55. FCC-Técnico Judiciário (TRT 4? Região)/Administrativa/"Sem Especialidade"/2022
 
 Nos termos da Lei Geral de Proteção de Dados Pessoais (LGPD), Lei n^ 13.709/2018, a
 suspensão temporária
@@ -6224,18 +6024,16 @@ A questão cobrou uma das definições previstas no artigo 5- da LGPD, que defin
 suspensão como sendo
 o bloqueio:
 
-
 Art. 65, XIII - bloqueio: suspensão temporária de qualquer operação de tratamento, i
 
 : mediante guarda do dado pessoal ou do banco de dados;
 ;
 
-
 ..
 
 Gabarito (E)
 
-Item. 56. FCC - Analista Judiciário (TRT 4? Região)/Judiciária/"Sem Especialidade"/2022
+56. FCC - Analista Judiciário (TRT 4? Região)/Judiciária/"Sem Especialidade"/2022
 Considere as seguintes sanções administrativas:
 
 I. advertência.
@@ -6251,7 +6049,6 @@ V. bloqueio dos dados pessoais a que se refere a infração até a sua regulariz
 VI. eliminação dos dados pessoais a que se refere a infração.
 
 VII. suspensão parcial do funcionamento do banco de dados a que se refere a infração.
-
 
 VIII. suspensão do exercício da atividade de tratamento dos dados pessoais a que se refere a
 infração.
@@ -6304,7 +6101,6 @@ refere ;
 
 A letra (B), incorreta, visto que o limite de R$ 50 milhões é a cada infração:
 
-
 Art. 51, II - multa simples, de até 2% (dois por cento) do faturamento da pessoa
 jurídica de i
 
@@ -6323,7 +6119,6 @@ dados, suspensão do tratamento de dados e proibição de tratamento - itens VII
 A letra (D), correta, visto que apenas as multas não poderão ser aplicadas a entes
 da Administração Pública
 (art. 52, §3?):
-
 
 Sanções - entes da Administração Pública
 
@@ -6351,7 +6146,7 @@ Gabarito (D)
 
 Capítulos IX e X
 
-Item. 57. FGV-Analista Judiciário (TJDFT)/Apoio Especializado/Segurança da lnformação/2022
+57. FGV-Analista Judiciário (TJDFT)/Apoio Especializado/Segurança da lnformação/2022
 
 De acordo com a composição da ANPD (Autoridade Nacional de Proteção de Dados) prevista
 na LGPD (Lei
@@ -6385,7 +6180,6 @@ Política Nacional =
 
 : de Proteção de Dados Pessoais e da Privacidade e para a atuação da ANPD;
 
-
 II - elaborar relatórios anuais de avaliação da execução das ações da Política Nacional de
 Proteção de Dados Pessoais e da Privacidade;
 
@@ -6399,7 +6193,7 @@ população.
 
 Gabarito (E)
 
-Item. 58. FCC - Analista Judiciário (TRT 235 Região)/2022
+58. FCC - Analista Judiciário (TRT 235 Região)/2022
 
 De acordo com o que estabelece a Lei Geral de Proteção de Dados (Lei no 13.709/2018)
 acerca da Autoridade
@@ -6436,7 +6230,6 @@ Diretor:
 
 ..
 
-
 ..
 !
 
@@ -6465,7 +6258,6 @@ de i
 A letra (D), incorreta, visto que a aprovação se dá pelo Senado Federal (e não pelo
 Congresso Nacional como
 um todo):
-
 
 Art. 55-D, § 1° Os membros do Conselho Diretor da ANPD serão escolhidos pelo Presidente
 
@@ -6511,7 +6303,6 @@ A letra (C) está incorreta, pois o mandato de seus membros é de 4 anos
 
 A letra (D) está correta, pois menciona dois órgãos que compõem a ANPD.
 
-
 Gabarito (D)
 
 60.CEBRASPE - Técnico de Tecnologia da Informação (BANRISUL)/Gestão de Tecnologia da
@@ -6526,7 +6317,6 @@ Comentários
 Com base no mesmo raciocínio da questão anterior, percebemos que esta está correta.
 
 *
-
 
 Art. 55-A. Fica criada a Autoridade Nacional de Proteção de Dados (ANPD), autarquia de
 i
@@ -6555,7 +6345,6 @@ C devem ser elaborados relatórios regionais acerca do nível de transparência
 e aplicação da política de
 privacidade.
 
-
 D os representantes que compõem o referido conselho terão mandato de dois
 anos, permitida uma
 recondução.
@@ -6569,7 +6358,6 @@ Comentários
 A letra (A) está incorreta, visto que a distribuição não é equânime entre os Poderes.
 A título de exemplo,
 dos 23 representantes, o Poder Executivo Federal conta com 5 e o Legislativo com apenas 2:
-
 
 Art. 58-A. O Conselho Nacional de Proteção de Dados Pessoais e da Privacidade será
 i
@@ -6591,7 +6379,6 @@ A letra (B), incorreta, visto que serão todos designados pelo Presidente da Rep
 ..
 ..
 
-
 Art. 58-A, § 1Q Os representantes serão designados por ato do Presidente da
 República, i
 
@@ -6602,7 +6389,6 @@ j
 
 .. .. .. ..
 ..
-
 
 A letra (C), incorreta, visto que tais relatórios dizem respeito a uma política nacional (e não
 regional):
@@ -6626,7 +6412,6 @@ aos representantes "não
 governamentais" do CNPD:
 
 r
-
 
 T
 
@@ -6655,10 +6440,9 @@ proteção i
 
 ;
 
-
 Gabarito (E)
 
-Item. 62. Instituto AOCP - Cientista de Dados (MJSP)/2020
+62. Instituto AOCP - Cientista de Dados (MJSP)/2020
 
 Nos termos da Lei Brasileira que trata da Proteção de Dados, Lei n^ 13.709/2018, a
 respeito da Autoridade
@@ -6704,7 +6488,6 @@ A letra (B), incorreta, pois trata-se de ato do Presidente da República (e não
 Art. 55-G. Ato do Presidente da República disporá sobre a estrutura regimental da ANPD.
 A letra (C), incorreta, ao mencionar uma das competências da ANPD:
 
-
 Art. 55-J, V - apreciar petições de titular contra controlador após comprovada pelo
 titular i
 
@@ -6717,11 +6500,9 @@ A letra (D), incorreta, pois constitui, sim, receita da ANPD:
 
 r
 
-
 Art. 55-L. Constituem receitas da ANPD:
 
 I
-
 
 I
 
@@ -6731,7 +6512,6 @@ créditos =
 = adicionais, as transferências e os repasses que lhe forem conferidos;
 
 = II - as doações, os legados, as subvenções e outros recursos que lhe forem destinados;
-
 
 III - os valores apurados na venda ou aluguel de bens móveis e imóveis de sua propriedade;
 
@@ -6751,7 +6531,6 @@ A letra (E), correta, constituindo transcrição da seguinte regra legal:
 
 r *
 
-
 Art. 55-H. Os cargos em comissão e as funções de confiança da ANPD serão remanejados i
 
 .:..d..e...o..u..t.r.o..s...ó..r.g..ã..o..s...e...e..n..t.i.d..a..d..e..s...d..o...P..o.
@@ -6760,18 +6539,17 @@ Art. 55-H. Os cargos em comissão e as funções de confiança da ANPD serão re
 
 Gabarito (E)
 
-
 LISTA DE QUESTõES CoMENTADAS
 
 Capítulo I
 
-Item. 1. CEBRASPE - Analista Ambiental (IBAMA)/Licenciamento Ambiental/2022
+1. CEBRASPE - Analista Ambiental (IBAMA)/Licenciamento Ambiental/2022
 
 Dado com identificação genética ou biométrica de pessoas naturais é definido
 como dado pessoal
 sensível pela Lei n.° 13.709/2018.
 
-Item. 2. FUNDATEC - Analista de Gestão em Saúde (IPE Saúde)/Administração/2022
+2. FUNDATEC - Analista de Gestão em Saúde (IPE Saúde)/Administração/2022
 
 A Lei n° 13.709/2018 - Lei Geral de Proteção de Dados Pessoais
 (LGPD) - dispõe sobre o
@@ -6801,7 +6579,7 @@ E Instituir o programa de desenvolvimento digital visando ao combate
 de informações falsas
 difundidas na internet.
 
-Item. 3. AOCP - Analista em Previdência (IPE Prev)/Analista de Sistemas/2022
+3. AOCP - Analista em Previdência (IPE Prev)/Analista de Sistemas/2022
 
 De acordo com a Lei Federal 13.709/2018 (LGPD), a disciplina da proteção de dados
 pessoais tem como
@@ -6814,10 +6592,9 @@ C a livre iniciativa e a defesa do consumidor.
 
 D a autodeterminação dos povos.
 
-
 E o exercício da cidadania pelas pessoas naturais.
 
-Item. 4. CEBRASPE - Técnico da Defensoria Pública (DPE RO)/Técnico em lnformática/2022
+4. CEBRASPE - Técnico da Defensoria Pública (DPE RO)/Técnico em lnformática/2022
 
 Segundo a Lei Geral de Proteção de Dados Pessoais, a pessoa natural ou jurídica a
 quem compete decisões
@@ -6831,7 +6608,7 @@ D operador.
 
 E encarregado.
 
-Item. 5. CEBRASPE - Profissional Petrobras de Nível Superior (PETROBRASj/Analista de
+5. CEBRASPE - Profissional Petrobras de Nível Superior (PETROBRASj/Analista de
 Sistema/Processo de
 Negócio/2022
 
@@ -6840,19 +6617,19 @@ possibilidade de associação direta de um dado a um indivíduo, de modo que ess
 ser
 identificado.
 
-Item. 6. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Administrativo/2022
+6. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Administrativo/2022
 A respeito da Lei Geral de Proteção de Dados Pessoais (LGPD), julgue o item a seguir.
 
 Segundo a referida lei, considera-se encarregado a pessoa natural ou jurídica, de
 direito público ou
 privado, que realiza o tratamento de dados pessoais em nome do controlador.
 
-Item. 7. CEBRASPE - Auditor Fiscal de Controle Externo (TCE-SC)/Ciências da Computação/2022
+7. CEBRASPE - Auditor Fiscal de Controle Externo (TCE-SC)/Ciências da Computação/2022
 
 Competem ao controlador, e não a encarregado, as decisões referentes ao tratamento de dados
 pessoais.
 
-Item. 8. FUNDATEC - Analista de Planejamento, Orçamento e Gestão (SEPOG RS)/2O22
+8. FUNDATEC - Analista de Planejamento, Orçamento e Gestão (SEPOG RS)/2O22
 
 Segundo a Lei Geral de Proteção de Dados - LGPD (Lei Federal n^ 13.709/2018), são
 considerados Agentes
@@ -6871,18 +6648,17 @@ A Apenas I e II.
 
 B Apenas I e IV.
 
-
 C Apenas II e III.
 D Apenas II e IV.
 E Apenas III e IV.
 
-Item. 9. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Administrativo/2022
+9. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Administrativo/2022
 A respeito da Lei Geral de Proteção de Dados Pessoais (LGPD), julgue o item a seguir.
 
 Essa lei não se aplica ao tratamento de dados pessoais realizados para fins exclusivos de segurança
 pública.
 
-Item. 10. CEBRASPE - Analista (PGE RJ)/Sistemas e Métodos/2022
+10. CEBRASPE - Analista (PGE RJ)/Sistemas e Métodos/2022
 
 De acordo com a Lei n.e 13.709/2018 (Lei Geral de Proteção de Dados Pessoais), o
 encarregado deve realizar
@@ -6890,7 +6666,7 @@ o tratamento de dados pessoais em nome do controlador, com o objetivo de
 proteger os direitos
 fundamentais de privacidade.
 
-Item. 11. FCC - Técnico (Pge Am)/Administração/2022
+11. FCC - Técnico (Pge Am)/Administração/2022
 
 A disciplina estabelecida pela lei geral de proteção de dados - LGPD (Lei 13.709/2018),
 
@@ -6914,14 +6690,12 @@ E não alcança o tratamento de dados pessoais realizado por pessoa natural
 para fins exclusivamente
 particulares e não econômicos.
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
-
 Capítulo II
 
-Item. 12. FGV - Assistente Administrativo da Fazenda Estadual (Sefaz AM)/2022
+12. FGV - Assistente Administrativo da Fazenda Estadual (Sefaz AM)/2022
 
 De acordo com a Lei Geral de Proteção de Dados Pessoais (LGPD), o tratamento de
 dados pessoais sensíveis
@@ -6946,7 +6720,7 @@ E a tutela da saúde, exclusivamente, em procedimento realizado por autoridade
 sanitária, excluídos os
 demais profissionais e serviços de saúde.
 
-Item. 13. VUNESP - Analista Legislativo (ALESP)/Suporte Técnico/2022
+13. VUNESP - Analista Legislativo (ALESP)/Suporte Técnico/2022
 
 A Lei Geral de Proteção de Dados Pessoais - LGPD (Lei n^ 13.709, de 14/08/2018)
 prevê tipos de tratamento
@@ -6964,10 +6738,9 @@ C Anonimização.
 D Pseudonimização.
 E Não discriminação.
 
-Item. 14. FGV - Analista de Tecnologia da Informação (BANESTES)/Desenvolvimento de
+14. FGV - Analista de Tecnologia da Informação (BANESTES)/Desenvolvimento de
 Sistemas/2021
 O banco de dados gerenciado por Paulo possui os dados a seguir.
-
 
 id pessoa
 ea5d0cl0
@@ -7000,7 +6773,6 @@ Para atender a Lei Geral de Proteção de Dados Pessoais (LGPD), Paulo realizou 
 tratamento nos dados
 para perder a possibilidade de associação, direta ou indireta, a um indivíduo, e gerou a tabela
 abaixo.
-
 
 id pessoa
 dlb2d23f
@@ -7043,7 +6815,7 @@ C difusão;
 D classificação;
 E extração.
 
-Item. 15. FGV - Analista de Gestão Corporativa (EPE)/Recursos Humanos/2022
+15. FGV - Analista de Gestão Corporativa (EPE)/Recursos Humanos/2022
 
 Considere que um instituto público brasileiro de pesquisas estatísticas esteja fazendo o
 tratamento de dados
@@ -7065,7 +6837,7 @@ necessariamente, consentimento dos titulares.
 D A conduta do órgão se mostra regular, contanto que o órgão tenha pago valor justo aos titulares.
 E A conduta do órgão se mostra regular em todos os aspectos.
 
-Item. 16. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
+16. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
 
 De acordo com a LGPD (Lei Geral de Proteção de Dados Pessoais), o consentimento é a
 manifestação livre,
@@ -7077,7 +6849,6 @@ Conforme o Art. 8Q, §2^, da Lei n^ 13.709/2018, o ônus da prova de que o
 consentimento foi obtido em
 conformidade com o disposto na LGPD é do(a):
 
-
 A titular;
 
 B controlador;
@@ -7086,13 +6857,13 @@ C encarregado;
 D órgão de pesquisa;
 E autoridade nacional.
 
-Item. 17. QUADRIX - Assistente (CRN 4)/Administrativo/2022
+17. QUADRIX - Assistente (CRN 4)/Administrativo/2022
 
 O tratamento de dados pessoais de crianças dispensa o consentimento específico dos pais
 ou do responsável
 legal.
 
-Item. 18. FUNDATEC - Analista de Gestão em Saúde (IPE Saúde)/Administração/2022
+18. FUNDATEC - Analista de Gestão em Saúde (IPE Saúde)/Administração/2022
 
 Conforme a Lei n^ 13.709/2018 - Lei Geral de Proteção de Dados Pessoais (LGPD) - o
 tratamento de dados
@@ -7115,14 +6886,13 @@ C Apenas I e II.
 D Apenas II e III.
 E I, II e III.
 
-Item. 19. CEBRASPE - Técnico Ambiental (ICMBio)/2022
+19. CEBRASPE - Técnico Ambiental (ICMBio)/2022
 
 O tratamento de dados pessoais somente poderá ser realizado mediante o fornecimento de
 consentimento
 por seu titular, mesmo que este os tenha tornado manifestamente públicos.
 
-Item. 20. CEBRASPE - Técnico Ambiental (ICMBio)/2022
-
+20. CEBRASPE - Técnico Ambiental (ICMBio)/2022
 
 Os dados pessoais serão eliminados após o término de seu tratamento, sendo autorizada
 a sua conservação
@@ -7130,7 +6900,7 @@ para a finalidade de estudo por órgão de pesquisa, bem como garantida,
 sempre que possível, a
 anonimização desses dados.
 
-Item. 21. VUNESP - Notário e Registrador (TJ SP)/Remoção/2022
+21. VUNESP - Notário e Registrador (TJ SP)/Remoção/2022
 
 Afirma-se que, no âmbito da Lei Geral de Proteção de dados, o tratamento de dados
 pessoais somente
@@ -7155,7 +6925,7 @@ D a realização de estudos por órgão de pesquisa, garantida, obrigatória e s
 anonimização dos dados
 pessoais.
 
-Item. 22. CEBRASPE - Profissional Petrobras de Nível Superior (PETROBRAS)/Analista de
+22. CEBRASPE - Profissional Petrobras de Nível Superior (PETROBRAS)/Analista de
 Sistema/Processo de
 Negócio/2022
 
@@ -7163,13 +6933,13 @@ Ainda que seja para cumprimento de obrigação regulatória pelo controlador do 
 titular deve consentir
 previamente a sua utilização.
 
-Item. 23. CEBRASPE - Auditor Fiscal de Controle Externo (TCE-SC)/Ciências da Computação/2022
+23. CEBRASPE - Auditor Fiscal de Controle Externo (TCE-SC)/Ciências da Computação/2022
 
 Em caso de cumprimento de obrigação regulatória pelo controlador, permite-se o
 tratamento de dados
 pessoais.
 
-Item. 24. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Advogado/2022
+24. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/Advogado/2022
 
 Os dados pessoais de crianças poderão ser coletados sem consentimento dos pais ou do
 responsável legal
@@ -7177,7 +6947,7 @@ quando for necessário para a proteção delas, hipótese em que tais dados pode
 ainda, ser repassados a
 terceiros.
 
-Item. 25. CEBRASPE - Técnico em Gestão de Telecomunicações (TELEBRASj/Assistente Administrativo/2022
+25. CEBRASPE - Técnico em Gestão de Telecomunicações (TELEBRASj/Assistente Administrativo/2022
 
 Na hipótese de tratamento de dados pessoais de crianças, a legislação de regência
 exige que ambos os pais
@@ -7185,22 +6955,21 @@ deem o consentimento específico e em destaque, dada a ampla proteção das
 crianças no ordenamento
 pátrio.
 
-
 Capítulo III
 
-Item. 26. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
+26. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
 
 Toda pessoa natural tem assegurada a titularidade de seus dados pessoais e
 garantidos os direitos
 fundamentais de liberdade, de intimidade e de privacidade.
 
-Item. 27. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
+27. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
 
 O titular dos dados não tem o direito de solicitar a revisão de decisões tomadas
 unicamente com base em
 tratamento automatizado de dados pessoais que afetem seus interesses.
 
-Item. 28. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/2O22
+28. CEBRASPE - Especialista em Gestão de Telecomunicações (TELEBRAS)/2O22
 
 Anonimização dos dados pessoais é um direito do titular dos dados, que pode, ainda,
 requerer o bloqueio
@@ -7208,7 +6977,7 @@ ou a eliminação de dados desnecessários, excessivos ou tratados em desconform
 o disposto na
 legislação de regência.
 
-Item. 29. VUNESP - Analista Legislativo (ALESP)/lnfraestrutura de TI/2022
+29. VUNESP - Analista Legislativo (ALESP)/lnfraestrutura de TI/2022
 
 Nos termos da Lei Geral de Proteção de Dados Pessoais (LGPD) (Lei n? 13.709, de
 14/08/2018), tem-se que,
@@ -7235,7 +7004,7 @@ E anonimização, bloqueio ou eliminação de dados desnecessários, excessivos
 ou tratados em
 desconformidade com o disposto na LGPD.
 
-Item. 30. FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Segurança da lnformação/2022
+30. FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Segurança da lnformação/2022
 
 Empresas privadas e órgãos públicos vêm adequando seus processos de coleta,
 armazenamento e
@@ -7270,9 +7039,8 @@ E transferência de dados pessoais para país estrangeiro ou organismo internaci
 qual o país seja
 membro por transferência de sede organizacional.
 
-Item. 31. FCC-Técnico Judiciário (TRT 4- Região)/Administrativa/"Sem Especialidade"/2022
+31. FCC-Técnico Judiciário (TRT 4- Região)/Administrativa/"Sem Especialidade"/2022
 Considere os seguintes itens:
-
 
 I. Confirmação da existência de tratamento.
 
@@ -7296,10 +7064,9 @@ C I, II, III e IV.
 D I, II e III, apenas.
 E I e IV, apenas.
 
-
 Capítulo IV
 
-Item. 32. FGV - Auditor Fiscal (Sefaz-MG)/2023
+32. FGV - Auditor Fiscal (Sefaz-MG)/2023
 
 Em tema de tratamento de dados pessoais pelo poder público, de acordo com a Lei
 Geral de Proteção de
@@ -7319,7 +7086,7 @@ a opção que não apresenta uma dessas finalidades.
 
 (E) Disseminação e acesso das informações pelo público em geral.
 
-Item. 33. FGV - Auditor Federal de Finanças e Controle (CGU)/2022
+33. FGV - Auditor Federal de Finanças e Controle (CGU)/2022
 
 A Lei Geral de Proteção de Dados Pessoais (LGPD) estabelece que o uso
 compartilhado de dados
@@ -7357,7 +7124,7 @@ irregularidades, ou proteger e resguardar a segurança e a integridade do
 titular dos dados, desde
 que vedado o tratamento para outras finalidades.
 
-Item. 34. FGV - Técnico Federal de Finanças e Controle (CGU)/2022
+34. FGV - Técnico Federal de Finanças e Controle (CGU)/2022
 
 A Lei Geral de Proteção de Dados Pessoais (LGPD) dispõe sobre o tratamento
 de dados pessoais,
@@ -7366,7 +7133,6 @@ jurídica de direito público ou
 privado, com o objetivo de proteger os direitos fundamentais de liberdade
 e de privacidade e o
 livre desenvolvimento da personalidade da pessoa natural.
-
 
 De acordo com a Lei n° 13.709/2018, a comunicação ou o uso compartilhado
 de dados pessoais
@@ -7394,7 +7160,7 @@ pública, exceto se a entidade titular dos dados previamente
 impedir o compartilhamento,
 mediante decisão fundamentada.
 
-Item. 35. CEBRASPE - Advogado (TELEBRAS)/2022
+35. CEBRASPE - Advogado (TELEBRAS)/2022
 
 Em regra, a comunicação ou o uso compartilhado de dados pessoais de pessoa
 jurídica de direito
@@ -7402,7 +7168,7 @@ público a pessoa de direito privado será informado à autoridade
 nacional e dependerá de
 consentimento do titular.
 
-Item. 36. CEBRASPE - Advogado (TELEBRAS)/2022
+36. CEBRASPE - Advogado (TELEBRAS)/2022
 
 Em respeito aos princípios de proteção de dados pessoais, o uso compartilhado
 de dados pessoais
@@ -7433,14 +7199,13 @@ A V-V-V
 
 BV-F-V
 
-
 CF-F-V
 
 DV-V- F
 
 E F-F-F
 
-Item. 38. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
+38. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
 
 Os dados deverão ser mantidos em formato interoperável e estruturado para o
 uso compartilhado,
@@ -7448,7 +7213,7 @@ com vistas à execução de políticas públicas, à prestação de serviços
 públicos, à descentralização
 da atividade pública e à disseminação e ao acesso das informações pelo público em geral.
 
-Item. 39. IDECAN - Assistente em Administração (UNILAB)/2022
+39. IDECAN - Assistente em Administração (UNILAB)/2022
 
 Segundo o Art. 31 da Lei Geral de Proteção de Dados Pessoais (Lei n°
 13.709/2018), "quando
@@ -7462,7 +7227,7 @@ B continuar a violação.
 C determinar a violação.
 D apresentar a violação.
 
-Item. 40. FGV - Consultor Legislativo (Senado)/2022
+40. FGV - Consultor Legislativo (Senado)/2022
 
 A Lei Geral de Proteção de Dados (Lei n° 13.709/2018) dispõe sobre
 o tratamento de dados
@@ -7494,8 +7259,7 @@ E tratamento específico que lhe conferir o Conselho Nacional de Proteção de
 Dados Pessoais e
 da Privacidade, similar à iniciativa privada.
 
-Item. 41. FCC - Juiz Estadual (TJ GO)/2021
-
+41. FCC - Juiz Estadual (TJ GO)/2021
 
 A propósito do tratamento de dados pessoais, no âmbito da Lei Geral de
 Proteção de Dados, Lei
@@ -7537,16 +7301,15 @@ dados a que ele tenha acesso, inclusive na hipótese de visar
 exclusivamente a prevenção de
 fraudes e irregularidades.
 
-
 Capítulos V e VI
 
-Item. 43. QUADRIX - Advogado (CRECI 14)/2021
+43. QUADRIX - Advogado (CRECI 14)/2021
 
 A transferência internacional de dados pessoais só é admitida na legislação pátria
 quando a transferência for
 necessária para a proteção da vida ou da incolumidade física do titular ou de terceiros.
 
-Item. 44. Instituto AOCP - Cientista de Dados (MJSP) /2020
+44. Instituto AOCP - Cientista de Dados (MJSP) /2020
 
 Segundo a Lei n? 13.709/2018, de Proteção de Dados, a transferência internacional de
 dados pessoais é
@@ -7572,13 +7335,13 @@ E quando a transferência for necessária para a cooperação jurídica internac
 órgãos públicos de
 inteligência, de investigação e de persecução, de acordo com os instrumentos de direito internos.
 
-Item. 45. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
+45. QUADRIX - Fiscal Biomédico (CRBM 3)/2022
 
 É vedado ao controlador e ao operador manter registro das operações de tratamento de
 dados pessoais que
 realizarem.
 
-Item. 46. CEBRASPE - Técnico Ambiental (IBAMA)/2022
+46. CEBRASPE - Técnico Ambiental (IBAMA)/2022
 
 O operador que causar dano a outrem no desempenho da atividade de tratamento de dados
 pessoais, por
@@ -7586,13 +7349,13 @@ descumprir as obrigações da legislação de proteção de dados, terá
 responsabilidade subsidiária ao
 controlador.
 
-Item. 47. CEBRASPE - Analista de Previdência Complementar (FUNPRESP-EXE)/Jurídica/2022
+47. CEBRASPE - Analista de Previdência Complementar (FUNPRESP-EXE)/Jurídica/2022
 
 A obrigação de os agentes de tratamento de dados pessoais repararem dano patrimonial
 será afastada se
 não houver violação à legislação de proteção de dados.
 
-Item. 48. FGV - Perito Criminal (PC AM)/2022
+48. FGV - Perito Criminal (PC AM)/2022
 
 A principal função da Lei Geral de Proteção de Dados (LGPD) é garantir que o
 tratamento de dados pessoais
@@ -7610,14 +7373,13 @@ ANPD (conforme Art.
 
 A a política de proteção de dados pessoais.
 
-
 B relatório de avaliação de vulnerabilidades no acesso a dados pessoais.
 C relatório de impacto à proteção de dados pessoais.
 
 D termo de consentimento no uso de dados pessoais.
 E política de segurança da informação.
 
-Item. 49. FGV - Analista Judiciário (TJDFT)/2O22
+49. FGV - Analista Judiciário (TJDFT)/2O22
 
 De acordo com o Art. 37 da LGPD (Lei Geral de Proteção de Dados Pessoais), as
 operações de tratamento
@@ -7635,7 +7397,7 @@ D serviços notariais e de registro;
 
 E termo de consentimento.
 
-Item. 50. IADES - Analista de Sistemas (CFQ)/Ênfase em lnfraestrutura/2021
+50. IADES - Analista de Sistemas (CFQ)/Ênfase em lnfraestrutura/2021
 
 No que concerne à Lei Geral de Proteção de Dados Pessoais (LGPD), com relação aos
 agentes de tratamento
@@ -7663,7 +7425,6 @@ E Entre as atividades do controlador, consta orientar os funcionários e os cont
 da entidade a respeito
 das práticas a serem tomadas quanto à proteção de dados pessoais.
 
-
 Capítulos VII e VIII
 
 51 .CEBRASPE - Analista da Defensoria Pública (DPE RO)/Programação/2022
@@ -7682,7 +7443,7 @@ C operador
 D controlador
 E encarregado
 
-Item. 52. CEBRASPE - Auditor de Finanças e Controle de Arrecadação da Fazenda Estadual (SEFAZ AL)/2021
+52. CEBRASPE - Auditor de Finanças e Controle de Arrecadação da Fazenda Estadual (SEFAZ AL)/2021
 
 De acordo com a LGPD, qualquer entidade que intervenha em uma das fases
 do tratamento de dados
@@ -7690,13 +7451,13 @@ pessoais obriga-se a garantir a segurança da informação desses dados, mesmo
 após o término do
 tratamento.
 
-Item. 53. CEBRASPE - Técnico Ambiental (IBAMA)/2022
+53. CEBRASPE - Técnico Ambiental (IBAMA)/2022
 
 Na aplicação da sanção de multa a agente de tratamento de dados, será considerada a
 condição econômica
 dele.
 
-Item. 54. FUNDATEC - Analista de Planejamento, Orçamento e Gestão (SEPOG RS)/2022
+54. FUNDATEC - Analista de Planejamento, Orçamento e Gestão (SEPOG RS)/2022
 
 De acordo com a LGPD (Lei Federal n^ 13.709/2018), os agentes de tratamento de dados,
 em razão das
@@ -7728,8 +7489,7 @@ D R$ 50.000.000,00.
 
 E A Lei não estabelece valor máximo para multas simples.
 
-Item. 55. FCC - Técnico Judiciário (TRT 4- Região)/Administrativa/"Sem Especialidade"/2022
-
+55. FCC - Técnico Judiciário (TRT 4- Região)/Administrativa/"Sem Especialidade"/2022
 
 Nos termos da Lei Geral de Proteção de Dados Pessoais (LGPD), Lei 13.709/2018, a
 suspensão temporária
@@ -7743,7 +7503,7 @@ C desqualificação.
 D desclassificação.
 E bloqueio.
 
-Item. 56. FCC - Analista Judiciário (TRT 4- Região)/Judiciária/"Sem Especialidade"/2022
+56. FCC - Analista Judiciário (TRT 4- Região)/Judiciária/"Sem Especialidade"/2022
 Considere as seguintes sanções administrativas:
 
 I. advertência.
@@ -7791,8 +7551,7 @@ dos itens II e III.
 
 Capítulos IX e X
 
-Item. 57. FGV-Analista Judiciário (TJDFT)/Apoio Especializado/Segurança da lnformação/2022
-
+57. FGV-Analista Judiciário (TJDFT)/Apoio Especializado/Segurança da lnformação/2022
 
 De acordo com a composição da ANPD (Autoridade Nacional de Proteção de Dados) prevista
 na LGPD (Lei
@@ -7809,7 +7568,7 @@ D Coordenação-Geral de Administração;
 
 E Conselho Nacional de Proteção de Dados Pessoais e da Privacidade.
 
-Item. 58. FCC - Analista Judiciário (TRT 233 Região)/2022
+58. FCC - Analista Judiciário (TRT 233 Região)/2022
 
 De acordo com o que estabelece a Lei Geral de Proteção de Dados (Lei no 13.709/2018)
 acerca da Autoridade
@@ -7839,7 +7598,7 @@ E os ocupantes dos cargos em comissão e das funções de confiança da ANPD ser
 indicados pelo Presidente
 da República, após aprovação do Senado Federal.
 
-Item. 59. CEBRASPE - Analista (APEX)2022
+59. CEBRASPE - Analista (APEX)2022
 
 A Autoridade Nacional de Proteção de Dados (ANPD)
 
@@ -7849,7 +7608,7 @@ B é órgão com autonomia técnica, mas sem poder decisório.
 C prevê mandato dos membros do seu Conselho Diretor por, no máximo, dois anos.
 D é composta de corregedoria e ouvidoria.
 
-Item. 60. CEBRASPE - Técnico de Tecnologia da Informação (BANRISUL)/Gestão de Tecnologia da
+60. CEBRASPE - Técnico de Tecnologia da Informação (BANRISUL)/Gestão de Tecnologia da
 lnformação/2022
 
 A Autoridade Nacional de Proteção de Dados (ANPD) é uma autarquia de
@@ -7861,7 +7620,6 @@ autonomia técnica e decisória, com patrimônio próprio e com sede e foro no D
 No que diz respeito ao Conselho Nacional de Proteção de Dados Pessoais e da
 Privacidade, é correto afirmar
 que
-
 
 A sua composição conta com representação equânime de todos os poderes.
 
@@ -7881,7 +7639,7 @@ E devem ser elaborados estudos e realizados debates e audiências públicas sobr
 proteção de dados
 pessoais.
 
-Item. 62. Instituto AOCP - Cientista de Dados (MJSP)/2020
+62. Instituto AOCP - Cientista de Dados (MJSP)/2020
 
 Nos termos da Lei Brasileira que trata da Proteção de Dados, Lei n^ 13.709/2018, a
 respeito da Autoridade
@@ -7911,132 +7669,129 @@ E Os cargos em comissão e as funções de confiança da ANPD serão remanejados
 entidades
 do Poder Executivo federal.
 
-
 GABARIToS
 
+1. Gabarito (C)
 
-Item. 1. Gabarito (C)
+2. Gabarito (A)
 
-Item. 2. Gabarito (A)
+3. Gabarito (D)
 
-Item. 3. Gabarito (D)
+4. Gabarito (C)
 
-Item. 4. Gabarito (C)
+5. Gabarito (C)
 
-Item. 5. Gabarito (C)
+6. Gabarito (E)
 
-Item. 6. Gabarito (E)
+7. Gabarito (C)
 
-Item. 7. Gabarito (C)
+8. Gabarito: D
 
-Item. 8. Gabarito: D
+9. Gabarito: Certo
 
-Item. 9. Gabarito: Certo
+10. Gabarito: ERRADO.
 
-Item. 10. Gabarito: ERRADO.
+11. Gabarito (E)
 
-Item. 11. Gabarito (E)
+12. Gabarito (D)
 
-Item. 12. Gabarito (D)
+13. Gabarito (D)
 
-Item. 13. Gabarito (D)
+14. Gabarito (B)
 
-Item. 14. Gabarito (B)
+15. Gabarito (E)
 
-Item. 15. Gabarito (E)
+16. Gabarito (B)
 
-Item. 16. Gabarito (B)
+17. Gabarito (E)
 
-Item. 17. Gabarito (E)
+18. Gabarito (E)
 
-Item. 18. Gabarito (E)
+19. Gabarito (E)
 
-Item. 19. Gabarito (E)
+20. Gabarito (C)
 
-Item. 20. Gabarito (C)
+21. Gabarito (B)
 
-Item. 21. Gabarito (B)
+22. Gabarito (E)
 
-Item. 22. Gabarito (E)
+23. Gabarito (C)
 
-Item. 23. Gabarito (C)
+24. Gabarito (E)
 
-Item. 24. Gabarito (E)
+25. Gabarito (E)
 
-Item. 25. Gabarito (E)
+26. Gabarito (C)
 
-Item. 26. Gabarito (C)
+27. Gabarito (E)
 
-Item. 27. Gabarito (E)
+28. Gabarito (C)
 
-Item. 28. Gabarito (C)
+29. Gabarito (E)
 
-Item. 29. Gabarito (E)
+30. Gabarito (D)
 
-Item. 30. Gabarito (D)
+31. Gabarito (C)
 
-Item. 31. Gabarito (C)
+32. Gabarito (B)
 
-Item. 32. Gabarito (B)
+33. Gabarito (E)
 
-Item. 33. Gabarito (E)
+34. Gabarito (D)
 
-Item. 34. Gabarito (D)
+35. Gabarito (C)
 
-Item. 35. Gabarito (C)
+36. Gabarito (C)
 
-Item. 36. Gabarito (C)
+37. Gabarito (D)
 
-Item. 37. Gabarito (D)
+38. Gabarito (C)
 
-Item. 38. Gabarito (C)
+39. Gabarito (A)
 
-Item. 39. Gabarito (A)
+40. Gabarito (A)
 
-Item. 40. Gabarito (A)
+41. Gabarito (A)
 
-Item. 41. Gabarito (A)
+42. Gabarito (E)
 
-Item. 42. Gabarito (E)
+43. Gabarito (E)
 
-Item. 43. Gabarito (E)
+44. Gabarito (E)
 
-Item. 44. Gabarito (E)
+45. Gabarito (E)
 
-Item. 45. Gabarito (E)
+46. Gabarito (E)
 
-Item. 46. Gabarito (E)
+47. Gabarito (C)
 
-Item. 47. Gabarito (C)
+48. Gabarito (C)
 
-Item. 48. Gabarito (C)
+49. Gabarito (A)
 
-Item. 49. Gabarito (A)
+50. Gabarito (B)
 
-Item. 50. Gabarito (B)
+51. Gabarito (D)
 
-Item. 51. Gabarito (D)
+52. Gabarito (C)
 
-Item. 52. Gabarito (C)
+53. Gabarito (C)
 
-Item. 53. Gabarito (C)
+54. Gabarito (D)
 
-Item. 54. Gabarito (D)
+55. Gabarito (E)
 
-Item. 55. Gabarito (E)
+56. Gabarito (D)
 
-Item. 56. Gabarito (D)
+57. Gabarito (E)
 
-Item. 57. Gabarito (E)
+58. Gabarito (C)
 
-Item. 58. Gabarito (C)
+59. Gabarito (D)
 
-Item. 59. Gabarito (D)
+60. Gabarito (C)
 
-Item. 60. Gabarito (C)
+61. Gabarito (E)
 
-Item. 61. Gabarito (E)
-
-Item. 62. Gabarito (E)
-
+62. Gabarito (E)
 

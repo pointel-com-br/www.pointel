@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Regência verbal e nominal. Emprego da crase.
-
+# Língua Portuguesa - Regência verbal e nominal. Emprego da crase.
 
 Índice
 
@@ -23,7 +22,6 @@ Capítulo. Língua Portuguesa - Regência verbal e nominal. Emprego da crase.
 10) Lista de Questões - Crase - Cebraspe(
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NOÇOES INICIAIS
 
@@ -90,7 +88,6 @@ João só fala em estudo.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 João só fala em mandarim.
 João só fala verdades.
 
@@ -147,7 +144,6 @@ algo. Esse
 r.e..t.a
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 REGÊNCIA VERBAL
 
@@ -206,7 +202,6 @@ Vejamos:
 1Eu luto por meus ideais + 2Meus ideais são inegociáveis.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Os ideais por que (ou "pelos quais") luto são inegociáveis.
 
@@ -277,7 +272,6 @@ intransitivo).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 HORA IX
 
 [(PRER RECÍFE7'2022)'"
@@ -347,7 +341,6 @@ I
 
 :
 
-
 t
 
 :Na redação original, foi utilizado o pronome relativo "as quais", que já tem um
@@ -370,7 +363,6 @@ Portanto, inserir o acento grave da crase prejudica a correção. Questão corre
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Principais Regências
 
 Aqui, veremos os verbos que admitem mais de uma possibilidade de regência e
@@ -379,7 +371,7 @@ Veremos também alguns que pedem preposições diferentes daquelas que
 geralmente são
 usadas no dia a dia. Vamos a eles.
 
-Item. 1. Agradar
+1. Agradar
 
 Dependendo do sentido, pode ser VTD ou VTI.
 
@@ -390,7 +382,7 @@ Pessoal, dependendo do contexto, esses sentidos podem ficar muito parecidos.
 Contudo, a
 banca cobra as duas regências. Fique atento, veremos nas questões.
 
-Item. 2. Aspirar
+2. Aspirar
 
 O verbo "aspirar" também tem dupla regência, cada uma com um sentido:
 
@@ -402,7 +394,6 @@ Ex: Não aspiro mais àquela glória. (VTI: "a"; desejar, almejar)
 
 HORA Dl
 rÍSTM^Analista-'2O18)
-
 
 : De resto, semelhantes cidadãos são idiotas. E de se supor que quem quer casar
 deseje que a sua
@@ -440,7 +431,6 @@ I
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Mantém-se a correção gramatical do primeiro período do texto ao se substituir
 "agradar os
 superiores" por "agradar aos superiores".
@@ -464,7 +454,7 @@ foi afetada a correção gramatical. A banca somente perguntou sobre a
 correção. Questão
 correta.
 
-Item. 3. Implicar
+3. Implicar
 
 O verbo "implicar", a depender do sentido, pode vir com a preposição "com",
 "em" ou até
@@ -478,7 +468,7 @@ associar)
 
 Ex.: Estudar implica sacrifícios. (VTD; gerar, resultar, acarretar, ter como efeito)
 
-Item. 4. Preferir
+4. Preferir
 
 O verbo preferir é muito fácil, só aceita a preposição "a" e tem a seguinte
 estrutura: Preferir uma
@@ -508,10 +498,9 @@ determinados por artigo. Ou seja, tem que haver artigo antes dos dois ou de nenh
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 que as estruturas fiquem paralelas, semelhantes, simétricas.
 
-Item. 5. Assistir
+5. Assistir
 
 Basicamente, o verbo assistir pode ser transitivo direto, com sentido de
 ajudar, ou transitivo
@@ -582,7 +571,6 @@ y/ dão + ele = dão-no
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 y/ põe + ele = põe-no
 
 ✓ põe + eles = põe-nos
@@ -641,7 +629,7 @@ perfeição, :
 
 : uma língua artificialmente construída. Questão incorreta.
 
-Item. 6. Responder
+6. Responder
 
 VTD (Falar, declarar como resposta)
 
@@ -651,7 +639,6 @@ Ex: Ele respondeu que não era culpado.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 VTI ou VTDI (dar resposta A algo/A alguém)
 
 Ex: Responderei a muitas dúvidas na aula de hoje.
@@ -659,7 +646,7 @@ Ex: Responderei a muitos alunos na aula de hoje
 
 Ex: Interrogado pelo juiz, respondi-lhe que não era culpado.
 
-Item. 7. Atender
+7. Atender
 
 (VTD ou VTI; acolher ou receber alguém com atenção, responder a alguém que se dirige
 a nós;
@@ -690,7 +677,7 @@ Ex: O novo método atende perfeitamente às exigências do moderno ensino.
 (VTI; atentar, prestar atenção a)
 Atenda bem ao [ou para o/que lhe digo.
 
-Item. 8. Chamar
+8. Chamar
 
 Ex.: Ele chamou os alunos ontem. (VTD; convocar, convidar)
 Ex.: Energia negativa só chama pessoas tristes. (VTD: atrair)
@@ -718,7 +705,6 @@ vai ter uma qualificação, um predicativo:
 Ex.: Acusou o filho de corrupto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex.: Eles nos supunham incapazes.
 
@@ -755,7 +741,6 @@ F(MP-CE'7CARGOS DE 'NÍVEL SUPERIOR 72020)
 í
 
 (
-
 
 *
 
@@ -794,7 +779,6 @@ preposição "a".:
 portanto, não há prejuízo na substituição. Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 j(PC-SE-Delegado - 2018)
 j
@@ -859,7 +843,7 @@ pó! Assim sendo, sabemos que o pronome oblíquo "o" faz o papel de objeto diret
 
 :não poderia ser substituído por "lhe", gue só pode ser objeto indireto. Questão incorreta.
 
-Item. 9. Chegar
+9. Chegar
 
 Ex.: O Natal chegou cedo! (VI)
 
@@ -881,14 +865,13 @@ Saliento que o verbo chegar deve utilizar a preposição "a", não "em".
 Embora soe comum na
 coloquialidade, estaria errada a expressão "chegou em Brasília".
 
-Item. 10. Caber
+10. Caber
 
 O verbo caber pede preposição "a", no sentido de que algo deve ser feito
 por alguém.
 Geralmente traz um sujeito oracional, representando uma ação.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex.: Cabe a nós aproveitar nosso tempo. (VTI: "a"; competir, ser de direito)
 O verbo cabertambém pode ser intransitivo.
@@ -916,7 +899,7 @@ conhecimento de; ser sabido; ter ciência; geralmente traz sujeito oracional:
 aquilo que
 consta tem formato de uma oração)
 
-Item. 12. Referir-se
+12. Referir-se
 
 Esse verbo é pronominal e tem preposição "a". A banca gosta de sugerir a
 troca por um
@@ -930,12 +913,12 @@ que não pede.
 
 Ex.: Mencionei a questão/Aludi à questão, (há preposição, por isso há crase)
 
-Item. 13. Contribuir
+13. Contribuir
 
 Ex.: Não vou mais contribuir para a Igreja. (VTI: "para"; ajudar; doar)
 Ex.: Não vou mais contribuir com dinheiro. (VTI: "com"; ajudar, doar)
 
-Item. 14. Obedecer e Desobedecer
+14. Obedecer e Desobedecer
 
 (VTI: "a"; (não) seguir ordens, acatar; VTI especial, que aceita voz passiva)
 Ex: O brasileiro obedece a leis absurdas.
@@ -958,8 +941,7 @@ Os funcionários foram pagos/perdoados pelo patrão.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 15. Lembrar e esquecer
+15. Lembrar e esquecer
 MUITA ATENÇÃO AQUI!!
 
 Esses verbos podem ser usados como pronominais, ou seja, com um pronome
@@ -1027,7 +1009,6 @@ substituísse o trecho:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 O verbo lembrar é VTD. Se estiver sendo usado em sua forma pronominal (lembrar-se),
@@ -1036,7 +1017,7 @@ ser VTI. Saiu o pronome, sai a preposição também: ou escrevemos ambos, ou nen
 Questão
 correta.
 
-Item. 16. Proceder
+16. Proceder
 
 Ex.: Suas alegações não procedem. (VI; ter cabimento, ter fundamento)
 Ex.: Você procedeu bem nessa situação. (VI; agir; se comportar)
@@ -1054,7 +1035,7 @@ Ex.: Simpatizo com ela, antipatizo com o pai. (VTI: "com"; gostar; ter afinidade
 aceita
 pronome "se", não é pronominal).
 
-Item. 18. Visar
+18. Visar
 
 Geralmente tem sentido de objetivo, finalidade; porém, pode significar assinatura ou mira.
 
@@ -1099,7 +1080,6 @@ gramatical, o;
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 jComentários:
 
 t
@@ -1114,7 +1094,7 @@ Pela redação do texto, a banca sugere que o uso sem preposição é correto
 e não altera o
 isentido, essa visão é confirmada por outras questões. Questão correta.
 
-Item. 19. Precisar
+19. Precisar
 
 Pode ter sentido de necessidade ou de precisão, exatidão.
 
@@ -1124,7 +1104,7 @@ Ex.: Acertei 8 ou 9 questões, não sei precisar quantas nem quais. (VTD;
 indicar com
 precisão; especificar, quantificar, detalhar)
 
-Item. 20. Informar
+20. Informar
 
 Informar é um típico verbo bitransitivo: pede um objeto direto e um indireto.
 
@@ -1141,7 +1121,7 @@ Esses verbos admitem as preposições a/de/sobre. Os complementos devem ser
 diferentes, um
 OD e um OI, não pode haver dois do mesmo tipo.
 
-Item. 21. Perguntar
+21. Perguntar
 
 Perguntar é também verbo bitransitivo: pede um objeto direto e um indireto.
 Esses objetos
@@ -1166,7 +1146,6 @@ você precisa
 iperguntar, nunca saberá"
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 iSeriam mantidos o sentido e a correção gramatical do texto caso fosse introduzida a
 preposição:
@@ -1226,7 +1205,6 @@ precisariam ser de tipos diferentes, um direto e outro indireto.
 
 t
 
-
 :
 
 :Tal regra vale também para os verbos semelhantes, como notificar, avisar,
@@ -1234,7 +1212,7 @@ certificar, cientificar,]
 
 \proibir, permitir, prevenir, aconselhar. Questão incorreta.
 
-Item. 22. Servir
+22. Servir
 
 Ex.: Servidores públicos ganham para servir. (VI; prestar um serviço)
 
@@ -1247,12 +1225,10 @@ Ex.: A pobreza não lhe pode servir de desculpa. (VTI; ter a função de)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 HORA IX
 
 È (Diplomata - 2014)
 È
-
 
 *
 
@@ -1311,7 +1287,7 @@ apenas para a vida (à :
 
 : vida—OI)...". Questão incorreta.
 
-Item. 23. Concernir
+23. Concernir
 
 Ex.: Seu argumento não concerne ao tema (VTI "a"; ter relação com, dizer
 respeito a;
@@ -1321,12 +1297,12 @@ Ex.: No que concerne ao seu estudo, você agiu bem! (VTI "a"; ter relação
 com, dizer
 respeito a; quanto a)
 
-Item. 24. Querer
+24. Querer
 
 Ex.: Toda mãe quer bem aos filhos. (VTI "a"; amar, estimar, querer bem a)
 Ex.: Quero tudo o que mereço e mais. (VTD; desejar, almejar posse)
 
-Item. 25. Prescindir
+25. Prescindir
 
 Ex.: A vida dos ricos não prescinde de trabalho (VTI "de"; passar sem, pôr de parte
 (algo);
@@ -1338,9 +1314,7 @@ preSCindir.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 REGÊNCIA NoMINAL
 
@@ -1412,7 +1386,6 @@ conforme a, com; consciente de; cônscio de; constante de, em; constituído com,
 contemporâneo a, de; contente com, de, por, em; contíguo a; contraditório com;
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 contrário a; convênio entre; cruel com, para, para com; cuidadoso com;
 cúmplice em;
@@ -1496,7 +1469,6 @@ jeito de, para; jeitoso para; jogo com, contra, entre; jubilado em; juízo sobre
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 de, sobre; junto a, de; juramento a, de; justificativa de, para
 
 L
@@ -1572,7 +1544,6 @@ solidário com; solto de; sujo de; superior a; surdo a, de; suspeito a, de
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 T
 
 tachado de; talentoso em, para; tardo a, em; tarjado de; tédio a, de, por; temente
@@ -1643,7 +1614,6 @@ aparece normalmente antes
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 : (TCE PE / ASSISTENTE TÉCNICO)
 
 A aceitação do principio de que os direitos individuais não podem ser suspensos
@@ -1683,9 +1653,7 @@ admite a supressão da
 
 L
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CRASE
 
@@ -1758,9 +1726,7 @@ Ex.: Na praça sempre havia crianças. Após o atentado, as crianças não ficam
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Equipe Português Estratégia Concursos,
-
 
 Observe que na primeira ocorrência, "crianças" não tem artigo, pois é
 genérico. Na segunda ocorrência,
@@ -1822,7 +1788,6 @@ A supressão do acento grave prejudicaria a correção. Questão incorreta.
 0 0 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 wiviv. estrategiaconcursos. com. br
 
-
 No trecho "em uma época anterior à dos dinossauros", o emprego do sinal indicativo de
 crase decorre da ;
 
@@ -1831,7 +1796,6 @@ crase decorre da ;
 : Comentários:
 
 I
-
 
 I
 
@@ -1898,7 +1862,6 @@ Ex.: A menina gostava de ficar à toa. (locução adjetiva)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex.: Estude para não ficar à espera de um milagre, (locução prepositiva)
 Ex.: Seu humor melhorava à medida que lia. (locução conjuntiva)
 
@@ -1958,7 +1921,6 @@ Ex.: As opções são bife a cavalo e frango a passarinho. (Cavalo e frango não
 moda. Não há
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 crase.)
 
@@ -2024,13 +1986,11 @@ relacionada à disciplina (relacionada A+A disciplina) Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 l«** IX
 
 í (SEFAZ-RS-Auditor Fiscal - 2019)
 
 I
-
 
 I
 
@@ -2096,7 +2056,6 @@ Conceitos rígidos dão lugar à análise de cenários alternativos (dão lugar 
 Conceitos rígidos dão lugar à inclusão da sociedade... (dão lugar "a"+ "a") Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ; (ABIN-Agente de Inteligência - 2018)
 
@@ -2183,15 +2142,12 @@ coisa, em algumas
 
 li ..
 
-
 ..
 ..
-
 
 Crase Proibida
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Para haver crase, temos duas condições simultâneas. Se não houver preposição "a" ou
 não houver artigo
@@ -2265,7 +2221,6 @@ a banca usa quando cobra esse ponto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Cuidado: o fato de haver essa possibilidade não significa que toda e
 qualquer crase diante de palavra
 feminina no singular vai ser "dispensável", a possibilidade de usar substantivo
@@ -2324,7 +2279,6 @@ I«** IX
 No texto a seguir há dois casos de acento grave indicativo da crase:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "Pedimos desculpas às esposas americanas. ABC apresenta o futebol das segundas-feiras à noite."
 Assinale a opção que indica a frase em que o acento está empregado corretamente.
@@ -2391,7 +2345,6 @@ dispor custa muito caro
 ao meio ambiente.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -2467,7 +2420,6 @@ i Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Não há crase antes de verbo (receber). Questão incorreta.
 
 (CGM - JOÃO PESSOA / 2018)
@@ -2506,7 +2458,6 @@ Comentários:
 
 Não é possível haver crase antes da palavra masculina "respeito". Questão incorreta.
 
-
 Antes de
 Masculino,
 verbo, "uma" e
@@ -2537,7 +2488,6 @@ substantivo feminino, a crase é facultativa, porque o artigo é facultativo.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex.: Levei flores à/a sua mãe.
 
 Ex.: Cedi todos os meus direitos à/a sua filha.
@@ -2563,10 +2513,9 @@ Ex.: Até a bruxa do 71 tinha sentimentos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - REGÊNCIA VERBAL - CEBRASPE
 
-Item. 1. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DE ALAGOAS / 2020)
+1. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DE ALAGOAS / 2020)
 
 Tem meia dúzia de atendentes, conheço dois ou três
 
@@ -2575,7 +2524,6 @@ que gosto do seu negócio, que, se me mudasse de novo para lá,
 seria seu freguês. Mas também sei que me vê como um tipo que
 
 16 há vinte anos vive na capital, que a essa altura é mais
-
 
 1 É uma loja grande e escura no centro da cidade, uma
 quadra distante da estação de trem. Quando visito a família,
@@ -2622,11 +2570,11 @@ Comentários:
 
 O verbo ENTENDER apresenta três regências distintas, que alteram, inclusive, seu sentido:
 
-Item. 1. Transitivo direto: significa "compreender, captar":
+1. Transitivo direto: significa "compreender, captar":
 
-Item. 2. Transitivo indireto: indica "conhecer, estar a par".
+2. Transitivo indireto: indica "conhecer, estar a par".
 
-Item. 3. Transitivo direto e indireto: "comunicar-se, concordar com".
+3. Transitivo direto e indireto: "comunicar-se, concordar com".
 
 Desta forma, ao mudarmos sua regência, de transitivo indireto para transitivo
 direto (uma vez que
@@ -2634,7 +2582,7 @@ o pronome QUE não vem antecedido de preposição), alteraríamos o seu
 significado. Questão
 incorreta.
 
-Item. 2. (CEBRASPE / SEFAZ-DF / AUDITOR FISCAL / 2020)
+2. (CEBRASPE / SEFAZ-DF / AUDITOR FISCAL / 2020)
 
 Dada a regência do verbo tender, é facultativo o emprego do sinal
 indicativo de crase no
@@ -2646,10 +2594,9 @@ Considerando o termo a que se liga a expressão "tendem a", o
 emprego do acento grave
 indicativo da crase seria inadequado em termos de correção gramatical. Questão incorreta.
 
-Item. 3. (CEBRASPE / TRIBUNAL DE JUSTIÇA DE AMAZONAS / 2019)
+3. (CEBRASPE / TRIBUNAL DE JUSTIÇA DE AMAZONAS / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 M Na primeira onda renovatória, buscou-se superar as
 barreiras econômicas do acesso à justiça. No Brasil, as medidas
@@ -2676,7 +2623,7 @@ Fronteira; Lucerna, 2009, p. 512).
 
 Questão correta.
 
-Item. 4. (CEBRASPE / PGE-PE / Ana. Judiciário de Procuradoria / 2019)
+4. (CEBRASPE / PGE-PE / Ana. Judiciário de Procuradoria / 2019)
 
 Como período e como crise, a época atual mostra-se, aliás, como coisa nova. Como período, as
 suas variáveis características instalam-se em toda parte e a tudo influenciam,
@@ -2696,7 +2643,7 @@ Absolutamente sem relação. Infligir é "impor" ou "fazer incidir": infligir da
 relação
 com a redação original. Questão incorreta.
 
-Item. 5. (CEBRASPE/MPU/ANALISTA/2018)
+5. (CEBRASPE/MPU/ANALISTA/2018)
 
 As medidas previstas visam garantir o gozo dos direitos humanos e das liberdades fundamentais
 das mulheres, em igualdade de condições com os homens, além de buscar alterar os padrões
@@ -2708,7 +2655,6 @@ Seria gramaticalmente correta a substituição de "das mulheres" (I.2) por às m
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 Ao usar a forma com crase, "às mulheres" passa a ser complemento de "garantir": garantir Algo
@@ -2717,7 +2663,7 @@ A alguém
 As medidas previstas visam garantir o gozo dos direitos humanos e das liberdades fundamentais
 às mulheres. Questão correta.
 
-Item. 6. (CEBRASPE / SEDUC-AL - 2018)
+6. (CEBRASPE / SEDUC-AL - 2018)
 
 Os professores fazem cursos, acumulam certificados, sem que isso corresponda a mudança ou
 responda aos desafios que encaram na sala de aula.
@@ -2733,7 +2679,7 @@ resposta a algo. Além disso, compartilham a mesma regência, pois pedem a prepo
 "a".
 Portanto, não há prejuízo na substituição. Questão correta.
 
-Item. 7. (CEBRASPE / PC-SE-Delegado - 2018)
+7. (CEBRASPE / PC-SE-Delegado - 2018)
 
 O Departamento de Atendimento a Grupos Vulneráveis (DAGV) da Polícia Civil de Sergipe
 atende a um público específico, que frequentemente se torna vítima de diversos tipos de
@@ -2748,7 +2694,7 @@ Comentários:
 O verbo "atender" pode ser usado com transitivo direto ou indireto, então a preposição poderia
 ser suprimida, sem prejuízo. Questão correta.
 
-Item. 8. (CEBRASPE / STM /ANALISTA/ 2018)
+8. (CEBRASPE / STM /ANALISTA/ 2018)
 
 Lançado, desde a infância, no torvelinho da sociedade, aprendi cedo, por experiência, que não
 era feito para viver nela, onde nunca conseguiria chegar ao estado de que meu coração
@@ -2767,10 +2713,9 @@ antes do "que" pronome relativo. Preciso do estado > o estado de que preciso...
 Questão
 correta.
 
-Item. 9. (CEBRASPE / STM-Analista - 2018)
+9. (CEBRASPE / STM-Analista - 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 De resto, semelhantes cidadãos são idiotas. É de se supor que quem quer casar deseje que a sua
 futura mulher venha para o tálamo conjugal com a máxima liberdade...
@@ -2785,7 +2730,7 @@ perfeita. A propósito, "aspirar" também pode ser usado como transitivo direto,
 sentido de
 "sorver, sugar o ar": O aspirador aspira a poeira. Questão correta.
 
-Item. 10. (CEBRASPE / STM-Analista Judiciário - 2018)
+10. (CEBRASPE / STM-Analista Judiciário - 2018)
 
 A humanidade não aceitará uma língua não natural para a comunicação natural. Isso é contra a
 tendência dos seus instintos Preferirá falar, gaguejando, uma língua estranha, mas natural, do
@@ -2808,7 +2753,7 @@ A redação adequada seria:
 Preferirá falar, gaguejando, uma língua estranha, mas natural, A falar, com relutante perfeição,
 uma língua artificialmente construída. Questão incorreta.
 
-Item. 11. (CEBRASPE /SEDF- 2017)
+11. (CEBRASPE /SEDF- 2017)
 
 Quando nos perguntamos o que é a consciência, não temos melhor resposta que a de
 Louis
@@ -2828,12 +2773,11 @@ verbo
 "perguntar". Se já tínhamos o "lhe" na função de objeto indireto, não manteria a correção inserir
 outra preposição (sobre). Questão incorreta.
 
-Item. 12. (CEBRASPE/SEDF-2017)
+12. (CEBRASPE/SEDF-2017)
 
 Considerando-se as regências do verbo esquecer prescritas para o português, estaria correta a
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 seguinte reescrita para a oração "Já esqueci a língua": Já esqueci da língua.
 Comentários:
@@ -2851,7 +2795,7 @@ possibilidades:
 A sugestão da banca está errada, pois usou o verbo como pronominal, sem utilizar paralelamente
 a preposição. Questão incorreta.
 
-Item. 13. (CEBRASPE / DPE-RS / 2022)
+13. (CEBRASPE / DPE-RS / 2022)
 
 Um registro de mutações ligadas ao mundo eletrônico se refere ao que chamo de a ordem
 das propriedades, tanto em um sentido jurídico — o que fundamenta a propriedade literária e o
@@ -2882,7 +2826,7 @@ estudar regência, nem haveria manuais de regência, ok?
 
 Questão incorreta.
 
-Item. 14. (CEBRASPE / DPE-RS / 2022)
+14. (CEBRASPE / DPE-RS / 2022)
 
 A discriminação racial, por sua vez, é a atribuição de tratamento diferenciado a membros
 de grupos racialmente identificados. Portanto, a discriminação tem como requisito fundamental o
@@ -2891,7 +2835,6 @@ vantagens ou desvantagens por conta da raça. Assim, a discriminação pode ser 
 A discriminação direta é o repúdio ostensivo a indivíduos ou grupos, motivado pela condição
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 racial, exemplo do que ocorre em países que proíbem a entrada de negros, judeus, muçulmanos,
 pessoas de origem árabe ou persa, ou ainda lojas que se recusam a atender clientes de
@@ -2918,7 +2861,7 @@ obrigatória.
 
 Questão correta.
 
-Item. 15. (CEBRASPE / MJSP / 2022)
+15. (CEBRASPE / MJSP / 2022)
 
 ...A seu pedido, amigos nos convidaram para comer o prato mais típico do Nordeste: a feijoada.
 
@@ -2934,10 +2877,9 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - REGÊNCIA NoMINAL - CEBRASPE
 
-Item. 1. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
+1. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
 
 i De tanto pegadio com o neto, até nos menores
 quefazeres fora de hora meu avô me queria com a cara metida
@@ -2970,7 +2912,7 @@ Comentários:
 O que é necessário é necessário A algo ou alguém (necessários a + o bom andamento = ao bom
 andamento). Questão correta.
 
-Item. 2. (CEBRASPE/MPU/ANALISTA/2018)
+2. (CEBRASPE/MPU/ANALISTA/2018)
 
 A necessidade de uma teoria da justiça está relacionada com a disciplina de argumentar
 racionalmente sobre um assunto.
@@ -2988,14 +2930,13 @@ necessidade do acento grave, como a banca propôs:
 
 relacionada à disciplina (relacionada A+A disciplina) Questão incorreta.
 
-Item. 3. (CEBRASPE / SEDUC-AL / PROFESSOR DE PORTUGUÊS / 2018)
+3. (CEBRASPE / SEDUC-AL / PROFESSOR DE PORTUGUÊS / 2018)
 
 Aumentou assim o meu entusiasmo peias possibilidades expressivas da língua, sua relação com
 os recursos linguísticos e seu funcionamento em textos resultantes de sujeitos, de ideologias, de
 atividades e esferas de ação do ser humano concretizando modos/formas e objetivos de ação em
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 tipos de gêneros e espécies de textos.
 
@@ -3007,7 +2948,7 @@ Comentários:
 Questão direta de regência nominal: entusiasmo "por" algo ou "com" algo são igualmente
 corretas. Questão correta.
 
-Item. 4. (CEBRASPE / PF-Escrivão - 2018)
+4. (CEBRASPE / PF-Escrivão - 2018)
 
 A supressão da preposição "de" empregada logo após "ferocidade", no trecho "acostumando
 os espectadores a uma ferocidade de que todos queriam vê-los afastados", manteria a correção
@@ -3023,7 +2964,7 @@ aparece normalmente antes desse pronome:
 
 a uma ferocidade de que todos queriam vê-los afastados. Questão incorreta.
 
-Item. 5. (CEBRASPE / MPE-PI / CARGOS DE NÍVEL MÉDIO / 2018)
+5. (CEBRASPE / MPE-PI / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Observou-se, ao longo da história, não uma condenação, mas uma espécie de cortina de silêncio
 iniciada com Platão, cujo veto ao riso atingiu indiretamente o legado de Demócrito (nascido em
@@ -3054,14 +2995,13 @@ Então, por mais estranho que possa parecer à linguagem cotidiana, seria igualm
 correto
 grafar: Chamado "o filósofo que ri". Questão correta.
 
-Item. 6. (CEBRASPE /UNB/TRE TO/ 2017)
+6. (CEBRASPE /UNB/TRE TO/ 2017)
 
 No trecho "em uma época anterior à dos dinossauros", o emprego do sinal indicativo de crase
 decorre da regência do adjetivo "anterior" e presença do artigo feminino antes do termo elíptico
 "época ".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -3070,10 +3010,9 @@ considerado artigo diante de substantivo elíptico.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - CRASE - CEBRASPE
 
-Item. 1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 O emprego do sinal indicativo de crase no trecho "O estudo mostrou que a amígdala não
 responde à questão racial em crianças..." é obrigatório, dados o caráter definido do
@@ -3088,7 +3027,7 @@ transitivo indireto e pede preposição "a". Então, temos a fusão de "responde
 questão
 racial", preposição mais artigo. Questão correta.
 
-Item. 2. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+2. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 o aparecimento da rede mundial de computadores pôs fim — no que diz respeito à informação
 
@@ -3105,7 +3044,7 @@ viagem".
 
 A supressão do acento grave prejudicaria a correção. Questão incorreta.
 
-Item. 3. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
+3. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
 
 1 O professor que realmente ensina, quer dizer, que
 trabalha os conteúdos no quadro da rigorosidade do pensar
@@ -3147,13 +3086,12 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 O sinal indicativo de crase em "às vezes" é OBRIGATÓRIO, pois trata-se de uma locução
 adverbial feminina. A crase nessa expressão também serve como um acento diferencial (às vezes
 
 = de vez em quando / as vezes = as ocasiões). Questão incorreta.
 
-Item. 4. (CEBRASPE / PRF / POLICIAL/ 2019)
+4. (CEBRASPE / PRF / POLICIAL/ 2019)
 
 Dispor de tanta luz assim, porém, tem um custo ambiental muito alto, avisam os cientistas.
 
@@ -3166,7 +3104,7 @@ Comentários:
 
 Não há crase antes de palavra masculina: a nosso dispor... Questão incorreta.
 
-Item. 5. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
+5. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
 
 Tenho ótimas recordações de lá e uma foto da qual gosto muito, da minha infância, às
 gargalhadas, vestindo um macacão que minha própria mãe costurava, com bastante capricho,
@@ -3182,7 +3120,7 @@ acento grave sair, fica apenas "as gargalhadas", então o "as" será apenas arti
 valor
 adverbial se perderá, alterando o sentido. Questão incorreta.
 
-Item. 6. (CEBRASPE / TRIBUNAL DE JUSTIÇA DE AMAZONAS / 2019)
+6. (CEBRASPE / TRIBUNAL DE JUSTIÇA DE AMAZONAS / 2019)
 
 i O maior desafio do Poder Judiciário no Brasil é
 tomar-se cada vez mais acessível às pessoas, até mesmo
@@ -3212,8 +3150,7 @@ a presença de um artigo feminino {acessível a + quem = acessível a quem). Que
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 7. (CEBRASPE / PREFEITURA MUNICIPAL DE BOA VISTA (RR) / 2019)
+7. (CEBRASPE / PREFEITURA MUNICIPAL DE BOA VISTA (RR) / 2019)
 
 1 A cultura brasileira sempre se viu como uma cultura
 da mistura. Louva-se a tendência brasileira à assimilação do
@@ -3253,7 +3190,7 @@ O uso do acento é obrigatório. A palavra "vinculada" rege a preposição "a" (
 A + A
 mistura = vinculada à mistura). Questão incorreta.
 
-Item. 8. (CEBRASPE / SEFAZ-RS-Auditor Fiscal - 2019)
+8. (CEBRASPE / SEFAZ-RS-Auditor Fiscal - 2019)
 
 A tributação, portanto, somente pode ser compreendida a partir da necessidade dos indivíduos
 de estabelecer convívio social organizado e de gerir a coisa pública mediante a
@@ -3283,13 +3220,12 @@ Comparável A + A usurpação= Comparável À usurpação
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comparável A + O roubo= Comparável AO roubo
 
 Portanto, não seria possível usar crase no primeiro substantivo sem usar o artigo no segundo.
 Questão incorreta.
 
-Item. 9. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+9. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Para fazer frente a essas transformações, é necessário um novo tipo de planejamento urbano.
 Conceitos rígidos dão lugar à flexibilidade, à análise de cenários alternativos e à
@@ -3314,7 +3250,7 @@ Conceitos rígidos dão lugar à análise de cenários alternativos (dão lugar 
 
 Conceitos rígidos dão lugar à inclusão da sociedade... (dão lugar "a"+ "a") Questão correta.
 
-Item. 10. (CEBRASPE / ABIN-Agente de Inteligência - 2018)
+10. (CEBRASPE / ABIN-Agente de Inteligência - 2018)
 
 Se praticada por autoridade superior, a espionagem pode configurar, além de infração
 penal,
@@ -3341,7 +3277,7 @@ estruturas, pois teríamos um termo com preposição e artigo e outro não.
 
 Questão correta.
 
-Item. 11. (CEBRASPE / STJ / CONHECIMENTOS BÁSICOS / 2018)
+11. (CEBRASPE / STJ / CONHECIMENTOS BÁSICOS / 2018)
 
 ... e tem hipóteses concretas para se chegar a esse estado de coisas.
 
@@ -3350,13 +3286,12 @@ vocábulo "a" em "a esse estado de coisas".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 "Estado" é palavra masculina, nunca poderia trazer um artigo feminino relacionado a ela. Se não
 pode haver artigo, não há como haver crase na fusão. Questão incorreta.
 
-Item. 12. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
+12. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
 
 Seu diferencial era não só buscar pela assinatura digital ou nomes conhecidos, mas também por
 novos arquivos por intermédio da leitura dos pixels presentes na imagem calibrados a uma paleta
@@ -3370,7 +3305,7 @@ Comentários:
 
 Não cabe crase antes de artigo feminino "uma". Questão incorreta.
 
-Item. 13. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+13. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 À primeira vista, é difícil compreender como podemos ter consciência da evidência do
 nosso
@@ -3385,7 +3320,7 @@ Comentários:
 Veja que não há que se perder tempo com essa questão. Bastava observar que não há crase
 antes de "um", pois "olhar" é substantivo masculino. Isso já anula o item. Questão incorreta.
 
-Item. 14. (CEBRASPE / IHBDF/CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
+14. (CEBRASPE / IHBDF/CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
 
 A vida de Florence Nightingale, a criadora da moderna enfermagem, daria um romance. Florence
 estava destinada a receber uma boa educação, a casar-se com um cavalheiro de fina estirpe, a ter
@@ -3398,7 +3333,7 @@ Comentários:
 
 Não há crase antes de verbo (receber). Questão incorreta.
 
-Item. 15. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
+15. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
 
 No trecho "Diga não às 'corrupções' do dia a dia", seria correto o emprego do sinal indicativo de
 crase no vocábulo "a" em "dia a dia".
@@ -3409,13 +3344,12 @@ Não há crase entre palavras repetidas de uma locução. Melhor que gravar isso
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 há crase na fusão de A+A, havendo um único A, só temos metade das condições, então não há
 crase.
 
 Questão incorreta.
 
-Item. 16. (CEBRASPE / EBSERH / CARGOS DE NÍVEL MÉDIO / 2018)
+16. (CEBRASPE / EBSERH / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Os itens a seguir apresentam propostas de reescrita do trecho "Contudo — Florence era
 Florence —, mesmo acamada, continuou trabalhando intensamente. Colaborou com a comissão
@@ -3432,7 +3366,7 @@ Comentários:
 
 Não é possível haver crase antes da palavra masculina "respeito". Questão incorreta.
 
-Item. 17. (CEBRASPE / IFF / CARGOS DE NÍVEL MÉDIO / 2018)
+17. (CEBRASPE / IFF / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Cada uma das opções a seguir apresenta uma proposta de reescrita do trecho "devido à
 sua
@@ -3473,10 +3407,9 @@ Nas demais opções, observe que não há paralelismo entre os itens, falta semp
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 em algumas falta artigo, em outras falta preposição ou ambos. Gabarito letra A.
 
-Item. 18. (CEBRASPE / PF-Agente da Polícia Federal - 2018)
+18. (CEBRASPE / PF-Agente da Polícia Federal - 2018)
 
 — A polícia parisiense — disse ele — é extremamente hábii à sua maneira. Seus agentes são
 perseverantes, engenhosos, astutos e perfeitamente versados nos conhecimentos que seus
@@ -3492,7 +3425,7 @@ facultativa, então haveria duas formas possíveis: À sua maneira ou A sua mane
 Questão
 correta.
 
-Item. 19. (CEBRASPE / MP-PI / TÉCNICO MINISTERIAL / 2018)
+19. (CEBRASPE / MP-PI / TÉCNICO MINISTERIAL / 2018)
 
 Sou forçado, pois, a iimitar-me aos elementos de que disponho, encerrando em desventuras as
 aventuras de Viramundo em Ouro Preto, e dando viço às suas peregrinações.
@@ -3537,10 +3470,9 @@ acento assim, "a seco", sem adaptações. O artigo teria que sair junto. Entende
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 questão faz o candidato preparado deixar milhares para trás. Questão correta.
 
-Item. 20. (CEBRASPE / STM / TÉCNICO / 2018)
+20. (CEBRASPE / STM / TÉCNICO / 2018)
 
 Um zoológico serve para muitas coisas, algumas deias edificantes.
 
@@ -3556,7 +3488,7 @@ singular, antes de uma palavra no plural. Isso não é possível. Se a palavra e
 convém a
 muitas coisas. Questão incorreta.
 
-Item. 21. (CEBRASPE / TCE-PB / AUDITOR / 2018) ADAPTADA
+21. (CEBRASPE / TCE-PB / AUDITOR / 2018) ADAPTADA
 
 "Quando se trata de enfrentar a desigualdade, não há saída fácil ou receita de bolo"
 
@@ -3572,7 +3504,7 @@ pede preposição, então não temos uma dessas metades e aí não ocorre crase.
 
 Há também um erro de concordância: não existirão instruções precisas... Questão incorreta.
 
-Item. 22. (CEBRASPE / EBSERH / CARGOS DE NÍVEL MÉDIO / 2018)
+22. (CEBRASPE / EBSERH / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Durante o período do Estado Novo (1937-1945), no governo de Getúlio Vargas, foram adotados
 dispositivos legais para fortalecer a família numerosa, por meio de diversas medidas: desestimulo
@@ -3598,8 +3530,7 @@ Incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 23. (CEBRASPE / BNB - 2018)
+23. (CEBRASPE / BNB - 2018)
 
 Sendo assim, precisamos aumentar ao máximo o balanço de situações apresentadas à máquina
 para não pesar um lado mais do que o outro ", detalha.
@@ -3614,7 +3545,7 @@ Não é facultativo, temos fusão de preposição exigida por "apresentadas" com
 diante de
 "máquina": situações apresentadas A + A máquina. Temos crase obrigatória. Questão incorreta.
 
-Item. 24. (CEBRASPE / MP-PI / ANALISTA MINISTERIAL / 2018)
+24. (CEBRASPE / MP-PI / ANALISTA MINISTERIAL / 2018)
 
 O alferes eliminou o homem. Durante alguns dias as duas naturezas equilibraram-se; mas não
 tardou que a primitiva cedesse à outra; ficou-me uma parte mínima de humanidade.
@@ -3632,7 +3563,7 @@ antes de cada uma das unidades, vai haver crase: cedesse A + A outra (a outra na
 
 Portanto, temos crase obrigatória. Questão incorreta.
 
-Item. 25. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
+25. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
 
 Se praticada por autoridade superior, a espionagem pode configurar, além de infração
 penal,
@@ -3667,7 +3598,6 @@ com preposição + artigo apenas diante do primeiro termo:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: "Todo brasileiro tem direito à saúde, educação e segurança."
 Veja a fundamentação no corpo da gramática:
 
@@ -3682,10 +3612,9 @@ Como no texto, temos preposição e artigo só no primeiro item da lista. Quest�
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - REGÊNCIA VERBAL - CEBRASPE
 
-Item. 1. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DE ALAGOAS / 2020)
+1. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DE ALAGOAS / 2020)
 
 Tem meia dúzia de atendentes, conheço dois ou três
 
@@ -3694,7 +3623,6 @@ que gosto do seu negócio, que, se me mudasse de novo para lá,
 seria seu freguês. Mas também sei que me vê como um tipo que
 
 16 há vinte anos vive na capital, que a essa altura é mais
-
 
 1 É uma loja grande e escura no centro da cidade, uma
 quadra distante da estação de trem. Quando visito a família,
@@ -3737,13 +3665,13 @@ A substituição da expressão "das quais" (linhal9) por que preservaria tanto o
 quanto a
 correção gramatical do período.
 
-Item. 2. (CEBRASPE / SEFAZ-DF / AUDITOR FISCAL / 2020)
+2. (CEBRASPE / SEFAZ-DF / AUDITOR FISCAL / 2020)
 
 Dada a regência do verbo tender, é facultativo o emprego do sinal indicativo de crase
 no
 vocábulo "a" em "tendem a ser menos efetivas".
 
-Item. 3. (CEBRASPE / TRIBUNAL DE JUSTIÇA DE AMAZONAS / 2019)
+3. (CEBRASPE / TRIBUNAL DE JUSTIÇA DE AMAZONAS / 2019)
 
 i3 Na primeira onda renovatória, buscou-se superar as
 barreiras econômicas do acesso à justiça. No Brasil, as medidas
@@ -3762,8 +3690,7 @@ após "atende" (Linha.19) — atende a.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 4. (CEBRASPE / PGE-PE / Ana. Judiciário de Procuradoria / 2019)
+4. (CEBRASPE / PGE-PE / Ana. Judiciário de Procuradoria / 2019)
 
 Como período e como crise, a época atual mostra-se, aliás, como coisa nova. Como período, as
 suas variáveis características instalam-se em toda parte e a tudo influenciam,
@@ -3777,7 +3704,7 @@ Mantendo-se os sentidos e a correção gramatical do texto, o trecho "exigindo n
 novos arranjos" poderia ser reescrito da seguinte forma: às novas definições e aos novos arranjos
 infligindo-se.
 
-Item. 5. (CEBRASPE/MPU/ANALISTA/2018)
+5. (CEBRASPE/MPU/ANALISTA/2018)
 
 As medidas previstas visam garantir o gozo dos direitos humanos e das liberdades fundamentais
 das mulheres, em igualdade de condições com os homens, além de buscar alterar os padrões
@@ -3787,7 +3714,7 @@ prostituição feminina.
 
 Seria gramaticalmente correta a substituição de "das mulheres" (I.2) por às mulheres.
 
-Item. 6. (CEBRASPE/SEDUC-AL-2018)
+6. (CEBRASPE/SEDUC-AL-2018)
 
 Os professores fazem cursos, acumulam certificados, sem que isso corresponda a mudança ou
 responda aos desafios que encaram na sala de aula.
@@ -3795,7 +3722,7 @@ responda aos desafios que encaram na sala de aula.
 Sem prejuízo das informações veiculadas no texto, a forma verbal "responda" poderia ser
 substituída por atenda.
 
-Item. 7. (CEBRASPE / PC-SE-Delegado - 2018)
+7. (CEBRASPE / PC-SE-Delegado - 2018)
 
 O Departamento de Atendimento a Grupos Vulneráveis (DAGV) da Polícia Civil de Sergipe
 atende a um público específico, que frequentemente se torna vítima de diversos tipos de
@@ -3805,7 +3732,7 @@ A correção gramatical e o sentido do texto seriam preservados se, no trecho "a
 público
 específico" (L 2), a preposição "a" fosse suprimida.
 
-Item. 8. (CEBRASPE / STM /ANALISTA/ 2018)
+8. (CEBRASPE / STM /ANALISTA/ 2018)
 
 Lançado, desde a infância, no torvelinho da sociedade, aprendi cedo, por experiência, que não
 era feito para viver nela, onde nunca conseguiria chegar ao estado de que meu coração
@@ -3814,10 +3741,9 @@ precisava.
 No trecho "estado de que meu coração precisava" (£.2), a preposição "de" é regida pela formal
 verbal "precisava", não pela palavra "estado".
 
-Item. 9. (CEBRASPE / STM-Analista - 2018)
+9. (CEBRASPE / STM-Analista - 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 De resto, semelhantes cidadãos são idiotas. É de se supor que quem quer casar deseje
 que a sua
@@ -3827,7 +3753,7 @@ Mantendo-se a correção gramatical e os sentidos originais do texto, a forma ve
 "deseje" (L.2)
 poderia ser substituída por aspire a.
 
-Item. 10. (CEBRASPE / STM-Analista Judiciário - 2018)
+10. (CEBRASPE / STM-Analista Judiciário - 2018)
 
 A humanidade não aceitará uma língua não natural para a comunicação natural. Isso é
 contra a
@@ -3841,7 +3767,7 @@ do português europeu, sendo pouco frequente na variedade brasileira
 do português,
 principalmente em textos informais.
 
-Item. 11. (CEBRASPE /SEDF- 2017)
+11. (CEBRASPE /SEDF- 2017)
 
 Quando nos perguntamos o que é a consciência, não temos melhor resposta que
 a de Louis
@@ -3853,13 +3779,13 @@ Seriam mantidos o sentido e a correção gramatical do texto caso fosse introduz
 preposição
 sobre imediatamente após "perguntou-lhe".
 
-Item. 12. (CEBRASPE/SEDF-2017)
+12. (CEBRASPE/SEDF-2017)
 
 Considerando-se as regências do verbo esquecer prescritas para o português,
 estaria correta a
 seguinte reescrita para a oração "Já esqueci a língua": Já esqueci da língua.
 
-Item. 13. (CEBRASPE / DPE-RS / 2022)
+13. (CEBRASPE / DPE-RS / 2022)
 
 Um registro de mutações ligadas ao mundo eletrônico se refere ao que chamo de a ordem
 das propriedades, tanto em um sentido jurídico — o que fundamenta a propriedade
@@ -3876,7 +3802,7 @@ mesmo sentido de classificar, denominar, tem dois complementos: um direto, que e
 elíptico, e
 outro indireto, que é o termo "de a ordem das propriedades".
 
-Item. 14. (CEBRASPE / DPE-RS / 2022)
+14. (CEBRASPE / DPE-RS / 2022)
 
 A discriminação racial, por sua vez, é a atribuição de tratamento diferenciado a
 membros
@@ -3890,7 +3816,6 @@ A discriminação direta é o repúdio ostensivo a indivíduos ou grupos, motiva
 pela condição
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 racial, exemplo do que ocorre em países que proíbem a entrada de negros, judeus,
 muçulmanos,
@@ -3915,7 +3840,7 @@ A supressão da preposição "a", em "lojas que se recusam a atender clientes
 de determinada
 raça" (quarto período do último parágrafo), prejudicaria a correção gramatical do texto.
 
-Item. 15. (CEBRASPE / MJSP / 2022)
+15. (CEBRASPE / MJSP / 2022)
 
 ...A seu pedido, amigos nos convidaram para comer o prato mais típico do Nordeste: a feijoada.
 
@@ -3925,22 +3850,21 @@ gramaticalmente correto substituira preposição "para" pela preposição a.
 
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. CORRETA
 
-Item. 3. CORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. CORRETA
 
-Item. 5. CORRETA
+6. CORRETA
 
-Item. 6. CORRETA
+7. CORRETA
 
-Item. 7. CORRETA
-
-Item. 8. CORRETA
+8. CORRETA
 
 9.
 
@@ -3967,10 +3891,9 @@ CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - REGÊNCIA NoMINAL - CEBRASPE
 
-Item. 1. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
+1. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
 
 i De tanto pegadio com o neto, até nos menores
 quefazeres fora de hora meu avô me queria com a cara metida
@@ -4000,7 +3923,7 @@ emprego de "ao" indica a presença de preposição a, exigida pela regência de
 "necessários", e
 artigo definido masculino singular o, que antecede "bom andamento".
 
-Item. 2. (CEBRASPE/MPU/ANALISTA/2018)
+2. (CEBRASPE/MPU/ANALISTA/2018)
 
 A necessidade de uma teoria da justiça está relacionada com a disciplina de
 argumentar
@@ -4010,7 +3933,7 @@ A substituição de "relacionada com a disciplina"por relacionada à disciplina,
 mantivesse
 o sentido do texto, prejudicaria sua correção gramatical.
 
-Item. 3. (CEBRASPE / SEDUC-AL / PROFESSOR DE PORTUGUÊS / 2018)
+3. (CEBRASPE / SEDUC-AL / PROFESSOR DE PORTUGUÊS / 2018)
 
 Aumentou assim o meu entusiasmo peias possibilidades expressivas da língua, sua relação
 com
@@ -4024,7 +3947,7 @@ A contração "pelas" poderia ser substituída por com as, mantendo-se a correç
 gramatical e o
 sentido do texto.
 
-Item. 4. (CEBRASPE / PF-Escrivão - 2018)
+4. (CEBRASPE / PF-Escrivão - 2018)
 
 A supressão da preposição "de" empregada logo após "ferocidade", no trecho
 "acostumando
@@ -4034,8 +3957,7 @@ gramatical do texto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 5. (CEBRASPE / MPE-PI / CARGOS DE NÍVEL MÉDIO / 2018)
+5. (CEBRASPE / MPE-PI / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Observou-se, ao longo da história, não uma condenação, mas uma espécie de cortina de
 silêncio
@@ -4047,7 +3969,7 @@ Seria mantida a correção gramatical do período caso a preposição "de", em
 "chamado de 'o
 filósofo que ri'" (L.3), fosse omitida.
 
-Item. 6. (CEBRASPE /UNB/TRE TO/ 2017)
+6. (CEBRASPE /UNB/TRE TO/ 2017)
 
 No trecho "em uma época anterior à dos dinossauros", o emprego do sinal indicativo de
 crase
@@ -4057,24 +3979,23 @@ termo elíptico
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. INCORRETA
+2. INCORRETA
 
-Item. 3. CORRETA
+3. CORRETA
 
-Item. 4. INCORRETA
+4. INCORRETA
 
-Item. 5. CORRETA
+5. CORRETA
 
-Item. 6. CORRETA
+6. CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - CRASE - CEBRASPE
 
-Item. 1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+1. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 O emprego do sinal indicativo de crase no trecho "O estudo mostrou que a
 amígdala não
@@ -4082,7 +4003,7 @@ responde à questão racial em crianças..." é obrigatório, dados o caráter
 definido do termo
 "questão racial" e a acepção do verbo responder no período.
 
-Item. 2. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+2. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 o aparecimento da rede mundial de computadores pôs fim — no que diz respeito à
 informação
@@ -4093,7 +4014,7 @@ A supressão do acento indicativo de crase em "à própria noção de 'viagem'" 
 manteria os
 sentidos e a correção gramatical do texto.
 
-Item. 3. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
+3. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
 
 1 O professor que realmente ensina, quer dizer, que
 trabalha os conteúdos no quadro da rigorosidade do pensar
@@ -4131,7 +4052,7 @@ A retirada do acento indicativo de crase em "às vezes" (L.19) não
 comprometeria a correção
 gramatical do texto.
 
-Item. 4. (CEBRASPE / PRF / POLICIAL / 2019)
+4. (CEBRASPE / PRF / POLICIAL / 2019)
 
 Dispor de tanta luz assim, porém, tem um custo ambiental muito alto, avisam os cientistas.
 
@@ -4141,7 +4062,7 @@ parágrafo poderia ser assim reescrito: Contudo, os cientistas avisam que ter
 tanta luz à nosso
 dispor custa muito caro ao meio ambiente.
 
-Item. 5. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
+5. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
 
 Tenho ótimas recordações de lá e uma foto da qual gosto muito, da minha
 infância, às
@@ -4149,12 +4070,11 @@ gargalhadas, vestindo um macacão que minha própria mãe costurava, com bastant
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A retirada do sinal indicativo de crase em "às gargalhadas" (L.2) preservaria
 os sentidos e a
 correção gramatical do texto.
 
-Item. 6. (CEBRASPE / TRIBUNAL DE JUSTIÇA DE AMAZONAS / 2019)
+6. (CEBRASPE / TRIBUNAL DE JUSTIÇA DE AMAZONAS / 2019)
 
 i O maior desafio do Poder Judiciário no Brasil é
 tomar-se cada vez mais acessível às pessoas, até mesmo
@@ -4176,7 +4096,7 @@ A inserção do sinal indicativo de crase em "a quem" (Linha.3) não
 comprometeria a correção
 gramatical do texto.
 
-Item. 7. (CEBRASPE / PREFEITURA MUNICIPAL DE BOA VISTA (RR) / 2019)
+7. (CEBRASPE / PREFEITURA MUNICIPAL DE BOA VISTA (RR) / 2019)
 
 1 A cultura brasileira sempre se viu como uma cultura
 da mistura. Louva-se a tendência brasileira à assimilação do
@@ -4210,7 +4130,7 @@ estudos linguísticos, v 58, n.° I, 2016, p. 64-5 (com adaptações).
 A respeito dos aspectos linguísticos do texto CB1A1-II, julgue o item subsecutivo.
 O uso do acento grave em "à mistura racial" (L.13) é facultativo.
 
-Item. 8. (CEBRASPE / SEFAZ-RS-Auditor Fiscal - 2019)
+8. (CEBRASPE / SEFAZ-RS-Auditor Fiscal - 2019)
 
 A tributação, portanto, somente pode ser compreendida a partir da necessidade
 dos indivíduos
@@ -4220,7 +4140,6 @@ poder a um soberano. Em decorrência disso, a condição necessária (mas não s
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 o poder de tributar seja legítimo é que ele emane do Estado, pois qualquer imposição
 tributária
 privada seria comparável a usurpação ou roubo.
@@ -4229,7 +4148,7 @@ A inserção do sinal indicativo de crase em "a usurpação" (L. 14) não
 prejudicaria a correção
 gramatical do texto.
 
-Item. 9. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+9. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Para fazer frente a essas transformações, é necessário um novo tipo de
 planejamento urbano.
@@ -4241,7 +4160,7 @@ No trecho "à análise de cenários alternativos e à inclusão da sociedade na
 formulação das
 políticas" (L.2-3), o emprego do sinal indicativo de crase é obrigatório em ambas as ocorrências.
 
-Item. 10. (CEBRASPE / ABIN-Agente de Inteligência - 2018)
+10. (CEBRASPE / ABIN-Agente de Inteligência - 2018)
 
 Se praticada por autoridade superior, a espionagem pode configurar, além de
 infração penal,
@@ -4255,7 +4174,7 @@ O paralelismo sintático do último parágrafo do texto seria prejudicado se
 fosse inserido sinal
 indicativo de crase em "a cassação".
 
-Item. 11. (CEBRASPE / STJ / CONHECIMENTOS BÁSICOS / 2018)
+11. (CEBRASPE / STJ / CONHECIMENTOS BÁSICOS / 2018)
 
 ... e tem hipóteses concretas para se chegar a esse estado de coisas.
 
@@ -4263,7 +4182,7 @@ A correção gramatical do texto seria mantida caso se empregasse o acento indic
 crase no
 vocábulo "a" em "a esse estado de coisas".
 
-Item. 12. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
+12. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
 
 Seu diferencial era não só buscar pela assinatura digital ou nomes conhecidos, mas
 também por
@@ -4277,7 +4196,7 @@ O emprego do sinal indicativo de crase em "a uma paleta" (L.3) manteria a corre�
 gramatical
 do texto, uma vez que, no trecho, o vocábulo "a" antecede palavras no feminino.
 
-Item. 13. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+13. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 À primeira vista, é difícil compreender como podemos ter consciência da
 evidência do nosso
@@ -4291,8 +4210,7 @@ ser orgulhoso, parece algo, à um primeiro olhar, difícil de se entender.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 14. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
+14. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
 
 A vida de Florence Nightingale, a criadora da moderna enfermagem, daria um romance.
 Florence
@@ -4304,13 +4222,13 @@ A correção gramatical do texto seria mantida se fosse inserido o acento indica
 crase no
 vocábulo "a" no trecho "destinada a" (L. 2).
 
-Item. 15. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
+15. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
 
 No trecho "Diga não às 'corrupções' do dia a dia", seria correto o emprego do sinal
 indicativo de
 crase no vocábulo "a" em "dia a dia".
 
-Item. 16. (CEBRASPE / EBSERH / CARGOS DE NÍVEL MÉDIO / 2018)
+16. (CEBRASPE / EBSERH / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Os itens a seguir apresentam propostas de reescrita do trecho "Contudo —
 Florence era
@@ -4328,7 +4246,7 @@ colaborou com a comissão do governo à respeito dos hábitos militares. Além d
 fundou uma
 escola para treinamento de enfermeiras e escreveu um livro onde explicava esse treinamento.
 
-Item. 17. (CEBRASPE / IFF / CARGOS DE NÍVEL MÉDIO / 2018)
+17. (CEBRASPE / IFF / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Cada uma das opções a seguir apresenta uma proposta de reescrita do trecho
 "devido à sua
@@ -4358,10 +4276,9 @@ E) devido sua rigidez administrativa, a inadequação das normas e a grande
 quantidade de
 regulamentos
 
-Item. 18. (CEBRASPE / PF-Agente da Polícia Federal - 2018)
+18. (CEBRASPE / PF-Agente da Polícia Federal - 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 — A polícia parisiense — disse ele — é extremamente hábil à sua maneira. Seus
 agentes são
@@ -4373,7 +4290,7 @@ A supressão do sinal indicativo de crase em "à sua maneira" (L.1) manteria a c
 gramatical
 do texto.
 
-Item. 19. (CEBRASPE / MP-PI / TÉCNICO MINISTERIAL / 2018)
+19. (CEBRASPE / MP-PI / TÉCNICO MINISTERIAL / 2018)
 
 Sou forçado, pois, a limitar-me aos elementos de que disponho, encerrando em
 desventuras as
@@ -4383,7 +4300,7 @@ aventuras de Viramundo em Ouro Preto, e dando viço às suas peregrinações.
 maneira que
 sua supressão acarretaria incorreção gramatical no texto.
 
-Item. 20. (CEBRASPE / STM /TÉCNICO/ 2018)
+20. (CEBRASPE / STM /TÉCNICO/ 2018)
 
 Um zoológico serve para muitas coisas, algumas deias edificantes.
 
@@ -4391,7 +4308,7 @@ Sem prejudicar a correção gramatical tampouco alterar o sentido do trecho, a e
 "serve
 para" poderia ser substituída por convém à.
 
-Item. 21. (CEBRASPE / TCE-PB / AUDITOR / 2018) ADAPTADA
+21. (CEBRASPE / TCE-PB / AUDITOR / 2018) ADAPTADA
 
 "Quando se trata de enfrentar a desigualdade, não há saída fácil ou receita de bolo"
 
@@ -4401,7 +4318,7 @@ originalmente apresentada, preserva a correção gramatical.
 
 Se tratarmos de afrontar à desigualdade, não existirá instruções precisas nem solução fácil.
 
-Item. 22. (CEBRASPE / EBSERH / CARGOS DE NÍVEL MÉDIO / 2018)
+22. (CEBRASPE / EBSERH / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Durante o período do Estado Novo (1937-1945), no governo de Getúlio Vargas, foram
 adotados
@@ -4423,7 +4340,7 @@ da seguinte forma: complementar à renda dos casados com filhos e privilegiar
 aos homens
 casados e com filhos.
 
-Item. 23. (CEBRASPE / BNB - 2018)
+23. (CEBRASPE / BNB - 2018)
 
 Sendo assim, precisamos aumentar ao máximo o balanço de situações apresentadas à máquina
 para não pesar um lado mais do que o outro ", detalha.
@@ -4432,10 +4349,9 @@ O emprego do sinal indicativo de crase em 'à máquina' (L.2) é facultativo; po
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 eliminação não prejudicaria a correção gramatical do trecho.
 
-Item. 24. (CEBRASPE / MP-PI / ANALISTA MINISTERIAL / 2018)
+24. (CEBRASPE / MP-PI / ANALISTA MINISTERIAL / 2018)
 
 O alferes eliminou o homem. Durante alguns dias as duas naturezas
 equilibraram-se; mas não
@@ -4445,7 +4361,7 @@ tardou que a primitiva cedesse à outra; ficou-me uma parte mínima de humanidad
 supressão
 não comprometeria a correção gramatical e os sentidos originais do texto.
 
-Item. 25. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
+25. (CEBRASPE / ABIN / AGENTE DE INTELIGÊNCIA / 2018)
 
 Se praticada por autoridade superior, a espionagem pode configurar, além de
 infração penal,
@@ -4459,7 +4375,7 @@ O paralelismo sintático do último parágrafo do texto seria prejudicado se
 fosse inserido sinal
 indicativo de crase em "a cassação".
 
-Item. 26. (CEBRASPE / PETROBRAS / 2022)
+26. (CEBRASPE / PETROBRAS / 2022)
 
 Um registro de mutações ligadas ao mundo eletrônico se refere ao que chamo de a ordem
 das propriedades, tanto em um sentido jurídico — o que fundamenta a propriedade
@@ -4474,7 +4390,7 @@ inesperados", o emprego do sinal indicativo de crase justifica-se pela fusão
 de preposição e
 artigo feminino em uma locução adverbial de modo.
 
-Item. 27. (CEBRASPE / DPE-DF / 2022)
+27. (CEBRASPE / DPE-DF / 2022)
 
 Quando a natureza atinge a existência humana, o impulso primário é buscar o
 culpado
@@ -4488,7 +4404,7 @@ A supressão do sinal indicativo de crase na expressão "à mão" (primeiro
 período do segundo
 parágrafo) alteraria o sentido do texto e prejudicaria sua coerência.
 
-Item. 28. (CEBRASPE / MJSP / 2022)
+28. (CEBRASPE / MJSP / 2022)
 
 Amado nos levou com um grupo para descansarmos na fazenda de um amigo.
 Esta
@@ -4503,7 +4419,6 @@ copo
 de suco de caju amarelo-pálido: ele pensava, como eu, que se conhece um país em grande parte
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 pela boca. A seu pedido, amigos nos convidaram para comer o prato mais típico do
 Nordeste: a
@@ -4529,7 +4444,7 @@ Do emprego do sinal indicativo de crase no vocábulo "à", em "à família"
 (final do segundo
 parágrafo), depreende-se que se trata de uma família específica.
 
-Item. 29. (CEBRASPE / DPE-RS / 2022)
+29. (CEBRASPE / DPE-RS / 2022)
 
 Nem mesmo o hermético universo do direito resistiu às mudanças tecnológicas trazidas
 pela rede mundial de computadores...
@@ -4540,20 +4455,19 @@ tecnológicas"
 
 GABARITo
 
+1. CORRETA
 
-Item. 1. CORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. INCORRETA
 
-Item. 3. INCORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. INCORRETA
 
-Item. 5. INCORRETA
+6. INCORRETA
 
-Item. 6. INCORRETA
-
-Item. 7. INCORRETA
+7. INCORRETA
 
 8.
 
@@ -4625,5 +4539,4 @@ CORRETA
 CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

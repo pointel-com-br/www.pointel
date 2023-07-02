@@ -1,8 +1,8 @@
-Capítulo. Índice do Analista de Tecnologia.
+# Índice do Analista de Tecnologia.
 
 Classe. Conhecimentos Básicos.
 
-Tópico. Língua Portuguesa.
+# Língua Portuguesa.
 
 Item. Compreensão e interpretação de textos de gêneros variados.
 
@@ -42,9 +42,7 @@ Item. Reorganização da estrutura de orações e de períodos do texto.
 
 Item. Reescrita de textos de diferentes gêneros e níveis de formalidade.
 
-
-Tópico. Língua Inglesa.
-
+# Língua Inglesa.
 
 Item. Compreensão de textos variados. domínio do vocabulário e da estrutura da língua, ideias principais e secundárias, explícitas e implícitas, relações intratextuais e intertextuais.
 
@@ -52,8 +50,7 @@ Item. Itens gramaticais relevantes para compreensão de conteúdos semânticos.
 
 Item. Conhecimento e uso das formas contemporâneas da linguagem inglesa.
 
-
-Tópico. Noções De Estatística e Probabilidade.
+# Noções De Estatística e Probabilidade.
 
 Item. Estatística descritiva.
 
@@ -79,9 +76,7 @@ Item. Distribuição binomial e distribuição normal.
 
 Item. Noções de amostragem e inferência estatística.
 
-
-Tópico. Raciocínio Lógico.
-
+# Raciocínio Lógico.
 
 Item. Estruturas lógicas. Conectivos, tautologia e contradições, implicações e equivalências, afirmações e negações, argumento, silogismo, validade de argumento. Lógica sentencial (ou proposicional). Proposições simples e compostas.
 
@@ -91,9 +86,7 @@ Item. Compreensão do processo lógico que, a partir de um conjunto de hipótese
 
 Item. Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
 
-
-Tópico. Legislação Acerca De Privacidade E Proteção De Dados Pessoais.
-
+# Legislação Acerca De Privacidade E Proteção De Dados Pessoais.
 
 Item. Lei nº 13.709-2018 (Lei Geral de Proteção de Dados Pessoais - LGPD). Capítulos I, II, III, IV, VII, VIII e IX.
 
@@ -105,12 +98,9 @@ Item. Decreto nº 9.637-2018 (Política Nacional de Segurança da Informação).
 
 Item. Lei nº 12.737-2012 (Lei de Delitos Informáticos). art. 2º. 6 Lei nº 8.078-1990. Capítulo V, Seção VI, e arts. 71 e 72.
 
-
 Classe. Conhecimentos Específicos.
 
-
-Tópico. Segurança da Informação.
-
+# Segurança da Informação.
 
 Item. ISO 27000.
 
@@ -172,9 +162,7 @@ Item. OWASP Top 10.
 
 Item. OWASP Top 10 - O que mudou em 2021.
 
-
-Tópico. Gerenciamento e Sustentação de Software.
-
+# Gerenciamento e Sustentação de Software.
 
 Item. Gerenciamento de Produtos de Software.
 
@@ -190,9 +178,7 @@ Item. Gerenciamento de produtos - Lean.
 
 Item. Gerenciamento de serviços (ITIL V4).
 
-
-Tópico. Tecnologia.
-
+# Tecnologia.
 
 Item. Banco de dados.
 
@@ -400,7 +386,7 @@ Item. Orquestração de Containers - Kubernetes.
 
 Item. Orquestração de Containers - OpenShift.
 
-Tópico. Engenharia de Software.
+# Engenharia de Software.
 
 Item. Engenharia de requisitos.
 
@@ -494,7 +480,7 @@ Item. Monitoração e observabilidade.
 
 Item. Low-code e no-code software development.
 
-Tópico. Arquitetura de Software.
+# Arquitetura de Software.
 
 Item. Arquitetura de Software - Padrões de Projeto Orientado a Objetos.
 
@@ -544,9 +530,7 @@ Item. Padrões de microsserviços - CQRS.
 
 Item. Microsserviços - Transações distribuídas.
 
-
-Tópico. Aplicações em Nuvem.
-
+# Aplicações em Nuvem.
 
 Item. Aplicações em Nuvem - 12 factories.
 
@@ -564,9 +548,7 @@ Item. Serviços em Nuvem - Microsoft Azure
 
 Item. Serviços em Nuvem - Google Cloud Platform
 
-
-Tópico. Assuntos Avançados.
-
+# Assuntos Avançados.
 
 Item. Inteligência artificial.
 

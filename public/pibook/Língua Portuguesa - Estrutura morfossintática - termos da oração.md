@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Estrutura morfossintática - termos da oração.
-
+# Língua Portuguesa - Estrutura morfossintática - termos da oração.
 
 Índice
 
@@ -14,7 +13,6 @@ Capítulo. Língua Portuguesa - Estrutura morfossintática - termos da oração.
 5) Lista de Questões - Funções sintáticas - Cebraspe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NoçõES INICIAIS
 
@@ -49,7 +47,6 @@ melhor se vistos como uma unidade.
 Vamos nos divertir?!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 FUNçõES SINTÁTICAS
 
@@ -113,7 +110,6 @@ Sujeito e Predicado
 Semanticamente, o sujeito é a entidade sobre a qual se declara algo na oração. O predicado é,
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 geralmente, a declaração feita a respeito do sujeito.
 
@@ -198,7 +194,6 @@ der certo — serão votadas hoje.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Se retirarmos a "gordura" e localizarmos o núcleo desse enorme
 sujeito, teremos somente: leis
 serão votadas.
@@ -267,7 +262,6 @@ oracional E paciente.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Pronome oblíquo como sujeito???
 
 Em regra, pronomes oblíquos têm função de complemento; contudo, destaco
@@ -324,11 +318,9 @@ PROVA!
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -336,7 +328,6 @@ I
 sublinhada exerce a mesma:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ifunção sintática do termo sublinhado em
 
@@ -448,7 +439,6 @@ I
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 E) adjunto adverbial de lugar.
 iComentários:
 
@@ -462,7 +452,6 @@ iComentários:
 :
 
 I
-
 
 I
 
@@ -492,7 +481,6 @@ I
 
 I
 
-
 I
 
 : c) "ninguém" (I.2).
@@ -503,18 +491,15 @@ I
 
 I
 
-
 I
 
 : e) "Os direitos humanos" (1.1).
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -522,7 +507,6 @@ iComentários:
 :
 
 I
-
 
 I
 
@@ -538,13 +522,11 @@ imencionado antes e está claro no contexto:
 
 I
 
-
 I
 
 :O referente é "Os direitos humanos". Gabarito letra E.
 
 L
-
 
 I
 
@@ -576,7 +558,6 @@ culpado" também não traz um sujeito expresso, mas sabemos que
 o sujeito é "meus
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 advogados", pelo contexto.
 
@@ -638,7 +619,6 @@ sujeito-PIS).
 
 Ex: Desconfia-se.de que ela seja violenta.
 
-
 Verbo Trans. Indireto + SE {Quem desconfia? Não se sabe...)
 
 Ex: Precisa-se de médicos.
@@ -650,7 +630,6 @@ Verbo Trans. Indireto + SE {Quem precisa? Não se sabe também.)
 Muitas vezes, o sujeito indeterminado é uma forma de expressar um sujeito universal, algo que
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 todos fazem, mas sem individualizar um agente em específico. Veja:
 Ex: Respira-se melhor no campo.
@@ -719,7 +698,6 @@ b) o trecho "alguém naquele cemitério de gigantes" (L. 3 e 4).
 :
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 c) o termo "custoso" (L.3).
 
@@ -794,7 +772,6 @@ um "sujeito" diferente do seu
 "referente". Veja:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex: Os meninos jogam futebol. Jogam futebol todos os dias.
 
@@ -881,7 +858,6 @@ apresentado, julgue o item
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 : O sujeito da forma verbal "mostram", que está elíptico, tem como
 referente "Os dados".
 
@@ -961,7 +937,6 @@ permanecendo estes também no singular:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: Há mil pessoas aqui.
 
 Ex: Deve haver mil pessoas aqui.
@@ -1010,7 +985,6 @@ iQuestão incorreta.
 
 I
 
-
 I
 
 'verifica-se a existência de matas e de estradas rurais em condições
@@ -1025,7 +999,6 @@ de saúde dos idosoê
 :
 
 I
-
 
 I
 
@@ -1044,11 +1017,9 @@ iComentários:
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -1059,9 +1030,7 @@ I
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 I
-
 
 I
 
@@ -1072,11 +1041,9 @@ Estabeleceu-se o voto obrigatório > O voto obrigatório foi estabelecido.
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -1149,7 +1116,6 @@ Ex: Eu sempre vivi uma vida de grandes desafios.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: Vamos lutar a boa luta e sangrar o sangue guerreiro.
 Ex: Depois da prova, dormi um sono tranquilo.
 
@@ -1164,7 +1130,6 @@ HORA IX
 :(ÍHBDF'/2018)
 
 I
-
 
 I
 
@@ -1190,11 +1155,9 @@ iComentários:
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -1205,7 +1168,6 @@ promulgou algo > promulgou a primeira LDB brasileira. Gabarito letra C.
 :
 
 I
-
 
 I
 
@@ -1218,11 +1180,9 @@ pronome.
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -1231,13 +1191,11 @@ iComentários:
 
 I
 
-
 I
 
 lOrganizando, temos:
 
 I
-
 
 I
 
@@ -1264,7 +1222,6 @@ Ex: Não dependa de ninguém para estudar. {Quem depende, depende de algo/algué
 Ex: Aludi ao episódio do acidente. {Quem alude, alude A algo/alguém).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex: Concordo com você. {Quem concorda COM algo/alguém).
 
@@ -1344,12 +1301,10 @@ I
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 : (STM / ANALISTA / 2018)
 :
 
 I
-
 
 I
 
@@ -1369,7 +1324,6 @@ função sintática no período:
 :
 
 I
-
 
 I
 
@@ -1441,7 +1395,6 @@ Considero Ricardo como um pai (como um pai "considera" — "pai" é sujeito).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: O menino e a menina ofenderam-se uns aos outros.
 
 Nos casos abaixo, a preposição acompanhando o objeto direto geralmente aparece por ênfase
@@ -1501,7 +1454,6 @@ Ex: Cumpri com o dever > O dever foi cumprido (por mim).
 
 wvinv. estra tegiaconcursos. com. br
 
-
 Obs 2: A substituição do objeto direto preposicionado pelo pronome oblíquo
 átono, se possível, deve ser feita com pronome "o", "a", "os", "as", não se faz
 com - "lhe".
@@ -1515,11 +1467,9 @@ j
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -1532,14 +1482,12 @@ Porém, esta suprema máxima não pode ser utilizada como desculpa universal que
 
 I
 
-
 I
 
 : Comentários:
 :
 
 I
-
 
 I
 
@@ -1567,7 +1515,6 @@ a:
 
 I
 
-
 I
 
 : O verbo "temer" é transitivo direto, não exige preposição, portanto seu complemento verbal:
@@ -1582,7 +1529,6 @@ por não ser obrigatória pela regência do verbo, poderia ser suprimida. Quest�
 '
 
 I
-
 
 I
 
@@ -1604,16 +1550,13 @@ mesma :
 
 I
 
-
 I
 
 I
-
 
 I
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 : Nós classificamos os verbos quanto à transitividade de acordo com o complemento verbal que :
 
@@ -1634,7 +1577,6 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 I
 
-
 I
 
 ; ...os preceitos morais que impõem a necessidade...> Quem impõe, impõe alguma coisa >
@@ -1645,7 +1587,6 @@ A'.
 
 I
 
-
 I
 
 : "Impor" é VTD. "Dispor" é VTI. Logo, esses verbos não têm a mesma classificação.
@@ -1655,7 +1596,6 @@ Questão :
 :
 
 L
-
 
 J
 
@@ -1699,7 +1639,6 @@ ele características como quantidade, qualidade, posse. Observe que esses termos
 exigidos pelo nome "carros", mas sim acrescentados por quem fala ou escreve.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Vejamos outros exemplos de adjunto adnominal:
 Ex: Ouro em pó/em barras.
@@ -1763,7 +1702,6 @@ branco" é termo preposicionado, mas se liga a substantivo concreto, então não
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 adjunto também. "Medo" é substantivo abstrato, indica sentimento. A relação é paciente,
 pois
 "mim" não é quem está com medo, mas o objeto do medo. Portanto, temos um complemento
@@ -1816,7 +1754,6 @@ o último critério.
 
 Adiunto Adnominal x Complemento Nominal
 
-
 Não é exigido pelo nome (ex.: "mulher de
 branco")
 
@@ -1838,7 +1775,6 @@ Só complementa Substantivo Abstrato
 conceito).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 adjunto.
 
@@ -1868,11 +1804,9 @@ j
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -1882,7 +1816,6 @@ isublinhado em "Stephanie Preston, professora de psicologia da Universidade de M
 EUA, acredita que a melhor maneira de validar as emoções é 'apenas ouvi-las'." é
 
 I
-
 
 I
 
@@ -1906,7 +1839,6 @@ iraiva, ansiedade ou inveja.".
 
 I
 
-
 I
 
 :(E) "Gutiérrez acredita que houve um aumento do positivismo tóxico 'nos últimos anos',
@@ -1916,14 +1848,12 @@ principalmente durante a pandemia.".
 
 I
 
-
 I
 
 iComentários:
 :
 
 I
-
 
 I
 
@@ -1936,7 +1866,6 @@ Em "psicóloga britânica", o adjetivo "britânica" é adjunto adnominal de "psi
 
 I
 
-
 I
 
 :Em A, temos complemento nominal. Em B, temos adjunto adverbial de assunto (isso mesmo, não:
@@ -1948,12 +1877,10 @@ I
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 (PC-SE / DELEGADO / 2018)
 :
 
 I
-
 
 I
 
@@ -1971,14 +1898,12 @@ itermos "relativos" e "investigações".
 
 I
 
-
 I
 
 iComentários:
 :
 
 I
-
 
 I
 
@@ -1996,16 +1921,13 @@ iQuestão correta.
 
 I
 
-
 I
-
-I
-
 
 I
 
 I
 
+I
 
 I
 
@@ -2014,7 +1936,6 @@ I
 
 I
 
-
 I
 
 '.buscando-se o aprofundamento da democracia e a garantia da justiça de gênero, da igualdade',
@@ -2022,7 +1943,6 @@ I
 :
 
 I
-
 
 I
 
@@ -2034,7 +1954,6 @@ iComentários:
 :
 
 I
-
 
 I
 
@@ -2073,7 +1992,6 @@ Ex: Você é dos meus. (Predicativo com preposição, locução adjetiva)
 Ex: O mundo é um moinho. (Predicativo na forma de substantivo)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex: O governo virou o maior inimigo do povo. (Predicativo na forma de substantivo)
 Ex: Lá em casa, somos quatro. (Predicativo na forma de numeral)
@@ -2128,7 +2046,6 @@ I
 
 I
 
-
 I
 
 '.Agora, se eu dou um jeito nos meus impostos porque o delegado da receita federa! é
@@ -2138,7 +2055,6 @@ meu".
 
 I
 
-
 I
 
 Em "temos o 'jeitinho' virando corrupção", os termos 'jeitinho' e"corrupção"funcionam como:
@@ -2147,14 +2063,12 @@ icomplementos diretos da forma verbal "temos".
 
 I
 
-
 I
 
 iComentários:
 :
 
 I
-
 
 I
 
@@ -2165,18 +2079,15 @@ deligação:
 
 I
 
-
 I
 
 I
-
 
 I
 
 / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 '.Quase sempre, condutores, técnicos de enfermagem, enfermeiros e médicos saem em disparada,',
 '.ambulância cortando o trânsito, sirenes ligadas, para atender a alguém que nunca viram. Maé.
@@ -2185,7 +2096,6 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 '.pequeno em um serviço que só funciona se apoiado em seu princípio maior: a técnica.
 
 I
-
 
 I
 
@@ -2196,14 +2106,12 @@ I
 
 I
 
-
 I
 
 iComentários:
 :
 
 I
-
 
 I
 
@@ -2214,7 +2122,6 @@ doverbo:
 :
 
 I
-
 
 I
 
@@ -2263,7 +2170,6 @@ Semanticamente, o predicativo é uma característica atribuída ao ser e não é
 vista como inerente e definitiva.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex: Eu vi a menina muito irritada com sua eliminação, (predicativo do objeto: o
 sujeito
@@ -2333,7 +2239,6 @@ Agora que sabemos reconhecer um predicativo, fica bem mais fácil conhecer o pre
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 tipos.
 
 Os termos "essenciais" de uma oração são "sujeito" e "predicado". Numa oração, tudo que não
@@ -2398,7 +2303,6 @@ Vamos à segunda possibilidade de predicado verbo-nominal, dessa vez com um pred
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ligado ao objeto do verbo.
 
 2) Verbo de ação transitivo + Predicativo do objeto
@@ -2419,11 +2323,9 @@ Observe que se atribui estado/qualidade ao objeto.
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -2431,7 +2333,6 @@ I
 :
 
 I
-
 
 I
 
@@ -2442,14 +2343,12 @@ I
 
 I
 
-
 I
 
 iComentários:
 :
 
 I
-
 
 I
 
@@ -2459,11 +2358,9 @@ Tomar1.
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -2474,11 +2371,9 @@ I
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -2486,7 +2381,6 @@ I
 :
 
 I
-
 
 I
 
@@ -2502,7 +2396,6 @@ latribuem característica ao termo "identidade".
 
 I
 
-
 I
 
 iComentários:
@@ -2510,11 +2403,9 @@ iComentários:
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -2527,7 +2418,6 @@ inão ocorre com "cultural". Temos, então, dois predicativos do sujeito.
 
 I
 
-
 I
 
 lObserve que, se trocássemos "identidade cultural" por um pronome, o adjunto sumiria:
@@ -2536,7 +2426,6 @@ lestável emovediça. Como vimos, isso confirma a função de adjunto adnominal.
 :
 
 I
-
 
 I
 
@@ -2547,7 +2436,6 @@ iQuestão incorreta.
 
 L
 
-
 I
 
 Vocativo
@@ -2556,7 +2444,6 @@ O vocativo é um chamamento, é termo externo, pois se remete ao ouvinte ou leit
 oração, sempre marcado por vírgulas ou pausas equivalentes. O vocativo não é considerado um
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 termo interno da oração, pois se refere ao interlocutor.
 
@@ -2619,7 +2506,6 @@ Ex: Tenho dois desejos, trabalhar e ser reconhecido.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: Chegaram apenas dois alunos: Mário e Ricardo.
 
 Ex: Machado de Assis, como romancista, nunca foi superado.
@@ -2667,11 +2553,9 @@ HORA IX
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -2691,12 +2575,10 @@ linteratuação".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 iComentários:
 :
 
 I
-
 
 I
 
@@ -2708,11 +2590,9 @@ lesclarecimento. O termo "o preço eficiente dos bens e serviços" é justamente
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -2720,7 +2600,6 @@ I
 :
 
 I
-
 
 I
 
@@ -2733,14 +2612,12 @@ sintáticas de:
 
 I
 
-
 I
 
 iComentários:
 :
 
 I
-
 
 I
 
@@ -2750,7 +2627,6 @@ I
 :
 
 I
-
 
 I
 
@@ -2762,7 +2638,6 @@ I
 
 I
 
-
 I
 
 :"o Oscar Wilde iconoclasta" (iconoclasta éaqualidade)
@@ -2773,7 +2648,6 @@ I
 
 I
 
-
 I
 
 :O aposto especificativo tradicionalmenteaparece naforma de um nome próprio substituindo o:
@@ -2783,7 +2657,6 @@ icomum "iconoclasta".
 
 I
 
-
 I
 
 :No segundo caso (Oscar Wilde iconoclasta), "Oscar Wilde" é núcleo substantivo, sendo:
@@ -2791,7 +2664,6 @@ imodificado peloadjetivo"iconoclasta",com função de adjunto adnominal.
 :
 
 I
-
 
 I
 
@@ -2822,7 +2694,6 @@ um termo indicar a circunstância de um verbo, especificar a forma como aquele v
 praticado, teremos um adjunto adverbial.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O adjunto adverbial também pode ser referir a um adjetivo, um advérbio e até a uma
 oração
@@ -2884,7 +2755,6 @@ Quando transpomos a voz ativa para a passiva analítica, o sujeito vira agente d
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 obieto direto vira suieito cadente.
 
 Ex: Eu comprei um carro > Um carro foi comprado por
@@ -2907,11 +2777,9 @@ HORA IX
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -2935,18 +2803,15 @@ iComentários:
 
 I
 
-
 I
 
 :Uma trama que é vigiada por eles próprios e por órgãos estatais.
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -2957,7 +2822,6 @@ paciente voz passiva
 
 I
 
-
 I
 
 :"por órgãos estatais" exerce função sintática de agente da passiva, "dos preceitos
@@ -2966,11 +2830,9 @@ icomplemento verbal preposicionado (OI) do verbo "advir" (VTI; de). Questão inc
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -2994,11 +2856,9 @@ iComentários:
 
 I
 
-
 I
 
 I
-
 
 I
 
@@ -3006,11 +2866,9 @@ I
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 [Uma estrutura de VTS é composta minimamente de (ou por) um radar Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 FRASE X ORAçÃo X PERÍoDo
 
@@ -3045,10 +2903,9 @@ frase de sentido completo, com verbo e não ligada a nenhuma outra; um período 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - FUNçõES SINTÁTICAS - CEBRASPE
 
-Item. 1. CEBRASPE / FUNPRESP-EXE / 2022
+1. CEBRASPE / FUNPRESP-EXE / 2022
 
 Esse movimento, além de tardio na história da humanidade, só se produziu uma única vez.
 
@@ -3077,7 +2934,7 @@ desenfreada (sujeito) RESULTOU daí (complemento)
 
 Questão incorreta.
 
-Item. 2. CEBRASPE/IBAMA/2022
+2. CEBRASPE/IBAMA/2022
 
 De acordo com Mariana Schuchovski, professora de Sustentabilidade do ISAE Escola de
 Negócios, a disseminação do vírus é resultado do atual modelo de desenvolvimento, que
@@ -3099,12 +2956,11 @@ e pandemias".
 
 Questão incorreta.
 
-Item. 3. CEBRASPE/ PETROBRAS / 2022
+3. CEBRASPE/ PETROBRAS / 2022
 
 ...O sábio é aquele que atinge essa percepção. Para Platão, conhecer o Bem significa tornar-se
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 virtuoso. Aquele que conhece a justiça não pode deixar de agir de modo justo.
 
@@ -3127,7 +2983,7 @@ O "que" retoma "aquele">
 Logo, o "que" é sujeito de "conhece".
 Questão incorreta.
 
-Item. 4. CEBRASPE/IBAMA/2022
+4. CEBRASPE/IBAMA/2022
 
 ...Por outro lado, para que possamos fazer melhores escolhas e praticar o verdadeiro consumo
 consciente, é necessário que, em primeiro lugar, as empresas realizem a produção consciente,
@@ -3146,7 +3002,7 @@ impactos [que causam]
 [causam impactos]
 Questão incorreta.
 
-Item. 5. CEBRASPE / DPE-DF / 2022
+5. CEBRASPE / DPE-DF / 2022
 
 Diante da lei está um porteiro. Um homem do campo dirige-se a este porteiro e pede para
 entrar na lei. Mas o porteiro diz que agora não pode permitir-lhe a entrada. O homem do campo
@@ -3167,7 +3023,6 @@ sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 foi empregada no sentido de CAUSA.
 
 COMO a porta da lei continua como sempre aberta, e o porteiro se põe de lado, o homem
@@ -3175,7 +3030,7 @@ se inclina para o interior através da porta.
 
 Questão incorreta.
 
-Item. 6. CEBRASPE / TELEBRAS / 2022
+6. CEBRASPE / TELEBRAS / 2022
 
 É importante saber o nome das coisas. Ou, pelo menos, saber comunicar o que você quer.
 
@@ -3207,7 +3062,7 @@ O termo "O senhor", contudo, é sujeito do verbo "vai".
 
 Questão incorreta.
 
-Item. 7. CEBRASPE / DPE-RS / 2022
+7. CEBRASPE / DPE-RS / 2022
 
 Essa mobilidade lança um desafio aos critérios e às categorias que, pelo menos desde o
 século XVIII, identificam as obras com base na sua estabilidade, singularidade e originalidade. Há
@@ -3226,8 +3081,7 @@ Reproduzível é apenas outro adjunto adnominal de identidade. Questão incorret
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 8. CEBRASPE / DPE-RS / 2022
+8. CEBRASPE / DPE-RS / 2022
 
 O texto eletrônico, tal qual o conhecemos, é um texto móvel, maleável, aberto. O
 leitor
@@ -3255,7 +3109,7 @@ Se tivéssemos voz ativa, o termo seria o sujeito:
 Uma escritura modifica os textos...
 Questão correta.
 
-Item. 9. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
+9. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
 
 Catar feijão
 r Calar feijão se limita com escrever
@@ -3300,8 +3154,7 @@ incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 10. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
+10. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
 
 Candeia era quase nada. Não tinha mais que vinte casas mortas, uma igrejinha velha, um resto de
 praça. Algumas construções nem sequer tinham telhado; outras, invadidas pelo
@@ -3327,7 +3180,7 @@ Temos caso típico de sujeito oracional:
 [Acreditar que morasse alguém naquele cemitério] era custoso.
 [ISTO] era custoso. Gabarito letra A.
 
-Item. 11. (CEBRASPE / PGE-PE / Analista Judiciário de Procuradoria / 2019)
+11. (CEBRASPE / PGE-PE / Analista Judiciário de Procuradoria / 2019)
 
 ... é difícil dizer se a maior turbulência depende de uma crise moral...
 
@@ -3340,7 +3193,7 @@ ISTO é difícil
 
 O "ser" é verbo de ligação. Questão incorreta.
 
-Item. 12. (CEBRASPE / PRF-Policial - 2019)
+12. (CEBRASPE / PRF-Policial - 2019)
 
 Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em razão
 de atividades do trabalho humano. Os processos de produção dos objetos que nos cercam
@@ -3356,7 +3209,6 @@ Comentários:
 Muito cuidado, a questão é avançada. O sujeito sintático da oração adjetiva é o pronome relativo
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Os processos de produção dos objetos [que nos cercam] movimentam relações
 
@@ -3377,7 +3229,7 @@ artifício de análise, o termo "Os processos de produção dos objetos" não fa
 fato da
 oração adjetiva e não pode ser sujeito dela, o sujeito é o pronome! Questão incorreta.
 
-Item. 13. (CEBRASPE / CAGE-RS-Auditor Fiscal - 2018)
+13. (CEBRASPE / CAGE-RS-Auditor Fiscal - 2018)
 
 Por outro lado, a substituição dos tributos indiretos, que atingem o fluxo econômico, por tributos
 que incidam sobre o estoque da riqueza tem o mérito de criar maior
@@ -3400,7 +3252,7 @@ Ora, os tributos incidem, "tributos" assume função de sujeito; logo, o "que"
 é sujeito,
 classificado como simples, por ter apenas um núcleo, o próprio pronome. Gabarito letra E.
 
-Item. 14. (CEBRASPE/CGM-JOÃO PESSOA-2018)
+14. (CEBRASPE/CGM-JOÃO PESSOA-2018)
 
 Agora, se eu dou um jeito nos meus impostos porque o delegado da receita federal é
 meu
@@ -3416,12 +3268,11 @@ Comentários:
 ligação
 (virando - "jeitinho" tornando-se "corrupção": mudança de estado). Questão incorreta.
 
-Item. 15. (CEBRASPE/IHBDF/2018)
+15. (CEBRASPE/IHBDF/2018)
 
 Quase sempre, condutores, técnicos de enfermagem, enfermeiros e médicos saem em disparada,
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ambulância cortando o trânsito, sirenes ligadas, para atender a alguém que nunca viram.
 Mas
@@ -3438,7 +3289,7 @@ de ligação "Estão": condutores, técnicos de enfermagem, enfermeiros e médic
 estão
 preparados. Questão incorreta.
 
-Item. 16. (CEBRASPE / STM / ANALISTA / 2018)
+16. (CEBRASPE / STM / ANALISTA / 2018)
 
 Trata-se de uma visão revolucionária, já que o convencional era fazer o elogio da harmonia e da
 unidade.
@@ -3454,7 +3305,7 @@ Comentários:
 Transitivo
 Indireto+SE". Logo, o verbo não vai ao plural. Questão incorreta.
 
-Item. 17. (CEBRASPE / PC-SE / DELEGADO / 2018)
+17. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 Para que a atuação policial ocorra dentro dos parâmetros democráticos, é essencial que haja a
 implementação de um modelo de policiamento que corresponda aos preceitos constitucionais,
@@ -3472,7 +3323,7 @@ sujeito, trata-se de uma oração subordinada substantiva subjetiva, ou seja, um
 [que haja a implementação de um modelo de policiamento] é essencial...
 [ISTO] é essencial... Questão incorreta.
 
-Item. 18. (CEBRASPE/STM/ANALISTA/2018)
+18. (CEBRASPE/STM/ANALISTA/2018)
 
 A liderança é uma questão de redução da incerteza do grupo, e o comportamento pelo qual se
 consegue essa redução é a escolha, a tomada de decisão.
@@ -3486,7 +3337,6 @@ Primeiro: marcamos o verbo> "é". Após perguntarmos "Quem/O que É", saberemos 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 sujeito, que segue sublinhado nas frases abaixo, com seu "núcleo" destacado.
 
 A liderança é uma questão de redução da incerteza do grupo
@@ -3494,7 +3344,7 @@ o comportamento pelo qual se consegue essa redução é a escolha
 
 A liderança só é sujeito do "é" na primeira sentença. Questão incorreta.
 
-Item. 19. (CEBRASPE / SEFAZ RS / ASSISTENTE / 2018)
+19. (CEBRASPE / SEFAZ RS / ASSISTENTE / 2018)
 
 No período "A necessidade de guardar as moedas em segurança fez surgirem os bancos", do
 texto 1A1-II, o termo "os bancos" funciona como
@@ -3513,7 +3363,7 @@ Comentários:
 Quem surgiu? Os bancos "surgiram", então "os bancos" é sujeito de "surgirem". Gabarito letra
 C.
 
-Item. 20. (CEBRASPE / SEFAZ-RS / ASSISTENTE / 2018)
+20. (CEBRASPE / SEFAZ-RS / ASSISTENTE / 2018)
 
 Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. São
 universais, ou seja, são aplicados de forma igual e sem discriminação a todas as pessoas. São
@@ -3545,8 +3395,7 @@ O referente é "Os direitos humanos". Gabarito letra E.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 21. (CEBRASPE / STM / ANALISTA / 2018)
+21. (CEBRASPE / STM / ANALISTA / 2018)
 
 Porém, esta suprema máxima não pode ser utilizada como desculpa universal que a todos nos
 absolveria de juízos coxos e opiniões mancas.
@@ -3561,7 +3410,7 @@ como
 objeto direto, acrescentamos a preposição, constituindo um objeto direto preposicionado. A
 propósito, isso também ocorre com os pronomes "quem" e "ninguém". Questão incorreta.
 
-Item. 22. (CEBRASPE/STM/ANALISTA/2018)
+22. (CEBRASPE/STM/ANALISTA/2018)
 
 ...a sageza e prudência de não acreditar cegamente naquilo que supõe saber, que daí é que vêm
 os enganos piores, não da ignorância.
@@ -3574,7 +3423,7 @@ Comentários:
 Temos "vir DE+AÍ" (vir daí e "vir DE+A ignorância" (vir da ignorância). Em ambos os casos temos
 objetos indiretos do verbo "vir". Questão correta.
 
-Item. 23. (CEBRASPE / MPE PI / ANALISTA / 2018)
+23. (CEBRASPE / MPE PI / ANALISTA / 2018)
 
 Já houve acusados que se declararam culpados de crimes que não cometeram.
 
@@ -3587,7 +3436,7 @@ texto, é
 evidente que "acusados" não cometeram os crimes; então, o sujeito é apenas oculto, pois não
 está expresso na oração, mas pode ser determinado pelo contexto. Questão incorreta.
 
-Item. 24. (CEBRASPE / PC-SE / DELEGADO / 2018)
+24. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 A unidade surgiu como delegacia especializada em setembro de 2004. Agentes e delegados de
 atendimento a grupos vulneráveis realizam atendimento às vítimas, centralizam procedimentos
@@ -3604,14 +3453,13 @@ nominal. "Relativo" é um adjetivo que exige complemento com a preposição "a":
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 "Relativo" A algo> "Relativo" A crimes contra o público...
 
 "Investigações", por sua vez, é um substantivo abstrato derivado de ação e "de queixas" possui
 valor passivo: "queixas são investigadas". Então, temos clássico caso de complemento nominal.
 Questão correta.
 
-Item. 25. (CEBRASPE / MPU / ANALISTA / 2018)
+25. (CEBRASPE / MPU / ANALISTA / 2018)
 
 buscando-se o aprofundamento da democracia e a garantia da justiça de gênero, da igualdade
 racial e dos direitos humanos
@@ -3631,7 +3479,7 @@ Garantia "dos direitos humanos" (os direitos humanos são garantidos)
 O termo preposicionado "de gênero" não possui sentido passivo, é uma especificação, apenas
 um adjunto adnominal de "justiça". Questão incorreta.
 
-Item. 26. (CEBRASPE / TCM-BA / AUDITOR EST. / 2018)
+26. (CEBRASPE / TCM-BA / AUDITOR EST. / 2018)
 
 » Após meses de sofrimento e solidão chega o correio:
 
@@ -3670,12 +3518,11 @@ Comentários:
 "O correio chega" traz "o correio" como sujeito, posposto, após o verbo. Por outro lado, "Casa"
 e "Surpresa" são objetos diretos de "fecha" e "espera". Questão incorreta.
 
-Item. 27. (CEBRASPE / PC-MA / ESCRIVÃO / 2018)
+27. (CEBRASPE / PC-MA / ESCRIVÃO / 2018)
 
 Se, nos Estados Unidos da América, surgem mais e mais casos de assédio sexual em
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ambientes profissionais — como os que envolvem produtores e atores de cinema—, no Brasil, o
 número de processos desse tipo caiu 7,5% entre 2015 e 2016.
@@ -3718,7 +3565,7 @@ O outro "sujeito" está em:
 
 foram registradas 4.040 ações judiciais sobre assédio sexual no trabalho
 
-Item. 4.040 ações judiciais sobre assédio sexual no trabalho foram registradas
+4.040 ações judiciais sobre assédio sexual no trabalho foram registradas
 
 O termo "4.040 ações judiciais sobre assédio sexual no trabalho" é sujeito paciente da locução
 passiva "foram registradas".
@@ -3736,10 +3583,9 @@ não tem sujeito porque é impessoal no sentido de "existir".
 
 E) "queixas de assédio" - objeto direto do verbo "recebem". Gabarito letra B.
 
-Item. 28. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
+28. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Destaca-se como a principal diferença o efeito que cada instrumento busca neutralizar
 
@@ -3752,7 +3598,7 @@ Questão incorreta.
 [o efeito que cada instrumento busca neutralizar] destaca-se
 [o efeito que cada instrumento busca neutralizar] é destacado
 
-Item. 29. (CEBRASPE / IHBDF / 2018)
+29. (CEBRASPE / IHBDF / 2018)
 
 Exatos 35 anos antes de o presidente Fernando Henrique Cardoso sancionar a atual Lei
 de
@@ -3767,7 +3613,7 @@ Comentários:
 "Promulgar" é verbo transitivo direto e pede um objeto direto, sem preposição:
 promulgou algo > promulgou a primeira LDB brasileira. Gabarito letra C.
 
-Item. 30. (CEBRASPE / IFF / 2018)
+30. (CEBRASPE / IFF / 2018)
 
 Vi terras por onde andaram os dozes pares de França, os heróis do meu Carlos Magno, lido e
 relido como história de Trancoso. Vi terras do sul, o mar Mediterrâneo, o mar da história, o mar
@@ -3789,7 +3635,7 @@ localizado entre a Europa e a África, foi um canal entre essas civilizações a
 Questão
 correta.
 
-Item. 31. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
+31. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Creio que o governo não é assim um negociante ganancioso que vende gêneros que possam
 trazer a destruição de vidas preciosas; e creio que não é, porquanto anda sempre zangado com
@@ -3799,7 +3645,6 @@ O sujeito elíptico da forma verbal "anda" retoma a expressão "um negociante ga
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 Pelo contexto, percebemos que quem anda zangado é o "governo", então o referente do verbo
@@ -3807,10 +3652,9 @@ Pelo contexto, percebemos que quem anda zangado é o "governo", então o referen
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - FUNçõES SINTÁTICAS - CEBRASPE
 
-Item. 1. CEBRASPE / FUNPRESP-EXE / 2022
+1. CEBRASPE / FUNPRESP-EXE / 2022
 
 Esse movimento, além de tardio na história da humanidade, só se produziu uma única vez.
 Para retomar uma fórmula muito conhecida de Descartes, o homem se fez então "mestre e
@@ -3826,7 +3670,7 @@ e
 das técnicas" e "a exploração desenfreada (...) os humanos" exercem a função de complemento
 da forma verbal "Resultou".
 
-Item. 2. CEBRASPE/IBAMA/2022
+2. CEBRASPE/IBAMA/2022
 
 De acordo com Mariana Schuchovski, professora de Sustentabilidade do ISAE Escola de
 Negócios, a disseminação do vírus é resultado do atual modelo de desenvolvimento, que
@@ -3841,7 +3685,7 @@ No segundo período do terceiro parágrafo, a forma pronominal 'nos' funciona
 como
 complemento das formas verbais 'atinjam' e 'alcancem'.
 
-Item. 3. CEBRASPE/ PETROBRAS / 2022
+3. CEBRASPE/ PETROBRAS / 2022
 
 ...O sábio é aquele que atinge essa percepção. Para Platão, conhecer o Bem significa tornar-se
 virtuoso. Aquele que conhece a justiça não pode deixar de agir de modo justo.
@@ -3850,7 +3694,7 @@ No último período do texto, o termo "Aquele" exerce a função sintática de s
 oração
 "que conhece a justiça".
 
-Item. 4. CEBRASPE/IBAMA/2022
+4. CEBRASPE/IBAMA/2022
 
 ...Por outro lado, para que possamos fazer melhores escolhas e praticar o verdadeiro consumo
 consciente, é necessário que, em primeiro lugar, as empresas realizem a produção consciente,
@@ -3860,10 +3704,9 @@ O pronome "que", em "que causam" (último período do texto), exerce a função 
 sujeito da
 oração em que ocorre e retoma o termo "as empresas".
 
-Item. 5. CEBRASPE / DPE-DF / 2022
+5. CEBRASPE / DPE-DF / 2022
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Diante da lei está um porteiro. Um homem do campo dirige-se a este porteiro e pede para
 entrar na lei. Mas o porteiro diz que agora não pode permitir-lhe a entrada. O homem do campo
@@ -3877,7 +3720,7 @@ como
 sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior através da porta",
 foi empregada no sentido de conformidade.
 
-Item. 6. CEBRASPE / TELEBRAS / 2022
+6. CEBRASPE / TELEBRAS / 2022
 
 É importante saber o nome das coisas. Ou, pelo menos, saber comunicar o que você quer.
 
@@ -3902,7 +3745,7 @@ Assim como o termo 'cavalheiro' em 'Posso ajudá-lo, cavalheiro?' (segundo pará
 'senhor', em 'O senhor vai dar risada quando souber' (nono parágrafo), exerce função de vocativo
 no texto, dado que é empregado para chamar, de forma cordial, o interlocutor.
 
-Item. 7. CEBRASPE / DPE-RS / 2022
+7. CEBRASPE / DPE-RS / 2022
 
 Essa mobilidade lança um desafio aos critérios e às categorias que, pelo menos desde o
 século XVIII, identificam as obras com base na sua estabilidade, singularidade e originalidade. Há
@@ -3914,7 +3757,7 @@ questão o mundo digital, que propõe textos brandos, ubíquos, paUmpsestos.
 No trecho "Há um estreito vínculo entre a identidade singular, estável, reproduzível dos textos",
 o termo "dos textos" funciona como complemento do adjetivo "reproduzível".
 
-Item. 8. CEBRASPE/DPE-RS/2022
+8. CEBRASPE/DPE-RS/2022
 
 O texto eletrônico, tal qual o conhecemos, é um texto móvel, maleável, aberto. O
 leitor
@@ -3926,7 +3769,6 @@ quais se apodera. Nesse processo, desaparece a atribuição dos textos ao nome d
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 que são constantemente modificados por uma escritura coletiva, múltipla, polifônica.
 
 Na oração "já que são constantemente modificados por uma escritura coletiva,
@@ -3935,7 +3777,7 @@ polifônica" (segundo parágrafo), o termo introduzido pela preposição "por"
 expressa o
 responsável pela ação de modificar.
 
-Item. 9. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
+9. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
 
 Catar feijão
 r Calar feijão se limita com escrever
@@ -3971,7 +3813,7 @@ item.
 
 No verso 13, o termo "imastigável" funciona como complemento nominal de "grão".
 
-Item. 10. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
+10. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
 
 Candeia era quase nada. Não tinha mais que vinte casas mortas, uma igrejinha velha, um resto de
 praça. Algumas construções nem sequer tinham telhado; outras, invadidas pelo
@@ -3991,7 +3833,7 @@ d) classificado como indeterminado.
 
 e) oculto e se refere ao período "Nem o ar tinha esperança de ser vento" (L. 3).
 
-Item. 11. (CEBRASPE / PGE-PE / Analista Judiciário de Procuradoria / 2019)
+11. (CEBRASPE / PGE-PE / Analista Judiciário de Procuradoria / 2019)
 
 ... é difícil dizer se a maior turbulência depende de uma crise moral...
 
@@ -3999,8 +3841,7 @@ Todo o trecho subsequente ao termo "difícil" funciona como complemento desse te
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 12. (CEBRASPE / PRF-Policial - 2019)
+12. (CEBRASPE / PRF-Policial - 2019)
 
 Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em razão
 de atividades do trabalho humano. Os processos de produção dos objetos que nos cercam
@@ -4011,7 +3852,7 @@ No trecho "Os processos de produção dos objetos que nos cercam movimentam rela
 diversas entre os indivíduos", o sujeito da forma verbal "cercam" é "Os processos de produção
 dos objetos".
 
-Item. 13. (CEBRASPE / CAGE-RS-Auditor Fiscal - 2018)
+13. (CEBRASPE / CAGE-RS-Auditor Fiscal - 2018)
 
 Por outro lado, a substituição dos tributos indiretos, que atingem o fluxo econômico, por tributos
 que incidam sobre o estoque da riqueza tem o mérito de criar maior
@@ -4022,7 +3863,7 @@ riqueza.
 O sujeito da forma verbal "incidam", na linha 2 do texto 1A10AAA, é
 a) oculto. b) composto. c) indeterminado. d) inexistente. e) simples.
 
-Item. 14. (CEBRASPE/CGM-JOÃO PESSOA-2018)
+14. (CEBRASPE/CGM-JOÃO PESSOA-2018)
 
 Agora, se eu dou um jeito nos meus impostos porque o delegado da receita federal é
 meu
@@ -4032,7 +3873,7 @@ Em "temos o 'jeitinho' virando corrupção", os termos 'jeitinho' e "corrupção
 como
 complementos diretos da forma verbal "temos".
 
-Item. 15. (CEBRASPE/IHBDF/2018)
+15. (CEBRASPE/IHBDF/2018)
 
 Quase sempre, condutores, técnicos de enfermagem, enfermeiros e médicos saem em disparada,
 ambulância cortando o trânsito, sirenes ligadas, para atender a alguém que nunca viram.
@@ -4043,7 +3884,7 @@ pequeno em um serviço que só funciona se apoiado em seu princípio maior: a t�
 Os termos "um amigo" e "preparados" exercem a mesma função sintática nos períodos em que
 se inserem.
 
-Item. 16. (CEBRASPE / STM /ANALISTA/ 2018)
+16. (CEBRASPE / STM /ANALISTA/ 2018)
 
 Trata-se de uma visão revolucionária, já que o convencional era fazer o elogio da harmonia e da
 unidade.
@@ -4055,8 +3896,7 @@ do texto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 17. (CEBRASPE / PC-SE / DELEGADO / 2018)
+17. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 Para que a atuação policial ocorra dentro dos parâmetros democráticos, é essencial que haja a
 implementação de um modelo de policiamento que corresponda aos preceitos constitucionais,
@@ -4066,7 +3906,7 @@ promovendo-se o equilíbrio entre os pressupostos de liberdade e segurança.
 de
 qualificar o adjetivo que a antecede: "essencial" (£.2).
 
-Item. 18. (CEBRASPE / STM /ANALISTA/ 2018)
+18. (CEBRASPE / STM /ANALISTA/ 2018)
 
 A liderança é uma questão de redução da incerteza do grupo, e o comportamento pelo qual se
 consegue essa redução é a escolha, a tomada de decisão.
@@ -4074,7 +3914,7 @@ consegue essa redução é a escolha, a tomada de decisão.
 No período "A liderança (...) tomada de decisão", a expressão "A liderança" exerce a função de
 sujeito da forma verbal "é" em suas duas ocorrências.
 
-Item. 19. (CEBRASPE / SEFAZ RS / ASSISTENTE / 2018)
+19. (CEBRASPE / SEFAZ RS / ASSISTENTE / 2018)
 
 No período "A necessidade de guardar as moedas em segurança fez surgirem os bancos", do
 texto 1A1-II, o termo "os bancos" funciona como
@@ -4089,7 +3929,7 @@ D) complemento de "surgirem".
 
 E) adjunto adverbial de lugar.
 
-Item. 20. (CEBRASPE / SEFAZ-RS / ASSISTENTE / 2018)
+20. (CEBRASPE / SEFAZ-RS / ASSISTENTE / 2018)
 
 Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. São
 universais, ou seja, são aplicados de forma igual e sem discriminação a todas as pessoas. São
@@ -4108,18 +3948,17 @@ d) "seus direitos humanos" (I.3).
 
 e) "Os direitos humanos" (1.1).
 
-Item. 21. (CEBRASPE/STM/ANALISTA/2018)
+21. (CEBRASPE/STM/ANALISTA/2018)
 
 Porém, esta suprema máxima não pode ser utilizada como desculpa universal que a todos nos
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 absolveria de juízos coxos e opiniões mancas.
 
 O termo "a todos" exerce a função de complemento indireto da forma verbal "absolveria".
 
-Item. 22. (CEBRASPE / STM / ANALISTA / 2018)
+22. (CEBRASPE / STM / ANALISTA / 2018)
 
 ...a sageza e prudência de não acreditar cegamente naquilo que supõe saber, que daí é que vêm
 os enganos piores, não da ignorância.
@@ -4127,13 +3966,13 @@ os enganos piores, não da ignorância.
 O vocábulo "daí" e a expressão "da ignorância" exercem a mesma função sintática no período
 em que ocorrem.
 
-Item. 23. (CEBRASPE / MPE PI / ANALISTA / 2018)
+23. (CEBRASPE / MPE PI / ANALISTA / 2018)
 
 Já houve acusados que se declararam culpados de crimes que não cometeram.
 
 O sujeito da forma verbal "cometeram" é indeterminado.
 
-Item. 24. (CEBRASPE / PC-SE / DELEGADO / 2018)
+24. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
 A unidade surgiu como delegacia especializada em setembro de 2004. Agentes e delegados de
 atendimento a grupos vulneráveis realizam atendimento às vítimas, centralizam procedimentos
@@ -4143,7 +3982,7 @@ e termos circunstanciados e fazem investigações de queixas.
 Os termos "a crimes contra o público" e "de queixas" complementam, respectivamente, os
 termos "relativos" e "investigações".
 
-Item. 25. (CEBRASPE/MPU/ANALISTA/2018)
+25. (CEBRASPE/MPU/ANALISTA/2018)
 
 buscando-se o aprofundamento da democracia e a garantia da justiça de gênero, da igualdade
 racial e dos direitos humanos
@@ -4151,10 +3990,9 @@ racial e dos direitos humanos
 Os termos "de gênero", "da igualdade racial" e "dos direitos humanos" complementam a
 palavra "justiça".
 
-Item. 26. (CEBRASPE / TCM-BA / AUDITOR EST. / 2018)
+26. (CEBRASPE / TCM-BA / AUDITOR EST. / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 i Após meses de sofrimento e solidão chega o correio:
 
@@ -4188,7 +4026,7 @@ Nos trechos "chega o correio" (£.1), "Fecha a casa" (£.14) e "espera surpresa"
 os
 elementos "correio", "casa" e "surpresa" exercem a mesma função sintática.
 
-Item. 27. (CEBRASPE / PC-MA / ESCRIVÃO / 2018)
+27. (CEBRASPE / PC-MA / ESCRIVÃO / 2018)
 
 Se, nos Estados Unidos da América, surgem mais e mais casos de assédio sexual em
 ambientes profissionais — como os que envolvem produtores e atores de cinema—, no Brasil, o
@@ -4222,16 +4060,15 @@ D) "chantagem de um superior sobre um subordinado" (L. 12).
 
 E) "queixas de assédio" (L.9-10).
 
-Item. 28. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
+28. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Destaca-se como a principal diferença o efeito que cada instrumento busca neutralizar
 
 O sujeito da oração iniciada por "Destaca-se" é indeterminado, portanto não está expresso.
 
-Item. 29. (CEBRASPE / IHBDF / 2018)
+29. (CEBRASPE / IHBDF / 2018)
 
 Exatos 35 anos antes de o presidente Fernando Henrique Cardoso sancionar a atual Lei
 de
@@ -4242,7 +4079,7 @@ No texto CG2A1DDD, o termo "a primeira LDB brasileira" exerce a função sintát
 
 A) sujeito. B) predicado. C) objeto direto. D) objeto indireto. E) adjunto adverbial.
 
-Item. 30. (CEBRASPE / IFF / 2018)
+30. (CEBRASPE / IFF / 2018)
 
 Vi terras por onde andaram os dozes pares de França, os heróis do meu Carlos Magno, lido e
 relido como história de Trancoso. Vi terras do sul, o mar Mediterrâneo, o mar da história, o mar
@@ -4255,7 +4092,7 @@ O trecho apresentado ("o mar da história, o mar dos gregos, dos egípcios, dos
 fenícios, dos
 romanos") é uma explicação do segundo — "o mar Mediterrâneo".
 
-Item. 31. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
+31. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Creio que o governo não é assim um negociante ganancioso que vende gêneros que possam
 trazer a destruição de vidas preciosas; e creio que não é, porquanto anda sempre zangado com
@@ -4265,27 +4102,25 @@ O sujeito elíptico da forma verbal "anda" retoma a expressão "um negociante ga
 
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. INCORRETA
 
-Item. 3. INCORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. INCORRETA
 
-Item. 5. INCORRETA
+6. INCORRETA
 
-Item. 6. INCORRETA
-
-Item. 7. INCORRETA
+7. INCORRETA
 
 8.
 
 9.
 
 10.
-
 
 12.
 
@@ -4355,5 +4190,4 @@ CORRETA
 INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

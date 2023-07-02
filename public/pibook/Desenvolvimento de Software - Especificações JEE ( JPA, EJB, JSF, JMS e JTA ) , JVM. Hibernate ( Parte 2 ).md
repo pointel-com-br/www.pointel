@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, JMS e JTA ) , JVM. Hibernate ( Parte 2 ).
-
+# Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, JMS e JTA ) , JVM. Hibernate ( Parte 2 ).
 
 Índice
 
@@ -24,9 +23,7 @@ Capítulo. Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, J
 10) Java EE - CDI e Injeção de Dependência - Teoria
 x
 
-
 /
-
 
 JAVA TRANSACTION API (JTA)
 
@@ -68,15 +65,13 @@ Driver JDBC. As interfaces mais importantes são User Transaction,
 Transaction Manager,
 Transaction, XA Resource e Xid.
 
-
 / 51
 
 /
 
-
 QUESTõES CoMENTADAS - JTA - MULTIBANCAS
 
-Item. 1. (CESPE - 2010 - TRE/BA - Analista de Sistemas) Em um sistema de transação
+1. (CESPE - 2010 - TRE/BA - Analista de Sistemas) Em um sistema de transação
 distribuído,
 o Java Transaction API (JTA) permite especificar um conjunto de interfaces
 entre o
@@ -98,7 +93,7 @@ Conforme vimos em aula, essa especificação contém um conjunto de interfaces
 para coordenar
 todas as partes envolvidas. Gabarito: C
 
-Item. 2. (CESPE - 2010 - TRE/BA - Analista de Sistemas) JTA pode ser
+2. (CESPE - 2010 - TRE/BA - Analista de Sistemas) JTA pode ser
 utilizado para o
 gerenciamento de transações distribuídas.
 
@@ -116,7 +111,7 @@ Transaction API
 
 Conforme vimos em aula, é exatamente essa a função dele! Gabarito: C
 
-Item. 3. (FGV - 2009 - FGV - Analista de Sistemas - B) JTA é uma API da linguagem
+3. (FGV - 2009 - FGV - Analista de Sistemas - B) JTA é uma API da linguagem
 Java que
 permite a componentes baseados em Java/J2EE criar, enviar, receber e ler mensagens.
 
@@ -126,13 +121,11 @@ Não, essa questão tenta confundir JTA e JMS! Gabarito: E
 
 x' 4
 
-
 / 51
 
 /
 
-
-Item. 4. (FUMARC - 2011 - BDMG - Analista de Sistemas - III) JTA é uma API que padroniza o
+4. (FUMARC - 2011 - BDMG - Analista de Sistemas - III) JTA é uma API que padroniza o
 tratamento de transações dentro de uma aplicação Java.
 
 Comentários:
@@ -151,48 +144,43 @@ Conforme vimos em aula, ele de fato padroniza o tratamento de transações
 dentro de uma
 Aplicação Java. Gabarito: C
 
-
 / 51
-
 
 LISTA DE QUESTõES - JTA - MULTIBANCAS
 
-Item. 1. (CESPE - 2010 - TRE/BA - Analista de Sistemas) Em um sistema de transação
+1. (CESPE - 2010 - TRE/BA - Analista de Sistemas) Em um sistema de transação
 distribuído,
 o Java Transaction API (JTA) permite especificar um conjunto de interfaces
 entre o
 gerenciador de transações e as partes envolvidas.
 
-Item. 2. (CESPE - 2010 - TRE/BA - Analista de Sistemas) JTA pode ser
+2. (CESPE - 2010 - TRE/BA - Analista de Sistemas) JTA pode ser
 utilizado para o
 gerenciamento de transações distribuídas.
 
-Item. 3. (FGV - 2009 - FGV - Analista de Sistemas - B) JTA é uma API da linguagem
+3. (FGV - 2009 - FGV - Analista de Sistemas - B) JTA é uma API da linguagem
 Java que
 permite a componentes baseados em Java/J2EE criar, enviar, receber e ler mensagens.
 
-Item. 4. (FUMARC - 2011 - BDMG - Analista de Sistemas - III) JTA é uma API que
+4. (FUMARC - 2011 - BDMG - Analista de Sistemas - III) JTA é uma API que
 padroniza o
 tratamento de transações dentro de uma aplicação Java.
-
 
 / 51
 
 /
 
-
 GABARITo
 
 GABARITO
 
-Item. 1. c
+1. c
 
-Item. 2. C
+2. C
 
-Item. 3. E
+3. E
 
-Item. 4. C
-
+4. C
 
 JAVA MESSACE SERVICE (JMS)
 
@@ -252,11 +240,9 @@ para receber as mensagens enviadas para essa fila. Há um relacionamento um-para
 (Unicast)
 entre o cliente emissor e o cliente receptor.
 
-
 / 51
 
 /
-
 
 Nesse caso, apenas um receptor irá ler a mensagem. Como se trata de uma
 comunicação
@@ -303,13 +289,11 @@ mensagens. Qualquer aplicação Java EE pode ser um cliente.
 * Mensagem: trata-se dos objetos que comunicam informações entre Clientes JMS - os dados
 em si.
 
-
 , 51
-
 
 QUESTõES CoMENTADAS - JMS - MULTIBANCAS
 
-Item. 1. (CESGRANRIO - 2013 - BNDES - Profissional Básico - Análise de Sistemas - Suporte)
+1. (CESGRANRIO - 2013 - BNDES - Profissional Básico - Análise de Sistemas - Suporte)
 Java
 Message Service (JMS) é uma tecnologia voltada para o envio e processamento de mensagens
 na qual o
@@ -351,13 +335,11 @@ mensagens: ponto-a-ponto e publish/subscribe. No primeiro caso, cada mensagem
 enviada
 para uma fila deve ser recebida por um único consumidor (Unicast). Gabarito: A
 
-
 / 51
 
 /
 
-
-Item. 2. (CESGRANRIO - 2006 - PETROBRÁS - Analista de Sistemas - D) Para se garantir a entrega de
+2. (CESGRANRIO - 2006 - PETROBRÁS - Analista de Sistemas - D) Para se garantir a entrega de
 uma mensagem para um único destinatário, o modelo de troca de mensagens publish/subscribe
 do JMS com o modo de entrega persistente e um assinante durável é mais indicado, enquanto
 que se a mensagem for para vários destinatários, pode-se utilizar o modelo ponto a ponto do
@@ -387,7 +369,7 @@ Conforme vimos em aula, a questão está invertida! O Modelo Publish/Subscribe
 é um-para-
 muitos (Multicast) e o Modelo Ponto-a-Ponto é um-para-um (Unicast). Gabarito: E
 
-Item. 3. (CESPE - 2010 - SERPRO - Analista de Sistemas) A API JMS é usada para a
+3. (CESPE - 2010 - SERPRO - Analista de Sistemas) A API JMS é usada para a
 construção de
 sistemas de mensageria na plataforma JEE, sendo algumas de suas características relevantes a
 assincronia das mensagens, a arquitetura peer-to-peer e o suporte ao estilo de
@@ -408,15 +390,13 @@ integrada
 
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
-
 / 51
 
 /
 
-
 LISTA DE QUESTõES -JMS - MULTIBANCAS
 
-Item. 1. (CESGRANRIO - 2013 - BNDES - Profissional Básico - Análise de Sistemas - Suporte)
+1. (CESGRANRIO - 2013 - BNDES - Profissional Básico - Análise de Sistemas - Suporte)
 Java
 Message Service (JMS) é uma tecnologia voltada para o envio e processamento de mensagens
 na qual o
@@ -440,36 +420,32 @@ mensagem em multicast, enquanto o conceito de filas de mensagens é usado no
 modelo
 publish/subscribe para o envio de uma mensagem para no máximo um consumidor.
 
-Item. 2. (CESGRANRIO - 2006 - PETROBRÁS - Analista de Sistemas - D) Para se garantir a entrega de
+2. (CESGRANRIO - 2006 - PETROBRÁS - Analista de Sistemas - D) Para se garantir a entrega de
 uma mensagem para um único destinatário, o modelo de troca de mensagens publish/subscribe
 do JMS com o modo de entrega persistente e um assinante durável é mais indicado, enquanto
 que se a mensagem for para vários destinatários, pode-se utilizar o modelo ponto a ponto do
 JMS com um modo de entrega persistente.
 
-Item. 3. (CESPE - 2010 - SERPRO - Analista de Sistemas) A API JMS é usada para a
+3. (CESPE - 2010 - SERPRO - Analista de Sistemas) A API JMS é usada para a
 construção de
 sistemas de mensageria na plataforma JEE, sendo algumas de suas características relevantes a
 assincronia das mensagens, a arquitetura peer-to-peer e o suporte ao estilo de
 mensageria
 publish-subscribe.
 
-
 /
-
 
 GABARITo
 
 GABARITO
 
-Item. 1. A
+1. A
 
-Item. 2. E
+2. E
 
-Item. 3. C
-
+3. C
 
 /
-
 
 Enterprise JavaBeans (EJB) é uma arquitetura para aplicações corporativas orientada à transação e
 baseada em componentes. Além de uma arquitetura, eles são também componentes server-side
@@ -528,7 +504,7 @@ mais.
 Um conjunto de anotações semelhante é fornecido para Web services pela especificação
 JAX-WS
 
-Item. 2.0. Em geral, anotações são usadas para gerar artefatos; outras para documentar o
+2.0. Em geral, anotações são usadas para gerar artefatos; outras para documentar o
 código; outras
 mapeiam classes Java para XML; outras mapeiam classes Java para bancos de
 dados; outras
@@ -539,11 +515,9 @@ lógica de
 negócio sob uma única interface - e o EJB é o núcleo da Tecnologia Java
 EE. Bem, esse
 
-
 / 51
 
 /
-
 
 componente é executado no Container EJB de um Servidor de Aplicação! Professor, o que
 tem
@@ -552,7 +526,6 @@ simplificado de
 aplicações complexas.
 
 LOCAL CONTÊINER COMPONENTE
-
 
 CLIENTE Aplicação Cliente
 Applet
@@ -602,9 +575,7 @@ EJB. Não precisa implementar nenhuma
 programação ou serviço em nível de sistema, tais como transações ou segurança, pois isso é
 oferecido pelo Container EJB.
 
-
 /
-
 
 OBJETIVOS GERAIS DA ARQUITETURA EJB
 
@@ -638,11 +609,9 @@ componentes do Java EE, bem como aplicações de outras linguagens (não Java).
 A Arquitetura EJB será compatível com as plataformas de servidores existentes.
 Fornecedores serão capazes de estender seus produtos para apoiar EJBs.
 
-
 / 51
 
 /
-
 
 A Arquitetura EJB será compatível com outras APIs da linguagem de programação
 Java.
@@ -674,11 +643,9 @@ camada Web.
 Chamadas assíncronas a métodos - Uma alternativa simplificada à MDBs para
 chamada assíncrona que pode ser utilizada em cenários menos complexos.
 
-
 / 51
 
 /
-
 
 Nomes JNDI globais padronizados - Esse recurso facilita ainda mais a
 portabilidade.
@@ -727,11 +694,9 @@ Um Contêiner EJB provê um ambiente de execução escalável para executar um g
 de MDBs concorrentemente. Eles podem ser Stateless, apenas. Ademais, devem ser
 invocados
 
-
 / 51
 
 /
-
 
 por meio de programação por um cliente local ou remoto. Como são não-persistentes, o
 cliente
@@ -765,9 +730,9 @@ manter o Bean. Eles podem ter variáveis de instância armazenadas em um pool, n
 entanto
 elas serão compartilhadas por vários usuários (entretanto, não de forma concorrente).
 
-Item. 1. Dependency injection, if any
+1. Dependency injection, if any
 
-Item. 2. PostConstruct callbacks, if any
+2. PostConstruct callbacks, if any
 
 PreDestroy callbacks, if any
 
@@ -787,30 +752,27 @@ simultâneas ou transações. Aqui as variáveis de instância representam o est
 sessão.
 Decorem isso: são objetos que mantém o estado entre as chamadas de métodos.
 
-
 / 51
 
+1. Create
 
-Item. 1. Create
+2. Dependency injection, if any
 
-Item. 2. Dependency injection, if any
+3. PostConstruct callback, if any
 
-Item. 3. PostConstruct callback, if any
-
-Item. 4. Init method, or ejbCreate<MÉTHOD>,
+4. Init method, or ejbCreate<MÉTHOD>,
 
 if any PrePassivate
 
 I callback, if any
 
-
 Does Not F
 
 Exist I
 
-Item. 1. Remove
+1. Remove
 
-Item. 2. PreDestroy callback, if any
+2. PreDestroy callback, if any
 
 Ready
 
@@ -835,9 +797,9 @@ Enterprise Bean é
 compartilhado e acesso por vários clientes. Percebam que ele também nunca entra em modo
 passivo para economizar recursos - assim como os Stateless Session Beans.
 
-Item. 1. Dependency injection, if any
+1. Dependency injection, if any
 
-Item. 2. PostConstruct callbacks, if any
+2. PostConstruct callbacks, if any
 
 | Ready
 L
@@ -870,11 +832,9 @@ teste unitário. Ademais, se eu faço uma estrutura fracamente acoplada entre cl
 módulos,
 pode-se ganhar em extensibilidade e reusabilidade.
 
-
 / 51
 
 /
-
 
 Basicamente, pode-se implementar a Injeção de Dependência de três formas:
 injetam-se as
@@ -892,15 +852,13 @@ componentes Java EE, tais como EJB Session Beans e JSF Managed Beans, sejam inje
 e
 interajam de uma maneira fracamente acoplada e flexível, iniciando e observando eventos.
 
-
 / 51
 
 /
 
-
 QUESTõES CoMENTADAS - EJB - MULTIBANCAS
 
-Item. 1. (FCC - 2011 - TRT/19 - Analista de Sistemas) Tipo de session bean EJB 3.1 cujas instâncias não
+1. (FCC - 2011 - TRT/19 - Analista de Sistemas) Tipo de session bean EJB 3.1 cujas instâncias não
 têm estado conversacional, isto é, todas as instâncias são equivalentes quando não estão
 envolvidas em atender um método invocado pelo cliente. Trata-se de:
 
@@ -929,7 +887,7 @@ Conforme vimos em aula, são os Stateless Session Beans que não mantêm estado
 
 Gabarito: B
 
-Item. 2. (CESPE - 2005 - SERPRO - Analista de Sistemas) O Entrerprise JavaBeans (EJB),
+2. (CESPE - 2005 - SERPRO - Analista de Sistemas) O Entrerprise JavaBeans (EJB),
 cuja
 especificação mais recente é a da versão 2.1, define, em sistemas Java, um conjunto de
 tecnologias utilizadas do lado cliente.
@@ -948,11 +906,9 @@ fácil de acessar e simples de usar.
 
 LOCAL CONTÊINER COMPONENTE
 
-
 CLIENTE Aplicação Cliente Componentes de Aplicação
 
 Applet Applet
-
 
 SERVIDOR Web
 
@@ -967,7 +923,7 @@ Conforme vimos em aula, trata-se de um conjunto de tecnologias server-side, i.e.
 utilizada do lado
 do servidor. Gabarito: E
 
-Item. 3. (FCC - 2012 - TJ/PE - Analista de Sistemas - D) A especificação EJB 3, que é um subconjunto
+3. (FCC - 2012 - TJ/PE - Analista de Sistemas - D) A especificação EJB 3, que é um subconjunto
 da especificação Java EE, define anotações apenas para o tipo bean.
 
 Comentários:
@@ -984,7 +940,7 @@ mais.
 
 Conforme vimos em aula, não são apenas para o tipo Bean. Gabarito: E
 
-Item. 4. (CESPE - 2009 - TRE/BA - Analista de Sistemas) As tecnologias JPA e EJB permitem, com o uso
+4. (CESPE - 2009 - TRE/BA - Analista de Sistemas) As tecnologias JPA e EJB permitem, com o uso
 da linguagem Java, a manipulação de dados que estão em um banco de dados.
 
 Comentários:
@@ -1003,13 +959,11 @@ Conforme vimos em aula, ambos permitem a manipulação de dados que estão em um
 de
 dados. Atualmente, os Entity Beans são opcionais, mas continuam existindo! Gabarito: C
 
-
 / 51
 
 /
 
-
-Item. 5. (FCC - 2011 - TCE/PR - Analista de Sistemas) Sobre o Java EE 6 é correto afirmar:
+5. (FCC - 2011 - TCE/PR - Analista de Sistemas) Sobre o Java EE 6 é correto afirmar:
 
 a) Um message-driven bean encapsula a lógica de negócios e deve ser invocado por
 meio de
@@ -1059,11 +1013,9 @@ destinatário.
 
 x'
 
-
 / 51
 
 /
-
 
 Um Session Bean encapsula a lógica de negócio que pode ser invocada programaticamente
 por
@@ -1091,7 +1043,7 @@ interajam de uma maneira fracamente acoplada e flexível, iniciando e observando
 dito "fracamente
 acoplada", assim não geraria ambiguidades. Gabarito: C
 
-Item. 6. (CESPE - 2009 - TRE/PA - Analista de Sistemas) O EJB (Enterprise JavaBeans) é responsável por
+6. (CESPE - 2009 - TRE/PA - Analista de Sistemas) O EJB (Enterprise JavaBeans) é responsável por
 aspectos de apresentação e tratamento de eventos.
 
 Comentários:
@@ -1102,7 +1054,6 @@ CLIENTE Aplicação Cliente Componentes de Aplicação
 
 Applet Applet
 
-
 SERVIDOR Web
 
 Java Servlet
@@ -1112,15 +1063,13 @@ JavaServer Faces (JSF)
 
 EJB Enterprise Beans
 
-
 , 51
-
 
 Conforme podemos ver na tabela, apresentação e tratamento de eventos
 são tipicamente
 responsabilidades de JSP e Servlets. Gabarito: E
 
-Item. 7. (FCC - 2011 - TRT - 23a REGIÃO (MT) - Técnico Judiciário - Tecnologia da Informação) No JEE 6
+7. (FCC - 2011 - TRT - 23a REGIÃO (MT) - Técnico Judiciário - Tecnologia da Informação) No JEE 6
 é a especificação que tem como propósito unir os modelos de componentes do JSF Managed-
 Beans com o EJB, proporcionando um modelo de fácil implementação para aplicações web:
 
@@ -1146,7 +1095,7 @@ interajam de uma maneira acoplada flexível, iniciando e observando eventos.
 
 Conforme vimos em aula, trata-se do CDI! Gabarito: A
 
-Item. 8. (CESPE - 2009 - TRT/21 - Analista de Sistemas) Na implementação de projeto
+8. (CESPE - 2009 - TRT/21 - Analista de Sistemas) Na implementação de projeto
 corporativo de
 comércio eletrônico construído na plataforma J2EE, a lógica do negócio poderá ser encapsulada
 em EJBs (Enterprise JavaBeans).
@@ -1165,7 +1114,7 @@ e distribuídas.
 
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
-Item. 9. (ESAF - 2012 - CGU - Analista de Sistemas) Os serviços de gerenciamento,
+9. (ESAF - 2012 - CGU - Analista de Sistemas) Os serviços de gerenciamento,
 oferecidos pelo
 contêiner EJB (Enterprise JavaBeans), são de:
 
@@ -1173,11 +1122,9 @@ a) Transações. Persistência. Ciclo de Vida. Segurança.
 
 b) Transições. Pertinência. Ciclo de Vida. Risco
 
-
 / 51
 
 /
-
 
 c) Transformações. Persistência. Ciclo de Projeto. Segurança.
 
@@ -1202,7 +1149,7 @@ e Segurança.
 
 Gabarito: A
 
-Item. 10. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - A) A camada EJB hospeda, entre outros,
+10. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - A) A camada EJB hospeda, entre outros,
 os beans de entidade, os beans de transporte, os objetos de acesso aos dados e os objetos de
 valor.
 
@@ -1236,11 +1183,9 @@ EE. Bem, esse
 componente é executado no Container EJB de um Servidor de Aplicação! Professor, o que
 tem
 
-
 / 51
 
 /
-
 
 de tão especial nessa tecnologia? Cara, ela permite o desenvolvimento rápido e
 simplificado de
@@ -1248,7 +1193,7 @@ aplicações complexas.
 
 Conforme vimos em aula, a questão está perfeita! Gabarito: C
 
-Item. 12. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - C) A camada EJB não hospeda os serviços
+12. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - C) A camada EJB não hospeda os serviços
 em nível de sistema como o gerenciamento de transações, o controle de concorrência e a
 segurança.
 
@@ -1284,18 +1229,16 @@ jar.xml.
 
 Conforme vimos em aula, o item está perfeito! Gabarito: C
 
-Item. 14. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - D) Os beans corporativos e seus respectivos
+14. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - D) Os beans corporativos e seus respectivos
 recipientes de acompanhamento são executados no cliente JEE.
 
 Comentários:
 
 LOCAL CONTÊINER COMPONENTE
 
-
 CLIENTE Aplicação Cliente Componentes de Aplicação
 
 Applet Applet
-
 
 SERVIDOR Web
 
@@ -1327,12 +1270,12 @@ Message-driven Beans e
 Session Beans:
 
 Conforme vimos em aula, ainda existem três tipos fundamentais, mas - a partir do EJB
-Item. 3.1 - os
+3.1 - os
 Entity Beans foram substituídos pelo JPA (e, hoje, são mantidos como opcionais por
 questão de
 compatibilidade). Gabarito: C
 
-Item. 16. (CESPE-2010-TCU - Analista de Sistemas) A tecnologia EJB (enterprise Java beans) apresenta,
+16. (CESPE-2010-TCU - Analista de Sistemas) A tecnologia EJB (enterprise Java beans) apresenta,
 na sua versão 3.1, melhorias que propiciam facilidades para o uso de beans singleton
 e que
 permitem o uso de beans de uma classe, sem necessidade de desenvolvimento de sua interface
@@ -1340,9 +1283,7 @@ correspondente, e a invocação assíncrona de beans de sessão.
 
 Comentários:
 
-
 /
-
 
 NOVIDADES DO EJB 3.1
 
@@ -1370,13 +1311,11 @@ Embeddable EJB - Possibilidade de executar EJBs no ambiente JavaSE.
 
 Conforme vimos em aula, todos estão perfeitos! Gabarito: C
 
-
 / 51
 
 /
 
-
-Item. 17. (CESGRANRIO - 2013 - BNDES - Analista de Sistemas) Cada tipo de enterprise bean passa por
+17. (CESGRANRIO - 2013 - BNDES - Analista de Sistemas) Cada tipo de enterprise bean passa por
 diferentes fases durante seu ciclo de vida. Um desses tipos possui um estado denominado
 Passivo. Quando um bean entra nesse estado, o container EJB o desloca da memória principal
 para a memória secundária. Qual tipo de bean se comporta dessa maneira?
@@ -1399,7 +1338,7 @@ memória principal para a memória secundária para economizar recursos.
 
 Conforme vimos em aula, trata-se do Stateful Session Bean. Gabarito: B
 
-Item. 18. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) Em uma aplicação J2EE típica, um EJB é
+18. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) Em uma aplicação J2EE típica, um EJB é
 criado, controlado e destruído pela aplicação cliente.
 
 Comentários:
@@ -1416,11 +1355,9 @@ controle de concorrência, etc. Vejamos:
 
 LOCAL CONTÊINER COMPONENTE
 
-
 CLIENTE Aplicação Cliente Componentes de Aplicação
 
 Applet Applet
-
 
 SERVIDOR Web
 
@@ -1435,7 +1372,7 @@ Conforme vimos em aula, o gerenciamento do ciclo de vida (Criação, Controle e
 Destruição de
 EJB) é de responsabilidade do Contêiner EJB. Gabarito: E
 
-Item. 19. (CESGRANRIO - 2009 - BNDES - Analista de Sistemas - C) Enterprise JavaBeans é um modelo
+19. (CESGRANRIO - 2009 - BNDES - Analista de Sistemas - C) Enterprise JavaBeans é um modelo
 de componentes padronizado, executado no lado do cliente e que facilita a construção de
 aplicações distribuídas robustas.
 
@@ -1465,13 +1402,11 @@ Conforme vimos em aula, trata-se de um modelo de componentes padronizado, no ent
 eles
 são server-side. Gabarito: E
 
-Item. 20. (CESPE - 2010 - TRT/21 - Analista de Sistemas) Na implementação de projeto corporativo de
+20. (CESPE - 2010 - TRT/21 - Analista de Sistemas) Na implementação de projeto corporativo de
 comércio eletrônico construído na plataforma J2EE, a lógica do negócio poderá ser encapsulada
 em EJBs (Enterprise JavaBeans).
 
-
 /
-
 
 Comentários:
 
@@ -1522,11 +1457,9 @@ CLIENTE Aplicação Cliente Componentes de Aplicação
 
 Applet Applet
 
-
 / 51
 
 /
-
 
 SERVIDOR Web
 
@@ -1553,7 +1486,7 @@ Contêiner Web. De fato, um Session Bean representa um único cliente dentro do
 servidor. Todos
 os itens estão perfeitos! Gabarito: A
 
-Item. 22. (CESPE - 2011 - MEC - Analista de Sistemas) A tecnologia EJB (Enterprise
+22. (CESPE - 2011 - MEC - Analista de Sistemas) A tecnologia EJB (Enterprise
 JavaBeans),
 arquitetura de componentes do lado do servidor, permite o desenvolvimento
 rápido e
@@ -1588,9 +1521,7 @@ Conforme vimos em aula, o item está perfeito! Gabarito: C
 23.(FUNCAB - 2010 - PRODAM-AM - Analista de TI - Desenvolvimento de Sistemas) Sejam as
 seguintes assertivas sobre os tipos de EJB existentes:
 
-
 /
-
 
 I Process beans são excelentes opções para a implementação da lógica do negócio, dos
 processos de negócio e dos fluxos de trabalho.
@@ -1646,15 +1577,13 @@ de negócio receber e tratar mensagens de forma assíncrona - geralmente,
 providas pelo JMS.
 Pode-se dizer que eles são executados após o recebimento de uma única mensagem do cliente.
 
-
 / 51
 
 /
 
-
 (II) Conforme vimos em aula, trata-se - na verdade - dos Message-driven Beans. Gabarito: B
 
-Item. 24. (CESPE - 2008 - TRT/5 - Analista de Sistemas) Enterprise JavaBeans são
+24. (CESPE - 2008 - TRT/5 - Analista de Sistemas) Enterprise JavaBeans são
 componentes de
 negócios em Java que são executados do lado do cliente.
 
@@ -1665,7 +1594,6 @@ LOCAL CONTÊINER COMPONENTE
 CLIENTE Aplicação Cliente Componentes de Aplicação
 
 Applet Applet
-
 
 SERVIDOR Web
 
@@ -1701,13 +1629,11 @@ Conforme vimos em aula, eles fazem parte do Java EE; são extremamente
 reusáveis; e são
 executados em Servidores de Aplicação - como o JBoss. Gabarito: C
 
-
 / 51
 
 /
 
-
-Item. 26. (CESPE-2006-CENSIPAM-Analista de Sistemas) Um EJB tem as seguintes características: um
+26. (CESPE-2006-CENSIPAM-Analista de Sistemas) Um EJB tem as seguintes características: um
 stateless session bean não pode ter variáveis de instância, pois não mantém informações de
 estado após um método ser executado por um cliente; em um stateful session bean as variáveis
 da instância representam o estado de uma sessão e o estado é mantido entre as chamadas aos
@@ -1726,7 +1652,7 @@ usuários (entretanto, não de forma concorrente).
 
 Conforme vimos em aula, eles podem - sim - ter variáveis de instância. Gabarito: E
 
-Item. 27. (COPEVE-UFAL - 2012 - ALGÁS - Analista de Tecnologia da Informação - IV) EJB é o nome dado
+27. (COPEVE-UFAL - 2012 - ALGÁS - Analista de Tecnologia da Informação - IV) EJB é o nome dado
 para o conjunto de soluções Web em Java, constituído por Servlets e JSP.
 
 Comentários:
@@ -1736,7 +1662,6 @@ LOCAL CONTÊINER COMPONENTE
 CLIENTE Aplicação Cliente Componentes de Aplicação
 
 Applet Applet
-
 
 SERVIDOR Web
 
@@ -1752,12 +1677,10 @@ Servlets e JPS.
 
 Gabarito: E
 
-Item. 28. (CESPE - 2008 - SERPRO - Analista - Desenvolvimento de Sistemas) A tecnologia Enterprise
+28. (CESPE - 2008 - SERPRO - Analista - Desenvolvimento de Sistemas) A tecnologia Enterprise
 JavaBeans (EJB) é uma arquitetura de componentes do tipo cliente que atua na plataforma J2EE.
 
-
 /
-
 
 Comentários:
 
@@ -1834,7 +1757,7 @@ de JSF!
 
 Gabarito: E
 
-Item. 32. (Instituto AOCP - 2013 - Colégio Pedro II - Técnico de Tecnologia da Informação) Muitos
+32. (Instituto AOCP - 2013 - Colégio Pedro II - Técnico de Tecnologia da Informação) Muitos
 sistemas
 corporativos são construídos seguindo a arquitetura definida pelo padrão Enterprise JavaBeans
 (EJB). Ao utilizar essa arquitetura, as aplicações ganham certos benefícios. Qual das alternativas
@@ -1859,11 +1782,9 @@ o servidor é
 inicializado e oferece serviços como: gerenciamento de ciclo de vida, geração
 de código,
 
-
 / 51
 
 /
-
 
 gerenciamento de persistência, gerenciamento de segurança, gerenciamento de
 transações,
@@ -1873,13 +1794,11 @@ Conforme vimos em aula, estão todos corretos - inclusive a remotabilidade, que 
 intrínseco ao
 componente. Gabarito: D
 
-
 /
-
 
 LISTA DE QUESTõES - EJB - MULTIBANCAS
 
-Item. 1. (FCC - 2011 - TRT/19 - Analista de Sistemas) Tipo de session bean EJB 3.1 cujas instâncias não
+1. (FCC - 2011 - TRT/19 - Analista de Sistemas) Tipo de session bean EJB 3.1 cujas instâncias não
 têm estado conversacional, isto é, todas as instâncias são equivalentes quando não estão
 envolvidas em atender um método invocado pelo cliente. Trata-se de:
 
@@ -1893,18 +1812,18 @@ d) Message driven.
 
 e) Entity.
 
-Item. 2. (CESPE - 2005 - SERPRO - Analista de Sistemas) O Entrerprise JavaBeans (EJB),
+2. (CESPE - 2005 - SERPRO - Analista de Sistemas) O Entrerprise JavaBeans (EJB),
 cuja
 especificação mais recente é a da versão 2.1, define, em sistemas Java, um conjunto de
 tecnologias utilizadas do lado cliente.
 
-Item. 3. (FCC - 2012 - TJ/PE - Analista de Sistemas - D) A especificação EJB 3, que é um subconjunto
+3. (FCC - 2012 - TJ/PE - Analista de Sistemas - D) A especificação EJB 3, que é um subconjunto
 da especificação Java EE, define anotações apenas para o tipo bean.
 
-Item. 4. (CESPE - 2009 - TRE/BA - Analista de Sistemas) As tecnologias JPA e EJB permitem, com o uso
+4. (CESPE - 2009 - TRE/BA - Analista de Sistemas) As tecnologias JPA e EJB permitem, com o uso
 da linguagem Java, a manipulação de dados que estão em um banco de dados.
 
-Item. 5. (FCC - 2011 - TCE/PR - Analista de Sistemas) Sobre o Java EE 6 é correto afirmar:
+5. (FCC - 2011 - TCE/PR - Analista de Sistemas) Sobre o Java EE 6 é correto afirmar:
 
 a) Um message-driven bean encapsula a lógica de negócios e deve ser invocado por meio
 de
@@ -1929,16 +1848,14 @@ e) Os Singleton Session Beans são utilizados na troca de mensagem JMS de forma
 assíncrona
 entre aplicações.
 
-
 / 51
 
 /
 
-
-Item. 6. (CESPE - 2009 - TRE/PA - Analista de Sistemas) O EJB (Enterprise JavaBeans) é responsável por
+6. (CESPE - 2009 - TRE/PA - Analista de Sistemas) O EJB (Enterprise JavaBeans) é responsável por
 aspectos de apresentação e tratamento de eventos.
 
-Item. 7. (FCC - 2011 - TRT - 23a REGIÃO (MT) - Técnico Judiciário - Tecnologia da Informação) No JEE 6
+7. (FCC - 2011 - TRT - 23a REGIÃO (MT) - Técnico Judiciário - Tecnologia da Informação) No JEE 6
 é a especificação que tem como propósito unir os modelos de componentes do JSF Managed-
 Beans com o EJB, proporcionando um modelo de fácil implementação para aplicações web:
 
@@ -1952,12 +1869,12 @@ d) Bibliotecas padrão para o JSP.
 
 e) Enterprise JavaBeans (EJB).
 
-Item. 8. (CESPE - 2009 - TRT/21 - Analista de Sistemas) Na implementação de projeto
+8. (CESPE - 2009 - TRT/21 - Analista de Sistemas) Na implementação de projeto
 corporativo de
 comércio eletrônico construído na plataforma J2EE, a lógica do negócio poderá ser encapsulada
 em EJBs (Enterprise JavaBeans).
 
-Item. 9. (ESAF - 2012 - CGU - Analista de Sistemas) Os serviços de gerenciamento,
+9. (ESAF - 2012 - CGU - Analista de Sistemas) Os serviços de gerenciamento,
 oferecidos pelo
 contêiner EJB (Enterprise JavaBeans), são de:
 
@@ -1970,24 +1887,22 @@ d) Transações. Comunicação. Ciclo de Vida. Mercado.
 
 e) Transações. Consistência. Fases. Segurança.
 
-Item. 10. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - A) A camada EJB hospeda, entre outros,
+10. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - A) A camada EJB hospeda, entre outros,
 os beans de entidade, os beans de transporte, os objetos de acesso aos dados e os objetos de
 valor.
 
-Item. 11. (FGV - 2013 - INEA/RJ - Analista de Sistemas - III) Um dos componentes da plataforma JEE é o
+11. (FGV - 2013 - INEA/RJ - Analista de Sistemas - III) Um dos componentes da plataforma JEE é o
 Enterprise JavaBeans (EJB), cujos os principais objetivos são fornecer um desenvolvimento
 rápido e simplificado de aplicações Java baseado em componentes distribuídos, transacionais,
 seguros e portáveis.
 
 x'
 
-
 / 51
 
 /
 
-
-Item. 12. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - C) A camada EJB não hospeda os serviços
+12. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - C) A camada EJB não hospeda os serviços
 em nível de sistema como o gerenciamento de transações, o controle de concorrência e a
 segurança.
 
@@ -1997,20 +1912,20 @@ localizado dentro de um arquivo Java Archive (JAR), permite que as propriedades 
 sejam mantidas fora do código Java e que o desenvolvedor do bean torne as informações sobre
 o bean disponíveis para o montador da aplicação e para o instalador do bean.
 
-Item. 14. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - D) Os beans corporativos e seus respectivos
+14. (CESPE - 2009 - CEHAP/PB - Analista de Sistemas - D) Os beans corporativos e seus respectivos
 recipientes de acompanhamento são executados no cliente JEE.
 
 15.(CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas - I) EJB fornece ao
 programador
 Java EE os seguintes tipos fundamentais: Entity Beans, Session Beans e Message Driven Beans.
 
-Item. 16. (CESPE-2010-TCU - Analista de Sistemas) A tecnologia EJB (enterprise Java beans) apresenta,
+16. (CESPE-2010-TCU - Analista de Sistemas) A tecnologia EJB (enterprise Java beans) apresenta,
 na sua versão 3.1, melhorias que propiciam facilidades para o uso de beans singleton
 e que
 permitem o uso de beans de uma classe, sem necessidade de desenvolvimento de sua interface
 correspondente, e a invocação assíncrona de beans de sessão.
 
-Item. 17. (CESGRANRIO - 2013 - BNDES - Analista de Sistemas) Cada tipo de enterprise bean passa por
+17. (CESGRANRIO - 2013 - BNDES - Analista de Sistemas) Cada tipo de enterprise bean passa por
 diferentes fases durante seu ciclo de vida. Um desses tipos possui um estado denominado
 Passivo. Quando um bean entra nesse estado, o container EJB o desloca da memória principal
 para a memória secundária. Qual tipo de bean se comporta dessa maneira?
@@ -2021,18 +1936,16 @@ c) Web Service Bean
 d) Singleton Session Bean
 e) Message-Driven Bean
 
-Item. 18. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) Em uma aplicação J2EE típica, um EJB é
+18. (CESPE - 2010 - TRE/MT - Analista de Sistemas - B) Em uma aplicação J2EE típica, um EJB é
 criado, controlado e destruído pela aplicação cliente.
-
 
 /
 
-
-Item. 19. (CESGRANRIO - 2009 - BNDES - Analista de Sistemas - C) Enterprise JavaBeans é um modelo
+19. (CESGRANRIO - 2009 - BNDES - Analista de Sistemas - C) Enterprise JavaBeans é um modelo
 de componentes padronizado, executado no lado do cliente e que facilita a construção de
 aplicações distribuídas robustas.
 
-Item. 20. (CESPE - 2010 - TRT/21 - Analista de Sistemas) Na implementação de projeto corporativo de
+20. (CESPE - 2010 - TRT/21 - Analista de Sistemas) Na implementação de projeto corporativo de
 comércio eletrônico construído na plataforma J2EE, a lógica do negócio poderá ser encapsulada
 em EJBs (Enterprise JavaBeans).
 
@@ -2063,7 +1976,7 @@ d) I e IV, apenas.
 
 e) III e IV, apenas.
 
-Item. 22. (CESPE - 2011 - MEC - Analista de Sistemas) A tecnologia EJB (Enterprise
+22. (CESPE - 2011 - MEC - Analista de Sistemas) A tecnologia EJB (Enterprise
 JavaBeans),
 arquitetura de componentes do lado do servidor, permite o desenvolvimento
 rápido e
@@ -2079,9 +1992,7 @@ processos de negócio e dos fluxos de trabalho.
 
 , <
 
-
 /
-
 
 II Entity beans representam os objetos persistentes em uma aplicação EJB.
 
@@ -2100,7 +2011,7 @@ d) Todas as assertivas são verdadeiras.
 
 e) Todas as assertivas são falsas.
 
-Item. 24. (CESPE - 2008 - TRT/5 - Analista de Sistemas) Enterprise JavaBeans são
+24. (CESPE - 2008 - TRT/5 - Analista de Sistemas) Enterprise JavaBeans são
 componentes de
 negócios em Java que são executados do lado do cliente.
 
@@ -2109,17 +2020,17 @@ parte
 integrante do Java Enterprise Edition e permite o desenvolvimento de componentes de software
 reutilizáveis e executáveis em servidores de aplicação, como, por exemplo, o JBoss.
 
-Item. 26. (CESPE - 2006-CENSIPAM - Analista de Sistemas) Um EJB tem as seguintes características: um
+26. (CESPE - 2006-CENSIPAM - Analista de Sistemas) Um EJB tem as seguintes características: um
 stateless session bean não pode ter variáveis de instância, pois não mantém informações de
 estado após um método ser executado por um cliente; em um stateful session bean as variáveis
 da instância representam o estado de uma sessão e o estado é mantido entre as chamadas aos
 métodos; um entity bean representa um objeto persistente que pode ser compartilhado por
 clientes, a persistência pode ser gerenciada pelo container ou pelo bean.
 
-Item. 27. (COPEVE-UFAL - 2012 - ALGÁS - Analista de Tecnologia da Informação - IV) EJB é o nome dado
+27. (COPEVE-UFAL - 2012 - ALGÁS - Analista de Tecnologia da Informação - IV) EJB é o nome dado
 para o conjunto de soluções Web em Java, constituído por Servlets e JSP.
 
-Item. 28. (CESPE - 2008 - SERPRO - Analista - Desenvolvimento de Sistemas) A tecnologia Enterprise
+28. (CESPE - 2008 - SERPRO - Analista - Desenvolvimento de Sistemas) A tecnologia Enterprise
 JavaBeans (EJB) é uma arquitetura de componentes do tipo cliente que atua na plataforma J2EE.
 
 29.(FUNCAB - 2010 - PRODAM-AM - Analista de TI - Desenvolvimento de Sistemas) Qual interface
@@ -2131,7 +2042,7 @@ c) javax.ejb.EJBObject
 d) javax.ejb.EntityBean
 e) javax.ejb.EJBMetaData.
 
-Item. 30. (CESPE - 2012 - PEFOCE - Perito Criminal - Análise de Sistemas) Em uma
+30. (CESPE - 2012 - PEFOCE - Perito Criminal - Análise de Sistemas) Em uma
 arquitetura JEE
 distribuída, um contêiner representa um ambiente de execução padronizado que fornece
 serviços específicos a determinado componente. Um contêiner EJB, por exemplo, destina-se a
@@ -2141,7 +2052,7 @@ funcionalidades que realizam a lógica de negócio e dados específicos de deter
 31.(FUMARC - 2012 - TJ-MG - Técnico Judiciário - Analista de Sistemas - II) EJB é um framework
 de componentes, baseado na arquitetura MVC, para construção de interfaces com usuário.
 
-Item. 32. (Instituto AOCP - 2013 - Colégio Pedro II - Técnico de Tecnologia da Informação) Muitos
+32. (Instituto AOCP - 2013 - Colégio Pedro II - Técnico de Tecnologia da Informação) Muitos
 sistemas
 corporativos são construídos seguindo a arquitetura definida pelo padrão Enterprise JavaBeans
 (EJB). Ao utilizar essa arquitetura, as aplicações ganham certos benefícios. Qual das alternativas
@@ -2157,51 +2068,47 @@ d) Transações, Persistência, Segurança, Remotabilidade.
 
 e) Remotabilidade, gerenciamento de telas, faces server.
 
-
 /
-
 
 GABARITo
 
 GABARITO
 
-Item. 1. B 12. E
-Item. 23. B
+1. B 12. E
+23. B
 
-Item. 2. E 13. C
-Item. 24. E
+2. E 13. C
+24. E
 
-Item. 3. E 14. E
-Item. 25. C
+3. E 14. E
+25. C
 
-Item. 4. C 15. C
-Item. 26. E
+4. C 15. C
+26. E
 
-Item. 5. C 16. C
-Item. 27. E
+5. C 16. C
+27. E
 
-Item. 6. E 17. B
-Item. 28. E
+6. E 17. B
+28. E
 
-Item. 7. A 18. E
-Item. 29. B
+7. A 18. E
+29. B
 
-Item. 8. C 19. E
-Item. 30. C
+8. C 19. E
+30. C
 
-Item. 9. A 20. C
-Item. 31. E
+9. A 20. C
+31. E
 
-Item. 10. E 21. A
-Item. 32. B
+10. E 21. A
+32. B
 
-Item. 11. C 22. C
+11. C 22. C
 
 , <
 
-
 /
-
 
 INVERSÃo DE CoNTRoLE E INJEçÃo DE DEPENDÊNCIA
 
@@ -2259,9 +2166,7 @@ interfaces e, não, para implementações. Como podemos fazer isso, professor? P
 Injeção
 de Dependências (não confundam, são conceitos independentes!).
 
-
 , 51
-
 
 VlhaViS
 
@@ -2307,11 +2212,9 @@ funciona
 como o builder), indicando qual interface desejamos que seja implementada. Ele criará a o objeto
 x'
 
-
 / 51
 
 /
-
 
 que implementa a interface e injeta essa dependência em outra classe. Em nosso caso,
 ele criará
@@ -2371,7 +2274,5 @@ Por exemplo, com CDI fica muito fácil construir uma aplicação web que acesse 
 de dados
 usando como persistência alguma especificação do JPA.
 
-
 , 51
-
 

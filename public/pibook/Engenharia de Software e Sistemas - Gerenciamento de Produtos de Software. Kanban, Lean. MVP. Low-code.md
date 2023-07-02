@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Gerenciamento de Produtos de Software. Kanban, Lean. MVP. Low-code.
-
+# Engenharia de Software e Sistemas - Gerenciamento de Produtos de Software. Kanban, Lean. MVP. Low-code.
 
 Índice
 
@@ -39,7 +38,6 @@ Capítulo. Engenharia de Software e Sistemas - Gerenciamento de Produtos de Soft
 
 18) Low-No-Code - Teoria
 
-
 APRESENTAçÃo
 
 O assunto da aula de hoje é: Metodologias Ágeis! Vamos ver agora um novo paradigma de
@@ -65,7 +63,6 @@ tempo sobrando e quer vertudo, vejam também as incidências baixas e baixíssim
 
 Além disso, essas faixas não são por banca - é baseado tanto na quantidade de vezes que caiu em
 prova independentemente da banca e também em minhas avaliações sobre cada assunto...
-
 
 #ATENÇÃO
 
@@ -105,11 +102,9 @@ que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
 completos, abrangentes e direcionados.
 
-
 QQ
 
 VIHVw. estra tegiaconcursos. com. br
-
 
 Conceitos Básicos
 
@@ -146,7 +141,6 @@ e falou
 que não faz mais tanto planejamento; e assim por diante. Então, no decorrer da
 reunião, foi sendo
 criado um consenso entre os participantes.
-
 
 Foi aí que alguns acharam que era o momento de formalizar e elevar aquela reunião em
 um patamar
@@ -273,7 +267,6 @@ com quatrocentos diagramas diferentes para representar o software. Tudo certo? E
 repetir,
 porque esse assunto cai bastante em prova!
 
-
 No ágil, documentação é descartável? Não, ela é útil para ajudar a comunicação e a
 colaboração dos
 integrantes da equipe, além de melhorar a transferência de conhecimento, preservar
@@ -341,7 +334,6 @@ demais. É tão bom que é recomendável refazer o planejamento a todo momento, 
 contínua e, não, fazer um planejamento estático e simplesmente segui-lo com
 todo rigor
 ignorando mudanças externas que venham a ocorrer. Fechou?
-
 
 Agilidade x Velocidade
 
@@ -446,7 +438,6 @@ valorizam mais o planejamento de todos os aspectos do processo de desenvolviment
 software
 como um todo.
 
-
 Princípios Ágeis
 
 INCIDÊNCIA EM PROVA: ALTA
@@ -475,7 +466,6 @@ Pessoas de negócio e desenvolvedores devem trabalhar diariamente em conjunto po
 Construa projetos em torno de indivíduos motivados. Dê a eles o ambiente e o suporte necessário e
 confie neles
 para fazer o trabalho.
-
 
 O método mais eficiente e eficaz de transmitir informações para e entre uma equipe de
 desenvolvimento é através
@@ -543,14 +533,12 @@ projeto e
 o projeto em sua fase inicial. os detalhes são realizados durante o
 projeto. Não
 
-
 PLANEJAMENTO
 
 é necessário possuir um planejamento detalhado
 de todo o projeto. A restrição se dá apenas em
 possuir os detalhes do trabalho para a próxima
 iteração.
-
 
 Pode exigir um grande esforço e equipe para
 atuar com os riscos de todo o projeto.
@@ -560,7 +548,6 @@ principalmente nos riscos das próximas iterações,
 atuando assim em um escopo bem reduzido. A
 própria equipe atua com os riscos e pode obter
 apoio externo.
-
 
 EQUIPE
 
@@ -652,7 +639,6 @@ Conforme 0 tamanho da iteração e 0
 planejamento das releases para as entregas
 significativas.
 
-
 Detalhada desde o início do projeto.
 
 Nas fases iniciais e nas principais validações
@@ -694,7 +680,6 @@ priorização dos riscos.
 Melhor resultado em projetos cujo escopo é
 dinâmico e construído durante a execução do
 projeto.
-
 
 Método Ágil x Método Lean
 
@@ -750,7 +735,6 @@ informações e ter experiências para fortalecera tomada de decisão. Enfim, ga
 é o Método
 Lean!
 
-
 PRINCÍPIO #1
 
 PRINCÍPIO #2
@@ -768,7 +752,6 @@ Deve-se garantir que o conhecimento sobre o software seja criado durante
 o desenvolvimento, em vez de ter uma lista de requisitos e/ou um layout
 recomendando como deve ser o resultado da aplicação antes do início de
 seu desenvolvimento.
-
 
 PRINCÍPIO #3
 
@@ -839,13 +822,11 @@ PRINCÍPIOS
 FOCA NO PROCESSO DE... PADRONIZAÇÃO E CONFORMIDADE
 AUTOGERENCIAMENTO P/ MAXIMIZAR AUTONOMIA
 
-
 RESUMo
 
 ESTAMOS DESCOBRINDO MANEIRAS MELHORES DE DESENVOLVER SOFTWARE, FAZENDO-O NÓS MESMOS E AJUDANDO
 OUTROS A
 FAZEREM 0 MESMO. ATRAVÉS DESTE TRABALHO. PASSAMOS A VALORIZAR:
-
 
 INDIVÍDUOS E INTERAÇÕES
 SOFTWARE EM FUNCIONAMENTO
@@ -858,7 +839,6 @@ NEGOCIAÇÃO DE CONTRATOS
 SEGUIR UM PLANO
 
 OU SEJA, MESMO HAVENDO VALOR NOS ITENS À DIREITA, VALORIZAMOS MAIS OS ITENS À ESQUERDA.
-
 
 INDIVÍDUOS E ITERAÇÕES MAIS QUE
 PROCESSOS E FERRAMENTAS
@@ -911,7 +891,6 @@ AGILE MODELING
 OSSD SCRUMBAN
 BADM
 
-
 NÓS SEGUIMOS ESSES PRINCÍPIOS..
 
 Nossa maior prioridade é satisfazer o cliente através da entrega contínua e adiantada
@@ -945,7 +924,6 @@ devem ser capazes de manter um ritmo constante indefinidamente.
 Contínua atenção à excelência técnica e bom design aumenta a agilidade.
 Simplicidade-a arte de maximizara quantidade de trabalho não realizado-é essencial.
 
-
 As melhores arquiteturas, requisitos e designs emergem de equipes auto-organizáveis.
 
 Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e então
@@ -954,7 +932,6 @@ comportamento de acordo.
 
 CRITÉRIO MODELOS TRADICIONAIS
 MODELOS AGEIS
-
 
 PLANEJAMENTO
 
@@ -1073,7 +1050,6 @@ Conforme 0 tamanho da iteração e 0
 planejamento das releases para as entregas
 significativas.
 
-
 e podem ser traumáticas aos envolvidos
 quanto às suas expectativas.
 
@@ -1137,7 +1113,6 @@ AUTOGERENCIAMENTO P/ MAXIMIZAR AUTONOMIA
 
 Q) PARA MAIS DICAS: WWW.INSTA6RAM.COM/PROFESSORDIEGOCARVALHO
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) O modelo ágil não pode ser aplicado a qualquer processo
@@ -1160,7 +1135,7 @@ desenvolvimento rápido e, não, desenvolvimento ágil.
 
 Gabarito: Errado
 
-Item. 2. (CESPE / Petrobrás - 2022) Entre as principais características dos métodos ágeis,
+2. (CESPE / Petrobrás - 2022) Entre as principais características dos métodos ágeis,
 destacam-se
 a maximização da documentação formal e o envolvimento dos clientes.
 
@@ -1174,7 +1149,7 @@ abrangente, e sim em uma documentação mais enxuta.
 
 Gabarito: Errado
 
-Item. 3. (CESPE / TCE-ES - 2012) Em virtude de as metodologias ágeis
+3. (CESPE / TCE-ES - 2012) Em virtude de as metodologias ágeis
 gerarem excessiva
 documentação, a gestão do conhecimento depende diretamente dos
 programadores
@@ -1194,7 +1169,6 @@ excessiva documentação.
 
 Gabarito: Errado
 
-
 4- (CESPE/ EBC-2011) O que os métodos ágeis buscam é como evitaras mudanças desde o
 início
 do projeto e não a melhor maneira de tratar essas mudanças.
@@ -1209,7 +1183,7 @@ mesmo tardiamente no desenvolvimento.
 
 Gabarito: Errado
 
-Item. 5. (CESPE / BASA - 2010) Desenvolvimento ágil de software (Agile Software
+5. (CESPE / BASA - 2010) Desenvolvimento ágil de software (Agile Software
 Development) ou
 método ágil é aplicado, principalmente, a grandes corporações, uma vez que permite
 produzir
@@ -1231,7 +1205,7 @@ sim - produzir grandes sistemas de forma ágil.
 
 Gabarito: Errado
 
-Item. 6. (CESPE/TCU-2010)A agilidade não pode ser aplicada a todo e qualquer processo de software.
+6. (CESPE/TCU-2010)A agilidade não pode ser aplicada a todo e qualquer processo de software.
 
 Comentários:
 
@@ -1245,14 +1219,13 @@ possa eliminar tudo, exceto os artefatos essenciais, conservando-os enxutos.
 
 Gabarito: Errado
 
-Item. 7. (CESPE / UNIPAMPA - 2009) XP, Scrum e Cristal são exemplos de modelos
+7. (CESPE / UNIPAMPA - 2009) XP, Scrum e Cristal são exemplos de modelos
 ágeis de
 desenvolvimento de sistemas.
 
 Comentários:
 
 METODOLOGIAS ÁGEIS
-
 
 SCRÜM CRYSTAL
 XP
@@ -1275,7 +1248,7 @@ Todos são exemplos de metodologias ágeis (apesar do nome errado: Crystal e, n�
 
 Gabarito: Correto
 
-Item. 8. (CESPE / EBC - 2011) Considerando o conceito de metodologia ágil em apreço, é
+8. (CESPE / EBC - 2011) Considerando o conceito de metodologia ágil em apreço, é
 correto
 afirmar que as seguintes metodologias são ágeis: XP (Extreme Programming), Scrum,
 Crystal,
@@ -1308,7 +1281,7 @@ De fato, todas essas são exemplos de metodologias ágeis.
 
 Gabarito: Correto
 
-Item. 9. (CESPE / CNJ - 2013 O desenvolvimento ágil de sistemas consiste em uma linguagem
+9. (CESPE / CNJ - 2013 O desenvolvimento ágil de sistemas consiste em uma linguagem
 de
 modelagem que permite aos desenvolvedores visualizarem os produtos de seu
 trabalho em
@@ -1341,7 +1314,7 @@ de forma controlada. É o famoso: "Tempofixo, escopo variável".
 
 Gabarito: Correto
 
-Item. 11. (CESPE / MPOG - 2015) Metodologias de desenvolvimento ágil enfocam atividades de
+11. (CESPE / MPOG - 2015) Metodologias de desenvolvimento ágil enfocam atividades de
 projeto
 e implementação, desconsiderando as atividades de elicitação de requisitos e a produção
 de
@@ -1361,7 +1334,7 @@ há uma codificação não formal.
 
 Gabarito: Errado
 
-Item. 12. (CESPE / TRE-PI - 2008) No que se refere a métodos ágeis de desenvolvimento de
+12. (CESPE / TRE-PI - 2008) No que se refere a métodos ágeis de desenvolvimento de
 sistemas,
 assinale a opção correta.
 
@@ -1380,7 +1353,6 @@ usuários.
 d) A documentação de projeto deve ser feita pelo próprio desenvolvedor,
 seguindo padrões
 simplificados.
-
 
 e) Para atingir os objetivos de agilidade exigidos, os desenvolvedores devem
 seguir processos
@@ -1422,7 +1394,7 @@ métricas de agilidade que tivessem que ser atingidas.
 
 Gabarito: Letra A
 
-Item. 13. (CESPE / TCE-PR - 2016) Os métodos ágeis para o desenvolvimento de software
+13. (CESPE / TCE-PR - 2016) Os métodos ágeis para o desenvolvimento de software
 representam
 uma evolução da engenharia de software tradicional, uma vez que são aplicáveis a todos
 ostipos
@@ -1438,10 +1410,9 @@ em qualquer situação.
 
 Gabarito: Errado
 
-Item. 14. (CESPE / TCE-PR - 2016) Um dos princípios de agilidade da Agile Alliance dispõe
+14. (CESPE / TCE-PR - 2016) Um dos princípios de agilidade da Agile Alliance dispõe
 que a entrega
 completa de um software garante a satisfação do cliente.
-
 
 Comentários:
 
@@ -1479,7 +1450,7 @@ competitiva para o cliente.
 
 Gabarito: Correto
 
-Item. 17. (CESPEITRT17 - 2013) Em um desenvolvimento ágil que segue o manifesto ágil, não
+17. (CESPEITRT17 - 2013) Em um desenvolvimento ágil que segue o manifesto ágil, não
 se deve
 aceitar mudanças de requisitos, mesmo no fim do desenvolvimento. Processos ágeis não se
 adequam a mudanças não planejadas.
@@ -1506,7 +1477,6 @@ competitiva para o cliente.
 
 Gabarito: Correto
 
-
 QUESTõES CoMENTADAS - FCC
 
 í. (FCC / SEFAZ-AP - 2022) Dentre os doze Princípios do Manifesto Ágil, incluem-se:
@@ -1524,7 +1494,6 @@ e) especificidade, longevidade do software e prazos curtos.
 Comentários:
 
 Os 12 Princípios Ágeis
-
 
 Satisfaça o
 consumidor
@@ -1568,10 +1537,9 @@ e trabalho em conjunto.
 
 Gabarito: Letra A
 
-
 QUESTõES CoMENTADAS - FG V
 
-Item. 2. (FGV/ IMBEL-2021) Com referência aos valores do The Agile Manifesto, analise as afirmativas
+2. (FGV/ IMBEL-2021) Com referência aos valores do The Agile Manifesto, analise as afirmativas
 a seguir.
 
 I. Processos e ferramentas mais que indivíduos e interação entre eles.
@@ -1599,7 +1567,7 @@ Comentários:
 
 Gabarito: Letra B
 
-Item. 3. (FGV / MPE-MS- 2013) Considerando a caracterização de agilidade e processo de
+3. (FGV / MPE-MS- 2013) Considerando a caracterização de agilidade e processo de
 desenvolvimento ágil, segundo Pressman, analise as afirmativas a seguir.
 
 I. Um processo ágil de software deve ser incrementalmente adaptável.
@@ -1624,7 +1592,6 @@ e) se todas as afirmativas estiverem corretas.
 
 Comentários:
 
-
 (I) Correto, idealmente ele deve se adaptar de forma incremental; (II) Errado, a
 agilidade não tem
 relação com a facilidade da equipe de se moldar; (III) Errado, mas questão polêmica!
@@ -1637,7 +1604,7 @@ dessa forma, provêm métodos de se adaptar às mudanças rapidamente.
 
 Gabarito: Letra A
 
-Item. 4. (FGV / PGE-RO - 2015) Durante 5 anos gerenciando o desenvolvimento de
+4. (FGV / PGE-RO - 2015) Durante 5 anos gerenciando o desenvolvimento de
 sistemas de
 informação, Claudia teve que lidar com diversas insatisfações de seus usuários pois os
 sistemas
@@ -1689,7 +1656,6 @@ segunda opção.
 
 Gabarito: Letra B
 
-
 5- (FGV/ TJ-RO - 2015) O manifesto ágil tem por princípio que:
 
 a) mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento;
@@ -1727,7 +1693,7 @@ desenvolvimento.
 
 Gabarito: Letra A
 
-Item. 6. (FGV / TJ-GO - 2014) Escreva O Manifesto Ágil lista valores seguidos por
+6. (FGV / TJ-GO - 2014) Escreva O Manifesto Ágil lista valores seguidos por
 desenvolvedores com
 a finalidade de melhorar a maneira pela qual o software é desenvolvido. A alternativa
 que se
@@ -1743,7 +1709,6 @@ d) negociação de contratos mais que colaboração com o cliente;
 
 e) negociação de contratos mais que indivíduos e interações.
 
-
 Comentários:
 
 (i) Indivíduos e interações acima de processos e ferramentas; (2) Software em
@@ -1754,7 +1719,7 @@ contratos; (4) Respondera mudanças acima de seguirfielmente um plano.
 
 Gabarito: Letra B
 
-Item. 7. (FGV / Câmara Municipal de Caruaru-PE - 2015) O desenvolvimento ágil de software é
+7. (FGV / Câmara Municipal de Caruaru-PE - 2015) O desenvolvimento ágil de software é
 guiado
 por metodologias que compartilham um conjunto comum de valores e de princípios, conforme
 definido pelo Manifesto Ágil. Assinale a opção que indica um princípio do desenvolvimento ágil.
@@ -1793,14 +1758,13 @@ valor agregado.
 
 Gabarito: Letra B
 
-Item. 8. (FGV/ PROCEMPA-2014) O Manifesto Ágil é uma declaração de princípios que
+8. (FGV/ PROCEMPA-2014) O Manifesto Ágil é uma declaração de princípios que
 fundamentam
 o desenvolvimento ágil de software. A respeito desses princípios, assinale a afirmativa correta:
 
 a) As melhores arquiteturas, requisitos e designs emergem de equipes
 lideradas pelo
 profissional mais sênior.
-
 
 b) Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e
 então refina e
@@ -1828,7 +1792,7 @@ requisitos são bem-vindas, mesmo tardiamente no desenvolvimento.
 
 Gabarito: Letra B
 
-Item. 9. (FGV / DPE-RO - 2015) O Manifesto Ágil é uma declaração que reúne os princípios
+9. (FGV / DPE-RO - 2015) O Manifesto Ágil é uma declaração que reúne os princípios
 e práticas
 que fundamentam o desenvolvimento ágil de software. É um dos princípios desse manifesto:
 
@@ -1859,7 +1823,6 @@ agilidade; (d) Errado,
 patrocinadores, desenvolvedores e usuários devem ser capazes de manter um ritmo
 constante
 indefinidamente; (e) Correto.
-
 
 Gabarito: Letra E
 
@@ -1913,14 +1876,13 @@ construção mais que excelência técnica não é um dos valores do manifesto �
 
 Gabarito: Letra C
 
-Item. 12. (FGV/ AL-RO - 2018) Para o desenvolvimento do Sistema de Informações ao Cidadão
+12. (FGV/ AL-RO - 2018) Para o desenvolvimento do Sistema de Informações ao Cidadão
 (SIC), foi
 decidida a utilização de uma metodologia ágil. Segundo o Manifesto Ágil, esta decisão
 indica
 que foi dado maior valor:
 
 a) aos processos e ferramentas.
-
 
 b) à resposta a modificações.
 
@@ -1939,7 +1901,6 @@ negociação de
 contratos; (4) Responder a mudanças acima de seguir fielmente um plano.
 
 Gabarito: Letra B
-
 
 QUESTõES CoMENTADAS - FG V
 
@@ -1971,7 +1932,7 @@ Comentários:
 
 Gabarito: Letra B
 
-Item. 2. (FGV / MPE-MS- 2013) Considerando a caracterização de agilidade e processo de
+2. (FGV / MPE-MS- 2013) Considerando a caracterização de agilidade e processo de
 desenvolvimento ágil, segundo Pressman, analise as afirmativas a seguir.
 
 I. Um processo ágil de software deve ser incrementalmente adaptável.
@@ -1996,7 +1957,6 @@ e) se todas as afirmativas estiverem corretas.
 
 Comentários:
 
-
 (I) Correto, idealmente ele deve se adaptar de forma incremental; (II) Errado, a
 agilidade não tem
 relação com a facilidade da equipe de se moldar; (III) Errado, mas questão polêmica!
@@ -2009,7 +1969,7 @@ dessa forma, provêm métodos de se adaptar às mudanças rapidamente.
 
 Gabarito: Letra A
 
-Item. 3. (FGV / PGE-RO - 2015) Durante 5 anos gerenciando o desenvolvimento de
+3. (FGV / PGE-RO - 2015) Durante 5 anos gerenciando o desenvolvimento de
 sistemas de
 informação, Claudia teve que lidar com diversas insatisfações de seus usuários pois os
 sistemas
@@ -2061,7 +2021,6 @@ segunda opção.
 
 Gabarito: Letra B
 
-
 4- (FGV/ TJ-RO - 2015) O manifesto ágil tem por princípio que:
 
 a) mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento;
@@ -2099,7 +2058,7 @@ desenvolvimento.
 
 Gabarito: Letra A
 
-Item. 5. (FGV / TJ-GO - 2014) Escreva O Manifesto Ágil lista valores seguidos por
+5. (FGV / TJ-GO - 2014) Escreva O Manifesto Ágil lista valores seguidos por
 desenvolvedores com
 a finalidade de melhorar a maneira pela qual o software é desenvolvido. A alternativa
 que se
@@ -2115,7 +2074,6 @@ d) negociação de contratos mais que colaboração com o cliente;
 
 e) negociação de contratos mais que indivíduos e interações.
 
-
 Comentários:
 
 (i) Indivíduos e interações acima de processos e ferramentas; (2) Software em
@@ -2126,7 +2084,7 @@ contratos; (4) Respondera mudanças acima de seguirfielmente um plano.
 
 Gabarito: Letra B
 
-Item. 6. (FGV / Câmara Municipal de Caruaru-PE - 2015) O desenvolvimento ágil de software é
+6. (FGV / Câmara Municipal de Caruaru-PE - 2015) O desenvolvimento ágil de software é
 guiado
 por metodologias que compartilham um conjunto comum de valores e de princípios, conforme
 definido pelo Manifesto Ágil. Assinale a opção que indica um princípio do desenvolvimento ágil.
@@ -2165,14 +2123,13 @@ valor agregado.
 
 Gabarito: Letra B
 
-Item. 7. (FGV/ PROCEMPA-2014) O Manifesto Ágil é uma declaração de princípios que
+7. (FGV/ PROCEMPA-2014) O Manifesto Ágil é uma declaração de princípios que
 fundamentam
 o desenvolvimento ágil de software. A respeito desses princípios, assinale a afirmativa correta:
 
 a) As melhores arquiteturas, requisitos e designs emergem de equipes
 lideradas pelo
 profissional mais sênior.
-
 
 b) Em intervalos regulares, a equipe reflete sobre como se tornar mais eficaz e
 então refina e
@@ -2200,7 +2157,7 @@ requisitos são bem-vindas, mesmo tardiamente no desenvolvimento.
 
 Gabarito: Letra B
 
-Item. 8. (FGV / DPE-RO - 2015) O Manifesto Ágil é uma declaração que reúne os princípios
+8. (FGV / DPE-RO - 2015) O Manifesto Ágil é uma declaração que reúne os princípios
 e práticas
 que fundamentam o desenvolvimento ágil de software. É um dos princípios desse manifesto:
 
@@ -2232,10 +2189,9 @@ patrocinadores, desenvolvedores e usuários devem ser capazes de manter um ritmo
 constante
 indefinidamente; (e) Correto.
 
-
 Gabarito: Letra E
 
-Item. 9. (FGV / BANESTES - 2018) Um dos valores relacionados ao ambiente ágil de
+9. (FGV / BANESTES - 2018) Um dos valores relacionados ao ambiente ágil de
 desenvolvimento
 e:
 
@@ -2285,14 +2241,13 @@ construção mais que excelência técnica não é um dos valores do manifesto �
 
 Gabarito: Letra C
 
-Item. 11. (FGV/ AL-RO - 2018) Para o desenvolvimento do Sistema de Informações ao Cidadão
+11. (FGV/ AL-RO - 2018) Para o desenvolvimento do Sistema de Informações ao Cidadão
 (SIC), foi
 decidida a utilização de uma metodologia ágil. Segundo o Manifesto Ágil, esta decisão
 indica
 que foi dado maior valor:
 
 a) aos processos e ferramentas.
-
 
 b) à resposta a modificações.
 
@@ -2311,7 +2266,6 @@ negociação de
 contratos; (4) Responder a mudanças acima de seguir fielmente um plano.
 
 Gabarito: Letra B
-
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -2337,7 +2291,7 @@ responder a mudanças é mais valorizado que seguir um plano.
 
 Gabarito: Letra C
 
-Item. 2. (IESES/SCGás-2019) A filosofia por trás dos métodos ágeis é refletida no manifesto
+2. (IESES/SCGás-2019) A filosofia por trás dos métodos ágeis é refletida no manifesto
 ágil, que
 foi acordado por muitos dos principais desenvolvedores desses métodos. Assinale a
 alternativa
@@ -2374,7 +2328,6 @@ a mudanças do que seguir um plano. Ou seja, embora itens à direita sejam
 importantes,
 valorizamos mais os que estão à esquerda".
 
-
 d) "Estamos descobrindo melhores maneiras de vender softwares, fazendo-o e ajudando outros
 a fazê-lo. Através desse trabalho, valorizamos mais: Indivíduos e interações do que
 processos e
@@ -2396,7 +2349,7 @@ contratos; (4) Respondera mudanças acima de seguirfielmente um plano.
 
 Gabarito: Letra A
 
-Item. 3. (IESES /SCGás-2019) Identifique a opção correta para conceituar desenvolvimentos
+3. (IESES /SCGás-2019) Identifique a opção correta para conceituar desenvolvimentos
 ágeis ou,
 que caracterizam métodos ágeis:
 
@@ -2439,7 +2392,6 @@ feedback rápido sobre a evolução dos requisitos. Assim, minimiza-se a documen
 se
 utiliza mais a comunicação informal do que reuniões formais com documentos escritos.
 
-
 Comentários:
 
 (a) Errado, não são estáticos - são incrementais; (b) Correto; (c) Errado, não são
@@ -2452,7 +2404,7 @@ desenvolvedores participam no processo de concepção.
 
 Gabarito: Letra B
 
-Item. 4. (IESES / SCGás - 2019) Os processos de software podem ser categorizados como
+4. (IESES / SCGás - 2019) Os processos de software podem ser categorizados como
 dirigidos a
 planos ou processos ágeis. Considerando esta afirmação, assinale a afirmativa correta:
 
@@ -2496,7 +2448,7 @@ dos processos
 
 Gabarito: Letra B
 
-Item. 5. (INSTITUTO AOCP / EMPREL- 2019) E m se tratando de desenvolvimento de software, o
+5. (INSTITUTO AOCP / EMPREL- 2019) E m se tratando de desenvolvimento de software, o
 termo qualidade é bastante subjetivo. Entretanto, no desenvolvimento ágil, é claro o conceito
 de qualidade. Sabendo disso, assinale a alternativa que apresenta corretamente o
 conceito de
@@ -2537,7 +2489,7 @@ baseado na qualidade do código-fonte e das práticas de programação utilizada
 
 Gabarito: Letra E
 
-Item. 6. (IF-PE / IF-PE - 2019) O Manifesto Ágil é um documento que encoraja a utilização
+6. (IF-PE / IF-PE - 2019) O Manifesto Ágil é um documento que encoraja a utilização
 de métodos
 melhores no desenvolvimento de software. Nele foram escritos doze princípios que
 norteiam o
@@ -2557,7 +2509,6 @@ d) "A prioridade é satisfazer ao gerente de projetos por meio de uma entrega ú
 de software
 de valor."
 
-
 e) "A prioridade é satisfazer ao cliente por meio de entregas contínuas e frequentes
 de software
 de valor."
@@ -2570,7 +2521,7 @@ agregado.
 
 Gabarito: Letra E
 
-Item. 7. (AJURI / Desenvolve - RR-2018) Desenvolvimento ágil de software (em inglês: Agile
+7. (AJURI / Desenvolve - RR-2018) Desenvolvimento ágil de software (em inglês: Agile
 software
 development) ou Método ágil é uma expressão que define um conjunto de
 metodologias
@@ -2621,7 +2572,6 @@ documentação abrangente; colaboração do cliente menor do que negociação de
 contratos;
 responder a mudanças menor do que seguir um plano.
 
-
 Comentários:
 
 A questão vacila ao dizer no enunciado "indivíduos e iterações" - o correto
@@ -2636,7 +2586,7 @@ valorizado do que seguir um plano.
 
 Gabarito: Letra B
 
-Item. 8. (INSTITUTO AOCP / PRODEB - 2018) Assinale a alternativa que apresenta corretamente
+8. (INSTITUTO AOCP / PRODEB - 2018) Assinale a alternativa que apresenta corretamente
 um
 dos princípios defendidos pelo Manifesto Ágil.
 
@@ -2681,7 +2631,6 @@ refina e ajusta seu
 comportamento de acordo.
 
 Gabarito: Letra E
-
 
 9- (INSTITUTO AOCP / PRODEB - 2018) Assinale a alternativa que apresenta uma característica
 presente em Equipes ágeis:
@@ -2740,7 +2689,6 @@ necessário parar o desenvolvimento.
 
 Gabarito: Letra B
 
-
 li. (INSTITUTO AOCP / PRODEB - 2018) Com a realização do Manifesto Ágil em 2001 por
 um
 conjunto de especialistas em processos de desenvolvimento de software, ficaram
@@ -2769,7 +2717,7 @@ contratos; (4) Responder a mudanças acima de seguir fielmente um plano.
 
 Gabarito: Letra A
 
-Item. 12. (FCM / IFN-MG - 2018) O Manifesto Ágil para o Desenvolvimento de Software,
+12. (FCM / IFN-MG - 2018) O Manifesto Ágil para o Desenvolvimento de Software,
 proposto por
 Beck, K. et al. (2001), propõe 12 princípios. NÃO correspondem a um desses princípios
 criados
@@ -2801,14 +2749,13 @@ Comentários:
 prioridade é satisfazer
 o cliente através da entrega contínua e adiantada de software com valor agregado; (e) Errado,
 
-
 entregar frequentemente software funcionando, de poucas semanas a poucos
 meses, com
 preferência à menor escala de tempo.
 
 Gabarito: Letra C
 
-Item. 13. (CS-UFG / UFG - 2019) O desenvolvimento de software baseado em abordagem ágil estimula:
+13. (CS-UFG / UFG - 2019) O desenvolvimento de software baseado em abordagem ágil estimula:
 
 a) a produção de planos detalhados.
 
@@ -2860,7 +2807,6 @@ software.
 ( ) Efetuar testes constantemente permite detectar defeitos mais cedo e da
 forma menos
 custosa possível.
-
 
 ( ) O uso de uma ferramenta robusta de modelagem e uma completa
 documentação são
@@ -2924,7 +2870,6 @@ Comentários:
 abrangente; (II)
 Correto; (III) Correto.
 
-
 Gabarito: Letra D
 
 i7.(UNIRIO / UNIRIO - 2014) Dentre os princípios do manifesto ágil para
@@ -2987,7 +2932,6 @@ e) Indivíduos e interação entre eles mais que processos e ferramentas.
 
 Comentários:
 
-
 (í) Indivíduos e interações acima de processos e ferramentas; (2) Software em
 funcionamento
 acima de documentação abrangente; (3) Colaboração com o cliente acima de
@@ -3046,7 +2990,6 @@ b) indivíduos e interações em vez de processos e ferramentas.
 
 c) documentação extensiva operacional em vez de software funcional.
 
-
 d) indivíduos e intenções junto a processos e ferramentas.
 
 e) seguimento de um plano em vez de resposta a mudança.
@@ -3061,7 +3004,7 @@ contratos; (4) Respondera mudanças acima de seguirfielmente um plano.
 
 Gabarito: Letra B
 
-Item. 22. (IF-PE / IF-PE - 2016) Sobre o documento conhecido como "manifesto ágil", é
+22. (IF-PE / IF-PE - 2016) Sobre o documento conhecido como "manifesto ágil", é
 CORRETO dizer
 que:
 
@@ -3104,7 +3047,6 @@ atividades:
 a) são planejadas com antecedência, e seu progresso é medido em
 relação ao plano
 estabelecido.
-
 
 b) são realizadas com base na abordagem iterativa/incremental de desenvolvimento.
 
@@ -3154,7 +3096,7 @@ de progresso.
 
 Gabarito: Letra C
 
-Item. 25. (IADES / ARCON-PA - 2018) Embora esses métodos ágeis sejam todos baseados na
+25. (IADES / ARCON-PA - 2018) Embora esses métodos ágeis sejam todos baseados na
 noção de
 desenvolvimento e entrega incremental, eles propõem diferentes processos para
 alcançar tal
@@ -3165,7 +3107,6 @@ por isso têm muito em comum.
 SOMMERVILLE, I. Engenharia de software. 9. ed. São Paulo: Person Education, 2011.
 
 Os cinco princípios citados no texto são:
-
 
 a) envolvimento do cliente; entregas agendadas; pessoas e processos são
 igualmente
@@ -3223,7 +3164,6 @@ II - Embora as habilidades da equipe devam ser reconhecidas e exploradas, seus m
 não
 devem desenvolver maneiras próprias de trabalhar, podendo o processo ser prescritivo.
 
-
 III- Deve-se ter em mente que os requisitos do sistema irão mudar, por isso, o
 sistema deve ser
 projetado de maneira a acomodar essas mudanças.
@@ -3252,7 +3192,6 @@ são bem-vindas, mesmo tardiamente no desenvolvimento.
 
 Gabarito: Letra C
 
-
 LISTA DE QUESTõES - CESPE
 
 í. (CESPE / BANRISUL - 2022) O modelo ágil não pode ser aplicado a qualquer processo
@@ -3263,46 +3202,46 @@ características sejam modeladas como componentes e, em seguida, construídas
 dentro do
 contexto da arquitetura do sistema.
 
-Item. 2. (CESPE / Petrobrás - 2022) Entre as principais características dos métodos ágeis,
+2. (CESPE / Petrobrás - 2022) Entre as principais características dos métodos ágeis,
 destacam-se
 a maximização da documentação formal e o envolvimento dos clientes.
 
-Item. 3. (CESPE / TCE-ES - 2012) E m virtude de as metodologias ágeis gerarem
+3. (CESPE / TCE-ES - 2012) E m virtude de as metodologias ágeis gerarem
 excessiva
 documentação, a gestão do conhecimento depende diretamente dos
 programadores
 envolvidos no projeto.
 
-Item. 4. (CESPE/ EBC-2011) O que os métodos ágeis buscam é como evitaras mudanças desde o
+4. (CESPE/ EBC-2011) O que os métodos ágeis buscam é como evitaras mudanças desde o
 início
 do projeto e não a melhor maneira de tratar essas mudanças.
 
-Item. 5. (CESPE / BASA - 2010) Desenvolvimento ágil de software (Agile Software
+5. (CESPE / BASA - 2010) Desenvolvimento ágil de software (Agile Software
 Development) ou
 método ágil é aplicado, principalmente, a grandes corporações, uma vez que permite
 produzir
 grandes sistemas de forma ágil.
 
-Item. 6. (CESPE/TCU-2010) A agilidade não pode ser aplicada a todo e qualquer processo de software.
+6. (CESPE/TCU-2010) A agilidade não pode ser aplicada a todo e qualquer processo de software.
 
-Item. 7. (CESPE / UNIPAMPA - 2009) XP, Scrum e Cristal são exemplos de
+7. (CESPE / UNIPAMPA - 2009) XP, Scrum e Cristal são exemplos de
 modelos ágeis de
 desenvolvimento de sistemas.
 
-Item. 8. (CESPE/EBC-2011) Considerando o conceito de metodologia ágil em apreço, é correto
+8. (CESPE/EBC-2011) Considerando o conceito de metodologia ágil em apreço, é correto
 afirmar
 que as seguintes metodologias são ágeis: XP (Extreme Programming), Scrum,
 Crystal, FDD
 (Feature Driven Development), DSDM (Dynamic Systems Development Method) e Open Source
 Software Development.
 
-Item. 9. (CESPE / CNJ - 2013 O desenvolvimento ágil de sistemas consiste em uma linguagem
+9. (CESPE / CNJ - 2013 O desenvolvimento ágil de sistemas consiste em uma linguagem
 de
 modelagem que permite aos desenvolvedores visualizarem os produtos de seu
 trabalho em
 gráficos padronizados.
 
-Item. 10. (CESPE / EBC - 2011) É conveniente que o contrato, entre cliente e
+10. (CESPE / EBC - 2011) É conveniente que o contrato, entre cliente e
 fornecedor, para o
 desenvolvimento de um sistema computacional, contenha a lista de requisitos para o
 software.
@@ -3312,14 +3251,13 @@ o preço, a ser pago pelo cliente, com base no tempo necessário para o desenvol
 do
 sistema e não com base no conjunto de requisitos.
 
-
 íi. (CESPE / MPOG - 2015) Metodologias de desenvolvimento ágil enfocam atividades de
 projeto
 e implementação, desconsiderando as atividades de elicitação de requisitos e a produção
 de
 documentação.
 
-Item. 12. (CESPE / TRE-PI - 2008) No que se refere a métodos ágeis de desenvolvimento de
+12. (CESPE / TRE-PI - 2008) No que se refere a métodos ágeis de desenvolvimento de
 sistemas,
 assinale a opção correta.
 
@@ -3343,56 +3281,54 @@ e) Para atingir os objetivos de agilidade exigidos, os desenvolvedores devem seg
 processos
 simplificados para a construção do software.
 
-Item. 13. (CESPE ITCE-PR - 2016) Os métodos ágeis para o desenvolvimento de software
+13. (CESPE ITCE-PR - 2016) Os métodos ágeis para o desenvolvimento de software
 representam
 uma evolução da engenharia de software tradicional, uma vez que são aplicáveis a todos
 os tipos
 de projetos, produtos, pessoas e situações.
 
-Item. 14. (CESPE / TCE-PR - 2016) Um dos princípios de agilidade da Agile Alliance dispõe
+14. (CESPE / TCE-PR - 2016) Um dos princípios de agilidade da Agile Alliance dispõe
 que a entrega
 completa de um software garante a satisfação do cliente.
 
-Item. 15. (CESPE / Ministério da Economia - 2020) Os modelos ágeis de
+15. (CESPE / Ministério da Economia - 2020) Os modelos ágeis de
 desenvolvimento
 de software dão grande ênfase às definições de atividades e aos processos e pouca
 ênfase à
 pragmática e ao fator humano.
 
-Item. 16. (CESPE / MEC -2015) Acataras mudanças de requisitos, ainda que o desenvolvimento
+16. (CESPE / MEC -2015) Acataras mudanças de requisitos, ainda que o desenvolvimento
 já esteja
 avançado, é um dos princípios do Manifesto Ágil.
 
-Item. 17. (CESPE / TRT17 - 2013) Em um desenvolvimento ágil que segue o manifesto ágil,
+17. (CESPE / TRT17 - 2013) Em um desenvolvimento ágil que segue o manifesto ágil,
 não se deve
 aceitar mudanças de requisitos, mesmo no fim do desenvolvimento. Processos ágeis não se
 adequam a mudanças não planejadas.
 
-Item. 18. (CESPE / EBSERH - 2018) Nas metodologias de desenvolvimento ágeis,
+18. (CESPE / EBSERH - 2018) Nas metodologias de desenvolvimento ágeis,
 mudanças em
 requisitos são bem recebidas, mesmo em fases mais avançadas do desenvolvimento.
 
-
 GABARITo
 
-Item. 1. ERRADO 7- CORRETO
+1. ERRADO 7- CORRETO
 13- ERRADO
 
-Item. 2. ERRADO 8. CORRETO
+2. ERRADO 8. CORRETO
 14- ERRADO
 
 3- ERRADO 9- ERRADO
 15- ERRADO
 
 4- ERRADO 10. CORRETO
-Item. 16. CORRETO
+16. CORRETO
 
 5- ERRADO íi. ERRADO
 17- ERRADO
 
-Item. 6. ERRADO 12. LETRA A
-Item. 18. CORRETO
-
+6. ERRADO 12. LETRA A
+18. CORRETO
 
 LISTA DE QUESTõES - FCC
 
@@ -3411,7 +3347,6 @@ e) especificidade, longevidade do software e prazos curtos.
 Comentários:
 
 Os 12 Princípios Ágeis
-
 
 Satisfaça o
 consumidor
@@ -3455,11 +3390,9 @@ e trabalho em conjunto.
 
 Gabarito: Letra A
 
-
 GABARITo
 
-Item. 1. LETRA A
-
+1. LETRA A
 
 LISTA DE QUESTõES - FCV
 
@@ -3486,7 +3419,7 @@ d) I e IV, somente.
 
 e) II e IV, somente.
 
-Item. 2. (FGV / MPE-MS- 2013) Considerando a caracterização de agilidade
+2. (FGV / MPE-MS- 2013) Considerando a caracterização de agilidade
 e processo de
 desenvolvimento ágil, segundo Pressman, analise as afirmativas a seguir.
 
@@ -3510,7 +3443,7 @@ d) se somente as afirmativas I e II estiverem corretas.
 
 e) se todas as afirmativas estiverem corretas.
 
-Item. 3. (FGV / PGE-RO - 2015) Durante 5 anos gerenciando o desenvolvimento de
+3. (FGV / PGE-RO - 2015) Durante 5 anos gerenciando o desenvolvimento de
 sistemas de
 informação, Claudia teve que lidar com diversas insatisfações de seus usuários pois os
 sistemas
@@ -3519,7 +3452,6 @@ não atendiam as suas necessidades. Claudia decidiu, então, implantar métodos
 desenvolvimento e definiu os seguintes princípios:
 
 I. Mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento.
-
 
 II. O método mais eficiente e eficaz de transmitir informações para e entre uma
 equipe de
@@ -3541,7 +3473,7 @@ d) somente I e III;
 
 e) I, lie III.
 
-Item. 4. (FGV/ TJ-RO - 2015) O manifesto ágil tem por princípio que:
+4. (FGV/ TJ-RO - 2015) O manifesto ágil tem por princípio que:
 
 a) mudanças nos requisitos são bem-vindas, mesmo tardiamente no desenvolvimento;
 
@@ -3557,7 +3489,7 @@ e) pessoas de negócio e desenvolvedores devem trabalhar em ambientes separados 
 reduzir
 as interferências no processo de desenvolvimento.
 
-Item. 5. (FGV / TJ-GO - 2014) Escreva O Manifesto Ágil lista valores seguidos por
+5. (FGV / TJ-GO - 2014) Escreva O Manifesto Ágil lista valores seguidos por
 desenvolvedores com
 a finalidade de melhorar a maneira pela qual o software é desenvolvido. A alternativa
 que se
@@ -3573,7 +3505,7 @@ d) negociação de contratos mais que colaboração com o cliente;
 
 e) negociação de contratos mais que indivíduos e interações.
 
-Item. 6. (FGV / Câmara Municipal de Caruaru-PE - 2015) O desenvolvimento ágil de software é
+6. (FGV / Câmara Municipal de Caruaru-PE - 2015) O desenvolvimento ágil de software é
 guiado
 por metodologias que compartilham um conjunto comum de valores e de princípios, conforme
 definido pelo Manifesto Ágil. Assinale a opção que indica um princípio do desenvolvimento ágil.
@@ -3581,7 +3513,6 @@ definido pelo Manifesto Ágil. Assinale a opção que indica um princípio do de
 a) As mudanças nos requisitos devem ocorrer dentro do quadro de tempo estabelecido
 para a
 iteração.
-
 
 b) O método mais eficiente e eficaz de transmitir informações para e entre uma
 equipe de
@@ -3597,7 +3528,7 @@ e) A entrega contínua e adiantada de software, mesmo que o conjunto de
 funcionalidades
 desenvolvidas não agregue valor, deve serfeita para satisfazer o cliente.
 
-Item. 7. (FGV / PROCEMPA-2014) O Manifesto Ágil é uma declaração de princípios que fundamentam
+7. (FGV / PROCEMPA-2014) O Manifesto Ágil é uma declaração de princípios que fundamentam
 o desenvolvimento ágil de software. A respeito desses princípios, assinale a afirmativa correta:
 
 a) As melhores arquiteturas, requisitos e designs emergem de equipes
@@ -3616,7 +3547,7 @@ afetar a satisfação do cliente.
 
 e) Mudanças nos requisitos são bem-vindas, desde que não impactem o desenvolvimento.
 
-Item. 8. (FGV / DPE-RO - 2015) O Manifesto Ágil é uma declaração que reúne os princípios e práticas
+8. (FGV / DPE-RO - 2015) O Manifesto Ágil é uma declaração que reúne os princípios e práticas
 que fundamentam o desenvolvimento ágil de software. É um dos princípios desse manifesto:
 
 a) defeitos no software são a medida primária de progresso;
@@ -3635,7 +3566,6 @@ constante indefinidamente evitando interrupções e intervalos regulares;
 
 e) as melhores arquiteturas, requisitos e designs emergem de equipes auto-organizáveis.
 
-
 g. (FGV / BANESTES - 2018) Um dos valores relacionados ao ambiente ágil de
 desenvolvimento
 e:
@@ -3650,7 +3580,7 @@ d) rapidez na construção mais que excelência técnica;
 
 e) responder a mudanças mais que seguir um plano.
 
-Item. 10. (FGV / BANESTES - 2018) Com relação aos valores relacionados ao desenvolvimento
+10. (FGV / BANESTES - 2018) Com relação aos valores relacionados ao desenvolvimento
 ágil de
 software, NÃO se pode incluir:
 
@@ -3664,7 +3594,7 @@ d) responder a mudanças mais que seguir um plano;
 
 e) software funcional mais que documentação abrangente.
 
-Item. 11. (FGV / AL-RO - 2018) Para o desenvolvimento do Sistema de Informações ao Cidadão
+11. (FGV / AL-RO - 2018) Para o desenvolvimento do Sistema de Informações ao Cidadão
 (SIC), foi
 decidida a utilização de uma metodologia ágil. Segundo o Manifesto Ágil, esta decisão
 indica
@@ -3680,20 +3610,18 @@ d) à negociação do contrato.
 
 e) ao cumprimento do plano.
 
-
 GABARITo
 
-Item. 1. LETRA B 5- LETRA B
+1. LETRA B 5- LETRA B
 9- LETRA E
 
-Item. 2. LETRA A 6. LETRA B
-Item. 10. LETRAC
+2. LETRA A 6. LETRA B
+10. LETRAC
 
 3- LETRA B 7- LETRA B
 íi. LETRA B
 
 4- LETRA A 8. LETRA E
-
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
@@ -3709,7 +3637,7 @@ c) o software funcionando é mais importante do que a documentação completa e 
 
 d) seguir o plano inicial é mais importante que a adaptação a mudanças.
 
-Item. 2. (IESES/SCGás-2019) A filosofia portrás dos métodos ágeis é refletida no manifesto
+2. (IESES/SCGás-2019) A filosofia portrás dos métodos ágeis é refletida no manifesto
 ágil, que
 foi acordado por muitos dos principais desenvolvedores desses métodos. Assinale a
 alternativa
@@ -3759,7 +3687,6 @@ plano. Ou seja, embora itens à direita sejam importantes, valorizamos mais os q
 estão à
 esquerda".
 
-
 3- (IESES /SCGás-2019) Identifique a opção correta para conceituar desenvolvimentos ágeis ou,
 que caracterizam métodos ágeis:
 
@@ -3803,7 +3730,7 @@ feedback rápido sobre a evolução dos requisitos. Assim, minimiza-se a documen
 se
 utiliza mais a comunicação informal do que reuniões formais com documentos escritos.
 
-Item. 4. (IESES / SCGás- 2019) Os processos de software podem ser categorizados como dirigidos a
+4. (IESES / SCGás- 2019) Os processos de software podem ser categorizados como dirigidos a
 planos ou processos ágeis. Considerando esta afirmação, assinale a afirmativa correta:
 
 a) Nos processos ágeis todas as atividades são planejadas antecipadamente, e a
@@ -3829,7 +3756,6 @@ planos, o planejamento é gradativo. Esta característica facilita a alteração
 de forma
 a refletir as necessidades de mudança dos clientes.
 
-
 d) Nos processos dirigidos a planos todas as rotinas são empíricas e, a avaliação do
 processo
 considera a comparação com um planejamento final a ser definido. Já nos processos
@@ -3838,7 +3764,7 @@ planejamento é gradativo. Esta característica facilita a alteração do proces
 a refletir
 as necessidades de mudança dos clientes.
 
-Item. 5. (INSTITUTO AOCP / EMPREL-2019) Em se tratando de desenvolvimento de
+5. (INSTITUTO AOCP / EMPREL-2019) Em se tratando de desenvolvimento de
 software, o
 termo qualidade é bastante subjetivo. Entretanto, no desenvolvimento ágil, é claro o
 conceito
@@ -3866,7 +3792,7 @@ e) Significa que a qualidade do código e as práticas são utilizadas para gara
 um código de
 alta qualidade.
 
-Item. 6. (IF-PE / IF-PE - 2019) O Manifesto Ágil é um documento que encoraja a utilização
+6. (IF-PE / IF-PE - 2019) O Manifesto Ágil é um documento que encoraja a utilização
 de métodos
 melhores no desenvolvimento de software. Nele foram escritos doze princípios que
 norteiam o
@@ -3889,7 +3815,6 @@ de valor."
 e) "A prioridade é satisfazer ao cliente por meio de entregas contínuas e frequentes
 de software
 de valor."
-
 
 7- (AJURI / Desenvolve - RR - 2018) Desenvolvimento ágil de software (em inglês:
 Agile software
@@ -3942,7 +3867,7 @@ documentação abrangente; colaboração do cliente menor do que negociação de
 contratos;
 responder a mudanças menor do que seguir um plano.
 
-Item. 8. (INSTITUTO AOCP / PRODEB - 2018) Assinale a alternativa que apresenta corretamente
+8. (INSTITUTO AOCP / PRODEB - 2018) Assinale a alternativa que apresenta corretamente
 um
 dos princípios defendidos pelo Manifesto Ágil.
 
@@ -3958,7 +3883,6 @@ c) Deve-se construir projetos ao redor de estruturas hierárquicas verticais.
 Dando a eles o
 ambiente e suporte necessário.
 
-
 d) Pessoas relacionadas a negócios devem trabalhar sem interferência constante ao time
 de
 desenvolvimento.
@@ -3967,7 +3891,7 @@ e) Em intervalos regulares, o time reflete como ficar mais efetivo, então se aj
 e otimizam
 seu comportamento de acordo.
 
-Item. 9. (INSTITUTO AOCP / PRODEB - 2018) Assinale a alternativa que apresenta uma
+9. (INSTITUTO AOCP / PRODEB - 2018) Assinale a alternativa que apresenta uma
 característica
 presente em Equipes ágeis:
 
@@ -3981,7 +3905,7 @@ d) Individualismo e talento.
 
 e) Alto formalismo.
 
-Item. 10. (INSTITUTO AOCP / PRODEB - 2018) Assinale a alternativa correta em relação ao
+10. (INSTITUTO AOCP / PRODEB - 2018) Assinale a alternativa correta em relação ao
 manifesto
 ágil para desenvolvimento de software.
 
@@ -4003,7 +3927,7 @@ e) Deve-se aceitar mudança de requisitos porém o time deve parar o desenvolvim
 voltar
 à etapa de validação de requisitos.
 
-Item. 11. (INSTITUTO AOCP / PRODEB - 2018) Com a realização do Manifesto Ágil em 2001 por
+11. (INSTITUTO AOCP / PRODEB - 2018) Com a realização do Manifesto Ágil em 2001 por
 um
 conjunto de especialistas em processos de desenvolvimento de software, ficaram
 definidos
@@ -4021,8 +3945,7 @@ d) indivíduos e interações mais que processos e ferramentas.
 
 e) respostas rápidas para as mudanças, ao contrário de seguir planos previamente definidos.
 
-
-Item. 12. (FCM/ IFN-MG - 2018) O Manifesto Ágil para o Desenvolvimento de Software, proposto
+12. (FCM/ IFN-MG - 2018) O Manifesto Ágil para o Desenvolvimento de Software, proposto
 por
 Beck, K. et al. (2001), propõe 12 princípios. NÃO correspondem a um desses princípios
 criados
@@ -4044,7 +3967,7 @@ e) a entrega do software deve ser feita com uma frequência predeterminada
 de tempo,
 preferencialmente em uma escala de tempo mais curta.
 
-Item. 13. (CS-UFG / UFG - 2019) O desenvolvimento de software baseado em abordagem ágil estimula:
+13. (CS-UFG / UFG - 2019) O desenvolvimento de software baseado em abordagem ágil estimula:
 
 a) a produção de planos detalhados.
 
@@ -4054,7 +3977,7 @@ c) a valorização da equipe de operação em detrimento daquela de desenvolvime
 
 d) a aplicação de métodos formais de desenvolvimento de software.
 
-Item. 14. (INSTITUTO AOCP/ ITEP - RN - 2018) Qual das alternativas a seguir
+14. (INSTITUTO AOCP/ ITEP - RN - 2018) Qual das alternativas a seguir
 apresenta somente
 métodos ágeis de desenvolvimento de software?
 
@@ -4068,7 +3991,7 @@ d) Evolucionário e Scrum.
 
 e) Incremental e Evolucionário.
 
-Item. 15. (UECE-CEV / Prefeitura de Sobral - CE - 2018) Escreva V ou F conforme seja
+15. (UECE-CEV / Prefeitura de Sobral - CE - 2018) Escreva V ou F conforme seja
 verdadeiro ou
 falso o que se afirma nos itens abaixo com respeito ao processo de desenvolvimento
 ágil de
@@ -4081,7 +4004,6 @@ custosa possível.
 ( ) O uso de uma ferramenta robusta de modelagem e uma completa
 documentação são
 imprescindíveis para o desenvolvimento ágil.
-
 
 () É importante produzir em poucas semanas uma versão inicial do software a fim de
 obter
@@ -4099,7 +4021,7 @@ c) V, F, V, F.
 
 d) F, V, V, F.
 
-Item. 16. (CETRO / ANVISA-2013) Com relação aos conceitos do processo ágil, um dos
+16. (CETRO / ANVISA-2013) Com relação aos conceitos do processo ágil, um dos
 conceitos-chave
 do Manifesto Ágil é :
 
@@ -4121,7 +4043,7 @@ d) II e III, apenas.
 
 e) I, lie III.
 
-Item. 17. (UNIRIO / UNIRIO - 2014) Dentre os princípios do manifesto ágil para
+17. (UNIRIO / UNIRIO - 2014) Dentre os princípios do manifesto ágil para
 desenvolvimento de
 software, NÃO se inclui (em):
 
@@ -4135,7 +4057,7 @@ d) mudança nos requisitos devem ser evitadas.
 
 e) entregas de software funcionando devem ser realizadas frequentemente.
 
-Item. 18. (FCM / IF-RS -2016) As metodologias ágeis tornaram-se populares em 2001 quando um
+18. (FCM / IF-RS -2016) As metodologias ágeis tornaram-se populares em 2001 quando um
 grupo
 de especialistas em processos de desenvolvimento de software decidiu se reunir nos
 Estados
@@ -4150,7 +4072,6 @@ princípios
 comuns compartilhados portodos esses métodos.
 
 NÃO é considerado um princípio por trás do Manifesto Ágil:
-
 
 a) Responder a mudanças mais que seguir um plano.
 
@@ -4174,7 +4095,7 @@ d) custo realizado.
 
 e) software funcionando.
 
-Item. 20. (UECE-CEV / FUNCEME - 2018) O Manifesto para o desenvolvimento ágil de software
+20. (UECE-CEV / FUNCEME - 2018) O Manifesto para o desenvolvimento ágil de software
 resume
 os itens mais valorizados pelos praticantes desta abordagem. Considerando os itens
 listados a
@@ -4185,7 +4106,7 @@ b) seguir um plano mais que responder a mudanças
 c) software em funcionamento mais que documentação abrangente
 d) colaboração com o cliente mais que negociação de contratos
 
-Item. 21. (ESAF / MF - 2013) O desenvolvimento ágil de software fundamenta-se no
+21. (ESAF / MF - 2013) O desenvolvimento ágil de software fundamenta-se no
 Manifesto Ágil.
 Segundo ele deve-se valorizar:
 
@@ -4199,7 +4120,7 @@ d) indivíduos e intenções junto a processos e ferramentas.
 
 e) seguimento de um plano em vez de resposta a mudança.
 
-Item. 22. (IF-PE / IF-PE - 2016) Sobre o documento conhecido como "manifesto ágil", é
+22. (IF-PE / IF-PE - 2016) Sobre o documento conhecido como "manifesto ágil", é
 CORRETO dizer
 que:
 
@@ -4215,7 +4136,6 @@ c) foi criado como base para descrever as principais ideias e práticas que eram
 comuns a muitos
 dos métodos considerados ágeis e que já existiam na época.
 
-
 d) foi criado com base na ideia de que se tudo for muito bem controlado e
 documentado, os
 processos serão naturalmente ágeis.
@@ -4224,7 +4144,7 @@ e) a partir dele, foram definidos o XP, o scrum, o crystal, o CMM e o RUP, cada
 um com suas
 características particulares.
 
-Item. 23. (CS-UFG / UFG - 2018) Ao se empregar métodos ágeis em desenvolvimento de
+23. (CS-UFG / UFG - 2018) Ao se empregar métodos ágeis em desenvolvimento de
 software, as
 atividades:
 
@@ -4242,7 +4162,7 @@ d) são realizadas em fases sequenciais, sendo que cada fase precisa estar compl
 que se
 passe para a próxima.
 
-Item. 24. (CESGRANRIO / Banco da Amazônia - 2018) O Manifesto Ágil se tornou um
+24. (CESGRANRIO / Banco da Amazônia - 2018) O Manifesto Ágil se tornou um
 marco da
 Engenharia de Software, chamando a atenção de que vários processos propostos
 de forma
@@ -4262,7 +4182,7 @@ d) os indivíduos, clientes e desenvolvedores, são mais importantes que process
 
 e) o software funcional emerge de times auto-organizáveis.
 
-Item. 25. (IADES / ARCON-PA - 2018) Embora esses métodos ágeis sejam todos baseados na
+25. (IADES / ARCON-PA - 2018) Embora esses métodos ágeis sejam todos baseados na
 noção de
 desenvolvimento e entrega incremental, eles propõem diferentes processos para
 alcançar tal
@@ -4277,7 +4197,6 @@ Os cinco princípios citados no texto são:
 a) envolvimento do cliente; entregas agendadas; pessoas e processos são
 igualmente
 importantes; aceitar mudanças; e manter a simplicidade.
-
 
 b) envolvimento do cliente; entrega incremental; pessoas, não processos; aceitaras
 mudanças;
@@ -4322,61 +4241,59 @@ d) Apenas II e III.
 
 e) I, lie III.
 
-
 GABARITo
 
-Item. 1. LETRA C
+1. LETRA C
 
-Item. 2. LETRA A
+2. LETRA A
 
-Item. 3. LETRA B
+3. LETRA B
 
-Item. 4. LETRA B
+4. LETRA B
 
-Item. 5. LETRA E
+5. LETRA E
 
-Item. 6. LETRA E
+6. LETRA E
 
-Item. 7. LETRA B
+7. LETRA B
 
-Item. 8. LETRA E
+8. LETRA E
 
-Item. 9. LETRA C
+9. LETRA C
 
-Item. 10. LETRA B
+10. LETRA B
 
-Item. 11. LETRA A
+11. LETRA A
 
-Item. 12. LETRA C
+12. LETRA C
 
-Item. 13. LETRA B
+13. LETRA B
 
-Item. 14. LETRA A
+14. LETRA A
 
-Item. 15. LETRA C
+15. LETRA C
 
-Item. 16. LETRA D
+16. LETRA D
 
-Item. 17. LETRA D
+17. LETRA D
 
-Item. 18. LETRA C
+18. LETRA C
 
-Item. 19. LETRA E
+19. LETRA E
 
-Item. 20. LETRA B
+20. LETRA B
 
-Item. 21. LETRA B
+21. LETRA B
 
-Item. 22. LETRA C
+22. LETRA C
 
-Item. 23. LETRA B
+23. LETRA B
 
-Item. 24. LETRA C
+24. LETRA C
 
-Item. 25. LETRA B
+25. LETRA B
 
-Item. 26. LETRA C
-
+26. LETRA C
 
 Conceitos Básicos
 
@@ -4481,7 +4398,6 @@ que Scrum não gerencia explicitamente o trabalho em progresso e o Kanban não u
 iterações
 por padrão. Bacana? Vamos ver agora os princípios ou restrições:
 
-
 - Comece com o que você tem hoje;
 
 PRINCÍPIOS OU RESTRIÇÕES DO KANBAN
@@ -4524,7 +4440,6 @@ Então ele deve ser pequeno? Não, ele não deve ser muito pequeno nem muito gra
 geral, se
 for muito pequeno, qualquer limitação pode parar o processo de desenvolvimento.
 
-
 E se for muito grande? Nesse caso, muitas tarefas simultâneas levam a grandes perdas
 e confusões.
 Então, qual é o tamanho ideal? Bem, isso não existe! Não há um número mágico - é
@@ -4534,7 +4449,6 @@ você
 utiliza o Trello, ele é uma forma de apresentar o trabalho sendo realizado, mas
 também existem
 outras ferramentas (KanbanFlow, Kanbanery, Leankit, Visual WIP, etc).
-
 
 QUESTõES CoMENTADAS - DIVERSAS BANCAS
 
@@ -4551,7 +4465,7 @@ combinados para resultados mais eficazes.
 
 Gabarito: Errado
 
-Item. 2. (CESPE/ BANRISUL-2022) As equipes que utilizam o método Kanban não utilizam timeboxes,
+2. (CESPE/ BANRISUL-2022) As equipes que utilizam o método Kanban não utilizam timeboxes,
 embora a maioria das equipes pratique uma cadência fixa de planejamento, revisão e entregas.
 
 Comentários:
@@ -4570,7 +4484,7 @@ projeto, pois não estão limitadas por um cronograma pré-definido.
 
 Gabarito: Correto
 
-Item. 3. (CESPE/ BANRISUL-2022) O Kanban, devido à adoção dos princípios Lean, é um método
+3. (CESPE/ BANRISUL-2022) O Kanban, devido à adoção dos princípios Lean, é um método
 ideal
 para utilização em projetos que adotam o Scrum; por outro lado, não se
 aplica a projetos
@@ -4588,10 +4502,9 @@ qualquer tipo de projeto.
 
 Gabarito: Correto
 
-Item. 4. (CESPE / BANRISUL - 2022) O WIP descreve o total de trabalho que está em
+4. (CESPE / BANRISUL - 2022) O WIP descreve o total de trabalho que está em
 progresso no
 Kanban, podendo incluirtodos os itens ou apenas aqueles selecionados para implementação.
-
 
 Comentários:
 
@@ -4607,7 +4520,7 @@ projeto adotada pela equipe.
 
 Gabarito: Correto
 
-Item. 5. (CESPE / BANRISUL - 2022) O Kanban é um método de gestão de mudanças que dá
+5. (CESPE / BANRISUL - 2022) O Kanban é um método de gestão de mudanças que dá
 ênfase à
 visualização do trabalho em andamento.
 
@@ -4617,7 +4530,7 @@ Definição simples e precisa de Kanban! Nada a acrescentar...
 
 Gabarito: Correto
 
-Item. 6. (CESPE / BNB - 2022) Diferentemente do Scrum, o Kanban não prescreve interações
+6. (CESPE / BNB - 2022) Diferentemente do Scrum, o Kanban não prescreve interações
 com
 metas pré-definidas e de mesmo tamanho para a execução de atividades, como, por
 exemplo,
@@ -4641,17 +4554,15 @@ equipe.
 
 Gabarito: Correto
 
-Item. 7. (FGV / BANESTES - 2021) Observe o quadro comparativo a seguir, publicado em sites
+7. (FGV / BANESTES - 2021) Observe o quadro comparativo a seguir, publicado em sites
 ligados
 ao estudo e à investigação de diferentes estratégias/metodologias para
 implementar um
 sistema ágil de desenvolvimento ou gestão de projetos.
 
-
 Aspectos X Y
 
 Ritmo Sprints Fluxo contínuo
-
 
 Funções
 
@@ -4685,7 +4596,7 @@ Fluxo Contínuo é típico do Kanban.
 
 Gabarito: Letra E
 
-Item. 8. (CESPE/ TCU - 2015) O método para a implantação de mudanças denominado Kanban não
+8. (CESPE/ TCU - 2015) O método para a implantação de mudanças denominado Kanban não
 prevê papéis nem cerimônias específicas.
 
 Comentários:
@@ -4694,7 +4605,7 @@ Realmente não se prevê papéis ou cerimônias no Kanban.
 
 Gabarito: Correto
 
-Item. 9. (CESPE / PROCEMPA - 2014) Kanban considera a utilização de uma sinalização ou
+9. (CESPE / PROCEMPA - 2014) Kanban considera a utilização de uma sinalização ou
 registro
 visual para gerenciaro limite de atividades em andamento, indicando se um novo trabalho
 pode
@@ -4710,7 +4621,6 @@ projetos de
 software populares entre praticantes do desenvolvimento ágil. Um aspecto de divergência
 entre
 as duas metodologias é:
-
 
 a) processo incremental;
 
@@ -4827,7 +4737,6 @@ sprints formais
 a) não define sprints formais nem papéis específicos para os integrantes da equipe do
 projeto.
 
-
 b) não define ciclos formais, porém, prescreve papéis específicos para todos os
 integrantes da
 equipe do projeto.
@@ -4890,7 +4799,6 @@ c) F-F-V-F
 
 d) V-V-V-V
 
-
 e) F-F-V-V
 
 Comentários:
@@ -4917,7 +4825,6 @@ constantemente monitorado a cada mudança, por meio de um quadro de fluxo.
 
 Gabarito: Correto
 
-
 LISTA DE QUESTõES - DIVERSAS BANCAS
 
 í. (CESPE / BANRISUL - 2022) O método Kanban pode ser utilizado em
@@ -4925,31 +4832,31 @@ substituição à
 metodologia Scrum, mas também ambos podem ser combinados para o alcance de resultados
 mais eficazes.
 
-Item. 2. (CESPE / BANRISUL-2022) As equipes que utilizam o método Kanban não utilizam
+2. (CESPE / BANRISUL-2022) As equipes que utilizam o método Kanban não utilizam
 timeboxes,
 embora a maioria das equipes pratique uma cadência fixa de planejamento, revisão e entregas.
 
-Item. 3. (CESPE / BANRISUL-2022) O Kanban, devido à adoção dos princípios Lean, é um
+3. (CESPE / BANRISUL-2022) O Kanban, devido à adoção dos princípios Lean, é um
 método ideal
 para utilização em projetos que adotam o Scrum; por outro lado, não se
 aplica a projetos
 tradicionais do tipo cascata.
 
-Item. 4. (CESPE / BANRISUL - 2022) O WIP descreve o total de trabalho que está em
+4. (CESPE / BANRISUL - 2022) O WIP descreve o total de trabalho que está em
 progresso no
 Kanban, podendo incluirtodos os itens ou apenas aqueles selecionados para implementação.
 
-Item. 5. (CESPE / BANRISUL - 2022) O Kanban é um método de gestão de mudanças que dá
+5. (CESPE / BANRISUL - 2022) O Kanban é um método de gestão de mudanças que dá
 ênfase à
 visualização do trabalho em andamento.
 
-Item. 6. (CESPE / BNB - 2022) Diferentemente do Scrum, o Kanban não prescreve interações
+6. (CESPE / BNB - 2022) Diferentemente do Scrum, o Kanban não prescreve interações
 com
 metas pré-definidas e de mesmo tamanho para a execução de atividades, como, por
 exemplo,
 as de planejamento, de desenvolvimento e de liberação.
 
-Item. 7. (FGV / BANESTES - 2021) Observe o quadro comparativo a seguir, publicado em
+7. (FGV / BANESTES - 2021) Observe o quadro comparativo a seguir, publicado em
 sites ligados
 ao estudo e à investigação de diferentes estratégias/metodologias para
 implementar um
@@ -4958,7 +4865,6 @@ sistema ágil de desenvolvimento ou gestão de projetos.
 Aspectos X Y
 
 Ritmo Sprints Fluxo contínuo
-
 
 Funções
 
@@ -4984,10 +4890,9 @@ d) Lean e Extreme Programming;
 
 e) Scrum e Kanban.
 
-Item. 8. (CESPE / TCU - 2015) O método para a implantação de mudanças denominado Kanban
+8. (CESPE / TCU - 2015) O método para a implantação de mudanças denominado Kanban
 não
 prevê papéis nem cerimônias específicas.
-
 
 g. (CESPE/ PROCEMPA - 2014) Kanban considera a utilização de uma sinalização ou
 registro
@@ -5025,7 +4930,7 @@ d) gerenciar o fluxo de trabalho e manter estimativas previamente definidas.
 
 e) melhoria contínua e nunca limitar o WIP para evitarfolgas no sistema de trabalho.
 
-Item. 12. (CESPE / SEDF-2017) A técnica de Kanban é uma forma simples de visualizar o
+12. (CESPE / SEDF-2017) A técnica de Kanban é uma forma simples de visualizar o
 andamento das
 tarefas da equipe durante uma Sprint de Scrum. Nessa técnica, as tarefas são
 representadas por
@@ -5057,18 +4962,17 @@ b) Kanban, Scrum e XP.
 
 c) XP, Scrum e Kanban.
 
-
 d) Scrum, XP e Kanban.
 
 e) Scrum, Kanban e XP.
 
-Item. 14. (CESPE / STM - 2018) A implementação de um Kanban pressupõe a definição de um
+14. (CESPE / STM - 2018) A implementação de um Kanban pressupõe a definição de um
 fluxo de
 trabalho pela equipe, o qual poderá ser revisto, mediante a inclusão ou a retirada de
 estágios, à
 medida que o trabalho evoluir.
 
-Item. 15. (FCC/ MPE-PE - 2018) Enquanto o processo de desenvolvimento Scrum usa sprints
+15. (FCC/ MPE-PE - 2018) Enquanto o processo de desenvolvimento Scrum usa sprints
 formais
 (ciclos de trabalho) com funções específicas atribuídas, o Kanban:
 
@@ -5090,7 +4994,7 @@ e) define apenas os papéis de Gerente de Projeto e Líder de Equipe, tendo o
 desenvolvimento
 pautado por ciclos de duas semanas chamados slices.
 
-Item. 16. (IF-RS/ IF-RS - 2018) Kanban foi criado pela Toyota com o objetivo de controlar
+16. (IF-RS/ IF-RS - 2018) Kanban foi criado pela Toyota com o objetivo de controlar
 melhor os
 níveis enormes de estoque em relação ao consumo real de materiais. Devido à sua
 eficiência,
@@ -5120,7 +5024,6 @@ Kanban.
 
 a) V-V-F-V
 
-
 b) V-F-F-V
 
 c) F-F-V-F
@@ -5135,43 +5038,41 @@ como uma de suas práticas o gerenciamento do fluxo de trabalho, que deve ser
 monitorado,
 medido e reportado a cada estado do fluxo.
 
-
 GABARITo - DIVERSAS BANCAS
 
-Item. 1. ERRADO
+1. ERRADO
 
-Item. 2. CORRETO
+2. CORRETO
 
-Item. 3. CORRETO
+3. CORRETO
 
-Item. 4. CORRETO
+4. CORRETO
 
-Item. 5. CORRETO
+5. CORRETO
 
-Item. 6. CORRETO
+6. CORRETO
 
-Item. 7. LETRA E
+7. LETRA E
 
-Item. 8. CORRETO
+8. CORRETO
 
-Item. 9. CORRETO
+9. CORRETO
 
-Item. 10. LETRA B
+10. LETRA B
 
-Item. 11. LETRA A
+11. LETRA A
 
-Item. 12. CORRETO
+12. CORRETO
 
-Item. 13. LETRA E
+13. LETRA E
 
-Item. 14. CORRETO
+14. CORRETO
 
-Item. 15. LETRA A
+15. LETRA A
 
-Item. 16. LETRA B
+16. LETRA B
 
-Item. 17. CORRETO
-
+17. CORRETO
 
 MINIMUM VIABLE PRoDUCT (MVP)
 
@@ -5237,7 +5138,6 @@ não-sucesso. Ele
 conta que trabalhou por cinco anos em uma startup, com uma equipe escolhida à mão e
 tudo do
 bom e do melhor.
-
 
 Quando ele se juntou à equipe, eles não lhe disseram o que era o produto, apenas os nomes das
 pessoas legais com quem ele trabalharia. A equipe ficava em um hangar aeronaves. O
@@ -5377,7 +5277,6 @@ está empregando.
 viável dispensa padrões de qualidade comercial, sendo suficiente que a funcionalidade
 parcial proposta tenha um nível básico de confiabilidade.
 
-
 Comentários: O MVP (Minimum Viable Product) é uma versão simples de um produto que é dada aos
 usuários para validar as
 principais premissas do negócio. Apesar disso, no MVP os padrões de qualidade não são dispensados,
@@ -5395,7 +5294,6 @@ produto e é usado para testar o
 conceito e obter feedback dos usuários. Um protótipo, por outro lado, é uma versão básica de um
 produto ou serviço usado para
 testar ideias, processos e experiência do usuário (Errado).
-
 
 DESENVoLVIMENTo Low/No CoDE
 
@@ -5452,7 +5350,6 @@ modelos
 pré-construídos e automação de processos, permitindo que usuários finais
 construam aplicativos
 personalizados para suas necessidades específicas.
-
 
 Uma das principais vantagens de ambas as abordagens é a redução do tempo de
 desenvolvimento
@@ -5522,7 +5419,6 @@ linha de
 código. O OutSystems é uma plataforma Low Code que oferece recursos de
 automação de
 negócios para acelerar o desenvolvimento de aplicativos corporativos.
-
 
 Cada plataforma tem suas próprias vantagens e desvantagens, dependendo do
 contexto e dos
@@ -5594,7 +5490,6 @@ no mercado (Correto).
 
 (TJ/CE —2022) Considere a lista de aplicações abaixo.
 
-
 I. Assistentes virtuais e ferramentas de chatbot
 
 II. App de internet banking.
@@ -5640,5 +5535,4 @@ aplicativos, permitindo que
 usuários sem habilidades de programação possam criar aplicativos rapidamente usando
 ferramentas visuais e recursos pré-
 construídos, independentemente do idioma utilizado (Errado).
-
 

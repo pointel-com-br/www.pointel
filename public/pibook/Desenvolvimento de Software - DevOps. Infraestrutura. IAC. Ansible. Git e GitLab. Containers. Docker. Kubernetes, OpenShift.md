@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - DevOps. Infraestrutura. IAC. Ansible. Git e GitLab. Containers. Docker. Kubernetes, OpenShift.
-
+# Desenvolvimento de Software - DevOps. Infraestrutura. IAC. Ansible. Git e GitLab. Containers. Docker. Kubernetes, OpenShift.
 
 Índice
 
@@ -34,7 +33,6 @@ Capítulo. Desenvolvimento de Software - DevOps. Infraestrutura. IAC. Ansible. G
 15) OpenShift -100% - Questões Comentadas.
 
 16) OpenShift -100% - Lista de Questões.
-
 
 FERRAMENTAS DE CoNTRoLE DE VERSÃo
 
@@ -88,11 +86,9 @@ A eficácia do controle de versão de software é comprovada por fazer parte das
 exigências para
 melhorias do processo de desenvolvimento de certificações tais como CMMI e SPICE.
 
-
 / 85
 
 /
-
 
 Principais vantagens
 
@@ -107,11 +103,9 @@ Vantagem | Descrição
 Facilidade em desfazer e possibilidade de analisar o histórico do
 desenvolvimento, como também facilidade no resgate de versões mais
 
-
 Controle do histórico
 antigas e estáveis. A maioria das implementações permitem analisar as
 alterações com detalhes, desde a primeira versão até a última.
-
 
 Trabalho em equipe
 
@@ -120,7 +114,6 @@ trabalhem sobre o mesmo conjunto de documentos ao mesmo tempo e
 minimiza o desgaste provocado por problemas com conflitos de edições.
 É possível que a implementação também tenha um controle sofisticado
 de acesso para cada usuário ou grupo de usuários.
-
 
 Marcação e resgate
 de versões estáveis
@@ -131,13 +124,11 @@ Ramificação de projeto: a maioria das implementações possibilita a
 divisão do projeto em várias linhas de desenvolvimento, que podem ser
 trabalhadas paralelamente, sem que uma interfira na outra.
 
-
 Segurança
 
 Cada software de controle de versão usa mecanismos para evitar
 qualquer tipo de invasão de agentes infecciosos nos arquivos. Além do
 mais, somente usuários com permissão poderão mexer no código.
-
 
 Rastreabilidade
 
@@ -145,13 +136,11 @@ Com a necessidade de sabermos o local, o estado e a qualidade de um
 arquivo; o controle de versão traz todos esses requisitos de forma que o
 usuário possa se embasar do arquivo que deseja utilizar.
 
-
 Organização
 
 Alguns softwares disponibilizam uma interface visual onde podem ser
 vistos todos os arquivos controlados, desde a origem até o projeto por
 completo.
-
 
 Confiança
 
@@ -159,17 +148,15 @@ O uso de repositórios remotos (na nuvem) ajuda a não perder arquivos
 por eventos inesperados. Além disso, e possível fazer novos projetos sem
 danificar o desenvolvimento do atual.
 
-
 / 85
 
 /
-
 
 QUESTõES CoMENTADAS - SISTEMAS DE CoNTRoLE DE
 
 VERSÃo - MULTIBANCAS
 
-Item. 1. (FCC - 2011 - TRE-RN - Técnico Judiciário - Programação de Sistemas) São exemplos típicos de
+1. (FCC - 2011 - TRE-RN - Técnico Judiciário - Programação de Sistemas) São exemplos típicos de
 ferramentas open source para controle de versão no desenvolvimento de um software:
 
 a) Git, ClearCase e CVS.
@@ -187,7 +174,6 @@ Comentários:
 CENTRALIZADO DISTRIBUÍDO
 
 LIVRE COMERCIAL LIVRE COMERCIAL
-
 
 SCCS (1972)
 
@@ -234,7 +220,7 @@ PLASTIC SCM
 
 Conforme vimos em aula, trata-se do CVS, SVN e GIT! Gabarito: B
 
-Item. 2. (CESPE - 2014 - ANATEL - Analista de Sistemas) As ferramentas de controle de versão
+2. (CESPE - 2014 - ANATEL - Analista de Sistemas) As ferramentas de controle de versão
 Git e
 SVN oferecem o mesmo grau de confiabilidade no armazenamento das informações e são ambas
 implantadas conforme o conceito de sistemas de controle de versão distribuído.
@@ -245,9 +231,7 @@ CENTRALIZADO DISTRIBUÍDO
 
 LIVRE COMERCIAL LIVRE COMERCIAL
 
-
 , 85
-
 
 SCCS (1972)
 
@@ -294,17 +278,15 @@ PLASTIC SCM
 
 Conforme vimos em aula, SVN é um modelo centralizado e, não, distribuído. Gabarito: E
 
-
 / 85
 
 /
-
 
 LISTA DE QUESTõES - SISTEMAS DE CoNTRoLE DE VERSÃo
 
 - MULTIBANCAS
 
-Item. 1. (FCC - 2011 - TRE-RN - Técnico Judiciário - Programação de Sistemas) São exemplos típicos de
+1. (FCC - 2011 - TRE-RN - Técnico Judiciário - Programação de Sistemas) São exemplos típicos de
 ferramentas open source para controle de versão no desenvolvimento de um software:
 
 a) Git, ClearCase e CVS.
@@ -317,27 +299,24 @@ d) SVN, ClearCase e Git.
 
 e) SourceSafe, ClearCase e SVN.
 
-Item. 2. (CESPE - 2014 - ANATEL - Analista de Sistemas) As ferramentas de controle de versão
+2. (CESPE - 2014 - ANATEL - Analista de Sistemas) As ferramentas de controle de versão
 Git e
 SVN oferecem o mesmo grau de confiabilidade no armazenamento das informações e são ambas
 implantadas conforme o conceito de sistemas de controle de versão distribuído.
-
 
 / 85
 
 /
 
-
 GABARITo
 
 GABARITO
 
-Item. 1. B
+1. B
 
-Item. 2. E
+2. E
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 GIT
 
@@ -380,11 +359,9 @@ Para lidar com este problema, programadores há muito tempo desenvolveram SCVs l
 que tem
 um banco de dados simples que mantêm todas as alterações nos arquivos sob controle de revisão.
 
-
 / 85
 
 /
-
 
 Local Computer
 
@@ -444,11 +421,9 @@ história do projeto,
 exceto imagens pontuais que desenvolvedores possam ter em suas máquinas locais. Sistemas
 SCV
 
-
 / 85
 
 /
-
 
 locais sofrem com esse mesmo problema - sempre que você possui toda a história do
 projeto em
@@ -504,11 +479,9 @@ metas do novo sistema era os seguintes:
 
 * Projeto simples
 
-
 / 85
 
 /
-
 
 * Forte suporte para desenvolvimento não-linear (milhares de ramos paralelos)
 
@@ -545,11 +518,9 @@ diante) tratam a informação como um conjunto de arquivos e as mudanças feitas
 arquivo
 ao longo do tempo.
 
-
 / 85
 
 /
-
 
 Checkins Over Time
 
@@ -574,7 +545,6 @@ estado dos
 arquivos.
 
 Checkins Over Time
-
 
 File A
 
@@ -606,7 +576,6 @@ ferramentas incrivelmente poderosas, ao invés de simplesmente um SCV. Vejamos a
 benefícios que você ganha ao tratar seus dados desta forma quando cobrirmos ramificações no Git.
 
 Quase Todas as Operações são locais
-
 
 A maioria das operações no Git só precisa de arquivos e recursos locais para operar
 - geralmente
@@ -678,11 +647,9 @@ verdade, o Git armazena tudo em seu banco de dados não pelo nome do arquivo, ma
 pelo valor
 de hash do seu conteúdo.
 
-
 / 85
 
 /
-
 
 O Cit geralmente somente adiciona dados
 
@@ -736,11 +703,9 @@ Isso nos leva a três seções principais de um projeto Git: o diretório Git, o
 diretório de trabalho e área
 de preparo.
 
-
 / 85
 
 /
-
 
 O diretório Git é onde o Git armazena os metadados e o banco de dados de objetos
 de seu projeto.
@@ -760,11 +725,11 @@ mas também é comum referir-se a ele como área de preparo (staging area).
 
 O fluxo de trabalho básico Git é algo assim:
 
-Item. 1. Você modifica arquivos no seu diretório de trabalho.
+1. Você modifica arquivos no seu diretório de trabalho.
 
-Item. 2. Você prepara os arquivos, adicionando imagens deles à sua área de preparo.
+2. Você prepara os arquivos, adicionando imagens deles à sua área de preparo.
 
-Item. 3. Você faz commit, o que leva os arquivos como eles estão na área de preparo e armazena
+3. Você faz commit, o que leva os arquivos como eles estão na área de preparo e armazena
 essas imagens de forma permanente para o diretório do Git.
 
 Se uma versão específica de um arquivo está no diretório Git, é considerado commited.
@@ -773,13 +738,11 @@ modificado, mas foi adicionado à área de preparo, é considerado preparado. E 
 for alterado
 depois de ter sido carregado, mas não foi preparado, ele é considerado modificado.
 
-
 Comandos GIT
 
 Pessoal, os comandos, com toda certeza, são os mais cobrados em provas! Portanto,
 tenha atenção
 redobrada!
-
 
 Comando
 Criar novo repositório
@@ -789,7 +752,6 @@ git init
 git status
 
 Descrição
-
 
 Adicionar um arquivo em específico
 
@@ -863,11 +825,9 @@ git log -summary -S<palavra>
 
 git log —diff-filter=M - <caminho_do_arquivo>
 
-
 / 85
 
 /
-
 
 Exibir revisão e autor da última
 modificação de uma bloco de linhas
@@ -928,7 +888,6 @@ i efetivada no computador local.
 
 i Comentários:
 
-
 I
 
 i Pessoal, na verdade o comando usado para enviar ao repositório a alteração que foi
@@ -946,11 +905,9 @@ não são afetados.
 Este comando deve ser utilizando enquanto o arquivo não foi adicionado na staged area.
 Este comando deve ser utilizando quando o arquivo já foi adicionado na staged area.
 
-
 / 85
 
 /
-
 
 Cada linha em um arquivo gitignore especifica um padrão. Ao decidir ignorar um
 caminho, o Git
@@ -972,15 +929,13 @@ arquivos .gitignore em seu repositório, contendo padrões para arquivos gerados
 como parte da
 construção do projeto.
 
-
 / 85
 
 /
 
-
 Questões Comentadas
 
-Item. 1. (FCC - PGE-AM - 2022) Um Técnico utilizou corretamente um comando git para
+1. (FCC - PGE-AM - 2022) Um Técnico utilizou corretamente um comando git para
 modificar a
 mensagem do commit mais recente, ou seja, o último commit feito por ele no projeto.
 Trata-se
@@ -1017,7 +972,7 @@ atualizada e o torna seu novo último commit.
 
 Gabarito: Letra C
 
-Item. 2. (FGV - TJDFT - 2022) O analista Mateus configurou um pipeline CI/CD para o
+2. (FGV - TJDFT - 2022) O analista Mateus configurou um pipeline CI/CD para o
 projeto TJApp no
 GitLab. O repositório de TJApp denomina-se TJAppRepo. Mateus precisou
 controlar o
@@ -1047,7 +1002,6 @@ padrão personalizados para palavras-chave de trabalho, include: Importe a confi
 outros
 arquivos YAML. stages: Os nomes e a ordem dos estágios do pipeline. variables: Defina variáveis
 
-
 CI/CD para todos os trabalhos no pipeline. workflow: Controle quais tipos de
 pipeline são
 executados. Pessoal, a questão foi contextualizada, mas é necessário se ater ao que
@@ -1058,7 +1012,7 @@ Controla quais tipos de pipeline são executados.
 
 Gabarito: Letra E
 
-Item. 3. (FGV - TJ TO - 2022) O técnico em informática José está desenvolvendo o software
+3. (FGV - TJ TO - 2022) O técnico em informática José está desenvolvendo o software
 TJTOPIugin
 com o apoio da ferramenta de versionamento Git. José criou o branch local
 pluginConnector e
@@ -1092,7 +1046,7 @@ enquanto envia objetos necessários para completar as referências fornecidas.
 
 Gabarito: Letra D
 
-Item. 4. (UFRPE - UFRPE - 2022) O git é um sistema de controle de versão distribuído e
+4. (UFRPE - UFRPE - 2022) O git é um sistema de controle de versão distribuído e
 utilizado
 amplamente pela comunidade de desenvolvimento de software. Esse sistema possui
 um
@@ -1111,11 +1065,9 @@ push:
 Enviar arquivos/diretórios para o repositório remoto, c) git add: Adicionar um arquivo, d) git
 pull:
 
-
 / 85
 
 /
-
 
 Atualizar os arquivos no branch atual, e) git send: provavelmente o examinador quis
 dizer: git send-
@@ -1123,7 +1075,7 @@ email: envia um e-mail.
 
 Gabarito: Letra B
 
-Item. 5. (CESPE - MPE CE - 2020) GitHub é uma plataforma de hospedagem de código que
+5. (CESPE - MPE CE - 2020) GitHub é uma plataforma de hospedagem de código que
 permite
 realizar o controle de versão de software, de modo que várias
 pessoas contribuam
@@ -1147,7 +1099,7 @@ remotos
 
 Gabarito: Correto
 
-Item. 6. (CESPE - Ministério da Economia - 2020) O comando git clone permite baixar o
+6. (CESPE - Ministério da Economia - 2020) O comando git clone permite baixar o
 repositório do
 GitHub para o computador do usuário.
 
@@ -1158,7 +1110,7 @@ Clona um repositório em um novo diretório.
 
 Gabarito: Correto
 
-Item. 7. (CESPE - Ministério da Economia - 2020) No GIT, o comando git pull é usado para
+7. (CESPE - Ministério da Economia - 2020) No GIT, o comando git pull é usado para
 enviar ao
 repositório a alteração que foi efetivada no computador local.
 
@@ -1168,7 +1120,7 @@ efetivada no computador local é git push.
 
 Gabarito: Errado
 
-Item. 8. (UFRN - UFRN - 2020) O git é um sistema de controle de versão
+8. (UFRN - UFRN - 2020) O git é um sistema de controle de versão
 muito utilizado em
 desenvolvimento de sistemas de software. Sobre o git, é correto afirmar:
 
@@ -1180,11 +1132,9 @@ b) O comando git clone faz a cópia apenas dos arquivos, sendo as informações 
 repositório
 inicializadas como no comando git init.
 
-
 / 85
 
 /
-
 
 c) O comando git add faz a confirmação das alterações de forma definitiva.
 
@@ -1198,7 +1148,7 @@ repositório remoto, git add Adicionar um arquivo, git checkout desfaz alteraç�
 
 Gabarito: Letra A
 
-Item. 9. (UFC - UFC - 2019) Qual arquivo é necessário ser configurado para especificar
+9. (UFC - UFC - 2019) Qual arquivo é necessário ser configurado para especificar
 intencionalmente
 que determinados arquivos não sejam rastreados (tracked) e que o Git deve
 ignorar no
@@ -1244,13 +1194,11 @@ identificado.
 
 Gabarito: Letra B
 
-
 / 85
 
 /
 
-
-Item. 11. (Quadrix - CRM-PR - 2018) A ferramenta SVN (subversion) realiza o controle de
+11. (Quadrix - CRM-PR - 2018) A ferramenta SVN (subversion) realiza o controle de
 versão de
 software por meio do uso da plataforma Mercurial.
 
@@ -1260,7 +1208,7 @@ plataforma Mercurial.
 
 Gabarito: Errado
 
-Item. 12. (FCC - Prefeitura de São Luís - MA - 2018) Um Auditor Fiscal fez uma pesquisa
+12. (FCC - Prefeitura de São Luís - MA - 2018) Um Auditor Fiscal fez uma pesquisa
 na internet e
 obteve as seguintes informações:
 
@@ -1296,7 +1244,7 @@ e o Mercurial. Daí podemos marcar nosso gabarito na letra D.
 
 Gabarito: Letra D
 
-Item. 13. (CESPE - TRE TO - 2017) Considerando um programa em linguagem Java, assinale a opção que
+13. (CESPE - TRE TO - 2017) Considerando um programa em linguagem Java, assinale a opção que
 apresenta o comando do versionador Git que permite criar uma branch de nome new_branch
 e
 mudar para essa branch ao mesmo tempo.
@@ -1307,11 +1255,9 @@ c) git checkout -b new_branch
 d) git init new_branch
 e) git commit -m 'new_branch'
 
-
 / 85
 
 /
-
 
 Comentários: O comando correto é: git checkout -b new_branch. Especificar -b faz com
 que um novo
@@ -1323,7 +1269,7 @@ commit: Comita um arquivo.
 
 Gabarito: Letra C
 
-Item. 14. (UFPE - UFPE- 2017) Quando se usa o controle de versão através da ferramenta GIT, é possível
+14. (UFPE - UFPE- 2017) Quando se usa o controle de versão através da ferramenta GIT, é possível
 interromper o fluxo de trabalho por meio da funcionalidade <STASH>. Pelo comando <git
 stash>,
 se faz possível:
@@ -1348,7 +1294,7 @@ modificações locais e reverte o diretório de trabalho para corresponder ao HE
 
 Gabarito: Letra A
 
-Item. 15. (UFPE - UFPE - 2017) O GIT é um sistema de controle de versão distribuído, e
+15. (UFPE - UFPE - 2017) O GIT é um sistema de controle de versão distribuído, e
 também um
 gerenciamento de código fonte. Projetado e desenvolvido por Linus Torvalds, a ferramenta
 foi
@@ -1376,16 +1322,14 @@ bug. Como a banca pede a alternativa incorreta, nosso gabarito é a letra E.
 
 Gabarito: Letra E
 
-Item. 16. (UFPE - UFPE- 2017) A respeito de sistemas de controle de versão, assinale a alternativa
+16. (UFPE - UFPE- 2017) A respeito de sistemas de controle de versão, assinale a alternativa
 correta.
 
 a) O SVN pode ser considerado um sistema de controle de versão distribuído.
 
-
 / 85
 
 /
-
 
 b) 0 GIT pode ser considerado um sistema de controle de versão centralizado.
 
@@ -1412,7 +1356,7 @@ executar o comando git pull ou o git fetch para atualizar.
 
 Gabarito: Letra B
 
-Item. 17. (FCC - Prefeitura de Teresina - PI - 2016) No sistema de controle de versões Mercurial, para
+17. (FCC - Prefeitura de Teresina - PI - 2016) No sistema de controle de versões Mercurial, para
 exibir, em detalhes, cada evento que ocorreu no repositório utiliza-se o comando
 a) hg status all.
 
@@ -1428,7 +1372,7 @@ Comentários: o comando hg log -v mostra o histórico de revisões de todo o rep
 
 Gabarito: Letra D
 
-Item. 18. (VUNESP - FUNDUNESP- 2016) O Git, ao tratar os arquivos que devem sofrer o processo de
+18. (VUNESP - FUNDUNESP- 2016) O Git, ao tratar os arquivos que devem sofrer o processo de
 controle de versões, classifica o estado desses arquivos em 3 categorias, definidas como
 a) checked (verificado), tracked (acompanhado) e identified (identificado).
 
@@ -1446,14 +1390,12 @@ modificado (modified) e preparado (staged).
 
 Gabarito: Letra B
 
-Item. 19. (BIO-RIO - Pref São Gonçalo - 2016) No que diz respeito às características das ferramentas de
+19. (BIO-RIO - Pref São Gonçalo - 2016) No que diz respeito às características das ferramentas de
 controle de versão SVN e GIT, analise as afirmativas a seguir.
-
 
 / 85
 
 /
-
 
 I. SVN opera de forma centralizada, enquanto o GIT de forma distribuída.
 
@@ -1488,7 +1430,7 @@ está incorreto porque SVN e Git são multiplataforma. Ademais, ambos suportam c
 
 Gabarito: Letra A
 
-Item. 20. (CESPE - STJ - 2015) O Git, sistema de controle de versões que mantém um
+20. (CESPE - STJ - 2015) O Git, sistema de controle de versões que mantém um
 histórico completo
 de todas as alterações, permite a recuperação das versões do projeto na busca de
 informações
@@ -1514,13 +1456,11 @@ versões anteriores. Perfeita questão!
 
 Gabarito: Correto
 
-
 / 85
 
 /
 
-
-Item. 21. (CESPE - ANATAQ - 2014) As ferramentas de controle de versão Git e SVN oferecem
+21. (CESPE - ANATAQ - 2014) As ferramentas de controle de versão Git e SVN oferecem
 o mesmo
 grau de confiabilidade no armazenamento das informações e são ambas implantadas conforme
 o conceito de sistemas de controle de versão distribuído.
@@ -1544,7 +1484,7 @@ diretamente nesse repositório do servidor central.
 
 Gabarito: Errado
 
-Item. 22. (CESPE - ANATEL - 2014) Os comandos da ferramenta Git são relativamente simples:
+22. (CESPE - ANATEL - 2014) Os comandos da ferramenta Git são relativamente simples:
 para
 adicionar, por exemplo, um arquivo novo ao repositório no Git, basta utilizar o
 comando commit
@@ -1554,15 +1494,13 @@ Comentários: Pessoal, o comando para adicionar um arquivo novo ao repositório 
 
 Gabarito: Correto
 
-
 / 85
 
 /
 
-
 Lista de Questões
 
-Item. 1. (FCC - PGE-AM - 2022) Um Técnico utilizou corretamente um comando git para
+1. (FCC - PGE-AM - 2022) Um Técnico utilizou corretamente um comando git para
 modificar a
 mensagem do commit mais recente, ou seja, o último commit feito por ele no projeto.
 Trata-se
@@ -1577,7 +1515,7 @@ d) add message.
 
 e) checkout master.
 
-Item. 2. (FGV - TJDFT - 2022) O analista Mateus configurou um pipeline CI/CD para o
+2. (FGV - TJDFT - 2022) O analista Mateus configurou um pipeline CI/CD para o
 projeto TJApp no
 GitLab. O repositório de TJApp denomina-se TJAppRepo. Mateus precisou
 controlar o
@@ -1599,7 +1537,7 @@ d) variables;
 
 e) workflow.
 
-Item. 3. (FGV - TJ TO - 2022) O técnico em informática José está desenvolvendo o
+3. (FGV - TJ TO - 2022) O técnico em informática José está desenvolvendo o
 software TJTOPlugin
 com o apoio da ferramenta de versionamento Git. José criou o branch local
 pluginConnector e
@@ -1621,13 +1559,11 @@ d) push origin pluginConnector;
 
 e) remote add origin pluginConnector.
 
-
 / 85
 
 /
 
-
-Item. 4. (UFRPE - UFRPE - 2022) O git é um sistema de controle de versão distribuído e
+4. (UFRPE - UFRPE - 2022) O git é um sistema de controle de versão distribuído e
 utilizado
 amplamente pela comunidade de desenvolvimento de software. Esse sistema possui
 um
@@ -1641,7 +1577,7 @@ c) git add
 d) git pull
 e) git send
 
-Item. 5. (CESPE - MPE CE - 2020) GitHub é uma plataforma de hospedagem de código que
+5. (CESPE - MPE CE - 2020) GitHub é uma plataforma de hospedagem de código que
 permite
 realizar o controle de versão de software, de modo que várias
 pessoas contribuam
@@ -1649,15 +1585,15 @@ simultaneamente no mesmo projeto, editando e criando novos arquivos, sem o risco
 suas
 alterações serem sobrescritas.
 
-Item. 6. (CESPE - Ministério da Economia - 2020) O comando git clone permite baixar o
+6. (CESPE - Ministério da Economia - 2020) O comando git clone permite baixar o
 repositório do
 GitHub para o computador do usuário.
 
-Item. 7. (CESPE - Ministério da Economia - 2020) No GIT, o comando git pull é usado
+7. (CESPE - Ministério da Economia - 2020) No GIT, o comando git pull é usado
 para enviar ao
 repositório a alteração que foi efetivada no computador local.
 
-Item. 8. (UFRN - UFRN - 2020) O git é um sistema de controle de versão
+8. (UFRN - UFRN - 2020) O git é um sistema de controle de versão
 muito utilizado em
 desenvolvimento de sistemas de software. Sobre o git, é correto afirmar:
 
@@ -1673,7 +1609,7 @@ c) O comando git add faz a confirmação das alterações de forma definitiva.
 
 d) O comando git checkout faz uma atualização do diretório local com o diretório remoto.
 
-Item. 9. (UFC - UFC - 2019) Qual arquivo é necessário ser configurado para especificar
+9. (UFC - UFC - 2019) Qual arquivo é necessário ser configurado para especificar
 intencionalmente
 que determinados arquivos não sejam rastreados (tracked) e que o Git deve
 ignorar no
@@ -1685,13 +1621,11 @@ c) git.ignore
 d) gitignore.txt
 e) .gitignore.txt
 
-
 / 85
 
 /
 
-
-Item. 10. (UFRN - Câmara de Parnamirim - 2019) A utilização do conceito de branches em
+10. (UFRN - Câmara de Parnamirim - 2019) A utilização do conceito de branches em
 sistemas de
 controle de versão permite ao desenvolvedor divergir da linha principal de
 desenvolvimento. Ao
@@ -1705,11 +1639,11 @@ b) git checkout mobile
 c) git status mobile
 d) git change mobile
 
-Item. 11. (Quadrix - CRM-PR - 2018) A ferramenta SVN (subversion) realiza o controle de
+11. (Quadrix - CRM-PR - 2018) A ferramenta SVN (subversion) realiza o controle de
 versão de
 software por meio do uso da plataforma Mercurial.
 
-Item. 12. (FCC - Prefeitura de São Luís - MA - 2018) Um Auditor Fiscal fez uma pesquisa
+12. (FCC - Prefeitura de São Luís - MA - 2018) Um Auditor Fiscal fez uma pesquisa
 na internet e
 obteve as seguintes informações:
 
@@ -1738,7 +1672,7 @@ d) controle e gerenciamento de versão.
 
 e) projetos de auditoria com base no PMBOK edição.
 
-Item. 13. (CESPE - TRE TO - 2017) Considerando um programa em linguagem Java, assinale a
+13. (CESPE - TRE TO - 2017) Considerando um programa em linguagem Java, assinale a
 opção que
 apresenta o comando do versionador Git que permite criar uma branch de nome new_branch
 e
@@ -1749,13 +1683,11 @@ b) git clone new_branch
 c) git checkout -b new_branch
 d) git init new_branch
 
-
 / 85
-
 
 e) git commit -m 'new_branch'
 
-Item. 14. (UFPE - UFPE- 2017) Quando se usa o controle de versão através da ferramenta GIT,
+14. (UFPE - UFPE- 2017) Quando se usa o controle de versão através da ferramenta GIT,
 é possível
 interromper o fluxo de trabalho por meio da funcionalidade <STASH>. Pelo comando <git
 stash>,
@@ -1771,7 +1703,7 @@ d) reverter a versão do código a uma versão específica (cherry pick).
 
 e) exibir as diferenças entre duas versões quaisquer do código (diff).
 
-Item. 15. (UFPE - UFPE - 2017) O GIT é um sistema de controle de versão distribuído, e
+15. (UFPE - UFPE - 2017) O GIT é um sistema de controle de versão distribuído, e
 também um
 gerenciamento de código fonte. Projetado e desenvolvido por Linus Torvalds, a ferramenta
 foi
@@ -1787,7 +1719,7 @@ d) o comando 'git init' pode reinicializar um repositório já criado.
 
 e) o comando 'git bisect' divide o repositório atual em um ou mais repositórios diferentes.
 
-Item. 16. (UFPE - UFPE- 2017) A respeito de sistemas de controle de versão, assinale a alternativa
+16. (UFPE - UFPE- 2017) A respeito de sistemas de controle de versão, assinale a alternativa
 correta.
 
 a) O SVN pode ser considerado um sistema de controle de versão distribuído.
@@ -1803,7 +1735,7 @@ versões de um arquivo.
 
 e) Uma cópia local sempre estará atualizada quando se usa o controle de versões GIT.
 
-Item. 17. (FCC - Prefeitura de Teresina - PI - 2016) No sistema de controle de versões
+17. (FCC - Prefeitura de Teresina - PI - 2016) No sistema de controle de versões
 Mercurial, para
 exibir, em detalhes, cada evento que ocorreu no repositório utiliza-se o comando
 a) hg status all.
@@ -1818,13 +1750,11 @@ e) hgrc show -a.
 
 x
 
-
 / 35
 
 /
 
-
-Item. 18. (VUNESP - FUNDUNESP- 2016) O Git, ao tratar os arquivos que devem sofrer o
+18. (VUNESP - FUNDUNESP- 2016) O Git, ao tratar os arquivos que devem sofrer o
 processo de
 controle de versões, classifica o estado desses arquivos em 3 categorias, definidas como
 a) checked (verificado), tracked (acompanhado) e identified (identificado).
@@ -1837,7 +1767,7 @@ d) ignored (ignorado), ready (pronto) e staged (preparado).
 
 e) ready (pronto), cloned (clonado) e modified (modificado).
 
-Item. 19. (BIO-RIO - Pref São Gonçalo - 2016) No que diz respeito às características das
+19. (BIO-RIO - Pref São Gonçalo - 2016) No que diz respeito às características das
 ferramentas de
 controle de versão SVN e GIT, analise as afirmativas a seguir.
 
@@ -1865,60 +1795,56 @@ d) somente as afirmativas I e II estão corretas.
 
 e) todas as afirmativas estão corretas.
 
-Item. 20. (CESPE - STJ - 2015) O Git, sistema de controle de versões que mantém um
+20. (CESPE - STJ - 2015) O Git, sistema de controle de versões que mantém um
 histórico completo
 de todas as alterações, permite a recuperação das versões do projeto na busca de
 informações
 sobre o estado dos arquivos em versões anteriores.
 
-Item. 21. (CESPE - ANATAQ - 2014) As ferramentas de controle de versão Git e SVN oferecem
+21. (CESPE - ANATAQ - 2014) As ferramentas de controle de versão Git e SVN oferecem
 o mesmo
 grau de confiabilidade no armazenamento das informações e são ambas implantadas conforme
 o conceito de sistemas de controle de versão distribuído.
 
-Item. 22. (CESPE - ANATEL - 2014) Os comandos da ferramenta Git são relativamente simples:
+22. (CESPE - ANATEL - 2014) Os comandos da ferramenta Git são relativamente simples:
 para
 adicionar, por exemplo, um arquivo novo ao repositório no Git, basta utilizar o
 comando commit
 depois de efetuar o comando add.
 
-
 / 85
 
 /
 
-
 GABARITo
 
-Item. 1. LETRA C 9. LETRA B
-Item. 17. LETRA D
+1. LETRA C 9. LETRA B
+17. LETRA D
 
-Item. 2. LETRA E 10. LETRA B
-Item. 18. LETRA B
+2. LETRA E 10. LETRA B
+18. LETRA B
 
-Item. 3. LETRA D 11. ERRADO
-Item. 19. LETRA A
+3. LETRA D 11. ERRADO
+19. LETRA A
 
-Item. 4. LETRA B 12. LETRA D
-Item. 20. CORRETO
+4. LETRA B 12. LETRA D
+20. CORRETO
 
-Item. 5. CORRETO 13. LETRA C
-Item. 21. ERRADO
+5. CORRETO 13. LETRA C
+21. ERRADO
 
-Item. 6. CORRETO 14. LETRA A
-Item. 22. CORRETO
+6. CORRETO 14. LETRA A
+22. CORRETO
 
-Item. 7. ERRADO 15. LETRA E
+7. ERRADO 15. LETRA E
 
-Item. 8. LETRA A 16. LETRA B
+8. LETRA A 16. LETRA B
 
 x
-
 
 / 35
 
 /
-
 
 Conceitos Básicos
 
@@ -1951,11 +1877,9 @@ colaboração e integração cruzada entre os diversos componentes de tecnologia
 informação,
 como Dev, Ops e Q&A.
 
-
 / 85
 
 /
-
 
 Professor, espera um pouco aí! O que acontece se eu juntar conceitos de Desenvolvimento de Software,
 Operação de Sistemas e Garantia de Qualidade? Surgirá, então, o conceito de DevOps!
@@ -1977,7 +1901,6 @@ diferentes, tratando de infraestrutura e desenvolvimento, mas não houve um
 manifesto
 formal, como o manifesto ágil.
 
-
 The Dev
 
 Innovates and
@@ -1997,11 +1920,9 @@ APP QUALITY 22%
 
 CUSTOMERS 22%
 
-
 The Ops
 
 NEW SERVICES 21%
-
 
 Keeps infrastructure
 running smoothly.
@@ -2017,9 +1938,7 @@ COST SAVINGS 18%
 
 DEPLOY FREQUENCY 17%
 
-
 www. estra tegiaconcursos. com. br
-
 
 Parece simples fazer a infraestrutura conversar de forma harmônica com o desenvolvimento,
 mas não é tão fácil! Qual é o papel da infraestrutura? É sustentar os sistemas em
@@ -2076,7 +1995,6 @@ cliente
 reclamava e começava uma briga muito comum representada pelas duas imagens anteriores.
 Sim, galera... rola essa briga!
 
-
 Desenvolvedores afirmando que a Infraestrutura é engessada, lenta e que não oferece um
 ambiente
 adequado para o desenvolvimento de aplicações; já a Infraestrutura
@@ -2127,16 +2045,13 @@ infraestrutura também atue para liberar, controlar e entregar a versão do
 sistema de forma
 contínua, periódica e preferencialmente automática.
 
-
 Z 85
 
 /
 
-
 TODAY'S DEVOPS
 
 PART DEV PART OPS
-
 
 Application
 Performance
@@ -2154,7 +2069,6 @@ The applications need to be
 up and running and it's Ops
 responsibility to ensure
 uptime and SLAs are in order.
-
 
 End User
 Analytics
@@ -2181,7 +2095,6 @@ metrics to solve problems
 10x faster.
 
 </> Quality Code
-
 
 Developers need to ensure their
 deployments and new releases
@@ -2213,7 +2126,6 @@ observed baselines improve alert
 quality and reduce alert noise.
 
 *
-
 
 Vamos resumir: a preocupação é com os objetivos quase diametralmente opostos da galera
 de
@@ -2278,11 +2190,9 @@ ajuda a equipe de desenvolvimento a balancear a qualidade e velocidade (Correto)
 (TCU - 2015) De acordo com a abordagem DevOps (development - operations), os
 desafios da produção de software de qualidade devem ser vencidos com o envolvimento
 
-
 Z 85
 
 /
-
 
 dos desenvolvedores na operação dos sistemas com os quais colaboraram
 no
@@ -2339,11 +2249,9 @@ valor
 agregado para os usuários, assemelhando-se, por isso, com objetivos dos métodos
 iterativos e em cascata.
 
-
 / 85
 
 /
-
 
 c) A infraestrutura de nuvem de provedores internos e externos vem restringindo o uso
 de DevOps pelas organizações.
@@ -2400,11 +2308,9 @@ infraestrutura provisionada e gerenciada por meio de técnicas de desenvolviment
 de
 código e de software, como, por exemplo, controle de versão e integração contínua.
 
-
 Z 85
 
 /
-
 
 Comentários: trata-se realmente de uma prática em que a infra estrutura provisionada e
 gerenciada por meio de técnicas de
@@ -2431,7 +2337,6 @@ Comentários: ele realmente combina práticas e ferramentas que aumentam a capac
 uma organização de distribuir
 aplicativos e serviços e pode ser realizado na sprint do Scrum por meio da integração contínua
 (Correto).
-
 
 Conceitos Básicos
 
@@ -2469,11 +2374,9 @@ eu ainda não sei o que são containers.
 
 0 QUE SÃO, DE ONDE VIERAM E POR QUE USAMOS CONTAINERS?
 
-
 X 85
 
 /
-
 
 Pessoal, um container é um ambiente isolado, que representa um conjunto de
 processos
@@ -2501,13 +2404,11 @@ qualquer lugar. Logo, podemos já derivar uma diferença fundamental entre
 Containers e
 Virtualização, veja:
 
-
 Aplicação
 
 Aplicação
 
 Aplicação
-
 
 Birbáriós '
 Bibliotecas
@@ -2518,7 +2419,6 @@ BMIctecas
 
 Binários '
 Bibliotecas
-
 
 S-O-
 
@@ -2553,7 +2453,6 @@ Aplicação
 Binários i1
 Bibliotecas
 
-
 Hardware do servidor
 
 Virtualizaçao
@@ -2567,11 +2466,9 @@ ele
 é portátil e consistente em todas as etapas de desenvolvimento. Essa imagem é um
 modelo de
 
-
 X 85
 
 /
-
 
 somente leitura que é utilizada para subir um container. O Docker nos permite
 construir nossas
@@ -2613,11 +2510,9 @@ principais comandos do Docker, que serve para visualizar informações referente
 consumo de
 recursos de todos os containers, deve-se executar no terminal: Docker container stats.
 
-
 X 85
 
 /
-
 
 Assim, pode-se criar ambientes de teste e/ou produção utilizando o LXC de forma ágil
 e segura
@@ -2687,11 +2582,9 @@ um sistema Linux Ubuntu com 0 Docker instalado, para visualizar informações re
 ao consumo de recursos de todos
 os containers, deve-se executar no terminal: Docker container stats (Correto).
 
-
 X 85
 
 /
-
 
 QUESTõES CoMENTADAS - DoCkER
 
@@ -2725,7 +2618,7 @@ trata-se da EXPOSE".
 
 Gabarito: Letra C
 
-Item. 2. (COMPERVE / TJ-RN - 2020) Os volumes são mecanismos utilizados para persistir os
+2. (COMPERVE / TJ-RN - 2020) Os volumes são mecanismos utilizados para persistir os
 dados
 gerados e usados pelos containers do Docker. Embora as montagens de ligação dependam da
 estrutura de diretórios da máquina host, os volumes são completamente
@@ -2746,13 +2639,11 @@ docker volume create my-volume. Bem simples, né?
 
 Gabarito: Letra A
 
-
 / 85
 
 /
 
-
-Item. 3. (AOCP / MJSP - 2020) O Docker possibilita que uma imagem com todos os
+3. (AOCP / MJSP - 2020) O Docker possibilita que uma imagem com todos os
 aplicativos e
 configurações realizadas em um contêiner sejam transferidos para outro host,
 bastando que
@@ -2776,7 +2667,7 @@ aplicativos e configurações realizadas em um contêiner sejam transferidos par
 
 Gabarito: Letra D
 
-Item. 4. (COMPERVE/TJ-RN - 2020) Uma imagem do Dockeré criada a partirde uma série de
+4. (COMPERVE/TJ-RN - 2020) Uma imagem do Dockeré criada a partirde uma série de
 camadas,
 onde cada uma representa uma instrução no Dockerfile da imagem. Considerando
 que um
@@ -2797,7 +2688,7 @@ mailserver.
 
 Gabarito: Letra C
 
-Item. 5. (FURB / Prefeitura De Blumenau - 2022) Sobre Docker, marque a alternativa CORRETA:
+5. (FURB / Prefeitura De Blumenau - 2022) Sobre Docker, marque a alternativa CORRETA:
 
 a) Dockeré uma plataforma de software livre que permite que os desenvolvedores empacotem
 aplicativos em contêineres, que consistem em componentes executáveis e
@@ -2811,11 +2702,9 @@ interfaces com o
 usuário do lado do servidor. A arquitetura define claramente uma separação entre a lógica da
 x
 
-
 X 85
 
 /
-
 
 aplicação e a apresentação, enquanto torna maisfácil ligara camada de apresentação ao
 código
@@ -2853,7 +2742,7 @@ está perfeita.
 
 Gabarito: Letra A
 
-Item. 6. (CESPE / DPE-RO - 2022) A tecnologia Docker usa o kernel do Linux e recursos do
+6. (CESPE / DPE-RO - 2022) A tecnologia Docker usa o kernel do Linux e recursos do
 kernel para
 segregar processos; as ferramentas baseadas nos contêineres Linux oferecem aos
 usuários
@@ -2883,11 +2772,9 @@ virtuais, sendo inicializadas e interrompidas mais lentamente.
 
 x
 
-
 X 85
 
 /
-
 
 e) Os contêineres Docker facilitam a colocação rápida de novas versões de software, com
 novos
@@ -2902,7 +2789,7 @@ das mais relevantes vantagens de se utilizar Docker.
 
 Gabarito: Letra E
 
-Item. 7. (COPERV / UFSC - 2018) A respeito da solução de contêiner Docker, analise as
+7. (COPERV / UFSC - 2018) A respeito da solução de contêiner Docker, analise as
 afirmativas
 abaixo e assinale a alternativa correta.
 
@@ -2938,7 +2825,7 @@ momento da execução.
 
 Gabarito: Letra E
 
-Item. 8. (CESPE / SLU - 2019) O Docker é uma ferramenta open source que permite a
+8. (CESPE / SLU - 2019) O Docker é uma ferramenta open source que permite a
 criação de
 ambientes virtuais por meio de Linux Containers, sendo uma das vantagens dos contêineres
 Dockerfornecer uma virtualização em nível de sistema operacional, o que isola as
@@ -2947,11 +2834,9 @@ execução e não utiliza tantos recursos da máquina quanto as máquinas virtua
 
 Comentários:
 
-
 / 85
 
 /
-
 
 Perfeito! O Docker é uma ferramenta open source que permite a criação de ambientes
 virtuais por
@@ -2963,7 +2848,7 @@ tantos recursos da máquina quanto as máquinas virtuais.
 
 Gabarito: Correto
 
-Item. 9. (FCC / DPE-RS - 2017) Considere, por hipótese, que a equipe de analistas da
+9. (FCC / DPE-RS - 2017) Considere, por hipótese, que a equipe de analistas da
 Defensoria Pública
 tenha optado pelo uso do Docker. Esta decisão foi motivada pelo fato de o Docker:
 
@@ -3014,11 +2899,9 @@ b) substituir a imagem base por uma versão mais recente;
 
 c) separar comandos RUN complexos em comandos menores;
 
-
 / 85
 
 /
-
 
 d) reordenar os comandos de forma que o cache seja utilizado com maior frequência;
 
@@ -3075,11 +2958,9 @@ fornecer uma virtualização em nível de sistema operacional, o que isola as ap
 em execução
 e não utiliza tantos recursos da máquina quanto as máquinas virtuais.
 
-
 X 85
 
 /
-
 
 Gabarito: Correto
 
@@ -3144,9 +3025,7 @@ a) III e IV
 
 x
 
-
 X 85
-
 
 b) II e IV
 
@@ -3213,14 +3092,13 @@ c) expõe um serviço do container para a rede Docker default.
 
 d) documenta quais portas se pretende publicar.
 
-
 Comentários:
 
 Conforme vimos, a instrução EXPOSE do Docker documenta quais portas se pretende publicar.
 
 Gabarito: Letra D
 
-Item. 17. (CESPE / SEFAZ-CE - 2021) As alterações efetuadas em arquivos e diretórios
+17. (CESPE / SEFAZ-CE - 2021) As alterações efetuadas em arquivos e diretórios
 copiados de uma
 camada base para dentro de um container docker, por padrão, são
 vistas pelos
@@ -3235,11 +3113,9 @@ podem ser vistas fora dele.
 Gabarito: Errado
 x
 
-
 X 85
 
 /
-
 
 LISTA DE QUESTõES - DoCkER
 
@@ -3261,7 +3137,7 @@ d) DOCKER
 
 e) SERVERPORT
 
-Item. 2. (COMPERVE / TJ-RN - 2020) Os volumes são mecanismos utilizados para persistir os
+2. (COMPERVE / TJ-RN - 2020) Os volumes são mecanismos utilizados para persistir os
 dados
 gerados e usados pelos containers do Docker. Embora as montagens de ligação dependam da
 estrutura de diretórios da máquina host, os volumes são completamente
@@ -3274,7 +3150,7 @@ b) docker create volume my-volume
 c) docker run create volume my-volume
 d) docker create run volume my-volume
 
-Item. 3. (AOCP / MJSP - 2020) O Docker possibilita que uma imagem com todos os
+3. (AOCP / MJSP - 2020) O Docker possibilita que uma imagem com todos os
 aplicativos e
 configurações realizadas em um contêiner sejam transferidos para outro host,
 bastando que
@@ -3290,7 +3166,7 @@ d) Portabilidade.
 
 e) Drill up Contêiner.
 
-Item. 4. (COMPERVE/TJ-RN - 2020) Uma imagem do Dockeré criada a partirde uma série de
+4. (COMPERVE/TJ-RN - 2020) Uma imagem do Dockeré criada a partirde uma série de
 camadas,
 onde cada uma representa uma instrução no Dockerfile da imagem. Considerando
 que um
@@ -3303,7 +3179,7 @@ b) docker layers mailserver
 c) docker history mailserver
 d) docker image mailserver
 
-Item. 5. (FURB / Prefeitura De Blumenau - 2022) Sobre Docker, marque a alternativa CORRETA:
+5. (FURB / Prefeitura De Blumenau - 2022) Sobre Docker, marque a alternativa CORRETA:
 
 a) Docker é uma plataforma de software livre que permite que os desenvolvedores
 empacotem
@@ -3339,7 +3215,7 @@ aplicações sofisticadas para empresas ou no desenvolvimento de sites padrão.
 Tecnicamente, é
 uma biblioteca de componentes de interface gráfica para as aplicações web baseadas em JSF.
 
-Item. 6. (CESPE / DPE-RO - 2022) A tecnologia Docker usa o kemel do Linux e recursos do
+6. (CESPE / DPE-RO - 2022) A tecnologia Docker usa o kemel do Linux e recursos do
 kernel para
 segregar processos; as ferramentas baseadas nos contêineres Linux oferecem aos
 usuários
@@ -3367,12 +3243,11 @@ d) As instâncias de aplicativos em contêiner Docker usam mais memória do que 
 máquinas
 virtuais, sendo inicializadas e interrompidas mais lentamente.
 
-
 e) Os contêineres Docker facilitam a colocação rápida de novas versões de software, com
 novos
 recursos de negócios, e a rápida reversão para uma versão anterior, se necessário.
 
-Item. 7. (COPERV / UFSC - 2018) A respeito da solução de contêiner Docker, analise as
+7. (COPERV / UFSC - 2018) A respeito da solução de contêiner Docker, analise as
 afirmativas
 abaixo e assinale a alternativa correta.
 
@@ -3396,14 +3271,14 @@ d) Somente as afirmativas I e II estão corretas.
 
 e) Somente a afirmativa I está correta.
 
-Item. 8. (CESPE / SLU - 2019) O Docker é uma ferramenta open source que permite a
+8. (CESPE / SLU - 2019) O Docker é uma ferramenta open source que permite a
 criação de
 ambientes virtuais por meio de Linux Containers, sendo uma das vantagens dos contêineres
 Dockerfornecer uma virtualização em nível de sistema operacional, o que isola as
 aplicações em
 execução e não utiliza tantos recursos da máquina quanto as máquinas virtuais.
 
-Item. 9. (FCC / DPE-RS - 2017) Considere, por hipótese, que a equipe de analistas da
+9. (FCC / DPE-RS - 2017) Considere, por hipótese, que a equipe de analistas da
 Defensoria Pública
 tenha optado pelo uso do Docker. Esta decisão foi motivada pelo fato de o Docker:
 
@@ -3428,11 +3303,9 @@ aplicativos instalados em um contêiner e transferi-lo para outro host que
 tenha um Docker
 previamente instalado.
 
-
 X 65
 
 /
-
 
 e) obter o mesmo desempenho da virtualização baseada em hypervisor, em que cada
 contêiner
@@ -3499,11 +3372,9 @@ de máquinas virtuais que podem, cada uma, conter sistemas operacionais diferent
 Analise as
 seguintes afirmativas sobre o uso de Máquinas Virtuais e Docker.
 
-
 X 65
 
 /
-
 
 I. A virtualização permite o isolamento total do ambiente da sua aplicação, pois ela
 não emula a
@@ -3531,7 +3402,7 @@ c) I, lie III
 
 d) II, III e IV
 
-Item. 15. (CESPE / STJ - 2015) Dockerfile é um um arquivo de texto que contém todos os
+15. (CESPE / STJ - 2015) Dockerfile é um um arquivo de texto que contém todos os
 comandos, em
 ordem, necessários para construir uma determinada imagem Docker. Sobre as
 instruções
@@ -3553,7 +3424,7 @@ e) A instrução FROM configura qual será a aplicação principal do container,
 executada
 após a inicialização do container.
 
-Item. 16. (COMPERVE/TJ-RN-2O2o) Uma imagem de containerdo Dockeré um pacote de software leve,
+16. (COMPERVE/TJ-RN-2O2o) Uma imagem de containerdo Dockeré um pacote de software leve,
 independente e executável que inclui tudo o que é necessário para executar uma
 aplicação. Na
 criação de um arquivo Dockerfile, a instrução EXPOSE:
@@ -3566,48 +3437,42 @@ c) expõe um serviço do container para a rede Docker default.
 
 d) documenta quais portas se pretende publicar.
 
-
 X 65
 
 /
 
-
-Item. 17. (CESPE / SEFAZ-CE - 2021) As alterações efetuadas em arquivos e diretórios
+17. (CESPE / SEFAZ-CE - 2021) As alterações efetuadas em arquivos e diretórios
 copiados de uma
 camada base para dentro de um container docker, por padrão, são
 vistas pelos
 múltiplos containers do mesmo sistema de arquivos.
 
-
 X 65
 
 /
-
 
 GABARITo - DoCkER
 
-Item. 1. CORRETO 7. ERRADO
-Item. 13. LETRA B
+1. CORRETO 7. ERRADO
+13. LETRA B
 
-Item. 2. ERRADO 8. CORRETO
-Item. 14. LETRA D
+2. ERRADO 8. CORRETO
+14. LETRA D
 
-Item. 3. ERRADO 9. ERRADO
-Item. 15. LETRA D
+3. ERRADO 9. ERRADO
+15. LETRA D
 
-Item. 4. CORRETO ío.CORRETO
+4. CORRETO ío.CORRETO
 16.ERRADO
 
-Item. 5. ERRADO li. ERRADO
-Item. 17. ERRADO
+5. ERRADO li. ERRADO
+17. ERRADO
 
-Item. 6. CORRETO 12. CORRETO
-
+6. CORRETO 12. CORRETO
 
 X 65
 
 /
-
 
 Conceitos Básicos
 
@@ -3649,11 +3514,9 @@ disponíveis em nuvem, logo kubernetes é ideal para cloud native apps que
 podem exigir
 escalabilidade rápida.
 
-
 X 65
 
 /
-
 
 Para ficar mais claro, imagine o seguinte: Você precisa fazer deploy de uma nova
 versão de uma
@@ -3721,7 +3584,6 @@ MÁQUINAS KUBERNETES DESCRIÇÃO
 
 NODE O papel de um node é executar os contêineres que encapsulam as aplicações.
 
-
 0 etcd é a base de dados distribuída que é utilizada para armazenar tudo o que
 acontece dentro do cluster, incluindo o estado da aplicação.
 
@@ -3760,7 +3622,6 @@ encontra-los dinamicamente em qualquer lugar do cluster. A seguir conseguimos
 didaticamente
 ver a diferença da virtualização, do emprego de Docker e do Kubernetes:
 
-
 r APP
 
 4- LIBRARIES
@@ -3768,13 +3629,11 @@ r APP
 
 O kubernetes
 
-
 L OPERATING SYSTEM
 
 L LIBRARIES
 
 Virtual machine Docker container
-
 
 Hypervisor ijjjjF docker
 
@@ -3785,7 +3644,6 @@ Hypervisor ijjjjF docker
 te
 docker
 
-
 Hardware I 1 Hardware I
 
 áf docker docker
@@ -3793,11 +3651,9 @@ Hardware I 1 Hardware I
 Virtualized deployment Container deployment Kubernetes
 deployment
 
-
 X 65
 
 /
-
 
 Precisamos por últimos falar do CNFC (Cloud Native Computing Foundation):
 
@@ -3826,7 +3682,6 @@ de dados.
 Comentários: Perfeito! Foi a primeira que vimos: Kubernetes é uma ferramenta de
 orquestração que oferece recursos de
 gerenciamento para containers, como balanceamento de carga e migração sem perda de dados (Correto).
-
 
 QUESTõES CoMENTADAS - KUBERNETES
 
@@ -3880,14 +3735,13 @@ mecanismos de comunicação entre processos.
 
 Gabarito: Letra D
 
-Item. 2. (CESPE / SEFAZ-CE - 2021) Com a implantação do Kubernetes, é obtido um cluster
+2. (CESPE / SEFAZ-CE - 2021) Com a implantação do Kubernetes, é obtido um cluster
 com pelo
 menos um nó de trabalho (worker node); os nós de trabalho, por sua vez, hospedam
 vários
 componentes da carga de trabalho do aplicativo.
 
 Comentários:
-
 
 Pessoal, com a implantação do Kubernetes, é obtido um cluster com pelo menos um nó
 de trabalho
@@ -3897,7 +3751,7 @@ do aplicativo.
 
 Gabarito: Correto
 
-Item. 3. (CESPE / SERPRO - 2020) A camada de gerenciamento do Kubernetes
+3. (CESPE / SERPRO - 2020) A camada de gerenciamento do Kubernetes
 possui o
 componente etcd, cuja função é observar pods que foram criados sem nenhum node
 atribuído
@@ -3913,7 +3767,7 @@ foram criados sem nenhum noda atribuído e selecionar um node para execução.
 
 Gabarito: Errado
 
-Item. 4. (IADES / BRB - 2021) Kubernetes é uma plataforma de código aberto, portável e
+4. (IADES / BRB - 2021) Kubernetes é uma plataforma de código aberto, portável e
 extensiva para
 o gerenciamento de cargas de trabalho e serviços distribuídos em contêineres, que
 facilita tanto
@@ -3951,15 +3805,13 @@ de comando é o Kubectl.
 
 x
 
-
 X 85
 
 /
 
-
 Gabarito: Letra C
 
-Item. 5. (CESPE / SEFAZ-CE - 2021) No Kubernetes, kubelet é uma pequena aplicação
+5. (CESPE / SEFAZ-CE - 2021) No Kubernetes, kubelet é uma pequena aplicação
 localizada em
 um nó que se comunica com o plano de controle, assegurando que os containers estejam
 em
@@ -3977,7 +3829,7 @@ Kubernetes
 
 Gabarito: Correto
 
-Item. 6. (PUC-RS / TJ-MS - 2017) Sistemas virtualizados e containers são conceitos
+6. (PUC-RS / TJ-MS - 2017) Sistemas virtualizados e containers são conceitos
 importantes para
 computação na nuvem. Para gerenciar grande número de servidores físicos,
 virtualizados e
@@ -4021,11 +3873,9 @@ mais enrolação, está perfeita a definição: Kubernetes é uma ferramenta de
 orquestração que
 x
 
-
 X 85
 
 /
-
 
 oferece recursos de gerenciamento para containers, como balanceamento de carga
 e migração
@@ -4033,7 +3883,7 @@ sem perda de dados.
 
 Gabarito: Letra E
 
-Item. 7. (CESPE / SEFAZ-CE - 2021) No Kubernetes, kubelet é uma pequena aplicação
+7. (CESPE / SEFAZ-CE - 2021) No Kubernetes, kubelet é uma pequena aplicação
 localizada em um
 nó que se comunica com o plano de controle, assegurando que os containers
 estejam em
@@ -4049,7 +3899,7 @@ e mais simples objeto do Kubernetes.
 
 Gabarito: Correto
 
-Item. 8. (CESPE / SERPRO - 2021) Para obter o status de um node nomeado como nodei em um
+8. (CESPE / SERPRO - 2021) Para obter o status de um node nomeado como nodei em um
 cluster,
 deve ser executado o comando a seguir: Kubectl describe node nodei.
 
@@ -4059,7 +3909,7 @@ Comentários:
 
 Gabarito: Anulada
 
-Item. 9. (CESPE / SERPRO - 2021) A camada de gerenciamento possui o componente etcd, cuja
+9. (CESPE / SERPRO - 2021) A camada de gerenciamento possui o componente etcd, cuja
 função
 é observar pods que foram criados sem nenhum node atribuído e selecionar um node para
 execução.
@@ -4078,11 +3928,9 @@ acontece dentro do cluster, incluindo o estado da aplicação.
 MASTER O master é responsável pelos principais componentes do kubernetes, como o
 scheduler, que tem a responsabilidadae de controlar a alocação de recursos no cluster.
 
-
 / 85
 
 /
-
 
 A questão trata do kube scheduler que é o componente cuja função é observar pods que
 foram
@@ -4124,7 +3972,7 @@ possamos cria-lo como serviço de rede, basta configurar um serviço (service).
 
 Gabarito: Letra C
 
-Item. 11. (CESPE / STJ - 2015) A orquestração automatiza a implantação, o gerenciamento, a
+11. (CESPE / STJ - 2015) A orquestração automatiza a implantação, o gerenciamento, a
 escala e a
 rede dos contêineres. As ferramentas de orquestração de contêineres
 fornecem
@@ -4143,11 +3991,9 @@ e redução e automação em clusters de hosts.
 
 x
 
-
 X 85
 
 /
-
 
 c) de orquestração de contêiner de código aberto, sendo o mecanismo de clusterização
 nativo
@@ -4171,11 +4017,9 @@ de comando. Docker Swarm e Kubernets são orquestradores de container independen
 
 Gabarito: Letra C
 
-
 / 85
 
 /
-
 
 LISTA DE QUESTõES - KUBERNETES
 
@@ -4212,19 +4056,19 @@ d) I e II, somente.
 
 e) I e III, somente.
 
-Item. 2. (CESPE / SEFAZ-CE - 2021) Com a implantação do Kubernetes, é obtido um cluster
+2. (CESPE / SEFAZ-CE - 2021) Com a implantação do Kubernetes, é obtido um cluster
 com pelo
 menos um nó de trabalho (worker node); os nós de trabalho, por sua vez, hospedam
 vários
 componentes da carga de trabalho do aplicativo.
 
-Item. 3. (CESPE / SERPRO - 2020) A camada de gerenciamento do
+3. (CESPE / SERPRO - 2020) A camada de gerenciamento do
 Kubernetes possui o
 componente etcd, cuja função é observar pods que foram criados sem nenhum node
 atribuído
 e selecionar um node para execução.
 
-Item. 4. (IADES / BRB - 2021) Kubernetes é uma plataforma de código aberto, portável e
+4. (IADES / BRB - 2021) Kubernetes é uma plataforma de código aberto, portável e
 extensiva para
 o gerenciamento de cargas de trabalho e serviços distribuídos em contêineres, que
 facilita tanto
@@ -4244,20 +4088,19 @@ por meio de interface de linha de comando, pela qual é possível realizar a
 implantação de
 aplicações, inspecionar e gerenciar recursos do cluster e visualizar logs.
 
-
 a) Kubeadm
 b) Minikube
 c) Kubectl
 d) Kind
 e) Kubelet
 
-Item. 5. (CESPE / SEFAZ-CE - 2021) No Kubernetes, kubelet é uma pequena aplicação
+5. (CESPE / SEFAZ-CE - 2021) No Kubernetes, kubelet é uma pequena aplicação
 localizada em
 um nó que se comunica com o plano de controle, assegurando que os containers estejam
 em
 execução em um pod, que consiste no menor e mais simples objeto do Kubernetes.
 
-Item. 6. (PUC-RS / TJ-MS - 2017) Sistemas virtualizados e containers são conceitos
+6. (PUC-RS / TJ-MS - 2017) Sistemas virtualizados e containers são conceitos
 importantes para
 computação na nuvem. Para gerenciar grande número de servidores físicos,
 virtualizados e
@@ -4293,23 +4136,22 @@ e) Kubernetes é uma ferramenta de orquestração que oferece recursos de gerenc
 para
 containers, como balanceamento de carga e migração sem perda de dados.
 
-Item. 7. (CESPE / SEFAZ-CE - 2021) No Kubernetes, kubelet é uma pequena aplicação
+7. (CESPE / SEFAZ-CE - 2021) No Kubernetes, kubelet é uma pequena aplicação
 localizada em um
 nó que se comunica com o plano de controle, assegurando que os containers
 estejam em
 execução em um pod, que consiste no menor e mais simples objeto do Kubernetes.
 
-Item. 8. (CESPE/SERPRO-2021) Para obter o status de um node nomeado como nodei em um
+8. (CESPE/SERPRO-2021) Para obter o status de um node nomeado como nodei em um
 cluster,
 deve ser executado o comando a seguir: Kubectl describe node nodei
 
-
-Item. 9. (CESPE / SERPRO - 2021) A camada de gerenciamento possui o componente etcd, cuja
+9. (CESPE / SERPRO - 2021) A camada de gerenciamento possui o componente etcd, cuja
 função
 é observar pods que foram criados sem nenhum node atribuído e selecionar um node para
 execução.
 
-Item. 10. (FGV / TJ-RO - 2021) A equipe de desenvolvimento de sistemas de um tribunal de
+10. (FGV / TJ-RO - 2021) A equipe de desenvolvimento de sistemas de um tribunal de
 contas está
 guiando a implantação de um Webservice REST. A implantação será dividida nos
 seguintes
@@ -4334,7 +4176,7 @@ c) service
 d) ingress
 e) statefulSet
 
-Item. 11. (CESPE / STJ - 2015) A orquestração automatiza a implantação, o gerenciamento, a
+11. (CESPE / STJ - 2015) A orquestração automatiza a implantação, o gerenciamento, a
 escala e a
 rede dos contêineres. As ferramentas de orquestração de contêineres
 fornecem
@@ -4365,36 +4207,31 @@ segurança e monitoramento, se integrando nativamente.
 
 x
 
-
 X 85
 
 /
 
-
 GABARITo - KUBERNETES
 
+1. CORRETO 5- ERRADO
 
-Item. 1. CORRETO 5- ERRADO
-
-Item. 2. CORRETO 6. ERRADO
+2. CORRETO 6. ERRADO
 
 3- CORRETO 7- CORRETO
 
 4- CORRETO 8. ANULADA
 
-Item. 9. ERRADO
+9. ERRADO
 
-Item. 10. LETRA C
+10. LETRA C
 
-Item. 11. LETRA C
+11. LETRA C
 
 x78
-
 
 X 85
 
 /
-
 
 Conceitos Básicos
 
@@ -4414,13 +4251,11 @@ desenvolvimento utilizando metodologias DevOps, atendendo mais rapidamente e com
 menor
 esforço as demandas de negócio.
 
-
 Red Hat
 
 OpenShift Container Platform
 
 O ::: © kube:admin *
-
 
 Home
 
@@ -4428,11 +4263,9 @@ Cataloq
 
 Project: all projects
 
-
 O Add *
 
 Cluster Status
-
 
 Workloads
 
@@ -4478,7 +4311,6 @@ your environment as a cluster administrator or an application
 developer.
 
 Additional Support
-
 
 Cluster S tatus
 Cluster Settings
@@ -4529,7 +4361,6 @@ containers
 kubernetes baseada em nuvem, literalmente um legitimo PAAS (Plataform as a service),
 além de
 parcialmente serconstruído em Dockertambém.
-
 
 Logo, o Openshift oferece segurança consistente, monitoramento integrado,
 gerenciamento
@@ -4585,11 +4416,9 @@ plataforma de contêiner que funciona com o Kubernetes para ajudar os
 aplicativos a serem
 executados com mais eficiência.
 
-
 X 85
 
 /
-
 
 QUESTõES CoMENTADAS - OPENSHIFT
 
@@ -4610,7 +4439,7 @@ As imagens dos contêineres no Openshift conforme vimos são armazenadas no Regi
 
 Gabarito: Letra D
 
-Item. 2. (FGV/FUNSAÚDE-CE-2021) Em um cluster Openshift, há uma série de configurações que
+2. (FGV/FUNSAÚDE-CE-2021) Em um cluster Openshift, há uma série de configurações que
 são
 feitas e devem ser persistidas. O estado persistente do master é armazenado no componente
 a) etcd
@@ -4625,7 +4454,7 @@ Conforme vimos, no Openshift o estado persistente do masteré armazenado no comp
 
 Gabarito: Letra A
 
-Item. 3. (CESPE / ME - 2020) Na situação em que vários aplicativos desenvolvidos e
+3. (CESPE / ME - 2020) Na situação em que vários aplicativos desenvolvidos e
 baseados em
 microsserviços com abordagem de containers devem ser disponibilizados aos usuários de uma
 organização, é correto instalar e configurar a OpenShift Container Platform, que é a
@@ -4636,7 +4465,6 @@ de Kubernetes para disponibilização desses aplicativos.
 
 Comentários:
 
-
 A questão não faz nenhum sentido, Kubernetes pode ser utilizado em qualquer
 plataforma, na
 Microsoft é oferecido através do AKS (Serviço de Kubernetes da Azure) no
@@ -4645,11 +4473,9 @@ OpenShift está correto.
 
 Gabarito: Errado
 
-
 X 85
 
 /
-
 
 LISTA DE QUESTõES - OPENSHIFT
 
@@ -4664,7 +4490,7 @@ c) Secret
 d) Registry
 e) Master
 
-Item. 2. (FGV/FUNSAÚDE-CE-2021) Em um cluster Openshift, há uma série de configurações que
+2. (FGV/FUNSAÚDE-CE-2021) Em um cluster Openshift, há uma série de configurações que
 são
 feitas e devem ser persistidas. O estado persistente do master é armazenado no componente
 a) etcd
@@ -4673,7 +4499,7 @@ c) API server
 d) Namespace
 e) Replica controller
 
-Item. 3. (CESPE / ME - 2020) Na situação em que vários aplicativos desenvolvidos e
+3. (CESPE / ME - 2020) Na situação em que vários aplicativos desenvolvidos e
 baseados em
 microsserviços com abordagem de containers devem ser disponibilizados aos usuários de uma
 organização, é correto instalar e configurar a OpenShift Container Platform, que é a
@@ -4682,13 +4508,10 @@ gerenciamento de containers da RedHat, pois não há solução da Microsoft que 
 serviços
 de Kubernetes para disponibilização desses aplicativos.
 
-
 GABARITo - OPENSHIFT
 
-Item. 1. ERRADO 2. LETRA A
-Item. 3. LETRA D
-
+1. ERRADO 2. LETRA A
+3. LETRA D
 
 /
-
 

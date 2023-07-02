@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Emprego dos sinais de pontuação.
-
+# Língua Portuguesa - Emprego dos sinais de pontuação.
 
 Índice
 
@@ -16,7 +15,6 @@ Capítulo. Língua Portuguesa - Emprego dos sinais de pontuação.
 6) Reticências.
 
 7) Aspas.
-
 
 8) Travessão
 
@@ -45,7 +43,6 @@ Capítulo. Língua Portuguesa - Emprego dos sinais de pontuação.
 20) Lista de Questões - Parênteses - Cebraspe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NoçõES INICIAIS
 
@@ -91,7 +88,6 @@ Nome e seu complemento ou adjunto - Ex.: Tenho um carro, de corrida, mas tenho m
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Predicativo de seu objeto - Ex.: Considerei, chato o livro.
 
 Isso reflete a tendência geral de não "fatiar" termos que são lidos de
@@ -118,13 +114,11 @@ de corrida, ontem à noite— que louco!
 
 PRINCÍPIOS DA PONTUAÇÃO
 
-
 Item
 
 Circunstância
 
 Princípio
-
 
 ADJUNTOS
 
@@ -134,7 +128,6 @@ devem vir no final segundo a ordem direta.
 Se estiverem deslocados,
 geralmente, devem ser
 pontuados.
-
 
 ESCLARECIMENTO
 
@@ -158,9 +151,7 @@ algum grau esses princípios, veja:
 
 O aluno, empolgado, estudou duas horas a mais
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (Predicativo, com verbo de ligação omitido, separado por vírgula).
 
@@ -222,16 +213,13 @@ período, já vai ser capaz de acertar muitas questões, pois as bancas adoram i
 uma vírgula entre esses
 termos da ordem direta. Na confusão de um período longo, o aluno não percebe.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ESTA CM NA
 
 PROVA!
 
 = (TELEBRAS / 2022)
-
 
 : "Ora, você sabe do que eu estou falando."
 
@@ -277,7 +265,6 @@ após
 .
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 VÍRGULA, RESPIRAÇÃO E SEMÂNTICA
 
@@ -332,7 +319,6 @@ sentido
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 = do período.
 
 : Comentários:
@@ -383,12 +369,9 @@ i análise sintática. Questão correta.
 
 L
 
-
 . .
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O USO DA VÍRGULA
 
@@ -448,9 +431,7 @@ Os termos ou orações que indiquem circunstância devem vir separados
 por vírgulas quando
 estiverem fora de sua posição natural, ou seja, quando não estiverem no final do período.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 AIINçAo
 
@@ -519,9 +500,7 @@ Aqui, foi considerado correto o não uso de vírgula, por questão do
 ritmo de
 leitura.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Veja que certas expressões parecem rejeitar a vírgula, ou causariam
 uma pausa
@@ -588,9 +567,7 @@ jfacultativas, porque "também" é um adjunto adverbial de curta extensão)
 
 :Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (TJ-PA / 2020)
 
@@ -678,9 +655,7 @@ fenômeno? Como evitar que[
 [jovens vulneráveis o cometam?
 :
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :Assinale a opção correta acerca do emprego de vírgulas, no texto:
 
@@ -753,9 +728,7 @@ separados pelas vírgulas são complementos nominais de "medo").
 itens; os termos separados
 pelas vírgulas são predicativos do sujeito "os líderes").
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "É pau, é pedra, é o fim do caminho, é um resto de toco, é um pouco
 sozinho..." (a vírgula
@@ -817,9 +790,7 @@ Jsentido, sendo lógico, então não há prejuízo à coerência.
 
 :Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (IPHAN / 2018)
 
@@ -898,9 +869,7 @@ Seu lugar, portanto, não é aqui.
 
 Tinha algumas qualidades; tinha, porém, muitos defeitos.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LEMBRETE: o "mas" não aceita deslocamento, devendo vir iniciando a
 oração adversativa. A
@@ -977,9 +946,7 @@ iorações coordenadas sindéticas adversativas.
 jComentários:
 :
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :Sim. Antes do "mas", devemos usar vírgula, pois esta conjunção
 inicia uma oração coordenada
@@ -1010,13 +977,11 @@ Zl
 
 A vírgula antes do " E"
 
-
 No polissíndeto (repetição de
 conjunção)
 
 Ex.: Mas ela só reclama, e reclama, e
 reclama...
-
 
 Obrigatório
 
@@ -1027,7 +992,6 @@ ficou com ciúme (se tirar a vírgula,
 pode-se entender que ela comprou o
 gato e o cachorro.)
 
-
 Para separar orações aditivas com
 sujeitos diferentes. Porém, é
 recomendável usá-la. (esse uso
@@ -1035,7 +999,6 @@ cai muito!!}
 
 Ex.: Eu trabalhava (,) e meu filho
 gastava o dinheiro.
-
 
 Facultativo
 
@@ -1055,9 +1018,7 @@ aconselhável, recomendável).
 É facultativo o uso da vírgula
 antes de etc.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Desaconselháv
 el
@@ -1133,9 +1094,7 @@ vida até o dia em que
 
 (SEDF/2017)
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Como qualquer profissional do ambiente escolar, os monitores também são
 educadores, e cabe à :
@@ -1231,9 +1190,7 @@ Gosto muito de livros, isto é, de ler.
 
 Então, você vai mesmo desistir de estudar?
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Afinal, quem poderá nos defender?
 
@@ -1302,9 +1259,7 @@ jdúvida.
 :são obrigatoriamente isoladas por vírgula por regra. Questão incorreta.
 :
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Separar orações interferentes
 
@@ -1366,9 +1321,7 @@ O Canadá, que é um país frio, recebe muitos imigrantes.
 
 A Carta Magna de 1988, que trouxe muitos direitos difusos, é rígida.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Só há um Canadá e uma Carta Magna de 1988, então não é possível
 transformar a oração em
@@ -1445,9 +1398,7 @@ retirada, a oração passa a ser restritiva e o sentido então muda.
 passávamos férias na fazenda da Jureia, que ficava na região de lindas propriedades cafeeiras.
 Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :(PRF/2019)
 :
@@ -1538,9 +1489,7 @@ joriginais do texto, mas manteria sua correção gramatical.
 jComentários:
 :
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Muita atenção aqui!
 
@@ -1621,9 +1570,7 @@ global, decorrente (que:
 
 :Portanto, embora não cause erro, a inserção da vírgula altera os sentidos. Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Separar o objeto direto pleonástico (repetido)
 
@@ -1667,7 +1614,6 @@ RESUMITIVO Planejamento, disciplina, estudo,
 tudo é
 importante!
 
-
 DISTRIBUTIVO
 
 *O aposto distributivo ou enumerativo
@@ -1692,7 +1638,6 @@ vermelha.
 Queria dois atacantes no meu time: Messi e
 Suárez.
 
-
 ESPECIFICATIV
 
 Especifica, distingue e
@@ -1700,9 +1645,7 @@ individualiza, é o único
 
 O estado de Minas Gerais possui qrande área.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 o que não vem pontuado.
 
@@ -1710,7 +1653,6 @@ A praia de Copacabana é super sequra.
 Ele cometeu crime de latrocínio.
 
 O Poeta Fernando Pessoa era portuquês.
-
 
 APOSTO DE
 ORAÇÃO
@@ -1778,9 +1720,7 @@ jDiego, alertou sobre o risco de uma crise mental iminente afetando crianças e 
 
 A vírgula é empregada para isolar um aposto no seguinte fragmento do texto:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :a) "Como o fungo chamava-se Penicillium notatum, Fleming batizou
 a tal substância de:
@@ -1858,16 +1798,13 @@ Patrícia perdeu 22 kg! Também é possível considerar que o termo
 entre vírgulas é um aposto
 explicativo.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (PRER VÁRZEA GRANDE-PI / 2019)
 
 "— Seu Borjalino, sua competência é demais para repartição tão miúda."
 
 Aponte a alternativa que justifica corretamente o emprego da vírgula na frase acima.
-
 
 a) Separar o aposto.
 
@@ -1923,9 +1860,7 @@ Aos amigos, tudo; aos inimigos, nada.
 
 *essa última sentença é especial, pois traz duas regras de pontuação. As vírgulas em negrito
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 separam as orações coordenadas; as demais marcam a omissão do verbo.
 Por substituírem um
@@ -1998,9 +1933,7 @@ cajuzinho e da mangueira, as:
 ; segunda, 21.
 :
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 *: Julgue o item. A vírgula no termo destacado marca a omissão de uma palavra.
 *
@@ -2026,7 +1959,6 @@ QUADRO RESUMO DO USO DA VÍRGULA
 
 Aplicação Exemplo
 
-
 Adjuntos adverbiais
 deslocados
 
@@ -2039,7 +1971,6 @@ Na casa de minha namorada, vou jogar
 xadrez.
 
 Vou jogar, em casa, xadrez até a madrugada.
-
 
 Enumerar termos repetidos
 ou de mesma função sintática
@@ -2076,7 +2007,6 @@ novo.
 Ela amava intensamente, mas por pouco
 tempo.
 
-
 Separar expressões
 explicativas, retificativas e
 palavras de situação
@@ -2104,7 +2034,6 @@ dela, também tinha seus caprichos.
 Minha mãe, que era uma mulher sábia, nunca
 fez faculdade.
 
-
 Separar orações adjetivas
 explicativas
 
@@ -2114,9 +2043,7 @@ forma de oração
 O livro, cuja capa era metálica, caiu no chão.
 Os meninos, já os levei para escola.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Separar objeto direto
 pleonástico
@@ -2159,7 +2086,6 @@ O meu pai foi peão, minha mãe, solidão
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 USO DO PONTO E VÍRGULA
 
 A definição clássica do ponto e vírgula (;) é ser uma pausa maior que a vírgula e
@@ -2173,7 +2099,6 @@ Luis Fernando Veríssimo:
 . .
 
 .
-
 
 "(...) Mas tenho um temor e uma frustração. Jamais usei um ponto e vírgula. Já
 usei
@@ -2236,9 +2161,7 @@ III - fundo de garantia do tempo de serviço;
 
 Ex.: O concurseiro tem duas preocupações: uma é passar; outra é passar logo.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Veja a organização interna dessa enumeração:
 
@@ -2307,9 +2230,7 @@ vírgula não pode separar termos subordinados, opera basicamente como elemento
 de coordenação entre
 itens enumerados e orações independentes de maior extensão. Gabarito letra E.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Uso DO SINAL DE DOIS PONTOS (:)
 
@@ -2343,7 +2264,6 @@ Além disso, os dois pontos são utilizados em outras situações:
 
 uso EXEMPLOS
 
-
 Isolar oração subordinada
 substantiva apositiva (introduzida
 por conjunção integrante)
@@ -2352,7 +2272,6 @@ Ela queria apenas uma coisa: que a prova viesse loqo.
 
 (0 aposto pode vir na forma de uma oração desenvolvida.)
 
-
 Introduzir citação
 
 Dizia ele: "Estou indo pra Brasília, neste país lugar melhor não há".
@@ -2360,7 +2279,6 @@ Dizia ele: "Estou indo pra Brasília, neste país lugar melhor não há".
 *O uso mais clássico do sinal de dois pontos é marcar o discurso direto e inserir
 uma reprodução fiel, literal, da fala alheia. Nesse caso, é comum haver aspas na
 reprodução literal do comentário citado.
-
 
 Introduzir enumeração
 
@@ -2376,9 +2294,7 @@ enumerações.
 
 l«** IX
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (PREF. MANAUS/2022)
 
@@ -2449,9 +2365,7 @@ as horas do dia, e que a única atividade caseira que oferecia tal benefício er
 aquela que apresentava o dom
 de ser quase infinita em suas demandas diárias: a culinária.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A correção gramatical e o sentido original do texto CG4A1-I seriam
 preservados caso os dois-pontos
@@ -2526,9 +2440,7 @@ Comentários:
 Não é uma síntese. Os dois-pontos foram usados para anunciar a explicação daquilo que deveria ficar
 claro.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Questão incorreta.
 
@@ -2575,9 +2487,7 @@ pressuposto falso". Qual era esse pressuposto? O pressuposto era "o de que a pop
 brasileira era
 homogênea em termos de religião". Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Uso DAS RETICÊNCIAS
 
@@ -2626,14 +2536,11 @@ fim da ação verbal.
 : As reticências servem para suspender o "fluxo" sintático, marcando uma interrupção da fala.
 Gabarito letra D.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 USO DAS ASPAS
 
 uso EXEMPLOS
-
 
 Indicar
 citações
@@ -2668,7 +2575,6 @@ Para apagar caracteres, pressione
 
 Ela posta fotos de biquíni para "causar" na
 
-
 Indicar estrangeirismo, neologismo, arcaísmo,
 expressão popular ou gíria
 
@@ -2679,7 +2585,6 @@ Impetrei um "habeas corpus" com a
 'Atualmente, no entanto, tem sido tolerado o uso
 de itálico como forma de dispensar o uso de aspas,
 exceto na hipótese de citação textual.
-
 
 Indicar ironia
 e sentido
@@ -2726,9 +2631,7 @@ fechado, à espera de-
 ao leitor que se:
 jtrata
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :a) de uma fala cuja autoria ele não identifica.
 :
@@ -2811,9 +2714,7 @@ dizer que esse é um[
 
 :b) Estão corretas apenas as proposições lz III e IV.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 :c) Estão corretas apenas as proposições II e IV.
 
@@ -2843,9 +2744,7 @@ pronome aparecer na fala.:
 
 :Correta. Gabarito letra B.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Uso DO TRAVESSÃO
 
@@ -2905,9 +2804,7 @@ citação
 
 = Por isso, menciona o aumento da obesidade entre os adultos. Gabarito letra A.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (UFTM/2019)
 
@@ -2967,9 +2864,7 @@ aposto explicativo de
 
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Uso DOS PARÊNTESES
 
@@ -2983,9 +2878,7 @@ Em vários casos, o uso dos parênteses vai ser justificado pelas mesmas regras 
 travessão duplo e das
 vírgulas que isolam termos ou orações acessórias.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 USO DO PONTO FINAL (.)
 
@@ -3045,9 +2938,7 @@ j FUNDATEC / PREF. ESTEIO RS / 2022
 
 : Qual dos sinais de pontuação abaixo substitui corretamente a figura na linha 05?
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 01 Suor, boca ressecada, fraqueza no corpo, pressão baixa e sonolência. Estes são
 alguns dos
@@ -3083,7 +2974,6 @@ Gabarito letra B.
 :
 
 L
-
 
 J
 
@@ -3131,9 +3021,7 @@ recursos naturais finitos. O que tem transformado negativamente o planeta
 A forma correta pediria uma vírgula separando um aposto:
 :
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Esse movimento sociol de hiperconsumismo [...] impulsionou o descarte de coda vez mais
 recursos naturais finitos, o que tem transformado negativamente o planeta
@@ -3142,10 +3030,9 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - VÍRGULA - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-DF / 2022
+1. CEBRASPE / DPE-DF / 2022
 
 As forças da natureza são obviamente indiferentes a modos de produção, tempo
 e espaço.
@@ -3181,7 +3068,7 @@ mais.
 
 Questão incorreta.
 
-Item. 2. CEBRASPE / IBAMA / 2022
+2. CEBRASPE / IBAMA / 2022
 
 Esse processo é, também, o que comanda as migrações, que são, por
 si sós, processos de
@@ -3210,11 +3097,9 @@ facultativas, porque "também" é um adjunto adverbial de curta extensão)
 A segunda vírgula marca oração adjetiva explicativa, antes do relativo "que".
 Questão incorreta.
 
-Item. 3. CEBRASPE / TELEBRAS / 2022
-
+3. CEBRASPE / TELEBRAS / 2022
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ...No capítulo VI, Clausewitz afirma: "Grande parte das notícias
 recebidas na guerra é
@@ -3247,7 +3132,7 @@ a maioria das notícias1 é falsa, e o medo do ser humano2 reforça a mentira
 Orações com sujeitos distintos são caso de vírgula antes do E, recomendável, embora facultativa.
 Questão correta.
 
-Item. 4. CEBRASPE / DPE-RS / 2022
+4. CEBRASPE / DPE-RS / 2022
 
 A discriminação raciai, por sua vez, é a atribuição de tratamento
 diferenciado a membros
@@ -3286,13 +3171,11 @@ Portanto, a discriminação tem como requisito fundamental o poder
 A discriminação, portanto, tem como requisito fundamentai o poder
 Questão incorreta.
 
-Item. 5. CEBRASPE / DPE-RS / 2022
+5. CEBRASPE / DPE-RS / 2022
 
 Esse movimento sociai de hiperconsumismo, de vida para o consumo, guiou a pessoa
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 natural para o caminho da necessidade, da vontade e do gosto pelo
 consumo, bem como
@@ -3341,7 +3224,7 @@ recursos naturais finitos, o que tem transformado negativamente o planeta
 
 Questão incorreta.
 
-Item. 6. CEBRASPE / ICMBIO / 2022
+6. CEBRASPE / ICMBIO / 2022
 
 As castanholas, também conhecidas como sete-copas, são uma espécie
 extremamente
@@ -3371,9 +3254,7 @@ Nesse caso, valeria a regra geral das orações e expressões adjetivas e aí
 só teríamos mudança de
 sentido, sem erro gramatical. Então, a questão seria incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No entanto, ao que parece, o CEBRASPE analisou como aposto
 explicativo, que tem que ser
@@ -3384,7 +3265,7 @@ ausência das vírgulas.
 Não concordo com essa análise, mas foi o que prevaleceu! Sigamos em frente!
 Questão *correta.
 
-Item. 7. CEBRASPE / PETROBRAS / 2022
+7. CEBRASPE / PETROBRAS / 2022
 
 O tamanho do cérebro é igualmente problemático como indicador
 da presença de
@@ -3419,7 +3300,7 @@ haveria prejuízo à correção, já estaria errada.
 
 Questão incorreta.
 
-Item. 8. CEBRASPE / PETROBRAS / 2022
+8. CEBRASPE / PETROBRAS / 2022
 
 De acordo com este texto, a possibilidade de um indivíduo tornar-se
 justo e virtuoso
@@ -3447,9 +3328,7 @@ lido como advérbio de modo.
 
 Assim/Portanto, afasta-se das aparências, rompe com as cadeias de preconceitos e
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 condicionamentos e adquire o verdadeiro conhecimento.
 
@@ -3459,7 +3338,7 @@ condicionamentos e adquire o verdadeiro conhecimento.
 
 Questão correta.
 
-Item. 9. (CEBRASPE / TELEBRAS / 2022)
+9. (CEBRASPE / TELEBRAS / 2022)
 
 No trecho "os satélites de observação terrestre são usados para
 combater as alterações
@@ -3479,7 +3358,7 @@ sentido, sendo lógico, então não há prejuízo à coerência.
 
 Questão correta.
 
-Item. 10. (CEBRASPE / TELEBRAS / 2022)
+10. (CEBRASPE / TELEBRAS / 2022)
 
 A importância das telecomunicações ficou evidente nos dias que se
 seguiram ao terremoto
@@ -3509,16 +3388,14 @@ fornecer informações sobre as vítimas, das quais se precisava desesperadament
 fornecer informações sobre as vítimas das quais se precisava desesperadamente, (restrição)
 Questão correta.
 
-Item. 11. (CEBRASPE / TELEBRAS / 2022)
+11. (CEBRASPE / TELEBRAS / 2022)
 "Ora, você sabe do que eu estou falando."
 "Estou me esforçando, mas..."
 
 "Escuta. Acho que não podia ser mais claro. Pontudo numa ponta, certo?"
 "Se o senhor diz, cavalheiro."
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Em 'Acho que não podia ser mais claro', a correção gramatical seria
 prejudicada caso se inserisse
@@ -3534,7 +3411,7 @@ Acho, que não podia ser mais claro
 
 Questão correta.
 
-Item. 12. (CEBRASPE / MJSP / 2022)
+12. (CEBRASPE / MJSP / 2022)
 
 Na concepção da política de redução de danos, tem-se como
 pressuposto o fator
@@ -3562,7 +3439,7 @@ insolúvel.
 
 Questão incorreta.
 
-Item. 13. (CEBRASPE / IBAMA / 2022)
+13. (CEBRASPE / IBAMA / 2022)
 
 Assim como cidadania e cultura formam um par integrado de
 significações, cultura e
@@ -3586,12 +3463,11 @@ territorialidade são, de certo modo, sinônimos...
 
 Questão incorreta.
 
-Item. 14. (CEBRASPE / IBAMA / 2022)
+14. (CEBRASPE / IBAMA / 2022)
 
 De acordo com Mariana Schuchovski, professora de Sustentabilidade do ISAE Escola de
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Negócios, a disseminação do vírus é resultado do atual modelo
 de desenvolvimento, que
@@ -3629,7 +3505,7 @@ de clima, aumentam
 
 Questão incorreta.
 
-Item. 15. (CEBRASPE / IBAMA / 2022)
+15. (CEBRASPE / IBAMA / 2022)
 
 A especialista aponta que todos nós, indivíduos, sociedade e
 empresas, precisamos
@@ -3672,9 +3548,7 @@ ALIÁS: observem que essa questão sinaliza que a banca entende que "por
 outro lado" é adjunto
 adverbial de longa extensão, com vírgulas obrigatórias. Vejam as palavras do CEBRASPE: "caso
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 em que DEVERIA ser isolada por vírgulas."
 
@@ -3684,7 +3558,7 @@ recente de um entendimento que sempre foi cobrado dessa forma.
 
 Questão correta.
 
-Item. 16. (CEBRASPE / DPE-RS / 2022)
+16. (CEBRASPE / DPE-RS / 2022)
 
 O consumismo é uma economia do logro, do excesso e do lixo,
 pois faz que o ser
@@ -3726,7 +3600,7 @@ isolado por vírgulas, pois afirma que a correção gramatical seria mantida!
 Portanto, haveria mudança de sentido, mas manutenção da correção gramatical.
 Questão correta.
 
-Item. 17. (CEBRASPE / DPE-RS / 2022)
+17. (CEBRASPE / DPE-RS / 2022)
 
 Embora haja relação entre os conceitos, o racismo difere do
 preconceito racial e da
@@ -3748,9 +3622,7 @@ determinado grupo racializado.
 
 Comentários:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ao inserir uma vírgula antes de "que pertencem a um determinado
 grupo racializado", a oração
@@ -3762,7 +3634,7 @@ ideia mais concreta) também altera o sentido original.
 
 Questão incorreta.
 
-Item. 18. (CEBRASPE / DPE-RS / 2022)
+18. (CEBRASPE / DPE-RS / 2022)
 
 A tecnologia finalmente está derrubando os muros do tradicionalismo
 que envolve o
@@ -3790,7 +3662,7 @@ O sentido que se infere é causal:
 
 Questão correta.
 
-Item. 19. (CEBRASPE / DPE-RO / 2022)
+19. (CEBRASPE / DPE-RO / 2022)
 
 Durante os séculos XXI a XVII a.C, já era possível encontrar indícios do
 direito de acesso à
@@ -3830,9 +3702,7 @@ A partir de 1970, o Brasil começou a caminhar para a consagração efetiva
 do direito de
 acesso à justiça, com a intensificação da luta dos movimentos sociais por igualdade social,
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 cidadania plena, democracia, efetivação de direitos fundamentais e
 sociais e efetividade da
@@ -3908,9 +3778,7 @@ transformações sociais que ocorreram durante a história da humanidade.
 
 Em nível global, o acesso à justiça foi ampliado, gradualmente, juntamente com as
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 transformações sociais que ocorreram durante a história da humanidade.
 
@@ -3954,7 +3822,7 @@ vírgula do par.
 
 Gabarito letra C.
 
-Item. 20. (CEBRASPE / TC-DF / 2021)
+20. (CEBRASPE / TC-DF / 2021)
 
 planejamento urbanos. As cidades, sejam elas grandes
 
@@ -3984,7 +3852,6 @@ enquanto aglomerações urbanas, são permeadas, em diversos níveis...
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Embora não haja verbo, o trecho apresenta uma natureza explicativa, pois,
 isolado entre vírgulas,
 apresenta uma explicação sobre o que vêm a ser as cidades: aglomerações urbanas.
@@ -3995,7 +3862,7 @@ parênteses.
 
 Questão correta.
 
-Item. 21. (CEBRASPE / SEED-PR/2021)
+21. (CEBRASPE / SEED-PR/2021)
 
 Socorro
 que esse já não bate nem apanha.
@@ -4003,7 +3870,6 @@ Socorro, eu não estou sentindo nada. Por favor, uma emoção pequena,
 Nem medo, nem calor, nem fogo, qualquer coisa que se sinta,
 
 não vai dar mais pra chorar tem tantos sentimentos,
-
 
 nem pra nr.
 
@@ -4063,13 +3929,11 @@ e) INCORRETO. A vírgula separa duas orações e não termos com mesma função 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 /' 102
-
 
 Gabarito letra B.
 
-Item. 22. (CEBRASPE / SEED-PR / 2021)
+22. (CEBRASPE / SEED-PR / 2021)
 Utilize o mesmo texto da questão anterior.
 
 No primeiro verso de cada estrofe do texto 5A2-I, o termo
@@ -4094,7 +3958,7 @@ exclamação.
 
 Gabarito letra D.
 
-Item. 23. (CEBRASPE / TCE-RJ / 2021)
+23. (CEBRASPE / TCE-RJ / 2021)
 
 O termo "cultura" entrou no vocabulário como o nome
 de uma atividade intencional. No limiar da Era Moderna,
@@ -4122,15 +3986,13 @@ subordinada adjetiva restritiva, o que alteraria o sentido da sentença.
 
 Questão incorreta.
 
-Item. 24. (CEBRASPE / TRIBUNAL DE CONTAS-RJ / 2021)
+24. (CEBRASPE / TRIBUNAL DE CONTAS-RJ / 2021)
 
 arrancar-lhe a paz de espírito? Via Neném no seu jardim, nos
 seus silêncios, na sua paz e não se queixava de não vê-la
 w casada. Iam comendo com o pouco que faziam. É verdade que
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No trecho "Via Neném no seu jardim, nos seus silêncios, na sua paz e não se
 queixava de não
@@ -4158,7 +4020,7 @@ sua paz e não se queixava de não vê-la casada."
 
 Questão incorreta.
 
-Item. 25. (CEBRASPE / CODEVASF / 2021)
+25. (CEBRASPE / CODEVASF / 2021)
 
 O limite do demasiado é invisível e também não pode ser determinado
 diretamente por
@@ -4186,7 +4048,7 @@ incorreção gramatical.
 
 Questão incorreta.
 
-Item. 26. (CEBRASPE / MP-CE / 2020)
+26. (CEBRASPE / MP-CE / 2020)
 
 "Desprezo o que dizes, mas defenderei até a morte o teu direito a dizê-lo."
 
@@ -4200,11 +4062,9 @@ Não é! A vírgula é obrigatória para separar uma oração coordenada adversa
 "Desprezo o que dizes, mas defenderei até a morte o teu direito a dizê-lo."
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 27. (CEBRASPE / MP-CE / 2020)
+27. (CEBRASPE / MP-CE / 2020)
 
 A cada ano, quase uma em cada dez pessoas no mundo (cerca de 600 milhões de pessoas)
 adoece e 420 mil morrem depois de ingerir alimentos contaminados por
@@ -4223,7 +4083,7 @@ quase uma em cada dez pessoas no mundo, adoece
 
 Questão correta.
 
-Item. 28. (CEBRASPE / SEFAZ-AL / 2020)
+28. (CEBRASPE / SEFAZ-AL / 2020)
 
 É uma loja grande e escura no centro da cidade, uma quadra distante da
 estação de trem.
@@ -4247,7 +4107,7 @@ Além das tradicionais regras, a pontuação também serve para "dividir" o text
 
 Questão correta.
 
-Item. 29. (CEBRASPE / TJ-PA / 2020)
+29. (CEBRASPE / TJ-PA / 2020)
 
 O peso de Eurídice se estabilizou, assim como a rotina da família Gusmão Campeio.
 Antenor saía
@@ -4277,9 +4137,7 @@ demandas diárias: a culinária. Eurídice jamais seria uma engenheira, nunca po
 em um
 laboratório e não ousaria escrever versos, mas essa mulher se dedicou à única atividade
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 permitida que tinha um certo quê de engenharia, ciência e poesia. Todas as manhãs,
 depois de
@@ -4326,7 +4184,7 @@ banca não propôs sua retirada.
 
 Gabarito letra B.
 
-Item. 30. (CEBRASPE / PGE-PE / 2019)
+30. (CEBRASPE / PGE-PE / 2019)
 
 A modernidade é um contrato. Todos nós aderimos a ele no dia em que nascemos, e ele
 regula
@@ -4350,11 +4208,9 @@ morremos.
 
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 31. (CEBRASPE / PGE-PE / 2019)
+31. (CEBRASPE / PGE-PE / 2019)
 
 Em razão disso, todos os países, lugares e pessoas passam a se comportar, isto é, a
 organizar sua
@@ -4374,7 +4230,7 @@ são obrigatoriamente isoladas por vírgula por regra.
 
 Questão incorreta.
 
-Item. 32. (CEBRASPE / PGE-PE / 2019)
+32. (CEBRASPE / PGE-PE / 2019)
 
 Passávamos férias na fazenda da Jureia, que ficava na região de lindas propriedades cafeeiras.
 
@@ -4390,7 +4246,7 @@ retirada, a oração passa a ser restritiva e o sentido então muda.
 Passávamos férias na fazenda da Jureia, que ficava na região de lindas propriedades cafeeiras.
 Questão correta.
 
-Item. 33. (CEBRASPE / PRF / 2019)
+33. (CEBRASPE / PRF / 2019)
 
 Dispor de tanta luz assim, porém, tem um custo ambiental muito alto, avisam os
 cientistas. Nos
@@ -4420,11 +4276,9 @@ apenas têm sentidos diferentes.
 
 Questão correta.
 
-Item. 34. (CEBRASPE / SLU-DF / 2019)
-
+34. (CEBRASPE / SLU-DF / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Como em todas as tardes abafadas de Americana, no interior de São Paulo,
 o paranaense
@@ -4475,7 +4329,7 @@ esconde.
 Então, esse item estaria correto apenas se fossem suprimidas as duas vírgulas.
 Questão incorreta.
 
-Item. 35. (CEBRASPE / PGE-PE / 2019)
+35. (CEBRASPE / PGE-PE / 2019)
 
 Nesse contexto, a Lei Maria da Penha teria o papel de assegurar o reconhecimento das
 mulheres
@@ -4505,9 +4359,7 @@ semântico:
 
 é constatando as obrigações que temos diante do direito alheio que chegamos a uma
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 compreensão
 constatando as obrigações que temos diante do direito alheio, chegamos a uma compreensão
@@ -4520,7 +4372,7 @@ após "alheio".
 
 Questão correta.
 
-Item. 36. (CEBRASPE / PRF / 2019)
+36. (CEBRASPE / PRF / 2019)
 
 Nas sociedades tribais, o trabalho está em tudo, e praticamente todos trabalham.
 
@@ -4538,7 +4390,7 @@ isolamento entre vírgulas.
 
 Questão incorreta.
 
-Item. 37. (CEBRASPE / SEFAZ-RS / 2019)
+37. (CEBRASPE / SEFAZ-RS / 2019)
 
 Na década de 60, a adoção do imposto sobre valor agregado (IVA) trouxe um avanço
 importante
@@ -4580,9 +4432,7 @@ define a vírgula é a natureza semântica da oração, não é sua posição.
 
 O ICMS, (que é) adotado no país, é o único caso no mundo de imposto que, embora se pareça
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 com o IVA, não é administrado pelo governo federal
 
@@ -4592,7 +4442,7 @@ intercalada.
 
 Gabarito letra D.
 
-Item. 38. (CEBRASPE / PGE-PE / 2019)
+38. (CEBRASPE / PGE-PE / 2019)
 
 O autor descreve o campo de ação social como o lócus marcado pela permanente luta
 entre os
@@ -4620,7 +4470,7 @@ nome de seu complemento.
 
 Questão incorreta.
 
-Item. 39. (CEBRASPE / PF / 2018)
+39. (CEBRASPE / PF / 2018)
 
 Como se pode imaginar, não foi o latim clássico, dos grandes escritores
 romanos e latinos e
@@ -4650,15 +4500,13 @@ e falado pelas classes romanas mais abastadas, que penetrou...
 
 Questão correta.
 
-Item. 40. (CEBRASPE / MPU / 2018)
+40. (CEBRASPE / MPU / 2018)
 
 Afirma-se, às vezes, que a justiça nao diz respeito à argumentaçao racional.
 
 Caso a expressão "às vezes" fosse deslocada para imediatamente após "justiça", feitos os
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 devidos ajustes de pontuação, a correção gramatical seria mantida, mas o
 sentido original do
@@ -4688,7 +4536,7 @@ de dizer ou não respeito à argumentação formal.
 
 Questão correta.
 
-Item. 41. (CEBRASPE / MPU / 2018)
+41. (CEBRASPE / MPU / 2018)
 
 O etnocentrismo está certamente, entre as principais causas de intolerância
 internacional e da
@@ -4716,7 +4564,7 @@ estrangeiros, apenas como exemplos.
 
 Questão incorreta.
 
-Item. 42. (CEBRASPE / IFF / 2018)
+42. (CEBRASPE / IFF / 2018)
 
 Vai macio, vai de valsa, é um minueto, até que, consultados os cronômetros,
 verifica-se que
@@ -4733,15 +4581,13 @@ Vai macio, vai de valsa, é um minueto, até que, (quando são) consultados
 os cronômetros,
 verifica-se que acabou o primeiro half time.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Se temos termo/oração adverbial intercalado, devemos marcar por regra isolar com
 vírgulas.
 Questão incorreta.
 
-Item. 43. (CEBRASPE / MPE PI / 2018)
+43. (CEBRASPE / MPE PI / 2018)
 
 a única maneira para que a verdade exerça todo o seu poder é que o criminoso assuma
 o seu
@@ -4783,7 +4629,7 @@ não há dúvidas.
 
 Questão correta.
 
-Item. 44. (CEBRASPE / IFF / 2018)
+44. (CEBRASPE / IFF / 2018)
 
 E um torcedor local puxa o revólver, dizendo que aquele penalty só se for passando
 por cima de
@@ -4813,11 +4659,9 @@ cima de algum cadáver.
 
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 45. (CEBRASPE / BNB / 2018)
+45. (CEBRASPE / BNB / 2018)
 
 Segundo um arquiteto de software de uma empresa não participante do estudo, o modo
 como a
@@ -4841,7 +4685,7 @@ intercalação, mas não é possível haver uma vírgula apenas.
 
 Questão incorreta.
 
-Item. 46. (CEBRASPE / BNB / 2018)
+46. (CEBRASPE / BNB / 2018)
 
 A inteligência artificial poderá inferir, assim, que o adoçante é o responsável pela
 obesidade dos
@@ -4866,7 +4710,7 @@ usuários, o que, nós sabemos, pela nossa inteligência humana, que não é bem
 Veja que não faz sentido a leitura com essas vírgulas.
 Questão incorreta.
 
-Item. 47. (CEBRASPE / IFF / 2018)
+47. (CEBRASPE / IFF / 2018)
 
 As vírgulas empregadas no trecho "Foi Nilo Peçanha, o então presidente da
 República, que
@@ -4885,9 +4729,7 @@ Comentários:
 
 O aposto é um termo que esclarece um termo anterior, mantendo com ele uma "identidade
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 semântica". Nilo Peçanha = o então presidente da República; então, sabemos que o termo
 entre
@@ -4895,11 +4737,11 @@ vírgulas é um após de "Nilo Peçanha" e justamente por isso veio marcado entr
 
 Gabarito letra A.
 
-Item. 48. (CEBRASPE / EMAP / 2018)
+48. (CEBRASPE / EMAP / 2018)
 
 As primeiras cidades, no sentido moderno, surgiram no período compreendido
 entre 3.100 e
-Item. 2.900 a.C., na Mesopotâmia, civilização situada às margens dos rios Tigre e Eufrates.
+2.900 a.C., na Mesopotâmia, civilização situada às margens dos rios Tigre e Eufrates.
 
 A supressão da vírgula empregada logo após "2.900 a.C." (L.1) manteria a correção
 gramatical
@@ -4915,7 +4757,7 @@ Mesopotâmia". Veja:
 
 As primeiras cidades, no sentido moderno, surgiram no período compreendido
 entre 3.100 e
-Item. 2.900 a.C. na Mesopotâmia, civilização situada às margens dos rios Tigre e Eufrates.
+2.900 a.C. na Mesopotâmia, civilização situada às margens dos rios Tigre e Eufrates.
 
 Ao retirar a vírgula, "" deixa de estar isolado, como abona a gramática.
 E a vírgula que vem depois dele? Não tem que sair também?
@@ -4932,7 +4774,7 @@ dependendo de onde você está olhando. Entendido?
 
 Questão correta.
 
-Item. 49. (CEBRASPE / PC-MARANHÃO / 2018)
+49. (CEBRASPE / PC-MARANHÃO / 2018)
 
 O desastre, que completou um ano no último dia 28 de novembro, matou 71 pessoas, em
 sua
@@ -4950,7 +4792,7 @@ sentido.
 
 Questão incorreta.
 
-Item. 50. (CEBRASPE / MPE PI / 2018)
+50. (CEBRASPE / MPE PI / 2018)
 
 Um dos últimos estádios norte-americanos que mantêm sua construção original,
 diz o Atlanta
@@ -4958,9 +4800,7 @@ Journal Constitution.
 
 Os sentidos originais do texto seriam preservados caso se inserisse uma vírgula imediatamente
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 após "norte-americanos".
 Comentários:
@@ -4977,7 +4817,7 @@ explicativa)
 
 Questão incorreta.
 
-Item. 51. (CEBRASPE/ IFF/2018)
+51. (CEBRASPE/ IFF/2018)
 
 Relativamente à pontuação, a correção do texto seria mantida caso o período "Esses
 aspectos
@@ -4999,7 +4839,7 @@ a lentidão dos processos.
 
 Questão incorreta.
 
-Item. 52. (CEBRASPE / PF / 2018)
+52. (CEBRASPE / PF / 2018)
 
 — Você está enganado. Conheço-o bem. E ambas as coisas. Como poeta e
 matemático, [ele]
@@ -5021,7 +4861,7 @@ reconhecesse a inadequação e retirasse a vírgula.
 
 Questão correta.
 
-Item. 53. (CEBRASPE / IHBDF / 2018)
+53. (CEBRASPE / IHBDF / 2018)
 
 Hospitalizados eram só os pobres, e Florence preparou-se para cuidar deles, praticando
 com os
@@ -5031,9 +4871,7 @@ A inserção de uma vírgula logo após o termo "Hospitalizados" manteria a corr
 gramatical do
 texto.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -5049,7 +4887,7 @@ inversão dos adjuntos adverbiais que, como regra, justificam a pontuação na o
 
 Questão incorreta.
 
-Item. 54. (CEBRASPE / EBSERH / 2018)
+54. (CEBRASPE / EBSERH / 2018)
 
 Essa mudança drástica não deixou o organismo humano ileso. Estudos mostram que o
 açúcar,
@@ -5074,13 +4912,11 @@ Estudos mostram [ISTO]
 Então, a vírgula é indevida, pois não pode haver separação entre verbo e complemento.
 Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - PoNTo E VÍRGULA - CEBRASPE
 
-Item. 1. (CEBRASPE / PETROBRAS / 2022)
+1. (CEBRASPE / PETROBRAS / 2022)
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é
 terra de
@@ -5117,7 +4953,7 @@ carrega, ela é mínima; agora, dizer "cometi um crime contra honra"já traz out
 
 Questão correta.
 
-Item. 2. (CEBRASPE / DPE-DF/ 2022)
+2. (CEBRASPE / DPE-DF/ 2022)
 
 ...Coexistem, em todos os suicídios, a apologia e a aquiescência. Como diz o
 sacerdote, em triste
@@ -5144,11 +4980,9 @@ Acolhe-te quando vens; te deixa ir quando partes"
 
 Questão incorreta.
 
-Item. 3. (CEBRASPE / MJSP / 2022)
-
+3. (CEBRASPE / MJSP / 2022)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Amado nos levou com um grupo para descansarmos na fazenda de um amigo.
 Esta
@@ -5174,13 +5008,11 @@ vírgula, apenas com pares de vírgulas, travessões ou parênteses/colchetes.
 
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - DoIS-PoNToS - CEBRASPE
 
-Item. 1. (CEBRASPE / TJ-PA / 2020)
+1. (CEBRASPE / TJ-PA / 2020)
 
 Entretanto, eram nítidos os preconceitos que cercavam o trabalho feminino nessa
 época. Como
@@ -5214,7 +5046,7 @@ marido"
 era considerado ameaça à organização doméstica e à estabilidade do matrimônio.
 Gabarito letra D.
 
-Item. 2. (CEBRASPE / PGE-PE / 2019)
+2. (CEBRASPE / PGE-PE / 2019)
 
 Que fique claro: não tenho nenhuma intenção de difamar ou condenar o passado para
 absolver o
@@ -5232,7 +5064,7 @@ ficar claro.
 
 Questão incorreta.
 
-Item. 3. (CEBRASPE / IPHAN / 2018)
+3. (CEBRASPE / IPHAN / 2018)
 
 Para fazer frente a essas transformações, é necessário um novo tipo de
 planejamento urbano.
@@ -5243,9 +5075,7 @@ sociedade na formulação das políticas.
 Seria incorreta a inserção de dois-pontos imediatamente após o trecho "é necessário" (£. 1).
 Comentários:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Seria, pois haveria inserção de pontuação entre o sujeito e o verbo.
 
@@ -5254,7 +5084,7 @@ um novo tipo de planejamento urbano é necessário.
 
 Questão correta.
 
-Item. 4. (CEBRASPE/ PF/2018)
+4. (CEBRASPE/ PF/2018)
 
 Os programas de investigação criminal de ficção não reproduzem corretamente o que
 ocorre na
@@ -5286,7 +5116,7 @@ direto.
 
 Questão incorreta.
 
-Item. 5. (CEBRASPE / EMAP / 2018)
+5. (CEBRASPE / EMAP / 2018)
 
 A abordagem desse tipo de comércio, inevitavelmente, passa pela concorrência, visto que
 é por
@@ -5312,13 +5142,11 @@ explicativo, introduzido pelos dois-pontos.
 
 Questão correta.
 
-Item. 6. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
+6. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
 
 A corrupção é uma doença que deve ser combatida por meio de uma vacina: a educação.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Os dois-pontos empregados introduzem um aposto.
 Comentários:
@@ -5329,13 +5157,11 @@ sentido de
 
 Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - TRAVESSÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / SEED-PR / 2021)
+1. (CEBRASPE / SEED-PR / 2021)
 
 De acordo com Li Li Min, neurologista da Faculdade de Ciências Médicas da
 Universidade de
@@ -5373,7 +5199,7 @@ responde com prontidão e alerta.
 
 Gabarito letra A.
 
-Item. 2. (CEBRASPE / BNB / 2018)
+2. (CEBRASPE / BNB / 2018)
 
 A aprendizagem de máquina para a detecção de fraude é baseada em equações
 matemáticas e algoritmos e funciona em duas etapas. Na primeira, o
@@ -5402,9 +5228,7 @@ Os travessões isolam expressões explicativas, sendo uma alternativa mais
 enfática às
 intercalações feitas com vírgulas. No caso, porém, temos o detalhamento de aspectos das
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 informações sobre as transações, características específicas como horários,
 locais e meios
@@ -5412,13 +5236,11 @@ utilizados nas compras.
 
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - PARÊNTESES - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-DF / 2022
+1. CEBRASPE / DPE-DF / 2022
 
 ...O judeu da Europa Central que Kafka ironizou e celebrou foi extinto de maneira
 abominável.
@@ -5464,13 +5286,11 @@ ti. Acolhe-te quando vens e te deixa ir quando partes".
 Por isso, a banca entendeu que não poderia haver essa substituição.
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LISTA DE QUESTõES - VÍRGULA - CEBRASPE
 
-Item. 1. (CEBRASPE / DPE-DF / 2022)
+1. (CEBRASPE / DPE-DF / 2022)
 
 As forças da natureza são obviamente indiferentes a modos de produção, tempo e espaço.
 Mas são as estruturas sociais que determinam as consequências, o grau de sofrimento e
@@ -5485,7 +5305,7 @@ obviamente indiferentes a modos de produção, tempo e espaço, mas, são as est
 sociais
 que determinam as consequências, o grau de sofrimento e quem morre mais.
 
-Item. 2. (CEBRASPE / IBAMA / 2022)
+2. (CEBRASPE / IBAMA / 2022)
 
 Esse processo é, também, o que comanda as migrações, que são, por si sós, processos
 de
@@ -5501,7 +5321,7 @@ A oração "o que comanda as migrações" está empregada entre vírgulas porque
 tem caráter
 explicativo.
 
-Item. 3. (CEBRASPE / TELEBRAS / 2022)
+3. (CEBRASPE / TELEBRAS / 2022)
 
 ...No capítulo VI, Clausewitz afirma: "Grande parte das notícias
 recebidas na guerra é
@@ -5520,7 +5340,7 @@ inverdade' (segundo parágrafo), a vírgula empregada após 'falsa' justifica-se
 orações
 com sujeitos diferentes.
 
-Item. 4. (CEBRASPE / DPE-RS / 2022)
+4. (CEBRASPE / DPE-RS / 2022)
 
 A discriminação racial, por sua vez, é a atribuição de tratamento diferenciado a
 membros
@@ -5539,9 +5359,7 @@ clientes de
 determinada raça. Já a discriminação indireta é um processo em que a
 situação específica de
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 grupos minoritários é ignorada — discriminação de fato — ou sobre a qual são impostas
 regras
@@ -5556,7 +5374,7 @@ parágrafo, a conjunção "Portanto" poderia ser corretamente deslocada para log
 depois da
 palavra "discriminação", dispensando-se o emprego da vírgula.
 
-Item. 5. (CEBRASPE / DPE-RS / 2022)
+5. (CEBRASPE / DPE-RS / 2022)
 
 Esse movimento social de hiperconsumismo, de vida para o consumo, guiou a
 pessoa
@@ -5580,7 +5398,7 @@ No segundo período do segundo parágrafo, o pronome "Isso" poderia ser
 substituído por O
 que, sem prejuízo da coerência e da correção gramatical do texto.
 
-Item. 6. (CEBRASPE / ICMBIO / 2022)
+6. (CEBRASPE / ICMBIO / 2022)
 
 As castanholas, também conhecidas como sete-copas, são uma espécie extremamente
 abundante no Rio de Janeiro, mas demonizadas em outras regiões menos urbanizadas, como
@@ -5595,7 +5413,7 @@ No segundo parágrafo, a eliminação das vírgulas que isolam o trecho "também
 como
 sete-copas" prejudicaria a correção gramatical e os sentidos originais do texto.
 
-Item. 7. (CEBRASPE / PETROBRAS / 2022)
+7. (CEBRASPE / PETROBRAS / 2022)
 
 O tamanho do cérebro é igualmente problemático como indicador da
 presença de
@@ -5609,7 +5427,7 @@ Caso fosse suprimida a vírgula empregada logo antes da preposição "sem" (terc
 parágrafo),
 haveria prejuízo para a correção gramatical do texto, embora seu sentido original fosse mantido.
 
-Item. 8. (CEBRASPE / PETROBRAS / 2022)
+8. (CEBRASPE / PETROBRAS / 2022)
 
 De acordo com este texto, a possibilidade de um indivíduo tornar-se justo e
 virtuoso
@@ -5618,9 +5436,7 @@ afasta-se das
 aparências, rompe com as cadeias de preconceitos e condicionamentos e adquire
 o verdadeiro
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 conhecimento. Tal processo culmina com a visão da forma do Bem, representada pela
 matéria do
@@ -5632,7 +5448,7 @@ do segundo parágrafo, manteria a correção gramatical, embora alterasse o
 sentido original do
 texto.
 
-Item. 9. (CEBRASPE / TELEBRAS / 2022)
+9. (CEBRASPE / TELEBRAS / 2022)
 
 No trecho "os satélites de observação terrestre são usados para combater
 as alterações
@@ -5642,7 +5458,7 @@ substituição da conjunção "e" por uma vírgula manteria a correção gramati
 coerência do
 texto.
 
-Item. 10. (CEBRASPE / TELEBRAS / 2022)
+10. (CEBRASPE / TELEBRAS / 2022)
 
 A importância das telecomunicações ficou evidente nos dias que se seguiram ao terremoto
 que devastou o Haiti, em janeiro de 2010. As tecnologias da comunicação foram
@@ -5659,7 +5475,7 @@ A eliminação da vírgula empregada após a palavra "vítimas" (segundo períod
 do segundo
 parágrafo) alteraria os sentidos originais do texto.
 
-Item. 11. (CEBRASPE / TELEBRAS / 2022)
+11. (CEBRASPE / TELEBRAS / 2022)
 "Ora, você sabe do que eu estou falando."
 "Estou me esforçando, mas..."
 
@@ -5670,7 +5486,7 @@ Em 'Acho que não podia ser mais claro', a correção gramatical seria prejudica
 se inserisse
 uma vírgula logo após 'Acho'.
 
-Item. 12. (CEBRASPE / MJSP / 2022)
+12. (CEBRASPE / MJSP / 2022)
 
 Na concepção da política de redução de danos, tem-se como pressuposto o
 fator
@@ -5684,11 +5500,9 @@ Seria gramaticalmente correto inserir uma vírgula logo após "tem-se"
 (primeiro período do
 segundo parágrafo).
 
-Item. 13. (CEBRASPE / IBAMA / 2022)
-
+13. (CEBRASPE / IBAMA / 2022)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Assim como cidadania e cultura formam um par integrado de significações,
 cultura e
@@ -5698,7 +5512,7 @@ A inserção de uma vírgula logo após "Assim", no início do primeiro
 parágrafo, manteria a
 correção gramatical e a coerência do texto.
 
-Item. 14. (CEBRASPE / IBAMA / 2022)
+14. (CEBRASPE / IBAMA / 2022)
 
 De acordo com Mariana Schuchovski, professora de Sustentabilidade do ISAE
 Escola de
@@ -5720,7 +5534,7 @@ No segundo período do terceiro parágrafo, a supressão da vírgula empregada
 logo após
 'ambiental' alteraria o sentido do texto, mas manteria sua correção gramatical.
 
-Item. 15. (CEBRASPE / IBAMA / 2022)
+15. (CEBRASPE / IBAMA / 2022)
 
 A especialista aponta que todos nós, indivíduos, sociedade e empresas,
 precisamos
@@ -5746,7 +5560,7 @@ outro lado" fosse deslocada para imediatamente após o vocábulo "necessário",
 caso em que
 deveria ser isolada por vírgulas.
 
-Item. 16. (CEBRASPE / DPE-RS / 2022)
+16. (CEBRASPE / DPE-RS / 2022)
 
 O consumismo é uma economia do logro, do excesso e do lixo, pois faz
 que o ser
@@ -5766,11 +5580,9 @@ do texto seriam prejudicados, embora sua correção gramatical fosse mantida,
 feitos os devidos
 ajustes de maiúsculas e minúsculas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 17. (CEBRASPE / DPE-RS / 2022)
+17. (CEBRASPE / DPE-RS / 2022)
 
 Embora haja relação entre os conceitos, o racismo difere do preconceito
 racial e da
@@ -5790,7 +5602,7 @@ parágrafo) fosse reescrito da seguinte maneira: acerca dos indivíduos, que
 pertencem a um
 determinado grupo racializado.
 
-Item. 18. (CEBRASPE / DPE-RS / 2022)
+18. (CEBRASPE / DPE-RS / 2022)
 
 A tecnologia finalmente está derrubando os muros do tradicionalismo que envolve
 o
@@ -5806,7 +5618,7 @@ como se necessárias para manter a integridade e a operacionalidade costumeira d
 período do
 primeiro parágrafo.
 
-Item. 19. (CEBRASPE / DPE-RO / 2022)
+19. (CEBRASPE / DPE-RO / 2022)
 
 Durante os séculos XXI a XVII a.C, já era possível encontrar indícios do direito de
 acesso à
@@ -5850,9 +5662,7 @@ cidadania plena, democracia, efetivação de direitos fundamentais e sociais e
 efetividade da
 justiça.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Em 1988, foi promulgada a atual Constituição Federal, que materializou
 expressamente o
@@ -5884,7 +5694,7 @@ D) fossem suprimidos os travessões empregados no terceiro parágrafo.
 
 E) fosse suprimida a vírgula empregada logo após "artigo 5.°" (sexto parágrafo).
 
-Item. 20. (CEBRASPE / TC-DF / 2021)
+20. (CEBRASPE / TC-DF / 2021)
 
 planejamento urbanos. As cidades, sejam elas grandes
 
@@ -5901,14 +5711,11 @@ O emprego de vírgulas para isolar o trecho "enquanto aglomerações urbanas"
 (I.26) justifica-se
 pela natureza explicativa desse trecho dentro do período.
 
-Item. 21. (CEBRASPE / SEED-PR /2021)
-
+21. (CEBRASPE / SEED-PR /2021)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Equipe Português Estratégia Concursos,
-
 
 Socorro
 que esse já não bate nem apanha.
@@ -5918,7 +5725,6 @@ Nem medo, nem calor, nem fogo, qualquer coisa que se sinta,
 não vai dar mais pra chorar tem tantos sentimentos,
 
 nem pra nr. deve ter algum que sirva.
-
 
 Socorro, alguma alma, mesmo que
 penada.
@@ -5947,7 +5753,7 @@ d) "Por favor, uma emoção pequena" (terceira estrofe).
 
 e) "tem tantos sentimentos, / deve ter algum que sirva" (terceira estrofe).
 
-Item. 22. (CEBRASPE / SEED-PR / 2021)
+22. (CEBRASPE / SEED-PR / 2021)
 Utilize o mesmo texto da questão anterior.
 
 No primeiro verso de cada estrofe do texto 5A2-I, o termo
@@ -5963,8 +5769,7 @@ d) consiste em uma interjeição.
 
 e) consiste em uma forma verbal no modo imperativo.
 
-Item. 23. (CEBRASPE / TCE-RJ / 2021)
-
+23. (CEBRASPE / TCE-RJ / 2021)
 
 O termo "cultura" entrou no vocabulário como o nome
 de uma atividade intencional. No limiar da Era Moderna,
@@ -5982,7 +5787,7 @@ A supressão da vírgula empregada no trecho "homens e mulheres, não mais aceit
 'um
 dado não problematizado'" (I. 16 e 17) preservaria o sentido original do texto.
 
-Item. 24. (CEBRASPE / TRIBUNAL DE CONTAS-RJ / 2021)
+24. (CEBRASPE / TRIBUNAL DE CONTAS-RJ / 2021)
 
 arrancar-lhe a paz de espírito? Via Neném no seu jardim, nos
 seus silêncios, na sua paz e não se queixava de não vê-la
@@ -5994,7 +5799,7 @@ vê-la casada" (Linha 8 a 10), as vírgulas foram empregadas para marcar a
 intercalação do
 segmento "nos seus silêncios".
 
-Item. 25. (CEBRASPE / CODEVASF / 2021)
+25. (CEBRASPE / CODEVASF / 2021)
 
 O limite do demasiado é invisível e também não pode ser determinado
 diretamente por
@@ -6014,7 +5819,7 @@ A correção gramatical e a coerência do texto seriam preservadas caso fosse su
 vírgula
 empregada logo após o vocábulo "como", no segundo período do último parágrafo.
 
-Item. 26. (CEBRASPE / MP-CE / 2020)
+26. (CEBRASPE / MP-CE / 2020)
 
 "Desprezo o que dizes, mas defenderei até a morte o teu direito a dizê-lo."
 
@@ -6022,7 +5827,7 @@ Item. 26. (CEBRASPE / MP-CE / 2020)
 Voltaire, no primeiro
 período do texto.
 
-Item. 27. (CEBRASPE / MP-CE / 2020)
+27. (CEBRASPE / MP-CE / 2020)
 
 A cada ano, quase uma em cada dez pessoas no mundo (cerca de 600 milhões de pessoas)
 adoece e 420 mil morrem depois de ingerir alimentos contaminados por
@@ -6031,13 +5836,11 @@ parasitas ou substâncias químicas.
 
 No trecho "quase uma em cada dez pessoas no mundo" (1o parágrafo), a inserção de uma vírgula
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 logo após "pessoas" prejudicaria a correção gramatical do texto.
 
-Item. 28. (CEBRASPE / SEFAZ-AL / 2020)
+28. (CEBRASPE / SEFAZ-AL / 2020)
 
 É uma loja grande e escura no centro da cidade, uma quadra distante da
 estação de trem.
@@ -6049,7 +5852,7 @@ de baldes.
 implicaria alteração
 no sentido do período.
 
-Item. 29. (CEBRASPE / TJ-PA / 2020)
+29. (CEBRASPE / TJ-PA / 2020)
 
 O peso de Eurídice se estabilizou, assim como a rotina da família Gusmão Campeio.
 Antenor saía
@@ -6107,11 +5910,9 @@ d) Apenas o item III está certo.
 
 e) Todos os itens estão certos.
 
-Item. 30. (CEBRASPE / PGE-PE / 2019)
-
+30. (CEBRASPE / PGE-PE / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A modernidade é um contrato. Todos nós aderimos a ele no dia em que nascemos, e ele
 regula
@@ -6123,7 +5924,7 @@ orações "Todos nós aderimos a ele no dia em que nascemos" (L. 1-2) e "e ele r
 nossa vida
 até o dia em que morremos" (L.2).
 
-Item. 31. (CEBRASPE / PGE-PE / 2019)
+31. (CEBRASPE / PGE-PE / 2019)
 
 Em razão disso, todos os países, lugares e pessoas passam a se comportar, isto é, a
 organizar sua
@@ -6135,7 +5936,7 @@ O isolamento da expressão "isto é" por vírgulas marca uma suspensão no texto
 por
 dúvida.
 
-Item. 32. (CEBRASPE / PGE-PE / 2019)
+32. (CEBRASPE / PGE-PE / 2019)
 
 Passávamos férias na fazenda da Jureia, que ficava na região de lindas propriedades cafeeiras.
 
@@ -6143,7 +5944,7 @@ A retirada da vírgula empregada na linha 1 alteraria os sentidos originais do p
 período do
 texto.
 
-Item. 33. (CEBRASPE / PRF / 2019)
+33. (CEBRASPE / PRF / 2019)
 
 Eíispor de tanta luz assim, porém, tem um custo ambiental muito alto, avisam os
 cientistas. Nos
@@ -6155,7 +5956,7 @@ A correção gramatical do texto seria mantida, mas seu sentido seria alterado, 
 trecho "que
 se infiltra no ambiente no qual dormimos" fosse isolado por vírgulas.
 
-Item. 34. (CEBRASPE / SLU-DF / 2019)
+34. (CEBRASPE / SLU-DF / 2019)
 
 Como em todas as tardes abafadas de Americana, no interior de São Paulo,
 o paranaense
@@ -6175,7 +5976,7 @@ A supressão da vírgula empregada logo após o vocábulo "estreito" (£.6)
 alteraria os sentidos
 originais do texto, mas manteria sua correção gramatical.
 
-Item. 35. (CEBRASPE / PGE-PE / 2019)
+35. (CEBRASPE / PGE-PE / 2019)
 
 Nesse contexto, a Lei Maria da Penha teria o papel de assegurar o reconhecimento das
 mulheres
@@ -6183,9 +5984,7 @@ em situação de violências (incluída a psicológica) pelo direito; afinal, é
 as obrigações
 que temos diante do direito alheio que chegamos a uma compreensão de cada um(a) de nós
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 como sujeitos de direitos. De acordo com Honneth, as demandas por direitos — como
 aqueles
@@ -6199,7 +5998,7 @@ Sem prejuízo da correção gramatical do texto, os vocábulos "é" (L.2) e "que
 poderiam ser
 suprimidos, desde que fosse inserida uma vírgula imediatamente após a palavra "alheio" (1.3).
 
-Item. 36. (CEBRASPE / PRF / 2019)
+36. (CEBRASPE / PRF / 2019)
 
 Nas sociedades tribais, o trabalho está em tudo, e praticamente todos trabalham.
 
@@ -6207,7 +6006,7 @@ Caso o advérbio "praticamente" fosse isolado por vírgulas, a correção gramat
 trecho seria
 alterada.
 
-Item. 37. (CEBRASPE / SEFAZ-RS / 2019)
+37. (CEBRASPE / SEFAZ-RS / 2019)
 
 Na década de 60, a adoção do imposto sobre valor agregado (IVA) trouxe um avanço
 importante
@@ -6234,7 +6033,7 @@ d) justificado por regras distintas de pontuação.
 
 e) necessário devido ao deslocamento dessas expressões dentro do período.
 
-Item. 38. (CEBRASPE / PGE-PE / 2019)
+38. (CEBRASPE / PGE-PE / 2019)
 
 O autor descreve o campo de ação social como o lócus marcado pela permanente luta
 entre os
@@ -6244,7 +6043,7 @@ A inserção de vírgula após a expressão "entre os sujeitos" manteria a corre
 gramatical e os
 sentidos do texto.
 
-Item. 39. (CEBRASPE / PF / 2018)
+39. (CEBRASPE / PF / 2018)
 
 Como se pode imaginar, não foi o latim clássico, dos grandes escritores romanos e
 latinos e
@@ -6256,13 +6055,11 @@ A correção do texto seria mantida se as vírgulas que isolam o trecho "dos
 grandes escritores
 romanos e latinos e falado pelas classes romanas mais abastadas" (L.1-2) fossem substituídas por
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 travessões.
 
-Item. 40. (CEBRASPE / MPU / 2018)
+40. (CEBRASPE / MPU / 2018)
 
 Afirma-se, às vezes, que a justiça não diz respeito à argumentação racionai.
 
@@ -6272,7 +6069,7 @@ devidos ajustes de pontuação, a correção gramatical seria mantida, mas o
 sentido original do
 texto seria alterado.
 
-Item. 41. (CEBRASPE / MPU / 2018)
+41. (CEBRASPE / MPU / 2018)
 
 O etnocentrismo está certamente, entre as principais causas de intolerância
 internacional e da
@@ -6288,7 +6085,7 @@ inserida a expressão por exemplo, desde que excluídas a expressão "apenas com
 exemplos" e
 a vírgula que a antecede.
 
-Item. 42. (CEBRASPE / IFF / 2018)
+42. (CEBRASPE / IFF / 2018)
 
 Vai macio, vai de valsa, é um minueto, até que, consultados os cronômetros,
 verifica-se que
@@ -6296,7 +6093,7 @@ acabou o primeiro half time.
 
 As vírgulas que isolam o trecho "consultados os cronômetros" são de uso facultativo.
 
-Item. 43. (CEBRASPE / MPE PI / 2018)
+43. (CEBRASPE / MPE PI / 2018)
 
 a única maneira para que a verdade exerça todo o seu poder é que o criminoso assuma
 o seu
@@ -6306,7 +6103,7 @@ A correção gramatical do texto seria preservada se o trecho "sábia e
 obscuramente" fosse
 isolado por vírgulas.
 
-Item. 44. (CEBRASPE/IFF/2018)
+44. (CEBRASPE/IFF/2018)
 
 E um torcedor local puxa o revólver, dizendo que aquele penalty só se for passando
 por cima de
@@ -6316,7 +6113,7 @@ A vírgula empregada logo após "revólver" poderia ser substituída por ponto e
 vírgula sem
 prejuízo para a correção gramatical e para o sentido do texto.
 
-Item. 45. (CEBRASPE / BNB / 2018)
+45. (CEBRASPE / BNB / 2018)
 
 Segundo um arquiteto de software de uma empresa não participante do estudo, o modo
 como a
@@ -6326,15 +6123,13 @@ registro de falsos positivos e fraudes reais. "Se a prepararmos apenas para dete
 casos de não
 fraude, podemos aumentar os riscos de fraudes que passam.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A inserção de vírgula imediatamente após a palavra "diretamente" (L.2) não
 comprometeria a
 correção gramatical do texto.
 
-Item. 46. (CEBRASPE / BNB / 2018)
+46. (CEBRASPE / BNB / 2018)
 
 A inteligência artificial poderá inferir, assim, que o adoçante é o responsável pela
 obesidade dos
@@ -6344,7 +6139,7 @@ Seria correto isolar a expressão "nós sabemos" (L.2) entre vírgulas, para dar
 destaque às
 ideias do trecho em que ela aparece.
 
-Item. 47. (CEBRASPE / IFF / 2018)
+47. (CEBRASPE / IFF / 2018)
 
 As vírgulas empregadas no trecho "Foi Nilo Peçanha, o então presidente da
 República, que
@@ -6360,17 +6155,17 @@ d) isolam itens de uma enumeração.
 
 e) indicam a ocorrência de discurso indireto livre.
 
-Item. 48. (CEBRASPE / EMAP / 2018)
+48. (CEBRASPE / EMAP / 2018)
 
 As primeiras cidades, no sentido moderno, surgiram no período compreendido
 entre 3.100 e
-Item. 2.900 a.C., na Mesopotâmia, civilização situada às margens dos rios Tigre e Eufrates.
+2.900 a.C., na Mesopotâmia, civilização situada às margens dos rios Tigre e Eufrates.
 
 A supressão da vírgula empregada logo após "2.900 a.C." (L.1) manteria a correção
 gramatical
 do texto.
 
-Item. 49. (CEBRASPE / PC-MARANHÃO / 2018)
+49. (CEBRASPE / PC-MARANHÃO / 2018)
 
 O desastre, que completou um ano no último dia 28 de novembro, matou 71 pessoas, em
 sua
@@ -6380,7 +6175,7 @@ O sentido do segundo período do segundo parágrafo seria preservado caso as
 vírgulas que
 sucedem as palavras "desastre" e "novembro" fossem suprimidas.
 
-Item. 50. (CEBRASPE / MPE PI / 2018)
+50. (CEBRASPE / MPE PI / 2018)
 
 Um dos últimos estádios norte-americanos que mantêm sua construção original,
 diz o Atlanta
@@ -6390,10 +6185,9 @@ Os sentidos originais do texto seriam preservados caso se inserisse uma
 vírgula imediatamente
 após "norte-americanos".
 
-Item. 51. (CEBRASPE/IFF/2018)
+51. (CEBRASPE/IFF/2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Relativamente à pontuação, a correção do texto seria mantida caso o período "Esses
 aspectos
@@ -6403,7 +6197,7 @@ processos." fosse reescrito como Esses aspectos produzem resultados contrários
 aos esperados
 pelo cidadão, como por exemplo, a lentidão dos processos.
 
-Item. 52. (CEBRASPE / PF/2018)
+52. (CEBRASPE / PF/2018)
 
 — Você está enganado. Conheço-o bem. E ambas as coisas. Como poeta e
 matemático, [ele]
@@ -6415,7 +6209,7 @@ A supressão da vírgula empregada logo após a palavra "algum" (L.3) manteria
 a correção
 gramatical do texto.
 
-Item. 53. (CEBRASPE / IHBDF / 2018)
+53. (CEBRASPE / IHBDF / 2018)
 
 Hospitalizados eram só os pobres, e Florence preparou-se para cuidar deles, praticando
 com os
@@ -6425,7 +6219,7 @@ A inserção de uma vírgula logo após o termo "Hospitalizados" manteria a corr
 gramatical do
 texto.
 
-Item. 54. (CEBRASPE / EBSERH / 2018)
+54. (CEBRASPE / EBSERH / 2018)
 
 Essa mudança drástica não deixou o organismo humano ileso. Estudos mostram que o
 açúcar,
@@ -6439,30 +6233,29 @@ gramatical do texto.
 
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. CORRETA
 
-Item. 3. CORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. INCORRETA
 
-Item. 5. INCORRETA
+6. *CORRETA
 
-Item. 6. *CORRETA
+7. INCORRETA
 
-Item. 7. INCORRETA
+8. CORRETA
 
-Item. 8. CORRETA
+9. CORRETA
 
-Item. 9. CORRETA
+10. CORRETA
 
-Item. 10. CORRETA
+11. CORRETA
 
-Item. 11. CORRETA
-
-Item. 12. INCORRETA
+12. INCORRETA
 
 13.
 
@@ -6593,13 +6386,11 @@ CORRETA
 INCORRETA
 CORRETA
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LISTA DE QUESTõES - PoNTo E vÍRGULA - CEBRASPE
 
-Item. 1. (CEBRASPE / PETROBRAS / 2022)
+1. (CEBRASPE / PETROBRAS / 2022)
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é
 terra de
@@ -6623,7 +6414,7 @@ após "ela
 substituído por ponto e
 vírgula.
 
-Item. 2. (CEBRASPE / DPE-DF/ 2022)
+2. (CEBRASPE / DPE-DF/ 2022)
 
 ...Coexistem, em todos os suicídios, a apologia e a aquiescência. Como diz o
 sacerdote, em triste
@@ -6640,7 +6431,7 @@ Em 'Acolhe-te quando vens e te deixa ir quando partes', a conjunção 'e' poderi
 substituída
 por ponto e vírgula, sem prejuízo do sentido original e da correção gramatical do texto.
 
-Item. 3. (CEBRASPE / MJSP / 2022)
+3. (CEBRASPE / MJSP / 2022)
 
 Amado nos levou com um grupo para descansarmos na fazenda de um amigo.
 Esta
@@ -6660,22 +6451,19 @@ fazenda.
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. INCORRETA
-
+2. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - DoIS-PoNToS - CEBRASPE
 
-Item. 1. (CEBRASPE / TJ-PA / 2020)
+1. (CEBRASPE / TJ-PA / 2020)
 
 Entretanto, eram nítidos os preconceitos que cercavam o trabalho feminino nessa
 época. Como
@@ -6702,7 +6490,7 @@ d) explicação.
 
 e) ressalva.
 
-Item. 2. (CEBRASPE / PGE-PE / 2019)
+2. (CEBRASPE / PGE-PE / 2019)
 
 Que fique claro: não tenho nenhuma intenção de difamar ou condenar o passado para
 absolver o
@@ -6712,7 +6500,7 @@ Na linha 1, os dois-pontos foram empregados com a finalidade de introduzir
 uma síntese das
 ideias enunciadas no primeiro parágrafo do texto.
 
-Item. 3. (CEBRASPE / IPHAN / 2018)
+3. (CEBRASPE / IPHAN / 2018)
 
 Para fazer frente a essas transformações, é necessário um novo tipo de
 planejamento urbano.
@@ -6722,7 +6510,7 @@ sociedade na formulação das políticas.
 
 Seria incorreta a inserção de dois-pontos imediatamente após o trecho "é necessário" (£. 1).
 
-Item. 4. (CEBRASPE / PF / 2018)
+4. (CEBRASPE / PF / 2018)
 
 Os programas de investigação criminal de ficção não reproduzem corretamente o que
 ocorre na
@@ -6739,13 +6527,11 @@ foi comprada e qual cartão de crédito foi usado ".
 Os dois-pontos subsequentes a "técnicas científicas" e "relatou" foram, ambos,
 empregados
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 com o objetivo de introduzir um trecho que apresenta um esclarecimento.
 
-Item. 5. (CEBRASPE / EMAP / 2018)
+5. (CEBRASPE / EMAP / 2018)
 
 A abordagem desse tipo de comércio, inevitavelmente, passa pela concorrência, visto que
 é por
@@ -6761,7 +6547,7 @@ Na linha 4, os dois-pontos introduzem um esclarecimento a respeito do "resultado
 dessa
 interatuação".
 
-Item. 6. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
+6. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
 
 A corrupção é uma doença que deve ser combatida por meio de uma vacina: a educação.
 
@@ -6769,25 +6555,23 @@ Os dois-pontos empregados introduzem um aposto.
 
 GABARITo
 
-Item. 1. LETRA D
+1. LETRA D
 
-Item. 2. INCORRETA
+2. INCORRETA
 
-Item. 3. CORRETA
+3. CORRETA
 
-Item. 4. INCORRETA
+4. INCORRETA
 
-Item. 5. CORRETA
+5. CORRETA
 
-Item. 6. CORRETA
-
+6. CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - TRAvESSÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / SEED-PR / 2021)
+1. (CEBRASPE / SEED-PR / 2021)
 
 De acordo com Li Li Min, neurologista da Faculdade de Ciências Médicas da
 Universidade de
@@ -6814,7 +6598,7 @@ d) introduzir uma enumeração.
 
 e) indicar a interrupção de uma ideia.
 
-Item. 2. (CEBRASPE / BNB / 2018)
+2. (CEBRASPE / BNB / 2018)
 
 A aprendizagem de máquina para a detecção de fraude é baseada em equações
 matemáticas e algoritmos e funciona em duas etapas. Na primeira, o
@@ -6839,17 +6623,15 @@ pelo usuário".
 
 GABARITo
 
-Item. 1. LETRA A
+1. LETRA A
 
-Item. 2. INCORRETA
-
+2. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - PARÊNTESES - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-DF / 2022
+1. CEBRASPE / DPE-DF / 2022
 
 ...O judeu da Europa Central que Kafka ironizou e celebrou foi extinto de maneira abominável.
 Em termos espirituais, existe a possibilidade de Franz Kafka ter sentido seus dons
@@ -6868,7 +6650,5 @@ GABARITo
 
 INCORRETA
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

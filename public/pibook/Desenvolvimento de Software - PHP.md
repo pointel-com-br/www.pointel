@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - PHP.
-
+# Desenvolvimento de Software - PHP.
 
 Índice
 
@@ -8,7 +7,6 @@ Capítulo. Desenvolvimento de Software - PHP.
 2) PHP - Questões Comentadas
 
 3) PHP - Lista de Questões
-
 
 Conceitos Básicos
 
@@ -141,7 +139,6 @@ como uma linguagem de propósito geral, sendo útil em interfaces gráficas ou e
 
 1 Está instalado em mais de 244 milhões de websites e 2.1 milhões de web servers.
 
-
 Agora veremos seu funcionamento! Primeiramente, para que ele funcione, é
 preciso que esteja
 instalado em um Servidor Web. Professor, eu não sei o que é um servidor web! Grosso
@@ -167,11 +164,9 @@ encontra-se a tag
 
 </head>
 
-
 / 121
 
 /
-
 
 <body>
 
@@ -226,7 +221,6 @@ código abaixo:
 
 <script language = "php"> // Código aqui.
 
-
 </script>
 
 <? php
@@ -266,11 +260,9 @@ Letra|Underscore + Letra|Número|Underscore
 
 $var //Correto = Pode começar com letra!
 
-
 / 121
 
 /
-
 
 $_var //Correto = Pode-se começar com underscore!
 
@@ -312,11 +304,9 @@ $var6 = FALSE;
 
 ?>
 
-
 / 121
 
 /
-
 
 Agora uma coisa muito maneira em PHP: variáveis podem ter seu nome
 designado em tempo de
@@ -377,11 +367,9 @@ OPERADORES COMPARATIVOS
 
 ANOTAÇÃO | SIGNIFICADO DESCRIÇÃO
 
-
 / 121
 
 /
-
 
 Verdadeiro (true) se $a é igual a $b.
 
@@ -439,11 +427,9 @@ aqui não é ensinar ninguém a programar. Portanto, não vou explicar para
 cada linguagem como
 x
 
-
 / 121
 
 /
-
 
 funciona conceitos básicos (Ex: laço condicional, laço de repetição),
 porque eles funcionam quase
@@ -493,11 +479,9 @@ $var2 = FALSE;
 
 $var3 = TRUE;
 
-
 / 121
 
 /
-
 
 $var 1? $var2 : $var3;
 
@@ -550,7 +534,6 @@ for ($i = 1; $i <= 10; $i++) {
 echo $i;
 
 }
-
 
 /* exemplo 2 */
 
@@ -606,11 +589,9 @@ echo $i;
 
 } while ($i > 0);
 
-
 / 121
 
 /
-
 
 ?>
 
@@ -663,7 +644,6 @@ $array = array (10,20,30);
 
 //Idêntico ao anterior
 
-
 $array [0] = 10;
 
 $array [1] = 20;
@@ -704,7 +684,6 @@ Jarray = array("Primeiro" => 1, 2 => TRUE);
 Por fim, temos os arrays multidimensionais, que podem ter índices/chaves
 numéricos ou
 textuais e valores de qualquer tipo. Ademais, também se pode utilizar o operador
-
 
 <?php
 
@@ -769,11 +748,9 @@ função importante
 nesse contexto também! Por exemplo, uma das principais características do PHP
 é que ele sabe
 
-
 / 121
 
 /
-
 
 lidar muito bem com formulários. É legal, porque qualquer elemento
 desses formulários fica
@@ -827,7 +804,6 @@ uma variável global
 
 $_REQUEST que consiste em uma array associativo que, por padrão,
 contém informações de
-
 
 $_GET, $_POST e $_COOKIE. Trata-se de uma variável automática, isto é, ela
 está disponível em
@@ -891,11 +867,9 @@ breve, pode estar caindo com alguma frequência nas provas de desenvolvimento
 de sistemas.
 Guardem essas características básicas do framework e parte para o abraço na hora da prova.
 
-
 / 121
 
 /
-
 
 QUESTõES CoMENTADAS - DIVERSAS BANCAS
 
@@ -937,7 +911,7 @@ das variáveis A e B. Portanto, ela retornaria True, caso fossem do mesmo tipo e
 
 Gabarito: Letra C
 
-Item. 2. (FCC / TST - 2012) Considere o programa abaixo escrito na linguagem PHP:
+2. (FCC / TST - 2012) Considere o programa abaixo escrito na linguagem PHP:
 
 $v = array(10, 50, 2, 15, 35);
 
@@ -960,7 +934,6 @@ for($i=0;$i<=count($v);$i ++){
 echo " ".$v[$i];
 
 }
-
 
 O resultado a ser informado ao usuário após a execução do programa acima é:
 a) íoo 70 30 20 4
@@ -991,7 +964,7 @@ resultado é 2 1015 35 50. Por fim, há um loop que escreve o resultado na tela.
 
 Gabarito: Letra D
 
-Item. 3. (FCC / MPE-AP - 2012) Analise os exemplos de criação de array em PHP.
+3. (FCC / MPE-AP - 2012) Analise os exemplos de criação de array em PHP.
 I.
 
 íidade = array("Paulo"=>32, "Pedro"=>3o, "Ana"=>34);
@@ -1022,11 +995,9 @@ a) I, II, III e IV.
 
 b) III e IV, apenas.
 
-
 / 121
 
 /
-
 
 c) I e II, apenas.
 
@@ -1062,7 +1033,7 @@ Vetor IV: Correto, trata-se de um vetor associativo em que o primeiro elemento �
 
 Gabarito: Letra A
 
-Item. 4. (FCC / MPE-AP - 2012) Marcos está desenvolvendo uma aplicação web PHP
+4. (FCC / MPE-AP - 2012) Marcos está desenvolvendo uma aplicação web PHP
 utilizando o
 WAMPServer. Como está utilizando um banco de dados MySQL, escolheu uma função para
 enviar uma consulta ou comando SQL (por exemplo, os comandos select, insert ou delete)
@@ -1089,10 +1060,9 @@ nada extremamente complicado. Bastava ver que a única opção mais condizente c
 banco de
 dados era aquela que tinha o nome "query". Essa função envia uma consulta/comando MySQL.
 
-
 Gabarito: Letra B
 
-Item. 5. (FCC / TRE-SP - 2012) Na linguagem PHP é possível utilizar o protocolo SOAP por
+5. (FCC / TRE-SP - 2012) Na linguagem PHP é possível utilizar o protocolo SOAP por
 meio de
 classes desenvolvidas especificamente para esse protocolo. A classe que fornece acesso
 cliente
@@ -1120,7 +1090,7 @@ acesso cliente a servidores SOAP 1.1 e 1.2, podendo ser usada em Modo WSDL e Nã
 
 Gabarito: Letra D
 
-Item. 6. (FCC / TRE-SP - 2012) A linguagem PHP permite a instalação de
+6. (FCC / TRE-SP - 2012) A linguagem PHP permite a instalação de
 extensões que podem
 aumentar sua gama de funcionalidades. Uma das funcionalidades extras que podem
 ser
@@ -1148,8 +1118,7 @@ gravação de arquivos XML. Ela permite manipular documentos XML por meio da API
 
 Gabarito: Letra A
 
-Item. 7. (FCC / TRE-AP - 2011) Em relação a PHP e JSP é correto afirmar:
-
+7. (FCC / TRE-AP - 2011) Em relação a PHP e JSP é correto afirmar:
 
 a) Em JSP o conceito de classes e objetos não leva em conta os princípios de proteção
 de dados
@@ -1185,7 +1154,7 @@ obrigatório.
 
 Gabarito: Letra B
 
-Item. 8. (FCC / TRT14 - 2011) Na PHP 5, é uma função usada para a busca por um padrão
+8. (FCC / TRT14 - 2011) Na PHP 5, é uma função usada para a busca por um padrão
 em um nome
 de arquivo:
 
@@ -1213,13 +1182,11 @@ nome em um arquivo com um padrão.
 
 Gabarito: Letra E
 
-
 / 121
 
 /
 
-
-Item. 9. (CESPE / MPE-RN -2010) Na linguagem PHP, a função fputs:
+9. (CESPE / MPE-RN -2010) Na linguagem PHP, a função fputs:
 
 a) busca por um padrão em um nome de arquivo.
 
@@ -1270,7 +1237,7 @@ Open-source;
 
 Gabarito: Letra E
 
-Item. 11. (CESPE /TRE-BA- 2015) Para o recebimento dos dados de um formulário HTML,
+11. (CESPE /TRE-BA- 2015) Para o recebimento dos dados de um formulário HTML,
 enviados por
 meio do método GET, para uma página PHP, deve-se utilizar:
 
@@ -1282,11 +1249,9 @@ c) _GET$["nome_text"]
 
 d) _$GET["nome_text"]
 
-
 / 121
 
 /
-
 
 e) _$_GET["nome_text"]
 
@@ -1346,7 +1311,6 @@ Lembram-se de que a sintaxe da Linguagem PHP é fortemente influenciada pela sin
 C/C++
 e Perl. Em C, a passagem de parâmetros por referência é feita por meio da utilização do caractere
 
-
 Nas funções PHP, a passagem por valor é o padrão. Caso você necessite passar um
 parâmetro
 por referência, utilize o caractere &. Veja no exemplo abaixo:
@@ -1355,7 +1319,6 @@ por referência, utilize o caractere &. Veja no exemplo abaixo:
 function foo(&$var)
 
 $var++;
-
 
 $a=5;
 foo($a);
@@ -1388,7 +1351,7 @@ páginas em PHP! No entanto, o gabarito oficial é Letra D.
 
 Gabarito: Letra D
 
-Item. 15. (CESGRANRIO / PETROBRÁS - 2015) O envio de e-mails, por meio de programas PHP, é
+15. (CESGRANRIO / PETROBRÁS - 2015) O envio de e-mails, por meio de programas PHP, é
 responsabilidade da função:
 
 a) email.
@@ -1403,11 +1366,9 @@ e) &email.
 
 Comentários:
 
-
 / 121
 
 /
-
 
 Questão decoreba que não avalia conhecimento! A função responsável pelo envio de
 e-mails é a
@@ -1451,7 +1412,7 @@ variável, utiliza-se o símbolo "$" antes de seu nome. Por exemplo: $variavel =
 
 Gabarito: Letra E
 
-Item. 17. (FCC / MPE-MA- 2015) Em PHP, uma variável NÃO pode receber o nome inválido:
+17. (FCC / MPE-MA- 2015) Em PHP, uma variável NÃO pode receber o nome inválido:
 
 a) $cod_empregado
 b) sbaseisalario
@@ -1468,11 +1429,9 @@ exceto
 
 $data-nascimento, na medida em que possui um traço (que é diferente de underscore).
 
-
 / 121
 
 /
-
 
 Gabarito: Letra C
 
@@ -1533,7 +1492,6 @@ d) somente gravação e coloca o ponteiro no final do arquivo, depois de todos o
 
 e) somente gravação, deleta todo o conteúdo e coloca o ponteiro no início do arquivo.
 
-
 Comentários:
 
 O argumento "a+" abre o arquivo para leitura e escrita; coloca o ponteiro no final
@@ -1584,9 +1542,8 @@ verdadeiras, caso contrário será falso.
 
 Gabarito: Letra C
 
-Item. 23. (IBFC - Prefeitura de divinópolis - 2018) Dado o loop PHP:
+23. (IBFC - Prefeitura de divinópolis - 2018) Dado o loop PHP:
 for ($x = o; $x <= "5"; $x++)
-
 
 A variável $x assumirá os valores:
 
@@ -1638,12 +1595,11 @@ Como já foi dito, JavaScript é client-side e PHP é server-side.
 
 Gabarito: Letra B
 
-Item. 25. (IF-RJ / BIO-RIO - 2015) Considere o seguinte script encontrado em uma página PHP.
+25. (IF-RJ / BIO-RIO - 2015) Considere o seguinte script encontrado em uma página PHP.
 
 <?php
 
 Sidade - array("Paulo"=>"4o", "Pedro"=>"62", "Ana"=>"43", "Marcos"=>"i8");
-
 
 arsort($idade);
 
@@ -1710,7 +1666,6 @@ d) sort(ínomes);
 
 e) krsort(snomes);
 
-
 Comentários:
 
 Esse é um array do tipo indexado, com índices numéricos. Portanto o método é o sort simples.
@@ -1767,7 +1722,6 @@ e) mysql_connect ou mysql_pconnect
 
 Comentários:
 
-
 O comando de acesso a uma base de dados MySQL é mysql_connect ou
 mysql_pconnect. A
 diferença entre os dois é que no segundo, a conexão é persistente. Essas funções
@@ -1792,7 +1746,7 @@ O comando return encerra a execução de uma função retornando o argumento com
 
 Gabarito: Letra C
 
-Item. 30. (FCC / TRT 3 - 2009) Dados os operadores "e" lógico: "and", "&&" e e os
+30. (FCC / TRT 3 - 2009) Dados os operadores "e" lógico: "and", "&&" e e os
 operadores "ou"
 lógico: "or", "||" e "|", a ordem de precedência no momento do PHP avaliar as
 expressões será na
@@ -1822,7 +1776,6 @@ CLONENEW
 **
 
 ++ - - [INT] (FLOAT) (STRINGJ [ARRAY] [OBJECT] [BOOL] @
-
 
 */ah
 
@@ -1859,7 +1812,7 @@ de avaliação de operadores em PHP!
 
 Gabarito: Letra D
 
-Item. 31. (FCC / TRF 3 - 2016) Cookie é um arquivo texto que pode ser armazenado no
+31. (FCC / TRF 3 - 2016) Cookie é um arquivo texto que pode ser armazenado no
 computador do
 usuário, normalmente com informações de sua navegação no site, para ser
 recuperado
@@ -1881,10 +1834,9 @@ Comentários:
 
 A variável superglobal $_COOKIE["ck"] recupera cookies armazenados no cliente.
 
-
 Gabarito: Letra E
 
-Item. 32. (FGV/ TJ-PI - 2015) Analise o código PHP mostrado a seguir.
+32. (FGV/ TJ-PI - 2015) Analise o código PHP mostrado a seguir.
 
 <?php
 function f($arg)
@@ -1925,7 +1877,7 @@ alterado. Logo, o valor continua sendo 343.
 
 Gabarito: Letra C
 
-Item. 33. (FGV/TJ-PI-2015) Uma String recebida do campo nome de um formulário HTML enviado
+33. (FGV/TJ-PI-2015) Uma String recebida do campo nome de um formulário HTML enviado
 por
 meio do método POST para um site deve ser codificada para UTF-8. A forma correta de
 realizar
@@ -1940,7 +1892,6 @@ c) decode($nome)
 d) $nome = string( $_POST['nome'])
 
 e) parseHTML($nome, utf8( $_POST['nome'])
-
 
 Comentários:
 
@@ -1980,8 +1931,7 @@ analisar os restantes:
 
 Gabarito: Letra B
 
-Item. 35. (FGV/ TJ-PI - 2015) Analise o código PHP mostrado a seguir.
-
+35. (FGV/ TJ-PI - 2015) Analise o código PHP mostrado a seguir.
 
 <?php
 
@@ -2042,11 +1992,9 @@ PHP, assinale a opção correta.
 
 x
 
-
 / 121
 
 /
-
 
 a) Uma variável é composta pelo nome dessa variável seguido do sinal $ no final.
 
@@ -2079,9 +2027,7 @@ uma variável;
 
 (e) Errado, PHP é case-sensitive.
 
-
 PHP Version 5.3.0
-
 
 Syslein
 Duild Dato
@@ -2181,7 +2127,7 @@ corwmod dechur* Xiifc *
 
 Gabarito: Letra D
 
-Item. 37. (CESPE/ABIN - 2010) A habilitação da característica de thread safety no painel de
+37. (CESPE/ABIN - 2010) A habilitação da característica de thread safety no painel de
 informações
 do ambiente de runtime PHP depende fundamentalmente do suporte que o
 sistema
@@ -2196,11 +2142,9 @@ para cada
 requisição. Historicamente, sistemas baseados em Unix utilizam processos
 para lidar com
 
-
 / 121
 
 /
-
 
 concorrência. Já quando se trata de Windows, a maioria dos Webservers irá tratar
 diferentes cliente
@@ -2263,11 +2207,9 @@ podemos ver na imagem fornecida na questão no item Loaded Configuration File.
 
 Gabarito: Correto
 
-
 / 121
 
 /
-
 
 4O.(CESPE / ABIN - 2010) Para que possa depurar os scripts PHP que construirá, o
 programador
@@ -2329,11 +2271,9 @@ em uma comunicação mais poderosa e eficiente com banco de dados.
 
 Gabarito: Correto
 
-
 / 121
 
 /
-
 
 42.(CESPE / ABIN - 2010) Caso o programador deseje criar, gerenciar e distribuir
 internamente à
@@ -2398,11 +2338,9 @@ de estilo de codificação (Coding Style Guide), que aborda como deve ser feita 
 formatação do
 código para facilitar a leitura por outros desenvolvedores, algumas das indicações são:
 
-
 / 121
 
 /
-
 
 - Devemos usar 4 espaços para indentação, não tabs.
 
@@ -2507,7 +2445,6 @@ Pessoal, a questão está ERRADA, mas o CESPE anulou. Vamos analisar: trata-se d
 requisição
 do tipo GET. Vejamos a constituição da requisição:
 
-
 http://localhost:8o8o/
 
 URL para onde é mandada a
@@ -2529,7 +2466,6 @@ da variável nome
 (http://localhost:8o8o/teste.php?nome=joao) e extensão ".txt", porém, faltou
 especificar o modo é
 de escrita (poderíamos usar 'r+', 'w', 'w+', 'a', 'a+').
-
 
 MODO DESCRIÇÃO
 
@@ -2582,11 +2518,9 @@ echo $_GET['nome'];
 
 Imprime para usuário o valor da variável nome passado na requisição do tipo GET.
 
-
 / 121
 
 /
-
 
 Vale notar que as variáveis $_GET, $_POST e $_REQUEST são ditas 'superglobais', ou
 globais
@@ -2611,7 +2545,6 @@ múltiplos
 arrays na plataforma PHP, então a saída de dados gerada pela execução bem sucedida do
 script
 abaixo produzirá o resultado indicado em seguida.
-
 
 <?php
 
@@ -2661,7 +2594,6 @@ Sinais de tipos de ordenação:
 SORT_REGULAR - compara os elementos normalmente
 SORT_NUMERIC - compara os elementos como itens numéricos
 
-
 SORT_STRING - compara os elementos como strings
 
 Não podem existir dois sinais de ordenação do mesmo tipo especificados para um mesmo
@@ -2676,7 +2608,6 @@ com os índices
 correspondentes, como linhas de uma tabela (lembrando que o PHP utiliza o algoritmo
 Quicksort
 para ordenação de arrays).
-
 
 1B Iteração
 
@@ -2731,7 +2662,6 @@ $ar[i], SORT_NUMERIC, SORT_DESC);
 ?>
 
 Gabarito: Correto
-
 
 48.(CESPE / ABIN - 2010) A execução bem sucedida do script apresentado abaixo produz
 como
@@ -2800,9 +2730,7 @@ Gabarito: Errado
 aplicado deforma
 bem sucedida ao script apresentado abaixo, então a saída de dados deverá conter a string Você
 
-
 /
-
 
 deve preencher os campos. É correto afirmar, ainda, que uma conexão de
 socket foi
@@ -2861,11 +2789,9 @@ antes da primeira ocorrência da string img2.png e a segunda ocorrência da stri
 imgi2.png
 depois da segunda ocorrência da string img2.png.
 
-
 / 121
 
 /
-
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -2928,7 +2854,6 @@ registros com segurança. Em um site ou sistema web, a sessão é importante qua
 quer mais
 segurança na página ou quando se querter um controle de usuário.
 
-
 Também alguns programadores se utilizam deste recurso para guardar informações e ou
 montar
 um carrinho de compras de um site de vendas, pois assim vão armazenando-se os itens
@@ -2989,15 +2914,13 @@ conexão com o banco deveria ter sido encerrada com um mysql_free_result($r),
 isso evita que
 memória fique alocada para consultas que já passaram.
 
-
 / 121
 
 /
 
-
 Gabarito: Correto
 
-Item. 54. (CESPE / ABIN - 2010) O pedido HTTP que pode ser atendido por esse script não
+54. (CESPE / ABIN - 2010) O pedido HTTP que pode ser atendido por esse script não
 poderá conter
 cookies de nomes nu e su, além de estar sujeito a ataques de SQL injection.
 
@@ -3021,7 +2944,7 @@ fazer isso utilizando a função htmlspecialchars() e a mysql_real_escape_string
 
 Gabarito: Errado
 
-Item. 55. (CESPE / ABIN - 2010) Os softwares de servidores web, ao aderirem à arquitetura
+55. (CESPE / ABIN - 2010) Os softwares de servidores web, ao aderirem à arquitetura
 de sistemas
 operacionais, empregam modelo de memória virtual, que atua como um cache de memória e
 contém parte das instruções e dados executados por um script em determinado instante de
@@ -3050,7 +2973,6 @@ Memória virtual cria uma ilusão de que um usuário tem um ou mais espaços de 
 que começam com endereço zero.
 
 Gabarito: Errado
-
 
 56.(CESPE/ ABIN-2010) O formato JSON (javascript object notation) permite
 representar objetos
@@ -3117,11 +3039,9 @@ colisão é intolerável (por exemplo, nas funções de dispersão da
 criptografia), ou quando
 x53
 
-
 / 121
 
 /
-
 
 conhecemos previamente o conteúdo da tabela armazenada. Nas tabelas de dispersão comuns
 a
@@ -3180,11 +3100,9 @@ uma tabela de usuários em um banco de dados relacional PostgreSQL?
 a) ínome = "João"; $sql = "SELECT nome, sobrenome, senha FROM tb_usuario WHERE
 nome=$nome;"; sresultado - pg_query($conn, $sql);
 
-
 / 121
 
 /
-
 
 b) $nome = $_GET["nome"]; $sql = "SELECT nome, sobrenome, senha FROM
 tb_usuario
@@ -3245,11 +3163,9 @@ echo "Invalid email format";} ?>
 
 x
 
-
 / 121
 
 /
-
 
 Comentários:
 
@@ -3300,7 +3216,6 @@ para o desenvolvimento web e que pode ser embutida dentro do HTML.
 
 Comentários:
 
-
 Perfeito! O PHP (um acrônimo recursivo para PHP: Hypertext Preprocessor) é
 uma linguagem
 descript open source de uso geral, muito utilizada, e especialmente
@@ -3342,7 +3257,7 @@ Exato! Temos um código PHP.
 
 Gabarito: Letra E
 
-Item. 66. (CESPE / MINISTÉRIO DA ECONOMIA - 2020) Uma expressão lambda é
+66. (CESPE / MINISTÉRIO DA ECONOMIA - 2020) Uma expressão lambda é
 usada
 principalmente para definira implementação procedural de uma interface associativa.
 
@@ -3353,7 +3268,6 @@ tipos
 de árvore de expressão.
 
 Gabarito: Errado
-
 
 67.(CESPE / TJ-AM - 2019) Após a configuração de um servidor Apache com módulo PHP,
 uma
@@ -3371,7 +3285,7 @@ respeito da configuração do PHP no servidor Apache.
 
 Gabarito: Correto
 
-Item. 68. (CESPE/TJ-AM - 2019) A função current () não retorna o valor armazenado onde
+68. (CESPE/TJ-AM - 2019) A função current () não retorna o valor armazenado onde
 o ponteiro
 atual aponta.
 
@@ -3381,7 +3295,7 @@ A função current () retorna o valor armazenado onde o ponteiro atual aponta.
 
 Gabarito: Errado
 
-Item. 69. (CESPE / TJ-AM - 2019) A linguagem PHP suporta o uso de operadores lógicos
+69. (CESPE / TJ-AM - 2019) A linguagem PHP suporta o uso de operadores lógicos
 capazes de
 diversas comparações lógicas. O operador && considera que uma comparação será verdadeira
 se um ou ambos os argumentos forem verdadeiros.
@@ -3404,13 +3318,11 @@ PHP é alto nível e acessar ponteiro em memória é baixo nível.
 
 Gabarito: Errado
 
-Item. 71. (SELECON / EMGEPRON - 2021) A figura mostra um código em PHP.
-
+71. (SELECON / EMGEPRON - 2021) A figura mostra um código em PHP.
 
 / 121
 
 /
-
 
 <!DOCTYPE html>
 
@@ -3472,7 +3384,7 @@ Assim imprime "ENGEPRON!";
 
 Gabarito: Letra C
 
-Item. 72. (APICE / DPE-PB - 2021) Existe a possibilidade dos valores do array em PHP serem outros arrays
+72. (APICE / DPE-PB - 2021) Existe a possibilidade dos valores do array em PHP serem outros arrays
 e árvores. Incluindo a biblioteca com a diretiva #include<Arrays>, é possível
 realizar a
 manipulação de arrays multidimensionais.
@@ -3483,10 +3395,8 @@ Não é preciso importar biblioteca para manipular arrays multidimensinais. Alé
 imports em
 PHP são feitos com "require", "include" ou suas variantes.
 
-
 00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital)
-
 
 Gabarito: Errado
 
@@ -3540,7 +3450,6 @@ Gabarito: Correto
 Figura 7
 abaixo, escrito em PHP 5.5:
 
-
 <?php
 dass Fundonario {
 public $nome;
@@ -3591,13 +3500,13 @@ Analise as seguintes expressões lógicas escritas em PHP 5.5, caso fossem avali
 após a
 execução do código apresentado anteriormente:
 
-Item. 1. $fai===$fi
+1. $fai===$fi
 
-Item. 2. $fai==$fi
+2. $fai==$fi
 
-Item. 3. $fai===$fa2
+3. $fai===$fa2
 
-Item. 4. $fai==$fa2
+4. $fai==$fa2
 
 A alternativa que apresenta o resultado correto das expressões é:
 
@@ -3617,18 +3526,17 @@ Pessoal, como falamos anteriormente quando utilizamos == vamos comprar só o val
 não o tipo.
 Se utilizamos 0 === estamos comparando o valor e o tipo. Logo:
 
-Item. 1. $fai===$fi: FALSE
+1. $fai===$fi: FALSE
 
+2. $fai==$fi: FALSE
 
-Item. 2. $fai==$fi: FALSE
+3. $fai===$fa2: FALSE
 
-Item. 3. $fai===$fa2: FALSE
-
-Item. 4. $fai==$fa2: TRUE
+4. $fai==$fa2: TRUE
 
 Gabarito: Letra D
 
-Item. 77. (Prefeitura de São Paulo - 2020) Analise o trecho do código PHP a seguir.
+77. (Prefeitura de São Paulo - 2020) Analise o trecho do código PHP a seguir.
 
 $x -10;
 
@@ -3683,7 +3591,6 @@ c) getPrevious(), getTrace(), getSuppressed().
 
 d) try(), catch(), finaIly().
 
-
 e) getStackTraceStringO, getCode(), getMessage().
 
 Comentários:
@@ -3736,7 +3643,6 @@ c) mssql_execute
 d) mssql_fetch_row
 
 Comentários:
-
 
 Estou trazendo esse tipo de questão pessoal, porque realmente não tem como sair fora,
 as bancas
@@ -3791,11 +3697,9 @@ utilizada para o desenvolvimento de aplicações voltadas para a internet.
 entre
 várias páginas, permitindo, assim, uma padronização visual muito simplificada e lógica.
 
-
 / 121
 
 /
-
 
 ( ) É uma linguagem de marcação, que é interpretada pelo browser para dar formatação
 e
@@ -3859,11 +3763,9 @@ echo " finally-
 
 > Imprime " finally". Assim, será impressa na tela a sequência: catch exception finally
 
-
 / 121
 
 /
-
 
 Gabarito: Letra C
 
@@ -3891,7 +3793,7 @@ classe. Basta então utilizar: define ("XPTO", "alguma coisa")
 
 Gabarito: Letra E
 
-Item. 86. (CESPE / FUNPRESPJUD - 2021) Quando enviamos um arquivo através de um formulário
+86. (CESPE / FUNPRESPJUD - 2021) Quando enviamos um arquivo através de um formulário
 para o PHP, ele cria a super global $_FILES, no mesmo estilo das super globais $_GET e $_POST.
 Cada campo do tipo file é colocado em um array dentro de $_FILES.
 
@@ -3922,7 +3824,6 @@ b) <p>Parágrafo.</p>
 
 c) Parágrafo.
 
-
 d) <p class="$destaque">Parágrafo</p>
 
 e) <px/p>
@@ -3935,7 +3836,7 @@ class="destaque">Parágrafo.</p>
 
 Gabarito: Letra A
 
-Item. 88. (FGV / TJ-TO - 2022) Num script PHP, a função que permite verificar se um
+88. (FGV / TJ-TO - 2022) Num script PHP, a função que permite verificar se um
 cookie está
 definido é:
 
@@ -3955,7 +3856,7 @@ Para permitir a verificação de cookie utiliza-se a função isset () no PHP.
 
 Gabarito: Letra D
 
-Item. 89. (FGV / TJ-TO - 2022) Numa página web, um script PHP deve ser localizado entre as tags:
+89. (FGV / TJ-TO - 2022) Numa página web, um script PHP deve ser localizado entre as tags:
 
 a) <?php ?>
 
@@ -3977,7 +3878,6 @@ Gabarito: Letra A
 public function setNome($Nome) {
 
 $this->Nome = $Nome;
-
 
 A partir de outra classe, um objeto na classe Cliente foi instanciado por meio da
 instrução $cli =
@@ -4012,7 +3912,6 @@ echo"SIM";
 
 echo "NÃO";
 
-
 Ao ser executado, esse código apresentará a mensagem:
 
 a) "SIM", pois o operador "==" compara apenas o valor e não o tipo.
@@ -4034,7 +3933,6 @@ não o
 tipo.
 
 Gabarito: Letra A
-
 
 92.(FUNDATEC / CIGA-SC - 2020) Qual dos trechos de código abaixo, em linguagem PHP
 5.5, é
@@ -4093,7 +3991,6 @@ baixo nível, open-source, gratuita, server-side, dinamicamente/fracamente tipad
 estruturada
 e orientada a objetos, portável, robusta e eficiente utilizada para desenvolvimento web.
 
-
 Comentários:
 
 Perfeito! PHP é uma linguagem de programação de scripts, interpretada, de
@@ -4117,7 +4014,7 @@ for verdadeiro.
 
 Gabarito: Errado
 
-Item. 96. (CESPE /TJ-AM - 2019) Após a configuração de um servidor Apache com módulo
+96. (CESPE /TJ-AM - 2019) Após a configuração de um servidor Apache com módulo
 PHP, uma
 forma de validar o seu funcionamento é criar uma página HTML e inserir a função
 phpinfo (),
@@ -4133,7 +4030,7 @@ respeito da configuração do PHP no servidor Apache.
 
 Gabarito: Correto
 
-Item. 97. (CESPE / MINISTÉRIO DA ECONOMIA - 2020) Após a configuração de um servidor Apache
+97. (CESPE / MINISTÉRIO DA ECONOMIA - 2020) Após a configuração de um servidor Apache
 com
 módulo PHP, uma forma de validar o seu funcionamento é criar uma página HTML e
 inserir a
@@ -4150,13 +4047,11 @@ de árvore de expressão.
 Gabarito: Errado
 x
 
-
 / 121
 
 /
 
-
-Item. 98. (ADMTEC / PREFEITURA DE RIO LARGO - 2019) Analise o código abaixo e responda, a qual
+98. (ADMTEC / PREFEITURA DE RIO LARGO - 2019) Analise o código abaixo e responda, a qual
 linguagem de programação melhor se enquadra essa sintaxe:
 
 <?
@@ -4190,7 +4085,7 @@ Exato! Temos um código PHP.
 
 Gabarito: Letra E
 
-Item. 99. (QUADRIX / CRM 4 - 2021) Na linguagem PHP, a função Itrimfj é utilizada para retirar os
+99. (QUADRIX / CRM 4 - 2021) Na linguagem PHP, a função Itrimfj é utilizada para retirar os
 espaços em branco no início e no final de uma string.
 
 Comentários:
@@ -4199,7 +4094,7 @@ Pessoal, a função ltrim() retira espaços em branco no inicio da string.
 
 Gabarito: Errado
 
-Item. 100. (QUADRIX / CRM 4 - 2021) Considerando o trecho de código acima, julgue o item.
+100. (QUADRIX / CRM 4 - 2021) Considerando o trecho de código acima, julgue o item.
 
 <?php
 IncludeCpages/footer.php');
@@ -4213,7 +4108,6 @@ no diretório
 pages, será apresentado um waming, indicando que o arquivo não foi encontrado, mas
 permitindo
 ainda a execução do script.
-
 
 Comentários:
 
@@ -4259,7 +4153,7 @@ FILTER-VALIDATE-EMAIL.
 
 Gabarito: Letra A
 
-Item. 102. (CESPE/MEC-2015)
+102. (CESPE/MEC-2015)
 
 <?php
 if (isset($_REQUEST['emai1'])) {
@@ -4272,11 +4166,9 @@ $subject = $_REQUEST['subject'];
 
 $comment = $_REQUEST['comment'];
 
-
 / 121
 
 /
-
 
 mail($admi n_emai1₃ "$subject", $comment ₃ "From:".
 
@@ -4320,17 +4212,15 @@ código: $admin_email = "admin@prova.com"
 
 Gabarito: Errado
 
-Item. 103. (CESPE / MEC - 2015) De acordo com o trecho de código
+103. (CESPE / MEC - 2015) De acordo com o trecho de código
 apresentado, julgue o
 item subsequente.
 
 x
 
-
 / 121
 
 /
-
 
 <?php
 if (isset($_REQUEST[*email'])) {
@@ -4383,7 +4273,7 @@ Perfeito! Trata-se de um formulário em PHP para envio de e-mail e está correto
 
 Gabarito: Correto
 
-Item. 104. (CESPE / ANATEL - 2014) Em PHP 6, a passagem de variáveis entre páginas, por
+104. (CESPE / ANATEL - 2014) Em PHP 6, a passagem de variáveis entre páginas, por
 meio do
 uso de sessões, está limitada a informações fornecidas pelo usuário em uma página.
 
@@ -4393,14 +4283,13 @@ Não existe PHP 6 ou versão 6 do PHP, existe versão 5 do PHP e versão 7 do PH
 
 Gabarito: Errado
 
-Item. 105. (CESPE/ANATEL-2014) A utilização do PHPatendea mais de uma finalidade:
+105. (CESPE/ANATEL-2014) A utilização do PHPatendea mais de uma finalidade:
 gerarscripts
 no lado servidor, que é o uso mais comum da linguagem; gerar scripts em linha de
 comando,
 caso em que é necessário apenas o interpretador; e escrever aplicações para desktop,
 situação
 em que é necessária a extensão PHP-GTK.
-
 
 Comentários:
 
@@ -4414,7 +4303,7 @@ extensão PHP-GTK.
 
 Gabarito: Correto
 
-Item. 106. (CESPE/ANATEL - 2014) O script PHP abaixo está correto e exibe o número 9
+106. (CESPE/ANATEL - 2014) O script PHP abaixo está correto e exibe o número 9
 como saída. <
 
 ?php function soma($b==5, $c==4){ return $b+$c;} echo soma(); ? >
@@ -4426,7 +4315,7 @@ comparação.
 
 Gabarito: Errado
 
-Item. 107. (CESPE / ANATEL - 2014) Existem três tipos de operadores em PHP: os unários,
+107. (CESPE / ANATEL - 2014) Existem três tipos de operadores em PHP: os unários,
 que operam
 em apenas uma sentença; os binários, que retornam o valorde acordo com a operação
 realizada
@@ -4444,7 +4333,7 @@ e os ternários, que entre dois valores selecionam um, a depender de um terceiro
 
 Gabarito: Correto
 
-Item. 108. (CESPE / ANATEL - 2014) No que se refere à linguagem PHP, julgue os itens
+108. (CESPE / ANATEL - 2014) No que se refere à linguagem PHP, julgue os itens
 subsecutivos.
 
 $_4dias, sãripãev e $margem_são variáveis válidas no PHP.
@@ -4455,17 +4344,15 @@ Nenhum problema com as respectivas variáveis: $_4dias, sãripãev e $margem_
 
 Gabarito: Correto
 
-Item. 109. (CESPE / STM - 2018) O comando INCLUDE interromperá a execução do script
+109. (CESPE / STM - 2018) O comando INCLUDE interromperá a execução do script
 assim que
 ocorrer um erro, enquanto o comando REQUIRE continuará a executar o código após o erro.
 
 x
 
-
 / 121
 
 /
-
 
 Comentários:
 
@@ -4484,7 +4371,7 @@ Pessoal, conforme vimos PHP é back-end e server side.
 
 Gabarito: Errado
 
-Item. 111. (CESPE / TCE-PA - 2016) As instruções echo e print, do PHP 5, são utilizadas
+111. (CESPE / TCE-PA - 2016) As instruções echo e print, do PHP 5, são utilizadas
 para viabilizar
 a saída de dados na tela.
 
@@ -4496,7 +4383,7 @@ tela.
 
 Gabarito: Correto
 
-Item. 112. (CESPE / TCE-PA - 2016) Em PHP 5, a função count é utilizada para retornar
+112. (CESPE / TCE-PA - 2016) Em PHP 5, a função count é utilizada para retornar
 o número de
 elementos de um array.
 
@@ -4506,7 +4393,7 @@ Perfeito! Em PHP 5, a função count é utilizada para retornar o número de ele
 
 Gabarito: Correto
 
-Item. 113. (CESPE / MPU - 2013) O código da linguagem PHP é interpretado em um servidor
+113. (CESPE / MPU - 2013) O código da linguagem PHP é interpretado em um servidor
 web,
 enquanto o código da linguagem Java é interpretado pela própria máquina.
 
@@ -4514,10 +4401,9 @@ Comentários:
 
 Pessoal, ambos são interpretados do lado servidor.
 
-
 Gabarito: Errado
 
-Item. 114. (CESPE /TRT10 - 2013) No código abaixo, o teste da condição retornará verdadeiro.
+114. (CESPE /TRT10 - 2013) No código abaixo, o teste da condição retornará verdadeiro.
 
 <?php
 if (2 === 2.0)
@@ -4534,7 +4420,7 @@ integer enquanto que o "2.0" é do tipo float. Logo, retorna false.
 
 Gabarito: Errado
 
-Item. 115. (CESPE /TRT10 - 2013) Ao ser corretamente executado, o trecho de código abaixo
+115. (CESPE /TRT10 - 2013) Ao ser corretamente executado, o trecho de código abaixo
 avalia se
 o conteúdo da variável van é diferente do conteúdo de var2; caso a avaliação seja
 verdadeira,
@@ -4555,7 +4441,7 @@ de var2; caso a avaliação seja verdadeira, será emitida mensagem de que os va
 
 Gabarito: Correto
 
-Item. 116. (CESPE / TCDF - 2014) Zend Framework é uma biblioteca PHP para desenvolvedores
+116. (CESPE / TCDF - 2014) Zend Framework é uma biblioteca PHP para desenvolvedores
 que
 permite utilizar ferramentas controladas de acesso às informações de transação, de modo
 a
@@ -4569,8 +4455,7 @@ ZEND é um framework e não uma biblioteca PHP.
 
 Gabarito: Errado
 
-
-Item. 117. (CESPE / EBSERH - 2018) Julgue o item que se segue a respeito das
+117. (CESPE / EBSERH - 2018) Julgue o item que se segue a respeito das
 características da
 linguagem PHP e de compiladores.
 
@@ -4599,7 +4484,7 @@ na segunda linha.
 
 Gabarito: Errado
 
-Item. 118. (CESPE / EBSERH - 2018) Na linguagem PHP, o comando explode() permite descarregar
+118. (CESPE / EBSERH - 2018) Na linguagem PHP, o comando explode() permite descarregar
 os buffers de saída de qualquer backend que o PHP esteja usando, como, por exemplo,
 um CGI
 ou um servidor web.
@@ -4612,7 +4497,7 @@ divisor, que pode ser um ponto e vírgula ou qualquer outro caractere ou string.
 
 Gabarito: Errado
 
-Item. 119. (CESPE / EBSERH - 2018) PHP consiste de uma linguagem compilada para código
+119. (CESPE / EBSERH - 2018) PHP consiste de uma linguagem compilada para código
 nativo e
 gera um bytecode que é interpretado por uma máquina virtual implantada em cada cliente
 onde
@@ -4624,11 +4509,10 @@ O PHP conforme vimos é uma linguagem interpretada e não uma linguagem compilad
 
 Gabarito: Errado
 
-Item. 120. (CESPE / EBSERH - 2018) O comando a seguir concatena corretamente caracteres em
+120. (CESPE / EBSERH - 2018) O comando a seguir concatena corretamente caracteres em
 PHP.
 
 $final = "abc". "efg";
-
 
 Comentários:
 
@@ -4638,7 +4522,7 @@ corretamente.
 
 Gabarito: Correto
 
-Item. 121. (QUADRIX/ CRBM 4 - 2021) Considerando o trecho de código acima, julgue o item.
+121. (QUADRIX/ CRBM 4 - 2021) Considerando o trecho de código acima, julgue o item.
 
 <?php
 IncludeCpages/footer.php');
@@ -4661,7 +4545,7 @@ um erro.
 
 Gabarito: Errado
 
-Item. 122. (QUADRIX / CRBM 4 - 2021) Na linguagem PHP, a função Itrim() é utilizada para
+122. (QUADRIX / CRBM 4 - 2021) Na linguagem PHP, a função Itrim() é utilizada para
 retirar os
 espaços em branco no início e no final de uma string.
 
@@ -4673,7 +4557,7 @@ não do final.
 
 Gabarito: Errado
 
-Item. 123. (QUADRIX / CRQ 4 Região - 2018) Em programas PHP, os comentários podem ser
+123. (QUADRIX / CRQ 4 Região - 2018) Em programas PHP, os comentários podem ser
 usados
 utilizando-se os caracteres "#", "//" ou 7* */", sendo que estes últimos
 delimitam textos que
@@ -4681,11 +4565,9 @@ podem se estender em mais de uma linha.
 
 Comentários:
 
-
 / 121
 
 /
-
 
 Perfeito! Nos programas PHP, os comentários podem ser usados utilizando-se os caracteres
 "#",
@@ -4695,7 +4577,7 @@ linha.
 
 Gabarito: Correto
 
-Item. 124. (QUADRIX / CRQ 4 Região - 2018) A linguagem PHP é baseada emscr/ptde
+124. (QUADRIX / CRQ 4 Região - 2018) A linguagem PHP é baseada emscr/ptde
 uso livre
 (open source) e adequada para o desenvolvimento web, pois pode ser embutida em códigos
 HTML.
@@ -4708,7 +4590,7 @@ desenvolvimento web, pois pode ser embutida em códigos HTML.
 
 Gabarito: Correto
 
-Item. 125. (QUADRIX / CRN 9 - 2018) Uma das utilidades do safe_mode é a proteção dos
+125. (QUADRIX / CRN 9 - 2018) Uma das utilidades do safe_mode é a proteção dos
 scripts PHP
 contra acessos remotos.
 
@@ -4720,7 +4602,7 @@ remotos.
 
 Gabarito: Errado
 
-Item. 126. (QUADRIX / CRN 9 - 2018) A PHP é considerada como uma linguagem de programação
+126. (QUADRIX / CRN 9 - 2018) A PHP é considerada como uma linguagem de programação
 totalmente insegura, visto que ela não pode ser utilizada em
 aplicações que estejam
 relacionadas a informações relevantes, como as confidenciais e as bancárias.
@@ -4735,17 +4617,15 @@ as confidenciais e as bancárias.
 
 Gabarito: Errado
 
-Item. 127. (QUADRIX / CRN 9 - 2018) Ao desabilitar a diretiva register_globals, a
+127. (QUADRIX / CRN 9 - 2018) Ao desabilitar a diretiva register_globals, a
 PHP somente
 interpretará variáveis inicializadas.
 
 Comentários:
 
-
 / 121
 
 /
-
 
 Exato! Essa é o objetivo por retirar (desabilitar) o register_globals, para
 que o PHP interprete
@@ -4753,7 +4633,7 @@ somente variáveis inicializadas.
 
 Gabarito: Correto
 
-Item. 128. (QUADRIX / CRN 9 - 2018) O ponto e vírgula, na linguagem de programação PHP, é
+128. (QUADRIX / CRN 9 - 2018) O ponto e vírgula, na linguagem de programação PHP, é
 usado
 no término de uma declaração.
 
@@ -4765,7 +4645,7 @@ término de uma declaração.
 
 Gabarito: Correto
 
-Item. 129. (QUADRIX / CRO-AC- 2019) No PHP, para cada necessidade, deve ser
+129. (QUADRIX / CRO-AC- 2019) No PHP, para cada necessidade, deve ser
 criado um
 procedimento, já que os procedimentos não podem ser reaproveitados em outras situações.
 
@@ -4775,7 +4655,7 @@ Obviamente que pode! Existe o reaproveitamento.
 
 Gabarito: Errado
 
-Item. 130. (QUADRIX / CRESC-SC- 2019) O código $Cad_Especialidade['Pesq Area'] =
+130. (QUADRIX / CRESC-SC- 2019) O código $Cad_Especialidade['Pesq Area'] =
 'Social', em
 PHP, representa o armazenamento do elemento ('Social') em uma variável do tipo array,
 em
@@ -4788,7 +4668,7 @@ Area'.
 
 Gabarito: Errado
 
-Item. 131. (QUADRIX / CRESC-SC- 2019) Na declaração de uma função, na linguagem
+131. (QUADRIX / CRESC-SC- 2019) Na declaração de uma função, na linguagem
 PHP, as
 variáveis enviadas por referência devem ser identificadas pelo símbolo &
 
@@ -4798,10 +4678,9 @@ Perfeito! Na declaração de uma função, na linguagem PHP, as variáveis envia
 referência
 devem ser identificadas pelo símbolo &.
 
-
 Gabarito: Correto
 
-Item. 132. (QUADRIX / CRO-AC- 2019) Uma função no PHP, mesmo sendo uma função isolada, tem
+132. (QUADRIX / CRO-AC- 2019) Uma função no PHP, mesmo sendo uma função isolada, tem
 como característica principal a retenção de informações, ou seja, a
 função armazena
 informações para serem usadas no futuro.
@@ -4818,7 +4697,7 @@ uma função, e poderá retornar apenas um valor.
 
 Gabarito: Errado
 
-Item. 133. (QUADRIX / CRO-AC- 2019) No PHP, para cada necessidade, deve ser criado um
+133. (QUADRIX / CRO-AC- 2019) No PHP, para cada necessidade, deve ser criado um
 procedimento, já que os procedimentos não podem ser reaproveitados em outras situações.
 
 Comentários:
@@ -4827,7 +4706,7 @@ No PHP, por definição, não existem produceres, existem functions.
 
 Gabarito: Errado
 
-Item. 134. (QUADRIX / CRM-PR - 2019) Considerando o programa abaixo, julgue o próximo item.
+134. (QUADRIX / CRM-PR - 2019) Considerando o programa abaixo, julgue o próximo item.
 
 <!D0CTYPE html>
 
@@ -4856,11 +4735,9 @@ Comentários:
 
 A saída será:
 
-
 / 121
 
 /
-
 
 The number is: o
 The number is: 1
@@ -4869,7 +4746,7 @@ The number is: 3
 
 Gabarito: Errado
 
-Item. 135. (QUADRIX / CRM-PR - 2019) Considerando o programa abaixo, julgue o próximo item.
+135. (QUADRIX / CRM-PR - 2019) Considerando o programa abaixo, julgue o próximo item.
 
 <!D0CTYPE html>
 
@@ -4898,7 +4775,7 @@ Perfeito! O comando de repetição for incrementa a variável x com valores de o
 
 Gabarito: Correto
 
-Item. 136. (QUADRIX / CRM-PR - 2019) Considerando o programa abaixo, julgue o próximo item.
+136. (QUADRIX / CRM-PR - 2019) Considerando o programa abaixo, julgue o próximo item.
 
 <!D0CTYPE html>
 
@@ -4923,10 +4800,8 @@ O programa deve ser executado em um servidor web com PHP instalado e seu resulta
 aparecerá
 no browser do cliente que o acessar.
 
-
 00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital)
-
 
 Comentários:
 
@@ -4936,7 +4811,7 @@ aparecerá no browser do cliente que o acessar.
 
 Gabarito: Correto
 
-Item. 137. (QUADRIX/CRM-PR - 2016) Considerando um programa em PHP com os seguintes valores
+137. (QUADRIX/CRM-PR - 2016) Considerando um programa em PHP com os seguintes valores
 nas variáveis: a=6 b=5 c=4- Qual será a saída do trecho de código abaixo:
 
 <?php
@@ -4977,7 +4852,7 @@ que c (4), logo a saída será: TERRA.
 
 Gabarito: Letra B
 
-Item. 138. (QUADRIX / CFP - 2016) Sobre PHP é correto afirmar que:
+138. (QUADRIX / CFP - 2016) Sobre PHP é correto afirmar que:
 
 a) as variáveis começam com um sinal #, seguido do nome da variável.
 
@@ -4991,7 +4866,6 @@ recebido.
 
 e) tem apenas dois diferentes escopos de variáveis: local e global.
 
-
 Comentários:
 
 Sobre PHP, é correto afirmar que o operador de concatenação (.) é usado
@@ -5000,7 +4874,7 @@ valores string.
 
 Gabarito: Letra C
 
-Item. 139. (FCC/TRE-BA-2015) Para conectar uma aplicação PHP5 orientada a objetos aos principais
+139. (FCC/TRE-BA-2015) Para conectar uma aplicação PHP5 orientada a objetos aos principais
 servidores de banco de dados, abstraindo o acesso de forma que, para se mudar de
 servidor,
 seja necessário alterar apenas a string de conexão, deve-se utilizar a biblioteca:
@@ -5027,7 +4901,7 @@ apenas a string de conexão.
 
 Gabarito: Letra D
 
-Item. 140. (FCC / TRE-RR - 2015) Considere o seguinte script encontrado em uma página PHP.
+140. (FCC / TRE-RR - 2015) Considere o seguinte script encontrado em uma página PHP.
 
 <?php
 
@@ -5048,7 +4922,6 @@ Ao executar o script será exibido na página:
 
 a) Ana = 43 Marcos = 18 Paulo = 40 Pedro = 62
 
-
 b) Marcos = 18 Paulo = 40 Ana = 43 Pedro = 62
 
 c) o = 62 1 = 43 2 = 40 3 = 18
@@ -5065,11 +4938,9 @@ Paulo (40) e a Marcos (18) com ordenação de valor (arsort) do maior para o men
 
 Gabarito: Letra E
 
-
 / 121
 
 /
-
 
 LISTA DE QUESTõES - DIVERSAS BANCAS
 
@@ -5092,7 +4963,7 @@ os valores 3 e
 
 e) (A = = = B) compara somente os tipos das variáveis A e B.
 
-Item. 2. (FCC / TST - 2012) Considere o programa abaixo escrito na linguagem PHP:
+2. (FCC / TST - 2012) Considere o programa abaixo escrito na linguagem PHP:
 
 $v = array(10, 50, 2, 15, 35);
 
@@ -5128,9 +4999,8 @@ d) 2 10 15 35 50
 
 e) 10 50 2 15 35
 
-Item. 3. (FCC / MPE-AP - 2012) Analise os exemplos de criação de array em PHP.
+3. (FCC / MPE-AP - 2012) Analise os exemplos de criação de array em PHP.
 I.
-
 
 $ idade = array("Paulo"=>32, "Pedro"=>3O, "Ana"=>34);
 
@@ -5166,7 +5036,7 @@ d) I, III e IV, apenas.
 
 e) II, III e IV, apenas.
 
-Item. 4. (FCC / MPE-AP - 2012) Marcos está desenvolvendo uma aplicação web PHP
+4. (FCC / MPE-AP - 2012) Marcos está desenvolvendo uma aplicação web PHP
 utilizando o
 WAMPServer. Como está utilizando um banco de dados MySQL, escolheu uma função para
 enviar uma consulta ou comando SQL (por exemplo, os comandos select, insert ou delete)
@@ -5183,7 +5053,7 @@ d) mysql_execute_stmt.
 
 e) mysql_stmt_start.
 
-Item. 5. (FCC / TRE-SP - 2012) Na linguagem PHP é possível utilizar o protocolo SOAP por
+5. (FCC / TRE-SP - 2012) Na linguagem PHP é possível utilizar o protocolo SOAP por
 meio de
 classes desenvolvidas especificamente para esse protocolo. A classe que fornece acesso
 cliente
@@ -5199,8 +5069,7 @@ d) SoapClient.
 
 e) SoapAccess.
 
-
-Item. 6. (FCC / TRE-SP - 2012) A linguagem PHP permite a instalação de
+6. (FCC / TRE-SP - 2012) A linguagem PHP permite a instalação de
 extensões que podem
 aumentar sua gama de funcionalidades. Uma das funcionalidades extras que podem
 ser
@@ -5218,7 +5087,7 @@ d) SCA.
 
 e) YAZ.
 
-Item. 7. (FCC / TRE-AP - 2011) Em relação a PHP e JSP é correto afirmar:
+7. (FCC / TRE-AP - 2011) Em relação a PHP e JSP é correto afirmar:
 
 a) Em JSP o conceito de classes e objetos não leva em conta os princípios de proteção
 de dados
@@ -5238,7 +5107,7 @@ tratamento de exceções nos métodos nativos.
 
 e) Em JSP os objetos são destruídos ao final da execução do script.
 
-Item. 8. (FCC / TRT14 - 2011) Na PHP 5, é uma função usada para a busca por um padrão
+8. (FCC / TRT14 - 2011) Na PHP 5, é uma função usada para a busca por um padrão
 em um nome
 de arquivo:
 
@@ -5251,7 +5120,7 @@ djfputs.
 
 e) fnmatch.
 
-Item. 9. (CESPE / MPE-RN -2010) Na linguagem PHP, a função fputs:
+9. (CESPE / MPE-RN -2010) Na linguagem PHP, a função fputs:
 
 a) busca por um padrão em um nome de arquivo.
 
@@ -5263,11 +5132,9 @@ d) cria um link físico.
 
 e) posiciona o ponteiro em um arquivo.
 
-
 / 121
 
 /
-
 
 io.(FCC/TCE-SP-2Oio) NÃO se trata de uma característica do PHP:
 
@@ -5294,7 +5161,7 @@ d) _$GET["nome_text"]
 
 e) _$_GET["nome_text"]
 
-Item. 12. (CESPE / CPRM -2013) A validação de uma data em PHP pode ser realizada pela função:
+12. (CESPE / CPRM -2013) A validação de uma data em PHP pode ser realizada pela função:
 
 a) getdate.
 
@@ -5306,7 +5173,7 @@ d) isdate.
 
 e) mktime.
 
-Item. 13. (CESPE / TRE-MS - 2015) Em uma função, escrita na linguagem de programação PHP, a
+13. (CESPE / TRE-MS - 2015) Em uma função, escrita na linguagem de programação PHP, a
 passagem de parâmetros por referência é feita por meio da utilização do caractere:
 
 a) !
@@ -5330,13 +5197,11 @@ d) Apache.
 
 e) Netscape.
 
-
 / 121
 
 /
 
-
-Item. 15. (CESGRANRIO / PETROBRÁS - 2015) O envio de e-mails, por meio de programas PHP, é
+15. (CESGRANRIO / PETROBRÁS - 2015) O envio de e-mails, por meio de programas PHP, é
 responsabilidade da função:
 
 a) email.
@@ -5349,7 +5214,7 @@ d) ismail.
 
 e) &email.
 
-Item. 16. (CESPE / TJ-RO - 2015) Em PHP,
+16. (CESPE / TJ-RO - 2015) Em PHP,
 
 a) os operadores aritméticos restringem-se a soma, subtração, multiplicação e divisão.
 
@@ -5363,7 +5228,7 @@ d) o único conjunto de comandos condicionais utilizado é o if...endif.
 
 e) as variáveis são definidas com o símbolo antes do nome da variável.
 
-Item. 17. (FCC / MPE-MA- 2015) Em PHP, uma variável NÃO pode receber o nome inválido:
+17. (FCC / MPE-MA- 2015) Em PHP, uma variável NÃO pode receber o nome inválido:
 
 a) $cod_empregado
 b) íbaseisalario
@@ -5371,7 +5236,7 @@ c) $data-nascimento
 d) $depto_i_nome
 e) $descricao
 
-Item. 18. (FCC / TJ-PE - 2015) NÃO é uma afirmativa correta sobre a função PHP:
+18. (FCC / TJ-PE - 2015) NÃO é uma afirmativa correta sobre a função PHP:
 
 a) session_start() = Inicializa os dados da sessão.
 
@@ -5383,7 +5248,7 @@ d) session_commit() = O mesmo que session_write_ close().
 
 e) session_write_close() = Escreve os dados da sessão e a encerra.
 
-Item. 19. (FCC / TRT19 - 2015) Utilizando a data 01/07/2009 e o comando PHP:
+19. (FCC / TRT19 - 2015) Utilizando a data 01/07/2009 e o comando PHP:
 echo $data = date("d/m/y");
 
 a data será exibida no formato
@@ -5397,8 +5262,7 @@ d) oi/Jul/2009.
 
 e) Wed, oi/Jul/2009
 
-
-Item. 20. (FEPESE / JUCESC - 2013) A função fopen ( ), utilizada em um script PHP, que recebe o
+20. (FEPESE / JUCESC - 2013) A função fopen ( ), utilizada em um script PHP, que recebe o
 argumento de modo igual a "a+", abre um arquivo existente para:
 
 a) leitura e gravação e coloca o ponteiro no final do arquivo, depois de todos os dados.
@@ -5411,7 +5275,7 @@ d) somente gravação e coloca o ponteiro no final do arquivo, depois de todos o
 
 e) somente gravação, deleta todo o conteúdo e coloca o ponteiro no início do arquivo.
 
-Item. 21. (MPE-RS / MPE-RS - 2015) Um conteúdo será considerado como um código PHP pelo
+21. (MPE-RS / MPE-RS - 2015) Um conteúdo será considerado como um código PHP pelo
 interpretador se estiver dentro do par de tags:
 
 a) <php> </php>
@@ -5424,7 +5288,7 @@ d) <?> </?>
 
 e) <script language = PHP> ?>
 
-Item. 22. (FCC/ TRT 23 - 2015) A expressão PHP $x && $y representa um exemplo de utilização de
+22. (FCC/ TRT 23 - 2015) A expressão PHP $x && $y representa um exemplo de utilização de
 operador:
 
 a) de atribuição.
@@ -5437,7 +5301,7 @@ d) de comparação.
 
 e) de incremento e decremento.
 
-Item. 23. (IBFC - Prefeitura de divinópolis - 2018) Dado o loop PHP:
+23. (IBFC - Prefeitura de divinópolis - 2018) Dado o loop PHP:
 for ($x = o; $x <= "5"; $x++)
 
 A variável $x assumirá os valores:
@@ -5455,11 +5319,9 @@ e) o, 1, 2, 3, 4 e 5.
 24.(FGV / BANESTES - 2021) HTML, DHTML, JavaScript e PHP são linguagens utilizadas no
 desenvolvimento de sites da World Wide Web. A seu respeito é correto afirmar que:
 
-
 / 121
 
 /
-
 
 a) o código de uma aplicação JavaScript deve ser interpretado pelo servidor HTTP ao
 passo que
@@ -5481,7 +5343,7 @@ e) o código de uma página HTML deve ser interpretado pelo cliente HTTP ao pass
 o código
 de uma página DHTML deve ser interpretado pelo servidor HTTP.
 
-Item. 25. (IF-RJ / BIO-RIO - 2015) Considere o seguinte script encontrado em uma página PHP.
+25. (IF-RJ / BIO-RIO - 2015) Considere o seguinte script encontrado em uma página PHP.
 
 <?php
 
@@ -5509,11 +5371,9 @@ e) Pedro = 62 Ana = 43 Paulo = 40 Marcos = 18
 
 26.(IF-RJ / BIO-RIO - 2015) Considere o código PHP a seguir:
 
-
 / 121
 
 /
-
 
 <?php
 
@@ -5548,7 +5408,7 @@ d) sort($nomes);
 
 e) krsort($nomes);
 
-Item. 27. (IF-RJ / BIO-RIO - 2015) Considere um formulário criado na página de site desenvolvido com
+27. (IF-RJ / BIO-RIO - 2015) Considere um formulário criado na página de site desenvolvido com
 PHP para permitir que os usuários façam upload de arquivos:
 
 «fornfi action="upload.php" mettiod="post' enctype="muttipart/fonn-data">
@@ -5579,17 +5439,15 @@ estabelecer uma conexão. Para isso, deve ser utilizado o comando:
 a) mysqL&connect ou mysql_&pconnect
 b) mysql_&&connect ou mysql_&&pconnect
 
-
 / 121
 
 /
-
 
 c) mysql&_connect ou mysql&_pconnect
 d) mysql&&_connect ou mysql&&_pconnect
 e) mysql_connect ou mysql_pconnect
 
-Item. 29. (FCC / TCE-SP - 2010) Uma função PHP em execução terminará imediatamente,
+29. (FCC / TCE-SP - 2010) Uma função PHP em execução terminará imediatamente,
 retornando
 seu argumento como valor, se for chamada, na função, a instrução:
 
@@ -5599,7 +5457,7 @@ c) return
 d) this.value
 e) this.return
 
-Item. 30. (FCC / TRT 3 - 2009) Dados os operadores "e" lógico: "and", "&&" e e os
+30. (FCC / TRT 3 - 2009) Dados os operadores "e" lógico: "and", "&&" e e os
 operadores "ou"
 lógico: "or", "||" e "|", a ordem de precedência no momento do PHP avaliar as
 expressões será na
@@ -5615,7 +5473,7 @@ d) or, and, ||, &&, | e &.
 
 e) &, &&, and, |, || e or.
 
-Item. 31. (FCC / TRF 3 - 2016) Cookie é um arquivo texto que pode ser armazenado no
+31. (FCC / TRF 3 - 2016) Cookie é um arquivo texto que pode ser armazenado no
 computador do
 usuário, normalmente com informações de sua navegação no site, para ser
 recuperado
@@ -5633,7 +5491,7 @@ d) $_GETCOOKIE["ck"]
 
 e) $_COOKIE["ck"]
 
-Item. 32. (FGV/TJ-PI - 2015) Analise o código PHP mostrado a seguir.
+32. (FGV/TJ-PI - 2015) Analise o código PHP mostrado a seguir.
 
 <?php
 function f($arg)
@@ -5642,7 +5500,6 @@ $argoi = 343 + 20/2 + 911;
 
 $argo2 = 38 - (5 * 11);
 sargRetorno = $argoi - $argo2;
-
 
 $argoi = 343;
 
@@ -5662,7 +5519,7 @@ d) 1264
 
 e) 1281
 
-Item. 33. (FGV/TJ-PI - 2015) Uma String recebida do campo nome de um formulário HTML
+33. (FGV/TJ-PI - 2015) Uma String recebida do campo nome de um formulário HTML
 enviado por
 meio do método POST para um site deve ser codificada para UTF-8. A forma correta de
 realizar
@@ -5678,7 +5535,7 @@ d) snome - string( $_POST['nome'])
 
 e) parseHTML($nome, utf8( $_POST['nome'])
 
-Item. 34. (1 ES ES / IFC-SC - 2015) Em um código PHP 5.6.2, qual das alternativas a seguir atribuiria o
+34. (1 ES ES / IFC-SC - 2015) Em um código PHP 5.6.2, qual das alternativas a seguir atribuiria o
 valor
 10 à variável svar?
 
@@ -5690,8 +5547,7 @@ c) svar = (100 > 10 :10 ? 100);
 
 d) svar = (100 > 10 ? 100 :10);
 
-Item. 35. (FGV/ TJ-PI - 2015) Analise o código PHP mostrado a seguir.
-
+35. (FGV/ TJ-PI - 2015) Analise o código PHP mostrado a seguir.
 
 <?php
 
@@ -5723,7 +5579,7 @@ d) removidos da variável, devido a um erro no código;
 
 e) duplicados, devido a um erro no código.
 
-Item. 36. (CESPE / TRE-BA - 2017) A respeito da declaração de variáveis na linguagem de
+36. (CESPE / TRE-BA - 2017) A respeito da declaração de variáveis na linguagem de
 programação
 PHP, assinale a opção correta.
 
@@ -5743,17 +5599,15 @@ e) Os nomes das variáveis no PHP não diferenciam maiúsculas de minúsculas, o
 eles são
 case insentivive.
 
-Item. 37. (CESPE / ABIN - 2010) A habilitação da característica de thread safety no painel
+37. (CESPE / ABIN - 2010) A habilitação da característica de thread safety no painel
 de informações
 do ambiente de runtime PHP depende fundamentalmente do suporte que o
 sistema
 operacional oferta, e não, das características do zend engine.
 
-
 / 121
 
 /
-
 
 38.(CESPE / ABIN - 2010) Considere que determinada aplicação web a ser desenvolvida em
 PHP
@@ -5772,13 +5626,13 @@ momento da inicialização (startup) do servidor HTTP associado ao referido IDE,
 caso
 específico, é o Apache 2.2.11.
 
-Item. 40. (CESPE / ABIN - 2010) Para que possa depurar os scripts PHP que construirá, o
+40. (CESPE / ABIN - 2010) Para que possa depurar os scripts PHP que construirá, o
 programador
 não necessita instalar depuradores externos, uma vez que a distribuição padrão de PHP
 vem
 acompanhada de depurador.
 
-Item. 41. (CESPE / ABIN - 2010) O acesso otimizado ao sistema gerenciador de banco de
+41. (CESPE / ABIN - 2010) O acesso otimizado ao sistema gerenciador de banco de
 dados (SGBD)
 em uso nos ambientes de desenvolvimento e produção da organização pode ser obtido por
 meio
@@ -5788,14 +5642,14 @@ camada de abstração para acesso aos dados, que não reescreve SQL nem emula
 funcionalidades
 de um SGBD.
 
-Item. 42. (CESPE / ABIN - 2010) Caso o programador deseje criar, gerenciar e distribuir
+42. (CESPE / ABIN - 2010) Caso o programador deseje criar, gerenciar e distribuir
 internamente à
 organização um ou mais packages que contenham módulos ou extensões porele desenvolvidos,
 é correto o uso da técnica de channels, que é embasada em arquitetura orientada a
 serviços
 (SOA), por meio da utilização de XML e REST (representational state transfer).
 
-Item. 43. (CESPE / ABIN - 2010) Para instalar extensões do repositório PEAR (PHP
+43. (CESPE / ABIN - 2010) Para instalar extensões do repositório PEAR (PHP
 extension and
 application repository), é correto o uso do Pyrus, uma versão refatorada do instalador
 PEAR,
@@ -5803,13 +5657,13 @@ capaz de prover maior segurança aos processos, permitindo o gerenciamento e a
 distribuição
 de packages.
 
-Item. 44. (CESPE / ABIN - 2010) Ao se escreverem scripts PHP, deve-se empregar indentação
+44. (CESPE / ABIN - 2010) Ao se escreverem scripts PHP, deve-se empregar indentação
 com
 espaços em branco, sem uso de tabs; atribuições em arrays devem ser alinhadas;
 comentários
 podem adotar o estilo C ou estilo C++, mas comentários em estilo PERL devem ser evitados.
 
-Item. 45. (CESPE / ABIN - 2010) Scripts de teste funcional devem conter a extensão .phpt,
+45. (CESPE / ABIN - 2010) Scripts de teste funcional devem conter a extensão .phpt,
 conforme
 prescreve o padrão de distribuição de módulos PHP; os diversos artefatos de teste
 relacionados
@@ -5819,7 +5673,7 @@ diretório do módulo ou package; dados de configuração específicos do ambien
 do
 desenvolvedor devem ser armazenados no arquivo de nome config.php.dist.
 
-Item. 46. (CESPE / ABIN - 2010) Se o pedido http://localhost:8o8o/teste.php?nome=joao for
+46. (CESPE / ABIN - 2010) Se o pedido http://localhost:8o8o/teste.php?nome=joao for
 aplicado de
 forma bem sucedida ao script apresentado a seguir, então, após o processamento do pedido, a
 saída de dados para o usuário deverá conter a string joao e um arquivo de nome
@@ -5887,11 +5741,9 @@ porta 80 e a outra, a uma porta cujo número não se pode determinar
 pelas informações
 apresentadas.
 
-
 / 121
 
 /
-
 
 <h tml >< bo dy > < ? ph p
 if (empty ($nome) OR empty ($email)) {
@@ -5905,7 +5757,7 @@ echo "olá $nome";
 
 ?></body></html>
 
-Item. 50. (CESPE / ABIN - 2010) Sabendo-se que a função natsort() opera com o conceito de
+50. (CESPE / ABIN - 2010) Sabendo-se que a função natsort() opera com o conceito de
 ordenação
 natural, na qual as strings alfanuméricas são ordenadas da forma que um ser humano
 ordenaria,
@@ -5932,25 +5784,25 @@ print_r($array2);
 
 ?>
 
-Item. 51. (CESPE / ABIN - 2010) Uma sessão PHP é criada ou recuperada automaticamente
+51. (CESPE / ABIN - 2010) Uma sessão PHP é criada ou recuperada automaticamente
 durante a
 execução do script.
 
-Item. 52. (CESPE / ABIN - 2010) A senha do usuário que está no banco de dados não foi
+52. (CESPE / ABIN - 2010) A senha do usuário que está no banco de dados não foi
 criptografada
 com um hash, fato que torna a aplicação vulnerável a ataques de dicionário.
 
-Item. 53. (CESPE / ABIN - 2010) O banco de dados MySQL é usado pelo script, mas a
+53. (CESPE / ABIN - 2010) O banco de dados MySQL é usado pelo script, mas a
 conexão com o
 banco deveria ter sido encerrada ou devolvida ao pool ao final do script,
 fato que não se
 concretiza.
 
-Item. 54. (CESPE / ABIN - 2010) O pedido HTTP que pode ser atendido por esse script não
+54. (CESPE / ABIN - 2010) O pedido HTTP que pode ser atendido por esse script não
 poderá conter
 cookies de nomes nu e su, além de estar sujeito a ataques de SQL injection.
 
-Item. 55. (CESPE / ABIN - 2010) Os softwares de servidores web, ao aderirem à arquitetura
+55. (CESPE / ABIN - 2010) Os softwares de servidores web, ao aderirem à arquitetura
 de sistemas
 operacionais, empregam modelo de memória virtual, que atua como um cache de memória e
 contém parte das instruções e dados executados por um script em determinado instante de
@@ -5959,12 +5811,12 @@ no disco; com isso, a memória total disponível para um script ou programa pode
 exceder o
 tamanho da memória principal do sistema.
 
-Item. 56. (CESPE/ ABIN-2010) O formato JSON (javascript object notatíon) permite representar
+56. (CESPE/ ABIN-2010) O formato JSON (javascript object notatíon) permite representar
 objetos
 e classes como estruturas de dados e arrays associativos, sendo possível seu uso em combinação
 com Ajax e PHP, por meio de bibliotecas diversas, como DOJO.
 
-Item. 57. (CESPE / ABIN - 2010) Arrays associativos, usados em PHP e em outras linguagens
+57. (CESPE / ABIN - 2010) Arrays associativos, usados em PHP e em outras linguagens
 de script,
 podem ser implementados de forma eficiente, do ponto de vista de consumo de memória,
 por
@@ -5974,7 +5826,7 @@ totalmente livres de colisão, tal que, na implementação de métodos de busca,
 pesquisas
 sejam executadas em tempo constante, independentemente do valor pesquisado.
 
-Item. 58. (CESPE / ABIN - 2010) Estruturas de dados padronizadas, como listas ligadas
+58. (CESPE / ABIN - 2010) Estruturas de dados padronizadas, como listas ligadas
 duplamente
 encadeadas, pilhas, filas, filas de prioridade e arrays numéricos de tamanho fixo, são
 disponíveis
@@ -6019,11 +5871,9 @@ hipotética, assinale a opção em que o código apresentado é o correto para o
 desenvolvedor
 realizar a referida validação, tendo como referência que a variável a sertestada é $email.
 
-
 / 121
 
 /
-
 
 a) <?php if (!filter_var($email, FILTER_VALIDATE_EMAIL)) { echo "Invalid email format";}
 else {
@@ -6045,7 +5895,7 @@ e) <?php if (strncasecmp ($email, 7A[a-zA-Z-' ]*$ @./")) {echo "Valid email form
 else {
 echo "Invalid email format";} ?>
 
-Item. 62. (QUADRIX/ CRM 4 - 2021) Considerando o trecho de código acima, julgue o item.
+62. (QUADRIX/ CRM 4 - 2021) Considerando o trecho de código acima, julgue o item.
 
 <?php
 IncludeCpages/footer.php');
@@ -6060,19 +5910,18 @@ no diretório pages, será apresentado um warning, indicando que o arquivo não 
 encontrado,
 mas permitindo ainda a execução do script.
 
-Item. 63. (QUADRIX / CRM 4 - 2021) Na linguagem PHP, a função Itrimfjé utilizada para retirar os
+63. (QUADRIX / CRM 4 - 2021) Na linguagem PHP, a função Itrimfjé utilizada para retirar os
 espaços em branco no início e no final de uma string.
 
-Item. 64. (APICE / DPE-PB - 2021) O PHP (um acrônimo recursivo para PHP: Hypertext
+64. (APICE / DPE-PB - 2021) O PHP (um acrônimo recursivo para PHP: Hypertext
 Preprocessor) é
 uma linguagem de script open source de uso geral, muito utilizada, e especialmente
 adequada
 para o desenvolvimento web e que pode ser embutida dentro do HTML.
 
-Item. 65. (PS CONCURSOS / PREFEITURA DE SC - 2021) Analise o código abaixo e responda, a
+65. (PS CONCURSOS / PREFEITURA DE SC - 2021) Analise o código abaixo e responda, a
 qual
 linguagem de programação melhor se enquadra essa sintaxe:
-
 
 Svl = 40;
 
@@ -6097,31 +5946,30 @@ d) C#
 
 e) PHP
 
-Item. 66. (CESPE / MINISTÉRIO DA ECONOMIA - 2020) Uma expressão lambda é
+66. (CESPE / MINISTÉRIO DA ECONOMIA - 2020) Uma expressão lambda é
 usada
 principalmente para definira implementação procedural de uma interface associativa.
 
-Item. 67. (CESPE / TJ-AM - 2019) Após a configuração de um servidor Apache com módulo PHP,
+67. (CESPE / TJ-AM - 2019) Após a configuração de um servidor Apache com módulo PHP,
 uma
 forma de validar o seu funcionamento é criar uma página HTML e inserir a função
 phpinfo (),
 que mostra informações a respeito da configuração do PHP no servidor Apache.
 
-Item. 68. (CESPE/TJ-AM - 2019) A função current () não retorna o valor armazenado onde
+68. (CESPE/TJ-AM - 2019) A função current () não retorna o valor armazenado onde
 o ponteiro
 atual aponta.
 
-Item. 69. (CESPE / TJ-AM - 2019) A linguagem PHP suporta o uso de operadores lógicos
+69. (CESPE / TJ-AM - 2019) A linguagem PHP suporta o uso de operadores lógicos
 capazes de
 diversas comparações lógicas. O operador && considera que uma comparação será verdadeira
 se um ou ambos os argumentos forem verdadeiros.
 
-Item. 70. (CESPE / MP-SC - 2014) PHP é uma linguagem de alto nível, logo o programador
+70. (CESPE / MP-SC - 2014) PHP é uma linguagem de alto nível, logo o programador
 precisar
 acessar diretamente a memória para acionar os ponteiros em uma implementação.
 
-Item. 71. (SELECON / EMGEPRON - 2021) A figura mostra um código em PHP.
-
+71. (SELECON / EMGEPRON - 2021) A figura mostra um código em PHP.
 
 <!DOCTYPE html>
 
@@ -6165,38 +6013,36 @@ c) 16 EMGEPRON!
 
 d) 15 EMGEPRON!
 
-Item. 72. (APICE/ DPE-PB - 2021) Existe a possibilidade dos valores do array em PHP serem
+72. (APICE/ DPE-PB - 2021) Existe a possibilidade dos valores do array em PHP serem
 outros arrays
 e árvores. Incluindo a biblioteca com a diretiva #include<Arrays>, é possível
 realizar a
 manipulação de arrays multidimensionais.
 
-Item. 73. (APICE / DPE-PB - 2021) Um array no PHP é tipo que relaciona valores a chaves.
+73. (APICE / DPE-PB - 2021) Um array no PHP é tipo que relaciona valores a chaves.
 Este tipo é
 otimizado para várias usos diferentes: ele pode ser tratado como um array,
 uma lista
 (vetor), hashtable (que é uma implementação de mapa), dicionário, coleção, pilha ou fila.
 
-Item. 74. (APICE / DPE-PB - 2021) Para definir uma classe no PHP, deve-se começar com a
+74. (APICE / DPE-PB - 2021) Para definir uma classe no PHP, deve-se começar com a
 palavra-
 chave class, seguida do nome da classe e de um par de colchetes que englobam as definições de
 propriedades e métodos pertencentes à classe.
 
-Item. 75. (APICE / DPE-PB - 2021) Quando PHP interpreta um arquivo, uma procura pelas tags
+75. (APICE / DPE-PB - 2021) Quando PHP interpreta um arquivo, uma procura pelas tags
 de
 abertura e fechamento, <?php e ?>, é realizada. Estas tags indicam para iniciar ou
 parar a
 interpretação do código entre elas.
 
-Item. 76. (CIGA-SC - 2020) Para responder à questão, considere o código apresentado pela
+76. (CIGA-SC - 2020) Para responder à questão, considere o código apresentado pela
 Figura 7
 abaixo, escrito em PHP 5.5:
-
 
 / 121
 
 /
-
 
 <?php
 dass Fundonario {
@@ -6248,13 +6094,13 @@ Analise as seguintes expressões lógicas escritas em PHP 5.5, caso fossem avali
 após a
 execução do código apresentado anteriormente:
 
-Item. 1. $fai===$fi
+1. $fai===$fi
 
-Item. 2. $fai==$fi
+2. $fai==$fi
 
-Item. 3. $fai===$fa2
+3. $fai===$fa2
 
-Item. 4. $fai==$fa2
+4. $fai==$fa2
 
 A alternativa que apresenta o resultado correto das expressões é:
 
@@ -6268,7 +6114,7 @@ d) FALSE-FALSE-FALSE-TRUE
 
 e) FALSE-FALSE-TRUE-TRUE
 
-Item. 77. (Prefeitura de São Paulo - 2020) Analise o trecho do código PHP a seguir.
+77. (Prefeitura de São Paulo - 2020) Analise o trecho do código PHP a seguir.
 
 $x = 10;
 
@@ -6276,7 +6122,6 @@ if ($x == '10') {
 echo"SIM";
 
 } else {
-
 
 echo"NÃO";
 
@@ -6296,7 +6141,7 @@ apenas o primeiro caractere é considerado.
 
 e) "NÃO", pois a comparação de variáveis com tipos diferentes sempre retorna "falso".
 
-Item. 78. (UFMT - UFMT - 2021) Um conceito muito importante em programação orientada a
+78. (UFMT - UFMT - 2021) Um conceito muito importante em programação orientada a
 objetos é
 o de exceções. Exceções podem ser conceituadas como ocorrências de programação tidas
 como
@@ -6317,7 +6162,7 @@ d) try(), catch(), finaIly().
 
 e) getStackTraceStringO, getCode(), getMessage().
 
-Item. 79. (UFMT - UFMT - 2021) O Hypertext Preprocessor (PHP) é uma linguagem de script
+79. (UFMT - UFMT - 2021) O Hypertext Preprocessor (PHP) é uma linguagem de script
 usada no
 desenvolvimento web. Sobre o PHP, marque V para as afirmativas verdadeiras e F para
 as falsas
@@ -6341,13 +6186,12 @@ d) V,F,V,F
 "adiciona um parâmetro a um procedimento armazenado local ou remoto quando utilizado com
 o Microsoft SQL Server". A afirmativa se refere a:
 
-
 a) mssqljnit
 b) mssql_bind
 c) mssql_execute
 d) mssql_fetch_row
 
-Item. 81. (CONSULPLAN / Prefeitura de Colômbia-SP - 2021) Considerando as funções do PHP para
+81. (CONSULPLAN / Prefeitura de Colômbia-SP - 2021) Considerando as funções do PHP para
 manipulação de documentos em PDF, uma delas "preenche o caminho atual e o desenha no
 documento". Trata-se de:
 
@@ -6357,11 +6201,11 @@ b) pdf_stroke
 c) pdf_fill_stroke
 d) pdf_fill_textblock
 
-Item. 82. (CESPE / PGDF - 2021) PHP é uma linguagem de script projetada para
+82. (CESPE / PGDF - 2021) PHP é uma linguagem de script projetada para
 desenvolvimento web,
 mas que também pode ser usada para programação de uso geral.
 
-Item. 83. (OBJETIVA / Prefeitura de Santa Maria-RS - 2021) Conforme BONATTI, sobre
+83. (OBJETIVA / Prefeitura de Santa Maria-RS - 2021) Conforme BONATTI, sobre
 tecnologias e
 linguagens utilizadas na construção de websites, numerar a 2a coluna de acordo com a
 ia e,
@@ -6393,10 +6237,9 @@ d) 2-1-3
 
 e) 3-i-2
 
-Item. 84. (OBJETIVA / Prefeitura de Santa Maria-RS - 2021) Considere o seguinte código
+84. (OBJETIVA / Prefeitura de Santa Maria-RS - 2021) Considere o seguinte código
 escrito na
 linguagem PHP.
-
 
 <?php function inversa($x) { if ($x==o) { throw new Exceptionf exception'); }
 return i/$x;
@@ -6414,7 +6257,7 @@ c) catch exception finally
 d) catch exception
 e) finally catch exception
 
-Item. 85. (OBJETIVA / Prefeitura de Santa Maria-RS - 2021) A forma correta de se
+85. (OBJETIVA / Prefeitura de Santa Maria-RS - 2021) A forma correta de se
 declarar uma
 constante na linguagem PHP é:
 
@@ -6428,12 +6271,12 @@ d) declare("XPTO","alguma coisa");
 
 e) define("XPTO","alguma coisa");
 
-Item. 86. (CESPE / FUNPRESPJUD - 2021) Quando enviamos um arquivo através de um
+86. (CESPE / FUNPRESPJUD - 2021) Quando enviamos um arquivo através de um
 formulário
 para o PHP, ele cria a super global $_FILES, no mesmo estilo das super globais $_GET e $_POST.
 Cada campo do tipo file é colocado em um array dentro de $_FILES.
 
-Item. 87. (UFSC / UFSC - 2016) Considere o seguinte fragmento de código presente em uma
+87. (UFSC / UFSC - 2016) Considere o seguinte fragmento de código presente em uma
 página de
 uma aplicação escrita em PHP:
 
@@ -6453,7 +6296,7 @@ d) <p class="$destaque">Parágrafo</p>
 
 e) <px/p>
 
-Item. 88. (FGV / TJ-TO - 2022) Num script PHP, a função que permite verificar se um
+88. (FGV / TJ-TO - 2022) Num script PHP, a função que permite verificar se um
 cookie está
 definido é:
 
@@ -6461,14 +6304,13 @@ a) active()
 
 b) cookie_value()
 
-
 c) exists()
 
 d) isset()
 
 e) status()
 
-Item. 89. (FGV / TJ-TO - 2022) Numa página web, um script PHP deve ser localizado entre as tags:
+89. (FGV / TJ-TO - 2022) Numa página web, um script PHP deve ser localizado entre as tags:
 
 a) <?php ?>
 
@@ -6480,7 +6322,7 @@ d) <scriptPHP scriptPHP>
 
 e) <.php ,php>
 
-Item. 90. (FCC/TJ-SC-2O2i) Considere o método abaixo, em uma classe PHP chamada Cliente.
+90. (FCC/TJ-SC-2O2i) Considere o método abaixo, em uma classe PHP chamada Cliente.
 publicfunction setNome($Nome) {
 
 $this->Nome = $Nome;
@@ -6501,7 +6343,7 @@ d) $cli->send.setNome('Paulo');
 
 e) $cli.setNome('Paulo');
 
-Item. 91. (VUNESP / PREF. ILHABELA - 2020) Analise o trecho de código PHP a seguir.
+91. (VUNESP / PREF. ILHABELA - 2020) Analise o trecho de código PHP a seguir.
 
 $x = 10;
 
@@ -6525,7 +6367,6 @@ c) "NÃO", pois os tipos das variáveis são diferentes e não podem ser compara
 d) NÃO", pois cadeias de caracteres devem ser delimitadas por aspas duplas, caso
 contrário
 apenas o primeiro caractere é considerado.
-
 
 e) "NÃO", pois a comparação de variáveis com tipos diferentes sempre retorna "falso".
 
@@ -6554,28 +6395,28 @@ nome='$nome';"; sresultado = pg_query($conn, ssql);
 e) snome = $_GET["nome"]; ssql = "SELECT nome, sobrenome, encrypt(senha) FROM
 tb_usuario WHERE nome=$nome;"; sresultado = pg_query_params($conn, ssql);
 
-Item. 93. (CESPE / TCE-SP 2015) Em PHP é possível usar uma variável sem declarar seu tipo,
+93. (CESPE / TCE-SP 2015) Em PHP é possível usar uma variável sem declarar seu tipo,
 que será
 decidido, também, durante a execução do programa.
 
-Item. 94. (CESPE / TCE-SP 2015) PHP é uma linguagem de programação de scripts, interpretada,
+94. (CESPE / TCE-SP 2015) PHP é uma linguagem de programação de scripts, interpretada,
 de
 baixo nível, open-source, gratuita, server-side, dinamicamente/fracamente tipada,
 estruturada
 e orientada a objetos, portável, robusta e eficiente utilizada para desenvolvimento web.
 
-Item. 95. (CESPE / TJ-AM - 2019) A linguagem PHP suporta o uso de operadores lógicos
+95. (CESPE / TJ-AM - 2019) A linguagem PHP suporta o uso de operadores lógicos
 capazes de
 diversas comparações lógicas. O operador && considera que uma comparação será verdadeira
 se um ou ambos os argumentos forem verdadeiros.
 
-Item. 96. (CESPE /TJ-AM - 2019) Após a configuração de um servidor Apache com módulo
+96. (CESPE /TJ-AM - 2019) Após a configuração de um servidor Apache com módulo
 PHP, uma
 forma de validar o seu funcionamento é criar uma página HTML e inserir a função
 phpinfo (),
 que mostra informações a respeito da configuração do PHP no servidor Apache.
 
-Item. 97. (CESPE / MINISTÉRIO DA ECONOMIA - 2020) Após a configuração de um servidor Apache
+97. (CESPE / MINISTÉRIO DA ECONOMIA - 2020) Após a configuração de um servidor Apache
 com
 módulo PHP, uma forma de validar o seu funcionamento é criar uma página HTML e
 inserir a
@@ -6583,9 +6424,8 @@ função phpinfo ( ), que mostra informações a respeito da configuração do P
 servidor
 Apache.
 
-Item. 98. (ADMTEC / PREFEITURA DE RIO LARGO - 2019) Analise o código abaixo e responda, a qual
+98. (ADMTEC / PREFEITURA DE RIO LARGO - 2019) Analise o código abaixo e responda, a qual
 linguagem de programação melhor se enquadra essa sintaxe:
-
 
 <?
 
@@ -6612,11 +6452,11 @@ d) C#
 
 e) PHP
 
-Item. 99. (QUADRIX / CRM 4 - 2021) Na linguagem PHP, a função Itrimfj é utilizada
+99. (QUADRIX / CRM 4 - 2021) Na linguagem PHP, a função Itrimfj é utilizada
 para retirar os
 espaços em branco no início e no final de uma string.
 
-Item. 100. (QUADRIX / CRM 4 - 2021) Considerando o trecho de código acima, julgue o item.
+100. (QUADRIX / CRM 4 - 2021) Considerando o trecho de código acima, julgue o item.
 
 <?php
 IncludeCpages/footer.php');
@@ -6631,7 +6471,7 @@ pages, será apresentado um warning, indicando que o arquivo não foi encontrado
 permitindo
 ainda a execução do script.
 
-Item. 101. (CESPE / MPE-AP - 2021) No desenvolvimento de um sistema em PHP, o
+101. (CESPE / MPE-AP - 2021) No desenvolvimento de um sistema em PHP, o
 desenvolvedor
 precisa validar se o endereço bob@mpap.mp.br é ou não um email válido. A
 partir dessa
@@ -6653,14 +6493,13 @@ c) <?php if (emailspecialchars($email)) {echo "Valid email format";} else {echo 
 email
 format";} ?>
 
-
 d) <?php if (ctype_alnum ($email)) {echo "Valid email format";} else {echo "Invalid email
 format";} ?>
 
 e) <?php if (strncasecmp ($email, 7A[a-zA-Z-' ]*$ @./")) íecho "Valid email format";} else {
 echo "Invalid email format";} ?>
 
-Item. 102. (CESPE/MEC-2015)
+102. (CESPE/MEC-2015)
 
 <?php
 if (isset($_REQUEST['emai1'])) {
@@ -6707,14 +6546,12 @@ O trecho de código semail = $_REQUEST['email']; indica que a variável $email
 recebe como
 parâmetro o email do administrador do portal prova.com.
 
-Item. 103. (CESPE / MEC - 2015) De acordo com o trecho de código
+103. (CESPE / MEC - 2015) De acordo com o trecho de código
 apresentado, julgue o
 item subsequente.
 
-
 00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software -
 2023 (Pós-Edital)
-
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -6761,55 +6598,54 @@ O código apresentado é um exemplo de formulário para enviar email em PHP e es
 sintaticamente
 correto.
 
-Item. 104. (CESPE / ANATEL - 2014) Em PHP 6, a passagem de variáveis entre páginas, por
+104. (CESPE / ANATEL - 2014) Em PHP 6, a passagem de variáveis entre páginas, por
 meio do
 uso de sessões, está limitada a informações fornecidas pelo usuário em uma página.
 
-Item. 105. (CESPE / ANATEL - 2014) A utilização do PHP atende a mais de uma finalidade: gerar scripts
+105. (CESPE / ANATEL - 2014) A utilização do PHP atende a mais de uma finalidade: gerar scripts
 no lado servidor, que é o uso mais comum da linguagem; gerar scripts em linha de
 comando,
 caso em que é necessário apenas o interpretador; e escrever aplicações para desktop,
 situação
 em que é necessária a extensão PHP-GTK.
 
-Item. 106. (CESPE/ANATEL - 2014) O script PHP abaixo está correto e exibe o número 9
+106. (CESPE/ANATEL - 2014) O script PHP abaixo está correto e exibe o número 9
 como saída. <
 
 ?php function soma($b==5, $c==4){ return $b+$c;} echo soma(); ? >
 
-Item. 107. (CESPE / ANATEL - 2014) Existem três tipos de operadores em PHP: os unários, que operam
+107. (CESPE / ANATEL - 2014) Existem três tipos de operadores em PHP: os unários, que operam
 em apenas uma sentença; os binários, que retornam o valorde acordo com a operação
 realizada
 em duas sentenças; e os ternários, que entre dois valores selecionam um, a depender
 de um
 terceiro.
 
-Item. 108. (CESPE / ANATEL - 2014) No que se refere à linguagem PHP, julgue os itens subsecutivos.
+108. (CESPE / ANATEL - 2014) No que se refere à linguagem PHP, julgue os itens subsecutivos.
 
 $_4dias, $ãripãev e $margem_são variáveis válidas no PHP.
 
-
-Item. 109. (CESPE / STM - 2018) O comando INCLUDE interromperá a execução do script
+109. (CESPE / STM - 2018) O comando INCLUDE interromperá a execução do script
 assim que
 ocorrer um erro, enquanto o comando REQUIRE continuará a executar o código após o erro.
 
-Item. 110. (CESPE / SEDF - 2017) AngularJS, Ajax, JQuery, Less e PHP são
+110. (CESPE / SEDF - 2017) AngularJS, Ajax, JQuery, Less e PHP são
 tecnologias para
 desenvolvimento web front-end.
 
-Item. 111. (CESPE / TCE-PA - 2016) As instruções echo e print, do PHP 5, são utilizadas
+111. (CESPE / TCE-PA - 2016) As instruções echo e print, do PHP 5, são utilizadas
 para viabilizar
 a saída de dados na tela.
 
-Item. 112. (CESPE / TCE-PA - 2016) Em PHP 5, a função count é utilizada para retornar
+112. (CESPE / TCE-PA - 2016) Em PHP 5, a função count é utilizada para retornar
 o número de
 elementos de um ctrray.
 
-Item. 113. (CESPE / MPU - 2013) O código da linguagem PHP é interpretado em um
+113. (CESPE / MPU - 2013) O código da linguagem PHP é interpretado em um
 servidor web,
 enquanto o código da linguagem Java é interpretado pela própria máquina.
 
-Item. 114. (CESPE / TRT10 - 2013) No código abaixo, o teste da condição retornará verdadeiro.
+114. (CESPE / TRT10 - 2013) No código abaixo, o teste da condição retornará verdadeiro.
 
 <?php
 if (2 === 2.0)
@@ -6818,7 +6654,7 @@ echo "2 é igual a 2.0";
 
 ?>
 
-Item. 115. (CESPE /TRT10 - 2013) Ao ser corretamente executado, o trecho de código
+115. (CESPE /TRT10 - 2013) Ao ser corretamente executado, o trecho de código
 abaixo avalia se
 o conteúdo da variável van é diferente do conteúdo de var2; caso a avaliação seja
 verdadeira,
@@ -6831,7 +6667,7 @@ echo "$van é diferente de $var2";
 
 ?>
 
-Item. 116. (CESPE / TCDF - 2014) Zend Framework é uma biblioteca PHP para
+116. (CESPE / TCDF - 2014) Zend Framework é uma biblioteca PHP para
 desenvolvedores que
 permite utilizar ferramentas controladas de acesso às informações de transação, de modo
 a
@@ -6839,12 +6675,11 @@ padronizar-se o processo de desenvolvimento para que a interface seja estruturad
 tags
 personalizadas.
 
-Item. 117. (CESPE / EBSERH - 2018) Julgue o item que se segue a respeito das
+117. (CESPE / EBSERH - 2018) Julgue o item que se segue a respeito das
 características da
 linguagem PHP e de compiladores.
 
 O código PHP
-
 
 < ?php
 
@@ -6861,23 +6696,23 @@ Viva a vida
 
 $txt a vida
 
-Item. 118. (CESPE / EBSERH - 2018) Na linguagem PHP, o comando explode() permite
+118. (CESPE / EBSERH - 2018) Na linguagem PHP, o comando explode() permite
 descarregar
 os buffers de saída de qualquer backend que o PHP esteja usando, como, por exemplo,
 um CGI
 ou um servidor web.
 
-Item. 119. (CESPE / EBSERH - 2018) PHP consiste de uma linguagem compilada para código
+119. (CESPE / EBSERH - 2018) PHP consiste de uma linguagem compilada para código
 nativo e
 gera um bytecode que é interpretado por uma máquina virtual implantada em cada cliente
 onde
 o código será executado.
 
-Item. 120. (CESPE / EBSERH - 2018) O comando a seguir concatena corretamente caracteres
+120. (CESPE / EBSERH - 2018) O comando a seguir concatena corretamente caracteres
 em PHP.
 ífinal = "abc". "efg";
 
-Item. 121. (QUADRIX/ CRBM 4 - 2021) Considerando o trecho de código acima, julgue o item.
+121. (QUADRIX/ CRBM 4 - 2021) Considerando o trecho de código acima, julgue o item.
 
 <?php
 IncludeCpages/footer.php');
@@ -6892,65 +6727,64 @@ no diretório pages, será apresentado um waming, indicando que o arquivo não f
 encontrado,
 mas permitindo ainda a execução do script.
 
-Item. 122. (QUADRIX / CRBM 4 - 2021) Na linguagem PHP, a função Itrim() é utilizada
+122. (QUADRIX / CRBM 4 - 2021) Na linguagem PHP, a função Itrim() é utilizada
 para retirar os
 espaços em branco no início e no final de uma string.
 
-Item. 123. (QUADRIX / CRQ 4 Região - 2018) Em programas PHP, os comentários podem ser
+123. (QUADRIX / CRQ 4 Região - 2018) Em programas PHP, os comentários podem ser
 usados
 utilizando-se os caracteres "II" ou 7* */", sendo que estes últimos delimitam
 textos que
 podem se estender em mais de uma linha.
 
-Item. 124. (QUADRIX / CRQ 4 Região - 2018) A linguagem PHP é baseada em script de uso
+124. (QUADRIX / CRQ 4 Região - 2018) A linguagem PHP é baseada em script de uso
 livre
 (open source) e adequada para o desenvolvimento web, pois pode ser embutida em códigos
 HTML.
 
-Item. 125. (QUADRIX / CRN 9 - 2018) Uma das utilidades do safe_mode é a proteção dos
+125. (QUADRIX / CRN 9 - 2018) Uma das utilidades do safe_mode é a proteção dos
 scripts PHP
 contra acessos remotos.
 
-
-Item. 126. (QUADRIX / CRN 9 - 2018) A PHP é considerada como uma linguagem de
+126. (QUADRIX / CRN 9 - 2018) A PHP é considerada como uma linguagem de
 programação
 totalmente insegura, visto que ela não pode ser utilizada em
 aplicações que estejam
 relacionadas a informações relevantes, como as confidenciais e as bancárias.
 
-Item. 127. (QUADRIX / CRN 9 - 2018) Ao desabilitar a diretiva register_globals,
+127. (QUADRIX / CRN 9 - 2018) Ao desabilitar a diretiva register_globals,
 a PHP somente
 interpretará variáveis inicializadas.
 
-Item. 128. (QUADRIX / CRN 9 - 2018) O ponto e vírgula, na linguagem de programação
+128. (QUADRIX / CRN 9 - 2018) O ponto e vírgula, na linguagem de programação
 PHP, é usado
 no término de uma declaração.
 
-Item. 129. (QUADRIX / CRO-AC- 2019) No PHP, para cada necessidade, deve ser
+129. (QUADRIX / CRO-AC- 2019) No PHP, para cada necessidade, deve ser
 criado um
 procedimento, já que os procedimentos não podem ser reaproveitados em outras situações.
 
-Item. 130. (QUADRIX / CRESC-SC- 2019) O código $Cad_Especialidade['Pesq Area'] = 'Social',
+130. (QUADRIX / CRESC-SC- 2019) O código $Cad_Especialidade['Pesq Area'] = 'Social',
 em
 PHP, representa o armazenamento do elemento ('Social') em uma variável do tipo array,
 em
 que $Cad_Especialidade é a chave de pesquisa associada ao elemento armazenado.
 
-Item. 131. (QUADRIX / CRESC-SC- 2019) Na declaração de uma função, na linguagem
+131. (QUADRIX / CRESC-SC- 2019) Na declaração de uma função, na linguagem
 PHP, as
 variáveis enviadas por referência devem ser identificadas pelo símbolo &
 
-Item. 132. (QUADRIX / CRO-AC- 2019) Uma função no PHP, mesmo sendo uma função isolada,
+132. (QUADRIX / CRO-AC- 2019) Uma função no PHP, mesmo sendo uma função isolada,
 tem
 como característica principal a retenção de informações, ou seja, a
 função armazena
 informações para serem usadas no futuro.
 
-Item. 133. (QUADRIX / CRO-AC- 2019) No PHP, para cada necessidade, deve ser
+133. (QUADRIX / CRO-AC- 2019) No PHP, para cada necessidade, deve ser
 criado um
 procedimento, já que os procedimentos não podem ser reaproveitados em outras situações.
 
-Item. 134. (QUADRIX / CRM-PR - 2019) Considerando o programa abaixo, julgue o próximo item.
+134. (QUADRIX / CRM-PR - 2019) Considerando o programa abaixo, julgue o próximo item.
 
 <!D0CTYPE html>
 
@@ -6980,11 +6814,9 @@ is: o 12 3 4 5 6 7 8 910.
 OO SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital) x 116
 
-
 Z 121
 
 /
-
 
 <!D0CTYPE html>
 
@@ -7007,7 +6839,7 @@ echo "The number is: $x <br>";
 
 O comando de repetição for incrementa a variável x com valores de o a io.
 
-Item. 136. (QUADRIX / CRM-PR - 2019) Considerando o programa abaixo, julgue o próximo item.
+136. (QUADRIX / CRM-PR - 2019) Considerando o programa abaixo, julgue o próximo item.
 
 <!D0CTYPE html>
 
@@ -7032,7 +6864,7 @@ O programa deve ser executado em um servidor web com PHP instalado e seu resulta
 aparecerá
 no browser do cliente que o acessar.
 
-Item. 137. (QUADRIX/CRM-PR - 2016) Considerando um programa em PHP com os seguintes valores
+137. (QUADRIX/CRM-PR - 2016) Considerando um programa em PHP com os seguintes valores
 nas variáveis: a=6 b=5 0=4. Qual será a saída do trecho de código abaixo:
 
 <?php
@@ -7057,10 +6889,8 @@ echo "Mercúrio";
 
 a) MARTE.
 
-
 00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software -
 2023 (Pós-Edital)
-
 
 b) TERRA.
 
@@ -7070,7 +6900,7 @@ d) VÉNUS.
 
 e) MERCÚRIO.
 
-Item. 138. (QUADRIX / CFP - 2016) Sobre PHP é correto afirmar que:
+138. (QUADRIX / CFP - 2016) Sobre PHP é correto afirmar que:
 
 a) as variáveis começam com um sinal #, seguido do nome da variável.
 
@@ -7084,7 +6914,7 @@ recebido.
 
 e) tem apenas dois diferentes escopos de variáveis: local e global.
 
-Item. 139. (FCC / TRE-BA - 2015) Para conectar uma aplicação PHP5 orientada a objetos
+139. (FCC / TRE-BA - 2015) Para conectar uma aplicação PHP5 orientada a objetos
 aos principais
 servidores de banco de dados, abstraindo o acesso de forma que, para se mudar de
 servidor,
@@ -7097,7 +6927,7 @@ d) PDO
 
 e) ObjectODBC
 
-Item. 140. (FCC / TRE-RR - 2015) Considere o seguinte scrípt encontrado em uma página PHP.
+140. (FCC / TRE-RR - 2015) Considere o seguinte scrípt encontrado em uma página PHP.
 
 <?php
 
@@ -7126,44 +6956,43 @@ d) Pedro = 62 Paulo = 40 Marcos = 18 Ana = 43
 
 e) Pedro = 62 Ana = 43 Paulo = 40 Marcos = 18
 
-
 GABARITo - DIVERSAS BANCAS
 
-Item. 1. LETRA C 41. ERRADO
-Item. 81. LETRA C
+1. LETRA C 41. ERRADO
+81. LETRA C
 
-Item. 2. LETRA D 42. CORRETO
-Item. 82. CORRETO
+2. LETRA D 42. CORRETO
+82. CORRETO
 
 3- LETRA A 43- CORRETO
 83- LETRA D
 
 4- LETRA B 44. CORRETO
-Item. 84. LETRAC
+84. LETRAC
 
 5- LETRA D 45- CORRETO
-Item. 85. LETRA E
+85. LETRA E
 
-Item. 6. LETRA A 46. ERRADO
-Item. 86. ERRADO
+6. LETRA A 46. ERRADO
+86. ERRADO
 
 7- LETRA B 47- LETRA A
-Item. 87. LETRA A
+87. LETRA A
 
-Item. 8. LETRA E 48. CORRETO
-Item. 88. LETRA D
+8. LETRA E 48. CORRETO
+88. LETRA D
 
 9- LETRA B 49- ERRADO
 89- LETRA A
 
-Item. 10. LETRA E 50. CORRETO
-Item. 90. LETRA B
+10. LETRA E 50. CORRETO
+90. LETRA B
 
 íi. LETRA A 51- ERRADO
-Item. 91. LETRA A
+91. LETRA A
 
-Item. 12. LETRA B 52. ERRADO
-Item. 92. LETRA C
+12. LETRA B 52. ERRADO
+92. LETRA C
 
 13- LETRAC 53- ERRADO
 93- CORRETO
@@ -7174,100 +7003,98 @@ Item. 92. LETRA C
 x5- LETRA B 55- ERRADO
 95- ERRADO
 
-Item. 16. LETRA E 56. ERRADO
-Item. 96. CORRETO
+16. LETRA E 56. ERRADO
+96. CORRETO
 
 17- LETRAC 57- CORRETO
 97- ERRADO
 
 i8. LETRA B 58. ERRADO
-Item. 98. LETRA E
+98. LETRA E
 
-Item. 19. LETRA A 59- CORRETO
+19. LETRA A 59- CORRETO
 99- ERRADO
 
-Item. 20. LETRA A 60. LETRA C
-Item. 100. ERRADO
+20. LETRA A 60. LETRA C
+100. ERRADO
 
-Item. 21. LETRA B 61. LETRA A
-Item. 101. LETRA A
+21. LETRA B 61. LETRA A
+101. LETRA A
 
-Item. 22. LETRAC 62. ERRADO
-Item. 102. ERRADO
+22. LETRAC 62. ERRADO
+102. ERRADO
 
 23- LETRA E 63- ERRADO
-Item. 103. CORRETO
+103. CORRETO
 
-Item. 24. LETRA B 64. CORRETO
-Item. 104. ERRADO
+24. LETRA B 64. CORRETO
+104. ERRADO
 
 25- LETRA E 65. LETRA E
-Item. 105. CORRETO
+105. CORRETO
 
-Item. 26. LETRA D 66. ERRADO
-Item. 106. ERRADO
+26. LETRA D 66. ERRADO
+106. ERRADO
 
 27- LETRA B 67. CORRETO
-Item. 107. CORRETO
+107. CORRETO
 
-Item. 28. LETRA E 68. ERRADO
-Item. 108. CORRETO
+28. LETRA E 68. ERRADO
+108. CORRETO
 
-Item. 29. LETRA C 69. ERRADO
-Item. 109. ERRADO
+29. LETRA C 69. ERRADO
+109. ERRADO
 
-Item. 30. LETRA E 70. ERRADO
-Item. 110. ERRADO
+30. LETRA E 70. ERRADO
+110. ERRADO
 
 3i- LETRA D 71- LETRAC
-Item. 111. CORRETO
+111. CORRETO
 
-Item. 32. LETRA E 72. ERRADO
-Item. 112. CORRETO
+32. LETRA E 72. ERRADO
+112. CORRETO
 
 33- LETRAC 73- CORRETO
-Item. 113. ERRADO
+113. ERRADO
 
 34- LETRA A 74- CORRETO
-Item. 114. ERRADO
+114. ERRADO
 
 35- LETRA B 75- CORRETO
-Item. 115. CORRETO
+115. CORRETO
 
-Item. 36. LETRA C 76. LETRA D
-Item. 116. CORRETO
+36. LETRA C 76. LETRA D
+116. CORRETO
 
 37- LETRA D 77- LETRA A
-Item. 117. ERRADO
+117. ERRADO
 
-Item. 38. LETRA E 78. LETRA C
-Item. 118. ERRADO
+38. LETRA E 78. LETRA C
+118. ERRADO
 
 39- CORRETO 79- LETRA C
-Item. 119. CORRETO
+119. CORRETO
 
-Item. 40. CORRETO 80. LETRA B
-Item. 120. ERRADO
+40. CORRETO 80. LETRA B
+120. ERRADO
 
-
-Item. 121. CORRETO 128. CORRETO 135-
+121. CORRETO 128. CORRETO 135-
 CORRETO
 
-Item. 122. ERRADO 129. ERRADO
-Item. 136. CORRETO
+122. ERRADO 129. ERRADO
+136. CORRETO
 
 123- CORRETO 130. ERRADO 137-
 LETRA B
 
-Item. 124. CORRETO 131. CORRETO 138.
+124. CORRETO 131. CORRETO 138.
 LETRA C
 
-Item. 125. CORRETO 132. ERRADO
+125. CORRETO 132. ERRADO
 139- LETRA D
 
-Item. 126. ERRADO 133- ERRADO
-Item. 140. LETRA E
+126. ERRADO 133- ERRADO
+140. LETRA E
 
-Item. 127. CORRETO 134- ERRADO
-
+127. CORRETO 134- ERRADO
 

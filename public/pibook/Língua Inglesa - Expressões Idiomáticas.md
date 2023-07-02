@@ -1,7 +1,6 @@
-Capítulo. Língua Inglesa - Expressões Idiomáticas.
+# Língua Inglesa - Expressões Idiomáticas.
 
 y
-
 
 Índice
 
@@ -31,7 +30,6 @@ y
 12) Resumo A6 CESPE<
 
 13) Lista de Questões A6 e Gabaritos CESPEí
-
 
 EXPRESSõES IDIoMÁTICAS
 
@@ -72,7 +70,6 @@ exemplo com a mesma expressão no artigo abaixo que também é do The Economist:
 Rich women bite the dust
 Mulheres ricas são derrotadas
 
-
 OFF THE HOOK = FORA DO GANCHO - (Literal) Foi originalmente uma referência ao telefone,
 aquele modelo mais antigo, analógico, que você tinha que discar, geralmente quando
 alguém
@@ -109,7 +106,6 @@ FITTO BETIED:
 Origem = vem do século dezenove e refere-se a alguém que está tão furioso ou insano
 que
 precisava ser amarrado ou colocado em uma camisa de força.
-
 
 Uso figurado = estar tão zangado ou agitado ao ponto de ter que ser refreado, consternado;
 
@@ -150,7 +146,6 @@ ATIMCAO
 DECORE!
 
 Observe no quadro abaixo outras expressões idiomáticas muito usadas.
-
 
 A blessing in disguise - uma benção disfarçada = quando uma coisa boa não é logo reconhecida
 no primeiro momento
@@ -243,7 +238,6 @@ para alcançar algo significativo.
 
 Once in a blue moon - uma vez na lua azul = quando algo acontece raramente
 
-
 Perish your thought - Nem pense isso = nem sequer mencionar ou pensar algo que é
 inconcebível
 
@@ -287,7 +281,6 @@ passadas que não são mais importantes ou de preocupação
 Work one's tail off e work like a dog = trabalhar duro, diligentemente
 You hit the nail on the head - você acertou em cheio
 
-
 DISCURSo DIRETo E INDIRETo
 
 Há duas formas de relatar o que alguém disse: pelo discurso direto e pelo indireto. No discurso
@@ -328,7 +321,6 @@ Eles disseram que eles iam vender a casa antiga.
 Discurso Direto:
 
 Laura said:"My cousin has gone to Brazil".
-
 
 Laura disse:"Meu primo foi para o Brasil".
 
@@ -402,7 +394,6 @@ Dl: He said he had finished his homework. - Ele disse que tinha terminado o seu 
 DD: "We had just bought the car, " he explained. -> "Tínhamos acabado de comprar o carro," E
 le explicou. (Past Perfect)
 
-
 Dl: He explained that they had just bought the car. - Ele explicou que eles tinham acabado de
 comprar o carro. (Past Perfect)
 
@@ -433,7 +424,6 @@ Dl: She said she would go to the bank tomorrow. - Ela disse que iria ao banco
 amanhã. -
 (Condicional no Presente com Would)
 
-
 NUMERAIS
 
 Os números (numbers) indicam singular ou plural. As mudanças nos números ocorrem
@@ -459,7 +449,7 @@ All the teachers have good reputations.
 
 Todos os professores têm boas reputações.
 
-Item. 5.1. Os Números Cardinais
+5.1. Os Números Cardinais
 
 Os números cardinais expressam a quantidade de elementos.
 
@@ -475,13 +465,12 @@ Em Inglês os milhares são divididos por vírgula e não por ponto como no Port
 os
 decimais são divididos por ponto.
 
-
 They levied $1 23,000 fines on ten economists for purportedly misleading consumers.
 
 Eles aplicaram multas de 123.000 dólares em dez economistas por supostamente enganarem
 os consumidores.
 
-Item. 5.2. Os Números Ordinais
+5.2. Os Números Ordinais
 
 Os números ordinais indicam a posição de algo em um grupo. Eles são usados para
 indicar: datas, ordem de eventos, posição no espaço ou ordem de qualidade. Geralmente se usa
@@ -514,7 +503,6 @@ Second - 2nd Segundo (a)
 
 Third - 3rd Terceiro (a)
 
-
 Os números abaixo também tem sufixos irregulares:
 
 Eighth - 8th Oitavo (a)
@@ -531,7 +519,6 @@ Twenty > Twentieth - 20th Vinte > Vigésimo (a)
 
 Forty > Fortieth - 40th Quarenta > Quadragésimo (a)
 
-
 Seventy > Seventieth - 70th
 
 Setenta > Septuagésimo (a)
@@ -541,7 +528,6 @@ FUNDO!
 /II
 
 MAPA MENTAL
-
 
 MARCADoRES DE DISCURSo
 
@@ -579,7 +565,6 @@ Na escrita, eles são usados pelo autor para guiar o leitor através do texto de
 mais importante e tornando a leitura mais compreensível, coerente e agradável. Um dos modos
 mais importantes em que o autor usa os marcadores de discurso é para fazer com que a próxima
 oração ou frase retome algo que foi citado anteriormente. Alguns exemplos:
-
 
 MDOMAIS
 FUNDO!
@@ -628,7 +613,6 @@ lado,
 
 algumas mães trabalham, não por necessidade, mas por realização pessoal.
 
-
 Há muitos marcadores de discurso para mostrar atitude como satisfação, arrependimento,
 opinião, etc. Veja alguns exemplos:
 
@@ -670,7 +654,6 @@ Conjunções, Preposições, Discurso Direto e Indireto, etc.
 
 PROVA!
 
-
 ESTA CM NA
 
 PROVA!
@@ -704,7 +687,6 @@ Ela vai viajar conosco, não vai? - Sim, ela irá.
 ATENÇAO
 DECORE!
 
-
 Para as frases afirmativas sem verbos auxiliares e que não tenham o verbo to be
 (ser, estar)
 como verbo principal, usa-se os auxiliares Do ou Does (Presente) e Did (Passado) para
@@ -730,7 +712,6 @@ Ela não sabe tocar piano, ela sabe? - Não, ela não sabe.
 Has Mark come?-Yes, he has. / No, he hasn't.
 
 O Marcos veio? - Sim, ele veio. / Não, ele não veio.
-
 
 WH-QUESTIoNS
 
@@ -774,7 +755,6 @@ emoções.
 Whose house is this? - De quem é essa casa?
 It's Vicent's. - É do Vicente.
 
-
 ATINCAO
 DECORE!
 
@@ -793,7 +773,6 @@ interrogativa + am/is/are + sujeito + verbo terminado em ing.
 What are they doing? - O que eles estão fazendo?
 
 They are studying English. - Eles estão estudando Inglês.
-
 
 PMSTEMNS
 ATENÇAO!
@@ -832,7 +811,6 @@ Nós paramos de correr quando ficamos cansados.
 They enjoy going to the movies.
 Eles gostam de ir ao cinema.
 
-
 Outros exemplos de verbos que são usados apenas com o Gerúndio são: admit
 (admitir),
 advise (advertir), consider (considerar), discuss (discutir), dislike
@@ -860,14 +838,13 @@ Walking in the morning is a nice exercise.
 
 Caminhar de manhã é um bom exercício.
 
-
 ESTRUTURA: PERÍoDo CoMPoSTo
 
 Nesse tópico veremos a estrutura da oração no Período composto. Estudaremos
 as orações
 condicionais, relativas e o apositivas.
 
-Item. 10.1. Orações Condicionais
+10.1. Orações Condicionais
 
 As orações condicionais (conditional sentences) também são conhecidas como
 if
@@ -877,7 +854,7 @@ uma determinada condição (na cláusula com if) for cumprida. Existem cinco
 tipos de frases
 condicionais.
 
-Item. 10.2. Oração Condicional tipo Zero
+10.2. Oração Condicional tipo Zero
 
 O primeiro tipo é conhecido como Zero Conditional. É usado para se referir a
 uma condição
@@ -887,7 +864,7 @@ If + sujeito + verbo / sujeito + verbo
 
 If I go to the movies, I take my glasses. - Se eu for ao cinema, eu levo meus óculos.
 
-Item. 10.3. Oração Condicional tipo 1
+10.3. Oração Condicional tipo 1
 
 O segundo tipo é chamado de First Conditional. Usa-se quando é possível e também é
 muito
@@ -899,7 +876,6 @@ If they find his address, they'll send him an invitation.
 
 Se eles acharem o endereço dele, eles lhe enviarão um convite.
 
-
 Observe que além do auxiliar will outras alternativas são possíveis com o
 uso de auxiliares
 modais. Quando os verbos modais são usados na frase principal no lugar do will, eles
@@ -908,7 +884,7 @@ expressar ideias tais como conselho, possibilidade futura, permissão, etc. A fr
 do lf também
 pode alternar com uma frase que corresponda à ideia do Presente Simples.
 
-Item. 10.4. Oração Condicional tipo 2
+10.4. Oração Condicional tipo 2
 
 O terceiro tipo é chamado Second Conditional. Usa-se quando é
 possível, mas muito
@@ -920,7 +896,7 @@ lf they found his address, they would send him an invitation.
 
 Se eles achassem o endereço dele, eles lhe enviariam um convite.
 
-Item. 10.5. Oração Condicional tipo 3
+10.5. Oração Condicional tipo 3
 
 O quarto tipo é conhecido como Third Conditional. Usa-se quando é impossível
 que a
@@ -931,7 +907,7 @@ condição seja cumprida, porque se refere ao passado.
 lf they had found his address, they would have sent him an invitation.
 Se eles tivessem achado o endereço dele, eles lhe teriam enviado um convite.
 
-Item. 10.6. Oração Condicional Mista
+10.6. Oração Condicional Mista
 
 O quinto tipo de condicional é o misto (mixed conditional) e é usado para se referir
 a um tempo
@@ -939,13 +915,12 @@ que está no passado, e uma situação que está em andamento no presente. Os fa
 que se
 baseiam são o oposto do que é expresso.
 
-
 lf + Past Perfect or Simple Past + Present Conditional or Perfect Conditional
 lf we had looked at the map, we wouldn't be lost.
 
 Se tivéssemos olhado o mapa, não estaríamos perdidos.
 
-Item. 10.7. Orações Relativas
+10.7. Orações Relativas
 
 As orações relativas (relative clauses) em Inglês são divididas em non-defining
 (explicativas)
@@ -978,14 +953,13 @@ His suitcases which he left outside were stolen.
 
 As malas dele que/as quais ele deixou lá fora foram roubadas.
 
-
 He is the man who sold me the book. - Ele é o vendedor que me vendeu o livro.
 
 Nas frases restritivas acima não são usadas vírgulas, as orações relativas
 introduzidas pelos
 pronomes nos indicam exatamente de que pessoa e coisa estamos falando.
 
-Item. 10.8. Oração Apositiva
+10.8. Oração Apositiva
 
 O aposto (appositive) é um substantivo ou um pronome que geralmente
 segue outro
@@ -1024,7 +998,6 @@ essencial. Veja no exemplo abaixo que sem a apositiva não saberíamos quem é a
 
 The first woman to hold national office in the United States was bom in 1880.
 A primeira mulher a ocupar cargo nacional nos Estados Unidos nasceu em 1880.
-
 
 MDOMAIS
 FUNDO!
@@ -1239,7 +1212,6 @@ whichever qualquer
 while
 enquanto, embora (although)
 
-
 whilst embora, apesar
 de, enquanto, ao passo que
 who quem
@@ -1253,7 +1225,6 @@ frases interrogativas)
 
 yet já, ainda
 yet (though, but) mas, contudo, porém
-
 
 ATENÇAO!
 
@@ -1306,7 +1277,6 @@ ocorrer se uma determinada condição (na cláusula com if) for cumprida.
 FUNDO!
 
 /II
-
 
 WOftA OC
 
@@ -1362,7 +1332,6 @@ Com base no texto acima, julgue os itens seguintes:
 01 It can be inferred from the text that a bill, as in "Investigatory Powers Bill"
 (R.24), is a new law
 that was presented to Parliament for discussion, passed and is ready to be enacted.
-
 
 01 Pode-se inferir a partir do texto que um projeto de lei, como em "Projeto de Lei
 de Poderes
@@ -1486,7 +1455,6 @@ lançaram luz sobre uma série de práticas ilegais adotadas por agências de in
 em muitos
 países, em particular nos EUA, Alemanha e Reino Unido.
 
-
 As expressões não são sinônimas. Se substituirmos uma à outra isso vai
 alterar o texto
 comprometendo sua interpretação e coerência.
@@ -1541,7 +1509,6 @@ WikiLeaks, have shed light on a series of illegal practices adopted by
 intelligence agencies in
 many countries, in particular the USA, Germany and the UK.
 
-
 O aumento do escrutínio e a redução de poderes para as agências de segurança foram em
 grande parte desencadeados pelas revelações do denunciante, ex-agente da agência de
 Segurança Nacional, Edward Snowden. Essas divulgações, juntamente com outros vazamentos
@@ -1588,7 +1555,6 @@ data on mobile phone applications like WhatsApp and Snapchat.
 
 Snowden: the legacy of the Leaks. Internet: <www.mintpressnews> (adapted).
 
-
 O governo britânico delineou seu plano altamente controverso de apresentar o Projeto de Lei de
 Poderes Investigatórios, que daria às agências não apenas mais poder, mas também lhes
 permitiria forçar as empresas de Internet a registrar e rastrear o histórico da web dos usuários
@@ -1627,8 +1593,7 @@ Comentários:
 Concerning the text above, judge the following items.
 De acordo com o texto acima, julgue os itens seguintes.
 
-
-Item. 06. The phrase"ln a nutshell", in the beginning of the text, can be appropriately
+06. The phrase"ln a nutshell", in the beginning of the text, can be appropriately
 replaced by
 
 Briefly.
@@ -1645,9 +1610,9 @@ pois são sinônimas.
 
 GABARITO: CERTA
 
-Item. 07. The text affirms that the police career offers a variety of activities.
+07. The text affirms that the police career offers a variety of activities.
 
-Item. 07. O texto afirma que a carreira de policial oferece uma variedade de atividades.
+07. O texto afirma que a carreira de policial oferece uma variedade de atividades.
 
 Policing is such a varied career path that you could find yourself doing all kinds of activities.
 
@@ -1659,10 +1624,10 @@ O segmento do texto acima mostra claramente que a assertiva concorda com o texto
 
 GABARITO: CERTA
 
-Item. 08. In the first sentence of the third paragraph,"heinous crimes" could be appropriately replaced
+08. In the first sentence of the third paragraph,"heinous crimes" could be appropriately replaced
 by petty crimes.
 
-Item. 08. Na primeira frase do terceiro parágrafo, "crimes hediondos" poderiam ser
+08. Na primeira frase do terceiro parágrafo, "crimes hediondos" poderiam ser
 apropriadamente
 substituídos por pequenos delitos.
 
@@ -1672,14 +1637,13 @@ Heinous crime = crime hediondo, abominável
 
 A expressão "petty crimes" não pode ser substituída por "heinous crimes", pois são antónimas.
 
-
 GABARITO: ERRADA
 
-Item. 09. In the last sentence of the text, the phrase "keep up to date with" means to
+09. In the last sentence of the text, the phrase "keep up to date with" means to
 meet the
 deadline.
 
-Item. 09. Na última sentença do texto, a frase "se manter atualizado" significa cumprir o
+09. Na última sentença do texto, a frase "se manter atualizado" significa cumprir o
 prazo de
 entrega.
 
@@ -1690,10 +1654,10 @@ Como você pode observar nas traduções acima, as expressões não têm o mesmo
 
 GABARITO: ERRADA
 
-Item. 10. The adverb "Alternatively" (in the second sentence of the third paragraph) means a different
+10. The adverb "Alternatively" (in the second sentence of the third paragraph) means a different
 option than the one expressed in the previous sentence.
 
-Item. 10. O advérbio "Alternativamente" (na segunda frase do terceiro parágrafo) significa uma opção
+10. O advérbio "Alternativamente" (na segunda frase do terceiro parágrafo) significa uma opção
 diferente da expressa na frase anterior.
 
 You might be responsible for preventing heinous crimes and stopping dangerous criminal
@@ -1711,7 +1675,6 @@ expressar
 uma outra opção do que o policial pode fazer, diferente daquela citada na frase anterior.
 
 GABARITO: CERTA
-
 
 IXXM
 
@@ -1752,7 +1715,6 @@ or maintaining public peace and order at large events, public gatherings and pro
 
 Além disso, você pode ser responsável por investigar crimes contra pessoas e suas propriedades,
 ou manter a paz e a ordem públicas em grandes eventos, reuniões públicas e protestos.
-
 
 At all times, police officers must make sure their actions comply with current
 legislation.
@@ -1799,8 +1761,7 @@ Government auditing standards. 2018 (Revision). Comptroller General of the USA (
 
 Comentários:
 
-Item. 11. In the text above, the passage
-
+11. In the text above, the passage
 
 A "The former comprises acting diligently" (R. 5 and 6) is equivalent to: Professional skepticism
 involves behaving in good faith.
@@ -1819,9 +1780,9 @@ conception.
 E "Auditors may consider documenting procedures" (R. 17 and 18) is the same as: comptrollers
 should employ customary documents.
 
-Item. 11. In the text above, the passage
+11. In the text above, the passage
 
-Item. 11. No texto acima, a passagem
+11. No texto acima, a passagem
 
 A "The former comprises acting diligently" (R. 5 and 6) is equivalent to: Professional skepticism
 involves behaving in good faith. - "O primeiro compreende agir diligentemente" (I. 5 e
@@ -1847,7 +1808,6 @@ uma afirmação distorcida que resulta de um erro ou fraude.
 The latter requires a questioning mind, awareness of conditions that may indicate
 possible
 misstatement owing to error or fraud, and a criticai assessment of evidence.
-
 
 Este último requer uma mente questionadora, consciência das condições que podem indicar
 possível declaração falsa/afirmação distorcida devido a/que resulta de erro ou fraude, e
@@ -1876,7 +1836,7 @@ obrigação ou conselho. Não são sinônimos nesse contexto. Errada.
 
 GABARITO: C
 
-Item. 12. Based on the text above, decide which of the statements below is correct.
+12. Based on the text above, decide which of the statements below is correct.
 
 A The opposite of "former" (R.5) in this particular context is current.
 B In "it includes" (R.14), "it" refers to "evidence" (R.13).
@@ -1888,10 +1848,9 @@ document.
 
 E In "under audit" (R.20), "under" can be correctly replaced with below.
 
-Item. 12. Based on the text above, decide which of the statements below is correct.
+12. Based on the text above, decide which of the statements below is correct.
 
-
-Item. 12. Com base no texto acima, decida quais das declarações abaixo é a correta.
+12. Com base no texto acima, decida quais das declarações abaixo é a correta.
 
 A The opposite of "former" (R.5) in this particular context is current. - O oposto
 de "anterior"
@@ -1933,7 +1892,6 @@ gramaticalmente incorreto. Errada.
 E In "under audit" (R.20), "under" can be correctly replaced with below. - Em "sob
 auditoria"
 (I.20), "sob" pode ser corretamente substituído por abaixo.
-
 
 No contexto, a preposição under significa de acordo com as regras de, sob os cuidados de, sob
 a supervisão de. Portanto, não pode ser substitído pelo below que significa grau inferior, abaixo
@@ -1979,7 +1937,6 @@ evidências obtidas ou informações que questionam a confiabilidade de document
 ou
 respostas a indagações a serem usadas como evidência.
 
-
 Further, it includes a mindset in which auditors assume that management is neither dishonest nor
 of unquestioned honesty. Auditors may accept records and documents as genuine unless
 they
@@ -2021,10 +1978,9 @@ counting houses, roads and water taps, to see if government's promises are being
 
 Roei Janssen. The art of audit. Amsterdam University Press, 2016 (adapted).
 
-
 Comentários:
 
-Item. 13. In terms of comprehension of the text above, decide which of the statements
+13. In terms of comprehension of the text above, decide which of the statements
 below is
 correct.
 
@@ -2041,11 +1997,11 @@ D In "They do so" (R.8), "do" refers to "enhance" (R.7).
 
 E Counting water taps may eventually provide evidence of government unaccountability.
 
-Item. 13. In terms of comprehension of the text above, decide which of the statements
+13. In terms of comprehension of the text above, decide which of the statements
 below is
 correct.
 
-Item. 13. Em termos de compreensão do texto acima, decida quais das declarações abaixo está
+13. Em termos de compreensão do texto acima, decida quais das declarações abaixo está
 correta.
 
 A The expression "all the more" (R.8) means not only but also. - A expressão "ainda
@@ -2067,7 +2023,6 @@ C Politically weak or unstable countries are no places for supreme audit institu
 prosper. - Os países politicamente fracos ou instáveis não são lugares para as
 instituições de
 auditoria suprema existirem e prosperarem.
-
 
 Segundo o texto, as Entidades Fiscalizadoras Superiores visam reforçar a confiabilidade
 das
@@ -2117,7 +2072,6 @@ money properly. They are like 'watchdogs' for citizens and parliaments with the 
 of
 auditing public expenditure and examining the effectiveness of policies.
 
-
 Prestação de contas, bom governo e confiança pública estão inextricavelmente ligados. As
 Entidades Fiscalizadoras Superiores desempenham um papel excepcional no domínio público,
 verificando se os governos gastam seu dinheiro adequadamente. Eles são como "orgãos
@@ -2165,10 +2119,9 @@ improve the effectiveness of its operations.
 
 Comptroller General of Canada. Archived - Budget 2012 (adapted).
 
-
 Comentários:
 
-Item. 14. Based on the text above, judge the following items.
+14. Based on the text above, judge the following items.
 
 I The expression "red tape" (R.2) means politically-motivated and inconsistent
 official
@@ -2190,9 +2143,9 @@ D Only the alternatives II and IV are correct.
 
 E Only the alternatives III and IV are correct.
 
-Item. 14. Based on the text above, judge the following items.
+14. Based on the text above, judge the following items.
 
-Item. 14. Com base no texto acima, julgue os itens seguintes.
+14. Com base no texto acima, julgue os itens seguintes.
 
 I The expression "red tape" (R.2) means politically-motivated and inconsistent
 official
@@ -2208,7 +2161,6 @@ to better. - II O significado básico transmitido por "aumentar" (I.2) e alavanc
 pode ser encontrado em melhorar.
 
 Os três vocábulos são sinônimos. Correta.
-
 
 III To be entitled (R.9) is synonymous with to be eligible for. - Ser intitulado (1.9) é sinônimo
 de ser elegível para.
@@ -2236,7 +2188,7 @@ E Only the alternatives III and IV are correct. - Apenas as alternativas III e I
 
 GABARITO: C
 
-Item. 15. Based on the text above, decide which of the alternatives below is correct.
+15. Based on the text above, decide which of the alternatives below is correct.
 
 A Red tape has been the main obstacle for the Canadian government to provide quality services
 to its people.
@@ -2250,12 +2202,11 @@ D The measures the Agency intends to implement aim at making its services cheape
 more
 accessible and efficient.
 
-
 E The main beneficiaries of the proposed measures are medium-sized businesses.
 
-Item. 15. Based on the text above, decide which of the alternatives below is correct.
+15. Based on the text above, decide which of the alternatives below is correct.
 
-Item. 15. Com base no texto acima, decida qual das alternativas abaixo está correta.
+15. Com base no texto acima, decida qual das alternativas abaixo está correta.
 
 A Red tape has been the main obstacle for the Canadian government to provide quality services
 to its people. - A burocracia tem sido o principal obstáculo para o governo canadense
@@ -2294,7 +2245,6 @@ custos totais. Está aumentando cada vez a mais prestação de serviços por via
 tornar mais fácil para os canadenses e empresas interagir com a Agência com o menor
 custo
 possível.
-
 
 O segmento acima deixa bem claro que essa é a opção correta.
 
@@ -2336,7 +2286,6 @@ alavancar a
 expertise de profissionais de impostos para melhorar a eficácia de suas operações.
 
 Controladoria Geral do Canadá. Arquivado - Orçamento 2012 (adaptado).
-
 
 TEXTO 6
 
@@ -2384,12 +2333,11 @@ Comentários:
 Based on the text previous text, judge the following items.
 Com base no texto prévio, julgue os itens seguintes.
 
-Item. 16. The main goal of the text is to motivate the reader to become a sênior IT
+16. The main goal of the text is to motivate the reader to become a sênior IT
 professional in
 whatever company they choose to work for.
 
-
-Item. 16. O principal objetivo do texto é motivar o leitor a se tornar um profissional
+16. O principal objetivo do texto é motivar o leitor a se tornar um profissional
 sênior de TI em
 qualquer empresa em que escolher trabalhar.
 
@@ -2406,14 +2354,14 @@ GABARITO: ERRADA
 PMSTEMNS
 ATENÇAO!
 
-Item. 17. In the second paragraph, the excerpt "lf you don't have previous experience, good contacts,
+17. In the second paragraph, the excerpt "lf you don't have previous experience, good contacts,
 or a good degree from a well-known university, you may want to apply for a lower-level job first"
 can be correctly rewritten as You may want to apply for a lower-level job first,
 unless
 you have previous experience, good contacts, or a good degree from a well-
 known university, without change in its meaning.
 
-Item. 17. No segundo parágrafo, o trecho "Se você não tem experiência anterior, bons contatos
+17. No segundo parágrafo, o trecho "Se você não tem experiência anterior, bons contatos
 ou
 um bom diploma de uma universidade conhecida, talvez queira se candidatar a um emprego de
 nível inferior primeiro" pode ser reescrito corretamente como Você pode querer
@@ -2430,12 +2378,11 @@ ligação entre as duas frases. Portanto, o segundo trecho reescreve corretament
 
 GABARITO: CERTA
 
-
-Item. 18. It can be concluded from the text that an IT worker should always seek to
+18. It can be concluded from the text that an IT worker should always seek to
 acquire more
 knowledge in their field.
 
-Item. 18. Pode-se concluir do texto que um trabalhador de TI deve sempre buscar adquirir
+18. Pode-se concluir do texto que um trabalhador de TI deve sempre buscar adquirir
 mais
 conhecimento em sua área.
 
@@ -2447,10 +2394,10 @@ GABARITO: CERTA
 
 ACORDE!
 
-Item. 19. According to the fourth paragraph, it is a good thing to depend on other colleagues to be a
+19. According to the fourth paragraph, it is a good thing to depend on other colleagues to be a
 good worker.
 
-Item. 19. De acordo com o quarto parágrafo, é bom depender de outros colegas para ser um
+19. De acordo com o quarto parágrafo, é bom depender de outros colegas para ser um
 bom
 profissional.
 
@@ -2473,7 +2420,6 @@ many jobs
 described in an ad, there are several leveis of positions available. For instance, there are
 "junior",
 "sênior", and "lead" software developer positions available.
-
 
 Há várias coisas a serem lembradas ao determinar em qual campo de TI entrar. Fique de olho em
 sites de empregos para ver quais empregos são mais procurados. Lembre-se de que, para
@@ -2523,7 +2469,6 @@ nas reuniões e sempre faça um pouco mais do que lhe é pedido. Além disso, é
 igualmente
 importante ser apreciado pelos membros de sua equipe.
 
-
 One thing to bear in mind is the importance of learning something new every day. IT is an area
 where people are judged largely by how much they know. There are some things you can do to
 increase your worth to your company, like learning a new programming language or studying to
@@ -2558,20 +2503,19 @@ Internet: <lawsitesblog.com> (adapted).
 
 Comentários:
 
-Item. 20. According to the author of the text, 2018's most impactful legal technology was
+20. According to the author of the text, 2018's most impactful legal technology was
 
 A higher salaries for judges.
 B mal practice for lawyers.
-
 
 C digital calendars.
 
 D artificial intelligence.
 E analytics.
 
-Item. 20. According to the author of the text, 2018's most impactful legal technology was
+20. According to the author of the text, 2018's most impactful legal technology was
 
-Item. 20. Segundo o autor do texto, a tecnologia jurídica mais impactante de 2018 foi
+20. Segundo o autor do texto, a tecnologia jurídica mais impactante de 2018 foi
 
 A higher salaries for judges. - salário mais alto para os juízes.
 
@@ -2600,13 +2544,12 @@ it would have to be analytics.
 Mas se você julgar a tecnologia mais importante por seu impacto direto na prática da lei, então
 teria que ser analítica.
 
-
 Segundo o autor do texto, a tecnologia jurídica mais impactante de 2018 foi analítica/análises,
 ou seja, dados coletados e analisados. Essa é a opção correta.
 
 GABARITO: E
 
-Item. 21. In the first sentence of text, the word "it" refers to
+21. In the first sentence of text, the word "it" refers to
 
 A "judge".
 
@@ -2616,9 +2559,9 @@ C "media coverage".
 D "2018's most important legal technology".
 E "conference agendas".
 
-Item. 21. In the first sentence of text, the word "it" refers to
+21. In the first sentence of text, the word "it" refers to
 
-Item. 21. Na primeira frase do texto, a palavra "it" refere-se a
+21. Na primeira frase do texto, a palavra "it" refere-se a
 
 A "judge". - "julgar".
 
@@ -2634,7 +2577,6 @@ Não faz sentido dizer que a "cobertura da mídia" é o desenvolvimento contínu
 artificial. Errada.
 
 D "2018's most important legal technology". - "a tecnologia jurídica mais importante de 2018".
-
 
 lf you were to judge 201 8's most important legal technology by looking at conference
 agendas and media coverage, you'd probably say it was the continuing development of artificial
@@ -2658,7 +2600,7 @@ inteligência artificial. Errada.
 
 GABARITO: D
 
-Item. 22. In the first sentence of the text, the word "judge" is synonymous with
+22. In the first sentence of the text, the word "judge" is synonymous with
 
 A justice.
 B court.
@@ -2667,15 +2609,14 @@ C consider.
 D examiner.
 E try.
 
-Item. 22. In the first sentence of the text, the word "judge" is synonymous with
+22. In the first sentence of the text, the word "judge" is synonymous with
 
-Item. 22. Na primeira frase do texto, a palavra "julgar" é sinônimo de
+22. Na primeira frase do texto, a palavra "julgar" é sinônimo de
 
 A justice. - justiça.
 B court. - tribunal
 
 C consider. - considerar.
-
 
 lf you were to judge 2018's most important legal technology by looking at conference agendas
 and media coverage, you'd probably say it was the continuing development of
@@ -2700,7 +2641,7 @@ As palavras não são sinônimas. Errada.
 
 GABARITO: C
 
-Item. 23. The author of the text mentions conference agendas and media coverage in order to
+23. The author of the text mentions conference agendas and media coverage in order to
 
 A demonstrate that their focus did not reflect the most impactful trend in the field
 of legal
@@ -2718,10 +2659,9 @@ about analytics.
 
 E advertise future events of interst in the field of legal technology.
 
-Item. 23. The author of the text mentions conference agendas and media coverage in order to
+23. The author of the text mentions conference agendas and media coverage in order to
 
-
-Item. 23. O autor do texto menciona agendas de conferências e cobertura da mídia para
+23. O autor do texto menciona agendas de conferências e cobertura da mídia para
 
 A demonstrate that their focus did not reflect the most impactful trend in the field
 of legal
@@ -2763,7 +2703,6 @@ para discussões sobre análises.
 
 O texto não sugere isso. Errada.
 
-
 E advertise future events of interst in the field of legal technology. - divulgar futuros eventos de
 interesse na área de tecnologia jurídica.
 
@@ -2795,7 +2734,6 @@ Oficial Técnico de Inteligência - ABIN - CESPE
 
 Western intelligence agencies used to inhabit a parallel world where spy battled spy. Their
 trade was stealing or guarding secrets. Their masters were the men and women in
-
 
 4 government. Today the intelligence services are part of everyone's world. Their main task has
 been to protect society from terrorists and criminais. They are increasingly held to
@@ -2848,7 +2786,6 @@ caso se acrescenta ING ao verbo formando o gerúndio e a tradução para o portu
 fica no
 infinitivo. Isso indica uma ação que está ocorrendo.
 
-
 GABARITO: CERTA
 
 29 The author defends the idea that the fight against organized and sexual crimes has diverted
@@ -2893,7 +2830,6 @@ aconteçam, ao invés de apenas tentar colher provas ou evidências dos atos já
 
 GABARITO: CERTA
 
-
 31 GCHQ experts decided to stop producing academic papers about code-breaking techniques
 only in the two last decades of the last century.
 
@@ -2935,7 +2871,6 @@ could send an electronic message.
 33 A frase "Michael Hayden pediu para enviar um e-mail a todos os funcionários" (L. 10 e 11)
 pode ser parafraseada corretamente nos seguintes termos: Michael Hayden perguntou a todos
 os seus funcionários se ele poderia enviar uma mensagem eletrônica.
-
 
 Ele não perguntou aos funcionários se ele poderia enviar um e-mail. Ele pediu a
 alguém para
@@ -2981,7 +2916,6 @@ organização usava computadores para quebrar códigos, em vez de navegar na web
 mundo. As novas instalações da NSA em Utah, a primeira de várias, agora armazenam exabytes
 de dados extraídos das comunicações diárias. No GCHQ da Grã-Bretanha, a maior parte da
 quebra de código foi feita no papel até a década de 1980.
-
 
 The revolution has brought spying closer to ordinary people. After the attacks on
 América on
@@ -3029,7 +2963,6 @@ This text refers to questions 34 and 35.
 Esse texto se refere às questões 34 e 35.
 
 Tequila sunset
-
 
 On September 16th, 2012, at the height of the summer melt, the Arctic Ocean's ice
 sheet had
@@ -3081,7 +3014,6 @@ E there is no need to be alarmed by the effects of global warming in the Arctic 
 
 QUESTÃO 34
 
-
 Based on the article, it can be affirmed that
 Baseado no artigo, pode-se afirmar que
 
@@ -3125,7 +3057,6 @@ derretimento do
 Opção C: the area and the volume of the Arctic Ocean's ice sheet have decreased in the same
 proportion from 1979 to 2012 = a área e o volume de camada de gelo do Oceano Ártico
 diminuíram na mesma proporção de 1979 a 2012.
-
 
 On September 16th, 2012, at the height of the summer melt, the Arctic Ocean's ice
 sheet had
@@ -3173,7 +3104,6 @@ existem motivos para se estar alerta. Errada.
 
 GABARITO: D
 
-
 QUESTÃO 35
 
 The word "for", in "for warmth and light bring ecological renewal to what is now an
@@ -3218,7 +3148,6 @@ rotas marítimas entre o Atlântico e o Pacífico, algumas pessoas esperam por u
 pesca, também, por o calor e a luz trazerem renovação ecológica para o que agora é um deserto
 gelado. Mas elas podem se decepcionar.
 
-
 Por que as pessoas esperam uma bonança de pesca? Por causa do calor e da luz que trazem
 renovação ecológica para o gelo. Este é o motivo, portanto a palavra for neste contexto é usada
 para introduzir uma razão. Esta é a opção correta.
@@ -3257,7 +3186,6 @@ a camada está ficando mais fina, bem como menor.
 One culprit is global warming, which is fiercer at the poles than elsewhere. The world's average
 temperature in 2012 was nearly 0.5 °C above the average for 1951-80. In the Arctic, it was up
 almost 2 °C.
-
 
 Um culpado é o aquecimento global, que é mais intenso nos pólos do que em outros lugares. A
 temperatura média do mundo em 2012 foi de cerca de 0,5 ° C acima da média de 1951-1980.
@@ -3300,7 +3228,6 @@ grandes mudanças ecológicas. A conferência organizada na Universidade de Trom
 focou como o aquecimento irá alterar a ecologia. O consenso era de que não vai - não porque o
 Ártico vai mudar muito pouco, mas porque ele vai mudar muito.
 
-
 ATENTO!
 
 TEXTo 10
@@ -3338,7 +3265,6 @@ entendeu o que
 a filha realmente quis dizer. Ele interpretou o verbo "back up" como "dar a ré"
 quando o que a
 filha quis dizer foi "fazer um back" (cópia) de arquivos.
-
 
 GABARITO: CERTA
 
@@ -3382,7 +3308,6 @@ GABARITO: ERRADA
 Sylvia - Thanks Dad. I'll try to remember that.
 Sylvia - Obrigada pai. Vou tentar me lembrar disso.
 
-
 Na fala acima fica bem claro que Sylvia pretende seguir o conselho de seu pai.
 
 GABARITO: CERTA
@@ -3423,7 +3348,6 @@ frente, não em retroceder.
 
 Sylvia - Thanks Dad. I'll try to remember that.
 Sylvia - Obrigada pai. Vou tentar me lembrar disso.
-
 
 Father- l'm glad I could help.
 
@@ -3475,7 +3399,6 @@ enforcement leaders" in the last sentence of the previous paragraph, a relation
 indicated by the
 use of "their".
 
-
 40 As opções mencionadas na primeira frase do segundo parágrafo
 estão vinculadas a
 "Responsáveis pela aplicação da lei" na última frase do parágrafo anterior, relação
@@ -3525,7 +3448,6 @@ the second
 paragraph) indicates that the number of biometric traits law enforcement and
 the intelligence
 community can use in their investigations never ceases to grow.
-
 
 42 O uso da expressão "uma gama cada vez maior" (na segunda frase do segundo
 parágrafo)
@@ -3583,7 +3505,6 @@ revelar sua identidade em 60 segundos.
 
 Comprehensive = abrangente, amplo, global, geral
 Report = relatório, reportagem
-
 
 Ambas as palavras são falsos cognatos. A palavra "comprehensive" no texto não
 significa
@@ -3645,7 +3566,6 @@ Known) biometrics device to scan a suspects fingerprints and in many cases revea
 their identity
 within 60 seconds.
 
-
 Internet: <onlinedegrees.sandiego.edu> (adapted).
 
 Com bancos de dados eletrônicos abrangentes agora implementados para usar de
@@ -3661,7 +3581,6 @@ muitos casos,
 revelar sua identidade em 60 segundos.
 
 Internet: <onlinedegrees.sandiego.edu> (adaptado).
-
 
 ATENÇÃO!
 
@@ -3711,7 +3630,6 @@ fiscal/financeiro,
 econômico/bancário, área de TI, etc.
 
 * Para mais dicas de Inglês, siga o meu Instagram: profenasmith
-
 
 ATENTO!
 
@@ -3765,7 +3683,6 @@ Based on the text above, judge the following items.
 (R.24), is a new law
 that was presented to Parliament for discussion, passed and is ready to be enacted.
 
-
 02 According to the text, the events that followed the September 11^
 attacks, as well as the
 systematic leaking of government classified material, have helped shape
@@ -3816,23 +3733,22 @@ Internet: <www.allaboutcareers.com> (adapted).
 
 Concerning the text above, judge the following items.
 
-Item. 06. The phrase "In a nutshell", in the beginning of the text, can be
+06. The phrase "In a nutshell", in the beginning of the text, can be
 appropriately replaced by
 
 Briefly.
 
+07. The text affirms that the police career offers a variety of activities.
 
-Item. 07. The text affirms that the police career offers a variety of activities.
-
-Item. 08. In the first sentence of the third paragraph, "heinous crimes"
+08. In the first sentence of the third paragraph, "heinous crimes"
 could be appropriately
 replaced by petty crimes.
 
-Item. 09. In the last sentence of the text, the phrase "keep up to date with"
+09. In the last sentence of the text, the phrase "keep up to date with"
 means to meet the
 deadline.
 
-Item. 10. The adverb "Alternatively" (in the second sentence of the third paragraph) means
+10. The adverb "Alternatively" (in the second sentence of the third paragraph) means
 a different
 option than the one expressed in the previous sentence.
 
@@ -3867,7 +3783,7 @@ skepticism in highly judgmental or subjective areas under audit.
 
 Government auditing standards. 2018 (Revision). Comptroller General of the USA (adapted).
 
-Item. 11. In the text above, the passage
+11. In the text above, the passage
 
 A "The former comprises acting diligently" (R. 5 and 6) is equivalent to: Professional
 skepticism
@@ -3881,7 +3797,6 @@ C "misstatement owing to error or fraud" (R.9) is the same as: a distorted asser
 that results
 from a mistake or deception.
 
-
 D "Further, it includes a mindset" (R.14) can be correctly conveyed as:
 Hence, it adds a
 conception.
@@ -3890,7 +3805,7 @@ E "Auditors may consider documenting procedures" (R. 17 and 18) is the same as:
 comptrollers
 should employ customary documents.
 
-Item. 12. Based on the text above, decide which of the statements below is correct.
+12. Based on the text above, decide which of the statements below is correct.
 
 A The opposite of "former" (R.5) in this particular context is current.
 
@@ -3926,7 +3841,7 @@ counting houses, roads and water taps, to see if government's promises are being
 
 Roei Janssen. The art of audit. Amsterdam University Press, 2016 (adapted).
 
-Item. 13. In terms of comprehension of the text above, decide which of the
+13. In terms of comprehension of the text above, decide which of the
 statements below is
 correct.
 
@@ -3935,7 +3850,6 @@ A The expression "all the more" (R.8) means not only but also.
 B Supreme Audit Institutions focus primarily on the top chains of command
 in the government
 and on common minor cases of extortion.
-
 
 C Politically weak or unstable countries are no places for supreme audit institutions
 to exist and
@@ -3968,7 +3882,7 @@ improve the effectiveness of its operations.
 
 Comptroller General of Canada. Archived - Budget 2012 (adapted).
 
-Item. 14. Based on the text above, judge the following items.
+14. Based on the text above, judge the following items.
 
 I The expression "red tape" (R.2) means politically-motivated and
 inconsistent official
@@ -3988,11 +3902,10 @@ A Only the alternatives I and II are correct.
 B Only the alternatives I and III are correct.
 C Only the alternatives II and III are correct.
 
-
 D Only the alternatives II and IV are correct.
 E Only the alternatives III and IV are correct.
 
-Item. 15. Based on the text above, decide which of the alternatives below is correct.
+15. Based on the text above, decide which of the alternatives below is correct.
 
 A Red tape has been the main obstacle for the Canadian government to provide quality
 services
@@ -4061,11 +3974,11 @@ Internet: <www.english4it.com> (adapted).
 
 Based on the text previous text, judge the following items.
 
-Item. 16. The main goal of the text is to motivate the reader to become a sênior IT
+16. The main goal of the text is to motivate the reader to become a sênior IT
 professional in
 whatever company they choose to work for.
 
-Item. 17. In the second paragraph, the excerpt "lf you don't have previous experience,
+17. In the second paragraph, the excerpt "lf you don't have previous experience,
 good contacts,
 or a good degree from a well-known university, you may want to apply for a
 lower-level job first"
@@ -4075,11 +3988,11 @@ you have previous experience, good contacts, or a good degree from
 a well-
 known university, without change in its meaning.
 
-Item. 18. It can be concluded from the text that an IT worker should always seek to
+18. It can be concluded from the text that an IT worker should always seek to
 acquire more
 knowledge in their field.
 
-Item. 19. According to the fourth paragraph, it is a good thing to depend on other
+19. According to the fourth paragraph, it is a good thing to depend on other
 colleagues to be a
 good worker.
 
@@ -4097,7 +4010,7 @@ nearing the point where it would be malpractice for a lawyer not to use analytic
 
 Internet: <lawsitesblog.com> (adapted).
 
-Item. 20. According to the author of the text, 2018's most impactful legal technology was
+20. According to the author of the text, 2018's most impactful legal technology was
 
 A higher salaries for judges.
 B mal practice for lawyers.
@@ -4105,10 +4018,9 @@ C digital calendars.
 
 D artificial intelligence.
 
-
 E analytics.
 
-Item. 21. In the first sentence of text, the word "it" refers to
+21. In the first sentence of text, the word "it" refers to
 
 A "judge".
 
@@ -4118,7 +4030,7 @@ C "media coverage".
 D "2018's most important legal technology".
 E "conference agendas".
 
-Item. 22. In the first sentence of the text, the word "judge" is synonymous with
+22. In the first sentence of the text, the word "judge" is synonymous with
 
 A justice.
 B court.
@@ -4127,7 +4039,7 @@ C consider.
 D examiner.
 E try.
 
-Item. 23. The author of the text mentions conference agendas and media coverage in order to
+23. The author of the text mentions conference agendas and media coverage in order to
 
 A demonstrate that their focus did not reflect the most impactful trend in
 the field of legal
@@ -4145,7 +4057,6 @@ about analytics.
 E advertise future events of interst in the field of legal technology.
 
 Texto 8: Técnico Oficial de Inteligência - ABIN - CESPE
-
 
 Western intelligence agencies used to inhabit a parallel world where spy battled spy.
 Their
@@ -4195,27 +4106,26 @@ Western intelligence — Shaken and stirred. In: The Economist, 12/11/2016 (adap
 
 Based on the text I above, judge the following items.
 
-Item. 24. In the fragment "on becoming director of the American National Security Agency" (R. 9 and
+24. In the fragment "on becoming director of the American National Security Agency" (R. 9 and
 10), the preposition "on" refers to a period when the action is taking place.
 
-Item. 25. The author defends the idea that the fight against organized and sexual crimes
+25. The author defends the idea that the fight against organized and sexual crimes
 has diverted
 invaluable but scarce resources from what should be America's secret services'
 main goal: the
 combat against terrorism.
 
-Item. 26. The idea expressed in "Counter-terrorism (...) is pre-emptive" (€.31) can be also
+26. The idea expressed in "Counter-terrorism (...) is pre-emptive" (€.31) can be also
 found in the
 following proverb: lt is better to prevent than to cure.
 
-
-Item. 27. GCHQ experts decided to stop producing academic papers about code-breaking
+27. GCHQ experts decided to stop producing academic papers about code-breaking
 techniques
 only in the two last decades of the last century.
 
-Item. 28. In line 31, the connector "Hence" introduces a logical conclusion.
+28. In line 31, the connector "Hence" introduces a logical conclusion.
 
-Item. 29. The sentence "Michael Hayden asked to send an e-mail to all staff" (R. 10 and
+29. The sentence "Michael Hayden asked to send an e-mail to all staff" (R. 10 and
 11) can be
 correctly paraphrased in the following terms: Michael Hayden enquired all his
 employees if he
@@ -4273,7 +4183,6 @@ C the area and the volume of the Arctic Ocean's ice sheet have decreased
 in the same
 proportion from 1979 to 2012.
 
-
 D the findings do not mean people have no reason to be excited about
 the reduction of the
 Arctic ice sheet.
@@ -4312,20 +4221,19 @@ Internet: <thecomicstrips.com> (adapted).
 
 Based on the comic strip above, judge the following items.
 
-Item. 32. It can be inferred that Sylviazs father does not understand what Sylvia means
+32. It can be inferred that Sylviazs father does not understand what Sylvia means
 when she says
 "Tm backing up my files".
 
-
-Item. 33. In 'never back up any more than you absolutely have to', the phrasal verb 'back
+33. In 'never back up any more than you absolutely have to', the phrasal verb 'back
 up' is
 synonymous with back down.
 
-Item. 34. In "Where would young people be without the sage advice of their elders?", the
+34. In "Where would young people be without the sage advice of their elders?", the
 word
 "sage" means meaningful.
 
-Item. 35. It can be inferred from the comic strip that Sylvia intends to take her father's advice.
+35. It can be inferred from the comic strip that Sylvia intends to take her father's advice.
 
 Texto 11: Agente de Polícia - PC-DF - 2021 - CESPE
 
@@ -4355,28 +4263,25 @@ Internet: <onlinedegrees.sandiego.edu> (adapted).
 
 Judge the following items based on the text above.
 
-Item. 36. The options mentioned in the first sentence of the second paragraph are connected to "Law
+36. The options mentioned in the first sentence of the second paragraph are connected to "Law
 enforcement leaders" in the last sentence of the previous paragraph, a relation indicated by the
 use of "their".
 
-Item. 37. Identifying fingerprints, facial features and DNA characteristics has only recently become part
+37. Identifying fingerprints, facial features and DNA characteristics has only recently become part
 of the investigation methods employed by law enforcement.
 
-
-Item. 38. The use of the expression "an ever-expanding array" (in the second sentence of the second
+38. The use of the expression "an ever-expanding array" (in the second sentence of the second
 paragraph) indicates that the number of biometric traits law enforcement and the
 intelligence
 community can use in their investigations never ceases to grow.
 
-Item. 39. In the last paragraph, the words "comprehensive" and "report" can be correctly
+39. In the last paragraph, the words "comprehensive" and "report" can be correctly
 replaced
 with understanding and journalist without this changing the meaning of the text.
-
 
 GABARITO
 
 GABARITo
-
 
 Textos
 
@@ -4431,5 +4336,4 @@ CERTA;
 
 36-CERTA; 37-ERRADA; 38-CERTA; 39-
 ERRADA;
-
 

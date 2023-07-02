@@ -1,32 +1,24 @@
-Capítulo. Língua Inglesa - Verbos Frasais, Auxiliares.
-
+# Língua Inglesa - Verbos Frasais, Auxiliares.
 
 Índice
 
 1) Conjunções.
 
-
 2) Verbos Frasais.
-
 
 3) Verbos Auxiliares.
 
-
 4) Verbos Modais.
 
-
 5) Resumo A3 Teoria
-
 
 6) Questões Comentadas e Textos Traduzidos A3 TI
 
 7) Resumo A3 TI
 
-
 8) Tabelas de Vocabulários e Sinônimos A3 TI
 
 9) Lista de Questões A3 TI
-
 
 CoNJUNçõES
 
@@ -34,7 +26,7 @@ As conjunções (conjunctions) são palavras que precisam juntar-se a outras. A 
 delas é conectar duas partes diferentes de uma frase, de uma lista, dois adjetivos, etc. Existem
 três tipos diferentes de conjunções, vamos começar pelas menores.
 
-Item. 1.1. Conjunções Coordenativas
+1.1. Conjunções Coordenativas
 
 As conjunções coordenativas são conjunções pequenas e simples. Mas que têm um importante
 papel no texto e consequentemente na interpretação. São elas:
@@ -61,14 +53,13 @@ Ela teve uma dor de cabeça ontem. Ela ainda foi para a reunião.
 She had a bad headache yesterday, but she still went to the meeting.
 Ela teve uma dor de cabeça ontem, mas ela ainda foi para a reunião.
 
-
 We can order meat. We can order seafood.
 Podemos pedir carne. Podemos pedir frutos do mar.
 
 We can order meat, or we can order seafood.
 Podemos pedir carne, ou podemos pedir frutos do mar.
 
-Item. 1.2. Conjunções Subordinadas
+1.2. Conjunções Subordinadas
 
 As conjunções subordinadas estabelecem uma relação entre a oração subordinada (dependente)
 e o resto da sentença (oração). As orações dependentes são aquelas que não fazem
@@ -105,7 +96,6 @@ tempo ou contraste
 I can promise that a year from now, when I no longer hold this office, l'll be right there with you
 as a citizen. (Barack Obama)
 
-
 Prometo que daqui a um ano, quando eu não for mais presidente, estarei com vocês como um
 cidadão.
 
@@ -117,7 +107,7 @@ Because/ since / as they enjoy reading, they are always in the library.
 
 Visto que / já que /como eles gostam de ler, eles estão sempre na biblioteca.
 
-Item. 1.3. Conjunções Correlativas
+1.3. Conjunções Correlativas
 
 As conjunções correlativas são a combinação de algumas conjunções com outras palavras, elas
 andam em pares. Observe abaixo algumas das mais comuns:
@@ -145,7 +135,6 @@ Eu lavei não apenas o seu carro, mas também o meu.
 Not only* had I read the newspaper but also a book.
 
 Não apenas eu tinha lido o jornal mas também um livro.
-
 
 * Quando expressões com uma palavra negativa como o Not only...but also e outras similares
 estiverem no início da frase, há inversão da posição do verbo.
@@ -179,7 +168,6 @@ O João canta tão bem quanto a Maria.
 A habilidade de cantar do João é tão boa quanto a habilidade da Maria. Nesse tipo de caso não
 há nenhuma adição, mas sim comparação.
 
-
 VERBoS FRASAIS
 
 Um verbo frasal é um verbo seguido de uma palavra tal como in, on, out, up, away,
@@ -192,7 +180,6 @@ he told her.
 
 João e Maria se separaram. Ele acabou o noivado deles ontem. Ela ficou arrasada quando
 ele terminou o relacionamento com ela.
-
 
 break
 up
@@ -215,7 +202,6 @@ Can you drop me off there at 5 p.m. and pick me up at 7 p.m.?
 Você pode me deixar lá às 5 horas e me buscar/apanhar às 7 horas?
 
 She let the guy down.
-
 
 Ela desiludiu o rapaz.
 
@@ -241,7 +227,6 @@ I'm looking for my glasses. I need them to look after my cat.
 
 Estou procurando por meus óculos. Preciso deles para cuidar do meu gato.
 
-
 Why do we put up with these banks? (The Tribune)
 Por que toleramos esses bancos?
 
@@ -253,7 +238,6 @@ Hegets along with his employees.
 Ele tem um bom relacionamento com os funcionários dele.
 
 MAPA MENTAL
-
 
 Observe no quadro abaixo alguns exemplos de verbos frasais com seus sinônimos formais e
 seus significados:
@@ -293,7 +277,6 @@ Put up with = tolerate = suportar, tolerar
 
 Think over = consider = considerar, pensar a respeito
 
-
 Turn down = decline, refuse = recusar, rejeitar
 
 A seguir observe no quadro abaixo, um dos principais verbos frasais que escolhi em destaque
@@ -328,7 +311,6 @@ Be up - estar levantado da cama, acabar o tempo
 Be up for - estar disponível para venda
 
 Be up to - estar a querer, tramar, decidir
-
 
 We are against smoking.
 
@@ -366,7 +348,6 @@ They are out of food.
 Eles não tem comida.
 
 I must be up before the night is over.
-
 
 Tenho que me acordar antes do amanhecer.
 
@@ -412,7 +393,6 @@ todas as
 perguntas que possam surgir ali mesmo" (linhas 65-66), os verbos frasais "pitching in" e "come
 up" significam, respectivamente
 
-
 (A) contributing to - arise = contribuir - levantar
 
 Make yourself indispensable by pitching in/contributing to on other assignments when possible.
@@ -452,7 +432,6 @@ verbo
 
 GABARITO: A
 
-
 VERBoS AUXILIARES
 
 Os verbos auxiliares (auxiliary verbs), como o nome já diz, são aqueles que ajudam o
@@ -462,7 +441,7 @@ também como verbos comuns. Quando expressam necessidade, obrigação ou possibi
 chamados verbos modais (modal verbs ou helping verbs) e os estudaremos logo em
 seguida. Os auxiliares mais comuns são be (ser, estar), have (ter) e do (fazer).
 
-Item. 3.1. Uso dos Auxiliares DO e DOES
+3.1. Uso dos Auxiliares DO e DOES
 
 Em Português, a interrogativa é feita por apenas se acrescentar o ponto de interrogação
 no final da frase. Em inglês é diferente. Se coloca os auxiliares DO ou DOES no início da frase
@@ -473,7 +452,7 @@ terceira
 pessoa do singular: (he) ele, (she) ela, (it) neutro. O Do é usado para todas as outras pessoas,
 eu (I), você(s) (you), nós (we), eles/elas (they).
 
-Item. 3.1.1. DO / DOES: Uso na Interrogativa
+3.1.1. DO / DOES: Uso na Interrogativa
 
 Na interrogativa os auxiliares Do e Does são posicionados antes da pessoa.
 
@@ -484,12 +463,11 @@ Você gosta de música? - sim, eu gosto.
 What kinds of music does he like? - He quite likes classic, but he doesn't care for popular very
 much.
 
-
 Que tipos de música ele gosta? - Ele gosta muito de música clássica, mas não curte
 muito
 música popular.
 
-Item. 3.1.2. DO / DOES: Uso na Negativa
+3.1.2. DO / DOES: Uso na Negativa
 
 Em Português, a negativa é feita apenas se acrescentando a palavra "não" antes do verbo. Em
 Inglês, é diferente. A negativa é feita por se colocar os auxiliares Do e Does
@@ -504,7 +482,7 @@ Nós não vemos muita paz no mundo hoje.
 She doesn't know that person.
 Ele não conhece aquela pessoa.
 
-Item. 3.1.3. DO/DOES: Uso Enfático
+3.1.3. DO/DOES: Uso Enfático
 
 Os Auxiliares DO ou DOES não são geralmente usados em frases afirmativas. Mas podem ser
 usados para enfatizar emoção ou contraste quando se expressa forte sentimento
@@ -522,8 +500,7 @@ Você está realmente linda nesta roupa nova! Muito deslumbrante!
 Are you all right? You do look a bit pale. Do please sit down.
 Você está bem? Você parece realmente pálido. Sente-se.
 
-
-Item. 3.2. Uso do Auxiliar Did
+3.2. Uso do Auxiliar Did
 
 Não há flexão do auxiliar DID, o qual se refere a um tempo passado. Ele é o
 passado dos
@@ -531,7 +508,7 @@ auxiliares DO e DOES e é usado para todas as pessoas na Interrogativa, Negativa
 uso
 enfático.
 
-Item. 3.2.1. DID: Uso na Interrogativa
+3.2.1. DID: Uso na Interrogativa
 
 Em Português, a interrogativa no tempo verbal do passado simples é feita por apenas se
 acrescentar o ponto de interrogação no final da frase. Em Inglês é diferente. Se coloca o auxiliar
@@ -541,7 +518,7 @@ Did you visit your family last month? - Yes, I did. But she didn't.
 
 Você visitou sua família no mês passado? - sim, visitei. Mas ela não.
 
-Item. 3.2.2. DID: Uso na Negativa
+3.2.2. DID: Uso na Negativa
 
 A negativa é feita por se colocar o auxiliar DID seguido da palavra NOT posicionado antes do
 verbo. Geralmente ele aparece contraído.
@@ -553,12 +530,11 @@ Eles não olharam para trás.
 It didn11 seem real.
 Não parecia real.
 
-Item. 3.2.3. DID: Uso Enfático
+3.2.3. DID: Uso Enfático
 
 I did call you last night.
 
 Eu liguei sim para você ontem a noite. / Eu realmente liguei para você ontem a noite.
-
 
 A frase acima é mais enfática do que dizer I called you last night ( Eu liguei para você ontem
 a noite). Veja que ao usar o auxiliar Dl D para enfatizar o verbo permanece no infinitivo, não vai
@@ -582,7 +558,7 @@ FUNDO!
 
 EXERCÍCIOS
 
-Item. 1. ABAIXO, COMPLETE COM A PARTÍCULA (VERBO AUXILIAR) CORRETA BASEANDO-SE
+1. ABAIXO, COMPLETE COM A PARTÍCULA (VERBO AUXILIAR) CORRETA BASEANDO-SE
 NA PALAVRA GRIFADA EM PARÊNTESES
 
 a) you have friends in Canada? (Você tem amigos no Canadá?)
@@ -602,7 +578,6 @@ g) they plan to buy imported machines last year ?* (*ano passado)
 h) you prefer to use the computer ? (Você prefere usar o computador?)
 
 i) you use the equipment ? (Você usaria o equipamento?)
-
 
 j) they have time to study last week*? (*semana passada)
 
@@ -651,7 +626,7 @@ r) Will
 s) Did
 t) Do
 
-Item. 2.1. Uso do Auxiliar Have
+2.1. Uso do Auxiliar Have
 
 Na ordem da frase, o auxiliar sempre vem antes do principal. O verbo Have é usado
 como
@@ -687,7 +662,6 @@ I don't have a clue.
 
 0 0
 
-
 Eu não tenho ideia.
 
 He has a friend who comes from Taiwan.
@@ -695,7 +669,7 @@ Ele tem uma amiga que é de Taiwan.
 
 EXERCÍCIOS
 
-Item. 3. Traduza as seguintes frases e confira com o gabarito.
+3. Traduza as seguintes frases e confira com o gabarito.
 
 a) France has lost, on average, one millionaire or billionaire tax payer per day
 for tax reasons
@@ -730,7 +704,6 @@ da
 Internet.
 
 f) Reformas constitucionais e legais têm sido impostas pelo FMI.
-
 
 VERBoS MoDAIS
 
@@ -775,7 +748,6 @@ Os Verbos Semi-modais são aqueles que as vezes se comportam como modais e as ve
 como
 verbos comuns.
 
-
 ATÍMÇÀO
 DECORE!
 
@@ -792,7 +764,7 @@ Ought to (deve, deveria) Ought not to or oughtn't to
 Used to (costumava) Did not use to or didn't use
 to
 
-Item. 4.1. Uso do verbo modal Must expressando possibilidade:
+4.1. Uso do verbo modal Must expressando possibilidade:
 
 Suponhamos que você depois de acordar pela manhã, vai lá fora e vê a grama molhada.
 Então
@@ -814,11 +786,10 @@ No exemplo acima, o modal must expressa uma crença de certeza. Mas, embora
 para você
 pareça óbvio que seja seu vizinho, não é um fato que seja ele.
 
-
 ATINCAO
 DECORE!
 
-Item. 4.2. Uso do verbo modal Must expressando obrigação:
+4.2. Uso do verbo modal Must expressando obrigação:
 
 Muitas vezes o verbo modal Must é usado para expressar uma obrigação que
 o falante acha
@@ -853,7 +824,6 @@ que).
 We will have to read that book.
 Nós teremos que ler aquele livro.
 
-
 Em frases negativas o must e o have to não são equivalentes. O must (must + not =
 musn't)
 continua expressando uma obrigação, enquanto que o have to (do + not =
@@ -867,7 +837,7 @@ Não devemos permitir que nosso ânimo deixe de borbulhar.
 You don't have to pay the bill.
 Você não tem que pagar a conta.
 
-Item. 4.3. Uso dos modais May, Might e Could como possibilidade:
+4.3. Uso dos modais May, Might e Could como possibilidade:
 
 Digamos que você está em casa e a campainha toca, você não vê quem está lá fora.
 Então você
@@ -882,14 +852,13 @@ Estes três modais
 chance de
 acontecer, ser verdade.
 
-Item. 4.4. Uso dos modais Can e Could demonstrando possibilidade:
+4.4. Uso dos modais Can e Could demonstrando possibilidade:
 
 O verbo modal Can pode expressar possibilidade de modo geral. O Could é o passado do
 Can
 e mostra que algo poderia ser possível no passado.
 
 Cuidado! Nesses casos o CAN e o COULD NÃO são substituíveis um pelo outro.
-
 
 Atenção! O Can implica possibilidade absoluta, de modo específico. Mas
 o Could
@@ -914,7 +883,7 @@ Deve/pode ser a minha carona.
 He could have given me a ride hours ago. (Passado)
 Ele poderia ter me dado uma carona horas atrás.
 
-Item. 4.5. Uso dos modais Can*t e Couldn't para demonstrar
+4.5. Uso dos modais Can*t e Couldn't para demonstrar
 Impossibilidade
 
 É usado o Can't ou Cannot para mostrar que algo é impossível. Agora digamos que você
@@ -931,7 +900,6 @@ Você está certo(a) que não é sua vizinha. O uso do can't be é quando a dedu
 (deduction)
 expressa 99% de chance de algo ser impossível.
 
-
 É usado o Couldn't ou Could not para mostrar que algo é impossível no passado.
 Digamos que
 você já olhou pela janela e viu que não era sua vizinha, então você diz.
@@ -940,7 +908,7 @@ I knew it couldn't be my neighbor.
 
 Eu sabia que não poderia ser minha vizinha.
 
-Item. 4.6. Uso dos modais Can/Can't e Could demonstrando
+4.6. Uso dos modais Can/Can't e Could demonstrando
 permissão:
 
 Para pedir permissão (interrogativa) se usa o Can na linguagem informal e o Could
@@ -960,7 +928,7 @@ Ao expressar permissão na negativa o Can't indica algo que não é permitido.
 You can't smoke here.
 Você não pode fumar aqui.
 
-Item. 4.7. Uso dos modais Can/Can't e Could demonstrando
+4.7. Uso dos modais Can/Can't e Could demonstrando
 habilidade:
 
 O Can pode ser usado para falar sobre o talento de alguém ou sobre habilidades em
@@ -968,7 +936,6 @@ geral. O
 Could é usado para se falar do tempo passado.
 
 She can run 10 miles.
-
 
 Ela pode correr 10 milhas.
 
@@ -988,7 +955,7 @@ Ela cantou / soube cantar muitas músicas. Mas ela não soube dançar /não dan�
 They can play the guitar, but they can't play the piano.
 Eles tocam violão, mas não tocam piano.
 
-Item. 4.8. Uso dos modais Can e Could para pedidos e convites:
+4.8. Uso dos modais Can e Could para pedidos e convites:
 
 O Could é usado de uma maneira educada para se fazer um pedido, dar uma instrução
 ou para
@@ -1002,8 +969,7 @@ I can/could give you a ride to the mall.
 
 Eu posso/poderia lhe dar uma carona para até o shopping center.
 
-Item. 4.9. Uso dos Modais no Passado:
-
+4.9. Uso dos Modais no Passado:
 
 Bem, agora veja o uso dos modais quando eles se referem a acontecimentos passados.
 Quando
@@ -1045,8 +1011,7 @@ Bizu: Lembre-se que, com uma referência no futuro ou no presente,
 o modal é
 seguido por um verbo base (a forma infinitiva do verbo principal sem o 'to').
 
-
-Item. 4.10. O Uso estranho do "Need" como auxiliar:
+4.10. O Uso estranho do "Need" como auxiliar:
 
 O verbo to need (precisar, necessitar) é um verbo comum. Mas quando é
 usado como semi-
@@ -1070,7 +1035,7 @@ cheguei a preparar a comida. Veja agora o seu uso na interrogativa:
 Need we study every day?
 Precisamos estudar todos os dias?
 
-Item. 4.11. Os importantíssimos Should e Ought to
+4.11. Os importantíssimos Should e Ought to
 
 O verbo modal should tem significado semelhante ao semi-modal ought to.
 Nenhum outro
@@ -1084,26 +1049,24 @@ Should = Ought to = deve, deveria
 
 O verbo modal should tem vários modos de utilização:
 
-
-Item. 4.11.1. Conselho ou sugestão:
+4.11.1. Conselho ou sugestão:
 
 You should study every day.
 
 Você deveria estudar todos os dias.
 
-Item. 4.11.2. Forte probabilidade:
+4.11.2. Forte probabilidade:
 
 That should be my neighbor.
 Deve ser meu vizinho.
 
-Item. 4.11.3. Necessidade lógica:
+4.11.3. Necessidade lógica:
 
 The exam is very soon. I should be studying hardly.
 
 O teste é muito em breve. Eu deveria estar estudando seriamente.
 
-Item. 4.11.4. Sugestões ou Explicações:
-
+4.11.4. Sugestões ou Explicações:
 
 Às vezes o should é usado com as pessoas / (eu) e We (nós) para pedir sugestões ou explicações:
 
@@ -1111,7 +1074,7 @@ Why should I pay for it?
 
 Por que eu deveria pagar por isso?
 
-Item. 4.11.4. Eventos Passados:
+4.11.4. Eventos Passados:
 
 Para referir-se a eventos passados que não ocorreram ou podem não ocorrer. Usa-se o
 should
@@ -1121,8 +1084,7 @@ I should have slept last night. Now l'm tired and sleepy.
 
 Eu deveria ter dormido na noite passada. Agora estou cansada e sonolenta.
 
-
-Item. 4.12. O Uso do Would:
+4.12. O Uso do Would:
 
 Para pedidos formais:
 
@@ -1151,8 +1113,7 @@ Para expressar hábitos passados, nesse caso é sinônimo do Used to:
 When we were at school, we would study harder for the exams.
 Quando estávamos na escola, estudávamos com afinco para os testes.
 
-Item. 4.13. O Uso do Used to:
-
+4.13. O Uso do Used to:
 
 Como verbo semi modal, o Used to emprega-se somente na forma do passado. Não possui a
 forma do presente nem do infinitivo. Emprega-se used to para exprimir hábitos
@@ -1163,7 +1124,7 @@ When we were at school, we used to study harder for the exams.
 
 Quando estávamos na escola, costumávamos estudar com afinco para os testes.
 
-Item. 4.14. O Uso do Will e Shall:
+4.14. O Uso do Will e Shall:
 
 Quanto ao uso dos modais will e shall nós os estudamos também quando vemos o tempo
 verbal
@@ -1194,12 +1155,11 @@ Em ambos os casos a forma contraída é 'II.
 Tomorrow it will be cold and foggy with light showers in the east.
 "Amanhã vai ser frio e nebuloso com chuvas leves no leste."
 
-
 Will you walk the dog tonight?
 
 Você vai caminhar com o cachorro hoje à noite?
 
-Item. 4.15. O Uso do Dare:
+4.15. O Uso do Dare:
 
 O Dare como um verbo normal significa ousar, atrever-se, desafiar, ter
 coragem para fazer
@@ -1236,7 +1196,6 @@ Comentário:
 In "You have to climb out the same way you climbed in: with new rituais" (lines
 58-59) the modal
 that substitutes 'have to' without a change in meaning is
-
 
 Em "Você tem que sair da mesma forma que entrou: com novos rituais" (linhas 58-59) o
 modal
@@ -1281,7 +1240,6 @@ have, o texto sofreria severa alteração na sua compreensão. Errada.
 
 GABARITO: C
 
-
 EXERCÍCIOS
 
 Escolha "certo" ou "errado". Verifique se a ideia que está entre parênteses corresponde
@@ -1324,7 +1282,6 @@ Certo ( ) Errado ( )
 Gabarito:
 
 a) certo.
-
 
 b) errado (expressa "capacidade").
 
@@ -1378,7 +1335,6 @@ l) She must be in trouble in the traffic because she never comes to
 work late.
 ()
 
-
 MESTI MAIS
 ATENÇÀO!
 
@@ -1422,7 +1378,6 @@ k) O que homens de negócios devem fazer para combater os concorrentes? (necessi
 l) Ela deve estar com problemas no trânsito porque ela nunca chega atrasada no
 trabalho,
 (dedução forte)
-
 
 RESUMo
 
@@ -1477,7 +1432,6 @@ também
 
 Not...but Não...mas
 
-
 * Um verbo frasal é um verbo seguido de uma palavra tal como in, on, out, up,
 away, off,
 down e outras.
@@ -1523,7 +1477,6 @@ to = contribuir para, participar em
 
 * Come up = surgir, aparecer = arise = surgir, levantar, aumentar
 
-
 Verbos Modais
 
 Afirmativo Neqativo
@@ -1545,7 +1498,6 @@ Should (deve, deveria) Should not or shouldn't
 Will (Futuro) Will not or won't
 
 Would (terminação ia ) Would not or wouldn't
-
 
 HO** OC
 
@@ -1618,7 +1570,7 @@ already have it.
 
 Comentários:
 
-Item. 01. No texto, o verbo que preenche corretamente a lacuna é
+01. No texto, o verbo que preenche corretamente a lacuna é
 
 (A) don't.
 
@@ -1630,7 +1582,7 @@ Item. 01. No texto, o verbo que preenche corretamente a lacuna é
 
 (E) doesn't.
 
-Item. 01. No texto, o verbo que preenche corretamente a lacuna é
+01. No texto, o verbo que preenche corretamente a lacuna é
 
 Opções A: don't e E: doesn't.
 
@@ -1640,7 +1592,6 @@ ones that don't. (51)
 
 Mas, em um mundo imperfeito, soluções unilaterais que funcionam de forma eficiente podem
 ser melhor do que as multilaterais que não o fazem.
-
 
 Separando só a frase do espaço 01 ficaria assim: ...than multilateral ones that don't
 run
@@ -1686,8 +1637,7 @@ positiva nem negativa. Opções erradas.
 
 GABARITO: A
 
-Item. 02. No texto, a palavra que preenche corretamente a lacuna é
-
+02. No texto, a palavra que preenche corretamente a lacuna é
 
 (A) Whatever.
 
@@ -1699,7 +1649,7 @@ Item. 02. No texto, a palavra que preenche corretamente a lacuna é
 
 (E) ) Whoever.
 
-Item. 02. No texto, a palavra que preenche corretamente a lacuna é
+02. No texto, a palavra que preenche corretamente a lacuna é
 
 Opção A: Whatever = seja o que for
 
@@ -1732,7 +1682,6 @@ Whenever = quando quer que, a qualquer tempo
 
 "WHENEVER I would fly home, especially if it was at night, there was the city of New York laid
 out before me and I thought to myself, 'This belongs to me. It's extraordinary. Thank you God',"
-
 
 said Ed Koch, the former mayor of New York, at the start of Neil Barsky's
 documentary about
@@ -1782,7 +1731,6 @@ Where = onde
 
 Wherever = onde quer que
 
-
 O vocábulo deixa o texto equivocado na sua compreensão e sem coerência, não tem nada a ver
 se referir a lugar nesta frase. Errada.
 
@@ -1828,8 +1776,7 @@ compreensível e coerente. Esta é a opção correta.
 
 GABARITO: E
 
-
-Item. 03. No primeiro parágrafo, reflects no more than the historical accident of the
+03. No primeiro parágrafo, reflects no more than the historical accident of the
 lnternet's origins
 significa
 
@@ -1843,7 +1790,7 @@ significa
 
 (E) não reflete muito da criação acidental da Internet.
 
-Item. 03. No primeiro parágrafo, reflects no more than the historical accident of the
+03. No primeiro parágrafo, reflects no more than the historical accident of the
 lnternet's origins
 significa
 
@@ -1871,7 +1818,6 @@ No more than = não mais do que = only = apenas, somente
 Observe atentamente que tanto faz a expressão do texto, como o advérbio only (apenas),
 a
 compreensão é a mesma. Portanto esta alternativa é a que traz a tradução correta para a frase.
-
 
 Opção C: reflete muito mais do que a história do acidente da origem da Internet.
 
@@ -1907,14 +1853,13 @@ está na afirmativa, não na negativa. Errada.
 
 GABARITO: B
 
-Item. 04. Ainda no primeiro parágrafo, os dois períodos Why should the United States
+04. Ainda no primeiro parágrafo, os dois períodos Why should the United States
 continue to
 control the registration of French and Chinese Internet addresses? e lt doesn't control
 the
 registration of French and Chinese cars, whatever Henry Ford's historie role in
 democratizing
 travei was. podem ser ligadas, sem alteração de sentido, pela conjunção
-
 
 (A) because.
 
@@ -1926,7 +1871,7 @@ travei was. podem ser ligadas, sem alteração de sentido, pela conjunção
 
 (E) unless.
 
-Item. 04. Ainda no primeiro parágrafo, os dois períodos Why should the United States
+04. Ainda no primeiro parágrafo, os dois períodos Why should the United States
 continue to
 control the registration of French and Chinese Internet addresses? e lt doesn't control
 the
@@ -1962,7 +1907,6 @@ de carros não é o motivo pelo qual eles deveriam continuar a controlar o regis
 Nada a ver! Portanto, opção errada.
 
 Opção B: however = entretanto
-
 
 Why should the United States continue to control the registration of French and Chinese Internet
 addresses however it doesn't control the registration of French and Chinese cars,
@@ -2008,7 +1952,6 @@ sentença algo surpreendente. Opção errada.
 
 Opção D : if = se
 
-
 Why should the United States continue to control the registration of French and Chinese Internet
 addresses? It doesn't control the registration of French and Chinese cars, whatever Henry Ford's
 historie role in democratizing travei was.
@@ -2049,10 +1992,9 @@ Unless = a menos que, a não ser que
 Que confuso, não? O vocábulo não é adequado para conectar as duas frases. Afeta severamente
 a sua compreensão. Opção errada.
 
-
 GABARITO: D
 
-Item. 05. Segundo o texto, Henry Ford
+05. Segundo o texto, Henry Ford
 
 (A) fez história viajando para muitos países, inclusive a França e a China.
 
@@ -2064,7 +2006,7 @@ Item. 05. Segundo o texto, Henry Ford
 
 (E)teve um papel influente na democratização dos carros franceses.
 
-Item. 05. Segundo o texto, Henry Ford
+05. Segundo o texto, Henry Ford
 
 Opção A: fez história viajando para muitos países, inclusive a França e a China.
 
@@ -2110,7 +2052,7 @@ automóvel, revolucionando assim o meio de transporte.Errada.
 
 GABARITO: B
 
-Item. 06. No segundo parágrafo, should indica
+06. No segundo parágrafo, should indica
 
 (A) permissão.
 
@@ -2122,8 +2064,7 @@ Item. 06. No segundo parágrafo, should indica
 
 (E) probabilidade.
 
-Item. 06. No segundo parágrafo, should indica
-
+06. No segundo parágrafo, should indica
 
 Di ca da Ena: Para resolver rapidinho esta questão, memorize o seguinte: o should é um modal
 usado em dois momentos: para dar conselho, recomendação e para mostrar arrependimento de
@@ -2159,8 +2100,7 @@ O modal que se usa para indicar obrigação é o must.
 
 GABARITO: C
 
-Item. 07. In the third paragraph, such abuses have not occurred means that
-
+07. In the third paragraph, such abuses have not occurred means that
 
 (A) ) any organization that wants to register a domain name can do so.
 
@@ -2172,9 +2112,9 @@ Item. 07. In the third paragraph, such abuses have not occurred means that
 
 (E) government opposition parties are refused domain names.
 
-Item. 07. In the third paragraph, such abuses have not occurred means that
+07. In the third paragraph, such abuses have not occurred means that
 
-Item. 07. No terceiro parágrafo, tais abusos não ocorreram significa que
+07. No terceiro parágrafo, tais abusos não ocorreram significa que
 
 Opção A: any organization that wants to register a domain name can do so = qualquer
 organização que queira registrar um nome de domínio pode fazê-lo.
@@ -2205,7 +2145,6 @@ opção correta.
 
 Opção B: the cost of registering a web address has increased dramatically = o custo de registro
 de um endereço da web aumentou dramaticamente.
-
 
 O parágrafo não menciona aumento de custo. Além disso, quando se refere ao valor exagerado
 de taxas que são cobradas, refere-se aqueles que praticam abusos, não inclui os Estados Unidos,
@@ -2241,9 +2180,8 @@ tais abusos não ocorreram. Opção errada.
 
 GABARITO: A
 
-Item. 08. Segundo o texto, a escolha de um órgão supervisor multilateral da Internet poderia tornar o
+08. Segundo o texto, a escolha de um órgão supervisor multilateral da Internet poderia tornar o
 registro de domínio
-
 
 (A) mais democrático.
 
@@ -2255,7 +2193,7 @@ registro de domínio
 
 (E) um instrumento de discriminação racial.
 
-Item. 08. Segundo o texto, a escolha de um órgão supervisor multilateral da Internet poderia tornar o
+08. Segundo o texto, a escolha de um órgão supervisor multilateral da Internet poderia tornar o
 registro de domínio
 
 Opção A: mais democrático.
@@ -2287,7 +2225,6 @@ Observe claramente que a escolha de um órgão supervisor multilateral da Intern
 com que os regimes autocráticos e as sociedades abertas batessem de frente (conflitos de visão,
 opinião), tornando assim o registro de domínio uma questão política. Esta é a opção correta.
 
-
 Opção D: tão precário a ponto do colocar em risco a própria existência da Internet.
 
 A escolha de um órgão supervisor não tem nada a ver com colocar em risco a própria existência
@@ -2300,7 +2237,7 @@ Errada.
 
 GABARITO: C
 
-Item. 09. O pronome it, no final do texto, refere-se a
+09. O pronome it, no final do texto, refere-se a
 
 (A) prohibition of offensive material.
 
@@ -2312,7 +2249,7 @@ Item. 09. O pronome it, no final do texto, refere-se a
 
 (E) an effective banking system for payment.
 
-Item. 09. O pronome it, no final do texto, refere-se a
+09. O pronome it, no final do texto, refere-se a
 
 Opção A: prohibition of offensive material = Proibição de material ofensivo
 
@@ -2323,7 +2260,6 @@ Opção B: control of domain names = controle dos nomes domínios e Opção C: a
 of
 unsavory Web sites = um número de sites moralmente ofensivos e Opção E: an effective
 banking system for payment = um sistema bancário eficiente para pagamento.
-
 
 A frase do texto em que se encontra o pronome it mencionado, refere-se à internet de
 modo
@@ -2356,7 +2292,7 @@ correta.
 
 GABARITO: D
 
-Item. 10. No geral, o texto
+10. No geral, o texto
 
 (A) defende a ideia de um supervisor multilateral para a Internet, como por exemplo,
 a
@@ -2372,12 +2308,11 @@ na Internet.
 (D) argumenta contra a proibição de bancos processarem pagamentos para Web sites com
 conteúdo pernicioso.
 
-
 (E)) argumenta a favor de os Estados Unidos continuarem a controlar a atribuição de
 nomes de
 domínio na Internet.
 
-Item. 10. No geral, o texto
+10. No geral, o texto
 
 Opção A: defende a ideia de um supervisor multilateral para a Internet,
 como por exemplo, a
@@ -2425,7 +2360,6 @@ isto poderia tornar o registro de domínio uma questão política. O argumento
 não é contra
 qualquer controle.
 
-
 Opção D: argumenta contra a proibição de bancos processarem pagamentos para
 Web sites
 com conteúdo pernicioso.
@@ -2471,7 +2405,6 @@ domínios na
 internet. Esta é a opção correta.
 
 GABARITO: E
-
 
 PMSTEMNS
 ATENÇAO!
@@ -2522,7 +2455,6 @@ In an ideal world,
 unilateralism should be avoided. But in an imperfect world, unilateral solutions that
 run efficiently
 can be better than multilateral ones that don't.
-
 
 O argumento dos reformistas é atraente na teoria e na prática perigoso. Num
 mundo ideal,
@@ -2582,7 +2514,6 @@ barreiras à entrada. Estes confrontos de visão, provavelmente, fariam regulaç
 multilateral de
 forma ineficientemente política.
 
-
 You may say that this is a fair price to pay to uphold the principie of
 sovereignty. If a country
 wants to keep certain users from registering domain names (Nazi groups, child
@@ -2633,7 +2564,6 @@ Leia o texto a seguir para responder às questões de números 14 a 16.
 
 Fundamental Competencies for Special Collections Professionals
 
-
 Today's special collections environments are increasingly diverse. They vary
 significantly
 with regard to institutional setting, nature of collections, of functions and services,
@@ -2654,7 +2584,7 @@ full mastery in all areas, however, is by no means expected.
 
 (http://www.ala.org/acrl/standards/comp4specollect. Adaptado)
 
-Item. 14. De acordo com o trecho, as chamadas Coleções Especiais em bibliotecas
+14. De acordo com o trecho, as chamadas Coleções Especiais em bibliotecas
 
 (A) destinam-se a um público muito específico e especializado.
 
@@ -2668,7 +2598,7 @@ Item. 14. De acordo com o trecho, as chamadas Coleções Especiais em biblioteca
 
 Comentários:
 
-Item. 14. De acordo com o trecho, as chamadas Coleções Especiais em bibliotecas:
+14. De acordo com o trecho, as chamadas Coleções Especiais em bibliotecas:
 
 (A) destinam-se a um público muito específico e especializado.
 
@@ -2683,7 +2613,6 @@ das coleções,
 escopo de funções e serviços e o público. Errada.
 
 (C) contribuem muito para o sucesso e a vitalidade da instituição a que pertencem.
-
 
 O profissional de coleção especial é que contribui para a vitalidade e sucesso da
 instituição a
@@ -2725,7 +2654,7 @@ Errada.
 
 GABARITO: D
 
-Item. 15. A quarta frase do texto - Even those who remain focused on a single functional
+15. A quarta frase do texto - Even those who remain focused on a single functional
 specialty
 within one institution... - aponta para um profissional cujo perfil
 
@@ -2737,10 +2666,9 @@ within one institution... - aponta para um profissional cujo perfil
 
 (D) adapta-se melhor a funções de gestão.
 
-
 (E) não está descrito no texto
 
-Item. 15. A quarta frase do texto - Even those who remain focused on a single functional
+15. A quarta frase do texto - Even those who remain focused on a single functional
 specialty
 within one institution (Até mesmo aqueles que permanecem focados
 em uma única
@@ -2784,7 +2712,6 @@ profissional cujo perfil contrasta com o descrito na frase anterior. Essa é a o
 
 (C) adequa-se a várias instituições.
 
-
 Pelo contrário, a própria frase já diz que ele permanece focados em uma
 única especialidade
 funcional dentro de uma instituição. Errada.
@@ -2800,7 +2727,7 @@ Errada.
 
 GABARITO: B
 
-Item. 16. No fragmento - ...developing broad awareness of the full array of
+16. No fragmento - ...developing broad awareness of the full array of
 responsibilities that
 define the field as a whole. - a expressão em destaque, no contexto em que aparece,
 associa-se,
@@ -2816,7 +2743,7 @@ em português, à ideia de desenvolver
 
 (E) visão geral.
 
-Item. 16. No fragmento - ...developing broad awareness of the full array of
+16. No fragmento - ...developing broad awareness of the full array of
 responsibilities that
 define the field as a whole (desenvolvendo uma ampla consciência da gama
 completa de
@@ -2827,7 +2754,6 @@ contexto em que aparece, associa-se, em português, à ideia de desenvolver
 (A) proficiência técnica.
 
 (B) abordagem técnica.
-
 
 Tanto a abordagem como a proficiência técnica o profissional já deve
 ter, não precisa
@@ -2873,7 +2799,6 @@ geral da
 gama completa de responsabilidades que definem o campo como um todo (as a whole).
 Essa é a
 opção correta.
-
 
 GABARITO: E
 
@@ -2923,7 +2848,6 @@ todo. Esperamos que um profissional gradualmente atinja tal proficiência geral
 ao longo do
 curso de sua carreira; mas não exigimos o pleno domínio em todas as áreas.
 
-
 HoatM
 
 TEXTo 3
@@ -2960,7 +2884,7 @@ for guides to explain the rules in what may be perceived as more "practical" ter
 
 Comentários:
 
-Item. 17. De acordo com o trecho,
+17. De acordo com o trecho,
 
 (A) os conteúdos em formato eletrônico disponíveis em bibliotecas ganham mais
 importância a
@@ -2969,7 +2893,6 @@ cada dia.
 (B) os periódicos em formato eletrônico acabaram, no uso diário, tomando o
 lugar de seus
 similares impressos.
-
 
 (C) as pesquisas realizadas em bancos de dados e índices eletrônicos substituem
 gradualmente a
@@ -2981,7 +2904,7 @@ completo de certas publicações.
 
 (E) as obras monográficas continuam, em sua maioria, a ser consultadas em sua versão impressa.
 
-Item. 17. De acordo com o trecho,
+17. De acordo com o trecho,
 
 (A) os conteúdos em formato eletrônico disponíveis em bibliotecas ganham mais
 importância a
@@ -3021,7 +2944,6 @@ bancos de dados e índices que levam os usuários diretamente ao conteúdo
 integral do texto,
 tanto serial quanto monográfico. Errada.
 
-
 (D) com os bancos de dados e índices eletrônicos, torna-se desnecessária a consulta
 ao texto
 completo de certas publicações.
@@ -3042,7 +2964,7 @@ impressa. Errada.
 
 GABARITO: A
 
-Item. 18. A frase do texto - Electronic resources have challenged the principies
+18. A frase do texto - Electronic resources have challenged the principies
 and practices of
 cataloging over the last several years. - indica que
 
@@ -3068,12 +2990,11 @@ materiais impressos já há muitos anos.
 
 Comentários:
 
-Item. 18. A frase do texto - Electronic resources have challenged the principies
+18. A frase do texto - Electronic resources have challenged the principies
 and practices of
 cataloging over the last several years. (Os recursos eletrônicos desafiaram os
 princípios e práticas
 de catalogação nos últimos anos) - indica que
-
 
 (A) os princípios da catalogação se tornaram mais simples com o
 uso de recursos
@@ -3125,7 +3046,6 @@ recursos eletrônicos. Essa é a opção correta.
 impressos,
 quer estejam em formato eletrônico.
 
-
 Pelo contrário, de acordo com o texto, esses princípios e práticas têm
 sidos desafiados pelos
 recursos eletrônicos. Portanto, eles são inconstantes. Errada.
@@ -3175,7 +3095,6 @@ also become prevalent in the literature as libraries adjust to the realities
 of acquiring and
 processing these nonprint materiais.
 
-
 A variedade de recursos eletrônicos e meios de acesso a eles levou a
 discussões sobre
 catalogação e gerenciamento de recursos on-line. O fluxo de trabalho
@@ -3212,7 +3131,7 @@ TEXTo 4
 
 ANALISTA DE SISTEMAS - DESENVOLVE/SP - VUNESP
 
-Item. 24. Leia o texto a seguir.
+24. Leia o texto a seguir.
 
 The Object-Relational (OR) model is very similar to the relational model; however, it
 treats
@@ -3227,7 +3146,6 @@ and benefits of an Object-Relational model are:
 * Extensible objects
 
 (Database Fundamentais. Sharma, N. et al. DB2university.com, 1a. edição, 2010)
-
 
 Comentários:
 
@@ -3280,7 +3198,6 @@ herança. Algumas características e benefícios de um modelo de Objeto-Relacion
 A herança de um objeto está incluída na lista de características e benefícios de um
 modelo de
 OR que é citada no texto. Esta é a opção correta.
-
 
 (B) herança e relacionamento são sinônimos.
 
@@ -3335,7 +3252,6 @@ Cuidado ! O pronome pessoal it (neutro) na frase não está se referindo ao mode
 relacional.
 Ele se refere ao modelo Objeto-Relacional (OR), é este que trata cada entidade como um objeto.
 
-
 O modelo relacional é citado no texto apenas para ser comparado com o OR. O sujeito
 da frase
 é o OR. Opção errada.
@@ -3384,10 +3300,9 @@ herança. Algumas características e benefícios de um modelo de Objeto-Relacion
 
 * Herança de objeto
 
-
 * Objetos extensíveis
 
-Item. 25. Leia o texto a seguir.
+25. Leia o texto a seguir.
 
 A domain constraint implies that a particular attribute of a relation is defined on a
 particular domain. A domain constraint simply states that values of the attribute in question are
@@ -3424,7 +3339,6 @@ palavra domínio (domain) na mesma posição. Então, você já a elimina. Opç�
 Em nenhuma dessas traduções aparece a palavra domínio que é a tradução de domain. Então,
 nem perca seu tempo analisando-as. Elimene-as. Opções erradas.
 
-
 (C) reserva de domínio.
 
 Nessa tradução vemos a palavra domínio. Mas a tradução da outra palavra está incorreta.
@@ -3455,7 +3369,7 @@ atributo
 em questão são obrigados a pertencer ao conjunto de valores que constituem o domínio
 subjacente.
 
-Item. 26. Leia o texto a seguir.
+26. Leia o texto a seguir.
 
 Software components are built using a programming language that has a limited
 vocabulary an explicitly defined grammar and well-formed rules of syntax and semantics. At the
@@ -3464,7 +3378,6 @@ languages such as Ada 95, C or Smalltalk are used to create a procedural descrip
 of the
 program. At the highest levei the language uses graphical icons or other symbology to represent
 the requirements for a solution. Executable instructions are automatically generated.
-
 
 (Software Engineering - Concepts & Implementation. Centre for Information Technology and
 Engineering, Manonmaniam Sundaranar University)
@@ -3507,7 +3420,6 @@ No nível mais baixo, a linguagem reflete o conjunto de instruções do hardware
 O texto não diz que o vocabulário é limitado. O que o texto diz é que ela reflete as instruções
 do hardware. Opção errada.
 
-
 (C) ícones gráficos são utilizados nos diversos níveis de linguagem (alto e baixo).
 
 At the highest levei the language uses graphical icons or other symbology to represent
@@ -3545,7 +3457,6 @@ GABARITO: E
 Dica da Ena: Numa questão como essa, talvez você tenha ficado em dúvida entre as opções B
 e E. Quando isso acontecer, escolha aquela que mais se apega ao texto.
 
-
 Translation
 
 Software components are built using a programming language that has a limited vocabulary an
@@ -3571,7 +3482,7 @@ linguagem
 utiliza ícones gráficos ou outra simbologia para representar os requisitos para uma solução. As
 instruções executáveis são geradas automaticamente.
 
-Item. 27. Leia o texto a seguir.
+27. Leia o texto a seguir.
 
 Effective software project management focuses on the three P's: people, problem, and
 process. The order is not arbitrary. The manager who forgets that software engineering work is
@@ -3589,7 +3500,6 @@ Engineering, Manonmaniam Sundaranar University)
 Comentários:
 
 Segundo o texto, o gerente
-
 
 (A) deve focar nos três Ps, em uma ordem qualquer.
 
@@ -3674,7 +3584,6 @@ projeto corre o risco de construir uma solução elegante para o problema errado
 dá uma
 solução elegante para o problema errado. Opção errada.
 
-
 (E) que não se dedica intensamente nunca terá sucesso em um projeto.
 
 The manager who forgets that software engineering work is an intensely human endeavor
@@ -3719,7 +3628,6 @@ gerente que dá pouca atenção ao processo corre o risco de inserir métodos e
 instrumentos
 técnicos competentes em um vácuo.
 
-
 ATENÇÃO!
 
 RESUMo
@@ -3757,7 +3665,6 @@ probabilidade.
 
 * Whatever = o que quer que, seja o que for
 
-
 VoCABULÁRIoS
 
 Vocabulário T radução
@@ -3786,7 +3693,6 @@ rendimento, renda
 tax
 imposto
 
-
 Vocabulário Sinônimos
 allow authorize
 assurance confidence
@@ -3811,7 +3717,6 @@ resource money, finances
 revenue income, earnings
 tax
 levy, duty
-
 
 FKXM
 ATENTO!
@@ -3858,7 +3763,6 @@ visions of its members: on the one side, autocratic regimes such as Saudi Arabia
 want to restrict access to the Internet; on the other side, open societies that want low barriers to
 entry. These clashes of vision would probably make multilateral regulation inefficiently political.
 
-
 You may say that this is a fair price to pay to uphold the principie of sovereignty. If a country
 wants to keep certain users from registering domain names (Nazi groups, child
 pornographers,
@@ -3877,7 +3781,7 @@ already have it.
 
 (Adapted from Washington Post, November 21,2005; A14)
 
-Item. 01. No texto, o verbo que preenche corretamente a lacuna é
+01. No texto, o verbo que preenche corretamente a lacuna é
 
 (A) don't.
 
@@ -3889,7 +3793,7 @@ Item. 01. No texto, o verbo que preenche corretamente a lacuna é
 
 (E) doesn't.
 
-Item. 02. No texto, a palavra que preenche corretamente a lacuna é
+02. No texto, a palavra que preenche corretamente a lacuna é
 
 (A) Whatever.
 
@@ -3900,7 +3804,7 @@ Item. 02. No texto, a palavra que preenche corretamente a lacuna é
 (D) Wherever.
 (E)Whoever.
 
-Item. 03. No primeiro parágrafo, reflects no more than the historical accident of the
+03. No primeiro parágrafo, reflects no more than the historical accident of the
 lnternet's origins
 significa
 
@@ -3910,12 +3814,11 @@ significa
 
 (C) reflete muito mais do que a história do acidente da origem da Internet.
 
-
 (D) não passa de mero reflexo da história original da Internet.
 
 (E) não reflete muito da criação acidental da Internet.
 
-Item. 04. Ainda no primeiro parágrafo, os dois períodos Why should the United States
+04. Ainda no primeiro parágrafo, os dois períodos Why should the United States
 continue to
 control the registration of French and Chinese Internet addresses? e lt doesn't control
 the
@@ -3933,7 +3836,7 @@ travei was. podem ser ligadas, sem alteração de sentido, pela conjunção
 
 (E) unless.
 
-Item. 05. Segundo o texto, Henry Ford
+05. Segundo o texto, Henry Ford
 
 (A) fez história viajando para muitos países, inclusive a França e a China.
 
@@ -3945,7 +3848,7 @@ Item. 05. Segundo o texto, Henry Ford
 
 (E)teve um papel influente na democratização dos carros franceses.
 
-Item. 06. No segundo parágrafo, should indica
+06. No segundo parágrafo, should indica
 
 (A) permissão.
 
@@ -3957,8 +3860,7 @@ Item. 06. No segundo parágrafo, should indica
 
 (E) probabilidade.
 
-Item. 07. In the third paragraph, such abuses have not occurred means that
-
+07. In the third paragraph, such abuses have not occurred means that
 
 (A) any organization that wants to register a domain name can do so.
 
@@ -3970,7 +3872,7 @@ Item. 07. In the third paragraph, such abuses have not occurred means that
 
 (E) government opposition parties are refused domain names.
 
-Item. 08. Segundo o texto, a escolha de um órgão supervisor multilateral da Internet poderia tornar o
+08. Segundo o texto, a escolha de um órgão supervisor multilateral da Internet poderia tornar o
 registro de domínio
 
 (A) mais democrático.
@@ -3983,7 +3885,7 @@ registro de domínio
 
 (E) um instrumento de discriminação racial.
 
-Item. 09. O pronome it, no final do texto, refere-se a
+09. O pronome it, no final do texto, refere-se a
 
 (A) prohibition of offensive material.
 
@@ -3995,7 +3897,7 @@ Item. 09. O pronome it, no final do texto, refere-se a
 
 (E) an effective banking system for payment.
 
-Item. 10. No geral, o texto
+10. No geral, o texto
 
 (A) defende a ideia de um supervisor multilateral para a Internet, como por exemplo,
 a
@@ -4007,7 +3909,6 @@ usuários que considere indesejáveis.
 
 (C) argumenta contra a necessidade de qualquer controle sobre o registro de nomes de domínio
 na Internet.
-
 
 (D) argumenta contra a proibição de bancos processarem pagamentos para Web sites com
 conteúdo pernicioso.
@@ -4037,7 +3938,7 @@ full mastery in all areas, however, is by no means expected.
 
 (http://www.ala.org/acrl/standards/comp4specollect. Adaptado)
 
-Item. 14. De acordo com o trecho, as chamadas Coleções Especiais em bibliotecas
+14. De acordo com o trecho, as chamadas Coleções Especiais em bibliotecas
 
 (A) destinam-se a um público muito específico e especializado.
 
@@ -4049,7 +3950,7 @@ Item. 14. De acordo com o trecho, as chamadas Coleções Especiais em biblioteca
 
 (E) exigem formação específica e aprofundada para sua administração.
 
-Item. 15. A quarta frase do texto - Even those who remain focused on a single functional
+15. A quarta frase do texto - Even those who remain focused on a single functional
 specialty
 within one institution... - aponta para um profissional cujo perfil
 
@@ -4057,14 +3958,13 @@ within one institution... - aponta para um profissional cujo perfil
 
 (B) contrasta com o descrito na frase anterior.
 
-
 (C) adequa-se a várias instituições.
 
 (D) adapta-se melhor a funções de gestão.
 
 (E) não está descrito no texto
 
-Item. 16. No fragmento - ...developing broad awareness of the full array of responsibilities
+16. No fragmento - ...developing broad awareness of the full array of responsibilities
 that
 define the field as a whole. - a expressão em destaque, no contexto em que aparece, associa-se,
 em português, à ideia de desenvolver
@@ -4102,8 +4002,7 @@ for guides to explain the rules in what may be perceived as more "practical" ter
 
 (http://www.ala.org/alcts/resources/org/cat/research/cat_eresource06. Adaptado)
 
-Item. 17. De acordo com o trecho,
-
+17. De acordo com o trecho,
 
 (A) os conteúdos em formato eletrônico disponíveis em bibliotecas ganham mais importância a
 cada dia.
@@ -4120,7 +4019,7 @@ completo de certas publicações.
 
 (E) as obras monográficas continuam, em sua maioria, a ser consultadas em sua versão impressa.
 
-Item. 18. A frase do texto - Electronic resources have challenged the principies and
+18. A frase do texto - Electronic resources have challenged the principies and
 practices of
 cataloging over the last several years. - indica que
 
@@ -4143,7 +4042,7 @@ materiais impressos já há muitos anos.
 
 Texto 4: ANALISTA DE SISTEMAS - DESENVOLVE/SP - VUNESP
 
-Item. 24. Leia o texto a seguir.
+24. Leia o texto a seguir.
 
 The Object-Relational (OR) model is very similar to the relational model; however, it treats
 every entity as an object (instance of a class), and a relationship as an inheritance. Some features
@@ -4152,7 +4051,6 @@ and benefits of an Object-Relational model are:
 * Support for complex, user defined types
 
 * Object inheritance
-
 
 * Extensible objects
 
@@ -4170,7 +4068,7 @@ OR.
 
 (E) os relacionamentos são tratados como instâncias de uma classe.
 
-Item. 25. Leia o texto a seguir.
+25. Leia o texto a seguir.
 
 A domain constraint implies that a particular attribute of a relation is defined on a
 particular domain. A domain constraint simply states that values of the attribute in question are
@@ -4190,7 +4088,7 @@ A melhor tradução para o termo domain constraint é
 
 (E) restrição principal.
 
-Item. 26. Leia o texto a seguir.
+26. Leia o texto a seguir.
 
 Software components are built using a programming language that has a limited
 vocabulary an explicitly defined grammar and well-formed rules of syntax and semantics. At the
@@ -4216,7 +4114,7 @@ médio e alto nível.
 
 (E) nos níveis mais baixos, a linguagem reflete o conjunto de instruções do hardware.
 
-Item. 27. Leia o texto a seguir.
+27. Leia o texto a seguir.
 
 Effective software project management focuses on the three P's: people, problem, and
 process. The order is not arbitrary. The manager who forgets that software engineering work is
@@ -4245,13 +4143,11 @@ ferramentas.
 
 (E) que não se dedica intensamente nunca terá sucesso em um projeto.
 
-
 GABARITO
 
 GABARIToS
 
 Textos Gabaritos
-
 
 Texto 1
 
@@ -4260,14 +4156,11 @@ C; 09-D; 10-E;
 
 Texto 2 14-D; 15-B; 16-E;
 
-
 Texto 3
-
 
 Texto 4
 
 17-A; 18-C;
 
 24-A; 25-D; 26-E; 27-C;
-
 

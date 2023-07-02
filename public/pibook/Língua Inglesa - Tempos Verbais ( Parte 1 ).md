@@ -1,5 +1,4 @@
-Capítulo. Língua Inglesa - Tempos Verbais ( Parte 1 ).
-
+# Língua Inglesa - Tempos Verbais ( Parte 1 ).
 
 Índice
 
@@ -22,7 +21,6 @@ Capítulo. Língua Inglesa - Tempos Verbais ( Parte 1 ).
 9) Lista de Questões A4 e Gabaritos CESPE
 
 10) Resumo A4 CESPE
-
 
 Vamos começar com o Presente Simples. Ele é o termo verbal que é usado para
 falar sobre
@@ -62,7 +60,6 @@ Simples mas também em outros tempos verbais.
 
 I am a teacher.
 
-
 Eu sou uma professora.
 
 You are my student.
@@ -100,7 +97,6 @@ I work.
 Eu trabalho.
 
 I work in a Bank.
-
 
 Eu trabalho em um banco.
 
@@ -141,7 +137,6 @@ Agora vamos ver algumas exceções à regra do -s na terceira pessoa do singular
 
 a) verbos que terminam em s, ss, sh, ch, x
 
-
 Nestes verbos é adicionado -es ao invés de um simples -s. Dê uma olhada em alguns
 exemplos
 de frases na terceira pessoa do singular.
@@ -158,7 +153,7 @@ Ele usualmente assiste TV depois do jantar.
 My next-door neighbor washes his new car every evening.
 Meu vizinho de porta lava o novo carro dele a cada noitinha.
 
-Item. 1.2. Presente Simples na Interrogativa
+1.2. Presente Simples na Interrogativa
 
 A forma interrogativa é feita de forma diferente quando se trata dos verbos To Be
 (ser, estar)
@@ -166,7 +161,7 @@ e There Be (haver, existir) e dos demais verbos. Pois aqueles não precisam
 da ajuda de
 auxiliares.
 
-Item. 1.2.1. Com os verbos To Be e There Be
+1.2.1. Com os verbos To Be e There Be
 
 Para fazer a interrogativa com os verbos to be (ser, estar) e there be
 (existir, haver) é só
@@ -179,7 +174,6 @@ Eles/Elas estão em casa agora?
 
 Is there a teacher in the classroom?
 Há um professor na sala de aula?
-
 
 Para os demais verbos na interrogativa acrescenta-se o DO ou DOES (3a pessoa sing.)
 no início
@@ -196,13 +190,13 @@ Observe que os exemplos citados acima mostram atividades rotineiras que
 acontecem
 repetidamente.
 
-Item. 1.3. Presente Simples na Negativa
+1.3. Presente Simples na Negativa
 
 A forma negativa é feita de forma diferente quando se trata dos verbos To Be (ser,
 estar) e There
 Be (haver, existir) e dos demais verbos. Pois aqueles não precisam da ajuda de auxiliares.
 
-Item. 1.3.1. Com os verbos To Be e There Be
+1.3.1. Com os verbos To Be e There Be
 
 Para fazer a negativa com os verbos to be (ser, estar) e there be (existir, haver)
 é só colocar o
@@ -218,14 +212,13 @@ Para os demais verbos na negativa acrescenta-se o auxiliar DO ou DOES seguido do
 e o
 verbo vai para o infinitivo.
 
-
 My next-door neighbor does not wash his new car every evening.
 Meu vizinho de porta não lava o novo carro dele a cada noitinha.
 
 I do not work at the café on the comer.
 Eu não trabalho no café da esquina.
 
-Item. 1.3.2. Com os verbos to go (ir) e to do (fazer)
+1.3.2. Com os verbos to go (ir) e to do (fazer)
 
 Também é acrescentado -es nos verbos to go e to do quando eles estão
 sendo usados na
@@ -240,7 +233,7 @@ Minha filha faz o dever de casa dela toda tarde antes do jantar.
 The sun goes up and the sun goes down.
 O sol se levanta e o sol se põe.
 
-Item. 1.3.3. Com verbos que terminam com a consoante y.
+1.3.3. Com verbos que terminam com a consoante y.
 
 Para verbos que terminam com a consoante y, existe uma regra simples. É retirado o y
 e coloca-
@@ -254,7 +247,6 @@ My sister carries a briefcase to work every day and she relies on me to help her
 Minha irmã leva uma maleta para o trabalho todos os dias e ela se confia em mim para ajudá-la.
 
 Because the student applies herself, she can meet the requirements of the course.
-
 
 Visto que a estudante esforça-se, ela é capaz de atender as exigências do curso.
 
@@ -270,7 +262,7 @@ verbos que terminam em vogal + y não são considerados irregulares. Então apen
 acrescenta-
 se um —s como se faz com qualquer verbo regular.
 
-Item. 1.3.4. Com o verbo to have (ter)
+1.3.4. Com o verbo to have (ter)
 
 A exceção final é o verbo to have, como ele é irregular, se transforma em has na
 terceira pessoa
@@ -283,14 +275,13 @@ Ele tem muito trabalho a fazer.
 She has never been to France.
 Ela nunca esteve na França.
 
-
 PASSADo SIMPLES
 
 O tempo verbal Simple Past (Passado Simples) é usado quando uma ação ou situação
 acontece
 e termina no Passado. Geralmente dizemos ou sabemos quando ela aconteceu.
 
-Item. 2.1. Verbos Regulares
+2.1. Verbos Regulares
 
 A maioria dos verbos regulares recebem o acréscimo de ED ao infinitivo para formar o
 passado
@@ -319,10 +310,9 @@ Nos demais verbos, permanece a regra de simplesmente acrescentar o sufixo
 He passed his exam because he studied very hard. (pass /study)
 Ele passou no seu teste porque ele estudou muito, (passar/estudar)
 
-
 MAPA MENTAL
 
-Item. 2.2. Verbos Irregulares
+2.2. Verbos Irregulares
 
 Nos verbos irregulares, não há nenhum tipo de regra que estabeleça como
 será formado o
@@ -330,7 +320,7 @@ passado. É necessário memorizar o passado de cada verbo irregular. Mas, a form
 é a
 mesma para todas as pessoas (I, you, he, we, etc).
 
-Item. 2.2.1. Com os verbos To Be (ser, estar) e There Be (haver, existir)
+2.2.1. Com os verbos To Be (ser, estar) e There Be (haver, existir)
 
 To Be —> was (1a e 3a pessoas do singular), were (plural e 2a pessoa do singular)
 
@@ -342,8 +332,7 @@ Eles/Elas estavam em casa ontem.
 There was a teacher in the classroom this morning.
 Havia um professor na sala de aula esta manhã.
 
-Item. 2.2.2. Com os demais verbos
-
+2.2.2. Com os demais verbos
 
 Os demais verbos irregulares têm formas diferentes para o Passado Simples.
 
@@ -371,7 +360,6 @@ MDOMAIS
 FUNDO!
 
 /II
-
 
 Presente Tradução
 Passado Simples
@@ -631,8 +619,7 @@ ocorrida e terminada.
 Where did you get those books? ~ I got them from the Central Library.
 Onde você conseguiu aqueles livros? ~ Eu os consegui na Biblioteca Central.
 
-
-Item. 2.3. O Passado Simples na Interrogativa
+2.3. O Passado Simples na Interrogativa
 
 A forma interrogativa do tempo verbal Simple Past ou Passado Simples
 (Pretérito Perfeito e
@@ -640,7 +627,7 @@ Imperfeito) é feita de forma diferente entre os verbos To Be (ser, estar) e
 There Be (haver,
 existir) e os demais verbos. Visto que aqueles não precisam de auxiliares.
 
-Item. 2.3.1. Com os verbos To Be e There Be
+2.3.1. Com os verbos To Be e There Be
 
 Para fazer a interrogativa no Passado simples com esses verbos é só inverter a
 posição entre o
@@ -653,7 +640,7 @@ Was there a teacher in the classroom this morning?
 
 Havia um professor na sala de aula esta manhã?
 
-Item. 2.3.1. Com os demais verbos
+2.3.1. Com os demais verbos
 
 Para os demais verbos faz-se a interrogativa no Simple Past assim: o verbo fica no
 infinitivo e o
@@ -671,17 +658,16 @@ Eles ouviram música popular em casa ontem à noite?
 Did you know the Russian Navy has its own dinosaur? (knew na afirmativa)
 Você sabia que a marinha russa tem seu próprio dinossauro?
 
-
 Did he stop here last night? (stopped na afirmativa)
 Ele parou aqui ontem à noite?
 
-Item. 2.4. O Passado Simples na Negativa
+2.4. O Passado Simples na Negativa
 
 A forma interrogativa é feita de forma diferente entre os verbos To Be
 (ser, estar) e There
 Be (haver, existir) e os demais verbos. Visto que aqueles não precisam de auxiliares.
 
-Item. 2.4.1. Com os verbos To Be e There Be
+2.4.1. Com os verbos To Be e There Be
 
 Com os verbos To Be e There Be a negativa faz-se sem o uso de auxiliares.
 Acrescenta-se o
@@ -699,7 +685,7 @@ Wasn't there a teacher in the classroom this morning?
 
 Não havia um professor na sala de aula esta manhã?
 
-Item. 2.4.2. Com os demais verbos
+2.4.2. Com os demais verbos
 
 Para os demais verbos faz-se a negativa do Simple Past acrescentando-se NOT
 depois do
@@ -708,7 +694,6 @@ auxiliar DID, quer a frase esteja na afirmativa ou na interrogativa. O verbo fic
 You did not (didn't) get those books. - Você não conseguiu aqueles livros.
 
 She didn't have her dinner last night. - Ela não jantou ontem a noite.
-
 
 FUTURo SIMPLES E CoM o GOING TO
 
@@ -725,36 +710,35 @@ frase. Vejamos a seguir quais são as situações em que normalmente se
 utiliza o Futuro
 Simples.
 
-Item. 3.1. Para expressar uma decisão que está sendo tomada no
+3.1. Para expressar uma decisão que está sendo tomada no
 momento da fala
 
 I will give you the book right now.
 
 Vou te dar o livro agora.
 
-Item. 3.2. Para fazer uma solicitação
+3.2. Para fazer uma solicitação
 
 Will you open the window, please?
 Você pode abrir a janela, por favor?
 
-Item. 3.3. Para fazer uma predição
+3.3. Para fazer uma predição
 
 There will be food shortages.
 
 Haverá escassez de alimentos.
 
-Item. 3.4. Para fazer uma promessa, ameaça, aviso ou ordenar algo
-
+3.4. Para fazer uma promessa, ameaça, aviso ou ordenar algo
 
 Eu chamarei a polícia se você não se afastar de mim.
 
-Item. 3.5. Para fazer um convite
+3.5. Para fazer um convite
 
 Will you join us tomorrow?
 
 Você nos acompanhará amanhã?
 
-Item. 3. 6. Para falar sobre acontecimentos sobre os quais não se
+3. 6. Para falar sobre acontecimentos sobre os quais não se
 tem certeza
 
 Neste caso, usa-se advérbios que indicam probabilidade, como: perhaps
@@ -783,12 +767,11 @@ I hope it will be available as soon as possible.
 
 Espero que isto esteja pronto o mais brevemente possível.
 
-
 The list will be compiled at the beginning of next week.
 
 A lista será estabelecida no início da próxima semana.
 
-Item. 3.8. Futuro na Negativa com WILL
+3.8. Futuro na Negativa com WILL
 
 Faz-se a forma negativa no Simple Future acrescentando-se NOT depois do auxiliar WILL,
 
@@ -805,21 +788,20 @@ Itwon't rain next week.
 
 Não vai chover na próxima semana.
 
-Item. 3.9. Futuro na Interrogativa com WILL
+3.9. Futuro na Interrogativa com WILL
 
 A Forma Interrogativa difere quanto ao posicionamento do Will entre o verbo There Be (haver,
 existir) e os demais verbos.
 
-Item. 3.9.1. Com o verbo There Be
+3.9.1. Com o verbo There Be
 
 Faz-se a interrogativa colocando-se o Will antes do There Be.
-
 
 Will there be an ISIS state on the trans-lsrael highway? (israelnationalnews.com)
 
 Haverá um estado islâmico na rodovia trans-lsrael?
 
-Item. 3.9.1. Com os demais verbos
+3.9.1. Com os demais verbos
 
 Para os demais verbos faz-se a forma interrogativa afirmativa no Simple Future posicionando o
 auxiliar WILL no início da frase, seguido do sujeito e em seguida do verbo:
@@ -832,7 +814,7 @@ Will you call him now?
 
 Você vai ligar para ele agora?
 
-Item. 3.9.2. Na Interrogativa Negativa
+3.9.2. Na Interrogativa Negativa
 
 A forma interrogativa negativa é feita da mesma forma, acrescentando-se, porém NOT
 depois
@@ -841,7 +823,7 @@ do auxiliar WILL ou fazendo a contração WILL + NOT = WON'T.
 Won't he play tennis tomorrow?
 Ele não jogará tênis amanhã?
 
-Item. 3.10. Com o COINC TO
+3.10. Com o COINC TO
 
 O tempo verbal Futuro com o "GOING TO" é um modo de falarmos sobre decisões que
 tomamos antes do momento da fala. Forma-se o Futuro com o GOING TO assim: To Be
@@ -851,7 +833,6 @@ Be.
 1'm going to invite Marianna over for dinner.
 
 Vou convidar a Mariana para jantar aqui em casa.
-
 
 He is going to buy house nearthe river.
 
@@ -877,7 +858,7 @@ There is not going to be peace among nations.
 
 Não haverá paz entre as nações.
 
-Item. 3.12. Futuro na Interrogativa com o GOING TO
+3.12. Futuro na Interrogativa com o GOING TO
 
 Para formar perguntas, faz-se a inversão do sujeito com o verbo auxiliar no verbo To Be e no
 verbo There Be coloca-se o auxiliar na frente do there.
@@ -890,8 +871,7 @@ Are there going to be any reviews?
 
 Haverá algum comentário?
 
-
-Item. 3.13. Predição com o GOING TO
+3.13. Predição com o GOING TO
 
 O GOING TO também é usado para fazer planos ou predições. Quando temos evidência de
 que algo vai ocorrer.
@@ -902,7 +882,6 @@ O céu está escuro. Vai chover.
 There are going to be great challenges.
 
 Haverá grandes desafios.
-
 
 QUANTIFICADoRES E DETERMINANTES
 
@@ -915,7 +894,7 @@ demonstrativos e o interrogativo which. As vezes as palavras fazem o papel de De
 Quantificadores ao mesmo tempo. Eles são uma categoria de adjetivos, pronomes e artigos que
 quantificam os substantivos. Vejamos aqueles que são mais usados.
 
-Item. 4.1. Os Quantificadores All, Every e Each; All of e Each of
+4.1. Os Quantificadores All, Every e Each; All of e Each of
 
 Os Quantificadores All (todo(a)(s), Every e Each (cada) indicam o número total de algo em um
 grupo. A diferença no uso deles é que o All é seguido de palavras no Plural ou de
@@ -941,10 +920,9 @@ O Protecionismo pode assumir muitas formas, nem todas elas são óbvias.
 
 A good state would give each of us a chance to thrive. (The Guardian)
 
-
 Um bom estado daria a cada um de nós uma chance de prosperar.
 
-Item. 4.2. Os Quantificadores/Determinantes Both (ambos), Neither
+4.2. Os Quantificadores/Determinantes Both (ambos), Neither
 (nenhum de dois) e Either (um de dois)
 
 Os Quantificadores/Determinantes Both (ambos), Neither (nenhum de dois) e Either (um de dois)
@@ -961,7 +939,7 @@ Either policeman could stop them.
 
 Qualquer um dos dois policiais poderia detê-los.
 
-Item. 4.3. Os Quantificadores Too, Too much, Too many, Enough
+4.3. Os Quantificadores Too, Too much, Too many, Enough
 
 O Quantificador Too (muito, demais) indica o grau de intensidade de algo. O Enough (o
 bastante, o suficiente) descreve a quantidade satisfatória de algo. Ambos nos dão mais
@@ -975,7 +953,6 @@ You're driving too fast. - Você está dirigindo muito rápido.
 He is too tired to concentrate. - Ele está muito cansado para se concentrar.
 
 Mas quando se passa a frase para a negativa (not + too), o sentido passa a ser positivo.
-
 
 lt's not too cold to go for a walk in the park. - Não está frio demais/ Não está tão
 frio para se
@@ -1015,17 +992,15 @@ Tem pimenta demais nessa comida.
 
 There were too many people on the boat.
 
-
 Tinha gente demais no barco.
 
 Observe no quadro abaixo outros exemplos dos Quantificadores mais usados, lembrando que
 alguns são contáveis, outros incontáveis e outros são ambos:
 
-Item. 4.4. Contáveis: Many, A Few, A Lot e Outros
+4.4. Contáveis: Many, A Few, A Lot e Outros
 
 ATINCAO
 DECORE!
-
 
 A large number of foreigners (muitos
 estrangeiros)
@@ -1039,20 +1014,18 @@ Many books (muitos livros) A few days (poucos dias)
 
 ATENTO!
 
-Item. 4.5. Incontáveis: Much, A Little e Outros
+4.5. Incontáveis: Much, A Little e Outros
 
 A bit of flour (um pouco de farinha) Much wine (muito vinho)
 
 A great deal of meat (muita carne) Much juice (muito suco)
-
 
 A little vinegar (um pouco de vinagre)
 
 A large amount of energy (uma enorme
 quantidade de energia)
 
-
-Item. 4.6. Contáveis e Não-Contáveis:
+4.6. Contáveis e Não-Contáveis:
 
 ATINÇAO
 DECORE!
@@ -1066,12 +1039,10 @@ Most of the water (A maioria da água) Most homes (A maioria das casas )
 
 None/no sugar (nenhum açúcar) No/none student (nenhum aluno)
 
-
 Plenty of exercise (bastante exercício)
 
 Lots of knowledge/ of books (muito
 conhecimento /muitos livros)
-
 
 Some water/visitors (algum(a) água/visitantes)
 
@@ -1079,7 +1050,7 @@ Any help/rooms (algum(a) ajuda/salas)
 
 ESTA CM NA
 
-Item. 4.7. O Duplo Negativo
+4.7. O Duplo Negativo
 
 O Duplo Negativo (Double Negative) é usado às vezes na linguagem informal. No entanto,
 não está correto. Não segue as normas culta da Língua Inglesa. Geralmente são palavras
@@ -1092,7 +1063,6 @@ didn't do anything! ou então She did nothing! Mas, por que? Veja bem, na frase 
 didn't do nothing nós temos duas palavras negativas o not e o nothing. Por isso que
 se
 chama duplo negativo.
-
 
 Para a frase está correta basta uma palavra negativa. Então, na frase She didn't do anything!
 temos uma formação correta pois só existe uma palavra negando, que é o didn't. Assim como
@@ -1117,7 +1087,6 @@ deve ser
 They don't want anything, pois tem apenas uma palavra negativa, que é o don't ou
 então
 They want nothing, que também só tem uma palavra negativa, que é o nothing.
-
 
 CoMPREENSÃo DE TEXToS NÃo-VERBAIS
 
@@ -1149,7 +1118,6 @@ com doenças (HIV, malaria, diseases). No número 7 vemos uma árvore, o que ind
 relacionado com o meio-ambiente ou ambientalismo (environmental). No número 8 temos uma
 união de pessoas que transmite a ideia de parceria (partnership).
 
-
 Um terço do alimento que compramos na Grã-Bretanha termina sendo jogado
 fora. Triste, não é?
 
@@ -1163,7 +1131,6 @@ No exemplo acima temos apenas linguagem não verbal. A imagem acima tem se torna
 comum ultimamente. E quando olhamos para ela de imediato já relacionamos com o zika vírus
 ou com a dengue. Esse é mais um exemplo de comunicação não-verbal, mas eles estão em
 todos os lugares.
-
 
 RESUMo
 
@@ -1210,7 +1177,6 @@ very (muito).
 
 * Dê atenção aos conectivos: anymore = não mais. = any (nenhum) + more (mais) = não
 mais.
-
 
 WOftA OC
 
@@ -1301,7 +1267,6 @@ determinado momento no tempo, e por isso ele não é definitivo, pois a situaç�
 
 GABARITO: CERTA
 
-
 02 The difference between environmental auditing and environmental impact assessment is
 nowadays clear for those who work with auditing, be it in the financial
 field or in the
@@ -1343,7 +1308,6 @@ GABARITO: ERRADA
 
 fKXM
 ATENTO!
-
 
 Based on the text, judge the following items.
 Com base no texto, julgue os itens seguintes.
@@ -1476,7 +1440,6 @@ tentativa de
 prever o impacto sobre o meio ambiente de uma ação futura e fornecer essa informação para
 aqueles que tomam a decisão sobre se o projeto deve ser autorizado.
 
-
 TEXTo 2
 
 Analista de Gestão de Resíduos Sólidos - Informática - SLU-DF - CESPE - 2019
@@ -1513,23 +1476,22 @@ Comentários:
 Judge the following items in relation the previous text.
 Julgue os itens seguintes em relação com o texto prévio.
 
-Item. 06. The article primarily deals with how one waste management company is incorporating
+06. The article primarily deals with how one waste management company is incorporating
 contemporary technology into their routine in order to improve the service they provide.
 
-Item. 06. O artigo trata principalmente de como uma empresa de gerenciamento de resíduos está
+06. O artigo trata principalmente de como uma empresa de gerenciamento de resíduos está
 incorporando a tecnologia contemporânea em sua rotina, a fim de melhorar o serviço que
 presta.
 
 O texto trata do uso de tecnologias digitais e modos de automatizar as operações para facilitar o
 trabalho dos funcionários da empresa, principalmente dos motoristas.
 
-
 GABARITO: CERTA
 
-Item. 07. The text states that Daily Disposal uses a mobile app, tablets, and cellular phone service for
+07. The text states that Daily Disposal uses a mobile app, tablets, and cellular phone service for
 the work they do with both their residential and commercial customers.
 
-Item. 07. O texto afirma que o Daily Disposal usa um aplicativo de celular, tablets e
+07. O texto afirma que o Daily Disposal usa um aplicativo de celular, tablets e
 telefone celular
 para o trabalho que faz com seus clientes residenciais e comerciais.
 
@@ -1541,12 +1503,12 @@ mas só no futuro fará isso com seus clientes comerciais.
 
 GABARITO: ERRADA
 
-Item. 08. On the basis of the last quote the article provides from the vice president of Daily Disposal,
+08. On the basis of the last quote the article provides from the vice president of Daily Disposal,
 one can infer that the company has not invested in any other initiatives to lessen
 its negative
 impact on the environment.
 
-Item. 08. Com base na última citação que o artigo fornece ao vice-presidente da Daily Disposal, pode-
+08. Com base na última citação que o artigo fornece ao vice-presidente da Daily Disposal, pode-
 se inferir que a empresa não investiu em nenhuma outra iniciativa para diminuir seu
 impacto
 negativo no meio ambiente.
@@ -1557,19 +1519,18 @@ da empresa de aderir ao movimento ecológico. Portanto, há um investimento ness
 
 GABARITO: ERRADA
 
-Item. 09. In the following passage from the text, the word "trash" can be substituted by
+09. In the following passage from the text, the word "trash" can be substituted by
 the word
 garbage: "Daily Disposal needed a more efficient way to route trucks and document trash
 pickup".
 
-Item. 09. Na seguinte passagem do texto, a palavra "lixo" pode ser substituída pela palavra lixo: "A
+09. Na seguinte passagem do texto, a palavra "lixo" pode ser substituída pela palavra lixo: "A
 Daily Disposal precisava de uma maneira mais eficiente de rotear caminhões e documentar
 a
 coleta de lixo".
 
 As palavras são sinônimas. Portanto, uma pode substituir a outra sem alteração na compreensão
 textual.
-
 
 GABARITO: CERTA
 
@@ -1654,7 +1615,6 @@ people who feel powerful return smiles of lower status individuais but refrain f
 smiling back
 to others in a high-status position.
 
-
 "Mimicry has been shown to help build relationships, and both power and status seem to
 affect how we unconsciously employ this strategy," said Evan Carr, the lead researcher.
 Participants' facial responses were detected as minuscule, unconscious movements of facial
@@ -1686,9 +1646,9 @@ Comentários:
 Based on the text above, judge the following items.
 Com base no texto acima, julgue os itens seguintes.
 
-Item. 10. Evan Carr and Carol Goman are two of the researchers involved in the UCSD study.
+10. Evan Carr and Carol Goman are two of the researchers involved in the UCSD study.
 
-Item. 10. Evan Carr e Carol Goman são dois dos pesquisadores involvidos no estudo da UCSD.
+10. Evan Carr e Carol Goman são dois dos pesquisadores involvidos no estudo da UCSD.
 
 The author of The Nonverbal Advantage: Secrets and Science of Body Language at Work, Carol
 Kinsey Goman, who is not affiliated with the study, said humans are wired from birth
@@ -1704,7 +1664,6 @@ subordinados são mais propensos a este tipo de comportamento de submissão.
 
 Affiliated = ser filiado /afiliado, pertencer a, fazer parte de
 
-
 Evan Carr é involvido na pesquisa da USCD, ele é o pesquisador-chefe da equipe. Mas a Carol
 Goman não é. Para a assertiva está correta ela teria que ser verdadeira em relação
 aos dois
@@ -1712,10 +1671,10 @@ indivíduos citados, e não a apenas um deles.
 
 GABARITO: ERRADA
 
-Item. 11. The UCSD research indicates that mimicking is a contributing factor to the strengthening of
+11. The UCSD research indicates that mimicking is a contributing factor to the strengthening of
 relationships.
 
-Item. 11. A pesquisa da UCSD indica que a imitação é um fator que contribui para o fortalecimento
+11. A pesquisa da UCSD indica que a imitação é um fator que contribui para o fortalecimento
 das relações.
 
 "Mimicry has been shown to help build relationships, and both power and status seem to affect
@@ -1736,12 +1695,11 @@ A assertiva expressa a mesma informação textual usando sinônimos de palavras.
 
 GABARITO: CERTA
 
-Item. 12. From the researchers' point of view, the smile from a hierarchically superior person is a sign
+12. From the researchers' point of view, the smile from a hierarchically superior person is a sign
 of prejudice, since it is not sincere.
 
-Item. 12. Do ponto de vista dos pesquisadores, o sorriso de uma pessoa hierarquicamente superior é
+12. Do ponto de vista dos pesquisadores, o sorriso de uma pessoa hierarquicamente superior é
 um sinal de discriminação, já que não é sincero.
-
 
 Em nenhum momento o texto diz isso. Além disso, numa assertiva como essa, nem se precisa ir
 ao texto. Pelo senso comum observa-se que a assertiva é incoerente com a realidade. Não se
@@ -1749,11 +1707,11 @@ pode julgar ou determinar que sorrisos de uma certa categoria são falsos ou ver
 
 GABARITO: ERRADA
 
-Item. 13. The research may help employees to become aware of what their bodies are
+13. The research may help employees to become aware of what their bodies are
 signaling in
 certain situations.
 
-Item. 13. A pesquisa pode ajudar os funcionários a se tornarem conscientes do que seus corpos estão
+13. A pesquisa pode ajudar os funcionários a se tornarem conscientes do que seus corpos estão
 sinalizando em determinadas situações.
 
 The implication of studies like these is that employees can be more conscious of
@@ -1774,9 +1732,9 @@ textual.
 
 GABARITO: CERTA
 
-Item. 14. Our facial response to people from different status at work seems to be unconscious.
+14. Our facial response to people from different status at work seems to be unconscious.
 
-Item. 14. Nossa expressão facial para pessoas de status diferentes no trabalho parece ser inconsciente.
+14. Nossa expressão facial para pessoas de status diferentes no trabalho parece ser inconsciente.
 
 "Mimicry has been shown to help build relationships, and both power and status seem to affect
 how we unconsciously employ this strategy," said Evan Carr, the lead researcher.
@@ -1785,7 +1743,6 @@ Evan Carr, pesquisador-chefe da equipe, disse: "Observou-se que o mimetismo ajud
 construir relacionamentos, e tanto o poder como o status parecem afetar a forma como
 nós
 inconscientemente empregamos esta estratégia".
-
 
 To be unconscious = ser inconsciente = uncounsciously = inconcientemente
 
@@ -1817,7 +1774,6 @@ how we unconsciously employ this strategy," said Evan Carr, the lead researcher.
 Participants'
 facial responses were detected as minuscule, unconscious movements of facial muscles fractions
 of a second after being shown videos of people of varying social status.
-
 
 Evan Carr, pesquisador-chefe da equipe, disse: "Observou-se que o mimetismo ajuda a construir
 relacionamentos, e tanto o poder como o status parecem afetar a forma como
@@ -1867,7 +1823,6 @@ quando se
 aprende o que esses sinais significam para usá-los para explicar o que você quer fazer", disse
 Carol Goman.
 
-
 MDOMAIS
 FUNDO!
 
@@ -1904,9 +1859,9 @@ Comentários:
 Based on the above text, judge the following items.
 Com base no texto acima, julgue os itens seguintes.
 
-Item. 15. In the text, the word "accomplish" (R.5) has the same meaning as "achieve" (R.11).
+15. In the text, the word "accomplish" (R.5) has the same meaning as "achieve" (R.11).
 
-Item. 15. No texto, a palavra "realizar" (I.5) tem o mesmo significado que "alcançar" (1.11).
+15. No texto, a palavra "realizar" (I.5) tem o mesmo significado que "alcançar" (1.11).
 
 Three types of assessment methods can be used to accomplish this — testing,
 examination,
@@ -1915,7 +1870,6 @@ and interviewing.
 Três tipos de métodos de avaliação podem ser usados para alcançar este objetivo -
 teste,
 exame e entrevista.
-
 
 Interviewing is the process of conducting discussions with individuais or groups within
 an
@@ -1937,10 +1891,10 @@ Os verbos tem o mesmo significado como você pode observar nas suas definições
 
 GABARITO: CERTA
 
-Item. 16. Testing, examination and interviewing are methods, which can result in effective assessments
+16. Testing, examination and interviewing are methods, which can result in effective assessments
 of people.
 
-Item. 16. Teste, exame e entrevista são métodos que podem resultar em avaliações eficazes de
+16. Teste, exame e entrevista são métodos que podem resultar em avaliações eficazes de
 pessoas.
 
 An information security assessment is the process of determining how effectively an
@@ -1964,11 +1918,10 @@ métodos citados são teste, exame e entrevista.
 
 GABARITO: CERTA
 
-
-Item. 17. In the text, "used to" (R.15) could be correctly replaced by accustomed, without changing
+17. In the text, "used to" (R.15) could be correctly replaced by accustomed, without changing
 the meaning of the text.
 
-Item. 17. No texto, "usados para" (1.15) poderia ser substituído corretamente por acostumados, sem
+17. No texto, "usados para" (1.15) poderia ser substituído corretamente por acostumados, sem
 alterar o significado do texto.
 
 Assessment results are used to support the determination of security control effectiveness over
@@ -1997,9 +1950,9 @@ significar "está acostumado". E o accostumed também for precedido pelo to be.
 
 GABARITO: ERRADA
 
-Item. 18. In the text, the word "assessed" (R.2) is synonymous with the word accessed.
+18. In the text, the word "assessed" (R.2) is synonymous with the word accessed.
 
-Item. 18. No texto, a palavra "avaliada" (I.2) é sinônimo da palavra acessado.
+18. No texto, a palavra "avaliada" (I.2) é sinônimo da palavra acessado.
 
 An information security assessment is the process of determining how effectively an entity being
 assessed (e.g., host, system, network, procedure, person — known as the assessment
@@ -2010,7 +1963,6 @@ Uma avaliação da segurança da informação é o processo de determinar como e
 entidade que está sendo avaliada (por exemplo, host, sistema, rede, procedimento, pessoa
 -
 conhecida como o objeto de avaliação) atende aos objetivos específicos de segurança.
-
 
 PMSTEMNS
 ATENÇAO!
@@ -2047,7 +1999,6 @@ Examination is the process of checking, inspecting, reviewing, observing, studyi
 one or more assessment objects to facilitate understanding, achieve clarification, or
 obtain
 evidence.
-
 
 Exame é o processo de verificar, inspecionar, revisar, observar, estudar, ou analisar um ou mais
 objetos de avaliação para facilitar o entendimento, atingir esclarecimento, ou obter provas.
@@ -2091,7 +2042,6 @@ A good grasp of basic English skills is important for technician positions. Soli
 in math and science may also be useful for jobs in which technical material or statistical reports
 are processed.
 
-
 There is a variety of ways to gain the working skills for a data processing job. High schools,
 vocational schools, and community colleges have classes that teach basic
 clerical and
@@ -2112,9 +2062,9 @@ Comentários:
 Based on the text, judge the items below.
 Baseado no texto, julgue os itens abaixo.
 
-Item. 19. A sound knowledge of English is highly important for technician positions.
+19. A sound knowledge of English is highly important for technician positions.
 
-Item. 19. Um profundo conhecimento de Inglês é altamente importante para as vagas de técnico.
+19. Um profundo conhecimento de Inglês é altamente importante para as vagas de técnico.
 
 A good grasp of basic English skills is important for technician positions.
 
@@ -2137,10 +2087,9 @@ GABARITO: ERRADA
 Dica da Ena: Memorize o significado dessa palavra sound como adjetivo, pois ela é
 sempre pedida pelo CESPE.
 
+20. Data processing technician jobs demand at least a high school diploma.
 
-Item. 20. Data processing technician jobs demand at least a high school diploma.
-
-Item. 20. Os empregos de técnico de processamento de dados exigem, pelo menos, um diploma do
+20. Os empregos de técnico de processamento de dados exigem, pelo menos, um diploma do
 ensino médio.
 
 For those positions that do not require a high school education, experience in the
@@ -2157,9 +2106,9 @@ tenham terminado o ensino médio podem se qualificar se tiverem a experiência e
 
 GABARITO: ERRADA
 
-Item. 21. In line 3, "immediately" means soon after leaving.
+21. In line 3, "immediately" means soon after leaving.
 
-Item. 21. Na linha 3, "imediatamente" significa logo depois de sair.
+21. Na linha 3, "imediatamente" significa logo depois de sair.
 
 For those who start work immediately / soon after leaving after high school, training
 is
@@ -2174,15 +2123,14 @@ pelo significado mencionado na assertiva.
 
 GABARITO: CERTA
 
-Item. 22. Some in-house training must be available for those who begin working just after
+22. Some in-house training must be available for those who begin working just after
 leaving
 school.
 
-Item. 22. Alguns treinamentos internos devem estar disponíveis para aqueles que começam a trabalhar
+22. Alguns treinamentos internos devem estar disponíveis para aqueles que começam a trabalhar
 logo após sair da escola.
 
 For those who start work immediately after high school, training is usually provided on the job.
-
 
 Para aqueles que começam a trabalhar imediatamente após o ensino médio, o treinamento é
 normalmente fornecido no trabalho.
@@ -2199,9 +2147,9 @@ várias interpretações. Portanto, não está de acordo com o que diz o texto.
 
 GABARITO: ERRADA
 
-Item. 23. In some cases, it is necessary to have experience in the data processing.
+23. In some cases, it is necessary to have experience in the data processing.
 
-Item. 23. Em alguns casos, é necessário ter experiência em processamento de dados.
+23. Em alguns casos, é necessário ter experiência em processamento de dados.
 
 For those positions that do not require a high school education, experience in the
 data
@@ -2221,10 +2169,9 @@ According to the text, it can be correctly concluded that
 
 De acordo com o texto, pode se concluir corretamente que
 
-Item. 24. Technicians are expected to be able to keep up with new technologies.
+24. Technicians are expected to be able to keep up with new technologies.
 
-Item. 24. Espera-se que os técnicos sejam capazes de acompanhar novas tecnologias.
-
+24. Espera-se que os técnicos sejam capazes de acompanhar novas tecnologias.
 
 Technicians need to possess good communication skills, be able to function in a
 fast-paced
@@ -2241,11 +2188,11 @@ A assertiva usa um verbo frasal para concordar com o verbo do texto.
 
 GABARITO: CERTA
 
-Item. 25. considerable knowledge of math may be helpful if the job requires dealing with
+25. considerable knowledge of math may be helpful if the job requires dealing with
 technical
 material or statistical reports.
 
-Item. 25. considerável conhecimento de matemática pode ser útil se o emprego exige lidar com
+25. considerável conhecimento de matemática pode ser útil se o emprego exige lidar com
 material técnico ou relatórios estatísticos.
 
 Solid proficiency in math and science may also be useful for jobs in which technical material or
@@ -2267,15 +2214,14 @@ Observe que a assertiva concorda com o texto usando sinônimos de palavras.
 
 GABARITO: CERTA
 
-
 Dica da Ena: Memorize o significado desses sinônimos: sound, solid e knowledge
 pois eles caem aos montes em concursos.
 
-Item. 26. some institutions teach basic clerical and administrative skills like
+26. some institutions teach basic clerical and administrative skills like
 word-processing and
 database management.
 
-Item. 26. algumas instituições ensinam habilidades básicas de escrita e administrativas,
+26. algumas instituições ensinam habilidades básicas de escrita e administrativas,
 como
 processamento de texto e gestão de banco de dados.
 
@@ -2294,9 +2240,9 @@ com o texto em todos os detalhes.
 
 GABARITO: CERTA
 
-Item. 27. traditional teaching can substitute for at-home tutorials, books and tapes.
+27. traditional teaching can substitute for at-home tutorials, books and tapes.
 
-Item. 27. o ensino tradicional pode substituir os tutoriais, livros e gravações para se estudar em casa.
+27. o ensino tradicional pode substituir os tutoriais, livros e gravações para se estudar em casa.
 
 There are also at-home tutorials online and in books and tapes that teach similar skills.
 
@@ -2309,10 +2255,9 @@ para se estudar em casa são algo adicional.
 
 GABARITO: ERRADA
 
+28. technicians should have social skills.
 
-Item. 28. technicians should have social skills.
-
-Item. 28. os técnicos deveriam ter habilidades sociais.
+28. os técnicos deveriam ter habilidades sociais.
 
 Their job may involve being able to work well with team members as well as independently.
 
@@ -2403,7 +2348,6 @@ end high truancy rates among public school students, and he's proposing monetary
 get the job done. A plan to fine students $ 75 per skipped school day is now being considered
 by New Britain council members.
 
-
 The concept of fining kids for skipping school may come as a shock, but it's not new, In
 Ohio, the guardians responsible for a student guilty of habitual truancy can be fined up to $ 500
 and/or be required to perform up to 70 hours of community service. Until recently,
@@ -2419,9 +2363,9 @@ Comentários:
 Based on the text above, judge the following items.
 Com base no texto acima, julgue os itens seguintes.
 
-Item. 29. There are schools which award students iPads if they never miss a day during a school year.
+29. There are schools which award students iPads if they never miss a day during a school year.
 
-Item. 29. Há escolas que dão como prêmio iPads aos alunos que nunca faltaram um dia durante um
+29. Há escolas que dão como prêmio iPads aos alunos que nunca faltaram um dia durante um
 ano escolar.
 
 There's the positive approach, in which students are rewarded with iPads, sneakers, gift cards,
@@ -2435,9 +2379,9 @@ os alunos que estão presentes ganham os prêmios como incentivo para não falta
 
 GABARITO: ERRADA
 
-Item. 30. Years ago students could be sent to prison if they skipped classes.
+30. Years ago students could be sent to prison if they skipped classes.
 
-Item. 30. Anos atrás os estudantes poderiam ser enviados para a prisão, se faltassem as aulas.
+30. Anos atrás os estudantes poderiam ser enviados para a prisão, se faltassem as aulas.
 
 Then there's the flip side, in which students and parents are penalized for unexcused absences.
 In the past, parents have been sentenced to jail time for failing to get their children to school.
@@ -2447,16 +2391,15 @@ justificadas. No passado, os pais foram condenados a pena de prisão por não ma
 os
 seus filhos para a escola.
 
-
 No passado, quem eram enviados para a prisão eram os pais e não os alunos.
 
 GABARITO: ERRADA
 
-Item. 31. Some lawyers have considered the possibility of sending parents to prison if they
+31. Some lawyers have considered the possibility of sending parents to prison if they
 missed
 meetings with teachers.
 
-Item. 31. Alguns advogados tem considerado a possibilidade de enviarem pais para a prisão se eles
+31. Alguns advogados tem considerado a possibilidade de enviarem pais para a prisão se eles
 faltarem reuniões com os professores.
 
 Prosecutors have also suggested jail time as a penalty for missing
@@ -2490,11 +2433,11 @@ financeiramente
 truancy falta às aulas,
 cábula
 
-Item. 32. Kelt Cooper's proposal resulted in a debate about fining truancy in a city of
+32. Kelt Cooper's proposal resulted in a debate about fining truancy in a city of
 the state of
 Connecticut.
 
-Item. 32. A proposta de Kelt Cooper resultou em um debate sobre multar por evasão escolar em uma
+32. A proposta de Kelt Cooper resultou em um debate sobre multar por evasão escolar em uma
 cidade do Estado de Connecticut.
 
 In New Britain, Connecticut, a new superintendent of schools named Kelt Cooper wants to end
@@ -2516,9 +2459,9 @@ debate sobre o assunto.
 
 GABARITO: CERTA
 
-Item. 33. The novelty of fining students who play truant is shocking to most people in the USA.
+33. The novelty of fining students who play truant is shocking to most people in the USA.
 
-Item. 33. A novidade de multar alunos que matam aulas é chocante para a maioria das pessoas nos
+33. A novidade de multar alunos que matam aulas é chocante para a maioria das pessoas nos
 EUA.
 
 The concept of fining kids for skipping school may come as a shock, but it's not new.
@@ -2531,7 +2474,6 @@ A alternativa não está correta devido a sua primeira parte que especifica o fa
 multar
 estudantes vadios ser uma novidade, pois o texto deixa bem claro que isso não é algo novo.
 
-
 GABARITO: ERRADA
 
 ATENTO!
@@ -2539,9 +2481,9 @@ ATENTO!
 Bizu da Ena: Leia as alternativas atentamente, pois as vezes na maior parte da
 sentença tudo está certo, apenas um detalhe faz a alternativa ficar falsa.
 
-Item. 34. A student in Los Angeles may be fined $ 250 for each day he skips classes.
+34. A student in Los Angeles may be fined $ 250 for each day he skips classes.
 
-Item. 34. Um aluno em Los Angeles pode ser multado em 250 dólares para cada dia em que ele faltar
+34. Um aluno em Los Angeles pode ser multado em 250 dólares para cada dia em que ele faltar
 aula.
 
 Until recently, students in Los Angeles could be hit with a $ 250 penalty for each
@@ -2562,15 +2504,14 @@ mas não acontece mais, as multas caras foram removidas.
 
 GABARITO: ERRADA
 
-Item. 35. The article admits there are two ways of dealing with the problem of truancy.
+35. The article admits there are two ways of dealing with the problem of truancy.
 
-Item. 35. O artigo admite que existem duas formas de lidar com o problema da evasão escolar.
+35. O artigo admite que existem duas formas de lidar com o problema da evasão escolar.
 
 Schools basically have two options when it comes to fighting chronic truancy.
 
 As escolas têm basicamente duas opções quando se trata de combater a evasão escolar
 crônica.
-
 
 Two options = duas opções = two ways = duas formas
 fighting = combater, lutar com = dealing with = lidar com, tratar, resolver
@@ -2605,7 +2546,6 @@ filhos para a escola.
 Prosecutors have also suggested jail time as a penalty for missing parent-teacher conferences.
 Now there's a school system in the news because its superintendent plans on fining families $ 75
 for each day a student skips school.
-
 
 Os promotores também sugerem a prisão como pena pela falta dos pais às reuniões de pais e
 mestres. Agora há um sistema de ensino na mídia porque seu superintendente escolar planeja
@@ -2645,7 +2585,6 @@ dólares para cada contagem de evasão escolar; no início de 2012 a lei foi alt
 caras foram removidas, embora uma multa de 20 dólares possa ainda ser entregue para a
 terceira ofensa.
 
-
 l«** IX
 
 TEXTo 7
@@ -2673,9 +2612,9 @@ Information Technology. Internet: <en.wikipedia.org> (adapted).
 Considering the text above, judge the following items.
 Considerando o texto acima, julgue os itens seguintes.
 
-Item. 36. The verb "removed" (third sentence) can be adequately replaced with taken out.
+36. The verb "removed" (third sentence) can be adequately replaced with taken out.
 
-Item. 36. O verbo "desligada" (terceira frase) pode ser substituído adequadamente por retirada.
+36. O verbo "desligada" (terceira frase) pode ser substituído adequadamente por retirada.
 
 The first random-access digital storage device was the Williams tube, based on a
 standard
@@ -2689,7 +2628,6 @@ voláteis, pois precisavam ser continuamente atualizadas e por isso eram perdida
 a
 energia era desligada.
 
-
 Remove = desligar, afastar, remover, retirar, eliminar, extrair = take out
 
 Os verbos são sinônimos e por isso podem ser substituídos um pelo outro sem que se altere a
@@ -2700,11 +2638,11 @@ não take out.
 
 GABARITO: CERTA
 
-Item. 37. According to the text, before 1932, information could only be stored provisionally
+37. According to the text, before 1932, information could only be stored provisionally
 in digital
 form.
 
-Item. 37. De acordo com o texto, antes de 1932, as informações só podiam ser armazenadas
+37. De acordo com o texto, antes de 1932, as informações só podiam ser armazenadas
 provisoriamente em formato digital.
 
 A forma mais antiga de armazenamento de computador não volátil foi o tambor magnético,
@@ -2713,9 +2651,9 @@ inventado em 1932. Antes disso as informações só podiam ser armazenadas provi
 
 GABARITO: CERTA
 
-Item. 38. According to the text, punched tape is still used nowadays.
+38. According to the text, punched tape is still used nowadays.
 
-Item. 38. De acordo com o texto, a fita perfurada ainda é usada hoje em dia.
+38. De acordo com o texto, a fita perfurada ainda é usada hoje em dia.
 
 Essa fita foi usada nos primeiros computadores eletrônicos, como o Colossus. Hoje em dia essa
 tecnologia é obsoleta.
@@ -2767,7 +2705,6 @@ The worn wooden floorboards squeak under Rafael Molinazs heavy steps as he paces
 saloon. Outside, the sound of galloping horses breaks the silence of the surrounding desert. All
 around him, the Old West town's empty shops and abandoned houses look as if they have just
 been ransacked by cowboy bandits.
-
 
 "When I was a kid, I could only dream about all this," says the 68-year-old former
 actor
@@ -2826,7 +2763,6 @@ Com relação ao texto anterior e seus aspectos linguísticos, julgue os itens a
 
 39 There are three fake Old West towns in the province of Almería, in Spain.
 
-
 39 Há três cidades fictícias do Velho Oeste na província de Almería, na Espanha.
 
 But this busy movie site is located in Spain — not Montana or Texas. It's one of three faux Old
@@ -2870,7 +2806,6 @@ GABARITO: CERTA
 41 According to the text, the actors of the small community in Tabernas avoid being
 like their
 movie heroes.
-
 
 41 De acordo com o texto, os atores da pequena comunidade de Tabernas evitam ser como
 seus heróis de cinema.
@@ -2919,7 +2854,6 @@ gold", the fragment "absconds with" could be correctly replaced with keeps, with
 changing
 the meaning of the text.
 
-
 44 Na frase "Em um espetáculo, Fernández retrata um ladrão de banco que foge com ouro", o
 fragmento "foge com" poderia ser substituído corretamente por guarda, sem alterar o
 sentido
@@ -2959,7 +2893,6 @@ because its landscapes are very convenient and diversified.
 46 Pode-se inferir do texto que em Almería foram feitas muitas produções diferentes
 porque
 suas paisagens são muito convenientes e diversificadas.
-
 
 Almería has hosted more than 500 productions, including blockbuster films
 (Patton,
@@ -3002,7 +2935,6 @@ time of the American Wild West.
 48.De acordo com o texto, na Espanha existem vilarejos que foram cidades muito
 importantes
 na época do Velho Oeste americano.
-
 
 Os vilarejos citados no texto são locais onde ficam sets de filmagens fictícios. Não se trata de
 cidades de verdade do Velho Oeste americano.
@@ -3048,7 +2980,6 @@ deserto circundante da província de Almería. Desde o final da década de 1950,
 escarpadas, planícies áridas e desfiladeiros secos serviram de cenário para mais de 170 filmes de
 faroeste, incluindo "Três Homens em Conflito" (1966) e "Era Uma Vez no Oeste" (1968).
 
-
 Molina belongs to a small community of local cowboy actors and stuntmen in Tabernas who have
 played a role in movies and TV shows since the first productions in the 1950s. They can perform
 anything from fistfights to horse drags. Knowledge and skills often pass from father
@@ -3093,7 +3024,6 @@ puxadas por cavalos.
 
 "I prefer to play the bad guy, because it gives me a wider range of possibilities," says Fernández.
 "The good guy only has to keep things in order."
-
 
 "Prefiro interpretar o vilão, porque me dá um leque maior de possibilidades", diz Fernández. "O
 mocinho só precisa manter as coisas em ordem."
@@ -3142,7 +3072,6 @@ more malleable and receptive to new information, a process that scientists refer
 
 10 plasticity.
 
-
 However, these studies do not suggest that schools or teachers should buy bicycles for
 students to exercise during class. A simpler message may be that instruction should be
 alternated with physical activity. Sitting for hours and hours without moving is not
@@ -3156,18 +3085,18 @@ Comentários:
 Based on the text above, judge the following items.
 Com base no texto acima, julgue os itens seguintes.
 
-Item. 49. It can be inferred from the text that students must go the gym instead of attending classes.
+49. It can be inferred from the text that students must go the gym instead of attending classes.
 
-Item. 49. Pode-se inferir do texto que os alunos devem frequentar a academia ao invés das aulas.
+49. Pode-se inferir do texto que os alunos devem frequentar a academia ao invés das aulas.
 
 O texto não diz isso. O que o texto diz, é que fazer exercícios físicos durante uma aula de idioma
 amplia a capacidade das pessoas de memorizar, reter e compreender o novo vocabulário.
 
 GABARITO: ERRADA
 
-Item. 50. The author suggests that exercising our bodies is important for keeping our minds active.
+50. The author suggests that exercising our bodies is important for keeping our minds active.
 
-Item. 50. O autor sugere que exercitar o corpo é importante para manter a mente ativa.
+50. O autor sugere que exercitar o corpo é importante para manter a mente ativa.
 
 Many scientists suspect that exercise alters the biology of the brain in ways that
 make it more
@@ -3182,7 +3111,6 @@ O segmento do texto acima deixa bem claro que o exercício físico é importante
 mente ativa e mais receptiva a novas informações.
 
 GABARITO: CERTA
-
 
 51 .Scientists use the term "plasticity" (R.10) to describe the process through which
 the brain
@@ -3207,9 +3135,9 @@ inclui o aprendizado de uma nova língua.
 
 GABARITO: ERRADA
 
-Item. 52. The word "amplifies" (R.4) could be correctly replaced by increases.
+52. The word "amplifies" (R.4) could be correctly replaced by increases.
 
-Item. 52. A palavra "amplifica" (I.4) pode ser corretamente substituída por aumentos.
+52. A palavra "amplifica" (I.4) pode ser corretamente substituída por aumentos.
 
 ESCLARECENDO!
 
@@ -3231,10 +3159,9 @@ compreensão do texto.
 
 GABARITO: CERTA
 
+53. In the context, the word "However" (R.11) expresses the idea of contrast.
 
-Item. 53. In the context, the word "However" (R.11) expresses the idea of contrast.
-
-Item. 53. No contexto, a palavra "No entanto" (1.11) expressa a ideia de contraste.
+53. No contexto, a palavra "No entanto" (1.11) expressa a ideia de contraste.
 
 ESCLARECENDO!
 
@@ -3270,7 +3197,6 @@ Learning a second language as an adult is difficult. But the process may be ease
 while learning. A new study reports that working out during a language class amplifies people's
 ability to memorize, retain and understand new vocabulary. The findings provide more evidence
 that to activate our minds, we should move our bodies.
-
 
 Aprender uma segunda língua quando adulto é difícil. Mas o processo pode
 ser facilitado se
@@ -3328,7 +3254,6 @@ highly polluted through human activity. They have been used for sewage
 rivers have
 been covered over and diverted into sewers. The idea of reclaiming urban streams emerged in
 
-
 13 force during the 1970s and is well summarized in the landmark paper by
 Nelson Nunnally,
 "Stream Renovation: an Alternative to Channelization". Nunnally saw streams as open hydraulic
@@ -3356,9 +3281,9 @@ Comentários:
 According to the text above, judge the following items.
 De acordo com o texto acima, julgue os itens seguintes.
 
-Item. 54. According to the text, the process of stream channelization invariably increases land values.
+54. According to the text, the process of stream channelization invariably increases land values.
 
-Item. 54. De acordo com o texto, o processo de canalização de córregos invariavelmente
+54. De acordo com o texto, o processo de canalização de córregos invariavelmente
 aumenta o
 valor da terra.
 
@@ -3368,10 +3293,10 @@ valores elevados da terra.
 
 GABARITO: ERRADA
 
-Item. 55. The author claims that small watercourses are less affected by human activity than large
+55. The author claims that small watercourses are less affected by human activity than large
 ones.
 
-Item. 55. O autor afirma que os pequenos cursos d'água são menos afetados pela atividade
+55. O autor afirma que os pequenos cursos d'água são menos afetados pela atividade
 humana
 do que os grandes.
 
@@ -3383,14 +3308,13 @@ altamente poluídos pela atividade humana. Portanto, não se pode dizer que os p
 cursos
 d'água são menos afetados pela atividade humana do que os grandes.
 
-
 GABARITO: ERRADA
 
-Item. 56. The expressions "reclaiming urban streams" (R.12) and 'Stream Renovation'
+56. The expressions "reclaiming urban streams" (R.12) and 'Stream Renovation'
 (R.14) refer to
 the same type of processes.
 
-Item. 56. As expressões "recuperação de córregos urbanos" (1.12) e 'Renovação de Córregos'
+56. As expressões "recuperação de córregos urbanos" (1.12) e 'Renovação de Córregos'
 (1.14)
 referem-se ao mesmo tipo de processo.
 
@@ -3405,7 +3329,6 @@ assets to neighbourhoods rather than as problems to be managed or paved over.
 A ideia de recuperar riachos urbanos surgiu em vigor durante os anos 1970 e está bem
 resumido no artigo de referência de Nelson Nunnally, "Renovação de
 Córrego: uma
-
 
 Alternativa à Canalização". Nunna 0
 
@@ -3435,7 +3358,6 @@ isso, não é
 uma grande surpresa que quase todas as grandes cidades sejam construídas em corredores
 de
 rios, lagos ou oceanos.
-
 
 The small streams within settlements have served as important sources of water and a
 source of
@@ -3500,7 +3422,6 @@ conclusão, pois a
 proximidade de áreas verdes e hidrovias são vistas como benéficas.
 
 Meio-ambientes: Um periódico de estudos interdisciplinares.
-
 
 MESTI MAIS
 ATENÇÃO!
@@ -3596,7 +3517,6 @@ threat menace
 truancy absenteism
 waste
 rubbish, garbage
-
 
 FKXM
 ATENTO!
@@ -3709,7 +3629,6 @@ customers with delinquent accounts. As drivers made stops, they had to compare t
 lists to
 determine whether to pick up each customer's containers. With more than 90 drivers in the field,
 
-
 Daily Disposal needed a more efficient way to route trucks and document trash pickup.
 So, the
 company invested in a custom mobile app called eMobile, Samsung Galaxy
@@ -3738,21 +3657,21 @@ age. Internet: <https://insights.samsung.com> (adapted).
 
 Judge the following items in relation the previous text.
 
-Item. 06. The article primarily deals with how one waste management company is
+06. The article primarily deals with how one waste management company is
 incorporating
 contemporary technology into their routine in order to improve the service they provide.
 
-Item. 07. The text states that Daily Disposal uses a mobile app, tablets, and cellular
+07. The text states that Daily Disposal uses a mobile app, tablets, and cellular
 phone service for
 the work they do with both their residential and commercial customers.
 
-Item. 08. On the basis of the last quote the article provides from the vice president of
+08. On the basis of the last quote the article provides from the vice president of
 Daily Disposal,
 one can infer that the company has not invested in any other initiatives
 to lessen its negative
 impact on the environment.
 
-Item. 09. In the following passage from the text, the word "trash" can be
+09. In the following passage from the text, the word "trash" can be
 substituted by the word
 garbage: "Daily Disposal needed a more efficient way to route trucks and
 document trash
@@ -3766,7 +3685,6 @@ Researchers at the University of Califórnia, San Diego (UCSD), found that peopl
 low-
 power position tended to mimic the smile of a person with high status. On
 the other hand,
-
 
 people who feel powerful return smiles of lower status individuais but
 refrain from smiling back
@@ -3807,24 +3725,23 @@ Internet: <www.cnn.com> (adapted).
 
 Based on the text above, judge the following items.
 
-Item. 10. Evan Carr and Carol Goman are two of the researchers involved in the UCSD study.
+10. Evan Carr and Carol Goman are two of the researchers involved in the UCSD study.
 
-Item. 11. The UCSD research indicates that mimicking is a contributing factor to the
+11. The UCSD research indicates that mimicking is a contributing factor to the
 strengthening of
 relationships.
 
-Item. 12. From the researchers' point of view, the smile from a hierarchically superior
+12. From the researchers' point of view, the smile from a hierarchically superior
 person is a sign
 of prejudice, since it is not sincere.
 
-Item. 13. The research may help employees to become aware of what their bodies
+13. The research may help employees to become aware of what their bodies
 are signaling in
 certain situations.
 
-Item. 14. Our facial response to people from different status at work seems to be unconscious.
+14. Our facial response to people from different status at work seems to be unconscious.
 
 Texto 4: Técnico Judiciário - Programação de Sistemas - TJ-SE - CESPE
-
 
 An information security assessment is the process of determining how effectively an
 entity
@@ -3852,17 +3769,17 @@ Technical guide to information security testing and assessment. Internet: (adapt
 
 Based on the above text, judge the following items.
 
-Item. 15. In the text, the word "accomplish" (R.5) has the same meaning as "achieve" (R.11).
+15. In the text, the word "accomplish" (R.5) has the same meaning as "achieve" (R.11).
 
-Item. 16. Testing, examination and interviewing are methods, which can result in effective
+16. Testing, examination and interviewing are methods, which can result in effective
 assessments
 of people.
 
-Item. 17. In the text, "used to" (R.15) could be correctly replaced by accustomed, without
+17. In the text, "used to" (R.15) could be correctly replaced by accustomed, without
 changing
 the meaning of the text.
 
-Item. 18. In the text, the word "assessed" (R.2) is synonymous with the word accessed.
+18. In the text, the word "assessed" (R.2) is synonymous with the word accessed.
 
 Texto 5: Técnico Judiciário - Programação de Sistemas - TJDFT - CESPE
 
@@ -3875,7 +3792,6 @@ positions that
 do not require a high school education, experience in the data processing
 and entry field is
 usually cited as a minimum qualification.
-
 
 A good grasp of basic English skills is important for technician positions. Solid
 proficiency
@@ -3903,34 +3819,33 @@ Internet: <http://study.com> (adapted)
 
 Based on the text, judge the items below.
 
-Item. 19. A sound knowledge of English is highly important for technician positions.
+19. A sound knowledge of English is highly important for technician positions.
 
-Item. 20. Data processing technician jobs demand at least a high school diploma.
+20. Data processing technician jobs demand at least a high school diploma.
 
-Item. 21. In line 3, "immediately" means soon after leaving.
+21. In line 3, "immediately" means soon after leaving.
 
-Item. 22. Some in-house training must be available for those who begin working
+22. Some in-house training must be available for those who begin working
 just after leaving
 school.
 
-Item. 23. In some cases, it is necessary to have experience in the data processing.
+23. In some cases, it is necessary to have experience in the data processing.
 
 According to the text, it can be correctly concluded that
 
-Item. 24. technicians are expected to be able to keep up with new technologies.
+24. technicians are expected to be able to keep up with new technologies.
 
-Item. 25. considerable knowledge of math may be helpful if the job requires
+25. considerable knowledge of math may be helpful if the job requires
 dealing with technical
 material or statistical reports.
 
-
-Item. 26. some institutions teach basic clerical and administrative skills like word
+26. some institutions teach basic clerical and administrative skills like word
 processing and
 database management.
 
-Item. 27. traditional teaching can substitute for at-home tutorials, books and tapes.
+27. traditional teaching can substitute for at-home tutorials, books and tapes.
 
-Item. 28. technicians should have social skills.
+28. technicians should have social skills.
 
 Texto 6: Analista Legislativo - Câmara dos Deputados - CESPE
 
@@ -3973,24 +3888,23 @@ Internet: <http://moneyland.time.com> (adapted)
 
 Based on the text above, judge the following items.
 
-Item. 29. There are schools which award students iPads if they never miss a day during a school year.
+29. There are schools which award students iPads if they never miss a day during a school year.
 
-Item. 30. Years ago students could be sent to prison if they skipped classes.
+30. Years ago students could be sent to prison if they skipped classes.
 
-
-Item. 31. Some lawyers have considered the possibility of sending parents to
+31. Some lawyers have considered the possibility of sending parents to
 prison if they missed
 meetings with teachers.
 
-Item. 32. Kelt Cooper's proposal resulted in a debate about fining truancy in a
+32. Kelt Cooper's proposal resulted in a debate about fining truancy in a
 city of the state of
 Connecticut.
 
-Item. 33. The novelty of fining students who play truant is shocking to most people in the USA.
+33. The novelty of fining students who play truant is shocking to most people in the USA.
 
-Item. 34. A student in Los Angeles may be fined $ 250 for each day he skips classes.
+34. A student in Los Angeles may be fined $ 250 for each day he skips classes.
 
-Item. 35. The article admits there are two ways of dealing with the problem of truancy.
+35. The article admits there are two ways of dealing with the problem of truancy.
 
 Texto 7: Especialista em Gestão de Telecomunicações - Auditoria - Telebras -
 CESPE /
@@ -4019,14 +3933,13 @@ Information Technology. Internet: <en.wikipedia.org> (adapted).
 
 Considering the text above, judge the following items.
 
-Item. 36. The verb "removed" (third sentence) can be adequately replaced with taken out.
+36. The verb "removed" (third sentence) can be adequately replaced with taken out.
 
-Item. 37. According to the text, before 1932, information could only be stored
+37. According to the text, before 1932, information could only be stored
 provisionally in digital
 form.
 
-Item. 38. According to the text, punched tape is still used nowadays.
-
+38. According to the text, punched tape is still used nowadays.
 
 Texto 8: Engenharia Civil - Petrobras - CESPE / CEBRASPE - 2022
 
@@ -4100,7 +4013,6 @@ Geographic.
 
 Internet: <www.nationalgeographic.com> (adapted).
 
-
 Concerning the previous text and its linguistic aspects, judge the following items.
 
 39 There are three fake Old West towns in the province of Almería, in Spain.
@@ -4146,7 +4058,6 @@ because its landscapes are very convenient and diversified.
 48 According to the text, in Spain there are villages that were very important
 cities during the
 time of the American Wild West.
-
 
 Texto 9: CBM-AL - CESPE - 2018
 
@@ -4229,19 +4140,17 @@ Environments: A journal of interdisciplinary studies.
 
 According to the text above, judge the following items.
 
-Item. 54. According to the text, the process of stream channelization invariably increases land values.
+54. According to the text, the process of stream channelization invariably increases land values.
 
-Item. 55. The author claims that small watercourses are less affected by human activity than large ones.
+55. The author claims that small watercourses are less affected by human activity than large ones.
 
-Item. 56. The expressions "reclaiming urban streams" (R.12) and 'Stream Renovation'
+56. The expressions "reclaiming urban streams" (R.12) and 'Stream Renovation'
 (R.14) refer to
 the same type of processes.
-
 
 GABARITO
 
 GABARITo
-
 
 Textos
 
@@ -4289,14 +4198,12 @@ CERTA;
 ERRADA; 43-ERRADA; 44-ERRADA; 45-
 ERRADA; 46-CERTA; 47-CERTA; 48-ERRADA;
 
-
 Texto 9
 
 49-ERRADA; 50-CERTA; 51-ERRADA; 52-
 CERTA; 53-CERTA;
 
 Texto 10 54-ERRADA; 55-ERRADA; 56-CERTA;
-
 
 ATENÇÃO!
 
@@ -4332,5 +4239,4 @@ quickly = adaptar-se rapidamente
 * reclaim= reaver, recuperar, reciclar=renovation=renovação, reparação, restauração
 
 ATENÇÃO!
-
 

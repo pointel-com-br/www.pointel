@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Metodologia de Desenvolvimento ( Parte 2 ).
-
+# Engenharia de Software e Sistemas - Metodologia de Desenvolvimento ( Parte 2 ).
 
 Índice
 
@@ -25,19 +24,16 @@ Capítulo. Engenharia de Software e Sistemas - Metodologia de Desenvolvimento ( 
 
 11) Lista de Questões - Metodologias de Desenvolvimento - Parte 2 - Diversas.
 
-
 PRoCESSoS DE DESENVoLVIMENTo
 
 1 - Modelo Iterativo e Evolucionário
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
 
-
 MODELOS
 SEQUENCIAIS
 
 PRINCIPAIS MODELOS MODELOS ESPECÍFICOS*
-
 
 CASCATA OU
 CLÁSSICO
@@ -52,7 +48,6 @@ EORMAIS
 
 BASEADO EM
 COMPONENTES
-
 
 METODOLOGIAS
 ÁGEIS
@@ -105,7 +100,6 @@ uma diferença bastante sutil: de acordo com o autor, o modelo incremental sempr
 apresenta
 uma funcionalidade operacional ou um produto de trabalho a cada iteração.
 
-
 Já o modelo evolucionário, durante as primeiras iterações, pode gerar versões compostas
 apenas
 por modelos em papel, documentação ou produtos não operacionais para o usuário. É
@@ -134,8 +128,7 @@ d) Espiral e Prototipação.
 
 Comentários: modelos evolucionários se dividem em espiral e prototipação (Letra D).
 
-
-Item. 1.1 - Modelos em Prototipagem
+1.1 - Modelos em Prototipagem
 
 INCIDÊNCIA EM PROVA: MÉDIA
 
@@ -183,7 +176,6 @@ Um protótipo de software pode ser usado em um processo de desenvolvimento de so
 para
 ajudar a antecipar as mudanças que podem ser requisitadas:
 
-
 a) No processo de engenharia de requisitos, um protótipo pode ajudar na elicitação e
 validação
 de requisitos do sistema.
@@ -230,7 +222,6 @@ prototipação devem ser explicitados desde o início do processo (Ex: prototipa
 a interface de
 usuário, prototipar um sistema para validação dos requisitos funcionais do sistema, etc).
 
-
 Estabelecer
 objetivos
 do protótipo
@@ -254,7 +245,6 @@ O próximo
 estágio do processo é decidir o que colocar e, talvez mais importante ainda, o que
 deixar de fora do
 sistema de protótipo.
-
 
 Para reduzir os custos de prototipação e acelerar o cronograma de entrega, pode-se
 deixar alguma
@@ -323,7 +313,6 @@ paradigma da prototipação. Os usuários podem ter uma ideia prévia do sistema
 passo que
 os desenvolvedores passam a desenvolver algo imediatamente.
 
-
 Em outras palavras, protótipos são inviáveis de serem utilizados na maioria dos casos,
 por ser muito
 lento e/ou muito grande e/ou muito difícil de utilizar. Em geral, os protótipos são
@@ -343,7 +332,6 @@ efetivamente
 descartado; ou (2) para ser refinado, refinado e refinado até chegar ao sistema final
 desejado
 pelos usuários.
-
 
 DESENVOLVIMENTO
 EXPLORATÓRIO OU
@@ -392,11 +380,9 @@ Comentários: usuários realmente podem confundir o protótipo com o sistema
 final, sendo que serão descartados
 posteriormente - trata-se de um erro comum (Correto).
 
-
-Item. 1.2 - Modelo em Espiral
+1.2 - Modelo em Espiral
 
 INCIDÊNCIA EM PROVA: MÉDIA
-
 
 O Modelo em Espiral foi proposto
 originalmente, em 1988, por Boehm. Sua
@@ -432,7 +418,6 @@ REVISÃO
 Análise
 de riscos Protó-
 
-
 retorno entre uma atividade e outra, o
 
 EEL1
@@ -466,7 +451,6 @@ Teste unitário
 
 Teste de
 
-
 (Planejamento, Tomada de Decisão,
 
 Planejar próxima fase
@@ -476,7 +460,6 @@ V&V
 
 <7. . integração
 Teste de
-
 
 Análise de Riscos, etc).
 
@@ -496,7 +479,6 @@ SETORES (POR BOEHM] | DESCRIÇÃO
 
 Definem-se os objetivos da do projeto (aumentar performance, consertar
 
-
 DETERMINAR OBJETIVOS, ALTERNATIVAS
 
 E RESTRIÇÕES
@@ -511,7 +493,6 @@ cronograma, entre outros).
 
 Avaliam-se as alternativas identificadas em relação aos objetivos e
 restrições. Frequentemente, esse processo identifica áreas de incerteza
-
 
 (custos excessivos, falta de recursos) e resolve ou reduz os riscos
 identificados - um protótipo pode ser construído.
@@ -561,7 +542,6 @@ Cliente e Comunicação com Cliente). Variações do modelo consideram entre tr�
 setores da espiral. Infelizmente, cada autor pega a versão
 original e adapta, criando sua versão, portanto vocês verão muitos nomes diferentes para cada
 setor.
-
 
 Cada loop é uma fase e a fase é escolhida de acordo com as necessidades do negócio!
 Já os
@@ -623,7 +603,6 @@ Obtêm-se versões do sistema a cada iteração. Exige uma equipe de
 desenvolvimento extremamente
 qualificada.
 
-
 Entregando produtos cada vez mais refinados e de
 melhor qualidade.
 
@@ -635,7 +614,6 @@ pequenos.
 
 Apresenta uma abordagem sistemática.
 Apresenta estimativas realistas.
-
 
 Pessoal, é importante ver como esse modelo é tratado por Roger Pressman. De acordo
 com o autor,
@@ -693,9 +671,7 @@ porque não se sabe estimar 0 número de ciclos para construir um projeto. Ele t
 natureza iterativa que permite reduzir
 riscos a cada loop (Errado).
 
-
 Cada loop é uma fase do processo de sofWare
-
 
 Foco EXPLÍCITO na J
 Análise de Risco
@@ -704,7 +680,6 @@ Análise de Risco
 (Prototlpação - em - Etapas)
 
 V 1
-
 
 Setores (por Pressman 9a Ed)
 
@@ -733,7 +708,6 @@ Análise de Riscos
 
 Setores (Variação) Avaliação do cliente
 
-
 Fases não são
 fixas, atividades
 sim. No entanto,
@@ -744,7 +718,6 @@ Planejamento
 
 Análise de Riscos ou Avaliação de Alternativas e deRiscos
 Engenharia, Execução ou Desenvolvimento de Software
-
 
 Modelos Específicos
 
@@ -790,7 +763,6 @@ o desenvolvimento semelhante a uma sala limpa de cirurgia. Vamos ver mais
 alguns detalhes
 importante...
 
-
 Métodos Formais são métodos utilizados para elaboração de sistemas computacionais
 dando
 prioridade a sua coesão, isto porque estes métodos são desenvolvidos a partir
@@ -802,7 +774,6 @@ etapas de
 desenvolvimento de software1. Vejamos as etapas:
 
 ETAPAS | DESCRIÇÃO
-
 
 ESPECIFICAÇÃO FORMAL PARA
 DEFINIÇÃO DE REQUISITOS
@@ -863,7 +834,6 @@ possuírem formação e
 experiência necessárias para aplicação dos métodos formais, é necessário treinamento extensivo.
 
 1 Pode ser utilizado também para modelar hardwares.
-
 
 (3) É difícil usar os modelos como um meio de comunicação com clientes
 tecnicamente
@@ -930,7 +900,6 @@ Comentários: métodos formais realmente definem um processo de especificação 
 linguagens formais
 (Correto).
 
-
 Modelo Baseado Em Componentes
 
 INCIDÊNCIA EM PROVA: BAIXA
@@ -971,7 +940,6 @@ acham? Ok, professor! Mas 0 que isso tem a ver com reúso de componentes? Ora, a
 Engenharia é
 especializada em produzir componentes reusáveis.
 
-
 Engenheiros raramente fabricam um componente a partirdo nada. Eles baseiam seus projetos
 em
 componentes exaustivamente testados em outros sistemas. Quando se fala em Modelo baseado
@@ -1000,7 +968,6 @@ isto é, uma parte do sistema modular, executável, implantável, independente, 
 e
 reutilizável que encapsula a implementação e expõe um conjunto de interfaces do sistema.
 
-
 ESPECIFICAÇÃO DE
 REQUISITOS
 
@@ -1019,7 +986,6 @@ E INTEGRAÇÃO
 PROJETO DE
 SISTEMA COM
 REÚSO
-
 
 FASES 00 MODELO
 BASEADO EM
@@ -1105,7 +1071,6 @@ Comentários: esse modelo realmente parte de um software ou componente existente
 
 Comentários: de fato, criam-se componentes de alta qualidade e baixo custo de produção e manutenção
 (Correto).
-
 
 Modelo Orientado a Aspectos
 
@@ -1217,7 +1182,6 @@ ser encapsulados em um procedimento generalizado (objeto, método, procedimento,
 ainda coordenarem-se é dito que elas são ortogonais
 entre si.
 
-
 Aspectos, em geral, não são unidades de decomposição funcional do sistema, mas
 propriedades
 que envolvem diversas unidades de um sistema, afetando a semântica dos componentes
@@ -1287,7 +1251,6 @@ programas mais fáceis de manter e reusar.
 
 3 AspectJ é a mais famosa linguagem de programação orientada a aspectos.
 
-
 Ela é baseada em abstrações chamadas aspectos, que implementam funcionalidade de sistema
 que
 pode ser requerida em vários lugares diferentes em um programa. Eles
@@ -1318,7 +1281,6 @@ autenticação de usuário seja requerida antes de qualquer alteração dos deta
 ser feita
 no banco de dados - isso pode ser um aspecto.
 
-
 RESUMo
 
 MODELO EVOLUCIONÁRIO
@@ -1332,7 +1294,6 @@ clientes até chegara uma
 versão. Ao fim, o sistema pode ser entregue ao cliente ou ser refeito de forma mais estruturada.
 
 MODELO EM PROTOTIPAGEM
-
 
 Estabelecer
 objetivos
@@ -1348,7 +1309,6 @@ protótipo
 
 —► Avaliar o protótipo
 
-
 Plano de
 prototipação
 
@@ -1358,7 +1318,6 @@ Definição geral executável
 
 Relatório de
 avaliação
-
 
 DESENVOLVIMENTO
 EXPLORATÓRIO OU
@@ -1397,7 +1356,6 @@ SETORES (POR BOEHM) | DESCRIÇÃO
 
 Definem-se os objetivos da do projeto (aumentar performance, consertar
 
-
 DETERMINAR OBJETIVOS, ALTERNATIVAS
 
 E RESTRIÇÕES
@@ -1405,7 +1363,6 @@ E RESTRIÇÕES
 funcionalidade, melhorar qualidade), identificam-se alternativas (reúso de
 componentes, comprar pronto) e identificam-se restrições impostas (custo,
 cronograma, entre outros).
-
 
 AVALIAR ALTERNATIVAS, IDENTIFICAR E
 
@@ -1433,7 +1390,6 @@ Planejamento
 estimativa de custos
 cronograma
 análise de riscos
-
 
 VANTAGENS
 
@@ -1472,9 +1428,7 @@ intensivo. Em geral, são utilizados para o desenvolvimento de sistemas que
 necessitam de grande robustez e
 confiabilidade diante da possibilidade de perda de vidas ou sério prejuízo, caso haja falhas.
 
-
 ETAPAS | DESCRIÇÃO
-
 
 ESPECIFICAÇÃO FORMAL PARA
 DEFINIÇÃO DE REQUISITOS
@@ -1512,7 +1466,6 @@ O Modelo Baseado em Componentes tem utilizado o reúso como peça principal. Ess
 abordagem depende de uma
 grande base de componentes reusáveis e algum framework de integração.
 
-
 ESPECIFICAÇÃO DE
 REQUISITOS
 
@@ -1531,7 +1484,6 @@ INTEGRAÇÃO
 PROJETO DE SISTEMA
 COMREÚSO
 
-
 FASES 00 MODELO
 BASEADO EM
 COMPONENTES
@@ -1547,7 +1499,6 @@ um
 documento que define um conjunto de requisitos de software. Devem ser incluídos dois
 tipos
 de requisitos nesse documento: os Requisitos de Usuário e Requisitos de Sistema.
-
 
 ANÁLISE DE
 COMPONENTES
@@ -1565,7 +1516,6 @@ são modificados para refletir os componentes disponíveis. Quando as modificaç
 são
 impossíveis, a atividade de análise de componentes pode ser novamente realizada para
 procurar alternativas.
-
 
 PROJETO DE SISTEMA
 
@@ -1609,7 +1559,6 @@ composição para a produção de código executável.
 
 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) Uma descrição ideal de um componente de software
@@ -1631,7 +1580,7 @@ aplicabilidade".
 
 Gabarito: Errado
 
-Item. 2. (CESPE / MPC-SC - 2022) No processo de desenvolvimento de software, a prototipação
+2. (CESPE / MPC-SC - 2022) No processo de desenvolvimento de software, a prototipação
 pode
 ajudartanto na elicitação de requisitos do sistema quanto no estudo de soluções
 específicas do
@@ -1657,7 +1606,7 @@ está correta, mas foi anulada porque o conteúdo extrapolava o edital.
 
 Gabarito: Anulado
 
-Item. 3. (CESPE / MPC-SC - 2022) Usabilidade consiste em determinar, em uma solução de
+3. (CESPE / MPC-SC - 2022) Usabilidade consiste em determinar, em uma solução de
 software,
 quão fácil é corrigir um problema após a sua detecção, uma vez que a engenharia de
 usabilidade
@@ -1671,10 +1620,9 @@ A questão trata de Manutenibilidade e, não, da Usabilidade. Logo, a questão e
 errada, mas foi
 anulada porque o conteúdo extrapolava o edital.
 
-
 Gabarito: Anulado
 
-Item. 4. (CESPE / MPC-SC - 2022) No modelo espiral de Boehm, cada volta na espiral
+4. (CESPE / MPC-SC - 2022) No modelo espiral de Boehm, cada volta na espiral
 representa uma
 fase do processo de software: na parte mais interna, enfoca-se a viabilidade do
 sistema e, no
@@ -1704,7 +1652,7 @@ porque o conteúdo extrapolava o edital.
 
 Gabarito: Anulado
 
-Item. 5. (CESPE / DPE-RO - 2021) Um analista deve escolher uma metodologia de
+5. (CESPE / DPE-RO - 2021) Um analista deve escolher uma metodologia de
 desenvolvimento
 para elaborar o planejamento do ciclo de vida de um produto de software de larga
 escala. O
@@ -1738,7 +1686,6 @@ e) modelo baseado em protótipos.
 
 Comentários:
 
-
 Observem que o analista busca reduzir o risco em todas as fases do projeto, logo
 podemos eliminar
 de cara o modelo em cascata, visto que ele atrasa a redução de riscos, fazendo-a
@@ -1759,7 +1706,7 @@ que é orientado à redução de riscos.
 
 Gabarito: Letra B
 
-Item. 6. (CESPE / Polícia Federal - 2021) Embora não seja dirigido a riscos, o
+6. (CESPE / Polícia Federal - 2021) Embora não seja dirigido a riscos, o
 modelo de
 desenvolvimento de sistemas espiral de Boehm inclui, em seu framework, a etapa de
 análise e
@@ -1779,7 +1726,7 @@ Tomada de Decisão, Análise de Riscos, etc).
 
 Gabarito: Errado
 
-Item. 7. (CESPE / SERPRO - 2021) No modelo formal, as etapas do desenvolvimento
+7. (CESPE / SERPRO - 2021) No modelo formal, as etapas do desenvolvimento
 do software
 incluem especificação formal para definição de requisitos, refinamento para
 concepção de
@@ -1795,7 +1742,7 @@ Logo, todas essas listadas no enunciado estão contempladas.
 
 Gabarito: Correto
 
-Item. 8. (CESPE / SLU-DF - 2019) No modelo de desenvolvimento de software em
+8. (CESPE / SLU-DF - 2019) No modelo de desenvolvimento de software em
 cascata, a
 abordagem é orientada ao risco e as tarefas são organizadas nos seguintes ciclos:
 determinar
@@ -1803,14 +1750,13 @@ objetivos, identificar e resolver riscos, desenvolver e testar, e planejar a pr�
 
 Comentários:
 
-
 Opa... as fases e a característica de ser orientado a risco tratam do modelo em
 espiral e, não, do
 modelo em cascata.
 
 Gabarito: Errado
 
-Item. 9. (CESPE / MPC-PA- 2019) Os modelos espiral e RAD (Rapid Application
+9. (CESPE / MPC-PA- 2019) Os modelos espiral e RAD (Rapid Application
 Development) são
 classificados, respectivamente, como modelos de processo de
 desenvolvimento
@@ -1861,7 +1807,6 @@ conjunto, os seguintes modelos de processo de software genéricos: modelo em
 cascata,
 desenvolvimento evolucionário e engenharia de software embasada em computador.
 
-
 Comentários:
 
 De acordo com Sommerville, os modelos genéricos de processos de software
@@ -1892,7 +1837,7 @@ sequencial é o Modelo em Cascata; a prototipação é iterativa.
 
 Gabarito: Errado
 
-Item. 13. (CESPE / STF - 2013) O processo de software fundamentado no modelo em espiral
+13. (CESPE / STF - 2013) O processo de software fundamentado no modelo em espiral
 apresenta o
 processo em loops compostos basicamente por setores, como, por exemplo,
 definição de
@@ -1917,7 +1862,6 @@ Comentários:
 Já outras questões importantes não são bem localizadas no projeto funcional.
 Exemplos disto
 podem ser propriedades que envolvem várias unidades funcionais, tais como: sincronização,
-
 
 restrições de tempo, concorrência, distribuição de objetos, persistência, etc.
 Galera, vocês Já
@@ -1946,7 +1890,7 @@ Prolog? Galera, Prolog é uma linguagem lógica; POA não pode ser implementada 
 
 Gabarito: Errado
 
-Item. 16. (CESPE / TRT17 - 2013) O modelo espiral de modelagem de processos para
+16. (CESPE / TRT17 - 2013) O modelo espiral de modelagem de processos para
 desenvolvimento
 de software é finalizado quando o software é implantado.
 
@@ -1958,7 +1902,7 @@ Ele é um modelo de desenvolvimento de software e, não, modelagem de processos.
 
 Gabarito: Errado
 
-Item. 17. (CESPE / MEC - 2011) O modelo de processo denominado em espiral combina as
+17. (CESPE / MEC - 2011) O modelo de processo denominado em espiral combina as
 atividades de
 desenvolvimento com o gerenciamento de riscos, de modo a minimizá-los e controlá-los.
 
@@ -1972,7 +1916,6 @@ Gabarito: Correto
 
 18.(CESPE / AL-ES - 2011) No ciclo de vida em espiral, a de análise de risco é realizada na etapa da
 modelagem do produto.
-
 
 Comentários:
 
@@ -2000,7 +1943,7 @@ documentos para cada versão do sistema.
 
 Gabarito: Correto
 
-Item. 20. (CESPE / MEC - 2011) No modelo de prototipação, o processo de desenvolvimento de
+20. (CESPE / MEC - 2011) No modelo de prototipação, o processo de desenvolvimento de
 software
 é modelado como uma sequência linear de fases, enfatizando um ciclo de desenvolvimento
 de
@@ -2016,7 +1959,7 @@ Rápido de Aplicações (RAD).
 
 Gabarito: Errado
 
-Item. 21. (CESPE / TRE-MT - 2010) A metodologia de prototipagem evolutiva é uma abordagem
+21. (CESPE / TRE-MT - 2010) A metodologia de prototipagem evolutiva é uma abordagem
 que
 visualiza o desenvolvimento de concepções do sistema conforme o andamento do projeto,
 por
@@ -2084,7 +2027,6 @@ Gabarito: Errado
 repensar o
 planejamento diversas vezes durante o desenrolar do projeto.
 
-
 Comentários:
 
 Trata-se do modelo iterativo, portanto permite replanejamento a cada nova iteração.
@@ -2140,7 +2082,6 @@ concentração dos
 esforços mais na integração de partes existentes do que no seu desenvolvimento desde o início.
 
 Gabarito: Correto
-
 
 2g.(CESPE / UNIPAMPA - 2009) No modelo de desenvolvimento prototipagem, um
 protótipo é
@@ -2201,7 +2142,6 @@ Gabarito: Errado
 anteriores de
 desenvolvimento, suportando ainda a execução paralela de fases.
 
-
 Comentários:
 
 Na verdade, ele não admite retorno às fases anteriores e, como é uma espiral, não
@@ -2248,9 +2188,8 @@ fato de o modelo espiral ser cíclico, diferente do modelo em cascata, que é li
 
 Gabarito: Correto
 
-Item. 35. (CESPE / UNIPAMPA - 2009) O modelo de desenvolvimento espiral foi desenvolvido somente
+35. (CESPE / UNIPAMPA - 2009) O modelo de desenvolvimento espiral foi desenvolvido somente
 para abranger as melhores características do ciclo de vida clássico.
-
 
 Comentários:
 
@@ -2272,7 +2211,7 @@ Comentários:
 
 Gabarito: Errado
 
-Item. 37. (CESPE / TJDFT - 2008) A prototipação evolucionária não gera problemas de
+37. (CESPE / TJDFT - 2008) A prototipação evolucionária não gera problemas de
 manutenção de
 sistema porque o desenvolvimento é rápido e não sofre grandes mudanças.
 
@@ -2286,7 +2225,7 @@ Abordagem Evolucionária e, não, Prototipação Evolucionária.
 
 Gabarito: Errado
 
-Item. 38. (CESPE/ MPE-AM-2008) No modelo de prototipação, a especificação de requisitostem
+38. (CESPE/ MPE-AM-2008) No modelo de prototipação, a especificação de requisitostem
 pouca
 importância, pois o software é continuamente adaptado em função dos desejos do usuário
 
@@ -2298,12 +2237,11 @@ especificação. Galera, como não tem importância? É exatamente para isso que
 
 Gabarito: Errado
 
-Item. 39. (CESPE/TJDFT-2008) A prototipação de um software é uma técnica de desenvolvimento
+39. (CESPE/TJDFT-2008) A prototipação de um software é uma técnica de desenvolvimento
 não-
 interativa porque o teste do sistema só ocorre na versão final.
 
 Comentários:
-
 
 A Prototipagem é utilizada quando não se conhece bem os requisitos. É uma forma de
 entendê-los
@@ -2360,7 +2298,6 @@ modelo
 em cascata com a prototipação.
 
 Gabarito: Correto
-
 
 43-(CESPE / TJDFT - 2008) Empregando o modelo de desenvolvimento em espiral, o
 software é
@@ -2419,7 +2356,6 @@ alternativa que se fundamenta na matemática discreta e na lógica é o modelo i
 Comentários:
 
 Na verdade, a alternativa mais adequada é a utilização de métodos formais.
-
 
 Gabarito: Errado
 
@@ -2485,10 +2421,9 @@ iremos descartá-lo ou não). A questão não afirma em nenhum momento que o
 protótipo será
 evoluído ou descartado.
 
-
 Gabarito: Correto
 
-Item. 49. (CESPE / COHAB - 2004) O modelo espiral é um modelo de processo de software
+49. (CESPE / COHAB - 2004) O modelo espiral é um modelo de processo de software
 que combina
 a natureza iterativa da prototipagem com os aspectos controlados e sistemáticos
 do modelo
@@ -2504,7 +2439,7 @@ CESPE copiando do CESPE!
 
 Gabarito: Correto
 
-Item. 50. (CESPE / PBV-RR - 2004) O modelo em cascata é linear e sequencial. Modelos como
+50. (CESPE / PBV-RR - 2004) O modelo em cascata é linear e sequencial. Modelos como
 o espiral
 e o Rational Unified Process pregam o desenvolvimento iterativo.
 
@@ -2514,7 +2449,7 @@ Ele realmente é linear e sequencial. Além disso, o modelo em espiral e o RUP s
 
 Gabarito: Correto
 
-Item. 51. (CESPE / BASA-2004) O modelo em espiral evolui à medida que o processo avança,
+51. (CESPE / BASA-2004) O modelo em espiral evolui à medida que o processo avança,
 permitindo
 ao desenvolvedor e ao cliente entenderem melhor os riscos e reagirem em
 cada nível
@@ -2528,7 +2463,7 @@ entender melhor os riscos e como reagir a eles.
 
 Gabarito: Correto
 
-Item. 52. (CESPE / PBV-RR - 2004) O modelo em espiral para desenvolvimento de
+52. (CESPE / PBV-RR - 2004) O modelo em espiral para desenvolvimento de
 software é
 fundamentado no faseamento comumente adotado em projetos de engenharia a partir
 da
@@ -2537,7 +2472,6 @@ requisitos,
 definição, projeto, implementação, integração e testes, operação e manutenção.
 
 Comentários:
-
 
 As atividades (chamadas de fases na questão) são: Comunicação, Planejamento,
 Modelagem,
@@ -2586,14 +2520,13 @@ no Modelo em Espiral.
 
 Gabarito: Errado
 
-Item. 56. (CESPE / SERPRO - 2004) Enquanto o reúso em engenharia de software convencional
+56. (CESPE / SERPRO - 2004) Enquanto o reúso em engenharia de software convencional
 está
 geralmente limitado à extensão e à manutenção de um sistema específico, o
 reúso, em
 engenharia de software por componentes, é um requisito de
 desenvolvimento,
 independentemente do projeto em consideração.
-
 
 Comentários:
 
@@ -2629,7 +2562,6 @@ de licenciamento.
 
 Gabarito: Errado
 
-
 QUESTõES CoMENTADAS - FCC
 
 í. (FCC / TRF - 3a REGIÃO - 2019) No modelo em espiral de processo de software
@@ -2654,7 +2586,7 @@ Antes de cada atividade de prototipação, é realizada a análise de riscos.
 
 Gabarito: Letra D
 
-Item. 2. (FCC / TRF - 3a REGIÃO - 2019) Considere o modelo de ciclo de vida de software
+2. (FCC / TRF - 3a REGIÃO - 2019) Considere o modelo de ciclo de vida de software
 constituído
 por rotinas de trabalho com a participação de todos os membros da equipe, onde falhas
 não são
@@ -2675,7 +2607,6 @@ d) Cascata.
 
 e) Evolutivo.
 
-
 Comentários:
 
 Todas as características apresentadas no enunciado nos remetem ao modelo espiral - com
@@ -2684,7 +2615,7 @@ na análise de riscos.
 
 Gabarito: Letra C
 
-Item. 3. (FCC /TRT16 -2014) Os modelos de processo são uma representação abstrata de um
+3. (FCC /TRT16 -2014) Os modelos de processo são uma representação abstrata de um
 processo
 de software, que podem ser usados para explicar diferentes abordagens
 para o
@@ -2729,7 +2660,7 @@ do modelo em cascata e o Modelo III trata do modelo baseado em componentes.
 
 Gabarito: Letra B
 
-Item. 4. (FCC / DPE-SP - 2013) No desenvolvimento de software, podem ser utilizados os
+4. (FCC / DPE-SP - 2013) No desenvolvimento de software, podem ser utilizados os
 chamados
 modelos evolucionários, cujo objetivo é lidar com produtos que possam evoluir ao longo do
 tempo. Assinale a alternativa que contém APENAS modelos evolucionários de desenvolvimento
@@ -2752,7 +2683,7 @@ prototipagem e espiral.
 
 Gabarito: Letra C
 
-Item. 5. (FCC/TST-2012) O Ciclo de Vida de um Sistema especifica todas as fases de
+5. (FCC/TST-2012) O Ciclo de Vida de um Sistema especifica todas as fases de
 desenvolvimento,
 desde sua concepção até o processo de manutenção e declínio. No que diz
 respeito ao
@@ -2788,12 +2719,11 @@ evolucionário, mas não incremental.
 
 Gabarito: Letra A
 
-Item. 6. (FCC / TRE-CE - 2012) No desenvolvimento de software em espiral (Boehm), cada
+6. (FCC / TRE-CE - 2012) No desenvolvimento de software em espiral (Boehm), cada
 loop está
 dividido em quatro setores. NÃO se trata da denominação de um destes setores:
 
 a) levantamento.
-
 
 b) definição de objetivos.
 
@@ -2812,7 +2742,7 @@ setores.
 
 Gabarito: Letra A
 
-Item. 7. (FCC / TRT20 - 2010) À medida que se avança pelo modelo ocorre uma iteração e
+7. (FCC / TRT20 - 2010) À medida que se avança pelo modelo ocorre uma iteração e
 o software
 evolui para estágios superiores, normalmente com aumento da complexidade. Cada
 iteração
@@ -2841,7 +2771,7 @@ cada autor, mas está correta.
 
 Gabarito: Letra C
 
-Item. 8. (FCC / MPE-RN - 2010) O modelo em espiral difere principalmente dos outros
+8. (FCC / MPE-RN - 2010) O modelo em espiral difere principalmente dos outros
 modelos de
 processo de software por:
 
@@ -2855,14 +2785,13 @@ d) possuir uma fase única evolucionária.
 
 e) não contemplar o projeto do produto.
 
-
 Comentários:
 
 A principal característica do modelo em espiral é reconhecer explicitamente os riscos.
 
 Gabarito: Letra B
 
-Item. 9. (FCC / BAHIAGÁS - 2010) No modelo em espiral do processo de software cada loop na espiral
+9. (FCC / BAHIAGÁS - 2010) No modelo em espiral do processo de software cada loop na espiral
 representa:
 
 a) uma disciplina de requisitos.
@@ -2884,7 +2813,6 @@ o próximo, ao
 projeto de sistema e assim por diante.
 
 Gabarito: Letra D
-
 
 QUESTõES CoMENTADAS - FCV
 
@@ -2942,7 +2870,7 @@ explicitamente coloca um foco no gerenciamento de riscos é o modelo em espiral.
 
 Gabarito: Letra B
 
-Item. 2. (FGV / TCM-SP - 2015) Software, assim como todos os sistemas complexos, evolui ao
+2. (FGV / TCM-SP - 2015) Software, assim como todos os sistemas complexos, evolui ao
 longo do
 tempo. Modelos de processos evolucionários reconhecem a natureza iterativa e incremental
 da
@@ -2951,7 +2879,6 @@ Os
 modelos a serem utilizados em um processo evolucionário são:
 
 a) cascata e modelo V;
-
 
 b) prototipação e modelo espiral;
 
@@ -2967,7 +2894,7 @@ Os modelos a serem utilizados em um processo evolucionário são: prototipação
 
 Gabarito: Letra B
 
-Item. 3. (FGV / Fiocruz - 2010) Como modelo evolucionário do processo de software, uma
+3. (FGV / Fiocruz - 2010) Como modelo evolucionário do processo de software, uma
 característica
 da prototipagem é:
 
@@ -2993,7 +2920,7 @@ Além disso, não há sistemas sem erros; (e) Errado, você deve incentivara par
 
 Gabarito: Letra B
 
-Item. 4. (FGV / BADESC - 2010) O Modelo Espiral, segundo Pressman (1995), incorpora as
+4. (FGV / BADESC - 2010) O Modelo Espiral, segundo Pressman (1995), incorpora as
 melhores
 características do Ciclo de Vida Clássico e da Prototipação e acrescenta o seguinte elemento:
 
@@ -3012,7 +2939,6 @@ Comentários:
 O Modelo Espiral foi o primeiro modelo a tratar explicitamente de análise de riscos.
 
 Gabarito: Letra A
-
 
 5- (FGV / Senado Federal - 2008) Considere as seguintes assertivas sobre modelos de processos
 de software:
@@ -3051,7 +2977,6 @@ o diferencia dos demais modelos.
 
 Gabarito: Letra E
 
-
 QUESTõES CoMENTADAS - DIVERSAS
 
 í. (VUNESP / TJM-SP- 2021) Algumas atividades que fazem parte do modelo espiral de
@@ -3089,14 +3014,13 @@ Implantação (ou Emprego).
 
 Gabarito: Letra A
 
-Item. 2. (VUNESP / CETESB - 2009) Considere um sistema cujos requisitos de interface são
+2. (VUNESP / CETESB - 2009) Considere um sistema cujos requisitos de interface são
 definidos
 apenas quando o cliente realiza um test-drive na aplicação e aprova essa interface.
 Assinale a
 alternativa que apresenta o modelo mais adequado para o desenvolvimento da interface
 desse
 sistema.
-
 
 a) Ágil.
 
@@ -3122,7 +3046,7 @@ requisitos? Trata-se da Prototipação!
 
 Gabarito: Letra D
 
-Item. 3. (CESGRANRIO / PETROBRAS - 2018) O chefe dos desenvolvedores de sistemas
+3. (CESGRANRIO / PETROBRAS - 2018) O chefe dos desenvolvedores de sistemas
 de uma
 empresa acompanhou o seguinte diálogo entre um de seus subordinados, um usuário e o
 diretor
@@ -3185,7 +3109,7 @@ há nada que leve a crer que se trata do modelo baseado em componentes.
 
 Gabarito: Letra B
 
-Item. 4. (CESGRANRIO / PETROBRÁS - 2014) Um técnico de informática, com o objetivo de
+4. (CESGRANRIO / PETROBRÁS - 2014) Um técnico de informática, com o objetivo de
 agilizar o
 desenvolvimento de um software, escolheu o desenvolvimento evolucionário, uma
 abordagem
@@ -3222,10 +3146,9 @@ Ele realmente intercala atividades de especificação, desenvolvimento e valida�
 permitindo que
 um sistema inicial seja desenvolvido de maneira muito rápida baseado em especificações abstratas.
 
-
 Gabarito: Letra E
 
-Item. 5. (COSEAC / UFF - 2019) Nos projetos, quando o time quebra o produto em vários
+5. (COSEAC / UFF - 2019) Nos projetos, quando o time quebra o produto em vários
 pedaços
 menores, trabalhando e entregando uma parte de cada vez, sem se preocupar com
 agilidade, e
@@ -3255,7 +3178,7 @@ partirá para o outro subsistema funcional quando terminá-lo.
 
 Gabarito: Letra B
 
-Item. 6. (IF-PA/IF-PA-2019) Tem-se como boas práticas em projetos de software a definição
+6. (IF-PA/IF-PA-2019) Tem-se como boas práticas em projetos de software a definição
 dos seus
 requisitos funcionais e suas funcionalidades. No decorrer dessa definição, pode
 surgir a
@@ -3286,7 +3209,6 @@ até atingir todos os requisitos definidos"-todas são características do model
 
 Gabarito: Letra D
 
-
 7- (FADESP / IF-PA - 2019) O princípio fundamental é que, a cada ciclo, uma versão
 operacional
 do sistema será produzida e entregue para uso ou avaliação detalhada do cliente. Os
@@ -3311,7 +3233,7 @@ característica do modelo incremental.
 
 Gabarito: Letra A
 
-Item. 8. (CETREDE / Prefeitura de São Gonçalo do Amarante - CE - 2019) Sobre Engenharia
+8. (CETREDE / Prefeitura de São Gonçalo do Amarante - CE - 2019) Sobre Engenharia
 de
 Software, marque a opção INCORRETA.
 
@@ -3346,10 +3268,9 @@ Todos os itens estão corretos, exceto o primeiro. A questão trata do modelo
 evolucionário ou
 incremental (depende da versão do livro) e, não, do modelo em cascata.
 
-
 Gabarito: Letra A
 
-Item. 9. (COSEAC / UFF - 2019) Dos modelos de desenvolvimento de software, aquele que prioriza a
+9. (COSEAC / UFF - 2019) Dos modelos de desenvolvimento de software, aquele que prioriza a
 análise dos riscos envolvidos no desenvolvimento de cada parte do software é o modelo:
 
 a) em cascata.
@@ -3368,7 +3289,7 @@ O modelo que prioriza a análise de riscos envolvidos no desenvolvimento é o mo
 
 Gabarito: Letra D
 
-Item. 10. (INSTITUTO AOCP / UFFS - 2019) Assinale a alternativa que apresenta uma
+10. (INSTITUTO AOCP / UFFS - 2019) Assinale a alternativa que apresenta uma
 característica do
 modelo espiral para engenharia de software.
 
@@ -3404,10 +3325,9 @@ Errado, não existe essa definição.
 
 Gabarito: Letra B
 
-Item. 11. (COVEST-COPSET / UFPE - 2019) A respeito de modelos de processo de software,
+11. (COVEST-COPSET / UFPE - 2019) A respeito de modelos de processo de software,
 assinale a
 alternativa correta:
-
 
 a) O modelo em cascata é inconsistente com outros modelos de processos de engenharia,
 tendo
@@ -3532,7 +3452,6 @@ Gabarito: Letra A
 
 WAZLAWICK, R. S. Engenharia de Software: Conceitos e práticas. São Paulo: Elsevier, 2013.
 
-
 Considerando o exposto e o Modelo Espiral de ciclo de vida de software, assinale a
 alternativa
 correta:
@@ -3575,7 +3494,7 @@ principais riscos, e, em cada ciclo, os riscos são mitigados.
 
 Gabarito: Letra C
 
-Item. 15. (FADESP / IF-PA - 2018) Usando o modelo, o sistema é
+15. (FADESP / IF-PA - 2018) Usando o modelo, o sistema é
 desenvolvido em ciclos,
 sendo que os primeiros ciclos podem não conter todas as atividades. O produto
 resultante de
@@ -3594,7 +3513,6 @@ uso da
 As expressões que completam corretamente os espaços em branco, respectivamente, são:
 
 a) espiral, prototipação.
-
 
 b) cascata, prototipação.
 
@@ -3629,7 +3547,6 @@ de uma especificação de sistemas em um programa executável.
 
 Comentários:
 
-
 O desenvolvimento formal de sistemas é uma variação do modelo em cascata, logo os
 pontos são
 muito parecidos. Ademais, ele utiliza uma base de transformação matemática
@@ -3655,7 +3572,6 @@ requisitos e
 alteração de requisitos.
 
 Gabarito: Letra B
-
 
 i8.(IFB / IFB - 2017) O modelo de processo de software evolucionário que
 acopla a natureza
@@ -3712,7 +3628,6 @@ redução
 de riscos; desenvolvimento e validação e planejamento da próxima iteração.
 
 Gabarito: Letra C
-
 
 2O.(IFB / IFB - 2017) Um framework de processo de software dirigido a riscos foi
 proposto por
@@ -3775,7 +3690,6 @@ usuários pode-se minimizar esse problema com:
 
 a) a prototipagem.
 
-
 b) um desenvolvimento sequencial.
 
 c) a análise por ponto de função.
@@ -3794,7 +3708,7 @@ apenas uma técnica de representação de requisitos.
 
 Gabarito: Letra A
 
-Item. 23. (ESAF / MPOG - 2010) As atividades do modelo espiral de Engenharia de Software são:
+23. (ESAF / MPOG - 2010) As atividades do modelo espiral de Engenharia de Software são:
 
 a) Planejamento, Análise dos Componentes, Análise de Hierarquia e Avaliação feita pelo cliente.
 
@@ -3834,7 +3748,6 @@ Comentários:
 Perfeito! Ele disse que o modelo é evolucionário e iterativo-além de falardos riscos!
 É claro que se
 trata do Modelo em Espiral.
-
 
 Gabarito: Letra A
 
@@ -3880,20 +3793,19 @@ e publicá-las como parte da interface".
 
 Gabarito: Errado
 
-
 LISTA DE QUESTõES - CESPE
 
 í. (CESPE / BANRISUL - 2022) Uma descrição ideal de um componente de software
 reutilizável
 deve ser feita com base no modelo 3C, que significa composição, conteúdo e contexto.
 
-Item. 2. (CESPE / MPC-SC - 2022) No processo de desenvolvimento de software, a
+2. (CESPE / MPC-SC - 2022) No processo de desenvolvimento de software, a
 prototipação pode
 ajudartanto na elicitação de requisitos do sistema quanto no estudo de soluções
 específicas do
 software de modo a apoiar o projeto de interface de usuário.
 
-Item. 3. (CESPE / MPC-SC - 2022) Usabilidade consiste em determinar, em uma solução de
+3. (CESPE / MPC-SC - 2022) Usabilidade consiste em determinar, em uma solução de
 software,
 quão fácil é corrigir um problema após a sua detecção, uma vez que a engenharia de
 usabilidade
@@ -3901,7 +3813,7 @@ refere-se à capacidade de diagnosticar o problema e modificar os componentes
 necessários
 para corrigi-lo.
 
-Item. 4. (CESPE / MPC-SC - 2022) No modelo espiral de Boehm, cada volta na espiral
+4. (CESPE / MPC-SC - 2022) No modelo espiral de Boehm, cada volta na espiral
 representa uma
 fase do processo de software: na parte mais interna, enfoca-se a viabilidade do
 sistema e, no
@@ -3909,7 +3821,7 @@ ciclo seguinte, a definição de requisitos, assim por diante, executando-se, ao
 dos ciclos, a
 análise de riscos, prototipação e codificação.
 
-Item. 5. (CESPE / DPE-RO - 2021) Um analista deve escolher uma metodologia de
+5. (CESPE / DPE-RO - 2021) Um analista deve escolher uma metodologia de
 desenvolvimento
 para elaborar o planejamento do ciclo de vida de um produto de software de larga
 escala. O
@@ -3941,12 +3853,11 @@ d) modelo em cascata.
 
 e) modelo baseado em protótipos.
 
-Item. 6. (CESPE / Polícia Federal - 2021) Embora não seja dirigido a riscos,
+6. (CESPE / Polícia Federal - 2021) Embora não seja dirigido a riscos,
 o modelo de
 desenvolvimento de sistemas espiral de Boehm inclui, em seu framework, a etapa de
 análise e
 validação dos requisitos.
-
 
 7- (CESPE / SERPRO - 2021) No modelo formal, as etapas do desenvolvimento
 do software
@@ -3954,13 +3865,13 @@ incluem especificação formal para definição de requisitos, refinamento para
 concepção de
 projeto e prova para a verificação.
 
-Item. 8. (CESPE / SLU-DF - 2019) No modelo de desenvolvimento de software em
+8. (CESPE / SLU-DF - 2019) No modelo de desenvolvimento de software em
 cascata, a
 abordagem é orientada ao risco e as tarefas são organizadas nos seguintes ciclos:
 determinar
 objetivos, identificar e resolver riscos, desenvolver e testar, e planejar a próxima iteração.
 
-Item. 9. (CESPE / MPC-PA- 2019) Os modelos espiral e RAD (Rapid Application
+9. (CESPE / MPC-PA- 2019) Os modelos espiral e RAD (Rapid Application
 Development) são
 classificados, respectivamente, como modelos de processo de
 desenvolvimento
@@ -3975,7 +3886,7 @@ d) incremental e evolutivo.
 
 e) evolutivo e evolutivo.
 
-Item. 10. (CESPE / TRT-CE - 2017) Os modelos de processo em que o sistema é dividido em
+10. (CESPE / TRT-CE - 2017) Os modelos de processo em que o sistema é dividido em
 pequenos
 subsistemas funcionais que, a cada ciclo, são acrescidos de novas
 funcionalidades são
@@ -3989,17 +3900,17 @@ c) sequenciais.
 
 d) incrementais.
 
-Item. 11. (CESPE / MEC - 2014) No desenvolvimento de software de grande porte, não se
+11. (CESPE / MEC - 2014) No desenvolvimento de software de grande porte, não se
 usam, em
 conjunto, os seguintes modelos de processo de software genéricos: modelo em
 cascata,
 desenvolvimento evolucionário e engenharia de software embasada em computador.
 
-Item. 12. (CESPE / TRT-10 - 2013) No modelo prototipação, a construção de
+12. (CESPE / TRT-10 - 2013) No modelo prototipação, a construção de
 software tem várias
 atividades que são executadas de forma sistemática e sequencial.
 
-Item. 13. (CESPE / STF - 2013) O processo de software fundamentado no modelo em espiral
+13. (CESPE / STF - 2013) O processo de software fundamentado no modelo em espiral
 apresenta o
 processo em loops compostos basicamente por setores, como, por exemplo,
 definição de
@@ -4011,24 +3922,23 @@ alguns dos problemas existentes no paradigma orientado a objetos, como herança 
 e
 sobrecarga de operadores.
 
-Item. 15. (CESPE / SERPRO - 2013) A POA, uma evolução da programação orientada a objetos,
+15. (CESPE / SERPRO - 2013) A POA, uma evolução da programação orientada a objetos,
 é
 implementada nas linguagens Java, C++, Smalltalk e Prolog.
 
-
-Item. 16. (CESPE / TRT17 - 2013) O modelo espiral de modelagem de processos para
+16. (CESPE / TRT17 - 2013) O modelo espiral de modelagem de processos para
 desenvolvimento
 de software é finalizado quando o software é implantado.
 
-Item. 17. (CESPE / MEC-2011) O modelo de processo denominado em espiral combina as
+17. (CESPE / MEC-2011) O modelo de processo denominado em espiral combina as
 atividades de
 desenvolvimento com o gerenciamento de riscos, de modo a minimizá-los e controlá-los.
 
-Item. 18. (CESPE / AL-ES - 2011) No ciclo de vida em espiral, a de análise de risco é realizada na etapa
+18. (CESPE / AL-ES - 2011) No ciclo de vida em espiral, a de análise de risco é realizada na etapa
 da
 modelagem do produto.
 
-Item. 19. (CESPE / FUB - 2011) Os diversos modelos de processo de software disponíveis
+19. (CESPE / FUB - 2011) Os diversos modelos de processo de software disponíveis
 permitem a
 representação abstrata de um processo de software sob diferentes perspectivas.
 No modelo
@@ -4037,25 +3947,25 @@ faz que a
 produção de documentos que reflitam cada versão do sistema seja economicamente inviável,
 gerando problemas na validação independente de sistemas.
 
-Item. 20. (CESPE / MEC - 2011) No modelo de prototipação, o processo de desenvolvimento de
+20. (CESPE / MEC - 2011) No modelo de prototipação, o processo de desenvolvimento de
 software
 é modelado como uma sequência linear de fases, enfatizando um ciclo de desenvolvimento
 de
 breve duração.
 
-Item. 21. (CESPE / TRE-MT - 2010) A metodologia de prototipagem evolutiva é uma abordagem
+21. (CESPE / TRE-MT - 2010) A metodologia de prototipagem evolutiva é uma abordagem
 que
 visualiza o desenvolvimento de concepções do sistema conforme o andamento do projeto,
 por
 meio de protótipos visuais.
 
-Item. 22. (CESPE / INMETRO - 2010) Um dos benefícios da prototipação é a
+22. (CESPE / INMETRO - 2010) Um dos benefícios da prototipação é a
 documentação
 normalmente gerada, que facilita a manutenção dos sistemas a longo prazo e a
 elaboração de
 casos de teste.
 
-Item. 23. (CESPE / INMETRO - 2010) Na abordagem evolutiva para desenvolvimento de software,
+23. (CESPE / INMETRO - 2010) Na abordagem evolutiva para desenvolvimento de software,
 um
 protótipo do software é produzido e utilizado para identificar possíveis
 problemas com os
@@ -4063,30 +3973,29 @@ requisitos, sendo descartado logo em seguida, e o desenvolvimento do software
 propriamente
 dito é, então, iniciado.
 
-Item. 24. (CESPE / SERPRO - 2010) O modelo em espiral de ciclo de vida de software é
+24. (CESPE / SERPRO - 2010) O modelo em espiral de ciclo de vida de software é
 iterativo e
 incremental, uma vez que a mesma sequência de atividades relacionadas à
 produção de
 software é realizada a cada ciclo da espiral.
 
-Item. 25. (CESPE / SERPRO - 2010) O modelo de desenvolvimento em espiral permite
+25. (CESPE / SERPRO - 2010) O modelo de desenvolvimento em espiral permite
 repensar o
 planejamento diversas vezes durante o desenrolar do projeto.
 
-Item. 26. (CESPE / INMETRO - 2010) No modelo em espiral, um exemplo de modelo iterativo,
+26. (CESPE / INMETRO - 2010) No modelo em espiral, um exemplo de modelo iterativo,
 cada loop
 da espiral representa uma fase do processo de software. Nesse modelo, os riscos não
 são
 considerados, pois podem impactar o projeto.
 
-
-Item. 27. (CESPE / TRE-MT - 2010) O modelo de desenvolvimento em espiral, que tem a
+27. (CESPE / TRE-MT - 2010) O modelo de desenvolvimento em espiral, que tem a
 codificação
 como segunda etapa, gera o código do sistema muito mais rapidamente que o
 modelo de
 prototipação.
 
-Item. 28. (CESPE / TRE-BA - 2010) Na engenharia de software baseada em componentes, na qual
+28. (CESPE / TRE-BA - 2010) Na engenharia de software baseada em componentes, na qual
 se
 supõe que partes do sistema já existam, o processo de desenvolvimento concentra-se mais
 na
@@ -4094,16 +4003,16 @@ integração dessas partes que no seu desenvolvimento a partir do início. Essa 
 é
 baseada em reúso para o desenvolvimento de sistemas de software.
 
-Item. 29. (CESPE / UNIPAMPA - 2009) No modelo de desenvolvimento prototipagem, um protótipo é
+29. (CESPE / UNIPAMPA - 2009) No modelo de desenvolvimento prototipagem, um protótipo é
 desenvolvido para ajudar no entendimento dos requisitos do sistema.
 
-Item. 30. (CESPE / TCE-RN - 2009) A prototipação, uma abordagem para desenvolvimento de
+30. (CESPE / TCE-RN - 2009) A prototipação, uma abordagem para desenvolvimento de
 software
 na qual se cria um modelo do software que será implementado, é composta de quatro
 etapas:
 planejamento, análise de risco, engenharia e avaliação do cliente.
 
-Item. 31. (CESPE / DETRAN-DF - 2009) O modelo de processo de desenvolvimento de
+31. (CESPE / DETRAN-DF - 2009) O modelo de processo de desenvolvimento de
 software
 evolucionário parte do desenvolvimento de uma implementação inicial cujos
 resultados são
@@ -4113,23 +4022,23 @@ adequado. A prototipação, como processo, tem por objetivo compreender as espec
 do
 software para se chegar aos requisitos para o sistema.
 
-Item. 32. (CESPE / UNIPAMPA - 2009 O modelo espiral admite retorno às fases
+32. (CESPE / UNIPAMPA - 2009 O modelo espiral admite retorno às fases
 anteriores de
 desenvolvimento, suportando ainda a execução paralela de fases.
 
-Item. 33. (CESPE / ANATEL - 2009) Entre os modelos de ciclo de vida de software, o modelo
+33. (CESPE / ANATEL - 2009) Entre os modelos de ciclo de vida de software, o modelo
 espiral
 possui maior proximidade com as práticas da engenharia clássica empregadas, por exemplo,
 na
 construção de casas, quando comparado aos modelos cascata e de componentes reusáveis.
 
-Item. 34. (CESPE / IN METRO-2009) Uma das características marcantes do modelo de
+34. (CESPE / IN METRO-2009) Uma das características marcantes do modelo de
 desenvolvimento
 em espiral é o fato de ele ser cíclico, e não linear, como o modelo de
 desenvolvimento em
 cascata.
 
-Item. 35. (CESPE / UNIPAMPA - 2009) O modelo de desenvolvimento espiral foi desenvolvido
+35. (CESPE / UNIPAMPA - 2009) O modelo de desenvolvimento espiral foi desenvolvido
 somente
 para abranger as melhores características do ciclo de vida clássico.
 
@@ -4137,7 +4046,7 @@ para abranger as melhores características do ciclo de vida clássico.
 riscos
 não impacta na elaboração de um produto ou protótipo.
 
-Item. 37. (CESPE / TJDFT - 2008) A prototipação evolucionária não gera problemas de
+37. (CESPE / TJDFT - 2008) A prototipação evolucionária não gera problemas de
 manutenção de
 sistema porque o desenvolvimento é rápido e não sofre grandes mudanças.
 
@@ -4145,67 +4054,65 @@ sistema porque o desenvolvimento é rápido e não sofre grandes mudanças.
 tem pouca
 importância, pois o software é continuamente adaptado em função dos desejos do usuário
 
-
-Item. 39. (CESPE/TJDFT-2oo8) A prototipação de um software é uma técnica de desenvolvimento
+39. (CESPE/TJDFT-2oo8) A prototipação de um software é uma técnica de desenvolvimento
 não-
 interativa porque o teste do sistema só ocorre na versão final.
 
-Item. 40. (CESPE / TJDFT - 2008) Uma das finalidades da prototipação é reduzir
+40. (CESPE / TJDFT - 2008) Uma das finalidades da prototipação é reduzir
 o esforço de
 desenvolvimento de um software.
 
-Item. 41. (CESPE / TJDFT- 2008) A prototipação evolucionária permite que a versão inicial do
+41. (CESPE / TJDFT- 2008) A prototipação evolucionária permite que a versão inicial do
 protótipo
 seja desenvolvida e refinada em estágios sequenciados, até que se chegue à versão
 final do
 sistema.
 
-Item. 42. (CESPE /TJDFT- 2008) O modelo em espiral é um modelo de processos de software
+42. (CESPE /TJDFT- 2008) O modelo em espiral é um modelo de processos de software
 que reúne
 a natureza iterativa da prototipação com os aspectos sistemáticos e controlados
 do modelo
 sequencial linear.
 
-Item. 43. (CESPE / TJDFT - 2008) Empregando o modelo de desenvolvimento em espiral, o
+43. (CESPE / TJDFT - 2008) Empregando o modelo de desenvolvimento em espiral, o
 software é
 desenvolvido em uma série de versões intermediárias incrementais.
 
-Item. 44. (CESPE / SERPRO - 2008) O modelo iterativo e o modelo em espiral possuem
+44. (CESPE / SERPRO - 2008) O modelo iterativo e o modelo em espiral possuem
 características
 semelhantes: ambos permitem que as atividades do processo sejam planejadas e avaliadas
 ao
 longo do ciclo de vida.
 
-Item. 45. (CESPE / MPE-AM - 2008) A utilização de um modelo de desenvolvimento
+45. (CESPE / MPE-AM - 2008) A utilização de um modelo de desenvolvimento
 embasado em
 componentes é uma forma de desenvolvimento em espiral que busca a reutilização de
 trechos
 de software desenvolvidos e testados em projetos anteriores e armazenados em um repositório.
 
-Item. 46. (CESPE / SERPRO - 2008) Para a especificação de software e verificação de
+46. (CESPE / SERPRO - 2008) Para a especificação de software e verificação de
 sistemas, uma
 alternativa que se fundamenta na matemática discreta e na lógica é o modelo incremental.
 
-Item. 47. (CESPE / TSE - 2007) Um possível objetivo da prototipação é criar rapidamente um
+47. (CESPE / TSE - 2007) Um possível objetivo da prototipação é criar rapidamente um
 sistema
 experimental que possa ser avaliado por usuários finais. Um protótipo aprovado pelos
 usuários
 pode vir a ser usado como ponto de partida para a construção do sistema.
 
-Item. 48. (CESPE / TRE-AL - 2004) No modelo de prototipação, o desenvolvedor cria
+48. (CESPE / TRE-AL - 2004) No modelo de prototipação, o desenvolvedor cria
 inicialmente um
 modelo de software que será posteriormente implementado.
 
-Item. 49. (CESPE/COHAB-2004) O modelo espiral é um modelo de processo de software que
+49. (CESPE/COHAB-2004) O modelo espiral é um modelo de processo de software que
 combina
 a natureza iterativa da prototipagem com os aspectos controlados e sistemáticos
 do modelo
 sequencial linear.
 
-Item. 50. (CESPE / PBV-RR - 2004) O modelo em cascata é linear e sequencial. Modelos como
+50. (CESPE / PBV-RR - 2004) O modelo em cascata é linear e sequencial. Modelos como
 o espiral
 e o Rational Unified Process pregam o desenvolvimento iterativo.
-
 
 51.(CESPE/ BASA-2004) O modelo em espiral evolui à medida que o processo avança,
 permitindo
@@ -4213,7 +4120,7 @@ ao desenvolvedor e ao cliente entenderem melhor os riscos e reagirem em
 cada nível
 evolucionário.
 
-Item. 52. (CESPE / PBV-RR - 2004) O modelo em espiral para desenvolvimento de
+52. (CESPE / PBV-RR - 2004) O modelo em espiral para desenvolvimento de
 software é
 fundamentado no faseamento comumente adotado em projetos de engenharia a partir
 da
@@ -4221,23 +4128,23 @@ década de 70 do século passado. Tal modelo considera as seguintes fases: anál
 requisitos,
 definição, projeto, implementação, integração e testes, operação e manutenção.
 
-Item. 53. (CESPE / PBV-RR - 2004) O modelo em espiral de desenvolvimento proposto
+53. (CESPE / PBV-RR - 2004) O modelo em espiral de desenvolvimento proposto
 por Boehm
 apresenta a análise de riscos como uma das suas fases essenciais.
 
-Item. 54. (CESPE / STJ-2004) O modelo de desenvolvimento em espiral requer a consideração
+54. (CESPE / STJ-2004) O modelo de desenvolvimento em espiral requer a consideração
 dos riscos
 técnicos em todos os estágios ou interações do projeto, o que permite reduzir os
 riscos antes
 que se concretizem.
 
-Item. 55. (CESPE/TRE-AL-2004) O modelo de desenvolvimento em espiral engloba o que há de
+55. (CESPE/TRE-AL-2004) O modelo de desenvolvimento em espiral engloba o que há de
 melhor
 no modelo cascata e no modelo de prototipação, acrescentando a análise de risco,
 inexistente
 nestes dois modelos.
 
-Item. 56. (CESPE / SERPRO - 2004) Enquanto o reúso em engenharia de software convencional
+56. (CESPE / SERPRO - 2004) Enquanto o reúso em engenharia de software convencional
 está
 geralmente limitado à extensão e à manutenção de um sistema específico, o
 reúso, em
@@ -4245,56 +4152,55 @@ engenharia de software por componentes, é um requisito de
 desenvolvimento,
 independentemente do projeto em consideração.
 
-Item. 57. (CESPE / SERPRO - 2004) O uso de componentes pode estar condicionado a
+57. (CESPE / SERPRO - 2004) O uso de componentes pode estar condicionado a
 regras de
 licenciamento. Essa preocupação, no entanto, não existe se os componentes forem
 classificados
 como software livre.
 
-
 GABARITo
 
-Item. 1. ERRADO 20. ERRADO
+1. ERRADO 20. ERRADO
 39- ERRADO
 
-Item. 2. ANULADO 21. CORRETO
-Item. 40. CORRETO
+2. ANULADO 21. CORRETO
+40. CORRETO
 
 3- ANULADO 22. ERRADO
-Item. 41. CORRETO
+41. CORRETO
 
 4- ANULADO 23- ERRADO
-Item. 42. CORRETO
+42. CORRETO
 
 5- LETRA B 24. ERRADO
 43- CORRETO
 
-Item. 6. ERRADO 25- CORRETO
-Item. 44. CORRETO
+6. ERRADO 25- CORRETO
+44. CORRETO
 
 7- CORRETO 26. ERRADO
 45- CORRETO
 
-Item. 8. ERRADO 27- ERRADO
-Item. 46. ERRADO
+8. ERRADO 27- ERRADO
+46. ERRADO
 
 9- LETRA B 28. CORRETO
 47- CORRETO
 
-Item. 10. LETRA D 29. CORRETO
-Item. 48. CORRETO
+10. LETRA D 29. CORRETO
+48. CORRETO
 
 íi. ERRADO 30. ERRADO
 49- CORRETO
 
-Item. 12. ERRADO 31- ERRADO
-Item. 50. CORRETO
+12. ERRADO 31- ERRADO
+50. CORRETO
 
 13- CORRETO 32. ERRADO
 51- CORRETO
 
 x4- ERRADO 33- ERRADO
-Item. 52. ERRADO
+52. ERRADO
 
 15- ERRADO 34- CORRETO
 53- CORRETO
@@ -4306,11 +4212,10 @@ i6. ERRADO 35- ERRADO
 55- ERRADO
 
 i8. ERRADO 37- ERRADO
-Item. 56. CORRETO
+56. CORRETO
 
 19- CORRETO 38. ERRADO
 57- ERRADO
-
 
 LISTA DE QUESTõES - FCC
 
@@ -4328,7 +4233,7 @@ d) análise de riscos.
 
 e) plano de ciclo de vida.
 
-Item. 2. (FCC/TRF - 3a REGIÃO-2019) Considere o modelo de ciclo devida de software
+2. (FCC/TRF - 3a REGIÃO-2019) Considere o modelo de ciclo devida de software
 constituído por
 rotinas de trabalho com a participação de todos os membros da equipe, onde falhas não
 são
@@ -4350,7 +4255,7 @@ d) Cascata.
 
 e) Evolutivo.
 
-Item. 3. (FCC / TRT16 - 2014) Os modelos de processo são uma representação abstrata de
+3. (FCC / TRT16 - 2014) Os modelos de processo são uma representação abstrata de
 um processo
 de software, que podem serusados para explicardiferentes abordagens para o desenvolvimento
 de sistemas. Analise as seguintes abordagens:
@@ -4377,7 +4282,6 @@ Os modelos de processo genéricos descritos em I, II e III são, correta e
 respectivamente,
 associados a:
 
-
 a) em Espiral - Baseado em Componentes - RAD
 
 b) Evolucionário - em Cascata - Baseado em Componentes
@@ -4385,7 +4289,7 @@ c) Baseado em Componentes - Sequencial - Refactoring
 d) Ágil - Sequencial - Unified Process
 e) em Cascata - Ágil - Refactoring
 
-Item. 4. (FCC / DPE-SP - 2013) No desenvolvimento de software, podem ser utilizados os
+4. (FCC / DPE-SP - 2013) No desenvolvimento de software, podem ser utilizados os
 chamados
 modelos evolucionários, cujo objetivo é lidar com produtos que possam evoluir ao
 longo do
@@ -4402,7 +4306,7 @@ d) Redes de Petri e certificação.
 
 e) Semântico e validação.
 
-Item. 5. (FCC/TST-2012) O Ciclo deVida de um Sistema especifica todas as fases de
+5. (FCC/TST-2012) O Ciclo deVida de um Sistema especifica todas as fases de
 desenvolvimento,
 desde sua concepção até o processo de manutenção e declínio. No que diz
 respeito ao
@@ -4426,7 +4330,7 @@ d) Modelo de desenvolvimento ágil.
 
 e) Método de desenvolvimento Cleanroom (Sala Limpa).
 
-Item. 6. (FCC / TRE-CE - 2012) No desenvolvimento de software em espiral (Boehm), cada
+6. (FCC / TRE-CE - 2012) No desenvolvimento de software em espiral (Boehm), cada
 loop está
 dividido em quatro setores. NÃO se trata da denominação de um destes setores:
 
@@ -4439,7 +4343,7 @@ d) desenvolvimento e validação.
 
 e) planejamento.
 
-Item. 7. (FCC / TRT20 - 2010) À medida que se avança pelo modelo ocorre uma iteração e
+7. (FCC / TRT20 - 2010) À medida que se avança pelo modelo ocorre uma iteração e
 o software
 evolui para estágios superiores, normalmente com aumento da complexidade. Cada
 iteração
@@ -4458,7 +4362,7 @@ d) Prototipação.
 
 e) Balbúrdia.
 
-Item. 8. (FCC / MPE-RN - 2010) O modelo em espiral difere principalmente dos outros modelos de
+8. (FCC / MPE-RN - 2010) O modelo em espiral difere principalmente dos outros modelos de
 processo de software por:
 
 a) não contemplar o protótipo.
@@ -4471,7 +4375,7 @@ d) possuir uma fase única evolucionária.
 
 e) não contemplar o projeto do produto.
 
-Item. 9. (FCC / BAHIAGÁS - 2010) No modelo em espiral do processo de software cada loop na espiral
+9. (FCC / BAHIAGÁS - 2010) No modelo em espiral do processo de software cada loop na espiral
 representa:
 
 a) uma disciplina de requisitos.
@@ -4484,18 +4388,16 @@ d) uma fase do processo.
 
 e) um ciclo de programa.
 
-
 GABARITo
 
-Item. 1. LETRA D 4- LETRA C
+1. LETRA D 4- LETRA C
 7- LETRA C
 
-Item. 2. LETRAC 5- LETRA A
-Item. 8. LETRA B
+2. LETRAC 5- LETRA A
+8. LETRA B
 
 3- LETRA B 6. LETRA A
 9- LETRA D
-
 
 LISTA DE QUESTõES - FCV
 
@@ -4529,7 +4431,7 @@ d) Prototipação;
 
 e) Modelo V.
 
-Item. 2. (FGV ITCM-SP - 2015) Software, assim como todos os sistemas complexos, evolui ao
+2. (FGV ITCM-SP - 2015) Software, assim como todos os sistemas complexos, evolui ao
 longo do
 tempo. Modelos de processos evolucionários reconhecem a natureza iterativa e incremental
 da
@@ -4547,7 +4449,7 @@ d) incremental e baseado em componentes;
 
 e) processo unificado e orientado a aspectos.
 
-Item. 3. (FGV / Fiocruz - 2010) Como modelo evolucionário do processo de software, uma
+3. (FGV / Fiocruz - 2010) Como modelo evolucionário do processo de software, uma
 característica
 da prototipagem é:
 
@@ -4561,10 +4463,9 @@ d) gerar uma primeira versão do sistema completa e isenta de erros.
 
 e) descartar a participação do cliente no processo de desenvolvimento e de implantação.
 
-Item. 4. (FGV / BADESC - 2010) O Modelo Espiral, segundo Pressman (1995), incorpora as
+4. (FGV / BADESC - 2010) O Modelo Espiral, segundo Pressman (1995), incorpora as
 melhores
 características do Ciclo de Vida Clássico e da Prototipação e acrescenta o seguinte elemento:
-
 
 a) análise dos riscos.
 
@@ -4576,7 +4477,7 @@ d) refinamento de requisitos.
 
 e) refinamento de protótipos.
 
-Item. 5. (FGV / Senado Federal - 2008) Considere as seguintes assertivas sobre modelos de processos
+5. (FGV / Senado Federal - 2008) Considere as seguintes assertivas sobre modelos de processos
 de software:
 
 I. No modelo em cascata, a fase seguinte não deve iniciar antes que a fase precedente
@@ -4601,20 +4502,17 @@ d) somente II e III.
 
 e) I, lie III.
 
-
 GABARITo
 
+1. LETRA B
 
-Item. 1. LETRA B
+2. LETRA B
 
-Item. 2. LETRA B
+3. LETRA B
 
-Item. 3. LETRA B
+4. LETRA A
 
-Item. 4. LETRA A
-
-Item. 5. LETRA E
-
+5. LETRA E
 
 LISTA DE QUESTõES - DIVERSAS
 
@@ -4637,7 +4535,7 @@ d) Planejamento, Construção, Implantação, Comunicação e Modelagem.
 
 e) Planejamento, Modelagem, Comunicação, Construção e Implantação.
 
-Item. 2. (VUNESP / CETESB - 2009) Considere um sistema cujos requisitos de interface são
+2. (VUNESP / CETESB - 2009) Considere um sistema cujos requisitos de interface são
 definidos
 apenas quando o cliente realiza um test-drive na aplicação e aprova essa interface.
 Assinale a
@@ -4655,7 +4553,7 @@ d) Prototipação.
 
 e) Rapid Application Development.
 
-Item. 3. (CESGRANRIO / PETROBRAS - 2018) O chefe dos desenvolvedores de sistemas
+3. (CESGRANRIO / PETROBRAS - 2018) O chefe dos desenvolvedores de sistemas
 de uma
 empresa acompanhou o seguinte diálogo entre um de seus subordinados, um usuário e o
 diretor
@@ -4673,7 +4571,6 @@ Depois
 acrescentaríamos outras funcionalidades à medida que as fôssemos construindo,
 gerando, a
 partir da experiência do uso, versões sucessivas e cada vez mais completas.
-
 
 Diretor-Acho isso ótimo, assim já teremos uma noção do impacto que o sistema poderá
 causar
@@ -4698,7 +4595,7 @@ c) cascata
 d) espiral
 e) baseado em componentes
 
-Item. 4. (CESGRANRIO / PETROBRÁS - 2014) Um técnico de informática, com o objetivo de
+4. (CESGRANRIO / PETROBRÁS - 2014) Um técnico de informática, com o objetivo de
 agilizar o
 desenvolvimento de um software, escolheu o desenvolvimento evolucionário, uma
 abordagem
@@ -4729,14 +4626,13 @@ e) intercala as atividades de especificação, desenvolvimento e validação,
 permitindo que um
 sistema inicial seja desenvolvido rapidamente, baseado em especificações abstratas.
 
-Item. 5. (COSEAC / UFF - 2019) Nos projetos, quando o time quebra o produto em vários
+5. (COSEAC / UFF - 2019) Nos projetos, quando o time quebra o produto em vários
 pedaços
 menores, trabalhando e entregando uma parte de cada vez, sem se preocupar com
 agilidade, e
 somente quando esta parte estiver pronta o time parte para outro pedaço, iniciando uma
 nova
 fase, constata-se um ciclo de vida:
-
 
 a) preditivo.
 
@@ -4748,7 +4644,7 @@ d) RUP.
 
 e) cascata.
 
-Item. 6. (IF-PA / IF-PA-2019) Tem-se como boas práticas em projetos de software a
+6. (IF-PA / IF-PA-2019) Tem-se como boas práticas em projetos de software a
 definição dos seus
 requisitos funcionais e suas funcionalidades. No decorrer dessa definição, pode
 surgir a
@@ -4770,7 +4666,7 @@ d) Incremental.
 
 e) Entidade e Relacionamento.
 
-Item. 7. (FADESP / IF-PA - 2019) O princípio fundamental é que, a cada ciclo, uma versão
+7. (FADESP / IF-PA - 2019) O princípio fundamental é que, a cada ciclo, uma versão
 operacional
 do sistema será produzida e entregue para uso ou avaliação detalhada do cliente. Os
 requisitos
@@ -4786,7 +4682,7 @@ d) RAD.
 
 e) XP.
 
-Item. 8. (CETREDE / Prefeitura de São Gonçalo do Amarante - CE - 2019) Sobre Engenharia
+8. (CETREDE / Prefeitura de São Gonçalo do Amarante - CE - 2019) Sobre Engenharia
 de
 Software, marque a opção INCORRETA.
 
@@ -4805,7 +4701,6 @@ c) No desenvolvimento exploratório, o objetivo do processo é trabalhar com o
 cliente para
 explorar os requisitos e entregar o sistema final.
 
-
 d) No processo de engenharia de requisitos, a etapa de elicitação e análise dos
 requisitos é
 responsável pela derivação de requisitos através da observação de sistemas
@@ -4816,7 +4711,7 @@ e) Especificação, projeto e implementação, validação e evolução do softw
 comuns
 em qualquer processo de software.
 
-Item. 9. (COSEAC / UFF - 2019) Dos modelos de desenvolvimento de software, aquele que prioriza a
+9. (COSEAC / UFF - 2019) Dos modelos de desenvolvimento de software, aquele que prioriza a
 análise dos riscos envolvidos no desenvolvimento de cada parte do software é o modelo:
 
 a) em cascata.
@@ -4829,7 +4724,7 @@ d) espiral.
 
 e) baseado em componentes.
 
-Item. 10. (INSTITUTO AOCP / UFFS - 2019) Assinale a alternativa que apresenta uma característica do
+10. (INSTITUTO AOCP / UFFS - 2019) Assinale a alternativa que apresenta uma característica do
 modelo espiral para engenharia de software.
 
 a) Na etapa "engenharia", são identificadas as alternativas e as restrições.
@@ -4888,7 +4783,7 @@ visualizar o avanço gradativo no desenvolvimento, mas necessitam reaprender o u
 sistema
 quando sua versão final estiver disponível.
 
-Item. 12. (IBFC/ Prefeitura de Cuiabá - MT - 2019) Heitor é gerente de projeto e precisa
+12. (IBFC/ Prefeitura de Cuiabá - MT - 2019) Heitor é gerente de projeto e precisa
 decidir qual
 modelo utilizará no processo de desenvolvimento do próximo software da empresa
 Brasil.
@@ -4905,7 +4800,7 @@ d) Modelo em Cascata: componente do sistema é entregue por fases, podendo
 acontecer
 paralelamente
 
-Item. 13. (COSEAC / UFF - 2019) Em relação aos modelos de processos de software, avalie se
+13. (COSEAC / UFF - 2019) Em relação aos modelos de processos de software, avalie se
 são
 verdadeiras (V) ou falsas (F) as afirmativas a seguir:
 
@@ -4937,7 +4832,6 @@ e) V, V e V.
 (1986) e
 é fortemente orientado à redução de riscos.
 
-
 WAZLAWICK, R. S. Engenharia de Software: Conceitos e práticas. São Paulo: Elsevier, 2013.
 
 Considerando o exposto e o Modelo Espiral de ciclo de vida de software, assinale a
@@ -4964,7 +4858,7 @@ em que surgem.
 
 e) O início do ciclo de vida do projeto se parece mais com o Modelo Cascata.
 
-Item. 15. (FADESP / IF-PA-2018) Usando o modelo, o sistema é desenvolvido
+15. (FADESP / IF-PA-2018) Usando o modelo, o sistema é desenvolvido
 em ciclos,
 sendo que os primeiros ciclos podem não conter todas as atividades. O produto
 resultante de
@@ -4992,10 +4886,9 @@ d) espiral, cascata.
 
 e) incremental, prototipação.
 
-Item. 16. (AOCP / UNIR - 2018) O desenvolvimento formal de sistemas é uma abordagem que tem
+16. (AOCP / UNIR - 2018) O desenvolvimento formal de sistemas é uma abordagem que tem
 pontos diferentes ao modelo em cascata e usa uma base da transformação matemática modal
 de uma especificação de sistemas em um programa executável.
-
 
 (CS-UFG / UFG -2017) É um modelo de processo geral de software que tem como
 característica
@@ -5065,12 +4958,11 @@ b) Avaliar alternativas, identificar, resolver riscos.
 
 c) Gerenciar a qualidade e o custo do desenvolvimento.
 
-
 d) Determinar objetivos, alternativas e restrições.
 
 e) Planejar da próxima fase.
 
-Item. 21. (FEPESE / MPE-SC - 2014) Assinale a alternativa abaixo que melhor identifica o
+21. (FEPESE / MPE-SC - 2014) Assinale a alternativa abaixo que melhor identifica o
 modelo de
 processo de software no qual uma implementação inicial é exposta ao usuário para que
 possam
@@ -5085,7 +4977,7 @@ c) Método Ágil de Desenvolvimento
 d) Modelo de Desenvolvimento em Cascata
 e) Modelo de Engenharia de Software Baseado em Componentes
 
-Item. 22. (IBFC / EBSERH -2013) No modelo Cascata os requisitos são declarados pelos usuários
+22. (IBFC / EBSERH -2013) No modelo Cascata os requisitos são declarados pelos usuários
 no início
 do projeto e depois não se retoma mais a essa fase. Devido ao dinamismo das
 necessidades dos
@@ -5099,7 +4991,7 @@ c) a análise por ponto de função.
 
 d) caso de uso.
 
-Item. 23. (ESAF / MPOG - 2010) As atividades do modelo espiral de Engenharia de Software são:
+23. (ESAF / MPOG - 2010) As atividades do modelo espiral de Engenharia de Software são:
 
 a) Planejamento, Análise dos Componentes, Análise de Hierarquia e Avaliação feita pelo cliente.
 
@@ -5111,7 +5003,7 @@ d) Planejamento, Eliminação dos Riscos, Análise de Contingência e Avaliaçã
 
 e) Planejamento, Projeto, Análise dos Riscos e Engenharia.
 
-Item. 24. (FUNCAB / PRODAM-AM - 2010) Qual das alternativas a seguir corresponde ao modelo
+24. (FUNCAB / PRODAM-AM - 2010) Qual das alternativas a seguir corresponde ao modelo
 de
 processo, proposto no final da década de 80, que tem como principais
 características ser
@@ -5127,10 +5019,9 @@ d) Modelo Transformacional.
 
 e) Modelo de Especificação Operacional.
 
-Item. 25. (ESAF / ANA - 2009) O modelo de processo de software caracterizado
+25. (ESAF / ANA - 2009) O modelo de processo de software caracterizado
 por intercalar as
 atividades de especificação, desenvolvimento e validação, denomina-se:
-
 
 a) modelo de workflow.
 
@@ -5145,33 +5036,31 @@ e) modelo em cascata.
 26.(UFBA / UFBA - 2009) No processo de software baseado em componentes, cada componente
 projetado para reuso é uma entidade executável independente, que deve manipular exceções.
 
-
 GABARITo
 
-Item. 1. LETRA A 10. LETRA B
-Item. 19. LETRA C
+1. LETRA A 10. LETRA B
+19. LETRA C
 
-Item. 2. LETRA D li. LETRA C
-Item. 20. LETRA C
+2. LETRA D li. LETRA C
+20. LETRA C
 
 3- LETRA B 12. LETRA D
-Item. 21. LETRA B
+21. LETRA B
 
 4- LETRA E 13- LETRA A
-Item. 22. LETRA A
+22. LETRA A
 
 5- LETRA B 14- LETRA C
 23- LETRA B
 
-Item. 6. LETRA D 15- LETRA A
-Item. 24. LETRA A
+6. LETRA D 15- LETRA A
+24. LETRA A
 
 7- LETRA A i6. ERRADO
 25- LETRA C
 
-Item. 8. LETRA A 17- LETRA B
-Item. 26. ERRADO
+8. LETRA A 17- LETRA B
+26. ERRADO
 
 9- LETRA D i8. LETRA E
-
 

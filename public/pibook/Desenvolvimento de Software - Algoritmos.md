@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Algoritmos.
-
+# Desenvolvimento de Software - Algoritmos.
 
 Índice
 
@@ -20,7 +19,6 @@ Capítulo. Desenvolvimento de Software - Algoritmos.
 8) Métodos de Ordenação - Complexidade de Algoritmos - Lista de Questões
 
 9) Métodos de Ordenação - Pesquisa de Dados - Lista de Questões
-
 
 MÉToDoS DE ORDENAçÃo
 ewveviSTA
@@ -47,11 +45,9 @@ Estáveis: Bubble, Insertion e Merge; Métodos Instáveis: Selection, Quick, Hea
 Vejamos
 um exemplo:
 
-
 / 49
 
 /
-
 
 Na imagem acima, foi colocado um sinal de aspas simples e duplas apenas para
 diferenciá-los,
@@ -65,11 +61,9 @@ critério).
 
 x' 4
 
-
 / 49
 
 /
-
 
 Esse algoritmo é o primeiro método de ordenação aprendido na faculdade, porque ele é
 bastante
@@ -136,7 +130,6 @@ j = j - 1
 L[ j + 1] = PIVO
 FIM {INSERÇÃO}
 
-
 9 6 2 9 1
 
 XI
@@ -188,11 +181,9 @@ A
 
 1 2 6 $3 9
 
-
 / 49
 
 /
-
 
 Esse algoritmo consiste em selecionar o menorl elemento de um vetor e trocá-lo (swap)
 pelo item
@@ -248,7 +239,6 @@ QuickSort (Troca)
 1 A definição formal afirma que é o maior valor; a maioria das implementações utiliza o menor
 valor. As questões de prova cobram
 algumas vezes o maior, outras vezes o menor.
-
 
 p
 
@@ -325,11 +315,9 @@ contendo valores
 iguais ao pivô. O Melhor Caso ocorre quando o conjunto é dividido em subconjuntos de
 mesmo
 
-
 / 49
 
 /
-
 
 tamanho; o Pior Caso ocorre quando o pivô corresponde a um dos extremos (menor ou
 maior
@@ -391,11 +379,9 @@ sucessivamente, repetindo até que as últimas comparações e trocas tenham sid
 e o
 gap tenha chegado a 1.
 
-
 / 49
 
 /
-
 
 ALGORITMO SHELLSORT
 
@@ -446,11 +432,9 @@ problema deve ser decomponível, i.e., deve ser possível decompor qualquer inst
 trivial
 do problema em instâncias menores do mesmo tipo de problema.
 
-
 / 49
 
 /
-
 
 Além disso, deve ser sempre possível utilizar as soluções obtidas com a resolução das
 instâncias
@@ -483,7 +467,6 @@ Melhor Caso Caso Médio Pior Caso
 
 O(n log n) O(n log n) O(n log n)
 
-
 estrutura.
 
 Assim, ao final das inserções, os elementos podem ser sucessivamente removidos da raiz
@@ -502,11 +485,9 @@ O heapsort é um algoritmo de ordenação em que a sua estrutura auxiliar de
 armazenamento fora
 do arranjo de entrada é constante durante toda a sua execução.
 
-
 / 49
 
 /
-
 
 ALGORITMO HEAP SORT
 
@@ -543,7 +524,6 @@ ShellSort O(n log n) Depende do gap O(n2)
 MergeSort O(n log n) O(n log n) O(n log n)
 HeapSort O(n log n) O(n log n) O(n log
 n)
-
 
 CoMPLEXIDADE DE ALGoRITMoS
 
@@ -618,11 +598,9 @@ observem... vocês receberam as seguintes cartas (nessa ordem): 4, 5, 6, 7, 8. J
 depende de diversos outros fatores,
 mas nosso foco é na visão analítica e, não, empírica.
 
-
 / 49
 
 /
-
 
 seguintes cartas (também nessa ordem): 8, 7, 6, 5, 4 - nós queremos analisar a
 complexidade de
@@ -655,7 +633,7 @@ observações e
 suposições.
 
 E trata da complexidade porque se é necessário 1 segundo para ordenar
-Item. 10.000 elementos,
+10.000 elementos,
 quanto tempo levará para ordenar 1.000.000? A complexidade, nesse exemplo
 particular, é a
 medida relativa para alguma coisa. Vamos ver isso por meio de um exemplo: soma de
@@ -664,14 +642,11 @@ A soma é uma operação ou um problema, e o método para resolver esse problema
 chamado
 algoritmo!
 
-
 Transporte —> 1 1
 
 Parcela 1 —> 1
 
-
 10 1
-
 
 Soma 1 10 0 0
 
@@ -685,11 +660,9 @@ padrão? A complexidade (aqui, número de operações) é diretamente proporcion
 ao número n
 de dígitos, i.e., O(n).
 
-
 / 49
 
 /
-
 
 Quando dizemos que um algoritmo é O(n2), estamos querendo dizer que esse
 algoritmo é da
@@ -747,11 +720,9 @@ forma, é possível responder a maioria das questões de prova sobre esse tema.
 Eventualmente, as
 questões pedem também caso médio e melhor caso, mas é menos comum. Bacana? :-)
 
-
 / 49
 
 /
-
 
 Por último, uma pergunta muito frequente: Professor, já vi questões cobrando Logaritmo
 na Base
@@ -769,11 +740,9 @@ Beleza? Então, não se prendam a base do logaritmo, qualquer uma pode ser
 utilizada na
 representação de complexidade assintótica de algoritmos. Bacana? Exercícios...
 
-
 / 49
 
 /
-
 
 PESQUISA DE DADoS
 
@@ -849,7 +818,6 @@ FIM (BUSCASEQUENCIAL}
 
 *
 
-
 PROCEDIMENTO BUSCA_SEQUENCIAL_REC ( L , N, X )
 
 ENTRADA: UM VETOR L DE TAMANHO N e UM VALOR X
@@ -866,7 +834,6 @@ DEVOLVA 1
 SENÃO
 
 DEVOLVA 0
-
 
 SENÃO
 
@@ -931,7 +898,6 @@ SENÃO
 DEVOLVA BUSCA_BINARIA(L, X, MEIO + 1, FIM)
 FIM {BUSCA_BINARIA}
 
-
 Na imagem abaixo, estamos à procura do valor 23! Em vermelho, encontra-se o elemento
 inicial
 L[0] = 2 e, em amarelo, encontra-se o elemento final L[N-1] = 57. Procuramos, então,
@@ -943,22 +909,20 @@ Ora, L[3] = 19! Encontramos? Não, 23>19! Sendo assim, L[0] = 19 e L[4] = 57.
 Procuramos, então, o elemento central! Como? Ele é o elemento de índice [0 + (N-1)]/2
 = 4/2 =
 
-Item. 2. Ora, L[2] = 51! Encontramos? Não, 23<51! Sendo assim, L[0] = 19 e L[2] = 51.
+2. Ora, L[2] = 51! Encontramos? Não, 23<51! Sendo assim, L[0] = 19 e L[2] = 51.
 Procuramos, então,
 o elemento central! Como? Ele é o elemento de índice [0+ (N-1)]/2 = 2/2 = 1. Ora,
 L[1] = 23!
 Encontramos? Sim! Então, nossa busca obteve êxito e encontramos o que buscávamos.
 
-
 / 49
 
 /
 
-
 QUESTõES CoMENTADAS - MÉToDoS DE ORDENAçÃo -
 MULTIBANCAS
 
-Item. 1. (Instituto Cidades - 2012 - TCM-GO - Auditor de Controle Externo -
+1. (Instituto Cidades - 2012 - TCM-GO - Auditor de Controle Externo -
 Informática) São
 exemplos de algoritmos de ordenação, exceto:
 
@@ -975,7 +939,7 @@ Conforme vimos em aula, a Busca Sequencial não é um algoritmo de ordenação! 
 verdade, ele
 é um método de pesquisa sobre estruturas de dados. Gabarito: D
 
-Item. 2. (FUMARC - 2012 - TJ-MG - Técnico Judiciário - Analista de Sistemas - I)
+2. (FUMARC - 2012 - TJ-MG - Técnico Judiciário - Analista de Sistemas - I)
 Quicksort divide
 um conjunto de itens em conjuntos menores, que são ordenados de forma
 independe, e
@@ -991,7 +955,7 @@ reparte o conjunto de dados em conjuntos menores, que são ordenados
 independentemente e
 depois combinados em uma solução maior. Gabarito: C
 
-Item. 3. (CESPE - 2012 - MPE-PI - Analista Ministerial - Informática - Cargo
+3. (CESPE - 2012 - MPE-PI - Analista Ministerial - Informática - Cargo
 6) O heapsort é um
 algoritmo de ordenação em que a quantidade de elementos armazenada fora do
 arranjo
@@ -1018,17 +982,15 @@ tamanho fixo
 (porém a quantidade de elementos é variável). Como é dito por Neil Dale: "A heapsort
 is just as
 
-
 / 49
 
 /
-
 
 efficient in terms of space; only one array is used to store the data. The heap
 sort requires only
 constante extra space". No entanto, a questão foi dada como correta! Gabarito: C
 
-Item. 4. (CESPE - 2010 - ABIN - Oficial Técnico de Inteligência - Área de Suporte a
+4. (CESPE - 2010 - ABIN - Oficial Técnico de Inteligência - Área de Suporte a
 Rede de Dados)
 A eficácia do método de ordenação rápida (quicksort) depende da escolha do
 pivô mais
@@ -1048,7 +1010,7 @@ valor). Alguns o consideram um algoritmo frágil e não-estável, com baixa tole
 
 Conforme vimos em aula, a questão se refere ao pior caso! Gabarito: E
 
-Item. 5. (CESPE - 2010 - ABIN - Oficial Técnico de Inteligência - Área de Suporte a
+5. (CESPE - 2010 - ABIN - Oficial Técnico de Inteligência - Área de Suporte a
 Rede de Dados)
 A estabilidade de um método de ordenação é importante quando o conjunto de
 dados já
@@ -1078,7 +1040,7 @@ ordenados não fará diferença em termos de ordenação - ambos serão ordenado
 da mesma
 maneira. Gabarito: E
 
-Item. 6. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia
+6. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia
 da Informação -
 Administração de Dados) A classificação interna por inserção é um método que
 realiza a
@@ -1090,13 +1052,11 @@ Comentários:
 
 Conforme vimos em aula, trata-se do InsertionSort! Gabarito: C
 
-
 / 49
 
 /
 
-
-Item. 7. (FCC - 2009 - TRT - 15a Região - Analista Judiciário - Tecnologia
+7. (FCC - 2009 - TRT - 15a Região - Analista Judiciário - Tecnologia
 da Informação) São
 algoritmos de classificação por trocas apenas os métodos:
 
@@ -1118,14 +1078,13 @@ método de Inserção; SelectionSort e HeapSort são métodos de Seleção; e
 MergeSort é um
 método de Intercalação. Gabarito: D
 
-Item. 8. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas - I) O tempo de pior
+8. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas - I) O tempo de pior
 caso do
 algoritmo QuickSort é de ordem menor que o tempo médio do algoritmo Bubblesort.
 
 Comentários:
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
-
 
 BubbleSort
 
@@ -1135,7 +1094,6 @@ O(n2)
 
 O(n2)
 
-
 InsertionSort
 
 O(n)
@@ -1143,7 +1101,6 @@ O(n)
 O(n2)
 
 O(n2)
-
 
 SelectionSort
 
@@ -1153,7 +1110,6 @@ O(n2)
 
 O(n2)
 
-
 QuickSort
 
 O(n log n)
@@ -1161,7 +1117,6 @@ O(n log n)
 O(n log n)
 
 O(n2)
-
 
 ShellSort
 
@@ -1171,7 +1126,6 @@ Depende do gap
 
 O(n2)
 
-
 MergeSort
 
 O(n log n)
@@ -1179,7 +1133,6 @@ O(n log n)
 O(n log n)
 
 O(n log n)
-
 
 HeapSort
 
@@ -1191,18 +1144,15 @@ O(n log n)
 
 Conforme vimos em aula, está incorreto! São iguais: O(n2). Gabarito: E
 
-Item. 9. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas - II) O tempo
+9. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas - II) O tempo
 médio do
 QuickSort é O(nlog2n), pois ele usa como estrutura básica uma árvore de prioridades.
 
 Comentários:
 
-
 , 49
 
-
 Algoritmo Melhor Caso Caso Médio Pior Caso
-
 
 BubbleSort
 
@@ -1212,7 +1162,6 @@ O(n2)
 
 O(n2)
 
-
 InsertionSort
 
 O(n)
@@ -1220,7 +1169,6 @@ O(n)
 O(n2)
 
 O(n2)
-
 
 SelectionSort
 
@@ -1230,7 +1178,6 @@ O(n2)
 
 O(n2)
 
-
 cQuickSort
 
 O(n log n)
@@ -1238,7 +1185,6 @@ O(n log n)
 O(n log n)
 
 O(n2)
-
 
 ShellSort
 
@@ -1248,7 +1194,6 @@ Depende do gap
 
 O(n2)
 
-
 MergeSort
 
 O(n log n)
@@ -1256,7 +1201,6 @@ O(n log n)
 O(n log n)
 
 O(n log n)
-
 
 HeapSort
 
@@ -1278,7 +1222,6 @@ Comentários:
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
-
 BubbleSort
 
 O(n)
@@ -1286,7 +1229,6 @@ O(n)
 O(n2)
 
 O(n2)
-
 
 InsertionSort
 
@@ -1296,7 +1238,6 @@ O(n2)
 
 O(n2)
 
-
 SelectionSort
 
 O(n2)
@@ -1304,7 +1245,6 @@ O(n2)
 O(n2)
 
 O(n2)
-
 
 QuickSort
 
@@ -1314,7 +1254,6 @@ O(n log n)
 
 O(n2)
 
-
 ShellSort
 
 O(n log n)
@@ -1323,7 +1262,6 @@ Depende do gap
 
 O(n2)
 
-
 MergeSort
 
 O(n log n)
@@ -1331,7 +1269,6 @@ O(n log n)
 O(n log n)
 
 O(n log n)
-
 
 HeapSort
 
@@ -1353,11 +1290,9 @@ a) 0(1)
 
 x'
 
-
 / 49
 
 /
-
 
 b) O(log n)
 
@@ -1371,7 +1306,6 @@ Comentários:
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
-
 BubbleSort
 
 O(n)
@@ -1379,7 +1313,6 @@ O(n)
 O(n2)
 
 O(n2)
-
 
 InsertionSort
 
@@ -1389,7 +1322,6 @@ O(n2)
 
 O(n2)
 
-
 SelectionSort
 
 O(n2)
@@ -1397,7 +1329,6 @@ O(n2)
 O(n2)
 
 O(n2)
-
 
 QuickSort
 
@@ -1407,7 +1338,6 @@ O(n log n)
 
 O(n2)
 
-
 ShellSort
 
 O(n log n)
@@ -1416,7 +1346,6 @@ Depende do gap
 
 O(n2)
 
-
 MergeSort
 
 O(n log n)
@@ -1424,7 +1353,6 @@ O(n log n)
 O(n log n)
 
 O(n log n)
-
 
 HeapSort
 
@@ -1454,7 +1382,6 @@ Comentários:
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
-
 BubbleSort
 
 O(n)
@@ -1462,7 +1389,6 @@ O(n)
 O(n2)
 
 O(n2)
-
 
 InsertionSort
 
@@ -1472,7 +1398,6 @@ O(n2)
 
 O(n2)
 
-
 SelectionSort
 
 O(n2)
@@ -1481,11 +1406,9 @@ O(n2)
 
 O(n2)
 
-
 / 49
 
 /
-
 
 QuickSort
 
@@ -1495,7 +1418,6 @@ O(n log n)
 
 O(n2)
 
-
 ShellSort
 
 O(n log n)
@@ -1504,7 +1426,6 @@ Depende do gap
 
 O(n2)
 
-
 MergeSort
 
 O(n log n)
@@ -1512,7 +1433,6 @@ O(n log n)
 O(n log n)
 
 O(n log n)
-
 
 HeapSort
 
@@ -1542,7 +1462,6 @@ Comentários:
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
-
 BubbleSort
 
 O(n)
@@ -1550,7 +1469,6 @@ O(n)
 O(n2)
 
 O(n2)
-
 
 InsertionSort
 
@@ -1560,7 +1478,6 @@ O(n2)
 
 O(n2)
 
-
 SelectionSort
 
 O(n2)
@@ -1568,7 +1485,6 @@ O(n2)
 O(n2)
 
 O(n2)
-
 
 QuickSort
 
@@ -1578,7 +1494,6 @@ O(n log n)
 
 O(n2)
 
-
 ShellSort
 
 O(n log n)
@@ -1587,7 +1502,6 @@ Depende do gap
 
 O(n2)
 
-
 MergeSort
 
 O(n log n)
@@ -1595,7 +1509,6 @@ O(n log n)
 O(n log n)
 
 O(n log n)
-
 
 HeapSort
 
@@ -1617,7 +1530,6 @@ por muitos números inteiros. Que algoritmo de ordenação oferece melhor
 complexidade
 de tempo (Big O notation) no pior caso?
 
-
 a) Merge sort
 b) Insertion sort
 c) Bubble sort
@@ -1628,7 +1540,6 @@ Comentários:
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
-
 BubbleSort
 
 O(n)
@@ -1636,7 +1547,6 @@ O(n)
 O(n2)
 
 O(n2)
-
 
 InsertionSort
 
@@ -1646,7 +1556,6 @@ O(n2)
 
 O(n2)
 
-
 SelectionSort
 
 O(n2)
@@ -1654,7 +1563,6 @@ O(n2)
 O(n2)
 
 O(n2)
-
 
 QuickSort
 
@@ -1664,7 +1572,6 @@ O(n log n)
 
 O(n2)
 
-
 ShellSort
 
 O(n log n)
@@ -1673,7 +1580,6 @@ Depende do gap
 
 O(n2)
 
-
 MergeSort
 
 O(n log n)
@@ -1681,7 +1587,6 @@ O(n log n)
 O(n log n)
 
 O(n log n)
-
 
 HeapSort
 
@@ -1719,9 +1624,7 @@ Comentários:
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
-
 , 49
-
 
 BubbleSort
 
@@ -1731,7 +1634,6 @@ O(n2)
 
 O(n2)
 
-
 InsertionSort
 
 O(n)
@@ -1739,7 +1641,6 @@ O(n)
 O(n2)
 
 O(n2)
-
 
 SelectionSort
 
@@ -1749,7 +1650,6 @@ O(n2)
 
 O(n2)
 
-
 QuickSort
 
 O(n log n)
@@ -1757,7 +1657,6 @@ O(n log n)
 O(n log n)
 
 O(n2)
-
 
 ShellSort
 
@@ -1767,7 +1666,6 @@ Depende do gap
 
 O(n2)
 
-
 MergeSort
 
 O(n log n)
@@ -1775,7 +1673,6 @@ O(n log n)
 O(n log n)
 
 O(n log n)
-
 
 HeapSort
 
@@ -1823,7 +1720,6 @@ Comentários:
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
-
 BubbleSort
 
 O(n)
@@ -1831,7 +1727,6 @@ O(n)
 O(n2)
 
 O(n2)
-
 
 InsertionSort
 
@@ -1841,7 +1736,6 @@ O(n2)
 
 O(n2)
 
-
 SelectionSort
 
 O(n2)
@@ -1849,7 +1743,6 @@ O(n2)
 O(n2)
 
 O(n2)
-
 
 QuickSort
 
@@ -1859,7 +1752,6 @@ O(n log n)
 
 O(n2)
 
-
 ShellSort
 
 O(n log n)
@@ -1868,7 +1760,6 @@ Depende do gap
 
 O(n2)
 
-
 MergeSort
 
 O(n log n)
@@ -1876,7 +1767,6 @@ O(n log n)
 O(n log n)
 
 O(n log n)
-
 
 HeapSort
 
@@ -1949,11 +1839,9 @@ b) pior caso do mergesort é (n2).
 
 x'"'
 
-
 / 49
 
 /
-
 
 c) pior caso do mergesort é (n lg n).
 
@@ -1965,7 +1853,6 @@ Comentários:
 
 Algoritmo Melhor Caso Caso Médio Pior Caso
 
-
 BubbleSort
 
 O(n)
@@ -1973,7 +1860,6 @@ O(n)
 O(n2)
 
 O(n2)
-
 
 InsertionSort
 
@@ -1983,7 +1869,6 @@ O(n2)
 
 O(n2)
 
-
 SelectionSort
 
 O(n2)
@@ -1991,7 +1876,6 @@ O(n2)
 O(n2)
 
 O(n2)
-
 
 QuickSort
 
@@ -2001,7 +1885,6 @@ O(n log n)
 
 O(n2)
 
-
 ShellSort
 
 O(n log n)
@@ -2010,7 +1893,6 @@ Depende do gap
 
 O(n2)
 
-
 MergeSort
 
 O(n log n)
@@ -2018,7 +1900,6 @@ O(n log n)
 O(n log n)
 
 O(n log n)
-
 
 HeapSort
 
@@ -2060,11 +1941,9 @@ conjunto maior. Trata-se, portanto, de um algoritmo do tipo Divisão-e-Conquista
 i.e., repartindo
 os dados em subgrupos, dependendo de um elemento chamado pivô.
 
-
 / 49
 
 /
-
 
 Neste método, a lista é dividida em parte esquerda e parte direita, sendo que os
 elementos da
@@ -2126,11 +2005,9 @@ de um método de busca; (e) Trata-se do QuickSort. Portanto, é a quarta opção
 Tecnologia da Informação)
 Considere o método de ordenação abaixo.
 
-
 / 49
 
 /
-
 
 void ordena(int m, int x[]} {
 int âux, j j. i;
@@ -2175,15 +2052,13 @@ O algoritmo realiza trocas de dois em dois, percorrendo todos os elementos. Como
 vimos, esse
 algoritmo é o Bubble Sort. Gabarito: C
 
-
 , 49
-
 
 QUESTõES CoMENTADAS - CoMPLEXIDADE DE
 
 ALGoRITMoS - MULTIBANCAS
 
-Item. 1. (VUNESP - 2012 - TJ/SP - Analista Judiciário - Tecnologia da Informação)
+1. (VUNESP - 2012 - TJ/SP - Analista Judiciário - Tecnologia da Informação)
 Considerando o
 conceito de Complexidade de Algoritmos, representado por O(função),
 assinale a
@@ -2225,7 +2100,7 @@ O(n!) Fatorial
 
 Conforme vimos em aula, basta consultar a tabelinha! Gabarito: D
 
-Item. 2. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia
+2. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia
 da Informação)
 Numa competição de programação, ganhava mais pontos o time que
 apresentasse o
@@ -2235,11 +2110,9 @@ complexidade assintótica (notação Big O) dos algoritmos elaborados está
 ilustrada na
 tabela abaixo.
 
-
 / 49
 
 /
-
 
 Time
 Branco
@@ -2298,16 +2171,14 @@ Conforme vimos em aula, basta consultar a tabelinha! O primeiro é o time Azul (
 e o segundo
 é o time Amarelo (O(n log n)). Gabarito: B
 
-
 / 49
 
 /
 
-
 QUESTõES CoMENTADAS - PESQUISA DE DADoS -
 MULTIBANCAS
 
-Item. 1. (CESPE - 2013 - TRT/MS - Analista de Sistemas) Considerando que se deseje efetuar
+1. (CESPE - 2013 - TRT/MS - Analista de Sistemas) Considerando que se deseje efetuar
 uma
 pesquisa de um valor sobre a chave primária de uma tabela de um banco de
 dados com
@@ -2382,11 +2253,9 @@ listas
 pequenas e que mudam constantemente. Observa-se que no Melhor Caso, X está
 na primeira
 
-
 / 49
 
 /
-
 
 posição, logo necessita apenas de uma comparação; no Pior Caso, X está na última
 posição, logo
@@ -2410,7 +2279,7 @@ e) Conforme vimos em aula, não é necessário que a lista esteja ordenada. Logo
 não fará
 diferença. Gabarito: A
 
-Item. 2. (ESAF - 2001 - BACEN - Analista de Sistemas) Na pior hipótese, o número de
+2. (ESAF - 2001 - BACEN - Analista de Sistemas) Na pior hipótese, o número de
 comparações
 necessárias para pesquisar um elemento em um array de 2048 elementos pelo
 método de
@@ -2442,7 +2311,7 @@ do vetor de busca - no nosso caso, 2048! Quanto é Iog2 2048? 11! Por que,
 professor? Porque
 211 = 2048! Gabarito: D
 
-Item. 3. (CESPE - 2013 - TCE/RO - Analista de Sistemas) Considere uma tabela de um banco
+3. (CESPE - 2013 - TCE/RO - Analista de Sistemas) Considere uma tabela de um banco
 de
 dados com chave primária e tipo de campo que receba um valor inteiro. Ao se efetuar
 uma
@@ -2459,11 +2328,9 @@ de divisão-e-
 conquista. Parte-se do pressuposto de que o vetor está ordenado e realiza sucessivas
 divisões do
 
-
 / 49
 
 /
-
 
 espaço de busca, comparando o elemento chave com o elemento do meio do
 vetor. Possui
@@ -2471,7 +2338,7 @@ complexidade da ordem de O(log2 n), em que N é o tamanho do vetor de busca.
 
 Conforme vimos em aula, de fato a complexidade da Busca Binária é O(log2 n). Gabarito: C
 
-Item. 4. (FCC - 2016 - TRT - 14a Região (RO e AC) - Analista Judiciário - Tecnologia
+4. (FCC - 2016 - TRT - 14a Região (RO e AC) - Analista Judiciário - Tecnologia
 da Informação)
 Dada uma coleção de n elementos ordenados por ordem crescente, pretende-se
 saber se
@@ -2503,16 +2370,14 @@ espaço de busca, comparando o elemento chave com o elemento do meio do
 vetor. Possui
 complexidade da ordem de O(log2 n), em que N é o tamanho do vetor de busca. Gabarito: D
 
-
 / 49
 
 /
 
-
 LISTA DE QUESTõES - MÉToDoS DE ORDENAçÃo -
 MULTIBANCAS
 
-Item. 1. (Instituto Cidades - 2012 - TCM-GO - Auditor de Controle Externo -
+1. (Instituto Cidades - 2012 - TCM-GO - Auditor de Controle Externo -
 Informática) São
 exemplos de algoritmos de ordenação, exceto:
 
@@ -2523,7 +2388,7 @@ d) Busca Sequencial;
 
 e) Quick Sort;
 
-Item. 2. (FUMARC - 2012 - TJ-MG - Técnico Judiciário - Analista de Sistemas - I)
+2. (FUMARC - 2012 - TJ-MG - Técnico Judiciário - Analista de Sistemas - I)
 Quicksort divide
 um conjunto de itens em conjuntos menores, que são ordenados de forma
 independe, e
@@ -2531,13 +2396,13 @@ depois os resultados são combinados para produzir a solução de ordenação do
 conjunto
 maior.
 
-Item. 3. (CESPE - 2012 - MPE-PI - Analista Ministerial - Informática - Cargo
+3. (CESPE - 2012 - MPE-PI - Analista Ministerial - Informática - Cargo
 6) O heapsort é um
 algoritmo de ordenação em que a quantidade de elementos armazenada fora do
 arranjo
 de entrada é constante durante toda a sua execução.
 
-Item. 4. (CESPE - 2010 - ABIN - Oficial Técnico de Inteligência - Área de Suporte a
+4. (CESPE - 2010 - ABIN - Oficial Técnico de Inteligência - Área de Suporte a
 Rede de Dados)
 A eficácia do método de ordenação rápida (quicksort) depende da escolha do
 pivô mais
@@ -2545,13 +2410,13 @@ adequado ao conjunto de dados que se deseja ordenar. A situação ótima
 ocorre quando o
 pivô escolhido é igual ao valor máximo ou ao valor mínimo do conjunto de dados.
 
-Item. 5. (CESPE - 2010 - ABIN - Oficial Técnico de Inteligência - Área de Suporte a
+5. (CESPE - 2010 - ABIN - Oficial Técnico de Inteligência - Área de Suporte a
 Rede de Dados)
 A estabilidade de um método de ordenação é importante quando o conjunto de
 dados já
 está parcialmente ordenado.
 
-Item. 6. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia
+6. (CESPE - 2010 - Banco da Amazônia - Técnico Científico - Tecnologia
 da Informação -
 Administração de Dados) A classificação interna por inserção é um método que
 realiza a
@@ -2559,17 +2424,15 @@ ordenação de um vetor por meio da inserção de cada elemento em sua
 posição correta
 dentro de um subvetor classificado.
 
-Item. 7. (FCC - 2009 - TRT - 15a Região - Analista Judiciário - Tecnologia
+7. (FCC - 2009 - TRT - 15a Região - Analista Judiciário - Tecnologia
 da Informação) São
 algoritmos de classificação por trocas apenas os métodos:
 
 a) SelectionSort e InsertionSort.
 
-
 / 49
 
 /
-
 
 b) MergeSort e BubbleSort.
 
@@ -2579,11 +2442,11 @@ d) BubbleSort e QuickSort.
 
 e) InsertionSort e MergeSort.
 
-Item. 8. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas - I) O tempo de pior
+8. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas - I) O tempo de pior
 caso do
 algoritmo QuickSort é de ordem menor que o tempo médio do algoritmo Bubblesort.
 
-Item. 9. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas - II) O tempo
+9. (CESGRANRIO - 2011 - PETROBRÁS - Analista de Sistemas - II) O tempo
 médio do
 QuickSort é O(nlog2n), pois ele usa como estrutura básica uma árvore de prioridades.
 
@@ -2607,7 +2470,7 @@ d) O(n log n)
 
 e) O(n2)
 
-Item. 12. (CESPE - 2010 - INMETRO - Analista de Sistemas) Se f é uma função de
+12. (CESPE - 2010 - INMETRO - Analista de Sistemas) Se f é uma função de
 complexidade
 para um algoritmo F, então O(f) é considerada a complexidade
 assintótica ou o
@@ -2629,11 +2492,9 @@ a) Selectionsort (seleção)
 
 b) Insertionsort (inserção)
 
-
 / 49
 
 /
-
 
 c) Merge sort
 d) Quicksort
@@ -2696,11 +2557,9 @@ a) Utiliza ordenação por árvore de decisão, ao invés de ordenação por com
 
 x'
 
-
 / 49
 
 /
-
 
 b) A estrutura de dados que utiliza, chamada heap, pode ser interpretada como uma
 árvore
@@ -2732,7 +2591,7 @@ instrução em quatro blocos diferentes de busca, é um exemplo de estrutura
 de ordenação
 de dados.
 
-Item. 22. (CESPE - 2013 - CPRM - Analista de Sistemas) No algoritmo de
+22. (CESPE - 2013 - CPRM - Analista de Sistemas) No algoritmo de
 ordenação denominado
 quicksort, escolhe-se um ponto de referência, denominado pivô, e
 separam-se os
@@ -2768,17 +2627,15 @@ b) seleção direta.
 
 c) inserção por meio de incrementos decrescentes.
 
-
 / 49
 
 /
-
 
 d) direta em cadeias.
 
 e) particionamento.
 
-Item. 26. (FCC - 2016 - TRT - 23a REGIÃO (MT) - Analista Judiciário - Tecnologia da Informação)
+26. (FCC - 2016 - TRT - 23a REGIÃO (MT) - Analista Judiciário - Tecnologia da Informação)
 Considere o método de ordenação abaixo.
 
 void ordena(int m, int x[]} {
@@ -2816,49 +2673,46 @@ d) Shell Sort.
 
 e) Quick Sort.
 
-
 / 49
 
 /
-
 
 GABARITo
 
 GABARITO
 
-Item. 1. D 10.C
+1. D 10.C
 19.B
 
-Item. 2. C 11.E
+2. C 11.E
 20.C
 
-Item. 3. C 12.E
+3. C 12.E
 21.E
 
-Item. 4. E 13.B
+4. E 13.B
 22.C
 
-Item. 5. E 14.A
+5. E 14.A
 23.E
 
-Item. 6. C 15.C
-Item. 24. E
+6. C 15.C
+24. E
 
-Item. 7. D 16.E
+7. D 16.E
 25.D
 
-Item. 8. E 17.E
+8. E 17.E
 26.C
 
-Item. 9. E 18.C
+9. E 18.C
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 LISTA DE QUESTõES - CoMPLEXIDADE DE ALGoRITMoS -
 MULTIBANCAS
 
-Item. 1. (VUNESP - 2012 - TJ/SP - Analista Judiciário - Tecnologia da Informação)
+1. (VUNESP - 2012 - TJ/SP - Analista Judiciário - Tecnologia da Informação)
 Considerando o
 conceito de Complexidade de Algoritmos, representado por O(função),
 assinale a
@@ -2874,7 +2728,7 @@ d) O(log2 n); O(n.log2 n); O(n2); O(n3); O(2n).
 
 e) O(n.log2 n); O(log2 n); O(2n); O(n3); O(n2).
 
-Item. 2. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia
+2. (FCC - 2010 - TRT - 8a Região (PA e AP) - Analista Judiciário - Tecnologia
 da Informação)
 Numa competição de programação, ganhava mais pontos o time que
 apresentasse o
@@ -2883,7 +2737,6 @@ problema. A
 complexidade assintótica (notação Big O) dos algoritmos elaborados está
 ilustrada na
 tabela abaixo.
-
 
 Time
 Branco
@@ -2917,28 +2770,24 @@ e) Vermelho.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital) x' 44
 
-
 / 49
 
 /
-
 
 GABARITo
 
 GABARITO
 
-Item. 1. D
+1. D
 
-Item. 2. B
-
+2. B
 
 /
-
 
 LISTA DE QUESTõES - PESQUISA DE DADoS -
 MULTIBANCAS
 
-Item. 1. (CESPE - 2013 - TRT/MS - Analista de Sistemas) Considerando que se deseje
+1. (CESPE - 2013 - TRT/MS - Analista de Sistemas) Considerando que se deseje
 efetuar uma
 pesquisa de um valor sobre a chave primária de uma tabela de um banco de
 dados com
@@ -2970,7 +2819,7 @@ pesquisado quando a tabela estiver ordenada em comparação à situação quando
 tabela
 estiver desordenada.
 
-Item. 2. (ESAF - 2001 - BACEN - Analista de Sistemas) Na pior hipótese, o número de
+2. (ESAF - 2001 - BACEN - Analista de Sistemas) Na pior hipótese, o número de
 comparações
 necessárias para pesquisar um elemento em um array de 2048 elementos pelo
 método de
@@ -2986,7 +2835,7 @@ d) 11
 
 e) 12
 
-Item. 3. (CESPE - 2013 - TCE/RO - Analista de Sistemas) Considere uma tabela de um banco
+3. (CESPE - 2013 - TCE/RO - Analista de Sistemas) Considere uma tabela de um banco
 de
 dados com chave primária e tipo de campo que receba um valor inteiro. Ao se efetuar
 uma
@@ -2996,7 +2845,7 @@ requer, no máximo, lg(n) comparações para localizar o elemento pesquisado, em
 que n é
 o número de registros.
 
-Item. 4. (FCC - 2016 - TRT - 14a Região (RO e AC) - Analista Judiciário - Tecnologia
+4. (FCC - 2016 - TRT - 14a Região (RO e AC) - Analista Judiciário - Tecnologia
 da Informação)
 Dada uma coleção de n elementos ordenados por ordem crescente, pretende-se
 saber se
@@ -3007,11 +2856,9 @@ implementada como sendo um vetor a[0...n-1] de n elementos inteiros, utilizando-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital) x' 46
 
-
 / 49
 
 /
-
 
 algoritmo de pesquisa binária, o número de vezes que a comparação
 x==a[i] será
@@ -3027,21 +2874,17 @@ d) Iog2(n).
 
 e) n-=2.
 
-
 I
-
 
 GABARITo
 
 GABARITO
 
+1. A
 
-Item. 1. A
+2. D
 
-Item. 2. D
+3. C
 
-Item. 3. C
-
-Item. 4. D
-
+4. D
 

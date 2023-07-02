@@ -1,5 +1,4 @@
-Capítulo. Legislação Geral e Específica - Política Nacional de Segurança da Informação.
-
+# Legislação Geral e Específica - Política Nacional de Segurança da Informação.
 
 Índice
 
@@ -8,7 +7,6 @@ Capítulo. Legislação Geral e Específica - Política Nacional de Segurança d
 2) Questões Comentadas - Política Nacional de Segurança da Informação: Capítulo II
 
 3) Lista de Questões - Política Nacional de Segurança da Informação: Capítulo II
-
 
 - Equipe Legislação (Somente PDF)
 
@@ -48,7 +46,6 @@ ATENÇÃO, DECORE!
 Art. 3Q São princípios da PNSI:
 
 I - soberania nacional;
-
 
 - Equipe Legislação (Somente PDF)
 
@@ -105,8 +102,7 @@ devemos nos preparar para questionamentos mais aprofundados.
 
 Sendo assim, trarei a lista de princípios de modo mais dinâmico, tecendo os comentários prudentes:
 
-Item. 1. Soberania nacional
-
+1. Soberania nacional
 
 - Equipe Legislação (Somente PDF)
 
@@ -116,7 +112,7 @@ realidade se mantém,
 devendo o Brasil definir como um tema sensível como esse deve ser tratado no âmbito interno e
 externo.
 
-Item. 2. Respeito e promoção dos direitos humanos e das garantias fundamentais, em especial a liberdade
+2. Respeito e promoção dos direitos humanos e das garantias fundamentais, em especial a liberdade
 de expressão, a proteção de dados pessoais, a proteção da privacidade e o acesso à informação
 
 Temos, aqui, a clara preocupação natural do Brasil com os direitos humanos, garantias
@@ -129,13 +125,13 @@ de harmonizar esses institutos, de modo que dados pessoais e privacidade
 estão protegidos, ao mesmo
 tempo em que se assegura a liberdade de expressão e acesso à informação.
 
-Item. 3. Visão abrangente e sistêmica da segurança da informação;
+3. Visão abrangente e sistêmica da segurança da informação;
 
 Visão abrangente e sistêmica diz respeito à visão ampla sobre o tema, de modo que se
 adeque à
 sociedade e instituições como um todo.
 
-Item. 4. Responsabilidade do País na coordenação de esforços e no estabelecimento de políticas,
+4. Responsabilidade do País na coordenação de esforços e no estabelecimento de políticas,
 estratégias e diretrizes relacionadas à segurança da informação;
 
 Em outras palavras, o Brasil , o Estado, é responsável pelas políticas, estratégias e
@@ -144,7 +140,7 @@ relacionadas à segurança da informação, daí a necessidade de regulamentaç�
 sendo
 feito nos últimos anos com evidentes avanços na área.
 
-Item. 5. Intercâmbio científico e tecnológico relacionado à segurança da informação entre os órgãos e
+5. Intercâmbio científico e tecnológico relacionado à segurança da informação entre os órgãos e
 as
 entidades da administração pública federal;
 
@@ -158,26 +154,25 @@ instituição para instituição. Imaginem se eles estariam seguros num deles e 
 no outro. Por isso a
 princípio.
 
-Item. 6. Preservação do acervo histórico nacional;
+6. Preservação do acervo histórico nacional;
 
 A preservação do acervo histórico nacional se dá justamente com uma política de
 segurança de
 informação que funcione a contento. Por isso a correlação e o princípio.
 
-Item. 7. Educação como alicerce fundamental para o fomento da cultura em segurança da informação;
+7. Educação como alicerce fundamental para o fomento da cultura em segurança da informação;
 
 A educação sempre é tópico de qualquer assunto. Se precisamos incutir uma cultura de
 segurança da
 informação, devemos promover educação para tal.
 
-Item. 8. Orientação à gestão de riscos e à gestão da segurança da informação;
+8. Orientação à gestão de riscos e à gestão da segurança da informação;
 
-Item. 9. Prevenção e tratamento de incidentes de segurança da informação;
+9. Prevenção e tratamento de incidentes de segurança da informação;
 
-Item. 10. Articulação entre as ações de segurança cibernética, de defesa cibernética e de proteção de
+10. Articulação entre as ações de segurança cibernética, de defesa cibernética e de proteção de
 dados
 e ativos da informação;
-
 
 - Equipe Legislação (Somente PDF)
 
@@ -185,7 +180,7 @@ Deixei esses três na sequência, pois todos têm a ver com segurança, risco, i
 E obviamente
 que os princípios sinalizam no caminho da prevenção, da preocupação com a "segurança da segurança".
 
-Item. 11. Dever dos órgãos, das entidades e dos agentes públicos de garantir o sigilo das
+11. Dever dos órgãos, das entidades e dos agentes públicos de garantir o sigilo das
 informações
 imprescindíveis à segurança da sociedade e do Estado e a inviolabilidade da intimidade
 da vida
@@ -195,7 +190,7 @@ Isso é tema constitucional. Vimos que o Brasil tem responsabilidade da gestão 
 segurança da
 informação e é o Estado quem deve garantir o sigilo.
 
-Item. 12. Need to know para o acesso à informação sigilosa, nos termos da legislação;
+12. Need to know para o acesso à informação sigilosa, nos termos da legislação;
 
 Pessoal, esse tal "need to know" diz respeito simplesmente à disponibilização do acesso
 à informação
@@ -205,7 +200,7 @@ alguém não autorizado. Em outras palavras, trata-se de uma técnica de control
 restringindo o acesso a
 dados e informações.
 
-Item. 13. Consentimento do proprietário da informação sigilosa recebida de outros países, nos
+13. Consentimento do proprietário da informação sigilosa recebida de outros países, nos
 casos dos
 acordos internacionais;
 
@@ -213,28 +208,27 @@ Autoexplicativo. Em caso de informação sigilosa recebida de outros países, no
 acordos
 internacionais deve haver consentimento.
 
-Item. 14. Cooperação entre os órgãos de investigação e os órgãos e as entidades públicas no
+14. Cooperação entre os órgãos de investigação e os órgãos e as entidades públicas no
 processo de
 credenciamento de pessoas para acesso às informações sigilosas;
 
-Item. 15. Integração e cooperação entre o Poder Público, o setor empresarial, a sociedade e
+15. Integração e cooperação entre o Poder Público, o setor empresarial, a sociedade e
 as instituições
 acadêmicas; e
 
-Item. 16. Cooperação internacional, no campo da segurança da informação.
+16. Cooperação internacional, no campo da segurança da informação.
 
 O tema central desses princípios é a cooperação! Entre todos esses personagens apontados.
 Com isso fechamos a aulinha de hoje. Abaixo preparei algumas questões para fixação.
 
 Bons estudos e até a próxima!
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concur
 - Equipe Legislação (Somente PDF)
 
 QUESTõES CoMENTADAS
 
-Item. 1. (Inédita - Estratégia Concursos) São Princípios da Política Nacional de
+1. (Inédita - Estratégia Concursos) São Princípios da Política Nacional de
 Segurança da Informação,
 previstos no Art. 3Q do Decreto n5 9.637/2018:
 
@@ -266,7 +260,7 @@ Os três primeiros princípios realmente fazem parte da norma. Porém o item IV 
 invenção do professor.
 Por isso, temos I, II e III certos. A alternativa B está correta e é o gabarito da questão.
 
-Item. 2. (Inédita - Estratégia Concursos) Não se trata de um dos Princípios da Política Nacional
+2. (Inédita - Estratégia Concursos) Não se trata de um dos Princípios da Política Nacional
 de Segurança
 da Informação, previstos no Art. 3Q do Decreto n^ 9.637/2018:
 
@@ -292,10 +286,9 @@ dos órgãos e entidades estaduais e municipais. Por isso, a alternativa A está
 incorreta e é o gabarito da
 questão.
 
-
 - Equipe Legislação (Somente PDF)
 
-Item. 3. (Inédita - Estratégia Concursos) Assinale a alternativa que traz corretamente
+3. (Inédita - Estratégia Concursos) Assinale a alternativa que traz corretamente
 Princípios da Política
 Nacional de Segurança da Informação, previstos no Art. 3° do Decreto n4 5 9.637/2018:
 
@@ -335,7 +328,7 @@ A alternativa E está incorreta. Esses são alguns dos princípios que regem o
 Brasil nas suas relações
 internacionais.
 
-Item. 4. (Inédita - Estratégia Concursos) Analise um dos Princípios da Política
+4. (Inédita - Estratégia Concursos) Analise um dos Princípios da Política
 Nacional de Segurança da
 Informação, previstos no Art. 3- do Decreto n5 9.637/2018:
 
@@ -352,7 +345,6 @@ b) recebimento das informações
 c) ajuste de informações
 d) compartilhamento de informações
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concur
 - Equipe Legislação (Somente PDF)
 
@@ -367,7 +359,7 @@ intimidade da vida
 privada, da honra e da imagem das pessoas. Portanto a alternativa E está correta e é o gabarito da
 questão.
 
-Item. 5. (Inédita - Estratégia Concursos) A alternativa que lista incorretamente um dos
+5. (Inédita - Estratégia Concursos) A alternativa que lista incorretamente um dos
 Princípios da Política
 Nacional de Segurança da Informação, previstos no Art. 3° do Decreto n^ 9.637/2018 é:
 
@@ -389,7 +381,7 @@ O equívoco está no fato de que a visão deve ser abrangente e sistêmica da se
 da informação. Sendo
 assim, a alternativa C está incorreta e é o gabarito da questão.
 
-Item. 6. (Inédita - Estratégia Concursos) Aponte a alternativa que traz um equívoco
+6. (Inédita - Estratégia Concursos) Aponte a alternativa que traz um equívoco
 relativo aos Princípios
 da Política Nacional de Segurança da Informação, previstos no Art. 3Q do Decreto n5 9.637/2018.
 
@@ -409,10 +401,9 @@ cibernética e de proteção de dados e ativos da informação. Por isso, a alte
 está incorreta e é o
 gabarito da questão.
 
-Item. 7. (Inédita - Estratégia Concursos) Qual dos Princípios da Política
+7. (Inédita - Estratégia Concursos) Qual dos Princípios da Política
 Nacional de Segurança da
 Informação, previstos no Art. 3- do Decreto n5 9.637/2018 está descrito incorretamente abaixo?
-
 
 - Equipe Legislação (Somente PDF)
 
@@ -440,7 +431,7 @@ outros países, nos casos dos acordos internacionais e não nacionais. Por isso,
 alternativa C está incorreta
 e é o gabarito da questão.
 
-Item. 8. (Inédita - Estratégia Concursos) Trata-se de Princípio da Política
+8. (Inédita - Estratégia Concursos) Trata-se de Princípio da Política
 Nacional de Segurança da
 Informação, previsto no Art. 39 do Decreto n5 9.637/2018:
 
@@ -457,13 +448,12 @@ gabarito. A alternativa A
 
 está correta e é o gabarito da questão.
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concur
 - Equipe Legislação (Somente PDF)
 
 LISTA DE QUESTõES
 
-Item. 1. Inédita - Estratégia Concursos) São Princípios da Política Nacional de
+1. Inédita - Estratégia Concursos) São Princípios da Política Nacional de
 Segurança da Informação,
 previstos no Art. 3- do Decreto n5 9.637/2018:
 
@@ -489,7 +479,7 @@ d) II e III
 
 e) III e IV
 
-Item. 2. (Inédita - Estratégia Concursos) Não se trata de um dos Princípios da Política Nacional
+2. (Inédita - Estratégia Concursos) Não se trata de um dos Princípios da Política Nacional
 de Segurança
 da Informação, previstos no Art. 3Q do Decreto n^ 9.637/2018:
 
@@ -505,7 +495,7 @@ d) orientação à gestão de riscos e à gestão da segurança da informação;
 
 e) prevenção e tratamento de incidentes de segurança da informação;
 
-Item. 3. (Inédita - Estratégia Concursos) Assinale a alternativa que traz corretamente
+3. (Inédita - Estratégia Concursos) Assinale a alternativa que traz corretamente
 Princípios da Política
 Nacional de Segurança da Informação, previstos no Art. 3° do Decreto nQ 9.637/2018:
 
@@ -519,7 +509,6 @@ c) cooperação entre os órgãos de investigação e os órgãos e as entidades
 públicos no processo de
 credenciamento de pessoas para acesso às informações sigilosas, integração e cooperação entre o
 Poder
-
 
 - Equipe Legislação (Somente PDF)
 
@@ -537,7 +526,7 @@ e) independência nacional, prevalência dos direitos humanos,
 autodeterminação dos povos e não-
 intervenção.
 
-Item. 4. (Inédita - Estratégia Concursos) Analise um dos Princípios da Política
+4. (Inédita - Estratégia Concursos) Analise um dos Princípios da Política
 Nacional de Segurança da
 Informação, previstos no Art. 3- do Decreto n5 9.637/2018:
 
@@ -555,7 +544,7 @@ c) ajuste de informações
 d) compartilhamento de informações
 e) sigilo das informações
 
-Item. 5. (Inédita - Estratégia Concursos) A alternativa que lista incorretamente um dos
+5. (Inédita - Estratégia Concursos) A alternativa que lista incorretamente um dos
 Princípios da Política
 Nacional de Segurança da Informação, previstos no Art. 3° do Decreto nQ 9.637/2018 é:
 
@@ -571,14 +560,13 @@ e) intercâmbio científico e tecnológico relacionado à segurança da informa�
 órgãos e as entidades
 da administração pública federal
 
-Item. 6. (Inédita - Estratégia Concursos) Aponte a alternativa que traz um equívoco
+6. (Inédita - Estratégia Concursos) Aponte a alternativa que traz um equívoco
 relativo aos Princípios
 da Política Nacional de Segurança da Informação, previstos no Art. 3Q do Decreto n5 9.637/2018.
 
 a) preservação do acervo histórico nacional
 b) educação como alicerce fundamental para o fomento da cultura em segurança da informação
 c) orientação à gestão de riscos e à gestão da segurança da informação
-
 
 Antonio Daud, Equipe Legislação Específica Estratégia Concur
 - Equipe Legislação (Somente PDF)
@@ -588,7 +576,7 @@ e) desarticulação entre as ações de segurança cibernética, de defesa ciber
 proteção de dados e
 ativos da informação
 
-Item. 7. (Inédita - Estratégia Concursos) Qual dos Princípios da Política
+7. (Inédita - Estratégia Concursos) Qual dos Princípios da Política
 Nacional de Segurança da
 Informação, previstos no Art. 3- do Decreto n5 9.637/2018 está descrito incorretamente abaixo?
 
@@ -608,7 +596,7 @@ e) integração e cooperação entre o Poder Público, o setor empresarial, a
 sociedade e as instituições
 acadêmicas
 
-Item. 8. (Inédita - Estratégia Concursos) Trata-se de Princípio da Política Nacional
+8. (Inédita - Estratégia Concursos) Trata-se de Princípio da Política Nacional
 de Segurança da
 Informação, previsto no Art. 3° do Decreto n5 9.637/2018:
 
@@ -618,10 +606,8 @@ c) cooperação internacional para dados de direitos humanos
 d) cooperação federal, estadual e municipal para proteção de dados sensíveis
 e) cooperação entre as sociedades para proteção de direitos humanos
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Equipe Legislação (Somente PDF)
 
 k GABARITO -À
-
 

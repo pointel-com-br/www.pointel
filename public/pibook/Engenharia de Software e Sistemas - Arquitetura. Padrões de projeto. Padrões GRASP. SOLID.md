@@ -1,10 +1,8 @@
-Capítulo. Engenharia de Software e Sistemas - Arquitetura. Padrões de projeto. Padrões GRASP. SOLID.
-
+# Engenharia de Software e Sistemas - Arquitetura. Padrões de projeto. Padrões GRASP. SOLID.
 
 Índice
 
 1) Padrões de Projeto
-
 
 2) Padrões de Projeto - Padrões Criacionais.
 
@@ -41,7 +39,6 @@ Capítulo. Engenharia de Software e Sistemas - Arquitetura. Padrões de projeto.
 18) Princípios SOLID - Questões Comentadas.
 
 19) Princípios SOLID - Lista de Questões.
-
 
 PADRõES DE PRoJETo - GANG oF FoUR (GOF)
 
@@ -112,7 +109,6 @@ conhecidos como The Gang of Four (GoF), resolveram compilar um conjunto de bibli
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
 
-
 soluções para problemas comuns de codificação e lançaram um livro clássico com 23
 Padrões
 de Projeto de Software.
@@ -176,7 +172,6 @@ usarqualquerparadigma ou linguagem!
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
 
-
 Propósito
 
 Criação Estrutura Comportamento
@@ -187,7 +182,6 @@ Abstract Factory Bridge Command
 Prototype Composite Iterator
 
 Singlenton Decorator Mediator
-
 
 Factory Method Facade
 Flyweight
@@ -229,7 +223,6 @@ A FÁÊRICA ASSTRATA CONSTRÓI UM PROTÓTIPO ÚNICO. A FÁSRICA ASSTRATA CONSTR�
 A FÁSRICA ASSTRATA CONSTRÓI UM PROTÓTIPO ÚNICO. A FÁSRICA ASSTRATA CONSTRÓI UM PROTÓTIPO
 ÚNICO.
 
-
 A FÁSRICA ASSTRATA CONSTRÓI UM PROTÓTIPO ÚNICO.
 A FÁSRICA ASSTRATA CONSTRÓI UM PROTÓTIPO ÚNICO.
 A FÁSRICA ASSTRATA CONSTRÓI UM PROTÓTIPO ÚNICO.
@@ -267,7 +260,6 @@ estrutural, é um padrão comportamental.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
-
 
 Padrões Criacionais
 
@@ -396,7 +388,6 @@ dados da mãe e filhos. Logo, sabe-se que atributos como Endereço, Telefone
 Residencial,
 Nacionalidade, etc provavelmente serão idênticos para todos os membros da família.
 
-
 Logo, ao invés de se criar objeto para cada membro e preenchê-los um a um
 integralmente, pode-
 se clonar o objeto pai já preenchido e modificar apenas os atributos diferentes, como
@@ -426,7 +417,6 @@ classe de conexão com o banco de dados várias vezes.
 O Padrão Singleton garante que só haverá uma instância de conexão com o banco de
 dados e,
 assim, assegura que-durante a execução-a classe será instanciada apenas uma única vez.
-
 
 Padrões Estruturais
 
@@ -552,7 +542,6 @@ objeto sanduíche anexe diversas responsabilidades dinamicamente. Dessa forma, e
 tempo de
 execução, à medida que se adicione um novo ingrediente, cria-se mais uma responsabilidade.
 
-
 Ao contrário da herança, que aplica funcionalidades a todos os seus objetos, o
 Decorator aplica
 funcionalidades apenas a um objeto específico.
@@ -615,7 +604,6 @@ Proxy
 Esse padrão provê um substituto ou ponto através do qual um objeto pode controlar o acesso a
 outro objeto.
 
-
 Esse padrão de projeto deve ser utilizado quando houver uma necessidade de uma
 referência mais
 versátil ou sofisticada para um objeto do que um simples ponteiro. Por exemplo,
@@ -635,7 +623,6 @@ ocorrendo de maneira transparente para o usuário.
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
-
 
 Padrões Comportamentais
 
@@ -694,7 +681,6 @@ mesmo
 interruptor. Logo, o interruptortem sua interface encapsulada, logo pode ser utilizado
 em qualquer
 dispositivo que tenha uma interface Ligar/Desligar.
-
 
 Imaginem agora uma classe que faz diversas conexões a um banco de dados.
 Não é
@@ -758,7 +744,6 @@ comunicar com muitos outros objetos. Ademais, ele é utilizado quando um
 comportamento
 distribuído entre diversas classes puder ser customizado sem a criação de muitas subclasses.
 
-
 Considerem a hipótese de um software complexo com grandes quantidades de classes, de
 tal
 modo que a lógica de processamento está distribuída entre elas. Todo mundo sabe que,
@@ -817,7 +802,6 @@ utilizado quando uma abstração possuir dois aspectos, sendo um dependente do o
 disso, sua utilização é recomendada quando um objeto for capaz de notificar outros sem
 assumir
 quem são. Certinho?
-
 
 Considerem a hipótese de uma tabela de classificação do campeonato brasileiro com um
 gráfico de
@@ -938,7 +922,6 @@ alguns
 elementos, mas não se aplicam a outros, isto é, uma cerveja já possui um valor, mas uma maça
 precisa ser pesada. No entanto, ambas fazem parte da mesma estrutura de dados.
 
-
 Galera, vou ser bem sincero com vocês: esse assunto é muuuuuuuuuuuuito chato - e
 também é
 muito decoreba! Então, vou explicar o que eu recomendo para o estudo dessa aula —
@@ -989,7 +972,6 @@ SINGLETON
 
 SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
-
 
 Converte uma interface em outra, por serem incompatíveis...
 ADAPTER
@@ -1045,7 +1027,6 @@ TEMPLATEMETHOD
 Operação a ser realizada sobre uma estrutura de objetos...
 VISITOR
 
-
 RESUMo
 
 Propósito
@@ -1058,7 +1039,6 @@ Abstract Factory Bridge Command
 Prototype Composite Iterator
 
 Singlenton Decorator Medi ator
-
 
 Factory Method Facade
 Flyweight
@@ -1073,7 +1053,6 @@ Visitor
 Interpreter
 
 Template Method
-
 
 PADRÕES
 CRIACIONAIS
@@ -1105,7 +1084,6 @@ global a ela.
 Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual
 classe instanciar.
 
-
 PADRÕES
 ESTRUTURAIS
 
@@ -1116,12 +1094,10 @@ DESCRIÇÃO
 Esse padrão converte a interface de uma classe em outra interface que normalmente não
 poderiam trabalhar juntas por serem incompatíveis.
 
-
 BRIDGE
 
 Esse padrão desacopla uma interface de sua implementação, de forma que ambas possam
 variar independentemente.
-
 
 COMPOSITE
 
@@ -1130,7 +1106,6 @@ parte-todo,
 permitindo aos clientes tratarem objetos individuais e composições
 de objetos
 uniformemente.
-
 
 DECORATOR
 
@@ -1154,7 +1129,6 @@ Esse padrão provê um substituto ou ponto através do qual um objeto pode contr
 acesso
 a outro objeto.
 
-
 PADRÕES
 COMPORTAMENTAIS
 
@@ -1173,13 +1147,11 @@ Esse padrão encapsula a requisição de um objeto, portanto permitindo que se p
 os
 clientes com diferentes requisições.
 
-
 ITERATOR
 
 Esse padrão fornece uma maneira de acessar elementos de um objeto
 agregado
 sequencialmente sem expor sua representação interna.
-
 
 MEDIATOR
 
@@ -1194,7 +1166,6 @@ Esse padrão captura e externaliza o estado interno de um objeto, sem violar
 seu
 encapsulamento, de maneira que o objeto possa ser restaurado posteriormente.
 
-
 OBSERVER
 
 STATE
@@ -1208,11 +1179,9 @@ Esse padrão permite a um objeto alterar o seu comportamento quando o seu estado
 interno
 for modificado.
 
-
 STRATEGY
 
 Esse padrão define uma família de algoritmos, encapsula cada um e faz deles intercambiáveis.
-
 
 VISITOR
 
@@ -1226,12 +1195,10 @@ opera.
 Esse padrão, dada uma linguagem, define uma representação para sua gramática em conjunto
 com um interpretador que utiliza a representação para interpretar sentenças na linguagem.
 
-
 TEMPLATEMETHOD
 
 Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixando alguns
 passos a serem preenchidos pelas subclasses.
-
 
 PAPPO&6 PÊ CRIAÇÃO
 
@@ -1261,7 +1228,6 @@ A PONTS APAPTAPAS COMPOSTA PS PSCORAÓÕSS NA FACHAPAPARA O PSSO MOSCA AO
 
 ©I PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE IBANRISUL- 2022) Entre os padrões definidos pelo GRASP, destacam-se baixa coesão
@@ -1275,7 +1241,7 @@ e o baixo acoplamento.
 
 Gabarito: Errado
 
-Item. 2. (CESPE / BANRISUL - 2022) O objetivo do padrão Singleton é especificar os tipos
+2. (CESPE / BANRISUL - 2022) O objetivo do padrão Singleton é especificar os tipos
 de objetos a
 partir de uma instância de protótipo.
 
@@ -1291,7 +1257,7 @@ Prototype!
 
 Gabarito: Errado
 
-Item. 3. (CESPE / BANRISUL - 2022) Por meio do padrão Facade, é possível construir uma
+3. (CESPE / BANRISUL - 2022) Por meio do padrão Facade, é possível construir uma
 interface
 comum e simplificada para um sistema ou subsistema.
 
@@ -1307,7 +1273,7 @@ subsistemas, facilitando e acelerando o processo.
 
 Gabarito: Correto
 
-Item. 4. (CESPE / BANRISUL - 2022) O padrão de comportamento Command permite
+4. (CESPE / BANRISUL - 2022) O padrão de comportamento Command permite
 representar
 comandos como objetos, sem a necessidade de saber como a operação é executada.
 
@@ -1316,7 +1282,6 @@ Comentários:
 Perfeito! Esse padrão permite representar comandos como objetos, sem a necessidade de
 saber
 como a operação é executada. Ele é usado para encapsular todos os detalhes de uma operação,
-
 
 como parâmetros, contexto e estado, em um objeto. Isso permite que os
 clientes criem,
@@ -1328,7 +1293,7 @@ comando.
 
 Gabarito: Correto
 
-Item. 5. (CESPE / BANRISUL - 2022) O padrão GRASP de Expert é utilizado para
+5. (CESPE / BANRISUL - 2022) O padrão GRASP de Expert é utilizado para
 atribuir uma
 responsabilidade à classe que possui a informação necessária para atender essa
 mesma
@@ -1348,7 +1313,7 @@ manutenibilidade, simplificar a depuração e melhorar a escalabilidade.
 
 Gabarito: Correto
 
-Item. 6. (CESPE / Petrobrás - 2022) Os três principais padrões de projeto (design patterns)
+6. (CESPE / Petrobrás - 2022) Os três principais padrões de projeto (design patterns)
 são os
 criacionais, os estruturais e os comportamentais; os padrões criacionais
 aumentam a
@@ -1368,7 +1333,7 @@ reutilização de código, concedendo mais alternativas para se criar objetos.
 
 Gabarito: Correto
 
-Item. 7. (CESPE / Petrobrás - 2022) Design patterns é um conjunto de soluções
+7. (CESPE / Petrobrás - 2022) Design patterns é um conjunto de soluções
 generalistas para
 problemas recorrentes durante o desenvolvimento de um software; trata-se de um framework
 ou código pronto, e não de uma definição de alto nível de como um problema comum
@@ -1387,7 +1352,7 @@ definição de alto nível de como um problema comum pode ser solucionado.
 
 Gabarito: Errado
 
-Item. 8. (CESPE / TJ-RJ - 2021) A coleção GoF (Gang of Four) é formada por padrões
+8. (CESPE / TJ-RJ - 2021) A coleção GoF (Gang of Four) é formada por padrões
 orientados a
 objetos, separados em categorias. A categoria padrões estruturais é responsável por:
 
@@ -1411,7 +1376,7 @@ são colocados juntos.
 
 Gabarito: Letra C
 
-Item. 4. (CESPE / TCE-PR - 2016) Um projeto fundamentado em padrões emprega um conjunto de
+4. (CESPE / TCE-PR - 2016) Um projeto fundamentado em padrões emprega um conjunto de
 soluções comprovadas de maneira conceituai para a construção da aplicação em conformidade
 com seu escopo.
 
@@ -1421,7 +1386,7 @@ Na verdade, são soluções comprovadas de maneira factual/prática e, não, con
 
 Gabarito: Errado
 
-Item. 5. (CESPE/TCU-2015) Nos padrões de projeto (design patterns) estruturais,
+5. (CESPE/TCU-2015) Nos padrões de projeto (design patterns) estruturais,
 utilizam-se técnicas
 que valorizam um forte acoplamento entre as classes para favorecer o
 aprendizado e a
@@ -1433,8 +1398,7 @@ Opa... eles valorizam o fraco/baixo acoplamento.
 
 Gabarito: Errado
 
-
-Item. 6. (CESPE / INPI - 2013) O padrão bridge, além de converter a interface de uma
+6. (CESPE / INPI - 2013) O padrão bridge, além de converter a interface de uma
 classe existente
 em outra interface esperada pelos clientes, permite que algumas classes com
 interfaces
@@ -1453,7 +1417,7 @@ Converte a interface de uma classe existente em outra interface? Opa, isso é Ad
 
 Gabarito: Errado
 
-Item. 7. (CESPE / INPI - 2013) Design patterns não se aplicam, exclusivamente, ao Java, podendo ser
+7. (CESPE / INPI - 2013) Design patterns não se aplicam, exclusivamente, ao Java, podendo ser
 empregados em projetos que utilizam linguagem C#.
 
 Comentários:
@@ -1462,7 +1426,7 @@ Padrões de Projeto se aplicam a qualquer linguagem de programação e qualquer 
 
 Gabarito: Correto
 
-Item. 8. (CESPE / ANTT- 2013) Em programação orientada a objetos, o padrão de projeto
+8. (CESPE / ANTT- 2013) Em programação orientada a objetos, o padrão de projeto
 denominado
 Iterator define uma forma de acesso sequencial aos elementos de um objeto agregado, sem
 expor sua representação interna.
@@ -1477,14 +1441,13 @@ Acesso sequencial aos elementos de um objeto agregado? Opa, isso é Iterator!
 
 Gabarito: Correto
 
-Item. 9. (CESPE / ANTT - 2013) Em programação orientada a objetos, o padrão de projeto
+9. (CESPE / ANTT - 2013) Em programação orientada a objetos, o padrão de projeto
 denominado
 Singleton define uma classe que possui apenas uma instância e provê um ponto de
 acesso local
 a ela.
 
 Comentários:
-
 
 SINGLETON Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de
 global a ela.
@@ -1508,7 +1471,6 @@ Esse padrão compõe objetos em estruturas de árvore para representar hierarqui
 
 COMPOSITE permitindo aos clientes tratarem objetos individuais e composições de objetos
 uniformemente.
-
 
 ITERATOR
 
@@ -1586,14 +1548,12 @@ objeto tenha chance de tratar a solicitação.
 
 Comentários:
 
-
 CHAIN OF
 RESPONSABILITY
 
 Esse padrão evita 0 acoplamento do remetente de uma requisição ao seu receptor ao dar
 a
 mais de um objeto a chance de lidar com a requisição.
-
 
 Evita o acoplamento entre solicitantes e atendentes? É Chain of Responsability!
 
@@ -1640,7 +1600,6 @@ forma definida, mas complexa.
 
 Comentários:
 
-
 Esse padrão define um objeto que encapsula a forma como um conjunto de objetos
 
 MEDIATOR interagem, promovendo um fraco acoplamento ao evitar que objetos se refiram aos outros
@@ -1683,7 +1642,7 @@ acesso global a ela.
 
 Gabarito: Correto
 
-Item. 21. (CESPE / MEC - 2011) O padrão Prototype pode ser usado no desenvolvimento de
+21. (CESPE / MEC - 2011) O padrão Prototype pode ser usado no desenvolvimento de
 programas
 escritos com a linguagem PHP 5.0, atuando como padrão estrutural que permite
 construirtanto
@@ -1691,11 +1650,9 @@ classes quanto objetos.
 
 Comentários:
 
-
 Propósito
 
 Criação Estrutura Comportamento
-
 
 Builder
 Abstract Factory
@@ -1742,7 +1699,7 @@ codificação.
 
 Gabarito: Correto
 
-Item. 23. (CESPE / MEC - 2011) O padrão Abstract Factory é corretamente aplicável, quando
+23. (CESPE / MEC - 2011) O padrão Abstract Factory é corretamente aplicável, quando
 necessário,
 para fornecer uma biblioteca de classes e não revelar suas interfaces.
 
@@ -1758,7 +1715,6 @@ no gabarito
 oficial veio como verdadeiro.
 
 Gabarito: Correto
-
 
 24.(CESPE/TRT-RN-2oIo) OS padrões de projeto podem ser definidos como soluções já
 testadas
@@ -1818,11 +1774,9 @@ conjunto de objetos não seja conhecido a priori ou seja definido dinamicamente.
 
 Comentários:
 
-
 Propósito
 
 Criação Estrutura Comportamento
-
 
 Builder
 Abstract Factory
@@ -1872,7 +1826,6 @@ o
 padrão de criação Prototype.
 
 Comentários:
-
 
 ABSTRACTFACTORY
 FACTORY METHOD
@@ -1957,7 +1910,6 @@ o fenômeno recorrente na análise que é a existência de muitas aplicações n
 um objeto
 que é a única instância de sua classe.
 
-
 Comentários:
 
 SINGLETON Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de
@@ -1965,7 +1917,7 @@ global a ela.
 
 Gabarito: Correto
 
-Item. 33. (CESPE / SERPRO - 2008) Adapter é um padrão estrutural utilizado para
+33. (CESPE / SERPRO - 2008) Adapter é um padrão estrutural utilizado para
 compatibilizar
 interfaces de modo que elas possam interagir.
 
@@ -1974,7 +1926,6 @@ Comentários:
 Propósito
 
 Criação Estrutura Comportamento
-
 
 Builder
 Abstract Factory
@@ -2012,7 +1963,7 @@ Compatibilizar interfaces de modo que elas possam interagir? Opa, isso é Adapte
 
 Gabarito: Correto
 
-Item. 34. (CESPE / SERPRO - 2008) O Singleton é um padrão que garante que uma classe
+34. (CESPE / SERPRO - 2008) O Singleton é um padrão que garante que uma classe
 tenha apenas
 uma instância.
 
@@ -2023,10 +1974,9 @@ global a ela.
 
 Classe com apenas uma instância? Opa, isso é Singleton!
 
-
 Gabarito: Correto
 
-Item. 35. (CESPE /SERPRO - 2008) Alguns padrões de criação como o Prototype, o Proxy e o Façade não
+35. (CESPE /SERPRO - 2008) Alguns padrões de criação como o Prototype, o Proxy e o Façade não
 são adequados para a programação orientada a objetos.
 
 Comentários:
@@ -2051,7 +2001,6 @@ padrão da categoria comportamental, enquanto o nome do módulo C sugere
 que ele
 implementa um padrão da categoria estrutural.
 
-
 HTTP Request
 
 A
@@ -2061,7 +2010,6 @@ Applicabon
 
 Controfier
 
-
 Dispatcher
 
 ▼
@@ -2069,7 +2017,6 @@ Dispatcher
 Cornniand
 
 ►
-
 
 Composrte
 Víew
@@ -2086,11 +2033,9 @@ HTTP Response
 
 Comentários:
 
-
 Propósito
 
 Criação Estrutura Comportamento
-
 
 Builder
 Abstract Factory
@@ -2156,7 +2101,6 @@ Família de classes/objetos? Opa, Abstract Factory!
 
 Gabarito: Correto
 
-
 39-(CESPE / DATAPREV - 2006) As seguintes situações justificam o uso do padrão
 Adapter: é
 necessário um objeto local que se faça passar por um objeto localizado em outro
@@ -2183,7 +2127,6 @@ objeto
 se comunica com vários outros objetos.
 
 Comentários:
-
 
 MEDIATOR
 
@@ -2212,7 +2155,6 @@ intercambiáveis.
 Variações de algoritmo? Strategy!
 
 Gabarito: Correto
-
 
 42.(CESPE / DATAPREV - 2006) Quanto aos padrões de projeto orientados a objetos, assinale a
 opção correta.
@@ -2248,10 +2190,9 @@ trata-se do State.
 
 Gabarito: Letra A
 
-
 QUESTõES CoMENTADAS - FCC
 
-Item. 4. (FCC / Prefeitura de Teresina-PI - 2016) Dentre os tipos de Padrões de
+4. (FCC / Prefeitura de Teresina-PI - 2016) Dentre os tipos de Padrões de
 Projeto (Design
 Patterns) o que se caracteriza por definir uma interface para a criação de um objeto
 e que
@@ -2276,7 +2217,7 @@ O padrão onde se permite o adiamento da instanciação é o: Factory Method.
 
 Gabarito: Letra A
 
-Item. 5. (FCC/TRE-PB-2015) Um técnico deseja usar um padrão de projeto de criação que
+5. (FCC/TRE-PB-2015) Um técnico deseja usar um padrão de projeto de criação que
 permita que
 as subclasses da aplicação possam variar. Este padrão deverá ser focado no
 processo de
@@ -2308,8 +2249,7 @@ Mais uma vez cobrando Factory Method! Já alertamos o fato para vocês outras ve
 mas a FCC
 repete muito item! Vale muito a pena fazer muitas questões, de novo, e de novo ©
 
-
-Item. 6. (FCC / TRT13 - 2014) Angela pretende utilizar alguns design patterns em seu
+6. (FCC / TRT13 - 2014) Angela pretende utilizar alguns design patterns em seu
 projeto Java e,
 após algumas pesquisas, encontrou o que buscava em Singleton e Prototype cujos
 objetivos são,
@@ -2351,7 +2291,7 @@ Os itens que correspondem ao Singleton e Prototype são (II) e (IV).
 
 Gabarito: Letra D
 
-Item. 7. (FCC / DPE-SP-2013) Um design pattern descreve uma solução geral comprovada e
+7. (FCC / DPE-SP-2013) Um design pattern descreve uma solução geral comprovada e
 reutilizável
 para um problema recorrente no desenvolvimento de sistemas de software
 orientados a
@@ -2362,7 +2302,6 @@ comuns. Dois dos principais design patterns utilizados atualmente são descritos
 I. Visa garantir que uma classe só tenha uma única instância e prover um ponto de acesso
 global
 a ela.
-
 
 II. Visa definir uma dependência um-para-muitos entre objetos para que quando um
 objeto
@@ -2382,14 +2321,12 @@ e) Facade e Observer.
 
 Comentários:
 
-
 SINGLETON
 
 Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de acesso
 global a ela.
 
 (I) Ponto de acesso global? Singleton!
-
 
 OBSERVER
 
@@ -2401,7 +2338,7 @@ automaticamente.
 
 Gabarito: Letra A
 
-Item. 8. (FCC / TRT15 - 2013) Os padrões Gang of Four (GoF) organizam um conjunto de
+8. (FCC / TRT15 - 2013) Os padrões Gang of Four (GoF) organizam um conjunto de
 padrões de
 projeto (design patterns) em três grupos: de criação, estruturais e
 comportamentais. Três
@@ -2427,7 +2364,6 @@ representação interna utiliza-se este design pattern que permite prover uma
 interface única
 para varrer coleções diferentes.
 
-
 Os padrões descritos nos itens I, II e III são, respectivamente,
 
 a) Adapter, Facade e Strategy.
@@ -2448,7 +2384,6 @@ ADAPTER poderiam trabalhar juntas por serem incompatíveis.
 
 (I) Interfaces incompatíveis? Adapter!
 
-
 OBSERVER
 
 Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um
@@ -2460,7 +2395,6 @@ atualizados?
 
 Observer!
 
-
 ITERATOR
 
 Esse padrão fornece uma maneira de acessar elementos de um objeto agregado
@@ -2470,7 +2404,7 @@ sequencialmente sem expor sua representação interna.
 
 Gabarito: Letra D
 
-Item. 9. (FCC / AL-RN - 2013) Analise as seguintes afirmações:
+9. (FCC / AL-RN - 2013) Analise as seguintes afirmações:
 
 I. Fornece uma interface para a criação de uma família de objetos relacionados ou
 dependentes
@@ -2487,7 +2421,6 @@ independentemente.
 IV. Separa a construção de um objeto complexo de sua representação, de modo que o
 mesmo
 processo possa criar representações diferentes.
-
 
 Tratam, respectivamente, dos design patterns:
 
@@ -2542,7 +2475,6 @@ a chamada ao método, o controle do fluxo da aplicação retorna para o usuário
 c) são de uso exclusivo em processos de desenvolvimento de soluções orientado a
 objetos, já
 que os objetos são a mais adequada abstração para o reúso.
-
 
 d) são aplicações propriamente ditas, normalmente construídas pela integração de
 diversos
@@ -2604,7 +2536,6 @@ FACTORY METHOD Esse padrão define uma interface para criarum objeto, mas deixa 
 decidirem qual
 classe instanciar.
 
-
 (I) Na minha opinião, houve confusão da FCC! Factory Method fornece uma interface
 para criar um
 objeto, possibilitando o adiamento da instanciação para as subclasses. Já o
@@ -2657,7 +2588,6 @@ Prototype Composite Iterator
 
 Singlenton Decorator Mediator
 
-
 Factory Method Facade
 Flyweight
 
@@ -2672,7 +2602,6 @@ Interpreter
 
 Template Method
 
-
 (a) Errado. Factory Method e Prototype são Criacionais; (b) Errado. Todos são
 Criacionais; (c)
 Correto. Todos são Comportamentais; (d) Errado. Todos são Estruturais; (e)
@@ -2681,7 +2610,7 @@ Criacionais.
 
 Gabarito: Letra C
 
-Item. 13. (FCC / TRT4 - 2011) O catálogo de padrões de projeto (Design Patterns) do GoF contém:
+13. (FCC / TRT4 - 2011) O catálogo de padrões de projeto (Design Patterns) do GoF contém:
 
 a) 20 padrões e está basicamente dividido em duas seções: Structural e Behavioral.
 
@@ -2705,7 +2634,6 @@ Abstract Factory Bridge Command
 Prototype Composite Iterator
 
 Singlenton Decorator Mediator
-
 
 Factory Method Facade
 Flyweight
@@ -2735,7 +2663,6 @@ independentemente.
 
 Correspondem respectivamente a:
 
-
 a) Façade e Bridge.
 
 b) Adapter e Façade.
@@ -2763,7 +2690,7 @@ Bridge.
 
 Gabarito: Letra A
 
-Item. 15. (FCC / TRF4 - 2010) Sobre os design patterns, é correto afirmar:
+15. (FCC / TRF4 - 2010) Sobre os design patterns, é correto afirmar:
 
 a) Padrões e linguagens de padrões são maneiras de implementar sistemas orientados a
 objetos
@@ -2794,7 +2721,6 @@ bastante
 complicados; (d) De novo, não! Padrões de Projeto não se limitam a orientação a
 objetos; (e) É isso
 mesmo! Questão perfeita!
-
 
 i6.(FCC / TJ-PI - 2009) Os padrões de projeto, quando aplicados ao desenvolvimento de
 aplicações,
@@ -2840,7 +2766,6 @@ e) Adapter, Façade, Command e Iterator.
 
 Comentários:
 
-
 PROTOTYPE
 
 Esse padrão especifica os tipos de objetos para criar usando uma instância como
@@ -2855,7 +2780,6 @@ subsistema, definindo uma interface de alto nível que facilita a utilização d
 
 (II) Interface de nível mais alto? Trata-se do Façade.
 
-
 ITERATOR Esse padrão fornece uma maneira de acessar elementos de um
 objeto agregado
 sequencialmente sem expor sua representação interna.
@@ -2866,7 +2790,7 @@ sequencialmente sem expor sua representação interna.
 
 Gabarito: Letra D
 
-Item. 17. (FCC / Infraero - 2009) As associações entre classes e objetos são tratadas
+17. (FCC / Infraero - 2009) As associações entre classes e objetos são tratadas
 pelos Padrões de
 Projeto de Software (Design Patterns) da família de Padrões:
 
@@ -2886,10 +2810,9 @@ A associação entre classes e objetos é tratada por Padrões GoF Estruturais.
 
 Gabarito: Letra A
 
-
 QUESTõES CoMENTADAS - FG V
 
-Item. 4. (FGV / AL-Caruaru - 2015) O catálogo denominado Padrões GoF ('Gang of
+4. (FGV / AL-Caruaru - 2015) O catálogo denominado Padrões GoF ('Gang of
 Four') define
 soluções reutilizáveis para problemas frequentes em projetos de sistemas de software.
 Essas
@@ -2913,13 +2836,11 @@ Comentários:
 
 PA&POÍ-S PE CRKÃO
 
-
 A FÁSRICA AÉSTRATA CONSTRÓI UM PROTÓTIPO ÚNICO,
 
 A FÁÉRICA ASSTRATA CONSTRÓI
 
 UM PROTÓTIPO ÚNICO,
-
 
 A FÁSRICA ASSTRATA CONSTRÓI UM
 A FÁÉRICA ASSTRATA CONSTRÓI UM
@@ -2945,7 +2866,6 @@ UM PROTÓTIPO ÚNICO,
 UM PROTÓTIPO ÚNICO,
 UM PROTÓTIPO
 
-
 A PONTÉ
 AA rPVONNTTpÉ
 
@@ -2964,7 +2884,6 @@ APROXIM^* w
 A PONTÉ-----A--P--A--P--T--A--P--A----É--- ' COMPOSTA PÉ PÉCORAfÕÉS ' NA FACHAPA
 -P--A--R---A----------------OSÉPO ---M-----OS--C--A-- --S--É-
 -------A---P-R-----OX--I-MA 'J
-
 
 A PONTÉ
 
@@ -2986,13 +2905,12 @@ frase, então é um Padrão de Estrutural.
 
 Gabarito: Letra A
 
-Item. 5. (FGV/AL-MA-2013) Com relação ao tema Padrões de Projeto, conforme descritos porGamma
+5. (FGV/AL-MA-2013) Com relação ao tema Padrões de Projeto, conforme descritos porGamma
 et AlIi, sobre o padrão Prototype, analise as afirmativas a seguir.
 
 I. Apresenta como benefícios adicionais a adição e a remoção de produtos em
 tempo de
 execução.
-
 
 II. Apresenta como benefícios adicionais a especificação de novos objetos pela variação
 de seus
@@ -3018,7 +2936,7 @@ Todas as alternativas estão corretas - tratam de benefícios ou vantagens corre
 
 Gabarito: Letra E
 
-Item. 6. (FGV / Senado Federal - 2008) Considera as seguintes assertivas sobre as vantagens do uso de
+6. (FGV / Senado Federal - 2008) Considera as seguintes assertivas sobre as vantagens do uso de
 padrões de software (software patterns):
 
 I. Padrões de projeto proporcionam um vocabulário comum de projeto,
@@ -3047,7 +2965,6 @@ e) I, lie III.
 
 Comentários:
 
-
 (I) Correto, eles possuem um jargão próprio comum a todos: nome, problema,
 solução e
 consequências; (II) Correto, grande parte dos problemas já possuem uma solução
@@ -3062,10 +2979,9 @@ padrões afim de padronizar e melhorar o desenvolvimento de software?
 
 Gabarito: Letra E
 
-
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
-Item. 4. (IBFC / Prefeitura de Divinópolis-MG - 2018) Os padrões de projetos (Design
+4. (IBFC / Prefeitura de Divinópolis-MG - 2018) Os padrões de projetos (Design
 Patterns) são
 compostos basicamente por 4 elementos essenciais que são:
 
@@ -3087,7 +3003,7 @@ resolvido;
 
 Gabarito: Letra B
 
-Item. 5. (IBFC / EBSERH - 2017) Os Padrões de Projeto de software são organizados em três
+5. (IBFC / EBSERH - 2017) Os Padrões de Projeto de software são organizados em três
 famílias
 conforme a "Gangue dos Quatro" (Gang of Four). Dos "Padrões de Criação" abaixo,
 identifique
@@ -3114,7 +3030,6 @@ e) somente o 5 não pertence a essa família especificamente.
 
 Comentários:
 
-
 CriaçJão
 
 Propósito
@@ -3127,7 +3042,6 @@ Abstract Factory Bridge Command
 Prototype Composite Iterator
 
 Singlenton Decorator Mediator
-
 
 Factory Method Facade
 Flyweight
@@ -3149,7 +3063,7 @@ Factory Method
 
 Gabarito: Letra E
 
-Item. 6. (IBFC / EBSERH - 2017) Erich Hamma, Richard Helm, Ralph Johson e John Vlissdes,
+6. (IBFC / EBSERH - 2017) Erich Hamma, Richard Helm, Ralph Johson e John Vlissdes,
 mais
 conhecidos como "Gang of Four", coletaram originalmente 23 Design Pattems
 (Padrões de
@@ -3178,7 +3092,6 @@ Gama).
 
 Comentários:
 
-
 CriaçJão
 
 Propósito
@@ -3191,7 +3104,6 @@ Abstract Factory Bridge Command
 Prototype Composite Iterator
 
 Singlenton Decorator Mediator
-
 
 Factory Method Facade
 Flyweight
@@ -3213,7 +3125,7 @@ Patterns) e Padrões Comportamentais (Behavioral Patterns).
 
 Gabarito: Letra C
 
-Item. 7. (ESAF / CGU - 2012) O padrão de projeto singleton é usado para restringir:
+7. (ESAF / CGU - 2012) O padrão de projeto singleton é usado para restringir:
 
 a) a instanciação de uma classe para objetos simples.
 
@@ -3235,7 +3147,7 @@ Ele restringe a instanciação de uma classe para apenas um objeto ou instância
 
 Gabarito: Letra B
 
-Item. 8. (FEMPERJ /TCE-RJ -2012) Padrões de Projeto descrevem soluções para problemas
+8. (FEMPERJ /TCE-RJ -2012) Padrões de Projeto descrevem soluções para problemas
 recorrentes
 no desenvolvimento de sistemas de software orientados a objetos. Um padrão de
 projeto
@@ -3248,7 +3160,6 @@ tem como função:
 a) garantir a existência de apenas uma instância de uma classe, mantendo um ponto
 global de
 acesso ao seu objeto.
-
 
 b) adicionar dinamicamente um comportamento a um objeto existente sem alterar o código
 das
@@ -3264,7 +3175,6 @@ e) permitir que classes com interfaces incompatíveis possam interagir.
 
 Comentários:
 
-
 SINGLETON
 
 Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de acesso
@@ -3278,7 +3188,6 @@ DECORATOR alternativa flexível em relação à herança para estenderfuncionali
 
 (b) Errado, trata-se do Decorator.
 
-
 ABSTRACT FACTORY
 
 Esse padrão fornece uma interface para criarfamílias de objetos relacionados ou
@@ -3286,7 +3195,6 @@ dependentes
 sem especificar suas classes concretas.
 
 (c) Errado, trata-se do Abstract Factory.
-
 
 VISITOR
 
@@ -3303,7 +3211,6 @@ ADAPTER poderiam trabalhar juntas por serem incompatíveis.
 (e) Correto, trata-se do Adapter.
 
 Gabarito: Letra E
-
 
 9- (ESAF/ATRFB-2012) OS padrões de projeto (Design Patterns) são classificados nas categorias:
 
@@ -3329,7 +3236,6 @@ Abstract Factory Bridge Command
 Prototype Composite Iterator
 
 Singlenton Decorator Mediator
-
 
 Factory Method Facade
 Flyweight
@@ -3368,7 +3274,6 @@ c) Define uma interface para criar um objeto, mas deixas as subclasses decidirem
 classe a
 ser instanciada.
 
-
 d) Fornece uma interface unificada para um conjunto de interfaces em um sistema.
 
 e) Define uma dependência "um para muitos" entre objetos, de modo que, quando um
@@ -3383,14 +3288,12 @@ PROXY a outro objeto.
 
 (a) Errado. Trata-se do Proxy.
 
-
 TEMPLATE METHOD
 
 Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixando alguns
 passos a serem preenchidos pelas subclasses.
 
 (b) Errado. Trata-se do Template Method.
-
 
 FACTORYMETHOD
 
@@ -3404,7 +3307,6 @@ Esse padrão oferece uma interface unificada para um conjunto de interfaces em u
 FACADE subsistema, definindo uma interface de alto nível que facilita a utilização do subsistema.
 
 (d) Correto. Trata-se do Façade.
-
 
 OBSERVER
 
@@ -3424,7 +3326,6 @@ padrões de criação, padrões de estutura ou padrões comportamentais. Corresp
 categoria de padrões estruturais:
 
 a) Facade, Prototype e Proxy.
-
 
 b) Adapter, Composite e Proxy.
 
@@ -3447,7 +3348,6 @@ Prototype Composite Iterator
 
 Singlenton Decorator Mediator
 
-
 Factory Method Facade
 Flyweight
 
@@ -3466,7 +3366,7 @@ Trata-se do Adapter, Composite e Proxy.
 
 Gabarito: Letra B
 
-Item. 12. (ESAF / AFRFB - 2005) Analise as seguintes afirmações relacionadas a padrões de projetos:
+12. (ESAF / AFRFB - 2005) Analise as seguintes afirmações relacionadas a padrões de projetos:
 
 I. O padrão Builder separa a construção de um objeto complexo de sua representação,
 de modo
@@ -3492,7 +3392,6 @@ atualizados.
 
 Indique a opção que contenha todas as afirmações verdadeiras.
 
-
 a) I e III.
 
 b) lie III.
@@ -3505,7 +3404,6 @@ e) lie IV.
 
 Comentários:
 
-
 BUILDER
 
 Esse padrão separa a construção de um objeto complexo da sua representação, de forma
@@ -3513,7 +3411,6 @@ que
 o mesmo processo de construção possa criar diferentes tipos de representações.
 
 (I) Contrução de um objeto complexo?Trata-se do Builder!
-
 
 ABSTRACTFACTORY
 
@@ -3529,7 +3426,6 @@ concreta é completa, na medida em que contém todas as implementações de seus
 por
 outro lado uma classe abstrata seria incompleta.
 
-
 FACTORY METHOD
 
 Esse padrão define uma interface para criarum objeto, mas deixa as subclasses decidirem qual
@@ -3540,7 +3436,6 @@ classe instanciar.
 Esse padrão utiliza compartilhamento para suportar eficientemente grandes quantidades de
 
 FLYWEIGHT objetos de baixa granularidade.
-
 
 OBSERVER
 
@@ -3553,32 +3448,31 @@ automaticamente.
 
 Gabarito: Letra D
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE IBANRISUL- 2022) Entre os padrões definidos pelo GRASP, destacam-se baixa
 coesão
 e alto acoplamento.
 
-Item. 2. (CESPE / BANRISUL - 2022) O objetivo do padrão Singleton é especificar os tipos
+2. (CESPE / BANRISUL - 2022) O objetivo do padrão Singleton é especificar os tipos
 de objetos a
 partir de uma instância de protótipo.
 
-Item. 3. (CESPE / BANRISUL - 2022) Por meio do padrão Facade, é possível construir uma
+3. (CESPE / BANRISUL - 2022) Por meio do padrão Facade, é possível construir uma
 interface
 comum e simplificada para um sistema ou subsistema.
 
-Item. 4. (CESPE / BANRISUL - 2022) O padrão de comportamento Command permite
+4. (CESPE / BANRISUL - 2022) O padrão de comportamento Command permite
 representar
 comandos como objetos, sem a necessidade de saber como a operação é executada.
 
-Item. 5. (CESPE / BANRISUL - 2022) O padrão GRASP de Expert é utilizado para
+5. (CESPE / BANRISUL - 2022) O padrão GRASP de Expert é utilizado para
 atribuir uma
 responsabilidade à classe que possui a informação necessária para atender essa
 mesma
 responsabilidade.
 
-Item. 6. (CESPE / Petrobrás - 2022) Os três principais padrões de projeto (design
+6. (CESPE / Petrobrás - 2022) Os três principais padrões de projeto (design
 patterns) são os
 criacionais, os estruturais e os comportamentais; os padrões criacionais
 aumentam a
@@ -3586,14 +3480,14 @@ flexibilidade e a reutilização de código porque oferecem diversas alternativa
 de criação de
 objetos.
 
-Item. 7. (CESPE / Petrobrás - 2022) Design patterns é um conjunto de soluções generalistas
+7. (CESPE / Petrobrás - 2022) Design patterns é um conjunto de soluções generalistas
 para
 problemas recorrentes durante o desenvolvimento de um software; trata-se de um framework
 ou código pronto, e não de uma definição de alto nível de como um problema comum
 pode ser
 solucionado.
 
-Item. 8. (CESPE / TJ-RJ - 2021) A coleção GoF (Gang of Four) é formada por padrões
+8. (CESPE / TJ-RJ - 2021) A coleção GoF (Gang of Four) é formada por padrões
 orientados a
 objetos, separados em categorias. A categoria padrões estruturais é responsável por:
 
@@ -3607,39 +3501,38 @@ d) descrever como os objetos interagem.
 
 e) distribuir responsabilidades entre os objetos.
 
-Item. 4. (CESPE / TCE-PR - 2016) Um projeto fundamentado em padrões emprega um conjunto de
+4. (CESPE / TCE-PR - 2016) Um projeto fundamentado em padrões emprega um conjunto de
 soluções comprovadas de maneira conceituai para a construção da aplicação em conformidade
 com seu escopo.
 
-Item. 5. (CESPE / TCU - 2015) Nos padrões de projeto (design patterns) estruturais,
+5. (CESPE / TCU - 2015) Nos padrões de projeto (design patterns) estruturais,
 utilizam-se técnicas
 que valorizam um forte acoplamento entre as classes para favorecer o
 aprendizado e a
 portabilidade das aplicações.
 
-
-Item. 6. (CESPE / INPI - 2013) O padrão bridge, além de converter a interface de uma
+6. (CESPE / INPI - 2013) O padrão bridge, além de converter a interface de uma
 classe existente
 em outra interface esperada pelos clientes, permite que algumas classes com
 interfaces
 diferentes funcionem conjuntamente.
 
-Item. 7. (CESPE / INPI - 2013) Design patterns não se aplicam, exclusivamente, ao Java,
+7. (CESPE / INPI - 2013) Design patterns não se aplicam, exclusivamente, ao Java,
 podendo ser
 empregados em projetos que utilizam linguagem C#.
 
-Item. 8. (CESPE/ANTT-2013) Em programação orientada a objetos, o padrão de projeto
+8. (CESPE/ANTT-2013) Em programação orientada a objetos, o padrão de projeto
 denominado
 Iterator define uma forma de acesso sequencial aos elementos de um objeto agregado, sem
 expor sua representação interna.
 
-Item. 9. (CESPE / ANTT- 2013) Em programação orientada a objetos, o padrão de projeto
+9. (CESPE / ANTT- 2013) Em programação orientada a objetos, o padrão de projeto
 denominado
 Singleton define uma classe que possui apenas uma instância e provê um ponto de
 acesso local
 a ela.
 
-Item. 10. (CESPE / TCE-RO - 2013) Uma das aplicabilidades do padrão Iterator é a
+10. (CESPE / TCE-RO - 2013) Uma das aplicabilidades do padrão Iterator é a
 representação de
 hierarquias do tipo todo-parte de objetos, de modo que a aplicação seja capaz de
 ignorar a
@@ -3647,17 +3540,17 @@ diferença entre composições de objetos e objetos individuais, haja vista que 
 objetos
 tratados no padrão têm comportamento uniforme.
 
-Item. 11. (CESPE / TCO-RO - 2013) O padrão Adapter será mais apropriado que o Façade
+11. (CESPE / TCO-RO - 2013) O padrão Adapter será mais apropriado que o Façade
 quando for
 necessário fornecer uma interface unificada para um conjunto de interfaces em um subsistema.
 
-Item. 12. (CESPE / TCE-RO - 2013) O uso do padrão Builder tem a vantagem de
+12. (CESPE / TCE-RO - 2013) O uso do padrão Builder tem a vantagem de
 permitir acesso
 controlado à instância de uma classe, uma vez que ele encapsula a classe, criando um
 ponto
 global único de acesso.
 
-Item. 13. (CESPE / TCE-RO - 2013) Os padrões estruturais, tais como o Bridge e o Proxy,
+13. (CESPE / TCE-RO - 2013) Os padrões estruturais, tais como o Bridge e o Proxy,
 abstraem o
 processo de instanciação, ajudando a tornar um sistema independente de como os seus
 objetos
@@ -3665,28 +3558,27 @@ são criados. Já os padrões de criação, como Prototype e o Builder, se preoc
 a forma
 como as classes e os objetos são criados para formar estruturas compostas maiores.
 
-Item. 14. (CESPE / MPOG -2013) O padrão de comportamento e encadeamento de atendentes (chain
+14. (CESPE / MPOG -2013) O padrão de comportamento e encadeamento de atendentes (chain
 of
 responsibility) evita acoplamento entre solicitantes e atendentes, permitindo que
 mais de um
 objeto tenha chance de tratar a solicitação.
 
-Item. 15. (CESPE / MPOG - 2013) Para um problema recorrente no desenvolvimento de
+15. (CESPE / MPOG - 2013) Para um problema recorrente no desenvolvimento de
 sistemas,
 normalmente, um padrão de projeto descreve uma solução geral, que não pode ser reutilizada.
 
-Item. 16. (CESPE / MPOG - 2013) Padrões de projeto envolvem combinações de classes e
+16. (CESPE / MPOG - 2013) Padrões de projeto envolvem combinações de classes e
 algoritmos
 associados que cumprem com propósitos comuns de projeto.
 
-
-Item. 17. (CESPE / MPE-PI - 2012) O padrão de projeto conhecido como façade é indicado
+17. (CESPE / MPE-PI - 2012) O padrão de projeto conhecido como façade é indicado
 para a
 definição de uma interface de nível mais alto que torne mais fácil a
 comunicação entre os
 subsistemas de um sistema complexo.
 
-Item. 18. (CESPE / BASA-2012) O padrão mediator define um objeto que encapsula como um
+18. (CESPE / BASA-2012) O padrão mediator define um objeto que encapsula como um
 conjunto
 de objetos interage. Esse padrão torna desnecessário que cada objeto armazene
 referências
@@ -3694,7 +3586,7 @@ para todos os objetos com os quais interage e pode ser usado quando objetos se
 comunicam de
 forma definida, mas complexa.
 
-Item. 19. (CESPE / BASA - 2012) O padrão adapter define uma família de
+19. (CESPE / BASA - 2012) O padrão adapter define uma família de
 algoritmos, permite o
 encapsulamento de algoritmos e possibilita a substituição desses algoritmos. Os
 algoritmos
@@ -3702,37 +3594,37 @@ podem variar independentemente dos seus clientes. Esse padrão pode ser usado qu
 várias
 classes relacionadas diferirem apenas nos seus comportamentos.
 
-Item. 20. (CESPE / MEC - 2011) O padrão Singleton garante que uma classe tenha
+20. (CESPE / MEC - 2011) O padrão Singleton garante que uma classe tenha
 somente uma
 instância, fornecendo, assim, um ponto global de acesso a essa instância.
 
-Item. 21. (CESPE / MEC - 2011) O padrão Prototype pode ser usado no desenvolvimento de
+21. (CESPE / MEC - 2011) O padrão Prototype pode ser usado no desenvolvimento de
 programas
 escritos com a linguagem PHP 5.0, atuando como padrão estrutural que permite
 construirtanto
 classes quanto objetos.
 
-Item. 22. (CESPE / MEC - 2011) Os padrões de projeto são úteis tanto na fase de
+22. (CESPE / MEC - 2011) Os padrões de projeto são úteis tanto na fase de
 planejamento da
 arquitetura quanto na de desenvolvimento e codificação.
 
-Item. 23. (CESPE / MEC - 2011) O padrão Abstract Factory é corretamente aplicável, quando
+23. (CESPE / MEC - 2011) O padrão Abstract Factory é corretamente aplicável, quando
 necessário,
 para fornecer uma biblioteca de classes e não revelar suas interfaces.
 
-Item. 24. (CESPE/TRT-RN-2010) Os padrões de projeto podem ser definidos como soluções já
+24. (CESPE/TRT-RN-2010) Os padrões de projeto podem ser definidos como soluções já
 testadas
 para problemas que ocorrem frequentemente durante o projeto de software.
 
-Item. 25. (CESPE /TRT-RN - 2010) Os padrões de projeto podem ser definidos como soluções já
+25. (CESPE /TRT-RN - 2010) Os padrões de projeto podem ser definidos como soluções já
 testadas
 para problemas que ocorrem frequentemente durante o projeto de software.
 
-Item. 26. (CESPE / ANAC - 2009) O uso de padrões de projeto somente pode ser aplicado a
+26. (CESPE / ANAC - 2009) O uso de padrões de projeto somente pode ser aplicado a
 projetos que
 implementam o paradigma de programação orientada a objetos.
 
-Item. 27. (CESPE / TCU - 2009) Caso seja verificado no desenvolvimento de um
+27. (CESPE / TCU - 2009) Caso seja verificado no desenvolvimento de um
 sistema forte
 acoplamento entre as classes, recomenda-se o uso do padrão de comportamento
 Factory
@@ -3741,7 +3633,6 @@ a
 mais de um objeto a oportunidade de tratar uma solicitação, mesmo nos casos
 em que o
 conjunto de objetos não seja conhecido a priori ou seja definido dinamicamente.
-
 
 28.(CESPE / TCU - 2009) No desenvolvimento de um sistema estruturado em subsistemas
 para
@@ -3765,13 +3656,13 @@ construção de um objeto complexo de sua representação para criar representa�
 diferentes
 com o mesmo processo.
 
-Item. 30. (CESPE / TCE-RN - 2009) O template method se aplica primariamente às classes,
+30. (CESPE / TCE-RN - 2009) O template method se aplica primariamente às classes,
 sendo um
 padrão de projeto com finalidade comportamental, ou seja, caracterizado pela
 maneira como
 as classes interagem e distribuem responsabilidades.
 
-Item. 31. (CESPE / STJ - 2008) Os padrões de projeto podem ser usados no projeto orientado
+31. (CESPE / STJ - 2008) Os padrões de projeto podem ser usados no projeto orientado
 a objetos
 para apoiar o reúso de software. Esses padrões frequentemente empregam a
 herança e o
@@ -3781,13 +3672,13 @@ padrões de projeto que podem ser empregados nos frameworks orientados a
 objetos para
 facilitar a adaptação dos frameworks.
 
-Item. 32. (CESPE/TJ-DF-2008) O padrão de projeto orientado a objetos denominado singleton
+32. (CESPE/TJ-DF-2008) O padrão de projeto orientado a objetos denominado singleton
 exprime
 ofenômeno recorrente na análise que é a existência de muitas aplicações nas quais há
 um objeto
 que é a única instância de sua classe.
 
-Item. 33. (CESPE / SERPRO - 2008) Adapter é um padrão estrutural utilizado para
+33. (CESPE / SERPRO - 2008) Adapter é um padrão estrutural utilizado para
 compatibilizar
 interfaces de modo que elas possam interagir.
 
@@ -3795,10 +3686,10 @@ interfaces de modo que elas possam interagir.
 apenas
 uma instância.
 
-Item. 35. (CESPE / SERPRO - 2008) Alguns padrões de criação como o Prototype, o Proxy e o Façade não
+35. (CESPE / SERPRO - 2008) Alguns padrões de criação como o Prototype, o Proxy e o Façade não
 são adequados para a programação orientada a objetos.
 
-Item. 36. (CESPE / STF - 2008) A figura acima, adaptada de java.sun.com, ilustra a
+36. (CESPE / STF - 2008) A figura acima, adaptada de java.sun.com, ilustra a
 arquitetura de uma
 aplicação web desenvolvida na plataforma J2EE, tendo sido alguns de seus módulos
 nomeados
@@ -3814,7 +3705,6 @@ implementa um padrão da categoria estrutural.
 
 o nome do módulo C sugere que ele
 
-
 HTTP Request
 
 A
@@ -3822,7 +3712,6 @@ A
 * do Front Controfler ------------------- Applicabon
 
 Controlar
-
 
 Dispatcher
 
@@ -3879,7 +3768,6 @@ diferentes variações de um algoritmo; o método de uma classe tem muitos
 enunciados
 condicionais pois a classe tem comportamentos variados.
 
-
 42.(CESPE / DATAPREV - 2006) Quanto aos padrões de projeto orientados a objetos, assinale a
 opção correta.
 
@@ -3906,102 +3794,99 @@ execução
 e depende do seu estado; as operações têm múltiplos enunciados condicionais que dependem
 do estado do objeto.
 
-
 GABARITo
 
+1. ERRADO
 
-Item. 1. ERRADO
+2. ERRADO
 
-Item. 2. ERRADO
+3. CORRETO
 
-Item. 3. CORRETO
+4. CORRETO
 
-Item. 4. CORRETO
+5. CORRETO
 
-Item. 5. CORRETO
+6. CORRETO
 
-Item. 6. CORRETO
+7. ERRADO
 
-Item. 7. ERRADO
-
-Item. 8. LETRA C
+8. LETRA C
 
 g. ERRADO
 io. ERRADO
 li. ERRADO
 
-Item. 12. CORRETO
+12. CORRETO
 
-Item. 13. CORRETO
+13. CORRETO
 
-Item. 14. ERRADO
+14. ERRADO
 
-Item. 15. ERRADO
+15. ERRADO
 
-Item. 16. ERRADO
+16. ERRADO
 
-Item. 17. ERRADO
+17. ERRADO
 
-Item. 18. ERRADO
+18. ERRADO
 
-Item. 19. CORRETO
+19. CORRETO
 
-Item. 20. ERRADO
+20. ERRADO
 
-Item. 21. CORRETO
+21. CORRETO
 
-Item. 22. CORRETO
+22. CORRETO
 
-Item. 23. CORRETO
+23. CORRETO
 
-Item. 24. ERRADO
+24. ERRADO
 
-Item. 25. CORRETO
+25. CORRETO
 
-Item. 26. ERRADO
+26. ERRADO
 
-Item. 27. CORRETO
+27. CORRETO
 
-Item. 28. CORRETO
+28. CORRETO
 
-Item. 29. CORRETO
+29. CORRETO
 
-Item. 30. CORRETO
+30. CORRETO
 
-Item. 31. ERRADO
+31. ERRADO
 
-Item. 32. ERRADO
+32. ERRADO
 
-Item. 33. ERRADO
+33. ERRADO
 
-Item. 34. ERRADO
+34. ERRADO
 
-Item. 35. CORRETO
+35. CORRETO
 
-Item. 36. CORRETO
+36. CORRETO
 
-Item. 37. CORRETO
+37. CORRETO
 
-Item. 38. CORRETO
+38. CORRETO
 
-Item. 39. CORRETO
+39. CORRETO
 
-Item. 40. ERRADO
+40. ERRADO
 
-Item. 41. CORRETO
+41. CORRETO
 
-Item. 42. CORRETO
+42. CORRETO
 
-Item. 43. CORRETO
+43. CORRETO
 
-Item. 44. ERRADO
+44. ERRADO
 
-Item. 45. ERRADO
+45. ERRADO
 
-Item. 46. CORRETO
+46. CORRETO
 
-Item. 47. LETRA A
-
+47. LETRA A
 
 QUESTõES CoMENTADAS - FCC
 
@@ -4020,7 +3905,7 @@ d) Abstract Factory.
 
 e) Composite.
 
-Item. 2. (FCC/TRE-PB-2015) Um técnico deseja usar um padrão de projeto de criação que
+2. (FCC/TRE-PB-2015) Um técnico deseja usar um padrão de projeto de criação que
 permita que
 as subclasses da aplicação possam variar. Este padrão deverá ser focado no
 processo de
@@ -4042,7 +3927,7 @@ d) Composite.
 
 e) Façade.
 
-Item. 3. (FCC / TRT13 - 2014) Angela pretende utilizar alguns design patterns em seu
+3. (FCC / TRT13 - 2014) Angela pretende utilizar alguns design patterns em seu
 projeto Java e,
 após algumas pesquisas, encontrou o que buscava em Singleton e Prototype cujos
 objetivos são,
@@ -4063,7 +3948,6 @@ IV. Possibilitar a criação de novos objetos a partir da cópia de objetos exis
 Está correto o que consta APENAS em
 a) I e II.
 
-
 b) I e III.
 
 c) lie III.
@@ -4072,7 +3956,7 @@ d) II e IV
 
 e) III e IV.
 
-Item. 4. (FCC/DPE-SP-2013) Um design pattern descreve uma solução geral comprovada e
+4. (FCC/DPE-SP-2013) Um design pattern descreve uma solução geral comprovada e
 reutilizável
 para um problema recorrente no desenvolvimento de sistemas de software
 orientados a
@@ -4100,7 +3984,7 @@ d) Singleton e Command.
 
 e) Facade e Observer.
 
-Item. 5. (FCC / TRT15 - 2013) Os padrões Gang of Four (GoF) organizam um conjunto de
+5. (FCC / TRT15 - 2013) Os padrões Gang of Four (GoF) organizam um conjunto de
 padrões de
 projeto (design patterns) em três grupos: de criação, estruturais e comportamentais.
 Três destes
@@ -4132,14 +4016,13 @@ a) Adapter, Facade e Strategy.
 
 b) Prototype, Composite e Command.
 
-
 c) Abstract Factory, Observere Iterator.
 
 d) Adapter, Observer e Iterator.
 
 e) Abstract Factory, Composite e Command.
 
-Item. 6. (FCC / AL-RN - 2013) Analise as seguintes afirmações:
+6. (FCC / AL-RN - 2013) Analise as seguintes afirmações:
 
 I. Fornece uma interface para a criação de uma família de objetos relacionados ou
 dependentes
@@ -4169,7 +4052,7 @@ d) Adapter - Builder - Abstract Factory - Bridge.
 
 e) Builder - Bridge - Abs tract Factory - Adapter.
 
-Item. 7. (FCC / TCE-PR - 2011) Os design patterns:
+7. (FCC / TCE-PR - 2011) Os design patterns:
 
 a) são projetos de arquitetura para um domínio específico de aplicação e
 sempre trazem
@@ -4190,8 +4073,7 @@ frameworks.
 e) podem ser modelados utilizando-se a linguagem UML que fornece um meio eficiente de
 modelar padrões de projeto representando-os como colaborações.
 
-Item. 8. (FCC/TRT24-2011) Considere:
-
+8. (FCC/TRT24-2011) Considere:
 
 I. Fornecer uma interface para criação de famílias de objetos relacionados ou
 dependentes, sem
@@ -4217,7 +4099,7 @@ d) Iterator, Factory Method e Flyweight.
 
 e) Singleton, Flyweight e Command.
 
-Item. 9. (FCC / TRE-RN - 2011) Na engenharia de software, os padrões de projetos
+9. (FCC / TRE-RN - 2011) Na engenharia de software, os padrões de projetos
 comportamentais
 tratam das interações e divisões de responsabilidades entre as classes ou objetos. São
 exemplos
@@ -4233,7 +4115,7 @@ d) Adapter, Bridge e Façade.
 
 e) Abstract Factory, Builder e Composite.
 
-Item. 10. (FCC /TRT4-2011) O catálogo de padrões de projeto (Design Patterns) do GoF contém:
+10. (FCC /TRT4-2011) O catálogo de padrões de projeto (Design Patterns) do GoF contém:
 
 a) 20 padrões e está basicamente dividido em duas seções: Structural e Behavioral.
 
@@ -4243,7 +4125,7 @@ c) 23 padrões e está basicamente dividido em duas seções: Structural e Behav
 
 d) 23 padrões e está, basicamente, dividido em três seções: Creational, Structural e Behavioral.
 
-Item. 11. (FCC / TRT14 - 2011) No contexto dos padrões de projeto:
+11. (FCC / TRT14 - 2011) No contexto dos padrões de projeto:
 
 I. Oferecer uma interface simples para uma coleção de classes.
 
@@ -4255,7 +4137,6 @@ Correspondem respectivamente a:
 
 a) Façade e Bridge.
 
-
 b) Adapter e Façade.
 
 c) Composite e Bridge.
@@ -4264,7 +4145,7 @@ d) Façade e Composite.
 
 e) Bridge e Adapter.
 
-Item. 12. (FCC / TRFZj - 2010) Sobre os design patterns, é correto afirmar:
+12. (FCC / TRFZj - 2010) Sobre os design patterns, é correto afirmar:
 
 a) Padrões e linguagens de padrões são maneiras de implementarsistemas orientados a
 objetos
@@ -4286,7 +4167,7 @@ e) O padrão é uma descrição de conhecimento e experiência acumulados, uma
 solução
 comprovada para um problema comum.
 
-Item. 13. (FCC / TJ-PI - 2009) Os padrões de projeto, quando aplicados ao desenvolvimento de
+13. (FCC / TJ-PI - 2009) Os padrões de projeto, quando aplicados ao desenvolvimento de
 aplicações,
 fornecem meios de descrever soluções comuns para problemas comuns, resultando em redução
 de
@@ -4318,7 +4199,6 @@ objetos e à alta coesão, uma vez que objetos fazem tudo que é relacionado à 
 própria
 informação.
 
-
 As afirmações correspondem, respectivamente, aos padrões
 a) Command, Iterator, Singleton e Expert.
 
@@ -4330,7 +4210,7 @@ d) Prototype, Façade, Iterator e Expert.
 
 e) Adapter, Façade, Command e Iterator.
 
-Item. 14. (FCC / Infraero - 2009) As associações entre classes e objetos são tratadas pelos Padrões de
+14. (FCC / Infraero - 2009) As associações entre classes e objetos são tratadas pelos Padrões de
 Projeto de Software (Design Patterns) da família de Padrões:
 
 a) GoF Estruturais.
@@ -4343,37 +4223,35 @@ d) GoF de Criação.
 
 e) GoF Comportamentais.
 
-
 GABARITo
 
-Item. 1. LETRA A
+1. LETRA A
 
-Item. 2. LETRA C
+2. LETRA C
 
-Item. 3. LETRA D
+3. LETRA D
 
-Item. 4. LETRA A
+4. LETRA A
 
-Item. 5. LETRA D
+5. LETRA D
 
-Item. 6. LETRA B
+6. LETRA B
 
-Item. 7. LETRA E
+7. LETRA E
 
-Item. 8. LETRA C
+8. LETRA C
 
-Item. 9. LETRA C
+9. LETRA C
 
-Item. 10. LETRA D
+10. LETRA D
 
-Item. 11. LETRA A
+11. LETRA A
 
-Item. 12. LETRA E
+12. LETRA E
 
-Item. 13. LETRA D
+13. LETRA D
 
-Item. 14. LETRA A
-
+14. LETRA A
 
 QUESTõES CoMENTADAS - FC V
 
@@ -4397,7 +4275,7 @@ d) padrão estrutural, padrão de criação e padrão comportamental.
 
 e) padrão de criação, padrão comportamental e padrão estrutural.
 
-Item. 2. (FGV/AL-MA-2013) Com relação ao tema Padrões de Projeto, conforme descritos porGamma
+2. (FGV/AL-MA-2013) Com relação ao tema Padrões de Projeto, conforme descritos porGamma
 et AlIi, sobre o padrão Prototype, analise as afirmativas a seguir.
 
 I. Apresenta como benefícios adicionais a adição e a remoção de produtos em
@@ -4422,7 +4300,7 @@ d) se somente as afirmativas I e II estiverem corretas.
 
 e) se todas as afirmativas estiverem corretas.
 
-Item. 3. (FGV / Senado Federal - 2008) Considera as seguintes assertivas sobre as
+3. (FGV / Senado Federal - 2008) Considera as seguintes assertivas sobre as
 vantagens do uso de
 padrões de software (software patterns):
 
@@ -4433,7 +4311,6 @@ comunicação, documentação e aprendizado dos sistemas de software.
 II. Padrões de projeto auxiliam no desenvolvimento de software por meio da
 reutilização do
 projeto de soluções computacionais já testadas e aprovadas.
-
 
 III. Uma biblioteca de padrões pode ajudar a melhorar e padronizar o
 desenvolvimento de
@@ -4451,15 +4328,13 @@ d) somente II e III.
 
 e) I, lie III.
 
-
 GABARITo
 
-Item. 1. LETRA A
+1. LETRA A
 
-Item. 2. LETRA E
+2. LETRA E
 
-Item. 3. LETRA E
-
+3. LETRA E
 
 QUESTõES CoMENTADAS - DIVERSAS BANCAS
 
@@ -4484,7 +4359,7 @@ O template padrão de um padrão de projeto é: (1) Nome do Padrão; (2) Problem
 
 Gabarito: Letra B
 
-Item. 2. (IBFC / EBSERH - 2017) Os Padrões de Projeto de software são organizados em três
+2. (IBFC / EBSERH - 2017) Os Padrões de Projeto de software são organizados em três
 famílias
 conforme a "Gangue dos Quatro" (Gang of Four). Dos "Padrões de Criação" abaixo,
 identifique
@@ -4511,7 +4386,6 @@ e) somente o 5 não pertence a essa família especificamente.
 
 Comentários:
 
-
 CriaçJão
 
 Propósito
@@ -4524,7 +4398,6 @@ Abstract Factory Bridge Command
 Prototype Composite Iterator
 
 Singlenton Decorator Mediator
-
 
 Factory Method Facade
 Flyweight
@@ -4546,7 +4419,7 @@ Factory Method
 
 Gabarito: Letra E
 
-Item. 3. (IBFC / EBSERH - 2017) Erich Hamma, Richard Helm, Ralph Johson e John Vlissdes,
+3. (IBFC / EBSERH - 2017) Erich Hamma, Richard Helm, Ralph Johson e John Vlissdes,
 mais
 conhecidos como "Gang of Four", coletaram originalmente 23 Design Pattems
 (Padrões de
@@ -4575,7 +4448,6 @@ Gama).
 
 Comentários:
 
-
 CriaçJão
 
 Propósito
@@ -4588,7 +4460,6 @@ Abstract Factory Bridge Command
 Prototype Composite Iterator
 
 Singlenton Decorator Mediator
-
 
 Factory Method Facade
 Flyweight
@@ -4610,7 +4481,7 @@ Patterns) e Padrões Comportamentais (Behavioral Patterns).
 
 Gabarito: Letra C
 
-Item. 4. (ESAF / CGU - 2012) O padrão de projeto singleton é usado para restringir:
+4. (ESAF / CGU - 2012) O padrão de projeto singleton é usado para restringir:
 
 a) a instanciação de uma classe para objetos simples.
 
@@ -4632,7 +4503,7 @@ Ele restringe a instanciação de uma classe para apenas um objeto ou instância
 
 Gabarito: Letra B
 
-Item. 5. (FEMPERJ /TCE-RJ -2012) Padrões de Projeto descrevem soluções para problemas
+5. (FEMPERJ /TCE-RJ -2012) Padrões de Projeto descrevem soluções para problemas
 recorrentes
 no desenvolvimento de sistemas de software orientados a objetos. Um padrão de
 projeto
@@ -4645,7 +4516,6 @@ tem como função:
 a) garantir a existência de apenas uma instância de uma classe, mantendo um ponto
 global de
 acesso ao seu objeto.
-
 
 b) adicionar dinamicamente um comportamento a um objeto existente sem alterar o código
 das
@@ -4661,7 +4531,6 @@ e) permitir que classes com interfaces incompatíveis possam interagir.
 
 Comentários:
 
-
 SINGLETON
 
 Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de acesso
@@ -4675,7 +4544,6 @@ DECORATOR alternativa flexível em relação à herança para estenderfuncionali
 
 (b) Errado, trata-se do Decorator.
 
-
 ABSTRACT FACTORY
 
 Esse padrão fornece uma interface para criarfamílias de objetos relacionados ou
@@ -4683,7 +4551,6 @@ dependentes
 sem especificar suas classes concretas.
 
 (c) Errado, trata-se do Abstract Factory.
-
 
 VISITOR
 
@@ -4701,8 +4568,7 @@ ADAPTER poderiam trabalhar juntas por serem incompatíveis.
 
 Gabarito: Letra E
 
-
-Item. 6. (ESAF/ATRFB-2012) OS padrões de projeto (Design Patterns) são classificados nas categorias:
+6. (ESAF/ATRFB-2012) OS padrões de projeto (Design Patterns) são classificados nas categorias:
 
 a) Situacional. Estrutural. Complementar.
 
@@ -4727,7 +4593,6 @@ Prototype Composite Iterator
 
 Singlenton Decorator Mediator
 
-
 Factory Method Facade
 Flyweight
 
@@ -4746,7 +4611,7 @@ Classifica-se em Criacional, Estrutural ou Comportamental.
 
 Gabarito: Letra E
 
-Item. 7. (ESAF/CGU-2008) Ao longo das últimas décadas, a engenharia de software
+7. (ESAF/CGU-2008) Ao longo das últimas décadas, a engenharia de software
 fez progressos
 significativos no campo de padrões de projeto - arquiteturas comprovadas para
 construir
@@ -4766,7 +4631,6 @@ c) Define uma interface para criar um objeto, mas deixas as subclasses decidirem
 classe a
 ser instanciada.
 
-
 d) Fornece uma interface unificada para um conjunto de interfaces em um sistema.
 
 e) Define uma dependência "um para muitos" entre objetos, de modo que, quando um
@@ -4781,14 +4645,12 @@ PROXY a outro objeto.
 
 (a) Errado. Trata-se do Proxy.
 
-
 TEMPLATE METHOD
 
 Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixando alguns
 passos a serem preenchidos pelas subclasses.
 
 (b) Errado. Trata-se do Template Method.
-
 
 FACTORYMETHOD
 
@@ -4803,7 +4665,6 @@ FACADE subsistema, definindo uma interface de alto nível que facilita a utiliza
 
 (d) Correto. Trata-se do Façade.
 
-
 OBSERVER
 
 Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um
@@ -4815,14 +4676,13 @@ automaticamente.
 
 Gabarito: Letra D
 
-Item. 8. (ESAF / CGU - 2008) Quanto à finalidade, os padrões de projeto podem ser
+8. (ESAF / CGU - 2008) Quanto à finalidade, os padrões de projeto podem ser
 classificados em
 padrões de criação, padrões de estutura ou padrões comportamentais. Correspondem
 à
 categoria de padrões estruturais:
 
 a) Facade, Prototype e Proxy.
-
 
 b) Adapter, Composite e Proxy.
 
@@ -4845,7 +4705,6 @@ Prototype Composite Iterator
 
 Singlenton Decorator Mediator
 
-
 Factory Method Facade
 Flyweight
 
@@ -4864,7 +4723,7 @@ Trata-se do Adapter, Composite e Proxy.
 
 Gabarito: Letra B
 
-Item. 9. (ESAF / AFRFB - 2005) Analise as seguintes afirmações relacionadas a padrões de projetos:
+9. (ESAF / AFRFB - 2005) Analise as seguintes afirmações relacionadas a padrões de projetos:
 
 I. O padrão Builder separa a construção de um objeto complexo de sua representação,
 de modo
@@ -4890,7 +4749,6 @@ atualizados.
 
 Indique a opção que contenha todas as afirmações verdadeiras.
 
-
 a) I e III.
 
 b) lie III.
@@ -4903,7 +4761,6 @@ e) lie IV.
 
 Comentários:
 
-
 BUILDER
 
 Esse padrão separa a construção de um objeto complexo da sua representação, de forma
@@ -4911,7 +4768,6 @@ que
 o mesmo processo de construção possa criar diferentes tipos de representações.
 
 (I) Contrução de um objeto complexo?Trata-se do Builder!
-
 
 ABSTRACTFACTORY
 
@@ -4927,7 +4783,6 @@ concreta é completa, na medida em que contém todas as implementações de seus
 por
 outro lado uma classe abstrata seria incompleta.
 
-
 FACTORY METHOD
 
 Esse padrão define uma interface para criarum objeto, mas deixa as subclasses decidirem qual
@@ -4938,7 +4793,6 @@ classe instanciar.
 Esse padrão utiliza compartilhamento para suportar eficientemente grandes quantidades de
 
 FLYWEIGHT objetos de baixa granularidade.
-
 
 OBSERVER
 
@@ -4951,27 +4805,25 @@ automaticamente.
 
 Gabarito: Letra D
 
-
 GABARITo
 
-Item. 1. LETRAB
+1. LETRAB
 
-Item. 2. LETRAE
+2. LETRAE
 
-Item. 3. LETRAC
+3. LETRAC
 
-Item. 4. LETRAB
+4. LETRAB
 
-Item. 5. LETRAE
+5. LETRAE
 
-Item. 6. LETRAE
+6. LETRAE
 
-Item. 7. LETRAD
+7. LETRAD
 
-Item. 8. LETRAB
+8. LETRAB
 
-Item. 9. LETRAD
-
+9. LETRAD
 
 GRASP
 
@@ -5025,7 +4877,6 @@ conhecer a descrição básica.
 
 \iAC>.
 
-
 lawTOK
 
 llMP^cnoNl
@@ -5035,7 +4886,6 @@ CoJRJKIÇ FRoTEonet?
 /ccNT£òL£<
 
 *
-
 
 Expert:
 
@@ -5106,7 +4956,6 @@ outras palavras, ela atribui um conjunto altamente coesivo de responsabilidade
 a uma classe
 artificial que não representa um conceito do domínio do problema.
 
-
 Indirection:
 
 Esse padrão atribui responsabilidade a um objeto intermediário para mediar as mensagens
@@ -5129,10 +4978,9 @@ variações de outros elementos (objetos, sistemas, subsistemas) ao envolver o f
 instabilidade
 em uma interface e usando o polimorfismo para criar várias implementações desta interface.
 
-
 QUESTõES CoMENTADAS - CRASP - CEBRASPE
 
-Item. 1. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Pure Fabrication
+1. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Pure Fabrication
 objetiva
 designar a responsabilidade unívoca pela criação de uma nova instância de uma classe.
 
@@ -5150,7 +4998,7 @@ pela criação de uma nova instância de uma classe.
 
 Conforme vimos em aula, a questão trata do Padrão Creator! Gabarito: E
 
-Item. 2. (CESPE - 2013 - TCE/RO - Analista de Informática) Nos casos em que a solução
+2. (CESPE - 2013 - TCE/RO - Analista de Informática) Nos casos em que a solução
 oferecida
 pelo padrão Expert violar a alta coesão e o baixo acoplamento, o padrão adequado a
 ser
@@ -5171,7 +5019,7 @@ artificial que não representa um conceito do domínio do problema.
 
 Conforme vimos em aula, a questão trata do Padrão Padrão Pure Fabrication! Gabarito: E
 
-Item. 3. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Indirection é
+3. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Indirection é
 utilizado para
 atribuir responsabilidades à classe que tiver a informação necessária para
 satisfazer a
@@ -5191,8 +5039,7 @@ informação necessária para satisfazer essa responsabilidade.
 
 Conforme vimos em aula, a questão trata do Padrão Expert! Gabarito: E
 
-
-Item. 4. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Don't Talk to
+4. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Don't Talk to
 Strangers é
 utilizado para fortalecer o polimorfismo, realizado pelo padrão Polymorphism. O objetivo
 de ambos os padrões é substituir um componente sem afetar outro componente, embora
@@ -5232,7 +5079,7 @@ Variations). Quem liga com o polimorfismo em nível de classe é o Padrão Polym
 Gabarito:
 E
 
-Item. 5. (CESPE - 2013 - CNJ - Analista Judiciário - Análise de Sistemas) Os padrões:
+5. (CESPE - 2013 - CNJ - Analista Judiciário - Análise de Sistemas) Os padrões:
 Controller;
 Polimorfismo; e Information Expert, são considerados do tipo GRASP porque cada
 um
@@ -5246,7 +5093,7 @@ Comentários:
 
 Questão mais perfeita, impossível! Tudo correto! Gabarito: C
 
-Item. 6. (CESPE - 2010 - MPU - Desenvolvimento de Sistemas) GRASP (general
+6. (CESPE - 2010 - MPU - Desenvolvimento de Sistemas) GRASP (general
 responsibility
 assignment software patterns) consiste em um conjunto de sete padrões básicos
 para
@@ -5260,13 +5107,11 @@ O Padrão GRASP é composto de cinco Padrões Básicos e quatro Padrões Avança
 Padrões
 Básicos são: Information Expert, Creator, High Cohesion, Low Coupling e Controller. Já os Padrões
 
-
 Avançados são: Polymorphism, Pure Fabrication, Indirection e Protected Variations.
 Assim como
 os Padrões de Projeto (GOF), para resolver a grande maioria das questões,
 basta conhecer a
 descrição básica.
-
 
 \^AI> SXs iQoS
 
@@ -5290,7 +5135,7 @@ FfSoFGQreb
 
 Conforme vimos em aula, temos cinco padrões básicos! Gabarito: E
 
-Item. 7. (CESPE - 2005 - SERPRO - Desenvolvimento de Sistemas) No polimorfismo, que é um
+7. (CESPE - 2005 - SERPRO - Desenvolvimento de Sistemas) No polimorfismo, que é um
 tipo de padrão GRASP, um mesmo método pode apresentar várias formas.
 
 Comentários:
@@ -5307,7 +5152,7 @@ realizado, mas utilizar os próprios tipos. Galera, é o polimorfismo comum à o
 
 Conforme vimos em aula, está perfeito! Gabarito: C
 
-Item. 8. (CESPE - 2008 - SERPRO - Analista - Desenvolvimento de Sistemas) Expert é um
+8. (CESPE - 2008 - SERPRO - Analista - Desenvolvimento de Sistemas) Expert é um
 padrão
 que apresenta uma interface para várias funcionalidades de uma API de maneira simples
 e fácil de usar.
@@ -5327,11 +5172,9 @@ distribuição de
 responsabilidades a classes e objetos em implementações orientadas a objetos. Os
 principais exemplos de padrões GRASP são: Information Expert, Creator, Visitor,
 
-
 Controller, Iterator, Low Coupling, High Cohesion, Polymorphism, State, Strategy,
 Pure
 Fabrication, Indirection, Proxy e Protected Variations.
-
 
 Comentários:
 
@@ -5389,7 +5232,6 @@ para que o acoplamento mantenha-se fraco, o padrão Expert é mais adequado
 que o
 padrão Low Coupling.
 
-
 Comentários:
 
 Low Coupling:
@@ -5425,27 +5267,26 @@ trata da dependência entre partes/componentes. A questão trata do segudo caso:
 Acoplamento.
 Gabarito: E
 
-
 LISTA DE QUESTõES - GRASP - MULTIBANCAS
 
-Item. 1. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Pure Fabrication
+1. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Pure Fabrication
 objetiva
 designar a responsabilidade unívoca pela criação de uma nova instância de uma classe.
 
-Item. 2. (CESPE - 2013 - TCE/RO - Analista de Informática) Nos casos em que a solução
+2. (CESPE - 2013 - TCE/RO - Analista de Informática) Nos casos em que a solução
 oferecida
 pelo padrão Expert violar a alta coesão e o baixo acoplamento, o padrão adequado a
 ser
 aplicado será o Creator, que atribui um conjunto altamente coesivo de responsabilidades
 a uma classe artificial que não representa um conceito do domínio do problema.
 
-Item. 3. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Indirection é
+3. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Indirection é
 utilizado para
 atribuir responsabilidades à classe que tiver a informação necessária para
 satisfazer a
 responsabilidade.
 
-Item. 4. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Don't Talk to
+4. (CESPE - 2013 - TCE/RO - Analista de Informática) O padrão Don't Talk to
 Strangers é
 utilizado para fortalecer o polimorfismo, realizado pelo padrão Polymorphism. O objetivo
 de ambos os padrões é substituir um componente sem afetar outro componente, embora
@@ -5453,7 +5294,7 @@ o primeiro implemente o polimorfismo em nível de classe e o segundo lide
 com
 alternativas embasadas no tipo de componente.
 
-Item. 5. (CESPE - 2013 - CNJ - Analista Judiciário - Análise de Sistemas) Os padrões:
+5. (CESPE - 2013 - CNJ - Analista Judiciário - Análise de Sistemas) Os padrões:
 Controller;
 Polimorfismo; e Information Expert, são considerados do tipo GRASP porque cada
 um
@@ -5463,7 +5304,7 @@ responsabilidade é concernente à variação de comportamento, conforme o tipo 
 objeto. No caso do Information Expert, a responsabilidade concerne à disponibilidade de
 informações que permitem o desempenho de uma responsabilidade.
 
-Item. 6. (CESPE - 2010 - MPU - Desenvolvimento de Sistemas) GRASP (general
+6. (CESPE - 2010 - MPU - Desenvolvimento de Sistemas) GRASP (general
 responsibility
 assignment software patterns) consiste em um conjunto de sete padrões básicos
 para
@@ -5471,15 +5312,15 @@ atribuir responsabilidades em projeto orientado a objetos: information expert,
 creator,
 controller, low coupling, high cohesion, polymorphism e pure fabrication.
 
-Item. 7. (CESPE - 2005 - SERPRO - Desenvolvimento de Sistemas) No polimorfismo, que é um
+7. (CESPE - 2005 - SERPRO - Desenvolvimento de Sistemas) No polimorfismo, que é um
 tipo de padrão GRASP, um mesmo método pode apresentar várias formas.
 
-Item. 8. (CESPE - 2008 - SERPRO - Analista - Desenvolvimento de Sistemas) Expert é um
+8. (CESPE - 2008 - SERPRO - Analista - Desenvolvimento de Sistemas) Expert é um
 padrão
 que apresenta uma interface para várias funcionalidades de uma API de maneira simples
 e fácil de usar.
 
-Item. 9. (CESPE - 2010 - SERPRO - Analista de Sistemas) Os padrões GRASP (general
+9. (CESPE - 2010 - SERPRO - Analista de Sistemas) Os padrões GRASP (general
 responsibility
 assignment software patterns) consistem em modelos de
 distribuição de
@@ -5490,15 +5331,14 @@ Controller, Iterator, Low Coupling, High Cohesion, Polymorphism, State, Strategy
 Pure
 Fabrication, Indirection, Proxy e Protected Variations.
 
-
-Item. 10. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Enquanto os padrões GRASP refletem
+10. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Enquanto os padrões GRASP refletem
 práticas mais pontuais da aplicação de técnicas orientadas a objetos, os
 padrões de
 projeto GoF (Gang of Four) exploram soluções mais específicas. Dessa forma, não há, no
 GRASP, um padrão que ajude a solucionar, por exemplo, a definição de qual classe deve
 ser a responsável por lidar com um evento de determinada interface.
 
-Item. 11. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Em um cenário em que é
+11. (CESPE - 2014 - SUFRAMA - Analista de Sistemas) Em um cenário em que é
 necessário
 minimizar dependências e maximizar o reúso, bem como atribuir uma
 responsabilidade
@@ -5506,29 +5346,27 @@ para que o acoplamento mantenha-se fraco, o padrão Expert é mais adequado
 que o
 padrão Low Coupling.
 
-Item. 12. (CESPE - 2017 - SE/DF - Analista de Sistemas) No padrão GRASP, a alta coesão
+12. (CESPE - 2017 - SE/DF - Analista de Sistemas) No padrão GRASP, a alta coesão
 (high
 cohesion) serve para mensurar quão fortemente uma classe está conectada a
 outras
 classes.
 
-
 GABARITo
 
 GABARITO
 
-Item. 1. E 5. C
-Item. 9. E
+1. E 5. C
+9. E
 
-Item. 2. E 6. E
-Item. 10. E
+2. E 6. E
+10. E
 
-Item. 3. E 7. C
-Item. 11. E
+3. E 7. C
+11. E
 
-Item. 4. E 8. E
-Item. 12. E
-
+4. E 8. E
+12. E
 
 Conceitos Básicos
 
@@ -5575,7 +5413,6 @@ função, método ou módulo.
 
 Responsabilidade Única
 
-
 I am a chef,
 a gardener,
 a painter
@@ -5608,7 +5445,6 @@ motorista - o ideal é que tivéssemos um robô para cada uma dessas responsabil
 
 Aberto-Fechado
 
-
 CLASSES DEVEM SER ABERTAS PARA EXTENSÃO, MAS FECHADAS PARA MODIFICAÇÃO
 
 Alterar o comportamento atual de uma classe afetará todos os sistemas que usam essa
@@ -5632,7 +5468,6 @@ robô
 que cortava, foi estendido e agora aprendeu também a pintar.
 
 Substituição de Liskov
-
 
 Hi, Tm Sam.
 I make
@@ -5785,7 +5620,6 @@ propriedades de projeto relacionadas a cada um dos princípios:
 PRINCÍPIOS SoLID DESCRIÇÃO
 PROPRIEDADES
 
-
 Uma classe deve ter um, e somente um, motivo para mudar.
 
 Objetos ou entidades devem estar abertos para extensão, mas
@@ -5841,7 +5675,7 @@ três respostas corretas e, por essa razão, a questão foi anulada.
 
 Gabarito: Anulada
 
-Item. 2. (CESPE / BANRISUL - 2022) Os princípios de programação orientada a
+2. (CESPE / BANRISUL - 2022) Os princípios de programação orientada a
 objetos que
 correspondem aos princípios SOLID são: criador (creator), especialista na
 informação
@@ -5865,11 +5699,9 @@ Os Princípios SOLID são:
 
 Gabarito: Errado
 
-
 0 0
 
 www- estratégia concursos. com.br
-
 
 3- (AOCP / PRODEB - 2018) Com base no modelo SOLID utilizado como
 referência para
@@ -5904,7 +5736,7 @@ relacionada ao LSP.
 
 Gabarito: Letra B
 
-Item. 4. (AOCP / PRODEB - 2018) Em relação aos padrões de projeto de software
+4. (AOCP / PRODEB - 2018) Em relação aos padrões de projeto de software
 e princípios
 arquiteturais, em programação orientada a objetos, existe um princípio denominado
 de
@@ -5934,7 +5766,6 @@ principie) - I
 
 Comentários:
 
-
 Ele é composto por 05 princípios de acordo com as suas iniciais, sendo eles:
 
 [S] - Single Responsiblity Principie (Princípio da Responsabilidade Única)
@@ -5949,7 +5780,7 @@ Ele é composto por 05 princípios de acordo com as suas iniciais, sendo eles:
 
 Gabarito: Letra A
 
-Item. 5. (CESPE / BANRISUL - 2022) O princípio da segregação de interface dos padrões SOLID
+5. (CESPE / BANRISUL - 2022) O princípio da segregação de interface dos padrões SOLID
 define que uma classe deve possuir somente uma operação para ser executada.
 
 Comentários:
@@ -5962,7 +5793,7 @@ não irá utilizar.
 
 Gabarito: Errado
 
-Item. 6. (FUNDEP / UFJF - 2022) No contexto dos princípios SOLID, analise as afirmativas a seguir.
+6. (FUNDEP / UFJF - 2022) No contexto dos princípios SOLID, analise as afirmativas a seguir.
 
 I. O princípio de inversão de dependência estabelece que uma classe deve depender de
 implementações abstratas e não concretas, sempre que possível.
@@ -5992,7 +5823,6 @@ Comentários:
 (I) Correto; (II) Errado, ele estabelece que uma classe deve estar aberta para
 extensões, mas
 fechada para modificações - a questão inverteu os conceitos; (III) Correto.
-
 
 7- (FCC / TRE-PR - 2017) Os princípios SOLID reúnem cinco boas práticas
 para projetos
@@ -6054,10 +5884,9 @@ quando deveria ter apenas uma; (e) Errado, fica mais difícil de manter visto qu
 tem diversas
 responsabilidades.
 
-
 Gabarito: Letra D
 
-Item. 8. (IESES / CREA-SC - 2017) Assinale a alternativa correta:
+8. (IESES / CREA-SC - 2017) Assinale a alternativa correta:
 
 a) SOLID é um acróstico e, cada letra está relacionada a um princípio para
 programação e
@@ -6109,7 +5938,6 @@ computacional de sólidos tridimensionais.
 
 Gabarito: Letra B
 
-
 LISTA DE QUESTõES
 
 í. (FGV/ Senado Federal -2022) Os princípios de Orientação a Objetos e Design de
@@ -6130,7 +5958,7 @@ d) Princípio da Responsabilidade Única.
 
 e) Princípio da Inversão de Dependência.
 
-Item. 2. (CESPE / BANRISUL - 2022) Os princípios de programação orientada a
+2. (CESPE / BANRISUL - 2022) Os princípios de programação orientada a
 objetos que
 correspondem aos princípios SOLID são: criador (creator), especialista na
 informação
@@ -6138,7 +5966,7 @@ informação
 pura
 (pure fabrication).
 
-Item. 3. (AOCP / PRODEB - 2018) Com base no modelo SOLID utilizado como
+3. (AOCP / PRODEB - 2018) Com base no modelo SOLID utilizado como
 referência para
 padrões de projeto e princípios arquiteturais, um dos seus princípios denominados de LSP
 (Liskov Substitution Principie) diz respeito ao fato de que:
@@ -6159,7 +5987,7 @@ atributo que possua alguma semelhança.
 
 e) os módulos devem ser enxutos tendo poucos comportamentos.
 
-Item. 4. (AOCP / PRODEB - 2018) Em relação aos padrões de projeto de software e
+4. (AOCP / PRODEB - 2018) Em relação aos padrões de projeto de software e
 princípios
 arquiteturais, em programação orientada a objetos, existe um princípio denominado
 de
@@ -6175,7 +6003,6 @@ b) S (Solid principie) - O (Open principie) - L (Library principie) -1 (Integrat
 principie) - D
 (Double principie).
 
-
 c) S (Security closed principie) - O (Open extend principie) - L (Liskov include
 principie) - I
 (Interface duplication principie) - D (Duplicate structure principie).
@@ -6188,11 +6015,11 @@ e) S (Security basic principie) - O (Open extern principie) - L (Liskov include
 principie) - I
 (Interface duplication principie) - D (Duplicate segregation principie).
 
-Item. 5. (CESPE / BANRISUL - 2022) O princípio da segregação de interface dos padrões
+5. (CESPE / BANRISUL - 2022) O princípio da segregação de interface dos padrões
 SOLID
 define que uma classe deve possuir somente uma operação para ser executada.
 
-Item. 6. (FUNDEP / UFJF - 2022) No contexto dos princípios SOLID, analise as afirmativas a seguir.
+6. (FUNDEP / UFJF - 2022) No contexto dos princípios SOLID, analise as afirmativas a seguir.
 
 I. O princípio de inversão de dependência estabelece que uma classe deve depender de
 implementações abstratas e não concretas, sempre que possível.
@@ -6217,7 +6044,7 @@ d) I e III, apenas.
 
 e) II e III, apenas.
 
-Item. 7. (FCC / TRE-PR - 2017) Os princípios SOLID reúnem cinco boas práticas
+7. (FCC / TRE-PR - 2017) Os princípios SOLID reúnem cinco boas práticas
 para projetos
 Orientados a Objetos-OO. O princípio S, que se refere ao Single Responsability
 Principle-SRP
@@ -6237,7 +6064,6 @@ public void CadastrarMesarios() { }
 }
 
 Com base no princípio SRP e nas boas práticas para projetos 00, é correto afirmar:
-
 
 a) O SRP visa aumentar o acoplamento entre classes e separar responsabilidades como
 forma
@@ -6262,7 +6088,7 @@ manter a coesão em um nível mais alto ou em nível de componentes, poiso softw
 fica com
 uma divisão clara de camadas.
 
-Item. 8. (IESES / CREA-SC - 2017) Assinale a alternativa correta:
+8. (IESES / CREA-SC - 2017) Assinale a alternativa correta:
 
 a) SOLID é um acróstico e, cada letra está relacionada a um princípio para
 programação e
@@ -6289,23 +6115,21 @@ sólida
 distingue-se das áreas relacionadas de modelagem geométrica e computação gráfica por sua
 ênfase na fidelidade física.
 
-
 GABARITo
 
-Item. 1. ANULADA
+1. ANULADA
 
-Item. 2. ERRADO
+2. ERRADO
 
-Item. 3. LETRA B
+3. LETRA B
 
-Item. 4. LETRA A
+4. LETRA A
 
-Item. 5. ERRADO
+5. ERRADO
 
-Item. 6. LETRA D
+6. LETRA D
 
-Item. 7. LETRA D
+7. LETRA D
 
-Item. 8. LETRA B
-
+8. LETRA B
 

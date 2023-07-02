@@ -1,5 +1,4 @@
-Capítulo. Garantia da Segurança de Sistemas - Controle de acesso. Assinatura e Certificação digital.
-
+# Garantia da Segurança de Sistemas - Controle de acesso. Assinatura e Certificação digital.
 
 Índice
 
@@ -10,7 +9,6 @@ Capítulo. Garantia da Segurança de Sistemas - Controle de acesso. Assinatura e
 3) ICP - Infraestrutura de Chaves Públicas - PKI (Public Key Infrastructure)
 
 4) Aplicações de Criptografia
-
 
 ASSINATURA DIGITAL
 
@@ -38,20 +36,18 @@ criptografia assimétrica. Entretanto, antes de se aplicar o algoritmo de chaves
 públicas, realiza-se a
 função HASH no texto em claro. Portanto, sequencialmente, temos:
 
-Item. 1. Gera-se o HASH da mensagem em claro;
+1. Gera-se o HASH da mensagem em claro;
 
-Item. 2. Aplica-se o algoritmo de criptografia assimétrica utilizando a chave privada do
+2. Aplica-se o algoritmo de criptografia assimétrica utilizando a chave privada do
 EMISSOR sobre o HASH gerado no passo 1;
 
-Item. 3. Tem-se a Assinatura Digital;
+3. Tem-se a Assinatura Digital;
 
-Item. 4. Envia-se ao destinatário a Assinatura Digital gerada e a mensagem original;
-
+4. Envia-se ao destinatário a Assinatura Digital gerada e a mensagem original;
 
 / 25
 
 /
-
 
 No lado do destinatário, este deverá primeiramente utilizar a chave pública do EMISSOR.
 Ao realizar
@@ -96,7 +92,6 @@ também gerará um HASH.
 
 Em seguida, basta ele comparar o HASH gerado com o HASH recebido. Caso sejam idênticos, assume-
 se que a mensagem é autêntica e íntegra.
-
 
 CERTIFICAçÃo DIGITAL
 
@@ -157,13 +152,11 @@ da chave pública do destinatário ou ainda a utilização de chaves de sessão 
 de chaves
 simétricas.
 
-
 Desse modo, vamos analisar a figura a seguir para entendermos bem o seu funcionamento:
 
 Hash calculado por B
 
 Hash calculado por A
-
 
 Assinatura
 digital de A
@@ -204,7 +197,6 @@ simétrica e calcular o HASH.
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação -
 2023 (Pós-Edital) 6
 
-
 Caso ambas sejam iguais, tem-se a garantia dos três princípios.
 
 Mais uma vez pessoal, é muito importante que entendam o modelo
@@ -214,7 +206,6 @@ modelo como
 base. Acrescentam-se alguns passos, elementos de validação, como a Autoridade
 Certificadora,
 entre outros, porém, o princípio é o mesmo.
-
 
 ICP - INFRAESTRUTURA DE CHAVES PÚBLICAS - PKI
 (PUBLIC KEY INFRASTRUCTURE)
@@ -249,11 +240,11 @@ As requisições de certificado também devem seguir uma rotina e padrão para q
 válida e
 aceita. A estrutura dessa requisição deve contemplar, basicamente:
 
-Item. 1. Informação de Requisição do Certificado;
+1. Informação de Requisição do Certificado;
 
-Item. 2. Identificador do Algoritmo de Assinatura;
+2. Identificador do Algoritmo de Assinatura;
 
-Item. 3. Assinatura Digital da Informação de Requisição;
+3. Assinatura Digital da Informação de Requisição;
 
 Além disso, a AC é responsável pela manutenção e gerenciamento da lista de
 Certificados
@@ -261,7 +252,6 @@ Revogados, devendo publicar essa informação
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital)
-
 
 Outra função presente na AC é responder às requisições de consultas de verificação de
 certificados
@@ -292,7 +282,6 @@ Esse tipo de relacionamento é conhecido como Bridge.
 Caso haja mais de duas AC's Raiz que possuem relação de confiança mútua,
 chamamos de modelo Misto.
 
-
 AUToRIDADE REGISTRADoRA - AR
 
 Algumas estruturas de PKI permitem segmentar os papéis e funcionalidade presentes na
@@ -307,11 +296,11 @@ e capacidade de EMITIR CERTIFICADOS.
 
 Entretanto, pode exercer as seguintes funções:
 
-Item. 1. Distribuir chaves;
+1. Distribuir chaves;
 
-Item. 2. Receber e aceitar registros;
+2. Receber e aceitar registros;
 
-Item. 3. Validar requisições de verificação de certificado;
+3. Validar requisições de verificação de certificado;
 
 A Autoridade de Registro pode estar localizada fisicamente em conjunto com a AC ou
 localizada
@@ -325,7 +314,6 @@ digital.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital)
-
 
 Para os alunos que estão estudando em frente a um computador, recomendo darem uma
 olhada
@@ -346,7 +334,6 @@ infraestrutura de chaves públicas.
 Além disso, avançando para a aba de "caminho de certificação", utilizando o navegador
 CHROME,
 obtemos a imagem abaixo:
-
 
 Certificado
 
@@ -381,7 +368,6 @@ Tais certificados geralmente são pagos e mantidos por terceiros.
 Entretanto, temos um modelo em que queremos gerar certificados digitais
 internos a uma
 organização ou para troca entre duas ou mais organizações que confiam entre si mutuamente.
-
 
 Entretanto, ao acessarmos esses serviços com certificados digitais e que não
 façam parte da
@@ -421,12 +407,11 @@ revogados.
 
 Para que isto ocorra, podemos citar alguns exemplos:
 
-Item. 1. Caso o prazo de validade do certificado expire;
+1. Caso o prazo de validade do certificado expire;
 
-Item. 2. Caso o usuário perca a informação de sua chave privada e não haja custódia de um terceiro;
+2. Caso o usuário perca a informação de sua chave privada e não haja custódia de um terceiro;
 
-
-Item. 3. Caso haja violação da chave privada, ou seja, algum terceiro obtenha a informação da chave
+3. Caso haja violação da chave privada, ou seja, algum terceiro obtenha a informação da chave
 privada de um usuário ou sistema.
 
 Todos esses certificados inválidos figuram então na lista de certificados
@@ -467,7 +452,6 @@ virtual do cidadão.
 Observa-se que o modelo adotado pelo Brasil foi o de certificação com raiz única,
 sendo que o ITI,
 
-
 além de desempenhar o papel de Autoridade Certificadora Raiz (AC-Raiz), também tem o
 papel de
 credenciar e descredenciar os demais participantes da cadeia, supervisionar e fazer
@@ -495,7 +479,7 @@ ICP Brasil
 que consta
 no link:
 http://www.iti.gov.br/images/twiki/URL/pub/Certificacao/Glossario/Glossario ICP Brasil Versão
-Item. 1.2 nov
+1.2 nov
 o-2.pdf
 
 Sugiro uma leitura desse documento pelo menos uma vez para se ter uma visão geral das definições.
@@ -573,7 +557,7 @@ já mencionamos, os certificados possuem validade jurídica e fiscal... Então �
 realizar atos
 legais a partir do certificado digital.
 
-Item. 1. e-CPF
+1. e-CPF
 
 a. Utilizado para pessoa física;
 
@@ -588,7 +572,7 @@ i. Declaração de Imposto de Renda;
 ii. Serviços Gerais da Receita Federal, entre outros serviços da justiça, saúde e
 educação;
 
-Item. 2. e-CNPJ
+2. e-CNPJ
 
 a. Utilizado por pessoa jurídica;
 
@@ -608,7 +592,6 @@ educação;
 
 iv. Outros serviços como o sistema social da CAIXA (FGTS), sistema integrado de
 comércio exterior (Siscomex);
-
 
 EV SSL (Validação Avançada)
 
@@ -644,7 +627,6 @@ https://www.estrategiaconcursos.com. br/cursosPorProfessor/andre-castro-3353/
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital)
-
 
 Percebam que se trata de uma mesma URL, havendo distinção apenas dos
 objetos que são
@@ -697,7 +679,6 @@ Nesse sentido, a ideia é gerar um único certificado que suporte outros domíni
 
 * Entre outros
 
-
 A figura abaixo nos dá um exemplo do site da geotrust, considerando esse contexto:
 
 Safari is using an encrypted connectron to www.geotrusLcom.
@@ -717,7 +698,6 @@ Extension Extended Key Usage ( 2.5.29.37 )
 
 Criticai NO
 
-
 Purpose #1
 
 Purpose #2
@@ -731,7 +711,6 @@ Criticai NO
 
 Key ID 28 C4 EB 8F F1 5F 79 90 A3 28 55 C3 56 4E 70 6B 53 72 2C
 
-
 Extension 5ubject Alternative Name ( 2.5.29.17)
 
 Criticai NO
@@ -739,7 +718,6 @@ Criticai NO
 DN5 Name www.geotrust.net
 DN5 Name www.geot ru st. com
 DN5 Name geotrust.com
-
 
 Extension
 Criticai
@@ -757,7 +735,6 @@ NO
 Certificalion Practice Statement( 1.3.6.1.5.5.7.2.1 )
 htt D : / www.g eot ru s t. co mre so u ice s c ps
 
-
 Extension
 Criticai
 
@@ -765,7 +742,6 @@ CRL Distribiution Points ( 2.5.29.31 )
 NO
 
 URI http: / / EV5 5 L - c rl. qe otru st. c o m /cr 1 s / q textval c a.crl
-
 
 Extension
 Criticai
@@ -779,7 +755,6 @@ Online Certificate Status Protocol ( 1.3.6.1.5.5.7.48.1 )
 URI http: / / EV5 5 L - ocs p. q eotru st. com
 
 Hide Certificate 0K
-
 
 APLICAçõES DE CRIPToGRAFIA
 
@@ -817,13 +792,13 @@ não há gerencimaneot por instituições financeiras.
 
 O BITCOIN está amparado em 4 pilares básicos, quais sejam:
 
-Item. 1. Transações
+1. Transações
 
-Item. 2. Garantia do trabalho;
+2. Garantia do trabalho;
 
-Item. 3. Mineração;
+3. Mineração;
 
-Item. 4. Carteira Digital;
+4. Carteira Digital;
 
 Dessa forma, ao mesmo tempo que o modelo prevê um acesso e utilização de forma
 pública, há um
@@ -832,7 +807,6 @@ por muitos
 como forma de gerar fluxos financeiros de maneira ilícita e, portanto, não rastreável.
 
 *
-
 
 Em relação ao seu funcionamento, tem-se a criação de blocos transacionais, onde cada
 bloco possui
@@ -910,10 +884,10 @@ Falando um pouco mais da blockchain, é importante destacar que a utilização d
 de chaves
 pelos usuários se dá pelos seguintes motivos:
 
-Item. 1. Chave pública é de amplo acesso e permite que qualquer usuário saiba da existência
+1. Chave pública é de amplo acesso e permite que qualquer usuário saiba da existência
 de uma conta ou carteira digital para usuários específicos.
 
-Item. 2. Entretanto, a chave privada, de conhecimento exclusivamente do dono é que permite
+2. Entretanto, a chave privada, de conhecimento exclusivamente do dono é que permite
 o acesso aos dados e informações, bem como autoriza e realiza transações para a
 referida carteira. Nada mais do que a aplicação dos conceitos da criptografia
 assimétrica.
@@ -934,5 +908,4 @@ criptomoedas ou soluções baseadas em blockchain com seus modelos próprios e a
 específicas. Com pesquisas simples na Internet é possível identificar uma infinidade de
 ALTCOINS já
 disponíveis no mercado.
-
 

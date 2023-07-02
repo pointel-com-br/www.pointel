@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Técnicas de priorização e estimativas ( Análise de Pontos de Função, Story Points ).
-
+# Engenharia de Software e Sistemas - Técnicas de priorização e estimativas ( Análise de Pontos de Função, Story Points ).
 
 Índice
 
@@ -15,9 +14,7 @@ Capítulo. Engenharia de Software e Sistemas - Técnicas de priorização e esti
 
 6) APF-NESMA
 
-
 7) Resumo - APF
-
 
 8) Questões Comentadas - APF - CESPE
 
@@ -34,7 +31,6 @@ Capítulo. Engenharia de Software e Sistemas - Técnicas de priorização e esti
 14) Lista de Questões - APF - FGV
 
 15) Lista de Questões - APF - Diversas.
-
 
 APRESENTAçÃo
 
@@ -62,7 +58,6 @@ tempo sobrando e quer vertudo, vejam também as incidências baixas e baixíssim
 
 Além disso, essas faixas não são por banca - é baseado tanto na quantidade de vezes que caiu em
 prova independentemente da banca e também em minhas avaliações sobre cada assunto...
-
 
 #ATENÇÃO
 
@@ -101,7 +96,6 @@ assunto previamente administrado. A imensa maioria das questões para
 que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
 completos, abrangentes e direcionados.
-
 
 ANÁLISE DE PoNToS DE FUNçÃo
 
@@ -185,7 +179,6 @@ Das Erfolgsgeheimnis ist Konstanz im Ziel
 
 CekpeTycnexa - HoCToAHCTBo B u,e/in
 
-
 No desenvolvimento de software, ocorre de maneira bastante similar: algumas linguagens
 são mais
 verbosas e outras são mais sintéticas. O exemplo a seguir mostra quatro
@@ -201,13 +194,11 @@ LINGUAGEM JAVASCRIPT LINGUAGEM PYTHON
 01 console.log("01á, Mundo!");
 01 print "Olá, Mundo!"
 
-
 01 Org 0
 
 LINGUAGEM ASSEMBLY 8051 LINGUAGEM C
 
 01 class HelloWorld
-
 
 02 mov dptr,#msg
 
@@ -256,7 +247,6 @@ precisava de
 algum critério chave que fosse de aplicação universal e que pudesse ser aplicado já
 nos primeiros
 estágios do ciclo de vida de desenvolvimento de um software.
-
 
 Ele e sua equipe criaram uma técnica relativamente nova e estruturada para
 quantificação de
@@ -316,7 +306,6 @@ funcionalidades.
 
 Comentários: não é sob 0 ponto de vista dos analistas - é sob 0 ponto de vista dos usuários
 (Errado).
-
 
 Ponto de Função
 
@@ -378,7 +367,6 @@ resultado da
 experiência de diversos especialistas sobre características de vários projetos de software
 similares executados no Dassado e cataloaados em dados históricos.
 
-
 Eu sei que ainda está obscuro, então vamos ver outro exemplo hipotético! Imagine que
 o Governo
 Federal deseja renovar a frota de carros da polícia legislativa. Para escolher o
@@ -398,7 +386,6 @@ cada uma
 dessas características mencionadas até chegar a um valor final para o veículo -
 exemplo: Sio,
 Corolla e Hilux valem respectivamente 41, 48 e 37 Pontos de Carro.
-
 
 POTÊNCIA
 ESPAÇO
@@ -446,7 +433,6 @@ foi extremamente
 complexa de se implementar, o programador queimou o cérebro por uma semana para fazer,
 mas
 essa funcionalidade não é percebida diretamente pelo usuário durante a utilização do software,
-
 
 então ela será solenemente ignorada na contagem não ajustada porque a análise de
 pontos de
@@ -511,7 +497,6 @@ qualidade diretamente; (c) Correto, ele mede a funcionalidade ou tamanho funcion
 um software ou aplicativo; (d) Errado,
 esse item não faz qualquer sentido; (e) Errado, esse item não faz qualquer sentido (Letra C).
 
-
 (TRT/iZj - 2016) A métrica Pontos de Função:
 
 a) é utilizada em projetos de software estruturados, não se aplicando a
@@ -566,7 +551,6 @@ de programação, etc.
 A APF MEDE DIRETAMENTE 0 ESFORÇO, PRODUTIVIDADE OU CUSTO DE UM SOFTWARE?
 
 Não, mas é possível correlacionar essas variáveis à métrica de pontos de função.
-
 
 Principais Benefícios
 
@@ -672,7 +656,6 @@ forma,
 contexto de
 como os números foram obtidos.
 
-
 Componentes Fundamentais
 
 INCIDÊNCIA EM PROVA: ALTA
@@ -764,7 +747,6 @@ de um software sob o ponto de vista do usuário, para determinar o tamanho funci
 do software. Para aplicar a APF, Glaucia precisa definir um recurso com as seguintes
 características:
 
-
 - age como uma membrana pela qual entram e saem os dados processados pelas
 transações da aplicação;
 
@@ -821,7 +803,6 @@ e) Entrada Externa (EE), Consulta Externa (CE) e Saída Externa (SE).
 Comentários: as funções de dados são Arquivo Lógico Interno e Arquivo de Interface Externo (Letra
 B).
 
-
 Arquivo Lógico Interno (ALI)
 
 INCIDÊNCIA EM PROVA: ALTA
@@ -858,7 +839,6 @@ começaram a clarear, mas você pode dar um exemplo?
 
 1 dados que influenciam um processo elementar da aplicação sendo contada. Especifica o que, quando
 ou como os dados devem ser processados, e
-
 
 Vejam esse formulário do nosso sistema de recursos humanos hipotético. Observem que nós
 temos
@@ -900,7 +880,6 @@ arquivos lógicos internos. Esses exemplos caem em prova, professor? Algumas vez
 - porém
 eu recomendo que vocês não tentem decorar esse tipo de coisa.
 
-
 EXEMPLO DE ARQUIVO LÓGICO
 
 INTERNO (ALI)
@@ -930,7 +909,6 @@ classificações.
 Entretanto, uma dessas classificações possui como característica ser
 mantido na
 fronteira da aplicação; assinale-a.
-
 
 a) Arquivo Referenciado.
 
@@ -993,7 +971,6 @@ Comentários: ele é mantido por meio de processos elementares dentro da frontei
 questão faz referência ao
 Arquivo de Interface Externa (Errado)
 
-
 Arquivo de Interface Externa (AIE)
 
 INCIDÊNCIA EM PROVA: ALTA
@@ -1044,7 +1021,6 @@ aplicação sendo contada, isso significa que por meio da aplicação de recurso
 não é
 possível inserir, modificar ou excluir dados do sistema monetário - apenas consultá-los.
 
-
 EXEMPLO DE ARQUIVO DE
 INTERFACE EXTERNA (AIE)
 
@@ -1057,7 +1033,6 @@ Dados recebidos de outra aplicação usados para adicionar, alterar ou remover d
 em um ALI; dados cuja manutenção éfeita pela aplicação que está sendo avaliada, mas
 que são acessados e utilizados por outra aplicação; dados formatados e processados
 para uso por outra aplicação.
-
 
 (IBGE - 2017) A Análise de Pontos de Função (APF) é uma técnica para a medição de
 software que estabelece uma medida de tamanho independente da linguagem de
@@ -1105,7 +1080,6 @@ aplicação (Correto).
 tipo de função de dados lidos e mantidos pela aplicação.
 
 Comentários: eles são lidos e mantidos fora da fronteira da aplicação (Errado).
-
 
 Entrada Externa (EE)
 
@@ -1166,7 +1140,6 @@ EXTERNA
 SEMPRE ALTERA 0 COMPORTAMENTO DO SISTEMA PODE ALTERAR 0 COMPORTAMENTO 00 SISTEMA NUNCA ALTERA 0
 COMPORTAMENTO DO SISTEMA
 
-
 EXEMPLO DE ENTRADA
 
 _ _ _ _ _ _ _ EXTERNA (EE)
@@ -1180,7 +1153,6 @@ permitem adicionar, excluir e alterar registros em arquivos de dados.
 Menus, telas de login, telas de filtro de relatórios e consultas, múltiplos métodos de
 se
 executar uma mesma lógica de entrada, entre outros.
-
 
 (TCU - 2015) Imprimir um cheque e identificá-lo como pago na conta-corrente
 será
@@ -1209,7 +1181,6 @@ e) consulta externa.
 Comentários: transações que processam dados ou informações de controle originados de
 fora da fronteira da aplicação são
 classificadas como entrada externa (Letra C).
-
 
 (TCE-SP - 2015) A análise por pontos de função constitui uma técnica utilizada para
 medição da estimativa de esforço no desenvolvimento de software. Um dos tipos
@@ -1242,7 +1213,6 @@ e/ou alterar o comportamento do
 sistema. Logo, entradas externas podem alterar o comportamento do sistema sem que haja modificações
 dos arquivos lógicos
 internos (Correto).
-
 
 Saída Externa (SE)
 
@@ -1294,7 +1264,6 @@ CONSULTA EXTERNA
 SEMPRE ALTERA 0 COMPORTAMENTO DO SISTEMA PODE ALTERAR 0 COMPORTAMENTO 00 SISTEMA NUNCA ALTERA 0
 COMPORTAMENTO DO SISTEMA
 
-
 EXEMPLO DE SAÍDA
 EXTERNA (SE)
 
@@ -1319,7 +1288,6 @@ refere
 a:
 
 a) Arquivos Lógicos Internos.
-
 
 b) Arquivos de Interface Externa.
 
@@ -1376,7 +1344,6 @@ com totalização-trata-se de uma Saída Externa porque há dados derivados. Qua
 das palestras é derivada da
 soma da quantidade de palestras (Letra D).
 
-
 Consulta Externa (CE)
 
 INCIDÊNCIA EM PROVA: ALTA
@@ -1400,7 +1367,6 @@ CONSULTA EXTERNA
 
 SEMPRE ALTERA 0 COMPORTAMENTO DO SISTEMA PODE ALTERAR 0 COMPORTAMENTO 00 SISTEMA
 NUNCA ALTERA 0 COMPORTAMENTO 00 SISTEMA
-
 
 EXEMPLO DE
 CONSULTA EXTERNA (CE]
@@ -1435,7 +1401,6 @@ Comentários: consulta externa realmente é uma função de transação que não
 processamento adicional - eu
 acredito a questão caberia recurso (Correto).
 
-
 Etapas do Processo de Contagem
 
 INCIDÊNCIA EM PROVA: BAIXA
@@ -1454,7 +1419,6 @@ Bem, não muda muita coisa entre as duas versões! Basicamente, a principal muda
 trata das
 etapas do processo de contagem, sendo que a versão atual segue as seguintes etapas:
 
-
 REUNIRA
 DOCUMENTAÇÃO
 
@@ -1471,7 +1435,6 @@ FASES-IFPUG 4.2 (2005) FASES-IFPUG 4.3 (2010)
 
 - REUNIR A
 DOCUMENTAÇÃO
-
 
 DETERMINAR 0 TIPO DE CONTAGEM
 DETERMINAR 0 ESCOPO E FRONTEIRA
@@ -1502,7 +1465,6 @@ documentada, registrando todas as informações anteriores (o propósito, o tipo
 contagem, o
 escopo, a fronteira da aplicação, entre outros).
 
-
 Vamos resumir: existem duas versões do IFPUG! A versão mais antiga é a mais cobrada
 até hoje e
 a versão mais recente nunca foi cobrada em prova. A grande diferença entre
@@ -1525,7 +1487,6 @@ escopo da contagem e fronteira da aplicação que será contada.
 
 Comentários: ela é realizada antes da identificação do escopo e fronteira (Errado).
 
-
 Determinar o Tipo de Contagem
 
 INCIDÊNCIA EM PROVA: MÉDIA
@@ -1545,7 +1506,6 @@ TIPO DE CONTAGEM | DESCRIÇÃO
 Mede a funcionalidade fornecida aos usuários finais do software quando da primeira
 instalação entregue quando 0 projeto estiver pronto. Esta contagem também abrange as
 
-
 PROJETO DE
 
 DESENVOLVIMENTO
@@ -1553,7 +1513,6 @@ DESENVOLVIMENTO
 funções de conversão de dados que serão precisas para a implantação do software. Como
 exemplo defunção de conversão de dados pode-se citara necessidade de importardados
 de um sistema antigo para 0 sistema em implantação.
-
 
 PROJETO DE
 MANUTENÇÃO/MELHORIA
@@ -1595,7 +1554,6 @@ Comentários: trata-se da contagem de desenvolvimento, manutenção/melhoria e a
 (MJ - 2015) Existem tipos de contagem de ponto de função diferentes que devem ser
 aplicados de acordo com o propósito da contagem. OIFPUG define os seguintes tipos de
 contagem de pontos de função:
-
 
 a) evolutiva, corretiva e ajuste.
 
@@ -1645,7 +1603,6 @@ Desenvolvimento.
 
 Comentários: na primeira versão teremos uma contagem do tipo projeto de desenvolvimento (Correto).
 
-
 Determinar o Escopo e Fronteira
 
 INCIDÊNCIA EM PROVA: MÉDIA
@@ -1690,7 +1647,6 @@ relacionadas deve considerar a funcionalidade das aplicações em termos das fun
 negócio identificadas pelo usuário, e
 não sob 0 ponto de vista das interfaces necessárias (Errado).
 
-
 Calcular Pontos de Função Não-Ajustados
 
 No cálculo de pontos de função não-ajustados, medem-se as funções de dados e as
@@ -1724,7 +1680,6 @@ Agora eu preciso da atenção de vocês, porque essa parte é meio chatinha de e
 Todos os ALI/AIE são igualmente complexos? Não. Então, como se mede sua complexidade?
 Pela
 quantidade de Dados Elementares Referenciados (DER) e Registros Lógicos Referenciados
-
 
 (RLR). O que diabos é isso, professor? DER é um atributo único, reconhecido pelo
 usuário e não
@@ -1797,7 +1752,6 @@ tamanho funcional do seu ALI/AIE por meio dessa complexidade, como pode ser vist
 tabela
 abaixo:
 
-
 COMPLEXIDADE FUNCIONAL
 BAIXA
 
@@ -1864,7 +1818,6 @@ você usará esse resultado em outra tabela, que vai dizer qual o tamanho funcio
 seu
 CE/SE/EE por meio dessa complexidade, como pode ser visto na tabela abaixo:
 
-
 COMPLEXIDADE FUNCIONAL
 BAIXA
 
@@ -1875,11 +1828,9 @@ TIPOS DE TRANSAÇÃO |
 
 | ENTRADA EXTERNA (EE) | SAÍDA EXTERNA (SE) | CONSULTA EXTERNA (CE) |
 
-
 Pessoal, eu expliquei tudo isso para que vocês entendam o fundamento de
 onde vêm esses
 números, mas na prática vocês só precisam decorar a tabela a seguir:
-
 
 FUNÇÕES DE DADOS E TRANSAÇÃO
 CONSULTA EXTERNA (CE!
@@ -1931,7 +1882,6 @@ Conversão e são descartadas logo após a implantação. O que eu quero dizer c
 esse custo é repassado para o Governo Federal. Então, em Projetos de Desenvolvimento,
 há uma
 fórmula para calcular o total de pontos de função: DFP = ADD + CFP.
-
 
 DPF é o tamanho das funções de desenvolvimento; ADD é o tamanho das
 funções a serem
@@ -2038,7 +1988,6 @@ terceira: calcular pontos de função não-ajustados ou determinar a contagem de
 função não ajustados. Logo, a
 questão possui duas respostas, mas infelizmente não foi anulada (Letra A).
 
-
 Calcular Fator de Ajuste
 
 INCIDÊNCIA EM PROVA: MÉDIA
@@ -2056,7 +2005,6 @@ características que devem ser consideradas para se obter maior precisão sobre 
 Por essa razão, essas características são quantificadas de modo a obter um valor
 chamado Valor do
 Fator de Ajuste (VFA) baseado em 14 características gerais de sistema (14 CGS). São elas:
-
 
 01 - COMUNICAÇÃO DE DADOS
 
@@ -2097,7 +2045,6 @@ CARACTERÍSTICA | DESCRIÇÃO
 Descreve o grau pelo qual a aplicação comunica-se diretamente com o processador. Os
 dados
 
-
 COMUNICAÇÃO DE
 
 DADOS
@@ -2106,12 +2053,10 @@ ou informações de controle utilizados pela aplicação são enviados ou recebi
 de
 recursos de comunicação.
 
-
 PROCESSAMENTO
 DISTRIBUÍDO
 
 Descreve o grau pelo qual a aplicação transfere dados entre seus componentes.
-
 
 PERFORMANCE
 
@@ -2141,7 +2086,6 @@ utilizado.
 Descreve em que nível o alto volume de transações de negócio influencia o
 projeto,
 desenvolvimento, instalação e suporte da aplicação.
-
 
 ENTRADA DE
 DADOS ONLINE
@@ -2225,7 +2169,6 @@ isolada.
 Pontue if se a aplicação é puramente batch, mas possui entrada de dados ou impressão
 remota.
 
-
 Pontue 2, se a aplicação é batch, mas possui alguma entrada de dados e alguma
 impressão remota.
 
@@ -2282,7 +2225,6 @@ alternativa que lista três dessas características.
 
 a) Processamento complexo, eficiência do usuário final, desempenho.
 
-
 b) Desempenho, saída externa, arquivos lógicos internos.
 
 c) Eficiência do usuário final, reutilização de código, entradas externas.
@@ -2337,7 +2279,6 @@ e) 115% dos pontos brutos.
 Comentários: se há influência em quatro das 14 CGS, então temos que VFA = SNIxo,oi + 0,65 =
 (4xs)xo,oi + 0,65 = 20x0,01 +
 0,65 = 0,20+0,65 = 0,85 ou 85% dos pontos brutos. (Letra D).
-
 
 Calcular os Pontos de Função Ajustados
 
@@ -2398,7 +2339,6 @@ função.
 
 Comentários: perfeito, bastava lembrar da fórmula: PFA = PFNA x VFA (Correto).
 
-
 NESMA
 
 INCIDÊNCIA EM PROVA: MÉDIA
@@ -2417,7 +2357,6 @@ são basicamente um artifício para reduzir distorções na contagem de projetos
 A NESMA abrange três tipos de contagem: indicativa (de baixa precisão), estimativa (de
 média
 precisão) e detalhada (de alta precisão). Vamos ver...
-
 
 Contagem Indicativa
 
@@ -2455,7 +2394,6 @@ de um projeto! No início da aula, nós falamos sobre a importância de estimar 
 de um projeto
 no início para saber se o projeto é viável ou não financeiramente.
 
-
 Contagem Estimativa
 
 INCIDÊNCIA EM PROVA: MÉDIA I
@@ -2481,7 +2419,6 @@ forma, a
 fórmula final para esse tipo de contagem fica da seguinte forma:
 
 PFNA = [QT(ALI)X7] + [QT(AIE)xs] + [QT(EE)x4] + [QT(SE)xs] + [QT(CE)x4)j
-
 
 Contagem Detalhada
 
@@ -2512,7 +2449,6 @@ I. Contagem de pf detalhada.
 II. Contagem de pf estimativa.
 
 III. Contagem de pf indicativa.
-
 
 Quanto ao tipo de contagem, a Netherlands Software Metrics Association reconhece o
 que consta em:
@@ -2562,7 +2498,6 @@ contagem detalhada funciona como o
 IFPUG; (c) Errado, tem sua complexidade avaliada como baixa; (d) Errado, tem sua
 complexidade funcional avaliada como
 média; (e) Correto, a contagem indicativa considera ALI = 35 e AIE = 15 (Letra E).
-
 
 RESUMo
 
@@ -2642,7 +2577,6 @@ base de comparação.
 
 COMPONENTES
 
-
 Funções do Tipo Dado: representam requisitos de armazenamento do usuário. Galera,
 quando
 vocês virem um ícone em formato de cilindro, provavelmente está representando
@@ -2666,7 +2600,6 @@ externa.
 o EE - Entrada Externa
 o CE - Consulta Externa
 o SE-Saída Externa
-
 
 ARQUIVO LÚGICO INTERNO
 
@@ -2696,7 +2629,6 @@ cópia de segurança (backup); arquivos introduzidos somente por causa da tecnol
 usada (Ex: arquivos de parâmetro para um software WFL, JCL, etc); operações
 junção e projeção; arquivos de índices alternativos.
 
-
 ARQUIVO DE INTERFACE
 
 EXTERNA (AIE)
@@ -2713,7 +2645,6 @@ será contado como um arquivo lógico interno de outra aplicação.
 
 Arquivos de mensagens de auxílio; arquivos de mensagens de erro.
 
-
 NÃO EXEMPLO DE ARQUIVO DE
 INTERFACE EXTERNA (AIE)
 
@@ -2728,7 +2659,6 @@ arquivos lógicos internos e/ou alterar o comportamento do sistema. Uma EE provo
 uma inclusão, exclusão e/ou alteração nos dados do arquivo lógico interno. Cada EE
 se origina de um usuário ou é transmitida de outra aplicação e fornece dados
 distintos orientados à aplicação ou informação de controle.
-
 
 EXEMPLO DE ENTRADA
 
@@ -2749,7 +2679,6 @@ EXTERNA
 SEMPRE ALTERA 0 COMPORTAMENTO DO SISTEMA PODE ALTERAR 0 COMPORTAMENTO DO SISTEMA NUNCA ALTERA 0
 COMPORTAMENTO DO SISTEMA
 
-
 SAÍDA EXTERNA
 
 (SE)
@@ -2765,7 +2694,6 @@ arquivo lógico interno e/ou alterar o comportamento do sistema.
 
 Dados transferidos para outra aplicação; relatórios; relatórios online;
 gráficos; gerador de relatórios.
-
 
 NÃO EXEMPLO DE SAÍDA
 
@@ -2789,7 +2717,6 @@ cálculo
 matemático, criar dados derivados, atualizar nenhum arquivo lógico interno e/ou
 alterar o comportamento do sistema.
 
-
 EXEMPLO DE
 CONSULTA EXTERNA (CE]
 
@@ -2809,7 +2736,6 @@ CONSULTA EXTERNA
 SEMPRE ALTERA 0 COMPORTAMENTO DO SISTEMA PODE ALTERAR 0 COMPORTAMENTO 00 SISTEMA NUNCA ALTERA 0
 COMPORTAMENTO DO SISTEMA
 
-
 REUNIRA
 DOCUMENTAÇÃO
 
@@ -2825,7 +2751,6 @@ FUNCIONAL
 DOCUMENTAR k
 
 EREPORTAR F
-
 
 FASES-IFPUG 4.2 (2005J
 
@@ -2850,7 +2775,6 @@ DOCUMENTAR E REPORTAR
 
 TIPO DE CONTAGEMj DESCRIÇÃO
 
-
 PROJETO DE
 DESENVOLVIMENTO
 
@@ -2859,7 +2783,6 @@ instalação entregue quando o projeto estiver pronto. Esta contagem também abr
 funções de conversão de dados que serão precisas para a implantação do software. Como
 exemplo defunção de conversão de dados pode-se citara necessidade de importardados
 de um sistema antigo para o sistema em implantação.
-
 
 PROJETO DE
 MANUTENÇÃO/MELHORIA
@@ -2882,7 +2805,6 @@ medida em que o aplicativo já está pronto e em funcionamento. Ela é iniciada 
 final da
 contagem do projeto de desenvolvimento e atualizado no final do projeto de melhoria.
 
-
 FUNÇÕES DE DADOS E TRANSAÇÃO
 
 CONSULTA EXTERNA (CEJ
@@ -2895,7 +2817,6 @@ ARQUIVO LÓGICA INTERNA (ALIJ
 | COMPLEXIDADE FUNCIONAL |
 
 | BAIXA | MÉDIA | ALTA |
-
 
 01-COMUNICAÇÃO DE DADOS
 
@@ -2932,7 +2853,6 @@ CARACTERÍSTICA | DESCRIÇÃO
 Descreve o grau pelo qual a aplicação comunica-se diretamente com o processador. Os
 dados
 
-
 COMUNICAÇÃO DE
 
 DADOS
@@ -2941,12 +2861,10 @@ ou informações de controle utilizados pela aplicação são enviados ou recebi
 de
 recursos de comunicação.
 
-
 PROCESSAMENTO
 DISTRIBUÍDO
 
 Descreve o grau pelo qual a aplicação transfere dados entre seus componentes.
-
 
 PERFORMANCE
 
@@ -3044,7 +2962,6 @@ Descreve em que nível a aplicação foi especificamente desenvolvida para facil
 mudança de
 sua lógica de processamento ou estrutura de dados.
 
-
 VFA = (SNI x 0,01)4-0,65
 PFA = PFNAxVFA
 
@@ -3053,13 +2970,11 @@ TIPO DE CONTAGEM (NESMA) | DESCRIÇÃO
 Oferece um cálculo estimado da quantidade de pontos de função, sem a necessidade
 de se conhecer em detalhes 0 modelo de negócios da organização. É geralmente
 
-
 CONTAGEM INDICATIVA
 
 utilizada na fase inicial da proposta de desenvolvimento, quando há só um modelo
 preliminar de dados. Os elementos utilizados para a contagem indicativa são apenas
 e tão somente os arquivos lógicos internos e os arquivos de interface externa.
-
 
 CONTAGEM ESTIMATIVA
 
@@ -3079,7 +2994,6 @@ desenvolvimento, desde que se possua detalhes do processo e do modelo de dados,
 como descrição de telas e relatórios ou um protótipo do sistema.
 
 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
-
 
 QUESTõES CoMENTADAS - CESPE
 
@@ -3112,9 +3026,7 @@ alta
 alta
 quantidade
 
-
 ]
-
 
 Tendo como referência as informações precedentes, julgue o próximo item, de acordo com
 o
@@ -3125,7 +3037,6 @@ de
 função.
 
 Comentários:
-
 
 FUNÇÕES DE DADOS E TRANSAÇÃO
 
@@ -3146,10 +3057,9 @@ Logo, basta lembrar da tabelinha e calcular: Funções de Dados = 1x7 + 3x15 = 7
 
 Gabarito: Errado
 
-Item. 2. (CESPE / Ministério de Economia - 2020) As informações a seguir são
+2. (CESPE / Ministério de Economia - 2020) As informações a seguir são
 relativas a uma
 mensuração de sistemas em pontos de função.
-
 
 I manutenção de sete páginas HTML estáticas no portal da organização, contida em um
 projeto
@@ -3177,9 +3087,7 @@ alta
 alta
 quantidade
 
-
 ]
-
 
 Tendo como referência as informações precedentes, julgue o próximo item, de acordo com
 o
@@ -3190,7 +3098,6 @@ representam 21
 pontos de função.
 
 Comentários:
-
 
 FUNÇÕES DE DADOS E TRANSAÇÃO
 
@@ -3211,7 +3118,7 @@ Logo, basta lembrar da tabelinha e calcular: Funções de Transação = 3x3 + 2x
 
 Gabarito: Correto
 
-Item. 3. (CESPE / Ministério de Economia - 2020) Uma técnica paramétrica para estimativa de
+3. (CESPE / Ministério de Economia - 2020) Uma técnica paramétrica para estimativa de
 esforço
 para desenvolvimento de software é a análise por pontos de função, que se baseia em
 linhas de
@@ -3226,8 +3133,7 @@ do software baseado na visão do usuário.
 
 Gabarito: Errado
 
-
-Item. 4. (CESPE / Ministério de Economia - 2020) A identificação de funções de dados e de tipos
+4. (CESPE / Ministério de Economia - 2020) A identificação de funções de dados e de tipos
 funcionais somente deve ocorrer após o estabelecimento da fronteira da contagem.
 
 Comentários:
@@ -3238,7 +3144,7 @@ depois identificamos os tipos funcionais (dados ou transação) para depois medi
 
 Gabarito: Correto
 
-Item. 5. (CESPE / Ministério de Economia - 2020) A estimativa de esforço de projeto de
+5. (CESPE / Ministério de Economia - 2020) A estimativa de esforço de projeto de
 software,
 representada pela fórmula a seguir, deve ser usada em substituição à contagem por
 pontos de
@@ -3268,11 +3174,10 @@ produtividade.
 
 Gabarito: Errado
 
-Item. 6. (CESPE / Ministério de Economia - 2020) A identificação de requisitos funcionais é
+6. (CESPE / Ministério de Economia - 2020) A identificação de requisitos funcionais é
 resultado
 da análise da documentação do projeto, primeira atividade do procedimento de contagem de
 PF do Manual de Práticas de Contagem (CPM).
-
 
 Comentários:
 
@@ -3280,7 +3185,7 @@ Perfeito! Basta lembrar da imagem clássica :)
 
 Gabarito: Correto
 
-Item. 7. (CESPE / Ministério de Economia - 2020) Na métrica de pontos por função, entradas
+7. (CESPE / Ministério de Economia - 2020) Na métrica de pontos por função, entradas
 externas,
 saídas externas e consultas externas são computadas separadamente.
 
@@ -3290,7 +3195,7 @@ Perfeito! Cada uma delas tem sua particularidade, logo são computadas de maneir
 
 Gabarito: Correto
 
-Item. 8. (CESPE / Ministério de Economia - 2020) A análise de pontos de função é utilizada
+8. (CESPE / Ministério de Economia - 2020) A análise de pontos de função é utilizada
 para medir
 o tamanho das funções que serão construídas de acordo com a visão do usuário, e não
 do
@@ -3302,7 +3207,7 @@ Perfeita definição de análise de pontos de função! Memorizem :)
 
 Gabarito: Correto
 
-Item. 9. (CESPE / SLU-DF - 2019) A contagem das funções de transações (FT) deve ser
+9. (CESPE / SLU-DF - 2019) A contagem das funções de transações (FT) deve ser
 precedida pela
 contagem dos tipos de funções de dados.
 
@@ -3311,7 +3216,6 @@ Comentários:
 Eu divirjo do gabarito oficial! A contagem de funções de transação e de
 funções de dados é
 simultânea, logo uma não deve ser precedida da outra.
-
 
 Gabarito: Correto
 io. (CESPE / SLU-DF - 2019) Os pontos por função não ajustados (PFNA) devem ser
@@ -3328,7 +3232,7 @@ do Fator de Ajuste (VFA) calculado na etapa anterior.
 
 Gabarito: Correto
 
-Item. 11. (CESPE /TJ-AM - 2019) A partir dos resultados apresentados pela métrica ponto por
+11. (CESPE /TJ-AM - 2019) A partir dos resultados apresentados pela métrica ponto por
 função, é
 possível estimar a quantidade de erros que serão encontrados durante o teste.
 
@@ -3342,7 +3246,7 @@ através de dados históricos.
 
 Gabarito: Correto
 
-Item. 12. (CESPE / TJ-AM - 2019) Na contagem dos tipos de elementos usados para a
+12. (CESPE / TJ-AM - 2019) Na contagem dos tipos de elementos usados para a
 determinação da
 complexidade dos tipos de função, os tipos de elementos de registro correspondem ao
 número
@@ -3360,8 +3264,7 @@ RLR. Logo, questão incorreta!
 
 Gabarito: Errado
 
-
-Item. 13. (CESPE / TJ-AM - 2019) Devido a suas características, uma tela de login pode
+13. (CESPE / TJ-AM - 2019) Devido a suas características, uma tela de login pode
 ser considerada
 como um exemplo de consulta externa em uma contagem de pontos de função.
 
@@ -3395,7 +3298,7 @@ forem requisitados pelo usuário relatórios associados à funcionalidade de mig
 
 Gabarito: Correto
 
-Item. 15. (CESPE / STM - 2018) Segundo a Nesma, a contagem indicativa considera a
+15. (CESPE / STM - 2018) Segundo a Nesma, a contagem indicativa considera a
 quantidade
 existente de arquivos lógicos internos e de interface externa, considerando,
 ainda, que toda
@@ -3419,10 +3322,9 @@ Comentários:
 
 Não há restrição quanto à tecnologia de implementação.
 
-
 Gabarito: Errado
 
-Item. 17. (CESPE / TRE-BA - 2017) Na contagem de pontos de função inicial de uma aplicação, consiste
+17. (CESPE / TRE-BA - 2017) Na contagem de pontos de função inicial de uma aplicação, consiste
 em uma saída externa a:
 
 a) consulta que calcula o valor de um boleto a ser pago com juros e multa por atraso.
@@ -3530,16 +3432,14 @@ Os campos devem ser obrigatoriamente únicos e eles devem ser obrigatoriamente n
 
 Gabarito: Errado
 
-Item. 22. (CESPE / CGE-PI - 2015) No processo de contagem da aplicação, um dos passos é determinar o
+22. (CESPE / CGE-PI - 2015) No processo de contagem da aplicação, um dos passos é determinar o
 tamanho funcional de cada função de dados, que pode ser classificada, em
 relação a sua
 complexidade, como simples, média ou complexa.
 
 Comentários:
 
-
 Q-Q
-
 
 Não vislumbro qualquer erro nessa questão! Alguns afirmam que é o nome: deveria ser
 baixa, média
@@ -3554,7 +3454,7 @@ porquê. Para mim, está perfeita, correta e impecável...
 
 Gabarito: Errado
 
-Item. 23. (CESPE / STJ - 2015) O custo para projetar, codificar e testar o software pode
+23. (CESPE / STJ - 2015) O custo para projetar, codificar e testar o software pode
 ser estimado por
 meio do uso de ponto de função em dados históricos de sistemas similares.
 
@@ -3592,12 +3492,11 @@ Projetos de melhoria envolvem inclusões de funcionalidades.
 
 Gabarito: Errado
 
-Item. 26. (CESPE /TCDF-2014) Na técnica de Nesma utilizada para calculara estimativa do
+26. (CESPE /TCDF-2014) Na técnica de Nesma utilizada para calculara estimativa do
 tamanho do
 software, realiza-se um detalhamento de cada elemento e de cada função, o que torna a
 técnica
 mais trabalhosa que outras.
-
 
 Comentários:
 
@@ -3607,7 +3506,7 @@ por meio dos deflatores.
 
 Gabarito: Errado
 
-Item. 27. (CESPE / ANTAQ - 2014) De acordo com a análise de pontos de função, o
+27. (CESPE / ANTAQ - 2014) De acordo com a análise de pontos de função, o
 desenvolvimento de
 aplicações sem a preocupação de produzir código reusável não influencia na contagem do
 fator
@@ -3633,7 +3532,7 @@ Ajuste. Difícil de entender, não é? CESPE é assim mesmo!
 
 Gabarito: Correto
 
-Item. 28. (CESPE /TCDF-2014) Arquivos de interface externa (AIE) e arquivo lógico interno
+28. (CESPE /TCDF-2014) Arquivos de interface externa (AIE) e arquivo lógico interno
 (ALI) são as
 funções de dados utilizadas para a contagem de pontos de função.
 
@@ -3655,10 +3554,9 @@ O objetivo é manter um ou mais arquivos lógicos internos e/ou alterar o
 comportamento do
 sistema.
 
-
 Gabarito: Errado
 
-Item. 30. (CESPE/SUFRAMA-2014) Em um projeto de melhoria, apenas as funções incluídas e
+30. (CESPE/SUFRAMA-2014) Em um projeto de melhoria, apenas as funções incluídas e
 alteradas
 devem ser contadas para se medir o tamanho funcional do projeto.
 
@@ -3668,7 +3566,7 @@ Opa... as excluídas também devem ser contadas.
 
 Gabarito: Errado
 
-Item. 31. (CESPE / CNJ - 2013) Entrada externa, arquivo referenciado e saída externa são funções do
+31. (CESPE / CNJ - 2013) Entrada externa, arquivo referenciado e saída externa são funções do
 tipo
 transação.
 
@@ -3678,7 +3576,7 @@ Arquivo referenciado não é uma função do tipo transação.
 
 Gabarito: Errado
 
-Item. 32. (CESPE / MPOG - 2013) Na contagem por pontos de função, um arquivo de
+32. (CESPE / MPOG - 2013) Na contagem por pontos de função, um arquivo de
 interface externa
 (AIE) sempre será um arquivo lógico interno (ALI) de outra aplicação.
 
@@ -3688,7 +3586,7 @@ Um arquivo de interface externa sempre será um arquivo lógico interno de outra
 
 Gabarito: Correto
 
-Item. 33. (CESPE / CNJ -2013) O principal objetivo de um arquivo de interface externa
+33. (CESPE / CNJ -2013) O principal objetivo de um arquivo de interface externa
 (AIE) é armazenar
 dados referenciados por um ou mais processos elementares da aplicação que
 está sendo
@@ -3708,7 +3606,6 @@ Gabarito: Correto
 funções
 de conversão de dados não devem ser contadas.
 
-
 Comentários:
 
 Esse tipo de contagem mede as modificações realizadas para aplicações existentes, isto
@@ -3717,7 +3614,7 @@ adicionais - modificadas ou excluídas do sistema pelo projeto e as funções de
 
 Gabarito: Errado
 
-Item. 35. (CESPE / AL-ES - 2011 - Letra A) A análise de pontos de função é uma técnica
+35. (CESPE / AL-ES - 2011 - Letra A) A análise de pontos de função é uma técnica
 de medição das
 funcionalidades oferecidas por um software do ponto de vista de seus usuários com a
 qual se
@@ -3751,7 +3648,7 @@ Read não é Entrada Externa, mas Consulta Externa -trata-se de leitura!
 
 Gabarito: Errado
 
-Item. 37. (CESPE / BRB - 2011) Se duas aplicações mantiverem o mesmo arquivo lógico
+37. (CESPE / BRB - 2011) Se duas aplicações mantiverem o mesmo arquivo lógico
 interno, então
 esse arquivo será contado apenas na aplicação que detém o arquivo físico.
 
@@ -3823,10 +3720,8 @@ Se uma consulta contiver um contador incrementado ou faça qualquer outro tipo d
 cálculo, então
 temos uma saída externa.
 
-
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
-
 
 Gabarito: Correto
 
@@ -3846,7 +3741,7 @@ considerada componente funcional básico.
 
 Gabarito: Correto
 
-Item. 43. (CESPE / CET - 2011) Uma consulta externa disponibiliza informações para o
+43. (CESPE / CET - 2011) Uma consulta externa disponibiliza informações para o
 usuário por meio
 de lógica de processamento, ou seja, não se limita apenas a recuperação de dados. A
 lógica de
@@ -3862,7 +3757,7 @@ questão trata, na verdade, da saída externa.
 
 Gabarito: Errado
 
-Item. 44. (CESPE / STM - 2011) O conceito de projeto de melhoria do IFPUG envolve as
+44. (CESPE / STM - 2011) O conceito de projeto de melhoria do IFPUG envolve as
 manutenções
 evolutivas, corretivas e preventivas da aplicação.
 
@@ -3881,7 +3776,6 @@ contêm requisitos
 tecnológicos e de qualidade.
 
 Comentários:
-
 
 De fato, as Características Gerais de Sistema são utilizadas para determinar o fator
 de ajuste e os
@@ -3944,7 +3838,6 @@ AIE são funções do tipo dados.
 
 Gabarito: Errado
 
-
 49.(CESPE / TRE-BA - 2009) A APF auxilia a compreender e agir sobre problemas típicos
 de
 gerenciamento de projetos, tais como baixos custos, atrasos no pagamento,
@@ -3978,7 +3871,7 @@ lógico/matemática no desenvolvimento da aplicação.
 
 Gabarito: Errado
 
-Item. 51. (CESPE /TRE-BA-2009) Para se determinar o número de PF não ajustados, após
+51. (CESPE /TRE-BA-2009) Para se determinar o número de PF não ajustados, após
 identificar as
 funções de dados e transacionais, deve-se multiplicar, pela respectiva complexidade, o
 total de
@@ -4002,10 +3895,9 @@ nível de influência para chegar à quantidade de pontos de função ajustados.
 
 Gabarito: Errado
 
-Item. 52. (CESPE /TCU -2009) Uma organização executa projetos de desenvolvimento de
+52. (CESPE /TCU -2009) Uma organização executa projetos de desenvolvimento de
 aplicativos de
 software embasados na arquitetura J2EE, com padrões de desenho, framework MVC,
-
 
 interoperabilidade XML e bancos de dados relacionais. Além disso, ela adota um processo
 de
@@ -4070,7 +3962,6 @@ e as funcionalidades requeridas para conversão de dados.
 
 Gabarito: Correto
 
-
 55- (CESPE /TRE-ES - 2009) Logo após o início das atividades técnicas de um projeto,
 o gerente e
 a equipe de desenvolvimento devem estimar o trabalho a ser realizado, os recursos
@@ -4105,7 +3996,7 @@ devem ser classificadas segundo sua complexidade funcional - questão perfeita!
 
 Gabarito: Correto
 
-Item. 57. (CESPE / TRE-PR - 2009) Registros lógicos são subconjuntos de dados dentro de um
+57. (CESPE / TRE-PR - 2009) Registros lógicos são subconjuntos de dados dentro de um
 ALI/AIE
 que foram reconhecidos pelo usuário. Caso o usuário não reconheça subconjuntos de dados
 em
@@ -4133,7 +4024,6 @@ medir o tamanho funcional de um sistema, independentemente de sua
 forma de
 implementação. Na análise de pontos de função, são contados os seguintes componentes:
 
-
 arquivos lógicos internos, arquivos de interface interna, entradas externas, consultas
 externas e
 saídas externas.
@@ -4150,7 +4040,7 @@ atenção: Arquivo de Interface Interna? All? Não! É Arquivo de Interface Exte
 
 Gabarito: Errado
 
-Item. 59. (CESPE / UNIPAMPA-2009) A métrica pontos de função tem como finalidade aferir o
+59. (CESPE / UNIPAMPA-2009) A métrica pontos de função tem como finalidade aferir o
 tamanho
 dos projetos de desenvolvimento e a manutenção de software.
 
@@ -4189,7 +4079,6 @@ NESMA-é de
 fato realizada nos estágios iniciais de contagem.
 
 Gabarito: Correto
-
 
 62.(CESPE / STF - 2008) Em um projeto de desenvolvimento de software que adota o
 modelo de
@@ -4253,14 +4142,13 @@ Gabarito: Errado
 característica
 do domínio da informação usada como parâmetro de entrada da análise.
 
-
 Comentários:
 
 A questão está correta, apesar de o nome exato ser Fator de Ajuste e, não, Fator de Complexidade.
 
 Gabarito: Correto
 
-Item. 66. (CESPE / MPE-AM - 2007) Valores de ajuste de complexidade são obtidos
+66. (CESPE / MPE-AM - 2007) Valores de ajuste de complexidade são obtidos
 a partir da
 resposta a uma série de questões relativas ao contexto de desenvolvimento e
 utilização do
@@ -4288,7 +4176,7 @@ Relação exponencial? Não, linear!
 
 Gabarito: Errado
 
-Item. 68. (CESPE/TST-2007) A estimativa de características de projeto por pontos de
+68. (CESPE/TST-2007) A estimativa de características de projeto por pontos de
 função requer
 que as características do domínio de informação do software sejam categorizadas
 como de
@@ -4304,7 +4192,7 @@ lógicos e itens de dados referenciados.
 
 Gabarito: Errado
 
-Item. 69. (CESPE / PRODEST - 2006) Uma função pode ser definida como uma coleção de
+69. (CESPE / PRODEST - 2006) Uma função pode ser definida como uma coleção de
 instruções
 que realizam uma tarefa. Em uma função, pode-se também ter declarações de
 parâmetros
@@ -4337,7 +4225,7 @@ e complexidades de funções de dados (entradas e saídas) e arquivos.
 
 Gabarito: Errado
 
-Item. 71. (CESPE / IGEPREV-PA-2005 - A) A relação entre linhas de código fonte e os pontos de função
+71. (CESPE / IGEPREV-PA-2005 - A) A relação entre linhas de código fonte e os pontos de função
 de um software depende da linguagem de programação usada para implementar este software.
 
 Comentários:
@@ -4357,7 +4245,6 @@ linguagem
 de programação utilizada.
 
 Gabarito: Correto
-
 
 QUESTõES CoMENTADAS - FCC
 
@@ -4408,7 +4295,7 @@ Dessa forma, temos que 7 + 7 + 7 = 21 Pontos!
 
 Gabarito: Letra E
 
-Item. 2. (FCC / AL-AP- 2020) Para um cálculo hipotético de Ponto por Função - PF, considere as
+2. (FCC / AL-AP- 2020) Para um cálculo hipotético de Ponto por Função - PF, considere as
 quantidades e correspondentes funções:
 
 - 3 EE baixa complexidade
@@ -4418,7 +4305,6 @@ quantidades e correspondentes funções:
 - 2 EE alta complexidade
 
 - 2 ALI baixa comolexidade
-
 
 - 2 ALI média complexidade
 
@@ -4466,7 +4352,6 @@ e) 16 e 65.
 
 Comentários:
 
-
 FUNÇÕES DE DADOS E TRANSAÇÃO
 
 CONSULTA EXTERNA (CE]
@@ -4488,7 +4373,6 @@ COMPLEXIDADE FUNCIONAL |
 
 - 3 AIE (Alta) = 3 x 10 = 30
 
-
 Total de Pontos de Função de Dados (ALI/AIE) = 21 + 20 + 20 + 30 = 91 PFs
 
 - 3 EE (Baixa) = 3x3 = 9
@@ -4505,7 +4389,7 @@ Total de Pontos de Função de Transação (EE/SE/CE) = 9 + 4 +12 + 20 + 20 = 65
 
 Gabarito: Letra C
 
-Item. 3. (FCC/ TRF - 3a REGIÃO - 2019) Em uma contagem de pontos de função, um ALI - Arquivo
+3. (FCC/ TRF - 3a REGIÃO - 2019) Em uma contagem de pontos de função, um ALI - Arquivo
 Lógico Interno, com grau de complexidade média, contribui para a contagem com:
 
 a) 50 pontos.
@@ -4522,7 +4406,6 @@ Comentários:
 
 Temos sempre que lembrar da nossa tabelinha clássica:
 
-
 FUNÇÕES DE DADOS E TRANSAÇÃO
 
 CONSULTA EXTERNA (CE]
@@ -4538,13 +4421,12 @@ COMPLEXIDADE FUNCIONAL |
 
 Gabarito: Letra C
 
-Item. 4. (FCC / TRF - 3a REGIÃO - 2019) Em Análise de Pontos de Função, uma Consulta Externa - CE
+4. (FCC / TRF - 3a REGIÃO - 2019) Em Análise de Pontos de Função, uma Consulta Externa - CE
 constitui-se de dados extraídos de:
 
 a) Arquivos Lógicos Externos (ALEs) para, após os cálculos necessários, efetuar a
 atualização
 dos Arquivos Lógicos Internos (ALIs).
-
 
 b) Arquivos Lógicos Internos (ALIs), de Arquivos de Interface Externa (AlEs) e/ou de
 Informações
@@ -4585,7 +4467,7 @@ arquivos que cruzam a fronteira do sistema e sem alterar seu comportamento.
 
 Gabarito: Letra E
 
-Item. 5. (FCC/TRE-PB-2015) Análise de Pontos de Função - APF é uma técnica para medir o
+5. (FCC/TRE-PB-2015) Análise de Pontos de Função - APF é uma técnica para medir o
 tamanho
 funcional de um software cujo processo de medição envolve diversas etapas, dentre elas,
 a
@@ -4612,10 +4494,9 @@ função de transação; (d) Correto, isso é uma função de dados; (e) Errado,
 função de
 transação.
 
-
 Gabarito: Letra D
 
-Item. 6. (FCC / MPE-MA - 2013) O primeiro passo do processo de contagem por análise de
+6. (FCC / MPE-MA - 2013) O primeiro passo do processo de contagem por análise de
 pontos de
 função é determinar o tipo de contagem. Contagem de pontos de função podem ser
 associadas
@@ -4637,7 +4518,7 @@ Trata-se da contagem de desenvolvimento, manutenção/melhoria e aplicação/pro
 
 Gabarito: Letra A
 
-Item. 7. (FCC / TST - 2012) O Gerente de Projetos de Software aplica os conhecimentos,
+7. (FCC / TST - 2012) O Gerente de Projetos de Software aplica os conhecimentos,
 habilidades e
 ferramentas às atividades do projeto com o objetivo de garantirque o produto seja
 desenvolvido
@@ -4671,7 +4552,6 @@ de qualidade e análise de produtividade.
 
 Comentários:
 
-
 (a) Pessoal, eu disse diversas vezes que a análise de pontos de função não depende
 de tecnologia
 ou abordagem de programação. No entanto, a questão - em nenhum momento - restringiu a
@@ -4696,7 +4576,7 @@ Agora sim! Essa é a resposta correta.
 
 Gabarito: Letra E
 
-Item. 8. (FCC/MPE-AP-2012) Dentre os métodos disponíveis na utilização de métricas de sistema
+8. (FCC/MPE-AP-2012) Dentre os métodos disponíveis na utilização de métricas de sistema
 está
 a análise de pontos de função (Function Point Analysis). Nesse método,
 
@@ -4742,7 +4622,7 @@ nenhuma relação com a tecnologia empregada no desenvolvimento do sistema.
 
 Gabarito: Letra E
 
-Item. 9. (FCC / TRE-SP - 2012) Sobre a análise de pontos por função, considere:
+9. (FCC / TRE-SP - 2012) Sobre a análise de pontos por função, considere:
 
 I. É um método de contagem padrão capaz de medir as funcionalidades de um sistema
 sobre o
@@ -4799,10 +4679,8 @@ c) 159.
 
 d) 163.
 
-
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
-
 
 e) 212.
 
@@ -4811,7 +4689,6 @@ Comentários:
 Galera, esse tipo de questão é extremamente fácil se você sabe a tabela decorada ou
 impossível se
 você não sabe!
-
 
 FUNÇÕES DE DADOS E TRANSAÇÃO
 
@@ -4825,7 +4702,6 @@ ARQUIVO LÓGICA INTERNA (ALI)
 
 | BAIXA | MÉDIA | ALTA |
 
-
 3 AlEs Simples
 
 5 EEs Médias
@@ -4833,7 +4709,6 @@ ARQUIVO LÓGICA INTERNA (ALI)
 ^3*5 =15
 
 5*4 = 20
-
 
 8 CEs Complexas
 
@@ -4875,7 +4750,6 @@ a) I e II, apenas.
 
 b) I e III, apenas.
 
-
 c) II e III, apenas.
 
 d) III, apenas.
@@ -4898,8 +4772,7 @@ organizações.
 
 Gabarito: Letra B
 
-Item. 12. (FCC / INFRAERO - 2011) Analise a tabela utilizada no cálculo de Pontos de Função.
-
+12. (FCC / INFRAERO - 2011) Analise a tabela utilizada no cálculo de Pontos de Função.
 
 Tipo de Função
 
@@ -4929,7 +4802,6 @@ e) EE, CEeSE.
 
 Comentários:
 
-
 FUNÇÕES DE DADOS E TRANSAÇÃO
 
 CONSULTA EXTERNA (CE]
@@ -4944,10 +4816,9 @@ AROUIVO LÚDICA INTERNA (ALI]
 
 Perceberam que tem que decorar essa tabela, né?! Trata-se de ALI, AIE e SE!
 
-
 Gabarito: Letra A
 
-Item. 13. (FCC / INFRAERO - 2011) A métrica análise por pontos de função foi desenvolvida
+13. (FCC / INFRAERO - 2011) A métrica análise por pontos de função foi desenvolvida
 na década
 de 1970, como uma forma de medir software. Analise os itens a seguir relacionados a
 essa
@@ -4974,7 +4845,6 @@ c) I, II e IV, apenas.
 d) I, II e III, apenas.
 
 e) I e III, apenas.
-
 
 Comentários:
 
@@ -5005,7 +4875,6 @@ d) 18.
 e) 19.
 
 Comentários:
-
 
 Sabe-se que PFA = VFA*PFNA = no,6o e PFNA = 140,00. Logo, VFA = 110,60/140,00 =
 0,79. Sabe-
@@ -5063,7 +4932,6 @@ sim no
 código desenvolvido.
 
 c) É dependente da tecnologia utilizada no desenvolvimento.
-
 
 d) A contagem de pontos de função pode ser aplicada logo após a definição da
 arquitetura,
@@ -5125,7 +4993,6 @@ e) CE.
 
 Comentários:
 
-
 Mantém dados recebidos de fora da fronteira da aplicação em um ou mais arquivos
 lógicos internos
 é a definição de entrada externa.
@@ -5166,7 +5033,6 @@ contagem de pontos brutos em até 35% - para mais ou para menos.
 
 Gabarito: Letra B
 
-
 í. (FGV/ IMBEL-2021) A análise de ponto de função é uma técnica comumente utilizada para:
 
 a) avaliar a produtividade de programadores desenvolvedores.
@@ -5193,7 +5059,7 @@ com essa atividade.
 
 Gabarito: Letra C
 
-Item. 2. (FGV / DPE-RJ - 2019) Determinado órgão governamental está utilizando a técnica de
+2. (FGV / DPE-RJ - 2019) Determinado órgão governamental está utilizando a técnica de
 Análise
 de Pontos de Função (APF) para efetuar a contagem de suas aplicações e gerar uma base
 histórica própria.
@@ -5226,9 +5092,7 @@ transação não necessariamente é executada e gerenciada por um SGBD.
 
 Gabarito: Letra C
 
-
 0 0
-
 
 3- (FGV / DPE-RJ - 2019) Determinado órgão governamental está utilizando a técnica de
 Análise
@@ -5261,7 +5125,7 @@ transação não necessariamente é executada e gerenciada por um SGBD.
 
 Gabarito: Letra C
 
-Item. 4. (FGV / MPE-AL - 2018) Carlos é o responsável técnico pelo Sistema de Informação
+4. (FGV / MPE-AL - 2018) Carlos é o responsável técnico pelo Sistema de Informação
 Financeiro
 (SISFIN) de sua corporação. O SISFIN passou por um processo de melhorias que corrigiu
 erros
@@ -5296,7 +5160,6 @@ por causa da
 contagem dos pontos de função das três funcionalidades novas e da excluída.
 
 Gabarito: Letra C
-
 
 5- (FGV / Banestes- 2018) Em termos de Análise de Pontos de Função (APF),
 analise as
@@ -5343,12 +5206,11 @@ meio da contagem estimativa, permite estimar o tamanho antes mesmo de seu desenv
 
 Gabarito: Letra C
 
-Item. 6. (FGV / COMPESA - 2018) O levantamento da complexidade das oito funções de um
+6. (FGV / COMPESA - 2018) O levantamento da complexidade das oito funções de um
 sistema a
 ser desenvolvido, seguindo a técnica de Contagem de Pontos de Função,
 resultou nos
 elementos listados na tabela a seguir.
-
 
 Nome da Função
 ALI-1
@@ -5400,7 +5262,6 @@ e) 46
 
 Comentários:
 
-
 FUNÇÕES DE DADOS E TRANSAÇÃO
 
 CONSULTA EXTERNA (CE]
@@ -5434,13 +5295,11 @@ TOTAL = 45
 
 Gabarito: Letra D
 
-
 7- (FGV / COMPESA - 2018) O levantamento da complexidade das oito funções de um
 sistema a
 ser desenvolvido, seguindo a técnica de Contagem de Pontos de Função,
 resultou nos
 elementos listados na tabela a seguir.
-
 
 Nome da Função
 ALI-1
@@ -5499,7 +5358,7 @@ Tendo a tabelinha memorizada, bastava calcular: 1*7 (ALI/Baixa) + 1*10
 
 Gabarito: Letra D
 
-Item. 8. (FGV/ IBGE -2017) A Análise de Pontos de Função (APF) é um método de medição de
+8. (FGV/ IBGE -2017) A Análise de Pontos de Função (APF) é um método de medição de
 tamanho
 funcional de um software. Nesse método são contadas as funções de dados e
 funções de
@@ -5519,7 +5378,6 @@ e) Facilidade de Implantação, Facilidade operacional e Facilidade de obsolesc�
 Comentários:
 
 14 CARACTERÍSTICA GERAIS DO SISTEMA (CGS)
-
 
 01-COMUNICAÇÃO DE DADOS
 
@@ -5587,7 +5445,6 @@ referência a um grupo de dados "X" logicamente relacionado, mantido e
 armazenado no
 sistema B, conforme representado no diagrama a seguir.
 
-
 Sistema A
 
 Na visão do usuário do sistema A, o grupo de dados "X" é visto na técnica de
@@ -5639,10 +5496,9 @@ Comentários:
 Com base nessas contagens, Roger e sua equipe podem fazer as estimativas de software aplicando
 o método será Dossível estimar utilizando Dontos de função.
 
-
 Gabarito: Letra C
 
-Item. 12. (FGV / TJ-PI - 2015) Vários entes governamentais brasileiros têm utilizado a
+12. (FGV / TJ-PI - 2015) Vários entes governamentais brasileiros têm utilizado a
 métrica de Pontos
 de Função (PF) nas estimativas e dimensionamento de tamanho funcional de
 projetos de
@@ -5688,15 +5544,15 @@ Relacione cada um dos elementos da contagem de pontos de função, listadas a se
 às suas
 respectivas características.
 
-Item. 1. Consulta Externa
+1. Consulta Externa
 
-Item. 2. Arquivo de Interface Externa
+2. Arquivo de Interface Externa
 
-Item. 3. Arquivo Lógico Interno
+3. Arquivo Lógico Interno
 
-Item. 4. Entrada Externa
+4. Entrada Externa
 
-Item. 5. Saída Externa
+5. Saída Externa
 
 () Tabelas de banco de dados lidas pela aplicação, mas atualizadas por outra aplicação.
 () Tabelas de banco de dados atualizadas pela aplicação.
@@ -5708,7 +5564,6 @@ aplicação.
 () Função que apresenta informações ao usuário por meio da lógica de processamento que
 não
 seja apenas uma simples recuperação de dados ou informação de controle.
-
 
 () Função que apresenta informações ao usuário, por meio da simples recuperação de
 dados ou
@@ -5759,7 +5614,6 @@ sistema deve conter, de forma a atingir, exatamente, o total de pontos contratua
 deverá ser
 igual a Dados: Tabela de pesos para cálculo de pontos de função.
 
-
 Elemento
 Entrada
 Saída
@@ -5767,9 +5621,7 @@ Arquivo
 
 Simples
 
-
 Médio
-
 
 Complexo
 a) 3-
@@ -5781,7 +5633,6 @@ c) 5-
 d) 6.
 
 e) 7-
-
 
 Comentários:
 
@@ -5800,7 +5651,7 @@ Função, isso significa que temos 35/7 = 5 ALIs. Questão bem bacana :)
 
 Gabarito: Letra C
 
-Item. 15. (FGV / Senado Federal - 2012) Com relação ao tema de análise por pontos de
+15. (FGV / Senado Federal - 2012) Com relação ao tema de análise por pontos de
 função, avalie as
 afirmativas a seguir.
 
@@ -5863,7 +5714,7 @@ verdadeira.
 
 Gabarito: Letra B
 
-Item. 17. (FGV / DETRAN-RN - 2010) A equipe de métricas de software do TJPI realizou uma
+17. (FGV / DETRAN-RN - 2010) A equipe de métricas de software do TJPI realizou uma
 estimativa
 do tamanho da aplicação de processo eletrônico chamada SisProcessos. Utilizando a
 técnica de
@@ -5901,7 +5752,6 @@ b) 96;
 c) 98;
 
 d) 100;
-
 
 e) 102.
 
@@ -5962,7 +5812,6 @@ implementado.
 Assinale:
 
 a) se somente a afirmativa I estiver correta.
-
 
 b) se somente a afirmativa II estiver correta.
 
@@ -6030,7 +5879,6 @@ dentro da fronteira de outra aplicação, é um AIE.
 
 Gabarito: Letra E
 
-
 2i.(FGV / MEC - 2009) Num sistema de controle acadêmico, uma tela permite
 visualizar um
 relatório com três tipos diferentes de ordenação. O rodapé do relatório sempre traz o
@@ -6057,7 +5905,7 @@ registros - que é um dado derivado. Logo, temos uma saída externa.
 
 Gabarito: Letra A
 
-Item. 22. (FGV/Senado Federal -2008) Considere as assertivas sobre a técnica de pontos de
+22. (FGV/Senado Federal -2008) Considere as assertivas sobre a técnica de pontos de
 função para
 a estimativa de custo de desenvolvimento de um software:
 
@@ -6095,7 +5943,6 @@ do entendimento da banca.
 
 Gabarito: Letra D
 
-
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
 As questões 11 e 12 baseiam-se nas Figura io(a), io(b) e io(c). Sobre a Figura
@@ -6131,7 +5978,6 @@ as "Entradas Externas" (EE), "Consultas Externas" (CE) e "Saídas Externas" (SE)
 Requisitos de software a serem
 Levantados e Analisados
 
-
 12 Mês
 
 (Módulo 1)
@@ -6152,7 +5998,6 @@ Revisar lançamentos
 Figura 10(a) - Requisitos de software
 
 Figura 10(b) - Visão geral do RUP
-
 
 Tipo de
 Função
@@ -6181,7 +6026,6 @@ Alta Média Baixa
 
 Figura 10(c) - Tabela para determinação da
 contribuição de PF
-
 
 í. (FUNDATEC / ISS-Porto Alegre - 2022) Sabe-se que em todos os processos elementares
 de
@@ -6248,7 +6092,6 @@ Ocorre que a primeira informação importante nos disse que todas as funções
 de transação
 deveriam ser consideradas como de complexidade funcional média. Vamos consultar a tabela:
 
-
 Tipo de
 Função
 
@@ -6292,10 +6135,9 @@ requisitos na questão. Logo, basta multiplicar por quatro: 17 x 4 = 68 (> 60 e 
 
 Gabarito: Letra D
 
-Item. 2. (CEPUERJ / UERJ - 2021) Observe as seguintes descrições de funcionalidades que
+2. (CEPUERJ / UERJ - 2021) Observe as seguintes descrições de funcionalidades que
 compõem
 um sistema de controle de ponto:
-
 
 Rnpatru dr Ponta
 
@@ -6377,7 +6219,7 @@ Contagem final: 1 EE Baixa (3 pontos) + 1 EE Baixa (3 pontos) + 1 CE Baixa (3 po
 
 Gabarito: Letra B
 
-Item. 3. (AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Como se denomina um modelo de
+3. (AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Como se denomina um modelo de
 projeto
 preliminar usado para a estimativa de esforço inicial de um software e
 baseada nos seus
@@ -6404,7 +6246,7 @@ esforço indiretamente.
 
 Gabarito: Letra A
 
-Item. 4. (AOCP / Prefeitura de Betim - MG - 2020) Considerando a métrica de pontos por função, os
+4. (AOCP / Prefeitura de Betim - MG - 2020) Considerando a métrica de pontos por função, os
 dados derivados da aplicação que fornecem informações para o usuário são classificados como:
 
 a) entradas externas.
@@ -6431,7 +6273,7 @@ Saída Externa.
 
 Gabarito: Letra E
 
-Item. 5. (IBFC / TRE-PA - 2020) Conforme a IFPUG (International Function Point
+5. (IBFC / TRE-PA - 2020) Conforme a IFPUG (International Function Point
 Users Group), no
 Manual de Práticas de Contagem de Pontos de Função, o primeiro passo para se fazer o
 cálculo
@@ -6464,7 +6306,6 @@ sabemos que há certas características que devem ser consideradas para se obter
 precisão
 sobre o cálculo.
 
-
 Por essa razão, essas características são quantificadas de modo a obter um valor
 chamado Valor do
 Fator de Ajuste (VFA) baseado em 14 características gerais de sistema (14 CGS). Com
@@ -6481,7 +6322,7 @@ características gerais do sistema na escala de o a 5 para determinar o nível d
 
 Gabarito: Letra A
 
-Item. 6. (VUNESP / EBSERH - 2020) A métrica de software baseada em pontos de função:
+6. (VUNESP / EBSERH - 2020) A métrica de software baseada em pontos de função:
 
 a) possui 12 fatores de ajuste de valor.
 
@@ -6507,7 +6348,7 @@ Correto, é realmente dependente da quantidade de arquivos lógicos internos.
 
 Gabarito: Letra E
 
-Item. 7. (VUNESP / Câmara de Piracicaba - SP - 2019) Uma das principais métricas utilizadas
+7. (VUNESP / Câmara de Piracicaba - SP - 2019) Uma das principais métricas utilizadas
 para
 avaliação de software é a Métrica por Pontos de Função. Tal tipo de métrica considera
 alguns
@@ -6528,14 +6369,13 @@ A análise de pontos de função pode ser aplicada em diversos domínios funcion
 domínios de
 informação. O que é isso? É uma área de interesse (Ex: sistema de uma universidade, hospital,
 
-
 banco, entre outras). Dentre as alternativas, a única que apresenta valores
 de domínio da
 informação é a Entrada Externa (EE).
 
 Gabarito: Letra C
 
-Item. 8. (Avança SP / Câmara Municipal de Taboão da Serra - SP - 2019) No que se refere à
+8. (Avança SP / Câmara Municipal de Taboão da Serra - SP - 2019) No que se refere à
 análise de
 pontos por função, analise os itens a seguir e, ao final, assinale a alternativa correta:
 
@@ -6565,7 +6405,7 @@ realmente perfeita; (III) Errado, não há nenhuma relação com elicitação de
 
 Gabarito: Letra B
 
-Item. 9. (ACEP / Prefeitura de Aracati - CE - 2019) Uma das atribuições mais comuns na
+9. (ACEP / Prefeitura de Aracati - CE - 2019) Uma das atribuições mais comuns na
 Gerência de
 Projetos de software é realizar estimativa de software. Sobre essas
 estimativas, é correto
@@ -6588,7 +6428,6 @@ Prototipação.
 
 Comentários:
 
-
 (a) Errado, é independente da estrutura tecnológica; (b) Errado, mas eu acho a redação
 desse item
 confusa: ele quis dizer'experiência' no sentido de já terfeito contagens anteriores ou
@@ -6608,7 +6447,6 @@ io.(CESGRANRIO / TRANSPETRO - 2018) Um pequeno sistema passou por um processo
 de
 contagem de pontos de função, resultando na Tabela abaixo.
 
-
 Entrada Externa
 Saída Externa
 Consulta Externa
@@ -6618,12 +6456,9 @@ Arquivo Lógico Interno
 
 Baixa
 
-
 Média
 
-
 Alta
-
 
 Quantos pontos de função não ajustados tem tal sistema?
 
@@ -6638,7 +6473,6 @@ d) 121
 e) 122
 
 Comentários:
-
 
 FUNÇÕES DE DADOS E TRANSAÇÃO
 
@@ -6660,14 +6494,13 @@ AIE-> 0*5 + 0*7 + 1*10 = 0 + 0 + 10 10
 
 | BAIXA | MÉDIA | ALTA |
 
-
 ALI 2*7 + 2*10 + 2*15 = 14 + 20 + 30= 64
 
 Somando tudo, temos: 16 + 31 + o + 10 + 64 = 121.
 
 Gabarito: Letra D
 
-Item. 11. (IBFC / EBSERH - 2018) Na análise de pontos de função, as funções transacionais
+11. (IBFC / EBSERH - 2018) Na análise de pontos de função, as funções transacionais
 representam
 as funcionalidades efetivamente fornecidas para o usuário e são categorizadas
 em entradas
@@ -6679,7 +6512,7 @@ Essas são - de fato - as funções transacionais...
 
 Gabarito: Correto
 
-Item. 12. (IBFC / EMBASA - 2017) A NESMA reconhece três métodos de Análise de Pontos de
+12. (IBFC / EMBASA - 2017) A NESMA reconhece três métodos de Análise de Pontos de
 Função
 (APF), que são métodos de Medição de Tamanho Funcional (FSM) autossuficientes. Esse três
 métodos são respectivamente:
@@ -6695,7 +6528,7 @@ Os três métodos são: Contagem Detalhada, Estimada e Indicativa.
 
 Gabarito: Letra A
 
-Item. 13. (IBFC / EBSERH - 2017) O primeiro passo a ser seguido para a contagem de PF
+13. (IBFC / EBSERH - 2017) O primeiro passo a ser seguido para a contagem de PF
 (Pontos de
 Função) de um projeto de software é determinar o tipo de contagem. Neste
 passo é
@@ -6716,7 +6549,6 @@ aplicação
 (produção)
 
 d) do projeto de integração, do projeto de requerimentos (requisitos), de depuração (testes)
-
 
 e) do projeto de desenvolvimento, do projeto de requerimentos (requisitos), de
 depuração
@@ -6744,10 +6576,9 @@ Comentários:
 
 ALI é o Arquivo Lógico Interno; AIE é o Arquivo de Interface Externa.
 
-
 Gabarito: Letra B
 
-Item. 15. (IBFC / EBSERH - 2017) O conceito de Ponto de Função foi definido originalmente
+15. (IBFC / EBSERH - 2017) O conceito de Ponto de Função foi definido originalmente
 em 1977 na
 IBM e é padronizada internacionalmente pela ISO. Pode-se definir o conceito
 de Ponto de
@@ -6776,10 +6607,8 @@ processo de software, de um sistema de informação basicamente utilizando
 medidas diretas
 tais como a complexidade ciclomática de um programa ou sistema.
 
-
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Engenharia de software - 2023
 (Pós-Edital)
-
 
 e) é uma medida de software, que possibilita um conjunto de métricas de
 qualidade e
@@ -6840,7 +6669,6 @@ d) Arquivo de Interface Interno.
 e) Arquivo de Interface Lógica.
 
 Comentários:
-
 
 O grupo de dados, logicamente relacionados, reconhecido pelo usuário, mantido por meio
 de um
@@ -6903,7 +6731,6 @@ são uma função do tipo dado; (d) Errado, Arquivos Referenciados Externos não
 
 Gabarito: Letra A
 
-
 2O.(IESES / MSGÁS - 2015) O sistema de reservas de automóveis de uma locadora possui
 uma
 funcionalidade que consiste em uma interface web para entrada de dados do
@@ -6950,7 +6777,7 @@ Os valores de domínio da informação são o número de Entradas Externas e Con
 
 Gabarito: Letra B
 
-Item. 22. (AOCP / UFPB - 2014) Preencha a lacuna e assinale a alternativa correta.
+22. (AOCP / UFPB - 2014) Preencha a lacuna e assinale a alternativa correta.
 
 "Na análise de pontos de função, os requisitos funcionais devem ser identificados conforme
 
@@ -6966,7 +6793,6 @@ d) a linguagem de programação utilizada.
 
 e) o sistema gerenciador de banco de dados utilizado.
 
-
 Comentários:
 
 Na análise de pontos de função, os requisitos funcionais devem ser identificados
@@ -6975,7 +6801,7 @@ do usuário.
 
 Gabarito: Letra B
 
-Item. 23. (UFBA / UFSBA - 2014) Pontos de Função apenas medem o tamanho funcional do
+23. (UFBA / UFSBA - 2014) Pontos de Função apenas medem o tamanho funcional do
 software
 baseando-se em uma avaliação padronizada dos requisitos dos usuários e, diferentemente de
 Linhas de Código, não são dependentes da implementação física e das linguagens
@@ -7019,7 +6845,6 @@ c) 101,65
 d) 102,65.
 
 Comentários:
-
 
 Vamos lembrar da fórmula: PFA = PFNA x [(NI x 0,01) + 0,65]. Se os Pontos de
 Função Não-
@@ -7083,7 +6908,6 @@ b) Arquivos temporários, de trabalho ou de classificação.
 
 c) Arquivos de backup.
 
-
 d) Arquivos de mensagens de erro desde que mantidos pela aplicação.
 
 e) Arquivos introduzidos exclusivamente em função da tecnologia utilizada.
@@ -7116,7 +6940,7 @@ relação à sua complexidade funcional com base em Tipos de Dados e Tipos de Re
 
 Gabarito: Letra A
 
-Item. 30. (ESAF / CGU - 2012) São características gerais de sistema utilizadas para
+30. (ESAF / CGU - 2012) São características gerais de sistema utilizadas para
 cálculo do fator de
 ajuste:
 
@@ -7140,7 +6964,6 @@ Comentários:
 
 03-PERFORMANCE 10-REUSABILIDADE
 
-
 04-CONFIGURAÇÃO D0 EQUIPAMENTO
 
 05-VOLUME DE TRANSAÇÕES
@@ -7156,12 +6979,11 @@ Comentários:
 07-INTERFACE C0M0 USUÁRIO 14-FACILIDADE DE
 MUDANÇAS
 
-
 As características são múltiplos locais e processamento complexo.
 
 Gabarito: Letra E
 
-Item. 31. (CONSULPLAN /TSE-2012) A análise de Ponto de Função engloba diversas etapas, sendo
+31. (CONSULPLAN /TSE-2012) A análise de Ponto de Função engloba diversas etapas, sendo
 que
 a contagem está associada fundamentalmente a projetos de desenvolvimento e de melhoria.
 Nesse contexto, uma função é representada pelas necessidades do usuário em
@@ -7219,7 +7041,6 @@ uma vez.
 
 Gabarito: Letra E
 
-
 33- (ESAF / MPOG - 2010) Assinale a afi rmativa correta relativa à Análise por Pontos de Função
 (APF).
 
@@ -7274,12 +7095,11 @@ manutenção.
 
 Comentários:
 
-
 É a funcionalidade da aplicação, funcionalidade de conversão, e fator de ajuste da aplicação.
 
 Gabarito: Letra D
 
-Item. 35. (ESAF / CVM - 2010) Algumas das Características Gerais do Sistema (CGS) são:
+35. (ESAF / CVM - 2010) Algumas das Características Gerais do Sistema (CGS) são:
 
 a) Comunicação de Dados. Funções intrínsecas. Performance. Especificação de equipamento.
 Saída de dados on-line. Processamento complexo. Reusabilidade.
@@ -7305,7 +7125,6 @@ Facilidade de
 Implantação.
 
 Comentários:
-
 
 01-COMUNICAÇÃO DE DADOS
 
@@ -7345,7 +7164,6 @@ Gabarito: Letra D
 
 36.(ESAF / CVM - 2010) Baseando-se nas Características Gerais do Sistema (CGS), um dos passos
 para o cálculo do fator de ajuste é:
-
 
 a) avaliar o impacto de cada uma das 14 CGS no aplicativo que está sendo contado,
 atribuindo
@@ -7398,7 +7216,6 @@ mandatário.
 
 Gabarito: Letra E
 
-
 38.(ESAF / SUSEP - 2010) São Características Gerais do Sistema (CGS) do fator de ajuste que
 avaliam a funcionalidade geral da aplicação:
 
@@ -7423,7 +7240,6 @@ sistema; (e) Errado,
 nenhum é uma característica geral do sistema.
 
 Gabarito: Letra B
-
 
 LISTA DE QUESTõES - CESPE
 
@@ -7456,9 +7272,7 @@ alta
 alta
 quantidade
 
-
 ]
-
 
 Tendo como referência as informações precedentes, julgue o próximo item, de acordo com
 o
@@ -7468,7 +7282,7 @@ De acordo com a tabela apresentada, as funções de dados representam mais de 55
 de
 função.
 
-Item. 2. (CESPE / Ministério de Economia - 2020) As informações a seguir são relativas a uma
+2. (CESPE / Ministério de Economia - 2020) As informações a seguir são relativas a uma
 mensuração de sistemas em pontos de função.
 
 I manutenção de sete páginas HTML estáticas no portal da organização, contida em um
@@ -7497,9 +7311,7 @@ alta
 alta
 quantidade
 
-
 ]
-
 
 Tendo como referência as informações precedentes, julgue o próximo item, de acordo com
 o
@@ -7509,7 +7321,6 @@ De acordo com os dados da tabela apresentada, as funções transacionais represe
 pontos
 de função.
 
-
 3- (CESPE / Ministério de Economia - 2020) Uma técnica paramétrica para estimativa de
 esforço
 para desenvolvimento de software é a análise por pontos de função, que se baseia em
@@ -7518,11 +7329,11 @@ código que são convertidas em valores numéricos, os quais, depois de ajustado
 capacidade
 da empresa desenvolvedora, representarão o esforço necessário para se desenvolver o sistema.
 
-Item. 4. (CESPE / Ministério de Economia - 2020) A identificação de funções de dados e
+4. (CESPE / Ministério de Economia - 2020) A identificação de funções de dados e
 de tipos
 funcionais somente deve ocorrer após o estabelecimento da fronteira da contagem.
 
-Item. 5. (CESPE / Ministério de Economia - 2020) A estimativa de esforço de projeto de
+5. (CESPE / Ministério de Economia - 2020) A estimativa de esforço de projeto de
 software,
 representada pela fórmula a seguir, deve ser usada em substituição à contagem por
 pontos de
@@ -7530,40 +7341,40 @@ função quando esta não for suficiente para estimar o tamanho do projeto, esfo
 (horas) =
 tamanho (PF) x índice de produtividade (HH/PF).
 
-Item. 6. (CESPE / Ministério de Economia - 2020) A identificação de requisitos funcionais
+6. (CESPE / Ministério de Economia - 2020) A identificação de requisitos funcionais
 é resultado
 da análise da documentação do projeto, primeira atividade do procedimento de contagem de
 PF do Manual de Práticas de Contagem (CPM).
 
-Item. 7. (CESPE / Ministério de Economia - 2020) Na métrica de pontos por função,
+7. (CESPE / Ministério de Economia - 2020) Na métrica de pontos por função,
 entradas externas,
 saídas externas e consultas externas são computadas separadamente.
 
-Item. 8. (CESPE / Ministério de Economia - 2020) A análise de pontos de função é
+8. (CESPE / Ministério de Economia - 2020) A análise de pontos de função é
 utilizada para medir
 o tamanho das funções que serão construídas de acordo com a visão do usuário, e não
 do
 desenvolvedor.
 
-Item. 9. (CESPE / SLU-DF - 2019) A contagem das funções de transações (FT) deve ser
+9. (CESPE / SLU-DF - 2019) A contagem das funções de transações (FT) deve ser
 precedida pela
 contagem dos tipos de funções de dados.
 
-Item. 10. (CESPE / SLU-DF-2019) Os pontos porfunção não ajustados (PFNA) devem ser
+10. (CESPE / SLU-DF-2019) Os pontos porfunção não ajustados (PFNA) devem ser
 multiplicados
 pelo seu fator de ajuste (FA) para que se obtenha, assim, o valor final dos pontos por função.
 
-Item. 11. (CESPE / TJ-AM - 2019) A partir dos resultados apresentados pela métrica ponto
+11. (CESPE / TJ-AM - 2019) A partir dos resultados apresentados pela métrica ponto
 por função, é
 possível estimar a quantidade de erros que serão encontrados durante o teste.
 
-Item. 12. (CESPE / TJ-AM - 2019) Na contagem dos tipos de elementos usados para a
+12. (CESPE / TJ-AM - 2019) Na contagem dos tipos de elementos usados para a
 determinação da
 complexidade dos tipos de função, os tipos de elementos de registro correspondem ao
 número
 de campos distintos e não repetitivos identificáveis pelo usuário.
 
-Item. 13. (CESPE / TJ-AM - 2019) Devido a suas características, uma tela de login pode ser
+13. (CESPE / TJ-AM - 2019) Devido a suas características, uma tela de login pode ser
 considerada
 como um exemplo de consulta externa em uma contagem de pontos de função.
 
@@ -7573,8 +7384,7 @@ externa, no caso da carga inicial dos dados, e como consultas ou saídas externa
 quando o
 usuário solicitar relatório associado à funcionalidade de migração de dados.
 
-
-Item. 15. (CESPE / STM - 2018) Segundo a Nesma, a contagem indicativa considera
+15. (CESPE / STM - 2018) Segundo a Nesma, a contagem indicativa considera
 a quantidade
 existente de arquivos lógicos internos e de interface externa, considerando,
 ainda, que toda
@@ -7582,11 +7392,11 @@ função do tipo dado tem sua complexidade funcional avaliada como baixa e as
 funções
 transacionais avaliadas como de complexidade média.
 
-Item. 16. (CESPE / CGM-PB - 2018) A APF é capaz de medir projetos de desenvolvimento e
+16. (CESPE / CGM-PB - 2018) A APF é capaz de medir projetos de desenvolvimento e
 manutenção
 de software, com a restrição de ser dependente da tecnologia de implementação.
 
-Item. 17. (CESPE / TRE-BA - 2017) Na contagem de pontos de função inicial de uma
+17. (CESPE / TRE-BA - 2017) Na contagem de pontos de função inicial de uma
 aplicação, consiste
 em uma saída externa a:
 
@@ -7636,8 +7446,7 @@ software a ser desenvolvido, independentemente dos índices de produtividade
 de cada
 empresa.
 
-
-Item. 21. (CESPE / STJ - 2015) Na contagem de pontos de função, deve-se contar um dado
+21. (CESPE / STJ - 2015) Na contagem de pontos de função, deve-se contar um dado
 elementar
 referenciado (DER), correspondente a uma função de dados, para cada atributo único ou
 não,
@@ -7645,60 +7454,59 @@ repetido e reconhecido pelo usuário, mantido na função de dados ou recuperado
 função
 por meio da execução de todos os processos elementares pertinentes ao escopo da contagem.
 
-Item. 22. (CESPE / CGE-PI - 2015) No processo de contagem da aplicação, um dos passos é
+22. (CESPE / CGE-PI - 2015) No processo de contagem da aplicação, um dos passos é
 determinar o
 tamanho funcional de cada função de dados, que pode ser classificada, em
 relação a sua
 complexidade, como simples, média ou complexa.
 
-Item. 23. (CESPE / STJ - 2015) O custo para projetar, codificar e testar o software pode
+23. (CESPE / STJ - 2015) O custo para projetar, codificar e testar o software pode
 ser estimado por
 meio do uso de ponto de função em dados históricos de sistemas similares.
 
-Item. 24. (CESPE / CGE-PI - 2015) Um processo elementar que tenha a intenção primária de
+24. (CESPE / CGE-PI - 2015) Um processo elementar que tenha a intenção primária de
 apresentar
 informações ao usuário e que referencie uma função de dados para recuperar
 dados ou
 informações de controle pode ser uma saída externa ou uma consulta externa.
 
-Item. 25. (CESPE / MEC - 2015) Os projetos de melhoria não podem envolver
+25. (CESPE / MEC - 2015) Os projetos de melhoria não podem envolver
 inclusões de
 funcionalidades.
 
-Item. 26. (CESPE/TCDF-2OiZj) Na técnica de Nesma utilizada para calcular a estimativa do
+26. (CESPE/TCDF-2OiZj) Na técnica de Nesma utilizada para calcular a estimativa do
 tamanho do
 software, realiza-se um detalhamento de cada elemento e de cada função, o que torna a
 técnica
 mais trabalhosa que outras.
 
-Item. 27. (CESPE / ANTAQ - 2014) De acordo com a análise de pontos de função, o
+27. (CESPE / ANTAQ - 2014) De acordo com a análise de pontos de função, o
 desenvolvimento de
 aplicações sem a preocupação de produzir código reusável não influencia na contagem do
 fator
 de ajuste.
 
-Item. 28. (CESPE / TCDF - 2014) Arquivos de interface externa (AIE) e arquivo lógico
+28. (CESPE / TCDF - 2014) Arquivos de interface externa (AIE) e arquivo lógico
 interno (ALI) são as
 funções de dados utilizadas para a contagem de pontos de função.
 
-Item. 29. (CESPE / TCDF - 2014) Na contagem de funções de transações, uma entrada externa
+29. (CESPE / TCDF - 2014) Na contagem de funções de transações, uma entrada externa
 (EE) é um
 processo que trata ou processa informações ou dados externos à aplicação. Contudo, uma
 EE
 não modifica os dados dos arquivos lógicos internos (ALIs).
 
-Item. 30. (CESPE/SUFRAMA-2oi4) Em um projeto de melhoria, apenas as funções incluídas e
+30. (CESPE/SUFRAMA-2oi4) Em um projeto de melhoria, apenas as funções incluídas e
 alteradas
 devem ser contadas para se medir o tamanho funcional do projeto.
 
-Item. 31. (CESPE / CNJ -2013) Entrada externa, arquivo referenciado e saída externa são
+31. (CESPE / CNJ -2013) Entrada externa, arquivo referenciado e saída externa são
 funções do tipo
 transação.
 
-Item. 32. (CESPE / MPOG - 2013) Na contagem por pontos de função, um arquivo de interface
+32. (CESPE / MPOG - 2013) Na contagem por pontos de função, um arquivo de interface
 externa
 (AIE) sempre será um arquivo lógico interno (ALI) de outra aplicação.
-
 
 33- (CESPE/CNJ-2013) O principal objetivo de um arquivo de interface externa (AIE) é
 armazenar
@@ -7708,17 +7516,17 @@ contada. Além disso, um AIE contado para uma aplicação deve ser um arquivo l�
 interno
 para outra aplicação.
 
-Item. 34. (CESPE / CNJ - 2013) Na contagem de um projeto de manutenção ou de melhoria, as
+34. (CESPE / CNJ - 2013) Na contagem de um projeto de manutenção ou de melhoria, as
 funções
 de conversão de dados não devem ser contadas.
 
-Item. 35. (CESPE / AL-ES - 2011 - Letra A) A análise de pontos de função é uma técnica
+35. (CESPE / AL-ES - 2011 - Letra A) A análise de pontos de função é uma técnica
 de medição das
 funcionalidades oferecidas por um software do ponto de vista de seus usuários com a
 qual se
 busca medir o que o software é capaz de fazer, e não a forma como ele foi construído.
 
-Item. 36. (CESPE / ANATEL - 2011) A análise de pontos de função de um programa produz
+36. (CESPE / ANATEL - 2011) A análise de pontos de função de um programa produz
 estimativas
 de tamanho funcional de um produto de software embasada em cinco
 parâmetros-chave:
@@ -7730,18 +7538,18 @@ dois
 delete) são
 consideradas pertencentes às entradas externas.
 
-Item. 37. (CESPE / BRB - 2011) Se duas aplicações mantiverem o mesmo arquivo lógico
+37. (CESPE / BRB - 2011) Se duas aplicações mantiverem o mesmo arquivo lógico
 interno, então
 esse arquivo será contado apenas na aplicação que detém o arquivo físico.
 
-Item. 38. (CESPE / ECT - 2011) A técnica de análise de pontos de função tem como
+38. (CESPE / ECT - 2011) A técnica de análise de pontos de função tem como
 objetivos primários,
 entre outros, a medição da funcionalidade que o usuário solicita e recebe,
 a medição do
 desempenho e a manutenção de software independentemente da tecnologia utilizada para sua
 implementação.
 
-Item. 39. (CESPE / MEC - 2011) São funções do tipo transação: entradas externas, saídas
+39. (CESPE / MEC - 2011) São funções do tipo transação: entradas externas, saídas
 externas e
 consultas externas. Uma das principais diferenças entre as saídas externas e
 as consultas
@@ -7749,22 +7557,21 @@ externas é que as primeiras devem conter alguma fórmula matemática ou cálcul
 as
 consultas externas representam uma recuperação simples de dados.
 
-Item. 40. (CESPE / MEC - 2011) A NESMA — manual de contagem de pontos de função embasado
+40. (CESPE / MEC - 2011) A NESMA — manual de contagem de pontos de função embasado
 no
 CPM — facilita a estimativa do tamanho do produto e tem como referência as funções
 de dados
 e transações, sem que haja detalhamento de cada elemento da função.
 
-Item. 41. (CESPE / BRB - 2011) Uma consulta que possua contador incrementado é considerada
+41. (CESPE / BRB - 2011) Uma consulta que possua contador incrementado é considerada
 uma
 saída externa.
 
-Item. 42. (CESPE / TJ-ES - 2011) De acordo com o manual de contagem de pontos de função,
+42. (CESPE / TJ-ES - 2011) De acordo com o manual de contagem de pontos de função,
 consulta
 externa é um processo elementar que envia dados ou informações de controle para fora
 da
 fronteira, sendo considerada componente funcional básico.
-
 
 43- (CESPE / CET - 2011) Uma consulta externa disponibiliza informações para o usuário
 por meio
@@ -7774,11 +7581,11 @@ processamento deve conter pelo menos uma fórmula matemática ou cálculo, ou
 criar dados
 derivados.
 
-Item. 44. (CESPE / STM - 2011) O conceito de projeto de melhoria do IFPUG envolve as
+44. (CESPE / STM - 2011) O conceito de projeto de melhoria do IFPUG envolve as
 manutenções
 evolutivas, corretivas e preventivas da aplicação.
 
-Item. 45. (CESPE / STM - 2010) O padrão ISO/IEC 20926 considera a técnica até a
+45. (CESPE / STM - 2010) O padrão ISO/IEC 20926 considera a técnica até a
 determinação dos
 pontos de função não ajustados. As características gerais de sistema utilizadas
 para a
@@ -7786,7 +7593,7 @@ determinação do fator de ajuste e dos pontos de função ajustado
 contêm requisitos
 tecnológicos e de qualidade.
 
-Item. 46. (CESPE / STM - 2010) Na análise de ponto de funções, a contagem de pontos
+46. (CESPE / STM - 2010) Na análise de ponto de funções, a contagem de pontos
 relativos aos
 arquivos lógicos internos que se referem a grupo de dados ou informações de
 controle
@@ -7794,27 +7601,27 @@ logicamente relacionados, reconhecidos pelo usuário e mantidos dentro da
 fronteira da
 aplicação, é contabilizada como pontos não ajustados.
 
-Item. 47. (CESPE / STM - 2010) A NESMA (Netherlands Software Metrics Users
+47. (CESPE / STM - 2010) A NESMA (Netherlands Software Metrics Users
 Association) tem
 objetivos e ações bem próximos aos do IFPUG; ambos apresentam abordagens semelhantes
 para a aplicação da análise de pontos de função em projetos de melhoria de software
 e na fase
 inicial do desenvolvimento do produto de software.
 
-Item. 48. (CESPE / MPU - 2010) Na análise por pontos de função (APF), as funções podem
+48. (CESPE / MPU - 2010) Na análise por pontos de função (APF), as funções podem
 ser do tipo
 transação e do tipo dados. Nas funções do tipo transação, são manipulados os arquivos
 de
 interface externa (AIE) bem como os arquivos lógicos internos (ALI).
 
-Item. 49. (CESPE / TRE-BA - 2009) A APF auxilia a compreender e agir sobre problemas
+49. (CESPE / TRE-BA - 2009) A APF auxilia a compreender e agir sobre problemas
 típicos de
 gerenciamento de projetos, tais como baixos custos, atrasos no pagamento,
 insatisfação do
 usuário e produtividade de desenvolvedores, bem como sobre as dificuldades de medição do
 progresso do projeto.
 
-Item. 50. (CESPE / TRE-BA - 2009) A APF visa estabelecer uma medida de tamanho do
+50. (CESPE / TRE-BA - 2009) A APF visa estabelecer uma medida de tamanho do
 software, em
 pontos de função (PF), por meio da quantificação das funções implementadas sob o ponto
 de
@@ -7822,7 +7629,7 @@ vista do desenvolvedor. A função de ajuste denominada cálculos complexos cons
 que
 nível o processamento lógico ou matemático influencia o desenvolvimento da aplicação.
 
-Item. 51. (CESPE / TRE-BA - 2009) Para se determinar o número de PF não ajustados, após
+51. (CESPE / TRE-BA - 2009) Para se determinar o número de PF não ajustados, após
 identificar as
 funções de dados e transacionais, deve-se multiplicar, pela respectiva complexidade, o
 total de
@@ -7832,8 +7639,7 @@ consultas externas. De acordo com a complexidade, cada uma das funções de
 dados e
 transacionais contribui com determinado número de PF.
 
-
-Item. 52. (CESPE/TCU -2009) Uma organização executa projetos de desenvolvimento de aplicativos
+52. (CESPE/TCU -2009) Uma organização executa projetos de desenvolvimento de aplicativos
 de
 software embasados na arquitetura J2EE, com padrões de desenho,
 framework MVC,
@@ -7853,7 +7659,7 @@ na mesma organização, incrementará o fator de ajuste de medição (value adju
 factor)
 para esse projeto.
 
-Item. 53. (CESPE / TRE-BA - 2009) A contagem não ajustada de pontos de função é a soma
+53. (CESPE / TRE-BA - 2009) A contagem não ajustada de pontos de função é a soma
 das
 contribuições de cada função identificada na aplicação que esteja sendo contada. Para
 se obter
@@ -7861,13 +7667,13 @@ a contagem ajustada de pontos de função, a referida soma é multiplicada pelo 
 fator de
 ajuste.
 
-Item. 54. (CESPE / TRE-BA - 2009) E m um projeto de desenvolvimento, uma contagem deve
+54. (CESPE / TRE-BA - 2009) E m um projeto de desenvolvimento, uma contagem deve
 incluir a
 funcionalidade provida pela conversão de dados e relatórios associados com os requisitos
 de
 conversão de dados.
 
-Item. 55. (CESPE /TRE-ES - 2009) Logo após o início das atividades técnicas de um projeto,
+55. (CESPE /TRE-ES - 2009) Logo após o início das atividades técnicas de um projeto,
 o gerente e
 a equipe de desenvolvimento devem estimaro trabalho a ser realizado, os recursos
 necessários,
@@ -7877,7 +7683,7 @@ se seguir a métrica de pontos de função (PF), desde que esta seja compatível
 tecnologia
 empregada na implementação do sistema.
 
-Item. 56. (CESPE / TRE-PR - 2009) O primeiro passo para a contagem das unções de dados
+56. (CESPE / TRE-PR - 2009) O primeiro passo para a contagem das unções de dados
 consiste em
 identificar arquivos lógicos internos (ALIs) e arquivos de interface externa
 (AlEs). Cada uma
@@ -7885,13 +7691,13 @@ dessas funções de dados deve ser classificada segundo sua complexidade
 funcional, que é
 definida com base em conceitos de registros lógicos e de itens de dados.
 
-Item. 57. (CESPE / TRE-PR - 2009) Registros lógicos são subconjuntos de dados dentro de um
+57. (CESPE / TRE-PR - 2009) Registros lógicos são subconjuntos de dados dentro de um
 ALI/AIE
 que foram reconhecidos pelo usuário. Caso o usuário não reconheça subconjuntos de dados
 em
 um ALI/AIE, este deve ser contado como um registro lógico.
 
-Item. 58. (CESPE / TRE-PR - 2009) A contagem de pontos de função é efetuada
+58. (CESPE / TRE-PR - 2009) A contagem de pontos de função é efetuada
 com base na
 especificação do sistema e complementada por informações dos usuários e
 analistas, para
@@ -7903,24 +7709,23 @@ arquivos lógicos internos, arquivos de interface interna, entradas externas, co
 externas e
 saídas externas.
 
-
 59-(CESPE/ UNIPAMPA-2009) A métrica pontos de função tem como final idade aferir o
 tamanho
 dos projetos de desenvolvimento e a manutenção de software.
 
-Item. 60. (CESPE / TRE-GO - 2009) O método de análise de pontos de função descreve como
+60. (CESPE / TRE-GO - 2009) O método de análise de pontos de função descreve como
 calcular as
 dez características gerais de um sistema, as quais são usadas para produzir, juntamente
 com
 outras informações, a contagem de pontos de função ajustados.
 
-Item. 61. (CESPE / ANAC - 2009) Os tipos de contagem de pontos por função podem ser de
+61. (CESPE / ANAC - 2009) Os tipos de contagem de pontos por função podem ser de
 projetos de
 desenvolvimento, projetos de melhorias ou de aplicações, sendo a contagem de
 pontos por
 função por estimativa realizada nos estágios iniciais de contagem.
 
-Item. 62. (CESPE / STF - 2008) Em um projeto de desenvolvimento de software que adota o
+62. (CESPE / STF - 2008) Em um projeto de desenvolvimento de software que adota o
 modelo de
 processos e as disciplinas propostas pelo RUP, a contagem de pontos de função
 não-ajustados
@@ -7928,7 +7733,7 @@ não-ajustados
 de projetos
 durante a fase de elaboração do que durante a fase de transição.
 
-Item. 63. (CESPE / TER-BA - 2008) Na APF, a precisão da estimativa melhora à medida que
+63. (CESPE / TER-BA - 2008) Na APF, a precisão da estimativa melhora à medida que
 se obtém
 mais informações da análise e do projeto de sistemas. Assim, é possível estimar o
 tamanho do
@@ -7938,17 +7743,17 @@ backfiring, o número de pontos de função de uma aplicação é derivado a par
 tamanho
 físico, que é assumido linear entre os tamanhos funcional e físico.
 
-Item. 64. (CESPE / MPE-AM - 2008) Uma entrada do usuário é definida como uma ação do
+64. (CESPE / MPE-AM - 2008) Uma entrada do usuário é definida como uma ação do
 usuário que
 resulta na geração de uma resposta imediata do software na forma de uma saída
 entregue ao
 usuário.
 
-Item. 65. (CESPE / MPE-AM -2007) Um fator de complexidade permite dar um peso a cada
+65. (CESPE / MPE-AM -2007) Um fator de complexidade permite dar um peso a cada
 característica
 do domínio da informação usada como parâmetro de entrada da análise.
 
-Item. 66. (CESPE / MPE-AM - 2007) Valores de ajuste de complexidade são obtidos a
+66. (CESPE / MPE-AM - 2007) Valores de ajuste de complexidade são obtidos a
 partir da
 resposta a uma série de questões relativas ao contexto de desenvolvimento e
 utilização do
@@ -7956,21 +7761,20 @@ software. Esses valores são usados conjuntamente com a contagem dos
 parâmetros
 característicos do domínio para calcular o número de pontos de função.
 
-Item. 67. (CESPE / MPE-AM - 2007) A fórmula de cálculo de pontos de função exprime uma
+67. (CESPE / MPE-AM - 2007) A fórmula de cálculo de pontos de função exprime uma
 relação
 exponencial entre os parâmetros de entrada da análise e a quantidade de pontos de
 função
 calculados.
 
-Item. 68. (CESPE / TST- 2007) A estimativa de características de projeto por pontos de função requer
+68. (CESPE / TST- 2007) A estimativa de características de projeto por pontos de função requer
 que as características do domínio de informação do software sejam categorizadas
 como de
 realização simples, média ou complexa, em função do grau de dificuldade de
 desenvolvimento
 em determinada organização.
 
-
-Item. 69. (CESPE / PRODEST - 2006) Uma função pode ser definida como uma coleção de
+69. (CESPE / PRODEST - 2006) Uma função pode ser definida como uma coleção de
 instruções
 que realizam uma tarefa. Em uma função, pode-se também ter declarações de
 parâmetros
@@ -7980,7 +7784,7 @@ função (function points) é igual ao número de funções em um programa. Essa
 possibilita
 uma medição precisa da complexidade de um programa.
 
-Item. 70. (CESPE / TSE - 2006) A estimativa do tamanho de um software pode ser usada para
+70. (CESPE / TSE - 2006) A estimativa do tamanho de um software pode ser usada para
 guiar a
 alocação de recursos em um projeto. A análise de pontos de função mede
 diretamente o
@@ -7988,16 +7792,15 @@ tamanho de um software contando o número de linhas de código e não
 quantidades e
 complexidades de entradas e saídas observadas pelos usuários.
 
-Item. 71. (CESPE / IGEPREV-PA-2005-A) A relação entre linhas de código fonte e os pontos de
+71. (CESPE / IGEPREV-PA-2005-A) A relação entre linhas de código fonte e os pontos de
 função
 de um software depende da linguagem de programação usada para implementar este software.
 
-
 GABARITo
 
-Item. 1. ERRADO 40. CORRETO
+1. ERRADO 40. CORRETO
 
-Item. 2. CORRETO 41. CORRETO
+2. CORRETO 41. CORRETO
 
 3- ERRADO 42. CORRETO
 
@@ -8005,19 +7808,19 @@ Item. 2. CORRETO 41. CORRETO
 
 5- ERRADO 44. ERRADO
 
-Item. 6. CORRETO 45- CORRETO
+6. CORRETO 45- CORRETO
 
 7- CORRETO 46. CORRETO
 
-Item. 8. CORRETO 47- ERRADO
+8. CORRETO 47- ERRADO
 
 9- CORRETO 48. ERRADO
 
-Item. 10. CORRETO 49- ERRADO
+10. CORRETO 49- ERRADO
 
 li. CORRETO 50. ERRADO
 
-Item. 12. ERRADO 5i- ERRADO
+12. ERRADO 5i- ERRADO
 
 13- CORRETO 52. ERRADO
 
@@ -8025,39 +7828,39 @@ Item. 12. ERRADO 5i- ERRADO
 
 x5- ERRADO 54- CORRETO
 
-Item. 16. ERRADO 55- ERRADO
+16. ERRADO 55- ERRADO
 
 17- LETRA A 56. CORRETO
 
 i8. LETRA D 57- CORRETO
 
-Item. 19. ERRADO 58. ERRADO
+19. ERRADO 58. ERRADO
 
-Item. 20. ERRADO 59- CORRETO
+20. ERRADO 59- CORRETO
 
-Item. 21. ERRADO 60. ERRADO
+21. ERRADO 60. ERRADO
 
-Item. 22. ERRADO 61. CORRETO
+22. ERRADO 61. CORRETO
 
 23- CORRETO 62. CORRETO
 
-Item. 24. CORRETO 63. CORRETO
+24. CORRETO 63. CORRETO
 
 25- ERRADO 64. ERRADO
 
-Item. 26. ERRADO 65- CORRETO
+26. ERRADO 65- CORRETO
 
 27- CORRETO 66. CORRETO
 
-Item. 28. CORRETO 67. ERRADO
+28. CORRETO 67. ERRADO
 
 29- ERRADO 68. ERRADO
 
-Item. 30. ERRADO 69. ERRADO
+30. ERRADO 69. ERRADO
 
 31- ERRADO 70. ERRADO
 
-Item. 32. CORRETO 7i- CORRETO
+32. CORRETO 7i- CORRETO
 
 33- CORRETO
 
@@ -8065,14 +7868,13 @@ Item. 32. CORRETO 7i- CORRETO
 
 35- CORRETO
 
-Item. 36. ERRADO
+36. ERRADO
 
 37- ERRADO
 
-Item. 38. CORRETO
+38. CORRETO
 
 39- CORRETO
-
 
 LISTA DE QUESTõES - FCC
 
@@ -8098,7 +7900,7 @@ d) 22.
 
 e) 21.
 
-Item. 2. (FCC / AL-AP- 2020) Para um cálculo hipotético de Ponto por Função - PF, considere as
+2. (FCC / AL-AP- 2020) Para um cálculo hipotético de Ponto por Função - PF, considere as
 quantidades e correspondentes funções:
 
 - 3 EE baixa complexidade
@@ -8139,7 +7941,6 @@ E os seguintes valores padrão:
 
 - 4, para CE média
 
-
 Sem considerar o fator de ajuste, o total de pontos Função de Dados e o total de
 pontos Função
 de Transação são, respectivamente,
@@ -8154,7 +7955,7 @@ d) 12 e 91.
 
 e) 16 e 65.
 
-Item. 3. (FCC/ TRF - 3a REGIÃO - 2019) Em uma contagem de pontos de função, um ALI -
+3. (FCC/ TRF - 3a REGIÃO - 2019) Em uma contagem de pontos de função, um ALI -
 Arquivo
 Lógico Interno, com grau de complexidade média, contribui para a contagem com:
 
@@ -8168,7 +7969,7 @@ d) 07 pontos.
 
 e) 15 pontos.
 
-Item. 4. (FCC / TRF - 3a REGIÃO - 2019) Em Análise de Pontos de Função, uma Consulta
+4. (FCC / TRF - 3a REGIÃO - 2019) Em Análise de Pontos de Função, uma Consulta
 Externa - CE
 constitui-se de dados extraídos de:
 
@@ -8200,7 +8001,7 @@ de Controle sem realizar cálculos ou manutenção nos arquivos que cruzam a
 fronteira do
 sistema e sem alterar seu comportamento.
 
-Item. 5. (FCC /TRE-PB-2015) Análise de Pontos de Função - APF é uma técnica para medir o
+5. (FCC /TRE-PB-2015) Análise de Pontos de Função - APF é uma técnica para medir o
 tamanho
 funcional de um software cujo processo de medição envolve diversas etapas, dentre elas,
 a
@@ -8219,7 +8020,7 @@ d) os Arquivos de Interface Externa - AIE.
 
 e) as Consultas Externas - CE.
 
-Item. 6. (FCC / MPE-MA - 2013) O primeiro passo do processo de contagem por análise de
+6. (FCC / MPE-MA - 2013) O primeiro passo do processo de contagem por análise de
 pontos de
 função é determinar o tipo de contagem. Contagem de pontos de função podem ser
 associadas
@@ -8235,7 +8036,7 @@ d) interoperabilidade.
 
 e) testes.
 
-Item. 7. (FCC / TST - 2012) O Gerente de Projetos de Software aplica os conhecimentos,
+7. (FCC / TST - 2012) O Gerente de Projetos de Software aplica os conhecimentos,
 habilidades e
 ferramentas às atividades do projeto com o objetivo de garantirque o produto seja
 desenvolvido
@@ -8268,9 +8069,8 @@ necessário para
 o desenvolvimento de um sistema, apoiando-o, também, no levantamento dos custos, análise
 de qualidade e análise de produtividade.
 
-Item. 8. (FCC / MPE-AP - 2012) Dentre os métodos disponíveis na utilização de métricas de sistema está
+8. (FCC / MPE-AP - 2012) Dentre os métodos disponíveis na utilização de métricas de sistema está
 a analise de pontos de função (Function Point Analysis). Nesse método,
-
 
 a) a função realizada pelos objetos do sistema, seus atributos e operações são
 catalogados,
@@ -8295,7 +8095,7 @@ função dos valores obtidos dessa análise..
 e) as funcionalidades do sistema são elencadas sem a necessidade de preocupação com a
 tecnologia que será utilizada para o desenvolvimento do sistema.
 
-Item. 9. (FCC / TRE-SP - 2012) Sobre a análise de pontos por função, considere:
+9. (FCC / TRE-SP - 2012) Sobre a análise de pontos por função, considere:
 
 I. É um método de contagem padrão capaz de medir as funcionalidades de um sistema
 sobre o
@@ -8322,13 +8122,12 @@ d) II e III, apenas.
 
 e) I, lie III.
 
-Item. 10. (FCC / TRE-CE - 2012) Considere 3 AlEs simples, 5 EEs médias, 8 CEs complexas, 3 ALIs
+10. (FCC / TRE-CE - 2012) Considere 3 AlEs simples, 5 EEs médias, 8 CEs complexas, 3 ALIs
 complexos e 7 SEs médias. O cálculo de PF bruto é:
 
 a) 136.
 
 b) 148.
-
 
 C) 159-
 
@@ -8366,8 +8165,7 @@ d) III, apenas.
 
 e) I, lie III.
 
-Item. 12. (FCC / INFRAERO - 2011) Analise a tabela utilizada no cálculo de Pontos de Função.
-
+12. (FCC / INFRAERO - 2011) Analise a tabela utilizada no cálculo de Pontos de Função.
 
 Tipo de Função
 
@@ -8394,7 +8192,6 @@ c) CE, EEeALI.
 d) AIE, ALe EE.
 
 e) EE, CEe SE.
-
 
 13- (FCC / INFRAERO - 2011) A métrica análise por pontos de função foi desenvolvida
 na década
@@ -8424,7 +8221,7 @@ d) I, II e III, apenas.
 
 e) I e III, apenas.
 
-Item. 14. (FCC /TRT-RS -2011) Após a aplicação do fator de ajuste, o total de pontos de
+14. (FCC /TRT-RS -2011) Após a aplicação do fator de ajuste, o total de pontos de
 função em uma
 contagem ficou em 110,60. Antes da aplicação do ajuste, os pontos de função brutos
 estavam
@@ -8440,7 +8237,7 @@ d) 18.
 
 e) 19.
 
-Item. 15. (FCC/TRT-PI-2oio) Considere, no âmbito da Análise de Pontos de Função:
+15. (FCC/TRT-PI-2oio) Considere, no âmbito da Análise de Pontos de Função:
 
 (I) Um ALI é contado com base em uma avaliação do número de campos de dados não recursivos
 do usuário e do número de tipos de elementos de registros lógicos nele contidos.
@@ -8453,7 +8250,6 @@ pelo software sendo contado, mas que é mantido por outro aplicativo de software
 envolvidos e na soma dos ALI, mas não dos AIE participantes do processo.
 
 Está correto o que se afirma em:
-
 
 a) I, apenas.
 
@@ -8485,7 +8281,7 @@ e) Para determinar o número de pontos de função, deve-se desconsiderar a cont
 dados
 e de transações.
 
-Item. 17. (FCC/TRT-PR-2Oio) Na análise de pontos de função, são apenas do tipo Transação as funções:
+17. (FCC/TRT-PR-2Oio) Na análise de pontos de função, são apenas do tipo Transação as funções:
 
 a) ALIeSE.
 
@@ -8497,7 +8293,7 @@ d) CE, EEeSE.
 
 e) CE, EE, SEeAIE.
 
-Item. 18. (FCC / TCM-PA - 2010) É um processo lógico do negócio que mantém os dados
+18. (FCC / TCM-PA - 2010) É um processo lógico do negócio que mantém os dados
 recebidos de
 fora da fronteira da aplicação em um ou mais arquivos lógicos internos ou, ainda, é
 um processo
@@ -8519,7 +8315,6 @@ ig.(FCC / TCM-PA - 2009) Quanto aos pontos brutos, na Análise de Pontos de Fun�
 fator de
 ajuste aplicado pode aumentá-los:
 
-
 a) em até 35% ou diminuí-los em até 65%.
 
 b) ou diminuí-los em até 35%.
@@ -8530,47 +8325,45 @@ d) ou diminuí-los em até 1,35%.
 
 e) em até 65% ou diminuí-los em até 35%.
 
-
 GABARITo
 
-Item. 1. LETRA E
+1. LETRA E
 
-Item. 2. LETRA C
+2. LETRA C
 
-Item. 3. LETRA C
+3. LETRA C
 
-Item. 4. LETRA E
+4. LETRA E
 
-Item. 5. LETRA D
+5. LETRA D
 
-Item. 6. LETRA A
+6. LETRA A
 
-Item. 7. LETRA E
+7. LETRA E
 
-Item. 8. LETRA E
+8. LETRA E
 
-Item. 9. LETRA D
+9. LETRA D
 
-Item. 10. LETRA D
+10. LETRA D
 
-Item. 11. LETRA B
+11. LETRA B
 
-Item. 12. LETRA A
+12. LETRA A
 
-Item. 13. LETRA B
+13. LETRA B
 
-Item. 14. LETRA B
+14. LETRA B
 
-Item. 15. LETRA D
+15. LETRA D
 
-Item. 16. LETRA D
+16. LETRA D
 
-Item. 17. LETRA D
+17. LETRA D
 
-Item. 18. LETRA C
+18. LETRA C
 
-Item. 19. LETRA B
-
+19. LETRA B
 
 LISTA DE QUESTõES - FC V
 
@@ -8586,7 +8379,7 @@ d) medir a produtividade de equipes de desenvolvimento de software.
 
 e) medir os tempos de resposta de sistemas instalados e operacionais.
 
-Item. 2. (FGV / DPE-RJ - 2019) Determinado órgão governamental está utilizando a técnica
+2. (FGV / DPE-RJ - 2019) Determinado órgão governamental está utilizando a técnica
 de Análise
 de Pontos de Função (APF) para efetuar a contagem de suas aplicações e gerar uma base
 histórica própria.
@@ -8607,7 +8400,7 @@ d) detalhar e medir os requisitos não funcionais solicitados pelo usuário;
 
 e) medir as funções das transações executadas e gerenciadas pelo banco de dados.
 
-Item. 3. (FGV / DPE-RJ - 2019) Determinado órgão governamental está utilizando a técnica
+3. (FGV / DPE-RJ - 2019) Determinado órgão governamental está utilizando a técnica
 de Análise
 de Pontos de Função (APF) para efetuar a contagem de suas aplicações e gerar uma base
 histórica própria. Sendo assim, para a contagem de um sistema que atende a
@@ -8626,7 +8419,7 @@ d) detalhar e medir os requisitos não funcionais solicitados pelo usuário;
 
 e) medir as funções das transações executadas e gerenciadas pelo banco de dados.
 
-Item. 4. (FGV / MPE-AL- 2018) Carlos é o responsável técnico pelo Sistema de Informação
+4. (FGV / MPE-AL- 2018) Carlos é o responsável técnico pelo Sistema de Informação
 Financeiro
 (SISFIN) de sua corporação. O SISFIN passou por um processo de melhorias que corrigiu
 erros
@@ -8635,7 +8428,6 @@ Com
 o intuito de atualizar 0 tamanho funcional do SISFIN, ao término das alterações, as
 funções do
 SISFIN serão contadas utilizando a técnica de Análise de Ponto de Função (APF). Sendo assim,
-
 
 é correto afirmar que o tamanho funcional do SISFIN foi alterado por causa da
 contagem dos
@@ -8651,7 +8443,7 @@ d) funcionalidade excluída.
 
 e) duas correções e da funcionalidade excluída.
 
-Item. 5. (FGV / Banestes- 2018) Em termos de Análise de Pontos de Função
+5. (FGV / Banestes- 2018) Em termos de Análise de Pontos de Função
 (APF), analise as
 afirmativas a seguir.
 
@@ -8682,12 +8474,11 @@ d) I e II;
 
 e) lie III.
 
-Item. 6. (FGV / COMPESA - 2018) O levantamento da complexidade das oito funções de um
+6. (FGV / COMPESA - 2018) O levantamento da complexidade das oito funções de um
 sistema a
 ser desenvolvido, seguindo a técnica de Contagem de Pontos de Função,
 resultou nos
 elementos listados na tabela a seguir.
-
 
 Nome da Função
 
@@ -8722,7 +8513,6 @@ Média
 Baixa
 Alta
 
-
 Assinale a opção que corresponde ao total de pontos de função não ajustados computado
 para
 o conjunto das funções listadas na tabela:
@@ -8737,12 +8527,11 @@ d) 45
 
 e) 46
 
-Item. 7. (FGV / COMPESA - 2018) O levantamento da complexidade das oito funções de um
+7. (FGV / COMPESA - 2018) O levantamento da complexidade das oito funções de um
 sistema a
 ser desenvolvido, seguindo a técnica de Contagem de Pontos de Função,
 resultou nos
 elementos listados na tabela a seguir.
-
 
 Nome da Função
 ALI-1
@@ -8791,7 +8580,7 @@ d) 45
 
 e) 46
 
-Item. 8. (FGV / IBGE -2017) A Análise de Pontos de Função (APF) é um método de medição
+8. (FGV / IBGE -2017) A Análise de Pontos de Função (APF) é um método de medição
 de tamanho
 funcional de um software. Nesse método são contadas as funções de dados e
 funções de
@@ -8807,7 +8596,6 @@ c) Facilidade de Mudanças, Prototipação e Comunicação de dados;
 d) Atualização online, interface com usuário e Múltiplos locais;
 
 e) Facilidade de Implantação, Facilidade operacional e Facilidade de obsolescência.
-
 
 g. (FGV / Prefeitura de Paulínia - SP - 2016) Ponto de Função é uma métrica
 orientada à função
@@ -8859,7 +8647,7 @@ d) SE - Saída Externa;
 
 e) CE - Consulta Externa.
 
-Item. 11. (FGV / PGE-RO - 2015) Roger e sua equipe de métricas de software foram
+11. (FGV / PGE-RO - 2015) Roger e sua equipe de métricas de software foram
 designados para
 estimar o custo e o tempo necessário para desenvolver um sistema de informação. A
 partir dos
@@ -8873,7 +8661,6 @@ equipe podem fazer as estimativas de software aplicando o método:
 
 a) Linhas de código;
 
-
 b) Pontos por Casos de Uso;
 
 c) Pontos de Função;
@@ -8882,7 +8669,7 @@ d) Complexidade Estrutural;
 
 e) Ponderado por Classe.,
 
-Item. 12. (FGV / TJ-PI - 2015) Vários entes governamentais brasileiros têm utilizado a
+12. (FGV / TJ-PI - 2015) Vários entes governamentais brasileiros têm utilizado a
 métrica de Pontos
 de Função (PF) nas estimativas e dimensionamento de tamanho funcional de
 projetos de
@@ -8904,7 +8691,7 @@ d) independente da solução tecnológica utilizada na aplicação;
 
 e) um indicador da produtividade da equipe de desenvolvimento de uma aplicação.
 
-Item. 13. (FGV / PROCEMPA - 2014) A técnica de contagem de pontos de função define
+13. (FGV / PROCEMPA - 2014) A técnica de contagem de pontos de função define
 algumas
 abstrações necessárias à determinação do tamanho funcional de um projeto de
 software.
@@ -8912,15 +8699,15 @@ Relacione cada um dos elementos da contagem de pontos de função, listadas a se
 às suas
 respectivas características.
 
-Item. 1. Consulta Externa
+1. Consulta Externa
 
-Item. 2. Arquivo de Interface Externa
+2. Arquivo de Interface Externa
 
-Item. 3. Arquivo Lógico Interno
+3. Arquivo Lógico Interno
 
-Item. 4. Entrada Externa
+4. Entrada Externa
 
-Item. 5. Saída Externa
+5. Saída Externa
 
 () Tabelas de banco de dados lidas pela aplicação, mas atualizadas por outra aplicação.
 () Tabelas de banco de dados atualizadas pela aplicação.
@@ -8964,7 +8751,6 @@ sistema deve conter, de forma a atingir, exatamente, o total de pontos contratua
 deverá ser
 igual a Dados: Tabela de pesos para cálculo de pontos de função.
 
-
 Elemento
 Entrada
 Saída
@@ -8972,9 +8758,7 @@ Arquivo
 
 Simples
 
-
 Médio
-
 
 Complexo
 a) 3.
@@ -8987,7 +8771,7 @@ d) 6.
 
 e) 7-
 
-Item. 15. (FGV / Senado Federal - 2012) Com relação ao tema de análise por pontos de função, avalie as
+15. (FGV / Senado Federal - 2012) Com relação ao tema de análise por pontos de função, avalie as
 afirmativas a seguir.
 
 I. O termo Arquivo Lógico Interno designa um grupo de dados ou informações de
@@ -9014,10 +8798,9 @@ c) se somente a alternativa III estiver correta.
 
 d) se somente as alternativas I e II estiverem corretas.
 
-
 e) se nenhuma alternativa estiver correta.
 
-Item. 16. (FGV / MPM-MS - 2012) A NESMA - Netherlands Software Metrics Association
+16. (FGV / MPM-MS - 2012) A NESMA - Netherlands Software Metrics Association
 (Associação de
 Métricas de Software da Holanda) - é uma organização similar ao IFPUG, que mantém seu
 próprio Manual de Práticas de Contagens. A diferença entre as regras mantidas pela
@@ -9036,7 +8819,7 @@ d) Complexa, Definida e Invertida.
 
 e) Simplificada, Ajustada e Completa.
 
-Item. 17. (FGV / DETRAN-RN - 2010) A equipe de métricas de software do TJPI realizou uma
+17. (FGV / DETRAN-RN - 2010) A equipe de métricas de software do TJPI realizou uma
 estimativa
 do tamanho da aplicação de processo eletrônico chamada SisProcessos. Utilizando a
 técnica de
@@ -9076,7 +8859,6 @@ c) 98;
 d) 1OO;
 
 e) 102.
-
 
 i8.(FGV / FIOCRUZ - 2010) Pontos por função - PF são derivados usando uma relação
 empírica
@@ -9146,10 +8928,9 @@ c) se somente as afirmativas I e III estiverem corretas.
 
 d) se somente as afirmativas II e III estiverem corretas.
 
-
 e) se todas as afirmativas estiverem corretas.
 
-Item. 21. (FGV / MEC - 2009) Num sistema de controle acadêmico, uma tela
+21. (FGV / MEC - 2009) Num sistema de controle acadêmico, uma tela
 permite visualizar um
 relatório com três tipos diferentes de ordenação. O rodapé do relatório sempre traz o
 total de
@@ -9167,7 +8948,7 @@ d) um parâmetro externo.
 
 e) três consultas externas.
 
-Item. 22. (FGV/Senado Federal -2008) Considere as assertivas sobre a técnica de pontos de
+22. (FGV/Senado Federal -2008) Considere as assertivas sobre a técnica de pontos de
 função para
 a estimativa de custo de desenvolvimento de um software:
 
@@ -9193,31 +8974,29 @@ d) I, lie III.
 
 e) somente I.
 
-
 GABARITo
 
-Item. 1. LETRAC 9- LETRA B
+1. LETRAC 9- LETRA B
 17- LETRA B
 
-Item. 2. LETRA C 10. LETRA B
-Item. 18. LETRA C
+2. LETRA C 10. LETRA B
+18. LETRA C
 
 3- LETRAC íi. LETRAC
-Item. 19. LETRA E
+19. LETRA E
 
 4- LETRAC 12. LETRA D
-Item. 20. LETRA E
+20. LETRA E
 
 5- LETRA C 13- LETRA B
-Item. 21. LETRA A
+21. LETRA A
 
-Item. 6. LETRA D 14- LETRA C
-Item. 22. LETRA D
+6. LETRA D 14- LETRA C
+22. LETRA D
 
 7- LETRA D 15- LETRA A
 
-Item. 8. LETRA D 16. LETRA B
-
+8. LETRA D 16. LETRA B
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
@@ -9274,7 +9053,6 @@ Figura 10(a) - Requisitos de software
 
 Figura 10(b) - Visão geral do RUP
 
-
 Tipo de
 Função
 
@@ -9303,7 +9081,6 @@ Alta Média Baixa
 Figura 10(c) - Tabela para determinação da
 contribuição de PF
 
-
 í. (FUNDATEC / ISS-Porto Alegre - 2022) Sabe-se que em todos os processos elementares
 de
 "CONSULTA", dos "CRUD's" do primeiro mês, haverá contabilização, devendo ser apresentado,
@@ -9323,10 +9100,9 @@ d) Maior que 60 e menor ou igual a 70.
 
 e) Maior que 70.
 
-Item. 2. (CEPUERJ / UERJ - 2021) Observe as seguintes descrições de funcionalidades que
+2. (CEPUERJ / UERJ - 2021) Observe as seguintes descrições de funcionalidades que
 compõem
 um sistema de controle de ponto:
-
 
 Rrghtro d» Ponta
 
@@ -9388,12 +9164,11 @@ b) 2 entradas externas, 1 consulta externa, 1 saída externa, 14 PFs
 c) 2 entradas externas, 2 consultas externas, 15 PFs
 d) 2 entradas externas, 2 consultas externas, 14 PFs
 
-Item. 3. (AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Como se denomina um modelo de
+3. (AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Como se denomina um modelo de
 projeto
 preliminar usado para a estimativa de esforço inicial de um software e
 baseada nos seus
 requisitos?
-
 
 a) Número de pontos de função.
 
@@ -9405,7 +9180,7 @@ d) Número de tabelas do sistema.
 
 e) Número de pontos de aplicação.
 
-Item. 4. (AOCP / Prefeitura de Betim - MG - 2020) Considerando a métrica de pontos por
+4. (AOCP / Prefeitura de Betim - MG - 2020) Considerando a métrica de pontos por
 função, os
 dados derivados da aplicação que fornecem informações para o usuário são classificados como:
 
@@ -9419,7 +9194,7 @@ d) arquivos de interface externos.
 
 e) saídas internas.
 
-Item. 5. (IBFC / TRE-PA - 2020) Conforme a IFPUG (International Function Point Users
+5. (IBFC / TRE-PA - 2020) Conforme a IFPUG (International Function Point Users
 Group), no
 Manual de Práticas de Contagem de Pontos de Função, o primeiro passo para se fazer o
 cálculo
@@ -9440,7 +9215,7 @@ c) 7 características gerais do sistema na escala de 1 a 3 para determinar o ní
 d) 5 características gerais do sistema na escala de 0 a 5 para determinar o nível de influência
 (NI)
 
-Item. 6. (VUNESP / EBSERH - 2020) A métrica de software baseada em pontos de função:
+6. (VUNESP / EBSERH - 2020) A métrica de software baseada em pontos de função:
 
 a) possui 12 fatores de ajuste de valor.
 
@@ -9452,7 +9227,7 @@ d) considera o número de desvios incondicionais existentes.
 
 e) leva em conta o número de arquivos lógicos internos.
 
-Item. 7. (VUNESP / Câmara de Piracicaba - SP - 2019) Uma das principais métricas
+7. (VUNESP / Câmara de Piracicaba - SP - 2019) Uma das principais métricas
 utilizadas para
 avaliação de software é a Métrica por Pontos de Função. Tal tipo de métrica considera
 alguns
@@ -9467,8 +9242,7 @@ d) estruturas complexas.
 
 e) variáveis internas.
 
-
-Item. 8. (Avança SP / Câmara Municipal de Taboão da Serra - SP - 2019) No que se refere à análise de
+8. (Avança SP / Câmara Municipal de Taboão da Serra - SP - 2019) No que se refere à análise de
 pontos por função, analise os itens a seguir e, ao final, assinale a alternativa correta:
 
 I - Pontua a complexidade do código desenvolvido em Java.
@@ -9489,7 +9263,7 @@ d) Apenas os itens I e III são verdadeiros.
 
 e) Todos os itens são verdadeiros.
 
-Item. 9. (ACEP / Prefeitura de Aracati - CE - 2019) Uma das atribuições mais comuns na
+9. (ACEP / Prefeitura de Aracati - CE - 2019) Uma das atribuições mais comuns na
 Gerência de
 Projetos de software é realizar estimativa de software. Sobre essas
 estimativas, é correto
@@ -9510,9 +9284,8 @@ d) o COCOMO 2 é um modelo em dois níveis: Nível Pós-Arquitetura e Nível
 Inicial de
 Prototipação.
 
-Item. 10. (CESGRANRIO / TRANSPETRO - 2018) Um pequeno sistema passou por um processo de
+10. (CESGRANRIO / TRANSPETRO - 2018) Um pequeno sistema passou por um processo de
 contagem de pontos de função, resultando na Tabela abaixo.
-
 
 Entrada Externa
 Saída Externa
@@ -9523,12 +9296,9 @@ Arquivo Lógico Interno
 
 Baixa
 
-
 Média
 
-
 Alta
-
 
 Quantos pontos de função não ajustados tem tal sistema?
 
@@ -9536,20 +9306,19 @@ a) 103
 
 b) 106
 
-
 c) 120
 
 d) 121
 
 e) 122
 
-Item. 11. (IBFC / EBSERH - 2018) Na análise de pontos de função, as funções transacionais
+11. (IBFC / EBSERH - 2018) Na análise de pontos de função, as funções transacionais
 representam
 as funcionalidades efetivamente fornecidas para o usuário e são categorizadas
 em entradas
 externas, saídas externas e consultas externas.
 
-Item. 12. (IBFC / EMBASA - 2017) A NESMA reconhece três métodos de Análise de Pontos de
+12. (IBFC / EMBASA - 2017) A NESMA reconhece três métodos de Análise de Pontos de
 Função
 (APF), que são métodos de Medição de Tamanho Funcional (FSM) autossuficientes. Esse três
 métodos são respectivamente:
@@ -9559,7 +9328,7 @@ b) APF Generalista, APF de Baixo Nível (ou APF Arcaica) e APF Indicativa
 c) APF Generalista, APF de Alto Nível (ou APF Estimada) e APF Específica
 d) APF Detalhada, APF de Baixo Nível (ou APF Arcaica) e APF Específica.
 
-Item. 13. (IBFC / EBSERH - 2017) O primeiro passo a ser seguido para a contagem de PF
+13. (IBFC / EBSERH - 2017) O primeiro passo a ser seguido para a contagem de PF
 (Pontos de
 Função) de um projeto de software é determinar o tipo de contagem. Neste
 passo é
@@ -9585,7 +9354,7 @@ e) do projeto de desenvolvimento, do projeto de requerimentos (requisitos), de
 depuração
 (testes).
 
-Item. 14. (IBFC / EBSERH -2017) Um dos passos básicos na contagem de pontos de função
+14. (IBFC / EBSERH -2017) Um dos passos básicos na contagem de pontos de função
 inclui contar
 os tipos de funções de dados identificados pelas siglas ALI e AIE
 que representam
@@ -9596,7 +9365,6 @@ b) Arquivo Lógico Interno - Arquivo de Interface Externa
 c) Arquitetura Lógica Interna - Arquitetura Integrada Externa
 d) Artefatos Lógicos Internos - Artefatos de Integração Externa
 e) Acervo de Livros Internos - Acervo de Interfaces Externas.
-
 
 15- (IBFC / EBSERH - 2017) O conceito de Ponto de Função foi definido originalmente
 em 1977 na
@@ -9663,7 +9431,7 @@ c) Arquitetura Lógica Interna - Arquitetura Integrada Externa
 d) Artefatos Logicos Internos - Artefatos de Integração Externa
 e) Acervo de Livros Internos - Acervo de Interfaces Externas.
 
-Item. 17. (ESAF / ANAC - 2016) Segundo a versão 2.0 do Roteiro de Métricas de Software do
+17. (ESAF / ANAC - 2016) Segundo a versão 2.0 do Roteiro de Métricas de Software do
 SISP, o
 grupo de dados, logicamente relacionados, reconhecido pelo usuário, mantido por meio de
 um
@@ -9679,7 +9447,7 @@ d) Arquivo de Interface Interno.
 
 e) Arquivo de Interface Lógica.
 
-Item. 18. (IBFC / EBSERH -2015) De acordo com as Métricas de Software, a Análise de Pontos
+18. (IBFC / EBSERH -2015) De acordo com as Métricas de Software, a Análise de Pontos
 de Função
 é uma técnica de medição das funcionalidade fornecida por um software sob o ponto de vista:
 
@@ -9732,10 +9500,9 @@ b) Uma Entrada Externa (EE), pois existe mudança de comportamento do sistema.
 
 c) Uma Saída Externa (SE), pois existe dados derivados na transação.
 
-
 d) Um Arquivo Lógico Interno (ALI), pois os dados foram salvos no banco de dados.
 
-Item. 21. (VUNESP/ PRODEST-ES - 2014) Na métrica de software conhecida como ponto por função,
+21. (VUNESP/ PRODEST-ES - 2014) Na métrica de software conhecida como ponto por função,
 são considerados valores do domínio da informação. Dois desses domínios são: o número de
 a) desvios condicionais e de arquivos lógicos internos.
 
@@ -9747,7 +9514,7 @@ d) registros das tabelas e de arquivos de interface externa.
 
 e) tabelas e de saídas externas.
 
-Item. 22. (AOCP / UFPB - 2014) Preencha a lacuna e assinale a alternativa correta.
+22. (AOCP / UFPB - 2014) Preencha a lacuna e assinale a alternativa correta.
 
 "Na análise de pontos de função, os requisitos funcionais devem ser identificados conforme
 a) a visão do programador.
@@ -9760,14 +9527,14 @@ d) a linguagem de programação utilizada.
 
 e) o sistema gerenciador de banco de dados utilizado.
 
-Item. 23. (UFBA / UFSBA - 2014) Pontos de Função apenas medem o tamanho funcional do
+23. (UFBA / UFSBA - 2014) Pontos de Função apenas medem o tamanho funcional do
 software
 baseando-se em uma avaliação padronizada dos requisitos dos usuários e, diferentemente de
 Linhas de Código, não são dependentes da implementação física e das linguagens
 utilizadas no
 desenvolvimento do software.
 
-Item. 24. (ESAF/SUFRAMA-20i3) O fator de ajuste indica a:
+24. (ESAF/SUFRAMA-20i3) O fator de ajuste indica a:
 
 a) viabilidade geral provida pelo projeto ou aplicação para o desenvolvedor.
 
@@ -9790,7 +9557,6 @@ b) 100,65
 c) 101,65
 
 d) 102,65.
-
 
 26.(IBFC / EBSERH -2013) Em APF (Análise de Pontos de Função) existe o importante conceito de
 Ponto de Função. Pode-se conceituar basicamente Ponto de Função como:
@@ -9841,7 +9607,7 @@ d) Número de Tipos de Campos, Número de Tipos de Arquivos.
 
 e) Número de Tipos de Tabelas, Número de Tipos de Campos.
 
-Item. 30. (ESAF / CGU - 2012) São características gerais de sistema utilizadas para cálculo do fator de
+30. (ESAF / CGU - 2012) São características gerais de sistema utilizadas para cálculo do fator de
 ajuste:
 
 a) Reutilização, Taxa de recepção de dados.
@@ -9854,8 +9620,7 @@ d) Entrada de dados off-line, Compatibilidade Web.
 
 e) Múltiplos locais, Processamento complexo.
 
-
-Item. 31. (CONSULPLAN /TSE-2012) A análise de Ponto de Função engloba diversas etapas, sendo
+31. (CONSULPLAN /TSE-2012) A análise de Ponto de Função engloba diversas etapas, sendo
 que
 a contagem está associada fundamentalmente a projetos de desenvolvimento e de
 melhoria.
@@ -9874,7 +9639,7 @@ c) Transacionais.
 
 d) Organizacionais.
 
-Item. 32. (ESAF - 2010 - SUSEP - Analista de Sistemas) Na contagem de Arquivos
+32. (ESAF - 2010 - SUSEP - Analista de Sistemas) Na contagem de Arquivos
 Lógicos
 Referenciados (ALR):
 
@@ -9892,8 +9657,7 @@ e) deve-se contar apenas um ALR para cada Arquivo Lógico Interno que é lido e
 mantido por
 uma entidade externa.
 
-
-Item. 33. (ESAF / MPOG - 2010) Assinale a afi rmativa correta relativa à Análise por
+33. (ESAF / MPOG - 2010) Assinale a afi rmativa correta relativa à Análise por
 Pontos de Função
 (APF).
 
@@ -9920,7 +9684,6 @@ Referenciados e da manipulação de Dados Elementares.
 desenvolvimento
 consiste dos componentes de funcionalidade:
 
-
 a) reusabilidade de aplicação; reusabilidade de conversão; fator de ajuste da aplicação.
 
 b) funcionalidade de aplicação; funcionalidade de compressão; fator de
@@ -9935,7 +9698,7 @@ e) funcionalidade de programação; funcionalidade de conversão;
 funcionalidade de
 manutenção.
 
-Item. 35. (ESAF / CVM - 2010) Algumas das Características Gerais do Sistema (CGS) são:
+35. (ESAF / CVM - 2010) Algumas das Características Gerais do Sistema (CGS) são:
 
 a) Comunicação de Dados. Funções intrínsecas. Performance. Especificação de equipamento.
 Saída de dados on-line. Processamento complexo. Reusabilidade.
@@ -9960,7 +9723,7 @@ Entrada de dados on-line e off-line. Direcionamento complexo. Reusabilidade.
 Facilidade de
 Implantação.
 
-Item. 36. (ESAF / CVM - 2010) Baseando-se nas Características Gerais do Sistema (CGS), um dos passos
+36. (ESAF / CVM - 2010) Baseando-se nas Características Gerais do Sistema (CGS), um dos passos
 para o cálculo do fator de ajuste é:
 
 a) avaliar o impacto de cada uma das 14 CGS no aplicativo que está sendo contado,
@@ -9972,7 +9735,6 @@ b) calcular o nível de influência por meio da multiplicação dos pesos de cad
 c) avaliar as entradas de cada uma das 14 CGS no aplicativo que está sendo contado,
 atribuindo
 peso de 0 a 10 para cada característica.
-
 
 d) avaliar o impacto de cada uma das 14 CGS no aplicativo que está sendo contado,
 atribuindo
@@ -10011,45 +9773,43 @@ d) Saída de dados on-line, Facilidade de planejamento e Performance.
 
 e) Comunicação de transações, Interação entre programas e Usabilidade.
 
-
 GABARITo
 
-Item. 1. LETRA D 14. LETRA B
+1. LETRA D 14. LETRA B
 27- LETRA E
 
-Item. 2. LETRA B 15- LETRA A
-Item. 28. LETRA D
+2. LETRA B 15- LETRA A
+28. LETRA D
 
 3- LETRA A 16. LETRA B
-Item. 29. LETRA A
+29. LETRA A
 
 4- LETRA E 17- LETRAC
-Item. 30. LETRA E
+30. LETRA E
 
 5- LETRA A 18. LETRA B
 31- LETRA C
 
-Item. 6. LETRA E 19. LETRA A
-Item. 32. LETRA E
+6. LETRA E 19. LETRA A
+32. LETRA E
 
 7- LETRAC 20. LETRA B
 33- LETRA C
 
-Item. 8. LETRA B 21. LETRA B
+8. LETRA B 21. LETRA B
 34- LETRA D
 
 9- LETRA C 22. LETRA B
 35- LETRA D
 
-Item. 10. LETRA D 23- CORRETO
-Item. 36. LETRA A
+10. LETRA D 23- CORRETO
+36. LETRA A
 
 li. CORRETO 24. LETRA C
 37- LETRA E
 
-Item. 12. LETRA A 25- LETRAC
-Item. 38. LETRA B
+12. LETRA A 25- LETRAC
+38. LETRA B
 
 13- LETRA C 26. LETRA A
-
 

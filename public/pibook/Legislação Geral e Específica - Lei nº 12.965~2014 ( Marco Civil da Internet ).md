@@ -1,5 +1,4 @@
-Capítulo. Legislação Geral e Específica - Lei nº 12.965~2014 ( Marco Civil da Internet ).
-
+# Legislação Geral e Específica - Lei nº 12.965~2014 ( Marco Civil da Internet ).
 
 Índice
 
@@ -8,7 +7,6 @@ Capítulo. Legislação Geral e Específica - Lei nº 12.965~2014 ( Marco Civil 
 2) Questões Comentadas - Marco Civil da Internet - Lei n° 12.965/2014
 
 3) Lista de Questões - Marco Civil da Internet - Lei n° 12.965/2014
-
 
 INTRoDUçÃo
 
@@ -24,7 +22,6 @@ da neutralidade da rede e vários outros tópicos importantes em provas.
 
 Tudo pronto? Vamos em frente!
 
-
 NoçõES GERAIS SoBRE o MCI
 
 O Marco Civil da Internet (MCI) estabelece princípios, garantias, direitos e
@@ -38,7 +35,6 @@ Adiante veremos os objetivos, fundamentos e princípios do uso da internet no Br
 Objetivos
 
 O uso da internet no Brasil tem por objetivo a promoção (Art. 4o):
-
 
 Princípios
 
@@ -55,7 +51,6 @@ levará em conta (além dos
 fundamentos, princípios e objetivos previstos), a natureza da internet, seus usos e
 costumes particulares e
 sua importância para a promoção do desenvolvimento humano, econômico, social e cultural (art. 6Q).
-
 
 Definições
 
@@ -102,7 +97,6 @@ registros de acesso a aplicações de internet
 uma
 determinada aplicação de internet a partir de um determinado endereço IP
 
-
 DIREIToS E GARANTIAS DoS USUÁRIoS
 
 Considerando que a internet é, atualmente, um meio para o cidadão exercer vários de
@@ -110,7 +104,6 @@ seus direitos, o MCI
 vincula o acesso à internet como essencial ao exercício da cidadania. Assim, prevê ao
 usuário da internet
 os seguintes direitos (Art. 7^):
-
 
 Este rol de direitos foi assim cobrado nesta questão:
 
@@ -131,7 +124,6 @@ III. Manutenção da qualidade contratada da conexão à internet.
 IV. Publicidade e clareza de eventuais políticas de uso dos provedores de conexão à internet e
 de aplicações de
 internet.
-
 
 Estão CORRETOS:
 
@@ -186,11 +178,9 @@ uma série no Netflix; um amigo seu acessa o site do banco. O provedor deverá,
 em regra,
 tratar todos estes acessos e dados trafegados de maneira neutra, sem distingui-los.
 
-
 Tal preceito foi assim previsto no MCI:
 
 r . *
-
 
 Art. 95 O responsável pela transmissão, comutação ou roteamento tem o dever de tratar
 i
@@ -238,7 +228,6 @@ Telecomunicações (Anatei), e somente poderá decorrer de (§ 1Q):
 
 I - requisitos técnicos indispensáveis à prestação adequada dos serviços e aplicações; e
 II - priorização de serviços de emergência.
-
 
 Nestas situações, em que é permitida a discriminação ou degradação do
 tráfego, o responsável pela
@@ -351,7 +340,6 @@ descumprirem as regras quanto à guarda do registro de conexão e de acesso
 a aplicações estarão
 sujeitos às seguintes sanções, aplicadas de forma isolada ou cumulativa (Art. 12):
 
-
 Além disso, no caso da multa, se o provedor for empresa estrangeira, sua
 filial, sucursal, escritório
 ou estabelecimento situado no País respondem solidariamente pelo seu pagamento.
@@ -377,7 +365,6 @@ determinado endereço IP".
 Em síntese, quando você está navegando na internet e acessa uma
 aplicação (como o site do
 banco, por exemplo), o banco irá armazenar a data, o horário e o endereço IP do acesso.
-
 
 Quanto a estes últimos (registros de acesso a aplicações), veremos o
 armazenamento tanto por
@@ -454,7 +441,6 @@ aplicações de internet, desde que se trate de registros relativos a
 fatos específicos em período
 determinado (§ 1o).
 
-
 Provedor de conexão
 
 Provedor de
@@ -464,14 +450,12 @@ econômicos
 Outros provedores de
 aplicações
 
-
 Tipo de registro
 
 Guardar registros de
 conexão
 
 Guardar registros de aplicação
-
 
 É obrigatório
 guardar?
@@ -506,14 +490,12 @@ do prazo de guarda do registro para um caso específico. No
 entanto, a efetiva disponibilização
 destes dados requer autorização do juiz.
 
-
 ordem judicial
 disponibilização dos registros de conexão
 disponibilização dos registros de acesso a
 aplicações
 disponibilização do conteúdo das comunicações
 privadas (casos previstos em lei)
-
 
 Competências
 quanto aos
@@ -558,7 +540,6 @@ por não guardar os
 registros de acesso a aplicações de internet não implica responsabilidade sobre
 danos decorrentes
 do uso desses serviços por terceiros (art. 17).
-
 
 Da Responsabilidade por Danos Decorrentes de Conteúdo
 Gerado por Terceiros
@@ -606,7 +587,6 @@ direitos conexos depende de
 previsão legal específica, que deverá respeitar a liberdade de expressão
 e demais garantias
 previstas no art. 5o da Constituição Federal (§ 2o).
-
 
 Além disso, se a vítima do conteúdo divulgado quiser processar o provedor
 pelos danos sofridos
@@ -675,7 +655,6 @@ intimidade do participante e a verificação da legitimidade para
 apresentação do pedido (art. 21,
 parágrafo único).
 
-
 provedor de conexão não
 responde
 provedor de aplicações
@@ -718,7 +697,6 @@ de investigação ou
 instrução probatória; e
 
 III - período ao qual se referem os registros.
-
 
 Ao receber os registros fornecidos, cabe ao juiz tomar as providências
 necessárias à garantia do
@@ -784,7 +762,6 @@ aplicações na internet para acesso da população. Tais aplicações de entes 
 poder público devem
 buscar (art. 25):
 
-
 I - compatibilidade dos serviços de governo eletrônico com diversos terminais,
 sistemas
 operacionais e aplicativos para seu acesso;
@@ -830,7 +807,6 @@ desenvolvimento da internet no País, bem como fixar metas, estratégias,
 planos e cronogramas
 para tal desenvolvimento (art. 28).
 
-
 OUTRoS ASPECToS RELEVANTES
 
 O usuário da internet terá a opção de livre escolha na utilização de
@@ -853,7 +829,6 @@ A defesa dos interesses e dos direitos do MCI poderá ser exercida
 em juízo, individual ou
 coletivamente (Art. 30).
 
-
 advertência
 multa de até 10% do faturamento
 do grupo econômico no Brasil no
@@ -875,7 +850,6 @@ tratamento de registros, de
 dados pessoais ou de
 comunicações
 
-
 Provedor de conexão
 
 Provedor de
@@ -885,14 +859,12 @@ econômicos
 Outros provedores de
 aplicações
 
-
 Tipo de registro
 
 Guardar registros de
 conexão
 
 Guardar registros de aplicação
-
 
 É obrigatório
 guardar?
@@ -908,7 +880,6 @@ Sim
 
 Não (mediante ordem
 judicial)
-
 
 provedor de conexão não
 responde
@@ -926,10 +897,9 @@ remover o conteúdo após
 notificação do interessado
 (responsabilidade subsidiária)
 
-
 QUESTõES CoMENTADAS
 
-Item. 1. FUNDATEC - 2022 - SPGG - RS - Analista de Planejamento, Orçamento e Gestão
+1. FUNDATEC - 2022 - SPGG - RS - Analista de Planejamento, Orçamento e Gestão
 O(a)estabelece princípios, garantias, direitos e deveres para o uso da Internet no Brasil.
 
 Assinale a alternativa que preenche corretamente a lacuna do trecho acima.
@@ -953,7 +923,7 @@ de modo que a alternativa
 
 Gabarito (C)
 
-Item. 2. FGV - 2022 - Senado Federal - Técnico Legislativo - Policial Legislativo
+2. FGV - 2022 - Senado Federal - Técnico Legislativo - Policial Legislativo
 
 O sigilo telemático é direito fundamental estabelecido no Art. 5o, inciso XII, da
 Constituição Federal de 1988. O
@@ -991,7 +961,6 @@ Comentários:
 Questão que mesclou direito digital com direito constitucional, mas vale a pena examinarmos.
 
 A alternativa (A) está de acordo com o que dispõe o art. 22 do MCI:
-
 
 í Art. 22. A parte interessada poderá, com o propósito de formar conjunto probatório
 em i
@@ -1072,7 +1041,6 @@ Por fim, a alternativa (E) está incorreta, visto que conversas ocorridas em
 aplicativos de mensagens
 estão sim protegidas pelo sigilo telemático:
 
-
 ..
 *
 .. ..
@@ -1112,7 +1080,7 @@ PROCESSO ELETRÔNICO DJe-284 DIVULG 01-12-2020 PUBLIC 02-12-2020) j
 
 Gabarito (A)
 
-Item. 3. FGV - 2022 - Senado Federal - Técnico Legislativo - Policial Legislativo
+3. FGV - 2022 - Senado Federal - Técnico Legislativo - Policial Legislativo
 
 A criação de perfis falsos em redes sociais, bem como a utilização de ferramentas de
 inteligência artificial para
@@ -1155,7 +1123,6 @@ responsabilizada por conteúdo gerado por terceiro, após receber ordem
 judicial e não remover o
 conteúdo:
 
-
 ..
 
 í Art. 19. Com o intuito de assegurar a liberdade de expressão e impedir a censura,
@@ -1165,7 +1132,6 @@ o i
 =
 
 : danos decorrentes de conteúdo gerado por terceiros se, após ordem judicial específica, =
-
 
 não tomar as providências para, no âmbito e nos limites técnicos do seu serviço e
 dentro
@@ -1196,7 +1162,6 @@ muito menos sua responsabilização objetiva.
 
 A alternativa (D) está incorreta, visto que tal decisão precisa especificar o conteúdo a ser
 removido:
-
 
 Art. 19. § 12 A ordem judicial de que trata 0 caput deverá conter, sob pena de nulidade, i
 
@@ -1229,7 +1194,7 @@ i
 
 Gabarito (A)
 
-Item. 4. FGV - 2022 - Senado Federal - Advogado
+4. FGV - 2022 - Senado Federal - Advogado
 
 O Marco Civil da Internet (Lei n° 12.965/2014) estabelece princípios, garantias, direito
 e deveres para 0 uso da
@@ -1248,7 +1213,6 @@ compartilhamento não
 autorizado de arquivos de música e filmes, que tudo 0 que fosse trocado via
 BitTorrent, por exemplo, trafegue
 muito lentamente pela rede, de modo a desincentivar a prática delitiva.
-
 
 III. O provedor de aplicações de internet constituído na forma de pessoa jurídica e
 que exerça essa atividade
@@ -1289,7 +1253,6 @@ ao usuário são i
 
 I
 
-
 i assegurados os seguintes direitos: (..)
 ;
 
@@ -1304,7 +1267,6 @@ O item II está incorreto, por contrariar o princípio da neutralidade da rede.
 Por fim, o item III está de acordo com o prazo de guarda dos registros por provedor comercial:
 
 r------
-
 
 f
 i art. 15. O provedor de aplicações de internet constituído na forma de pessoa
@@ -1323,7 +1285,7 @@ j
 
 Gabarito (E)
 
-Item. 5. TRF - 39 REGIÃO - 2022 - TRF - 3^ REGIÃO - Juiz Substituto
+5. TRF - 39 REGIÃO - 2022 - TRF - 3^ REGIÃO - Juiz Substituto
 
 Maria foi durante muitos anos ativista de uma ONG ambiental. Morava com a companheira
 Monique e a irmã
@@ -1375,7 +1337,7 @@ correta.
 
 Gabarito (C)
 
-Item. 6. CESPE / CEBRASPE - 2022 - Telebras - Especialista em Gestão de Telecomunicações - Marketing
+6. CESPE / CEBRASPE - 2022 - Telebras - Especialista em Gestão de Telecomunicações - Marketing
 À luz do Marco Civil da Internet, julgue o item que se segue.
 
 Dado o risco da sua atividade, o provedor de conexão à Internet será responsabilizado
@@ -1394,18 +1356,16 @@ Art. 18. O provedor de conexão à internet não será responsabilizado civilmen
 
 b ..
 
-
 ..
 J
 
 Gabarito (E)
 
-Item. 7. OBJETIVA - 2021 - Prefeitura de Horizontina - RS - Analista de Suporte de Informática
+7. OBJETIVA - 2021 - Prefeitura de Horizontina - RS - Analista de Suporte de Informática
 
 De acordo com a Lei n° 12.965/2014, o acesso à internet é essencial ao exercício da
 cidadania, e ao usuário
 são assegurados, entre outros, os seguintes direitos:
-
 
 I. Inviolabilidade da intimidade e da vida privada, sua proteção e indenização pelo
 dano material ou moral
@@ -1454,12 +1414,11 @@ h .. ..
 ..
 ..
 
-
 J
 
 Gabarito (C)
 
-Item. 8. OBJETIVA - 2021 - Prefeitura de Santa Maria - RS - Analista de Sistemas
+8. OBJETIVA - 2021 - Prefeitura de Santa Maria - RS - Analista de Sistemas
 
 De acordo com a Lei n° 12.965/2014, a habilitação de um terminal para envio e
 recebimento de pacotes de
@@ -1475,11 +1434,9 @@ D) Conexão à internet.
 
 E) Endereço IP.
 
-
 Comentários:
 
 Questão que cobrou a definição legal de conexão:
-
 
 ***
 * i
@@ -1493,7 +1450,7 @@ n..t.eaa..t.r.ib...u..iç..ã..oo..ua..u..t.e..n..t.i.c..a..ç.ã..od..eu..m...
 
 Gabarito (D)
 
-Item. 9. OBJETIVA - 2021 - Prefeitura de Santa Maria - RS - Analista de Sistemas
+9. OBJETIVA - 2021 - Prefeitura de Santa Maria - RS - Analista de Sistemas
 
 De acordo com a Lei n° 12.965/2014, sobre a guarda de registros de conexão, em
 relação à atuação do Poder
@@ -1527,7 +1484,6 @@ A questão cobrou as iniciativas públicas de fomento à cultura digital e de
 promoção da internet como
 ferramenta social:
 
-
 ..
 
 Art. 27. As iniciativas públicas de fomento à cultura digital e de promoção da
@@ -1549,10 +1505,9 @@ Notem que o item III está incorreto, visto que o fomento diz
 respeito ao conteúdo nacional,
 logicamente.
 
-
 Gabarito (B)
 
-Item. 10. MPDFT - 2021 - MPDFT - Promotor de Justiça Adjunto
+10. MPDFT - 2021 - MPDFT - Promotor de Justiça Adjunto
 Marque a alternativa correta:
 
 Consoante a Lei do Marco Civil da Internet:
@@ -1594,7 +1549,6 @@ judicial (não podendo ser determinado diretamente pelo Promotor):
 
 r *
 
-
 ..
 .. ..
 
@@ -1619,9 +1573,8 @@ Pelo mesmo raciocínio, a alternativa (B) está correta.
 
 Gabarito (B)
 
-Item. 11. MPDFT - 2021 - MPDFT - Promotor de Justiça Adjunto
+11. MPDFT - 2021 - MPDFT - Promotor de Justiça Adjunto
 Assinale a alternativa correta:
-
 
 A) A conexão de internet no sistema legal em vigor pressupõe a não suspensão do
 acesso de forma ampla,
@@ -1663,7 +1616,6 @@ inadimplemento, isto é, por débito decorrente da utilização da internet:
 
 .. ..
 
-
 ..
 
 T
@@ -1681,9 +1633,7 @@ h .. ..
 
 A alternativa (B) está incorreta, ao mencionar vedação expressa do MCI:
 
-
 * .
-
 
 Art. 99, § 39 Na provisão de conexão à internet, onerosa ou gratuita, bem
 como na i
@@ -1698,7 +1648,6 @@ A alternativa (C) está de acordo com a seguinte regra legal:
 .. ..
 ..
 ..
-
 
 t
 
@@ -1722,10 +1671,8 @@ Art. 14. Na provisão de conexão, onerosa ou gratuita, é vedado guardar os reg
 
 1>
 
-
 .. ..
 ...
-
 
 Por fim, a alternativa (E) está incorreta. Diante de requisição de autoridade
 policial, os registros
@@ -1752,7 +1699,7 @@ previsto ;
 
 Gabarito (C)
 
-Item. 12. FGV - 2021 - DPE-RJ - Defensor Público
+12. FGV - 2021 - DPE-RJ - Defensor Público
 
 João, inconformado com o término do relacionamento amoroso, decide publicar em sua rede
 social vídeos
@@ -1804,13 +1751,11 @@ postou o material ofensivo.
 
 Comentários:
 
-
 A alternativa (A) está incorreta. Como o conteúdo em questão diz respeito a
 cenas de nudez e
 atos sexuais, o provedor poderia ser responsabilizado se deixar de
 atender a simples notificação
 da vítima (não se exigindo ordem judicial):
-
 
 f
 
@@ -1844,10 +1789,9 @@ Por fim, a alternativa (E) está incorreta, pois sua responsabilidade é subjeti
 
 Gabarito (D)
 
-
 LISTA DE QUESTõES CoMENTADAS
 
-Item. 1. FUNDATEC - 2022 - SPGG - RS - Analista de Planejamento, Orçamento e Gestão
+1. FUNDATEC - 2022 - SPGG - RS - Analista de Planejamento, Orçamento e Gestão
 
 O(a)estabelece princípios, garantias, direitos e deveres para o uso
 da Internet no Brasil.
@@ -1863,7 +1807,7 @@ D) Secretaria de Comunicação do Palácio do Planalto
 
 E) Ministério da Defesa
 
-Item. 2. FGV - 2022 - Senado Federal - Técnico Legislativo - Policial Legislativo
+2. FGV - 2022 - Senado Federal - Técnico Legislativo - Policial Legislativo
 
 O sigilo telemático é direito fundamental estabelecido no Art. 5o, inciso XII, da
 Constituição Federal de 1988. O
@@ -1896,7 +1840,7 @@ ANATEL.
 
 E) O sigilo telemático não engloba a proteção a conversas ocorridas em aplicativos de mensagens.
 
-Item. 3. FGV - 2022 - Senado Federal - Técnico Legislativo - Policial Legislativo
+3. FGV - 2022 - Senado Federal - Técnico Legislativo - Policial Legislativo
 
 A criação de perfis falsos em redes sociais, bem como a utilização de ferramentas de
 inteligência artificial para
@@ -1910,7 +1854,6 @@ A) A rede social poderá ser responsabilizada civilmente por danos decorrentes d
 criação de perfil falso se,
 após ordem judicial específica, não tomar as providências necessárias para tornar o conteúdo
 indisponível.
-
 
 B) Em respeito à liberdade de expressão, o Marco Civil da Internet veda a concessão de
 tutela provisória de
@@ -1932,7 +1875,7 @@ E) O princípio da neutralidade da rede impede o fornecimento, mediante decisão
 de registro de conexão
 a aplicação de Internet, mesmo que haja fundados indícios da ocorrência de ilícito.
 
-Item. 4. FGV - 2022 - Senado Federal - Advogado
+4. FGV - 2022 - Senado Federal - Advogado
 
 O Marco Civil da Internet (Lei n° 12.965/2014) estabelece princípios, garantias, direito
 e deveres para o uso da
@@ -1972,7 +1915,7 @@ D) I e II, apenas.
 
 E)III, apenas.
 
-Item. 5. TRF - 33 REGIÃO - 2022 - TRF - 3^ REGIÃO - Juiz Substituto
+5. TRF - 33 REGIÃO - 2022 - TRF - 3^ REGIÃO - Juiz Substituto
 
 Maria foi durante muitos anos ativista de uma ONG ambiental. Morava com a companheira
 Monique e a irmã
@@ -2006,14 +1949,14 @@ D) Os provedores de conexão de internet não são obrigados a guardar e
 fornecer dados pessoais dos
 usuários, sendo suficiente a apresentação dos registros de número IP.
 
-Item. 6. CESPE / CEBRASPE - 2022 - Telebras - Especialista em Gestão de Telecomunicações - Marketing
+6. CESPE / CEBRASPE - 2022 - Telebras - Especialista em Gestão de Telecomunicações - Marketing
 À luz do Marco Civil da Internet, julgue o item que se segue.
 
 Dado o risco da sua atividade, o provedor de conexão à Internet será responsabilizado
 civilmente por danos
 decorrentes de conteúdo gerado por terceiros.
 
-Item. 7. OBJETIVA - 2021 - Prefeitura de Horizontina - RS - Analista de Suporte de Informática
+7. OBJETIVA - 2021 - Prefeitura de Horizontina - RS - Analista de Suporte de Informática
 
 De acordo com a Lei n° 12.965/2014, o acesso à internet é essencial ao exercício da
 cidadania, e ao usuário
@@ -2039,7 +1982,7 @@ D) Somente os itens II e III.
 
 E) Todos os itens.
 
-Item. 8. OBJETIVA - 2021 - Prefeitura de Santa Maria - RS - Analista de Sistemas
+8. OBJETIVA - 2021 - Prefeitura de Santa Maria - RS - Analista de Sistemas
 
 De acordo com a Lei n° 12.965/2014, a habilitação de um terminal para envio e
 recebimento de pacotes de
@@ -2049,14 +1992,13 @@ A) Terminal.
 
 B) Registro de conexão.
 
-
 C) Aplicações de internet.
 
 D) Conexão à internet.
 
 E) Endereço IP.
 
-Item. 9. OBJETIVA - 2021 - Prefeitura de Santa Maria - RS - Analista de Sistemas
+9. OBJETIVA - 2021 - Prefeitura de Santa Maria - RS - Analista de Sistemas
 
 De acordo com a Lei n° 12.965/2014, sobre a guarda de registros de conexão, em
 relação à atuação do Poder
@@ -2084,7 +2026,7 @@ D) Somente os itens II e III.
 
 E) Todos os itens.
 
-Item. 10. MPDFT - 2021 - MPDFT - Promotor de Justiça Adjunto
+10. MPDFT - 2021 - MPDFT - Promotor de Justiça Adjunto
 Marque a alternativa correta:
 
 Consoante a Lei do Marco Civil da Internet:
@@ -2118,8 +2060,7 @@ direito, com a indicação da URL (abreviação de Uniform Resource Locator ou
 Localizador Uniforme de
 Recursos) específica.
 
-
-Item. 11. MPDFT - 2021 - MPDFT - Promotor de Justiça Adjunto
+11. MPDFT - 2021 - MPDFT - Promotor de Justiça Adjunto
 Assinale a alternativa correta:
 
 A) A conexão de internet no sistema legal em vigor pressupõe a não suspensão do
@@ -2154,7 +2095,7 @@ forma cautelar que os registros de conexão sejam guardados pelo prazo máximo
 de um ano junto ao
 administrador de sistema autônomo respectivo.
 
-Item. 12. FGV - 2021 - DPE-RJ - Defensor Público
+12. FGV - 2021 - DPE-RJ - Defensor Público
 
 João, inconformado com o término do relacionamento amoroso, decide publicar em sua rede
 social vídeos
@@ -2192,7 +2133,6 @@ dignidade da pessoa humana e seus aspectos da personalidade, sobrelevando-se a
 importância de ampliação
 da tutela da mulher vítima do assédio sexual online;
 
-
 D) o provedor de aplicações de internet será responsabilizado subsidiariamente
 pelos danos sofridos por
 Maria quando, após o recebimento de notificação, deixar de promover a indisponibilização
@@ -2207,27 +2147,26 @@ postou o material ofensivo.
 
 GABARIToS
 
-Item. 13. Gabarito (C)
+13. Gabarito (C)
 
-Item. 14. Gabarito (A)
+14. Gabarito (A)
 
-Item. 15. Gabarito (A)
+15. Gabarito (A)
 
-Item. 16. Gabarito (E)
+16. Gabarito (E)
 
-Item. 17. Gabarito (C)
+17. Gabarito (C)
 
-Item. 18. Gabarito (E)
+18. Gabarito (E)
 
-Item. 19. Gabarito (C)
+19. Gabarito (C)
 
-Item. 20. Gabarito (D)
+20. Gabarito (D)
 21 .Gabarito (B)
 
-Item. 22. Gabarito (B)
+22. Gabarito (B)
 
-Item. 23. Gabarito (C)
+23. Gabarito (C)
 
-Item. 24. Gabarito (D)
-
+24. Gabarito (D)
 

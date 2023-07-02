@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Governança de TI.
-
+# Bizu Estratégico - Governança de TI.
 
 Olá, prezado aluno. Tudo certo?
 
@@ -18,7 +17,6 @@ material bem curto e objetivo).
 Além disso, utilizamos os materiais dos professores Paolla Ramos e Fernando
 Pedrosa para
 elaborar esse Bizu.
-
 
 Apresentação
 
@@ -40,12 +38,9 @@ Espero que gostem!
 
 Um grande abraço e bons estudos!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
 Governança de TI - SERPRO
-
 
 Assunto Bizu
 
@@ -54,13 +49,11 @@ Gerenciamento de serviços (ITIL V4). 1
 Caderno de Questões
 http://questo.es/lwlOqg
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Governança de TI
 
-Item. 1. Gerenciamento de serviços (ITIL V4).
+1. Gerenciamento de serviços (ITIL V4).
 
 Gerenciamento de serviços (ITIL V4)
 
@@ -96,9 +89,7 @@ O modelo 4 dimensões suporta uma abordagem holística. As quatro dimensões sã
 
 * Informação e Tecnologia;
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 * Parceiros e Fornecedores;
 
@@ -110,7 +101,6 @@ MELHORIAS DESCRIÇÃO
 sistemas de autoridade bem definidos.
 
 - Cada pessoa na organização deve ter um claro entendimento da sua contribuição
-
 
 ORGANIZAÇÕES E PESSOAS
 
@@ -166,15 +156,12 @@ em saídas.
 
 * Geralmente são detalhados na forma de procedimentos ou práticas.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 CONCEITOS DESCRIÇÃO
 
 Acionam atividades dentro da SVS que levam à criação de valor. Nem toda
 oportunidade é explorada e nem toda demanda é atendida.
-
 
 OPORTUNIDADE E DEMANDA
 
@@ -189,7 +176,6 @@ Benefícios, utilidade ou importância percebidos em algo.
 ELEMENTOS DO SVS I DESCRIÇÃO
 
 Recomendações que podem onentar uma organização em todas as circunstâncias,
-
 
 PRINCÍPIOS ORIENTADORES
 
@@ -218,19 +204,15 @@ de todos os elementos envolvidos no gerenciamento efetivo de produtos e serviço
 
 SISTEMA DE VALOR DE SERVIÇOS
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 PRINCÍPIOS DESCRIÇÃO
 
 -Tudo que a organização precisa mapear para criar valor para as partes interessadas;
 
-
 FOQUE NO VALOR
 
 - Engloba muitas perspectivas, incluindo a experiência de clientes e usuários.
-
 
 COMECE ONDE VOCÊ ESTÁ
 
@@ -257,7 +239,6 @@ organização;
 
 - O trabalho deve ser transparente e as informações devem ser o mais visíveis possível.
 
-
 PENSE E TRABALHE DE FORMA
 
 HOÜSTICA
@@ -267,7 +248,6 @@ HOÜSTICA
 - Integre tecnologia, informações, pessoas, organizações, parceiros, acordos (tudo
 deve ser coordenado).
 
-
 MANTENHA A SIMPLICIDADE E
 
 PRATICIDADE
@@ -275,7 +255,6 @@ PRATICIDADE
 - Se um processo, serviço, ação ou métrica não produzir nenhum valor, elimine-o;
 
 - Use o menor número de passos possível para completar uma tarefa.
-
 
 OTIMIZE E AUTOMATIZE
 
@@ -290,13 +269,11 @@ I
 - Cobre a avaliação da organização e sua estratégia, portfólio e relacionamento com
 outras partes.
 
-
 AVALIAR
 
 - "ONDE ESTAMOS?"
 
 - Envolve realizar um diagnóstico.
-
 
 DIRIGIR
 
@@ -308,7 +285,6 @@ organização.
 
 - As políticas definem um conjunto de regras de comportamento na organização.
 
-
 MONITORAR
 
 - Envolve o monitoramento do desempenho da organização e suas práticas, produtos e
@@ -318,9 +294,7 @@ serviços.
 
 - O propósito é garantir que o desempenho está de acordo om as políticas e direção.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 ATIVIDADE PROPÓSITO
 
@@ -346,7 +320,6 @@ acordados (atendimento e suporte).
 MELHORAR Garantir a melhoria contínua dos serviços e descobrir
 oportunidades de
 aperfeiçoamento por meio de medições.
-
 
 PRÁTICA DE GERENCIAMENTO
 
@@ -403,9 +376,7 @@ recursos. Inclui: Portfólio de Produtos/Serviços; Portfólio de Projetos; Port
 de
 Clientes.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 GERENCIAMENTO DE
 
@@ -461,7 +432,6 @@ fornecedores-chave para reduzir o risco de falha.
 Garante que uma organização tenha as pessoas certas com as habilidades e o
 conhecimento adequados nos papéis corretos para suportar seus objetivos de negócio.
 
-
 PRÁTICA DE GERENCIAMENTO
 
 DE SERVIÇOS
@@ -508,9 +478,7 @@ Garante que os serviços entreguem os níveis de disponibilidade acordados para 
 Garante que os níveis de disponibilidade e de desempenho dos serviços sejam
 suficientes em caso de desastre.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 CONTROLE DE MUDANÇAS
 GERENCIAMENTO DE ATIVOS
@@ -574,7 +542,6 @@ Captura a demanda de resolução de incidentes e requisições de serviço.
 Garante que produtos e serviços novos ou modificados atendam aos requisitos
 definidos.
 
-
 PRÁTICA DE GERENCIAMENTO
 
 DIE SERVIÇOS
@@ -602,9 +569,7 @@ terceiros.
 Gerencia a implantação de hardware, software, documentação, processos ou
 qualquer outro componente de serviço novo ou alterado em ambientes de produção.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Vamos ficando por aqui.
 
@@ -613,5 +578,4 @@ Bons estudos!
 
 @elizabethmpalves
 @profleomathias
-
 

@@ -1,9 +1,8 @@
-Capítulo. Desenvolvimento de Informação - Análise de dados ( Pandas, NumPy ).
+# Desenvolvimento de Informação - Análise de dados ( Pandas, NumPy ).
 
 Índice
 
 1) Pandas
-
 
 PANDAS
 
@@ -68,7 +67,6 @@ informação está
 armazenado em cada coluna e podemos começar a procurar padrões agregando
 estatísticas
 descritivas.
-
 
 Como o Pandas não faz parte da biblioteca padrão do Python, primeiro temos que dizer
 ao Python
@@ -142,7 +140,6 @@ parênteses após o atributo shape, ele retornaria um erro.
 
 Visualização e inspeção de dados
 
-
 Agora que já carregamos nosso primeiro conjunto de dados vamos olhar para algumas
 funções que
 podem ser úteis. Além do df.head() para apresentar as primeiras linhas de um data
@@ -168,7 +165,6 @@ df.corr()
 #quadro de dados:
 
 df.count ()
-
 
 #Para retornar
 df.max()
@@ -221,7 +217,6 @@ df.sort_values(coll)
 E em ordem decrescente usando:
 
 1 Lembre-se que em Python o primeiro elemento é referenciado com o zero (0).
-
 
 df.sort_values(col 2,ascending=False)
 
@@ -295,8 +290,6 @@ df2 nas quais as linhas coll têm valores idênticos. O parâmetro "how" pode se
 a um dos
 seguintes: 'left', 'right', 'outer','inner'
 
-
 Estes são os comandos básicos do Pandas, mas espero que você possa ver como o Pandas pode ser
 poderoso para a análise de dados depois que for aprovado no concurso! Vamos em frente.
-
 

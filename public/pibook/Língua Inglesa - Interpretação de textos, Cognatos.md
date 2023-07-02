@@ -1,12 +1,10 @@
-Capítulo. Língua Inglesa - Interpretação de textos, Cognatos.
-
+# Língua Inglesa - Interpretação de textos, Cognatos.
 
 Índice
 
 1) AULA 00 TEORIASIM1 ..
 
 2) AULA 00CESPEQCSIM
-
 
 - DEMoNSTRATIVA
 
@@ -15,7 +13,6 @@ Apresentação
 Dicas e Técnicas de Interpretação de Textos.
 
 Resumo da Aula
-
 
 APRESENTAçÃo Do CURSo
 
@@ -63,7 +60,6 @@ estando há algum tempo sem estudar esse tema, você consiga um ótimo desempenh
 
 Veja como são compostas as aulas em pdf:
 
-
 AULAS EM PDF
 
 Atenção: Os conteúdos das aulas do curso simplificado nem sempre
@@ -85,7 +81,6 @@ Vocé só chega na GRANDE META
 a longo prazo, se executar
 diariamente as PEQUENAS
 METAS diárias.
-
 
 DICAS DE INTERPRETAçÃo DE TEXToS
 
@@ -118,14 +113,12 @@ Siga a seguinte tabela para estudar no seu horário de trabalho, sem prejudicar 
 profissional, é claro! Vamos supor que você comece seu expediente às 8 horas da manhã. Muito
 bem, siga as instruções da tabela abaixo.
 
-
 Tempo
 gasto
 
 Quando ler
 
 Leia 10 sentenças
-
 
 50 segundos
 
@@ -216,7 +209,6 @@ SE VOCÊ É UM (A) CONCURSEIRO (A) QUE NÃo
 TRABALHA DURANTE O DIA E TEM CONDIÇÕES
 DE SE DEDICAR MAIS A FUNDO.
 
-
 PRIMEIRO PASSO: dependendo do seu conhecimento de inglês, escolha a parte do curso
 que vai te atender de forma mais adequada. Em outras palavras, se você for iniciante,
 e quer
@@ -261,7 +253,6 @@ Depois de algumas semanas, você vai adquirir o hábito de estudar inglês antes
 dormir e
 depois de acordar. Você vai perceber um grande progresso.
 
-
 Bom, agora vamos começar com os 3 tipos básicos de memória. Na aula em vídeo o professor
 vai explicar sobre os três tipos de memória. Anote no quadro que segue.
 
@@ -288,7 +279,6 @@ faça uma autoanálise e reconheça a necessidade de preparar-se com antecedênc
 apenas nas outras disciplinas, mas também na Língua Inglesa.
 
 ESCLARECENDO!
-
 
 2 - Técnicas de Interpretação de Textos
 
@@ -328,7 +318,6 @@ Ele finge ser médico.
 A palavra que significa "pretender" é Intend.
 
 Library = Biblioteca
-
 
 A library is not a luxury but one of the necessities of life. (Henry Beecher).
 Uma biblioteca não é um luxo, mas sim uma das necessidades da vida.
@@ -475,10 +464,8 @@ muito a pena assistir. Existe uma lógica na cabeça de quem elabora a
 prova e
 você vai descobrir TUDO isso nesses exemplos.
 
-
 ROTEIRO PARA GUIAR SUA LEITURA DE
 TEXTOS
-
 
 APRENDENDO INGLÊS
 
@@ -486,58 +473,58 @@ Antes de ler um texto:
 
 Método OI
 
-Item. 1. Grife as palavras que você
+1. Grife as palavras que você
 desconhece;
 
-Item. 2. Escreva as palavras no caderno;
+2. Escreva as palavras no caderno;
 
-Item. 3. Procure essas palavras no
+3. Procure essas palavras no
 dicionário;
 
-Item. 4. Escreva suas traduções;
+4. Escreva suas traduções;
 
-Item. 5. Leia e traduza o texto;
+5. Leia e traduza o texto;
 
-Item. 6. Responda às questões;
+6. Responda às questões;
 
-Item. 7. Assista à videoaula.
+7. Assista à videoaula.
 
 Método 02
 
-Item. 1. Grite as palavras que são
+1. Grite as palavras que são
 parecidas com português;
 
-Item. 2. Grife as palavras que não são
+2. Grife as palavras que não são
 parecidas com português, mas
 que você conhece;
 
-Item. 3. O que sobrar são palavras que
+3. O que sobrar são palavras que
 você desconhece;
 
-Item. 4. Procure essas palavras no
+4. Procure essas palavras no
 dicionário;
 
-Item. 5. Escreva suas traduções;
+5. Escreva suas traduções;
 
-Item. 6. Leia e traduza o texto;
+6. Leia e traduza o texto;
 
-Item. 7. Responda às questões;
+7. Responda às questões;
 
-Item. 8. Assista à videoaula.
+8. Assista à videoaula.
 
 NA HORA DA PROVA
 
-Item. 1. Ler título e data de publicação do texto
+1. Ler título e data de publicação do texto
 
-Item. 2. Ler enunciado e alternativas;
+2. Ler enunciado e alternativas;
 
-Item. 3. Respostas erradas ou não mencionadas;
+3. Respostas erradas ou não mencionadas;
 
-Item. 4. Ler o texto;
+4. Ler o texto;
 
-Item. 5. Números;
+5. Números;
 
-Item. 6. - Palavras fáceis (latim ou grego)
+6. - Palavras fáceis (latim ou grego)
 
 - Palavras ou expressões dificílimas extraídas do texto;
 
@@ -545,14 +532,13 @@ Item. 6. - Palavras fáceis (latim ou grego)
 
 - Siglas; cargos; instituições
 
-Item. 7. Absurdos;
+7. Absurdos;
 
-Item. 8. Antagônicas;
+8. Antagônicas;
 
-Item. 9. Ideias iguais, palavras diferentes;
+9. Ideias iguais, palavras diferentes;
 
-Item. 10. Proporcionalidade
-
+10. Proporcionalidade
 
 ATENÇÃO!
 
@@ -579,7 +565,6 @@ texto.
 
 * Palavras chave - são também chamadas de clue/ link words ou pistas.
 
-
 - DEMoNSTRATIVA
 
 SUMÁRIO RESUMIDO PÁGINA
@@ -593,7 +578,6 @@ Texto 3, Questões Comentadas e Tradução
 Lista de Questões Apresentadas
 
 Gabaritos
-
 
 WOftA OC
 
@@ -635,10 +619,9 @@ states.
 
 Internet: <www.npr.org> (adapted).
 
-
 Comentários:
 
-Item. 01. According to the text,
+01. According to the text,
 
 A Joe Biden's support doesn't depend on the states where Latinos were interviewed.
 B the number of Latin people in the US has been stable for some time.
@@ -648,9 +631,9 @@ C Joe Biden is still the vice president of the former president.
 D Joe Biden's political party supporters were anxious about their performance in Arizona.
 E President Trump appears to have over half of the Latino voters nationwide.
 
-Item. 01. According to the text,
+01. According to the text,
 
-Item. 01. De acordo com o texto,
+01. De acordo com o texto,
 
 A Joe Biden's support doesn't depend on the states where Latinos were interviewed. - O apoio a
 Joe Biden não depende dos estados onde os latinos foram entrevistados.
@@ -676,7 +659,6 @@ in the country.
 
 As esperanças de longo prazo dos democratas de sucesso eleitoral há muito citam a crescente
 população latina no país.
-
 
 Logo no início do texto é dito que a população latina não tem sido estável, mas sim crescente.
 Errada.
@@ -716,8 +698,7 @@ Essa questão foi anulada por não haver uma resposta correta.
 
 GABARITO: ANULADA
 
-Item. 02. It can be inferred from the text that
-
+02. It can be inferred from the text that
 
 A conservative Cuban American voters tend to vote for President Trump.
 B there is over a dozen electoral colleges in the state of Arizona.
@@ -727,9 +708,9 @@ C Florida voters were anxious to vote for Biden.
 D Latino voters are not considered aggressive people in some states of the US anymore.
 E Biden probably has more voters in Florida than Trump.
 
-Item. 02. It can be inferred from the text that
+02. It can be inferred from the text that
 
-Item. 02. Pode-se inferir do texto que
+02. Pode-se inferir do texto que
 
 A conservative Cuban American voters tend to vote for President Trump. - Os eleitores cubano-
 americanos conservadores tendem a votar no Presidente Trump.
@@ -764,7 +745,6 @@ naquele estado. Errada.
 C Florida voters were anxious to vote for Biden. - Os eleitores da Flórida estavam ansiosos para
 votar em Biden.
 
-
 Não se fala de ansiedade por parte dos eleitores, mas sim dos democratas (partido de Biden)
 com os resultados na Flórida, visto que Trump conseguiu 29 votos eleitorais naquele
 estado.
@@ -787,7 +767,7 @@ naquele estado, de acordo com o AP. Errada.
 
 GABARITO: A
 
-Item. 03. In English, a lot of nouns are formed by a verb and a suffix. One example of a noun derived
+03. In English, a lot of nouns are formed by a verb and a suffix. One example of a noun derived
 from a verb is
 
 A member.
@@ -799,11 +779,10 @@ E longer.
 
 ESCLARECENDO!
 
-Item. 03. In English, a lot of nouns are formed by a verb and a suffix. One example of a noun derived
+03. In English, a lot of nouns are formed by a verb and a suffix. One example of a noun derived
 from a verb is
 
-
-Item. 03. Em Inglês, muitos substantivos são formados por um verbo e um sufixo. Um exemplo de um
+03. Em Inglês, muitos substantivos são formados por um verbo e um sufixo. Um exemplo de um
 substantivo derivado de um verbo é
 
 A member. - membro
@@ -822,7 +801,7 @@ E longer. - mais longe
 
 GABARITO: D
 
-Item. 04. The excerpt "...leaders from groups aimed at mobilizing Latino voters..." has an example of a
+04. The excerpt "...leaders from groups aimed at mobilizing Latino voters..." has an example of a
 gerund. Gerunds can be used as the subject or object of a sentence. Another example
 of a
 gerund can be found in the sentence:
@@ -835,16 +814,15 @@ D Both candidates were arguing on TV last night.
 
 E After the elections, all his voters managed to make a good living.
 
-Item. 04. The excerpt "...leaders from groups aimed at mobilizing Latino voters..." has an example of a
+04. The excerpt "...leaders from groups aimed at mobilizing Latino voters..." has an example of a
 gerund. Gerunds can be used as the subject or object of a sentence. Another example
 of a
 gerund can be found in the sentence:
 
-Item. 04. O trecho "...líderes de grupos voltados para a mobilização (intencionados a
+04. O trecho "...líderes de grupos voltados para a mobilização (intencionados a
 mobilizar) de
 eleitores latinos..." tem um exemplo de gerúndio. Os gerúndios podem ser usados como sujeito
 ou objeto de uma frase. Outro exemplo de gerúndio pode ser encontrado na frase:
-
 
 A The candidate has amazing ideas on how to create his own electors1 network. - O candidato
 tem ideias incríveis sobre como criar sua própria rede de eleitores.
@@ -924,7 +902,6 @@ states.
 
 Internet: <www.npr.org> (adapted).
 
-
 Durante uma coletiva de imprensa virtual pós-eleitoral na quarta-feira, líderes
 de grupos
 destinados a mobilizar eleitores latinos expressaram frustração pelo fato de os votos dos latinos
@@ -986,7 +963,7 @@ Internet: <www.cnbc.com> (adapted).
 
 Comentários:
 
-Item. 05. Taking the text above into consideration, choose the correct option.
+05. Taking the text above into consideration, choose the correct option.
 
 A Amazon has invented and already started selling its cashierlesss checkout technology to other
 stores.
@@ -1006,10 +983,9 @@ great impacts on current operations.
 
 ESCLARECENDO!
 
-Item. 05. Taking the text above into consideration, choose the correct option.
+05. Taking the text above into consideration, choose the correct option.
 
-Item. 05. Levando em consideração o texto acima, escolha a opção correta.
-
+05. Levando em consideração o texto acima, escolha a opção correta.
 
 A Amazon has invented and already started selling its cashierlesss checkout technology to other
 stores. - A Amazon inventou e já começou a vender sua tecnologia de checkout sem caixa para
@@ -1048,7 +1024,6 @@ existente.
 
 O segmento do texto acima deixa bem claro que essa é a opção correta.
 
-
 E Amazon is not worried if the store that wants this cashierless technology installed
 will have
 great impacts on current operations. - E A Amazon não está preocupada se a loja que
@@ -1063,7 +1038,7 @@ Amazon se preocupa sim com esse aspecto. Errada.
 
 GABARITO: D
 
-Item. 06. It can be concluded from the text that
+06. It can be concluded from the text that
 
 A the cashierless checkout technology and the Amazon Go stores work pretty much the
 same
@@ -1082,9 +1057,9 @@ E Amazon Go stores will start accepting cash, for they have been accused of
 discrimination
 against people who do not have a bank account.
 
-Item. 06. It can be concluded from the text that
+06. It can be concluded from the text that
 
-Item. 06. Pode-se concluir do texto que
+06. Pode-se concluir do texto que
 
 A the cashierless checkout technology and the Amazon Go stores work pretty much the
 same
@@ -1093,7 +1068,6 @@ way. - A tecnologia de checkout sem caixa e as lojas Amazon Go funcionam da mesm
 Eles funcionam de forma diferente. Ao contrário das lojas Amazon Go, onde os usuários
 escaneiam o aplicativo Go em uma catraca quando entram, os clientes digitalizam seu cartão de
 crédito na catraca de uma loja com a tecnologia "Basta Sair". Errada.
-
 
 B one of these technology's disadvantages is that shoppers will not be able to receive a receipt
 of their purchase. - B uma das desvantagens dessa tecnologia é que os clientes não
@@ -1136,7 +1110,6 @@ No ano passado, depois que a empresa foi criticada por discriminar pessoas sem c
 a Amazon disse que suas lojas Go começarão a aceitar dinheiro.
 
 O segmento do texto acima deixa claro que essa é a opção correta.
-
 
 GABARITO: E
 
@@ -1182,7 +1155,6 @@ shoppers scan their credit card on the turnstile at a store with the Just Walk O
 shoppers need a receipt, they can visit a kiosk at the store and enter their email address, Amazon
 said. A receipt will be automatically sent to their email address the next time they visit any store
 with the cashierless technology.
-
 
 Ao contrário das lojas Amazon Go, onde os usuários escaneiam o aplicativo Go em uma catraca
 quando entram, os clientes digitalizam seu cartão de crédito na catraca de uma loja
@@ -1281,7 +1253,6 @@ private information for convenience. And hacking into computers can yield vast a
 of
 intelligence. A lot of spying, however, has become trickier. It is
 
-
 31 much more difficult for intelligence officers to maintain secrecy and create fake identities. And
 high expectations of privacy, especially in the digital realm, mean that in many
 
@@ -1318,7 +1289,6 @@ que ler um cartão postal seja perigoso. Ao comparar o cartão postal com email 
 facilidade de ler ambos.
 
 GABARITO: ERRADA
-
 
 09 The author is criticai of people who should be, but are not, thankful for the work intelligence
 and security agents do.
@@ -1359,7 +1329,6 @@ cautela e
 atenção.
 
 GABARITO: CERTA
-
 
 Translation
 
@@ -1408,7 +1377,6 @@ Londres em 2009. Agora, as pessoas estão cautelosas. Em muitos países, os cibe
 fechados. A equipe que os administrava teve que ser transferida (e, em alguns casos, com novas
 identidades caras).
 
-
 The episode highlights one of the most important trends in modem intelligence work. Collecting
 electronic information is generally getting easier. It is hard to lead a completely
 non-digital life,
@@ -1450,7 +1418,6 @@ Inteligência e democracia - uma nova era de espionagem. In: The Economist, 30/7
 
 ATENTO!
 
-
 LISTA DE QUESTõES
 
 Texto 1: Professor de Inglês - SEED-PR - CESPE / CEBRASPE - 2021
@@ -1485,7 +1452,7 @@ states.
 
 Internet: <www.npr.org> (adapted).
 
-Item. 01. According to the text,
+01. According to the text,
 
 A Joe Biden's support doesn't depend on the states where Latinos were interviewed.
 B the number of Latin people in the US has been stable for some time.
@@ -1495,8 +1462,7 @@ C Joe Biden is still the vice president of the former president.
 D Joe Biden's political party supporters were anxious about their performance in Arizona.
 E President Trump appears to have over half of the Latino voters nationwide.
 
-
-Item. 02. It can be inferred from the text that
+02. It can be inferred from the text that
 
 A conservative Cuban American voters tend to vote for President Trump.
 B there is over a dozen electoral colleges in the state of Arizona.
@@ -1506,7 +1472,7 @@ C Florida voters were anxious to vote for Biden.
 D Latino voters are not considered aggressive people in some states of the US anymore.
 E Biden probably has more voters in Florida than Trump.
 
-Item. 03. In English, a lot of nouns are formed by a verb and a suffix. One example of a noun derived
+03. In English, a lot of nouns are formed by a verb and a suffix. One example of a noun derived
 from a verb is
 
 A member.
@@ -1516,7 +1482,7 @@ D loser.
 
 E longer.
 
-Item. 04. The excerpt "...leaders from groups aimed at mobilizing Latino voters..." has an example of a
+04. The excerpt "...leaders from groups aimed at mobilizing Latino voters..." has an example of a
 gerund. Gerunds can be used as the subject or object of a sentence. Another example
 of a
 gerund can be found in the sentence:
@@ -1578,11 +1544,10 @@ Some states, like New Jersey, have new laws banning stores that don't accept cas
 
 Internet: <www.cnbc.com> (adapted).
 
-Item. 05. Taking the text above into consideration, choose the correct option.
+05. Taking the text above into consideration, choose the correct option.
 
 A Amazon has invented and already started selling its cashierlesss checkout technology to other
 stores.
-
 
 B With Amazon's new technology, customers can take whatever they want without the need to
 stand in a checkout line or pay for the items.
@@ -1597,7 +1562,7 @@ E Amazon is not worried if the store that wants this cashierless technology inst
 will have
 great impacts on current operations.
 
-Item. 06. It can be concluded from the text that
+06. It can be concluded from the text that
 
 A the cashierless checkout technology and the Amazon Go stores work pretty much the
 same
@@ -1637,7 +1602,6 @@ favoured such places. Some would hop between cafes,
 Not anymore. Edward Snowden, a former contractor for America's National Security Agency
 (NSA) now living in Moscow, revealed the use of cyber-cafes to spy on the G20
 
-
 16 summit in London in 2009. Now people are wary. In many countries the cyber-cafes
 have
 been closed. The staff who ran them have had to be moved (and in some cases given costly
@@ -1675,7 +1639,6 @@ and security agents do.
 both
 connected to the notion of caution and attention.
 
-
 GABARITO
 
 GABARIToS
@@ -1686,10 +1649,8 @@ Texto 1 01-X; 02-A; 03-D; 04-C;
 
 Texto 2 05-D; 06-E;
 
-
 Texto 3
 
 07-CERTA; 08-ERRADA; 09-ERRADA; 10-
 CERTA;
-
 

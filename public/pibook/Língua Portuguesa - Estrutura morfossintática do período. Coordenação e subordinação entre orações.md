@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Estrutura morfossintática do período. Coordenação e subordinação entre orações.
-
+# Língua Portuguesa - Estrutura morfossintática do período. Coordenação e subordinação entre orações.
 
 Índice
 
@@ -19,12 +18,9 @@ Capítulo. Língua Portuguesa - Estrutura morfossintática do período. Coordena
 
 8) Palavra QUE
 
-
 9) Palavra SE
 
-
 10) Palavra COMO
-
 
 11) Questões Comentadas - Orações Adjetivas - Cebraspe
 
@@ -43,7 +39,6 @@ Capítulo. Língua Portuguesa - Estrutura morfossintática do período. Coordena
 18) Lista de Questões - Palavra SE - Cebraspe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NoçõES INICIAIS
 
@@ -75,7 +70,6 @@ Vamos em frente?! Com muita dedicação e coragem!!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 CooRDENAçÃo X SUBoRDINAçÃo
 
 Na prática, o período é a unidade de texto que vai até uma pontuação definitiva, que
@@ -96,13 +90,11 @@ esquecido meu celular, 4porque eu tinha/deixado em cima da mesa e 5nem lembrei..
 3Apesar de ter esse
 contratempo, 2cheguei ao trabalho no horário. Sou sortudo cbçcmb^amisaou não?
 
-
 Primeiro perí
 
 Segundo período
 
 Terceiro Péríodo
-
 
 Frase nominal
 Sem verbo
@@ -111,7 +103,6 @@ Sem verbo
 coordenação. Há uma outra
 oração subordinada à oração "2",
 que é "sem tomar café".
-
 
 Quarto Período,
 2 orações,
@@ -127,7 +118,6 @@ Vejamos agora como as ligações nos períodos compostos se relacionam. Segue ab
 período composto
 por coordenação:
 
-
 1 Acordei atrasado para o trabalho e 2saí
 
 ---------------------- - - ---------------------- -------- —<—'
@@ -135,7 +125,6 @@ por coordenação:
 3sem tomar café.
 
 v 7
-
 
 Oração Independente
 Oração principal
@@ -162,7 +151,6 @@ Ex: Saí. (sentido completo)
 Ex: Sem tomar café, (sentido incompleto)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ^Apesar de ter esse contratempo^zçheguei ao trabalho no horário.
 
@@ -235,7 +223,6 @@ comparativas:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Trabalho tanto quanto meu concorrente (trabalha).
 
 Cuidado com verbos causativos (deixar, fazer, mandar etc) e sensitivos (ver, ouvir,
@@ -246,9 +233,7 @@ VERBAIS, MAS DUAS ORAÇÕES EM UM PERÍODO COMPOSTO.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Equipe Português Estratégia Concursos,
-
 
 Orações coordenadas são independentes sintaticamente, isto é, não exercem função
 sintática em outra, ao
@@ -309,7 +294,6 @@ substituir esses dois pontos de forma adequada.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 : (B) mas
 
 : (C) portanto
@@ -337,7 +321,6 @@ E
 ... .
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ORAçõES SUBoRDINADAS SUBSTANTIVAS
 
@@ -399,7 +382,6 @@ HORA IX
 Mas é cloro que o gramático do inglês não é o mesmo gramático do português
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Em relação às ideias e aos aspectos linguísticos do texto precedente, julgue o item que se segue.
 
@@ -469,7 +451,6 @@ Ex: Tenho um sonho: passar logo no concurso, (reduzida de infinitivo]
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Oração Subordinada Substantiva Predicativa
 
 Funciona como um predicativo, qualidade que se atribui ao sujeito, por via de um
@@ -515,7 +496,6 @@ Vejo quão felizes são vocês.
 Descobri quando ele começou a desconfiar.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ORAçõES SUBoRDINADAS ADJETIVAS
 
@@ -590,7 +570,6 @@ Ex: O menino cansado foi dormir, (restringe, delimita qual "menino")
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 OBS: RESTRIÇÃO IMPOSSÍVEL.
 
 Em alguns casos, por razões semânticas, somos obrigados a usar vírgula, pois não há
@@ -654,7 +633,6 @@ educação, |
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 saúde e moradia, agravados, entre outros motivos.
 
 A inserção da expressão que seja imediatamente antes da palavra "pautada" — que seja
@@ -717,7 +695,6 @@ pois aqui a oração
 iniciada por "que" não foi a que veio entre vírgulas. Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ORAçõES SUBoRDINADAS ADVERBIAIS
 
@@ -788,7 +765,6 @@ Ex: Uma vez que pague, exija o recibo, (se pagar...)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: Caso pague, exija o recibo, (se pagar...)
 
 Ex: Sem que estude, não há como passar, (se não estudar...)
@@ -846,7 +822,6 @@ Portanto, a substituição só é possível com adaptação do verbo!
 (DPE-RS / 2022)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A tecnologia finalmente está derrubando os muros do tradicionalismo que envolve o mundo do direito,
 i
@@ -909,7 +884,6 @@ I«** IX
 (PGE-PE-Ana. Judiciário de Procuradoria - 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 í Que fique claro: não tenho nenhuma intenção de difamar ou condenar o passado para
 absolver o presente, í
@@ -979,14 +953,12 @@ Indicam que uma ação ou fato se desenvolve de acordo com outro. São introduzi
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 conformativas: como, conforme, consoante, segundo.
 
 Ex: A prova se desenrolou como tínhamos treinado!
 Ex: Tudo correu conforme o que planejamos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ORAçõES REDUZIDAS X ORAçõES DESENvoLvIDAS
 
@@ -1067,7 +1039,6 @@ Vejamos agora uma reduzida de particípio-.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: Terminac/o o serviço, foi embora, (oraçao reduzida de particípio:
 verbo no particípio;
 sem conjunção)
@@ -1134,7 +1105,6 @@ depender do contexto.
 Ex: Em se plantando, tudo dá. (Quando plantamos - tempo/Se plantarmos - hipótese)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex: Quando o verão chegar, ficaremos felizes. (Ao chegar o verão/
 Chegado o verão/
@@ -1258,7 +1228,6 @@ I
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 I(TJ-PA/ANALISTA JUDICIÁRIO/2020)
 I:
 
@@ -1342,7 +1311,6 @@ decisões automatizadas tomadas com base no tratamento de
 
 dados, como as notas de crédito ou os perfis de consumo.
 
-
 I
 
 I
@@ -1352,7 +1320,6 @@ AyrâJibíMd «k mt» tw - icom b
 J
 
 I
-
 
 I
 
@@ -1385,7 +1352,6 @@ igraduação com um emprego.
 :No texto, a oração "ao estudar em casa" tem sentido equivalente ao da oração
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 I
 
@@ -1513,7 +1479,6 @@ suprimir todas as formas de',
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 I
 
 I
@@ -1532,7 +1497,6 @@ I
 :
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 FUNçõES DA PALAVRA "QUE"
 
@@ -1599,7 +1563,6 @@ Conjunção adversativa:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: Culpem todos, que não a mim! (mas não a mim)
 
 Conjunção aditiva:
@@ -1657,7 +1620,6 @@ Não sei (ISTO
 (Quem sabe, sabe alguma coisa). A oração tem função de objeto direto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Discordo de que eles aumentem impostos].
 
@@ -1717,7 +1679,6 @@ Comentários:
 O raciocínio é o seguinte: a confissão é prova robusta, irrefutável. Os indícios são duvidosos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Então, a confissão é tão forte, que (como consequência) não há necessidade de depender
 dos duvidosos
@@ -1792,7 +1753,6 @@ Então basicamente devemos seguir três passos:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 1) Isolar a oração adjetiva, iniciada pelo "QUE" pronome relativo.
 
 2) Dentro dessa oração, substituir o "QUE" por seu antecedente.
@@ -1848,7 +1808,6 @@ um termo anterior,
 o qual se encontra nos parênteses.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (A) "'o problema com a positividade tóxica é que ela é uma negação de todos os
 aspectos emocionais [...]'".
@@ -1923,7 +1882,6 @@ i [que nos cercam]
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 iComo o termo SERIA (HIPÓTESE) o sujeito, sabemos que o "que" é o sujeito. Lembre,
 esse é um artifício de i
 I análise, o termo "Os processos de produção dos objetos" não faz parte de fato da oração
@@ -1993,7 +1951,6 @@ antecedente e i
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 í depois analisar a função que assume:
 
 tributos [que incidam]
@@ -2005,7 +1962,6 @@ Ora, os tributos incidem, "tributos" assume função de sujeito; logo, o "que"
 simples, por ter apenas um núcleo, o próprio pronome. Gabarito letra E.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 FUNçõES DA PALAVRA "SE"
 
@@ -2080,7 +2036,6 @@ vozes passiva e reflexiva. Além disso, o "SE" dos verbos pronominais não exerc
 alguma.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Partícula expletiva de realce:
 
@@ -2159,7 +2114,6 @@ sentido reflexivo clássico, que deve estar evidente no contexto.)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: João se amarrou ao tronco durante o furacão. (João prende a si mesmo no tronco,
 ele "amarra" e
 "é amarrado" ao tronco)
@@ -2231,7 +2185,6 @@ i
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 í um amigo animado. Candeia era morta.
 
 0 vocábulo "se"
@@ -2300,7 +2253,6 @@ sedução do repouso e imobilizando-se na acomodação.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 No trecho "rendendo-se", o pronome "se" indica que o sujeito dessa forma verbal é indeterminado.
 
 Comentários:
@@ -2329,7 +2281,6 @@ decidir [ISTO]
 Temos então uma oração subordinada substantiva objetiva direta. Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 FUNçõES DA PALAVRA "COMO"
 
@@ -2395,7 +2346,6 @@ Ex: Desejo saber como vai. (oração subordinada substantiva objetiva direta)
 Ex: Ignoramos como ele gastou tanto dinheiro, (oração subordinada substantiva objetiva direta)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex: Sua produtividade não está como a diretoria deseja, (oração subordinada
 substantiva
@@ -2464,7 +2414,6 @@ viabilidade do
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 poder de coerção estatal. Em outras palavras, como atestam clássicos do pensamento político, a sua
 ausência
 culminaria na impossibilidade de manutenção de relações pacificadas.
@@ -2504,10 +2453,9 @@ relativo "como". Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - ORAçõES ADJETIvAS - CEBRASPE
 
-Item. 1. CEBRASPE/ PETROBRAS/ 2022
+1. CEBRASPE/ PETROBRAS/ 2022
 
 Transportar o petróleo do mar até as refinarias é também uma tarefa complexa, para a
 qual são utilizados dutos e navios. Em terra, ele é tratado em refinarias, que
@@ -2529,7 +2477,7 @@ Comentários:
 A oração é explicativa, pois há vírgula antes do pronome relativo.
 Questão incorreta.
 
-Item. 2. CEBRASPE /TELEBRAS/ 2022
+2. CEBRASPE /TELEBRAS/ 2022
 
 ...Parece que hoje já se pode fazer a guerra sem bombas atômicas. As bombas E do
 tipo FCG
@@ -2555,7 +2503,7 @@ vírgulas, sabemos que é explicativa.
 
 Questão correta.
 
-Item. 3. (CEBRASPE / PGE-PE-Conhecimentos Básicos 1, 2, 3 e 4 - 2019)
+3. (CEBRASPE / PGE-PE-Conhecimentos Básicos 1, 2, 3 e 4 - 2019)
 
 A sociedade requer das organizações uma nova configuração da atividade
 econômica, pautada
@@ -2577,7 +2525,6 @@ deixa a oração adjetiva mais explícita:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A sociedade requer das organizações uma nova configuração da atividade econômica, (que
 seja)
 pautada na ética e na responsabilidade para com a sociedade e o meio
@@ -2586,8 +2533,7 @@ correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 1. CEBRASPE / DPE-DF / 2022
+1. CEBRASPE / DPE-DF / 2022
 
 ...O vírus atinge o planeta. O vírus ameaça a humanidade. Planeta ou
 humanidade designam
@@ -2622,7 +2568,7 @@ suprir. Sintaticamente, temos orações subordinadas adverbiais finais reduzidas
 
 Questão incorreta.
 
-Item. 2. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
+2. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
 
 No período em que se insere no texto CG1A1-II, a oração "Ao coletar um dado" (2o
 parágrafo)
@@ -2634,10 +2580,9 @@ Comentários:
 "Ao coletar um dado" é uma oração temporal reduzida: Quando um dado é coletado. Gabarito
 letra A.
 
-Item. 3. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
+3. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 1 Em tempos pré-modernos, os humanos
 experimentaram uma espantosa variedade de modelos
@@ -2692,14 +2637,13 @@ caso adoeça, o lugar onde vive já não faz muita diferença, porque os
 médicos de diferentes
 hospitais seguem protocolos iguais e chegam a diagnósticos semelhantes. Questão correta.
 
-Item. 4. (CEBRASPE / PGE-PE-Ana. Judiciário de Procuradoria - 2019)
+4. (CEBRASPE / PGE-PE-Ana. Judiciário de Procuradoria - 2019)
 
 Que fique claro: não tenho nenhuma intenção de difamar ou condenar o passado para
 absolver o
 presente, nem de deplorar o presente para louvar os bons tempos antigos. Desejo apenas ajudar
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 a que se compreenda que todo juízo excessivamente resoluto nesse campo corre
 o risco de
@@ -2717,7 +2661,7 @@ diante de orações subordinadas adverbiais finais, reduzidas de infinitivo, sen
 introduzidas pela
 preposição "para". Questão correta.
 
-Item. 5. (CEBRASPE / IHBDF-Cargos de Nível Médio Téc. - 2018)
+5. (CEBRASPE / IHBDF-Cargos de Nível Médio Téc. - 2018)
 
 Assim, é comum que pais com baixa escolaridade lutem para que os filhos tenham acesso
 a um
@@ -2733,7 +2677,7 @@ Questão direta. Temos oração subordinada adverbial final, introduzida pela pr
 para. Nela
 temos o propósito da luta dos pais de baixa escolaridade. Gabarito letra A.
 
-Item. 6. (CEBRASPE/MPE PI/ANALISTA/2018)
+6. (CEBRASPE/MPE PI/ANALISTA/2018)
 
 a confissão do réu constitui uma prova tão forte que não há necessidade de
 acrescentar outras,
@@ -2752,7 +2696,7 @@ Observem a combinação de advérbio de intensidade (tão) com o "que"
 consecutivo. Questão
 correta.
 
-Item. 7. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
+7. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
 
 Servir a Deus significava, para eia, cuidar dos enfermos, e
 especialmente dos enfermos
@@ -2772,12 +2716,11 @@ introduz oração consecutiva:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Como os hospitais curavam pouco e traziam perigo de infecção (causa), os
 ricos preferiam
 tratar-se em casa (consequência). Questão correta.
 
-Item. 8. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
+8. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Entretanto, é sabido que certas pólvoras, submetidas a dadas
 condições, explodem
@@ -2803,7 +2746,7 @@ do subjuntivo jogaria a condicional para o passado. Seria preciso então ajustar
 condições, explodiriam
 espontaneamente Questão incorreta.
 
-Item. 9. (CEBRASPE/IHBDF/2018)
+9. (CEBRASPE/IHBDF/2018)
 
 A pedagoga acrescenta que a maioria dos alunos é composta por adultos, que,
 diferentemente
@@ -2829,7 +2772,7 @@ A oração temporal "ao estudar" é forma reduzida. Para desenvolvê-la, precisa
 devolver a
 conjunção temporal e conjugar o verbo: quando estudam em casa. Gabarito letra C.
 
-Item. 10. (CEBRASPE / SEFAZ RS / ASSISTENTE / 2018)
+10. (CEBRASPE / SEFAZ RS / ASSISTENTE / 2018)
 
 A necessidade de guardar as moedas em segurança fez surgirem os bancos. Os negociantes
 de
@@ -2844,7 +2787,6 @@ papel
 moeda, ou cédulas de banco, ao mesmo tempo em que a guarda dos valores em espécie dava
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 origem a instituições bancárias.
 
@@ -2868,7 +2810,7 @@ Então, temos sim o motivo de os recibos passarem a ser usados como
 pagamento. Questão
 correta.
 
-Item. 11. (CEBRASPE / MPU / TÉCNICO / 2018)
+11. (CEBRASPE / MPU / TÉCNICO / 2018)
 
 As medidas previstas visam garantir o gozo dos direitos humanos e das liberdades
 fundamentais
@@ -2896,7 +2838,7 @@ tráfico... (tempo - quando suprimem...)
 
 Então, há sim mudança de sentido, mas não há erro gramatical. Questão correta.
 
-Item. 12. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
+12. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 A primeira grande epidemia [de dengue] ocorreu em 1995, com 1.462 casos
 autóctones.
@@ -2917,10 +2859,9 @@ temos um adjunto adverbial de causa, introduzido pela preposição "com". Quest�
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - PALAvRA QUE - CEBRASPE
 
-Item. 1. CEBRASPE / PC-PB / 2022
+1. CEBRASPE / PC-PB / 2022
 
 Um problema no estudo da violência é sua relação com a racionalidade. Os atos
 violentos
@@ -2999,7 +2940,6 @@ B) I e III.
 C) III e IV.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 D) I, II e IV.
 
@@ -3044,7 +2984,7 @@ adverbial comparativa.
 INCORRETA, pois o "que" é pronome relativo e introduz oração adjetiva restritiva.
 Gabarito letra A.
 
-Item. 2. (CEBRASPE / CGM-JOÃO PESSOA - 2018)
+2. (CEBRASPE / CGM-JOÃO PESSOA - 2018)
 
 Por exemplo: estou na fila; chega uma pessoa precisando pagar sua conta que vence
 naquele dia
@@ -3059,7 +2999,7 @@ principal
 
 - chega uma pessoa precisando pagar sua conta [que vence naquele dia]. Questão correta.
 
-Item. 3. (CEBRASPE / PF-Agente da Polícia Federal - 2018)
+3. (CEBRASPE / PF-Agente da Polícia Federal - 2018)
 
 E, se o delegado e toda a sua corte têm cometido tantos enganos, isso se deve (...)
 a uma
@@ -3072,7 +3012,6 @@ empregado para
 escondê-la.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No trecho "ao procurar alguma coisa que se ache escondida", o pronome "que" exerce a
 função
@@ -3093,7 +3032,7 @@ Então, esse termo "seria" sujeito dentro da oração adjetiva, o que significa 
 o "que" é
 sujeito. Questão incorreta.
 
-Item. 4. (CEBRASPE / STM-Analista - 2018)
+4. (CEBRASPE / STM-Analista - 2018)
 
 Quem não sabe deve perguntar, ter essa humildade, e uma precaução tão
 elementar deveria
@@ -3122,10 +3061,9 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - PALAvRA SE - CEBRASPE
 
-Item. 1. (CEBRASPE / STJ-Conhecimentos Básicos - 2018)
+1. (CEBRASPE / STJ-Conhecimentos Básicos - 2018)
 
 Autores importantes do campo da ciência política e da filosofia política e moral se
 debruçaram
@@ -3146,7 +3084,7 @@ do sujeito, já que temos a estrutura VTI + SE, sem identificação clara de que
 "ao estado
 de coisas". Correta.
 
-Item. 2. (CEBRASPE / STM / NÍVEL SUPERIOR / 2018)
+2. (CEBRASPE / STM / NÍVEL SUPERIOR / 2018)
 
 Eles [homens violentos que querem dominar as mulheres] se julgam com o direito de
 impor o seu
@@ -3167,7 +3105,7 @@ No primeiro caso, eles julgam "a si mesmos", então o "se" é reflexivo. No segu
 as moças
 são castigadas, temos "se" apassivador: "VTD+SE". Questão incorreta.
 
-Item. 3. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
+3. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
 
 A inclusão ou a omissão de uma letra ou de uma vírgula no que sai impresso pode
 decidir se o
@@ -3187,8 +3125,7 @@ Temos então uma oração subordinada substantiva objetiva direta. Questão corr
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 4. (CEBRASPE / MPU / ANALISTA / 2018)
+4. (CEBRASPE / MPU / ANALISTA / 2018)
 
 A necessidade de uma teoria da justiça está relacionada com a disciplina de
 argumentar
@@ -3218,7 +3155,7 @@ um recurso para não mencionar o agente da ação quando o autor não quer
 ou não sabe.
 Questão incorreta.
 
-Item. 5. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
+5. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
 
 Florence preparou-se para cuidar deles, praticando com os indigentes que viviam próximos
 à sua
@@ -3240,7 +3177,7 @@ Comentários:
 
 Em ambos os casos, o "se" possui valor reflexivo. Questão incorreta.
 
-Item. 6. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
+6. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
 
 Mesmo reconhecendo-se que o objetivo das organizações vinculadas ao Estado não deveria
 ser
@@ -3259,7 +3196,6 @@ No primeiro caso: "Maior eficiência é demandada", então temos VTD+SE e o "SE"
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 No segundo caso, temos o verbo "ver-se" no sentido de "encontrar-se" em determinado
 estado,
 no sentido de "estar": "as organizações estão pressionadas". Esse "SE" faz parte do
@@ -3268,10 +3204,9 @@ apassivador como o primeiro. Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - ORAçõES ADJETIvAS - CEBRASPE
 
-Item. 1. CEBRASPE/ PETROBRAS/ 2022
+1. CEBRASPE/ PETROBRAS/ 2022
 
 Transportar o petróleo do mar até as refinarias é também uma tarefa complexa, para a
 qual são utilizados dutos e navios. Em terra, ele é tratado em refinarias, que
@@ -3288,7 +3223,7 @@ cozinha, entre outros derivados" consiste em uma oração adjetiva restritiva, n
 medida em que
 delimita o tipo específico de refinarias a que se refere o texto.
 
-Item. 2. CEBRASPE /TELEBRAS/ 2022
+2. CEBRASPE /TELEBRAS/ 2022
 
 ...Parece que hoje já se pode fazer a guerra sem bombas atômicas. As bombas E do
 tipo FCG
@@ -3306,7 +3241,7 @@ No último parágrafo do texto, o trecho entre vírgulas "cujo emprego não
 está limitado às
 grandes potências bélicas" tem sentido explicativo.
 
-Item. 3. (CEBRASPE / PGE-PE-Conhecimentos Básicos 1, 2, 3 e 4 - 2019)
+3. (CEBRASPE / PGE-PE-Conhecimentos Básicos 1, 2, 3 e 4 - 2019)
 
 A sociedade requer das organizações uma nova configuração da atividade
 econômica, pautada
@@ -3323,18 +3258,17 @@ pautada
 
 GABARITo
 
-Item. 1. INCORRETA
+1. INCORRETA
 
-Item. 2. CORRETA
+2. CORRETA
 
-Item. 3. CORRETA
+3. CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - ORAçõES ADvERBIAIS - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-DF / 2022
+1. CEBRASPE / DPE-DF / 2022
 
 ...O vírus atinge o planeta. O vírus ameaça a humanidade. Planeta ou
 humanidade designam
@@ -3361,7 +3295,7 @@ causas por que os 3,7 bilhões de pessoas que fazem parte do grupo dos mais pobr
 do mundo
 lutam.
 
-Item. 2. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
+2. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
 
 No período em que se insere no texto CG1A1-II, a oração "Ao coletar um dado" (2o
 parágrafo)
@@ -3369,7 +3303,7 @@ exprime uma circunstância de
 
 A) tempo. B) causa. C) modo. D) finalidade. E) explicação.
 
-Item. 3. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
+3. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
 
 1 Em tempos pré-modernos, os humanos
 experimentaram uma espantosa variedade de modelos
@@ -3386,7 +3320,6 @@ io almoço, eles teriam uma linguagem econômica comum e
 poderiam facilmente compartilhar agruras.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Porém a homogeneidade contemporânea é mais
 13 evidente quando se trata de nossa maneira de ver o nosso
@@ -3418,7 +3351,7 @@ Com relação às propriedades gramaticais e à coerência do texto, julgue o it
 seguir.
 A oração "se você adoecer" (Linha 24) estabelece uma hipótese.
 
-Item. 4. (CEBRASPE / PGE-PE-Ana. Judiciário de Procuradoria - 2019)
+4. (CEBRASPE / PGE-PE-Ana. Judiciário de Procuradoria - 2019)
 
 Que fique claro: não tenho nenhuma intenção de difamar ou condenar o passado para
 absolver o
@@ -3432,7 +3365,7 @@ No período em que se inserem, os trechos "para absolver o presente" e "para lou
 os bons
 tempos antigos" exprimem finalidades.
 
-Item. 5. (CEBRASPE / IHBDF-Cargos de Nível Médio Téc. - 2018)
+5. (CEBRASPE / IHBDF-Cargos de Nível Médio Téc. - 2018)
 
 Assim, é comum que pais com baixa escolaridade lutem para que os filhos tenham acesso
 a um
@@ -3441,7 +3374,7 @@ ensino de qualidade, sem reivindicar para si mesmos o direito que lhes foi viola
 A oração "para que os filhos tenham acesso a um ensino de qualidade" expressa circunstância de
 a) finalidade. b) causa. c) modo. d) proporção. e) concessão.
 
-Item. 6. (CEBRASPE/MPE PI/ANALISTA/2018)
+6. (CEBRASPE/MPE PI/ANALISTA/2018)
 
 a confissão do réu constitui uma prova tão forte que não há necessidade de
 acrescentar outras,
@@ -3449,10 +3382,9 @@ nem de entrar na difícil e duvidosa combinatória dos indícios
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 O trecho "que não há (...) indícios" exprime uma noção de consequência.
 
-Item. 7. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
+7. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
 
 Servir a Deus significava, para eia, cuidar dos enfermos, e
 especialmente dos enfermos
@@ -3464,7 +3396,7 @@ O trecho "que os ricos preferiam tratar-se em casa" expressa uma consequência d
 se afirma
 nas duas orações imediatamente anteriores, no mesmo período.
 
-Item. 8. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
+8. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Entretanto, é sabido que certas pólvoras, submetidas a dadas
 condições, explodem
@@ -3478,7 +3410,7 @@ condicional do trecho "submetidas a dadas condições" sem que houvesse prejuíz
 para a
 correção gramatical do texto.
 
-Item. 9. (CEBRASPE/IHBDF/2018)
+9. (CEBRASPE/IHBDF/2018)
 
 A pedagoga acrescenta que a maioria dos alunos é composta por adultos, que,
 diferentemente
@@ -3499,7 +3431,7 @@ d) porque estudam em casa.
 
 e) por estudarem em casa.
 
-Item. 10. (CEBRASPE / SEFAZ RS / ASSISTENTE / 2018)
+10. (CEBRASPE / SEFAZ RS / ASSISTENTE / 2018)
 
 A necessidade de guardar as moedas em segurança fez surgirem os bancos. Os negociantes
 de
@@ -3521,10 +3453,9 @@ que o dinheiro vivo" exprime um motivo por que recibos passaram a ser utilizados
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 pagamento.
 
-Item. 11. (CEBRASPE / MPU / TÉCNICO / 2018)
+11. (CEBRASPE / MPU / TÉCNICO / 2018)
 
 As medidas previstas visam garantir o gozo dos direitos humanos e das liberdades
 fundamentais
@@ -3538,7 +3469,7 @@ A substituição de "e suprimir" por ao suprimir não comprometeria a correção
 gramatical do
 período, mas alteraria seu sentido original.
 
-Item. 12. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
+12. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 A primeira grande epidemia [de dengue] ocorreu em 1995, com 1.462 casos
 autóctones.
@@ -3550,18 +3481,17 @@ A expressão "com a introdução dos demais sorotipos" exprime ideia de causa.
 
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. LETRA A
 
-Item. 2. LETRA A
+3. CORRETA
 
-Item. 3. CORRETA
+4. CORRETA
 
-Item. 4. CORRETA
+5. LETRA A
 
-Item. 5. LETRA A
-
-Item. 6. CORRETA
+6. CORRETA
 
 7.
 
@@ -3585,10 +3515,9 @@ CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - PALAvRA QUE - CEBRASPE
 
-Item. 1. CEBRASPE / PC-PB / 2022
+1. CEBRASPE / PC-PB / 2022
 
 Um problema no estudo da violência é sua relação com a racionalidade. Os atos
 violentos
@@ -3668,12 +3597,11 @@ C) III e IV.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 D) I, II e IV.
 
 E) II, III e IV.
 
-Item. 2. (CEBRASPE / CGM-JOÃO PESSOA - 2018)
+2. (CEBRASPE / CGM-JOÃO PESSOA - 2018)
 
 Por exemplo: estou na fila; chega uma pessoa precisando pagar sua conta que vence
 naquele dia
@@ -3681,7 +3609,7 @@ e pede para passar na frente. Não há o que reclamar dessa forma de "Jeitinho".
 
 A palavra "que" retoma o termo que a antecede e relaciona duas orações no período.
 
-Item. 3. (CEBRASPE / PF-Agente da Polícia Federal - 2018)
+3. (CEBRASPE / PF-Agente da Polícia Federal - 2018)
 
 E, se o delegado e toda a sua corte têm cometido tantos enganos, isso se deve (...)
 a uma
@@ -3697,7 +3625,7 @@ No trecho "ao procurar alguma coisa que se ache escondida", o pronome "que" exer
 função
 de complemento da forma verbal "ache".
 
-Item. 4. (CEBRASPE / STM-Analista - 2018)
+4. (CEBRASPE / STM-Analista - 2018)
 
 Quem não sabe deve perguntar, ter essa humildade, e uma precaução tão
 elementar deveria
@@ -3717,18 +3645,17 @@ GABARITo
 
 1 LETRA A
 
-Item. 2. CORRETA
+2. CORRETA
 
-Item. 3. INCORRETA
+3. INCORRETA
 
-Item. 4. INCORRETA
+4. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - PALAvRA SE - CEBRASPE
 
-Item. 1. (CEBRASPE / STJ-Conhecimentos Básicos - 2018)
+1. (CEBRASPE / STJ-Conhecimentos Básicos - 2018)
 
 Autores importantes do campo da ciência política e da filosofia política e moral se
 debruçaram
@@ -3742,7 +3669,7 @@ concretas para se chegar a esse estado de coisas.
 
 Nos trechos "se debruçaram" e "se chegar", a partícula "se" recebe classificações distintas.
 
-Item. 2. (CEBRASPE / STM / NÍVEL SUPERIOR / 2018)
+2. (CEBRASPE / STM / NÍVEL SUPERIOR / 2018)
 
 Eles [homens violentos que querem dominar as mulheres] se julgam com o direito de
 impor o seu
@@ -3758,7 +3685,7 @@ sentir mais pelos namorados amor ou coisa equivalente?
 
 O vocábulo se recebe a mesma classificação em "se julgam" e "se castigam".
 
-Item. 3. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
+3. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
 
 A inclusão ou a omissão de uma letra ou de uma vírgula no que sai impresso pode
 decidir se o
@@ -3766,7 +3693,7 @@ autor vai ser entendido ou não, admirado ou ridicularizado, consagrado ou proce
 
 A palavra "se" classifica-se como conjunção e introduz uma oração completiva.
 
-Item. 4. (CEBRASPE/MPU/ANALISTA/2018)
+4. (CEBRASPE/MPU/ANALISTA/2018)
 
 A necessidade de uma teoria da justiça está relacionada com a disciplina de
 argumentar
@@ -3778,7 +3705,7 @@ Na forma "Afirma-se", o emprego do pronome "se" indica que não
 existe um agente
 responsável pela ação de afirmar.
 
-Item. 5. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
+5. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO TÉC. / 2018)
 
 Florence preparou-se para cuidar deles, praticando com os indigentes que viviam próximos
 à sua
@@ -3792,14 +3719,13 @@ alma; providenciava comida, remédios, agasalhos, além de supervisionar o traba
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 enfermeiras.
 
 Nos trechos "Florence preparou-se" e "Florence entregou-se", a partícula "se"
 classifica-se como
 pronome apassivador.
 
-Item. 6. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
+6. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
 
 Mesmo reconhecendo-se que o objetivo das organizações vinculadas ao Estado não deveria
 ser
@@ -3815,18 +3741,17 @@ Em "demandava-se" e "se veem pressionadas", a partícula "se" recebe classifica�
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. INCORRETA
+2. INCORRETA
 
-Item. 3. CORRETA
+3. CORRETA
 
-Item. 4. INCORRETA
+4. INCORRETA
 
-Item. 5. INCORRETA
+5. INCORRETA
 
-Item. 6. CORRETA
+6. CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

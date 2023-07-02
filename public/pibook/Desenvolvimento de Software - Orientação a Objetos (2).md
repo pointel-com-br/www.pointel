@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Orientação a Objetos (2).
-
+# Desenvolvimento de Software - Orientação a Objetos (2).
 
 Índice
 
@@ -16,7 +15,6 @@ Capítulo. Desenvolvimento de Software - Orientação a Objetos (2).
 6) Lista de Questões - Programação Orientada a Objetos - Conceitos Básicos - FCC
 
 7) Lista de Questões - Programação Orientada a Objetos - Conceitos Básicos - Cebraspe
-
 
 PRoGRAMAçÃo ORIENTADA A OBJEToS
 
@@ -59,11 +57,9 @@ somente uma: o princípio da abstração.
 
 Mas vamos começar pela pedra fundamental, classes e objetos.
 
-
 / 44
 
 /
-
 
 Classes
 
@@ -110,11 +106,9 @@ operando: o construtor, que é o nome de um método especial que constrói o obj
 Uma vez
 x' 4
 
-
 / 44
 
 /
-
 
 construído, o objeto deve ser atribuído a uma variável, para que possa ser utilizado
 e referenciado
@@ -160,11 +154,9 @@ final String Nome; //Indica que Nome é um atributo constante;
 volatile Salario; //Indica que Salário é modificável por threads distintas;
 static Idade; //Indica que Idade é compartilhada por todos objetos;
 
-
 / 44
 
 /
-
 
 transient Sexo; //Indica que Sexo não pode ser serializável;
 
@@ -210,11 +202,9 @@ Abstract, Final, Static, Native e Synchronized
 //Indica que esse método não possui corpo
 abstract int soma (int a, int b) {//...//}
 
-
 / 44
 
 /
-
 
 //Indica que esse método não pode ser sobrescrito
 final int soma (int a, int b) {//...//}
@@ -255,11 +245,9 @@ construtor padrão com uma lista vazia de parâmetros. Pode-se criar diversos
 construtores para
 uma mesma classe.
 
-
 / 44
 
 /
-
 
 Outro método muito importante é o Método Main! Pois é, ele é sempre definido como um
 método
@@ -313,11 +301,9 @@ será considerada uma Classe Abstrata. Aliás, uma Interface é também chamada 
 abstrata
 pura por conta disso, ou seja, não há impurezas (isto é, métodos concretos).
 
-
 / 44
 
 /
-
 
 Encapsulamento
 
@@ -384,9 +370,7 @@ acessam. A documentação oficial afirma da seguinte forma: 11 Members of a dass
 private are not inherited by
 subdasses o f that dass".
 
-
 /
-
 
 <default>: também chamado friendly, não há palavra para esse modificador porque ele
 é, na
@@ -441,11 +425,9 @@ class Classel {
 //Atributo privado
 private String Algo;
 
-
 / 44
 
 /
-
 
 //Método público para recuperar dados
 public String getAlgo() {
@@ -497,11 +479,9 @@ Professor, o que você quer dizer com mesma assinatura e assinatura diferente?
 É a mesma
 quantidade, tipo e ordem dos parâmetros. Em outras palavras:
 
-
 / 44
 
 /
-
 
 //Assinatura Igual: quantidade, tipo e ordem
 public String EntendendoAssinatura(int A, char B);
@@ -514,7 +494,6 @@ public String EntendendoAssinatura(long A, long B);
 //Assinatura Diferente: tipo diferente
 public String EntendendoAssinatura(long A, long B);
 public String EntendendoAssinatura(char A, long B);
-
 
 //Assinatura Diferente: ordem diferente
 public String EntendendoAssinatura(int A, char B);
@@ -539,9 +518,7 @@ animal! Que relacionamento é esse "é um"? Herança! Portanto as classes gato e
 serão
 classes filhas da superclasse Animal. Observem abaixo que ambas implementam o método
 
-
 , 44
-
 
 abstract void som( ), porém cada uma a sua maneira, visto que gatos e cachorros
 emitem sons
@@ -578,11 +555,9 @@ Como o compilador saberá qual deve ser chamado? Ele não saberá - tem que ser 
 tempo de
 execução. No primeiro momento, ele apresentará "MIAU!", porque animal é nesse instante um
 
-
 / 44
 
 /
-
 
 gato. Depois fazemos outra atribuição e ele apresentará "AUAU", porque animal naquele
 instante
@@ -621,7 +596,6 @@ x.soma(20,20); //Mesmo nome, mas assinatura diferente (2 valores)
 
 }
 
-
 Java: Herança
 
 Herança é a habilidade de se derivar alguma coisa específica a partir de algo mais
@@ -651,9 +625,7 @@ exemplo,
 herda da categoria Carro (e somente dela, diretamente). Em contraste, a Herança
 Múltipla permite
 
-
 /
-
 
 que uma entidade herde diretamente comportamentos e estados de duas ou mais categorias
 ao
@@ -696,7 +668,6 @@ classes já
 existentes e comprovadamente funcionais (livres de erros e já testadas) são
 reaproveitadas (ou
 reutilizadas). A sintaxe que expressa o conceito de extensão de classes é a seguinte:
-
 
 class NomeClasseFilha extends NomeClassePai {
 
@@ -749,17 +720,15 @@ variável pode assumir momentaneamente outro tipo para que o programador possa u
 
 Legal, galera! Vamos ver agora como são cobradas as questões de programação OO em Java!
 
-
 / 44
 
 /
-
 
 QUESTõES CoMENTADAS - PRoGRAMAçÃo ORIENTADA A
 
 OBJEToS - MULTIBANCAS
 
-Item. 1. (FUNCAB - 2010 - PRODAM-AM - Analista de TI - Desenvolvimento de Sistemas) Seja
+1. (FUNCAB - 2010 - PRODAM-AM - Analista de TI - Desenvolvimento de Sistemas) Seja
 a
 seguinte classe Java:
 
@@ -785,7 +754,7 @@ final class Carro {...}
 
 Conforme vimos em aula, trata-se do Final. Gabarito: D
 
-Item. 2. (CESGRANRIO - 2012 - Petrobrás - Técnico de Exploração de Petróleo
+2. (CESGRANRIO - 2012 - Petrobrás - Técnico de Exploração de Petróleo
 Júnior -
 Informática) Ao escrever o código da Classe PortaDeCofre em Java para que ela atenda
 a interface Porta, como um programador deve começar a declaração da classe?
@@ -807,13 +776,11 @@ public class Teste implements FiguraGeometrica
 
 Conforme vimos em aula, utilizamos a palavra-reservada implements. Gabarito: E
 
-
 / 44
 
 /
 
-
-Item. 3. (ESAF - 2008 - CGU - Tecnologia da Informação) Com relação a essa característica, é
+3. (ESAF - 2008 - CGU - Tecnologia da Informação) Com relação a essa característica, é
 correto afirmar que:
 
 a) métodos declarados como public em uma superclasse, quando herdados,
@@ -843,7 +810,7 @@ por quaisquer métodos de quaisquer classes ou pacotes; (e) Não, eles podem ser
 acessados pela
 própria classe, pelas subclasses e pelas classes do mesmo pacote. Gabarito: B
 
-Item. 4. (FGV - 2015 - PGE/RO - Analista de Sistemas) Na linguagem de programação Java,
+4. (FGV - 2015 - PGE/RO - Analista de Sistemas) Na linguagem de programação Java,
 para
 indicar que uma classe A é derivada de B, utiliza-se, na declaração de A, o modificador:
 
@@ -869,7 +836,7 @@ não acessa
 
 Conforme vimos em aula, trata-se do extends. Gabarito: B
 
-Item. 5. (FGV- 2014 -TJ/GO- Analista de Sistemas) Se uma classe na linguagem Java é
+5. (FGV- 2014 -TJ/GO- Analista de Sistemas) Se uma classe na linguagem Java é
 declarada
 com o modificador abstract, então essa classe:
 
@@ -877,11 +844,9 @@ a) não pode ser referenciada;
 
 b) não pode ser estendida;
 
-
 / 44
 
 /
-
 
 c) não pode ser instanciada;
 
@@ -898,7 +863,7 @@ instanciada.
 
 Conforme vimos em aula, ela não pode ser instanciada. Gabarito: C
 
-Item. 6. (FGV - 2014 - TJ/GO - Analista de Sistemas) Na linguagem de programação Java, uma
+6. (FGV - 2014 - TJ/GO - Analista de Sistemas) Na linguagem de programação Java, uma
 classe declarada com o modificador final:
 
 a) não pode ser instanciada;
@@ -931,17 +896,15 @@ abstract class Carro {...}
 
 //Essa classe não pode ser estendida
 
-
 / 44
 
 /
-
 
 final class Carro {...}
 
 Conforme vimos em aula, ela não pode ser instanciada. Gabarito: B
 
-Item. 7. (FGV - 2015 - TJ/BA - Analista de Sistemas) Em Java, os métodos declarados sem
+7. (FGV - 2015 - TJ/BA - Analista de Sistemas) Em Java, os métodos declarados sem
 modificadores em uma interface são implicitamente:
 
 a) públicos e estáticos;
@@ -960,17 +923,15 @@ Galera, se o método é declarado sem modificador dentro de uma interface,
 então ele é
 implicitamente público e evidentemente abstrato. Gabarito: B
 
-
 / 44
 
 /
-
 
 QUESTõES CoMENTADAS - PRoGRAMAçÃo ORIENTADA A
 
 OBJEToS - FCC
 
-Item. 1. (FCC - 2009 - TJ-SE - Técnico Judiciário - Programação de Sistemas)
+1. (FCC - 2009 - TJ-SE - Técnico Judiciário - Programação de Sistemas)
 Um objeto é
 instanciado em Java por meio do operador:
 
@@ -1001,7 +962,7 @@ Conforme vimos em aula, trata-se da palavra-reservada new - lembrando que
 type não é um
 operador! Gabarito: C
 
-Item. 2. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da
+2. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da
 Informação)
 Uma classe Java pode ser instanciada por um comando, cuja sintaxe é:
 
@@ -1011,9 +972,7 @@ b) nome_Classe nome_Objeto = new nome_Classe();
 
 c) nome_Classe nomejnstancia = new nome_Objeto();
 
-
 , 44
-
 
 d) nomejnstancia nome_Objeto = new nome_lnstancia();
 
@@ -1039,7 +998,7 @@ classe que se deseja criar uma instância: Nome_Classe(). Por fim, ele atribui e
 novo objeto a
 uma variável NomejDbjeto pertencente a classe Nome_Classe. Gabarito: B
 
-Item. 3. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da
+3. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da
 Informação) A
 diretiva public é utilizada em Java para aplicar a encapsulação pública:
 
@@ -1067,7 +1026,7 @@ menos restritivo.
 
 Conforme vimos em aula, o public pode ser aplicado a atributos, métodos e classes. Gabarito: B
 
-Item. 4. (FCC - 2008 - TCE-AL - Programador) Em Java, para alterar a visibilidade do
+4. (FCC - 2008 - TCE-AL - Programador) Em Java, para alterar a visibilidade do
 elemento em
 que se aplica, entre outros, utiliza-se o modificador de acesso:
 
@@ -1077,11 +1036,9 @@ b) abstract.
 
 c) protected.
 
-
 / 44
 
 /
-
 
 d) volatile.
 
@@ -1101,7 +1058,7 @@ pacote.
 
 Apenas um desses é um Modificador de Acesso: protected. Gabarito: C
 
-Item. 5. (FCC - 2005 - TRE-MG - Técnico Judiciário - Programação de Sistemas) Os métodos
+5. (FCC - 2005 - TRE-MG - Técnico Judiciário - Programação de Sistemas) Os métodos
 Java
 que não retornam valores devem possuir no parâmetro tipo-de-retorno a palavra:
 
@@ -1119,7 +1076,7 @@ Comentários:
 
 Conforme vimos em aula, trata-se da palavra-reservada void. Gabarito: C
 
-Item. 6. (FCC - 2012 - MPE-AP - Analista Ministerial - Tecnologia da Informação) Analise
+6. (FCC - 2012 - MPE-AP - Analista Ministerial - Tecnologia da Informação) Analise
 o código
 das classes a seguir presentes em um mesmo pacote de um projeto Java:
 
@@ -1134,11 +1091,9 @@ public double calcular(double x, double y) {
 
 x'
 
-
 / 44
 
 /
-
 
 return x * y;
 
@@ -1196,7 +1151,7 @@ a variável de uma classe-pai; (d) Não, isso é sobrecarga; (e) Perfeito, ela h
 tudo da classe-pai.
 Gabarito: E
 
-Item. 7. (FCC - 2012 - TRE-CE - Técnico Judiciário - Programação de Sistemas) Com relação
+7. (FCC - 2012 - TRE-CE - Técnico Judiciário - Programação de Sistemas) Com relação
 a
 herança na programação orientada a objetos com Java, é INCORRETO afirmar:
 
@@ -1204,11 +1159,9 @@ a) Uma subclasse herda os métodos da superclasse, entretanto, pode ter seus
 próprios
 métodos.
 
-
 / 44
 
 /
-
 
 b) Quando se instancia um objeto da subclasse, podem ser passados valores para os
 atributos
@@ -1230,7 +1183,7 @@ Perfeito, eles são herdados da superclasse; (d) Não, super é utilizado para a
 métodos da
 superclasse; (e) Perfeito, esse operador indica que a superclasse será estendida. Gabarito: D
 
-Item. 8. (FCC - 2011 - TRT - 4a REGIÃO (RS) - Técnico Judiciário - Tecnologia da
+8. (FCC - 2011 - TRT - 4a REGIÃO (RS) - Técnico Judiciário - Tecnologia da
 Informação) No
 ambiente de programação Java:
 
@@ -1262,7 +1215,7 @@ abstratos; (d) Java não suporta herança múltipla; (e) Perfeito, absolutamente
 classes são
 filhas da Classe Object. Gabarito: E
 
-Item. 9. (FCC - 2008 - MPE-RS - Técnico em Informática - Área Sistemas) A função Java:
+9. (FCC - 2008 - MPE-RS - Técnico em Informática - Área Sistemas) A função Java:
 public boolean VerificarCPF (string CPF);
 
 representa um exemplo do conceito de:
@@ -1277,11 +1230,9 @@ d) encapsulamento.
 
 e) polimorfismo.
 
-
 / 44
 
 /
-
 
 Comentários:
 
@@ -1393,9 +1344,7 @@ b) sobrecarga de métodos.
 
 c) polimorfismo.
 
-
 /
-
 
 d) sobrescrita de construtores.
 
@@ -1484,11 +1433,9 @@ sobrecarga de
 métodos; é algo mais específico, é uma sobrecarga de construtores. Percebe? Dessa
 forma, eu
 
-
 / 44
 
 /
-
 
 recomendo não brigar com a banca e marcar a opção que não gera dúvidas.
 Agora... se for
@@ -1552,17 +1499,15 @@ Conforme vimos em aula, trata-se da segunda opção! Gabarito: B
 
 x'"'
 
-
 / 44
 
 /
-
 
 QUESTõES CoMENTADAS - PRoGRAMAçÃo ORIENTADA A
 
 OBJEToS - CEBRASPE
 
-Item. 1. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Análise de Sistemas) Em
+1. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Análise de Sistemas) Em
 Java,
 para toda classe, método e variável de instância que se declara há um controle de
 acesso,
@@ -1576,7 +1521,7 @@ explicitamente indicado"? Porque quando não se indica o modificador de acesso, 
 que
 é Pacote ou Default. Gabarito: C
 
-Item. 2. (CESPE - 2012 - MPE-PI - Analista Ministerial - Informática - Cargo 6) Em Java,
+2. (CESPE - 2012 - MPE-PI - Analista Ministerial - Informática - Cargo 6) Em Java,
 qualquer
 método de uma classe pode ser sobrescrito por métodos de outra classe.
 
@@ -1595,11 +1540,9 @@ static int soma (int a, int b) {//...//}
 //Indica que esse método foi escrito outra linguagem
 native int soma (int a, int b) {//...//}
 
-
 / 44
 
 /
-
 
 //Indica que esse método só é executável por uma thread por vez
 synchronized soma (int a, int b) {//...//}
@@ -1609,7 +1552,7 @@ outra classe.
 
 Gabarito: E
 
-Item. 3. (CESPE - 2011 - TRE-ES - Técnico - Programação de Sistemas -
+3. (CESPE - 2011 - TRE-ES - Técnico - Programação de Sistemas -
 Específicos) O
 encapsulamento em Java somente pode ser realizado por meio do modificador de acesso
 protegido.
@@ -1618,7 +1561,7 @@ Comentários:
 
 Não, pode ser Público, Privado, Protegido ou Padrão. Gabarito: E
 
-Item. 4. (CESPE - 2009 - ANAC - Analista Administrativo - Tecnologia da Informação) Pelo
+4. (CESPE - 2009 - ANAC - Analista Administrativo - Tecnologia da Informação) Pelo
 uso de
 polimorfismo, uma chamada de método pode fazer que diferentes ações
 ocorram,
@@ -1640,7 +1583,7 @@ Conforme vimos em aula, dependendo do tipo de objeto (se é da Classe-Pai ou da
 Classe-Filho),
 ações diferentes podem ocorrer. Gabarito: C
 
-Item. 5. (CESPE - 2009 - TRT - 17a Região (ES) - Técnico Judiciário - Tecnologia da
+5. (CESPE - 2009 - TRT - 17a Região (ES) - Técnico Judiciário - Tecnologia da
 Informação) Ao
 contrário dos tipos primitivos que não são objetos, os tipos de objetos são
 determinados
@@ -1648,15 +1591,13 @@ pela classe de origem.
 
 Comentários:
 
-
 / 44
 
 /
 
-
 Perfeito, perfeito, perfeito! Gabarito: C
 
-Item. 6. (CESPE - 2009 - TRT - 17a Região (ES) - Técnico Judiciário - Tecnologia da
+6. (CESPE - 2009 - TRT - 17a Região (ES) - Técnico Judiciário - Tecnologia da
 Informação)
 Uma classe final indica uma classe que não pode ser estendida. Um método final não
 pode
@@ -1674,7 +1615,7 @@ Conforme vimos em aula, a classe final não pode ter filhos e Método Final
 não pode ser
 sobrescrita. Gabarito: C
 
-Item. 7. (CESPE - 2008 - TRT - 5a Região (BA) - Técnico Judiciário - Tecnologia da
+7. (CESPE - 2008 - TRT - 5a Região (BA) - Técnico Judiciário - Tecnologia da
 Informação) Em
 Java, os métodos public de uma classe são utilizados pelos clientes da
 classe para
@@ -1694,17 +1635,15 @@ menos restritivo.
 
 Perfeito, são públicos para toda e qualquer classe. Gabarito: C
 
-
 / 44
 
 /
-
 
 LISTA DE QUESTõES - PRoGRAMAçÃo ORIENTADA A
 
 OBJEToS - MULTIBANCAS
 
-Item. 1. (FUNCAB - 2010 - PRODAM-AM - Analista de TI - Desenvolvimento de Sistemas) Seja
+1. (FUNCAB - 2010 - PRODAM-AM - Analista de TI - Desenvolvimento de Sistemas) Seja
 a
 seguinte classe Java:
 
@@ -1723,7 +1662,7 @@ c) abstract
 d) final
 e) virtual
 
-Item. 2. (CESGRANRIO - 2012 - Petrobrás - Técnico de Exploração de Petróleo
+2. (CESGRANRIO - 2012 - Petrobrás - Técnico de Exploração de Petróleo
 Júnior -
 Informática) Ao escrever o código da Classe PortaDeCofre em Java para que ela atenda
 a interface Porta, como um programador deve começar a declaração da classe?
@@ -1738,7 +1677,7 @@ d) public class PortaDeCofre extends Porta {
 
 e) public class PortaDeCofre implements Porta {
 
-Item. 3. (ESAF - 2008 - CGU - Tecnologia da Informação) Com relação a essa
+3. (ESAF - 2008 - CGU - Tecnologia da Informação) Com relação a essa
 característica, é
 correto afirmar que:
 
@@ -1759,13 +1698,11 @@ e) métodos declarados como default só podem ser acessados a partir dos método
 própria
 classe.
 
-
 / 44
 
 /
 
-
-Item. 4. (FGV - 2015 - PGE/RO - Analista de Sistemas) Na linguagem de programação Java, para
+4. (FGV - 2015 - PGE/RO - Analista de Sistemas) Na linguagem de programação Java, para
 indicar que uma classe A é derivada de B, utiliza-se, na declaração de A, o modificador:
 
 a) imports;
@@ -1778,7 +1715,7 @@ d) subclass;
 
 e) superclass.
 
-Item. 5. (FGV- 2014 - TJ/GO - Analista de Sistemas) Se uma classe na linguagem Java é declarada
+5. (FGV- 2014 - TJ/GO - Analista de Sistemas) Se uma classe na linguagem Java é declarada
 com o modificador abstract, então essa classe:
 
 a) não pode ser referenciada;
@@ -1791,7 +1728,7 @@ d) pode ser instanciada apenas uma vez;
 
 e) não pode possuir métodos estáticos.
 
-Item. 6. (FGV - 2014 - TJ/GO - Analista de Sistemas) Na linguagem de programação Java, uma
+6. (FGV - 2014 - TJ/GO - Analista de Sistemas) Na linguagem de programação Java, uma
 classe declarada com o modificador final:
 
 a) não pode ser instanciada;
@@ -1804,7 +1741,7 @@ d) não pode ter métodos estáticos;
 
 e) não pode ter métodos de instância.
 
-Item. 7. (FGV - 2015 - TJ/BA - Analista de Sistemas) Em Java, os métodos declarados sem
+7. (FGV - 2015 - TJ/BA - Analista de Sistemas) Em Java, os métodos declarados sem
 modificadores em uma interface são implicitamente:
 
 a) públicos e estáticos;
@@ -1817,40 +1754,35 @@ d) públicos e finais;
 
 e) privados e abstratos.
 
-
 / 44
 
 /
-
 
 GABARITo
 
 GABARITO
 
+1. D
 
-Item. 1. D
+2. E
 
-Item. 2. E
+3. B
 
-Item. 3. B
+4. B
 
-Item. 4. B
+5. C
 
-Item. 5. C
+6. B
 
-Item. 6. B
-
-Item. 7. B
-
+7. B
 
 ,
-
 
 LISTA DE QUESTõES - PRoGRAMAçÃo ORIENTADA A
 
 OBJEToS - FCC
 
-Item. 1. (FCC - 2009 - TJ-SE - Técnico Judiciário - Programação de Sistemas) Um objeto é
+1. (FCC - 2009 - TJ-SE - Técnico Judiciário - Programação de Sistemas) Um objeto é
 instanciado em Java por meio do operador:
 
 a) instanceof.
@@ -1863,7 +1795,7 @@ d) this.
 
 e) type.
 
-Item. 2. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação)
+2. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação)
 Uma classe Java pode ser instanciada por um comando, cuja sintaxe é:
 
 a) nome_Objeto nome_Classe = new nome_Objeto();
@@ -1876,7 +1808,7 @@ d) nomejnstancia nome_Objeto = new nomejnstancia();
 
 e) nomejnstancia nome_Classe = new nomeJnstanciaQ;
 
-Item. 3. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação) A
+3. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação) A
 diretiva public é utilizada em Java para aplicar a encapsulação pública:
 
 a) aos métodos e classes, apenas.
@@ -1889,7 +1821,7 @@ d) aos atributos, apenas.
 
 e) aos atributos e classes, apenas.
 
-Item. 4. (FCC - 2008 - TCE-AL - Programador) Em Java, para alterar a visibilidade do elemento em
+4. (FCC - 2008 - TCE-AL - Programador) Em Java, para alterar a visibilidade do elemento em
 que se aplica, entre outros, utiliza-se o modificador de acesso:
 
 a) static.
@@ -1902,13 +1834,11 @@ d) volatile.
 
 e) transient.
 
-
 / 44
 
 /
 
-
-Item. 5. (FCC - 2005 - TRE-MG - Técnico Judiciário - Programação de Sistemas) Os métodos Java
+5. (FCC - 2005 - TRE-MG - Técnico Judiciário - Programação de Sistemas) Os métodos Java
 que não retornam valores devem possuir no parâmetro tipo-de-retorno a palavra:
 
 a) static.
@@ -1921,7 +1851,7 @@ d) main.
 
 e) string args.
 
-Item. 6. (FCC - 2012 - MPE-AP - Analista Ministerial - Tecnologia da Informação) Analise o código
+6. (FCC - 2012 - MPE-AP - Analista Ministerial - Tecnologia da Informação) Analise o código
 das classes a seguir presentes em um mesmo pacote de um projeto Java:
 
 public class NewClassA {
@@ -1954,11 +1884,9 @@ a) No método main da classe Start não é possível instanciar objetos das clas
 NewClassA e
 NewClassB, pois essas classes não contêm um construtor válido.
 
-
 / 44
 
 /
-
 
 b) Se for digitada a instrução NewClassB c = new NewClassA(); no método main da
 classe Start
@@ -1978,7 +1906,7 @@ e) Por meio de um objeto da NewClassB será possível acessar os métodos
 presentes na
 NewClassA.
 
-Item. 7. (FCC - 2012 - TRE-CE - Técnico Judiciário - Programação de Sistemas) Com relação a
+7. (FCC - 2012 - TRE-CE - Técnico Judiciário - Programação de Sistemas) Com relação a
 herança na programação orientada a objetos com Java, é INCORRETO afirmar:
 
 a) Uma subclasse herda os métodos da superclasse, entretanto, pode ter seus
@@ -1997,7 +1925,7 @@ e) Para definir que a subclasse herda as características da superclasse utiliza
 instrução
 extends na declaração da subclasse.
 
-Item. 8. (FCC - 2011 - TRT - 4a REGIÃO (RS) - Técnico Judiciário - Tecnologia da Informação) No
+8. (FCC - 2011 - TRT - 4a REGIÃO (RS) - Técnico Judiciário - Tecnologia da Informação) No
 ambiente de programação Java:
 
 a) uma classe abstrata permite apenas métodos abstratos.
@@ -2012,7 +1940,7 @@ d) a herança múltipla permite que mais classes sejam estendidas.
 
 e) toda classe é uma subclasse direta ou indireta da classe Object.
 
-Item. 9. (FCC - 2008 - MPE-RS - Técnico em Informática - Área Sistemas) A função Java:
+9. (FCC - 2008 - MPE-RS - Técnico em Informática - Área Sistemas) A função Java:
 
 public boolean VerificarCPF (string CPF);
 
@@ -2024,11 +1952,9 @@ b) overload.
 
 c) herança.
 
-
 / 44
 
 /
-
 
 d) encapsulamento.
 
@@ -2124,7 +2050,6 @@ s = f.calcularSalario();
 
 System.out.println(s);
 
-
 As linhas que contêm a instrução s = f.calcularSalario( ); demonstram um conceito da
 orientação a objetos conhecido como:
 
@@ -2138,7 +2063,7 @@ d) sobrescrita de construtores.
 
 e) métodos abstratos.
 
-Item. 11. (FCC - 2010 - AL-SP - Agente Legislativo de Serviços Técnicos e Administrativos -
+11. (FCC - 2010 - AL-SP - Agente Legislativo de Serviços Técnicos e Administrativos -
 Processamento de Dados) Métodos estáticos em Java são aqueles que:
 
 a) realizam alguma tarefa que é dependente do conteúdo de algum objeto.
@@ -2153,7 +2078,7 @@ d) são acessados por objetos que não necessitam de ser instanciados explicitam
 
 e) existem em subclasses de uma herança.
 
-Item. 12. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação)
+12. (FCC - 2009 - TRT - 16a REGIÃO (MA) - Técnico Judiciário - Tecnologia da Informação)
 Uma classe Java pode ser instanciada por um comando, cuja sintaxe é:
 
 a) nome_Objeto nome_Classe = new nome_Objeto();
@@ -2166,93 +2091,85 @@ d) nomejnstancia nome_Objeto = new nomejnstancia();
 
 e) nomejnstancia nome_Classe = new nomejnstancia();
 
-
 , 44
-
 
 GABARITo
 
 GABARITO
 
+1. c
 
-Item. 1. c
+2. B
 
-Item. 2. B
+3. B
 
-Item. 3. B
+4. C
 
-Item. 4. C
+5. C
 
-Item. 5. C
+6. E
 
-Item. 6. E
+7. D
 
-Item. 7. D
+8. E
 
-Item. 8. E
+9. D
 
-Item. 9. D
+10. C
 
-Item. 10. C
+11. C
 
-Item. 11. C
-
-Item. 12. B
-
+12. B
 
 ,
 
 /
 
-
 LISTA DE QUESTõES - PRoGRAMAçÃo ORIENTADA A
 
 OBJEToS - CEBRASPE
 
-Item. 1. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Análise de Sistemas)
+1. (CESPE - 2012 - Banco da Amazônia - Técnico Científico - Análise de Sistemas)
 Em Java,
 para toda classe, método e variável de instância que se declara há um controle de
 acesso,
 independentemente de o controle ser explicitamente indicado.
 
-Item. 2. (CESPE - 2012 - MPE-PI - Analista Ministerial - Informática - Cargo 6) Em Java,
+2. (CESPE - 2012 - MPE-PI - Analista Ministerial - Informática - Cargo 6) Em Java,
 qualquer
 método de uma classe pode ser sobrescrito por métodos de outra classe.
 
-Item. 3. (CESPE - 2011 - TRE-ES - Técnico - Programação de Sistemas
+3. (CESPE - 2011 - TRE-ES - Técnico - Programação de Sistemas
 - Específicos) O
 encapsulamento em Java somente pode ser realizado por meio do modificador de
 acesso
 protegido.
 
-Item. 4. (CESPE - 2009 - ANAC - Analista Administrativo - Tecnologia da Informação) Pelo
+4. (CESPE - 2009 - ANAC - Analista Administrativo - Tecnologia da Informação) Pelo
 uso de
 polimorfismo, uma chamada de método pode fazer que diferentes ações
 ocorram,
 dependendo do tipo do objeto que recebe a chamada.
 
-Item. 5. (CESPE - 2009 - TRT - 17a Região (ES) - Técnico Judiciário - Tecnologia da
+5. (CESPE - 2009 - TRT - 17a Região (ES) - Técnico Judiciário - Tecnologia da
 Informação) Ao
 contrário dos tipos primitivos que não são objetos, os tipos de objetos são
 determinados
 pela classe de origem.
 
-Item. 6. (CESPE - 2009 - TRT - 17a Região (ES) - Técnico Judiciário - Tecnologia da
+6. (CESPE - 2009 - TRT - 17a Região (ES) - Técnico Judiciário - Tecnologia da
 Informação)
 Uma classe final indica uma classe que não pode ser estendida. Um método final não
 pode
 ser redefinido em classes derivadas.
 
-Item. 7. (CESPE - 2008 - TRT - 5a Região (BA) - Técnico Judiciário - Tecnologia da
+7. (CESPE - 2008 - TRT - 5a Região (BA) - Técnico Judiciário - Tecnologia da
 Informação) Em
 Java, os métodos public de uma classe são utilizados pelos clientes
 da classe para
 manipular dados armazenados em objetos dessa classe.
 
-
 GABARITo
 
-
 /
-
 

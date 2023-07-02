@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Língua Inglesa.
-
+# Bizu Estratégico - Língua Inglesa.
 
 Fala, concurseiro(a)!
 
@@ -20,12 +19,10 @@ pelo professor da disciplina.
 
 Vamos que vamos!
 
-
 ANÁLISE ESTATÍSTICA
 
 Pessoal, conforme as últimas provas, vejamos a frequência com que a banca CEBRASPE vem
 exigindo os temas previstos dentro da ementa de Inglês:
-
 
 Inglês
 
@@ -78,7 +75,6 @@ Assunto Bizus Caderno de Questões
 
 Interpretação de textos e Cognatos 1 e2 http://questo.es/wis9ky
 
-
 Substantivos, Artigos, Pronomes,
 Preposições
 
@@ -90,17 +86,13 @@ Adjetivos, Advérbios e Afixos
 http://questo.es/p20hyy
 htt p ://q u esto. es/6 rvysw
 
-
 Tempos verbais
 
 11 http://questo.es/mx3rmn
 
-
 !0
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 INTERPRETAÇÃO DE TEXTOS E COGNATOS
 
@@ -122,7 +114,6 @@ questão.
 do texto.
 
 => Cuidado com os false friends (falsos cognatos). Exemplos:
-
 
 anthem
 cigar
@@ -170,12 +161,9 @@ verduras, legumes
 
 => No caso de palavras desconhecidas, analise o contexto.
 
-
 >0
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 => Reconhecer S+V+C (Sujeito + Verbo + Complemento) também pode te ajudar a
 interpretar as sentenças.
@@ -215,9 +203,7 @@ maioria dos alunos são os falsos cognatos: São também conhecidos como false f
 que você os reconheça pois por causa de um falso cognato pode-se perder uma questão,
 veja abaixo alguns dos falsos amigos que não são o que parecem ser:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Pretend = Fingir
 
@@ -242,7 +228,6 @@ Na verdade, todos no ônibus tiveram que sair/descer.
 
 A palavra que significa "atualmente" é currently e "êxito" é success.
 Segue um resumo dos principais falsos cognatos no quadro abaixo:
-
 
 Vocabulário
 
@@ -279,7 +264,6 @@ taxa
 fine
 financial penalty; well
 multa, multar; bem
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 goods
@@ -327,12 +311,9 @@ GRAMÁTICA (Substantivos, Artigos, Pronomes, Preposições)
 
 => Em perguntas com determinados verbos, inverte-se as posições do verbo e sujeito.
 
-
 >0
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 => Essa inversão também acontece quando há forma negativa de alguns
 verbos,
@@ -381,9 +362,7 @@ cama aos domingos);
 
 5) Pronomes (pronouns)
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jü
-
 
 => Os Pronomes Pessoais (Personal Pronouns) são divididos em Pronomes sujeito (Subject
 Pronouns), que são equivalentes aos pronomes do caso reto em Português e Pronomes
@@ -403,9 +382,7 @@ significa
 importantes
 e sempre estão presentes em provas.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Possessive Adjectives Possessive Pronouns
 
@@ -431,9 +408,7 @@ That - aquele, aquela, aquilo Those - aqueles, aquelas
 
 This - este, esta, isto These - estes, estas
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Pronomes Indefinidos Pessoais Tradução
 anyone - anybody alguém, qualquer pessoa
@@ -467,9 +442,7 @@ during durante
 next to ao lado de, perto de
 past após, depois, além de
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 6) Preposições (prepositions)
 
@@ -508,9 +481,7 @@ inteligente quanto John).
 
 Superioridade:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 * Palavras curtas: adjetivo + ER ou IER + than. The water is colder than yesterday. (A
 água está mais fria que ontem). This test is easier than the last one. (Essa prova
@@ -544,7 +515,6 @@ Afirmação Certainly/surely (certamente)
 
 Dúvida Probably (provavelmente), maybe/peharps (talvez)
 
-
 Frequência
 
 Always (sempre), never (nunca), daily (diariamente), often
@@ -556,9 +526,7 @@ Interrogação Why (por que), where (onde), how (como), when (quando)
 
 Lugar Nowhere (em lugar algum), above (acima), below (abaixo)
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Modo Carefully (cuidadosamente), badly (pessimamente), hardly (dificilmente).
 
@@ -605,9 +573,7 @@ His decision was unfair and unacceptable.
 
 A decisão dele foi injusta e inaceitável.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 The unwanted approval of men is exhausting to deal with. (The Guardian)
 A aprovação indesejada de homens é algo cansativo de se lidar.
@@ -650,9 +616,7 @@ dos sufixos mais importantes:
 Existem vários casos em que o sufixo ING é usado. Compare os exemplos abaixo:
 Na função de verbo:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Ele é usado no tempo verbal que em Inglês se chama Present Participle, esse tempo
 inclui todos os Contínuos: Presente, Passado, Futuro e os demais. No exemplo abaixo
@@ -694,9 +658,7 @@ Ela era uma mulher trabalhadora.
 This is a very time-consuming task.
 Esta é uma tarefa muito demorada.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Vamos observar outros exemplos de como os sufixos modificam as palavras: a partir do
 verbo to photograph = fotografar, se adicionarmos o sufixo IC temos um
@@ -734,9 +696,7 @@ Inglesa. Ele transforma um adjetivo em substantivo abstrato. Observe alguns
 exemplos
 no quadro abaixo:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Outros Sufixos Importantes
 ABLE forma adjetivos: capable (capaz), teachable (educável)
@@ -777,9 +737,7 @@ OR, ER alguém que participa em: teacher (professor), actor (ator)
 
 => O tópico Interpretação de Textos é o mais abordado nas questões.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 => Outros assuntos importantes pedidos nas questões foram: tempos verbais, conectivos,
 adjetivos e sinônimos de palavras.
@@ -821,9 +779,7 @@ highlight destacar,
 realçar, enfatizar, destaque
 increase aumentar
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo JürTO
-
 
 learn aprender,
 ficar sabendo
@@ -858,7 +814,6 @@ increase go up
 learn memorize,
 ascertain
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 quarter 3 months, 15 minutes,
 fourth
@@ -883,5 +838,4 @@ mas
 continue em frente de qualquer jeito". (Martin Luther King)
 
 [O] @profíeomathias
-
 

@@ -1,6 +1,5 @@
-Capítulo. Língua Portuguesa - Resumo.
+# Língua Portuguesa - Resumo.
 Exclusivamente PDF
-
 
 Índice
 
@@ -33,12 +32,10 @@ Exclusivamente PDF
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 RESUMo
 k A * Terminados em A(s),E(s),O(éy. pá, três, pós
-
 
 Monossíla­
 bo Tônico
@@ -58,7 +55,6 @@ k A
 tórax, júri, lápis, vírus, bíceps, órfão
 
 *Terminadas em ditongo (Regra cobradíssima) Ex: Indivíduos,precárias, série, história,
-
 
 Paroxítona
 k A
@@ -90,9 +86,7 @@ Piauí, tuiuiú. Decore: Guaíba e Guaíra são acentuados.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
-
 
 NÃO HÁ HÍFEN
 
@@ -102,14 +96,12 @@ Antes de H
 
 HÁ HÍFEN
 
-
 Consoates diferentes
 Vogal + Consoante
 
 Vogal ou consoante igual
 
 Pré, pós, pro, recém, além, sem, ex, vice, aquém
-
 
 Após "não" e "quase"
 
@@ -149,7 +141,6 @@ contra-harmónico,
 extra-humano, pré-história, sub-hepático, super-homem, ultra-hiperbólico, geo-história, neo-
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 helénico, pan-helenismo, semi-hospitalar
 
@@ -220,7 +211,6 @@ Porque: conjunção explicativa ou causal, ou seja, introduz uma explicação ou
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 anterior. Ex.: Estudo porque sei que minha hora vai chegar.
@@ -254,7 +244,6 @@ Ex.: Por que estudas?
 
 - Indireta: sem ponto de interrogação.
 Ex.: Gostaria de saber por que estudas.
-
 
 POR QUE
 
@@ -298,7 +287,6 @@ confusão.
 Se fez isso, deve ter algum porquê.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A par x Ao par
 
@@ -369,7 +357,6 @@ expectativas.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 "Senão x Se não"
 
 A diferença entre "Senão x Se não" comporta diversas situações. Verifique sempre se o
@@ -413,9 +400,7 @@ e usar também o "se não", separado.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
-
 
 Substantivos
 
@@ -466,7 +451,6 @@ Cantar => canto; Almoçar => almoço; Causar => causa...
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Adjetivos
@@ -478,7 +462,6 @@ também ser predicativo.
 Os adjetivos podem ter valor subjetivo, quando expressam opinião; ou podem ter valor objetive,
 quando
 atestam qualidade que é fato e não depende de interpretação.
-
 
 Adjetivos opinativos X
 
@@ -509,7 +492,6 @@ Ex: alemão comunista x comunista alemão
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Pronomes
@@ -518,7 +500,6 @@ Pronomes Pessoais:
 
 PESSoAS Do DISCURSo PRoNoMES REToS
 PRoNoMES OBLÍQUoS
-
 
 15 pessoa do singular
 2^ pessoa do singular
@@ -531,7 +512,6 @@ Ele/Ela
 me, mim, comigo
 te, ti, contigo
 se, si, 0, a, lhe, consigo
-
 
 15 pessoa do plural
 25 pessoa do plural
@@ -593,7 +573,6 @@ Já temos aliados bastantes
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 X
@@ -643,7 +622,6 @@ Pronomes relativos
 
 VARIÁVEIS INVARIÁVEIS
 
-
 MASCULINOS
 
 FEMININOS
@@ -651,7 +629,6 @@ FEMININOS
 quem
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 o qual (os quais)
 cujo (cujos)
@@ -713,7 +690,6 @@ Ex: Na porto hovio um policial parado. Assim que me viu, o policial sacou sua ar
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 0 artigo definido, na linguagem mais moderna, também é um recurso de adjetivação, por meio de um
@@ -731,7 +707,6 @@ dos verbos.
 Palavras denotativas: muitas vezes são tratadas como advérbio. A retirada das "expletivas" ou de
 "realce"
 não causa prejuízo sintático.
-
 
 PALAVRAS W
 
@@ -774,7 +749,6 @@ Todos podem, menos o
 preguiçoso.
 
 Só Carolina não viu.
-
 
 < s
 
@@ -828,7 +802,6 @@ Fracionários: um terço, dois terços, quatro vinte avos...
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Multiplicativos: o dobro, o triplo, cabine dupla, duplo carpado...
@@ -844,16 +817,13 @@ Olá! Obo! Nosso! Cruzes! Ai! Ui! Ah! Putz! Oxolá! Tomoro! Pudero! Tchau!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -905,11 +875,9 @@ z Ex: Não sou de Campinas, (origem)
 
 oo SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 / 69
 
 /
-
 
 - Exclusivamente PDF
 
@@ -945,14 +913,12 @@ principal.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Obs: o "mas" é uma conjunção adversativa que não pode ser deslocada. Ele inicia a oração
 adversativa.
 
 As conjunções subordinativas são aquelas que unem uma oração a outra, chamada de principal.
-
 
 Finais
 I Temporais
@@ -974,7 +940,6 @@ que, a não ser que
 Ainda que, apesar de que, embora, mesmo que, por mais
 que, se bem que, por pouco que, em que pese
 
-
 Conformativas
 Comparativas
 Causais
@@ -991,13 +956,11 @@ i Consecutivas Tal... que, tanto... que, tão... que, de modo que
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Aqui, segue uma sistematização das conjunções que podem aparecer com mais de um sentido.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -1008,7 +971,6 @@ Esse exercício é
 fundamental para ganhar tempo e confiança na hora da prova.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -1022,7 +984,6 @@ r n
 
 Causais
 
-
 Que Se
 
 "T
@@ -1035,26 +996,21 @@ Temporais
 
 Proporcionais
 
-
 Condicionais
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
-
 
 Presente do indicativo
 
 RESUMo
-
 
 "Hoje eu
 
 Hoje eu corro/hoje começa/hoje nasce...
 
 Levantar Beber Cair
-
 
 Eu
 Tu
@@ -1139,7 +1095,6 @@ presente. Ex.: Tenho levantado cedo todos os dias ultimamente.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Pretérito imperfeito do indicativo
@@ -1179,7 +1134,6 @@ porém foi
 tudo cancelado. / Quando eu pretendia avisar, já era tarde demais.
 
 Pretérito mais-que-perfeito do indicativo
-
 
 Eu
 Tu
@@ -1244,9 +1198,7 @@ cairemos
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
-
 
 Vós
 Eles
@@ -1327,7 +1279,6 @@ Observe a diferença entre o uso do modo indicativo e do modo subjuntivo:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Alunos que estudam passam mais rápido. (indicativo>certeza)
@@ -1370,7 +1321,6 @@ Muito utilizado correlacionado ao fut. do presente (-ei/á). Ex.: Quando eu pude
 souber,
 dirá.
 
-
 Eu
 Tu
 Ele
@@ -1410,7 +1360,6 @@ o produto.
 ATENTO1
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -1483,7 +1432,6 @@ Aqui veremos verbos que servem de "modelo" e os que derivam (ou não) deles.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Verbos terminados em EAR/IAR
 
 Os verbos terminados em IAR são regulares. Siga o verbo "criar".
@@ -1512,7 +1460,6 @@ Verbos excepcionais (exceções MARIO!)
 Mediar
 Ansiar
 
-
 Remediar
 ncendiar/intermediar
 Odiar
@@ -1520,7 +1467,6 @@ Odiar
 Por exceção, se conjugam como passear/odiar.
 
 (Acostume-se: medeio, anseio, remedeio, incendeio, odeio).
-
 
 Provir
 ntervir
@@ -1552,7 +1498,6 @@ Memorize (futuro do subjuntivo do verbo ver): Quando... eu vir; tu vires; ele vi
 nós virmos; vós virdes; eles
 virem.
 
-
 Ver, ter e
 
 Prever
@@ -1566,7 +1511,6 @@ Entrever
 Se conjugam como ver
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -1614,7 +1558,6 @@ Supor
 Compor
 Repor
 
-
 Opor
 Transpor
 nterpor
@@ -1626,14 +1569,12 @@ Se conjugam como Pôr.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Verbo Aderir e similares
 
 Polir >
 Aderir
-
 
 Repelir
 Transferir
@@ -1687,7 +1628,6 @@ requerera,
 requerêramos, requerêreis, requereram.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -1749,7 +1689,6 @@ Ex.: Viver é perigoso (viver = está em forma nominal, não conjugada, como suj
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Infinitivo pessoal x impessoal
@@ -1808,7 +1747,6 @@ ter diversas terminações. Isso sempre gera muita dúvida no dia a dia e nas pr
 Segue uma pequena lista
 deles.
 
-
 INFINITIVO
 
 Aceitar
@@ -1835,9 +1773,7 @@ Correto
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
-
 
 Encher
 Entregar
@@ -1922,7 +1858,6 @@ S Vi que você trouxe um presente.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 "S Sugiro que procure um psiquiatra.
@@ -1975,7 +1910,6 @@ Vejam abaixo algumas diferenciações muito importantes para sua prova:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 À
@@ -2007,7 +1941,6 @@ VTI,
 VI+SE
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -2061,7 +1994,6 @@ com ele.
 Ex.: Deve haver mil pessoas aqui.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -2123,7 +2055,6 @@ de fome (adjunto adverbial de causa)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 aqui (adjunto adverbial de lugar)
@@ -2177,13 +2108,11 @@ Não se espera que o governo resolva tudo sozinho. (A oração destacada é SUJE
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Vejam abaixo algumas diferenciações muito importantes para sua prova:
 
 k
-
 
 À VOZ PASSIVA:
 
@@ -2205,7 +2134,6 @@ TER/HAVER+PARTICÍPIO:
 1 F
 
 Agente da Passiva
-
 
 Ex: Eu comprei
 Sujeito Verbo
@@ -2251,7 +2179,6 @@ complemento nominal
 oracional de "necessidade")
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -2302,13 +2229,11 @@ nominal é
 
 Adjunto Adnominal x Complemento Nominal
 
-
 Não é exigido pelo nome (ex.: "mulher de
 branco")
 
 É exigido pelo nome (ex.: "obediência aos
 pais")
-
 
 Substituível por adjetivo perfeitamente
 equivalente
@@ -2336,9 +2261,7 @@ Complemento Nominal.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
-
 
 Nem sempre preposicionado. Qualquer
 preposição, inclusive de pode indicar adjunto
@@ -2411,7 +2334,6 @@ Conjunção integrante: Quero que você se exploda! (quero ISTO)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Oração E Período
@@ -2443,7 +2365,6 @@ esqueecidco meu celular, 4porque eu tinha Ideixado em cima da mesa e 5nem lembre
 Apesar de ter esse
 contraXteempo, 2cheguei ao trabalho no horário. Sou sortudo mais ou nã
 
-
 Primeiro período
 Frase nominal
 Sem verbo
@@ -2457,7 +2378,6 @@ que é "sem tomar café".
 
 QuartcFPeríodo, Quinto período,
 
-
 2 orações,
 
 unidas por subordinação
@@ -2468,7 +2388,6 @@ período simples
 Vejamos agora como as ligações nos períodos compostos se relacionam. Segue abaixo um
 período composto
 por coordenação e subordinação:
-
 
 1 Acordei atrasado para o trabalho e 2saí
 
@@ -2494,7 +2413,6 @@ como um adjunto
 adverbial do verbo "saí", modificando-o.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex: Acordei atrasado para o trabalho, (sentido completo)
 
@@ -2524,7 +2442,6 @@ Ex: Apesar de ter esse contratempo... (sem sentido; fragmento; falta algo...}
 Período Misto:
 
 Tem orações subordinadas e coordenadas, misturadas.
-
 
 ^ssim que saí, 2percebi
 5nem lembrei...
@@ -2564,7 +2481,6 @@ Ex: Estudei pouco, não obstante passei no concurso.
 Orações coordenadas alternativas, introduzidas pelas conjunções ou pares correlatos ou, ou... ou,
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "
 
@@ -2636,7 +2552,6 @@ Quero [ISTO]
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Quem quer, quer algo. A oração tem função de objeto direto.
 
 Detalhe!!! 0 "se" também pode ser conjunção integrante. Veja:
@@ -2669,7 +2584,6 @@ pode ser separada por
 pontuação.
 
 Orações subordinadas adjetivas:
-
 
 Funcionam como um adjetivo (menino que estuda = menino estudioso). São
 introduzidas por pronomes
@@ -2704,7 +2618,6 @@ Por não ter conector, é chamada "assindética".
 Está reduzida de infinitivo.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -2765,7 +2678,6 @@ X Tinha emprestado-lhe um dinheiro.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Dar-te-ei um presente.
@@ -2781,7 +2693,6 @@ auxiliar, quando, na
 verdade, ele só pode estar no meio por estar em próclise ao verbo principal.
 
 Ex: Eu lhe estou emprestando dinheiro.
-
 
 Ex: Eu estou lhe emprestando dinheiro.
 Ex: Eu estou-lhe emprestando dinheiro.
@@ -2800,7 +2711,6 @@ estaria em ênclise
 com palavra atrativa obrigando próclise)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -2854,9 +2764,7 @@ verbo (ação) é praticado Vou jogar, em casa, xadrez até a madrugada.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
-
 
 Enumerar termos repetidos
 ou de mesma função sintática
@@ -2892,7 +2800,6 @@ novo.
 
 Ela amava intensamente, mas por pouco
 tempo.
-
 
 Separar expressões
 explicativas, retificativas e
@@ -2940,7 +2847,6 @@ Títulos relevantes, não ganhei nenhum deles.
 
 Ares, o deus da guerra, inspirava os troianos.
 
-
 Separar o aposto
 
 Aposto: termo explicativo
@@ -2951,7 +2857,6 @@ O Presidente do Senado, Renan Calheiros,
 jurou ser inocente.
 
 Felipe, seja mais gentil com ela!
-
 
 Separar o vocativo
 
@@ -2982,7 +2887,6 @@ Ex.: Comprei alimentos saudáveis: carne, peixe, frango; frutas, legumes, verdur
 subgrupos: alimentos de origem animal e de origem vegetal.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -3026,7 +2930,6 @@ utilizada com uma "intenção especial", um provável sentido extra, diferente d
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 RESUMo
@@ -3037,13 +2940,11 @@ e trace uma seta até o sujeito.
 
 Sujeito formado por coletivos:
 
-
 CONCORDÂNCIA
 
 TIPO DE SUJEITO
 
 EXEMPLOS
-
 
 Coletivos ou partitivos especificados
 
@@ -3055,7 +2956,6 @@ entrou/entraram em greve
 
 A matilha de lobos
 atravessou/atravessaram a montanha.
-
 
 FACULTATIVA
 
@@ -3083,7 +2983,6 @@ Mundo.
 |Aquele milhão de brasileiros ficou
 revoltado.
 
-
 CONCORDÂNCIA
 COM O
 NUMERAL
@@ -3098,7 +2997,6 @@ Mais de dois clientes se queixaram.
 Menos de dois clientes se queixaram. /
 
 Cerca de mil pessoas se queixaram.
-
 
 CONCORDÂNCIA
 OBRIGATÓRIA
@@ -3126,7 +3024,6 @@ Mário e Heber viajaram/Viajaram Mário e Heber/Viajou Mário e Heber
 Sujeito indeterminado: Verbo no singular> PIS (VTI/VI + SE): Vive-se bem aqui. Trabalha-se muito.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -3200,7 +3097,6 @@ Fui eu que convidei você para a festa./Fomos nós que convidamos você para a f
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Em sujeitos modificados por pronome relativo "quem", o verbo deve concordar com o próprio "quem".
@@ -3262,13 +3158,11 @@ Anexo - Obrigado - Mesmo - Próprio - Incluso - Quite (variáveis)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 RESUMo
 
 Trata-se de saber qual a preposição certa exigida por um verbo ou nome. A banca
 gosta de cobrar aqueles
 verbos que têm dois sentidos, a depender da preposição:
-
 
 Precisar
 
@@ -3280,7 +3174,6 @@ _ Sorver: VTD
 
 Almejar: VTI
 (a)
-
 
 Preferir
 
@@ -3429,7 +3322,6 @@ Comparecemos A + a reuniâo> A reunião A QUE comparecemos foi produtiva.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Na segunda lacuna, temos que pensar no verbo Chegar. Quem chega chega "a" algum
@@ -3472,7 +3364,6 @@ hora, à altura de, à custa de, à espera de, à beira de, à espreita de, à b
 à moda de, à procura de, à
 roda de, à mercê de, à semelhança de... (obs.: "a máquina" já foi dado como certo)
 
-
 Locuções
 Femininas (à
 toa; à deriva; à
@@ -3494,7 +3385,6 @@ r Crase
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Palavra em
@@ -3503,9 +3393,7 @@ Facultativa
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
-
 
 Coerência
 
@@ -3532,7 +3420,6 @@ Coesão sequencial é responsável por estabelecer a "continuidade" lógica e
 estrutural de um texto,
 principalmente através de conectivos.
 
-
 Informação vem
 antes
 
@@ -3557,11 +3444,9 @@ localização é elemento externo ao texto, fora dele.)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -3617,7 +3502,6 @@ Comprimento x Cumprimento
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Descriminar x Discriminar
@@ -3672,9 +3556,7 @@ múltiplos sentidos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
-
 
 Homonímia
 
@@ -3700,7 +3582,6 @@ A
 *Vício de linguagem
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -3737,7 +3618,6 @@ linguagem
 impessoal,
 universal
 
-
 Dissertação
 Argumentativa
 
@@ -3756,7 +3636,6 @@ impessoal, universal,
 3a pessoa; forma
 estrurada
 
-
 Instruções,
 regras; Ensina
 procedimento
@@ -3772,7 +3651,6 @@ Manuais, lei,
 regulamento,
 tutoriai,
 receita, bula
-
 
 Caracterização,
 pormenorização estática
@@ -3790,7 +3668,6 @@ Estrutura do parágrafo argumentativo:
 Argumentativo/Opinativo: Convencer, defender uma opinião.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -3819,9 +3696,7 @@ observadas na passagem de uma fala literal para uma fala reportada.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
-
 
 Alteração na pontuação:
 
@@ -3840,7 +3715,6 @@ Aqui, aí, cá Ali, Lá
 Este, Isto Aquele, Aquilo
 
 Conversão dos tempos verbais:
-
 
 Presente do indicativo
 
@@ -3864,7 +3738,6 @@ futuro do pretérito do indicativo
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 Funções da Linguagem
@@ -3887,7 +3760,6 @@ K À r
 ruído
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 - Exclusivamente PDF
 
@@ -3925,7 +3797,6 @@ possibilidades.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 - Exclusivamente PDF
 
 O examinador parafraseia parte do texto, mas acrescenta um pouco da sua
@@ -3955,5 +3826,4 @@ tangenciamento ao
 tema.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

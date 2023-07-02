@@ -1,10 +1,8 @@
-Capítulo. Desenvolvimento de Informação - Linguagem R.
-
+# Desenvolvimento de Informação - Linguagem R.
 
 Índice
 
 1) Linguagem R - Teoria
-
 
 Linguagem R -Introdução
 
@@ -43,7 +41,6 @@ Exercícios
 ✓—
 
 THIAGO CAVALCANTI
-
 
 LINGUAGEM R - INTRoDUçÃo
 
@@ -138,7 +135,6 @@ processamento, visualização e análise de dados, bem como simulações e model
 estatísticas.
 Mas o que seria uma linguagem interpretada? Relaxa ... eu explico.
 
-
 INDO MAIS
 
 FUNDO!
@@ -158,7 +154,6 @@ geração de código realizadas por unidades do tradutor conhecidas como analisa
 léxico, analisador sintático (ou parser) e gerador de código. Vejamos esse fluxo em uma
 figura:
 
-
 Programa
 fonte
 
@@ -174,7 +169,6 @@ um programa escrito em linguagem de alto nível e o executa, ou seja, faz o que 
 programa diz. Ele processa o programa um pouco de cada vez, alternadamente: ora
 lendo algumas linhas, ora realizando computações.
 
-
 Código fonte
 independente do
 sistema operacional
@@ -182,7 +176,6 @@ atua cada vez que se
 executa o programa'
 
 resultado
-
 
 Como vantagens da linguagem interpretada podemos listar:
 
@@ -215,12 +208,10 @@ trabalho (esse do lado esquerdo!)
 A instalação padrão do R vem com uma interface gráfica para o usuário
 (Graphical User
 
-
 Interface - GUI). I«RGui(64R.bRGjtu)i (64-bit)
 
 File Edrt ViewNMoisWc iPnadcokawgses"Wl,einEddiot w"sicwHeelapcka9tt ^indows Help
 z □ 7X"
-
 
 voce encontrara
 o R no menu iniciare no Macvocê verá o
@@ -240,7 +231,6 @@ RStudio possui algumas vantagens em
 relação ao R Gui:
 
 l^lQll^lelolíõlíâ]
-
 
 TOME
 
@@ -270,15 +260,15 @@ Podemos dividira tela do RStudio em quatro grandes áreas:
 escrever
 seus Scripts. Ele possui code highlighting entre outras funcionalidades.
 
-Item. 2. Console: No canto inferior esquerdo fica o console. O console nada mais é do
+2. Console: No canto inferior esquerdo fica o console. O console nada mais é do
 que uma
 seção aberta de R, em que os comandos são executados.
 
-Item. 3. Área de trabalho e histórico: Ficam no canto superior direito. Os objetos criados
+3. Área de trabalho e histórico: Ficam no canto superior direito. Os objetos criados
 e o
 histórico dos comandos podem ser acessados ali.
 
-Item. 4. Arquivos, Gráficos, Pacotes, Ajuda: Ficam no canto inferior direito. Você pode
+4. Arquivos, Gráficos, Pacotes, Ajuda: Ficam no canto inferior direito. Você pode
 explorar
 pastas e arquivos diretamente do RStudio na aba "Files"; os gráficos que forem feitos
 apareceram na aba "Plots". Os pacotes instalados em sua máquina estão listados em
@@ -288,9 +278,7 @@ visualização de páginas em HTML e JavaScript.
 
 Essas áreas podem servistas na figura a seguir:
 
-
 O RStudio
-
 
 X
 
@@ -310,7 +298,6 @@ list *
 1 1
 1 Global
 Environment *
-
 
 1:1 (Top levei) :
 Console Terminei
@@ -343,7 +330,6 @@ sobre a
 linguagem sugiro o seguinte curso gratuito e on-line:
 
 https://livro.curso-r.com/
-
 
 TOME
 
@@ -394,7 +380,6 @@ n 1 1 1 r
 2 4 6 8 10
 
 Index
-
 
 Vamos fazer alguns exercícios para ver se você compreendeu tudo que vimos até aqui:
 
@@ -462,7 +447,6 @@ de computação, que pode ser compilada ou interpretada. Você deve se lembrar q
 uma
 linguagem INTERPRETADA.
 
-
 Os dados processados pelo nosso programa precisam ser armazenados em algum
 lugar, numa
 planilha Excel ou num banco de dados. Durante o processamento, vamos trazer os dados
@@ -519,7 +503,6 @@ Isso ocorre porque qualquer número também é considerado um vetor de um elemen
 Agora também podemos escrever o seguinte:
 
 > q <- c (x, x, 8)
-
 
 que define q como um vetor com os valores (1,2,4,1,2,4,8) (sim, incluindo os
 duplicados). Perceba
@@ -580,7 +563,6 @@ W 2,333333
 
 [1] 1.527525
 
-
 Isso demonstra, novamente, que a simples digitação de uma expressão no prompt
 (console) é
 suficiente para imprimir seu resultado. Na primeira linha, nossa expressão é
@@ -638,7 +620,6 @@ W 9i9,35
 
 [1] 169.2275
 
-
 Podemos também traçar um histograma dos dados:
 
 > hi st (Nilo)
@@ -674,7 +655,6 @@ alternativamente pressionando ctrl-D no Linux ou cmd-D em um Mac):
 
 Rq O
 
-
 Save workspace image? [y/n/c] : n
 
 Esse último prompt pergunta se você deseja salvar suas variáveis para que você possa
@@ -696,7 +676,6 @@ abaixo são listados alguns comandos para realizar buscas no R:
 TOME
 
 NOTA!
-
 
 Açào de Ajuda
 
@@ -724,12 +703,11 @@ ls ("package:base")
 Vejamos algumas questões sobre esses assuntos para você não avançar no
 conteúdo sem ter a certeza de que está aprendo tudo! ©
 
-
 HORA DE
 
 PRATICAR!
 
-Item. 2. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+2. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos comandos da linguagem R.
 
@@ -754,11 +732,9 @@ certas. Espero que você tenha percebido! :)
 
 2) Certa! Se usarmos o plot(Orange) ele vai exibir o seguinte resultado na aba Plots:
 
-
 o=
 
 C"J
-
 
 circumference
 o
@@ -779,7 +755,6 @@ seguinte mensagem de erro:
 Error in media(Ni1e) : could not find function "media"
 
 Gabarito: E C C E
-
 
 3) OBJEToS EM R
 
@@ -832,7 +807,6 @@ expressões, porém esses não representam dados. As funções mode() e lengthQ 
 tipo e
 tamanho de um objeto, respectivamente. Por exemplo:
 
-
 EXEMPLIFICANDO
 
 > x<-c(l,3,5,7,11)
@@ -871,7 +845,6 @@ Outra forma de descobrira classe de um objeto é usando a função class().
 El] "logical"
 
 A tabela abaixo sintetiza os objetos e seus possíveis atributos (tipos). Veja:
-
 
 Tabela 1 - Quando um objeto suporta tipos diferentes ele é chamado de heterogêneo, quando admite
 apenas objetos do mesmo tipo é
@@ -922,7 +895,6 @@ primeiro argumento
 repetido o número de vezes indicado pelo segundo argumento, o comando rep(l, 10) cria
 um
 vetor com io valores i.
-
 
 UMA VIAGEM PELO R
 
@@ -982,13 +954,11 @@ MASS agora está lá.
 
 > search()
 
-
 El] ".GlobalEnv" "package:MASS"
 E5] "package:graphics" "package:grDevices
 
 "tools:rstudio" "package:stats"
 "package:uti1s" "package:datasets
-
 
 [9] "package:methods" "Autoloads" "package:base"
 
@@ -1038,20 +1008,19 @@ Esses pacotes instalados via CRAN são pacotes de contribuições feitas por
 desenvolvedores da
 comunidade R.
 
-
 2) FUNçõES Do R-BASE
 
 Quando instalamos o R em nosso computador, programa R é composto de 3 partes básicas:
 
-Item. 1. O R-base, o "coração" do R que contém as funções principais disponíveis quando
+1. O R-base, o "coração" do R que contém as funções principais disponíveis quando
 iniciamos
 o programa,
 
-Item. 2. Os pacotes recomendados (recommended packages) que são instalados junto com o R-base
+2. Os pacotes recomendados (recommended packages) que são instalados junto com o R-base
 mas não são carregados quando iniciamos o programa. Por exemplo os pacotes MASS,
 lattice, nlme são pacotes recomendados - e há vários outros.
 
-Item. 3. Os pacotes de contribuição de usuários (contributed packages) não são instalados
+3. Os pacotes de contribuição de usuários (contributed packages) não são instalados
 junto com
 o R-base. Já vimos acima como resolver esse problema! ©
 
@@ -1107,7 +1076,6 @@ Warning: NAs introduzidos por coerção
 
 > as.numeric("1012312") # Faz sentido
 [1] 1012312
-
 
 lenght()
 
@@ -1168,7 +1136,6 @@ menos que seu objeto seja um data.frame com milhares de colunas! Vejamos um exem
 
 > plot(x, y)
 
-
 Figura 3 - Gráfico de dispersão gerado pelo plot.
 
 Se quisermos podemos inserir entre parênteses o parâmetro type = "I" indicando que desej
@@ -1183,7 +1150,6 @@ Figura 4 - Gráfico de dispersão ligado por uma linho (I).
 Histograma
 
 Para construir histogramas, utilizamos a função hist(). Os principais parâmetros são:
-
 
 * x - o vetor numérico para o qual o histograma será construído.
 
@@ -1211,7 +1177,6 @@ rnorm(1000)
 
 Figura 6 - Histograma com 6 breaks
 
-
 Boxplot
 
 Para construir esse tipo de gráfico, utilizamos a função boxplot(). Os principais parâmetros são:
@@ -1237,7 +1202,6 @@ variação
 da quantidade de insetos contabilizados.
 
 > boxplot(count ~ spray, data = InsectSprays, col = "blue")
-
 
 A
 F
@@ -1266,7 +1230,6 @@ mesmo.
 
 > barplot(tabela)
 
-
 Figura 9 - Gráfico de barplot das quantidades x cores dos diamantes do tabela
 
 Também podemos mapear duas variáveis a um gráfico de barras utilizando
@@ -1289,7 +1252,6 @@ Rural Male Rural Female Urban Male urban Female
 70-74 66.0 54.3 71.1 50.0
 
 > barplot(VADeaths)
-
 
 o
 
@@ -1326,7 +1288,7 @@ notas.
 > notas
 
 Ricardo Aline Amanda
-Item. 9.5 9.9 10.0
+9.5 9.9 10.0
 
 Quando colocamos nomes nos elementos de um vetor ou nas colunas e linhas de uma
 matriz, é
@@ -1346,7 +1308,6 @@ parâmetros entre
 colchetes é a possibilidade de usar números negativos, neste caso estamos recuperando o
 vetor
 sem o dado da posição especificada pelo número. Por exemplo:
-
 
 > numero[-l] # todos menos o primeiro
 numero2 numero3
@@ -1407,7 +1368,6 @@ Para salvar uma cópia da sua área de trabalho você pode utilizar a função s
 Agora você pode recuperar todos os objetos com load()
 
 > load(file=" aula_linguagemR.RData ")
-
 
 summaryO
 
@@ -1475,7 +1435,6 @@ Além dos operadores básicos, há uma série de funções matemáticas, tais co
 
 * exp(x) #exponenciação
 
-
 * sqrt (x) # raiz quadrada
 
 * factorial (x) fffatorial
@@ -1542,7 +1501,6 @@ Descrição Exemplo
 
 -NA valor faltante (desconhecido)
 
-
 -NULL valor indefinido (objeto nulo)
 
 -Inf ou -Inf infinito (i/o, -i/o)
@@ -1605,7 +1563,6 @@ isso, basta
 definirmos o argumento byrow = TRUE. Vejamos o resultado do exemplo anterior
 com o
 preenchimento por linhas e depois por colunas.
-
 
 > matrizOl <- matrix(
 
@@ -1707,7 +1664,6 @@ Na seleção de colunas, o R funciona de maneira igual, bastando informar qual c
 ou intervalo
 de colunas, que queremos fazer a seleção. Segue exemplo de seleção da coluna 5:
 
-
 > matri z01[ ,5]
 
 [1] 5 15 25 35 45 55 65 75 85 95
@@ -1724,20 +1680,15 @@ representa um bimestre. Os dados estão estruturados conforme segue.
 
 > notas
 
-
 [1,1
 
 [,H
 
-
 [,21
-
 
 [, 3]
 
-
 [,4]
-
 
 [2,1 9 7 4 6
 
@@ -1760,7 +1711,6 @@ representa um bimestre. Os dados estão estruturados conforme segue.
 Para deixar a leitura mais fácil, podemos nomear as linhas e
 colunas através das
 funções rownamesO e colnames(), respectivamente. Segue exemplo:
-
 
 > colnames(notas)
 
@@ -1818,7 +1768,6 @@ bim-1 bim-2 bim-3 bim-4
 
 8 10 5 5
 
-
 O procedimento para seleção das colunas segue a mesma lógica.
 
 Unindo matrizes
@@ -1846,7 +1795,6 @@ Alessandra 8 9 NA NA
 Para consolidar os dados, precisamos unir as matrizes notas e notas_transf
 por linhas. Para
 executartal tarefa, vamos usar a função rbind().
-
 
 > rbind(notas,
 
@@ -1891,7 +1839,6 @@ Resumindo...
 cbind() é a função combina vetor, matrizes ou quadro de dados por colunas.
 
 O
-
 
 rbind() é a função combina vetor, matriz ou quadro de dados por linhas.
 
@@ -2008,7 +1955,6 @@ somente se - a condição do parênteses for TRUE.
 
 * Logo em seguida temos o else seguido de chaves;
 
-
 * Dentro das chaves do else temos um bloco de código que será executado se - e
 somente se - a condição dos parênteses for FALSE.
 
@@ -2074,7 +2020,6 @@ vetorx. Assim, a variável soma vai adicionando sucessivamente os valores do vet
 Existe uma função chamada seq_len() que substitui a expressão i:length(). Então laço
 for acima
 poderia ser escrito como:
-
 
 for (i in seq_len(x)) {
 soma = soma + x[i]
@@ -2151,7 +2096,6 @@ while (i <= length(x)) {
 
 soma - soma + x[i]
 
-
 i = i + 1
 
 }
@@ -2227,11 +2171,9 @@ soma - soma + x[i]
 
 }
 
-
 soma
 
 ## [1] 255
-
 
 RESUMo
 
@@ -2297,12 +2239,10 @@ lista arquivos de determinado diretório.
 
 IMPORTANDO E EXPORTANDO
 
-
 Comando Descrição
 load(): carrega datasets(dados) escritos com save
 data(x) carrega dados específicos
 library(x) carrega um pacote de dados.
-
 
 read.ta ble(file)
 
@@ -2320,7 +2260,6 @@ c(-)
 
 pode se entender c de combinar. É uma função genérica que combina os
 argumentos em um vetor.
-
 
 frormto
 gera uma sequência. Os dois pontos (:) tem a prioridade na operação.
@@ -2349,19 +2288,16 @@ rep(x,times) > rep(c(l,2,3),2)
 
 data.frameO cria um data frame com os argumentos, nomeados ou não.
 
-
 listo cria uma lista com os argumentos
 matrix(x,nrow=,ncol=)
 
 cria uma matrix; com nrow=número de linhas e ncol=número de colunas.
 Elementos menores serão reciclados.
 
-
 rbind(...)
 
 combina os argumentos por linhas em uma matriz, data frame e entre
 outros.
-
 
 cbind(...)
 
@@ -2369,7 +2305,6 @@ combina os argumentos por colunas em uma matriz, data frame e entre
 outros.
 
 FRAGMENTANDO E EXTRAINDO DADOS
-
 
 Em vetores podemos ter acesso elementos específicos, vejamos algumas opções
 
@@ -2393,7 +2328,6 @@ x[x>3] x[x>l]
 
 487 4.140993 4.745690 2.988220
 
-
 PLOTANDO GRÁFICOS
 
 Comando Descrição
@@ -2401,7 +2335,6 @@ plot(a)
 
 Cria um gráfico com os valores de a no eixo y e no eixo x a sua respectiva
 posição.
-
 
 plot(a,b)
 
@@ -2424,7 +2357,6 @@ pie(x)
 
 cria um gráfico de setores (o famoso gráfico de pizza).
 
-
 Pie Chart of Countries
 
 Australia
@@ -2434,7 +2366,6 @@ n = 8
 
 CO
 
-
 boxplot(x)
 
 C0
@@ -2442,7 +2373,6 @@ C0
 n * 20
 
 B C D
-
 
 EXERCÍCIoS
 
@@ -2501,7 +2431,6 @@ A exponentiation (right to left)
 
 - + unary minus and plus
 
-
 : sequence operator
 
 %any% special operators (including %% and %/%)
@@ -2528,7 +2457,7 @@ I II or
 
 Gabarito: E
 
-Item. 2. CEBRASPE (CESPE) - Analista de Previdência Complementar (FUNPRESP-
+2. CEBRASPE (CESPE) - Analista de Previdência Complementar (FUNPRESP-
 EXE)/lnvestimentos/2O22
 
 A respeito de estatística e da linguagem de programação R, julgue o item a seguir.
@@ -2552,9 +2481,8 @@ Sendo assim, ao digitar sample (1:60, 6), vamos escolher 6 números de um jogo d
 
 Gabarito: C
 
-Item. 3. FGV-Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
+3. FGV-Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
 Governamental/2022
-
 
 A tabela presente no código em R abaixo apresenta a quantidade de processos analisados
 por
@@ -2609,7 +2537,6 @@ Ao executar o código acima, temos o seguinte resultado:
 
 Ano Al A2 A3
 
-
 <db7> <cA
 
 t>7<>£77? 7>
@@ -2621,7 +2548,6 @@ t>7<>£77? 7>
 "7 2019 15 25 7
 
 3 2020 20 20 12
-
 
 Obs. Na primeira linha aparece a notação NA, pois não há ocorrências de processos para A2 no
 ano de 2018. Perceba, portanto, a lógica do agrupamento, cada célula
@@ -2696,7 +2622,6 @@ Outra função que faz algo parecido é a função drop_na(). Ela elimina as lin
 contém NA
 no conjunto de dados.
 
-
 A diferença entre as duas funções é a que a primeira apenas omite a linha, a
 segunda apaga a
 linha. Veja abaixo os resultados, porém com a numeração das linhas.
@@ -2717,7 +2642,6 @@ linha. Veja abaixo os resultados, porém com a numeração das linhas.
 
 6 50 1.7
 
-
 > dados
 1 dade
 altura
@@ -2732,7 +2656,6 @@ na.omit
 5 40 1.7
 
 6 50 1.7
-
 
 > dados
 1 dade
@@ -2758,7 +2681,7 @@ Portanto, temos um item correto.
 
 Gabarito: C
 
-Item. 5. CEBRASPE (CESPE) - Estatístico (FUB)/2022
+5. CEBRASPE (CESPE) - Estatístico (FUB)/2022
 
 RR Console _<
 
@@ -2787,7 +2710,6 @@ xlab("x")+
 
 ylab("y")
 
-
 Comentário: Se executarmos o código acima, vamos obter a seguinte figura:
 
 0 1 2
@@ -2805,7 +2727,6 @@ geom_line()+
 geom_point(shape = factor(z),size=4)+
 geom_smooth(aes(group=z))+
 
-
 xlab("x")+
 
 ylab("y")
@@ -2814,7 +2735,7 @@ Logo, temos uma alternativa incorreta.
 
 Gabarito: E.
 
-Item. 6. FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Estatística/2022
+6. FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Estatística/2022
 
 Utilizando a Linguagem R tem-se um objeto x como consta a seguir.
 x
@@ -2864,14 +2785,13 @@ seguinte resultado:
 
 0 0
 
-
 Agora sim, podemos transformar a lista acima em número e somá-los para obter o valore
 16.
 Sendo assim, nossa resposta encontra-se na alternativa A.
 
 Gabarito: A
 
-Item. 7. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
+7. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
 
 No contexto da linguagem de programação R, analise o código a seguir.
 for (x in 1:10) {
@@ -2916,10 +2836,9 @@ na alternativa B.
 
 Gabarito: B
 
-Item. 8. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
+8. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
 
 Analise o código da linguagem de programação R a seguir.
-
 
 xpto <- array(c(l:24), dim = c(4, 3, 2))
 print (xpto[3, 2, 1])
@@ -2973,7 +2892,7 @@ Logo, a posição 3, 2,1, está na terceira linha e na segunda coluna da matriz 
 
 Gabarito: B
 
-Item. 9. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
+9. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
 
 No contexto da linguagem de programação R, analise as afirmativas a seguir.
 
@@ -2986,7 +2905,6 @@ variáveis podem mudar de tipo mesmo depois da instanciação.
 III. Os itens de uma lista (list) não podem ser substituídos. São permitidas apenas a
 inserção e
 a remoção de itens.
-
 
 Está correto somente o que se afirma em:
 
@@ -3017,12 +2935,11 @@ Portanto, I e II são corretas.
 
 I
 
-
 J
 
 Gabarito: D
 
-Item. 10. IBFC - Supervisor de Pesquisas (IBGE)/Suporte Gerencial/2021
+10. IBFC - Supervisor de Pesquisas (IBGE)/Suporte Gerencial/2021
 
 Função da linguagem de programação R que permite fazer gráficos de dispersão. De acordo
 com a descrição, a função é:
@@ -3040,14 +2957,13 @@ temos a resposta na alternativa B.
 
 Gabarito: B
 
-Item. 11. CEBRASPE (CESPE) - Agente de Polícia Federal/2021 (e mais 2 concursos)
+11. CEBRASPE (CESPE) - Agente de Polícia Federal/2021 (e mais 2 concursos)
 Com relação a conceitos de programação Python e R, julgue o item que se seguem.
 O resultado do código R seguinte será "12".
 
 f<- function(x) {
 
 g <- function(y) {
-
 
 y + z
 
@@ -3066,17 +2982,17 @@ Comentário: Essa questão não é trivial ... você precisa acompanhar a execu�
 para entender
 o que está acontecendo. Vamos a um passo a passo:
 
-Item. 1. Primeiramente o valor 4 é passado como parâmetro para a função f.
+1. Primeiramente o valor 4 é passado como parâmetro para a função f.
 
-Item. 2. Dentro dessa função temos a definição da função g e, em seguida, um
+2. Dentro dessa função temos a definição da função g e, em seguida, um
 código que chama a
 função g passando x —> g(x).
 
-Item. 3. Antes, porém, é definido o valor de z para o contexto, z <-4.
+3. Antes, porém, é definido o valor de z para o contexto, z <-4.
 
-Item. 4. Assim, entramos na função g com o valor de y = 4 e de z = 4, o que nos retorna o valor 8.
+4. Assim, entramos na função g com o valor de y = 4 e de z = 4, o que nos retorna o valor 8.
 
-Item. 5. Então, somamos ao valor 8 obtido por g(x) o valor 4 que é o valor de x ... obtendo 12.
+5. Então, somamos ao valor 8 obtido por g(x) o valor 4 que é o valor de x ... obtendo 12.
 
 A resposta pergunta se o valor "12" é retornado. Na realidade o valor retornado não
 deveria
@@ -3111,8 +3027,7 @@ Logo, temos uma alternativa errada!
 
 Gabarito: Errado
 
-Item. 13. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
-
+13. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 As funcionalidades do R são divididas em vários pacotes.
@@ -3125,7 +3040,7 @@ podem ser usados para estender a funcionalidade do R.
 
 Gabarito: C
 
-Item. 14. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+14. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
@@ -3139,7 +3054,7 @@ funções mais fundamentais.
 
 Gabarito: C
 
-Item. 15. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+15. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
@@ -3175,8 +3090,7 @@ Comentário: O comando next pula para a próxima iteração loop.
 
 Gabarito: C
 
-
-Item. 17. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+17. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
@@ -3232,7 +3146,6 @@ x <-1:5
 for (vai in x) {
 if (vai == 3){
 
-
 next
 
 }
@@ -3250,7 +3163,7 @@ print(val)
 
 Gabarito: C
 
-Item. 19. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+19. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
@@ -3277,7 +3190,7 @@ print(val)
 
 Gabarito: C
 
-Item. 20. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+20. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
@@ -3288,8 +3201,7 @@ looping, break e next.
 
 Gabarito: C
 
-
-Item. 21. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+21. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 Escrever funções é uma atividade secundária de um programador R.
@@ -3302,7 +3214,7 @@ executadas várias vezes.
 
 Gabarito: E
 
-Item. 22. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+22. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
@@ -3316,7 +3228,7 @@ objetos R da classe
 
 Gabarito: C
 
-Item. 23. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+23. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
@@ -3330,7 +3242,7 @@ objetos R, incluindo funções, data.frames, objetos de densidade, etc.
 
 Gabarito: E
 
-Item. 24. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+24. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
@@ -3344,11 +3256,10 @@ pairlist.
 
 Gabarito: C
 
-Item. 25. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+25. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 x <- c(l, 2, NA, 4, NA, 5)
-
 
 deuruim <- is.na(x)
 print(deuruim)
@@ -3383,7 +3294,7 @@ install.packages ("dplyr")
 
 Gabarito: E
 
-Item. 27. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+27. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 Arquivos contendo scripts R terminam com a extensão .R
@@ -3407,7 +3318,6 @@ print (x + y)
 Após a execução do programa, será obtido o seguinte resultado.
 W36
 
-
 94 Considere o programa a seguir, escrito em R.
 x<-TRUE
 
@@ -3421,7 +3331,7 @@ Após a execução do programa, será obtido o seguinte resultado.
 
 Comentário: Vamos comentar as alternativas acima.
 
-Item. 93. Neste caso temos 2 vetores com 3 elementos cada um. A operação x + y vai fazer o
+93. Neste caso temos 2 vetores com 3 elementos cada um. A operação x + y vai fazer o
 somatório dos de cada um dos termos. Veja o código abaixo:
 
 > x <- c (3, 5, 7)
@@ -3434,7 +3344,7 @@ somatório dos de cada um dos termos. Veja o código abaixo:
 Neste caso o valor retornado pela função print vai retornar como resultado o vetor 4,14 e 18.
 Logo, a alternativa está incorreta.
 
-Item. 94. Nesta alternativa atribuímos valores booleanos as variáveis x e y. Em
+94. Nesta alternativa atribuímos valores booleanos as variáveis x e y. Em
 seguida, pedimos
 para imprimir o atributo xy, que não existe no sistema. Isso retornar um
 erro conforme visto
@@ -3469,7 +3379,6 @@ Nesse caso, após a execução dos comandos, será obtido o resultado a seguir.
 
 Comentário: Vamos comentar cada uma das afirmações acima.
 
-
 Neste caso os comandos vão de fato fazer o que está descrito.
 Primeiramente, vamos atribuir
 a uma variável helloStr um conjunto de caracteres ("Hello world!").
@@ -3484,35 +3393,35 @@ Nossa sugestão é que você tente usar o R para fazer alguns exercícios que v�
 você na fixação
 do conteúdo. Você pode usar como referência a própria aula ou os slides da videoaula sobre R.
 
-Item. 30. Banca: TRC Ano: 2020 Concurso: Simualdo
+30. Banca: TRC Ano: 2020 Concurso: Simualdo
 
 Abra o R Studio e tente fazer o seguinte exercício.
 
-Item. 1. Remova todos os objetos do ambiente de trabalho.
+1. Remova todos os objetos do ambiente de trabalho.
 
-Item. 2. Crie objetos com nomes dados_Agente, dados_Perito, dados_Papi, dados_Escrivao.
+2. Crie objetos com nomes dados_Agente, dados_Perito, dados_Papi, dados_Escrivao.
 Faça com que os objetos sejam do tipo numérico, character, lógico e inteiro.
 
-Item. 3. Verifique a classe e a estrutura dos objetos criados.
+3. Verifique a classe e a estrutura dos objetos criados.
 
-Item. 4. Use ls() para listar apenas os dados de Perito. E depois para listar apenas os dados de
+4. Use ls() para listar apenas os dados de Perito. E depois para listar apenas os dados de
 Agente.
 
-Item. 5. Use rm() para remover apenas os dados de Escrivão (dica: você vai precisar de usar o
+5. Use rm() para remover apenas os dados de Escrivão (dica: você vai precisar de usar o
 resultado de ls()).
 
-Item. 6. Salve sua área de trabalho com o nome exercicio_objetos_aula_de_R.RData.
+6. Salve sua área de trabalho com o nome exercicio_objetos_aula_de_R.RData.
 
 Uma possível solução para os itens acima:
 
-Item. 1. rm(list=ls()) # remove todos os objetos
+1. rm(list=ls()) # remove todos os objetos
 
-Item. 2. dados_Agente <-10.5
+2. dados_Agente <-10.5
 dados_Perito <- "texto"
 dados_Papi <-TRUE
 dados_Escrivao <- 24L
 
-Item. 3. class(dados_Agente)
+3. class(dados_Agente)
 
 class(dados_Perito)
 class(dados_Papi)
@@ -3522,15 +3431,13 @@ str(dados_Parito)
 str(dados_Papi)
 str(dados_Escrivao)
 
-Item. 4. perito <- ls(pattern="Perito")
-
+4. perito <- ls(pattern="Perito")
 
 agente <- ls(pattern="Agente")
 
-Item. 5. rm(list=(ls(pattern="Escrivao"))
+5. rm(list=(ls(pattern="Escrivao"))
 
-Item. 6. save.image(file=" objetos aula de R.RData")
-
+6. save.image(file=" objetos aula de R.RData")
 
 2) EXERCÍCIoS
 
@@ -3542,7 +3449,7 @@ A respeito de estatística e da linguagem de programação R, julgue o item a se
 No programa R, a função aritmética básica (2+2)A2=16 pode ser calculada digitando-se > 2+2 A
 2.
 
-Item. 2. CEBRASPE (CESPE) - Analista de Previdência Complementar (FUNPRESP-
+2. CEBRASPE (CESPE) - Analista de Previdência Complementar (FUNPRESP-
 EXE)/lnvestimentos/2O22
 
 A respeito de estatística e da linguagem de programação R, julgue o item a seguir.
@@ -3550,7 +3457,7 @@ A respeito de estatística e da linguagem de programação R, julgue o item a se
 No programa R, o comando > sample (1:60, 6) fornece os seis números aleatórios para um jogo
 na Mega Sena.
 
-Item. 3. FGV-Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
+3. FGV-Auditor Federal de Controle Externo (TCU)/Controle Externo/Auditoria
 Governamental/2022
 
 A tabela presente no código em R abaixo apresenta a quantidade de processos analisados por
@@ -3576,8 +3483,7 @@ D 2018, 18;
 
 E A2, 2019, 25.
 
-Item. 4. CEBRASPE (CESPE) - Estatístico (FUB)/2022
-
+4. CEBRASPE (CESPE) - Estatístico (FUB)/2022
 
 R R Console : 11 a
 
@@ -3604,7 +3510,6 @@ idade altura
 
 € 50 1.7
 
-
 ► rM
 
 Considerando que um usuário inicie uma sessão R escrevendo um código na
@@ -3613,7 +3518,7 @@ conforme mostra a figura apresentada, julgue o item subsequente.
 
 Os códigos dados %>% na.omit() e dados %>% drop_na() proporcionam o mesmo resultado.
 
-Item. 5. CEBRASPE (CESPE) - Estatístico (FUB)/2022
+5. CEBRASPE (CESPE) - Estatístico (FUB)/2022
 
 R R Console | o |[ Q
 
@@ -3642,8 +3547,7 @@ xlab("x")+
 
 ylab("y")
 
-
-Item. 6. FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Estatística/2022
+6. FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Estatística/2022
 
 Utilizando a Linguagem R tem-se um objeto x como consta a seguir.
 x
@@ -3664,7 +3568,7 @@ C sum(as.numeric(x), na.rm = TRUE);
 D sum(as.numeric(x), na.rm = FALSE);
 E sum(x[-5]).
 
-Item. 7. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
+7. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
 
 No contexto da linguagem de programação R, analise o código a seguir,
 for (x in 1:10) {
@@ -3674,7 +3578,6 @@ print(x)
 next}
 
 if (x == 8) {break}
-
 
 }
 
@@ -3690,7 +3593,7 @@ D 9;
 
 E 10.
 
-Item. 8. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
+8. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
 Analise o código da linguagem de programação R a seguir.
 xpto <- array(c(l:24), dim = c(4, 3, 2))
 
@@ -3707,7 +3610,7 @@ D 18
 
 E 19
 
-Item. 9. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
+9. FGV - Analista (MPE SC)/Dados e Pesquisas/2022
 
 No contexto da linguagem de programação R, analise as afirmativas a seguir.
 
@@ -3731,8 +3634,7 @@ C III;
 D I e II;
 E II e III.
 
-Item. 10. IBFC - Supervisor de Pesquisas (IBGE)/Suporte Gerendal/2021
-
+10. IBFC - Supervisor de Pesquisas (IBGE)/Suporte Gerendal/2021
 
 Função da linguagem de programação R que permite fazer gráficos de dispersão.
 De acordo
@@ -3766,7 +3668,7 @@ x + g(x)
 z <-10
 f(4)
 
-Item. 12. CEBRASPE (CESPE) - Técnico Bancário III (BANESE)/lnformática/Desenvolvimento/202i
+12. CEBRASPE (CESPE) - Técnico Bancário III (BANESE)/lnformática/Desenvolvimento/202i
 
 Com respeito ao pacote reticulate da linguagem R, que propicia uma interface
 com os módulos,
@@ -3777,12 +3679,12 @@ library(reticulate)
 
 math <- use_python("math")
 
-Item. 13. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+13. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 As funcionalidades do R são divididas em vários pacotes.
 
-Item. 14. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+14. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
@@ -3790,14 +3692,13 @@ O sistema base R contém, entre outras coisas, o pacote base necessário para
 executar o R e
 contém as funções mais fundamentais.
 
-
-Item. 15. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+15. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
 Os pacotes utils, lang e tools são considerados pacotes básicos do R.
 
-Item. 16. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+16. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 A função abaixo pula as primeiras 20 iterações do loop.
@@ -3813,7 +3714,7 @@ print(n)
 
 }
 
-Item. 17. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+17. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
@@ -3822,49 +3723,48 @@ x <-3
 
 switch(x, 2+2, mean(l:10), rnorm(5))
 
-Item. 18. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+18. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 next é usado para pular uma iteração dentro do loop.
 
-Item. 19. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+19. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
 Uma instrução break é usada dentro de um loop (repaet, for, while) para interromper
 iterações e fazer fluir o controle para fora do loop.
 
-Item. 20. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+20. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
 break e next são duas estruturas de controle para controlar explicitamente o loop.
 
-Item. 21. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+21. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 Escrever funções é uma atividade secundária de um programador R.
 
-Item. 22. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+22. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
-
 As funções são definidas usando a diretiva function() e são armazenadas como objetos R.
 
-Item. 23. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+23. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
 A função graph() é usada para plotagem de gráficos no R base.
 
-Item. 24. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+24. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
 A função names() lista nomes das variáveis em um data.frame.
 
-Item. 25. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+25. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 x <- c(l, 2, NA, 4, NA, 5)
@@ -3876,18 +3776,18 @@ O resultado do código acima é :
 
 FALSE FALSE TRUE FALSE TRUE FALSE
 
-Item. 26. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+26. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 
 O pacote dplyr pode ser instalado a partir do CRAN, usando library("dplyr").
 
-Item. 27. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
+27. Ano: 2020 Prova: Simulado Banca: TRC Assunto: Linguagem R
 
 Julgue os itens baixo a respeito dos conceitos básicos do R.
 Arquivos contendo scripts R terminam com a extensão .R
 
-Item. 28. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo: Agente
+28. Ano: 2018 Banca: CESPE Assunto: Informática para Polícia Federal Cargo: Agente
 
 Conteúdo: Linguagem R
 
@@ -3907,7 +3807,6 @@ W36
 x<-TRUE
 
 y<-FALSE
-
 
 print (xy)
 
@@ -3931,67 +3830,65 @@ Nesse caso, após a execução dos comandos, será obtido o resultado a seguir.
 
 [1] "Hello world!"
 
-
 3) GABARITo
 
-Item. 1. Errado
+1. Errado
 
-Item. 2. Certo
+2. Certo
 
-Item. 3. A
+3. A
 
-Item. 4. C
+4. C
 
-Item. 5. E
+5. E
 
-Item. 6. A
+6. A
 
-Item. 7. B
+7. B
 
-Item. 8. B
+8. B
 
-Item. 9. D
+9. D
 
-Item. 10. B
+10. B
 
-Item. 11. Certo
+11. Certo
 
-Item. 12. Errado
+12. Errado
 
-Item. 13. C
+13. C
 
-Item. 14. C
+14. C
 
-Item. 15. E
+15. E
 
-Item. 16. C
+16. C
 
-Item. 17. E
+17. E
 
-Item. 18. C
+18. C
 
-Item. 19. C
+19. C
 
-Item. 20. C
+20. C
 
-Item. 21. E
+21. E
 
-Item. 22. C
+22. C
 
-Item. 23. E
+23. E
 
-Item. 24. C
+24. C
 
-Item. 25. C
+25. C
 
-Item. 26. E
+26. E
 
-Item. 27. C
+27. C
 
-Item. 28. E E
+28. E E
 
-Item. 29. C
-
+29. C
 
 4) CÓDIGO DA VIDEOAULA
 
@@ -4033,7 +3930,6 @@ heip(Ni1e)
 #criando um histograma com o serie temporal de fluxo de água no rio Nilo
 hi st (Ni 1 e)
 
-
 #Usando o for para descobrir o conjunto de números pares e ímpares de um vetor
 k <- 0
 
@@ -4073,7 +3969,6 @@ aprovado2
 #Variável do tipo lógico
 convocado <- T
 
-
 itensDoChurrascoDePosse <- c("Picanha",
 "Pão de Alho")
 
@@ -4090,7 +3985,6 @@ xl <- 10
 x2 <- 20
 
 x3 <- 4
-
 
 xl + x2 + x3
 
@@ -4136,7 +4030,6 @@ x6
 elizabethFunction <- function(x = 5){
 factori al(x)+5
 
-
 #data frame
 mat <- matrix(c("a","b",1,2) , ncol= 2)
 
@@ -4159,5 +4052,4 @@ colnames(df) <- c("letras", "numeros")
 str(df)
 
 df
-
 

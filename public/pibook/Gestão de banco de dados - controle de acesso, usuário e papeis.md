@@ -1,2 +1,2 @@
-Capítulo. Gestão de banco de dados - controle de acesso, usuário e papeis.
+# Gestão de banco de dados - controle de acesso, usuário e papeis.
 

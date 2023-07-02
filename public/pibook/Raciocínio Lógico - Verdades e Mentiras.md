@@ -1,5 +1,4 @@
-Capítulo. Raciocínio Lógico - Verdades e Mentiras.
-
+# Raciocínio Lógico - Verdades e Mentiras.
 
 Índice
 
@@ -12,7 +11,6 @@ Capítulo. Raciocínio Lógico - Verdades e Mentiras.
 4) Questões Comentadas - Verdades e Mentiras - Cebraspe
 
 5) Lista de Questões - Verdades e Mentiras - Cebraspe
-
 
 VERDADES E MENTIRAS
 
@@ -71,13 +69,11 @@ Chico: hoje não é dia 15.
 
 Serafim: ontem foi dia 13.
 
-
 I
 
 Juvenal: hoje é dia 15.
 i
 i
-
 
 :
 
@@ -90,7 +86,6 @@ que um dos dois é o mentiroso. Perceba que, rapidamente, "livramos a barra" do 
 devemos i
 usar uma outra estratégia para descobrir se o mentiroso foi Chico ou Juvenal.
 i
-
 
 Pessoal, nem sempre nos exercícios haverá dois personagens que possuem falas
 incompatíveis. De todo
@@ -115,7 +110,6 @@ I
 
 I
 
-
 I
 
 : Estamos em dúvida entre Chico e Juvenal. Quem mentiu? Suponha que Chico é o
@@ -125,19 +119,16 @@ i
 
 I
 
-
 I
 
 I
 
-
 I
 
-Item. 1. SeChico mente quando fala que hoje não é dia 15, então hoje é dia 15 sim.
+1. SeChico mente quando fala que hoje não é dia 15, então hoje é dia 15 sim.
 ;
 
 Ê 2. Se hoje é dia 15, então ontem foi dia 14.
-
 
 : Note que Serafim afirma que ontem foi dia 13, isso implica que ele está mentindo
 também. Nesse ponto, i
@@ -166,7 +157,6 @@ podemos marcar a alternativa B como resposta.
 
 Vamos organizar um pouco melhor essa linha de raciocínio?
 
-
 .. ..
 ..
 
@@ -174,8 +164,7 @@ Vamos organizar um pouco melhor essa linha de raciocínio?
 .. ..
 .. ..
 
-Item. 1. Procure por afirmações que não podem ser verdadeiras simultaneamente. Exemplos para desconfiar:
-
+1. Procure por afirmações que não podem ser verdadeiras simultaneamente. Exemplos para desconfiar:
 
 José: X é Y.
 João: X não é Y.
@@ -187,7 +176,6 @@ João: José está mentindo.
 2a. Caso você encontre esse tipo de afirmação na sua questão:
 
 - Suponha que um dos dois está mentindo.
-
 
 - Observe as implicações que isso acarretará.
 
@@ -201,14 +189,11 @@ uma suposição correta, o mentiroso é realmente quem você selecionou para ser
 
 - Sabendo quem falou a verdade e quem mentiu, faça as conclusões pertinente à questão.
 
-
 2b. Caso você não encontre:
-
 
 - Sem perda de generalidade, escolha qualquer pessoa para ser o mentiroso.
 
 - Observe as implicações que isso acarretará.
-
 
 I
 
@@ -217,7 +202,6 @@ estão, você fez ;
 uma suposição equivocada e quem era mentiroso na realidade está dizendo a verdade. Se
 estão, você fez =
 uma suposição correta, o mentiroso é realmente quem você selecionou para ser.
-
 
 I
 
@@ -250,7 +234,6 @@ diferentes. Uma bolsa era cinza, outra era marrom e outra era preta.
 
 I
 
-
 I
 
 = - Gal não está com a bolsa preta.
@@ -263,7 +246,6 @@ A) Eva tem a bolsa marrom.
 
 I
 
-
 I
 
 i B) Bia tem a bolsa preta.
@@ -275,7 +257,6 @@ i D) Eva tem a bolsa cinza.
 
 : E) Bia não tem a bolsa cinza.
 j
-
 
 Comentários:
 I
@@ -315,20 +296,17 @@ i
 
 Afirmativa Suposição Consequência
 
-
 Eva está com a bolsa preta.
 
 Falso
 
 Eva não está com a bolsa preta
 
-
 Bia não está com a bolsa marrom.
 
 Verdadeiro
 
 Bia não está com a bolsa marrom
-
 
 Gal não está com a bolsa preta.
 
@@ -353,7 +331,6 @@ tem a bolsa
 marrom.
 
 Gabarito: LETRA A.
-
 
 Note que usamos nossa abordagem de uma forma bem sútil, apenas como uma estrela guia
 no nosso
@@ -445,7 +422,6 @@ L
 
 ..
 
-
 Pessoal, a realidade é que algumas bancas gostam de inovar e nem sempre
 "verdades e mentiras"
 aparecerão dessa forma. Estudaremos alguns exemplos, cuja abordagem pode diferir dessa
@@ -471,7 +447,6 @@ A) segunda-feira
 
 = C) quarta-feira
 i
-
 
 I
 
@@ -531,7 +506,6 @@ sexta-feira.
 quarta-feira.
 j Gabarito: A alternativa correta é a letra C.
 
-
 Apesar da abordagem da questão ter mudado, uma coisa permaneceu constante: a
 necessidade de realizar
 suposições. Isso dificilmente não estará presente em uma questão de "verdades e
@@ -564,13 +538,13 @@ Comentários:
 
 Vamos extrair do texto as principais informações:
 
-Item. 1. A fila tem 200 pessoas e é constituída de auditores e sonegadores;
+1. A fila tem 200 pessoas e é constituída de auditores e sonegadores;
 
-Item. 2. Auditores falam sempre a verdade e sonegadores falam sempre mentira;
+2. Auditores falam sempre a verdade e sonegadores falam sempre mentira;
 
-Item. 3. A primeira pessoa da fila afirma que todos que estão atrás dela são sonegadores;
+3. A primeira pessoa da fila afirma que todos que estão atrás dela são sonegadores;
 
-Item. 4. As demais pessoas na fila afirmam que a pessoa que está imediatamente à sua frente é sonegadora.
+4. As demais pessoas na fila afirmam que a pessoa que está imediatamente à sua frente é sonegadora.
 
 Não sabemos se as afirmações das pessoas que estão na fila são verdadeiras ou falsas.
 Logo, devemos supor
@@ -600,7 +574,6 @@ sonegador:
 
 tf lí t TTTff tft
 
-
 I: Lembre-se que todas as outras pessoas da fila falam que a pessoa na sua frente é
 um sonegador. Então, a
 i segunda pessoa na fila acertou! Ela está falando a verdade e, por esse motivo, é um auditor.
@@ -618,7 +591,6 @@ auditores
 ; e outros 100 serão sonegadores.
 
 Gabarito: LETRA C.
-
 
 FoRMAçÃo DE CoNCEIToS
 
@@ -682,7 +654,6 @@ resposta. Não é o cenário ideal para resolver o exercício, mas quando não c
 os conceitos,
 realmente fica mais difícil. Vamos ver mais uma questão desse estilo?
 
-
 HORA DE
 
 PRATICAR!
@@ -715,7 +686,6 @@ mas, fiquem espertos!
 O tópico ainda aparece em editais.
 
 Gabarito: LETRA A
-
 
 DISCRIMINAçÃo DE ELEMENToS
 
@@ -774,7 +744,6 @@ B C D E F E
 Note que existe duas letras entre a 2^ e a 3§. Vamos ver se isso se repete para as demais letras do
 grupo?
 
-
 H I J K L K
 
 J K L M N M
@@ -805,7 +774,6 @@ R S T u V
 
 Entre a terceira letra e a segunda letra, só existe uma letra e não duas. O jeito certo seria:
 
-
 R
 
 1- letra
@@ -833,7 +801,6 @@ que não apresenta tal
 característica?
 
 a) (1,4)
-
 
 b) (9,49)
 
@@ -864,12 +831,11 @@ Por esse motivo, é
 
 Gabarito: LETRA C.
 
-
 QUESTõES CoMENTADAS - CEBRASPE
 
 Verdades e Mentiras
 
-Item. 1. (CESPE/SEFAZ-CE/2021) Considere as seguintes afirmações.
+1. (CESPE/SEFAZ-CE/2021) Considere as seguintes afirmações.
 
 I. Jair trabalha no setor responsável pelo IPTU.
 
@@ -913,7 +879,6 @@ então podemos concluir corretamente que:
 - Marisa não tem 45 anos;
 
 - Marisa não trabalha no setor responsável pelo IPVA.
-
 
 Se Marisa não trabalha no setor responsável pelo IPVA e já sabemos que Jair trabalha
 no setor responsável
@@ -959,7 +924,7 @@ item.
 
 Gabarito: CERTO.
 
-Item. 2. (CESPE/SEFAZ-RS/2019) No exercício de suas atribuições profissionais, auditores fiscais sempre
+2. (CESPE/SEFAZ-RS/2019) No exercício de suas atribuições profissionais, auditores fiscais sempre
 fazem
 afirmações verdadeiras, ao passo que sonegadores sempre fazem proposições falsas. Em uma
 audiência
@@ -982,18 +947,17 @@ D) 199
 
 E) 200
 
-
 Comentários:
 
 Vamos extrair do texto as principais informações fornecidas:
 
-Item. 1. A fila tem 200 pessoas e é constituída de auditores e sonegadores;
+1. A fila tem 200 pessoas e é constituída de auditores e sonegadores;
 
-Item. 2. Auditores falam sempre a verdade e sonegadores falam sempre mentira;
+2. Auditores falam sempre a verdade e sonegadores falam sempre mentira;
 
-Item. 3. A primeira pessoa da fila afirma que todos que estão atrás dela são sonegadores;
+3. A primeira pessoa da fila afirma que todos que estão atrás dela são sonegadores;
 
-Item. 4. As demais pessoas na fila afirmam que a pessoa que está imediatamente à sua frente é
+4. As demais pessoas na fila afirmam que a pessoa que está imediatamente à sua frente é
 sonegadora.
 
 Não sabemos se as afirmações das pessoas que estão na fila são verdadeiras ou falsas.
@@ -1003,7 +967,6 @@ auditor. Se um auditor
 está dizendo que todos os que estão atrás dele são sonegadores, então ele
 estará contando um fato
 verdadeiro, pois todo auditor diz a verdade. A situação será a seguinte:
-
 
 Auditor
 
@@ -1039,10 +1002,9 @@ revezamento continua acontecendo até o final da fila. Como temos 200 pessoas, 1
 deles serão auditores
 e outros 100 serão sonegadores.
 
-
 Gabarito: LETRA C.
 
-Item. 3. (CESPE/SEFAZ-RS/2018) Alberto, Anderson, Bernardo, Cláudio, Dionísio e Tadeu, lotados em um
+3. (CESPE/SEFAZ-RS/2018) Alberto, Anderson, Bernardo, Cláudio, Dionísio e Tadeu, lotados em um
 mesmo
 departamento, viajarão a serviço, em duplas. Cada dupla utilizará um meio de transporte
 diferente: avião,
@@ -1082,7 +1044,6 @@ Comentários:
 
 Organizando em um esquema, obtemos:
 
-
 Alberto
 Bernardo
 
@@ -1107,7 +1068,6 @@ Cláudio? Ora, é o
 Tadeu! Logo, Cláudio e Tadeu formam a próxima dupla, juntamente com Anderson e
 Dionísio. Veja o
 esquema:
-
 
 Alberto
 Bernardo
@@ -1134,7 +1094,7 @@ então, a viagem de trem para Alberto e Bernardo.
 
 Gabarito: LETRA A
 
-Item. 4. (CESPE/SEFAZ-RS/2018) Arnaldo, Beatriz, Carlos, Denise e Evaldo chegaram a
+4. (CESPE/SEFAZ-RS/2018) Arnaldo, Beatriz, Carlos, Denise e Evaldo chegaram a
 uma reunião em
 momentos diferentes. Sabe-se que:
 
@@ -1186,7 +1146,6 @@ A questão agora é: em que lugar chegou Evaldo? Basta olharmos a segunda condi�
 informa que Evaldo
 não chegou antes de Beatriz, concluindo a seguinte ordem de chegada:
 
-
 Arnaldo / Beatriz / Evaldo / Carlos / Denise
 
 Gabarito: LETRA C.
@@ -1201,7 +1160,7 @@ S2 mentiria; S2 disse que S3 mentiria; S3 disse que S4 mentiria. A partir dessa 
 itens a
 seguir:
 
-Item. 5. (CESPE/PF/2018) Se S4 disser que "pelo menos um dos 3 anteriores mentiu", então, nessa
+5. (CESPE/PF/2018) Se S4 disser que "pelo menos um dos 3 anteriores mentiu", então, nessa
 situação, S3
 falou a verdade.
 
@@ -1228,7 +1187,7 @@ conta a verdade, S2 estará mentindo.
 Percebemos, portanto, que S4 está falando a verdade. Se S4 está falando a verdade, S3 mentiu.
 Gabarito: ERRADO.
 
-Item. 6. (CESPE/PF/2018) Se S4 disser que Sl, S2 e S3 mentiram, então, na verdade, apenas ele e S2
+6. (CESPE/PF/2018) Se S4 disser que Sl, S2 e S3 mentiram, então, na verdade, apenas ele e S2
 mentiram.
 
 Comentários:
@@ -1251,14 +1210,13 @@ necessariamente que S2 estará falando a verdade, o que estará em contradição
 fato de que Sl, S2 e
 S3 mentiram.
 
-
 Portanto, podemos concluir corretamente que S4 está mentindo. Se S4 está mentindo,
 então temos que S3
 falou a verdade. Como S3 falou a verdade, S2 mentiu.
 
 Gabarito: CERTO.
 
-Item. 7. (CESPE/PF/2018) Considerando que, ao final do interrogatório, sem se chegar a uma
+7. (CESPE/PF/2018) Considerando que, ao final do interrogatório, sem se chegar a uma
 conclusão, os
 suspeitos tenham sido novamente interrogados, na mesma ordem, e apenas S3 tenha mudado
 seu
@@ -1324,10 +1282,9 @@ ao outro:
 
 — "Na verde", foi a resposta que ele obteve.
 
-
 Com base nessa situação hipotética, julgue os itens a seguir:
 
-Item. 8. (CESPE/DPU/2016) A partir das perguntas feitas pelos candidatos 1 e 2, é
+8. (CESPE/DPU/2016) A partir das perguntas feitas pelos candidatos 1 e 2, é
 impossível que eles tenham
 certeza de onde estejam os seus contratos.
 
@@ -1367,7 +1324,7 @@ estar falando a verdade e quem está mentindo.
 
 Gabarito: CERTO.
 
-Item. 9. (CESPE/DPU/2016) É correto inferir que o chefe que respondeu ao candidato 1 falava a verdade e
+9. (CESPE/DPU/2016) É correto inferir que o chefe que respondeu ao candidato 1 falava a verdade e
 que o
 outro mentia.
 
@@ -1385,10 +1342,9 @@ portanto, não influenciam essa conclusão. Dessa maneira, é impossível saber 
 que respondeu ao
 primeiro candidato falava a verdade ou se estava mentindo.
 
-
 Gabarito: ERRADO.
 
-Item. 10. (CESPE/DPU/2016) Se os candidatos 1 e 2 seguirem fielmente as respostas que ouviram, somente
+10. (CESPE/DPU/2016) Se os candidatos 1 e 2 seguirem fielmente as respostas que ouviram, somente
 um
 deles terá a chance de ser contratado.
 
@@ -1424,7 +1380,7 @@ Notamos que nas duas situações, apenas um dos candidatos é contratado, confir
 
 Gabarito: CERTO.
 
-Item. 11. (CESPE/DPU/2016) A partir das perguntas feitas pelos quatro candidatos e das
+11. (CESPE/DPU/2016) A partir das perguntas feitas pelos quatro candidatos e das
 respostas obtidas, é
 correto afirmar que os contratos estão na pasta vermelha.
 
@@ -1446,7 +1402,6 @@ pasta com os contratos é a vermelha. Na segunda possibilidade, o candidato 4 en
 sala aponta para o
 chefe honesto e pergunta para o chefe mentiroso.
 
-
 - Candidato 4: Em que pasta ele (o chefe honesto) diria que está o meu contrato?
 
 -Chefe Mentiroso: Na verde.
@@ -1459,7 +1414,7 @@ concluir que os contratos estão na pasta vermelha.
 
 Gabarito: CERTO.
 
-Item. 12. (CESPE/DPU/2016) Considere que a pasta que o candidato 3 tenha segurado quando
+12. (CESPE/DPU/2016) Considere que a pasta que o candidato 3 tenha segurado quando
 entrou na sala
 seja aquela que continha os contratos. Nesse caso, a resposta do chefe a quem ele dirigiu a
 pergunta será
@@ -1509,7 +1464,6 @@ Um eleitor deverá escolher um entre os candidatos A, B, C e D. Ele recebeu, de 
 amigos, as quatro
 seguintes mensagens a respeito desses candidatos:
 
-
 * Os candidatos A e B são empresários.
 
 * Exatamente dois entre os candidatos A, B e C são empresários.
@@ -1522,7 +1476,7 @@ Com base nas informações apresentadas, julgue os próximos itens, considerando
 eleitor sabe que
 exatamente uma das mensagens é falsa e que exatamente um dos candidatos não é empresário.
 
-Item. 13. (CESPE/TRE-GO/2015) O candidato A é empresário.
+13. (CESPE/TRE-GO/2015) O candidato A é empresário.
 
 Comentários:
 
@@ -1554,7 +1508,7 @@ uma mensagem falsa
 
 Gabarito: CERTO.
 
-Item. 14. (CESPE/TRE-GO/2015) As informações são suficientes para se concluir que o candidato D é
+14. (CESPE/TRE-GO/2015) As informações são suficientes para se concluir que o candidato D é
 empresário.
 
 Comentários:
@@ -1579,10 +1533,9 @@ e apenas um candidato não empresário (candidato D). Logo, as informações da 
 não são suficientes
 para concluir que o candidato D é empresário.
 
-
 Gabarito: ERRADO.
 
-Item. 15. (CESPE/UNIPAMPA/2013) Em cada um do item a seguir, é apresentado um argumento lógico, formado
+15. (CESPE/UNIPAMPA/2013) Em cada um do item a seguir, é apresentado um argumento lógico, formado
 por uma ou mais premissas — que devem ser consideradas verdadeiras — e uma conclusão, a ser julgada
 CERTA ou ERRADA, a partir das premissas.
 
@@ -1643,11 +1596,10 @@ um deles afirmou que teria pescado mais peixes que os outros dois. Julgue os ite
 seguir, a respeito
 dessa situação.
 
-Item. 16. (CESPE/PC-DF/2013) Considere que, a um amigo comum, além de afirmar que pescou mais peixes que
+16. (CESPE/PC-DF/2013) Considere que, a um amigo comum, além de afirmar que pescou mais peixes que
 os outros dois, cada um dos pescadores afirmou que os outros dois estariam mentindo. Nessa
 situação, é
 correto afirmar que dois deles estão mentindo.
-
 
 Comentários:
 
@@ -1684,7 +1636,7 @@ abertura para a consideração do gabarito do exercício como correto.
 
 Gabarito: CERTO.
 
-Item. 17. (CESPE/PC-DF/2013) Considere que, a um amigo comum, cada um dos pescadores afirmou ter pescado
+17. (CESPE/PC-DF/2013) Considere que, a um amigo comum, cada um dos pescadores afirmou ter pescado
 mais peixes que os outros dois e que, além disso, eles fizeram as seguintes afirmações:
 
 Alberto: — Bruno ou Carlos está mentindo.
@@ -1709,7 +1661,6 @@ Bruno: — Carlos está mentindo e eu pesquei mais que os outros dois.
 
 Carlos: — Alberto está mentindo e eu pesquei mais que os outros dois.
 
-
 Perceba que, como comentado na questão anterior, se cada um dos três afirma que
 pescou mais que os
 outros dois, então, no mínimo, 2 estão mentindo. Logo, apesar de Carlos ser o único
@@ -1718,7 +1669,7 @@ ao caso anterior, quando juntamos com esse fato, percebemos que há mais mentiro
 
 Gabarito: ERRADO.
 
-Item. 18. (CESPE/SEDUC-CE/2013) Um professor, desconfiado que seus alunos — A, B e C — colaram em uma
+18. (CESPE/SEDUC-CE/2013) Um professor, desconfiado que seus alunos — A, B e C — colaram em uma
 prova, indagou cada um deles e recebeu as seguintes respostas.
 
 * A disse: "Quem colou foi B."
@@ -1776,10 +1727,9 @@ verdade e colou.
 
 Gabarito: LETRA A.
 
-Item. 19. (CESPE/SEFAZ-ES/2013) Em uma reunião, os amigos Arnaldo, Beatriz, Carlos, Danilo e Elaine
+19. (CESPE/SEFAZ-ES/2013) Em uma reunião, os amigos Arnaldo, Beatriz, Carlos, Danilo e Elaine
 fizeram as
 seguintes afirmações:
-
 
 Arnaldo: — Meu nome é Danilo ou Arnaldo.
 Beatriz: — Arnaldo acaba de mentir.
@@ -1836,12 +1786,11 @@ domingos, segundas e terças-feiras é mentira, sendo verdade o que é dito por 
 outros dias da
 semana. A respeito das peculiaridades desse casal, julgue o item subsecutivo.
 
-Item. 20. (CESPE/MIN/2013) Se, em certo dia, ambos disserem "Amanhã é meu dia de mentir",
+20. (CESPE/MIN/2013) Se, em certo dia, ambos disserem "Amanhã é meu dia de mentir",
 então essa
 afirmação terá sido feita em uma terça-feira.
 
 Comentários:
-
 
 Pessoal, com as informações do enunciado, podemos montar a tabela abaixo, destacando os
 dias em que
@@ -1894,7 +1843,7 @@ prova!
 
 Gabarito: CERTO.
 
-Item. 21. (CESPE/SESA-ES/2013) Em uma aldeia, dois grupos em disputa, Krinxen e Amins,
+21. (CESPE/SESA-ES/2013) Em uma aldeia, dois grupos em disputa, Krinxen e Amins,
 designaram um
 mediador para estabelecer a paz entre eles. Os membros dos dois grupos dizem a
 verdade no domingo.
@@ -1976,7 +1925,6 @@ prova!
 
 Gabarito: LETRA A
 
-
 Durante blitz de rotina, um agente de trânsito notou um veículo que havia parado a
 distância, no qual o
 condutor trocou de lugar com um dos passageiros. Diante dessa situação, o agente resolveu parar o
@@ -1996,7 +1944,7 @@ indagou aos quatro ocupantes sobre quem teria bebido a cerveja e obteve as segui
 Considerando a situação hipotética acima, bem como o fato de que apenas um dos ocupantes do veículo
 bebeu a cerveja, julgue os itens subsequentes.
 
-Item. 22. (CESPE/DETRAN-ES/2010) Em face dessa situação, é correto afirmar que Marcelo e Rafael
+22. (CESPE/DETRAN-ES/2010) Em face dessa situação, é correto afirmar que Marcelo e Rafael
 mentiram.
 
 Comentários:
@@ -2009,7 +1957,7 @@ mentem é impossível e o item encontra-se errado.
 
 Gabarito: ERRADO.
 
-Item. 23. (CESPE/DETRAN-ES/2010) Considerando-se que apenas um dos ocupantes do carro
+23. (CESPE/DETRAN-ES/2010) Considerando-se que apenas um dos ocupantes do carro
 estivesse
 mentindo, é correto afirmar que Rafael foi quem bebeu a cerveja.
 
@@ -2038,14 +1986,13 @@ bebeu. Logo, a situação que retrata Rafael como o mentiroso não satisfaz as c
 
 Gabarito: CERTO.
 
-
 LISTA DE QUESTõES - CEBRASPE
 
 Verdades e Mentiras
 
-Item. 1. (CESPE/SEFAZ-CE/2021) Considere as seguintes afirmações.
+1. (CESPE/SEFAZ-CE/2021) Considere as seguintes afirmações.
 
-Item. 1. Jair trabalha no setor responsável pelo IPTU.
+1. Jair trabalha no setor responsável pelo IPTU.
 
 II. O que trabalha no setor responsável pelo IPVA tem 34 anos de idade.
 
@@ -2054,7 +2001,7 @@ III. Marisa tem 45 anos de idade ou trabalha no setor responsável pelo IPVA.
 É correto afirmar que, se as afirmações I e II são verdadeiras e III é falsa, então a idade de Jair
 é 45 anos.
 
-Item. 2. (CESPE/SEFAZ-RS/2019) No exercício de suas atribuições profissionais, auditores fiscais sempre
+2. (CESPE/SEFAZ-RS/2019) No exercício de suas atribuições profissionais, auditores fiscais sempre
 fazem
 afirmações verdadeiras, ao passo que sonegadores sempre fazem proposições falsas. Em uma
 audiência
@@ -2077,7 +2024,7 @@ D) 199
 
 E) 200
 
-Item. 3. (CESPE/SEFAZ-RS/2018) Alberto, Anderson, Bernardo, Cláudio, Dionísio eTadeu, lotados em um mesmo
+3. (CESPE/SEFAZ-RS/2018) Alberto, Anderson, Bernardo, Cláudio, Dionísio eTadeu, lotados em um mesmo
 departamento, viajarão a serviço, em duplas. Cada dupla utilizará um meio de transporte
 diferente: avião,
 trem ou carro. Alberto e Bernardo viajarão juntos; Anderson viajará de avião; Cláudio
@@ -2094,7 +2041,7 @@ D) Bernardo viajará de carro, e Cláudio, de avião.
 
 E) Anderson viajará de avião, e Alberto, de carro.
 
-Item. 4. (CESPE/SEFAZ-RS/2018) Arnaldo, Beatriz, Carlos, Denise e Evaldo chegaram a
+4. (CESPE/SEFAZ-RS/2018) Arnaldo, Beatriz, Carlos, Denise e Evaldo chegaram a
 uma reunião em
 momentos diferentes. Sabe-se que:
 
@@ -2109,7 +2056,6 @@ momentos diferentes. Sabe-se que:
 Assinale a opção que apresenta a correta ordem de chegada dessas pessoas a essa
 reunião, da primeira
 até a última.
-
 
 A) Arnaldo / Beatriz / Denise / Carlos / Evaldo
 
@@ -2131,14 +2077,14 @@ S2 mentiria; S2 disse que S3 mentiria; S3 disse que S4 mentiria. A partir dessa 
 itens a
 seguir:
 
-Item. 5. (CESPE/PF/2018) Se S4 disser que "pelo menos um dos 3 anteriores mentiu", então, nessa
+5. (CESPE/PF/2018) Se S4 disser que "pelo menos um dos 3 anteriores mentiu", então, nessa
 situação, S3
 falou a verdade.
 
-Item. 6. (CESPE/PF/2018) Se S4 disser que Sl, S2 e S3 mentiram, então, na verdade, apenas ele e S2
+6. (CESPE/PF/2018) Se S4 disser que Sl, S2 e S3 mentiram, então, na verdade, apenas ele e S2
 mentiram.
 
-Item. 7. (CESPE/PF/2018) Considerando que, ao final do interrogatório, sem se chegar a uma
+7. (CESPE/PF/2018) Considerando que, ao final do interrogatório, sem se chegar a uma
 conclusão, os
 suspeitos tenham sido novamente interrogados, na mesma ordem, e apenas S3 tenha mudado
 seu
@@ -2180,24 +2126,23 @@ ao outro:
 
 Com base nessa situação hipotética, julgue os itens a seguir:
 
-Item. 8. (CESPE/DPU/2016) A partir das perguntas feitas pelos candidatos 1 e 2, é impossível
+8. (CESPE/DPU/2016) A partir das perguntas feitas pelos candidatos 1 e 2, é impossível
 que eles tenham
 certeza de onde estejam os seus contratos.
 
-
-Item. 9. (CESPE/DPU/2016) É correto inferir que o chefe que respondeu ao candidato 1 falava a verdade e
+9. (CESPE/DPU/2016) É correto inferir que o chefe que respondeu ao candidato 1 falava a verdade e
 que o
 outro mentia.
 
-Item. 10. (CESPE/DPU/2016) Se os candidatos 1 e 2 seguirem fielmente as respostas que ouviram, somente
+10. (CESPE/DPU/2016) Se os candidatos 1 e 2 seguirem fielmente as respostas que ouviram, somente
 um
 deles terá a chance de ser contratado.
 
-Item. 11. (CESPE/DPU/2016) A partir das perguntas feitas pelos quatro candidatos e das
+11. (CESPE/DPU/2016) A partir das perguntas feitas pelos quatro candidatos e das
 respostas obtidas, é
 correto afirmar que os contratos estão na pasta vermelha.
 
-Item. 12. (CESPE/DPU/2016) Considere que a pasta que o candidato 3 tenha segurado quando
+12. (CESPE/DPU/2016) Considere que a pasta que o candidato 3 tenha segurado quando
 entrou na sala
 seja aquela que continha os contratos. Nesse caso, a resposta do chefe a quem ele dirigiu a
 pergunta será
@@ -2221,12 +2166,12 @@ Com base nas informações apresentadas, julgue os próximos itens, considerando
 eleitor sabe que
 exatamente uma das mensagens é falsa e que exatamente um dos candidatos não é empresário.
 
-Item. 13. (CESPE/TRE-GO/2015) O candidato A é empresário.
+13. (CESPE/TRE-GO/2015) O candidato A é empresário.
 
-Item. 14. (CESPE/TRE-GO/2015) As informações são suficientes para se concluir que o candidato D é
+14. (CESPE/TRE-GO/2015) As informações são suficientes para se concluir que o candidato D é
 empresário.
 
-Item. 15. (CESPE/UNIPAMPA/2013) Em cada um do item a seguir, é apresentado um argumento lógico, formado
+15. (CESPE/UNIPAMPA/2013) Em cada um do item a seguir, é apresentado um argumento lógico, formado
 por uma ou mais premissas — que devem ser consideradas verdadeiras — e uma conclusão, a ser julgada
 CERTA ou ERRADA, a partir das premissas.
 
@@ -2251,13 +2196,12 @@ um deles afirmou que teria pescado mais peixes que os outros dois. Julgue os ite
 seguir, a respeito
 dessa situação.
 
-
-Item. 16. (CESPE/PC-DF/2013) Considere que, a um amigo comum, além de afirmar que pescou mais peixes que
+16. (CESPE/PC-DF/2013) Considere que, a um amigo comum, além de afirmar que pescou mais peixes que
 os outros dois, cada um dos pescadores afirmou que os outros dois estariam mentindo. Nessa
 situação, é
 correto afirmar que dois deles estão mentindo.
 
-Item. 17. (CESPE/PC-DF/2013) Considere que, a um amigo comum, cada um dos pescadores afirmou ter pescado
+17. (CESPE/PC-DF/2013) Considere que, a um amigo comum, cada um dos pescadores afirmou ter pescado
 mais peixes que os outros dois e que, além disso, eles fizeram as seguintes afirmações:
 
 Alberto: — Bruno ou Carlos está mentindo.
@@ -2267,7 +2211,7 @@ Carlos: — Alberto está mentindo.
 
 Nessa situação, é correto afirmar que apenas Carlos está mentindo.
 
-Item. 18. (CESPE/SEDUC-CE/2013) Um professor, desconfiado que seus alunos — A, B e C — colaram em uma
+18. (CESPE/SEDUC-CE/2013) Um professor, desconfiado que seus alunos — A, B e C — colaram em uma
 prova, indagou cada um deles e recebeu as seguintes respostas.
 
 * A disse: "Quem colou foi B."
@@ -2289,7 +2233,7 @@ D) A disse a verdade, B mentiu e colou, C disse a verdade e não colou.
 
 E) A mentiu, B disse a verdade e colou, C disse a verdade e não colou.
 
-Item. 19. (CESPE/SEFAZ-ES/2013) Em uma reunião, os amigos Arnaldo, Beatriz, Carlos, Danilo e Elaine
+19. (CESPE/SEFAZ-ES/2013) Em uma reunião, os amigos Arnaldo, Beatriz, Carlos, Danilo e Elaine
 fizeram as
 seguintes afirmações:
 
@@ -2312,8 +2256,7 @@ D) 3
 
 E) 4
 
-
-Item. 20. (CESPE/MIN/2013) O casal Cássio e Cássia tem as seguintes peculiaridades: tudo o que Cássio
+20. (CESPE/MIN/2013) O casal Cássio e Cássia tem as seguintes peculiaridades: tudo o que Cássio
 diz às
 quartas, quintas e sextas-feiras é mentira, sendo verdade o que é dito por ele nos outros dias da
 semana;
@@ -2325,7 +2268,7 @@ em certo dia, ambos disserem "Amanhã é meu dia de mentir", então essa afirma�
 sido feita em
 uma terça-feira.
 
-Item. 21. (CESPE/SESA-ES/2013) Em uma aldeia, dois grupos em disputa, Krinxen e Amins,
+21. (CESPE/SESA-ES/2013) Em uma aldeia, dois grupos em disputa, Krinxen e Amins,
 designaram um
 mediador para estabelecer a paz entre eles. Os membros dos dois grupos dizem a
 verdade no domingo.
@@ -2367,61 +2310,58 @@ indagou aos quatro ocupantes sobre quem teria bebido a cerveja e obteve as segui
 Considerando a situação hipotética acima, bem como o fato de que apenas um dos ocupantes do veículo
 bebeu a cerveja, julgue os itens subsequentes.
 
-Item. 22. (CESPE/DETRAN-ES/2010) Em face dessa situação, é correto afirmar que Marcelo e Rafael
+22. (CESPE/DETRAN-ES/2010) Em face dessa situação, é correto afirmar que Marcelo e Rafael
 mentiram.
 
-Item. 23. (CESPE/DETRAN-ES/2010) Considerando-se que apenas um dos ocupantes do carro
+23. (CESPE/DETRAN-ES/2010) Considerando-se que apenas um dos ocupantes do carro
 estivesse
 mentindo, é correto afirmar que Rafael foi quem bebeu a cerveja.
 
-
 GABARITo
 
+1. CERTO
 
-Item. 1. CERTO
+2. LETRA C
 
-Item. 2. LETRA C
+3. LETRA A
 
-Item. 3. LETRA A
+4. LETRA C
 
-Item. 4. LETRA C
+5. ERRADO
 
-Item. 5. ERRADO
+6. CERTO
 
-Item. 6. CERTO
+7. ERRADO
 
-Item. 7. ERRADO
+8. CERTO
 
-Item. 8. CERTO
+9. ERRADO
 
-Item. 9. ERRADO
+10. CERTO
 
-Item. 10. CERTO
+11. CERTO
 
-Item. 11. CERTO
+12. ERRADO
 
-Item. 12. ERRADO
+13. CERTO
 
-Item. 13. CERTO
+14. ERRADO
 
-Item. 14. ERRADO
+15. ERRADO
 
-Item. 15. ERRADO
+16. CERTO
 
-Item. 16. CERTO
+17. ERRADO
 
-Item. 17. ERRADO
+18. LETRA A
 
-Item. 18. LETRA A
+19. LETRA C
 
-Item. 19. LETRA C
+20. CERTO
 
-Item. 20. CERTO
+21. LETRA A
 
-Item. 21. LETRA A
+22. ERRADO
 
-Item. 22. ERRADO
-
-Item. 23. CERTO
-
+23. CERTO
 

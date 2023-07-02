@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Padrões de frontend. SPA. PWA. Ajax. Angular, VueJS e React. NodeJS, Express.
-
+# Desenvolvimento de Software - Padrões de frontend. SPA. PWA. Ajax. Angular, VueJS e React. NodeJS, Express.
 
 Índice
 
@@ -50,7 +49,6 @@ Capítulo. Desenvolvimento de Software - Padrões de frontend. SPA. PWA. Ajax. A
 23) PWA - Lista de Questões.
 
 *
-
 
 Conceitos Básicos
 
@@ -121,7 +119,6 @@ sentido, mas não oferece uma boa experiência ao usuário.
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital)
 
-
 user interface
 
 JavaScript call 1 I
@@ -137,13 +134,11 @@ HTML+CSS data
 
 Ajax engine
 
-
 HTTP rcqucst
 
 XML data
 
 V
-
 
 web server
 i f
@@ -195,7 +190,6 @@ comunicação síncrona com o servidor e uma aplicação web AJAX que utiliza um
 comunicação
 assíncrona com o servidor.
 
-
 classic web application model (synchronous)
 
 Ajax web application model (asynchronous)
@@ -229,7 +223,6 @@ responseXML ou responseText. O segundo recupera dados como uma string, em forma 
 texto; e o
 primeiro recupera dados como um Objeto DOM, em formato XML! É possível, ainda, capturar
 dados em outros formatos, tais como: HTML e JSON!
-
 
 No AJAX, o objeto XMLHttpRequest possui diversas propriedades importantes para realizar a
 comunicação com o servidor. Quando uma solicitação para um servidor é enviada,
@@ -288,7 +281,6 @@ interage com o servidor web.
 III - Uma das características de Ajax é a exibição dinâmica de dados e uso do modelo de
 objetos DOM (Document Object Model).
 
-
 Podemos afirmar que:
 
 a) somente as alternativas I e II estão corretas.
@@ -337,7 +329,6 @@ Javascript. etc foram que falar em usar protocolo proprietário não faz 0 menor
 AJAX não usa SMTP, não faz
 sentido também falar do protocolo SMTP e do AJAX, são coisa distintas (Letra A).
 
-
 QUESTõES CoMENTADAS - AJAX
 
 í. (FCC/ TRE-MS 2007) Asynchronous Javascript and XML (Ajax) é uma
@@ -382,7 +373,7 @@ web.
 
 Gabarito: Letra E
 
-Item. 2. (FCC / MPE-RS - 2008) Para capturar as respostas de uma aplicação Web dinâmica
+2. (FCC / MPE-RS - 2008) Para capturar as respostas de uma aplicação Web dinâmica
 em AJAX
 básico utiliza-se somente:
 
@@ -398,7 +389,6 @@ e) responseHTML
 
 Comentários:
 
-
 Trata-se da primeira opção: responseText e responseXML Respectivamente para
 capturar as
 respostas de uma aplicação Web dinâmica em AJAX básico utiliza-se somente
@@ -407,7 +397,7 @@ respondeXML.
 
 Gabarito: Letra A
 
-Item. 3. (FCC / MPE-RS - 2008) Dentre as tecnologias que compõem o AJAX, aquelas que têm
+3. (FCC / MPE-RS - 2008) Dentre as tecnologias que compõem o AJAX, aquelas que têm
 como
 principal função fazer o intercâmbio e a manipulação de dados são:
 
@@ -437,7 +427,7 @@ Comentários:
 
 Gabarito: Letra B
 
-Item. 4. (FCC / MPE-RS - 2008) Para fazer o intercâmbio e a manipulação de dados em uma
+4. (FCC / MPE-RS - 2008) Para fazer o intercâmbio e a manipulação de dados em uma
 aplicação
 Web, o modelo AJAX normalmente utiliza:
 
@@ -463,17 +453,15 @@ Comentários:
 
 - Recuperação Assíncrona de Dados: XMLHttpRequest;
 
-
 / 114
 
 /
-
 
 * JavaScript é o responsável por reunirtodas essas tecnologias.
 
 Gabarito: Letra A
 
-Item. 5. (FCC / TJ-PE - 2012) Esse objeto é o ponto chave do AJAX. Pode ser considerado
+5. (FCC / TJ-PE - 2012) Esse objeto é o ponto chave do AJAX. Pode ser considerado
 um objeto
 Javascript que torna possível a comunicação assíncrona com o servidor. O objeto citado
 é do
@@ -495,7 +483,7 @@ O objeto responsável pela comunicação assíncrona com o servidor é chamado: 
 
 Gabarito: Letra E
 
-Item. 6. (FCC / TCE-PR - 2011) No AJAX, o objeto XMLHttpRequest possui diversas
+6. (FCC / TCE-PR - 2011) No AJAX, o objeto XMLHttpRequest possui diversas
 propriedades
 importantes para realizar a comunicação com o servidor. Quando uma solicitação
 para um
@@ -522,13 +510,11 @@ resposta do servidor está pronta para ser processada é onreadystatechang.
 
 Gabarito: Letra D
 
-Item. 7. (FCC / INFRAERO - 2011) Representa uma desvantagem do uso de AJAX:
-
+7. (FCC / INFRAERO - 2011) Representa uma desvantagem do uso de AJAX:
 
 / 114
 
 /
-
 
 a) Troca mensagens entre o cliente e o servidor de forma assíncrona, ou seja, envia
 requisições
@@ -552,7 +538,7 @@ em seu navegador, a aplicação pode falhar e essa é uma grande desvantagem do 
 
 Gabarito: Letra B
 
-Item. 8. (FCC/TRE-RN-2011) Agrega um conjunto de tecnologias conhecidas trabalhando
+8. (FCC/TRE-RN-2011) Agrega um conjunto de tecnologias conhecidas trabalhando
 juntas para
 tornar páginas Web mais interativas com o usuário, utilizando-se de solicitações
 assíncronas de
@@ -578,7 +564,7 @@ utilizando-se de solicitações assíncronas de informações.
 
 Gabarito: Letra D
 
-Item. 9. (FGV / FIOCRUZ - 2010) Asynchronous JavaScript and XML (AJAX) é um
+9. (FGV / FIOCRUZ - 2010) Asynchronous JavaScript and XML (AJAX) é um
 termo criado
 recentemente para duas características poderosas dos browsers que existem há anos mas
 tem
@@ -595,11 +581,9 @@ I. Troca e manipulação de dados usando XML e XSLT.
 
 II. Retorno de dados assincronamente usando XMLHttpRequest.
 
-
 / 114
 
 /
-
 
 III. Apresentação baseada nas Web Standards usando XHTML e CSS.
 Assinale:
@@ -661,11 +645,9 @@ d) FTP
 
 e) UTF-8
 
-
 / 114
 
 /
-
 
 Comentários:
 
@@ -719,17 +701,15 @@ como XHTML ou HTML; (e) Perfeito, é exatamente isso!
 
 Gabarito: Letra E
 
-Item. 13. (CESGRANRIO / IBGE - 2010) O código HTML, em construção, abaixo demonstra a
+13. (CESGRANRIO / IBGE - 2010) O código HTML, em construção, abaixo demonstra a
 utilização
 de AJAX.
 
 <html>
 
-
 / 114
 
 /
-
 
 <head>
 
@@ -812,11 +792,9 @@ XMLHttpRequest. XMLHttpRequest é um objeto que fornece funcionalidade ao
 cliente para
 transferir dados entre um cliente e um servidor.
 
-
 / 114
 
 /
-
 
 Gabarito: Letra C
 
@@ -846,7 +824,7 @@ tradicional é quarta opção: permite recuperação assíncrona de dados usando
 
 Gabarito: Letra D
 
-Item. 15. (CESGRANRIO/ LIQUIGÁS - 2011) Duas das tecnologias que compõem o Ajax são:
+15. (CESGRANRIO/ LIQUIGÁS - 2011) Duas das tecnologias que compõem o Ajax são:
 
 a) DOM e CSS
 
@@ -876,7 +854,6 @@ II - Boa parte da funcionalidade da tecnologia AJAX é viabilizada pelo objeto
 XMLHttpRequest,
 que é capaz de transmitir requisições HTTP de modo assíncrono.
 
-
 III - Atecnologia AJAX utiliza código Java para a manipulação do conteúdo de páginas HTML.
 Está correto o que se afirma em:
 
@@ -894,7 +871,7 @@ aderente ao que estudamos na aula.
 
 Gabarito: Letra C
 
-Item. 17. (CESGRANRIO / IBGE - 2014) Com o objetivo de criar páginas
+17. (CESGRANRIO / IBGE - 2014) Com o objetivo de criar páginas
 dinâmicas para o
 desenvolvimento de aplicações web, AJAX é um termo que descreve um(a):
 
@@ -912,10 +889,9 @@ JavaScript, CSS e XMLHttpRequest
 
 Gabarito: Letra C
 
-Item. 18. (FGV/TCM-SP-2015) Considere a requisição AJAX construída, no cliente, através da
+18. (FGV/TCM-SP-2015) Considere a requisição AJAX construída, no cliente, através da
 chamada
 à seguinte função em Javascript:
-
 
 function send (msg)
 
@@ -977,12 +953,10 @@ apenas, parte da mensagem e uri de envio, respectivamente.
 
 Gabarito: Letra B
 
-
 00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de
 software - 2023 (Pós-Edital)
 
-
-Item. 19. (UFRJ / UFRJ - 2012) Para utilizar Ajax é preciso antes instalar e configurar
+19. (UFRJ / UFRJ - 2012) Para utilizar Ajax é preciso antes instalar e configurar
 um servidor Ajax, o
 qual interage com o servidor web.
 
@@ -1006,7 +980,7 @@ conteúdo de páginas HTML.
 
 Gabarito: Correto
 
-Item. 21. (CESGRANRIO / LIQUIGÁS - 2013) A tecnologia AJAX utiliza código Java para a
+21. (CESGRANRIO / LIQUIGÁS - 2013) A tecnologia AJAX utiliza código Java para a
 manipulação do
 conteúdo de páginas HTML.
 
@@ -1031,7 +1005,6 @@ navegadores para
 realizar operações Ajax é chamado de XMLHttpRequest.
 
 Gabarito: Correto
-
 
 23.(CESPE / MPE-RS - 2012) AJAX é uma técnica de construção de páginas web, e sua
 principal
@@ -1089,11 +1062,9 @@ nos códigos em JavaScript e Node.
 
 Sabendo disso, analise as afirmativas abaixo:
 
-
 / 114
 
 /
-
 
 I. function somaCajb)!
 return a -» b;
@@ -1107,7 +1078,6 @@ return funcao(a,b)
 
 let resultado executar(soma.1,2)
 console.log(resultado)
-
 
 II.
 
@@ -1153,7 +1123,6 @@ d) I, lie III.
 
 Comentários:
 
-
 No item I temos a declaração da função, que soma e passa os argumentos para
 execução. No item
 II, a função executar recebe uma função anônima e no item III, temos a atribuição da
@@ -1162,7 +1131,7 @@ variável funcao
 
 Gabarito: Letra D
 
-Item. 27. (IFS / IFS - 2021) A linguagem JavaScript provê uma série de métodos que facilitam a
+27. (IFS / IFS - 2021) A linguagem JavaScript provê uma série de métodos que facilitam a
 manipulação de arrays. Sobre o método de manipulação de array of, é correto afirmar que:
 
 a) cria um novo array a partir de um array existente.
@@ -1209,11 +1178,9 @@ var a = [1,2,3,4,5] ;
 
 a.slice(0,3);
 
-
 / 114
 
 /
-
 
 a.splíce(l₅l);
 a.pop();
@@ -1271,13 +1238,11 @@ ArrayList é utilizado na linguagem JAVA e não no JS.
 
 Gabarito: Letra B
 
-
 / 114
 
 /
 
-
-Item. 31. (IUDS / IF-RJ - 2021) Em javascript, o que faz a função Math.roundO?
+31. (IUDS / IF-RJ - 2021) Em javascript, o que faz a função Math.roundO?
 
 a) Retorna o valor decimal, mais próximo.
 
@@ -1308,7 +1273,7 @@ possua valor igual à justaposição dos valores de outras variáveis.
 
 Gabarito: Correto
 
-Item. 33. (QUADRIX / CFT - 2021) O comprimento máximo de uma linha de código no JavaScript
+33. (QUADRIX / CFT - 2021) O comprimento máximo de uma linha de código no JavaScript
 é de
 128 caracteres.
 
@@ -1318,7 +1283,7 @@ Em tese, não existe uma limite de extensão (comprimento) de uma linha de códi
 
 Gabarito: Errado
 
-Item. 34. (QUADRIX / CFT - 2021) As variáveis, em JavaScript, possuem um tipo definido, por
+34. (QUADRIX / CFT - 2021) As variáveis, em JavaScript, possuem um tipo definido, por
 isso
 um array não pode conter valores de tipos diferentes.
 
@@ -1330,13 +1295,11 @@ tipos diferentes.
 
 Gabarito: Errado
 
-
 / 114
 
 /
 
-
-Item. 35. (QUADRIX / CFT - 2021) Como toda linguagem de programação, a JavaScript também
+35. (QUADRIX / CFT - 2021) Como toda linguagem de programação, a JavaScript também
 possui
 limitações. Sua maior limitação é não permitir que determinados objetos gráficos
 apresentados
@@ -1352,11 +1315,9 @@ ações do usuário.
 
 Gabarito: Errado
 
-
 / 114
 
 /
-
 
 LISTA DE QUESTõES - AJAX
 
@@ -1392,7 +1353,7 @@ d) I e III, apenas.
 
 e) I, lie III.
 
-Item. 2. (FCC / MPE-RS - 2008) Para capturar as respostas de uma aplicação Web dinâmica
+2. (FCC / MPE-RS - 2008) Para capturar as respostas de uma aplicação Web dinâmica
 em AJAX
 básico utiliza-se somente:
 
@@ -1406,7 +1367,7 @@ d) responseXML.
 
 e) responseHTML
 
-Item. 3. (FCC / MPE-RS - 2008) Dentre as tecnologias que compõem o AJAX, aquelas que têm
+3. (FCC / MPE-RS - 2008) Dentre as tecnologias que compõem o AJAX, aquelas que têm
 como
 principal função fazer o intercâmbio e a manipulação de dados são:
 
@@ -1420,10 +1381,9 @@ d) JavaScript e CSS.
 
 e) DOMeCSS.
 
-Item. 4. (FCC / MPE-RS - 2008) Para fazer o intercâmbio e a manipulação de dados em uma
+4. (FCC / MPE-RS - 2008) Para fazer o intercâmbio e a manipulação de dados em uma
 aplicação
 Web, o modelo AJAX normalmente utiliza:
-
 
 a) XML e XSLT.
 
@@ -1435,7 +1395,7 @@ d) JavaScript.
 
 e) DOM.
 
-Item. 5. (FCC / TJ-PE - 2012) Esse objeto é o ponto chave do AJAX. Pode ser considerado
+5. (FCC / TJ-PE - 2012) Esse objeto é o ponto chave do AJAX. Pode ser considerado
 um objeto
 Javascript que torna possível a comunicação assíncrona com o servidor. O objeto citado
 é do
@@ -1451,7 +1411,7 @@ d) HttpServIetRequest.
 
 e) XMLHttpRequest
 
-Item. 6. (FCC / TCE-PR - 2011) No AJAX, o objeto XMLHttpRequest possui diversas
+6. (FCC / TCE-PR - 2011) No AJAX, o objeto XMLHttpRequest possui diversas
 propriedades
 importantes para realizar a comunicação com o servidor. Quando uma solicitação
 para um
@@ -1470,7 +1430,7 @@ d) onreadystatechange.
 
 e) onreadystate.
 
-Item. 7. (FCC / INFRAERO - 2011) Representa uma desvantagem do uso de AJAX:
+7. (FCC / INFRAERO - 2011) Representa uma desvantagem do uso de AJAX:
 
 a) Troca mensagens entre o cliente e o servidor de forma assíncrona, ou seja, envia
 requisições
@@ -1486,14 +1446,13 @@ d) Executa os processos em paralelo às requisições/respostas.
 
 e) Manipula o conteúdo XML nas aplicações para desktop de forma simples.
 
-Item. 8. (FCC/TRE-RN-2011) Agrega um conjunto de tecnologias conhecidas trabalhando
+8. (FCC/TRE-RN-2011) Agrega um conjunto de tecnologias conhecidas trabalhando
 juntas para
 tornar páginas Web mais interativas com o usuário, utilizando-se de solicitações
 assíncronas de
 informações:
 
 a) XML.
-
 
 b) JavaScript.
 
@@ -1503,7 +1462,7 @@ d) AJAX.
 
 e) CSS.
 
-Item. 9. (FGV / FIOCRUZ - 2010) Asynchronous JavaScript and XML (AJAX) é um
+9. (FGV / FIOCRUZ - 2010) Asynchronous JavaScript and XML (AJAX) é um
 termo criado
 recentemente para duas características poderosas dos browsers que existem há anos mas
 tem
@@ -1533,7 +1492,7 @@ d) se somente as afirmativas II e III estiverem corretas.
 
 e) se todas as afirmativas estiverem corretas.
 
-Item. 10. (CESGRANRIO / DNMP - 2006) AJAX é um termo que se refere a um conjunto de
+10. (CESGRANRIO / DNMP - 2006) AJAX é um termo que se refere a um conjunto de
 tecnologias
 para desenvolvimento de aplicações WEB. Assinale a opção que contempla uma
 dessas
@@ -1560,7 +1519,6 @@ c) AJAX
 d) FTP
 
 e) UTF-8
-
 
 i2.(CESPE / MEC -2011) AJAX (do inglês Asynchronous Javascript And XML) tem sido
 largamente
@@ -1590,7 +1548,7 @@ e) partes de uma página web sejam atualizadas, sem que o browser recarregue a p
 inteira
 do servidor, proporcionando uma interface com melhor usabilidade
 
-Item. 13. (CESGRANRIO / IBGE - 2010) O código HTML, em construção, abaixo demonstra a
+13. (CESGRANRIO / IBGE - 2010) O código HTML, em construção, abaixo demonstra a
 utilização
 de AJAX.
 
@@ -1635,11 +1593,9 @@ xhr.send(null);
 
 }
 
-
 / 114
 
 /
-
 
 </scri pt>
 
@@ -1676,7 +1632,7 @@ d) DOMParser.
 
 e) setRequestReader.
 
-Item. 14. (CESPE / PREVIC - 2011) Ajax não é meramente uma tecnologia. É uma abordagem
+14. (CESPE / PREVIC - 2011) Ajax não é meramente uma tecnologia. É uma abordagem
 moderna
 para desenvolvimento de sites iterativos. A abordagem de desenvolvimento
 tradicional tem
@@ -1694,7 +1650,7 @@ d) permite recuperação assíncrona de dados usando XMLHttpRequest.
 
 e) representa os objetos no lado cliente com DOM.
 
-Item. 15. (CESGRANRIO/ LIQUIGÁS - 2011) Duas das tecnologias que compõem o Ajax são:
+15. (CESGRANRIO/ LIQUIGÁS - 2011) Duas das tecnologias que compõem o Ajax são:
 
 a) DOM e CSS
 
@@ -1706,17 +1662,15 @@ d) Java e CSS
 
 e) JavaScript e ASP
 
-Item. 16. (CESGRANRIO / LIQUIGÁS - 2013) Considere as afirmativas a seguir sobre a tecnologia AJAX.
+16. (CESGRANRIO / LIQUIGÁS - 2013) Considere as afirmativas a seguir sobre a tecnologia AJAX.
 
 I - Uma das aplicações mais frequentes da tecnologia AJAX é na atualização
 assíncrona do
 conteúdo de páginas HTML.
 
-
 / 114
 
 /
-
 
 II - Boa parte da funcionalidade da tecnologia AJAX é viabilizada pelo objeto
 XMLHttpRequest,
@@ -1731,7 +1685,7 @@ c) I e II, apenas
 d) II e III, apenas
 e) I, lie III
 
-Item. 17. (CESGRANRIO / IBGE - 2014) Com o objetivo de criar páginas dinâmicas para o
+17. (CESGRANRIO / IBGE - 2014) Com o objetivo de criar páginas dinâmicas para o
 desenvolvimento de aplicações web, AJAX é um termo que descreve um(a):
 
 a) protocolo
@@ -1740,9 +1694,8 @@ c) coleção de tecnologias
 d) linguagem de programação
 e) linguagem de marcação
 
-Item. 18. (FGV/TCM-SP- 2015) Considere a requisição AJAX construída, no cliente, através da chamada
+18. (FGV/TCM-SP- 2015) Considere a requisição AJAX construída, no cliente, através da chamada
 à seguinte função em Javascript:
-
 
 function send (msg)
 
@@ -1788,27 +1741,27 @@ d) HEAD;
 
 e) SEND.
 
-Item. 19. (UFRJ / UFRJ - 2012) Para utilizar Ajax é preciso antes instalar e configurar um servidor
+19. (UFRJ / UFRJ - 2012) Para utilizar Ajax é preciso antes instalar e configurar um servidor
 Ajax, o
 qual interage com o servidor web.
 
-Item. 20. (CESGRANRIO / LIQUIGÁS - 2013) Uma das aplicações mais frequentes da tecnologia AJAX é
+20. (CESGRANRIO / LIQUIGÁS - 2013) Uma das aplicações mais frequentes da tecnologia AJAX é
 na atualização assíncrona do conteúdo de páginas HTML.
 
-Item. 21. (CESGRANRIO / LIQUIGÁS - 2013) A tecnologia AJAX utiliza código Java para a manipulação do
+21. (CESGRANRIO / LIQUIGÁS - 2013) A tecnologia AJAX utiliza código Java para a manipulação do
 conteúdo de páginas HTML.
 
-Item. 22. (FUNCAB / PRODAM - 2014) A utilização de Ajax em uma página permite a recuperação de
+22. (FUNCAB / PRODAM - 2014) A utilização de Ajax em uma página permite a recuperação de
 dados de uma URL sem a necessidade de recarregar a página inteira. O objeto JavaScript que
 foi adotado pelos principais navegadores para realizar operações Ajax é
 chamado
 XMLHttpRequest.
 
-Item. 23. (CESPE / MPE-RS - 2012) AJAX é uma técnica de construção de páginas web, e sua
+23. (CESPE / MPE-RS - 2012) AJAX é uma técnica de construção de páginas web, e sua
 principal
 vantagem é permitir a atualização de partes da página web.
 
-Item. 24. (CESGRANRIO / PETROBRÁS - 2010) Ajax não é meramente uma tecnologia. É
+24. (CESGRANRIO / PETROBRÁS - 2010) Ajax não é meramente uma tecnologia. É
 uma
 abordagem moderna para desenvolvimento de sites iterativos. A
 abordagem de
@@ -1818,7 +1771,7 @@ característica exclusiva de Ajax em relação à abordagem tradicional é que p
 recuperação
 assíncrona de dados usando XMLHttpRequest.
 
-Item. 25. (AOCP / FUNPRESP-JUD - 2021) JavaScript é uma linguagem que sofre muito
+25. (AOCP / FUNPRESP-JUD - 2021) JavaScript é uma linguagem que sofre muito
 com
 compatibilidade entre navegadores. A jQuery sofre com o mesmo problema.
 Animações,
@@ -1826,7 +1779,7 @@ manipulação de DOM e outra tarefas corriqueiras são mais complexas e menos pr
 ao
 usar o jQuery.
 
-Item. 26. (IFS / IFS - 2021) O JavaScript possui características de uma linguagem funcional,
+26. (IFS / IFS - 2021) O JavaScript possui características de uma linguagem funcional,
 portanto
 pode-se passar funções como parâmetros para outras funções, algo comumente
 encontrado
@@ -1834,11 +1787,9 @@ nos códigos em JavaScript e Node.
 
 Sabendo disso, analise as afirmativas abaixo:
 
-
 / 114
 
 /
-
 
 I. function somaCajb)!
 return a -» b;
@@ -1852,7 +1803,6 @@ return funcao(a,b)
 
 let resultado executar(soma.1,2)
 console.log(resultado)
-
 
 II.
 
@@ -1893,7 +1843,6 @@ d) I, lie III.
 
 27.(IFS / IFS - 2021) A linguagem JavaScript provê uma série de métodos que facilitam a
 manipulação de arrays. Sobre o método de manipulação de arrayof, é correto afirmar que:
-
 
 a) cria um novo array a partir de um array existente.
 
@@ -1936,7 +1885,7 @@ c) [1,3]
 
 d) [3,4,5]
 
-Item. 30. (IFS / IFS - 2021) Em JavaScript, o operador new cria e inicializa um novo objeto.
+30. (IFS / IFS - 2021) Em JavaScript, o operador new cria e inicializa um novo objeto.
 Qual operador NÃO representa a criação de um objeto de tipo nativo JavaScript?
 
 a) var o = new Object();
@@ -1947,7 +1896,7 @@ c) vara = newArrayO;
 
 d) var d = new Date();
 
-Item. 31. (IUDS / IF-RJ - 2021) Em javascript, o que faz a função Math.round()?
+31. (IUDS / IF-RJ - 2021) Em javascript, o que faz a função Math.round()?
 
 a) Retorna o valor decimal, mais próximo.
 
@@ -1955,11 +1904,9 @@ b) Retorna o valor de um número arredondado para o inteiro, mais próximo.
 
 c) Retorna o valor de um número arredondado para o inteiro, logo abaixo.
 
-
 / 114
 
 /
-
 
 d) Retorna o valor de um número arredondado para o inteiro, logo acima.
 
@@ -1969,15 +1916,15 @@ d) Retorna o valor de um número arredondado para o inteiro, logo acima.
 justaposição
 dos valores de outras variáveis.
 
-Item. 33. (QUADRIX / CFT - 2021) O comprimento máximo de uma linha de código no
+33. (QUADRIX / CFT - 2021) O comprimento máximo de uma linha de código no
 JavaScript é de
 128 caracteres.
 
-Item. 34. (QUADRIX / CFT - 2021) As variáveis, em JavaScript, possuem um tipo definido, por
+34. (QUADRIX / CFT - 2021) As variáveis, em JavaScript, possuem um tipo definido, por
 isso
 um array não pode conter valores de tipos diferentes.
 
-Item. 35. (QUADRIX / CFT - 2021) Como toda linguagem de programação, a JavaScript também
+35. (QUADRIX / CFT - 2021) Como toda linguagem de programação, a JavaScript também
 possui
 limitações. Sua maior limitação é não permitir que determinados objetos gráficos
 apresentados
@@ -1985,49 +1932,46 @@ na página (imagem, botão etc.) respondam dinamicamente às ações do usuário
 
 x35
 
-
 / 114
 
 /
 
-
 GABARITo - AJAX
 
-Item. 1. CORRETO 13- LETRA E 25-
+1. CORRETO 13- LETRA E 25-
 ERRADO
 
-Item. 2. LETRA E 14. LETRA C
-Item. 26. ERRADO
+2. LETRA E 14. LETRA C
+26. ERRADO
 
 3- LETRA A 15- LETRA D
 27- LETRA D
 
 4- LETRA B i6. LETRA A
-Item. 28. LETRA D
+28. LETRA D
 
 5- LETRA A 17- LETRA C
-Item. 29. LETRA D
+29. LETRA D
 
-Item. 6. LETRA E i8. LETRA C
-Item. 30. LETRA A
+6. LETRA E i8. LETRA C
+30. LETRA A
 
 7- LETRA D 19- ERRADO
 3i- LETRA B
 
-Item. 8. LETRA B 20. CORRETO
-Item. 32. LETRA B
+8. LETRA B 20. CORRETO
+32. LETRA B
 
 9- LETRA D 21. CORRETO
 33- CORRETO
 
-Item. 10. LETRA E 22. ERRADO
+10. LETRA E 22. ERRADO
 34- ERRADO
 
 íi. LETRA B 23- CORRETO
 35- ERRADO
 
-Item. 12. LETRA C 24- CORRETO
-
+12. LETRA C 24- CORRETO
 
 Single Page Application (SPA)
 
@@ -2093,11 +2037,9 @@ todo código (HTML, CSS e JavaScript) é recuperado em uma única carga inicial 
 navegador
 utiliza apenas uma URL.
 
-
 / 114
 
 /
-
 
 Após essa página inicial ser carregada, toda a lógica de apresentação está no cliente.
 Eu sei, vocês
@@ -2156,7 +2098,6 @@ com os dados e modifica apenas as partes da página que precisam ser modificadas
 isso, vamos
 às questões...
 
-
 Conceitos Básicos
 
 VUEJS
@@ -2192,7 +2133,6 @@ count: 0
 
 }).mount('#app')
 
-
 <div id="app">
 
 <button @click="count++">
@@ -2211,7 +2151,6 @@ RECURSOS VUEJS I DESCRIÇÃO
 RENDERIZAÇÃO DECLARATIVA Vue estende o HTML padrão com uma sintaxe de modelo que nos permite
 descrever
 declarativamente a saída HTML com base no estado do JavaScript
-
 
 REATIVIDADE
 
@@ -2250,11 +2189,9 @@ extrapolando o velho e bom: HTML, CSS e Javascript. Por fim, no Vue para renderi
 uma lista de
 elementos com base nos dados de um determinado Array basta utilizar o comando v-for.
 
-
 / 114
 
 /
-
 
 QUESTõES CoMENTADAS - VUEJS
 
@@ -2283,7 +2220,7 @@ vimos ao longo da aula.
 
 Gabarito: Letra E
 
-Item. 2. (FUNDATEC / CIGA-SC - 2020) Analise o trecho de código apresentado na Figura 5
+2. (FUNDATEC / CIGA-SC - 2020) Analise o trecho de código apresentado na Figura 5
 abaixo,
 retirado de uma aplicação VueJS:
 
@@ -2342,10 +2279,8 @@ escolhida: 'Nenhuma*
 
 * Figura 5
 
-
 00 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023
 (Pós-Edital)
-
 
 É correto afirmar que:
 
@@ -2383,7 +2318,7 @@ propriedade "data"? Sim. Utiliza a sintaxe de template e mostra o valor na tela?
 
 Gabarito: Letra D
 
-Item. 3. (AOCP / PRODEB - 2018) Com base no Framework VueJS, qual é uma das diretivas
+3. (AOCP / PRODEB - 2018) Com base no Framework VueJS, qual é uma das diretivas
 possíveis
 utilizada para renderizar uma lista de elementos com base nos dados de um determinado Array?
 
@@ -2403,8 +2338,7 @@ de um determinado Array é o v-for.
 
 Gabarito: Letra A
 
-
-Item. 4. (CCV / UFC - 2019) Sobre Vue.Js, assinale a alternativa correta.
+4. (CCV / UFC - 2019) Sobre Vue.Js, assinale a alternativa correta.
 
 a) Mixins geralmente acrescentam funcionalidade ao Vue em nível global.
 
@@ -2434,7 +2368,7 @@ em interfaces de usuário.
 
 Gabarito: Letra B
 
-Item. 5. (CCV / UFC - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
+5. (CCV / UFC - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
 contém
 apenas frameworks/bibliotecas/plataformas que foram desenvolvidas ou que dependem de
 JavaScript ou TypeScript:
@@ -2457,17 +2391,15 @@ interfaces de usuário (views).
 
 Gabarito: Letra C
 
-Item. 6. (QUESTÃO INÉDITA) O framework Vue.js estende o HTML padrão com uma sintaxe de
+6. (QUESTÃO INÉDITA) O framework Vue.js estende o HTML padrão com uma sintaxe de
 modelo
 que nos permite descrever declarativamente a saída HTML com base no estado do JavaScript.
 
 Comentários:
 
-
 / 114
 
 /
-
 
 Perfeito! Foi o que vimos, que o framework Vue.js estende o HTML padrão com uma
 sintaxe de
@@ -2477,7 +2409,7 @@ JavaScript.
 
 Gabarito: Correto
 
-Item. 7. (QUESTÃO INÉDITA) O VueJS não rastreia automaticamente as mudanças de
+7. (QUESTÃO INÉDITA) O VueJS não rastreia automaticamente as mudanças de
 estado do
 JavaScript e atualiza o DOM de forma eficiente quando as mudanças acontecem.
 
@@ -2489,7 +2421,7 @@ DOM de forma eficiente quando as mudanças acontecem.
 
 Gabarito: Errado
 
-Item. 8. (QUESTÃO INÉDITA) O VueJS é uma estrutura e ecossistema que cobre a maioria dos
+8. (QUESTÃO INÉDITA) O VueJS é uma estrutura e ecossistema que cobre a maioria dos
 recursos
 comuns necessários no desenvolvimento de front-end.
 
@@ -2501,7 +2433,7 @@ necessários no desenvolvimento de front-end.
 
 Gabarito: Correto
 
-Item. 9. (QUESTÃO INÉDITA) O VueJS é um framework JS (Javascript) utilizado para construção
+9. (QUESTÃO INÉDITA) O VueJS é um framework JS (Javascript) utilizado para construção
 de
 interfaces de usuário (views).
 
@@ -2521,11 +2453,9 @@ dentre elas, aprimorando HTML estático sem uma etapa de compilação.
 
 Comentários:
 
-
 / 114
 
 /
-
 
 Exato! O VueJS foi projetado para ser flexível e adotável de forma incremental.
 Dependendo de
@@ -2535,11 +2465,9 @@ estático sem uma etapa de compilação.
 
 Gabarito: Correto
 
-
 / 114
 
 /
-
 
 LISTA DE QUESTõES - VUEJS
 
@@ -2558,7 +2486,7 @@ laço.
 e) Os templates do Vue.js são compostos por HTML válido que podem ser compilados por
 navegadores compatíveis com as especificações e também por compiladores HTML.
 
-Item. 2. (FUNDATEC / CIGA-SC - 2020) Analise o trecho de código apresentado na Figura 5 abaixo,
+2. (FUNDATEC / CIGA-SC - 2020) Analise o trecho de código apresentado na Figura 5 abaixo,
 retirado de uma aplicação VueJS:
 
 <html>
@@ -2627,7 +2555,6 @@ b) VueJS faz uma ligação unidirecional entre o valor e o banco de dados por me
 diretiva
 "vmodel".
 
-
 c) VueJS faz uma ligação bidirecional entre o valor e a camada de acesso ao banco de
 dados por
 meio da diretiva "v-model".
@@ -2642,7 +2569,7 @@ necessário utilizar a propriedade "computed" do componente "app" no lugar da
 propriedade
 "data".
 
-Item. 3. (AOCP / PRODEB - 2018) Com base no Framework VueJS, qual é uma das diretivas
+3. (AOCP / PRODEB - 2018) Com base no Framework VueJS, qual é uma das diretivas
 possíveis
 utilizada para renderizar uma lista de elementos com base nos dados de um determinado Array?
 
@@ -2654,7 +2581,7 @@ d) slice()
 
 e) data
 
-Item. 4. (CCV / UFC - 2019) Sobre Vue.Js, assinale a alternativa correta.
+4. (CCV / UFC - 2019) Sobre Vue.Js, assinale a alternativa correta.
 
 a) Mixins geralmente acrescentam funcionalidade ao Vue em nível global.
 
@@ -2674,7 +2601,7 @@ e) O trabalho de um Slot é aplicar efeitos colaterais de maneira reativa ao DOM
 quando o valor
 de sua expressão é alterado.
 
-Item. 5. (CCV / UFC - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
+5. (CCV / UFC - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
 contém
 apenas frameworks/bibliotecas/plataformas que foram desenvolvidas ou que dependem de
 JavaScript ou TypeScript:
@@ -2689,54 +2616,48 @@ d) Angular, Node.js, Java.
 
 e) Java AWT, Angular, Scala.
 
-Item. 6. (QUESTÃO INÉDITA) O framework Vue.js estende o HTML padrão com uma sintaxe de
+6. (QUESTÃO INÉDITA) O framework Vue.js estende o HTML padrão com uma sintaxe de
 modelo
 que nos permite descrever declarativamente a saída HTML com base no estado do JavaScript.
-
 
 / 114
 
 /
 
-
-Item. 7. (QUESTÃO INÉDITA) O VueJS não rastreia automaticamente as mudanças de
+7. (QUESTÃO INÉDITA) O VueJS não rastreia automaticamente as mudanças de
 estado do
 JavaScript e atualiza o DOM de forma eficiente quando as mudanças acontecem.
 
-Item. 8. (QUESTÃO INÉDITA) O VueJS é uma estrutura e ecossistema que cobre a maioria dos
+8. (QUESTÃO INÉDITA) O VueJS é uma estrutura e ecossistema que cobre a maioria dos
 recursos
 comuns necessários no desenvolvimento de front-end.
 
-Item. 9. (QUESTÃO INÉDITA) O VueJS é um framework JS (Javascript) utilizado para construção
+9. (QUESTÃO INÉDITA) O VueJS é um framework JS (Javascript) utilizado para construção
 de
 interfaces de usuário (views).
 
-Item. 10. (QUESTÃO INÉDITA) O VueJS foi projetado para ser flexível e
+10. (QUESTÃO INÉDITA) O VueJS foi projetado para ser flexível e
 adotável de forma
 incremental. Dependendo de cada caso de uso, o Vue pode ser usado de diferentes
 maneiras,
 dentre elas, aprimorando HTML estático sem uma etapa de compilação.
 
-
 / 114
 
 /
 
-
 GABARITo - VUEJS
 
+1. LETRA E 5- LETRA C
 
-Item. 1. LETRA E 5- LETRA C
-
-Item. 2. LETRA D 6. CORRETO
+2. LETRA D 6. CORRETO
 
 3- LETRA A 7- ERRADO
 
 4- LETRA B 8. CORRETO
 
-Item. 9. CORRETO
+9. CORRETO
 ío.CORRETO
-
 
 Conceitos Básicos
 
@@ -2792,7 +2713,6 @@ vez
 que mantém um DOM virtual próprio.
 
 UNIFICA 0 MARKUP E A LÓGICA DA VIEW, FACILITANDO A EXTENSÃO E MANUTENÇÃO
-
 
 Pois é, a grande sacada do ReactJS é o Virtual DOM! Todo mundo sabe que manipular o
 DOM da
@@ -2850,17 +2770,14 @@ FUNÇÕES | DESCRIÇÃO
 
 Refs fornecem uma forma de acessar os nós do DOM ou elementos React criados
 
-
 REFS
 
 no método render.
-
 
 PROPS
 
 Props é uma palavra-chave especial no React, que significa propriedades e está
 sendo usada para passar dados de um componente para outro.
-
 
 STATE
 
@@ -2869,11 +2786,9 @@ de uma função.
 
 x
 
-
 / 114
 
 /
-
 
 Key são úteis ao trabalhar com componentes criados dinamicamente ou quando
 suas listas são alteradas pelos usuários. A definição do valor da chave manterá seus
@@ -2907,11 +2822,9 @@ ver 0 que acabamos de estudar, não é verdade? Logo, 0 ReactJS - conforme vimos
 exclusivamente do DOM do
 navegador, já que tem um DOM virtual própria (Letra A).
 
-
 / 114
 
 /
-
 
 QUESTõES CoMENTADAS - REACTJS
 
@@ -2936,23 +2849,19 @@ FUNÇÕES | DESCRIÇÃO
 
 Refs fornecem uma forma de acessar os nós do DOM ou elementos React criados
 
-
 REFS
 
 no método render.
-
 
 PROPS
 
 Props é uma palavra-chave especial no React, que significa propriedades e está
 sendo usada para passar dados de um componente para outro.
 
-
 STATE
 
 State é gerenciado de dentro do componente (como variáveis declaradas dentro
 de uma função.
-
 
 KEY
 
@@ -2967,7 +2876,7 @@ componente ou nó DOM e suas propriedades desejadas.
 
 Gabarito: Letra B
 
-Item. 2. (COMPERVE / TJ-RN - 2020) O React é uma biblioteca JavaScript de
+2. (COMPERVE / TJ-RN - 2020) O React é uma biblioteca JavaScript de
 código aberto e,
 atualmente, é uma das ferramentas mais populares entre os desenvolvedores web.
 São
@@ -2983,11 +2892,9 @@ reutilizáveis.
 
 x53
 
-
 / 114
 
 /
-
 
 c) declarativa, que gerencia seu próprio virtual DOM e permite a criação de aplicativos móveis.
 
@@ -3001,7 +2908,7 @@ virtual DOM e permite a criação de aplicativos móveis.
 
 Gabarito: Letra C
 
-Item. 3. (CESPE / SLU-DF - 2019) Julgue o próximo item, relativos à linguagem
+3. (CESPE / SLU-DF - 2019) Julgue o próximo item, relativos à linguagem
 de programação
 JavaScript e às ferramentas Node e React.
 
@@ -3019,7 +2926,7 @@ interfaces de usuário (frontend) em páginas web.
 
 Gabarito: Errado
 
-Item. 4. (CESPE / SLU-DF - 2019) Julgue o próximo item, relativos à linguagem
+4. (CESPE / SLU-DF - 2019) Julgue o próximo item, relativos à linguagem
 de programação
 JavaScript e às ferramentas Node e React.
 
@@ -3042,15 +2949,13 @@ para os servidores, criado assim aplicações de alta escalabilidade.
 
 Gabarito: Errado
 
-Item. 5. (AOCP / PRODEB - 2018) Qual é a linguagem utilizada no desenvolvimento da
+5. (AOCP / PRODEB - 2018) Qual é a linguagem utilizada no desenvolvimento da
 biblioteca de
 frontend chamada React?
-
 
 / 114
 
 /
-
 
 a) Java
 b) Ruby on Rails
@@ -3068,7 +2973,7 @@ biblioteca frontend React.
 
 Gabarito: Letra E
 
-Item. 6. (CCV / UFC - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
+6. (CCV / UFC - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
 contém
 apenas/ramewo/Trs/bibliotecas/plataformas que foram desenvolvidas ou que dependem
 de
@@ -3092,7 +2997,7 @@ Biblioteca e Vue.JS - Plataforma.
 
 Gabarito: Letra C
 
-Item. 7. (CESPE / SLU-DF-2019) React Native utiliza componentes nativos em vez de
+7. (CESPE / SLU-DF-2019) React Native utiliza componentes nativos em vez de
 componentes da
 Web como blocos de construção, existindo dois tipos de dados que controlam um
 componente:
@@ -3117,23 +3022,19 @@ FUNÇÕES | DESCRIÇÃO
 
 Refs fornecem uma forma de acessar os nós do DOM ou elementos React criados
 
-
 REFS
 
 no método render.
-
 
 PROPS
 
 Props é uma palavra-chave especial no React, que significa propriedades e está
 sendo usada para passar dados de um componente para outro.
 
-
 STATE
 
 State é gerenciado de dentro do componente (como variáveis declaradas dentro
 de uma função.
-
 
 KEY
 
@@ -3148,7 +3049,7 @@ componente ou nó DOM e suas propriedades desejadas.
 
 Gabarito: Errado
 
-Item. 8. (FCC / METRO-SP - 2019) Um Analista precisa desenvolver um aplicativo móvel para
+8. (FCC / METRO-SP - 2019) Um Analista precisa desenvolver um aplicativo móvel para
 celulares
 com sistemas operacionais Android e iOS. Para isso, poderá utilizar o framework
 desenvolvido
@@ -3176,7 +3077,7 @@ Android e IOS de forma nativa.
 
 Gabarito: Letra E
 
-Item. 9. (UEPB / CPCON - 2018) De acordo com o ciclo de vida de um componente no
+9. (UEPB / CPCON - 2018) De acordo com o ciclo de vida de um componente no
 React.js, assinale
 a alternativa em que todos os métodos são considerados como Updating:
 
@@ -3184,11 +3085,9 @@ a) getStateQ, forceUpdateQ e renderQ
 
 x
 
-
 / 114
 
 /
-
 
 b) constructor() e componentWillMount()
 
@@ -3251,11 +3150,9 @@ node_modules.
 
 x
 
-
 / 114
 
 /
-
 
 Gabarito: Letra E
 
@@ -3281,7 +3178,7 @@ e, não, em Java.
 
 Gabarito: Letra E
 
-Item. 13. (AOCP / UFFS - 2019) Um SGBD é um sistema responsável por realizar o gerenciamento de
+13. (AOCP / UFFS - 2019) Um SGBD é um sistema responsável por realizar o gerenciamento de
 um
 banco de dados, com recursos que permitem a manipulação das informações e a interação
 com
@@ -3307,7 +3204,6 @@ SGBDs é MySQL, Oracle, SQL Server e Acess. Obviamente, React não é SGBD.
 
 Gabarito: Letra D
 
-
 LISTA DE QUESTõES - REACTJS
 
 í. (UFC / CCV-UFC - 2019) Em React.Js, como são chamadas as entradas que são
@@ -3322,7 +3218,7 @@ c) State
 d) Keys
 e) Elements
 
-Item. 2. (COMPERVE / TJ-RN - 2020) O React é uma biblioteca JavaScript de
+2. (COMPERVE / TJ-RN - 2020) O React é uma biblioteca JavaScript de
 código aberto e,
 atualmente, é uma das ferramentas mais populares entre os desenvolvedores web.
 São
@@ -3340,7 +3236,7 @@ c) declarativa, que gerencia seu próprio virtual DOM e permite a criação de a
 
 d) imperativa, que gerencia seu próprio virtual DOM e dá suporte a componentes reutilizáveis.
 
-Item. 3. (CESPE / SLU-DF - 2019) Julgue o próximo item, relativos à linguagem
+3. (CESPE / SLU-DF - 2019) Julgue o próximo item, relativos à linguagem
 de programação
 JavaScript e às ferramentas Node e React.
 
@@ -3348,7 +3244,7 @@ O JSX (JavaScript Syntax Extension) é de uso obrigatório no React e permite in
 interface
 do usuário no código JavaScript
 
-Item. 4. (CESPE / SLU-DF - 2019) Julgue o próximo item, relativos à linguagem
+4. (CESPE / SLU-DF - 2019) Julgue o próximo item, relativos à linguagem
 de programação
 JavaScript e às ferramentas Node e React.
 
@@ -3356,7 +3252,7 @@ O Node.js é capaz de gerar conteúdos dinâmicos rodando JavaScript no servidor
 não
 tem a capacidade de acessar banco de dados.
 
-Item. 5. (AOCP / PRODEB - 2018) Qual é a linguagem utilizada no desenvolvimento da
+5. (AOCP / PRODEB - 2018) Qual é a linguagem utilizada no desenvolvimento da
 biblioteca de
 frontend chamada React?
 
@@ -3366,10 +3262,9 @@ c) CSS
 
 d) .NET
 
-
 e)JS
 
-Item. 6. (CCV / UFC - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
+6. (CCV / UFC - 2019) Para o desenvolvimento de aplicações Web, qual item abaixo
 contém
 apenas/rameworÁrs/bibliotecas/plataformas que foram desenvolvidas ou que dependem
 de
@@ -3385,7 +3280,7 @@ d) Angular, Node.js, Java.
 
 e) Java AWT, Angular, Scala.
 
-Item. 7. (CESPE/SLU-DF-2019) React Native utiliza componentes nativos em vez de componentes
+7. (CESPE/SLU-DF-2019) React Native utiliza componentes nativos em vez de componentes
 da
 Web como blocos de construção, existindo dois tipos de dados que controlam um
 componente:
@@ -3393,7 +3288,7 @@ state, definido pelo pai e fixado durante todo o tempo de vida de um componente;
 props,
 utilizado para os dados que irão mudar.
 
-Item. 8. (FCC / METRO-SP - 2019) Um Analista precisa desenvolver um aplicativo móvel para
+8. (FCC / METRO-SP - 2019) Um Analista precisa desenvolver um aplicativo móvel para
 celulares
 com sistemas operacionais Android e iOS. Para isso, poderá utilizar o framework
 desenvolvido
@@ -3410,7 +3305,7 @@ d) Xamarin Core.
 
 e) React Native.
 
-Item. 9. (UEPB / CPCON - 2018) De acordo com o ciclo de vida de um componente no
+9. (UEPB / CPCON - 2018) De acordo com o ciclo de vida de um componente no
 React.js, assinale
 a alternativa em que todos os métodos são considerados como Updating:
 
@@ -3435,11 +3330,9 @@ a) Component Driven Development.
 
 b) Component Development Structured.
 
-
 / 114
 
 /
-
 
 c) Driven Component Divided.
 
@@ -3461,7 +3354,7 @@ d) No arquivo index.
 
 e) Na pasta node_modules.
 
-Item. 12. (FEPESE / CELESC - 2022) Assinale a alternativa que apresenta um framework open
+12. (FEPESE / CELESC - 2022) Assinale a alternativa que apresenta um framework open
 source,
 escrito em Java, que permita a geração de relatórios na plataforma Java.
 
@@ -3475,7 +3368,7 @@ d) CRISTALREPORTS
 
 e) JASPERREPORTS
 
-Item. 13. (AOCP / UFFS - 2019) Um SGBD é um sistema responsável por realizar o
+13. (AOCP / UFFS - 2019) Um SGBD é um sistema responsável por realizar o
 gerenciamento de um
 banco de dados, com recursos que permitem a manipulação das informações e a interação
 com
@@ -3493,25 +3386,22 @@ d) MySQL, Oracle, SQL Server e Acess.
 
 e) GIT, REST, VueJS e Oracle.
 
-
 GABARITo - REACTOS
 
-Item. 1. LETRA B 6. LETRA C
+1. LETRA B 6. LETRA C
 li. LETRA E
 
-Item. 2. LETRA C 7. ERRADO
-Item. 12. LETRA E
+2. LETRA C 7. ERRADO
+12. LETRA E
 
-Item. 3. ERRADO 8. LETRA E
-Item. 13. LETRA D
+3. ERRADO 8. LETRA E
+13. LETRA D
 
-Item. 4. ERRADO 9. LETRA D
+4. ERRADO 9. LETRA D
 
-Item. 5. LETRA E io. LETRA A
-
+5. LETRA E io. LETRA A
 
 0 0
-
 
 Conceitos Básicos
 
@@ -3581,7 +3471,6 @@ A partir daí, foram lançados um bocado de frameworks de desenvolvimento front-
 utilizam
 o Modelo MVC. Quais, professor? Knockout, Backbone.js, Ember, batman.js, e... AngularJS! Trata-
 
-
 se de um framework JavaScript (MVC), criado pela Google, cujo objetivo é construir
 aplicações web
 client-side simples e fáceis de manter por meio de componentes reusáveis e modulares.
@@ -3650,11 +3539,9 @@ da variável, e
 modifica o conteúdo da tag <p> com o valor da variável. O segundo chama-se
 interpolação de
 
-
 / 114
 
 /
-
 
 strings, mas tem como apelido "bigodes" (por causa das chaves {{}}). Nesse segundo,
 AngularJS vai
@@ -3722,11 +3609,9 @@ como Angular.
 Um ponto a ressaltar é que, a partir da versão 2, todas as versões seguintes são
 evoluções naturais
 
-
 / 114
 
 /
-
 
 da anteriores. Assim, Angular 2 evoluiu para o Angular 3, depois para o Angular 4, e
 assim por
@@ -3799,11 +3684,9 @@ respectivamente. Como nós já vimos na aula, cada componente deve definir uma v
 que é
 especificada pelo atributo template ou templateUrl:
 
-
 / 114
 
 /
-
 
 @Component({
 
@@ -3866,14 +3749,11 @@ verdadeira.
 
 NG-CSP Altera a política de segurança do conteúdo.
 
-
 / 114
 
 /
 
-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 QUESTõES CoMENTADAS - ANGULAR JS
 
@@ -3889,7 +3769,7 @@ exatamente essa sua função no framework
 
 Gabarito: Correto
 
-Item. 2. (CESPE/ BASA - 2018) É um exemplo de uma expressão Angular (Angular Expression) em
+2. (CESPE/ BASA - 2018) É um exemplo de uma expressão Angular (Angular Expression) em
 AngularJS:
 
 a) <p>Candidato aprovado: candidato.nome }}</p>
@@ -3910,7 +3790,7 @@ AngularJS.
 
 Gabarito: Letra A
 
-Item. 3. (CESPE / STM - 2018) Após ser executada, a expressão Angular JS
+3. (CESPE / STM - 2018) Após ser executada, a expressão Angular JS
 
 <div ng-app="">
 
@@ -3928,15 +3808,13 @@ examinador colocou chaves e parêntesis {()}, e isso não é nada na arquitetura
 AngularJS. Portanto,
 item errado
 
-
 / 114
 
 /
 
-
 Gabarito: Errado
 
-Item. 4. (FCC / DPE-RS - 2017) AngularJS é umframework JavaScript, também referenciado como uma
+4. (FCC / DPE-RS - 2017) AngularJS é umframework JavaScript, também referenciado como uma
 biblioteca escrita em JavaScript. Esse framework permite o uso de
 a) expressões escritas dentro de uma diretiva no formato: ng-bind = "expression".
 
@@ -3956,7 +3834,7 @@ formato: ng-bind = "expression."
 
 Gabarito: Letra A
 
-Item. 5. (CESNGRARIO / BANCO DA AMAZÔNIA - 2018) É um exemplo de uma expressão Angular
+5. (CESNGRARIO / BANCO DA AMAZÔNIA - 2018) É um exemplo de uma expressão Angular
 (Angular Expression) em AngularJS:
 
 a) <p>Candidato aprovado: {{candidato.nome }}</p>.
@@ -3981,8 +3859,7 @@ Candidato aprovado: {{candidato.nome }]
 
 Gabarito: Letra A
 
-Item. 6. (FCC / TRT2 - 2018) Considere a página web abaixo, que utiliza o Angular JS versão 1.6.9.
-
+6. (FCC / TRT2 - 2018) Considere a página web abaixo, que utiliza o Angular JS versão 1.6.9.
 
 < IDOCTYPE htral>
 
@@ -4033,8 +3910,7 @@ no Angular.
 
 Gabarito: Letra B
 
-Item. 7. (COPERV / UFSC - 2018) Considere a página web abaixo que utiliza Angular.
-
+7. (COPERV / UFSC - 2018) Considere a página web abaixo que utiliza Angular.
 
 «IDOCTYPE html>
 
@@ -4094,10 +3970,9 @@ item III está errado, pois não existe ng-print e o item IV está errado pois $
 
 Gabarito: Letra E
 
-Item. 8. (IBFC /TJ-PE - 2017) Abaixo são apresentadas algumas das principais diretivas no AngularJS:
+8. (IBFC /TJ-PE - 2017) Abaixo são apresentadas algumas das principais diretivas no AngularJS:
 
 (1) ng-model
-
 
 (2) ng-app
 
@@ -4158,13 +4033,11 @@ Gabarito: Letra B
 
 x
 
-
 / 114
 
 /
 
-
-Item. 9. (CESPE / SEDF - 2017) AngularJS, Ajax, JQuery, Less e PHP são tecnologias para
+9. (CESPE / SEDF - 2017) AngularJS, Ajax, JQuery, Less e PHP são tecnologias para
 desenvolvimento webfront-end.
 
 Comentários:
@@ -4205,7 +4078,7 @@ sim validação de forms do lado do cliente.
 
 Gabarito: Letra D
 
-Item. 11. (FCC / TRT11 - 2017) Considere o fragmento de código HTML abaixo.
+11. (FCC / TRT11 - 2017) Considere o fragmento de código HTML abaixo.
 
 <body> <div> <label>processo N°:</label> <input
 types="text" ng-
@@ -4215,11 +4088,9 @@ Este fragmento evidencia o uso de:
 
 a) QueryJS.
 
-
 / 114
 
 /
-
 
 b) Facelets.
 
@@ -4282,11 +4153,9 @@ expressão booleana.
 
 x
 
-
 / 114
 
 /
-
 
 Instancia umtemplate, em uma lista de escolhas, dependendo do valor obtido
 expressão.
@@ -4301,7 +4170,7 @@ Altera a política de segurança do conteúdo.
 
 Gabarito: Letra C
 
-Item. 13. (CESPE / FUB - 2018) Com relação ao uso dos frameworks AngularJS e Hibernate, julgue o item
+13. (CESPE / FUB - 2018) Com relação ao uso dos frameworks AngularJS e Hibernate, julgue o item
 a seguir.
 
 Eventos do AngularJS podem ser usados para associar diferentes ações a diferentes
@@ -4343,11 +4212,9 @@ diretivas e vinculando dados ao HTML através de expressões.
 
 Comentários:
 
-
 / 114
 
 /
-
 
 AngularJS visa declarar visualizações dinâmicas em aplicações web, estendendo atributos
 do HTML
@@ -4355,7 +4222,7 @@ com diretivas e vinculando dados ao HTML através de expressões.
 
 Gabarito: Letra E
 
-Item. 15. (CESPE / STJ - 2015) AngularJS segue um modelo MVC. Qual a diretiva correta em
+15. (CESPE / STJ - 2015) AngularJS segue um modelo MVC. Qual a diretiva correta em
 AngularJS
 para ligar um elemento de entrada de dados da visão, como um campo input dotipo
 texto, a um
@@ -4406,11 +4273,9 @@ NG-CSP Altera a política de segurança do conteúdo.
 
 x
 
-
 / 114
 
 /
-
 
 Gabarito: Letra D
 
@@ -4429,18 +4294,16 @@ sempre que o valor da expressão mudar.
 
 Gabarito: Correto
 
-
 / 114
 
 /
-
 
 LISTA DE QUESTõES - ANGULARJS
 
 í. (CESPE / STM - 2018) O serviço Angular JS $http é usado para fazer uma chamada Ajax para o
 servidor.
 
-Item. 2. (CESPE/ BASA - 2018) É um exemplo de uma expressão Angular (Angular Expression) em
+2. (CESPE/ BASA - 2018) É um exemplo de uma expressão Angular (Angular Expression) em
 AngularJS:
 
 a) <p>Candidato aprovado: [{candidato.nome ]}</p>
@@ -4453,7 +4316,7 @@ d) <p>Candidato aprovado: <?= candidato.nome ?> </p>
 
 e) <p>Candidato aprovado: <js:angular value="candidato.nome"/x/p>
 
-Item. 3. (CESPE / STM - 2018) Após ser executada, a expressão Angular JS
+3. (CESPE / STM - 2018) Após ser executada, a expressão Angular JS
 
 <div ng-app="">
 
@@ -4463,7 +4326,7 @@ Item. 3. (CESPE / STM - 2018) Após ser executada, a expressão Angular JS
 
 produzirá, como resultado, Resultado: 17
 
-Item. 4. (FCC / DPE-RS - 2017) AngularJS é umframework JavaScript, também referenciado como uma
+4. (FCC / DPE-RS - 2017) AngularJS é umframework JavaScript, também referenciado como uma
 biblioteca escrita em JavaScript. Esse framework permite o uso de
 a) expressões escritas dentro de uma diretiva no formato: ng-bind - "expression".
 
@@ -4475,7 +4338,7 @@ d) XML com diretivas xsd, como xsd-app, xsd-model e xsd-bind.
 
 e) expressões que suportam condicionais, loops e exceções, mas não suportam filtros.
 
-Item. 5. (CESNGRARIO / BANCO DA AMAZÔNIA - 2018) É um exemplo de uma expressão Angular
+5. (CESNGRARIO / BANCO DA AMAZÔNIA - 2018) É um exemplo de uma expressão Angular
 (Angular Expression) em AngularJS:
 
 a) <p>Candidato aprovado: [{candidato.nome ]}</p>.
@@ -4488,8 +4351,7 @@ d) <p>Candidato aprovado: <?= candidato.nome ?> </p>.
 
 e) <p>Candidato aprovado: <js:angular value="candidato. nome"/x/p>.
 
-Item. 6. (FCC / TRT2 - 2018) Considere a página web abaixo, que utiliza o Angular JS versão 1.6.9.
-
+6. (FCC / TRT2 - 2018) Considere a página web abaixo, que utiliza o Angular JS versão 1.6.9.
 
 < IDOCTYPE htral>
 
@@ -4530,7 +4392,7 @@ d) <p>Total: <script>Math.calc(a * b)</scriptx/p>
 
 e) <p>Total: <script ng-math="a * b"x/scriptx/p>
 
-Item. 7. (COPERV/ UFSC 2018) Considere a página web abaixo que utiliza Angular.
+7. (COPERV/ UFSC 2018) Considere a página web abaixo que utiliza Angular.
 
 <!DOCTYPE html>
 
@@ -4562,7 +4424,6 @@ I. <p ng-bind="nome,,x/p>
 
 II. <p>{{nomeH</p>
 
-
 III. <p ng-print="nome"x/p>
 
 IV. <p>{$nome}</p>
@@ -4580,7 +4441,7 @@ d) Ie IV.
 
 e) I e II.
 
-Item. 8. (IBFC /TJ-PE - 2017) Abaixo são apresentadas algumas das principais diretivas no AngularJS:
+8. (IBFC /TJ-PE - 2017) Abaixo são apresentadas algumas das principais diretivas no AngularJS:
 
 (1) ng-model
 
@@ -4602,11 +4463,11 @@ d) da relação apresentada somente são aplicadas o 1, 3 e 4
 
 e) da relação apresentada todas diretivas podem ser aplicadas
 
-Item. 9. (CESPE / SEDF - 2017) AngularJS, Ajax, JQuery, Less e PHP são
+9. (CESPE / SEDF - 2017) AngularJS, Ajax, JQuery, Less e PHP são
 tecnologias para
 desenvolvimento webfront-end.
 
-Item. 10. (FGV / IBGE - 2016) Com relação ao AngularJS, analise as afirmativas a seguir:
+10. (FGV / IBGE - 2016) Com relação ao AngularJS, analise as afirmativas a seguir:
 
 I. É capaz de estender o HTML graças às diretivas do tipo ng-init e ng-app.
 
@@ -4624,8 +4485,7 @@ d) I e II
 
 e) I e III
 
-
-Item. 11. (FCC / TRT ii - 2017) Considere o fragmento de código HTML abaixo.
+11. (FCC / TRT ii - 2017) Considere o fragmento de código HTML abaixo.
 
 <body> <div> <label>processo N°:</label> <input
 types="text" ng-
@@ -4643,7 +4503,7 @@ d) Portlets.
 
 e) PrimeFaces.
 
-Item. 12. (VUNESP/ FUNDUNESP - 2016) No AngularJS, a diretiva ng-model é utilizada para:
+12. (VUNESP/ FUNDUNESP - 2016) No AngularJS, a diretiva ng-model é utilizada para:
 
 a) inicializar dados do modelo.
 
@@ -4657,7 +4517,7 @@ e) indicar que os dados contidos em um elemento HTML não devem ser obtidos a pa
 do
 escopo raiz.
 
-Item. 13. (CESPE / FUB - 2018) Com relação ao uso dos frameworks AngularJS e Hibernate, julgue o item
+13. (CESPE / FUB - 2018) Com relação ao uso dos frameworks AngularJS e Hibernate, julgue o item
 a seguir.
 
 Eventos do AngularJS podem ser usados para associar diferentes ações a diferentes
@@ -4666,7 +4526,7 @@ HTML; por exemplo, um evento AngularJS pode ser usado para associar uma ação
 relacionada
 à seleção de um elemento HTML por meio do uso de um mouse.
 
-Item. 14. (FGV / IBGE - 2016) Mantido pelo Google, o AngularJS é um framework popular usado para:
+14. (FGV / IBGE - 2016) Mantido pelo Google, o AngularJS é um framework popular usado para:
 
 a) ampliar as funções do CSS, estendendo a biblioteca da linguagem com novos comandos
 e
@@ -4684,12 +4544,11 @@ d) substituir o HTML como linguagem de marcação para hierarquização mais
 eficiente do
 conteúdo;
 
-
 e) declarar visualizações dinâmicas em aplicações web, estendendo atributos do
 HTML com
 diretivas e vinculando dados ao HTML através de expressões.
 
-Item. 15. (CESPE / STJ - 2015) AngularJS segue um modelo MVC. Qual a diretiva correta em
+15. (CESPE / STJ - 2015) AngularJS segue um modelo MVC. Qual a diretiva correta em
 AngularJS
 para ligar um elemento de entrada de dados da visão, como um campo input do tipo
 texto, a um
@@ -4701,34 +4560,31 @@ c) ngBind
 d) ngModel
 e) ngLink
 
-Item. 16. (CESPE / STJ - 2015) O atributo ngBind informa ao AngularJS para atualizar o
+16. (CESPE / STJ - 2015) O atributo ngBind informa ao AngularJS para atualizar o
 conteúdo do
 texto, quando o valor da expressão for alterado.
-
 
 / 114
 
 /
 
-
 GABARITo - ANGULARJS
 
-Item. 1. CORRETO 7. LETRA E
-Item. 13. CORRETO
+1. CORRETO 7. LETRA E
+13. CORRETO
 
-Item. 2. LETRA A 8. LETRA B
-Item. 14. LETRA E
+2. LETRA A 8. LETRA B
+14. LETRA E
 
-Item. 3. ERRADO 9. ERRADO
-Item. 15. LETRA D
+3. ERRADO 9. ERRADO
+15. LETRA D
 
-Item. 4. LETRA A io. LETRA D
+4. LETRA A io. LETRA D
 16.CORRETO
 
-Item. 5. LETRA A li. LETRA C
+5. LETRA A li. LETRA C
 
-Item. 6. LETRA B 12. LETRA C
-
+6. LETRA B 12. LETRA C
 
 NoDEJS
 
@@ -4741,7 +4597,6 @@ enquanto as fotos,
 subiam uma barra de progresso mostrava gradativamente o progresso do upload.
 
 Multi Threaded Server
-
 
 Request
 
@@ -4766,7 +4621,6 @@ O
 o Thread Processing Thread Waiting
 
 Para quem quiser conhecê-lo: https://www.youtube.com/watch?v=SAc0vQCC6UQ
-
 
 Ele imaginou como aquilo era implementado e descobriu que, como o navegador não sabia,
 ele
@@ -4814,11 +4668,9 @@ fila. A primeira requisição entra no Event Loop e o servidor delega a requisi�
 alguma thread
 assíncrona.
 
-
 / 114
 
 /
-
 
 Dessa forma, a entrada/saída de dados será não-bloqueante, ou seja, se uma
 atividade não
@@ -4856,11 +4708,9 @@ ela apenas executa o Javascript. Galera, é possível escrever livros sobre isso
 nunca caiu em
 prova, então vamos parar por aqui...
 
-
 / 114
 
 /
-
 
 Conceitos Básicos
 
@@ -4878,7 +4728,6 @@ abaixo para entender melhor:
 
 T *js
 
-
 .hbs
 
 T .sass
@@ -4892,7 +4741,6 @@ T .sass
 *js .css
 
 *jpg *png
-
 
 .sass
 
@@ -4935,7 +4783,6 @@ realize a conversão desdes arquivos em módulos com gráficos de dependência. 
 temos o
 MODE que realizam a execução do webpack em produção.
 
-
 QUESTõES CoMENTADAS - WEBPACkOS
 
 í. (QUESTÃO INÉDITA) Webpack é um empacotador javascript que realiza a conversão de
@@ -4949,7 +4796,7 @@ aplicações em pacotes, que são ativos estáticos que visam servir de conteúd
 
 Gabarito: Correto
 
-Item. 2. (QUESTÃO INÉDITA) O webpackjs realiza o empacotamento de módulo dinâmico convertendo
+2. (QUESTÃO INÉDITA) O webpackjs realiza o empacotamento de módulo dinâmico convertendo
 as aplicações em pacotes.
 
 Comentários:
@@ -4960,7 +4807,7 @@ aplicações em pacotes.
 
 Gabarito: Errado
 
-Item. 3. (QUESTÃO INÉDITA) O agrupamento ou empacotamento de módulos
+3. (QUESTÃO INÉDITA) O agrupamento ou empacotamento de módulos
 estáticos para
 aplicações javascript é a principal finalidade do webpackjs.
 
@@ -4972,7 +4819,7 @@ principal finalidade do webpackjs.
 
 Gabarito: Correto
 
-Item. 4. (QUESTÃO INÉDITA) O webpack realiza o processamento das aplicações, empacotamento e a
+4. (QUESTÃO INÉDITA) O webpack realiza o processamento das aplicações, empacotamento e a
 partir disso, gerar um gráfico que mapeia cada módulo e as dependências de um ou mais pacotes
 
 Comentários:
@@ -4983,8 +4830,7 @@ um gráfico que mapeia cada módulo e as dependências de um ou mais pacotes
 
 Gabarito: Correto
 
-
-Item. 5. (QUESTÃO INÉDITA) O ENTRY é uma das funcionalidades do webpack e é responsável
+5. (QUESTÃO INÉDITA) O ENTRY é uma das funcionalidades do webpack e é responsável
 por
 indicar qual a aplicação do webpack deverá ser utilizado para começar a construção do
 gráfico
@@ -4998,7 +4844,7 @@ aplicação do webpack deverá ser utilizado para começar a construção do gr�
 
 Gabarito: Errado
 
-Item. 6. (QUESTÃO INÉDITA) Através do ENTRY quanto um ponto de entrada é definido, o
+6. (QUESTÃO INÉDITA) Através do ENTRY quanto um ponto de entrada é definido, o
 webpack
 encontra as dependências e realiza a importação.
 
@@ -5010,7 +4856,7 @@ dependências e realiza a importação.
 
 Gabarito: Correto
 
-Item. 7. (QUESTÃO INÉDITA) Por padrão no webpack o ponto de entrada é o arquivo
+7. (QUESTÃO INÉDITA) Por padrão no webpack o ponto de entrada é o arquivo
 ./src/index.config,
 porém é possível definir outro arquivo ou até multiplus arquivos como ponto de entrada
 no
@@ -5028,7 +4874,7 @@ webpack.config.js.
 
 Gabarito: Errado
 
-Item. 8. (QUESTÃO INÉDITA) O OUTPUT no webpack, diz respeito a propriedade que define o
+8. (QUESTÃO INÉDITA) O OUTPUT no webpack, diz respeito a propriedade que define o
 nome e
 o local do pacote gerado pelo webpack.
 
@@ -5040,13 +4886,11 @@ gerado pelo webpack.
 
 Gabarito: Correto
 
-
 / 114
 
 /
 
-
-Item. 9. (QUESTÃO INÉDITA) Os LOADERS são módulos que são instalados de forma separada no
+9. (QUESTÃO INÉDITA) Os LOADERS são módulos que são instalados de forma separada no
 webpack e que possibilitam que o webpack realize a conversão desdes arquivos em módulos
 com gráficos de dependência.
 
@@ -5059,7 +4903,7 @@ dependência.
 
 Gabarito: Correto
 
-Item. 10. (QUESTÃO INÉDITA) No webpack, o MODE realiza a execução em desenvolvimento e não
+10. (QUESTÃO INÉDITA) No webpack, o MODE realiza a execução em desenvolvimento e não
 em
 produção.
 
@@ -5069,11 +4913,9 @@ Ao contrário, o MODE no webpack realiza a execução em produção e não em de
 
 Gabarito: Errado
 
-
 / 114
 
 /
-
 
 LISTA DE QUESTõES - WEBPACkJS
 
@@ -5081,73 +4923,70 @@ LISTA DE QUESTõES - WEBPACkJS
 conversão de
 aplicações em módulos com gráficos.
 
-Item. 2. (QUESTÃO INÉDITA) O webpackjs realiza o empacotamento de módulo dinâmico convertendo
+2. (QUESTÃO INÉDITA) O webpackjs realiza o empacotamento de módulo dinâmico convertendo
 as aplicações em pacotes.
 
-Item. 3. (QUESTÃO INÉDITA) O agrupamento ou empacotamento de módulos
+3. (QUESTÃO INÉDITA) O agrupamento ou empacotamento de módulos
 estáticos para
 aplicações javascript é a principal finalidade do webpackjs.
 
-Item. 4. (QUESTÃO INÉDITA) O webpack realiza o processamento das aplicações, empacotamento e
+4. (QUESTÃO INÉDITA) O webpack realiza o processamento das aplicações, empacotamento e
 a
 partir disso, gerar um gráfico que mapeia cada módulo e as dependências de um ou mais pacotes
 
-Item. 5. (QUESTÃO INÉDITA) O ENTRY é uma das funcionalidades do webpack e é responsável
+5. (QUESTÃO INÉDITA) O ENTRY é uma das funcionalidades do webpack e é responsável
 por
 indicar qual a aplicação do webpack deverá ser utilizado para começar a construção do
 gráfico
 de dependências.
 
-Item. 6. (QUESTÃO INÉDITA) Através do ENTRY quanto um ponto de entrada é definido, o
+6. (QUESTÃO INÉDITA) Através do ENTRY quanto um ponto de entrada é definido, o
 webpack
 encontra as dependências e realiza a importação.
 
-Item. 7. (QUESTÃO INÉDITA) Por padrão no webpack o ponto de entrada é o arquivo
+7. (QUESTÃO INÉDITA) Por padrão no webpack o ponto de entrada é o arquivo
 ./src/index.config,
 porém é possível definir outro arquivo ou até multiplus arquivos como ponto de entrada
 no
 arquivo de configuração webpack.config.js.
 
-Item. 8. (QUESTÃO INÉDITA) O OUTPUT no webpack, diz respeito a propriedade que define o
+8. (QUESTÃO INÉDITA) O OUTPUT no webpack, diz respeito a propriedade que define o
 nome e
 o local do pacote gerado pelo webpack.
 
-Item. 9. (QUESTÃO INÉDITA) Os LOADERS são módulos que são instalados de forma separada no
+9. (QUESTÃO INÉDITA) Os LOADERS são módulos que são instalados de forma separada no
 webpack e que possibilitam que o webpack realize a conversão desdes arquivos em módulos
 com gráficos de dependência.
 
-Item. 10. (QUESTÃO INÉDITA) No webpack, o MODE realiza a execução em desenvolvimento e não
+10. (QUESTÃO INÉDITA) No webpack, o MODE realiza a execução em desenvolvimento e não
 em
 produção.
 
-
 GABARITo - WEBPACkJS
 
-Item. 1. CORRETO
+1. CORRETO
 
-Item. 2. ERRADO
+2. ERRADO
 
-Item. 3. CORRETO
+3. CORRETO
 
-Item. 4. CORRETO
+4. CORRETO
 
-Item. 5. ERRADO
+5. ERRADO
 
-Item. 6. CORRETO
+6. CORRETO
 
-Item. 7. ERRADO
+7. ERRADO
 
-Item. 8. CORRETO
+8. CORRETO
 
-Item. 9. CORRETO
+9. CORRETO
 
-Item. 10. ERRADO
-
+10. ERRADO
 
 / 114
 
 /
-
 
 Conceitos Básicos
 
@@ -5181,11 +5020,9 @@ conexão persistente entre cliente/servidor e as duas partes podem enviar dados
 a qualquer
 momento.
 
-
 / 114
 
 /
-
 
 Galera, demorou muito até essa tecnologia chegar! Navegadores são excelentes em
 fazer
@@ -5257,11 +5094,9 @@ A linha 2 abre um WebSocket com o serviço disponível em "ws://meuservico.com.b
 Essa
 conexão usa a própria conexão HTTP da página, e mantém o canal aberto enquanto o socket não
 
-
 / 114
 
 /
-
 
 forfechado. As linhas 5-7 registram uma função para ser chamada sempre que uma
 mensagem for
@@ -5302,7 +5137,6 @@ Por isso, entenda bem os conceitos desse tópico, pois seu examinador provavelme
 uma
 questão simples sobre o que o WebSocket é (ou tentar te enganar, falando coisas que ele não é).
 
-
 QUESTõES CoMENTADAS - WEBSoCkET
 
 í. (UFC / CCV- 2019) Sobre WebSockets, assinale a alternativa correta.
@@ -5341,7 +5175,7 @@ protocolo WebSocket, com uma requisição de Upgrade, guarde isso.
 
 Gabarito: Letra D
 
-Item. 2. (CESPE / TCE-PA - 2016) O WebSocket permite o desenvolvimento de diversas
+2. (CESPE / TCE-PA - 2016) O WebSocket permite o desenvolvimento de diversas
 aplicações em
 tempo real como, por exemplo, aplicações de bate-papo, jogos online com múltiplos
 jogadores
@@ -5355,13 +5189,12 @@ por exemplo, aplicações de bate-papo, jogos online com múltiplos jogadores e 
 
 Gabarito: Correto
 
-Item. 3. (COVEST / UFPE - 2019) Considerando os browsers mais populares (Chrome, Safari e
+3. (COVEST / UFPE - 2019) Considerando os browsers mais populares (Chrome, Safari e
 Firefox),
 que dão vasto suporte à linguagem JavaScript, é correto afirmar que:
 
 a) esses browsers por questões de segurança, não permitem que scripts manipulem o conteúdo
 HTML que foi renderizado na página.
-
 
 b) eles dão suporte nativo à comunicação bidirecional com aplicações remotas
 através de
@@ -5387,7 +5220,7 @@ dão suporte nativo à comunicação bidirecional com aplicações remotas atrav
 
 Gabarito: Letra B
 
-Item. 4. (CCV - UFC - 2018) Sobre WebSocket assinale a afirmativa correta.
+4. (CCV - UFC - 2018) Sobre WebSocket assinale a afirmativa correta.
 
 a) WebSocket não funciona na presença deum servidor proxy.
 
@@ -5413,17 +5246,15 @@ porta 443 para conexões WebSocket tuneladas sobre TLS (Jransport Layer Security
 
 Gabarito: Letra E
 
-Item. 5. (QUESTÃO INÉDITA) O WebSockets é uma tecnologia avançada que torna possível abrir
+5. (QUESTÃO INÉDITA) O WebSockets é uma tecnologia avançada que torna possível abrir
 uma
 sessão de comunicação interativa entre o navegador do usuário e um servidor
 
 Comentários:
 
-
 / 114
 
 /
-
 
 Perfeito! O WebSockets é uma tecnologia avançada que torna possível abrir uma
 sessão de
@@ -5431,7 +5262,7 @@ comunicação interativa entre o navegador do usuário e um servidor.
 
 Gabarito: Correto
 
-Item. 6. (QUESTÃO INÉDITA) WebSockets permitem abrir uma conexão com o servidor
+6. (QUESTÃO INÉDITA) WebSockets permitem abrir uma conexão com o servidor
 remoto e
 trafegar dados arbitrariamente do servidor para o cliente, mas não do cliente para o servidor.
 
@@ -5445,7 +5276,7 @@ do servidor para o cliente, vice-versa.
 
 Gabarito: Errado
 
-Item. 7. (QUESTÃO INÉDITA) Websocket utiliza uma comunicação bidirecional full-duplex
+7. (QUESTÃO INÉDITA) Websocket utiliza uma comunicação bidirecional full-duplex
 sobre um
 único Soquete TCP.
 
@@ -5457,7 +5288,7 @@ Soquete TCP.
 
 Gabarito: Correto
 
-Item. 8. (QUESTÃO INÉDITA) É possível utilizar o WebSockets para sincronizar o meu
+8. (QUESTÃO INÉDITA) É possível utilizar o WebSockets para sincronizar o meu
 aplicativo de
 perguntas com o aplicativo de vocês de forma que, a cada vez que eu responder uma
 pergunta,
@@ -5475,17 +5306,15 @@ para a próxima pergunta tanto no meu aplicativo quanto no aplicativo de vocês.
 
 Gabarito: Correto
 
-Item. 9. (QUESTÃO INÉDITA) Para utilizar o WebSocket, utilizamos uma URL de
+9. (QUESTÃO INÉDITA) Para utilizar o WebSocket, utilizamos uma URL de
 conexão com
 protocolo https.
 
 Comentários:
 
-
 / 114
 
 /
-
 
 Utilizamos o protocolo ws e não o https. Logo, o correto seria: Para utilizar o
 WebSocket, utilizamos
@@ -5495,7 +5324,7 @@ let ws = new WebSocket("ws://meuservico.com.br/alguma");
 
 Gabarito: Errado
 
-Item. 10. (QUESTÃO INÉDITA) Entre as funcionalidades do websocket, temos o new
+10. (QUESTÃO INÉDITA) Entre as funcionalidades do websocket, temos o new
 WebSocket(url),
 que é responsável por abrir o websocket.
 
@@ -5507,7 +5336,7 @@ por abrir o websocket.
 
 Gabarito: Correto
 
-Item. 11. (QUESTÃO INÉDITA) Entre as funcionalidades do websocket, temos o ws.onerror, que
+11. (QUESTÃO INÉDITA) Entre as funcionalidades do websocket, temos o ws.onerror, que
 é o
 callback de quando ocorrer um erro.
 
@@ -5519,11 +5348,9 @@ ocorrer um erro.
 
 Gabarito: Correto
 
-
 / 114
 
 /
-
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -5547,13 +5374,13 @@ e) Por padrão, o protocolo WebSocket usa a porta 8080 para conexões WebSocket 
 e a
 porta 443 para conexões WebSocket encapsuladas porTLS (Jransport Layer Security).
 
-Item. 2. (CESPE / TCE-PA - 2016) O WebSocket permite o desenvolvimento de diversas
+2. (CESPE / TCE-PA - 2016) O WebSocket permite o desenvolvimento de diversas
 aplicações em
 tempo real como, por exemplo, aplicações de bate-papo, jogos online com múltiplos
 jogadores
 e mapas interativos.
 
-Item. 3. (COVEST / UFPE - 2019) Considerando os browsers mais populares (Chrome, Safari e
+3. (COVEST / UFPE - 2019) Considerando os browsers mais populares (Chrome, Safari e
 Firefox),
 que dão vasto suporte à linguagem JavaScript, é correto afirmar que:
 
@@ -5577,7 +5404,7 @@ e) o código escrito em JavaScript é incompatível com as versões desses
 browsers para
 smartphones.
 
-Item. 4. (CCV - UFC - 2018) Sobre WebSocket assinale a afirmativa correta.
+4. (CCV - UFC - 2018) Sobre WebSocket assinale a afirmativa correta.
 
 a) WebSocket não funciona na presença deum servidor proxy.
 
@@ -5587,7 +5414,6 @@ c) WebSocket permite a comunicação bidirecional por canais full-duplex sobre u
 conexão
 UDP.
 
-
 d) A especificação WebSocketdefine dois esquemas de URI: ws (WebSocket) and
 ws-tls
 (WebSocket Secure).
@@ -5596,19 +5422,19 @@ e) Por padrão, o protocolo WebSocket usa a porta 8o para conexões WebSocket re
 e a
 porta 443 para conexões Vl/ebSoc/cettuneladas sobre TLS (Transport Layer Security').
 
-Item. 5. (QUESTÃO INÉDITA) O WebSockets é uma tecnologia avançada que torna possível abrir
+5. (QUESTÃO INÉDITA) O WebSockets é uma tecnologia avançada que torna possível abrir
 uma
 sessão de comunicação interativa entre o navegador do usuário e um servidor
 
-Item. 6. (QUESTÃO INÉDITA) WebSockets permitem abrir uma conexão com o servidor
+6. (QUESTÃO INÉDITA) WebSockets permitem abrir uma conexão com o servidor
 remoto e
 trafegar dados arbitrariamente do servidor para o cliente, mas não do cliente para o servidor.
 
-Item. 7. (QUESTÃO INÉDITA) Websocket utiliza uma comunicação bidirecional full-duplex
+7. (QUESTÃO INÉDITA) Websocket utiliza uma comunicação bidirecional full-duplex
 sobre um
 único Soquete TCP.
 
-Item. 8. (QUESTÃO INÉDITA) É possível utilizar o WebSockets para sincronizar o meu
+8. (QUESTÃO INÉDITA) É possível utilizar o WebSockets para sincronizar o meu
 aplicativo de
 perguntas com o aplicativo de vocês de forma que, a cada vez que eu responder uma
 pergunta,
@@ -5616,49 +5442,46 @@ passe imediatamente para a próxima pergunta tanto no meu aplicativo quanto no
 aplicativo de
 vocês
 
-Item. 9. (QUESTÃO INÉDITA) Para utilizar o WebSocket, utilizamos uma URL de
+9. (QUESTÃO INÉDITA) Para utilizar o WebSocket, utilizamos uma URL de
 conexão com
 protocolo https.
 
-Item. 10. (QUESTÃO INÉDITA) Entre as funcionalidades do websocket, temos o new
+10. (QUESTÃO INÉDITA) Entre as funcionalidades do websocket, temos o new
 WebSocket(url),
 que é responsável por abrir o websocket.
 
-Item. 11. (QUESTÃO INÉDITA) Entre as funcionalidades do websocket, temos o ws.onerror, que
+11. (QUESTÃO INÉDITA) Entre as funcionalidades do websocket, temos o ws.onerror, que
 é o
 callback de quando ocorrer um erro.
-
 
 / 114
 
 /
 
-
 GABARITo - WEBSoCkET
 
-Item. 1. LETRA D
+1. LETRA D
 
-Item. 2. CORRETO
+2. CORRETO
 
-Item. 3. LETRA B
+3. LETRA B
 
-Item. 4. LETRA E
+4. LETRA E
 
-Item. 5. CORRETO
+5. CORRETO
 
-Item. 6. ERRADO
+6. ERRADO
 
-Item. 7. CORRETO
+7. CORRETO
 
-Item. 8. CORRETO
+8. CORRETO
 
-Item. 9. ERRADO
+9. ERRADO
 ío.CORRETO
 
-Item. 11. CORRETO
+11. CORRETO
 
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 PWA (PRoCRESSIvE WEB APPS)
 
@@ -5691,7 +5514,6 @@ smartTV ou do seu smartphone, a experiência do usuário será semelhante.
 Vamos explorar isso com os sites, para ficar mais aderente. Imagina que você acessou
 o Chrome ou
 Mozilla Firefox e quer acesso o Google Maps.
-
 
 Onde entra o PWA? Simples: Se através de uma página web, você conseguir acessar uma
 função
@@ -5730,16 +5552,13 @@ SUPORTE OFFLINE como dito, os PWAs são capazes de manter funcionalidades dispon
 sem
 internet, utilizando o cache do navegador;
 
-
 ACESSO À CÂMERA, ARQUIVOS,
 CONTATOS EGEOLOCALIZAÇÃO
 
 As aplicações PWA podem acessar recursos do dispositivo para aprimorar a
 experiência no app.
 
-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 QUESTõES CoMENTADAS - PWA
 
@@ -5764,7 +5583,6 @@ NOTIFICAÇÃO EM PUSH os famosos alertas dos aplicativos podem ser executados a 
 dos PWAs,
 mesmo após fechar 0 navegador;
 
-
 SPLASHSCREEN
 ÍCONENAHOMEDOSMARTPHONE
 
@@ -5783,7 +5601,6 @@ SUPORTE OFFLINE como dito, os PWAs são capazes de manter funcionalidades dispon
 sem
 internet, utilizando o cache do navegador;
 
-
 ACESSO À CÂMERA, ARQUIVOS,
 CONTATOS EGEOLOCALIZAÇÃO
 
@@ -5792,7 +5609,7 @@ experiência no app.
 
 Gabarito: Letra C
 
-Item. 2. (IADES / BRB - 2019) O desenvolvimento de uma PWA pressupõe:
+2. (IADES / BRB - 2019) O desenvolvimento de uma PWA pressupõe:
 
 a) Utilização de tecnologias comuns da Web, incluindo HTML, CSS e JavaScript.
 
@@ -5812,11 +5629,9 @@ em um ambiente de navegador.
 
 Comentários:
 
-
 / 114
 
 /
-
 
 A questão afirma o óbvio: HTML, CSS e JS são fundamentais em conteúdo,
 aparência e
@@ -5824,7 +5639,7 @@ interatividade de qualquer página web, logo pressupor isso para PWA é essencia
 
 Gabarito: Letra A
 
-Item. 3. (COMPERVE / UFRN - 2019) Progressive Web Apps são experiências que combinam a web
+3. (COMPERVE / UFRN - 2019) Progressive Web Apps são experiências que combinam a web
 com
 os aplicativos. Eles são acessados por usuários por meio de um navegador sem exigir
 instalações
@@ -5847,7 +5662,7 @@ aplicativos.
 
 Gabarito: Letra D
 
-Item. 4. (QUESTÃO INÉDITA) Os PWAs encerram um dos maiores desafios envolvidos na criação
+4. (QUESTÃO INÉDITA) Os PWAs encerram um dos maiores desafios envolvidos na criação
 de
 apps: as limitações e regras definidas pelas grandes lojas, como o Google Play e a
 Apple Store,
@@ -5861,7 +5676,7 @@ ou Apple Store, são mais simples e fáceis de elaboração.
 
 Gabarito: Correto
 
-Item. 5. (QUESTÃO INÉDITA) Em relação ao acesso do usuário, os PWAs são uma solução mais
+5. (QUESTÃO INÉDITA) Em relação ao acesso do usuário, os PWAs são uma solução mais
 simples,
 afinal, todos serviços podem ser usados, simplesmente, entrando em um site e
 baixando a
@@ -5875,15 +5690,13 @@ Basta acessar a web em um site que já seja compatível com PWA, não precisa ba
 nenhuma
 aplicação, este é o erro da questão.
 
-
 / 114
 
 /
 
-
 Gabarito: Errado
 
-Item. 6. (QUESTÃO INÉDITA) Ao criar um PWA para sua empresa, seus desenvolvedores
+6. (QUESTÃO INÉDITA) Ao criar um PWA para sua empresa, seus desenvolvedores
 poderão
 fornecer updates normal mente. A diferença, aqui, é que o usuário não precisará
 realizar nenhum
@@ -5899,7 +5712,7 @@ pacotes adicionais, pois todos os processos se mantêm vinculados ao site.
 
 Gabarito: Correto
 
-Item. 7. (QUESTÃO INÉDITA) Os PWAs têm o potencial de ampliar significativamente os acessos
+7. (QUESTÃO INÉDITA) Os PWAs têm o potencial de ampliar significativamente os acessos
 a
 aplicações web, mas não oferecem redução de custos com desenvolvimento web.
 
@@ -5912,7 +5725,7 @@ Logo, PWAs são economicamente mais viáveis.
 
 Gabarito: Errado
 
-Item. 8. (QUESTÃO INÉDITA) As grandes redes sociais da atualidade oferecem PWAs em quase
+8. (QUESTÃO INÉDITA) As grandes redes sociais da atualidade oferecem PWAs em quase
 todas
 as funções dos seus apps oficiais.
 
@@ -5922,7 +5735,7 @@ Como dito, as redes sociais são sem duvida um dos principais cases de utilizaç
 
 Gabarito: Correto
 
-Item. 9. (QUESTÃO INÉDITA) Os Progressive Web Apps podem favorecer blogse portais de
+9. (QUESTÃO INÉDITA) Os Progressive Web Apps podem favorecer blogse portais de
 notícias
 gerando tráfego contínuo às suas páginas.
 
@@ -5933,7 +5746,6 @@ sociais e
 newsletters, oferecendo acesso rápido pela home e por notificações, sem precisar
 convencer o seu
 público a baixar um app ou realizarqualquertipo de cadastro.
-
 
 Gabarito: Correto
 io.(QUESTÃO INÉDITA) Os PWAs podem ser adicionados às homes dos smartphones,
@@ -5947,11 +5759,9 @@ necessidade de abrir o navegador e digitar uma URL.
 
 Gabarito: Correto
 
-
 / 114
 
 /
-
 
 LISTA DE QUESTõES - PWA
 
@@ -5966,7 +5776,7 @@ d) o suporte cross-browser.
 
 e) a utilização de bluetooth.
 
-Item. 2. (IADES/BRB-2019) O desenvolvimento de uma PWA pressupõe:
+2. (IADES/BRB-2019) O desenvolvimento de uma PWA pressupõe:
 
 a) Utilização de tecnologias comuns da Web, incluindo HTML, CSS e JavaScript.
 
@@ -5984,7 +5794,7 @@ e) Nenhum tipo de acesso aos recursos nativos do dispositivo, pois a aplicação
 executada
 em um ambiente de navegador.
 
-Item. 3. (COMPERVE / UFRN - 2019) Progressive Web Apps são experiências que combinam a
+3. (COMPERVE / UFRN - 2019) Progressive Web Apps são experiências que combinam a
 web com
 os aplicativos. Eles são acessados por usuários por meio de um navegadorsem exigir
 instalações
@@ -5999,64 +5809,58 @@ c) descobrível, responsivo e acessível por lojas de aplicativos.
 
 d) progressivo, responsivo e semelhante a aplicativos.
 
-Item. 4. (QUESTÃO INÉDITA) Os PWAs encerram um dos maiores desafios envolvidos na criação
+4. (QUESTÃO INÉDITA) Os PWAs encerram um dos maiores desafios envolvidos na criação
 de
 apps: as limitações e regras definidas pelas grandes lojas, como o Google Play e a
 Apple Store,
 que podem tornar os projetos muito mais caros e complexos.
 
-Item. 5. (QUESTÃO INÉDITA) Em relação ao acesso do usuário, os PWAs são uma solução mais simples,
+5. (QUESTÃO INÉDITA) Em relação ao acesso do usuário, os PWAs são uma solução mais simples,
 afinal, todos serviços podem ser usados, simplesmente, entrando em um site e
 baixando a
 aplicação. Com os apps tradicionais, é necessário acessar a loja do sistema, baixar a
 aplicação,
 abrir e ainda conceder uma série de permissões para, finalmente, utilizá-los.
 
-
-Item. 6. (QUESTÃO INÉDITA) Ao criar um PWA para sua empresa, seus desenvolvedores
+6. (QUESTÃO INÉDITA) Ao criar um PWA para sua empresa, seus desenvolvedores
 poderão
 fornecer updates normal mente. A diferença, aqui, é que o usuário não precisará
 realizar nenhum
 download de pacotes adicionais, pois todos os processos se mantêm vinculados ao site.
 
-Item. 7. (QUESTÃO INÉDITA) Os PWAs têm o potencial de ampliar significativamente os acessos
+7. (QUESTÃO INÉDITA) Os PWAs têm o potencial de ampliar significativamente os acessos
 a
 aplicações web, mas não oferecem redução de custos com desenvolvimento web.
 
-Item. 8. (QUESTÃO INÉDITA) As grandes redes sociais da atualidade oferecem PWAs em quase
+8. (QUESTÃO INÉDITA) As grandes redes sociais da atualidade oferecem PWAs em quase
 todas
 as funções dos seus apps oficiais.
 
-Item. 9. (QUESTÃO INÉDITA) Os Progressive Web Apps podem favorecer blogs e portais de
+9. (QUESTÃO INÉDITA) Os Progressive Web Apps podem favorecer blogs e portais de
 notícias
 gerando tráfego contínuo às suas páginas.
 
-Item. 10. (QUESTÃO INÉDITA) Os PWAs podem ser adicionados às homes dos
+10. (QUESTÃO INÉDITA) Os PWAs podem ser adicionados às homes dos
 smartphones,
 dispensando a necessidade de abrir o navegador e digitar uma URL.
-
 
 / 114
 
 /
 
-
 GABARITo - PWA
 
+1. LETRA C 5- ERRADO
 
-Item. 1. LETRA C 5- ERRADO
-
-Item. 2. LETRA A 6. CORRETO
+2. LETRA A 6. CORRETO
 
 3- LETRA D 7- ERRADO
 
 4- CORRETO 8. CORRETO
 
-Item. 9. CORRETO
+9. CORRETO
 
-Item. 10. CORRETO
-
+10. CORRETO
 
 / 1
-
 

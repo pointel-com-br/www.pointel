@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Classes de palavras - verbos. Emprego de tempos e modos verbais.
-
+# Língua Portuguesa - Classes de palavras - verbos. Emprego de tempos e modos verbais.
 
 Índice
 
@@ -53,7 +52,6 @@ Capítulo. Língua Portuguesa - Classes de palavras - verbos. Emprego de tempos 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 NoçõES INICIAIS
 
 Olá, pessoal! Tudo bem?
@@ -90,9 +88,7 @@ muito isso.
 
 Vamos começar, olho na vaga!!
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 EMPREGO DE TEMPOS E MODOS VERBAIS
 
@@ -157,7 +153,6 @@ Palavra variável que indica ação, estado, fenômeno e processo em geral
 TEMPO - momento em que ocorre a ação Presente
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 MODO - diferentes maneiras em que um fato pode
 se realizar
@@ -248,7 +243,6 @@ ELES levantam ELES levantaram ELES levantarão
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Agora, observem que se tomarmos outro verbo de mesma conjugação, nos mesmos
 tempo e modo, as
 terminações seguirão o mesmo padrão.
@@ -297,16 +291,13 @@ comparando com outros verbos já familiares. As desinências relevantes para a
 prova serão apontadas
 oportunamente.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 MODO INDICATIVO
 
 Modo verbal que expressa certeza, fatos vistos como certos, consumados, concretos.
 
 Presente do Indicativo
-
 
 Eu
 Tu
@@ -354,7 +345,6 @@ Fato pontual ou momentâneo no momento da fala Ele está ranzinza hoje.
 Hábito ou rotina no presente Eu
 corro e nado todo dia.
 
-
 Fato permanente, verdade atemporal, universal, vista
 como fato certo, indiscutível
 
@@ -370,7 +360,6 @@ O Brasil faz parte do Mercosul.
 A novela começa hoje à noite.
 Arrume-se logo, o táxi chega às dez.
 
-
 Presente histórico/narrativo
 
 (Nesse caso, o presente tem referência a ações no
@@ -384,12 +373,9 @@ Em 1908, nasce o mito.
 Machado de Assis publica Dom
 Casmurro em 1899.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Pretérito Perfeito do Indicativo
-
 
 Levantar
 
@@ -401,7 +387,6 @@ Bebi
 Caí
 
 Cair
-
 
 Tu
 Ele
@@ -439,7 +424,6 @@ Pense:
 
 Ex.: Ontem levantei / ele bebeu / eles caíram...
 
-
 Veja os sentidos que seu uso pode implicar.
 
 SENTIDOS DO PRETÉRITO PERFEITO DO
@@ -447,13 +431,11 @@ INDICATIVO
 
 EXEMPLOS
 
-
 Fato que teve início e fim num passado próximo ou
 distante
 
 Li duas aulas de constitucional hoje.
 Li muitos livros na minha infância.
-
 
 Fato passado já concluído, mas cujos efeitos
 perduram até o presente
@@ -486,9 +468,7 @@ mas sim indica um:
 
 :fato atual e reiterado no presente.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 !(TRE-PA / 2020)
 
@@ -503,7 +483,6 @@ jverbo "iluminar" e está no pretérito imperfeito.
 I
 
 :São sinônimos, mas "alumiou" está no pretérito PERFEITO. Questão incorreta.
-
 
 Í(TRE-PA / 2020)
 
@@ -524,7 +503,6 @@ a forma t
 j(UFSC / 2019)
 
 I
-
 
 Hoje sabemos com o mundo...
 
@@ -548,9 +526,7 @@ representa a mesma ideia:
 
 jexpressa pela forma verbal fará.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 jComentários:
 :
@@ -604,9 +580,7 @@ Vejamos alguns exemplos:
 Vertoo verbo
 auxiliar principal
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Que eu tenha amado.
 
@@ -665,9 +639,7 @@ modo breve, as andanças em que me tenho largado pelo mundo na companhia
 de minha mulher
 e de meus fantasmas particulares.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Assinale a opção que apresenta uma forma / locução verbal do texto 1A9AAA
 que denota uma :
@@ -723,7 +695,6 @@ do passado e ele está sendo desenvolvido até o momento da fala. Gabarito letra
 
 Pretérito Imperfeito do Indicativo
 
-
 Eu
 Tu
 Ele
@@ -763,15 +734,12 @@ Para conjugar esse verbo, pense:
 
 "Antigamente eu
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex.: Antigamente eu bebia /eles caíam /elas levantavam...
 
 As desinências de pretérito imperfeito do indicativo que você deve procurar são "VA A IA INHA"
 (amaVA, compraVA, erA, pretendiA, IA, faZIA, vINHA, tINHA).
-
 
 Veja os sentidos que seu uso pode implicar.
 
@@ -779,7 +747,6 @@ SENTIDOS DO PRETÉRITO IMPERFEITO DO
 INDICATIVO
 
 EXEMPLOS
-
 
 Fatos repetidos, frequentes, habituais no passado
 
@@ -789,13 +756,11 @@ ainda malhava.
 Quando eu era pequeno, eu achava a vida
 chata.
 
-
 Uma ação que estava ocorrendo (ação durativa ou
 contínua) quando outra (instantânea) aconteceu
 
 Eu estava dormindo, quando o cachorro
 latiu.
-
 
 Ação planejada, esperada, que não se realizou
 
@@ -828,9 +793,7 @@ b) o novo prêmio atenderia ao mercado
 
 : b) o novo prêmio atenderia ao mercado (futuro do pretérito)
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 c) ou o que o contraria (presente)
 
@@ -869,7 +832,6 @@ estão conjugadas no pretérito:
 : imperfeito do indicativo. Já a forma entrou está no pretérito PERFEITO. Gabarito letra D.
 
 Pretérito Mais-Que-Perfeito do Indicativo
-
 
 Eu
 Tu
@@ -919,9 +881,7 @@ pretérito mais-que-perfeito composto, que é semanticamente
 equivalente ao mais-que-perfeito
 simples.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O pretérito mais-que-perfeito composto é formado pela locução Tinha
 / Havia + Particípio.
@@ -997,9 +957,7 @@ preservados se a forma verbal:
 : b) teria invertido.
 :
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 : c) invertesse.
 
@@ -1042,7 +1000,6 @@ fato anterior a esse:
 :(E) "pedira"
 :
 
-
 : Comentários:
 :
 
@@ -1084,9 +1041,7 @@ uma ação em relação:
 
 : a outra.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -1131,7 +1086,6 @@ Ressaltamos que tem que haver um contexto específico que permita essa equivalê
 
 Futuro Do Presente do Indicativo
 
-
 Eu
 Tu
 Ele
@@ -1167,7 +1121,6 @@ Para conjugar o futuro do presente, pense:
 
 "Amanhã eu".
 
-
 Ex.: Amanhã eu farei/ele levantará/e/es cairão...
 
 Veja os sentidos que seu uso pode implicar.
@@ -1177,20 +1130,16 @@ INDICATIVO
 
 EXEMPLOS
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Fato futuro em relação ao momento da fala Passarei no concurso dos
 meus sonhos.
-
 
 Futuro considerado certo por quem fala
 
 O táxi chegará às 23h.
 
 Eu não me casarei na igreja.
-
 
 Pode indicar incerteza ou dúvida (geralmente em
 perguntas)
@@ -1257,9 +1206,7 @@ b) retificar propósitos.
 : d) apresentar sugestões.
 :
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 e) evocar experiências.
 Comentários:
@@ -1284,7 +1231,6 @@ acento, passaríamos a ter
 "permitiRA", forma do pretérito mais-que-perfeito simples do indicativo. Questão correta.
 
 Futuro do Pretérito do Indicativo
-
 
 Eu
 Tu
@@ -1336,20 +1282,16 @@ passado. O marco temporal
 
 Em outras palavras, designa ações posteriores à época de que se fala. Ex.:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Eu disse que você conseguiria, (primeiro eu disse, depois você conseguiu).
 
 Veja os sentidos que seu uso pode implicar.
 
-
 SENTIDOS DO FUTURO DO PRETÉRITO DO
 INDICATIVO
 
 EXEMPLOS
-
 
 Assim como o futuro do presente, pode expressar
 incerteza sobre fatos passados
@@ -1359,7 +1301,6 @@ questão?
 
 Ela teria, segundo estimativas, 4 milhões
 de libras.
-
 
 Em contextos condicionais, indica fatos que não
 ocorreram e provavelmente não ocorrerão
@@ -1377,7 +1318,6 @@ Se eu soubesse, teria contado a todos.
 
 Eu continuaria trabalhando, mesmo se
 ganhasse na loteria.
-
 
 Pode ser usado para expressar polidez em
 pedidos e conselhos
@@ -1403,9 +1343,7 @@ Em interrogativas, pode indicar também a dúvida/possibilidade sobre um fato pa
 Não terá/teria sido em vão nosso esforço?
 Terão/teriam chegado a tempo na escola?
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 HORA IX
 
@@ -1501,14 +1439,11 @@ desenvolveria numa situação
 
 : hipotética: caso não houvesse desigualdade social. Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Vejamos agora um quadro esquemático com as divisões vistas até aqui.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 HORA IX
 
@@ -1561,9 +1496,7 @@ imposição tributária privada:
 
 :seria comparável a usurpação ou roubo. Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 j(EMAP/2018)
 j
@@ -1596,9 +1529,7 @@ Portanto, de forma alguma deixaria a alternativa mais categórica, mas afirmativ
 
 :Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 MoDo SUBJUNTIvo
 
@@ -1619,7 +1550,6 @@ emprego que me
 faca bem.
 
 Presente do Subjuntivo
-
 
 Eu
 Tu
@@ -1669,9 +1599,7 @@ Pena que a vida não seja assim tão colorida.
 
 Temo que a prova venha difícil.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Como mencionado antes, a conjunção subordinativa geralmente leva o verbo
 para o subjuntivo.
@@ -1734,9 +1662,7 @@ ele é carioca). Questão
 
 : incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (IMESF/2019)
 
@@ -1835,9 +1761,7 @@ I
 
 : Comentários:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Terceira pessoa do plural (eles) escutaSSEm. Observe a desinência SSE, que
 marca esse tempo.
@@ -1884,7 +1808,6 @@ d) vale o mesmo raciocínio da letra b. Gabarito letra B.
 
 Pretérito Imperfeito do Subjuntivo
 
-
 Eu
 Tu
 Ele
@@ -1918,7 +1841,6 @@ se eles caíssem
 
 Veja os sentidos que seu uso pode implicar.
 
-
 SENTIDOS DO PRETÉRITO IMPERFEITO
 DO SUBJUNTIVO
 
@@ -1926,13 +1848,11 @@ EXEMPLOS
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Denota ação posterior a outro fato na
 oração principal
 
 Duvidei que minha avó bebesse tanta tequila.
 Pedia que eles se levantassem.
-
 
 Denota, hipóteses, conjectura, condição ou
 desejo
@@ -1967,7 +1887,6 @@ subordinadas ou orações
 que de modo geral expressam hipóteses/desejos.
 
 Futuro do Subjuntivo
-
 
 Eu
 Tu
@@ -2006,9 +1925,7 @@ DECORE!
 
 Para ajudar a conjugação, pense:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "quando eu
 S Denota ação eventual ou hipotética no futuro. Ex.:
@@ -2059,14 +1976,11 @@ Vir (Infinitivo) X Vier (futuro do subjuntivo)
 
 Essa diferença vale para os verbos derivados de por, ter, ver e virt\
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 HORA IX
 
 F(SEDF/2017)
-
 
 I
 
@@ -2138,9 +2052,7 @@ conjugação (Certo. Vogal temática A,:
 
 Vamos relembrar a matéria com alguns quadros esquemáticos sobre o modo subjuntivo:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 z-------------------------------------------------------------
 
@@ -2155,7 +2067,6 @@ amado
 X z
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 MODO IMPERATIVO
 
@@ -2193,7 +2104,6 @@ aquelas exceções do "tu" e "vós" explicadas acima. Você conjuga o subjuntivo
 depois insere o "não".
 Simples!
 
-
 Importante é
 de tratamento.
 
@@ -2222,9 +2132,7 @@ I«** IX
 
 : autora do livro Toque, clique e Leia com Michael Levine...
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No título do livro de Lisa Guernsey mencionado no texto, os verbos estão no:
 
@@ -2277,7 +2185,6 @@ No imperativo negativo, apenas repetimos a forma do presente do subjuntivo.
 Logo, teremos: que tu
 cometas> não cometas tu (esse erro).
 
-
 X
 
 Afirmativo
@@ -2288,7 +2195,6 @@ Estude você!
 
 Fala tu!
 Falai vós!
-
 
 z
 
@@ -2308,9 +2214,7 @@ Não fales assim.
 
 x /
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 FoRMAS NoMINAIS Do VERBo
 
@@ -2367,9 +2271,7 @@ por estudarmos nós
 por estudardes vós
 por estudarem eles
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O fato de estar no singular não quer dizer que seja impessoal, pois pode estar
 flexionado no singular porque
@@ -2422,9 +2324,7 @@ Repare que o futuro do subjuntivo do verbo "ver" é idêntico ao "infinitivo" do
 "vir". Fique atento a
 esses verbos e teste a substituição!!!
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 l«** IX
 
@@ -2479,9 +2379,7 @@ O gerúndio também pode funcionar com valor adjetivo. Ex.:
 
 Tenho um livro ensinando essa questão (um livro que ensina).
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 l«** IX
 
@@ -2545,9 +2443,7 @@ infinitivo caracteriza uma forma nominal e neutra. Gabarito letra B.
 
 (DPE-MT / 2015) Adaptada
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A frase que identifica o primeiro erro - "Usar águo da chuva para beber, tomar banho
 e cozinhar" - emprega
@@ -2568,7 +2464,6 @@ regular, que pode ter
 diversas terminações. Isso sempre gera muita dúvida no dia a dia e nas provas. Segue
 uma pequena lista
 deles.
-
 
 Infinitivo
 Aceitar
@@ -2648,7 +2543,6 @@ Impresso
 
 EXEMPLOS
 
-
 Regular
 (terminação -do)
 
@@ -2660,7 +2554,6 @@ débito automático.
 
 Eu nunca havia aceitado bem críticas.
 
-
 Irregular
 
 (com outras terminações)
@@ -2671,9 +2564,7 @@ os verbos SER / ESTAR.
 O boleto foi pago em dinheiro vivo.
 Estive suspenso do trabalho, por
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 desafiar ordens sem sentido.
 
@@ -2713,7 +2604,6 @@ Questão incorreta.
 I
 I
 
-
 (MPE-PI / 2018)
 
 Eis que se inicia então uma das fases mais intensas na vida de Geraldo Viramundo: sua troca de I
@@ -2736,9 +2626,7 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 I
-
 
 ; Os programas mostram diversos detetives, técnicos e cientistas dedicando toda
 sua atenção o uma
@@ -2770,9 +2658,7 @@ estava bebendo no I
 
 í Então, há alteração de sentido sim. Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 TRANSITIVIDADE VERBAL
 
@@ -2782,13 +2668,11 @@ verbo é "transitivo", isso significa que "pede um complemento". Isso é aprofun
 tópicos de sintaxe
 e regência. Vejamos aqui de maneira objetiva:
 
-
 TRANSITIVIDADE
 
 EXPLICAÇÃO
 
 EXEMPLO
-
 
 VERBO TRANSITIVO
 DIRETO
@@ -2807,7 +2691,6 @@ diretamente, sem preposição, então o verbo é
 transitivo direto e o complemento (charutos) é
 "objeto direto".
 
-
 VERBO TRANSITIVO
 INDIRETO
 
@@ -2825,7 +2708,6 @@ complemento) INdireto (complemento com
 preposição). O complemento é chamado de
 "objeto indireto".
 
-
 VERBO TRANSITIVO
 DIRETO E INDIRETO
 
@@ -2841,7 +2723,6 @@ um preposicionado e outro não. Mazinho dá
 Alao A alauém. Em outras palavras, pede um
 objeto direto e outro indireto. Valem as
 mesmas análises acima.
-
 
 VERBO INTRANSITIVO
 
@@ -2861,9 +2742,7 @@ Observem que os verbos passam sua
 mensagem completa sem necessidade de
 nenhum complemento.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (DPE-SC / 2018)
 
@@ -2927,11 +2806,9 @@ indireto.
 
 0 0 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 / 105
 
 /
-
 
 = e) INCORRETO. Aqui o verbo traz dois complementos: O jornal da cidade de Friburgo
 dedicou uma página =
@@ -2941,12 +2818,9 @@ dedicou uma página =
 
 La
 
-
 I
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CLASSIFICAçÃo DoS VERBoS
 
@@ -2991,9 +2865,7 @@ Cumpre ao policial proteger as pessoas.
 
 Consta que você vomitou no padre.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 l«** IX
 
@@ -3047,9 +2919,7 @@ concordar com a oração:
 o verbo ser é impessoal,
 indicando tempo. Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Verbos auxiliares
 
@@ -3108,9 +2978,7 @@ Está para chegar o avião (sentido de iminência, ação por iniciar).
 As pessoas iam chegando (ação sucessiva, pouco a pouco).
 Venho tratando essa doença há anos (desenvolvimento gradual).
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 0 trabalhou ficou por terminar (ação que deveria ter se realizado).
 
@@ -3184,9 +3052,7 @@ A forma verbal destacada indica
 : a) recomendação. b) necessidade. c) certeza. d) obrigação.
 e) possibilidade. ;
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 = Comentários:
 
@@ -3194,7 +3060,6 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 não.
 
 = Gabarito letra E.
-
 
 : (TRE-PE / 2017)
 
@@ -3243,7 +3108,6 @@ submissão decorre de norma
 
 L
 
-
 I
 
 Verbos de ligação
@@ -3270,9 +3134,7 @@ ultimamente.
 S Mudança de estado. Ex.: Minha mãe ficou mal-humorada. / Minha mãe tornou-se organizada por
 causa do concurso. / Minha mãe virou síndica do prédio.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 J Estado aparente. Ex.: Minha mãe parece distraída.
 
@@ -3331,9 +3193,7 @@ Na letra c, "são" indica estado permanente. Na letras D e E, "crescem" e "busqu
 são verbos nocionais, de
 ação, não de estado. Gabarito letra B.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (SEDF/2017)
 
@@ -3367,13 +3227,11 @@ A maioria dos verbos segue os paradigmas apresentados ao longo da aula.
 Contudo, é possível
 que haja variações ou desvios no modelo. Vejamos algumas classificações:
 
-
 VERBO
 
 EXPLICAÇÃO
 
 EXEMPLOS
-
 
 Regulares
 
@@ -3383,7 +3241,6 @@ conjugação, o radical se mantém
 Eu levanto, tu levantas, ele levanta,
 nós levantamos, vós levantais, eles
 levantam.
-
 
 Irregulares
 
@@ -3396,7 +3253,6 @@ dá, dei); Dizer (digo, diz, disse, direi);
 Querer (quero, quis, quererei); Ouvir
 (ouço, ouve); Trazer (trago, trouxe).
 
-
 Anômalos
 (Ser, Ir)
 
@@ -3406,7 +3262,6 @@ Eu sou, tu és... eu fui... eu era... (que)
 
 eu seja... (se) eu fosse... (quando) eu
 for...
-
 
 Defectivos
 
@@ -3418,9 +3273,7 @@ tópico separado.
 
 Abolir, Precaver, Reaver...
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A principal estratégia da banca para enganar o candidato é conjugar um
 verbo irregular como se
@@ -3438,7 +3291,6 @@ Os verbos terminados em EAR são irregulares, recebem um "i" em
 algumas formas. Sejamos
 práticos, vamos seguir a conjugação do verbo passear, NAS FORMAS EM QUE TEMOS "I".
 
-
 PRESENTE
 INDICATIVO
 
@@ -3447,12 +3299,10 @@ PRESENTE SUBJUNTIVO
 IMPERATIVO
 AFIRMATIVO
 
-
 Eu passeio
 que eu passeie
 
 NÃO HÁ
-
 
 tu passeias
 que tu passeies
@@ -3477,7 +3327,6 @@ em IAR, mas se conjugam como se terminassem em EAR. São as famosas exceções M
 Mediar
 Ansiar
 
-
 Remediar
 ncendiar/intermediar
 Odiar
@@ -3496,9 +3345,7 @@ Vejamos as informações relevante sobre tais verbos.
 
 Os verbos terminados em UAR são regulares. Siga como exemplo o verbo "aguar" (águo, aguei,
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 aguamos, aguássemos. ). Há duas possibilidades de grafia e pronúncia: AveriGU-E ou AveRÍgue.
 
@@ -3519,7 +3366,6 @@ em prova derivam dele.
 Devemos ficar atentos:
 
 Provir
-
 
 Intervir
 Convir >
@@ -3558,9 +3404,7 @@ contraste com a conjugação do verbo "vir", assunto cobrado em muitas
 questões! Trazemos aqui
 a conjugação mais cobrada, a do futuro do subjuntivo do verbo "ver", recite-a como um mantra!
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 FUTURO DO SUBJUNTIVO
 
@@ -3572,7 +3416,6 @@ Quando tu VIERES Quando tu VIRES
 
 Quando ele VIER Quando ele VIR
 
-
 Quando nós
 
 VIERMOS
@@ -3581,7 +3424,6 @@ Quando nós
 
 VIRMOS
 
-
 Quando vós
 
 VIERDES
@@ -3589,7 +3431,6 @@ VIERDES
 Quando vós
 
 VIRDES
-
 
 Quando eles
 
@@ -3627,9 +3468,7 @@ mais-que-perfeito do indicativo; "vier" está no futuro do subjuntivo.
 
 Gabarito letra E.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ver, ter e derivados
 
@@ -3647,7 +3486,6 @@ visse, se eu antevisse, se eu prescrevesse...
 
 Deter
 Entreter
-
 
 Manter
 Obter
@@ -3674,15 +3512,12 @@ Transcrevemos também aqui o futuro e o pretérito imperfeito do
 subjuntivo, pela incidência em
 provas:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 SUBJUNTIVO
 
 FUTURO PRETÉRITO IMPERFEITO
 
-
 VIR
 
 TER
@@ -3690,7 +3525,6 @@ TER
 VIR
 
 TER
-
 
 Quando eu VIER
 
@@ -3700,7 +3534,6 @@ Se eu VIESSE
 
 Se eu TIVESSE
 
-
 Quando tu VIERES
 
 Quando tu TIVERES
@@ -3709,7 +3542,6 @@ Se tu VIESSES
 
 Se tu TIVESSES
 
-
 Quando ele VIER
 
 Quando ele TIVER
@@ -3717,7 +3549,6 @@ Quando ele TIVER
 Se ele VIESSE
 
 Se ele TIVESSE
-
 
 Quando nós
 
@@ -3735,7 +3566,6 @@ Se nós
 
 TIVÉSSEMOS
 
-
 Quando vós
 
 VIERDES
@@ -3747,7 +3577,6 @@ TIVERDES
 Se vós VIÉSSEIS
 
 Se vós TIVÉSSEIS
-
 
 Quando eles
 
@@ -3787,9 +3616,7 @@ e) esperava que ela se contivesse diante dele.
 
 Comentários:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 "Entreter" se conjuga como "ter", então teremos "tiveram/entretiveram".
 
@@ -3802,7 +3629,6 @@ Gabarito letra B.
 Verbo Aderir e similares
 
 Polir
-
 
 Aderir
 
@@ -3856,9 +3682,7 @@ Imperativo afirmativo: adere, adira, adiramos, aderi, adiram.
 
 Imperativo negativo: não adiras, não adira, não adiramos, não adirais, não adiram.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Infinitivo pessoal: aderir, aderires, aderir, aderirmos, aderirdes, aderirem.
 
@@ -3877,7 +3701,6 @@ Em alguns tempos, sofre alteração e sua base de conjugação é -puse-
 Puser, pusermos, puséramos, puserdes, pusesse...
 
 Entrepor
-
 
 Supor
 Compor
@@ -3911,9 +3734,7 @@ preposição. Seus derivados não são acentuados (compor, propor), pois
 serão oxítonas terminadas
 em R e só as oxítonas terminadas em a(s), e(s), o(s), em, ens são acentuadas.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (STJ/2018)
 
@@ -3966,7 +3787,6 @@ quisera, quiséramos, quiséreis,
 quiseram.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Futuro do presente do indicativo: quererei, quererás, quererá, quereremos, querereis, quererão.
 
@@ -4027,9 +3847,7 @@ Imperativo afirmativo: requer(e), requeira, requeiramos, requerei, requeiram.
 Imperativo negativo: não requeiras, não requeira, não requeiramos, não requeirais, não requeiram.
 Infinitivo pessoal: requerer, requereres, requerer, requerermos, requererdes, requererem.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Gerúndio: requerendo.
 Particípio: requerido.
@@ -4079,9 +3897,7 @@ Pôr- PUSE+DESINÊNCIA: Se puser, quando supuséssemos...
 
 Requerer- REQUERE+DESINÊNCIA: Se requeresse, quando requereu...
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Precaver- PRECAVE+DESINÊNCIA: Se precavesse, quando precaveu...
 
@@ -4132,7 +3948,6 @@ emprego do sinal de i
 i
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 a) É a muito custo que preservaremos uma amizade, sobretudo se
 não contivermos nossos
@@ -4207,9 +4022,7 @@ demolir, puir, delinquir, fulgir
 (resplandecer), feder, aturdir, bramir, esculpir, extorquir, retorquir, soer (costumar: ter costume
 de).
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Há certa controvérsia entre esses verbos, pois alguns gramáticos e dicionários listam
 verbos defectivos como
@@ -4272,9 +4085,7 @@ banca pode perguntar o referente do pronome.
 
 I«** IX
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (CGU / 2022)
 
@@ -4347,9 +4158,7 @@ d) Fizeram frente à situação adversa com coragem e elegância, o que nos como
 
 e) O discurso foi bastante positivo, pois o orador o fez de modo acalorado e consistente.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -4410,9 +4219,7 @@ por Trump e o
 
 = presidente nortecoreano - 'fogo e fúria', o 'grande botão' nuclear etc."
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Julgue o item a seguir.
 
@@ -4450,15 +4257,13 @@ ação anterior (agir...)":
 Fazê-lo = Fazer isso (o que foi mencionado: agir para tentar evitar uma calamidade).
 Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - EMPREGo DoS TEMPoS E
 
 MODOS - CEBRASPE
 
-Item. 1. CEBRASPE / PETROBRAS / 2022
+1. CEBRASPE / PETROBRAS / 2022
 
 As tecnologias de contar e escrever histórias não seguiram um caminho linear. A
 própria escrita foi
@@ -4494,7 +4299,7 @@ pelos eruditos
 
 Questão incorreta.
 
-Item. 2. CEBRASPE/MJSP/2022
+2. CEBRASPE/MJSP/2022
 
 Na ótica da saúde pública, pode-se conceituar a política de redução de danos como um
 conjunto de
@@ -4524,11 +4329,9 @@ concessiva, numa oração que indica um fato concreto: ele é carioca).
 
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 3. (CEBRASPE/ MP-CE/2020)
+3. (CEBRASPE/ MP-CE/2020)
 
 Não há conclusões unânimes, mos a ciência e os especialistas caminham para o
 entendimento de que o
@@ -4548,7 +4351,7 @@ indicativo, modo da certeza, dos fatos concretos.
 
 Questão correta.
 
-Item. 4. (CEBRASPE/PGE-PE/2019)
+4. (CEBRASPE/PGE-PE/2019)
 
 Raras vezes na história humana, 0 trabalho, a riqueza, 0 poder e 0 saber mudaram simultaneamente.
 
@@ -4570,7 +4373,7 @@ verossimilhança ao texto.
 
 Questão correta.
 
-Item. 5. (CEBRASPE/SEFAZ-RS/2019)
+5. (CEBRASPE/SEFAZ-RS/2019)
 
 A tributação, portanto, somente pode ser compreendida a partir da necessidade dos
 indivíduos de estabelecer
@@ -4596,11 +4399,9 @@ comparável a usurpação ou roubo.
 
 Questão incorreta.
 
-Item. 6. (CEBRASPE/ PRF / 2019)
-
+6. (CEBRASPE/ PRF / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em
 razão de atividades
@@ -4627,7 +4428,7 @@ Portanto, há mudança de sentido.
 
 Questão incorreta.
 
-Item. 7. (CEBRASPE / PRF / 2019)
+7. (CEBRASPE / PRF / 2019)
 
 Não consigo pensar em um cargo público mais empolgante que o desse homem. Claro que
 o cargo, se existia,
@@ -4654,7 +4455,7 @@ mundo das trevas eternas.
 
 Questão incorreta.
 
-Item. 8. (CEBRASPE / PGE-PE/ 2019)
+8. (CEBRASPE / PGE-PE/ 2019)
 
 Nesse contexto, a Lei Maria da Penha teria o papel de assegurar o reconhecimento das
 mulheres em situação
@@ -4672,13 +4473,11 @@ A questão não fala de sentido, então basta perceber que não há erro nem se 
 enunciado sem lógica.
 Apenas o tempo verbal saiu do campo hipotético para um campo mais concreto.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Questão correta.
 
-Item. 9. (CEBRASPE / SEFAZ-RS / 2019)
+9. (CEBRASPE / SEFAZ-RS / 2019)
 
 A correção gramatical e os sentidos do texto 1A3-I seriam preservados caso o fragmento
 "favorecendo-se,
@@ -4694,7 +4493,7 @@ pede essa preposição.
 
 Questão incorreta.
 
-Item. 10. (CEBRASPE / BNB / 2018)
+10. (CEBRASPE / BNB / 2018)
 
 Segundo um arquiteto de software de uma empresa não participante do estudo, o modo
 como a máquina
@@ -4736,7 +4535,7 @@ original, pois o efeito é futuro e não presente.
 
 Questão correta.
 
-Item. 11. (CEBRASPE / STM/ 2018)
+11. (CEBRASPE / STM/ 2018)
 
 O Zoológico de Sapucaia do Sul abrigou um dia um macaco chamado Alemão. Em um
 domingo de Sol, Alemão
@@ -4749,9 +4548,7 @@ A forma verbal "passara" denota um fato ocorrido antes de duas outras ações ta
 concluídas, as quais
 são descritas nos dois períodos imediatamente anteriores ao período em que ela se insere.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -4770,7 +4567,7 @@ vida tentando abrir o candidato antes de escapar.
 
 Questão incorreta.
 
-Item. 12. (CEBRASPE / SEDUC-AL / 2018)
+12. (CEBRASPE / SEDUC-AL / 2018)
 
 Os professores fazem cursos, acumulam certificados, sem que isso corresponda a mudança
 ou responda aos
@@ -4789,7 +4586,7 @@ sentido.
 
 Questão correta.
 
-Item. 13. (CEBRASPE / EMAP / 2018)
+13. (CEBRASPE / EMAP / 2018)
 
 O Juca era da categoria das chamadas pessoas sensíveis, dessas a que tudo lhes toca e
 tange. Se a gente lhe
@@ -4814,15 +4611,13 @@ Ex.: O candidato estaria envolvido em um esquema de propina.
 Portanto, de forma alguma deixaria a alternativa mais categórica, mais afirmativa e certa.
 Questão incorreta.
 
-Item. 14. (CEBRASPE / TCM-BA / 2018)
+14. (CEBRASPE / TCM-BA / 2018)
 
 É a época em que a burguesia, que assumira o poder havia pouco tempo, executava uma
 espécie de junção
 entre a moral e a natureza
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Julgue o item a seguir.
 
@@ -4845,7 +4640,7 @@ uma ação em relação a outra.
 
 Questão correta.
 
-Item. 15. (CEBRASPE / PF / 2018)
+15. (CEBRASPE / PF / 2018)
 
 No fim do século XVIII e começo do XIX, a despeito de algumas grandes fogueiras, a
 melancólica festa de
@@ -4889,7 +4684,7 @@ narrativa mais dinâmica e verossímil.
 
 Questão correta.
 
-Item. 16. (CEBRASPE / CAGE-RS / 2018)
+16. (CEBRASPE / CAGE-RS / 2018)
 
 Estas memórias ficariam injustificavelmente incompletas se nelas eu não narrasse, ainda
 que de modo breve,
@@ -4901,9 +4696,7 @@ Assinale a opção que apresenta uma forma / locução verbal do texto 1A9AAA qu
 uma ação / um
 fato que ocorreu repetidamente no passado e que se prolonga até o momento da narração do texto.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 a) "tenho largado" b) "fui possuído" c) "tem" d) "haja fugido" e) "narrasse"
 
@@ -4917,7 +4710,7 @@ momento, o momento da fala/narração.
 
 Gabarito letra A.
 
-Item. 17. (CEBRASPE / CAGE-RS / 2018)
+17. (CEBRASPE / CAGE-RS / 2018)
 
 [...] ocorreram diversos avanços, como, por exemplo, a diminuição da
 mortalidade infantil e do
@@ -4938,7 +4731,7 @@ de concordância, uma vez que o verbo haver impessoal, no sentido de suceder, n�
 
 Gabarito letra C.
 
-Item. 18. (CEBRASPE / STJ / 2018)
+18. (CEBRASPE / STJ / 2018)
 
 m democráticas dc participação. Autores importantes do campo
 da ciência política e da filosofia política c moral se debruçaram
@@ -4959,7 +4752,7 @@ Comentários:
 No presente do subjuntivo, a forma do verbo 'diferir' vai ser "difirA" (que eu eu "fira").
 Questão correta.
 
-Item. 19. (CEBRASPE / IHBDF / 2018)
+19. (CEBRASPE / IHBDF / 2018)
 
 Nasci no Brás, durante a Segunda Guerra. Da rua em que morávamos até a Praça da Sé,
 são vinte minutos
@@ -4969,9 +4762,7 @@ Infere-se do emprego da forma verbal "morávamos" que o narrador fornece uma inf
 sobre si próprio
 e sua família.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -4983,7 +4774,7 @@ para ela.
 
 Questão correta.
 
-Item. 20. (CEBRASPE / IHBDF / 2018)
+20. (CEBRASPE / IHBDF / 2018)
 
 Quando estava com sete anos, acordei com os olhos inchados, e meu pai me levou ao
 pediatra. Ao voltarmos,
@@ -5009,7 +4800,7 @@ futebol quando passou com o pai.
 
 Questão incorreta.
 
-Item. 21. (CEBRASPE / IHBDF /2018)
+21. (CEBRASPE / IHBDF /2018)
 
 Tentar deter o mar era inútil. Também não havia como fazer um molde da areia, mesmo
 que ele tivesse
@@ -5047,13 +4838,11 @@ seria consequência certa e imediata de outro, que é irreal ou não ocorreu.
 Ex.: Se eu fosse o prefeito, desapropriava toda esta região.
 Ex.: Se viéssemos de trem, não chegávamos a tempo."
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Questão correta.
 
-Item. 22. (CEBRASPE / PF / 2018)
+22. (CEBRASPE / PF / 2018)
 
 — A polícia parisiense — disse ele — é extremamente hábil à sua maneira.
 Seus agentes são
@@ -5135,9 +4924,7 @@ fosse substituída
 por compreende, embora o sentido original do período em que ela ocorre fosse
 alterado: no original, o
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 emprego do futuro revela uma expectativa de Dupin em relação a seu
 interlocutor; com o emprego do
@@ -5160,7 +4947,7 @@ de que entenda no futuro.
 
 Questão correta.
 
-Item. 23. (CEBRASPE / TRE-TO / 2017)
+23. (CEBRASPE / TRE-TO / 2017)
 
 Sem a invenção dos caracteres móveis de imprensa, no século XV, seria impossível haver jornais
 A forma verbal "seria" exprime uma ideia de hipótese dependente de uma condição.
@@ -5179,7 +4966,7 @@ hrpotético dependente da condição).
 
 Questão correta.
 
-Item. 24. (CEBRASPE / TRE-PE / 2017)
+24. (CEBRASPE / TRE-PE / 2017)
 
 A moralidade, que deve ser uma característica do conjunto de indivíduos da sociedade,
 deve caracterizar de
@@ -5212,13 +4999,11 @@ moral por decorrência do princípio constitucional da moralidade. Se essa
 submissão decorre de norma
 constitucional, o verbo "dever" indica obrigação, imposição.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Gabarito letra D.
 
-Item. 25. (CEBRASPE / SEDF / 2017)
+25. (CEBRASPE / SEDF / 2017)
 
 A língua continua sendo forte elemento de discriminação social, seja no próprio
 contexto escolar, seja em
@@ -5238,13 +5023,11 @@ gerúndio "sendo". Se algo "continua sendo", então "ainda é", ou seja, não mu
 
 Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - MoDo INDICATIVo - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-DF / 2022
+1. CEBRASPE / DPE-DF / 2022
 
 ...A realização concreta de suas premonições, com pormenores de clarividência,
 está indissociavelmente
@@ -5272,7 +5055,7 @@ mesmos valores.
 
 Questão correta.
 
-Item. 2. CEBRASPE / DPE-DF / 2022
+2. CEBRASPE / DPE-DF / 2022
 
 Enquanto prestava minuciosa atenção ao movimento dos guindastes no porto, deixou o
 pensamento
@@ -5304,13 +5087,11 @@ Não haveria erro gramatical, mas os sentidos são diferentes.
 
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTÕES COMENTADAS - MODO SUBJUNTIVO - CEBRASPE
 
-Item. 1. (CEBRASPE / SEDF / 2017)
+1. (CEBRASPE / SEDF / 2017)
 
 O transporte é público, o corpo da mulher não.
 
@@ -5334,11 +5115,9 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTÕES COMENTADAS - MODO IMPERATIVO - CEBRASPE
 
-Item. 1. (CEBRASPE / PM-AL / 2017)
-
+1. (CEBRASPE / PM-AL / 2017)
 
 ORA! VOCE NÃO ENTENDE
 QUE SÃO POBRES POR-
@@ -5394,13 +5173,11 @@ imperativo: "Entende", "são" e "querem", por exemplo, estão no presente do mod
 
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - FoRMAS NoMINAIS - CEBRASPE
 
-Item. 1. CEBRASPE / PETROBRAS / 2022
+1. CEBRASPE / PETROBRAS / 2022
 
 Muito tem sido escrito e debatido sobre a afirmativa de que a "Internet é terra de ninguém"...
 
@@ -5411,7 +5188,7 @@ A grafia "escrevido" não existe; a forma correta de particípio é "escrito".
 
 Questão incorreta.
 
-Item. 2. (CEBRASPE / IPHAN / 2018)
+2. (CEBRASPE / IPHAN / 2018)
 
 Os senhores poucos, e os escravos muitos; os senhores rompendo galas, os escravos
 despidos e nus; os
@@ -5434,7 +5211,7 @@ como uma ação/evento/processo em progresso, em andamento.
 
 Questão correta.
 
-Item. 3. (CEBRASPE / MPE-PI / 2018)
+3. (CEBRASPE / MPE-PI / 2018)
 
 Eis que se inicia então uma das fases mais intensas na vida de Geraldo
 Viramundo: sua troca de
@@ -5452,7 +5229,7 @@ Estou a cantar=Estou cantando. No português brasileiro, contudo, a forma realme
 utilizada é o gerúndio.
 Questão incorreta.
 
-Item. 4. (CEBRASPE / PF / 2018)
+4. (CEBRASPE / PF / 2018)
 
 Os programas mostram diversos detetives, técnicos e cientistas dedicando toda
 sua atenção a uma
@@ -5462,9 +5239,7 @@ A substituição da forma verbal "dedicando" por que dedicam manteria os sentido
 
 Comentários:
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O gerúndio indica que a ação é vista como em andamento, em progresso, durativa,
 contínua. Então, quando
@@ -5484,7 +5259,7 @@ trabalho)
 Então, há alteração de sentido sim.
 Questão incorreta.
 
-Item. 5. (CEBRASPE / PC-GO / 2017)
+5. (CEBRASPE / PC-GO / 2017)
 
 A principal finalidade da investigação criminal, materializada no inquérito
 policial (IP), é a de reunir
@@ -5533,14 +5308,12 @@ diariamente.
 
 Gabarito letra B.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTÕES COMENTADAS - VERBOS IMPESSOAIS -
 CEBRASPE
 
-Item. 1. (CEBRASPE / TJ-PA / 2020)
+1. (CEBRASPE / TJ-PA / 2020)
 
 Texto CG1A1-II
 
@@ -5575,7 +5348,7 @@ normal com o sujeito Exceções.
 
 Gabarito letra E.
 
-Item. 2. (CEBRASPE / CGE-CE / 2019)
+2. (CEBRASPE / CGE-CE / 2019)
 
 Candeia era quase nada. Não tinha mais que vinte casas mortas, uma igrejinha velha,
 um resto de praça.
@@ -5609,9 +5382,7 @@ voltou com rapidez, agora trazendo dois pratos, quatro pães pequenos, duas bana
 cozidas e um pote de
 margarina.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 — Cinco reais — ordenou Helenice, com a mão no garrafa térmica. — Só come se pagar.
 O homem pagou, sempre rindo da cara de Helenice, visivelmente bêbado.
@@ -5643,7 +5414,7 @@ deve considerar a letra D.
 
 Gabarito letra D.
 
-Item. 3. (CEBRASPE / PC-MA /2018)
+3. (CEBRASPE / PC-MA /2018)
 
 O ano de 2017 foi o mais seguro da história da aviação comercial, de acordo com a
 organização holandesa
@@ -5663,7 +5434,7 @@ Houve acidentes
 Aconteceram acidentes
 Questão incorreta.
 
-Item. 4. (CEBRASPE / STM / 2018)
+4. (CEBRASPE / STM / 2018)
 
 No período "É um orgulho poder contar com você", a terceira pessoa do singular
 empregada na forma verbal
@@ -5677,13 +5448,11 @@ com a oração:
 
 Já no segundo caso ("É tarde") o verbo ser é impessoal, indicando tempo.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Questão incorreta.
 
-Item. 5. (CEBRASPE / PF / 2018)
+5. (CEBRASPE / PF / 2018)
 
 Julgue o item a seguir quanto à correção gramatical e à coerência e à coesão textual.
 
@@ -5699,7 +5468,7 @@ pode não mais haver impressões digitais.
 podem não mais existir impressões digitais.
 Questão incorreta.
 
-Item. 6. (CEBRASPE / PREF. SÃO LUÍS-MA / 2017)
+6. (CEBRASPE / PREF. SÃO LUÍS-MA / 2017)
 
 Não há democracia [...] não existem condições mínimas para a solução pacífica dos conflitos.
 
@@ -5739,13 +5508,11 @@ c) inexiste e não há.
 Inexiste democracia e não há condições ("haver" existencial no singular).
 Gabarito letra C.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - VERBo DEFECTIVo - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-RS / 2022
+1. CEBRASPE / DPE-RS / 2022
 
 Na sociedade líquido-moderna da hipermodernidade globalizante, o fazer compras
 não pressupõe
@@ -5763,13 +5530,11 @@ Comentários:
 indicativo.
 Questão incorreta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTÕES COMENTADAS - VERBOS VICÁRIOS - CEBRASPE
 
-Item. 1. (CEBRASPE / MPU / 2018)
+1. (CEBRASPE / MPU / 2018)
 
 Contudo, uma calamidade seria um caso de injustiça apenas se pudesse ter sido evitada,
 em especial se
@@ -5791,14 +5556,12 @@ ação anterior (agir...)":
 Fazê-lo = Fazer isso (o que foi mencionado: agir para tentar evitar uma calamidade).
 Questão correta.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LISTA DE QUESTõES - EMPREGo DoS TEMPoS E MoDoS -
 CEBRASPE
 
-Item. 1. CEBRASPE / PETROBRAS / 2022
+1. CEBRASPE / PETROBRAS / 2022
 
 As tecnologias de contar e escrever histórias não seguiram um caminho linear. A
 própria escrita foi
@@ -5824,7 +5587,7 @@ em determinado momento no passado e cujos efeitos, além de ainda serem sentidos
 momento atual,
 afetam o tempo presente.
 
-Item. 2. CEBRASPE/MJSP/2022
+2. CEBRASPE/MJSP/2022
 
 Na ótica da saúde pública, pode-se conceituar a política de redução de danos como um
 conjunto de
@@ -5840,7 +5603,7 @@ A oração "enquanto não for possível ou desejável a abstinência" (segundo p
 primeiro parágrafo)
 expressa uma vontade, haja vista o emprego do modo subjuntivo em "for".
 
-Item. 3. (CEBRASPE/MP-CE/2020)
+3. (CEBRASPE/MP-CE/2020)
 
 Não há conclusões unânimes, mas a ciência e os especialistas caminham para o
 entendimento de que o
@@ -5850,7 +5613,7 @@ A substituição da forma verbal "seja" (1^ parágrafo) por é manteria a coerê
 correção gramatical do
 texto.
 
-Item. 4. (CEBRASPE/PGE-PE/2019)
+4. (CEBRASPE/PGE-PE/2019)
 
 Raras vezes na história humana, o trabalho, a riqueza, o poder e o saber mudaram simultaneamente.
 
@@ -5858,10 +5621,9 @@ A coerência e a correção gramatical do texto seriam preservadas se a forma
 verbal "mudaram" fosse
 substituída por mudam.
 
-Item. 5. (CEBRASPE/SEFAZ-RS/2019)
+5. (CEBRASPE/SEFAZ-RS/2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A tributação, portanto, somente pode ser compreendida a partir da necessidade dos
 indivíduos de estabelecer
@@ -5877,7 +5639,7 @@ No trecho "seria comparável a usurpação ou roubo", a forma verbal "seria"
 expressa dúvida quanto à
 possibilidade de concretização da referida comparação.
 
-Item. 6. (CEBRASPE / PRF / 2019)
+6. (CEBRASPE / PRF / 2019)
 
 Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em
 razão de atividades
@@ -5889,7 +5651,7 @@ Quando prestamos atenção a nossa volta, percebemos que quase tudo que vemos ex
 pelas atividades do
 trabalho humano.
 
-Item. 7. (CEBRASPE / PRF / 2019)
+7. (CEBRASPE / PRF / 2019)
 
 Não consigo pensar em um cargo público mais empolgante que o desse homem. Claro que
 o cargo, se existia,
@@ -5900,7 +5662,7 @@ A correção gramatical e os sentidos do texto seriam mantidos caso a forma verb
 "existia" fosse substituída
 por existisse.
 
-Item. 8. (CEBRASPE / PGE-PE/ 2019)
+8. (CEBRASPE / PGE-PE/ 2019)
 
 Nesse contexto, a Lei Maria da Penha teria o papel de assegurar o reconhecimento das
 mulheres em situação
@@ -5912,7 +5674,7 @@ A substituição da forma verbal "teria" (L.l) por tem manteria tanto a correç�
 gramatical quanto a coerência
 do texto.
 
-Item. 9. (CEBRASPE/SEFAZ-RS/2019)
+9. (CEBRASPE/SEFAZ-RS/2019)
 
 A correção gramatical e os sentidos do texto 1A3-I seriam preservados caso o fragmento
 "favorecendo-se,
@@ -5920,7 +5682,7 @@ assim, a elevação dos seus investimentos" fosse reescrito da seguinte forma: e
 favorece, assim, a
 elevação dos seus investimentos.
 
-Item. 10. (CEBRASPE / BNB / 2018)
+10. (CEBRASPE / BNB / 2018)
 
 Segundo um arquiteto de software de uma empresa não participante do estudo, o modo
 como a máquina
@@ -5932,15 +5694,13 @@ defraudes que passam. Sendo assim, precisamos aumentar ao máximo o balanço de 
 apresentadas
 à máquina para não pesar um lado mais do que o outro", detalha.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A substituição da forma verbal 'podemos' (L.4) por poderemos não prejudicaria a
 correção gramatical nem
 alteraria os sentidos originais do texto.
 
-Item. 11. (CEBRASPE / STM/ 2018)
+11. (CEBRASPE / STM/ 2018)
 
 O Zoológico de Sapucaia do Sul obrigou um dia um macaco chamado Alemão. Em um
 domingo de Sol, Alemão
@@ -5953,7 +5713,7 @@ A forma verbal "passara" denota um fato ocorrido antes de duas outras ações ta
 concluídas, as quais
 são descritas nos dois períodos imediatamente anteriores ao período em que ela se insere.
 
-Item. 12. (CEBRASPE / SEDUC-AL / 2018)
+12. (CEBRASPE / SEDUC-AL / 2018)
 
 Os professores fazem cursos, acumulam certificados, sem que isso corresponda a mudança
 ou responda aos
@@ -5963,7 +5723,7 @@ Sem prejuízo das informações veiculadas no texto, a forma verbal "responda" p
 ser substituída por
 atenda.
 
-Item. 13. (CEBRASPE / EMAP / 2018)
+13. (CEBRASPE / EMAP / 2018)
 
 OJuca era da categoria das chamadas pessoas sensíveis, dessas a que tudo lhes toca e
 tange. Se a gente lhe
@@ -5975,7 +5735,7 @@ Na linha 3, caso a forma verbal "era" fosse substituída por seria, a
 respectiva afirmação sobre o
 comportamento de Juca seria mais categórica que a que se verifica no texto.
 
-Item. 14. (CEBRASPE / TCM-BA / 2018)
+14. (CEBRASPE / TCM-BA / 2018)
 
 É a época em que a burguesia, que assumira o poder havia pouco tempo, executava uma
 espécie de junção
@@ -5986,7 +5746,7 @@ Julgue o item a seguir.
 Com o emprego da forma verbal "assumira", exprime-se a anterioridade de uma ação em relação a
 outra.
 
-Item. 15. (CEBRASPE / PF / 2018)
+15. (CEBRASPE / PF / 2018)
 
 No fim do século XVIII e começo do XIX, a despeito de algumas grandes fogueiras, a
 melancólica festa de
@@ -6006,9 +5766,7 @@ assassinos, invertendo no último momento os papéis, fazendo do supliciado um
 objeto de piedade e de
 admiração.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A punição vai-se tornando a parte mais velada do processo penal, provocando várias
 consequências: deixa o
@@ -6024,7 +5782,7 @@ emprego do presente no segundo parágrafo tem o efeito de aproximar os acontecim
 mencionados ao
 tempo atual, o presente.
 
-Item. 16. (CEBRASPE / CAGE-RS / 2018)
+16. (CEBRASPE / CAGE-RS / 2018)
 
 Estas memórias ficariam injustificavelmente incompletas se nelas eu não narrasse, ainda
 que de modo breve,
@@ -6038,7 +5796,7 @@ fato que ocorreu repetidamente no passado e que se prolonga até o momento da na
 
 a) "tenho largado" b) "fui possuído" c) "tem" d) "haja fugido" e) "narrasse"
 
-Item. 17. (CEBRASPE / CAGE-RS / 2018)
+17. (CEBRASPE / CAGE-RS / 2018)
 
 [...] ocorreram diversos avanços, como, por exemplo, a diminuição da
 mortalidade infantil e do
@@ -6049,7 +5807,7 @@ verbal "ocorreram" fosse
 substituída por
 a) existiu, b) aconteceu, c) sucederam, d) tiveram, e) houveram.
 
-Item. 18. (CEBRASPE / STJ / 2018)
+18. (CEBRASPE / STJ / 2018)
 
 M democráticas dc participação. Autores importantes do campo
 da ciência poiíticac da filosofia política c moral sc debruçaram
@@ -6065,7 +5823,7 @@ Embora haja semelhança de sentido entre os verbos divergir e diferir, a substit
 da forma verbal "divirja"
 (L. 14) por difere prejudicaria a correção gramatical do texto.
 
-Item. 19. (CEBRASPE / IHBDF / 2018)
+19. (CEBRASPE / IHBDF / 2018)
 
 Nasci no Brás, durante a Segunda Guerra. Da rua em que morávamos até a Praça da Sé,
 são vinte minutos
@@ -6075,11 +5833,9 @@ Infere-se do emprego da forma verbal "morávamos" que o narrador fornece uma inf
 sobre si próprio
 e sua família.
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 20. (CEBRASPE / IHBDF / 2018)
+20. (CEBRASPE / IHBDF / 2018)
 
 Quando estava com sete anos, acordei com os olhos inchados, e meu pai me levou ao
 pediatra. Ao voltarmos,
@@ -6093,7 +5849,7 @@ Depreende-se do emprego da forma verbal "jogávamos" que o narrador, ao retornar
 pediatra para casa,
 juntou-se a colegas para jogar futebol.
 
-Item. 21. (CEBRASPE / IHBDF /2018)
+21. (CEBRASPE / IHBDF /2018)
 
 Tentar deter o mar era inútil. Também não havia como fazer um molde da areia, mesmo
 que ele tivesse
@@ -6104,7 +5860,7 @@ Os sentidos originais do trecho "Tentar deter o mar era inútil" seriam mantidos
 a forma verbal "era"
 fosse substituída por seria.
 
-Item. 22. (CEBRASPE / PF / 2018)
+22. (CEBRASPE / PF / 2018)
 
 — A polícia parisiense — disse ele — é extremamente hábil à sua maneira.
 Seus agentes são
@@ -6159,9 +5915,7 @@ em outras palavras,
 se o princípio inspirador estivesse compreendido nos princípios do delegado —, sua descoberta seria
 uma
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 questão inteiramente fora de dúvida. Este funcionário, porém, se enganou por completo,
 e a fonte remota
@@ -6194,13 +5948,13 @@ emprego do futuro revela uma expectativa de Dupin em relação a seu
 interlocutor; com o emprego do
 presente, essa expectativa seria transformada em fato consumado.
 
-Item. 23. (CEBRASPE / TRE-TO / 2017)
+23. (CEBRASPE / TRE-TO / 2017)
 
 Sem a invenção dos caracteres móveis de imprensa, no século XV, seria impossível haver
 jornais
 A forma verbal "seria" exprime uma ideia de hipótese dependente de uma condição.
 
-Item. 24. (CEBRASPE / TRE-PE / 2017)
+24. (CEBRASPE / TRE-PE / 2017)
 
 A moralidade, que deve ser uma característica do conjunto de indivíduos da sociedade,
 deve caracterizar de
@@ -6225,7 +5979,7 @@ profissional (...) também
 devem ser submetidos ao julgamento ético-moral", foi empregada no sentido de
 a) probabilidade, b) capacidade, c) permissão, d) obrigação, e) necessidade.
 
-Item. 25. (CEBRASPE / SEDF / 2017)
+25. (CEBRASPE / SEDF / 2017)
 
 A língua continua sendo forte elemento de discriminação social, seja no próprio
 contexto escolar, seja em
@@ -6236,28 +5990,25 @@ exemplo).
 O emprego do verbo "continua" permite que se infira que não houve mudança na caracterização da
 língua
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 como "forte elemento de discriminação social".
 
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. CORRETA
 
-Item. 3. CORRETA
+4. CORRETA
 
-Item. 4. CORRETA
+5. INCORRETA
 
-Item. 5. INCORRETA
+6. INCORRETA
 
-Item. 6. INCORRETA
-
-Item. 7. INCORRETA
+7. INCORRETA
 
 8.
 
@@ -6316,13 +6067,11 @@ CORRETA
 LETRA D
 CORRETA
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LISTA DE QUESTõES - MoDo INDICATIVo - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-DF / 2022
+1. CEBRASPE / DPE-DF / 2022
 
 ...A realização concreta de suas premonições, com pormenores de clarividência,
 está indissociavelmente
@@ -6340,7 +6089,7 @@ No quinto período do texto, a locução verbal "teriam contribuído"
 poderia ser substituída por
 contribuiriam, sem prejuízo da correção gramatical do texto.
 
-Item. 2. CEBRASPE / DPE-DF / 2022
+2. CEBRASPE / DPE-DF / 2022
 
 Enquanto prestava minuciosa atenção ao movimento dos guindastes no porto, deixou o
 pensamento
@@ -6362,17 +6111,15 @@ tempos, sem prejuízo dos sentidos originais e da correção gramatical do texto
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. INCORRETA
-
+2. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - MoDo SUBJUNTIVo - CEBRASPE
 
-Item. 1. (CEBRASPE / SEDF / 2017)
+1. (CEBRASPE / SEDF / 2017)
 
 O transporte é público, o corpo da mulher não.
 
@@ -6388,16 +6135,13 @@ semântico do transporte.
 
 GABARITo
 
-Item. 1. INCORRETA
-
+1. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - MoDo IMPERATIVo - CEBRASPE
 
-Item. 1. (CEBRASPE / PM-AL / 2017)
-
+1. (CEBRASPE / PM-AL / 2017)
 
 ORA! VOCE NÃO ENTENDE
 QUE SÃO POBRES POR-
@@ -6451,15 +6195,13 @@ ordens a ela.
 
 GABARITo
 
-Item. 1. INCORRETA
-
+1. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - FoRMAS NoMINAIS - CEBRASPE
 
-Item. 1. (CEBRASPE / IPHAN / 2018)
+1. (CEBRASPE / IPHAN / 2018)
 
 Os senhores poucos, e os escravos muitos; os senhores rompendo gatas, os
 escravos despidos e
@@ -6475,7 +6217,7 @@ vilíssimas da servidão, e espetáculos da extrema miséria.
 
 A forma verbal "nadando" exprime um evento com duração no tempo.
 
-Item. 2. (CEBRASPE / MPE-PI / 2018)
+2. (CEBRASPE / MPE-PI / 2018)
 
 Eis que se inicia então uma das fases mais intensas na vida de Geraldo
 Viramundo: sua troca de
@@ -6484,7 +6226,7 @@ correspondência com os estudantes, julgando estar a se corresponder com sua ama
 Os sentidos do texto seriam alterados caso o trecho "estar a se corresponder" (I.2-3) fosse assim
 reescrito: estar se correspondendo.
 
-Item. 3. (CEBRASPE / PF / 2018)
+3. (CEBRASPE / PF / 2018)
 
 Os programas mostram diversos detetives, técnicos e cientistas dedicando
 toda sua atenção a
@@ -6494,7 +6236,7 @@ A substituição da forma verbal "dedicando" por que dedicam manteria os sentido
 originais do
 texto.
 
-Item. 4. (CEBRASPE / PC-GO / 2017)
+4. (CEBRASPE / PC-GO / 2017)
 
 A principal finalidade da investigação criminal, materializada no inquérito
 policial (IP), é a de
@@ -6523,9 +6265,7 @@ a) forma verbal "implicam" (I.3).
 
 b) locução "vem ganhando" (I.7).
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 c) forma verbal "garantir" (1.7).
 
@@ -6535,21 +6275,19 @@ e) forma verbal "reunir" (1.2).
 
 GABARITo
 
+1. CORRETA
 
-Item. 1. CORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. INCORRETA
 
-Item. 3. INCORRETA
-
-Item. 4. LETRA B
+4. LETRA B
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - VERBoS IMPESSoAIS - CEBRASPE
 
-Item. 1. (CEBRASPE / TJ-PA / 2020)
+1. (CEBRASPE / TJ-PA / 2020)
 
 Texto CG1A1-II
 
@@ -6576,7 +6314,7 @@ a forma verbal "há" (1Q
 parágrafo) poderia ser substituída por
 a) existe, b) ocorre. c)têm. d) tem. e) existem.
 
-Item. 2. (CEBRASPE / CGE-CE / 2019)
+2. (CEBRASPE / CGE-CE / 2019)
 
 Candeia era quase nada. Não tinha mais que vinte casas mortas, uma iqrejinha velha,
 um resto de praça.
@@ -6617,9 +6355,7 @@ Samuel ou o caminhoneiro. Não tinha tanto dinheiro para comer naquele fim de ta
 
 No texto CB1A1-I, poderia ser substituído por havia o verbo ter empregado em
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 a) "Não tinha mais que vinte casas mortas" (L. 1).
 
@@ -6631,7 +6367,7 @@ d) "Em Juazeiro tinha gente" (L. 7-8).
 
 e) "Não tinha tanto dinheiro para comer" (Último parágrafo).
 
-Item. 3. (CEBRASPE / PC-MA /2018)
+3. (CEBRASPE / PC-MA /2018)
 
 O ano de 2017 foi o mais seguro da história da aviação comercial, de acordo com a
 organização holandesa
@@ -6643,19 +6379,19 @@ comerciais regulares
 A correção gramatical do texto seria preservada caso se substituísse a forma verbal "Foram" por
 Houveram.
 
-Item. 4. (CEBRASPE / STM / 2018)
+4. (CEBRASPE / STM / 2018)
 
 No período "É um orgulho poder contar com você", a terceira pessoa do singular
 empregada na forma verbal
 "É" justifica-se por tratar-se de um verbo impessoal, como em É tarde.
 
-Item. 5. (CEBRASPE / PF / 2018)
+5. (CEBRASPE / PF / 2018)
 
 Julgue o item a seguir quanto à correção gramatical e à coerência e à coesão textual.
 
 Nos casos de cadáveres de vítimas carbonizadas, podem não mais haver impressões digitais.
 
-Item. 6. (CEBRASPE / PREF. SÃO LUÍS-MA / 2017)
+6. (CEBRASPE / PREF. SÃO LUÍS-MA / 2017)
 
 Não há democracia [...] não existem condições mínimas para a solução pacífica dos conflitos.
 
@@ -6674,26 +6410,23 @@ e) não tem e não têm.
 
 GABARITo
 
+1. LETRA E
 
-Item. 1. LETRA E
+2. LETRA D
 
-Item. 2. LETRA D
+3. INCORRETA
 
-Item. 3. INCORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. INCORRETA
 
-Item. 5. INCORRETA
-
-Item. 6. LETRA C
-
+6. LETRA C
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - VERBo DEFECTIVo - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-RS / 2022
+1. CEBRASPE / DPE-RS / 2022
 
 Na sociedade líquido-moderna da hipermodernidade globalizante, o fazer compras
 não pressupõe
@@ -6707,14 +6440,13 @@ aprazar.
 
 GABARITo
 
-Item. 1. INCORRETA
+1. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - VERBoS VICÁRIoS - CEBRASPE
 
-Item. 1. (CEBRASPE / MPU / 2018)
+1. (CEBRASPE / MPU / 2018)
 
 Contudo, uma calamidade seria um caso de injustiça apenas se pudesse ter sido evitada,
 em especial se
@@ -6729,8 +6461,7 @@ calamidade.
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

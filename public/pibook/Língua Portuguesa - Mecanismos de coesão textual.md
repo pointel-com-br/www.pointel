@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Mecanismos de coesão textual.
-
+# Língua Portuguesa - Mecanismos de coesão textual.
 
 Índice
 
@@ -20,7 +19,6 @@ Capítulo. Língua Portuguesa - Mecanismos de coesão textual.
 8) Lista de Questões - Reescritura - Cebraspe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CoNSIDERAçõES INICIAIS
 
@@ -53,7 +51,6 @@ atentos a alguns pontos, e são esses pontos que vamos destacar nesta aula.
 @luizfelipedurval
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CoESÃo TEXTUAL
 
@@ -95,10 +92,8 @@ Quando "anuncia" um termo ou informação que aparecerá depois, diz-se que há
 coesão
 catafórica.
 
-
 Informação vem
 antes
-
 
 Informação vem
 depois
@@ -108,7 +103,6 @@ Isso tudo está detalhado na função referencial dos pronomes demonstrativos.
 Ex: Estudo todo dia. Isso faz a diferença, (anafórico)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex: Desejo isto diariamente: ser aprovado logo, (catafórico)
 
@@ -163,7 +157,6 @@ Veremos aqui algumas estratégias para evitar repetição viciosa.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Essas técnicas são fundamentais para:
 
 identificar paráfrases em questões de interpretação e reescrituras.
@@ -214,7 +207,6 @@ com a
 i argumentação e a retórica. Porém, ta! como a retórica e a argumentação podem ser postas ao
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 serviço da mentira e da manipulação, também em relação à liberdade de expressão se
 coloca a
@@ -285,7 +277,6 @@ Ex: Neste verão viajarei para o Caribe.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 esse(s), essa (s), isso: indicam passado recente ou futuro próximo
 
 Ex: Esse domingo haverá jogo do Barcelona.
@@ -296,7 +287,6 @@ aqueie(s), aquela (s), aquilo: indicam passado ou futuro distante
 Ex: Aquela década de 70 foi completamente perdida.
 
 Ex: Aquele intercâmbio que faremos em 10 anos será caríssimo.
-
 
 Espaço:
 
@@ -343,11 +333,9 @@ Ex: Dinheiro, sucesso, prestígio, isso tudo é sim importante (resumitivo).
 0 0 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 y'"'' 8
 
-
 / 78
 
 /
-
 
 aquele(s), aquela (s), aquilo: apontam para o antecedente mais distante, enquanto este aponta
 para o mais próximo:
@@ -400,7 +388,6 @@ Morais e Aurélios,
 i os Morenos e Torrinhas, algumas gramáticas, o Manual do Perfeito Revisor, vademeco de ofício
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Na linha 1, o emprego de "neste" decorre da presença do vocábulo "Aqui", de modo que
 sua
@@ -455,7 +442,6 @@ Termos resumitivos e sintéticos
 Algumas palavras, como pronomes indefinidos, tem o poder de sintetizar e resumir um grupo de
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 elementos.
 
@@ -515,7 +501,6 @@ Nosso céu tem mais estreias,
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Nossas várzeas têm mais flores,
 Nossos bosques têm mais vida,
 Nossa vida mais amores.
@@ -571,7 +556,6 @@ específico, contido em um grupo maior, ou seja, de uma espécie contida em um g
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: Meu cão era bipolar. O animal às vezes atacava sem razão.
 
 "Animal" é hiperônimo de "cão", pois o "cão" pertence ao conjunto "animais".
@@ -600,7 +584,6 @@ com o Irlandês. No entanto, os artistas foram vistos juntos muitas outras vezes
 Já "Ivete" foi aludida como "beldade", "baiana", "artista".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Não precisa gravar o nome, mas a técnica é fundamental!!!
 
@@ -659,7 +642,6 @@ Ex: Recolheram os impostos. Esse recolhimento foi menor que o ano passado.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: As provas são difíceis hoje em dia. Essa dificuldade também envolve o fator tempo.
 
 Ex: Muito se discutiu sobre a polêmica. Esse constante debater do tema é cansativo para
@@ -714,7 +696,6 @@ explicação que
 existe entre as sentenças.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Ex: Estudou tanto; não passou.
 
@@ -778,7 +759,6 @@ entranhada
 naturalidade de quem já nasceu posseiro de seus segredos e de sua magia. A/ém de lavrar no
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Engenho Murituba os bens de consumo que abasteciam a sua gente, meu avô
 ainda tinha o
@@ -848,7 +828,6 @@ transmita sua
 mensagem, sua tese, sua informação.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A melhor maneira de entender isso é vendo na prática, em uma questão que cobra essa
 percepção
@@ -935,13 +914,11 @@ para entendê-X
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Em suma, "isso" é a coexistência de muitas legislações, fato que dificulta a
 simplificação, ou seja,
 retoma as informações, e não uma crítica do autor. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CoERÊNCIA
 
@@ -996,7 +973,6 @@ Ex: Todos me odeiam, mas ninguém gosta de mim.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Novamente, há incoerência, pois foi usada uma conjunção adversativa ("mas"), que indica
 contraste e oposição, para relacionar partes que tem o mesmo sentido. Se não há
 oposição,
@@ -1007,7 +983,6 @@ nível
 de formalidade... Fique atento!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 REESCRITURA
 
@@ -1074,7 +1049,6 @@ aos seguintes pontos:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 * Correlação entre tempos verbais
 
 * Concordância verbal e nominal: entre sujeito e verbo, verbos impessoais, casos especiais...
@@ -1087,10 +1061,9 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - CoESÃo - CEBRASPE
 
-Item. 1. (CEBRASPE / PETROBRÁS / 2022
+1. (CEBRASPE / PETROBRÁS / 2022
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna, em que
 Platão,
@@ -1162,10 +1135,9 @@ mencionada antes.
 
 Questão incorreta.
 
-Item. 2. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO / 2021)
+2. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO / 2021)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 1 Só ao anoitecer Gregor acordou de um sono pesado,
 parecido com um desmaio. Por certo, não teria acordado muito
@@ -1225,10 +1197,9 @@ sufícientemente descansado e refeito..."
 
 Questão correta.
 
-Item. 3. (CEBRASPE / MP-CE / TÉCNICO MINISTERIAL / 2020)
+3. (CEBRASPE / MP-CE / TÉCNICO MINISTERIAL / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 f Em qualquer tempo ou lugar, a vida social é sempre
 marcada por rituais. Essa afirmação pode ser inesperada
@@ -1276,10 +1247,9 @@ sociedades históricas, da vida na corte ou sociedades indígenas) e é, por ess
 que há uma
 inclinação inicial em diminuir sua importância. Importância do quê? Dos rituais! Questão correta.
 
-Item. 4. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+4. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 1 "Desprezo o que dizes, mas defenderei até a morte o
 teu direito a dizê-lo." É com essa afirmação atribuída a
@@ -1338,7 +1308,7 @@ Desde os alvores da democracia ateniense, são sobejamente conhecidas as suas re
 com a
 argumentação e a retórica... Questão correta.
 
-Item. 5. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
+5. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
 
 Se não é fácil definir a família, é legítimo o esforço de tentar decifrar
 quem é o homem
@@ -1352,14 +1322,12 @@ No terceiro parágrafo do texto, a forma pronominal "o", em "o lançam", faz ref
 
 A) "homem" B) "outro"
 
-
 C) "espaço" D) "interior"
 Comentários:
 
 E) "esforço"
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O referente é o homem pós-moderno.
 
@@ -1373,7 +1341,7 @@ homem) na busca da realização.
 
 Gabarito letra A.
 
-Item. 6. (CEBRASPE / AGÊNCIA BRASILEIRA DE INTELIGÊNCIA / 2019)
+6. (CEBRASPE / AGÊNCIA BRASILEIRA DE INTELIGÊNCIA / 2019)
 
 Texto CB1A1BBB
 
@@ -1434,8 +1402,7 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 7. (CEBRASPE / PGE-PE-Ana. Judiciário de Procuradoria - 2019)
+7. (CEBRASPE / PGE-PE-Ana. Judiciário de Procuradoria - 2019)
 
 Raras vezes na história humana, o trabalho, a riqueza, o poder e
 o saber mudaram
@@ -1462,7 +1429,7 @@ desorientaram gerações inteiras. O pronome relativo é usado justamente para e
 repetição.
 Questão correta.
 
-Item. 8. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
+8. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
 
 A modernidade é um contrato. Todos nós aderimos a ele no dia em que nascemos, e ele
 regula
@@ -1478,10 +1445,9 @@ Comentários:
 
 Ambas referem-se a "contrato". Questão incorreta.
 
-Item. 9. (CEBRASPE / PRF-Policial / 2019)
+9. (CEBRASPE / PRF-Policial / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 As atividades pertinentes ao trabalho relacionam-se
 intrinsecamente com a satisfação das necessidades dos
@@ -1538,7 +1504,7 @@ algo que apareceu antes. Ser anafórico quer dizer essencialmente "retomar infor
 anterior".
 Questão correta.
 
-Item. 10. (CEBRASPE / PC-SE-Delegado / 2018)
+10. (CEBRASPE / PC-SE-Delegado / 2018)
 
 A existência da polícia se justifica pela imprescindibiíidade dessa agência de
 segurança para a
@@ -1560,7 +1526,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Aqui temos uma série de elementos coesivos que possuem o mesmo referente:
 
 ...dessa agência de segurança: a agência é a polícia
@@ -1569,7 +1534,7 @@ Aqui temos uma série de elementos coesivos que possuem o mesmo referente:
 
 "sua", "seu" e "sua"= "da polícia" Questão correta.
 
-Item. 11. (CEBRASPE / POLÍCIA CIVIL-MA / ESCRIVÃO / 2018)
+11. (CEBRASPE / POLÍCIA CIVIL-MA / ESCRIVÃO / 2018)
 
 O ano de 2017 foi o mais seguro da história da aviação comercial, de acordo com a
 organização
@@ -1588,7 +1553,7 @@ repetição. Aqui, "eles" substitui "acidentes": nenhum dos acidentes
 envolvendo linhas
 comerciais regulares. Questão correta.
 
-Item. 12. (CEBRASPE / MPU / ANALISTA/2018)
+12. (CEBRASPE / MPU / ANALISTA/2018)
 
 Falar em desigualdade é falar também em pobreza. A reprodução social das desigualdades
 contribui para o aprofundamento das situações de pobreza, por isso
@@ -1616,7 +1581,7 @@ isso o texto fala em "desigualdade", no sentido de que "a minoria é rica" e a
 maioria é pobre.
 Questão incorreta.
 
-Item. 13. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
+13. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
 
 Este funcionário, porém, se enganou por completo, e a fonte remota de seu fracasso
 reside
@@ -1632,14 +1597,13 @@ a "o ministro" (L.2).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 O pronome "ele" se refere ao delegado, pois é ele quem está raciocinando,
 supondo e
 chegando a uma conclusão falaciosa. Questão incorreta.
 
-Item. 14. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
+14. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
 
 Mas o nordestino tinha que voltar à sua realidade, à realidade maior que a história
 do mundo,
@@ -1656,7 +1620,7 @@ Comentários:
 
 A "energia" se refere a "uma força que não se extingue nunca". Questão incorreta.
 
-Item. 15. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
+15. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
 
 Com a crescente industrialização do país, tornava-se cada vez mais importante
 a formação de
@@ -1677,7 +1641,7 @@ artigo definido antes de uma palavra implícita: (escolas). A palavra veio
 implícita justamente
 porque está clara pelo contexto. Questão incorreta.
 
-Item. 16. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+16. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Estavam-lhe ministrando a extrema-unção. E, quando o sacerdote lhe fez a tremenda
 pergunta,
@@ -1694,10 +1658,9 @@ Em "reanimando-a", o pronome "a" refere-se a "face devastada pela erosão da mor
 Questão
 incorreta.
 
-Item. 17. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+17. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O orgulho é a consciência (certa ou errônea) do nosso valor próprio; a vaidade é a
 consciência
@@ -1737,7 +1700,7 @@ Então, podemos concluir que a causa interior está ligada ao orgulho, ao
 valor em si e a
 consciência interna desse valor. Questão correta.
 
-Item. 18. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+18. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Siron Franco, artista plástico contemporâneo, realiza uma montagem em Brasília, em
 1990, no
@@ -1752,7 +1715,7 @@ Comentários:
 
 O "emblema da pátria" é a bandeira brasileira. Questão incorreta.
 
-Item. 19. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
+19. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
 
 O jeitinho brasileiro é uma forma de corrupção? Se a regra transgredida não
 causa prejuízo,
@@ -1775,8 +1738,7 @@ essas duas orações sem repetir o termo "sua conta". Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 20. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
+20. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
 
 Texto 1A2-II
 
@@ -1848,10 +1810,9 @@ ideia é
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - REESCRITURA - CEBRASPE
 
-Item. 1. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
+1. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
 
 r Não há conclusões unânimes, mas a ciência e os
 especialistas caminham para o entendimento de que o
@@ -1927,7 +1888,6 @@ aquilo que causou tal
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 prejuízo.
 
 A reescrita menciona algo de forma genérica que "é prejudicial", e não especifica que
@@ -1940,7 +1900,7 @@ depois que sentem o prejuízo.
 
 Questão incorreta.
 
-Item. 2. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
+2. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
 
 1 A primeira celebração do Dia Mundial da Segurança
 dos Alimentos das Nações Unidas, que ocorreu em 7 de junho
@@ -2001,10 +1961,9 @@ mesmo sentido de "transmitidas".
 
 Questão incorreta.
 
-Item. 3. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
+3. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 1 A primeira celebração do Dia Mundial da Segurança
 dos Alimentos das Nações Unidas, que ocorreu em 7 de junho
@@ -2076,10 +2035,9 @@ ocasionando mais um erro.
 
 Questão incorreta.
 
-Item. 4. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
+4. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 í Não há conclusões unânimes, mas a ciência e os
 especialistas caminham para o entendimento de que o
@@ -2158,10 +2116,9 @@ verbal. Haveria apenas mudança de sentido
 
 Questão correta.
 
-Item. 5. (CEBRASPE / AUDITOR FISCAL DA RECEITA DO DISTRITO FEDERAL (SEFAZ DF) / 2020)
+5. (CEBRASPE / AUDITOR FISCAL DA RECEITA DO DISTRITO FEDERAL (SEFAZ DF) / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Texto CG1AI-I
 
@@ -2242,11 +2199,10 @@ companhias". Logo, se houvesse a troca, prejudicaria o sentido da frase e a gram
 
 Questão incorreta.
 
-Item. 6. (CEBRASPE / AUDITOR DE FINANÇAS E CONTROLE DE ARRECADAÇÃO DA FAZENDA
+6. (CEBRASPE / AUDITOR DE FINANÇAS E CONTROLE DE ARRECADAÇÃO DA FAZENDA
 ESTADUAL (SEFAZ AL) / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 1 É uma loja grande e escura no centro da cidade, uma
 quadra distante da estação de trem. Quando visito a família,
@@ -2302,10 +2258,9 @@ Comentários:
 
 A presença de preposição não altera a correção ou o sentido do texto original. Questão correta.
 
-Item. 7. (CEBRASPE / ANALISTA MINISTERIAL - CONTROLE EXTERNO (MPC PA) / 2020)
+7. (CEBRASPE / ANALISTA MINISTERIAL - CONTROLE EXTERNO (MPC PA) / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 TextoCG2AI-l
 
@@ -2394,7 +2349,6 @@ A - O erro está em "em que não existo (existem) problemas de abastecimento.".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 B - O erro está em "onde não se coexistem (coexiste) com problemas de abastecimento".
 C - O erro está em "em que não -têm (tem) registros de problemas de abastecimento.".
 
@@ -2406,7 +2360,7 @@ transferida para o seu verbo auxiliar (costuma).
 
 Gabarito: letra E.
 
-Item. 8. (CEBRASPE / ANALISTA MINISTERIAL - CONTROLE EXTERNO (MPC PA) / 2020)
+8. (CEBRASPE / ANALISTA MINISTERIAL - CONTROLE EXTERNO (MPC PA) / 2020)
 
 Teilo CG2AI-1
 
@@ -2492,7 +2446,6 @@ contanto que os números
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 absolutos estejam caindo.
 
 C) À medida que os números absolutos caiam, o tema ainda será um dos
@@ -2524,7 +2477,7 @@ E - Incorreta, pois consoante é uma conjunção que possui sentido de conformid
 
 Gabarito: letra D.
 
-Item. 9. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
+9. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
 
 Aqui, neste escritório onde a verdade não pode ser mais do que uma cara
 sobreposta às infinitas
@@ -2550,7 +2503,7 @@ próximo. Então, a forma correta é "neste". O pronome "nesse" faria
 referência a um escritório
 próximo de quem ouve. Correto.
 
-Item. 10. (CEBRASPE /CAGE-RS/ AUDITOR FISCAL/2018)
+10. (CEBRASPE /CAGE-RS/ AUDITOR FISCAL/2018)
 
 Considere o seguinte trecho do texto: "Por meio de ações corretivas dos
 poderes públicos e do
@@ -2565,7 +2518,6 @@ de" e "relativos" fossem substituídas, respectivamente, por
 A) Em razão de e alusivos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 B) Em consequência de e subordinados.
 
@@ -2592,7 +2544,7 @@ através da janela.
 
 Gabarito letra D.
 
-Item. 11. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS / 2018)
+11. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS / 2018)
 
 Texto CG1A1-I
 
@@ -2669,7 +2621,6 @@ C) A ciência nos esclarece sobre as questões mais profundas das origens, das n
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 destinos, assim como de nossa espécie, da vida, de nosso planeta, do Universo.
 
 D) A ciência nos esclarece sobre as questões mais profundas de nossa
@@ -2741,10 +2692,9 @@ as questões.
 Portanto, alternativa incorreta.
 Gabarito: letra A.
 
-Item. 12. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
+12. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 PEÇA NOTA
 
@@ -2789,7 +2739,6 @@ Comentários:
 A - A reescrita está apenas parcialmente correta. Enquanto a primeira parte transforma
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 adequadamente "as entidades sociais" em objeto direto do verbo
 "beneficiam", do qual
@@ -2841,7 +2790,7 @@ pela preposição "com": com recursos do estado | com recursos do estado.eraçõ
 
 Gabarito: letra E
 
-Item. 13. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
+13. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
 
 No período "Você concorre a prêmios e ainda ajuda entidades sociais"
 a palavra "ainda" está
@@ -2862,10 +2811,9 @@ A expressão "além disso" é uma conjunção coordenativa aditiva, podendo
 substituir de forma
 bastante adequada a conjunção "e ainda". Gabarito: letra B.
 
-Item. 14. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL/2018)
+14. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL/2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 1 O direito tributário brasileiro depara-se com
 grandes desafios, principalmente em tempos de globalização
@@ -2944,7 +2892,6 @@ possui sentido diferente do verbo deparar-se.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 C - O verbo deparar-se rege a preposição com, e não a locução diante de.
 
 D - Ao fazer essa alteração, teríamos mudança substancial de sentido, já
@@ -2957,7 +2904,7 @@ a correção e o sentido. Alternativa correta.
 
 Gabarito: letra E.
 
-Item. 15. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
+15. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
 
 Texto CB2A1AAA
 
@@ -3027,7 +2974,6 @@ princípio da equidade, uma ampliação do princípio da dignidade feita pela Or
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Nações Unidas, em sua Carta de 1946, diz que todo ser humano possui a
 mesma dignidade e
 deve ser tratado com igual consideração e respeito" (linhas 16 a 20) fosse
@@ -3055,7 +3001,7 @@ EQUIDADE, COMO EM: diz que todo ser humano possui a mesma dignidade e
 deve ser tratado
 com igual consideração e respeito). Questão correta.
 
-Item. 16. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
+16. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
 
 í O sempre surpreendente Guimarães Rosa dizia: "o
 animal satisfeito dorme*'. Por trás dessa aparente obviedade
@@ -3121,7 +3067,6 @@ O sentido original do trecho "aliás, como falou o mesmo Guimarães" (Linha.40) 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 caso a palavra "mesmo" fosse deslocada para antes do vocábulo "o" aliás,
 como falou mesmo o
 Guimarães.
@@ -3134,7 +3079,7 @@ sentido de "de verdade" ou "de fato", reforçando a ideia de
 certeza/afirmação daquilo dito por
 Guimarães. Questão correta.
 
-Item. 17. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
+17. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
 
 i As últimas décadas registraram o ressurgimento do
 campo do conhecimento denominado políticas públicas, assim
@@ -3213,8 +3158,7 @@ transitivo direto. Logo, o LHE seria inadequado. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 18. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
+18. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
 
 f O principio constitucional da eficiência exige do
 administrador público não apenas a execução de políticas
@@ -3261,7 +3205,7 @@ atingir determinado objetivo e
 analisando o contexto, apresentam
 sentidos diferentes. Questão incorreta.
 
-Item. 19. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
+19. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
 
 1 Atualmente, c inconcebível se pensar cm
 administração pública sem controle ou fiscalização, na
@@ -3298,7 +3242,6 @@ pàMfca /» TCT-PV. » l«. p 14-23. pm <7911 (com adapUçtm)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Em relação às ideias e às estruturas linguísticas do texto apresentado, julgue o item seguinte.
 
 Seriam mantidos o sentido original e a correção gramatical do texto
@@ -3315,7 +3258,7 @@ uma vez que o verbo ("estar") deve concordar com o sujeito ("todos
 os entes públicos").
 Questão incorreta.
 
-Item. 20. (CEBRASPE / CONTROLADORIA GERAL DO MUNICÍPIO JOÃO PESSOA (PB) / 2017)
+20. (CEBRASPE / CONTROLADORIA GERAL DO MUNICÍPIO JOÃO PESSOA (PB) / 2017)
 
 Texto CB2A1AAA
 
@@ -3380,8 +3323,7 @@ que colocam pessoas específicas, adequadas, implacavelmente debaixo da lei. Que
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 1. (CEBRASPE / PETROBRÁS / 2022
+1. (CEBRASPE / PETROBRÁS / 2022
 
 0 texto mais célebre de A República ésem dúvida a Alegoria da Caverna, em que
 Platão, utilizando-
@@ -3429,7 +3371,7 @@ sua tipologia, julgue o item a seguir.
 segundo parágrafo, remete a
 toda a ideia contida no parágrafo anterior.
 
-Item. 2. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO / 2021)
+2. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DO RIO DE JANEIRO / 2021)
 
 1 Só ao anoitecer Gregor acordou de um sono pesado,
 parecido com um desmaio. Por certo, não teria acordado muito
@@ -3454,7 +3396,6 @@ durante os incidentes da manhã — era quase um milagre que só
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Só ao se aproximar da porta foi que Gregor percebeu o que o
 atraíra afinal: o cheiro da comida. É que lá havia uma tigela
 
@@ -3476,7 +3417,7 @@ Araújo (Trad ). Barueri: Princípios, 2018.
 A respeito dos aspectos linguísticos do texto precedente, julgue o item que se segue.
 As formas pronominais "o" e "se", na linha 3, referem-se a "Gregor" (Linha 1)
 
-Item. 3. (CEBRASPE / MP-CE / TÉCNICO MINISTERIAL / 2020)
+3. (CEBRASPE / MP-CE / TÉCNICO MINISTERIAL / 2020)
 
 i Em qualquer tempo ou lugar, a vida social é sempre
 marcada por rituais. Essa afirmação pode ser inesperada
@@ -3517,10 +3458,9 @@ Com relação às ideias, aos sentidos e aos aspectos linguísticos do texto ant
 seguir.
 A expressão "sua relevância" (€.8) refere-se a "rituais" (€.5).
 
-Item. 4. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+4. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 i "Desprezo o que dizes, mas defenderei até a morte o
 teu direito a dizê-lo." É com essa afirmação atribuída a
@@ -3562,7 +3502,7 @@ Internet: <https://agora-m.blogs.sapo.p<> (com adaptações).
 
 A expressão "suas relações" refere-se às relações da "democracia ateniense".
 
-Item. 5. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
+5. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
 
 Se não é fácil definir a família, é legítimo o esforço de tentar decifrar quem é o
 homem pós-moderno e quais
@@ -3577,10 +3517,9 @@ A) "homem" B) "outro"
 C) "espaço" D) "interior" E)
 "esforço"
 
-Item. 6. (CEBRASPE / AGÊNCIA BRASILEIRA DE INTELIGÊNCIA / 2019)
+6. (CEBRASPE / AGÊNCIA BRASILEIRA DE INTELIGÊNCIA / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Texto CB1 Al BBB
 
@@ -3619,7 +3558,7 @@ No trecho "para testar possíveis soluções" (linhas 16 e 17), o emprego da
 preposição "para", além de
 contribuir para a coesão sequencial do texto, introduz, no período, uma ideia de finalidade.
 
-Item. 7. (CEBRASPE / PGE-PE-Ana. Judiciário de Procuradoria - 2019)
+7. (CEBRASPE / PGE-PE-Ana. Judiciário de Procuradoria - 2019)
 
 Raras vezes na história humana, o trabalho, a riqueza, o poder e o saber mudaram
 simultaneamente. Quando
@@ -3635,7 +3574,7 @@ isso representa saltos de
 
 Na linha 6, o vocábulo "que" retoma o termo "saltos de época".
 
-Item. 8. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
+8. (CEBRASPE / PGE-PE-Assistente de Procuradoria - 2019)
 
 A modernidade é um contrato. Todos nós aderimos a ele no dia em que nascemos, e ele
 regula nossa vida
@@ -3645,10 +3584,9 @@ As formas pronominais em "rescindi-lo" e "transcendê-lo", referem-se,
 respectivamente, a "contrato" e a
 dia .
 
-Item. 9. (CEBRASPE / PRF-Policial / 2019)
+9. (CEBRASPE / PRF-Policial / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 As atividades pertinentes ao trabalho relacionam-se
 intrinsecamente com a satisfação das necessidades dos
@@ -3691,7 +3629,7 @@ Thiago <le Mello Trabalha Infernei: <ediKHGNO.glotx>4nm> (com adapUições).
 As formas pronominais "Estas" (£.4) e "las" (€.7) referem-se a "necessidades dos seres humanos"
 (£.2-3).
 
-Item. 10. (CEBRASPE / PC-SE-Delegado / 2018)
+10. (CEBRASPE / PC-SE-Delegado / 2018)
 
 A existência da polícia se justifica pela imprescindibilidade dessa agência de segurança
 para a viabilidade do
@@ -3709,7 +3647,7 @@ por meio das expressões "dessa agência de segurança" (£.1), "sua" (£.2), "s
 "sua" (£.4) e "dessa
 instituição" (£.5).
 
-Item. 11. (CEBRASPE / POLÍCIA CIVIL-MA / ESCRIVÃO / 2018)
+11. (CEBRASPE / POLÍCIA CIVIL-MA / ESCRIVÃO / 2018)
 
 O ano de 2017 foi o mais seguro da história da aviação comercial, de acordo com a
 organização holandesa
@@ -3722,8 +3660,7 @@ O vocábulo "deles" remete à expressão "dez acidentes".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 12. (CEBRASPE / MPU / ANALISTA / 2018)
+12. (CEBRASPE / MPU / ANALISTA / 2018)
 
 Falar em desigualdade é falar também em pobreza. A reprodução social das desigualdades
 contribui para
@@ -3743,7 +3680,7 @@ No texto, a palavra minoria (1.5) refere-se aos grupos sociais marginalizados,
 em situação de maior
 vulnerabilidade social, tal qual a população das periferias, por exemplo.
 
-Item. 13. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
+13. (CEBRASPE / PF / AGENTE DA POLÍCIA FEDERAL / 2018)
 
 Este funcionário, porém, se enganou por completo, e a fonte remota de seu fracasso
 reside na suposição
@@ -3757,7 +3694,7 @@ O pronome "ele", no trecho "ele é apenas culpado de uma non distributio
 medii" (L.3), refere-se a "o
 ministro" (L.2).
 
-Item. 14. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
+14. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
 
 Mas o nordestino tinha que voltar à sua realidade, à realidade maior que a história
 do mundo, isto é, à história
@@ -3770,7 +3707,7 @@ dos seus lajedos.
 A respeito dos recursos coesivos e da coerência do texto, julgue o item a seguir.
 O vocábulo "energia" retoma o sentido de "vida bárbara".
 
-Item. 15. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
+15. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
 
 Com a crescente industrialização do país, tornava-se cada vez mais importante a
 formação de profissionais
@@ -3784,7 +3721,7 @@ A respeito dos recursos coesivos e da coerência do texto, julgue o item a segui
 
 O termo "às" é elemento coesivo que retoma o antecedente "escolas de aprendizes e artífices".
 
-Item. 16. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+16. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Estavam-lhe ministrando a extrema-unção. E, quando o sacerdote lhe fez a tremenda
 pergunta, chamando-
@@ -3793,14 +3730,13 @@ devastada pela erosão da
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 morte, a Dúvido começava a redesenhar, reanimando-a, aqueles seus trejeitos e caretas,
 numa espécie de
 ridícula ressurreição.
 
 Em "reanimando-a" (L.3), o pronome "a" refere-se a "Dúvida" (L.3).
 
-Item. 17. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+17. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 O orgulho é a consciência (certa ou errônea) do nosso valor próprio; a vaidade é a
 consciência (certa ou
@@ -3824,7 +3760,7 @@ De acordo com os sentidos do texto, "a noção da causa interior" (L.7) refere-s
 expressão "a consciência
 do nosso valor em si" (L.5).
 
-Item. 18. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+18. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Siron Franco, artista plástico contemporâneo, realiza uma montagem em Brasília, em 1990,
 no Dia da
@@ -3836,7 +3772,7 @@ do Brasil como país do futuro.
 
 A expressão "o emblema da pátria" (€.3) remete a "Congresso Nacional" (€. 3).
 
-Item. 19. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
+19. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
 
 O jeitinho brasileiro é uma forma de corrupção? Se a regra transgredida não
 causa prejuízo, temos o
@@ -3847,10 +3783,9 @@ que vence naquele dia e pede para passar na frente. Não há o que reclamar dess
 
 A palavra "que" (L.3) retoma o termo que a antecede e relaciona duas orações no período.
 
-Item. 20. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
+20. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Texto 1A2-II
 
@@ -3919,16 +3854,15 @@ E) porque.
 
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. CORRETA
 
-Item. 2. CORRETA
+3. CORRETA
 
-Item. 3. CORRETA
+4. CORRETA
 
-Item. 4. CORRETA
-
-Item. 5. LETRAA
+5. LETRAA
 
 6.
 
@@ -3980,10 +3914,9 @@ LETRAE
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - REESCRITURA - CEBRASPE
 
-Item. 1. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
+1. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
 
 r Não há conclusões unânimes, mas a ciência e os
 especialistas caminham para o entendimento de que o
@@ -4043,10 +3976,9 @@ preconceito foge da
 postura típica dos animais, que rejeitam aquilo que é prejudicial a partir da experiência
 adquirida.
 
-Item. 2. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
+2. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 1 A primeira celebração do Dia Mundial da Segurança
 dos Alimentos das Nações Unidas, que ocorreu em 7 de junho
@@ -4090,7 +4022,7 @@ Sem alteração dos sentidos originais do texto, a palavra "transmitidas" (R.17)
 poderia ser
 substituída por transmissíveis.
 
-Item. 3. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
+3. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
 
 1 A primeira celebração do Dia Mundial da Segurança
 dos Alimentos das Nações Unidas, que ocorreu em 7 de junho
@@ -4137,8 +4069,7 @@ gramatical e a coesão do texto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 4. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
+4. (CEBRASPE / MINISTÉRIO PÚBLICO DO ESTADO DO CEARÁ / 2020)
 
 í Não há conclusões unânimes, mas a ciência e os
 especialistas caminham para o entendimento de que o
@@ -4203,10 +4134,9 @@ A substituição da forma verbal "seja" (R.3) por "é" manteria a coerência e a
 gramatical
 do texto.
 
-Item. 5. (CEBRASPE / AUDITOR FISCAL DA RECEITA DO DISTRITO FEDERAL (SEFAZ DF) / 2020)
+5. (CEBRASPE / AUDITOR FISCAL DA RECEITA DO DISTRITO FEDERAL (SEFAZ DF) / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Texto CG1AI-I
 
@@ -4278,7 +4208,7 @@ Sem prejuízo da correção gramatical e do sentido original do texto, a forma
 verbal "restam"
 (linha 26) poderia ser substituída por mantém-se.
 
-Item. 6. (CEBRASPE / AUDITOR DE FINANÇAS E CONTROLE DE ARRECADAÇÃO DA FAZENDA
+6. (CEBRASPE / AUDITOR DE FINANÇAS E CONTROLE DE ARRECADAÇÃO DA FAZENDA
 ESTADUAL (SEFAZ AL) / 2020)
 
 1 É uma loja grande e escura no centro da cidade, uma
@@ -4296,7 +4226,6 @@ io tive e me esquecendo da vida real em que me perco enquanto
 a atravesso e sou por ela atravessado.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Tem meia dúzia de atendentes, conheço dois ou três
 
@@ -4333,7 +4262,7 @@ da estação de trem" (Linhas 1 e 2) poderia ser substituída por a uma quadra d
 distância da
 estação de trem.
 
-Item. 7. (CEBRASPE / ANALISTA MINISTERIAL - CONTROLE EXTERNO (MPC PA) / 2020)
+7. (CEBRASPE / ANALISTA MINISTERIAL - CONTROLE EXTERNO (MPC PA) / 2020)
 
 Texto CG2AI-I
 
@@ -4367,7 +4296,6 @@ uma vida saudável, c 21 mil pessoas morrem diariamente por
 fome ou problemas derivados dela.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 is Um estudo publicado cm 2016 pela FAO
 
@@ -4419,7 +4347,7 @@ D) que não acontecem problemas de abastecimento.
 
 E) onde não costuma haver problemas de abastecimento.
 
-Item. 8. (CEBRASPE / ANALISTA MINISTERIAL - CONTROLE EXTERNO (MPC PA) / 2020)
+8. (CEBRASPE / ANALISTA MINISTERIAL - CONTROLE EXTERNO (MPC PA) / 2020)
 
 Texto CG2AI-I
 
@@ -4453,7 +4381,6 @@ uma vida saudável, c 21 mil pessoas morrem diariamente por
 fome ou problemas derivados dela.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 n Um estudo publicado cm 2016 pela FAO
 (Organização das Nações Unidas para a Alimentação c a
@@ -4518,7 +4445,7 @@ E) O tema ainda será um dos mais delicados da agenda internacional
 consoante os números
 absolutos estejam caindo.
 
-Item. 9. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
+9. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
 
 Aqui, neste escritório onde a verdade não pode ser mais do que uma cara sobreposta
 às infinitas
@@ -4532,7 +4459,7 @@ Na linha 1, o emprego de "neste" decorre da presença do vocábulo "Aqui", de mo
 sua
 substituição por nesse resultaria em incorreção gramatical.
 
-Item. 10. (CEBRASPE /CAGE-RS/ AUDITOR FISCAL/2018)
+10. (CEBRASPE /CAGE-RS/ AUDITOR FISCAL/2018)
 
 Considere o seguinte trecho do texto: "Por meio de ações corretivas dos poderes
 públicos e do
@@ -4541,7 +4468,6 @@ trabalho, ao lazer, à
 saúde, à cultura e ao esporte, por exemplo, procurou-se promover uma igualdade material".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O sentido e a correção gramatical desse trecho seriam mantidos caso as expressões "Por
 meio
@@ -4557,7 +4483,7 @@ D) Por intermédio de e atinentes.
 
 E) Em consequência de e atinentes.
 
-Item. 11. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS / 2018)
+11. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE MINAS GERAIS / 2018)
 
 Texto CG1A1-I
 
@@ -4641,7 +4567,6 @@ destinos, assim como de nossa espécie, da vida, de nosso planeta, do Universo.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 D) A ciência nos esclarece sobre as questões mais profundas de nossa espécie, da
 vida, de nosso
 planeta, do Universo — das origens, das naturezas e dos destinos.
@@ -4650,7 +4575,7 @@ E) As origens, as naturezas e os destinos de nossa espécie, da vida, de nosso
 planeta e do
 Universo são as questões mais profundas esclarecidas pela ciência.
 
-Item. 12. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
+12. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
 
 o que é NFG 7
 
@@ -4676,7 +4601,6 @@ A) recursos do estado beneficiam as entidades sociais por ele indicadas
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 B) beneficia-se com recursos do estado as entidades sociais indicadas por parte deles
 
 C) por eles indicadas, as entidades sociais são beneficiadas com recursos do estado
@@ -4685,7 +4609,7 @@ D) as entidades sociais indicadas são beneficiadas por eles com recursos do est
 
 E) as entidades sociais que eles indicaram beneficiam-se com recursos do estado
 
-Item. 13. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
+13. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL / 2018)
 
 No período "Você concorre a prêmios e ainda ajuda entidades sociais" a
 palavra "ainda" está
@@ -4701,7 +4625,7 @@ D) não obstante.
 
 E) como consequência.
 
-Item. 14. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL/2018)
+14. (CEBRASPE / SECRETARIA DE ESTADO DA FAZENDA DO RIO GRANDE DO SUL/2018)
 
 1 O direito tributário brasileiro depara-se com
 grandes desafios, principalmente em tempos de globalização
@@ -4744,7 +4668,6 @@ interestaduais, que gera a já comentada guerra fiscal.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 31 A harmonização com os outros sistemas tributários é
 outro desafio que deve ser enfrentado. E preciso integrar-se aos
 países do MERCOSUL, além de promover a aproximação
@@ -4776,7 +4699,7 @@ D) confronta-se a
 
 E) depara com
 
-Item. 15. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
+15. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
 
 Texto CB2A1AAA
 
@@ -4807,7 +4730,6 @@ consideração e respeito. O principio da transparência tem duas
 versões no próprio Kant: uma diz que se deve sempre agir de
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 22 tal forma que os motivos de atuação possam ser divulgados
 publicamente; a outra afirma que se deve agir de tal modo que
@@ -4857,7 +4779,7 @@ estabelecer o princípio da equidade, segundo o qual todo ser humano tem a mesma
 dignidade e
 deve ser tratado igualmente com consideração e respeito.
 
-Item. 16. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
+16. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
 
 Í O sempre surpreendente Guimarães Rosa dizia: "o
 animal satisfeito dorme*'. Por trás dessa aparente obviedade
@@ -4887,7 +4809,6 @@ ia impede que nos tomemos prisioneiros de situações que. por
 serem inéditas, não saberíamos enfrentar.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Um bom livro não é aquele que. quando encerramos
 a sua leitura, deixamos um pouco apoiado no colo, absortos e
@@ -4930,7 +4851,7 @@ caso a palavra "mesmo" fosse deslocada para antes do vocábulo "o" aliás, como 
 mesmo o
 Guimarães.
 
-Item. 17. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
+17. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
 
 í As últimas décadas registraram o ressurgimento do
 campo do conhecimento denominado políticas públicas, assim
@@ -4961,7 +4882,6 @@ que nasceu como subárea da ciência política, abriu o terceiro
 grande caminho trilhado pela ciência política norte-americana
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 m no que se refere ao estudo do mundo público. O primeiro
 caminho, seguindo a tradição de Madison, cético da natureza
@@ -5002,7 +4922,7 @@ Seriam mantidos o sentido original do texto e sua correção gramatical caso o t
 "a ela não se
 resume" (Linha.36) fosse substituído por não lhe resume.
 
-Item. 18. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
+18. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
 
 * O princípio constitucional da
 eficiência exige do
@@ -5042,10 +4962,9 @@ Os sentidos do texto seriam preservados caso os vocábulos "utilidade"
 (Linha.20) e "sacrifício"
 (Linha.21) fossem substituídos, respectivamente, por vantagem e esforço.
 
-Item. 19. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
+19. (CEBRASPE / TRIBUNAL DE CONTAS DO ESTADO DE PERNAMBUCO / 2017)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 1 Atualmente, c inconcebível se pensar cm
 administração pública sem controle ou fiscalização, na
@@ -5088,7 +5007,7 @@ forma verbal
 respectivamente,
 por Se inexiste e se não está.
 
-Item. 20. (CEBRASPE / CONTROLADORIA GERAL DO MUNICÍPIO JOÃO PESSOA (PB) / 2017)
+20. (CEBRASPE / CONTROLADORIA GERAL DO MUNICÍPIO JOÃO PESSOA (PB) / 2017)
 
 Texto CB2A1AAA
 
@@ -5142,51 +5061,41 @@ deslocada para imediatamente após "pessoas".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. INCORRETA
 
-Item. 3. INCORRETA
+4. CORRETA
 
-Item. 4. CORRETA
+5. INCORRETA
 
-Item. 5. INCORRETA
+6. CORRETA
 
-Item. 6. CORRETA
+7. LETRA E
 
-Item. 7. LETRA E
+8. LETRA D
 
-Item. 8. LETRA D
-
-Item. 9. CORRETA
+9. CORRETA
 
 LETRA D
 
-
 LETRA A
 
-
 LETRA E
-
 
 LETRA B
 
-
 LETRA E
 
-
 CORRETA
 
-
 CORRETA
-
 
 INCORRETA
-
 
 INCORRETA
 
@@ -5194,5 +5103,4 @@ INCORRETA
 CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

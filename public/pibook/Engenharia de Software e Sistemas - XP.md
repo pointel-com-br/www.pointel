@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - XP.
-
+# Engenharia de Software e Sistemas - XP.
 
 Índice
 
@@ -31,7 +30,6 @@ Capítulo. Engenharia de Software e Sistemas - XP.
 
 14) Lista de Questões - Metodologias Ágeis - XP - Diversas
 
-
 APRESENTAçÃo
 
 O assunto da aula de hoje é: Extreme Programming! Trata-se de uma famosa metodologia
@@ -45,7 +43,6 @@ será bem
 pequena. Vamos lá...
 
 PROFESSOR DIEGO CARVALHO - WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
-
 
 Extreme programming
 
@@ -73,7 +70,6 @@ TIÕÍDÉNCÍ^Ã^RÕV^UÍSSÍMT
 Além disso, essas faixas não são por banca - é baseado tanto na quantidade de vezes
 que caiu em
 prova independentemente da banca e também em minhas avaliações sobre cada assunto...
-
 
 #ATENÇÃO
 
@@ -112,7 +108,6 @@ assunto previamente administrado. A imensa maioria das questões para
 que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
 completos, abrangentes e direcionados.
-
 
 EXTREME PRoCRAMMINC (XP)
 
@@ -173,7 +168,6 @@ disso, o envolvimento do cliente em tempo integral facilita bastante o desenvolv
 
 1 Por vezes, também chamado de estórias de usuário.
 
-
 a qualidade do produto. Agora vejam só... eu falei muito rapidamente sobre histórias
 de usuário,
 mas é importante se aprofundar um pouco porque ela é muito importante.
@@ -227,7 +221,6 @@ casos de teste, Diego? É um conjunto de condições usadas para teste de softwa
 ele especifica os
 valores de entrada e os resultados esperados do processamento de uma funcionalidade.
 
-
 Por fim, elas devem ser concluídas em até uma iteração. Uma história de usuário que
 não caiba
 em uma iteração deverá ser decomposta em duas ou mais histórias menores de modo que
@@ -236,7 +229,6 @@ cliente em
 relação aos recursos e prioridades em um contexto incremental e iterativo de
 desenvolvimento. A
 seguir, podemos ver mais alguns exemplos de histórias de usuário:
-
 
 pagflkvteiAzto - Boleto
 
@@ -295,7 +287,6 @@ da bandeira C
 
 Para pagar meus pedidos.
 
-
 Principais Práticas
 
 O XP possui um conjunto de práticas que são frequentemente utilizadas. Galera... isso
@@ -353,7 +344,6 @@ futuro.
 A equipe de desenvolvimento é formada por pessoas engajadas e multidisciplinares, i.e., elas
 possuem habilidades para diversas áreas do projeto.
 
-
 JOGO DO
 PLANEJAMENTO
 
@@ -370,7 +360,6 @@ programadores
 não fazem refatoração em partes do sistema que não desenvolveram; nem sempre
 é possível
 programar em pares; etc. É claro que a teoria trata do mundo ideal...
-
 
 Processo do XP
 
@@ -417,7 +406,6 @@ chegar a
 um compromisso básico (concordância sobre quais histórias serão incluídas, data de
 entrega, etc)
 para uma versão, a equipe XP ordena as histórias a ser desenvolvidas em uma das três formas:
-
 
 (í) todas serão implementadas imediatamente (em um prazo de poucas semanas); (2) as
 histórias
@@ -552,7 +540,6 @@ ambiente "teste da fumaça" que ajuda a revelar erros precocemente.
 
 4-TESTES:
 
-
 Já foi observado que a criação de testes de unidade, antes de começar a
 codificação, é um
 elemento-chave da abordagem XP. Os testes de unidade criados devem ser
@@ -636,7 +623,6 @@ sistema é disponibilizado para o cliente. Claro que, como os requisitos mudam, 
 histórias não
 implementadas mudam ou podem ser descartadas.
 
-
 Tarefa 1: Alterar dose de medicamentos prescritos
 Tarefa 2: Seleção de formulário
 
@@ -688,9 +674,7 @@ Desenvolver,
 integrar e
 testar software
 
-
 Valores Fundamentais
-
 
 VALORES
 FUNDAMENTAIS
@@ -705,7 +689,6 @@ realizada por meio de documentação. O Extreme Programming favorece projetos si
 metáforas comuns, a colaboração dos usuários, programadores e outros stakeholders, a
 comunicação verbal frequente e o feedback.
 
-
 SIMPLICIDADE
 
 XP incentiva que se comece com a solução mais simples. Funcionalidades adicionais podem
@@ -713,7 +696,6 @@ ser acrescentadas posteriormente. Alega-se que desenvolverfunções que não sã
 hoje pode ser prejudicial, na medida em que futuramente essa função pode não ser mais útil.
 Codificação e projeto de necessidades futuras incertas implicam o risco de gastar recursos em
 algo não mais necessários, embora talvez atrasando aspectos cruciais.
-
 
 FEEDBACK
 
@@ -723,7 +705,6 @@ desenvolvimento de testes, eles podem dar um feedback instantâneo. Dessa forma,
 pode orientar o desenvolvimento em uma possível recodificação do sistema. Quando o cliente
 traz um novo requisito, recebe um feedback de tempo e orçamento.
 
-
 CORAGEM
 
 A coragem permite que os desenvolvedores se sintam confortáveis com ao refatorar o seu
@@ -731,7 +712,6 @@ código, quando necessário. Eventualmente, há de se ter coragem para jogar for
 ou para remover um código obsoleto, não importa quanto esforço e tempo se gastou para
 produzi-lo. Além disso, coragem significa persistência, pois um programador pode se
 encontrar preso em um problema complexo durante um dia inteiro sem conseguir resolver.
-
 
 RESPEITO
 
@@ -743,7 +723,6 @@ desvalorizado ou ignorado. Isso garante um alto nível de motivação e incentiv
 lealdade
 dentro da equipe. Este valor é muito dependente dos outros valores.
 
-
 CORAGEM
 
 Cor
@@ -753,7 +732,6 @@ SIMPLICIDADE
 Sim
 
 51607774
-
 
 Com
 
@@ -766,7 +744,6 @@ RESPEITO
 Re
 
 CorSim ComFeRe
-
 
 Princípios Básicos
 
@@ -827,9 +804,7 @@ refatoramento constantemente. Isso significa que a equipe de programação procu
 por
 possíveis melhorias no software, implementando-as imediatamente. Portanto, o software deve
 
-
 / 112
-
 
 sempre ser fácil de compreender e alterar quando novas histórias de usuário são
 implementadas.
@@ -864,7 +839,6 @@ pessoal! Finalizamos toda a teoria do XP. Vocês viram que não é difícil e as
 questões são bem
 decorebas. Entendendo o fundamento, é possível respondê-las. Vamos lá...
 
-
 RESUMo
 
 EXTREME PROGRAMMING
@@ -884,7 +858,6 @@ Atèn, eh Hh/Wí tu audo doi
 
 PROCESSOS DO EXTREME PROGRAMMING
 
-
 valores das histórias
 de usuários
 critérios de teste de aceitação
@@ -897,7 +870,6 @@ protótipos
 refabricacão
 programação em dupla
 
-
 Versão
 incremento de software
 velocidade de projeto registrada
@@ -906,7 +878,6 @@ velocidade de projeto registrada
 teste de unidades
 integração contínuo
 teste de aceitação
-
 
 DESCRIÇÃO
 
@@ -963,7 +934,6 @@ O planejamento de um release e das iterações são feitos com base nas históri
 colaboração de toda equipe de desenvolvimento, inclusive o cliente, divididos em papeis:
 negócio e técnico. Os clientes priorizam e os desenvolvedores avaliam e estimam.
 
-
 VALORES
 FUNDAMENTAIS
 
@@ -972,7 +942,6 @@ DESCRIÇÃO
 COMUNICAÇÃO Para se desenvolver um sistema de software, exige-se comunicar os requisitos de
 sistema para
 os desenvolvedores. Em metodologias formais de desenvolvimento de software, esta tarefa é
-
 
 SIMPLICIDADE
 
@@ -1030,7 +999,6 @@ dos testes antes da codificação do sistema.
 
 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) Um aspecto central na XP é o fato de que a elaboração
@@ -1053,7 +1021,7 @@ planejamento.
 
 Gabarito: Correto
 
-Item. 2. (CESPE / BANRISUL - 2022) Na metodologia XP (Extreme Programming), a
+2. (CESPE / BANRISUL - 2022) Na metodologia XP (Extreme Programming), a
 atividade de
 planejamento se inicia com o levantamento de requisitos, em que são obtidas
 histórias de
@@ -1075,7 +1043,7 @@ agruparas histórias de usuário e priorizaras necessidades.
 
 Gabarito: Correto
 
-Item. 3. (CESPE / Ministério da Economia - 2020) Grandes quantidades de horas extras são
+3. (CESPE / Ministério da Economia - 2020) Grandes quantidades de horas extras são
 aceitáveis
 em médio e longo prazo, para agilizar a entrega de requisitos.
 
@@ -1090,7 +1058,6 @@ horas
 semanais.
 
 Gabarito: Errado
-
 
 4- (CESPE / Ministério da Economia - 2020) Como forma de agilizar as
 implantações de
@@ -1108,7 +1075,7 @@ funcionalidade incrementalmente ao primeiro release.
 
 Gabarito: Errado
 
-Item. 5. (CESPE / Ministério da Economia - 2020) Os programadores trabalham em pares para
+5. (CESPE / Ministério da Economia - 2020) Os programadores trabalham em pares para
 que um
 possa verificar e apoiar o trabalho do outro e, assim, realizem um bom trabalho.
 
@@ -1122,7 +1089,7 @@ utilizam o mesmo mouse, teclado e monitor.
 
 Gabarito: Correto
 
-Item. 6. (CESPE / Ministério da Economia - 2020) O refactoring de código não faz parte do
+6. (CESPE / Ministério da Economia - 2020) O refactoring de código não faz parte do
 modelo XP,
 visto que a expectativa é a entrega ágil, e não deve ser considerada em tempo de
 projeto a
@@ -1138,7 +1105,7 @@ simples de entender e fácil de manter.
 
 Gabarito: Errado
 
-Item. 7. (CESPE / Ministério da Economia - 2020) O XP possui planejamento
+7. (CESPE / Ministério da Economia - 2020) O XP possui planejamento
 incremental com
 requisitos registrados em histórias.
 
@@ -1147,10 +1114,9 @@ Comentários:
 No eXtreme Programming, todos os requisitos são expressos como cenários (também chamados
 histórias do usuário), que são implementados diretamente como uma série de tarefas.
 
-
 Gabarito: Correto
 
-Item. 8. (CESPE / TCE-RO - 2019) No que diz respeito a processos e práticas ágeis, o
+8. (CESPE / TCE-RO - 2019) No que diz respeito a processos e práticas ágeis, o
 desenvolvimento
 incremental
 a) é, assim como otest-driven development, uma prática da XP (Extreme Programming)
@@ -1193,7 +1159,7 @@ contínua não é incompatível com o XP e com o Scrum.
 
 Gabarito: Letra B
 
-Item. 9. (CESPE I TJ-AM - 2019) No XP (Extreme Programming), o valor de uma história de
+9. (CESPE I TJ-AM - 2019) No XP (Extreme Programming), o valor de uma história de
 usuário é
 atribuído pelos membros da equipe e é medido em termos de semanas estimadas
 para o
@@ -1204,7 +1170,6 @@ Comentários:
 No Extreme Programming, cada história é escrita pelo cliente e é colocada em uma
 ficha! O cliente
 atribui um valor (prioridade) à história baseando-se no valor de negócio global do recurso/função.
-
 
 Os membros da equipe XP avaliam cada história e atribuem um custo a ela medido em
 semanas de
@@ -1248,7 +1213,7 @@ e os desenvolvedores avaliam e estimam.
 
 Gabarito: Errado
 
-Item. 12. (CESPE / ABIN - 2018) O ritmo ágil de desenvolvimento de softwares é uma
+12. (CESPE / ABIN - 2018) O ritmo ágil de desenvolvimento de softwares é uma
 prática usada para
 favorecer a entrega das releases quando grandes volumes de horas extras são tolerados.
 
@@ -1290,7 +1255,7 @@ como cenários ou histórias de usuário, que são implementados como uma série
 
 Gabarito: Correto
 
-Item. 15. (CESPE / TRT - 7a Região (CE) - 2017) Acerca de metodologia XP, assinale a opção correta.
+15. (CESPE / TRT - 7a Região (CE) - 2017) Acerca de metodologia XP, assinale a opção correta.
 
 a) Para atingir a agilidade necessária, a equipe de desenvolvimento deve ser
 composta de
@@ -1316,7 +1281,6 @@ trata-se das
 metáforas.
 
 Gabarito: Letra B
-
 
 i6.(CESPE / TRE-BA - 2017) Considerando uma situação hipotética com o uso da XP
 (eXtreme
@@ -1382,7 +1346,6 @@ d) trabalho em pares de desenvolvedores.
 
 e) integrações após a entrega do software completo.
 
-
 Comentários:
 
 (a) Errado, planejamento incremental e, não, completo; (b) Errado, pequenas
@@ -1427,7 +1390,7 @@ avaliem a complexidade e que se defina as estimativas para as entregas aos clien
 
 Gabarito: Correto
 
-Item. 20. (CESPE/ FUNPRESP-JUD-2016) A programação em pares, em que os desenvolvedores atuam
+20. (CESPE/ FUNPRESP-JUD-2016) A programação em pares, em que os desenvolvedores atuam
 avaliando entre si o trabalho do outro, é uma prática da metodologia XP.
 
 Comentários:
@@ -1436,10 +1399,9 @@ Perfeito! Os desenvolvedores trabalham em pares, um verificando otrabalho do out
 efornecendo
 apoio para realizar sempre um bom trabalho. Eles utilizam o mesmo mouse, teclado e monitor.
 
-
 Gabarito: Correto
 
-Item. 21. (CESPE / FUNPRESP-JUD - 2016) As práticas da extreme programming, que tem por
+21. (CESPE / FUNPRESP-JUD - 2016) As práticas da extreme programming, que tem por
 princípio
 liberar grandes releases de software, visam agregar valor ao negócio.
 
@@ -1453,7 +1415,7 @@ sistema são frequentes e adicionam funcionalidade incrementalmente ao primeiro 
 
 Gabarito: Errado
 
-Item. 22. (CESPE /TRT-PR - 2016) Um projeto desenvolvido mediante XP (Extreme Programming)
+22. (CESPE /TRT-PR - 2016) Um projeto desenvolvido mediante XP (Extreme Programming)
 segue
 princípios opostos aos de um projeto implementado com base em KIS (Keep lt Simple).
 
@@ -1469,7 +1431,7 @@ implementado com base no Keep lt Simple.
 
 Gabarito: Errado
 
-Item. 23. (CESPE / TRE-RS- 2015) Tendo em vista que, em um processo ágil de
+23. (CESPE / TRE-RS- 2015) Tendo em vista que, em um processo ágil de
 desenvolvimento
 de software, foi adotado o XP (eXtreme Programming) e que os requisitos levantados
 foram
@@ -1496,7 +1458,6 @@ elas
 possam ser refatoradas posteriormente.
 
 Comentários:
-
 
 A questão pergunta por recomendações para elaboração de histórias de usuários. Uma boa
 história
@@ -1618,7 +1579,6 @@ especialistas na equipe por meio da análise simultânea de duas pessoas no
 desenvolvimento
 do software.
 
-
 Comentários:
 
 Pelo contrário, a programação em pares permite que os programadores trabalhem
@@ -1675,10 +1635,9 @@ piedade, como
 É simplesmente
 refatoração. No entanto, é melhor não brigar com a banca...
 
-
 Gabarito: Correto
 
-Item. 32. (CESPE / STF - 2013) XP (Extreme Programming) é uma metodologia ágil voltada
+32. (CESPE / STF - 2013) XP (Extreme Programming) é uma metodologia ágil voltada
 para equipes
 pequenas e médias que desenvolvam software baseado em requisitos vagos e se caracteriza
 por
@@ -1694,7 +1653,7 @@ método ágil!
 
 Gabarito: Correto
 
-Item. 33. (CESPE/TCE-RO-2013) No método XP (eXtreming programming), os sistemas são concebidos
+33. (CESPE/TCE-RO-2013) No método XP (eXtreming programming), os sistemas são concebidos
 a partir de uma metáfora e descritos em estórias do usuário. Esse método busca
 facilitar a
 comunicação com o cliente, entendendo a realidade deste e guiando o desenvolvimento com
@@ -1723,12 +1682,11 @@ desenvolvimento é incremental porque se trata de um método iterativo e increme
 
 Gabarito: Correto
 
-Item. 35. (CESPE / MPE-PI - 2012) O XP (Extreme Programming) é um método ágil, que
+35. (CESPE / MPE-PI - 2012) O XP (Extreme Programming) é um método ágil, que
 preconiza a
 criação de um caso de teste unitário antes do início da codificação.
 
 Comentários:
-
 
 O XP é, de fato, um método ágil que preconiza o Test-First Design como uma de suas
 práticas, isto
@@ -1839,7 +1797,6 @@ intuito
 
 Gabarito: Errado
 
-
 43- (CESPE / ABIN - 2010) Na Extreme Programming, os requisitos são expressos como
 cenários e
 implementados diretamente como uma série de tarefas. O representante do cliente faz
@@ -1898,7 +1855,6 @@ atividades de planejamento, de projeto, de codificação e de teste.
 
 Comentários:
 
-
 valores das histórias
 de usuários
 critérios de teste de aceitação
@@ -1907,7 +1863,6 @@ projeto simples soluções pontuais
 cartões CRC protótipos
 refabricacõo
 programação em dupla
-
 
 Versão
 incremento de software
@@ -1922,7 +1877,7 @@ Perfeito! Essas são as atividades do Processo XP...
 
 Gabarito: Correto
 
-Item. 47. (CESPE / SECONT-ES - 2009) Métodos ágeis de desenvolvimento de sistemas foram
+47. (CESPE / SECONT-ES - 2009) Métodos ágeis de desenvolvimento de sistemas foram
 propostos
 principalmente para apoiar o desenvolvimento de aplicações de negócios nas quais os
 requisitos
@@ -1943,7 +1898,7 @@ participam de todas as atividades.
 
 Gabarito: Errado
 
-Item. 48. (CESPE / IPEA - 2009) A extreme programming (XP) é um método de desenvolvimento
+48. (CESPE / IPEA - 2009) A extreme programming (XP) é um método de desenvolvimento
 ágil.
 Nele, os requisitos são expressos como cenários implementados diretamente como uma série
 de tarefas.
@@ -1953,10 +1908,9 @@ Comentários:
 XP é um método ágil? Sim! Os requisitos são expressos como cenários implementados como uma série
 de tarefas? Sim! Questão bastante comum em concursos!
 
-
 Gabarito: Correto
 
-Item. 49. (CESPE / TRE-MG - 2009) Extreme programming é um método centrado no
+49. (CESPE / TRE-MG - 2009) Extreme programming é um método centrado no
 usuário, na
 produtividade do desenvolvimento e na documentação de apoio.
 
@@ -1984,7 +1938,7 @@ Incrementais e Trabalho de Qualidade.
 
 Gabarito: Correto
 
-Item. 51. (CESPE / ANAC - 2009) Extreme Programming é um modelo de processo de
+51. (CESPE / ANAC - 2009) Extreme Programming é um modelo de processo de
 desenvolvimento
 de software para equipes com grande número de pessoas, que desenvolvem software com
 base
@@ -1996,7 +1950,7 @@ Grande número de pessoas? Não, equipes de pequeno e médio porte!
 
 Gabarito: Errado
 
-Item. 52. (CESPE / ANTAQ - 2009) O extreme programming (XP) constitui
+52. (CESPE / ANTAQ - 2009) O extreme programming (XP) constitui
 método ágil de
 desenvolvimento de software. Uma das práticas que se enquadram nos princípios dos
 métodos
@@ -2006,7 +1960,6 @@ informal de
 revisão porque cada linha de código é vista por pelo menos duas pessoas.
 
 Comentários:
-
 
 Perfeito! A Programação em Par promove a Propriedade Coletiva! Além disso, serve como
 uma
@@ -2048,7 +2001,7 @@ Perfeito! Todas essas são práticas recomendadas pelo XP!
 
 Gabarito: Correto
 
-Item. 55. (CESPE / PRODEST - 2008) O XP é um processo que visa a um desenvolvimento ágil e portanto
+55. (CESPE / PRODEST - 2008) O XP é um processo que visa a um desenvolvimento ágil e portanto
 não recomenda os testes de unidade, pois eles consomem muitos recursos.
 Durante o
 desenvolvimento, o primeiro teste recomendado é o smoke test que foca os
@@ -2061,7 +2014,6 @@ Comentários:
 Como é? XP recomenda veementemente a utilização de testes de unidade!
 
 Gabarito: Errado
-
 
 QUESTõES CoMENTADAS - FCC
 
@@ -2103,7 +2055,7 @@ corrente".
 
 Gabarito: Letra E
 
-Item. 2. (FCC / DPE-AM - 2018) Considere a definição de algumas práticas da eXtreme
+2. (FCC / DPE-AM - 2018) Considere a definição de algumas práticas da eXtreme
 Programming -
 XP.
 
@@ -2118,7 +2070,6 @@ Por
 mais que esta prática pareça perigosa, ela aumenta a velocidade do
 desenvolvimento e
 problemas em potencial podem ser detectados pelos testes de unidade.
-
 
 III. Traz a ideia de que qualquer pessoa do time seja capaz de verificar
 o código sendo
@@ -2162,7 +2113,7 @@ comportamento externo do sistema, trata-se da prática de refatoramento.
 
 Gabarito: Letra E
 
-Item. 3. (FCC /TST-2017) Uma dupla de programadores, utilizando o modelo Extreme Programming
+3. (FCC /TST-2017) Uma dupla de programadores, utilizando o modelo Extreme Programming
 -
 XP, realiza, na fase de:
 
@@ -2184,10 +2135,9 @@ diretamente como uma série de tarefas. Além disso, essa implementação ocorre
 na fase de
 desenvolvimento.
 
-
 Gabarito: Letra A
 
-Item. 4. (FCC / DPE-RS - 2017) Considere que um Analista esteja participando de um projeto
+4. (FCC / DPE-RS - 2017) Considere que um Analista esteja participando de um projeto
 que utiliza
 as melhores práticas da Extreme Programming - XP. No início de uma iteração a equipe
 de
@@ -2233,7 +2183,7 @@ dessas prioridades.
 
 Gabarito: Letra E
 
-Item. 5. (FCC / CREMESP - 2016) Considere que nos projetos do CREMESP baseados em XP
+5. (FCC / CREMESP - 2016) Considere que nos projetos do CREMESP baseados em XP
 pratica-se
 a propriedade coletiva de código, de forma que todos os desenvolvedores podem
 fazer
@@ -2249,7 +2199,6 @@ c) testes apenas depois da codificação.
 
 d) releases grandes.
 
-
 e) integração das funcionalidades, mesmo com erros.
 
 Comentários:
@@ -2262,7 +2211,7 @@ do código.
 
 Gabarito: Letra A
 
-Item. 6. (FCC / Prefeitura de Teresina - PI - 2016) Os métodos ágeis
+6. (FCC / Prefeitura de Teresina - PI - 2016) Os métodos ágeis
 de desenvolvimento
 de software como eXtreme Programming - XP consideram um conjunto de
 valores
@@ -2290,7 +2239,7 @@ processos está mais ligada às metodologias tradicionais.
 
 Gabarito: Letra E
 
-Item. 7. (FCC / TRE-PB- 2015) Extreme Programming - XP pode ser considerado um
+7. (FCC / TRE-PB- 2015) Extreme Programming - XP pode ser considerado um
 modelo de
 desenvolvimento de software baseado em uma série de valores, princípios e regras, dentre eles,
 
@@ -2312,14 +2261,13 @@ software em funcionamento do que uma documentação detalhada e diversificada; (
 na
 verdade, os incrementos é que são entregues em aproximadamente duas semanas; (d) Errado. O
 
-
 XP adota o desenvolvimento test-first, ou seja, primeiro escreve-se o teste; (e)
 Correto. O planning
 game pode ocorrer semanalmente.
 
 Gabarito: Letra E
 
-Item. 8. (FCC / TST - 2012) O XP (Extreme Programming) utiliza uma abordagem orientada a
+8. (FCC / TST - 2012) O XP (Extreme Programming) utiliza uma abordagem orientada a
 objetos
 como seu paradigma de desenvolvimento predileto. Ele:
 
@@ -2357,7 +2305,7 @@ arcabouço: planejamento, projeto, codificação e teste.
 
 Gabarito: Letra A
 
-Item. 9. (FCC / MPE-AP - 2012) O Extreme Programming (XP) é, talvez, o mais conhecido e
+9. (FCC / MPE-AP - 2012) O Extreme Programming (XP) é, talvez, o mais conhecido e
 mais
 utilizado dos métodos ágeis. Dentre suas práticas se encontram programação em
 pares,
@@ -2370,7 +2318,6 @@ desenvolvimento, técnica que incentiva e aumenta o desempenho de toda a equipe.
 b) envolvimento do cliente apenas na fase final do sistema, fator que
 difere de outras
 metodologias como SCRUM e TDD e confere agilidade ao processo de desenvolvimento.
-
 
 c) processo de desenvolvimento contínuo, em que a equipe se mantém focada no sistema
 até
@@ -2427,7 +2374,6 @@ da responsabilidade do código desenvolvido.
 
 Comentários:
 
-
 (a) Trata-se do Pair Programming; (b) Não sei o que é, mas não há relação com
 Propriedade
 Coletiva; (c) Trata-se da Propriedade Coletiva; (d) Trata-se do Ritmo Sustentável; (e)
@@ -2444,7 +2390,7 @@ marcar a mais correta ou a menos errada.
 
 Gabarito: Letra C
 
-Item. 11. (FCC/TJ-PE-2012) NoS métodos ágeis XP e Scrum, as entregas de partes funcionais
+11. (FCC/TJ-PE-2012) NoS métodos ágeis XP e Scrum, as entregas de partes funcionais
 do projeto
 são divididas em ciclos, geralmente compreendidos no período de 1 a 4 semanas. Estes
 ciclos
@@ -2485,7 +2431,6 @@ e) Adota como um elemento-chave a criação de testes unitários antes da codifi
 
 Comentários:
 
-
 (a) Errado, não há nenhuma notação própria; (b) Correto, trata-se do Refactoring; (c)
 Correto, trata-
 se da programação em pares; (d) Correto, há também respeito; (e) Correto,
@@ -2494,7 +2439,7 @@ codifique depois.
 
 Gabarito: Letra A
 
-Item. 13. (FCC / TRE-RN - 2011) Considere as seguintes características:
+13. (FCC / TRE-RN - 2011) Considere as seguintes características:
 
 I. Propriedade coletiva.
 
@@ -2542,7 +2487,6 @@ e) Coding Standards (Padrões de Codificação).
 
 Comentários:
 
-
 O código fonte não tem dono e ninguém precisa solicitar permissão para
 poder modificá-lo,
 permitindo, assim, que a equipe conheça todas as partes do sistema,
@@ -2551,7 +2495,7 @@ Posse/Propriedade Coletiva (Collective Ownership).
 
 Gabarito: Letra D
 
-Item. 15. (FCC / TRE-RN - 2011) Assegurar que a equipe se concentre em fazer, primeiro,
+15. (FCC / TRE-RN - 2011) Assegurar que a equipe se concentre em fazer, primeiro,
 apenas aquilo
 que é claramente necessário e evite fazer o que poderia vir a ser necessário, mas
 ainda não se
@@ -2597,7 +2541,6 @@ Comentários:
 (a) Errado, recomenda-se a integração sempre que possível; (b) Errado, é feita por um
 par de
 programadores; (c) Errado, as equipes são auto-organizáveis de acordo com as suas habilidades,
-
 
 logo não faz sentido se organizar de acordo com outra equipe; (d) Errado, releases
 devem ser
@@ -2661,7 +2604,6 @@ que automatizam esse processo para os desenvolvedores.
 
 Gabarito: Letra C
 
-
 ig.(FCC / TCE-AL - 2008) Originalmente, o único produto da atividade de Projeto que é realizado
 como parte do processo XP (Extreme Programming):
 
@@ -2716,7 +2658,6 @@ XP lida bem com mudanças.
 
 Gabarito: Letra B
 
-
 QUESTõES CoMENTADAS - FG V
 
 í. (FGV/ SEFAZ-BA- 2022) Com relação à programação por pares, analise as afirmativas a
@@ -2758,7 +2699,7 @@ de modelos e de elaboração de código-fonte.
 
 Gabarito: Letra B
 
-Item. 2. (FGV / Prefeitura de Paulínia - SP- 2016) A empresa de
+2. (FGV / Prefeitura de Paulínia - SP- 2016) A empresa de
 desenvolvimento de
 sistemas "Inovation" tem ampla experiência no mercado e, até o momento,
 utilizou diversos
@@ -2782,7 +2723,6 @@ a) Extremme Programming (XP).
 
 b) Modelo V.
 
-
 c) Evolutivo.
 
 d) Incremental.
@@ -2805,7 +2745,6 @@ A questão apresentou diversas características do modelo Extreme Programming (X
 
 PRÁTICAS DESCRIÇÃO
 
-
 PEQUENOS
 RELEASES
 
@@ -2827,7 +2766,7 @@ responsável portrazeros requisitos do sistema.
 
 Gabarito: Letra A
 
-Item. 3. (FGV / Câmara Municipal do Recife-PE - 2014) Uma das práticas do método ágil XP
+3. (FGV / Câmara Municipal do Recife-PE - 2014) Uma das práticas do método ágil XP
 (eXtreme
 Programming) é:
 
@@ -2846,7 +2785,6 @@ Comentários:
 O TDD é uma prática XP em que se escreve o teste antes de escrever o código do componente.
 
 Gabarito: Letra D
-
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -2881,7 +2819,7 @@ trabalho em equipe e, por isso, o código fonte pertence a equipe.
 
 Gabarito: Letra B
 
-Item. 2. (IBFC /TRE-PA -2020) Para aplicar valores e princípios do XP (Extreme Programming),
+2. (IBFC /TRE-PA -2020) Para aplicar valores e princípios do XP (Extreme Programming),
 durante
 os processos e práticas ágeis de desenvolvimento de software, se propõe uma série
 específica
@@ -2904,7 +2842,6 @@ Comentários:
 Logo, trata-se de: Refactoring, Pair Programming e Planning Game.
 
 Gabarito: Letra B
-
 
 3- (UFCG/ UFCG- 2019) Marque a alternativa INCORRETA com relação a
 Extreme
@@ -2936,7 +2873,7 @@ tudo à risca - podem adaptar o processo.
 
 Gabarito: Letra E
 
-Item. 4. (IDECAN / UNIVASF - 2019) Extreme Programming (XP), em sua essência, possui um
+4. (IDECAN / UNIVASF - 2019) Extreme Programming (XP), em sua essência, possui um
 conjunto
 de regras que devem ser seguidas em projetos ágeis que queiram utilizá-la em sua
 completude.
@@ -2968,7 +2905,6 @@ do cliente é em
 tempo integral.
 
 Gabarito: Letra B
-
 
 5- (CESGRANRIO / UNIRIO - 2019) Uma das principais práticas de XP (Extreme
 Programming) é
@@ -3002,7 +2938,7 @@ estima o tempo de suas tarefas; (e) Errado. Não existe a figura do coach no XP.
 
 Gabarito: Letra D
 
-Item. 6. (INSTITUTO AOCP / UFPB - 2019) Um dos principais métodos ágeis de desenvolvimento
+6. (INSTITUTO AOCP / UFPB - 2019) Um dos principais métodos ágeis de desenvolvimento
 de
 software foi concebido para impulsionar práticas reconhecidas como boas, por
 exemplo, o
@@ -3034,7 +2970,6 @@ mesmo, testadas em um único dia por programadores diferentes é o Extreme Progr
 
 Gabarito: Letra C
 
-
 7- (FCM / Prefeitura de Caranaíba - MG - 2019) De acordo com Pressman e Maxim
 (2016), a
 Programação Extrema (Extreme Programming -XP) é uma abordagem amplamente utilizada
@@ -3061,7 +2996,7 @@ Trata-se do Planejamento (Planning), Projeto (Designing), Codificação (Coding)
 
 Gabarito: Letra A
 
-Item. 8. (VUNESP / Câmara de Piracicaba - SP-2019) Um dos processos ágeis de desenvolvimento
+8. (VUNESP / Câmara de Piracicaba - SP-2019) Um dos processos ágeis de desenvolvimento
 de software é a programação extrema (extreme programming - XP), cuja fase
 ou atividade
 inicial é composta pela descrição dos cenários (características e funcionalidades)
@@ -3080,14 +3015,13 @@ e) artefatos de usuário
 
 Comentários:
 
-
 De acordo com Sommerville, a primeira atividade do ciclo de uma release é "selecionar
 histórias de
 usuário para esta release"-não é exatamente o nome da atividade, mas é o que mais se aproxima!
 
 Gabarito: Letra B
 
-Item. 9. (INSTITUTO AOCP / ADAF - AM - 2018) Na metodologia ágil Extreme Programming (XP),
+9. (INSTITUTO AOCP / ADAF - AM - 2018) Na metodologia ágil Extreme Programming (XP),
 a
 propriedade do código é coletiva, dessa forma, todos compartilham o mesmo
 orgulho e as
@@ -3143,7 +3077,6 @@ também práticas adotadas no XP.
 
 Gabarito: Letra D
 
-
 n.(COMPERVE / UFRN-2018) Programação Extrema (XP - Extreme Programming) é uma
 das
 principais metodologias ágeis já propostas. A respeito de XP, considere as afirmativas abaixo.
@@ -3183,7 +3116,7 @@ de suas práticas.
 
 Gabarito: Letra A
 
-Item. 12. (COMPERVE / UFRN - 2018) Programação Extrema (XP - Extreme Programming) é uma das
+12. (COMPERVE / UFRN - 2018) Programação Extrema (XP - Extreme Programming) é uma das
 principais metodologias ágeis já propostas. Considere as seguintes afirmativas a
 respeito de
 suas práticas.
@@ -3205,7 +3138,6 @@ a) lie IV.
 
 b) I e IV.
 
-
 c) I e III.
 
 d) lie III.
@@ -3222,7 +3154,7 @@ uma tarefa é concluído, ele é integrado ao sistema, mas não há essa relaç�
 
 Gabarito: Letra D
 
-Item. 13. (IF-RS / IF-RS - 2018) Sobre as práticas encontradas na metodologia ágil de
+13. (IF-RS / IF-RS - 2018) Sobre as práticas encontradas na metodologia ágil de
 desenvolvimento
 de software, conhecida por Programação Extrema (XP Programming), de acordo com Dooley
 (2017) no livro Software Development, Design and Coding, classifique cada uma das
@@ -3265,7 +3197,6 @@ Por fim, o último item também é verdadeiro e remete à prática de pequenos r
 
 Gabarito: Letra D
 
-
 i4.(IADES/ ARCON-PA- 2018) Um dos métodos de desenvolvimento de software mais
 conhecido e utilizado é o extreme programming (XP). Esse consiste em um modelo:
 
@@ -3291,7 +3222,7 @@ necessidades atuais; (e) Errado, o envolvimento do cliente ocorre em tempo integ
 
 Gabarito: Letra D
 
-Item. 15. (FAURGS / TJ-RS - 2018) Considere as seguintes afirmações sobre princípios ou
+15. (FAURGS / TJ-RS - 2018) Considere as seguintes afirmações sobre princípios ou
 práticas da XP
 (Extreme Programming).
 
@@ -3325,7 +3256,6 @@ d) Apenas II e III.
 e) I, lie III.
 
 Comentários:
-
 
 (I) Perfeito! Trata-se do Client On-Site, ou seja, o cliente no local de
 trabalho, junto dos
@@ -3363,16 +3293,14 @@ e) modelagem, projeto, codificação e homologação.
 
 Comentários:
 
-
 As fases são planejamento, projeto, codificação e teste.
 
 Gabarito: Letra D
 
-Item. 17. (INSTITUTO AOCP / PRODEB - 2018) O método de desenvolvimento ágil denominado de XP
+17. (INSTITUTO AOCP / PRODEB - 2018) O método de desenvolvimento ágil denominado de XP
 (Extreme Programming) tem sua estrutura baseada em algumas prerrogativas, dentre as
 quais,
 é correto citar como princípios do XP:
-
 
 a) Princípio da Legalidade, Princípio da Agilidade e Princípio do Feedback.
 
@@ -3385,7 +3313,6 @@ Coragem.
 d) Princípio da Agilidade, Princípio da Qualidade, Princípio do Feedbacke Princípio da Coragem.
 
 e) Princípio da Simplicidade, Princípio do Desenvolvimento e Princípio de Governança.
-
 
 Comentários:
 
@@ -3410,7 +3337,6 @@ acrescentadas posteriormente. Alega-se que desenvolver funções que não são n
 pode ser prejudicial, na medida em que futuramente essa função pode não ser mais útil.
 Codificação e projeto de necessidades futuras incertas implicam o risco de gastar recursos em algo
 não mais necessários, embora talvez atrasando aspectos cruciais.
-
 
 O feedback ocorre quando os testes unitários ou testes de integração retornam o estado
 do
@@ -3470,7 +3396,6 @@ código coletivo, na qual todos os desenvolvedores têm acesso ao código.
 
 Comentários:
 
-
 De fato, essa é uma das práticas do XP! Os pares de desenvolvedores trabalham em
 todas as áreas
 do sistema, de tal maneira que não se formem ilhas de
@@ -3503,7 +3428,7 @@ amplamente conhecida e utilizada é a programação extrema (ou extreme programm
 
 Gabarito: Letra E
 
-Item. 21. (INSTITUTO AOCP/ PRODEB - 2018) Extreming Programming (XP) é um método
+21. (INSTITUTO AOCP/ PRODEB - 2018) Extreming Programming (XP) é um método
 de
 desenvolvimento ágil amplamente utilizado pelas software houses. Com base neste
 método,
@@ -3527,12 +3452,11 @@ Scrum e, não, do XP.
 
 Gabarito: Letra C
 
-Item. 22. (IBFC / TJ-PE - 2017) Está sendo implementado o XP (eXtreme Programming) em uma
+22. (IBFC / TJ-PE - 2017) Está sendo implementado o XP (eXtreme Programming) em uma
 equipe
 de TL Para tanto, está sendo colocada a seguinte série de práticas específicas da
 metodologia
 XP em análise:
-
 
 I. Programação Pareada (Pair Programming).
 
@@ -3589,7 +3513,6 @@ razão verdadeira
 - na minha opinião - é que de que não há resposta correta.
 
 Gabarito: Anulada
-
 
 2Zf.(IBFC / EBSERH - 2017) Dentro das práticas do XP (eXtreme Programming)
 existe uma
@@ -3651,7 +3574,6 @@ pequenas e
 médias que desenvolvem software com requisitos vagos e em constante mudança. Sobre os
 valores do XP, analise as definições abaixo e assinale a alternativa CORRETA.
 
-
 a) Simplicidade - procura-se que a equipe concentre-se, primeiro, em fazer o necessário.
 
 b) Comunicação - prioriza-se a troca de e-mail como melhor forma de
@@ -3686,7 +3608,7 @@ deve se limitar ao que é determinado pelo líder do projeto.
 
 Gabarito: Letra A
 
-Item. 27. (UFCG / UFCG - 2016) Sobre XP (Extreme Programming), marque a assertiva INCORRETA.
+27. (UFCG / UFCG - 2016) Sobre XP (Extreme Programming), marque a assertiva INCORRETA.
 
 a) É um processo criado por Kent Beck.
 
@@ -3717,7 +3639,6 @@ Gabarito: Letra B
 28.(IF-SE / IF-SE - 2016) A Programação Extrema (Extreme Programming - XP) possui
 diversas
 práticas. Analise as afirmativas abaixo.
-
 
 I. As releases do sistema são frequentes e incrementais.
 
@@ -3764,7 +3685,6 @@ e) Levantamento, análise, projeto e codificação.
 
 Comentários:
 
-
 As atividades são: planejamento, projeto, codificação e testes.
 
 Gabarito: Letra C
@@ -3800,7 +3720,6 @@ d) Semana de 40 horas (Sustainable Pace).
 
 e) Refatoração (Refactoring).
 
-
 Comentários:
 
 Todas as alternativas apresentam práticas do XP, exceto design complexo. O XP
@@ -3820,15 +3739,15 @@ enquadram nos princípios dos métodos ágeis. Acerca de algumas dessas prática
 relacione
 adequadamente as colunas a seguir.
 
-Item. 1. Releases pequenos.
+1. Releases pequenos.
 
-Item. 2. Refactoring.
+2. Refactoring.
 
-Item. 3. Propriedade coletiva.
+3. Propriedade coletiva.
 
-Item. 4. Integração contínua.
+4. Integração contínua.
 
-Item. 5. Ritmo sustentável.
+5. Ritmo sustentável.
 
 () Os pares de desenvolvedores trabalham em todas as áreas do sistema, de tal maneira
 que não
@@ -3872,7 +3791,7 @@ integração contínua (4).
 
 Gabarito: Letra D
 
-Item. 33. (UFPel-CES / UFPEL - 2015) Em projetos nos quais se aplicam o método ágil XP, a fase em que
+33. (UFPel-CES / UFPEL - 2015) Em projetos nos quais se aplicam o método ágil XP, a fase em que
 o propósito é empresa e cliente concordarem em uma data na qual o menor e melhor
 conjunto
 de histórias de usuários deverá ser implementado é a fase de:
@@ -3925,7 +3844,7 @@ stories);
 
 Gabarito: Letra C
 
-Item. 35. (CETRO / AMAZUL- 2015) Assinale a alternativa que não apresenta um princípio/
+35. (CETRO / AMAZUL- 2015) Assinale a alternativa que não apresenta um princípio/
 valor da
 metodologia de desenvolvimento de software XP (Extreme Programming):
 
@@ -3968,14 +3887,13 @@ c) 4
 
 d) 3
 
-
 Comentários:
 
 Todas as alternativas apresentam práticas do XP.
 
 Gabarito: Letra C
 
-Item. 37. (FUNCAB / SEFAZ-BA - 2014) São características do Extreme Programming (XP), EXCETO:
+37. (FUNCAB / SEFAZ-BA - 2014) São características do Extreme Programming (XP), EXCETO:
 
 a) apresentar desenvolvimento incremental.
 
@@ -4027,7 +3945,6 @@ Gabarito: Letra A
 
 39.(FUNCAB / MDA- 2014) A "Extreme Programming - XP" representa um dos mais conhecidos
 métodos ágeis. Uma das práticas utilizadas na XP é:
-
 
 a) empregar um esquema em que os desenvolvedores trabalham individualmente.
 
@@ -4081,7 +3998,6 @@ enxuta contém princípios que compõem a base dos processos ágeis de desenvolv
 software, como o Extremme Programming (XP). Um dos princípios básicos do XP, a
 eliminação
 de desperdícios, busca:
-
 
 a) evitar o efeito negativo que uma definição de risco, na fase inicial do projeto,
 possa causar na
@@ -4137,7 +4053,6 @@ e) Governança, planejamento, codificação e teste.
 
 Comentários:
 
-
 A resposta é: Governança, Planejamento, Codificação e Testes. Professor, você está cego?
 Onde tem
 governança na imagem? A questão não deveria ser anulada? Não! A questão afirma que o
@@ -4148,14 +4063,13 @@ desses arcabouços. Governança não faz parte, mas projeto, codificação e tes
 
 Gabarito: Letra E
 
-
 LISTA DE QUESTõES - CESPE
 
 í. (CESPE / BANRISUL - 2022) Um aspecto central na XP é o fato de que a elaboração
 do projeto
 ocorre tanto antes quanto depois de se ter iniciado a codificação.
 
-Item. 2. (CESPE / BANRISUL - 2022) Na metodologia XP (Extreme Programming), a
+2. (CESPE / BANRISUL - 2022) Na metodologia XP (Extreme Programming), a
 atividade de
 planejamento se inicia com o levantamento de requisitos, em que são obtidas
 histórias de
@@ -4163,31 +4077,31 @@ usuários, similares aos casos de uso; a seguir, clientes e desenvolvedores trab
 juntos para
 decidir como agrupar essas histórias.
 
-Item. 3. (CESPE / Ministério da Economia - 2020) Grandes quantidades de horas extras são
+3. (CESPE / Ministério da Economia - 2020) Grandes quantidades de horas extras são
 aceitáveis
 em médio e longo prazo, para agilizar a entrega de requisitos.
 
-Item. 4. (CESPE / Ministério da Economia - 2020) Como forma de agilizar as
+4. (CESPE / Ministério da Economia - 2020) Como forma de agilizar as
 implantações de
 novas releases nesse modelo, são acumulados grandes grupos de
 funcionalidades e
 implantadas grandes releases.
 
-Item. 5. (CESPE / Ministério da Economia - 2020) Os programadores trabalham em pares para
+5. (CESPE / Ministério da Economia - 2020) Os programadores trabalham em pares para
 que um
 possa verificar e apoiar o trabalho do outro e, assim, realizem um bom trabalho.
 
-Item. 6. (CESPE / Ministério da Economia - 2020) O refactoring de código não faz parte
+6. (CESPE / Ministério da Economia - 2020) O refactoring de código não faz parte
 do modelo XP,
 visto que a expectativa é a entrega ágil, e não deve ser considerada em tempo de
 projeto a
 recriação de código para aprimoramento.
 
-Item. 7. (CESPE / Ministério da Economia - 2020) O XP possui planejamento
+7. (CESPE / Ministério da Economia - 2020) O XP possui planejamento
 incremental com
 requisitos registrados em histórias.
 
-Item. 8. (CESPE ITCE-RO - 2019) No que diz respeito a processos e práticas ágeis, o
+8. (CESPE ITCE-RO - 2019) No que diz respeito a processos e práticas ágeis, o
 desenvolvimento
 incremental
 a) é, assim como otest-driven development, uma prática da XP (Extreme Programming)
@@ -4216,13 +4130,13 @@ de software,
 incompatível com a XP (E xtreme Programming) e o Scrum, que permite aos desenvolvedores
 agregarem alterações de código e realizarem testes.
 
-Item. 9. (CESPE / TJ-AM - 2019) No XP (Extreme Programming), o valor de uma história de
+9. (CESPE / TJ-AM - 2019) No XP (Extreme Programming), o valor de uma história de
 usuário é
 atribuído pelos membros da equipe e é medido em termos de semanas estimadas
 para o
 desenvolvimento.
 
-Item. 10. (CESPE / ABIN - 2018) Na extreme programming, como não há especificação de
+10. (CESPE / ABIN - 2018) Na extreme programming, como não há especificação de
 sistema que
 possa ser usada por equipe de teste externa, a característica de test-first
 exige que os
@@ -4230,27 +4144,27 @@ implementadores de tarefa compreendam detalhadamente a especificação de
 comportamento
 da funcionalidade em desenvolvimento, a fim de que possam escrever o teste para o sistema.
 
-Item. 11. (CESPE/BNB-2018) Em XP, a técnica de planning game é utilizada pelo cliente para
+11. (CESPE/BNB-2018) Em XP, a técnica de planning game é utilizada pelo cliente para
 identificar
 as prioridades do que deve ser construído em um software, sem a
 participação dos
 desenvolvedores.
 
-Item. 12. (CESPE / ABIN - 2018) O ritmo ágil de desenvolvimento de softwares é uma prática
+12. (CESPE / ABIN - 2018) O ritmo ágil de desenvolvimento de softwares é uma prática
 usada para
 favorecer a entrega das releases quando grandes volumes de horas extras são tolerados.
 
-Item. 13. (CESPE / ABIN - 2018) Para apoiar a equipe de desenvolvimento, é uma prática o
+13. (CESPE / ABIN - 2018) Para apoiar a equipe de desenvolvimento, é uma prática o
 uso do
 cliente on-site em tempo integral.
 
-Item. 14. (CESPE / STM - 2018) Na XP (Extreme Programming), programadores trabalham em
+14. (CESPE / STM - 2018) Na XP (Extreme Programming), programadores trabalham em
 pares, e
 requisitos são expressos como cenários, denominados histórias de usuários, os
 quais são
 implementados como uma série de tarefas.
 
-Item. 15. (CESPE / TRT - 7a Região (CE) - 2017) Acerca de metodologia XP, assinale a opção correta.
+15. (CESPE / TRT - 7a Região (CE) - 2017) Acerca de metodologia XP, assinale a opção correta.
 
 a) Para atingir a agilidade necessária, a equipe de desenvolvimento deve ser
 composta de
@@ -4266,7 +4180,6 @@ formal dos requisitos.
 d) Em XP, denomina-se explanação o processo por meio do qual uma pessoa tenta
 explicar um
 assunto fazendo comparações com o mundo real.
-
 
 i6.(CESPE / TRE-BA - 2017) Considerando uma situação hipotética com o uso da XP
 (eXtreme
@@ -4302,7 +4215,7 @@ d) I, III e IV.
 
 e) II, III e IV
 
-Item. 17. (CESPE / TRE-TO - 2017) Em projetos de desenvolvimento de software, a
+17. (CESPE / TRE-TO - 2017) Em projetos de desenvolvimento de software, a
 extreme
 programming (XP) é um método ágil que usa a prática de:
 
@@ -4316,7 +4229,7 @@ d) trabalho em pares de desenvolvedores.
 
 e) integrações após a entrega do software completo.
 
-Item. 18. (CESPE/ FUNPRESP-JUD-2016) Uma característica da metodologia XP é a existência de
+18. (CESPE/ FUNPRESP-JUD-2016) Uma característica da metodologia XP é a existência de
 uma
 equipe técnica voltada para a agilidade e velocidade do desenvolvimento do software, de
 forma
@@ -4333,16 +4246,15 @@ estimados prazos na perspectiva dos usuários ou clientes do sistema.
 20.(CESPE / FUNPRESP-JUD-2016) A programação em pares, em que os desenvolvedores atuam
 avaliando entre si o trabalho do outro, é uma prática da metodologia XP.
 
-
-Item. 21. (CESPE / FUNPRESP-JUD - 2016) As práticas da extreme programming, que tem por
+21. (CESPE / FUNPRESP-JUD - 2016) As práticas da extreme programming, que tem por
 princípio
 liberar grandes releases de software, visam agregar valor ao negócio.
 
-Item. 22. (CESPE/TRT-PR-2016) Um projeto desenvolvido mediante XP (Extreme Programming)
+22. (CESPE/TRT-PR-2016) Um projeto desenvolvido mediante XP (Extreme Programming)
 segue
 princípios opostos aos de um projeto implementado com base em KIS (Keep lt Simple).
 
-Item. 23. (CESPE / TRE-RS- 2015) Tendo em vista que, em um processo ágil de
+23. (CESPE / TRE-RS- 2015) Tendo em vista que, em um processo ágil de
 desenvolvimento
 de software, foi adotado o XP (eXtreme Programming) e que os requisitos levantados
 foram
@@ -4368,17 +4280,17 @@ e) Como um professor, eu preciso de releases semanais de funcionalidades, mesmo 
 elas
 possam ser refatoradas posteriormente.
 
-Item. 24. (CESPE / TJDFT - 2015) Na metodologia XP (extreme programming), em que
+24. (CESPE / TJDFT - 2015) Na metodologia XP (extreme programming), em que
 todos os
 requisitos são expressos como cenários, deve-se aguardar, após a conclusão das tarefas,
 ciclos
 de cento e oitenta dias para a publicação de grandes releases do software.
 
-Item. 25. (CESPE / TJDFT - 2015) As características da metodologia XP incluem o
+25. (CESPE / TJDFT - 2015) As características da metodologia XP incluem o
 desenvolvimento
 interativo, que dispõe de um processo de testes informais.
 
-Item. 26. (CESPE / TRE-RS - 2015) Em um desenvolvimento ágil de sistemas utilizando o XP,
+26. (CESPE / TRE-RS - 2015) Em um desenvolvimento ágil de sistemas utilizando o XP,
 foram
 adotadas as seguintes ações: foi dita a verdade ao cliente acerca do progresso do
 projeto e
@@ -4398,12 +4310,11 @@ d) feedback.
 
 e) respeito.
 
-Item. 27. (CESPE / TRE-RS - 2015) Assinale a opção que apresenta uma característica
+27. (CESPE / TRE-RS - 2015) Assinale a opção que apresenta uma característica
 relacionada a
 projetos que utilizam o método XP (eXtreme Programming), muito utilizado em projetos
 para
 o desenvolvimento de softwares.
-
 
 a) grandes releases
 b) programação individual
@@ -4411,25 +4322,25 @@ c) cliente off-site
 d) grandes volumes de horas extras
 e) planejamento incremental
 
-Item. 28. (CESPE / STJ- 2015) Na Extreme Programming, a programação em pares cria
+28. (CESPE / STJ- 2015) Na Extreme Programming, a programação em pares cria
 ilhas de
 especialistas na equipe por meio da análise simultânea de duas pessoas no
 desenvolvimento
 do software.
 
-Item. 29. (CESPE / FUB - 2015) Práticas de desenvolvimento de software aos pares de
+29. (CESPE / FUB - 2015) Práticas de desenvolvimento de software aos pares de
 programadores,
 em que um programador verifica o trabalho do outro, são uma característica do método
 de
 desenvolvimento XP.
 
-Item. 30. (CESPE/FUB-2oi5) É considerada como ritmo sustentável a carga horária de trabalho
+30. (CESPE/FUB-2oi5) É considerada como ritmo sustentável a carga horária de trabalho
 extensa
 para gerar rapidamente entregas de produtos de software, o que provoca grande
 quantidade de
 horas extras.
 
-Item. 31. (CESPE / ANTT - 2013) São práticas ou princípios recomendados
+31. (CESPE / ANTT - 2013) São práticas ou princípios recomendados
 no modelo de
 desenvolvimento de software XP (eXtreme Programming) proposto por
 Kent Beck:
@@ -4439,13 +4350,13 @@ desenvolvimento orientado a testes TDD (Test Driven Development); e
 desenvolvimento de
 metáforas arquiteturais.
 
-Item. 32. (CESPE / STF - 2013) XP (Extreme Programming) é uma metodologia ágil voltada para
+32. (CESPE / STF - 2013) XP (Extreme Programming) é uma metodologia ágil voltada para
 equipes
 pequenas e médias que desenvolvam software baseado em requisitos vagos e se caracteriza
 por
 possibilitar modificações rápidas.
 
-Item. 33. (CESPE/TCE-RO-2013) No método XP (eXtreming programming), os sistemas são concebidos
+33. (CESPE/TCE-RO-2013) No método XP (eXtreming programming), os sistemas são concebidos
 a partir de uma metáfora e descritos em estórias do usuário. Esse método busca
 facilitar a
 comunicação com o cliente, entendendo a realidade deste e guiando o desenvolvimento com
@@ -4458,7 +4369,7 @@ são especificados em user stories; requisitos, arquitetura e design surgem dura
 curso do
 projeto; e o desenvolvimento ocorre de maneira incremental.
 
-Item. 35. (CESPE / MPE-PI - 2012) O XP (Extreme Programming) é um método ágil, que
+35. (CESPE / MPE-PI - 2012) O XP (Extreme Programming) é um método ágil, que
 preconiza a
 criação de um caso de teste unitário antes do início da codificação.
 
@@ -4467,7 +4378,6 @@ como extreme
 programming, todos os requisitos funcionais são expressos como cenários (histórias do
 usuário)
 que são implementados diretamente como uma série de tarefas.
-
 
 37-(CESPE / ANAC - 2012) A técnica conhecida como refactoring é constantemente aplicada
 no
@@ -4481,7 +4391,7 @@ programadores trabalham, obrigatoriamente, em pares, utilizando cada um o
 próprio
 computador.
 
-Item. 39. (CESPE / ANAC - 2012) Na metodologia ágil XP (extreme programming), as metáforas
+39. (CESPE / ANAC - 2012) Na metodologia ágil XP (extreme programming), as metáforas
 são
 formas de transmitir ideias complexas de maneira simples, ou seja, utiliza-se uma
 linguagem
@@ -4491,30 +4401,30 @@ em projetos, tais como tempo, custo, qualidade e escopo, obtenha-se maiorfoco no
 em
 detrimento do planejamento do release.
 
-Item. 40. (CESPE / EBC - 2011) O XP segue um conjunto de valores, princípios e regras básicas que visam
+40. (CESPE / EBC - 2011) O XP segue um conjunto de valores, princípios e regras básicas que visam
 alcançar eficiência e efetividade no processo de desenvolvimento de software. Os valores
 são
 cinco: comunicação, simplicidade, feedback, coragem e respeito.
 
-Item. 41. (CESPE / STM - 2011) O Extreme Programming (XP), que se inclui entre os métodos
+41. (CESPE / STM - 2011) O Extreme Programming (XP), que se inclui entre os métodos
 ágeis,
 apresenta, entre outras, as seguintes características: pequenos releases, projeto
 simples,
 refactoring, programação em pares e propriedade coletiva.
 
-Item. 42. (CESPE / TRE-BA - 2010) Em XP, a prática denominada programação em
+42. (CESPE / TRE-BA - 2010) Em XP, a prática denominada programação em
 pares (pair
 programming) é realizada por um desenvolvedor em dois computadores, com o
 objetivo de
 aumentara produtividade.
 
-Item. 43. (CESPE / ABIN - 2010) Na Extreme Programming, os requisitos são expressos como
+43. (CESPE / ABIN - 2010) Na Extreme Programming, os requisitos são expressos como
 cenários e
 implementados diretamente como uma série de tarefas. O representante do cliente faz
 parte
 do desenvolvimento e é responsável pela definição de testes de aceitação do sistema.
 
-Item. 44. (CESPE / MPU - 2010) Extreme programming (XP) é embasado em requisitos
+44. (CESPE / MPU - 2010) Extreme programming (XP) é embasado em requisitos
 conhecidos,
 definidos de antemão, que não sofram muitas alterações, devendo ser usado por equipes
 de
@@ -4528,7 +4438,7 @@ comunicação, simplicidade, feedback e coragem.
 realização das
 atividades de planejamento, de projeto, de codificação e de teste.
 
-Item. 47. (CESPE/SECONT-ES-2009) Métodos ágeis de desenvolvimento de sistemas foram
+47. (CESPE/SECONT-ES-2009) Métodos ágeis de desenvolvimento de sistemas foram
 propostos
 principalmente para apoiar o desenvolvimento de aplicações de negócios nas quais os
 requisitos
@@ -4539,29 +4449,29 @@ incremental, a definição de um ritmo de trabalho sustentável e a divisão das
 de trabalho
 por meio da especialização de seus membros.
 
-Item. 48. (CESPE / IPEA - 2009) A extreme programming (XP) é um método de desenvolvimento
+48. (CESPE / IPEA - 2009) A extreme programming (XP) é um método de desenvolvimento
 ágil.
 Nele, os requisitos são expressos como cenários implementados diretamente como uma série
 de tarefas.
 
-Item. 49. (CESPE / TRE-MG - 2009) Extreme programming é um método centrado no
+49. (CESPE / TRE-MG - 2009) Extreme programming é um método centrado no
 usuário, na
 produtividade do desenvolvimento e na documentação de apoio.
 
-Item. 50. (CESPE / TRE-BA - 2009) A metodologia XP prevê valores e princípios básicos para
+50. (CESPE / TRE-BA - 2009) A metodologia XP prevê valores e princípios básicos para
 serem
 considerados durante o desenvolvimento de software. Feedback, coragem e respeito
 são
 exemplos de valores; mudanças incrementais, abraçar mudanças e trabalho de qualidade são
 exemplos de princípios básicos.
 
-Item. 51. (CESPE / ANAC - 2009) Extreme Programming é um modelo de processo de
+51. (CESPE / ANAC - 2009) Extreme Programming é um modelo de processo de
 desenvolvimento
 de software para equipes com grande número de pessoas, que desenvolvem software com
 base
 em requisitos vagos e que são modificados rapidamente.
 
-Item. 52. (CESPE / ANTAQ - 2009) O extreme programming (XP) constitui
+52. (CESPE / ANTAQ - 2009) O extreme programming (XP) constitui
 método ágil de
 desenvolvimento de software. Uma das práticas que se enquadram nos princípios dos
 métodos
@@ -4570,7 +4480,7 @@ sistema. Além dessa vantagem, a programação em pares atua como processo
 informal de
 revisão porque cada linha de código é vista por pelo menos duas pessoas.
 
-Item. 53. (CESPE / PRODEST - 2008) Projetar detalhadamente todo o software antes de iniciar
+53. (CESPE / PRODEST - 2008) Projetar detalhadamente todo o software antes de iniciar
 a sua
 implementação é uma prática recomendada pelo XP. O software deve ser
 projetado para
@@ -4580,7 +4490,7 @@ objetivo, são analisados os possíveis cenários de evolução futura e são em
 padrões de
 projeto para facilitar a manutenção.
 
-Item. 54. (CESPE / PRODEST - 2008) Constituem práticas recomendadas pelo XP a colocação
+54. (CESPE / PRODEST - 2008) Constituem práticas recomendadas pelo XP a colocação
 rápida de
 uma versão simples em produção, a liberação das novas versões em curtos intervalos de
 tempo,
@@ -4590,7 +4500,7 @@ para a codificação; a integração e o teste contínuos de códigos; a limita�
 horas da carga
 de trabalho semanal.
 
-Item. 55. (CESPE / PRODEST - 2008) O XP é um processo que visa a um desenvolvimento ágil
+55. (CESPE / PRODEST - 2008) O XP é um processo que visa a um desenvolvimento ágil
 e portanto
 não recomenda os testes de unidade, pois eles consomem muitos recursos.
 Durante o
@@ -4599,44 +4509,43 @@ detalhes de
 funcionamento. O smoke test é realizado após as unidades serem integradas. Após o smoke
 test, é realizado o teste de sistema.
 
-
 GABARITo
 
-Item. 1. CORRETO 20. CORRETO
+1. CORRETO 20. CORRETO
 39- ERRADO
 
-Item. 2. CORRETO 21. ERRADO
-Item. 40. CORRETO
+2. CORRETO 21. ERRADO
+40. CORRETO
 
 3- ERRADO 22. ERRADO
-Item. 41. CORRETO
+41. CORRETO
 
 4- ERRADO 23- LETRA A
-Item. 42. ERRADO
+42. ERRADO
 
 5- CORRETO 24. ERRADO
 43- CORRETO
 
-Item. 6. ERRADO 25- CORRETO
-Item. 44. ERRADO
+6. ERRADO 25- CORRETO
+44. ERRADO
 
 7- CORRETO 26. LETRA C
 45- CORRETO
 
-Item. 8. LETRA B 27- LETRA E
-Item. 46. CORRETO
+8. LETRA B 27- LETRA E
+46. CORRETO
 
 9- ERRADO 28. ERRADO
 47- ERRADO
 
-Item. 10. CORRETO 29. CORRETO
-Item. 48. CORRETO
+10. CORRETO 29. CORRETO
+48. CORRETO
 
 li. ERRADO 30. ERRADO
 49- ERRADO
 
-Item. 12. ERRADO 31- CORRETO
-Item. 50. CORRETO
+12. ERRADO 31- CORRETO
+50. CORRETO
 
 13- CORRETO 32. CORRETO 51-
 ERRADO
@@ -4655,8 +4564,7 @@ i6. LETRA B 35- CORRETO
 
 i8. ERRADO 37- CORRETO
 
-Item. 19. CORRETO 38. ERRADO
-
+19. CORRETO 38. ERRADO
 
 í. (FCC /SANASA Campinas -2019) Em um projeto de software baseado na metodologia ágilXP,
 um Analista de TI deve
@@ -4684,7 +4592,7 @@ e) estimular o uso de cartões CRC como um mecanismo eficaz para pensar o softwa
 um
 contexto orientado a objetos.
 
-Item. 2. (FCC / DPE-AM - 2018) Considere a definição de algumas práticas da eXtreme Programming -
+2. (FCC / DPE-AM - 2018) Considere a definição de algumas práticas da eXtreme Programming -
 XP.
 
 I. Todo o código desenvolvido pelo time é incorporado em um repositório comum várias
@@ -4715,7 +4623,6 @@ As práticas de I a IV são, correta e respectivamente,
 
 0 0
 
-
 a) pair programming -test-driven development-system metaphor-continuous integration.
 
 b) planning game - pair programming -system simplicity- continuous integration.
@@ -4726,7 +4633,7 @@ d) continuous integration - pair programming -feedback- planning game.
 
 e) continuous integration -collective code ownership -system metaphor- refactoring.
 
-Item. 3. (FCC /TST-2017) Uma dupla de programadores, utilizando o modelo Extreme Programming
+3. (FCC /TST-2017) Uma dupla de programadores, utilizando o modelo Extreme Programming
 -
 XP, realiza, na fase de:
 
@@ -4740,7 +4647,7 @@ d) validação do sistema, a integração total dos incrementos das user stories
 
 e) projeto da arquitetura do sistema, a implementação das user stories totais do sistema.
 
-Item. 4. (FCC / DPE-RS - 2017) Considere que um Analista esteja participando de um
+4. (FCC / DPE-RS - 2017) Considere que um Analista esteja participando de um
 projeto que utiliza
 as melhores práticas da Extreme Programming - XP. No início de uma iteração a equipe
 de
@@ -4774,14 +4681,13 @@ e) Planning Game e busca assegurar que a equipe esteja sempre trabalhando no que
 mais
 importante e gere mais valor para o cliente.
 
-Item. 5. (FCC / CREMESP - 2016) Considere que nos projetos do CREMESP baseados em XP
+5. (FCC / CREMESP - 2016) Considere que nos projetos do CREMESP baseados em XP
 pratica-se
 a propriedade coletiva de código, de forma que todos os desenvolvedores podem
 fazer
 alterações e refatoração de qualquer parte do código a qualquer momento. Para
 isso, é
 necessário que também haja:
-
 
 a) padrões de codificação.
 
@@ -4793,7 +4699,7 @@ d) releases grandes.
 
 e) integração das funcionalidades, mesmo com erros.
 
-Item. 6. (FCC/ Prefeitura de Teresina - PI - 2016) Os métodos ágeis
+6. (FCC/ Prefeitura de Teresina - PI - 2016) Os métodos ágeis
 de desenvolvimento
 de software como eXtreme Programming - XP consideram um conjunto de
 valores
@@ -4809,7 +4715,7 @@ d) a resposta rápida a mudanças, do que seguir um plano previamente definido.
 
 e) a rigorosidade dos processos, do que a adaptação às mudanças.
 
-Item. 7. (FCC / TRE-PB- 2015) Extreme Programming - XP pode ser considerado um
+7. (FCC / TRE-PB- 2015) Extreme Programming - XP pode ser considerado um
 modelo de
 desenvolvimento de software baseado em uma série de valores, princípios e regras, dentre eles,
 
@@ -4823,7 +4729,7 @@ d) escrever sempre o código, depois, o teste de unidade.
 
 e) realizar semanalmente o jogo do planejamento (planning game).
 
-Item. 8. (FCC / TST - 2012) O XP (Extreme Programming) utiliza uma abordagem orientada a
+8. (FCC / TST - 2012) O XP (Extreme Programming) utiliza uma abordagem orientada a
 objetos
 como seu paradigma de desenvolvimento predileto. Ele:
 
@@ -4844,7 +4750,6 @@ projeto for feito, a equipe XP avance diretamente para o código.
 e) inclui um conjunto de regras e práticas que ocorrem no contexto de 3 atividades
 de arcabouço:
 projeto, implementação e entrega.
-
 
 g. (FCC / MPE-AP - 2012) O Extreme Programming (XP) é, talvez, o mais conhecido e
 mais
@@ -4907,7 +4812,6 @@ são divididas em ciclos, geralmente compreendidos no período de 1 a 4 semanas.
 ciclos
 denominam-se, respectivamente,
 
-
 a) iterações e sprint.
 
 b) reunião de planejamento e backlog.
@@ -4918,7 +4822,7 @@ d) backlog e planejamento da produção.
 
 e) entrega e retrospectiva.
 
-Item. 12. (FCC / TRT-MT - 2011) NÃO se aplica à disciplina de desenvolvimento de software
+12. (FCC / TRT-MT - 2011) NÃO se aplica à disciplina de desenvolvimento de software
 extreme
 programming (XP):
 
@@ -4935,7 +4839,7 @@ d) Baseada em valores de simplicidade, comunicação, feedback e coragem.
 
 e) Adota como um elemento-chave a criação de testes unitários antes da codificação começar.
 
-Item. 13. (FCC / TRE-RN - 2011) Considere as seguintes características:
+13. (FCC / TRE-RN - 2011) Considere as seguintes características:
 
 I. Propriedade coletiva.
 
@@ -4971,12 +4875,11 @@ b) Sustainable Pace (Ritmo Sustentável).
 
 c) Pair Programming (Programação em Pares).
 
-
 d) Collective Ownership (Posse Coletiva).
 
 e) Coding Standards (Padrões de Codificação).
 
-Item. 15. (FCC / TRE-RN - 2011) Assegurar que a equipe se concentre em fazer, primeiro,
+15. (FCC / TRE-RN - 2011) Assegurar que a equipe se concentre em fazer, primeiro,
 apenas aquilo
 que é claramente necessário e evite fazer o que poderia vir a ser necessário, mas
 ainda não se
@@ -4993,7 +4896,7 @@ d) simplicidade.
 
 e) feedback.
 
-Item. 16. (FCC / TRE-RS - 2010) No eXtreme Programming, XP:
+16. (FCC / TRE-RS - 2010) No eXtreme Programming, XP:
 
 a) o código é integrado e testado depois de alguns dias e, no máximo, até o final da semana.
 
@@ -5081,49 +4984,47 @@ e) deve-se projetar todas as funções possíveis com a máxima previsão do que
 no futuro,
 antes do desenvolvimento do software, a fim de evitar alterações desnecessárias.
 
-
 GABARITo
 
-Item. 1. LETRA E
+1. LETRA E
 
-Item. 2. LETRA E
+2. LETRA E
 
-Item. 3. LETRA A
+3. LETRA A
 
-Item. 4. LETRA E
+4. LETRA E
 
-Item. 5. LETRA A
+5. LETRA A
 
-Item. 6. LETRA E
+6. LETRA E
 
-Item. 7. LETRA E
+7. LETRA E
 
-Item. 8. LETRA A
+8. LETRA A
 
-Item. 9. LETRA E
+9. LETRA E
 
-Item. 10. LETRA C
+10. LETRA C
 
-Item. 11. LETRA A
+11. LETRA A
 
-Item. 12. LETRA A
+12. LETRA A
 
-Item. 13. LETRA E
+13. LETRA E
 
-Item. 14. LETRA D
+14. LETRA D
 
-Item. 15. LETRA D
+15. LETRA D
 
-Item. 16. LETRA E
+16. LETRA E
 
-Item. 17. LETRA C
+17. LETRA C
 
-Item. 18. LETRA C
+18. LETRA C
 
-Item. 19. LETRA B
+19. LETRA B
 
-Item. 20. LETRA B
-
+20. LETRA B
 
 LISTA DE QUESTõES - FCV
 
@@ -5154,7 +5055,7 @@ d) V-F-V.
 
 e) V-F-F.
 
-Item. 2. (FGV / Prefeitura de Paulínia - SP- 2016) A empresa de
+2. (FGV / Prefeitura de Paulínia - SP- 2016) A empresa de
 desenvolvimento de
 sistemas "Inovation" tem ampla experiência no mercado e, até o momento,
 utilizou diversos
@@ -5184,7 +5085,7 @@ d) Incremental.
 
 e) Espiral.
 
-Item. 3. (FGV / Câmara Municipal do Recife-PE - 2014) Uma das práticas do método ágil XP
+3. (FGV / Câmara Municipal do Recife-PE - 2014) Uma das práticas do método ágil XP
 (eXtreme
 Programming) é:
 
@@ -5192,19 +5093,16 @@ a) documentação extensiva;
 
 b) prototipação;
 
-
 c) ciclos longos de desenvolvimento;
 
 d) desenvolvimento orientado a testes (TDD);
 
 e) utilização de todos os artefatos do RUP.
 
-
 GABARITo
 
-Item. 1. LETRA B 2. LETRA A
-Item. 3. LETRA D
-
+1. LETRA B 2. LETRA A
+3. LETRA D
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
@@ -5228,7 +5126,7 @@ d) o código fonte de cada página pertence a um membro da equipe. Qualquer alte
 a ser
 realizada precisa ser informada ao respectivo membro.
 
-Item. 2. (IBFC /TRE-PA -2020) Para aplicar valores e princípios doXP (Extreme Programming),
+2. (IBFC /TRE-PA -2020) Para aplicar valores e princípios doXP (Extreme Programming),
 durante
 os processos e práticas ágeis de desenvolvimento de software, se propõe uma série
 específica
@@ -5241,7 +5139,7 @@ b) Refactoring - Pair Programming - Planning Game
 c) Reformation - Pair Production - Planning Game
 d) Refactoring - Pair Production - PlayStation Game
 
-Item. 3. (UFCG/ UFCG- 2019) Marque a alternativa INCORRETA com relação a
+3. (UFCG/ UFCG- 2019) Marque a alternativa INCORRETA com relação a
 Extreme
 Programming (XP).
 
@@ -5259,7 +5157,7 @@ e) O autor, Don Wells, exige que o processo seja seguido à risca, de forma que 
 devem ser respeitadas e, nenhum projeto pode ser realizado sem adaptações e/ou remoção
 dessas regras.
 
-Item. 4. (IDECAN / UNIVASF - 2019) Extreme Programming (XP), em sua essência, possui um
+4. (IDECAN / UNIVASF - 2019) Extreme Programming (XP), em sua essência, possui um
 conjunto
 de regras que devem serseguidas em projetos ágeis que queiram utilizá-la em sua
 completude.
@@ -5268,7 +5166,6 @@ Sobre as regras do XP, assinale a alternativa correta.
 a) Apenas as operações mais críticas devem possuirtestes unitários.
 
 b) Todo o código-fonte de produção deve ser implementado em programação em pares.
-
 
 c) A integração de código deve ser feita nos computadores dos desenvolvedores.
 
@@ -5280,7 +5177,7 @@ e) A velocidade do projeto deve ser medida com o objetivo de informar ao cliente
 tempo médio
 de correção de falhas.
 
-Item. 5. (CESGRANRIO / UNIRIO - 2019) Uma das principais práticas de XP (Extreme
+5. (CESGRANRIO / UNIRIO - 2019) Uma das principais práticas de XP (Extreme
 Programming) é
 o Iteration Planning Game. Entre as atividades realizadas em uma sessão de Iteration
 Planning,
@@ -5302,7 +5199,7 @@ e) designação, por parte do coach, dos programadores que irão realizar as tar
 contidas na
 lista de tarefas.
 
-Item. 6. (INSTITUTO AOCP/ UFPB - 2019) Um dos principais métodos ágeis de desenvolvimento
+6. (INSTITUTO AOCP/ UFPB - 2019) Um dos principais métodos ágeis de desenvolvimento
 de
 software foi concebido para impulsionar práticas reconhecidas como boas, por
 exemplo, o
@@ -5324,7 +5221,7 @@ d) Pramatic Programming.
 
 e) Test Driven Development.
 
-Item. 7. (FCM/ Prefeitura de Caranaíba - MG - 2019) De acordo com Pressman e Maxim
+7. (FCM/ Prefeitura de Caranaíba - MG - 2019) De acordo com Pressman e Maxim
 (2016), a
 Programação Extrema (Extreme Programming - XP) é uma abordagem amplamente
 utilizada
@@ -5342,8 +5239,7 @@ d) Colaboração (Collaboration) / Projeto (Designing) / Codificação (Coding) 
 Teste (Test) /
 Adaptação (Adaptation) / Melhoria (Improvement).
 
-
-Item. 8. (VUNESP / Câmara de Piracicaba - SP - 2019) Um dos processos ágeis de
+8. (VUNESP / Câmara de Piracicaba - SP - 2019) Um dos processos ágeis de
 desenvolvimento
 de software é a programação extrema (extreme programming - XP), cuja fase
 ou atividade
@@ -5361,7 +5257,7 @@ d) classes de projeto.
 
 e) artefatos de usuário
 
-Item. 9. (INSTITUTO AOCP / ADAF - AM - 2018) Na metodologia ágil Extreme Programming
+9. (INSTITUTO AOCP / ADAF - AM - 2018) Na metodologia ágil Extreme Programming
 (XP), a
 propriedade do código é coletiva, dessa forma, todos compartilham o mesmo
 orgulho e as
@@ -5379,7 +5275,7 @@ d) No Outsourcing.
 
 e) No Sprint.
 
-Item. 10. (AOCP/ SUSIPE-PA- 2018) Sobre as práticas do XP (Extreme Programming),
+10. (AOCP/ SUSIPE-PA- 2018) Sobre as práticas do XP (Extreme Programming),
 assinale a
 alternativa INCORRETA.
 
@@ -5397,7 +5293,7 @@ e) O XP utiliza-se de programação em par para permitir que o código
 seja revisado
 permanentemente enquanto é desenvolvido.
 
-Item. 11. (COMPERVE / UFRN - 2018) Programação Extrema (XP - Extreme Programming) é uma das
+11. (COMPERVE / UFRN - 2018) Programação Extrema (XP - Extreme Programming) é uma das
 principais metodologias ágeis já propostas. A respeito de XP, considere as afirmativas abaixo.
 
 I XP promove a execução de testes automatizados de avaliação do desempenho a cada
@@ -5414,7 +5310,6 @@ IV A prática de refatoração do XP envolve a modificação interna do código 
 do sistema,
 mas sem modificar seu comportamento externo (interfaces dos métodos).
 
-
 Estão corretas as afirmativas
 a) III e IV.
 
@@ -5424,7 +5319,7 @@ c) I e III.
 
 d) lie IV.
 
-Item. 12. (COMPERVE / UFRN - 2018) Programação Extrema (XP - Extreme Programming) é uma das
+12. (COMPERVE / UFRN - 2018) Programação Extrema (XP - Extreme Programming) é uma das
 principais metodologias ágeis já propostas. Considere as seguintes afirmativas a
 respeito de
 suas práticas.
@@ -5450,7 +5345,7 @@ c) I e III.
 
 d) lie III.
 
-Item. 13. (IF-RS / IF-RS - 2018) Sobre as práticas encontradas na metodologia ágil de
+13. (IF-RS / IF-RS - 2018) Sobre as práticas encontradas na metodologia ágil de
 desenvolvimento
 de software, conhecida por Programação Extrema (XP Programming), de acordo com Dooley
 (2017) no livro Software Development, Design and Coding, classifique cada uma das
@@ -5477,12 +5372,11 @@ b) V-F-F-V
 
 c) V-V-F-V
 
-
 d) V-V-V-V
 
 e) F-F-V-V
 
-Item. 14. (IADES/ ARCON-PA- 2018) Um dos métodos de desenvolvimento de
+14. (IADES/ ARCON-PA- 2018) Um dos métodos de desenvolvimento de
 software mais
 conhecido e utilizado é o extreme programming (XP). Esse consiste em um modelo:
 
@@ -5498,7 +5392,7 @@ e) no qual não se faz necessária a disponibilidade de um representante do clie
 todo o
 tempo.
 
-Item. 15. (FAURGS / TJ-RS - 2018) Considere as seguintes afirmações sobre princípios ou
+15. (FAURGS / TJ-RS - 2018) Considere as seguintes afirmações sobre princípios ou
 práticas da XP
 (Extreme Programming).
 
@@ -5537,7 +5431,6 @@ Extreme Programming (XP) que usa uma abordagem orientada a objetos, incluindo
 um
 conjunto de regras e práticas que ocorrem ao longo do desenvolvimento do projeto.
 
-
 As fases I, II, III e IV são denominadas respectivamente:
 
 a) modelagem, construção, implantação e homologação.
@@ -5550,7 +5443,7 @@ d) planejamento, projeto, codificação e teste.
 
 e) modelagem, projeto, codificação e homologação.
 
-Item. 17. (INSTITUTO AOCP / PRODEB - 2018) O método de desenvolvimento ágil denominado de XP
+17. (INSTITUTO AOCP / PRODEB - 2018) O método de desenvolvimento ágil denominado de XP
 (Extreme Programming) tem sua estrutura baseada em algumas prerrogativas, dentre as
 quais,
 é correto citar como princípios do XP:
@@ -5567,7 +5460,7 @@ d) Princípio da Agilidade, Princípio da Qualidade, Princípio do Feedback e Pr
 
 e) Princípio da Simplicidade, Princípio do Desenvolvimento e Princípio de Governança.
 
-Item. 18. (INSTITUTO AOCP / PRODEB - 2018) O Pair Programming (Programação em Pares) é uma
+18. (INSTITUTO AOCP / PRODEB - 2018) O Pair Programming (Programação em Pares) é uma
 característica de um determinado método de desenvolvimento de software em que
 dois
 programadores trabalham juntos no desenvolvimento de um código. Qual foi o
@@ -5584,12 +5477,11 @@ d) FDD.
 
 e) Cascata.
 
-
 ig.(INSTITUTO AOCP / UFOB- 2018) Uma das práticas do Extreme Programming é
 o uso do
 código coletivo, na qual todos os desenvolvedores têm acesso ao código.
 
-Item. 20. (IBADE / IPM - JP-2018) Metodologias ágeis podem ser aplicadas para facilitar a
+20. (IBADE / IPM - JP-2018) Metodologias ágeis podem ser aplicadas para facilitar a
 adaptação do
 processo de desenvolvimento de software a mudanças. Trata-se de uma abordagem
 de
@@ -5605,7 +5497,7 @@ d) modelagem direta.
 
 e) programação extrema.
 
-Item. 21. (INSTITUTO AOCP/ PRODEB - 2018) Extreming Programming (XP) é um método
+21. (INSTITUTO AOCP/ PRODEB - 2018) Extreming Programming (XP) é um método
 de
 desenvolvimento ágil amplamente utilizado pelas software houses. Com base neste
 método,
@@ -5621,7 +5513,7 @@ d) Sustainable Pace (Ritmo Saudável).
 
 e) Collective Owership (Posse Coletiva).
 
-Item. 22. (IBFC / TJ-PE - 2017) Está sendo implementado o XP (eXtreme Programming) em uma
+22. (IBFC / TJ-PE - 2017) Está sendo implementado o XP (eXtreme Programming) em uma
 equipe
 de TI. Para tanto, está sendo colocada a seguinte série de práticas específicas da
 metodologia
@@ -5644,9 +5536,8 @@ c) II, III e IV, apenas
 d) I, III e IV, apenas
 e) 1,11, III e IV
 
-Item. 23. (UFG / SANEAGO-2017) Dentro doframework Extreme Programming (XP), uma metodologia
+23. (UFG / SANEAGO-2017) Dentro doframework Extreme Programming (XP), uma metodologia
 ágil, a ação de teste de código é responsabilidade da pessoa:
-
 
 a) diretamente ligada à criação do artefato em questão.
 
@@ -5668,7 +5559,7 @@ c) os CustomerTests
 d) as User Stories
 e) um Simple Design
 
-Item. 25. (COPEVE-UFAL / UFAL - 2016) Assinale a alternativa que contém apenas
+25. (COPEVE-UFAL / UFAL - 2016) Assinale a alternativa que contém apenas
 características ou
 práticas relacionadas ao método ágil para desenvolvimento de
 softwares Extreme
@@ -5689,7 +5580,7 @@ e) Toda equipe altera qualquer parte do código, desenvolvimento em cascata e
 programação
 individual.
 
-Item. 26. (IF-PE / IF-PE - 2016) Extreme Programming é uma metodologia ágil para equipes
+26. (IF-PE / IF-PE - 2016) Extreme Programming é uma metodologia ágil para equipes
 pequenas e
 médias que desenvolvem software com requisitos vagos e em constante mudança. Sobre os
 valores do XP, analise as definições abaixo e assinale a alternativa CORRETA.
@@ -5712,8 +5603,7 @@ e) Respeito - prega o respeito à hierarquia, ouvindo e respeitando, apenas, o q
 determinado
 pelo líder de projeto.
 
-Item. 27. (UFCG / UFCG - 2016) Sobre XP (Extreme Programming), marque a assertiva INCORRETA.
-
+27. (UFCG / UFCG - 2016) Sobre XP (Extreme Programming), marque a assertiva INCORRETA.
 
 a) É um processo criado por Kent Beck.
 
@@ -5781,7 +5671,6 @@ desenvolvimento de
 software, a Programação Extrema (eXtreme Programming - XP) propõe uma série de práticas.
 Selecione a única alternativa que NÃO seja uma dessas práticas:
 
-
 a) Time Coeso (Whole Team).
 
 b) Design Complexo (Complex Design).
@@ -5801,15 +5690,15 @@ enquadram nos princípios dos métodos ágeis. Acerca de algumas dessas prática
 relacione
 adequadamente as colunas a seguir.
 
-Item. 1. Releases pequenos.
+1. Releases pequenos.
 
-Item. 2. Refactoring.
+2. Refactoring.
 
-Item. 3. Propriedade coletiva.
+3. Propriedade coletiva.
 
-Item. 4. Integração contínua.
+4. Integração contínua.
 
-Item. 5. Ritmo sustentável.
+5. Ritmo sustentável.
 
 () Os pares de desenvolvedores trabalham em todas as áreas do sistema, de tal maneira
 que não
@@ -5838,7 +5727,7 @@ d) 3,1, 5, 2, 4.
 
 e) 5, 2, 4, 3, i-
 
-Item. 33. (UFPel-CES / UFPEL - 2015) Em projetos nos quais se aplicam o método ágil XP, a fase em que
+33. (UFPel-CES / UFPEL - 2015) Em projetos nos quais se aplicam o método ágil XP, a fase em que
 o propósito é empresa e cliente concordarem em uma data na qual o menor e melhor
 conjunto
 de histórias de usuários deverá ser implementado é a fase de:
@@ -5853,7 +5742,6 @@ d) produção.
 
 e) manutenção.
 
-
 34-(CS-UFG/ AL-GO- 2015) Extreme Programming (XP) é um exemplo de método ágil que foi
 definido por Kent Beck. O XP inclui uma abordagem de teste que:
 
@@ -5863,7 +5751,7 @@ b) depende da técnica de teste baseada em defeitos
 c) desenvolve teste incremental baseado em cenários
 d) utiliza processo de teste dirigido a planos.
 
-Item. 35. (CETRO / AMAZUL- 2015) Assinale a alternativa que não apresenta um princípio/ valor da
+35. (CETRO / AMAZUL- 2015) Assinale a alternativa que não apresenta um princípio/ valor da
 metodologia de desenvolvimento de software XP (Extreme Programming):
 
 a) Simplicidade.
@@ -5876,7 +5764,7 @@ d) Coragem.
 
 e) Feedback.
 
-Item. 36. (IESES / TRE-MA - 2015) No desenvolvimento de software em XP, são empregadas algumas
+36. (IESES / TRE-MA - 2015) No desenvolvimento de software em XP, são empregadas algumas
 práticas. Avalie as assertivas abaixo:
 
 I. Programação em pares.
@@ -5897,7 +5785,7 @@ c) 4
 
 d) 3
 
-Item. 37. (FUNCAB / SEFAZ-BA - 2014) São características do Extreme Programming (XP), EXCETO:
+37. (FUNCAB / SEFAZ-BA - 2014) São características do Extreme Programming (XP), EXCETO:
 
 a) apresentar desenvolvimento incremental.
 
@@ -5909,7 +5797,7 @@ d) permitir a integração de usuário com o time de desenvolvimento.
 
 e) suportar testes automáticos contínuos.
 
-Item. 38. (INSTITUTO AOCP/ MPE-BA- 2014) O processo ágil XP possui doze práticas que são os
+38. (INSTITUTO AOCP/ MPE-BA- 2014) O processo ágil XP possui doze práticas que são os
 princípios fundamentais do processo. A prática que encoraja a equipe inteira a trabalhar mais
 unida em busca de qualidade no código fazendo melhorias e refatoramentos em qualquer
 parte
@@ -5925,7 +5813,7 @@ d) padrões de codificação.
 
 e) integração contínua.
 
-Item. 39. (FUNCAB / MDA- 2014) A " Extreme Programming - XP" representa um dos mais
+39. (FUNCAB / MDA- 2014) A " Extreme Programming - XP" representa um dos mais
 conhecidos
 métodos ágeis. Uma das práticas utilizadas na XP é:
 
@@ -5939,7 +5827,7 @@ d) impedir que o cliente interaja com a equipe de desenvolvimento na fase de esp
 
 e) eliminar a necessidade da realização de testes durante a fase de desenvolvimento.
 
-Item. 40. (CESGRANRIO / Banco da Amazônia - 2014) Uma prática que NÃO é adotada por Extreme
+40. (CESGRANRIO / Banco da Amazônia - 2014) Uma prática que NÃO é adotada por Extreme
 Programming (XP) é
 a) usarduas pessoas trabalhando juntas em um único computador para produzirtodo o código
 que será enviado para a produção.
@@ -5967,7 +5855,6 @@ a) evitar o efeito negativo que uma definição de risco, na fase inicial do pro
 causar na
 performance do software como um todo, tendo, como saída, informações não relevantes para
 o processo.
-
 
 b) produzir requisitos bem definidos e completos de forma a abranger todos os
 processos e
@@ -6008,49 +5895,47 @@ d) Planejamento, projeto, documentação e implantação.
 
 e) Governança, planejamento, codificação e teste.
 
-
 GABARITo
 
-Item. 1. LETRA B 15- LETRA E
-Item. 29. LETRA C
+1. LETRA B 15- LETRA E
+29. LETRA C
 
-Item. 2. LETRA B 16. LETRA D
-Item. 30. LETRA D
+2. LETRA B 16. LETRA D
+30. LETRA D
 
 3- LETRA E 17- LETRAC
 3i- LETRA B
 
 4- LETRA B i8. LETRA B
-Item. 32. LETRA D
+32. LETRA D
 
 5- LETRA D 19. CORRETO
 33- LETRA A
 
-Item. 6. LETRAC 20. LETRA E
+6. LETRAC 20. LETRA E
 34- LETRA C
 
 7- LETRA A 21. LETRA C
 35- LETRA B
 
-Item. 8. LETRA B 22. LETRA E
-Item. 36. LETRAC
+8. LETRA B 22. LETRA E
+36. LETRAC
 
 9- LETRA A 23- ANULADA
 37- LETRA B
 
-Item. 10. LETRA D 24. LETRA D
-Item. 38. LETRA A
+10. LETRA D 24. LETRA D
+38. LETRA A
 
 íi. LETRA A 25- LETRA A
 39- LETRA C
 
-Item. 12. LETRA D 26. LETRA A
-Item. 40. LETRA E
+12. LETRA D 26. LETRA A
+40. LETRA E
 
 13- LETRA D 27- LETRA B
-Item. 41. LETRA C
+41. LETRA C
 
 14- LETRA D 28. LETRAC
-Item. 42. LETRA E
-
+42. LETRA E
 

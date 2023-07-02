@@ -1,13 +1,13 @@
-Capítulo. Design de interface e de experiência do usuário.
+# Design de interface e de experiência do usuário.
 
 O design de interface (UI - User Interface) e o design de experiência do usuário (UX - User Experience) são duas áreas essenciais no desenvolvimento de produtos digitais, como sites e aplicativos. Embora estejam relacionados, eles têm focos diferentes:
 
-Item. 1. Design de Interface (UI):
+1. Design de Interface (UI):
 - O design de interface concentra-se na aparência visual e interativa de um produto.
 - Envolve a seleção de cores, tipografia, ícones, elementos gráficos e layout para criar uma interface atraente e visualmente coerente.
 - Tem como objetivo criar uma interface intuitiva e fácil de usar, garantindo que os elementos da interface sejam organizados e dispostos de forma clara para os usuários.
 
-Item. 2. Design de Experiência do Usuário (UX):
+2. Design de Experiência do Usuário (UX):
 - O design de experiência do usuário se preocupa com a experiência geral do usuário ao interagir com o produto.
 - Envolve o entendimento das necessidades, expectativas e comportamentos dos usuários, para criar uma experiência agradável e eficiente.
 - Inclui a definição de fluxos de navegação, arquitetura de informações, prototipagem, testes de usabilidade e iterações para melhorar a usabilidade do produto.

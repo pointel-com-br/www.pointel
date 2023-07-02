@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Arquitetura hexagonal.
-
+# Engenharia de Software e Sistemas - Arquitetura hexagonal.
 
 Índice
 
@@ -28,7 +27,6 @@ Capítulo. Engenharia de Software e Sistemas - Arquitetura hexagonal.
 12) Lista de Questões - Arquitetura de Software - Diversas.
 
 13) Arquitetura Hexagonal
-
 
 Conceitos Básicos
 
@@ -93,7 +91,6 @@ de uma
 rede de clientes e servidores. As propriedades dos componentes são aquelas
 características
 necessárias para o entendimento de como eles interagem com outros componentes.
-
 
 No nível da arquitetura, propriedades internas (por exemplo, detalhes de um algoritmo)
 não são
@@ -166,7 +163,6 @@ Esse assunto é polêmico e já caiu em prova, portanto vocês devem ter atenç�
 acredito que
 isso seja suficiente para posteriormente entender melhor cada arquitetura.
 
-
 (MPOG/ATI - 2015) Embora normalmente os sistemas desenvolvidos se baseiem em
 padrões de arquitetura, cada um deles tem arquitetura totalmente específica, em
 consequência dos seus requisitos.
@@ -176,7 +172,6 @@ em camadas, uma arquitetura
 distribuída, uma arquitetura mainframe ou uma arquitetura orientada a serviços. Embora
 cada sistema tenha uma arquitetura
 baseada em seus requisitos, elas não são t otal mente específicas (Errado).
-
 
 Coesão e Acoplamento
 
@@ -216,7 +211,6 @@ acoplamento:
 
 TIPO DE ACOPLAMENTO | DESCRIÇÃO
 
-
 ACOPLAMENTO
 POR CONTEÚDO
 
@@ -226,7 +220,6 @@ Ocorre quando um módulo faz uso de estruturas de dados ou de controle mantidas 
 escopo de outro módulo.
 
 Ocorre quando um conjunto de módulos acessa uma área global de dados.
-
 
 COMUM
 
@@ -291,7 +284,6 @@ ligadas entre si.
 Conforme as classes (e os componentes) se tornam mais interdependentes, o
 acoplamento
 aumenta - a ideia é tentar manter o acoplamento o mais baixo possível...
-
 
 Arquitetura em Camadas
 
@@ -359,11 +351,9 @@ clientes talvez precisem saber os nomes dos servidores e os serviços que eles
 fornecem, mas os
 servidores não precisam saber sobre os clientes.
 
-
 Eles acessam os serviços pelo servidor por meio de chamadas remotas de procedimento
 usando,
 por exemplo, HTTP. Um cliente faz um pedido a um servidor e espera até receber uma resposta.
-
 
 Cliente 1
 
@@ -372,7 +362,6 @@ Cliente 2 Cliente 3
 Cliente 4
 
 Internet
-
 
 Servidor de
 Catálogos
@@ -428,7 +417,6 @@ As arquiteturas cliente-servidor de duas camadas podem ter duas formas:
 Cliente-Magro ou
 Cliente-Gordo. Como é isso, professor?
 
-
 CLIENTE CLIENTE
 
 MAGRO GORDO
@@ -442,7 +430,6 @@ responsável pelo
 gerenciamento de dados e o software do cliente implementa a lógica da aplicação e as
 interações
 com os usuários, portanto é gordo!
-
 
 VANTAGENS DE CLIENTES
 
@@ -461,7 +448,6 @@ Se o servidor der problema e não houver redundância, todos os clientes-magros
 ficarão inoperantes; necessita de maior largura de banda na rede em que é
 empregado; em geral, possui um pior tempo de resposta, uma vez que usam o servidor
 para qualquertransação; apresenta um apoio transacional menos robusto; etc.
-
 
 VANTAGENS DE CLIENTES
 
@@ -489,7 +475,6 @@ de computadores que executem código de apresentação sofisticado (e, possivelm
 lógica do
 aplicativo).
 
-
 Sistemas Cliente-Servidor em duas camadas foram dominantes durante aproximadamente
 toda a década de noventa e são utilizados até hoje. Todavia, para minimizar
 o impacto de
@@ -498,7 +483,6 @@ gráfica,
 gerando três camadas1: Camada de Apresentação, Camada Lógica do Negócio e Camada de
 Acesso
 a Dados. Vejamos...
-
 
 CAMADA DE
 APRESENTAÇÃO
@@ -564,7 +548,6 @@ Architecture. Apesar de muitas pessoas usarem os dois termos
 indiferentemente, eles não são iguais: Layers são camadas lógicas, isto é, pode haver
 três layers em uma única máquina e os Tiers são camadas
 físicas, isto é, pode haver apenas um tier por máquina. Entenderam? ;)
-
 
 próprio computadorcom um browseré o cliente. Esse sistema é escalonável, pois é
 relativamente
@@ -636,7 +619,6 @@ regra de negócio correspondente no Servidor de Aplicação (Camada de Aplicaç�
 procura os
 dados no banco de dados (Camada de Dados).
 
-
 Arquitetura MVC
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
@@ -669,7 +651,6 @@ chamamos de
 Visão e pela coordenação entre atualizações no modelo e interações com o usuário,
 feita através
 do Controlador.
-
 
 Durante a década de setenta, surgiu a necessidade de criação de uma arquitetura para
 ser utilizada
@@ -735,7 +716,6 @@ posso utilizar um JavaScript para fazer algumas validações
 de dados, mas isso é inseguro e se trata de uma violação do modelo. Logo, aceitem que validações
 ocorrem na camada de modelo.
 
-
 Um controlador define o comportamento da aplicação, interpretando as ações do
 usuário e
 mapeando-as em chamadas do modelo. Em um cliente de aplicações web, essas ações do usuário
@@ -796,7 +776,6 @@ também pode manipular diretamente o Modelo. Finalmente, o Modelo pode reagir
 diretamente
 tanto à Visão quanto ao Controle, mas também pode gerar eventos a serem tratados pela visão.
 
-
 Essa última sentença é extremamente polêmica - vocês encontrarão muitos lugares dizendo
 que
 não é possível que a visão solicite diretamente o estado do modelo, mas é possível,
@@ -817,7 +796,6 @@ Para quem quiser conhecer melhor, recomendo os seguintes artigos:
 http://www.cfQigolo.com/2oo8/o1/mvc-model-view-controller-e-os-tres-macacos
 https://r.je/views-are-not-templates.html
 http://tableless.com.br/mvc-afinal-e-o-que
-
 
 Por fim, não podemos confundir MVC com MVP (Model-View-Presenter). O O MVP
 é uma
@@ -859,7 +837,6 @@ modelo
 mais adequado para uma visão específica (ou mais que uma). Pessoal, acredito que isso
 basta em
 relação a esses assuntos que só recentemente começaram a ser cobrados.
-
 
 Arquitetura Distribuída
 
@@ -926,7 +903,6 @@ Para comunicação entre máquinas, esse hardware pode utilizar SNA ou TCP/IP em
 ou
 Token Ring. A imagem seguinte apresenta uma possível arquitetura distribuída descentralizada:
 
-
 Esse sistema contém duas LANs conectadas entre si. Uma consiste em estações de
 trabalho UNIX
 (HP-UX, Solaris, AIX) de vários fabricantes (HP, Sun, IBM); já a outra consiste em
@@ -973,7 +949,6 @@ preocupe
 se existem protocolos, arquiteturas, sistemas operacionais ou bancos de dados
 diferentes. Ele
 provê um modo para obter dados de um lugar para outro.
-
 
 Além disso, é capaz de mascarar diferenças existentes entre sistemas
 operacionais,
@@ -1045,7 +1020,6 @@ implementa a interface remota). Já o dispatcherfaz parte do arcabouço para rec
 invocações
 remotas e chamar o skeleton certo.
 
-
 Proxy (lado cliente), skeleton (lado servidor) e dispatcher (lado servidor) compõe o
 middleware
 de um sistema de objetos distribuídos. Em algumas implementações, o skeleton e
@@ -1056,9 +1030,7 @@ dados e tudo o que o cliente precisar, é acessado pelo Skeleton, que recebe os
 resultados e faz todo
 o caminho de volta.
 
-
 RESUMo
-
 
 ARQUITETURA DE SOFTWARE
 
@@ -1075,7 +1047,6 @@ ACOPLAMENTO =
 # DEPENDÊNCIA DE COMPONENTES
 
 TIPO DE ACOPLAMENTO | DESCRIÇÃO
-
 
 ACOPLAMENTO
 POR CONTEÚDO
@@ -1127,9 +1098,7 @@ Ocorre quando um componente se comunica ou colabora com componentes de
 infraestrutura. Embora seja necessário, deve-se limitar a um pequeno número de
 componentes em um sistema.
 
-
 O
-
 
 Separação de responsabilidades
 
@@ -1139,13 +1108,11 @@ _\0 Arquitetura em Camadas
 
 Encapsulamento de implementação J
 
-
 organização ou a estrutura dos
 componentes signifiet ivos ob 9 st era
 que interagem por meio de interfaces
 
 Maior reuso e extensibilidade /
-
 
 programa e dados armazenados
 em uma única grande máquina -
@@ -1179,7 +1146,6 @@ pode envolver tecnologias e
 
 \ linguagens heterogêneas
 
-
 Camada de Acesso a Dados /
 
 browser como cliente universal
@@ -1203,7 +1169,6 @@ mesmo tempo
 CD hO
 CD 00
 
-
 SERVIDORES
 CLIENTES
 
@@ -1218,7 +1183,6 @@ ser executados simultaneamente.
 Permite aos clientes acessarem esses serviços - quando clientes e servidores podem ser
 executados em uma única máquina, não são necessários.
 
-
 Cliente 1 Cliente 2
 
 Cliente 3
@@ -1229,7 +1193,6 @@ Internet
 
 : 1[ 1[
 i
-
 
 Servidor de X
 Catálogos
@@ -1251,7 +1214,6 @@ Info de
 
 Acervo \^Videoclipe J \JDigitalizadas\Filmes e Fotos/
 
-
 VANTAGENS DE CLIENTES
 
 MAGROS
@@ -1269,7 +1231,6 @@ Se o servidor der problema e não houver redundância, todos os clientes-magros
 ficarão inoperantes; necessita de maior largura de banda na rede em que é
 empregado; em geral, possui um pior tempo de resposta, uma vez que usam o servidor
 para qualquertransação; apresenta um apoio transacional menos robusto; etc.
-
 
 VANTAGENS DE CLIENTES
 
@@ -1289,14 +1250,12 @@ código do aplicativo é executado em vários locais de cliente; é exigida uma 
 confiança entre o servidor e os clientes por conta do banco de dados; não suporta bem
 o crescimento do número de clientes.
 
-
 CAMADA DE
 APRESENTAÇÃO
 
 Também chamada de Camada de Interface, possui classes que contêm funcionalidades pa
 visualização dos dados pelos usuários. Ela tem o objetivo de exibir informações ao usuário
 e
-
 
 CAMADA DE
 
@@ -1319,7 +1278,6 @@ informações para o sistema. Tipicamente, essa camada é implementada utilizand
 mecanismo de armazenamento persistente. Pode haver uma subcamada dentro desta camada
 chamada Camada de Persistência ou Camada de Acesso.
 
-
 MODEL
 
 VIEW
@@ -1337,7 +1295,6 @@ Essa camada é responsável por intermediar as requisições enviadas pelo View 
 respostas fornecidas pelo Model, processando os dados que o usuário informou e repassar
 para outras camadas.
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BNB - 2022) No padrão MVC, o componente de modelo gerencia as
@@ -1354,7 +1311,7 @@ e, com base nas informações do modelo, ele processa as requisições e decide 
 
 Gabarito: Errado
 
-Item. 2. (CESPE / BNB - 2022) Na arquitetura em camadas, os componentes da camada mais interna
+2. (CESPE / BNB - 2022) Na arquitetura em camadas, os componentes da camada mais interna
 opera o sistema operacional, ao passo que os da camada mais externa interagem com o usuário.
 
 Comentários:
@@ -1375,7 +1332,7 @@ usuário e executar a lógica de aplicativos e processos.
 
 Gabarito: Correto
 
-Item. 3. (CESPE / Petrobrás - 2022) Enquanto a arquitetura é responsável pela
+3. (CESPE / Petrobrás - 2022) Enquanto a arquitetura é responsável pela
 infraestrutura de alto
 nível do software, o design é responsável pelo software a nível de código, como, por
 exemplo, o
@@ -1391,10 +1348,9 @@ cada componente identificado na arquitetura.
 
 Gabarito: Correto
 
-Item. 4. (CESPE/TJ-RJ - 2021) Na arquitetura MVC (Model-View-Controller), asfuncionalidades de
+4. (CESPE/TJ-RJ - 2021) Na arquitetura MVC (Model-View-Controller), asfuncionalidades de
 cada
 segmento são mais bem descritas como:
-
 
 a) o modelo encapsula as funcionalidades; o view gerencia as requisições dos
 usuários; o
@@ -1432,11 +1388,9 @@ responsável por receber todas as requisições do usuário, além disso, um
 controlador define o
 comportamento da aplicação e interpreta as ações do usuário.
 
-
 i
 
 Gabarito: Letra B
-
 
 5- (CESPE / TJ-RJ - 2021) Em um ambiente cliente/servidor, a arquitetura que permite
 a mesma
@@ -1465,7 +1419,7 @@ oferecem e consomem recursos umas das outras, atuando ora como clientes, ora com
 
 Gabarito: Letra E
 
-Item. 6. (CESPE / TELEBRÁS - 2021) Na arquitetura de software, a arquitetura
+6. (CESPE / TELEBRÁS - 2021) Na arquitetura de software, a arquitetura
 cliente/servidor tem
 como vantagem uma maior facilidade de manutenção e segurança dos dados, e
 como
@@ -1491,14 +1445,13 @@ aplicação, isso pode também paralisara rede.
 
 Gabarito: Correto
 
-Item. 7. (CESPE / TELEBRÁS - 2021) Por se tratar de uma arquitetura distribuída, o modelo
+7. (CESPE / TELEBRÁS - 2021) Por se tratar de uma arquitetura distribuída, o modelo
 cliente-
 servidor pressupõe facilidades para atualizar os servidores de forma transparente, sem
 que isso
 afete outras partes do sistema.
 
 Comentários:
-
 
 Perfeito! Como os servidores são centralizados, e em quantidade menor que os clientes,
 há mais
@@ -1508,7 +1461,7 @@ de suas vantagens é a facilidade de manutenção dos servidores.
 
 Gabarito: Correto
 
-Item. 8. (CESPE / TRE-BA - 2017) Com referência às arquiteturas multicamadas de aplicações
+8. (CESPE / TRE-BA - 2017) Com referência às arquiteturas multicamadas de aplicações
 para o
 ambiente web, assinale a opção correta.
 
@@ -1561,8 +1514,7 @@ aplicações.
 
 Gabarito: Correto
 
-
-Item. 9. (CESPE / STJ - 2015) Na arquitetura em camadas MVC (modelo-visão-controlador), o
+9. (CESPE / STJ - 2015) Na arquitetura em camadas MVC (modelo-visão-controlador), o
 modelo
 encapsula o estado de aplicação, a visão solicita atualização do modelo e o
 controlador gerencia
@@ -1588,7 +1540,6 @@ Comentários:
 
 Servidor
 
-
 I
 
 O controlador gerencia as requisições dos usuários, o modelo encapsula funcionalidades e
@@ -1597,12 +1548,11 @@ prepara dados do modelo.
 
 Gabarito: Errado
 
-Item. 11. (CESPE / MEC - 2015) A visão encapsula objetos de conteúdo, solicita atualizações
+11. (CESPE / MEC - 2015) A visão encapsula objetos de conteúdo, solicita atualizações
 do modelo
 e seleciona o comportamento do modelo.
 
 Comentários:
-
 
 I
 Servidor
@@ -1627,8 +1577,7 @@ modelo.
 
 Gabarito: Errado
 
-
-Item. 13. (CESPE / ANTAQ - 2014) O modelo MVC é um padrão de arquitetura que consiste na
+13. (CESPE / ANTAQ - 2014) O modelo MVC é um padrão de arquitetura que consiste na
 definição
 de camadas para a construção de softwares.
 
@@ -1729,7 +1678,6 @@ manutenção em todas as máquinas clientes.
 
 Gabarito: Errado
 
-
 2i. (CESPE / BACEN -2013) MVC (Model-View-Controller) é um modelo de arquitetura de
 software
 que separa, de um lado, a representação da informação e, de outro, a interação do
@@ -1744,7 +1692,7 @@ do usuário com a informação (modelo).
 
 Gabarito: Correto
 
-Item. 22. (CESPE /TCE-ES - 2013) No Padrão MVC, as regras do negócio que definem a forma de acesso
+22. (CESPE /TCE-ES - 2013) No Padrão MVC, as regras do negócio que definem a forma de acesso
 e modificação dos dados são geridas pelo controlador.
 
 Comentários:
@@ -1778,7 +1726,6 @@ Acoplamento? Não! Na verdade, é a coesão!
 
 Gabarito: Errado
 
-
 25-(CESPE / CET - 2011) No padrão de desenvolvimento modelo-visualização-controlador
 (MVC),
 o controlador é o elemento responsável pela interpretação dos dados de
@@ -1807,7 +1754,7 @@ o modelo.
 
 Gabarito: Errado
 
-Item. 27. (CESPE / MEC - 2011) O controlador, no modelo MVC, realiza a comunicação entre
+27. (CESPE / MEC - 2011) O controlador, no modelo MVC, realiza a comunicação entre
 as camadas
 de visão e modelo.
 
@@ -1817,7 +1764,7 @@ Perfeito! O controlador realmente realiza a comunicação entre as camadas de vi
 
 Gabarito: Correto
 
-Item. 28. (CESPE / MEC - 2011) No MVC, o modelo representa o estado geral do sistema.
+28. (CESPE / MEC - 2011) No MVC, o modelo representa o estado geral do sistema.
 
 Comentários:
 
@@ -1825,12 +1772,11 @@ Comentários:
 
 Gabarito: Correto
 
-Item. 29. (CESPE / MEC - 2011) Apesar do seu amplo emprego em aplicações web, o MVC deve
+29. (CESPE / MEC - 2011) Apesar do seu amplo emprego em aplicações web, o MVC deve
 ser
 utilizado apenas em interfaces gráficas em função de sua arquitetura de componentes.
 
 Comentários:
-
 
 Quando ela começou nem existiam aplicações web. Ele é usado primariamente em
 interfaces
@@ -1848,7 +1794,7 @@ Opa... essa é uma função da visão!
 
 Gabarito: Errado
 
-Item. 31. (CESPE / MEC - 2011) O controlador é o responsável pelas regras de negócio e
+31. (CESPE / MEC - 2011) O controlador é o responsável pelas regras de negócio e
 pelos dados de
 uma aplicação no MVC.
 
@@ -1882,7 +1828,6 @@ Na verdade, a questão trata de um serviço!
 
 Gabarito: Errado
 
-
 34-(CESPE / MEC - 2011) A arquitetura cliente/servidor proporciona a
 sincronização entre duas
 aplicações: uma aplicação permanece em estado de espera até que outra aplicação efetue
@@ -1899,7 +1844,7 @@ serviços.
 
 Gabarito: Correto
 
-Item. 35. (CESPE / MEC - 2011) A arquitetura cliente/servidor enseja o desenvolvimento de
+35. (CESPE / MEC - 2011) A arquitetura cliente/servidor enseja o desenvolvimento de
 um sistema
 com, no máximo, duas camadas, quais sejam, cliente e servidor.
 
@@ -1925,7 +1870,7 @@ requisitos tem baixa coesão, reduzindo sua reusabilidade.
 
 Gabarito: Errado
 
-Item. 37. (CESPE / INMETRO - 2010) A coesão e o acoplamento são formas de se
+37. (CESPE / INMETRO - 2010) A coesão e o acoplamento são formas de se
 avaliar se a
 segmentação de um sistema em módulos ou em componentes foi eficiente. Acerca da
 aplicação
@@ -1938,7 +1883,6 @@ associado
 b) Os componentes ou os módulos devem apresentar baixa coesão e um alto
 grau de
 acoplamento.
-
 
 c) Os componentes ou os módulos devem serfortemente coesos e fracamente acoplados.
 
@@ -1995,7 +1939,6 @@ aumento na manutenção da aplicação, pois alterações na camada de dados, po
 exemplo,
 acarretam mudanças em todas as demais camadas.
 
-
 Comentários:
 
 Não, a divisão em camadas reduz a manutenção da aplicação.
@@ -2048,7 +1991,6 @@ está certa em afirmar que uma máquina pode ser cliente em uma aplicação e se
 
 Gabarito: Correto
 
-
 44-(CESPE I EMBASA - 2010) O MVC promove a estrita separação de responsabilidades
 entre os
 componentes de uma interface.
@@ -2080,7 +2022,7 @@ Na verdade, essa atribuição é da camada de visão.
 
 Gabarito: Errado
 
-Item. 47. (CESPE/ EMBASA-2010) O controladoré responsável pela coordenação entre atualizações no
+47. (CESPE/ EMBASA-2010) O controladoré responsável pela coordenação entre atualizações no
 modelo e interações com o usuário.
 
 Comentários:
@@ -2097,7 +2039,6 @@ Comentários:
 
 Perfeito! Ela realmente permite o desenvolvimento de aplicações em três camadas para a web.
 
-
 Gabarito: Correto
 
 49.(CESPE / UNIPAMPA - 2009) Normalmente, a arquitetura em três camadas conta
@@ -2110,7 +2051,7 @@ Exato! Arquitetura em Três Camadas: Apresentação, Aplicação e Dados.
 
 Gabarito: Correto
 
-Item. 50. (CESPE / UNIPAMPA - 2009) Em uma arquitetura em três camadas, na camada de
+50. (CESPE / UNIPAMPA - 2009) Em uma arquitetura em três camadas, na camada de
 aplicação,
 usualmente está um servidor de banco de dados que gerencia o conjunto de requisições.
 
@@ -2120,7 +2061,7 @@ Não, o Servidor de Banco de Dados usualmente se encontra na Camada de Dados.
 
 Gabarito: Errado
 
-Item. 51. (CESPE/ UNIPAMPA-2009) O uso de middlewares é comum em aplicações de n camadas.
+51. (CESPE/ UNIPAMPA-2009) O uso de middlewares é comum em aplicações de n camadas.
 
 Comentários:
 
@@ -2128,7 +2069,7 @@ Exato! Utilizam-se middlewares para realizar uma comunicação mais eficiente.
 
 Gabarito: Correto
 
-Item. 52. (CESPE / UNIPAMPA - 2009) Na camada de persistência dos dados em aplicações n
+52. (CESPE / UNIPAMPA - 2009) Na camada de persistência dos dados em aplicações n
 camadas,
 podem ser utilizados o banco de dados orientado a objetos e o banco de dados relacionais.
 
@@ -2138,14 +2079,13 @@ Comentários:
 
 Gabarito: Correto
 
-Item. 53. (CESPE / UNIPAMPA - 2009) Nas aplicações cliente-servidor, em duas camadas, é
+53. (CESPE / UNIPAMPA - 2009) Nas aplicações cliente-servidor, em duas camadas, é
 simples
 acessarfontes de dados heterogêneas porque o legado de base de dados não precisa de
 drivers
 de conexões diferentes.
 
 Comentários:
-
 
 Na verdade, é necessário diversos drivers de conexões diferentes para acessar às bases de dados
 de
@@ -2258,7 +2198,6 @@ programação conveniente para os programadores de aplicativos. Como exemplos
 de
 middlewares é correto citar: Sun RPC, CORBA, RMI Java e DCOM da Microsoft.
 
-
 Comentários:
 
 Perfeito! Middleware é uma camada de software que permite que elementos de
@@ -2294,7 +2233,7 @@ uma máquina.
 
 Gabarito: Correto
 
-Item. 62. (CESPE / STJ - 2008) A arquitetura de um sistema de software pode se basear em
+62. (CESPE / STJ - 2008) A arquitetura de um sistema de software pode se basear em
 determinado
 estilo de arquitetura. Um estilo de arquitetura é um padrão de organização. No estilo
 cliente-
@@ -2315,7 +2254,6 @@ funcionalidade
 envolvida na manutenção e apresentação dos dados de uma aplicação web.
 
 Comentários:
-
 
 O MVC promove a estrita separação de responsabilidade entre componentes de
 uma interface
@@ -2357,7 +2295,7 @@ Ele realmente interpreta ações do usuário e direciona para as chamadas do mod
 
 Gabarito: Correto
 
-Item. 66. (CESPE / TJ-CE - 2008) A arquitetura MVC não separa a informação de sua
+66. (CESPE / TJ-CE - 2008) A arquitetura MVC não separa a informação de sua
 apresentação,
 porque, em sistemas web, informação e apresentação estão na mesma camada.
 
@@ -2372,7 +2310,6 @@ tipicamente em três
 camadas. A arquitetura MVC aumenta o escopo do desenvolvimento para, no máximo, quatro
 camadas, sendo a quarta camada o processamento dos dados do usuário.
 
-
 Comentários:
 
 Não, tipicamente temos três camadas. No entanto, realmente não há restrição
@@ -2383,7 +2320,7 @@ visão.
 
 Gabarito: Errado
 
-Item. 68. (CESPE / IPEA - 2008) A arquitetura distribuída é caracterizada pelo
+68. (CESPE / IPEA - 2008) A arquitetura distribuída é caracterizada pelo
 compartilhamento de
 recursos computacionais e serviços por meio da comunicação direta e descentralizada
 entre os
@@ -2399,7 +2336,7 @@ descentralizada entre os sistemas. Enfim, a questão está perfeita!
 
 Gabarito: Correto
 
-Item. 69. (CESPE / SERPRO - 2008) Uma arquitetura distribuída permite a divisão de uma
+69. (CESPE / SERPRO - 2008) Uma arquitetura distribuída permite a divisão de uma
 mesma
 tarefa em diferentes processadores em uma mesma CPU. Essa característica
 aumenta a
@@ -2429,7 +2366,6 @@ a
 requisição da entidade iniciadora.
 
 Gabarito: Correto
-
 
 7i.(CESPE / DATAPREV - 2006) Uma arquitetura cliente/servidor caracteriza-se pela
 separação
@@ -2485,7 +2421,6 @@ modificações que mantém um registro dos componentes que dependem do modelo.
 
 Comentários:
 
-
 Mudanças em um modelo podem modificar as visões que dependem desse modelo, gerando uma
 rastreabilidade.
 
@@ -2516,7 +2451,7 @@ processamento dos serviços (desonerando o servidor) e transfere para os cliente
 
 Gabarito: Correto
 
-Item. 77. (CESPEI STJ - 2004) As camadas da arquitetura cliente-servidor de três camadas são: camada
+77. (CESPEI STJ - 2004) As camadas da arquitetura cliente-servidor de três camadas são: camada
 de interface de usuário, camada de regras de negócio e camada de acesso ao banco de dados.
 
 Comentários:
@@ -2533,14 +2468,13 @@ estejam na mesma máquina.
 
 Comentários:
 
-
 Na verdade, mesmo que essas camadas estejam na mesma máquina, uma alteração na camada
 de
 acesso aos dados não afeta a camada de interface de usuário.
 
 Gabarito: Errado
 
-Item. 79. (CESPE / STJ - 2004) A arquitetura cliente-servidor multicamadas possui a vantagem
+79. (CESPE / STJ - 2004) A arquitetura cliente-servidor multicamadas possui a vantagem
 de que a
 camada de interface de usuário pode se comunicar diretamente com qualquer outra camada,
 ou seja, não existe hierarquia entre camadas.
@@ -2551,7 +2485,7 @@ Não, a camada de interface se comunica diretamente apenas com a camada de negó
 
 Gabarito: Errado
 
-Item. 80. (CESPE / TRE-RS - 2003) Aplicações com arquitetura cliente-servidor são
+80. (CESPE / TRE-RS - 2003) Aplicações com arquitetura cliente-servidor são
 assimétricas, no
 sentido de que o cliente e o servidor possuem papéis diferentes na arquitetura de comunicações.
 
@@ -2584,7 +2518,6 @@ Uma vez que
 sejam executadas as funcionalidades esperadas, não há necessidade de uma interface de usuário.
 
 Gabarito: Correto
-
 
 QUESTõES CoMENTADAS - FCC
 
@@ -2619,14 +2552,13 @@ modularização.
 
 Gabarito: Letra B
 
-Item. 2. (FCC/DPE-AM-2018)
+2. (FCC/DPE-AM-2018)
 
 Trecho 1:
 
 public int pensaoAlimenticia(){
 
 return Util.getFuncoes.getFuncoesData.calculaPensao(processo);
-
 
 Trecho 2:
 
@@ -2642,7 +2574,6 @@ coesão devem ser respeitados. O código Java apresentando no trecho 1 mostra um
 a) baixo acoplamento e o trecho 2 o corrige para alto acoplamento.
 
 b) alta coesão e o trecho 2 o corrige para baixa coesão.
-
 
 c) alto acoplamento e o trecho 2 o corrige para baixo acoplamento.
 
@@ -2664,7 +2595,7 @@ relação ao trecho 1. Logo, há alto acoplamento no trecho 1 e baixo acoplament
 
 Gabarito: Letra C
 
-Item. 3. (FCC / TCM-GO - 2015 - Adaptada) Quanto à Arquitetura em 3 Camadas, é necessário
+3. (FCC / TCM-GO - 2015 - Adaptada) Quanto à Arquitetura em 3 Camadas, é necessário
 um
 arranjo que possibilite a reutilização do código e facilite sua
 manutenção e seu
@@ -2680,7 +2611,7 @@ Perfeito! Essa é uma situação bastante comum em uma arquitetura em três cama
 
 Gabarito: Letra C
 
-Item. 4. (FCC / CNMP - 2015) Há algumas variantes possíveis de arquitetura a serem
+4. (FCC / CNMP - 2015) Há algumas variantes possíveis de arquitetura a serem
 utilizadas em um
 sistema de bancos de dados. Sobre essas variantes, é correto afirmar que:
 
@@ -2700,7 +2631,6 @@ e) na arquitetura de 2 camadas não há necessidade de uso de um sistema gerenci
 bancos
 de dados.
 
-
 Comentários:
 
 (a) Errado, é a camada intermediária; (b) Errado, fica na camada de apresentação; (c)
@@ -2709,7 +2639,7 @@ chamada camada de dados; (d) Correto; (e) Errado, é claro que há necessidade.
 
 Gabarito: Letra D
 
-Item. 5. (FCC/TJ-AP-2014) Uma arquitetura muito comum em aplicações web é o Modelo
+5. (FCC/TJ-AP-2014) Uma arquitetura muito comum em aplicações web é o Modelo
 Arquitetural
 3 Camadas:
 
@@ -2739,7 +2669,7 @@ Máquina Cliente se associa com... Camada de Apresentação.
 
 Gabarito: Letra A
 
-Item. 6. (FCC / TST - 2012) Uma arquitetura em camadas:
+6. (FCC / TST - 2012) Uma arquitetura em camadas:
 
 a) possui apenas 3 camadas, cada uma realizando operações que se tornam progressivamente
 mais próximas do conjunto de instruções da máquina.
@@ -2755,7 +2685,6 @@ bancos de dados.
 d) tem, como camada intermediária, o depósito de dados, também chamado de repositório
 ou
 quadro-negro.
-
 
 e) tem, na camada mais externa, os componentes que realizam a interface com o
 sistema
@@ -2773,7 +2702,7 @@ com o sistema operacional, em geral, fica na camada mais interna.
 
 Gabarito: Letra C
 
-Item. 7. (FCC / TRF2 - 2012) São aspectos que podem caracterizar uma arquitetura
+7. (FCC / TRF2 - 2012) São aspectos que podem caracterizar uma arquitetura
 cliente-servidor,
 estabelecida logicamente em 4 camadas:
 
@@ -2823,7 +2752,7 @@ entre a Camada de Dados e a Camada Web.
 
 Gabarito: Letra E
 
-Item. 8. (FCC/TST-2012) No padrão MVC é possível definir grupos de componentes principais:
+8. (FCC/TST-2012) No padrão MVC é possível definir grupos de componentes principais:
 o Model
 (Modelo), o View (Apresentação) e o Controller (Controle). Deve fazer parte do componente:
 
@@ -2871,7 +2800,6 @@ d) Model e Business.
 e) View e Business.
 
 Comentários:
-
 
 Páginas HTML são representadas na View; classes com métodos que acessam o banco de
 dados e
@@ -2932,7 +2860,6 @@ d) (I) Controller; (II) View; (III) Model;
 
 e) (I) Model; (II) View; (III) Controller;
 
-
 Comentários:
 
 (I) Quem faz essa orquestração de requisições é a Camada de Controle; (II) Acesso aos
@@ -2943,7 +2870,7 @@ Camada de Visão!
 
 Gabarito: Letra A
 
-Item. 12. (FCC / TJ-PE - 2012) Com relação à arquitetura MVC, considere:
+12. (FCC / TJ-PE - 2012) Com relação à arquitetura MVC, considere:
 
 I. O MODEL representa os dados da empresa e as regras de negócio que governam o
 acesso e
@@ -2988,8 +2915,7 @@ quantas views forem necessárias para um mesmo Model;
 
 Gabarito: Letra B
 
-Item. 13. (FCC / MPE-PE - 2012) O componente Controller do MVC:
-
+13. (FCC / MPE-PE - 2012) O componente Controller do MVC:
 
 a) Define o comportamento da aplicação, as ações do usuário para atualizar os
 componentes de
@@ -3044,7 +2970,6 @@ de usuário a partir da visão e a visão encapsula funcionalidades e objetos de
 
 Comentários:
 
-
 O Controlador processa e responde a eventos e invoca alterações ao modelo, o modelo
 encapsula
 funcionalidades e objetos de conteúdo e a visão renderiza a interface de usuário a partir do
@@ -3052,7 +2977,7 @@ modelo.
 
 Gabarito: Letra D
 
-Item. 15. (FCC/TRT-SE-2010) No desenvolvimento de sistemas, no âmbito das relações
+15. (FCC/TRT-SE-2010) No desenvolvimento de sistemas, no âmbito das relações
 intermodulares
 entre as classes, diz-se que o programa está bem estruturado quando há:
 
@@ -3104,7 +3029,6 @@ b) Apresentação, Natureza e Acesso a Dados.
 c) Apresentação, Negócio e Alteração.
 
 d) Manipulação, Natureza e Acesso a Dados.
-
 
 e) Manipulação, Negócio e Acesso a Dados.
 
@@ -3159,7 +3083,6 @@ atender a todas as requisições do cliente.
 e) Em aplicações web desenvolvidas com Java as servlets são representadas na camada Model.
 
 Comentários:
-
 
 (a) Errado, fica na Camada de Modelo; (b) Errado, quase tudo correto, mas as ações
 são executadas
@@ -3217,10 +3140,9 @@ Apresentação? Camada de Visão (View).
 
 Gabarito: Letra A
 
-Item. 22. (FCC /TRT-MA-2009) Considere as funções:
+22. (FCC /TRT-MA-2009) Considere as funções:
 
 I. Seleção do comportamento do modelo.
-
 
 II. Encapsulamento dos objetos de conteúdo.
 
@@ -3248,7 +3170,7 @@ feitas pela Camada de Visão.
 
 Gabarito: Letra D
 
-Item. 23. (FCC /TRT-GO-2008) Visando obter maior independência funcional, é adequado que o
+23. (FCC /TRT-GO-2008) Visando obter maior independência funcional, é adequado que o
 esforço
 seja direcionado ao projeto de módulos:
 
@@ -3282,14 +3204,12 @@ d) a apresentação, os componentes virtuais e a seqüência de execução.
 
 e) a apresentação, as regras de negócio e o armazenamento de dados.
 
-
 Comentários:
 
 Tranquila também, só mudaram as palavras! Apresentação, Regras de Negócio e Armazenamento
 de Dados.
 
 Gabarito: Letra E
-
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -3317,7 +3237,7 @@ as classes.
 
 Gabarito: Letra B
 
-Item. 2. (UFG / SANEAGO - 2017) O emprego de boas práticas de projeto (design) de
+2. (UFG / SANEAGO - 2017) O emprego de boas práticas de projeto (design) de
 software visa
 resultarem um código:
 
@@ -3335,7 +3255,7 @@ A regra de ouro de uma arquitetura de software: alta/forte coesão e baixo/fraco
 
 Gabarito: Letra C
 
-Item. 3. (UFG / SANEAGO - 2017) Dentro dos padrões arquiteturais de software, a
+3. (UFG / SANEAGO - 2017) Dentro dos padrões arquiteturais de software, a
 arquitetura Model-
 View-ViewModel (MVVM) é próxima da arquitetura Model-View-Presenter (MVP),
 porém
@@ -3347,7 +3267,6 @@ b) implementar o padrão de projeto Observer na ligação entre dados (ViewModel
 
 c) ligar diretamente as classes de tela (view) e dados (Model) dentro da estrutura do projeto.
 
-
 d) vincular a realização de atualizações de tela (view) à atualização de dados (ViewModel).
 
 Comentários:
@@ -3356,7 +3275,7 @@ Perfeito! É a aplicação do Padrão de Projeto Observer!
 
 Gabarito: Letra B
 
-Item. 4. (IBFC/EBSERH-2017) O modelo de três camadas físicas (3-tier), especificado nas
+4. (IBFC/EBSERH-2017) O modelo de três camadas físicas (3-tier), especificado nas
 alternativas,
 divide um aplicativo de modo que a lógica de negócio resida no meio das três
 camadas, foi
@@ -3382,7 +3301,7 @@ A divisão do aplicativo que separa em três camadas é a Arquitetura MVC (Model
 
 Gabarito: Letra A
 
-Item. 5. (CESGRANRIO / CEFET-RJ - 2014) No contexto da Arquitetura de Sistemas, o MVC
+5. (CESGRANRIO / CEFET-RJ - 2014) No contexto da Arquitetura de Sistemas, o MVC
 (model -
 view-controller) é um estilo arquitetural:
 
@@ -3400,8 +3319,7 @@ fornecendo diversas visões diferentes para um mesmo modelo de dados.
 
 Gabarito: Letra A
 
-
-Item. 6. (IBFC / TRE-AM - 2014) Na arquitetura cliente-servidor, além dos dois principais
+6. (IBFC / TRE-AM - 2014) Na arquitetura cliente-servidor, além dos dois principais
 componentes
 Cliente e o Servidor, existe um terceiro elemento intermediando os dois. Esse
 componente é
@@ -3429,17 +3347,17 @@ plataformas diferentes; Intermediar a comunicação entre Sistema Operacional e 
 
 Gabarito: Letra B
 
-Item. 7. (IBFC / TRE-AM - 2014) No desenvolvimento de sistemas dentro do conceito da
+7. (IBFC / TRE-AM - 2014) No desenvolvimento de sistemas dentro do conceito da
 arquitetura
 cliente-servidor de três camadas, temos as seguintes camadas:
 
-Item. 1. Camada de Dados.
+1. Camada de Dados.
 
-Item. 2. Camada de Apresentação.
+2. Camada de Apresentação.
 
-Item. 3. Camada de Aplicações.
+3. Camada de Aplicações.
 
-Item. 4. Camada de Negócio.
+4. Camada de Negócio.
 
 Estão corretas as afirmativas:
 
@@ -3459,10 +3377,9 @@ de Negócio. Logo, somente 1,2 e 4.
 
 Gabarito: Letra A
 
-Item. 8. (ESAF/CGU-2012) A definição de que um sistema deve ser desenvolvido em três
+8. (ESAF/CGU-2012) A definição de que um sistema deve ser desenvolvido em três
 níveis é feita
 pelo padrão de projeto:
-
 
 a) MVC (Model View Controller).
 
@@ -3480,7 +3397,7 @@ A questão trata do MVC (Model View Controller).
 
 Gabarito: Letra A
 
-Item. 9. (ESAF / CVM - 2010) Modelo MVC significa:
+9. (ESAF / CVM - 2010) Modelo MVC significa:
 
 a) Modo-View-Construtor.
 
@@ -3498,24 +3415,23 @@ A questão trata do Modelo-View-Controlador.
 
 Gabarito: Letra B
 
-
 LISTA DE QUESTõES - CESPE
 
 í. (CESPE / BNB - 2022) No padrão MVC, o componente de modelo gerencia as
 requisições dos
 usuários.
 
-Item. 2. (CESPE / BNB - 2022) Na arquitetura em camadas, os componentes da camada mais
+2. (CESPE / BNB - 2022) Na arquitetura em camadas, os componentes da camada mais
 interna
 opera o sistema operacional, ao passo que os da camada mais externa interagem com o usuário.
 
-Item. 3. (CESPE / Petrobrás - 2022) Enquanto a arquitetura é responsável pela
+3. (CESPE / Petrobrás - 2022) Enquanto a arquitetura é responsável pela
 infraestrutura de alto
 nível do software, o design é responsável pelo software a nível de código, como, por
 exemplo, o
 que cada módulo está fazendo, o escopo das classes e os objetivos das funções.
 
-Item. 4. (CESPE/TJ-RJ -2021) Na arquitetura MVC (Model-View-Controller), asfuncionalidades de
+4. (CESPE/TJ-RJ -2021) Na arquitetura MVC (Model-View-Controller), asfuncionalidades de
 cada
 segmento são mais bem descritas como:
 
@@ -3539,7 +3455,7 @@ e) o modelo seleciona a resposta da visão; a visão apresenta a visão
 selecionada pelo
 controlador; o controlador encapsula objetos de conteúdo.
 
-Item. 5. (CESPE / TJ-RJ - 2021) Em um ambiente cliente/servidor, a arquitetura que permite
+5. (CESPE / TJ-RJ - 2021) Em um ambiente cliente/servidor, a arquitetura que permite
 a mesma
 aplicação assumir tanto o papel de cliente quanto o de servidor é conhecida como
 arquitetura
@@ -3555,20 +3471,20 @@ d) de três camadas.
 
 e) par-par.
 
-Item. 6. (CESPE / TELEBRÁS - 2021) Na arquitetura de software, a arquitetura
+6. (CESPE / TELEBRÁS - 2021) Na arquitetura de software, a arquitetura
 cliente/servidor tem
 como vantagem uma maior facilidade de manutenção e segurança dos dados, e como
 desvantagens possíveis bloqueios no tráfego da rede, além de problemas de
 atualização da
 interface de aplicação.
 
-Item. 7. (CESPE / TELEBRÁS - 2021) Por se tratar de uma arquitetura distribuída, o modelo
+7. (CESPE / TELEBRÁS - 2021) Por se tratar de uma arquitetura distribuída, o modelo
 cliente-
 servidor pressupõe facilidades para atualizar os servidores de forma transparente, sem
 que isso
 afete outras partes do sistema.
 
-Item. 8. (CESPE / TRE-BA - 2017) Com referência às arquiteturas multicamadas de aplicações
+8. (CESPE / TRE-BA - 2017) Com referência às arquiteturas multicamadas de aplicações
 para o
 ambiente web, assinale a opção correta.
 
@@ -3597,34 +3513,33 @@ esperados pela aplicação.
 e) Na arquitetura de duas camadas — apresentação e armazenamento —, o computador que
 contivera base de dados terá de ficar junto com os computadores que executarem as aplicações.
 
-Item. 9. (CESPE / STJ - 2015) Na arquitetura em camadas MVC (modelo-visão-controlador), o
+9. (CESPE / STJ - 2015) Na arquitetura em camadas MVC (modelo-visão-controlador), o
 modelo
 encapsula o estado de aplicação, a visão solicita atualização do modelo e o
 controlador gerencia
 a lógica de negócios.
 
-Item. 10. (CESPE / MEC - 2015) O controlador gerencia as requisições dos usuários
+10. (CESPE / MEC - 2015) O controlador gerencia as requisições dos usuários
 encapsulando as
 funcionalidades e prepara dados do modelo.
 
-Item. 11. (CESPE / MEC - 2015) A visão encapsula objetos de conteúdo, solicita atualizações
+11. (CESPE / MEC - 2015) A visão encapsula objetos de conteúdo, solicita atualizações
 do modelo
 e seleciona o comportamento do modelo.
 
-Item. 12. (CESPE / STJ - 2015) No padrão em camadas modelo-visão-controle (MVC), o
+12. (CESPE / STJ - 2015) No padrão em camadas modelo-visão-controle (MVC), o
 controle é
 responsável por mudanças de estado da visão.
 
-Item. 13. (CESPE / ANTAQ - 2014) O modelo MVC é um padrão de arquitetura que consiste na
+13. (CESPE / ANTAQ - 2014) O modelo MVC é um padrão de arquitetura que consiste na
 definição
 de camadas para a construção de softwares.
 
-
-Item. 14. (CESPE/ANTAQ-2014) O controllertem a responsabilidade de armazenar e buscar
+14. (CESPE/ANTAQ-2014) O controllertem a responsabilidade de armazenar e buscar
 os dados
 que deverão ser exibidos pelo view.
 
-Item. 15. (CESPE / INPI - 2013) De acordo com os princípios da engenharia de software
+15. (CESPE / INPI - 2013) De acordo com os princípios da engenharia de software
 relacionados à
 independência funcional, os algoritmos devem ser construídos por módulos
 visando
@@ -3632,15 +3547,15 @@ unicamente ao alto acoplamento e à baixa coesão, caso a interface entre os mó
 dê-se pela
 passagem de dados.
 
-Item. 16. (CESPE / STF - 2013) Quanto maior for o número de camadas, menor será o
+16. (CESPE / STF - 2013) Quanto maior for o número de camadas, menor será o
 desempenho do
 software como um todo.
 
-Item. 17. (CESPE / STF - 2013) Cada camada tem comunicação (interface) com todas as demais
+17. (CESPE / STF - 2013) Cada camada tem comunicação (interface) com todas as demais
 camadas,
 tanto inferiores quanto superiores.
 
-Item. 18. (CESPE / STF-2013) Em uma arquitetura em camadas, a camada de persistência é
+18. (CESPE / STF-2013) Em uma arquitetura em camadas, a camada de persistência é
 responsável
 por armazenar dados gerados pelas camadas superiores e pode utilizar um sistema
 gerenciador
@@ -3648,90 +3563,89 @@ de banco de dados para evitar, entre outros aspectos, anomalias de acesso concor
 dos
 dados e problemas de integridade de dados.
 
-Item. 19. (CESPE / FUB - 2013) Aplicações cliente-servidor multicamadas são usualmente
+19. (CESPE / FUB - 2013) Aplicações cliente-servidor multicamadas são usualmente
 organizadas
 em três camadas principais: apresentação, lógica e periférico.
 
-Item. 20. (CESPE / FUB-2013) Entre as desvantagens de se executartodas as camadas de uma
+20. (CESPE / FUB-2013) Entre as desvantagens de se executartodas as camadas de uma
 aplicação
 cliente-servidor no lado do servidor se destaca a dificuldade de atualização
 e correção da
 aplicação.
 
-Item. 21. (CESPE / BACEN - 2013) MVC (Model-View-Controller) é um modelo de arquitetura de
+21. (CESPE / BACEN - 2013) MVC (Model-View-Controller) é um modelo de arquitetura de
 software
 que separa, de um lado, a representação da informação e, de outro, a interação do
 usuário com
 a informação.
 
-Item. 22. (CESPE /TCE-ES-2013) No Padrão MVC, as regras do negócio que definem a forma de
+22. (CESPE /TCE-ES-2013) No Padrão MVC, as regras do negócio que definem a forma de
 acesso
 e modificação dos dados são geridas pelo controlador.
 
-Item. 23. (CESPE / Banco da Amazônia - 2012) De acordo com o princípio da coesão de
+23. (CESPE / Banco da Amazônia - 2012) De acordo com o princípio da coesão de
 classes, cada
 classe deve representar uma única entidade bem definida no domínio do problema. O grau
 de
 coesão diminui com o aumento contínuo de código de manutenção nas classes.
 
-Item. 24. (CESPE / Banco da Amazônia - 2012) O acoplamento de métodos expressa o fato de
+24. (CESPE / Banco da Amazônia - 2012) O acoplamento de métodos expressa o fato de
 que
 qualquer método deve ser responsável somente por uma tarefa bem definida.
 
-Item. 25. (CESPE / CET - 2011) No padrão de desenvolvimento modelo-visualização-controlador
+25. (CESPE / CET - 2011) No padrão de desenvolvimento modelo-visualização-controlador
 (MVC),
 o controlador é o elemento responsável pela interpretação dos dados de
 entrada e pela
 manipulação do modelo, de acordo com esses dados.
 
-
-Item. 26. (CESPE / MEC - 2011) O modelo MVC pode ser usado para construir a arquitetura
+26. (CESPE / MEC - 2011) O modelo MVC pode ser usado para construir a arquitetura
 do software
 a partir de três elementos: modelo, visão e controle, sendo definidas no controle as
 regras de
 negócio que controlam o comportamento do software a partir de restrições do mundo real.
 
-Item. 27. (CESPE / MEC - 2011) O controlador, no modelo MVC, realiza a comunicação entre
+27. (CESPE / MEC - 2011) O controlador, no modelo MVC, realiza a comunicação entre
 as camadas
 de visão e modelo.
 
-Item. 28. (CESPE / MEC - 2011) No MVC, o modelo representa o estado geral do sistema.
+28. (CESPE / MEC - 2011) No MVC, o modelo representa o estado geral do sistema.
 
-Item. 29. (CESPE / MEC - 2011) Apesar do seu amplo emprego em aplicações web, o MVC deve
+29. (CESPE / MEC - 2011) Apesar do seu amplo emprego em aplicações web, o MVC deve
 ser
 utilizado apenas em interfaces gráficas em função de sua arquitetura de componentes.
 
-Item. 30. (CESPE / MEC - 2011) No MVC, é o modelo que permite apresentar, de diversas
+30. (CESPE / MEC - 2011) No MVC, é o modelo que permite apresentar, de diversas
 formas
 diferentes, os dados para o usuário.
 
-Item. 31. (CESPE / MEC - 2011) O controlador é o responsável pelas regras de negócio e
+31. (CESPE / MEC - 2011) O controlador é o responsável pelas regras de negócio e
 pelos dados de
 uma aplicação no MVC.
 
-Item. 32. (CESPE / MEC - 2011) A independência dos componentes é um dos atributos que
+32. (CESPE / MEC - 2011) A independência dos componentes é um dos atributos que
 reflete a
 qualidade do projeto. O grau de independência pode ser medido a partir dos
 conceitos de
 acoplamento e coesão, os quais, idealmente, devem ser alto e baixo, respectivamente.
 
-Item. 33. (CESPE / MEC - 2011) O termo cliente é usado para designar uma parte distinta
+33. (CESPE / MEC - 2011) O termo cliente é usado para designar uma parte distinta
 de um sistema
 de computador que gerencia um conjunto de recursos relacionados e
 apresenta sua
 funcionalidade para usuários e aplicativos.
 
-Item. 34. (CESPE / MEC - 2011) A arquitetura cliente/servidor proporciona a sincronização
+34. (CESPE / MEC - 2011) A arquitetura cliente/servidor proporciona a sincronização
 entre duas
 aplicações: uma aplicação permanece em estado de espera até que outra aplicação efetue
 uma
 solicitação de serviço.
 
-Item. 35. (CESPE / MEC - 2011) A arquitetura cliente/servidor enseja o desenvolvimento de um
+35. (CESPE / MEC - 2011) A arquitetura cliente/servidor enseja o desenvolvimento de um
 sistema
 com, no máximo, duas camadas, quais sejam, cliente e servidor.
 
-Item. 36. (CESPE / ABIN-2010) Em sistemas de grande porte, um único requisito pode ser
+36. (CESPE / ABIN-2010) Em sistemas de grande porte, um único requisito pode ser
 implementado
 por diversos componentes; cada componente, por sua vez, pode incluir elementos
 de vários
@@ -3739,12 +3653,11 @@ requisitos, o que facilita o seu reúso, pois os componentes implementam, normal
 uma
 única abstração do sistema.
 
-Item. 37. (CESPE / INMETRO - 2010) A coesão e o acoplamento são formas de se
+37. (CESPE / INMETRO - 2010) A coesão e o acoplamento são formas de se
 avaliar se a
 segmentação de um sistema em módulos ou em componentes foi eficiente. Acerca da
 aplicação
 desses princípios, assinale a opção correta.
-
 
 a) O baixo acoplamento pode melhorar a manutebilidade dos sistemas, pois ele está
 associado
@@ -3773,13 +3686,13 @@ que um programa que fica entre o aplicativo cliente e o sistema de gerenciamento
 banco de
 dados.
 
-Item. 40. (CESPE / BASA - 2010) Uma desvantagem dessa arquitetura (arquitetura multicamadas)
+40. (CESPE / BASA - 2010) Uma desvantagem dessa arquitetura (arquitetura multicamadas)
 é o
 aumento na manutenção da aplicação, pois alterações na camada de dados, por
 exemplo,
 acarretam mudanças em todas as demais camadas.
 
-Item. 41. (CESPE / BASA - 2010) Em uma arquitetura cliente-servidor, os clientes
+41. (CESPE / BASA - 2010) Em uma arquitetura cliente-servidor, os clientes
 compartilham dos
 recursos gerenciados pelos servidores, os quais também podem, por sua vez, ser clientes
 de
@@ -3799,23 +3712,22 @@ capacitado, havendo a possibilidade de uma máquina ser cliente em uma tarefa e
 servidor em
 outra.
 
-Item. 44. (CESPE / EMBASA - 2010) O MVC promove a estrita separação de responsabilidades
+44. (CESPE / EMBASA - 2010) O MVC promove a estrita separação de responsabilidades
 entre os
 componentes de uma interface.
 
-Item. 45. (CESPE / EMBASA - 2010) No MVC, a visão é responsável pela manutenção do estado
+45. (CESPE / EMBASA - 2010) No MVC, a visão é responsável pela manutenção do estado
 da
 aplicação.
 
-
-Item. 46. (CESPE / EMBASA - 2010) O modelo no MVC tem como atribuição exibir a parte que
+46. (CESPE / EMBASA - 2010) O modelo no MVC tem como atribuição exibir a parte que
 é
 responsável pela manutenção da aplicação para o usuário.
 
-Item. 47. (CESPE/ EMBASA-2010) O controladoré responsável pela coordenação entre atualizações no
+47. (CESPE/ EMBASA-2010) O controladoré responsável pela coordenação entre atualizações no
 modelo e interações com o usuário.
 
-Item. 48. (CESPE / EMBASA - 2010) Por meio do MVC, é possível o desenvolvimento de
+48. (CESPE / EMBASA - 2010) Por meio do MVC, é possível o desenvolvimento de
 aplicações em 3
 camadas para a Web.
 
@@ -3823,23 +3735,23 @@ camadas para a Web.
 com as
 camadas de apresentação, de aplicação e de dados.
 
-Item. 50. (CESPE / UNIPAMPA - 2009) Em uma arquitetura em três camadas, na camada de
+50. (CESPE / UNIPAMPA - 2009) Em uma arquitetura em três camadas, na camada de
 aplicação,
 usualmente está um servidor de banco de dados que gerencia o conjunto de requisições.
 
-Item. 51. (CESPE / UNIPAMPA -2009) O uso de middlewares é comum em aplicações de n camadas.
+51. (CESPE / UNIPAMPA -2009) O uso de middlewares é comum em aplicações de n camadas.
 
-Item. 52. (CESPE / UNIPAMPA - 2009) Na camada de persistência dos dados em aplicações n
+52. (CESPE / UNIPAMPA - 2009) Na camada de persistência dos dados em aplicações n
 camadas,
 podem ser utilizados o banco de dados orientado a objetos e o banco de dados relacionais.
 
-Item. 53. (CESPE / UNIPAMPA - 2009) Nas aplicações cliente-servidor, em duas camadas, é
+53. (CESPE / UNIPAMPA - 2009) Nas aplicações cliente-servidor, em duas camadas, é
 simples
 acessar fontes de dados heterogêneas porque o legado de base de dados não precisa de
 drivers
 de conexões diferentes.
 
-Item. 54. (CESPE/ANTAQ-2oog) Os principais componentes da arquitetura cliente-servidor,
+54. (CESPE/ANTAQ-2oog) Os principais componentes da arquitetura cliente-servidor,
 que é um
 modelo de arquitetura para sistemas distribuídos, são o conjunto de servidores que
 oferecem
@@ -3849,17 +3761,17 @@ conjunto de clientes que solicitam os serviços oferecidos por servidores, e a r
 permite
 aos clientes acessarem esses serviços.
 
-Item. 55. (CESPE / BASA - 2009) Em arquiteturas cliente-servidor multicamadas, na maior parte
+55. (CESPE / BASA - 2009) Em arquiteturas cliente-servidor multicamadas, na maior parte
 das
 aplicações, o browser é adotado como cliente universal.
 
-Item. 56. (CESPE / ANAC - 2009) O framework modelo visão controlador (MVC - model view
+56. (CESPE / ANAC - 2009) O framework modelo visão controlador (MVC - model view
 controller)
 é muito utilizado para projeto da GUI (graphical user interface) de programas
 orientados a
 objetos.
 
-Item. 57. (CESPE / TCU - 2009) No MVC (model-view-controller), um padrão
+57. (CESPE / TCU - 2009) No MVC (model-view-controller), um padrão
 recomendado para
 aplicações interativas, uma aplicação é organizada em três módulos separados.
 Um para o
@@ -3869,8 +3781,7 @@ que fornecem apresentação dos dados e input do usuário e o terceiro para um
 controlador que
 despacha pedidos e controle de fluxo.
 
-
-Item. 58. (CESPE/ANATEL-2oog) Uma das vantagens da arquitetura distribuída é o
+58. (CESPE/ANATEL-2oog) Uma das vantagens da arquitetura distribuída é o
 compartilhamento
 de recursos, que permite que sistemas, aplicativos e dispositivos periféricos,
 como discos,
@@ -3881,12 +3792,12 @@ tempo em diferentes computadores na rede. E, por fim, uma terceira vantagem é a
 proteção,
 pois o acesso é feito de forma centralizada.
 
-Item. 59. (CESPE/ANTAQ-2009) Uma das desvantagens da arquitetura distribuída é sua complexidade,
+59. (CESPE/ANTAQ-2009) Uma das desvantagens da arquitetura distribuída é sua complexidade,
 uma vez que é mais difícil compreender as propriedades emergentes dos sistemas que as
 dos
 sistemas centralizados.
 
-Item. 60. (CESPE / INMETRO - 2009) Em uma arquitetura distribuída, middleware é definido
+60. (CESPE / INMETRO - 2009) Em uma arquitetura distribuída, middleware é definido
 como uma
 camada de software cujo objetivo é mascarar a heterogeneidade e fornecer um
 modelo de
@@ -3894,7 +3805,7 @@ programação conveniente para os programadores de aplicativos. Como exemplos
 de
 middlewares é correto citar: Sun RPC, CORBA, RMI Java e DCOM da Microsoft.
 
-Item. 61. (CESPE/IPEA-2008) Na arquitetura cliente-servidor com três camadas (three
+61. (CESPE/IPEA-2008) Na arquitetura cliente-servidor com três camadas (three
 tier), a camada
 de apresentação, a camada de aplicação e o gerenciamento de dados ocorrem em diferentes
 máquinas. A camada de apresentação provê a interface do usuário e interage com o
@@ -3909,7 +3820,7 @@ de dados ocorre em servidores de banco de dados, que processam as consultas da c
 de
 aplicação e enviam os resultados.
 
-Item. 62. (CESPE/ STJ -2008) A arquitetura de um sistema de software pode se basearem
+62. (CESPE/ STJ -2008) A arquitetura de um sistema de software pode se basearem
 determinado
 estilo de arquitetura. Um estilo de arquitetura é um padrão de organização. No estilo
 cliente-
@@ -3919,31 +3830,30 @@ que acessam e usam os serviços. Os principais componentes desse estilo são ser
 que
 oferecem serviços e clientes que solicitam os serviços.
 
-Item. 63. (CESPE / TJ-CE - 2008) A arquitetura MVC fornece uma maneira de dividir a
+63. (CESPE / TJ-CE - 2008) A arquitetura MVC fornece uma maneira de dividir a
 funcionalidade
 envolvida na manutenção e apresentação dos dados de uma aplicação web.
 
-Item. 64. (CESPE / TJ-CE - 2008) A arquitetura MVC foi desenvolvida recentemente para mapear
+64. (CESPE / TJ-CE - 2008) A arquitetura MVC foi desenvolvida recentemente para mapear
 as
 tarefas complexas de saída do sistema do usuário.
 
-Item. 65. (CESPE / TJ-CE - 2008) Na arquitetura MVC, um controlador define o
+65. (CESPE / TJ-CE - 2008) Na arquitetura MVC, um controlador define o
 comportamento da
 aplicação, já que este é o responsável por interpretar as ações do usuário e as
 relaciona com as
 chamadas do modelo.
 
-Item. 66. (CESPE / TJ-CE - 2008) A arquitetura MVC não separa a informação de sua
+66. (CESPE / TJ-CE - 2008) A arquitetura MVC não separa a informação de sua
 apresentação,
 porque, em sistemas web, informação e apresentação estão na mesma camada.
 
-
-Item. 67. (CESPE / TJ-CE - 2008) O desenvolvimento de sistemas web ocorre
+67. (CESPE / TJ-CE - 2008) O desenvolvimento de sistemas web ocorre
 tipicamente em três
 camadas. A arquitetura MVC aumenta o escopo do desenvolvimento para, no máximo, quatro
 camadas, sendo a quarta camada o processamento dos dados do usuário.
 
-Item. 68. (CESPE / IPEA - 2008) A arquitetura distribuída é caracterizada pelo
+68. (CESPE / IPEA - 2008) A arquitetura distribuída é caracterizada pelo
 compartilhamento de
 recursos computacionais e serviços por meio da comunicação direta e descentralizada
 entre os
@@ -3951,20 +3861,20 @@ sistemas envolvidos e inclui, entre outras coisas, a troca de
 informações, ciclos de
 processamento e espaço de armazenamento em disco.
 
-Item. 69. (CESPE / SERPRO - 2008) Uma arquitetura distribuída permite a divisão de uma
+69. (CESPE / SERPRO - 2008) Uma arquitetura distribuída permite a divisão de uma
 mesma
 tarefa em diferentes processadores em uma mesma CPU. Essa característica
 aumenta a
 velocidade de processamento de uma informação.
 
-Item. 70. (CESPE / TCU - 2007) A arquitetura cliente-servidor tem por motivação sincronizar
+70. (CESPE / TCU - 2007) A arquitetura cliente-servidor tem por motivação sincronizar
 a execução
 de dois processos que devem cooperar um com outro. Assim, dadas duas entidades que
 queiram
 comunicar-se, uma deve iniciar a comunicação enquanto a outra aguarda pela requisição da
 entidade que inicia a comunicação.
 
-Item. 71. (CESPE / DATAPREV - 2006) Uma arquitetura cliente/servidor caracteriza-se pela
+71. (CESPE / DATAPREV - 2006) Uma arquitetura cliente/servidor caracteriza-se pela
 separação
 do cliente, o usuário que acessa ou demanda informações, do servidor. Um exemplo
 típico é um
@@ -3974,7 +3884,7 @@ remotos através de rede de computadores, e que tem como principal deficiência
 a falta de
 escalabilidade.
 
-Item. 72. (CESPE / DATAPREV - 2006) Arquiteturas cliente/servidor podem ser decompostas em
+72. (CESPE / DATAPREV - 2006) Arquiteturas cliente/servidor podem ser decompostas em
 mais
 de duas camadas. Uma configuração muito utilizada é aquela em que os
 clientes acessam
@@ -3982,7 +3892,7 @@ informações por meio de servidores de aplicação, que por sua vez acessam ser
 banco
 de dados. Este tipo de arquitetura é conhecida como arquitetura em 3 camadas, ou three-tier.
 
-Item. 73. (CESPE/CENSIPAM-2006) O padrão MVC organiza um software em modelo, visão e controle.
+73. (CESPE/CENSIPAM-2006) O padrão MVC organiza um software em modelo, visão e controle.
 O modelo encapsula as principais funcionalidades e dados. As visões apresentam os dados
 aos
 usuários. Uma visão obtém os dados do modelo via funções disponibilizadas pelo modelo;
@@ -4001,52 +3911,50 @@ ocorre uma modificação nos seus dados. Portanto, é usado um mecanismo para pr
 de
 modificações que mantém um registro dos componentes que dependem do modelo.
 
-Item. 75. (CESPE / SEAD-PA - 2004) Em um modelo cliente-servidor em que o
+75. (CESPE / SEAD-PA - 2004) Em um modelo cliente-servidor em que o
 processamento é
 concentrado nos clientes e o armazenamento concentrado no servidor, observa-se uma baixa
 carga de tráfego na rede.
 
-
-Item. 76. (CESPE / SERPRO - 2004) Uma das vantagens da arquitetura cliente-servidor é que
+76. (CESPE / SERPRO - 2004) Uma das vantagens da arquitetura cliente-servidor é que
 parte da
 carga de processamento é retirada do servidor e colocada nos vários clientes.
 
-Item. 77. (CESPE / STJ - 2004) As camadas da arquitetura cliente-servidor de três camadas
+77. (CESPE / STJ - 2004) As camadas da arquitetura cliente-servidor de três camadas
 são: camada
 de interface de usuário, camada de regras de negócio e camada de acesso ao banco de dados.
 
-Item. 78. (CESPE / STJ - 2004) Na arquitetura cliente-servidor multicamadas, uma alteração na
+78. (CESPE / STJ - 2004) Na arquitetura cliente-servidor multicamadas, uma alteração na
 camada
 de acesso aos dados não afeta a camada de interface de usuário, desde que essas
 camadas
 estejam na mesma máquina.
 
-Item. 79. (CESPE / STJ - 2004) A arquitetura cliente-servidor multicamadas possui a vantagem
+79. (CESPE / STJ - 2004) A arquitetura cliente-servidor multicamadas possui a vantagem
 de que a
 camada de interface de usuário pode se comunicar diretamente com qualquer outra camada,
 ou
 seja, não existe hierarquia entre camadas.
 
-Item. 80. (CESPE / TRE-RS - 2003) Aplicações com arquitetura cliente-servidor são
+80. (CESPE / TRE-RS - 2003) Aplicações com arquitetura cliente-servidor são
 assimétricas, no
 sentido de que o cliente e o servidor possuem papéis diferentes na arquitetura de comunicações.
 
-Item. 81. (CESPE / TRE-RS - 2003) O servidor, por possuir normalmente um hardware mais
+81. (CESPE / TRE-RS - 2003) O servidor, por possuir normalmente um hardware mais
 robusto,
 sempre deve executara parte mais pesada do processamento.
 
-Item. 82. (CESPE / TRE-RS - 2003) Do ponto de vista das funcionalidades de usuários, o
+82. (CESPE / TRE-RS - 2003) Do ponto de vista das funcionalidades de usuários, o
 servidor não
 precisa necessariamente de uma interface de usuário.
 
-
 GABARITo
 
-Item. 1. ERRADO 41. CORRETO
-Item. 81. ERRADO
+1. ERRADO 41. CORRETO
+81. ERRADO
 
-Item. 2. CORRETO 42. CORRETO
-Item. 82. CORRETO
+2. CORRETO 42. CORRETO
+82. CORRETO
 
 3- CORRETO 43- CORRETO
 
@@ -4054,19 +3962,19 @@ Item. 82. CORRETO
 
 5- LETRA E 45- ERRADO
 
-Item. 6. CORRETO 46. ERRADO
+6. CORRETO 46. ERRADO
 
 7- CORRETO 47- CORRETO
 
-Item. 8. CORRETO 48. CORRETO
+8. CORRETO 48. CORRETO
 
 9- ERRADO 49- CORRETO
 
-Item. 10. ERRADO 50. ERRADO
+10. ERRADO 50. ERRADO
 
 li. ERRADO 51- CORRETO
 
-Item. 12. ERRADO 52. CORRETO
+12. ERRADO 52. CORRETO
 
 13- ERRADA 53- ERRADO
 
@@ -4080,33 +3988,33 @@ i6. CORRETO 56. CORRETO
 
 i8. CORRETO 58. ERRADO
 
-Item. 19. ERRADO 59- CORRETO
+19. ERRADO 59- CORRETO
 
-Item. 20. ERRADO 60. CORRETO
+20. ERRADO 60. CORRETO
 
-Item. 21. CORRETO 61. CORRETO
+21. CORRETO 61. CORRETO
 
-Item. 22. ERRADO 62. CORRETO
+22. ERRADO 62. CORRETO
 
 23- CORRETO 63. CORRETO
 
-Item. 24. ERRADO 64. ERRADO
+24. ERRADO 64. ERRADO
 
 25- CORRETO 65. CORRETO
 
-Item. 26. ERRADO 66. ERRADO
+26. ERRADO 66. ERRADO
 
 27- CORRETO 67. ERRADO
 
-Item. 28. CORRETO 68. CORRETO
+28. CORRETO 68. CORRETO
 
-Item. 29. ERRADO 69. ERRADO
+29. ERRADO 69. ERRADO
 
-Item. 30. ERRADO 70. CORRETO
+30. ERRADO 70. CORRETO
 
 31- ERRADO 71- ERRADO
 
-Item. 32. ERRADO 72. CORRETO
+32. ERRADO 72. CORRETO
 
 33- ERRADO 73- ERRADO
 
@@ -4114,16 +4022,15 @@ Item. 32. ERRADO 72. CORRETO
 
 35- ERRADO 75- CORRETO
 
-Item. 36. ERRADO 76. CORRETO
+36. ERRADO 76. CORRETO
 
 37- CORRETO 77- CORRETO
 
-Item. 38. ERRADO 78. ERRADO
+38. ERRADO 78. ERRADO
 
 39- CORRETO 79- ERRADO
 
-Item. 40. ERRADO 80. CORRETO
-
+40. ERRADO 80. CORRETO
 
 LISTA DE QUESTõES - FCC
 
@@ -4141,14 +4048,13 @@ d) Separação de Interesses.
 
 e) Generalidade.
 
-Item. 2. (FCC /DPE-AM- 2018)
+2. (FCC /DPE-AM- 2018)
 
 Trecho 1:
 
 public int pensaoAlimenticia(){
 
 return Util.getFuncoes.getFuncoesData.calculaPensao(processo);
-
 
 Trecho 2:
 
@@ -4169,7 +4075,7 @@ d) baixo acoplamento e o trecho 2 mostra um exemplo de baixa coesão.
 
 e) baixa coesão e o trecho 2 mostra um exemplo de alto acoplamento.
 
-Item. 3. (FCC / TCM-GO - 2015 - Adaptada) Quanto à Arquitetura em 3 Camadas, é
+3. (FCC / TCM-GO - 2015 - Adaptada) Quanto à Arquitetura em 3 Camadas, é
 necessário um
 arranjo que possibilite a reutilização do código e facilite sua manutenção e seu
 aperfeiçoamento.
@@ -4179,10 +4085,9 @@ de funcionalidades de forma a permitir aos desenvolvedores concentrarem-se em
 diferentes
 partes da aplicação durante a implementação.
 
-Item. 4. (FCC / CNMP - 2015) Há algumas variantes possíveis de arquitetura a serem
+4. (FCC / CNMP - 2015) Há algumas variantes possíveis de arquitetura a serem
 utilizadas em um
 sistema de bancos de dados. Sobre essas variantes, é correto afirmar que:
-
 
 a) na arquitetura de 3 camadas, não há uma camada específica para a aplicação.
 
@@ -4199,7 +4104,7 @@ de dados.
 e) na arquitetura de 2 camadas não há necessidade de uso de um sistema gerenciadorde bancos
 de dados.
 
-Item. 5. (FCC/TJ-AP-2014) Uma arquitetura muito comum em aplicações web é o Modelo Arquitetural
+5. (FCC/TJ-AP-2014) Uma arquitetura muito comum em aplicações web é o Modelo Arquitetural
 3 Camadas:
 
 I. Camada de Persistência.
@@ -4220,7 +4125,7 @@ d) l-Servidor de Banco de Dados - ll-Máquina Cliente - IIl-Servidor de Aplicaç
 
 e) l-Máquina Cliente - ll-Servidor de Banco de Dados - lll-Servidor Web.
 
-Item. 6. (FCC / TST - 2012) Uma arquitetura em camadas:
+6. (FCC / TST - 2012) Uma arquitetura em camadas:
 
 a) possui apenas 3 camadas, cada uma realizando operações que se tornam progressivamente
 mais próximas do conjunto de instruções da máquina.
@@ -4240,7 +4145,6 @@ quadro-negro.
 e) tem, na camada mais externa, os componentes que realizam a interface com o
 sistema
 operacional.
-
 
 7- (FCC / TRF2 - 2012) São aspectos que podem caracterizar uma arquitetura
 cliente-servidor,
@@ -4274,7 +4178,7 @@ d) II, III e IV, apenas.
 
 e) 1,11, III e IV.
 
-Item. 8. (FCC/TST-2012) No padrão MVC é possível definir grupos de componentes principais:
+8. (FCC/TST-2012) No padrão MVC é possível definir grupos de componentes principais:
 o Model
 (Modelo), o View (Apresentação) e o Controller (Controle). Deve fazer parte do componente:
 
@@ -4296,11 +4200,10 @@ e) Model, as classes com métodos conhecidos como setters e getters e que repres
 tabelas
 do banco de dados.
 
-Item. 9. (FCC / MPE-AP - 2012) Em uma Aplicação Web desenvolvida utilizando o design
+9. (FCC / MPE-AP - 2012) Em uma Aplicação Web desenvolvida utilizando o design
 pattern MVC,
 as páginas HTML e as classes com métodos que acessam o banco de dados e executam
 instruções SQL são representadas, respectivamente, nos componentes:
-
 
 a) Presentation e Business.
 
@@ -4359,11 +4262,10 @@ d) (I) Controller; (II) View; (III) Model;
 
 e) (I) Model; (II) View; (III) Controller;
 
-Item. 12. (FCC / TJ-PE - 2012) Com relação à arquitetura MVC, considere:
+12. (FCC / TJ-PE - 2012) Com relação à arquitetura MVC, considere:
 
 I. O MODEL representa os dados da empresa e as regras de negócio que governam o acesso e
 atualização destes dados.
-
 
 II. O VIEW acessa os dados da empresa através do MODEL e especifica como esses dados devem
 ser apresentados. É de responsabilidade do VIEW manter a consistência em sua
@@ -4390,7 +4292,7 @@ d) II, III e IV, apenas.
 
 e) I e II, apenas.
 
-Item. 13. (FCC / MPE-PE - 2012) O componente Controller do MVC:
+13. (FCC / MPE-PE - 2012) O componente Controller do MVC:
 
 a) Define o comportamento da aplicação, as ações do usuário para atualizar os
 componentes de
@@ -4407,7 +4309,7 @@ funcionalidade da aplicação.
 
 e) É onde são concentradas todas as regras de negócio da aplicação e o acesso aos dados.
 
-Item. 14. (FCC /TRT-MT -2011) No projeto de arquitetura modelo-visão-controle (MVC), o controlador:
+14. (FCC /TRT-MT -2011) No projeto de arquitetura modelo-visão-controle (MVC), o controlador:
 
 a) renderiza a interface de usuário a partir da visão, o modelo encapsula
 funcionalidades e
@@ -4421,7 +4323,6 @@ c) encapsula funcionalidades e objetos de conteúdo, o modelo renderiza a interf
 usuário
 a partir da visão e a visão processa e responde a eventos e invoca alterações ao controlador.
 
-
 d) processa e responde a eventos e invoca alterações ao modelo, o modelo
 encapsula
 funcionalidades e objetos de conteúdo e a visão renderiza a interface de usuário a
@@ -4432,7 +4333,7 @@ e) processa e responde a eventos e invoca alterações ao modelo, o modelo rende
 interface
 de usuário a partir da visão e a visão encapsula funcionalidades e objetos de conteúdo.
 
-Item. 15. (FCC/TRT-SE-2Oio) No desenvolvimento de sistemas, no âmbito das relações
+15. (FCC/TRT-SE-2Oio) No desenvolvimento de sistemas, no âmbito das relações
 intermodulares
 entre as classes, diz-se que o programa está bem estruturado quando há:
 
@@ -4446,7 +4347,7 @@ d) maior coesão e menor acoplamento.
 
 e) apenas coesão ou apenas acoplamento.
 
-Item. 16. (FCC /TCM-PA-2010) Extensão natural do conceito de ocultação de informações, que
+16. (FCC /TCM-PA-2010) Extensão natural do conceito de ocultação de informações, que
 diz: "um
 módulo deve executar uma única tarefa dentro do procedimento de software, exigindo pouca
 interação com procedimentos que são executados em outras partes de um
@@ -4463,7 +4364,7 @@ d) visibilidade.
 
 e) recursividade.
 
-Item. 17. (FCC/TRT-SE-2oio) A arquitetura multicamadas divide-se em três camadas lógicas. São elas:
+17. (FCC/TRT-SE-2oio) A arquitetura multicamadas divide-se em três camadas lógicas. São elas:
 
 a) Apresentação, Negócio e Acesso a Dados.
 
@@ -4475,7 +4376,7 @@ d) Manipulação, Natureza e Acesso a Dados.
 
 e) Manipulação, Negócio e Acesso a Dados.
 
-Item. 18. (FCC / METRÔ-SP - 2010) A arquitetura multicamadas divide-se em três camadas
+18. (FCC / METRÔ-SP - 2010) A arquitetura multicamadas divide-se em três camadas
 lógicas. São
 elas:
 
@@ -4488,7 +4389,6 @@ c) Manipulação, Negócio e Acesso a Dados.
 d) Apresentação, Natureza e Acesso a Dados.
 
 e) Apresentação, Negócio e Acesso a Dados.
-
 
 ig.(FCC / AL-SP - 2010) Sobre as camadas do modelo de arquitetura MVC
 (Model- View-
@@ -4511,7 +4411,7 @@ atender a todas as requisições do cliente.
 
 e) Em aplicações web desenvolvidas com Java as servlets são representadas na camada Model.
 
-Item. 20. (FCC / TRT3 - 2009) Considerando o conjunto de tarefas que se relacionam em um
+20. (FCC / TRT3 - 2009) Considerando o conjunto de tarefas que se relacionam em um
 módulo e o
 espectro de medidas da força funcional relativa dos módulos (coesão), a respectiva
 sequência,
@@ -4527,7 +4427,7 @@ d) temporal, comunicacional e sequencial.
 
 e) procedimental, funcional e lógica.
 
-Item. 21. (FCC / TJ-SE - 2009) No modelo de três camadas MVC para web services, o
+21. (FCC / TJ-SE - 2009) No modelo de três camadas MVC para web services, o
 responsável pela
 apresentação que também recebe os dados de entrada do usuário é a camada:
 
@@ -4541,7 +4441,7 @@ d) Data.
 
 e) Model.
 
-Item. 22. (FCC / TRT-MA — 2009) Considere as funções:
+22. (FCC / TRT-MA — 2009) Considere as funções:
 
 I. Seleção do comportamento do modelo.
 
@@ -4550,7 +4450,6 @@ II. Encapsulamento dos objetos de conteúdo.
 III. Requisição das atualizações do modelo.
 
 Na arquitetura Model-View-Control - MVC, essas funções correspondem, respectivamente, a:
-
 
 a) Model, View e Control.
 
@@ -4562,7 +4461,7 @@ d) Control, Model e View.
 
 e) View, Control e Model.
 
-Item. 23. (FCC /TRT-GO-2008) Visando obter maior independência funcional, é adequado que o esforço
+23. (FCC /TRT-GO-2008) Visando obter maior independência funcional, é adequado que o esforço
 seja direcionado ao projeto de módulos:
 
 a) que não usem estruturas de seleção.
@@ -4575,7 +4474,7 @@ d) que não usem estruturas de repetição.
 
 e) cujas tarefas tenham coesão lógica.
 
-Item. 24. (FCC / TRF5 - 2008) Via de regra as divisões da arquitetura de software em três camadas
+24. (FCC / TRF5 - 2008) Via de regra as divisões da arquitetura de software em três camadas
 orientam para níveis que especificam:
 
 a) os casos de uso, a estrutura dos dados e os processos de manutenção.
@@ -4588,33 +4487,31 @@ d) a apresentação, os componentes virtuais e a seqüência de execução.
 
 e) a apresentação, as regras de negócio e o armazenamento de dados.
 
-
 GABARITo
 
-Item. 1. LETRA B 9- LETRA B
+1. LETRA B 9- LETRA B
 17- LETRA A
 
-Item. 2. LETRA C 10. LETRAC
-Item. 18. LETRA E
+2. LETRA C 10. LETRAC
+18. LETRA E
 
 3- LETRAC íi. LETRA A
 19- LETRA D
 
 4- LETRA D 12. LETRA B
-Item. 20. LETRA D
+20. LETRA D
 
 5- LETRA A 13- LETRA A
-Item. 21. LETRA A
+21. LETRA A
 
-Item. 6. LETRAC 14- LETRA D
-Item. 22. LETRA D
+6. LETRAC 14- LETRA D
+22. LETRA D
 
 7- LETRA E 15- LETRA D
 23- LETRA B
 
-Item. 8. LETRA A i6. LETRA A
+8. LETRA A i6. LETRA A
 24- LETRA E
-
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
@@ -4632,7 +4529,7 @@ c) facilitar a criação de dependência entre as classes.
 
 d) aumentar a quantidade de casos de teste.
 
-Item. 2. (UFG / SANEAGO - 2017) O emprego de boas práticas de projeto (design) de
+2. (UFG / SANEAGO - 2017) O emprego de boas práticas de projeto (design) de
 software visa
 resultarem um código:
 
@@ -4644,7 +4541,7 @@ c) fracamente acoplado e altamente coeso.
 
 d) fracamente acoplado e fracamente coeso.
 
-Item. 3. (UFG / SANEAGO - 2017) Dentro dos padrões arquiteturais de software, a
+3. (UFG / SANEAGO - 2017) Dentro dos padrões arquiteturais de software, a
 arquitetura Model-
 View-ViewModel (MVVM) é próxima da arquitetura Model-View-Presenter (MVP),
 porém
@@ -4658,7 +4555,7 @@ c) ligar diretamente as classes de tela (view) e dados (Model) dentro da estrutu
 
 d) vincular a realização de atualizações de tela (view) à atualização de dados (ViewModel).
 
-Item. 4. (IBFC / EBSERH-2017) O modelo de três camadas físicas (3-tier), especificado nas
+4. (IBFC / EBSERH-2017) O modelo de três camadas físicas (3-tier), especificado nas
 alternativas,
 divide um aplicativo de modo que a lógica de negócio resida no meio das três
 camadas, foi
@@ -4678,7 +4575,6 @@ d) MDC (Model-Data-Controller)
 
 e) UVB (User-View-Business).
 
-
 5- (CESGRANRIO / CEFET-RJ - 2014) No contexto da Arquitetura de Sistemas, o MVC
 (model -
 view-controller) é um estilo arquitetural:
@@ -4689,7 +4585,7 @@ c) distribuído
 d) adaptável
 e) monolítico
 
-Item. 6. (IBFC / TRE-AM - 2014) Na arquitetura cliente-servidor, além dos dois principais
+6. (IBFC / TRE-AM - 2014) Na arquitetura cliente-servidor, além dos dois principais
 componentes
 Cliente e o Servidor, existe um terceiro elemento intermediando os dois. Esse
 componente é
@@ -4703,17 +4599,17 @@ c) mainware.
 
 d) centerware.
 
-Item. 7. (IBFC / TRE-AM - 2014) No desenvolvimento de sistemas dentro do conceito da
+7. (IBFC / TRE-AM - 2014) No desenvolvimento de sistemas dentro do conceito da
 arquitetura
 cliente-servidor de três camadas, temos as seguintes camadas:
 
-Item. 1. Camada de Dados.
+1. Camada de Dados.
 
-Item. 2. Camada de Apresentação.
+2. Camada de Apresentação.
 
-Item. 3. Camada de Aplicações.
+3. Camada de Aplicações.
 
-Item. 4. Camada de Negócio.
+4. Camada de Negócio.
 
 Estão corretas as afirmativas:
 
@@ -4725,7 +4621,7 @@ c) somente 1, 3 e 4.
 
 d) somente 1, 2 e 3.
 
-Item. 8. (ESAF/CGU-2012) A definição de que um sistema deve ser desenvolvido em três
+8. (ESAF/CGU-2012) A definição de que um sistema deve ser desenvolvido em três
 níveis é feita
 pelo padrão de projeto:
 
@@ -4739,8 +4635,7 @@ d) PMC (Project Main Controller).
 
 e) MCA (Model Classes Assignment).
 
-Item. 9. (ESAF / CVM - 2010) Modelo MVC significa:
-
+9. (ESAF / CVM - 2010) Modelo MVC significa:
 
 a) Modo-View-Construtor.
 
@@ -4752,18 +4647,16 @@ d) Módulo-Verificador-Controlador.
 
 e) Medida-Virtual-Concepção.
 
-
 GABARITo
 
-Item. 1. LETRA B 4- LETRA A
+1. LETRA B 4- LETRA A
 7- LETRA A
 
-Item. 2. LETRA C 5- LETRA A
-Item. 8. LETRA A
+2. LETRA C 5- LETRA A
+8. LETRA A
 
 3- LETRA B 6. LETRA B
 9- LETRA B
-
 
 Conceitos Básicos
 
@@ -4824,7 +4717,6 @@ Na arquitetura hexagonal, materializamos as decisões de tecnologia por meio de
 adaptadores. O
 diagrama a seguir fornece uma visão de alto nível da arquitetura:
 
-
 Dependency Inversion
 
 Hexágono de Domínio
@@ -4866,7 +4758,6 @@ modelar.
 Esse é o caso de novos projetos de software em que nem os desenvolvedores nem os
 especialistas
 do domínio têm uma visão clara do objetivo do sistema em seus estágios iniciais.
-
 
 Em tais cenários, que são particularmente recorrentes em ambientes de startups,
 é normal e
@@ -4979,7 +4870,6 @@ ser apenas outros aplicativos em um grande ecossistema que precisam interagir
 com alguns
 recursos de software expostos.
 
-
 Essa comunicação ocorre por meio de uma API (Application Programming Interface)
 construída
 sobre os adaptadores de entrada. Essa API define como as entidades externas irão
@@ -5006,7 +4896,6 @@ algumas
 tarefas específicas da aplicação. Cabe ao adaptador de saída descrever como obterá os
 dados.
 Vejam um diagrama de adaptadores de saída e Operações Driven:
-
 
 Principais Vantagens
 
@@ -5069,7 +4958,6 @@ menos tentar.
 
 Testabilidade
 
-
 Um dos objetivos finais da arquitetura hexagonal é permitir que os
 desenvolvedores testem a
 aplicação quando suas dependências externas não estiverem presentes, como sua
@@ -5104,5 +4992,4 @@ móveis ou outras plataformas.
 Ela também torna mais fácil a substituição de infra estruturas ou tecnologias, pois
 não há dependências entre o domínio e a
 infraestrutura, resultando em um código de domínio de alta qualidade e portabilidade (Correto).
-
 

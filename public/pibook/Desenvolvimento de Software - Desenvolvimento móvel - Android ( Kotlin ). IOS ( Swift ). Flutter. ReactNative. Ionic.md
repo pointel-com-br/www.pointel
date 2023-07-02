@@ -1,10 +1,8 @@
-Capítulo. Desenvolvimento de Software - Desenvolvimento móvel - Android ( Kotlin ). IOS ( Swift ). Flutter. ReactNative. Ionic.
-
+# Desenvolvimento de Software - Desenvolvimento móvel - Android ( Kotlin ). IOS ( Swift ). Flutter. ReactNative. Ionic.
 
 Índice
 
 1) Dispositivos Móveis
-
 
 Sumário
 
@@ -87,11 +85,9 @@ Exibindo e ocultando controladores de exibição
 
 U/ViewController
 
-
 /' 204
 
 /
-
 
 UlTableViewController
 
@@ -146,11 +142,9 @@ Flutter
 
 Gabarito
 
-
 /' 204
 
 /
-
 
 APRESENTAçÃo DA AULA
 
@@ -174,7 +168,6 @@ www.temok.com
 
 ANDROID VERSIONS LIST: A COMPLETE HISTORY & FEATURES
 
-
 android
 android
 
@@ -186,11 +179,9 @@ Kotlin. O Kotlin é uma linguagem moderna e concisa que traz várias melhorias e
 relação ao Java,
 tornando o desenvolvimento Android mais eficiente e agradável.
 
-
 / 204
 
 /
-
 
 Além do desenvolvimento nativo para iOS e Android, existe também a opção de
 desenvolvimento
@@ -240,9 +231,7 @@ depende dos requisitos do projeto, da equipe de desenvolvimento e do
 público-alvo. Agora é
 hora de debruçar nos estudos e aprender sobre dispositivos móveis! @
 
-
 ,
-
 
 Conceitos Básicos
 
@@ -280,11 +269,9 @@ o Android é um sistema operacional de código aberto, desenvolvido
 principalmente para
 dispositivos móveis, como smartphones e tablets. (Gabarito: Letra D)
 
-
 /' 204
 
 /
-
 
 Além do kernel, o Android possui uma série de
 bibliotecas adicionais que facilitam a adição de
@@ -333,11 +320,9 @@ faturamento em aplicativos, atualizações e integração com o Google Assistant
 
 x-'"
 
-
 /' 204
 
 /
-
 
 Algumas bibliotecas mais antigas, como a Android Support Library e a Android
 Test Support
@@ -375,11 +360,9 @@ geral dos aplicativos recentes. Com esse botão, você pode alternar rapidamente
 entre os
 aplicativos abertos e acessar funções de multitarefa.
 
-
 / 204
 
 /
-
 
 FOR YOU
 
@@ -412,9 +395,7 @@ d) Menu, volta, Iniciar.
 
 Comentários:
 
-
 ,
-
 
 Os botões que compõem a barra de navegação do Android são: b) Menu,
 voltar e aplicativos
@@ -486,9 +467,7 @@ que avise o usuário sobre um evento futuro. Ao entregar esse alarme a um
 receptor de
 transmissão, o aplicativo não precisa permanecer em execução até o alarme ser desativado. Muitas
 
-
 ,
-
 
 transmissões têm origem no sistema — por exemplo, uma transmissão que
 informa o
@@ -525,7 +504,6 @@ que é um arquivo de sufixo .apk. Os arquivos de APK contêm todo o conteúdo de
 app Android
 e são os arquivos que os dispositivos desenvolvidos para Android usam para instalar o
 aplicativo.
-
 
 Cada app Android é ativado na própria sandbox de segurança, protegido pelos seguintes
 recursos
@@ -625,9 +603,7 @@ como contatos, mensagens SMS, armazenamento externo, câmera, Bluetooth, entre
 outros. É
 importante ressaltar que essas permissões devem ser concedidas explicitamente pelo usuário.
 
-
 ,
-
 
 Os componentes fundamentais de uma biblioteca, juntamente com o arquivo de
 manifesto que
@@ -656,7 +632,6 @@ cada app tenha
 sua identidade de usuário exclusiva e que a interação entre os aplicativos seja controlada e
 segura.
 
-
 .
 
 i (CEBRASPE - TCE-PA / 2016) O Android, sistema operacional Linux multiusuário em que cada
@@ -668,7 +643,6 @@ i
 =
 
 Comentários:
-
 
 : Perfeita questão! Vejam que há um alinhamento bem intenso em relação à documentação. O ;
 
@@ -703,11 +677,9 @@ memória
 modificada por um
 app, seja por alocação de objetos ou manipulação de páginas mapeadas, permanece armazenada
 
-
 / 204
 
 /
-
 
 na RAM e não pode ser despaginada. A única forma de liberar memória de um app é
 remover as
@@ -776,11 +748,9 @@ o tamanho
 lógico do heap. Esse tamanho pode aumentar dinamicamente, mas apenas até um limite
 definido
 
-
 /' 204
 
 /
-
 
 pelo sistema para cada app, levando em consideração a quantidade de RAM
 disponível no
@@ -849,11 +819,9 @@ memória física. Portanto, é crucial gerenciar cuidadosamente a alocação e l
 memória
 em aplicativos Android.
 
-
 /' 204
 
 /
-
 
 Tanto o Android Runtime (ART) quanto a máquina virtual Dalvik realizam a
 coleta de lixo
@@ -919,11 +887,9 @@ localização do dispositivo, simular diferentes velocidades de rede, girar o di
 e acessar a
 Google Play Store, entre outros recursos.
 
-
 /' 204
 
 /
-
 
 Por fim, o teste no emulador tende a ser mais rápido e fácil em comparação com um
 dispositivo
@@ -989,11 +955,9 @@ do código, proporcionando uma experiência de uso aprimorada e uma resposta
 rápida aos
 comandos dos usuários.
 
-
 /' 204
 
 /
-
 
 Outro componente importante presente no ecossistema Android são os Content Providers.
 Esses
@@ -1011,9 +975,7 @@ Providers, é possível estabelecer uma comunicação eficiente entre os aplicat
 facilitando a
 troca de informações e enriquecendo a experiência do usuário no universo Android.
 
-
 ,
-
 
 AndroidManifest
 
@@ -1071,14 +1033,11 @@ interações com o usuário.
 * <service>: Especifica os serviços em segundo plano que podem ser executados pelo
 aplicativo.
 
-
 x-""' 20
-
 
 /' 204
 
 /
-
 
 * <receiver>: Define os receptores de transmissão (broadcast
 receivers), que são
@@ -1145,11 +1104,9 @@ esses recursos.
 
 Limites da execução em segundo plano
 
-
 / 204
 
 /
-
 
 Sempre que um aplicativo é executado em segundo plano, ele consome parte
 dos recursos
@@ -1215,7 +1172,6 @@ Um aplicativo será considerado como estando em primeiro plano se qualquer uma d
 condições
 a seguir for verdadeira:
 
-
 * Ele tem uma atividade visível, independentemente de ela estar em andamento ou pausada.
 
 * Ele tem um serviço de primeiro plano.
@@ -1279,7 +1235,6 @@ todos os
 aplicativos no dispositivo.
 
 Guia de migração
-
 
 A partir da versão 8.0 do Android, houve mudanças que afetam a forma como os
 aplicativos em
@@ -1349,9 +1304,7 @@ Essas permissões são definidas utilizando a classe Manifest.permission, que é
 um conjunto de
 constantes pré-definidas pelo sistema Android.
 
-
 ,
-
 
 Quando um aplicativo solicita uma permissão, o usuário é notificado sobre
 quais recursos o
@@ -1408,7 +1361,6 @@ solicitadas pelo aplicativo no Manifest, é possível determinar quais recursos 
 aplicativo pode
 acessar.
 
-
 í (FGV- Banestes / 2018) Sempre que um aplicativo precisa de acesso a um recurso
 protegido por :
 
@@ -1418,11 +1370,9 @@ incluindo =
 : um elemento <uses-permission> no arquivo Manifest do aplicativo.
 =
 
-
 / 204
 
 /
-
 
 A permissão que deve ser incluída no arquivo Manifest para que o aplicativo possa
 identificar se
@@ -1474,7 +1424,6 @@ PERMISSÃO | DESCRIÇÃO
 
 ANDROID.PERMISSION.INTERNET Permite o acesso à internet.
 
-
 ANDROID.PERMISSION.ACCESS_NETWORK_STATE
 ANDROID.PERMISSION.READ_EXTERNAL_STORAGE
 
@@ -1492,11 +1441,9 @@ Permite o acesso à localização precisa (usando GPS).
 
 x-"'
 
-
 /' 204
 
 /
-
 
 ANDROID.PERMISSION.ACCESS_COARSE_LOCATION
 
@@ -1564,11 +1511,9 @@ atividades
 
 CALENDAR Utilizada para permissões relacionadas ao calendário do usuário
 
-
 /' 204
 
 /
-
 
 Utilizada para permissões relacionadas aos registros de chamadas
 Utilizada para permissões relacionadas ao acesso à câmera do
@@ -1601,11 +1546,9 @@ Utilizada para permissões relacionadas a mensagens SMS do usuário
 Utilizada para permissões relacionadas ao armazenamento externo
 compartilhado
 
-
 / 204
 
 /
-
 
 Classes
 
@@ -1671,11 +1614,9 @@ alinhamentos personalizados. É útil para criar layouts complexos e responsivos
 CardView é uma
 classe de layout usada para exibir informações ou conteúdo de forma elegante e consistente, com
 
-
 / 204
 
 /
-
 
 um design semelhante a cartões. Ele pode ser utilizado para exibir itens individuais
 ou agrupar
@@ -1689,7 +1630,6 @@ CLASSE | DESCRIÇÃO
 
 Layout simples que contém um único elemento filho. É útil para exibir
 
-
 FRAMELAYOUT
 
 um único elemento em tela cheia ou sobreposto a outros elementos.
@@ -1701,7 +1641,6 @@ TABLELAYOUT Layout que organiza elementos filhos em uma grade bidimensional de
 linhas e colunas. É útil para exibir dados tabulares.
 
 Layout que permite posicionar elementos filhos em relação uns aos
-
 
 RELATIVELAYOUT
 
@@ -1722,14 +1661,12 @@ visualizações, como rolagem, recuo e ancoragem. É útil para criar
 interfaces de usuário com efeitos de sobreposição e comportamentos
 especiais.
 
-
 SCROLLVIEW
 
 Layout que permite que o conteúdo dentro dele seja rolado
 verticalmente quando excede o tamanho da tela. É útil quando o
 conteúdo não cabe completamente na tela e precisa ser rolado para
 visualização completa.
-
 
 GRIDLAYOUT
 
@@ -1738,13 +1675,11 @@ linhas e colunas. É útil quando você precisa posicionar elementos em
 uma grade fixa ou quando a estrutura precisa se adaptar dinamicamente
 ao número de elementos.
 
-
 CARDVIEW
 
 Visualização que permite criar cartões estilizados com sombras, cantos
 arredondados e outros efeitos visuais. É útil para destacar visualmente
 certos elementos na interface do usuário.
-
 
 VIEWPAGER
 
@@ -1783,39 +1718,32 @@ CLASSE | DESCRIÇÃO
 
 Classe auxiliar que facilita o manuseio de consultas
 
-
 ASYNCQUERYHANDLER
 
 assíncronas no ContentResolver.
-
 
 ASYNCTASKLOADER
 
 Classe abstrata que fornece uma implementação base para
 carregadores de tarefas assíncronas.
 
-
 CLIPDATA
 
 Classe que representa um dado recortado na área de
 transferência no Android.
-
 
 CONTEXT
 
 Classe abstrata que representa um contexto no Android,
 fornecendo acesso a informações globais sobre o aplicativo.
 
-
 ENTITY
 
 Classe final que representa uma entidade.
 
-
 /' 204
 
 /
-
 
 LOADER
 
@@ -1872,9 +1800,7 @@ atividade. Nesse momento, quaisquer alterações feitas pelo usuário devem ser 
 (geralmente
 em um ContentProvider que mantém os dados). A atividade ainda é visível na tela nesse estado.
 
-
 ,
-
 
 Para poder ser usado com Context.startActivity()z todas as classes de atividade devem
 ter uma
@@ -1936,11 +1862,9 @@ gerenciar a
 criação, exibição e fechamento de diálogos de forma mais conveniente. Esses métodos são
 úteis
 
-
 /' 204
 
 /
-
 
 para associar um diálogo a uma atividade específica e lidar com a interação entre o
 diálogo e a
@@ -2005,11 +1929,9 @@ qualquer código do
 aplicativo, permitindo monitorar toda a interação do sistema com
 o aplicativo. Uma
 
-
 / 204
 
 /
-
 
 implementação de Instrumentation é descrita para o sistema por meio da tag
 <instrumentation>
@@ -2075,14 +1997,11 @@ nome, o
 coerente e
 reconhecível em toda a plataforma.
 
-
 /' 204
 
 /
 
-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 Android Enterprise
 
@@ -2144,11 +2063,9 @@ de segurança, realizando atualizações e aplicando políticas em tempo real.
 
 Casos de Uso Android Enterprise
 
-
 / 204
 
 /
-
 
 Existem vários casos de uso comuns, como citado anteriormente, no contexto do
 Android
@@ -2216,9 +2133,7 @@ profissional i
 
 = armazenados separadamente.
 
-
 ,
-
 
 b) Dispositivos de propriedade da empresa, que suportam dois perfis (pessoal
 e profissional)
@@ -2271,9 +2186,7 @@ interpreta e renderiza os elementos
 da página, proporcionando uma
 experiência visual de qualidade aos usuários. Adicionalmente, o WebKit é uma tecnologia
 
-
 ,
-
 
 essencial para o desenvolvimento de navegadores e aplicativos que exibem
 conteúdo web,
@@ -2342,21 +2255,17 @@ podem definir a lógica de tratamento para as mensagens recebidas, possibilitand
 integração
 eficiente e personalizada entre o JavaScript e o WebView.
 
-
 /' 204
 
 /
-
 
 INTERFACES | DESCRIÇÃO
 
 Um manipulador que produz respostas para um caminho
 
-
 WEBVIEWASSETLOADER.PATHHANDLER
 
 registrado.
-
 
 WEBVIEWCOMPAT.VISUALSTATECALLBACK
 
@@ -2420,11 +2329,9 @@ configurações predefinidas para o TracingController. Ela oferece métodos para
 definir opções de
 s'"
 
-
 /' 204
 
 /
-
 
 rastreamento, como os eventos a serem rastreados e os recursos a serem coletados
 durante a
@@ -2485,11 +2392,9 @@ Service
 
 Workers.
 
-
 /' 204
 
 /
-
 
 TRACINGCONFIG
 
@@ -2548,9 +2453,7 @@ Support Library são suportados no dispositivo.
 WebViewRenderProcess fornece um identificador opaco para
 um renderizador WebView.
 
-
 /
-
 
 WEBVIEWRENDERPROCESSCLIENT Usado para receber retornos de chamada em eventos
 renderizador WebView.
@@ -2616,11 +2519,9 @@ defaultConfig {}. Essas configurações serão mescladas no arquivo de manifesto
 do aplicativo
 durante o processo de compilação.
 
-
 /' 204
 
 /
-
 
 Cada versão sucessiva do aplicativo deve ter um valor de versionCode maior que o da
 versão
@@ -2692,9 +2593,7 @@ de segurança pode verificar a assinatura usando a chave pública do certificado
 assinatura for
 válida e o certificado puder ser confiável, o código é considerado autêntico e não foi adulterado.
 
-
 ,
-
 
 Ao seguir esses procedimentos de assinatura, os desenvolvedores garantem a
 autenticidade do
@@ -2730,11 +2629,9 @@ fabricante, inserida pelo certificado Code Signing, fornece confiança e seguran
 usuário final,
 mas não envolve alterações no software em si. (Gabarito: Errado)
 
-
 /' 204
 
 /
-
 
 SWIFT
 
@@ -2800,18 +2697,16 @@ código aberto. Essa licença permite que os desenvolvedores utilizem, modifique
 distribuam a
 linguagem Swift de acordo com os termos da licença.
 
-
 /' 204
 
 /
-
 
 (CEBRASPE - TRT - 7a Região (CE) / 2017) Assinale a opção que apresenta a
 linguagem de
 programação disponível, grátis e em código aberto, para desenvolvedores sob a licença
 Apache
 
-Item. 2.0 e desenvolvida pela Apple para a criação de aplicativos para IOS.
+2.0 e desenvolvida pela Apple para a criação de aplicativos para IOS.
 
 a) Xcode
 b) Swift
@@ -2867,11 +2762,9 @@ recursos avançados e uma curva de aprendizado mais suave. Com o Swift, os
 desenvolvedores
 podem criar aplicativos iOS eficientes e poderosos, aproveitando as amplas bibliotecas e recursos
 
-
 / 204
 
 /
-
 
 : disponíveis na plataforma da Apple. Portanto, o Swift é a linguagem de programaçao
 desenvolvida
@@ -2938,11 +2831,9 @@ um usuário fez:
 let maximumNumberOfLoginAttempts = 10
 var currentLoginAttempt = 0
 
-
 /' 204
 
 /
-
 
 Esse código pode ser lido da seguinte forma: "Declare uma nova
 constante chamada
@@ -3000,11 +2891,9 @@ vírgulas, com uma única anotação de tipo após o nome da variável final:
 var redj green, blue: Double
 s'"
 
-
 /' 204
 
 /
-
 
 Observação:
 
@@ -3066,11 +2955,9 @@ novamente com o mesmo nome ou alterá-la para armazenar valores de um tipo difer
 Também não é possível alterar uma constante para uma variável ou uma variável para uma
 constante.
 
-
 /' 204
 
 /
-
 
 Se você precisa dar o mesmo nome de uma palavra-chave reservada do Swift a uma
 constante ou
@@ -3098,7 +2985,6 @@ languageName = "Swift++"
 
 // Isso é um erro de compilação: languageName não pode ser alterado.
 Imprimindo Constantes e Variáveis
-
 
 Você pode imprimir o valor atual de uma constante ou variável
 usando a função
@@ -3161,7 +3047,6 @@ podem ser aninhados dentro de outros comentários de várias linhas. Você pode 
 
 *
 
-
 comentários aninhados iniciando um bloco de comentário de várias linhas e, em seguida,
 iniciando
 um segundo bloco de comentário dentro do primeiro bloco. O segundo bloco é então
@@ -3219,9 +3104,7 @@ exemplo acima) e, portanto, podem ser usados em expressões junto com outros val
 mesmo
 tipo.
 
-
 ,
-
 
 Int
 
@@ -3241,7 +3124,7 @@ valores inteiros em seu código. Isso ajuda na consistência e interoperabilidad
 código. Mesmo
 em plataformas de 32 bits, Int pode armazenar qualquer valor entre
 -2.147.483.648 e
-Item. 2.147.483.647 e é grande o suficiente para muitos intervalos de inteiros.
+2.147.483.647 e é grande o suficiente para muitos intervalos de inteiros.
 
 Ulnt
 
@@ -3279,11 +3162,9 @@ armazenados em um Int. O Swift fornece dois tipos de números de ponto flutuante
 
 * Float representa um número de ponto flutuante de 32 bits.
 
-
 /' 204
 
 /
-
 
 Double tem uma precisão de pelo menos 15 dígitos decimais, enquanto a precisão do
 Float pode
@@ -3347,9 +3228,7 @@ Da mesma forma, se você não especificar um tipo para um literal de ponto flutu
 o Swift inferirá
 que você deseja criar um Double:
 
-
 ,
-
 
 let pi = 3.14159
 
@@ -3406,11 +3285,9 @@ Para números decimais com um expoente de x, o número base é multiplicado por 
 
 Para números hexadecimais com um expoente de x, o número base é multiplicado por 2X:
 
-
 / 204
 
 /
-
 
 * 0xFp2 significa 15 x 22, ou 60.0.
 
@@ -3470,9 +3347,7 @@ de um tipo inteiro dimensionado é relatado como um erro durante a compilação 
 
 let cannotBeNegative: UInt8 = -1
 
-
 ,
-
 
 // UInt8 não pode armazenar números negativos., portanto isso gerará um erro
 let tooBig: Int8 = Int8.max + 1
@@ -3540,7 +3415,6 @@ inteiro pode ser inicializado com um valor "Double" ou "Float". Valores de ponto
 
 *
 
-
 sempre truncados ao serem usados para inicializar um novo valor inteiro dessa forma.
 Isso significa
 que 4.75 se torna 4 e -3.9 se torna -3.
@@ -3602,14 +3476,11 @@ Valores booleanos são especialmente úteis quando se trabalha com declarações
 condicionais,
 como a declaração if:
 
-
 x-"'" 60
-
 
 /' 204
 
 /
-
 
 if turnipsAneDelicious {
 print("Mmm, tasty turnips!")
@@ -3674,7 +3545,6 @@ let http404Error = (404, "Not Found")
 
 *
 
-
 A tupla (404, "Not Found") agrupa um Int e uma String para dar ao código de status
 HTTP dois
 valores separados: um número e uma descrição legível para humanos. Pode ser descrita
@@ -3737,11 +3607,9 @@ print("A mensagem de status é (http200Status.description)")
 
 x-"'
 
-
 /' 204
 
 /
-
 
 Tuplas são particularmente úteis como valores de retorno de funções. Uma
 função que tenta
@@ -3803,9 +3671,7 @@ não retorna um valor em si. A seguinte declaração não é válida:
 
 if x = y {
 
-
 www. estra tegiaconcursos. com. br
-
 
 // Isso não é válido, porque x = y não retorna um valor.
 
@@ -3834,7 +3700,7 @@ Swift suporta os quatro operadores aritméticos padrão para todos os tipos num�
 5 - 3 // resulta em 2
 2*3// resulta em 6
 
-Item. 10.0 / 2.5 // resulta em 4.0
+10.0 / 2.5 // resulta em 4.0
 
 Ao contrário dos operadores aritméticos em C e Objective-C, os operadores aritméticos
 do Swift
@@ -3860,11 +3726,9 @@ A expressão a += 2 é uma forma abreviada de a = a + 2. Efetivamente, a adiçã
 a atribuição sao
 combinadas em um único operador que realiza ambas as tarefas ao mesmo tempo.
 
-
 /' 204
 
 /
-
 
 Operadores de comparação:
 
@@ -3925,7 +3789,6 @@ seu valor; caso contrário, ele avalia resposta2 e retorna seu valor.
 O operador condicional ternário é uma forma abreviada para o código abaixo:
 
 *
-
 
 if pergunta {
 respostal
@@ -3989,7 +3852,6 @@ suporta os três operadores lógicos padrão encontrados em linguagens baseadas 
 * Operador lógico OR (a II b)
 
 *
-
 
 * Operador lógico NOT
 
@@ -4057,7 +3919,6 @@ x-"'
 
 /
 
-
 O operador lógico OR (a II b) é um operador infixo composto por dois
 caracteres de pipe
 adjacentes. Ele é usado para criar expressões lógicas em que apenas um dos dois
@@ -4120,11 +3981,9 @@ acesso.
 
 x-'"
 
-
 /' 204
 
 /
-
 
 Com base nos valores de codigoPortaDigitado, retinaEscanerAprovado e
 possuiChavePorta, as
@@ -4184,14 +4043,11 @@ está vazia verificando sua propriedade Booleana isEmpty. Por exemplo, você pod
 bloco
 condicional para imprimir uma mensagem se a string estiver vazia:
 
-
 x-""' 69
-
 
 /' 204
 
 /
-
 
 if emptyString.isEmpty {
 print("Nada para ver aqui")
@@ -4255,9 +4111,7 @@ let string2 = " mundo"
 
 var saudacao = stringl + string2
 
-
 ,
-
 
 // saudacao agora é "olá mundo"
 
@@ -4312,11 +4166,9 @@ let soma = "A soma de \(a) e \(b) é \(a + b)"
 // soma é "A soma de 10 e 5 é 15"
 func multiplican(_ x: Int, y: Int) -> Int {
 
-
 /' 204
 
 /
-
 
 return x * y
 
@@ -4375,11 +4227,9 @@ código:
 
 let quantidade = 4 let valor = 10
 
-
 / 204
 
 /
-
 
 = Dado o código acima, o programador deseja uma string saida cujo valor seja
 
@@ -4461,11 +4311,9 @@ correta para obter
 
 = o resultado desejado.
 
-
 /' 204
 
 /
-
 
 = e) let saida = "valor total = \[quantidade*valor]"
 :
@@ -4476,7 +4324,6 @@ interpolação =
 : de strings em Swift.
 :
 
-
 : Portanto, a opção correta é a letra d): let saida = "valor total =
 \(quantidade*valor)". Essa opção =
 
@@ -4485,11 +4332,9 @@ da operação de =
 
 = multiplicação quantidade*valor dentro da string. (Gabarito: Letra D)
 
-
 / 204
 
 /
-
 
 View controllers
 
@@ -4539,11 +4384,9 @@ do seu aplicativo. Você também pode definir container view controllers
 personalizados para
 implementar novos esquemas de navegação.
 
-
 / 204
 
 /
-
 
 Você pode construir a interface do usuário
 do seu aplicativo utilizando view controllers
@@ -4588,13 +4431,11 @@ dados específicos exibidos. É comum usar o mesmo tipo de página em
 diferentes partes do
 aplicativo, preenchendo cada uma delas com diferentes conjuntos de dados.
 
-
 Para cada página distinta, defina um view controller para representar essa página e
 gerenciar suas
 visualizações correspondentes. Definir um view controller sempre envolve a
 criação de uma
 subclasse e a adição de comportamento personalizado. Todo view controller precisa realizar o
-
 
 Tabular interface
 seguinte:
@@ -4620,7 +4461,6 @@ armazenam o
 conteúdo do seu aplicativo. Especificamente, um view controller gerencia uma
 hierarquia de
 visualizações e as informações de estado necessárias para manter essas visualizações atualizadas.
-
 
 Todo aplicativo UlKit depende muito dos view controllers para apresentar
 conteúdo, e você
@@ -4650,7 +4490,6 @@ adicionar mais.
 
 Adicione visualizações ao seu view controller
 
-
 UlImageView
 
 Root view
@@ -4675,7 +4514,6 @@ visualizações. Restrições são regras que especificam
 como dimensionar e posicionar cada visualização em
 relação à sua visualização pai ou irmã, e elas garantem
 que suas visualizações se adaptem automaticamente a diferentes ambientes e dispositivos.
-
 
 Armazene referências para visualizações importantes
 
@@ -4736,9 +4574,7 @@ fácil de implementar, mas oferece menos flexibilidade e torna mais difícil tes
 validar
 seu código.
 
-
 ,
-
 
 * Implemente métodos de delegado e ação em uma extensão de classe em
 seu view
@@ -4777,15 +4613,15 @@ Ao apresentar um view controller na tela, o UlKit precisa primeiro carregar
 e configurar as
 visualizações correspondentes, o que ele faz seguindo a seguinte sequência de etapas:
 
-Item. 1. Cria cada visualização usando o método init(coder:) da visualização
+1. Cria cada visualização usando o método init(coder:) da visualização
 
-Item. 2. Conecta visualizações às ações e outlets correspondentes no view controller
+2. Conecta visualizações às ações e outlets correspondentes no view controller
 
-Item. 3. Chama o método awakeFromNibO de cada visualização e do view controller
+3. Chama o método awakeFromNibO de cada visualização e do view controller
 
-Item. 4. Atribui a hierarquia de visualizações à propriedade view do view controller
+4. Atribui a hierarquia de visualizações à propriedade view do view controller
 
-Item. 5. Chama o método viewDidLoadQ do view controller
+5. Chama o método viewDidLoadQ do view controller
 
 No momento do carregamento, realize apenas as etapas de configuração única necessárias
 para
@@ -4802,39 +4638,37 @@ aparecerem pela
 primeira vez na tela. O UlKit notifica o view controller proprietário quando suas visualizações
 estão
 
-
 ,
-
 
 aparecendo na tela e atualiza o layout dessas visualizações para se adequar ao
 ambiente atual da
 seguinte maneira:
 
-Item. 1. Chama o viewWillAppear(_:) no início da transição
+1. Chama o viewWillAppear(_:) no início da transição
 
-Item. 2. Adiciona a visualização à hierarquia
+2. Adiciona a visualização à hierarquia
 
-Item. 3. Atualiza as coleções de traits do view controller e de sua visualização
+3. Atualiza as coleções de traits do view controller e de sua visualização
 
-Item. 4. Atualiza a geometria da visualização, incluindo seu tamanho e posição em sua
+4. Atualiza a geometria da visualização, incluindo seu tamanho e posição em sua
 visualização pai.
 Atualiza as margens de layout e a área segura, e chama
 viewLayoutMarginsDidChangeO e
 viewSafeArealnsetsDidChangeO, se necessário
 
-Item. 5. Chama o método viewlsAppearing(_:) para informar que a visualização do view
+5. Chama o método viewlsAppearing(_:) para informar que a visualização do view
 controller está
 aparecendo na tela
 
-Item. 6. Chama o método viewWilILayoutSubviewsO
+6. Chama o método viewWilILayoutSubviewsO
 
-Item. 7. Atualiza o layout da hierarquia de visualizações
+7. Atualiza o layout da hierarquia de visualizações
 
-Item. 8. Chama o método viewDidLayoutSubviews()
+8. Chama o método viewDidLayoutSubviews()
 
-Item. 9. Exibe as visualizações na tela
+9. Exibe as visualizações na tela
 
-Item. 10. Chama o método viewDidAppear(_:) do view controller após a conclusão de
+10. Chama o método viewDidAppear(_:) do view controller após a conclusão de
 quaisquer
 animações
 
@@ -4862,7 +4696,7 @@ necessidade do controlador de exibição, ao fechá-lo, suas visualizações sã
 janela.
 Existem três maneiras de apresentar controladores de exibição:
 
-Item. 1. Configurar apresentações visualmente em seu storyboard:
+1. Configurar apresentações visualmente em seu storyboard:
 
 Essa técnica envolve o uso de "segues1" em seu storyboard, sendo a abordagem
 recomendada
@@ -4876,7 +4710,6 @@ para definir um fluxo de navegação ou uma transição específica. Por exemplo
 em um botão em um controlador de exibição, você pode
 definir um "segue" para apresentar outro controlador de exibição relacionado.
 
-
 www. estra tegiaconcursos. com. br
 de um controlador de exibição para outro. Um "segue" é iniciado por uma ação, como
 um toque
@@ -4888,7 +4721,7 @@ apresenta. Como você cria e configura os "segues" em seu storyboard, é
 possível alterá-los
 rapidamente.
 
-Item. 2. Incorporá-los em um controlador de exibição de contêiner:
+2. Incorporá-los em um controlador de exibição de contêiner:
 
 Essa técnica envolve colocar um controlador de exibição dentro de outro controlador de
 exibição,
@@ -4898,7 +4731,7 @@ gerencia a apresentação e ocultação dos controladores de exibição
 incorporados. Essa
 abordagem oferece um alto grau de controle sobre o processo de apresentação e ocultação.
 
-Item. 3. Chamar métodos diretamente da classe UIViewController:
+3. Chamar métodos diretamente da classe UIViewController:
 
 Essa técnica envolve chamar métodos diretamente da classe UIViewController para
 apresentar e
@@ -4940,19 +4773,17 @@ partir de linhas de tabela e células de visualização em coleção.
 
 x'"'
 
-
 /' 204
 
 /
 
-
-Item. 1. Para começar, clique com o botão direito do mouse
+1. Para começar, clique com o botão direito do mouse
 no controle ou objeto no controlador de exibição atual.
 
-Item. 2. Arraste o cursor até o controlador de exibição que
+2. Arraste o cursor até o controlador de exibição que
 você deseja apresentar.
 
-Item. 3. Selecione o tipo de "segue" desejado na lista
+3. Selecione o tipo de "segue" desejado na lista
 fornecida pelo Xcode.
 
 No storyboard, as "segues" são mostradas como uma
@@ -5002,7 +4833,6 @@ exibição
 tratar um evento, o controlador de exibição tem a opção de tratar o evento ou
 repassá-lo para a
 visualização pai.
-
 
 Os controladores de exibição raramente são usados isoladamente. Em vez disso,
 frequentemente
@@ -5066,9 +4896,7 @@ ou grouped). Você também deve substituir os métodos do data source e do deleg
 necessários
 para preencher sua tabela com dados. Você pode substituir o método loadViewQ ou qualquer
 
-
 ,
-
 
 outro método da superclasse, mas se fizer isso, certifique-se de invocar a
 implementação da
@@ -5135,11 +4963,9 @@ alterações de
 
 -s""
 
-
 / 204
 
 /
-
 
 características que afetam o tamanho de um controlador de exibição, o UIKit chama
 esses métodos
@@ -5207,14 +5033,11 @@ mostra um exemplo da interface de navegação apresentada pelo aplicativo de Con
 no
 iOS Simulator. A primeira tela apresenta ao usuário a lista de aplicativos que contêm preferências.
 
-
 x-"'" 86
-
 
 /' 204
 
 /
-
 
 Ao selecionar um aplicativo, são reveladas as configurações individuais e grupos de
 configurações
@@ -5349,9 +5172,7 @@ controladores de visualização de conteúdo sob demanda e deve
 seguir o protocolo
 UIPageViewControllerDataSource. O objeto de delegado - um objeto que segue o protocolo
 
-
 ,
-
 
 UIPageViewControllerDelegate - fornece algumas informações relacionadas à aparência
 e recebe
@@ -5360,7 +5181,6 @@ notificações sobre transições iniciadas por gestos.
 Ufa! Umuuuuito comteúdo não é mêsmo? Fiz uma tabela para ajudá-los a memorizar.
 
 VIEW CONTROLLER | DESCRIÇÃO
-
 
 UIVIEWCONTROLLER
 
@@ -5372,48 +5192,40 @@ UITABLEVIEWCONTROLLER Um view controller que se especializa em gerenciar uma tab
 UICOLLECTIONVIEWCONTROLLER Um view controller que se especializa em gerenciar uma collection
 view.
 
-
 UICONTENTCONTAINER
 
 Um conjunto de métodos para adaptar o conteúdo dos seus view
 controllers a alterações de tamanho e traits.
-
 
 UISPLITVIEWCONTROLLER
 
 Um view controller de contêiner que gerencia a navegação entre páginas
 de conteúdo, onde cada página é gerenciada por um child view controller.
 
-
 UINAVIGATIONCONTROLLER
 
 Um view controller de navegação que gerencia a pilha de view controllers,
 permitindo a transição entre eles.
-
 
 UINAVIGATIONBAR
 
 Uma barra que normalmente é exibida na parte superior da janela,
 contendo botões para navegação em uma hierarquia de telas.
 
-
 UINAVIGATIONITEM
 
 Um objeto que contém botões e views a serem exibidos na barra de
 navegação, associado a um view controller.
-
 
 UITABBARCONTROLLER
 
 Um view controller de abas que exibe abas na parte inferior da janela e
 gerencia a exibição de views para cada aba selecionada.
 
-
 UITABBAR
 
 Uma barra exibida na parte inferior da janela que contém os itens de cada
 aba do UlTabBarController.
-
 
 UIPAGEVIEWCONTROLLER
 
@@ -5478,11 +5290,9 @@ significa que é possível estender as capacidades de comparação de igualdade
 para tipos
 personalizados, além dos tipos básicos fornecidos pela biblioteca padrão do Swift.
 
-
 / 204
 
 /
-
 
 Essa flexibilidade oferecida pelos protocolos e pelas extensões condicionais
 permite que os
@@ -5509,11 +5319,9 @@ closure que determine a equivalência. O seguinte exemplo mostra como o método
 contains(:)
 pode ser usado com um array de strings.
 
-
 /' 204
 
 /
-
 
 Conceitos Básicos
 
@@ -5565,14 +5373,11 @@ interfaces de usuário. Esses componentes nativos são diferentes dos componente
 pois
 são renderizados diretamente nas APIs nativas de cada plataforma, como iOS e Android.
 
-
 x-""' 92
-
 
 /' 204
 
 /
-
 
 Os elementos do React são renderizados na interface de usuário nativa da
 plataforma, o que
@@ -5645,11 +5450,9 @@ e atualizar a aparência e o comportamento do botão em tempo real.
 
 s'"
 
-
 /' 204
 
 /
-
 
 O uso adequado de props e state é essencial para criar componentes reutilizáveis e
 dinâmicos no
@@ -5715,11 +5518,9 @@ imagem selecionada. Para adicionar State a um componente, utilize um destes Hook
 * useReducer declara uma variável de State com a lógica de atualização dentro de uma função
 redutora.
 
-
 / 204
 
 /
-
 
 function ImageGallery() {
 
@@ -5778,14 +5579,12 @@ estado
 componente Text.
 Vejamos uma questão sobre o assunto.
 
-
 i (CESGRANRIO - Banco do Brasil / 2023) O React Native 0.59 introduziu o conceito de
 Hooks.
 
 = Entre os Hooks, tem-se o usestate, que permite
 
 I
-
 
 I
 
@@ -5794,18 +5593,15 @@ I
 
 = b) chamar estados específicos do engine React para alterar seu comportamento.
 
-
 / 204
 
 /
-
 
 c) declarar uma classe que segue o padrão de design state.
 
 d) criar uma enumeration que representa estados.
 
 e) manter um estado local em uma função de um componente funcional.
-
 
 : Comentários:
 =
@@ -5875,14 +5671,11 @@ const theme = useContext(ThemeContext);
 
 // ...
 
-
 x-""' 96
-
 
 /' 204
 
 /
-
 
 Ref Hooks
 
@@ -5940,11 +5733,9 @@ Existem duas variações raramente usadas de useEffect com diferenças no tempo 
 * useLayoutEffect é disparado antes de o navegador repintar a tela. Você pode medir o layout
 aqui.
 
-
 / 204
 
 /
-
 
 * uselnsertionEffect é disparado antes de o React fazer alterações no DOM. Bibliotecas
 podem inserir CSS dinâmico aqui.
@@ -5988,14 +5779,11 @@ que outras atualizações a interrompam.
 * useDeferredValue permite adiar a atualização de uma parte não crítica da interface do
 usuário e permitir que outras partes se atualizem primeiro.
 
-
 x-"'" 98
-
 
 /' 204
 
 /
-
 
 lONIC
 
@@ -6057,11 +5845,9 @@ confiáveis e
 padronizadas: HTML, CSS e JavaScript, usando APIs web modernas, como Elementos
 x-""' 99
 
-
 /' 204
 
 /
-
 
 Personalizados e Shadow DOM. Por causa disso, os componentes do lonic têm uma API
 estável e não dependem exclusivamente de um único fornecedor de plataforma.
@@ -6125,11 +5911,9 @@ iOS, Android e a web. Com o @ionic/vue, você pode usar todos os componentes
 principais do
 lonic, mas de uma maneira que se sinta como o uso de componentes nativos do Vue.
 
-
 /' 204
 
 /
-
 
 A CLI oficial do lonic, ou Interface de Linha de Comando, é uma ferramenta que cria
 rapidamente
@@ -6186,11 +5970,9 @@ nativos do
 
 i Errado)
 
-
 /' 204
 
 /
-
 
 Conceitos Básicos
 
@@ -6254,14 +6036,11 @@ base de código compartilhada. Isso resulta em maior eficiência, economia de te
 manutenção
 simplificada.
 
-
 /' 204
 
 /
 
-
 ..
-
 
 i (UFC - UFC / 2019 - Adaptada) Sobre o desenvolvimento de aplicações
 móveis, assinale a
@@ -6269,7 +6048,6 @@ móveis, assinale a
 = alternativa correta.
 
 I
-
 
 i
 
@@ -6282,13 +6060,11 @@ de aplicativos
 
 I
 
-
 i
 
 : Comentários:
 
 I
-
 
 i
 
@@ -6345,7 +6121,6 @@ dispositivos i
 
 I
 
-
 I
 
 : Além disso, o Flutter oferece um conjunto abrangente de widgets pré-fabricados, que são como i
@@ -6372,11 +6147,9 @@ para atender às demandas dos usuários. Nesse cenário competitivo, alguns
 frameworks se
 destacam como os mais conhecidos e amplamente usados em todo o mundo.
 
-
 /' 204
 
 /
-
 
 No topo dessa lista está o Flutter, desenvolvido pelo Google. Com sua abordagem de
 "escreva
@@ -6443,23 +6216,19 @@ i
 
 I
 
-
 I
 
 i () Flutter () Corona SDK () JQuery Mobile
 
 I
 
-
 I
 
 : Assinale a alternativa que apresenta a sequência correta de cima para baixo:
 
-
 / 204
 
 /
-
 
 h) v, v, v
 i
@@ -6496,7 +6265,6 @@ programação Dart. ;
 : pouco tempo. Além disso, o Flutter é gratuito e de código aberto, o que significa que qualquer
 
 = pessoa pode usá-lo e contribuir para o seu desenvolvimento.
-
 
 : Agora, imagine que você quer construir uma casa que seja compatível com diferentes
 tipos de i
@@ -6556,9 +6324,7 @@ incríveis. Ele oferece j
 responsivo, mas i
 i também fornece uma variedade de controles (widgets) como sliders, toggles e abas. É como ter =
 
-
 ,
-
 
 = um conjunto de peças de design únicas que permitem construir casas incríveis e
 adaptáveis a todos
@@ -6627,11 +6393,9 @@ O widget Row é como uma linha de mesas. Você pode colocar vários elementos (c
 botões,
 imagens ou textos) dentro dessa linha. O Row vai se ajustar automaticamente para que esses
 
-
 /' 204
 
 /
-
 
 elementos preencham o espaço horizontal disponível. Se você adicionar mais
 elementos, eles
@@ -6697,11 +6461,9 @@ do container. É como se você pudesse pintar a caixa, colocar uma moldura e aju
 espaço ao
 redor dela.
 
-
 /' 204
 
 /
-
 
 i (CEBRASPE - TRT - 8a Região (PA e AP) / 2022) O widget básico do Flutter que
 permite criar i
@@ -6743,11 +6505,9 @@ proporcionam i
 Flutter.( Gabarito: i
 í Letra B)
 
-
 / 204
 
 /
-
 
 Conceitos Básicos
 
@@ -6781,11 +6541,9 @@ do Kotlin em projetos já existentes e permite que desenvolvedores aproveitem os
 benefícios da
 linguagem sem a necessidade de reescrever todo o código.
 
-
 /' 204
 
 /
-
 
 Além disso, o Kotlin oferece recursos poderosos, como a inferência de tipos,
 que permite ao
@@ -6850,11 +6608,9 @@ extensão, lambdas e parâmetros nomeados, às bibliotecas Android existentes.
 Multiplatform permite o
 desenvolvimento não apenas para Android, mas também para iOS, backend e aplicações
 
-
 /' 204
 
 /
-
 
 web. Algumas bibliotecas Jetpack já são multiplataforma. O Compose Multiplatform,
 o
@@ -6923,11 +6679,9 @@ preferências.
 Isso permite que você aproveite as funcionalidades de ambas as linguagens, chamando
 funções
 
-
 /' 204
 
 /
-
 
 de um lado para o outro e trabalhando com dados armazenados por aplicativos
 Java. A
@@ -6985,11 +6739,9 @@ Kotlin/Native:
 
 * frameworks C, Swift e Objective-C
 
-
 /' 204
 
 /
-
 
 É fácil incluir código Kotlin compilado em projetos existentes escritos em C, C++,
 Swift, Objective-
@@ -7042,11 +6794,9 @@ println(args.contentToString())
 
 }
 
-
 /' 204
 
 /
-
 
 Impressão na saída padrão
 print imprime seu argumento na saída padrão.
@@ -7094,9 +6844,7 @@ Variáveis locais somente leitura sao definidas usando a palavra-chave vai. Elas
 receber um
 valor apenas uma vez. Essas variáveis podem receber um valor somente uma vez, e após a
 
-
 ,
-
 
 atribuição inicial, não podem mais ser modificadas. Por exemplo, ao definir a constante
 "a" com
@@ -7146,9 +6894,7 @@ i
 
 I
 
-
 I
-
 
 I
 
@@ -7156,12 +6902,10 @@ I
 
 I
 
-
 : a)vai idademinima : Int = 18
 ;
 
 I
-
 
 I
 
@@ -7172,7 +6916,6 @@ I
 
 I
 
-
 I
 
 d) var idademinima : Int = 18
@@ -7181,9 +6924,7 @@ e) var idademinima : Integer = 18
 
 Comentários:
 
-
 www. estra tegiaconcursos. com. br
-
 
 Na linguagem de programação Kotlin, para criar uma variável cujo valor nunca pode ser
 alterado,
@@ -7240,11 +6981,9 @@ open class Shape
 class Rectangle(var height: Double., var length: Double): Shape() {
 var perimeter = (height + length) * 2
 
-
 /' 204
 
 /
-
 
 Comentários
 
@@ -7299,9 +7038,7 @@ usando "${s1 .replace("é",
 Portanto, "s2"
 será igual a "a foi 1, mas agora é 2".
 
-
 *
-
 
 Expressões condicionais
 
@@ -7343,7 +7080,6 @@ flexibilidade da expressão if permite um código conciso e legível, tornando a
 lógica condicional
 mais intuitiva e simplificada no Kotlin.
 
-
 fun maxOf(a: Int, b:
 if (a > b) {
 
@@ -7370,11 +7106,9 @@ sintaxe do loop "for" é
 simples: você declara uma variável de iteração e especifica a coleção que será
 percorrida. Em cada
 
-
 / 204
 
 /
-
 
 iteração, a variável assume o valor de um elemento da coleção, permitindo
 que você execute
@@ -7436,11 +7170,9 @@ index++
 
 }
 
-
 / 204
 
 /
-
 
 Expressão when
 
@@ -7468,7 +7200,6 @@ possa provar que todos os casos possíveis são abrangidos pelas condições dos
 ramos, por
 exemplo, em casos de entradas de classes enumeradas e subtipos de classes seladas.
 
-
 fun describe(obj:
 
 when (obj) {
@@ -7476,7 +7207,6 @@ when (obj) {
 Any): String =
 
 -> Um
-
 
 "Hello" ->
 
@@ -7497,7 +7227,6 @@ i ( FGV - TJ RO/ 2021) Analise o código Kotlin exibido a seguir.
 
 I
 
-
 I
 
 : fun main() {
@@ -7505,14 +7234,12 @@ I
 
 I
 
-
 I
 
 : val classe = ?
 i
 
 I
-
 
 : val resposta = when (classe) {
 i
@@ -7531,21 +7258,17 @@ i {true -> "Gold" false -> "Iron"}
 
 I
 
-
 I
 
 : else->"Dado inválido."
 :
 
-
 :println(resposta)
 =
-
 
 / 204
 
 /
-
 
 p
 
@@ -7619,11 +7342,9 @@ Portanto, o código i
 segue para o bloco alternativo e atribui o valor "Iron" à variável "resposta". Finalmente, o valor
 =
 
-
 /' 204
 
 /
-
 
 de "resposta" é exibido utilizando o comando "println", resultando na impressão
 de "5/lron"
@@ -7683,11 +7404,9 @@ Kotlin oferece interfaces genéricas, classes e funções para criar, preencher 
 coleções
 de qualquer tipo.
 
-
 /' 204
 
 /
-
 
 Tipos de coleção
 
@@ -7751,11 +7470,9 @@ List, que
 incluem as funcionalidades de uma coleção, bem como operações específicas de
 listas, como
 
-
 / 204
 
 /
-
 
 acessar elementos por índices e realizar operações de adição, remoção e
 modificação de
@@ -7821,11 +7538,9 @@ eles. Os
 índices começam do zero - o índice do primeiro elemento - e vão até lastlndex, que é (list.size
 -1).
 
-
 /' 204
 
 /
-
 
 Elementos da lista (incluindo nulos) podem ser duplicados: uma lista pode conter
 qualquer número
@@ -7889,11 +7604,9 @@ se tiverem o mesmo tamanho e, para cada elemento de um conjunto, houver um eleme
 igual
 no outro conjunto.
 
-
 /' 204
 
 /
-
 
 A implementação padrão de MutableSet - LinkedHashSet - preserva a ordem de
 inserção dos
@@ -7957,11 +7670,9 @@ in numbersMap. Se a chave estiver presente, imprimimos o valor correspondente à
 usando
 numbersMap["chave2"].
 
-
 /' 204
 
 /
-
 
 Depois, verificamos se o valor 1 está presente nos valores do mapa
 usando 1 in
@@ -8017,11 +7728,9 @@ Caso o último elemento não deva ser incluído no intervalo, pode-se usar a
 função until. Por
 exemplo:
 
-
 / 204
 
 /
-
 
 for (i in 1 until 10) {
 print(i)
@@ -8081,11 +7790,9 @@ Kotlin!
 public class Classe_Java {
 private String aula;
 
-
 / 204
 
 /
-
 
 private String professor;
 private int d = 0;
@@ -8150,11 +7857,9 @@ ambas as linguagens, facilitando a migração gradual de projetos existentes ou 
 combinação de
 código Kotlin e Java em um único projeto.
 
-
 / 204
 
 /
-
 
 ELEMENTOS-CHAVE DA
 PROGRAMAÇÃO ORIENTADA A
@@ -8166,7 +7871,6 @@ JAVA KOTLIN
 public class Pessoa {
 private String nome;
 private int idade;
-
 
 CLASSE
 
@@ -8199,7 +7903,6 @@ idade + " anos.");
 
 }
 
-
 INSTÂNCIAS
 
 FUNÇÕES
@@ -8231,9 +7934,7 @@ return a + b
 
 fun main() {
 
-
 ,
-
 
 public static void main(String[]
 args) {
@@ -8257,19 +7958,16 @@ $resultado")
 
 }
 
-
 for (int i = 1; i <= 5; i++) {
 
 for (i in 1 ..5) {
 
 println(" Número: $i")
 
-
 LOOPFOR
 
 System.out.println("Número: " + }
 i);
-
 
 LOOPWHILE
 
@@ -8297,7 +7995,6 @@ i++;
 
 int day = 3; vai day = 3
 
-
 LOOPWHEN
 
 switch (day) {
@@ -8320,7 +8017,6 @@ else -> println("Outro dia da
 semana")
 
 }
-
 
 System.out.println( "Terça-feira");
 
@@ -8364,11 +8060,9 @@ VOID
 OBJECT
 STRING
 
-
 /' 204
 
 /
-
 
 Array
 enum class
@@ -8378,7 +8072,6 @@ annotation
 
 N/A (não há)
 Byte
-
 
 REFERÊNCIAS
 
@@ -8397,11 +8090,9 @@ https://api.flutter.dev/
 https://docs.swift.org/swift-book/documentation/the-swift-programming-language/
 https://docs.flutter.dev/
 
-
 /' 204
 
 /
-
 
 Android
 
@@ -8442,7 +8133,7 @@ contínuo da linguagem.
 
 Gabarito: Letra B
 
-Item. 2. (FGV - IBGE / 2016) Um desenvolvedor Android deseja inserir a funcionalidade de
+2. (FGV - IBGE / 2016) Um desenvolvedor Android deseja inserir a funcionalidade de
 backup em
 uma aplicação móvel para, de tempos em tempos, armazenar dados automaticamente. A classe
 da API de Backup (versão 6.0 ou superior) a ser utilizada é a:
@@ -8459,9 +8150,7 @@ e) BackupDataStream.
 
 Comentários:
 
-
 www. estra tegiaconcursos. com. br
-
 
 A classe BackupManager da API de Backup do Android é fundamental para implementar o
 backup
@@ -8481,7 +8170,7 @@ situações como reinstalação ou migração de dispositivo.
 
 Gabarito: Letra C
 
-Item. 3. (FGV - Banestes / 2018) Sempre que um aplicativo precisa de acesso a um recurso
+3. (FGV - Banestes / 2018) Sempre que um aplicativo precisa de acesso a um recurso
 protegido
 por uma permissão no sistema operacional Android, ele precisa declarar essa
 necessidade
@@ -8523,13 +8212,11 @@ tipo de conexão disponível.
 
 Gabarito: Letra B
 
-
 /' 204
 
 /
 
-
-Item. 4. (FUNDATEC - CRF-PR / 2021) Android Enterprise é uma solução para dispositivos
+4. (FUNDATEC - CRF-PR / 2021) Android Enterprise é uma solução para dispositivos
 Android que
 visa gerenciar o uso de dispositivos móveis no ambiente corporativo. Analise os casos
 de uso
@@ -8575,7 +8262,7 @@ em que a empresa tem acesso a ambos os perfis por questões de segurança.
 
 Gabarito: Letra E
 
-Item. 5. (AOCP - Pref Novo Hamburgo / 2020) São considerados sistemas operacionais móveis:
+5. (AOCP - Pref Novo Hamburgo / 2020) São considerados sistemas operacionais móveis:
 
 a) Windows Phone e Windows XP.
 
@@ -8587,11 +8274,9 @@ d) Android e Minix.
 
 e) Symbian OS e Windows Phone.
 
-
 /' 204
 
 /
-
 
 Comentários:
 
@@ -8637,7 +8322,7 @@ Portanto, a alternativa correta é a d) Android e Minix, poisambos são sistemas
 
 Gabarito: Letra D
 
-Item. 6. (IBADE - Pref Jaru/ 2019) O sistema operacional indicado para dispositivos
+6. (IBADE - Pref Jaru/ 2019) O sistema operacional indicado para dispositivos
 móveis é
 denominado:
 
@@ -8652,7 +8337,6 @@ d) Z/OS.
 e) AIX.
 
 Comentários:
-
 
 www. estra tegiaconcursos. com. br
 a) Windows Server: Essa opção não é correta. O Windows Server é um sistema
@@ -8692,7 +8376,7 @@ em dispositivos móveis.
 
 Gabarito: Letra C
 
-Item. 7. (UNESC- Pref Criciúma/2019) O sistema android possibilita que seus usuários possam
+7. (UNESC- Pref Criciúma/2019) O sistema android possibilita que seus usuários possam
 agrupar
 seus aplicativos em pastasde acordo com sua necessidade. Qual a ação necessária para a criação
 de uma pasta no android:
@@ -8713,29 +8397,27 @@ A ação necessária para a criação de uma pasta no Android é a opção b) Ar
 aplicativo e
 sobrepô-lo a outro. Explicação: Para criar uma pasta no Android, basta seguir os seguintes passos:
 
-Item. 1. Na tela inicial do seu dispositivo Android, localize o aplicativo que deseja
+1. Na tela inicial do seu dispositivo Android, localize o aplicativo que deseja
 colocar em uma
 pasta.
 
-Item. 2. Pressione e segure o ícone do aplicativo com o dedo.
-
+2. Pressione e segure o ícone do aplicativo com o dedo.
 
 www. estra tegiaconcursos. com. br
 
-
-Item. 3. Arraste o ícone do aplicativo em direção a outro aplicativo que você deseja agrupar na
+3. Arraste o ícone do aplicativo em direção a outro aplicativo que você deseja agrupar na
 mesma pasta.
 
-Item. 4. Ao sobrepor o ícone do primeiro aplicativo sobre o segundo, o Android criará
+4. Ao sobrepor o ícone do primeiro aplicativo sobre o segundo, o Android criará
 automaticamente uma pasta e os dois aplicativos serão colocados dentro dela.
 
-Item. 5. A pasta será criada com um nome padrão, geralmente baseado na categoria dos aplicativos.
+5. A pasta será criada com um nome padrão, geralmente baseado na categoria dos aplicativos.
 Você pode renomear a pasta para algo mais descritivo, se desejar.
 
-Item. 6. Para adicionar mais aplicativos à pasta, basta arrastá-los para dentro da pasta da mesma
+6. Para adicionar mais aplicativos à pasta, basta arrastá-los para dentro da pasta da mesma
 maneira que você fez anteriormente.
 
-Item. 7. Você também pode arrastar aplicativos para fora da pasta se desejar movê-los para a tela
+7. Você também pode arrastar aplicativos para fora da pasta se desejar movê-los para a tela
 inicial novamente.
 
 Essa é a maneira comum de criar pastas no Android, permitindo que os usuários
@@ -8744,7 +8426,7 @@ aplicativos de acordo com suas necessidades e preferências.
 
 Gabarito: Letra B
 
-Item. 8. (UNESC - Pref Criciúma/ 2019) As primeiras versões do sistema operacional
+8. (UNESC - Pref Criciúma/ 2019) As primeiras versões do sistema operacional
 android
 apresentavam a barra de navegação de forma física. Com o surgimento de novas versões
 do
@@ -8790,13 +8472,11 @@ botões de navegação, mas a funcionalidade básica geralmente permanece a mesm
 
 Gabarito: Letra B
 
-
 / 204
 
 /
 
-
-Item. 9. (FAU UNICENTRO - IF PR/ 2019) No desenvolvimento para dispositivos móveis
+9. (FAU UNICENTRO - IF PR/ 2019) No desenvolvimento para dispositivos móveis
 utilizando
 Android podemos utilizar alguns tipos de layout que facilitam o desenvolvimento das
 telas de
@@ -8843,11 +8523,9 @@ Comentários:
 exemplo, abaixo ou
 acima de um componente existente.
 
-
 / 204
 
 /
-
 
 (2) FrameLayout: Utilizado quando necessário que um componente preencha a tela
 inteira do
@@ -8909,11 +8587,9 @@ um aplicativo pode capturar e enviar arquivos armazenados no cartão SD do celul
 utiliza
 o sistema Android.
 
-
 /' 204
 
 /
-
 
 Comentários:
 
@@ -8963,7 +8639,7 @@ Android
 
 Gabarito: Correto
 
-Item. 13. (CEBRASPE - ABIN / 2018) Para garantir que o software gerado no servidor chegue
+13. (CEBRASPE - ABIN / 2018) Para garantir que o software gerado no servidor chegue
 ao usuário
 final, utiliza-se um certificado code signing, que altera o software e também
 insere uma
@@ -8979,9 +8655,7 @@ autenticidade e integridade do software, garantindo que o código não tenha sid
 modificado após
 a assinatura ter sido aplicada.
 
-
 www. estra tegiaconcursos. com. br
-
 
 O certificado Code Signing serve para verificar a identidade do desenvolvedor
 ou fabricante do
@@ -9043,11 +8717,9 @@ A resposta correta é a alternativa D: OnCreate. No contexto da programação pa
 Android, uma
 "activity" é uma classe que representa uma tela ou uma janela com a qual o usuário interage.
 
-
 /' 204
 
 /
-
 
 Quando uma activityé criada, o método onCreate() é chamado para inicializara activitye
 configurar
@@ -9097,7 +8769,7 @@ mainframe.
 
 Gabarito: Letra D
 
-Item. 17. (AOCP - CODEM - PA / 2017) O Sistema Operacional Android é
+17. (AOCP - CODEM - PA / 2017) O Sistema Operacional Android é
 a) baseado em núcleo Linux e é utilizado exclusivamente em celulares.
 
 b) um sistema operacional proprietário e é utilizado principalmente em dispositivos móveis.
@@ -9115,11 +8787,9 @@ alternativa A está
 incorreta, pois o Android é baseado em núcleo Linux, porém não é utilizado
 exclusivamente em
 
-
 /' 204
 
 /
-
 
 celulares. Além dos celulares, ele também é usado em tablets, smartwatches, smart TVs
 e outros
@@ -9190,11 +8860,9 @@ e) A Content Providers, na arquitetura Android, gerencia as apresentações de
 janelas e os
 tratamentos gráficos das aplicações.
 
-
 / 204
 
 /
-
 
 Comentários:
 
@@ -9268,9 +8936,7 @@ exclusiva.
 
 Comentários:
 
-
 www. estra tegiaconcursos. com. br
-
 
 Perfeita questão! O Android, como sistema operacional Linux multiusuário, possui uma
 abordagem
@@ -9298,7 +8964,7 @@ outros aplicativos.
 
 Gabarito: Correto
 
-Item. 21. (IADES - Perito Criminal (PC DF)/ 2016) Quer saber o que é um celular Android?
+21. (IADES - Perito Criminal (PC DF)/ 2016) Quer saber o que é um celular Android?
 O Android é
 um sistema operacional para aparelhos móveis - celulares (nesse caso, smartphones) e
 tablets.
@@ -9338,11 +9004,9 @@ privados, ou execute quaisquer funções que não estão diretamente relacionada
 com a
 aplicação em si, deve-se declarar a permissão em arquivo XML específico.
 
-
 / 204
 
 /
-
 
 c) Uma activity é uma descrição abstrata de uma operação a ser executada. Ela
 representa uma
@@ -9416,9 +9080,7 @@ de uma intent, mas ela não é exclusivamente responsável por isso.
 
 Gabarito: Letra A
 
-
 www. estra tegiaconcursos. com. br
-
 
 22.(FUNRI0 - IF-PA/ 2016) Pode-se dividir o software em três categorias bem
 específicas:
@@ -9487,7 +9149,6 @@ instalação de
 um perfil de Provisionamento de Distribuição Corporativa em um aparelho com iOS permite
 a) a execução de aplicativos corporativos obtidos da App Store.
 
-
 www. estra tegiaconcursos. com. br
 b) a instalação de aplicativos a partir de um endereço corporativo.
 
@@ -9554,11 +9215,9 @@ e) terminar apenas o aplicativo em uso.
 
 Comentários:
 
-
 /' 204
 
 /
-
 
 Caso o conjunto de aplicativos utilizados exceda o total de memória
 disponível, o sistema
@@ -9594,11 +9253,9 @@ memória, o Android busca equilibrar a execução dos aplicativos de acordo com 
 
 Gabarito: Letra B
 
-
 / 204
 
 /
-
 
 Kotlin
 í. (CESGRANRIO - Banco do Brasil/ 2023) Kotlin é uma linguagem de programação usada no
@@ -9657,7 +9314,6 @@ Essa afirmação está incorreta. O Kotlin permite que suas funções sejam cham
 código Java,
 assim como também permite que funções feitas em Java sejam chamadas por código Kotlin. A
 
-
 www. estra tegiaconcursos. com. br
 interoperabilidade entre as duas linguagens permite que o desenvolvedortrabalhe com ambas
 sem
@@ -9675,7 +9331,7 @@ entre as duas linguagens.
 
 Gabarito: Letra E
 
-Item. 2. (FCM - CEFETMINAS / 2022) Com relação ao desenvolvimento de aplicativos móveis,
+2. (FCM - CEFETMINAS / 2022) Com relação ao desenvolvimento de aplicativos móveis,
 relacione
 as linguagens de programação com suas características.
 
@@ -9710,11 +9366,9 @@ Originalmente, foi criada para o desenvolvimento de aplicações no lado cliente
 mas evoluiu
 para possibilitar o desenvolvimento de aplicações desktop e no lado servidor.
 
-
 / 204
 
 /
-
 
 ( ) Mantida pela Oracle, é composta por uma linguagem de programação e uma plataforma
 computacional utilizada como base por muitas aplicações. É orientada a objetos, o que
@@ -9779,11 +9433,9 @@ significa que não é necessário declarar explicitamente o tipo das variáveis.
 ganhado
 popularidade no desenvolvimento de aplicativos móveis, especialmente para Android.
 
-
 / 204
 
 /
-
 
 Desenvolvida e mantida pela JetBrains, ela combina elementos da programação
 orientada a
@@ -9821,7 +9473,7 @@ pela Apple, ainda existem aplicativos legados escritos em Objective-C.
 
 Gabarito: Letra A
 
-Item. 3. (FGV-TJ RO/2021) Analise o código Kotlin exibido a seguir.
+3. (FGV-TJ RO/2021) Analise o código Kotlin exibido a seguir.
 fun main() {
 
 vai classe = ?
@@ -9838,7 +9490,6 @@ vai resposta = when (classe) {
 {true -> "Gold" false -> "Iron"}
 else -> "Dado inválido."
 
-
 println(resposta)
 
 }
@@ -9849,11 +9500,9 @@ computado e exibido pelo comando println é:
 
 a) 3 / Iron
 
-
 /' 204
 
 /
-
 
 b) 4/Iron
 c) 5 / Iron
@@ -9889,7 +9538,7 @@ em outro bloco
 when para fazer uma nova seleção condicional com base no resultado da expressão classe
 % 2 ==
 
-Item. 0. Essa expressão verifica se o valor de classe é divisível por 2 (ou seja, se é
+0. Essa expressão verifica se o valor de classe é divisível por 2 (ou seja, se é
 par). Se a expressão
 classe % 2 == o for avaliada como verdadeira (par), a resposta atribuída à variável
 resposta será
@@ -9919,7 +9568,7 @@ na impressão de "5/lron" como resposta final.
 
 Gabarito: Letra C
 
-Item. 4. (Cesgranrio - Caixa / 2021) Na linguagem de programação Kotlin, é possível criar
+4. (Cesgranrio - Caixa / 2021) Na linguagem de programação Kotlin, é possível criar
 uma variável
 cujo valor nunca pode ser mudado, na prática, uma constante, com o nome idademinima,
 do
@@ -9927,11 +9576,9 @@ tipo básico inteiro de 32 bits, com o valor 18.
 
 Para que isso aconteça, qual das seguintes instruções deve ser usada?
 
-
 / 204
 
 /
-
 
 a) vai idademinima : Int = 18
 
@@ -9968,7 +9615,7 @@ Int = 18".
 
 Gabarito: Letra A
 
-Item. 5. (CESPE - PGDF/ 2021) O Spring WebFlux é compatível com Java 8 lambdas e Kotlin
+5. (CESPE - PGDF/ 2021) O Spring WebFlux é compatível com Java 8 lambdas e Kotlin
 e tem a
 vantagem de permitira criação de microsserviços com requisitos menos complexos.
 
@@ -9994,15 +9641,13 @@ informação adicional ao estudo de Kotlin.
 
 Gabarito: Correto
 
-Item. 6. (CESPE - PGDF/ 2021) O JUnit 5 é formado por JUnit Platform, JUnit Júpiter e
+6. (CESPE - PGDF/ 2021) O JUnit 5 é formado por JUnit Platform, JUnit Júpiter e
 JUnit Vintage; o
 JUnit Júpiter pode ser utilizado em programas escritos em Kotlin.
 
 Comentários:
 
-
 www. estra tegiaconcursos. com. br
-
 
 O JUnit 5 é um framework de teste que consiste em três projetos principais: JUnit
 Platform, JUnit
@@ -10040,7 +9685,7 @@ JUnit, porém é uma informação adicional ao estudo de Kotlin.
 
 Gabarito: Correto
 
-Item. 7. (AOCP - Prefeitura de Novo Hamburgo - RS / 2020) Considerando o
+7. (AOCP - Prefeitura de Novo Hamburgo - RS / 2020) Considerando o
 ambiente de
 desenvolvimento Android Studio, assinale a alternativa que apresenta apenas
 linguagens
@@ -10072,11 +9717,9 @@ simples e mais segura em comparação com o Java, além de trazer recursos
 avançados que
 aumentam a produtividade do desenvolvedor.
 
-
 / 204
 
 /
-
 
 Java, por sua vez, é a linguagem de programação nativa do Android. Ela tem sido
 amplamente
@@ -10096,7 +9739,7 @@ recomendado para criar interfaces de usuário no contexto do desenvolvimento And
 
 Gabarito: Letra E
 
-Item. 8. (CESGRANRIO - Banco do Brasil / 2021) Foi solicitado a um programador de sistemas
+8. (CESGRANRIO - Banco do Brasil / 2021) Foi solicitado a um programador de sistemas
 de
 informação que transformasse uma classe escrita em Java em uma classe equivalente, para
 ser
@@ -10135,11 +9778,9 @@ c) class AlunoKotlin (vai nome: String, vai codigo: String)
 
 { private this.nome = nome
 
-
 /' 204
 
 /
-
 
 private this.codigo=codigo
 private var int numero = o
@@ -10191,7 +9832,7 @@ passados como argumentos.
 
 Gabarito: Letra E
 
-Item. 9. (AOCP - SANESUL/ 2021) Qual é o nome de uma API de Fluxo do Kotlin para
+9. (AOCP - SANESUL/ 2021) Qual é o nome de uma API de Fluxo do Kotlin para
 programação
 android que é considerada uma ótima opção para classes que precisam manter
 um estado
@@ -10259,7 +9900,6 @@ println(i)
 
 }
 
-
 www. estra tegiaconcursos. com. br
 d) for (i in 10 upTo o ) {
 
@@ -10310,9 +9950,7 @@ percorre de 10 a 1 com um passo de 2 e imprime os valores.
 
 Gabarito: Letra B
 
-
 www. estra tegiaconcursos. com. br
-
 
 React Native
 í. (CESGRANRIO - Banco do Brasil / 2023) O React Native 0.59 introduziu o conceito de Hooks.
@@ -10364,14 +10002,13 @@ abordagem anterior que envolvia a criação de componentes de classe.
 
 Gabarito: Letra E
 
-Item. 2. (FCC - PGE AM/ 2022) Considere que um desenvolvedor está criando um aplicativo
+2. (FCC - PGE AM/ 2022) Considere que um desenvolvedor está criando um aplicativo
 usando
 React e React Native e deseja criar um elemento hi contendo o título Amazonas,
 aplicando a
 classe de estilo CSS de nome tit e armazenando em uma constante chamada elemento. Para
 realizar esta tarefa, ele terá que utilizar a instrução
 a) let elemento = ReactNative.createElement('hi',{className:'tit'j,'Amazonas');
-
 
 www. estra tegiaconcursos. com. br
 b) let const elemento = React.createElement('hi'.'tit'},'Amazonas');
@@ -10408,7 +10045,7 @@ utiliza um ponto (.) em vez de uma vírgula (,) para separar os argumentos.
 
 Gabarito: Letra D
 
-Item. 3. (Consulplan - SEED-PR/ 2022) O React Native é uma plataforma baseada no
+3. (Consulplan - SEED-PR/ 2022) O React Native é uma plataforma baseada no
 React que
 possibilita o desenvolvimento de aplicativos mobile híbridos, ou seja, que rodam tanto
 no iOS
@@ -10444,11 +10081,9 @@ recursos adicionais, como acesso fácil a APIs do dispositivo, gerenciamento de 
 e publicação
 simplificada de aplicativos, b) Snack: é um ambiente de desenvolvimento online para o React
 
-
 / 204
 
 /
-
 
 Native. Ele permite escrever, executaretestarcódigo React Native diretamente no navegador,
 sem
@@ -10474,7 +10109,7 @@ ou correções de bugs separadamente antes de integrar as alterações no códig
 
 Gabarito: Letra C
 
-Item. 4. (CEBRASPE - SLU-DF / 2019) React Native utiliza componentes
+4. (CEBRASPE - SLU-DF / 2019) React Native utiliza componentes
 nativos em vez de
 componentes da Web como blocos de construção, existindo dois tipos de dados que
 controlam
@@ -10511,17 +10146,15 @@ desativado) conforme o usuário interage com ele.
 
 Gabarito: Errado
 
-Item. 5. (UFC - UFC/ 2019 - Adaptada) O React.js é um framework de código
+5. (UFC - UFC/ 2019 - Adaptada) O React.js é um framework de código
 aberto usado para
 desenvolver aplicativos para Android, iOS e UWP.
 
 Comentários:
 
-
 /' 204
 
 /
-
 
 O React.js é um framework de código aberto desenvolvido pelo Facebook, mas
 é importante
@@ -10545,7 +10178,7 @@ aplicativos móveis nativos.
 
 Gabarito: Errado
 
-Item. 6. (FCC - METRÔ-SP / 2019) Um Analista precisa desenvolver um aplicativo móvel para
+6. (FCC - METRÔ-SP / 2019) Um Analista precisa desenvolver um aplicativo móvel para
 celulares
 com sistemas operacionais Android e iOS. Para isso, poderá utilizar o framework
 desenvolvido
@@ -10590,11 +10223,9 @@ JavaScript para desenvolver aplicativos que podem ser executados em dispositivos
 móveis. No
 entanto, essa não é a resposta correta para o Analista.
 
-
 / 204
 
 /
-
 
 A resposta correta para o Analista é o framework chamado React Native, desenvolvido
 pela equipe
@@ -10608,11 +10239,9 @@ adequada para o Analista desenvolver seu aplicativo móvel.
 
 Gabarito: Letra E
 
-
 / 204
 
 /
-
 
 Swift
 í. (CESGRANRIO - Banco do Brasil / 2023) Em um programa em Swift, o programador
@@ -10670,9 +10299,7 @@ produzirá o resultado esperado.
 
 c) let saida = "valortotal = %[quantidade*valor]"
 
-
 www. estra tegiaconcursos. com. br
-
 
 Essa opção utiliza uma sintaxe incorreta para interpolação de strings em Swift. O uso
 de % não é
@@ -10700,7 +10327,7 @@ multiplicação quantidade*valor dentro da string.
 
 Gabarito: Letra D
 
-Item. 2. (AOCP - PRODEB / 2018) Considerando as linguagens de programação mobile,
+2. (AOCP - PRODEB / 2018) Considerando as linguagens de programação mobile,
 qual das
 dispostas a seguir foi criada pela Apple e pode ser utilizada para o desenvolvimento
 das suas
@@ -10727,7 +10354,7 @@ dispositivos Apple com facilidade e expressividade.
 
 Gabarito: Letra B
 
-Item. 3. (CEBRASPE - TRE-BA / 2017) Na linguagem Swift do IOS, ao se declarar
+3. (CEBRASPE - TRE-BA / 2017) Na linguagem Swift do IOS, ao se declarar
 o código var
 fruta=["maça", "banana", "abacaxi"], a linguagem automaticamente entenderá que
 fruta é
@@ -10779,7 +10406,7 @@ argumento para o printf, é tratado como uma string e exibido corretamente.
 
 Gabarito: Letra C
 
-Item. 4. (IF-SE - IF-SE / 2016) Em relação aos ambientes de desenvolvimento de software,
+4. (IF-SE - IF-SE / 2016) Em relação aos ambientes de desenvolvimento de software,
 analise as
 afirmativas abaixo.
 
@@ -10797,11 +10424,9 @@ IV. O Visual Studio suporta diversas linguagens de programação, tais como, C#,
 F#, Python
 e Visual Basic.
 
-
 / 204
 
 /
-
 
 De acordo com as afirmativas, marque a alternativa CORRETA:
 
@@ -10846,7 +10471,7 @@ afirmativas II e IV estão corretas, enquanto as afirmativas I e III estão inco
 
 Gabarito: Letra B
 
-Item. 5. (AOCP - IBGE / 2019) Compreender o ciclo de vida das views das aplicações é
+5. (AOCP - IBGE / 2019) Compreender o ciclo de vida das views das aplicações é
 extremamente
 importante, sobretudo quando falamos de aplicações para dispositivos móveis. Sobre o
 ciclo de
@@ -10864,11 +10489,9 @@ b) viewDidAppear()
 
 c) viewWillAppearQ
 
-
 /' 204
 
 /
-
 
 d) viewWillLoadO
 
@@ -10898,7 +10521,7 @@ necessária antes da exibição da ViewController.
 
 Gabarito: Letra C
 
-Item. 6. (AOCP - IBGE / 2019) Você está desenvolvendo um aplicando iOS usando Swift, que
+6. (AOCP - IBGE / 2019) Você está desenvolvendo um aplicando iOS usando Swift, que
 é uma
 agenda de controle de tarefas do funcionário do departamento de Tecnologia da Informação
 que presta o serviço de manutenção e suporte para os usuários da corporação. Nesse
@@ -10933,9 +10556,7 @@ realizar essa navegação, é necessário utilizar uma barra de navegação. Den
 fornecidas,
 a alternativa correta é a D - Navigation Controller.
 
-
 www. estra tegiaconcursos. com. br
-
 
 O Navigation Controlleré um controladorde navegação que gerencia um ou mais
 controladores de
@@ -10961,7 +10582,7 @@ retorne à hierarquia anterior, exceto para a visualização raiz.
 
 Gabarito: Letra D
 
-Item. 7. (AOCP - IBGE / 2019) Com o swift no desenvolvimento para iOS, a
+7. (AOCP - IBGE / 2019) Com o swift no desenvolvimento para iOS, a
 Apple adotou novas
 características e capacidades para a linguagem de programação, como o uso de protocolos.
 Estes trabalham de uma maneira que visa estendera funcionalidade de uma classe ou
@@ -11003,13 +10624,11 @@ o protocolo Equatable.
 
 Gabarito: Letra A
 
-
 / 204
 
 /
 
-
-Item. 8. (CESGRANRIO - Banco do Brasil / 2021) Um programador de aplicativos para dispositivos
+8. (CESGRANRIO - Banco do Brasil / 2021) Um programador de aplicativos para dispositivos
 Apple com iOS recebeu a seguinte parte de um código, escrito na linguagem swift:
 
 var i: Int
@@ -11044,7 +10663,6 @@ default:
 
 texto = "não eh "
 
-
 frase - frase + texto
 print(frase)
 
@@ -11057,7 +10675,6 @@ e) o carro eh forte
 
 Comentários:
 
-
 O algoritmo apresentado é um exemplo de código escrito em Swift,
 uma linguagem de
 programação utilizada para desenvolvimento de aplicativos para dispositivos Apple
@@ -11068,27 +10685,27 @@ Vamos analisar o código e entender sua execução:
 inicializada com o
 valoro e frase inicializada como uma string vazia.
 
-Item. 2. É iniciado um loop for que itera no intervalo de 1 a 3 (inclusive). A cada
+2. É iniciado um loop for que itera no intervalo de 1 a 3 (inclusive). A cada
 iteração, o valor de i
 é atualizado para o próximo número do intervalo.
 
-Item. 3. Dentro do loop, a variável num é atualizada com a expressão num = num + 1 +
+3. Dentro do loop, a variável num é atualizada com a expressão num = num + 1 +
 i * 2. Essa
 expressão realiza um cálculo baseado no valor atual de i, incrementando num em 1 mais
 o
 dobro de i.
 
-Item. 4. Em seguida, éfeito um switch na variável num. Dependendo do valorde num, a
+4. Em seguida, éfeito um switch na variável num. Dependendo do valorde num, a
 variáveltexto
 é atualizada com diferentes strings. Os intervalos no switch definem faixas
 de valores
 possíveis para num e associam uma string específica para cada faixa.
 
-Item. 5. A linha frase = frase + texto concatena a variável texto à variável frase,
+5. A linha frase = frase + texto concatena a variável texto à variável frase,
 formando uma frase
 gradualmente.
 
-Item. 6. Após o fim do loop, a frase final é impressa na tela através do comando print(frase).
+6. Após o fim do loop, a frase final é impressa na tela através do comando print(frase).
 
 Analisando o código, podemos identificar que a sequência de valores de num ao longo
 do loop é a
@@ -11121,9 +10738,7 @@ e) "o carro eh forte": Essa opção está errada porque a sequência de valores 
 não atinge o
 intervalo correspondente a essa opção.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Em linguagem natural e conjunções subordinativas, podemos dizerque o código apresentado
 é um
@@ -11139,7 +10754,7 @@ casa eh".
 
 Gabarito: Letra B
 
-Item. 9. (FEPESE - CELESC / 2022) Caso seja necessário o desenvolvimento de
+9. (FEPESE - CELESC / 2022) Caso seja necessário o desenvolvimento de
 aplicativos para
 dispositivos móveis, mais especificamente para o sistema operacional IOS, assinale a
 alternativa
@@ -11186,18 +10801,16 @@ desenvolvimento de aplicativos para dispositivos iOS.
 
 Gabarito: Letra A
 
-
 / 204
 
 /
-
 
 io.(CEBRASPE - TRT - 7a Região (CE) / 2017) Assinale a opção que apresenta a
 linguagem de
 programação disponível, grátis e em código aberto, para desenvolvedores sob a licença
 Apache
 
-Item. 2.0 e desenvolvida pela Apple para a criação de aplicativos para IOS.
+2.0 e desenvolvida pela Apple para a criação de aplicativos para IOS.
 
 a) Xcode
 b) Swift
@@ -11252,11 +10865,9 @@ os recursos e frameworks oferecidos pela plataforma da Apple.
 
 Gabarito: Letra B
 
-
 / 204
 
 /
-
 
 i2.(IBADE - Prefeitura de Itapemirim - ES / 2019) A Apple desenvolveu uma linguagem de
 programação própria para desenvolvimento de aplicações sob IOS. Ela se chama:
@@ -11295,15 +10906,13 @@ especificamente para o desenvolvimento de aplicativos iOS.
 
 Gabarito: Letra D
 
-
 / 204
 
 /
 
-
 Flutter
 
-Item. 1. (CEBRASPE - TRT - 8a Região (PA e AP) / 2022) O widget básico do Flutter que
+1. (CEBRASPE - TRT - 8a Região (PA e AP) / 2022) O widget básico do Flutter que
 permite criar
 leiautes flexíveis nas direções horizontal e vertical, com design de objetos baseado no
 modelo
@@ -11336,7 +10945,7 @@ proporcionam uma maneira conveniente e eficaz de criar leiautes flexíveis e res
 
 Gabarito: Letra B
 
-Item. 2. (IBFC - EBSERH / 2020) Quanto aos frameworks mais destacados para o desenvolvimento
+2. (IBFC - EBSERH / 2020) Quanto aos frameworks mais destacados para o desenvolvimento
 de
 aplicativos mobile, analise as afirmativas abaixo quanto a existência dos mesmos e dê
 valores
@@ -11358,9 +10967,7 @@ e) F, F, F
 
 Comentários:
 
-
 www. estra tegiaconcursos. com. br
-
 
 Questão um pouco estranha, não é? Mas é isso aí, pode cair na sua prova desse
 jeitinho... Então
@@ -11432,14 +11039,12 @@ são acessíveis em todos os dispositivos, como smartphones, tablets e desktops.
 
 Gabarito: Letra A
 
-Item. 3. (UFC - UFC / 2019 - Adaptada) Sobre o desenvolvimento de aplicações móveis, assinale a
+3. (UFC - UFC / 2019 - Adaptada) Sobre o desenvolvimento de aplicações móveis, assinale a
 alternativa correta.
-
 
 / 204
 
 /
-
 
 Flutter é um SDK de código aberto criado pelo Google para o desenvolvimento de
 aplicativos
@@ -11494,7 +11099,6 @@ e que a comunidade pode contribuir com melhorias e recursos adicionais.
 Gabarito: Correto
 www. estra tegiaconcursos. com. br
 
-
 Android
 
 LISTA DE QUESTõES
@@ -11512,7 +11116,7 @@ c) C#
 d) Python
 e) IOS
 
-Item. 2. (FGV - IBGE / 2016) Um desenvolvedor Android deseja inserir a funcionalidade de
+2. (FGV - IBGE / 2016) Um desenvolvedor Android deseja inserir a funcionalidade de
 backup em
 uma aplicação móvel para, de tempos em tempos, armazenar dados automaticamente. A classe
 da API de Backup (versão 6.0 ou superior) a ser utilizada é a:
@@ -11527,7 +11131,7 @@ d) BackupOutputData;
 
 e) BackupDataStream.
 
-Item. 3. (FGV - Banestes / 2018) Sempre que um aplicativo precisa de acesso a um recurso
+3. (FGV - Banestes / 2018) Sempre que um aplicativo precisa de acesso a um recurso
 protegido
 por uma permissão no sistema operacional Android, ele precisa declarar essa
 necessidade
@@ -11547,12 +11151,11 @@ d) android.permission.READ_SYNC_SETTINGS;
 
 e) android.permission.STATUS_BAR.
 
-Item. 4. (FUNDATEC - CRF-PR / 2021) Android Enterprise é uma solução para dispositivos
+4. (FUNDATEC - CRF-PR / 2021) Android Enterprise é uma solução para dispositivos
 Android que
 visa gerenciar o uso de dispositivos móveis no ambiente corporativo. Analise os casos
 de uso
 citados abaixo e assinale a opção que NÃO é suportada pelo Android Enterprise.
-
 
 www. estra tegiaconcursos. com. br
 a) Dispositivos de propriedade do empregado, que suportam um perfil pessoal
@@ -11576,7 +11179,7 @@ e) Dispositivos de propriedade da empresa, que suportam dois perfis (pessoal e
 profissional),
 nos quais a empresa tem acesso a ambos, por questões de segurança.
 
-Item. 5. (AOCP - Pref Novo Hamburgo / 2020) São considerados sistemas operacionais móveis:
+5. (AOCP - Pref Novo Hamburgo / 2020) São considerados sistemas operacionais móveis:
 
 a) Windows Phone e Windows XP.
 
@@ -11588,7 +11191,7 @@ d) Android e Minix.
 
 e) Symbian OS e Windows Phone.
 
-Item. 6. (IBADE - Pref Jaru/ 2019) O sistema operacional indicado para dispositivos móveis é
+6. (IBADE - Pref Jaru/ 2019) O sistema operacional indicado para dispositivos móveis é
 denominado:
 
 a) Windows Server.
@@ -11601,7 +11204,7 @@ d) Z/OS.
 
 e) AIX.
 
-Item. 7. (UNESC- Pref Criciúma/2019) O sistema android possibilita que seus usuários possam
+7. (UNESC- Pref Criciúma/2019) O sistema android possibilita que seus usuários possam
 agrupar
 seus aplicativos em pastasde acordo com sua necessidade. Qual a ação necessária para a criação
 de uma pasta no android:
@@ -11614,15 +11217,13 @@ b) Arrastar um aplicativo e sobrepô-lo a outro.
 
 c) Pressionar o botão menu e acessar as configurações.
 
-
 / 204
 
 /
 
-
 d) Pressionar os botões menu e voltar ao mesmo tempo.
 
-Item. 8. (UNESC - Pref Criciúma/ 2019) As primeiras versões do sistema operacional
+8. (UNESC - Pref Criciúma/ 2019) As primeiras versões do sistema operacional
 android
 apresentavam a barra de navegação de forma física. Com o surgimento de novas versões
 do
@@ -11638,7 +11239,7 @@ c) Voltar, iniciar e aplicativos abertos.
 
 d) Menu, volta, Iniciar.
 
-Item. 9. (FAU UNICENTRO - IF PR/ 2019) No desenvolvimento para dispositivos móveis
+9. (FAU UNICENTRO - IF PR/ 2019) No desenvolvimento para dispositivos móveis
 utilizando
 Android podemos utilizar alguns tipos de layout que facilitam o desenvolvimento das
 telas de
@@ -11671,11 +11272,9 @@ A sequência correta de cima para baixo é:
 
 a) 2, 3, 4, i/ 5-
 
-
 / 204
 
 /
-
 
 b) 3, 5, i, 2, 4.
 
@@ -11685,19 +11284,19 @@ d) 5, 2, í, 3, 4.
 
 e) 5, i, 2, 3, 4
 
-Item. 10. (CEBRASPE - ABIN / 2018) O Android disponibiliza um banco de dados público local,
+10. (CEBRASPE - ABIN / 2018) O Android disponibiliza um banco de dados público local,
 orientado
 a objetos, para o armazenamento de dados estruturados, o que possibilita o
 gerenciamento das
 aplicações e dos dados de forma rápida e segura.
 
-Item. 11. (CEBRASPE - ABIN / 2018) Mesmo controlando o login e a senha do usuário via
+11. (CEBRASPE - ABIN / 2018) Mesmo controlando o login e a senha do usuário via
 contas Google,
 um aplicativo pode capturar e enviar arquivos armazenados no cartão SD do celular que
 utiliza
 o sistema Android.
 
-Item. 12. (CEBRASPE - ABIN / 2018) Quando a Internet está disponível, os aplicativos
+12. (CEBRASPE - ABIN / 2018) Quando a Internet está disponível, os aplicativos
 executados em
 segundo plano podem efetuar requisições, que utilizam muita carga da bateria
 e podem
@@ -11705,13 +11304,13 @@ ocasionar erros nos aplicativos, por isso, na versão 8.0 do sistema, os manifes
 podem
 ocorrer para transmissões implícitas
 
-Item. 13. (CEBRASPE - ABIN / 2018) Para garantir que o software gerado no servidor chegue
+13. (CEBRASPE - ABIN / 2018) Para garantir que o software gerado no servidor chegue
 ao usuário
 final, utiliza-se um certificado code signing, que altera o software e também
 insere uma
 assinatura do desenvolvedor ou fabricante.
 
-Item. 14. (CONSULPLAN - Câmara de Belo Horizonte - MG / 2018) "Classe do Android que pode
+14. (CONSULPLAN - Câmara de Belo Horizonte - MG / 2018) "Classe do Android que pode
 ser
 utilizada para enviar uma mensagem para o sistema operacional; solicitar
 ao sistema
@@ -11725,7 +11324,7 @@ c) Content.
 
 d) Receiver.
 
-Item. 15. (AOCP - PRODEB / 2018) Android é um sistema operacional (SO) amplamente utilizado
+15. (AOCP - PRODEB / 2018) Android é um sistema operacional (SO) amplamente utilizado
 em
 dispositivos móveis como por exemplo smartphones. A programação para este SO
 utiliza a
@@ -11742,8 +11341,7 @@ d) OnCreate
 e) OnDestroy
 www. estra tegiaconcursos. com. br
 
-
-Item. 16. (IBADE - Câmara de Vilhena - RO / 2018) Os aplicativos desenvolvidos para
+16. (IBADE - Câmara de Vilhena - RO / 2018) Os aplicativos desenvolvidos para
 dispositivos móveis
 como celulares e tablets são denominados:
 
@@ -11757,7 +11355,7 @@ d) APP.
 
 e) REXX.
 
-Item. 17. (AOCP - CODEM - PA / 2017) O Sistema Operacional Android é
+17. (AOCP - CODEM - PA / 2017) O Sistema Operacional Android é
 a) baseado em núcleo Linux e é utilizado exclusivamente em celulares.
 
 b) um sistema operacional proprietário e é utilizado principalmente em dispositivos móveis.
@@ -11768,7 +11366,7 @@ d) um sistema operacional livre e é utilizado exclusivamente em celulares.
 
 e) baseado em núcleo Linux e é utilizado principalmente em dispositivos móveis.
 
-Item. 18. (Quadrix - CFO-DF / 2017) O Android possui um emulador que permite simular o
+18. (Quadrix - CFO-DF / 2017) O Android possui um emulador que permite simular o
 sistema
 operacional real. Contudo, não é possível executar operações como excluir e(ou)
 recuperar
@@ -11794,23 +11392,21 @@ e) A Content Providers, na arquitetura Android, gerencia as apresentações de
 janelas e os
 tratamentos gráficos das aplicações.
 
-Item. 20. (CEBRASPE - TCE-PA / 2016) O Android, sistema operacional Linux multiusuário em
+20. (CEBRASPE - TCE-PA / 2016) O Android, sistema operacional Linux multiusuário em
 que cada
 aplicativo é visto como um usuário diferente, atribui a cada aplicativo uma identidade
 de usuário
 exclusiva.
 
-Item. 21. (IADES - Perito Criminal (PC DF)/ 2016) Quer saber o que é um celular Android?
+21. (IADES - Perito Criminal (PC DF)/ 2016) Quer saber o que é um celular Android?
 O Android é
 um sistema operacional para aparelhos móveis - celulares (nesse caso, smartphones) e
 tablets.
 O Android foi desenvolvido por um consórcio de empresas liderado pelo Google e, com várias
 
-
 / 204
 
 /
-
 
 funcionalidades, permite que você realize muitas atividades com um celular em
 mãos. Por
@@ -11872,11 +11468,9 @@ Assinale a alternativa que apresenta apenas sistemas operacionais para dispositi
 
 a) WinZip, Windows Phone e Mac OS.
 
-
 /' 204
 
 /
-
 
 b) Linux, Acrobat Reader e Android.
 
@@ -11926,9 +11520,7 @@ d) terminartodos os aplicativos.
 
 e) terminar apenas o aplicativo em uso.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Kotlin
 í. (CESGRANRIO - Banco do Brasil/ 2023) Kotlin é uma linguagem de programação usada no
@@ -11949,7 +11541,7 @@ Java.
 
 e) construir apps com código parcialmente em Java e parcialmente em Kotlin, sem restrições.
 
-Item. 2. (FCM - CEFETMINAS / 2022) Com relação ao desenvolvimento de aplicativos móveis, relacione
+2. (FCM - CEFETMINAS / 2022) Com relação ao desenvolvimento de aplicativos móveis, relacione
 as linguagens de programação com suas características.
 
 LINGUAGEM DE PROGRAMAÇÃO
@@ -12011,7 +11603,7 @@ d) i, 2, 3, 5, 4.
 
 e) 4, 5, i, 2, 3-
 
-Item. 3. (FGV-TJ RO/2021) Analise o código Kotlin exibido a seguir.
+3. (FGV-TJ RO/2021) Analise o código Kotlin exibido a seguir.
 fun main() {
 
 vai classe - ?
@@ -12040,18 +11632,16 @@ computado e exibido pelo comando println é:
 
 a) 3 / Iron
 
-
 /' 204
 
 /
-
 
 b) 4/lron
 c) 5 / Iron
 d) 5 / Gold
 e) g/Gold
 
-Item. 4. (Cesgranrio - Caixa / 2021) Na linguagem de programação Kotlin, é possível criar
+4. (Cesgranrio - Caixa / 2021) Na linguagem de programação Kotlin, é possível criar
 uma variável
 cujo valor nunca pode ser mudado, na prática, uma constante, com o nome idademinima,
 do
@@ -12068,15 +11658,15 @@ d) var idademinima : Int = 18
 
 e) var idademinima : Integer = 18
 
-Item. 5. (CESPE - PGDF/ 2021) O Spring WebFlux é compatível com Java 8 lambdas e Kotlin
+5. (CESPE - PGDF/ 2021) O Spring WebFlux é compatível com Java 8 lambdas e Kotlin
 e tem a
 vantagem de permitira criação de microsserviços com requisitos menos complexos.
 
-Item. 6. (CESPE - PGDF/ 2021) O JUnit 5 é formado por JUnit Platform, JUnit Júpiter e
+6. (CESPE - PGDF/ 2021) O JUnit 5 é formado por JUnit Platform, JUnit Júpiter e
 JUnit Vintage; o
 JUnit Júpiter pode ser utilizado em programas escritos em Kotlin.
 
-Item. 7. (AOCP - Prefeitura de Novo Hamburgo - RS / 2020) Considerando o
+7. (AOCP - Prefeitura de Novo Hamburgo - RS / 2020) Considerando o
 ambiente de
 desenvolvimento Android Studio, assinale a alternativa que apresenta apenas
 linguagens
@@ -12092,7 +11682,7 @@ d) C#ePHP.
 
 e) Java e Kotlin.
 
-Item. 8. (CESGRANRIO - Banco do Brasil / 2021) Foi solicitado a um programador de
+8. (CESGRANRIO - Banco do Brasil / 2021) Foi solicitado a um programador de
 sistemas de
 informação que transformasse uma classe escrita em Java em uma classe equivalente, para
 ser
@@ -12105,7 +11695,6 @@ private String codigo;
 
 private String nome;
 
-
 www. estra tegiaconcursos. com. br
 private int numero=o;
 
@@ -12115,7 +11704,6 @@ public AlunoJava (String codigo,String nome)
 
 {this.codigo = codigo;
 this.nome = nome;}
-
 
 A classe em Kotlin equivalente à classe Java acima é
 a) public class AlunoKotlin (private String: nome, private String: codigo )
@@ -12149,7 +11737,7 @@ e) class AlunoKotlin (private vai nome: String, private vai codigo: String)
 { private var numero = o
 private var texto = "EscolaX"}
 
-Item. 9. (AOCP - SANESUL/ 2021) Qual é o nome de uma API de Fluxo do Kotlin para
+9. (AOCP - SANESUL/ 2021) Qual é o nome de uma API de Fluxo do Kotlin para
 programação
 android que é considerada uma ótima opção para classes que precisam manter
 um estado
@@ -12193,13 +11781,10 @@ d) for (i in 10 upTo o ) {
 
 println(i)
 
-
 e) for (i in 10 downTo 1 step 2) {
 println(i)
 
-
 www. estra tegiaconcursos. com. br
-
 
 React Native
 í. (CESGRANRIO - Banco do Brasil / 2023) O React Native 0.59 introduziu o conceito de Hooks.
@@ -12215,7 +11800,7 @@ d) criar uma enumeration que representa estados.
 
 e) manter um estado local em uma função de um componente funcional.
 
-Item. 2. (FCC - PGE AM/ 2022) Considere que um desenvolvedor está criando um aplicativo
+2. (FCC - PGE AM/ 2022) Considere que um desenvolvedor está criando um aplicativo
 usando
 React e React Native e deseja criar um elemento hi contendo o título Amazonas,
 aplicando a
@@ -12231,7 +11816,7 @@ d) const elemento = React.createElement('hi',{className:'tit'j,'Amazonas');
 
 e) const elemento - React.createElement('hi'.tit,'Amazonas');
 
-Item. 3. (Consulplan - SEED-PR/ 2022) O React Native é uma plataforma baseada
+3. (Consulplan - SEED-PR/ 2022) O React Native é uma plataforma baseada
 no React que
 possibilita o desenvolvimento de aplicativos mobile híbridos, ou seja, que rodam tanto
 no iOS
@@ -12251,7 +11836,7 @@ c) Hot Reloading.
 
 d) Desenvolvimento paralelo.
 
-Item. 4. (CEBRASPE - SLU-DF / 2019) React Native utiliza componentes
+4. (CEBRASPE - SLU-DF / 2019) React Native utiliza componentes
 nativos em vez de
 componentes da Web como blocos de construção, existindo dois tipos de dados que
 controlam
@@ -12259,15 +11844,13 @@ um componente: state, definido pelo pai e fixado durante todo o tempo de
 vida de um
 componente; e props, utilizado para os dados que irão mudar.
 
-
 www. estra tegiaconcursos. com. br
 
-
-Item. 5. (UFC - UFC/ 2019 - Adaptada) O React.js é um framework de código aberto usado
+5. (UFC - UFC/ 2019 - Adaptada) O React.js é um framework de código aberto usado
 para
 desenvolver aplicativos para Android, iOS e UWP.
 
-Item. 6. (FCC - METRÔ-SP / 2019) Um Analista precisa desenvolver um aplicativo móvel para
+6. (FCC - METRÔ-SP / 2019) Um Analista precisa desenvolver um aplicativo móvel para
 celulares
 com sistemas operacionais Android e iOS. Para isso, poderá utilizar o framework
 desenvolvido
@@ -12284,11 +11867,9 @@ d) Xamarin Core.
 
 e) React Native.
 
-
 /' 204
 
 /
-
 
 Swift
 í. (CESGRANRIO - Banco do Brasil / 2023) Em um programa em Swift, o programador
@@ -12314,7 +11895,7 @@ d) let saida = "valortotal = \(quantidade*valor)"
 
 e) let saida = "valortotal = \[quantidade*valor]"
 
-Item. 2. (AOCP - PRODEB / 2018) Considerando as linguagens de programação mobile,
+2. (AOCP - PRODEB / 2018) Considerando as linguagens de programação mobile,
 qual das
 dispostas a seguir foi criada pela Apple e pode ser utilizada para o desenvolvimento
 das suas
@@ -12327,7 +11908,7 @@ c) C#
 d) Python
 e) IOS
 
-Item. 3. (CEBRASPE - TRE-BA / 2017) Na linguagem Swift do IOS, ao se declarar
+3. (CEBRASPE - TRE-BA / 2017) Na linguagem Swift do IOS, ao se declarar
 o código var
 fruta=["maça", "banana", "abacaxi"], a linguagem automaticamente entenderá que
 fruta é
@@ -12342,11 +11923,9 @@ d) imutáveis.
 
 e) double.
 
-
 www. estra tegiaconcursos. com. br
 
-
-Item. 4. (IF-SE - IF-SE / 2016) Em relação aos ambientes de desenvolvimento de software,
+4. (IF-SE - IF-SE / 2016) Em relação aos ambientes de desenvolvimento de software,
 analise as
 afirmativas abaixo.
 
@@ -12373,7 +11952,7 @@ b) Apenas as afirmativas II e IV estão corretas.
 c) Apenas a afirmativa I está incorreta
 d) Apenas a afirmativa III está incorreta.
 
-Item. 5. (AOCP - IBGE / 2019) Compreender o ciclo de vida das views das aplicações é
+5. (AOCP - IBGE / 2019) Compreender o ciclo de vida das views das aplicações é
 extremamente
 importante, sobretudo quando falamos de aplicações para dispositivos móveis. Sobre o
 ciclo de
@@ -12395,7 +11974,7 @@ d) viewWillLoad()
 
 e) viewRestart()
 
-Item. 6. (AOCP - IBGE / 2019) Você está desenvolvendo um aplicando iOS usando Swift, que
+6. (AOCP - IBGE / 2019) Você está desenvolvendo um aplicando iOS usando Swift, que
 é uma
 agenda de controle de tarefas do funcionário do departamento de Tecnologia da Informação
 que presta o serviço de manutenção e suporte para os usuários da corporação. Nesse
@@ -12410,11 +11989,9 @@ quanto a volta. Para isso, é necessário ter uma barra de navegação. Assinale
 alternativa que
 apresenta o que você deve utilizar para implementar essa ação.
 
-
 / 204
 
 /
-
 
 a) NavController
 b) Navigation Jetpacks
@@ -12422,7 +11999,7 @@ c) Navigation Component
 d) Navigation Controller
 e) Routing Navigation
 
-Item. 7. (AOCP - IBGE / 2019) Com o swift no desenvolvimento para iOS, a
+7. (AOCP - IBGE / 2019) Com o swift no desenvolvimento para iOS, a
 Apple adotou novas
 características e capacidades para a linguagem de programação, como o uso de protocolos.
 Estes trabalham de uma maneira que visa estendera funcionalidade de uma classe ou
@@ -12448,7 +12025,7 @@ d) NSCoding.
 
 e) MyDelegate.
 
-Item. 8. (CESGRANRIO - Banco do Brasil / 2021) Um programador de aplicativos para
+8. (CESGRANRIO - Banco do Brasil / 2021) Um programador de aplicativos para
 dispositivos
 Apple com iOS recebeu a seguinte parte de um código, escrito na linguagem swift:
 
@@ -12475,7 +12052,6 @@ case 14...16:
 
 texto = "eh "
 
-
 www. estra tegiaconcursos. com. br
 case 17...20:
 texto = "o"
@@ -12501,7 +12077,7 @@ c) o carro não eh
 d) a casa eh forte
 e) o carro eh forte
 
-Item. 9. (FEPESE - CELESC / 2022) Caso seja necessário o desenvolvimento de
+9. (FEPESE - CELESC / 2022) Caso seja necessário o desenvolvimento de
 aplicativos para
 dispositivos móveis, mais especificamente para o sistema operacional IOS, assinale a
 alternativa
@@ -12519,12 +12095,12 @@ d) Objective-D e VSCODE
 
 e) XCODE eVSCODE
 
-Item. 10. (CEBRASPE - TRT - 7a Região (CE) / 2017) Assinale a opção que apresenta a
+10. (CEBRASPE - TRT - 7a Região (CE) / 2017) Assinale a opção que apresenta a
 linguagem de
 programação disponível, grátis e em código aberto, para desenvolvedores sob a licença
 Apache
 
-Item. 2.0 e desenvolvida pela Apple para a criação de aplicativos para IOS.
+2.0 e desenvolvida pela Apple para a criação de aplicativos para IOS.
 
 a) Xcode
 b) Swift
@@ -12559,15 +12135,13 @@ d) Swift.
 
 e) Java Script.
 
-
 /' 204
 
 /
 
-
 Flutter
 
-Item. 1. (CEBRASPE - TRT - 8a Região (PA e AP) / 2022) O widget básico do Flutter que
+1. (CEBRASPE - TRT - 8a Região (PA e AP) / 2022) O widget básico do Flutter que
 permite criar
 leiautes flexíveis nas direções horizontal e vertical, com design de objetos baseado no
 modelo
@@ -12582,7 +12156,7 @@ d) Expanded.
 
 e) Conteiner.
 
-Item. 2. (IBFC - EBSERH / 2020) Quanto aos frameworks mais destacados para o
+2. (IBFC - EBSERH / 2020) Quanto aos frameworks mais destacados para o
 desenvolvimento de
 aplicativos mobile, analise as afirmativas abaixo quanto a existência dos mesmos e dê
 valores
@@ -12602,7 +12176,7 @@ d) F, F, V
 
 e) F, F, F
 
-Item. 3. (UFC - UFC / 2019 - Adaptada) Sobre o desenvolvimento de aplicações móveis,
+3. (UFC - UFC / 2019 - Adaptada) Sobre o desenvolvimento de aplicações móveis,
 assinale a
 alternativa correta.
 
@@ -12610,86 +12184,81 @@ Flutter é um SDK de código aberto criado pelo Google para o desenvolvimento de
 aplicativos
 para dispositivos móveis utilizado para desenvolver aplicativos para Android e iOS.
 
-
 www. estra tegiaconcursos. com. br
-
 
 GABARITo
 
 Android 8. Letra B 17.
 Letra E
 
-Item. 1. Letra B 9. Letra D
-Item. 18. Errado
+1. Letra B 9. Letra D
+18. Errado
 
-Item. 2. Letra C 10. Errado
+2. Letra C 10. Errado
 19.Letra A
 
-Item. 3. Letra B 11. Correto
-Item. 20. Correto
+3. Letra B 11. Correto
+20. Correto
 
-Item. 4. Letra E 12. Correto
+4. Letra E 12. Correto
 21.Letra A
 
-Item. 5. Letra D 13.Errado
-Item. 22. Letra D
+5. Letra D 13.Errado
+22. Letra D
 
-Item. 6. Letra C 14. Letra A
-Item. 23. Letra D
+6. Letra C 14. Letra A
+23. Letra D
 
+7. Letra B 15. Letra D
 
-Item. 7. Letra B 15. Letra D
+16. Letra D
 
-Item. 16. Letra D
-
-Item. 24. Letra B
+24. Letra B
 
 Kotlin
 
-Item. 1. Letra E 5. Correto
-Item. 9. Letra D
+1. Letra E 5. Correto
+9. Letra D
 
-Item. 2. Letra A 6. Correto
-Item. 10. Letra B
+2. Letra A 6. Correto
+10. Letra B
 
-Item. 3. Letra C 7. Letra E
+3. Letra C 7. Letra E
 
-Item. 4. Letra A 8. Letra E
+4. Letra A 8. Letra E
 
 React Native
 
-Item. 1. Letra E 3. Letra C
-Item. 6. Letra E
+1. Letra E 3. Letra C
+6. Letra E
 
-Item. 2. Letra D 4. Errado
+2. Letra D 4. Errado
 
-Item. 5. Errado
+5. Errado
 
 Swift
 
-Item. 1. Letra D 6. Letra D
+1. Letra D 6. Letra D
 11.Letra B
 
-Item. 2. Letra B 7. Letra A
+2. Letra B 7. Letra A
 12.Letra D
 
-Item. 3. Letra C 8. Letra B
+3. Letra C 8. Letra B
 
-Item. 4. Letra B 9. Letra A
+4. Letra B 9. Letra A
 
-Item. 5. Letra C 10. Letra B
+5. Letra C 10. Letra B
 
 Flutter
 
-Item. 1. Letra B
+1. Letra B
 
-Item. 2. Letra A
+2. Letra A
 
-Item. 3. Correto
-
+3. Correto
 
 ,
 
 /
-
 

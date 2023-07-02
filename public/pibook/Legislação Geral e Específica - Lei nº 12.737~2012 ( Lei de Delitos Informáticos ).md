@@ -1,12 +1,10 @@
-Capítulo. Legislação Geral e Específica - Lei nº 12.737~2012 ( Lei de Delitos Informáticos ).
-
+# Legislação Geral e Específica - Lei nº 12.737~2012 ( Lei de Delitos Informáticos ).
 
 (Somente PDF)
 
 Índice
 
 1) Lei de Delitos Informáticos - Lei n° 12737/2012
-
 
 INTRoDUçÃo
 
@@ -22,7 +20,6 @@ Código Penal, buscando coibir tais práticas.
 
 O assunto não possui incidência significativa em provas, não contando com questões relevantes.
 
-
 Vamos lá!
 
 CRIMES TIPIFICADoS
@@ -36,7 +33,6 @@ Crime de Invasão de dispositivo informático
 O Código Penal agora prevê como crime:
 
 *
-
 
 i
 
@@ -60,7 +56,6 @@ Aumenta-se a pena de um sexto a um terço se da invasão resulta prejuízo econ�
 Além disso, a depender dos resultados da invasão do dispositivo, a pena
 poderá ser mais dura.
 Assim, prevê o CP que:
-
 
 *
 
@@ -88,13 +83,11 @@ brasileiras, o art. 154-A ainda prevê que:
 
 r------
 
-
 v
 
 Art. 154-A, § 5Q Aumenta-se a pena de um terço à metade se 0 crime for praticado contra: i
 
 I
-
 
 i I - Presidente da República, governadores e prefeitos;
 ;
@@ -126,7 +119,6 @@ dos Poderes da União, Estados, Distrito Federal ou Municípios ou contra
 empresas concessionárias
 de serviços públicos, a ação poderá ser ajuizada mesmo sem tal representação.
 
-
 Além de tipificar o crime no art. 154-A, a Lei 12.737/2012 ainda
 alterou outros dois crimes no
 Código Penal, salientados a seguir.
@@ -144,7 +136,6 @@ Além disso, aplicam-se as penas em dobro se o crime é cometido
 por ocasião de calamidade
 pública (§2°).
 
-
 > Falsificação de cartão
 
 O legislador equiparou a falsificação de cartão de crédito ou débito
@@ -152,5 +143,4 @@ O legislador equiparou a falsificação de cartão de crédito ou débito
 documento particular, para fins criminais. Portanto, nos termos do art. 298
 do CP, quem falsificar
 cartão, estará sujeito à pena de reclusão, de um a cinco anos, e multa.
-
 

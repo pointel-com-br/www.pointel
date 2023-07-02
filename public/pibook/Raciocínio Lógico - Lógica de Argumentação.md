@@ -1,5 +1,4 @@
-Capítulo. Raciocínio Lógico - Lógica de Argumentação.
-
+# Raciocínio Lógico - Lógica de Argumentação.
 
 Índice
 
@@ -14,7 +13,6 @@ Capítulo. Raciocínio Lógico - Lógica de Argumentação.
 5) Lista de Questões - Conectivos Lógicos - Questões Clássicas - Cebraspe
 
 6) Lista de Questões - Lógica de argumentação - Argumentos dedutivos - Cebraspe
-
 
 APRESENTAçÃo DA AULA
 
@@ -46,7 +44,6 @@ Conte comigo nessa caminhada =)
 Prof. Eduardo Mocellin.
 @edu.mocellin
 
-
 CONECTIVOS LÓGICOS - QUESTÕES CLÁSSICAS
 
 Conectivos lógicos: questões clássicas
@@ -72,7 +69,6 @@ As afirmações do enunciado que apresentam um "formato fácil" são as seguinte
 * Disjunção inclusiva falsa;
 
 * Condicional falsa.
-
 
 Antes de iniciar o assunto desse tópico, é necessário que você DECORE o uso dos cinco conectivos
 lógicos.
@@ -137,7 +133,6 @@ de afirmações. Veja que, em seguida, é pedido qual proposição seria uma
 consequência
 verdadeira resultante dessas afirmações do enunciado.
 
-
 Nesse exemplo, temos três afirmações no enunciado e cinco possíveis consequências para
 serem analisadas nas alternativas.
 
@@ -195,7 +190,6 @@ Excelente pergunta! As afirmações do enunciado que apresentam um "formato fác
 * Disjunção inclusiva falsa;
 
 * Condicional falsa.
-
 
 Observe que, nesses quatro casos, temos "de graça" o valor lógico de uma ou mais
 proposições simples.
@@ -256,13 +250,11 @@ i verdadeira resultante dessas afirmações.
 
 = Vamos seguir as quatro etapas apresentadas na teoria da aula.
 
-
 Etapa 1: identificar as afirmações que se apresentam em algum dos "formatos fáceis"
 
 Note que temos uma proposição simples em "Sérgio não é paulista". É essa afirmação
 que devemos atacar
 primeiro.
-
 
 Considere as proposições simples:
 
@@ -308,7 +300,6 @@ e) p-*s - errado, pois temos um condicional da forma V->F, isto é, um condicion
 
 Gabarito: Letra A.
 
-
 (SEFAZ ES/2022) Valter fala sobre seus hábitos no almoço:
 
 * Como carne ou frango.
@@ -344,7 +335,6 @@ Note que temos uma proposição simples em "Valter não comeu macarrão". É ess
 que devemos
 atacar primeiro.
 
-
 Sejam as proposições:
 
 Etapa 2: desconsiderar o contexto
@@ -363,7 +353,6 @@ II. lV~c (V) — "[Valter come legumes] ou [Valter não come carne]."
 III. mV~f (V) — "[Valter come macarrão] ou [Valter não como frango]."
 
 IV. ~m (V) — "Valter não comeu macarrão."
-
 
 Etapa 3: obter os valores lógicos das proposições simples
 
@@ -422,11 +411,9 @@ d) I A c — a conjunção é verdadeira, pois I e c são ambos verdadeiros. Est
 Observação: nessa última alternativa, novamente temos que "nem" corresponde a "e não":
 j Gabarito: Letra D.
 
-
 Agora vamos resolver duas questões que apresentam afirmações falsas.
 
 r
-
 
 ..
 
@@ -463,7 +450,6 @@ afirmação
 
 ; que devemos atacar primeiro.
 
-
 : Considere as proposições simples:
 
 Etapa 2: desconsiderar o contexto
@@ -486,7 +472,6 @@ A afirmação II é uma condicional falsa (caso V->F). Logo, s é V e p é F.
 A afirmação I é uma disjunção inclusiva verdadeira. Para a disjunção inclusiva ser
 verdadeira, ao menos um
 dos seus termos deve ser verdadeiro. Como p é F, temos que b é V.
-
 
 i Veja que já passamos por todas as afirmações e descobrimos os valores lógicos de todas as
 proposições
@@ -546,7 +531,6 @@ devemos atacar
 
 ; primeiro.
 
-
 Considere as proposições simples:
 
 Etapa 2: desconsiderar o contexto
@@ -601,7 +585,6 @@ e) a V ~j — a disjunção inclusiva é falsa, pois tanto a quanto ~j são fals
 
 Gabarito: Letra C.
 
-
 FIQUE
 
 ATENTO!
@@ -638,7 +621,6 @@ Note que temos uma proposição simples verdadeira em "Hoje Luciano foi à feira
 essa afirmação que
 devemos atacar primeiro.
 
-
 Considere as proposições simples:
 
 Etapa 2: desconsiderar o contexto
@@ -658,7 +640,6 @@ Afirmação II: sA~u->v (V) — "Quando [(está em férias) e (não é dia útil
 viaja ao interior]."
 
 Afirmação III: f (V) — "Hoje Luciano foi à feira."
-
 
 Etapa 3: obter os valores lógicos das proposições simples
 
@@ -731,7 +712,6 @@ está
 
 : com os pagamentos em dia)". É essa afirmação que devemos atacar primeiro.
 
-
 Considere as proposições simples:
 
 Etapa 2: desconsiderar o contexto
@@ -783,7 +763,6 @@ afirmações em algum dos "formatos fáceis". Vejamos o exercício a seguir, em
 que
 destacamos parte do enunciado para melhor compreensão.
 
-
 (ISS Manaus/2019) Aos domingos,
 
 - como pizza no jantar ou não tomo açaí,
@@ -823,7 +802,6 @@ Note que temos uma proposição simples em "não joguei futebol". É essa afirma
 devemos atacar
 primeiro.
 
-
 Sejam as proposições:
 
 Etapa 2: desconsiderar o contexto
@@ -844,7 +822,6 @@ II. c Vf (V)
 III. a V ~c (V)
 
 IV. ~f (V)
-
 
 Etapa 3: obter os valores lógicos das proposições simples
 
@@ -900,7 +877,6 @@ Excelente pergunta, caro aluno!
 
 Esses problemas são resolvidos dentro de um tópico da aula de Lógica de Argumentação
 propriamente dita, caso esse assunto faça parte do seu edital.
-
 
 LóGICA DE ARGUMENTAçÃo: ARGUMENToS DEDUTIVoS
 
@@ -965,7 +941,6 @@ Já para um argumento inválido podemos ter as quatro situações:
 
 Não há uma relação direta entre a validade de um argumento e a veracidade da sua conclusão.
 
-
 Representação de um argumento dedutivo
 
 Forma Simbólica Forma Padronizada
@@ -1026,7 +1001,6 @@ d) Silogismo de quarta figura: termo médio é predicado na premissa maior e suj
 
 8) De duas premissas negativas não poderá haver conclusão.
 
-
 Métodos de verificação da validade de um argumento dedutivo
 
 |Método dos diagramas lógicos|
@@ -1069,7 +1043,6 @@ Método da conclusão falsa
 Para se aplicar esse método é necessário que a conclusão seja uma proposição simples, uma disjunção
 inclusiva ou uma condicional.
 
-
 A conclusão é uma
 proposição simples,
 disjunção inclusiva
@@ -1083,7 +1056,6 @@ SIM. É possível.
 
 Argumento
 INVÁLIDO
-
 
 Início do método
 da conclusão falsa
@@ -1112,7 +1084,6 @@ todas as premissas
 sejam V mantendo a
 conclusão F?
 
-
 Utilizar outro
 método
 
@@ -1123,7 +1094,6 @@ conclusão F.
 
 Argumento
 VÁLIDO
-
 
 Método da transitividade da condicional
 
@@ -1167,7 +1137,6 @@ dedutivo com maior rapidez.
 
 As regras de inferência apresentam argumentos válidos.
 
-
 Premissa 1: Se p, então q.
 Premissa 2: p.
 
@@ -1187,7 +1156,6 @@ Modus Ponens (afirmação do antecedente)
 Modus Tollens (negação do consequente)
 
 Silogismo Hipotético
-
 
 Premissa 1: Se p, então q.
 Premissa 2: Se r, então s.
@@ -1209,7 +1177,6 @@ Equivalências lógicas em problemas de argumentação
 
 Muitas vezes um problema pode se apresentar como se fosse um problema de lógica de argumentação
 quando, na verdade, basta utilizar algumas equivalências lógicas para se obter a conclusão.
-
 
 Introdução aos argumentos dedutivos
 
@@ -1261,7 +1228,6 @@ Conclusão: Logo, o dia estava ensolarado.
 
 Novamente, podemos perceber que o argumento dedutivo acima não produziu conhecimento novo.
 
-
 Argumentos categóricos e hipotéticos
 
 Os argumentos dedutivos também podem conter proposições categóricas, apresentando
@@ -1287,7 +1253,6 @@ categóricas
 
 Uso dos
 conectivos
-
 
 Validade dos argumentos dedutivos x Veracidade das proposições
 
@@ -1344,7 +1309,6 @@ veracidade das premissas e da conclusão são irrelevantes.
 Veremos a seguir que, para verificar se um argumento é válido ou inválido, as premissas são
 CONSIDERADAS
 verdadeiras. Isso não significa que, no mudo dos fatos, elas de fato são verdadeiras.
-
 
 Argumento dedutivo válido
 
@@ -1404,7 +1368,6 @@ P4: Novas leis, com penas mais rígidas, devem ser incluídas no Código Penal, 
 ser estimulada uma
 atuação repressora e preventiva dos sistemas judicial e policial contra todo ato de intolerância.
 
-
 Com base nessas proposições, julgue o item subsecutivo.
 
 O argumento em que as proposições de PI a P3 são as premissas e P4 é a conclusão
@@ -1455,7 +1418,6 @@ vaca. Nesse caso específico, perceba que ao se considerar verdadeiras as premis
 animais" e "Godofredo não é uma vaca", a conclusão é falsa, pois não se pode afirmar
 de modo inequívoco
 que "Godofredo não é um animal".
-
 
 Veracidade das proposições
 
@@ -1521,7 +1483,6 @@ premissas verdadeiras e conclusão falsa.
 
 0 0
 
-
 FIQUE
 
 ATENTO!
@@ -1576,7 +1537,6 @@ obtida é falsa.
 Veja que é plenamente possível termos um argumento inválido com uma conclusão verdadeira. A obtenção
 da validade do argumento depende da forma com que ele e construído, não da veracidade da conclusão.
 
-
 Lembre-se de que, para um argumento inválido, podemos ter quatro situações:
 
 * Premissas verdadeiras e conclusão verdadeira;
@@ -1620,7 +1580,6 @@ e a conclusão é falsa. Observe que essa situação só é possível para o arg
 e) Errado, pois podemos ter um argumento válido com premissas falsas.
 
 Gabarito: Letra D.
-
 
 Representação de um argumento dedutivo
 
@@ -1667,7 +1626,6 @@ hipóteses e Qé a conclusão.
 representada por "A".
 
 : Gabarito: Letra E.
-
 
 (PF/2021)
 
@@ -1722,7 +1680,6 @@ Portanto, é correto dizer que a tabela-verdade da proposição condicional
 associada ao argumento tem
 menos de dez linhas.
 Gabarito: CERTO.
-
 
 Silogismo categórico
 
@@ -1784,7 +1741,6 @@ b) Universal negativa (E);
 c) Particular afirmativa (I); e
 d) Particular negativa (O).
 
-
 O modo do silogismo categórico é composto por três letras que representam as
 proposições categóricas na
 seguinte sequência: [Premissa Maior][Premissa Menor][Conclusão]. Para o caso no nosso
@@ -1843,7 +1799,6 @@ maior é a primeira
 premissa "Todo sapo|é verde":
 
 Vamos agora obter o modo.
-
 
 'i
 
@@ -1910,7 +1865,6 @@ II - Certo, está é uma regra de validade do silogismo categórico: "de duas pr
 particulares não poderá
 haver conclusão".
 
-
 i III - Certo, pois a conclusão sempre acompanha a premissa mais fraca. Isso significa que se
 houver uma i
 premissa negativa, a conclusão será negativa. Se houver uma premissa particular, a conclusão será
@@ -1928,7 +1882,6 @@ a conclusão sempre ;
 ; acompanha a premissa mais fraca.
 
 j Gabarito: Letra C.
-
 
 Métodos de verificação da validade de um argumento dedutivo
 
@@ -1988,7 +1941,6 @@ e o conjunto dos j
 
 = médicos:
 
-
 A premissa P2 nos diz que "nenhum policial é infalível". Isso significa que o
 conjunto dos infalíveis não tem
 intersecção com o conjunto dos policiais. Temos então três formas de representar o conjunto dos
@@ -2047,7 +1999,6 @@ R: O chefe de gabinete do prefeito foi 0 mentor do esquema.
 
 = Os trabalhos de investigação de uma CPI da câmara municipal conduziram às premissas Pl, P2 e P3
 seguintes: ;
-
 
 Pl: Se o vereador Vitor não participou do esquema, então o prefeito Pérsio não sabia do esquema.
 
@@ -2118,7 +2069,6 @@ que tornaria o argumento válido. Nesse caso, para evitar construir uma tabela-v
 para cada alternativa,
 devemos seguir as seguintes etapas:
 
-
 * Etapa 1: desconsiderar o contexto, transformando as afirmações da língua portuguesa para a
 linguagem proposicional;
 
@@ -2132,9 +2082,7 @@ obtidas na etapa anterior.
 
 r ..
 
-
 ..
-
 
 í (SEFAZ ES/2022) Sabe-se que as 3 sentenças a seguir são verdadeiras.
 
@@ -2187,7 +2135,6 @@ e: "Renata é pernambucana."
 
 : Afirmação III: ~a -» pAe
 
-
 Etapa 2: inserir todas as premissas/afirmações na tabela e obter as linhas da tabela-verdade em que
 todas as premissas/afirmações são simultaneamente verdadeiras
 
@@ -2239,13 +2186,13 @@ Gabarito: Letra B.
 
 (BANESTES/2018) Considere como verdadeiras as sentenças:
 
-Item. 1. Se Ana é capixaba, então Bruna é carioca.
+1. Se Ana é capixaba, então Bruna é carioca.
 
-Item. 2. Se Carla é paulista, então Bruna não é carioca.
+2. Se Carla é paulista, então Bruna não é carioca.
 
-Item. 3. Se Ana não é capixaba, então Carla não é paulista.
+3. Se Ana não é capixaba, então Carla não é paulista.
 
-Item. 4. Ana é capixaba ou Carla é paulista.
+4. Ana é capixaba ou Carla é paulista.
 Deduz-se que:
 
 a) Ana é capixaba, Bruna é carioca e Carla é paulista;
@@ -2257,7 +2204,6 @@ c) Ana é capixaba, Bruna não é carioca e Carla não é paulista;
 d) Ana é capixaba, Bruna é carioca e Carla não é paulista;
 
 e) Ana não é capixaba, Bruna não é carioca e Carla é paulista.
-
 
 í Comentários:
 
@@ -2301,7 +2247,6 @@ Afirmações
 Observe que obtivemos apenas uma linha em que as afirmações são simultaneamente
 verdadeiras (linha 2).
 Logo, para essa linha da tabela-verdade, a é V, béVecéF.
-
 
 Etapa 3: verificar a resposta que apresenta uma proposição que é verdadeira para todas as linhas
 obtidas
@@ -2370,7 +2315,6 @@ enunciado;
 
 * Etapa 4: verificar a resposta que apresenta uma proposição verdadeira (conclusão verdadeira).
 
-
 Note que, na etapa 4, estamos na verdade aferindo a validade do argumento, ou seja,
 estamos averiguando
 se a conclusão é verdadeira uma vez que as premissas foram consideradas verdadeiras.
@@ -2409,7 +2353,6 @@ Note que temos uma proposição simples na primeira premissa, que deve ser consi
 verdadeira. É essa
 premissa que devemos atacar primeiro.
 
-
 Sejam as proposições:
 
 Etapa 2: desconsiderar o contexto
@@ -2430,7 +2373,6 @@ II. p—>b (V)
 III. ~a-> p (V)
 
 IV. cV~aVb (V)
-
 
 Etapa 3: obter os valores lógicos das proposições simples
 
@@ -2490,7 +2432,6 @@ a conclusão falsa, o argumento é válido.
 
 O fluxograma a seguir resume o método.
 
-
 A conclusão é uma
 proposição simples,
 disjunção inclusiva
@@ -2507,7 +2448,6 @@ SIM. É possível.
 
 Argumento
 INVÁLIDO
-
 
 Início do método
 da conclusão falsa
@@ -2531,7 +2471,6 @@ conclusão falsa
 todas as premissas
 sejam V mantendo a
 conclusão F?
-
 
 Utilizar outro
 método
@@ -2586,7 +2525,6 @@ p: "A popularidade do governo cairá."
 
 f: "O governo é visto como fraco."
 
-
 As premissas do argumento e a conclusão C são dadas por:
 
 Pl: eAg -»s
@@ -2633,7 +2571,6 @@ um argumento inválido.
 
 Gabarito: ERRADO.
 
-
 Método da transitividade da condicional
 
 Suponha que temos um argumento formado por:
@@ -2649,7 +2586,6 @@ Costuma-se chamar
 essa propriedade de transitividade do condicional.
 
 Veja um exemplo desse tipo de argumento válido com 4 premissas:
-
 
 Premissa P1:
 Premissa P2:
@@ -2680,7 +2616,6 @@ utilizadas são:
 * Transformação da disjunção inclusiva em condicional: pVq = ~p-»q.
 
 Vejamos alguns exercícios.
-
 
 (PGE-PE/2019) Considere as seguintes proposições.
 
@@ -2736,7 +2671,6 @@ Logo, trata-se de um argumento válido.
 
 Gabarito: CERTO.
 
-
 (SSP AM/2022) Considere as seguintes afirmativas a respeito de um objeto chamado biba:
 
 * Se biba é bala então não é bola.
@@ -2789,9 +2723,7 @@ conclusão que
 
 Vejamos um exemplo.
 
-
 r
-
 
 (BANESTES/2021) Considere como verdadeiras as sentenças a seguir.
 Se Priscila é paulista, então Joel é capixaba.
@@ -2848,7 +2780,6 @@ Isso porque, caso p fosse verdadeiro, teríamos a condicional V->F, que é uma c
 Logo, é correto concluir ~p, isto é, "Priscila não é paulista". O gabarito, portanto, é letra C.
 Gabarito: Letra C.
 
-
 Vamos agora resolver uma mesma questão com dois métodos: transitividade do condicional
 e conclusão
 falsa.
@@ -2897,7 +2828,6 @@ Premissa I: d—>(eVi)
 Premissa II: (eAi)-»f
 Premissa III: b-»~f
 Conclusão: b->(~eV~i)
-
 
 Método da transitividade do condicional
 
@@ -2953,7 +2883,6 @@ Veja que se a conclusão b-»(~eV~i) for falsa, b é V e (~eV~i) é F. Como a
 disjunção inclusiva é falsa, ~e é F
 e ~i é F. Isso significa que e é V e i é V.
 
-
 Etapa 3: tentar obter ao menos um caso em que todas as premissas sejam verdadeiras mantendo a
 conclusão falsa
 
@@ -3004,7 +2933,6 @@ antecedente. A
 
 conclusão é o consequente.
 
-
 Observe um exemplo de Modus Ponens:
 
 Premissa 1: Se eu trabalhar, as crianças terão leite para tomar.
@@ -3051,13 +2979,11 @@ ATENÇÃO
 
 DECORE!
 
-
 Premissa 1: Se p, então q.
 Premissa 2: ~q
 Conclusão: ~p.
 
 Modus Tollens (negação do consequente)
-
 
 Perceba que no Modus Tollens temos como premissas um condicional e a negação do
 consequente. A
@@ -3113,7 +3039,6 @@ apropriada:
 Premissa 1: h-»a
 
 Premissa 2: ~a
-
 
 .
 
@@ -3182,7 +3107,6 @@ temos:
 
 ~(cV~t) = ~cA~(~t)
 
-
 .
 
 A dupla negação corresponde à proposição original. Ficamos com
@@ -3243,7 +3167,6 @@ Morgan:
 
 ; Conclusão: negação do antecedente ~[(~A) A (~G)] = AVG.
 j Gabarito: Letra D.
-
 
 i (SEDF/2017) Lógica é a ciência que estuda princípios e métodos de inferência, tendo como objetivo
 principal
@@ -3306,7 +3229,6 @@ também conhecidos como Regras de Inferência. Seja o seguinte argumento da Lóg
 
 = Assinale a alternativa que apresenta o nome desse argumento.
 
-
 a) Modus Ponens.
 
 b) Modus Tollens.
@@ -3351,7 +3273,6 @@ condicionais e a
 disjunção inclusiva dos antecedentes das condicionais. A conclusão dessa regra de inferência é a
 disjunção
 inclusiva dos consequentes das condicionais.
-
 
 í (CM lndaiatuba/2018) Se Joana é dentista e Mauro é médico, então Cristina não é
 funcionária pública. Se i
@@ -3416,7 +3337,6 @@ j V ~c: "[João é solteiro] ou [Cristina não é funcionária pública]."
 
 j Gabarito: Letra D.
 
-
 Dilema Destrutivo
 
 O argumento Dilema Destrutivo apresenta o seguinte formato e é sempre um argumento válido:
@@ -3480,7 +3400,6 @@ s: "O boletim de ocorrência do depoente B foi lavrado."
 
 : Premissa III: ~q V ~s
 
-
 Veja que as premissas presentadas correspondem ao dilema destrutivo, em que a terceira premissa é a
 
 : disjunção inclusiva da negação dos consequentes das duas primeiras premissas: ~qV~s.
@@ -3530,7 +3449,6 @@ No caso
 da questão, a conclusão é a seguinte disjunção inclusiva: ~(rAs)V ~s.
 
 j Gabarito: Letra C.
-
 
 Equivalências lógicas em problemas de argumentação
 
@@ -3599,7 +3517,6 @@ nelas para ver se nas
 
 = alternativas aparece uma conclusão que é consequência imediata de uma premissa.
 
-
 Usando a equivalência p-»q = ~pVq, temos:
 
 I. i->n = ~iVn: "[O erro ou inconsistência não foi identificado] ou [a empresa foi notificada]."
@@ -3613,7 +3530,6 @@ que a premissa III deve
 ser considerada verdadeira, a letra E apresenta uma conclusão necessariamente verdadeira.
 
 Gabarito: Letra E.
-
 
 QUESTõES CoMENTADAS - CEBRASPE
 
@@ -3641,13 +3557,13 @@ possível, o estado das cinco chaves, observou-se que, atualmente, a chave E est
 = Com referência à situação descrita, julgue os próximos itens.
 ;
 
-Item. 1. (CESPE/PETROBRAS/2022) A chave B está fechada, com certeza.
+1. (CESPE/PETROBRAS/2022) A chave B está fechada, com certeza.
 
-Item. 2. (CESPE/PETROBRAS/2022) A chave C pode estar aberta.
+2. (CESPE/PETROBRAS/2022) A chave C pode estar aberta.
 
-Item. 3. (CESPE/PETROBRAS/2022) A chave D está fechada, com certeza.
+3. (CESPE/PETROBRAS/2022) A chave D está fechada, com certeza.
 
-Item. 4. (CESPE/PETROBRAS/2022) É impossível determinar o estado atual de todas as chaves.
+4. (CESPE/PETROBRAS/2022) É impossível determinar o estado atual de todas as chaves.
 
 Comentários:
 
@@ -3671,7 +3587,6 @@ uma proposição
 simples que deve ser considerada verdadeira: "a chave E não está aberta". É essa
 afirmação que devemos
 atacar primeiro.
-
 
 Etapa 2: desconsiderar o contexto
 
@@ -3720,7 +3635,6 @@ nova, pois já sabemos que b é F e c é F, de modo que a condicional em questã
 verdadeira.
 
 Vamos agora para a última afirmação que não foi analisada.
-
 
 A afirmação I é uma condicional verdadeira. Como o consequente b é falso, temos que
 o antecedente a é F,
@@ -3780,8 +3694,7 @@ determinar o estado atual de todas as chaves.
 
 Gabarito: 01 - CERTO. 02 - ERRADO. 03 - CERTO. 04 - ERRADO.
 
-
-Item. 5. (CESPE/SEFAZ AL/2021) Considere as proposições lógicas P e Q, a seguir, a respeito de um
+5. (CESPE/SEFAZ AL/2021) Considere as proposições lógicas P e Q, a seguir, a respeito de um
 condômino
 chamado Marcos.
 
@@ -3851,7 +3764,7 @@ foi constatado na etapa anterior, nada podemos afirmar quanto ao valor lógico d
 
 Gabarito: CERTO.
 
-Item. 6. (CESPE/Pref. B dos Coqueiros/2020) Considere as seguintes proposições.
+6. (CESPE/Pref. B dos Coqueiros/2020) Considere as seguintes proposições.
 
 * P: "Se Paulo é fiscal, então João é motorista."
 
@@ -3891,7 +3804,6 @@ p: "Paulo é fiscal."
 j: "João é motorista."
 
 m: "Maria é enfermeira."
-
 
 As afirmações podem ser descritas por:
 
@@ -3946,7 +3858,6 @@ e) Pedro é porteiro, mas não se sabe se Paulo é ou não pedreiro.
 
 Comentários:
 
-
 A questão apresenta um conjunto de afirmações no enunciado e pergunta por
 uma consequência
 verdadeira resultante dessas afirmações.
@@ -3996,7 +3907,6 @@ d) "Pedro não é porteiro, mas não se sabe se Paulo é ou não pedreiro." — 
 verdadeiro, ou seja,
 
 "Pedro é porteiro". Além disso, ~e é falso. Portanto, sabemos que "Paulo não é pedreiro".
-
 
 e) "Pedro é porteiro, mas não se sobe se Paulo é ou não pedreiro." — De fato,
 temos que o é verdadeiro, ou
@@ -4049,7 +3959,6 @@ e: "Havia um caixa eletrônico em frente ao banco."
 
 m: "O dinheiro foi entregue à mulher de Gavião."
 As afirmações apresentadas são as seguintes:
-
 
 Fl:aAf->~g (V)
 
@@ -4104,7 +4013,6 @@ verdadeira.
 
 Gabarito: CERTO.
 
-
 9.(CESPE/TRT 17/2009) Considere que cada uma das proposições seguintes tenha valor lógico V.
 
 I. Tânia estava no escritório ou Jorge foi ao centro da cidade.
@@ -4157,7 +4065,6 @@ Como a afirmação III é verdadeira, j é F.
 A afirmação I é uma disjunção inclusiva verdadeira. Logo, um dos termos dela deve ser
 verdadeiro. Como
 j é F, devemos ter que t é V.
-
 
 A afirmação II é uma conjunção verdadeira. Logo, ambos os termos devem ser
 verdadeiros. Assim, méVe
@@ -4218,7 +4125,6 @@ a: "Alberto usa o Windows."
 
 b: "Bruno usa o Linux."
 
-
 c: "Cícero usa o Linux."
 d: "Douglas usa o Windows."
 e: "Ernesto usa o Windows."
@@ -4269,7 +4175,6 @@ usam Windows. Nada foi falado sobre eles usarem Linux).
 A letra E é o gabarito, pois b é verdadeiro.
 
 Gabarito: Letra E.
-
 
 ll.(CESPE/TRE MG/2009) A eleição do presidente de uma associação esportiva é realizada em
 dois turnos.
@@ -4331,7 +4236,6 @@ r: "Roberto votou em Carlos."
 
 I: "Lourenço votou em Eduardo."
 
-
 As afirmações podem ser descritas por:
 
 Afirmação I. e->~g
@@ -4372,7 +4276,6 @@ e) cAe - Conjunção falsa, pois e é falso.
 
 Gabarito: Letra B.
 
-
 QUESTõES CoMENTADAS - CEBRASPE
 
 Lógica de argumentação: Argumentos dedutivos
@@ -4404,11 +4307,11 @@ Considerando o argumento acima, em que as proposições de Pl a P4 são as premi
 C é a conclusão,
 julgue os itens seguintes.
 
-Item. 1. (CESPE/IBAMA/2013) Se o argumento apresentado é um argumento válido, a sua conclusão
+1. (CESPE/IBAMA/2013) Se o argumento apresentado é um argumento válido, a sua conclusão
 é uma
 proposição verdadeira.
 
-Item. 2. (CESPE/IBAMA/2013) Se o argumento apresentado não é um argumento válido, suas
+2. (CESPE/IBAMA/2013) Se o argumento apresentado não é um argumento válido, suas
 premissas são
 proposições falsas.
 
@@ -4433,7 +4336,6 @@ Sabemos da teoria que existem três situações em que um argumento pode ser vá
 
 Logo, não necessariamente um argumento válido precisa apresentar uma conclusão verdadeira.
 O gabarito, portanto, é ERRADO.
-
 
 Questão 02
 
@@ -4463,7 +4365,6 @@ Gabarito: 01 - ERRADO. 02 - ERRADO.
 
 r
 
-
 I
 
 Texto para as próximas questões
@@ -4477,11 +4378,11 @@ j
 : Com base nessas informações, julgue os itens seguintes.
 ;
 
-Item. 3. (CESPE/PF/2004) Toda premissa de um argumento válido é verdadeira.
+3. (CESPE/PF/2004) Toda premissa de um argumento válido é verdadeira.
 
-Item. 4. (CESPE/PF/2004) Se a conclusão é verdadeira, o argumento é válido.
+4. (CESPE/PF/2004) Se a conclusão é verdadeira, o argumento é válido.
 
-Item. 5. (CESPE/PF/2004) Se a conclusão é falsa, o argumento não é válido.
+5. (CESPE/PF/2004) Se a conclusão é falsa, o argumento não é válido.
 
 Comentários:
 
@@ -4498,7 +4399,6 @@ Sabemos da teoria que nessas três situações o argumento pode ser válido:
 Logo, é errado afirmar que toda premissa de um argumento válido é verdadeira. Veja um
 exemplo de um
 argumento válido com uma premissa falsa:
-
 
 Pl: Todas as vacas têm asas.
 
@@ -4559,7 +4459,6 @@ desonesto. (P2)
 — Logo, se você quiser manter sua fama de honesto, não queira ser síndico. (P3)
 Com referência às proposições Pl, P2 e P3 acima, julgue o item a seguir.
 
-
 Considerando que PI e P2 sejam as premissas de um argumento de que P3 seja a
 conclusão, é correto
 afirmar que, do ponto de vista lógico, o texto acima constitui um argumento válido.
@@ -4578,7 +4477,7 @@ e a conclusão, de modo que o argumento não pode ser válido.
 
 Gabarito: ERRADO.
 
-Item. 7. (CESPE/MEC/2015) Julgue o item subsequente, relacionados à lógica de argumentação.
+7. (CESPE/MEC/2015) Julgue o item subsequente, relacionados à lógica de argumentação.
 O texto "Penso, logo existo" apresenta um argumento válido.
 
 Comentários:
@@ -4615,7 +4514,6 @@ do
 candidato ou então esse candidato foi recrutado pela organização criminosa para ser
 aprovado no
 concurso;
-
 
 P2: Há, ainda, entre os servidores do órgão X, a certeza de que, se o candidato foi
 recrutado pela
@@ -4666,7 +4564,6 @@ conteúdo acima
 decorrente da premissa P4.
 
 Gabarito: ERRADO.
-
 
 9.(CESPE/FUNPRESP-JUD/2016) Julgue o item a seguir, a respeito das maneiras de pensar com argumentos
 racionais.
@@ -4722,7 +4619,6 @@ das premissas é uma proposição simples. Em seguida, a questão será resolvid
 método da conclusão
 falsa, que também é aplicável ao caso pelo fato de a conclusão ser uma proposição simples.
 
-
 Método em que se considera todas as premissas verdadeiras
 
 Etapa 1: identificaras afirmações que se apresentam em algum dos "formatos fáceis"
@@ -4776,7 +4672,6 @@ Logo, o argumento é válido, pois ao se considerar as premissas verdadeiras, a
 conclusão necessariamente é
 verdadeira. O gabarito, portanto, é CERTO.
 
-
 Método da conclusão falsa
 
 Etapa 1: desconsiderar o contexto
@@ -4828,7 +4723,6 @@ falsa.
 O argumento, portanto, é válido.
 Gabarito: CERTO.
 
-
 ll.(CESPE/MEC/2015) Julgue o item subsequente, relacionados à lógica de argumentação.
 
 O texto "O homem inteligente nunca recebe penalidades, pois somente o homem
@@ -4877,7 +4771,6 @@ homens inteligentes está contido no conjunto dos que jamais erram.
 
 Incluindo essa informação no diagrama, temos:
 
-
 Recebe penalidades
 
 Homem que jamais erra
@@ -4897,7 +4790,6 @@ de fato uma
 consequência obrigatória das premissas. Logo, temos um argumento válido.
 
 Gabarito: CERTO.
-
 
 12.(CESPE/STJ/2015) Mariana é uma estudante que tem grande apreço pela matemática,
 apesar de achar
@@ -4928,7 +4820,6 @@ Como a conclusão é uma proposição simples, podemos usar o método da conclus
 Etapa 1: desconsiderar o contexto
 
 Sejam as proposições simples:
-
 
 m: " Mariana aprende o conteúdo de Cálculo 1."
 
@@ -4979,7 +4870,6 @@ Um argumento que tenha Pl e P2 como premissas e P3 como conclusão será um argu
 Comentários:
 
 Como a conclusão é uma condicional, podemos usar o método da conclusão falsa.
-
 
 Etapa 1: desconsiderar o contexto
 
@@ -5038,7 +4928,6 @@ Comentários:
 
 Como a conclusão é uma proposição simples, podemos usar o método da conclusão falsa.
 
-
 Etapa 1: desconsiderar o contexto
 
 Sejam as proposições simples:
@@ -5082,7 +4971,6 @@ que, por exemplo, b seja V, r seja V e g seja V. Logo, o argumento é inválido.
 
 Gabarito: ERRADO.
 
-
 15.(CESPE/MPOG/2015)
 
 SE OS IGNORANTES É QUE SÃÇ
@@ -5105,7 +4993,6 @@ DITADURA!
 
 03». 114
 
-
 A partir dos argumentos apresentados pelo personagem Calvin na tirinha acima mostrada,
 julgue o
 seguinte item.
@@ -5121,7 +5008,6 @@ um argumento válido.
 Comentários:
 
 Como a conclusão é uma proposição simples, podemos usar o método da conclusão falsa.
-
 
 Sejam as proposições simples:
 
@@ -5162,7 +5048,6 @@ o argumento é inválido.
 
 Gabarito: ERRADO.
 
-
 Texto para as próximas questões
 
 : Pl: Não perco meu voto.
@@ -5188,11 +5073,11 @@ itens seguintes, que se
 
 = referem à lógica sentenciai.
 
-Item. 16. (CESPE/Pol. Leg./2014) Caso as proposições Pl, P2 e P4 sejam verdadeiras, será verdadeira a
+16. (CESPE/Pol. Leg./2014) Caso as proposições Pl, P2 e P4 sejam verdadeiras, será verdadeira a
 proposição
 "o candidato X é eleito ou ele me dá um agrado antes da eleição".
 
-Item. 17. (CESPE/Pol. Leg./2014) O argumento cujas premissas sejam as proposições Pl, P2, P3
+17. (CESPE/Pol. Leg./2014) O argumento cujas premissas sejam as proposições Pl, P2, P3
 e P4 e cuja
 conclusão seja a proposição C será válido.
 
@@ -5221,7 +5106,6 @@ Premissa P2: vA~eA~a -» p
 Premissa P4: v
 
 Conclusão: e V a
-
 
 Etapa 2: partir da hipótese de que a conclusão é falsa
 
@@ -5273,7 +5157,6 @@ Etapa 2: partir da hipótese de que a conclusão é falsa
 
 Considerando que a conclusão é falsa, temos a V b falso. Logo, a é F e b é F.
 
-
 Etapa 3: tentar obter ao menos um caso em que todas as premissas sejam verdadeiras mantendo a
 conclusão falsa
 
@@ -5311,11 +5194,11 @@ e todas as afirmações de Maria eram falsas.
 
 Com referência a essas premissas, julgue o próximo item.
 
-Item. 18. (CESPE/Agente PF /2014) Se Maria, em seu depoimento, disse que Paulo é inocente, e se Paulo for
+18. (CESPE/Agente PF /2014) Se Maria, em seu depoimento, disse que Paulo é inocente, e se Paulo for
 de
 fato inocente, então é correto afirmar que Jair é culpado.
 
-Item. 19. (CESPE/Agente PF/2014) Considerando as proposições P: Paulo é inocente; Q: João é culpado; R:
+19. (CESPE/Agente PF/2014) Considerando as proposições P: Paulo é inocente; Q: João é culpado; R:
 Jair é
 culpado; S: José falou a verdade no depoimento; e T: Maria falou a verdade no
 depoimento, é correto
@@ -5326,7 +5209,6 @@ Comentários:
 Questão 18
 
 Como a conclusão é uma condicional, podemos usar o método da conclusão falsa.
-
 
 Sejam as proposições simples:
 
@@ -5376,7 +5258,6 @@ Veja que é possível fazer com que todas as premissas sejam verdadeiras mantend
 Logo,
 o argumento é inválido. O gabarito, portanto, é ERRADO.
 
-
 Questão 19
 
 Como a conclusão é uma condicional, podemos usar o método da conclusão falsa.
@@ -5423,7 +5304,6 @@ falsa.
 O argumento, portanto, é válido. Isso significa que o gabarito é CERTO.
 Gabarito: 18 - ERRADO. 19 - CERTO.
 
-
 2O.(CESPE/BACEN/2O13) Considere que as seguintes proposições sejam verdadeiras.
 I Se o dólar subir, as exportações aumentarão ou as importações diminuirão.
 
@@ -5436,7 +5316,6 @@ Se o dólar subir, então a inflação diminuirá.
 Comentários:
 
 Como a conclusão é uma condicional, podemos usar o método da conclusão falsa.
-
 
 Sejam as proposições simples:
 
@@ -5475,7 +5354,6 @@ verdadeiro.
 Para a premissa III ser verdadeira, como o consequente ~f é falso, devemos ter o
 antecedente falso para
 não cairmos no caso V-»F. Logo, b é F.
-
 
 Para a premissa I ser verdadeira, dado que o antecedente d é V, o consequente não
 pode ser falso, pois
@@ -5529,7 +5407,6 @@ P2: s-> d
 
 C: d-*t
 
-
 Etapa 2: partir da hipótese de que a conclusão é falsa
 
 Considerando que a conclusão é falsa, o antecedente d é V e o consequente t é F.
@@ -5581,7 +5458,6 @@ Conclusão: ~D->AAE
 Etapa 2: partir da hipótese de que a conclusão é falsa
 
 Considerando que a conclusão é falsa, o antecedente ~DéVeo consequente AAE é falso. Logo D é F.
-
 
 Etapa 3: tentar obter ao menos um caso em que todas as premissas sejam verdadeiras
 mantendo a
@@ -5637,7 +5513,6 @@ r: "O Brasil reduz as formalidades burocráticas."
 
 d: "O Brasil reduz o nível de desconfiança nas instituições públicas."
 
-
 e: "O Brasil elimina obstáculos de infraestrutura."
 
 t: "O Brasil elimina as ineficiências no trânsito de mercadorias."
@@ -5689,7 +5564,6 @@ P4: Se eu ficar menos tempo no trânsito, ficarei menos estressado.
 P5: Se eu ficar menos estressado, serei feliz.
 
 A partir dessas proposições, julgue o item a seguir.
-
 
 É válido o argumento em que as proposições Pl, P2, P3, P4 e P5 são as premissas e a proposição "Se
 aceitar
@@ -5755,14 +5629,13 @@ Note que não é possível que a premissa P5 seja uma condicional verdadeira, po
 o antecedente e
 verdadeiro com o consequente f falso.
 
-
 Não é possível fazer com que todas as premissas sejam verdadeiras mantendo a conclusão
 falsa. O
 
 argumento, portanto, é válido.
 Gabarito: CERTO.
 
-Item. 25. (CESPE/PCie PE/2016) Considere as seguintes proposições para responder à questão.
+25. (CESPE/PCie PE/2016) Considere as seguintes proposições para responder à questão.
 
 Pl: Se há investigação ou o suspeito é flagrado cometendo delito, então há punição de criminosos.
 P2: Se há punição de criminosos, os níveis de violência não tendem a aumentar.
@@ -5794,7 +5667,6 @@ inserida no
 argumento para que ele seja válido.
 
 A conclusão é uma proposição simples. Podemos então aplicar o método da conclusão falsa.
-
 
 A conclusão é uma
 proposição simples,
@@ -5842,7 +5714,6 @@ todas as premissas
 sejam V mantendo a
 conclusão F?
 
-
 Utilizar outro
 método
 
@@ -5853,7 +5724,6 @@ conclusão F.
 
 Argumento
 VÁLIDO
-
 
 Etapa 1: desconsiderar o contexto
 
@@ -5906,7 +5776,6 @@ Observe a letra A:
 
 ivf :"Há investigação ou o suspeito é flagrado cometendo delito."
 
-
 Se incluirmos a letra A na premissa PO, então essa premissa i V f, de acordo com
 os resultados obtidos, deve
 ser falsa se mantivermos a conclusão falsa.
@@ -5939,13 +5808,13 @@ Tendo como referência a situação acima apresentada, julgue os itens seguintes
 considerando apenas seus
 aspectos lógicos.
 
-Item. 26. (CESPE/TRT 10/2013) Será válido o argumento em que as premissas sejam as proposições P2, P3, P4
+26. (CESPE/TRT 10/2013) Será válido o argumento em que as premissas sejam as proposições P2, P3, P4
 e
 P5 e a conclusão seja a proposição "Se você praticar exercícios físicos regularmente e
 tiver uma dieta
 balanceada, não sentirá dores na região lombar".
 
-Item. 27. (CESPE/TRT 10/2013) De acordo com as informações apresentadas, estar com a estrutura muscular
+27. (CESPE/TRT 10/2013) De acordo com as informações apresentadas, estar com a estrutura muscular
 fraca ou com sobrepeso é condição suficiente para o paciente sentir dores na região lombar.
 
 Comentários:
@@ -5961,7 +5830,6 @@ s: "Você está com sobrepeso."
 
 c: "Você está com sobrecarga na estrutura óssea da coluna"
 I: "Você sentirá dores na região lombar."
-
 
 e: "Você pratica exercícios físicos regularmente"
 
@@ -6016,7 +5884,6 @@ I: "Você sentirá dores na região lombar."
 e: "Você pratica exercícios físicos regularmente"
 
 d: "Você tem uma dieta balanceada."
-
 
 Ao dizer "de acordo com as informações apresentadas", pereba que a questão quer que
 consideremos as
@@ -6073,7 +5940,6 @@ e) Coelhos morrem cedo.
 
 Comentários:
 
-
 Sejam as proposições:
 
 p: "Andar rápido faz bem."
@@ -6101,9 +5967,9 @@ Gabarito: Letra E.
 abaixo
 são premissas, isto é, têm avaliação V.
 
-Item. 1. (AA-B) -► C
+1. (AA-B) -► C
 
-Item. 2. -C
+2. -C
 
 Neste caso, se a conclusão for a proposição (--AVB), tem-se uma argumentação válida
 Comentários:
@@ -6114,7 +5980,6 @@ Sabemos que, por Modus Tollens, uma conclusão que torna o argumento válido é 
 negação do antecedente.
 
 Vamos então negar o antecedente:
-
 
 Por De Morgan, temos:
 
@@ -6129,7 +5994,6 @@ A dupla negação de uma proposição é a própria proposição original. Logo:
 A conclusão obtida é a conclusão que o enunciado afirma.
 
 Gabarito: CERTO.
-
 
 3O.(CESPE/TRE MG/2009) Considere as sentenças apresentada a seguir.
 G: O preço do combustível automotivo é alto
@@ -6196,7 +6060,6 @@ Para a premissa 1 ser verdadeira, como temos o antecedente verdadeiro, o consequ
 não pode ser falso,
 pois nesse caso teríamos V->F. Logo, CA~I é verdadeiro. Portanto, C é V e I é F.
 
-
 Pela premissa 4, para disjunção inclusiva ser verdadeira, ao menos um termo deve ser
 verdadeiro. Como ~C
 
@@ -6222,7 +6085,6 @@ d) MA~C - conjunção falsa, pois ambos os termos são falsos.
 
 e) CAG - conjunção falsa, pois apesar de C ser verdadeiro, nada podemos afirmar de G.
 Gabarito: Letra A.
-
 
 LISTA DE QUESTõES - CEBRASPE
 
@@ -6250,15 +6112,15 @@ possível, o estado das cinco chaves, observou-se que, atualmente, a chave E est
 = Com referência à situação descrita, julgue os próximos itens.
 ;
 
-Item. 1. (CESPE/PETROBRAS/2022) A chave B está fechada, com certeza.
+1. (CESPE/PETROBRAS/2022) A chave B está fechada, com certeza.
 
-Item. 2. (CESPE/PETROBRAS/2022) A chave C pode estar aberta.
+2. (CESPE/PETROBRAS/2022) A chave C pode estar aberta.
 
-Item. 3. (CESPE/PETROBRAS/2022) A chave D está fechada, com certeza.
+3. (CESPE/PETROBRAS/2022) A chave D está fechada, com certeza.
 
-Item. 4. (CESPE/PETROBRAS/2022) É impossível determinar o estado atual de todas as chaves.
+4. (CESPE/PETROBRAS/2022) É impossível determinar o estado atual de todas as chaves.
 
-Item. 5. (CESPE/SEFAZ AL/2021) Considere as proposições lógicas P e Q, a seguir, a respeito de um
+5. (CESPE/SEFAZ AL/2021) Considere as proposições lógicas P e Q, a seguir, a respeito de um
 condômino
 chamado Marcos.
 
@@ -6273,8 +6135,7 @@ Mesmo que sejam verdadeiras as proposições P e Q, não se pode afirmar que Mar
 tem direito a
 receber os benefícios providos pela associação de moradores de seu condomínio.
 
-
-Item. 6. (CESPE/Pref. B dos Coqueiros/2020) Considere as seguintes proposições.
+6. (CESPE/Pref. B dos Coqueiros/2020) Considere as seguintes proposições.
 
 * P: "Se Paulo é fiscal, então João é motorista."
 
@@ -6291,7 +6152,7 @@ d) Maria é enfermeira, João não é motorista e Paulo é fiscal.
 
 e) Maria não é enfermeira, João não é motorista e Paulo é fiscal.
 
-Item. 7. (CESPE/Pref. B dos Coqueiros/2020) Paulo, Pedro e João têm, cada um, uma única profissão.
+7. (CESPE/Pref. B dos Coqueiros/2020) Paulo, Pedro e João têm, cada um, uma única profissão.
 Sabe-se que:
 
 * se Paulo é pedreiro, então Pedro não é porteiro;
@@ -6309,7 +6170,7 @@ d) Pedro não é porteiro, mas não se sabe se Paulo é ou não pedreiro.
 
 e) Pedro é porteiro, mas não se sabe se Paulo é ou não pedreiro.
 
-Item. 8. (CESPE/PC ES/2011) Para descobrir qual dos assaltantes — Gavião ou Falcão — ficou
+8. (CESPE/PC ES/2011) Para descobrir qual dos assaltantes — Gavião ou Falcão — ficou
 com o dinheiro
 roubado de uma agência bancária, o delegado constatou os seguintes fatos:
 
@@ -6325,7 +6186,6 @@ base
 nas regras de dedução.
 
 A proposição "O dinheiro foi entregue à mulher de Gavião" é verdadeira.
-
 
 9.(CESPE/TRT 17/2009) Considere que cada uma das proposições seguintes tenha valor lógico V.
 
@@ -6391,7 +6251,6 @@ III. Nem Roberto votou em Carlos, nem Lourenço votou em Eduardo.
 IV. Gilvan votou em Benedito ou Roberto votou em Carlos.
 Com base nessas informações, assinale a opção correta.
 
-
 a) Se Gilvan votou em Benedito, então Edmundo votou em Antônio.
 
 b) Cláudio votou em Douglas e Gilvan votou em Benedito.
@@ -6402,34 +6261,31 @@ d) Cláudio não votou em Douglas e Gilvan não votou em Benedito.
 
 e) Cláudio votou em Douglas e Edmundo votou em Antônio.
 
-
 GABARITo - CEBRASPE
 
 Conectivos lógicos: questões clássicas
 
+1. CERTO
 
-Item. 1. CERTO
+2. ERRADO
 
-Item. 2. ERRADO
+3. CERTO
 
-Item. 3. CERTO
+4. ERRADO
 
-Item. 4. ERRADO
+5. CERTO
 
-Item. 5. CERTO
+6. LETRA A
 
-Item. 6. LETRA A
+7. LETRA A
 
-Item. 7. LETRA A
+8. CERTO
 
-Item. 8. CERTO
+9. ERRADO
 
-Item. 9. ERRADO
+10. LETRA E
 
-Item. 10. LETRA E
-
-Item. 11. LETRA B
-
+11. LETRA B
 
 LISTA DE QUESTõES - CEBRASPE
 
@@ -6462,11 +6318,11 @@ Considerando o argumento acima, em que as proposições de Pl a P4 são as premi
 C é a conclusão,
 julgue os itens seguintes.
 
-Item. 1. (CESPE/IBAMA/2013) Se o argumento apresentado é um argumento válido, a sua conclusão
+1. (CESPE/IBAMA/2013) Se o argumento apresentado é um argumento válido, a sua conclusão
 é uma
 proposição verdadeira.
 
-Item. 2. (CESPE/IBAMA/2013) Se o argumento apresentado não é um argumento válido, suas
+2. (CESPE/IBAMA/2013) Se o argumento apresentado não é um argumento válido, suas
 premissas são
 proposições falsas.
 
@@ -6487,14 +6343,13 @@ se a conclusão ;
 = Com base nessas informações, julgue os itens seguintes.
 ;
 
-Item. 3. (CESPE/PF/2004) Toda premissa de um argumento válido é verdadeira.
+3. (CESPE/PF/2004) Toda premissa de um argumento válido é verdadeira.
 
-Item. 4. (CESPE/PF/2004) Se a conclusão é verdadeira, o argumento é válido.
+4. (CESPE/PF/2004) Se a conclusão é verdadeira, o argumento é válido.
 
-Item. 5. (CESPE/PF/2004) Se a conclusão é falsa, o argumento não é válido.
+5. (CESPE/PF/2004) Se a conclusão é falsa, o argumento não é válido.
 
-
-Item. 6. (CESPE/SERPRO/2013) Ser síndico não é fácil. Além das cobranças de uns e da inadimplência de
+6. (CESPE/SERPRO/2013) Ser síndico não é fácil. Além das cobranças de uns e da inadimplência de
 outros,
 ele está sujeito a passar por desonesto.
 
@@ -6515,7 +6370,7 @@ Considerando que Pl e P2 sejam as premissas de um argumento de que P3 seja a
 conclusão, é correto
 afirmar que, do ponto de vista lógico, o texto acima constitui um argumento válido.
 
-Item. 7. (CESPE/MEC/2015) Julgue o item subsequente, relacionados à lógica de argumentação.
+7. (CESPE/MEC/2015) Julgue o item subsequente, relacionados à lógica de argumentação.
 O texto "Penso, logo existo" apresenta um argumento válido.
 
 8.(CESPE/PF/2013) Suspeita-se de que um chefe de organização criminosa tenha assumido as despesas de
@@ -6545,7 +6400,6 @@ Considerando essa situação hipotética, julgue o item subsecutivos.
 Com fundamento nas proposições Pl, P2, P3 e P4, confirma-se a suspeita de que o
 chefe de organização
 criminosa tenha custeado para o candidato curso de preparação para o concurso.
-
 
 9.(CESPE/FUNPRESP-JUD/2016) Julgue o item a seguir, a respeito das maneiras de pensar com argumentos
 racionais.
@@ -6603,7 +6457,6 @@ Geral, então ela
 afirmar que o
 argumento formado pelas premissas p e q e pela conclusão c é um argumento válido.
 
-
 13.(CESPE/MIN/2013) Ao comentar a respeito da qualidade dos serviços prestados por uma
 empresa, um
 cliente fez as seguintes afirmações:
@@ -6633,7 +6486,6 @@ O argumento formado pelas premissas Pl e P2 e pela conclusão "Os clientes brasi
 suíços
 não estão regularizando sua situação com o fisco de seu país." é um argumento válido.
 
-
 15.(CESPE/MPOG/2015)
 
 SE OS IGNORANTES É QUE SÃÇ
@@ -6659,7 +6511,6 @@ A
 SOCORRO!
 DITADURA!
 
-
 í
 í
 í
@@ -6679,7 +6530,6 @@ assistirei à aula",
 em que P, Q e R sejam as premissas e S seja a conclusão, é correto afirmar que essa representação
 constitui
 um argumento válido.
-
 
 Texto para as próximas questões
 
@@ -6706,11 +6556,11 @@ itens seguintes, que se
 
 = referem à lógica sentenciai.
 
-Item. 16. (CESPE/Pol. Leg./2014) Caso as proposições Pl, P2 e P4 sejam verdadeiras, será verdadeira a
+16. (CESPE/Pol. Leg./2014) Caso as proposições Pl, P2 e P4 sejam verdadeiras, será verdadeira a
 proposição
 "o candidato X é eleito ou ele me dá um agrado antes da eleição".
 
-Item. 17. (CESPE/Pol. Leg./2014) O argumento cujas premissas sejam as proposições Pl, P2, P3
+17. (CESPE/Pol. Leg./2014) O argumento cujas premissas sejam as proposições Pl, P2, P3
 e P4 e cuja
 conclusão seja a proposição C será válido.
 
@@ -6727,11 +6577,11 @@ e todas as afirmações de Maria eram falsas.
 
 Com referência a essas premissas, julgue o próximo item.
 
-Item. 18. (CESPE/Agente PF /2014) Se Maria, em seu depoimento, disse que Paulo é inocente, e se Paulo
+18. (CESPE/Agente PF /2014) Se Maria, em seu depoimento, disse que Paulo é inocente, e se Paulo
 for de
 fato inocente, então é correto afirmar que Jair é culpado.
 
-Item. 19. (CESPE/Agente PF/2014) Considerando as proposições P: Paulo é inocente; Q: João é culpado; R:
+19. (CESPE/Agente PF/2014) Considerando as proposições P: Paulo é inocente; Q: João é culpado; R:
 Jair é
 
 2O.(CESPE/BACEN/2O13) Considere que as seguintes proposições sejam verdadeiras.
@@ -6742,7 +6592,6 @@ III Se o BACEN aumentar a taxa de juros, a inflação diminuirá.
 
 Com base apenas nessas proposições, julgue o item a seguir.
 Se o dólar subir, então a inflação diminuirá.
-
 
 21.(CESPE/SERPRO/2013) Ser síndico não é fácil. Além das cobranças de uns e da inadimplência de
 outros,
@@ -6799,8 +6648,7 @@ A partir dessas proposições, julgue o item seguinte a respeito de lógica sent
 
 O argumento constituído pelas premissas Pl e P2 e pela conclusão C é um argumento válido.
 
-
-Item. 24. (CESPE/SUFRAMA/2014) Pedro, um jovem empregado de uma empresa, ao receber a proposta de novo
+24. (CESPE/SUFRAMA/2014) Pedro, um jovem empregado de uma empresa, ao receber a proposta de novo
 emprego, fez diversas reflexões que estão traduzidas nas proposições abaixo.
 
 Pl: Se eu aceitar o novo emprego, ganharei menos, mas ficarei menos tempo no trânsito.
@@ -6817,7 +6665,7 @@ A partir dessas proposições, julgue o item a seguir.
 aceitar
 o novo emprego, serei feliz e não serei feliz" é a conclusão.
 
-Item. 25. (CESPE/PCie PE/2016) Considere as seguintes proposições para responder à questão.
+25. (CESPE/PCie PE/2016) Considere as seguintes proposições para responder à questão.
 
 Pl: Se há investigação ou o suspeito é flagrado cometendo delito, então há punição de criminosos.
 P2: Se há punição de criminosos, os níveis de violência não tendem a aumentar.
@@ -6842,7 +6690,6 @@ d) Se o suspeito é flagrado cometendo delito, então há punição de criminoso
 
 e) Se há investigação, então há punição de criminosos.
 
-
 Texto para as próximas questões
 
 Ao comentar sobre as razões da dor na região lombar que seu paciente sentia, o
@@ -6866,13 +6713,13 @@ Tendo como referência a situação acima apresentada, julgue os itens seguintes
 considerando apenas seus
 aspectos lógicos.
 
-Item. 26. (CESPE/TRT 10/2013) Será válido o argumento em que as premissas sejam as proposições P2, P3, P4
+26. (CESPE/TRT 10/2013) Será válido o argumento em que as premissas sejam as proposições P2, P3, P4
 e
 P5 e a conclusão seja a proposição "Se você praticar exercícios físicos regularmente e
 tiver uma dieta
 balanceada, não sentirá dores na região lombar".
 
-Item. 27. (CESPE/TRT 10/2013) De acordo com as informações apresentadas, estar com a
+27. (CESPE/TRT 10/2013) De acordo com as informações apresentadas, estar com a
 estrutura muscular
 fraca ou com sobrepeso é condição suficiente para o paciente sentir dores na região lombar.
 
@@ -6899,12 +6746,11 @@ e) Coelhos morrem cedo.
 abaixo
 são premissas, isto é, têm avaliação V.
 
-Item. 1. (AA-B) -> C
+1. (AA-B) -> C
 
-Item. 2. -C
+2. -C
 
 Neste caso, se a conclusão for a proposição (--AVB), tem-se uma argumentação válida
-
 
 3O.(CESPE/TRE MG/2009) Considere as sentenças apresentada a seguir.
 G: O preço do combustível automotivo é alto
@@ -6930,39 +6776,37 @@ d) os motores dos veículos são econômicos e o preço da cesta básica não é
 
 e) o preço da cesta básica é estável e o preço do combustível automotivo é alto.
 
-
 GABARITo - CEBRASPE
 
 Lógica de argumentação: Argumentos dedutivos
 
-Item. 1. ERRADO 11. CERTO
-Item. 21. ERRADO
+1. ERRADO 11. CERTO
+21. ERRADO
 
-Item. 2. ERRADO 12. ERRADO
-Item. 22. ERRADO
+2. ERRADO 12. ERRADO
+22. ERRADO
 
-Item. 3. ERRADO 13.CERTO
-Item. 23. ERRADO
+3. ERRADO 13.CERTO
+23. ERRADO
 
-Item. 4. ERRADO 14. ERRADO
+4. ERRADO 14. ERRADO
 24.CERTO
 
-Item. 5. ERRADO 15. ERRADO
-Item. 25. LETRA A
+5. ERRADO 15. ERRADO
+25. LETRA A
 
-Item. 6. ERRADO 16.CERTO
-Item. 26. ERRADO
+6. ERRADO 16.CERTO
+26. ERRADO
 
-Item. 7. ERRADO 17.CERTO
+7. ERRADO 17.CERTO
 27.CERTO
 
-Item. 8. ERRADO 18. ERRADO
-Item. 28. LETRA E
+8. ERRADO 18. ERRADO
+28. LETRA E
 
-Item. 9. CERTO 19.CERTO
+9. CERTO 19.CERTO
 29.CERTO
 
 10.CERTO 20. ERRADO
-Item. 30. LETRA A
-
+30. LETRA A
 

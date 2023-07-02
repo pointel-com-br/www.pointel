@@ -1,15 +1,14 @@
-Capítulo. Desenvolvimento de Software - Orientação a Objetos.
-
+# Desenvolvimento de Software - Orientação a Objetos.
 
 A orientação a objetos é um paradigma de programação que organiza o código em torno de objetos, que são instâncias de classes. Ela se baseia em quatro princípios fundamentais: encapsulamento, herança, polimorfismo e abstração.
 
-Item. 1. Encapsulamento: É o princípio que define a restrição de acesso direto aos dados de um objeto e a necessidade de utilizar métodos (funções) para manipulá-los. Isso significa que os dados internos de um objeto são protegidos e só podem ser acessados ou modificados através de métodos específicos. O encapsulamento ajuda a garantir a integridade dos dados e evita a dependência direta entre diferentes partes do código.
+1. Encapsulamento: É o princípio que define a restrição de acesso direto aos dados de um objeto e a necessidade de utilizar métodos (funções) para manipulá-los. Isso significa que os dados internos de um objeto são protegidos e só podem ser acessados ou modificados através de métodos específicos. O encapsulamento ajuda a garantir a integridade dos dados e evita a dependência direta entre diferentes partes do código.
 
-Item. 2. Herança: É um mecanismo que permite que uma classe herde características (atributos e métodos) de outra classe, estabelecendo uma relação de especialização. A classe que herda é chamada de classe derivada ou subclasse, e a classe que é herdada é chamada de classe base ou superclasse. A herança permite reutilizar o código existente, promovendo a modularidade e a extensibilidade do sistema.
+2. Herança: É um mecanismo que permite que uma classe herde características (atributos e métodos) de outra classe, estabelecendo uma relação de especialização. A classe que herda é chamada de classe derivada ou subclasse, e a classe que é herdada é chamada de classe base ou superclasse. A herança permite reutilizar o código existente, promovendo a modularidade e a extensibilidade do sistema.
 
-Item. 3. Polimorfismo: É a capacidade de um objeto se comportar de diferentes formas, dependendo do contexto em que é utilizado. O polimorfismo permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma interface comum. Isso facilita a substituição de objetos em tempo de execução e possibilita o desenvolvimento de código mais flexível e extensível.
+3. Polimorfismo: É a capacidade de um objeto se comportar de diferentes formas, dependendo do contexto em que é utilizado. O polimorfismo permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma interface comum. Isso facilita a substituição de objetos em tempo de execução e possibilita o desenvolvimento de código mais flexível e extensível.
 
-Item. 4. Abstração: É o processo de identificar as características essenciais de um objeto ou conceito e modelá-las em uma classe. A abstração permite simplificar a complexidade do sistema, concentrando-se apenas nos aspectos relevantes e ocultando detalhes desnecessários. As classes abstratas fornecem uma base para a criação de objetos concretos.
+4. Abstração: É o processo de identificar as características essenciais de um objeto ou conceito e modelá-las em uma classe. A abstração permite simplificar a complexidade do sistema, concentrando-se apenas nos aspectos relevantes e ocultando detalhes desnecessários. As classes abstratas fornecem uma base para a criação de objetos concretos.
 
 A orientação a objetos oferece vários benefícios no desenvolvimento de software, incluindo:
 
@@ -23,28 +22,25 @@ A orientação a objetos oferece vários benefícios no desenvolvimento de softw
 
 A orientação a objetos é amplamente utilizada em diversas linguagens de programação, como Java, C++, C#, Python, entre outras. Dominar os conceitos e princípios da orientação a objetos é essencial para desenvolver sistemas robustos, flexíveis e de qualidade.
 
-
 A Orientação a Objetos tem alguns pilares que devem ser implementados em qualquer linguagem de programação. Muitas linguagens procedurais possuem caraterísticas semelhantes à orientação a objetos, como a similaridade dos registros em C com classes, mas isso não basta que algumas dessas características estejam presentes para ser considerada uma linguagem orientada a objetos! Professor, e quais são esses pilares?? Padawan, nunca se esqueça, uma linguagem de programação só pode ser chamada de OO se tiver suporte nativo a: Encapsulamento, Herança, Composição e Polimorfismo. Alguns autores afirmar que as quatro caraterística na verdade são somente uma: o princípio da abstração.
 
 Índice
 
-Item. 1 Classe
+1 Classe
 
-Item. 1.1 Objetos
+1.1 Objetos
 
-Item. 1.2 Atributos
+1.2 Atributos
 
-Item. 1.3 Métodos
+1.3 Métodos
 
+2 Interface
 
-Item. 2 Interface
+3 Encapsulamento
 
-Item. 3 Encapsulamento
+4 Polimorfismo
 
-Item. 4 Polimorfismo
-
-Item. 5 Herança
-
+5 Herança
 
 Classe
 
@@ -216,7 +212,6 @@ Global
 
 Não
 
-
 Especificador
 
 <Vazio> ( ~ )
@@ -237,7 +232,6 @@ Global
 
 Não
 
-
 Especificador
 
 Protegido ( # )
@@ -257,7 +251,6 @@ Sim
 Global
 
 Não
-
 
 Especificador
 
@@ -296,33 +289,27 @@ Existem dois tipos de polimorfismo:
 § Polimorfismo Dinâmico: ocorre quando uma classe possui um método com mesmo nome e mesma assinatura que um método de sua superclasse, i.e., o método da classe-filha sobrescreve o método da classe-pai. Pode ser chamada também de Sobrescrita, Overriding, Redefinição ou Sobreposição. Ocorre em Tempo de Execução e é um corolário do conceito de herança.
 Professor, o que você quer dizer com mesma assinatura e assinatura diferente? É a mesma quantidade, tipo e ordem dos parâmetros. Em outras palavras:
 
-
 // Assinatura Igual: quantidade, tipo e ordem
 public String EntendendoAssinatura ( int A , char B ) ;
 
 public String EntendendoAssinatura ( int C , char D ) ;
-
 
 // Assinatura Diferente: quantidade diferente
 public String EntendendoAssinatura ( long A , long B , long C ) ;
 
 public String EntendendoAssinatura ( long A , long B ) ;
 
-
 // Assinatura Diferente: tipo diferente
 public String EntendendoAssinatura ( long A , long B ) ;
 
 public String EntendendoAssinatura ( char A , long B ) ;
-
 
 // Assinatura Diferente: ordem diferente
 public String EntendendoAssinatura ( int A , char B ) ;
 
 public String EntendendoAssinatura ( char B , int A ) ;
 
-
 Agora vamos ver um exemplo de Polimorfismo Dinâmico. Eu pensei comigo mesmo: O que seria uma característica comum de praticamente todos os animais? Emitir sons! Observem que eu criei uma classe abstrata que possui um único método - também abstrato -, que não retorna valor algum e não recebe nenhum argumento. Vejam a classe abaixo:
-
 
 abstract class Animal {
 

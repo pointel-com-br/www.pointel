@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Significação das palavras. Substituição de palavras ou de trechos de texto.
-
+# Língua Portuguesa - Significação das palavras. Substituição de palavras ou de trechos de texto.
 
 Índice
 
@@ -30,7 +29,6 @@ Capítulo. Língua Portuguesa - Significação das palavras. Substituição de p
 13) Lista de Questões - Ambiguidade - Cebraspe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 CoNSIDERAçõES INICIAIS
 
@@ -84,7 +82,6 @@ O Prof. Patrícia Manzato
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 CAMPo SEMÂNTICo
 
 As palavras podem ter estreitas relações de sentido entre si, como de semelhança,
@@ -113,7 +110,6 @@ uniforme, luva ou
 outra que também se relacione de algum modo à ideia geral sugerida por "futebol".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 SENTIDo DENoTATIvo X SENTIDo oNoTATIvo
 
@@ -156,7 +152,6 @@ se torna perfeitamente coerente porque a matéria fala sobre o consumo
 alimentos do mundo.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Veja mais um exemplo:
 
@@ -202,7 +197,6 @@ Certo, toda palavra boiará no papel,
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 pois para catar esse feijão, soprar neie,
 e jogar fora o leve e oco, pa/ha e eco.
 
@@ -243,7 +237,6 @@ jogar fora o leve
 e oco, palha e eco. (sentido literal, linguagem denotativa). Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Sinônimos
 
@@ -290,7 +283,6 @@ infância, às
 A palavra "capricho" (L.2) está empregada no texto com o mesmo sentido de zelo.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -349,7 +341,6 @@ j incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Hiperónimos
 
 HIPERóNIMoS E HIPôNIMoS
@@ -378,7 +369,6 @@ EXEMPLIFICANDO
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Gato é hipônimo de Fe/ino (hiperônimo).
 Cava/o é hipônimo de Equino (hiperônimo).
 Deputado é hipônimo de Político (hiperônimo).
@@ -406,7 +396,6 @@ evento e
 assim por diante...
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 l«** IX
 
@@ -464,7 +453,6 @@ informal. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Homônimos
 
 HoMôNIMoS E PARôNIMoS
@@ -486,7 +474,6 @@ Muitas vezes, essa semelhança conduz a erros ortográficos. O conhecimento
 dessas palavras
 também é muito importante para interpretação de texto e questões de vocabulário.
 
-
 ADORAMOS
 CESTAS...
 
@@ -494,7 +481,6 @@ ADORAMOS
 SESTAS...
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Exemplos clássicos de parônimos:
 
@@ -524,7 +510,6 @@ descrição {ato de descreve? discrição {reserva, prudência)
 
 descriminar {tirar a culpa) discriminar {distingui?
 
-
 despensa {/oca/ onde se guardam
 mantimentos)
 
@@ -546,7 +531,6 @@ luga?
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 flagrante {evidente) fragrante {perfumado)
 
 fluir {transcorrer, decorrer) fruir {desfrutar)
@@ -561,7 +545,6 @@ i nf I ig i r (aplicar pena) infringir {violar,
 desrespeitar)
 
 mandado {ordem judicial) mandato {procuração)
-
 
 peão {aquele que anda a pé, domador de
 cavalos)
@@ -595,7 +578,6 @@ sentido, como exemplifico abaixo:
 
 Cavaleiro x Cavalheiro
 
-
 Comprimento
 Descriminar
 x Cumprimento
@@ -605,10 +587,8 @@ Descrição x Discrição
 
 SERPRO - Lingua Portuguesa - 2023 (Pós-Edital)
 
-
 Aprender x Apreender
 minente x Iminente
-
 
 Inflação
 Flagrante
@@ -661,7 +641,6 @@ Infarte / infarto são variantes da mesma palavra, o sentido não muda. Questão
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 POLISSEMIA
 
 Uma mesma palavra pode ter múltiplos sentidos.
@@ -700,7 +679,6 @@ Então, sem querer resolver enigmas acadêmicos, temos que adotar um critério p
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Homonímia: há "duas" palavras, quase sempre de classes diferentes, cada uma com
 seu sentido, mas que apresentam uma "coincidência" de forma.
 
@@ -715,7 +693,6 @@ Normalmente, a Questão apenas cobra o conceito:
 pronúncia" - Homônimos
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 AMBIGUIDADE
 
@@ -748,7 +725,6 @@ causa dupla
 possibilidade de leitura:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 GARFIELD
 
@@ -791,7 +767,6 @@ Sentido 2: As empresas venderam seus produtos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: Comprei as frutas e os legumes que fazem emagrecer.
 Sentido 1: Os legumes fazem emagrecer.
 
@@ -825,7 +800,6 @@ SEM SEU
 GAROTO.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Essa propaganda brinca com o nome da marca, "Garoto".
 
@@ -864,7 +838,6 @@ em ambas as ocorrências foi empregada com o mesmo sentido.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 A expressão "da luz" possui significados distintos na frase:
@@ -876,7 +849,6 @@ como os
 vampiros da luz (sentido denotativo - luz, energia^ do Sol". Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 HoMoNÍMIA X PoLISSEMIA X AMBIGUIDADE
 
@@ -935,7 +907,6 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Homonímia
 
 Polissemia
@@ -962,10 +933,9 @@ I w
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - SINôNIMo E ANTôNIMo - CEBRASPE
 
-Item. 1. (CEBRASPE / FUNPRESP EXE / 2022)
+1. (CEBRASPE / FUNPRESP EXE / 2022)
 
 Seja como for, está claro que a distinção entre o que seria natural e o que seria
 cultural não faz o
@@ -1046,8 +1016,7 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 2. (CEBRASPE / PC PB / 2022)
+2. (CEBRASPE / PC PB / 2022)
 
 No trecho "As boas e as ruins. As dignas e as indignas. As que comovem e as que
 perturbam.",
@@ -1058,7 +1027,7 @@ Comentários:
 Exatamente, temos antônimos, palavras que possuem sentido contrário.
 Questão correta.
 
-Item. 3. (CEBRASPE / PETROBRÁS / 2022)
+3. (CEBRASPE / PETROBRÁS / 2022)
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna, em que
 Platão,
@@ -1118,7 +1087,7 @@ da palavra
 
 (a.le.go.ri.a)
 
-Item. 1. Expressão do pensamento ou da emoção, muito us. em literatura, pintura e
+1. Expressão do pensamento ou da emoção, muito us. em literatura, pintura e
 escultura, pela
 qual se representa simbolicamente um objeto para significar outro.
 
@@ -1126,8 +1095,7 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 4. (CEBRASPE / TELEBRAS / 2022)
+4. (CEBRASPE / TELEBRAS / 2022)
 
 Em 'As pessoas conscientes que seguem as insinuações alheias tendem a permanecer
 indecisas
@@ -1141,7 +1109,7 @@ sentido".
 
 Questão incorreta.
 
-Item. 5. (CEBRASPE / MP-CE / TÉCNICO MINISTERIAL / 2020)
+5. (CEBRASPE / MP-CE / TÉCNICO MINISTERIAL / 2020)
 
 Tudo se passa como se nós, modernos, guiados peia livre vontade, estivéssemos liberados
 desse
@@ -1164,7 +1132,7 @@ Assim, ao se referir a "passado", o texto está associando-o a algo "obsoleto", 
 seja, sem uso
 na visão de muitas pessoas. Questão correta.
 
-Item. 6. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+6. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Sozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes,
 na fuga,
@@ -1182,7 +1150,7 @@ Comentários:
 significa colocar em
 perigo, assustar, intimidar. Questão incorreta.
 
-Item. 7. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+7. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 O geneticista Sérgio Pena não concorda com estudos evolutivos: "Ao postular a
 existência de
@@ -1197,7 +1165,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Sim, "postular" aqui tem sentido de "assumir como hipótese válida", "supor", "pressupor":
 
 "Ao PRESSUPOR (ASSUMIR COMO FATO) a existência de uma natureza humana evolutivamente
@@ -1207,7 +1174,7 @@ terminam por atribuir ao racismo uma inevitabilidade natural. Isso não é
 verdade. Questão
 correta.
 
-Item. 8. (CEBRASPE / PGE-PE / ASSISTENTE DE PROCURADORIA / 2019)
+8. (CEBRASPE / PGE-PE / ASSISTENTE DE PROCURADORIA / 2019)
 
 Tenho ótimas recordações de lá e uma foto da qual gosto muito, da minha
 infância, às
@@ -1218,7 +1185,7 @@ Comentários:
 
 Questão direta, são sinônimos no sentido de cuidado. Questão correta.
 
-Item. 9. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+9. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Pixis foi um músico medíocre, mas teve o seu dia de glória no distante ano de 1837.
 
@@ -1243,7 +1210,7 @@ refere à pouca expressão, renome, reconhecimento de Pixis. Então, ele era
 "inexpressivo" no
 sentido de pouco reconhecido, pouco consagrado. Gabarito letra D.
 
-Item. 10. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+10. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 A música de Pixis, ouvida como sendo de Beethoven, foi recebida com entusiasmo e
 paixão, e a
@@ -1265,7 +1232,6 @@ E) desdenhada.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 "Enxovalhada" foi utilizado no sentido de "menosprezada", "desdenhada". Os
@@ -1276,7 +1242,7 @@ de Beethoven.
 
 Gabarito letra E.
 
-Item. 11. (CEBRASPE / PGE-PE-Conhec. Básicos 1, 2, 3 e 4 - 2019)
+11. (CEBRASPE / PGE-PE-Conhec. Básicos 1, 2, 3 e 4 - 2019)
 
 ... por propostas que concebem um Estado que seja parco em prestações sociais e no
 qual a
@@ -1293,7 +1259,7 @@ Comentários:
 Subsidiariamente significa "alternativamente, como segunda opção..."
 Compulsoriamente significa "obrigatoriamente". Questão incorreta.
 
-Item. 12. (CEBRASPE / CGE-CE-Conhec. Básicos - 2019)
+12. (CEBRASPE / CGE-CE-Conhec. Básicos - 2019)
 
 Ainda hoje, em muitos rincões do nosso país, são encontrados administradores
 públicos cujas
@@ -1323,7 +1289,7 @@ trabalhadores.
 
 Gabarito letra A.
 
-Item. 13. (CEBRASPE / PGE-PE / Assistente de Procuradoria / 2019)
+13. (CEBRASPE / PGE-PE / Assistente de Procuradoria / 2019)
 
 É como se você tivesse baixado algum software e ele te solicitasse assinar
 um contrato com
@@ -1332,7 +1298,6 @@ imediatamente para a
 última página, tica em "concordo" e esquece o assunto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No trecho "tica em 'concordo'" (L.2-3), o verbo ticar é sinônimo de clicar, mas
 difere deste por
@@ -1348,7 +1313,7 @@ assim. No caso,
 é considerada de uso
 informal. Questão incorreta.
 
-Item. 14. (CEBRASPE / MPU / ANALISTA / 2018)
+14. (CEBRASPE / MPU / ANALISTA / 2018)
 
 A impossibilidade de manter silêncio sobre um assunto é uma observação que pode ser
 feita a
@@ -1361,7 +1326,7 @@ Comentários:
 
 Tem um significado de evidente, óbvio, flagrante. Questão incorreta.
 
-Item. 15. (CEBRASPE / MPU / ANALISTA/2018)
+15. (CEBRASPE / MPU / ANALISTA/2018)
 
 Se a cultura, no que tange a valores e visões de mundo, é fundamental para nossa
 constituição enquanto indivíduos (servindo-nos como parâmetro para nosso
@@ -1379,7 +1344,7 @@ Desprezar é diminuir, tratar como inferior, então é sinônimo de depreciar
 mesmo. Questão
 correta.
 
-Item. 16. (CEBRASPE / IFF / CONHECI. GERAIS - NÍVEL MÉDIO / 2018)
+16. (CEBRASPE / IFF / CONHECI. GERAIS - NÍVEL MÉDIO / 2018)
 
 Assim, é comum que pais com baixa escolaridade lutem para que os filhos tenham acesso
 a um
@@ -1404,7 +1369,6 @@ D) entristecidas com o fato.
 E) preocupadas com o fato.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -1443,7 +1407,7 @@ Ex.: alheio do que se passava, quase comete uma imprudência
 
 Ex.: depois do choque emocional, ficou totalmente alheio Gabarito letra B.
 
-Item. 17. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+17. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 O presente apenas se justifica como intermediário da passagem da tradição para os
 anseios
@@ -1458,7 +1422,7 @@ Comentários:
 
 Sim, foi usado no sentido de "distante", "indiferente". Questão correta.
 
-Item. 18. (CEBRASPE / IFF / CONHECI. GERAIS - NÍVEL MÉDIO / 2018)
+18. (CEBRASPE / IFF / CONHECI. GERAIS - NÍVEL MÉDIO / 2018)
 
 Posso conceber um homem sem mãos, pés, cabeça; mas não posso conceber um homem
 sem pensamento: seria uma pedra ou um animal.
@@ -1466,7 +1430,6 @@ sem pensamento: seria uma pedra ou um animal.
 No primeiro parágrafo do texto, o verbo "conceber" veicula o mesmo sentido de gerar.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -1476,7 +1439,7 @@ específico, "conceber" tem sentido de "imaginar", "visualizar", "compreender
 de determinada
 forma". Questão incorreta.
 
-Item. 19. (CEBRASPE / PF / PAPILOSCOPISTA / 2018)
+19. (CEBRASPE / PF / PAPILOSCOPISTA / 2018)
 
 A natureza Jamais vai deixar de nos surpreender. As teorias científicas de hoje, das
 quais
@@ -1502,7 +1465,7 @@ são os modelos que virão adiante no tempo. "Modelos futuristas" seriam
 modelos relativos ao
 futurismo, modelos que causam estranheza pela modernidade excessiva. Questão incorreta.
 
-Item. 20. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
+20. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
 
 A princípio, a intenção era implantar as escolas nas capitais dos estados,
 cidades com maior
@@ -1529,7 +1492,7 @@ Mas o que
 "empregabilidade" é a
 possibilidade de achar emprego disponível. Gabarito letra B.
 
-Item. 21. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
+21. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
 
 A abordagem desse tipo de comércio, inevitavelmente, passa pela concorrência, visto que
 é por
@@ -1538,7 +1501,6 @@ internacional, de estabelecer
 permanência ou de engendrar saída, que se consubstancia a plena expansão das atividades
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 comerciais e se alcança o resultado último dessa interatuaçao: o preço
 eficiente dos bens e
@@ -1554,7 +1516,7 @@ Comentários:
 
 Concorrência foi utilizada no sentido de competição comercial. Questão incorreta.
 
-Item. 22. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
+22. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
 
 A abordagem desse tipo de comércio, inevitavelmente, passa pela concorrência, visto que
 é por
@@ -1581,7 +1543,7 @@ Ex: Engendrar ficções, narrativas, mitos...
 Contudo, no contexto, "engendrar saída" tem sentido apenas de "sair", produzir a própria saída.
 Questão incorreta.
 
-Item. 23. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
+23. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
 
 A estrutura desses primeiros agrupamentos urbanos era tripartite: a cidade
 propriamente dita,
@@ -1607,10 +1569,9 @@ Sim. Tanto "tripartite" quanto "tripartida" são adjetivos que significam:
 enquanto o
 primeiro é um adjetivo invariável, uniforme. Questão correta.
 
-Item. 24. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
+24. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Nenhum daqueles filhos de operários, meus irmãos ou eu havia ido ao
 pediatra; só os fortes
@@ -1641,12 +1602,12 @@ ato ou efeito de resignar(-se)
 
 3 renúncia a uma graça, a um lugar, a uma função
 
-Item. 3.1 Rubrica: termo jurídico.
+3.1 Rubrica: termo jurídico.
 
 diz-se, no direito administrativo, da renúncia voluntária de um cargo, da exoneração a pedido
 4 aceitação sem revolta dos sofrimentos da existência.
 
-Item. 25. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO / 2018)
+25. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Mas logo ficou claro que a menina não se conformaria a esse modelo. Era diferente;
 gostava de
@@ -1664,7 +1625,7 @@ Sim. "Resignar-se", no contexto, equivale a "conformar-se", a aceitar
 pacientemente. Questão
 correta.
 
-Item. 26. (CEBRASPE / IPHAN / 2018)
+26. (CEBRASPE / IPHAN / 2018)
 
 Uma das grandes cousas que se veem hoje no mundo, e nós pelo costume de cada dia
 não
@@ -1682,7 +1643,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Sim. Desova tem sentido figurativo de descarregamento de produtos, que,
 por extensão,
 assumiu acepção pejorativa de descarte de corpos. Então, esse vocabulário mostra que o
@@ -1691,7 +1651,7 @@ condena o tratamento desumano dos escravos, como se fossem meros corpos, sem
 valor.
 Questão correta.
 
-Item. 27. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
+27. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
 
 A corrupção é uma doença da alma. Como todas as doenças, ela não acomete a todos.
 Muitas
@@ -1707,7 +1667,7 @@ a todos.
 
 Questão correta.
 
-Item. 28. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+28. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Sabemos bem que o trabalho do historiador, ao fabricar um patrimônio no seu próprio
 ofício da
@@ -1721,7 +1681,7 @@ Comentários:
 Questão literal. Essas duas palavras são sinônimas, com sentido de "modelar, criar, elaborar".
 Questão correta.
 
-Item. 29. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+29. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Ainda que circunscritas a determinados limites, essas ações de resistência, aparentemente
 insignificantes, colocam em movimento as relações e podem alterar a realidade
@@ -1746,10 +1706,9 @@ imposta ou dominante, em um jogo vivido cotidiana(mente) e mais ou menos
 silenciosamente.
 Questão incorreta.
 
-Item. 30. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+30. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Além de todos os desafios impostos peia inconstância e pela fragmentaçao das
 demandas
@@ -1765,7 +1724,7 @@ Cuidado, aqui, "apartamento", do verbo "apartar", tem sentido de
 separação, ruptura,
 afastamento. Por isso, funciona como sinônimo de divórcio. Questão correta.
 
-Item. 31. (CEBRASPE / EBSERH / 2018)
+31. (CEBRASPE / EBSERH / 2018)
 
 O consumo anual de açúcar, no final do século XIX, por exemplo, era de apenas dois
 quilos
@@ -1788,7 +1747,7 @@ Comentários:
 
 Questão direta de vocabulário: incólume significa "sem dano, intacto, ileso". Questão correta.
 
-Item. 32. (CEBRASPE / EBSERH / 2018)
+32. (CEBRASPE / EBSERH / 2018)
 
 Era preciso colocar no pape! e compartilhar a dor daquelas pessoas que,
 mesmo ao fim do
@@ -1803,10 +1762,9 @@ que os pedidos nela contidos foram acatados (deferidos) ou negados
 (indeferidos). Questão
 incorreta.
 
-Item. 33. (CEBRASPE / Polícia Científica / 2016)
+33. (CEBRASPE / Polícia Científica / 2016)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 i Em julho de 1955, Bertrand Russell e Albert Einstein
 lançaram um inusitado apelo aos povos do mundo,
@@ -1857,7 +1815,7 @@ premissas contraditórias. Mas, no texto, "dilema" foi utilizado com sentido de
 "decisão a ser
 tomada", "escolha", "problema", "dicotomia". Questão incorreta. Gabarito Letra A.
 
-Item. 34. (CEBRASPE / TRE TO / 2017)
+34. (CEBRASPE / TRE TO / 2017)
 
 Assim, enquanto nos regimes autocráticos a comunicação social constitui
 monopólio dos
@@ -1879,10 +1837,9 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - AMBIGUIDADE - CEBRASPE
 
-Item. 1. (CEBRASPE / TRIBUNAL DE JUSTIÇA RJ)
+1. (CEBRASPE / TRIBUNAL DE JUSTIÇA RJ)
 
 Julgue o item a seguir. Não ocorre ambiguidade no trecho abaixo:
 
@@ -1902,7 +1859,7 @@ ambíguo mesmo assim. Digo isso porque muita gente acha que por haver um
 sentido mais
 lógico, não há ambiguidade. Não é assim que funciona. Questão incorreta.
 
-Item. 2. (CEBRASPE / Polícia Federal / Perito)
+2. (CEBRASPE / Polícia Federal / Perito)
 
 ...a Cultura da Paz surge como uma proposta da ONU que tem por objetivo
 conscientizar a
@@ -1920,7 +1877,7 @@ tem por objetivo conscientizar a todos ou se é a proposta que tem esse
 objetivo. Questão
 correta.
 
-Item. 3. (CEBRASPE / BANCO DO BRASIL / ESCRITURÁRIO)
+3. (CEBRASPE / BANCO DO BRASIL / ESCRITURÁRIO)
 
 Ainda que os bancos continuem ganhando muito dinheiro com a dívida pública,
 os resultados
@@ -1952,7 +1909,6 @@ concordância em gênero e número:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A representante do partido, o qual é popular, foi elogiada.
 A representante do partido, a qual é popular, foi elogiada.
 
@@ -1962,7 +1918,7 @@ retomar "resultados", "ano passado", "tarifas"... Enfim, haveria dificuldade
 de identificar o
 referente. Essa é função dos pronomes relativos variáveis substitutos do "que". Questão correta.
 
-Item. 4. (CEBRASPE / MPU / ANALISTA)
+4. (CEBRASPE / MPU / ANALISTA)
 
 Inovador é o indivíduo que procura propostas originais e pertinentes em situações com
 as quais
@@ -1982,10 +1938,9 @@ situações, não existe outro substantivo naquela oração. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - SINôNIMo E ANTôNIMo - CEBRASPE
 
-Item. 1. (CEBRASPE / FUNPRESP EXE / 2022)
+1. (CEBRASPE / FUNPRESP EXE / 2022)
 
 Seja como for, está claro que a distinção entre o que seria natural e o que seria
 cultural não faz o
@@ -2046,13 +2001,13 @@ da seguinte forma: Porém, desde que passamos a compreender a natureza como uma
 totalidade
 em si, ela se transformou em uma espécie de grande maquinário.
 
-Item. 2. (CEBRASPE / PC PB / 2022)
+2. (CEBRASPE / PC PB / 2022)
 
 No trecho "As boas e as ruins. As dignas e as indignas. As que comovem e as que
 perturbam.",
 do texto CG1A1-II, opõem-se palavras de sentido contrário.
 
-Item. 3. (CEBRASPE / PETROBRÁS / 2022)
+3. (CEBRASPE / PETROBRÁS / 2022)
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna, em que
 Platão,
@@ -2063,7 +2018,6 @@ condicionada peios
 hábitos e preconceitos que adquire ao longo de sua vida, até a visão do Sol, que representa a
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 possibilidade de alcançar o conhecimento da realidade em seu sentido
 mais elevado e
@@ -2103,13 +2057,13 @@ precedente, assim como a sua tipologia, julgue o item a seguir.
 
 O termo "Alegoria", empregado no texto precedente, alude à ideia de representação.
 
-Item. 4. (CEBRASPE / TELEBRAS / 2022)
+4. (CEBRASPE / TELEBRAS / 2022)
 
 Em 'As pessoas conscientes que seguem as insinuações alheias tendem a permanecer
 indecisas
 no lugar' (segundo parágrafo), a palavra 'alheias' tem o mesmo sentido de ambíguas.
 
-Item. 5. (CEBRASPE / MP-CE / TÉCNICO MINISTERIAL / 2020)
+5. (CEBRASPE / MP-CE / TÉCNICO MINISTERIAL / 2020)
 
 Tudo se passa como se nós, modernos, guiados pela livre vontade, estivéssemos liberados
 desse
@@ -2123,7 +2077,7 @@ seguir.
 
 A expressão "do passado" (R.21) foi empregada no texto com o mesmo sentido de obsoleto.
 
-Item. 6. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
+6. (CEBRASPE / MP-CE / CARGOS DE NÍVEL MÉDIO / 2020)
 
 Sozinha no mundo, sem pai nem mãe, ela corria, arfava, muda, concentrada. Às vezes,
 na fuga,
@@ -2135,10 +2089,9 @@ No trecho "pairava ofegante num beiral de telhado", o verbo pairar está
 empregado com o
 mesmo sentido de ameaçar.
 
-Item. 7. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+7. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O geneticista Sérgio Pena não concorda com estudos evolutivos: "Ao postular a
 existência de
@@ -2150,7 +2103,7 @@ natural..."
 
 O verbo 'postular' está empregado no texto com o mesmo sentido de pressupor.
 
-Item. 8. (CEBRASPE / PGE-PE / ASSISTENTE DE PROCURADORIA / 2019)
+8. (CEBRASPE / PGE-PE / ASSISTENTE DE PROCURADORIA / 2019)
 
 Tenho ótimas recordações de lá e uma foto da qual gosto muito, da minha
 infância, às
@@ -2158,7 +2111,7 @@ gargalhadas, vestindo um macacão que minha própria mãe costurava, com bastant
 
 A palavra "capricho" (L.2) está empregada no texto com o mesmo sentido de zelo.
 
-Item. 9. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+9. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 Pixis foi um músico medíocre, mas teve o seu dia de glória no distante ano de 1837.
 
@@ -2174,7 +2127,7 @@ D) inexpressivo.
 
 E) despretensioso.
 
-Item. 10. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
+10. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019)
 
 A música de Pixis, ouvida como sendo de Beethoven, foi recebida com entusiasmo e
 paixão, e a
@@ -2194,7 +2147,7 @@ D) aplaudida.
 
 E) desdenhada.
 
-Item. 11. (CEBRASPE / PGE-PE-Conhec. Básicos 1, 2, 3 e 4 - 2019)
+11. (CEBRASPE / PGE-PE-Conhec. Básicos 1, 2, 3 e 4 - 2019)
 
 ... por propostas que concebem um Estado que seja parco em prestações sociais e no
 qual a
@@ -2208,8 +2161,7 @@ compulsoriamente.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 12. (CEBRASPE / CGE-CE-Conhec. Básicos - 2019)
+12. (CEBRASPE / CGE-CE-Conhec. Básicos - 2019)
 
 Ainda hoje, em muitos rincões do nosso país, são encontrados administradores
 públicos cujas
@@ -2232,7 +2184,7 @@ d) atenção.
 
 e) sofrimento.
 
-Item. 13. (CEBRASPE / PGE-PE / Assistente de Procuradoria / 2019)
+13. (CEBRASPE / PGE-PE / Assistente de Procuradoria / 2019)
 
 É como se você tivesse baixado algum software e ele te solicitasse assinar
 um contrato com
@@ -2244,7 +2196,7 @@ No trecho "tica em 'concordo'" (L.2-3), o verbo ticar é sinônimo de clicar, ma
 difere deste por
 ser de uso informal.
 
-Item. 14. (CEBRASPE / MPU / ANALISTA/2018)
+14. (CEBRASPE / MPU / ANALISTA/2018)
 
 A impossibilidade de manter silêncio sobre um assunto é uma observação que pode ser
 feita a
@@ -2254,7 +2206,7 @@ capturado por nossa linguagem.
 
 Na linha 2, o adjetivo patente tem um significado de impressionante.
 
-Item. 15. (CEBRASPE / MPU / ANALISTA/2018)
+15. (CEBRASPE / MPU / ANALISTA/2018)
 
 Se a cultura, no que tange a valores e visões de mundo, é fundamental para nossa
 constituição enquanto indivíduos (servindo-nos como parâmetro para nosso
@@ -2267,7 +2219,7 @@ dimensões da vida humana.
 
 No texto, a palavra "depreciando" (I.3) foi empregada com o sentido de desprezar.
 
-Item. 16. (CEBRASPE / IFF / CONHECI. GERAIS - NÍVEL MÉDIO / 2018)
+16. (CEBRASPE / IFF / CONHECI. GERAIS - NÍVEL MÉDIO / 2018)
 
 Assim, é comum que pais com baixa escolaridade lutem para que os filhos tenham acesso
 a um
@@ -2276,7 +2228,6 @@ Entretanto,
 não é raro que pessoas com escolaridade elevada permaneçam alheias ao fato de que estão
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 cercadas por adultos que a pobreza e o trabalho precoce afastaram da
 escola, ou que têm
@@ -2294,7 +2245,7 @@ D) entristecidas com o fato.
 
 E) preocupadas com o fato.
 
-Item. 17. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+17. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 O presente apenas se justifica como intermediário da passagem da tradição para os
 anseios
@@ -2306,14 +2257,14 @@ de fantasia.
 
 Na linha 2, a palavra "alheia" foi empregada com o sentido de distante.
 
-Item. 18. (CEBRASPE / IFF / CONHECI. GERAIS - NÍVEL MÉDIO / 2018)
+18. (CEBRASPE / IFF / CONHECI. GERAIS - NÍVEL MÉDIO / 2018)
 
 Posso conceber um homem sem mãos, pés, cabeça; mas não posso conceber um homem
 sem pensamento: seria uma pedra ou um animal.
 
 No primeiro parágrafo do texto, o verbo "conceber" veicula o mesmo sentido de gerar.
 
-Item. 19. (CEBRASPE / PF / PAPILOSCOPISTA / 2018)
+19. (CEBRASPE / PF / PAPILOSCOPISTA / 2018)
 
 A natureza jamais vai deixar de nos surpreender. As teorias científicas de hoje, das
 quais
@@ -2327,7 +2278,7 @@ A substituição do termo "do futuro", em "modelos do futuro" (L.3), pelo
 adjetivo futuristas
 manteria os sentidos originais do texto.
 
-Item. 20. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
+20. (CEBRASPE / IFF / CONHECIMENTOS GERAIS / 2018)
 
 A princípio, a intenção era implantar as escolas nas capitais dos estados,
 cidades com maior
@@ -2345,12 +2296,11 @@ C) escolha de empregos com horários flexíveis.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 D) capacidade de se empregar pelas suas boas qualificações.
 
 E) disponibilidade de emprego para profissionais especializados.
 
-Item. 21. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
+21. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
 
 A abordagem desse tipo de comércio, inevitavelmente, passa pela concorrência, visto que
 é por
@@ -2368,7 +2318,7 @@ de concordância, já que apenas será possível a realização das "mudanças e
 mencionadas
 no primeiro parágrafo se os atores do comércio internacional buscarem um fim comum.
 
-Item. 22. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
+22. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
 
 A abordagem desse tipo de comércio, inevitavelmente, passa pela concorrência, visto que
 é por
@@ -2384,7 +2334,7 @@ Infere-se dos sentidos do texto que o vocábulo "engendrar" (L.3) foi empregado 
 sinônimo
 de imaginar, fantasiar.
 
-Item. 23. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
+23. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
 
 A estrutura desses primeiros agrupamentos urbanos era tripartite: a cidade
 propriamente dita,
@@ -2402,7 +2352,7 @@ A palavra "tripartite" (L.1) poderia ser substituída por tripartida, sem preju�
 sentidos e da
 correção gramatical do texto.
 
-Item. 24. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
+24. (CEBRASPE / IHBDF / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Nenhum daqueles filhos de operários, meus irmãos ou eu havia ido ao
 pediatra; só os fortes
@@ -2418,8 +2368,7 @@ No texto, a palavra "resignação" (L. 2) foi empregada com o sentido de apatia.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 25. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO / 2018)
+25. (CEBRASPE / IHBDF / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Mas logo ficou claro que a menina não se conformaria a esse modelo. Era diferente;
 gostava de
@@ -2431,7 +2380,7 @@ Mantidos os sentidos do texto, a expressão "se conformaria" poderia ser
 substituída por se
 resignaria.
 
-Item. 26. (CEBRASPE / IPHAN / 2018)
+26. (CEBRASPE / IPHAN / 2018)
 
 Uma das grandes cousas que se veem hoje no mundo, e nós pelo costume de cada dia
 não
@@ -2445,7 +2394,7 @@ Na linha 3, o vocábulo "desova" foi empregado com um sentido pejorativo,
 revelando a
 desaprovação do autor em relação à chegada de escravos ao Brasil.
 
-Item. 27. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
+27. (CEBRASPE / CGM - JOÃO PESSOA / 2018)
 
 A corrupção é uma doença da alma. Como todas as doenças, ela não acomete a todos.
 Muitas
@@ -2455,7 +2404,7 @@ meio de uma vacina: a educação.
 
 No texto, a forma verbal "acomete" está empregada com o significado de afetar, contagiar.
 
-Item. 28. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+28. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Sabemos bem que o trabalho do historiador, ao fabricar um patrimônio no seu próprio
 ofício da
@@ -2466,7 +2415,7 @@ portanto, de poder.
 Sem prejuízo dos sentidos originais do texto, o verbo "fabricar" poderia ser substituído por
 forjar.
 
-Item. 29. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+29. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Ainda que circunscritas a determinados limites, essas ações de resistência, aparentemente
 insignificantes, colocam em movimento as relações e podem alterar a realidade
@@ -2477,7 +2426,7 @@ No período em que aparece, o vocábulo "cotidiana" (£.3) expressa uma
 característica de "uma
 ordem imposta ou dominante" (£.2-3).
 
-Item. 30. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+30. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Além de todos os desafios impostos pela inconstância e pela fragmentação das
 demandas
@@ -2489,8 +2438,7 @@ substituída por apartamento, sem alteração dos sentidos originais do texto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 31. (CEBRASPE / EBSERH / 2018)
+31. (CEBRASPE / EBSERH / 2018)
 
 O consumo anual de açúcar, no final do século XIX, por exemplo, era de apenas dois
 quilos
@@ -2509,7 +2457,7 @@ A correção e a coerência do texto seriam mantidas caso o termo "ileso"
 fosse substituído por
 incólume.
 
-Item. 32. (CEBRASPE / EBSERH / 2018)
+32. (CEBRASPE / EBSERH / 2018)
 
 Era preciso colocar no pape! e compartilhar a dor daquelas pessoas que,
 mesmo ao fim do
@@ -2517,7 +2465,7 @@ processo judicial e com a sentença prolatada, não me deixavam esquecê-las.
 
 No texto, a palavra "prolatada" foi empregada como sinônimo de deferida.
 
-Item. 33. (CEBRASPE / Polícia Científica / 2016)
+33. (CEBRASPE / Polícia Científica / 2016)
 
 i Em julho de 1955, Bertrand Russell e Albert Einstein
 lançaram um inusitado apelo aos povos do mundo,
@@ -2549,10 +2497,9 @@ d) 'aterrador' (I.8) foi empregada no sentido de atenuador.
 
 e) "dilema" (I.7) foi empregada no sentido de contraditório.
 
-Item. 34. (CEBRASPE / TRE TO / 2017)
+34. (CEBRASPE / TRE TO / 2017)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Assim, enquanto nos regimes autocráticos a comunicação social constitui
 monopólio dos
@@ -2568,22 +2515,21 @@ mesmo sentido: comércio realizado por poucos.
 
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. CORRETA
 
-Item. 2. CORRETA
+3. CORRETA
 
-Item. 3. CORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. CORRETA
 
-Item. 5. CORRETA
+6. INCORRETA
 
-Item. 6. INCORRETA
+7. CORRETA
 
-Item. 7. CORRETA
-
-Item. 8. CORRETA
+8. CORRETA
 
 9.
 
@@ -2668,10 +2614,9 @@ INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - AMBIGUIDADE - CEBRASPE
 
-Item. 1. (CEBRASPE / TRIBUNAL DE JUSTIÇA RJ)
+1. (CEBRASPE / TRIBUNAL DE JUSTIÇA RJ)
 
 Julgue o item a seguir. Não ocorre ambiguidade no trecho abaixo:
 
@@ -2679,7 +2624,7 @@ Os casos previstos em leis que exijam intimação ou vista pessoal não podem se
 supridos por
 meio virtual.
 
-Item. 2. (CEBRASPE / Polícia Federal / Perito)
+2. (CEBRASPE / Polícia Federal / Perito)
 
 ...a Cultura da Paz surge como uma proposta da ONU que tem por objetivo
 conscientizar a
@@ -2689,7 +2634,7 @@ A inserção de uma vírgula logo depois de "ONU" respeitaria as regras
 gramaticais, mas
 provocaria ambiguidade de interpretação sobre quem teria "por objetivo conscientizar".
 
-Item. 3. (CEBRASPE / BANCO DO BRASIL / ESCRITURÁRIO)
+3. (CEBRASPE / BANCO DO BRASIL / ESCRITURÁRIO)
 
 Ainda que os bancos continuem ganhando muito dinheiro com a dívida pública,
 os resultados
@@ -2705,7 +2650,7 @@ O uso de "os quais", em "com os quais as instituições" (L.4-5), evita a relaç
 ambiguidade
 que ocorreria se o pronome utilizado fosse que e a construção fosse com que as instituições.
 
-Item. 4. (CEBRASPE/MPU/ANALISTA)
+4. (CEBRASPE/MPU/ANALISTA)
 
 inovador é o indivíduo que procura propostas originais e pertinentes em situações com
 as quais
@@ -2717,14 +2662,13 @@ pronome que; no entanto, nesse contexto, tal substituição provocaria ambiguida
 
 GABARITo
 
-Item. 1. INCORRETA
+1. INCORRETA
 
-Item. 2. CORRETA
+2. CORRETA
 
-Item. 3. CORRETA
+3. CORRETA
 
-Item. 4. INCORRETA
+4. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

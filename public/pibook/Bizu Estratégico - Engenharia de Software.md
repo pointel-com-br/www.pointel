@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Engenharia de Software.
-
+# Bizu Estratégico - Engenharia de Software.
 
 Olá, prezado aluno. Tudo certo?
 
@@ -17,7 +16,6 @@ material bem curto e objetivo).
 
 Além disso, utilizamos os materiais do professor para
 elaborar esse.
-
 
 Apresentação
 
@@ -40,9 +38,7 @@ Espero que gostem!
 
 Um grande abraço e bons estudos!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 ANÁLISE ESTATÍSTICA
 
@@ -56,7 +52,6 @@ principais pontos em nossa revisão!
 
 Engenharia de software - SERPRO
 
-
 Assunto Bizu
 
 Scrum 1
@@ -64,11 +59,9 @@ Scrum 1
 Caderno de Questões
 http://questo.es/fwtnid
 
-
 Engenharia de requisitos
 
 2 http://questo.es/9ags59
-
 
 Qualidade. Análise estática de código. Teste unitário.
 
@@ -78,9 +71,7 @@ estresse). Revisão e programação por pares.
 
 http://questo.es/hnbdvO
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Engenharia de software
 
@@ -104,9 +95,7 @@ qualidade do produto.
 
 O projeto deve ser capaz de se adaptar o projeto às necessidades de negócio.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 CORAGEM
 
@@ -146,7 +135,6 @@ CORAGEM Os integrantes de um projeto precisam ter coragem para fazer a
 coisa certa e
 trabalharem juntos removendo impedimentos, buscando soluções.
 
-
 FOCO
 COMPROMETIMENTO
 
@@ -165,9 +153,7 @@ bom ambiente de trabalho.
 Os integrantes devem poder ser francos, expor ideias e propostas mesmo que elas não
 sejam proveitosas. Momentos de debates, discussões e sugestões são ideais.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Responsável pela gestão de pessoas e gestão do processo.
 
@@ -235,9 +221,7 @@ Os desenvolvedores são estruturados e autorizados pela organização para organ
 gerenciar seu
 próprio trabalho.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Ele é responsável pela macro-gestão e pela gestão do produto.
 
@@ -283,7 +267,6 @@ requisito começar a ser desenvolvido.
 Conjunto de critérios que indicam que uma determinada históna de usuário atende a
 todos os requisitos de aceitação para se tomar um incremento.
 
-
 SPRINT PLANNING
 
 DAILY SCRUM
@@ -311,14 +294,11 @@ validar 0 produto, a equipe busca revisar e validar 0 processo executado para ge
 funcionalidades. A ideia é planejar maneiras de aumentara qualidade e efetividade do
 processo.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
-Item. 2. Engenharia de requisitos
+2. Engenharia de requisitos
 
 Engenharia de requisitos
-
 
 REQUISITOS DE USUÁRIO
 
@@ -368,7 +348,6 @@ principal da organização. São concebidos com a essência de um sistema e seu
 domínio da aplicação, e mudam mais lentamente que requisitos voláteis. Em geral,
 eles são derivados do Modelo de Domínio.
 
-
 REQUISITOS VOLÁTEIS
 
 Também chamados de Requisitos Instáveis, são específicos para a instanciação de
@@ -377,9 +356,7 @@ mudança. Se modificam quando o sistema está em desenvolvimento ou em uso.
 Podem ser subclassificados em mutáveis, emergentes, consequentes ou de
 compatibilidade.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 REQUISITOS FUNCIONAIS
 
@@ -390,7 +367,6 @@ objetivos. Eles dependem do tipo de software, dos usuários esperados e do ti po
 sistema onde o software será implantado e fazem parte da arquitetura de um
 sistema. Grosso modo, pode-se dizer que eles tratam de o que o sistema deve fazer
 enquanto os requisitos não-funcionais tratam de como o sistema deve fazer.
-
 
 REQUISITOS NÃO-FUNCIONAIS
 
@@ -418,7 +394,6 @@ desempenho quanto à rapidez com que o sistema deve operar e quanto de
 memória ele requer, requisitos de confiabilidade que definem a taxa aceitável de
 falhas, requisitos de portabilidade e requisitos de usabilidade.
 
-
 REQUISITOS ORGANIZACIONAIS
 
 REQUISITOS EXTERNOS
@@ -434,13 +409,10 @@ processo de desenvolvimento. Entre os exemplos, estão a interoperabilidade que
 define como o sistema interage com outros sistemas, requisitos legais que devem
 ser seguidos, requisitos éticos sistema para assegurar que ele será aceito por todos.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 REQUISITOS NÃO-FUNCIONAIS I EXEMPLOS
 I
-
 
 REQUISITOS DE
 CONFIABILIDADE
@@ -487,11 +459,9 @@ de outrem.
 A interface de usuário deve ser implementada em HTML e não se deve utilizar
 Appletsde Java.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
-Item. 3. Qualidade. Análise estática de código. Teste
+3. Qualidade. Análise estática de código. Teste
 unitário. Mock, stubs. Teste de integração.
 Teste de RNF (carga, estresse). Revisão e
 programação por pares.
@@ -507,7 +477,6 @@ acordados, conforme avaliado por medidas e critérios acordados, e que é criado
 acordado.
 
 CATEGORIAS DE FATORES DE QUALIDADE DE SOFTWARE (POR MCCALL. RICHARDS E WALTERS)
-
 
 Focilidode de manutenção
 Flexibilidade
@@ -525,9 +494,7 @@ Correção Usabilidade
 Eficiência
 Confiabilidade Integridade
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 FATORES | DESCRIÇÃO
 
@@ -549,7 +516,6 @@ controlado.
 USABILIDADE Esforço necessário para aprender, operar, preparara entrada de dados e
 interpretar a saída
 de um programa.
-
 
 FACILIDADE DE
 MANUTENÇÃO
@@ -603,9 +569,7 @@ conforme indicado pelos seguintes subatributos: adaptabilidade, facilidade de
 instalação,
 conformidade, facilidade de substituição.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 GARANTIA DE QUALIDADE
 
@@ -643,7 +607,6 @@ vida de desenvolvimento de software.
 Controle da qualidade garante que os resultados do seu
 trabalho são os esperados conforme requisitos.
 
-
 DEFEITO
 
 ERRO
@@ -673,13 +636,10 @@ palavras, trata-se da produção de uma saída incorreta em relação à especif
 e erros são causas e falhas são consequências. Elas afetam diretamente o usuário final da aplicação
 e pode inviabilizara utilização de um software.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Vamos ficando por aqui.
 
 Esperamos que tenha gostado do nosso Bizu!
 Bons estudos!
-
 

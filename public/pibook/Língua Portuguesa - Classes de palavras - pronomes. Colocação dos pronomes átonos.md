@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Classes de palavras - pronomes. Colocação dos pronomes átonos.
-
+# Língua Portuguesa - Classes de palavras - pronomes. Colocação dos pronomes átonos.
 
 Índice
 
@@ -18,7 +17,6 @@ Capítulo. Língua Portuguesa - Classes de palavras - pronomes. Colocação dos 
 7) Lista de Questões - Colocação Pronominal - Cebraspe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NoçõES INICIAIS
 
@@ -51,7 +49,6 @@ atenção a esta aula!
 Grande abraço e ótimos estudos!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 PRoNoMES
 
@@ -102,7 +99,6 @@ Ex: Perguntei o que era aquilo. Indaguei quem era ele.
 Não sei qual sua idade. Desconheço quantos anos você tem.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Observe a frase "O que é que ele fez". Nesse caso apenas o primeiro "que" é pronome
 interrogativo. Os
@@ -158,7 +154,6 @@ Tenho bastante dinheiro X Tenho dinheiro bastante
 (muito) (suficiente)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Atenção à palavra bastante, que pode ser confundida com um advérbio:
 
@@ -218,7 +213,6 @@ i Por definição, advérbio é palavra invariável que modifica verbo (trabalho
 bonito) ou i
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 outro advérbio (muito bem); não pode modificar substantivo. Questão incorreta.
 
@@ -283,7 +277,6 @@ substantivo objeto da posse ("mão", "testa", "cabelos"). Trata-se de um adjunto
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 É importante saber que pronomes possessivos:
 
 - Concordam com em gênero e número com o substantivo que vem depois dele.
@@ -342,7 +335,6 @@ de "fantasia".
 I Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Aula
 
@@ -405,7 +397,6 @@ Eu só pensava nisto: passar no concurso.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Nos casos acima, a referência é feita dentro do texto; então, podemos dizer que o
 pronome tem função
 endofórica. "Endo" significa "dentro".
@@ -457,7 +448,6 @@ Ex: Este violão aqui na minha mão é de madeira maçiça.
 Ex: Estes meus cabelos estão uma verdadeira palha.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 esse(s), essa (s), isso: apontam para perto do ouvinte
 
@@ -515,7 +505,6 @@ As palavras o, a, os, as também podem ser pronomes demonstrativos, geralmente q
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 pronome relativo ou a preposição "DE". Veja:
 
 Ex: Entre as cuecas, comprei a de algodão, (aquela)
@@ -572,7 +561,6 @@ Eu mesma cozinho a comida/ Cozinho do mesmo modo que minha mãe. (próprio, em p
 / exato, igual).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 HORA IX
 
@@ -646,7 +634,6 @@ Ela o é por definição => Ela é seletiva por definição. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Pronomes Relativos
 
 Os principais são: que, o qual, cujo, quem, onde.
@@ -661,7 +648,6 @@ Podem ser variáveis, quando se flexionam (gênero, número), ou invariáveis, q
 Vejamos:
 
 VARIAVEIS INVARIÁVEIS
-
 
 MASCULINOS
 
@@ -717,7 +703,6 @@ Eu quero um carro potente = Eu quero um carro que seja potenteL
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 2- Como o "que" faz referência a um termo anterior, podemos dizer que tem função anafórica.
 
 3- Os pronomes "que", "o qual", "os quais", "a qual", "as quais" são utilizados
@@ -766,7 +751,6 @@ Este é o livro o qual falamos. => Este é o livro sobre o qual falamos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 HORA IX
 
 (PGE-AM / 2022)
@@ -776,7 +760,6 @@ médico supôs achar-
 lhe? (25 parágrafo).
 
 Os pronomes sublinhados referem-se, respectivamente, a
-
 
 (A) um médico
 
@@ -854,7 +837,6 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 4- 0 pronome "quem" se refere a pessoa ou ente personificado (visto como pessoa) e
 é precedido por
 preposição (monossilábica ou não).
@@ -900,7 +882,6 @@ Vi o rapaz a cujas pernas você se referiu, (pernas de quem? Do rapaz!)
 HORA IX
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 (DPE-RO / 2022)
 
@@ -986,7 +967,6 @@ A academia na qual/em que treino não tem aulas de MMA.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Veja que é inadequado usar "onde" para outra referência que não seja lugar físico.
 
 X Ex: Essa é a hora onde o aluno se desespera.
@@ -1037,7 +1017,6 @@ Esqueci o valor com quanto concordei, (concordei "com" quanto => com o
 valor).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 HORA IX
 
@@ -1110,7 +1089,6 @@ Superior Tribunal de Justiça. Aqui, focaremos nos mais incidentes em prova:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Vossa Senhoria (V. S.a ou V. S.°s): usado para pessoas com um grau de prestígio maior. Usualmente,
 os empregamos em textos escritos, como: correspondências, ofícios, requerimentos etc.
 
@@ -1167,7 +1145,6 @@ Ex: Maria, Vossa Excelência está muito cansada.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Outro detalhe a ser lembrado:
 
 Sua Excelência X Vossa Excelência
@@ -1190,13 +1167,11 @@ Pronomes Pessoais
 
 Vamos às principais informações relevantes:
 
-
 PESSoAS Do DISCURSo
 
 PRoNoMES REToS
 
 PRoNoMES OBLÍQUoS
-
 
 13 pessoa do singular
 2^ pessoa do singular
@@ -1209,7 +1184,6 @@ Ele/Ela
 me, mim, comigo
 te, ti, contigo
 se, si, 0, a, lhe, consigo
-
 
 13 pessoa do plural
 23 pessoa do plural
@@ -1243,7 +1217,6 @@ Informei-o de tudo, (informei a pessoa)
 Você me agradou, mas não me convenceu, (agradou a mim)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Os pronomes oblíquos tônicos são pronunciados com força e precedidos de preposição.
 Costumam ter
@@ -1303,7 +1276,6 @@ A aprovação não virá até mim de graça, (até: preposição essencial)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Regras para a união de pronomes oblíquos
 
 Como substituem substantivos, os pronomes oblíquos poderão ser usados como complementos.
@@ -1350,9 +1322,7 @@ Vejamos uma questão sobre isso.
 
 0 0 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 / 71
-
 
 HORA IX
 
@@ -1405,7 +1375,6 @@ acidentes que houve). Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 CoLoCAçÃo PRoNoMINAL
 
 Colocação pronominal é o tópico em que estudamos regras para posicionamento de pronomes
@@ -1433,7 +1402,6 @@ Em suma, são palavras atrativas, exigindo pronome ANTES DO VERBO:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 frPRONiOMES
 
 RELATIVOS
@@ -1451,7 +1419,6 @@ ADVÉRBIOS
 (sempre,
 certamente,
 provavelmente...)
-
 
 CONJUNÇÕES
 
@@ -1479,12 +1446,10 @@ vírgula. (Ex. Ele não virá amanhã; me disse disse-me que estará ocupado.)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 0 que não for proibido, será aceito, simples assim. Veja abaixo construções inadequadas e
 adequadas:
 
 Me da um cigarro? Dá-me um cigarro.
-
 
 Darei-te um presente.
 
@@ -1528,7 +1493,6 @@ pronome. As duas formas, proclítica ou enclítica, são corretas:
 
 ; Questão correta.
 
-
 j (MP-CE / 2020)
 
 ;No trecho "É verdade que não se poderia contar com ela para nada", o uso da
@@ -1546,7 +1510,6 @@ isto é, o pronome oblíquo;
 í (CGE-CE / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Julgue a proposta de reescrita para o trecho "Ainda hoje, em muitos rincões do nosso
 país, são encontrados
@@ -1592,7 +1555,6 @@ modo que a
 
 ; (PGE-PE / 2019)
 
-
 ;De acordo com Honneth, as demandas por direitos — como aqueles que se referem à
 igualdade de gênero
 
@@ -1616,7 +1578,6 @@ jcomo aqueles que se referem à igualdade de gênero. Questão correta.
 
 : (PC-SE / 2018)
 
-
 ;Em "Mas não me deixe sentar", a colocação do pronome "me" após a forma verbal
 "deixe" — deixe-me —
 
@@ -1629,9 +1590,7 @@ correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ; (TCM BA / 2018)
-
 
 ; Seriam mantidos os sentidos e a correção gramatical do texto 1A1AAA caso se substituísse o trecho
 
@@ -1707,13 +1666,11 @@ quando o verbo termina em "mos" e vai ser seguido de "nos". Questão correta.
 
 k.
 
-
 I
 
 Regras especiais
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Por segurança, vamos ver aqui algumas "regrinhas" que fogem da lógica geral
 aplicável à maioria das
@@ -1771,7 +1728,6 @@ subordinadas, usa-se
 próclise.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Por outro lado, se houver pausa, uma intercalação, esse distanciamento torna possível também a
 ênclise:
@@ -1836,7 +1792,6 @@ Colocação pronominal na locução verbal
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A locução verbal é formada de VERBO AUXILIAR + VERBO PRINCIPAL EM FORMA NOMINAL
 (infinitivo,
 particípio, gerúndio). Só para relembrar:
@@ -1892,7 +1847,6 @@ Ex: "Tenho-o trazido sempre..."
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Cegalla traz os seguintes exemplos:
 
 Ex: "Os presos tinham-se revoltado".
@@ -1910,10 +1864,9 @@ para a prova é MEMORIZAR AS PROIBIÇÕES E PALAVRAS ATRATIVAS.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - PRoNoMES - CEBRASPE
 
-Item. 1. (CEBRASPE / DPE-RO / 2022)
+1. (CEBRASPE / DPE-RO / 2022)
 
 Com a derrota de Hitler em 1945 e, portanto, o fim da Segunda Guerra
 Mundial, da qual o
@@ -1939,7 +1892,7 @@ que traz ainda erro de concordância no gênero.
 
 Questão incorreta.
 
-Item. 2. (CEBRASPE / IBAMA / 2022)
+2. (CEBRASPE / IBAMA / 2022)
 
 Assim como cidadania e cultura formam um par integrado de
 significações, cultura e
@@ -1979,14 +1932,13 @@ Justificativa Cebraspe: Embora a correção gramatical seja mantida, interpor
 
 Questão ANULADA.
 
-Item. 3. (CEBRASPE / DPE-RS / 2022)
+3. (CEBRASPE / DPE-RS / 2022)
 
 O direito, o processo decisório e os julgamentos são eminentemente de
 natureza humana
 e dependem do ser humano para serem bem realizados. Assim, mesmo que os avanços
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 tecnológicos sejam inevitáveis, todas as inovações eletrônicas e
 virtuais devem sempre ser
@@ -2012,7 +1964,7 @@ bonito) ou outro advérbio (muito bem); não pode modificar substantivo.
 
 Questão incorreta.
 
-Item. 4. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2020)
+4. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2020)
 
 Ele entrou tarde no restaurante. Poderia ter uns sessenta anos, era
 alto, corpulento, de cabelos
@@ -2071,12 +2023,11 @@ Ao unir o pronome ao verbo, há alterações na grafia:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Quando os verbos são terminados em R, S, Z + o, os, a, as, teremos:
 lo, los, la, las. Questão
 correta!
 
-Item. 5. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2020)
+5. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2020)
 
 Algumas das primeiras incursões peios mundos paralelos ocorreram na
 década de 50 do sécuio
@@ -2145,10 +2096,9 @@ resoluções possíveis de qualquer situação que se estude torna-se
 real". Portanto, questão
 correta.
 
-Item. 6. (CEBRASPE / MPE-CE/ 2020)
+6. (CEBRASPE / MPE-CE/ 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 i Entre todos os fatores técnicos da mobilidade,
 um papel particularmente importante foi desempenhado
@@ -2191,7 +2141,7 @@ O pronome relativo "a qual", de fato, refere-se ao termo "situação".
 No entanto, "os quais" não
 se refere a "portadores físicos", mas a "objetos". Questão incorreta.
 
-Item. 7. (CEBRASPE / MPE-CE/ 2020)
+7. (CEBRASPE / MPE-CE/ 2020)
 
 i "Desprezo o que dizes, mas defenderei até a morte o
 teu direito a dizê-lo." É com essa afirmação atribuída a
@@ -2236,7 +2186,6 @@ seguinte.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A expressão "suas relações" (1.22) refere-se às relações da "democracia ateniense" (1.21).
 Comentários:
 
@@ -2272,7 +2221,7 @@ argumentação e a retórica se relacionam com a ideia de democracia,
 no caso, a democracia
 ateniense. Questão correta!
 
-Item. 8. (CEBRASPE / TJ-PA/ 2020)
+8. (CEBRASPE / TJ-PA/ 2020)
 
 Texto CG1A1-I
 
@@ -2343,7 +2292,6 @@ B) "homem" (I.26)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 C) "outro" (1.27).
 
 D) "espaço" (1.28).
@@ -2365,7 +2313,7 @@ Observem que é o homem que está na busca de realização. Logo, o
 pronome "o" está
 retomando "homem". Gabarito letra B.
 
-Item. 9. (CEBRASPE / SEFAZ-DF/ 2020)
+9. (CEBRASPE / SEFAZ-DF/ 2020)
 
 Considerando os aspectos linguísticos do texto CG1A1-I, julgue o item a seguir.
 
@@ -2389,7 +2337,7 @@ Este não é o caso do verbo "investir". Logo, a substituição de "nas
 quais" por aonde prejudicaria
 a correção gramatical do texto. Questão correta!
 
-Item. 10. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+10. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 Nas Américas, estima-se que 77 milhões de pessoas sofram um episódio de
 doenças transmitidas
@@ -2417,8 +2365,7 @@ haver a leitura: metade do ano, metade dos alimentos, metade dos milhões... Que
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 11. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
+11. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
 
 Observa-se que a solidez dos lugares ocupados por cada uma das
 pessoas, nos moldes da
@@ -2457,7 +2404,7 @@ L.5: ... tampouco é a instituição que garante a estabilidade do lugar em
 que/onde (retoma lugar
 físico) são educadas as crianças. Gabarito letra D.
 
-Item. 12. (CEBRASPE / MP-CE / ANALISTA / 2020)
+12. (CEBRASPE / MP-CE / ANALISTA / 2020)
 
 A Uberdade de expressão — entendida em sentido amplo, em que se incluem a
 palavra escrita,
@@ -2483,7 +2430,7 @@ A substituição por "onde" só seria possível se "em que" retomasse um
 lugar físico, o que não
 acontece no texto. Portanto, questão incorreta.
 
-Item. 13. (CEBRASPE / TCE-RO / AUDITOR / 2019)
+13. (CEBRASPE / TCE-RO / AUDITOR / 2019)
 
 Na Grécia antiga, por exemplo, teria sido impossível pensar em uma
 distribuição equitativa dos
@@ -2494,7 +2441,6 @@ pensar nisso, mas o
 fazemos 25 relativamente pouco. Essa insensibilidade nega uma das linhas mais promissoras da
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 história do homem ocidental, aquela que se nutriu das ideias
 amadurecidas no correr 28 dos
@@ -2523,7 +2469,7 @@ Note que "nisso" está retomando a ideia de "distribuição
 equitativa dos bens". Portanto,
 Gabarito: Letra A.
 
-Item. 14. (CEBRASPE / CGE-CE / CONHECIMENTOS BÁSICOS / 2019)
+14. (CEBRASPE / CGE-CE / CONHECIMENTOS BÁSICOS / 2019)
 
 Julgue a proposta de reescrita para o trecho "Ainda hoje, em muitos rincões
 do nosso país, são
@@ -2542,7 +2488,7 @@ Comentários:
 "Muito" é advérbio, portanto atrai o pronome átono (muito se assemelham).
 Faltou acento indicativo de crase em "às ações". Questão incorreta.
 
-Item. 15. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019)
+15. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019)
 
 A sociedade requer das organizações uma nova configuração da atividade
 econômica, pautada
@@ -2563,7 +2509,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Apenas usamos "aonde" se houver algum verbo que peça preposição "a",
 normalmente verbos
 de movimento como ir, chegar, comparecer... Não é o caso aqui, até porque
@@ -2574,8 +2519,7 @@ um Estado que seja parco em prestações sociais e no qual (no Estado) a
 própria sociedade se
 responsabilize pelos riscos de sua existência. Questão correta.
 
-Item. 16. (CEBRASPE / TJ-AM/ 2019)
-
+16. (CEBRASPE / TJ-AM/ 2019)
 
 Texto CB3A1-1
 
@@ -2665,8 +2609,7 @@ não por "o qual" (no singular). Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 17. (CEBRASPE / PREF. DE SÃO CRISTÓVÃO (SE) / 2019)
+17. (CEBRASPE / PREF. DE SÃO CRISTÓVÃO (SE) / 2019)
 
 1 O professor que real mente ensina, quer dizer, que
 trabalha DS ccmteüdos no quadro da rigorosidade do pensar
@@ -2716,7 +2659,7 @@ Observem que "a que" está retomando o termo "palavras" que não é
 um lugar físico. Logo, a
 substituição por "onde" prejudicaria a correção gramatical do texto. Questão incorreta.
 
-Item. 18. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+18. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Estavam-lhe ministrando a extrema-unção. E, quando o sacerdote lhe fez a tremenda pergunta,
 chamando-o peio nome: "Juca, queres arrepender-te dos teus pecados?", vi que, na sua face
@@ -2733,8 +2676,7 @@ incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 19. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+19. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Há de se pensar em sistemas mais ágeis de governança urbana, em
 que os cidadãos sejam
@@ -2782,7 +2724,7 @@ mesmo ser esse.
 
 Questão correta. Gabarito oficial: Questão incorreta.
 
-Item. 20. (CEBRASPE / CGM JOÃO PESSOA / 2018)
+20. (CEBRASPE / CGM JOÃO PESSOA / 2018)
 
 Os sentidos originais do texto seriam alterados caso, em
 "...hierarquias que colocam certas
@@ -2802,14 +2744,13 @@ Pessoas certas (Certas é adjetivo, indicando pessoas específicas,
 exatas, corretas). Questão
 correta.
 
-Item. 21. (CEBRASPE / SEFAZ-RS / AUDITOR DO ESTADO / 2018)
+21. (CEBRASPE / SEFAZ-RS / AUDITOR DO ESTADO / 2018)
 
 Mesmo agora, quando já diviso a brumosa porta da casa dos setenta, um
 convite à viagem tem
 ainda o poder de incendiar-me a fantasia.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Com relação ao trecho "incendiar-me a fantasia", é correto interpretar
 a partícula "me" como o
@@ -2820,7 +2761,7 @@ Comentários:
 Aqui, temos exemplo clássico de pronome pessoal com sentido possessivo:
 Incendiar-me a fantasia equivale a "incendiar minha fantasia". Questão correta.
 
-Item. 22. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
+22. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
 
 Aqui, neste escritório onde a verdade não pode ser mais do que uma cara
 sobreposta às infinitas
@@ -2842,7 +2783,7 @@ próximo. Então, a forma correta é "neste". O pronome "nesse" faria
 referência a um escritório
 próximo de quem ouve. Questão correta.
 
-Item. 23. (CEBRASPE / MPU / ANALISTA / 2018)
+23. (CEBRASPE / MPU / ANALISTA / 2018)
 
 Contudo, uma calamidade seria um caso de injustiça apenas se pudesse
 ter sido evitada, em
@@ -2864,7 +2805,7 @@ Fazê-lo = Fazer isso (o que foi mencionado: agir para tentar
 evitar uma calamidade). Questão
 correta.
 
-Item. 24. (CEBRASPE / TCE-PB / Auditor / 2018)
+24. (CEBRASPE / TCE-PB / Auditor / 2018)
 
 No trecho "O que faz com que a memória se torne seletiva não é o
 mundo atual, informatizado,
@@ -2882,7 +2823,6 @@ D) "O que faz com que a memória se torne seletiva".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 E) "o mundo atual".
 Comentários:
 
@@ -2890,7 +2830,7 @@ Aqui, temos o "o" como pronome demonstrativo, retomando o adjetivo "seletiva":
 
 Ela o é por definição => Ela é seletiva por definição. Gabarito letra B.
 
-Item. 25. (CEBRASPE / SEDUC-AL / 2018)
+25. (CEBRASPE / SEDUC-AL / 2018)
 
 No dia seguinte, estando na repartição, recebeu Camilo este bilhete
 de Vilela: "Vem já, já, à
@@ -2924,7 +2864,7 @@ que "este(a)(s)/isso" poderá ser anafórico, bastando que de fato
 seu referente seja uma
 informação anteriormente mencionada. Questão incorreta.
 
-Item. 26. (CEBRASPE / POLÍCIA CIVIL DO MARANHÃO / ESCRIVÃO / 2018)
+26. (CEBRASPE / POLÍCIA CIVIL DO MARANHÃO / ESCRIVÃO / 2018)
 
 Em 2016, foram registrados 16 acidentes, com 303 vítimas fatais, e o
 último episódio, com um
@@ -2945,7 +2885,7 @@ equivalentes variáveis, como
 concordar no masculino
 singular com "desastre". Questão incorreta.
 
-Item. 27. (CEBRASPE / SEDF / 2017)
+27. (CEBRASPE / SEDF / 2017)
 
 Qualquer língua, escrita ou não, tem uma gramática que é complexa.
 Do ponto de vista
@@ -2954,7 +2894,6 @@ naturalista, não faz sentido afirmar que há gramáticas melhores e gramáticas
 A palavra "Qualquer" foi empregada no texto no sentido de toda.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -2968,7 +2907,7 @@ uma gramática complexa, (a língua inteira, por completo, tem uma
 gramática complexa). Questão
 correta.
 
-Item. 28. (CEBRASPE / SEDF / 2017 /Adaptada)
+28. (CEBRASPE / SEDF / 2017 /Adaptada)
 
 Botelho conhecia as faltas de Esteia como as palmas das próprias mãos. O
 Miranda mesmo, que
@@ -2998,7 +2937,7 @@ Note que, de fato, "lhas" é a contração de "lhe" e "as", "lhe"
 retoma Botelho e "as", faltas.
 Portanto, questão correta.
 
-Item. 29. (CEBRASPE / TCE-SC / 2016 - Adaptada)
+29. (CEBRASPE / TCE-SC / 2016 - Adaptada)
 
 f É inegável que o Estado representa um ônus para a
 sociedade, já que. para assegurar o seu funcionamento,
@@ -3032,7 +2971,6 @@ No texto:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Aprimorar o Estado: aprimorá-lo; tomar o Estado: torná-lo. O pronome
 "seu" é possessivo e
 delimita o substantivo "funcionamento". Quem funciona é o Estado, então
@@ -3041,11 +2979,10 @@ pronome possessivo. Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - CoLoCAçÃo PRoNoMINAL -
 CEBRASPE
 
-Item. 1. [CEBRASPE / PETROBRAS / 2022)
+1. [CEBRASPE / PETROBRAS / 2022)
 
 Estaria mantida a correção gramatical do trecho "Os sacerdotes indianos se
 recusavam a escrever as
@@ -3066,7 +3003,7 @@ Os sacerdotes indianos se recusavam/recusavam-se a escrever
 Professores carismáticos (como Sócrates) se recusaram/recusaram-se a escrever
 Questão correta.
 
-Item. 2. (CEBRASPE / DPE-DF / 2022)
+2. (CEBRASPE / DPE-DF / 2022)
 
 Seria mantida a correção gramatical do texto caso, no trecho "que se havia equipado
 para a viagem", o
@@ -3077,7 +3014,7 @@ Comentários:
 É proibido utilizar ênclise com verbo no particípio.
 Questão incorreta.
 
-Item. 3. (CEBRASPE / DPE-DF/ 2022)
+3. (CEBRASPE / DPE-DF/ 2022)
 
 ...Coexistem, em todos os suicídios, a apologia e a aquiescência. Como diz o
 sacerdote, em triste zombaria
@@ -3103,10 +3040,9 @@ Acolhe-te quando vens; te deixa ir quando partes"
 
 Questão incorreta.
 
-Item. 4. (CEBRASPE / MJSP / 2022)
+4. (CEBRASPE / MJSP / 2022)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Na ótica da saúde pública, pode-se conceituar a política de redução de danos como um
 conjunto de
@@ -3128,7 +3064,7 @@ A forma incorreta seria "se pode conceituar", pois a próclise é proibida no in
 
 Questão incorreta.
 
-Item. 5. (CEBRASPE / TELEBRAS / 2022)
+5. (CEBRASPE / TELEBRAS / 2022)
 
 Trata-se de desinformar, e não de informar. A desinformação é a informação
 falsa, incompleta,
@@ -3154,7 +3090,7 @@ direto.
 
 Questão incorreta.
 
-Item. 6. (CEBRASPE / DPE-RS / 2022)
+6. (CEBRASPE / DPE-RS / 2022)
 
 Um registro de mutações ligadas ao mundo eletrônico se refere ao que chamo de a
 ordem das
@@ -3174,7 +3110,7 @@ refere/refere-se
 
 Questão correta.
 
-Item. 7. (CEBRASPE / Ministério da Economia / 2020)
+7. (CEBRASPE / Ministério da Economia / 2020)
 
 Quando eu era criança (e isso aconteceu em outro tempo e em outro espaço), não era
 incomum ouvir a
@@ -3184,7 +3120,6 @@ se você caminhar rápido". Num tempo ainda anterior à minha infância, suponho
 comum
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 teria sido "Se você sair agora, estará lá por volta do meio-dia" ou "Melhor sair
 agora, se você guiser chegar
@@ -3234,7 +3169,7 @@ Observem que antes de "se pode percorrer" e "se precisa" há uma palavra atrativ
 próclise: o pronome
 relativo QUE. Logo, a posição do pronome não é opcional. Questão incorreta.
 
-Item. 8. (CEBRASPE / CGE-CE-Conhec. Básicos - 2019)
+8. (CEBRASPE / CGE-CE-Conhec. Básicos - 2019)
 
 E no meio daquele povo todo sempre se encontrava uma alma boa como a de sua mãe,
 uma moça bonita,
@@ -3260,10 +3195,9 @@ advérbio de tempo
 apassivador: sempre era
 encontrada uma alma boa. Gabarito letra B.
 
-Item. 9. (CEBRASPE / EBSERH / CARGOS NÍVEL SUPERIOR / 2018)
+9. (CEBRASPE / EBSERH / CARGOS NÍVEL SUPERIOR / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A partir disso, poder-se-ia falar em uma quantificação (hierarquia) da dignidade, o que
 permitia admitir a
@@ -3281,7 +3215,7 @@ pois é proibido usar ênclise após verbo no futuro do pretérito. Mesmo na
 locução, todas as proibições
 continuam aplicáveis. Questão correta.
 
-Item. 10. (CEBRASPE / TCM-BA / AUDITOR / 2018)
+10. (CEBRASPE / TCM-BA / AUDITOR / 2018)
 
 Ao contrário do que se poderia pensar sobre os sonhos da burguesia, essa classe tem
 uma concepção
@@ -3295,7 +3229,7 @@ Comentários:
 
 Não pode haver ênclise com verbo no futuro do pretérito (poderia). Questão incorreta.
 
-Item. 11. (CEBRASPE / ABIN / OFICIAL TÉC. DE INTELIGÊNCIA / 2018)
+11. (CEBRASPE / ABIN / OFICIAL TÉC. DE INTELIGÊNCIA / 2018)
 
 Atualmente, como em nenhum outro período da história, crescem e se
 multiplicam as agências
@@ -3317,7 +3251,7 @@ Não há restrição para a próclise (início de oração) nem para a ênclise 
 futuro/particípio), então a
 posição do pronome, aqui, é livre. Questão correta.
 
-Item. 12. (CEBRASPE / TCM BA / AUDITOR / 2018)
+12. (CEBRASPE / TCM BA / AUDITOR / 2018)
 
 ... finge-se confundir a ordem política e a ordem natural, e decreta-se imoral tudo o
 que conteste as leis
@@ -3335,8 +3269,7 @@ posição do pronome, aqui, é livre. Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 13. (CEBRASPE / Superior Tribunal de Justiça / 2018)
+13. (CEBRASPE / Superior Tribunal de Justiça / 2018)
 
 Mantendo-se a correção gramatical e os sentidos do texto, o último período poderia ser
 reescrito da seguinte
@@ -3354,7 +3287,7 @@ O pronome relativo "que" é palavra atrativa e torna a próclise obrigatória. A
 disso, o "por que" deveria
 ser separado, pois temos interrogativa direta. Questão incorreta.
 
-Item. 14. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+14. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 As pessoas em geral pareciam usar essa frase para descrever um mundo que se lhes
 afigurava não só
@@ -3375,7 +3308,7 @@ haveria problema de colocação
 pronominal, pois o pronome relativo "que" atrai o pronome "se" para antes do verbo. Questão
 incorreta.
 
-Item. 15. (CEBRASPE / TCM BA / AUDITOR / 2018)
+15. (CEBRASPE / TCM BA / AUDITOR / 2018)
 
 ...finge-se confundir a ordem política e a ordem natural, e decreta-se imoral tudo o
 que conteste as leis
@@ -3399,7 +3332,7 @@ Então, muito cuidado, não sejam robóticos: muitas vezes a colocação pronomi
 é possível, mas causa
 problemas no texto, como alteração de sentido ou ambiguidades. Questão incorreta.
 
-Item. 16. (CEBRASPE / SEDF / CONHECIMENTOS BÁSICOS / 2017)
+16. (CEBRASPE / SEDF / CONHECIMENTOS BÁSICOS / 2017)
 
 Quando nos perguntamos o que é a consciência, não temos melhor resposta que a de
 Louis Armstrong
@@ -3410,7 +3343,6 @@ Seriam mantidos o sentido e a correção gramatical do texto caso fosse
 introduzida a preposição sobre
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 imediatamente após "perguntou-lhe".
 
@@ -3426,10 +3358,9 @@ o que aconteceu etc. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - PRoNoMES - CEBRASPE
 
-Item. 1. (CEBRASPE / DPE-RO / 2022)
+1. (CEBRASPE / DPE-RO / 2022)
 
 Com a derrota de Hitler em 1945 e, portanto, o fim da Segunda Guerra
 Mundial, da qual o
@@ -3445,7 +3376,7 @@ A correção gramatical e os sentidos do texto CG2A1-I seriam preservados com
 a substituição de
 "da qual" por cuja.
 
-Item. 2. (CEBRASPE / IBAMA / 2022)
+2. (CEBRASPE / IBAMA / 2022)
 
 Assim como cidadania e cultura formam um par integrado de
 significações, cultura e
@@ -3471,7 +3402,7 @@ do qual é o cimento"
 por de que prejudicaria a
 correção gramatical do texto.
 
-Item. 3. (CEBRASPE / DPE-RS / 2022)
+3. (CEBRASPE / DPE-RS / 2022)
 
 O direito, o processo decisório e os julgamentos são eminentemente de
 natureza humana
@@ -3489,7 +3420,7 @@ No último parágrafo do texto, o emprego dos vocábulos "muito" e
 "sempre" enfatizam a opinião
 expressa pelo autor.
 
-Item. 4. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2020)
+4. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2020)
 
 Ele entrou tarde no restaurante. Poderia ter uns sessenta anos, era
 alto, corpulento, de cabelos
@@ -3502,7 +3433,6 @@ chapéu. Ela ria com a
 boca cheia e rebrilhava os olhos escuros.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 No momento em que eu levava o garfo à boca, olhei-o. Ei-lo de olhos
 fechados mastigando pão
@@ -3535,7 +3465,7 @@ No oitavo período do terceiro parágrafo do texto, a forma
 pronominal "lo", em "cortá-lo",
 refere-se ao vocábulo "bife", no período anterior.
 
-Item. 5. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2020)
+5. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2020)
 
 Algumas das primeiras incursões pelos mundos paralelos ocorreram na
 década de 50 do século
@@ -3582,10 +3512,9 @@ No trecho "por que razão", no quinto período, o vocábulo
 "que" poderia ser substituído
 por qual, sem prejuízo da correção gramatical do texto.
 
-Item. 6. (CEBRASPE / MPE-CE/ 2020)
+6. (CEBRASPE / MPE-CE/ 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 * Entre todos os fatores técnicos da mobilidade.
 um papel particularmente importante foi desempenhado
@@ -3622,7 +3551,7 @@ As formas pronominais "os quais" (1.9) e "a qual" (1.16)
 referem-se, respectivamente, a
 "portadores físicos" (I.8) e "situação" (1.15).
 
-Item. 7. (CEBRASPE / MPE-CE/ 2020)
+7. (CEBRASPE / MPE-CE/ 2020)
 
 » "Desprezo o que dizes, mas defenderei até a morte o
 teu direito a dize-lo.'* É com essa afirmação atribuída a
@@ -3664,10 +3593,9 @@ seguinte.
 
 A expressão "suas relações" (1.22) refere-se às relações da "democracia ateniense" (1.21).
 
-Item. 8. (CEBRASPE / TJ-PA/ 2020)
+8. (CEBRASPE / TJ-PA/ 2020)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Texto CG1A1-I
 
@@ -3730,7 +3658,6 @@ Fernanda Simpbcio Cardoso e Leda Maria Torraca de Brito
 Refle&ôes «obre a paternidade na pós-modernidade
 Internet * ov neupst bvs-psi org br> (com adaptações).
 
-
 No terceiro parágrafo do texto CG1A1-I, a forma
 referência a
 
@@ -3744,7 +3671,7 @@ D) "espaço" (I.28).
 
 E) "interior" (I. 28).
 
-Item. 9. (CEBRASPE / SEFAZ-DF/ 2020)
+9. (CEBRASPE / SEFAZ-DF/ 2020)
 
 pronominal "o", em "o lançam" (I. 29), faz
 
@@ -3752,14 +3679,13 @@ Considerando os aspectos linguísticos do texto CG1A1-I, julgue o item a seguir.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 No trecho "os investidores reconhecem cada vez mais o impacto,
 para a sociedade, das
 empresas nas quais investem" (/. 35 a 37), a substituição de "nas quais"
 por aonde prejudicaria a
 correção gramatical do texto.
 
-Item. 10. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
+10. (CEBRASPE / MP-CE / CARGOS DE NÍVEL SUPERIOR / 2020)
 
 Nas Américas, estima-se que 77 milhões de pessoas sofram um episódio de
 doenças transmitidas
@@ -3775,7 +3701,7 @@ A substituição da expressão "metade delas" por cuja metade manteria a
 correção gramatical e a
 coesão do texto.
 
-Item. 11. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
+11. (CEBRASPE / TJ-PA / ANALISTA JUDICIÁRIO / 2020)
 
 Observa-se que a solidez dos lugares ocupados por cada uma das
 pessoas, nos moldes da
@@ -3803,7 +3729,7 @@ D) no qual e onde.
 
 E) que e no qual.
 
-Item. 12. (CEBRASPE / MP-CE / ANALISTA / 2020)
+12. (CEBRASPE / MP-CE / ANALISTA / 2020)
 
 A Uberdade de expressão — entendida em sentido amplo, em que se incluem a
 palavra escrita,
@@ -3821,10 +3747,9 @@ palavra escrita, as peças teatrais, os filmes, os vídeos, as fotografias, os
 cartuns, as pinturas e
 entre outros.
 
-Item. 13. (CEBRASPE / TCE-RO / AUDITOR / 2019)
+13. (CEBRASPE / TCE-RO / AUDITOR / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Na Grécia antiga, por exemplo, teria sido impossível pensar em uma
 distribuição equitativa dos
@@ -3850,7 +3775,7 @@ D) "Essa insensibilidade" (I.25).
 
 E) "ideias amadurecidas no correr dos séculos XVIII e XIX" (I. 27 e 28).
 
-Item. 14. (CEBRASPE / CGE-CE / CONHECIMENTOS BÁSICOS / 2019)
+14. (CEBRASPE / CGE-CE / CONHECIMENTOS BÁSICOS / 2019)
 
 Julgue a proposta de reescrita para o trecho "Ainda hoje, em muitos rincões
 do nosso país, são
@@ -3862,7 +3787,7 @@ Muitos rincões do nosso país, ainda hoje, têm administradores públicos
 cujas as ações muito
 assemelham-se as ações do imperador babilónico Nabucodonosor.
 
-Item. 15. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019)
+15. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 e 4 / 2019)
 
 A sociedade requer das organizações uma nova configuração da atividade
 econômica, pautada
@@ -3880,10 +3805,9 @@ subsidiariamente, na impossibilidade de autossatisfação de suas necessidades.
 
 A substituição de "no qual" por aonde prejudicaria a correção gramatical do texto.
 
-Item. 16. (CEBRASPE/TJ-AM/ 2019)
+16. (CEBRASPE/TJ-AM/ 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Texto CB3A1-I
 
@@ -3964,10 +3888,9 @@ O vocábulo "que" (I.29) poderia ser substituído poro qual, sem
 alteração dos sentidos e da
 correção gramatical do texto.
 
-Item. 17. (CEBRASPE / PREF. DE SÃO CRISTÓVÃO (SE) / 2019)
+17. (CEBRASPE / PREF. DE SÃO CRISTÓVÃO (SE) / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 1 O professor que realmentr ensina, quer dizer, que
 trabalha DS ccmteüdos HD quadro da rigorosidade do pensar
@@ -4007,7 +3930,7 @@ A substituição de "a que" (1.5) por onde manteria a correção gramatical e
 os sentidos originais do
 texto.
 
-Item. 18. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+18. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Estavam-lhe ministrando a extrema-unção. E, quando o sacerdote lhe fez a tremenda pergunta,
 chamando-o peio nome: "Juca, queres arrepender-te dos teus pecados?", vi que, na sua face
@@ -4018,7 +3941,7 @@ num átimo e absolvido. Que fosse amolar os anjos lá no Céul
 
 Em "reanimando-a" (L.4), o pronome "a" refere-se a "Dúvida" (L.3).
 
-Item. 19. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
+19. (CEBRASPE / IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Há de se pensar em sistemas mais ágeis de governança urbana, em
 que os cidadãos sejam
@@ -4028,7 +3951,7 @@ Sem prejuízo da correção gramatical do texto, o termo "em que" (€.1)
 poderia ser substituído por
 na qual.
 
-Item. 20. (CEBRASPE / CGM JOÃO PESSOA / 2018)
+20. (CEBRASPE / CGM JOÃO PESSOA / 2018)
 
 Os sentidos originais do texto seriam alterados caso, em
 "...hierarquias que colocam certas
@@ -4038,8 +3961,7 @@ deslocada para imediatamente após "pessoas".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 21. (CEBRASPE / SEFAZ-RS / AUDITOR DO ESTADO / 2018)
+21. (CEBRASPE / SEFAZ-RS / AUDITOR DO ESTADO / 2018)
 
 Mesmo agora, quando já diviso a brumosa porta da casa dos setenta, um
 convite à viagem tem
@@ -4049,7 +3971,7 @@ Com relação ao trecho "incendiar-me a fantasia", é correto interpretar
 a partícula "me" como o
 possuidor de "fantasia".
 
-Item. 22. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
+22. (CEBRASPE / STM / ANALISTA JUDICIÁRIO / 2018)
 
 Aqui, neste escritório onde a verdade não pode ser mais do que uma cara
 sobreposta às infinitas
@@ -4063,7 +3985,7 @@ Na linha 1, o emprego de "neste" decorre da presença do vocábulo
 "Aqui", de modo que sua
 substituição por nesse resultaria em incorreção gramatical.
 
-Item. 23. (CEBRASPE / MPU / ANALISTA / 2018)
+23. (CEBRASPE / MPU / ANALISTA / 2018)
 
 Contudo, uma calamidade seria um caso de injustiça apenas se pudesse
 ter sido evitada, em
@@ -4077,7 +3999,7 @@ Na expressão "fazê-lo" (I.3), a forma pronominal "lo" retoma a ideia
 de agir para tentar evitar
 uma calamidade.
 
-Item. 24. (CEBRASPE / TCE-PB / Auditor / 2018)
+24. (CEBRASPE / TCE-PB / Auditor / 2018)
 
 No trecho "O que faz com que a memória se torne seletiva não é o
 mundo atual, informatizado,
@@ -4095,7 +4017,7 @@ D) "O que faz com que a memória se torne seletiva".
 
 E) "o mundo atual".
 
-Item. 25. (CEBRASPE / SEDUC-AL / 2018)
+25. (CEBRASPE / SEDUC-AL / 2018)
 
 No dia seguinte, estando na repartição, recebeu Camilo este bilhete
 de Vilela: "Vem já, já, à
@@ -4104,7 +4026,6 @@ Camilo saiu logo; na rua,
 advertiu que teria sido mais natural chamá-lo ao escritório; por que em casa?(...)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A cartomante foi à cômoda, sobre a qual estava um prato com passas, tirou
 um cacho destas,
@@ -4116,7 +4037,7 @@ Tanto em "recebeu Camilo este bilhete de Vilela" (£. 1) quanto em
 "tirou um cacho destas"
 (£.4), os pronomes demonstrativos foram empregados para retomar termos antecedentes.
 
-Item. 26. (CEBRASPE / POLÍCIA CIVIL DO MARANHÃO / ESCRIVÃO / 2018)
+26. (CEBRASPE / POLÍCIA CIVIL DO MARANHÃO / ESCRIVÃO / 2018)
 
 Em 2016, foram registrados 16 acidentes, com 303 vítimas fatais, e o último
 episódio, com um
@@ -4133,7 +4054,7 @@ Com relação a aspectos linguísticos do texto, JULGUE O ITEM.
 
 A substituição do termo "que" por o qual prejudicaria a correção gramatical do texto.
 
-Item. 27. (CEBRASPE / SEDF / 2017)
+27. (CEBRASPE / SEDF / 2017)
 
 Qualquer língua, escrita ou não, tem uma gramática que é complexa.
 Do ponto de vista
@@ -4157,7 +4078,7 @@ A forma pronominal "lhas" (£.2) retoma "faltas" (£.1) e "Botelho" (£.1), de
 modo que se conclui
 do texto que o Miranda havia confiado as faltas de Esteia a Botelho.
 
-Item. 29. (CEBRASPE / TCE-SC / 2016 - Adaptada)
+29. (CEBRASPE / TCE-SC / 2016 - Adaptada)
 
 f É inegável que o Estado representa um ônus para a
 sociedade, já que. para assegurar o seu funcionamento,
@@ -4179,23 +4100,21 @@ e "torná-lo" —, e
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. ANULADA
 
-Item. 2. ANULADA
+3. INCORRETA
 
-Item. 3. INCORRETA
+4. CORRETA
 
-Item. 4. CORRETA
+5. CORRETA
 
-Item. 5. CORRETA
+6. INCORRETA
 
-Item. 6. INCORRETA
-
-Item. 7. CORRETA
+7. CORRETA
 
 8.
 
@@ -4268,11 +4187,10 @@ CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - CoLoCAçÃo PRoNoMINAL -
 CEBRASPE
 
-Item. 1. [CEBRASPE / PETROBRAS / 2022)
+1. [CEBRASPE / PETROBRAS / 2022)
 
 Estaria mantida a correção gramatical do trecho "Os sacerdotes indianos se
 recusavam a escrever as
@@ -4282,13 +4200,13 @@ se recusaram a escrever", caso a posição do pronome "se", em suas duas ocorrê
 fosse alterada de
 proclítica — como está no texto — para enclítica.
 
-Item. 2. (CEBRASPE / DPE-DF / 2022)
+2. (CEBRASPE / DPE-DF / 2022)
 
 Seria mantida a correção gramatical do texto caso, no trecho "que se havia equipado
 para a viagem", o
 pronome "se" fosse deslocado para depois do particípio, escrevendo-se equipado-se.
 
-Item. 3. (CEBRASPE / DPE-DF/ 2022)
+3. (CEBRASPE / DPE-DF/ 2022)
 
 ...Coexistem, em todos os suicídios, a apologia e a aquiescência. Como diz o
 sacerdote, em triste zombaria
@@ -4304,7 +4222,7 @@ Em 'Acolhe-te quando vens e te deixa ir quando partes', a conjunção 'e' poderi
 substituída por ponto
 e vírgula, sem prejuízo do sentido original e da correção gramatical do texto.
 
-Item. 4. (CEBRASPE / MJSP / 2022)
+4. (CEBRASPE / MJSP / 2022)
 
 Na ótica da saúde pública, pode-se conceituar a política de redução de danos como um
 conjunto de
@@ -4318,7 +4236,7 @@ colocação do pronome
 prejudicaria a correção
 gramatical e alteraria os sentidos originais do texto.
 
-Item. 5. (CEBRASPE / TELEBRAS / 2022)
+5. (CEBRASPE / TELEBRAS / 2022)
 
 Trata-se de desinformar, e não de informar. A desinformação é a informação
 falsa, incompleta,
@@ -4336,8 +4254,7 @@ cerco informativo.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 6. (CEBRASPE / DPE-RS / 2022)
+6. (CEBRASPE / DPE-RS / 2022)
 
 Um registro de mutações ligadas ao mundo eletrônico se refere ao que chamo de a
 ordem das
@@ -4349,7 +4266,7 @@ Seria mantida a correção gramatical do texto se o pronome "se", no primeiro pa
 fosse deslocado
 para imediatamente após a forma verbal "refere", da seguinte maneira: refere-se.
 
-Item. 7. (CEBRASPE / Ministério da Economia / 2020)
+7. (CEBRASPE / Ministério da Economia / 2020)
 
 Quando eu era criança (e isso aconteceu em outro tempo e em outro espaço), não era
 incomum ouvir a
@@ -4399,7 +4316,7 @@ texto, é opcional, de modo que o emprego da ênclise nesses dois casos também 
 correto: pode-se
 percorrer e precisa-se, respectivamente.
 
-Item. 8. (CEBRASPE / CGE-CE-Conhec. Básicos - 2019)
+8. (CEBRASPE / CGE-CE-Conhec. Básicos - 2019)
 
 E no meio daquele povo todo sempre se encontrava uma alma boa como a de sua mãe,
 uma moça bonita,
@@ -4413,14 +4330,13 @@ b) encontra-se em próclise devido à presença do advérbio "sempre".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 c) indetermina o sujeito da forma verbal "encontrava".
 
 d) retoma a palavra "povo" (L.10).
 
 e) indica reciprocidade.
 
-Item. 9. (CEBRASPE / EBSERH / CARGOS NÍVEL SUPERIOR / 2018)
+9. (CEBRASPE / EBSERH / CARGOS NÍVEL SUPERIOR / 2018)
 
 A partir disso, poder-se-ia falar em uma quantificação (hierarquia) da dignidade, o que
 permitia admitir a
@@ -4430,7 +4346,7 @@ A correção do texto seria mantida caso o pronome "se", em "poder-se-ia
 falar", fosse deslocado para
 imediatamente após a forma verbal "falar", escrevendo-se poderia falar-se.
 
-Item. 10. (CEBRASPE / TCM-BA / AUDITOR / 2018)
+10. (CEBRASPE / TCM-BA / AUDITOR / 2018)
 
 Ao contrário do que se poderia pensar sobre os sonhos da burguesia, essa classe tem
 uma concepção
@@ -4440,7 +4356,7 @@ Seriam mantidos os sentidos e a correção gramatical do texto 1A1AAA caso se
 substituísse o trecho "se
 poderia pensar" por poderia-se pensar.
 
-Item. 11. (CEBRASPE / ABIN / OFICIAL TÉC. DE INTELIGÊNCIA / 2018)
+11. (CEBRASPE / ABIN / OFICIAL TÉC. DE INTELIGÊNCIA / 2018)
 
 Atualmente, como em nenhum outro período da história, crescem e se
 multiplicam as agências
@@ -4456,7 +4372,7 @@ A próclise observada em "se multiplicam" e "se desenvolve" é opcional, de modo
 emprego da ênclise
 nesses dois casos também seria correto — multiplicam-se e desenvolve-se, respectivamente.
 
-Item. 12. (CEBRASPE / TCM BA / AUDITOR / 2018)
+12. (CEBRASPE / TCM BA / AUDITOR / 2018)
 
 ... finge-se confundir a ordem política e a ordem natural, e decreta-se imoral tudo o
 que conteste as leis
@@ -4466,7 +4382,7 @@ Seriam mantidos os sentidos e a correção gramatical do texto 1A1AAA caso se
 substituísse o trecho "decreta-
 se" por se decreta.
 
-Item. 13. (CEBRASPE / Superior Tribunal de Justiça / 2018)
+13. (CEBRASPE / Superior Tribunal de Justiça / 2018)
 
 Mantendo-se a correção gramatical e os sentidos do texto, o último período poderia ser
 reescrito da seguinte
@@ -4480,8 +4396,7 @@ uma questão que tornou-se tão inflamadamente debatida?
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 14. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
+14. (CEBRASPE / CAGE-RS / AUDITOR FISCAL / 2018)
 
 As pessoas em geral pareciam usar essa frase para descrever um mundo que se lhes
 afigurava não só
@@ -4493,7 +4408,7 @@ afigurava" por afigurava-se a elas, a linguagem resultaria informal e,
 consequentemente, inadequada ao
 gênero textual.
 
-Item. 15. (CEBRASPE / TCM BA / AUDITOR / 2018)
+15. (CEBRASPE / TCM BA / AUDITOR / 2018)
 
 ...finge-se confundir a ordem política e a ordem natural, e decreta-se imoral tudo o
 que conteste as leis
@@ -4503,7 +4418,7 @@ Seriam mantidos os sentidos e a correção gramatical do texto caso se substitu�
 trecho "que se quer
 defender" por que quer defender-se.
 
-Item. 16. (CEBRASPE / SEDF / CONHECIMENTOS BÁSICOS / 2017)
+16. (CEBRASPE / SEDF / CONHECIMENTOS BÁSICOS / 2017)
 
 Quando nos perguntamos o que é a consciência, não temos melhor resposta que a de
 Louis Armstrong
@@ -4516,18 +4431,17 @@ imediatamente após "perguntou-lhe".
 
 GABARITo
 
+1. CORRETA
 
-Item. 1. CORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. INCORRETA
 
-Item. 3. INCORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. INCORRETA
 
-Item. 5. INCORRETA
-
-Item. 6. CORRETA
+6. CORRETA
 
 7.
 
@@ -4562,5 +4476,4 @@ INCORRETA
 INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

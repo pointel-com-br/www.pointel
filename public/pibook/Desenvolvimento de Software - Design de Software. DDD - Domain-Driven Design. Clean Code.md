@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Design de Software. DDD - Domain-Driven Design. Clean Code.
-
+# Desenvolvimento de Software - Design de Software. DDD - Domain-Driven Design. Clean Code.
 
 Índice
 
@@ -14,7 +13,6 @@ Capítulo. Desenvolvimento de Software - Design de Software. DDD - Domain-Driven
 5) Clean Code - Questões Comentadas
 
 6) Clean Code - Lista de Questões
-
 
 DoMAIN-DRIvEN DESIGN - DDD
 
@@ -80,11 +78,9 @@ para manter seu dinheiro seguro e disponível quando ele precisa. O analista
 de software? Na
 verdade, não. Ele sabe analisar um determinado tema, quando lhe são dados todos os ingredientes
 
-
 / 60
 
 /
-
 
 necessários. O desenvolvedor? Esqueça. Quem então? Os banqueiros, claro. O sistema
 bancário é
@@ -154,9 +150,7 @@ DDD pode ser visto por alguns como a volta da orientação a objetos. É verdade
 livro é um
 chamado às boas práticas de programação que já existem desde a época remota do SmalITalk.
 
-
 / 60
-
 
 Quando se fala em Orientação a Objetos pensa-se logo em classes, heranças,
 polimorfismo,
@@ -225,11 +219,9 @@ linguagem estão
 i termos que fazem parte das conversas diárias entre especialistas de negócio
 e times de
 
-
 / 60
 
 /
-
 
 i desenvolvimento. Todos devem usar os mesmos termos tanto na linguagem
 falada quanto no i
@@ -300,11 +292,9 @@ Mas se você já tentou criar um aplicativo orientado a domínio, saberá que ap
 princípios DDD
 é mais fácil dizer do que fazer. Com a estrutura Naked Objects de software livre, você constrói seu
 
-
 / 60
 
 /
-
 
 aplicativo Java escrevendo apenas as classes de domínio principais, deixando que ele
 cuide do
@@ -319,15 +309,13 @@ de seu aplicativo, história por história. E, uma vez desenvolvido, você pode 
 seu aplicativo
 em tempo de execução completo do Naked Objects ou em sua infraestrutura de aplicativo existente.
 
-
 / 60
 
 /
 
-
 QUESTõES CoMENTADAS - DDD
 
-Item. 1. (CESPE - DP DF - 2022) Quanto ao domain driven design (DDD), julgue o item a seguir.
+1. (CESPE - DP DF - 2022) Quanto ao domain driven design (DDD), julgue o item a seguir.
 
 O DDD permite o desenvolvimento de software com base no conhecimento e na modelagem do
 negócio.
@@ -345,7 +333,7 @@ modelo de domínio.
 
 Gabarito: Correto
 
-Item. 2. (CESPE - DP DF - 2022) Acerca de DDD (domain driven design), julgue o item a seguir.
+2. (CESPE - DP DF - 2022) Acerca de DDD (domain driven design), julgue o item a seguir.
 
 O modelo é estático no DDD; caso ele se torne complexo, caberá aos
 desenvolvedores
@@ -363,7 +351,7 @@ errado!
 
 Gabarito: Errado
 
-Item. 3. (CESPE - DP DF - 2022) Acerca de DDD (domain driven design), julgue o item a seguir.
+3. (CESPE - DP DF - 2022) Acerca de DDD (domain driven design), julgue o item a seguir.
 
 Devido a sua simplicidade, o DDD não permite a representação do modelo por meio de
 artefatos
@@ -377,13 +365,11 @@ outro lado, difícil de aplicar.
 
 Gabarito: Errado
 
-
 / 60
 
 /
 
-
-Item. 4. (CESPE - Telebras - 2022 - Adaptada) Acerca de aspectos diversos pertinentes a objetos de
+4. (CESPE - Telebras - 2022 - Adaptada) Acerca de aspectos diversos pertinentes a objetos de
 avaliação associados à análise de sistemas, julgue o item que se segue.
 
 Com relação ao DDD (Domain Driven Design) é correto afirmar que ele traz como
@@ -410,7 +396,7 @@ gabarito errado, porém essa questão foi adaptada.
 
 Gabarito: Correto
 
-Item. 5. (CESPE - Ministério da Economial- 2020) Acerca de DDD (domain driven design),
+5. (CESPE - Ministério da Economial- 2020) Acerca de DDD (domain driven design),
 julgue o item
 a seguir.
 
@@ -428,7 +414,7 @@ início de 2019.
 
 Gabarito: Correto
 
-Item. 6. (CESPE - Ministério da Economia- 2020) Acerca de DDD (domain driven design), julgue
+6. (CESPE - Ministério da Economia- 2020) Acerca de DDD (domain driven design), julgue
 o item a
 seguir.
 
@@ -438,11 +424,9 @@ modelo deve preceder a implementação do código-fonte.
 
 Comentários:
 
-
 / 60
 
 /
-
 
 Pessoal, na verdade, a modelagem e a implementação atuam de forma dependente ou
 conjunta.
@@ -453,7 +437,7 @@ implementação quase que em paralelo. Portanto, não ocorre de forma independen
 
 Gabarito: Errado
 
-Item. 7. (CESPE-TJ-PA-2020) Assinale a opção que apresenta o padrão de arquitetura de
+7. (CESPE-TJ-PA-2020) Assinale a opção que apresenta o padrão de arquitetura de
 software que,
 no âmbito DDD (domain driven design), é uma implementação do padrão para
 ajudar a
@@ -477,7 +461,7 @@ rich client ou HTML .
 
 Gabarito: Letra E
 
-Item. 8. (CESPE - MPC PA- 2019) No Domain-Driven Design, a Ubiquitous Language é considerada
+8. (CESPE - MPC PA- 2019) No Domain-Driven Design, a Ubiquitous Language é considerada
 a) uma linguagem de programação utilizada pelos desenvolvedores para escrever os códigos.
 
 b) uma linguagem de modelagem utilizada pelos analistas para representar os processos
@@ -504,11 +488,9 @@ desenvolvedores e especialistas de maneira mais natural, para que todos possam
 contribuir de
 forma satisfatória nas discussões sobre o domínio. Portanto, nosso gabarito é a letra c) Ubiquitous
 
-
 / 60
 
 /
-
 
 Language é considerada uma linguagem do projeto de desenvolvimento de software utilizada
 para
@@ -516,7 +498,7 @@ comunicação de todos os envolvidos no projeto
 
 Gabarito: Letra C
 
-Item. 9. (CESPE - SLU DF- 2019) Julgue o próximo item, a respeito de domain-driven
+9. (CESPE - SLU DF- 2019) Julgue o próximo item, a respeito de domain-driven
 design, design
 patterns, emergent design, enterprise content management e REST.
 
@@ -532,7 +514,7 @@ porque na verdade, não é prioritário. Quando lê a questão inteira verifica 
 
 Gabarito: Correto
 
-Item. 10. (CESPE- MPE PI- 2018) Julgue o item subsequente, referente a Domain Driven Design e a Design
+10. (CESPE- MPE PI- 2018) Julgue o item subsequente, referente a Domain Driven Design e a Design
 Patterns.
 
 No Domain Driven Design, o projeto de software baseia sua reação em eventos externos e
@@ -565,11 +547,9 @@ planejamento especulativo para um futuro que pode mudar.
 
 Comentários:
 
-
 / 60
 
 /
-
 
 Perfeita definição! De fato, 0 foco principal do DDD deve ser o domínio e domínios
 complexos devem
@@ -581,7 +561,7 @@ acoplamento; independência da tecnologia.
 
 Gabarito: Correto
 
-Item. 12. (IBFC-EMBASA-2017) Eric Evans, criador do DDD (Domain-Driven Design), afirma que,
+12. (IBFC-EMBASA-2017) Eric Evans, criador do DDD (Domain-Driven Design), afirma que,
 no DDD,
 foca-se numa linguagem que possa descrever sucintamente qualquer situação no
 domínio e
@@ -606,7 +586,7 @@ como por desenvolvedores (implementadores do sistema).
 
 Gabarito: Letra C
 
-Item. 13. (CESPE -TRE PE- 2017) 0 DDD (domain-driven design)
+13. (CESPE -TRE PE- 2017) 0 DDD (domain-driven design)
 
 a) consiste em uma técnica que trata os elementos de domínio e que garante segurança
 à
@@ -632,11 +612,9 @@ operações que permite acesso a uma funcionalidade da aplicação.
 
 Comentários:
 
-
 / 60
 
 /
-
 
 Para ter um software que atenda perfeitamente a um determinado domínio, é necessário
 que se
@@ -660,7 +638,7 @@ trata de uma interface de domínio normalmente e um conjunto de operações.
 
 Gabarito: Letra B
 
-Item. 14. (CESPE - TRT 8a Região - 2016) Assinale a opção correta com relação à modelagem orientada a
+14. (CESPE - TRT 8a Região - 2016) Assinale a opção correta com relação à modelagem orientada a
 domínio (DDD - domain driven design).
 
 a) Fábricas são classes que contêm a lógica do negócio, mas que não pertencem a
@@ -695,7 +673,7 @@ muito específica e complexa
 
 Gabarito: Letra B
 
-Item. 15. (ESAF - ESAF- 2015) O Domain-Driven Design - DDD utiliza o conceito de divisão do sistema em
+15. (ESAF - ESAF- 2015) O Domain-Driven Design - DDD utiliza o conceito de divisão do sistema em
 camadas. As camadas desse modelo são:
 
 a) aplicação, apresentação, sessão, transporte, rede, enlace e física.
@@ -706,11 +684,9 @@ c) do modelo, da visualização e de controle.
 
 d) domínio de usuário, domínio de negócio e domínio de dados.
 
-
 / 60
 
 /
-
 
 e) interface com usuário, aplicação, domínio e infraestrutura.
 
@@ -721,7 +697,7 @@ do DDD são interface com usuário, aplicação, domínio e infraestrutura.
 
 Gabarito: Letra E
 
-Item. 16. (CESPE - STJ- 2015) Julgue o próximo item, relativo a Domain-Driven Design e design patterns.
+16. (CESPE - STJ- 2015) Julgue o próximo item, relativo a Domain-Driven Design e design patterns.
 
 Um dos princípios-chave do Domain-Driven Design é o uso de uma linguagem ubíqua com
 termos
@@ -739,7 +715,7 @@ desenvolvedores especialistas de negócio perfeito! Questão correta pessoal!
 
 Gabarito: Correto
 
-Item. 17. (CESPE - STJ- 2015) Acerca de arquitetura de software e Domain-Driven Design,
+17. (CESPE - STJ- 2015) Acerca de arquitetura de software e Domain-Driven Design,
 julgue o
 seguinte item.
 
@@ -756,7 +732,7 @@ influência.
 
 Gabarito: Correto
 
-Item. 18. (CESPE - MPOG- 2013) Com relação às metodologias ágeis de desenvolvimento, julgue
+18. (CESPE - MPOG- 2013) Com relação às metodologias ágeis de desenvolvimento, julgue
 os itens
 a seguir.
 
@@ -766,11 +742,9 @@ também interagir com um sistema legado (considerado um código de difícil manu
 cria-
 se uma camada entre os dois sistemas denominada camada anticorrupção.
 
-
 / 60
 
 /
-
 
 Comentários:
 
@@ -784,48 +758,47 @@ bem-feito falará com essa camada, que possui uma interface bem-feita.
 
 Gabarito: Correto
 
-
 LISTA DE QUESTõES - DDD
 
-Item. 1. (CESPE - DP DF - 2022) Quanto ao domain driven design (DDD), julgue o item a seguir.
+1. (CESPE - DP DF - 2022) Quanto ao domain driven design (DDD), julgue o item a seguir.
 
 O DDD permite o desenvolvimento de software com base no conhecimento e na modelagem do
 negócio.
 
-Item. 2. (CESPE - DP DF - 2022) Acerca de DDD (domain driven design), julgue o item a seguir.
+2. (CESPE - DP DF - 2022) Acerca de DDD (domain driven design), julgue o item a seguir.
 
 O modelo é estático no DDD; caso ele se torne complexo, caberá aos
 desenvolvedores
 transferirem a abstração da complexidade para o software.
 
-Item. 3. (CESPE - DP DF - 2022) Acerca de DDD (domain driven design), julgue o item a seguir.
+3. (CESPE - DP DF - 2022) Acerca de DDD (domain driven design), julgue o item a seguir.
 
 Devido a sua simplicidade, o DDD não permite a representação do modelo por meio de
 artefatos
 de software bem definidos.
 
-Item. 4. (CESPE - Telebras - 2022 - Adaptada) Acerca de aspectos diversos pertinentes a objetos de
+4. (CESPE - Telebras - 2022 - Adaptada) Acerca de aspectos diversos pertinentes a objetos de
 avaliação associados à análise de sistemas, julgue o item que se segue.
 
 Com relação ao DDD (Domain Driven Design) é correto afirmar que ele traz como
 benefício o
 isolamento das regras de negócios da lógica de apresentação.
 
-Item. 5. (CESPE - Ministério da Economial- 2020) Acerca de DDD (domain driven design), julgue o item
+5. (CESPE - Ministério da Economial- 2020) Acerca de DDD (domain driven design), julgue o item
 a seguir.
 
 O bounded contexto é um limite conceituai do modelo, sendo considerado um delimitador
 de
 domínio.
 
-Item. 6. (CESPE - Ministério da Economia- 2020) Acerca de DDD (domain driven design), julgue o item a
+6. (CESPE - Ministério da Economia- 2020) Acerca de DDD (domain driven design), julgue o item a
 seguir.
 
 A modelagem e a implementação atuam de forma independente, tal que toda a elaboração
 do
 modelo deve preceder a implementação do código-fonte.
 
-Item. 7. (CESPE-TJ-PA-2020) Assinale a opção que apresenta o padrão de arquitetura de
+7. (CESPE-TJ-PA-2020) Assinale a opção que apresenta o padrão de arquitetura de
 software que,
 no âmbito DDD (domain driven design), é uma implementação do padrão para
 ajudar a
@@ -834,17 +807,15 @@ prototipar, desenvolver e implantar rapidamente aplicativos orientados a domíni
 a) client/server architecture
 b) federal enterprise architecture
 
-
 / 60
 
 /
-
 
 c) service-oriented architecture
 d) Java persistence architecture
 e) naked object
 
-Item. 8. (CESPE - MPC PA- 2019) No Domain-Driven Design, a Ubiquitous Language é considerada
+8. (CESPE - MPC PA- 2019) No Domain-Driven Design, a Ubiquitous Language é considerada
 a) uma linguagem de programação utilizada pelos desenvolvedores para escrever os códigos.
 
 b) uma linguagem de modelagem utilizada pelos analistas para representar os processos
@@ -863,14 +834,14 @@ e) uma linguagem de semântica utilizada pelos especialistas para definir as
 especificações de
 negócio.
 
-Item. 9. (CESPE - SLU DF- 2019) Julgue o próximo item, a respeito de domain-driven design, design
+9. (CESPE - SLU DF- 2019) Julgue o próximo item, a respeito de domain-driven design, design
 patterns, emergent design, enterprise content management e REST.
 
 No desenvolvimento embasado em domain-driven design, a definição da tecnologia
 a ser
 utilizada tem importância secundária no projeto.
 
-Item. 10. (CESPE - MPE PI-2018) Julgue o item subsequente, referente a Domain Driven Design e a Design
+10. (CESPE - MPE PI-2018) Julgue o item subsequente, referente a Domain Driven Design e a Design
 Patterns.
 
 No Domain Driven Design, o projeto de software baseia sua reação em eventos externos e
@@ -879,7 +850,7 @@ entre os modelos abstratos independentes de implementação e os
 específicos de
 implementação.
 
-Item. 11. (CESPE - STJ- 2018) Julgue o próximo item, relativo a model-view- controller (MVC), proxy
+11. (CESPE - STJ- 2018) Julgue o próximo item, relativo a model-view- controller (MVC), proxy
 reverso e representational state transfer (REST).
 
 O domain-driven design é parte das práticas do princípio lean da engenharia ágil
@@ -888,7 +859,7 @@ arquiteturas que devem ser conduzidas por requisitos técnicos subjacentes do si
 não por
 planejamento especulativo para um futuro que pode mudar.
 
-Item. 12. (IBFC-EMBASA-2017) Eric Evans, criador do DDD (Domain-Driven Design), afirma que, no
+12. (IBFC-EMBASA-2017) Eric Evans, criador do DDD (Domain-Driven Design), afirma que, no
 DDD,
 foca-se numa linguagem que possa descrever sucintamente qualquer situação no
 domínio e
@@ -898,18 +869,16 @@ linguagem pode ser compartilhada entre pessoas do negócio, especialistas de dom
 assim
 como os programadores que irão escrever o software, e isso chamamos de linguagem:
 
-
 / 60
 
 /
-
 
 a) ecológica
 b) temporal
 c) ubíqua
 d) estética
 
-Item. 13. (CESPE -TRE PE- 2017) O DDD (domain-driven design)
+13. (CESPE -TRE PE- 2017) O DDD (domain-driven design)
 
 a) consiste em uma técnica que trata os elementos de domínio e que garante segurança
 à
@@ -933,7 +902,7 @@ e) define-se como uma interface de domínio normalmente especificada e um
 conjunto de
 operações que permite acesso a uma funcionalidade da aplicação.
 
-Item. 14. (CESPE - TRT 8a Região - 2016) Assinale a opção correta com relação à modelagem orientada a
+14. (CESPE - TRT 8a Região - 2016) Assinale a opção correta com relação à modelagem orientada a
 domínio (DDD - domain driven design).
 
 a) Fábricas são classes que contêm a lógica do negócio, mas que não pertencem a
@@ -956,7 +925,7 @@ e) DDD utiliza os mesmos conceitos e premissas do processo de análise e projeto
 orientação
 a objetos.
 
-Item. 15. (ESAF - ESAF- 2015) O Domain-Driven Design - DDD utiliza o conceito de divisão do sistema em
+15. (ESAF - ESAF- 2015) O Domain-Driven Design - DDD utiliza o conceito de divisão do sistema em
 camadas. As camadas desse modelo são:
 
 a) aplicação, apresentação, sessão, transporte, rede, enlace e física.
@@ -969,13 +938,11 @@ d) domínio de usuário, domínio de negócio e domínio de dados.
 
 e) interface com usuário, aplicação, domínio e infraestrutura.
 
-
 / 60
 
 /
 
-
-Item. 16. (CESPE - STJ- 2015) Julgue o próximo item, relativo a Domain-Driven Design e design patterns.
+16. (CESPE - STJ- 2015) Julgue o próximo item, relativo a Domain-Driven Design e design patterns.
 
 Um dos princípios-chave do Domain-Driven Design é o uso de uma linguagem ubíqua com
 termos
@@ -983,7 +950,7 @@ bem definidos, que integram o domínio do negócio e que são utilizados entre
 desenvolvedores
 especialistas de negócio.
 
-Item. 17. (CESPE - STJ- 2015) Acerca de arquitetura de software e Domain-Driven Design, julgue o
+17. (CESPE - STJ- 2015) Acerca de arquitetura de software e Domain-Driven Design, julgue o
 seguinte item.
 
 Domain-Driven Design pode ser aplicada ao processo de concepção arquitetural de um
@@ -991,7 +958,7 @@ sistema
 de software, sendo que domain, em um software, designa o campo de ação, conhecimento e
 influência.
 
-Item. 18. (CESPE - MPOG- 2013) Com relação às metodologias ágeis de desenvolvimento, julgue os itens
+18. (CESPE - MPOG- 2013) Com relação às metodologias ágeis de desenvolvimento, julgue os itens
 a seguir.
 
 De acordo com os padrões de DDD (domain-driven design), ao se escrever um novo
@@ -1000,54 +967,50 @@ também interagir com um sistema legado (considerado um código de difícil manu
 cria-
 se uma camada entre os dois sistemas denominada camada anticorrupção.
 
-
 / 60
 
 /
-
 
 GABARITo
 í. CORRETO
 
-Item. 2. ERRADO
+2. ERRADO
 
-Item. 3. ERRADO
+3. ERRADO
 
-Item. 4. CORRETO
+4. CORRETO
 
-Item. 5. CORRETO
+5. CORRETO
 
-Item. 6. ERRADO
+6. ERRADO
 
-Item. 7. LETRA E
+7. LETRA E
 
-Item. 8. LETRA C
+8. LETRA C
 
-Item. 9. CORRETO
+9. CORRETO
 
-Item. 10. ERRADO
+10. ERRADO
 
-Item. 11. CORRETO
+11. CORRETO
 
-Item. 12. LETRA C
+12. LETRA C
 
-Item. 13. LETRA B
+13. LETRA B
 
-Item. 14. LETRA B
+14. LETRA B
 
-Item. 15. LETRA E
+15. LETRA E
 
-Item. 16. CORRETO
+16. CORRETO
 
-Item. 17. CORRETO
+17. CORRETO
 
-Item. 18. CORRETO
-
+18. CORRETO
 
 / 60
 
 /
-
 
 Conceitos Básicos
 
@@ -1107,11 +1070,9 @@ Clean Code: A Handbook of Agile Software Craftsmanship
 
 Bjarne Stroustrup, criador do C++ e autor do livro A linguagem de programação C++.
 
-
 ,.Z 60
 
 /
-
 
 permitem que as outras janelas se quebrem também. No final das contas, as próprias
 pessoas as
@@ -1157,13 +1118,13 @@ Vejamos as palavras de Ron Jeffries6: nestes anos recentes, comecei, e quase fin
 regras
 de Beck sobre código simples. Em ordem de prioridade, são:
 
-Item. 1. Efetue todos os testes;
+1. Efetue todos os testes;
 
-Item. 2. Sem duplicação de código;
+2. Sem duplicação de código;
 
-Item. 3. Expressa todas as ideias do projeto que estão no sistema;
+3. Expressa todas as ideias do projeto que estão no sistema;
 
-Item. 4. Minimiza o número de entidades, como classes, métodos funções e outras do tipo;
+4. Minimiza o número de entidades, como classes, métodos funções e outras do tipo;
 
 Grady Booch, autor do livro Object Oriented Analysis and Design with Applications
 Dave Thomas, fundador da OTI, o pai da estratégia Eclipse
@@ -1172,11 +1133,9 @@ Michael Feathers, autor de Working Effectively with Legacy Code
 
 Ron Jeffries autor de Extreme Programming Installed and Extreme Programming Adventures in C#
 
-
 ,.Z 60
 
 /
-
 
 Dessas quatro, Jeffries foca mais na de duplicação. Quando a mesma coisa é feita repetidas vezes, é
 sinal de que uma ideia em sua cabeça não está bem representada no código. Tento
@@ -1217,7 +1176,6 @@ code.
 
 int .a = 1;
 
-
 if (
 
 O == 1 )
@@ -1236,7 +1194,6 @@ Ward Cunningham, criador do conceito de "WikiWiki", criador do Fit, co-criador d
 Programação Extrema (eXtreme Programming). Incentivador
 dos Padrões de Projeto. Líder da Smalltalk e da 00. Pai de todos aqueles que se importam com o
 código.
-
 
 consistência de expressão? Nomes significativos? Não né? Portanto essa questão
 está errada.
@@ -1272,14 +1229,12 @@ r ..
 ..
 ..
 
-
 >.l
 i (CESPE - TJ PA - 2020) O Clean Code deve considerar também o momento de teste do software
 em i
 i desenvolvimento. O Teste Limpo deve
 
 I
-
 
 I
 
@@ -1312,11 +1267,9 @@ contemplar todas as i
 i dependências. (Gabarito: Letra A)
 i
 
-
 / 60
 
 /
-
 
 3 R's da Arquitetura de software
 
@@ -1329,7 +1282,6 @@ A legibilidade prioriza a clareza na
 escolha de nomes, padronização
 k
 codificação, tendo como
-
 
 Refactorability
 
@@ -1396,7 +1348,6 @@ que outras funcionalidades sejam afetadas. Nesta etapa são priorizados os segui
 
 * Refinamento sucessivo.
 
-
 Readability (legibilidade) - Nomes Significativos
 
 A partir desta introdução aos conceitos da Arquitetura de Software vamos
@@ -1418,7 +1369,6 @@ Cuide de seus nomes e troque-os quando encontrar
 melhores. O nome de uma variável, função ou classe deve
 responder a todas as grandes questões. Ele deve lhe dizer
 por que existe, o que faz e como é usado. Exemplo:
-
 
 Use Nomes que Revelem seu
 Propósito
@@ -1458,11 +1408,9 @@ retirar trechos desnecessários como ambiguidades.
 Também devemos evitar palavras muito comuns ou vagas,
 pois podem passar ao leitor vários significados e permitir
 
-
 / 60
 
 /
-
 
 Use Nomes Pronunciáveis
 
@@ -1524,7 +1472,6 @@ possíveis leitores. Uma diferença entre um programador
 esperto e um programador profissional é o entendimento
 sobre a clareza em que expressa seu código.
 
-
 Classes e objetos devem ter nomes com substantivo(s),
 como Cliente, PaginaWiki, Conta e AnaliseEndereco. Evite
 palavras como Gerente, Processador, Dados ou Info no
@@ -1571,9 +1518,7 @@ Este contexto adicionado vai contra as suas ferramentas,
 pois a busca resultará um resultado enorme de todas as
 classes que tenham o prefixo.
 
-
 / 60
-
 
 Nomes curtos geralmente são melhores, apenas precisam
 ser claros. Sempre revize seu código e melhore os nomes
@@ -1592,11 +1537,9 @@ nome que facilite o entendimento.
 * Faça um bom uso do Naming Convention. Nomes de constantes no padrão SNAKE_CASE e
 demais nomes no padrão CamelCase.
 
-
 / 60
 
 /
-
 
 Reusability (Reuso) - Reutilização de funcionalidades
 
@@ -1609,7 +1552,6 @@ tentativas
 e erros, as funções devem ser muito pequenas.
 
 Por outro lado, quando se trata de reutilização de funcionalidades, temos as seguintes diretrizes:
-
 
 Reutilização de funcionalidades
 Funções Devem ser pequenas
@@ -1655,15 +1597,12 @@ instruções dentro da função estão no mesmo nível de
 abstração. O nível de abstração diz respeito aos conceitos
 implementados dentro da função, deve-se deixar bem claro
 
-
 / 60
 
 /
 
-
 o nível de importância sobre aquele trecho separando
 meros detalhes de conceitos extremamente importantes.
-
 
 Regra decrescente
 
@@ -1687,7 +1626,6 @@ também poupa o trabalho de adicionar comentários de
 descrição sobre as funções. Lembre-se sempre das
 convenções de nomenclaturas, elas possibilitam a melhor
 leitura dos nomes.
-
 
 Parâmetros de funções
 
@@ -1754,20 +1692,15 @@ programação orientada a objeto serve para centralizar o
 código em classes-base que seriam redundantes em outro
 conceito.
 
-
 *
-
 
 i (CESPE - TJ AM - 2019) De acordo com Clean Code, julgue o item subsecutivo.
 
-
 ,.Z 60
-
 
 i Independentemente da linguagem de programação, uma função deve
 executar todos os i
 i procedimentos que estão sintetizados no seu nome, gerando uma função com múltiplos passos.
-
 
 i Comentários: Quando falamos sobre Reutilização de funcionalidades, vimos que funções
 devem ser ;
@@ -1775,11 +1708,9 @@ devem ser ;
 í pequenas, devem fazer apenas uma coisa. Portanto, essa questão está errada! (Gabarito: Errado) i
 x
 
-
 ,.Z 60
 
 /
-
 
 Refatoring (refatoração) - Otimização da estrutura
 
@@ -1830,7 +1761,6 @@ if ((employee.flags & HOURLY_FLAG) &&
 
 if (employee. is EligibleFor FullBenefitsQ)
 
-
 Passe algum tempo pensando em como ter expressividade no seu código, com certeza não
 será um
 tempo perdido. Muitas das vezes a mudança é apenas nomear as funções com o que você
@@ -1879,11 +1809,9 @@ TODOs são tarefas que os programadores acham que
 devem ser efetuadas, mas por alguma razão não podem
 implementá-las no momento. Podem ser um lembrete
 
-
 / 60
 
 /
-
 
 sobre uma alteração que deve ser feita, um pedido para a
 verificação de outro membro.
@@ -1904,11 +1832,9 @@ Tipo de comentário ruim | Descrição
 Usar um comentário que não fará sentido ao leitor,
 simplesmente é um comentário sobre as frustrações na
 
-
 Murmúrio
 hora da codificação são tidos como murmúrios e não
 agregam valor ao projeto.
-
 
 Comentários Enganadores
 
@@ -1918,7 +1844,6 @@ comentários. Uma pequena desinformação expressada em
 comentário pode dificultar a leitura e provocar erros
 futuros.
 
-
 Comentários ruidosos
 
 Por vezes os comentários não são nada além de chiados,
@@ -1927,7 +1852,6 @@ sobre o código. Estes comentários levam ao leitor a ignorá-
 los, com o tempo os olhos passam direto por eles e
 conforme a manutenção do código estes comentários
 passam a mentir.
-
 
 Marcadores de Posição
 
@@ -1944,15 +1868,12 @@ Raramente as junções por comentários fazem sentido em
 certas funções, mas de modo geral eles são aglomerações e
 devemos excluí-los. Tenha em mente que indicadores são
 
-
 / 60
 
 /
 
-
 chamativos no código, use-os esporadicamente para não se
 tornarem ruídos.
-
 
 Código em comentários
 
@@ -2003,11 +1924,9 @@ explicado.
 * Warning of Consequences: avisar os efeitos colaterais de se executar um método.Ex: Test
 case demorado.
 
-
 / 60
 
 /
-
 
 * TODO Comments: não é uma desculpa para deixar código ruim no sistema. Serve como
 um
@@ -2068,11 +1987,9 @@ const songs = ['Back In Black', 'Stairway to Heaven',
 
 const Artists = ['ACDC, ' Led Zeppelin', 'The Beatles'];
 
-
 / 60
 
 /
-
 
 function eraseDatabase() {}
 function restore_database() {}
@@ -2095,7 +2012,6 @@ function restoreDatabase() {}
 
 class Animal {}
 class Alpaca {}
-
 
 Tipos de Formatação
 
@@ -2127,11 +2043,9 @@ pensamento completo. A cada pensamento escrito no
 código devemos separar por uma linha em branco, isso
 facilita a leitura e cria uma separação entre os conceitos.
 
-
 / 60
 
 /
-
 
 Continuidade Vertical
 
@@ -2181,11 +2095,9 @@ no livro temos uma regularidade com cerca de 45
 caracteres, nestes projetos os desenvolvedores claramente
 preferem linhas curtas.
 
-
 / 60
 
 /
-
 
 É aceitável que o tamanho de uma linha seja de 100 a 120
 caracteres, porém é totalmente desnecessário ter de rolar a
@@ -2195,7 +2107,6 @@ Um arquivo é mais como uma hierarquia do que algo
 esquematizado. Há informações sobre o arquivo como um
 todo, às classes individuais, aos métodos dentro das classes
 e blocos de cada método.
-
 
 Indentação
 
@@ -2230,11 +2141,9 @@ Sugestões para criar um código que seja limpo, robusto, que trate erros com el
 
 Exceções Descrição
 
-
 ,.Z 60
 
 /
-
 
 Use exceções ao invés de retornar
 código de erro
@@ -2242,7 +2151,6 @@ código de erro
 É melhor lançar uma exceção quando um erro for
 encontrado, o código de chamada fica mais limpo e sua
 lógica não é ofuscada pelo tratamento de erro.
-
 
 Crie primeiro sua estrutura try-
 catch-finally
@@ -2255,7 +2163,6 @@ try. Por isso é recomendável que as funcionalidades que
 possuem a probabilidade de gerar erros sejam iniciadas por
 blocos try-catch, isso ajuda a definir o que o usuário deve
 esperar, independente do que ocorre no try.
-
 
 Não passe ou retorne Null
 
@@ -2298,18 +2205,15 @@ i code e refactoring.
 
 I
 
-
 í Pela perspectiva do clean code, é recomendado usar exceções (try/catch, por exemplo)
 em vez de j
 
 : testar vários códigos de erros ou, ainda, retornar null.
 i
 
-
 ,.Z 60
 
 /
-
 
 i Comentários: Pessoal, de acordo com o que vimos no conteúdo, algumas das
 recomendações são:
@@ -2351,7 +2255,6 @@ i dados e de novas funções.
 
 I
 
-
 I
 
 i Comentários: Pessoal, os objetos usam abstrações para esconder seus dados, e expõem
@@ -2366,22 +2269,18 @@ Objetos e Estruturas de Dados | Descrição
 
 Os objetos usam abstrações para esconder seus dados, e
 
-
 Anti-simetria data/objeto
 expõem as funções que operam em tais dados. As
 estruturas de dados expõem seus dados e não possuem
 funções significativas.
 
-
 / 60
 
 /
 
-
 Note a natureza complementar das duas definições. Elas são
 praticamente opostas. Essa diferença pode parecer trivial,
 mas possui grandes implicações.
-
 
 A lei de Demeter
 
@@ -2430,7 +2329,6 @@ ambas as condições. Evite criá-los. Eles indicam um modelo
 confuso cujos autores não tinham certeza - ou pior, não
 sabiam se precisavam se proteger de funções ou tipos.
 
-
 Estruturas Ocultas
 
 Objetos de transferência de dados
@@ -2475,15 +2373,13 @@ separados que contenham as regras de negócio e que
 ocultem seus dados internos (que provavelmente são
 apenas instâncias do Active Record).
 
-
 / 60
 
 /
 
-
 QUESTõES CoMENTADAS - CLEAN CoDE
 
-Item. 1. (CESPE - DP DF- 2022) Julgue o próximo item, relativo à análise estática de código fonte.
+1. (CESPE - DP DF- 2022) Julgue o próximo item, relativo à análise estática de código fonte.
 
 A seguir, é apresentado um bom exemplo de código, de acordo com clean code.
 
@@ -2507,7 +2403,7 @@ expressão? Nomes significativos? Não né? Portanto essa questão está errada.
 
 Gabarito: Errado
 
-Item. 2. (CESPE -TJ PA - 2020) O Clean Code deve considerar também o momento de teste do
+2. (CESPE -TJ PA - 2020) O Clean Code deve considerar também o momento de teste do
 software
 em desenvolvimento. O Teste Limpo deve
 
@@ -2545,10 +2441,9 @@ produção. A alternativa d também está errada, na verdade, o teste deve ser o
 não subjetivo.
 Por fim, a alternativa e está errada. Um teste limpo não deve contemplar todas as dependências.
 
-
 Gabarito: Letra C
 
-Item. 3. (CESPE - MPE CE - 2020) Julgue o seguinte item, relativo a métricas de qualidade de código,
+3. (CESPE - MPE CE - 2020) Julgue o seguinte item, relativo a métricas de qualidade de código,
 clean code e refactoring.
 
 Pela perspectiva do clean code, é recomendado usar exceções (try/catch, por exemplo) em
@@ -2561,7 +2456,7 @@ Crie primeiro sua estrutura try-catch-finally; Não passe ou retorne Null.
 
 Gabarito: Correto
 
-Item. 4. (CESPE - TJ AM - 2019) De acordo com Clean Code, julgue o item subsecutivo.
+4. (CESPE - TJ AM - 2019) De acordo com Clean Code, julgue o item subsecutivo.
 
 Independentemente da linguagem de programação, uma função deve executar todos os
 procedimentos que estão sintetizados no seu nome, gerando uma função com múltiplos passos.
@@ -2574,7 +2469,7 @@ devem fazer apenas uma coisa. Portanto, essa questão está errada!
 
 Gabarito: Errado
 
-Item. 5. (CESPE - TJ AM- 2019) De acordo com Clean Code, julgue o item subsecutivo.
+5. (CESPE - TJ AM- 2019) De acordo com Clean Code, julgue o item subsecutivo.
 
 Comentários explicativos ou descritivos no código devem ser evitados, pois
 caracterizam um
@@ -2586,7 +2481,7 @@ acabam ignorando todos. Então, o melhor não é comentar os códigos ruins e si
 
 Gabarito: Correto
 
-Item. 6. (CESPE - TJ AM- 2019) De acordo com Clean Code, julgue o item subsecutivo.
+6. (CESPE - TJ AM- 2019) De acordo com Clean Code, julgue o item subsecutivo.
 
 Em códigos orientados a objeto, tanto objetos quanto estruturas de dados expõem seus
 dados
@@ -2594,11 +2489,9 @@ internos e as funções que manipulam tais dados.
 
 Comentários:
 
-
 / 60
 
 /
-
 
 Questão errada! Vocês se lembram do conceito de Encapsulamento? Aquela técnica que faz
 com
@@ -2612,7 +2505,7 @@ métodos internos da classe. Portanto, o que é apresentado pela questão não �
 
 Gabarito: Errado
 
-Item. 7. (CESPE - TRE PE - 2017) Acerca do clean code, assinale a opção correta.
+7. (CESPE - TRE PE - 2017) Acerca do clean code, assinale a opção correta.
 
 a) Para se evitar a proliferação de funções curtas, recomenda-se o uso de uma função
 longa com
@@ -2663,17 +2556,15 @@ função ou tenham o mesmo nome, ou seja, o famoso copiar e colar no código.
 
 Gabarito: Letra C
 
-Item. 8. (FCC - DPE RS- 2017) Considere os trechos de código em que // indica
+8. (FCC - DPE RS- 2017) Considere os trechos de código em que // indica
 comentário. Aplica
 corretamente as regras de Clean Code o trecho de código:
 
 a) Trecho 1:
 
-
 / 60
 
 /
-
 
 var a = (b + c)/d -10; // coloca o resultado em a
 b) Trecho 2:
@@ -2711,7 +2602,7 @@ expressão regular, que consiste da regra Informative Comments.
 
 Gabarito: Letra D
 
-Item. 9. (CESPE - TCE-SC- 2016) A respeito da análise estática de código-fonte em Clean
+9. (CESPE - TCE-SC- 2016) A respeito da análise estática de código-fonte em Clean
 Code e
 SonarQube, julgue o item subsecutivo.
 
@@ -2733,13 +2624,11 @@ essa regra.
 
 Gabarito: Correto
 
-
 / 60
 
 /
 
-
-Item. 10. (CESPE -TCE-PA- 2016) Acerca de análise estática de código-fonte, uma das práticas que verifica
+10. (CESPE -TCE-PA- 2016) Acerca de análise estática de código-fonte, uma das práticas que verifica
 a qualidade do código e pode ser realizada antes da execução do software, julgue o
 próximo
 item.
@@ -2770,7 +2659,7 @@ portanto, ser evitados.
 
 Gabarito: Errado
 
-Item. 11. (CESPE-TCE-PA-2016) Acerca de análise estática de código-fonte, uma das práticas que
+11. (CESPE-TCE-PA-2016) Acerca de análise estática de código-fonte, uma das práticas que
 verifica
 a qualidade do código e pode ser realizada antes da execução do software, julgue o
 próximo
@@ -2791,7 +2680,7 @@ Note a natureza complementar das duas definições. Elas são praticamente opost
 
 Gabarito: Errado
 
-Item. 12. (CESPE-TCE-PA-2016) Acerca de análise estática de código-fonte, uma das práticas que
+12. (CESPE-TCE-PA-2016) Acerca de análise estática de código-fonte, uma das práticas que
 verifica
 a qualidade do código e pode ser realizada antes da execução do software, julgue o
 próximo
@@ -2801,11 +2690,9 @@ As práticas de clean code recomendam que as funções tenham, no máximo, vinte
 e até
 dois níveis de indentação.
 
-
 / 60
 
 /
-
 
 Comentários:
 
@@ -2824,7 +2711,7 @@ aninhamento, ocasionando em um nível de endentação de no máximo dois blocos.
 
 Gabarito: Correto
 
-Item. 13. (CESPE -FUNPRESP-JUD- 2016) Julgue o próximo item, relativo a desenvolvimento e
+13. (CESPE -FUNPRESP-JUD- 2016) Julgue o próximo item, relativo a desenvolvimento e
 qualidade
 de software.
 
@@ -2865,13 +2752,11 @@ comentários desnecessários e supérfluos, no máximo os comentários são um m
 
 Gabarito: Correto
 
-
 / 60
 
 /
 
-
-Item. 15. (CESPE - STJ- 2015) Julgue o próximo item, referente a criptografia, clean code e refatoração.
+15. (CESPE - STJ- 2015) Julgue o próximo item, referente a criptografia, clean code e refatoração.
 
 No contexto de clean code, as funções devem ter tamanho reduzido.
 
@@ -2887,7 +2772,7 @@ reduzido.
 
 Gabarito: Correto
 
-Item. 16. (CESPE - TRE MT- 2015) Assinale a opção que apresenta instruções de elaboração
+16. (CESPE - TRE MT- 2015) Assinale a opção que apresenta instruções de elaboração
 corretas de
 acordo com a técnica Clean Code.
 
@@ -2915,7 +2800,7 @@ certeza, esse é o nosso gabarito.
 
 Gabarito: Letra A
 
-Item. 17. (CESPE -STF- 2013) A respeito do Clean Code e de integração contínua, julgue o item a seguir.
+17. (CESPE -STF- 2013) A respeito do Clean Code e de integração contínua, julgue o item a seguir.
 
 Os nomes de classes devem conter verbos, ao passo que os métodos devem ser indicados
 por
@@ -2931,11 +2816,9 @@ Processador, Dados ou Info no nome de uma classe, que também não deve ser um v
 Por outro
 lado, os nomes de métodos devem ter verbos, como postarPagamento, excluirPagina ou salvar.
 
-
 / 60
 
 /
-
 
 Devem-se nomear métodos de acesso, alteração e autenticação segundo seus valores e
 adicionar os
@@ -2943,7 +2826,7 @@ prefixos get, set ou is de acordo com o padrão javabean.*.
 
 Gabarito: Errado
 
-Item. 18. (CESPE - STF - 2013) Em relação a desenvolvimento orientado a testes, automação
+18. (CESPE - STF - 2013) Em relação a desenvolvimento orientado a testes, automação
 de testes
 com Selenium e SOAP Ui, julgue o item subsecutivo.
 
@@ -2963,20 +2846,17 @@ produzido
 
 Gabarito: Errado
 
-
 / 60
 
 /
 
-
 LISTA DE QUESTõES - CLEAN CoDE
 
-Item. 1. (CESPE - DP DF- 2022) Julgue o próximo item, relativo à análise estática de códigofonte.
+1. (CESPE - DP DF- 2022) Julgue o próximo item, relativo à análise estática de códigofonte.
 
 A seguir, é apresentado um bom exemplo de código, de acordo com clean code.
 
 int .a = 1;
-
 
 if (
 
@@ -2988,7 +2868,7 @@ else
 
 1 = 01;
 
-Item. 2. (CESPE - TJ PA - 2020) O Clean Code deve considerar também o momento de teste do software
+2. (CESPE - TJ PA - 2020) O Clean Code deve considerar também o momento de teste do software
 em desenvolvimento. O Teste Limpo deve
 
 O texto acima refere-se a qual metodologia de análise e projeto de software?
@@ -3007,37 +2887,35 @@ processo.
 
 e) contemplar todas as dependências possíveis, para garantir a eficácia do processo de testes.
 
-Item. 3. (CESPE - MPE CE - 2020) Julgue o seguinte item, relativo a métricas de qualidade de código,
+3. (CESPE - MPE CE - 2020) Julgue o seguinte item, relativo a métricas de qualidade de código,
 clean code e refactoring.
 
 Pela perspectiva do clean code, é recomendado usar exceções (try/catch, por exemplo) em
 vez
 de testar vários códigos de erros ou, ainda, retornar null.
 
-Item. 4. (CESPE - TJ AM - 2019) De acordo com Clean Code, julgue o item subsecutivo.
+4. (CESPE - TJ AM - 2019) De acordo com Clean Code, julgue o item subsecutivo.
 
 Independentemente da linguagem de programação, uma função deve executar todos os
 procedimentos que estão sintetizados no seu nome, gerando uma função com múltiplos passos.
 
-Item. 5. (CESPE - TJ AM- 2019) De acordo com Clean Code, julgue o item subsecutivo.
+5. (CESPE - TJ AM- 2019) De acordo com Clean Code, julgue o item subsecutivo.
 
 Comentários explicativos ou descritivos no código devem ser evitados, pois
 caracterizam um
 código ruim.
 
-
 / 60
 
 /
 
-
-Item. 6. (CESPE - TJ AM- 2019) De acordo com Clean Code, julgue o item subsecutivo.
+6. (CESPE - TJ AM- 2019) De acordo com Clean Code, julgue o item subsecutivo.
 
 Em códigos orientados a objeto, tanto objetos quanto estruturas de dados expõem seus
 dados
 internos e as funções que manipulam tais dados.
 
-Item. 7. (CESPE - TRE PE - 2017) Acerca do clean code, assinale a opção correta.
+7. (CESPE - TRE PE - 2017) Acerca do clean code, assinale a opção correta.
 
 a) Para se evitar a proliferação de funções curtas, recomenda-se o uso de uma função
 longa com
@@ -3061,7 +2939,7 @@ e) Na análise léxica, o uso de uma mesma palavra para dois ou mais propósitos
 facilita a
 compilação de código, diminui o código e aumenta a velocidade dos objetos binários compilados.
 
-Item. 8. (FCC - DPE RS- 2017) Considere os trechos de código em que // indica comentário. Aplica
+8. (FCC - DPE RS- 2017) Considere os trechos de código em que // indica comentário. Aplica
 corretamente as regras de Clean Code o trecho de código:
 
 a) Trecho 1:
@@ -3092,16 +2970,14 @@ EnviaContratoPorEmail(textoContrato);
 
 x
 
-
 ,.Z 60
 
 /
 
-
 textoContrato = textoContrato.FTC(".", 11,11 ii ii ii_n)
 11 11 11
 
-Item. 9. (CESPE - TCE-SC- 2016) A respeito da análise estática de código-fonte em Clean
+9. (CESPE - TCE-SC- 2016) A respeito da análise estática de código-fonte em Clean
 Code e
 SonarQube, julgue o item subsecutivo.
 
@@ -3109,7 +2985,7 @@ De acordo com as diretivas do Clean Code, o número de argumentos de uma funçã
 deve
 ser igual ou superior a três, devido a sua influência no entendimento da função.
 
-Item. 10. (CESPE -TCE-PA- 2016) Acerca de análise estática de código-fonte, uma das práticas que
+10. (CESPE -TCE-PA- 2016) Acerca de análise estática de código-fonte, uma das práticas que
 verifica
 a qualidade do código e pode ser realizada antes da execução do software, julgue o
 próximo
@@ -3119,7 +2995,7 @@ De acordo com as práticas de clean code, comentários em um código-fonte
 servem para
 compensar um código mal escrito, devendo, portanto, ser evitados.
 
-Item. 11. (CESPE-TCE-PA-2016) Acerca de análise estática de código-fonte, uma das práticas
+11. (CESPE-TCE-PA-2016) Acerca de análise estática de código-fonte, uma das práticas
 que verifica
 a qualidade do código e pode ser realizada antes da execução do software, julgue o
 próximo
@@ -3130,7 +3006,7 @@ dados,
 devendo os dados e as funções ficar expostos para permitir a inclusão de novos dados e de novas
 funções.
 
-Item. 12. (CESPE-TCE-PA-2016) Acerca de análise estática de código-fonte, uma das práticas
+12. (CESPE-TCE-PA-2016) Acerca de análise estática de código-fonte, uma das práticas
 que verifica
 a qualidade do código e pode ser realizada antes da execução do software, julgue o
 próximo
@@ -3140,14 +3016,14 @@ As práticas de clean code recomendam que as funções tenham, no máximo, vinte
 e até
 dois níveis de indentação.
 
-Item. 13. (CESPE -FUNPRESP-JUD- 2016) Julgue o próximo item, relativo a desenvolvimento e
+13. (CESPE -FUNPRESP-JUD- 2016) Julgue o próximo item, relativo a desenvolvimento e
 qualidade
 de software.
 
 De acordo com Clean Code, argumentos em funções devem ser amplamente utilizados para
 melhorar a portabilidade do código e facilitar seu entendimento.
 
-Item. 14. (CESPE-STJ- 2015) A respeito de métricas de qualidade de código, código limpo e
+14. (CESPE-STJ- 2015) A respeito de métricas de qualidade de código, código limpo e
 refatoração,
 julgue o item subsecutivo.
 
@@ -3155,17 +3031,15 @@ O uso de comentários é uma das técnicas de código limpo que, em conjunto com
 refatoração
 de códigos, permite aumentar a produtividade de desenvolvimento de códigos.
 
-
 / 60
 
 /
 
-
-Item. 15. (CESPE - STJ- 2015) Julgue o próximo item, referente a criptografia, clean code e refatoração.
+15. (CESPE - STJ- 2015) Julgue o próximo item, referente a criptografia, clean code e refatoração.
 
 No contexto de clean code, as funções devem ter tamanho reduzido.
 
-Item. 16. (CESPE - TRE MT- 2015) Assinale a opção que apresenta instruções de elaboração corretas de
+16. (CESPE - TRE MT- 2015) Assinale a opção que apresenta instruções de elaboração corretas de
 acordo com a técnica Clean Code.
 
 a) Os nomes utilizados devem ser pronunciáveis e devem ter sentido conhecido.
@@ -3182,13 +3056,13 @@ e) O comando return deve ser evitado, ao passo que continue e break devem ser
 priorizados,
 assim como o goto.
 
-Item. 17. (CESPE -STF- 2013) A respeito do Clean Code e de integração contínua, julgue o item a seguir.
+17. (CESPE -STF- 2013) A respeito do Clean Code e de integração contínua, julgue o item a seguir.
 
 Os nomes de classes devem conter verbos, ao passo que os métodos devem ser indicados
 por
 substantivos.
 
-Item. 18. (CESPE - STF - 2013) Em relação a desenvolvimento orientado a testes, automação de testes
+18. (CESPE - STF - 2013) Em relação a desenvolvimento orientado a testes, automação de testes
 com Selenium e SOAP Ui, julgue o item subsecutivo.
 
 O desenvolvimento de sistemas mediante a utilização de CLEAN CODE baseia-se em um ciclo
@@ -3198,53 +3072,49 @@ definem uma funcionalidade elicitada. Após se definir o teste, desenvolve-se o 
 que será
 validado pela equipe de teste e, posteriormente, refatorado
 
-
 / 60
 
 /
-
 
 GABARITo - CLEAN CoDE
 
-Item. 1. ERRADO
+1. ERRADO
 
-Item. 2. LETRA C
+2. LETRA C
 
-Item. 3. CORRETO
+3. CORRETO
 
-Item. 4. ERRADO
+4. ERRADO
 
-Item. 5. CORRETO
+5. CORRETO
 
-Item. 6. ERRADO
+6. ERRADO
 
-Item. 7. LETRA C
+7. LETRA C
 
-Item. 8. LETRA D
+8. LETRA D
 
-Item. 9. CORRETO
+9. CORRETO
 
-Item. 10. ERRADO
+10. ERRADO
 
-Item. 11. ERRADO
+11. ERRADO
 
-Item. 12. CORRETO
+12. CORRETO
 
-Item. 13. ERRADO
+13. ERRADO
 
-Item. 14. CORRETO
+14. CORRETO
 
-Item. 15. CORRETO
+15. CORRETO
 
-Item. 16. LETRA A
+16. LETRA A
 
-Item. 17. ERRADO
+17. ERRADO
 
-Item. 18. ERRADO
-
+18. ERRADO
 
 / 60
 
 /
-
 

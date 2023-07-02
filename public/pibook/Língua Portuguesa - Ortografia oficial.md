@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Ortografia oficial.
-
+# Língua Portuguesa - Ortografia oficial.
 
 Índice
 
@@ -61,11 +60,9 @@ Capítulo. Língua Portuguesa - Ortografia oficial.
 
 0 0 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 / 89
 
 /
-
 
 Índice
 
@@ -74,7 +71,6 @@ Capítulo. Língua Portuguesa - Ortografia oficial.
 30) Lista de Questões - Expressões problemáticas - Cebraspe 86
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 APRESENTAçÃo Do CURSo
 
@@ -139,7 +135,6 @@ máximo aos estudos e certamente o sucesso será alcançado: a vaga na carreira 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Prof. Patrícia Manzato:
 
 Olá, pessoal! Tenho 36 anos, sou paulista, mas atualmente trabalho em Brasília-DF, no
@@ -164,7 +159,6 @@ Equipe de Português
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 CoNSIDERAçõES INICIAIS
 
 O estudo da pronúncia correta das palavras se chama ortoépia; o estudo da sílaba e
@@ -183,7 +177,6 @@ sílaba, mas não tem acento
 gráfico. Já a palavra "café" tem acento tônico e acento gráfico em sua sílaba final.
 
 O acento gráfico e o acento tônico geralmente andam juntos, mas são conceitos diferentes.
-
 
 Acento Tônico: ocorre na fala. Nem
 sempre recai sobre uma sílaba
@@ -223,7 +216,6 @@ marca o timbre
 fechado, como na oposição: Avó (aberto) e Avô (fechado).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 SoNS, LETRAS, FoNEMAS, DÍGRAFoS
 
@@ -265,7 +257,6 @@ Vejamos alguns: Chuva, Guerra, Assar, Lhama, Campo, Empresa, Onda
 
 Os dígrafos para consoantes são os seguintes:
 
-
 Dígrafo
 
 Exemplo
@@ -281,7 +272,6 @@ Exemplo
 Dígrafo
 
 Exemplo
-
 
 CH Chá
 
@@ -310,7 +300,6 @@ XC Exceção
 Também há dígrafos para as vogais nasais:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Dígrafo Exemplo
 
@@ -356,7 +345,6 @@ PROVA!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 (PREF. CARIACICA-ES / 2020)
 
 Assinale a alternativa que apresenta uma palavra que NÃO tenha um dígrafo
@@ -388,7 +376,6 @@ fica com a palavra
 Gabarito letra D.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 ENCoNTRoS VoCÁLICoS
 
@@ -453,13 +440,11 @@ diferentes.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 IN-CLU-Í-RAM / SA-Ú-DE / PA-Í-SES / PRE-JU-Í-ZO / VE-Í-CU-LO / CA-Ó-TI-CO / SA-BÍ-A-MOS
 
 Vale a pena relembrar também algumas classificações quanto ao número de sílabas:
 
 CLASSIFICACÃO QUANTO AO NÚMERO DE SÍLABAS
-
 
 Categoria
 
@@ -469,7 +454,6 @@ Exemplos
 
 Monossílabas Apenas uma sílaba PÁ PÉ CHÁ
 
-
 Dissílabas
 
 Duas sílabas
@@ -478,7 +462,6 @@ SO-FÁ CI-PÓ CA-SA
 
 Trissílabas Três sílabas VA-TA-PÁ TE-CLA-DO
 MÉ-DI-CO
-
 
 Polissílabas
 
@@ -525,11 +508,9 @@ ChegAM: chegÃU
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Portanto:
 
 Dígrafo, um som nasal (UM SOM): ã - AMplo X Ditongo, DOIS SONS: ChegAM: chegÃU
-
 
 DÍGRAFO NASAL
 
@@ -571,7 +552,6 @@ Ontem
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 REGRAS GERAIS DE ACENTUAçÃo
 
 As regras de acentuação levam em conta a classificação
@@ -581,13 +561,11 @@ ditongo...). Há três posições
 para uma sílaba tônica. Na língua portuguesa, a sílaba tônica é sempre uma das três
 últimas:
 
-
 Nomenclatura
 
 Definição
 
 Exemplo
-
 
 Oxítona
 
@@ -595,13 +573,11 @@ Oxítona
 
 Vatapá, carrossel, devagar
 
-
 Paroxítona
 
 Penúltima sílaba tônica
 
 Escola, secretária, lavabo
-
 
 Proparoxítona
 
@@ -632,7 +608,6 @@ regra).
 
 Então temos duas regras de acentuação dos monossílabos tônicos:
 
-
 Terminação em
 A, E,O
 
@@ -647,13 +622,11 @@ Dó, pó, só, nós Dói, sóis
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Oxítonas
 
 Acentuam-se as oxítonas terminadas A, E, O, em, ens e também em ditongos abertos: éu, éi, ói.
 
 Regras de acentuação das oxítonas:
-
 
 Terminação em
 A, E, O
@@ -666,13 +639,11 @@ Terminação em
 Em, ens (desde que haja duas ou mais
 sílabas)
 
-
 Sofá, gambá, Pará
 
 Chapéu, troféu
 
 Parabéns, armazéns
-
 
 Café, você, Tietê
 Avó, jiló, cipó, carijó
@@ -723,7 +694,6 @@ Exatamente: se-rá - acentuam-se as oxítonas terminadas A, E, O, em, ens (prime
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Questão correta.
 
 Paroxítonas
@@ -748,12 +718,10 @@ ACENTUAÇÃO DAS PAROXÍTONAS
 
 REGRA GERAL REGRA ESPECÍFICA
 
-
 Acentuam-se todas exceto as terminadas
 em A, E, O, EM, ENS.
 
 Acentuam-se as terminadas em ditonao oral
-
 
 Fácil, hífen, álbum, cadáver, álbuns, tórax,
 júri, lápis, vírus, bíceps, órfão, ímã,
@@ -775,7 +743,6 @@ Novo Acordo Ortográfico
 
 Não são acentuadas São acentuadas
 
-
 Palavras com ditongo aberto (ei,oi) na posição
 paroxítona
 
@@ -787,7 +754,6 @@ Ideia, plateia, colmeia, assembleia, colmeia Anéis, infiéis, papéis
 Heroico, asteroide, paranoico, estoico, jiboia Herói, corrói, constrói
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 OBS: Novamente, há exceções, como os verbos terminados em ditongo
 -AM. Palavras como
@@ -837,7 +803,6 @@ ATENÇAO!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 na regra geral. Pense que é uma grande regra residual, as
 paroxítonas com
 terminação diferente das oxítonas são acentuadas pela mesma regra.
@@ -881,7 +846,6 @@ RE-LÂM-PA-GO
 CA-ÓzTI-CO
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 l«** IX
 
@@ -953,7 +917,6 @@ Portuguesa: his-tó-ri-a e his-tó-ria; sé-ri-e e sé-rie; pá-ti-o e pá-tio;
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 cuo" (NGB). Todavia, é preferível considerar tais grupos
 ditongos crescentes e,
 consequentemente, paroxítonos os vocábulos em que ocorrem. Na escrita, em final de
@@ -1014,11 +977,9 @@ em prova. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Quadro Resumo
 
 < A A r A
-
 
 Monossílabos Tônicos
 
@@ -1084,7 +1045,6 @@ L J
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ACENTUAçÃo Do HIATo
 
 O hiato é o encontro de duas vogais em sílabas diferentes. Lembrando que vogal, para
@@ -1148,7 +1108,6 @@ terminações acima. Mesmo assim, são excepcionalmente acentuadas, por apresent
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 lOMf
 NOTA!
 
@@ -1197,7 +1156,6 @@ TÁ -XI são acentuadas por serem paroxítonas.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Gabarito letra C.
 
 (CRMV-AM / 2020)
@@ -1214,7 +1172,6 @@ regra do hiato. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ACENToS DIFERENCIAIS
 
 A maioria dos acentos diferenciais caiu com o advento definitivo da nova ortografia.
@@ -1223,13 +1180,11 @@ nem mencionar como era antes, para não confundir. Guarde estes que permaneceram
 com
 a nova ortografia e saiba que qualquer outro constituirá desvio da norma culta.
 
-
 Forma escrita
 
 Explicação
 
 Exemplo
-
 
 Pôde
 
@@ -1240,7 +1195,6 @@ do verbo PODER
 Ele não pôde comparecer à festa
 ontem.
 
-
 Pode
 
 3a pessoa do singular do
@@ -1249,13 +1203,11 @@ verbo PODER
 
 Ela não pode comparecer agora.
 
-
 Pôr
 
 Forma verbal
 
 A galinha não quer pôr ovos.
-
 
 Por
 
@@ -1265,7 +1217,6 @@ A saída é por aqui.
 
 Acentos que marcam diferença de número (singular e plural)
 
-
 Tem
 
 Verbo TER flexionado na 3a
@@ -1273,7 +1224,6 @@ pessoa sinaular do presente do
 indicativo
 
 Ele tem muitas amiqos.
-
 
 Têm
 
@@ -1284,7 +1234,6 @@ indicativo
 Eles não têm problemas com
 horários.
 
-
 Vem
 
 Verbo VIR flexionado na 3a
@@ -1293,7 +1242,6 @@ indicativo
 
 Ela vem a pé
 
-
 Vêm
 
 Verbo VIR flexionado na 3a
@@ -1301,7 +1249,6 @@ pessoa plural do presente do
 indicativo
 
 Elas vêm a pé
-
 
 Mantém (e derivados)
 
@@ -1312,7 +1259,6 @@ do indicativo
 Rubens mantém um relacionamento
 saudável com seus empregados.
 
-
 Mantêm (e derivados)
 
 Verbo MANTER flexionado na
@@ -1322,7 +1268,6 @@ Os patrões mantêm um
 relacionamento saudável com seus
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 do indicativo empregados.
 
@@ -1362,7 +1307,6 @@ profissionais de
 i apoio. A FURB, através desse atendimento, analisa as demandas de cada aluno e faz adaptações,
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 de materiais até o mobiliário.
 
@@ -1409,7 +1353,6 @@ acento diferencial de número plural. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 EMPREGo Do HÍFEN (-)
 
 O hífen é um sinal usado basicamente para formar palavras compostas (união de
@@ -1433,7 +1376,6 @@ funcionar como
 prefixos a radicais).
 
 Veja os principais prefixos cobrados em prova.
-
 
 aero auto extra
 agro circum geo
@@ -1473,9 +1415,7 @@ processo de
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 NÃO se usa hífen
-
 
 Para unir vogais
 diferentes
@@ -1490,7 +1430,6 @@ hífen, mesmo que a próxima letra
 seja igual: Ex.: Cooperativa,
 coobrigado...
 
-
 Para unir consoantes
 diferentes
 
@@ -1498,7 +1437,6 @@ Hipermercado, superbactéria, intermunicipal
 Usa-se hífen para separar consoantes iguais:
 
 Super-romântico; hiper-resistente; sub-bibliotecário
-
 
 Para unir consoante
 com vogal
@@ -1528,7 +1466,6 @@ ou SS.
 
 Usa-se hífen
 
-
 Para separar vogais iguais
 
 Micro-ondas; contra-ataque; anti-inflamatório; auto-
@@ -1547,7 +1484,6 @@ hífen dessas
 palavras!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 l«** IX
 
@@ -1607,7 +1543,6 @@ OBS: Outra hipótese de uso do hífen é o "Encadeamento", que é a união de du
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 formam uma unidade de sentido particular, sem se tomar um substantivo composto:
 
 Encadeamentos: Ponte Rio-Niterói; Eixo Rio-São Paulo; Percurso casa-trabalho...
@@ -1658,7 +1593,6 @@ quais o segundo elemento perdeu o h inicial: desumano, desumidificar, inábil, i
 í A exemplo de "Pós-Graduação", cujo prefixo sempre exige hífen, assinale a alternativa com outro
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 prefixo ou falso prefixo que sempre exige hífen:
 
@@ -1727,7 +1661,6 @@ segundo elemento for iniciado com as letras "a" ou "h". O correto é: contrarreg
 d) Palavras compostas com a presença de preposição perderam o hífen. O correto é: mão de obra.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 e) CORRETO. Palavras formadas com o prefixo "auto" devem ser escritas com hífen
 quando o
@@ -1800,7 +1733,6 @@ por não ter som próprio, mas o som da vogal que acompanha.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A nova ortografia também regula algumas outras regrinhas, vejamos:
 
 J Com os prefixos Recém, além, aquém, sem, ex, vice, HÁ HÍFEN!
@@ -1858,7 +1790,6 @@ Eis a regra: "Certos compostos, em relação aos quais se perdeu, em certa medid
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 composição, grafam-se aglutinadamente: girassol, madressilva, mandachuva,
 pontapé,
 paraquedas, paraquedista etc."
@@ -1909,7 +1840,6 @@ b) trema / hífen.
 c) reticências / traço.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 d) dois pontos / hífen.
 
@@ -1963,7 +1893,6 @@ D.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 EMPREGo DAS LETRAS
 
 As regras de ortografia são muito numerosas e muitas vezes arbitrárias. Somente a
@@ -1998,7 +1927,6 @@ educação
 Setor = seção Exportar - r +
 ção = exportação
 
-
 Intuitivo = intuição
 Redator = redação
 
@@ -2024,7 +1952,6 @@ i "As grandes doenças da alma, bem como aquelas do corpo, renovam o homem; e as
 : Nessa frase aparece o termo convalescência corretamente grafado (com -escer e não com -ecer).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Assinale a palavra abaixo que está corretamente grafada com esse mesmo sufixo.
 
@@ -2087,7 +2014,6 @@ Horroroso
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Fase Tese Poetisa
 
 Crase Osmose Profetisa
@@ -2121,7 +2047,6 @@ Palavras terminadas em -ês e -esa que indicarem nacionalidades, títulos ou nom
 próprios devem
 ser grafadas com -S.
 
-
 Português
 Norueguesa
 
@@ -2153,7 +2078,6 @@ fragilizar
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Exceções:
 
 Catequese = catequizar
@@ -2175,7 +2099,6 @@ Portuguesinho Inesita
 Caso não haja -s na palavra primitiva, grafam-se com -Z os diminutivos.
 
 Mulherzinha Aviãozinho
-
 
 Arvorezinha
 Alemãozinho
@@ -2208,7 +2131,6 @@ Escrevem-se com -miss- ou -mess- as palavras derivadas de verbos terminados em -
 Comprometer = compromisso Intrometer = intromissão
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Prometer = promessa Remeter = remessa
 
@@ -2264,7 +2186,6 @@ Loja = lojista
 Gorja = gorjeta
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Canja = canjica
 
@@ -2323,7 +2244,6 @@ Gabarito letra D.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 X ou Ch
 
 Palavras iniciadas por mex- ou -enx, com exceção de mecha e enchova, são escritas com X.
@@ -2331,7 +2251,6 @@ Palavras iniciadas por mex- ou -enx, com exceção de mecha e enchova, são escr
 Ex: Mexilhão, Mexer, Mexerica, México, Mexerico, Mexido, Enxada, Enxerto, Enxerido
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Palavra muuuuito cobrada: Enxergar!
 
@@ -2385,7 +2304,6 @@ a) "Há muitos tipos de agressão e é um problema contínuo e social." A palavr
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 grafada com "ss" pois é substantivo derivado de verbo terminado em "gredir".
 
 b) "Sempre que possível, faça uma limpeza interior." A palavra em destaque é grafada
@@ -2414,7 +2332,6 @@ ortografia.
 Gabarito letra C.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Uso DE LETRAS MAIÚSCULAS E MINÚSCULAS
 
@@ -2485,7 +2402,6 @@ maiúscula para nome de disciplinas: Matemática, Português, Estatística.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 l«** IX
 
 í (MPE-PA/2022)
@@ -2510,7 +2426,6 @@ i Comentários:
 : nomes de cidade na Ucrânia. Assim, todos os usos de maiúsculas estão corretos. Gabarito letra B.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 SIGLAS E ABREVIAçõES
 
@@ -2568,7 +2483,6 @@ Página: pág. ou p.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 EXPRESSõES PRoBLEMÁTICAS
 
 Pessoal, agora vamos ver algumas expressões que, por serem parecidas, causam muita
@@ -2594,7 +2508,6 @@ Morreu de um mal súbito.
 Mau: oposto de "bom". Adjetivo. Acompanha um substantivo, dando a ele a
 qualidade de
 "maligno". Ex.:
-
 
 Há x a
 
@@ -2629,7 +2542,6 @@ Só eu sei as esquinas por que passei, (pelas quais passei)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Porquê: É o mesmo caso acima, quando ocorre em final de período ou antes de pausa. O macete
 é pensar que pontuação final atrai o circunflexo. Ex.:
 
@@ -2648,7 +2560,6 @@ Ex.: Por que estudas?
 - Indireta: sem ponto de interrogação.
 Ex.: Gostaria de saber por que estudas.
 
-
 PORQUE
 
 Preposição + Pronome Indefinido
@@ -2665,7 +2576,6 @@ Ex.: Estudas tanto por quê?
 Não sei por que time você torce
 
 Só eu sei as esquinas por que passei (pelas quais)
-
 
 PORQUE
 
@@ -2702,7 +2612,6 @@ i Comentários:
 Tomou proporções gigantescas o crescimento econômico por que foi marcado o período dos
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 últimos quinhentos anos.
 
@@ -2761,7 +2670,6 @@ Ex.: A cerca não resistiu ao vento e desabou.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 verbo haver:
 
 Ex.: Chegou aqui há cerca de duas horas.
@@ -2813,7 +2721,6 @@ utilizadas para
 coordenar a ajuda, otimizar os recursos e fornecer informações sobre as vítimas, das quais se
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 precisava desesperadamente. A União Internacional das Telecomunicações (UIT) e os
 seus
@@ -2888,7 +2795,6 @@ a ocorrer. "Eminente" significa excelso, destacado, importante. Enxergar é com 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 com Z.
 
 Gabarito letra D.
@@ -2947,7 +2853,6 @@ Ex.: "Pensei em fazer alguma coisa, se não para ajudar, ao menos para distraí-
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 não ... ao menos)
 
 Se não: Se (Pronome apassivador) + Não (Adv. Negação)
@@ -3000,17 +2905,15 @@ i e) consertar, cozer e se não.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 senão (do contrário) chamarei a polícia. Consertar com S é reparar. O concerto de música é que se
 grafa com C. CoZer com Z é cozinhar; CoSer com S é costurar. Gabarito letra B.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - SoNS, LETRAS, FoNEMAS E DÍCRAFo -
 CEBRASPE
 
-Item. 1. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
+1. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
 
 Na palavra "assado", o segmento "ss" constitui um dígrafo, porque duas letras
 representam um
@@ -3025,7 +2928,6 @@ exemplo.
 Os dígrafos para consoantes são os seguintes, todos inseparáveis, com exceção de rr e
 ss, sc, sç,
 xc, xs:
-
 
 CH: chá
 LH: malha
@@ -3042,7 +2944,7 @@ XC: exceto
 GU: guerra
 QU: quero
 
-Item. 2. (CEBRASPE / SE-DF / 2017)
+2. (CEBRASPE / SE-DF / 2017)
 
 Presentes no último parágrafo do texto, os vocábulos "qualidade",
 "perspectiva", "essas",
@@ -3068,11 +2970,10 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - REGRAS GERAIS DE ACENTUAçÃo -
 CEBRASPE
 
-Item. 1. (CEBRASPE/MPSC/2022)
+1. (CEBRASPE/MPSC/2022)
 
 O emprego do acento agudo em "nomeá-la" e "ordená-la", no primeiro parágrafo,
 justifica-se
@@ -3088,7 +2989,7 @@ como
 
 Questão correta.
 
-Item. 2. (CEBRASPE / TCE RJ / 2021)
+2. (CEBRASPE / TCE RJ / 2021)
 
 O emprego de acento agudo nas palavras "elétricos" (I.7), "pálidas" (I.7) e
 "móveis" (I.8)
@@ -3102,7 +3003,7 @@ terminada em ditongo.
 
 Questão incorreta.
 
-Item. 3. (CEBRASPE / SEED-PR / 2021)
+3. (CEBRASPE / SEED-PR / 2021)
 
 Os vocábulos "países" e "línguas", presentes no texto 15A2-I, possuem a mesma
 classificação
@@ -3130,7 +3031,6 @@ termina com "s", ao passo que "países" é acentuado porque sua sílaba tônica 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 com a vogal da sílaba anterior.
 
 d) Ambos os vocábulos são oxítonos, contudo "línguas" é acentuado porque tem três
@@ -3151,7 +3051,7 @@ LÍN - GUAS - paroxítona acentuada por terminar em ditongo crescente (semivogal
 Portanto, as duas palavras são paroxítonas, mas são acentuadas por justificativas diferentes.
 Gabarito letra A.
 
-Item. 4. (CEBRASPE / TCE-RJ /2021)
+4. (CEBRASPE / TCE-RJ /2021)
 
 O emprego de acento agudo nas palavras "elétricos", "pálidas" e "móveis"
 justifica-se pela
@@ -3168,7 +3068,7 @@ Portanto, as palavras são acentuadas de acordo com justificativas diferentes.
 
 Questão incorreta.
 
-Item. 5. (CEBRASPE / TCE-RJ / 2021)
+5. (CEBRASPE / TCE-RJ / 2021)
 
 A correção gramatical do trecho "Para que ligar-se a um homem que
 viesse magoá-la,
@@ -3189,12 +3089,11 @@ antes de pontuação, visto que, nesses casos, assume a forma de monossílabo t�
 
 Questão incorreta.
 
-Item. 6. (CEBRASPE/TJ-PA/2020)
+6. (CEBRASPE/TJ-PA/2020)
 
 Eurídice jamais seria uma engenheira, nunca poria os pés em um laboratório e não ousaria
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 escrever versos, mas essa mulher se dedicou à única atividade permitida que tinha um
 certo quê
@@ -3214,7 +3113,7 @@ terminado em "e", é necessariamente acentuado.
 
 Questão incorreta.
 
-Item. 7. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
+7. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
 
 Os termos "literárias" e "apreciá-las", no segundo parágrafo, são
 acentuados por motivos
@@ -3234,7 +3133,7 @@ regra que "sofá", por exemplo.
 
 Questão correta.
 
-Item. 8. (CEBRASPE / PGE-PE / 2019)
+8. (CEBRASPE / PGE-PE / 2019)
 
 O emprego de acento agudo nas palavras "juízo", "extraídos" e "período"
 justifica-se pela
@@ -3251,7 +3150,7 @@ não está sozinho, nem seguido de S, nem forma hiato com sílaba anterior.
 
 Questão incorreta.
 
-Item. 9. (CEBRASPE / PREF. SÃO CRISTOVÃO-SE / 2019)
+9. (CEBRASPE / PREF. SÃO CRISTOVÃO-SE / 2019)
 
 A palavra "domínio" recebe acento gráfico por ser paroxítona terminada em ditongo oral.
 Comentários:
@@ -3264,10 +3163,9 @@ A banca não considerou a possibilidade de a palavra ser uma proparoxítona acid
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Questão correta.
 
-Item. 10. (CEBRASPE / PM-AL / 2018)
+10. (CEBRASPE / PM-AL / 2018)
 
 O emprego do acento gráfico nas palavras "dói", "só" e "nós" justifica-se pela mesma
 regra de
@@ -3284,7 +3182,7 @@ palavras céu, véu, sóis, réu etc.).
 Portanto, as palavras são acentuadas por justificativas diferentes.
 Questão incorreta.
 
-Item. 11. (CEBRASPE /BNB/ 2018)
+11. (CEBRASPE /BNB/ 2018)
 
 Os vocábulos "trás", "é" e "nós" recebem acento gráfico em obediência à
 mesma regra de
@@ -3295,7 +3193,7 @@ Comentários:
 Sim, todos estão na regra geral dos monossílabos tônicos.
 Questão correta.
 
-Item. 12. (CEBRASPE / PF / 2018)
+12. (CEBRASPE / PF / 2018)
 
 Julgue o item quanto à sua correção gramatical.
 
@@ -3313,7 +3211,7 @@ são acentuadas.
 
 Questão correta.
 
-Item. 13. (CEBRASPE / PRER SÃO LUIZ-MA / 2017)
+13. (CEBRASPE / PRER SÃO LUIZ-MA / 2017)
 
 O processo de democratização do sistema internacional, que é o caminho
 obrigatório para a
@@ -3331,7 +3229,6 @@ O adjetivo "per-PÉ-tua" deve ser acentuado pela regra das paroxítonas terminad
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 supressão do acento causaria erro de ortografia.
 
 Cuidado, existe também a palavra "per-pe-TU-a", verbo, mas essa palavra
@@ -3340,7 +3237,7 @@ nenhuma com o texto e, por isso, não poderia ser inserida.
 
 Questão incorreta.
 
-Item. 14. (CEBRASPE / TRF 1-REGIÃO / 2017)
+14. (CEBRASPE / TRF 1-REGIÃO / 2017)
 
 O emprego de acento na palavra "memória" pode ser justificado por
 duas regras de acentuação
@@ -3360,10 +3257,9 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - ACENTUAçÃo Do HIATo - CEBRASPE
 
-Item. 1. (CEBRASPE / CBM-DF/ 2016)
+1. (CEBRASPE / CBM-DF/ 2016)
 
 Os vocábulos "prejuízo" e "países" são acentuados de acordo com
 a mesma regra de
@@ -3377,7 +3273,7 @@ PRE - JU - ZO - penúltima sílaba tônica acentuada por ser HIATO.
 PA - /- SES - penúltima sílaba tônica acentuada por ser HIATO.
 Questão correta.
 
-Item. 2. (CEBRASPE / CPRM / 2015)
+2. (CEBRASPE / CPRM / 2015)
 
 A ocorrência de hiato justifica o emprego do acento agudo nas
 vogais i e u nas palavras
@@ -3393,10 +3289,9 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - ACENToS DIFERENCIAIS - CEBRASPE
 
-Item. 1. (CEBRASPE /TC-DF/ 2021)
+1. (CEBRASPE /TC-DF/ 2021)
 
 4 as crises da ocupação urbana do espaço. Com isso, o
 planejamento urbano c a gestão das cidades c áreas
@@ -3423,7 +3318,7 @@ oposição à forma singular VEM.
 
 Questão correta.
 
-Item. 2. (CEBRASPE / PF / 2018)
+2. (CEBRASPE / PF / 2018)
 
 Os peritos não intervêm antes da sentença para fazer um julgamento,
 mas para esclarecer a
@@ -3443,7 +3338,7 @@ esse acento circunflexo.
 
 Questão correta.
 
-Item. 3. (CEBRASPE / INSTITUTO RIO BRANCO / 2016)
+3. (CEBRASPE / INSTITUTO RIO BRANCO / 2016)
 
 O Sr. Menotti dei Picchia ainda não pôde naturalmente desvendar o
 segredo da arte. Se no
@@ -3458,7 +3353,6 @@ aspectos gramaticais do
 texto.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A forma "pôde" poderia ser corretamente substituída por pode, visto
 que o seu tempo verbal é
@@ -3480,8 +3374,7 @@ de tempo passado. Não é opcional.
 
 Questão incorreta.
 
-
-Item. 4. (CEBRASPE / CBM-DF/ 2016)
+4. (CEBRASPE / CBM-DF/ 2016)
 
 Produtos orgânicos têm inúmeras vantagens e, sob
 diversos aspectos, são, sim, mais saudáveis do que os
@@ -3510,10 +3403,9 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - ORToGRAFIA oFICIAL - CEBRASPE
 
-Item. 1. (CEBRASPE / PRER CAMPO GRANDE/2019)
+1. (CEBRASPE / PRER CAMPO GRANDE/2019)
 
 ? A jurisdição constitucional na conlcmporancidadc
 apresenta-se como uma consequência praticamcnlc natural do
@@ -3542,11 +3434,10 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - EMPREGo Do HÍFEN -
 CEBRASPE
 
-Item. 1. CEBRASPE / DPE-DF / 2022
+1. CEBRASPE / DPE-DF / 2022
 
 ...Em termos espirituais, existe a possibilidade de Franz Kafka ter sentido seus dons
 proféticos como uma
@@ -3565,7 +3456,7 @@ O prefixo "co" é utilizado sempre sem hífen, como percebemos nas palavras
 "cooperar", "coabitar",
 "coagir"... Questão incorreta.
 
-Item. 2. (CEBRASPE / SEED-PR / 2021)
+2. (CEBRASPE / SEED-PR / 2021)
 
 Assinale a opção em que a palavra apresentada está de acordo com a atual ortografia
 oficial da língua
@@ -3609,8 +3500,7 @@ Gabarito letra E.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 3. (CEBRASPE/ DIPLOMATA/ 2018)
+3. (CEBRASPE/ DIPLOMATA/ 2018)
 
 Segundo preconiza o Novo Acordo Ortográfico, o vocábulo "contrassensos" é grafado
 conforme as mesmas
@@ -3626,7 +3516,7 @@ antissocial, contrassenso, minissaia, contrarregra, antirreflexo...
 
 Questão correta.
 
-Item. 4. (CEBRASPE / PC-GO / 2016)
+4. (CEBRASPE / PC-GO / 2016)
 
 Julgue o item.
 
@@ -3652,12 +3542,11 @@ Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - Uso DE LETRAS MAIÚSCULAS E
 
 MINÚSCULAS - CEBRASPE
 
-Item. 1. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2019)
+1. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2019)
 
 Desde pequeno, tive tendência para personificar as coisas. Tia Tuia, que
 achava que mormaço
@@ -3716,10 +3605,9 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - SIGLAS E ABREvIAçõES - CEBRASPE
 
-Item. 1. (CEBRASPE / FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA / 2018)
+1. (CEBRASPE / FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA / 2018)
 
 Constitui regra geral do processo de siglação a utilização de pontos
 em siglas constituídas
@@ -3735,11 +3623,10 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - EXPRESSõES PRoBLEMÁTICAS -
 CEBRASPE
 
-Item. 1. (CEBRASPE / TELEBRÁS / 2022)
+1. (CEBRASPE / TELEBRÁS / 2022)
 
 A importância das telecomunicações ficou evidente nos dias que se
 seguiram ao terremoto que
@@ -3765,7 +3652,7 @@ No original, temos a preposição "para", indicativa de finalidade; então,
 a forma equivalente é "a
 fim de", escrita SE PA RA DA MEN TE. Questão incorreta
 
-Item. 2. CEBRASPE/ICMBIO/2022
+2. CEBRASPE/ICMBIO/2022
 
 Nossas cidades estão perdendo suas árvores rapidamente, mas até nisso
 somos um país
@@ -3789,10 +3676,9 @@ reduzida e equivale a
 
 Questão incorreta.
 
-Item. 3. CEBRASPE / PETROBRAS / 2022
+3. CEBRASPE / PETROBRAS / 2022
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna,
 em que Platão,
@@ -3818,7 +3704,7 @@ qual"; logo, devemos usar
 
 Questão incorreta.
 
-Item. 4. (CEBRASPE / MP-CE / 2020)
+4. (CEBRASPE / MP-CE / 2020)
 
 Em qualquer tempo ou lugar, a vida social é sempre marcada por rituais.
 Essa afirmação pode ser
@@ -3838,7 +3724,7 @@ acento. A troca por "de modo que" indicaria ideia de
 consequência, alterando os sentidos
 originais. Questão incorreta.
 
-Item. 5. (CEBRASPE / SEFAZ-DF / 2020)
+5. (CEBRASPE / SEFAZ-DF / 2020)
 
 No trecho "Os dois professores destacam que os investidores reconhecem
 cada vez mais o
@@ -3858,14 +3744,13 @@ estritamente para lugar físico, o que também não é o caso.
 
 Questão correta.
 
-Item. 6. (CEBRASPE / PGE-PE / 2019)
+6. (CEBRASPE / PGE-PE / 2019)
 
 ...propostas que concebem um Estado que seja parco em prestações sociais e
 no qual a própria
 sociedade se responsabilize pelos riscos de sua existência.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A substituição de "no qual" por aonde prejudicaria a correção gramatical do texto.
 Comentários:
@@ -3882,7 +3767,7 @@ responsabilize peios riscos de sua existência.
 
 Questão correta.
 
-Item. 7. (CEBRASPE / PREF. SÃO CRISTOVÃO-SE / 2019)
+7. (CEBRASPE / PREF. SÃO CRISTOVÃO-SE / 2019)
 
 O dima de quem pensa certo é o de quem busca seriamente a segurança na
 argumentação, é o
@@ -3907,7 +3792,7 @@ alguns exemplos:
 Só usamos "porque", junto, como conjunção causal/explicativa.
 Questão incorreta.
 
-Item. 8. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
+8. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
 
 Se você ficasse doente mil anos atrás, importaria muito o lugar onde
 vivesse. Médicos europeus
@@ -3932,10 +3817,9 @@ ideia de "mil anos atrás".
 Por isso mesmo, seria redundante e inadequado escrever "há mil anos atrás".
 Questão correta.
 
-Item. 9. (CEBRASPE/SEDUC-AL/2018)
+9. (CEBRASPE/SEDUC-AL/2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Por que falharam os programas de formação? Talvez porque se tenha insistido
 na crença da
@@ -3985,17 +3869,16 @@ Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - SoNS, LETRAS, FoNEMAS E DÍCRAFoS -
 CEBRASPE
 
-Item. 1. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
+1. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
 
 Na palavra "assado", o segmento "ss" constitui um dígrafo, porque
 duas letras representam um
 só fonema.
 
-Item. 2. (CEBRASPE / SE-DF / 2017)
+2. (CEBRASPE / SE-DF / 2017)
 
 Presentes no último parágrafo do texto, os vocábulos
 "qualidade", "perspectiva", "essas",
@@ -4005,29 +3888,28 @@ constituindo o que se denomina dígrafo ou digrama.
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. INCORRETA
+2. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 LISTA DE QUESTõES - REGRAS GERAIS DE ACENTUAçÃo -
 CEBRASPE
 
-Item. 1. (CEBRASPE/MPSC/2022)
+1. (CEBRASPE/MPSC/2022)
 
 O emprego do acento agudo em "nomeá-la" e "ordená-la", no primeiro
 parágrafo, justifica-se
 pela mesma regra de acentuação gráfica.
 
-Item. 2. (CEBRASPE / TCE RJ / 2021)
+2. (CEBRASPE / TCE RJ / 2021)
 
 O emprego de acento agudo nas palavras "elétricos" (I.7),
 "pálidas" (I.7) e "móveis" (I.8)
 justifica-se pela mesma regra de acentuação gráfica.
 
-Item. 3. (CEBRASPE / SEED-PR / 2021)
+3. (CEBRASPE / SEED-PR / 2021)
 
 Os vocábulos "países" e "línguas", presentes no texto 15A2-I, possuem
 a mesma classificação
@@ -4063,13 +3945,13 @@ e) Ambos os vocábulos são proparoxítonos, contudo "línguas" é acentuado
 porque tem duas
 sílabas, ao passo que "países" é acentuado porque tem três sílabas.
 
-Item. 4. (CEBRASPE / TCE-RJ / 2021)
+4. (CEBRASPE / TCE-RJ / 2021)
 
 O emprego de acento agudo nas palavras "elétricos", "pálidas" e
 "móveis" justifica-se pela
 mesma regra de acentuação gráfica.
 
-Item. 5. (CEBRASPE / TCE-RJ / 2021)
+5. (CEBRASPE / TCE-RJ / 2021)
 
 A correção gramatical do trecho "Para que ligar-se a um
 homem que viesse magoá-la,
@@ -4079,8 +3961,7 @@ maneira: Ligar-se a um homem que viesse magoá-la, arrancar-lhe a paz de espíri
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 6. (CEBRASPE / TJ-PA / 2020)
+6. (CEBRASPE / TJ-PA / 2020)
 
 Eurídice jamais seria uma engenheira, nunca poria os pés em um
 laboratório e não ousaria
@@ -4094,35 +3975,35 @@ A correção gramatical e o sentido do texto seriam mantidos caso se
 suprimisse do texto o acento
 do vocábulo "quê" (1.2).
 
-Item. 7. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
+7. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
 
 Os termos "literárias" e "apreciá-las", no segundo parágrafo, são
 acentuados por motivos
 distintos.
 
-Item. 8. (CEBRASPE / PGE-PE / 2019)
+8. (CEBRASPE / PGE-PE / 2019)
 
 O emprego de acento agudo nas palavras "juízo", "extraídos" e
 "período" justifica-se pela
 mesma regra de acentuação gráfica.
 
-Item. 9. (CEBRASPE / PREF. SÃO CRISTOVÃO-SE / 2019)
+9. (CEBRASPE / PREF. SÃO CRISTOVÃO-SE / 2019)
 
 A palavra "domínio" recebe acento gráfico por ser paroxítona terminada em ditongo oral.
 
-Item. 10. (CEBRASPE / PM-AL / 2018)
+10. (CEBRASPE / PM-AL / 2018)
 
 O emprego do acento gráfico nas palavras "dói", "só" e "nós"
 justifica-se pela mesma regra de
 acentuação.
 
-Item. 11. (CEBRASPE/BNB/2018)
+11. (CEBRASPE/BNB/2018)
 
 Os vocábulos "trás", "é" e "nós" recebem acento gráfico em obediência
 à mesma regra de
 acentuação.
 
-Item. 12. (CEBRASPE / PF / 2018)
+12. (CEBRASPE / PF / 2018)
 
 Julgue o item quanto à sua correção gramatical.
 
@@ -4130,7 +4011,7 @@ Nessas situações, procura-se então utilizar a medicina dentária forense
 como técnica primária de
 identificação dos corpos.
 
-Item. 13. (CEBRASPE / PREF. SÃO LUIZ-MA / 2017)
+13. (CEBRASPE / PREF. SÃO LUIZ-MA / 2017)
 
 O processo de democratização do sistema internacional, que é o
 caminho obrigatório para a
@@ -4140,12 +4021,11 @@ reconhecimento e da proteção dos direitos humanos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 A correção gramatical do texto seria preservada se a palavra
 "perpétua" fosse registrada sem o
 acento.
 
-Item. 14. (CEBRASPE / TRF 1a REGIÃO/2017)
+14. (CEBRASPE / TRF 1a REGIÃO/2017)
 
 O emprego de acento na palavra "memória" pode ser justificado por
 duas regras de acentuação
@@ -4153,20 +4033,19 @@ distintas.
 
 GABARITo
 
+1. CORRETA
 
-Item. 1. CORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. LETRA A
 
-Item. 3. LETRA A
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. INCORRETA
 
-Item. 5. INCORRETA
+6. INCORRETA
 
-Item. 6. INCORRETA
-
-Item. 7. CORRETA
+7. CORRETA
 
 8.
 
@@ -4193,16 +4072,15 @@ CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - ACENTUAçÃo Do HIATo - CEBRASPE
 
-Item. 1. (CEBRASPE / CBM-DF/ 2016)
+1. (CEBRASPE / CBM-DF/ 2016)
 
 Os vocábulos "prejuízo" e "países" são acentuados de acordo com
 a mesma regra de
 acentuação gráfica.
 
-Item. 2. (CEBRASPE / CPRM / 2015)
+2. (CEBRASPE / CPRM / 2015)
 
 A ocorrência de hiato justifica o emprego do acento agudo nas
 vogais i e u nas palavras
@@ -4210,16 +4088,15 @@ vogais i e u nas palavras
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. CORRETA
+2. CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - ACENToS DIFERENCIAIS - CEBRASPE
 
-Item. 1. (CEBRASPE / TC-DF / 2021)
+1. (CEBRASPE / TC-DF / 2021)
 
 4 as crises da ocupação urbana do espaço. Com isso, o
 planejamento urbano C a gcsLào das cidades C áreas
@@ -4234,7 +4111,7 @@ A forma verbal "vêm" (1.6) é acentuada devido à concordância que estabelece 
 termo "o planejamento
 urbano e a gestão das cidades e áreas metropolitanas" (I. 4 a 6).
 
-Item. 2. (CEBRASPE / PF / 2018)
+2. (CEBRASPE / PF / 2018)
 
 Os peritos não intervêm ontes da sentença para fazer um julgamento, mas para
 esclarecer a decisão dos
@@ -4244,7 +4121,7 @@ Subentende-se a forma verbal "intervêm" logo após o vocábulo "mas" em "mas pa
 esclarecer a decisão
 dos juízes".
 
-Item. 3. (CEBRASPE / INSTITUTO RIO BRANCO / 2016)
+3. (CEBRASPE / INSTITUTO RIO BRANCO / 2016)
 
 O Sr. Menotti dei Picchia ainda não pôde naturolmente desvendar o segredo da arte. Se
 no buscar a expressão
@@ -4259,8 +4136,7 @@ A forma "pôde" poderia ser corretamente substituída por pode, visto que o seu 
 verbal é depreendido
 pelo contexto do parágrafo e que o acento nela empregado é opcional.
 
-
-Item. 4. (CEBRASPE / CBM-DF/ 2016)
+4. (CEBRASPE / CBM-DF/ 2016)
 
 Produtos orgânicos têm inúmeras vantagens e, sob
 diversos aspectos, são, sim, mais saudáveis do que os
@@ -4277,23 +4153,21 @@ verbal concordar com a expressão no plural "inúmeras vantagens".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. CORRETA
+2. CORRETA
 
-Item. 3. INCORRETA
+3. INCORRETA
 
-Item. 4. INCORRETA
+4. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - ORToGRAFIA oFICIAL - CEBRASPE
 
-Item. 1. (CEBRASPE / PRER CAMPO GRANDE/2019)
+1. (CEBRASPE / PRER CAMPO GRANDE/2019)
 
 ? A jurisdição constitucional na conlcmporancidadc
 apresenta-se como uma consequência praticamenlc natural do
@@ -4316,10 +4190,9 @@ INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - EMPREGo Do HÍFEN - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-DF / 2022
+1. CEBRASPE / DPE-DF / 2022
 
 ...Em termos espirituais, existe a possibilidade de Franz Kafka ter sentido
 seus dons proféticos
@@ -4333,7 +4206,7 @@ Conforme as regras oficiais de grafia, "Coexistem" poderia ser grafado
 alternativamente como
 Co-existem.
 
-Item. 2. (CEBRASPE / SEED-PR / 2021)
+2. (CEBRASPE / SEED-PR / 2021)
 
 Assinale a opção em que a palavra apresentada está de acordo com a atual ortografia
 oficial da
@@ -4345,13 +4218,13 @@ c) contra-regra
 d) mão-de-obra
 e) autoanálise
 
-Item. 3. (CEBRASPE/DIPLOMATA/2018)
+3. (CEBRASPE/DIPLOMATA/2018)
 
 Segundo preconiza o Novo Acordo Ortográfico, o vocábulo "contrassensos" é
 grafado conforme
 as mesmas regras que antissocial.
 
-Item. 1. (CEBRASPE/ PC-GO / 2016)
+1. (CEBRASPE/ PC-GO / 2016)
 Julgue o item.
 
 O emprego do hífen no vocábulo "bem-estar" justifica-se pela mesma regra
@@ -4360,25 +4233,23 @@ justifica a grafia do antônimo desse vocábulo: mal-estar.
 
 GABARITo
 
-Item. 1. INCORRETA
+1. INCORRETA
 
-Item. 2. LETRA E
+2. LETRA E
 
-Item. 3. CORRETA
+3. CORRETA
 
-Item. 4. CORRETA
-
-SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
+4. CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
+SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 LISTA DE QUESTõES - Uso DE LETRAS MAIÚSCULAS E
 
 MINÚSCULAS - CEBRASPE
 
-Item. 1. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2019)
+1. (CEBRASPE / MINISTÉRIO DA ECONOMIA / 2019)
 
 Desde pequeno, tive tendência para personificar as coisas. Tia Tuia, que achava que
 mormaço
@@ -4430,10 +4301,9 @@ INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - SIGLAS E ABREvIAçõES - CEBRASPE
 
-Item. 1. (CEBRASPE / FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA / 2018)
+1. (CEBRASPE / FUNDAÇÃO UNIVERSIDADE DE BRASÍLIA / 2018)
 
 Constitui regra geral do processo de siglação a utilização de pontos em
 siglas constituídas
@@ -4445,10 +4315,9 @@ INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - EXPRESSõES PRoBLEMÁTICAS - CEBRASPE
 
-Item. 1. (CEBRASPE / TELEBRÁS / 2022)
+1. (CEBRASPE / TELEBRÁS / 2022)
 
 A importância das telecomunicações ficou evidente nos dias que se seguiram ao terremoto
 que
@@ -4468,7 +4337,7 @@ comunicação foram utilizadas para coordenar a ajuda" poderia ser reescrito da
 seguinte forma:
 Usaram-se as tecnologias da comunicação afim de coordenar a ajuda.
 
-Item. 2. CEBRASPE/ICMBIO/2022
+2. CEBRASPE/ICMBIO/2022
 
 Nossas cidades estão perdendo suas árvores rapidamente, mas até nisso somos um país
 desigual. Os bairros mais nobres do Rio de Janeiro e de São Paulo seguem
@@ -4483,7 +4352,7 @@ Sem prejuízo da correção gramatical e dos sentidos do texto, a expressão "po
 ao final
 do primeiro parágrafo, poderia ser substituída por que eram.
 
-Item. 3. CEBRASPE/ PETROBRAS / 2022
+3. CEBRASPE/ PETROBRAS / 2022
 
 O texto mais célebre de A República é sem dúvida a Alegoria da Caverna, em que
 Platão,
@@ -4501,7 +4370,7 @@ Seria mantida a correção gramatical do texto caso o trecho "pelo qual"
 fosse substituído por
 porque.
 
-Item. 4. (CEBRASPE/MP-CE/2020)
+4. (CEBRASPE/MP-CE/2020)
 
 Em qualquer tempo ou lugar, a vida social é sempre marcada por rituais. Essa
 afirmação pode ser
@@ -4513,10 +4382,9 @@ A substituição da conjunção "porque" pela locução de modo que preservaria 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 originais do texto.
 
-Item. 5. (CEBRASPE / SEFAZ-DF / 2020)
+5. (CEBRASPE / SEFAZ-DF / 2020)
 
 No trecho "Os dois professores destacam que os investidores reconhecem cada
 vez mais o
@@ -4524,7 +4392,7 @@ impacto, para a sociedade, das empresas nas quais investem", a substituição de
 quais" por
 aonde prejudicaria a correção gramatical do texto.
 
-Item. 6. (CEBRASPE / PGE-PE / 2019)
+6. (CEBRASPE / PGE-PE / 2019)
 
 ...propostas que concebem um Estado que seja parco em prestações sociais e no qual a
 própria
@@ -4532,7 +4400,7 @@ sociedade se responsabilize pelos riscos de sua existência.
 
 /\ substituição de "no qual" por aonde prejudicaria a correção gramatical do texto.
 
-Item. 7. (CEBRASPE / PREF. SÃO CRISTOVÃO-SE / 2019)
+7. (CEBRASPE / PREF. SÃO CRISTOVÃO-SE / 2019)
 
 O dima de quem pensa certo é o de quem busca seriamente a segurança na argumentação,
 é o
@@ -4544,7 +4412,7 @@ A correção gramatical do texto seria mantida caso a expressão "por que" (4o
 parágrafo) fosse
 substituída por porque.
 
-Item. 8. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
+8. (CEBRASPE / PREF. SÃO CRISTOVÃO / 2019)
 
 Se você ficasse doente mil anos atrás, importaria muito o lugar onde vivesse. Médicos
 europeus
@@ -4560,7 +4428,7 @@ A substituição de "mil anos atrás" (2o parágrafo) por há mil anos manteria 
 correção gramatical e
 a coerência do texto.
 
-Item. 9. (CEBRASPE /SEDUC-AL/ 2018)
+9. (CEBRASPE /SEDUC-AL/ 2018)
 
 Por que falharam os programas de formação? Talvez porque se tenha insistido na crença
 da
@@ -4572,10 +4440,9 @@ Sem prejuízo da correção gramatical do texto, a locução "Porque" poderia se
 substituída por
 Porque no trecho "Por que falharam os programas de formação?"
 
-Item. 10. (CEBRASPE / STJ / 2018)
+10. (CEBRASPE / STJ / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Uma vez que todos esses
 w pressupostos são claramente ocidentais e facilmente
@@ -4596,22 +4463,21 @@ universalidade dos direitos humanos é uma questão que se tomou tão inflamadam
 
 GABARITo
 
+1. INCORRETA
 
-Item. 1. INCORRETA
+2. INCORRETA
 
-Item. 2. INCORRETA
+3. INCORRETA
 
-Item. 3. INCORRETA
+4. INCORRETA
 
-Item. 4. INCORRETA
+5. CORRETA
 
-Item. 5. CORRETA
+6. CORRETA
 
-Item. 6. CORRETA
+7. INCORRETA
 
-Item. 7. INCORRETA
-
-Item. 8. CORRETA
+8. CORRETA
 
 9.
 
@@ -4621,5 +4487,4 @@ INCORRETA
 INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

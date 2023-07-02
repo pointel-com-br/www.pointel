@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Software - Orientação a objetos, Estrutura de dados e Algoritmos.
+# Desenvolvimento de Software - Orientação a objetos, Estrutura de dados e Algoritmos.
 
 Desenvolvimento de software é um processo complexo que envolve várias etapas, incluindo a análise de requisitos, o design, a implementação e a manutenção de um sistema. Dentre os conceitos fundamentais nesse campo, destacam-se a orientação a objetos, a estrutura de dados e os algoritmos.
 
@@ -14,7 +14,7 @@ Além disso, é importante mencionar que a escolha da linguagem de programação
 
 Engenharia de Software é uma disciplina que abrange diversos aspectos do desenvolvimento de software, incluindo a aplicação de princípios de orientação a objetos, estrutura de dados e algoritmos. Vou fornecer uma visão geral de como esses conceitos são aplicados nessa área.
 
-Item. 1. Orientação a Objetos:
+1. Orientação a Objetos:
 A orientação a objetos é um paradigma de programação que organiza o software em objetos, que são instâncias de classes. Na Engenharia de Software, a orientação a objetos é amplamente utilizada para modelar e estruturar sistemas complexos. Alguns conceitos importantes da orientação a objetos incluem:
 
 - Classes: São as definições das características e comportamentos de um tipo de objeto. As classes representam entidades do mundo real ou conceitos abstratos.
@@ -23,7 +23,7 @@ A orientação a objetos é um paradigma de programação que organiza o softwar
 - Herança: Permite que uma classe herde atributos e métodos de outra classe, estabelecendo uma relação "é um" entre as classes.
 - Polimorfismo: Permite que objetos de diferentes classes sejam tratados de forma uniforme, usando interfaces comuns.
 
-Item. 2. Estrutura de Dados:
+2. Estrutura de Dados:
 A escolha adequada da estrutura de dados é fundamental para a eficiência e organização de um sistema de software. A Engenharia de Software utiliza estruturas de dados para armazenar e manipular informações de forma eficiente. Algumas estruturas de dados comuns incluem:
 
 - Arrays: São estruturas de dados sequenciais que armazenam elementos do mesmo tipo em posições indexadas.
@@ -33,7 +33,7 @@ A escolha adequada da estrutura de dados é fundamental para a eficiência e org
 - Árvores: São estruturas hierárquicas compostas por nós conectados por arestas, onde cada nó pode ter zero ou mais filhos.
 - Grafos: Representam relações entre objetos através de vértices (nós) e arestas.
 
-Item. 3. Algoritmos:
+3. Algoritmos:
 Os algoritmos são sequências de passos lógicos que resolvem um problema específico. Na Engenharia de Software, os algoritmos são utilizados para processar dados, realizar cálculos, realizar busca e ordenação, entre outras tarefas. Alguns exemplos de algoritmos comuns incluem:
 
 - Busca linear: Percorre uma lista de elementos sequencialmente em busca de um valor específico.

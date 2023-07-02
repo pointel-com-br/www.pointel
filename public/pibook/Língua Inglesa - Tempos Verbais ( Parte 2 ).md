@@ -1,5 +1,4 @@
-Capítulo. Língua Inglesa - Tempos Verbais ( Parte 2 ).
-
+# Língua Inglesa - Tempos Verbais ( Parte 2 ).
 
 Índice
 
@@ -24,7 +23,6 @@ Capítulo. Língua Inglesa - Tempos Verbais ( Parte 2 ).
 10) Lista de Questões A5 e Gabaritos CESPE
 
 11) Resumo A5 Cespe
-
 
 PRESENTE, PASSADo E FUTURo CoNTÍNUo
 
@@ -66,7 +64,6 @@ Estamos tomando decisões importantes.
 
 Para formar o Present Continuous deve-se observar algumas regras, veja a seguir:
 
-
 Nos verbos terminados em -E: retira-se o e E põe-se o ING
 
 How is private wealth changing (change) the world?
@@ -102,7 +99,6 @@ Nos verbos terminados em -ie, troca-se -ie por y e acrescenta-se ing:
 The garden is dying (to die) because there's no rain.
 O jardim está morrendo por que não há chuva.
 
-
 Forma Negativa:
 
 Sujeito + verbo To Be + NOT+ verbo no Contínuo
@@ -126,7 +122,7 @@ Aren't the politicians lying about their actions?
 
 Não estão os políticos mentindo sobre suas ações?
 
-Item. 1.2. Passado Contínuo
+1.2. Passado Contínuo
 
 O Past Progressive expressa acontecimentos no passado, cujas ações já
 foram
@@ -135,7 +131,6 @@ acontecendo
 a longo prazo ou acontecerão em breve. A diferença entre o Present e o
 Past Progressive
 observa-se no formato do verbo to be, pois o mesmo fica no passado simples.
-
 
 Sujeito + verbo to be no passado simples (was/were) + verbo principal + ing +
 complemento
@@ -174,7 +169,6 @@ Estavam os escritórios de advocacia empregando trezentas pessoas?
 
 Interrogativa Negativa:
 
-
 Wasn't the law office employing three hundred people?
 
 Não estava o escritório de advocacia empregando trezentas pessoas?
@@ -183,7 +177,7 @@ Weren't the law offices employing three hundred people?
 
 Não estavam os escritórios de advocacia empregando trezentas pessoas?
 
-Item. 1.3. Futuro Contínuo
+1.3. Futuro Contínuo
 
 O tempo verbal Contínuo no Futuro é usado para falar sobre ações que são ideias
 sobre rotinas,
@@ -210,7 +204,6 @@ São 8 horas. Ele estará pegando o vôo dele agora mesmo.
 Negativa:
 
 Sujeito + Will Not/Won't Be + verbo principal + ING + complemento
-
 
 Next week the law office will not be employing three hundred people.
 
@@ -441,7 +434,6 @@ write
 escrever
 writing
 
-
 O tempo verbal Present Perfect (Presente Perfeito) é um tempo
 composto por dois
 verbos: um auxiliar seguido de outro verbo principal. O auxiliar é sempre o verbo to
@@ -458,19 +450,19 @@ passado indeterminado e ações recentemente concluídas. Nós podemos usar
 o Present
 Perfect para:
 
-Item. 1. Expressar uma ação passada que tem resultado ou atinge o presente:
+1. Expressar uma ação passada que tem resultado ou atinge o presente:
 
 She has gone for a break.
 
 Ela saiu para uma pausa (momento de descanso).
 
-Item. 2. Contar novidades recentes:
+2. Contar novidades recentes:
 
 The Prime Minister has died.
 
 O Primeiro Ministro morreu.
 
-Item. 3. Falar sobre um período de tempo que começou no passado e continua
+3. Falar sobre um período de tempo que começou no passado e continua
 até o
 presente:
 
@@ -478,13 +470,12 @@ We have studied Japanese since January.
 
 Nós temos estudado/estudamos Japonês desde Janeiro.
 
-Item. 4. Expressar o verbo "to go" de duas maneiras diferentes, usando o "gone" e o
+4. Expressar o verbo "to go" de duas maneiras diferentes, usando o "gone" e o
 "been":
 
 She has been to Japan.
 
 0 0
-
 
 Ela foi ao Japão ( Em algum momento no passado ela foi ao Japão mas não está lá
 no momento)
@@ -493,7 +484,7 @@ They have gone to Europe.
 
 Eles foram para a Europa ( E ainda não voltaram, estão ainda lá).
 
-Item. 5. Falar sobre ações no passado usando advérbios de tempo:
+5. Falar sobre ações no passado usando advérbios de tempo:
 
 Existem alguns advérbios de tempo que são normalmente usados com o Simple
 Present
@@ -525,7 +516,6 @@ Ela nunca comeu comida polonesa.
 Already - Enfatiza que alguma coisa aconteceu antes do agora
 
 She has already made an appointment to see the professor.
-
 
 Ela já marcou um horário (já agenciou) para ver o professor.
 
@@ -561,7 +551,6 @@ A estátua tem permanecido na praça por duzentos anos.
 
 So far - Expressa algo que vem acontecendo até agora
 
-
 You have done good things so far.
 Você tem feito coisas boas até agora.
 
@@ -572,7 +561,7 @@ dias/meses/anos
 Karachi has witnessed countless deaths in the last few months.
 Karachi tem assistido inúmeras mortes nos últimos meses.
 
-Item. 6. Para dizer quantas vezes algo tem acontecido
+6. Para dizer quantas vezes algo tem acontecido
 
 She has emailed me six times this morning.
 
@@ -590,7 +579,7 @@ I've only been on this diet for a couple of weeks.
 
 Tenho estado nesta dieta somente por algumas semanas.
 
-Item. 2.1. Forma Negativa
+2.1. Forma Negativa
 
 Faz-se a negativa no Simple Present Perfect acrescentando-se not depois do verbo
 auxiliar have
@@ -599,7 +588,6 @@ e antes do verbo principal:
 They have not finished their homework yet.
 
 Eles não terminaram ainda o dever de casa deles.
-
 
 The Japanese student hasn't been in class lately.
 
@@ -630,7 +618,7 @@ k J
 fíaven' t
 found F
 
-Item. 2.2. Forma Interrogativa
+2.2. Forma Interrogativa
 
 O auxiliar Have/Has é posicionado no início da frase em seguida vem o
 pronome pessoal
@@ -640,7 +628,6 @@ Have they finished their homework yet?
 Eles já terminaram o dever de casa deles?
 
 Has the Japanese student been in class lately?
-
 
 O aluno japonês tem estado na aula ultimamente?
 
@@ -656,11 +643,10 @@ MAPA MENTAL
 MDOMAtS
 FUNDO!
 
-
 PAST PERFECT, FUTURE PERFECT E FUTURo
 CoNTÍNUo PERFEITo
 
-Item. 3.1. Past Perfect
+3.1. Past Perfect
 
 O tempo verbal Past Perfect (Passado Perfeito) também é um tempo composto
 por dois
@@ -696,8 +682,7 @@ The lawyer had already left the office when his client arrived.
 
 O advogado já tinha saído do escritório quando o cliente dele chegou.
 
-Item. 3.1.1. Negativa:
-
+3.1.1. Negativa:
 
 A Negativa se faz acrescentando-se o not entre o verbo had e o verbo no particípio.
 Geralmente
@@ -710,7 +695,7 @@ The student hadn't done his homework before the computer crashed.
 
 O aluno não tinha feito seu dever de casa antes do computador quebrar.
 
-Item. 3.1.2. Interrogativa:
+3.1.2. Interrogativa:
 
 A Interrogativa é feita colocando-se o verbo auxiliar had no início da frase.
 
@@ -721,7 +706,7 @@ O avião tinha acabado de decolar quando eles chegaram no aeroporto?
 Had the student done his homework before the computer crashed?
 O aluno tinha feito seu dever de casa antes do computador quebrar?
 
-Item. 3.1.3. Interrogativa Negativa:
+3.1.3. Interrogativa Negativa:
 
 A Interrogativa Negativa é feita colocando-se o verbo auxiliar had + not no início da frase.
 
@@ -733,8 +718,7 @@ Hadn't he heard the bell?
 
 Ele não tinha ouvido a campainha?
 
-Item. 3.2. Futuro Perfeito
-
+3.2. Futuro Perfeito
 
 O Future Perfect (Futuro Perfeito) é usado para fazer planos futuros ou
 prever algo que vai
@@ -749,7 +733,7 @@ Por volta do próximo Janeiro, ele vai ter recebido a promoção dele.
 By the end of this class you will have learned all about it.
 No final dessa aula você vai ter aprendido tudo sobre isso.
 
-Item. 3.2.1. Negativa:
+3.2.1. Negativa:
 
 A Negativa da frase se faz acrescentando-se o not entre o auxiliar will e
 o verbo have.
@@ -763,7 +747,7 @@ Por volta do próximo Janeiro, ele não vai ter recebido a promoção dele.
 They won't have finished the job tomorrow.
 Eles não vão ter terminado o trabalho amanhã.
 
-Item. 3.2.2. Interrogativa:
+3.2.2. Interrogativa:
 
 A Interrogativa é feita colocando-se o auxiliar will no inicio da frase seguido do
 sujeito + verbo
@@ -775,8 +759,7 @@ Você vai ter feito sua redação até Terça-feira?
 Will they have finished the job tomorrow?
 Eles vão ter terminado o trabalho amanhã?
 
-
-Item. 3.2.3. Interrogativa Negativa:
+3.2.3. Interrogativa Negativa:
 
 A Interrogativa Negativa é feita colocando-se o auxiliar will + not (won't)
 no inicio da frase
@@ -788,7 +771,7 @@ Você não vai ter feito sua redação até Terça-feira?
 Won't they have finished the job tomorrow?
 Eles não vão ter terminado o trabalho amanhã?
 
-Item. 3.3. Futuro Perfeito Contínuo
+3.3. Futuro Perfeito Contínuo
 
 O Future Perfect Continuous (Futuro Perfeito Contínuo ou Progressivo) é
 usado para
@@ -807,10 +790,9 @@ By six o'clock this evening hewill have been running non-stop for three
 hours.
 Ás seis horas da noite ele vai ter corrido sem parar por três horas.
 
-
 Voz ATIVA E VoZ PASSIVA
 
-Item. 4.1. Voz Ativa
+4.1. Voz Ativa
 
 Normalmente, o praticante da ação, ou o agente, vem primeiro, e é feito o
 sujeito do verbo,
@@ -833,7 +815,7 @@ A chuva regou o jardim.
 My mom cleans the room every day.
 Minha mãe limpa o quarto todo dia.
 
-Item. 4.2. Voz Passiva
+4.2. Voz Passiva
 
 A Passive Voice (Voz Passiva) acontece quando nós queremos focalizar nossa atenção em
 uma
@@ -844,7 +826,6 @@ Portanto,
 se você quer focalizar a pessoa ou coisa afetada pela ação, você faz a pessoa ou
 coisa o objeto
 da sentença e usa a Voz Passiva. O seu formato é:
-
 
 sujeito + verbo to be + past participle + by + objeto.
 
@@ -886,8 +867,7 @@ O telefone foi inventado por Alexander Bell em 1876.
 
 Em geral, se usa a Voz Passiva quando:
 
-
-Item. 1. Não se sabe quem é o autor da ação:
+1. Não se sabe quem é o autor da ação:
 
 I don't know who did it, but my dog has been let out.
 
@@ -897,7 +877,7 @@ I had the feeling that I was being followed.
 
 Eu tive a sensação de que estava sendo seguido.
 
-Item. 2. Quando é óbvio para o ouvinte ou leitor quem é o autor da ação:
+2. Quando é óbvio para o ouvinte ou leitor quem é o autor da ação:
 
 I had been instructed to delete all the files.
 
@@ -906,7 +886,7 @@ Eu tinha sido instruído a deletar todos os arquivos.
 Shewas being paid less than her male colleagues.
 Ela estava sendo paga menos que os colegas dela.
 
-Item. 3. Quando não é importante saber quem é o autor da ação:
+3. Quando não é importante saber quem é o autor da ação:
 
 Do you want a ride? No thanks. I'm being picked up.
 
@@ -945,14 +925,14 @@ DECORE!
 
 V
 
-Item. 4.1. Voz Passiva com o Presente Simples (Present simple)
+4.1. Voz Passiva com o Presente Simples (Present simple)
 
 Am/ is /are + pp
 
 Today, oil is produced on every continent but Antarctica. (http://www.scienceclarified.com)
 Atualmente, o petróleo é produzido em todos os continentes com exceção da Antártica.
 
-Item. 4.2. Voz Passiva com o Passado Simples (Past Simple)
+4.2. Voz Passiva com o Passado Simples (Past Simple)
 
 Was/were + pp
 
@@ -963,8 +943,7 @@ O projeto de lei foi aprovado.
 More than 60 reputed gang leaders were arrested today.
 Mais de 60 líderes de gangues conhecidas foram presos hoje.
 
-
-Item. 4.3. Voz Passiva com o Futuro Simples (Future)
+4.3. Voz Passiva com o Futuro Simples (Future)
 
 Will be + pp
 
@@ -975,7 +954,7 @@ When itwill be read?
 
 Quando isso será lido?
 
-Item. 4.4. Voz Passiva com o Presente Contínuo (Progressive)
+4.4. Voz Passiva com o Presente Contínuo (Progressive)
 
 Am/ are/ is being + pp
 
@@ -987,14 +966,13 @@ The bill is being passed.
 
 O projeto de lei está sendo aprovado.
 
-Item. 4.5. Voz Passiva com o Passado Contínuo (Past continuous)
+4.5. Voz Passiva com o Passado Contínuo (Past continuous)
 
 Was / were being + pp
 
 He was being treated for depression when he won the lottery.
 
 Ele estava sendo tratado de depressão quando ele ganhou na loteria.
-
 
 The victims of the disaster were being helped.
 
@@ -1008,7 +986,7 @@ The Reported Death of Peak Oil Has Been Greatly Exaggerated.
 (http://peakoilbarrel.com)
 O Fim Relatado de Pico de Petróleo Tem Sido Muito Exagerado.
 
-Item. 4.7. Voz Passiva com o Passado Perfeito (Past Perfect)
+4.7. Voz Passiva com o Passado Perfeito (Past Perfect)
 
 Had been + pp
 
@@ -1022,8 +1000,7 @@ Vazamentos haviam sido relatados em torno da costa do Controller Bay por muitos 
 ATIMCAO
 DECORE!
 
-
-Item. 4.8. Voz Passiva com o Futuro Perfeito (Future Perfect)
+4.8. Voz Passiva com o Futuro Perfeito (Future Perfect)
 
 Will have been + pp
 
@@ -1035,7 +1012,7 @@ Situations that exploit hatredwill have been eliminated.
 
 As situações que exploram o ódio terão sido eliminadas.
 
-Item. 4.9. Voz Passiva com o Infinitivo (Infinitive)
+4.9. Voz Passiva com o Infinitivo (Infinitive)
 
 (to) be + pp
 
@@ -1047,7 +1024,7 @@ Do you know who is going to be invited?
 
 Você sabe quem será convidado?
 
-Item. 4.10. Voz Passiva com o condicional simples "Would"
+4.10. Voz Passiva com o condicional simples "Would"
 
 Would + be + PP
 
@@ -1055,11 +1032,10 @@ Your understanding would be appreciated.
 
 A sua compreensão seria apreciada.
 
-
 This book would be read if I had time.
 Esse livro seria lido se eu tivesse tempo.
 
-Item. 4.11. Voz Passiva com o condicional Perfeito "Would have"
+4.11. Voz Passiva com o condicional Perfeito "Would have"
 
 Would + have + been + PP
 
@@ -1069,7 +1045,7 @@ Esse livro teria sido lido pelas crianças.
 These chess sets would have been played by the same rules...
 Esses jogos de xadrez teriam sido jogados pelas mesmas regras
 
-Item. 4.12. Voz Passiva com o verbo auxiliar modal Can (poder)
+4.12. Voz Passiva com o verbo auxiliar modal Can (poder)
 
 Can + (to) be + PP
 
@@ -1080,12 +1056,11 @@ These chess sets can be played by the same rules...
 
 Esses jogos de xadrez podem ser jogados pelas mesmas regras
 
-Item. 4.13. Voz Passiva com a Voz Reflexiva
+4.13. Voz Passiva com a Voz Reflexiva
 
 Ainda há a Voz Reflexiva que vemos no tópico dos Pronomes Reflexivos.
 Relembre com o
 exemplo abaixo:
-
 
 Her song was sung by herself.
 
@@ -1095,9 +1070,9 @@ A robotic car is driven by itself.
 
 Um carro robótico é dirigido por si só.
 
-Item. 4.14. Estruturas Causais
+4.14. Estruturas Causais
 
-Item. 4.14.1. Na Voz Ativa
+4.14.1. Na Voz Ativa
 
 As estruturas causais (causative) na Voz Ativa indicam que uma coisa ou uma pessoa
 faz algo ou
@@ -1122,14 +1097,13 @@ Com o verbo to get indica que se convencer ou enganar alguém para fazer algo.
 Their mom got them to clean up the kitchen.
 A mãe deles os induziu a limpar a cozinha.
 
-
 Com o verbo to let indica que se permite alguém fazer algo.
 
 The parents let both of their kids go camping.
 
 Os pais permitiram que ambos seus filhos fossem acampar.
 
-Item. 4.14.2. Na Voz Passiva:
+4.14.2. Na Voz Passiva:
 
 As estruturas causais na Voz Passiva são formadas principalmente com os verbos have e
 get.
@@ -1149,7 +1123,7 @@ HQUt
 
 ATENTO!
 
-Item. 4.15. Outras Estruturas
+4.15. Outras Estruturas
 
 Wish e lf são utilizados tanto para falar sobre arrependimentos ou lamentar
 sobre coisas que
@@ -1158,7 +1132,6 @@ gostaríamos de mudar, no passado ou no presente.
 I wish you were here.
 
 Gostaria que você estivesse aqui.
-
 
 Quando falamos de uma preferência específica, would rather/sooner e would
 prefer tem o
@@ -1169,7 +1142,6 @@ Mark foi ao cinema na noite passada. Hoje ele prefere sair para jantar.
 
 Would you rather/sooner have had salad than pasta?
 Você preferia ter comido salada do que massa?
-
 
 ISIACAINA
 
@@ -1192,7 +1164,7 @@ Cuide da Rússia.
 Be careful!
 Tome cuidado.
 
-Item. 5.1. Imperativo Enfático
+5.1. Imperativo Enfático
 
 Para tornar o Imperativo mais forte ou enfático se adiciona o "do" antes do verbo. O
 Imperativo
@@ -1207,10 +1179,9 @@ Seja bem-vindo, sente-se.
 
 Oh do shut up!
 
-
 Cale-se!
 
-Item. 5.2. Imperativo Negativo
+5.2. Imperativo Negativo
 
 O Imperativo negativo é usado para expressar a alguém algo que não se deve fazer. É
 feito por
@@ -1238,7 +1209,6 @@ Ao se colocar o pronome "you" antes do verbo no imperativo o falante expressa au
 
 Don't you talk to me like that never again!
 Nunca mais fale comigo desse jeito!
-
 
 PMSTEMNS
 ATENÇAO!
@@ -1279,8 +1249,7 @@ O médico recomenda que a criança coma verduras diariamente.
 I suggest that you concentrate while driving.
 Sugiro que você se concentre ao dirigir.
 
-
-Item. 6.1. Negativa:
+6.1. Negativa:
 
 O Subjuntivo na Negativa se faz com a adição do NOT entre a pessoa e o verbo no
 infinitivo.
@@ -1293,7 +1262,6 @@ It's best that you not be at the airport.
 They recommended that she not arrive late again.
 
 Eles recomendaram que ela não chegue atrasada novamente.
-
 
 ATENÇÃO!
 
@@ -1340,7 +1308,6 @@ lt +
 be + um adjetivo.
 
 * A tabela de Verbos Irregulares deve ser usada para consulta durante os estudos.
-
 
 WOftA OC
 
@@ -1398,7 +1365,6 @@ cinematographic works. The expression copyright refers to the main act which,
 in respect of
 literary and artistic creations, may be made only by the author or with his authorization.
 
-
 The broad application of the term "industrial" is clearly set out in the Paris
 Convention for
 the Protection of Industrial Property (Article 1 (3)): "Industrial property shall be
@@ -1455,7 +1421,6 @@ concorda com o
 texto.
 
 GABARITO: ERRADA
-
 
 02 "Intellectual property" is an umbrella term, which defines a group of
 laws, including those
@@ -1515,7 +1480,6 @@ que as palavras não tem o mesmo significado.
 
 GABARITO: ERRADA
 
-
 04 Copyright and Industrial Property are normally considered as the two
 constituents of
 Intellectual Property.
@@ -1564,7 +1528,6 @@ O texto diz que os países têm suas próprias leis para proteger a propriedade 
 a OMPI administra são os tratados da Convenção de Berna e da Convenção de Paris.
 
 GABARITO: ERRADA
-
 
 06 Intellectual property laws concern themselves with the property of the copies of
 artistic or
@@ -1663,7 +1626,6 @@ refere-se
 aos direitos do autor do ato principal, que, em matéria de criações literárias e artísticas, só pode
 ser feita pelo autor ou com a sua autorização.
 
-
 The broad application of the term "industrial" is clearly set out in the Paris
 Convention for the
 Protection of Industrial Property (Article 1 (3)): "Industrial property shall be
@@ -1719,7 +1681,6 @@ transmissão de informações, em especial para os consumidores, em relação ao
 serviços oferecidos no mercado. A proteção é dirigida contra o uso não autorizado de tais sinais
 susceptíveis a enganar os consumidores, e contra as práticas enganosas em geral.
 
-
 TEXTo 2
 
 Técnico - Operação de Redes - SERPRO - CESPE
@@ -1765,7 +1726,6 @@ with the new ES processes.
 
 Internet: <www.palgrave-journals.com> (adapted).
 
-
 Comentários:
 
 According to the text it is correct to assert that
@@ -1804,7 +1764,6 @@ para implementações SE é a resistência do usuário.
 A alternativa usa a Voz Passiva para refletir a mesma informação encontrada no texto.
 
 GABARITO: CERTA
-
 
 09 due to the several advantages the enterprise system offers to organizations, its market is likely
 to be worth nearly U$ 50 billions by 2011.
@@ -1849,7 +1808,6 @@ O texto nem cita qual é a maior importante barreira para implementação, é ci
 importante, que é a resistência. Portanto, a assertiva não se apega ao texto ao informar que as
 derrapagens orçamentais são a mais importante barreira.
 
-
 GABARITO: ERRADA
 
 11 the enterprise system strictly demands compulsory usage all through the organization.
@@ -1887,7 +1845,6 @@ os resultados são diferentes, não se pode afirmar que todos os estudos encontr
 coisa.
 
 GABARITO: ERRADA
-
 
 13 reengineering business processes are important elements for ES to succeed.
 
@@ -1931,7 +1888,6 @@ sinônimo
 daquele encontrado no texto.
 
 GABARITO: CERTA
-
 
 Based on the language structure of the text, judge the following items.
 Baseado na estrutura de linguagem do texto, julgue os itens seguintes.
@@ -1977,7 +1933,6 @@ de implementação SE.
 
 Instead of = ao invés de, em vez de
 
-
 Os conectores não são sinônimos. Se trocados um pelo outro na frase deixaria o texto confuso,
 sem coerência.
 
@@ -2022,7 +1977,6 @@ Assim, um utilizador não só é forçado a utilizar o sistema, mas o trabalho d
 utilizador muitas
 vezes é alterado em conformidade com os novos processos de SE.
 
-
 HQW
 
 ATENTO!
@@ -2058,7 +2012,6 @@ implementations is user resistance.
 
 Por exemplo, Maurer (2002) encontrou que a razão para diminuir o retorno sobre investimentos
 para implementações SE é a resistência do usuário.
-
 
 One study found that more than half of system projects fail while another found only
 a 16%
@@ -2108,7 +2061,6 @@ A second characteristic is that it is often easier to reengineer business proces
 model ES
 processes rather than vice versa.
 
-
 A segunda característica é que muitas vezes é mais fácil reestruturar os processos de negócio
 para modelar processos SE, do que vice versa.
 
@@ -2148,7 +2100,6 @@ nitrogen oxides and other pollutants from emissions, mucking up the atmosphere. 
 10 cleaner, and more efficient alternative energy sources must exist.
 
 What is meant by the term "alternative energy source"?
-
 
 When we think of energy, or fuel, for our homes and cars, we think of petroleum, a fóssil
 fuel processed from oil removed from the ground, of which we know there is a limited
@@ -2195,7 +2146,6 @@ GABARITO: CERTA
 
 20 motoristas na região de Washington gastam um litro de combustível por pessoa.
 
-
 According to the Texas Transportation Institute, drivers in the Washington area burn, on
 average, one quart of fuel per person each workday just sitting in traffic jams.
 
@@ -2233,7 +2183,6 @@ GABARITO: CERTA
 Is the threat of running out of petroleum real? It has taken thousands, if not millions, of years to
 create the natural stores of petroleum we have now.
 
-
 A ameaça de ficar sem petróleo é real? Foram necessários milhares, se não milhões, de anos
 para criar as reservas naturais de petróleo que temos agora.
 
@@ -2270,7 +2219,6 @@ Surely better, cleaner, and more efficient alternative energy sources must exist
 O verbo modal should é mais usado para dar um conselho ou fazer uma sugestão. O modal must
 é mais intenso e expressa algo muito importante como uma obrigação ou extrema necessidade.
 
-
 GABARITO: ERRADA
 
 25 "overtime" (R.26) means as time passes.
@@ -2306,7 +2254,6 @@ Instituto de Transporte do Texas, os motoristas na área de Washington gastam, e
 litro de combustível por pessoa a cada dia de trabalho apenas sentados em
 engarrafamentos.
 Este desperdício tem alguns efeitos colaterais graves.
-
 
 That beautiful red and pink sky you sometimes see as the sunsets can be attributed to clouds of
 nitrogen oxides and other pollutants from emissions, mucking up the atmosphere. Surely better,
@@ -2353,7 +2300,6 @@ adaptations).
 A ameaça de ficar sem petróleo é real? Foram necessários milhares, se não milhões, de anos
 para criar as reservas naturais de petróleo que temos agora. Estamos usando o que está
 disponível a um ritmo muito mais rápido do que está sendo produzido ao longo do tempo. A
-
 
 verdadeira controvérsia em torno das quantidades de petróleo que temos é quanto precisamos
 manter em reserva para uso futuro.
@@ -2405,7 +2351,6 @@ construction. 2thed. New Jersey: Prentice Hall PTR, 2009, p. 951-3 (adapted)
 
 Comentários:
 
-
 Judge the following items according to the text
 Julgue os itens seguintes de acordo com o texto
 
@@ -2445,7 +2390,6 @@ estudo da simultaneidade das aplicações. Isto indica que eles devem estar rapi
 familiarizados com o assunto em questão.
 
 GABARITO: CERTA
-
 
 28 In spite of being a longstanding matter, concurrent computation has been used just
 by
@@ -2488,7 +2432,6 @@ No texto,
 30 the verb "realize" (R.7) can be replaced by accomplish without any change in the meaning
 of the sentence.
 
-
 30 o verbo "reconhecer" (1.7) pode ser substituído por realizar sem mudança no significado da
 frase.
 
@@ -2510,11 +2453,11 @@ mudará a interpretação textual.
 
 GABARITO: ERRADA
 
-Item. 31. "state-of-the-art technologies" (R.25) are advanced technologies, developed with an
+31. "state-of-the-art technologies" (R.25) are advanced technologies, developed with an
 artistic
 touch.
 
-Item. 31. "tecnologias de ponta" (I.25) são tecnologias avançadas, desenvolvidas com um toque
+31. "tecnologias de ponta" (I.25) são tecnologias avançadas, desenvolvidas com um toque
 artístico.
 
 And it is not simply the traditional concepts of multiprocessing and multiprogramming,
@@ -2533,7 +2476,6 @@ PRESIIMMS
 ATENÇÃO!
 
 State-of-the-art (adj) = moderníssimo, de ponta, de última geração, atualizado
-
 
 State of the art (subst.) = estado da arte (usado em teses acadêmicas)
 
@@ -2672,7 +2614,6 @@ entrusted with various licensing and regulatory activities" (first paragraph),
 means to be
 affected by.
 
-
 33 A expressão ser responsável por, conforme utilizada na frase "Muitas vezes a
 polícia
 também é responsável por várias atividades de licenciamento e regulamentação" (parágrafo
@@ -2714,7 +2655,6 @@ agencies is the competence to deal with potentially harmful circumstances.
 35 De acordo com o entendimento apresentado no segundo parágrafo, a principal característica
 dos órgãos policiais é a competência para lidar com circunstâncias potencialmente prejudiciais.
 
-
 However, police scholars have criticized this popular understanding of the word "police" — that
 it refers to members of a public organization having the legal competence to maintain order and
 enforce the law — for two reasons.
@@ -2753,7 +2693,6 @@ a assertiva concorda com o texto.
 GABARITO: CERTA
 
 ACORDE!
-
 
 37 In the last sentence of the second paragraph, the word "actual" means present.
 37 Na última frase do segundo parágrafo, a palavra "real" significa presente.
@@ -2889,7 +2828,6 @@ climáticas
 
 GABARITO: CERTA
 
-
 39 According to the second paragraph, rising temperatures, drought and deforestation stopped
 being the cause of global warming and have been no longer something to worry about.
 
@@ -2934,7 +2872,6 @@ do Planeta.
 But the inhaling and exhaling of CO2 is just one way this damp jungle, the most species-rich on
 Earth, influences the global climate.
 
-
 Mas a inalação e a exalação de CO₂ são apenas uma das maneiras pelas quais essa selva úmida,
 a mais rica em espécies da Terra, influencia o clima global.
 
@@ -2976,7 +2913,6 @@ GABARITO: CERTA
 44 According to the last paragraph, the only way of reversing climate changes is by replanting
 trees in the Amazon rainforest.
 
-
 44 De acordo com o último parágrafo, a única forma de reverter as mudanças
 climáticas é
 replantando árvores na floresta amazônica.
@@ -3016,7 +2952,6 @@ GABARITO: ERRADA
 46 lt can be concluded from the last paragraph that it is necessary to curb Amazon deforestation.
 
 46 Pode-se concluir do último parágrafo que é necessário conter o desmatamento da Amazônia.
-
 
 Halting global emissions from coai, oil, and natural gas would help restore balance, but curbing
 Amazon deforestation is a must, along with reducing dam building and increasing efforts
@@ -3060,7 +2995,6 @@ to a first-of-its- kind analysis from more than 30 scientists.
 
 A floresta amazônica provavelmente é agora uma contribuinte direta para o aquecimento do
 planeta, de acordo com uma análise inédita de mais de 30 cientistas.
-
 
 For years, researchers have expressed concern that rising temperatures, drought,
 and
@@ -3111,7 +3045,6 @@ rates appears certain to make warming worse for the entire world.
 
 Internet: <www.nationalgeographic.com> (adapted).
 
-
 Mas, o dano ainda pode ser revertido. Parar as emissões globais de carvão, petróleo e
 gás
 natural ajudaria a restaurar o equilíbrio, mas conter o desmatamento na Amazônia é uma
@@ -3129,7 +3062,6 @@ Analista de Segurança da Tecnologia da Informação - BANRISUL - CESPE
 CEBRASPE - 2022
 
 Text I
-
 
 ALICE. I LJANT YOU
 TO COLLABORATE
@@ -3170,7 +3102,6 @@ Text II
 Based on the texts I and II, judge the following items.
 Com base nos textos I e II, julgue os itens seguintes.
 
-
 PROVA!
 
 48 In the text II, the boss suggests that his human employee is not very competent and reliable,
@@ -3205,7 +3136,6 @@ Chefe - Alice, eu quero que você colabore com o Larry.
 
 Alice - And by collaborate you mean water down my brilliance with this Dullard's brain flatulence.
 
-
 Alice - E por colaborar você quer dizer diluir meu brilhantismo com essa flatulência cerebral do
 Dullard.
 
@@ -3234,7 +3164,6 @@ Funcionário - Não, não sou um homem complicado.
 
 fKXM
 ATENTO!
-
 
 TEXTo 8
 
@@ -3287,7 +3216,6 @@ block access to a computer system until a sum of money is paid.
 50 - Pode-se inferir do texto que o ransomware é um tipo de software malicioso projetado para
 bloquear o acesso a um sistema de computador até que uma quantia em dinheiro seja paga.
 
-
 During a ransomware hack, attackers infiltrate a target's computer system and encrypt its data.
 They then demand a payment before they will release the decryption key to free the system.
 
@@ -3329,7 +3257,6 @@ of ransomware would be to pay more than the amount the attackers demand.
 53 - Pode-se concluir do texto que a opção mais rápida para hospitais sob ataque de
 ransomware seria pagar mais do que o valor exigido pelos atacantes.
 
-
 Em nenhum momento o texto diz isso. O que é dito é que, para um hospital
 desbloquear os
 sistemas de computador o mais rápido possível pode ser uma questão de vida ou morte para os
@@ -3367,7 +3294,6 @@ palavras em destaque na alternativa são sinônimas. Portanto, podem ser substit
 outra sem qualquer alteração no sentido da frase.
 
 GABARITO: CERTA
-
 
 E5TAÉ
 DIFÍCIL!
@@ -3462,7 +3388,6 @@ resgate dentro de 24 horas após a transação.
 
 Internet: <www.scientificamerican.com> (adaptado).
 
-
 TEXTo 9
 
 Técnico em Segurança de Barragens - ANM - CESPE / CEBRASPE - 2021
@@ -3516,12 +3441,11 @@ Comentário:
 According to the previous text, judge the following items.
 De acordo com o texto anterior, julgue os itens seguintes.
 
-
-Item. 56. There has never been such a large compensation agreement before in Brazil like
+56. There has never been such a large compensation agreement before in Brazil like
 the one
 mentioned in the text.
 
-Item. 56. Nunca houve um acordo de compensação tão grande antes no Brasil como o mencionado no
+56. Nunca houve um acordo de compensação tão grande antes no Brasil como o mencionado no
 texto.
 
 The settlement with the Brazilian state of Minas Gerais, which was announced on Thursday, is the
@@ -3534,10 +3458,10 @@ O segmento do texto acima deixa bem claro que a assertiva está de acordo com o 
 
 GABARITO: CERTA
 
-Item. 57. There was another disaster involving a mining dam in the state of Minas Gerais which killed
+57. There was another disaster involving a mining dam in the state of Minas Gerais which killed
 up to 18 people.
 
-Item. 57. Houve outro desastre envolvendo uma barragem de mineração no estado de Minas Gerais
+57. Houve outro desastre envolvendo uma barragem de mineração no estado de Minas Gerais
 que matou até 18 pessoas.
 
 O texto diz que outra barragem de mineração no estado estourou em novembro de 2015,
@@ -3546,10 +3470,10 @@ correta, mas o número de pessoas está errado.
 
 GABARITO: ERRADA
 
-Item. 58. Not only will the company compensate for the damage caused, but it will also help develop
+58. Not only will the company compensate for the damage caused, but it will also help develop
 all communities around Minas Gerais.
 
-Item. 58. A empresa não apenas indenizará os danos causados, mas também ajudará
+58. A empresa não apenas indenizará os danos causados, mas também ajudará
 no
 desenvolvimento de todas as comunidades do entorno de Minas Gerais.
 
@@ -3558,13 +3482,12 @@ afetadas, socorro emergencial e recursos para mobilidade urbana. Portanto, a aju
 inclui
 todas as comunidadas mineiras, mas apenas as que foram afetadas.
 
-
 GABARITO: ERRADA
 
-Item. 59. The disasters in mining dams around Brazil have helped the companies to rethink the way
+59. The disasters in mining dams around Brazil have helped the companies to rethink the way
 they inspect their practices in the state of Minas Gerais.
 
-Item. 59. Os desastres em barragens de mineração em todo o Brasil têm ajudado as empresas
+59. Os desastres em barragens de mineração em todo o Brasil têm ajudado as empresas
 a
 repensar a forma como fiscalizam suas práticas no estado de Minas Gerais.
 
@@ -3584,10 +3507,10 @@ e regulamentação ambiental no estado de Minas Gerais.
 
 GABARITO: CERTA
 
-Item. 60. The company mentioned in the first paragraph was waiting for the Justice resolutions so that
+60. The company mentioned in the first paragraph was waiting for the Justice resolutions so that
 they could start helping the impacted families.
 
-Item. 60. A empresa citada no primeiro parágrafo aguardava as resoluções da Justiça para começar a
+60. A empresa citada no primeiro parágrafo aguardava as resoluções da Justiça para começar a
 atender as famílias impactadas.
 
 A empresa brasileira (mencionada no primeiro parágrafo) concordou em pagar quase 7 bilhões
@@ -3598,12 +3521,11 @@ nenhuma decisão judicial para começar a atender as famílias impactadas.
 
 GABARITO: ERRADA
 
-
-Item. 61. Helping the people who were affected by the disaster is the only action taken by
+61. Helping the people who were affected by the disaster is the only action taken by
 the
 company mentioned in the first paragraph so far to correct their fault.
 
-Item. 61. Ajudar as pessoas afetadas pelo desastre é a única ação realizada pela empresa mencionada
+61. Ajudar as pessoas afetadas pelo desastre é a única ação realizada pela empresa mencionada
 no primeiro parágrafo até o momento para corrigir seu erro.
 
 ESCLARECENDO!
@@ -3635,7 +3557,6 @@ do país, segundo a mídia local. O Tribunal de Justiça de Minas Gerais mediou 
 acordo, que
 proporcionará recursos para as comunidades afetadas, socorro emergencial e recursos para
 mobilidade urbana.
-
 
 In January 2019, a dam holding waste water from the company's iron ore mine in the
 town of
@@ -3677,7 +3598,6 @@ Em 2016, uma mineradora fechou um acordo com o governo brasileiro para pagar at�
 de reais (6,2 bilhões de dólares) pelo rompimento da barragem de Mariana. Os desastres, que
 deixaram milhares de famílias de luto, têm renovado o escrutínio das práticas da empresa e da
 regulamentação ambiental mineira.
-
 
 The company involved in the Brumadinho disaster has said that since the latest breach two years
 ago, it has tried to work with "the impacted families, providing assistance to restore their
@@ -3723,7 +3643,6 @@ The ripple effects are being felt around the nation as Texas' prolific oil-and-g
 industry
 stumbles.
 
-
 lt's striking that these power outages are happening in a state with abundant energy
 resources. Texas produces more electricity than any other US state - generating almost twice as
 much as Florida, the next-closest, according to federal statistics.
@@ -3766,12 +3685,11 @@ neighboring states. And in the current crisis, it can't import power either.
 
 Comentários:
 
-Item. 62. Extremely cold temperatures in Texas created problems for the distribution of energy in the
+62. Extremely cold temperatures in Texas created problems for the distribution of energy in the
 state.
 
-Item. 62. Temperaturas extremamente frias no Texas criaram problemas para a distribuição de energia
+62. Temperaturas extremamente frias no Texas criaram problemas para a distribuição de energia
 no estado.
-
 
 No texto, informa-se que as temperaturas extremas criaram problemas na produção de energia
 em usinas nucelares, eólicas, à carvão. Não foi mencionado nada em relação à transmissão. Na
@@ -3788,10 +3706,10 @@ interpretação.
 
 GABARITO: ANULADA
 
-Item. 63. In the last paragraph of the text, "That" refers to the decision by Texas to isolate its energy
+63. In the last paragraph of the text, "That" refers to the decision by Texas to isolate its energy
 grid from the rest of the country.
 
-Item. 63. No último parágrafo do texto, "Isso" refere-se à decisão do Texas de isolar sua
+63. No último parágrafo do texto, "Isso" refere-se à decisão do Texas de isolar sua
 rede de
 transmissão elétrica do resto do país.
 
@@ -3815,10 +3733,9 @@ restante do país" mencionado antes.
 
 GABARITO: CERTA
 
-Item. 64. Despite the cold temperatures, energy production in Texas continued unimpeded.
+64. Despite the cold temperatures, energy production in Texas continued unimpeded.
 
-
-Item. 64. Apesar das temperaturas frias, a produção de energia no Texas continuou
+64. Apesar das temperaturas frias, a produção de energia no Texas continuou
 sem
 impedimentos.
 
@@ -3837,9 +3754,9 @@ tradução. Isso indica que teve impedimento, já que foram desativadas.
 
 GABARITO: ERRADA
 
-Item. 65. Changes in energy production in Texas are having an impact across the United States.
+65. Changes in energy production in Texas are having an impact across the United States.
 
-Item. 65. Mudanças na produção de energia no Texas estão tendo um impacto em todo os Estados
+65. Mudanças na produção de energia no Texas estão tendo um impacto em todo os Estados
 Unidos.
 
 The ripple effects are being felt around the nation as Texas' prolific oil-and-gas
@@ -3853,11 +3770,10 @@ O segmento do texto acima concorda com a assertiva.
 
 GABARITO: CERTA
 
-Item. 66. There are other states, like Florida, that produce energy on a levei similar to that of Texas.
+66. There are other states, like Florida, that produce energy on a levei similar to that of Texas.
 
-Item. 66. Há outros estados, como a Flórida, que produzem energia em um nível semelhante ao do
+66. Há outros estados, como a Flórida, que produzem energia em um nível semelhante ao do
 Texas.
-
 
 O texto deixa claro que o Texas produz duas vezes o montante de energia que a
 Florida (a
@@ -3865,9 +3781,9 @@ segunda colocada).
 
 GABARITO: ERRADA
 
-Item. 67. There are places in the world where wind power works well in freezing temperatures.
+67. There are places in the world where wind power works well in freezing temperatures.
 
-Item. 67. Há lugares no mundo onde a energia eólica funciona bem em temperaturas congelantes.
+67. Há lugares no mundo onde a energia eólica funciona bem em temperaturas congelantes.
 
 No texto ele diz que o estado de lowa e a Dinamarca são locais de temperaturas
 baixas e a
@@ -3875,7 +3791,7 @@ energia eólica funciona bem, por isso a afirmação está correta.
 
 GABARITO: CERTA
 
-Item. 68. In "Natural gas and coal-fired power plants need water to stay online. Yet those
+68. In "Natural gas and coal-fired power plants need water to stay online. Yet those
 water
 facilities froze in the cold temperatures and others lost access to the electricity
 they require to
@@ -3883,7 +3799,7 @@ operate", its possible to sustitute "Yet" for Even so without changing the meani
 the
 sentence.
 
-Item. 68. Em "Usinas a carvão e gás natural precisam de água para se manter on-line. No entanto,
+68. Em "Usinas a carvão e gás natural precisam de água para se manter on-line. No entanto,
 essas instalações de água congelaram nas temperaturas frias e outras perderam acesso à
 eletricidade que necessitam para operar", é possível substituir "Yet (Ainda assim) por
 "mesmo
@@ -3899,11 +3815,10 @@ expressões que elas são intercambiáveis.
 
 GABARITO: CERTA
 
-
-Item. 69. The text points to the lack of wind as the primary cause for a dip in the production of wind
+69. The text points to the lack of wind as the primary cause for a dip in the production of wind
 energy during the period described.
 
-Item. 69. O texto aponta a falta de vento como a principal causa para a queda na produção de energia
+69. O texto aponta a falta de vento como a principal causa para a queda na produção de energia
 eólica durante o período descrito.
 
 O texto aponta as temperaturas baixas como o problema principal, e não a falta de
@@ -3941,7 +3856,6 @@ lidar com essas condições incomuns."
 The ripple effects are being felt around the nation as Texas' prolific oil-and-gas
 industry
 stumbles.
-
 
 Os efeitos em cascata estão sendo sentidos em todo o país à medida que a prolífica indústria de
 petróleo e gás do Texas "tropeça".
@@ -3986,7 +3900,6 @@ Embora outros lugares com tempo mais frio (como lowa e Dinamarca) dependam de ve
 uma parcela ainda maior de energia, especialistas disseram que as turbinas no Texas não são
 adaptadas ao inverno para um congelamento inesperado.
 
-
 But this is not just about turbines going down. Natural gas and coal-fired power
 plants need
 water to stay online. Yet those water facilities froze in the cold temperatures and
@@ -4030,7 +3943,6 @@ neighboring states. And in the current crisis, it can't import power either.
 Isso significa que quando as coisas estão indo bem, o Texas não pode exportar excesso
 de
 energia para estados vizinhos. E na crise atual, também não pode importar energia.
-
 
 AlINÇAo
 DECORE!
@@ -4110,7 +4022,6 @@ send forward
 surveillance watch, observation
 want
 desire
-
 
 FiQUt
 ATENTO!
@@ -4224,7 +4135,6 @@ at $ 47.7
 to enable
 organization change through ES implementations. However,
 
-
 5 despite the widespread use of ESs in organizations today, there
 are still many ES
 implementation failures. For example, Maurer (2002) found that the reason for
@@ -4280,7 +4190,6 @@ to be worth nearly U$ 50 billions by 2011.
 10 budget overruns have been considered the most important barrier to ES implementation.
 
 11 the enterprise system strictly demands compulsory usage all through the organization.
-
 
 12 studies have found that more than half of system projects fail as a result of user resistance.
 
@@ -4375,7 +4284,6 @@ of them well.
 In spite of that, passé debates on this issue have implicitly assumed that computation
 is mostly
 
-
 7sequential — proceeds along a single thread of control. Software developers should now
 realize
 that this assumption no longer holds, as we move to concurrent (also known
@@ -4427,7 +4335,6 @@ In the text,
 30 the verb "realize" (R.7) can be replaced by accomplish without any change in the
 meaning
 of the sentence.
-
 
 31 "state-of-the-art technologies" (R.25) are advanced technologies, developed with
 an artistic
@@ -4484,7 +4391,6 @@ paragraph), means to be
 affected by.
 
 34 It can be inferred from the text that policing has been object of academic interest.
-
 
 35 According to the view presented in the second paragraph, the main
 characteristic of police
@@ -4544,7 +4450,6 @@ Internet: <www.nationalgeographic.com> (adapted).
 
 Based on the text above, judge the following items.
 
-
 38 lt is the first time an analysis showing that the Amazon rainforest is also
 contributing to global
 warming has been made.
@@ -4585,11 +4490,9 @@ Texto 7: Analista de Segurança da Tecnologia da Informação - BANRISUL - CESPE
 
 Text I
 
-
 AL ICE. I LJANT YOU
 TO COLLABORATE
 LJlTH LARRY.
-
 
 /
 X
@@ -4601,7 +4504,6 @@ THIS DULLARDS BRAIN
 FLATULENCE
 
 1 <
-
 
 i
 
@@ -4619,7 +4521,6 @@ f OTHERS DENCE
 
 J 'Jk
 
-
 J sA J X
 
 j L—LJELE -
@@ -4628,11 +4529,11 @@ Text II
 
 Based on the texts I and II, judge the following items.
 
-Item. 48. In the text II, the boss suggests that his human employee is not very competent
+48. In the text II, the boss suggests that his human employee is not very competent
 and reliable,
 vjiich is why he brings a sophisticated robot to take his place.
 
-Item. 49. In the second box of the text I, the woman diminishes her co-worker's
+49. In the second box of the text I, the woman diminishes her co-worker's
 intelligence by making
 an exaggerated comparison.
 
@@ -4659,7 +4560,6 @@ organizations in
 a moral quandary. For, say, a hospital, unlocking the computer systems as
 quickly as possible
 could be a matter of life or death for patients, and the fastest option may be to pay up.
-
 
 Collective action can help. If all organizations that fali victim to
 ransomware report their
@@ -4708,7 +4608,6 @@ any change in the
 meaning of the sentence.
 
 Texto 9: Técnico em Segurança de Barragens - ANM - CESPE / CEBRASPE - 2021
-
 
 A Brazilian company has agreed to pay nearly $7 billion in compensation
 after a dam
@@ -4765,28 +4664,27 @@ Internet: <edition.cnn.com> (adapted).
 
 According to the previous text, judge the following items.
 
-Item. 56. There has never been such a large compensation agreement before in Brazil
+56. There has never been such a large compensation agreement before in Brazil
 like the one
 mentioned in the text.
 
-Item. 57. There was another disaster involving a mining dam in the state of Minas Gerais
+57. There was another disaster involving a mining dam in the state of Minas Gerais
 which killed
 up to 18 people.
 
-
-Item. 58. Not only will the company compensate for the damage caused, but it will also
+58. Not only will the company compensate for the damage caused, but it will also
 help develop
 all communities around Minas Gerais.
 
-Item. 59. The disasters in mining dams around Brazil have helped the companies to rethink
+59. The disasters in mining dams around Brazil have helped the companies to rethink
 the way
 they inspect their practices in the state of Minas Gerais.
 
-Item. 60. The company mentioned in the first paragraph was waiting for the Justice
+60. The company mentioned in the first paragraph was waiting for the Justice
 resolutions so that
 they could start helping the impacted families.
 
-Item. 61. Helping the people who were affected by the disaster is the only
+61. Helping the people who were affected by the disaster is the only
 action taken by the
 company mentioned in the first paragraph so far to correct their fault.
 
@@ -4835,7 +4733,6 @@ even larger shares of power, experts said the turbines in Texas are not winteriz
 for unexpected
 freeze.
 
-
 But this is not just about turbines going down. Natural gas and coal-fired
 power plants
 need water to stay online. Yet those water facilities froze in the cold
@@ -4861,23 +4758,23 @@ isolate its grid from the rest of the country.
 That means that when things are running smoothly. Texas can't export excess power to
 neighboring states. And in the current crisis, it can't import power either.
 
-Item. 62. Extremely cold temperatures in Texas created problems for the distribution of
+62. Extremely cold temperatures in Texas created problems for the distribution of
 energy in the
 state.
 
-Item. 63. In the last paragraph of the text, "That" refers to the decision by Texas to
+63. In the last paragraph of the text, "That" refers to the decision by Texas to
 isolate its energy
 grid from the rest of the country.
 
-Item. 64. Despite the cold temperatures, energy production in Texas continued unimpeded.
+64. Despite the cold temperatures, energy production in Texas continued unimpeded.
 
-Item. 65. Changes in energy production in Texas are having an impact across the United States.
+65. Changes in energy production in Texas are having an impact across the United States.
 
-Item. 66. There are other states, like Florida, that produce energy on a levei similar to that of Texas.
+66. There are other states, like Florida, that produce energy on a levei similar to that of Texas.
 
-Item. 67. There are places in the world where wind power works well in freezing temperatures.
+67. There are places in the world where wind power works well in freezing temperatures.
 
-Item. 68. In "Natural gas and coal-fired power plants need water to stay online.
+68. In "Natural gas and coal-fired power plants need water to stay online.
 Yet those water
 facilities froze in the cold temperatures and others lost access to the
 electricity they require to
@@ -4885,15 +4782,13 @@ operate", its possible to sustitute "Yet" for Even so without changing the
 meaning of the
 sentence.
 
-Item. 69. The text points to the lack of wind as the primary cause for a dip in the
+69. The text points to the lack of wind as the primary cause for a dip in the
 production of wind
 energy during the period described.
-
 
 GABARITO
 
 GABARIToS
-
 
 Textos
 
@@ -4952,7 +4847,6 @@ CERTA; 66-ERRADA; 67-CERTA; 68-CERTA;
 
 69-ERRADA;
 
-
 NOTA!
 
 * O que o CESPE mais cobra é Interpretação de Textos. Em segundo lugar vem sinônimos.
@@ -4996,5 +4890,4 @@ significa "na
 verdade, de fato".
 
 DECORE!
-
 

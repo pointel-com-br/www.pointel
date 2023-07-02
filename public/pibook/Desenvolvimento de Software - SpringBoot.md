@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - SpringBoot.
-
+# Desenvolvimento de Software - SpringBoot.
 
 Índice
 
@@ -11,9 +10,7 @@ Capítulo. Desenvolvimento de Software - SpringBoot.
 
 x
 
-
 /
-
 
 SPRING FRAMEWORK
 
@@ -31,13 +28,11 @@ quais são seus benefícios?
 
 BENEFÍCIOS DESCRIÇÃO
 
-
 Leveza
 (Lightweight)
 
 Trata-se de um framework leve, quando se trata de tamanho e
 transparência. A versão básica tem cerca de 2MB.
-
 
 Não-lntrusivo
 
@@ -45,7 +40,6 @@ Trata-se de um framework em que o código da lógica de
 aplicação não depende do em si do Framework Spring. Se
 algum dia eu quiser modificar o framework, o código estará
 preparado.
-
 
 Inversão de
 Controle (IOC)
@@ -55,7 +49,6 @@ meio do padrão arquitetural de Inversão de Controle. Os
 objetos oferecem suas dependências em vez de criarem ou
 procurarem objetos dependentes.
 
-
 Orientada a
 Aspectos
 
@@ -63,20 +56,17 @@ Trata-se de um framework orientado a aspectos que separa a
 lógica de negócio da aplicação dos serviços de suporte do
 sistema.
 
-
 Container
 
 Trata-se de um framework que gerencia o ciclo de vida e
 configuração de objetos da aplicação por meio de um
 container.
 
-
 MVC
 
 Trata-se de um framework desenhado para o Padrão MVC, que
 oferece diversas alternativas a frameworks web - permite
 construir aplicações robustas e manuteníveis.
-
 
 Gerenciamento
 de Transação
@@ -85,7 +75,6 @@ Trata-se de um framework que provê uma interface consistente
 de gerenciamento de transações que pode variar de uma
 transação global a uma transação local.
 
-
 Tratamento
 de Exceções
 
@@ -93,14 +82,12 @@ Trata-se de um framework capaz de traduzir exceções de uma
 tecnologia específica em outros tipos de exceções
 hierarquicamente.
 
-
 Spring
 Security
 
 Trata-se de um framework que fornece um mecanismo de
 segurança declarativo, que é um aspecto crítico de diversas
 aplicações.
-
 
 Spring
 Boot
@@ -155,11 +142,9 @@ controle de
 videogame, ipod, máquina de barbear, etc. Ora, esses dispositivos não têm uma
 interface de
 
-
 / 15
 
 /
-
 
 recarga de bateria comum, i.e., um usa micro-usb, o outro mini-usb, outro usb, a
 apple sempre
@@ -211,9 +196,7 @@ nível estaria dependendo da classe de baixo nível. Vamos resolver esse problem
 Injeção
 de Dependência!
 
-
 , 15
-
 
 Grosso modo, injetar dependências nada mais é que passar uma classe (que será
 utilizada) para
@@ -293,11 +276,9 @@ BeanFactory, porque ele fornece mais funcionalidades. Enquanto o primeiro permit
 conexão (wire) de beans, o
 segundo permite também il8n, publicação de eventos, automatizações, etc.
 
-
 7 15
 
 /
-
 
 orientada a objetos que permite definir, por exemplo, interceptadores.
 Já o Módulo DAO
@@ -358,15 +339,13 @@ pattern="/something" access="hasRole('ROLE_USER')"/>. É isso, galera! Acredito 
 isso seja
 suficiente...
 
-
 / 15
 
 /
 
-
 QUESTõES CoMENTADAS - SPRING - MULTIBANCAS
 
-Item. 1. (CESPE - 2012 - PEFO/CE - Analista de Sistemas) No Spring, as
+1. (CESPE - 2012 - PEFO/CE - Analista de Sistemas) No Spring, as
 configurações de
 segurança são realizadas no arquivo appIicationContext-security.xml, e, para
 que
@@ -390,7 +369,7 @@ Conforme vimos em aula, a questão está perfeita!
 
 Gabarito: C
 
-Item. 2. (FCC - 2010 - TRT/8 - Analista de Sistemas) Interface que representa o container
+2. (FCC - 2010 - TRT/8 - Analista de Sistemas) Interface que representa o container
 loC
 (Inversão de Controle) do framework Spring:
 
@@ -416,11 +395,9 @@ uma camada de abstração para JDBC, eliminando grande parte da codificação
 necessária para
 interagir com um banco de dados.
 
-
 / 15
 
 /
-
 
 Sabe aquela imagem aula de Spring? Ela é um pouco confusa em termos de nomenclatura
 porque,
@@ -438,7 +415,7 @@ tipo de objeto. Logo, resposta: C.
 
 Gabarito: C
 
-Item. 3. (FCC - 2011 - TRT/23 - Analista de Sistemas) Na estrutura do Spring o módulo
+3. (FCC - 2011 - TRT/23 - Analista de Sistemas) Na estrutura do Spring o módulo
 que provê
 uma camada de abstração para JDBC, eliminando grande parte da codificação necessária
 para interagir com um banco de dados é o:
@@ -467,7 +444,7 @@ Conforme vimos em aula, trata-se do Módulo Spring DAO.
 
 Gabarito: D
 
-Item. 4. (FCC - 2014 - PRODAM/AM - Analista de Sistemas) O framework Spring permite a
+4. (FCC - 2014 - PRODAM/AM - Analista de Sistemas) O framework Spring permite a
 troca
 de mensagens entre clientes através do suporte nativo ao:
 
@@ -475,11 +452,9 @@ a) SpringMessaging Service(SMS).
 
 b) JavaMessaging Service(JMS).
 
-
 / 15
 
 /
-
 
 c) SpringChat Service(SCS).
 
@@ -503,7 +478,7 @@ Conforme vimos em aula, trata-se do Módulo JMS!
 
 Gabarito: B
 
-Item. 5. (CONSULPLAN - 2012 - TSE - Analista de Sistemas) No contexto do framework Spring
+5. (CONSULPLAN - 2012 - TSE - Analista de Sistemas) No contexto do framework Spring
 existem, basicamente, dois tipos de injeção de dependência, sendo que em um deles, a
 dependência é resolvida por meio de um construtor do objeto a receber o
 objeto
@@ -533,15 +508,13 @@ não realizar a inversão de controle. De todo modo, trata-se do Constructor Inj
 
 Gabarito: D
 
-
 / 15
 
 /
 
-
 LISTA DE QUESTõES - SPRING - MULTIBANCAS
 
-Item. 1. (CESPE - 2012 - PEFO/CE - Analista de Sistemas) No Spring, as
+1. (CESPE - 2012 - PEFO/CE - Analista de Sistemas) No Spring, as
 configurações de
 segurança são realizadas no arquivo appIicationContext-security.xml, e, para que
 qualquer
@@ -549,7 +522,7 @@ página ou diretório seja seguro, é necessário adicionar a esse arquivo o ele
 <intercept-
 url>.
 
-Item. 2. (FCC - 2010 - TRT/8 - Analista de Sistemas) Interface que representa o
+2. (FCC - 2010 - TRT/8 - Analista de Sistemas) Interface que representa o
 container loC
 (Inversão de Controle) do framework Spring:
 
@@ -563,7 +536,7 @@ d) org.springframework.mvc.factory.MVCContainer.
 
 e) org.springframework.beans.factory.CoreContainer.
 
-Item. 3. (FCC - 2011 - TRT/23 - Analista de Sistemas) Na estrutura do Spring o
+3. (FCC - 2011 - TRT/23 - Analista de Sistemas) Na estrutura do Spring o
 módulo que
 provê uma camada de abstração para JDBC, eliminando grande parte da
 codificação
@@ -577,7 +550,7 @@ d) Spring DAO
 
 e) Spring AOP
 
-Item. 4. (FCC - 2014 - PRODAM/AM - Analista de Sistemas) O framework
+4. (FCC - 2014 - PRODAM/AM - Analista de Sistemas) O framework
 Spring permite a
 troca de mensagens entre clientes através do suporte nativo ao:
 
@@ -591,15 +564,13 @@ d) JavaChat Service(SCS).
 
 e) Chat andMessaging Service(CMS).
 
-Item. 5. (CONSULPLAN - 2012 - TSE - Analista de Sistemas) No contexto do framework
+5. (CONSULPLAN - 2012 - TSE - Analista de Sistemas) No contexto do framework
 Spring
 existem, basicamente, dois tipos de injeção de dependência, sendo que em um deles, a
-
 
 / 15
 
 /
-
 
 dependência é resolvida por meio de um construtor do objeto a
 receber o objeto
@@ -613,29 +584,25 @@ c) Factory Injection.
 
 d) Constructor Injection.
 
-
 / 15
 
 /
-
 
 GABARITo
 
 GABARITO
 
-Item. 1. c
+1. c
 
-Item. 2. C
+2. C
 
-Item. 3. D
+3. D
 
-Item. 4. B
+4. B
 
-Item. 5. D
-
+5. D
 
 ,
 
 /
-
 

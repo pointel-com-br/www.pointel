@@ -1,10 +1,8 @@
-Capítulo. Engenharia de Software e Sistemas - Qualidade de Software ( Parte 1 ).
-
+# Engenharia de Software e Sistemas - Qualidade de Software ( Parte 1 ).
 
 Índice
 
 1) Qualidade de Software
-
 
 2) Qualidade de Software - Garantia e Controle de Qualidade
 
@@ -41,7 +39,6 @@ Capítulo. Engenharia de Software e Sistemas - Qualidade de Software ( Parte 1 )
 18) Lista de Questões - Qualidade de Software - Diversas.
 
 19) Análise Estática de Código-Fonte - Conceitos Básicos - Lista de Questões.
-
 
 Conceitos Básicos
 
@@ -104,7 +101,6 @@ entregar software antes de eles estarem completamente validados. Bem... ambos t�
 Antes de continuar, precisamos definir o que é qualidade! A qualidade é
 algo pelo qual nos
 esforçamos para obter nos produtos, processos e serviços. Vejamos o que o dicionário diz:
-
 
 Qualidade: característica inerente ou diferenciada; uma propriedade, b. Um traço
 pessoal,
@@ -170,7 +166,6 @@ falta de conformidade aos requisitos de software é determinante para a falta
 de
 qualidade de software.
 
-
 Comentários: a qualidade de software é realmente fundamentada nas necessidades
 do usuário. Ademais, a falta de
 conformidade de requisitos de software é - sim - determinante para a falta de qualidade de software
@@ -196,7 +191,6 @@ desses fatores
 de qualidade. Algumas delas só podem ser medidas indiretamente, no entanto esses fatores
 conseguem nos dá uma sólida indicação da qualidade de um software. Bacana? Vejamos:
 
-
 Facilidade de manutenção
 Flexibilidade
 
@@ -209,7 +203,6 @@ Interoperabilidade
 REVISÃO DO PRODUTO TRANSIÇAO DO PRODUTO
 
 OPERAÇAO DO PRODUTO
-
 
 Correção Usabilidade
 
@@ -240,7 +233,6 @@ USABILIDADE Esforço necessário para aprender, operar, preparara entrada de dad
 interpretara saída
 de um programa.
 
-
 FACILIDADE DE
 MANUTENÇÃO
 
@@ -251,7 +243,6 @@ FLEXIBILIDADE Esforço necessário para modificar um programa em operação.
 TESTABILIDADE Esforço necessário para testar um programa de modo a garantir que ele
 desempenhe a
 função destinada.
-
 
 Esforço necessário para transferir o programa de um ambiente de hardware e/ou software
 para outro.
@@ -271,7 +262,6 @@ FATORES | DESCRIÇÃO
 Trata-se do grau com que o software satisfaz às necessidades declaradas conforme
 indicado
 
-
 FUNCIONALIDADE
 
 CONFIABILIDADE
@@ -284,13 +274,11 @@ Trata-se da quantidade de tempo que o software fica disponível para uso conform
 indicado
 pelos seguintes subatributos: maturidade, tolerância a falhas, facilidade de recuperação.
 
-
 USABILIDADE
 
 Trata-se do grau de facilidade de utilização do software conforme indicado pelos
 seguintes
 subatributos: facilidade de compreensão, facilidade de aprendizagem, operabilidade.
-
 
 EFICIÊNCIA
 
@@ -409,7 +397,6 @@ decoreba, eu admito! Bem, no próximo tópico nós vamos nos aprofundar em algun
 conceitos
 vistos nessa introdução.
 
-
 (TJDFT - 2008) O fator de qualidade flexibilidade de McCall é definido como
 a
 capacidade de um software de se adaptar a diferentes sistemas operacionais ou
@@ -469,7 +456,6 @@ c) eficiência enquadra-se no aspecto de operação do produto.
 
 d) flexibilidade enquadra-se no aspecto de transição do produto.
 
-
 e) portabilidade enquadra-se no aspecto de operação do produto.
 
 Comentários: (a) Errado, enquadra-se no aspecto de operação do produto; (b) Errado, enquadra-se no
@@ -477,7 +463,6 @@ aspecto de operação do
 produto; (c) Correto, enquadra-se no aspecto de operação do produto; (d) Errado,
 enquadra-se no aspecto de revisão do
 produto; (e) Errado, enquadra-se no aspecto de transição do produto (Letra C).
-
 
 Garantia e Controle de Qualidade
 
@@ -532,7 +517,6 @@ qualidade buscará encontrar defeitos específicos. Logo, na imagem a seguir, el
 ligar o carro
 com a chave e ver se está funcionando.
 
-
 Agora imaginem que esse não seja um problema pontual, uma vez que tem
 ocorrido com
 frequência que os carros montados não estejam ligando. O responsável pela garantia de
@@ -552,7 +536,6 @@ técnicas
 utilizados, podendo ocorrer no início ou no fim do ciclo de vida de desenvolvimento
 do software.
 Vamos ver uma tabela com as principais diferenças entre garantia e controle de qualidade:
-
 
 GARANTIA DE QUALIDADE
 
@@ -607,7 +590,6 @@ e) gold plate.
 Comentários: garantir que cada produto de trabalho satisfaça os requisitos estabelecidos é 0
 objetivo do controle de qualidade
 (Letra C).
-
 
 Verificação x Validação
 
@@ -697,7 +679,6 @@ barato! Quanto à verificação dinâmica, nós falaremos mais adiante sobre cad
 
 1 Alguns autores tratam V&V como uma coisa só - integral, inteira.
 
-
 e tipo de teste que podem ser feitos. Apenas guardem que a verificação estática e a
 verificação
 dinâmica são complementares e, não, opostas!
@@ -766,7 +747,6 @@ verificação, mas não está errado afirmar que teste é uma atividade de verif
 (ANATEL - 2007) Considere as informações abaixo em relação ao desenvolvimento de
 sistemas:
 
-
 I. executar um software com o objetivo de revelar falhas, mas que não prova a
 exatidão
 do software.
@@ -827,7 +807,6 @@ especificados, ou seja, que se está construindo o produto corretamente.
 
 Comentários: a questão inverteu os conceitos de verificação e validação (Errado).
 
-
 (AFR/SP - 2009) O processo de confirmação que um software vai ao encontro
 das
 especificações de software se trata de um conceito-chave de qualidade denominado:
@@ -873,7 +852,6 @@ especificação. Já a segunda afirmação -
 para mim - está correta. No entanto, a banca a considerou errada. Eu não vejo erros nesse item -
 caso alguém encontre, favor
 informar (Letra E).
-
 
 Defeito, Erro e Falha
 
@@ -933,7 +911,6 @@ A
 UNIVERSO FÍSICO
 
 1 Eventualmente, pode cair nomes em inglês: Erro/Error, Falha/Failure e Defeito/Defect.
-
 
 Vamos ver um exemp/o? Imaginem que um cabo de rede de uma impressora se desconectou
 (aqui
@@ -1001,7 +978,6 @@ entretanto, que a distinção temporal entre erros e defeitos não é um pensame
 dominante. Dito
 isso, vamos ver a tabela de definições de acordo com nosso querido autor:
 
-
 DEFINIÇÃO DE ACORDO COM PRESSMAN
 
 DEFEITO Problema de qualidade descoberto após o software ser lançado aos usuários
@@ -1054,7 +1030,6 @@ c) Na fase de revisão.
 d) Na fase de levantamento de requisitos.
 e) Na fase de prototipação.
 
-
 Comentários: de acordo com Roger Pressman, defeito é um problema de qualidade
 encontrado após o software ser lançado
 aos usuários finais (Letra A).
@@ -1090,7 +1065,6 @@ Correto, Erro é-de fato - a diferença
 entre 0 valor obtido e 0 valor esperado, ou seja, qualquer estado intermediário incorreto ou
 resultado inesperado na execução
 do programa; (IV) Errado, a questão trata de Defeito (Letra C).
-
 
 Métricas de Qualidade de Software
 
@@ -1178,7 +1152,7 @@ seguida,
 agregar essas medições, você pode avaliar os atributos de qualidade do sistema, como a
 manutenibilidade.
 
-Item. 2. Para identificar os componentes de sistema cuja qualidade não atingiu o padrão: As
+2. Para identificar os componentes de sistema cuja qualidade não atingiu o padrão: As
 medições podem identificar componentes individuais com características que se desviem da
 norma. Ex: medir componentes para descobrir aqueles com a mais alta complexidade. Esses
 são mais passíveis de conter bugs porque a complexidade os torna mais difíceis de entender.
@@ -1212,7 +1186,6 @@ que é este o
 caso. Para testar essa hipótese, você precisa de dados de falha de um
 grande número de
 componentes e de acesso ao código-fonte do componente para análise.
-
 
 Poucas empresas fizeram um compromisso a longo prazo para a coleta de dados
 sobre seu
@@ -1281,7 +1254,6 @@ extensão da mudança; qualidade em termos do número e tipo de erros; maturidad
 termos da
 frequência de erros; recursos em termos de recursos despendidos contra os planejados.
 
-
 Porfim, as métricas de qualidade de produto são métricas de previsão usadas para medir
 atributos
 internos de um sistema de software (Ex: tamanho de sistema, medido em linhas de
@@ -1303,7 +1275,7 @@ após o sistema estar em uso. Um exemplo pode ser o número de relatórios de bu
 o
 tempo necessário para concluir uma computação.
 
-Item. 2. Métricas estáticas, que são coletadas por meio de medições feitas de representações
+2. Métricas estáticas, que são coletadas por meio de medições feitas de representações
 do
 sistema, como o projeto, o programa ou a documentação. Exemplos de métricas estáticas
 são o tamanho de código e o comprimento médio de identificadores utilizados no código-
@@ -1345,7 +1317,6 @@ valor
 alto para fan-in significa que X está fortemente acoplado ao resto do projeto e
 alterações em
 X terão repercussões extensas. Um valor alto para fan-out sugere que a complexidade geral
-
 
 COMPRIMENTO DE
 
@@ -1434,7 +1405,6 @@ mais utilizado com hardware, mas pode ser também utilizado com software. Bem,
 pessoal... é isso
 que tínhamos para falar sobre métricas de qualidade.
 
-
 Métricas de Qualidade de Código
 
 INCIDÊNCIA EM PROVA: BAIXA
@@ -1458,7 +1428,6 @@ código-fonte será muito mais lido do que escrito no decorrer de seu ciclo de v
 reúso, etc). Dessa forma, nós podemos afirmar que um código-fonte de qualidade é
 legibilidade,
 testabilidade, flexibilidade, compatibilidade e economicidade.
-
 
 CRITÉRIOS DE
 QUALIDADE DE CÓDIGO
@@ -1488,13 +1457,11 @@ classes concretas, etc tornam o código difícil de reusare adaptar.
 O código deve cumprir com seus requisitos, funcionais ou não. Notem que uma
 discussão sobre se os requisitos implementados são os requisitos corretos não cabe aqui.
 
-
 ECONOMICIDADE
 
 O código deve fazer uso razoável dos recursos do sistema: memória, processamento,
 entre outros. Devemos pensarsobre o retorno sobre investimento e requer uma reflexão
 sobre todos os recursos investidos.
-
 
 Conceitos Básicos
 
@@ -1509,11 +1476,11 @@ Após diversas revisões, Norma foi dividida em quatro partes:
 
 í. ISO/IEC 9126-1: Modelo de Qualidade;
 
-Item. 2. ISO/IEC 9126-2: Métricas Externas;
+2. ISO/IEC 9126-2: Métricas Externas;
 
-Item. 3. ISO/IEC 9126-3: Métricas Internas;
+3. ISO/IEC 9126-3: Métricas Internas;
 
-Item. 4. ISO/IEC 9126-4: Métricas de Qualidade em Uso.
+4. ISO/IEC 9126-4: Métricas de Qualidade em Uso.
 
 Ela permite que a qualidade do produto de software seja especificada e avaliada em
 diferentes
@@ -1565,7 +1532,6 @@ outro para a qualidade em uso, que é apresentado na imagem abaixo composta
 de quatro
 características.
 
-
 Vamos falar sobre a Qualidade Interna e Externa -esse é de longe o modelo que mais
 cai em prova!
 Professor, precisa decorar? Difícil dizer isso, se você tiver tempo sobrando, eu
@@ -1585,7 +1551,6 @@ características e subcaracterísticas podem ser medidas externamente pelo grau 
 capacidade do
 sistema contendo o software.
 
-
 FUNCIONALIDADE
 
 Capacidade do produto de software de prover funções que atendam às necessidades
@@ -1596,29 +1561,24 @@ especificadas.
 MANUTENIBILIDADE, PORTABILIDADE,
 USABILIDADE E CONFIABILIDADE.
 
-
 SUBCARACTERÍSTICA | DESCRIÇÃO
 
 Capacidade do produto de software de prover um conjunto apropriado de funções para
 
-
 ADEQUAÇÃO
 
 tarefas e objetivos do usuário especificados.
-
 
 ACURÁCIA
 
 Capacidade do produto de software de prover, com o grau de precisão necessário,
 resultados ou efeitos corretos ou conforme acordados.
 
-
 INTEROPERABILIDADE
 
 Capacidade do produto de software de interagir com um ou mais
 sistemas
 especificados.
-
 
 SEGURANÇA DE ACESSO
 
@@ -1633,7 +1593,6 @@ o acesso às pessoas ou sistemas autorizados.
 Capacidade do produto de software de estar de acordo com normas, convenções ou
 regulamentações previstas em leis e prescrições similares relacionadas à funcionalidade.
 
-
 CONFIABILIDADE
 
 Capacidade do produto de software de manter um nível de desempenho es
@@ -1643,23 +1602,19 @@ SUBCARACTERÍSTICA | DESCRIÇÃO
 
 Capacidade do produto de software de evitar falhas decorrentes de defeitos no
 
-
 MATURIDADE
 
 software.
-
 
 TOLERÂNCIA A FALHAS
 
 Capacidade do produto de software de manter um nível de desempenho especificado
 em casos de defeitos no software ou de violação de sua interface especificada.
 
-
 RECUPERABILIDADE
 
 Capacidade do produto de software de restabelecer seu nível de desempenho
 especificado e recuperar os dados diretamente afetados no caso de uma falha.
-
 
 CONFORMIDADE
 RELACIONADA À
@@ -1672,14 +1627,12 @@ USABILIDADE Capacidade do produto de software de ser compreendido,
 aprendido, operado e
 atraente ao usuário, quando usado sob condições especificadas.
 
-
 USABILIDADE
 
 Capacidade do produto de software de ser compreendido, aprendido, operado e
 atraente ao usuário, quando usado sob condições especificadas.
 
 SUBCARACTERÍSTICA | DESCRIÇÃO
-
 
 INTELIGIBILIDADE
 
@@ -1691,16 +1644,13 @@ específicas.
 
 Capacidade do produto de software de possibilitarão usuário aprender sua aplicação.
 
-
 OPERACIONALIDADE
 
 Capacidade do produto de software de possibilitarão usuário operá-lo e controlá-lo.
 
-
 ATRATIVIDADE
 
 Capacidade do produto de software de ser atraente ao usuário.
-
 
 CONFORMIDADE
 RELACIONADA À
@@ -1709,14 +1659,12 @@ USABILIDADE
 Capacidade do produto de software de estar de acordo com normas, convenções, guias
 de estilo ou regulamentações relacionadas à usabilidade.
 
-
 EFICIÊNCIA
 
 Capacidade do produto de software de apresentar desempenho apropriado, relativo à
 quantidade de recursos usados, sob condições especificadas.
 
 SUBCARACTERÍSTICA | DESCRIÇÃO
-
 
 COMPORTAMENTO EM
 RELAÇÃO AO TEMPO
@@ -1731,13 +1679,11 @@ executa suas funções, sob condições estabelecidas.
 Capacidade do produto de software de usar tipos e quantidades apropriados de
 recursos, quando o software executa suas funções sob condições estabelecidas.
 
-
 CONFORMIDADE
 RELACIONADA À EFICIÊNCIA
 
 Capacidade do produto de software de estar de acordo com normas e convenções
 relacionadas à eficiência.
-
 
 MANUTENIBILIDADE
 
@@ -1749,17 +1695,14 @@ SUBCARACTERÍSTICA | DESCRIÇÃO
 
 Capacidade do produto de software de permitir o diagnóstico de deficiências ou causas
 
-
 ANALISABILIDADE
 
 de falhas no software, ou a identificação de partes a serem modificadas.
-
 
 MODIFICABILIDADE
 
 Capacidade do produto de software de permitir que uma modificação especificada seja
 implementada.
-
 
 ESTABILIDADE
 
@@ -1769,7 +1712,6 @@ modificações no software.
 TESTABILIDADE Capacidade do produto de software de permitirque o software,
 quando modificado, seja
 validado.
-
 
 CONFORMIDADE
 RELACIONADA À
@@ -1785,7 +1727,6 @@ SUBCARACTERÍSTICA | DESCRIÇÃO
 
 Capacidade do produto de software de ser adaptado para diferentes ambientes
 
-
 ADAPTABILIDADE
 
 CAPACIDADE PARA SER
@@ -1800,7 +1741,6 @@ Capacidade do produto de software para ser instalado em um ambiente especificado
 
 Capacidade do produto de software de coexistir com outros produtos de software
 independentes, em um ambiente comum, compartilhando recursos comuns.
-
 
 CAPACIDADE PARA
 SUBSTITUIR
@@ -1822,11 +1762,9 @@ CARACTERÍSTICA | DESCRIÇÃO
 Capacidade do produto de software de permitir que usuários atinjam
 metas
 
-
 EFICÁCIA
 
 especificadas com acurácia e completude, em um contexto de uso especificado.
-
 
 PRODUTIVIDADE
 
@@ -1903,7 +1841,6 @@ capacidade do
 software de manter o seu nível de desempenho dentro de condições estabelecidas por um dado
 período de tempo - ela é responsável pela confiabilidade do software!
 
-
 RESUMo
 
 QUALIDADE DE SOFTWARE
@@ -1914,7 +1851,6 @@ acordados, conforme avaliado por medidas e critérios acordados, e que é criado
 acordado.
 
 CATEGORIAS DE FATORES DE QUALIDADE DE SOFTWARE (POR MCCALL, RICHARDS E WALTERS)
-
 
 Facilidade de manutenção
 Flexibilidade
@@ -1928,7 +1864,6 @@ Interoperabilidade
 REVISÃO DO PRODUTO TRANSIÇAO DO PRODUTO
 
 OPERAÇAO DO PRODUTO
-
 
 Correção Usabilidade
 
@@ -1959,7 +1894,6 @@ USABILIDADE Esforço necessário para aprender, operar, preparara entrada de dad
 interpretara saída
 de um programa.
 
-
 FACILIDADE DE
 MANUTENÇÃO
 
@@ -1981,12 +1915,10 @@ aplicações.
 
 INTEROPERABILIDADE Esforço necessário para integrar um sistema a outro.
 
-
 FATORES (ISO 91261 | DESCRIÇÃO
 
 Trata-se do grau com que o software satisfaz às necessidades declaradas conforme
 indicado
-
 
 FUNCIONALIDADE
 
@@ -2000,13 +1932,11 @@ Trata-se da quantidade de tempo que o software fica disponível para uso conform
 indicado
 pelos seguintes subatributos: maturidade, tolerância a falhas, facilidade de recuperação.
 
-
 USABILIDADE
 
 Trata-se do grau de facilidade de utilização do software conforme indicado pelos
 seguintes
 subatributos: facilidade de compreensão, facilidade de aprendizagem, operabilidade.
-
 
 EFICIÊNCIA
 
@@ -2030,7 +1960,6 @@ conforme indicado pelos seguintes subatributos: adaptabilidade, facilidade de
 instalação,
 conformidade, facilidade de substituição.
 
-
 c
 
 CONFIABILIDADE
@@ -2040,7 +1969,6 @@ MNEMÓNICO DOS FATORES DE QUALIDADE SEGUNDO AISO 9126
 E
 
 EFICIÊNCIA
-
 
 GARANTIA DE QUALIDADE
 
@@ -2078,7 +2006,6 @@ vida de desenvolvimento de software.
 Controle da qualidade garante que os resultados do seu
 trabalho são os esperados conforme requisitos.
 
-
 VERIFICAÇÃO (DEPENDE DA ESPECIFICAÇÃO)
 
 ESTAMOS CONSTRUINDO O PRODUTO CORRETAMENTE?
@@ -2095,7 +2022,6 @@ EmciricAÇÃo
 
 VERIFICAÇÃO
 REQUKITO!
-
 
 DEFEITO
 
@@ -2137,7 +2063,6 @@ A
 
 UNIVERSO FÍSICO
 
-
 DEFEITO
 ERRO
 
@@ -2150,7 +2075,6 @@ atividade de um processo de software.
 Problema de qualidade descoberto antes de o software ser lançado aos usuários finais
 ou após outra
 atividade de um processo de software.
-
 
 -Adequação
 
@@ -2225,7 +2149,6 @@ substituir
 relacionada à
 Portabilidade
 
-
 FUNCIONALIDADE
 
 Capacidade do produto de software de prover funções que atendam às necessidades
@@ -2244,7 +2167,6 @@ Capacidade do produto de software de interagir com um ou mais
 sistemas
 especificados.
 
-
 SEGURANÇA DE ACESSO
 
 CONFORMIDADE
@@ -2258,7 +2180,6 @@ o acesso às pessoas ou sistemas autorizados.
 Capacidade do produto de software de estar de acordo com normas, convenções ou
 regulamentações previstas em leis e prescrições similares relacionadas à funcionalidade.
 
-
 CONFIABILIDADE
 
 Capacidade do produto de software de manter um nível de desempenho es
@@ -2268,23 +2189,19 @@ SUBCARACTERÍSTICA | DESCRIÇÃO
 
 Capacidade do produto de software de evitar falhas decorrentes de defeitos no
 
-
 MATURIDADE
 
 software.
-
 
 TOLERÂNCIA A FALHAS
 
 Capacidade do produto de software de manter um nível de desempenho especificado
 em casos de defeitos no software ou de violação de sua interface especificada.
 
-
 RECUPERABILIDADE
 
 Capacidade do produto de software de restabelecer seu nível de desempenho
 especificado e recuperar os dados diretamente afetados no caso de uma falha.
-
 
 CONFORMIDADE
 RELACIONADA À
@@ -2297,7 +2214,6 @@ USABILIDADE Capacidade do produto de software de ser compreendido,
 aprendido, operado e
 atraente ao usuário, quando usado sob condições especificadas.
 
-
 USABILIDADE
 
 Capacidade do produto de software de ser compreendido, aprendido, operado e
@@ -2306,7 +2222,6 @@ atraente ao usuário, quando usado sob condições especificadas.
 SUBCARACTERÍSTICA | DESCRIÇÃO
 
 Capacidade do produto de software de possibilitar ao usuário compreender se o
-
 
 INTELIGIBILIDADE
 
@@ -2317,16 +2232,13 @@ específicas.
 
 Capacidade do produto de software de possibilitarão usuário aprender sua aplicação.
 
-
 OPERACIONALIDADE
 
 Capacidade do produto de software de possibilitarão usuário operá-lo e controlá-lo.
 
-
 ATRATIVIDADE
 
 Capacidade do produto de software de ser atraente ao usuário.
-
 
 CONFORMIDADE
 RELACIONADA À
@@ -2339,7 +2251,6 @@ Capacidade do produto de software de apresentar desempenho apropriado, relativo 
 quantidade de recursos usados, sob condições especificadas.
 
 SUBCARACTERÍSTICA | DESCRIÇÃO
-
 
 COMPORTAMENTO EM
 RELAÇÃO AO TEMPO
@@ -2354,13 +2265,11 @@ executa suas funções, sob condições estabelecidas.
 Capacidade do produto de software de usar tipos e quantidades apropriados de
 recursos, quando o software executa suas funções sob condições estabelecidas.
 
-
 CONFORMIDADE
 RELACIONADA À EFICIÊNCIA
 
 Capacidade do produto de software de estar de acordo com normas e convenções
 relacionadas à eficiência.
-
 
 MANUTENIBILIDADE
 
@@ -2372,29 +2281,24 @@ SUBCARACTERÍSTICA | DESCRIÇÃO
 
 Capacidade do produto de software de permitir o diagnóstico de deficiências ou causas
 
-
 ANALISABILIDADE
 
 de falhas no software, ou a identificação de partes a serem modificadas.
-
 
 MODIFICABILIDADE
 
 Capacidade do produto de software de permitir que uma modificação especificada seja
 implementada.
 
-
 ESTABILIDADE
 
 Capacidade do produto de software de evitar efeitos inesperados decorrentes de
 modificações no software.
 
-
 TESTABILIDADE
 
 Capacidade do produto de software de permitirque o software, quando modificado, seja
 validado.
-
 
 CONFORMIDADE
 RELACIONADA À
@@ -2403,13 +2307,11 @@ MANUTENIBILIDADE
 Capacidade do produto de software de estar de acordo com normas ou convenções
 relacionadas à manutenibilidade.
 
-
 PORTABILIDADE
 
 Capacidade do produto de software de sertransferido de um ambiente para outro.
 
 SUBCARACTERÍSTICA | DESCRIÇÃO
-
 
 ADAPTABILIDADE
 
@@ -2445,11 +2347,9 @@ QUALIDADE EM USO | DESCRIÇÃO
 Capacidade do produto de software de permitir que usuários atinjam
 metas
 
-
 EFICÁCIA
 
 especificadas com acurácia e completude, em um contexto de uso especificado.
-
 
 PRODUTIVIDADE
 
@@ -2469,7 +2369,6 @@ Capacidade do produto de software de satisfazer usuários, em um contexto de uso
 especificado.
 
 H PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
-
 
 ANÁLISE ESTÁTICA DE CóDICo-FoNTE
 
@@ -2537,7 +2436,6 @@ pela ferramenta; já o teste dinâmico executa o software. Análise estática po
 em outros casos é executada no
 código-objeto (i.e., código de máquina ou de montagem).
 
-
 que são dificilmente encontrados em testes. Como as revisões, a análise estática
 encontra defeitos
 ao invés de falhas.
@@ -2577,7 +2475,6 @@ Falta de lógica ou lógica errada (loops infinitos).
 Construções excessivamente complicadas.
 
 Violação de padrões de programação.
-
 
 Vulnerabilidade na segurança.
 Violação de sintaxe e de modelos.
@@ -2700,7 +2597,6 @@ um erro na fase de testes custa dez vezes mais do que na fase de implementação
 Revisão de Código, em geral,
 refere-se à análise feita por programadores.
 
-
 Time
 Introduced
 
@@ -2712,13 +2608,11 @@ Requirements Architecture Construction System Test Post-Release
 
 1 3 5-10 10 10-100
 
-
 Architecture -
 
 1 10
 
 15 25-100
-
 
 Construction -
 
@@ -2750,7 +2644,6 @@ práticas ágeis não podem ser consideradas completas e eficientes. Bacana? Iss
 tema de
 discursiva!
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) Os principais recursos de um sistema de
@@ -2773,7 +2666,7 @@ que os usuários possam reverter para versões anteriores, se necessário.
 
 Gabarito: Correto
 
-Item. 2. (CESPE / BANRISUL - 2022) De acordo com a SQA (Software Quality Assurance),
+2. (CESPE / BANRISUL - 2022) De acordo com a SQA (Software Quality Assurance),
 correção,
 completude e consistência do modelo de requisitos são características da qualidade do
 código
@@ -2791,7 +2684,7 @@ forte influência sobre a qualidade de todos os produtos seguintes.
 
 Gabarito: Errado
 
-Item. 3. (CESPE / BANRISUL - 2022) Define-se confiabilidade de software como a
+3. (CESPE / BANRISUL - 2022) Define-se confiabilidade de software como a
 probabilidade de
 operação, sem falhas, de um programa de computador em dado ambiente por
 determinado
@@ -2804,7 +2697,6 @@ funcionar sem
 ocorrência de falhas num período e ambiente especificados.
 
 Gabarito: Correto
-
 
 4- (CESPE I BANRISUL - 2022) A revisão por pares é uma forma de análise da
 causa-raiz, na qual
@@ -2824,7 +2716,7 @@ definir uma meta ou efeito arquitetural.
 
 Gabarito: Errado
 
-Item. 5. (CESPE / BANRISUL- 2022) O cálculo do custo da qualidade engloba os custos
+5. (CESPE / BANRISUL- 2022) O cálculo do custo da qualidade engloba os custos
 necessários para
 a execução de atividades relacionadas à qualidade, mas não os custos gerados pela
 falta de
@@ -2842,7 +2734,7 @@ redução.
 
 Gabarito: Errado
 
-Item. 6. (CESPE/ BANRISUL-2022) Entre as atividades que ajudam uma equipe a atingiro alto
+6. (CESPE/ BANRISUL-2022) Entre as atividades que ajudam uma equipe a atingiro alto
 padrão
 de qualidade de software, a garantia da qualidade é aquela que engloba um conjunto de
 ações
@@ -2860,14 +2752,13 @@ software que contribui para que cada produto resultante atinja suas metas de qua
 
 Gabarito: Errado
 
-Item. 7. (CESPE / BANRISUL-2022) Funcionalidade, atributo fundamental de qualidade para
+7. (CESPE / BANRISUL-2022) Funcionalidade, atributo fundamental de qualidade para
 software,
 é aquele que avalia o grau com que o software satisfaz às necessidades declaradas por
 seus
 subatributos, tais quais adequabilidade, exatidão, interoperabilidade,
 conformidade e
 segurança.
-
 
 Comentários:
 
@@ -2883,7 +2774,7 @@ nomes, mas está perfeita!
 
 Gabarito: Correto
 
-Item. 8. (CESPE / BANRISUL-2022) O DFR (Design For Reuse) deve ser considerado quando se
+8. (CESPE / BANRISUL-2022) O DFR (Design For Reuse) deve ser considerado quando se
 inicia a
 criação de um novo componente.
 
@@ -2901,7 +2792,7 @@ criação de um novo componente.
 
 Gabarito: Correto
 
-Item. 9. (CESPE / BANRISUL - 2022) O padrão ISO 9126, desenvolvido como tentativa de
+9. (CESPE / BANRISUL - 2022) O padrão ISO 9126, desenvolvido como tentativa de
 identificar os
 atributos fundamentais de qualidade de software para computador, identifica
 estes seis
@@ -3042,7 +2933,6 @@ Vocês já imaginaram as melhores ferramentas nas mãos de uma equipe ruim? Ou u
 um
 processo ruim? Pois é, não! Pessoas, processos e ferramentas devem andar juntas.
 
-
 Gabarito: Letra E
 
 i8.(CESPE / INMETRO - 2009) Um modelo para a avaliação contínua de capacidade de
@@ -3058,7 +2948,6 @@ NBR ISO/IEC 9126.
 
 Gabarito: Errado
 
-
 PSP
 
 People
@@ -3070,7 +2959,7 @@ SCE— '
 
 IEEE Stds. 730,828
 
-Item. 829. 830,1012,1016
+829. 830,1012,1016
 
 MIL-Q
 
@@ -3083,7 +2972,6 @@ DOD-^TD
 
 -2167A
 
-
 15504'
 
 \ (SPICE)
@@ -3093,7 +2981,6 @@ DOD-^TD
 DOD-STD
 
 -7935A
-
 
 FAA-
 iCMM
@@ -3131,7 +3018,6 @@ IA/IEEE
 J-STD-016
 
 IEEE/EIA
-
 
 1220 EIA/IS
 
@@ -3171,7 +3057,6 @@ Na verdade, estava disponível - ela é de 1991! É ridículo cobrar datas em pr
 
 Gabarito: Errado
 
-
 2o.(CESPE / STJ -2015) A manutenibilidade é atributo de qualidade externa que pode ser
 medida
 por atributos internos, como a profundidade da árvore de herança e
@@ -3198,7 +3083,6 @@ Código; e Tamanho do Manuel de Usuário. Entendido?
 
 Externai Quality Attributes Internai Attributes
 
-
 No entanto, o enunciado dessa questão fala efetivamente sobre ISO/IEC 9126! Logo, a
 questão
 deveria ter sido anulada!
@@ -3212,7 +3096,6 @@ Comentários:
 
 QUALIDADE INTERNA E EXTERNA
 
-
 FUNCIONALIDADE
 
 T
@@ -3220,7 +3103,6 @@ T
 CONFIABILIDADE
 
 PORTABILIDADE
-
 
 - Adequação
 
@@ -3303,7 +3185,7 @@ possibilitar ao usuário aprender sua aplicação.
 
 Gabarito: Errado
 
-Item. 22. (CESPE/STJ-2015) A funcionalidade e a usabilidade, características dos atributos de
+22. (CESPE/STJ-2015) A funcionalidade e a usabilidade, características dos atributos de
 qualidade
 de software, possuem como subcaracterísticas, respectivamente, a
 operacionalidade e a
@@ -3311,10 +3193,8 @@ interoperabilidade.
 
 Comentários:
 
-
 FUNCIONALIDADE
 PORTABILIDADE
-
 
 - Adequação
 
@@ -3397,7 +3277,7 @@ interoperabilidade e a operacionalidade.
 
 Gabarito: Errado
 
-Item. 23. (CESPE / STF - 2013) A qualidade de software abrange apenas os aspectos internos
+23. (CESPE / STF - 2013) A qualidade de software abrange apenas os aspectos internos
 e externos
 decorrentes do uso e, portanto, pode ser medida durante a utilização do software por
 parte do
@@ -3428,7 +3308,6 @@ esse termo
 no substituiu esse outro termo. Terceiro, é ridículo cobrar em prova a origem de termos...
 
 Gabarito: Errado
-
 
 25-(CESPE / TCE-PR - 2016) De acordo com a norma ISO/IEC 9126, os atributos de qualidade de
 software referentes às características de usabilidade são:
@@ -3472,7 +3351,6 @@ Comentários:
 ACURÁCIA Capacidade do produto de software de prover, com o grau de precisão necessário,
 resultados
 ou efeitos corretos ou conforme acordados.
-
 
 Acurácia trata da capacidade do produto de software de prover, com o grau de precisão
 necessário,
@@ -3518,7 +3396,6 @@ e) usabilidade.
 
 Comentários:
 
-
 EFICIÊNCIA
 
 Capacidade do produto de software de apresentar desempenho apropriado, relativo à
@@ -3529,7 +3406,6 @@ desempenho
 apropriado, relativo à quantidade de recursos usados, sob condições especificadas é a Eficiência.
 
 Gabarito: Letra B
-
 
 2g.(CESPE / TRE-BA - 2017) As normas da série ISO/IEC 9126 estabelecem como medidas da
 qualidade de software características como: funcionalidade, confiabilidade,
@@ -3562,7 +3438,6 @@ as métricas de qualidade em uso.
 
 Comentários:
 
-
 Recursos
 e
 ambiente
@@ -3577,7 +3452,6 @@ ftware
 Efeitos do
 produto de
 software
-
 
 / X
 
@@ -3686,7 +3560,6 @@ c) satisfação.
 
 d) analisabilidade.
 
-
 e) produtividade.
 
 Comentários:
@@ -3695,17 +3568,14 @@ CARACTERÍSTICA I DESCRIÇÃO
 
 Capacidade do produto de software de permitir que usuários atinjam metas especificadas
 
-
 EFICÁCIA
 
 com acurácia e completude, em um contexto de uso especificado.
-
 
 PRODUTIVIDADE
 
 Capacidade do produto de software de permitir que seus usuários empreguem quantidade
 apropriada de recursos em relação à eficácia obtida, em um contexto de uso especificado.
-
 
 SEGURANÇA
 
@@ -3725,7 +3595,6 @@ atinjam metas
 especificadas com acurácia e completude, em um contexto de uso especificado.
 
 Gabarito: Letra B
-
 
 QUESTõES CoMENTADAS - FCC
 
@@ -3763,7 +3632,7 @@ um requisito não-funcional que deve ser incluído na preocupação com a qualid
 
 Gabarito: Letra B
 
-Item. 2. (FCC / AFR-SP - 2009) Na prática de garantia de qualidade de software, contrapondo
+2. (FCC / AFR-SP - 2009) Na prática de garantia de qualidade de software, contrapondo
 com o
 controle de qualidade de software, se aplica a atividade:
 
@@ -3788,7 +3657,6 @@ medição, que
 tem função de melhorar o processo de software.
 
 Gabarito: Letra D
-
 
 3- (FCC / TRE-SE - 2007) Considere as questões chave apresentadas na seguinte tabela, com o
 enfoque da ISO 9126 (NBR 13596) ? Qualidade de Software
@@ -3837,7 +3705,7 @@ para tarefas e objetivos do usuário especificados.
 
 Gabarito: Letra C
 
-Item. 4. (FCC / TJ-PE - 2012) No contexto dos atributos de qualidade de software, considere:
+4. (FCC / TJ-PE - 2012) No contexto dos atributos de qualidade de software, considere:
 
 I. A resiliência é a capacidade de o sistema voltar ao nível de desempenho anterior
 a falhas ou
@@ -3851,7 +3719,6 @@ de tempo
 especificado e ao fato do software exigir mais ou menos recursos de acordo com suas
 condições
 de uso.
-
 
 III. A analisabilidade é o grau de facilidade, com qual seja possível procurar por
 deficiências no
@@ -3891,9 +3758,7 @@ alguns nomes diferentes da norma: resiliência e recuperabilidade; e comportamen
 relação ao
 tempo e desempenho. Logo, eu acredito que caberia recurso nessa questão.
 
-
 Gabarito: Letra D
-
 
 QUESTõES CoMENTADAS - FCV
 
@@ -3930,7 +3795,7 @@ computação.
 
 Gabarito: Letra D
 
-Item. 2. (FGV / MEC - 2009) Analise a citação a seguir.
+2. (FGV / MEC - 2009) Analise a citação a seguir.
 
 "Um conjunto de atributos que têm impacto na capacidade do software de manter o seu
 nível de
@@ -3951,7 +3816,6 @@ e) MPS.BR.
 
 Comentários:
 
-
 A questão fala de atributos que têm impacto na capacidade do software de manter seu
 nível de
 desempenho. O que isso quer dizer, galera? Qualidade de Software! Um software que
@@ -3960,7 +3824,7 @@ nível de desempenho é um software de qualidade!
 
 Gabarito: Anulada
 
-Item. 3. (FGV / MEC-2009) Entre os critérios de qualidade da Norma ISO 9126 não se inclui:
+3. (FGV / MEC-2009) Entre os critérios de qualidade da Norma ISO 9126 não se inclui:
 
 a) a manutenibilidade.
 
@@ -3978,7 +3842,7 @@ Não existe utilizabilidade nem eficicácia e, por isso, a questão foi anulada.
 
 Gabarito: Anulada
 
-Item. 4. (FGV / DETRAN-RN - 2010) Assinale a alternativa que NÃO contém somente atributos
+4. (FGV / DETRAN-RN - 2010) Assinale a alternativa que NÃO contém somente atributos
 para
 características externas e internas do modelo de qualidade de software, definido na
 ISO/IEC
@@ -3993,14 +3857,13 @@ d) Funcionalidade, usabilidade, portabilidade.
 
 e) Eficiência, manutenibilidade, portabilidade.
 
-
 Comentários:
 
 Não existe o atributo chamado de Alta Gerência.
 
 Gabarito: Letra C
 
-Item. 5. (FGV / ALERJ - 2017) Um sistema está sendo desenvolvido por uma empresa
+5. (FGV / ALERJ - 2017) Um sistema está sendo desenvolvido por uma empresa
 terceirizada para
 apoiar as vendas de um mercado varejista da Grande São Paulo denominado
 "Mendes Sá
@@ -4023,7 +3886,6 @@ e) Manutenibilidade e eficiência.
 
 Comentários:
 
-
 MANUTENIBILIDADE
 
 CONFIABILIDADE
@@ -4045,7 +3907,6 @@ Logo, há uma
 necessidade inerente de que o código seja confiável.
 
 Gabarito: Letra B
-
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -4096,7 +3957,7 @@ maior o valor de um índice Fog de um documento, mais difícil a sua compreensã
 
 Gabarito: Letra E
 
-Item. 2. (IDECAN / BANESTES -2012) A garantia da qualidade de software compreende uma
+2. (IDECAN / BANESTES -2012) A garantia da qualidade de software compreende uma
 variedade
 de tarefas associadas a atividades como
 
@@ -4107,7 +3968,6 @@ II. aplicação de métodos técnicos.
 III. aplicação de padrões.
 
 IV. controle de mudanças.
-
 
 V. medição.
 
@@ -4132,7 +3992,7 @@ nenhuma relação com qualidade.
 
 Gabarito: Letra A
 
-Item. 3. (FUNIVERSA / CEB - 2010) Qualidade de software é uma área da engenharia de
+3. (FUNIVERSA / CEB - 2010) Qualidade de software é uma área da engenharia de
 software que
 tem como objetivo garantir a qualidade pela definição e normatização dos
 processos de
@@ -4172,7 +4032,7 @@ processo de desenvolvimento.
 
 Gabarito: Letra A
 
-Item. 4. (CONSULPLAN / Prefeitura de Santa Maria Madalena - 2010) São
+4. (CONSULPLAN / Prefeitura de Santa Maria Madalena - 2010) São
 categorias de
 características principais de qualidade de software, segundo a Norma (ISO/IEC
 9126: NBR
@@ -4196,7 +4056,7 @@ Funcionalidade, Confiabilidade, Usabilidade, Eficiência, Manutenibilidade e Por
 
 Gabarito: Letra B
 
-Item. 5. (COVEST/ UFPE -2013) A norma ISO/IEC 9126 é um padrão internacional para a
+5. (COVEST/ UFPE -2013) A norma ISO/IEC 9126 é um padrão internacional para a
 qualidade de
 software, a qual é composta de uma série de características. Sobre essa norma, é
 correto afirmar
@@ -4205,7 +4065,6 @@ que:
 a) descreve seis características relacionadas à qualidade de software, e como
 elas devem ser
 medidas.
-
 
 b) compatibilidade é uma das características, que é composta por duas
 subcaracterísticas:
@@ -4239,7 +4098,7 @@ Correto.
 
 Gabarito: Letra E
 
-Item. 6. (IADES / EBSERH - 2013) De acordo com o padrão de qualidade ISO 9126, são identificados seis
+6. (IADES / EBSERH - 2013) De acordo com o padrão de qualidade ISO 9126, são identificados seis
 atributos fundamentais da qualidade. Sobre o tema, assinale a alternativa correta.
 
 a) A usabilidade diz respeito à quantidade de tempo, que o software fica disponível para uso.
@@ -4263,10 +4122,9 @@ Errado, a disponibilidade não é um atributo de qualidade da ISO/IEC 9126; (d) 
 (e) Errado,
 confidencialidade não é um atributo da ISO/IEC 9126.
 
-
 Gabarito: Letra D
 
-Item. 7. (UFF / DATAPREV - 2008) A norma ISO 9.126 foi desenvolvida para identificar
+7. (UFF / DATAPREV - 2008) A norma ISO 9.126 foi desenvolvida para identificar
 atributos de
 qualidade para software de computador. O período de tempo em que o software está
 disponível
@@ -4292,7 +4150,7 @@ a falhas, logo trata-se da confiabilidade!
 
 Gabarito: Letra B
 
-Item. 8. (QUADRIX / COBRA - 2015) De acordo com a norma ISO/IEC 9126, a qualidade do
+8. (QUADRIX / COBRA - 2015) De acordo com a norma ISO/IEC 9126, a qualidade do
 produto
 software está relacionada às seguintes características: Funcionalidade,
 Confiabilidade,
@@ -4303,7 +4161,6 @@ correta.
 a) A Manutenibilidade diz que o produto de software deve ser capaz de manter
 seu nível de
 desempenho, ao longo do tempo, nas condições estabelecidas.
-
 
 b) A Confiabilidade está relacionada ao esforço necessário para a utilização do
 sistema, baseado
@@ -4323,7 +4180,6 @@ outro.
 
 Comentários:
 
-
 FUNCIONALIDADE
 
 Capacidade do produto de software de prover funções que atendam às necessidades
@@ -4338,7 +4194,7 @@ especificadas.
 
 Gabarito: Letra D
 
-Item. 9. (IDECAN / AGU - 2014) "Detalhes da qualidade do produto de software podem ser
+9. (IDECAN / AGU - 2014) "Detalhes da qualidade do produto de software podem ser
 melhorados
 durante a implementação do código, revisão e teste, mas a natureza fundamental da
 qualidade do
@@ -4364,7 +4220,6 @@ qualidade interna.
 Detalhes da qualidade do produto de software podem ser melhorados durante a
 implementação
 do código, revisão e teste. A questão trata da qualidade interna...
-
 
 Gabarito: Letra A
 
@@ -4424,12 +4279,11 @@ e) Funcionalidade
 
 Comentários:
 
-
 A acurácia é uma subcaracterística de funcionalidade.
 
 Gabarito: Letra E
 
-Item. 12. (CESGRANRIO / CHESF - 2012) Dentre os atributos de um software de qualidade, incluem-se:
+12. (CESGRANRIO / CHESF - 2012) Dentre os atributos de um software de qualidade, incluem-se:
 
 a) controlabilidade, dependabilidade e eficiência
 b) controlabilidade, eficiência e manutenibilidade
@@ -4439,18 +4293,16 @@ e) imutabilidade, manutenibilidade e usabilidade
 
 Comentários:
 
-
 A única opção em que todos os itens são atributos de qualidade são: eficiência,
 manutenibilidade e
 usabilidade.
 
 Gabarito: Letra D
 
-
 QUESTõES CoMENTADAS - ANÁLISE ESTÁTICA DE CóDIGo-
 FoNTE - MULTIBANCAS
 
-Item. 1. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas - B) Ferramentas de análise estática
+1. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas - B) Ferramentas de análise estática
 do código permitem obter métricas de qualidade de um produto de software, tais como o grau
 de dependência entre seus componentes.
 
@@ -4462,7 +4314,7 @@ estática de código. Entre as métricas de qualidade de software, podemos citar
 o acoplamento,
 que mede o grau de dependência entre componentes de um software. Gabarito: C
 
-Item. 2. (CESPE - 2010 - INMETRO - Analista de Sistemas - E) Teste é uma abordagem de controle de
+2. (CESPE - 2010 - INMETRO - Analista de Sistemas - E) Teste é uma abordagem de controle de
 qualidade de um software, e o teste pode ser desenvolvido por meio de técnicas de
 análise
 estática de código, embora sejam mais comuns as técnicas dinâmicas, incluindo simulação.
@@ -4481,7 +4333,7 @@ dinâmicas também! Portanto, na minha opinião, é impossível dizer - logo
 caberia recurso!
 Gabarito: E
 
-Item. 3. (CESPE - 2010 - TCU - Analista de Sistemas) No projeto a ser desenvolvido, será
+3. (CESPE - 2010 - TCU - Analista de Sistemas) No projeto a ser desenvolvido, será
 apropriado
 adotar a revisão estática de código, pois tal abordagem produz resultados precisos, objetivos e
 completos acerca do grau de vulnerabilidade do código analisado, especialmente quando se
@@ -4494,8 +4346,7 @@ Completos? Não! Já vimos que todos os testes têm limitações. Um alto grau
 de qualidade é
 alcançado quando temos a combinação de vários métodos. Gabarito: E
 
-
-Item. 4. (FCC - 2007 - TRF/4 - Analista de Sistemas) Os requisitos específicos dos usuários, que sugerem
+4. (FCC - 2007 - TRF/4 - Analista de Sistemas) Os requisitos específicos dos usuários, que sugerem
 os casos de teste que os colocarão à prova, são isolados por Ferramentas CASE de testes para:
 
 a) Gerenciamento de testes.
@@ -4518,7 +4369,7 @@ ambos são utilizados. Portanto, os requisitos do usuário são feitos por ferra
 CASE de testes
 para Análise Estática. Gabarito: C
 
-Item. 5. (CESPE - 2016 - TCE/SC - Analista de Sistemas) As técnicas estáticas de verificação centram-se
+5. (CESPE - 2016 - TCE/SC - Analista de Sistemas) As técnicas estáticas de verificação centram-se
 na análise manual ou automatizada do código-fonte do programa, enquanto a validação
 dinâmica tem por objetivo identificar defeitos no programa e demonstrar se ele atende a seus
 requisitos.
@@ -4531,7 +4382,6 @@ o programa); já técnicas de validação dinâmica executam o software para
 encontrar defeitos e
 demonstrar se ele atende aos seus requisitos. Gabarito: C
 
-
 LISTA DE QUESTõES - CESPE
 
 í. (CESPE / BANRISUL-2022) Os principais recursos de um sistema de controle de versão
@@ -4540,31 +4390,31 @@ um repositório de dados que armazena todos os objetos de configuração
 relevantes e um
 recurso de gestão de versão que armazena todas as versões de um objeto de configuração.
 
-Item. 2. (CESPE / BANRISUL - 2022) De acordo com a SQA (Software Quality Assurance),
+2. (CESPE / BANRISUL - 2022) De acordo com a SQA (Software Quality Assurance),
 correção,
 completude e consistência do modelo de requisitos são características da qualidade do
 código
 que influenciam a qualidade de todos os produtos.
 
-Item. 3. (CESPE / BANRISUL - 2022) Define-se confiabilidade de software como a
+3. (CESPE / BANRISUL - 2022) Define-se confiabilidade de software como a
 probabilidade de
 operação, sem falhas, de um programa de computador em dado ambiente por
 determinado
 tempo.
 
-Item. 4. (CESPE / BANRISUL - 2022) A revisão por pares é uma forma de análise da
+4. (CESPE / BANRISUL - 2022) A revisão por pares é uma forma de análise da
 causa-raiz, na qual
 a equipe define uma meta ou efeito arquitetural e, então, enuncia as ações
 relacionadas para o
 alcance da meta.
 
-Item. 5. (CESPE / BANRISUL-2022) O cálculo do custo da qualidade engloba os custos
+5. (CESPE / BANRISUL-2022) O cálculo do custo da qualidade engloba os custos
 necessários para
 a execução de atividades relacionadas à qualidade, mas não os custos gerados pela
 falta de
 qualidade.
 
-Item. 6. (CESPE / BANRISUL - 2022) Entre as atividades que ajudam uma equipe a atingir o
+6. (CESPE / BANRISUL - 2022) Entre as atividades que ajudam uma equipe a atingir o
 alto padrão
 de qualidade de software, a garantia da qualidade é aquela que engloba um conjunto de
 ações
@@ -4572,7 +4422,7 @@ de engenharia de software que contribui para que cada produto resultante atinja 
 metas de
 qualidade.
 
-Item. 7. (CESPE/BANRISUL-2022) Funcionalidade, atributo fundamental de qualidade para
+7. (CESPE/BANRISUL-2022) Funcionalidade, atributo fundamental de qualidade para
 software,
 é aquele que avalia o grau com que o software satisfaz às necessidades declaradas por
 seus
@@ -4580,11 +4430,11 @@ subatributos, tais quais adequabilidade, exatidão, interoperabilidade,
 conformidade e
 segurança.
 
-Item. 8. (CESPE / BANRISUL-2022) O DFR (Design For Reuse) deve ser considerado quando se
+8. (CESPE / BANRISUL-2022) O DFR (Design For Reuse) deve ser considerado quando se
 inicia a
 criação de um novo componente.
 
-Item. 9. (CESPE / BANRISUL - 2022) O padrão ISO 9126, desenvolvido como tentativa de
+9. (CESPE / BANRISUL - 2022) O padrão ISO 9126, desenvolvido como tentativa de
 identificar os
 atributos fundamentais de qualidade de software para computador, identifica
 estes seis
@@ -4592,10 +4442,9 @@ atributos fundamentais de qualidade: a funcionalidade, a confiabilidade, a
 usabilidade, a
 eficiência, a facilidade de manutenção e a portabilidade.
 
-Item. 10. (CESPE / BANRISUL-2022) A portabilidade, atributo fundamental de qualidade do padrão
+10. (CESPE / BANRISUL-2022) A portabilidade, atributo fundamental de qualidade do padrão
 ISO
 9126, refere-se ao grau de otimização do uso, pelo software, dos recursos do sistema.
-
 
 n.(CESPE / BANRISUL - 2022) As características operacionais, a capacidade de
 suportar
@@ -4603,11 +4452,11 @@ mudanças e a adaptabilidade a novos ambientes são os aspectos de um produto de
 software em
 que se concentra a categorização dos fatores que afetam a qualidade de software.
 
-Item. 12. (CESPE/ BANRISUL-2022) A usabilidade é um atributo de qualidade de um projeto que
+12. (CESPE/ BANRISUL-2022) A usabilidade é um atributo de qualidade de um projeto que
 avalia
 se ele fornece os recursos que os usuários precisam.
 
-Item. 13. (CESPE / SERPRO - 2010) A garantia de qualidade tem como objetivo testar os
+13. (CESPE / SERPRO - 2010) A garantia de qualidade tem como objetivo testar os
 produtos de
 software de modo a identificar, relatar e remover os defeitos encontrados, enquanto o
 controle
@@ -4615,7 +4464,7 @@ da qualidade provê a gerência sênior da organização com a visibilidade
 apropriada sobre o
 processo de desenvolvimento.
 
-Item. 14. (CESPE/SERPRO-2010) Um processo de gerenciamento da qualidade do projeto
+14. (CESPE/SERPRO-2010) Um processo de gerenciamento da qualidade do projeto
 tipicamente
 visa garantir e controlar a qualidade. No controle da qualidade, são
 executadas atividades
@@ -4629,26 +4478,25 @@ os padrões relevantes de qualidade e procura identificar meios para eliminar
 as causas de
 resultados que sejam insatisfatórios.
 
-Item. 15. (CESPE / MEC - 2015) A qualidade deve ser inserida em etapas específicas do
+15. (CESPE / MEC - 2015) A qualidade deve ser inserida em etapas específicas do
 ciclo de vida do
 produto de software.
 
-Item. 16. (CESPE / TCE-RO - 2013) Controle, planejamento e garantia de qualidade são
+16. (CESPE / TCE-RO - 2013) Controle, planejamento e garantia de qualidade são
 atividades do
 gerenciamento de qualidade; o controle de qualidade estabelece procedimentos e padrões
 que
 objetivam o desenvolvimento de software com qualidade.
 
-Item. 17. (CESPE / BASA-2010) Para garantir o desenvolvimento de qualidade, é suficiente que
+17. (CESPE / BASA-2010) Para garantir o desenvolvimento de qualidade, é suficiente que
 a equipe
 tenha as ferramentas mais atuais de engenharia de software e os melhores computadores.
 
-Item. 18. (CESPE / INMETRO - 2009) Um modelo para a avaliação contínua de capacidade de
+18. (CESPE / INMETRO - 2009) Um modelo para a avaliação contínua de capacidade de
 processos
 é descrito na norma NBR ISO/IEC 9126, que deriva do ciclo da melhoria contínua
 presente na
 norma ISO 9001.
-
 
 PSP
 
@@ -4682,7 +4530,6 @@ DOD-^TD
 -2167A
 
 DOD-STD
-
 
 \
 FAA-
@@ -4725,7 +4572,6 @@ J-STD-016
 
 IEEE/EIA
 
-
 1220 EIA/IS
 
 MIL-STD 632 .
@@ -4758,36 +4604,35 @@ manutenibilidade e portabilidade, não figura no mapa porque, principalmente, n�
 estava
 disponível à época.
 
-Item. 20. (CESPE / STJ - 2015) A manutenibilidade é atributo de qualidade externa que pode
+20. (CESPE / STJ - 2015) A manutenibilidade é atributo de qualidade externa que pode
 ser medida
 poratributos internos, como a profundidade da árvore de herança e a complexidade ciclomática.
 
-Item. 21. (CESPE / STJ - 2015) A apreensibilidade cuida da capacidade de o usuário
+21. (CESPE / STJ - 2015) A apreensibilidade cuida da capacidade de o usuário
 compreender se o
 software é apropriado e como este pode ser usado para a tarefa e as condições específicas.
 
-Item. 22. (CESPE/STJ-2015) A funcionalidade e a usabilidade, características dos atributos de
+22. (CESPE/STJ-2015) A funcionalidade e a usabilidade, características dos atributos de
 qualidade
 de software, possuem como subcaracterísticas, respectivamente, a
 operacionalidade e a
 interoperabilidade.
 
-Item. 23. (CESPE / STF - 2013) A qualidade de software abrange apenas os aspectos internos
+23. (CESPE / STF - 2013) A qualidade de software abrange apenas os aspectos internos
 e externos
 decorrentes do uso e, portanto, pode ser medida durante a utilização do software por
 parte do
 usuário.
 
-Item. 24. (CESPE / STF- 2013) Do ponto de vista histórico, o termo usabilidade evoluiu a
+24. (CESPE / STF- 2013) Do ponto de vista histórico, o termo usabilidade evoluiu a
 partir do termo
 qualidade em uso, que, por sua vez, substituiu o termo interface amigável,
 principalmente
 devido à pouca abrangência e subjetividade que estes últimos sugeriam.
 
-Item. 25. (CESPE / TCE-PR - 2016) De acordo com a norma ISO/IEC 9126, os atributos de
+25. (CESPE / TCE-PR - 2016) De acordo com a norma ISO/IEC 9126, os atributos de
 qualidade de
 software referentes às características de usabilidade são:
-
 
 a) inteligibilidade, analisabilidade, conformidade e adaptabilidade.
 
@@ -4799,19 +4644,19 @@ d) acessibilidade, estética, atratividade, inteligibilidade e apreensibilidade.
 
 e) segurança de acesso, maturidade, atratividade e adaptabilidade.
 
-Item. 26. (CESPE /TCE-PR-2016) A norma NBR ISO/IEC 9126 define acurácia como a capacidade de
+26. (CESPE /TCE-PR-2016) A norma NBR ISO/IEC 9126 define acurácia como a capacidade de
 um
 software fornecer resultados com o grau necessário de precisão, sendo, por isso,
 considerada
 parte integrante da funcionalidade de um software.
 
-Item. 27. (CESPE / TCE-PR - 2016) Em vez de ser estimada com base na qualidade interna, a
+27. (CESPE / TCE-PR - 2016) Em vez de ser estimada com base na qualidade interna, a
 qualidade
 externa do software deve ser avaliada a partir das características do produto pelo
 ponto de vista
 externo, segundo a norma NBR ISO/IEC 9126.
 
-Item. 28. (CESPE /TRE-PE - 2017) A ISO barra IEC 9126 descreve uma das características do
+28. (CESPE /TRE-PE - 2017) A ISO barra IEC 9126 descreve uma das características do
 modelo de
 qualidade de software como capacidade do produto de software de apresentar
 desempenho
@@ -4854,12 +4699,11 @@ d) A série 14598 considera as métricas de qualidade internas, mas a série 912
 considera as
 métricas externas nem as de qualidade em uso.
 
-
 e) As séries 9126 e 14598 consideram tanto as métricas de qualidade internas e externas
 quanto
 as métricas de qualidade em uso.
 
-Item. 30. (CESPE / TRE-BA - 2017) Um gestor de desenvolvimento de software ficou responsável
+30. (CESPE / TRE-BA - 2017) Um gestor de desenvolvimento de software ficou responsável
 por
 avaliar a qualidade de determinado software. Nessa avaliação, ele
 utilizou atributos
@@ -4878,7 +4722,7 @@ d) maturidade e confiabilidade.
 
 e) inteligibilidade e usabilidade.
 
-Item. 31. (CESPE/TRE-BA-2017) Um usuário avaliou um software sob o ponto de vista da
+31. (CESPE/TRE-BA-2017) Um usuário avaliou um software sob o ponto de vista da
 qualidade em
 uso, em complemento à medição de qualidade interna e externa do referido
 software. O
@@ -4898,40 +4742,38 @@ d) analisabilidade.
 
 e) produtividade.
 
-
 GABARITo
 
-Item. 1. CORRETO 12. ERRADO
+1. CORRETO 12. ERRADO
 23- ERRADO
 
-Item. 2. ERRADO 13- ERRADO
-Item. 24. ERRADO
+2. ERRADO 13- ERRADO
+24. ERRADO
 
 3- CORRETO 14. ERRADO
 25- LETRA D
 
 4- ERRADO 15- ERRADO
-Item. 26. CORRETO
+26. CORRETO
 
 5- ERRADO 16. ERRADO
 27- CORRETO
 
-Item. 6. ERRADO 17- LETRA E
-Item. 28. LETRA B
+6. ERRADO 17- LETRA E
+28. LETRA B
 
 7- CORRETO 18. ERRADO
-Item. 29. LETRA E
+29. LETRA E
 
-Item. 8. CORRETO 19- ERRADO
-Item. 30. LETRA C
+8. CORRETO 19- ERRADO
+30. LETRA C
 
 9- CORRETO 20. CORRETO
 3i- LETRA B
 
-Item. 10. ERRADO 21. ERRADO
+10. ERRADO 21. ERRADO
 
 íi. CORRETO 22. ERRADO
-
 
 LISTA DE QUESTõES - FCC
 
@@ -4951,7 +4793,7 @@ d) não há preocupação com a facilidade de manutenção do software.
 
 e) não se inclui a confiabilidade esperada do software.
 
-Item. 2. (FCC / AFR-SP - 2009) Na prática de garantia de qualidade de software,
+2. (FCC / AFR-SP - 2009) Na prática de garantia de qualidade de software,
 contrapondo com o
 controle de qualidade de software, se aplica a atividade:
 
@@ -4965,7 +4807,7 @@ d) Definir métricas e medição.
 
 e) Definir estratégias de testes.
 
-Item. 3. (FCC / TRE-SE - 2007) Considere as questões chave apresentadas na seguinte
+3. (FCC / TRE-SE - 2007) Considere as questões chave apresentadas na seguinte
 tabela, com o
 enfoque da ISO 9126 (NBR13596) ? Qualidade de Software
 
@@ -4996,7 +4838,6 @@ c) III, IV, II el.
 d) IV, III, lie I.
 
 e) IV, III, le II.
-
 
 4- (FCC / TJ-PE - 2012) No contexto dos atributos de qualidade de software, considere:
 
@@ -5030,18 +4871,15 @@ c) funcionabilidade, usabilidade e manutenibilidade.
 d) confiabilidade, eficiência e manutenibilidade
 e) confiabilidade, eficiência e portabilidade.
 
-
 GABARITo
 
+1. LETRA B
 
-Item. 1. LETRA B
+2. LETRA D
 
-Item. 2. LETRA D
+3. LETRA C
 
-Item. 3. LETRA C
-
-Item. 4. LETRA D
-
+4. LETRA D
 
 LISTA DE QUESTõES - FC V
 
@@ -5078,7 +4916,7 @@ computação.
 
 Gabarito: Letra D
 
-Item. 2. (FGV / MEC - 2009) Analise a citação a seguir.
+2. (FGV / MEC - 2009) Analise a citação a seguir.
 
 "Um conjunto de atributos que têm impacto na capacidade do software de manter 0 seu
 nível de
@@ -5097,12 +4935,11 @@ c) ISO 9126
 d) IEEE82g
 e) MPS.BR.
 
-Item. 3. (FGV / MEC - 2009) Entre os critérios de qualidade da Norma ISO 9126 não se inclui:
+3. (FGV / MEC - 2009) Entre os critérios de qualidade da Norma ISO 9126 não se inclui:
 
 a) a manutenibilidade.
 
 b) a funcionalidade.
-
 
 c) a confiabilidade.
 
@@ -5110,7 +4947,7 @@ d) a utilizabilidade.
 
 e) a eficicácia.
 
-Item. 4. (FGV / DETRAN-RN - 2010) Assinale a alternativa que NÃO contém somente atributos
+4. (FGV / DETRAN-RN - 2010) Assinale a alternativa que NÃO contém somente atributos
 para
 características externas e internas do modelo de qualidade de software, definido na
 ISO/IEC
@@ -5126,7 +4963,7 @@ d) Funcionalidade, usabilidade, portabilidade.
 
 e) Eficiência, manutenibilidade, portabilidade.
 
-Item. 5. (FGV / ALERJ - 2017) Um sistema está sendo desenvolvido por uma empresa
+5. (FGV / ALERJ - 2017) Um sistema está sendo desenvolvido por uma empresa
 terceirizada para
 apoiar as vendas de um mercado varejista da Grande São Paulo denominado
 "Mendes Sá
@@ -5147,20 +4984,17 @@ d) Confiabilidade e Usabilidade;
 
 e) Manutenibilidade e eficiência.
 
-
 GABARITo
 
+1. LETRA D
 
-Item. 1. LETRA D
+2. ANULADA
 
-Item. 2. ANULADA
+3. ANULADA
 
-Item. 3. ANULADA
+4. LETRA C
 
-Item. 4. LETRA C
-
-Item. 5. LETRA B
-
+5. LETRA B
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
@@ -5196,7 +5030,7 @@ d) I - F; II - V; III - F
 
 e) l-F; II-V; III-V
 
-Item. 2. (IDECAN / BANESTES-2012) A garantia da qualidade de software compreende uma
+2. (IDECAN / BANESTES-2012) A garantia da qualidade de software compreende uma
 variedade
 de tarefas associadas a atividades como
 
@@ -5220,7 +5054,6 @@ c) I, V
 d) II, III
 
 e) I, II, IV, V
-
 
 3- (FUNIVERSA / CEB - 2010) Qualidade de software é uma área da engenharia de
 software que
@@ -5251,7 +5084,7 @@ e) Equilíbrio entre o prazo de entrega do sistema e o atendimento mínimo
 dos requisitos
 levantados.
 
-Item. 4. (CONSULPLAN / Prefeitura de Santa Maria Madalena - 2010) São
+4. (CONSULPLAN / Prefeitura de Santa Maria Madalena - 2010) São
 categorias de
 características principais de qualidade de software, segundo a Norma (ISO/IEC
 9126: NBR
@@ -5267,7 +5100,7 @@ d) Usabilidade.
 
 e) Funcionalidade.
 
-Item. 5. (COVEST/UFPE-2013) A norma ISO/IEC 9126 é um padrão internacional para a qualidade
+5. (COVEST/UFPE-2013) A norma ISO/IEC 9126 é um padrão internacional para a qualidade
 de
 software, a qual é composta de uma série de características. Sobre essa norma, é
 correto afirmar
@@ -5285,14 +5118,13 @@ c) funcionalidade é a característica que visa verificar se, durante um períod
 tempo, o sistema
 funciona de acordo com as condições preestabelecidas.
 
-
 d) foi atualizada pela norma ISO/IEC 25010, a qual só adicionou a característica de segurança.
 
 e) a característica que determina métricas para avaliar o comportamento do sistema em
 relação
 a tempo e a recursos utilizados é a eficiência.
 
-Item. 6. (IADES / EBSERH - 2013) De acordo com o padrão de qualidade ISO 9126, são identificados seis
+6. (IADES / EBSERH - 2013) De acordo com o padrão de qualidade ISO 9126, são identificados seis
 atributos fundamentais da qualidade. Sobre o tema, assinale a alternativa correta.
 
 a) A usabiIidade diz respeito à quantidade de tempo, que o software fica disponível para uso.
@@ -5308,7 +5140,7 @@ e) A confidencialidade é a capacidade de manter partes do software, em
 sigilo, só sendo
 permitido o conhecimento, por parte de pessoas autorizadas.
 
-Item. 7. (UFF / DATAPREV - 2008) A norma ISO 9.126 foi desenvolvida para identificar
+7. (UFF / DATAPREV - 2008) A norma ISO 9.126 foi desenvolvida para identificar
 atributos de
 qualidade para software de computador. O período de tempo em que o software está
 disponível
@@ -5326,7 +5158,7 @@ d) eficiência;
 
 e) funcionalidade.
 
-Item. 8. (QUADRIX / COBRA - 2015) De acordo com a norma ISO/IEC 9126, a qualidade do
+8. (QUADRIX / COBRA - 2015) De acordo com a norma ISO/IEC 9126, a qualidade do
 produto
 software está relacionada às seguintes características: Funcionalidade,
 Confiabilidade,
@@ -5346,7 +5178,6 @@ c) A Usabilidade refere-se à compatibilidade dos recursos e os tempos envolvido
 compatíveis
 com o nível de desempenho requerido pelo software.
 
-
 d) A Funcionalidade refere-se à existência de funções e propriedades específicas do
 produto,
 que satisfazem as necessidades do usuário.
@@ -5355,7 +5186,7 @@ e) A Eficiência diz respeito à facilidade de o software poder ser transferido 
 ambiente para
 outro.
 
-Item. 9. (IDECAN / AGU - 2014) "Detalhes da qualidade do produto de software podem ser
+9. (IDECAN / AGU - 2014) "Detalhes da qualidade do produto de software podem ser
 melhorados
 durante a implementação do código, revisão e teste, mas a natureza fundamental da
 qualidade do
@@ -5372,7 +5203,7 @@ d) em uso estimada (ou prevista)
 
 e) externa estimada (ou prevista)
 
-Item. 10. (VUNESP / DESENVOLVESP - 2014) A norma ISO 9126 (Engenharia de Software -
+10. (VUNESP / DESENVOLVESP - 2014) A norma ISO 9126 (Engenharia de Software -
 Qualidade
 do Produto) estabelece um modelo de qualidade com 6 atributos. Dentre eles, está o
 atributo
@@ -5409,14 +5240,13 @@ com o grau de precisão necessário resultados ou efeitos corretos ou conforme a
 é uma
 subcaracterística de:
 
-
 a) Portabilidade
 b) Usabilidade
 c) Confiabilidade
 d) Eficiência
 e) Funcionalidade
 
-Item. 12. (CESGRANRIO / CHESF - 2012) Dentre os atributos de um software de qualidade, incluem-se:
+12. (CESGRANRIO / CHESF - 2012) Dentre os atributos de um software de qualidade, incluem-se:
 
 a) controlabilidade, dependabilidade e eficiência
 b) controlabilidade, eficiência e manutenibilidade
@@ -5424,38 +5254,36 @@ c) eficiência, imutabilidade e manutenibilidade
 d) eficiência, manutenibilidade e usabilidade
 e) imutabilidade, manutenibilidade e usabilidade
 
-
 GABARITo
 
-Item. 1. LETRA E 5- LETRA E
+1. LETRA E 5- LETRA E
 9- LETRA A
 
-Item. 2. LETRA A 6. LETRA D
-Item. 10. LETRA D
+2. LETRA A 6. LETRA D
+10. LETRA D
 
 3- LETRA A 7- LETRA B
 íi. LETRA E
 
 4- LETRA B 8. LETRA D
-Item. 12. LETRA D
-
+12. LETRA D
 
 LISTA DE QUESTõES - ANÁLISE ESTÁTICA DE CóDIGo-
 FoNTE - MULTIBANCAS
 
-Item. 1. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas - B) Ferramentas de análise
+1. (CESGRANRIO - 2010 - PETROBRÁS - Analista de Sistemas - B) Ferramentas de análise
 estática
 do código permitem obter métricas de qualidade de um produto de software, tais como o
 grau
 de dependência entre seus componentes.
 
-Item. 2. (CESPE - 2010 - INMETRO - Analista de Sistemas - E) Teste é uma abordagem de
+2. (CESPE - 2010 - INMETRO - Analista de Sistemas - E) Teste é uma abordagem de
 controle de
 qualidade de um software, e o teste pode ser desenvolvido por meio de técnicas de
 análise
 estática de código, embora sejam mais comuns as técnicas dinâmicas, incluindo simulação.
 
-Item. 3. (CESPE - 2010 - TCU - Analista de Sistemas) No projeto a ser desenvolvido, será
+3. (CESPE - 2010 - TCU - Analista de Sistemas) No projeto a ser desenvolvido, será
 apropriado
 adotar a revisão estática de código, pois tal abordagem produz resultados precisos,
 objetivos e
@@ -5465,7 +5293,7 @@ utilizam ferramentas de software de análise estática que simulem o comportamen
 aplicação
 a partir de seu código-fonte.
 
-Item. 4. (FCC - 2007 - TRF/4 - Analista de Sistemas) Os requisitos específicos dos
+4. (FCC - 2007 - TRF/4 - Analista de Sistemas) Os requisitos específicos dos
 usuários, que sugerem
 os casos de teste que os colocarão à prova, são isolados por Ferramentas CASE de testes para:
 
@@ -5479,7 +5307,7 @@ d) Análise dinâmica.
 
 e) Avaliações transfuncionais.
 
-Item. 5. (CESPE - 2016 - TCE/SC - Analista de Sistemas) As técnicas estáticas de
+5. (CESPE - 2016 - TCE/SC - Analista de Sistemas) As técnicas estáticas de
 verificação centram-se
 na análise manual ou automatizada do código-fonte do programa, enquanto a
 validação
@@ -5487,20 +5315,17 @@ dinâmica tem por objetivo identificar defeitos no programa e demonstrar se ele 
 a seus
 requisitos.
 
-
 GABARITo
 
 CABARITO
 
+1. c
 
-Item. 1. c
+2. E
 
-Item. 2. E
+3. E
 
-Item. 3. E
+4. C
 
-Item. 4. C
-
-Item. 5. C
-
+5. C
 

@@ -1,12 +1,10 @@
-Capítulo. Garantia da Segurança de Sistemas - ISO 27000. Gerência de riscos. Ameaças. MFA. OAuth 2, JWT, SSO, Open ID e SAML.
-
+# Garantia da Segurança de Sistemas - ISO 27000. Gerência de riscos. Ameaças. MFA. OAuth 2, JWT, SSO, Open ID e SAML.
 
 Índice
 
 1) Introdução à Segurança da Informação
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
-
 
 Sumário
 
@@ -46,7 +44,6 @@ OWASP Secure Coding Practices
 Questões Comentadas
 Princípios de Segurança
 
-
 Diretrizes para Software Seguro
 Questões Comentadas Complementares
 
@@ -70,7 +67,6 @@ Considerações Finais
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
 ww. estrategiaconcursos. com. br
-
 
 Considerando a era da Informação em que nos encontramos atualmente, aspectos
 de Segurança da
@@ -98,7 +94,7 @@ Para iniciarmos, de fato, o referido assunto, vamos definir os três principais 
 que compõem a base da
 Segurança da Informação, quais sejam:
 
-Item. 1. Confidencialidade - Aqui temos o princípio que visa zelar pela privacidade e sigilo
+1. Confidencialidade - Aqui temos o princípio que visa zelar pela privacidade e sigilo
 dos dados
 de tal modo que estes devem ser acessados ou visualizados somente por aqueles de
 direito, ou
@@ -128,10 +124,8 @@ necessário de sigilo seja aplicado aos dados, tratando-se da prevenção contra
 a divulgação não
 autorizada desses dados
 
-
-Item. 0.0
+0.0
 www. estra tegiaconcursos. com. br
-
 
 A) integridade.
 
@@ -155,7 +149,7 @@ Muito cuidado, pois, a privacidade é uma característica do princípio da CONFI
 
 Gabarito: E
 
-Item. 2. Integridade (Confiabilidade) - No segundo princípio, temos como objetivo garantir que
+2. Integridade (Confiabilidade) - No segundo princípio, temos como objetivo garantir que
 os dados
 trafegados sejam os mesmos do início ao fim de um determinado trecho, ou seja, que a
 mesma
@@ -187,7 +181,7 @@ Na ocasião, o usuário que está com má intenção realizará a alteração da
 documento para que ele
 possa se beneficiar de alguma forma nesse processo.
 
-Item. 3. Disponibilidade - Nesse princípio, temos como principal objetivo o fato de
+3. Disponibilidade - Nesse princípio, temos como principal objetivo o fato de
 determinado recurso
 poder ser utilizado quando este for requisitado em um determinado momento,
 considerando a
@@ -204,7 +198,6 @@ ES(
 
 Confidencialidade
 
-
 Integridade
 (Confiabilidade)
 
@@ -218,7 +211,7 @@ Disponibilidade
 
 Ademais, outros conceitos também surgem com grande relevância, senão vejamos:
 
-Item. 1. Autenticidade - O princípio da autenticidade busca garantir que determinada pessoa
+1. Autenticidade - O princípio da autenticidade busca garantir que determinada pessoa
 ou sistema
 é, de fato, quem ela diz ser. Ou seja, quando utilizamos o simples recurso de
 inserir as informações
@@ -241,10 +234,8 @@ cartões físicos ou digitais de acesso, entre muitos outros.
 
 0-0
 
-
 r 7
 \
-
 
 : (Ano: 2020 Banca: CESPE Orgâo: SEFAZ/AL Prova: Auditor de Finanças e Controle)
 Identificação e
@@ -273,7 +264,7 @@ responsável por gerenciar as credenciais e permissões de acesso.
 
 Gabarito: C
 
-Item. 2. Não-Repúdio (Irretratabilidade) - Neste princípio, busca-se garantir que o usuário
+2. Não-Repúdio (Irretratabilidade) - Neste princípio, busca-se garantir que o usuário
 não tenha
 condições de negar ou contrariar o fato de que foi ele quem gerou determinado
 conteúdo ou
@@ -304,7 +295,6 @@ HORA DE
 PRATICAR!
 
 *
-
 
 (Ano: 2022 Banca: FGV Órgão: TJDFT Prova: Suporte em TI) Lucas é um trader
 profissional que trabalha
@@ -344,7 +334,7 @@ operação.
 
 Gabarito: E
 
-Item. 3. Legalidade - O aspecto de legislação e normatização é fundamental nos processos
+3. Legalidade - O aspecto de legislação e normatização é fundamental nos processos
 relacionados
 à Segurança da Informação. Desse modo, respeitar a legislação vigente é um aspecto fundamental
 e serve, inclusive, como base para o aprimoramento e robustez dos ambientes.
@@ -361,12 +351,9 @@ A) Autenticidade.
 
 B) Completude.
 
-
 0 0
 
-
 *
-
 
 C) Confidencialidade.
 
@@ -470,7 +457,6 @@ disseminar spam, propagar códigos maliciosos, desferir ataques e esconder a rea
 identidade
 do atacante;
 
-
 * Varredura: um atacante pode fazer varreduras na rede, a fim de
 descobrir outros
 computadores e, então, tentar executar ações maliciosas, como ganhar acesso e
@@ -510,12 +496,10 @@ para induzir outros a se conectarem a este, ao invés do dispositivo legítimo,
 permitindo a
 captura de senhas de acesso e informações que por ele passem a trafegar.
 
-
 Furto de dados: dados
 podem ser obtidos pela
 interceptação de
 tráfego r 1
-
 
 Á Uso indevido de
 
@@ -545,7 +529,6 @@ eguranç;
 da
 n iformaçã FV
 
-
 Ataque de força
 bruta: computadores
 conectados à rede e
@@ -554,7 +537,6 @@ métodos de
 autenticação estão
 expostos a ataques de
 força bruta
-
 
 Interceptação de
 tráfego: atacante pode
@@ -568,14 +550,12 @@ usar a rede para enviar
 grande volume de
 k
 
-
 1 de criptografia
 jloração de
 vulnerabilidades
 computador pode:ser
 i infectado ou invad ido
 de se comunicar F
-
 
 SEGURANçA FÍSICA, LóGICA E CoNTRoLE DE ACESSo
 
@@ -599,7 +579,7 @@ Podemos citar diversos elementos que são considerados como recursos para a
 segurança física. Vamos
 conhecer alguns:
 
-Item. 1. Unidade de Alimentação Ininterrupta (UPS) - São sistemas munidos de baterias que
+1. Unidade de Alimentação Ininterrupta (UPS) - São sistemas munidos de baterias que
 são capazes de
 armazenar energia e fornecer corrente elétrica aos demais equipamentos por um período
 limitado.
@@ -609,7 +589,7 @@ equipamentos por um período suficiente em que os administradores da rede podem 
 com vistas
 a mitigar perdas.
 
-Item. 2. Gerador-Seguindo a mesma linha do IPS, o gerador também tem como propósito manter
+2. Gerador-Seguindo a mesma linha do IPS, o gerador também tem como propósito manter
 o sistema
 em operação frente à eventual falta de energia. Entretanto, estamos falando de um
 período muito
@@ -617,8 +597,7 @@ mais de sustentação podendo ser prolongado facilmente, uma vez que se utiliza
 combustível como
 fonte de energia.
 
-
-Item. 3. Site físico redundante - Busca-se criar outro ambiente que seja capaz de assumir
+3. Site físico redundante - Busca-se criar outro ambiente que seja capaz de assumir
 a operação em
 caso de catástrofe que prejudique o ambiente principal. Para tanto, é muito importante
 que os
@@ -626,13 +605,13 @@ dados sejam armazenados e replicados, seja online, ou em fitas e equipamentos
 disponibilizados em
 outro local.
 
-Item. 4. CFTV - Temos aqui a utilização de câmeras para registro e visualização dos
+4. CFTV - Temos aqui a utilização de câmeras para registro e visualização dos
 ambientes de uma
 organização. É um meio eminentemente reativo, uma vez que, na maioria das vezes, é
 utilizado para
 gravar o vídeo e ser utilizado posteriormente para análise e auditoria.
 
-Item. 5. Travas de Equipamentos - As referidas travas podem ser utilizadas tanto para
+5. Travas de Equipamentos - As referidas travas podem ser utilizadas tanto para
 impedir a utilização
 de determinados recursos, como bloqueio de portas USB ou unidades de DVD, de forma
 física, como
@@ -640,21 +619,19 @@ também no intuito de não possibilitar o furto de notebooks, por exemplo,
 através das conhecidas
 chaves kensington, que, literalmente, "prendem" o equipamento em uma localidade.
 
-
-Item. 6. Alarmes - Temos aqui um sistema de aviso que pode ser considerando no seu
+6. Alarmes - Temos aqui um sistema de aviso que pode ser considerando no seu
 aspecto físico, como
 alarmes de incêndio, como no aspecto lógico, como alarmes lógicos de rede.
 
-Item. 7. Catracas - A partir da utilização de senhas, crachás, smartcards, entre outros,
+7. Catracas - A partir da utilização de senhas, crachás, smartcards, entre outros,
 pode-se restringir o
 acesso somente a pessoas autorizadas em determinados locais.
 
-Item. 8. Sala Cofre - As Salas Cofre são criadas para serem um ambiente
+8. Sala Cofre - As Salas Cofre são criadas para serem um ambiente
 seguro para datacenters,
 implementando diversos tipos de controles de segurança, de acesso, mecanismos de reação
 a
 catástrofes, entre outros.
-
 
 Segurança Lógica
 
@@ -685,7 +662,6 @@ portanto, um recurso de
 segurança lógica.
 
 *
-
 
 [ Ano: 2021 Banca: CESPE / CEBRASPE Órgão: PG-DF
 
@@ -735,7 +711,7 @@ Diversos são os métodos ou regras a serem implementadas. Buscarei elencar algu
 complementaremos,
 eventualmente, nos exercícios:
 
-Item. 1. Acesso de ROOT - Não se deve possibilitar a utilização do usuário ROOT de forma
+1. Acesso de ROOT - Não se deve possibilitar a utilização do usuário ROOT de forma
 direta, ou seja,
 logando-se como ROOT. Para tanto, deve-se utilizar apenas o método de escalação de
 privilégios, ou
@@ -745,7 +721,7 @@ execução de comandos ou aplicações. Isto possibilita a geração de lastros 
 auditorias, além
 de ser mais uma camada de segurança.
 
-Item. 2. Redução de Serviços - Deve-se minimizar ao máximo a quantidade de serviços que
+2. Redução de Serviços - Deve-se minimizar ao máximo a quantidade de serviços que
 estejam rodando
 em determinado servidor. Isto tem o intuito de reduzir a possibilidade de
 vulnerabilidades existentes
@@ -753,18 +729,17 @@ nas aplicações e serviços, bem como aumentar o desempenho do servidor. Portan
 deve-se manter
 apenas os serviços e aplicações necessárias, nada mais.
 
-Item. 3. Limitação de Acesso Remoto - Pode-se configurar o servidor de tal modo que este
+3. Limitação de Acesso Remoto - Pode-se configurar o servidor de tal modo que este
 possibilite acesso
 remoto de forma segura, ou seja, utilizando protocolos seguros como SSH. Além
 disso, pode-se
 restringir a máquinas ou redes específicas que poderão acessar o referido servidor.
 
-Item. 4. Atualização do Sistema - É um procedimento fundamental com vistas a reduzir
+4. Atualização do Sistema - É um procedimento fundamental com vistas a reduzir
 falhas de segurança
 existente no sistema operacional e aplicações. Assim, deve-se manter e instalar as
 últimas versões e
 mais atualizadas.
-
 
 Segurança Lógica
 
@@ -777,7 +752,6 @@ ROOT.
 Redução de Serviços: Deve-se minimizar ao máximo a
 quantidade de serviços que estejam rodando em
 determinado servidor.
-
 
 Limitação de Acesso Remoto: Hode-se configurar o '
 servidor de tal modo que este possibilite acesso remoto de
@@ -812,11 +786,9 @@ A física, física, lógica e física.
 
 B física, lógica, lógica e física.
 
-
 C lógica, física, lógica e física.
 
 0 0
-
 
 D lógica, física, física e lógica.
 E física, lógica, física e lógica.
@@ -869,7 +841,6 @@ sistemas estão
 rodando.
 
 *
-
 
 i
 
@@ -940,7 +911,6 @@ usar.
 comparado com o MAC
 e considerando o usuário que necessita compartilhar o recurso com outros usuários. Nesta técnica,
 
-
 o usuário tem o controle de garantir privilégios de acesso a recursos aos que estão
 sob seu domínio.
 Como exemplo desta técnica, podemos citar o próprio sistema de permissão do linux ou
@@ -958,7 +928,6 @@ estratégia simplifica o gerenciamento das permissões dadas aos usuários.
 Mandatory
 Access Control
 (MAC)
-
 
 Discretionary
 Access Control
@@ -989,14 +958,12 @@ RBAC, que é, embasado em papéis.
 
 0-0
 
-
 r
 i
 
 : Gabarito: B
 
 L ..
-
 
 (Ano: 2021 Banca: CESPE Órgão: PG-DF Prova: Técnico Jurídico - TI)
 
@@ -1048,7 +1015,6 @@ sujeitos.
 
 Gabarito: B
 
-
 AUTENTICAçÃo E SEUS MECANISMoS
 
 Os mecanismos de autenticação são procedimentos, rotinas, ferramentas ou soluções que
@@ -1057,7 +1023,7 @@ de fato, o princípio de autenticação com o devido controle de acesso. Estes p
 em três
 grandes grupos, quais sejam:
 
-Item. 1. Algo que você sabe
+1. Algo que você sabe
 
 Nesta categoria, busca-se determinar a autenticidade dos usuários baseado em alguma
 informação que seja
@@ -1067,14 +1033,14 @@ senha de acesso
 de senha seja de
 conhecimento apenas do dono da conta.
 
-Item. 2. Algo que você tem
+2. Algo que você tem
 
 Quando se vincula a autenticação à alguma coisa que esteja sob a posse exclusiva do
 usuário, temos a
 aplicação desta categoria. Temos diversos exemplo, entre eles, a utilização de um token, crachá,
 smart card.
 
-Item. 3. Algo que você é
+3. Algo que você é
 
 Temos aqui, em regra, o mecanismo mais robusto na garantia do princípio da
 autenticidade. Aqui, uma
@@ -1108,14 +1074,12 @@ respectivos responsáveis.
 
 I
 
-
 "I
 
 i O conjunto dessas três características conceitua o termo AAA (authentication, i
 i authorization e accounting).
 
 *
-
 
 INDO MAIS
 
@@ -1158,9 +1122,7 @@ mesmo princípio, e pode ter 2 ou mais fatores.
 
 CESPE / CEBRASPE - 2022 - TCE-SC - Auditor Fiscal de Controle Externo - Ciência da Computação
 
-
 Q-Q
-
 
 No controle de acesso, somente os usuários que tenham sido especificamente autorizados
 podem
@@ -1213,9 +1175,7 @@ Conforme nós vimos pessoal, há a necessidade de conhecimento de algo que VOCÊ
 (CPF + senha),
 com ALGO QUE VOCÊ POSSUI (celular). Logo, temos aí o 2FA.
 
-
 0 0
-
 
 Gabarito: D
 
@@ -1261,7 +1221,6 @@ esses dois como
 pré-requisitos.
 
 Gabarito: C
-
 
 SAML - Security Assertion Markup Language
 
@@ -1326,7 +1285,6 @@ utiliza o conceito de
 reconhecimento do usuário por meio da comprovação de documentos, sejam físicos ou
 digitais. Assim,
 caso haja esse reconhecimento em alguma medida, o usuário terá sua credencial nível prata.
-
 
 Por fim, o nível Ouro, que envolve reconhecimento biométrico. Basicamente, o principal
 provedor dessa
@@ -1398,9 +1356,7 @@ fator de autenticação
 (MFA). Então, para cada serviço que se deseje utilizar, todo o processo do MFA deve
 ser realizado, ou, no
 
-
 Q-Q
-
 
 mínimo, a confirmação da segunda camada de segurança. Ainda, a título de
 exemplo, pode-se utilizar
@@ -1415,16 +1371,13 @@ A imagem a seguir representa em fluxo, de forma simplificada, esse processo:
 Service Provider UserAgent
 Identity Provider
 
-
 Request target resource
-
 
 (Discover the IdP)
 
 Redirect to SSO Service
 
 2 ►
-
 
 <
 
@@ -1437,16 +1390,13 @@ Respond with XHTML form
 
 Request Assertion Consumer Servic e
 
-
 Redirect to target resource
-
 
 Request target resource
 
 7 4
 
 Respond with requested resource
-
 
 OAuth
 
@@ -1457,7 +1407,6 @@ logins simplificados
 e integrados a múltiplos serviços na Internet. O processo por trás é muito semelhante
 ao SAML que
 mencionamos.
-
 
 Client
 
@@ -1497,7 +1446,6 @@ O OAuth atualmente está em sua versão 2.0 e possui compatibilidade completa co
 versão 1.0. Nesse
 processo, são definidos 4 papéis básicos. São eles:
 
-
 ...,
 
 : 1. Resource Owner - Basicamente é a pessoa que concede acesso aos seus dados. Quando clicamos na
@@ -1527,7 +1475,6 @@ mais restrito, como foi =
 
 = o caso do serviço do Acesso.Gov que mencionamos, que pode ser utilizado apenas por órgãos de
 Governo. =
-
 
 i O que importa é que, nesse processo, é necessário que o serviço que realiza
 chamada a essa API tenha um ;
@@ -1562,7 +1509,6 @@ i
 
 L
 
-
 S
 
 A imagem a seguir representa bem a execução desses papeis e respectivos fluxos, vejamos:
@@ -1572,7 +1518,6 @@ Absrracr Fiow
 AulTHcvu^lHJn rvquvar
 
 AuiAcwfMIMM* sJVâíir
-
 
 Cíwnf
 
@@ -1600,9 +1545,7 @@ L
 
 ..
 
-
 *
-
 
 i
 i ETAPA 3 - De posse da autorização, esta é encaminhada pelo cliente ao Servidor de
@@ -1639,7 +1582,6 @@ contatos, entre muitos outros. ;
 
 L
 
-
 S
 
 Biometria
@@ -1670,17 +1612,16 @@ Desse modo, quando falamos de ALGO QUE VOCÊ É, podemos utilizar alguns recurso
 tal finalidade,
 como por exemplo:
 
-Item. 1. Impressão Digital;
+1. Impressão Digital;
 
-Item. 2. Palma da mão;
+2. Palma da mão;
 
-Item. 3. Imagem da Face;
+3. Imagem da Face;
 
-Item. 4. Retina ou íris dos olhos (o retina analisa o fundo do olho, enquanto a retina analisa os anéis
+4. Retina ou íris dos olhos (o retina analisa o fundo do olho, enquanto a retina analisa os anéis
 coloridos do olho, sendo este mais rápido que aquele);
 
-Item. 5. Reconhecimento de voz;
-
+5. Reconhecimento de voz;
 
 Desse modo, os filmes futuristas, bem como aqueles que retratam assaltos a
 cofres muito seguros
@@ -1692,22 +1633,21 @@ Fonte: http://www.sinfic.pt
 
 Nesse sentido, a biométrica zela pelos princípios de unicidade abaixo:
 
-Item. 1. Universalidade - Significa que todas as pessoas devem possuir a característica;
+1. Universalidade - Significa que todas as pessoas devem possuir a característica;
 
-Item. 2. Singularidade - Indica que esta característica não pode ser igual em pessoas diferentes;
+2. Singularidade - Indica que esta característica não pode ser igual em pessoas diferentes;
 
-Item. 3. Permanência - Significa que a característica não deve variar com o tempo;
+3. Permanência - Significa que a característica não deve variar com o tempo;
 
-Item. 4. Mensurabilidade - Indica que a característica pode ser medida quantitativamente;
+4. Mensurabilidade - Indica que a característica pode ser medida quantitativamente;
 Analisando a estrutura de um sistema biométrico, podemos elencar ainda as etapas desses sistemas:
 
-Item. 1. Captura - Aquisição da amostra biométrica;
+1. Captura - Aquisição da amostra biométrica;
 
-Item. 2. Extração - Remoção da amostra com informações únicas para posterior análise;
+2. Extração - Remoção da amostra com informações únicas para posterior análise;
 
-Item. 3. Comparação - Comparação com as informações armazenadas em uma base de dados. Caso a
+3. Comparação - Comparação com as informações armazenadas em uma base de dados. Caso a
 comparação seja positiva, tem-se um "match", dando o resultado como positivo.
-
 
 Ano: 2021 Banca: CESPE / CEBRASPE Órgão: SEFAZ-AL
 
@@ -1751,11 +1691,9 @@ retina e =
 
 = digitais).
 
-
 : Comentários:
 
-Item. 0.0
-
+0.0
 
 i
 
@@ -1800,7 +1738,6 @@ A título de referência, podemos extrair de um dos grandes fornecedores de solu
 segurança a nível
 mundial, a Mcafee, que extrapola ainda mais o conceito de Endpoints:
 
-
 Q
 
 Serw«*s
@@ -1809,7 +1746,6 @@ isTDavRci
 /Seaxxj
 
 Many device
-
 
 Ooud-tMiad
 
@@ -1862,7 +1798,7 @@ podemos citar Antivírus, Antimalwares, firewalls, HIDS e HIPS, Atualizações d
 drivers, softwares
 e S.O., entre outros. Vamos reforçar alguns recursos e conceitos para cada um desses aspectos.
 
-Item. 1. Uso de Assinaturas e Inteligência Artificial
+1. Uso de Assinaturas e Inteligência Artificial
 
 Sem dúvida, o uso de assinaturas de códigos e programas sempre foram a linha de base
 de identificação
@@ -1878,7 +1814,6 @@ especificamente. Esse
 arranjo ajuda a fortalecer a capacidade de identificação por meio da
 disseminação de informações.
 Entretanto, mesmo essas medidas não são suficientes no processo.
-
 
 Assim, surgem as técnicas de análise de comportamento por meio de inteligência
 artificial e aprendizado
@@ -1904,7 +1839,7 @@ voltados para atuação no ambiente de pré-inicialização do Sistema Operacion
 monitoramento da
 integridade do firmware por meio do UEFI (Interface de Firmware Extensível Unificada.
 
-Item. 2. Monitoramento de Processos, Serviços e Memória
+2. Monitoramento de Processos, Serviços e Memória
 
 Um outro recurso interessante que se conecta com o recurso de inteligência é
 justamente o monitor de
@@ -1920,7 +1855,7 @@ Assim, entender o comportamento da memória é importante no contexto atual para
 prevenir e
 tentar combater esse tipo de ataque.
 
-Item. 3. Monitoramento de Atualizações e Patches de Segurança
+3. Monitoramento de Atualizações e Patches de Segurança
 
 Apesar de trivial, mas nem sempre é feito de forma efetiva e de forma automática.
 Garantir com que os
@@ -1948,9 +1883,7 @@ se dúvidas sobre sua forma de atuação e potenciais resultados derivados. Basi
 tem-se a questão
 da ofuscação do código ou trecho dele que procederá exatamente com as funcionalidades maliciosas.
 
-
 Q-Q
-
 
 Nesse contexto, portanto, dentro de uma sandbox, pode-se executar o
 código e avaliar o
@@ -2024,11 +1957,9 @@ público em que Roberto trabalha possa confiar em conexões externas com a rede 
 soluções de
 segurança de endpoints precisam ser implementadas e ter como características:
 
-
 A redução de custos e facilidade de atualização;
 
 0-0
-
 
 B configuração simplificada e fácil instalação de API;
 C monitoramento completo e antivírus atualizado;
@@ -2087,7 +2018,6 @@ Outros assuntos que constantemente caem em prova em termos conceituais e suas
 aplicações, é a auditoria
 e conformidade.
 
-
 Já mencionamos na aula de hoje alguns instrumentos e mecanismos utilizados para fins de auditoria.
 Em um conceito básico, temos que
 
@@ -2144,7 +2074,6 @@ Falando um pouco sobre conformidade, podemos definir como:
 
 I
 
-
 "I
 
 i Conceito relacionado à adesão dos sistemas de informação às políticas e às normas i
@@ -2153,7 +2082,6 @@ i Conceito relacionado à adesão dos sistemas de informação às políticas e 
 j
 
 L
-
 
 I
 
@@ -2177,12 +2105,9 @@ que devem ser seguidas.
 
 Assim, espera-se que os órgãos estejam em conformidade com essas questões que mencionamos.
 
-
 Q-Q
 
-
 r*"""""* ..
-
 
 ,
 
@@ -2207,7 +2132,6 @@ ISO
 27002 nos traz a respeito do objetivo da Gestão da Continuidade de Negócios:
 
 r
-
 
 I
 
@@ -2240,7 +2164,6 @@ Não temos como deixar de mencionar um caso clássico de exemplo desse aspecto q
 infeliz atentado
 de 11 de setembro.
 
-
 Sem entrar no mérito da causa e, obviamente, ciente de que as vidas eram os bens
 mais precioso nesse
 contexto, vamos focar na nossa análise de Continuidade de Negócio.
@@ -2272,7 +2195,6 @@ reavaliar seus
 processos de gestão de continuidade de negócios. Muitas empresas até tinham seus planos
 e soluções
 alternativas, mas sofreram para voltarem ao seu funcionamento.
-
 
 Aqui cabe mais um caso clássico que é o uso de nobreaks e geradores em soluções de
 redundância e backup.
@@ -2311,21 +2233,17 @@ matrizes de responsabilidades e ações por componente e recurso envolvido.
 ; 1. Falhas humanas;
 i
 
-
 : 2. Falhas das soluções e componentes de TI;
 ;
 
 I
 
-
 I
 
 ; 3. Fenômenos da natureza que geram acidentes e catástrofes (furação, tempestades, maremotos);
 
-
 Ê 4. Interrupções de abastecimento;
 i
-
 
 :
 
@@ -2334,16 +2252,13 @@ i 5. Distúrbios civis (greves, vandalismos);
 
 I
 
-
 I
 
 i 6. Malwares e Vírus;
 ;
 
-
 : 7. Sabotagem;
 ;
-
 
 : 8. Terrorismo, etc.
 ;
@@ -2361,7 +2276,6 @@ da Segurança da
 Informação.
 
 *
-
 
 ** ACORDE!
 
@@ -2416,7 +2330,6 @@ prejudicado, gerando a continuidade necessária.
 * NBR 22301
 
 Esta norma trata dos requisitos para criação de um sistema de gestão de continuidade de negócios.
-
 
 * NBR 31000
 
@@ -2479,14 +2392,11 @@ IMPACTO para a
 organização. Percebam que o RISCO está atrelados a todos os demais conceitos que vimos
 anteriormente.
 
-
 Resumindo, portanto, temos:
 
 Q-Q
 
-
 r
-
 
 |
 
@@ -2551,11 +2461,9 @@ por agregar custos ou esforços extremamente elevados que, em termos quantitativ
 maiores
 que os dados ou informação em análise. Desse modo, aceita-se o risco em caso de ocorrência.
 
-
 r
 
 .
-
 
 i (FCC - TCE-GO/Analista de Controle Externo/2014) Pedro trabalha na área que cuida da
 Segurança da
@@ -2588,7 +2496,6 @@ assim, pode-se ter uma
 catástrofe que impacte os dois ambientes.
 
 Gabarito: E
-
 
 DIRETRIZES PARA o DESENVoLVIMENTo DE SoFTwARE SEGURo
 
@@ -2650,11 +2557,9 @@ um armazenamento seguro e criptografado na máquina. Além disso, são capazes t
 gerar senhas
 extremamente fortes para os usuários.
 
-
 * Atualização de aplicações
 
-Item. 0.0
-
+0.0
 
 Temos aqui mais um ponto amplamente difundido, entretanto, mais uma vez, negligenciado
 pelos usuários.
@@ -2757,7 +2662,6 @@ verificação de código de análise estática durante a implementação e a rea
 revisões de código e
 testes de segurança durante um "esforço de segurança" direcionado.
 
-
 Listas de
 recursos
 Diretrizes de
@@ -2789,7 +2693,6 @@ Packs
 Atualizações de
 segurança
 
-
 Requisitos
 
 *
@@ -2804,7 +2707,6 @@ Lançamento
 
 Suporte e
 manutenção
-
 
 O SDL tem relação direta com as fases do ciclo de vida para desenvolvimento de
 software. Esse processo
@@ -2858,11 +2760,9 @@ software.
 
 Vamos explorar um pouco mais os aspectos de segurança considerados em cada uma das fases.
 
-
 Q-Q
 
-
-Item. 1. FASE DE REQUISITOS
+1. FASE DE REQUISITOS
 
 Durante a fase de requisitos, a equipe de produto entra em contato com a equipe de
 segurança central para
@@ -2897,7 +2797,7 @@ sujeitos a alterações conforme o andamento do projeto, a articulação precoce
 desses planos ajuda a
 garantir que nenhum requisito seja desconsiderado ou estabelecido na última hora.
 
-Item. 2. FASE DE DESIGN
+2. FASE DE DESIGN
 
 Nesta fase, tem-se a identificação da estrutura e os requisitos gerais do
 software. Na perspectiva de
@@ -2905,15 +2805,12 @@ segurança, os elementos-chave dessa fase são:
 
 r
 
-
 I
 
 :* Definir as diretivas de design e arquitetura de segurança;
 
-
 oo
 r
-
 
 |
 
@@ -2923,7 +2820,7 @@ r
 
 :* Definir critérios de fornecimento complementar.
 
-Item. 3. FASE DE IMPLEMENTAÇÃO
+3. FASE DE IMPLEMENTAÇÃO
 
 Durante a fase de implementação, a equipe de produto gera o código, testa e integra o software.
 
@@ -2936,7 +2833,6 @@ garantia de que essas
 ameaças estejam de fato bloqueadas ou atenuadas.
 
 Os elementos do SDL considerados nessa fase são:
-
 
 |
 
@@ -2952,7 +2848,7 @@ A atenção especial fica em relação ao fato de que não se considera a aplica
 ferramentas de verificação
 de código de análise dinâmica nessa fase.
 
-Item. 4. FASE DE VERIFICAÇÃO
+4. FASE DE VERIFICAÇÃO
 
 A fase de verificação é o ponto em que o software está funcionalmente concluído e
 entra em testes beta por
@@ -2962,7 +2858,7 @@ produto realiza um
 concluídas na fase de
 implementação, bem como testes de segurança direcionados.
 
-Item. 5. FASE DE SUPORTE E MANUTENÇÃO
+5. FASE DE SUPORTE E MANUTENÇÃO
 
 Apesar da aplicação do SDL durante o desenvolvimento, as práticas de desenvolvimento
 mais avançadas
@@ -2978,9 +2874,7 @@ equipes de produto devem se preparar para responder a vulnerabilidades
 recém-descobertas no software
 fornecido aos clientes.
 
-
 0 0
-
 
 PRESTE MAIS
 
@@ -3041,9 +2935,7 @@ As visões também são referenciadas como Conjuntos de Taxonomias de
 vulnerabilidades a serem
 consideradas no desenvolvimento do software.
 
-
 0 0
-
 
 A Visão Conceituai apresenta uma visão geral de como funciona o processo CLASP e como seus
 componentes
@@ -3073,7 +2965,6 @@ A Visão de Vulnerabilidades possui um catálogo que descreve 104 tipos
 de vulnerabilidades no
 desenvolvimento de software, divididas em 5 categorias:
 
-
 * Erros de Tipo e Limites de Tamanho;
 
 * Problemas do Ambiente;
@@ -3095,13 +2986,11 @@ CLASP
 Visão de Avaliação
 de Atividades
 
-
 Visão de
 Implementação
 
 Visão de
 Vulnerabilidades
-
 
 SAST (Static Application Security Testing)
 
@@ -3177,7 +3066,6 @@ compartilhamento contínuo.
 
 *
 
-
 Um ponto de observação a ser considerado diz respeito aos critérios a serem
 considerados na escolha de
 uma ferramenta do tipo SAST:
@@ -3186,7 +3074,6 @@ uma ferramenta do tipo SAST:
 
 ; 2) Quais os principais tipos de vulnerabilidades que a ferramenta é capaz de detectar;
 ;
-
 
 I
 
@@ -3210,7 +3097,6 @@ A imagem abaixo nos dá uma perspectiva de comparação quando se considera a pe
 em termos de
 resultados das diversas ferramentas:
 
-
 DAST (Dynamic Application Security Testing)
 
 Dando continuidade à nossa discussão, quando falamos de ferramentas
@@ -3233,7 +3119,6 @@ um comportamento que gere risco, deve-se fazer o processo reverso para buscar ma
 uma forma de
 evitar o devido comportamento.
 
-
 Um outro viés que se constrói com esse tipo de ferramenta é o teste de penetração.
 Assim, utiliza-se de
 diversas ferramentas com características e capacidades diferentes de maneira complementar
@@ -3252,7 +3137,6 @@ Como DESVANTAGENS:
 
 r
 
-
 I
 
 j a) Atuação tardia no processo do Ciclo de Vida de Desenvolvimento;
@@ -3261,7 +3145,6 @@ j a) Atuação tardia no processo do Ciclo de Vida de Desenvolvimento;
 
 Na prática, o que se busca é a utilização conjugada das aplicações de teste que possuem os dois
 recursos.
-
 
 OWASP Secure Coding Practices
 
@@ -3304,7 +3187,6 @@ Abaixo, você encontra o link com todas as práticas que são recomendadas nesse
 
 https://www.owasp.org/índex.php/Testing Guide lntroduction#Principles of Testing
 
-
 HORA DE
 
 PRATICAR!
@@ -3324,7 +3206,7 @@ Como vimos, estes são os principais pilares da Segurança da Informação.
 
 Gabarito: C
 
-Item. 2. (CESPE - TCE-PR/Analista de Controle - Área TI/2016) A integridade de dados que
+2. (CESPE - TCE-PR/Analista de Controle - Área TI/2016) A integridade de dados que
 detecta modificação,
 inserção, exclusão ou repetição de quaisquer dados em
 sequência, com tentativa de
@@ -3342,7 +3224,6 @@ e) fluxo de tráfego.
 Comentários:
 
 *
-
 
 Pessoal, os únicos itens que tratam da integridade são as letras "A" e "D". As
 letras "B" e "C" tratam do
@@ -3385,7 +3266,6 @@ por intermédio de
 funções HASH.
 
 Gabarito: E
-
 
 5.(CESPE - TJDFT/Analista Judiciário - Análise de Sistemas/2015) Se um colaborador
 conseguiu visualizar
@@ -3436,7 +3316,6 @@ integridade.
 
 Gabarito: E
 
-
 8.(CESPE - TCE-RO/Analista de lnformática/2013) Se um sítio da web sofrer
 comprometimento devido a
 problemas de hardware no servidor, impossibilitando a visualização do conteúdo pelos
@@ -3478,7 +3357,6 @@ Gabarito: E
 
 *
 
-
 ll.(CESPE - TRE-RJ/Analista Judiciário - Análise de Sistemas/2012)Na atualidade, os
 ativos físicos de uma
 organização são mais importantes para ela do que os ativos de informação.
@@ -3518,7 +3396,6 @@ de grande quantidade
 de novos empregados para a empresa é um incidente grave para a segurança da
 informação, que deve ser
 comunicado ao setor competente e tratado rapidamente.
-
 
 Comentários:
 
@@ -3613,7 +3490,6 @@ esse é um procedimento de segurança da informação.
 
 Gabarito: C
 
-
 2O.(CESPE - TJ-SE/Analista Judiciário - Segurança da lnformação/2014) Separação
 de tarefas, privilégio
 mínimo e necessidade de saber são conceitos que identificam os três principais tipos de controle de
@@ -3656,7 +3532,6 @@ Comentários:
 Conforme vimos, de fato, estes são os três principais métodos.
 
 Gabarito: C
-
 
 23.(CESPE - SUFRAMA/Analista de Sistemas - Desenvolvimento/2014) O controle de
 acesso refere-se à
@@ -3708,7 +3583,6 @@ d) A área de segurança da informação deve preocupar-se em proteger todos os 
 de informação de uma
 organização, governo, indivíduo ou empresa, empregando, em todas as situações, o mesmo nível de
 proteção.
-
 
 e) Entre as características básicas da segurança da informação estão a
 confidencialidade, a disponibilidade
@@ -3772,7 +3646,6 @@ e) Os mais importantes mecanismos de segurança da informação incluem, necessa
 o emprego de
 firewalls, detectores de intrusões, antivírus, filtros anti-spam e controle de acesso.
 
-
 Comentários:
 
 Vamos aos itens:
@@ -3830,7 +3703,6 @@ impede que ele seja destruído e os dados sejam perdidos. Assim, apesar de usar 
 criptografia, os dados não
 estarão mais disponíveis.
 
-
 Gabarito: E
 
 29.(CESPE - SUFRAMA/Analista de Sistemas/2014) A lentidão e a paralisação do
@@ -3871,7 +3743,6 @@ do princípio da
 confidencialidade. Atenção para o fato de que a questão deixou claro que o
 invasor não fez qualquer
 alteração no conteúdo da planilha, ou seja, não houve prejuízo à integridade desta planilha.
-
 
 Gabarito: D
 
@@ -3916,7 +3787,6 @@ prática se utiliza funções
 HASH que possuem um caráter um pouco diferente. Veremos isso com mais calma em um outro momento.
 
 Gabarito: E
-
 
 34.(CESPE - DEPEN/Área 07/2015) O principal objetivo da segurança da informação
 é preservar a
@@ -3963,7 +3833,6 @@ executá-lo.
 Comentários:
 
 *
-
 
 Como mencionamos, a auditoria pode atuar em qualquer etapa, fase ou tipo de processo,
 recurso (inclusive
@@ -4014,7 +3883,6 @@ engloba, entre outros
 aspectos, a administração da política de segurança e os procedimentos de recuperação após
 desastres;
 
-
 além disso, é de responsabilidade dessa gerência a constante atualização com
 respeito a problemas e
 riscos de segurança.
@@ -4061,7 +3929,6 @@ externas quanto internas.
 
 Gabarito: C
 
-
 42.(CESPE - 2014 - TJ-SE - Analista Judiciário - Segurança da Informação) Atividades
 de usuários, exceções
 e outros eventos são registros ou logs de eventos produzidos e mantidos
@@ -4076,7 +3943,6 @@ para as auditorias e
 investigações.
 
 Gabarito: E
-
 
 Diretrizes para Software Seguro
 
@@ -4126,7 +3992,6 @@ Gabarito: E
 
 *
 
-
 45.(CESPE - CNJ/Analista Judiciário - Análise de Sistemas/2013) O SDL é um processo de
 desenvolvimento
 de software seguro, que envolve a adição de produtos e atividades, como o
@@ -4154,7 +4019,6 @@ software, conforme
 vimos em nossa teoria.
 
 Gabarito: C
-
 
 HORA DE
 
@@ -4193,7 +4057,6 @@ d) disponibilidade -confidencialidade -integridade - legalidade -autenticidade.
 e) confidencialidade -integridade -disponibilidade - autenticidade -legalidade.
 
 *
-
 
 Comentário;
 
@@ -4238,7 +4101,6 @@ de alteração não autorizada, ou seja, impactando o princípio de integridade.
 
 Gabarito: A
 
-
 3.(FCC - TRE-CE/Técnico Judiciário - Programação de Sistemas/2012) A propriedade que
 garante que nem
 o emissor nem o destinatário das informações possam negar a sua transmissão,
@@ -4282,7 +4144,6 @@ Comentário:
 Lembrando que o controle de acesso envolve tanto a autenticaçõo quanto a autorização.
 Entretanto, o processo
 de identificação está relacionado à autenticaçõo.
-
 
 Gabarito: A
 
@@ -4338,7 +4199,6 @@ um usuário
 tenta acessar um recurso, o sistema operacional verifica se as definições de acesso
 desse usuário e do recurso
 desejado conferem. O usuário só conseguirá o acesso se essa verificação for positiva.
-
 
 E) limitar o número de tentativas de logon sem sucesso e limitar o horário de uso
 dos recursos computacionais
@@ -4439,12 +4299,11 @@ e) teclar.
 
 Comentários:
 
-
 Como vimos em nossa teoria:
 
-Item. 7. Retina - Analisa os vasos sanguíneos do fundo do olho;
+7. Retina - Analisa os vasos sanguíneos do fundo do olho;
 
-Item. 2. íris — Analise os anéis coloridos do olho;
+2. íris — Analise os anéis coloridos do olho;
 
 Gabarito: C
 
@@ -4474,7 +4333,6 @@ Ora, estamos falando,
 portanto, das questões atreladas ao controle físico.
 
 Gabarito: B
-
 
 HORA DE
 
@@ -4511,7 +4369,6 @@ apresentadas por
 colaboradores para acessar as informações do sistema da organização por mais de dois
 dias indicam de
 violação da autenticidade das informações.
-
 
 4.(CESPE - TJDFT/Analista Judiciário - Análise de Sistemas/2015) Se, para
 cometer o incidente, o
@@ -4557,7 +4414,6 @@ ativos físicos de uma
 organização são mais importantes para ela do que os ativos de informação.
 
 *
-
 
 12.(CESPE - TRE-RJ/Analista Judiciário - Análise de Sistemas/2012) O termo de
 confidencialidade, de
@@ -4609,7 +4465,6 @@ eletrônicos, mas também daqueles pertinentes ao controle de acesso físico.
 
 *
 
-
 19.(CESPE - TJ-SE/Analista Judiciário - Segurança da lnformação/2014) Considere que uma
 empresa tenha
 introduzido sistema de autenticação biométrica como controle de acesso de seus
@@ -4658,7 +4513,6 @@ negócios, assinale a opção correta.
 a) Os principais atributos da segurança da informação são a autenticidade, a
 irretratabilidade e o não
 repúdio.
-
 
 b) No contexto atual do governo e das empresas brasileiras, a segurança da informação
 tem sido tratada de
@@ -4716,7 +4570,6 @@ informação.
 criptografia garante a
 disponibilidade e a autenticidade de informações em ambientes de tecnologia da informação.
 
-
 29.(CESPE - SUFRAMA/Analista de Sistemas/2014) A lentidão e a paralisação do
 funcionamento de um
 sítio de comércio eletrônico que provê transações para venda de produtos é
@@ -4755,7 +4608,6 @@ que garante a confidencialidade do documento.
 34.(CESPE - DEPEN/Área 07/2015) O principal objetivo da segurança da informação
 é preservar a
 confidencialidade, a autenticidade, a integridade e a disponibilidade da informação.
-
 
 35.(CESPE - TCU/Auditor Federal de Controle Externo - TI/2015)Confidencialidade é
 a garantia de que
@@ -4803,7 +4655,6 @@ organizacionais de segurança da informação.
 
 *
 
-
 A execução correta dos procedimentos de segurança da informação, em conformidade com
 normas e com a política
 de segurança da empresa, deve ser garantida pelos vários gestores, cada um em sua área.
@@ -4847,7 +4698,6 @@ fonte e que podem ser verificadas com o uso de ferramentas automatizadas
 para análise estática de
 código.
 
-
 HORA DE
 
 PRATICAR!
@@ -4889,7 +4739,6 @@ da informação,
 considere:
 
 *
-
 
 I. Capacidade do sistema de permitir que alguns usuários acessem determinadas
 informações, enquanto
@@ -4937,7 +4786,6 @@ informação. Esse processo é denominado
 a) autenticação.
 
 b) auditoria.
-
 
 c) autorização.
 
@@ -4993,7 +4841,6 @@ de acordo com a real necessidade de acesso aos sistemas, pode-se, por exemplo, d
 dos recursos
 nos fins de semana ou à noite.
 
-
 7.(FCC - TCE-GO/Analista de Controle Externo/2014) Pedro trabalha na área que cuida da
 Segurança da
 Informação de uma empresa. Frente ao risco de indisponibilidade de uma aplicação, criou
@@ -5044,7 +4891,6 @@ a) datiloscópica ou fingerprint.
 b) da íris
 c) da retina.
 
-
 d) cognitiva.
 
 e) teclar.
@@ -5075,7 +4921,6 @@ GABARITO
 
 Gabarito - Questões CESPE
 
-
 1 C
 
 2 A
@@ -5095,7 +4940,6 @@ Gabarito - Questões CESPE
 9 C
 
 10 E
-
 
 r
 
@@ -5175,7 +5019,6 @@ Gabarito - Questões FCC
 
 *
 
-
 -----------
 
 3 C
@@ -5232,7 +5075,6 @@ obter arquivos,
 disseminar spam, propagar códigos maliciosos, desferir ataques e esconder a real
 identidade do atacante;
 
-
 o Varredura: um atacante pode fazer varreduras na rede, a fim de descobrir
 outros
 computadores e, então, tentar executar ações maliciosas, como ganhar acesso e explorar
@@ -5280,7 +5122,6 @@ de equipamentos, alarmes, catracas, sala cofre.
 
 * Segurança Lógica:
 
-
 * Controle de Acesso: método aplicado tanto no contexto físico e lógico, com vistas a
 estabelecer
 barreiras que podem restringir determinados acessos a locais, equipamentos, serviços e dados
@@ -5316,7 +5157,6 @@ capacidade de
 processar informação e trafegar dados, poderá ser classificado como um ENDPOINT.
 
 *
-
 
 * Dentre alguns recursos e contextos de aplicação das soluções voltadas para
 segurança em
@@ -5376,7 +5216,6 @@ Analogia simples ao seguro de carro que fazemos, passando o risco de acidente e 
 para
 a seguradora.
 
-
 o Mitigar - Objetiva-se atuar em prol da minimização dos riscos. Como
 exemplo, pode-se
 restringir o acesso de determinados usuários a sites controlados.
@@ -5426,14 +5265,11 @@ Aguardo vocês nas próximas aulas!
 
 Vamos juntos?
 
-
 Um grande abraço.
 
 *
 
-
 Prof. André Castro.
 
 Instagram: @ProfAndreCastro Telegram: t.me/ProfessorAndreCastro
-
 

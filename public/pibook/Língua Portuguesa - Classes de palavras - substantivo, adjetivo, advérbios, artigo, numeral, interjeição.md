@@ -1,5 +1,4 @@
-Capítulo. Língua Portuguesa - Classes de palavras - substantivo, adjetivo, advérbios, artigo, numeral, interjeição.
-
+# Língua Portuguesa - Classes de palavras - substantivo, adjetivo, advérbios, artigo, numeral, interjeição.
 
 Índice
 
@@ -11,13 +10,11 @@ Capítulo. Língua Portuguesa - Classes de palavras - substantivo, adjetivo, adv
 
 4) Adjetivo
 
-
 5) Expressões com Substantivo e Adjetivo
 
 6) Advérbio
 
 7) Artigo
-
 
 8) Numeral
 
@@ -46,7 +43,6 @@ Capítulo. Língua Portuguesa - Classes de palavras - substantivo, adjetivo, adv
 20) Lista de Questões - Palavras especiais - Cebraspe
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NoçõES INICIAIS
 
@@ -93,7 +89,6 @@ Grande abraço e ótimos estudos!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 CLASSES VARIÁVEIS X CLASSES INVARIÁVEIS
 
 Algumas classes são variáveis, seguem regras de concordância, ou seja, flexionam-se em
@@ -121,7 +116,6 @@ ok?l
 
 Resumindo
 
-
 Classes variáveis
 
 *Substantivo
@@ -144,7 +138,6 @@ Classes invariáveis
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 SUBSTANTIVoS
 
 O substantivo é a classe que dá nome a seres, coisas, sentimentos, qualidades, ações
@@ -161,13 +154,11 @@ Classificação dos substantivos
 
 Relembremos rapidamente as classificações dos substantivos.
 
-
 CLASSIFICAÇÃO
 
 DEFINIÇÃO
 
 EXEMPLOS
-
 
 PRIMITIVO
 
@@ -177,14 +168,12 @@ língua e, portanto, não traz afixos
 
 pedra, mulher, felicidade
 
-
 DERIVADO
 
 Deriva de uma palavra primitiva,
 traz afixos (sufixos ou prefixos).
 
 pedre/ro, mulherão, infelicidade
-
 
 SIMPLES
 
@@ -193,7 +182,6 @@ palavra, possui apenas um
 radical.
 
 homem, pombo, arco
-
 
 COMPOSTO
 
@@ -204,7 +192,6 @@ radical.
 homem-bombo, pombo-
 correio, arco-íris
 
-
 COMUM
 
 Designa uma espécie ou um ser
@@ -212,14 +199,12 @@ qualquer representativo de uma.
 
 mulher, cidade, cigarro
 
-
 PRÓPRIO
 
 Designa um indivíduo específico
 da espécie.
 
 Maria, Paris, Malboro
-
 
 CONCRETO
 
@@ -230,7 +215,6 @@ real ou imaginário.
 
 pedra, menino, carro, Deus, fada
 
-
 ABSTRATO
 
 Designa ação, estado,
@@ -239,7 +223,6 @@ sentimento, qualidade, conceito.
 criação, coragem, liberalismo
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 COLETIVOS
 
@@ -261,7 +244,6 @@ A saída é o estudo (Abstrato => solução) x A saída de incêndio é ali (Con
 Os substantivos ainda podem ser classificados de acordo com a sua flexão de gênero (masculino/
 feminino).
 
-
 BIFORMES
 
 Mudam de forma para indicar
@@ -271,7 +253,6 @@ lobo x loba
 capitão x capitã
 ateu x ateia
 boi x vaca
-
 
 UNIFORMES
 
@@ -285,7 +266,6 @@ famosa
 
 Os substantivos uniformes ainda subdividem-se em:
 
-
 EPICENOS
 
 Referem-se a animais aue só têm
@@ -298,7 +278,6 @@ A variação de gênero se dá com
 acréscimo de "macho/fêmea": a
 cobra macho, o gavião fêmea...
 
-
 SOBRECOMUNS
 
 Referem-se a pessoas de ambos
@@ -307,7 +286,6 @@ os sexos.
 A criança, O cônjuge, O carrasco,
 A pessoa, O monstro, O algoz, A
 vítima.
-
 
 COMUNS DE DOIS GÊNEROS
 
@@ -319,7 +297,6 @@ O chefe, A chefe, O cliente, A
 cliente, O suicida, A suicida.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 outro determinante, como
 pronome, numeral...).
@@ -348,7 +325,6 @@ dissolver > dissolução;
 corromper > corrupção.
 
 Veja um quadro com as mais comuns terminações formadoras de substantivos.
-
 
 Faca>facada
 Sorvete>sorveteria
@@ -397,7 +373,6 @@ CANTAR CANTO
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ALMOÇAR ALMOÇO
 
 Além disso, destaco que substantivos podem surgir por processos de nominalização de
@@ -444,7 +419,6 @@ Lembre-se da regra: o artigo ("um") tem o poder de substantivar qualquer classe:
 Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Au Ia 01
 
@@ -516,7 +490,6 @@ Contudo, há palavras que admitem duas e até três formas de plural:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Charlatão: charlatões — charlatães
 Corrimão: corrimãos — corrimões
 Cortesão: cortesãos — cortesões
@@ -576,7 +549,6 @@ Ou seja, nesses casos são corretas as duas formas!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: banhos-ma ri a OU banhos-marias
 pombos-correio OU pombos-correios
 salários-família OU salários-famílias
@@ -624,7 +596,6 @@ Por outro lado, "louva-a-deus" não varia.
 Para finalizar, lembre-se que o plural de "arco-íris" é "arcos-íris".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 I«** IX
 
@@ -697,7 +668,6 @@ Queridinho, devolva o que roubou, (depreciativo; irônico)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Há diversos outros sufixos de grau do substantivo. Vejamos também seus valores no discurso:
 
 Ex: Então... O sabichão aí se enganou de novo? (ironia)
@@ -741,7 +711,6 @@ A) amigo - amigalhão.
 : E) pata - pataca.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Comentários:
 
@@ -808,7 +777,6 @@ Sujeito Adj. Adv.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Vejamos as classes de cada uma das palavras do exemplo acima:
 
 Os: artigo, variável, se refere ao substantivo "patinhos" e concorda com ele em gênero
@@ -864,7 +832,6 @@ Essas classes que se referem ao substantivo são o ortigo, o numeral, o adjetivo
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Então, já podemos perceber que o "substantivo" é o núcleo dos termos sintáticos sublinhados nos
 exemplos
 abaixo:
@@ -910,7 +877,6 @@ básica entre a classe e a função sintática.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ADJETIVo
 
 0 adjetivo é a classe variável que se refere ao substantivo ou termo de valor
@@ -934,13 +900,11 @@ Ex: "Cidadão inglês"* "Cidadão da Inglaterra" x "Cidadão que é nativo da In
 
 Classificação dos adjetivos
 
-
 CLASSIFICAÇÃO
 
 DEFINIÇÃO
 
 EXEMPLOS
-
 
 SIMPLES
 
@@ -948,13 +912,11 @@ Possui apenas um radical.
 
 Estilo literário.
 
-
 COMPOSTO
 
 Possui mais de um radical.
 
 Estilo lítero-musical.
-
 
 PRIMITIVO
 
@@ -963,7 +925,6 @@ outra palavra.
 
 Homem bom.
 
-
 DERIVADO
 
 É formado a partir de outra
@@ -971,14 +932,12 @@ palavra.
 
 Ele é bondoso.
 
-
 EXPLICATIVO
 
 Indica característica inerente e
 geral do ser.
 
 Homem mortal.
-
 
 RESTRITIVO
 
@@ -989,13 +948,11 @@ Homem valente.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 GENTÍLICO
 
 Relativos a povos e raças.
 
 israelita
-
 
 PÁTRIO
 
@@ -1047,7 +1004,6 @@ algumas exceções que são
 recorrentes em sua prova:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Adjetivo composto formado por "adjetivo + substantivo"
 
@@ -1101,7 +1057,6 @@ conceito expresso
 pelo substantivo, restringindo seu significado.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 0 gramático Celso Cunha dá os seguintes exemplos:
 
@@ -1175,7 +1130,6 @@ Comentários:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 "antiéticas" e "ilegais" qualificam sim o substantivo "práticas". Contudo,
 "combatidas" é um verbo numa
 frase em voz passiva: "devem ser combatidas" (ver aula de verbos), não é um adjetivo. Questão
@@ -1239,7 +1193,6 @@ Seus filhos são bonitos
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Na frase acima, o pronome "seus" é classificado como pronome possessivo "adjetivo",
 porque se refere ao
 substantivo "filhos", como um adjetivo faria.
@@ -1251,7 +1204,6 @@ da sua ocorrência.
 Vejamos o exemplo abaixo:
 
 Ex: Minhas mãos estão limpas, lave as suas [mãos].
-
 
 "Minhas" é pronome
 possessivo substantivo,
@@ -1296,7 +1248,6 @@ incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ORDEM DA EXPRESSÃo NoMINAL "SUBSTANTIVo +
 ADJETIVo"
 
@@ -1321,7 +1272,6 @@ Ex: Candidato pobre x Pobre candidato
 
 Mudança no sentido: "pobre" é um adjetivo objetivo relativo a recursos financeiros. Na
 segunda expressão, "pobre" significa coitado, digno de pena.
-
 
 Vejam os pares principais que se encaixam nesse segundo caso.
 
@@ -1348,7 +1298,6 @@ mulher nova (mulher jovem) soldado bravo (irritado)
 velho amigo (de longa data) falso médico (não é médico)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 amigo velho (idoso) médico falso (não é verdadeiro)
 
@@ -1394,7 +1343,6 @@ O carioca fumante soprou fumaça nas crianças, (substantivo + adjetivo)
 O fumante carioca soprou fumaça nas crianças, (substantivo + adjetivo)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Em alguns casos, pode ser difícil detectar quem é o substantivo (Ex: sábio religioso),
 então a gramática nos
@@ -1457,7 +1405,6 @@ Alguns exemplos de outras locuções e seus adjetivos correspondentes:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 de irmão fraternal de frente
 frontal
 de paixão passional de ouro áureo
@@ -1512,7 +1459,6 @@ temos
 locução adjetiva e o termo não funciona como adjetivo.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Então, se o termo preposicionado tiver valor de agente ou de posse, teremos uma
 locução adjetiva e o
@@ -1569,7 +1515,6 @@ Senna é o melhor do Brasil!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Gradua uma qualidade/característica ("bom") em relação a outros seres que
 também têm ou podem ter
 aquela qualidade, ou seja, em relação à totalidade (o mundo todo).
@@ -1582,9 +1527,9 @@ ser.
 
 Pode ocorrer com:
 
-Item. 1. uso de advérbios de intensidade (absoluto analítico): "sou muito esforçado" e
+1. uso de advérbios de intensidade (absoluto analítico): "sou muito esforçado" e
 
-Item. 2. de sufixos (absoluto sintético):
+2. de sufixos (absoluto sintético):
 difícil => dific/7/mo;
 comum => comuníssimo;
 bom => ótimo;
@@ -1607,26 +1552,25 @@ em alto grau.
 
 Vejamos alguns deles:
 
-Item. 1. Repetição: Maria é linda, linda, linda.
+1. Repetição: Maria é linda, linda, linda.
 
-Item. 2. Prefixos intensificadores: Maria é ultraexigente.
+2. Prefixos intensificadores: Maria é ultraexigente.
 
-Item. 3. Aumentativo ou diminutivo intensificador Ele é rapidinho/rapidão/rapidaço.
+3. Aumentativo ou diminutivo intensificador Ele é rapidinho/rapidão/rapidaço.
 
-Item. 4. Comparação breve: Isso é claro como o dia.
+4. Comparação breve: Isso é claro como o dia.
 
 João éfeio como um cão.
 
-Item. 5. Expressões fixas, cristalizadas pelo uso: O sociólogo é podre de rico.
+5. Expressões fixas, cristalizadas pelo uso: O sociólogo é podre de rico.
 
 Esse é um pedreiro de mão cheia.
 
-Item. 6. Artigo definido indicativo de "notoriedade": Ele não é um médico qualquer, ele é o médico.
+6. Artigo definido indicativo de "notoriedade": Ele não é um médico qualquer, ele é o médico.
 
 Para esquematizar, vejamos um quadro resumo:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 l«*A IX
 
@@ -1661,7 +1605,6 @@ Portanto, gabarito Letra (D).
 (PGE-PE / ANALISTA JUDICIÁRIO / 2019)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 A própria palavra "crise" é bem mais a expressão de um movimento do espírito que de
 um juízo fundado em
@@ -1709,7 +1652,6 @@ texto. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ADVÉRBIo
 
 0 advérbio é classe invariável que se refere essencialmente ao verbo, indicando a
@@ -1755,7 +1697,6 @@ Por que tantos desistem? => Não disseram por que tantos desistem.
 Rigorosamente, "por que" é considerada uma locução adverbial interrogativa de cousa.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 l«** IX
 
@@ -1832,7 +1773,6 @@ Ex: Estudo sempre ("advérbio" de tempo).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Estudo a todo momento, ("locução adverbial" de tempo).
 Estudo sempre que posso, ("oração adverbial" de tempo).
 
@@ -1851,7 +1791,6 @@ demais: intensidade
 0 sempre: frequência
 hoje e ontem: tempo
 
-
 C(orrupt 0
 
 L rouboi J À
@@ -1863,7 +1802,6 @@ adverbial de
 meio/instrumento
 
 1* provavelmente:
-
 
 ccirrup to
 cairá
@@ -1908,7 +1846,6 @@ afinal,
 amiúde (frequentemente), breve, constantemente, entrementes, imediatamente,
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 primeiramente, provisoriamente, sucessivamente, às vezes, à tarde, à noite, de manhã, de
 repente, de vez em quando, de quando em quando, a qualquer momento, de tempos em
@@ -1962,7 +1899,6 @@ mas sim modifica um
 verbo, dando a ele circunstância (de modo rápido).
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Advérbio com "aparência" de adjetivo
 
@@ -2024,7 +1960,6 @@ um jogo vivido cotidiana(mente) e mais ou menos silenciosamente. Questão incorr
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 PALAVRAS E EXPRESSÕES DENOTATIVAS
 
 São palavras/expressões que parecem advérbios, muitas vezes até são classificadas como
@@ -2083,7 +2018,6 @@ apenas há uma perda de realce/ênfase.
 Situação: então, mas, se, agora, afinal etc.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 São verdadeiros marcadores discursivos, expressões que introduzem, situam um comentário,
 muito comuns na linguagem falada.
@@ -2147,9 +2081,7 @@ O padre até riu de mim. (inclusive riu)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Equipe Português Estratégia Concursos,
-
 
 O padre riu até de mim, (riu inclusive de mim)
 
@@ -2218,7 +2150,6 @@ qualquer prejuízo sintático ou semântico:
 
 0 0 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 (IPHAN / CARGOS DE NÍVEL MÉDIO / 2018)
 
 Essa estranha "margem de manobra", ou, em melhores palavras, essa interseção entre um profundo
@@ -2237,7 +2168,6 @@ Essa estranha "margem de manobra" é que mobiliza os homens para a ação.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ARTIGO
 
 O artigo é classe variável em gênero e número que acompanha substantivos, indicando se
@@ -2247,7 +2177,6 @@ masculino ou feminino, singular ou plural, definido ou indefinido.
 Por sempre estar modificando um substantivo, sempre exerce a função de adjunto
 adnominal. Pode ocorrer
 aglutinado com preposições (em e de): "no", "na", "dos", "das".
-
 
 ARTIGOS DEFINIDOS
 O, A, OS , AS
@@ -2301,7 +2230,6 @@ Após o pronome indefinido "todo", o artigo definido indica "completude", "intei
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Ex: Toda casa precisa de reforma, (todas as casas, qualquer casa, casas em geral)
 
 Toda a casa precisa de reforma, (a casa inteira)
@@ -2350,7 +2278,6 @@ melhor. Este é o chamado
 "artigo de notoriedade".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 fSIAf
 DIFÍCIL!
@@ -2435,11 +2362,9 @@ femininos,
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 icomo Bahia, Recife, Brasília. Fique esperto! Questão correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 NUMERAL
 
@@ -2494,7 +2419,6 @@ INDO MAIS
 FUNDO!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Se indicar posição numa ordem, uma letra pode ser usada como um numeral ordinal:
 
@@ -2554,7 +2478,6 @@ quantificando o substantivo
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 INTERJEIÇÃO
 
 Interjeição é classe gramatical invariável que expressa emoções e estados de espírito.
@@ -2604,7 +2527,6 @@ Considerando as ideias, os sentidos e os aspectos linguísticos do texto apresen
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 No texto, o termo "oh!" (linha 11), pertencente à classe das interjeições, exprime surpresa e
 admiração por
 parte do autor.
@@ -2615,7 +2537,6 @@ De fato, "oh" é uma interjeição, mas não exprime surpresa, apenas admiraçã
 incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 PALAVRAS ESPECIAIS
 
@@ -2644,13 +2565,11 @@ regência do adjetivo "anterior" (£.3) e presença do artigo feminino antes do 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 Temos crase pela fusão entre "anterior A+A (época) dos dinossauros. Esse A foi
 considerado artigo diante de
 substantivo eliptico. Questão correta.
-
 
 Advérbio:
 modifica verbo
@@ -2663,13 +2582,11 @@ Só bebe vinho fino, (exclusão/restrição)
 
 A
 
-
 Palavra
 denotativa
 
 Só você reclama.
 (exclusão/restrição)
-
 
 Adjetivo
 
@@ -2677,7 +2594,6 @@ X J
 
 Estou só/estamos sós.
 (=sozinho)
-
 
 "
 
@@ -2687,7 +2603,6 @@ Preposição
 Fui até a última parte,
 
 (limite tempo/espaço)
-
 
 '--------------------------------------- >
 
@@ -2704,12 +2619,10 @@ Até o padre riu de mim.
 
 -
 
-
 Advérbio
 
 Ele até riu de mim.
 (inclusão/reforço)
-
 
 Sentido de tempo
 
@@ -2739,7 +2652,6 @@ demitiria.
 Seu filho só faz bobagem e você ainda o recompensa.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 <. HORA DE
 
@@ -2805,7 +2717,6 @@ termo destacado apresenta
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 ; Comentários:
 
 = "Hoje" é um advérbio de tempo. "Ainda" também é advérbio de tempo e tem sentido
@@ -2828,7 +2739,6 @@ iNesse caso, temos "ainda" com mero valor enfático, como em: chegou ainda agora
 f:ae..s.t.u..d..o..um...a..is...a..i.n..d..a...(.m...a..i.s..e...m...a..i.s..)Q...u..e..s..t
 .ã..o...i.n..c.o..r.r.e..t.a..,...
 
-
 Evite usar "o mesmo" retomando pessoas/objetos, como se fosse "ele", em construções como:
 
 Ex: O suspeito chegou ao local. O mesmo fugiu dos policiais sem que os mesmos
@@ -2842,13 +2752,11 @@ ocorrerá com você, isso também ocorrerá com você)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 QUESTõES CoMENTADAS - SUBSTANTIvo - CEBRASPE
 
-Item. 1. (CEBRASPE / SEDF / 2017)
+1. (CEBRASPE / SEDF / 2017)
 
 Eu seria o último dos mortais a duvidar que os bons escritores foram
 abençoados com uma
@@ -2868,7 +2776,7 @@ A questão trabalha o fato de que "último" também pode ter valor
 adjetivo, quando modifica
 um substantivo: fiquei em último lugar. Não foi o caso aqui. Questão correta.
 
-Item. 2. (CEBRASPE / TRT 1a Região / ANALISTA / 2008)
+2. (CEBRASPE / TRT 1a Região / ANALISTA / 2008)
 
 A flexão de plural da palavra "mão de obra" corresponde a mãos de obras,
 ou seja, utiliza-se o
@@ -2886,10 +2794,9 @@ compostos. Questão incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - ADJETIvo - CEBRASPE
 
-Item. 1. (CEBRASPE / SLU-DF / 2019)
+1. (CEBRASPE / SLU-DF / 2019)
 
 "Logo atrás de mim, uma senhora furiosa levantou-se".
 
@@ -2923,7 +2830,7 @@ uma senhora levantou-se furiosa" continua apresentando uma articulação
 lógica entre as
 ideias. Por essa razão, o item está correto. Questão correta.
 
-Item. 2. (CEBRASPE / SEFAZ-RS / 2019)
+2. (CEBRASPE / SEFAZ-RS / 2019)
 
 "Em um concerto em Paris, Franz Liszt tocou uma peça do (hoje)
 desconhecido compositor,
@@ -2951,10 +2858,9 @@ As palavras "admirável", "maravilhoso" e "extraordinário" antecedem o
 termo "adjetivos" e
 são retomadas por este que as resume, evitando repetições desnecessárias. Gabarito letra C.
 
-Item. 3. (CEBRASPE / SEDF / 2017)
+3. (CEBRASPE / SEDF / 2017)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 As duas questões mais profundas sobre a mente são: "O que possibilita a
 inteligência?" e "O
@@ -2976,7 +2882,7 @@ podemos inserir o "in" com sentido de negação: ininteligível
 (aquilo que não se pode
 entender ou ler). Questão incorreta.
 
-Item. 4. (CEBRASPE/ CÂMARA DOS DEPUTADOS/ ANALISTA / 2012)
+4. (CEBRASPE/ CÂMARA DOS DEPUTADOS/ ANALISTA / 2012)
 
 No trecho "monoteísmo judaico-cristão nas ciências", o adjetivo é
 grafado na sua forma mais
@@ -2992,12 +2898,11 @@ Questão incorreta pela regra geral do plural dos compostos.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - EXPRESSõES CoM SUBSTANTIvo E
 
 ADJETIVO - CEBRASPE
 
-Item. 1. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019 - Adaptada)
+1. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019 - Adaptada)
 
 Cada uma das opções a seguir apresenta trecho do texto 1A11-1 seguido de
 uma proposta de
@@ -3032,10 +2937,9 @@ Gabarito letra D.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - ADVÉRBIo - CEBRASPE
 
-Item. 1. CEBRASPE / DPE-RS / 2022
+1. CEBRASPE / DPE-RS / 2022
 
 Nessa sociedade líquido-moderna de hiperconsumidores, o desejo satisfeito pelo
 consumo gera a
@@ -3065,7 +2969,7 @@ murcha ou uma garrafa de plástico vazia, (ou seja, não há prazer mais)
 
 Questão incorreta.
 
-Item. 2. CEBRASPE / DPE-RS / 2022
+2. CEBRASPE / DPE-RS / 2022
 
 0 direito, o processo decisório e os julgamentos são eminentemente de
 natureza humana e
@@ -3095,7 +2999,7 @@ bonito) ou outro advérbio (muito bem); não pode modificar substantivo.
 
 Questão incorreta.
 
-Item. 3. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+3. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Primeiro fazia uma cara de indecisão, depois um sorriso triste
 contrabalançado por um olhar
@@ -3109,7 +3013,6 @@ alteração de sentido do texto, embora fosse preservada sua correção gramatic
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Comentários:
 
 0 advérbio é a única classe que modifica um adjetivo. Na redação original,
@@ -3118,7 +3021,7 @@ deslocado, passará a modificar "contrabalançado", o que não causa erro, mas m
 
 Questão correta.
 
-Item. 4. (CEBRASPE / FUB / 2018)
+4. (CEBRASPE / FUB / 2018)
 
 i Em um momento no qual a presença da inteligência
 artificial na vida cotidiana frequentemente gera medo
@@ -3192,10 +3095,9 @@ transcende o nível lexical que começou o espantoso avanço das máquinas sobre
 o engenho humano
 nessa área. Questão correta.
 
-Item. 5. (CEBRASPE / BNB / 2018)
+5. (CEBRASPE / BNB / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Texto 2A1-I
 
@@ -3279,10 +3181,9 @@ detectar casos de não fraudes, mas os de fraude podem ainda ser detectados.
 Logo, a retirada dessa
 palavra alteraria o sentido original. Questão incorreta.
 
-Item. 6. (CEBRASPE / PF / 2018)
+6. (CEBRASPE / PF / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 i A natureza jamais vai deixar de nos surpreender.
 As teorias científicas de hoje, das quais somos justamente
@@ -3335,10 +3236,9 @@ Proposta de reescrita: Teorias científicas em tempo nenhum serão a verdade fin
 
 Logo, o item está incorreto. Questão incorreta.
 
-Item. 7. (CEBRASPE / MRE / DIPLOMATA / 2018)
+7. (CEBRASPE / MRE / DIPLOMATA / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 Texto IX
 
@@ -3399,7 +3299,7 @@ Pero Vaz de Caminha...
 
 Questão correta.
 
-Item. 8. (CEBRASPE / SEDF / 2017)
+8. (CEBRASPE / SEDF / 2017)
 
 0 sentido original da oração "Essa competência pode não se ter originado nos manuais
 de estilo" seria
@@ -3413,7 +3313,6 @@ do advérbio de negação "não" faz toda a diferença:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 Essa competência pode não se ter originado nos manuais de estilo (sentido de
 possibilidade, "pode ter
 sido originado" ou "pode não ter sido originado". São duas possibilidades.)
@@ -3424,7 +3323,7 @@ certeza, não foi originado". Há apenas uma possibilidade.)
 
 Portanto, questão correta.
 
-Item. 9. (CEBRASPE / CÂM. DEPUTADOS / ANALISTA LEGISLATIVO / 2014)
+9. (CEBRASPE / CÂM. DEPUTADOS / ANALISTA LEGISLATIVO / 2014)
 
 Oficialmente, o presidente Nazarbayev justificou a mudança alegando o risco permanente
 de terremoto
@@ -3436,7 +3335,7 @@ Comentários:
 
 Oficialmente é advérbio; permanente é adjetivo. Questão incorreta.
 
-Item. 10. (CEBRASPE / POLÍCIA MILITAR-CE / 2014)
+10. (CEBRASPE / POLÍCIA MILITAR-CE / 2014)
 
 A correção gramatical e o sentido original do texto seriam mantidos se, no trecho "a
 vida aparece
@@ -3452,10 +3351,9 @@ incorreta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 QUESTõES CoMENTADAS - PALAvRAS ESPECIAIS - CEBRASPE
 
-Item. 1. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 E 4 / 2019)
+1. (CEBRASPE / PGE-PE / CONHECIMENTOS BÁSICOS 1, 2, 3 E 4 / 2019)
 
 Nesse contexto, a Lei Maria da Penha teria o papei de assegurar o reconhecimento das
 mulheres em situação de violências (incluída a psicológica) pelo direito; afinal, é constatando
@@ -3490,10 +3388,9 @@ correta.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - SUBSTANTIvo - CEBRASPE
 
-Item. 1. (CEBRASPE / SEDF / 2017)
+1. (CEBRASPE / SEDF / 2017)
 
 Eu seria o último dos mortais a duvidar que os bons escritores foram abençoados com uma
 dose inata de fluência mais sintaxe e memória para as palavras. Ninguém nasceu com
@@ -3501,23 +3398,22 @@ competência para redigir.
 
 A palavra "último" foi empregada com valor de substantivo.
 
-Item. 2. (CEBRASPE / TRT 1a Região / ANALISTA / 2008)
+2. (CEBRASPE / TRT 1a Região / ANALISTA / 2008)
 
 A flexão de plural da palavra "mão de obra" corresponde a mãos de obras, ou seja, utiliza-se o
 mesmo processo de flexão de plural utilizado no substantivo "boias-frias".
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. INCORRETA
+2. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - ADJETIvo - CEBRASPE
 
-Item. 1. (CEBRASPE / SLU-DF / 2019)
+1. (CEBRASPE / SLU-DF / 2019)
 
 "Logo atrás de mim, uma senhora furiosa levantou-se
 
@@ -3527,7 +3423,7 @@ subsecutivo.
 O deslocamento do termo "furiosa" (£.8) para imediatamente após a forma verbal
 "levantou-se" (£.9) manteria a coerência do texto.
 
-Item. 2. (CEBRASPE / SEFAZ-RS / 2019)
+2. (CEBRASPE / SEFAZ-RS / 2019)
 
 "Em um concerto em Paris, Franz Liszt tocou uma peça do (hoje) desconhecido compositor,
 junto com outra, do admirável, maravilhoso e extraordinário Beethoven (os adjetivos aqui
@@ -3547,7 +3443,7 @@ d) "desconhecido" e "compositor".
 
 e) "hoje" e "sempre".
 
-Item. 3. (CEBRASPE / SEDF / 2017)
+3. (CEBRASPE / SEDF / 2017)
 
 As duas questões mais profundas sobre a mente são: "O que possibilita a inteligência?" e "O
 que possibilita a consciência?". Com o advento da ciência cognitiva, a inteligência tornou-se
@@ -3555,32 +3451,30 @@ inteligível...
 
 No texto, tanto a palavra "inteligível" quanto a palavra "impenetrável" têm sentido negativo.
 
-Item. 4. (CEBRASPE/ CÂMARA DOS DEPUTADOS/ ANALISTA / 2012)
+4. (CEBRASPE/ CÂMARA DOS DEPUTADOS/ ANALISTA / 2012)
 
 No trecho "monoteísmo judaico-cristão nas ciências", o adjetivo é grafado na sua forma mais
 conhecida, embora também estejam corretas as formas judaicocristão e judaico cristão.
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. LETRA C
-
-SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
-
-Item. 3. INCORRETA
-
-Item. 4. INCORRETA
+2. LETRA C
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
+3. INCORRETA
+
+4. INCORRETA
+
+SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 LISTA DE QUESTõES - EXPRESSõES CoM SUBSTANTIvo E
 
 ADJETIVO - CEBRASPE
 
-Item. 1. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019 - Adaptada)
+1. (CEBRASPE / SEFAZ-RS / AUDITOR FISCAL / 2019 - Adaptada)
 
 Cada uma das opções a seguir apresenta trecho do texto 1A11-1 seguido de uma proposta de
 reescrita. Assinale a opção cuja proposta altera os sentidos do texto e suas relações coesivas.
@@ -3597,14 +3491,13 @@ E) "desprezo coletivo" (L.9): coletivo desprezo
 
 GABARITo
 
-Item. 1. LETRA D
+1. LETRA D
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - ADvÉRBIo - CEBRASPE
 
-Item. 1. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
+1. (CEBRASPE / EMAP / CARGOS DE NÍVEL SUPERIOR / 2018)
 
 Primeiro fazia uma cara de indecisão, depois um sorriso triste contrabalançado por um olhar
 heroicamente exultante, até que esse exame de consciência era cortado pela voz do
@@ -3614,7 +3507,7 @@ ouvindo...
 Caso o advérbio "heroicamente" (L.2) fosse deslocado para logo após "contrabalançado"
 (L.1), haveria alteração de sentido do texto, embora fosse preservada sua correção gramatical.
 
-Item. 2. (CEBRASPE/FUB/2018)
+2. (CEBRASPE/FUB/2018)
 
 t Em um momento no qual a presença da inteligência
 artificial na vida cotidiana frequentemente gera medo
@@ -3667,8 +3560,7 @@ uma língua não é feita apenas de conjuntos de palavras.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 3. (CEBRASPE / BNB / 2018)
+3. (CEBRASPE / BNB / 2018)
 
 Texto 2A1-I
 
@@ -3724,10 +3616,9 @@ Julgue o próximo item, relativos aos sentidos e a aspectos linguísticos do tex
 Na linha 30, a palavra "apenas7 foi empregada para dar ênfase ao sentido do verbo "detectar7,
 mas sua exclusão não alteraria os sentidos originais do período como um todo.
 
-Item. 4. (CEBRASPE / PF / 2018)
+4. (CEBRASPE / PF / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 
 1 A natureza jamais vai deixar de nos surpreender.
 
@@ -3769,7 +3660,7 @@ Com relação aos sentidos do texto 14A15AAA, julgue o próximo item.
 Para conferir um tom menos categórico ao trecho "Teorias científicas jamais serão a verdade
 final" (I.9), poderia utilizar-se a expressão em tempo nenhum no lugar de "jamais".
 
-Item. 5. (CEBRASPE / MRE / DIPLOMATA/ 2018)
+5. (CEBRASPE / MRE / DIPLOMATA/ 2018)
 
 Texto IX
 
@@ -3815,14 +3706,13 @@ O advérbio "melhor" (1.19) foi empregado pelo autor para retificar conteúdo j�
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
-Item. 6. (CEBRASPE / SEDF / 2017)
+6. (CEBRASPE / SEDF / 2017)
 
 O sentido original da oração "Essa competência pode não se ter originado nos manuais
 de
 estilo" seria alterado caso a palavra "não" fosse deslocada para antes da forma verbal "pode".
 
-Item. 7. (CEBRASPE / CÂM. DEPUTADOS / ANALISTA LEGISLATIVO / 2014)
+7. (CEBRASPE / CÂM. DEPUTADOS / ANALISTA LEGISLATIVO / 2014)
 
 Oficialmente, o presidente Nazarbayev justificou a mudança alegando o risco permanente de
 terremoto em Almaty e a falta de espaço para crescimento.
@@ -3830,7 +3720,7 @@ terremoto em Almaty e a falta de espaço para crescimento.
 Julgue o próximo item, referente às ideias e aos aspectos linguísticos do texto acima.
 Os vocábulos "Oficialmente" e "permanente" pertencem à mesma classe gramatical.
 
-Item. 8. (CEBRASPE / POLÍCIA MILITAR-CE / 2014)
+8. (CEBRASPE / POLÍCIA MILITAR-CE / 2014)
 
 A correção gramatical e o sentido original do texto seriam mantidos se, no trecho "a
 vida
@@ -3838,28 +3728,27 @@ aparece relativamente rápido", a palavra "rápido" fosse substituída por rápi
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
-Item. 2. CORRETA
+2. CORRETA
 
-Item. 3. INCORRETA
+3. INCORRETA
 
-Item. 4. INCORRETA
+4. INCORRETA
 
-Item. 5. CORRETA
+5. CORRETA
 
-Item. 6. CORRETA
+6. CORRETA
 
-Item. 7. INCORRETA
+7. INCORRETA
 
-Item. 8. INCORRETA
+8. INCORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-
 LISTA DE QUESTõES - PALAvRAS ESPECIAIS - CEBRASPE
 
-Item. 1. (CEBRASPE / PGE-PE/ CONHECIMENTOS BÁSICOS 1, 2, 3 E 4/2019)
+1. (CEBRASPE / PGE-PE/ CONHECIMENTOS BÁSICOS 1, 2, 3 E 4/2019)
 
 Nesse contexto, a Lei Maria da Penha teria o papei de assegurar o reconhecimento das
 mulheres em situação de violências (incluída a psicológica) pelo direito; afinal, é constatando
@@ -3871,8 +3760,7 @@ suprimidos, desde que fosse inserida uma vírgula imediatamente após a palavra 
 
 GABARITo
 
-Item. 1. CORRETA
+1. CORRETA
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
-
 

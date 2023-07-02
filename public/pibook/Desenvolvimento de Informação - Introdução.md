@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Introdução.
-
+# Desenvolvimento de Informação - Introdução.
 
 Índice
 
@@ -28,7 +27,6 @@ Capítulo. Desenvolvimento de Informação - Introdução.
 12) Lista de Questões - Conceitos Básicos de Banco de Dados - CEBRASPE
 
 13) Lista de Questões - Conceitos Básicos de Banco de Dados - CESGRANRIO
-
 
 CoNCEIToS DE BANCo DE DADoS
 
@@ -84,7 +82,6 @@ trabalhando lá!). Aplicativos empresariais faziam acesso a arquivos sem um elem
 central para
 controlar o processo, isso criava o caos pois não tínhamos controle da redundância. Eis que surge o
 
-
 Sistema de Gerenciamento de Banco de Dados (SGBD) para atuar como um guardião do banco
 de
 dados, que substituiu a abordagem de arquivos. Vejamos uma figura para
@@ -92,7 +89,6 @@ esclarecer esses
 contextos:
 
 Sistema de arquivos Sistema de Banco de Dados
-
 
 Dados
 (arquivos)
@@ -128,7 +124,6 @@ o conceito.
 Uma forma tradicional de definir banco de dados é começar entendendo o significado das
 palavras
 que compõe o termo: Banco e dados.
-
 
 Banco tem diversas definições possíveis no dicionário da língua portuguesa. Dentre elas
 a que
@@ -203,7 +198,6 @@ representa? Os dados estão logicamente relacionados? Possuem uma finalidade
 específica?
 Acredito que sim! Tente responder a essas perguntas mentalmente antes de seguir em frente.
 
-
 EXEMPLIFICANDO
 
 Respondendo ... a agenda telefônica descreve um aspecto do mundo
@@ -246,7 +240,6 @@ dos livros teóricos sobre o assunto. Para entender essas diferenças peço que 
 observe a figura
 a seguir:
 
-
 Figura 2 - Visão geral do relacionamento entre banco de dados e SGBD
 
 Seguindo o fluxo de acesso aos dados, podemos observar que os usuários e programadores
@@ -268,13 +261,11 @@ Contudo, os SGBDs não se restringem apenas a manipulação dos dados. Eles
 fornecem uma
 variedade de programas com diferentes funcionalidades.
 
-
 k
 
 Gontrole dle
 t ransaçõe s
 á k
-
 
 1Ajuste/
 
@@ -289,7 +280,6 @@ F
 
 seguranç a
 cle acesstD
-
 
 ontrole d
 mcorrênc
@@ -339,7 +329,6 @@ Outros aspectos interessantes estão relacionados com o controle de transações
 recuperação após
 falha, otimização de consultas ou do próprio SGBD, auditoria por meio de logs de sistema, enfim,
 
-
 são várias as funcionalidades providas pelos softwares presentes em um SGBD. Vamos agora definir
 o próximo conceito: sistema de banco de dados!
 
@@ -356,7 +345,7 @@ Antes de continuarmos construindo nosso arcabouço teórico sobre o assunto vamo
 resolver
 algumas questões de provas passadas.
 
-Item. 1. Gestor da Informação (Curitiba)/2019
+1. Gestor da Informação (Curitiba)/2019
 
 O principal objetivo de um Sistema Gerenciador de Banco de Dados (SGBD) é:
 
@@ -403,10 +392,9 @@ necessidades da sua empresa mudam.
 
 Assim, reforçando a nossa resposta encontra-se na alternativa B.
 
-
 Gabarito: B.
 
-Item. 2. Ano: 2019 - Prefeitura de Jataí - GO - Analista de Tecnologia da Informação
+2. Ano: 2019 - Prefeitura de Jataí - GO - Analista de Tecnologia da Informação
 
 Com relação aos conceitos e às definições de banco de dados, assinale a alternativa correta.
 
@@ -449,7 +437,7 @@ apenas parte do banco de dados.
 
 Gabarito: B
 
-Item. 3. Ano: 2016 Órgão: TCE-SC Prova: Auditor Fiscal de Controle Externo - Informática
+3. Ano: 2016 Órgão: TCE-SC Prova: Auditor Fiscal de Controle Externo - Informática
 
 Com relação aos bancos de dados relacionais, julgue o próximo item.
 
@@ -473,8 +461,7 @@ l abordagem de banco de dados. Sendo assim, podemos afirmar que a questão está
 
 Gabarito: C.
 
-
-Item. 4. Ano: 2010 Órgão: Banco da Amazônia Prova: Técnico Científico - Tecnologia da Informação
+4. Ano: 2010 Órgão: Banco da Amazônia Prova: Técnico Científico - Tecnologia da Informação
 
 O dicionário de dados é uma das principais ferramentas para a administração
 dos dados
@@ -503,7 +490,6 @@ Assim, ao analisar as alternativas acima, podemos inferir que a alternativa
 incorreta, já a afirmação [2] está certa!
 
 Gabarito: E C.
-
 
 CARACTERÍSTICAS DA ABoRDAGEM DE BD
 
@@ -567,7 +553,6 @@ podemos observar a definição dos tipos de dados (VARCHAR2, DATE, NUMBER), bem 
 restrições de
 integridade (NOT NULL, DEFAULT).
 
-
 A próxima característica é uma decorrência da anterior. A partir do momento em que
 temos um
 dicionário de dados, é possível excluir da estrutura dos programas a definição dos
@@ -612,44 +597,43 @@ bastante conhecidas dentro do modelo de dados relacional/transacional.
 
 ESQUEMATIZANDO
 
-
 Acabamos de tratar das características que o Navathe utiliza para diferenciar sistemas
 de arquivo
 dos sistemas de banco de dados. Vamos agora listar as características descritas pelo
 Date e pelo
 Silberschatz. Date chama de benefícios da abordagem de banco de dados. Quais sejam:
 
-Item. 1. O dado pode ser compartilhado
+1. O dado pode ser compartilhado
 
-Item. 2. A redundância pode ser reduzida
+2. A redundância pode ser reduzida
 
-Item. 3. Inconsistências podem ser evitadas
+3. Inconsistências podem ser evitadas
 
-Item. 4. Pode-se utilizar o suporte a transações
+4. Pode-se utilizar o suporte a transações
 
-Item. 5. A integridade pode ser mantida
+5. A integridade pode ser mantida
 
-Item. 6. A segurança pode ser aperfeiçoada
+6. A segurança pode ser aperfeiçoada
 
-Item. 7. Requisitos conflitantes podem ser balanceados
+7. Requisitos conflitantes podem ser balanceados
 
-Item. 8. Padrões podem ser utilizados
+8. Padrões podem ser utilizados
 
 Já Abraham Silberschatz trata das desvantagens de se utilizar um sistema de arquivo:
 
-Item. 1. Redundância e inconsistência dos dados
+1. Redundância e inconsistência dos dados
 
-Item. 2. Dificuldade de acesso a dados
+2. Dificuldade de acesso a dados
 
-Item. 3. Isolamento dos dados
+3. Isolamento dos dados
 
-Item. 4. Problemas de integridade
+4. Problemas de integridade
 
-Item. 5. Problemas de atomicidade
+5. Problemas de atomicidade
 
-Item. 6. Anomalias de acesso concorrente
+6. Anomalias de acesso concorrente
 
-Item. 7. Problemas de segurança
+7. Problemas de segurança
 
 Lembrem-se, não precisamos decorar todas essas listas, apenas tomar conhecimento
 da sua
@@ -663,7 +647,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 1. Ano: 2019 - CREA-TO - Analista de Sistemas
+1. Ano: 2019 - CREA-TO - Analista de Sistemas
 
 No que diz respeito a banco de dados, julgue o item.
 
@@ -680,8 +664,7 @@ de dados.
 
 Gabarito: C
 
-
-Item. 2. Ano: 2018 Órgão: TCE-PB Cargo: Auditor de Constas Públicas Questão: 97
+2. Ano: 2018 Órgão: TCE-PB Cargo: Auditor de Constas Públicas Questão: 97
 
 A respeito de SGBDs, assinale a opção correta.
 
@@ -747,8 +730,7 @@ de posse da caneta, apenas ela poderá fazer alterações na base.
 
 Gabarito: D.
 
-Item. 3. Ano: 2019 - UFPB - Analista de Tecnologia da Informação
-
+3. Ano: 2019 - UFPB - Analista de Tecnologia da Informação
 
 Os bancos de dados estão implícitos na vida da sociedade moderna. Assinale a
 alternativa que
@@ -781,7 +763,7 @@ nossa resposta na alternativa C.
 
 Gabarito: C
 
-Item. 4. ANO: 2014 ÓRGÃO: TJ-AP PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS - DBA
+4. ANO: 2014 ÓRGÃO: TJ-AP PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS - DBA
 
 A redundância controlada de dados em um sistema de banco de dados ocorre quando
 
@@ -829,7 +811,7 @@ que é a nossa resposta.
 
 Gabarito: A.
 
-Item. 5. CETREDE - Fiscal Ambiental (Pref ltaitinga)/2019
+5. CETREDE - Fiscal Ambiental (Pref ltaitinga)/2019
 
 Antigamente, os bancos de dados eram manuais. Atualmente com a difusão tecnológica a
 grande maioria dos bancos de dados são digitais. Eles compõem um conjunto estruturado
@@ -875,7 +857,6 @@ c) ERRADA. Essa é uma vantagem dos bancos de dados digitais. Através de lingua
 consulta, o poder de processamento dos computadores permite acessar os dados de forma
 muito mais rápida que uma busca realizada manualmente.
 
-
 d) ERRADA. Essa é outra vantagem dos bancos de dados. Com a internet, por exemplo, é
 possível compartilhar informações com outros usuários em qualquer lugar do mundo por
 meio
@@ -891,7 +872,6 @@ Claro que, para isso, devem ser utilizadas técnicas de backup e redundância do
 Desta forma, podemos encontrar a nossa resposta para essa questão na alternativa B.
 
 Gabarito: B.
-
 
 PERSoNAGEM Do ECoSSISTEMA DE BD
 
@@ -961,7 +941,6 @@ não tem relação com o modelo de dados conceituai. Uma outra informação impo
 que segundo o
 CJ Date o Administrador de Dados também pode ser responsável pela criação do modelo conceituai.
 
-
 * Monitorar o desempenho e responder a requisitos de mudanças.
 
 * Definir normas de descarga e recarga (dumping)2
@@ -971,7 +950,7 @@ x/ HORA DE
 
 « PRATICAR!
 
-Item. 1. Ano: 2019 - CRN - 3- Região (SP e MS) - Assistente Técnico
+1. Ano: 2019 - CRN - 3- Região (SP e MS) - Assistente Técnico
 
 No que se refere aos conceitos gerais de banco de dados, assinale a alternativa correta.
 
@@ -1008,7 +987,7 @@ dados nem sempre é onerosa, alguns fatores podem permitir uma alteração rápi
 
 Gabarito: D
 
-Item. 2. Ano: 2018 Órgão: EBSERH Prova: Analista de Tecnologia da Informação
+2. Ano: 2018 Órgão: EBSERH Prova: Analista de Tecnologia da Informação
 
 Com relação a banco de dados, julgue o item seguinte.
 
@@ -1022,7 +1001,6 @@ de dados (SGBD).
 
 2 Carga e recarga ou dumping é uma outra forma de definir backup de banco de dados.
 
-
 Comentário: Observe que neste texto podemos verificar explicitamente o benefício do
 sistema
 de gerenciamento de banco de dados. O administrador de banco de dados vai atribuir aos
@@ -1034,7 +1012,7 @@ os dados, é o próprio SGBD. Desta forma, temos uma alternativa correta.
 
 Gabarito: C.
 
-Item. 3. ANO: 2010 ÓRGÃO: TCE-SP PROVA: AGENTE DA FISCALIZAÇÃO FINANCEIRA - PRODUÇÃO E
+3. ANO: 2010 ÓRGÃO: TCE-SP PROVA: AGENTE DA FISCALIZAÇÃO FINANCEIRA - PRODUÇÃO E
 BANCO DE DADOS
 
 Considerando que os dados constituem um dos bens mais valiosos de uma
@@ -1074,14 +1052,12 @@ dados,
 quem são as pessoas que precisam dos mesmos e ainda, procurar padronizar os nomes dos atributos
 e outros objetos para que dados redundantes não sejam armazenados.
 
-
 O outro indivíduo importante neste processo é o administrador de banco de dados. Nessa
 função
 encontramos todo o suporte técnico necessário para as atividades diárias de um sistema
 de banco
 de dados. O DBA distribui as permissões de acesso aos dados, criar os objetos que vão armazenar os
 dados, faz ajustes para que eles funcionem de forma adequada.
-
 
 EVoLUçÃo HISTóRICA DoS SCBDS
 
@@ -1113,7 +1089,6 @@ década
 de 1960. Charles Bachmann desenvolveu o primeiro SGBD chamado Integrated Data Store (IDS)
 
 1 * Também vale para o modelo hierárquico.
-
 
 enquanto trabalhava na Honeywell em 1964. Esse sistema usava o modelo de rede onde as
 relações
@@ -1160,12 +1135,11 @@ informações.
 
 Vejamos algumas questões recentes sobre o assunto:
 
-
 HORA DE
 
 PRATICAR!
 
-Item. 1. Analista (Pref Vila Velha)/Desenvolvimento/2020
+1. Analista (Pref Vila Velha)/Desenvolvimento/2020
 
 Uma das estruturas de bancos de dados é a que tem o formato conhecido por "árvore".
 Nessas
@@ -1196,7 +1170,7 @@ Desta forma, temos o gabarito da questão na alternativa A.
 
 Gabarito: A.
 
-Item. 2. Ano: 2019 Órgão: MPC-PA - Analista Ministerial - Tecnologia da Informação
+2. Ano: 2019 Órgão: MPC-PA - Analista Ministerial - Tecnologia da Informação
 
 Assinale a opção que apresenta o modelo de dados caracterizado por organizar os dados
 em
@@ -1226,7 +1200,6 @@ principalmente pelos Sistemas de Gestão de Informações da IBM nos anos 60 e 7
 são
 raramente vistos hoje devido a certas ineficiências operacionais.
 
-
 Curiosidade: O modelo hierárquico foi implementado em um esforço conjunto da IBM e
 North
 American Rockwell em 1965. A IBM teve o Information Management System IMS (DL/1),
@@ -1234,7 +1207,7 @@ largamente utilizado durante as décadas de 1970 e início da década de 1980
 
 Gabarito: D
 
-Item. 3. Administrador de Rede (CM Piracicaba)/2019
+3. Administrador de Rede (CM Piracicaba)/2019
 
 Sobre o modelo hierárquico de bancos de dados, é correto afirmar que
 a) um registro não pode ser pai de mais de um registro filho.
@@ -1258,7 +1231,6 @@ podem ter
 outros valores além de inteiros, por exemplo, valores textuais.
 
 Gabarito:
-
 
 Modelo Relacional
 
@@ -1308,7 +1280,6 @@ registro de cada vez, um programador pode usar o idioma para especificar operaç
 individuais
 que seriam realizados em todo o conjunto de dados.
 
-
 Devido à natureza técnica do artigo e a relativa complicação matemática
 presente no texto, o
 significado e proposição do artigo não foram prontamente identificados. Entretanto, Codd
@@ -1343,7 +1314,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 4. FAEPESUL - Assistente (CRC SC)/Suporte em lnformática/2019
+4. FAEPESUL - Assistente (CRC SC)/Suporte em lnformática/2019
 
 A definição correta para banco de dados relacionais é:
 
@@ -1376,7 +1347,6 @@ medicina, multimídia e física nuclear, todas com necessidades de flexibilidade
 definir como os
 dados seriam representados e acessados.
 
-
 Este fato levou ao início de pesquisas em bancos de dados orientados a objetos, nos
 quais os
 usuários poderiam definir seus próprios métodos de acesso aos dados e como
@@ -1404,15 +1374,15 @@ modelo objeto-relacional, pois a grande maioria das empresas continuou utilizand
 bancos de
 dados relacionais. Contudo esse modelo começou a apresentar outra lista de problemas ou desafios:
 
-Item. 1. Dados na ordem de dezenas ou centenas de TB (terabytes) - abordagem de cluster é
+1. Dados na ordem de dezenas ou centenas de TB (terabytes) - abordagem de cluster é
 cara.
 
-Item. 2. Poder de crescimento elástico horizontal - controle de transação ACID torna inviável
+2. Poder de crescimento elástico horizontal - controle de transação ACID torna inviável
 com a elasticidade.
 
-Item. 3. Fácil distribuição dos dados e/ou processamento - SGBD paralelos são caros.
+3. Fácil distribuição dos dados e/ou processamento - SGBD paralelos são caros.
 
-Item. 4. Tipos de dados variados, complexos e/ou semiestruturados - modelo de dados objeto-
+4. Tipos de dados variados, complexos e/ou semiestruturados - modelo de dados objeto-
 relacional não resolve todos os requisitos.
 
 Tivemos então o surgimento de um novo movimento no mercado em busca de uma solução
@@ -1442,7 +1412,6 @@ irônico usar
 o termo NoSQL, criado para nomear um banco de dados relacional, para classificar
 soluções de
 armazenamento de dados não relacionais.
-
 
 Juntamente com NoSQL surge o conceito de Big Data. A definição mais tradicional usa a
 equação
@@ -1515,11 +1484,9 @@ uma figura com uma evolução dos modelos de dados ao longo do tempo e logo em
 seguida um
 resumo com as principais características de cada tipo de modelos de dados.
 
-
 TOME
 
 NOTA!
-
 
 Modelos de dados hierárquicos
 
@@ -1558,7 +1525,6 @@ projetado para ser compreensível aos usuários comuns.
 entidades e pelo conjunto dos relacionamentos entre
 esses objetos.
 
-
 Modelo Orientado a Objeta '
 
 Hi
@@ -1590,7 +1556,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 5. ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
+5. ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - BANCO DE DADOS
 
 Acerca de bancos de dados semiestruturados e bancos de dados NOSQL, julgue os itens
 subsecutivos.
@@ -1604,7 +1570,6 @@ semiestruturados, é
 fundamental a adoção de técnica de indexação que leve em consideração, além
 das
 informações, as propriedades estruturais dos dados.
-
 
 [88] Devido à escalabilidade esperada para os bancos de dados NOSQL, a
 implementação
@@ -1674,7 +1639,6 @@ contiguamente por coluna.
 O exemplo anterior em um banco de dados dessa categoria ficaria:
 Idl, Id2; Nomel, Nome2; Endereçol, Endereço2.
 
-
 Os bancos de dados de famílias de colunas são mais interessantes para
 processamento
 analítico online (OLAP). BigTable é uma implementação da Google dessa categoria de
@@ -1728,7 +1692,7 @@ proporciona um modelo de particionamento nativo (Sharding).
 
 Gabarito: C C E.
 
-Item. 6. ANO: 2017 ÓRGÃO: TST PROVA: TÉCNICO JUDICIÁRIO - PROGRAMAÇÃO
+6. ANO: 2017 ÓRGÃO: TST PROVA: TÉCNICO JUDICIÁRIO - PROGRAMAÇÃO
 
 [57] Considere que um determinado tipo de banco de dados organiza os dados na forma
 de
@@ -1738,7 +1702,6 @@ registros são organizados como pai e filho onde um registro filho sempre tem ap
 registro pai ao qual ele está ligado, como em uma árvore familiar normal. Em
 contrapartida,
 um registro pai pode ter mais de um registro filho a ele ligado.
-
 
 Trata-se do Banco de Dados
 a) hierárquico.
@@ -1765,7 +1728,6 @@ Set.
 Agora vejamos um modelo semelhante ao visto acima, agora com as características do
 modelo
 em rede:
-
 
 Figura 6 - Um modelo de dados em rede.
 
@@ -1801,7 +1763,6 @@ PUBLISHER
 
 PJD Pname Address State Phone EmailJD
 
-
 POOl
 
 Hills
@@ -1814,9 +1775,7 @@ Geórgia
 
 71340
 
-
 H_pub@hi 1 ls-c ora
-
 
 REV1EW
 
@@ -1831,7 +1790,6 @@ Figura 7 - Um exemplo de banco de dados relacional.
 
 Gabarito: A
 
-
 CLASSIFICAçÃo DoS SCBDS
 
 Depois de estudar a evolução dos modelos de dados, podemos agora entender
@@ -1844,7 +1802,6 @@ EXEMPLIFICANDO
 TIPo EXEMPLo
 OBSERVAçÃo
 HIERÁRQUICo IMS (IBM), SYSTEM 2K, TDMS
-
 
 EM REDE
 RELACIoNAL
@@ -1899,7 +1856,6 @@ engines.com/en/ranking. Esse site apresenta uma lista atualizada dos bancos de
 dados mais
 utilizados no mercado.
 
-
 Outro critério usado para classificar SGBDs é o número de usuários suportados pelo
 sistema.
 Sistemas monousuário admitem apenas um usuário de cada vez, e são usados principalmente
@@ -1926,7 +1882,6 @@ livre, ou de código aberto, e os SGBDs pagos ou de código fechado.
 
 Resumindo temos que o SGBD pode ser:
 
-
 MONOUSUÁRIO
 CENTRALIZADO
 HOMOGÊNEO
@@ -1936,7 +1891,6 @@ OU MULTIUSUÁRIOS
 ou DISTRÍBUIDO
 ou HETEROGÊNEO
 ou GRATUÍTO
-
 
 MoDELo DE DADoS E ARQUITETURA EM TRÊS ESQUEMAS
 
@@ -1960,7 +1914,6 @@ determinado instante é o próprio banco de dados, também denominada de extens�
 
 Esquema Instância
 
-
 □ Projeto de banco de dados
 
 □ Intenção
@@ -1983,7 +1936,6 @@ valores que estão armazenados. Ele divide os dados armazenados em campo, regist
 arquivo. A
 figura abaixo nos ajuda a consolidar essa ideia:
 
-
 Banco de dados armazenado
 
 Outros arquivos
@@ -1992,7 +1944,6 @@ armazenados
 Arquivo armazenado de "peças
 n?da nome corda peso da
 peça da peça peça peça
-
 
 Duas ocorrências
 
@@ -2030,7 +1981,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 1. Ano: 2019 Prefeitura de São Roque do Canaã - ES - Técnico em Processamento de Dados
+1. Ano: 2019 Prefeitura de São Roque do Canaã - ES - Técnico em Processamento de Dados
 
 A coleção de informações armazenadas de um banco de dados é chamada de:
 A Parâmetros.
@@ -2038,7 +1989,6 @@ A Parâmetros.
 B Instância.
 C Esquema.
 D Arquitetura.
-
 
 E Projeto.
 
@@ -2048,7 +1998,6 @@ considerada uma instância, fotografia, extensão, estado ou ocorrências. Assim
 resposta na alternativa B.
 
 Gabarito: B
-
 
 MoDELo DE DADoS
 
@@ -2094,7 +2043,6 @@ abstração
 permitindo a implementação da estrutura de dados no disco rígido ou em outro
 dispositivo físico. O
 passo a passo do projeto de banco de dados será visto em outro momento neste curso.
-
 
 Modelo Lógico
 
@@ -2164,9 +2112,7 @@ com o sistema, que pode fornecer muitas visões para o mesmo banco de dados.
 
 A hierarquia de níveis de abstração de dados pode ser vista na figura abaixo:
 
-
 Figura 3 - Os 3 níveis de abstração: Visão, lógico e físico.
-
 
 ARQUITETURA TRÊS ESQUEMAS
 
@@ -2275,7 +2221,6 @@ e os resultados obtidos entre os níveis conceituai e interno. Segundo o CJ Date
 temos chamado de registro
 armazenado
 
-
 O mapeamento conceitual/interno define a correspondência entre a visão
 conceituai e interno, ele especifica o modo como os registros e campos
 conceituais são representados no nível interno.
@@ -2300,10 +2245,10 @@ fKHM
 
 ATENTO!
 
-Item. 1. Independência lógica de dados - a capacidade de alterar o esquema
+1. Independência lógica de dados - a capacidade de alterar o esquema
 conceituai sem ter de alterar os esquemas externos ou os aplicativos.
 
-Item. 2. Independência física de dados - a capacidade de alterar o esquema interno
+2. Independência física de dados - a capacidade de alterar o esquema interno
 sem ter de alterar o esquema conceituai.
 
 Se a estrutura do banco de dados armazenado for alterada - isto é, se for efetuada
@@ -2324,9 +2269,7 @@ superior ao esquema alterado. Desta forma só temos o conceito para os níveis
 conceituai e interno
 da figura.
 
-
 Usuários finais
-
 
 Nível externo
 
@@ -2353,7 +2296,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 1. SUGEP - Técnico (UFRPEJ/Tecnologia da lnformação/Sistemas/2019
+1. SUGEP - Técnico (UFRPEJ/Tecnologia da lnformação/Sistemas/2019
 
 O padrão de ANSI/SPARC para arquitetura de SGBD define uma arquitetura em três níveis.
 São
@@ -2373,7 +2316,6 @@ Comentário: Acabamos de falar da arquitetura em três esquemas ANSI/SPARC que t
 objetivo separar a aplicação do banco de dados físico. Nessa arquitetura, temos uma
 divisão
 dos esquemas em três níveis:
-
 
 i Interno: nesse nível está o esquema interno do banco de dados. Esse esquema contém
 a
@@ -2397,7 +2339,7 @@ Assim, temos nossa resposta na alternativa B.
 
 Gabarito: B
 
-Item. 2. Ano: 2016 Órgão: TRE-PI Prova: Analista Judiciário - Análise de Sistemas
+2. Ano: 2016 Órgão: TRE-PI Prova: Analista Judiciário - Análise de Sistemas
 
 A respeito das características de um SGBD e das atividades de administração de banco
 de
@@ -2441,8 +2383,7 @@ obrigatoriamente maior ou igual a 1. A justificativa para isso será dada na pr�
 
 Gabarito: B.
 
-Item. 3. Ano: 2014 Órgão: TJ-CE Prova: Analista Judiciário - Ciências Computação
-
+3. Ano: 2014 Órgão: TJ-CE Prova: Analista Judiciário - Ciências Computação
 
 Considerando o sistema gerenciador de banco de dados (SGBD), assinale a opção correta
 acerca de bancos de dados.
@@ -2491,7 +2432,7 @@ Por fim, a alternativa E trata de independência física e não lógica como des
 
 Gabarito: C.
 
-Item. 4. Ano: 2016 Órgão: TCE-PA Prova: Auditor de Controle Externo - Área Informática - Analista de
+4. Ano: 2016 Órgão: TCE-PA Prova: Auditor de Controle Externo - Área Informática - Analista de
 Sistema
 
 Julgue o item subsequente, no que se refere a sistemas de gerenciamento de bancos de dados
@@ -2509,8 +2450,7 @@ aplicação. Desta forma, a alternativa encontra-se correta.
 
 Gabarito: C.
 
-
-Item. 5. Ano: 2016 Órgão: TCE-PA Prova: Auditor de Controle Externo - Área Informática -
+5. Ano: 2016 Órgão: TCE-PA Prova: Auditor de Controle Externo - Área Informática -
 Administrador de Banco de Dados
 
 Com relação a sistemas gerenciadores de bancos de dados (SGBD), julgue o próximo item.
@@ -2532,7 +2472,7 @@ de dados. Assim, podemos marcar nosso gabarito como errado.
 
 Gabarito: E.
 
-Item. 6. ANO: 2010 ÓRGÃO: TCE-SP PROVA: AGENTE DA FISCALIZAÇÃO FINANCEIRA - CONHECIMENTOS
+6. ANO: 2010 ÓRGÃO: TCE-SP PROVA: AGENTE DA FISCALIZAÇÃO FINANCEIRA - CONHECIMENTOS
 BÁSICOS
 
 As três visões da arquitetura básica de um SGBD, pela ordem, desde a mais próxima do usuário
@@ -2556,7 +2496,6 @@ usuário até a mais distante. Com essas duas informações podemos relembrar do
 vistos anteriormente e descrever a seguinte ordem: externa, conceituai e interna.
 
 Gabarito: A.
-
 
 AMBIENTE Do SISTEMA DE BANCo DE DADoS
 
@@ -2591,7 +2530,6 @@ execução de
 uma transação sobre o banco de dados, o intervalo de tempo gasto na transferência de
 dados entre
 a memória e o disco é considerado um gargalo no processamento. Para otimizar o processo alguns
-
 
 SGBDs podem contar com um módulo de gerenciamento de buffer que planeja a troca de
 dados
@@ -2756,7 +2694,7 @@ HORA DE
 
 PRATICAR!
 
-Item. 1. Ano: 2010 Órgão: BADESC Cargo: Analista de Sistemas
+1. Ano: 2010 Órgão: BADESC Cargo: Analista de Sistemas
 
 Os objetivos dos compiladores DDL, DML e DCL são, respectivamente:
 
@@ -2801,10 +2739,9 @@ aqui o nosso primeiro conjunto de assuntos teóricos envolvidos na introdução
 dos sistemas de
 bancos de dados.
 
-
 QUESTõES CoMENTADAS CoMPLEMENTARES
 
-Item. 1. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
+1. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
 
 O administrador de dados e o administrador do banco de dados exercem funções-chave na
 administração de banco de dados. Ao responsável pelas decisões estratégicas e de normas
@@ -2859,8 +2796,7 @@ B.
 
 Gabarito: B.
 
-
-Item. 2. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
+2. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
 
 Um sistema de banco de dados proporciona a empresas o controle centralizado de todos
 os
@@ -2904,12 +2840,11 @@ Concluímos, assim, que o gabarito é letra E.
 
 Gabarito: E.
 
-Item. 3. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Suporte ao Usuário de lnformática/2019
+3. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Suporte ao Usuário de lnformática/2019
 
 Acerca de sistema gerenciador de banco de dados, do tuning e da segurança em banco
 de dados,
 julgue o item subsequente.
-
 
 Uma das vantagens de utilizar sistema gerenciador de banco de dados é o fato de ele
 realizar o
@@ -2921,7 +2856,7 @@ a redundância controlada para melhorar o desempenho das consultas.
 
 Gabarito: Certo
 
-Item. 4. Ano: 2019 Banca: CESPE Órgão: SEFAZ-RS Prova: Auditor Assunto: Banco de Dados
+4. Ano: 2019 Banca: CESPE Órgão: SEFAZ-RS Prova: Auditor Assunto: Banco de Dados
 
 As funções de um sistema de gerenciamento de banco de dados (SGBD) incluem
 
@@ -2964,8 +2899,7 @@ comunicação entre o hardware e os demais softwares, criando uma plataforma
 comum a todos os
 programas utilizados. São exemplos de SO: Dos, Unix, Linux, Mac OS, OS-2, Windows NT.
 
-
-Item. 5. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Programador/2019
+5. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Programador/2019
 
 Julgue o próximo item, relativos a sistema gerenciador de banco de dados (SGBD).
 
@@ -2979,20 +2913,20 @@ do banco de dados físico. Nessa arquitetura, os esquemas podem ser definidos no
 níveis
 a seguir:
 
-Item. 1. O nível interno tem um esquema interno, que descreve a estrutura do armazenamento
+1. O nível interno tem um esquema interno, que descreve a estrutura do armazenamento
 físico do banco de dados. O esquema interno usa um modelo de dados físico e descreve
 os
 detalhes completos do armazenamento de dados e caminhos de acesso para o banco de
 dados.
 
-Item. 2. O nível conceituai tem um esquema conceituai, que descreve a estrutura do banco de dados
+2. O nível conceituai tem um esquema conceituai, que descreve a estrutura do banco de dados
 inteiro para uma comunidade de usuários. O esquema conceituai oculta os
 detalhes das
 estruturas de armazenamento físico e se concentra na descrição de entidades, tipos de
 dados,
 relacionamentos, operações do usuário e restrições.
 
-Item. 3. O nível externo ou de visão inclui uma série de esquemas externos ou visões do
+3. O nível externo ou de visão inclui uma série de esquemas externos ou visões do
 usuário.
 Cada esquema externo descreve a parte do banco de dados em que um grupo de usuários
 em
@@ -3002,7 +2936,7 @@ Desta forma temos uma afirmação correta.
 
 Gabarito: Correta.
 
-Item. 6. Ano: 2018 Banca: CESPE Órgão: EBSERH Prova: Analista de Tecnologia da Informação
+6. Ano: 2018 Banca: CESPE Órgão: EBSERH Prova: Analista de Tecnologia da Informação
 
 Com relação a banco de dados, julgue o item seguinte.
 
@@ -3025,8 +2959,7 @@ os dados, é o próprio SGBD. Desta forma, temos uma alternativa correta.
 
 Gabarito: C
 
-
-Item. 7. Ano: 2018 Banca: CESPE Órgão: STM Prova: Técnico Judiciário - Programação de Sistemas
+7. Ano: 2018 Banca: CESPE Órgão: STM Prova: Técnico Judiciário - Programação de Sistemas
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados,
 julgue o item
@@ -3047,7 +2980,7 @@ podem ter mais detalhes da estrutura de armazenamento dos dados.
 
 Gabarito: C
 
-Item. 8. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor Municipal de Controle
+8. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor Municipal de Controle
 Interno - Desenvolvimento de Sistemas
 
 A respeito de bancos de dados, julgue o item a seguir.
@@ -3080,8 +3013,7 @@ correta.
 
 Gabarito: C
 
-
-Item. 9. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor Municipal de Controle
+9. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor Municipal de Controle
 Interno - Desenvolvimento de Sistemas
 
 A respeito de bancos de dados, julgue o item a seguir.
@@ -3105,7 +3037,7 @@ Logo, a afirmação da questão está incoerente, portanto, incorreta.
 
 Gabarito: E
 
-Item. 10. Ano: 2018 Banca: CESPE Órgão: TCE-PB Prova: Auditor de Contas Públicas - Demais Áreas
+10. Ano: 2018 Banca: CESPE Órgão: TCE-PB Prova: Auditor de Contas Públicas - Demais Áreas
 
 A respeito de SGBDs, assinale a opção correta.
 
@@ -3193,8 +3125,7 @@ vendas e compras, pois a redundância será tratada na fase da modelagem do banc
 
 Gabarito: E.
 
-
-Item. 12. Ano: 2016 Banca: CESPE Órgão: TCE-SC Prova: Auditor Fiscal de Controle Externo - Informática
+12. Ano: 2016 Banca: CESPE Órgão: TCE-SC Prova: Auditor Fiscal de Controle Externo - Informática
 
 Com relação aos bancos de dados relacionais, julgue o próximo item.
 
@@ -3218,7 +3149,7 @@ abordagem de banco de dados. Sendo assim, podemos afirmar que a questão está c
 
 Gabarito: C.
 
-Item. 13. CESPE - Técnico (FUB)/Tecnologia da lnformação/2016
+13. CESPE - Técnico (FUB)/Tecnologia da lnformação/2016
 
 Acerca dos conceitos de bancos de dados, julgue o item seguinte.
 
@@ -3248,8 +3179,7 @@ Da forma com está escrito na questão, o item pode ser assinalado como INCORRET
 
 Gabarito: E
 
-
-Item. 14. CESPE - Técnico Judiciário (STM)/Apoio Especializado/Programação de Sistemas/2018
+14. CESPE - Técnico Judiciário (STM)/Apoio Especializado/Programação de Sistemas/2018
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados,
 julgue o item
@@ -3301,8 +3231,7 @@ Assim, podemos marcar a afirmação como incorreta.
 
 Gabarito: E.
 
-Item. 15. CESPE - Analista de Gestão Educacional (SEDF)/Tecnologia da lnformação/2017
-
+15. CESPE - Analista de Gestão Educacional (SEDF)/Tecnologia da lnformação/2017
 
 Julgue o item seguinte, a respeito de estruturas em programação e de arquiteturas de
 bancos
@@ -3317,12 +3246,12 @@ Comentário: Segundo o Elmarsi, os níveis da arquitetura em 3 esquemas podem se
 descritos
 da seguinte forma:
 
-Item. 1. O nível interno tem um esquema interno, que descreve a estrutura do armazenamento
+1. O nível interno tem um esquema interno, que descreve a estrutura do armazenamento
 físico do banco de dados. O esquema interno usa um modelo de dados físico e descreve
 os
 detalhes completos do armazenamento de dados e caminhos de acesso para o banco de dados.
 
-Item. 2. O nível conceituai tem um esquema conceituai, que descreve a estrutura do banco de dados
+2. O nível conceituai tem um esquema conceituai, que descreve a estrutura do banco de dados
 inteiro para uma comunidade de usuários. O esquema conceituai oculta os detalhes das
 estruturas de armazenamento físico e se concentra na descrição de entidades, tipos de dados,
 relacionamentos, operações do usuário e restrições. Normalmente, um modelo de
@@ -3332,7 +3261,7 @@ de
 dados é implementado. Esse esquema conceituai de implementação costuma estar baseado
 em um projeto de esquema conceituai em um modelo de dados de alto nível.
 
-Item. 3. O nível externo ou de visão inclui uma série de esquemas externos ou visões do usuário.
+3. O nível externo ou de visão inclui uma série de esquemas externos ou visões do usuário.
 Cada esquema externo descreve a parte do banco de dados em que um grupo de usuários em
 particular está interessado e oculta o restante do banco de dados do grupo de usuários. Como
 no nível anterior, cada esquema externo é comumente implementado usando um modelo de
@@ -3347,7 +3276,7 @@ I incorreta.
 
 Gabarito: E
 
-Item. 16. CESPE - Técnico Judiciário (TRE BA)/Apoio Especializado/Operação de Computadores/2017
+16. CESPE - Técnico Judiciário (TRE BA)/Apoio Especializado/Operação de Computadores/2017
 
 Na modelagem de dados, a capacidade de modificar a definição dos esquemas em
 determinado nível, sem afetar o esquema do nível superior, é denominada
@@ -3361,7 +3290,6 @@ d) independência de dados.
 
 e) cardinalidade.
 
-
 Comentário: A arquitetura de três esquemas pode ser usada para explicar melhor o
 conceito
 de independência de dados, que pode ser definida como a capacidade de alterar o
@@ -3369,7 +3297,7 @@ esquema
 em um nível do sistema de banco de dados sem ter de alterar o esquema no nível mais alto.
 Podemos definir dois tipos de independência de dados:
 
-Item. 1. Independência lógica de dados é a capacidade de alterar o esquema conceituai sem
+1. Independência lógica de dados é a capacidade de alterar o esquema conceituai sem
 ter de
 alterar os esquemas externos ou os programas de aplicação. Podemos alterar o esquema
 conceituai para expandir o banco de dados (acrescentando um tipo de registro ou item
@@ -3379,7 +3307,7 @@ registro
 ou item de dado). No último caso, esquemas externos que se referem apenas aos dados
 restantes não seriam afetados.
 
-Item. 2. Independência física de dados é a capacidade de alterar o esquema interno sem ter
+2. Independência física de dados é a capacidade de alterar o esquema interno sem ter
 de
 alterar o esquema conceituai. Logo, os esquemas externos também não precisam
 ser
@@ -3422,7 +3350,6 @@ c) Essa é a nossa resposta. O esquema interno usa um modelo de dados físico e 
 detalhes completos do armazenamento de dados e caminhos de acesso para o banco de
 dados.
 
-
 d) Errada. Cada esquema externo descreve a parte do banco de dados em que um grupo
 de
 usuários em particular está interessado e oculta o restante do banco de dados do
@@ -3431,7 +3358,7 @@ usuários.
 
 Gabarito: C.
 
-Item. 18. CESPE - Técnico Judiciário (TRE TO)/Apoio Especializado/Programação de Sistemas/2017
+18. CESPE - Técnico Judiciário (TRE TO)/Apoio Especializado/Programação de Sistemas/2017
 
 A respeito da arquitetura de três esquemas para banco de dados, assinale a opção correta.
 
@@ -3480,7 +3407,6 @@ usuários em particular.
 Assim, temos a nossa resposta na alternativa C.
 
 Gabarito: C
-
 
 Aula Thiago Cavalcanti)
 
@@ -3539,8 +3465,7 @@ Somente o modelo físico que dependerá de sua implementação. Portanto, gabari
 
 Gabarito: C
 
-
-Item. 22. BANCA: CESPE ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - SUPORTE E
+22. BANCA: CESPE ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - SUPORTE E
 INFRAESTRUTURA
 
 Julgue os itens a seguir, relativos à administração de banco de dados e
@@ -3576,7 +3501,7 @@ uma das tarefas mais importantes feitas pelo DBA. Sendo assim, a alternativa est
 
 Gabarito: E C.
 
-Item. 23. BANCA: CESPE ANO: 2013 ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
+23. BANCA: CESPE ANO: 2013 ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
 DA INFORMAÇÃO
 
 Julgue os itens a seguir, acerca dos fundamentos e das finalidades do banco de dados.
@@ -3594,7 +3519,6 @@ o inter-relacionamento dos dados, sem redundâncias ou duplicação de dados.
 o que caracteriza a dependência de dados, que é um fundamento do banco de dados.
 
 Comentário: Vamos analisar as alternativas acima.
-
 
 Começando pelo item 51. Veja que a questão sugere que existe uma limitação nos tipos
 de
@@ -3624,7 +3548,7 @@ nosso conhecimento já é suficiente para analisarmos a questão 53 como errada.
 
 Gabarito: E E E
 
-Item. 24. BANCA: CESPE ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - SUPORTE E
+24. BANCA: CESPE ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - SUPORTE E
 INFRAESTRUTURA
 
 Julgue os itens a seguir, relativos à administração de banco de dados e
@@ -3643,11 +3567,10 @@ alternativa como correta!
 
 Gabarito: C.
 
-Item. 25. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM TECNOLOGIA DA
+25. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM TECNOLOGIA DA
 INFORMAÇÃO
 
 Acerca de sistema de gerenciamento de banco de dados (SGBD), julgue os seguintes itens.
-
 
 Aula Thiago Cavalcanti)
 
@@ -3676,7 +3599,7 @@ diferentes níveis de modelos. Por isso a alternativa 116 está correta.
 
 Gabarito: E C.
 
-Item. 26. BANCA: CESPE ANO: 2015 ÓRGÃO: DEPEN PROVA: AGENTE PENITENCIÁRIO FEDERAL -
+26. BANCA: CESPE ANO: 2015 ÓRGÃO: DEPEN PROVA: AGENTE PENITENCIÁRIO FEDERAL -
 TECNOLOGIA DA INFORMAÇÃO
 
 No que diz respeito a linguagens de programação e banco de dados, julgue os itens a seguir.
@@ -3710,8 +3633,7 @@ disco rígido.
 
 Gabarito: C.
 
-
-Item. 27. BANCA: CESPE ANO: 2013 ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
+27. BANCA: CESPE ANO: 2013 ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
 DA INFORMAÇÃO
 
 Julgue os itens subsequentes, quanto à administração de banco de dados.
@@ -3743,7 +3665,7 @@ correta.
 
 Gabarito: E C.
 
-Item. 28. BANCA: CESPE ANO: 2013 ÓRGÃO: ANTT PROVA: ANALISTA ADMINISTRATIVO -
+28. BANCA: CESPE ANO: 2013 ÓRGÃO: ANTT PROVA: ANALISTA ADMINISTRATIVO -
 INFRAESTRUTURA DE TI
 
 No que diz respeito às funções do administrador de dados e à elaboração e implantação
@@ -3765,8 +3687,7 @@ Gabarito: C E C.
 
 0 0
 
-
-Item. 29. Ano: 2010 Banca: CESPE Órgão: Banco da Amazônia Prova: Técnico Científico - Tecnologia da
+29. Ano: 2010 Banca: CESPE Órgão: Banco da Amazônia Prova: Técnico Científico - Tecnologia da
 Informação
 
 O dicionário de dados é uma das principais ferramentas para a administração
@@ -3796,12 +3717,11 @@ incorreta, já a afirmação [2] está certa!
 
 Gabarito: E C.
 
-
 QUESTõES CoMENTADAS
 
 QUESTõES CoMENTADAS CESCRANRIO.
 
-Item. 1. BANCA: CESGRANRIO ANO: 2012 ÓRGÃO: LIQUIGÁS PROVA: PROFISSIONAL DE TECNOLOGIA
+1. BANCA: CESGRANRIO ANO: 2012 ÓRGÃO: LIQUIGÁS PROVA: PROFISSIONAL DE TECNOLOGIA
 DA INFORMAÇÃO - ADMINISTRADOR DE BANCO DE DADOS
 
 A arquitetura ANSI/SPARC de um Sistema Gerenciador de Banco de Dados (SGBD) divide-se
@@ -3827,18 +3747,16 @@ Logo, podemos marcar nossa resposta na alternativa A.
 
 Gabarito: A.
 
-
 HORA DE
 
 PRATICAR!
 
-Item. 2. BANCA: CESGRANRIO ANO: 2010 ÓRGÃO: ELETROBRAS PROVA: ANALISTA DE SISTEMAS -
+2. BANCA: CESGRANRIO ANO: 2010 ÓRGÃO: ELETROBRAS PROVA: ANALISTA DE SISTEMAS -
 ENGENHARIA DE SOFTWARE
 
 Um Modelo de Dados corresponde a uma descrição formal da estrutura de um banco de dados.
 Com relação à Modelagem de Dados, relacione os modelos, apresentados na coluna da esquerda,
 à respectiva característica, entre as indicadas na coluna da direita.
-
 
 Modelo de Dados
 
@@ -3899,14 +3817,13 @@ detalhes das estruturas de armazenamento das informações dentro dos storages.
 
 Vejam que pelo exposto, nossa resposta encontra-se na alternativa C.
 
-
 Gabarito: C.
 
 < > HORA DE
 
 == PRATICAR!
 
-Item. 3. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco
+3. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco
 de Dados
 
 Na arquitetura ANSI/SPARC de banco de dados, o nível conceituai
@@ -3945,8 +3862,7 @@ possível, a um dos outros níveis descritos na figura.
 
 Gabarito: B
 
-
-Item. 4. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
+4. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
 Tecnologia da Informação
 
 Um dicionário de dados utilizado por um desenvolvedor tem como função
@@ -3971,7 +3887,7 @@ um inventário dos dados contidos em uma base de dados.
 
 Gabarito: C
 
-Item. 5. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
+5. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
 Tecnologia da Informação
 
 O responsável por um SGBD relacional que apoiava vários sistemas percebeu que havia
@@ -4011,7 +3927,7 @@ Gabarito: E
 
 == PRATICAR!
 
-Item. 6. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
+6. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
 Informação e Comunicação
 
 Segundo a classificação de categorias de modelos de dados, o modelo de dados
@@ -4029,7 +3945,6 @@ ou de implementação. Podemos relembrar disto olhando para a figura abaixo. Vej
 no nível
 conceituai temos os modelos entidade-relacionamento.
 
-
 Esquemas
 Conceituais
 
@@ -4042,7 +3957,6 @@ i 7
 " A
 
 raiiem---la* DUIIG».
-
 
 Esquemas \
 
@@ -4061,10 +3975,9 @@ Baixo nível
 
 Logo, podemos marcar nossa resposta na alternativa E.
 
-
 Gabarito: E.
 
-Item. 7. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
+7. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
 Informação e Comunicação
 
 SQL é uma linguagem dedicada à operação de Bancos de Dados relacionais,
@@ -4090,7 +4003,7 @@ seguintes comandos: SELECT, DELETE, INSERT e UPDATE.
 
 Gabarito: D.
 
-Item. 8. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
+8. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
 Informação e Comunicação
 
 O modelo relacional tornou-se o padrão estabelecido do mercado. Outros modelos
@@ -4114,7 +4027,6 @@ conhecidos como modelos de dados legados, são os modelos em rede e os modelos
 hierárquicos. O
 modelo em rede representa os dados como tipos de registros e um tipo relacionamento 1:N,
 
-
 limitado, chamado tipo conjunto. Esse modelo também foi conhecido como CODADYL DBTG. Já
 o
 modelo hierárquico representa os dados como estruturas de árvores hierárquicas.
@@ -4123,7 +4035,7 @@ diante da afirmação acima, só podemos marcar nossa resposta na alternativa B.
 
 Gabarito: B.
 
-Item. 9. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Analista - Suporte Operacional
+9. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Analista - Suporte Operacional
 
 A independência de dados é uma das propriedades dos SGBDs relacionais. Ela é atingida
 por meio
@@ -4156,13 +4068,12 @@ Sendo assim, nossa resposta está na alternativa C.
 
 Gabarito: C.
 
-Item. 10. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Tecnologista - Geoprocessamento
+10. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Tecnologista - Geoprocessamento
 
 O Sistema Gerenciador de Banco de Dados (SGBD) NÃO apresenta a seguinte característica:
 
 a) Procurar armazenar os dados, buscando o melhor aproveitamento da memória e visando a
 recuperá-los de modo eficiente.
-
 
 b) Poder decidir se possui informações suficientes ou não para responder a uma
 consulta aos
@@ -4190,7 +4101,7 @@ característica dos SGBDs.
 
 Gabarito: E
 
-Item. 11. Ano: 2012 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
+11. Ano: 2012 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
 Tecnologia da Informação
 
 Em uma empresa, a coleção de metadados para prover consistência entre itens de dados
@@ -4214,8 +4125,7 @@ alternativa B.
 
 Gabarito: B
 
-
-Item. 12. Ano: 2012 Banca: CESGRANRIO Órgão: Petrobras Prova: Analista de Sistemas Júnior -
+12. Ano: 2012 Banca: CESGRANRIO Órgão: Petrobras Prova: Analista de Sistemas Júnior -
 lnfraestrutura-2012
 
 Quais as propriedades ACID das transações que um SGDB relacional multiusuário deve garantir?
@@ -4232,7 +4142,7 @@ se respectivamente a Atomicidade, Consistência, Isolamento e Durabilidade.
 
 Gabarito: C.
 
-Item. 13. Ano: 2012 Banca: CESGRANRIO Órgão: Chesf Prova: Técnico em Eletrônica
+13. Ano: 2012 Banca: CESGRANRIO Órgão: Chesf Prova: Técnico em Eletrônica
 
 A arquitetura de um Banco de Dados ANSI/SPARC possui três níveis. O primeiro desses
 níveis é
@@ -4261,10 +4171,9 @@ dados; e o nível externo, que define as visualizações dos usuários.
 
 Gabarito: B.
 
-
 LISTA DE QUESTõES - CEBRASPE
 
-Item. 1. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
+1. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
 
 O administrador de dados e o administrador do banco de dados exercem funções-chave na
 administração de banco de dados. Ao responsável pelas decisões estratégicas e de normas
@@ -4280,7 +4189,7 @@ d) definir normas de descarga e recarga.
 
 e) responder a requisitos de mudanças.
 
-Item. 2. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
+2. CEBRASPE (CESPE) - Analista Judiciário (TJ PA)/Análise de Sistema/Suporte/2020
 
 Um sistema de banco de dados proporciona a empresas o controle centralizado de todos
 os
@@ -4296,7 +4205,7 @@ d) tabelas.
 
 e) transações.
 
-Item. 3. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Suporte ao Usuário de lnformática/2019
+3. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Suporte ao Usuário de lnformática/2019
 
 Acerca de sistema gerenciador de banco de dados, do tuning e da segurança em banco
 de dados,
@@ -4306,10 +4215,9 @@ Uma das vantagens de utilizar sistema gerenciador de banco de dados é o fato de
 realizar o
 controle da redundância de dados, o que impede a ocorrência de inconsistências entre os arquivos.
 
-Item. 4. Ano: 2019 Banca: CESPE Órgão: SEFAZ-RS Prova: Auditor Assunto: Banco de Dados
+4. Ano: 2019 Banca: CESPE Órgão: SEFAZ-RS Prova: Auditor Assunto: Banco de Dados
 
 As funções de um sistema de gerenciamento de banco de dados (SGBD) incluem
-
 
 A gerenciar o becape e a recuperação dos dados, bem como o escalonamento de processos
 no
@@ -4329,7 +4237,7 @@ E transformar e apresentar dados, controlar o acesso de multiusuário e prover
 interfaces de
 comunicação do banco de dados.
 
-Item. 5. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Programador/2019
+5. CEBRASPE (CESPE) - Assistente Judiciário (TJ AM)/Programador/2019
 
 Julgue o próximo item, relativos a sistema gerenciador de banco de dados (SGBD).
 
@@ -4337,7 +4245,7 @@ Na arquitetura ANSI/SPARC de um SGBD, o nível interno trata do armazenamento f�
 dados, o nível externo trata do modo como os dados são visualizados por usuários
 individuais, e o nível conceituai oferece uma visão comunitária dos dados.
 
-Item. 6. Ano: 2018 Banca: CESPE Órgão: EBSERH Prova: Analista de Tecnologia da Informação
+6. Ano: 2018 Banca: CESPE Órgão: EBSERH Prova: Analista de Tecnologia da Informação
 
 Com relação a banco de dados, julgue o item seguinte.
 
@@ -4349,7 +4257,7 @@ A responsabilidade de gerir os acessos ao banco de dados é do sistema gerenciad
 banco
 de dados (SGBD).
 
-Item. 7. Ano: 2018 Banca: CESPE Órgão: STM Prova: Técnico Judiciário - Programação de Sistemas
+7. Ano: 2018 Banca: CESPE Órgão: STM Prova: Técnico Judiciário - Programação de Sistemas
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados,
 julgue o item
@@ -4360,7 +4268,7 @@ utilizados por
 programadores são considerados menos abstratos, pois contêm mais detalhes de como as
 informações estão organizadas internamente no banco de dados.
 
-Item. 8. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor Municipal de Controle
+8. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor Municipal de Controle
 Interno - Desenvolvimento de Sistemas
 
 A respeito de bancos de dados, julgue o item a seguir.
@@ -4370,18 +4278,17 @@ estruturados em hierarquia ou árvores cujos nós contêm ocorrências de
 registros, e cada
 registro consiste em uma coleção de atributos.
 
-Item. 9. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor Municipal de Controle
+9. Ano: 2018 Banca: CESPE Órgão: CGM de João Pessoa - PB Prova: Auditor Municipal de Controle
 Interno - Desenvolvimento de Sistemas
 
 A respeito de bancos de dados, julgue o item a seguir.
-
 
 Um banco de dados é uma coleção de dados que são organizados de forma randômica, sem
 significado implícito e de tamanho variável, e projetados para atender a uma
 proposta
 específica de alta complexidade, de acordo com o interesse dos usuários.
 
-Item. 10. Ano: 2018 Banca: CESPE Órgão: TCE-PB Prova: Auditor de Contas Públicas - Demais Áreas
+10. Ano: 2018 Banca: CESPE Órgão: TCE-PB Prova: Auditor de Contas Públicas - Demais Áreas
 
 A respeito de SGBDs, assinale a opção correta.
 
@@ -4406,7 +4313,7 @@ e) O controle de concorrência é o princípio que garante e permite a manipula�
 mesmo
 momento, de um mesmo dado por mais de uma pessoa ou um sistema.
 
-Item. 11. CESPE - Analista Ministerial (MPE Pl)/Tecnologia da lnformação/2018
+11. CESPE - Analista Ministerial (MPE Pl)/Tecnologia da lnformação/2018
 
 Tendo em vista que, ao se desenvolver um sistema de vendas e compras para um cliente,
 devem-se descrever os produtos, as entradas, as saídas, o controle de estoque e o
@@ -4419,7 +4326,7 @@ compras, pois a redundância será controlada pelo usuário, e não pela modelag
 banco de
 dados.
 
-Item. 12. Ano: 2016 Banca: CESPE Órgão: TCE-SC Prova: Auditor Fiscal de Controle Externo - Informática
+12. Ano: 2016 Banca: CESPE Órgão: TCE-SC Prova: Auditor Fiscal de Controle Externo - Informática
 
 Com relação aos bancos de dados relacionais, julgue o próximo item.
 
@@ -4431,7 +4338,7 @@ do tipo e formato de armazenamento de cada item de dado e das restrições relat
 aos
 dados.
 
-Item. 13. CESPE - Técnico (FUB)/Tecnologia da lnformação/2016
+13. CESPE - Técnico (FUB)/Tecnologia da lnformação/2016
 
 Acerca dos conceitos de bancos de dados, julgue o item seguinte.
 
@@ -4439,8 +4346,7 @@ Uma solução para evitar a redundância controlada de informações é o
 uso do
 compartilhamento de dados; dessa forma, cada informação é armazenada uma única vez.
 
-Item. 14. CESPE - Técnico Judiciário (STM)/Apoio Especializado/Programação de Sistemas/2018
-
+14. CESPE - Técnico Judiciário (STM)/Apoio Especializado/Programação de Sistemas/2018
 
 Acerca dos conceitos de normalização de dados e dos modelos de dados,
 julgue o item
@@ -4451,7 +4357,7 @@ responsável
 por registrar como os dados estão armazenados no sistema de gerenciamento de banco de
 dados (SGBD.)
 
-Item. 15. CESPE - Analista de Gestão Educacional (SEDF)/Tecnologia da lnformação/2017
+15. CESPE - Analista de Gestão Educacional (SEDF)/Tecnologia da lnformação/2017
 
 Julgue o item seguinte, a respeito de estruturas em programação e de arquiteturas de
 bancos
@@ -4462,7 +4368,7 @@ estruturas de armazenamento físico e se concentra na descrição de entidades, 
 dados,
 conexões, operações de usuários e restrições.
 
-Item. 16. CESPE - Técnico Judiciário (TRE BA)/Apoio Especializado/Operação de Computadores/2017
+16. CESPE - Técnico Judiciário (TRE BA)/Apoio Especializado/Operação de Computadores/2017
 
 Na modelagem de dados, a capacidade de modificar a definição dos esquemas em
 determinado nível, sem afetar o esquema do nível superior, é denominada
@@ -4476,7 +4382,7 @@ d) independência de dados.
 
 e) cardinalidade.
 
-Item. 17. CESPE - Técnico Judiciário (TRT 7^ Região)/Apoio Especializado/Tecnologia da
+17. CESPE - Técnico Judiciário (TRT 7^ Região)/Apoio Especializado/Tecnologia da
 lnformação/2017
 
 Acerca da arquitetura de três esquemas para bancos de dados, assinale a opção correta.
@@ -4494,7 +4400,7 @@ c) No nível interno da arquitetura, são descritos os caminhos de acesso para o
 d) Em um SGBD embasado nessa arquitetura, todos os grupos de usuários utilizam o mesmo
 esquema externo.
 
-Item. 18. CESPE - Técnico Judiciário (TRE TO)/Apoio Especializado/Programação de Sistemas/2017
+18. CESPE - Técnico Judiciário (TRE TO)/Apoio Especializado/Programação de Sistemas/2017
 
 A respeito da arquitetura de três esquemas para banco de dados, assinale a opção correta.
 
@@ -4505,7 +4411,6 @@ independência de dados.
 b) Um dos objetivos da arquitetura de três esquemas é aproximar o banco de dados
 físico das
 aplicações.
-
 
 c) O nível conceituai serve para descrever a estrutura do banco de dados para um
 conjunto de
@@ -4518,7 +4423,7 @@ e) O nível interno inclui uma série de visões do usuário utilizadas para des
 partes do
 banco de dados.
 
-Item. 19. CESPE - Auditor de Controle Externo (TCE-PA)/lnformática/Administrador de Banco de
+19. CESPE - Auditor de Controle Externo (TCE-PA)/lnformática/Administrador de Banco de
 Dados/2016
 
 Com relação a sistemas gerenciadores de bancos de dados (SGBD), julgue o próximo item.
@@ -4529,7 +4434,7 @@ descreve a parte do banco que interessa a determinado grupo de usuários e ocult
 desse grupo
 o restante do banco de dados.
 
-Item. 20. CESPE - Auditor de Controle Externo (TCE-PA)/lnformática/Analista de Sistema/2016
+20. CESPE - Auditor de Controle Externo (TCE-PA)/lnformática/Analista de Sistema/2016
 
 Julgue o item subsequente, no que se refere a sistemas de gerenciamento de bancos de
 dados
@@ -4539,7 +4444,7 @@ Independência lógica de dados refere-se à capacidade de alterar o esquema con
 sem a
 necessidade de alterar os esquemas externos ou os programas de aplicação.
 
-Item. 21. CESPE - Técnico (FUB)/Tecnologia da lnformação/2016
+21. CESPE - Técnico (FUB)/Tecnologia da lnformação/2016
 
 Acerca dos conceitos de bancos de dados, julgue o item seguinte.
 
@@ -4547,7 +4452,7 @@ Em um projeto de banco de dados, a modelagem conceituai define quais dados vão
 aparecer
 no banco de dados, mas sem considerar a sua implementação.
 
-Item. 22. BANCA: CESPE ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - SUPORTE E
+22. BANCA: CESPE ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - SUPORTE E
 INFRAESTRUTURA
 
 Julgue os itens a seguir, relativos à administração de banco de dados e
@@ -4562,7 +4467,7 @@ qualquer sistema, sem a necessidade de utilização do SGBD.
 que
 determinará como será feito o becape do banco de dados.
 
-Item. 23. BANCA: CESPE ANO: 2013 ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
+23. BANCA: CESPE ANO: 2013 ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
 DA INFORMAÇÃO
 
 Julgue os itens a seguir, acerca dos fundamentos e das finalidades do banco de dados.
@@ -4573,7 +4478,6 @@ caracteres em geral, não apresentando recursos para tratar dados multimídias, 
 filmes e
 fotografias.
 
-
 [52] Uma característica fundamental do banco de dados e dos antigos sistemas de
 arquivos é
 o inter-relacionamento dos dados, sem redundâncias ou duplicação de dados.
@@ -4581,7 +4485,7 @@ o inter-relacionamento dos dados, sem redundâncias ou duplicação de dados.
 [53] Para definir e manter os dados em um banco é necessário o uso de sistemas de aplicação,
 o que caracteriza a dependência de dados, que é um fundamento do banco de dados.
 
-Item. 24. BANCA: CESPE ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - SUPORTE E
+24. BANCA: CESPE ANO: 2014 ÓRGÃO: TJ-SE PROVA: ANALISTA JUDICIÁRIO - SUPORTE E
 INFRAESTRUTURA
 
 Julgue os itens a seguir, relativos à administração de banco de dados e
@@ -4591,7 +4495,7 @@ gerenciamento de banco de dados (SGBD).
 [71] Um SGBD deve gerenciar o acesso múltiplo aos dados de uma tabela sem ocasionar perda
 da integridade dessas informações.
 
-Item. 25. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM TECNOLOGIA DA
+25. BANCA: CESPE ANO: 2015 ÓRGÃO: MPOG PROVA: ANALISTA - ANALISTA EM TECNOLOGIA DA
 INFORMAÇÃO
 
 Acerca de sistema de gerenciamento de banco de dados (SGBD), julgue os seguintes itens.
@@ -4604,7 +4508,7 @@ sendo impedido o acesso concorrente aos dados.
 exposição dos detalhes de representação e armazenamento de dados, por meio de uma visão
 abstrata dos dados, conhecida como independência de dados.
 
-Item. 26. BANCA: CESPE ANO: 2015 ÓRGÃO: DEPEN PROVA: AGENTE PENITENCIÁRIO FEDERAL -
+26. BANCA: CESPE ANO: 2015 ÓRGÃO: DEPEN PROVA: AGENTE PENITENCIÁRIO FEDERAL -
 TECNOLOGIA DA INFORMAÇÃO
 
 No que diz respeito a linguagens de programação e banco de dados, julgue os itens a seguir.
@@ -4617,7 +4521,7 @@ fisicamente, por gerenciar o modo como os dados serão vistos pelos usuários e 
 representar
 todo o conteúdo de informações do banco de dados.
 
-Item. 27. BANCA: CESPE ANO: 2013 ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
+27. BANCA: CESPE ANO: 2013 ÓRGÃO: MC PROVA: ANALISTA DE NÍVEL SUPERIOR - TECNOLOGIA
 DA INFORMAÇÃO
 
 Julgue os itens subsequentes, quanto à administração de banco de dados.
@@ -4632,9 +4536,8 @@ objetivo de garantir a disponibilidade dos serviços de banco.
 que,
 em alguns casos, são tarefas importantes para melhorar o desempenho do banco de dados.
 
-Item. 28. BANCA: CESPE ANO: 2013 ÓRGÃO: ANTT PROVA: ANALISTA ADMINISTRATIVO -
+28. BANCA: CESPE ANO: 2013 ÓRGÃO: ANTT PROVA: ANALISTA ADMINISTRATIVO -
 INFRAESTRUTURA DE TI
-
 
 No que diz respeito às funções do administrador de dados e à elaboração e implantação
 de
@@ -4643,7 +4546,7 @@ projeto de banco de dados, julgue os itens que se seguem.
 [89] Uma das funções do administrador de dados é padronizar os dados, documentando as
 definições e descrições dos itens de dados.
 
-Item. 29. Ano: 2010 Banca: CESPE Órgão: Banco da Amazônia Prova: Técnico Científico - Tecnologia da
+29. Ano: 2010 Banca: CESPE Órgão: Banco da Amazônia Prova: Técnico Científico - Tecnologia da
 Informação
 
 O dicionário de dados é uma das principais ferramentas para a administração
@@ -4659,71 +4562,69 @@ sistema.
 [2] O catálogo do sistema é um repositório com função de armazenar as definições dos
 esquemas dos bancos de dados.
 
-
 GABARITo
 
-Item. 1. B
+1. B
 
-Item. 2. E
+2. E
 
-Item. 3. Certo
+3. Certo
 
-Item. 4. E
+4. E
 
-Item. 5. Certo
+5. Certo
 
-Item. 6. Certo
+6. Certo
 
-Item. 7. Certo
+7. Certo
 
-Item. 8. Certo
+8. Certo
 
-Item. 9. Errado
+9. Errado
 
-Item. 10. D
+10. D
 
-Item. 11. Errado
+11. Errado
 
-Item. 12. Certo
+12. Certo
 
-Item. 13. Errado
+13. Errado
 
-Item. 14. Errado
+14. Errado
 
-Item. 15. Errado
+15. Errado
 
-Item. 16. D
+16. D
 
-Item. 17. C
+17. C
 
-Item. 18. C
+18. C
 
-Item. 19. Errado
+19. Errado
 
-Item. 20. Certo
+20. Certo
 
-Item. 21. Certo
+21. Certo
 
-Item. 22. Errado Certo
+22. Errado Certo
 
-Item. 23. Errado Errado Errado
+23. Errado Errado Errado
 
-Item. 24. Certo
+24. Certo
 
-Item. 25. Errado Certo
+25. Errado Certo
 
-Item. 26. Certo
+26. Certo
 
-Item. 27. Errado Certo
+27. Errado Certo
 
-Item. 28. Certo
+28. Certo
 
-Item. 29. Errado Certo
-
+29. Errado Certo
 
 LISTA DE QUESTõES - CESGRANRIO
 
-Item. 1. BANCA: CESGRANRIO ANO: 2012 ÓRGÃO: LIQUIGÁS PROVA: PROFISSIONAL DE TECNOLOGIA
+1. BANCA: CESGRANRIO ANO: 2012 ÓRGÃO: LIQUIGÁS PROVA: PROFISSIONAL DE TECNOLOGIA
 DA INFORMAÇÃO - ADMINISTRADOR DE BANCO DE DADOS
 
 A arquitetura ANSI/SPARC de um Sistema Gerenciador de Banco de Dados (SGBD) divide-se
@@ -4738,13 +4639,12 @@ D físico, conceituai e lógico
 
 E físico, indexador e recuperador
 
-Item. 2. BANCA: CESGRANRIO ANO: 2010 ÓRGÃO: ELETROBRAS PROVA: ANALISTA DE SISTEMAS -
+2. BANCA: CESGRANRIO ANO: 2010 ÓRGÃO: ELETROBRAS PROVA: ANALISTA DE SISTEMAS -
 ENGENHARIA DE SOFTWARE
 
 Um Modelo de Dados corresponde a uma descrição formal da estrutura de um banco de dados.
 Com relação à Modelagem de Dados, relacione os modelos, apresentados na coluna da esquerda,
 à respectiva característica, entre as indicadas na coluna da direita.
-
 
 Modelo de Dados
 I - Conceituai
@@ -4774,14 +4674,13 @@ Al-P, ll-Q, III-R.
 
 Bl-Q, ll-R, lll-S.
 
-
 Cl-S, ll-P, lll-R.
 
 D I - S, II - R, III-Q.
 
 E I - S, ll-P, III -Q.
 
-Item. 3. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco
+3. Ano: 2014 Banca: CESGRANRIO Órgão: Banco da Amazônia Prova: Técnico Científico - Banco
 de Dados
 
 Na arquitetura ANSI/SPARC de banco de dados, o nível conceituai
@@ -4796,7 +4695,7 @@ d) descreve os caminhos de acesso para a base de dados.
 
 e) inclui um número de visões de usuário.
 
-Item. 4. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
+4. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
 Tecnologia da Informação
 
 Um dicionário de dados utilizado por um desenvolvedor tem como função
@@ -4806,7 +4705,7 @@ c) servir como um inventário dos dados contidos em uma base de dados
 d) explicitar os modelos de entidades e relacionamentos
 e) controlar o histórico do acesso a dados pelos usuários
 
-Item. 5. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
+5. Ano: 2014 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
 Tecnologia da Informação
 
 O responsável por um SGBD relacional que apoiava vários sistemas percebeu que havia
@@ -4823,7 +4722,7 @@ c) Conceituai
 d) Externa
 e) Física
 
-Item. 6. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
+6. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
 Informação e Comunicação
 
 Segundo a classificação de categorias de modelos de dados, o modelo de dados
@@ -4835,7 +4734,7 @@ c) físico
 d) interno
 e) representacional
 
-Item. 7. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
+7. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
 Informação e Comunicação
 
 SQL é uma linguagem dedicada à operação de Bancos de Dados relacionais,
@@ -4854,7 +4753,7 @@ d) SELECT, DELETE, INSERT e UPDATE
 
 e) SELECT, JOIN, PROJECT e RENAME
 
-Item. 8. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
+8. Ano: 2014 Banca: CESGRANRIO Órgão: IBGE Prova: Supervisor de Pesquisas - Tecnologia de
 Informação e Comunicação
 
 O modelo relacional tornou-se o padrão estabelecido do mercado. Outros modelos
@@ -4866,14 +4765,13 @@ encontrados como sistemas legados nas empresas.
 Dois desses modelos são os
 a) em rede e XML
 
-
 b) hierárquico e em rede
 c) hierárquico e XML
 
 d) orientado a objetos e em rede
 e) orientado a objetos e XML
 
-Item. 9. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Analista - Suporte Operacional
+9. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Analista - Suporte Operacional
 
 A independência de dados é uma das propriedades dos SGBDs relacionais. Ela é atingida
 por meio
@@ -4884,7 +4782,7 @@ c) físico, conceituai e externo
 d) físico, externo e de aplicação
 e) físico, lógico e de aplicação
 
-Item. 10. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Tecnologista - Geoprocessamento
+10. Ano: 2013 Banca: CESGRANRIO Órgão: IBGE Prova: Tecnologista - Geoprocessamento
 
 O Sistema Gerenciador de Banco de Dados (SGBD) NÃO apresenta a seguinte característica:
 
@@ -4903,7 +4801,7 @@ criação, fontes de dados e autoria — conhecidas como metadados.
 e) Permitir a inserção de mapas de uma determinada localidade que contenham nomes ou
 representações gráficas distintos para as mesmas entidades geográficas.
 
-Item. 11. Ano: 2012 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
+11. Ano: 2012 Banca: CESGRANRIO Órgão: EPE Prova: Analista de Gestão Corporativa -
 Tecnologia da Informação
 
 Em uma empresa, a coleção de metadados para prover consistência entre itens de dados
@@ -4919,7 +4817,7 @@ c) Modelo conceituai de dados
 d) Modelo físico de dados
 e) Diagrama de fluxo de dados
 
-Item. 12. Ano: 2012 Banca: CESGRANRIO Órgão: Petrobras Prova: Analista de Sistemas Júnior -
+12. Ano: 2012 Banca: CESGRANRIO Órgão: Petrobras Prova: Analista de Sistemas Júnior -
 lnfraestrutura-2012
 
 Quais as propriedades ACID das transações que um SGDB relacional multiusuário deve garantir?
@@ -4930,7 +4828,7 @@ c) Atomicidade, Consistência, Isolamento e Durabilidade
 d) Atomicidade, Confiabilidade, Isolamento e Durabilidade
 e) Atomicidade, Confiabilidade, Independência e Determinação
 
-Item. 13. Ano: 2012 Banca: CESGRANRIO Órgão: Chesf Prova: Técnico em Eletrônica
+13. Ano: 2012 Banca: CESGRANRIO Órgão: Chesf Prova: Técnico em Eletrônica
 
 A arquitetura de um Banco de Dados ANSI/SPARC possui três níveis. O primeiro desses
 níveis é
@@ -4945,33 +4843,31 @@ c) externo, físico e conceituai
 d) conceituai, externo e físico
 e) conceituai, físico e externo
 
-
 GABARITo
 
-Item. 1. A
+1. A
 
-Item. 2. C
+2. C
 
-Item. 3. B
+3. B
 
-Item. 4. C
+4. C
 
-Item. 5. E
+5. E
 
-Item. 6. E
+6. E
 
-Item. 7. D
+7. D
 
-Item. 8. B
+8. B
 
-Item. 9. C
+9. C
 
-Item. 10. E
+10. E
 
-Item. 11. B
+11. B
 
-Item. 12. C
+12. C
 
-Item. 13. B
-
+13. B
 

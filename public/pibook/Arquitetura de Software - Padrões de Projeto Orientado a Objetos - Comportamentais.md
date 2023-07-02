@@ -1,30 +1,28 @@
-Capítulo. Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Comportamentais.
-
+# Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Comportamentais.
 
 Índice
 
-Item. 1 Chain of Responsability
+1 Chain of Responsability
 
-Item. 2 Command
+2 Command
 
-Item. 3 Interpreter
+3 Interpreter
 
-Item. 4 Iterator
+4 Iterator
 
-Item. 5 Mediator
+5 Mediator
 
-Item. 6 Memento
+6 Memento
 
-Item. 7 Observer
+7 Observer
 
-Item. 8 State
+8 State
 
-Item. 9 Strategy
+9 Strategy
 
-Item. 10 Template Method
+10 Template Method
 
-Item. 11 Visitor
-
+11 Visitor
 
 Chain of Responsability
 

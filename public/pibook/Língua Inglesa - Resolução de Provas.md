@@ -1,12 +1,10 @@
-Capítulo. Língua Inglesa - Resolução de Provas.
-
+# Língua Inglesa - Resolução de Provas.
 
 Índice
 
 1) Textos Traduzidos da Área de TI ...
 
 2) Glossário de Termos da Área de TI
-
 
 WOftA OC
 
@@ -31,7 +29,6 @@ computation — primarily data and Al's carbon footprint and greenhouse gas emis
 
 The problem is showing no signs of slowing down. As a result of the COVID-19 pandemic, data
 and Al deployment increased exponentially as the demand for digital transformation increased.
-
 
 MIT reported that the cloud now has a larger carbon footprint than the entire airline
 industry,
@@ -82,7 +79,6 @@ What can enterprise companies do to mitigate the environmental impacts of Al and
 data
 while still driving forward with innovation? Here are a few data sustainability suggestions:
 
-
 Consider how environmental impact is measured. We need to improve
 carbon
 accounting by delivering faster, more accurate data on carbon footprints and
@@ -128,7 +124,6 @@ issue, the world of Al could hold us back in the fight to slow down climate chan
 
 https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-
 must-become-more-sustainable/
-
 
 Translation
 
@@ -207,7 +202,6 @@ artificial intelligence - but that approach threatens to inflict major environme
 damage in the
 future.
 
-
 Neste momento, a comunidade de IA adotou uma atitude de "maior é melhor" em relação a
 dados e inteligência artificial - mas essa abordagem ameaça infligir grandes danos ambientais no
 futuro.
@@ -249,7 +243,6 @@ while still driving forward with innovation? Here are a few data sustainability 
 O que as empresas podem fazer para mitigar os impactos ambientais da IA e do Big Data e, ao
 mesmo tempo, avançar com a inovação? Aqui estão algumas sugestões de sustentabilidade de
 dados:
-
 
 Consider how environmental impact is measured. We need to improve
 carbon
@@ -295,7 +288,6 @@ Aumentar a transparência e a medição. À medida que os pesquisadores de IA pu
 seus resultados para novos modelos, eles devem incluir medições da quantidade de energia
 emitida em seu modelo, juntamente com suas métricas de desempenho e precisão.
 
-
 Follow Google's "4M" best practices. Google has identified four best practices, known as
 the "4Ms," that can significantly reduce energy and carbon emissions for anyone using
 Google
@@ -339,7 +331,6 @@ poderá nos atrasar na luta para desacelerar as mudanças climáticas.
 https://www.forbes.com/sites/bernardmarr/2023/03/22/green-intelligence-why-data-and-ai-
 
 must-become-more-sustainable/
-
 
 PM SUMAIS
 
@@ -428,8 +419,7 @@ Our work highlights four key ingredients for digital technology to help people a
 nature thrive
 together successfully:
 
-
-Item. 1. Co-create. Local people have a deep understanding of their environment and the challenges
+1. Co-create. Local people have a deep understanding of their environment and the challenges
 they face. Their knowledge offers invaluable insight on the design of more effective
 and
 sustainable digital solutions. For example, the GEQ Indigenous Alliance uses hackathons to co-
@@ -439,7 +429,7 @@ other key stakeholders in the design process leads to greater purchase and
 long-term
 sustainability of the solutions, as well as more equitable outcomes.
 
-Item. 2. Prioritise simple and intuitive user interfaces. An engaging user interface can ensure the tool
+2. Prioritise simple and intuitive user interfaces. An engaging user interface can ensure the tool
 is easy to navigate, particularly when targeting end users with limited digital or
 written literacy.
 For example, CLART, developed by India Observatory, translates complex data into colour-
@@ -449,7 +439,7 @@ on local
 knowledge and practices already in place. This helps to ensure they are designed in a way that
 aligns with, and elevates, long-standing or traditional community activities.
 
-Item. 3. Provide direct rewards for using the solution. Tangible benefits, such as financial incentives,
+3. Provide direct rewards for using the solution. Tangible benefits, such as financial incentives,
 can help mobilise and secure community engagement. For example, the Treetracker mobile
 application incentivises users in East África to grow and maintain trees with direct
 mobile
@@ -461,7 +451,7 @@ intervals after a new tree has been planted. This both incentivises the survival
 well
 as creating a meaningful source of income for tree caretakers.
 
-Item. 4. Foster strong local partnerships for longer-term impact. Across all examples,
+4. Foster strong local partnerships for longer-term impact. Across all examples,
 maintaining
 strong local partnerships and disseminating the technology through trusted individuais in
 the
@@ -481,7 +471,6 @@ knowledge and maximises the impact of the solutions.
 
 https://www.gsma.com/mobilefordevelopment/blog/earth-day-2023-four-ingredients-for-digital-
 solutions-to-help-people-and-nature-thrive/
-
 
 MDOMAIS
 FUNDO!
@@ -522,7 +511,6 @@ Sábado, 22 de abril de 2023 marca o Dia da Terra, com o tema "Invista em nosso 
 marcar a ocasião, este blog considera o papel da tecnologia digital na proteção dos
 recursos
 naturais e apresenta recomendações para projetar e investir em soluções de alto impacto.
-
 
 lt was co-written by the GSMA ClimateTech and FCDO-funded Reversing
 Environmental
@@ -574,7 +562,6 @@ Digital solutions: A useful tool for nature and people - if used wisely
 
 Soluções digitais: Uma ferramenta útil para a natureza e as pessoas - se usada sabiamente
 
-
 Digital technology offers significant potential to address these urgent environmental and
 social
 challenges. But too often, well-intended digital tech fails to help local people or reach the scale
@@ -623,7 +610,6 @@ water better;
 móvel baseado em geo-informação que ajudou mais de 18.000 aldeias em cinco estados da
 índia a gerenciar melhor o solo e a água;
 
-
 * Treetracker: A mobile money-based app which has supported local communities plant 250,000
 trees across Uganda, Tanzania and Kenya;
 
@@ -652,7 +638,7 @@ Nosso trabalho destaca quatro ingredientes principais para que a tecnologia digi
 ajude as
 pessoas e a natureza a prosperarem juntas com sucesso:
 
-Item. 5. Co-create. Local people have a deep understanding of their environment and the challenges
+5. Co-create. Local people have a deep understanding of their environment and the challenges
 they face. Their knowledge offers invaluable insight on the design of more effective
 and
 sustainable digital solutions. For example, the GEO Indigenous Alliance uses hackathons to co-
@@ -662,7 +648,7 @@ other key stakeholders in the design process leads to greater purchase and
 long-term
 sustainability of the solutions, as well as more equitable outcomes.
 
-Item. 5. Criar em conjunto. A população local tem um profundo conhecimento de seu ambiente e dos
+5. Criar em conjunto. A população local tem um profundo conhecimento de seu ambiente e dos
 desafios que enfrenta. Seu conhecimento oferece uma visão inestimável sobre o design de
 soluções digitais mais eficazes e sustentáveis. Por exemplo, a Aliança Indígena GEO
 utiliza
@@ -672,7 +658,7 @@ partes
 interessadas importantes no processo de design leva a uma maior aquisição e sustentabilidade
 de longo prazo das soluções, bem como a resultados mais equitativos.
 
-Item. 6. Prioritise simple and intuitive user interfaces. An engaging user interface can ensure the tool
+6. Prioritise simple and intuitive user interfaces. An engaging user interface can ensure the tool
 is easy to navigate, particularly when targeting end users with limited digital or
 written literacy.
 For example, CLART, developed by India Observatory, translates complex data into colour-
@@ -682,7 +668,7 @@ on local
 knowledge and practices already in place. This helps to ensure they are designed in a way that
 aligns with, and elevates, long-standing or traditional community activities.
 
-Item. 6. Priorizar interfaces de usuário simples e intuitivas. Uma interface de usuário envolvente pode
+6. Priorizar interfaces de usuário simples e intuitivas. Uma interface de usuário envolvente pode
 garantir que a ferramenta seja fácil de navegar, principalmente quando se trata de usuários finais
 com alfabetização digital ou escrita limitada. Por exemplo, o CLART,
 desenvolvido pelo
@@ -694,7 +680,7 @@ ajuda a
 garantir que elas sejam projetadas de forma a se alinharem, e exaltar as atividades comunitárias
 tradicionais ou de longa data.
 
-Item. 7. Provide direct rewards for using the solution. Tangible benefits, such as financial incentives,
+7. Provide direct rewards for using the solution. Tangible benefits, such as financial incentives,
 can help mobilise and secure community engagement. For example, the Treetracker mobile
 application incentivises users in East África to grow and maintain trees with direct
 mobile
@@ -706,7 +692,7 @@ intervals after a new tree has been planted. This both incentivises the survival
 well
 as creating a meaningful source of income for tree caretakers.
 
-Item. 7. Oferecer recompensas diretas pelo uso da solução. Benefícios tangíveis, como
+7. Oferecer recompensas diretas pelo uso da solução. Benefícios tangíveis, como
 incentivos
 financeiros, podem ajudar a mobilizar e garantir o envolvimento da comunidade. Por exemplo, o
 aplicativo móvel "Rastreador de árvores" incentiva os usuários da África Oriental a
@@ -718,8 +704,7 @@ nova árvore. Isso incentiva a sobrevivência das árvores, além de criar uma f
 renda
 significativa para os cuidadores de árvores.
 
-
-Item. 8. Foster strong local partnerships for longer-term impact. Across all examples,
+8. Foster strong local partnerships for longer-term impact. Across all examples,
 maintaining
 strong local partnerships and disseminating the technology through trusted individuais in
 the
@@ -740,7 +725,7 @@ knowledge and maximises the impact of the solutions.
 https://www.gsma.com/mobilefordevelopment/blog/earth-day-2023-four-ingredients-for-digital-
 solutions-to-help-people-and-nature-thrive/
 
-Item. 8. Promover parcerias locais sólidas para obter um impacto de longo prazo. Em todos
+8. Promover parcerias locais sólidas para obter um impacto de longo prazo. Em todos
 os
 exemplos, a manutenção de parcerias locais sólidas e a disseminação da tecnologia por meio de
 pessoas de confiança na comunidade foram fundamentais para o sucesso, facilitando uma
@@ -762,7 +747,6 @@ ESCLARECENDO!
 Esses textos foram escolhidos por mim com base em pesquisas de assuntos que mais
 estão em pauta na atualidade. Considere como uma dica do que há uma grande
 possibilidade de ser cobrado na sua prova. (Profa. )
-
 
 FUNDO!
 
@@ -803,7 +787,6 @@ desenvolvido para ser lançado aos usuários.
 
 Build (verbo) - desenvolver, compilar, construir
 
-
 Cloud - computação em nuvem
 Comprehensive - abrangente, global
 
@@ -840,7 +823,6 @@ Default - padrão
 Default gateway - porta de ligação pré-definida
 Desktop - área de trabalho
 
-
 Developing systems - sistemas em desenvolvimento
 Development of systems - desenvolvimento de sistemas
 Device - dispositivo, aparelho, invenção
@@ -874,7 +856,6 @@ Firmware - programa em ROM
 
 Flash drive - pen drive
 Flaw - falha, defeito
-
 
 Flow - fluxo, corrente
 
@@ -921,7 +902,6 @@ IT - Information Tecnology - TI - Tecnologia da Informação
 
 Jargon - jargão, linguagem técnica
 
-
 LAN - Local Area Network - Rede Local
 
 MAN - Metropolitan Area Network - Rede Metropolitana
@@ -958,7 +938,6 @@ Task-tarefa, encarregar, incumbir
 Technological infrastructure - infraestrutura tecnológica
 Token - simbólico, ficha, lembrança
 
-
 Tool - ferramenta
 
 Touch enabled - habilitado para toque
@@ -976,5 +955,4 @@ usar um chapéu de cowboy branco.
 
 Workflow - fluxo de trabalho
 Worksheet - planilha de cálculo
-
 

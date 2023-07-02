@@ -1,18 +1,16 @@
-Capítulo. Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Criacionais.
-
+# Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Criacionais.
 
 Índice
 
-Item. 1 Abstract Factory
+1 Abstract Factory
 
-Item. 2 Builder
+2 Builder
 
-Item. 3 Factory Method
+3 Factory Method
 
-Item. 4 Prototype
+4 Prototype
 
-Item. 5 Singleton
-
+5 Singleton
 
 Abstract Factory
 

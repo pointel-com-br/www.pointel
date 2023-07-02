@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Segurança da Informação.
-
+# Bizu Estratégico - Segurança da Informação.
 
 Olá, concurseiro! Tudo certo?
 
@@ -25,9 +24,7 @@ CEBRASPE no
 podemos
 focar nos pontos mais importantes para revisar e detonar na prova!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 MAPA DO BIZU
 
@@ -47,7 +44,6 @@ assunto. Veja como está estruturado o seu Bizu.
 
 Assunto Bizus Caderno de
 
-
 Mecanismos de segurança (Criptografia,
 Assinatura Digital, Garantia de Integridade,
 Controle de Acesso, Certificação Digital, ICP-
@@ -61,15 +57,11 @@ Brasil) - parte II
 Políticas de segurança (NBR ISO/IEC 27002:2005,
 NBR ISO/IEC 27001:2013, Políticas de senhas)
 
-
 http://questo.es/0lz3hq
-
 
 3 http://questo.es/gqzdvl
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Apresentação
 
@@ -93,11 +85,9 @@ Espero que gostem!
 
 Um grande abraço e bons estudos!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
-Item. 1. Mecanismos de segurança (Criptografia, Assinatura Digital,
+1. Mecanismos de segurança (Criptografia, Assinatura Digital,
 Garantia de Integridade, Controle de Acesso, Certificação
 
 Digital, ICP-Brasil) - parte I.
@@ -154,9 +144,7 @@ operações matemáticas de determinado algoritmo.
 
 Em regra, temos que todos os modos buscam garantir aspectos de confidencialidade.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Alguns deles são capazes de tratar aspectos de autenticidade e integridade, ou seja, não podemos
 generalizar e afirmar que a cifragem por bloco garante os princípios de segurança de forma geral.
@@ -196,57 +184,55 @@ A partir daí, podemos elencar cincos tipos de ataques, que recorrentemente caem
 provas, quais
 sejam:
 
-Item. 1. Apenas Texto Cifrado - CypherText-Only: Nesse contexto, há conhecimento apenas do
+1. Apenas Texto Cifrado - CypherText-Only: Nesse contexto, há conhecimento apenas do
 algoritmo
 de criptografia utilizado e do próprio texto cifrado;
 
-Item. 2. Texto Claro Conhecido - Known-plaintext: Além dos itens acima, o atacante tem a
+2. Texto Claro Conhecido - Known-plaintext: Além dos itens acima, o atacante tem a
 informação
 dos pares de texto claro de entrada e seu respectivo texto cifrado de saída;
 
-Item. 3. Texto Claro Escolhido - Choosen-Plaintext: Agora o atacante não se restringe apenas
+3. Texto Claro Escolhido - Choosen-Plaintext: Agora o atacante não se restringe apenas
 a saber o
 par de entrada e saída, mas ele é capaz de manipular a entrada e avaliar a sua respectiva saída;
 
-Item. 4. Texto Cifrado Escolhido - Choosen-CypherText: Agora o atacante é capaz de fazer o
+4. Texto Cifrado Escolhido - Choosen-CypherText: Agora o atacante é capaz de fazer o
 caminho
 reverso, onde a partir de um texto cifrado escolhido, ele é capaz de verificar qual
 o texto em claro
 correspondendo;
 
-Item. 5. Texto Escolhido - Choosen-Text - Há plena capacidade de manipulação dos textos de
+5. Texto Escolhido - Choosen-Text - Há plena capacidade de manipulação dos textos de
 entrada e
 saída, e vice versa;
 
 b. Métodos de Decifragem de Dados
 
-Item. 1. Método da Recuperação Direta: O intuito desse método é conseguir obter a senha de
+1. Método da Recuperação Direta: O intuito desse método é conseguir obter a senha de
 maneira
 direta, ou seja, a partir de algum ponto de armazenamento ou a chave utilizada como
 referência para
 armazenar o dado criptografado.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
-Item. 2. Método Pré-Computado: Neste método, busca-se criar uma lista, bem extensa
+2. Método Pré-Computado: Neste método, busca-se criar uma lista, bem extensa
 por sinal
 (aumentando a chance de quebra), que correlaciona, para um determinado algoritmo, os
 textos em
 claro e os resultados gerados Por isso o termo "pré-computado".
 
-Item. 3. Método da Força Bruta: Aqui, busca-se, a partir de um grande poder computacional,
+3. Método da Força Bruta: Aqui, busca-se, a partir de um grande poder computacional,
 processar
 todas as possibilidades de senhas para determinado ambiente ou algoritmos.
 
-Item. 4. Método de Dicionário: Sem dúvida, no contexto atual, é uma das técnicas mais utilizadas. O
+4. Método de Dicionário: Sem dúvida, no contexto atual, é uma das técnicas mais utilizadas. O
 procedimento a ser realizado é muito semelhante com o método da Força Bruta. Entretanto, a invés
 de se testar todas as possibilidades possíveis dentro de uma quantidade limitada de caracteres,
 testasse as senhas conforme uma lista pré-definida de "possíveis senhas" para o contexto em
 análise.
 
-Item. 5. Método probabilístico: Por fim, temos o método probabilístico. Como o nome já diz,
+5. Método probabilístico: Por fim, temos o método probabilístico. Como o nome já diz,
 busca-se por
 intermédio de algoritmos e análises estatísticas, aquelas sequências de
 caracteres que possuem
@@ -280,9 +266,7 @@ terem acesso
 
 Vamos conhecer agora os principais algoritmos de criptografia simétrica:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 DES
 
@@ -299,7 +283,6 @@ uma vez que os 8 são derivados dos 56 bits.
 
 I
 
-
 I
 
 64-bit ciphertcxt
@@ -309,7 +292,6 @@ I
 Na tentativa de dar uma sobrevida ao DES, criou-se o 3DES, que nada mais é do que
 a aplicação do
 DES três vezes, com o detalhe de que na segunda vez, faz-se o processo de decriptação.
-
 
 Key Kl Key K2
 
@@ -333,9 +315,7 @@ Desse modo, ao se utilizar três chaves distintas, tem-se uma robustez de 56
 bits por chave,
 totalizando 168 bits de tamanho de chave.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 AES-Advanced Encryption Standard
 
@@ -383,7 +363,6 @@ decifrar com a chave privada do RECEPTOR!
 Se o objetivo é garantir a autenticidade, deve-se cifrar com a chave privada do EMISSOR e decifrar
 com a chave pública do EMISSOR!
 
-
 =
 
 Algoritmo criptográfico
@@ -393,7 +372,6 @@ Algoritmo criptográfico
 <rcrÍBVraednao
 
 BS Algoritmo criptográfico
-
 
 Documento
 Original
@@ -410,7 +388,6 @@ Original
 
 Confidencialidade
 
-
 Regina
 com chave pública
 com chave privada
@@ -421,7 +398,6 @@ preservado
 
 Criptografia Assimétrica
 (garantia de sigilo OU autoria)
-
 
 Documento
 
@@ -438,7 +414,6 @@ Documento
 
 Documento
 
-
 Original
 
 Criptografia
@@ -451,7 +426,6 @@ Original
 
 Autenticidade
 
-
 Brenno
 com chave privada com chave pública
 Regina
@@ -459,9 +433,7 @@ Regina
 (autoria)
 garantida
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Criptografia
 Simétrica
@@ -533,9 +505,7 @@ Esse algoritmo produz um tamanho de HASH de 128 bits.
 
 MD4
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 O MD4 produz HASH de tamanho de 128 bits, dependendo de entradas de tamanho múltiplos
 de 512
@@ -554,7 +524,7 @@ SHA-256 - 256 bits de HASH, com palavras de entrada de 256 bits;
 SHA-384 - 384 bits de HASH. É uma versão truncada do SHA-512;
 SHA-512 - 512 bits de HASH, com palavras de entrada de 512 bits;
 
-Item. 2. Mecanismos de segurança (Criptografia, Assinatura Digital,
+2. Mecanismos de segurança (Criptografia, Assinatura Digital,
 Garantia de Integridade, Controle de Acesso, Certificação
 
 Digital, ICP-Brasil) - parte II.
@@ -569,9 +539,7 @@ que necessita ser assinado. Por meio de um Algoritmo de Hash, é possível garan
 integridade dos
 dados.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Principais algoritmos: SHA-1 (Hash de 160 bits), MD5 (Hash de 128 bits), etc
 
@@ -655,9 +623,7 @@ Além disso, por seguir o padrão X.509 do ITU-t, consta ainda:
 
 * Identificação do gerador do certificado;
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 * Informações sobre o algoritmo assimétrico da chave pública do usuário;
 
@@ -667,7 +633,6 @@ pública de B
 Chave pnv
 
 Hash calculado por B
-
 
 Hash calculado por A
 
@@ -723,9 +688,7 @@ máximo admitido para conclusão do processo de revogação de 54 horas.
 
 o Certificado do Tipo A3 e S3
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 É o certificado em que a geração e o armazenamento das chaves criptográficas são
 feitos em cartão
@@ -763,7 +726,6 @@ MCfTiwvwlgYAwEAAQ==XVOAoZlhvcNgEAAiBimNdWkSET
 
 Comparação Assinatura Digital x Certificado Digital
 
-
 ASSINATURA DIGITAL
 
 Trata-se um método matemático utilizado para
@@ -798,11 +760,9 @@ Certificados Digitais
 
 Lista de Certificados Revogados (CRL- Certification Revocation List)
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
-Item. 3. Políticas de segurança (NBR ISO/IEC 27002:2005, NBR ISO/IEC
+3. Políticas de segurança (NBR ISO/IEC 27002:2005, NBR ISO/IEC
 27001:2013, Políticas de senhas).
 
 ISO 27001 E ISO 27002
@@ -818,33 +778,33 @@ MELHORAR CONTINUAMENTE um SGSI
 
 A norma é dividida em 10 tópicos e 1 anexo de referência. Os tópicos são os seguintes:
 
-Item. 1. ESCOPO;
+1. ESCOPO;
 
-Item. 2. REFERÊNCIA NORMATIVA;
+2. REFERÊNCIA NORMATIVA;
 
-Item. 3. TERMOS e DEFINIÇÕES;
+3. TERMOS e DEFINIÇÕES;
 
-Item. 4. Contexto da ORGANIZAÇÃO;
+4. Contexto da ORGANIZAÇÃO;
 
-Item. 5. LIDERANÇA;
+5. LIDERANÇA;
 
-Item. 6. PLANEJAMENTO;
+6. PLANEJAMENTO;
 
-Item. 7. APOIO;
+7. APOIO;
 
-Item. 8. OPERAÇÃO;
+8. OPERAÇÃO;
 
-Item. 9. AVALIAÇÃO do DESEMPENHO;
+9. AVALIAÇÃO do DESEMPENHO;
 
-Item. 10. MELHORIA;
+10. MELHORIA;
 Estrutura da Norma:
 
-Item. 1. Políticas de segurança da informação
+1. Políticas de segurança da informação
 a. Orientação da Direção para segurança da informação
 1.Políticas para segurança da Informação
 ii. Análise crítica das políticas para Segurança da Informação;
 
-Item. 2. Organização da Segurança da Informação
+2. Organização da Segurança da Informação
 a. Organização Interna
 i. Responsabilidades e papéis pela Segurança da Informação;
 
@@ -860,11 +820,10 @@ b. Dispositivos móveis e trabalho remoto
 i. Política para uso de dispositivo móvel
 ii. Trabalho Remoto
 
-Item. 3. Segurança em Recursos Humanos
+3. Segurança em Recursos Humanos
 a. Antes da Contratação
 i. Seleção
 ii. Termos e Condições de Contratação;
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 b. Durante a Contratação
@@ -876,7 +835,7 @@ iii. Processo disciplinar;
 c. Encerramento e mudança da contratação
 i. Responsabilidades pelo encerramento ou mudança da contratação;
 
-Item. 4. Gestão de Ativos
+4. Gestão de Ativos
 a. Responsabilidade pelos ativos (OBJETIVO: Identificar os ativos da organização e
 definir as devidas
 responsabilidades pela proteção dos ativos.)
@@ -943,12 +902,11 @@ iii. Transferência física de mídias (CONTROLE: Convém que mídias contendo
 informações sejam
 protegidas contra acesso não autorizado, uso impróprio ou corrupção, durante o transporte.)
 
-Item. 5. Controle de Acesso
+5. Controle de Acesso
 a. Requisitos do negócio para controle de acesso
 i. Política de controle de acesso
 ii. Acesso às redes e aos serviços de rede
 b. Gerenciamento de acesso do usuário
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 i. Registro e cancelamento de usuário
@@ -967,12 +925,12 @@ iii. Sistema de Gerenciamento de senha
 iv. Uso de programas utilitários privilegiados
 v. Controle de acesso ao código-fonte de programas
 
-Item. 6. Criptografia
+6. Criptografia
 a. Controles criptográficos
 i. Política para o uso de controles criptográficos
 ii. Gerenciamento de chaves
 
-Item. 7. Segurança física e do ambiente
+7. Segurança física e do ambiente
 a. Áreas Seguras
 i. Perímetro de segurança física
 ii. Controles de entrada física
@@ -991,7 +949,7 @@ vii. Reutilização ou descarte seguro de equipamentos
 viii. Equipamento de usuário sem monitoração
 ix. Política de mesa limpa e tela limpa
 
-Item. 8. Segurança nas operações
+8. Segurança nas operações
 a. Responsabilidades e procedimentos operacionais
 i. Documentação dos procedimentos de operação
 ii. Gestão de mudanças
@@ -999,7 +957,6 @@ iii. Gestão de capacidade
 iv. Separação dos ambientes de desenvolvimento, teste e produção
 b. Proteção contra malware
 i. Controles contra malware
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 c. Cópias de Segurança
@@ -1018,7 +975,7 @@ ii. Restrições quanto à instalação de software
 g. Considerações quanto à auditoria de sistemas da informação
 i. Controles de auditoria de sistemas de informação
 
-Item. 9. Segurança das comunicações
+9. Segurança das comunicações
 a. Gerenciamento da segurança em redes
 i. Controles de redes
 ii. Segurança dos serviços de rede
@@ -1029,7 +986,7 @@ ii. Acordos para transferência de informações
 iii. Mensagens eletrônicas
 iv. Acordos de confidencialidade e não divulgação
 
-Item. 10. Aquisição, Desenvolvimento e Manutenção de Sistemas
+10. Aquisição, Desenvolvimento e Manutenção de Sistemas
 a. Requisitos de Segurança de sistemas de informação
 i. Análise e especificação dos requisitos de segurança da informação
 11.Serviços de aplicação seguros em redes públicas
@@ -1048,9 +1005,8 @@ ix. Teste de aceitação de sistemas
 c. Dados para teste
 i. Proteção dos dados para teste
 
-Item. 11. Relacionamento na Cadeia de Suprimento
+11. Relacionamento na Cadeia de Suprimento
 a. Segurança da informação na cadeia de suprimento
-
 
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 i. Política de segurança da informação no relacionamento com os fornecedores
@@ -1060,7 +1016,7 @@ b. Gerenciamento da entrega do serviço do fornecedor
 i. Monitoramento e análise crítica de serviços com fornecedores
 ii. Gerenciamento de mudanças para serviços com fornecedores
 
-Item. 12. Gestão de Incidentes de Segurança da Informação
+12. Gestão de Incidentes de Segurança da Informação
 a. Gestão de incidentes de segurança da informação e melhorias
 i. Responsabilidades e procedimentos
 ii. Notificação de eventos de segurança da informação
@@ -1070,7 +1026,7 @@ v. Resposta aos incidentes de segurança da informação
 vi. Aprendendo com os incidentes de segurança da informação
 vii. Coleta de evidências
 
-Item. 13. Aspectos da Segurança da Informação na Gestão da Continuidade do Negócio
+13. Aspectos da Segurança da Informação na Gestão da Continuidade do Negócio
 a. Continuidade da Segurança da Informação
 i. Planejando a continuidade da segurança da informação
 ii. Implementando a continuidade da segurança da informação
@@ -1079,7 +1035,7 @@ informação
 b. Redundâncias
 i. Disponibilidade dos recursos de processamento da informação
 
-Item. 14. Conformidade
+14. Conformidade
 a. Conformidade com requisitos legais e contratuais
 i. Identificação da legislação aplicável e de requisitos contratuais
 ii. Direitos de propriedade intelectual
@@ -1091,9 +1047,7 @@ i. Análise crítica independente da segurança da informação
 ii. Conformidade com as políticas e procedimentos de segurança da informação
 iii. Análise crítica da conformidade técnica
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Então é isso pessoal, vamos ficando por aqui.
 Esperamos que tenha gostado do nosso Bizu!
@@ -1101,5 +1055,4 @@ Bons estudos!
 
 @alinecalado. f
 @prof!eoma th ias
-
 

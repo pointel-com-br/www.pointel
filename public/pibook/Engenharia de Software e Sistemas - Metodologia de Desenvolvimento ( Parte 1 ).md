@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Metodologia de Desenvolvimento ( Parte 1 ).
-
+# Engenharia de Software e Sistemas - Metodologia de Desenvolvimento ( Parte 1 ).
 
 Índice
 
@@ -28,7 +27,6 @@ Diversos
 
 12) Lista de Questões - Metodologias de Desenvolvimento - Parte 1 -
 Diversas
-
 
 APRESENTAçÃo
 
@@ -60,7 +58,6 @@ INCIDÊNCIA EM PROVA: ALTÍSSIMA
 Além disso, essas faixas não são por banca - é baseado tanto na
 quantidade de vezes que caiu em prova independentemente da
 banca quando das minhas avaliações sobre cada assunto...
-
 
 #ATENÇÃO
 
@@ -96,7 +93,6 @@ assunto previamente administrado. A imensa maioria das questões para
 que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
 completos, abrangentes e direcionados.
-
 
 Conceitos Básicos
 
@@ -160,7 +156,6 @@ ferramentas, sendo que a pedra fundamental que sustenta a engenharia de software
 foco
 na qualidade conforme apresenta a imagem anterior.
 
-
 Tudo isso envolve planejamento de custos e prazos, montagem da equipe e garantia de
 qualidade
 do produto e do processo. Finalmente, a engenharia de software visa a produção da
@@ -212,7 +207,6 @@ CASE que
 permitiam automatizar algumas tarefas. Na década de noventa, surgiu a orientação a
 objetos,
 linguagens visuais, processo unificado, entre outros conceitos diversos. E na última década,
-
 
 surgiram as metodologias ágeis e outros paradigmas de desenvolvimento muito comuns hoje
 em
@@ -284,7 +278,6 @@ engenharia de software é o foco na qualidade. Isso é apenas uma contextualiza�
 inicial-esse não
 é um assunto que cai com frequência em prova. Fechou? Vamos seguir então...
 
-
 (Banco da Amazônia - 2010) Os princípios de engenharia de software definem a
 necessidade de formalidades para reduzir inconsistências e a decomposição para lidar
 com a complexidade.
@@ -307,9 +300,7 @@ F
 
 F
 
-
 Ferramentas
-
 
 Eng. de Software <
 
@@ -318,7 +309,6 @@ Eng. de Software <
 Foco na qualidade
 
 F
-
 
 Processos de Desenvolvimento
 
@@ -360,7 +350,6 @@ de vida têm em comum? Eles sempre tratam das fases pelas quais algo passa desde
 até o seu fim. Então, é isso que vocês têm que decorar para qualquer contexto de
 ciclo de vida:
 fases pelas quais algo passa do seu início ao seu fim.
-
 
 Na Engenharia de Software, esse termo é geralmente aplicado a sistemas de software com
 o
@@ -428,9 +417,7 @@ mais diminuta e detalhada (com muitas e pequenas fases). Vamos começar a ver al
 ciclos de
 vida que existem por aí para que vocês visualizem isso com maior clareza!
 
-
 67 0'®
-
 
 OPERAÇÃO
 
@@ -459,7 +446,6 @@ deveria contemplar todas essas atividades ou fases. Relaxa, nós vamos ver
 isso com mais
 detalhes depois...
 
-
 T 1
 
 II*1PLAMTAÇ0Ã
@@ -476,7 +462,6 @@ r
 
 PILANEJAMENU1
 
-
 EVDLUÇÃ D
 
 k J
@@ -490,7 +475,6 @@ J
 À VIDA (POR
 PRESSNAN)
 
-
 VALI-
 13AÇÃE1
 
@@ -503,7 +487,6 @@ k À
 1MODELAGEM
 
 k
-
 
 Outros exemplos: em verde, nós temos um ciclo de vida de software de acordo com
 nosso querido
@@ -568,7 +551,6 @@ Dessa forma, um Modelo de Ciclo de Vida de Software contém suas respectivas fas
 mas também
 contém como essas fases se relacionam. Vejam os conceitos abaixo:
 
-
 CICLO DE VIDA
 
 - TRATA-SE DAS FASES PELAS QUAIS ALGUMA COISA PASSA DESDE O SEU INÍCIO ATÉ O SEU FIM -
@@ -615,7 +597,6 @@ entre outros);
 #2. Tecnologia a ser adotada na sua construção (paradigma de desenvolvimento,
 linguagem de
 programação, mecanismo de persistência, entre outros);
-
 
 #2- Organização onde o produto será desenvolvido e a equipe de
 desenvolvimento alocada
@@ -763,7 +744,6 @@ fase pode requerer a definição de um novo processo, onde cada uma das fases
 precedentes é
 reaplicada no contexto de um software existente ao invés de um novo.
 
-
 Existem outras fases em outros modelos, tais como: análise, responsável por
 modelar o
 problema (diferente do projeto, responsável por modelar a solução do problema);
@@ -803,7 +783,6 @@ principais
 modelos podem ser agrupados em três categorias: modelos sequenciais, modelos incrementais
 e modelos evolutivo.
 
-
 M0DEL05
 5EQJJENCIAI5
 
@@ -813,7 +792,6 @@ PRINCIPAIS MODELOS MODELOS ESPECÍFICOS*
 
 MODELO
 ITERATIVO
-
 
 CASCATA OU
 CLÁSSICO
@@ -858,20 +836,17 @@ dizem outros autores, isto
 modelos incrementais e modelos
 evolutivo (Letra C).
 
-
 Modelos Sequenciais
 
 Modelo em Cascata
 
 INCIDÊNCIA EM PROVA: ALTÍSSIMA
 
-
 MODELOS SEQUENCIAIS
 
 PRINCIPAIS MODELOS
 
 MODELOS ESPECÍFICOS*
-
 
 CASCATA OU
 CLÁSSICO
@@ -889,7 +864,6 @@ COMPONENTES
 
 5CRUM
 
-
 XP METODOLOGIAS MODELO INCREMENTAL
 MODELO EVOLUTIVO
 
@@ -898,7 +872,6 @@ ESPIRAL
 PROTOTIPAGEM
 
 TDD/ATDD SI
-
 
 EXPLORATÓRIA/
 EVOLUCIONÁRIA
@@ -923,7 +896,6 @@ FASE 5
 
 FASE 6
 
-
 (TCE/TO - 2008) No ciclo de vida em cascata, é possível realizar alternadamente e
 simultaneamente as atividades de desenvolvimento de software.
 
@@ -936,7 +908,6 @@ próprias fases! Vejam só na tabelinha a seguir:
 
 POR SOMMERVILLE | POR ROYCE POR PRESSMAN (^ED)
 | POR PRESSMAN (6* ED)
-
 
 Análise e Definição de
 Requisitos
@@ -955,7 +926,6 @@ Comunicação
 
 Planejamento
 
-
 Implementação e Teste de
 Unidade
 
@@ -965,7 +935,6 @@ Sistema
 Análise Projeto Modelagem
 
 Projeto Geração de Código Construção
-
 
 Operação e Manutenção Codificação Teste e
 Manutenção
@@ -995,7 +964,6 @@ processo antes de começar a trabalhar nelas. Os principais estágios do modelo 
 cascata
 refletem diretamente as atividades fundamentais do desenvolvimento:
 
-
 FASES (IAN
 SOMMERVILLE)
 
@@ -1006,7 +974,6 @@ REQUISITOS
 Os serviços, restrições e metas do sistema são estabelecidos por meio de consulta aos
 usuários.
 Em seguida, são definidos em detalhes e funcionam como uma especificação do sistema.
-
 
 PROJETO DE
 SISTEMA E
@@ -1084,7 +1051,6 @@ dos custos de produção e aprovação de cada um dos documentos, as iterações
 podem ser
 dispendiosas e envolver um significativo retrabalho.
 
-
 Após um pequeno número de iterações, é normal se congelarem partes do desenvolvimento,
 como
 a especificação, e dar-se continuidade aos estágios posteriores de desenvolvimento. A
@@ -1143,7 +1109,6 @@ com o levantamento de necessidades por parte do cliente, avançando pelas fases 
 planejamento,
 modelagem, construção, emprego e culminando no suporte contínuo do software concluído.
 
-
 O modelo cascata tem sofrido diversas críticas a que fizeram com que até mesmo seus
 mais
 ardentes defensores questionassem sua eficácia. Entre os problemas encontrados, temos:
@@ -1192,7 +1157,6 @@ com os resultados alcançados e isso engessa o desenvolvimento.
 Tempo
 
 0 MODELO EM CASCATA ATRASA A REDUÇÃO DE RISCOS
-
 
 O Modelo em Cascata tem um grande problema: ele atrasa a redução de riscos! Como
 assim, Diego?
@@ -1256,7 +1220,6 @@ um erro é identificado do que no momento em que ele de fato ocorreu. Vocês
 entenderam legal?
 Então, vamos seguir...
 
-
 Outra maneira de visualizar o atraso é por meio de um gráfico
 Risco x Tempo, comparando o modelo em cascata com o
 Modelo Iterativo e Incremental (que veremos a seguir).
@@ -1314,7 +1277,6 @@ pouca
 probabilidade de mudanças radicais durante o desenvolvimento do sistema. Vocês entenderam?
 Então vamos ver agora uma lista com as maiores vantagens e desvantagens.
 
-
 VANTAGENS
 
 É simples de entender e fácil de aplicar, facilitando o
@@ -1334,7 +1296,6 @@ Clientes só visualizam resultados próximos ao final do
 projeto.
 
 Atrasa a redução de riscos.
-
 
 Realiza documentação extensa por cada fase ou
 estágio.
@@ -1382,7 +1343,6 @@ equipe de software desce em direção ao lado esquerdo do V, os requisitos bási
 do problema são
 refinados em representações cada vez mais detalhadas e técnicas do problema e de sua solução.
 
-
 Uma vez que o código tenha sido gerado, a equipe se desloca para cima, no lado
 direito do V,
 realizando basicamente uma série de testes (ações de garantia da qualidade) que validem
@@ -1416,7 +1376,6 @@ dirigido a planos; (b) Errado,
 mas - honestamente - eu não vejo erro algum nesse item. Caso alguém saiba, favor me
 contar; (c) Errado, é um artefato
 primário; (d) Errado, ocorre uma correção de erros a cada fase da construção; (e) Correto.
-
 
 Modelo Iterativo e Incremental
 
@@ -1514,7 +1473,6 @@ integrar as
 partes em uma imagem completa. É como se fosse um quebra-cabeças em que cada parte é
 entregue funcionando e depois integrada. Ele produz builds, isto é, partes do software.
 
-
 Modelo Iterativo: observem que a imagem mostra um artista com um esboço do quadro,
 sendo
 que ele desenvolve várias versões até chegar ao resultado final que ele deseja. É como se fosse uma
@@ -1549,7 +1507,6 @@ Raramente
 elaboramos uma completa solução do problema com antecedência; geralmente
 movemo-nos
 passo a passo em direção a uma solução, recuando quando percebemos que cometemos um erro.
-
 
 Ao desenvolver um software de forma incremental, é mais barato e mais fácil fazer
 mudanças no
@@ -1615,7 +1572,6 @@ Comentários: mudanças constantes acabam mexendo na estrutura do software, o qu
 corrompê-la
 (Correto).
 
-
 Os problemas do desenvolvimento incremental são particularmente críticos para os
 sistemas de
 vida-longa, grandes e complexos, nos quais várias equipes desenvolvem diferentes
@@ -1639,7 +1595,6 @@ negócios.
 Atividade simultâneas
 
 Especificação
-
 
 Descrição
 do esboço
@@ -1697,14 +1652,11 @@ processos evolucionários (que veremos adiante). Vamos pensar, por exemplo, em u
 software de
 processamento de texto desenvolvido com o emprego do paradigma incremental.
 
-
 0k)-
-
 
 $
 
 £
-
 
 o
 "O
@@ -1790,7 +1742,6 @@ modelo de processo incremental tem seu foco voltado para a entrega de um produto
 operacional
 com cada incremento.
 
-
 Os primeiros incrementos são versões seccionadas do produto final, mas eles realmente
 possuem
 capacidade para atenderao usuário e também oferecem uma plataforma para avaliação do
@@ -1829,7 +1780,6 @@ Comentários: 0 modelo de processo que divide 0 sistema em pequenos subsistemas 
 cada ciclo, são acrescidos
 de novas funcionalidades é 0 modelo incremental (Letra D).
 
-
 Rapid Application Development (RAD)
 
 INCIDÊNCIA EM PROVA: MÉDIA
@@ -1843,7 +1793,6 @@ pode-
 se reduzir o tempo total de desenvolvimento. As fases são descritas na tabela seguinte
 e exibidas
 na imagem da próxima página:
-
 
 FASES
 MODELAGEM DE NEGÓCIO
@@ -1882,7 +1831,6 @@ Como 0 processo enfatiza o reúso, muitos componentes já estão testados e isso
 tempo total de teste. No entanto, os novos componentes devem ser testados e todas as
 interfaces devem ser exaustivamente exercitadas para colocar o resultado em produção.
 
-
 Equipe #3
 
 Detalhe interessante: as etapas de Modelagem de Negócio, Dados e Processos são
@@ -1914,7 +1862,6 @@ o escopo do projeto é restrito; quando o sistema pode ser dividido em vários m
 quando o
 risco de mudança tecnológica é baixo.
 
-
 VANTAGENS
 
 Permite o desenvolvimento rápido e/ou a prototipagem
@@ -1927,7 +1874,6 @@ DESVANTAGENS
 Exige recursos humanos caros e experientes.
 
 O envolvimento com o usuário tem que ser ativo.
-
 
 Desenvolvimento é conduzido em um nível mais alto de
 abstração.
@@ -1998,7 +1944,6 @@ Comentários: desenvolvimento extremamente curto, modelo incremental, baseado em
 componentes... só pode se referir ao
 RAD (Letra B).
 
-
 RESUMo
 
 CICLO DE VIDA
@@ -2019,7 +1964,6 @@ MODELO DE CICLO DE VIDA DE SOFTWARE
 FASES SE RELACIONAM -
 
 CICLOS DE VIDA GENÉRICOS
-
 
 r k
 
@@ -2043,7 +1987,6 @@ r 1
 
 k À
 
-
 PROCESSOS DE SOFTWARE
 
 CICLOS DE VIDA GENÉRICOS
@@ -2059,7 +2002,6 @@ SOFTWARE -
 DESCRIÇÃO DE FASES GENÉRICAS
 
 FASES | DESCRIÇÃO
-
 
 O objetivo do planejamento de projeto é fornecer uma estrutura que possibilite ao
 gerente fazer
@@ -2121,7 +2063,6 @@ Nesta fase, o software é utilizado pelos usuários no ambiente de produção, i
 de
 uso do usuário.
 
-
 Indubitavelmente, o software sofrerá mudanças após ter sido entregue para o usuário.
 Alterações
 ocorrerão porque erros foram encontrados, porque o software precisa ser adaptado para acomodar
@@ -2134,12 +2075,10 @@ reaplicada no contexto de um software existente ao invés de um novo.
 
 PRINCIPAIS MODELOS DE DESENVOLVIMENTO
 
-
 MODELOS
 SEQUENCIAIS
 
 PRINCIPAIS MODELOS MODELOS ESPECÍFICO
-
 
 CASCATA OU
 CLÁSSICO
@@ -2152,7 +2091,6 @@ ITERATIVO
 COMPONENTES
 
 5CRUM
-
 
 MEIODOLOGIAS
 
@@ -2174,7 +2112,6 @@ MODELOS EM CASCATA
 
 POR SOMMERVILLE PORROYCE POR PRESSMAN (4* ED)
 POR PRESSMAN (6« ED)
-
 
 Análise e Definição de
 Requisitos
@@ -2210,7 +2147,6 @@ Modelagem
 
 Construção
 
-
 Operação e Manutenção Codificação
 Teste
 
@@ -2220,7 +2156,6 @@ Teste e
 Manutenção
 
 Implantação
-
 
 VANTAGENS
 
@@ -2242,7 +2177,6 @@ projeto.
 
 Atrasa a redução de riscos.
 
-
 Realiza documentação extensa por cada fase ou
 estágio.
 
@@ -2262,7 +2196,6 @@ fases do projeto.
 
 Pressupõe que os requisitos ficarão estáveis ao longo do
 tempo.
-
 
 Não funciona bem com projetos complexos e 00,
 apesar de compatível.
@@ -2285,18 +2218,15 @@ concreta. Ele produz releases, isto é, versões constantemente melhoradas do so
 
 PRIMEIRA ITERAÇÃO
 
-
 SEGUNDA ITERAÇÃO
 
 TERCEIRA ITERAÇÃO
 
 ...
 
-
 Atividade simultâneas
 
 Versão inicial
-
 
 Descrição
 do esboço
@@ -2310,20 +2240,17 @@ RAPID APPLICATION DEVELOPMENT (RAD)
 
 FASES | DESCRIÇÃO
 
-
 MODELAGEM DE NEGÓCIO
 
 O fluxo de informações entre as funções de negócio é modelado de modo a responder que
 informação direciona o processo de negócio; que informação é gerada; quem gera essa
 informação; para onde vai a informação gerada; e, porfim, quem processa a informação.
 
-
 MODELAGEM DE DADOS
 
 O fluxo de informação definido na fase de modelagem de negócio é refinado em um
 conjunto de objetos de dados que são necessários para suportar o negócio. Os atributos
 de cada objeto são identificados e os relacionamentos entre esses objetos são definidos.
-
 
 MODELAGEM DE
 
@@ -2334,20 +2261,17 @@ o fluxo necessário para implementar uma função do negócio. Descrições do
 processamento são criadas para adicionar, modificar, descartar ou recuperar um objeto
 de dados.
 
-
 GERAÇÃO DA APLICAÇÃO
 
 Considera o uso de técnicas de quarta geração, trabalha com a reutilização de
 componentes de programa existentes quando possível, ou cria componentes reusáveis.
 São usadas ferramentas automatizadas para facilitar a construção do software.
 
-
 TESTE E MODIFICAÇÃO
 
 Como o processo enfatiza o reúso, muitos componentes já estão testados e isso reduz o
 tempo total de teste. No entanto, os novos componentes devem ser testados e todas as
 interfaces devem ser exaustivamente exercitadas para colocar o resultado em produção.
-
 
 VANTAGENS
 
@@ -2376,7 +2300,6 @@ rodara aplicação;
 
 Mais difícil de acompanhar o projeto.
 
-
 Maior flexibilidade (desenvolvedores podem reprojetar
 à vontade).
 
@@ -2402,7 +2325,6 @@ desenvolvedores e clientes).
 Padronização (aparência diferente entre os módulos e
 componentes)
 
-
 Equipe #1
 
 Modelagem
@@ -2424,7 +2346,6 @@ de Negócios
 Modelagem n
 
 Modelagem
-
 
 Modelagem
 de Dados
@@ -2450,7 +2371,6 @@ Modificação
 
 PARA MAIS DICAS: WWW.INSTAGRAM.COM/PROFESSORDIEGOCARVALHO
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) Um dos problemas da aplicação do modelo
@@ -2473,7 +2393,7 @@ esteja próximo do final.
 
 Gabarito: Correto
 
-Item. 2. (CESPE / BANRISUL- 2022) O modelo cascata é frequentemente inadequado para os casos
+2. (CESPE / BANRISUL- 2022) O modelo cascata é frequentemente inadequado para os casos
 de
 desenvolvimento de soluções de software em que há ritmo acelerado e volume
 intenso de
@@ -2495,7 +2415,7 @@ cascata pode ser útil porque permite gerenciar e controlar o processo de forma 
 
 Gabarito: Correto
 
-Item. 3. (CESPE / BANRISUL - 2022) O modelo do ciclo de vida clássico sugere
+3. (CESPE / BANRISUL - 2022) O modelo do ciclo de vida clássico sugere
 uma abordagem
 sequencial para desenvolvimento de software, começando com a especificação dos requisitos
 do cliente, avançando pelas fases de planejamento e modelagem, e culminando
@@ -2521,7 +2441,7 @@ expectativas do cliente.
 
 Gabarito: Correto
 
-Item. 4. (CESPE / FUNPRESP-EXE - 2022) No modelo em espiral de desenvolvimento de software,
+4. (CESPE / FUNPRESP-EXE - 2022) No modelo em espiral de desenvolvimento de software,
 cada
 giro ou loop da espiral representa uma fase do processo de software.
 
@@ -2539,7 +2459,7 @@ negócio.
 
 Gabarito: Correto
 
-Item. 5. (CESPE / TJ-RJ - 2021) Na engenharia de software, pode-se dividir uma metodologia
+5. (CESPE / TJ-RJ - 2021) Na engenharia de software, pode-se dividir uma metodologia
 genérica
 em cinco macroatividades; entre elas, a que tem como objetivo criar um esboço do
 projeto a ser
@@ -2567,14 +2487,13 @@ detalhes, numa tentativa de compreender melhor 0 problema e como resolvê-lo".
 
 Gabarito: Letra B
 
-Item. 6. (CESPE / Polícia Federal - 2021) Uma das etapas descritas em um método
+6. (CESPE / Polícia Federal - 2021) Uma das etapas descritas em um método
 desenvolvimento de
 sistema clássico é a análise e definição de requisitos, etapa em que as restrições e
 as metas do
 sistema são obtidas por meio de consulta a usuários, com o objetivo de realizar a
 especificação
 do sistema.
-
 
 Comentários:
 
@@ -2594,7 +2513,7 @@ software tem de fazer (e não como fazê-lo).
 
 Gabarito: Correto
 
-Item. 7. (CESPE / SERPRO - 2021) No modelo em cascata, dada a dificuldade natural para
+7. (CESPE / SERPRO - 2021) No modelo em cascata, dada a dificuldade natural para
 estabelecer
 todos os requisitos na fase inicial do projeto, os requisitos são definidos ao longo
 de todas as
@@ -2608,7 +2527,7 @@ fases. Essa definição seria adequada para metodologias ágeis!
 
 Gabarito: Errado
 
-Item. 8. (CESPE / SERPRO-2021) No modelo iterativo, as iterações na fase de construção
+8. (CESPE / SERPRO-2021) No modelo iterativo, as iterações na fase de construção
 concentram-
 se nas atividades de requisitos, gerenciamento, design e testes.
 
@@ -2636,7 +2555,7 @@ gerenciado ativamente para atendera esse planejamento.
 
 Gabarito: Errado
 
-Item. 9. (CESPE / Ministério da Economia - 2020) Engenharia de software (ES) é um processo, expresso
+9. (CESPE / Ministério da Economia - 2020) Engenharia de software (ES) é um processo, expresso
 como o conjunto de todas as atividades relacionadas ao desenvolvimento, ao controle, à
 validação e à manutenção de um software operacional, abrangendo atividades
 técnicas e
@@ -2687,7 +2606,7 @@ tempo todo.
 
 Gabarito: Correto
 
-Item. 11. (CESPE / TCE-RO - 2019) O modelo de desenvolvimento de sistemas cascata:
+11. (CESPE / TCE-RO - 2019) O modelo de desenvolvimento de sistemas cascata:
 
 a) é voltado para requisitos de sistemas de software e, por isso, não engloba os
 requisitos
@@ -2698,7 +2617,6 @@ a etapa de
 documentação.
 
 c) envolve o feedback de uma fase para outra, por ser um modelo linear simples.
-
 
 d) é sequencial, o que impede que os documentos produzidos em cada fase sejam
 modificados
@@ -2753,12 +2671,11 @@ Na verdade, todos os estágios são sequenciais - não há exceção.
 
 Gabarito: Errado
 
-Item. 14. (CESPEITCE-PR - 2016 - Item B) A engenharia de software refere-se ao estudo das
+14. (CESPEITCE-PR - 2016 - Item B) A engenharia de software refere-se ao estudo das
 teorias e
 fundamentos da computação, ficando o desenvolvimento de software a cargo da
 ciência da
 computação.
-
 
 Comentários:
 
@@ -2778,7 +2695,7 @@ computação trata da teoria e a engenharia de software trata da prática.
 
 Gabarito: Errado
 
-Item. 15. (CESPE / TCE/PR - 2016 - Item E) O conceito de software se restringe ao
+15. (CESPE / TCE/PR - 2016 - Item E) O conceito de software se restringe ao
 desenvolvimento do
 código em determinada linguagem e seu armazenamento em arquivos.
 
@@ -2795,7 +2712,7 @@ necessários para que o programa opere corretamente.
 
 Gabarito: Errado
 
-Item. 16. (CESPE / TCE-PR - 2016) As fases do ciclo de vida de um software são:
+16. (CESPE / TCE-PR - 2016) As fases do ciclo de vida de um software são:
 
 a) concepção, desenvolvimento, entrega e encerramento.
 
@@ -2820,7 +2737,6 @@ questão trata
 da última opção.
 
 Gabarito: Letra E
-
 
 i7.(CESPE / TCE-PR - 2016 - Item A) A engenharia de software está relacionada aos
 diversos
@@ -2876,14 +2792,13 @@ atividades são dispostas em estágios sequenciais.
 
 Comentários:
 
-
 A questão trata do modelo em cascata de desenvolvimento de software. No modelo
 iterativo e
 incremental, as atividades são dispostas ao longo de diversas iterações
 
 Gabarito: Errado
 
-Item. 21. (CESPE / STJ - 2015) Embora os engenheiros de software geralmente utilizem uma
+21. (CESPE / STJ - 2015) Embora os engenheiros de software geralmente utilizem uma
 abordagem
 sistemática, a abordagem criativa e menos formal pode sereficiente em algumas
 circunstâncias,
@@ -2925,7 +2840,7 @@ de hardware, não.
 
 Gabarito: Errado
 
-Item. 23. (CESPE / STJ - 2015) As principais atividades de engenharia de software são
+23. (CESPE / STJ - 2015) As principais atividades de engenharia de software são
 especificação,
 desenvolvimento, validação e evolução.
 
@@ -2991,7 +2906,6 @@ que inclui
 hardware e software, e a Ciência da Computação trata apenas dos aspectos de
 desenvolvimento
 de sistemas.
-
 
 d) A Ciência da Computação trata dos sistemas com base em computadores,
 que inclui
@@ -3109,7 +3023,6 @@ Especificação de Software; Desenvolvimento de Software (Projeto e Implementaç
 Validação de
 Software; e Evolução de Software.
 
-
 Notem que o examinador dividiu a atividade de Desenvolvimento em Projeto e
 Implementação,
 mas não invalida a questão. Professor, ele não falou sobre a evolução! Sim, mas a
@@ -3140,7 +3053,7 @@ importantes!
 
 Gabarito: Errado
 
-Item. 32. (CESPE / TJ-ES - 2011) O modelo de processo incremental de desenvolvimento de
+32. (CESPE / TJ-ES - 2011) O modelo de processo incremental de desenvolvimento de
 software é
 iterativo, assim como o processo de prototipagem. Contudo, no processo
 incremental,
@@ -3156,7 +3069,7 @@ Já na prototipação, não. Idealmente, ele serve apenas para identificar requi
 
 Gabarito: Correto
 
-Item. 33. (CESPE / AL-ES - 2011) O ciclo de vida RAD (Rapid Application Development), por
+33. (CESPE / AL-ES - 2011) O ciclo de vida RAD (Rapid Application Development), por
 privilegiar a
 rapidez do desenvolvimento, não possui etapa de modelagem.
 
@@ -3165,7 +3078,6 @@ Comentários:
 Como não? Existe Modelagem de Negócio, Dados e Processo!
 
 Gabarito: Errado
-
 
 34- (CESPE / DETRAN/ES - 2010) Segundo princípio da engenharia de software, os vários
 artefatos
@@ -3226,7 +3138,6 @@ perspectiva genérica.
 
 Gabarito: Errado
 
-
 37- (CESPE / EMBASA - 2010) Ciclo de vida de um software resume-se em eventos
 utilizados para
 definir o status de um projeto.
@@ -3250,7 +3161,6 @@ aposentadoria,
 descontinuação ou fim de vida, todos os dados por ele manipulados podem ser descartados.
 
 Comentários:
-
 
 r
 
@@ -3290,7 +3200,6 @@ ordenados, ao final de cada fase, a equipe de projeto finaliza uma revisão.
 Além disso, o
 desenvolvimento não continua até que o cliente esteja satisfeito com os resultados alcançados. A
 
-
 questão afirma que a equipe de projeto finaliza uma revisão ao final de cada projeto,
 mas na
 verdade é ao final de cada fase.
@@ -3311,7 +3220,7 @@ tradicionais - engenharia mecânica, civil, elétrica, etc.
 
 Gabarito: Correto
 
-Item. 41. (CESPE / TCE-TO - 2009 - Item A) Quanto maior e mais complexo o projeto de
+41. (CESPE / TCE-TO - 2009 - Item A) Quanto maior e mais complexo o projeto de
 software, mais
 simples deve ser o modelo de processo a ser adotado.
 
@@ -3349,7 +3258,6 @@ necessárias e o relacionamento entre elas.
 
 Gabarito: Errado
 
-
 43-(CESPE / INMETRO - 2009) Em uma empresa que tenha adotado um
 processo de
 desenvolvimento de software em cascata, falhas no levantamento de requisitos
@@ -3359,7 +3267,6 @@ tenham adotado
 desenvolvimento evolucionário.
 
 Comentários:
-
 
 VANTAGENS
 
@@ -3380,7 +3287,6 @@ Clientes só visualizam resultados próximos ao final do
 projeto.
 
 Atrasa a redução de riscos.
-
 
 Realiza documentação extensa por cada fase ou
 estágio.
@@ -3422,7 +3328,6 @@ Comentários:
 POR SOMMERVILLE | POR ROYCE POR PRESSMAN (4? ED]
 | POR PRESSMAN (63 ED] |
 
-
 Análise e Definição de
 Requisitos
 
@@ -3430,7 +3335,6 @@ Requisitos de Sistema Modelagem e Engenharia
 do Sistema/lnformação
 
 Comunicação
-
 
 Projeto de Sistema e
 Software
@@ -3443,12 +3347,10 @@ Software
 
 Planejamento
 
-
 Implementação e Teste
 de Unidade
 
 Análise Projeto Modelagem
-
 
 Integração e Teste de
 Sistema
@@ -3506,15 +3408,14 @@ anterior, isto é,
 há uma sequência de desenvolvimento do projeto. Por exemplo, a Fase 4 só é iniciada
 após o
 término e aprovação da Fase 3. A Fase 5 só é iniciada após o término e aprovação da Fase
-Item. 4. Logo,
+4. Logo,
 está em conformidade com a definição.
 
 Gabarito: Correto
 
-Item. 47. (CESPE / TRE-MT - 2009 - Item A) O modelo em cascata é apropriado para software
+47. (CESPE / TRE-MT - 2009 - Item A) O modelo em cascata é apropriado para software
 em que
 os requisitos ainda não foram bem compreendidos, pois é focado na criação de incrementos.
-
 
 Comentários:
 
@@ -3574,7 +3475,6 @@ responder usando só lógica!
 
 Gabarito: Errado
 
-
 5i. (CESPE / TST- 2008) No modelo de desenvolvimento sequencial linear, a fase de
 codificação
 é a que gera erros de maior custo de correção.
@@ -3603,7 +3503,7 @@ na fase de requisitos que é a fase inicial!
 
 Gabarito: Errado
 
-Item. 52. (CESPE / SERPRO - 2008) O modelo em cascata consiste de fases e atividades que
+52. (CESPE / SERPRO - 2008) O modelo em cascata consiste de fases e atividades que
 devem ser
 realizadas em sequência, de forma que uma atividade é requisito da outra.
 
@@ -3617,14 +3517,13 @@ término e aprovação da Fase 3. A Fase 5 só é iniciada após o término e ap
 
 Gabarito: Correto
 
-Item. 53. (CESPE / MPE-AM - 2008) O modelo de desenvolvimento sequencial linear
+53. (CESPE / MPE-AM - 2008) O modelo de desenvolvimento sequencial linear
 tem como
 característica principal a produção de uma versão básica, mas funcional, do software
 desde as
 primeiras fases.
 
 Comentários:
-
 
 VANTAGENS
 
@@ -3641,7 +3540,6 @@ Dificuldade em incorporar mudanças de requisitos.
 
 Clientes só visualizam resultados próximos ao final do
 projeto.
-
 
 É fácil de gerenciar, devido a sua rigidez.
 
@@ -3677,7 +3575,7 @@ de modelo de desenvolvimento em prototipagem.
 
 Gabarito: Errado
 
-Item. 54. (CESPEITJ-DF - 2008) No modelo de desenvolvimento incremental, embora haja
+54. (CESPEITJ-DF - 2008) No modelo de desenvolvimento incremental, embora haja
 defasagem
 entre os períodos de desenvolvimento de cada incremento, os incrementos são desenvolvidos
 em paralelo.
@@ -3709,7 +3607,6 @@ em componentes.
 
 Comentários:
 
-
 O RAD (Rapid Application Development) realmente é uma adaptação de alta velocidade do
 modelo
 sequencial linear (cascata). Além disso, ele se utiliza realmente de componentes prontos
@@ -3734,7 +3631,7 @@ desenvolvimento seja mais rápido.
 
 Gabarito: Correto
 
-Item. 58. (CESPE / MPE-AM - 2008) O modelo de desenvolvimento incremental combina
+58. (CESPE / MPE-AM - 2008) O modelo de desenvolvimento incremental combina
 características
 do modelo de desenvolvimento sequencial linear com características do modelo RAD, embora
 isso resulte em projetos que sistematicamente apresentam maior duração que
@@ -3762,7 +3659,6 @@ Comentários:
 I POR SOMMERVILLE I PORROYCE POR PRESSMAN (4^
 ED] | POR PRESSMAN [6* ED] I
 
-
 Análise e Definição de
 Requisitos
 
@@ -3770,7 +3666,6 @@ Requisitos de Sistema Modelagem e Engenharia
 do Sistema/lnformação
 
 Comunicação
-
 
 Projeto de Sistema e
 Software
@@ -3831,7 +3726,7 @@ específicos (Ex: SQL para Bancos de Dados, APEX para RAD, MatLab para cálculo 
 
 Gabarito: Letra E
 
-Item. 61. (CESPE / IGEPREV - 2005) O modelo Rapid Application Development (RAD) é
+61. (CESPE / IGEPREV - 2005) O modelo Rapid Application Development (RAD) é
 apropriado para
 projetos que envolvem grandes riscos técnicos.
 
@@ -3841,12 +3736,11 @@ Pelo contrário, é apropriado para projetos que envolvem pequenos riscos técni
 
 Gabarito: Errado
 
-Item. 62. (CESPE / ANS - 2005) O modelo Rapid Application Development (RAD) é uma
+62. (CESPE / ANS - 2005) O modelo Rapid Application Development (RAD) é uma
 adaptação do
 modelo em espiral para atender a projetos de software fundamentados em componentes.
 
 Comentários:
-
 
 Na verdade, ele é uma adaptação de alta velocidade do modelo em cascata.
 
@@ -3885,7 +3779,7 @@ acumula riscos e não lida bem com requisitos voláteis.
 
 Gabarito: Correto
 
-Item. 65. (CESPE / TJ-PA - 2004 - Item D) A abordagem sistemática estritamente
+65. (CESPE / TJ-PA - 2004 - Item D) A abordagem sistemática estritamente
 linear para o
 desenvolvimento de software é denominada modelo em cascata ou modelo sequencial linear.
 
@@ -3901,15 +3795,13 @@ modelo demonstram as principais atividades de desenvolvimento.
 
 Gabarito: Correto
 
-
-Item. 66. (CESPE / ABIN - 2004) O modelo de desenvolvimento seqüencial
+66. (CESPE / ABIN - 2004) O modelo de desenvolvimento seqüencial
 linear, também
 denominado modelo em cascata, é incompatível com o emprego detécnica de análise
 orientada
 a objetos no desenvolvimento de um sistema de informação.
 
 Comentários:
-
 
 VANTAGENS
 
@@ -3978,7 +3870,6 @@ Comentários:
 POR SOMMERVILLE | POR ROYCE POR PRESSMAN (4^ ED] |
 POR PRESSMAN (6^ ED] |
 
-
 Análise e Definição de
 Requisitos
 
@@ -3986,7 +3877,6 @@ Requisitos de Sistema Modelagem e Engenharia
 do Sistema/lnformação
 
 Comunicação
-
 
 Projeto de Sistema e
 Software
@@ -3999,12 +3889,10 @@ Software
 
 Planejamento
 
-
 Implementação e Teste Análise
 de Unidade
 
 Projeto Modelagem
-
 
 Integração e Teste de
 Sistema
@@ -4012,7 +3900,6 @@ Sistema
 Projeto
 
 Geração de Código Construção
-
 
 Operação e Manutenção Codificação
 Teste
@@ -4028,7 +3915,7 @@ antes do Projeto!
 
 Gabarito: Errado
 
-Item. 68. (CESPE / BASA - 2004) O modelo embasado em prototipagem é um modelo de
+68. (CESPE / BASA - 2004) O modelo embasado em prototipagem é um modelo de
 processo
 incremental que enfatiza um ciclo de desenvolvimento extremamente curto. A primeira fase
 do
@@ -4046,13 +3933,11 @@ componentes já estão testados, pode-se reduzir o tempo total de desenvolviment
 
 Gabarito: Errado
 
-
 QUESTõES CoMENTADAS - FCC
 
 í. (FCC / TRF - 3a REGIÃO - 2019) Considere a figura abaixo.
 
 Atividades simultâneas
-
 
 Descrição
 do esboço
@@ -4087,7 +3972,7 @@ incremental (vimos a mesma imagem na aula).
 
 Gabarito: Letra B
 
-Item. 2. (FCC / TST - 2012) A Engenharia de Software:
+2. (FCC / TST - 2012) A Engenharia de Software:
 
 a) é uma área da computação que visa abordar de modo sistemático as questões técnicas
 e não
@@ -4104,7 +3989,6 @@ desenvolvimento de sistemas, tal como a definição de artefatos para a modelage
 d) envolve um conjunto de itens que abordam os aspectos de análise de mercado,
 concepção e
 projeto de software, sendo independente da engenharia de um sistema.
-
 
 e) agrupa as melhores práticas para a concepção, projeto, operação e manutenção de artefatos
 que suportam a execução de programas de computador, tais como as
@@ -4151,7 +4035,7 @@ mostrado acima).
 
 Gabarito: Letra A
 
-Item. 3. (FCC / TRT6 - 2012) Considere: é uma disciplina que se ocupa de todos os aspectos da produção
+3. (FCC / TRT6 - 2012) Considere: é uma disciplina que se ocupa de todos os aspectos da produção
 de software, desde os estágios iniciais de especificação do sistema até a manutenção desse sistema,
 depois que ele entrou em operação. Seu principal objetivo é fornecer uma estrutura
 metodológica
@@ -4164,7 +4048,6 @@ b) à programação orientada a objetos.
 c) à análise de sistemas.
 
 d) à engenharia de requisitos.
-
 
 e) à engenharia de software.
 
@@ -4182,7 +4065,7 @@ Engenharia de Software!
 
 Gabarito: Letra E
 
-Item. 4. (FCC / MPE-AP - 2012) Um processo de software é um conjunto de atividades
+4. (FCC / MPE-AP - 2012) Um processo de software é um conjunto de atividades
 relacionadas que
 levam à produção de um produto de software. Existem muitos processos de software
 diferentes,
@@ -4207,7 +4090,7 @@ Implementação); Validação de Software; e Evolução de Software. Logo, trata
 
 Gabarito: Letra B
 
-Item. 5. (FCC / TJ-RJ - 2012 - Item E) Dos diferentes modelos para o ciclo de vida de
+5. (FCC / TJ-RJ - 2012 - Item E) Dos diferentes modelos para o ciclo de vida de
 desenvolvimento
 de um software é correto afirmar que o modelo em cascata é o mais recente e complexo.
 
@@ -4225,8 +4108,7 @@ Complexo? Não, possui um encadeamento simples de fases.
 
 Gabarito: Errado
 
-
-Item. 6. (FCC / INFRAERO -2011) Em relação à Engenharia de Software, é INCORRETO afirmar:
+6. (FCC / INFRAERO -2011) Em relação à Engenharia de Software, é INCORRETO afirmar:
 
 a) O design de software, ao descrever os diversos aspectos que estarão presentes no
 sistema
@@ -4262,7 +4144,7 @@ documentação.
 
 Gabarito: Letra E
 
-Item. 7. (FCC / TRE-AM - 2010) A Engenharia de Software:
+7. (FCC / TRE-AM - 2010) A Engenharia de Software:
 
 a) não tem como método a abordagem estruturada para o desenvolvimento de software, pois
 baseia-se exclusivamente nos modelos de software, notações, regras e
@@ -4283,7 +4165,6 @@ desenvolvimento,
 através de ferramentas e técnicas apropriadas, dependendo do problema a ser
 abordado,
 considerando restrições e recursos disponíveis.
-
 
 e) segue princípios, tais como, o da Abstração, que identifica os aspectos
 importantes sem
@@ -4323,7 +4204,7 @@ detalhes!
 
 Gabarito: Letra D
 
-Item. 8. (FCC / DPE/SP-2010) A Engenharia de Software:
+8. (FCC / DPE/SP-2010) A Engenharia de Software:
 
 I. não visa o desenvolvimento de teorias e fundamentações, preocupando-se unicamente com
 as práticas de desenvolvimento de software.
@@ -4342,7 +4223,6 @@ para
 distribuição aos especialistas.
 
 É correto o que se afirma em:
-
 
 a) III e IV, apenas.
 
@@ -4384,7 +4264,7 @@ A Letra D!ü Eela voltou atrás com os recursos? Não!!! Pois é, galera! Acostu
 
 Gabarito: Letra D
 
-Item. 9. (FCC/ AFR/SP - 2009) A engenharia de software está inserida no contexto:
+9. (FCC/ AFR/SP - 2009) A engenharia de software está inserida no contexto:
 
 a) das engenharias de sistemas, de processo e de produto.
 
@@ -4405,7 +4285,6 @@ processos. Percebam, então, que a Engenharia de Sistemas está em um contexto c
 várias outras
 engenharias.
 
-
 Gabarito: Letra A
 
 io.(FCC / SEFAZ-SP -2009 - Item B) O processo de engenharia de software denominado ciclo de
@@ -4424,7 +4303,6 @@ refere
 a modelo em cascata, sequencial, linear, tradicional, waterfall, rígido ou monolítico.
 
 Gabarito: Errado
-
 
 QUESTõES CoMENTADAS - FG V
 
@@ -4455,13 +4333,12 @@ são bem compreendidos. Trata-se do famoso Modelo em Cascata (Waterfall).
 
 Gabarito: Letra B
 
-Item. 2. (FGV / PGE-RO - 2015) A figura abaixo ilustra um modelo de processo, que
+2. (FGV / PGE-RO - 2015) A figura abaixo ilustra um modelo de processo, que
 prescreve um
 conjunto de elementos de processo como atividades de arcabouço, ações de engenharia de
 software, tarefas, produtos de trabalho, mecanismos de garantia de qualidade e de
 controle de
 modificações para cada projeto.
-
 
 Esse modelo é conhecido como Modelo:
 
@@ -4480,7 +4357,6 @@ Comentários:
 POR SOMMERVILLE PORROYCE POR PRESSMAN (4^ ED) |
 POR PRESSMAN (6ê ED]
 
-
 Análise e Definição de
 Requisitos
 
@@ -4498,7 +4374,6 @@ Comunicação
 
 Planejamento
 
-
 Implementação e Teste de
 Unidade
 
@@ -4508,7 +4383,6 @@ Sistema
 Análise Projeto Modelagem
 
 Projeto Geração de Código Construção
-
 
 Operação e Manutenção Codificação Teste e
 Manutenção
@@ -4522,7 +4396,7 @@ Trata-se das fases descritas pelo Pressman para o Modelo em Cascata.
 
 Gabarito: Letra B
 
-Item. 3. (FGV / BADESC - 2010) De acordo com Pressman, a engenharia de software é baseada em
+3. (FGV / BADESC - 2010) De acordo com Pressman, a engenharia de software é baseada em
 camadas, com foco na qualidade. Essas camadas são:
 
 a) métodos, processo e teste.
@@ -4533,7 +4407,6 @@ c) métodos, construção, teste e implantação.
 
 d) planejamento, modelagem, construção, validação e implantação.
 
-
 e) comunicação, planejamento, modelagem, construção e implantação.
 
 Comentários:
@@ -4542,7 +4415,7 @@ Bastava lembrar da imagem para responder à questão!
 
 Gabarito: Letra B
 
-Item. 4. (FGV / Fiocruz - 2010) Rapid Application Development (RAD) é um modelo de
+4. (FGV / Fiocruz - 2010) Rapid Application Development (RAD) é um modelo de
 processo de
 software incremental que enfatiza um ciclo de desenvolvimento curto, com o
 uso de uma
@@ -4560,7 +4433,6 @@ e) do negócio, dos dados e dos processos.
 
 Comentários:
 
-
 Equipe #3
 
 Nesse modelo, três das principais fases são abrangidas pelas modelagens:
@@ -4569,7 +4441,7 @@ Negócios, Modelagem de Dados e Modelagem de Processos.
 
 Gabarito: Letra E
 
-Item. 5. (FGV/CODESP-SP-2010) AUMLé uma linguagem visual para modelarsistemas orientados
+5. (FGV/CODESP-SP-2010) AUMLé uma linguagem visual para modelarsistemas orientados
 a
 objetos, sendo independente tanto de linguagens de programação quanto de
 processos de
@@ -4609,7 +4481,7 @@ um ciclo de desenvolvimento é o modelo iterativo e incremental.
 
 Gabarito: Letra E
 
-Item. 6. (FGV / Senado Federal - 2008) Considere as seguintes assertivas sobre modelos de
+6. (FGV / Senado Federal - 2008) Considere as seguintes assertivas sobre modelos de
 processos
 de software:
 
@@ -4646,7 +4518,6 @@ o diferencia dos demais modelos.
 
 Gabarito: Letra E
 
-
 QUESTõES CoMENTADAS - DIVERSAS
 
 í. (VUNESP/TJM-SP-2021) O modelo de desenvolvimento de software RAD (Rapid
@@ -4670,7 +4541,7 @@ dados e modelagem de processo.
 
 Gabarito: Letra A
 
-Item. 2. (VUNESP / PRODEST-ES - 2014) No modelo de ciclo de vida de software conhecido
+2. (VUNESP / PRODEST-ES - 2014) No modelo de ciclo de vida de software conhecido
 como RAD
 (Rapid Application Development) há duas atividades, cujas tarefas podem ser distribuídas
 por
@@ -4695,7 +4566,7 @@ etapa de Construção. Logo, trata-se de Modelagem e Construção.
 
 Gabarito: Letra D
 
-Item. 3. (VUNESP / SPTrans - 2012) Uma das abordagens do processo de
+3. (VUNESP / SPTrans - 2012) Uma das abordagens do processo de
 desenvolvimento da
 engenharia de software prevê a divisão em etapas, em que o fim de uma é a entrada
 para a
@@ -4704,7 +4575,6 @@ próxima. Esse processo é conhecido como modelo:
 a) Transformação.
 
 b) Incremental.
-
 
 c) Evolutivo.
 
@@ -4719,12 +4589,12 @@ anterior, isto é,
 há uma sequência de desenvolvimento do projeto. Por exemplo, a Fase 4 só é iniciada
 após o
 término e aprovação da Fase 3. A Fase 5 só é iniciada após o término e aprovação da Fase
-Item. 4. Logo,
+4. Logo,
 conforme vimos em aula, trata-se do Modelo em Cascata.
 
 Gabarito: Letra E
 
-Item. 4. (CESGRANRIO / UNIRIO - 2019) O modelo de processo incremental é iterativo por
+4. (CESGRANRIO / UNIRIO - 2019) O modelo de processo incremental é iterativo por
 natureza e
 produz a cada incremento uma versão operacional do produto, diferente de outros
 modelos,
@@ -4756,7 +4626,7 @@ incremento; (e) Correto.
 
 Gabarito: Letra E
 
-Item. 5. (CESGRANRIO / Transpetro - 2018) O modelo em cascata ou linear é um modelo de
+5. (CESGRANRIO / Transpetro - 2018) O modelo em cascata ou linear é um modelo de
 processo
 de software que, a princípio, só deve ser usado se o(s):
 
@@ -4769,7 +4639,6 @@ c) requisitos são bem conhecidos.
 d) riscos de negócio não são conhecidos.
 
 e) usuários não sabem bem o que desejam.
-
 
 Comentários:
 
@@ -4787,7 +4656,7 @@ usuários não sabem bem o que desejam.
 
 Gabarito: Letra C
 
-Item. 6. (CESGRANRIO/Transpetro-2018) Que tipo de processo de desenvolvimento de
+6. (CESGRANRIO/Transpetro-2018) Que tipo de processo de desenvolvimento de
 software visa
 a, inicialmente, prover todas as funcionalidades do sistema com uma fidelidade baixa e,
 por
@@ -4809,7 +4678,7 @@ necessariamente um modelo iterativo.
 
 Gabarito: Letra C
 
-Item. 7. (CESGRANRIO /Transpetro - 2012) Na engenharia de software, existem diversos modelos
+7. (CESGRANRIO /Transpetro - 2012) Na engenharia de software, existem diversos modelos
 de
 desenvolvimento de software, e, dentre eles, o modelo em cascata, o qual, no
 contexto do
@@ -4832,10 +4701,9 @@ e sequenciais.
 
 Vocês se lembram que 0 Modelo em Cascata é um modelo sequencial linear? Pois é!
 
-
 Gabarito: Letra B
 
-Item. 8. (CESGRANRIO / EPE - 2012) Uma das críticas feitas ao modelo do ciclo
+8. (CESGRANRIO / EPE - 2012) Uma das críticas feitas ao modelo do ciclo
 de vida do
 desenvolvimento de software em cascata refere-se a:
 
@@ -4871,7 +4739,7 @@ em projetos com requisitos muito bem definidos e com pouca volatilidade.
 
 Gabarito: Letra C
 
-Item. 9. (CESGRANRIO / PETROBRÁS - 2011) A especificação de uma
+9. (CESGRANRIO / PETROBRÁS - 2011) A especificação de uma
 Metodologia de
 Desenvolvimento de Sistemas tem como pré-requisito indispensável, em relação ao que será
 adotado no processo de desenvolvimento, a definição do:
@@ -4883,7 +4751,6 @@ d) Ciclo de Vida do Software
 e) Bloco de Atividades
 
 Comentários:
-
 
 A escolha de um modelo de ciclo de vida (para concursos, sinônimo de modelo de
 processo) é o
@@ -4929,7 +4796,6 @@ Comentários:
 POR SOMMERVILLE PORROYCE POR PRESSMAN (4* ED) |
 POR PRESSMAN (6* ED]
 
-
 Análise e Definição de
 Requisitos
 
@@ -4937,7 +4803,6 @@ Requisitos de Sistema Modelagem e Engenharia
 do Sistema/lnformação
 
 Comunicação
-
 
 Projeto de Sistema e
 Software
@@ -4950,7 +4815,6 @@ Software
 
 Planejamento
 
-
 Implementação e Teste
 de Unidade
 
@@ -4961,7 +4825,6 @@ Análise Projeto Modelagem
 
 Projeto Geração de Código Construção
 
-
 Operação e Manutenção Codificação Teste e
 Manutenção
 
@@ -4969,7 +4832,6 @@ Implantação
 
 Teste
 Operação
-
 
 A Letra B está correta de acordo com o Pressman 4a Edição, mas está errada de
 acordo com o
@@ -5003,7 +4865,7 @@ o modelo em cascata.
 
 Gabarito: Letra E
 
-Item. 12. (INSTITUTO AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Existem diversos
+12. (INSTITUTO AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Existem diversos
 modelos de
 desenvolvimento de software na literatura. Sabendo disso é correto afirmar que o modelo
 que
@@ -5031,7 +4893,6 @@ e continuar o desenvolvimento, por meio da criação de diversas versões, até 
 produto final
 adequado seja alcançado, é a definição clássica do Modelo Incremental.
 
-
 Gabarito: Letra C
 
 13.(INSTITUTO AOCP / UFPB- 2019) Existem diferentes processos de software,
@@ -5054,7 +4915,7 @@ Evolução de Software.
 
 d) 1. Análise de Requisitos; 2. Projeto e Implementação de Software; 3. Validação de Software;
 
-Item. 4. Suporte Técnico.
+4. Suporte Técnico.
 
 e) 1. Especificação de Software; 2. Desenvolvimento de Software; 3. Teste de
 Software; 4.
@@ -5084,7 +4945,6 @@ ASSOCIAÇÕES que define corretamente os elementos a definir da TABELA A com
 as
 definições ou caracterizações da TABELA B.
 
-
 TAI BELA A
 
 A definir
@@ -5092,7 +4952,6 @@ A definir
 TAf3ELAB
 
 Definição ou caracterização
-
 
 1 Os processos de
 software são
@@ -5126,24 +4985,19 @@ está de acordo com sua especificação e
 satisfaz às necessidades reais dos usuános
 do sistema.
 
-
 TABELA A
-
 
 a) 5
 
 TABELA A
 
-
 b)
 
 TABELA A
 
-
 c)
 
 TABELA A
-
 
 d)
 
@@ -5207,7 +5061,6 @@ fluir
 constante para frente (como uma cascata)"
 
 Disponível em: https://pt.wikipedia.org/wiki/Modelo_em_cascata. Acesso em: 13.12.2018
-
 
 No que tange ao processo de desenvolvimento de software em cascata, qual a
 afirmativa
@@ -5274,8 +5127,7 @@ começara trabalhar nelas.
 
 Gabarito: Letra B
 
-
-Item. 17. (INSTITUTO AOCP / UFPB-2019) Há casos em que os requisitos de um problema são bem
+17. (INSTITUTO AOCP / UFPB-2019) Há casos em que os requisitos de um problema são bem
 compreendidos, por exemplo, quando o trabalho flui da comunicação ao emprego
 de forma
 relativamente linear. Sobre o modelo cascata, empregado na engenharia de software,
@@ -5332,7 +5184,6 @@ O ciclo de vida clássico é conhecido como modelo em cascata.
 
 Gabarito: Letra A
 
-
 ig.(IBFC / Emdec - 2019) Sobre alguns modelos do ciclo de vida de desenvolvimento de
 software,
 assinale a alternativa correta.
@@ -5372,7 +5223,6 @@ a) cascata
 b) espiral
 c) incremental
 d) evolutivo
-
 
 Comentários:
 
@@ -5427,7 +5277,6 @@ eficiência, pois
 o software não deve desperdiçar os recursos do sistema, como memória e ciclos do
 processador.
 Eficiência inclui capacidade de resposta, tempo de processamento, uso da memória, etc.
-
 
 III - Engenheiros de software não devem preocupar-se apenas com questões técnicas,
 devendo
@@ -5491,7 +5340,6 @@ d) Apenas II e III.
 
 e) I, lie III.
 
-
 Comentários:
 
 (I) Correto, trata-se realmente de uma metodologia dirigida a planos; (II) Correto, o
@@ -5547,12 +5395,11 @@ Modelo de ciclo de vida clássico? Modelo em Cascata (Waterfall).
 
 Gabarito: Letra A
 
-Item. 25. (COSEPE / UFPI -2018) O modelo cascata é um dos paradigmas mais antigos da
+25. (COSEPE / UFPI -2018) O modelo cascata é um dos paradigmas mais antigos da
 engenharia de
 software. Dentre os problemas às vezes encontrados quando se aplica o modelo cascata,
 tem-
 se:
-
 
 a) A etapa de comunicação ser responsável pelo levantamento das necessidades.
 
@@ -5585,7 +5432,7 @@ prossegue;
 
 Gabarito: Letra D
 
-Item. 26. (Gestão Concursos / EMATER - 2018) O processo de um software é um conjunto de
+26. (Gestão Concursos / EMATER - 2018) O processo de um software é um conjunto de
 atividades
 que conduz ao desenvolvimento do produto software e o modelo de processo é uma
 descrição
@@ -5620,7 +5467,6 @@ dos possíveis
 problemas do ciclo de vida clássico é:
 
 a) a exigência do modelo para que o cliente estabeleça todos os requisitos explicitamente.
-
 
 b) a construção problemática dos componentes, caso o sistema não possa ser adequadamente
 modularizado.
@@ -5674,7 +5520,7 @@ e operação e manutenção. Logo, faltam dois estágios!
 
 Gabarito: Errado
 
-Item. 30. (FAURGS / UFRGS - 2018) Considere as afirmações abaixo sobre Engenharia de Software:
+30. (FAURGS / UFRGS - 2018) Considere as afirmações abaixo sobre Engenharia de Software:
 
 I - A Engenharia de Software não se preocupa apenas com os processos
 técnicos do
@@ -5721,7 +5567,7 @@ uma sequência de atividades que leva à produção de um produto de software.
 
 Gabarito: Letra C
 
-Item. 31. (FAURGS / BANRISUL - 2018) Considere as seguintes afirmações sobre processos de software.
+31. (FAURGS / BANRISUL - 2018) Considere as seguintes afirmações sobre processos de software.
 
 I - Um processo de software é um conjunto de atividades relacionadas que levam à
 produção de
@@ -5740,7 +5586,6 @@ melhor
 comunicação, além de redução no período de treinamento, e torna mais econômico o apoio
 ao
 processo automatizado.
-
 
 Quais estão corretas?
 
@@ -5843,7 +5688,6 @@ Cascata.
 
 Gabarito: Letra B
 
-
 35-(COMPERVE / UFRN - 2018) Considere as afirmativas apresentadas abaixo a respeito dos
 modelos de processos de software cascata (waterfall) e incremental.
 
@@ -5903,7 +5747,6 @@ c) Disciplinada - operação.
 d) Completa - implementação.
 
 Comentários:
-
 
 A definição oficial da IEEE afirma que engenharia de software é a aplicação de uma
 abordagem
@@ -5965,7 +5808,6 @@ a) Fase de operação;
 
 b) Fase de retirada;
 
-
 c) Fase de definição;
 
 d) Fase de design.
@@ -5975,7 +5817,6 @@ e) Fase de desenvolvimento;
 Comentários:
 
 F 1 CICLO DE r 1
-
 
 OPERAÇÃO
 
@@ -6027,7 +5868,6 @@ Comentários:
 Questão estranha! Pode usar o JAD? Claro, É uma técnica para levantar requisitos. Por
 que não
 poderia?
-
 
 Gabarito: Correto
 
@@ -6087,7 +5927,6 @@ causar problemas para sua execução.
 
 Gabarito: Letra A
 
-
 LISTA DE QUESTõES - CESPE
 
 í. (CESPE / BANRISUL - 2022) Um dos problemas da aplicação do modelo
@@ -6098,7 +5937,7 @@ estará disponível antes que o projeto esteja perto do final, por conta do esta
 bloqueio que
 a natureza linear do ciclo de vida clássico produz.
 
-Item. 2. (CESPE / BANRISUL- 2022) O modelo cascata é frequentemente inadequado para os
+2. (CESPE / BANRISUL- 2022) O modelo cascata é frequentemente inadequado para os
 casos de
 desenvolvimento de soluções de software em que há ritmo acelerado e volume
 intenso de
@@ -6106,18 +5945,18 @@ mudanças de características, todavia ele pode servir como um modelo de
 processo útil em
 situações nas quais os requisitos são fixos.
 
-Item. 3. (CESPE / BANRISUL - 2022) O modelo do ciclo de vida clássico sugere uma
+3. (CESPE / BANRISUL - 2022) O modelo do ciclo de vida clássico sugere uma
 abordagem
 sequencial para desenvolvimento de software, começando com a especificação dos requisitos
 do cliente, avançando pelas fases de planejamento e modelagem, e culminando
 no suporte
 contínuo do software concluído.
 
-Item. 4. (CESPE / FUNPRESP-EXE - 2022) No modelo em espiral de desenvolvimento de
+4. (CESPE / FUNPRESP-EXE - 2022) No modelo em espiral de desenvolvimento de
 software, cada
 giro ou loop da espiral representa uma fase do processo de software.
 
-Item. 5. (CESPE / TJ-RJ - 2021) Na engenharia de software, pode-se dividir uma metodologia
+5. (CESPE / TJ-RJ - 2021) Na engenharia de software, pode-se dividir uma metodologia
 genérica
 em cinco macroatividades; entre elas, a que tem como objetivo criar um esboço do
 projeto a ser
@@ -6133,7 +5972,7 @@ d) a comunicação.
 
 e) a construção.
 
-Item. 6. (CESPE / Polícia Federal - 2021) Uma das etapas descritas em um método
+6. (CESPE / Polícia Federal - 2021) Uma das etapas descritas em um método
 desenvolvimento de
 sistema clássico é a análise e definição de requisitos, etapa em que as restrições e
 as metas do
@@ -6141,18 +5980,17 @@ sistema são obtidas por meio de consulta a usuários, com o objetivo de realiza
 especificação
 do sistema.
 
-Item. 7. (CESPE / SERPRO - 2021) No modelo em cascata, dada a dificuldade natural para
+7. (CESPE / SERPRO - 2021) No modelo em cascata, dada a dificuldade natural para
 estabelecer
 todos os requisitos na fase inicial do projeto, os requisitos são definidos ao longo
 de todas as
 fases, acomodando-se gradualmente as incertezas e eventuais mudanças do projeto.
 
-Item. 8. (CESPE/SERPRO-2021) No modelo iterativo, as iterações na fase de construção
+8. (CESPE/SERPRO-2021) No modelo iterativo, as iterações na fase de construção
 concentram-
 se nas atividades de requisitos, gerenciamento, design e testes.
 
-
-Item. 9. (CESPE / Ministério da Economia - 2020) Engenharia de software (ES) é um processo,
+9. (CESPE / Ministério da Economia - 2020) Engenharia de software (ES) é um processo,
 expresso
 como o conjunto de todas as atividades relacionadas ao desenvolvimento, ao
 controle, à
@@ -6160,7 +5998,7 @@ validação e à manutenção de um software operacional, abrangendo atividades
 técnicas e
 gerenciais.
 
-Item. 10. (CESPE / Ministério da Economia- 2020) Entre os modelos de processo
+10. (CESPE / Ministério da Economia- 2020) Entre os modelos de processo
 aplicados ao
 desenvolvimento de software, o modelo cascata apresenta desvantagens por, entre
 outros
@@ -6168,7 +6006,7 @@ motivos, não ter flexibilidade com requisitos, não produzir resultados tangív
 fase de
 codificação e dificultar o estabelecimento de requisitos completos antes de começar a codificar.
 
-Item. 11. (CESPE / TCE-RO - 2019) O modelo de desenvolvimento de sistemas cascata:
+11. (CESPE / TCE-RO - 2019) O modelo de desenvolvimento de sistemas cascata:
 
 a) é voltado para requisitos de sistemas de software e, por isso, não engloba os
 requisitos
@@ -6188,7 +6026,7 @@ e) é consistente com outros modelos de processos de engenharia, apesar de haver
 divisão
 inflexível do projeto em estágios distintos.
 
-Item. 12. (CESPE / EBSERH - 2018) O modelo de ciclo de vida em cascata tem como
+12. (CESPE / EBSERH - 2018) O modelo de ciclo de vida em cascata tem como
 características o
 estabelecimento, no início do projeto, de requisitos de maneira completa, correta e
 clara, e a
@@ -6196,24 +6034,23 @@ possibilidade de disponibilização de várias versões operacionais do software
 conclusão
 do projeto.
 
-Item. 13. (CESPE / IPHAN - 2018) No modelo em cascata, com exceção do sequenciamento dos
+13. (CESPE / IPHAN - 2018) No modelo em cascata, com exceção do sequenciamento dos
 estágios
 de requisitos e de análise, os demais são executados em paralelo, iniciando-se antes
 dotérmino
 do estágio seguinte.
 
-Item. 14. (CESPE ITCE-PR - 2016 - Item B) A engenharia de software refere-se ao estudo das
+14. (CESPE ITCE-PR - 2016 - Item B) A engenharia de software refere-se ao estudo das
 teorias e
 fundamentos da computação, ficando o desenvolvimento de software a cargo da
 ciência da
 computação.
 
-Item. 15. (CESPE / TCE/PR - 2016 - Item E) O conceito de software se restringe ao
+15. (CESPE / TCE/PR - 2016 - Item E) O conceito de software se restringe ao
 desenvolvimento do
 código em determinada linguagem e seu armazenamento em arquivos.
 
-Item. 16. (CESPE / TCE-PR -2016) As fases do ciclo de vida de um software são:
-
+16. (CESPE / TCE-PR -2016) As fases do ciclo de vida de um software são:
 
 a) concepção, desenvolvimento, entrega e encerramento.
 
@@ -6227,54 +6064,53 @@ e) planejamento, análise e especificação de requisitos, projeto, implementaç
 entrega
 e implantação, operação e manutenção.
 
-Item. 17. (CESPE / TCE-PR - 2016 - Item A) A engenharia de software está relacionada aos
+17. (CESPE / TCE-PR - 2016 - Item A) A engenharia de software está relacionada aos
 diversos
 aspectos de produção de software e inclui as atividades de especificação,
 desenvolvimento,
 validação e evolução de software.
 
-Item. 18. (CESPE / TCE-PR - 2016 - Item D) Um processo de software é composto por quatro
+18. (CESPE / TCE-PR - 2016 - Item D) Um processo de software é composto por quatro
 atividades
 fundamentais: iniciação, desenvolvimento, entrega e encerramento.
 
-Item. 19. (CESPE / TCE-PR - 2016) O modelo de desenvolvimento em cascata é utilizado em
+19. (CESPE / TCE-PR - 2016) O modelo de desenvolvimento em cascata é utilizado em
 caso de
 divergência nos requisitos de um software, para permitir a evolução gradual do
 entendimento
 dos requisitos durante a implementação do software.
 
-Item. 20. (CESPE / TCE-PR - 2016 - Item C) No modelo iterativo de desenvolvimento de
+20. (CESPE / TCE-PR - 2016 - Item C) No modelo iterativo de desenvolvimento de
 software, as
 atividades são dispostas em estágios sequenciais.
 
-Item. 21. (CESPE / STJ - 2015) Embora os engenheiros de software geralmente utilizem uma
+21. (CESPE / STJ - 2015) Embora os engenheiros de software geralmente utilizem uma
 abordagem
 sistemática, a abordagem criativa e menos formal pode sereficiente em algumas
 circunstâncias,
 como, por exemplo, para o desenvolvimento de sistemas web, que requerem uma mistura de
 habilidades de software e de projeto.
 
-Item. 22. (CESPE / STJ - 2015) O foco da engenharia de software inclui
+22. (CESPE / STJ - 2015) O foco da engenharia de software inclui
 especificação do sistema,
 desenvolvimento de hardware, elaboração do projeto de componentes de hardware e software,
 definição dos processos e implantação do sistema.
 
-Item. 23. (CESPE / STJ - 2015) As principais atividades de engenharia de software são
+23. (CESPE / STJ - 2015) As principais atividades de engenharia de software são
 especificação,
 desenvolvimento, validação e evolução.
 
-Item. 24. (CESPE/TCE-RO-2013) Engenharia de software não está relacionada somente aos processos
+24. (CESPE/TCE-RO-2013) Engenharia de software não está relacionada somente aos processos
 técnicos de desenvolvimento de softwares, mas também a atividades como gerenciamento de
 projeto e desenvolvimento de ferramentas, métodos e teorias que apoiem a
 produção de
 softwares.
 
-Item. 25. (CESPE / TCE-RO - 2013) Assim como a Engenharia de Software, existe também na
+25. (CESPE / TCE-RO - 2013) Assim como a Engenharia de Software, existe também na
 área de
 informática a chamada Ciência da Computação. Assinale a alternativa que melhor apresenta
 a
 diferença entre Engenharia de Software e Ciência da Computação.
-
 
 a) A Ciência da Computação tem como objetivo o desenvolvimento de
 teorias e
@@ -6305,15 +6141,15 @@ de rede e banco de dados e a Engenharia de Software restringe- se ao desenvolvim
 de
 sistemas.
 
-Item. 26. (CESPE /TRT10-2013) As atividades fundamentais relacionadas ao processo de construção
+26. (CESPE /TRT10-2013) As atividades fundamentais relacionadas ao processo de construção
 de
 um software incluem a especificação, o desenvolvimento, a validação e a evolução do software.
 
-Item. 27. (CESPE / TRT10 - 2013) O ciclo de vida de um software, entre outras
+27. (CESPE / TRT10 - 2013) O ciclo de vida de um software, entre outras
 características, está
 relacionado aos estágios de concepção, projeto, criação e implementação.
 
-Item. 28. (CESPE /TRT-17- 2013) O objetivo do RAD é separar os modelos da visualização e
+28. (CESPE /TRT-17- 2013) O objetivo do RAD é separar os modelos da visualização e
 do controle.
 Ele fornece o controlador e facilita a escrita de moldes padronizados para
 a camada de
@@ -6323,17 +6159,17 @@ visualização.
 caracterização
 descritiva ou prescritiva de como um produto de software deve ser desenvolvido.
 
-Item. 30. (CESPE / MEC - 2011) Atividades comuns a todos os processos de
+30. (CESPE / MEC - 2011) Atividades comuns a todos os processos de
 software incluem a
 especificação, o projeto, a implementação e a validação.
 
-Item. 31. (CESPE / TJ-ES - 2011) Entre as etapas do ciclo de vida de software, as menos
+31. (CESPE / TJ-ES - 2011) Entre as etapas do ciclo de vida de software, as menos
 importantes
 incluem a garantia da qualidade, o projeto e o estudo de viabilidade. As demais
 atividades do
 ciclo, como a implementação e os testes, requerem maior dedicação da equipe e são essenciais.
 
-Item. 32. (CESPE / TJ-ES - 2011) O modelo de processo incremental de desenvolvimento de
+32. (CESPE / TJ-ES - 2011) O modelo de processo incremental de desenvolvimento de
 software é
 iterativo, assim como o processo de prototipagem. Contudo, no processo
 incremental,
@@ -6341,53 +6177,52 @@ diferentemente do que ocorre no de prototipagem, o objetivo consiste em
 apresentar um
 produto operacional a cada incremento.
 
-
 33- (CESPE / AL-ES - 2011) O ciclo de vida RAD (Rapid Application Development), por
 privilegiar a
 rapidez do desenvolvimento, não possui etapa de modelagem.
 
-Item. 34. (CESPE / DETRAN/ES - 2010) Segundo princípio da engenharia de software, os vários
+34. (CESPE / DETRAN/ES - 2010) Segundo princípio da engenharia de software, os vários
 artefatos
 produzidos ao longo do seu ciclo de vida apresentam, de forma geral, nível de
 abstração cada
 vez menor.
 
-Item. 35. (CESPE/TRE-BA-2oIo) Entre os desafios enfrentados pela engenharia de software estão
+35. (CESPE/TRE-BA-2oIo) Entre os desafios enfrentados pela engenharia de software estão
 lidar
 com sistemas legados, atender à crescente diversidade e atender às exigências quanto a
 prazos
 de entrega reduzidos.
 
-Item. 36. (CESPE /TRE-BA-2010) Um modelo de processo de software consiste em uma representação
+36. (CESPE /TRE-BA-2010) Um modelo de processo de software consiste em uma representação
 complexa de um processo de software, apresentada a partir de uma perspectiva genérica.
 
-Item. 37. (CESPE / EMBASA - 2010) Ciclo de vida de um software resume-se em eventos
+37. (CESPE / EMBASA - 2010) Ciclo de vida de um software resume-se em eventos
 utilizados para
 definir o status de um projeto.
 
-Item. 38. (CESPE / DETRAN-ES - 2010) Quando um aplicativo de software desenvolvido
+38. (CESPE / DETRAN-ES - 2010) Quando um aplicativo de software desenvolvido
 em uma
 organização atinge, no fim do seu ciclo de vida, a fase denominada
 aposentadoria,
 descontinuação ou fim de vida, todos os dados por ele manipulados podem ser descartados.
 
-Item. 39. (CESPE / BASA-2010) No modelo em cascata, o projeto segue uma série de passos
+39. (CESPE / BASA-2010) No modelo em cascata, o projeto segue uma série de passos
 ordenados.
 Ao final de cada projeto, a equipe de projeto finaliza uma revisão. O desenvolvimento
 continua
 e, ao final, o cliente avalia a solução proposta.
 
-Item. 40. (CESPE / ANAC - 2009) O termo engenharia pretende indicar que o
+40. (CESPE / ANAC - 2009) O termo engenharia pretende indicar que o
 desenvolvimento de
 software submete-se a leis similares às que governam a manufatura de produtos
 industriais em
 engenharias tradicionais, pois ambos são metodológicos.
 
-Item. 41. (CESPE / TCE-TO - 2009 - Item A) Quanto maior e mais complexo o projeto de
+41. (CESPE / TCE-TO - 2009 - Item A) Quanto maior e mais complexo o projeto de
 software, mais
 simples deve ser o modelo de processo a ser adotado.
 
-Item. 42. (CESPE / TCE-TO - 2009 - Item B) O modelo de ciclo de vida do software serve
+42. (CESPE / TCE-TO - 2009 - Item B) O modelo de ciclo de vida do software serve
 para delimitar
 o alvo do software. Nessa visão, não são consideradas as atividades
 necessárias e o
@@ -6401,13 +6236,12 @@ possibilidade de gerar grandes prejuízos do que naquelas que
 tenham adotado
 desenvolvimento evolucionário.
 
-
 44-(CESPE / INMETRO - 2009) Em um processo de desenvolvimento em cascata, os testes de
 software são realizados todos em um mesmo estágio, que acontece após a finalização das
 fases
 de implementação.
 
-Item. 45. (CESPE / IPEA - 2009) No modelo em cascata de processo de desenvolvimento, os
+45. (CESPE / IPEA - 2009) No modelo em cascata de processo de desenvolvimento, os
 clientes
 devem definir os requisitos apenas durante a fase de projeto; e os
 projetistas definem as
@@ -6417,16 +6251,16 @@ envolvem definição de requisitos, projeto, implementação, teste, integraçã
 operação e
 manutenção. Em cada fase do ciclo de vida, podem ser produzidos diversos artefatos.
 
-Item. 46. (CESPE - 2009 - INMTRO - Analista de Sistema) No desenvolvimento de software, o
+46. (CESPE - 2009 - INMTRO - Analista de Sistema) No desenvolvimento de software, o
 modelo
 em cascata é estruturado de tal maneira que as fases que compõem o desenvolvimento são
 interligadas. Nessa situação, o final de uma fase implica o início de outra.
 
-Item. 47. (CESPE / TRE-MT - 2009 - Item A) O modelo em cascata é apropriado para
+47. (CESPE / TRE-MT - 2009 - Item A) O modelo em cascata é apropriado para
 software em que
 os requisitos ainda não foram bem compreendidos, pois é focado na criação de incrementos.
 
-Item. 48. (CESPE / UNIPAMPA - 2009 - Item D) O modelo em cascata sugere uma
+48. (CESPE / UNIPAMPA - 2009 - Item D) O modelo em cascata sugere uma
 abordagem
 sistemática e sequencial para o desenvolvimento de software. Sua natureza linear leva a
 estados
@@ -6434,55 +6268,54 @@ de bloqueio nos quais, para que nova etapa seja iniciada, é necessário que a
 documentação
 associada à fase anterior tenha sido aprovada.
 
-Item. 49. (CESPE / UNIPAMPA- 2009) No modelo de desenvolvimento incremental, a cada iteração
+49. (CESPE / UNIPAMPA- 2009) No modelo de desenvolvimento incremental, a cada iteração
 são
 realizadas várias tarefas. Na fase de análise, pode ser feito o refinamento de
 requisitos e o
 refinamento do modelo conceituai.
 
-Item. 50. (CESPE / INPE - 2008) O ciclo de vida do software tem início na fase de projeto.
+50. (CESPE / INPE - 2008) O ciclo de vida do software tem início na fase de projeto.
 
-Item. 51. (CESPE / TST- 2008) No modelo de desenvolvimento sequencial linear, a fase de
+51. (CESPE / TST- 2008) No modelo de desenvolvimento sequencial linear, a fase de
 codificação
 é a que gera erros de maior custo de correção.
 
-Item. 52. (CESPE / SERPRO - 2008) O modelo em cascata consiste de fases e atividades que
+52. (CESPE / SERPRO - 2008) O modelo em cascata consiste de fases e atividades que
 devem ser
 realizadas em sequência, de forma que uma atividade é requisito da outra.
 
-Item. 53. (CESPE / MPE-AM - 2008) O modelo de desenvolvimento sequencial linear
+53. (CESPE / MPE-AM - 2008) O modelo de desenvolvimento sequencial linear
 tem como
 característica principal a produção de uma versão básica, mas funcional, do software
 desde as
 primeiras fases.
 
-Item. 54. (CESPE / TJ-DF - 2008) No modelo de desenvolvimento incremental, embora haja
+54. (CESPE / TJ-DF - 2008) No modelo de desenvolvimento incremental, embora haja
 defasagem
 entre os períodos de desenvolvimento de cada incremento, os incrementos são desenvolvidos
 em paralelo.
 
-Item. 55. (CESPE/TST-2008) O modelo RAD (Rapid Application Development) consiste em uma forma
+55. (CESPE/TST-2008) O modelo RAD (Rapid Application Development) consiste em uma forma
 de prototipação para esclarecer dúvidas da especificação do software.
 
-
-Item. 56. (CESPE / TRE-MA - 2008) O modelo RAD (Rapid Application Development) é uma
+56. (CESPE / TRE-MA - 2008) O modelo RAD (Rapid Application Development) é uma
 adaptação
 de alta velocidade do modelo sequencial linear, conseguido por meio da construção
 embasada
 em componentes.
 
-Item. 57. (CESPE/TRE-MA-2oo8) O uso de uma abordagem de construção embasada em componentes
+57. (CESPE/TRE-MA-2oo8) O uso de uma abordagem de construção embasada em componentes
 faz que o desenvolvimento no modelo RAD (Rapid Application Development) seja considerado
 mais rápido
 
-Item. 58. (CESPE / MPE-AM - 2008) O modelo de desenvolvimento incremental combina
+58. (CESPE / MPE-AM - 2008) O modelo de desenvolvimento incremental combina
 características
 do modelo de desenvolvimento sequencial linear com características do modelo RAD, embora
 isso resulte em projetos que sistematicamente apresentam maior duração que
 aqueles feitos
 com os dois modelos de desenvolvimento originais.
 
-Item. 59. (CESPE / TSE - 2006 - Item D) O modelo em cascata organiza o desenvolvimento em
+59. (CESPE / TSE - 2006 - Item D) O modelo em cascata organiza o desenvolvimento em
 fases.
 Esse modelo encoraja a definição dos requisitos antes do restante do
 desenvolvimento do
@@ -6490,41 +6323,40 @@ sistema. Após a especificação e a análise dos requisitos, têm-se o projeto,
 implementação e o
 teste.
 
-Item. 60. (CESPE / MPE-AM - 2005) O modelo RAD (rapid application development) é específico
+60. (CESPE / MPE-AM - 2005) O modelo RAD (rapid application development) é específico
 para
 projetos de software que empregam linguagens de programação de terceira geração.
 
-Item. 61. (CESPE / IGEPREV - 2005) O modelo Rapid Application Development (RAD) é
+61. (CESPE / IGEPREV - 2005) O modelo Rapid Application Development (RAD) é
 apropriado para
 projetos que envolvem grandes riscos técnicos.
 
-Item. 62. (CESPE / ANS - 2005) O modelo Rapid Application Development (RAD) é uma
+62. (CESPE / ANS - 2005) O modelo Rapid Application Development (RAD) é uma
 adaptação do
 modelo em espiral para atender a projetos de software fundamentados em componentes.
 
-Item. 63. (CESPE / AL-ES - 2005 - Item B) O modelo de desenvolvimento em cascata descreve
+63. (CESPE / AL-ES - 2005 - Item B) O modelo de desenvolvimento em cascata descreve
 ciclos
 sequenciais, incrementais e iterativos, possuindo, entre outras, as fases de
 requisitos e
 implementação.
 
-Item. 64. (CESPE / STJ - 2004) O modelo de desenvolvimento sequencial linear,
+64. (CESPE / STJ - 2004) O modelo de desenvolvimento sequencial linear,
 também chamado
 modelo clássico ou modelo em cascata, caracteriza-se por não acomodar adequadamente as
 incertezas que existem no início de um projeto de software, em especial as
 geradas pela
 dificuldade do cliente de explicitar todos os requerimentos que o programa deve contemplar.
 
-Item. 65. (CESPE / TJ-PA - 2004 - Item D) A abordagem sistemática estritamente
+65. (CESPE / TJ-PA - 2004 - Item D) A abordagem sistemática estritamente
 linear para o
 desenvolvimento de software é denominada modelo em cascata ou modelo sequencial linear.
 
-Item. 66. (CESPE / ABIN - 2004) O modelo de desenvolvimento seqüencial
+66. (CESPE / ABIN - 2004) O modelo de desenvolvimento seqüencial
 linear, também
 denominado modelo em cascata, é incompatível com o emprego de técnica de análise
 orientada
 a objetos no desenvolvimento de um sistema de informação.
-
 
 67-(CESPE / TRE-AL - 2004) O modelo cascata ou ciclo de vida clássico
 necessita de uma
@@ -6532,89 +6364,86 @@ abordagem sistemática, que envolve, em primeiro lugar, o projeto e, em seguida,
 análise, a
 codificação, os testes e a manutenção.
 
-Item. 68. (CESPE / BASA - 2004) O modelo embasado em prototipagem é um modelo de processo
+68. (CESPE / BASA - 2004) O modelo embasado em prototipagem é um modelo de processo
 incremental que enfatiza um ciclo de desenvolvimento extremamente curto. A primeira fase
 do
 processo é a modelagem de negócio e a última é a fase de teste e entrega.
 
-
 GABARITo
 
-Item. 1. CORRETO 24. CORRETO
+1. CORRETO 24. CORRETO
 47- ERRADO
 
-Item. 2. CORRETO 25- LETRA A
-Item. 48. CORRETO
+2. CORRETO 25- LETRA A
+48. CORRETO
 
 3- CORRETO 26. CORRETO
 49- CORRETO
 
 4- CORRETO 27- CORRETO
-Item. 50. ERRADO
+50. ERRADO
 
 5- LETRA B 28. ERRADO
 51- ERRADO
 
-Item. 6. CORRETO 29. CORRETO
-Item. 52. CORRETO
+6. CORRETO 29. CORRETO
+52. CORRETO
 
 7- ERRADO 30. CORRETO
 53- ERRADO
 
-Item. 8. ERRADO 31- ERRADO
+8. ERRADO 31- ERRADO
 54- CORRETO
 
 9- CORRETO 32. CORRETO 55-
 ERRADO
 
-Item. 10. CORRETO 33- ERRADO
-Item. 56. CORRETO
+10. CORRETO 33- ERRADO
+56. CORRETO
 
 li. LETRA E 34- CORRETO
 57- CORRETO
 
-Item. 12. ERRADO 35- CORRETO
-Item. 58. ERRADO
+12. ERRADO 35- CORRETO
+58. ERRADO
 
 13- ERRADO 36. ERRADO
 59- CORRETO
 
 14- ERRADO 37- ERRADO
-Item. 60. LETRA E
+60. LETRA E
 
 x5- ERRADO 38. ERRADO
-Item. 61. ERRADO
+61. ERRADO
 
 i6. LETRA E 39- ERRADO
-Item. 62. ERRADO
+62. ERRADO
 
 17- CORRETO 40. CORRETO 63.
 ERRADO
 
 i8. ERRADO 41. ERRADO
-Item. 64. CORRETO
+64. CORRETO
 
-Item. 19. ERRADO 42. ERRADO
-Item. 65. CORRETO
+19. ERRADO 42. ERRADO
+65. CORRETO
 
-Item. 20. ERRADO 43- CORRETO
-Item. 66. ERRADO
+20. ERRADO 43- CORRETO
+66. ERRADO
 
-Item. 21. CORRETO 44. ERRADO
-Item. 67. ERRADO
+21. CORRETO 44. ERRADO
+67. ERRADO
 
-Item. 22. ERRADO 45- ERRADO
-Item. 68. ERRADO
+22. ERRADO 45- ERRADO
+68. ERRADO
 
 23- CORRETO 46. CORRETO
-
 
 LISTA DE QUESTõES - FCC
 
 í. (FCC / TRF - 3a REGIÃO - 2019) Considere a figura abaixo.
 
 Atividades simultâneas
-
 
 Descrição
 do esboço
@@ -6641,7 +6470,7 @@ d) processo empírico.
 
 e) processo unificado.
 
-Item. 2. (FCC / TST - 2012) A Engenharia de Software:
+2. (FCC / TST - 2012) A Engenharia de Software:
 
 a) é uma área da computação que visa abordar de modo sistemático as questões técnicas
 e não
@@ -6665,9 +6494,8 @@ que suportam a execução de programas de computador, tais como as
 técnicas de
 armazenamento e as estruturas em memória principal.
 
-Item. 3. (FCC / TRT6 - 2012) Considere: é uma disciplina que se ocupa de todos os aspectos da produção
+3. (FCC / TRT6 - 2012) Considere: é uma disciplina que se ocupa de todos os aspectos da produção
 de software, desde os estágios iniciais de especificação do sistema até a manutenção desse sistema,
-
 
 depois que ele entrou em operação. Seu principal objetivo é fornecer uma estrutura
 metodológica
@@ -6683,7 +6511,7 @@ d) à engenharia de requisitos.
 
 e) à engenharia de software.
 
-Item. 4. (FCC / MPE-AP - 2012) Um processo de software é um conjunto de atividades
+4. (FCC / MPE-AP - 2012) Um processo de software é um conjunto de atividades
 relacionadas que
 levam à produção de um produto de software. Existem muitos processos de software
 diferentes,
@@ -6700,11 +6528,11 @@ d) entrega.
 
 e) modelagem.
 
-Item. 5. (FCC /TJ-RJ- 2012- Item E) Dos diferentes modelos para o ciclo de vida de
+5. (FCC /TJ-RJ- 2012- Item E) Dos diferentes modelos para o ciclo de vida de
 desenvolvimento
 de um software é correto afirmar que o modelo em cascata é o mais recente e complexo.
 
-Item. 6. (FCC/INFRAERO-2011) E m relação à Engenharia de Software, é INCORRETO afirmar:
+6. (FCC/INFRAERO-2011) E m relação à Engenharia de Software, é INCORRETO afirmar:
 
 a) O design de software, ao descrever os diversos aspectos que estarão presentes no
 sistema
@@ -6730,8 +6558,7 @@ e) A representação é a linguagem do design, cujo único propósito é descrev
 sistema de
 software que seja possível construir.
 
-Item. 7. (FCC / TRE-AM - 2010) A Engenharia de Software:
-
+7. (FCC / TRE-AM - 2010) A Engenharia de Software:
 
 a) não tem como método a abordagem estruturada para o desenvolvimento de software, pois
 baseia-se exclusivamente nos modelos de software, notações, regras e
@@ -6759,7 +6586,7 @@ ignorar os detalhes e o da Composição, que agrupa as atividades em um único p
 para
 distribuição aos especialistas.
 
-Item. 8. (FCC / DPE/SP - 2010) A Engenharia de Software:
+8. (FCC / DPE/SP - 2010) A Engenharia de Software:
 
 I. não visa o desenvolvimento de teorias e fundamentações, preocupando-se unicamente com
 as práticas de desenvolvimento de software.
@@ -6789,8 +6616,7 @@ d) I, II e III, apenas.
 
 e) II, III e IV, apenas.
 
-Item. 9. (FCC/ AFR/SP - 2009) A engenharia de software está inserida no contexto:
-
+9. (FCC/ AFR/SP - 2009) A engenharia de software está inserida no contexto:
 
 a) das engenharias de sistemas, de processo e de produto.
 
@@ -6805,29 +6631,27 @@ e) das engenharias de sistemas e de produto, apenas.
 io. (FCC / SEFAZ-SP - 2009 - Item B) O processo de engenharia de software denominado ciclo de
 vida clássico refere-se ao modelo incremental.
 
-
 GABARITo
 
-Item. 1. LETRA B
+1. LETRA B
 
-Item. 2. LETRA A
+2. LETRA A
 
-Item. 3. LETRA E
+3. LETRA E
 
-Item. 4. LETRA B
+4. LETRA B
 
-Item. 5. ERRADO
+5. ERRADO
 
-Item. 6. LETRA E
+6. LETRA E
 
-Item. 7. LETRA D
+7. LETRA D
 
-Item. 8. LETRA D
+8. LETRA D
 
-Item. 9. LETRA A
+9. LETRA A
 
-Item. 10. ERRADO
-
+10. ERRADO
 
 LISTA DE QUESTõES - FCV
 
@@ -6850,7 +6674,7 @@ c) evolucionário.
 d) unificado
 e) especializado.
 
-Item. 2. (FGV / PGE-RO - 2015) A figura abaixo ilustra um modelo de processo, que
+2. (FGV / PGE-RO - 2015) A figura abaixo ilustra um modelo de processo, que
 prescreve um
 conjunto de elementos de processo como atividades de arcabouço, ações de engenharia de
 software, tarefas, produtos de trabalho, mecanismos de garantia de qualidade e de
@@ -6863,14 +6687,13 @@ a) porfunções.
 
 b) em cascata.
 
-
 c) incremental.
 
 d) em pacotes.
 
 e) por módulos.
 
-Item. 3. (FGV / BADESC - 2010) De acordo com Pressman, a engenharia de software é
+3. (FGV / BADESC - 2010) De acordo com Pressman, a engenharia de software é
 baseada em
 camadas, com foco na qualidade. Essas camadas são:
 
@@ -6884,7 +6707,7 @@ d) planejamento, modelagem, construção, validação e implantação.
 
 e) comunicação, planejamento, modelagem, construção e implantação.
 
-Item. 4. (FGV / Fiocruz - 2010) Rapid Application Development (RAD) é um modelo de
+4. (FGV / Fiocruz - 2010) Rapid Application Development (RAD) é um modelo de
 processo de
 software incremental que enfatiza um ciclo de desenvolvimento curto, com o
 uso de uma
@@ -6900,7 +6723,7 @@ c) do planejamento, dos dados e das funções gerenciais.
 d) do planejamento, dos recursos de TI e dos projetos
 e) do negócio, dos dados e dos processos.
 
-Item. 5. (FGV/CODESP-SP-2010) AUMLé uma linguagem visual para modelar sistemas
+5. (FGV/CODESP-SP-2010) AUMLé uma linguagem visual para modelar sistemas
 orientados a
 objetos, sendo independente tanto de linguagens de programação quanto de
 processos de
@@ -6926,13 +6749,12 @@ d) estruturado por fases;
 
 e) incremental e iterativo.
 
-Item. 6. (FGV / Senado Federal - 2008) Considere as seguintes assertivas sobre modelos de
+6. (FGV / Senado Federal - 2008) Considere as seguintes assertivas sobre modelos de
 processos
 de software:
 
 I. No modelo em cascata, a fase seguinte não deve iniciar antes que a fase precedente tenha sido
 concluída.
-
 
 II. No modelo evolucionário, a mudança constante tende a corromper a estrutura do software
 
@@ -6952,21 +6774,19 @@ d) somente II e III.
 
 e) I, lie III.
 
-
 GABARITo
 
-Item. 1. LETRAB
+1. LETRAB
 
-Item. 2. LETRAB
+2. LETRAB
 
-Item. 3. LETRAB
+3. LETRAB
 
-Item. 4. LETRAE
+4. LETRAE
 
-Item. 5. LETRAE
+5. LETRAE
 
-Item. 6. LETRAE
-
+6. LETRAE
 
 LISTA DE QUESTõES - DIVERSAS
 
@@ -6984,7 +6804,7 @@ d) Comunicação, Integração e Teste.
 
 e) Entrega, Comunicação e Protótipo.
 
-Item. 2. (VUNESP/ PRODEST-ES-2014) No modelo de ciclo de vida de software conhecido como
+2. (VUNESP/ PRODEST-ES-2014) No modelo de ciclo de vida de software conhecido como
 RAD
 (Rapid Application Development) há duas atividades, cujas tarefas podem ser distribuídas
 por
@@ -6999,7 +6819,7 @@ d) modelagem e construção.
 
 e) planejamento e integração.
 
-Item. 3. (VUNESP / SPTrans - 2012) Uma das abordagens do processo de
+3. (VUNESP / SPTrans - 2012) Uma das abordagens do processo de
 desenvolvimento da
 engenharia de software prevê a divisão em etapas, em que o fim de uma é a entrada
 para a
@@ -7015,7 +6835,7 @@ d) Espiral.
 
 e) Cascata.
 
-Item. 4. (CESGRANRIO / UNIRIO - 2019) O modelo de processo incremental é iterativo por
+4. (CESGRANRIO / UNIRIO - 2019) O modelo de processo incremental é iterativo por
 natureza e
 produz a cada incremento uma versão operacional do produto, diferente de outros modelos,
 como, por exemplo, a prototipagem. Esse modelo incremental:
@@ -7034,7 +6854,6 @@ e) combina elementos do modelo cascata, aplicado de maneira iterativa, sendo tam
 essa
 filosofia incremental usada em processos ágeis.
 
-
 5- (CESGRANRIO / Transpetro - 2018) O modelo em cascata ou linear é um modelo de
 processo
 de software que, a princípio, só deve ser usado se o(s):
@@ -7049,7 +6868,7 @@ d) riscos de negócio não são conhecidos.
 
 e) usuários não sabem bem o que desejam.
 
-Item. 6. (CESGRANRIO/Transpetro-2018) Que tipo de processo de desenvolvimento de software visa
+6. (CESGRANRIO/Transpetro-2018) Que tipo de processo de desenvolvimento de software visa
 a, inicialmente, prover todas as funcionalidades do sistema com uma fidelidade baixa e,
 por
 meio de ciclos, ir aumentando cada vez mais a fidelidade até que todas as
@@ -7062,7 +6881,7 @@ c) Iterativo
 d) Incremental
 e) Ágil
 
-Item. 7. (CESGRANRIO / Transpetro - 2012) Na engenharia de software, existem diversos
+7. (CESGRANRIO / Transpetro - 2012) Na engenharia de software, existem diversos
 modelos de
 desenvolvimento de software, e, dentre eles, o modelo em cascata, o qual, no contexto
 do
@@ -7078,7 +6897,7 @@ d) realizar entregas incrementais do produto de software ao longo do desenvolvim
 
 e) usar prototipagem rápida para estimular o envolvimento do usuário no desenvolvimento.
 
-Item. 8. (CESGRANRIO / EPE - 2012) Uma das críticas feitas ao modelo do ciclo
+8. (CESGRANRIO / EPE - 2012) Uma das críticas feitas ao modelo do ciclo
 de vida do
 desenvolvimento de software em cascata refere-se a:
 
@@ -7094,7 +6913,6 @@ c) pouca flexibilidade para mudanças futuras, exigindo compromissos nas fases
 iniciais do
 projeto.
 
-
 d) pouca visibilidade das etapas do processo, tornando cara a documentação de todas as
 versões
 dos sistemas.
@@ -7103,7 +6921,7 @@ e) exigências de velocidade as quais levam o engenheiro de software a utilizar
 linguagens,
 algoritmos ou ferramentas ineficientes ao longo de todo o projeto.
 
-Item. 9. (CESGRANRIO / PETROBRÁS - 2011) A especificação de uma
+9. (CESGRANRIO / PETROBRÁS - 2011) A especificação de uma
 Metodologia de
 Desenvolvimento de Sistemas tem como pré-requisito indispensável, em relação ao que será
 adotado no processo de desenvolvimento, a definição do:
@@ -7114,7 +6932,7 @@ c) Software para Desenvolvimento
 d) Ciclo de Vida do Software
 e) Bloco de Atividades
 
-Item. 10. (CESGRANRIO / PETROBRÁS - 2010) No Ciclo de Vida Clássico, também chamado de
+10. (CESGRANRIO / PETROBRÁS - 2010) No Ciclo de Vida Clássico, também chamado de
 Modelo
 Sequencial Linear ou Modelo Cascata, é apresentada uma abordagem sistemática
 composta
@@ -7152,11 +6970,9 @@ c) Incremental
 d) Prototipagem
 e) Cascata
 
-
 Q-Q
 
-
-Item. 12. (INSTITUTO AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Existem diversos
+12. (INSTITUTO AOCP / Prefeitura de Novo Hamburgo - RS - 2020) Existem diversos
 modelos de
 desenvolvimento de software na literatura. Sabendo disso é correto afirmar que o modelo
 que
@@ -7176,7 +6992,7 @@ d) modelo cascata.
 
 e) modelo híbrido.
 
-Item. 13. (INSTITUTO AOCP / UFPB- 2019) Existem diferentes processos de software,
+13. (INSTITUTO AOCP / UFPB- 2019) Existem diferentes processos de software,
 porém todos
 devem ser compostos por quatro etapas fundamentais. Assinale a alternativa que
 apresenta
@@ -7197,7 +7013,7 @@ Evolução de Software.
 d) 1. Análise de Requisitos; 2. Projeto e Implementação de Software; 3. Validação de
 Software;
 
-Item. 4. Suporte Técnico.
+4. Suporte Técnico.
 
 e) 1. Especificação de Software; 2. Desenvolvimento de Software; 3. Teste de Software;
 4.
@@ -7208,7 +7024,6 @@ Implantação de Software.
 ASSOCIAÇÕES que define corretamente os elementos a definir da TABELA A com
 as
 definições ou caracterizações da TABELA B.
-
 
 TABELA A
 
@@ -7248,7 +7063,6 @@ E ê o processo de verificação de que o sistema
 está de acordo com sua especificação e
 satisfaz às necessidades reais dos usuários
 do sistema.
-
 
 i5.(lnaz do Pará / CORE-SP - 2019) "O Modelo em Cascata (do inglês: Waterfall Model)
 é um
@@ -7293,12 +7107,11 @@ a) um estágio - escrever - encerrar o projeto.
 
 b) um processo dirigido a planos - deve planejar - começar a trabalhar nelas.
 
-
 c) um estágio-deve planejar-encerrar o projeto.
 
 d) um processo dirigido a planos-escrever-encerrar o projeto
 
-Item. 17. (INSTITUTO AOCP / UFPB-2019) Há casos em que os requisitos de um problema são bem
+17. (INSTITUTO AOCP / UFPB-2019) Há casos em que os requisitos de um problema são bem
 compreendidos, por exemplo, quando o trabalho flui da comunicação ao emprego
 de forma
 relativamente linear. Sobre o modelo cascata, empregado na engenharia de software,
@@ -7326,7 +7139,7 @@ aplica as sequências lineares de forma escalonada. Cada sequência linear produ
 incrementos
 entregáveis do software.
 
-Item. 18. (AOCP / EMPREL - 2019) O ciclo de vida clássico, que foi o primeiro modelo
+18. (AOCP / EMPREL - 2019) O ciclo de vida clássico, que foi o primeiro modelo
 publicado de
 desenvolvimento de software, é conhecido como:
 
@@ -7396,7 +7209,6 @@ Engenharia de Software.
 I - São utilizadas diferentes técnicas de engenharia de software para cada tipo de
 sistema,
 porque cada software tem características bastante diversas.
-
 
 II - Uma característica fundamental de um sistema de software é a
 eficiência, pois
@@ -7487,7 +7299,7 @@ c) orientado a desenvolvimento incremental
 d) baseado em componentes
 e) prototipação
 
-Item. 25. (COSEPE / UFPI -2018) O modelo cascata é um dos paradigmas mais antigos da
+25. (COSEPE / UFPI -2018) O modelo cascata é um dos paradigmas mais antigos da
 engenharia de
 software. Dentre os problemas às vezes encontrados quando se aplica o modelo cascata,
 tem-
@@ -7507,7 +7319,7 @@ tal fluxo.
 
 e) A existência de somente cinco etapas no modelo, da comunicação ao emprego.
 
-Item. 26. (Gestão Concursos / EMATER - 2018) O processo de um software é um conjunto de
+26. (Gestão Concursos / EMATER - 2018) O processo de um software é um conjunto de
 atividades
 que conduz ao desenvolvimento do produto software e o modelo de processo é uma
 descrição
@@ -7521,7 +7333,7 @@ c) Rápida entrega do software.
 
 d) Existência de componentes reusáveis.
 
-Item. 27. (FADESP / IF-PA - 2018) O modelo de desenvolvimento de software em cascata, também
+27. (FADESP / IF-PA - 2018) O modelo de desenvolvimento de software em cascata, também
 conhecido como ciclo de vida clássico, sugere uma abordagem sistemática e sequencial
 para o
 desenvolvimento de softwares que começa com a especificação dos requisitos e
@@ -7554,7 +7366,7 @@ independentes entre si: análise e definição de requisitos; implementação e
 teste unitário; e
 operação e manutenção.
 
-Item. 30. (FAURGS / UFRGS - 2018) Considere as afirmações abaixo sobre Engenharia de Software:
+30. (FAURGS / UFRGS - 2018) Considere as afirmações abaixo sobre Engenharia de Software:
 
 I- A Engenharia de Software não se preocupa apenas com os processos técnicos do
 desenvolvimento de software. Ela também inclui atividades como gerenciamento de projeto de
@@ -7583,12 +7395,11 @@ d) Apenas II e III.
 
 e) I, lie III.
 
-Item. 31. (FAURGS / BANRISUL-2018) Considere as seguintes afirmações sobre processos de software.
+31. (FAURGS / BANRISUL-2018) Considere as seguintes afirmações sobre processos de software.
 
 I - Um processo de software é um conjunto de atividades relacionadas que levam à produção
 de
 um produto de software.
-
 
 II - Os processos ágeis são uma categoria de processo de software em que o
 planejamento não
@@ -7616,7 +7427,7 @@ d) Apenas II e III.
 
 e) I, lie III.
 
-Item. 32. (IBADE/ IPM - JP - 2018) No que diz respeito à Engenharia de Software, um
+32. (IBADE/ IPM - JP - 2018) No que diz respeito à Engenharia de Software, um
 modelo de
 processo é visualizado como um ciclo de vida constituído da especificação, do
 desenvolvimento,
@@ -7636,7 +7447,7 @@ d) em Árvore.
 
 e) em Cascata.
 
-Item. 33. (AOCP / UNIR - 2018) No modelo cascata, o resultado de cada fase envolve um ou
+33. (AOCP / UNIR - 2018) No modelo cascata, o resultado de cada fase envolve um ou
 mais
 documentos que são aprovados e assinados. A fase seguinte só é iniciada após a
 conclusão da
@@ -7648,11 +7459,10 @@ do projeto, e assim por diante. O processo não é um modelo linear simples, mas
 envolve uma
 sequência de iterações das atividades de desenvolvimento.
 
-Item. 34. (FUNDATEC / CIGA-SC - 2018) Para responderá questão, considere a Figura 8, que
+34. (FUNDATEC / CIGA-SC - 2018) Para responderá questão, considere a Figura 8, que
 mostra,
 esquematicamente, um modelo de processo ou paradigma da engenharia de software, utilizado
 no desenvolvimento de sistemas computacionais.
-
 
 A Figura 8 exibe, esquematicamente, o modelo de processo de desenvolvimento de software,
 chamado de:
@@ -7694,8 +7504,7 @@ c) I e III.
 
 d) lie III.
 
-
-Item. 36. (I ES ES / CEGÁS - 2017) Assinale a alternativa que preenche as lacunas corretamente
+36. (I ES ES / CEGÁS - 2017) Assinale a alternativa que preenche as lacunas corretamente
 relativa a
 definição abaixo para Engenharia de Software.
 
@@ -7711,13 +7520,13 @@ c) Disciplinada - operação.
 
 d) Completa - implementação.
 
-Item. 37. (COPESE / UFPI - 2014) O modelo RAD (Rapid Application Development) é
+37. (COPESE / UFPI - 2014) O modelo RAD (Rapid Application Development) é
 um modelo
 incremental que enfatiza um ciclo de desenvolvimento curto, sendo construído
 baseado em
 componentes.
 
-Item. 38. (MPE-RS / MPE-RS -2012) O ciclo de vida básico de um software compreende:
+38. (MPE-RS / MPE-RS -2012) O ciclo de vida básico de um software compreende:
 
 a) a implementação, a implantação e o teste.
 
@@ -7729,7 +7538,7 @@ d) a implementação, a validação e as vendas.
 
 e) a análise, o projeto, a implementação e o teste.
 
-Item. 39. (Instituto Cidade / TCM-GO - 2012) De acordo com a engenharia de software, como
+39. (Instituto Cidade / TCM-GO - 2012) De acordo com a engenharia de software, como
 todo
 produto industrial, o software possui um ciclo de vida. Cada fase do ciclo de vida
 possui divisões
@@ -7749,17 +7558,16 @@ d) Fase de design.
 
 e) Fase de desenvolvimento;
 
-Item. 40. (UPANET/ JUCEPE-2012) O Desenvolvimento Rápido de Aplicações (RAD - Rapid Application
+40. (UPANET/ JUCEPE-2012) O Desenvolvimento Rápido de Aplicações (RAD - Rapid Application
 Development) pode fazer uso do processo de desenvolvimento conjunto de aplicações (JAD -
 Joint Application Development) para coletar dados e analisar requisitos.
 
-Item. 41. (FUNIVERSA / IPHAN - 2009) A Engenharia de Software resume-se em um
+41. (FUNIVERSA / IPHAN - 2009) A Engenharia de Software resume-se em um
 conjunto de
 técnicas utilizadas para o desenvolvimento e manutenção de sistemas
 computadorizados,
 visando produzir e manter softwares de forma padronizada e com qualidade. Ela obedece a
 alguns princípios como (1) Formalidade, (2) Abstração, (3) Decomposição, (4) Generalização e
-
 
 (5) Flexibilização. Assinale a alternativa que apresenta conceito correto sobre os
 princípios da
@@ -7785,48 +7593,46 @@ e) A abstração é a técnica de se dividir o problema em partes, de maneira qu
 uma possa
 ser resolvida de uma forma mais específica.
 
-
 GABARITo
 
-Item. 1. LETRA A 15- LETRA E
-Item. 29. ERRADO
+1. LETRA A 15- LETRA E
+29. ERRADO
 
-Item. 2. LETRA D i6. LETRA B
-Item. 30. LETRAC
+2. LETRA D i6. LETRA B
+30. LETRAC
 
 3- LETRA E 17- LETRA A
 3i- LETRA C
 
 4- LETRA E i8. LETRA A
-Item. 32. LETRA E
+32. LETRA E
 
 5- LETRAC 19- LETRA A
 33- CORRETO
 
-Item. 6. LETRA C 20. LETRA C
+6. LETRA C 20. LETRA C
 34- LETRA B
 
 7- LETRA B 21. LETRA D
 35- LETRA A
 
-Item. 8. LETRA C 22. LETRA E
-Item. 36. LETRAC
+8. LETRA C 22. LETRA E
+36. LETRAC
 
 9- LETRA D 23- LETRA B
 37- CORRETO
 
-Item. 10. LETRA B 24. LETRA A
-Item. 38. LETRA E
+10. LETRA B 24. LETRA A
+38. LETRA E
 
 íi. LETRA E 25- LETRA D
 39- LETRA B
 
-Item. 12. LETRA C 26. LETRA B
-Item. 40. CORRETO
+12. LETRA C 26. LETRA B
+40. CORRETO
 
 13- LETRA B 27- LETRA A
-Item. 41. LETRA A
+41. LETRA A
 
 14- LETRA B 28. CORRETO
-
 

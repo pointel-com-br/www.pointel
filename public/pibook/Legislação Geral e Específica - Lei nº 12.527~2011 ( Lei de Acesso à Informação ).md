@@ -1,5 +1,4 @@
-Capítulo. Legislação Geral e Específica - Lei nº 12.527~2011 ( Lei de Acesso à Informação ).
-
+# Legislação Geral e Específica - Lei nº 12.527~2011 ( Lei de Acesso à Informação ).
 
 Índice
 
@@ -8,7 +7,6 @@ Capítulo. Legislação Geral e Específica - Lei nº 12.527~2011 ( Lei de Acess
 2) Questões Comentadas - Lei de Acesso à Informação - Lei n° 12.527/2011 - Bancas Selecionadas
 
 3) Lista de Questões - Lei de Acesso à Informação - Lei n° 12.527/2011 - Bancas Selecionadas
-
 
 Antonio Daud, Equipe Legislação Especíí
 - Prof. Antonio Daud
@@ -33,7 +31,6 @@ Prontos?! Avante!
 
 Q Q
 
-
 LEI DE ACESSo À INFoRMAçÃo: NoçõES INICIAIS
 
 INCIDÊNCIA EM PROVA: BAIXA
@@ -52,7 +49,6 @@ informações mantidas pela Administração, previsto no inciso XXXIII do art. 5
 no inciso II do § 3o
 do art. 37 e no § 2o do art. 216 da Constituição Federal, que assim dispõem:
 
-
 i
 
 : CF, art. 52, XXXIII - todos têm direito a receber dos órgãos públicos informações
@@ -67,7 +63,6 @@ imprescindível à j
 : segurança da sociedade e do Estado;
 ;
 
-
 t
 í CF, art. 37, § 3Q A lei disciplinará as formas de participação do usuário na
 administração i
@@ -80,7 +75,6 @@ de ;
 : governo, observado 0 disposto no art. 5Q, X e XXXIII;
 
 I
-
 
 i CF, art. 216. Constituem patrimônio cultural brasileiro os bens de natureza material
 e j
@@ -109,7 +103,6 @@ mediante procedimentos
 objetivos e ágeis, de forma transparente, clara e em linguagem de fácil compreensão (LAI, art. 5o).
 
 > Alcance da Lei de Acesso à Informação
-
 
 As regras previstas na Lei de Acesso à Informação (Lei 12.527/2011 - LAI)
 alcançam todos os entes
@@ -162,7 +155,6 @@ da entidade?
 
 A resposta é outro não!
 
-
 As atividades de uma entidade privada podem envolver recursos públicos
 e também recursos
 próprios (natureza privada). Dessa forma, o legislador deixou claro que as
@@ -179,7 +171,6 @@ Vejam a questão abaixo sobre o alcance da LAI que acabamos de estudar:
 
 r ..
 
-
 |
 
 i SLU DF/Modernização da Gestão das Atividades de Resíduos Sólidos/2019
@@ -189,7 +180,6 @@ i
 
 = Gabarito (Errada).
 =
-
 
 DISPoSIçõES GERAIS
 
@@ -202,7 +192,6 @@ Definições
 INCIDÊNCIA EM PROVA: MÉDIA
 
 O art. 4o da LAI prevê importantes definições, a saber:
-
 
 informação
 documento
@@ -241,14 +230,11 @@ Uma destas definições foi cobrada na seguinte questão:
 
 r
 
-
 ..
 ..
-
 
 í DPE RJ/Ciências Contábeis/2019
 j
-
 
 I
 
@@ -261,7 +247,6 @@ algumas qualidades que devem caracterizar a informação pública.
 : Uma dessas é a autenticidade, que se refere à qualidade da informação:
 
 = a) que pode ser conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados;
-
 
 b) que tenha sido produzida, expedida, recebida ou modificada por determinado
 indivíduo, equipamento
@@ -278,14 +263,12 @@ Apesar de não constar expressamente das definições legais, é essencial
 que saibamos diferenciar
 o cerne dos conceitos de "transparência ativa" e "transparência passiva":
 
-
 r ativa
 passiva
 divulgação independentemente de
 solicita çã o
 divulgação após solicitação do
 particular
-
 
 Diretrizes do acesso à informação
 
@@ -296,7 +279,6 @@ acesso à informação, os entes
 públicos observem os princípios básicos da Administração e as seguintes diretrizes (art. 3o):
 
 1) Publicidade vs. sigilo
-
 
 Vale frisar que a publicidade constitui a regra geral, sendo o sigilo
 hipótese excepcional (art. 3o,
@@ -309,7 +291,6 @@ alegado para proteção da
 segurança da sociedade e do Estado, bem como defesa da intimidade ou
 interesse social (CF, art.
 5o, XXXIII e LX):
-
 
 informação gerada ou
 custodiada pela
@@ -357,7 +338,6 @@ Tribunal de Contas em resposta a uma requisição de auditoria (informação
 passa a ser custodiada pelo
 TCU).
 
-
 Reparem que elevem ser divulgadas - sem solicitação prévia - no mínimo
 estas informações acima
 detalhadas, o que não impede a divulgação "ativa" de outros dados.
@@ -394,7 +374,6 @@ Outra observação importante diz respeito ao meio de divulgação ativa destas 
 2 No âmbito do Judiciário, por exemplo, a divulgação individualizada das
 remunerações é determinada
 pela Resolução CNJ 151/2012.
-
 
 Segundo a LAI, tal divulgação ativa deve ser realizada em "todos
 os meios e instrumentos
@@ -454,7 +433,6 @@ por via
 
 = eletrônica ou telefônica, com o órgão ou entidade detentora do sítio; e
 
-
 VIII - adotar as medidas necessárias para garantir a acessibilidade de
 conteúdo para
 pessoas com deficiência, nos termos do art. 17 da Lei n^ 10.098, de 19 de dezembro
@@ -499,7 +477,6 @@ Nesse sentido, os entes federativos disponibilizarão a qualquer pessoa, física
 ou jurídica, o acesso
 a informações referentes a (art. 48-A):
 
-
 i I - quanto à despesa: todos os atos praticados pelas unidades gestoras no decorrer da i
 execução da despesa, no momento de sua realização, com a disponibilização mínima dos
 
@@ -513,18 +490,15 @@ unidades ;
 
 : gestoras, inclusive referente a recursos extraordinários.
 
-
 O acesso à informação
 
 INCIDÊNCIA EM PROVA: BAIXA
-
 
 A todo momento estamos mencionando o direito ao "acesso à informação". De
 modo a definir o
 significado desta expressão, o art. 7o da LAI dispõe que tal acesso
 compreende o direito de o
 administrado a obter, entre outros, o seguinte:
-
 
 </)
 
@@ -602,7 +576,6 @@ FUNDO!
 Imagine a seguinte situação: temos um processo administrativo com 10 peças (ato de
 abertura, portaria de designação da comissão, diligências efetuadas etc).
 
-
 A qualquer momento o público em geral poderá ter acesso ao
 conteúdo deste processo? Como
 regra geral, a resposta é não!
@@ -616,7 +589,6 @@ que seu conteúdo poderá
 ser acessado pelos particulares em geral (caso o processo não tenha
 sido classificado como
 sigiloso).
-
 
 Seguindo adiante,
 mediante (art. 9o):
@@ -632,7 +604,6 @@ acesso à informação e dar informações sobre a tramitação destes pedidos.
 Além dos mencionados instrumentos, o legislador previu que os órgãos
 e entidades do poder
 público devem assegurar o seguinte:
-
 
 propiciando amplo acesso e
 sua divulgação
@@ -668,7 +639,6 @@ obrigatória a divulgação na internet
 
 SALVO municípios de até 10.000 habit.
 
-
 PRoCEDIMENTo DE ACESSo À INFoRMAçÃo
 
 Vimos, acima, que uma série de informações devem ser disponibilizadas
@@ -676,7 +646,6 @@ ao público em geral
 independentemente de solicitação. Por outro lado, aquelas que não
 estiverem disponibilizadas,
 poderão ser solicitadas pelos interessados, o que nos leva ao presente tópico da aula.
-
 
 Pedido de acesso à informação
 
@@ -718,7 +687,6 @@ necessita da informação para o propósito A ou B.
 Como regra geral, o pedido de acesso à informação disponível deve ser
 concedido ou autorizado
 de imediato.
-
 
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
@@ -785,7 +753,6 @@ Por outro lado, se o solicitante fizer "declaração de pobreza" (Lei
 7.115/1983), estará isento de
 ressarcir os respectivos custos.
 
-
 > Indeferimento do pedido de acesso à informação
 
 Quando o órgão público negar o pedido de acesso à informação solicitada (em
@@ -803,7 +770,6 @@ sujeito a medidas
 disciplinares:
 
 r-*
-
 
 ,
 
@@ -832,7 +798,6 @@ recurso (art. 11, § 4o).
 
 Se o poder público alegar que a informação solicitada pelo interessado foi extraviada:
 
-
 Art. 79, § 59 Informado do extravio da informação solicitada, poderá 0 interessado requerer i
 à autoridade competente a imediata abertura de sindicância para apurar 0 ;
 
@@ -847,7 +812,6 @@ Ainda quanto ao extrativo, a LAI prevê que o responsável tenha o prazo de
 10 dias para comprovar
 o referido extravio:
 
-
 i § 6- Verificada a hipótese prevista no § 5° deste artigo, o responsável pela
 guarda da i
 
@@ -860,7 +824,6 @@ sem inviabilizar a
 solicitação
 extravio interessado pode requerer
 abertura de sindicância
-
 
 Recurso
 
@@ -901,7 +864,6 @@ da ciência da decisão (art. 16, § 3o).
 
 Um dos aspectos da sistemática de recursos da LAI foi exigido na seguinte questão:
 
-
 .
 
 í SLU DF/Modernização da Gestão das Atividades de Resíduos Sólidos/2019
@@ -924,7 +886,6 @@ Pela clareza, permito-me recorrer ao seguinte diagrama elaborado pelo governo fe
 3Disponível em <http://www.acessoainformacao.gov.br/central-de-
 conteudo/infograficos/arquivos/recursos-passo-a-passo/recursos-passo-a-passo>
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concuri
 - Prof. Antonio Daud
 
@@ -935,7 +896,6 @@ fornecida O REQUERENTE TEM IO DIAS PARA
 ENTRAR COM RECURSOS, a partir da data de
 resposta do órgão
 
-
 RESPOSTA
 DO ÓRGÃO
 
@@ -943,7 +903,6 @@ Informação pública
 não fornecida
 
 NEGATIVA
-
 
 CHEFE pO
 RESPONSÁVEL
@@ -965,7 +924,6 @@ Caso o recurso não seja atendido, o requerente tem
 direito até 10 dias após decisão para entrar com
 
 Recurso à Autoridade Máxima
-
 
 MAXIMA
 
@@ -991,7 +949,6 @@ fcisão, para entr
 
 Lkcom RECURSO.
 
-
 A CGU tem
 
 5 DIAS
@@ -1011,7 +968,6 @@ negativa da CGU. para entrar
 com RECURSO direcionado à
 Comissão Mista de Reavaliação
 de Informações - CRMI
-
 
 em
 áfíbfta inAfaneia
@@ -1033,7 +989,6 @@ desclassificação ou reavaliação de informação
 classificada;
 
 CURIOSIDADE
-
 
 Abro um parêntese para destacar que a mencionada Comissão Mista
 de Reavaliação de
@@ -1098,7 +1053,6 @@ Administração sejam públicas. No entanto, há hipóteses em que a
 informação será resguardada
 por sigilo, restringindo seu acesso.
 
-
 Nesse sentido, estudaremos nesta seção as situações em que o acesso
 à informação será
 restringido, abordando as hipóteses legais de sigilo, a classificação da
@@ -1124,7 +1078,6 @@ segredo industrial
 decorrentes da exploração direta de atividade econômica pelo Estado ou
 por pessoa física ou
 entidade privada que tenha qualquer vínculo com o poder público (art. 22).
-
 
 É importante destacar que o sigilo não será eterno! A restrição de
 acesso gera efeitos
@@ -1157,7 +1110,6 @@ Reparem que tais prazos são contados a partir da produção da informação.
 Vejam a questão abaixo a este respeito:
 
 r
-
 
 I
 
@@ -1219,7 +1171,6 @@ Nos termos do art. 27 da LAI, a competência para classificação da
 informação dependerá do
 respectivo grau de sigilo, encontrando-se distribuída da seguinte forma:
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
@@ -1256,7 +1207,6 @@ e motivado, o qual
 deverá conter, no mínimo, os seguintes elementos (art. 28):
 
 / - assunto sobre o qual versa a informação;
-
 
 II - fundamento da classificação;
 
@@ -1303,7 +1253,6 @@ estabelece a publicidade
 como regra geral para os atos da Administração Pública, o
 constituinte resguardou o sigilo das
 informações pessoais.
-
 
 Nesse sentido, a LAI reforçou tal proteção prevendo que o tratamento
 das informações pessoais
@@ -1361,7 +1310,6 @@ Há, ainda, mais duas interessantes exceções à regra do sigilo das informaç�
 
 a) na apuração de irregularidades em que seu titular estiver envolvido
 b) recuperação de fatos históricos de maior relevância
-
 
 Nesse sentido, a LAI prevê que a restrição de acesso às informações
 pessoais não poderá ser
@@ -1423,7 +1371,6 @@ RESPoNSABILIDADES DoS AGENTES PÚBLICoS
 
 INCIDÊNCIA EM PROVA: MEDIA
 
-
 Para assegurar o cumprimento de suas regras, a LAI tipificou condutas
 ilícitas que podem ensejar
 a responsabilidade administrativa dos agentes envolvidos, resultando na
@@ -1450,7 +1397,6 @@ administrativa ou crime
 de responsabilidade, o agente público estará sujeito às sanções da
 Lei 8.429/1992 ou da Lei
 1.079/1950.
-
 
 Notem que não apenas agentes públicos estarão sujeitos às sanções da
 Lei de Acesso à
@@ -1501,7 +1447,6 @@ ensejará o direito de regresso contra o agente público responsável, nos
 termos do art. 37, §6°, da
 CF.
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
@@ -1524,7 +1469,6 @@ direito de regresso =
 
 = Gabarito (certo)
 =
-
 
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
@@ -1552,22 +1496,19 @@ www.facebook.com/professordaud
 
 RESUMo
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 obrigatória a divulgação na internet
 
 SALVO municípios de até 10.000 habit.
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 tratamento médico
 
-
 QUESTõES CoMENTADAS
 
-Item. 1. FGV - CGE SC/Auditor do Estado/2023
+1. FGV - CGE SC/Auditor do Estado/2023
 
 A Lei de Acesso à Informação (LAI) regula as condições, processos
 e procedimentos para a
@@ -1613,7 +1554,6 @@ Quanto às alternativas (A), (C) e (D), estão incorretas, visto que são
 várias outras as possibilidades
 de recurso à CGU:
 
-
 i
 
 Art. 16. Negado o acesso a informação pelos órgãos ou entidades do Poder Executivo i
@@ -1634,7 +1574,6 @@ a quem ;
 : possa ser dirigido pedido de acesso ou desclassificação;
 j
 
-
 III - os procedimentos de classificação de informação sigilosa estabelecidos nesta Lei não
 tiverem sido observados; e
 
@@ -1652,7 +1591,7 @@ inc. I e II, art. 16 da LAI, expostos acima.
 
 Gabarito (E)
 
-Item. 2. FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+2. FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
 
 A informação em poder dos órgãos e entidades públicas, observado o seu teor
 e em razão de sua
@@ -1690,7 +1629,6 @@ desde que expressamente
 autorizada pela autoridade que decretou o sigilo.
 
 Comentários:
-
 
 Questão sobre o critério de classificação do sigilo das informações. Lembrem-se
 que a LAI possui
@@ -1733,7 +1671,6 @@ liberação da informação, sendo a alternativa (E) incorreta e a alternativa (
 
 r*
 
-
 ,
 
 Art. 24, § 45 Transcorrido 0 prazo de classificação ou consumado 0 evento que defina 0 seu
@@ -1749,7 +1686,7 @@ I
 
 Gabarito (C)
 
-Item. 3. FGV - AJ TRT13/TRT 13/Administrativa/Contabilidade/2022
+3. FGV - AJ TRT13/TRT 13/Administrativa/Contabilidade/2022
 
 De acordo com a Lei 12.527/2011, a autenticidade representa a qualidade da informação
 a) que não foi modificada, inclusive quanto à origem, trânsito e destino.
@@ -1761,7 +1698,6 @@ c) conhecida e utilizada por indivíduos, equipamentos ou sistemas autorizados.
 d) produzida, expedida, recebida ou modificada por determinado
 indivíduo, equipamento ou
 sistema.
-
 
 e) submetida temporariamente à restrição de acesso público em razão
 de sua imprescindibilidade
@@ -1820,17 +1756,15 @@ Por fim, a alternativa (E) está incorreta, pois retrata o conceito de
 informação sigilosa, conforme o
 inc. III do art. 4o da Lei 12.527/2011.
 
-
 = Art. 4- Para os efeitos desta Lei, considera-se:
 i
-
 
 III - informação sigilosa: aquela submetida temporariamente à restrição de acesso público
 em razão de sua imprescindibilidade para a segurança da sociedade e do Estado;
 
 Gabarito (D)
 
-Item. 4. VUNESP - Ana Leg (ALESP)/ALESP/Gestão de Projetos/2022
+4. VUNESP - Ana Leg (ALESP)/ALESP/Gestão de Projetos/2022
 
 A Lei n9 12.527, de 18/11/2011, conhecida como Lei de Acesso à Informação, dispõe
 sobre os procedimentos
@@ -1879,7 +1813,7 @@ acima.
 
 Gabarito (E)
 
-Item. 5. VUNESP - Ana Leg (ALESP)/ALESP/História/2022
+5. VUNESP - Ana Leg (ALESP)/ALESP/História/2022
 
 Cabe aos órgãos e às entidades do poder público, observadas as normas e os
 procedimentos específicos
@@ -1893,7 +1827,6 @@ a) Lei Federal n^ 13.709 de agosto de 2018 - Lei Geral de Proteção de Dados Pe
 b) Lei Federal n^ 8.159 de 8 de janeiro de 1991 - Lei dos Arquivos.
 
 c) Lei Federal n^ 12.527 de 18 de novembro de 2011 - Lei de Acesso à Informação.
-
 
 d) Lei Federal nQ 11.419 de 19 de dezembro de 2006 - Lei da Informatização do Processo Judicial.
 
@@ -1923,7 +1856,7 @@ Portanto, a alternativa (C) está correta.
 
 Gabarito (C)
 
-Item. 6. FCC - TJ TRT23/TRT 23/Administrativa/2022
+6. FCC - TJ TRT23/TRT 23/Administrativa/2022
 
 De acordo com o que dispõe a Lei no 12.527/2011, que disciplina o acesso à informação, considera-se
 a) integralidade a qualidade da informação que pode ser conhecida e utilizada por
@@ -1961,7 +1894,6 @@ Preliminarmente, a alternativa (A) está incorreta. A assertiva traz
 a definição do atributo
 "disponibilidade":
 
-
 i VI - disponibilidade: qualidade da informação que pode ser conhecida e
 utilizada por i
 
@@ -1970,13 +1902,11 @@ utilizada por i
 
 h
 
-
 Da mesma forma, a alternativa (B) está incorreta. É trazido a definição de
 integridade (diferente
 de integralidade, mencionada na assertiva (A)).
 
 *
-
 
 ..
 
@@ -1986,7 +1916,6 @@ i trânsito e destino;
 ;
 
 L
-
 
 ..
 
@@ -2007,16 +1936,13 @@ máximo de
 
 h...
 
-
 A alternativa (D) está correta. Nesse caso, não é uma qualidade de
 informação, mas sim um
 processo de transformação de dados, a fim de facilitar a sua interpretação.
 Também é definido no
 bojo do art. 4o da Lei 12.527/2011.
 
-
 *
-
 
 i
 i V - tratamento da informação: conjunto de ações referentes à produção,
@@ -2035,7 +1961,6 @@ Por fim, a alternativa (E) está incorreta, visto que se trata da definição de
 
 r**
 
-
 i
 i VII - autenticidade: qualidade da informação que tenha sido produzida, expedida,
 recebida i
@@ -2048,10 +1973,9 @@ L
 
 ..
 
-
 Gabarito (D)
 
-Item. 7. FCC - AJ TRT23/TRT 23/Judiciária/2022
+7. FCC - AJ TRT23/TRT 23/Judiciária/2022
 
 De acordo com o que dispõe a Lei no 12.527/2011, que disciplina o acesso à informação,
 
@@ -2077,7 +2001,6 @@ d) informado do extravio da informação solicitada, poderá o interessado reque
 autoridade competente
 a imediata abertura de sindicância para apurar o desaparecimento da respectiva documentação.
 
-
 e) negado o acesso à informação pelos órgãos ou entidades do Poder Executivo Federal,
 o requerente poderá
 recorrer à Advocacia-Geral da União, que deliberará no prazo de 10 dias.
@@ -2097,7 +2020,6 @@ Poder Executivo Federal).
 Quais órgãos participam da decisão recursal dependem do tipo do
 pedido realizado pelo
 requerente.
-
 
 Art. 15. No caso de indeferimento de acesso a informações ou às razões da negativa do
 
@@ -2148,7 +2070,6 @@ Perceba que o legislador traz somente dois requisitos, quais sejam:
 
 i)identificação do requerente;
 
-
 ii) especificação do pedido.
 
 Portanto, perceba que a motivação não é um requisito para o
@@ -2156,7 +2077,6 @@ pedido, sendo sua exigência
 inclusive expressamente vedada pelo legislador, no § 3o desse mesmo artigo:
 
 r**
-
 
 ..
 
@@ -2167,7 +2087,6 @@ solicitação i
 j
 
 L
-
 
 ..
 
@@ -2217,7 +2136,7 @@ Controladoria-Geral da j
 
 Gabarito (D)
 
-Item. 8. FCC - Tec GP (PGE AMJ/PGE AM/Controle lnterno/2022
+8. FCC - Tec GP (PGE AMJ/PGE AM/Controle lnterno/2022
 
 Um jornalista comparece por dias seguidos a uma repartição pública do Serviço Municipal
 de Obras, para
@@ -2302,11 +2221,9 @@ i tecnológico, assim como a sistemas, bens, instalações ou áreas de interess
 
 : nacional;
 
-
 / 118
 
 /
-
 
 VII - pôr em risco a segurança de instituições ou de altas autoridades nacionais ou
 estrangeiras e seus familiares; ou
@@ -2322,7 +2239,7 @@ adentrando no conceito de informação pessoal que pode ser restringindo em cert
 
 Gabarito (B)
 
-Item. 9. FGV/SEFAZ-ES-Auditor-2021
+9. FGV/SEFAZ-ES-Auditor-2021
 
 O Estado Alfa, com base em norma estadual, publicou em seu sítio eletrônico
 na internet a relação
@@ -2370,7 +2287,6 @@ intimidade da servidora, conforme princípios da razoabilidade e da proporcional
 
 Comentários:
 
-
 A questão cobrou entendimento do Supremo quanto à divulgação da remuneração
 dos servidores
 públicos, de maneira individualizada. Assim, lembro que a
@@ -2378,7 +2294,6 @@ jurisprudência brasileira considera
 legítima a divulgação eletrônica do valor das remunerações dos
 servidores de forma
 individualizada, sem que isto viole a intimidade dos servidores públicos:
-
 
 i
 i É legítima a publicação, inclusive em sítio eletrônico mantido pela administração
@@ -2393,7 +2308,7 @@ Portanto, alternativa (A) está correta e transcreve parcialmente a tese acima t
 
 Gabarito (A)
 
-Item. 10. FGV/TCE-AM - Auditor - 2021
+10. FGV/TCE-AM - Auditor - 2021
 
 Assegurar o direito fundamental de acesso à informação se inclui
 entre as boas práticas de
@@ -2421,7 +2336,6 @@ informação, os entes públicos observem os princípios básicos da
 Administração e as seguintes
 diretrizes:
 
-
 Dito isto, observo que as alternativas (A), (B), (D) e (E) mencionam
 corretamente diretrizes acima
 destacadas.
@@ -2431,7 +2345,6 @@ de acesso à informação
 precisa conter apenas a identificação do solicitante e a indicação da
 informação que ele está
 solicitando, sendo vedado exigir justificativas do pedido:
-
 
 *
 *
@@ -2456,7 +2369,7 @@ solicitação j
 
 Gabarito (C)
 
-Item. 11. FGV/TCE-AM - Auditor - 2021
+11. FGV/TCE-AM - Auditor - 2021
 
 A Secretaria de Segurança Pública do Amazonas considerou
 imprescindíveis à segurança da
@@ -2475,7 +2388,6 @@ mencionado relatório foi classificado quanto ao grau de sigilo como informaçã
 De acordo com a Lei Federal n° 12.527/2011, o prazo máximo de
 restrição de acesso a tal
 informação reservada é de:
-
 
 (A) um ano e, transcorrido esse prazo ou consumado o evento que definiu
 o seu termo final, a
@@ -2511,7 +2423,7 @@ mencionado na alternativa
 
 Gabarito (C)
 
-Item. 12. FGV/TCE-AM - Auditor TI - 2021
+12. FGV/TCE-AM - Auditor TI - 2021
 
 A Lei de Acesso à Informação estabelece que é dever dos órgãos e
 entidades públicas promover,
@@ -2524,7 +2436,6 @@ sendo obrigatória a divulgação por meio da internet.
 Nesse contexto, a citada Lei n° 12.527/2011 dispõe que os sítios
 oficiais da rede mundial de
 computadores deverão, na forma de regulamento, atender, entre outros, ao seguinte requisito:
-
 
 A atualizar, com periodicidade semanal, as informações disponíveis
 para acesso, inclusive
@@ -2557,7 +2468,7 @@ entes públicos, sendo
 obrigatória a divulgação em sítios oficiais na internet (art. 8o, § 2o),
 exceto para municípios de até
 
-Item. 10.000 habitantes (art. 8o, § 4o). Para tais página na internet, o
+10.000 habitantes (art. 8o, § 4o). Para tais página na internet, o
 legislador chegou a prever
 requisitos mínimos de funcionamento, da seguinte forma:
 
@@ -2586,7 +2497,6 @@ VI - manter atualizadas as informações disponíveis para acesso;
 VII - indicar local e instruções que permitam ao interessado comunicar-se,
 por via
 eletrônica ou telefônica, com o órgão ou entidade detentora do sítio; e
-
 
 VIII - adotar as medidas necessárias para garantir a acessibilidade de
 conteúdo para
@@ -2620,7 +2530,7 @@ de modo a facilitar a análise das informações (inciso II).
 
 Gabarito (C)
 
-Item. 13. VUNESP/CREFITO-Fiscal-2020
+13. VUNESP/CREFITO-Fiscal-2020
 
 Segundo o disposto na Lei de Acesso à Informação (Lei no 12.527/11), na
 hipótese de um interessado
@@ -2651,7 +2561,6 @@ na Lei e o interessado deverá ser indenizado.
 
 Comentários:
 
-
 A questão exigiu conhecimento do parágrafo 5Q, artigo 79, da Lei 12.527/11, que prevê
 a situação de extravio
 de documentos.
@@ -2664,7 +2573,6 @@ apurar este desaparecimento:
 
 r
 
-
 ; § 5Q Informado do extravio da informação solicitada, poderá 0 interessado
 requerer à i
 
@@ -2676,7 +2584,7 @@ j
 
 Gabarito (D)
 
-Item. 14. VUNESP - ESEF Jundiaí/2019
+14. VUNESP - ESEF Jundiaí/2019
 
 Para os efeitos da Lei de Acesso à Informação, Lei Federal ne 12.527/2011, considera-se
 "primariedade":
@@ -2722,12 +2630,10 @@ j
 ..
 ..
 
-
 A letra (b) refere-se ao conceito de autenticidade previsto no inciso VII do art. 49 da lei
 12.527/2011:
 
 r
-
 
 T
 
@@ -2748,7 +2654,6 @@ A letra (c) está incorreta, pois mais se assemelha ao conceito de informação 
 previsto no inciso III do
 art. 4^ da lei 12.527/2011:
 
-
 .
 
 i III - informação sigilosa: aquela submetida temporariamente à restrição de acesso público i
@@ -2760,7 +2665,6 @@ gur.a..n..ç..ad..a...s..o..c..i.e..d..a..d..e...e. ...d..o...E...s..t.a..d.o..;
 A letra (d) está incorreta, uma vez que tal definição se refere a tratamento da
 informação, de acordo com o
 inciso V do art. 4Q da lei 12.527/2011:
-
 
 i V - tratamento da informação: conjunto de ações referentes à produção,
 recepção, i
@@ -2774,14 +2678,12 @@ da ;
 
 A letra (e) está correta, nos exatos termos do inciso IX do art. 4? da lei 12.527/2011:
 
-
 * .
 
 Art. 4^ Para os efeitos desta Lei, considera-se:
 i
 
 I
-
 
 I
 
@@ -2793,7 +2695,7 @@ j
 
 Gabarito (E)
 
-Item. 15. Quadrix /Assistente Administrativo Júnior (CRESS SC) /2019
+15. Quadrix /Assistente Administrativo Júnior (CRESS SC) /2019
 Quanto à Lei n.° 12.527/2011, julgue o item.
 
 É dever do Estado garantir o direito de acesso à informação, que
@@ -2820,13 +2722,12 @@ j
 
 Gabarito (C)
 
-Item. 16. Quadrix /Agente Fiscal (CRESS SC) /2019
+16. Quadrix /Agente Fiscal (CRESS SC) /2019
 Quanto à Lei n.° 12.527/2011, julgue o item.
 
 É restrito o acesso às informações que versem sobre condutas que impliquem
 violação dos direitos
 humanos praticada por agentes públicos.
-
 
 Comentários:
 
@@ -2842,7 +2743,7 @@ Portando, o item está errado.
 
 Gabarito (E)
 
-Item. 17. Quadrix /Assistente Administrativo (CONRERP 2 (SP PR)) /2019
+17. Quadrix /Assistente Administrativo (CONRERP 2 (SP PR)) /2019
 A partir da Lei n.° 12.527/2011 e do Decreto n.° 7.724/2011, julgue o item.
 
 Qualquer interessado poderá pedir acesso a informações aos órgãos
@@ -2857,7 +2758,6 @@ O item transcreve o art. 10, §3°, da Lei 12.527/2011:
 
 r""""
 
-
 ,
 
 i § 3Q São vedadas quaisquer exigências relativas aos motivos determinantes da
@@ -2868,14 +2768,13 @@ solicitação i
 
 L
 
-
 J
 
 Logo, a questão está correta.
 
 Gabarito (C)
 
-Item. 18. Quadrix /Assistente Administrativo (CONRERP 2 (SP PR)) /2019
+18. Quadrix /Assistente Administrativo (CONRERP 2 (SP PR)) /2019
 A partir da Lei n.° 12.527/2011 e do Decreto n.° 7.724/2011, julgue o item.
 
 O acesso à informação classificada como sigilosa obriga aquele que a obteve a resguardar o sigilo.
@@ -2886,7 +2785,6 @@ Comentários:
 de o custodiante da
 informação preservar seu sigilo:
 
-
 t
 i § 25 O acesso à informação classificada como sigilosa cria a obrigação para aquele
 que a i
@@ -2896,11 +2794,9 @@ que a i
 
 h
 
-
 Gabarito (C)
 
-
-Item. 19. CEBRASPE/ IPHAN - Auxiliar Institucional - Área 2 - 2018
+19. CEBRASPE/ IPHAN - Auxiliar Institucional - Área 2 - 2018
 
 A política de acesso aos documentos de arquivo no Brasil é
 recente, tendo sua normatização
@@ -2920,7 +2816,6 @@ em caso de negativa de acesso a documento:
 
 r
 
-
 **
 
 Art. 15. No caso de indeferimento de acesso a informações ou às razões da negativa
@@ -2939,7 +2834,7 @@ superior à que j
 
 Gabarito (E)
 
-Item. 20. CEBRASPE/IFF-Arquivista-2018
+20. CEBRASPE/IFF-Arquivista-2018
 
 O prazo máximo de restrição de acesso para documentos classificados como ultrassecretos é de
 a) cinco anos.
@@ -2958,13 +2853,12 @@ A letra (e) está correta, nos termos do inciso I do §1° do art. 24 da
 lei 12.527/2011, adiante
 sintetizado:
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
 Gabarito (E)
 
-Item. 21. CEBRASPE/IFF-Arquivista-2018
+21. CEBRASPE/IFF-Arquivista-2018
 
 A classificação do grau de sigilo secreto para um documento compete a
 a) titulares de fundações.
@@ -2983,14 +2877,11 @@ A competência para classificação dos graus de sigilo está disciplinada no
 art. 27 da LAI, adiante
 sintetizado:
 
-
 Presidente da República + Vice
-
 
 .
 
 Ministros de Estado (e autoridades com
-
 
 / '
 competência p/
@@ -3010,7 +2901,6 @@ Consulares permanentes no exterior
 autoridades mencionadas acima
 secreto
 .
-
 
 sigilo
 
@@ -3045,7 +2935,6 @@ titulares de i
 
 L
 
-
 Quanto à letra (b), incorreta, lembro que aqueles que exercem função de
 direção têm competência
 para classificação do sigilo apenas no grau reservado, conforme inciso
@@ -3068,14 +2957,13 @@ j
 
 Gabarito (A)
 
-Item. 22. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
+22. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
 
 Com base na legislação que trata do acesso a documentos, julgue o item seguinte.
 
 Todos têm direito à informação, entretanto os órgãos públicos
 só deverão dar acesso às
 informações que sejam solicitadas por via do setor de protocolo e arquivo.
-
 
 Comentários:
 
@@ -3103,7 +2991,7 @@ outras formas de divulgação.
 
 Gabarito (E)
 
-Item. 23. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
+23. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
 
 Com base na legislação que trata do acesso a documentos, julgue o item seguinte.
 
@@ -3129,15 +3017,13 @@ k ..
 
 ..
 
-
 ..
 
 Gabarito (C)
 
-Item. 24. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
+24. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
 
 Com base na legislação que trata do acesso a documentos, julgue o item seguinte.
-
 
 O prazo máximo de classificação de sigilo da informação como reservada é de quinze anos.
 
@@ -3149,7 +3035,7 @@ informação reservada
 
 Gabarito (E)
 
-Item. 25. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
+25. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
 
 Com base na legislação que trata do acesso a documentos, julgue o item seguinte.
 
@@ -3163,7 +3049,6 @@ A afirmação está certa, dado que contempla o disposto no inciso IV do art. 7o
 
 r*"" *
 
-
 i
 
 Art. 75 O acesso à informação de que trata esta Lei compreende, entre outros, os direitos i
@@ -3176,10 +3061,9 @@ Aproveito para sintetizar todas as diretrizes do art. 7o:
 
 Gabarito (C)
 
-Item. 26. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
+26. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
 
 Com base na legislação que trata do acesso a documentos, julgue o item seguinte.
-
 
 Informações pessoais são de acesso restrito e são classificadas como ultrassecretas.
 
@@ -3208,7 +3092,7 @@ legalmente autorizados e à pessoa a que elas se referirem; e
 
 Gabarito (E)
 
-Item. 27. CEBRASPE/ TRE-BA - Técnico Judiciário - Segurança Judiciária - 2017
+27. CEBRASPE/ TRE-BA - Técnico Judiciário - Segurança Judiciária - 2017
 
 A respeito do grau de sigilo e do tempo para desclassificação das
 informações de documentos
@@ -3228,12 +3112,11 @@ Comentários:
 
 Mais uma questão cobrando os prazos previstos no §1° do art. 24 da lei 12.527/2011:
 
-
 Assim, a letra (c) está correta.
 
 Gabarito (C)
 
-Item. 28. CEBRASPE/ SEDF - Técnico de Gestão Educacional - Apoio Administrativo - 2017
+28. CEBRASPE/ SEDF - Técnico de Gestão Educacional - Apoio Administrativo - 2017
 Com base na legislação arquivística, julgue o próximo item.
 
 A Lei n.° 8.159/1991 estabelece categorias de sigilo para documentos.
@@ -3250,7 +3133,7 @@ a edição da LAI.
 
 Gabarito (E)
 
-Item. 29. CEBRASPE/SEDF - Analista de Gestão Educacional - Arquivologia - 2017
+29. CEBRASPE/SEDF - Analista de Gestão Educacional - Arquivologia - 2017
 
 Acerca das políticas de acesso aos documentos de arquivo, pautadas
 pela Lei de Acesso à
@@ -3270,8 +3153,7 @@ secreto e reservado).
 
 Gabarito (C)
 
-
-Item. 30. CEBRASPE/ANVISA - Técnico Administrativo - 2016
+30. CEBRASPE/ANVISA - Técnico Administrativo - 2016
 
 A respeito da gestão de documentos e do acesso à informação, julgue o item a seguir.
 
@@ -3293,7 +3175,7 @@ III - reservada: 5 (cinco) anos.
 
 Gabarito (C)
 
-Item. 31. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
+31. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
 
 Com base na Lei de Acesso à Informação (Lei n.° 12.257/2011), julgue o
 item a seguir, a respeito
@@ -3328,8 +3210,7 @@ Executivo, j
 = Legislativo, incluindo as Cortes de Contas, e Judiciário e do Ministério Público;
 Gabarito (E)
 
-Item. 32. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
-
+32. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
 
 Com base na Lei de Acesso à Informação (Lei n.° 12.257/2011), julgue o
 item a seguir, a respeito
@@ -3357,7 +3238,7 @@ requerer à
 
 Gabarito (C)
 
-Item. 33. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
+33. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
 
 Com base na Lei de Acesso à Informação (Lei n.° 12.257/2011), julgue o
 item a seguir, a respeito
@@ -3382,7 +3263,7 @@ Constituição
 
 Gabarito (C)
 
-Item. 34. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
+34. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
 
 Com base na Lei de Acesso à Informação (Lei n.° 12.257/2011), julgue o
 item a seguir, a respeito
@@ -3391,7 +3272,6 @@ das políticas de acesso aos documentos de arquivo.
 Os documentos de arquivo que contenham informações pessoais
 relativas a intimidade, vida
 privada, honra e imagem terão seu acesso restrito de acordo com a classificação de sigilo.
-
 
 Comentários:
 
@@ -3424,7 +3304,7 @@ j
 
 Gabarito (E)
 
-Item. 35. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
+35. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
 
 Com base na Lei de Acesso à Informação (Lei n.° 12.257/2011), julgue o
 item a seguir, a respeito
@@ -3440,7 +3320,6 @@ A assertiva está correta, uma vez que apresenta os termos da redação do
 caput do art. 21 da lei
 12.527/2011:
 
-
 *
 *
 
@@ -3452,7 +3331,7 @@ Art. 21. Não poderá ser negado acesso à informação necessária à tutela ju
 
 Gabarito (C)
 
-Item. 36. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
+36. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
 
 A respeito das políticas públicas de arquivo, julgue o item a seguir.
 
@@ -3462,12 +3341,9 @@ de acesso.
 
 Comentários:
 
-
 Mais uma, para não errarmos este tipo de questão:
 
-
 **
-
 
 **
 
@@ -3484,7 +3360,7 @@ j
 
 Gabarito (C)
 
-Item. 37. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
+37. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
 
 Com base na legislação federal em vigor, julgue o item a seguir, relativo
 à política de acesso aos
@@ -3496,9 +3372,7 @@ Comentários:
 
 O item está de acordo com a definição apresentada no inciso III do art. 4o da lei 12.527/2011:
 
-
 * .
-
 
 Art. 4^ Para os efeitos desta Lei, considera-se: (..)
 i
@@ -3509,7 +3383,7 @@ público ;
 
 Gabarito (C)
 
-Item. 38. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
+38. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
 
 Com base na legislação federal em vigor, julgue o item a seguir, relativo
 à política de acesso aos
@@ -3525,7 +3399,6 @@ A assertiva está errada, uma vez que, de acordo com o caput do art. 24
 da lei 12.527/2011, não
 há classificação em ostensivo quanto ao grau de sigilo:
 
-
 í Art. 24. A informação em poder dos órgãos e entidades públicas, observado o seu
 teor e i
 
@@ -3533,7 +3406,6 @@ teor e i
 ser =
 
 = classificada como ultrassecreta, secreta ou reservada.
-
 
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
@@ -3552,12 +3424,11 @@ i
 
 L
 
-
 ...
 
 Gabarito (E)
 
-Item. 39. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
+39. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
 
 Com base na legislação federal em vigor, julgue o item a seguir, relativo
 à política de acesso aos
@@ -3576,7 +3447,6 @@ publicação dos itens desclassificados será feita anualmente:
 r ..
 *
 
-
 i
 
 Art. 30. A autoridade máxima de cada órgão ou entidade publicará, anualmente, em sítio
@@ -3591,7 +3461,7 @@ administrativas, j
 
 Gabarito (E)
 
-Item. 40. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
+40. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
 
 Com base na legislação federal em vigor, julgue o item a seguir, relativo
 à política de acesso aos
@@ -3618,7 +3488,6 @@ i
 
 : informação disponível.
 
-
 § 15 Não sendo possível conceder o acesso imediato, na forma disposta no caput, o órgão
 ou entidade que receber o pedido deverá, em prazo não superior a 20 (vinte) dias: (..)
 
@@ -3627,7 +3496,7 @@ justificativa expressa, da qual será cientificado o requerente.
 
 Gabarito (C)
 
-Item. 41. CEBRASPE/ ANTAQ- Técnico Administrativo - 2014
+41. CEBRASPE/ ANTAQ- Técnico Administrativo - 2014
 Julgue o item que se segue, a respeito de arquivologia.
 
 A ANTAQ, dada a sua natureza jurídica, está dispensada de seguir as
@@ -3671,7 +3540,7 @@ Distrito j
 
 Gabarito (E)
 
-Item. 42. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
+42. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
 Com relação à legislação arquivística, julgue o próximo item.
 
 A Lei de Acesso à Informação é aplicável a todas as esferas da administração pública brasileira.
@@ -3680,10 +3549,8 @@ Comentários:
 
 A alternativa está correta, nos termos do art. 1 ° da lei 12.527/2011:
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
-
 
 Art. 12 Esta Lei dispõe sobre os procedimentos a serem observados pela União, Estados,
 i
@@ -3699,7 +3566,7 @@ I
 
 Gabarito (C)
 
-Item. 43. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
+43. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
 Com relação à legislação arquivística, julgue o próximo item.
 
 No Brasil, o maior prazo de restrição de acesso à informação é de 15 anos.
@@ -3716,7 +3583,7 @@ lei 12.527/2011.
 
 Gabarito (E)
 
-Item. 44. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
+44. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
 Com relação à legislação arquivística, julgue o próximo item.
 
 Os órgãos do poder público brasileiro devem garantir a proteção da
@@ -3730,7 +3597,6 @@ Comentários:
 A assertiva está correta, pois apresenta redação compatível com o inciso III
 e o caput do art. 6o da
 lei 12.527/2011:
-
 
 !
 
@@ -3746,8 +3612,7 @@ a sua ;
 
 Gabarito (C)
 
-Item. 45. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
-
+45. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
 
 Em relação às políticas de acesso aos documentos de arquivo, julgue o item que se segue.
 
@@ -3758,7 +3623,6 @@ Comentários:
 Considerando os três graus de sigilo previstos na LAI, podemos concluir que o item está correto:
 
 r------
-
 
 v
 
@@ -3773,7 +3637,7 @@ ser ;
 
 Gabarito (C)
 
-Item. 46. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
+46. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
 
 Em relação às políticas de acesso aos documentos de arquivo, julgue o item que se segue.
 
@@ -3791,7 +3655,7 @@ inclusive quanto à informação reservada.
 
 Gabarito (E)
 
-Item. 47. CEBRASPE/ Polícia Federal - Arquivista - 2014
+47. CEBRASPE/ Polícia Federal - Arquivista - 2014
 
 Acerca das políticas públicas de arquivo e da legislação arquivística, julgue os itens a seguir.
 
@@ -3805,13 +3669,11 @@ A assertiva está correta, sendo previsto no inciso II do art. 7o da lei
 12.527/2011 o direito ao acesso
 à informação contida também em arquivos:
 
-
 = Art. 79 O acesso à informação de que trata esta Lei compreende, entre outros, os
 direitos i
 
 = de obter: (..)
 =
-
 
 II - informação contida em registros ou documentos, produzidos ou acumulados por seus
 órgãos ou entidades, recolhidos ou não a arquivos públicos;
@@ -3824,7 +3686,7 @@ meio de arquivo digital.
 
 Gabarito (C)
 
-Item. 48. CEBRASPE/ Polícia Federal - Arquivista - 2014
+48. CEBRASPE/ Polícia Federal - Arquivista - 2014
 
 No que se refere à análise tipológica e às políticas de acesso aos
 documentos de arquivo, julgue
@@ -3842,7 +3704,7 @@ secreta ou reservada.
 
 Gabarito (C)
 
-Item. 49. CEBRASPE/TRT -17^ Região (ES) - Analista Judiciário - Arquivologia - 2013
+49. CEBRASPE/TRT -17^ Região (ES) - Analista Judiciário - Arquivologia - 2013
 Julgue o item subsequente, acerca das políticas de acesso aos documentos de arquivo.
 
 A lei que trata do acesso à informação no Brasil dispõe sobre essa
@@ -3857,14 +3719,13 @@ federativos, os Poderes Públicos, bem como seus órgãos e entidades.
 
 Gabarito (E)
 
-Item. 50. FGV/ Câmara de Salvador-BA-Analista Legislativo Municipal - Informação Legislativa - 2018
+50. FGV/ Câmara de Salvador-BA-Analista Legislativo Municipal - Informação Legislativa - 2018
 
 Para garantir o acesso à informação, como determina a Lei n° 12.527, de
 18 de novembro de 2011,
 os órgãos devem promover a divulgação de informações de interesse
 público independentemente
 de solicitações.
-
 
 Para isso devem utilizar todos os meios e instrumentos
 legítimos que dispuserem, sendo
@@ -3885,7 +3746,7 @@ Comentários:
 Há algumas informações que devem ser divulgadas independentemente
 de solicitação prévia
 (transparência ativa). Nestes casos, ressalvados os municípios com até
-Item. 10.000 habitantes, tal
+10.000 habitantes, tal
 divulgação deve ocorrer por meio de sítios oficiais na internet:
 
 r
@@ -3908,7 +3769,7 @@ a ;
 
 Gabarito (C)
 
-Item. 51. FGV/CODEMIG-Arquivista-2015
+51. FGV/CODEMIG-Arquivista-2015
 
 Conforme legislação específica, os documentos referentes a
 projetos de pesquisa e
@@ -3926,7 +3787,6 @@ d) divulgação;
 
 e) destruição.
 
-
 Comentários:
 
 Primeiramente, mencione-se que o acesso à informação não compreende os
@@ -3938,7 +3798,6 @@ sociedade e do Estado (Art. 7o, § 1o).
 Nesse sentido, tais projetos podem ser objeto de restrição de acesso, por
 meio da classificação
 em um dos graus de sigilo:
-
 
 Art. 23. São consideradas imprescindíveis à segurança da sociedade ou do
 Estado e, i
@@ -3958,7 +3817,7 @@ estratégico ;
 
 Gabarito (B)
 
-Item. 52. FGV/ TJ-GO - Analista Judiciário - Arquivologia - 2014
+52. FGV/ TJ-GO - Analista Judiciário - Arquivologia - 2014
 
 Segundo as leis de Acesso à Informação Brasileira e Estadual de
 Goiás, as/os informações/
@@ -3984,7 +3843,6 @@ Examinando a questão sob o prisma da lei federal, sabemos que o SIC
 consiste no Sistema de
 Informação ao Cidadão, que é responsável pelo seguinte (art. 9o):
 
-
 /
 X
 
@@ -3992,7 +3850,6 @@ atender e orientar o público quanto ao acesso a
 informações
 
 /------------------------------------------------------
-
 
 serviço de
 informações ao
@@ -4023,7 +3880,6 @@ organizacional
 transparência ativa F
 
 (no mínimo) K
-
 
 '
 X
@@ -4058,12 +3914,11 @@ J
 
 Gabarito (C)
 
-Item. 53. FGV/ Câmara Municipal do Recife-PE - Arquivista - 2014
+53. FGV/ Câmara Municipal do Recife-PE - Arquivista - 2014
 
 O acesso à informação de que trata a Lei n° 12.527, de 18 de novembro
 de 2011, compreende,
 entre outros, os direitos de obter:
-
 
 I - informação contida em registros ou documentos, produzidos ou
 acumulados por seus órgãos
@@ -4093,7 +3948,6 @@ Comentários:
 O Item I está correto, uma vez que apresenta a exata redação do inciso
 II do art. 7o da lei
 12.527/2011:
-
 
 Art. 75 O acesso à informação de que trata esta Lei compreende, entre outros, os
 direitos i
@@ -4130,16 +3984,14 @@ informações secundárias não estão contempladas (mas sim as "primárias"):
 
 r-*
 
-
 í IV - informação primária, íntegra, autêntica e atualizada;
 
 Gabarito (C)
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
-Item. 54. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
+54. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
 
 De acordo com a Lei n. 12.527/11, os prazos máximos de restrição
 de acesso à informação,
@@ -4165,7 +4017,7 @@ da lei 12.527/2011:
 
 Gabarito (D)
 
-Item. 55. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
+55. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
 
 De acordo com a Lei de Acesso à Informação, as informações
 pessoais, independentemente de
@@ -4177,7 +4029,6 @@ b) 30 anos, a contar da data de produção.
 c) 50 anos, a contar da data de produção.
 
 d) 70 anos, a contar da data de produção.
-
 
 e) 100 anos, a contar da data de produção.
 
@@ -4202,7 +4053,7 @@ públicos
 
 Gabarito (E)
 
-Item. 56. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
+56. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
 
 A Comissão Mista de Reavaliação de Informações decidirá, no âmbito da
 administração pública
@@ -4237,7 +4088,6 @@ Reavaliação de Informações prevista no inciso III do §1° do art. 35 da lei
 
 Art. 35. (VETADO).
 
-
 § 19 É instituída a Comissão Mista de Reavaliação de Informações, que decidirá, no
 âmbito
 da administração pública federal, sobre o tratamento e a classificação de
@@ -4253,7 +4103,7 @@ internacionais do País, observado o prazo previsto no § 19 do art. 24.
 
 Gabarito (A)
 
-Item. 57. FCC/ DPE-RS - Analista - Arquivista - 2017
+57. FCC/ DPE-RS - Analista - Arquivista - 2017
 
 De acordo com a Lei n° 12.527/2011 - Lei de Acesso à Informação,
 
@@ -4301,7 +4151,6 @@ A letra (b) está incorreta, uma vez que existe a previsão de
 reavaliação da classificação das
 informações no caput do art. 29 da lei 12.527/2011:
 
-
 Art. 29. A classificação das informações será reavaliada pela autoridade classificadora
 ou i
 
@@ -4320,7 +4169,6 @@ da lei 12.527/2011:
 
 r
 
-
 Art. 31, § 4Q A restrição de acesso à informação relativa à vida privada, honra e imagem de
 i pessoa não poderá ser invocada com o intuito de prejudicar processo de apuração de j
 
@@ -4336,7 +4184,6 @@ de 25 anos - e não
 20 anos:
 
 r*""
-
 
 i
 
@@ -4362,7 +4209,6 @@ solicitação, ou que representem o motivo da solicitação:
 
 ..
 
-
 ..
 ..
 i
@@ -4379,7 +4225,7 @@ j
 
 Gabarito (A)
 
-Item. 58. FCC/ TRT -112 Região (AM e RR) - Analista Judiciário - Arquivologia - 2017
+58. FCC/ TRT -112 Região (AM e RR) - Analista Judiciário - Arquivologia - 2017
 
 Considere as afirmações abaixo sobre a Lei n° 12.527/2011, também
 conhecida como Lei de
@@ -4388,7 +4234,6 @@ Acesso à Informação.
 I. O acesso a informações públicas será assegurado mediante criação
 de serviço de informações
 ao cidadão, nos órgãos e entidades do poder público.
-
 
 II. O serviço de busca e fornecimento de informações é gratuito,
 salvo nas hipóteses de
@@ -4428,7 +4273,6 @@ da lei 12.527/2011:
 
 ..
 
-
 í Art. 9Q O acesso a informações públicas será assegurado mediante:
 j
 
@@ -4455,8 +4299,7 @@ acesso a informações de interesse público.
 
 Gabarito (E)
 
-Item. 59. FCC/ DPE-RR - Secretária Executiva - 2015
-
+59. FCC/ DPE-RR - Secretária Executiva - 2015
 
 De acordo com a Lei n° 12.527, de 18 de novembro de 2011,
 
@@ -4492,7 +4335,6 @@ inciso II do referido artigo:
 
 A letra (b) está correta, conforme prevê o caput do art. 21 da lei 12.527/2011:
 
-
 .
 
 Art. 21. Não poderá ser negado acesso à informação necessária à tutela judicial ou i
@@ -4500,7 +4342,6 @@ Art. 21. Não poderá ser negado acesso à informação necessária à tutela ju
 : administrativa de direitos fundamentais.
 
 ..
-
 
 A letra (c) está incorreta, pois tais informações pessoais possuem prazo
 máximo de sigilo de 100
@@ -4539,7 +4380,6 @@ da Presidência da República:
 
 r*
 
-
 i
 
 Art. 37. É instituído, no âmbito do Gabinete de Segurança Institucional da Presidência da i
@@ -4550,7 +4390,7 @@ Art. 37. É instituído, no âmbito do Gabinete de Segurança Institucional da P
 
 Gabarito (B)
 
-Item. 60. FCC/DPE-SP-Arquivista-2015
+60. FCC/DPE-SP-Arquivista-2015
 
 Atenção: Para responder à questão, considere o Decreto estadual n° 58.052, de
 16 de maio de
@@ -4575,14 +4415,13 @@ anos).
 
 Comentários:
 
-
 Examinando a questão sob o prisma da lei federal 12.527/2011, sabemos
 que a letra (b) está
 correta, ao prever corretamente os prazos mencionados na LAI.
 
 Gabarito (B)
 
-Item. 61. FCC/ TRT - 3- Região (MG) - Analista Judiciário - Arquivologia - 2015
+61. FCC/ TRT - 3- Região (MG) - Analista Judiciário - Arquivologia - 2015
 
 De acordo com a Lei n° 12.527, de 18 de novembro de 2011 (Lei de
 Acesso à Informação),
@@ -4622,7 +4461,6 @@ Comentários:
 
 O Item I está correto, uma vez que apresenta a exata redação do §2° do art. 24 da lei 12.527/2011:
 
-
 = Art. 24, § 29 As informações que puderem colocar em risco a segurança do Presidente e
 
 = Vice-Presidente da República e respectivos cônjuges e filhos(as) serão classificadas como =
@@ -4633,7 +4471,6 @@ O Item I está correto, uma vez que apresenta a exata redação do §2° do art.
 =
 
 O Item II está correto, nos termos da previsão do art. 34 da lei 12.527/2011:
-
 
 Art. 34. Os órgãos e entidades públicas respondem diretamente pelos danos causados em i
 
@@ -4659,7 +4496,7 @@ i incompleta ou imprecisa;
 
 Gabarito (B)
 
-Item. 62. FCC/ CNMP - Analista do CNMP - Arquivologia - 2015
+62. FCC/ CNMP - Analista do CNMP - Arquivologia - 2015
 
 No cumprimento da Lei de Acesso à Informação, os órgãos públicos devem
 manter sítios oficiais
@@ -4685,7 +4522,6 @@ A letra (a) está correta, nos termos do inciso V do §3° do art. 8o da lei 12.
 ..
 ..
 
-
 i Art. 8Q, V - garantir a autenticidade e a integridade das informações disponíveis
 para
 
@@ -4705,13 +4541,11 @@ na LAI, a saber:
 r ..
 ..
 
-
 a aa f
 j Art. 8g, § 3g Os sítios de que trata o § 2^ deverão, na forma de regulamento,
 atender, entre i
 
 = outros, aos seguintes requisitos:
-
 
 I - conter ferramenta de pesquisa de conteúdo que permita o acesso à informação de
 forma objetiva, transparente, clara e em linguagem de fácil compreensão;
@@ -4744,7 +4578,7 @@ pelo Decreto Legislativo n^ 186, de 9 de julho de 2008.
 
 Gabarito (A)
 
-Item. 63. FCC/ TJ-AP - Analista Judiciário - Área Apoio Especializado - Arquivologia - 2014
+63. FCC/ TJ-AP - Analista Judiciário - Área Apoio Especializado - Arquivologia - 2014
 
 A fim de assegurar o direito fundamental de acesso à informação, a Lei n°
 12.527, de 18 de
@@ -4765,7 +4599,6 @@ competência exclusiva dos presidentes
 de tribunais.
 
 Comentários:
-
 
 A letra (a) está de acordo com uma das diretrizes da LAI, que é a
 observância da publicidade como
@@ -4805,7 +4638,7 @@ competência das autoridades previstas no inciso I do art. 27 da lei 12.527/2011
 
 Gabarito (A)
 
-Item. 64. FCC/ TRT -13§ Região (PB) - Analista Judiciário - Arquivologia - 2014
+64. FCC/ TRT -13§ Região (PB) - Analista Judiciário - Arquivologia - 2014
 
 A qualidade da informação que pode ser conhecida e utilizada por
 indivíduos, equipamentos ou
@@ -4819,7 +4652,6 @@ b) integridade.
 c) autenticidade.
 
 d) disponibilidade.
-
 
 e) confiabilidade.
 
@@ -4853,7 +4685,6 @@ da lei 12.527/2011:
 
 r
 
-
 VIII - integridade: qualidade da informação não modificada, inclusive quanto à
 origem,
 
@@ -4861,7 +4692,6 @@ origem,
 ;
 
 ..
-
 
 ..
 
@@ -4885,7 +4715,7 @@ A letra (e) está incorreta. Não há na lei 12.527/2011 o conceito de confiabil
 
 Gabarito (D)
 
-Item. 65. FCC/ TRT -15? Região (SP) - Analista Judiciário - Arquivologia - 2013
+65. FCC/ TRT -15? Região (SP) - Analista Judiciário - Arquivologia - 2013
 Pela Lei de Acesso à Informação, de 18 de novembro de 2011,
 
 a) a classificação de informação em qualquer grau de sigilo deverá ser
@@ -4893,7 +4723,6 @@ formalizada em decisão que
 conterá, no mínimo, os seguintes elementos: assunto sobre o
 qual versa a informação e
 fundamento da classificação, dispensada a identificação da autoridade que a classificou.
-
 
 b) uma vez negado o acesso à informação pelos órgãos ou entidades do
 Poder Executivo Federal,
@@ -4957,7 +4786,6 @@ no caput do art. 16 da lei
 
 r *
 
-
 i
 
 Art. 16. Negado o acesso a informação pelos órgãos ou entidades do Poder Executivo
@@ -4972,7 +4800,6 @@ no j
 A letra (c) está incorreta, uma vez que não há previsão de pena de
 reclusão no art. 33 da lei
 12.527/2011:
-
 
 í Art. 33. A pessoa física ou entidade privada que detiver informações em virtude de
 vínculo i
@@ -5017,7 +4844,6 @@ independentemente de solicitação:
 
 r
 
-
 Art. 82 É dever dos órgãos e entidades públicas promover, independentemente
 de i
 
@@ -5038,13 +4864,12 @@ editais ;
 
 Gabarito (D)
 
-Item. 66. FCC/ TRE-RO - Técnico Judiciário - Área Administrativa - 2013
+66. FCC/ TRE-RO - Técnico Judiciário - Área Administrativa - 2013
 De acordo com a Lei no 12.527/2011 - Lei de Acesso à Informação,
 
 a) ficam excluídos do direito de acesso os documentos resultantes
 de inspeções, auditorias e
 tomadas de contas realizadas por órgãos públicos.
-
 
 b) deve-se destruir todo e qualquer documento relativo a violações de
 direitos humanos por parte
@@ -5092,7 +4917,6 @@ conduta tipificada como ilícita, nos termos do inciso VII do art. 32 da lei 12.
 
 r
 
-
 Art. 32. Constituem condutas ilícitas que ensejam responsabilidade do agente público ou
 i
 
@@ -5110,9 +4934,7 @@ ultrassecretas e secretas são
 
 A letra (d) está correta, conforme inferência do art. 13 da lei 12.527/2011:
 
-
 *
-
 
 = Art. 13. Quando se tratar de acesso à informação contida em documento cuja
 manipulação i
@@ -5122,7 +4944,6 @@ com =
 
 : certificação de que esta confere com o original
 =
-
 
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
@@ -5143,7 +4964,7 @@ j
 
 Gabarito (D)
 
-Item. 67. FCC/ TRT - 6- Região (PE) - Analista Judiciário - Arquivologia - 2012
+67. FCC/ TRT - 6- Região (PE) - Analista Judiciário - Arquivologia - 2012
 
 De acordo com a Lei n° 12.527, de 18 de novembro de 2011, a qualidade
 da informação coletada
@@ -5170,7 +4991,6 @@ r *
 
 ..
 
-
 i VII - autenticidade: qualidade da informação que tenha sido produzida, expedida,
 recebida i
 
@@ -5178,12 +4998,10 @@ recebida i
 j
 k
 
-
 A letra (c) está incorreta. A integridade está conceituada no inciso IX do art. 4o da lei
 12.527/2011:
 
 r"*
-
 
 í VIII - integridade: qualidade da informação não modificada, inclusive quanto à origem, i
 i trânsito e destino;
@@ -5210,7 +5028,6 @@ k ..
 ..
 ...
 
-
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud
 
@@ -5220,7 +5037,6 @@ no enunciado, encontrando-se assim previsto no inciso VI do art. 4o da lei 12.52
 
 r------
 
-
 i
 í VI - disponibilidade: qualidade da informação que pode ser conhecida e utilizada por i
 f:ain.d..i.v..í.d..u..o..s..,..e..q..u..i.p..a.me..n..t.o..s..o..u...s..i.s..t.e..m...a..s...a..
@@ -5229,10 +5045,9 @@ J;
 
 Gabarito (D)
 
-
 LISTA DAS QUESTõES CoMENTADAS
 
-Item. 1. FGV - CGE SC/Auditor do Estado/2023
+1. FGV - CGE SC/Auditor do Estado/2023
 
 A Lei de Acesso à Informação (LAI) regula as condições, processos
 e procedimentos para a
@@ -5268,7 +5083,7 @@ executivo federal.
 sigilosa ou à informação
 sigilosa sem indicação da autoridade classificadora no âmbito do poder executivo federal.
 
-Item. 2. FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
+2. FGV - AFRE MG/SEF MG/Auditoria e Fiscalização/2023
 
 A informação em poder dos órgãos e entidades públicas, observado o seu teor
 e em razão de sua
@@ -5289,7 +5104,6 @@ b) mais restritivo possível, em prestígio à supremacia do
 interesse público, considerada a
 gravidade do risco ou dano à segurança da sociedade e do Estado.
 
-
 Antonio Daud, Equipe Legislação Especíí
 - Prof. Antonio Daud
 c) menos restritivo possível, considerados a gravidade do risco ou dano à
@@ -5308,7 +5122,7 @@ defina o seu termo final, a informação tornar-se-á de acesso público,
 desde que expressamente
 autorizada pela autoridade que decretou o sigilo.
 
-Item. 3. FGV - AJ TRT13/TRT 13/Administrativa/Contabilidade/2022
+3. FGV - AJ TRT13/TRT 13/Administrativa/Contabilidade/2022
 
 De acordo com a Lei 12.527/2011, a autenticidade representa a qualidade da informação
 a) que não foi modificada, inclusive quanto à origem, trânsito e destino.
@@ -5325,7 +5139,7 @@ e) submetida temporariamente à restrição de acesso público em razão
 de sua imprescindibilidade
 para a segurança da sociedade e do Estado.
 
-Item. 4. VUNESP - Ana Leg (ALESP)/ALESP/Gestão de Projetos/2022
+4. VUNESP - Ana Leg (ALESP)/ALESP/Gestão de Projetos/2022
 
 A Lei n9 12.527, de 18/11/2011, conhecida como Lei de Acesso à Informação, dispõe
 sobre os procedimentos
@@ -5348,8 +5162,7 @@ d) as autarquias e fundações (excetuando-se as fundações públicas).
 e) as entidades controladas direta ou indiretamente pela União, Estados, Distrito Federal e
 Municípios.
 
-Item. 5. VUNESP - Ana Leg (ALESP)/ALESP/História/2022
-
+5. VUNESP - Ana Leg (ALESP)/ALESP/História/2022
 
 Antonio Daud, Equipe Legislação Especíí
 - Prof. Antonio Daud
@@ -5371,7 +5184,7 @@ d) Lei Federal n^ 11.419 de 19 de dezembro de 2006 - Lei da Informatização do 
 
 e) Lei Federal nQ 12.965 de 23 de abril de 2014 - Lei sobre o uso da Internet no Brasil.
 
-Item. 6. FCC - TJ TRT23/TRT 23/Administrativa/2022
+6. FCC - TJ TRT23/TRT 23/Administrativa/2022
 
 De acordo com o que dispõe a Lei no 12.527/2011, que disciplina o acesso à informação, considera-se
 a) integralidade a qualidade da informação que pode ser conhecida e utilizada por
@@ -5395,7 +5208,7 @@ e) primariedade a qualidade da informação que tenha sido produzida, expedida, 
 ou modificada por
 determinado indivíduo, equipamento ou sistema.
 
-Item. 7. FCC - AJ TRT23/TRT 23/Judiciária/2022
+7. FCC - AJ TRT23/TRT 23/Judiciária/2022
 
 De acordo com o que dispõe a Lei no 12.527/2011, que disciplina o acesso à informação,
 
@@ -5425,8 +5238,7 @@ e) negado o acesso à informação pelos órgãos ou entidades do Poder Executiv
 o requerente poderá
 recorrer à Advocacia-Geral da União, que deliberará no prazo de 10 dias.
 
-Item. 8. FCC - Tec GP (PGE AM)/PGE AM/Controle lnterno/2022
-
+8. FCC - Tec GP (PGE AM)/PGE AM/Controle lnterno/2022
 
 Um jornalista comparece por dias seguidos a uma repartição pública do Serviço Municipal
 de Obras, para
@@ -5460,7 +5272,7 @@ e) correta, pois os pedidos de informação devem sempre vir acompanhados de
 justificativa em relação ao
 motivo de acesso, por conta do princípio da motivação.
 
-Item. 9. FGV/SEFAZ-ES-Auditor-2021
+9. FGV/SEFAZ-ES-Auditor-2021
 
 O Estado Alfa, com base em norma estadual, publicou em seu sítio eletrônico
 na internet a relação
@@ -5500,14 +5312,13 @@ correspondentes a cada cargo, levando em conta a progressão vertical
 e horizontal na carreira,
 sem vinculação direta ao nome do servidor, sob pena de ofensa ao direito à intimidade.
 
-
 (E) merece prosperar parcialmente, eis que deve ser substituído apenas o
 nome pela matrícula de
 Maria, de maneira a viabilizar a publicidade da remuneração do agente
 público, sem ofender a
 intimidade da servidora, conforme princípios da razoabilidade e da proporcionalidade.
 
-Item. 10. FGV/TCE-AM - Auditor - 2021
+10. FGV/TCE-AM - Auditor - 2021
 
 Assegurar o direito fundamental de acesso à informação se inclui
 entre as boas práticas de
@@ -5527,7 +5338,7 @@ Uma diretriz discrepante das boas práticas de transparência no setor público 
 
 (E) utilização de meios de comunicação viabilizados pela tecnologia da informação.
 
-Item. 11. FGV/TCE-AM - Auditor - 2021
+11. FGV/TCE-AM - Auditor - 2021
 
 A Secretaria de Segurança Pública do Amazonas considerou
 imprescindíveis à segurança da
@@ -5559,7 +5370,6 @@ definiu o seu termo final, o
 definiu o seu termo final, a
 informação tornar-se-á, automaticamente, de acesso público;
 
-
 (D) quinze anos e, transcorrido esse prazo ou consumado o evento que
 definiu o seu termo final,
 o órgão público fará nova análise sobre a conveniência de liberação
@@ -5572,7 +5382,7 @@ final, o órgão público fará nova análise sobre a conveniência de liberaç�
 da informação a acesso
 público.
 
-Item. 12. FGV/TCE-AM - Auditor TI - 2021
+12. FGV/TCE-AM - Auditor TI - 2021
 
 A Lei de Acesso à Informação estabelece que é dever dos órgãos e
 entidades públicas promover,
@@ -5608,7 +5418,7 @@ de modo a facilitar a análise das informações, vedada a disponibilização
 técnica de tais relatórios
 para gravação.
 
-Item. 13. VUNESP/CREFITO-Fiscal-2020
+13. VUNESP/CREFITO-Fiscal-2020
 
 Segundo o disposto na Lei de Acesso à Informação (Lei no 12.527/11), na
 hipótese de um interessado
@@ -5620,7 +5430,6 @@ informar o interessado desse fato, a referida norma estabelece que
 a) o interessado deverá solicitar a reconstituição do documento solicitado pelos meios
 disponíveis nos órgãos
 públicos competentes.
-
 
 b) restará ao interessado aguardar a apuração e providências destinadas à recuperação do documento
 solicitado.
@@ -5637,7 +5446,7 @@ e) o funcionário responsável pela guarda dos documentos solicitados será puni
 previstas
 na Lei e o interessado deverá ser indenizado.
 
-Item. 14. VUNESP - ESEF Jundiaí/2019
+14. VUNESP - ESEF Jundiaí/2019
 
 Para os efeitos da Lei de Acesso à Informação, Lei Federal n5 12.527/2011, considera-se
 "primariedade":
@@ -5661,7 +5470,7 @@ controle da informação.
 e) qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem
 modificações.
 
-Item. 15. Quadrix /Assistente Administrativo Júnior (CRESS SC) /2019
+15. Quadrix /Assistente Administrativo Júnior (CRESS SC) /2019
 Quanto à Lei n.° 12.527/2011, julgue o item.
 
 É dever do Estado garantir o direito de acesso à informação, que será
@@ -5670,15 +5479,14 @@ procedimentos objetivos e ágeis, de forma transparente, clara e em
 linguagem de fácil
 compreensão.
 
-Item. 16. Quadrix /Agente Fiscal (CRESS SC) /2019
+16. Quadrix /Agente Fiscal (CRESS SC) /2019
 Quanto à Lei n.° 12.527/2011, julgue o item.
 
 É restrito o acesso às informações que versem sobre condutas que impliquem violação
 dos direitos
 humanos praticada por agentes públicos.
 
-
-Item. 17. Quadrix/Assistente Administrativo (CONRERP 2 (SP PR)) /2019
+17. Quadrix/Assistente Administrativo (CONRERP 2 (SP PR)) /2019
 
 A partir da Lei n.° 12.527/2011 e do Decreto n.° 7.724/2011, julgue o item.
 
@@ -5688,12 +5496,12 @@ quaisquer exigências relativas aos motivos determinantes da solicitação de
 informações de
 interesse público.
 
-Item. 18. Quadrix /Assistente Administrativo (CONRERP 2 (SP PR)) /2019
+18. Quadrix /Assistente Administrativo (CONRERP 2 (SP PR)) /2019
 A partir da Lei n.° 12.527/2011 e do Decreto n.° 7.724/2011, julgue o item.
 
 O acesso à informação classificada como sigilosa obriga aquele que a obteve a resguardar o sigilo.
 
-Item. 19. CEBRASPE/ IPHAN - Auxiliar Institucional - Área 2 - 2018
+19. CEBRASPE/ IPHAN - Auxiliar Institucional - Área 2 - 2018
 
 A política de acesso aos documentos de arquivo no Brasil é recente, tendo
 sua normatização
@@ -5705,7 +5513,7 @@ O usuário cujo pedido de acesso a documentos de determinada instituição seja 
 não terá
 direito de apresentar recurso contra a negativa à instituição mantenedora do acervo.
 
-Item. 20. CEBRASPE/IFF-Arquivista-2018
+20. CEBRASPE/IFF-Arquivista-2018
 
 O prazo máximo de restrição de acesso para documentos classificados como ultrassecretos é de
 a) cinco anos.
@@ -5718,11 +5526,10 @@ d) vinte anos.
 
 e) vinte e cinco anos.
 
-Item. 21. CEBRASPE/IFF-Arquivista-2018
+21. CEBRASPE/IFF-Arquivista-2018
 
 A classificação do grau de sigilo secreto para um documento compete a
 a) titulares de fundações.
-
 
 b) autoridades que exerçam funções de direção.
 
@@ -5732,7 +5539,7 @@ d) arquivistas do órgão expedidor do documento.
 
 e) advogados do órgão expedidor do documento.
 
-Item. 22. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
+22. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
 
 Com base na legislação que trata do acesso a documentos, julgue o item seguinte.
 
@@ -5740,7 +5547,7 @@ Todos têm direito à informação, entretanto os órgãos públicos só deverã
 acesso às
 informações que sejam solicitadas por via do setor de protocolo e arquivo.
 
-Item. 23. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
+23. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
 
 Com base na legislação que trata do acesso a documentos, julgue o item seguinte.
 
@@ -5748,13 +5555,13 @@ Transcorrido o prazo de classificação dos documentos ou consumado o evento que
 o seu
 termo final, a informação tornar-se-á, automaticamente, de acesso público.
 
-Item. 24. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
+24. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
 
 Com base na legislação que trata do acesso a documentos, julgue o item seguinte.
 
 O prazo máximo de classificação de sigilo da informação como reservada é de quinze anos.
 
-Item. 25. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
+25. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
 
 Com base na legislação que trata do acesso a documentos, julgue o item seguinte.
 
@@ -5762,13 +5569,12 @@ O acesso à informação compreende, entre outros, o direito de obter informaç�
 íntegra,
 autêntica e atualizada.
 
-Item. 26. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
+26. CEBRASPE/ ABIN - Oficial Técnico de Inteligência - Área 10 - 2018
 
 Com base na legislação que trata do acesso a documentos, julgue o item seguinte.
 Informações pessoais são de acesso restrito e são classificadas como ultrassecretas.
 
-Item. 27. CEBRASPE/ TRE-BA - Técnico Judiciário - Segurança Judiciária - 2017
-
+27. CEBRASPE/ TRE-BA - Técnico Judiciário - Segurança Judiciária - 2017
 
 A respeito do grau de sigilo e do tempo para desclassificação das informações de
 documentos
@@ -5784,12 +5590,12 @@ c) reservado - cinco anos
 d) secreto - trinta e cinco anos
 e) reservado - doze anos
 
-Item. 28. CEBRASPE/ SEDF - Técnico de Gestão Educacional - Apoio Administrativo - 2017
+28. CEBRASPE/ SEDF - Técnico de Gestão Educacional - Apoio Administrativo - 2017
 Com base na legislação arquivística, julgue o próximo item.
 
 A Lei n.° 8.159/1991 estabelece categorias de sigilo para documentos.
 
-Item. 29. CEBRASPE/SEDF - Analista de Gestão Educacional - Arquivologia - 2017
+29. CEBRASPE/SEDF - Analista de Gestão Educacional - Arquivologia - 2017
 
 Acerca das políticas de acesso aos documentos de arquivo, pautadas pela Lei
 de Acesso à
@@ -5799,7 +5605,7 @@ Todos têm direito à informação, desde que ela não esteja classificada em um
 de sigilo:
 ultrassecreto, secreto e reservado.
 
-Item. 30. CEBRASPE/ANVISA - Técnico Administrativo - 2016
+30. CEBRASPE/ANVISA - Técnico Administrativo - 2016
 
 A respeito da gestão de documentos e do acesso à informação, julgue o item a seguir.
 
@@ -5807,7 +5613,7 @@ De acordo com a Lei de Acesso à Informação, o acesso a dados contidos
 em documento
 classificado como reservado poderá ser restringido por até cinco anos.
 
-Item. 31. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
+31. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
 
 Com base na Lei de Acesso à Informação (Lei n.° 12.257/2011), julgue o item a
 seguir, a respeito
@@ -5817,8 +5623,7 @@ Os órgãos do Poder Judiciário não estão submetidos à lei mencionada, pois 
 documentos de
 arquivo possuem uma grande quantidade de informações pessoais.
 
-
-Item. 32. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
+32. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
 
 Com base na Lei de Acesso à Informação (Lei n.° 12.257/2011), julgue o item a
 seguir, a respeito
@@ -5828,7 +5633,7 @@ Quando for extraviada uma informação solicitada, o solicitante poderá requere
 a abertura de
 sindicância para apurar o seu desaparecimento.
 
-Item. 33. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
+33. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
 
 Com base na Lei de Acesso à Informação (Lei n.° 12.257/2011), julgue o item a
 seguir, a respeito
@@ -5836,7 +5641,7 @@ das políticas de acesso aos documentos de arquivo.
 
 O acesso à informação é um preceito constitucional e foi regulamentado pela referida lei.
 
-Item. 34. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
+34. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
 
 Com base na Lei de Acesso à Informação (Lei n.° 12.257/2011), julgue o item a
 seguir, a respeito
@@ -5846,7 +5651,7 @@ Os documentos de arquivo que contenham informações pessoais relativas a
 intimidade, vida
 privada, honra e imagem terão seu acesso restrito de acordo com a classificação de sigilo.
 
-Item. 35. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
+35. CEBRASPE/STJ - Analista Judiciário - Arquivologia - 2015
 
 Com base na Lei de Acesso à Informação (Lei n.° 12.257/2011), julgue o item a
 seguir, a respeito
@@ -5856,7 +5661,7 @@ De acordo com a legislação em vigor, não poderá ser negado o acesso à infor
 necessária à
 tutela judicial ou administrativa de direitos fundamentais.
 
-Item. 36. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
+36. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
 
 A respeito das políticas públicas de arquivo, julgue o item a seguir.
 
@@ -5864,16 +5669,15 @@ A informação, quando classificada na categoria secreta, permanece por quinze a
 restrição
 de acesso.
 
-Item. 37. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
+37. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
 
 Com base na legislação federal em vigor, julgue o item a seguir, relativo à política
 de acesso aos
 documentos de arquivo.
 
-
 Informação sigilosa é aquela submetida temporariamente à restrição de acesso público.
 
-Item. 38. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
+38. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
 
 Com base na legislação federal em vigor, julgue o item a seguir, relativo à política
 de acesso aos
@@ -5883,7 +5687,7 @@ Com relação ao grau de sigilo, os documentos podem ser classificados como
 ostensivos,
 reservados, secretos ou ultrassecretos.
 
-Item. 39. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
+39. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
 
 Com base na legislação federal em vigor, julgue o item a seguir, relativo à política
 de acesso aos
@@ -5893,7 +5697,7 @@ A cada seis meses, a autoridade máxima da instituição publicará o
 rol de informações
 desclassificadas no período.
 
-Item. 40. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
+40. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
 
 Com base na legislação federal em vigor, julgue o item a seguir, relativo à política
 de acesso aos
@@ -5903,25 +5707,24 @@ O órgão público terá até trinta dias para atender às demandas de informaç
 na Lei de
 Acesso à Informação (LAI).
 
-Item. 41. CEBRASPE/ ANTAQ-Técnico Administrativo - 2014
+41. CEBRASPE/ ANTAQ-Técnico Administrativo - 2014
 Julgue o item que se segue, a respeito de arquivologia.
 
 A ANTAQ, dada a sua natureza jurídica, está dispensada de seguir as disposições
 contidas na Lei
 de Acesso à Informação.
 
-Item. 42. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
+42. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
 Com relação à legislação arquivística, julgue o próximo item.
 
 A Lei de Acesso à Informação é aplicável a todas as esferas da administração pública brasileira.
 
-Item. 43. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
+43. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
 Com relação à legislação arquivística, julgue o próximo item.
-
 
 No Brasil, o maior prazo de restrição de acesso à informação é de 15 anos.
 
-Item. 44. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
+44. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
 Com relação à legislação arquivística, julgue o próximo item.
 
 Os órgãos do poder público brasileiro devem garantir a proteção da informação sigilosa
@@ -5930,13 +5733,13 @@ informação pessoal, observada a sua disponibilidade, autenticidade,
 integridade e eventual
 restrição de acesso.
 
-Item. 45. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
+45. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
 
 Em relação às políticas de acesso aos documentos de arquivo, julgue o item que se segue.
 
 A Lei de Acesso à Informação no Brasil definiu a classificação de sigilo dos documentos de arquivo.
 
-Item. 46. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
+46. CEBRASPE/ TC-DF - Analista de Administração Pública - Arquivologia - 2014
 
 Em relação às políticas de acesso aos documentos de arquivo, julgue o item que se segue.
 
@@ -5944,7 +5747,7 @@ O acesso rápido e seguro à informação demandada, incluindo aquela classifica
 reservada,
 deve ser buscado em qualquer situação.
 
-Item. 47. CEBRASPE/ Polícia Federal - Arquivista - 2014
+47. CEBRASPE/ Polícia Federal - Arquivista - 2014
 
 Acerca das políticas públicas de arquivo e da legislação arquivística, julgue os itens a seguir.
 
@@ -5952,7 +5755,7 @@ Entre a Lei de Acesso à Informação e os arquivos organizados há uma relaçã
 visto que a
 organização dos documentos de arquivo é condição necessária para o cumprimento dessa lei.
 
-Item. 48. CEBRASPE/ Polícia Federal - Arquivista - 2014
+48. CEBRASPE/ Polícia Federal - Arquivista - 2014
 
 No que se refere à análise tipológica e às políticas de acesso aos documentos de
 arquivo, julgue
@@ -5962,15 +5765,14 @@ As três categorias de sigilo para a classificação de um documento são: ultra
 secreto e
 reservado.
 
-Item. 49. CEBRASPE/TRT -17^ Região (ES) - Analista Judiciário - Arquivologia - 2013
+49. CEBRASPE/TRT -17^ Região (ES) - Analista Judiciário - Arquivologia - 2013
 Julgue o item subsequente, acerca das políticas de acesso aos documentos de arquivo.
-
 
 A lei que trata do acesso à informação no Brasil dispõe sobre essa garantia
 exclusivamente aos
 órgãos do Poder Executivo federal.
 
-Item. 50. FGV/ Câmara de Salvador - BA - Analista Legislativo Municipal - Informação Legislativa -
+50. FGV/ Câmara de Salvador - BA - Analista Legislativo Municipal - Informação Legislativa -
 2018
 
 Para garantir o acesso à informação, como determina a Lei n° 12.527, de 18 de
@@ -5993,7 +5795,7 @@ d) correio tradicional;
 
 e) correio eletrônico.
 
-Item. 51. FGV/CODEMIG-Arquivista-2015
+51. FGV/CODEMIG-Arquivista-2015
 
 Conforme legislação específica, os documentos referentes a projetos
 de pesquisa e
@@ -6011,14 +5813,13 @@ d) divulgação;
 
 e) destruição.
 
-Item. 52. FGV/ TJ-GO - Analista Judiciário - Arquivologia - 2014
+52. FGV/ TJ-GO - Analista Judiciário - Arquivologia - 2014
 
 Segundo as leis de Acesso à Informação Brasileira e Estadual de Goiás,
 as/os informações/
 documentos que devem ser objeto de solicitação ao SIC e as/os que devem
 ser divulgadas
 independentemente de requerimento são, respectivamente:
-
 
 a) respostas às perguntas frequentes; registro da estrutura organizacional;
 
@@ -6032,7 +5833,7 @@ d) registro de repasses financeiros; endereços e telefones das unidades;
 
 e) registro de transferência de recursos; informações sobre editais de licitações.
 
-Item. 53. FGV/ Câmara Municipal do Recife-PE - Arquivista - 2014
+53. FGV/ Câmara Municipal do Recife-PE - Arquivista - 2014
 
 O acesso à informação de que trata a Lei n° 12.527, de 18 de novembro de 2011,
 compreende,
@@ -6061,14 +5862,13 @@ d) I e III;
 
 e) II e III.
 
-Item. 54. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
+54. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
 
 De acordo com a Lei n. 12.527/11, os prazos máximos de restrição de
 acesso à informação,
 conforme a classificação prevista no caput, vigorarão a partir da data de sua
 produção. Assinale a
 afirmativa que os indica.
-
 
 a) Ultrassecreta: 20 anos / secreta:15 anos / reservada: 10 anos
 b) Ultrassecreta: 30 anos / secreta:15 anos / reservada: 5 anos.
@@ -6079,7 +5879,7 @@ d) Ultrassecreta: 25 anos / secreta:15 anos / reservada: 5 anos.
 
 e) Ultrassecreta: 25 anos / secreta:20 anos / reservada: 5 anos.
 
-Item. 55. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
+55. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
 
 De acordo com a Lei de Acesso à Informação, as informações pessoais, independentemente
 de
@@ -6094,7 +5894,7 @@ d) 70 anos, a contar da data de produção.
 
 e) 100 anos, a contar da data de produção.
 
-Item. 56. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
+56. FGV/ TJ-AM - Analista Judiciário - Arquivologia - 2013
 
 A Comissão Mista de Reavaliação de Informações decidirá, no âmbito da
 administração pública
@@ -6118,11 +5918,10 @@ d) Prorrogar o prazo de sigilo de informação classificada como
 ultrassecreta, por prazo
 prorrogável.
 
-
 e) Prorrogar o prazo de sigilo de informação classificada como ultrassecreta, por prazo de 60
 anos.
 
-Item. 57. FCC/ DPE-RS - Analista - Arquivista - 2017
+57. FCC/ DPE-RS - Analista - Arquivista - 2017
 
 De acordo com a Lei n° 12.527/2011 - Lei de Acesso à Informação,
 
@@ -6148,7 +5947,7 @@ e) para o acesso a informações de interesse público, o requerente deve aprese
 atestado de
 antecedentes e justificar sua pretensão.
 
-Item. 58. FCC/ TRT -11^ Região (AM e RR) - Analista Judiciário - Arquivologia - 2017
+58. FCC/ TRT -11^ Região (AM e RR) - Analista Judiciário - Arquivologia - 2017
 
 Considere as afirmações abaixo sobre a Lei n° 12.527/2011, também conhecida
 como Lei de
@@ -6176,7 +5975,6 @@ Está correto o que se afirma em:
 
 a) III, apenas.
 
-
 b) I e II, apenas.
 
 c) I e III, apenas.
@@ -6185,7 +5983,7 @@ d) II e III, apenas.
 
 e) I, II e III.
 
-Item. 59. FCC/ DPE-RR - Secretária Executiva - 2015
+59. FCC/ DPE-RR - Secretária Executiva - 2015
 
 De acordo com a Lei n° 12.527, de 18 de novembro de 2011,
 
@@ -6209,7 +6007,7 @@ e) um Núcleo de Segurança e Credenciamento deverá funcionar em cada
 Defensoria Pública,
 garantindo a execução de seus dispositivos.
 
-Item. 60. FCC/DPE-SP-Arquivista-2015
+60. FCC/DPE-SP-Arquivista-2015
 
 Atenção: Para responder à questão, considere o Decreto estadual n° 58.052, de 16 de
 maio de
@@ -6229,11 +6027,10 @@ c) secreto (até 25 anos), confidencial (até 10 anos) e reservado (até 5 anos)
 
 d) ultrassecreto (até 20 anos), confidencial (até 15 anos) e restrito (até 5 anos).
 
-
 e) ultrassigiloso (até 30 anos), sigiloso (até 20 anos), secreto (até 15 anos) e reservado (até 5
 anos).
 
-Item. 61. FCC/ TRT - 3^ Região (MG) - Analista Judiciário - Arquivologia - 2015
+61. FCC/ TRT - 3^ Região (MG) - Analista Judiciário - Arquivologia - 2015
 
 De acordo com a Lei n° 12.527, de 18 de novembro de 2011 (Lei de Acesso à
 Informação),
@@ -6269,7 +6066,7 @@ d) I e III, apenas.
 
 e) III, apenas.
 
-Item. 62. FCC/ CNMP - Analista do CNMP - Arquivologia - 2015
+62. FCC/ CNMP - Analista do CNMP - Arquivologia - 2015
 
 No cumprimento da Lei de Acesso à Informação, os órgãos públicos devem manter sítios
 oficiais
@@ -6283,12 +6080,11 @@ c) admitir a gravação de relatórios que facilitem a análise das informaçõe
 em formato-
 texto.
 
-
 d) omitir pormenores em relação aos formatos utilizados na estruturação da informação.
 
 e) impedir o acesso automatizado por sistemas externos em formatos abertos.
 
-Item. 63. FCC/ TJ-AP - Analista Judiciário - Área Apoio Especializado - Arquivologia - 2014
+63. FCC/ TJ-AP - Analista Judiciário - Área Apoio Especializado - Arquivologia - 2014
 
 A fim de assegurar o direito fundamental de acesso à informação, a Lei n° 12.527, de
 18 de
@@ -6308,7 +6104,7 @@ e) o poder de fixar o grau de sigilo "ultrassecreto" como competência exclusiva
 presidentes
 de tribunais.
 
-Item. 64. FCC/ TRT -13? Região (PB) - Analista Judiciário - Arquivologia - 2014
+64. FCC/ TRT -13? Região (PB) - Analista Judiciário - Arquivologia - 2014
 
 A qualidade da informação que pode ser conhecida e utilizada por indivíduos,
 equipamentos ou
@@ -6325,9 +6121,8 @@ d) disponibilidade.
 
 e) confiabilidade.
 
-Item. 65. FCC/ TRT -153 Região (SP) - Analista Judiciário - Arquivologia - 2013
+65. FCC/ TRT -153 Região (SP) - Analista Judiciário - Arquivologia - 2013
 Pela Lei de Acesso à Informação, de 18 de novembro de 2011,
-
 
 a) a classificação de informação em qualquer grau de sigilo deverá ser formalizada em
 decisão que
@@ -6363,7 +6158,7 @@ exceção feita
 respectivos editais e
 resultados.
 
-Item. 66. FCC/ TRE-RO - Técnico Judiciário - Área Administrativa - 2013
+66. FCC/ TRE-RO - Técnico Judiciário - Área Administrativa - 2013
 De acordo com a Lei no 12.527/2011 - Lei de Acesso à Informação,
 
 a) ficam excluídos do direito de acesso os documentos resultantes de
@@ -6386,8 +6181,7 @@ e) autenticidade é a qualidade da informação coletada na fonte, com o máximo
 detalhamento
 possível, sem modificações.
 
-Item. 67. FCC/ TRT - 6- Região (PE) - Analista Judiciário - Arquivologia - 2012
-
+67. FCC/ TRT - 6- Região (PE) - Analista Judiciário - Arquivologia - 2012
 
 De acordo com a Lei n° 12.527, de 18 de novembro de 2011, a qualidade da informação
 coletada
@@ -6402,144 +6196,141 @@ d) primariedade.
 
 e) disponibilidade
 
-
 - Prof. Antonio Daud
 
+1. E
 
-Item. 1. E
+2. C
 
-Item. 2. C
+3. D
 
-Item. 3. D
+4. E
 
-Item. 4. E
+5. C
 
-Item. 5. C
+6. D
 
-Item. 6. D
+7. D
 
-Item. 7. D
+8. B
 
-Item. 8. B
+9. A
 
-Item. 9. A
+10. C
 
-Item. 10. C
+11. C
 
-Item. 11. C
+12. C
 
-Item. 12. C
+13. D
 
-Item. 13. D
+14. E
 
-Item. 14. E
+15. C
 
-Item. 15. C
+16. E
 
-Item. 16. E
+17. C
 
-Item. 17. C
+18. C
 
-Item. 18. C
+19. E
 
-Item. 19. E
+20. E
 
-Item. 20. E
+21. A
 
-Item. 21. A
+22. E
 
-Item. 22. E
-
-Item. 23. C
+23. C
 
 GABARIToS
 
-Item. 24. E
+24. E
 
-Item. 25. C
+25. C
 
-Item. 26. E
+26. E
 
-Item. 27. C
+27. C
 
-Item. 28. E
+28. E
 
-Item. 29. C
+29. C
 
-Item. 30. C
+30. C
 
-Item. 31. E
+31. E
 
-Item. 32. C
+32. C
 
-Item. 33. C
+33. C
 
-Item. 34. E
+34. E
 
-Item. 35. C
+35. C
 
-Item. 36. C
+36. C
 
-Item. 37. c
+37. c
 
-Item. 38. E
+38. E
 
-Item. 39. E
+39. E
 
-Item. 40. C
+40. C
 
-Item. 41. E
+41. E
 
-Item. 42. C
+42. C
 
-Item. 43. E
+43. E
 
-Item. 44. C
+44. C
 
-Item. 45. C
+45. C
 
-Item. 46. E
+46. E
 
-Item. 47. C
+47. C
 
-Item. 48. C
+48. C
 
-Item. 49. E
+49. E
 
-Item. 50. C
+50. C
 
-Item. 51. B
+51. B
 
-Item. 52. C
+52. C
 
-Item. 53. C
+53. C
 
-Item. 54. D
+54. D
 
-Item. 55. E
+55. E
 
-Item. 56. A
+56. A
 
-Item. 57. A
+57. A
 
-Item. 58. E
+58. E
 
-Item. 59. B
+59. B
 
-Item. 60. B
+60. B
 
-Item. 61. B
+61. B
 
-Item. 62. A
+62. A
 
-Item. 63. A
+63. A
 
-Item. 64. D
+64. D
 
-Item. 65. D
+65. D
 
-Item. 66. D
+66. D
 
-Item. 67. D
-
+67. D
 

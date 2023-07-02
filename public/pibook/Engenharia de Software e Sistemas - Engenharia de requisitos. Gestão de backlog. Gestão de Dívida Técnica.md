@@ -1,5 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Engenharia de requisitos. Gestão de backlog. Gestão de Dívida Técnica.
-
+# Engenharia de Software e Sistemas - Engenharia de requisitos. Gestão de backlog. Gestão de Dívida Técnica.
 
 Índice
 
@@ -29,7 +28,6 @@ Capítulo. Engenharia de Software e Sistemas - Engenharia de requisitos. Gestão
 
 13) Débito Técnico
 
-
 APRESENTAçÃo
 
 Seus maravilhosos, essa aula é essencial para todos os concursos! Eu não consigo descrever a
@@ -55,7 +53,6 @@ tempo sobrando e quer ver tudo, vejam também as incidências baixas e baixíssi
 
 Além disso, essas faixas não são por banca - é baseado tanto na quantidade de vezes que caiu em
 prova independentemente da banca e também em minhas avaliações sobre cada assunto...
-
 
 fATENÇÃO
 
@@ -95,9 +92,7 @@ que o aluno avalie seus conhecimentos sobre a matéria estão dispostas ao
 final da aula na lista de exercícios e possuem comentários bem mais
 completos, abrangentes e direcionados.
 
-
 I
-
 
 Conceitos Básicos
 
@@ -114,7 +109,6 @@ Já o substantivo
 "requisito" é aquilo que é necessário e indispensável; uma condição indispensável; uma
 exigência.
 Beleza, isso é o básico - agora nós vamos ver alguns exemplos.
-
 
 COMPUTAÇÃO
 BÁSICA
@@ -175,13 +169,11 @@ Software, costuma-se defini-lo como uma condição que deve ser satisfeita para 
 alcançar um
 objetivo, ou a qualidade do sistema que deve ser provida para ser útil a seus usuários.
 
-
 Classificação de Requisitos
 
 Galera, existem diversas maneiras diferentes de se classificar requisitos de software!
 Veremos a
 seguir algumas dessas classificações:
-
 
 Classificação quanto ao nível de abstração
 
@@ -242,7 +234,6 @@ c) apenas funcionais; funcionais e não funcionais.
 
 d) funcionais e não funcionais; apenas não funcionais.
 
-
 e) funcionais e não funcionais; funcionais e não funcionais.
 
 Comentários: ambos podem sertanto funcionais quanto não-funcionais (Letra E).
@@ -284,7 +275,6 @@ inseridos
 nos requisitos de usuário.
 
 Comentários: requisitos de usuário e de sistema podem ser funcionais ou não-funcionais (Correto).
-
 
 Classificação quanto à qualidade
 
@@ -385,7 +375,6 @@ e) normais, esperados e fascinantes.
 
 Comentários: trata-se dos requisitos normais, esperados e fascinantes (Letra E).
 
-
 Classificação quanto à evolução
 
 INCIDÊNCIA EM PROVA: BAIXA
@@ -449,7 +438,6 @@ processo,
 componente ou elemento. Conforme outros elementos mudam, esses requisitos também
 mudam. Esses são requisitos menos comuns, mas que também ocorrem.
 
-
 Imaginem que, no desenvolvimento do sistema, deseja-se que o índice IBOV da Bovespa
 fique
 posicionado no canto inferior direito da tela, mas depois eu percebo que esse é um
@@ -493,7 +481,6 @@ durante o processo de desenvolvimento do sistema ou depois que o sistema estiver
 operação.
 
 Comentários: a questão trata dos requisitos voláteis (Errado).
-
 
 Classificação quanto à funcionalidade
 
@@ -563,7 +550,6 @@ impostas por padrões, entre outras. Podem ser mais críticos que os funcionais 
 devem ser
 verificáveis. Eles fazem parte da arquitetura técnica de um sistema.
 
-
 REQUISITOS NÃO-FUNCIONAIS
 
 Definem restrições globais e fazem parte da arquitetura técnica de um sistema.
@@ -632,7 +618,6 @@ Pensemos em um Requisito da STN: Sistema deverá calcular o valor do Título
 Público NTN-B
 multiplicado pelo valor da Taxa SELIC do mês corrente.
 
-
 Pensemos em um Requisito da NASA: Sistema deverá funcionar em uma Câmera 4K captando
 infravermelho e resistente a variações de temperatura.
 
@@ -659,71 +644,70 @@ Fechado? A questão abaixo é o nosso desafio... tentem fazer sem olhar o gabari
 (SEFAZ/SP - 2013) Dentre os requisitos obtidos para a construção do software
 constavam:
 
-Item. 1. O software deve permitir as funções de cadastro, consultas diversas, alteração de
+1. O software deve permitir as funções de cadastro, consultas diversas, alteração de
 dados e exclusão de alunos, professores e demais colaboradores.
 
-Item. 2. O sistema deve ser fácil de usar, fácil de encontrar o que se procura e fácil
+2. O sistema deve ser fácil de usar, fácil de encontrar o que se procura e fácil
 de
 memorizar os passos para executar as operações mais comuns.
 
-Item. 3. O sistema deve ter seu funcionamento baseado nas tecnologias web.
+3. O sistema deve ter seu funcionamento baseado nas tecnologias web.
 
-Item. 4. Todas as operações disponibilizadas no sistema devem contemplar a legislação
+4. Todas as operações disponibilizadas no sistema devem contemplar a legislação
 vigente.
 
-Item. 5. O sistema deve fazer interface com o sistema da Receita Federal por
+5. O sistema deve fazer interface com o sistema da Receita Federal por
 meio de
 requisições/respostas utilizando XML.
 
-Item. 6. Os alunos devem poder obter por meio do sistema informações sobre suas faltas e
+6. Os alunos devem poder obter por meio do sistema informações sobre suas faltas e
 notas em cada disciplina.
 
-Item. 7. O boletim e o histórico do aluno poderão serconsultados e visualizados pelos
+7. O boletim e o histórico do aluno poderão serconsultados e visualizados pelos
 gestores,
 funcionários da secretaria e pelo próprio aluno.
 
-Item. 8. Ao clicar em uma opção para gerar o boletim do aluno, deve ser apresentada ao
+8. Ao clicar em uma opção para gerar o boletim do aluno, deve ser apresentada ao
 solicitante uma tabela com todas as disciplinas que o aluno cursou, bem como as notas
 das provas e o número total de faltas em cada disciplina.
 
-
-Item. 9. O sistema deve responder à solicitação de geração do boletim de um aluno em no
+9. O sistema deve responder à solicitação de geração do boletim de um aluno em no
 máximo 10 segundos.
 
-Item. 10. O sistema deve calcular a média aritmética das duas maiores dentre três notas de
+10. O sistema deve calcular a média aritmética das duas maiores dentre três notas de
 cada disciplina no final do semestre.
 
-Item. 11. Quando o sistema constatar que o aluno tem mais que 25% de faltas em uma
+11. Quando o sistema constatar que o aluno tem mais que 25% de faltas em uma
 disciplina do semestre, deve ser exibida no boletim do aluno a informação "Reprovado".
 
-Item. 12. O sistema deverá suportar a execução em qualquer plataforma de hardware e/ou
+12. O sistema deverá suportar a execução em qualquer plataforma de hardware e/ou
 sistema operacional.
 
-Item. 13. O sistema deve enviar automaticamente para o e-mail dos gestores autorizados um
+13. O sistema deve enviar automaticamente para o e-mail dos gestores autorizados um
 relatório com o número de alunos inadimplentes por curso.
 
-Item. 14. O sistema não deve revelar quaisquer dados pessoais dos alunos aos professores,
+14. O sistema não deve revelar quaisquer dados pessoais dos alunos aos professores,
 exceto informações sobre notas e faltas no curso em que o professor leciona.
 
-Item. 15. O sistema deve permitir que o professor inclua ou modifique as notas de seus alunos
+15. O sistema deve permitir que o professor inclua ou modifique as notas de seus alunos
 durante o semestre letivo.
 
-Item. 16. A quantidade de memória necessária para que um terminal possa executar o sistema
+16. A quantidade de memória necessária para que um terminal possa executar o sistema
 
 , nas condições mínimas aceitáveis é de 1 gigabyte.
 
-Item. 17. A taxa aceitável de falhas nas operações realizadas pelo usuário no sistema deve ser
+17. A taxa aceitável de falhas nas operações realizadas pelo usuário no sistema deve ser
 de 1 falha para cada 200 operações.
 
-Item. 18. O sistema e sua respectiva documentação deverão ser entregues em um ano a partir
+18. O sistema e sua respectiva documentação deverão ser entregues em um ano a partir
 da data atual.
 
-Item. 19. O sistema não deve permitir operações que beneficiem alguns usuários em
+19. O sistema não deve permitir operações que beneficiem alguns usuários em
 detrimento de outros.
 
-Item. 20. A interface do usuário deve ser construída utilizando HTML5 e CSS.
+20. A interface do usuário deve ser construída utilizando HTML5 e CSS.
 
-Item. 21. Se a média do aluno por disciplina, calculada no final do semestre, for menor do que
+21. Se a média do aluno por disciplina, calculada no final do semestre, for menor do que
 7, deve ser exibido no boletim do aluno a informação "Reprovado".
 
 Baseado nos requisitos apresentados, é correto afirmar que são requisitos funcionais os
@@ -734,7 +718,6 @@ a) 1, 2, 6,10,11,14,15,16 e 21.
 b) 1, 6, 8,10,11,13,14,17,18 e 19.
 
 c) 1, 6, 7, 8,10,11,13,15 e 21.
-
 
 d) í, 3, 4, 8, io, li, 12,13,15,18 e 21.
 
@@ -751,27 +734,27 @@ Letra E; 2 é RNF, elimina-se a Letra A; 3 é RNF, elimina-se a Letra D; 7 é RF
 requisitos de um sistema de emissão de certidão negativa para o TRF4, tenha elencado
 os requisitos apresentados abaixo:
 
-Item. 1. Utilizar interface responsiva para que possa ser executado em dispositivos móveis e
+1. Utilizar interface responsiva para que possa ser executado em dispositivos móveis e
 na
 web.
 
-Item. 2. Validar 0 tipo de certidão solicitado.
+2. Validar 0 tipo de certidão solicitado.
 
-Item. 3. Emitir certidão negativa após verificação de situação do requerente.
+3. Emitir certidão negativa após verificação de situação do requerente.
 
-Item. 4. Solicitar 0 CPFdo requerente.
+4. Solicitar 0 CPFdo requerente.
 
-Item. 5. Responder ao clique único do usuário em qualquer botão da interface.
+5. Responder ao clique único do usuário em qualquer botão da interface.
 
-Item. 6. Validar 0 CPF do requerente.
+6. Validar 0 CPF do requerente.
 
-Item. 7. Restaurar os dados automaticamente após falhas não programadas.
+7. Restaurar os dados automaticamente após falhas não programadas.
 
-Item. 8. Solicitar o nome do requerente.
+8. Solicitar o nome do requerente.
 
 g. Oferecer dois tipos de certidão: para fins gerais e para fins eleitorais.
 
-Item. 10. Emitir aviso de impossibilidade de emissão da certidão.
+10. Emitir aviso de impossibilidade de emissão da certidão.
 
 Sobre os requisitos, é correto afirmar que
 a) todos são funcionais.
@@ -796,7 +779,6 @@ Comentários: a primeira parte da questão está perfeita! No entanto, são os r
 não-funcionais que incluem tempo de
 resposta, utilização de volumetria estática, escalabilidade, disponibilidade, segurança e
 usabilidade (Errado).
-
 
 Classificação quanto à origem
 
@@ -854,7 +836,6 @@ pequenas diferenças quanto à mesma imagem de edições anteriores. Vamos lá..
 
 REQUISITOS EXEMPLOS
 
-
 REQUISITOS DE
 CONFIABILIDADE
 REQUISITOS DE
@@ -869,7 +850,6 @@ O sistema não deve ficar fora do ar por mais de cinco segundos durante o dia.
 O sistema não deve permitirque os usuários modifiquem senhas de acesso que eles não criaram.
 
 O sistema deverá ser capaz de processar oitocentas requisições por segundo.
-
 
 (MPE/MA - 2013) O escopo de um projeto é determinado pelo levantamento de
 requisitos funcionais e não funcionais. Dentre os requisitos não funcionais se enquadram
@@ -888,7 +868,6 @@ e) de eficiência, de confiança e de proteção.
 Comentários: os requisitos organizacionais se dividem em ambientais, operacionais e de
 implementação (ou desenvolvimento)
 (Letra B).
-
 
 Engenharia de Requisitos
 
@@ -1019,7 +998,6 @@ não-ambígua, para validar a especificação e para gerenciar os requisitos à 
 eles são
 transformados em um sistema operacionalizável.
 
-
 Enfim, chegamos à nossa última pergunta! Quais são as fases do processo de
 Engenharia de
 Requisitos? Bem, há duas respostas para essa pergunta! Como assim, professor? É que há
@@ -1033,7 +1011,6 @@ as fases do Pressman abaixo:
 FASES | DESCRIÇÃO
 
 Após uma necessidade de o negócio ser identificada, busca-se estabelecer um entendimento
-
 
 CONCEPÇÃO
 
@@ -1130,7 +1107,6 @@ aluno no fórum de dúvidas por usar o Vasco como exemplo - Vascaínos, peço qu
 se sintam
 ofendidos. Mnemónicos devem ser absurdos mesmo para ajudar na memorização, ok?
 
-
 Onefootball
 
 Alexandre Fernandes * 10 de out de 2019
@@ -1166,7 +1142,6 @@ o resultado da Especificação de Requisitos são os Requisitos de Usuário e de
 da
 Validação de Requisitos é o famoso Documento de Requisitos.
 
-
 Todos esses artefatos servem de insumo para construir o Documento de Requisitos! Além disso,
 percebam que as setas vão e voltam entre as fases. Então, no momento de validar os
 requisitos, por
@@ -1175,7 +1150,6 @@ Requisitos. Bacana?
 Então, agora é o momento de entrar em mais detalhes sobre cada uma dessas fases que
 nós
 acabamos de ver. Vem comigo...
-
 
 Estudo de Viabilidade
 
@@ -1222,11 +1196,11 @@ Por fim, o Estudo de Viabilidade deve responder três questões em que - caso al
 delas tenha
 uma resposta negativa - o projeto não deve seguir adiante. São elas:
 
-Item. 1. O sistema contribui para os objetivos gerais da organização?
+1. O sistema contribui para os objetivos gerais da organização?
 
-Item. 2. O sistema pode ser implementado com tecnologia atual e dentro do custo e prazo?
+2. O sistema pode ser implementado com tecnologia atual e dentro do custo e prazo?
 
-Item. 3. O sistema pode ser integrado a outros sistemas já implantados?
+3. O sistema pode ser integrado a outros sistemas já implantados?
 
 As respostas para essas três questões não é algo tão simples de ser
 obtido, visto que
@@ -1238,18 +1212,17 @@ concluir se o desenvolvimento do sistema deve prosseguir ou não; pode-se propor
 alterações de
 escopo, orçamento, prazo; etc. Segue uma lista de questionamentos possíveis:
 
-Item. 1. Se o sistema não fosse implementado, qual seria o rumo da organização?
+1. Se o sistema não fosse implementado, qual seria o rumo da organização?
 
-Item. 2. Quais são as falhas dos processos atuais e quais soluções o novo sistema traria?
+2. Quais são as falhas dos processos atuais e quais soluções o novo sistema traria?
 
+3. Quanto aos objetivos e requisitos, qual a contribuição direta do novo sistema?
 
-Item. 3. Quanto aos objetivos e requisitos, qual a contribuição direta do novo sistema?
+4. Existe a possibilidade de integração com outros sistemas?
 
-Item. 4. Existe a possibilidade de integração com outros sistemas?
+5. Quais das tecnologias serão novas?
 
-Item. 5. Quais das tecnologias serão novas?
-
-Item. 6. O que o novo sistema irá apoiar?
+6. O que o novo sistema irá apoiar?
 
 (FUB - 2011) O estudo de viabilidade, uma atividade inicial do processo de engenharia
 de requisitos, consiste em um conjunto preliminar de requisitos de negócio, um esboço
@@ -1281,7 +1254,6 @@ Comentários: em todos os sistemas novos, o processo de engenharia de requisitos
 estudo de viabilidade
 (Letra A).
 
-
 Elicitação e Análise de Requisitos
 
 O verbo Elicitar não é muito utilizado em nosso cotidiano, mas significa o mesmo que descobrir,
@@ -1303,7 +1275,6 @@ um ou mais modelos de sistema e protótipos, que ajudam o analista a compreender
 sistema a ser
 especificado.
 
-
 Como o cliente
 explicou
 
@@ -1318,7 +1289,6 @@ codificou
 
 Como o consultor de
 negocios descreveu
-
 
 Valor que o cliente
 pagou
@@ -1380,7 +1350,6 @@ Assim, busca-se priorizar os requisitos e resolver conflitos por meio da negocia
 d. Documentação de requisitos: os requisitos são documentados e colocados na próxima
 volta da
 espiral. Podem ser produzidos documentos de requisitos formais ou informais.
-
 
 Em suma: (1) Obtenção/Descoberta de Requisitos - atividade de interação com
 as partes
@@ -1452,7 +1421,6 @@ software,
 
 utilizam-se as seguintes técnicas (as sublinhadas são as que caem mais em prova):
 
-
 í. Entrevistas
 
 Entrevistas formais ou informais com os stakeholders do sistema fazem parte
@@ -1502,7 +1470,7 @@ terceira que
 mais
 genéricas e termina com perguntas mais detalhadas novamente.
 
-Item. 2. Etnografia
+2. Etnografia
 
 Técnica de observação utilizada para compreender os requisitos organizacionais e sociais.
 Coloca-se o analista dentro do campo de atuação dos usuários, observando o
@@ -1530,7 +1498,7 @@ que afetam o trabalho, mas que não são claros e óbvios para as pessoas, podem
 somente se tornar
 claros quando examinados por um observador imparcial - por isso, a etnografia é importante!
 
-Item. 3. Cenários
+3. Cenários
 
 As pessoas geralmente consideram mais fácil relatar exemplos da vida real do
 que abstrair
@@ -1562,7 +1530,7 @@ para identificar cenários e captar seus detalhes em forma de textos, diagramas,
 imagens, eventos,
 casos de uso, etc.
 
-Item. 4. Questionários
+4. Questionários
 
 Formulários distribuídos aos stakeholders com questões pré-definidas. Torna-se útil quando
 a
@@ -1583,8 +1551,7 @@ ter conhecimento sobre opiniões das mesmas questões - são autoaplicáveis, po
 o próprio
 informante responde.
 
-Item. 5. Workshop de Requisitos
-
+5. Workshop de Requisitos
 
 Reunião estruturada e intensiva entre analistas e usuários com o intuito de obter um
 conjunto
@@ -1604,7 +1571,7 @@ pode ocasionar problemas por conta da presença física dos stakeholders, mas is
 mudado
 pós-pandemia.
 
-Item. 6. Brainstorming (Tempestade de Ideias)
+6. Brainstorming (Tempestade de Ideias)
 
 É uma abordagem de elicitação ocorrida em grupo em ambientes informais durante cerca
 de 15
@@ -1626,7 +1593,7 @@ brainstorming muitas vezes é utilizado em conjunto com outras técnicas, tais c
 workshops de
 requisitos.
 
-Item. 7. Leitura de Documentos
+7. Leitura de Documentos
 
 A técnica de leitura de documentos é responsável por coletar informações que são
 geralmente
@@ -1647,7 +1614,7 @@ empresa, padrões de mercado, leis, manuais de usuário, relatório de pesquisas
 de mercado,
 glossário de termos de negócio, etc.
 
-Item. 8. JAD (Joint Application Design)
+8. JAD (Joint Application Design)
 
 Similar à técnica de workshop de requisitos e registrada pela IBM, ela busca reunir
 os usuários e
@@ -1678,7 +1645,7 @@ altamente produtivas, porque resolvem dificuldades entre as partes enquanto
 se dá o
 desenvolvimento do sistema para a empresa.
 
-Item. 9. Prototipação
+9. Prototipação
 
 Técnica de elicitação, independente de tecnologia, utilizada no estágio inicial
 do projeto,
@@ -1698,7 +1665,7 @@ alto nível de satisfação dos usuários devido a sensação de segurança ao v
 próximo do
 real. No entanto, há um alto custo de investimento em relação a outra técnicas estudadas.
 
-Item. 10. Reúso de Requisitos
+10. Reúso de Requisitos
 
 O reuso de requisitos trata do estudo e reutilização de especificações e glossários
 referentes a
@@ -1720,8 +1687,7 @@ reduz riscos, visto que requisitos reutilizados têm uma chance maior de serem
 compreendidos
 pelos stakeholders.
 
-Item. 11. Histórias de Usuários
-
+11. Histórias de Usuários
 
 Introduzida inicialmente pela Metodologia XP (Extreme Programming'), nada mais é do que
 uma
@@ -1756,7 +1722,7 @@ permitir ajustes e mudanças à medida que o projeto avança. Essa é uma das t�
 mais
 utilizadas e mais cobradas em prova (apesar de ser bem mais cobrada no contexto de XP).
 
-Item. 12. Participação Ativa de Usuários
+12. Participação Ativa de Usuários
 
 A técnica de participação ativa de usuários permite a incorporação dos usuários e
 clientes ao
@@ -1766,7 +1732,7 @@ utilizadas para ser capaz de ler as descrições e criticá-las. Permite uma int
 real entre clientes
 e usuários, no entanto necessita de um certo treinamento aos usuários participantes.
 
-Item. 13. Encenação
+13. Encenação
 
 É uma abordagem que implica usar uma ferramenta para ilustrar para os usuários
 (atores) como o
@@ -1778,7 +1744,7 @@ estimula soluções mais criativas e a revisão em equipe, facilita o processo d
 entrevista, entre
 outros.
 
-Item. 14. Interpretação de Papeis
+14. Interpretação de Papeis
 
 A técnica de interpretação de papeis é uma abordagem que atribui a cada membro do
 grupo
@@ -1788,8 +1754,7 @@ longo do caminho, haverá discussões sobre quem é responsável por o quê. O A
 Sistemas
 interpreta o papel do usuário, o que o ajuda a obter um discernimento real do domínio do problema.
 
-
-Item. 15. Grupo Focal
+15. Grupo Focal
 
 A técnica de grupo focal trata de um grupo de discussão informal e de
 tamanho reduzido
@@ -1807,7 +1772,7 @@ técnica não garante total anonimato - que é relevante em algumas ocasiões. P
 ele depende
 da seleção criteriosa dos participantes e as informações obtidas não podem ser generalizadas.
 
-Item. 16. Análise de Protocolos
+16. Análise de Protocolos
 
 Essa técnica consiste em analisar o trabalho de determinada pessoa por meio de
 verbalização,
@@ -1817,7 +1782,7 @@ que você faria se...?1' e, assim, possibilita elicitar fatos não facilmente
 observáveis e permite melhor
 entendimento dos fatos. Galera, funciona como um protocolo passo a passo.
 
-Item. 17. Pontos de Vista (Viewpoint-Oriented Requirements Definition - VORD)
+17. Pontos de Vista (Viewpoint-Oriented Requirements Definition - VORD)
 
 A técnica de pontos de vista (também chamada de VORD) considera as perspectivas de diversas
 partes interessadas sobre os requisitos do sistema de software. Ela reconhece os pontos de
@@ -1837,7 +1802,6 @@ mais dentro
 do contexto em que são mais utilizadas (Ex: Histórias de Usuário, no contexto de
 XP; Casos de Uso,
 no contexto de UML; entre outros). Fechou? V
-
 
 Especificação de Requisitos
 
@@ -1908,7 +1872,6 @@ requisitos de sistemas
 gráfico (Ex: Diagramas), um modelo matemático formal (Ex: Autômatos),
 cenários de casos de uso (em geral, para sistemas menores).
 
-
 são extensões dos requisitos de usuário e são usados como ponto de partida para o
 projeto do
 sistema. Eles adicionam detalhes e explicam como os requisitos do usuário
@@ -1949,7 +1912,6 @@ por utilizar "termos gerais", porque
 pode dar a entender que se trata de um documento mais abstrato, sendo que o documento de
 especificação de requisitos é um
 documento que apresenta mais detalhes (Correto).
-
 
 Validação de Requisitos
 
@@ -2020,7 +1982,6 @@ consistência (para evitar ambiguidade), bem como verificar os requisitos como u
 em termos
 de completeza.
 
-
 Conflitos, contradições, erros e omissões nos requisitos devem ser apontados e
 registrados
 formalmente no relatório de revisão. É, portanto, de responsabilidade dos usuários, do
@@ -2070,7 +2031,6 @@ ADAPTABILIDADE Examina se os requisitos podem sofrer alterações sem produzir
 efeitos em outros
 requisitos.
 
-
 CONFORMIDADE COM
 
 NORMAS
@@ -2097,7 +2057,6 @@ disponibiliza um conjunto de casos de teste e monitora os resultados obtidos
 de cada revisor.
 Interessante, não?
 
-
 De acordo com Stephen R. Schach, de forma superficial, a diferença entre uma inspeção
 e um
 walkthrough é que a equipe de inspeção usa uma lista de verificação de questões
@@ -2113,7 +2072,7 @@ formalização são a categorização metódica das falhas e o emprego dessas in
 inspeção dos documentos dos fluxos de trabalho seguintes bem como nas inspeções de futuros
 produtos.
 
-Item. 2. Prototipação:
+2. Prototipação:
 
 Um modelo executável do sistema é apresentado para usuários finais e
 clientes. Eles podem
@@ -2135,7 +2094,7 @@ sistema. No segundo caso, é validar-por meio de um protótipo-se os requisitos
 elicitados são
 realmente o que o usuário pensava.
 
-Item. 3. Geração de Casos de Teste:
+3. Geração de Casos de Teste:
 
 É importante destacar que os requisitos devem ser testáveis. Se os testes dos
 requisitos forem
@@ -2165,7 +2124,6 @@ estão sendo atendidas por tais requisitos. Entenderam um pouco melhor? No entan
 conforme
 eu disse, é comum que as provas tratem ambos simplesmente como Validação de Requisitos.
 
-
 Durante o processo de validação de requisitos, devem ser realizadas verificações nos
 requisitos do
 documento de requisitos. Essas verificações incluem:
@@ -2174,7 +2132,6 @@ TIPO DE VERIFICAÇÃO I DESCRIÇÃO
 
 Estudos e análises podem identificar que funções adicionais e diferentes
 daquelas
-
 
 VERIFICAÇÃO DE
 
@@ -2225,7 +2182,6 @@ etc. Para isso,
 existem diversas técnicas que podem ser utilizadas isoladamente ou em
 conjunto.
 Fechado? Então vamos para a nossa última fase...
-
 
 Gerenciamento de Requisitos
 
@@ -2293,7 +2249,6 @@ stakeholders que
 propuseram os requisitos e aos motivos desses requisitos. Quando uma mudança é proposta,
 usam-se essas informações para consultar os stakeholders sobre a mudança.
 
-
 Informações de rastreabilidade de requisitos: ligam os requisitos dependentes
 dentro do
 documento de requisitos. Usam-se essas informações para avaliar quantos
@@ -2326,9 +2281,7 @@ consideravelmente menos formal e, na prática, dispensável. Bacana? Fim, galera
 podem
 comemorar que agora é só exercício;)
 
-
 RESUMo
-
 
 REQUISITOS DE USUÁRIO
 
@@ -2345,7 +2298,6 @@ Descrições detalhadas sobre as funções, operações e restrições de sistem
 definem exatamente o que deve ser implementado. São requisitos com baixo nível
 de abstração e muitos detalhes, feitos para serem lidos por pessoas experientes -
 podem serfuncionais ou não funcionais.
-
 
 REQUISITOS NORMAIS
 
@@ -2379,7 +2331,6 @@ principal da organização. São concebidos com a essência de um sistema e seu
 domínio da aplicação, e mudam mais lentamente que requisitos voláteis. Em geral,
 eles são derivados do Modelo de Domínio.
 
-
 REQUISITOS VOLÁTEIS
 
 REQUISITOS FUNCIONAIS
@@ -2397,7 +2348,6 @@ objetivos. Eles dependem do tipo de software, dos usuários esperados e do tipo 
 sistema onde o software será implantado e fazem parte da arquitetura de um
 sistema. Grosso modo, pode-se dizerque eles tratam de o que o sistema deve fazer
 enquanto os requisitos não-funcionais tratam de como o sistema deve fazer.
-
 
 REQUISITOS NÃO-FUNCIONAIS
 
@@ -2424,7 +2374,6 @@ desempenho quanto à rapidez com que o sistema deve operar e quanto de
 memória ele requer, requisitos de confiabilidade que definem a taxa aceitável de
 falhas, requisitos de portabilidade e requisitos de usabiIidade.
 
-
 REQUISITOS ORGANIZACIONAIS
 
 REQUISITOS EXTERNOS
@@ -2441,7 +2390,6 @@ define como o sistema interage com outros sistemas, requisitos legais que devem
 serseguidos, requisitos éticos sistema para assegurarque ele será aceito portodos.
 
 REQUISITOS NÃO-FUNCIONAIS | EXEMPLOS
-
 
 REQUISITOS DE
 CONFIABILIDADE
@@ -2480,14 +2428,12 @@ REQUISITOS O sistema não apresentará aos usuários quaisquer dados de natureza
 confidencial
 de outrem.
 
-
 ÉTICOS
 REQUISITOS DE
 IMPLEMENTAÇÃO
 
 A interface de usuário deve ser implementada em HTML e não se deve utili
 Applets de Java.
-
 
 Requisitos de
 Contabilidade
@@ -2498,7 +2444,6 @@ Segurança
 FASES | DESCRIÇÃO
 
 Após uma necessidade de o negócio ser identificada, busca-se estabelecer um entendimento
-
 
 CONCEPÇÃO
 
@@ -2533,7 +2478,6 @@ usuários, por
 intermédio de um processo de negociação. Os requisitos são avaliados junto ao cliente
 e podem
 se combinar, excluir ou até mesmo inserir novos requisitos.
-
 
 ESPECIFICAÇÃO
 
@@ -2599,12 +2543,10 @@ FASES DE ACORDO COM ROGER PRESSMAN
 
 ENAS AMENTÁVEIS M OVO MPATEDO ASCO DA AMA
 
-
 ONCEPÇÃO> EVANTAMENTO > LABORAÇÃO > EGOCIAÇÃO > SPECIFICAÇÃO > ALIDAÇÃO > ESTÃO
 
 Relatório de
 Viabilidade
-
 
 PRINCIPAIS
 TÉCNICAS
@@ -2722,7 +2664,6 @@ caber em um post-it. Um padrão seria: "Como um <papel>, eu quero <meta> de modo
 
 ® PARA MAIS DICAS: WWW.INSTA6RAM.COM/PROFESSORDIEGOCARVALHO
 
-
 QUESTõES CoMENTADAS - CESPE
 
 í. (CESPE / BANRISUL - 2022) Requisitos não funcionais de um sistema descrevem seu
@@ -2741,7 +2682,7 @@ Requisitos Funcionais (RF).
 
 Gabarito: Errado
 
-Item. 2. (CESPE / BANRISUL - 2022) Requisitos organizacionais são requisitos de
+2. (CESPE / BANRISUL - 2022) Requisitos organizacionais são requisitos de
 sistema amplos,
 derivados das políticas e dos procedimentos nas organizações do cliente e do
 desenvolvedor,
@@ -2761,7 +2702,7 @@ produto e a sua documentação devem ser entregues.
 
 Gabarito: Correto
 
-Item. 3. (CESPE / BANRISUL - 2022) Os requisitos do sistema devem descrever os comportamentos
+3. (CESPE / BANRISUL - 2022) Os requisitos do sistema devem descrever os comportamentos
 interno e externo do sistema, devendo-se preocupar com a forma como ele deve ser
 projetado
 ou implementado.
@@ -2776,7 +2717,7 @@ projetado ou implementado.
 
 Gabarito: Errado
 
-Item. 4. (CESPE / BANRISUL - 2022) A especificação de requisitos é frequentemente
+4. (CESPE / BANRISUL - 2022) A especificação de requisitos é frequentemente
 composta de
 vários tipos de documentos e não raro abrange: visão geral; glossário; modelos do sistema; lista
 de requisitos funcionais e lista de requisitos não funcionais; especificação
@@ -2797,7 +2738,7 @@ detalhada de requisitos.
 
 Gabarito: Correto
 
-Item. 5. (CESPE / BANRISUL - 2022) O objetivo principal da especificação é
+5. (CESPE / BANRISUL - 2022) O objetivo principal da especificação é
 documentar todas as
 necessidades dos clientes e obter um aceite quanto às entregas de produto propostas.
 
@@ -2813,7 +2754,7 @@ partes, garantindo que os requisitos do cliente sejam atendidos.
 
 Gabarito: Correto
 
-Item. 6. (CESPE / BANRISUL - 2022) Na execução da técnica de apprenticing
+6. (CESPE / BANRISUL - 2022) Na execução da técnica de apprenticing
 (aprendizado), o
 engenheiro de requisitos deve questionar procedimentos operacionais complexos e
 pouco
@@ -2837,12 +2778,11 @@ pelo sistema.
 
 Gabarito: Correto
 
-Item. 7. (CESPE / BANRISUL - 2022) Em situações em que alguma das partes interessadas não
+7. (CESPE / BANRISUL - 2022) Em situações em que alguma das partes interessadas não
 consiga
 expressar de forma oral as suas necessidades com clareza, recomenda-se o emprego da
 técnica
 da etnografia para o levantamento de requisitos.
-
 
 Comentários:
 
@@ -2860,7 +2800,7 @@ contexto.
 
 Gabarito: Correto
 
-Item. 8. (CESPE / BANRISUL-2022) O levantamento de requisitos com casos de uso é muito
+8. (CESPE / BANRISUL-2022) O levantamento de requisitos com casos de uso é muito
 eficaz para
 a elicitação de requisitos não funcionais.
 
@@ -2876,7 +2816,7 @@ análise de requisitos como entrevistas, questionários, estudos de caso, brains
 
 Gabarito: Errado
 
-Item. 9. (CESPE / BANRISUL-2022) A analogia é uma técnica pouco recomendada quando é
+9. (CESPE / BANRISUL-2022) A analogia é uma técnica pouco recomendada quando é
 necessário
 identificar requisitos novos, inovadores ou atrativos, em um ambiente cujo objetivo é
 encontrar
@@ -2903,7 +2843,6 @@ soluções e
 experiências existentes.
 
 Comentários:
-
 
 A arqueologia é uma ótima ferramenta para modernizar sistemas legados, pois ajuda a
 preservar o
@@ -2942,7 +2881,7 @@ organização. Logo, a questão está correta, mas foi anulada porque o conteúd
 
 Gabarito: Anulado
 
-Item. 12. (CESPE / BNB - 2022) Para capturar os requisitos da interface de um sistema, os
+12. (CESPE / BNB - 2022) Para capturar os requisitos da interface de um sistema, os
 protótipos
 podem ser desenhados como mockups, mesmo que estes não permitam interações do usuário
 com a execução das funcionalidades.
@@ -3030,7 +2969,6 @@ particular, de uma especificação tem a propriedade de ser imutável.
 
 Comentários:
 
-
 Questão polêmica! O gabarito definitivo foi correto, mas eu acho quase
 impossível existir uma
 documentação imutável mesmo com a mais adequada configuração. Para mim, a questão
@@ -3050,7 +2988,7 @@ rwe funcionais.
 
 Gabarito: Errado
 
-Item. 17. (CESPE / BANRISUL - 2022) Em situações em que alguma das partes interessadas não
+17. (CESPE / BANRISUL - 2022) Em situações em que alguma das partes interessadas não
 consiga
 expressar de forma oral as suas necessidades com clareza, recomenda-se o emprego da
 técnica
@@ -3083,7 +3021,6 @@ avalia
 se ele fornece os recursos que os usuários precisam.
 
 Comentários:
-
 
 Não, a usabilidade é um atributo de qualidade que avalia quão fácil uma interface é de usar.
 
@@ -3136,7 +3073,6 @@ técnica de prototipação da engenharia de requisitos.
 Comentários:
 
 O produto final da engenharia de requisitos é a documento de requisitos.
-
 
 Gabarito: Errado
 
@@ -3192,7 +3128,6 @@ funcionalidade
 completa. Vejam, portanto, que a questão não se trata da definição das histórias de usuário.
 
 Gabarito: Errado
-
 
 27.(CESPE / Petrobrás - 2022) Os critérios de aceitação descrevem um conjunto
 mínimo de
@@ -3254,7 +3189,6 @@ c) quando se deseja obter uma visão do funcionamento do sistema na forma
 prevista,
 independentemente das interferências de seu contexto.
 
-
 d) na descoberta de requisitos derivados do conhecimento das atividades de outras
 pessoas que
 realizam trabalhos adjacentes ao analisado.
@@ -3281,7 +3215,7 @@ adjacentes ao analisado.
 
 Gabarito: Letra D
 
-Item. 31. (CESPE / TJ-RJ - 2021) Para os propósitos da modelagem dos requisitos com base em
+31. (CESPE / TJ-RJ - 2021) Para os propósitos da modelagem dos requisitos com base em
 cenários,
 um suporte apropriado é o uso de
 a) diagrama de casos de uso e histórias de usuários.
@@ -3304,7 +3238,7 @@ interação em si.
 
 Gabarito: Letra A
 
-Item. 32. (CESPE / TELEBRÁS - 2021) No âmbito da engenharia de software, o principal
+32. (CESPE / TELEBRÁS - 2021) No âmbito da engenharia de software, o principal
 produto da
 engenharia de requisitos é o documento de especificação de requisitos de software.
 
@@ -3315,7 +3249,6 @@ manter um
 documento de requisitos de sistema.
 
 Gabarito: Correto
-
 
 33-(CESPE / TCE-RJ - 2021) O gerenciamento de requisitos trata do
 desenvolvimento
@@ -3380,7 +3313,7 @@ requisitos.
 
 Gabarito: Errado
 
-Item. 37. (CESPE / Ministério da Economia - 2020) Requisitos funcionais envolvem as
+37. (CESPE / Ministério da Economia - 2020) Requisitos funcionais envolvem as
 características de
 confiabilidade e de desempenho de um sistema.
 
@@ -3432,7 +3365,6 @@ de prova recente sobre isso! Logo, o impacto orçamentário é considerado.
 
 Gabarito: Errado
 
-
 4O.(CESPE / TJ-AM - 2019) Na gerência de requisitos, as mudanças no documento de
 requisitos
 devem aumentar as referências a outros documentos e aprimorar a interdependência entre
@@ -3447,7 +3379,7 @@ aumentar as referências a outros documentos.
 
 Gabarito: Errado
 
-Item. 41. (CESPE / TJ-AM -2019) Uma especificação de requisitos é inconsistente quando, por
+41. (CESPE / TJ-AM -2019) Uma especificação de requisitos é inconsistente quando, por
 exemplo,
 em um de seus subconjuntos conste que o pagamento será feito antes do
 fechamento da
@@ -3465,7 +3397,7 @@ ambíguos ou contraditórios.
 
 Gabarito: Correto
 
-Item. 42. (CESPE/TJ-AM-2019) Em um protótipo para validar os requisitos de um software, é
+42. (CESPE/TJ-AM-2019) Em um protótipo para validar os requisitos de um software, é
 admissível
 deixar de fora os requisitos não funcionais ou reduzir seus padrões.
 
@@ -3488,7 +3420,6 @@ Comentários:
 A interoperabilidade é evidentemente um requisito não-funcional, uma vez que
 trata de uma
 restrição de uma funcionalidade.
-
 
 Gabarito: Errado
 
@@ -3545,7 +3476,6 @@ processo de
 software.
 
 Gabarito: Correto
-
 
 47-(CESPE / ABIN - 2018) Ao se aplicar a rastreabilidade bidirecional, é possível
 determinar se
@@ -3608,7 +3538,6 @@ sem a participação do cliente.
 
 Comentários:
 
-
 Na verdade, é obrigatória e fundamental a participação do cliente na especificação de requisitos.
 
 Gabarito: Errado
@@ -3665,7 +3594,6 @@ orçamentárias - os requisitos externos são regulatórios, éticos ou legais.
 
 Gabarito: Errado
 
-
 54-(CESPE / IPHAN - 2018) Tanto a etnografia quanto o protótipo podem ser
 utilizados para
 validação e elicitação de requisitos, contudo a aplicação de um elimina a possibilidade
@@ -3682,7 +3610,7 @@ utilizado para validar os requisitos descobertos na etnografia, por exemplo.
 
 Gabarito: Errado
 
-Item. 55. (CESPE / IPHAN - 2018) A validação de requisitos se sobrepõe à análise de
+55. (CESPE / IPHAN - 2018) A validação de requisitos se sobrepõe à análise de
 requisitos, pois tem
 a finalidade de encontrar eventuais problemas nos requisitos e
 validá-los conforme as
@@ -3722,7 +3650,6 @@ estar se
 referindo à técnica de etnografia e, não, entrevista.
 
 Gabarito: Errado
-
 
 57- (CESPE / IPHAN - 2018) Situação hipotética: Na metodologia de desenvolvimento de
 software
@@ -3790,7 +3717,6 @@ desenvolver os
 requisitos funcionais elencados.
 
 Comentários:
-
 
 Questão simples! A análise de requisitos realmente permite identificaras necessidades dos
 clientes
@@ -3901,10 +3827,8 @@ e) regras de negócio.
 
 Comentários:
 
-
 Requisitos Não-
 Funcionais
-
 
 Requisitos de
 Confiabilidade
@@ -3926,7 +3850,6 @@ Operacionais
 
 Requisitos de
 Implementação
-
 
 Requisitos de
 Desempenho
@@ -3967,11 +3890,10 @@ recursos e características do software; (e) Errado, esses são os requisitos fu
 
 Gabarito: Letra D
 
-Item. 66. (CESPE / TRT-PR - 2016 - Letra D) Durante a fase de levantamento de requisitos
+66. (CESPE / TRT-PR - 2016 - Letra D) Durante a fase de levantamento de requisitos
 para a
 construção de um software, compete aos desenvolvedores organizaras necessidades em ordem
 de prioridade.
-
 
 Comentários:
 
@@ -3997,7 +3919,7 @@ Requisitos Fascinantes: tecla multitoque e correio de voz visual.
 
 Gabarito: Correto
 
-Item. 68. CESPE / MPOG-ATI - 2015) Tão logo exista uma versão do documento de
+68. CESPE / MPOG-ATI - 2015) Tão logo exista uma versão do documento de
 requisitos, o
 processo de gerenciamento de requisitos deverá ser iniciado.
 
@@ -4015,7 +3937,7 @@ Logo, a questão está corretíssima.
 
 Gabarito: Correto
 
-Item. 69. (CESPE / MPOG-ATI - 2015) As informações de rastreabilidade de requisitos
+69. (CESPE / MPOG-ATI - 2015) As informações de rastreabilidade de requisitos
 possibilitam a
 realização de estimativa do custo de mudanças em requisitos.
 
@@ -4030,7 +3952,6 @@ absolutamente nenhuma
 possibilidade de estimar custos de mudanças em requisitos por meio de
 informações de
 rastreabilidade.
-
 
 Gabarito: Correto
 
@@ -4050,7 +3971,7 @@ formais.
 
 Gabarito: Correto
 
-Item. 71. (CESPE / MPOG-ATI - 2015) Para a elicitação dos requisitos, é indicada à empresa
+71. (CESPE / MPOG-ATI - 2015) Para a elicitação dos requisitos, é indicada à empresa
 a realização
 de um workshop de requisitos, em que seja determinado um facilitador, mesmo que sem
 grande
@@ -4080,7 +4001,7 @@ disse apenas 'sem grande experiência', eu a avalio como correta.
 
 Gabarito: Correto
 
-Item. 72. (CESPE / MPOG-ATI - 2015) Os requisitos não funcionais a serem especificados
+72. (CESPE / MPOG-ATI - 2015) Os requisitos não funcionais a serem especificados
 estabelecerão
 restrições que devem ser seguidas portodo o sistema da referida empresa, podendo até
 mesmo
@@ -4105,7 +4026,7 @@ funcionais. Entenderam isso? Caiu de novo a mesma coisa!
 
 Gabarito: Correto
 
-Item. 73. (CESPE / MPOG-ATI - 2015) A definição de um protótipo para a validação dos
+73. (CESPE / MPOG-ATI - 2015) A definição de um protótipo para a validação dos
 requisitos pode
 tornar o processo de requisitos mais barato e mais simplificado, já que ele vai
 corresponder à
@@ -4149,7 +4070,6 @@ Casos de Teste.
 
 Gabarito: Correto
 
-
 75.(CESPE / MPOG-ATI - 2015) No ciclo de vida do software, o congelamento dos
 requisitos do
 software garante que este, quando em desenvolvimento, atenda à expectativa do
@@ -4183,7 +4103,6 @@ Comentários:
 Requisitos Não-
 Funcionais
 
-
 Requisitos de
 Confiabilidade
 
@@ -4205,13 +4124,11 @@ Operacionais
 Requisitos de
 Implementação
 
-
 Requisitos de
 Desempenho
 
 Requisitos de
 Armazenamento
-
 
 Requisitos
 Regulatórios
@@ -4226,18 +4143,16 @@ Bastava lembrar da parte superior direita do quadrinho!
 
 Gabarito: Correto
 
-Item. 77. (CESPE / STJ - 2015) Os requisitos reguladores, legais e éticos são externos e não
+77. (CESPE / STJ - 2015) Os requisitos reguladores, legais e éticos são externos e não
 funcionais.
 
 Comentários:
-
 
 Requisitos Não-
 Funcionais
 
 Requisitos de
 Produtos
-
 
 Requisitos de
 Confiabilidade
@@ -4258,7 +4173,6 @@ Operacionais
 
 Requisitos de
 Implementação
-
 
 Requisitos de
 Desempenho
@@ -4310,7 +4224,6 @@ exigência de que, em
 determinado projeto, o software desenvolvido funcione no sistema operacional Linux, uma
 vez
 que essa exigência está diretamente ligada ao software.
-
 
 Comentários:
 
@@ -4372,7 +4285,6 @@ atendida por um software na forma de aspectos funcionais e não funcionais.
 
 Comentários:
 
-
 Trata-se de uma boa definição de requisitos. Ele realmente é uma condição,
 característica ou
 capacidade, determinada no universo das necessidades do negócio do usuário, que
@@ -4413,7 +4325,7 @@ desenvolvedor.
 
 Gabarito: Errado
 
-Item. 86. (CESPE / FUB - 2011) A etnografia, uma técnica de levantamento de
+86. (CESPE / FUB - 2011) A etnografia, uma técnica de levantamento de
 requisitos, é uma
 abordagem completa para elicitação, utilizada para compreender os
 requisitos sociais e
@@ -4429,8 +4341,7 @@ muito eficaz na elicitação.
 
 Gabarito: Errado
 
-
-Item. 87. (CESPE/ EBC-2011) Uma das principais técnicas de verificação é a prototipação. Um
+87. (CESPE/ EBC-2011) Uma das principais técnicas de verificação é a prototipação. Um
 protótipo
 é um produto parcialmente desenvolvido, que possibilita aos clientes e
 desenvolvedores
@@ -4444,7 +4355,7 @@ A prototipação é uma técnica de validação de requisitos e, não, verifica�
 
 Gabarito: Errado
 
-Item. 88. (CESPE / TJ-ES - 2011) Assim como o software, os requisitos também devem ser
+88. (CESPE / TJ-ES - 2011) Assim como o software, os requisitos também devem ser
 avaliados
 quanto à qualidade. A validação, atividade da engenharia de requisitos, é
 responsável por
@@ -4470,7 +4381,7 @@ para o projeto e para o produto. Logo, questão perfeita!
 
 Gabarito: Correto
 
-Item. 89. (CESPE / STM - 2011) São consideradas técnicas de validação de requisitos:
+89. (CESPE / STM - 2011) São consideradas técnicas de validação de requisitos:
 revisões de
 requisitos, prototipação e geração de casos de teste.
 
@@ -4489,7 +4400,6 @@ avaliação do
 usuário quanto às atividades definidas.
 
 Comentários:
-
 
 Vamos por partes: de fato, são atividades da análise de software (eu disse análise de
 software e,
@@ -4544,10 +4454,8 @@ por estarem fora do sistema, ou seja, do domínio do negócio.
 
 Comentários:
 
-
 Requisitos Não-
 Funcionais
-
 
 Requisitos de
 Confiabilidade
@@ -4569,7 +4477,6 @@ Operacionais
 
 Requisitos de
 Implementação
-
 
 Requisitos de
 Desempenho
@@ -4622,10 +4529,9 @@ certa quantidade de requisitos! Como se pode começar a levantar requisitos no f
 primeira
 versão do protótipo?Também não faz sentido!
 
-
 Gabarito: Errado
 
-Item. 96. (CESPE / MPU - 2010) Embora a criação de uma sequência ilustrada de telas
+96. (CESPE / MPU - 2010) Embora a criação de uma sequência ilustrada de telas
 por meio de
 programas de desenho gráfico seja útil para a identificação de alguns requisitos do
 software, ela
@@ -4655,7 +4561,7 @@ especificação de requisitos.
 
 Gabarito: Errado
 
-Item. 98. (CESPE / MPU - 2010) A verificação de requisitos tem por objetivo analisar se os
+98. (CESPE / MPU - 2010) A verificação de requisitos tem por objetivo analisar se os
 modelos
 construídos estão de acordo com os requisitos definidos. Por sua vez, a validação de
 requisitos
@@ -4679,8 +4585,7 @@ tais requisitos. Logo, questão perfeita!
 
 Gabarito: Correto
 
-
-Item. 99. (CESPE / TCU - 2010) Por se tratar de função essencial da engenharia de requisitos, a
+99. (CESPE / TCU - 2010) Por se tratar de função essencial da engenharia de requisitos, a
 gestão
 formal de requisitos é indispensável mesmo para projetos de pequeno porte, com apenas
 duas
@@ -4696,7 +4601,7 @@ dispensável.
 
 Gabarito: Errado
 
-Item. 100. (CESPE / DETRAN-DF - 2009) Requisitos funcionais são restrições sobre as
+100. (CESPE / DETRAN-DF - 2009) Requisitos funcionais são restrições sobre as
 funções ou
 serviços oferecidos pelo sistema. Esses requisitos consideram as declarações de
 serviços, a
@@ -4714,7 +4619,7 @@ oferecidos pelo sistema.
 
 Gabarito: Errado
 
-Item. 101. (CESPE / IPEA - 2009) Elicitação envolve a identificação sistemática de
+101. (CESPE / IPEA - 2009) Elicitação envolve a identificação sistemática de
 requisitos nem
 sempre explicitados pelos clientes. Protótipos, pesquisas estruturadas, testes-beta,
 análise de
@@ -4742,10 +4647,9 @@ concurseiro (adquirida quando se faz várias questões e provas) para saber quan
 é o foco da
 questão e quando não é! Nesse caso, não era o foco da questão.
 
-
 Gabarito: Correto
 
-Item. 102. (CESPE / TCE-RN - 2009) A etnografia é uma técnica utilizada para a
+102. (CESPE / TCE-RN - 2009) A etnografia é uma técnica utilizada para a
 descoberta de
 requisitos de sistemas de software na qual, por meio de observações, procura-se
 compreender
@@ -4761,7 +4665,7 @@ muito eficaz na elicitação.
 
 Gabarito: Correto
 
-Item. 103. (CESPE/IPEA-2009) A política organizacional para o planejamento e execução do
+103. (CESPE/IPEA-2009) A política organizacional para o planejamento e execução do
 processo
 de gerenciamento de requisitos reflete as expectativas organizacionais para
 processos de
@@ -4779,7 +4683,7 @@ mudanças dos requisitos de sistema, identificando inconsistências.
 
 Gabarito: Correto
 
-Item. 104. (CESPE / STJ - 2008) Os requisitos de um sistema podem ser
+104. (CESPE / STJ - 2008) Os requisitos de um sistema podem ser
 descrições dos serviços
 fornecidos ou restrições operacionais. Requisitos podem ainda ser
 classificados como
@@ -4797,12 +4701,11 @@ algumas bancas copiam a si mesmas. Tudo correto na questão...
 
 Gabarito: Correto
 
-Item. 105. (CESPE / SERPRO - 2008) O levantamento de requisitos é importante,
+105. (CESPE / SERPRO - 2008) O levantamento de requisitos é importante,
 porém não é
 fundamental, pois recomenda-se avançar o quanto antes para as demais atividades
 que
 permitam uma visualização do software e reduzam a ansiedade do cliente em ver algo pronto.
-
 
 Comentários:
 
@@ -4814,7 +4717,7 @@ indispensável e vários outros sinônimos.
 
 Gabarito: Errado
 
-Item. 106. CESPE / MPE-RR- 2008) Os requisitos de um sistema são descrições dos serviços
+106. CESPE / MPE-RR- 2008) Os requisitos de um sistema são descrições dos serviços
 fornecidos
 pelo sistema e suas restrições operacionais. O processo de descobrir, analisar,
 documentar e
@@ -4830,7 +4733,7 @@ requisitos está correta e a classificação de requisitos também está correta
 
 Gabarito: Correto
 
-Item. 107. (CESPE / MPU - 2007) A especificação de requisitos permite, em determinado
+107. (CESPE / MPU - 2007) A especificação de requisitos permite, em determinado
 momento,
 revelar o que o sistema irá realizar no que se refere às funcionalidades, sem
 definir, nesse
@@ -4848,7 +4751,7 @@ suas restrições operacionais.
 
 Gabarito: Correto
 
-Item. 108. (CESPE / MPU - 2007) Na validação de requisitos — parte integrante da
+108. (CESPE / MPU - 2007) Na validação de requisitos — parte integrante da
 especificação
 desses requisitos —, é correto o uso de diagramas da UML, tais como diagrama de
 classes, de
@@ -4869,7 +4772,7 @@ o Diagrama de Classes para auxiliar na validação junto ao cliente.
 
 Gabarito: Correto
 
-Item. 109. (CESPE / SERPRO - 2005) O gerenciamento de requisitos inclui, entre outras, as
+109. (CESPE / SERPRO - 2005) O gerenciamento de requisitos inclui, entre outras, as
 seguintes
 atividades: levantar, analisar, especificar, validar e prototipar requisitos
 funcionais e não-
@@ -4885,7 +4788,7 @@ fato é que essa questão é absurdamente errada, mas o gabarito foi mantido com
 
 Gabarito: Correto
 
-Item. 110. (CESPE / SERPRO - 2005) Uma das principais atividades relacionadas à
+110. (CESPE / SERPRO - 2005) Uma das principais atividades relacionadas à
 engenharia de
 software é o levantamento dos requisitos. Nesse contexto, foi introduzida, na década de
 80 do
@@ -4907,7 +4810,7 @@ reunião. Acredito que caberia recurso!
 
 Gabarito: Correto
 
-Item. 111. (CESPE / AGE-ES - 2004) A engenharia de requisitos fornece mecanismos que
+111. (CESPE / AGE-ES - 2004) A engenharia de requisitos fornece mecanismos que
 permitem
 entender e analisar a necessidade de o cliente avaliar a exequibilidade, negociar uma
 solução
@@ -4928,7 +4831,7 @@ requisitos. Contudo, o CESPE considerou-a como correta.
 
 Gabarito: Correto
 
-Item. 112. (CESPE / Prefeitura de Boa Vista - 2004) Requisitos adequadamente definidos
+112. (CESPE / Prefeitura de Boa Vista - 2004) Requisitos adequadamente definidos
 constituem
 base importante sobre a qual um sistema poderá ser bem desenvolvido. No
 processo de
@@ -4947,7 +4850,7 @@ Como ele poderia utilizar as informações do processo de levantamento de requis
 
 Gabarito: Errado
 
-Item. 113. (CESPE / COHAB - 2004) O QFD (Quality Function Deployment) tem uma
+113. (CESPE / COHAB - 2004) O QFD (Quality Function Deployment) tem uma
 abordagem
 embasada na criação de uma equipe formada por clientes e desenvolvedores, que trabalham
 juntos para identificar o problema, propor elementos da solução,
@@ -4976,12 +4879,11 @@ e, por isso, está errada.
 
 Gabarito: Errado
 
-Item. 114. (CESPE / COHAB - 2004) As atividades de análise de requisitos resultam na
+114. (CESPE / COHAB - 2004) As atividades de análise de requisitos resultam na
 especificação
 das características operacionais do software, na indicação da interface do software com
 outros
 elementos do sistema e no estabelecimento de restrições que o software deve satisfazer.
-
 
 Comentários:
 
@@ -5003,7 +4905,7 @@ não, do usuário.
 
 Gabarito: Correto
 
-Item. 115. (CESPE / COHAB - 2004) À medida que os requisitos são elucidados, o analista de
+115. (CESPE / COHAB - 2004) À medida que os requisitos são elucidados, o analista de
 software
 pode criar um conjunto de cenários, ou seja, casos de uso, que identificam uma linha
 de uso para
@@ -5016,7 +4918,6 @@ casos de uso
 (lembrando que um cenário é um conjunto de casos de uso).
 
 Gabarito: Correto
-
 
 QUESTõES CoMENTADAS - FCC
 
@@ -5063,29 +4964,28 @@ que se trata de uma funcionalidade do sistema.
 
 Gabarito: Letra B
 
-Item. 2. (FCC/ AL-AP - 2020) Considere a lista abaixo, elaborada durante um
+2. (FCC/ AL-AP - 2020) Considere a lista abaixo, elaborada durante um
 levantamento de
 requisitos na Assembleia Legislativa do Amapá, para um sistema hipotético de
 avaliações
 internas:
 
-Item. 1. Registrar avaliação de colaborador por parlamentar: O sistema deve permitir ao
+1. Registrar avaliação de colaborador por parlamentar: O sistema deve permitir ao
 parlamentar,
 em uma única tela, a avaliação de todos os seus colaboradores.
 
-
-Item. 2. Considerar Aspectos Legais: O sistema deve seguir orientações elencadas na
+2. Considerar Aspectos Legais: O sistema deve seguir orientações elencadas na
 Resolução
 ogg/XXXX do Conselho Legislativo do Estado.
 
-Item. 3. Registrar autoavaliação de parlamentar: O sistema deve permitir ao
+3. Registrar autoavaliação de parlamentar: O sistema deve permitir ao
 parlamentar sua
 autoavaliação em relação às disposições legais sob as quais atuou no período.
 
-Item. 4. Atentar à Segurança: O sistema deve fornecer mecanismos de segurança e autenticação
+4. Atentar à Segurança: O sistema deve fornecer mecanismos de segurança e autenticação
 alinhados com os adotados pelo processo XPTO.
 
-Item. 5. Impedir acesso direto ao processo XPTO: O sistema deverá mostrar ao usuário que
+5. Impedir acesso direto ao processo XPTO: O sistema deverá mostrar ao usuário que
 existem
 formulários de avaliação a serem respondidos e dará a opção de respondê-los depois.
 
@@ -5121,7 +5021,7 @@ deve fazer;
 
 Gabarito: Letra C
 
-Item. 3. (FCC / TRT-19 - 2019) A Engenharia de Requisitos utiliza algumas técnicas que
+3. (FCC / TRT-19 - 2019) A Engenharia de Requisitos utiliza algumas técnicas que
 apoiam as
 atividades de levantamento de requisitos, sendo a entrevista uma das mais
 utilizadas. Uma
@@ -5135,7 +5035,6 @@ b) brainstorming, em que inicia-se com perguntas mais genéricas sobre o sistema
 finaliza-se
 com perguntas mais específicas, sendo geralmente utilizada com usuários que desconhecem o
 assunto.
-
 
 c) funil, na qual procura-se manter o usuário interessado no assunto e para isto
 utilizam-se
@@ -5167,7 +5066,7 @@ com perguntas mais específicas e termina com perguntas mais genéricas.
 
 Gabarito: Letra E
 
-Item. 4. (FCC / AFAP - 2019) Um Analista de Informática levantou os requisitos para
+4. (FCC / AFAP - 2019) Um Analista de Informática levantou os requisitos para
 desenvolver um
 sistema de gestão. Dentre os requisitos levantados,
 
@@ -5237,32 +5136,31 @@ em relação à integridade e segurança.
 
 Gabarito: Letra C
 
-Item. 5. (FCC / TRF4 - 2019) Suponha que um Analista de TI, participando da etapa de
+5. (FCC / TRF4 - 2019) Suponha que um Analista de TI, participando da etapa de
 análise de
 requisitos de um sistema de emissão de certidão negativa para o TRF4, tenha elencado
 os
 requisitos apresentados abaixo:
 
-Item. 1. Utilizar interface responsiva para que possa ser executado em dispositivos móveis e na web.
+1. Utilizar interface responsiva para que possa ser executado em dispositivos móveis e na web.
 
-Item. 2. Validar o tipo de certidão solicitado.
+2. Validar o tipo de certidão solicitado.
 
-Item. 3. Emitir certidão negativa após verificação de situação do requerente.
+3. Emitir certidão negativa após verificação de situação do requerente.
 
-Item. 4. Solicitar o CPF do requerente.
+4. Solicitar o CPF do requerente.
 
-Item. 5. Responder ao clique único do usuário em qualquer botão da interface.
+5. Responder ao clique único do usuário em qualquer botão da interface.
 
-Item. 6. Validar o CPF do requerente.
+6. Validar o CPF do requerente.
 
-Item. 7. Restaurar os dados automaticamente após falhas não programadas.
+7. Restaurar os dados automaticamente após falhas não programadas.
 
+8. Solicitar o nome do requerente.
 
-Item. 8. Solicitar o nome do requerente.
+9. Oferecer dois tipos de certidão: para fins gerais e para fins eleitorais.
 
-Item. 9. Oferecer dois tipos de certidão: para fins gerais e para fins eleitorais.
-
-Item. 10. Emitir aviso de impossibilidade de emissão da certidão.
+10. Emitir aviso de impossibilidade de emissão da certidão.
 
 Sobre os requisitos, é correto afirmar que:
 
@@ -5282,7 +5180,7 @@ Comentários:
 
 Gabarito: Letra C
 
-Item. 6. (FCC / SAMASA Campinas - 2019) O diagrama faz referência à QFD -
+6. (FCC / SAMASA Campinas - 2019) O diagrama faz referência à QFD -
 
 a) Quality Function Deployment, uma técnica da gestão de qualidade
 que traduz as
@@ -5291,7 +5189,6 @@ necessidades do cliente para requisitos de software, buscando maximizar a sua sa
 b) Questionário de Funcionalidades para Desenvolvimento, uma técnica para
 priorização de
 requisitos que facilita a criação de casos de uso.
-
 
 c) Questionnaire For Diagram, uma lista de perguntas que ajudam a entender
 melhor o
@@ -5317,7 +5214,7 @@ necessidades do cliente para requisitos de software, buscando maximizar a sua sa
 
 Gabarito: Letra A
 
-Item. 7. (FCC / SEFAZ-BA - 2019) Um profissional da área administrativa de certa
+7. (FCC / SEFAZ-BA - 2019) Um profissional da área administrativa de certa
 instituição recebeu
 um Analista de Sistemas que estava fazendo o levantamento de requisitos para a
 construção de
@@ -5350,10 +5247,9 @@ permitir exclusão de registros de pessoas que deixaram de ser clientes é um RF
 Errado, permitir
 a impressão de dados é um RF.
 
-
 Gabarito: Letra A
 
-Item. 8. (FCC / SEFAZ-BA - 2019) Um Auditor Fiscal da área de Tecnologia da
+8. (FCC / SEFAZ-BA - 2019) Um Auditor Fiscal da área de Tecnologia da
 Informação está
 participando do processo de levantamento de requisitos para o desenvolvimento de um novo
 software. Os requisitos a seguirforam elencados:
@@ -5397,7 +5293,7 @@ Comentários:
 
 Gabarito: Letra C
 
-Item. 9. (FCC / SEMEF-AM - 2019) Considerando que a Fazenda Municipal emprega o
+9. (FCC / SEMEF-AM - 2019) Considerando que a Fazenda Municipal emprega o
 gerenciamento
 de requisitos, ganha importância o cuidado com os chamados requisitos voláteis, dentre os
 quais fazem parte os requisitos que surgem à medida que o cliente vai
@@ -5451,7 +5347,6 @@ Comentários:
 
 POR SOMMERVILLE POR PRESSMAN
 
-
 ESTUDO DE VIABILIDADE
 ELICITAÇÃO E ANÁLISE DE REQUISITOS
 
@@ -5465,7 +5360,6 @@ LEVANTAMENTO
 ELABORAÇÃO
 
 NEGOCIAÇÃO
-
 
 ESPECIFICAÇÃO
 VALIDAÇÃO
@@ -5529,7 +5423,6 @@ ADAPTABILIDADE Examina se os requisitos podem sofrer alterações sem produzir e
 em outros
 requisitos.
 
-
 CONFORMIDADE COM
 
 NORMAS
@@ -5583,7 +5476,7 @@ possuir o mapeamento entre os requisitos e os módulos de projeto que implementa
 
 Gabarito: Letra E
 
-Item. 13. (FCC / SEFAZ-SC - 2018) A definição de contextos para que os usuários possam agir de maneira
+13. (FCC / SEFAZ-SC - 2018) A definição de contextos para que os usuários possam agir de maneira
 semelhante, entendendo melhor quais informações precisam fornecer durante a
 atividade de
 elicitação de requisitos, pode ser obtida por meio da aplicação de duas técnicas de
@@ -5607,7 +5500,6 @@ agir de
 maneira semelhante, isto é, que definem ambientes próximos ao da realidade. Com esse
 foco, a as
 técnicas que mais "simulam" a realidade são: cenários e protótipos.
-
 
 Gabarito: Letra A
 
@@ -5655,7 +5547,7 @@ Comentários:
 
 Gabarito: Letra B
 
-Item. 15. (FCC / SABESP - 2018) Um Analista necessita levantar os requisitos de um sistema
+15. (FCC / SABESP - 2018) Um Analista necessita levantar os requisitos de um sistema
 junto aos
 usuários. São técnicas de levantamento:
 
@@ -5668,7 +5560,6 @@ c) Overview e Use Cases.
 d) Joint Application Design (ou Development) - JAD e Etnografia.
 
 e) Prototipação e Sprint.
-
 
 Comentários:
 
@@ -5698,7 +5589,7 @@ está perfeita!
 
 Gabarito: Correto
 
-Item. 17. (FCC / BNB - 2018) A revisão técnica é um procedimento utilizado para validar
+17. (FCC / BNB - 2018) A revisão técnica é um procedimento utilizado para validar
 os requisitos de
 um projeto, com o objetivo de identificar eventuais inconsistências e verificar se os
 artefatos
@@ -5727,7 +5618,6 @@ Defensoria elencou a lista de requisitos para um novo sistema:
 - O sistema não deverá revelar aos usuários nenhuma informação pessoal sobre os
 cidadãos,
 além do número do processo, em respeito à legislação de privacidade.
-
 
 - Em razão das restrições referentes aos direitos autorais, alguns documentos
 devem ser
@@ -5785,7 +5675,6 @@ suas necessidades.
 
 Comentários:
 
-
 Perfeito! O protótipo operacional realmente serve para aprimorar o entendimento
 de como o
 sistema deve funcionar, por meio da elucidação dos requisitos do usuário e da
@@ -5818,7 +5707,7 @@ Desenvolvimento (ou Implementação).
 
 Gabarito: Letra B
 
-Item. 22. (FCC / DPE-SP - 2013) Em uma das etapas da Engenharia de Requisitos há a
+22. (FCC / DPE-SP - 2013) Em uma das etapas da Engenharia de Requisitos há a
 preocupação em
 se observar a especificação produzida, visando verificar que os requisitos
 tenham sido
@@ -5845,7 +5734,6 @@ especificação para
 garantir que todos os requisitos do software tenham sido declarados de modo não ambíguo.
 
 Gabarito: Letra E
-
 
 23- (FCC / TST- 2012) Na Engenharia de Requisitos, o gerente de requisitos:
 
@@ -5905,7 +5793,6 @@ funcionais e/ou não-funcionais.
 
 Está correto o que se afirma em:
 
-
 a) III, apenas.
 
 b) I, lie III.
@@ -5924,7 +5811,7 @@ Funcionais; (c) Correto, esses são os chamados requisitos de domínio.
 
 Gabarito: Letra A
 
-Item. 25. (FCC / MPE-PE - 2012) Os requisitos não funcionais não estão diretamente ligados
+25. (FCC / MPE-PE - 2012) Os requisitos não funcionais não estão diretamente ligados
 aos serviços
 específicos oferecidos pelo sistema a seus usuários. Eles podem estar
 relacionados às
@@ -5965,7 +5852,6 @@ III. Clientes têm filiais que devem "carregar", na base de dados, o
 identificador do cliente
 principal.
 
-
 IV. O sistema não deve ferir as leis de proteção ambiental.
 
 São requisitos não funcionais os que constam em
@@ -5992,7 +5878,7 @@ mas a banca considerou que apenas os itens II e IV são RNF -discordo veementeme
 
 Gabarito: Letra C
 
-Item. 27. (FCC / TST- 2012) Na Engenharia de Requisitos, o gerente de requisitos:
+27. (FCC / TST- 2012) Na Engenharia de Requisitos, o gerente de requisitos:
 
 a) acompanha e monitora ações durante a verificação do software, sendo este o processo
 que
@@ -6020,7 +5906,6 @@ Comentários:
 (a) Errado. Não é durante a Verificação, mas Validação de Software; (b)
 Errado. Não são as
 necessidades da Equipe de Desenvolvimento, mas dos usuários; (c) Correto. É exatamente isso; (d)
-
 
 Errado. Estão invertidos, custo e confiabilidade são RNF e Casos de Uso são RF; (e)
 Errado. Isso é
@@ -6084,7 +5969,6 @@ a) especifica, revisa e valida o problema de modo a garantir que seu
 entendimento e o
 entendimento do cliente sobre o problema coincidam.
 
-
 b) refina e modifica os requisitos. É uma ação de modelagem de análise composta de
 várias
 tarefas de modelagem e refinamento.
@@ -6115,7 +5999,7 @@ demandas.
 
 Gabarito: Letra C
 
-Item. 31. (FCC / TRTi - 2011) A técnica utilizada na compreensão de requisitos sociais e
+31. (FCC / TRTi - 2011) A técnica utilizada na compreensão de requisitos sociais e
 organizacionais
 por observação das rotinas dos envolvidos é a:
 
@@ -6141,8 +6025,7 @@ envolvidos.
 
 Gabarito: Letra E
 
-
-Item. 32. (FCC / INFRAERO - 2011) Os produtos de trabalho resultantes da engenharia de
+32. (FCC / INFRAERO - 2011) Os produtos de trabalho resultantes da engenharia de
 requisitos são
 avaliados quanto à qualidade durante a etapa de validação de requisitos. Analise os
 itens a seguir
@@ -6198,14 +6081,13 @@ requisitos conflitantes, ou requisitos irreais (de desenvolvimento impossível).
 
 Gabarito: Letra E
 
-Item. 33. (FCC / TRT19 - 2011) A avaliação do impacto de mudança de um requisito, muitas
+33. (FCC / TRT19 - 2011) A avaliação do impacto de mudança de um requisito, muitas
 vezes, faz
 com que seja necessário retornar à sua fonte. Na validação dos requisitos, a equipe
 deve estar
 atenta, portanto, à:
 
 a) rastreabilidade.
-
 
 b) adaptabilidade.
 
@@ -6273,7 +6155,6 @@ d) iteração de processo.
 
 e) etnografia.
 
-
 Comentários:
 
 A questão trata de Requisito Não-Funcional, isto é, são restrições nos
@@ -6326,12 +6207,11 @@ apenas requisitos funcionais, (c) Correto! Ele se divide nessas três categorias
 
 Gabarito: Letra C
 
-Item. 37. (FCC / DPE-SP - 2010) No contexto da Engenharia de Requisitos, considere:
+37. (FCC / DPE-SP - 2010) No contexto da Engenharia de Requisitos, considere:
 
 I. O sistema deve fornecer uma entrada de dados que possibilite a inclusão de
 atributos de
 permissão de acesso às dependências da corporação por técnicos, supervisores e chefes.
-
 
 II. Algumas permissões de acesso deverão ter tratamento especial para a entrada de
 atributos.
@@ -6386,7 +6266,6 @@ Gabarito: Letra A
 a) uma fase do processo de software aplicada no modelo em cascata.
 
 b) uma fase do processo de software aplicada no modelo em espiral.
-
 
 c) uma técnica de observação que pode ser usada para compreender os requisitos
 sociais e
@@ -6504,8 +6383,7 @@ Requisitos Funcionais!
 
 Gabarito: Letra A
 
-
-Item. 41. (FCC /TRT3 -2009) Com relação aos requisitos de software, considere:
+41. (FCC /TRT3 -2009) Com relação aos requisitos de software, considere:
 
 I. funcionais são somente requisitos de usuário.
 
@@ -6554,14 +6432,13 @@ utilizada para compreender os requisitos organizacionais e sociais.
 
 Gabarito: Letra E
 
-Item. 43. (FCC / TRT3 - 2009) São técnicas e abordagens utilizadas na obtenção dos requisitos:
+43. (FCC / TRT3 - 2009) São técnicas e abordagens utilizadas na obtenção dos requisitos:
 
 a) estresse, cenários e workshop.
 
 b) workshop, etnografia e estresse.
 
 c) etnografia, questionários e validação.
-
 
 d) pontos de vista, cenários e entrevista.
 
@@ -6581,7 +6458,7 @@ Comentários:
 
 Gabarito: Letra D
 
-Item. 44. (FCC / PGE-RJ - 2009) No âmbito da Engenharia de Requisitos, uma revisão técnica formal é:
+44. (FCC / PGE-RJ - 2009) No âmbito da Engenharia de Requisitos, uma revisão técnica formal é:
 
 a) um teste de desempenho.
 
@@ -6600,7 +6477,6 @@ de validação de
 requisitos - assim como a prototipação e a geração de casos de teste.
 
 Gabarito: Letra E
-
 
 QUESTõES CoMENTADAS - FCV
 
@@ -6633,7 +6509,7 @@ uso do sistema.
 
 Gabarito: Letra D
 
-Item. 2. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
+2. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
 solicitou à
 equipe de desenvolvimento uma funcionalidade capaz de emitir relatórios com
 cabeçalhos
@@ -6657,7 +6533,6 @@ e) funcional de desenvolvimento.
 
 Comentários:
 
-
 Padronização estética claramente não são requisitos funcionais, logo se trata de um
 requisito não
 funcional. Especificamente, trata-se de um requisito organizacional: aqueles são
@@ -6672,7 +6547,7 @@ devem ser entregues.
 
 Gabarito: Letra B
 
-Item. 3. (FGV / TCE-TO - 2022) A Equipe de Desenvolvimento de Soluções (EDS) recebeu a
+3. (FGV / TCE-TO - 2022) A Equipe de Desenvolvimento de Soluções (EDS) recebeu a
 solicitação
 de que um dos campos utilizados para entrada de dados da aplicação Web em construção
 apresente sugestões de palavras dinamicamente, conforme o usuário for digitando
@@ -6697,12 +6572,11 @@ de um requisito de usabilidade.
 
 Gabarito: Letra D
 
-Item. 4. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
+4. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
 solicitou à
 equipe de desenvolvimento uma funcionalidade capaz de emitir relatórios com
 cabeçalhos
 padronizados. Assim, os cabeçalhos devem ter cor de fundo, paleta de cores e tipografia,
-
 
 seguindo o padrão adotado em outros documentos emitidos pelo departamento
 responsável
@@ -6732,7 +6606,7 @@ requisito não funcional organizacional.
 
 Gabarito: Letra B
 
-Item. 5. (FGV/TCE-TO -2022) As credenciais de acesso dos usuários de um aplicativo são
+5. (FGV/TCE-TO -2022) As credenciais de acesso dos usuários de um aplicativo são
 armazenadas
 em um banco de dados e são utilizadas unicamente para acesso àsfuncionalidades do
 aplicativo.
@@ -6772,7 +6646,6 @@ segurança seja testada e validade; (e) Errado, não é um bom modo para
 proteger senhas de
 usuários.
 
-
 * Salt é é uma string aleatória de dados adicionada à entrada de uma função hash
 cujo objetivo é
 dificultar a "pré-computação" de um conjunto de entradas que gerará uma determinada
@@ -6791,7 +6664,7 @@ usuários.
 
 Gabarito: Letra C
 
-Item. 6. (FGV / TCE-TO - 2022) A Equipe de Tecnologia (ETi) de um tribunal de contas
+6. (FGV / TCE-TO - 2022) A Equipe de Tecnologia (ETi) de um tribunal de contas
 está levantando
 as necessidades para um novo sistema junto às partes interessadas. Uma das
 partes
@@ -6823,7 +6696,7 @@ habilidades do usuário e no nível de complexidade do sistema.
 
 Gabarito: Letra C
 
-Item. 7. (FGV / ALERJ - 2017) O Analista de Sistemas Pedro está realizando um
+7. (FGV / ALERJ - 2017) O Analista de Sistemas Pedro está realizando um
 levantamento de
 requisitos por meio da prototipação. Sua intenção com esse protótipo é proporcionar uma
 visão
@@ -6838,7 +6711,6 @@ a) vertical;
 b) tridimensional;
 
 c) prototipação rápida;
-
 
 d) textual;
 
@@ -6872,7 +6744,7 @@ trata da Prototipação Horizontal.
 
 Gabarito: Letra E
 
-Item. 8. (FGV / BADESC - 2010) Analise o fragmento a seguir:
+8. (FGV / BADESC - 2010) Analise o fragmento a seguir:
 
 "A base de dados deve ser protegida para acesso apenas de usuários autorizados".
 O fragmento acima apresenta um exemplo do seguinte requisito:
@@ -6901,8 +6773,7 @@ como manutenibilidade, usabilidade, desempenho, custos e várias outras.
 
 Gabarito: Letra E
 
-
-Item. 9. (FGV / FIOCRUZ - 2010) Sobre os processos de engenharia de requisitos, na
+9. (FGV / FIOCRUZ - 2010) Sobre os processos de engenharia de requisitos, na
 elicitação e na
 análise ocorre total interação com os stakeholders no sistema, sendo o principal objetivo:
 
@@ -6950,7 +6821,7 @@ uma funcionalidade a ser oferecida pelo sistema.
 
 Gabarito: Letra E
 
-Item. 11. (FGV / MEC - 2009) As declarações de serviços que o sistema deve fornecer, de
+11. (FGV / MEC - 2009) As declarações de serviços que o sistema deve fornecer, de
 como ele deve
 reagir a entradas específicas ou se comportar em determinadas situações, são chamadas de
 requisitos:
@@ -6965,7 +6836,6 @@ d) funcionais.
 
 e) de usuário.
 
-
 Comentários:
 
 A questão trata dos Requisitos Funcionais, isto é, declarações de serviços que um
@@ -6976,7 +6846,7 @@ comportar em situações particulares.
 
 Gabarito: Letra D
 
-Item. 12. (FGV / MEC - 2009) Existem técnicas que são usadas na fase de levantamento de requisitos para
+12. (FGV / MEC - 2009) Existem técnicas que são usadas na fase de levantamento de requisitos para
 coletar conhecimento dos usuários sobre os requisitos. Assinale a alternativa
 que indique
 apenas técnicas utilizadas na fase de levantamento de requisitos.
@@ -6999,7 +6869,7 @@ Entrevistas, Protótipos, Workshop e Brainstorm!
 
 Gabarito: Letra C
 
-Item. 13. FGV / Senado Federal - 2008) Entre as atividades listadas a seguir, uma não faz
+13. FGV / Senado Federal - 2008) Entre as atividades listadas a seguir, uma não faz
 parte da
 Engenharia de Requisitos. Assinale-a.
 
@@ -7015,7 +6885,6 @@ e) gerenciamento.
 
 Comentários:
 
-
 Pessoal, questão complicada! Essas fases não existem exatamente dessa maneira em nenhuma
 bibliografia, então temos que fazer algumas associações. Estudo de Viabilidade é a
 primeira fase;
@@ -7026,7 +6895,6 @@ Validação (apesar
 de eu não concordar); por fim, gerenciamento percorre de fato todas essas fases.
 
 Gabarito: Letra B
-
 
 QUESTõES CoMENTADAS - DIvERSAS BANCAS
 
@@ -7067,7 +6935,7 @@ desenvolverem uma noção sobre a aplicação que irá ser implementada.
 
 Gabarito: Letra E
 
-Item. 2. (IDIB / CRF - MS - 2021) Em qual etapa do processo de desenvolvimento de
+2. (IDIB / CRF - MS - 2021) Em qual etapa do processo de desenvolvimento de
 requisitos de
 software mais comumente costuma acontecer a identificação de gaps nos
 requisitos ou a
@@ -7094,7 +6962,7 @@ ocorre logo após a Elicitação de Requisitos, que é responsável por identifi
 
 Gabarito: Letra B
 
-Item. 3. (IDIB / CRF - MS - 2021) "Uma descrição de uma propriedade ou característica que
+3. (IDIB / CRF - MS - 2021) "Uma descrição de uma propriedade ou característica que
 um sistema
 deve exibir ou uma restrição que ele deve respeitar". Tal definição se adequa a qual
 tipo de
@@ -7118,7 +6986,7 @@ segurança, usabilidade, performance, etc.
 
 Gabarito: Letra B
 
-Item. 4. (VUNESP / EBSERH - 2020) Considerando as técnicas utilizadas para a avaliação de
+4. (VUNESP / EBSERH - 2020) Considerando as técnicas utilizadas para a avaliação de
 requisitos,
 é correto afirmar que, na:
 
@@ -7150,7 +7018,6 @@ completeza.
 
 Gabarito: Letra E
 
-
 5- (VUNESP/ EBSERH -2020) Na engenharia de requisitos, um fator importante são os
 requisitos
 não funcionais, que se classificam em organizacionais, de produto e externos. Os requisitos
@@ -7181,7 +7048,7 @@ do desenvolvedor; (e) Errado, trata-se da definição de requisitos de produto.
 
 Gabarito: Letra D
 
-Item. 6. (COPESE - UFPI/ ALEPI- 2020) Um técnico de TI da ALEPI que gerencia
+6. (COPESE - UFPI/ ALEPI- 2020) Um técnico de TI da ALEPI que gerencia
 uma equipe de
 desenvolvimento de software na Assembleia, eventualmente necessita fazer
 levantamento de
@@ -7212,7 +7079,6 @@ Marque a opção que corresponde somente às afirmativas verdadeiras.
 
 a) Apenas I, III e IV.
 
-
 b) Apenas I, II e III.
 
 c) Apenas I e III.
@@ -7233,7 +7099,7 @@ Organizacionais; (IV) Errado. Na verdade, a definição é de Requisitos Externo
 
 Gabarito: Letra D
 
-Item. 7. (FAFIPA/ Prefeitura de Arapongas - PR - 2020) A Engenharia de Requisitos
+7. (FAFIPA/ Prefeitura de Arapongas - PR - 2020) A Engenharia de Requisitos
 é um termo
 cunhado para descrever as atividades relacionadas à investigação e definição de escopo
 de um
@@ -7265,7 +7131,7 @@ requisitos.
 
 Gabarito: Letra B
 
-Item. 8. (IBFC / EBSERH - 2020) Requisitos são as bases para todo projeto, definindo o que
+8. (IBFC / EBSERH - 2020) Requisitos são as bases para todo projeto, definindo o que
 as partes
 interessadas de um novo sistema necessitam e também o que o sistema deve
 fazer para
@@ -7293,7 +7159,7 @@ ser satisfeitas; (e) Errada, a revisão de requisitos ocorre na fase de Validaç
 
 Gabarito: Letra D
 
-Item. 9. (INSTITUTO AOCP / Prefeitura de Betim - MG - 2020) A engenharia de requisitos
+9. (INSTITUTO AOCP / Prefeitura de Betim - MG - 2020) A engenharia de requisitos
 estabelece
 uma ponte entre o projeto e a construção do software. Assinale a alternativa que
 representa a
@@ -7341,7 +7207,6 @@ a) organizacionais.
 
 b) de produto.
 
-
 c) externos.
 
 d) éticos.
@@ -7352,7 +7217,6 @@ Comentários:
 
 Requisitos Não-
 Funcionais
-
 
 Requisitos de
 Produtos
@@ -7371,7 +7235,6 @@ Operacionais
 
 Requisitos de
 Implementação
-
 
 São os Requisitos de Produto: Confiabilidade, Proteção, Eficiência
 Armazenamento) e Usabilidade.
@@ -7407,7 +7270,6 @@ d) Cenários.
 e) Casos de uso.
 
 Comentários:
-
 
 A palavra-chave pra essa questão é "predefinido". Se é um conjunto de
 perguntas a serem
@@ -7469,7 +7331,6 @@ consistência.
 
 Gabarito: Letra A
 
-
 iZj.(UFG / SANEAGO - 2017) Com relação à qualidade de software, é um exemplo de
 requisito de
 software não funcional:
@@ -7529,7 +7390,6 @@ d) risco e identificador.
 
 Comentários:
 
-
 Honestamente, não sei de onde essa questão foi retirada, mas é possível responder por
 eliminação:
 
@@ -7569,7 +7429,7 @@ essa por bom senso!:)
 
 Gabarito: Letra C
 
-Item. 18. (IBFC / EBSERH - 2017) Quanto aos vários tipos de requisitos assinale, das
+18. (IBFC / EBSERH - 2017) Quanto aos vários tipos de requisitos assinale, das
 alternativas abaixo,
 a única que NÃO identifica corretamente um clássico requisito não-funcional:
 
@@ -7590,7 +7450,6 @@ Errado, requisitos de
 confiabilidade da arquitetura realmente são não-funcionais; (e) Errado, requisitos
 de portabilidade
 da arquitetura realmente são não-funcionais.
-
 
 Gabarito: Letra B
 
@@ -7712,7 +7571,7 @@ beneficiados/prejudicados.
 
 Gabarito: Letra B
 
-Item. 23. (ESAF / CVM - 2010) Assinale a opção correta.
+23. (ESAF / CVM - 2010) Assinale a opção correta.
 
 a) Gestão de requisitos preocupa-se com a documentação, atualização e
 controle de
@@ -7760,7 +7619,6 @@ d) reconhecimento do problema, análise e síntese, reengenharia, especificaçã
 análise de
 resultados.
 
-
 e) reconhecimento do problema, modelagem, especificação de entidades,
 estruturação e
 revisão.
@@ -7804,7 +7662,6 @@ Perfeito! A partir da especificação de requisitos que se avalia a qualidade.
 
 Gabarito: Correto
 
-
 LISTA DE QUESTõES - CESPE
 
 í. (CESPE / BANRISUL - 2022) Requisitos não funcionais de um sistema descrevem seu
@@ -7813,7 +7670,7 @@ e dependem do tipo de software a ser desenvolvido, dos usuários esperados para 
 software e
 da abordagem geral adotada pela organização ao escrever os requisitos.
 
-Item. 2. (CESPE / BANRISUL - 2022) Requisitos organizacionais são requisitos de
+2. (CESPE / BANRISUL - 2022) Requisitos organizacionais são requisitos de
 sistema amplos,
 derivados das políticas e dos procedimentos nas organizações do cliente e do
 desenvolvedor,
@@ -7821,13 +7678,13 @@ cujas funções incluem definir como o sistema será utilizado e especificar a
 linguagem de
 programação.
 
-Item. 3. (CESPE / BANRISUL - 2022) Os requisitos do sistema devem descrever os
+3. (CESPE / BANRISUL - 2022) Os requisitos do sistema devem descrever os
 comportamentos
 interno e externo do sistema, devendo-se preocupar com a forma como ele deve ser
 projetado
 ou implementado.
 
-Item. 4. (CESPE / BANRISUL - 2022) A especificação de requisitos é frequentemente
+4. (CESPE / BANRISUL - 2022) A especificação de requisitos é frequentemente
 composta de
 vários tipos de documentos e não raro abrange: visão geral; glossário; modelos do
 sistema; lista
@@ -7835,56 +7692,56 @@ de requisitos funcionais e lista de requisitos não funcionais; especificação
 detalhada de
 requisitos.
 
-Item. 5. (CESPE / BANRISUL - 2022) O objetivo principal da especificação é documentar
+5. (CESPE / BANRISUL - 2022) O objetivo principal da especificação é documentar
 todas as
 necessidades dos clientes e obter um aceite quanto às entregas de produto propostas.
 
-Item. 6. (CESPE / BANRISUL - 2022) Na execução da técnica de apprenticing
+6. (CESPE / BANRISUL - 2022) Na execução da técnica de apprenticing
 (aprendizado), o
 engenheiro de requisitos deve questionar procedimentos operacionais complexos e
 pouco
 claros do domínio do sistema que os stakeholders desejam preservar.
 
-Item. 7. (CESPE / BANRISUL - 2022) Em situações em que alguma das partes interessadas não
+7. (CESPE / BANRISUL - 2022) Em situações em que alguma das partes interessadas não
 consiga
 expressar de forma oral as suas necessidades com clareza, recomenda-se o emprego da
 técnica
 da etnografia para o levantamento de requisitos.
 
-Item. 8. (CESPE / BANRISUL-2022) O levantamento de requisitos com casos de uso é muito
+8. (CESPE / BANRISUL-2022) O levantamento de requisitos com casos de uso é muito
 eficaz para
 a elicitação de requisitos não funcionais.
 
-Item. 9. (CESPE/BANRISUL-2022) A analogia é uma técnica pouco recomendada quando é necessário
+9. (CESPE/BANRISUL-2022) A analogia é uma técnica pouco recomendada quando é necessário
 identificar requisitos novos, inovadores ou atrativos, em um ambiente cujo objetivo é
 encontrar
 soluções criativas.
 
-Item. 10. (CESPE / BANRISUL-2022) A arqueologia é uma técnica apropriada quando se busca
+10. (CESPE / BANRISUL-2022) A arqueologia é uma técnica apropriada quando se busca
 preservar
 todas as funcionalidades de um sistema legado em um novo sistema que reutilize as
 soluções e
 experiências existentes.
 
-Item. 11. (CESPE / MPC-SC - 2022) A etnografia é o processo de elicitação por meio do qual
+11. (CESPE / MPC-SC - 2022) A etnografia é o processo de elicitação por meio do qual
 o analista de
 requisitos realiza uma imersão no ambiente de trabalho em que o sistema será utilizado para
 tornar compreensíveis os processos operacionais e auxiliar na extração dos requisitos de
 apoio
 de tais processos.
 
-Item. 12. (CESPE / BNB - 2022) Para capturar os requisitos da interface de um sistema, os
+12. (CESPE / BNB - 2022) Para capturar os requisitos da interface de um sistema, os
 protótipos
 podem ser desenhados como mockups, mesmo que estes não permitam interações do usuário
 com a execução das funcionalidades.
 
-Item. 13. (CESPE / BNB - 2022) Um dos critérios de boa qualidade para uma história de
+13. (CESPE / BNB - 2022) Um dos critérios de boa qualidade para uma história de
 usuário é o
 denominado critério pequeno, ou seja, aquele cujo desenvolvimento da
 história deve
 representar um trabalho desenvolvido dentro de um limite de tempo de duração específica.
 
-Item. 14. (CESPE/ BNB-2022) Em uma história de usuário, em que se deseja fazer login com a
+14. (CESPE/ BNB-2022) Em uma história de usuário, em que se deseja fazer login com a
 impressão
 digital do cliente para o seu acesso à sua conta bancária, um exemplo correto de
 critério de
@@ -7892,21 +7749,21 @@ aceitação é: dado que estou realizando login com minha digital, quando eu
 colocar o dedo
 cadastrado no leitor, então consigo acessar minha conta.
 
-Item. 15. (CESPE / BNB - 2022) No gerenciamento de requisitos, uma adequada
+15. (CESPE / BNB - 2022) No gerenciamento de requisitos, uma adequada
 configuração, em
 particular, de uma especificação tem a propriedade de ser imutável.
 
-Item. 16. (CESPE / BANRISUL-2022) O levantamento de requisitos com casos de uso é muito
+16. (CESPE / BANRISUL-2022) O levantamento de requisitos com casos de uso é muito
 eficaz para
 a elicitação de requisitos não funcionais.
 
-Item. 17. (CESPE / BANRISUL-2022) Em situações em que alguma das partes interessadas não
+17. (CESPE / BANRISUL-2022) Em situações em que alguma das partes interessadas não
 consiga
 expressar de forma oral as suas necessidades com clareza, recomenda-se o emprego da
 técnica
 da etnografia para o levantamento de requisitos.
 
-Item. 18. (CESPE / BANRISUL - 2022) A acessibilidade está relacionada à facilidade
+18. (CESPE / BANRISUL - 2022) A acessibilidade está relacionada à facilidade
 com que
 determinada informação é assimilada por pessoas com alguma deficiência.
 
@@ -7914,47 +7771,46 @@ ig.(CESPE / BANRISUL-2022) A usabilidade é um atributo de qualidade de um proje
 avalia
 se ele fornece os recursos que os usuários precisam.
 
-Item. 20. (CESPE / FUNPRESP-EXE - 2022) As verificações de validade, consistência e
+20. (CESPE / FUNPRESP-EXE - 2022) As verificações de validade, consistência e
 completeza são
 técnicas fundamentais do processo de validação de requisitos.
 
-Item. 21. (CESPE / FUNPRESP-EXE - 2022) Dentre as técnicas existentes de elicitação de
+21. (CESPE / FUNPRESP-EXE - 2022) Dentre as técnicas existentes de elicitação de
 requisitos
 baseadas em cenários, os casos de uso são modelos que ajudam a identificar
 agentes e
 interações do sistema.
 
-Item. 22. (CESPE / FUNPRESP-EXE - 2022) A técnica Quality Function Deplyment tem como
+22. (CESPE / FUNPRESP-EXE - 2022) A técnica Quality Function Deplyment tem como
 objetivo
 traduzir os requisitos técnicos em requisitos do cliente.
 
-Item. 23. (CESPE / FUNPRESP-EXE - 2022) O protótipo de interface do usuário é o produto
+23. (CESPE / FUNPRESP-EXE - 2022) O protótipo de interface do usuário é o produto
 final da
 técnica de prototipação da engenharia de requisitos.
 
-
-Item. 24. (CESPE / FUNPRESP-EXE - 2022) Brainstorming é uma técnica utilizada para o
+24. (CESPE / FUNPRESP-EXE - 2022) Brainstorming é uma técnica utilizada para o
 levantamento
 de requisitos; para facilitar o registro, essa técnica deve ser feita por meio de questionário.
 
-Item. 25. (CESPE / Petrobrás - 2022) Ferramentas automatizadas para armazenamento de
+25. (CESPE / Petrobrás - 2022) Ferramentas automatizadas para armazenamento de
 requisitos,
 gerenciamento de mudanças e gerenciamento de rastreabilidade são indicadas para apoio ao
 processo de gerenciamento de requisitos.
 
-Item. 26. (CESPE / Petrobrás - 2022) Histórias de usuário são ferramentas para a definição
+26. (CESPE / Petrobrás - 2022) Histórias de usuário são ferramentas para a definição
 de escopo de
 produtos de software voltadas a fornecer uma análise detalhada sobre a atividade do
 usuário e
 a viabilizar a retenção de conhecimento em longo prazo.
 
-Item. 27. (CESPE / Petrobrás - 2022) Os critérios de aceitação descrevem um
+27. (CESPE / Petrobrás - 2022) Os critérios de aceitação descrevem um
 conjunto mínimo de
 requisitos que precisam ser atendidos para que valha a pena implementar uma
 solução
 específica.
 
-Item. 28. (CESPE / Petrobrás - 2022) Entrevistas e questionários são técnicas comumente
+28. (CESPE / Petrobrás - 2022) Entrevistas e questionários são técnicas comumente
 usadas para
 obter informações relacionadas às necessidades de grupos de usuários
 representados por
@@ -7966,7 +7822,7 @@ de navegação por meio das interfaces e impor à experiência do usuário o
 sequenciamento
 estrito das atividades que constituem a sua história.
 
-Item. 30. (CESPE / TJ-RJ - 2021) Na engenharia de requisitos, por estar mais aderente às
+30. (CESPE / TJ-RJ - 2021) Na engenharia de requisitos, por estar mais aderente às
 características
 dessa técnica, a etnografia é recomendada:
 
@@ -7984,7 +7840,7 @@ realizam trabalhos adjacentes ao analisado.
 
 e) como uma alternativa aos casos de uso para a descoberta dos requisitos explícitos.
 
-Item. 31. (CESPE / TJ-RJ -2021) Para os propósitos da modelagem dos requisitos com base em
+31. (CESPE / TJ-RJ -2021) Para os propósitos da modelagem dos requisitos com base em
 cenários,
 um suporte apropriado é o uso de
 a) diagrama de casos de uso e histórias de usuários.
@@ -7997,12 +7853,11 @@ d) diagrama de classes e histórias de usuário.
 
 e) modelagem com cartões CRC e casos de uso.
 
-
-Item. 32. (CESPE / TELEBRÁS - 2021) No âmbito da engenharia de software, o principal
+32. (CESPE / TELEBRÁS - 2021) No âmbito da engenharia de software, o principal
 produto da
 engenharia de requisitos é o documento de especificação de requisitos de software.
 
-Item. 33. (CESPE / TCE-RJ - 2021) O gerenciamento de requisitos trata do
+33. (CESPE / TCE-RJ - 2021) O gerenciamento de requisitos trata do
 desenvolvimento
 de software por meio da metodologia ágil; isso permite o isolamento entre o
 desenvolvedor e o
@@ -8010,42 +7865,42 @@ usuário, já que é comum ocorrer problema de mudanças de requisitos ao longo 
 do
 projeto devido ao interfaceamento do usuário com o desenvolvedor.
 
-Item. 34. (CESPE / TCE-RJ - 2021) Em um processo de desenvolvimento de software, a
+34. (CESPE / TCE-RJ - 2021) Em um processo de desenvolvimento de software, a
 elicitação de
 requisitos serve para identificar os fatos que compõem os requisitos do sistema.
 
-Item. 35. (CESPE / Ministério da Economia - 2020) Um dos princípios em que se baseia a
+35. (CESPE / Ministério da Economia - 2020) Um dos princípios em que se baseia a
 técnica de
 dinâmica de grupo conhecida como brainstorm é o atraso de julgamento, que
 possibilita a
 geração de muitas ideias antes de se decidir por uma.
 
-Item. 36. (CESPE / Ministério da Economia - 2020) Os requisitos do software mudam com
+36. (CESPE / Ministério da Economia - 2020) Os requisitos do software mudam com
 frequência,
 mas é sempre possível acomodá-los no sistema, pois o software é flexível.
 
-Item. 37. (CESPE / Ministério da Economia - 2020) Requisitos funcionais envolvem as
+37. (CESPE / Ministério da Economia - 2020) Requisitos funcionais envolvem as
 características de
 confiabilidade e de desempenho de um sistema.
 
-Item. 38. (CESPE / Ministério da Economia - 2020) Elicitar requisitos não inclui somente
+38. (CESPE / Ministério da Economia - 2020) Elicitar requisitos não inclui somente
 necessidades
 dos usuários, mas também extrair informações que surgem de padrões
 organizacionais,
 governamentais e industriais em geral, para atender necessidades.
 
-Item. 39. (CESPE / TJ-AM - 2019) A validação dos requisitos exclui diversas considerações,
+39. (CESPE / TJ-AM - 2019) A validação dos requisitos exclui diversas considerações,
 entre elas, a
 que verifica o impacto da implementação dos requisitos identificados sobre o
 orçamento do
 sistema.
 
-Item. 40. (CESPE / TJ-AM - 2019) Na gerência de requisitos, as mudanças no documento de
+40. (CESPE / TJ-AM - 2019) Na gerência de requisitos, as mudanças no documento de
 requisitos
 devem aumentaras referências a outros documentos e aprimorara interdependência entre suas
 próprias seções.
 
-Item. 41. (CESPE / TJ-AM - 2019) Uma especificação de requisitos é inconsistente quando, por
+41. (CESPE / TJ-AM - 2019) Uma especificação de requisitos é inconsistente quando, por
 exemplo,
 em um de seus subconjuntos conste que o pagamento será feito antes do
 fechamento da
@@ -8053,14 +7908,13 @@ compra e, em outro subconjunto, conste que o pagamento será feito depois do fec
 da
 compra.
 
-Item. 42. (CESPE/TJ-AM -2019) Em um protótipo para validar os requisitos de um software, é
+42. (CESPE/TJ-AM -2019) Em um protótipo para validar os requisitos de um software, é
 admissível
 deixar de fora os requisitos não funcionais ou reduzir seus padrões.
 
-Item. 43. (CESPE / SLU-DF - 2019) A interoperabilidade entre um software
+43. (CESPE / SLU-DF - 2019) A interoperabilidade entre um software
 que esteja em
 desenvolvimento e outros sistemas existentes é considerada um requisito funcional.
-
 
 44-(CESPE/STM-2oI8) Requisitos de domínio são relativos ao que o sistema deve fornecer,
 como
@@ -8084,13 +7938,13 @@ relacionamentos entre os requisitos e as dependências entre o documento de requ
 os
 demais artefatos produzidos no processo de software.
 
-Item. 47. (CESPE / ABIN - 2018) Ao se aplicar a rastreabilidade bidirecional, é possível
+47. (CESPE / ABIN - 2018) Ao se aplicar a rastreabilidade bidirecional, é possível
 determinar se
 todos os requisitos-fonte foram completamente tratados e se todos os requisitos
 do produto
 atendem aos requisitos do cliente.
 
-Item. 48. (CESPE / ABIN - 2018) Definir e manter matriz de rastreabilidade dos
+48. (CESPE / ABIN - 2018) Definir e manter matriz de rastreabilidade dos
 requisitos permite
 controlar e tratar as mudanças em requisitos durante o processo de elicitação e
 especificação
@@ -8102,33 +7956,32 @@ análise e projeto para codificação, apenas a avaliação e a aprovação por 
 cliente —
 mesmo após o entendimento dos requisitos — não são suficientes.
 
-Item. 50. (CESPE / ABIN - 2018) De acordo com as técnicas facilitadoras de especificação de
+50. (CESPE / ABIN - 2018) De acordo com as técnicas facilitadoras de especificação de
 aplicação,
 recomenda-se que a descrição de requisitos e regras seja feita diretamente pela equipe
 técnica,
 sem a participação do cliente.
 
-Item. 51. (CESPE / ABIN - 2018) No processo de elicitação de requisitos, há atividades
+51. (CESPE / ABIN - 2018) No processo de elicitação de requisitos, há atividades
 relacionadas a
 identificação, rastreabilidade e mudanças em requisitos.
 
-Item. 52. (CESPE / EBSERH - 2018) Na especificação de requisitos, são estabelecidos uma
+52. (CESPE / EBSERH - 2018) Na especificação de requisitos, são estabelecidos uma
 escala de
 medição e os valores aceitáveis para cada requisito de usuário, tornando-o mensurável,
 ou seja,
 adicionando a ele um critério de aceitação.
 
-Item. 53. (CESPE / EBSERH - 2018) Requisitos externos são derivados de metas,
+53. (CESPE / EBSERH - 2018) Requisitos externos são derivados de metas,
 políticas e
 procedimentos das organizações, do cliente e do desenvolvedor e incluem
 requisitos de
 processo, requisitos de implementação, restrições de entrega e restrições orçamentárias.
 
-Item. 54. (CESPE / IPHAN - 2018) Tanto a etnografia quanto o protótipo podem ser
+54. (CESPE / IPHAN - 2018) Tanto a etnografia quanto o protótipo podem ser
 utilizados para
 validação e elicitação de requisitos, contudo a aplicação de um elimina a possibilidade de uso do
 outro no mesmo cenário, pois se tratam de técnicas excludentes.
-
 
 55- (CESPE / IPHAN - 2018) A validação de requisitos se sobrepõe à análise de
 requisitos, pois tem
@@ -8145,7 +7998,7 @@ referido setor. Assertiva: Para o cenário proposto, é ideal a utilização da 
 caso de uso
 alinhada à entrevista.
 
-Item. 57. (CESPE / IPHAN - 2018) Situação hipotética: Na metodologia de desenvolvimento de
+57. (CESPE / IPHAN - 2018) Situação hipotética: Na metodologia de desenvolvimento de
 software
 customizada para uma organização, o analista propôs o uso da prototipação na
 fase de
@@ -8157,7 +8010,7 @@ tanto pode ser utilizada no processo de engenharia de requisitos, para ajudar na
 elicitação de
 requisitos, quanto no projeto de sistema, para apoiar o projeto de interface de usuário.
 
-Item. 58. (CESPE / PF-2018) No desenvolvimento de um sistema de informação, a fase de
+58. (CESPE / PF-2018) No desenvolvimento de um sistema de informação, a fase de
 levantamento
 de requisitos consiste em compreender o problema, dando aos desenvolvedores e usuários a
 mesma visão do que deve ser construído para resolvê-lo, e a fase de
@@ -8166,7 +8019,7 @@ realização da descrição computacional, incluindo a arquitetura do sistema, a
 linguagem de
 programação utilizada e o sistema gerenciador de banco de dados (SGBD) utilizado.
 
-Item. 59. (CESPE / MPE-PI - 2018) A análise de requisitos consiste na área responsável pela
+59. (CESPE / MPE-PI - 2018) A análise de requisitos consiste na área responsável pela
 identificação
 das reais necessidades dos clientes de TI. Por meio da análise de requisitos, em
 conjunto com o
@@ -8174,7 +8027,7 @@ cliente, é possível construir uma solução que atenda essas necessidades e
 desenvolver os
 requisitos funcionais elencados.
 
-Item. 60. (CESPE / MPE-PI - 2018) Situação hipotética: Ao se iniciar a especificação de
+60. (CESPE / MPE-PI - 2018) Situação hipotética: Ao se iniciar a especificação de
 requisitos de um
 software para controlar o gasto de folhas impressas de um setor, o analista
 de requisitos,
@@ -8186,7 +8039,7 @@ impressões do setor de locação desse usuário. Assertiva: Nessa situação, o
 validará o
 cenário do requisito definido junto com o gestor.
 
-Item. 61. (CESPE / SE-DF - 2017) Para auxiliar na gerência de riscos e prevenir
+61. (CESPE / SE-DF - 2017) Para auxiliar na gerência de riscos e prevenir
 insatisfações das partes
 interessadas, deve-se dificultar as modificações na especificação dos requisitos.
 
@@ -8197,7 +8050,6 @@ técnicas, orientações, responsabilidades e papéis em fluxos de trabalho.
 63.(CESPE / SE-DF - 2017) É comum que uma especificação de requisitos inclua as
 interfaces
 externas do software.
-
 
 64-(CESPE / TRE-PE - 2017) No contexto da análise de requisitos, confiabilidade e usa b i I ida d e
 são
@@ -8213,7 +8065,7 @@ d) dependências.
 
 e) regras de negócio.
 
-Item. 65. (CESPE /TCE-PR-2016) Com relação aos requisitos de software, assinale a opção correta.
+65. (CESPE /TCE-PR-2016) Com relação aos requisitos de software, assinale a opção correta.
 
 a) O documento de especificação de requisitos é um documento restrito à
 equipe de
@@ -8229,33 +8081,32 @@ software.
 
 e) Os requisitos não funcionais referem-se diretamente às características do software.
 
-Item. 66. (CESPE / TRT-PR - 2016 - Letra D) Durante a fase de levantamento de
+66. (CESPE / TRT-PR - 2016 - Letra D) Durante a fase de levantamento de
 requisitos para a
 construção de um software, compete aos desenvolvedores organizar as necessidades em ordem
 de prioridade.
 
-Item. 67. (CESPE / TRT-PR - 2016 - Letra E) O QFD (quality function deployment)
+67. (CESPE / TRT-PR - 2016 - Letra E) O QFD (quality function deployment)
 identifica como
 requisitos fascinantes os recursos que extrapolam as expectativas dos clientes.
 
-Item. 68. CESPE / MPOG-ATI - 2015) Tão logo exista uma versão do documento de
+68. CESPE / MPOG-ATI - 2015) Tão logo exista uma versão do documento de
 requisitos, o
 processo de gerenciamento de requisitos deverá ser iniciado.
 
-Item. 69. (CESPE / MPOG-ATI - 2015) As informações de rastreabilidade de requisitos
+69. (CESPE / MPOG-ATI - 2015) As informações de rastreabilidade de requisitos
 possibilitam a
 realização de estimativa do custo de mudanças em requisitos.
 
-Item. 70. (CESPE / MPOG-ATI - 2015) As mudanças de requisitos em
+70. (CESPE / MPOG-ATI - 2015) As mudanças de requisitos em
 processos ágeis de
 desenvolvimento não seguem um processo formal de gerenciamento de requisitos.
 
-Item. 71. (CESPE / MPOG-ATI - 2015) Para a elicitação dos requisitos, é indicada à empresa
+71. (CESPE / MPOG-ATI - 2015) Para a elicitação dos requisitos, é indicada à empresa
 a realização
 de um workshop de requisitos, em que seja determinado um facilitador, mesmo que sem
 grande
 experiência com os processos de gerenciamento de requisitos.
-
 
 ji.(CESPE / MPOG-ATI - 2015) Os requisitos não funcionais a serem especificados
 estabelecerão
@@ -8263,51 +8114,51 @@ restrições que devem ser seguidas portodo o sistema da referida empresa, poden
 mesmo
 levar à necessidade de definição de requisitos funcionais.
 
-Item. 73. (CESPE / MPOG-ATI - 2015) A definição de um protótipo para a validação dos
+73. (CESPE / MPOG-ATI - 2015) A definição de um protótipo para a validação dos
 requisitos pode
 tornar o processo de requisitos mais barato e mais simplificado, já que ele vai
 corresponder à
 real forma de uso do sistema a ser construído.
 
-Item. 74. (CESPE / MPOG-ATI - 2015) Uma forma de validação dos requisitos é a geração de
+74. (CESPE / MPOG-ATI - 2015) Uma forma de validação dos requisitos é a geração de
 casos de
 teste para os requisitos documentados.
 
-Item. 75. (CESPE / MPOG-ATI - 2015) No ciclo de vida do software, o congelamento dos
+75. (CESPE / MPOG-ATI - 2015) No ciclo de vida do software, o congelamento dos
 requisitos do
 software garante que este, quando em desenvolvimento, atenda à expectativa do
 usuário,
 desde que tudo que tenha sido requisitado seja implementado.
 
-Item. 76. (CESPE/ STJ - 2015) Os requisitos ambientais, operacionais e de
+76. (CESPE/ STJ - 2015) Os requisitos ambientais, operacionais e de
 desenvolvimento são
 organizacionais e não funcionais.
 
-Item. 77. (CESPE / STJ - 2015) Os requisitos reguladores, legais e éticos são externos e não funcionais.
+77. (CESPE / STJ - 2015) Os requisitos reguladores, legais e éticos são externos e não funcionais.
 
-Item. 78. (CESPE / TJDFT- 2015) O uso de protótipo auxilia a descoberta e a validação dos
+78. (CESPE / TJDFT- 2015) O uso de protótipo auxilia a descoberta e a validação dos
 requisitos de
 software.
 
-Item. 79. (CESPE / TJDFT - 2015) As técnicas de elicitação e especificação de requisitos
+79. (CESPE / TJDFT - 2015) As técnicas de elicitação e especificação de requisitos
 incluem a
 etnografia, a qual é utilizada para compreender os requisitos sociais e
 organizacionais para
 determinado projeto.
 
-Item. 80. (CESPE / TJDFT - 2015) É caracterizada como requisito funcional a exigência de
+80. (CESPE / TJDFT - 2015) É caracterizada como requisito funcional a exigência de
 que, em
 determinado projeto, o software desenvolvido funcione no sistema operacional Linux, uma
 vez
 que essa exigência está diretamente ligada ao software.
 
-Item. 81. (CESPE / MPU - 2013) As atividades do gerenciamento de requisitos incluem a
+81. (CESPE / MPU - 2013) As atividades do gerenciamento de requisitos incluem a
 análise e a
 negociação, a qual visa garantir que todos os requisitos do sistema tenham sido
 declarados de
 modo não ambíguo, sem inconsistências, omissões e erros.
 
-Item. 82. (CESPE / MPE-PI - 2012) Identificada facilidade do cliente em entender
+82. (CESPE / MPE-PI - 2012) Identificada facilidade do cliente em entender
 uma especificação
 matemática, é correto utilizar, também, na especificação dos requisitos, notações
 baseadas em
@@ -8315,7 +8166,7 @@ máquinas de estado finito, uma vez que elas podem reduzir a ambiguidade de um
 documento
 de requisitos.
 
-Item. 83. (CESPE / EBC - 2011) No processo de construção e (ou) manutenção de um produto
+83. (CESPE / EBC - 2011) No processo de construção e (ou) manutenção de um produto
 de
 software, o termo requisito pode ser definido da seguinte forma: uma condição, característica
 ou capacidade, determinada no universo das necessidades do negócio do usuário, que deve
@@ -8336,13 +8187,13 @@ desenvolvedor em relação aos requisitos de um produto. Já a análise dos requ
 prioriza a
 visão que o cliente e os usuários têm dos requisitos de um produto.
 
-Item. 86. (CESPE / FUB - 2011) A etnografia, uma técnica de levantamento de
+86. (CESPE / FUB - 2011) A etnografia, uma técnica de levantamento de
 requisitos, é uma
 abordagem completa para elicitação, utilizada para compreender os
 requisitos sociais e
 organizacionais e que identifica novas características a serem acrescentadas em um sistema.
 
-Item. 87. (CESPE / EBC -2011) Uma das principais técnicas de verificação é a prototipação.
+87. (CESPE / EBC -2011) Uma das principais técnicas de verificação é a prototipação.
 Um protótipo
 é um produto parcialmente desenvolvido, que possibilita aos clientes e
 desenvolvedores
@@ -8350,7 +8201,7 @@ examinarem certos aspectos do sistema proposto e decidir se eles são ou não
 apropriados ou
 adequados para o produto acabado.
 
-Item. 88. (CESPE / TJ-ES - 2011) Assim como o software, os requisitos também devem
+88. (CESPE / TJ-ES - 2011) Assim como o software, os requisitos também devem
 ser avaliados
 quanto à qualidade. A validação, atividade da engenharia de requisitos, é
 responsável por
@@ -8360,27 +8211,26 @@ validação busca detectar inconsistências, erros e omissões, objetivando alin
 requisitos às
 normas estabelecidas para o projeto, produto e processo.
 
-Item. 89. (CESPE / STM - 2011) São consideradas técnicas de validação de requisitos:
+89. (CESPE / STM - 2011) São consideradas técnicas de validação de requisitos:
 revisões de
 requisitos, prototipação e geração de casos de teste.
 
-Item. 90. (CESPE / TJ-ES - 2011) Verificação e validação são atividades da
+90. (CESPE / TJ-ES - 2011) Verificação e validação são atividades da
 análise de software,
 necessárias para se identificar o que o software precisa executar, seguida de uma
 avaliação do
 usuário quanto às atividades definidas.
 
-Item. 91. (CESPE / MEC - 2011) A rastreabilidade de requisitos ocorre apenas na
+91. (CESPE / MEC - 2011) A rastreabilidade de requisitos ocorre apenas na
 relação entre os
 requisitos propriamente ditos e os artefatos ou subprodutos de desenvolvimento gerados.
 
-Item. 92. CESPE / ABIN - 2010) Requisitos não funcionais são restrições sobre os serviços
+92. CESPE / ABIN - 2010) Requisitos não funcionais são restrições sobre os serviços
 ou as funções
 oferecidas pelo sistema, e podem ser, também, declarações de serviços que o sistema
 deve
 fornecer, como o sistema deve reagir a entradas específicas e como deve comportar-se em
 diversas situações.
-
 
 93.(CESPE / MPU - 2010) Os requisitos normativos, geralmente oriundos da análise das
 regras de
@@ -8396,13 +8246,13 @@ a todos ou
 assuntos
 separados, implementados como extensões da funcionalidade central.
 
-Item. 95. (CESPE / MPU - 2010) O levantamento de requisitos é realizado ao final da
+95. (CESPE / MPU - 2010) O levantamento de requisitos é realizado ao final da
 primeira versão de
 um protótipo, para se definir, junto aos envolvidos no processo, quais são as
 premissas básicas
 para o início do entendimento das funcionalidades desejadas.
 
-Item. 96. (CESPE / MPU - 2010) Embora a criação de uma sequência ilustrada de telas
+96. (CESPE / MPU - 2010) Embora a criação de uma sequência ilustrada de telas
 por meio de
 programas de desenho gráfico seja útil para a identificação de alguns requisitos do
 software, ela
@@ -8410,21 +8260,21 @@ não é considerada uma atividade de prototipação por não envolver o uso de u
 linguagem de
 programação.
 
-Item. 97. (CESPE / DETRAN-ES - 2010) A técnica de brainstorm é adequada para a
+97. (CESPE / DETRAN-ES - 2010) A técnica de brainstorm é adequada para a
 produção de
 especificações de requisitos para um sistema de informação em desenvolvimento.
 
-Item. 98. (CESPE / MPU - 2010) A verificação de requisitos tem por objetivo analisar se os modelos
+98. (CESPE / MPU - 2010) A verificação de requisitos tem por objetivo analisar se os modelos
 ' construídos estão de acordo com os requisitos definidos. Por sua vez, a validação de requisitos
 visa assegurar que as necessidades do cliente estão sendo atendidas portais requisitos.
 
-Item. 99. (CESPE/TCU-2010) Por se tratar de função essencial da engenharia de
+99. (CESPE/TCU-2010) Por se tratar de função essencial da engenharia de
 requisitos, a gestão
 formal de requisitos é indispensável mesmo para projetos de pequeno porte, com apenas
 duas
 ou três dezenas de requisitos identificáveis.
 
-Item. 100. (CESPE / DETRAN-DF - 2009) Requisitos funcionais são restrições sobre as
+100. (CESPE / DETRAN-DF - 2009) Requisitos funcionais são restrições sobre as
 funções ou
 serviços oferecidos pelo sistema. Esses requisitos consideram as declarações de
 serviços, a
@@ -8434,7 +8284,7 @@ casos de uso são técnicas eficazes para elicitação de requisitos funcionais 
 pontos de
 vista de interação.
 
-Item. 101. (CESPE / IPEA - 2009) Elicitação envolve a identificação sistemática de
+101. (CESPE / IPEA - 2009) Elicitação envolve a identificação sistemática de
 requisitos nem
 sempre explicitados pelos clientes. Protótipos, pesquisas estruturadas, testes-beta,
 análise de
@@ -8444,12 +8294,11 @@ para elicitar necessidades, expectativas, restrições e interfaces dos stakehol
 todas as
 fases do ciclo de vida do produto.
 
-Item. 102. (CESPE / TCE-RN - 2009) A etnografia é uma técnica utilizada para a
+102. (CESPE / TCE-RN - 2009) A etnografia é uma técnica utilizada para a
 descoberta de
 requisitos de sistemas de software na qual, por meio de observações, procura-se
 compreender
 os requisitos sociais e organizacionais do ambiente onde o sistema será usado.
-
 
 103- (CESPE / IPEA-2009) A política organizacional para o planejamento e execução do
 processo
@@ -8459,7 +8308,7 @@ gestão de requisitos e para que seja possível identificar inconsistências ent
 requisitos e os
 planos do projeto.
 
-Item. 104. (CESPE / STJ - 2008) Os requisitos de um sistema podem ser descrições dos
+104. (CESPE / STJ - 2008) Os requisitos de um sistema podem ser descrições dos
 serviços
 fornecidos ou restrições operacionais. Requisitos podem ainda ser
 classificados como
@@ -8469,13 +8318,13 @@ os requisitos. Um processo de engenharia de requisitos pode envolver o estudo de
 viabilidade,
 a análise, a especificação e a validação de requisitos.
 
-Item. 105. (CESPE / SERPRO - 2008) O levantamento de requisitos é importante,
+105. (CESPE / SERPRO - 2008) O levantamento de requisitos é importante,
 porém não é
 fundamental, pois recomenda-se avançar o quanto antes para as demais atividades
 que
 permitam uma visualização do software e reduzam a ansiedade do cliente em ver algo pronto.
 
-Item. 106. CESPE / MPE-RR-2008) Os requisitos de um sistema são descrições dos serviços
+106. CESPE / MPE-RR-2008) Os requisitos de um sistema são descrições dos serviços
 fornecidos
 pelo sistema e suas restrições operacionais. O processo de descobrir, analisar,
 documentar e
@@ -8483,25 +8332,25 @@ verificar esses serviços e restrições é denominado engenharia de requisitos.
 de um
 sistema de software podem ser funcionais, não funcionais ou de domínio.
 
-Item. 107. (CESPE / MPU - 2007) A especificação de requisitos permite, em determinado
+107. (CESPE / MPU - 2007) A especificação de requisitos permite, em determinado
 momento,
 revelar o que o sistema irá realizar no que se refere às funcionalidades, sem
 definir, nesse
 momento, como as funcionalidades serão implementadas.
 
-Item. 108. (CESPE / MPU - 2007) Na validação de requisitos — parte integrante da
+108. (CESPE / MPU - 2007) Na validação de requisitos — parte integrante da
 especificação
 desses requisitos —, é correto o uso de diagramas da UML, tais como diagrama de
 classes, de
 casos de uso e de interação.
 
-Item. 109. (CESPE / SERPRO - 2005) O gerenciamento de requisitos inclui, entre outras,
+109. (CESPE / SERPRO - 2005) O gerenciamento de requisitos inclui, entre outras,
 as seguintes
 atividades: levantar, analisar, especificar, validar e prototipar requisitos
 funcionais e não-
 funcionais.
 
-Item. 110. (CESPE / SERPRO - 2005) Uma das principais atividades relacionadas à
+110. (CESPE / SERPRO - 2005) Uma das principais atividades relacionadas à
 engenharia de
 software é o levantamento dos requisitos. Nesse contexto, foi introduzida, na década de
 80 do
@@ -8513,7 +8362,7 @@ os principais usuários e o pessoal da análise de sistemas agrupavam-se em uma 
 intensiva
 reunião.
 
-Item. 111. (CESPE / AGE-ES - 2004) A engenharia de requisitos fornece mecanismos que
+111. (CESPE / AGE-ES - 2004) A engenharia de requisitos fornece mecanismos que
 permitem
 entender e analisar a necessidade de o cliente avaliar a exequibilidade, negociar uma
 solução
@@ -8521,8 +8370,7 @@ razoável e especificá-la de maneira não-ambígua, validar a especificação e
 administrar os
 requisitos.
 
-
-Item. 112. (CESPE / Prefeitura de Boa Vista - 2004) Requisitos adequadamente definidos
+112. (CESPE / Prefeitura de Boa Vista - 2004) Requisitos adequadamente definidos
 constituem
 base importante sobre a qual um sistema poderá ser bem desenvolvido. No
 processo de
@@ -8532,62 +8380,61 @@ levantamento de requisitos para gerar um relatório que recomenda se é viável 
 realizar o
 processo de desenvolvimento do sistema.
 
-Item. 113. (CESPE / COHAB - 2004) O QFD (Quality Function Deployment) tem uma
+113. (CESPE / COHAB - 2004) O QFD (Quality Function Deployment) tem uma
 abordagem
 embasada na criação de uma equipe formada por clientes e desenvolvedores, que trabalham
 juntos para identificar o problema, propor elementos da solução,
 negociar diferentes
 abordagens e especificar um conjunto de requisitos da solução.
 
-Item. 114. (CESPE / COHAB - 2004) As atividades de análise de requisitos resultam na
+114. (CESPE / COHAB - 2004) As atividades de análise de requisitos resultam na
 especificação
 das características operacionais do software, na indicação da interface do software com
 outros
 elementos do sistema e no estabelecimento de restrições que o software deve satisfazer.
 
-Item. 115. (CESPE / COHAB - 2004) À medida que os requisitos são elucidados, o analista
+115. (CESPE / COHAB - 2004) À medida que os requisitos são elucidados, o analista
 de software
 pode criar um conjunto de cenários, ou seja, casos de uso, que identificam uma linha
 de uso para
 o sistema a ser construído.
 
-
 GABARITo
 
-Item. 1. ERRADO 41. CORRETO
-Item. 81. LETRA E
+1. ERRADO 41. CORRETO
+81. LETRA E
 
-Item. 2. CORRETO 42. CORRETO
-Item. 82. CORRETO
+2. CORRETO 42. CORRETO
+82. CORRETO
 
 3- ERRADO 43- ERRADO
 83- CORRETO
 
 4- CORRETO 44. ERRADO
-Item. 84. CORRETO
+84. CORRETO
 
 5- CORRETO 45- ERRADO
-Item. 85. ERRADO
+85. ERRADO
 
-Item. 6. CORRETO 46. CORRETO
-Item. 86. ERRADO
+6. CORRETO 46. CORRETO
+86. ERRADO
 
 7- CORRETO 47- ERRADO
-Item. 87. ERRADO
+87. ERRADO
 
-Item. 8. ERRADO 48. ERRADO
-Item. 88. CORRETO
+8. ERRADO 48. ERRADO
+88. CORRETO
 
 9- ERRADO 49- CORRETO
-Item. 89. CORRETO
+89. CORRETO
 
-Item. 10. CORRETO 50. ERRADO
+10. CORRETO 50. ERRADO
 9°. CORRETO
 
 li. ANULADO 51- ERRADO
-Item. 91. ERRADO
+91. ERRADO
 
-Item. 12. CORRETO 52. CORRETO 92.
+12. CORRETO 52. CORRETO 92.
 ERRADO
 
 13- ERRADO 53- ERRADO
@@ -8600,75 +8447,74 @@ x5- CORRETO 55- CORRETO 95-
 ERRADO
 
 i6. ERRADO 56. ERRADO
-Item. 96. ERRADO
+96. ERRADO
 
 17- CORRETO 57- CORRETO 97-
 ERRADO
 
 i8. CORRETO 58. CORRETO
-Item. 98. CORRETO
+98. CORRETO
 
-Item. 19. ERRADO 59- CORRETO
+19. ERRADO 59- CORRETO
 99- ERRADO
 
-Item. 20. CORRETO 60. CORRETO
-Item. 100. ERRADO
+20. CORRETO 60. CORRETO
+100. ERRADO
 
-Item. 21. CORRETO 61. LETRA E
-Item. 101. CORRETO
+21. CORRETO 61. LETRA E
+101. CORRETO
 
-Item. 22. ERRADO 62. CORRETO
-Item. 102. CORRETO
+22. ERRADO 62. CORRETO
+102. CORRETO
 
 23- ERRADO 63. CORRETO
-Item. 103. CORRETO
+103. CORRETO
 
-Item. 24. ERRADO 64. LETRA C
-Item. 104. CORRETO
+24. ERRADO 64. LETRA C
+104. CORRETO
 
 25- CORRETO 65. LETRA D
-Item. 105. ERRADO
+105. ERRADO
 
-Item. 26. ERRADO 66. ERRADO
-Item. 106. CORRETO
+26. ERRADO 66. ERRADO
+106. CORRETO
 
 27- CORRETO 67. CORRETO
-Item. 107. CORRETO
+107. CORRETO
 
-Item. 28. CORRETO 68. CORRETO
-Item. 108. CORRETO
+28. CORRETO 68. CORRETO
+108. CORRETO
 
-Item. 29. ERRADO 69. CORRETO
-Item. 109. CORRETO
+29. ERRADO 69. CORRETO
+109. CORRETO
 
-Item. 30. LETRA D 70. CORRETO
-Item. 110. CORRETO
+30. LETRA D 70. CORRETO
+110. CORRETO
 
 31- LETRA A 71- CORRETO
-Item. 111. CORRETO
+111. CORRETO
 
-Item. 32. CORRETO 72. CORRETO
-Item. 112. ERRADO
+32. CORRETO 72. CORRETO
+112. ERRADO
 
 33- ERRADO 73- ERRADO
-Item. 113. ERRADO
+113. ERRADO
 
 34- CORRETO 74- CORRETO 114.
 CORRETO
 
 35- CORRETO 75- ERRADO
-Item. 115. CORRETO
+115. CORRETO
 
-Item. 36. ERRADO 76. CORRETO
+36. ERRADO 76. CORRETO
 
 37- ERRADO 77- CORRETO
 
-Item. 38. CORRETO 78. CORRETO
+38. CORRETO 78. CORRETO
 
 39- ERRADO 79- CORRETO
 
-Item. 40. ERRADO 80. ERRADO
-
+40. ERRADO 80. ERRADO
 
 LISTA DE QUESTõES - FCC
 
@@ -8701,31 +8547,30 @@ d) não funcional, não funcional, técnico e de sistema.
 
 e) não funcional, de usuário, técnico e funcional.
 
-Item. 2. (FCC/ AL-AP - 2020) Considere a lista abaixo, elaborada durante um
+2. (FCC/ AL-AP - 2020) Considere a lista abaixo, elaborada durante um
 levantamento de
 requisitos na Assembleia Legislativa do Amapá, para um sistema hipotético de
 avaliações
 internas:
 
-Item. 1. Registrar avaliação de colaborador por parlamentar: O sistema deve permitir ao
+1. Registrar avaliação de colaborador por parlamentar: O sistema deve permitir ao
 parlamentar,
 em uma única tela, a avaliação de todos os seus colaboradores.
 
-Item. 2. Considerar Aspectos Legais: O sistema deve seguir orientações elencadas na
+2. Considerar Aspectos Legais: O sistema deve seguir orientações elencadas na
 Resolução
 099/XXXX do Conselho Legislativo do Estado.
 
-Item. 3. Registrar autoavaliação de parlamentar: O sistema deve permitir ao
+3. Registrar autoavaliação de parlamentar: O sistema deve permitir ao
 parlamentar sua
 autoavaliação em relação às disposições legais sob as quais atuou no período.
 
-Item. 4. Atentar à Segurança: O sistema deve fornecer mecanismos de segurança e autenticação
+4. Atentar à Segurança: O sistema deve fornecer mecanismos de segurança e autenticação
 alinhados com os adotados pelo processo XPTO.
 
-Item. 5. Impedir acesso direto ao processo XPTO: O sistema deverá mostrar ao usuário que
+5. Impedir acesso direto ao processo XPTO: O sistema deverá mostrar ao usuário que
 existem
 formulários de avaliação a serem respondidos e dará a opção de respondê-los depois.
-
 
 Adotando RFU para requisitos funcionais e RNF para não-funcionais, a classificação
 correta e
@@ -8741,7 +8586,7 @@ d) RNF, RNF, RFU, RNF e RFU.
 
 e) RNF, RFU, RFU, RNF e RNF.
 
-Item. 3. (FCC / TRT-19 - 2019) A Engenharia de Requisitos utiliza algumas técnicas que
+3. (FCC / TRT-19 - 2019) A Engenharia de Requisitos utiliza algumas técnicas que
 apoiam as
 atividades de levantamento de requisitos, sendo a entrevista uma das mais
 utilizadas. Uma
@@ -8768,7 +8613,7 @@ e) pirâmide, em que inicia-se com perguntas mais específicas sobre o sistema e
 finaliza-se com
 perguntas mais genéricas, sendo geralmente utilizada com usuários mais relutantes.
 
-Item. 4. (FCC / AFAP - 2019) Um Analista de Informática levantou os requisitos para
+4. (FCC / AFAP - 2019) Um Analista de Informática levantou os requisitos para
 desenvolver um
 sistema de gestão. Dentre os requisitos levantados,
 
@@ -8784,7 +8629,6 @@ milissegundos.
 IV. cada Diretor que usa o sistema deve ser identificado apenas por sua matrícula de
 cinco dígitos
 seguidos do código de segurança.
-
 
 V. o sistema deverá gravar um log de autenticação a cada transação completada, contendo a
 identificação do usuário, data e equipamento utilizado.
@@ -8803,31 +8647,31 @@ d) lie III.
 
 e) VI e V.
 
-Item. 5. (FCC / TRF4 - 2019) Suponha que um Analista de TI, participando da etapa de
+5. (FCC / TRF4 - 2019) Suponha que um Analista de TI, participando da etapa de
 análise de
 requisitos de um sistema de emissão de certidão negativa para o TRF4, tenha elencado
 os
 requisitos apresentados abaixo:
 
-Item. 1. Utilizar interface responsiva para que possa ser executado em dispositivos móveis e na web.
+1. Utilizar interface responsiva para que possa ser executado em dispositivos móveis e na web.
 
-Item. 2. Validar o tipo de certidão solicitado.
+2. Validar o tipo de certidão solicitado.
 
-Item. 3. Emitir certidão negativa após verificação de situação do requerente.
+3. Emitir certidão negativa após verificação de situação do requerente.
 
-Item. 4. Solicitar o CPF do requerente.
+4. Solicitar o CPF do requerente.
 
-Item. 5. Responder ao clique único do usuário em qualquer botão da interface.
+5. Responder ao clique único do usuário em qualquer botão da interface.
 
-Item. 6. Validar o CPF do requerente.
+6. Validar o CPF do requerente.
 
-Item. 7. Restaurar os dados automaticamente após falhas não programadas.
+7. Restaurar os dados automaticamente após falhas não programadas.
 
-Item. 8. Solicitar o nome do requerente.
+8. Solicitar o nome do requerente.
 
-Item. 9. Oferecer dois tipos de certidão: para fins gerais e para fins eleitorais.
+9. Oferecer dois tipos de certidão: para fins gerais e para fins eleitorais.
 
-Item. 10. Emitir aviso de impossibilidade de emissão da certidão.
+10. Emitir aviso de impossibilidade de emissão da certidão.
 
 Sobre os requisitos, é correto afirmar que:
 
@@ -8841,8 +8685,7 @@ d) apenas 3, 4, 8, 9 e 10 são funcionais.
 
 e) apenas 2, 6 e 7 são não funcionais.
 
-Item. 6. (FCC / SAMASA Campinas - 2019) O diagrama faz referência à QFD -
-
+6. (FCC / SAMASA Campinas - 2019) O diagrama faz referência à QFD -
 
 a) Quality Function Deployment, uma técnica da gestão de qualidade
 que traduz as
@@ -8868,7 +8711,7 @@ que traduz as necessidades do cliente para as funcionalidades a serem
 incorporadas no
 software.
 
-Item. 7. (FCC / SEFAZ-BA - 2019) Um profissional da área administrativa de certa
+7. (FCC / SEFAZ-BA - 2019) Um profissional da área administrativa de certa
 instituição recebeu
 um Analista de Sistemas que estava fazendo o levantamento de requisitos para a
 construção de
@@ -8878,7 +8721,6 @@ o profissional corretamente disse que:
 
 a) a resposta a uma consulta de dados deveria durar no máximo dois segundos para não atrasar
 seu trabalho.
-
 
 b) o sistema deveria permitir a alteração de dados incluídos de forma equivocada.
 
@@ -8892,7 +8734,7 @@ instituição.
 
 e) o sistema, após consultar os dados de um cliente, deveria permitir a impressão dos dados.
 
-Item. 8. (FCC / SEFAZ-BA - 2019) Um Auditor Fiscal da área de Tecnologia da
+8. (FCC / SEFAZ-BA - 2019) Um Auditor Fiscal da área de Tecnologia da
 Informação está
 participando do processo de levantamento de requisitos para o desenvolvimento de um novo
 software. Os requisitos a seguirforam elencados:
@@ -8930,7 +8772,7 @@ d) IV, VI, VIII e IX.
 
 e) II, IV, V, VI e VIII.
 
-Item. 9. (FCC / SEMEF-AM - 2019) Considerando que a Fazenda Municipal emprega o
+9. (FCC / SEMEF-AM - 2019) Considerando que a Fazenda Municipal emprega o
 gerenciamento
 de requisitos, ganha importância o cuidado com os chamados requisitos voláteis, dentre os
 quais fazem parte os requisitos que surgem à medida que o cliente vai
@@ -8969,7 +8811,7 @@ d) IV, I, lie III.
 
 e) III, I, lie IV.
 
-Item. 11. (FCC / SEMEF-AM - 2019) O processo de validação de requisitos de software deve
+11. (FCC / SEMEF-AM - 2019) O processo de validação de requisitos de software deve
 ser utilizado
 em um projeto da Fazenda Municipal, sendo que seus técnicos de TI, devem, nesse
 processo de
@@ -8987,7 +8829,7 @@ d) facilidade de verificação examina se requisito pode ser excluído sem preju
 
 e) facilidade de compreensão analisa se o requisito tem sua origem diretamente estabelecida.
 
-Item. 12. (FCC / Prefeitura de Manaus-AM - 2019) Considerando a análise de requisitos, as
+12. (FCC / Prefeitura de Manaus-AM - 2019) Considerando a análise de requisitos, as
 informações
 de rastreabilidade desempenham papel de grande importância. Assim, a equipe responsável
 da
@@ -8996,7 +8838,6 @@ Fazenda Municipal deve estar ciente de que a rastreabilidade de projeto signific
 a) definir o mapeamento entre os requisitos de projeto e os usuários do sistema.
 
 b) listar os compiladores utilizados no desenvolvimento de cada módulo de software.
-
 
 c) determinar o mapeamento entre os requisitos de projeto e os locais onde o sistema
 será
@@ -9008,7 +8849,7 @@ e) possuir o mapeamento entre os requisitos e os módulos de projeto que impleme
 os
 requisitos.
 
-Item. 13. (FCC / SEFAZ-SC - 2018) A definição de contextos para que os usuários possam agirde maneira
+13. (FCC / SEFAZ-SC - 2018) A definição de contextos para que os usuários possam agirde maneira
 semelhante, entendendo melhor quais informações precisam fornecer durante a
 atividade de
 elicitação de requisitos, pode ser obtida por meio da aplicação de duas técnicas de
@@ -9055,7 +8896,7 @@ e) reduzir o potencial de conflito entre o cliente e o contratante por meio de
 um conjunto de
 testes que demonstre que o sistema entregue atende a cada requisito especificado.
 
-Item. 15. (FCC / SABESP - 2018) Um Analista necessita levantar os requisitos de um sistema
+15. (FCC / SABESP - 2018) Um Analista necessita levantar os requisitos de um sistema
 junto aos
 usuários. São técnicas de levantamento:
 
@@ -9065,22 +8906,21 @@ b) Product Owner e Brainstorming.
 
 c) Overview e Use Cases.
 
-
 d) Joint Application Design (ou Development) - JAD e Etnografia.
 
 e) Prototipação e Sprint.
 
-Item. 16. (FCC / FUB - 2018) O documento de requisitos deve ser elaborado a partir da
+16. (FCC / FUB - 2018) O documento de requisitos deve ser elaborado a partir da
 análise de
 viabilidade do software, seguida de análise, especificação e validação de requisitos.
 
-Item. 17. (FCC / BNB - 2018) A revisão técnica é um procedimento utilizado para validar os
+17. (FCC / BNB - 2018) A revisão técnica é um procedimento utilizado para validar os
 requisitos de
 um projeto, com o objetivo de identificar eventuais inconsistências e verificar se os
 artefatos
 estão de acordo com o padrão esperado.
 
-Item. 18. (FCC / DPE-AM - 2018) Considere, por hipótese, que uma equipe de Analistas de
+18. (FCC / DPE-AM - 2018) Considere, por hipótese, que uma equipe de Analistas de
 Sistemas da
 Defensoria elencou a lista de requisitos para um novo sistema:
 
@@ -9108,7 +8948,7 @@ d) funcionais internos de legislação.
 
 e) não-funcionais externos do tipo legal e do tipo regulador.
 
-Item. 19. (FCC / BNB - 2018) No levantamento de informações, os requisitos dos
+19. (FCC / BNB - 2018) No levantamento de informações, os requisitos dos
 solicitantes são
 classificados como normais e conceituais. Os requisitos normais refletem os
 objetivos e as
@@ -9116,7 +8956,7 @@ metas do produto, ao passo que os conceituais estão implícitos no produto ou
 extrapolam as
 expectativas do cliente.
 
-Item. 20. (FCC / BNB - 2018) O protótipo operacional serve para aprimorar o entendimento de
+20. (FCC / BNB - 2018) O protótipo operacional serve para aprimorar o entendimento de
 como o
 sistema deve funcionar, por meio da elucidação dos requisitos do usuário e da
 compreensão de
@@ -9130,7 +8970,6 @@ organizacionais, que podem ser divididos em:
 
 a) reguladores e éticos.
 
-
 b) ambientais, operacionais e de desenvolvimento.
 
 c) contábeis e de segurança.
@@ -9139,7 +8978,7 @@ d) de desempenho e de espaço.
 
 e) de eficiência, de confiança e de proteção.
 
-Item. 22. (FCC / DPE-SP - 2013) Em uma das etapas da Engenharia de Requisitos há a
+22. (FCC / DPE-SP - 2013) Em uma das etapas da Engenharia de Requisitos há a
 preocupação em
 se observar a especificação produzida, visando verificar que os requisitos
 tenham sido
@@ -9157,7 +8996,7 @@ d) levantamento dos requisitos.
 
 e) validação dos requisitos.
 
-Item. 23. (FCC / TST- 2012) Na Engenharia de Requisitos, o gerente de requisitos:
+23. (FCC / TST- 2012) Na Engenharia de Requisitos, o gerente de requisitos:
 
 a) acompanha e monitora ações durante a verificação do software, sendo este o processo
 que
@@ -9194,7 +9033,6 @@ desenvolvimento ou utilização de padrões, são requisitos de funcionamento do
 sistema ou
 requisitos funcionais.
 
-
 III. Requisitos que vem do domínio da aplicação do sistema e refletem
 características ou
 restrições para aquele domínio são chamados de requisitos de domínio e podem ser
@@ -9213,7 +9051,7 @@ d) II e III, apenas.
 
 e) I, apenas.
 
-Item. 25. (FCC / MPE-PE - 2012) Os requisitos não funcionais não estão diretamente ligados
+25. (FCC / MPE-PE - 2012) Os requisitos não funcionais não estão diretamente ligados
 aos serviços
 específicos oferecidos pelo sistema a seus usuários. Eles podem estar
 relacionados às
@@ -9234,7 +9072,7 @@ d) reguladores e de proteção.
 
 e) legais e contábeis.
 
-Item. 26. (FCC / TRE-CE - 2012) Considere:
+26. (FCC / TRE-CE - 2012) Considere:
 
 I. Para cada cliente deve ser aplicado um identificador único.
 
@@ -9256,7 +9094,6 @@ c) II e IV, apenas.
 d) I, III e IV, apenas.
 
 e) I, II, III e IV.
-
 
 T]. (FCC / TST - 2012) Na Engenharia de Requisitos, o gerente de requisitos:
 
@@ -9299,11 +9136,11 @@ d) Brainstorming.
 
 e) Análise de protocolos.
 
-Item. 29. (FCC / INFRAERO-2011- Letra D) No contexto de levantamento de requisitos,
+29. (FCC / INFRAERO-2011- Letra D) No contexto de levantamento de requisitos,
 funcionalidade
 é um dos aspectos que deve ser levado em conta na abordagem dos requisitos funcionais.
 
-Item. 30. (FCC / INFRAERO - 2011) A engenharia de requisitos ajuda os engenheiros de
+30. (FCC / INFRAERO - 2011) A engenharia de requisitos ajuda os engenheiros de
 software a
 compreender melhor o problema que eles vão trabalhar para resolver. Ela inclui um
 conjunto de
@@ -9321,7 +9158,6 @@ b) refina e modifica os requisitos. É uma ação de modelagem de análise compo
 várias
 tarefas de modelagem e refinamento.
 
-
 c) define quais são as prioridades, o que é essencial, o que é necessário. Clientes,
 usuários e
 outros interessados são solicitados a ordenar os requisitos e depois discutir
@@ -9332,7 +9168,7 @@ d) ajuda o cliente a definir o que é necessário.
 
 e) define o escopo e a natureza do problema a ser resolvido.
 
-Item. 31. (FCC / TRTi - 2011) A técnica utilizada na compreensão de requisitos sociais e
+31. (FCC / TRTi - 2011) A técnica utilizada na compreensão de requisitos sociais e
 organizacionais
 por observação das rotinas dos envolvidos é a:
 
@@ -9346,7 +9182,7 @@ d) entrevista.
 
 e) etnografia.
 
-Item. 32. (FCC / INFRAERO - 2011) Os produtos de trabalho resultantes da engenharia de
+32. (FCC / INFRAERO - 2011) Os produtos de trabalho resultantes da engenharia de
 requisitos são
 avaliados quanto à qualidade durante a etapa de validação de requisitos. Analise os
 itens a seguir
@@ -9376,12 +9212,11 @@ d) II, III e IV, apenas.
 
 e) I, II e III, apenas.
 
-Item. 33. (FCC / TRT19 - 2011) A avaliação do impacto de mudança de um requisito, muitas
+33. (FCC / TRT19 - 2011) A avaliação do impacto de mudança de um requisito, muitas
 vezes, faz
 com que seja necessário retornar à sua fonte. Na validação dos requisitos, a equipe
 deve estar
 atenta, portanto, à:
-
 
 a) rastreabilidade.
 
@@ -9449,7 +9284,6 @@ d) II e III, apenas.
 
 e) I, lie III.
 
-
 37- (FCC / DPE-SP - 2010) No contexto da Engenharia de Requisitos, considere:
 
 I. O sistema deve fornecer uma entrada de dados que possibilite a inclusão de
@@ -9505,7 +9339,6 @@ estágio de:
 
 a) agregação dos requisitos funcionais, apenas.
 
-
 b) implementação do sistema, apenas.
 
 c) implementação do sistema
@@ -9513,7 +9346,7 @@ d) eliminação dos requisitos não funcionais.
 
 e) gerenciamento de requisitos.
 
-Item. 40. (FCC / SEFAZ-SP - 2009) Énecessário que 0 software calcule os salários dos diaristas e
+40. (FCC / SEFAZ-SP - 2009) Énecessário que 0 software calcule os salários dos diaristas e
 mensalistas
 e emita relatórios mensais sumariados por tipo de salário. Entretanto, a base de dados
 deve estar
@@ -9547,7 +9380,7 @@ gerenciamento de risco, prazo e custo.
 e) A base de dados deve estar protegida e com acesso restrito aos usuários autorizados e
 entrega do produto final não pode ultrapassar o prazo de oito meses.
 
-Item. 41. (FCC / TRT3 - 2009) Com relação aos requisitos de software, considere:
+41. (FCC / TRT3 - 2009) Com relação aos requisitos de software, considere:
 
 I. funcionais são somente requisitos de usuário.
 
@@ -9566,8 +9399,7 @@ d) I e III.
 
 e) lie III.
 
-
-Item. 42. (FCC /TRT7-2009) No processo de engenharia de requisitos, é uma técnica de observação que
+42. (FCC /TRT7-2009) No processo de engenharia de requisitos, é uma técnica de observação que
 pode ser usada para compreender os requisitos sociais e organizacionais. Trata-se de:
 
 a) Workshop.
@@ -9580,7 +9412,7 @@ d) Análise de ponto de vista.
 
 e) Etnografia.
 
-Item. 43. (FCC / TRT3 - 2009) São técnicas e abordagens utilizadas na obtenção dos requisitos:
+43. (FCC / TRT3 - 2009) São técnicas e abordagens utilizadas na obtenção dos requisitos:
 
 a) estresse, cenários e workshop.
 
@@ -9592,7 +9424,7 @@ d) pontos de vista, cenários e entrevista.
 
 e) pontos de vista, casos de uso e validação.
 
-Item. 44. (FCC / PGE-RJ - 2009) No âmbito da Engenharia de Requisitos, uma revisão técnica formal é:
+44. (FCC / PGE-RJ - 2009) No âmbito da Engenharia de Requisitos, uma revisão técnica formal é:
 
 a) um teste de desempenho.
 
@@ -9604,14 +9436,13 @@ d) o resultado do escopo.
 
 e) um mecanismo de validação.
 
-
 GABARITo
 
-Item. 1. LETRA B i6. CORRETO
+1. LETRA B i6. CORRETO
 31- LETRA E
 
-Item. 2. LETRA C 17- CORRETO
-Item. 32. LETRA E
+2. LETRA C 17- CORRETO
+32. LETRA E
 
 3- LETRA E i8. LETRA E
 33- LETRA A
@@ -9622,26 +9453,26 @@ Item. 32. LETRA E
 5- LETRA C 20. CORRETO
 35- LETRA A
 
-Item. 6. LETRA A 21. LETRA B
-Item. 36. LETRA C
+6. LETRA A 21. LETRA B
+36. LETRA C
 
 7- LETRA A 22. LETRA E
 37- LETRA A
 
-Item. 8. LETRA C 23- LETRA C
-Item. 38. LETRAC
+8. LETRA C 23- LETRA C
+38. LETRAC
 
 9- LETRA C 24. LETRA A
 39- LETRA E
 
-Item. 10. LETRAC 25- LETRA A
-Item. 40. LETRA A
+10. LETRAC 25- LETRA A
+40. LETRA A
 
 íi. LETRA B 26. LETRA C
-Item. 41. LETRA E
+41. LETRA E
 
-Item. 12. LETRA E 27- LETRA C
-Item. 42. LETRA E
+12. LETRA E 27- LETRA C
+42. LETRA E
 
 13- LETRA A 28. LETRA D
 43- LETRA D
@@ -9650,7 +9481,6 @@ Item. 42. LETRA E
 44- LETRA E
 
 15- LETRA D 30. LETRA C
-
 
 LISTA DE QUESTõES - FCV
 
@@ -9673,7 +9503,7 @@ d) usabilidade;
 
 e) desenvolvimento.
 
-Item. 2. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
+2. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
 solicitou à
 equipe de desenvolvimento uma funcionalidade capaz de emitir relatórios com
 cabeçalhos
@@ -9695,7 +9525,7 @@ d) não funcional de usabilidade;
 
 e) funcional de desenvolvimento.
 
-Item. 3. (FGV / TCE-TO - 2022) A Equipe de Desenvolvimento de Soluções (EDS) recebeu a
+3. (FGV / TCE-TO - 2022) A Equipe de Desenvolvimento de Soluções (EDS) recebeu a
 solicitação
 de que um dos campos utilizados para entrada de dados da aplicação Web em construção
 apresente sugestões de palavras dinamicamente, conforme o usuário for digitando
@@ -9712,12 +9542,11 @@ d) usabilidade;
 
 e) desenvolvimento.
 
-Item. 4. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
+4. (FGV / TCE-TO - 2022) Carlos é uma parte interessada em uma aplicação Web e
 solicitou à
 equipe de desenvolvimento uma funcionalidade capaz de emitir relatórios com
 cabeçalhos
 padronizados. Assim, os cabeçalhos devem ter cor de fundo, paleta de cores e tipografia,
-
 
 seguindo o padrão adotado em outros documentos emitidos pelo departamento
 responsável
@@ -9735,7 +9564,7 @@ d) não funcional de usabiIidade;
 
 e) funcional de desenvolvimento.
 
-Item. 5. (FGV/TCE-TO-2022) As credenciais de acesso dos usuários de um aplicativo são
+5. (FGV/TCE-TO-2022) As credenciais de acesso dos usuários de um aplicativo são
 armazenadas
 em um banco de dados e são utilizadas unicamente para acesso às funcionalidades do
 aplicativo.
@@ -9761,7 +9590,7 @@ e) usar uma chave randômica gerada pelo aplicativo para cifrar as senhas por me
 um
 algoritmo de chave simétrica.
 
-Item. 6. (FGV / TCE-TO - 2022) A Equipe de Tecnologia (ETi) de um tribunal de contas
+6. (FGV / TCE-TO - 2022) A Equipe de Tecnologia (ETi) de um tribunal de contas
 está levantando
 as necessidades para um novo sistema junto às partes interessadas. Uma das
 partes
@@ -9781,7 +9610,7 @@ d) taxa de ocorrência de falhas;
 
 e) tempo de atualização de tela.
 
-Item. 7. (FGV / ALERJ - 2017) O Analista de Sistemas Pedro está realizando um
+7. (FGV / ALERJ - 2017) O Analista de Sistemas Pedro está realizando um
 levantamento de
 requisitos por meio da prototipação. Sua intenção com esse protótipo é proporcionar uma
 visão
@@ -9800,7 +9629,7 @@ d) textual;
 
 e) horizontal.
 
-Item. 8. (FGV / BADESC - 2010) Analise o fragmento a seguir:
+8. (FGV / BADESC - 2010) Analise o fragmento a seguir:
 
 "A base de dados deve ser protegida para acesso apenas de usuários autorizados".
 O fragmento acima apresenta um exemplo do seguinte requisito:
@@ -9815,7 +9644,7 @@ d) de domínio.
 
 e) não-funcional.
 
-Item. 9. (FGV / FIOCRUZ - 2010) Sobre os processos de engenharia de requisitos, na elicitação e na
+9. (FGV / FIOCRUZ - 2010) Sobre os processos de engenharia de requisitos, na elicitação e na
 análise ocorre total interação com os stakeholders no sistema, sendo o principal objetivo:
 
 a) a obtenção dos requisitos.
@@ -9828,7 +9657,7 @@ d) a conversão de especificações em requisitos.
 
 e) a execução do estudo de viabilidade do sistema.
 
-Item. 10. (FGV/ MEC-2009) Requisitos não-funcionais estão diretamente relacionados com a satisfação
+10. (FGV/ MEC-2009) Requisitos não-funcionais estão diretamente relacionados com a satisfação
 dos usuários. Assinale a alternativa que não indique um requisito não-funcional:
 
 a) O sistema de arquivos deve ser protegido, para acesso, apenas, de usuários autorizados.
@@ -9841,13 +9670,12 @@ d) O software poderá ser executado em plataforma windows e linux.
 
 e) O software deve emitir relatórios de vendas a cada quinze dias.
 
-Item. 11. (FGV / MEC - 2009) As declarações de serviços que o sistema deve fornecer, de
+11. (FGV / MEC - 2009) As declarações de serviços que o sistema deve fornecer, de
 como ele deve
 reagir a entradas específicas ou se comportar em determinadas situações, são chamadas de
 requisitos:
 
 a) não-funcionais.
-
 
 b) de domínio.
 
@@ -9857,7 +9685,7 @@ d) funcionais.
 
 e) de usuário.
 
-Item. 12. (FGV / MEC-2009) Existem técnicas que são usadas na fase de levantamento de
+12. (FGV / MEC-2009) Existem técnicas que são usadas na fase de levantamento de
 requisitos para
 coletar conhecimento dos usuários sobre os requisitos. Assinale a alternativa que
 indique apenas
@@ -9873,7 +9701,7 @@ d) leitura de documentos, protótipos, workshop, WBS e workflow.
 
 e) brainstorming, protótipos, workflow, leitura de documentos e intercepting.
 
-Item. 13. FGV / Senado Federal - 2008) Entre as atividades listadas a seguir, uma não faz
+13. FGV / Senado Federal - 2008) Entre as atividades listadas a seguir, uma não faz
 parte da
 Engenharia de Requisitos. Assinale-a.
 
@@ -9887,14 +9715,13 @@ d) verificação.
 
 e) gerenciamento.
 
-
 GABARITo
 
-Item. 1. LETRA D 6. LETRA C
-Item. 11. LETRA D
+1. LETRA D 6. LETRA C
+11. LETRA D
 
-Item. 2. LETRA B 7- LETRA E
-Item. 12. LETRAC
+2. LETRA B 7- LETRA E
+12. LETRAC
 
 3- LETRA D 8. LETRA E
 13- LETRA B
@@ -9902,7 +9729,6 @@ Item. 12. LETRAC
 4- LETRA B 9- LETRA A
 
 5- LETRA C 10. LETRA E
-
 
 LISTA DE QUESTõES - DIvERSAS BANCAS
 
@@ -9929,7 +9755,7 @@ d) V-V-F
 
 e) V-V-V
 
-Item. 2. (IDIB / CRF - MS - 2021) Em qual etapa do processo de desenvolvimento de
+2. (IDIB / CRF - MS - 2021) Em qual etapa do processo de desenvolvimento de
 requisitos de
 software mais comumente costuma acontecer a identificação de gaps nos
 requisitos ou a
@@ -9943,7 +9769,7 @@ c) Especificação de requisitos.
 
 d) Validação de requisitos.
 
-Item. 3. (IDIB / CRF - MS - 2021) "Uma descrição de uma propriedade ou característica
+3. (IDIB / CRF - MS - 2021) "Uma descrição de uma propriedade ou característica
 que um sistema
 deve exibir ou uma restrição que ele deve respeitar". Tal definição se adequa a qual
 tipo de
@@ -9957,7 +9783,7 @@ c) Atributo de Qualidade.
 
 d) Requisito do Usuário.
 
-Item. 4. (VUNESP / EBSERH - 2020) Considerando as técnicas utilizadas para a avaliação de
+4. (VUNESP / EBSERH - 2020) Considerando as técnicas utilizadas para a avaliação de
 requisitos,
 é correto afirmar que, na:
 
@@ -9966,7 +9792,6 @@ a) facilidade de verificação, deve-se verificar se não há requisitos conflit
 b) verificação de consistência, deve-se verificar se os requisitos podem ser
 implementados,
 considerando a tecnologia existente.
-
 
 c) verificação de realismo, deve-se verificar se todas as funções e restrições
 planejadas estão
@@ -9978,7 +9803,7 @@ e) verificação de completeza, deve-se verificar se todas as funções e restri
 planejadas estão
 contempladas.
 
-Item. 5. (VUNESP/ EBSERH -2020) Na engenharia de requisitos, um fator importante são os
+5. (VUNESP/ EBSERH -2020) Na engenharia de requisitos, um fator importante são os
 requisitos
 não funcionais, que se classificam em organizacionais, de produto e externos. Os requisitos
 a) de produto têm origem em políticas e procedimentos da organização do cliente.
@@ -9996,7 +9821,7 @@ e) organizacionais especificam o comportamento do produto, tais como o
 desempenho e a
 memória requerida.
 
-Item. 6. (COPESE - UFPI/ ALEPI- 2020) Um técnico de TI da ALEPI que gerencia uma equipe
+6. (COPESE - UFPI/ ALEPI- 2020) Um técnico de TI da ALEPI que gerencia uma equipe
 de
 desenvolvimento de software na Assembleia, eventualmente necessita fazer
 levantamento de
@@ -10036,7 +9861,6 @@ d) Apenas II e III.
 
 e) Apenas II, III e IV.
 
-
 7- (FAFIPA / Prefeitura de Arapongas - PR - 2020) A Engenharia de Requisitos é um
 termo
 cunhado para descrever as atividades relacionadas à investigação e definição de escopo
@@ -10061,7 +9885,7 @@ d) JAD; Refatoração; Etnografia.
 
 e) Entrevista; JAD; Refatoração.
 
-Item. 8. (IBFC / EBSERH - 2020) Requisitos são as bases para todo projeto, definindo o
+8. (IBFC / EBSERH - 2020) Requisitos são as bases para todo projeto, definindo o
 que as partes
 interessadas de um novo sistema necessitam e também o que o sistema deve
 fazer para
@@ -10075,7 +9899,7 @@ c) a revisão dos requisitos funcionais e não-funcionais
 d) os estudos de viabilidade técnica/financeira
 e) a revisão dos requisitos pelos usuários
 
-Item. 9. (INSTITUTO AOCP / Prefeitura de Betim - MG - 2020) A engenharia de requisitos
+9. (INSTITUTO AOCP / Prefeitura de Betim - MG - 2020) A engenharia de requisitos
 estabelece
 uma ponte entre o projeto e a construção do software. Assinale a alternativa que
 representa a
@@ -10091,7 +9915,7 @@ d) Revisão.
 
 e) Gestão.
 
-Item. 10. (FAURGS /TJ-RS-2018) Requisitos não funcionais-como o nome sugere-são
+10. (FAURGS /TJ-RS-2018) Requisitos não funcionais-como o nome sugere-são
 requisitos que
 não estão diretamente relacionados com os serviços específicos oferecidos pelo sistema a
 seus
@@ -10104,7 +9928,6 @@ exemplo o seu
 desempenho, seus requisitos de proteção, seus requisitos de usabilidade e a taxa
 aceitável de
 falhas-são denominados requisitos:
-
 
 a) organizacionais.
 
@@ -10142,7 +9965,7 @@ d) Cenários.
 
 e) Casos de uso.
 
-Item. 12. (FAURGS/TJ-RS-2oi8) Qual alternativa abaixo apresenta um requisito funcional de software?
+12. (FAURGS/TJ-RS-2oi8) Qual alternativa abaixo apresenta um requisito funcional de software?
 
 a) A base de dados deve ser protegida para acesso apenas a usuários autorizados.
 
@@ -10154,7 +9977,7 @@ d) O software deve emitir relatórios de vendas.
 
 e) O tempo de desenvolvimento não deve ultrapassar três meses.
 
-Item. 13. (FAURGS / TJ-RS - 2018) Considerando que, durante o processo de validação de
+13. (FAURGS / TJ-RS - 2018) Considerando que, durante o processo de validação de
 requisitos,
 estes são submetidos a diferentes tipos de verificação, assinale a alternativa cuja
 verificação
@@ -10172,10 +9995,9 @@ d) Verificações de validade.
 
 e) Prototipação.
 
-Item. 14. (UFG / SANEAGO - 2017) Com relação à qualidade de software, é um exemplo de
+14. (UFG / SANEAGO - 2017) Com relação à qualidade de software, é um exemplo de
 requisito de
 software não funcional:
-
 
 a) calcular o valor do desconto conforme o perfil do cliente.
 
@@ -10185,7 +10007,7 @@ c) produzir o software em até dois anos e ter custo inferior a R$100.000,00.
 
 d) limitar o cadastro de usuários ao Departamento de Pessoal.
 
-Item. 15. (UFG / SANEAGO - 2017) Alguns usuários estão insatisfeitos com um
+15. (UFG / SANEAGO - 2017) Alguns usuários estão insatisfeitos com um
 software. Uma
 investigação revelou que a origem da insatisfação decorre de uma omissão
 (requisito não
@@ -10201,7 +10023,7 @@ c) Construção.
 
 d) Elaboração do Termo de Abertura.
 
-Item. 16. (UFG / SANEAGO - 2017) São atributos de requisito de software:
+16. (UFG / SANEAGO - 2017) São atributos de requisito de software:
 
 a) custo (para implementar) e complexidade ciclomática.
 
@@ -10227,7 +10049,7 @@ c) manutenibilidade.
 
 d) eficiência.
 
-Item. 18. (IBFC / EBSERH - 2017) Quanto aos vários tipos de requisitos assinale, das
+18. (IBFC / EBSERH - 2017) Quanto aos vários tipos de requisitos assinale, das
 alternativas abaixo,
 a única que NÃO identifica corretamente um clássico requisito não-funcional:
 
@@ -10242,7 +10064,6 @@ desenvolvimento de
 software dividido em Requisitos funcionais e Requisitos não-funcionais. Os
 Requisitos não-
 funcionais possuem vários tipos diferentes de classificação tais como:
-
 
 (í) Requisitos de confiabilidade.
 
@@ -10294,7 +10115,7 @@ c) Requisitos não-Funcionais.
 
 d) Requisitos da Aplicação.
 
-Item. 22. CESGRANRIO / IBGE - 2014) Solicitado para fazer o levantamento dos requisitos
+22. CESGRANRIO / IBGE - 2014) Solicitado para fazer o levantamento dos requisitos
 para um novo
 software a ser desenvolvido, um analista de sistemas identificou a necessidade de
 descobrir
@@ -10308,7 +10129,7 @@ c) patrocinadores
 d) usuários
 e) usuários finais
 
-Item. 23. (ESAF / CVM - 2010) Assinale a opção correta.
+23. (ESAF / CVM - 2010) Assinale a opção correta.
 
 a) Gestão de requisitos preocupa-se com a documentação, atualização e
 controle de
@@ -10330,7 +10151,7 @@ e) Gestão de requisitos preocupa-se com a documentação, direcionamento,
 controle de
 definição e acesso aos requisitos levantados na fase de planejamento de escopo.
 
-Item. 24. (ESAF / MPOG -2010) As áreas de esforços da Análise de Requisitos são:
+24. (ESAF / MPOG -2010) As áreas de esforços da Análise de Requisitos são:
 
 a) reconhecimento dos objetivos, avaliação e controle, modelagem, estruturação e revisão.
 
@@ -10346,46 +10167,44 @@ e) reconhecimento do problema, modelagem, especificação de entidades,
 estruturação e
 revisão.
 
-Item. 25. (ESAF / AFRFB - 2005) Durante a análise de requisitos, são especificados
+25. (ESAF / AFRFB - 2005) Durante a análise de requisitos, são especificados
 a função e o
 desempenho do software, bem como a sua interface com outros elementos do sistema. Nessa
 etapa, também, são estabelecidas as restrições de projeto, a que o software deve atender.
 
-Item. 26. (ESAF / AFRFB - 2005 - Letra E) Durante a especificação dos requisitos, são
+26. (ESAF / AFRFB - 2005 - Letra E) Durante a especificação dos requisitos, são
 estabelecidos os
 critérios que permitirão ao desenvolvedor e ao cliente avaliar a qualidade, assim que
 o software
 for construído.
 
-
 GABARITo
 
-Item. 1. LETRA E 10. LETRA B
-Item. 19. LETRA E
+1. LETRA E 10. LETRA B
+19. LETRA E
 
-Item. 2. LETRA B li. LETRA A
-Item. 20. LETRAC
+2. LETRA B li. LETRA A
+20. LETRAC
 
 3- LETRA B 12. LETRA D
-Item. 21. LETRA A
+21. LETRA A
 
 4- LETRA E 13- LETRA A
-Item. 22. LETRA B
+22. LETRA B
 
 5- LETRA D 14- LETRA B
 23- LETRA B
 
-Item. 6. LETRA D 15- LETRA B
-Item. 24. LETRA B
+6. LETRA D 15- LETRA B
+24. LETRA B
 
 7- LETRA B i6. LETRA D
 25- CORRETO
 
-Item. 8. LETRA D 17- LETRA C
-Item. 26. CORRETO
+8. LETRA D 17- LETRA C
+26. CORRETO
 
 9- LETRA A i8. LETRA B
-
 
 Conceitos Básicos
 
@@ -10537,7 +10356,6 @@ acúmulo de débito técnico:
 
 ESTRATÉGIAS | DESCRIÇÃO
 
-
 ESTABELEÇA PADRÕES DE
 CÓDIGO E BOAS PRÁTICAS DE
 
@@ -10563,7 +10381,6 @@ mesmos padrões e práticas.
 Testes automatizados e manuais são uma ótima maneira de garantir que o software
 esteja funcionando corretamente e atendendo às necessidades dos usuários.
 
-
 PLANEJE PARA
 ESCALABILIDADE
 
@@ -10579,7 +10396,6 @@ atualizado.
 Ferramentas de automação podem ajudar a reduzir o tempo necessário para realizar
 tarefas repetitivas e propensas a erros. Isso pode incluir ferramentas de integração
 contínua, ferramentas de análise de código e ferramentas de teste automatizado.
-
 
 MANTENHA UM REGISTRO DE
 
@@ -10600,7 +10416,6 @@ a) pode ser eliminado durante a construção de software sem dependência do pro
 
 b) pode ser eliminado por alteração no projeto (design) sem repercussão na
 implementação.
-
 
 c) é uma questão de projeto (design) com repercussão na funcionalidade do software.
 
@@ -10642,5 +10457,4 @@ problemas futuros no projeto. Logo, é
 importante gerenciar 0 débito técnico para garantir que ele não se acumule a ponto de
 afetar negativamente o projeto (Letra
 E).
-
 

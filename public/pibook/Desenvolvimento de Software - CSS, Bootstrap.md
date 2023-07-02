@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - CSS, Bootstrap.
-
+# Desenvolvimento de Software - CSS, Bootstrap.
 
 Índice
 
@@ -14,7 +13,6 @@ Capítulo. Desenvolvimento de Software - CSS, Bootstrap.
 5) Desenvolvimento Front-End - Bootstrap - Questões Comentadas - Multibancas
 
 6) Desenvolvimento Front-End - Bootstrap - Lista de Questões - Multibancas
-
 
 Sumário
 
@@ -100,7 +98,6 @@ Cor de fundo
 
 Botões de link.
 
-
 Listas de CSS
 
 Listas HTML e propriedades da lista CSS
@@ -184,11 +181,9 @@ Barra de Navegação Horizontal
 
 Menus suspensos em CSS
 
-
 /' 257
 
 /
-
 
 Galeria de imagens.
 
@@ -247,11 +242,9 @@ Seletores de atributos CSS
 
 Referências.
 
-
 /' 257
 
 /
-
 
 APRESENTAçÃo DA AULA
 
@@ -265,11 +258,9 @@ mnemónicos. Vamos ao que importa! (S)
 
 x-"'
 
-
 /' 257
 
 /
-
 
 Conceitos Básicos
 
@@ -285,7 +276,6 @@ esse:
 
 https://www.w3schools.com/html/
 
-
 I <!DOCTYPE html>
 
 <html>
@@ -293,7 +283,6 @@ I <!DOCTYPE html>
 <body>
 
 Meu primeiro título.
-
 
 <hl>Meu primeiro título.</hl>
 
@@ -332,9 +321,7 @@ color: white;
 
 text-align: center;
 
-
 0 0
-
 
 p {
 
@@ -396,11 +383,9 @@ Quando tags como <font> e atributos de cor foram adicionados à especificação 
 3.2,
 começou um pesadelo para os desenvolvedores da web. O desenvolvimento de grandes sites,
 
-
 / 257
 
 /
-
 
 onde fontes e informações de cores foram adicionadas a cada página, tornou-se um
 processo
@@ -414,14 +399,11 @@ folha de estilo externo, você pode alterar a aparência de um site inteiro alte
 apenas um
 arquivo!
 
-
 x-""' 9
-
 
 /' 257
 
 /
-
 
 Sintaxe CSS
 
@@ -437,7 +419,6 @@ propriedade
 para o qual você deseja definir a propriedade. Várias declarações podem ser
 adicionadas à
 mesma regra, separadas por ponto e vírgula:
-
 
 H1 {COLOR:BLUE;
 
@@ -473,9 +454,7 @@ Você também pode usar seletores diferentes, como seletores de classe,
 id, atributo e
 pseudoclasse para direcionar elementos específicos na página.
 
-
 ,
-
 
 Seletores de CSS
 
@@ -534,15 +513,12 @@ elementos. Por exemplo, #my-id .my-class p seleciona todos os elementos <p> dent
 um elemento com a classe "my-class" que é descendente de um elemento com o id "my-
 id".
 
-
 ,
-
 
 í (FCC - TJ-CE - 2022) Para colocar a cor de fundo vermelha apenas dos campos
 (inputs) do tipo
 
 = text de um formulário, utiliza-se a instrução CSS
-
 
 i a) input [type=text] {background-color: #OOffOO}
 
@@ -614,11 +590,9 @@ id="firstname"
 elementos com
 class=" intro"
 
-
 / 257
 
 /
-
 
 p.intro
 p
@@ -633,11 +607,9 @@ Seleciona todos os elementos <p>
 Seleciona todos os elementos <div> e
 todos os elementos <p>
 
-
 / 257
 
 /
-
 
 Como adicionar CSS
 
@@ -699,18 +671,15 @@ type especifica o tipo de conteúdo (CSS) e o conteúdo da tag <style> é o cód
 CSS. A diretiva
 @import é usada para incluir uma folha de estilo externa chamada aleap.css.
 
-
 / 257
 
 /
-
 
 O uso de uma folha de estilo externa é considerado uma prática recomendada, pois
 permite uma
 melhor organização e capacidade de manutenção dos estilos e facilita a aplicação dos
 mesmos
 estilos a várias páginas. Vejamos uma questão!
-
 
 i
 i (FCC - AL-AP - 2020) Segundo os padrões de acessibilidade na web definidos para
@@ -733,7 +702,6 @@ i pelas páginas do sítio/portal. Por exemplo, a instrução <link rel =
 
 = e) <style rel="stylesheet" type="text/css" url("aleap.css")/>
 
-
 ; Comentários: Sabemos que há três formas de inserir CSS: Estilos embutidos, Folha de
 estilo i
 
@@ -750,11 +718,9 @@ Das opções, a correta é semelhante ao nosso exemplo <style type="text/css">
 
 = url("aleap.css"); </style>. Portanto, nosso gabarito é a letra C. (Gabarito: Letra C)
 
-
 /' 257
 
 /
-
 
 Comentários CSS
 
@@ -795,11 +761,9 @@ determinada regra ou seção da folha de estilo adicionando /* no início da lin
 a regra e */
 no final da linha, sem precisar removê-la completamente.
 
-
 / 257
 
 /
-
 
 Cores CSS
 
@@ -848,9 +812,7 @@ transparência.
 isso é
 uma boa prática.
 
-
 ,
-
 
 I <H1 STYLE="BACKGR0UND-C0L0R:RGB[255,99,71);">...</H1>
 
@@ -869,9 +831,7 @@ UMA COR HEXADECIMAL É ESPECIFICADA COM: ARRGGBB, ONDE OS INTEIROS HEXADECIMAIS 
 
 HSL SIGNIFICA MATIZ, SATURAÇÃO E LEVEZA: HSL [MATIZ, SATURAÇÃO, LUMINOSIDADE)
 
-
 www. estra tegiaconcursos. com. br
-
 
 Fundos CSS
 
@@ -895,7 +855,6 @@ Define uma imagem como fundo de um elemento. A imagem é
 especificada por um valor de uri. Você também pode usar a palavra-
 chave nenhum para remover qualquer imagem de plano de fundo.
 
-
 background-repeat
 background-position
 background-
@@ -918,7 +877,6 @@ Define a área onde a imagem de fundo deve ser pintada. O valor
 padrão é border-box, o que significa que a imagem será pintada
 dentro das bordas do elemento.
 
-
 background-size
 
 Define o tamanho da imagem de fundo. Você pode usar valores como
@@ -933,11 +891,9 @@ do background em uma linha.
 É importante observar que a ordem dos valores na propriedade abreviada é:
 plano de fundo: cor de fundo - imagem de fundo repetição de fundo posição de fundo
 
-
 /' 257
 
 /
-
 
 PLANO DE FUNDO: COR DE FUNDO - IMAGEM DE FUNDO - REPETIÇÃO DE FUNDO - POSIÇÃO DE FUNDO
 
@@ -945,11 +901,9 @@ Você pode usar essas propriedades para definir o plano de fundo de qualquer ele
 HTML,
 tornando-o uma ferramenta poderosa para criar designs da Web atraentes e envolventes.
 
-
 / 257
 
 /
-
 
 Imagem de Fundo CSS
 
@@ -958,7 +912,6 @@ plano de
 fundo de um elemento. A imagem é especificada por um valor de URL, que pode ser um
 caminho
 relativo ou absoluto. Por exemplo:
-
 
 body {
 
@@ -1015,11 +968,9 @@ Além disso, você pode usar a propriedade abreviada background para
 definir todas as
 propriedades do background em uma linha.
 
-
 / 257
 
 /
-
 
 body {
 background:
@@ -1041,7 +992,6 @@ se
 repete apenas na horizontal, posicionada no centro e fixa no lugar, você pode usar o
 seguinte
 código:
-
 
 body {
 
@@ -1080,11 +1030,9 @@ página
 Especifica a área de pintura do fundo
 Define a cor de fundo de um elemento
 
-
 / 257
 
 /
-
 
 background-image
 background-origin
@@ -1100,11 +1048,9 @@ Define a posição inicial de uma imagem de fundo
 Define como uma imagem de fundo será repetida
 Especifica o tamanho da(s) imagem(ns) de fundo
 
-
 / 257
 
 /
-
 
 Propriedades de Borda do CSS
 
@@ -1152,11 +1098,9 @@ Vejamos um exemplo e seu respectivo resultado.
 
 <!D0CTYPE html>
 
-
 /' 257
 
 /
-
 
 <html>
 
@@ -1215,7 +1159,6 @@ p.mix {border-style: dotted dashed solid double;}
 
 *
 
-
 A propriedade border-style
 
 Esta propriedade especifica que tipo de borda exibir:
@@ -1246,7 +1189,6 @@ Sem borda.
 Uma fronteira oculta.
 
 |Uma borda mista.
-
 
 Largura da Borda do CSS
 
@@ -1287,7 +1229,6 @@ border-width: 2px;
 }
 
 p.four {
-
 
 border-style: dotted;
 border-width: thick;
@@ -1346,7 +1287,6 @@ This property' specifies the width of the four borders:
 
 *
 
-
 A propriedade border-width pode ter de um a quatro valores (para a borda
 superior, borda
 direita, borda inferior e borda esquerda):
@@ -1354,7 +1294,6 @@ direita, borda inferior e borda esquerda):
 p.one {
 
 border-style: solid;
-
 
 border-width:
 
@@ -1365,7 +1304,6 @@ border-width:
 p.two {
 
 border-style: solid;
-
 
 border-width:
 
@@ -1423,11 +1361,9 @@ border-color: red;
 
 }
 
-
 / 257
 
 /
-
 
 p.two {
 
@@ -1495,7 +1431,6 @@ borda de uma só vez.
 
 *
 
-
 /* Definir a cor, largura e estilo da borda como vermelho, 5 pixels e
 sólido*/
 border: 5px solid red;
@@ -1557,11 +1492,9 @@ bottom-color, border-left-width, border-left-style, and border-left-color.
 
 s'"
 
-
 /' 257
 
 /
-
 
 Há muitas propriedades a serem consideradas ao lidar com bordas, entretanto, para
 encurtar o
@@ -1624,7 +1557,6 @@ border-top-left-radius: 30px;
 
 *
 
-
 border-top-right-radius: 10px;
 
 /* Definir raio de borda arredondada inferior esquerda como 5 pixels */
@@ -1635,7 +1567,6 @@ border-bottom-right-radius: 15px;
 
 Professora, para quê tanto exemplo? Porque cai em prova!
 Vejamos agora todas as propriedades de borda CSS
-
 
 Propriedades de
 
@@ -1664,11 +1595,9 @@ border-style Define o estilo das quatro bordas
 border-top Define todas as propriedades da borda superior em uma declaração
 border-top-color Define a cor da borda superior
 
-
 /' 257
 
 /
-
 
 border-top-style
 border-top-width
@@ -1678,9 +1607,7 @@ Define o estilo da borda superior
 Define a largura da borda superior
 Define a largura das quatro bordas
 
-
 /
-
 
 Margens CSS
 
@@ -1740,11 +1667,9 @@ margin-right: 20px;
 
 /* Definir margem inferior como 30 pixels */
 
-
 / 257
 
 /
-
 
 margin-bottom: 30px;
 
@@ -1756,7 +1681,6 @@ elementos na
 página web, e podem ser usadas para criar uma aparência mais organizada e estruturada
 para
 seu site.
-
 
 Propriedades de
 Margem CSS
@@ -1781,11 +1705,9 @@ página web, e podem ser usadas para criar uma aparência mais organizada e estr
 para
 seu site.
 
-
 /' 257
 
 /
-
 
 Preenchimento CSS
 
@@ -1839,11 +1761,9 @@ padding-right: 20px;
 /* Definir preenchimento inferior como 30 pixels */
 padding-bottom: 30px;
 
-
 / 257
 
 /
-
 
 /* Definir preenchimento esquerda como 40 pixels */
 padding-left: 40px;
@@ -1857,7 +1777,6 @@ adicionado a
 esse elemento será adicionado à largura total do elemento. Isso geralmente é
 um resultado
 indesejável.
-
 
 Propriedades de
 Preenchimento CSS
@@ -1874,11 +1793,9 @@ O preenchimento é importante para controlar o espaçamento entre o conteúdo e 
 de um
 elemento, e pode ser usado para criar uma aparência mais atraente e organizada para seu site.
 
-
 /' 257
 
 /
-
 
 Altura, largura e largura máxima do CSS
 
@@ -1937,9 +1854,7 @@ As propriedades heighte width podem ter os seguintes valores:
 
 * auto- Este é o padrão. O navegador calcula a altura e a largura
 
-
 ,
-
 
 * length- Define a altura/largura em px, cm, etc.
 
@@ -1948,7 +1863,6 @@ As propriedades heighte width podem ter os seguintes valores:
 * initial- Define a altura/largura para seu valor padrão
 
 * inherit- A altura/largura será herdada de seu valor pai
-
 
 Propriedades de
 Preenchimento CSS
@@ -1970,11 +1884,9 @@ seu site.
 
 s'"
 
-
 /' 257
 
 /
-
 
 Modelo de Caixa CSS
 
@@ -2029,9 +1941,7 @@ CSS tem as seguintes propriedades de contorno:
 
 * outline-offset
 
-
 ,
-
 
 * outline
 
@@ -2091,9 +2001,7 @@ independentemente da cor do fundo)
 
 Abreviação do Contorno do CSS
 
-
 www. estra tegiaconcursos. com. br
-
 
 A propriedade outline é uma propriedade de abreviação CSS que permite definir
 todas as
@@ -2135,11 +2043,9 @@ elemento
 outline-style Define o estilo de um contorno
 outline-width Define a largura de um contorno
 
-
 /' 257
 
 /
-
 
 Texto CSS
 
@@ -2187,11 +2093,9 @@ filhos, a menos que seja especificamente sobrescrita para um elemento filho.
 
 Cor do texto
 
-
 / 257
 
 /
-
 
 A propriedade color é usada para definir a cor do texto. A cor pode ser especificada
 como uma
@@ -2210,7 +2114,6 @@ P {
 color: blue;
 
 }
-
 
 Propriedades de Cor
 do Texto
@@ -2252,11 +2155,9 @@ hl {
 
 text-align: centen;
 
-
 /' 257
 
 /
-
 
 }
 
@@ -2294,7 +2195,6 @@ A propriedade Bidirecionalidade do Texto Unicode unicode-bidi é usada para cont
 direção
 de exibição de caracteres bidirecionais (por exemplo, árabes e hebreus) no texto.
 
-
 Propriedades de
 alinhamento/direção
 do texto CSS
@@ -2316,12 +2216,9 @@ sublinhado, riscado, entre outros.
 * A propriedade text-decoration-line é usada para especificar a linha de decoração a ser
 aplicada ao texto.
 
-
 0 0
 
-
 /
-
 
 * A propriedade text-decoration-color é usada para especificar a cor da decoração de texto.
 
@@ -2346,7 +2243,6 @@ text-decoration-thickness: 2px;
 
 }
 
-
 Propriedades de
 Decoração de Texto
 
@@ -2364,7 +2260,6 @@ text-decoration-line Especifica o tipo de decoração de texto a ser usado
 sobrelinhado, etc.)
 
 text-decoration-style Especifica o estilo da decoração do texto (sólido, pontilhado, etc.)
-
 
 text-decoration-
 
@@ -2388,11 +2283,9 @@ text-transform: uppercase;
 
 p.lowercase {
 
-
 /' 257
 
 /
-
 
 text-transform: lowercase;
 
@@ -2403,7 +2296,6 @@ p.capitalize {
 text-transform: capitalize;
 
 }
-
 
 Propriedades de
 Transformação de
@@ -2440,7 +2332,6 @@ white-space: pre-wrap;
 
 }
 
-
 Propriedades de
 Decoração de Texto
 
@@ -2452,11 +2343,9 @@ line-height Especifica a altura da linha
 text-indent Especifica o recuo da primeira linha em um bloco de texto
 white-space Especifica como lidar com espaço em branco dentro de um elemento
 
-
 / 257
 
 /
-
 
 word-spacing Especifica o espaço entre as palavras em um texto
 
@@ -2474,18 +2363,15 @@ No último exemplo, a sombra tem uma posição horizontal de 2px à direita do t
 uma posição
 vertical de 2px abaixo do texto e tem uma opacidade de 5px com a cor cinza.
 
-
 Propriedades de
 Sombra de Texto CSS
 
 Descrição
 text-shadow Especifica o efeito de sombra adicionado ao texto
 
-
 / 257
 
 /
-
 
 Fontes CSS
 
@@ -2519,7 +2405,6 @@ aparência mecânica.
 
 * Fontes fantasia são fontes decorativas/divertidas.
 
-
 F F
 
 Sans-serif Serif
@@ -2548,7 +2433,6 @@ font-family: "Times New Roman", Times, serif;
 }
 
 .p2 {
-
 
 www. estra tegiaconcursos. com. br
 font-family: Arial, Helvética, sans-serif;
@@ -2595,11 +2479,9 @@ A lista a seguir apresenta as melhores fontes seguras da Web para HTML e CSS:
 
 s'"
 
-
 /' 257
 
 /
-
 
 * Courier New (monoespacial)
 
@@ -2659,9 +2541,7 @@ font-weight: bold;
 
 }
 
-
 www. estra tegiaconcursos. com. br
-
 
 A propriedade font-variant especifica se um texto deve ou não ser exibido
 em uma fonte
@@ -2724,9 +2604,7 @@ hl {
 
 font-size: 2.5em; /* 40px/16=2.5em */
 
-
 ,
-
 
 }
 
@@ -2749,7 +2627,6 @@ navegadores.
 Infelizmente, ainda há um problema com versões mais antigas do Internet Explorer. O
 texto fica
 maior do que deveria quando aumentado e menor do que deveria quando reduzido.
-
 
 * B Google Fonts
 
@@ -2790,9 +2667,7 @@ font-weight: bold;
 
 </style>
 
-
 www. estra tegiaconcursos. com. br
-
 
 Nesse exemplo, estamos incorporando a fonte "Open Sans" do Google e definindo sua
 família
@@ -2852,11 +2727,9 @@ font-size: 30px;
 
 x-'"
 
-
 /' 257
 
 /
-
 
 9Tlu£tl|arte> Síiadoiu Effect
 
@@ -2868,12 +2741,12 @@ combinação entre si, com base em características como altura de linha,
 largura, espessura e
 outros atributos visuais. Vejamos as regras básicas.
 
-Item. 1. Complemento
+1. Complemento
 
 É sempre seguro encontrar pares de fontes que se complementam. Uma ótima combinação de
 fontes deve harmonizar, sem ser muito parecida ou muito diferente.
 
-Item. 2. Use superfamílias de fontes
+2. Use superfamílias de fontes
 
 Uma superfamília de fontes é um conjunto de fontes projetadas para funcionar
 bem juntas.
@@ -2883,7 +2756,7 @@ superfamília Lúcida contém as seguintes fontes: Lúcida Sans, Lúcida Serif, 
 Typewriter Sans,
 Lúcida Typewriter Serif e Lúcida Math.
 
-Item. 3. O contraste é rei
+3. O contraste é rei
 
 Duas fontes muito semelhantes geralmente entrarão em conflito. No entanto, os
 contrastes,
@@ -2893,31 +2766,30 @@ sans serif
 sem serifa
 da mesma fonte (por exemplo, Lúcida e Lúcida Sans).
 
-Item. 4. Escolha apenas um chefe
+4. Escolha apenas um chefe
 
 Uma fonte deve ser o chefe. Isso estabelece uma hierarquia para as fontes em sua
 página. Isso
 pode ser conseguido variando o tamanho, peso e cor.
 
-
-Item. 5. Escolha fontes que tenham uma altura de linha semelhante: Isso ajuda a manter a consistência
+5. Escolha fontes que tenham uma altura de linha semelhante: Isso ajuda a manter a consistência
 e legibilidade em todo o texto.
 
-Item. 6. Escolha fontes que tenham uma largura semelhante: Isso ajuda a garantir que o texto seja fácil
+6. Escolha fontes que tenham uma largura semelhante: Isso ajuda a garantir que o texto seja fácil
 de ler e que as palavras não sejam muito compactadas ou espaçadas.
 
-Item. 7. Escolha fontes que tenham uma espessura semelhante. Isso ajuda a manter um equilíbrio visual
+7. Escolha fontes que tenham uma espessura semelhante. Isso ajuda a manter um equilíbrio visual
 entre o texto e a fonte, garantindo que a fonte não seja muito pesada ou muito leve
 em relação
 ao texto.
 
-Item. 8. Escolha fontes que tenham uma personalidade semelhante. Isso pode incluir coisas
+8. Escolha fontes que tenham uma personalidade semelhante. Isso pode incluir coisas
 como a
 forma dos caracteres, a inclinação das letras, ou outros detalhes estilísticos que
 fazem com que
 as fontes pareçam coesas quando usadas juntas.
 
-Item. 9. Escolha fontes que tenham um contraste visual adequado. Isso significa escolher
+9. Escolha fontes que tenham um contraste visual adequado. Isso significa escolher
 fontes que
 se destaquem o suficiente uma da outra, mas não tanto que causem distração ou
 dificultem a
@@ -2954,11 +2826,9 @@ font-size Especifica o tamanho da fonte do texto
 font-style Especifica o estilo de fonte do texto
 s'"
 
-
 /' 257
 
 /
-
 
 font-variant
 font-weight
@@ -3017,7 +2887,6 @@ crossorigin="anonymous"x/script>
 
 <body>
 
-
 <i class="fas
 
 <i class="fas
@@ -3040,14 +2909,11 @@ fa-bars"x/i>
 
 s"''
 
-
 /' 257
 
 /
 
-
 ícones do Bootstrap
-
 
 Bootstrap icon library
 
@@ -3078,7 +2944,6 @@ href="https://maxedn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.ess">
 
 <body>
 
-
 <i class="glyphicon
 
 <i class="glyphicon
@@ -3106,12 +2971,9 @@ SVG: INSERINDO IMAGENS SVG DIRETAMENTE NO HTML OU ATRAVÉS DE ARQUIVOS EXTERNOS.
 CSS PSEUDO-ELEMENTOS: UTILIZANDO PSEUDO-ELEMENTOS COMO :BEFORE OU :AFTER PARA CRIAR
 ÍCONES USANDO CSS.
 
-
 www. estra tegiaconcursos. com. br
 
-
 Links CSS
-
 
 Style a linkwitli a color
 
@@ -3175,7 +3037,6 @@ Ao definir o estilo para vários estados de link, existem algumas regras de orde
 
 *
 
-
 Decoração de texto
 
 A propriedade text-decoration é usada principalmente para remover sublinhados de links:
@@ -3235,7 +3096,6 @@ Botões de link
 Este exemplo demonstra um exemplo mais avançado onde combinamos várias propriedades CSS
 para exibir links como caixas/botões:
 
-
 www. estra tegiaconcursos. com. br
 a:linkj a:visited {
 
@@ -3280,7 +3140,6 @@ a.five:hover {text-decoration: underline;}
 
 Listas de CSS
 
-
 Listas não ordenadas:
 o Café
 o Chá
@@ -3294,11 +3153,11 @@ Coca Cola
 
 Listas Ordenadas:
 
-Item. 1. Café
+1. Café
 
-Item. 2. Chá
+2. Chá
 
-Item. 3. Coca Cola
+3. Coca Cola
 
 I. Café
 
@@ -3306,9 +3165,7 @@ II. Chá
 
 III. Coca Cola
 
-
 / 257
-
 
 Listas HTML e propriedades da lista CSS
 
@@ -3333,7 +3190,6 @@ A propriedade list-style-type especifica o tipo de marcador de item de lista. O
 exemplo a seguir
 mostra alguns dos marcadores de item de lista disponíveis:
 
-
 ul.a {
 
 }
@@ -3341,7 +3197,6 @@ ul.a {
 list-style-type:
 
 circle;
-
 
 ul.b {
 
@@ -3351,7 +3206,6 @@ list-style-type:
 
 square;
 
-
 ol.c {
 
 }
@@ -3359,7 +3213,6 @@ ol.c {
 list-style-type:
 
 upper-roman;
-
 
 ol.d {
 
@@ -3378,9 +3231,7 @@ list-style-image: url('sqpurple.gif');
 
 }
 
-
 www. estra tegiaconcursos. com. br
-
 
 Posicione os Marcadores de Item da Lista
 
@@ -3442,7 +3293,6 @@ Lista - Propriedade abreviada
 
 *
 
-
 A propriedade list-style é uma propriedade abreviada. É usado para definir todas as
 propriedades
 da lista em uma declaração:
@@ -3475,7 +3325,6 @@ coisa adicionada à tag <ol> ou <ul> afeta a lista inteira, enquanto as propried
 adicionadas à
 tag <li> afetarão os itens individuais da lista:
 
-
 Propriedades de Listas
 
 CSS
@@ -3487,11 +3336,9 @@ list-style-position Especifica a posição dos marcadores de item de lista (marc
 
 list-style-type Especifica o tipo de marcador de item de lista
 
-
 / 257
 
 /
-
 
 Tabelas CSS
 
@@ -3550,11 +3397,9 @@ background-color: #í2f2f2;
 
 }
 
-
 / 257
 
 /
-
 
 Neste exemplo, as bordas da tabela são definidas como "collapse", com uma largura de
 1 px e cor
@@ -3566,23 +3411,23 @@ Uma tabela full-width é uma tabela que ocupa a largura total da tela,
 independentemente do
 tamanho da janela do navegador. Isso pode ser alcançado usando CSS com as seguintes etapas:
 
-Item. 1. Remover margens e padding da tabela: Isso pode ser feito usando o seguinte
+1. Remover margens e padding da tabela: Isso pode ser feito usando o seguinte
 código: table
 
 { margin: 0; padding: 0;}.
 
-Item. 2. Definir a largura da tabela como 100%: Isso pode ser feito usando o seguinte
+2. Definir a largura da tabela como 100%: Isso pode ser feito usando o seguinte
 código: table
 
 {width: 100%;}.
 
-Item. 3. Definir a largura de cada coluna da tabela: Isso pode ser feito usando o
+3. Definir a largura de cada coluna da tabela: Isso pode ser feito usando o
 seguinte código:
 th, td { width: [porcentagem];}, onde [porcentagem] é a porcentagem da
 largura total da
 tabela que cada coluna deve ocupar.
 
-Item. 4. Centralizar a tabela na tela: Isso pode ser feito usando o seguinte código:
+4. Centralizar a tabela na tela: Isso pode ser feito usando o seguinte código:
 table { margin: 0
 auto;}.
 
@@ -3620,11 +3465,9 @@ e 8px de padding. A célula de cabeçalho tem uma cor de fundo cinza claro.
 
 Recolher bordas da tabela (border-collapse)
 
-
 / 257
 
 /
-
 
 As bordas da tabela podem ser colapsadas usando a propriedade "border-collapse" em CSS.
 A
@@ -3689,11 +3532,9 @@ padding: 8px;
 
 th {
 
-
 / 257
 
 /
-
 
 background-color: #í2f2f2;
 
@@ -3711,11 +3552,11 @@ Alinhamento de Tabela CSS
 
 O alinhamento de uma tabela em CSS pode ser definido usando as seguintes propriedades:
 
-Item. 1. margin: define a margem ao redor da tabela.
+1. margin: define a margem ao redor da tabela.
 
-Item. 2. text-align: define o alinhamento do texto nas células da tabela.
+2. text-align: define o alinhamento do texto nas células da tabela.
 
-Item. 3. vertical-align: define o alinhamento vertical do conteúdo nas células da tabela.
+3. vertical-align: define o alinhamento vertical do conteúdo nas células da tabela.
 
 Exemplo:
 
@@ -3761,25 +3602,23 @@ claro.
 
 x'
 
-
 / 257
 
 /
-
 
 Estilo de Tabela CSS
 
 O estilo de uma tabela em CSS pode ser definido usando as seguintes propriedades:
 
-Item. 1. border: define o estilo da borda da tabela.
+1. border: define o estilo da borda da tabela.
 
-Item. 2. background-color: define a cor de fundo da tabela.
+2. background-color: define a cor de fundo da tabela.
 
-Item. 3. color: define a cor do texto nas células da tabela.
+3. color: define a cor do texto nas células da tabela.
 
-Item. 4. font-size: define o tamanho da fonte do texto nas células da tabela.
+4. font-size: define o tamanho da fonte do texto nas células da tabela.
 
-Item. 5. padding: define o espaço entre o conteúdo e a borda da célula da tabela.
+5. padding: define o espaço entre o conteúdo e a borda da célula da tabela.
 
 Exemplo:
 
@@ -3831,9 +3670,7 @@ verticalmente e há
 cabeçalho tem uma
 cor de fundo azul e a cor do texto é branca.
 
-
 ,
-
 
 Tabela Responsiva CSS
 
@@ -3849,7 +3686,6 @@ tela. Por exemplo, você pode fazer com que as colunas da tabela sejam exibidas 
 abaixo da
 outra em dispositivos menores.
 
-
 Propriedades de
 Tabelas CSS
 
@@ -3862,14 +3698,11 @@ empty-cells Especifica se deve ou não exibir bordas e fundo em células vazias 
 uma tabela
 table-layout Define o algoritmo de layout a ser usado para uma tabela
 
-
 ^1
-
 
 / 257
 
 /
-
 
 Layout CSS - A propriedade de exibição
 
@@ -3915,14 +3748,11 @@ de um elemento de none para block ou outro valor de exibição, mostrando
 ou ocultando o
 elemento dinamicamente.
 
-
 x-""' 72
-
 
 /' 257
 
 /
-
 
 Note que o elemento com display: none ainda existe no DOM, mas não é visível na
 página. Se
@@ -3986,11 +3816,9 @@ Se você precisar remover completamente um elemento da página, pode usar a
 propriedade
 display: none.
 
-
 /' 257
 
 /
-
 
 display:flex é um valor de CSS que transforma um elemento HTML em um container
 flexível. Isso
@@ -4020,7 +3848,6 @@ para fazer a página parecer de uma maneira específica e ainda seguir os padrõ
 web. Um
 exemplo comum é criar elementos embutidos <li>para menus horizontais:
 
-
 Propriedades de
 Exibição CSS
 
@@ -4046,11 +3873,9 @@ Usar max-width em vez disso, nessa situação, melhorará o manuseio de janelas 
 pelo
 navegador. Isso é importante ao tornar um site utilizável em pequenos dispositivos.
 
-
 / 257
 
 /
-
 
 A propriedade de posição
 
@@ -4110,7 +3935,6 @@ direita, inferior e esquerda são usadas para posicionar o elemento. Um elemento
 não deixa
 uma lacuna na página onde normalmente estaria localizado.
 
-
 www. estra tegiaconcursos. com. br
 position: absolute;
 
@@ -4148,7 +3972,6 @@ navegador (fixed). As propriedades "top", "right", "bottom" e "left" são usadas
 para ajustar a
 posição de um elemento em relação ao seu elemento pai ou à página.
 
-
 Propriedades de
 Posição CSS
 
@@ -4160,14 +3983,11 @@ position Especifica o tipo de posicionamento de um elemento
 right Define a borda da margem direita para uma caixa posicionada
 top Define a borda da margem superior para uma caixa posicionada
 
-
 / 257
 
 /
 
-
 SERPRO (Analista - Especialização: Tecnologia) Desenvolvimento de software - 2023 (Pós-I
-
 
 A propriedade z-index
 
@@ -4231,11 +4051,9 @@ alto são exibidos "acima" de elementos com um valor de "z-index" mais baixo.
 (Gabarito: Letra
 A)
 
-
 / 257
 
 /
-
 
 Overflow
 
@@ -4293,11 +4111,9 @@ overflow-wrap
 longas, caso elas transbordem seu contêiner
 x-"'" 79
 
-
 /' 257
 
 /
-
 
 overflow-x
 overflow-y
@@ -4308,11 +4124,9 @@ se ele ultrapassar a área de conteúdo do elemento
 Especifica o que fazer com as bordas superior/inferior do
 se ele ultrapassar a área de conteúdo do elemento
 
-
 / 257
 
 /
-
 
 Layout CSS: Float and clear
 
@@ -4359,11 +4173,9 @@ outros elementos não fiquem sobrepostos aos elementos flutuantes. Assim também
 ocorre para
 o "floatright".
 
-
 / 257
 
 /
-
 
 A propriedade "clear" define se um elemento
 deve ser colocado abaixo de elementos flutuantes
@@ -4421,7 +4233,6 @@ Por outro lado, clear especifica se um elemento deve ser colocado abaixo de elem
 flutuantes
 anteriores. Valores possíveis são "left", "right", "both" ou "none".
 
-
 Observe que estas são as duas principais propriedades relacionadas a
 "float". Há outras
 propriedades menos comuns, como "float-offset", que são usadas em situações
@@ -4429,7 +4240,6 @@ específicas. É
 importante ter em mente que o uso de "float" para o layout pode ser
 limitante em algumas
 situações e alternativas mais modernas, como o uso de flexbox e grid, devem ser consideradas.
-
 
 Propriedades de
 Posição CSS
@@ -4448,11 +4258,9 @@ se ele ultrapassar a área de conteúdo do elemento
 overflow-y Especifica o que fazer com as bordas superior/inferior do conteúdo
 se ele ultrapassar a área de conteúdo do elemento
 
-
 / 257
 
 /
-
 
 Layout CSS: display: inline-block
 
@@ -4517,11 +4325,9 @@ elemento HTML
 * "display: inline" é usado para elementos que devem ser exibidos em uma linha, como texto
 ou links. Isso significa que eles não podem ter uma largura ou altura definida e não podem
 
-
 / 257
 
 /
-
 
 ter margens ou preenchimentos em todas as direções. Os elementos em linha
 são
@@ -4551,9 +4357,7 @@ Em resumo, "inline" é usado para elementos que devem ser exibidos em uma linha,
 usado para
 elementos que devem ser exibidos em blocos separados, ocupando toda a largura disponível.
 
-
 ,
-
 
 Alinhamento
 
@@ -4597,12 +4401,10 @@ Existem várias maneiras de alinhar elementos ao centro de uma página ou contê
 usando CSS,
 incluindo:
 
-
 Elementos de
 Alinhamento Central
 
 Descrição
-
 
 Margens automáticas
 
@@ -4617,11 +4419,9 @@ horizontalmente um elemento.
 
 transform: translate(-50%, -50%);
 
-
 / 257
 
 /
-
 
 (Profs. Paolla Ramos e Raphael L
 
@@ -4648,9 +4448,7 @@ place-items: center;
 
 }
 
-
 0 0
-
 
 CSS Combinators
 
@@ -4660,24 +4458,24 @@ específicos em uma página da web. Eles permitem selecionar elementos com base
 em suas
 relações com outros elementos. Existem quatro tipos de combinadores:
 
-Item. 1. Combinador descendente (espaço): tem como alvo um elemento que é descendente
+1. Combinador descendente (espaço): tem como alvo um elemento que é descendente
 de
 outro elemento. Exemplo: div p visa todos os elementos p que são descendentes de um
 elemento div.
 
-Item. 2. Combinador filho (>): tem como alvo um elemento que é filho direto de outro
+2. Combinador filho (>): tem como alvo um elemento que é filho direto de outro
 elemento.
 Exemplo: div > p tem como alvo todos os elementos p que são filhos
 diretos de um
 elemento div.
 
-Item. 3. Combinador irmão adjacente (+): tem como alvo um elemento que é
+3. Combinador irmão adjacente (+): tem como alvo um elemento que é
 imediatamente
 adjacente a outro elemento e tem o mesmo pai. Exemplo: h1 + p tem como alvo o
 primeiro
 elemento p imediatamente após um elemento h1.
 
-Item. 4. Combinador irmão geral (~): tem como alvo um elemento que é irmão de outro
+4. Combinador irmão geral (~): tem como alvo um elemento que é irmão de outro
 elemento
 e tem o mesmo pai. Exemplo: h1 ~ p tem como alvo todos os elementos p que são
 irmãos
@@ -4714,11 +4512,9 @@ elemento <p>
 
 x-'"
 
-
 /' 257
 
 /
-
 
 Pseudo-classes
 
@@ -4779,11 +4575,9 @@ primeiro
 filho de seu pai
 x-"'" 89
 
-
 /' 257
 
 /
-
 
 :first-of-type
 
@@ -4885,11 +4679,9 @@ filho de seu pai
 Seleciona elementos <input> sem atributo
 "obrigatório"
 
-
 / 257
 
 /
-
 
 Seleciona elementos <input> com um valor
 fora de um intervalo especificado
@@ -4914,11 +4706,9 @@ valor válido
 
 Seleciona todos os links visitados
 
-
 / 257
 
 /
-
 
 Opacidade /Transparência
 
@@ -4947,7 +4737,6 @@ opacidade diferente.
 A propriedade opacity é útil para criar efeitos de transparência e para
 tornar elementos menos
 opacos, permitindo que o fundo da página seja visto através deles.
-
 
 Pseudo-elementos
 
@@ -5017,9 +4806,7 @@ texto. As seguintes propriedades se aplicam ao pseudoelemento ::first-letter:
 
 * text-decoration
 
-
 ,
-
 
 * vertical-align (only if "float" is "none")
 
@@ -5040,7 +4827,6 @@ completa
 dos pseudoelementos CSS, de acordo com o W3Schools:
 
 Seletores Exemplo Descrição do Exemplo
-
 
 ::after p::after
 
@@ -5081,11 +4867,9 @@ específicas de um elemento, enquanto as pseudoclasses permitem estilizar o elem
 um
 todo com base em seu estado.
 
-
 /' 257
 
 /
-
 
 Barra de Navegação
 
@@ -5153,7 +4937,6 @@ padding: 10px 20px;
 display: block;
 
 }
-
 
 www. estra tegiaconcursos. com. br
 nav a:hover {
@@ -5226,7 +5009,6 @@ margin-bottom: 20px;
 
 }
 
-
 www. estra tegiaconcursos. com. br
 aside a {
 color: #fff;
@@ -5290,11 +5072,9 @@ com boa aparência
 
 x'
 
-
 / 257
 
 /
-
 
 Menus suspensos em CSS
 
@@ -5360,7 +5140,6 @@ com classe
 
 *
 
-
 Galeria de imagens
 
 Uma galeria de imagens pode ser criada usando HTML e CSS. Uma galeria de imagens CSS
@@ -5372,7 +5151,6 @@ layout, tamanho
 das imagens, bordas, espaçamentos, entre outros aspectos visuais.
 
 *
-
 
 Sprites de imagem
 
@@ -5386,9 +5164,7 @@ otimizar o tempo de carregamento da página, pois o navegador precisa carregar
 apenas uma
 imagem.
 
-
 *
-
 
 Seletores de atributos CSS
 
@@ -5430,11 +5206,9 @@ CSS. Eles são úteis para aplicar estilos de forma precisa e personalizada em e
 específicos
 em uma página web.
 
-
 / 257
 
 /
-
 
 Formulários CSS
 
@@ -5479,11 +5253,9 @@ Você pode usar as técnicas acima ou combiná-las de várias maneiras para cria
 formulários únicos
 e atraentes que funcionem perfeitamente com o resto do seu site.
 
-
 / 257
 
 /
-
 
 RESUMo
 
@@ -5552,11 +5324,9 @@ um documento HTML usando uma tag <link> na seção head. Por exemplo,
 
 <head>
 
-
 /' 257
 
 /
-
 
 <link rel="stylesheet" type="text/css" href="styles.css">
 
@@ -5577,7 +5347,6 @@ valor é o valor
 para o qual você deseja definir a propriedade. Várias declarações podem ser adicionadas
 à mesma
 regra, separadas por ponto e vírgula:
-
 
 {COLOR:BLUE;
 
@@ -5617,11 +5386,9 @@ estilizar.
 
 Podemos dividir os seletores CSS em cinco categorias:
 
-
 / 257
 
 /
-
 
 * Seletores simples (selecionar elementos com base no nome, id, classe)
 
@@ -5639,7 +5406,6 @@ Todos os seletores simples de CSS
 Seletor Exemplo Descrição do exemplo
 
 Seleciona o elemento com
-
 
 #id
 
@@ -5676,11 +5442,9 @@ cada cor é especificada por um valor entre 0 e 255. Por exemplo, a cor
 vermelha pode ser
 especificada como rgb(255, 0, 0 ).
 
-
 /' 257
 
 /
-
 
 UM VALOR DE COR RGB REPRESENTA AS FONTES DE LUZ VERMELHA, VERDE E AZUL
 
@@ -5702,13 +5466,11 @@ Propriedade Descrição
 background-color Define a cor de fundo de um elemento. Você pode usar nomes de
 cores, valores rgb, hex, hsl para definir uma cor de fundo.
 
-
 background-image
 
 Define uma imagem como fundo de um elemento. A imagem é
 especificada por um valor de uri. Você também pode usar a palavra-
 chave nenhum para remover qualquer imagem de plano de fundo.
-
 
 background-repeat
 
@@ -5717,13 +5479,11 @@ o que significa que a imagem será repetida horizontal e verticalmente.
 Você também pode usar repeat-x, repeat-y, no-repeat para controlar
 a repetição da imagem.
 
-
 background-position
 
 Define a posição da imagem de fundo. Você pode usar valores como
 centro, superior, inferior, esquerda, direita ou valores de
 comprimento específicos, como 10px 20px.
-
 
 background-
 attachment
@@ -5731,11 +5491,9 @@ attachment
 Define se a imagem de fundo rola com o resto do conteúdo (scroll) ou
 é fixa no lugar (fixed).
 
-
 / 257
 
 /
-
 
 background-clip
 background-size
@@ -5761,7 +5519,6 @@ fundo
 de um elemento. A imagem é especificada por um valor de URL, que pode ser um
 caminho relativo
 ou absoluto. Por exemplo:
-
 
 body {
 
@@ -5796,11 +5553,9 @@ utilizando as propriedades border-top, border-right, border-bottom e border-left
 propriedade
 border-style especifica que tipo de borda exibir. Os seguintes valores são permitidos:
 
-
 / 257
 
 /
-
 
 Estilo de Borda CSS Descrição
 dotted Define uma borda pontilhada
@@ -5847,11 +5602,9 @@ preenchimento é a
 A propriedade principal para controlar o preenchimento é a padding. A sintaxe geral é:
 padding: top right bottom left;
 
-
 /' 257
 
 /
-
 
 Altura, largura e largura máxima do CSS
 
@@ -5907,9 +5660,7 @@ font-family Define a fonte para o texto.
 
 font-size Define o tamanho da fonte.
 
-
 www. estra tegiaconcursos. com. br
-
 
 Define o peso da fonte (normal, bold, etc.).
 Define a altura da linha.
@@ -5962,11 +5713,9 @@ Os ícones podem ser facilmente adicionados à sua página HTML, usando uma bibl
 * CSS pseudo-elementos: Utilizando pseudo-elementos como :before ou :after para criar
 ícones usando CSS.
 
-
 / 257
 
 /
-
 
 Links CSS
 
@@ -6022,7 +5771,6 @@ padrão para a maioria dos elementos é blockou inline.
 
 Elementos de nível de bloco
 
-
 Um elemento de nível de bloco sempre começa em uma nova linha e ocupa
 toda a largura
 disponível (estende-se para a esquerda e para a direita o máximo possível).
@@ -6070,11 +5818,9 @@ estática (se não houver, será posicionado em relação à janela do navegador
 * sticky: o elemento é posicionado de forma semelhante ao "relative" até que ele atinja uma
 certa posição na tela, a partir daí ele se comporta como "fixed".
 
-
 / 257
 
 /
-
 
 Os elementos são então posicionados usando as propriedades superior, inferior,
 esquerda e
@@ -6089,7 +5835,6 @@ Os elementos HTML são posicionados estáticos por padrão. Os elementos
 posicionados estáticos não são afetados pelas propriedades superior,
 inferior, esquerda e direita.
 
-
 position: relative;
 
 Um elemento com position: relative;é posicionado em relação à sua posição
@@ -6098,7 +5843,6 @@ elemento relativamente posicionado fará com que ele seja ajustado para
 longe de sua posição normal. Outros conteúdos não serão ajustados para
 caber em qualquer lacuna deixada pelo elemento.
 
-
 position: fixed;
 
 É posicionado em relação à viewport, o que significa que ele sempre
@@ -6106,7 +5850,6 @@ permanece no mesmo lugar, mesmo que a página seja rolada. As
 propriedades superior, direita, inferior e esquerda são usadas para
 posicionar o elemento. Um elemento fixo não deixa uma lacuna na página
 onde normalmente estaria localizado.
-
 
 position: absolute;
 
@@ -6139,11 +5882,9 @@ uma
 
 * visible: o conteúdo é exibido fora do elemento, sem cortar ou rolar.
 
-
 / 257
 
 /
-
 
 * hidden: o conteúdo é cortado, ou seja, o que ultrapassar as bordas do elemento
 não será
@@ -6191,9 +5932,7 @@ atributo que termina com um valor específico. Por exemplo: a[href$=".pdf"J sele
 todos
 os links que apontam para arquivos PDF.
 
-
 ,
-
 
 REFERÊNCIAS
 
@@ -6202,12 +5941,11 @@ www. estra tegiaconcursos. com. br
 
 /
 
-
 Questões CESPE
 
 QUESTõES CoMENTADAS
 
-Item. 1. (CESPE - SEPLAN RR- 2023) Com relação a programação e desenvolvimento de sistemas,
+1. (CESPE - SEPLAN RR- 2023) Com relação a programação e desenvolvimento de sistemas,
 julgue o item a seguir.
 
 CSS é um código separado da HTML que pode afetar a aparência das tags em uma única
@@ -6229,7 +5967,7 @@ manutenção e otimização do site.
 
 Gabarito: Correto
 
-Item. 2. (CESPE -TCE RJ- 2022) Quanto ao desenvolvimento de sistemas web, julgue o item seguinte.
+2. (CESPE -TCE RJ- 2022) Quanto ao desenvolvimento de sistemas web, julgue o item seguinte.
 
 A versão 3 do CSS trouxe para as bordas das páginas web as opções de definição de
 cor,
@@ -6252,11 +5990,9 @@ diferentes dispositivos, como dispositivos móveis.
 
 Gabarito: Errado
 
-Item. 3. (CESPE - DP DF - 2022) Julgue o item a seguir, acerca de CSS3, JMS, JSON e JUnit.
-
+3. (CESPE - DP DF - 2022) Julgue o item a seguir, acerca de CSS3, JMS, JSON e JUnit.
 
 ,
-
 
 Quando se utiliza CSS3, para que os flex items sejam apresentados na mesma ordem em
 que
@@ -6284,7 +6020,7 @@ flexível.
 
 Gabarito: Errado
 
-Item. 4. (CESPE - PETROBRAS - 2022)
+4. (CESPE - PETROBRAS - 2022)
 
 Julgue o próximo item que trata de CSS, JavaScript e Net Core.
 
@@ -6316,13 +6052,11 @@ hexadecimal, existem outras notações funcionais, como RGB e HSL.
 
 Gabarito: Errado
 
-
 /' 257
 
 /
 
-
-Item. 5. (CESPE - ALECE -2021) Web designers costumam usar CSS e HTML na construção de um
+5. (CESPE - ALECE -2021) Web designers costumam usar CSS e HTML na construção de um
 sítio
 eletrônico, já que, juntos, eles definirão como as páginas serão exibidas nos
 navegadores,
@@ -6383,15 +6117,13 @@ sequencia é RGB (red, green,blue) Assim, Vermelho ="#FF0000",Verde
 cores mais
 cobradas. Dessa forma, nosso gabarito é a alternativa c) background-color: #OOffOO.
 
-
 /' 257
 
 /
 
-
 Gabarito: Letra C
 
-Item. 6. (CESPE -TJ PA - 2020) Assinale a opção que indica a propriedade usada no CSS3 para definir
+6. (CESPE -TJ PA - 2020) Assinale a opção que indica a propriedade usada no CSS3 para definir
 o alinhamento de um elemento inline com relação ao seu elemento-pai.
 
 a) alignment-baseline
@@ -6412,7 +6144,7 @@ baseline' não tem efeito em suas linhas de base dominantes filhas.
 
 Gabarito: Letra A
 
-Item. 7. (CESPE - ME- 2020) Acerca de desenvolvimento de sistemas web, julgue o item a seguir.
+7. (CESPE - ME- 2020) Acerca de desenvolvimento de sistemas web, julgue o item a seguir.
 
 No CSS 3, o uso da propriedade box-shadow e da função linear-gradient possibilita a
 criação
@@ -6446,13 +6178,11 @@ variedade de dispositivos.
 
 Gabarito: Correto
 
-
 / 257
 
 /
 
-
-Item. 8. (CESPE - MPC TCE-PA - 2019) O uso de CSS permite a criação de padrões para a
+8. (CESPE - MPC TCE-PA - 2019) O uso de CSS permite a criação de padrões para a
 publicação
 de páginas na Internet, com possibilidade de redução da quantidade de informações em
 cada
@@ -6491,7 +6221,7 @@ unidade, permitindo a exibição de texto longo em áreas pequenas.
 
 Gabarito: Letra C
 
-Item. 9. (CESPE - TJ AM- 2019) Acerca do desenvolvimento web mediante o uso do
+9. (CESPE - TJ AM- 2019) Acerca do desenvolvimento web mediante o uso do
 HTML 5, do
 JavaScript, do XML e do CSS, julgue o item subsequente.
 
@@ -6518,9 +6248,7 @@ de fundo, a cor da fonte, a largura, a altura, a margem, o alinhamento, entre ou
 aspectos. Com
 o CSS 3, é possível ainda adicionar efeitos visuais como sombras, rotações, animações, entre
 
-
 ,
-
 
 outros. Além disso, ele permite que você aplique estilos a elementos específicos com
 base em sua
@@ -6550,15 +6278,13 @@ especificidade mais alta têm prioridade sobre as regras de estilo com a especif
 
 Gabarito: Correto
 
-
 /' 257
 
 /
 
-
 Questões FCC
 
-Item. 1. (FCC - TJ-CE - 2022) Para colocar a cor de fundo vermelha apenas dos campos
+1. (FCC - TJ-CE - 2022) Para colocar a cor de fundo vermelha apenas dos campos
 (inputs) do tipo
 text de um formulário, utiliza-se a instrução CSS
 
@@ -6585,7 +6311,7 @@ o input [type=text]
 
 Gabarito: Letra C
 
-Item. 2. (FCC-TRT - 4a REGIÃO (RS) -2022) Quando um Técnico criou uma página web usando
+2. (FCC-TRT - 4a REGIÃO (RS) -2022) Quando um Técnico criou uma página web usando
 HTML
 e CSS, um elemento ficou sobreposto ao outro na tela e ele deseja
 inverter a ordem de
@@ -6615,10 +6341,9 @@ na tela. Elementos com um valor de "z-index" mais alto são exibidos "acima" de
 elementos com
 um valor de "z-index" mais baixo.
 
-
 Gabarito: Letra A
 
-Item. 3. (FCC - PGE AM - 2022) Na utilização externa de CSS em páginas HTML, deve-se
+3. (FCC - PGE AM - 2022) Na utilização externa de CSS em páginas HTML, deve-se
 indicar um
 arquivo CSS que será usado na definição dos estilos dos elementos da página. Supondo
 que o
@@ -6649,7 +6374,7 @@ HTML mais limpo, pois você pode manter todo o código CSS em um único arquivo 
 
 Gabarito: Letra B
 
-Item. 4. (FCC - MANAUSPREV - 2021) No formulário de contato de uma página web
+4. (FCC - MANAUSPREV - 2021) No formulário de contato de uma página web
 do site do
 Governo de XX, um desenvolvedor de software precisa especificar que todos os campos do
 tipo texto (text) devem ser mostrados com fonte azul. Para estabelecer este estilo
@@ -6678,15 +6403,13 @@ mostrados com fonte azul... eis a questão... qual é o correto? Tanto
 correta: input
 [type=text]. Portanto, temos aí nosso gabarito!
 
-
 / 257
 
 /
 
-
 Gabarito: Letra A
 
-Item. 5. (FCC-TJ-SC - 2021) Considere o fragmento de código HTML5, abaixo:
+5. (FCC-TJ-SC - 2021) Considere o fragmento de código HTML5, abaixo:
 
 <body>
 
@@ -6731,7 +6454,7 @@ exemplo .flex-container { display: flex;}
 
 Gabarito: Letra C
 
-Item. 6. (FCC - AL-AP - 2020) Segundo os padrões de acessibilidade na web definidos para
+6. (FCC - AL-AP - 2020) Segundo os padrões de acessibilidade na web definidos para
 sites do
 Governo Eletrônico, códigos CSS devem estar sempre em arquivos externos a serem chamados
 pelas páginas do sítio/portal. Por exemplo, a instrução clink rel="stylesheet"
@@ -6740,9 +6463,7 @@ href="aleap.css"/> pode ser também escrita na forma:
 
 a) <style rel="link" type="text/css"> @include url("aleap.css"); </style>
 
-
 ,
-
 
 b) <link lang="css" type="stylesheet" href="aleap.css"/>
 
@@ -6770,7 +6491,7 @@ url("aleap.css");
 
 Gabarito: Letra C
 
-Item. 7. (FCC-AL-AP - 2020) E m um contêiner criado pela tag div há vários contêineres
+7. (FCC-AL-AP - 2020) E m um contêiner criado pela tag div há vários contêineres
 menores. Para
 que estes contêineres internos sejam posicionados um ao lado do outro horizontalmente,
 pode
@@ -6800,18 +6521,16 @@ outros elementos não fiquem sobrepostos aos elementos flutuantes.
 
 Gabarito: Letra B
 
-Item. 8. (FCC-TJ-MA-2019) A propriedade display na linguagem CSS3 especifica como um
+8. (FCC-TJ-MA-2019) A propriedade display na linguagem CSS3 especifica como um
 elemento
 será exibido no layout da página web. Comparado ao display:block, a principal diferença
 é que
 o display:inIine-block
 a) exibe parte do elemento da página na horizontal e parte na vertical.
 
-
 /' 257
 
 /
-
 
 b) não adiciona quebra de linha após o elemento, permitindo que este se ajuste ao
 lado de
@@ -6841,7 +6560,7 @@ usados em layouts com muito texto.
 
 Gabarito: Letra B
 
-Item. 9. (FCC-SANASA Campinas-2019) Um Desenvolvedor de software precisa inserir uma
+9. (FCC-SANASA Campinas-2019) Um Desenvolvedor de software precisa inserir uma
 instrução
 no cabeçalho de uma página HTML que fará referência a um arquivo chamado aOOI.css a
 ser
@@ -6874,11 +6593,9 @@ dependendo das características do dispositivo ou do tamanho da tela.
 
 Gabarito: Letra C
 
-
 / 257
 
 /
-
 
 1O.(FCC- Prefeitura de Manaus - AM - 2019) Para que, ao se posicionar o ponteiro do
 mouse
@@ -6949,11 +6666,9 @@ unidades de
 medida são úteis para ajudar a tornar o site mais responsivo, já que elas permitem
 que você
 
-
 /' 257
 
 /
-
 
 especifique medidas relativas ao tamanho da janela do navegador, em vez de medidas
 absolutas
@@ -6963,7 +6678,7 @@ sem a necessidade de ajustes adicionais.
 
 Gabarito: Letra C
 
-Item. 12. (FCC -SEFAZ-BA - 2019) Em uma página web criada com HTML5 e CSS3 há 3 contêineres com
+12. (FCC -SEFAZ-BA - 2019) Em uma página web criada com HTML5 e CSS3 há 3 contêineres com
 nome de classe caixa, criados com a tag div. Criou-se para estes
 contêineres a seguinte
 configuração CSS.
@@ -7017,11 +6732,9 @@ Gabarito: Letra E
 13.(FCC-AFAP -2019) No CSS3 podem ser usadas diversas unidades de medida para definir o
 tamanho pelo qual os elementos são renderizados na página web quando aberta na janela do
 
-
 /' 257
 
 /
-
 
 navegador. Algumas dessas unidades de medida são relativas e adequam o
 tamanho do
@@ -7085,11 +6798,9 @@ adjacente. Com
 ele, você pode selecionar um elemento que está imediatamente adjacente a
 outro elemento,
 
-
 /' 257
 
 /
-
 
 especificado antes do seletor adjacente. Nesse caso, o elemento <p> está
 sendo selecionado
@@ -7127,7 +6838,7 @@ media="speech">.
 
 Gabarito: Letra C
 
-Item. 16. (FCC -DPE-AM - 2018) A I argura do contêiner <div> definida no fragmento CSS3
+16. (FCC -DPE-AM - 2018) A I argura do contêiner <div> definida no fragmento CSS3
 abaixo é de
 360px, pois o padding adiciona 30px de margem interna à esquerda e 30px à direita.
 
@@ -7150,9 +6861,7 @@ c) width-dimension: fixed;
 
 d) box-sizing: border-box;
 
-
 ,
-
 
 e) padding-render: none;
 
@@ -7214,9 +6923,7 @@ font-size:300%;
 
 }
 
-
 www. estra tegiaconcursos. com. br
-
 
 </style>
 
@@ -7280,9 +6987,7 @@ text-align:center
 
 </head>
 
-
 ,
-
 
 <body>
 
@@ -7325,7 +7030,7 @@ ter seu comportamento afetado pela mudança na propriedade box-sizing.
 
 Gabarito: Letra E
 
-Item. 20. (FCC -SANASA - 2019) Em uma página web um Analista de TI criou um contêiner com outros
+20. (FCC -SANASA - 2019) Em uma página web um Analista de TI criou um contêiner com outros
 3 contêineres em seu interior, como mostra a imagem abaixo.
 
 Os códigos CSS e HTML são mostrados abaixo.
@@ -7341,11 +7046,9 @@ border:solid #c0c0c0; 1px
 .conteiner > div {
 background-color: #c0c0c0;
 
-
 /' 257
 
 /
-
 
 margin: 10px;
 padding: 20px;
@@ -7409,9 +7112,7 @@ d) <style content="with=auto, height=auto, scale=responsive"/>
 
 e) <meta name="responsive" content="width=device-width, max-scale=100%">
 
-
 ,
-
 
 Comentários:
 
@@ -7466,11 +7167,9 @@ e) @animation
 
 Comentários:
 
-
 /' 257
 
 /
-
 
 Para que a animação chamada metro mude a cor de fundo do contêiner de vermelho para
 azul, a
@@ -7543,11 +7242,9 @@ e) será aplicada somente aos elementos cujo atributo title contenha uma string
 iniciada pela
 palavra carro.
 
-
 /' 257
 
 /
-
 
 Comentários:
 
@@ -7561,15 +7258,13 @@ selecionados e a borda será aplicada a eles.
 
 Gabarito: Letra C
 
-
 / 257
 
 /
 
-
 Questões FCV
 
-Item. 1. (FGV- TRT -13a Região (PB) - 2022) Numa codificação CSS, a propriedade z-index refere-se
+1. (FGV- TRT -13a Região (PB) - 2022) Numa codificação CSS, a propriedade z-index refere-se
 a) à ordem de um elemento numa pilha.
 
 b) à ordenação crescente de uma lista de elementos.
@@ -7598,7 +7293,7 @@ estejam abaixo da linha de base do documento.
 
 Gabarito: Letra A
 
-Item. 2. (FGV -SEFAZ-AM- 2022) Maria escolheu utilizar uma folha de estilo em cascata
+2. (FGV -SEFAZ-AM- 2022) Maria escolheu utilizar uma folha de estilo em cascata
 (CSS3) para
 controlar a aparência das páginas do seu site de Internet.
 
@@ -7623,11 +7318,9 @@ elementos <ul>. ul > li { /* estilo a ser aplicado */ }. Por fim, vejamos as
 demais alternativas, a) O
 seletor "ul.li" casa elementos com a classe "li" que são descendentes de um elemento de lista não
 
-
 / 257
 
 /
-
 
 ordenada (ul). c) O seletor "ul + li" corresponde ao primeiro elemento da lista de
 irmãos (li) que
@@ -7645,7 +7338,7 @@ Gabarito: Letra B
 
 Gabarito: TEXTOTEXTOTEXTO
 
-Item. 3. (FGV- MPE-SC-2022) Considere o conteúdo de uma página web simplificada, exibido a
+3. (FGV- MPE-SC-2022) Considere o conteúdo de uma página web simplificada, exibido a
 seguir.
 
 <!DOCTYPE html>
@@ -7677,7 +7370,7 @@ página.
 
 Gabarito: Letra C
 
-Item. 4. (FGV-TRT - 16a REGIÃO (MA) - 2022) No contexto do HTML e CSS, analise o código
+4. (FGV-TRT - 16a REGIÃO (MA) - 2022) No contexto do HTML e CSS, analise o código
 a seguir
 numa página Web.
 
@@ -7688,9 +7381,7 @@ color: blue;
 
 }
 
-
 ,
-
 
 Sobre esse trecho, é correto afirmar que a cor e o alinhamento serão aplicados
 a) à classe denominada "p.centro".
@@ -7717,7 +7408,7 @@ elementos com class="destaque".
 
 Gabarito: Letra C
 
-Item. 5. (FGV-MPE-GO - 2022) No contexto do CSS, assinale o seletor (selector) que
+5. (FGV-MPE-GO - 2022) No contexto do CSS, assinale o seletor (selector) que
 seleciona para
 aplicação os elementos com o atributo class=xpto.
 
@@ -7741,15 +7432,13 @@ classe". ".xpto" seleciona para aplicação os elementos com o atributo class=xp
 
 Gabarito: Letra D
 
-Item. 6. (FGV- PC-AM -2022) No contexto da linguagem de estilo CSS, considere
+6. (FGV- PC-AM -2022) No contexto da linguagem de estilo CSS, considere
 os seletores
 utilizados no trecho a seguir.
-
 
 / 257
 
 /
-
 
 * { font-family: Tahoma, Verdanaj sans-serifj
 
@@ -7792,7 +7481,7 @@ o estilo aplicado.
 
 Gabarito: Letra E
 
-Item. 7. (FGV -SEMSA Manaus - 2022) Dentre os formatos de seletores que podem ser definidos
+7. (FGV -SEMSA Manaus - 2022) Dentre os formatos de seletores que podem ser definidos
 no
 CSS3, a expressão
 
@@ -7817,9 +7506,7 @@ elementos HTML
 com base em valores específicos de seus atributos. "E" representa o nome do
 elemento que
 
-
 ,
-
 
 desejamos selecionar. Já, "xxx" representa o nome do atributo que desejamos selecionar.
 Por fim,
@@ -7837,7 +7524,7 @@ parciais ou que começam ou terminam com um determinado valor.
 
 Gabarito: Letra C
 
-Item. 8. (FGV -Banestes - 2021) No contexto do uso de CSS para aplicar estilos a
+8. (FGV -Banestes - 2021) No contexto do uso de CSS para aplicar estilos a
 elementos HTML
 numa página web, o seletor universal, que referencia todos os elementos, é identificado
 pelo
@@ -7875,7 +7562,7 @@ página.
 
 Gabarito: Letra D
 
-Item. 9. (FGV-IMBEL-2021) No contexto do CSS numa página Web, assinale o script que
+9. (FGV-IMBEL-2021) No contexto do CSS numa página Web, assinale o script que
 estabelece
 que todos os elementos com id="p" serão exibidos de acordo com os atributos especificados.
 
@@ -7889,11 +7576,9 @@ d) <p> { font-size: 20px; color: blue}
 
 e) :p { font-size: 20px; color: blue}
 
-
 /' 257
 
 /
-
 
 Comentários:
 
@@ -7924,20 +7609,20 @@ Na lista dos seletores CSS apresentados, a natureza do objeto correspondente ao 
 "xxxx"
 em cada linha, respectivamente, é:
 
-Item. 1. h1 - Este é um seletor de tag HTML. O elemento h1 representa um título de nível 1.
+1. h1 - Este é um seletor de tag HTML. O elemento h1 representa um título de nível 1.
 
-Item. 2. .xxxx - Este é um seletor de classe. As classes são atribuídas
+2. .xxxx - Este é um seletor de classe. As classes são atribuídas
 a elementos HTML
 específicos e permitem que você aplique estilos de forma personalizada a esses
 elementos.
 
-Item. 3. #d345 - Este é um seletor de ID. Os IDs são atribuídos a um elemento
+3. #d345 - Este é um seletor de ID. Os IDs são atribuídos a um elemento
 HTML específico
 e são usados para aplicar estilos exclusivos a esse elemento.
 
-Item. 4. #xxxx - Este é também um seletor de ID.
+4. #xxxx - Este é também um seletor de ID.
 
-Item. 5. xxxx:hover - Este é um seletor de pseudo-classe. As pseudo-classes são
+5. xxxx:hover - Este é um seletor de pseudo-classe. As pseudo-classes são
 usadas para
 aplicar estilos em resposta a um determinado estado ou interação do usuário, como o
 mouse pairando sobre um elemento (:hover).
@@ -7948,9 +7633,7 @@ Gabarito: Letra C
 define
 corretamente a formatação para todos os elementos h1 de um documento.
 
-
 ,
-
 
 a) .h1 { color: white; text-align: center;}
 
@@ -8012,11 +7695,9 @@ Gabarito: Letra B
 Pt
 color: red;
 
-
 / 257
 
 /
-
 
 text-align: center;
 
@@ -8075,9 +7756,7 @@ uma só vez.
 
 Gabarito: Letra E
 
-
 www. estra tegiaconcursos. com. br
-
 
 15.(FGV-IMBEL-2021) No contexto do CSS numa página Web, assinale o script que estabelece
 que todos os elementos <p> serão exibidos de acordo com a definição dos estilos.
@@ -8128,35 +7807,33 @@ utilizado.
 
 Gabarito: Letra C
 
-
 / 257
 
 /
-
 
 Questões CESPE
 
 LISTA DE QUESTõES
 
-Item. 1. (CESPE - SEPLAN RR- 2023) Com relação a programação e desenvolvimento de sistemas,
+1. (CESPE - SEPLAN RR- 2023) Com relação a programação e desenvolvimento de sistemas,
 julgue o item a seguir.
 
 CSS é um código separado da HTML que pode afetar a aparência das tags em uma única
 página ou em todo um site da Web.
 
-Item. 2. (CESPE -TCE RJ- 2022) Quanto ao desenvolvimento de sistemas web, julgue o item seguinte.
+2. (CESPE -TCE RJ- 2022) Quanto ao desenvolvimento de sistemas web, julgue o item seguinte.
 
 A versão 3 do CSS trouxe para as bordas das páginas web as opções de definição de
 cor,
 arredondamento de cantos e multiplicidade de linhas.
 
-Item. 3. (CESPE - DP DF - 2022) Julgue o item a seguir, acerca de CSS3, JMS, JSON e JUnit.
+3. (CESPE - DP DF - 2022) Julgue o item a seguir, acerca de CSS3, JMS, JSON e JUnit.
 
 Quando se utiliza CSS3, para que os flex items sejam apresentados na mesma ordem em
 que
 aparecem no HTML, é necessário atribuir o valor 1 à propriedade order.
 
-Item. 4. (CESPE - PETROBRAS - 2022)
+4. (CESPE - PETROBRAS - 2022)
 
 Julgue o próximo item que trata de CSS, JavaScript e Net Core.
 
@@ -8172,7 +7849,7 @@ background-color: #f00;
 
 }
 
-Item. 5. (CESPE -ALECE -2021) Web designers costumam usar CSS e HTML na construção de um
+5. (CESPE -ALECE -2021) Web designers costumam usar CSS e HTML na construção de um
 sítio
 eletrônico, já que, juntos, eles definirão como as páginas serão exibidas nos
 navegadores,
@@ -8182,11 +7859,9 @@ conforme exemplificado no código a seguir.
 
 <head>
 
-
 /' 257
 
 /
-
 
 <style type="text/css">
 
@@ -8226,7 +7901,7 @@ d) background-color: transparente.
 
 e) background-color: rgb(250,0,255).
 
-Item. 6. (CESPE -TJ PA - 2020) Assinale a opção que indica a propriedade usada no CSS3 para definir
+6. (CESPE -TJ PA - 2020) Assinale a opção que indica a propriedade usada no CSS3 para definir
 o alinhamento de um elemento inline com relação ao seu elemento-pai.
 
 a) alignment-baseline
@@ -8235,13 +7910,11 @@ c) background-image
 d) background-position
 e) line-boxes
 
-Item. 7. (CESPE - ME- 2020) Acerca de desenvolvimento de sistemas web, julgue o item a seguir.
-
+7. (CESPE - ME- 2020) Acerca de desenvolvimento de sistemas web, julgue o item a seguir.
 
 / 257
 
 /
-
 
 No CSS 3, o uso da propriedade box-shadow e da função linear-gradient possibilita a
 criação
@@ -8249,7 +7922,7 @@ de formas, cores e efeitos das páginas diretamente no código, de modo que
 os resultados
 aparecem diretamente nos navegadores.
 
-Item. 8. (CESPE - MPC TCE-PA - 2019) O uso de CSS permite a criação de padrões para a
+8. (CESPE - MPC TCE-PA - 2019) O uso de CSS permite a criação de padrões para a
 publicação
 de páginas na Internet, com possibilidade de redução da quantidade de informações em
 cada
@@ -8266,7 +7939,7 @@ d) table-layout.
 
 e) text-combine-upright.
 
-Item. 9. (CESPE - TJ AM- 2019) Acerca do desenvolvimento web mediante o uso do HTML 5,
+9. (CESPE - TJ AM- 2019) Acerca do desenvolvimento web mediante o uso do HTML 5,
 do
 JavaScript, do XML e do CSS, julgue o item subsequente.
 
@@ -8285,15 +7958,13 @@ De acordo com o conceito de herança em CSS, as propriedades de página com
 especificidade
 mais alta têm prioridade sobre as propriedades com especificidade mais baixa.
 
-
 /' 257
 
 /
 
-
 Questões FCC
 
-Item. 1. (FCC-TJ-CE -2022) Para colocar a cor de fundo vermelha apenas dos campos (inputs)
+1. (FCC-TJ-CE -2022) Para colocar a cor de fundo vermelha apenas dos campos (inputs)
 do tipo
 text de um formulário, utiliza-se a instrução CSS
 
@@ -8307,7 +7978,7 @@ d) input.typeltext] {background: rgb(0,255,0)}}
 
 e) input [typeftext')] {background-color:rgb(255,0,0)}
 
-Item. 2. (FCC-TRT-4a REGIÃO (RS)-2022) Quando um Técnico criou uma página web usando HTML
+2. (FCC-TRT-4a REGIÃO (RS)-2022) Quando um Técnico criou uma página web usando HTML
 e CSS, um elemento ficou sobreposto ao outro na tela e ele deseja
 inverter a ordem de
 sobreposição desses elementos. Para definir ou mudar a ordem de
@@ -8320,7 +7991,7 @@ c) position
 d) flex-position
 e) x-order
 
-Item. 3. (FCC - PGE AM - 2022) Na utilização externa de CSS em páginas HTML, deve-se
+3. (FCC - PGE AM - 2022) Na utilização externa de CSS em páginas HTML, deve-se
 indicar um
 arquivo CSS que será usado na definição dos estilos dos elementos da página. Supondo
 que o
@@ -8335,7 +8006,7 @@ d) <link type="stylesheet" src="estilos.css">
 
 e) <@require file="estilos.css" type="style/css">
 
-Item. 4. (FCC - MANAUSPREV - 2021) No formulário de contato de uma página
+4. (FCC - MANAUSPREV - 2021) No formulário de contato de uma página
 web do site do
 Governo de XX, um desenvolvedor de software precisa especificar que todos os campos do
 tipo texto (text) devem ser mostrados com fonte azul. Para estabelecer este estilo
@@ -8347,17 +8018,15 @@ b) input type='text' {colonblue}
 
 c) input.text {color:blue}
 
-
 / 257
 
 /
-
 
 d) inputltext {color:#0000ff}
 
 e) input#text {color:#blue}
 
-Item. 5. (FCC-TJ-SC - 2021) Considere o fragmento de código HTML5, abaixo:
+5. (FCC-TJ-SC - 2021) Considere o fragmento de código HTML5, abaixo:
 
 <body>
 
@@ -8390,7 +8059,7 @@ c) displayrflex
 d) positiomrelative
 e) display:block
 
-Item. 6. (FCC - AL-AP - 2020) Segundo os padrões de acessibilidade na web definidos para
+6. (FCC - AL-AP - 2020) Segundo os padrões de acessibilidade na web definidos para
 sites do
 Governo Eletrônico, códigos CSS devem estar sempre em arquivos externos a serem chamados
 pelas páginas do sítio/portal. Por exemplo, a instrução clink rel="stylesheet"
@@ -8407,12 +8076,11 @@ d) <link rel="externai" type="text/css" src="aleap.css"/>
 
 e) <style rel="stylesheet" type="text/css" url("aleap.css")/>
 
-Item. 7. (FCC-AL-AP-2020) Em um contêiner criado pela tag div há vários contêineres
+7. (FCC-AL-AP-2020) Em um contêiner criado pela tag div há vários contêineres
 menores. Para
 que estes contêineres internos sejam posicionados um ao lado do outro horizontalmente,
 pode
 ser utilizada, em todos eles, a instrução CSS:
-
 
 www. estra tegiaconcursos. com. br
 a) align:inline
@@ -8421,7 +8089,7 @@ c) display:left
 d) position:inline
 e) aling:inline-block
 
-Item. 8. (FCC -TJ-MA- 2019) A propriedade display na linguagem CSS3 especifica como um
+8. (FCC -TJ-MA- 2019) A propriedade display na linguagem CSS3 especifica como um
 elemento
 será exibido no layout da página web. Comparado ao display:block, a principal diferença
 é que
@@ -8440,7 +8108,7 @@ e) adiciona quebra de linha após o elemento, não permitindo que este se ajuste
 lado de
 outros elementos.
 
-Item. 9. (FCC-SANASA Campinas-2019) Um Desenvolvedor de software precisa inserir uma
+9. (FCC-SANASA Campinas-2019) Um Desenvolvedor de software precisa inserir uma
 instrução
 no cabeçalho de uma página HTMLque fará referência a um arquivo chamado aOOI.css a ser
 aplicado apenas quando a página for aberta em dispositivos com tela de até 600
@@ -8456,7 +8124,7 @@ d) <inport file="a001 .css" media="screen and (max-width: 600px)">
 
 e) <style>@media only screen and (min-width: óOOpx) URL(a001 .css) <style>
 
-Item. 10. (FCC- Prefeitura de Manaus - AM - 2019) Para que, ao se posicionar o ponteiro
+10. (FCC- Prefeitura de Manaus - AM - 2019) Para que, ao se posicionar o ponteiro
 do mouse
 sobre cada um dos links da página, a cor da letra do link mude para vermelha,
 deve-se utilizar
@@ -8472,11 +8140,9 @@ d) a:over {color: #00FF00}.
 
 e) a:hover {color: #FF0000}
 
-
 ,
 
-
-Item. 11. (FCC -TRF - 4a REGIÃO - 2019) As unidades de medida usadas em CSS para
+11. (FCC -TRF - 4a REGIÃO - 2019) As unidades de medida usadas em CSS para
 ajudar na
 responsividade dos sites, que especificam medidas relativas a 1% da largura e 1% da
 altura da
@@ -8492,7 +8158,7 @@ d) em e ex.
 
 e) em e p
 
-Item. 12. (FCC -SEFAZ-BA - 2019) Em uma página web criada com HTML5 e CSS3 há 3
+12. (FCC -SEFAZ-BA - 2019) Em uma página web criada com HTML5 e CSS3 há 3
 contêineres
 com nome de classe caixa, criados com a tag div. Criou-se para estes contêineres a
 seguinte
@@ -8520,7 +8186,7 @@ d) align: side-by-side;
 
 e) float: left;
 
-Item. 13. (FCC- AFAP - 2019) No CSS3 podem ser usadas diversas unidades de medida para
+13. (FCC- AFAP - 2019) No CSS3 podem ser usadas diversas unidades de medida para
 definir o
 tamanho pelo qual os elementos são renderizados na página web quando aberta na janela
 do
@@ -8537,9 +8203,7 @@ II . Relative to 1 % of the height of the viewport (the browser window size).
 I e II referem-se, respectivamente, às unidades de medida
 a) pw e ph.
 
-
 ,
-
 
 b) ex e ey.
 
@@ -8549,7 +8213,7 @@ d) pc e pt.
 
 e) vw e vh.
 
-Item. 14. (FCC- DPE-AM- 2018) A instrução CSS3 div + p {background-color: blue;} aplica a cor de fundo
+14. (FCC- DPE-AM- 2018) A instrução CSS3 div + p {background-color: blue;} aplica a cor de fundo
 azul ao elemento <p> colocado
 a) imediatamente após o elemento <div>.
 
@@ -8561,7 +8225,7 @@ d) imediatamente antes do elemento <div>.
 
 e)como filho do elemento <div>.
 
-Item. 15. (FCC-DPE-AM - 2018) Um Técnico Programador usou a referência abaixo para um arquivo
+15. (FCC-DPE-AM - 2018) Um Técnico Programador usou a referência abaixo para um arquivo
 CSS em uma página web construída com HTML.
 
 clink type="text/css" href="som.css">
@@ -8579,7 +8243,7 @@ d) media="aural-synthesizer"
 
 e) accessible="true"
 
-Item. 16. (FCC -DPE-AM - 2018) A I argura do contêiner <div> definida no fragmento CSS3 abaixo é de
+16. (FCC -DPE-AM - 2018) A I argura do contêiner <div> definida no fragmento CSS3 abaixo é de
 360px, pois o padding adiciona 30px de margem interna à esquerda e 30px à direita.
 
 div {
@@ -8595,7 +8259,6 @@ contêiner
 <div>z deve-se incluir no fragmento de código a instrução
 a) weight-width: fixed;
 
-
 www. estra tegiaconcursos. com. br
 b) max-width:300px;
 
@@ -8605,7 +8268,7 @@ d) box-sizing: border-box;
 
 e) padding-render: none;
 
-Item. 17. (FCC-DPE-AM-2018) A instrução CSS3 margin: 25px 50px 75px; significa que a margem
+17. (FCC-DPE-AM-2018) A instrução CSS3 margin: 25px 50px 75px; significa que a margem
 a) inferior tem Opx.
 
 b) direita e a esquerda têm 50px.
@@ -8616,7 +8279,7 @@ d) direita tem 75px.
 
 e) esquerda tem 25px.
 
-Item. 18. (FCC-TJ MA-2019) Considere a página web abaixo.
+18. (FCC-TJ MA-2019) Considere a página web abaixo.
 
 <!DOCTYPE html>
 
@@ -8657,8 +8320,7 @@ d) h1#tit::first-letter
 e) h1 ,tit::captive-letter
 www. estra tegiaconcursos. com. br
 
-
-Item. 19. (FCC - ATTIFM Pref Manaus - 2019) Um programador desenvolveu a página web abaixo.
+19. (FCC - ATTIFM Pref Manaus - 2019) Um programador desenvolveu a página web abaixo.
 
 <!DOCTYPE html>
 
@@ -8705,7 +8367,7 @@ d) serão colocados um dentro do outro.
 
 e) serão posicionados um abaixo do outro.
 
-Item. 20. (FCC -SANASA - 2019) Em uma página web um Analista de TI criou um contêiner com outros
+20. (FCC -SANASA - 2019) Em uma página web um Analista de TI criou um contêiner com outros
 3 contêineres em seu interior, como mostra a imagem abaixo.
 
 Água ÔütTDS
@@ -8714,11 +8376,9 @@ Os códigos CSS e HTML são mostrados abaixo,
 
 .conteiner {
 
-
 / 257
 
 /
-
 
 border:solid #c0c0c0; 1 px
 
@@ -8756,7 +8416,7 @@ d) align:side-by-side;
 
 e) positiomflexible;
 
-Item. 21. (FCC -Pref Manaus - 2019) Quando se está desenvolvendo um site
+21. (FCC -Pref Manaus - 2019) Quando se está desenvolvendo um site
 responsivo utilizando
 HTML5, em todas as páginas do site é aconselhado utilizar uma tag que fornecerá
 instruções
@@ -8771,7 +8431,7 @@ d) <style content="with=auto, height=auto, scale=responsive"/>
 
 e) <meta name="responsive" content="width=device-width, max-scale=100%">
 
-Item. 22. (FCC - M ETRO SP - 2019) Em uma página web há um contêiner chamado trem, que
+22. (FCC - M ETRO SP - 2019) Em uma página web há um contêiner chamado trem, que
 possui a
 seguinte configuração CSS.
 
@@ -8781,9 +8441,7 @@ height: 200px;
 
 background-color: red;
 
-
 ,
-
 
 animation-name: metro;
 animation-duration: 4s;
@@ -8841,11 +8499,9 @@ a) não será aplicada, pois não é possível aplicar uma configuração CSS us
 title
 s.
 
-
 / 257
 
 /
-
 
 b) será aplicada a apenas à imagem carro3.gif, que possuir o atributo title="carro".
 
@@ -8859,10 +8515,9 @@ e) será aplicada somente aos elementos cujo atributo title contenha uma string
 iniciada pela
 palavra carro.
 
-
 Questões FCV
 
-Item. 1. (FGV- TRT -13a Região (PB) - 2022) Numa codificação CSS, a propriedade z-index refere-se
+1. (FGV- TRT -13a Região (PB) - 2022) Numa codificação CSS, a propriedade z-index refere-se
 a) à ordem de um elemento numa pilha.
 
 b) à ordenação crescente de uma lista de elementos.
@@ -8873,7 +8528,7 @@ d) ao valor zero em medidas de altura.
 
 e) ao valor zero em medidas de largura.
 
-Item. 2. (FGV -SEFAZ-AM- 2022) Maria escolheu utilizar uma folha de estilo em cascata (CSS3) para
+2. (FGV -SEFAZ-AM- 2022) Maria escolheu utilizar uma folha de estilo em cascata (CSS3) para
 controlar a aparência das páginas do seu site de Internet.
 
 A sintaxe do seletor CSS que Maria deve usar para aplicar um determinado estilo
@@ -8885,7 +8540,7 @@ c) ul + li
 d) ul ~ li
 e) ul , li
 
-Item. 3. (FGV- MPE-SC -2022) Considere o conteúdo de uma página web simplificada, exibido a
+3. (FGV- MPE-SC -2022) Considere o conteúdo de uma página web simplificada, exibido a
 seguir.
 
 <!DOCTYPE html>
@@ -8903,14 +8558,12 @@ c) link
 d) ref
 e) uri
 
-Item. 4. (FGV-TRT - 16a REGIÃO (MA) - 2022) No contexto do HTML e CSS, analise o código a seguir
+4. (FGV-TRT - 16a REGIÃO (MA) - 2022) No contexto do HTML e CSS, analise o código a seguir
 numa página Web.
-
 
 / 257
 
 /
-
 
 p.centro {
 
@@ -8930,7 +8583,7 @@ d) aos elementos com id = "p" que tenham a classe "centro".
 
 e) aos elementos que tenham a classe "p.centro".
 
-Item. 5. (FGV-MPE-GO - 2022) No contexto do CSS, assinale o seletor (selector) que seleciona para
+5. (FGV-MPE-GO - 2022) No contexto do CSS, assinale o seletor (selector) que seleciona para
 aplicação os elementos com o atributo class=xpto.
 
 a) #xpto { ...}
@@ -8943,7 +8596,7 @@ d) .xpto { ...}
 
 e) xpto { ...}
 
-Item. 6. (FGV- PC-AM -2022) No contexto da linguagem de estilo CSS, considere os seletores
+6. (FGV- PC-AM -2022) No contexto da linguagem de estilo CSS, considere os seletores
 utilizados no trecho a seguir.
 
 * { font-family: Tahoma, Verdanaj sans-serif;
@@ -8973,8 +8626,7 @@ d) Todos os elementos da página; elementos da classe h1; elementos com id="#xpt
 
 e) Todos os elementos da página; elementos <h1 >; elementos com id= "xpto".
 
-
-Item. 7. (FGV -SEMSA Manaus - 2022) Dentre os formatos de seletores que podem ser
+7. (FGV -SEMSA Manaus - 2022) Dentre os formatos de seletores que podem ser
 definidos no
 CSS3, a expressão
 
@@ -8992,7 +8644,7 @@ d) cujo valor do atributo "xxx" inicia com a string "yyy".
 
 e) cujo valor do atributo "xxx" termina com a string "yyy".
 
-Item. 8. (FGV -Banestes - 2021) No contexto do uso de CSS para aplicar estilos a
+8. (FGV -Banestes - 2021) No contexto do uso de CSS para aplicar estilos a
 elementos HTML
 numa página web, o seletor universal, que referencia todos os elementos, é identificado
 pelo
@@ -9008,7 +8660,7 @@ d) *
 
 e) @
 
-Item. 9. (FGV -IMBEL-2021) No contexto do CSS numa página Web, assinale o script que
+9. (FGV -IMBEL-2021) No contexto do CSS numa página Web, assinale o script que
 estabelece
 que todos os elementos com id="p" serão exibidos de acordo com os atributos especificados.
 
@@ -9022,7 +8674,7 @@ d) <p> { font-size: 20px; color: blue}
 
 e) :p { font-size: 20px; color: blue}
 
-Item. 10. (FGV-TJ-RO - 2021) No contexto do CSS, considere os seguintes seletores.
+10. (FGV-TJ-RO - 2021) No contexto do CSS, considere os seguintes seletores.
 h1, xxxx .xxxx, #d345 #xxxx xxxx:hover
 
 A lista que indica corretamente a natureza do objeto correspondente ao
@@ -9032,17 +8684,15 @@ cada linha, respectivamente, é:
 a) classe xxxx / tag / classe xxxx / classe xxxx
 b) classe xxxx / classe xxxx / classe xxxx / tag
 
-
 /' 257
 
 /
-
 
 c) tag / classe xxxx / id "xxxx" / tag
 d) tag / classe xxxx / id "xxxx" / classe xxxx
 e) tag / tag / classe xxxx / id "xxxx"
 
-Item. 11. (FGV- FUNSAÚDE - CE - 2021) No contexto do CSS3, assinale o script que define
+11. (FGV- FUNSAÚDE - CE - 2021) No contexto do CSS3, assinale o script que define
 corretamente a formatação para todos os elementos h1 de um documento.
 
 a) .h1 { color: white; text-align: center;}
@@ -9054,7 +8704,7 @@ d) h1 { background-color: yellow; font-family: verdana;}
 
 e) $h 1 {text-align= center; background-color= yellow }
 
-Item. 12. (FGV - FunSaúde CE- 2021) No contexto da formatação de páginas Web, assinale o papel da
+12. (FGV - FunSaúde CE- 2021) No contexto da formatação de páginas Web, assinale o papel da
 propriedade padding no CSS em relação a um box.
 
 a) Definir a altura e a largura.
@@ -9067,7 +8717,7 @@ d) Definir a espessura e o estilo da borda.
 
 e) Definir a unidade utilizada para estabelecer as dimensões.
 
-Item. 13. (FGV-IMBEL- 2021) Analise o trecho de código CSS3 a seguir.
+13. (FGV-IMBEL- 2021) Analise o trecho de código CSS3 a seguir.
 
 Pt
 color: red;
@@ -9088,14 +8738,12 @@ d) Estilizar todos os elementos com id=p.
 
 e) Um erro, pois falta definir o seletor da regra.
 
-Item. 14. (FGV -IMBEL - 2021) Com relação às regras escritas em CSS3, o papel da propriedade
+14. (FGV -IMBEL - 2021) Com relação às regras escritas em CSS3, o papel da propriedade
 padding em um box é definir
-
 
 / 257
 
 /
-
 
 a) o padrão de preenchimento.
 
@@ -9107,7 +8755,7 @@ d) a espessura da área que separa os parágrafos.
 
 e) a espessura da área que separa a borda do conteúdo.
 
-Item. 15. (FGV -IMBEL- 2021) No contexto do CSS numa página Web, assinale o script que estabelece
+15. (FGV -IMBEL- 2021) No contexto do CSS numa página Web, assinale o script que estabelece
 que todos os elementos <p> serão exibidos de acordo com a definição dos estilos.
 
 a) p { font-size: 20px; color: blue}
@@ -9120,7 +8768,7 @@ d) <p> { font-size: 20px; color: blue}
 
 e) :p { font-size: 20px; color: blue}
 
-Item. 16. (FGV -IMBEL - 2021) No contexto do CSS numa página Web, assinale o script que estabelece
+16. (FGV -IMBEL - 2021) No contexto do CSS numa página Web, assinale o script que estabelece
 que todos os elementos com id="p" serão exibidos de acordo com os atributos especificados.
 
 a) p { font-size: 20px; color: blue}
@@ -9133,68 +8781,64 @@ d) <p> { font-size: 20px; color: blue}
 
 e) :p { font-size: 20px; color: blue}
 
-
 ,
-
 
 GABARITo
 
 CESPE 6. LETRA C FCV
 
-Item. 1. CORRETO 7. LETRA B
-Item. 1. LETRA A
+1. CORRETO 7. LETRA B
+1. LETRA A
 
-Item. 2. ERRADO 8. LETRA B
-Item. 2. LETRA B
+2. ERRADO 8. LETRA B
+2. LETRA B
 
-Item. 3. ERRADO 9. LETRA C
-Item. 3. LETRA C
+3. ERRADO 9. LETRA C
+3. LETRA C
 
-Item. 4. ERRADO 10. LETRA E
-Item. 4. LETRA C
+4. ERRADO 10. LETRA E
+4. LETRA C
 
-Item. 5. LETRA C 11. LETRA C
-Item. 5. LETRA D
+5. LETRA C 11. LETRA C
+5. LETRA D
 
-Item. 6. LETRA A 12. LETRA E
-Item. 6. LETRA E
+6. LETRA A 12. LETRA E
+6. LETRA E
 
-Item. 7. CORRETO 13. LETRA E
-Item. 7. LETRA C
+7. CORRETO 13. LETRA E
+7. LETRA C
 
-Item. 8. LETRA C 14. LETRA A
-Item. 8. LETRA D
+8. LETRA C 14. LETRA A
+8. LETRA D
 
-Item. 9. CORRETO 15. LETRA C
-Item. 9. LETRA C
+9. CORRETO 15. LETRA C
+9. LETRA C
 
-Item. 10. CORRETO 16. LETRA D
-Item. 10. LETRA C
+10. CORRETO 16. LETRA D
+10. LETRA C
 
-Item. 17. LETRA B 11. LETRA D
+17. LETRA B 11. LETRA D
 
 FCC 18. LETRA B 12.
 LETRA B
 
-Item. 1. LETRA C 19. LETRA E
-Item. 13. LETRA A
+1. LETRA C 19. LETRA E
+13. LETRA A
 
-Item. 2. LETRA A 20. LETRA B
-Item. 14. LETRA E
+2. LETRA A 20. LETRA B
+14. LETRA E
 
-Item. 3. LETRA B 21. LETRA B
-Item. 15. LETRA A
+3. LETRA B 21. LETRA B
+15. LETRA A
 
-Item. 4. LETRA A 22. LETRA C
-Item. 16. LETRA C
+4. LETRA A 22. LETRA C
+16. LETRA C
 
-Item. 5. LETRA C 23. LETRA C
-
+5. LETRA C 23. LETRA C
 
 www. estra tegiaconcursos. com. br
 
 /
-
 
 Conceitos Básicos
 atualmente.
@@ -9248,11 +8892,9 @@ de estilo mais poderoso, organizado e eficiente, tornando o processo de desenvol
 de sites
 e aplicativos web mais fácil e eficiente.
 
-
 /' 257
 
 /
-
 
 Uau! Incrível, não é? mas vamos voltar o foco para o Bootstrap? Bora ©! O Bootstrap
 é altamente
@@ -9328,11 +8970,9 @@ próprio estilo a partir dos componentes pré-construídos.
 
 Certo, e depois Paolla, o que devo fazer?
 
-
 /' 257
 
 /
-
 
 Layout
 
@@ -9370,7 +9010,6 @@ usando arquivos Sass de origem.
 
 Breakpoint Infixo de classe Dimensões
 
-
 X-Small
 Small
 Médium
@@ -9391,11 +9030,9 @@ Extra extra large
 
 >1400px
 
-
 /' 257
 
 /
-
 
 sm ig
 
@@ -9446,9 +9083,7 @@ grade do Bootstrap pode se adaptar a todos os seis pontos de interrupção padr�
 quaisquer
 pontos de interrupção personalizados. As seis camadas de grade padrão são as seguintes:
 
-
 www. estra tegiaconcursos. com. br
-
 
 * Extra small (xs)
 
@@ -9465,7 +9100,6 @@ www. estra tegiaconcursos. com. br
 A tabela ilustra como cada contêiner max-width, ou seja, o tamanho máximo
 do cointêiner, se
 compara ao .container original e ao .container-fluid em cada breakpoint.
-
 
 Extra small
 
@@ -9527,11 +9161,9 @@ o .container-md faria com que o contêiner tenha largura máxima de 992px em tel
 largura
 entre 768px e 992px.
 
-
 / 257
 
 /
-
 
 A tabela de breakpoints do Bootstrap permite que você visualize como cada contêiner se
 compara
@@ -9595,11 +9227,9 @@ permite que você crie layouts que se adaptem automaticamente a diferentes taman
 tela,
 oferecendo uma excelente experiência de usuário em todos os dispositivos.
 
-
 / 257
 
 /
-
 
 i (CEBRASPE Órgão: STM - 2018) O sistema de grades do Bootstrap baseia-se em um
 leiaute de 12 i
@@ -9635,7 +9265,6 @@ Propriedades Descrição
 Os breakpoints são baseados em min-widthconsultas de mídia, o que
 significa que afetam esse ponto de interrupção e todos os que estão
 
-
 Grid system suporta
 seis breakpoints
 responsivos
@@ -9643,7 +9272,6 @@ acima dele (por exemplo, .col-sm-4aplica-se a sm, md, lg, xle xxl). Isso
 significa que você pode controlar o dimensionamento e o
 comportamento do contêiner e da coluna em cada ponto de
 interrupção.
-
 
 Os contêineres
 centralizam e
@@ -9667,11 +9295,9 @@ também oferecem suporte a classes modificadoras para aplicar
 uniformemente o dimensionamento de colunas e classes de medianiz
 para alterar o espaçamento de seu conteúdo.
 
-
 /' 257
 
 /
-
 
 As colunas são
 incrivelmente flexíveis
@@ -9683,7 +9309,6 @@ de colunas de modelo a serem expandidas (por exemplo, col-
 4abrange quatro), widths são definidos em porcentagens para que
 você sempre tenha o mesmo tamanho relativo.
 
-
 Gutters são
 responsivas e
 personalizáveis
@@ -9694,7 +9319,6 @@ mudar os gutters horizontais com as classes .gx-, gutters verticais com
 
 .gy- ou todos os gutters com as classes .g-*. Também está disponível
 a classe .g-0 para remover os gutters completamente.
-
 
 Variáveis Sass, mapas
 e mixins alimentam o
@@ -9739,11 +9363,9 @@ documentação:
 
 <div class="col">col</div>
 
-
 /' 257
 
 /
-
 
 <div class="col">col</div>
 
@@ -9827,9 +9449,7 @@ linha de grade. Finalmente, adicionamos três colunas usando classes "col-sm-4",
 indicam que
 cada coluna ocupará 4 das 12 colunas disponíveis na tela pequena (sm). Lembre-se de que, para
 
-
 *
-
 
 criar um layout de grade responsivo, você pode usar diferentes classes
 "col-*" para ajustar o
@@ -9907,11 +9527,9 @@ menor que o
 largura da tela.
 Quando a tela for maior que o "breakpoint" definido pela classe "col-md-", as colunas ocuparão
 
-
 /' 257
 
 /
-
 
 1/3 da largura da tela. No terceiro exemplo, há uma grade com duas colunas que
 sempre ocupam
@@ -9972,7 +9590,6 @@ de grid responsivo i
 
 I
 
-
 I
 
 : a) "row" em um elemento div e adicionar classes "col-*" para criar as colunas.
@@ -9980,7 +9597,6 @@ I
 
 = b) "grid" em um elemento div e adicionar classes "row-*" para criar as linhas.
 ;
-
 
 I
 
@@ -9990,14 +9606,11 @@ I
 = d) "flex" em um elemento div e adicionar classes "grid-*" para criar as linhas.
 ;
 
-
 : e) "container" em um elemento div e adicionar as classes "row" e "col-*" para criar o layout. =
-
 
 / 257
 
 /
-
 
 Comentários:
 
@@ -10060,11 +9673,9 @@ responsiva.
 Use classes específicas de ponto de quebra para modificar os gutters horizontais, verticais e
 todos.
 
-
 / 257
 
 /
-
 
 Utilitários
 
@@ -10082,7 +9693,6 @@ de borda mais comuns são:
 
 Propriedades Descrição
 
-
 .border-top, .border-
 bottom, .border-start,
 
@@ -10098,7 +9708,6 @@ Adiciona uma borda mais grossa com a espessura especificada em
 pixels;
 
 .border-rounded Adiciona uma borda arredondada;
-
 
 .border-top-rounded,
 
@@ -10133,11 +9742,9 @@ será alinhado à direita da coluna, e se o eixo principal estiver definido como
 column, o texto será
 alinhado à direita da linha.
 
-
 /' 257
 
 /
-
 
 text-right, por outro lado, é uma classe de alinhamento de texto que pode ser usada
 em qualquer
@@ -10200,11 +9807,9 @@ classes de grid do Bootstrap para criar layouts mais complexos e personalizados.
 
 Alinhamento de Texto
 
-
 / 257
 
 /
-
 
 Para alinhamento à esquerda, direita e central, estão disponíveis classes responsivas
 que usam os
@@ -10268,11 +9873,9 @@ verticalmente no
 contêiner flex. Todas essas classes de alinhamento podem ser usadas em conjunto com
 outras
 
-
 / 257
 
 /
-
 
 classes do Bootstrap para criar layouts responsivos e visualmente agradáveis. Vejamos de
 forma
@@ -10281,7 +9884,6 @@ objetiva algumas classes de alinhamento flex do Bootstrap
 Propriedades Descrição
 
 Alinha os elementos filhos do contêiner flex ao início (lado esquerdo)
-
 
 justify-content-start
 do contêiner. É a opção padrão de alinhamento.
@@ -10292,7 +9894,6 @@ Alinha os elementos filhos do contêiner flex ao final (lado direito) do
 justify-content-end
 contêiner.
 
-
 align-items-start
 
 Alinha os elementos filhos do contêiner flex ao início (topo) do
@@ -10300,13 +9901,11 @@ contêiner.
 
 align-items-center Centraliza os elementos filhos do contêiner flex verticalmente.
 
-
 align-items-end
 
 Usada para alinhar elementos filhos verticalmente na parte inferior do
 contêiner pai. É usada em contêineres flex e pode ser aplicada ao
 elemento pai ou aos elementos filhos dentro dele.
-
 
 align-self-stretch
 
@@ -10337,11 +9936,9 @@ posicionamento.
 
 position-relative Posiciona um elemento em relação à sua posição normal.
 
-
 /' 257
 
 /
-
 
 position-absolute
 position-fixed
@@ -10403,11 +10000,9 @@ de borda, de gradiente e de foco de elementos HTML, senão, vejamos.
 
 Propriedades Descrição
 
-
 / 257
 
 /
-
 
 Define a cor do texto para a cor primária do tema;
 Define a cor do texto para a cor secundária do tema;
@@ -10452,17 +10047,14 @@ ou erro;
 .bg-warning Define a cor de fundo para a cor amarela usada para indicar aviso ou
 precaução;
 
-
 .bg-info
 
 Define a cor de fundo para a cor azul clara usada para fornecer
 informações;
 
-
 /' 257
 
 /
-
 
 *bg-light
 
@@ -10473,7 +10065,6 @@ fundo escuro;
 
 Define a cor de fundo para uma cor escura, geralmente usada em
 fundo claro.
-
 
 Componentes
 
@@ -10534,11 +10125,9 @@ estilizá-los com um
 estilo padrão do Bootstrap. A classe adiciona uma fonte em negrito e uma cor de texto
 preta para esses elementos.
 
-
 / 257
 
 /
-
 
 * .form-inline: essa é uma classe Bootstrap utilizada para criar formulários
 horizontais. Com
@@ -10591,7 +10180,6 @@ button, utilizando o elemento HTML <label> com a classe .form-check-label. O atr
 for desse
 rótulo deve apontar para o atributo id do elemento <input>. Exemplo:
 
-
 <div class="form-check">
 
 <input class="form-check-input
@@ -10616,11 +10204,9 @@ for="exampleRadiol">
 type="radio" name="exampleRadio"
 for="exampleRadio2">
 
-
 /' 257
 
 /
-
 
 Exemplo de radio button 2
 
@@ -10645,7 +10231,6 @@ em uma linha
 separada. A classe .form-check é aplicada ao contêiner que envolve as caixas de
 seleção ou radio
 buttons e o rótulo (labei) associado a elas. Exemplo:
-
 
 <div class="fonm-check">
 
@@ -10704,11 +10289,9 @@ id="exampleRadio2">
 
 <label class="fonm-check-label" for="exampleRadio2">
 
-
 / 257
 
 /
-
 
 Exemplo de radio button 2
 
@@ -10739,7 +10322,6 @@ também adiciona algumas propriedades CSS para garantir que o
 elemento fique alinhado corretamente com o rótulo (labei) associado
 a ele.
 
-
 form-group
 form-row
 
@@ -10767,11 +10349,9 @@ recursos e opções de personalização, é possível criar formulários que sej
 tanto visualmente
 atraentes quanto fáceis de usar.
 
-
 / 257
 
 /
-
 
 Carousel
 
@@ -10835,9 +10415,7 @@ data-ride="carousel">
 
 <img class="d-block w-100" src="..." alt="First slide">
 
-
 www. estra tegiaconcursos. com. br
-
 
 </div>
 
@@ -10907,11 +10485,9 @@ Esses elementos div são usados para definir as outras imagens no carrossel.
 Cada imagem é
 definida da mesma maneira que a primeira imagem, mas sem a classe active.
 
-
 /' 257
 
 /
-
 
 Em resumo, este código HTML cria um carrossel de imagens no Bootstrap, com três
 imagens que
@@ -10983,11 +10559,9 @@ role="button" data-slide="next">
 
 A imagem abaixo apresenta um carousel com controles
 
-
 /' 257
 
 /
-
 
 A imagem abaixo apresenta um carousel com indicadores
 
@@ -10999,11 +10573,9 @@ funcionalidade desejada. Alguns desses elementos são:
 
 Classe Descrição
 
-
 / 257
 
 /
-
 
 .carousel
 
@@ -11028,7 +10600,6 @@ são as classes usadas para criar os botões de controle de avanço e
 retrocesso do Carousel. Esses botões permitem que o usuário
 navegue para o próximo ou para o item anterior na sequência.
 
-
 .carousel-indicators
 é a classe usada para criar os indicadores de posição do Carousel, que
 permitem ao usuário saber em que item da sequência ele está.
@@ -11048,7 +10619,6 @@ Impede que o carrossel percorra os itens.
 
 .carouself pause')
 
-
 .carousel(number)
 
 Percorre o carrossel para um quadro específico (baseado em 0,
@@ -11056,11 +10626,9 @@ semelhante a uma matriz). Retorna ao chamador antes que o item de
 destino seja exibido (ou seja, antes que o slid.bs.carouselevento
 ocorra).
 
-
 / 257
 
 /
-
 
 .carouselfprev')
 
@@ -11092,7 +10660,6 @@ slide.
 
 Ambos os eventos têm as seguintes propriedades adicionais:
 
-
 Propriedades dos
 eventos
 
@@ -11107,11 +10674,9 @@ to O índice do próximo item
 
 Buttons
 
-
 / 257
 
 /
-
 
 Primary Secondary Success Danger Warning Info
 Link
@@ -11127,58 +10692,48 @@ btn
 devem ter esta classe para que a formatação do botão funcione
 adequadamente.
 
-
 btn-primary"
 
 Define um estilo de botão padrão com uma cor azul que indica uma
 ação principal.
-
 
 btn btn-secondary
 
 Define um estilo de botão secundário, com uma cor mais clara em
 comparação ao botão padrão.
 
-
 btn btn-success
 
 Define um estilo de botão verde para indicar sucesso.
-
 
 btn btn-danger
 
 Define um estilo de botão vermelho para indicar perigo ou uma ação
 de exclusão.
 
-
 btn btn-warning
 
 Define um estilo de botão amarelo para indicar advertência ou ação
 que requer atenção do usuário.
-
 
 btn btn-info
 
 Define um estilo de botão azul claro para indicar informações ou ação
 que leva a informações adicionais.
 
-
 btn btn-light
 
 Define um estilo de botão com fundo branco e borda escura para um
 botão simples e limpo.
-
 
 btn btn-dark
 
 Define um estilo de botão com fundo escuro e texto claro para um
 botão com design mais forte e dramático.
 
-
 / 257
 
 /
-
 
 As classes.btn são projetadas para serem usadas com o elemento <button>. No
 entanto, você
@@ -11216,7 +10771,6 @@ aguardar um pouco mais. Eles são frequentemente usados em sites e aplicativos d
 para
 indicar que o conteúdo está sendo carregado ou que uma ação está em andamento.
 
-
 C I C Loading...
 k J
 
@@ -11235,7 +10789,6 @@ spinner está em uso.
 
 Border spinner
 www. estra tegiaconcursos. com. br
-
 
 <span class="spinner-border spinner-border-sm"x/span> é uma tag HTML que representa
 um
@@ -11291,7 +10844,6 @@ usuário
 passa o mouse sobre um elemento, sem precisar clicar ou navegar para outra página.
 
 *
-
 
 Bootstrap Tooltip Demo
 
@@ -11353,11 +10905,9 @@ sejam removidos do DOM.
 shadow
 DOM.
 
-
 / 257
 
 /
-
 
 Z-index
 
@@ -11425,11 +10975,9 @@ mesmos pontos de interrupção da largura da janela de visualização do sistema
 tamanho SM (pequeno) ou
 maior.</p>
 
-
 / 257
 
 /
-
 
 <p class = "text-md-left">Texto alinhado à esquerda em viewports de
 tamanho MD (médio) ou
@@ -11494,17 +11042,14 @@ align-items-start Alinha os itens verticalmente no início do container, ou seja
 
 align-items-center Centraliza os itens verticalmente no container.
 
-
 align-items-end
 
 É uma classe de alinhamento do Bootstrap que é usada para alinhar
 elementos filhos verticalmente na parte inferior do contêiner pai. É
 
-
 /' 257
 
 /
-
 
 usada em contêineres flex e pode ser aplicada ao elemento pai
 aos elementos filhos dentro dele.
@@ -11525,16 +11070,13 @@ Propriedades Descrição
 d-flex Define um elemento como um flex container, permitindo que seus
 filhos sejam posicionados com flexbox.
 
-
 flex-row
 
 Define a direção do flex container como horizontal.
 
-
 flex-column
 
 Define a direção do flex container como vertical.
-
 
 justify-content-*
 
@@ -11552,28 +11094,23 @@ Define como um item específico dentro do flex container é alinhado
 ao longo do eixo secundário. As opções disponíveis são as mesmas
 que align-items-*.
 
-
 order-*
 
 Define a ordem dos itens dentro do flex container. Os itens são
 ordenados de acordo com o valor numérico da classe, do menor para
 o maior.
 
-
 mx-auto
 
 Centraliza um elemento horizontalmente em seu contêiner.
-
 
 my-auto
 
 Centraliza um elemento verticalmente em seu contêiner.
 
-
 / 257
 
 /
-
 
 float-right
 position-static
@@ -11634,11 +11171,9 @@ Classes de cor
 
 No Bootstrap, há diversas classes para definir a cor dos elementos, dentre elas:
 
-
 / 257
 
 /
-
 
 Propriedades Descrição
 text-muted
@@ -11693,11 +11228,9 @@ será alinhado à direita da coluna, e se o eixo principal estiver definido como
 column, o texto será
 alinhado à direita da linha.
 
-
 /' 257
 
 /
-
 
 text-right, por outro lado, é uma classe de alinhamento de texto que pode ser usada
 em qualquer
@@ -11729,11 +11262,9 @@ Glyphicons no seu
 
 ; Errado)
 
-
 /' 257
 
 /
-
 
 Bootstrap
 
@@ -11761,7 +11292,6 @@ construção responsiva. Esses pontos de interrupção podem ser personalizados 
 você estiver
 usando arquivos Sass de origem.
 
-
 Breakpoint I
 
 X-Small
@@ -11774,11 +11304,9 @@ Extra extra large
 
 Infixo de classe I Dimensões I
 
-
 / 257
 
 /
-
 
 sm ig
 
@@ -11818,7 +11346,6 @@ A tabela ilustra como cada contêiner max-width, ou seja, o tamanho máximo
 do cointêiner, se
 compara ao .container original e ao .container-fluid em cada breakpoint.
 
-
 Extra small
 
 <576px
@@ -11843,7 +11370,6 @@ XX-Large
 
 >1400px
 
-
 .container
 
 .container-sm
@@ -11855,7 +11381,6 @@ XX-Large
 100% 100% 720px 960px 1140px 1320
 px
 www. estra tegiaconcursos. com. br
-
 
 .container-lg 100% 100% 100% 960px
 1140px 1320 px
@@ -11888,7 +11413,6 @@ página de forma flexível e responsiva. Cada coluna é representada por uma cla
 
 Propriedades Descrição
 
-
 Grid system suporta
 seis breakpoints
 responsivos
@@ -11899,7 +11423,6 @@ acima dele (por exemplo, .col-sm-4aplica-se a sm, md, lg, xle xxl). Isso
 significa que você pode controlar o dimensionamento e o
 comportamento do contêiner e da coluna em cada ponto de
 interrupção.
-
 
 Os contêineres
 centralizam e
@@ -11912,7 +11435,6 @@ fluidpara width: 100%todas as viewports e dispositivos, ou um
 contêiner responsivo (por exemplo, .container-md) para uma
 combinação de larguras fluidas e de pixel.
 
-
 Linhas são wrappers
 para colunas
 
@@ -11920,17 +11442,14 @@ Cada coluna tem uma horizontal padding(chamada de calha) para
 controlar o espaço entre elas. Isso paddingé então neutralizado nas
 linhas com margens negativas para garantir que o conteúdo em suas
 
-
 / 257
 
 /
-
 
 colunas esteja visualmente alinhado no lado esquerdo. As linhas
 também oferecem suporte a classes modificadoras para aplicar
 uniformemente o dimensionamento de colunas e classes de medianiz
 para alterar o espaçamento de seu conteúdo.
-
 
 As colunas são
 incrivelmente flexíveis
@@ -11942,7 +11461,6 @@ de colunas de modelo a serem expandidas (por exemplo, col-
 4abrange quatro), widths são definidos em porcentagens para que
 você sempre tenha o mesmo tamanho relativo.
 
-
 Gutters são
 responsivas e
 personalizáveis
@@ -11953,7 +11471,6 @@ mudar os gutters horizontais com as classes .gx-, gutters verticais com
 
 .gy- ou todos os gutters com as classes .g-*. Também está disponível
 a classe .g-0 para remover os gutters completamente.
-
 
 Variáveis Sass, mapas
 e mixins alimentam o
@@ -11982,11 +11499,9 @@ de borda mais comuns são:
 
 Propriedades Descrição
 
-
 / 257
 
 /
-
 
 .border-top, .border-
 bottom, .border-start,
@@ -12047,11 +11562,9 @@ As classes de posicionamento do Bootstrap permitem posicionar elementos em
 relação a um
 determinado ponto na tela. Algumas das principais classes são:
 
-
 / 257
 
 /
-
 
 Propriedades Descrição
 position-static Posição padrão de um elemento e não modifica seu
@@ -12101,11 +11614,9 @@ de borda, de gradiente e de foco de elementos HTML, senão, vejamos.
 
 Propriedades Descrição
 
-
 / 257
 
 /
-
 
 Define a cor do texto para a cor primária do tema;
 Define a cor do texto para a cor secundária do tema;
@@ -12150,17 +11661,14 @@ ou erro;
 .bg-warning Define a cor de fundo para a cor amarela usada para indicar aviso ou
 precaução;
 
-
 .bg-info
 
 Define a cor de fundo para a cor azul clara usada para fornecer
 informações;
 
-
 /' 257
 
 /
-
 
 *bg-light
 
@@ -12183,7 +11691,6 @@ Alinha os elementos filhos do contêiner flex ao final (lado direito) do
 justify-content-end
 contêiner.
 
-
 align-items-start
 
 Alinha os elementos filhos do contêiner flex ao início (topo) do
@@ -12195,7 +11702,6 @@ Usada para alinhar elementos filhos verticalmente na parte inferior do
 align-items-end
 contêiner pai. É usada em contêineres flex e pode ser aplicada ao
 elemento pai ou aos elementos filhos dentro dele.
-
 
 align-self-stretch
 
@@ -12233,11 +11739,9 @@ data-ride="carousel">
 
 <img class="d-block w-100" src="..." alt="Third slide">
 
-
 /' 257
 
 /
-
 
 </div>
 
@@ -12251,21 +11755,17 @@ funcionalidade desejada. Alguns desses elementos são:
 
 Classe Descrição
 
-
 .carousel
 é a classe que define o contêiner principal do Carousel, que envolve
 todos os outros elementos do componente.
-
 
 .carousel-inner
 é a classe que envolve todos os .carousel-item e é responsável por
 exibir um único item do Carousel de cada vez.
 
-
 .carousel-item
 é a classe que define cada item individual do Carousel, que pode
 incluir uma imagem, um texto ou outros elementos HTML.
-
 
 .carousel-control-prev
 e .carousel-control-
@@ -12275,13 +11775,11 @@ são as classes usadas para criar os botões de controle de avanço e
 retrocesso do Carousel. Esses botões permitem que o usuário
 navegue para o próximo ou para o item anterior na sequência.
 
-
 .carousel-indicators
 é a classe usada para criar os indicadores de posição do Carousel, que
 permitem ao usuário saber em que item da sequência ele está.
 
 Métodos Descrição
-
 
 .carousel(options)
 
@@ -12294,11 +11792,9 @@ Percorre os itens do carrossel da esquerda para a direita.
 
 .carouself pause') Impede que o carrossel percorra os itens.
 
-
 /' 257
 
 /
-
 
 .carousel(number)
 
@@ -12337,18 +11833,15 @@ slide.
 
 Ambos os eventos têm as seguintes propriedades adicionais:
 
-
 Propriedades dos
 eventos
 
 Descrição
 direction A direção na qual o carrossel está deslizando (ou "left"ou "right").
 
-
 /' 257
 
 /
-
 
 O elemento DOM que está sendo deslizado para o lugar como o i
 ativo.
@@ -12398,18 +11891,16 @@ padrão no Bootstrap que foi projetada para navegar adequadamente em camadas,
 dicas de
 ferramentas e popovers, modais e muito mais.
 
-
 REFERÊNCIAS
 
 https://www.w3schools.com/bootstrap/bootstrap_ver.asp
 www. estra tegiaconcursos. com. br
 
-
 Diversas Bancas
 
 QUESTõES CoMENTADAS
 
-Item. 1. (CESPE - STM- 2018) Acerca de Bootstrap e Javascript, julgue o item.
+1. (CESPE - STM- 2018) Acerca de Bootstrap e Javascript, julgue o item.
 
 Utilizando-se o Bootstrap, a expressão a seguir insere o ícone Q
 no leiaute. <span
@@ -12425,7 +11916,7 @@ projeto, que é fornecida com o Bootstrap, para que esse ícone funcione correta
 
 Gabarito: Errado
 
-Item. 2. (CESPE -STM- 2018) Acerca de Bootstrap e Javascript, julgue o item.
+2. (CESPE -STM- 2018) Acerca de Bootstrap e Javascript, julgue o item.
 
 O sistema de grades do Bootstrap baseia-se em um leiaute de 12 colunas.
 
@@ -12441,7 +11932,7 @@ das 12 colunas disponíveis na tela larga (lg).
 
 Gabarito: Certo
 
-Item. 3. (CEPUERJ - UERJ - 2021) O Bootstrap prevê uma estilização padrao para
+3. (CEPUERJ - UERJ - 2021) O Bootstrap prevê uma estilização padrao para
 formulários,
 bastando que se marque um div container com a classe form-group para cada conjunto de
 controles do formulário. No Bootstrap também é possível estilizar um formulário
@@ -12455,11 +11946,9 @@ d) form-line
 
 Comentários:
 
-
 /' 257
 
 /
-
 
 Para estilizar um formulário em linha, usamos o form-inline que é uma classe Bootstrap
 utilizada
@@ -12471,7 +11960,7 @@ para formulários com poucos campos ou quando se deseja economizar espaço na te
 
 Gabarito: Letra C
 
-Item. 4. (IFSP - IF SP- 2022) O carousel é recurso de slideshow da Biblioteca Bootstrap,
+4. (IFSP - IF SP- 2022) O carousel é recurso de slideshow da Biblioteca Bootstrap,
 com o objetivo
 de mostrar vários conteúdos, como se fosse um carrossel. Selecione a alternativa
 correta em
@@ -12511,7 +12000,7 @@ elementos <a> com as classes .carousel-control-prev e .carousel-control-next car
 
 Gabarito: Letra D
 
-Item. 5. (IFSUL- IF SUL- 2019) O Bootstrap é uma estrutura popular de HTML, CSS e
+5. (IFSUL- IF SUL- 2019) O Bootstrap é uma estrutura popular de HTML, CSS e
 JavaScript para
 o desenvolvimento de websites responsivos e móveis.
 
@@ -12526,11 +12015,9 @@ d) button-link, btn-primary.
 
 Comentários:
 
-
 /' 257
 
 /
-
 
 Pessoal, essa questão foi anulada pois a classe btn-default é uma classe descontinuada,
 ou seja,
@@ -12548,7 +12035,7 @@ deve-se usar btn-secondary em vez de btn-default.
 
 Gabarito: Anulada
 
-Item. 6. (FAPEC - UFMS- 2022) Oé uma coleção de ferramentas de código
+6. (FAPEC - UFMS- 2022) Oé uma coleção de ferramentas de código
 aberto para
 o desenvolvimento de sites e aplicativos web. Inclui modelos de design baseados em
 HTML e
@@ -12592,15 +12079,13 @@ móveis ou web.
 
 Gabarito: Letra A
 
-Item. 7. (FCC -PGE AM- 2022) Considere o fragmento de código abaixo, disponível em uma
+7. (FCC -PGE AM- 2022) Considere o fragmento de código abaixo, disponível em uma
 página
 web criada com Bootstrap 5, em condições ideais.
 
 <div class="containen-fluid">
 
-
 ,
-
 
 <div class="now">
 
@@ -12643,7 +12128,7 @@ não interfere na largura.
 
 Gabarito: Letra C
 
-Item. 8. (FCC - TRT4- 2022) Para definir uma tag div como contêiner, o Bootstrap tem
+8. (FCC - TRT4- 2022) Para definir uma tag div como contêiner, o Bootstrap tem
 alguns nomes
 de classe predefinidos, como
 a) container-flex e container-grid.
@@ -12667,7 +12152,6 @@ container-fluid: classe para definir um contêiner com largura total e preenchim
 
 *
 
-
 espaço disponível. As outras opções mencionadas (container-flex, container-grid,
 container-box,
 container-text, container-stretch, container-fixed, container-relative e
@@ -12678,7 +12162,7 @@ usadas para outros fins, mas não para criar contêineres.
 
 Gabarito: Letra C
 
-Item. 9. (FCC - TRF 22 - 2022) Uma das classes do Bootstrap 5 para definir estilos de
+9. (FCC - TRF 22 - 2022) Uma das classes do Bootstrap 5 para definir estilos de
 botões criados
 por meio da tag <button> é a classe,
 
@@ -12727,11 +12211,9 @@ podem ser facilmente posicionados e organizados usando as outras classes utilit�
 sistema
 de flexbox do Bootstrap 5.
 
-
 /' 257
 
 /
-
 
 Gabarito: Letra A
 
@@ -12784,9 +12266,7 @@ entre
 576 pixels e 767 pixels, as lacunas I e II devem ser preenchidas, respectivamente, com
 a) col-small-25 e col-small-75.
 
-
 ,
-
 
 b) col-sm-3 e col-sm-9.
 
@@ -12855,11 +12335,9 @@ e) column-small-25 e column-small-75
 
 Comentários:
 
-
 / 257
 
 /
-
 
 CONHEÇA A BANCA! Gente, olha como a FCC gosta desse tipo de questão! São muito
 parecidas
@@ -12929,11 +12407,9 @@ Dessa forma, o código HTML irá apresentar as duas colunas uma ao lado da outra
 dispositivos
 com largura de tela maior ou igual a 576 pixels e irá empilhar as colunas uma sobre a outra em
 
-
 /' 257
 
 /
-
 
 dispositivos com largura de tela menor que 576 pixels. Note que a classe
 container-fluid cria um
@@ -13004,7 +12480,6 @@ title do elemento
 HTML para criar uma caixa de ferramentas que exibe informações adicionais quando o
 usuário
 passa o mouse sobre o elemento.
-
 
 No código da questão, o atributo data-toggle="a" indica que o elemento é um
 acionador de
@@ -13077,11 +12552,9 @@ médios (768px ou mais): o primeiro contêiner terá 6/12 da largura da linha (o
 segundo contêiner terá 6/12 da largura da linha (ou seja, 50%). Dispositivos grandes
 (992px ou
 
-
 /' 257
 
 /
-
 
 mais): o primeiro contêiner terá 4/12 da largura da linha (ou seja, 33,33%) e o
 segundo contêiner
@@ -13098,7 +12571,6 @@ botões
 como mostrados na figura abaixo, indicando algum procedimento de carregamento
 no site,
 em que a imagem de um pequeno círculo fica girando no interior do botão.
-
 
 Q Carregando..
 
@@ -13141,9 +12613,7 @@ levar algum tempo.
 
 Gabarito: Letra D
 
-
 www. estra tegiaconcursos. com. br
-
 
 18.(FCC - TJ MA - 2019) O Bootstrap 4 usa flexbox em vez de float para manipular o
 layout da
@@ -13223,7 +12693,6 @@ c) data-toggle="collapse"
 
 *
 
-
 d) data-alternate="true"
 
 e) data-toggle="show-hide"
@@ -13290,11 +12759,9 @@ e) 10%/90% para dispositivos de telas pequenas, 20%/80% para dispositivos de tel
 médias e
 30%/70% para dispositivos de telas grandes.
 
-
 / 257
 
 /
-
 
 Comentários:
 
@@ -13363,11 +12830,9 @@ desenvolvimento web ideal.
 
 </head>
 
-
 / 257
 
 /
-
 
 <body>
 
@@ -13426,11 +12891,9 @@ d) col-small-3 e col-small-7
 
 e) col-lg-3 e col-lg-9
 
-
 /' 257
 
 /
-
 
 Comentários:
 
@@ -13490,9 +12953,7 @@ Gabarito: Letra B
 site
 responsivo.
 
-
 www. estra tegiaconcursos. com. br
-
 
 <!DOCTTPE
 
@@ -13559,7 +13020,6 @@ de tela.
 
 Gabarito: Letra D
 
-
 26.(FEPESE - CELESC - 2022) O sistema de grid Bootstrap permite até quantas colunas?
 
 a) 16
@@ -13623,11 +13083,9 @@ contêiner pai. d) justified: é uma propriedade CSS que alinha o texto de forma
 cada linha
 tenha a mesma largura, criando uma margem adicional entre as palavras.
 
-
 /' 257
 
 /
-
 
 Gabarito: Letra E
 
@@ -13685,11 +13143,9 @@ o correto é a letra a)"row" em um elemento div e adicionar classes "col-*" para
 
 Gabarito: Letra A
 
-
 /' 257
 
 /
-
 
 3O.(FGV -Sefaz AM - 2022) O Bootstrap é um framework web com código-fonte aberto
 amplamente utilizado em desenvolvimento de aplicações web.
@@ -13754,7 +13210,6 @@ Gabarito: Letra A
 
 </div>
 
-
 Assinale o framework usualmente associado à classe utilizada.
 
 a) Angular Material.
@@ -13813,11 +13268,9 @@ e plataformas.
 
 Gabarito: Letra B
 
-
 / 257
 
 /
-
 
 33.(Instituto AOCP - PRODEB - 2018) A tipografia é muito importante em
 qualquer trabalho
@@ -13875,7 +13328,7 @@ Gabarito: Letra D
 
 34.(UFRJ -UFRJ - 2018) Considere o trecho de código em uma página HTML a seguir:
 
-Item. 1. Mensagens <span class="BOOTSTRAP">
+1. Mensagens <span class="BOOTSTRAP">
 
 {{mensagens}}</span>
 
@@ -13886,11 +13339,9 @@ fundo verde e letra branca, deve-se alterar a declaração BOOTSTRAP para:
 
 a) badge success
 
-
 /' 257
 
 /
-
 
 b) btn badge-success
 c) badge badge-success
@@ -13935,27 +13386,25 @@ necessidades específicas de cada projeto.
 
 Gabarito: Correto
 
-
 / 257
 
 /
-
 
 Diversas Bancas
 
 LISTA DE QUESTõES
 
-Item. 1. (CESPE - STM- 2018) Acerca de Bootstrap e Javascript, julgue o item.
+1. (CESPE - STM- 2018) Acerca de Bootstrap e Javascript, julgue o item.
 
 Utilizando-se o Bootstrap, a expressão a seguir insere o ícone Q
 no leiaute. <span
 class=" glyphicon-search" ></span>
 
-Item. 2. (CESPE -STM- 2018) Acerca de Bootstrap e Javascript, julgue o item.
+2. (CESPE -STM- 2018) Acerca de Bootstrap e Javascript, julgue o item.
 
 O sistema de grades do Bootstrap baseia-se em um leiaute de 12 colunas.
 
-Item. 3. (CEPUERJ - UERJ - 2021) O Bootstrap prevê uma estilização padrao para
+3. (CEPUERJ - UERJ - 2021) O Bootstrap prevê uma estilização padrao para
 formulários,
 bastando que se marque um div container com a classe form-group para cada conjunto de
 controles do formulário. No Bootstrap também é possível estilizar um formulário
@@ -13967,7 +13416,7 @@ b) form-control
 c) form-inline
 d) form-line
 
-Item. 4. (IFSP - IF SP- 2022) O carousel é recurso de slideshow da Biblioteca Bootstrap,
+4. (IFSP - IF SP- 2022) O carousel é recurso de slideshow da Biblioteca Bootstrap,
 com o objetivo
 de mostrar vários conteúdos, como se fosse um carrossel. Selecione a alternativa
 correta em
@@ -13993,13 +13442,11 @@ a classe carousel-control é utilizada com a tag "a" do HTML, sem perda de
 funcionalidade em
 todos esses casos.
 
-
 /' 257
 
 /
 
-
-Item. 5. (IFSUL- IF SUL-2019) O Bootstrap é uma estrutura popular de HTML, CSS e
+5. (IFSUL- IF SUL-2019) O Bootstrap é uma estrutura popular de HTML, CSS e
 JavaScript para
 o desenvolvimento de websites responsivos e móveis.
 
@@ -14012,7 +13459,7 @@ c) btn-warning, button-danger.
 
 d) button-link, btn-primary.
 
-Item. 6. (FAPEC - UFMS- 2022) Oé uma coleção de ferramentas de código
+6. (FAPEC - UFMS- 2022) Oé uma coleção de ferramentas de código
 aberto para
 o desenvolvimento de sites e aplicativos web. Inclui modelos de design baseados em
 HTML e
@@ -14034,7 +13481,7 @@ d) IconGenerator.
 
 e) Screencat.
 
-Item. 7. (FCC -PGE AM- 2022) Considere o fragmento de código abaixo, disponível em uma
+7. (FCC -PGE AM- 2022) Considere o fragmento de código abaixo, disponível em uma
 página
 web criada com Bootstrap 5, em condições ideais.
 
@@ -14060,11 +13507,9 @@ Para que os dois contêineres internos sejam renderizados com divisão de 50% ca
 as telas, exceto nas extra pequenas, as lacunas I e II devem ser corretamente preenchidas com
 a) col-left-50 e col-right-50
 
-
 /' 257
 
 /
-
 
 b) col-half-screen e col-half-screen
 c) col-sm-6 e col-sm-6
@@ -14073,7 +13518,7 @@ d) col-lg-50 e col-lg-50
 
 e) col-sm-5 e col-sm-5
 
-Item. 8. (FCC - TRT4- 2022) Para definir uma tag div como contêiner, o Bootstrap tem
+8. (FCC - TRT4- 2022) Para definir uma tag div como contêiner, o Bootstrap tem
 alguns nomes
 de classe predefinidos, como
 a) container-flex e container-grid.
@@ -14086,7 +13531,7 @@ d) container-stretch e container-fixed.
 
 e) container-relative e container-absolute.
 
-Item. 9. (FCC - TRF 22 - 2022) Uma das classes do Bootstrap 5 para definir estilos de
+9. (FCC - TRF 22 - 2022) Uma das classes do Bootstrap 5 para definir estilos de
 botões criados
 por meio da tag <button> é a classe,
 
@@ -14121,9 +13566,7 @@ Bootstrap
 
 </div>
 
-
 *
-
 
 Para definir que este contêiner será responsivo, de largura fixa e aparecerá
 centralizado na tela,
@@ -14181,11 +13624,9 @@ esquerda use 25% da largura da linha e a divisão da direita use 75%, as lacunas
 e II devem ser
 preenchidas, correta e respectivamente, com os nomes de classe
 
-
 /' 257
 
 /
-
 
 a) col-sm-3 e col-sm-9
 
@@ -14259,9 +13700,7 @@ Para que, ao levar o ponteiro do mouse sobre o link, apareça o que mostra a fig
 abaixo, a
 lacuna I deve ser preenchida por
 
-
 *
-
 
 Cadastrar
 
@@ -14320,12 +13759,9 @@ como mostrados na figura abaixo, indicando algum procedimento de carregamento
 no site,
 em que a imagem de um pequeno círculo fica girando no interior do botão.
 
-
 Q Carregando..
 
-
 www. es tra tegiaconcursos. com. br
-
 
 Usando Bootstrap 4, em condições ideais, este botão pode ser criado por
 meio do bloco de
@@ -14399,9 +13835,7 @@ integra. a AâAlnlstraç3o Direta do Poder Executivo...
 
 < /ntml >
 
-
 *
-
 
 Para que, ao clicar uma vez no botão, o texto contido no contêiner com id="a1"
 apareça abaixo
@@ -14460,11 +13894,9 @@ médias e
 21 .(FCC-SABESP- 2018) Um Analista está utilizando Bootstrap 4 na criação de um site e deseja
 definir que um container deve usar toda a largura da tela.
 
-
 /' 257
 
 /
-
 
 Para isso, terá que utilizar na tag <div> o atributo class igual a
 a) container.
@@ -14533,9 +13965,7 @@ pixels por 991 pixels. A coluna da esquerda deve ocupar aproximadamente 33,3% e 
 
 Para obter o layout desejado, as lacunas I e II devem conter, respectivamente, os valores
 
-
 *
-
 
 a) col-md-3 e col-md-9
 
@@ -14547,7 +13977,7 @@ d) col-small-3 e col-small-7
 
 e) col-lg-3 e col-lg-9
 
-Item. 24. (FCC -TST - 2017) O plugin modal do bootstrap permite gerar uma caixa de diálogo
+24. (FCC -TST - 2017) O plugin modal do bootstrap permite gerar uma caixa de diálogo
 sobre a
 página atual. O elemento <div> pai do modal deve ter como valor do atributo id o
 mesmo
@@ -14564,7 +13994,7 @@ d) modal-trigger.
 
 e) modal-target.
 
-Item. 25. (FCC -TRF5 - 2017) Considere o código fonte da página abaixo, que faz parte de
+25. (FCC -TRF5 - 2017) Considere o código fonte da página abaixo, que faz parte de
 um site
 responsivo.
 
@@ -14603,7 +14033,6 @@ c/bndyl-
 
 C./htmlj-
 
-
 Para que este código crie dois botões para paginação, "Anterior" e "Próximo", um ao
 lado do
 outro, utilizando Bootstrap, a lacuna I deve ser corretamente preenchida com.
@@ -14618,7 +14047,7 @@ d) pager ou pagination.
 
 e) modal ou colapse.
 
-Item. 26. (FEPESE - CELESC - 2022) O sistema de grid Bootstrap permite até quantas colunas?
+26. (FEPESE - CELESC - 2022) O sistema de grid Bootstrap permite até quantas colunas?
 
 a) 16
 
@@ -14630,7 +14059,7 @@ d) 8
 
 e) 6
 
-Item. 27. (FEPESE-CELESC-2022) Qual classe Bootstrap 5 centraliza um texto em uma tag HTML <p>?
+27. (FEPESE-CELESC-2022) Qual classe Bootstrap 5 centraliza um texto em uma tag HTML <p>?
 
 a) align
 b) center
@@ -14658,11 +14087,9 @@ b) "grid" em um elemento div e adicionar classes "row-*" para criar as linhas.
 
 c) "responsive " em um elemento div e adicionar classes "col-*" para criar as colunas.
 
-
 /' 257
 
 /
-
 
 d) "flex" em um elemento div e adicionar classes "grid-*" para criar as linhas.
 
@@ -14719,8 +14146,7 @@ d) JSON.
 
 e) SpringBoot.
 
-
-Item. 32. (Instituto AOCP - PRODEB - 2018) É possível considerar o Bootstrap como
+32. (Instituto AOCP - PRODEB - 2018) É possível considerar o Bootstrap como
 um kit de
 desenvolvimento básico que é composto por uma gama de componentes prontos que auxiliam
 no desenvolvimento de aplicações web mobile de forma simples e clara, tirando a
@@ -14737,7 +14163,7 @@ d) Toda tarefa que não seja relacionada com o desenho de uma tela.
 
 e) Calcular datas a partir de campos inputs.
 
-Item. 33. (Instituto AOCP - PRODEB - 2018) A tipografia é muito importante em
+33. (Instituto AOCP - PRODEB - 2018) A tipografia é muito importante em
 qualquer trabalho
 gráfico, seja em um ambiente físico ou até mesmo virtual. Ela tem muita influência no
 peso da
@@ -14760,9 +14186,9 @@ lead que destaca melhor o parágrafo em relação aos outros.
 
 e) Não é possível o uso das tags de negrito (<b>) e itálico (<i>) no bootstrap.
 
-Item. 34. (UFRJ -UFRJ - 2018) Considere o trecho de código em uma página HTML a seguir:
+34. (UFRJ -UFRJ - 2018) Considere o trecho de código em uma página HTML a seguir:
 
-Item. 1. Mensagens <span class="BOOTSTRAP">
+1. Mensagens <span class="BOOTSTRAP">
 
 {{mensagens}}</span>
 
@@ -14777,61 +14203,55 @@ c) badge badge-success
 d) btn btn-success
 e) btn success
 
-
 ,
 
-
-Item. 35. (QUADRIX - CRM PR - 2018) No que se refere às tecnologias de desenvolvimento para webz
+35. (QUADRIX - CRM PR - 2018) No que se refere às tecnologias de desenvolvimento para webz
 julgue o item a seguir.
 
 O Bootstrap é uma biblioteca gratuita e de código aberto com enfoque no
 desenvolvimento
 de interfaces de usuários em sistemas web.
 
-
 / 257
 
 /
 
-
 GABARITo
 
-Item. 1. ERRADO 13. LETRA A
-Item. 25. LETRA D
+1. ERRADO 13. LETRA A
+25. LETRA D
 
-Item. 2. CERTO 14. LETRA A
-Item. 26. LETRA B
+2. CERTO 14. LETRA A
+26. LETRA B
 
-Item. 3. LETRA C 15. LETRA D
-Item. 27. LETRA E
+3. LETRA C 15. LETRA D
+27. LETRA E
 
-Item. 4. LETRA D 16. LETRA D
-Item. 28. LETRA C
+4. LETRA D 16. LETRA D
+28. LETRA C
 
-Item. 5. ANULADA 17. LETRA D
-Item. 29. LETRA A
+5. ANULADA 17. LETRA D
+29. LETRA A
 
-Item. 6. LETRA A 18. LETRA C
-Item. 30. LETRA A
+6. LETRA A 18. LETRA C
+30. LETRA A
 
-Item. 7. LETRA C 19. LETRA C
-Item. 31. LETRA B
+7. LETRA C 19. LETRA C
+31. LETRA B
 
-Item. 8. LETRA C 20. LETRA B
-Item. 32. LETRA B
+8. LETRA C 20. LETRA B
+32. LETRA B
 
-Item. 9. LETRA B 21. LETRA D
-Item. 33. LETRA D
+9. LETRA B 21. LETRA D
+33. LETRA D
 
-Item. 10. LETRA A 22. LETRA A
-Item. 34. LETRA C
+10. LETRA A 22. LETRA A
+34. LETRA C
 
 11.LETRA C 23. LETRA C
-Item. 35. CORRETO
+35. CORRETO
 
-Item. 12. LETRA B 24. LETRA B
-
+12. LETRA B 24. LETRA B
 
 *
-
 

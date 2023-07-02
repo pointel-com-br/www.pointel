@@ -1,26 +1,24 @@
-Capítulo. Orquestração de Containers - Kubernetes.
-
+# Orquestração de Containers - Kubernetes.
 
 A orquestração de containers refere-se ao gerenciamento de aplicações em containers, como Docker, em ambientes distribuídos. O Kubernetes é uma plataforma de orquestração de containers amplamente utilizada que foi desenvolvida pelo Google e agora é mantida pela Cloud Native Computing Foundation (CNCF). O Kubernetes fornece um conjunto de ferramentas e recursos que permitem implantar, dimensionar e gerenciar aplicativos em containers de forma eficiente.
 
 Aqui estão alguns conceitos-chave relacionados à orquestração de containers com Kubernetes:
 
-Item. 1. Pods: O Kubernetes agrupa os containers em unidades lógicas chamadas de pods. Um pod é a menor unidade de implantação no Kubernetes e pode conter um ou mais containers que são sempre co-localizados e compartilham recursos, como endereço IP e espaço de armazenamento.
+1. Pods: O Kubernetes agrupa os containers em unidades lógicas chamadas de pods. Um pod é a menor unidade de implantação no Kubernetes e pode conter um ou mais containers que são sempre co-localizados e compartilham recursos, como endereço IP e espaço de armazenamento.
 
-Item. 2. Replication Controller/Replica Set: Esses recursos do Kubernetes garantem que um número especificado de réplicas (pods) esteja em execução em todos os momentos. Eles são responsáveis por manter a alta disponibilidade dos aplicativos e lidar com o balanceamento de carga entre os pods.
+2. Replication Controller/Replica Set: Esses recursos do Kubernetes garantem que um número especificado de réplicas (pods) esteja em execução em todos os momentos. Eles são responsáveis por manter a alta disponibilidade dos aplicativos e lidar com o balanceamento de carga entre os pods.
 
-Item. 3. Deployment: Um objeto de implantação no Kubernetes permite gerenciar a implantação de aplicativos, permitindo atualizações e rollbacks. Ele controla a criação e atualização de pods com base em uma descrição declarativa das especificações do aplicativo.
+3. Deployment: Um objeto de implantação no Kubernetes permite gerenciar a implantação de aplicativos, permitindo atualizações e rollbacks. Ele controla a criação e atualização de pods com base em uma descrição declarativa das especificações do aplicativo.
 
-Item. 4. Service: Um serviço Kubernetes fornece uma abstração de rede estável para um conjunto de pods. Ele permite a descoberta dinâmica de endpoints de pod e balanceamento de carga para garantir que os aplicativos possam se comunicar entre si.
+4. Service: Um serviço Kubernetes fornece uma abstração de rede estável para um conjunto de pods. Ele permite a descoberta dinâmica de endpoints de pod e balanceamento de carga para garantir que os aplicativos possam se comunicar entre si.
 
-Item. 5. ConfigMap e Secrets: Esses recursos permitem a separação de configurações e segredos do código do aplicativo. Eles permitem que as configurações sejam gerenciadas separadamente e injetadas nos pods conforme necessário.
+5. ConfigMap e Secrets: Esses recursos permitem a separação de configurações e segredos do código do aplicativo. Eles permitem que as configurações sejam gerenciadas separadamente e injetadas nos pods conforme necessário.
 
-Item. 6. Persistent Volumes e Persistent Volume Claims: Esses recursos permitem que os aplicativos acessem armazenamento persistente no Kubernetes. Os Persistent Volumes representam o armazenamento subjacente, enquanto os Persistent Volume Claims são solicitações feitas pelos aplicativos para obter acesso a um volume persistente.
+6. Persistent Volumes e Persistent Volume Claims: Esses recursos permitem que os aplicativos acessem armazenamento persistente no Kubernetes. Os Persistent Volumes representam o armazenamento subjacente, enquanto os Persistent Volume Claims são solicitações feitas pelos aplicativos para obter acesso a um volume persistente.
 
-Item. 7. Helm: O Helm é um gerenciador de pacotes para o Kubernetes que simplifica a implantação e o gerenciamento de aplicativos Kubernetes. Ele permite a definição e o compartilhamento de gráficos (charts) que contêm informações sobre os recursos e dependências do aplicativo.
+7. Helm: O Helm é um gerenciador de pacotes para o Kubernetes que simplifica a implantação e o gerenciamento de aplicativos Kubernetes. Ele permite a definição e o compartilhamento de gráficos (charts) que contêm informações sobre os recursos e dependências do aplicativo.
 
 Esses são apenas alguns dos principais conceitos e recursos do Kubernetes. A plataforma oferece muitos outros recursos avançados, como autoscaling, políticas de segurança, monitoramento e muito mais. A orquestração de containers com Kubernetes ajuda as equipes de desenvolvimento e operações a implantar e gerenciar aplicativos de forma escalável, confiável e flexível.
-
 
 O Kubernetes é um sistema de código aberto que foi desenvolvido pelo Google para gerenciamento de aplicativos em containers através de múltiplos hosts de um cluster. Tem como principal objetivo facilitar a implantação de aplicativos baseados em microservices. Ele foi baseado na experiência do Google de muitos anos trabalho com containers, adaptando-o para se trabalhar com Docker.
 O Kubernetes é uma ferramenta de orquestração que oferece recursos de gerenciamento para containers, foi muito útil para ser utilizado até o Docker Swarm 1.0, pois disponibilizava muitos recursos que o Docker não disponibilizava até aquele momento, entre eles: Balanceamento de carga e movimento de containers sem perda de dados.
@@ -39,16 +37,13 @@ Quando um controller identifica que o estado atual é diferente do estado deseja
 
 Pessoal, o Kubernetes é composto por uma vários componentes, cada um com um propósito diferente. Para garantir que exista uma separação de responsabilidades e que o sistema seja resiliente, o kubernetes utiliza um cluster de máquinas para ser executado, logo as máquinas de um cluster são separadas em três tipos: Node, Etcd e Master.
 
-
 NODE
 
 O papel de um node é executar os contêineres que encapsulam as aplicações.
 
-
 ETCD
 
 O etcd é a base de dados distribuída que é utilizada para armazenar tudo o que acontece dentro do cluster, incluindo o estado da aplicação.
-
 
 MASTER
 

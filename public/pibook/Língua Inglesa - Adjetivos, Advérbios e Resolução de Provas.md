@@ -1,7 +1,6 @@
-Capítulo. Língua Inglesa - Adjetivos, Advérbios e Resolução de Provas.
+# Língua Inglesa - Adjetivos, Advérbios e Resolução de Provas.
 
 SERPRO - Língua Inglesa - 2023
-
 
 Índice
 
@@ -23,7 +22,6 @@ SERPRO - Língua Inglesa - 2023
 
 9) Lista de Questões A2 TI e Gabaritos
 
-
 ADJETIVoS
 
 Adjetivo é a palavra que qualifica o sujeito da oração. Os adjetivos na
@@ -36,7 +34,7 @@ Main reason - razão principal
 
 Low trade barriers - barreiras comerciais baixas
 
-Item. 7.7. Posição dos Adjetivos:
+7.7. Posição dos Adjetivos:
 
 Quanto à posição, na maioria dos casos os adjetivos em Inglês vêm antes dos
 substantivos que
@@ -66,7 +64,6 @@ seem (parecer), smell (cheirar), sound (parecer), appear (aparecer), make (fazer
 saborear).
 
 All of this sounds good.
-
 
 Tudo isso parece bom.
 
@@ -108,10 +105,9 @@ The poor are getting poorer - Os pobres estão ficando mais pobres.
 
 The Rich Cut Their Spending (newyortime.com) - Os Ricos Cortam/Reduzem Seus Gastos
 
-
 EXERCÍCIO DE CONSOLIDAÇÃO
 
-Item. 1. Qual sequência de palavras NÃO está correta de acordo com a tradução entre parênteses?
+1. Qual sequência de palavras NÃO está correta de acordo com a tradução entre parênteses?
 
 a) Good opportunities (boas oportunidades)
 
@@ -121,7 +117,7 @@ c) Infrastructure economic (infraestrutura econômica)
 
 d) Transport system (sistema de transporte)
 
-Item. 2. Qual a tradução INCORRETA?
+2. Qual a tradução INCORRETA?
 
 a) Good practices (boas práticas)
 
@@ -131,7 +127,7 @@ c) Important projects (Importantes projetos)
 
 d) Principal objectives (Objetivos principais)
 
-Item. 3. Qual sequência de palavras NÃO está correta de acordo com a tradução entre parênteses?
+3. Qual sequência de palavras NÃO está correta de acordo com a tradução entre parênteses?
 
 a) Modem country (país moderno)
 
@@ -141,13 +137,12 @@ c) Cargo ship (navio de carga / cargueiro)
 
 d) Container standard (contêiner padrão)
 
-Item. 4. Desembaralhe as palavras para formar uma sentença.
+4. Desembaralhe as palavras para formar uma sentença.
 
 Asian / countries / import / important / goods / Brazilian / from / and / European /
 companies
 
-Item. 5. Qual alternativa traz as palavras que preenchem as lacunas, respectivamente?
-
+5. Qual alternativa traz as palavras que preenchem as lacunas, respectivamente?
 
 Traffic in Brazil isorganized. Traffic is good in big
 cities. Cars, trucks and
@@ -174,9 +169,9 @@ Gabarito:
 
 5) a
 
-Item. 7.2. Formação dos Adjetivos:
+7.2. Formação dos Adjetivos:
 
-Item. 1.2.1. Formação pelo Gerúndio
+1.2.1. Formação pelo Gerúndio
 
 Os adjetivos que são formados pelo gerúndio vêm a terminação ING e são
 usados para
@@ -189,8 +184,7 @@ Ele nasceu numa família de classe trabalhadora.
 That book is not as interesting as this one.
 Aquele livro não é tão interessante como esse.
 
-Item. 1.2.2. Formação por Sufixos
-
+1.2.2. Formação por Sufixos
 
 Os sufixos FUL, ABLE e LESS também são usados para transformar um substantivo em adjetivo.
 
@@ -205,7 +199,7 @@ A evidência sugere que eles estão sendo descuidados/negligentes com o
 dinheiro dos
 contribuintes.
 
-Item. 1.2.3. Formação pelo Particípio
+1.2.3. Formação pelo Particípio
 
 Os adjetivos que são formados pelo particípio vêm a terminação ED e são usados para
 descrever
@@ -238,7 +232,6 @@ cansativo)
 BORING (chato, entediante, ou seja, causa tédio) - BORED (entediado,
 ou seja, é a
 consequência de algo entediante)
-
 
 EXCITING (excitante, empolgante, ou seja, causa empolgação) - EXCITED (animado, ou seja,
 é a
@@ -287,7 +280,6 @@ j) My brother is so (exciting / excited) because he is going on holiday tomorrow
 
 Gabarito:
 
-
 a) Desculpe-me, eu não posso ir esta noite. Estou completamente exausto
 (exhausted) porque
 eu fiz um teste hoje e o teste foi cansativo (exhausting)!
@@ -315,13 +307,13 @@ i) Vamos de avião? É muito empolgante (exciting)!
 
 j) Meu irmão está tão empolgado/animado (excited) porque ele vai sair de férias amanhã.
 
-Item. 1.3. Craus dos Adjetivos: Comparativos e Superlativos
+1.3. Craus dos Adjetivos: Comparativos e Superlativos
 
 Os graus dos adjetivos dividem-se em comparativo e superlativo. O grau comparativo (ou
 graus
 de comparação) se divide em inferioridade, igualdade e superioridade, vejamos:
 
-Item. 1.3.1. Comparativo de Inferioridade
+1.3.1. Comparativo de Inferioridade
 
 O grau de comparação de inferioridade expressa a inferioridade de um elemento em
 relação a
@@ -332,7 +324,6 @@ Less (menos) + Adjetivo + than (do que)
 Joan is less tall than Mary.
 Joana é menos alta que Maria.
 
-
 The fact that one marís violence is less frequent or less intense than another's does
 not make it
 excusable.
@@ -341,7 +332,7 @@ O fato de a violência de um homem ser menos frequente ou menos intensa do que a
 outro
 não torna seu comportamento justificável.
 
-Item. 1.3.2. Comparativo de Igualdade
+1.3.2. Comparativo de Igualdade
 
 O grau de comparação de igualdade expressa a igualdade de um elemento em relação a
 outro.
@@ -366,7 +357,7 @@ Manchetes recentes relatam que a ingestão de ovos pode ser tão prejudicial
 para as artérias
 quanto fumar cigarros.
 
-Item. 1.3.3. Comparativo de Superioridade
+1.3.3. Comparativo de Superioridade
 
 O grau de comparação de superioridade expressa a superioridade de um elemento em
 relação a
@@ -376,7 +367,6 @@ observe os exemplos abaixo:
 
 The weather today is very cold. It is colder than yesterday.
 O clima hoje está muito frio. Está mais frio que ontem.
-
 
 The question number 23 was easy. It was easier than the question 22.
 A questão 23 foi fácil. Foi mais fácil que a questão 22.
@@ -415,11 +405,10 @@ Aquele anel é mais caro que este livro.
 The sofa is more comfortable than the chair.
 O sofá é mais confortável que a cadeira.
 
-
 The question 22 is more difficult than the question 23.
 A questão 22 é mais difícil que a questão 23.
 
-Item. 1.3. 4. Grau Superlativo: Superioridade e Inferioridade
+1.3. 4. Grau Superlativo: Superioridade e Inferioridade
 
 O grau Superlativo de Superioridade (Superlative of Superiority) expressa a superioridade
 de um
@@ -461,7 +450,6 @@ feito acrescentando-se as terminações EST ou IEST, ou o MOST, veja abaixo.
 This is the best course in Brazil.
 Este é o melhor curso no Brasil.
 
-
 lt was the worst weather I have ever experienced.
 Foi o pior clima que já vivenciei.
 
@@ -476,7 +464,6 @@ Veja abaixo um quadro resumo dos graus dos adjetivos que vimos na aula e outros
 principais
 adjetivos que sempre caem em textos em concursos.
 
-
 Adjetivo
 
 Comparativo de Superioridade
@@ -488,20 +475,17 @@ worse than (pior que)
 
 the worst (o pior)
 
-
 big (grande)
 
 bigger than (maior que)
 
 the biggest (o maior)
 
-
 cold (frio)
 
 colder than (mais frio que)
 
 the coldest (o mais frio)
-
 
 comfortable (confortável)
 
@@ -511,7 +495,6 @@ more comfortable than
 the most comfortable
 (o mais confortável)
 
-
 difficult (difícil)
 
 more difficult than (mais difícil
@@ -520,13 +503,11 @@ que)
 the most difficult (o mais
 difícil)
 
-
 easy (fácil)
 
 easier than (mais fácil que)
 
 the easiest (o mais fácil)
-
 
 expensive (caro)
 
@@ -536,7 +517,6 @@ caro que)
 the most expensive (o mais
 caro)
 
-
 far (longe)
 
 farther/further than (mais
@@ -545,20 +525,17 @@ longe que)
 the farthest/furthest (o mais
 longe)
 
-
 good (bom)
 
 better than (melhor que)
 
 the best (o melhor)
 
-
 happy (feliz)
 
 happier than (mais feliz que)
 
 the happiest (o mais feliz)
-
 
 healthy (saudável)
 
@@ -568,7 +545,6 @@ que)
 the healthiest (o mais
 saudável)
 
-
 important (importante)
 
 more important than (mais
@@ -576,7 +552,6 @@ importante que)
 
 the most important (o mais
 importante)
-
 
 pretty (bonito)
 
@@ -601,17 +576,15 @@ FUNDO!
 
 EXERCÍCIOS
 
-Item. 1. Observe o exemplo, depois escreva e traduza as sentenças utilizando os
+1. Observe o exemplo, depois escreva e traduza as sentenças utilizando os
 adjetivos nos
 parênteses.
 
 a) Helen is Rob. (young)
 
-
 Helen is younger than Bob. (Helen é mais jovem do que Bob.)
 
 b) Oranges arelemons. (sweet)
-
 
 c) Buenos Aires is
 d) Enqlish is
@@ -638,7 +611,7 @@ e) Lisa é mais inteligente do que seu chefe. - Lisa is more intelligent than he
 
 f) O Brasil é maior que a Alemanha. - Brazil is bigger than Germany.
 
-Item. 2. Traduza as seguintes sentenças. Observe o sufixo "-est" utilizado.
+2. Traduza as seguintes sentenças. Observe o sufixo "-est" utilizado.
 
 a) Brazil is the biggest country in South América.
 
@@ -658,12 +631,11 @@ b) O professor é o mais alto na aula.
 
 c) Português é o idioma mais difícil do mundo.
 
-
 d) Minha filha é a garota mais linda na cidade.
 
 e) Minha mãe é a mulher mais baixa na minha família.
 
-Item. 3. Traduza as seguintes sentenças.
+3. Traduza as seguintes sentenças.
 
 a) Faith is as important as endurance.
 
@@ -698,7 +670,6 @@ f) Eu não sou tão famoso quanto o Pelé.
 g) Eu acho que uma Mercedes é tão cara quanto uma BMW ou Porsche.
 
 h) Alemão é tão difícil quanto português.
-
 
 ADVÉRBIoS
 
@@ -742,7 +713,6 @@ The car is completely below the rain. (How below the rain is the car? ~
 completely) -
 modificou o advérbio de lugar below.
 
-
 O carro está completamente debaixo de chuva. (Quão debaixo da chuva está o
 carro? ~
 completamente)
@@ -763,7 +733,7 @@ Probably, you can borrow my car on Saturday.
 
 Provavelmente, você pode pegar emprestado meu carro no Sábado.
 
-Item. 2.7. Advérbios de Tempo
+2.7. Advérbios de Tempo
 
 Os advérbios de tempo indicam quando algo aconteceu ou acontecerá. Eles
 expressam um
@@ -780,8 +750,7 @@ No exemplo abaixo, a primeira frase é uma locução adverbial de tempo.
 After we had dinner, we played cards.
 Depois que jantamos, jogamos cartas.
 
-
-Item. 2.2. Advérbios de Lugar
+2.2. Advérbios de Lugar
 
 Os advérbios de lugar indicam onde algo acontece. Eles não modificam
 adjetivos ou outros
@@ -798,7 +767,7 @@ The tunnel was constructed below the ground.
 
 O túnel foi construído abaixo da superfície do solo.
 
-Item. 2.3. Advérbios de Modo
+2.3. Advérbios de Modo
 
 Para reconhecer que um advérbio é de modo, faça a pergunta How (como), e
 observe a
@@ -817,7 +786,6 @@ Sempre
 analise o contexto pois algumas delas podem ser adjetivo em alguns casos e
 em outros são
 advérbios:
-
 
 lOMt
 NOTA!
@@ -853,7 +821,6 @@ na terceira frase hardly é advérbio. Porém, memorize seu significado para nã
 com o
 hard. Aprenda essa diferença entre essas palavras pois sempre aparecem em provas.
 
-
 Atenção! Algumas palavras que terminam em -ly deve se analisar o contexto para ver se
 são
 adjetivos ou advérbios.:
@@ -874,7 +841,7 @@ person
 
 (pessoa). Na segunda frase ela é um advérbio pois descreve um verbo: treat (tratar).
 
-Item. 2.4. Advérbios de Frequência
+2.4. Advérbios de Frequência
 
 Os advérbios de frequência são usados para para indicar o quão frequentemente as coisas
 acontecem. Observe os mais usados:
@@ -889,7 +856,6 @@ Nunca perdemos uma reunião.
 It is sometimes difficult to find shelter for the night.
 
 Às vezes é difícil de encontrar um lugar para passar a noite.
-
 
 CURIOSIDADE
 
@@ -917,11 +883,10 @@ Alguns sinônimos de everyday são: ordinary (normal), commonplace (corriqueiro)
 de
 sempre), run-of-the-mill (habitual).
 
-Item. 2.5. Advérbios Interrogativos
+2.5. Advérbios Interrogativos
 
 Os advérbios interrogativos Why (Por que), Where (Onde), How (Como) e When (Quando) são
 usados para fazer perguntas. Eles são posicionados no início da frase.
-
 
 Why are we sitting here?
 
@@ -955,7 +920,6 @@ g) late
 h) low
 i) monthly
 
-
 Gabarito:
 
 a) Intimamente.
@@ -978,7 +942,7 @@ existe.
 
 i) Pode significar tanto "MENSAL" quanto "MENSALMENTE".
 
-Item. 2.6. Locução Adverbial
+2.6. Locução Adverbial
 
 Os Advérbios simples, são formados por uma só palavra, como here (aqui), sometimes (às
 vezes), mas existe também as chamadas locuções adverbiais (Adverbial Phrases), como in this
@@ -1000,7 +964,6 @@ modais ou comparativos.
 
 Never before have we felt so united with them.
 
-
 Nu nca nos sentimos tão perto deles.
 
 Há inversão obrigatória da posição do verbo quando a frase começar com um dos
@@ -1020,13 +983,11 @@ Dúvida maybe e perhaps (talvez), possibly (possivelmente)
 
 Frequência daily (diariamente), often (frequentemente), rarely (raramente)
 
-
 Intensidade
 enough (suficiente), rather (bastante), equally (igualmente),
 thoroughly (completamente)
 
 Interrogação how (como), when (quando), why (por que) where (onde)
-
 
 Lugar
 above (acima), below (abaixo), nowhere (em parte alguma), there
@@ -1036,13 +997,11 @@ Modo faithfully (fielmente), fast (rápido), steadily (firmemente)
 
 Negação no longer (não mais), never (nunca)
 
-
 Ordem
 firstly (primeiramente), secondly (em segundo lugar) thirdly (em
 terceiro lugar)
 
 Tempo already (já), shortly (em breve), tomorrow (amanhã)
-
 
 PREFIXoS
 
@@ -1083,7 +1042,6 @@ A decisão dele foi injusta e inaceitável.
 The unwanted approval of men is exhausting to deal with. (The Guardian)
 A aprovação indesejada de homens é algo cansativo de se lidar.
 
-
 Outros prefixos e seus exemplos:
 
 A (falta de) amoral (falta de moral), atheist (ateu)
@@ -1104,7 +1062,6 @@ SUB (abaixo) subdue (subjugado), subconscious (subconsciente)
 
 TELE (distante) television (televisão) telescope (telescópio)
 
-
 SUFIXoS
 
 Os sufixos (suffixes) na Língua Inglesa têm a função similar que os sufixos na Língua Portuguesa.
@@ -1114,11 +1071,11 @@ significados. Mas, por que aprender sobre os sufixos? Pois eles são de grande i
 que podem modificar as classes das palavras. Observe abaixo alguns dos sufixos mais
 importantes:
 
-Item. 4.1. O Sufixo INC
+4.1. O Sufixo INC
 
 Existem vários casos em que o sufixo ING é usado. Compare os exemplos abaixo:
 
-Item. 4.1.1. Na função de verbo:
+4.1.1. Na função de verbo:
 
 Ele é usado no tempo verbal que em Inglês se chama Present Participle, esse tempo
 inclui
@@ -1129,7 +1086,7 @@ She is tired because she was walking very fast.
 
 Ela está cansada por que ela estava andando muito rápido.
 
-Item. 4.1.2. No Gerúndio:
+4.1.2. No Gerúndio:
 
 O Gerúndio é quando um verbo com a terminação ING é usado no papel de substantivo. Um
 desses casos é quando o verbo com o sufixo ING é usado depois de uma preposição, a palavra
@@ -1140,7 +1097,6 @@ She is tired of walking.
 Ela está cansada de andar.
 
 Em outros casos o Gerúndio aparece depois de certos verbos:
-
 
 She avoids walking too fast.
 Ela evita andar muito rápido.
@@ -1154,7 +1110,7 @@ Walking in the morning is a nice exercise.
 
 Caminhar de manhã é um bom exercício.
 
-Item. 4.1.3. Como Adjetivo:
+4.1.3. Como Adjetivo:
 
 O sufixo ING pode transformar um verbo em adjetivo:
 
@@ -1176,8 +1132,7 @@ ESTA CM NA
 
 PROVA!
 
-
-Item. 4.2. O Sufixo LESS
+4.2. O Sufixo LESS
 
 O sufixo LESS é um dos mais importantes e mais usados na Língua Inglesa. O "less" é um tipo
 de sufixo que transforma um substantivo em adjetivo e passa a ideia de falta, ausência. Confira
@@ -1199,7 +1154,7 @@ measureless - incomensurável, imensurável, sem
 limites
 boundless - sem limites, ilimitado, infinito
 
-Item. 4.3. O Sufixo NESS
+4.3. O Sufixo NESS
 
 O Sufixo NESS também é importantíssimo e muito presente no vocabulário da Língua Inglesa.
 Ele transforma um adjetivo em substantivo abstrato. Observe alguns exemplos no quadro
@@ -1207,7 +1162,6 @@ abaixo:
 
 ATINCAO
 DECORE!
-
 
 boldness - coragem youthfulness -
 jovialidade
@@ -1246,7 +1200,6 @@ ENCE qualidade ou estado de: abstinence (abstinência)
 ENT aquele que faz alguma coisa: student (estudante)
 ESCENT em processo de: convalescent, adolescent
 
-
 ESS indica o gênero feminino: actress (atriz), poetess (poetiza)
 
 FUL cheio de: careful (cauteloso, cuidadoso), powerful (poderoso) useful (útil) beatiful (belo)
@@ -1259,7 +1212,6 @@ IST que acredita em: socialist (socialista)
 
 LOGY campo de estudo: biology (biologia), geology (geologia)
 OR, ER alguém que participa em: teacher (professor), actor (ator)
-
 
 RESUMo
 
@@ -1304,7 +1256,6 @@ entendimento do texto e a correta interpretação.
 
 * Outros tópicos importantes foram: significado e função de palavras.
 
-
 WOftA OC
 
 Dica da Ena: Procure conferir o gabarito somente depois de resolver as questões,
@@ -1317,7 +1268,7 @@ Auditor Fiscal de Tributos I - Tecnologia da Informação (TI) - Prefeitura
 de São
 Luís - MA - FCC - 2018
 
-Item. 98. Considere o texto abaixo.
+98. Considere o texto abaixo.
 
 "[AuditFile] is a great auditing tool and I love how I can log in while l'm at the
 client's office
@@ -1346,7 +1297,6 @@ our size. As a small firm who has had parts of their accounting practice in the 
 been a goal ofours to move our audit practice to the doud for quite some time."
 
 - Reviewer D
-
 
 "AuditFile is a cloud-based audit solution that lets firms track and manage every
 aspect of the
@@ -1394,7 +1344,6 @@ errada. Pois ele ainda não tem essa integração, é algo que está em andament
 (B) Segundo o comentário de D, com o AuditFile, sua empresa poderá finalmente transferir seus
 processos de contabilidade e auditoria para a nuvem.
 
-
 O comentário de D menciona uma pequena empresa que tem partes de sua prática contábil na
 nuvem há anos. Portanto, não se pode dizer que "finalmente" haverá essa tranferência, visto que
 já se tem partes dos processos na nuvem. Errada.
@@ -1432,7 +1381,6 @@ GABARITO: E
 WST( MAIS
 
 ATENÇAO!
-
 
 T ranslation
 
@@ -1479,7 +1427,6 @@ Kevin e sua equipe agregam um enorme valor à nossa pequena prática".
 
 - Crítico C
 
-
 "AuditFile.com has been amazing for our firm. It's not just a change in platform, but a change in
 the way we view our audit practice. We now have the reach and resources of firms several times
 our size. As a small firm who has had parts of their accounting practice in the cloud for years it's
@@ -1517,7 +1464,6 @@ mundo automatizado, integrado e baseado em nuvem em que os impostos e a contabil
 estão presentes há mais de uma década ".
 
 - Crítico E
-
 
 TEXTo 2
 
@@ -1562,7 +1508,6 @@ printing a blank check, and then assigning a phony payee after the fraudster has
 to themselves or someone else in on the scheme. This sort of fraud is relatively easy to detect -
 if there is an active audit trail being maintained and monitored.
 
-
 The audit trail doesn't just provide a mechanism for fraud detection, ...I... The
 presence of a
 carefully maintained and frequently monitored audit trail also acts as a powerful
@@ -1574,7 +1519,7 @@ help-avoid/)
 
 Comentários:
 
-Item. 99. Preenche corretamente a lacuna I apresentada no texto:
+99. Preenche corretamente a lacuna I apresentada no texto:
 
 (A) despite.
 
@@ -1587,7 +1532,7 @@ Item. 99. Preenche corretamente a lacuna I apresentada no texto:
 
 ESCLARECENDO!
 
-Item. 99. Preenche corretamente a lacuna I apresentada no texto:
+99. Preenche corretamente a lacuna I apresentada no texto:
 
 (A) despite. - apesar de
 
@@ -1602,7 +1547,6 @@ esperado. O Already geralmente, mas nem sempre, está na frente da frase do verb
 Também pode ser enfatizado no final da frase. Não é adequado para o espaço do texto. Errada.
 
 (C) instead. - ao invés de
-
 
 Instead é usado para indicar algo "no lugar de alguma coisa; em vez
 disso; como
@@ -1641,8 +1585,7 @@ GABARITO: E
 
 ATENTO!
 
-
-Item. 100. Segundo o texto,
+100. Segundo o texto,
 
 (A) um tipo de fraude mais difícil de ser detectado envolve emitir um cheque para si mesmo, mas
 lançá-lo com o nome de outro favorecido.
@@ -1657,7 +1600,7 @@ fraudes contábeis.
 (E) as fraudes contábeis são praticamente inevitáveis, mas um bom programa de monitoramento
 pode reduzi-las a 5% do faturamento de uma empresa.
 
-Item. 100. Segundo o texto,
+100. Segundo o texto,
 
 (A) um tipo de fraude mais difícil de ser detectado envolve emitir um cheque para si mesmo, mas
 lançá-lo com o nome de outro favorecido.
@@ -1680,7 +1623,6 @@ fraudes contábeis.
 Brought down to the levei of the individual organization, the average occupational
 fraud case
 amounts to $140,000 of lost revenue.
-
 
 Trazendo a informação para a esfera da organização individual, o valor médio nos casos
 de
@@ -1722,7 +1664,6 @@ an entry or change to your accounting records, your accounting software automati
 details for future reference. Who did what, when, how, and for how much? It's the
 job of the
 audit trail to make sure that story is always accessible.
-
 
 Senhoras e senhores, reintroduzindo sua velha amiga, mas subestimada: a humilde trilha
 de
@@ -1774,7 +1715,6 @@ precisely the same way as a video monitor, alarm system, or any other visible se
 
 (Adapted from: https://softwareconnect.com/accounting/4-catastrophes-a-good-audit-trail-can-
 help-avoid/)
-
 
 Mas, a trilha de auditoria não fornece apenas um mecanismo para detecção de fraude. A
 presença de uma trilha de auditoria cuidadosamente mantida e monitorada com freqüência
@@ -1857,7 +1797,6 @@ De acordo com o texto acima, a boneca
 
 (A) was designed to be a spy. - foi projetada para ser uma espiã.
 
-
 O texto diz que hackers maliciosos podem possivelmente usar a boneca para espionar outros.
 No entanto, esse não foi o objetivo pelo qual a boneca foi projetada. Errada.
 
@@ -1898,7 +1837,6 @@ linguagem natural.
 O segmento do texto acima deixa bem claro que essa é a opção correta.
 
 GABARITO: E
-
 
 QUESTÃO 21
 
@@ -1946,7 +1884,6 @@ Essa é a opção correta.
 Todas as definições apresentadas nas opções B, C, D e E são corretas para a palavra bill em
 outros contextos, não na frase desse texto analisado nessa prova. Erradas.
 
-
 GABARITO: A
 
 QUESTÃO 22
@@ -1989,7 +1926,6 @@ adjetivo. Portanto, ela não tem a mesma função da palavra em negrito dessa as
 
 (C) I forgot locking the door. - esqueci de trancar a porta.
 
-
 A palavra locking é um gerúndio que tem função de infinitivo na frase. A palavra "snooping" no
 texto tem a função de adjetivo. Portanto, ela não tem a mesma função da palavra em
 negrito
@@ -2031,7 +1967,6 @@ speech.
 
 (B) lt is possible to replace "we are able" with can without any alteration in the meaning and in
 grammatical correctness.
-
 
 (C) The word "ours" was chosen to avoid repetition of the word "servers". The sentence
 would
@@ -2078,7 +2013,6 @@ estaria gramaticalmente correta se reescrita: "[...] substituir seus servidores 
 
 A palavra "ours" na frase substitui o pronome "theirs", e não a palavra "servers". Errada.
 
-
 (D) The word "have" indicates possession in the context above. - A palavra "tem" indica posse
 no contexto acima.
 
@@ -2120,7 +2054,6 @@ The text above is called a
 (D) poem.
 
 (E) letter.
-
 
 QUESTÃO 24
 
@@ -2166,7 +2099,6 @@ De acordo com o significado do texto, escolha a alternativa correta.
 
 O texto não expressa "espera", mas sim ação. Errada.
 
-
 (B) The text is referring to Johny Walker's slogan: "Keep walking". - O texto está se referindo ao
 slogan de Johny Walker: "Continue andando".
 
@@ -2201,7 +2133,6 @@ falando apenas aos americanos. Além disso, ele não afirma que todos eles fazem
 sim apenas aqueles que continarem no caminho. Errada.
 
 GABARITO: D
-
 
 Translation
 
@@ -2247,7 +2178,6 @@ bisbilhotar ficaram aparentes. A boneca só ouve uma conversa quando um botão �
 e o áudio gravado é criptografado antes de ser enviado pela Internet, mas assim que um hacker
 tiver o controle da boneca, os recursos de privacidade poderão ser desativados.
 
-
 lt was the ease with which the doll was compromised that was most concerning. The information
 stored by the doll could allow hackers to take over a home Wi-Fi network and from
 there gain
@@ -2290,7 +2220,6 @@ FUNDO!
 
 Zll
 
-
 TEXTO 4
 
 Agente da Fiscalização Financeira - TCE-SP - FCC
@@ -2322,7 +2251,7 @@ source code at no additional cost.
 
 Comentários:
 
-Item. 23. A palavra que preenche corretamente a lacuna (I), no texto, é:
+23. A palavra que preenche corretamente a lacuna (I), no texto, é:
 
 (A) so.
 
@@ -2333,10 +2262,9 @@ Item. 23. A palavra que preenche corretamente a lacuna (I), no texto, é:
 (D) and.
 (E)then
 
-Item. 23. A palavra que preenche corretamente a lacuna (I), no texto, é:
+23. A palavra que preenche corretamente a lacuna (I), no texto, é:
 
 Opção A: so = então
-
 
 So = assim, desse modo, então, consequentemente
 
@@ -2373,7 +2301,6 @@ But = mas, porém, contudo
 We do have a generic one of these forms (but) because of so many different state requirements
 we recommend that you have this done by your Attorney and approved by your state governing
 body.
-
 
 Nós temos um genérico dessas formas (mas) por causa de tantas exigências estaduais diferentes,
 recomendamos que você tenha isto feito por seu advogado e aprovado pelo seu órgão estadual
@@ -2413,10 +2340,9 @@ diferentes, recomendamos que você tenha isto feito por seu advogado e aprovado 
 
 O advérbio de consequência then não cai bem e dificulta a compreensão textual, opção errada.
 
-
 GABARITO: C
 
-Item. 24. No texto, track significa
+24. No texto, track significa
 
 (A) traçar.
 
@@ -2428,7 +2354,7 @@ Item. 24. No texto, track significa
 
 (E) contabilizar.
 
-Item. 24. No texto, track significa
+24. No texto, track significa
 
 Our Premium Finance Software allows you to track a note from its barest beginnings to the end.
 
@@ -2451,7 +2377,6 @@ track - seguir, acompanhar, monitorar o progresso
 O que o sistema faz é justamente isso, dar ao usuário condições de monitorar a transação desde
 o início até o seu desfecho. Esta é a opção correta, pois traduz perfeitamente o significado do
 verbo.
-
 
 Opção C: pagar.
 
@@ -2486,12 +2411,11 @@ questão
 como essa, tente deduzir pelo contexto e vá eliminando aquelas que deixam o
 texto confuso ou sem lógica.
 
-Item. 25. No texto, according to our customers, very user friendly significa que o sistema
+25. No texto, according to our customers, very user friendly significa que o sistema
 
 (A) foi desenvolvido de acordo com sugestões dos clientes.
 
 (B) é amigável por estar de acordo com os costumes do seu público alvo.
-
 
 (C) foi avaliado como muito amigável pelos clientes.
 
@@ -2499,9 +2423,9 @@ Item. 25. No texto, according to our customers, very user friendly significa que
 
 (E) ainda não foi testado com os usuários ideais.
 
-Item. 25. No texto, according to our customers, very user friendly significa que o sistema
+25. No texto, according to our customers, very user friendly significa que o sistema
 
-Item. 25. No texto, de acordo com nossos clientes, muito amigável significa que o sistema
+25. No texto, de acordo com nossos clientes, muito amigável significa que o sistema
 
 The system is Menu driven and according to our customers, very user friendly. Once
 your
@@ -2533,7 +2457,6 @@ according to our customers - segundo/de acordo com os nossos clientes
 
 Exatamente. Como mostra o parágrafo acima, esta é a interpretação correta.
 
-
 Opção D: funciona a partir de abas numa barra de ferramentas.
 
 Embora o texto mencione que o usuário acessa um menu de informações ou abas, não é isto
@@ -2546,7 +2469,7 @@ ideais, não seria considerado amigável por eles. Errada.
 
 GABARITO: C
 
-Item. 26. Segundo o texto,
+26. Segundo o texto,
 
 (A) estados dos Estados Unidos têm requisitos próprios para o Premium Finance Agreement.
 
@@ -2562,7 +2485,7 @@ Estado.
 (E) o sistema oferece instruções gerais para elaborar o Premium Finance Agreement de acordo
 com a legislação vigente em cada estado.
 
-Item. 26. Segundo o texto,
+26. Segundo o texto,
 
 Opção A: estados dos Estados Unidos têm requisitos próprios para o Premium Finance
 Agreement.
@@ -2574,7 +2497,6 @@ body.
 Nós temos um genérico dessas formas, mas por causa de tantas exigências estaduais diferentes,
 recomendamos que você tenha isto feito por seu advogado e aprovado pelo seu órgão estadual
 de governo.
-
 
 O parágrafo acima deixa bem claro que realmente os estados tem os seus próprios
 requisitos
@@ -2622,7 +2544,6 @@ required is the Premium Finance Agreement.
 Há, então, as seleções de menu para imprimir estes avisos e cartas. O único formulário solicitado
 pré-impresso é o Acordo de Finanças Premium.
 
-
 Não, ele é preenchido eletronicamente. Opção errada.
 
 Opção E: o sistema oferece instruções gerais para elaborar o Premium Finance Agreement de
@@ -2641,7 +2562,7 @@ contrate um advogado para elaborá-lo. Errada.
 
 GABARITO: A
 
-Item. 27. Infere-se, a partir do texto, que
+27. Infere-se, a partir do texto, que
 
 (A) o Premium Finance Software imprime balanços automaticamente ao final de cada mês.
 
@@ -2655,14 +2576,13 @@ código-fonte.
 (E) cada nota pode ser marcada de acordo com as providências que devem ser tomadas em
 relação a ela.
 
-Item. 27. Infere-se, a partir do texto, que
+27. Infere-se, a partir do texto, que
 
 Opção A: o Premium Finance Software imprime balanços automaticamente ao final de cada mês.
 
 It is fully integrated with general ledger and the ledger allows you to print balance
 sheets and
 income statements at any time during the month.
-
 
 É totalmente integrado com contabilidade geral e o livro razão permite imprimir folhas
 de
@@ -2711,7 +2631,6 @@ code at no additional cost.
 Nosso sistema é escrito em um Programa de Gerenciamento de Banco de Dados e nós
 fornecemos a você o código fonte completo, sem nenhum custo adicional.
 
-
 A opção está expressando o oposto da informação textual, pois não há nenhum custo
 extra.
 Errada.
@@ -2753,7 +2672,6 @@ GABARITO: E
 PRESTE MMS
 
 ATENÇAO!
-
 
 Translation
 
@@ -2797,7 +2715,6 @@ required is the Premium Finance Agreement.
 Há, então, as seleções de menu para imprimir estes avisos e cartas. O único formulário solicitado
 pré-impresso é o Acordo de Finanças Premium.
 
-
 We do have a generic one of these forms but because of so many different state requirements
 we recommend that you have this done by your Attorney and approved by your state governing
 body.
@@ -2825,7 +2742,7 @@ Algorithms",
 
 T.H. Cormen, C.E. Leiserson, R.L. Rivest e C. Stein. The MIT Press, Third Edition, 2009.
 
-Item. 21. Na frase: "No single data structure works well for all purposes, and so it is
+21. Na frase: "No single data structure works well for all purposes, and so it is
 important to
 know the strengths and limitations of several of them." uma tradução adequada para a palavra
 strengths, dentro do contexto, é:
@@ -2838,10 +2755,9 @@ strengths, dentro do contexto, é:
 
 (D) facilidade
 
-
 (E) vantagens
 
-Item. 21. Na frase: "No single data structure works well for all purposes, and so it is
+21. Na frase: "No single data structure works well for all purposes, and so it is
 important to
 know the strengths and limitations of several of them." uma tradução adequada para a palavra
 strengths, dentro do contexto, é:
@@ -2874,11 +2790,10 @@ strength nesse texto.
 
 GABARITO: B
 
-Item. 22. Analise a seguinte frase:
+22. Analise a seguinte frase:
 
 "lf computers were infinitely fast, any correct method for solving a problem would do."
 A ideia que ela transmite é de que
-
 
 (A) como atualmente os computadores são extremamente rápidos, descobre-se com rapidez um
 método de revolver problemas.
@@ -2895,7 +2810,7 @@ problema serviria.
 métodos
 corretos de resolução de problemas.
 
-Item. 22. Analise a seguinte frase:
+22. Analise a seguinte frase:
 
 " lf computers were infínitely fast, any correct method for solving a problem would do."
 
@@ -2926,7 +2841,6 @@ problema serviria."
 
 A opção expressa exatamente o que diz a frase do enunciado. Esta é a opção correta.
 
-
 (D) se alguém possuísse um computador infinitamente rápido, resolveria qualquer problema.
 
 A tradução dessa frase está errada, pois o sujeito da frase é para ser computadores
@@ -2941,7 +2855,7 @@ A frase original não fala sobre descobrir métodos, mas sim usá-los. Opção e
 
 GABARITO: C
 
-Item. 23. Analise a texto a seguir:
+23. Analise a texto a seguir:
 
 " Analyzing an algorithm has come to mean predicting the resources that the algorithm requires.
 Occasionally, resources such as memory, communication bandwidth, or computer hardware are
@@ -2963,8 +2877,7 @@ memória necessária.
 (E) o que mais influencia no comportamento dos algoritmos são os recursos memória, largura de
 banda de comunicação e hardware do computador.
 
-Item. 23. Analise a texto a seguir:
-
+23. Analise a texto a seguir:
 
 "Analyzing an algorithm has come to mean predicting the resources that the algorithm requires.
 Occasionally, resources such as memory, communication bandwidth, or computer hardware are
@@ -3004,7 +2917,6 @@ A opção expressa corretamente o diz o texto. Esta é a opção correta.
 memória necessária. E (E) o que mais influencia no comportamento dos algoritmos são os
 recursos memória, largura de banda de comunicação e hardware do computador.
 
-
 Occasionally, resources such as memory, communication bandwidth, or computer hardware
 are of primary concern, but most often it is computational time that we want to measure.
 
@@ -3019,7 +2931,7 @@ importa ou influencia quanto aos algoritmos. Opções Erradas.
 
 GABARITO: C
 
-Item. 24. Analise a texto a seguir:
+24. Analise a texto a seguir:
 
 "In 1968, Knuth published the fírst of three volumes with the general title The Art
 of Computer
@@ -3039,7 +2951,7 @@ De acordo com o texto, o primeiro volume da série de livros publicada por Knuth
 
 (E) organizou os estudos modernos sobre algoritmos.
 
-Item. 24. Analise a texto a seguir:
+24. Analise a texto a seguir:
 
 "In 1968, Knuth published the fírst of three volumes with the general title The Art
 of Computer
@@ -3047,7 +2959,6 @@ Programming. The fírst volume ushered in the modern study of computer algorithm
 focus on the analysis of running time, and the full series remains an engaging and
 worthwhile
 reference for many ofthe topics presented here."
-
 
 "Em 1968, Knuth publicou o primeiro de três volumes com o título geral The Art of
 Computer
@@ -3081,8 +2992,7 @@ A opção traduz corretamente o significado do verbo do texto. Esta é a opção
 
 GABARITO: D
 
-Item. 25. Analise a texto a seguir:
-
+25. Analise a texto a seguir:
 
 "Algorithms may require several different types of operations to be performed on sets.
 For
@@ -3108,7 +3018,7 @@ complexas para um algoritmo.
 (E) um dicionário é um conjunto dinâmico que suporta operações como inserir, apagar e testar
 elementos em/de um conjunto.
 
-Item. 25. Analise a texto a seguir:
+25. Analise a texto a seguir:
 
 "Algorithms may require several different types of operations to be performed on sets.
 For
@@ -3130,7 +3040,6 @@ Algorithms may require several different types of operations to be performed on 
 
 Os Algoritmos podem necessitar de vários tipos diferentes de operações a serem realizadas em
 conjuntos.
-
 
 O verbo modal may nesse contexto indica uma possibilidade. Portanto, não se pode afirmar que
 os algoritmos sempre necessitam de vários tipos de operações. Errada.
@@ -3167,7 +3076,6 @@ Chamamos um conjunto dinâmico que suporta estas operações um dicionário.
 A opção expressa com clareza o que diz o texto. Esta é a opção correta.
 
 GABARITO: E
-
 
 HQW
 
@@ -3209,7 +3117,6 @@ to communicate directly with people. If you can, you should get them to pause an
 consider
 several questions first:
 
-
 * What are your objectives?
 
 * Who's your target audience?
@@ -3235,7 +3142,7 @@ communications-tool, retrieved on September 24th, 2008)
 
 Comentários:
 
-Item. 31. As regards YouTube, the author believes one should be
+31. As regards YouTube, the author believes one should be
 
 (A) wanton.
 
@@ -3246,7 +3153,6 @@ Item. 31. As regards YouTube, the author believes one should be
 (D) weary.
 
 (E) worried.
-
 
 PMSTEMNS
 ATENÇAO!
@@ -3284,7 +3190,6 @@ ausente, desconcertante
 O autor expõe no seu texto perguntas bem escolhidas que encorajam e ajudam o leitor a está
 provido de informações e ter embasamento suficiente para decidir se deve ou não usar o You-
 
-
 Tube, para que depois suas ações não se mostrem decepcionantes ou desconcertantes,
 portanto
 esta opção B exprime exatamente o oposto da intenção do autor e por isso está incorreta.
@@ -3317,7 +3222,6 @@ fazer perguntas antes de usar o You-Tube.
 
 weary = cansado, esgotado, exaustivo, fatigado, enfadonho, maçante, penoso
 
-
 Muito pelo contrário, na opinião do autor, o usuário do
 comunicação, não deve ser exaustivo ou extenuante, mas
 incorreta.
@@ -3336,7 +3240,6 @@ que atormenta,
 incomoda. E esta não é a opinião do autor sobre como o leitor deve ser.
 
 GABARITO: C
-
 
 32 When tools are viewed as "a silver bullet" (lines 4 and 5) this means they are
 as seen as being
@@ -3390,7 +3293,6 @@ até tema de um filme: Silver Bullet de Stephens King (1985). Agora que você sa
 origem do
 termo, toda vez que encontrá-lo, você se lembrará o que quer dizer.
 
-
 O termo silver bullet geralmente é usado quando se refere à expectativa de
 algum novo
 desenvolvimento tecnológico. Significa "arma infalível, solução garantida para
@@ -3441,7 +3343,6 @@ ferramentas como esta", está fazendo uma citação de algo, embora a palavra
 YouTube esteja
 sendo substituída pelo pronome this, você sabe que se faz referência a ele. Da mesma forma o
 
-
 Word e Excel são citados na frase desta opção A, como sendo exemplos de software.
 Portanto
 esta é a opção correta.
@@ -3486,13 +3387,11 @@ incorreta.
 
 GABARITO: A
 
-
 ESCLARECENDO!
 
 Segue abaixo um quadro com outras expressões idiomáticas com a palavra silver e verbos
 frasais
 com a palavra rush. Ambas as palavras foram estudadas nesse texto.
-
 
 Rush hour - hora de tráfego intenso, hora em
 que geralmente as pessoas estão apressadas
@@ -3501,7 +3400,6 @@ To be silver tongued- ser uma pessoa
 agradável, que se comunica de modo
 cativante
 
-
 Rush - apressar, precipitado, ímpeto, avanço,
 precipitar-se sobre
 
@@ -3509,7 +3407,6 @@ To be Bom with a silver spoon in your mouth
 
 - ter nascido rico, com uma excelente
 condição financeira
-
 
 Rush out - sair correndo, apressar-se a fim de
 resolver algo
@@ -3588,7 +3485,6 @@ pausa e considerar várias questões em primeiro lugar:
 
 * Você permitirá avaliações?
 
-
 * Will you let people embed the video?
 
 * Você deixará as pessoas incorporarem o vídeo?
@@ -3663,7 +3559,7 @@ drastically impact the quality of their digital marketing efforts."
 
 Comentários:
 
-Item. 27. According to the text, SMBs
+27. According to the text, SMBs
 
 (A) lack knowledge of their web-based systems.
 
@@ -3675,9 +3571,9 @@ Item. 27. According to the text, SMBs
 
 (E) must hire technical staff to accomplish the goals.
 
-Item. 27. According to the text, SMBs
+27. According to the text, SMBs
 
-Item. 27. De acordo com o texto, as PMEs
+27. De acordo com o texto, as PMEs
 
 (A) lack knowledge of their web-based systems. = (A) não têm conhecimento dos seus
 sistemas
@@ -3694,7 +3590,6 @@ realmente decolar
 para pequenas empresas - os pequenos negócios do mundo continuaram a ficar mais
 digitais e
 mais móveis.
-
 
 Muito pelo contrário, o texto mostra que as PMEs tem decolado nesse aspecto, ou seja,
 mais do
@@ -3745,7 +3640,6 @@ acontecendo com o seu RH, as suas vendas, seu engajamento da mídia social.
 
 Competitiveness = competitividade, competência, qualidade de ser empreendedor
 
-
 Os dois segmentos acima mostram que as pequenas empresas vão poder fazer análises como
 as
 grandes empresas e terão acesso a muito mais dados e com muito mais rapidez que
@@ -3762,7 +3656,7 @@ precisar de contratação de pessoal técnico. Opção errada.
 
 GABARITO: D
 
-Item. 28. According to the text, it is certain that
+28. According to the text, it is certain that
 
 (A) the most data were created over the past 2 years.
 
@@ -3774,9 +3668,9 @@ Item. 28. According to the text, it is certain that
 
 (E) by mining their own data, small firms take more risks.
 
-Item. 28. According to the text, it is certain that
+28. According to the text, it is certain that
 
-Item. 28. De acordo com o texto, é certo que
+28. De acordo com o texto, é certo que
 
 (A) the most data were created over the past 2 years.
 
@@ -3785,7 +3679,6 @@ Item. 28. De acordo com o texto, é certo que
 Jeff Judge, CEO of Signal, agrees. "According to IBM, 2.5 quintillion bytes of
 data are created
 daily, and 90% of the data in the world today were created within the past two years.
-
 
 Jeff Judge, CEO da Signal, concorda. "De acordo com a IBM, 2,5 quintilhões bytes de
 dados são
@@ -3832,8 +3725,7 @@ errada.
 
 GABARITO: A
 
-
-Item. 29. A expressão mom and pop em - the mom and pop shops of the world continued to
+29. A expressão mom and pop em - the mom and pop shops of the world continued to
 get
 more digital and more mobile. - refere-se
 
@@ -3847,11 +3739,11 @@ more digital and more mobile. - refere-se
 
 (E) à localização do estabelecimento
 
-Item. 29. A expressão mom and pop em - the mom and pop shops of the world continued to
+29. A expressão mom and pop em - the mom and pop shops of the world continued to
 get
 more digital and more mobile. - refere-se
 
-Item. 29. A Expressão mom e pop em - os pequenos negócios do mundo continuaram a ficar
+29. A Expressão mom e pop em - os pequenos negócios do mundo continuaram a ficar
 mais
 digitais e mais móveis. - refere-se
 
@@ -3872,7 +3764,7 @@ refere ao tamanho da empresa é a correta.
 
 GABARITO: C
 
-Item. 30. Os termos take off em - Over the course of 2011, we witnessed social media
+30. Os termos take off em - Over the course of 2011, we witnessed social media
 and location-
 based services really take off for small businesses. - implicam
 
@@ -3880,18 +3772,17 @@ based services really take off for small businesses. - implicam
 
 (B) redução.
 
-
 (C) escolha.
 
 (D) estagnação.
 
 (E) avanço.
 
-Item. 30. Os termos take off em - Over the course of 2011, we witnessed social media
+30. Os termos take off em - Over the course of 2011, we witnessed social media
 and location-
 based services really take off for small businesses. - implicam
 
-Item. 30. Os termos take off em - Ao longo de 2011, testemunhamos a mídia social e
+30. Os termos take off em - Ao longo de 2011, testemunhamos a mídia social e
 serviços de
 localização realmente atingir o sucesso para pequenas empresas - implicam
 
@@ -3919,7 +3810,7 @@ sucesso.
 
 GABARITO: E
 
-Item. 31. The term its in - Those tools give a one-man shop or a 50-person outfit
+31. The term its in - Those tools give a one-man shop or a 50-person outfit
 almost instantly the
 same firepower as a whole department with its own IT staff inside a multinational. - refers to
 
@@ -3931,14 +3822,13 @@ same firepower as a whole department with its own IT staff inside a multinationa
 
 (D) IT staff.
 
-
 (E) firepower.
 
-Item. 31. The term its in - Those tools give a one-man shop or a 50-person outfit
+31. The term its in - Those tools give a one-man shop or a 50-person outfit
 almost instantly the
 same firepower as a whole department with its own IT staff inside a multinational. - refers to
 
-Item. 31. O termo its em - Essas ferramentas dão a uma pequena loja ou a uma empresa
+31. O termo its em - Essas ferramentas dão a uma pequena loja ou a uma empresa
 de 50
 pessoas quase que instantaneamente o mesmo arsenal quanto um departamento
 inteiro com a
@@ -3978,8 +3868,7 @@ that small
 businesses have benefited from and predict how those technologies will affect
 entrepreneurs in
 
-
-Item. 2012. We spoke with a number of small businesses to get their thoughts on how the
+2012. We spoke with a number of small businesses to get their thoughts on how the
 market will
 continue to adapt to changing technologies as we move into the new year.
 
@@ -4061,7 +3950,6 @@ de mídia
 social em torno de sua marca para impactar drasticamente a qualidade de
 seus esforços de
 marketing digital. "
-
 
 MESTI MAIS
 ATENÇÃO!
@@ -4150,7 +4038,6 @@ tax
 tool
 instrument, methods
 
-
 ATENÇÃO!
 
 RESUMo
@@ -4181,7 +4068,6 @@ descontinuar, liberar;
 
 * mom and pop shop = pequeno negócio, pequena empresa
 
-
 FKXM
 ATENTO!
 
@@ -4192,7 +4078,7 @@ São Luís - MA
 
 -FCC-2018
 
-Item. 98. Considere o texto abaixo.
+98. Considere o texto abaixo.
 
 "[AuditFile] is a great auditing tool and I love how I can log in while
 l'm at the clienfs office
@@ -4240,7 +4126,6 @@ more than a
 decade."
 
 - Reviewer E
-
 
 (Adapted from: https://auditfile.com/)
 
@@ -4291,7 +4176,6 @@ As straightforward as the audit trail is, maintaining and monitoring it
 properly can keep your
 business out of some complicated messes, including fraud.
 
-
 The Association of Certified Fraud Examiners estimates that 5% of
 organizational revenues are
 lost to fraud. That's more than $3.5 trillion annually defrauded on a global basis.
@@ -4323,7 +4207,7 @@ precisely the same way as a video monitor, alarm system, or any other visible se
 https://softwareconnect.com/accounting/4-catastrophes-a-good-audit-trail-can-
 help-avoid/)
 
-Item. 99. Preenche corretamente a lacuna I apresentada no texto:
+99. Preenche corretamente a lacuna I apresentada no texto:
 
 (A) despite.
 
@@ -4335,7 +4219,7 @@ Item. 99. Preenche corretamente a lacuna I apresentada no texto:
 
 (E) though.
 
-Item. 100. Segundo o texto,
+100. Segundo o texto,
 
 (A) um tipo de fraude mais difícil de ser detectado envolve emitir um cheque para si
 mesmo, mas
@@ -4346,7 +4230,6 @@ lançá-lo com o nome de outro favorecido.
 (C) estima-se que, na média, uma empresa tenha uma perda anual de US$ 140.000,00
 devido a
 fraudes contábeis.
-
 
 (D) a ferramenta comentada possui mecanismos específicos para evitar fraudes contábeis.
 
@@ -4396,7 +4279,6 @@ spotlight. On
 its release in March privacy campaigners warned that a child's intimate
 conversations with their
 doll were being recorded and analysed and that it should not go on sale.
-
 
 With a Hello Barbie in the hands of a child and carried everywhere they and their
 parents
@@ -4449,7 +4331,6 @@ is
 (B) asking for help is always a good solution.
 
 (C) l forgot locking the door.
-
 
 (D) she was not convinced by him.
 
@@ -4505,7 +4386,6 @@ The text above is called a
 
 (D) poem.
 
-
 (E) letter.
 
 QUESTÃO 25
@@ -4552,7 +4432,7 @@ source code at no additional cost.
 
 (Adapted from http://64.233.169.104/search?q=cache:AAuV6Gmq8-QJ:www.inssoft.com/)
 
-Item. 23. A palavra que preenche corretamente a lacuna (I), no texto, é:
+23. A palavra que preenche corretamente a lacuna (I), no texto, é:
 
 (A) so.
 
@@ -4564,8 +4444,7 @@ Item. 23. A palavra que preenche corretamente a lacuna (I), no texto, é:
 
 (E) then
 
-
-Item. 24. No texto, track significa
+24. No texto, track significa
 
 (A) traçar.
 
@@ -4577,7 +4456,7 @@ Item. 24. No texto, track significa
 
 (E) contabilizar.
 
-Item. 25. No texto, according to our customers, very user friendly significa que o sistema
+25. No texto, according to our customers, very user friendly significa que o sistema
 
 (A) foi desenvolvido de acordo com sugestões dos clientes.
 
@@ -4589,7 +4468,7 @@ Item. 25. No texto, according to our customers, very user friendly significa que
 
 (E) ainda não foi testado com os usuários ideais.
 
-Item. 26. Segundo o texto,
+26. Segundo o texto,
 
 (A) estados dos Estados Unidos têm requisitos próprios para o Premium Finance Agreement.
 
@@ -4607,14 +4486,13 @@ Estado.
 acordo
 com a legislação vigente em cada estado.
 
-Item. 27. Infere-se, a partir do texto, que
+27. Infere-se, a partir do texto, que
 
 (A) o Premium Finance Software imprime balanços automaticamente ao final de cada mês.
 
 (B) além de todos os recursos oferecidos, o sistema também imprime notícias e cartas.
 
 (C) o sistema pode, opcionalmente, vir com o código fonte, mas esse tem um custo extra.
-
 
 (D) o sistema não permite que o usuário o adapte às suas necessidades, apesar de
 vir com o
@@ -4631,7 +4509,7 @@ As questões de números 21 a 25 utilizam frases extraídas do livro
 
 T.H. Cormen, C.E. Leiserson, R.L. Rivest e C. Stein. The MIT Press, Third Edition, 2009.
 
-Item. 21. Na frase: "No single data structure works well for all purposes, and so it is
+21. Na frase: "No single data structure works well for all purposes, and so it is
 important to know
 the strengths and limitations of several of them." uma tradução adequada para
 a palavra
@@ -4647,7 +4525,7 @@ strengths, dentro do contexto, é:
 
 (E) vantagens
 
-Item. 22. Analise a seguinte frase:
+22. Analise a seguinte frase:
 
 "lf computers were infinitely fast, any correct method for solving a problem would do."
 
@@ -4667,12 +4545,11 @@ problema serviria.
 
 (D) se alguém possuísse um computador infinitamente rápido, resolveria qualquer problema.
 
-
 (E) se os computadores fossem infinitamente rápidos, seria mais fácil
 descobrir os métodos
 corretos de resolução de problemas.
 
-Item. 23. Analise a texto a seguir:
+23. Analise a texto a seguir:
 
 "Analyzing an algorithm has come to mean predicting the resources that the algorithm
 requires.
@@ -4698,7 +4575,7 @@ memória necessária.
 largura de
 banda de comunicação e hardware do computador.
 
-Item. 24. Analise a texto a seguir:
+24. Analise a texto a seguir:
 
 "In 1968, Knuth published the first of three volumes with the general title The Art
 of Computer
@@ -4718,10 +4595,9 @@ De acordo com o texto, o primeiro volume da série de livros publicada por Knuth
 
 (D) inaugurou o estudo moderno de algoritmos de computador.
 
-
 (E) organizou os estudos modernos sobre algoritmos.
 
-Item. 25. Analise a texto a seguir:
+25. Analise a texto a seguir:
 
 "Algorithms may require several different types of operations to be performed
 on sets. For
@@ -4763,7 +4639,6 @@ communications woes. YouTube used to be primarily a great source for videos of m
 hurting themselves on skateboards. No longer. It's becoming a more common tool for corporate
 communications.
 
-
 Your management may want to rush out, jump into the deep end and start using YouTube
 to communicate directly with people. If you can, you should get them to
 pause and consider
@@ -4792,7 +4667,7 @@ some of these questions should already be part of your communications planning p
 (Adapted from http://davefleet.com/2008/03/8-questions-to-ask-before-usingyoutube-as-a-
 communications-tool, retrieved on September 24th, 2008)
 
-Item. 31. As regards YouTube, the author believes one should be
+31. As regards YouTube, the author believes one should be
 
 (A) wanton.
 
@@ -4801,7 +4676,6 @@ Item. 31. As regards YouTube, the author believes one should be
 (C) wary.
 
 (D) weary.
-
 
 (E) worried.
 
@@ -4853,7 +4727,6 @@ data.
 need tools to
 mine it, make sense of it and monetize it," says We Are Cloud CEO Rachel Delacour.
 
-
 "What will really matter for Small Businesses (SMBs) in 2012 is the fact they can,
 for the
 first time, mine their own business like the big guys, and do so quickly and
@@ -4878,7 +4751,7 @@ drastically impact the quality of their digital marketing efforts."
 
 (http://mashable.com/2011/12/23/small-business-predictions-2012. Adaptado)
 
-Item. 27. According to the text, SMBs
+27. According to the text, SMBs
 
 (A) lack knowledge of their web-based systems.
 
@@ -4890,7 +4763,7 @@ Item. 27. According to the text, SMBs
 
 (E) must hire technical staff to accomplish the goals.
 
-Item. 28. According to the text, it is certain that
+28. According to the text, it is certain that
 
 (A) the most data were created over the past 2 years.
 
@@ -4902,7 +4775,7 @@ Item. 28. According to the text, it is certain that
 
 (E) by mining their own data, small firms take more risks.
 
-Item. 29. A expressão mom and pop em - the mom and pop shops of the world
+29. A expressão mom and pop em - the mom and pop shops of the world
 continued to get
 more digital and more mobile. - refere-se
 
@@ -4910,14 +4783,13 @@ more digital and more mobile. - refere-se
 
 (B) ao grau de internacionalização do negócio.
 
-
 (C) ao tamanho da empresa.
 
 (D) à qualidade dos produtos.
 
 (E) à localização do estabelecimento
 
-Item. 30. Os termos take off em - Over the course of 2011, we witnessed social media and
+30. Os termos take off em - Over the course of 2011, we witnessed social media and
 location-
 based services really take off for small businesses. - implicam
 
@@ -4931,7 +4803,7 @@ based services really take off for small businesses. - implicam
 
 (E) avanço.
 
-Item. 31. The term its in - Those tools give a one-man shop or a 50-person outfit almost
+31. The term its in - Those tools give a one-man shop or a 50-person outfit almost
 instantly the
 same firepower as a whole department with its own IT staff inside a multinational. - refers to
 
@@ -4944,7 +4816,6 @@ same firepower as a whole department with its own IT staff inside a multinationa
 (D) IT staff.
 
 (E) firepower.
-
 
 GABARITO
 
@@ -4965,5 +4836,4 @@ Texto 5 21-B; 22-C; 23-C; 24-D; 25-E;
 Texto 6 31-C; 32-C; 33-A;
 
 Texto 7 27-D; 28-A; 29-C; 30-E; 31-B;
-
 

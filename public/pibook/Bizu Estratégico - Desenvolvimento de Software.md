@@ -1,5 +1,4 @@
-Capítulo. Bizu Estratégico - Desenvolvimento de Software.
-
+# Bizu Estratégico - Desenvolvimento de Software.
 
 Olá, prezado aluno. Tudo certo?
 
@@ -17,7 +16,6 @@ material bem curto e objetivo).
 
 Além disso, utilizamos os materiais do professor para
 elaborar esse
-
 
 Apresentação
 
@@ -40,9 +38,7 @@ Espero que gostem!
 
 Um grande abraço e bons estudos!
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 ANÁLISE ESTATÍSTICA
 
@@ -56,14 +52,12 @@ principais pontos em nossa revisão!
 
 Desenvolvimento de software - SERPRO
 
-
 Assunto Bizu
 
 Linguagens de programação. Java 1
 
 Caderno de Questões
 http://questo.es/lqv6nc
-
 
 PHP
 
@@ -73,13 +67,11 @@ Tecnologias e práticas frontend web: HTML
 
 3 http://questo.es/bcl7u8
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Desenvolvimento de software
 
-Item. 1. Linguagens de programação. Java
+1. Linguagens de programação. Java
 
 Java
 
@@ -95,7 +87,6 @@ CARACTERÍSTICA | DESCRIÇÃO
 
 Não contém redundâncias e é fácil de entender, implementar e usar. Parecida com
 
-
 CONCISA E SIMPLES
 
 C++ para facilitar compreensão por grande parte de programadores. É uma evolução
@@ -105,7 +96,6 @@ ORIENTADA A OBJETOS Suporta os principais conceitos de orientação a objetos. F
 reusabilidade.
 
 Altamente tipada. Programas são confiáveis. Reduz imprevistos em tempo de
-
 
 ROBUSTA
 
@@ -121,7 +111,6 @@ para desenvolver certas aplicações como device drivers*.
 
 CONCORRENTE Suporta aplicações concorrentes: multithreads, monitores, execução atômica.
 
-
 INDEPENDENTE DE
 PLATAFORMA
 
@@ -134,9 +123,7 @@ COMPILADA Utilizando compiladores, bytecodes podem ser traduzidos em tempo de
 execução
 para código de máquina.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 JAVA SE
 
@@ -190,9 +177,7 @@ APRESENTA BIBLIOTECAS
 ESPECÍFICAS PARA
 DISPOSITIVOS MÓVEIS.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 PASSAGEM DE PARÂMETROS POR VALOR
 
@@ -212,7 +197,6 @@ COPIAR QUANTIDADES DE DADOS POSSIVELMENTE GRANDES
 
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-
 MECANISMO QUE PERMITE QUE CARACTERÍSTICAS COMUNS
 A DIVERSAS CLASSES SEJAM FATORADAS EM UMA CLASSE
 BASE, OU SUPERCLASSE
@@ -222,14 +206,11 @@ CARACTERÍSTICAS DA CLASSE BASE
 
 JAVA OFERECE MECANISMOS PARA DEFINIR CLASSES DERIVADAS A PARTIR DE CLASSES EXISTENTES
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 MODIFICADORES | DESCRIÇÃD
 
 A classe e/ou seus membros são acessíveis somente por classes do mesmo pacote,
-
 
 DEFAULT OU PACKAGE
 
@@ -242,12 +223,10 @@ PUBLIC O código é acessível para todas as classes
 Membros da classe definidos como private não podem ser acessados ou usados por
 nenhuma outra classe. Esse modificador não se aplica às classes, somente para seus
 
-
 PRIVATE
 
 métodos e atributos. Esses atributos e métodos também não podem ser visualizados
 pelas classes herdadas.
-
 
 PROTECTED
 
@@ -255,9 +234,7 @@ O modificador protected torna o membro acessível às classes do mesmo pacote ou
 através de herança, seus membros herdados não são acessíveis a outras classes fora
 do pacote em que foram declarados.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 * PHP é uma linguagem de programação de scripts, interpretada, de alto nível,
 open-source,
@@ -272,7 +249,6 @@ PHP fica
 embutido dentro do código HTML!
 
 OPERADORES ARITMÉTICOS
-
 
 SIGNIFICADO
 IDENTIDADE
@@ -299,9 +275,7 @@ Resto de $a dividido por $b.
 
 Resultado de $a elevado a $ò.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo JürTO
-
 
 ANOTAÇÃO SIGNIFICADO
 DESCRIÇÃO
@@ -327,7 +301,6 @@ Um integer menor que, igual a ou maior que zero quando saé,
 respectiva mente, menor que, igual a ou maior que sb.
 
 OPERADORES INCREMENTAIS/DECREMENTAIS
-
 
 ANOTAÇÃO | SIGNIFICADO
 
@@ -358,11 +331,9 @@ Verdadeiro se sa não é verdadeiro.
 Verdadeiro se tanto sa quanto sb são verdadeiros.
 Verdadeiro se sa ou sb são verdadeiros.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
-Item. 3. Tecnologias e práticas frontend web: HTML
+3. Tecnologias e práticas frontend web: HTML
 
 Tecnologias e práticas frontend web: HTML
 
@@ -379,9 +350,7 @@ Tecnologias e práticas frontend web: HTML
 * Os elementos HTML rotulam partes do conteúdo como "isto é um título", "isto é um parágrafo",
 "isto é um link", etc.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 LINGUAGEM DE MARCAÇÃO PADRÃO PARA CRIAR PÁGINAS DA WEB
 DESCREVE A ESTRUTURA DE UMA PÁGINA DA WEB
@@ -415,9 +384,7 @@ Um elemento HTML é definido por uma tag inicial, algum conteúdo e uma tag fina
 elemento HTML
 é tudo, desde a tag inicial até a tag final:
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 < tagname > O conteúdo vai aqui... < /tagname >
 
@@ -457,12 +424,9 @@ elementos, e são sempre especificados na tag de início. Os atributos
 geralmente vêm em pares de
 nome/valor como: name="value".
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
-
 Propriedade CSS Descrição
-
 
 Background-color
 
@@ -486,7 +450,6 @@ Define o alinhamento horizontal do texto para um elemento HTML
 
 <I>TEXTD EM ITÁLICO
 
-
 <EM>
 
 01182426
@@ -503,9 +466,7 @@ Define o alinhamento horizontal do texto para um elemento HTML
 
 <SUP> TEXTO SOBRESCRITO
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 Abreviação Formato do arquivo
 Animated Portable Network Graphics
@@ -520,7 +481,6 @@ Microsoft Icon
 .ico, .cur
 
 Extensão
-
 
 Joint Photographic Expert Group
 image
@@ -549,9 +509,7 @@ Tag Descrição
 
 <picture> Define um contêiner para vários recursos de imagem.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
-
 
 <TABLE> DEFINE UMA TABELA
 
@@ -581,13 +539,10 @@ na página da Web atual e é comumente usado para incorporar vídeos, mapas
 e outros conteúdos
 interativos.
 
-
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
-
 
 Vamos ficando por aqui.
 
 Esperamos que tenha gostado do nosso Bizu!
 Bons estudos!
-
 

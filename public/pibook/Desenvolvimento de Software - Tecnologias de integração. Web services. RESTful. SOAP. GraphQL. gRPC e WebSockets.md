@@ -1,5 +1,4 @@
-Capítulo. Desenvolvimento de Software - Tecnologias de integração. Web services. RESTful. SOAP. GraphQL. gRPC e WebSockets.
-
+# Desenvolvimento de Software - Tecnologias de integração. Web services. RESTful. SOAP. GraphQL. gRPC e WebSockets.
 
 AVISO
 
@@ -11,5 +10,4 @@ apenas de videoaula.
 Bons estudos!
 
 Estratégia Concursos.
-
 

@@ -1,5 +1,4 @@
-Capítulo. Garantia da Segurança de Sistemas - Mecanismos de segurança. Criptografia.
-
+# Garantia da Segurança de Sistemas - Mecanismos de segurança. Criptografia.
 
 Índice
 
@@ -7,18 +6,13 @@ Capítulo. Garantia da Segurança de Sistemas - Mecanismos de segurança. Cripto
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
-
 Criptografia
-
 
 Substituição
 
-
 Transposição
 
-
 Esteganografia
-
 
 Cifragem de Bloco - Cipher Block.
 
@@ -31,73 +25,52 @@ b. Métodos de Decifragem de Dados.
 
 Criptografia Simétrica
 
-
 DES
 
-
 3 DES
-
 
 AES -Advanced Encryption Standard
 
 Criptografia Assimétrica
 
-
 Diffie-Hellman - DH
-
 
 RSA - Rivest, Shamir and Adelman
 
 El Gamai
 
-
 Funções HASH
 
 MD5
 
-
 MD4
-
 
 SHA
 
-
 EXERCÍCIOS COMENTADOS
 
-
 Criptografia
-
 
 EXERCÍCIOS COMENTADOS COMPLEMENTARES
 
-
 Criptografia
-
 
 LISTA DE EXERCÍCIOS
 
-
 Criptografia
-
 
 LISTA DE EXERCÍCIOS COMPLEMENTARES
 
-
 Criptografia
-
 
 GABARITO
 
-
 Gabarito CESPE
-
 
 Gabarito FCC
 
-
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital) 3
-
 
 Temos agora mais um assunto extremamente bacana. Na verdade, temos aqui uma relação
 de amor e ódio. Tenho percebido isso em meus alunos. Mas meu papel aqui é tornar o
@@ -138,9 +111,7 @@ dizer
 
 Outros termos gregos que aparecem nesse contexto são:
 
-
 " 4
-
 
 * Análysis = decomposição;
 
@@ -177,7 +148,6 @@ era substituída pelo correspondente a três letras depois no alfabeto.
 
 Assim, temos o exemplo abaixo da utilização dessa codificação:
 
-
 Texto
 simples
 
@@ -193,13 +163,11 @@ J k I m
 
 M N O P
 
-
 Texto
 simples
 n 0 P q
 r s t
 ü V W X y z
-
 
 Cifra
 
@@ -241,7 +209,6 @@ letras ou sílabas novas.
 
 * cêVo depo ler cilmentefa taes sagemmen?
 
-
 ESTEGANoGRAFIA
 
 Por último, temos a esteganografia que tem como objetivo esconder uma mensagem dentro
@@ -267,7 +234,6 @@ podemos generalizar e afirmar que a cifragem por bloco garante os princípios de
 segurança
 de forma geral.
 
-
 MDOMA1S
 FUNDO!
 
@@ -287,14 +253,12 @@ Chave —► Cifragem da
 
 Cifra de bloco
 
-
 Texto cifrado Texto cifrado Texto
 cifrado
 
 Ciíragem modo Eletronic Codebook - ECB
 
 Imagem original
-
 
 Texto cifrado Texto cifrado
 
@@ -303,7 +267,6 @@ Texto cifrado Texto cifrado
 Texto cifrado
 
 I
-
 
 Chave
 
@@ -320,13 +283,11 @@ Chave
 Cifragem da
 Cifra de bloco
 
-
 Texto claro
 
 Texto claro
 
 Texto claro
-
 
 Decifração modo Eletronic Codebiik - ECB
 
@@ -341,7 +302,6 @@ por ter transmissão segura de valores únicos.
 Como vantagem podemos citar o fato de que o erro de um bit causará prejuízo
 apenas no bloco o qual ele pertence, devido à independência dos blocos.
 
-
 MXJMAtS
 FUNDO!
 
@@ -351,7 +311,6 @@ FUNDO!
 representada na imagem a seguir pelo círculo em volta do sinal de "+".
 A cifragem de cada bloco depende da cifragem de todos os blocos
 anteriores.
-
 
 Tesco cifrado Testo cifrado Tesco
 cifrado
@@ -373,7 +332,6 @@ subsequentes. Depende que os blocos cheguem de forma sequencial
 para que não haja problema na decifração, perdendo no aspecto de
 desempenho quando comparado ao ECB. Além disso, um erro em
 qualquer bit ou bloco, gera prejuízo em todos os blocos subsequentes.
-
 
 MXJMAtS
 FUNDO!
@@ -397,7 +355,6 @@ Cjírâgem modo Cipher Feedback - CFB
 
 1 1
 
-
 Chave —+
 
 Cifragem da
@@ -412,7 +369,6 @@ Chave —+
 
 Cifragem da
 Cifra de bloco
-
 
 ( I
 
@@ -435,11 +391,9 @@ qualquer bit ou bloco, gera prejuízo em todos os blocos subsequentes.
 A diferença básica para o CBC é o ponto de junção entre o texto cifrado
 anterior e o novo texto.
 
-
 X 86
 
 /
-
 
 Destaco ainda a existência do modo OFB (Output Feedback), que segue o mesmo princípio
 do CFB, com a diferença de que a realimentação é feita pela saída do algoritmo e
@@ -486,11 +440,10 @@ de criptoanálise, entretanto, dificulta o trabalho de responsáveis por realiza
 auditorias em
 dados criptografados, como é o caso de peritos em forense computacional.
 
-
 Podemos observar três contextos básicos para dados criptografados, quais sejam: arquivos
 criptografados, discos virtuais criptografados e discos complemente criptografados.
 
-Item. 1. Arquivos Criptografados
+1. Arquivos Criptografados
 
 Nesse primeiro contexto, tem-se a criptografia aplicada somente ao
 conteúdo de
@@ -512,7 +465,7 @@ Para se identificar arquivos criptografados pode-se utilizar testes de entropia 
 de
 aleatoriedade) ou ainda assinaturas e marcados específicos no cabeçalho desses arquivos.
 
-Item. 2. Discos Virtuais Criptografados
+2. Discos Virtuais Criptografados
 
 Nesse contexto, utiliza-se um arquivo-contêiner devidamente criptografado em que, a partir
 da sua decriptação, gera-se um disco virtual com sistema de arquivos próprio.
@@ -534,8 +487,7 @@ Mais uma vez, os testes de entropia ajudam a identificar arquivos-contêiner. Po
 disco virtual próprio, geralmente possuem tamanhos consideráveis, na ordem de gigabytes,
 e com conteúdo ininteligível por causa da criptografia.
 
-
-Item. 3. Discos Completamente Criptografados
+3. Discos Completamente Criptografados
 
 Quando assistimos filmes em geral que abordam essa temática, nos deparamos por
 diversas vezes em que policiais recuperam computadores de criminosos e quando
@@ -577,23 +529,22 @@ A partir daí, podemos elencar cincos tipos de ataques, que recorrentemente
 caem em
 provas, quais sejam:
 
-Item. 1. Apenas Texto Cifrado - CypherText-Only: Nesse contexto, há conhecimento
+1. Apenas Texto Cifrado - CypherText-Only: Nesse contexto, há conhecimento
 apenas do algoritmo de criptografia utilizado e do próprio texto cifrado;
 
-
-Item. 2. Texto Claro Conhecido - Known-plaintext: Além dos itens acima, o atacante
+2. Texto Claro Conhecido - Known-plaintext: Além dos itens acima, o atacante
 tem a informação dos pares de texto claro de entrada e seu respectivo texto
 cifrado de saída;
 
-Item. 3. Texto Claro Escolhido - Choosen-Plaintext: Agora o atacante não se
+3. Texto Claro Escolhido - Choosen-Plaintext: Agora o atacante não se
 restringe apenas a saber o par de entrada e saída, mas ele é capaz de
 manipular a entrada e avaliar a sua respectiva saída;
 
-Item. 4. Texto Cifrado Escolhido - Choosen-CypherText: Agora o atacante é capaz
+4. Texto Cifrado Escolhido - Choosen-CypherText: Agora o atacante é capaz
 de fazer o caminho reverso, onde a partir de um texto cifrado escolhido, ele é
 capaz de verificar qual o texto em claro correspondendo;
 
-Item. 5. Texto Escolhido - Choosen-Text - Há plena capacidade de manipulação dos
+5. Texto Escolhido - Choosen-Text - Há plena capacidade de manipulação dos
 textos de entrada e saída, e vice versa;
 
 b. MÉToDoS DE DECIFRAGEM DE DADoS
@@ -610,7 +561,7 @@ vulnerável a determinados tipos de ataques. Desse modo, entender o
 contexto é
 fundamental.
 
-Item. 1. Método da Recuperação Direta
+1. Método da Recuperação Direta
 
 Pessoal, como o próprio nome já diz, o intuito desse método é conseguir obter a
 senha de
@@ -628,8 +579,7 @@ utilizada para criação de sites. Nesse caso, o repositório é conhecido e arm
 senhas
 em texto claro. Ou seja, se for possível acessar o repositório, é possível obter a senha.
 
-
-Item. 2. Método Pré-Computado
+2. Método Pré-Computado
 
 Neste método, busca-se criar uma lista, bem extensa por sinal (aumentando a chance de
 quebra), que correlaciona, para um determinado algoritmo, os textos em claro
@@ -658,7 +608,7 @@ no
 rol da tabela. Isso acontece justamente porque para se criar uma tabela com todas as
 possibilidades possíveis dadas o tamanho da chave se torna inviável.
 
-Item. 3. Método da Força Bruta
+3. Método da Força Bruta
 
 De maneira descontraída, podemos dizer que a "ignorância" é o ponto forte desse método.
 Aqui, busca-se, a partir de um grande poder computacional, processar
@@ -674,11 +624,10 @@ testar possibilidades demanda tempo, e o tanto de tempo depende do
 poder de
 processamento disponível para realizar a quebra.
 
-
 Por esse motivo, a relação (tamanho da chave e tempo) para quebra é um fator crítico.
 Assim, o método em questão se torna extremamente eficiente para senhas curtas.
 
-Item. 4. Método de Dicionário
+4. Método de Dicionário
 
 Sem dúvida, no contexto atual, é uma das técnicas mais utilizadas. O procedimento a
 ser
@@ -715,13 +664,12 @@ que o
 usuário tentará tornar uma senha comum para ele, em algo um pouco mais difícil de ser
 obtido indevidamente.
 
-Item. 5. Método probabilístico
+5. Método probabilístico
 
 Por fim, temos o método probabilístico. Como o nome já diz, busca-se por intermédio de
 algoritmos e análises estatísticas, aquelas sequências de caracteres que possuem
 maior
 probabilidade de ocorrência dado um contexto.
-
 
 Este método pode ser derivado em duas subespécies, quais sejam: probabilidade
 condicional e gramática especializada.
@@ -804,7 +752,6 @@ principais algoritmos de criptografia simétrica.
 Entretanto pessoal, temos um entendimento do CESPE contrário ao que preconiza a
 maioria da bibliografia. Vejamos:
 
-
 PROVA!
 
 Ano: 2018 Banca: CESPE Órgão: STJ - Técnico Judiciário - Desenvolvimento de
@@ -851,7 +798,6 @@ modelos.
 
 Vamos conhecer agora os principais algoritmos de criptografia simétrica.
 
-
 DES
 
 Durante muitos anos o DES foi o algoritmo padrão utilizado na criptografia simétrica.
@@ -877,11 +823,9 @@ A imagem a seguir retrata o fluxo de operações do algoritmo:
 64-bit plaintext
 64-bit key
 
-
 Permuted Choice 1
 
 I
-
 
 I
 
@@ -914,7 +858,6 @@ Lefc circular shifc
 
 Lefc circular shifc
 
-
 Por utilizar cifra de bloco, o DES pode utilizar quaisquer das técnicas
 anteriormente
 mencionadas. Analisando a figura, podemos perceber que o algoritmo se utiliza
@@ -931,16 +874,16 @@ A estrutura de FEISTEL opera nas metades dos blocos (32 bits) de cada vez e cons
 em
 4 estágios (apresentados no diagrama abaixo):
 
-Item. 1. Expansão - o bloco de 32 bits (metade do bloco) é expandido para 48 bits usando
+1. Expansão - o bloco de 32 bits (metade do bloco) é expandido para 48 bits usando
 a
 permutação expansiva, representada pelo E no diagrama, através da duplicação de
 alguns bits.
 
-Item. 2. Mistura de chaves - o resultado é combinado com uma subchave usando uma
+2. Mistura de chaves - o resultado é combinado com uma subchave usando uma
 operação XOR. Dezesseis subchaves de 48 bits - uma para cada round - são
 derivadas da chave principal utilizando o escalonamento de chaves (descrito abaixo).
 
-Item. 3. Substituição - após trocar a subchave, o bloco é dividido em oito pedaços de 6
+3. Substituição - após trocar a subchave, o bloco é dividido em oito pedaços de 6
 bits
 antes do processamento pelo box de substituição ou S-box. Cada um dos oito S-
 boxes substitui os seis bits de entrada por quatro bits de saída de acordo com uma
@@ -948,11 +891,10 @@ transformação não-linear, fornecida por uma lookup table. Os s-boxes fornecem
 núcleo da segurança do DES - sem eles, a cifra seria linear e quebrada de forma
 trivial.
 
-Item. 4. Permutação - finalmente, as 32 saídas das S-boxes são rearranjadas de acordo com
+4. Permutação - finalmente, as 32 saídas das S-boxes são rearranjadas de acordo com
 uma permutação fixa, o P-box.
 
 A figura abaixo representa essas etapas:
-
 
 A substituição ocorrida nos S-boxes, a permutação de bits nos P-boxes e a expansão
 fornecem a chamada "confusão e difusão", respectivamente, um conceito identificado
@@ -965,7 +907,6 @@ Na tentativa de dar uma sobrevida ao DES, criou-se o 3DES, que nada mais é do q
 aplicação do DES três vezes, com o detalhe de que na segunda vez, faz-se o processo
 de
 decriptação.
-
 
 Key K1 Key K2 Key K3
 
@@ -991,7 +932,6 @@ Entretanto, o 3DES suporta a utilização de apenas duas chaves, assumindo que a
 e a terceira sejam iguais. Nesse caso, a robustez da chave se restringiria a 112 bits.
 
 No processo de decriptação, basta inverter o sentido da operação, conforme figura a seguir:
-
 
 Plain text
 
@@ -1022,7 +962,6 @@ Decryption
 Cipher text
 
 * RC - Rivest Cipher
-
 
 O RC possui três versões que usualmente aparecem em provas, quais sejam: 4, 5 e 6.
 
@@ -1071,7 +1010,6 @@ com uma tabela;
 
 ShiftRows - Permutação Simples;
 
-
 MixColumns - Uma combinação linear que utiliza aritmética sobre corpo finito.
 AddRoundKey - Um XOR bit a bit simples do bloco atual com uma parte da
 chave expandida.
@@ -1085,7 +1023,6 @@ NOTA!
 
 Outros exemplos de algoritmos de criptografia simétrica são:
 o Blowfish, Twofish e IDEA.
-
 
 A criptografia Assimétrica, também conhecida como criptografia de chaves públicas
 é
@@ -1130,7 +1067,6 @@ EMISSOR e decifrar com a chave pública do EMISSOR!
 
 Conseguiram entender? Bom, vamos explicar agora. Vamos usar a figura abaixo:
 
-
 Íí ir «I^-J -
 
 1 Chave
@@ -1138,7 +1074,6 @@ T? privada
 de Breno
 
 =b,
-
 
 Algoritmo criptográfico
 
@@ -1152,7 +1087,6 @@ Algoritmo criptográfico
 
 Documento
 Original
-
 
 Regina
 
@@ -1172,7 +1106,6 @@ preservado
 Criptografia Assimétrica
 (garantia de sigilo OU autoria)
 
-
 1 Chave
 privada
 de Breno
@@ -1188,7 +1121,6 @@ Original Criptografado
 Original
 ym Criptografia A Decifração
 Autenticidade
-
 
 Brenno
 com chave privada
@@ -1220,7 +1152,6 @@ de
 Brenno, terei a mensagem correta. Logo, posso afirmar, pelo princípio do par de chaves
 assimétricas, que a pessoa que cifrou o texto é o Brenno.
 
-
 Tranquilo pessoal? Busquem entender esses conceitos e não decorar. Eles
 são
 extremamente importantes. Caso não tenha ficado claro, volte e leia de novo com mais
@@ -1233,14 +1164,12 @@ fundamentada na técnica de SUBSTITUIÇÃO, enquanto a Assimétrica, na técnica
 TRANSPOSIÇÃO. Isso não quer dizer que possa, em alguns casos, usar outras técnicas,
 ok?
 
-
 Criptografia
 Simétrica
 r i
 
 Substituição
 k J
-
 
 Criptografia
 Assimétrica
@@ -1270,7 +1199,6 @@ resistência contra ataques que visam obter chaves de sessão, principalmente em
 de navegação WEB segura através do HTTPS.
 
 A sua estrutura e robustez reside na complexidade e problema do logaritmo discreto.
-
 
 RSA - RIvEST, SHAMIR AND ADELMAN
 
@@ -1320,7 +1248,6 @@ Por final temos:
 
 A chave pública: o par (n,e).
 
-
 A chave privada: a tripla (p,q,d). De fato, para desencriptar, basta guardar "d" como
 chave
 privada, mas os primos "p" e "q" são usados para acelerar os cálculos.
@@ -1363,7 +1290,6 @@ Gamai é no PGP (Pretty Good Privacy).
 É importante destacar que o El Gamai possui algumas características de algoritmos de
 criptografia simétrica.
 
-
 MXJMAtS
 FUNDO!
 
@@ -1384,7 +1310,6 @@ conforme já vimos, de computacionalmente seguro. Este último está
 relacionado ao fato de que o custo de quebrar a cifra é superior ao valor
 da informação codificada ou que o tempo exigido para quebrar a cifra é
 superior ao tempo de vida útil da informação.
-
 
 Funções HASH
 
@@ -1411,14 +1336,12 @@ exemplo seria a análise a partir da tabela abaixo:
 Original MD5
 Valor procurado Igual ?
 
-
 123450
 
 149787a6b7986f31 b3dcc0e4e857cd2a
 e10adc3949 baS9a b b e56e 0 57f20f88 3e
 
 Nao
-
 
 123451
 
@@ -1428,7 +1351,6 @@ e10adc3949 baS9a b b e56e 0 57f20f88 3e
 
 Nao
 
-
 123452
 
 7Ê92d cdc 19e41 e66c6ae2de 54a 696 b2S
@@ -1437,14 +1359,12 @@ e10adc3949 baS9a b b e56e 0 57f20f88 3e
 
 Nao
 
-
 123453
 
 0f 3e84acb19d ff22f69Sf31 d be3e972a
 e10adc3949 baS9a b b e56e 0 57f20f88 3e
 
 Nao
-
 
 123454
 
@@ -1454,7 +1374,6 @@ e10adc3949 baS9a b b e56e 0 57f20f88 3e
 
 Nao
 
-
 123455
 
 00c66aa f5 f2c 3f49 946f 1 Sc 11 a d 2ea0d 3
@@ -1462,7 +1381,6 @@ Nao
 e10adc3949 baS9a b b e56e 0 57f20f88 3e
 
 Nao
-
 
 123456
 
@@ -1479,7 +1397,6 @@ posteriores em busca de igualdade de resultados.
 
 Essas funções também são conhecidas como Funções HASH ONE-WAY. Mas André, se
 eu não consigo saber o valor original, para que serve o HASH?
-
 
 Pessoal, as principais aplicações das funções HASH são para garantir os
 princípios de
@@ -1527,7 +1444,6 @@ O resultado de um cálculo de uma função HASH também é bastante referenciada
 
 OO
 
-
 KX) MAtS
 FUNDO!
 
@@ -1569,7 +1485,6 @@ impossível, conhecendo uma mensagem M, achar uma outra mensagem M' que
 produza o mesmo HASH. E o algoritmo será robusto à colisão forte caso seja
 computacionalmente difícil encontrar um par de mensagens (M,M') que produzam o
 mesmo HASH.
-
 
 Ano: 2021 Banca: FGV Órgão: TJ-RO Prova: FGV - 2021 - TJ-RO - Analista Judiciário -
 Analista de Sistema - Desenvolvimento de Sistema
@@ -1622,7 +1537,6 @@ atualização que desabilita a aplicação do MD5 às suas autoridades certifica
 
 Possui um tamanho de entrada de múltiplos de 128 bits.
 
-
 Um dos problemas que existe no MD5 está relacionado à colisão de prefixos
 de uma
 mensagem, gerando uma probabilidade alta de se compor sufixos que também produzam
@@ -1651,7 +1565,6 @@ múltiplos de 512 bits. Caso a entrada não tenha esse tamanho, acrescenta-se
 um bit
 adicional de valor "1" e sucessivos "0's" até completar o múltiplo.
 
-
 SHA
 
 O algoritmo SHA possui diversas versões de implementação que produzem resultados
@@ -1670,14 +1583,13 @@ Divide-se ainda as versões do SHA em 1, 2 e 3. Atualmente, devido à sua robust
 utiliza-
 se o SHA3 nas mesmas proporções da análise acima.
 
-
 HORA IX
 
 EXERCÍCIOS COMENTADOS
 
 CRIPToGRAFIA
 
-Item. 1. CESPE - SE-DF/Analista de Redes/2017
+1. CESPE - SE-DF/Analista de Redes/2017
 
 No contexto de uma infraestrutura de chaves públicas, um documento eletrônico assinado
 digitalmente com a chave pública do remetente falhará na verificação de integridade e
@@ -1698,7 +1610,7 @@ integridade dos dados.
 
 Gabarito: C
 
-Item. 2. CESPE - TCE-PR/Analista de Controle - Área TI/2016
+2. CESPE - TCE-PR/Analista de Controle - Área TI/2016
 
 Assinale a opção correta, no que concerne a conceitos básicos
 de
@@ -1707,7 +1619,6 @@ criptografia e criptografia simétrica e assimétrica.
 A A principal diferença entre os algoritmos de criptografia simétrica e os algoritmos de
 criptografia assimétrica consiste no fato de que os primeiros são fundamentados em
 técnicas de transposição e os segundos em técnicas de substituição.
-
 
 B Um esquema de criptografia será considerado computacionalmente seguro se o tempo
 para se quebrar sua cifra for superior ao tempo de vida útil da informação por ele
@@ -1739,7 +1650,7 @@ Este é baseado simplesmente na tentativa e erro.
 
 Gabarito: B
 
-Item. 3. CESPE - TCE-PR/Analista de Controle - Área TI/2016
+3. CESPE - TCE-PR/Analista de Controle - Área TI/2016
 
 Em um esquema de criptografia de chaves públicas, caso um sistema participante opte
 por alterar sua chave privada, para que seja mantida a comunicação, será necessário
@@ -1757,7 +1668,6 @@ a nova chave pública gerada.
 
 Comentários:
 
-
 Os algoritmos de criptografia de chaves públicas são baseados em fórmulas
 matemáticas que, a partir de determinados valores de entrada, geram um par de chaves
 como resultado (chave privada e pública). Essas chaves só fazem sentido juntas... Não
@@ -1768,7 +1678,7 @@ próprio nome diz, deve-se dar publicidade à chave pública.
 
 Gabarito: D
 
-Item. 4. CESPE - TCE-PR/Analista de Controle - Área TI/2016
+4. CESPE - TCE-PR/Analista de Controle - Área TI/2016
 
 Acerca da criptografia, assinale a opção correta.
 
@@ -1804,8 +1714,7 @@ DH é utilizado para troca de chaves.
 
 Gabarito: C
 
-Item. 5. CESPE-TCE-SC/AFCE-Área TI/2016
-
+5. CESPE-TCE-SC/AFCE-Área TI/2016
 
 Os algoritmos de criptografia de chave pública devem ser computacionalmente fáceis, a fim
 de que o receptor de uma mensagem cifrada com uma chave pública a decriptografe
@@ -1827,7 +1736,7 @@ processo. Isso é uma verdade.
 
 Gabarito: C
 
-Item. 6. CESPE - TJ STF/Apoio Especializado/Tecnologia da lnformação/2013
+6. CESPE - TJ STF/Apoio Especializado/Tecnologia da lnformação/2013
 
 A criptologia incorpora estudos e conhecimentos das áreas de criptografia e criptoanálise.
 
@@ -1838,14 +1747,13 @@ criptoanálise.
 
 Gabarito: C
 
-Item. 7. CESPE - AJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
+7. CESPE - AJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 Na criptografia de chave pública assimétrica, são utilizadas duas chaves diferentes: uma
 chave privada confidencial, para criptografar os dados, e outra chave pública, para
 decriptografar os dados, a qual é distribuída para os destinatários.
 
 Comentários:
-
 
 Pessoal, comentei lá na nossa teoria a respeito do fato de que não podemos restringir a
 criptografia assimétrica no quesito de que a privada necessariamente será utilizada
@@ -1854,7 +1762,7 @@ aplicação.
 
 Gabarito: E
 
-Item. 8. CESPE - PCF/Área 2/2013
+8. CESPE - PCF/Área 2/2013
 
 A compressão de dados antes da encriptação geralmente aumenta a segurança do
 sistema, por reduzir a redundância na mensagem, dificultando a criptoanálise.
@@ -1866,7 +1774,7 @@ ganhos de desempenho.
 
 Gabarito: C
 
-Item. 9. CESPE - PCF/Área 2/2013
+9. CESPE - PCF/Área 2/2013
 
 Esquemas de criptografia de chave pública também são conhecidos como de criptografia
 simétrica, pois possuem apenas uma chave, tanto para encriptação quanto para
@@ -1884,7 +1792,6 @@ Não se espantem.
 Gabarito: E
 
 10.CESPE - PCF/Área 3/2013
-
 
 Um aplicativo que utiliza recursos biométricos para a criptografia de arquivos, como a
 impressão digital de um indivíduo tanto para encriptar quanto decriptar, assemelha-se a
@@ -1924,7 +1831,6 @@ Comentários:
 A criptografia simétrica visa garantir tão somente o princípio da confidencialidade.
 
 Gabarito: E
-
 
 13.CESPE - AA (TCE-ES)/lnformática/2013
 
@@ -1977,7 +1883,6 @@ Na criptografia simétrica, são geradas duas chaves criptográficas, uma privad
 pública, para que um arquivo seja transferido, entre dois computadores, deforma
 criptografada.
 
-
 Comentários:
 
 Não né pessoal? Isso seria a criptografia assimétrica.
@@ -2016,7 +1921,6 @@ Para evitar o acesso de terceiros não confiáveis aos dados, pode-se utilizar a
 simétrica, técnica que confere confidencialidade às informações.
 
 Comentários:
-
 
 Lembrando que também poderia ser utilizado a criptografia assimétrica sem problema
 algum.
@@ -2058,7 +1962,6 @@ ambos têm em comum a utilização de um tamanho de chave de 128,192 ou 256 bits
 
 Comentários:
 
-
 0 primeiro trecho da assertiva está tudo certo. Entretanto, o segundo gerou ambiguidade.
 O AES, como vimos, suporta esses três tamanhos de chaves. Já o RC4, suporta esses três
 e muitos outros.
@@ -2098,7 +2001,6 @@ Comentários:
 Não né pessoal? Uma das vantagens do algoritmo de criptografia assimétrica é
 justamente não haver a necessidade de troca de chaves e a utilização de uma única
 chave.
-
 
 Gabarito: E
 
@@ -2140,7 +2042,6 @@ Gabarito: C
 Nos métodos mais seguros de criptografia, a função e a chave utilizadas na encriptação
 devem ser de conhecimento exclusivo do remetente da mensagem.
 
-
 Comentários:
 
 Ao contrário pessoal. Métodos de criptografia são considerados mais robustos quando
@@ -2160,9 +2061,9 @@ Comentários:
 
 Pessoal, tivemos dois processos de cifragem.
 
-Item. 1. Utilizou-se a chave pública do destinatário e;
+1. Utilizou-se a chave pública do destinatário e;
 
-Item. 2. Em seguida, a chave privada do emissor.
+2. Em seguida, a chave privada do emissor.
 
 Para revertermos o processo, devemos desfazer na sequência correta.
 
@@ -2183,7 +2084,6 @@ complementares que devem ser mantidas em segredo.
 Comentários:
 
 Somente uma chave precisa ser mantida em segredo, que é a privada, certo pessoal?
-
 
 Gabarito: E
 
@@ -2263,7 +2163,6 @@ Vimos na nossa teoria que o tamanho dos blocos é limitado.
 
 Gabarito: C
 
-
 33.CESPE - AJ (STF)/Apoio Especializado/Análise de Sistemas de Informação /2013
 
 0 algoritmo de criptografia MD5 /Message-Digest Algorithm 5) é um método que
@@ -2303,7 +2202,6 @@ O algoritmo de criptografia AES fadvanced encryption standard/ opera em quatro
 estágios: um de permutação e três de substituição. O estágio de permutação ShiftRows é
 reversível e os estágios de substituição SubBytes, MixColumns e AddRoundKey são não-
 reversíveis.
-
 
 Comentários:
 
@@ -2348,7 +2246,6 @@ e dois de substituição.
 BJ No modo de operação de cifra de bloco cipher block chaining, o texto claro é tratado
 em blocos — um bloco por vez — e cada bloco de texto claro é criptografado mediante o
 uso de uma mesma chave.
-
 
 C) Um código gerado por uma função hash para um conjunto de dados pode garantir a
 sua integridade porque, ao ser calculado novamente sobre o mesmo conjunto de dados, a
@@ -2396,7 +2293,6 @@ A} Há, no envio de email com o hash, garantia de autenticidade, pois ele cripto
 a
 mensagem enviada.
 
-
 B) Na criptografia de chave pública, ou assimétrica, a chave utilizada para encriptar
 mensagens é distribuída livremente, ao passo que a chave privada decripta a mensagem.
 
@@ -2438,7 +2334,6 @@ O protocolo 3DES possui três chaves criptográficas: a primeira e a segunda cri
 informações; a terceira é usada para descriptografar aquelas.
 
 Comentários:
-
 
 Uma bagunça, certo pessoal? Primeiro, que o 3DES não necessariamente utiliza 3 chaves,
 uma vez que podem ser utilizadas apenas duas chaves. Além disso, as mesmas chaves
@@ -2486,7 +2381,6 @@ vetor de inicialização - VI em uma operação com o primeiro bloco e, em segui
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital) 56
 
-
 bloco cifrado para realimentar a entrada do segundo bloco. Ou seja, realiza-se uma
 operação entre o primeiro bloco cifrado com o segundo bloco em claro, para posterior
 aplicação da chave e assim sucessivamente.
@@ -2499,14 +2393,13 @@ problema em marcar CORRETO.
 
 Gabarito: C
 
-
 HORA IX
 
 EXERCÍCIOS COMENTADOS COMPLEMENTARES
 
 CRIPToGRAFIA
 
-Item. 1. FCC - TRE-SP/Analista Judiciário - Análise de Sistemas/2017
+1. FCC - TRE-SP/Analista Judiciário - Análise de Sistemas/2017
 
 Um Analista de Sistemas do TRE-SP utilizará, em uma situação hipotética, o recurso de
 assinatura digital para os documentos eletrônicos emitidos pelo Tribunal. O processo da
@@ -2528,18 +2421,17 @@ Comentário:
 A questão apresenta descrição das etapas realizadas para geração da assinatura digital.
 De maneira objetiva:
 
-Item. 1. Gera-se o HASH da Mensagem.
+1. Gera-se o HASH da Mensagem.
 
-Item. 2. Cifra-se com a Chave Privada do Emissor.
+2. Cifra-se com a Chave Privada do Emissor.
 
-Item. 3. Envia o HASH cifrado em conjunto com a mensagem em texto claro.
+3. Envia o HASH cifrado em conjunto com a mensagem em texto claro.
 
-Item. 4. O receptor decifra o HASH CIFRADO utilizando a chave pública do emissor.
+4. O receptor decifra o HASH CIFRADO utilizando a chave pública do emissor.
 
+5. 0 receptor gera um novo HASH a partir da mensagem em claro recebida.
 
-Item. 5. 0 receptor gera um novo HASH a partir da mensagem em claro recebida.
-
-Item. 6. Compara-se os HASH obtidos nas etapas 4 e 5.
+6. Compara-se os HASH obtidos nas etapas 4 e 5.
 
 Então pessoal, esse é o funcionamento básico da assinatura digital, garantindo a
 integridade, autenticidade e não-repúdio. Entretanto, a banca acabou misturando com a
@@ -2564,7 +2456,7 @@ função de confidencialidade externa."
 
 Gabarito: E (Gabarito do Professor: Anulação)
 
-Item. 2. FCC - TRT - 3a Região(MG)/Técnico Judiciário - Área de TI/2015
+2. FCC - TRT - 3a Região(MG)/Técnico Judiciário - Área de TI/2015
 
 O técnico judiciário da área de TI do TRT da 3a Região deve escolher o esquema de
 criptografia mais adequado para a seguinte situação. Ele deve receber uma informação
@@ -2581,7 +2473,6 @@ d) unificada.
 
 e) isolada.
 
-
 Comentário:
 
 Pessoal, vimos que um dos principais propósitos da criptografia de chave assimétrica é
@@ -2595,7 +2486,7 @@ de interpretar a mensagem.
 
 Gabarito: C
 
-Item. 3. FCC - TRT - 33 Região(MG)/Técnico Judiciário - Área de TI/2015
+3. FCC - TRT - 33 Região(MG)/Técnico Judiciário - Área de TI/2015
 
 Um dos padrões de criptografia mais difundidos mundialmente é o Data Encryption
 Standard - DES. Atualmente ele é utilizado na forma denominada Triple DES, devido à
@@ -2619,7 +2510,7 @@ considerar o DES com chave de 56 bits, conforme mencionamos na nossa teoria.
 
 Gabarito: B
 
-Item. 4. FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
+4. FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
 
 Considere:
 
@@ -2628,7 +2519,6 @@ M = Mensagem
 KS = Chave Secreta compartilhada
 
 MACr - Código de Autenticação de Mensagem gerado pelo remetente
-
 
 KPr = Chave pública do remetente
 
@@ -2668,22 +2558,21 @@ pessoal a descrição da Assinatura Digital Simétrica, conforme mencionei em au
 
 Vamos analisar cada etapa sendo descrita:
 
-Item. 3. uma função hash e usando a M concatenada com KS, gera um MACr. (Temos
+3. uma função hash e usando a M concatenada com KS, gera um MACr. (Temos
 aqui a primeira parte do conjunto a ser enviado, que é o HASH da mensagem
 concatenada com a chave secreta que é de conhecimento mútuo).
 
-Item. 4. MACr que, juntamente com M é enviado por um canal inseguro ao
+4. MACr que, juntamente com M é enviado por um canal inseguro ao
 destinatário. (Aqui já temos o resultado final do conjunto a ser enviado, que é
 o HASH e a mensagem que também foi utilizada dentro do HASH).
 
-Item. 5. O destinatário separa a MACr de M e, usando M concatenada com a KS, gera
+5. O destinatário separa a MACr de M e, usando M concatenada com a KS, gera
 um MACd (Assim que o destinatário recebe o conjunto, ele separa o HASH da
-
 
 Mensagem. Pegando apenas a mensagem e sabendo da chave secreta, ele
 gerará um novo HASH para comparação com o HASH recebido)
 
-Item. 6. MACd que é comparado com o MACr. Se forem iguais M é considerada
+6. MACd que é comparado com o MACr. Se forem iguais M é considerada
 autêntica. (Tendo em mãos o HASH recebido e o HASH gerado a partir do
 mesmo bloco de dados, que é a Mensagem e a chave secreta, ele está apto a
 comparar os resultados.)
@@ -2696,7 +2585,7 @@ Entretanto, devemos lembrar desse modelo de Assinatura Digital Simétrica.
 
 Gabarito: A
 
-Item. 5. FCC - TRE-RR/Analista Judiciário - Análise de Sistemas/2015
+5. FCC - TRE-RR/Analista Judiciário - Análise de Sistemas/2015
 
 Um sistema de computador envia uma mensagem para um receptor, acompanhada de um
 resumo dessa mensagem cifrado com chave privada. O objetivo é garantir que o sistema
@@ -2728,10 +2617,9 @@ remetente, o destinatário será capaz de gerar um novo HASH da mensagem
 recebida e
 comparar os resumos
 
-
 Gabarito: C
 
-Item. 6. FCC - CNMP/Analista do CNMP - Suporte e lnfraestrutura/2015
+6. FCC - CNMP/Analista do CNMP - Suporte e lnfraestrutura/2015
 
 Em segurança da informação, a criptografia é a técnica que utiliza a cifragem e,
 frequentemente, uma chave criptográfica para transformar a informação original para
@@ -2759,7 +2647,7 @@ enquanto os demais utilizam cifras de bloco.
 
 Gabarito: C
 
-Item. 7. FCC - TJ-AP/Analista Judiciário - TI/2014
+7. FCC - TJ-AP/Analista Judiciário - TI/2014
 
 Para fornecer confidencialidade com criptografia de chave simétrica, uma solução é usar
 a criptografia de chaves simétricas para a codificação da informação a ser transmitida e a
@@ -2802,7 +2690,7 @@ vazamento dessa chave secreta.
 
 Gabarito: E
 
-Item. 8. FCC - TJ-AP/Analista Judiciário - TI/2014
+8. FCC - TJ-AP/Analista Judiciário - TI/2014
 
 Para prover segurança à rede sem fio da empresa, um especialista em segurança de redes
 adotou o padrão WPA2, que possui um método de criptografia mais forte e algoritmos
@@ -2824,7 +2712,7 @@ utilização de 128,192 ou 256 bits, restando, assim, apenas o item C como respo
 
 Gabarito: C
 
-Item. 9. FCC - TJ-AP/Analista Judiciário - TI/2014
+9. FCC - TJ-AP/Analista Judiciário - TI/2014
 
 Um Analista de TI do Tribunal de Justiça recebeu a incumbência de planejar e
 implementar um esquema de criptografia de Chave Pública para a troca de informações
@@ -2877,7 +2765,6 @@ texto codificado e algoritmo de decriptografia.
 b) texto claro, algoritmo de criptografia, chave secreta do emissor, chave secreta do
 receptor e texto codificado.
 
-
 c) algoritmo de criptografia, chave secreta do emissor, chave pública do receptor, texto
 codificado e algoritmo de decriptografia.
 
@@ -2928,7 +2815,6 @@ Deverá ser unidirecional, ou seja, não deve ser possível, a partir da mensage
 saída,
 retornar à mensagem de entrada;
 
-
 Mensagens de entrada distintas devem produzir mensagens de saída distintas;
 
 A mesma mensagem de entrada deve produzir sempre a mesma mensagens de saída;
@@ -2977,7 +2863,6 @@ b) simétrico AES - Advanced Encryption Standard.
 
 c) assimétrico RSA - Rivest, Shamir and Adleman.
 
-
 d) assimétrico AES -Advanced Encryption Standard.
 
 e) simétrico RSA - Rivest, Shamir and Adleman.
@@ -2993,7 +2878,6 @@ número primos grandes, certo?
 
 Gabarito: C
 
-
 Chegamos ao término de mais uma aula!
 
 Caso tenha ficado alguma dúvida, me procure no fórum que
@@ -3006,21 +2890,20 @@ Instagram.
 
 Q /p^®^eM<nanz£^ecaAU^
 
-
 HORA IX
 
 LISTA DE EXERCÍCIOS
 
 CRIPToGRAFIA
 
-Item. 1. CESPE - SE-DF/Analista de Redes/2017
+1. CESPE - SE-DF/Analista de Redes/2017
 
 No contexto de uma infraestrutura de chaves públicas, um documento eletrônico assinado
 digitalmente com a chave pública do remetente falhará na verificação de integridade e
 autoria pelo destinatário, caso essa verificação seja realizada com a aplicação da mesma
 chave pública do remetente.
 
-Item. 2. CESPE - TCE-PR/Analista de Controle - Área TI/2016
+2. CESPE - TCE-PR/Analista de Controle - Área TI/2016
 
 Assinale a opção correta, no que concerne a conceitos básicos de criptografia e criptografia
 simétrica e assimétrica.
@@ -3043,8 +2926,7 @@ algoritmo a ser usado para criptografar esse texto.
 E Em um ataque por força bruta, exploram-se a natureza e as características do
 algoritmo na tentativa de deduzir as chaves
 
-Item. 3. CESPE - TCE-PR/Analista de Controle - Área TI/2016
-
+3. CESPE - TCE-PR/Analista de Controle - Área TI/2016
 
 Em um esquema de criptografia de chaves públicas, caso
 um
@@ -3064,7 +2946,7 @@ D) gerar um novo par de chaves e publicar a nova chave pública.
 E) gerar um novo par de chaves, substituir a chave privada e, consequentemente,
 descartar a nova chave pública gerada.
 
-Item. 4. CESPE - TCE-PR/Analista de Controle - Área TI/2016
+4. CESPE - TCE-PR/Analista de Controle - Área TI/2016
 
 Acerca da criptografia, assinale a opção correta.
 
@@ -3084,29 +2966,28 @@ bruta.
 E) 0 algoritmo RSA permite que o emissor criptografe uma mensagem com a chave pública
 do destinatário ou, ainda, que assine uma mensagem com sua chave privada.
 
-Item. 5. CESPE-TCE-SC/AFCE-Área TI/2016
+5. CESPE-TCE-SC/AFCE-Área TI/2016
 
 Os algoritmos de criptografia de chave pública devem ser computacionalmente fáceis, a fim
 de que o receptor de uma mensagem cifrada com uma chave pública a decriptografe
 utilizando sua chave privada para recuperar a mensagem original.
 
-Item. 6. CESPE - TJ STF/Apoio Especializado/Tecnologia da lnformação/2013
+6. CESPE - TJ STF/Apoio Especializado/Tecnologia da lnformação/2013
 
 A criptologia incorpora estudos e conhecimentos das áreas de criptografia e criptoanálise.
 
-Item. 7. CESPE - AJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
-
+7. CESPE - AJ TRTIO/Apoio Especializado/Tecnologia da lnformação/2013
 
 Na criptografia de chave pública assimétrica, são utilizadas duas chaves diferentes: uma
 chave privada confidencial, para criptografar os dados, e outra chave pública, para
 decriptografar os dados, a qual é distribuída para os destinatários.
 
-Item. 8. CESPE - PCF/Área 2/2013
+8. CESPE - PCF/Área 2/2013
 
 A compressão de dados antes da encriptação geralmente aumenta a segurança do
 sistema, por reduzir a redundância na mensagem, dificultando a criptoanálise.
 
-Item. 9. CESPE - PCF/Área 2/2013
+9. CESPE - PCF/Área 2/2013
 
 Esquemas de criptografia de chave pública também são conhecidos como de criptografia
 simétrica, pois possuem apenas uma chave, tanto para encriptação quanto para
@@ -3138,7 +3019,6 @@ Criptografia é uma técnica matemática capaz de transformar uma informação d
 forma original para outra forma totalmente ilegível, a partir da qual um processo inverso
 pode voltar a recuperar a informação para seu formato original. Acerca dessas
 informações, assinale a opção correta.
-
 
 a) A técnica criptográfica garante os atributos de autenticidade, integridade,
 confidencialidade, disponibilidade e não repúdio da informação.
@@ -3187,7 +3067,6 @@ simples e colisão forte.
 
 19.CESPE - Aud Gov (CGE Pl)/Tecnologia da lnformação/2015
 
-
 Se, em um esquema de criptografia de chave pública, o emissor E criptografar uma
 mensagem M utilizando a chave pública do receptor R, então, nesse esquema, é oferecida
 confidencialidade, mas não autenticação.
@@ -3197,7 +3076,7 @@ confidencialidade, mas não autenticação.
 AES é uma cifra de bloco, enquanto o RC4 é uma cifra de fluxo. Apesar dessa diferença,
 ambos têm em comum a utilização de um tamanho de chave de 128,192 ou 256 bits.
 
-Item. 21. CESPE - ANTAQ/TI - Analista de lnfraestrutura/2014
+21. CESPE - ANTAQ/TI - Analista de lnfraestrutura/2014
 
 Na criptografia simétrica, a mesma chave compartilhada entre emissor e receptor é
 utilizada tanto para cifrar quanto para decifrar um documento. Na criptografia
@@ -3205,14 +3084,14 @@ assimétrica, utiliza-se um par de chaves distintas, sendo a chave pública do r
 utilizada pelo emissor para cifrar o documento a ser enviado; posteriormente, o receptor
 utiliza sua chave privada para decifrar o documento.
 
-Item. 22. CESPE - Ana MPU/Tecnologia da Informação e Comunicação/Desenvolvimento de
+22. CESPE - Ana MPU/Tecnologia da Informação e Comunicação/Desenvolvimento de
 Sistemas/2013
 
 Em uma troca de dados, via Internet, entre dois computadores que estejam utilizando um
 algoritmo de criptografia assimétrica, antes de trocarem os dados, os usuários deverão
 compartilhar entre eles a chave, já que ela deve ser a mesma para os dois usuários.
 
-Item. 23. CESPE - ANATEL/ Analista - Suporte e Infraestrutura de Tecnologia da
+23. CESPE - ANATEL/ Analista - Suporte e Infraestrutura de Tecnologia da
 lnformação/2014
 
 Uma das propriedades de uma função de hash, conhecida como resistência à primeira
@@ -3220,7 +3099,7 @@ inversão ou propriedade unidirecional, garante que, dada uma mensagem, não é 
 encontrar uma mensagem alternativa que gere o mesmo valor de hash da mensagem
 original.
 
-Item. 24. CESPE - ANATEL/Analista - Suporte e Infraestrutura de Tecnologia da
+24. CESPE - ANATEL/Analista - Suporte e Infraestrutura de Tecnologia da
 lnformação/2014
 
 Para que a criptografia de chave pública seja considerada segura, uma das premissas é
@@ -3232,7 +3111,6 @@ chave.
 
 Nos métodos mais seguros de criptografia, a função e a chave utilizadas na encriptação
 devem ser de conhecimento exclusivo do remetente da mensagem.
-
 
 26.CESPE - Tec MPU/Técnico Administrativo/Tecnologia da Informação e
 Comunicação/2013
@@ -3277,7 +3155,6 @@ binário limitado.
 0 algoritmo de criptografia MD5 fMessage-Digest Algorithm 5] é um método que
 transforma uma palavra em um código criptografado único, ou seja, não é possível que
 duas strings diferentes produzam o mesmo hash.
-
 
 34.CESPE - AJ (STF)/Apoio Especializado/Suporte em Tecnologia da lnformação/2013
 
@@ -3327,8 +3204,7 @@ E) A criptoanálise, técnica para ataque a um esquema de criptografia convencio
 caracteriza-se pela experimentação de cada chave possível em um trecho do texto cifrado,
 até que se obtenha uma tradução inteligível para texto claro.
 
-
-Item. 39. CESPE - TRE/RS / Técnico Judiciário/2015
+39. CESPE - TRE/RS / Técnico Judiciário/2015
 
 A propósito de criptografia, assinale a opção correta.
 
@@ -3347,7 +3223,7 @@ D) 0 AES é um algoritmo de criptografia simétrica que usa chaves de 168 bites.
 E) A criptografia, simétrica além de garantir a integridade dos dados, atende plenamente
 aos demais princípios de segurança como a integridade e a autenticidade, por exemplo.
 
-Item. 40. CESPE - TJDFT/Analista Judiciário - Análise de Sistemas/2015
+40. CESPE - TJDFT/Analista Judiciário - Análise de Sistemas/2015
 
 0 protocolo 3DES possui três chaves criptográficas: a primeira e a segunda criptografam
 informações; a terceira é usada para descriptografar aquelas.
@@ -3357,16 +3233,15 @@ informações; a terceira é usada para descriptografar aquelas.
 Em uma VPN com IPSEC é possível fazer uso do 3DES com algoritmo de criptografia que
 emprega três chaves de 56 bits.
 
-Item. 42. CESPE - FUNPRESP/ Área 8/2016
+42. CESPE - FUNPRESP/ Área 8/2016
 
 Na criptografia assimétrica, a chave pública deve apresentar tamanho variado, e a chave
 privada, tamanho fixo com, no mínimo, 512 bites
 
-Item. 43. CESPE - FUNPRESP/ Área 8/2016
+43. CESPE - FUNPRESP/ Área 8/2016
 
 Na criptografia simétrica com uso do modo de cifra em bloco (CBCf cada bloco cifrado pode
 utilizar a mesma chave.
-
 
 HORA IX
 
@@ -3374,7 +3249,7 @@ LISTA DE EXERCÍCIOS COMPLEMENTARES
 
 CRIPToGRAFIA
 
-Item. 1. FCC - TRE-SP/Analista Judiciário - Análise de Sistemas/2017
+1. FCC - TRE-SP/Analista Judiciário - Análise de Sistemas/2017
 
 Um Analista de Sistemas do TRE-SP utilizará, em uma situação hipotética, o recurso de
 assinatura digital para os documentos eletrônicos emitidos pelo Tribunal. 0 processo da
@@ -3393,7 +3268,7 @@ da etapa anterior. As lacunas I, II e III são, correta e respectivamente, preen
 
 (E) Hash - Pública - Chave Privada
 
-Item. 2. FCC - TRT - 33 Região(MG)/Técnico Judiciário - Área de TI/2015
+2. FCC - TRT - 33 Região(MG)/Técnico Judiciário - Área de TI/2015
 
 0 técnico judiciário da área de TI do TRT da 3a Região deve escolher o esquema de
 criptografia mais adequado para a seguinte situação. Ele deve receber uma informação
@@ -3410,8 +3285,7 @@ d) unificada.
 
 e) isolada.
 
-
-Item. 3. FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
+3. FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
 
 Um dos padrões de criptografia mais difundidos mundialmente é o Data Encryption
 Standard - DES. Atualmente ele é utilizado na forma denominada Triple DES, devido à
@@ -3425,7 +3299,7 @@ d) 84 bits.
 
 e) 64 bits.
 
-Item. 4. FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
+4. FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
 
 Considere:
 
@@ -3463,8 +3337,7 @@ e) KS e KPr, gera um MACr que, juntamente com M é enviado por um canal seguro a
 destinatário. 0 destinatário separa a MACr de M e, usando M concatenada com a KPd,
 gera um MACd que é comparado com o MACr. Se forem iguais M é considerada autêntica.
 
-Item. 5. FCC - TRE-RR/Analista Judiciário - Análise de Sistemas/2015
-
+5. FCC - TRE-RR/Analista Judiciário - Análise de Sistemas/2015
 
 Um sistema de computador envia uma mensagem para um receptor, acompanhada de um
 resumo dessa mensagem cifrado com chave privada. 0 objetivo égarantir que o sistema
@@ -3481,7 +3354,7 @@ c) Resumo criptográfico hash.
 d) Criptografia simétrica simt.
 ej Resumo criptográfico gram.
 
-Item. 6. FCC - CNMP/Analista do CNMP - Suporte e lnfraestrutura/2015
+6. FCC - CNMP/Analista do CNMP - Suporte e lnfraestrutura/2015
 
 Em segurança da informação, a criptografia é a técnica que utiliza a cifragem e,
 frequentemente, uma chave criptográfica para transformar a informação original para
@@ -3496,7 +3369,7 @@ cj RSA.
 d) IDEA.
 ej RC4.
 
-Item. 7. FCC - TJ-AP/Analista Judiciário - TI/2014
+7. FCC - TJ-AP/Analista Judiciário - TI/2014
 
 Para fornecer confidencialidade com criptografia de chave simétrica, uma solução é usar
 a criptografia de chaves simétricas para a codificação da informação a ser transmitida e a
@@ -3512,7 +3385,7 @@ d) enlace.
 
 e) sessão.
 
-Item. 8. FCC - TJ-AP/Analista Judiciário - TI/2014
+8. FCC - TJ-AP/Analista Judiciário - TI/2014
 
 Para prover segurança à rede sem fio da empresa, um especialista em segurança de redes
 adotou o padrão WPA2, que possui um método de criptografia mais forte e algoritmos
@@ -3525,7 +3398,7 @@ c) AES que permite chaves de 256 bits.
 d) 3DES que permite chaves de 168 bits,
 ej AES que permite chaves de 512 bits
 
-Item. 9. FCC - TJ-AP/Analista Judiciário - TI/2014
+9. FCC - TJ-AP/Analista Judiciário - TI/2014
 
 Um Analista de TI do Tribunal de Justiça recebeu a incumbência de planejar e
 implementar um esquema de criptografia de Chave Pública para a troca de informações
@@ -3575,7 +3448,6 @@ codificado e algoritmo de decriptografia.
 e) texto claro, algoritmo de criptografia, chave pública compartilhada emissor/receptor,
 chave secreta do receptor e texto decodificado.
 
-
 12.FCC - TRT - 32 Região(MG)/Técnico Judiciário - Área de TI/2015
 
 Diversos recursos e ferramentas são utilizados para melhorar a segurança da informação,
@@ -3618,7 +3490,6 @@ d) assimétrico AES - Advanced Encryption Standard.
 
 e) simétrico RSA - Rivest, Shamir and Adleman.
 
-
 GABARITO
 
 GABARITO
@@ -3660,7 +3531,6 @@ GABARITo CESPE
 17 C
 
 18 E
-
 
 19 C
 
@@ -3712,7 +3582,6 @@ GABARITo CESPE
 
 43 C
 
-
 GABARITo FCC
 
 1 E
@@ -3740,5 +3609,4 @@ GABARITo FCC
 12 A
 
 13 C
-
 

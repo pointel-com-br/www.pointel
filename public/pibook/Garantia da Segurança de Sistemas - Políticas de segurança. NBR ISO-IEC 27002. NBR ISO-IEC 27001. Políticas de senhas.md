@@ -1,5 +1,4 @@
-Capítulo. Garantia da Segurança de Sistemas - Políticas de segurança. NBR ISO-IEC 27002. NBR ISO-IEC 27001. Políticas de senhas.
-
+# Garantia da Segurança de Sistemas - Políticas de segurança. NBR ISO-IEC 27002. NBR ISO-IEC 27001. Políticas de senhas.
 
 Índice
 
@@ -41,7 +40,6 @@ Capítulo. Garantia da Segurança de Sistemas - Políticas de segurança. NBR IS
 
 19) Lista de Questões - ISO 27001 e ISO 27002 - FCC
 
-
 ISO 27001 E ISO 27002
 
 A norma ISO 27001 de define os requisitos de um Sistema de Gestão de Segurança da Informação
@@ -61,31 +59,29 @@ próprio ciclo do PDCA, representado pelas 4 etapas do parágrafo anterior.
 
 A norma é dividida em 10 tópicos e 1 anexo de referência. Os tópicos são os seguintes:
 
-Item. 1. ESCOPO;
+1. ESCOPO;
 
-Item. 2. REFERÊNCIA NORMATIVA;
+2. REFERÊNCIA NORMATIVA;
 
-Item. 3. TERMOS e DEFINIÇÕES;
+3. TERMOS e DEFINIÇÕES;
 
-Item. 4. Contexto da ORGANIZAÇÃO;
+4. Contexto da ORGANIZAÇÃO;
 
-Item. 5. LIDERANÇA;
+5. LIDERANÇA;
 
-Item. 6. PLANEJAMENTO;
+6. PLANEJAMENTO;
 
-Item. 7. APOIO;
+7. APOIO;
 
-Item. 8. OPERAÇÃO;
+8. OPERAÇÃO;
 
-Item. 9. AVALIAÇÃO do DESEMPENHO;
+9. AVALIAÇÃO do DESEMPENHO;
 
-Item. 10. MELHORIA;
+10. MELHORIA;
 
 ESCOPO
 
-
-Item. 0.0
-
+0.0
 
 Nesta parte da norma é onde encontramos, além dos itens já apresentados no objetivo,
 outros
@@ -129,10 +125,8 @@ CONTEXTO DA ORGANIZAÇÃO
 O SGSI não pode ser um documento avulso na organização. Para a sua construção, deve-se levar em
 conta a realidade da organização.
 
-
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital)
-
 
 Por isso é importante ENTENDER A ORGANIZAÇÃO E SEU CONTEXTO, bem como as NECESSIDADES
 E EXPECTATIVAS DAS PARTES INTERESSADAS. Obviamente, deve-se determinar também quem são
@@ -159,7 +153,6 @@ autoridades,
 responsabilidades e papéis organizacionais que serão os atores diretos relacionados a
 assuntos de
 Segurança da Informação.
-
 
 A
 
@@ -202,7 +195,6 @@ seguimentos às demais ações.
 Assim, o planejamento é importante para mapear os riscos e oportunidades no âmbito do
 SGSI, com
 rotinas de avaliação contínua nesse processo.
-
 
 Quando se conhece os riscos e oportunidades, é possível acompanha-los e medi-los, com
 definições
@@ -254,10 +246,8 @@ A partir das próximas seções, veremos os conceitos de maneira conjugada entre
 27001 e
 27002.
 
-
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital)
-
 
 Antes disso, vamos aproveitar para também termos uma visão da estrutura da norma 27002.
 
@@ -304,17 +294,16 @@ rotinas de backup... O porquê é necessário se preocupar com funcionário ante
 e depois
 da contratação...
 
-
 Então quando uma questão cair na prova, ainda que você não lembre a literalidade da
 norma, o
 assunto e afirmação fará algum sentido. Portanto, vamos conhecer a estrutura da Norma...
 
-Item. 1. Políticas de segurança da informação
+1. Políticas de segurança da informação
 a. Orientação da Direção para segurança da informação
 i. Políticas para segurança da Informação
 ii. Análise crítica das políticas para Segurança da Informação;
 
-Item. 2. Organização da Segurança da Informação
+2. Organização da Segurança da Informação
 a. Organização Interna
 i. Responsabilidades e papéis pela Segurança da Informação;
 
@@ -330,7 +319,7 @@ b. Dispositivos móveis e trabalho remoto
 i. Política para uso de dispositivo móvel
 ii. Trabalho Remoto
 
-Item. 3. Segurança em Recursos Humanos
+3. Segurança em Recursos Humanos
 a. Antes da Contratação
 i. Seleção
 ii. Termos e Condições de Contratação;
@@ -344,7 +333,7 @@ iii. Processo disciplinar;
 c. Encerramento e mudança da contratação
 i. Responsabilidades pelo encerramento ou mudança da contratação;
 
-Item. 4. Gestão de Ativos
+4. Gestão de Ativos
 a. Responsabilidade pelos ativos
 i. Inventário dos ativos
 ii. Proprietário dos ativos
@@ -359,7 +348,7 @@ i. Gerenciamento de mídias removíveis
 ii. Descarte de mídias
 iii. Transferência física de mídias
 
-Item. 5. Controle de Acesso
+5. Controle de Acesso
 a. Requisitos do negócio para controle de acesso
 i. Política de controle de acesso
 ii. Acesso às redes e aos serviços de rede
@@ -380,12 +369,12 @@ iii. Sistema de Gerenciamento de senha
 iv. Uso de programas utilitários privilegiados
 v. Controle de acesso ao código-fonte de programas
 
-Item. 6. Criptografia
+6. Criptografia
 a. Controles criptográficos
 i. Política para o uso de controles criptográficos
 ii. Gerenciamento de chaves
 
-Item. 7. Segurança física e do ambiente
+7. Segurança física e do ambiente
 a. Áreas Seguras
 i. Perímetro de segurança física
 ii. Controles de entrada física
@@ -404,7 +393,7 @@ vii. Reutilização ou descarte seguro de equipamentos
 viii. Equipamento de usuário sem monitoração
 ix. Política de mesa limpa e tela limpa
 
-Item. 8. Segurança nas operações
+8. Segurança nas operações
 a. Responsabilidades e procedimentos operacionais
 i. Documentação dos procedimentos de operação
 ii. Gestão de mudanças
@@ -428,7 +417,7 @@ ii. Restrições quanto à instalação de software
 g. Considerações quanto à auditoria de sistemas da informação
 i. Controles de auditoria de sistemas de informação
 
-Item. 9. Segurança das comunicações
+9. Segurança das comunicações
 a. Gerenciamento da segurança em redes
 i. Controles de redes
 ii. Segurança dos serviços de rede
@@ -439,7 +428,7 @@ ii. Acordos para transferência de informações
 iii. Mensagens eletrônicas
 iv. Acordos de confidencialidade e não divulgação
 
-Item. 10. Aquisição, Desenvolvimento e Manutenção de Sistemas
+10. Aquisição, Desenvolvimento e Manutenção de Sistemas
 a. Requisitos de Segurança de sistemas de informação
 i. Análise e especificação dos requisitos de segurança da informação
 ii. Serviços de aplicação seguros em redes públicas
@@ -458,7 +447,7 @@ ix. Teste de aceitação de sistemas
 c. Dados para teste
 i. Proteção dos dados para teste
 
-Item. 11. Relacionamento na Cadeia de Suprimento
+11. Relacionamento na Cadeia de Suprimento
 a. Segurança da informação na cadeia de suprimento
 i. Política de segurança da informação no relacionamento com os fornecedores
 ii. Identificando segurança da informação nos acordos com fornecedores
@@ -467,7 +456,7 @@ b. Gerenciamento da entrega do serviço do fornecedor
 i. Monitoramento e análise crítica de serviços com fornecedores
 ii. Gerenciamento de mudanças para serviços com fornecedores
 
-Item. 12. Gestão de Incidentes de Segurança da Informação
+12. Gestão de Incidentes de Segurança da Informação
 a. Gestão de incidentes de segurança da informação e melhorias
 i. Responsabilidades e procedimentos
 ii. Notificação de eventos de segurança da informação
@@ -477,7 +466,7 @@ v. Resposta aos incidentes de segurança da informação
 vi. Aprendendo com os incidentes de segurança da informação
 vii. Coleta de evidências
 
-Item. 13. Aspectos da Segurança da Informação na Gestão da Continuidade do Negócio
+13. Aspectos da Segurança da Informação na Gestão da Continuidade do Negócio
 a. Continuidade da Segurança da Informação
 i. Planejando a continuidade da segurança da informação
 ii. Implementando a continuidade da segurança da informação
@@ -486,7 +475,7 @@ informação
 b. Redundâncias
 i. Disponibilidade dos recursos de processamento da informação
 
-Item. 14. Conformidade
+14. Conformidade
 a. Conformidade com requisitos legais e contratuais
 i. Identificação da legislação aplicável e de requisitos contratuais
 ii. Direitos de propriedade intelectual
@@ -497,7 +486,6 @@ b. Análise crítica da segurança da informação
 i. Análise crítica independente da segurança da informação
 ii. Conformidade com as políticas e procedimentos de segurança da informação
 iii. Análise crítica da conformidade técnica
-
 
 UFAAAÜH Chegamos ao término da lista topicalizada que já nos ajuda a responder boa
 parte das
@@ -516,7 +504,6 @@ considerando os
 controles, podemos perceber a norma utilizar o termo "CONVÉM", justamente porque são
 ações e
 controles que merecem a atenção por parte das organizações.
-
 
 ESTRUTURA
 
@@ -547,12 +534,10 @@ necessários.
 
 Esta Seção possui um único objetivo:
 
-Item. 1. Orientação da Direção para a Segurança da Informação
-
+1. Orientação da Direção para a Segurança da Informação
 
 0 0 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital)
-
 
 OBJETIVO
 
@@ -587,7 +572,6 @@ Então, cuidado... A POSIC alcança a todos que possuem alguma relação com a
 instituição, seja
 internamente, seja externamente.
 
-
 Além disso, diz-se que a POSIC é um documento vivo. Em sua construção, deve-se conter
 um tópico
 específico que determine a periodicidade de revisão e atualização, podendo ser de 2 em
@@ -598,7 +582,6 @@ Entretanto, como a POSIC deve representar o contexto estratégico da
 organização, caso haja
 mudanças significativas, obviamente a POSIC também deve acompanhar essa realidade, podendo
 ser, nesse horizonte, atualizada a qualquer tempo.
-
 
 ORGANIZAÇAO DA SEGURANÇA DA
 INFORMAÇÃO
@@ -638,7 +621,6 @@ Esse objetivo é dividido em cinco controles:
 
 /'. Responsabilidades e papéis pela Segurança da Informação;
 
-
 CONTROLE
 
 Convém que todas as responsabilidades pela segurança da
@@ -672,7 +654,6 @@ informação sejam mantidos.
 
 v. Segurança da Informação no gerenciamento de projetos;
 
-
 CONTROLE
 
 Convém que a segurança da informação seja considerada no
@@ -680,7 +661,6 @@ gerenciamento de projetos, independentemente do tipo de
 projeto.
 
 F
-
 
 Dispositivos móveis e trabalho remoto
 
@@ -707,7 +687,6 @@ Convém que uma política e medidas que apoiam a segurança da
 informação sejam implementadas para proteger as informações
 acessadas, processadas ou armazenadas em locais de trabalho
 remoto.
-
 
 SEGURANÇA EM RECURSOS HUMANOS
 
@@ -747,7 +726,6 @@ Esse objetivo é dividido em dois controles:
 
 /. Seleção
 
-
 CONTROLE
 
 Convém que verificações do histórico sejam realizadas para
@@ -775,7 +753,6 @@ Esse objetivo é dividido em três controles:
 
 /. Responsabilidades da Direção
 
-
 CONTROLE
 
 Convém que a Direção solicite a todos os funcionários e partes
@@ -801,7 +778,6 @@ cometido uma violação de segurança da informação.
 
 Encerramento e mudança da contratação
 
-
 OBJETIVO
 
 Proteger os interesses da organização como parte do processo de
@@ -817,7 +793,6 @@ Convém que as responsabilidades e obrigações pela segurança da
 informação que permaneçam válidas após um encerramento ou
 mudança da contratação sejam definidas, comunicadas aos
 funcionários ou partes externas e cumpridas.
-
 
 GESTÃO DE ATIVOS
 
@@ -852,8 +827,7 @@ atenção especial a sua estrutura e termos utilizados.
 
 Esta Seção possui três objetivos:
 
-Item. 1. Responsabilidade pelos Ativos
-
+1. Responsabilidade pelos Ativos
 
 OBJETIVO
 
@@ -872,7 +846,6 @@ destes ativos seja estruturado e mantido.
 
 //. Proprietário dos ativos
 
-
 CONTROLE
 
 Convém que os ativos mantidos no inventário tenham um
@@ -888,14 +861,13 @@ informação sejam identificadas, documentadas e implementadas.
 
 iv. Devolução dos ativos
 
-
 CONTROLE
 
 Convém que todos os funcionários e partes externas devolvam todos
 os ativos da organização que estejam em sua posse, após o
 encerramento de suas atividades, do contrato ou acordo.
 
-Item. 2. Classificação da Informação
+2. Classificação da Informação
 
 OBJETIVO
 
@@ -909,7 +881,6 @@ CONTROLE
 Convém que a informação seja classificada em termos do seu valor,
 requisitos legais, sensibilidade e criticidade para evitar modificação
 ou divulgação não autorizada.
-
 
 Esse controle específico recorrentemente cai em prova, seja no âmbito da ISO 27002,
 seja nos
@@ -959,8 +930,7 @@ e tratar a informação seja desenvolvido e implementado de acordo
 com o esquema de classificação da informação adotada pela
 organização.
 
-
-Item. 777. Tratamento dos ativos
+777. Tratamento dos ativos
 
 CONTROLE
 
@@ -968,7 +938,7 @@ Convém que procedimentos para o tratamento dos ativos sejam
 desenvolvidos e implementados de acordo com o esquema de
 classificação da informação adotado pela organização.
 
-Item. 3. Tratamento de mídias
+3. Tratamento de mídias
 
 OBJETIVO
 
@@ -994,11 +964,9 @@ Convém que mídias contendo informações sejam protegidas contra
 acesso não autorizado, uso impróprio ou corrupção, durante o
 transporte.
 
-
 CONTROLE DE ACESSO
 
 ESTRUTURA
-
 
 acesso
 
@@ -1040,7 +1008,6 @@ Esta Seção possui quatro objetivos:
 
 Requisitos do negócio para controle de acesso
 
-
 OBJETIVO
 
 Limitar o acesso à informação e aos recursos de processamento da
@@ -1070,9 +1037,7 @@ tratados na Seção de SEGURANÇA FÍSICA E DO AMBIENTE, que veremos logo mais.
 
 //. Acesso às redes e aos serviços de rede
 
-
 0 0
-
 
 CONTROLE
 
@@ -1099,7 +1064,6 @@ acesso.
 
 Provisionamento para acesso de usuário
 
-
 CONTROLE
 
 Convém que um processo formal de provisionamento de acesso do
@@ -1108,7 +1072,6 @@ acesso do usuário para todos os tipos de usuários em todos os teipos
 de sistemas e serviços.
 
 iii. Gerenciamento de direitos de acesso privilegiados
-
 
 CONTROLE
 
@@ -1140,7 +1103,6 @@ atividades, contratos eou acordos, ou ajustados após a mudança
 destas atividades.
 
 Responsabilidades dos Usuários
-
 
 OBJETIVO
 
@@ -1174,9 +1136,7 @@ acesso.
 
 //. Procedimentos seguros de entrada no sistema (log-on)
 
-
 0 0
-
 
 CONTROLE
 
@@ -1236,10 +1196,8 @@ risco, tais como, locais públicos, ou áreas externas ao gerenciamento de segur
 organização
 ou quando do uso de dispositivos móveis;
 
-
 Q-Q SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023
 (Pós-Edital)
-
 
 I) restrinja os tempos de conexão para fornecer segurança adicional nas aplicações de
 alto risco e
@@ -1269,14 +1227,12 @@ A norma traz algumas orientações que merecem destaque:
 * Considerar um repositório centralizado para tal procedimento. Semelhante ao processo de
 gerenciamento de LOG's;
 
-
 * Evitar manter as bibliotecas de programas-fonte no mesmo ambiente dos sistemas
 operacionais;
 
 * Não permitir um controle irrestrito das equipes de suporte aos programas-fonte;
 
 * A listagem dos programas seja mantida em ambiente seguro;
-
 
 CRIPTOGRAFIA
 
@@ -1312,7 +1268,6 @@ A norma traz um rol de objetivos dos controles criptográficos. A saber:
 Confidencialidade - Usa a criptografia para proteger informações sensíveis ou críticas,
 armazenadas ou transmitidas;
 
-
 Integridade/Autenticidade - Referência ao uso de assinaturas digitais;
 
 Não Repúdio - Uso de técnicas para obter evidência da ocorrência ou não ocorrência de
@@ -1337,38 +1292,35 @@ Convém que um sistema de gerenciamento de chaves seja baseado em um conjunto
 estabelecido de
 normas, procedimentos e métodos seguros para:
 
-Item. 1. gerar chaves para diferentes sistemas criptográficos e diferentes aplicações;
+1. gerar chaves para diferentes sistemas criptográficos e diferentes aplicações;
 
-Item. 2. gerar e obter certificados de chaves públicas;
+2. gerar e obter certificados de chaves públicas;
 
-Item. 3. distribuir chaves para os usuários devidos, incluindo a forma como as chaves são ativadas,
+3. distribuir chaves para os usuários devidos, incluindo a forma como as chaves são ativadas,
 quando recebidas;
 
-Item. 4. armazenar chaves, incluindo a forma como os usuários autorizados obtêm acesso a elas;
+4. armazenar chaves, incluindo a forma como os usuários autorizados obtêm acesso a elas;
 
-Item. 5. mudar ou atualizar chaves, incluindo regras quando as chaves são mudadas e como isto
+5. mudar ou atualizar chaves, incluindo regras quando as chaves são mudadas e como isto
 deve ser conduzido;
 
-Item. 6. lidar com chaves comprometidas;
+6. lidar com chaves comprometidas;
 
-
-Item. 7. revogar chaves, incluindo regras de como elas são retiradas ou desativadas, por exemplo
+7. revogar chaves, incluindo regras de como elas são retiradas ou desativadas, por exemplo
 quando chaves tiverem sido comprometidas ou quando um usuário deixa a organização (é
 recomendável, também neste caso, que as chaves sejam guardadas);
 
-Item. 8. recuperar chaves perdidas ou corrompidas;
+8. recuperar chaves perdidas ou corrompidas;
 
-Item. 9. realizar cópias de segurança ou guardar as chaves;
+9. realizar cópias de segurança ou guardar as chaves;
 
-Item. 10. destruir chaves;
+10. destruir chaves;
 
-Item. 11. manter registro e auditoria das atividades relacionadas com o gerenciamento de chaves;
-
+11. manter registro e auditoria das atividades relacionadas com o gerenciamento de chaves;
 
 SEGURANÇA FÍSICA E DO AMBIENTE
 
 ESTRUTURA
-
 
 Áreas Seguras
 salas e instalações
@@ -1410,7 +1362,6 @@ os recursos de processamento das informações e nas informações da
 organização.
 
 Esse objetivo é dividido em cinco controles:
-
 
 /. Perímetro de segurança física
 
@@ -1456,7 +1407,6 @@ c) convém que uma trilha de auditoria eletrônica ou um livro de registro físi
 todos os
 acessos seja mantida e monitorada de forma segura;
 
-
 d) convém que seja exigido que todos os funcionários, fornecedores e partes externas, e
 todos os visitantes, tenham alguma forma visível de identificação, e que eles avisem
 imediatamente ao pessoal de segurança, caso encontrem visitantes não acompanhados ou
@@ -1496,7 +1446,6 @@ trabalho em áreas seguras.
 
 vi. Áreas de entrega e de carregamento
 
-
 CONTROLE
 
 Convém que pontos de acesso, como áreas de entrada e de
@@ -1523,7 +1472,6 @@ locais para reduzir os riscos de ameaças e perigos do meio ambiente,
 bem como as oportunidades de acesso não autorizado.
 
 //. Utilidades
-
 
 CONTROLE
 
@@ -1555,7 +1503,6 @@ retirados do local sem autorização prévia.
 
 vi. Segurança de equipamentos e ativos fora das dependências da organização
 
-
 CONTROLE
 
 Convém que sejam tomadas medidas de segurança para ativos que
@@ -1586,7 +1533,6 @@ CONTROLE
 Convém que sejam adotadas políticas de mesa limpa para papéis e
 mídias de armazenamento removíveis e uma política de tela limpa
 para os recursos de processamento da informação.
-
 
 SEGURANÇA NAS OPERAÇOES
 
@@ -1639,7 +1585,6 @@ nncirlnrnr Anc niinnt-n ò o i i/-I i-F/-» r i o
 
 Esta Seção é dividida em sete objetivos:
 
-
 Responsabilidades e procedimentos operacionais
 
 OBJETIVO
@@ -1671,7 +1616,6 @@ CONTROLE
 Convém que a utilização dos recursos seja monitorada e ajustada, e
 que as projeções sejam feitas para a necessidade de capacidade
 futura para garantir o desempenho requerido do sistema.
-
 
 iv. Separação dos ambientes de desenvolvimento, teste e produção
 
@@ -1707,7 +1651,6 @@ Proteger contra perda de dados.
 
 F
 
-
 Esse objetivo possui um único controle:
 
 /. Cópias de segurança das informações
@@ -1728,7 +1671,6 @@ Esse objetivo possui quatro controles:
 
 /. Registros de eventos
 
-
 CONTROLE
 
 Convém que registros (log) de eventos das atividades do usuário,
@@ -1737,7 +1679,6 @@ produzidos, mantidos e analisados criticamente, a intervalos
 regulares.
 
 ii. Proteção das informações dos registros de eventos (logs)
-
 
 CONTROLE
 
@@ -1772,7 +1713,6 @@ Esse objetivo possui um único controle:
 
 /. Instalação de software nos sistemas operacionais
 
-
 CONTROLE
 
 Convém que procedimentos para controlar a instalação de software
@@ -1803,7 +1743,6 @@ CONTROLE
 Convém que sejam estabelecidas e implementadas regras definindo
 critérios para a instalação de software pelos usuários.
 
-
 Considerações quanto à auditoria de sistemas da informação
 
 OBJETIVO
@@ -1815,14 +1754,12 @@ Esse objetivo possui um único controle:
 
 Controles de auditoria de sistemas de informação
 
-
 CONTROLE
 
 Convém que as atividades e requisitos de auditoria envolvendo a
 verificação nos sistemas operacionais sejam cuidadosamente
 planejados e acordados para minimizar interrupção dos processos do
 negócio.
-
 
 SEGURANÇA DAS COMUNICAÇÕES
 
@@ -1865,7 +1802,6 @@ CONTROLE
 Convém que as redes sejam gerenciadas e controladas para proteger
 as informações nos sistemas e aplicações.
 
-
 //. Segurança dos serviços de rede
 
 CONTROLE
@@ -1893,7 +1829,6 @@ e com quaisquer entidades externas.
 Esse objetivo é dividido em quatro controles:
 
 /. Políticas e procedimentos para transferência de informações
-
 
 CONTROLE
 
@@ -1924,7 +1859,6 @@ Convém que os requisitos para confidencialidade ou acordos de não
 divulgação que reflitam as necessidadess da organização para a
 proteção da informação sejam identificados, analisados criticamente
 e documentados.
-
 
 AQUISIÇAO, DESENVOLVIMENTO E MANUTENÇÃO
 DE SISTEMAS
@@ -1959,7 +1893,6 @@ Esta Seção é dividida em dois objetivos:
 
 Requisitos de Segurança de sistemas de informação
 
-
 OBJETIVO
 
 Garantir que a segurança da informação seja parte integrante de
@@ -1987,7 +1920,6 @@ fraudulentas, disputas contratuais e divulgação e modificações não
 autorizadas.
 
 iii. Protegendo as transações nos aplicativos de serviços
-
 
 CONTROLE
 
@@ -2019,7 +1951,6 @@ segurança dentro da política de segurança de desenvolvimento seguro, e, const
 há itens
 dessa lista que aparecem na prova:
 
-
 a) segurança do ambiente de desenvolvimento;
 
 b) orientações sobre a segurança no ciclo de vida do desenvolvimento do software:
@@ -2048,7 +1979,7 @@ Convém que as mudanças em sistemas no ciclo de vida de
 desenvolvimento sejam controladas utilizando procedimentos
 formais de controle de mudanças.
 
-Item. 777. Análise crítica técnica das aplicações após mudanças nas plataformas operacionais
+777. Análise crítica técnica das aplicações após mudanças nas plataformas operacionais
 
 CONTROLE
 
@@ -2058,7 +1989,6 @@ testadas para garantir que não haverá qualquer impacto adverso na
 operação da organização ou na segurança.
 
 /v. Restrições sobre mudanças em pacotes de software
-
 
 CONTROLE
 
@@ -2092,7 +2022,6 @@ desenvolvimento de sistemas terceirizado.
 
 viii. Teste de segurança do sistema
 
-
 CONTROLE
 
 Convém que os testes das funcionalidades de segurança sejam
@@ -2125,7 +2054,6 @@ CONTROLE
 
 Convém que os dados de teste sejam selecionados com cuidado,
 protegidos e controlados.
-
 
 RELACIONAMENTO NA CADEIA DE SUPRIMENTO
 
@@ -2161,7 +2089,6 @@ Esse objetivo é dividido em três controles:
 
 /. Política de segurança da informação no relacionamento com os fornecedores
 
-
 CONTROLE
 
 Convém que os requisitos de segurança da informação para mitigar
@@ -2178,8 +2105,7 @@ que possa acessar, processar, armazenar, comunicar ou prover
 componentes de infraestrutura de TI para as informações da
 organização.
 
-Item. 777. Cadeia de suprimento na tecnologia da informação e comunicação
-
+777. Cadeia de suprimento na tecnologia da informação e comunicação
 
 CONTROLE
 
@@ -2199,7 +2125,6 @@ Esse objetivo é dividido em dois controles:
 
 /. Monitoramento e análise crítica de serviços com fornecedores
 
-
 CONTROLE
 
 Convém que as organizações monitorem, analisem criticamente e
@@ -2216,7 +2141,6 @@ segurança da informação, dos procedimentos e controles
 existentes, sejam gerenciadas, levando-se em conta a criticidade
 das informações do negócio, dos sistemas e processos envolvidos, e
 a reavaliação dos riscos.
-
 
 GESTÃO DE INCIDENTES DE SEGURANÇA DA
 INFORMAÇÃO
@@ -2251,7 +2175,6 @@ Esse objetivo é dividido em sete controles:
 
 /. Responsabilidades e procedimentos
 
-
 CONTROLE
 
 Convém que responsabilidades e procedimentos de gestão sejam
@@ -2275,7 +2198,6 @@ notificar e registrar quaisquer fragilidades de segurança da
 informação, observada ou suspeita, nos sistemas ou serviços.
 
 iv. Avaliação e decisão dos eventos de segurança da informação
-
 
 CONTROLE
 
@@ -2305,7 +2227,6 @@ CONTROLE
 Convém que a organização defina e aplique procedimentos para a
 identificação, coleta, aquisição e preservação das informações, as
 quais podem servir como evidências.
-
 
 ASPECTOS DA SEGURANÇA DA INFORMAÇÃO NA
 GESTÃO DA CONTINUIDADE DO NEGÓCIO
@@ -2340,7 +2261,6 @@ Esse objetivo é dividido em três controles:
 
 /. Planejando a continuidade da segurança da informação
 
-
 CONTROLE
 
 Convém que a organização determine seus requisitos para a
@@ -2356,7 +2276,6 @@ Convém que a organização estabeleça, documente, implemente e
 mantenha processos, procedimentos e controles para assegurar o
 nível requerido de continuidade para a segurança da informação,
 durante uma situação adversa.
-
 
 ///.
 
@@ -2376,7 +2295,6 @@ OBJETIVO
 Assegurar a disponibilidade dos recursos de processamento da
 informação.
 
-
 Esse objetivo possui um único controle:
 
 /. Disponibilidade dos recursos de processamento da informação
@@ -2386,7 +2304,6 @@ CONTROLE
 Convém que os recursos de processamento da informação sejam
 implementados com redundância suficiente para atender aos
 requisitos de disponibilidade.
-
 
 CONFORMIDADE
 
@@ -2423,7 +2340,6 @@ Esse objetivo é dividido em cinco controles:
 
 /'. Identificação da legislação aplicável e de requisitos contratuais
 
-
 CONTROLE
 
 Convém que todos os requisitos legislativos estatutários,
@@ -2453,7 +2369,6 @@ do negócio.
 
 iv. Proteção e privacidade de informações de identificação pessoal
 
-
 CONTROLE
 
 Convém que a privacidade e a proteção das informações de
@@ -2479,7 +2394,6 @@ Esse objetivo é dividido em três controles:
 
 /. Análise crítica independente da segurança da informação
 
-
 CONTROLE
 
 Convém que o enfoque da organização para gerenciar a segurança
@@ -2499,9 +2413,7 @@ da informação, dentro das suas áreas de responsabilidade, com as
 normas e políticas de segurança e quaisquer outros requisitos de
 segurança da informação.
 
-
 iii. Análise crítica da conformidade técnica
-
 
 CONTROLE
 
@@ -2510,10 +2422,9 @@ criticamente, a intervalos regulares, para verificar a conformidade
 com as normas e políticas de segurança da informação da
 organização.
 
-
 ISO 27001
 
-Item. 1. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
+1. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
 Sistemas/2018
 
 As organizações devem estabelecer os objetivos de segurança da informação deforma
@@ -2529,7 +2440,7 @@ Este último trata-se do principal documento relacionado à Segurança da Inform
 
 Gabarito: E
 
-Item. 2. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
+2. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
 Sistemas/2018
 
 A organização deve determinar e prover recursos necessários a estabelecimento,
@@ -2550,8 +2461,7 @@ norma.
 
 Gabarito: C
 
-
-Item. 3. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
+3. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
 Sistemas/2018
 
 A norma 27001 prevê que as organizações estabeleçam e mantenham critérios de
@@ -2563,13 +2473,13 @@ Comentários:
 Extrapolando um pouco a norma, quando falamos de riscos, nos remetemos a 4 aspectos
 básicos para definição:
 
-Item. 1. Aceitação do Risco;
+1. Aceitação do Risco;
 
-Item. 2. Prevenção do Risco;
+2. Prevenção do Risco;
 
-Item. 3. Mitigação do Risco;
+3. Mitigação do Risco;
 
-Item. 4. Transferência do Risco;
+4. Transferência do Risco;
 
 A norma, em seu capítulo 6, item 2, traz, na seção de planejamento, que
 se deve
@@ -2580,7 +2490,7 @@ o desempenho das avaliações dos riscos.
 
 Gabarito: C
 
-Item. 4. CESPE - TRT - 7^ Região (CE)/ Analista Judiciário - TI/2017
+4. CESPE - TRT - 7^ Região (CE)/ Analista Judiciário - TI/2017
 
 De acordo com a ABNT NBR ISO/IEC 27001, entre os controles da organização interna da
 segurança
@@ -2604,7 +2514,6 @@ e marca a
 questão, você acaba errando. Então vamos lá, avaliando cada item e onde encontramos a
 informação:
 
-
 A) verificar o histórico de candidatos em processo de seleção antes da
 contratação.
 (Segurança de recursos humanos - Antes da Contratação)
@@ -2623,7 +2532,7 @@ Segurança da Informação - Organização Interna)
 
 Gabarito: D
 
-Item. 5. CESPE - TRT - 7^ Região (CE)/ Analista Judiciário - TI/2017
+5. CESPE - TRT - 7^ Região (CE)/ Analista Judiciário - TI/2017
 
 De acordo com a ABNT NBR ISO/IEC 27001, a alta direção da organização tem papel
 fundamental
@@ -2650,8 +2559,7 @@ operacional, enquanto a letra "A" possui um caráter mais de diretriz...
 
 Gabarito: A
 
-
-Item. 6. CESPE - TRE-BA/Analista Judiciário - Análise de Sistemas/2017
+6. CESPE - TRE-BA/Analista Judiciário - Análise de Sistemas/2017
 
 / A gestão dos ativos mantidos no inventário deve ser realizada por ente terceirizado.
 
@@ -2704,7 +2612,6 @@ propriedade, uso aceitável e devolução. CERTO
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
-
 Item IV - Conforme já mencionamos no item anterior. E o último ponto... CERTO
 Como a questão é focada na gestão de ativos, vamos relembrar a estrutura:
 
@@ -2723,7 +2630,6 @@ Classificação da Informação
 
 Rótulos e tratamento da
 
-
 Informação
 
 Tratamento de Mídias
@@ -2732,7 +2638,7 @@ Tratamento dos Ativos
 
 Gabarito: E
 
-Item. 7. CESPE - SEDF/Analista de Gestão Educacional/2017
+7. CESPE - SEDF/Analista de Gestão Educacional/2017
 
 Todo documento requerido pelo sistema de gestão de segurança da informação (SGSI)
 precisa ter
@@ -2750,8 +2656,7 @@ quaisquer critérios. Longe de ser razoável, certo?
 
 Gabarito: E
 
-
-Item. 8. CESPE - SEDF/Analista de Gestão Educacional/2017
+8. CESPE - SEDF/Analista de Gestão Educacional/2017
 
 Ao implantar um sistema de gestão de segurança da informação (SGSI), a empresa deve
 identificar
@@ -2765,9 +2670,9 @@ Novamente, aplicando o bom senso, resolvemos a questão. Sem dúvida
 identificar as falhas e
 incidentes possuem dois objetivos básicos:
 
-Item. 1. Prevenir que acontecem;
+1. Prevenir que acontecem;
 
-Item. 2. Agilizar o tempo de resposta;
+2. Agilizar o tempo de resposta;
 
 Um outro destaque fica para o primeiro objetivo considerado na resposta aos
 incidentes: "Voltar ao
@@ -2775,7 +2680,7 @@ nível de segurança normal", para só então iniciar a recuperação necessári
 
 Gabarito: C
 
-Item. 9. CESPE - SEDF/Analista de Gestão Educacional/2017
+9. CESPE - SEDF/Analista de Gestão Educacional/2017
 
 Um analista de TI foi designado para promover ações gue, mediante recursos
 criptográficos, visam
@@ -2807,7 +2712,6 @@ Gabarito: C
 No que se refere a sistemas de gestão da segurança da informação (SGSI), julgue o
 item a seguir à
 luz da norma ISO/IEC 27001:2013.
-
 
 Para reivindicar conformidade com a referida norma, uma organização poderá
 excluir, sem
@@ -2844,7 +2748,6 @@ divulgada para todos da
 organização, inclusive para os stakeholders.
 
 Gabarito: E
-
 
 ISO 27002
 
@@ -2901,7 +2804,6 @@ documento com
 o setor de TI.
 
 c) manter os rótulos de classificação originais nos documentos oriundos de outras organizações.
-
 
 d) manter o princípio de equidade que garante aos funcionários com funções similares
 o mesmo
@@ -3010,7 +2912,6 @@ devem
 ser alterados justamente para não adulterarem eventuais evidências para fins de
 auditoria, certo pessoal?
 
-
 Gabarito: C
 
 16.CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
@@ -3055,7 +2956,6 @@ Comentários:
 Questão bem maldosa e sutil do CESPE. Realmente a lógica aqui acaba levando o
 candidato ao erro por não
 saber os detalhes.
-
 
 A norma zela pela política de descarte como medida de segurança. Desse modo, ela
 distingue em termos
@@ -3107,7 +3007,6 @@ em
 uma organização e ancoradas na POSIC, a saber:
 
 a) controle de acesso;
-
 
 b) classificação e tratamento da informação;
 
@@ -3169,7 +3068,6 @@ para, só então, iniciar a recuperação.
 
 SERPRO (Analista - Especialização: Tecnologia) Segurança da Informação - 2023 (Pós-I
 
-
 É uma tendência natural de questões desse tipo quando se começa a realizar
 muitos
 exercícios.
@@ -3214,12 +3112,11 @@ demais. Os demais aspectos estão corretos em seus apontamentos.
 
 Gabarito: E
 
-
 EXERCÍCIOS COMENTADOS COMPLEMENTARES
 
 ISO 27001 E 27002
 
-Item. 1. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
+1. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
 
 0 Técnico de Suporte foi designado para estabelecer, junto aos usuários da Defensoria, um
 código de prática para o controle de segurança da informação no gerenciamento de
@@ -3267,10 +3164,9 @@ separadas para reduzir riscos futuros de perda ou dano.
 e) quando necessário e prático, seja requerida a autorização verbal para remoção de
 qualquer mídia da organização. ERRADO
 
-
 Gabarito: C
 
-Item. 2. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
+2. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
 
 O Técnico de Suporte encontrou o seguinte controle de segurança da informação na
 Norma NBRISO/IEC 27002:2013: estabelecer uma política formal proibindo o uso de
@@ -3302,7 +3198,7 @@ que este se encontra na seção de SEGURANÇA NAS OPERAÇÕES.
 
 Gabarito: D
 
-Item. 3. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
+3. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
 
 A Norma ABNT NBR ISO/IEC 27002:2013 recomenda que um conjunto de políticas de
 segurança da informação seja definido. Segundo a Norma,
@@ -3321,7 +3217,6 @@ da informação atual.
 ej é recomendável que estas políticas contenham requisitos oriundos de
 regulamentações, legislação e contratos.
 
-
 Comentário:
 
 Vamos comentar os itens:
@@ -3339,7 +3234,7 @@ e) CORRETO
 
 Gabarito: E
 
-Item. 4. FCC - TRT-245 Região (MS)/Técnico Judiciário/2017
+4. FCC - TRT-245 Região (MS)/Técnico Judiciário/2017
 
 A norma ABNTNBRISO/IEC 27001:2013 apresenta como anexo uma tabela com
 controles e objetivos de controle alinhados com os existentes na norma ABNT NBR
@@ -3373,7 +3268,6 @@ estão corretos. ERRADO
 b) Mais uma vez, não há o que se falar MUDANÇA e INFORMAL na mesma frase.
 ERRADO
 
-
 c) Pessoal, não há qualquer restrição para contratação de terceirizadas para tal
 finalidade. Obviamente, deve-se tratar todos os aspectos da ISO 27002 no que
 tange à segurança da informação para stakeholders externos. Vale mencionar,
@@ -3392,7 +3286,7 @@ SISTEMAS. CORRETO
 
 Gabarito: E
 
-Item. 5. FCC - TRT-24- Região (MS)/Técnico Judiciário/2017
+5. FCC - TRT-24- Região (MS)/Técnico Judiciário/2017
 
 Desenvolvimento seguro é um requisito para construir um serviço, uma arquitetura, um
 software e um sistema que respeitem normas de segurança. Dentro de uma política de
@@ -3429,10 +3323,9 @@ ENCONTRAR E CORRIGIR VULNERABILIDADES. ERRADO
 e) Para verificarmos a tendência da banca. Já mencionarmos esse item
 recentemente. ERRADO
 
-
 Gabarito: C
 
-Item. 6. FCC - TRT-11- Região (AM e RR)/Analista Judiciário/2017
+6. FCC - TRT-11- Região (AM e RR)/Analista Judiciário/2017
 
 Um Analista Judiciário deve estabelecer um código de prática de segurança da
 informação no TRTpara o controle e a prevenção de ataques de malwares. Considerando-
@@ -3478,8 +3371,7 @@ dos aspectos relacionados à Segurança da Informação. ERRADO
 
 Gabarito: C
 
-
-Item. 7. FCC - TRE-SP/Analista Judiciário/2017
+7. FCC - TRE-SP/Analista Judiciário/2017
 
 Um Analista de Sistemas do TRE-SP deve, hipoteticamente, estabelecer e especificar os
 controles de segurança de acordo com a Norma ABNT NBRISO/IEC 27002:2013. Um dos
@@ -3518,7 +3410,7 @@ dos PROCEDIMENTOS SEGUROS DE ENTRADA NO SISTEMA (LOG-ON).
 
 Gabarito: B
 
-Item. 8. FCC - TRE-SP/Analista Judiciário/2017
+8. FCC - TRE-SP/Analista Judiciário/2017
 
 Supondo-se que o TRE-SP tenha concursado profissionais que irão realizar atividades em
 local de trabalho remoto. A fim de garantir a segurança da informação, esse Tribunal se
@@ -3527,7 +3419,6 @@ objeto, em suas diretrizes para implementação, reza que deve haver política, 
 controles que apoiem a segurança da informação e que a organização deve estabelecer
 condições e restrições para uso em trabalho remoto. Assim, quando entendidos como
 aplicáveis e permitidos por lei, convém considerar:
-
 
 I. Acordos de licenciamento de software que podem tornar as organizações responsáveis
 pelo licenciamento do software cliente em estações de trabalho particulares de
@@ -3574,8 +3465,7 @@ de funcionários, fornecedores ou terceiros;
 
 Gabarito: A
 
-
-Item. 9. FCC - PGE-MT/Analista de Sistemas/2016
+9. FCC - PGE-MT/Analista de Sistemas/2016
 
 A norma ABNTNBRISO/IEC 27002:2013 traz uma seção que trata da organização da
 segurança da informação nas organizações. Dentre os controles apresentados nessa seção
@@ -3617,32 +3507,31 @@ serviços. Logo, estamos na seção DURANTE A CONTRATAÇÃO. ERRADO
 
 Gabarito: B
 
-
 LISTA DE EXERCÍCIOS
 
 ISO 27001
 
-Item. 1. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
+1. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
 Sistemas/2018
 
 As organizações devem estabelecer os objetivos de segurança da informação deforma
 independente de sua política de segurança da informação.
 
-Item. 2. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
+2. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
 Sistemas/2018
 
 A organização deve determinar e prover recursos necessários a estabelecimento,
 implementação,
 manutenção e melhoria contínua do sistema de gestão de segurança da informação (SGSI).
 
-Item. 3. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
+3. CESPE - CGM/PB - Auditor Municipal de Controle Interno - Desenvolvimento de
 Sistemas/2018
 
 A norma 27001 prevê que as organizações estabeleçam e mantenham critérios de
 riscos de
 segurança da informação que incluam os critérios de aceitação do risco.
 
-Item. 4. CESPE - TRT - 7^ Região (CE)/ Analista Judiciário - TI/2017
+4. CESPE - TRT - 7^ Região (CE)/ Analista Judiciário - TI/2017
 
 De acordo com a ABNT NBR ISO/IEC 27001, entre os controles da organização
 interna da segurança
@@ -3657,7 +3546,7 @@ c) descartar qualquer tipo de mídia com informações confidenciais.
 
 d) considerar a segurança da informação em qualquer tipo de projeto.
 
-Item. 5. CESPE - TRT - 7* Região (CE)/ Analista Judiciário - TI/2017
+5. CESPE - TRT - 7* Região (CE)/ Analista Judiciário - TI/2017
 
 De acordo com a ABNT NBR ISO/IEC 27001, a alta direção da organização tem papel
 fundamental
@@ -3672,7 +3561,7 @@ c) informe responsáveis por cada ativo de informação.
 
 d) crie mecanismos de avaliação de riscos compatíveis com o framework Cobit 5.
 
-Item. 6. CESPE - TRE-BA/Analista Judiciário - Análise de Sistemas/2017
+6. CESPE - TRE-BA/Analista Judiciário - Análise de Sistemas/2017
 
 / A gestão dos ativos mantidos no inventário deve ser realizada por ente terceirizado.
 
@@ -3702,7 +3591,7 @@ d) Apenas os itens I e IV estão certos.
 
 e) Apenas os itens III e IV estão certos.
 
-Item. 7. CESPE - SEDF/Analista de Gestão Educacional/2017
+7. CESPE - SEDF/Analista de Gestão Educacional/2017
 
 Todo documento requerido pelo sistema de gestão de segurança da informação (SGSI)
 precisa ter
@@ -3710,7 +3599,7 @@ identificação e controle de versão de alteração, de modo que as diversas ve
 fiquem disponíveis
 nos locais de uso, sem que nada seja descartado.
 
-Item. 8. CESPE - SEDF/Analista de Gestão Educacional/2017
+8. CESPE - SEDF/Analista de Gestão Educacional/2017
 
 Ao implantar um sistema de gestão de segurança da informação (SGSI), a empresa deve
 identificar
@@ -3718,8 +3607,7 @@ falhas e incidentes de segurança da informação de forma mais rápida e precis
 de agilizar o
 tempo de resposta e prevenir incidentes futuros.
 
-
-Item. 9. CESPE - SEDF/Analista de Gestão Educacional/2017
+9. CESPE - SEDF/Analista de Gestão Educacional/2017
 
 Um analista de TI foi designado para promover ações que, mediante recursos
 criptográficos, visam
@@ -3732,7 +3620,7 @@ No que se refere a essa situação hipotética, julgue o item seguinte.
 De acordo com a ISO/IEC 27001, um processo de gerenciamento de chaves deve ser implantado para
 apoiar o uso de técnicas criptográficas pela organização.
 
-Item. 10. CESPE - TCE-PA/Auditor/2017
+10. CESPE - TCE-PA/Auditor/2017
 
 No que se refere a sistemas de gestão da segurança da informação (SGSI), julgue o
 item a seguir à
@@ -3744,7 +3632,7 @@ justificativas formais, requisitos especificados nas seções de análise críti
 pela direção e de
 auditorias internas do SGSI.
 
-Item. 11. CESPE-TCE-PA/Auditor/2017
+11. CESPE-TCE-PA/Auditor/2017
 
 Devido a seu conteúdo confidencial e estratégico, a política de segurança da informação
 de uma
@@ -3752,10 +3640,9 @@ organização deve estar disponível, como informação documentada, exclusivame
 a alta
 gerência.
 
-
 ISO 27002
 
-Item. 12. CESPE - STJ/Técnico Judiciário - Suporte Técnico/2018
+12. CESPE - STJ/Técnico Judiciário - Suporte Técnico/2018
 
 Os controles da segurança da informação elencados na NBR ISO/IEC 27002 englobam as
 ações
@@ -3771,7 +3658,7 @@ organização, inclusive para os stakeholders.
 
 Gabarito: E
 
-Item. 13. CESPE - STJ/Técnico Judiciário - Suporte Técnico/2018
+13. CESPE - STJ/Técnico Judiciário - Suporte Técnico/2018
 
 A norma ISO 27002 estabelece que o objetivo da classificação das informações
 (atribuição de grau
@@ -3800,32 +3687,31 @@ e) rotular as informações e as saídas geradas pelos sistemas que tratam dados
 confidenciais,
 segundo seu valor e sensibilidade para a organização.
 
-Item. 14. CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
+14. CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
 
 As bibliotecas das fontes dos programas de uma organização devem ser mantidas
 no mesmo
 ambiente computacional do sistema operacional, com o objetivo de facilitar atividades de auditoria.
 
-
-Item. 15. CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
+15. CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
 
 As informações já armazenadas no histórico de acesso não devem ser mais editadas,
 servindo para
 coleta e retenção de evidências para auditoria.
 
-Item. 16. CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
+16. CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
 
 Uma das premissas do controle de acesso na segurança da informação é a implementação
 da regra
 de que tudo é proibido, a menos que seja expressamente permitido.
 
-Item. 17. CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
+17. CESPE - ABIN - Oficial Técnico de Inteligência - Área 8/2018
 
 Quando uma mídia removível não for mais necessária e vier a ser retirada
 da organização,
 recomenda-se que o conteúdo magnético seja deletado.
 
-Item. 18. CESPE - TRT - TO - Técnico Judiciário - Programação de Sistemas/2018
+18. CESPE - TRT - TO - Técnico Judiciário - Programação de Sistemas/2018
 
 Segundo a norma ABNT NBR ISO/IEC 27002:2013, a segurança da informação deve ser
 apoiada por
@@ -3843,7 +3729,7 @@ c) ética concorrencial
 d) gestão de riscos
 e) controles criptográficos
 
-Item. 19. CESPE-TRE - BA - Analista Judiciário/2017
+19. CESPE-TRE - BA - Analista Judiciário/2017
 
 De acordo com a ABNT NBR ISO/IEC 27002 — norma de referência para a escolha de
 controles no
@@ -3858,7 +3744,6 @@ c) listar as lições aprendidas para a divulgação entre os integrantes da org
 
 d) voltar ao nível de segurança normal e, então, iniciar a recuperação.
 
-
 e) suspender as atividades até que os fatos relacionados ao incidente sejam apurados.
 
 20.CESPE - SEDF - Analista de Gestão Educacional - TI/2017
@@ -3868,7 +3753,7 @@ controle de acesso
 lógico, enquanto a política de segurança física e do ambiente deve tratar do controle de acesso
 físico.
 
-Item. 21. CESPE - TCE-SC/Auditor Fiscal de Controle Externo/2017
+21. CESPE - TCE-SC/Auditor Fiscal de Controle Externo/2017
 
 Ao elaborar, manter, melhorar e implantar um sistema de gestão de segurança da
 informação, a
@@ -3877,7 +3762,6 @@ organização deve considerar as características técnicas de seu negócio, e o
 de segurança da informação) deve ser documentado dentro do contexto de suas
 atividades
 operacionais, sem, contudo, envolver a direção da organização.
-
 
 HORA IX
 
@@ -3927,13 +3811,11 @@ GABARITo - QUESTõES CESPE
 
 21 E
 
-
 0 0
-
 
 ISO 27002
 
-Item. 1. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
+1. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
 
 0 Técnico de Suporte foi designado para estabelecer, junto aos usuários da Defensoria, um
 código de prática para o controle de segurança da informação no gerenciamento de
@@ -3954,7 +3836,7 @@ riscos futuros de perda ou dano.
 ej quando necessário e prático, seja requerida a autorização verbal para remoção de
 qualquer mídia da organização.
 
-Item. 2. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
+2. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
 
 0 Técnico de Suporte encontrou o seguinte controle de segurança da informação na
 Norma NBR ISO/IEC 27002:2013: estabelecer uma política formal proibindo o uso de
@@ -3967,7 +3849,7 @@ dj proteção contra malware.
 
 ej acordos de confidencialidade.
 
-Item. 3. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
+3. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
 
 A Norma ABNT NBR ISO/IEC 27002:2013 recomenda que um conjunto de políticas de
 segurança da informação seja definido. Segundo a Norma,
@@ -3980,14 +3862,13 @@ organização.
 cj é recomendável contemplar requisitos oriundos de ações operacionais, independente
 da estratégia do negócio.
 
-
 d) só devem ser contemplados requisitos oriundos do ambiente de ameaça da segurança
 da informação atual.
 
 e) é recomendável que estas políticas contenham requisitos oriundos de
 regulamentações, legislação e contratos.
 
-Item. 4. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
+4. FCC - DPE-AM/Assistente Técnico de Defensoria/2018
 
 A norma ABNTNBRISO/IEC27001:2013 apresenta como anexo uma tabela com
 controles e objetivos de controle alinhados com os existentes na norma ABNT NBR
@@ -4010,7 +3891,7 @@ estiver pronto.
 ej programas de testes de aceitação e critérios relacionados devem ser estabelecidos
 para novos sistemas de informação, atualizações e novas versões.
 
-Item. 5. FCC - TRT-24- Região (MS)/Técnico Judiciário/2017
+5. FCC - TRT-24- Região (MS)/Técnico Judiciário/2017
 
 Desenvolvimento seguro é um requisito para construir um serviço, uma arquitetura, um
 software e um sistema que respeitem normas de segurança. Dentro de uma política de
@@ -4028,7 +3909,7 @@ capacidade de evitar, encontrar e corrigir vulnerabilidades.
 
 e) que o desenvolvimento de software nunca seja terceirizado.
 
-Item. 6. FCC - TRT-11- Região (AM e RR)/Analista Judiciário/2017
+6. FCC - TRT-11- Região (AM e RR)/Analista Judiciário/2017
 
 Um Analista Judiciário deve estabelecer um código de prática de segurança da
 informação no TRTpara o controle e a prevenção de ataques de malwares. Considerando-
@@ -4049,7 +3930,7 @@ boatos.
 e) a eliminação de qualquer atualização não autorizada de software crítico deforma
 imediata não sendo necessária uma investigação formal.
 
-Item. 7. FCC - TRE-SP/Analista Judiciário/2017
+7. FCC - TRE-SP/Analista Judiciário/2017
 
 Um Analista de Sistemas do TRE-SP deve, hipoteticamente, estabelecer e especificar os
 controles de segurança de acordo com a Norma ABNT NBRISO/IEC 27002:2013. Um dos
@@ -4073,7 +3954,7 @@ c) Gerenciamento de acesso do usuário.
 dj Acesso ao código-fonte de programas.
 ej Entrada física de pessoas.
 
-Item. 8. FCC - TRE-SP/Analista Judiciário/2017
+8. FCC - TRE-SP/Analista Judiciário/2017
 
 Supondo-se que o TRE-SP tenha concursado profissionais que irão realizar atividades em
 local de trabalho remoto. A fim de garantir a segurança da informação, esse Tribunal se
@@ -4086,7 +3967,6 @@ aplicáveis e permitidos por lei, convém considerar:
 I. Acordos de licenciamento de software que podem tornar as organizações responsáveis
 pelo licenciamento do software cliente em estações de trabalho particulares de
 propriedade de funcionários, fornecedores ou terceiros.
-
 
 II. Ambiente físico proposto para o trabalho remoto que inclui ambientes de trabalho não
 tradicionais, como aqueles referidos como: "ambientes de telecommuting", "local de
@@ -4106,7 +3986,7 @@ d) II e III.
 
 e) III.
 
-Item. 9. FCC - PGE-MT/Analista de Sistemas/2016
+9. FCC - PGE-MT/Analista de Sistemas/2016
 
 A norma ABNT NBRISO/IEC 27002:2013 traz uma seção que trata da organização da
 segurança da informação nas organizações. Dentre os controles apresentados nessa seção
@@ -4125,7 +4005,6 @@ atribuição dos direitos de acesso a esses usuários.
 
 e) exista um processo disciplinar formal implantado e comunicado, para tomar ações
 contra funcionários que tenham cometido violações de segurança da informação.
-
 
 GABARITO
 
@@ -4150,5 +4029,4 @@ GABARITo - QUESTõES FCC
 8 A
 
 9 B
-
 
