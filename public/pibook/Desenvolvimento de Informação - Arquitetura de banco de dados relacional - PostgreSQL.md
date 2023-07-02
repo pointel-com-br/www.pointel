@@ -1787,7 +1787,7 @@ de autenticação (METHOD).
 
 Externai Authentication
 
-□s
+-s
 
 PostgreSQL
 
@@ -7363,7 +7363,7 @@ CONF File 5 KB
 pgjdent 10/8/2015 5:29 PM
 CONF File 2 KB
 
-□ PG_VERSION 10/8/2015 5:29 PM
+- PG_VERSION 10/8/2015 5:29 PM
 File 1 KB
 
 _ postgresql 10/8/2015 5:34 PM

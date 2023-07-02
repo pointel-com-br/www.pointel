@@ -1914,21 +1914,21 @@ determinado instante é o próprio banco de dados, também denominada de extens�
 
 Esquema Instância
 
-□ Projeto de banco de dados
+- Projeto de banco de dados
 
-□ Intenção
+- Intenção
 
-□ Conotação
+- Conotação
 
-□ Descrição
+- Descrição
 
-□ Fotografia (snapshot)
+- Fotografia (snapshot)
 
-□ Extensão
+- Extensão
 
 | | Estado
 
-□ Ocorrências
+- Ocorrências
 
 Quando trata de uma instância de banco de dados, o Date faz uma distinção
 interessante sobre os

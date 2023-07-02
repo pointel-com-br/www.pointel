@@ -1783,7 +1783,7 @@ ro O mundo não renunciou à guerra. Muito pelo
 contrário. Hoje, a potência mundial hegemónica se dá o direito
 de fazer a guerra ao seu arbítrio, segundo uma doutrina de
 
-□ "autodefesa antecipada" sem limites conhecidos. Com uma
+- "autodefesa antecipada" sem limites conhecidos. Com uma
 
 No texto, a palavra
 a) "arbítrio" (1.12) foi empregada no sentido de vontade.
@@ -2484,7 +2484,7 @@ ro O mundo não renunciou à guerra. Muito pelo
 contrário. Hoje, a potência mundial hegemónica se dá o direito
 de fazer a guerra ao seu arbítrio, segundo uma doutrina de
 
-□ "autodefesa antecipada" sem limites conhecidos. Com uma
+- "autodefesa antecipada" sem limites conhecidos. Com uma
 
 No texto, a palavra
 a) "arbítrio" (1.12) foi empregada no sentido de vontade.

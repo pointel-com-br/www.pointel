@@ -8,12 +8,9 @@ Capítulo. Legislação Geral e Específica - Lei nº 13.709~2018 ( Lei Geral de
 
 3) Questões Comentadas - Lei 13.709/2018 (Lei Geral de Proteção de Dados)
 
-4) Lista de Questões - Lei 13.709/2018 (Lei Geral de Proteção de Dados)
+4) Lista de Questões - Lei 13.709/2018 (Lei Geral de Proteção de Dados
 
-Antonio Daud, Equipe Legislação Específica Estratégia Concurt
-- Prof. Antonio Daud
-
-CoNSIDERAçõES INICIAIS
+Considerações Iniciais
 
 Olá, amigas (os)!
 
@@ -125,18 +122,14 @@ público ou privado, independentemente do meio, do país de sua sede ou do país
 estejam localizados
 os dados, desde que (art. 3Q):
 
-□ tratamento tenha por objetivo 0 fornecimento de bens ou serviços ou 0 tratamento de dados de
+- tratamento tenha por objetivo 0 fornecimento de bens ou serviços ou 0 tratamento de dados de
 indivíduos localizados no território nacional
 
-□ tratamento seja realizado no território nacional
+- tratamento seja realizado no território nacional
 
-□ dados pessoais objeto do tratamento tenham sido coletados no território nacional
+- dados pessoais objeto do tratamento tenham sido coletados no território nacional
 
-Percebam, portanto, que pouco importa onde os dados pessoais estejam sendo armazenados,
-ou o meio no
-qual estão armazenados. O que irá atrair a adoção da LGPD é a utilização dos dados
-em território nacional,
-a realização do tratamento em território nacional ou a coleta de dados no país.
+Percebam, portanto, que pouco importa onde os dados pessoais estejam sendo armazenados, ou o meio no qual estão armazenados. O que irá atrair a adoção da LGPD é a utilização dos dados em território nacional, a realização do tratamento em território nacional ou a coleta de dados no país.
 
 Além disso, em relação à última hipótese, vale destacar que, como regra,
 consideram-se coletados no
@@ -171,23 +164,23 @@ Quanto ao tratamento de dados pessoais para fins de segurança pública, defesa 
 segurança do
 Estado ou de atividades de investigação e repressão de infrações penais, 4 observações importantes:
 
-□ é vedado o tratamento por pessoa de direito privado, exceto em procedimentos sob
+- é vedado o tratamento por pessoa de direito privado, exceto em procedimentos sob
 tutela de
 pessoa jurídica de direito público, que serão objeto de informe específico à autoridade nacional
 
-□ em nenhum caso a totalidade dos dados pessoais de banco de dados poderá ser
+- em nenhum caso a totalidade dos dados pessoais de banco de dados poderá ser
 tratada por pessoa
 de direito privado, salvo por aquela que possua capital integralmente constituído pelo
 poder público
 (como é o caso de uma empresa pública)
 
-□ será regido por legislação específica, que deverá prever medidas
+- será regido por legislação específica, que deverá prever medidas
 proporcionais e estritamente
 necessárias ao atendimento do interesse público, observados o devido processo legal, os
 princípios
 gerais de proteção e os direitos do titular dos dados
 
-□ autoridade nacional emitirá opiniões técnicas ou recomendações referentes a estes
+- autoridade nacional emitirá opiniões técnicas ou recomendações referentes a estes
 casos, devendo
 solicitar aos responsáveis relatórios de impacto à proteção de dados pessoais.
 
@@ -1256,9 +1249,9 @@ Já sabemos que o "titular dos dados" é a pessoa natural a que os dados se refe
 Nesse sentido, a LGPD
 assegura à toda pessoa natural (art. 17):
 
-□ a titularidade de seus dados pessoais
+- a titularidade de seus dados pessoais
 
-□ os direitos fundamentais de liberdade, de intimidade e de privacidade.
+- os direitos fundamentais de liberdade, de intimidade e de privacidade.
 
 Assim, buscando resguardar o titular de dados pessoais, a LGPD lhe garante o direito
 a obter do controlador,
@@ -1325,10 +1318,10 @@ Ao receber o requerimento, caso o controlador esteja impossibilitado de atender 
 maneira imediata a
 solicitação do titular, deverá enviar ao titular resposta em que poderá (art. 18, § 49):
 
-□ comunicar que não é agente de tratamento dos dados e indicar, sempre que possível, o agente
+- comunicar que não é agente de tratamento dos dados e indicar, sempre que possível, o agente
 ou
 
-□ indicar as razões de fato ou de direito que impedem a adoção imediata da providência.
+- indicar as razões de fato ou de direito que impedem a adoção imediata da providência.
 
 Tal requerimento será atendido sem custos para o titular (art. 18, §5e).
 
@@ -1518,13 +1511,13 @@ A LGPD prevê duas importantes condições para tratamento dos dados
 pelos entes públicos (art.
 23):
 
-□ sejam informadas ao cidadão as hipóteses em que realizam o
+- sejam informadas ao cidadão as hipóteses em que realizam o
 tratamento de dados
 pessoais, fornecendo detalhes sobre essa atividade, em veículos
 de fácil acesso,
 preferencialmente em seus sítios eletrônicos; e
 
-□ seja indicado um encarregado quando realizarem operações de
+- seja indicado um encarregado quando realizarem operações de
 tratamento de dados
 pessoais
 
@@ -1576,23 +1569,23 @@ mantidos pelo poder público em formato interoperável e estruturado,
 para permitir o uso
 compartilhado (art. 25). Este uso compartilhado tem por objetivo:
 
-□ auxiliar na execução de políticas públicas
+- auxiliar na execução de políticas públicas
 
-□ prestação de serviços públicos
+- prestação de serviços públicos
 
-□ descentralização da atividade pública
+- descentralização da atividade pública
 
-□ disseminação e acesso das informações pelo público em geral.
+- disseminação e acesso das informações pelo público em geral.
 
 Uso compartilhado de dados pelo poder público
 
 A LGPD permite o uso compartilhado de dados pessoais pelo poder público, desde que (art. 26):
 
-□ atenda a finalidades específicas de políticas públicas
+- atenda a finalidades específicas de políticas públicas
 
-□ esteja de acordo com a atribuição legal dos órgãos públicos
+- esteja de acordo com a atribuição legal dos órgãos públicos
 
-□ sejam respeitados os princípios da LGPD (mencionados no art. 6o da Lei).
+- sejam respeitados os princípios da LGPD (mencionados no art. 6o da Lei).
 
 Como exemplo de compartilhamento de dados podemos citar situação em
 que a Abin
@@ -1821,24 +1814,24 @@ o uso de dados pessoais por entes públicos.
 
 Em relação à Administração Pública, a ANPD poderá (arts. 29-32):
 
-□ solicitar, a qualquer momento, aos órgãos públicos a realização de operações de
+- solicitar, a qualquer momento, aos órgãos públicos a realização de operações de
 tratamento de dados pessoais
 
-□ solicitar informações específicas sobre o âmbito e a natureza dos dados e outros detalhes
+- solicitar informações específicas sobre o âmbito e a natureza dos dados e outros detalhes
 do tratamento realizado
 
-□ emitir parecer técnico complementar para garantir o cumprimento da LGPD
+- emitir parecer técnico complementar para garantir o cumprimento da LGPD
 
-□ estabelecer normas complementares para as atividades de comunicação e de uso
+- estabelecer normas complementares para as atividades de comunicação e de uso
 compartilhado de dados pessoais (poder normativo da ANPD)
 
-□ enviar informe com medidas cabíveis para fazer cessar a violação, quando houver infração
+- enviar informe com medidas cabíveis para fazer cessar a violação, quando houver infração
 à LGPD por órgãos públicos
 
-□ solicitar a agentes do Poder Público a publicação de relatórios de impacto à proteção de
+- solicitar a agentes do Poder Público a publicação de relatórios de impacto à proteção de
 dados pessoais
 
-□ sugerir a adoção de padrões e de boas práticas para os tratamentos de dados pessoais
+- sugerir a adoção de padrões e de boas práticas para os tratamentos de dados pessoais
 pelo Poder Público.
 
 Item. 7. TRANSFERÊNCIA INTERNACIoNAL DE DADoS

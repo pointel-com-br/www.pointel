@@ -2616,7 +2616,7 @@ trabalha DS ccmteüdos no quadro da rigorosidade do pensar
 certo, nega. como faISTL a íonnuJa. farisaica do "faça o que eu
 
 Í mando, e não o que eu faço". Quem pensa certo esta cansado
-de saber que as palavras □ que falta a corpore idade do exemplo
+de saber que as palavras - que falta a corpore idade do exemplo
 pouco ou nada valem. Pensar certo ê fazer certo.
 
 r Que podem pensar a Junos sérios de um professor que.
@@ -2624,7 +2624,7 @@ hã dois semestres, talava com quase ardor sobre a necessidade
 da luta, pela autonomia, das classes populares e hoje, dizendo
 
 -D que nao mudou, faz o discurso praemãlico contra os sonhos e
-pratica □ transferência de saber do professor para o aluno?
+pratica - transferência de saber do professor para o aluno?
 
 Não ha pensar certo fora de uma pratica testemunhal
 

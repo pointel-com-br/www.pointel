@@ -1854,7 +1854,7 @@ Gabarito: B
 diversos tipos de serviços podem ser disponibilizados aos usuários. O serviço
 que fornece uma infraestrutura de integração para implementar e testar aplicações elaboradas
 para a nuvem, é denominado
-a) AaaS -□Application as a Service.
+a) AaaS --Application as a Service.
 
 b) DaaS "tZlDevelopment as a Service.
 

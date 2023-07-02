@@ -746,13 +746,13 @@ Strong scaling Total mesh size stays constant
 
 I—II—II—II—I
 
-□ □□□
+- ---
 
 1000
 
-□□□□
+----
 
-250 □□□□
+250 ----
 
 Figura 6 - O dimensionamento forte mantém o tamanho geral de um problema e o divide em
 processadores adicionais. No escalonamento
@@ -1130,18 +1130,18 @@ nós, cada um com um multiprocessador de streaming de precisão dupla de 2.688, 
 uma
 paralelização de 43.008 vias de 16 GPUs.
 
-nn □ □□ riBn
-ui i □ □□ i ii ii i
-ui i □□□□□□
+nn - -- riBn
+ui i - -- i ii ii i
+ui i ------
 
-□ □□ nnn
-ii □ □□
+- -- nnn
+ii - --
 
 n«n
 
-□□□□□□□□
+--------
 
-□ □□ n
+- -- n
 s
 
 ' >

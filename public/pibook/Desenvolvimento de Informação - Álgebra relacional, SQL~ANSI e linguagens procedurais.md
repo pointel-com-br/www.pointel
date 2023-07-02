@@ -1853,7 +1853,7 @@ uma situação hipotética:
 
 r \
 
-□ Partido ▼
+- Partido ▼
 
 siglaPartido VARCHAR(10)
 0 nomePartóo VARCHAR(70)
@@ -1864,7 +1864,7 @@ Indexes ►
 
 - -
 
-□ Filiado ▼
+- Filiado ▼
 
 Ç cpfFiado VARCHAR(20)
 nomeFiado VARCHAR(50)

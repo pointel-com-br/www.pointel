@@ -507,7 +507,7 @@ seguir as etapas indicadas para a instalação.
 
 ^5 Central de Instalação do SQL Server
 
-□ X
+- X
 
 Planejamento Requisitos de
 Hardware e Software
@@ -5880,17 +5880,17 @@ i® ^1 master
 Object Explorer
 ConnectT
 
-□ IjJ (loa!) (SQL S
+- IjJ (loa!) (SQL S
 
 Query J Project Debug SQL Prompt 5 Tools Window Cor
 í
 
-S □ Databasa
+S - Databasa
 S ÜJ SecLirity
-S !_□ Server Oq
-S □ Replica
+S !_- Server Oq
+S - Replica
 
-S □ Manage
+S - Manage
 
 S Là SQL Serv
 

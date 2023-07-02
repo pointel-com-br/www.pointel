@@ -2632,8 +2632,8 @@ mesmo computador que o banco de dados Oracle. Esta configuração particular,
 geralmente, é
 executada em um mainframe ou em um minicomputador.
 
-User Use- □ser User
-□ser
+User Use- -ser User
+-ser
 t I I t
 r A
 
@@ -5941,10 +5941,10 @@ Row Piece in a Database Block
 I Common and Variable Header
 H Table Directory
 
-□ Row Directory
+- Row Directory
 I Free Space
 
-□ Row Data
+- Row Data
 
 Row Overhead
 Number of Columns

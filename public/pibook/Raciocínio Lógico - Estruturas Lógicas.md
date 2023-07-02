@@ -5135,13 +5135,13 @@ Passo 3: atribuir V ou F às proposições simples de maneira alternada.
 
 P r PAq (^Aq) -r p-^{q^r) ((/? Aq) ►<)< >(p >(q >/-))
 
-□V □V
+-V -V
 
-□ □
+- -
 
-□
+-
 
-□
+-
 
 Passo 4: obter o valor das demais proposições.
 
@@ -8749,7 +8749,7 @@ Gabarito: ERRADO.
 utilizad
 os símbolos usuais dos conectivos lógicos e as letras P, Q, R e S representam proposições lógicas.
 
-F □
+F -
 
 © V V
 
@@ -11208,7 +11208,7 @@ julgue o item subsequente.
 quais são utilizados
 os símbolos usuais dos conectivos lógicos e as letras P, Q, R e S representam proposições lógicas.
 
-F □
+F -
 
 © V V
 

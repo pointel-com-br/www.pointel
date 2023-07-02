@@ -211,7 +211,7 @@ A instalação padrão do R vem com uma interface gráfica para o usuário
 Interface - GUI). I«RGui(64R.bRGjtu)i (64-bit)
 
 File Edrt ViewNMoisWc iPnadcokawgses"Wl,einEddiot w"sicwHeelapcka9tt ^indows Help
-z □ 7X"
+z - 7X"
 
 voce encontrara
 o R no menu iniciare no Macvocê verá o

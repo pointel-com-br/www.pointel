@@ -3776,7 +3776,7 @@ Questão correta.
 io as antenas que só agora ia aprendendo a valorizar, arrastou-se
 até a porta para ver o que havia acontecido por ali. Seu lado
 esquerdo parecia uma única longa cicatriz que lhe dava
-rs de sagra dá ve i s re puxões e o faz i a c oxear com suas d □ as fi leiras
+rs de sagra dá ve i s re puxões e o faz i a c oxear com suas d - as fi leiras
 de patas.
 
 No trecho "arrastou-se até a porta para ver o que havia acontecido por
@@ -5069,7 +5069,7 @@ forma verbal
 io as antenas que só agora ia aprendendo a valorizar, arrastou-se
 até a porta para ver o que havia acontecido por ali. Seu lado
 esquerdo parecia uma única longa cicatriz que lhe dava
-rs de sagra dá ve i s re puxões e o faz i a c oxear com suas d □ as fi leiras
+rs de sagra dá ve i s re puxões e o faz i a c oxear com suas d - as fi leiras
 de patas.
 
 No trecho "arrastou-se até a porta para ver o que havia acontecido por ali" (Linha.

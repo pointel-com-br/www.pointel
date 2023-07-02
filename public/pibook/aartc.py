@@ -44,6 +44,7 @@ def adjust_marked_chars(text):
         line = line.replace('’', "'")
         line = line.replace('‘', "'")
         line = line.replace('–', '-')
+        line = line.replace('□', '-')
         line = line.replace('•', '*')
         line = line.replace('♦', '*')
         line = line.replace('…', '...')

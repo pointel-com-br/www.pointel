@@ -3271,10 +3271,10 @@ Caixas de seleção
 
 O input type="checkbox" define uma caixa de seleçào:
 
-□ Eu tenho uma bicicleta
+- Eu tenho uma bicicleta
 O Eu tenho um carro
 
-□ Eu tenho um barco
+- Eu tenho um barco
 
 | Enviar |
 

@@ -841,7 +841,7 @@ kC_
 
 _Q
 
-□
+-
 cn
 
 Contrárias
