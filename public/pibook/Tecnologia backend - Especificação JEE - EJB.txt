@@ -1,4 +1,4 @@
-Capítulo. Tecnologia backend - Especificação JEE - EJB
+Capítulo. Tecnologia backend - Especificação JEE - EJB.
 
 A especificação JEE (Java Enterprise Edition) inclui a tecnologia EJB (Enterprise JavaBeans), que é um componente de negócio usado para desenvolver aplicativos empresariais em Java. Os EJBs são executados no servidor de aplicativos JEE e fornecem serviços como persistência de dados, transações, segurança e gerenciamento de concorrência.
 
@@ -22,7 +22,7 @@ Item. 5. Segurança: Os EJBs suportam recursos de segurança, permitindo a confi
 
 Os EJBs fornecem uma maneira poderosa e escalável de implementar a lógica de negócio em aplicativos empresariais Java. Eles abstraem a complexidade dos serviços de infraestrutura, como persistência de dados, transações e segurança, permitindo que os desenvolvedores se concentrem na lógica de negócio essencial do aplicativo.
 
-Capítulo. Principais anotações do EJB no Java EE
+Capítulo. Principais anotações do EJB no Java EE.
 
 No Java EE, as principais anotações utilizadas com o EJB (Enterprise JavaBeans) são:
 

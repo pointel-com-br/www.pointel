@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - PostgreSQL
+Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - PostgreSQL.
 
 Índice
 
@@ -1113,7 +1113,7 @@ para
 permitir o acesso a todos os bancos de dados para todos os usuários, utilizando
 uma senha criptografada:
 
-Capítulo. TYPE DATABASE USER CIDR-ADDRESS METHOD
+Capítulo. TYPE DATABASE USER CIDR-ADDRESS METHOD.
 
 host all all 0.0.0.0/0 md5
 
@@ -1146,7 +1146,7 @@ não são
 considerados. Se nenhum registro coincide, o acesso é negado. Abaixo temos um exemplo
 do arquivo:
 
-Capítulo. TYPE DATABASE USER ADDRESS
+Capítulo. TYPE DATABASE USER ADDRESS.
 METHOD
 
 host all all
@@ -1164,7 +1164,7 @@ seja rejeitada, especificamente, pelo uso do método reject. (falaremos dos
 métodos de
 acesso mais adiante). Vamos retomara a linha que foi adicionada ao arquivo pg_hba.conf:
 
-Capítulo. TYPE DATABASE USER
+Capítulo. TYPE DATABASE USER.
 
 host all all
 
@@ -2391,12 +2391,12 @@ CREATE DATABASE nome
 
 Vejamos um questão sobre o assunto ...
 
-Capítulo. define o nome do banco de dados
+Capítulo. define o nome do banco de dados.
 
 Capítulo. define o nome da role que vai possuir o banco de dados.
 
-Capítulo. define o nome do modelo a partir do qual será criado o novo BD
-Capítulo. define a codificação do conjunto de caracteres
+Capítulo. define o nome do modelo a partir do qual será criado o novo BD.
+Capítulo. define a codificação do conjunto de caracteres.
 
 I»
 
@@ -6904,13 +6904,13 @@ Item. 72. O arquivo pg_hba.conf indicará ao PostgreSQL como autenticar usuário
 acesso ao banco de dados. Em geral, as entradas do arquivo pg_hba.conf têm o seguinte
 layout:
 
-Capítulo. local DATABASE USER METHOD [OPTIONS]
+Capítulo. local DATABASE USER METHOD [OPTIONS].
 
-Capítulo. host DATABASE USER ADDRESS METHOD [OPTIONS]
+Capítulo. host DATABASE USER ADDRESS METHOD [OPTIONS].
 
-Capítulo. hostssl DATABASE USER ADDRESS METHOD [OPTIONS]
+Capítulo. hostssl DATABASE USER ADDRESS METHOD [OPTIONS].
 
-Capítulo. hostnossl DATABASE USER ADDRESS METHOD [OPTIONS]
+Capítulo. hostnossl DATABASE USER ADDRESS METHOD [OPTIONS].
 
 Vejamos alguns exemplos de regras que podem estar registradas em um arquivo
 pg_hba.conf:
@@ -7199,7 +7199,7 @@ seguintes dados: tipo de correspondência de conexão, endereço do cliente, ban
 dados solicitado e nome de usuário é usado para executar a autenticação. Abaixo
 temos um exemplo do arquivo:
 
-Capítulo. TYPE DATABASE
+Capítulo. TYPE DATABASE.
 
 host all
 host all

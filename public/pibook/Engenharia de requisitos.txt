@@ -1,4 +1,4 @@
-Capítulo. Engenharia de requisitos
+Capítulo. Engenharia de requisitos.
 
 A Engenharia de Requisitos é uma disciplina da Engenharia de Software que se concentra na identificação, análise, documentação e gerenciamento dos requisitos de um sistema ou software. Ela é fundamental para o sucesso de um projeto, pois os requisitos definem o que o sistema deve fazer e como ele deve se comportar. Aqui estão alguns conceitos e práticas relacionados à Engenharia de Requisitos:
 

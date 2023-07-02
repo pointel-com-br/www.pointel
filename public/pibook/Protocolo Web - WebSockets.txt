@@ -1,4 +1,4 @@
-Capítulo. Protocolo Web - WebSockets
+Capítulo. Protocolo Web - WebSockets.
 
 Os WebSockets são um protocolo de comunicação bidirecional em tempo real, que permite a comunicação assíncrona entre um cliente e um servidor na Web. Eles fornecem uma conexão persistente e de baixa latência, permitindo que dados sejam transmitidos de forma eficiente em ambas as direções.
 

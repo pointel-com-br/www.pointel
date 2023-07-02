@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Software - JavaScript, TypeScript
+Capítulo. Desenvolvimento de Software - JavaScript, TypeScript.
 
 Índice
 

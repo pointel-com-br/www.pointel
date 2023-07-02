@@ -1,4 +1,4 @@
-Capítulo. Testes de integração
+Capítulo. Testes de integração.
 
 Os testes de integração são realizados para verificar a interação e a interoperabilidade entre os diferentes componentes de um sistema de software. Eles visam identificar problemas de comunicação, dependências, incompatibilidades e erros que podem surgir quando os componentes são combinados e funcionam juntos como um sistema integrado.
 

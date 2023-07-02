@@ -1,4 +1,4 @@
-Capítulo. Arquitetura de Software
+Capítulo. Arquitetura de Software.
 
 Arquitetura de software é a estrutura fundamental que define como os componentes de um sistema de software interagem entre si, como são organizados e como atendem aos requisitos funcionais e não funcionais. A arquitetura de software fornece uma visão de alto nível do sistema, identificando seus principais componentes, suas responsabilidades e as relações entre eles.
 

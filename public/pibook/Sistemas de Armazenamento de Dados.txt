@@ -1,4 +1,4 @@
-Capítulo. Sistemas de Armazenamento de Dados
+Capítulo. Sistemas de Armazenamento de Dados.
 
 Existem diversos sistemas de armazenamento de dados disponíveis, cada um com suas características e finalidades específicas. Aqui estão algumas das principais categorias de sistemas de armazenamento de dados:
 

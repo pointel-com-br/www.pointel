@@ -1,4 +1,4 @@
-Capítulo. Padrões de microsserviços
+Capítulo. Padrões de microsserviços.
 
 Existem vários padrões e princípios que são frequentemente utilizados na arquitetura de microsserviços para facilitar o desenvolvimento, a escalabilidade e a manutenção dos serviços. Aqui estão alguns dos padrões mais comuns de microsserviços:
 

@@ -1,4 +1,4 @@
-Capítulo. Tecnologia backend - SpringBoot
+Capítulo. Tecnologia backend - SpringBoot.
 
 Spring Boot é um framework de desenvolvimento de aplicativos Java que simplifica e acelera o processo de criação de aplicativos backend. Ele é baseado no popular framework Spring e fornece uma abordagem simplificada para o desenvolvimento de aplicativos Java robustos, escaláveis e altamente produtivos.
 
@@ -18,7 +18,7 @@ Item. 6. Integração com tecnologias modernas: O Spring Boot suporta integraç�
 
 Em resumo, o Spring Boot é uma tecnologia backend poderosa e popular para o desenvolvimento de aplicativos Java. Ele simplifica o processo de criação de aplicativos robustos, escaláveis e altamente produtivos, oferecendo configuração automática, recursos prontos para produção e integração com o ecossistema Spring. O Spring Boot é amplamente adotado pela comunidade Java devido à sua facilidade de uso e produtividade.
 
-Capítulo. Principais anotações no SpringBoot
+Capítulo. Principais anotações no SpringBoot.
 
 No Spring Boot, as anotações desempenham um papel fundamental no desenvolvimento de aplicativos. Aqui estão algumas das principais anotações utilizadas no Spring Boot:
 

@@ -1,4 +1,4 @@
-Capítulo. Web service - RESTful
+Capítulo. Web service - RESTful.
 
 Um Web service RESTful (Representational State Transfer) é um estilo de arquitetura de software que permite a comunicação entre sistemas distribuídos usando os princípios do Protocolo de Transferência de Estado Representacional (HTTP). Ele é projetado para ser simples, escalável, leve e interoperável.
 

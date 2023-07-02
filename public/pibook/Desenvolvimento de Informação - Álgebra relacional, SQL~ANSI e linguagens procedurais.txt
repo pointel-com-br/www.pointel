@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Álgebra relacional, SQL~ANSI e linguagens procedurais
+Capítulo. Desenvolvimento de Informação - Álgebra relacional, SQL~ANSI e linguagens procedurais.
 
 Índice
 

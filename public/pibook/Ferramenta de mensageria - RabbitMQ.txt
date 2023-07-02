@@ -1,4 +1,4 @@
-Capítulo. Ferramenta de mensageria - RabbitMQ
+Capítulo. Ferramenta de mensageria - RabbitMQ.
 
 O RabbitMQ é uma poderosa ferramenta de mensageria de código aberto que implementa o protocolo AMQP (Advanced Message Queuing Protocol). Ele fornece uma plataforma robusta e flexível para troca de mensagens entre aplicativos e sistemas distribuídos. Aqui estão algumas informações importantes sobre o RabbitMQ:
 

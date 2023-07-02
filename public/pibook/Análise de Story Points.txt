@@ -1,4 +1,4 @@
-Capítulo. Análise de Story Points
+Capítulo. Análise de Story Points.
 
 A análise de Story Points é uma técnica usada no desenvolvimento ágil de software para estimar o esforço necessário para implementar uma funcionalidade ou um item do backlog. Em vez de estimar o tempo em horas ou dias, os Story Points são uma medida relativa de complexidade, esforço e incerteza.
 

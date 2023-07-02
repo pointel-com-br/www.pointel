@@ -1,4 +1,4 @@
-Capítulo. Resiliência de aplicações - Técnica de Circuitbrake
+Capítulo. Resiliência de aplicações - Técnica de Circuitbrake.
 
 A técnica de Circuit Breaker (disjuntor) é uma estratégia utilizada para aumentar a resiliência de aplicações, protegendo-as contra falhas em serviços externos ou componentes dependentes. O objetivo do circuit breaker é evitar falhas em cascata, interrompendo temporariamente as solicitações a um componente que está apresentando falhas excessivas.
 

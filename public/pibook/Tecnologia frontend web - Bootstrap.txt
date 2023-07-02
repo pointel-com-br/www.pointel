@@ -1,4 +1,4 @@
-Capítulo. Tecnologia frontend web - Bootstrap
+Capítulo. Tecnologia frontend web - Bootstrap.
 
 Bootstrap é um framework de código aberto amplamente utilizado para desenvolvimento frontend web. Ele fornece um conjunto de componentes, estilos e recursos prontos para uso, que permitem criar rapidamente interfaces modernas, responsivas e esteticamente agradáveis.
 

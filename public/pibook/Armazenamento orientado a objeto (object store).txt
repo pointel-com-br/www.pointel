@@ -1,4 +1,4 @@
-Capítulo. Armazenamento orientado a objeto (object store)
+Capítulo. Armazenamento orientado a objeto (object store).
 
 Armazenamento orientado a objeto, também conhecido como Object Store, é um tipo de sistema de armazenamento de dados que organiza e gerencia objetos digitais como entidades independentes. Em vez de usar uma estrutura hierárquica de diretórios, como em sistemas de arquivos tradicionais, o armazenamento orientado a objeto organiza os dados em objetos identificados por um identificador exclusivo.
 

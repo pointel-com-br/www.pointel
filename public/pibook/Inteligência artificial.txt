@@ -1,4 +1,4 @@
-Capítulo. Inteligência artificial
+Capítulo. Inteligência artificial.
 
 A inteligência artificial (IA) é um campo da ciência da computação que se concentra no desenvolvimento de sistemas capazes de realizar tarefas que normalmente exigem inteligência humana. A IA envolve a criação de algoritmos e modelos que permitem que os computadores processem informações, aprendam com os dados e tomem decisões ou executem ações com base nesse aprendizado.
 

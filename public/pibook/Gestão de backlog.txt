@@ -1,4 +1,4 @@
-Capítulo. Gestão de backlog
+Capítulo. Gestão de backlog.
 
 A gestão de backlog é uma prática comum na metodologia ágil, especialmente no contexto do desenvolvimento de software. O backlog, ou lista de itens do backlog, é uma coleção de requisitos, funcionalidades ou atividades que devem ser realizados para concluir um projeto. A gestão de backlog envolve a organização, priorização e atualização desses itens ao longo do ciclo de vida do projeto. Aqui estão alguns aspectos importantes da gestão de backlog:
 

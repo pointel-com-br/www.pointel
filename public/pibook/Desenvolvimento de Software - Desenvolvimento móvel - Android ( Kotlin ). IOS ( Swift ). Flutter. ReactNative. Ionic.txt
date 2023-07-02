@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Software - Desenvolvimento móvel - Android ( Kotlin ). IOS ( Swift ). Flutter. ReactNative. Ionic
+Capítulo. Desenvolvimento de Software - Desenvolvimento móvel - Android ( Kotlin ). IOS ( Swift ). Flutter. ReactNative. Ionic.
 
 Índice
 

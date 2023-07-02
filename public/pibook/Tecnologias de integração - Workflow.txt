@@ -1,4 +1,4 @@
-Capítulo. Tecnologias de integração - Workflow
+Capítulo. Tecnologias de integração - Workflow.
 
 As tecnologias de integração de workflow (fluxo de trabalho) são projetadas para automatizar, gerenciar e monitorar os processos de negócios que envolvem a coordenação de atividades entre pessoas, sistemas e aplicativos. Elas permitem criar, executar e acompanhar fluxos de trabalho, onde as etapas do processo são definidas e executadas de forma sequencial ou paralela, com base em regras e eventos específicos.
 

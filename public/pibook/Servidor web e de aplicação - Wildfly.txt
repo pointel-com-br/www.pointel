@@ -1,4 +1,4 @@
-Capítulo. Servidor web e de aplicação - Wildfly
+Capítulo. Servidor web e de aplicação - Wildfly.
 
 WildFly é um servidor de aplicação de código aberto desenvolvido pela Red Hat, que é uma implementação do Java Enterprise Edition (Java EE). Ele é baseado no projeto JBoss Application Server, mas com um novo nome e versões atualizadas.
 

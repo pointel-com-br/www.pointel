@@ -1,4 +1,4 @@
-Capítulo. Bizu Estratégico - Desenvolvimento de Informação
+Capítulo. Bizu Estratégico - Desenvolvimento de Informação.
 
 Olá, prezado aluno. Tudo certo?
 
@@ -326,7 +326,7 @@ Dados em dinheiro.
 
 * Preocupação com a geração de retorno.
 
-Capítulo. Arquitetura de Banco de Dados: Relacional (PostgreSQL)
+Capítulo. Arquitetura de Banco de Dados: Relacional (PostgreSQL).
 
 O PostgreSQL é um descendente de código aberto do programa original desenvolvido em Berkeley. Ele suporta grande parte dos comandos da linguagem SQL/ANSI padrão e oferece muitas características modernas, entre elas: consultas complexas, chaves estrangeiras, triggers, visões atualizáveis, integridade transacional e controle de concorrência multiversão.
 

@@ -1,4 +1,4 @@
-Capítulo. Microsserviços - orquestração de serviços
+Capítulo. Microsserviços - orquestração de serviços.
 
 A orquestração de serviços em microsserviços é uma abordagem para coordenar a interação entre diferentes serviços em um ambiente distribuído. É uma forma de garantir que os serviços se comuniquem e executem as operações necessárias de forma sequencial ou paralela, conforme definido pela lógica de negócio.
 

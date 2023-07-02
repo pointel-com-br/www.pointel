@@ -1,4 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Arquitetura hexagonal
+Capítulo. Engenharia de Software e Sistemas - Arquitetura hexagonal.
 
 Índice
 
@@ -670,7 +670,7 @@ interpretações, principalmente no modo que as responsabilidades MVC são divid
 o cliente
 e servidor.
 
-Capítulo. CAMADA DE MODELO
+Capítulo. CAMADA DE MODELO.
 
 Essa é a camada responsável pela representação dos dados, provendo meios de
 acesso
@@ -690,7 +690,7 @@ responsável pela manutenção do estado da aplicação. Estas notificações pe
 visões
 produzam saídas atualizadas e que os controladores alterem o conjunto de comandos disponíveis.
 
-Capítulo. CAMADA DE CONTROLE
+Capítulo. CAMADA DE CONTROLE.
 
 Essa é a camada responsável por receber todas as requisições do usuário.
 Seus métodos -
@@ -1040,11 +1040,11 @@ externamente visíveis desses componentes e as relações entre eles
 
 COESÃO =
 
-Capítulo. DIVISÃO DE
+Capítulo. DIVISÃO DE.
 
 ACOPLAMENTO =
 
-Capítulo. DEPENDÊNCIA DE COMPONENTES
+Capítulo. DEPENDÊNCIA DE COMPONENTES.
 
 TIPO DE ACOPLAMENTO | DESCRIÇÃO
 

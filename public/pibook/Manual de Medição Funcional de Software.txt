@@ -1,4 +1,4 @@
-Capítulo. Manual de Medição Funcional de Software
+Capítulo. Manual de Medição Funcional de Software.
 
 Item. 1. Introdução
 

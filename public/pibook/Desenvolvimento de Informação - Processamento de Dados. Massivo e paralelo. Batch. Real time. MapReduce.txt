@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Processamento de Dados. Massivo e paralelo. Batch. Real time. MapReduce
+Capítulo. Desenvolvimento de Informação - Processamento de Dados. Massivo e paralelo. Batch. Real time. MapReduce.
 
 Índice
 

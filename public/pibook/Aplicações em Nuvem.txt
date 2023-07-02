@@ -1,4 +1,4 @@
-Capítulo. Aplicações em Nuvem
+Capítulo. Aplicações em Nuvem.
 
 Aplicações em nuvem referem-se a software e serviços que são executados e acessados por meio da internet, em vez de serem instalados localmente em um computador ou servidor. Essas aplicações são hospedadas em servidores em nuvem, onde os recursos computacionais e de armazenamento são fornecidos e gerenciados por provedores de serviços em nuvem.
 

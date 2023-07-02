@@ -1,4 +1,4 @@
-Capítulo. Orquestração de Containers - OpenShift
+Capítulo. Orquestração de Containers - OpenShift.
 
 O OpenShift é uma plataforma de contêineres baseada no Kubernetes, desenvolvida pela Red Hat. Ele fornece recursos adicionais e uma experiência aprimorada em relação ao Kubernetes padrão. O OpenShift adiciona camadas extras de abstração e automação, facilitando a implantação, o gerenciamento e a escala de aplicativos em contêineres.
 

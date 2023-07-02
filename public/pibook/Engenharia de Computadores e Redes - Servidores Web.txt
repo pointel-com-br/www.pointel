@@ -1,4 +1,4 @@
-Capítulo. Engenharia de Computadores e Redes - Servidores Web
+Capítulo. Engenharia de Computadores e Redes - Servidores Web.
 
 Índice
 
@@ -696,20 +696,20 @@ configuração
 ou para a administração), vamos dar uma olhada...
 
 Após a instalação, é necessário criar um grupo:
-Capítulo. groupadd jboss
+Capítulo. groupadd jboss.
 
 Para adicionar o usuário jboss no grupo jboss:
 
-Capítulo. useradd -s /bin/bash -d /home/jboss -m -g jboss jboss
+Capítulo. useradd -s /bin/bash -d /home/jboss -m -g jboss jboss.
 
 Na sequência, a criação da estrutura de diretórios para armazenar o JBoss, atribuindo
 o dono e o
 grupo "jboss" a essa estrutura:
 
-Capítulo. mkdir /EAP_HOME/jboss
+Capítulo. mkdir /EAP_HOME/jboss.
 
-Capítulo. chown jboss:jboss /EAP_HOME/jboss
-Capítulo. su jboss
+Capítulo. chown jboss:jboss /EAP_HOME/jboss.
+Capítulo. su jboss.
 
 Depois é necessário configurar a senha para que o usuário utilize na
 conexão entre o Host
@@ -723,8 +723,8 @@ Spménte 15
 
 /
 
-Capítulo. cp -Rap /EAP_HOME/domain /EAP_HOME/master
-Capítulo. cp -Rap /EAP_HOME/domain /EAP_HOME/slave01
+Capítulo. cp -Rap /EAP_HOME/domain /EAP_HOME/master.
+Capítulo. cp -Rap /EAP_HOME/domain /EAP_HOME/slave01.
 
 Após a definição do modo (standalone ou domain), é necessário definir um
 perfil para o
@@ -804,7 +804,7 @@ flexibilidade e facilidade na criação de scdpts de administração. Abaixo um
 exemplo de deploy
 para todos os servidores:
 
-Capítulo. deploy /path/to/test-application.war —all -server-groups
+Capítulo. deploy /path/to/test-application.war —all -server-groups.
 
 Como já vimos, servidores de aplicação são a interface entre o componente e
 o sistema
@@ -2313,8 +2313,8 @@ mas agora o foco são arquivos. Exemplo:
 
 <Files "?at.*">
 
-Capítulo. Aplica-se a cat.html, bat.html, hat.php etc., pois "?" significa um caractere qualquer
-Capítulo. e * significa qualquer coisa daquela posição em diante
+Capítulo. Aplica-se a cat.html, bat.html, hat.php etc., pois "?" significa um caractere qualquer.
+Capítulo. e * significa qualquer coisa daquela posição em diante.
 
 Capítulo. Colocar as diretrizes aqui...
 

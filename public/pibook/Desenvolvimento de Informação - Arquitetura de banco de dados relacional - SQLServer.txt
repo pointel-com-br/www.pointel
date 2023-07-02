@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - SQLServer
+Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - SQLServer.
 
 Índice
 

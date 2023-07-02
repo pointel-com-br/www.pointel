@@ -1,4 +1,4 @@
-Capítulo. Aprendizado de máquina profundo (Deep learning)
+Capítulo. Aprendizado de máquina profundo (Deep learning).
 
 Aprendizado de máquina profundo, também conhecido como Deep Learning, é uma subárea do aprendizado de máquina que se baseia em redes neurais artificiais profundas para aprender e representar padrões complexos nos dados. Ele é inspirado no funcionamento do cérebro humano, onde neurônios interconectados são capazes de processar informações e aprender com experiências passadas.
 

@@ -1,4 +1,4 @@
-Capítulo. Tecnologia frontend web - VueJS
+Capítulo. Tecnologia frontend web - VueJS.
 
 Vue.js é um framework progressivo de JavaScript usado para criar interfaces de usuário interativas e dinâmicas. Ele é projetado para ser incrementalmente adotado, o que significa que você pode usá-lo em partes específicas de um projeto ou em uma aplicação completa.
 

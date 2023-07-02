@@ -1,4 +1,4 @@
-Capítulo. Ferramenta de mensageria - ActiveMQ
+Capítulo. Ferramenta de mensageria - ActiveMQ.
 
 O ActiveMQ é uma popular ferramenta de mensageria de código aberto desenvolvida pela Apache Software Foundation. Ele implementa o Java Message Service (JMS), um padrão para comunicação assíncrona entre aplicativos Java. Aqui estão algumas informações importantes sobre o ActiveMQ:
 

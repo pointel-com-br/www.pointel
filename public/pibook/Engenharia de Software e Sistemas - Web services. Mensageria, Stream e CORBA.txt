@@ -1,4 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Web services. Mensageria, Stream e CORBA
+Capítulo. Engenharia de Software e Sistemas - Web services. Mensageria, Stream e CORBA.
 
 Índice
 

@@ -130,16 +130,28 @@ def adjust_text_hierarchy(text):
         else:
             if test.startswith("###### "):
                 test = "Sub Sub Sub Tópico. " + test[len("###### "):]
+                if not test.endswith("."):
+                    test += "."
             elif test.startswith("##### "):
                 test = "Sub Sub Tópico. " + test[len("##### "):]
+                if not test.endswith("."):
+                    test += "."
             elif test.startswith("#### "):
                 test = "Sub Tópico. " + test[len("#### "):]
+                if not test.endswith("."):
+                    test += "."
             elif test.startswith("### "):
                 test = "Tópico. " + test[len("### "):]
+                if not test.endswith("."):
+                    test += "."
             elif test.startswith("## "):
                 test = "Sub Capítulo. " + test[len("## "):]
+                if not test.endswith("."):
+                    test += "."
             elif test.startswith("# "):
                 test = "Capítulo. " + test[len("# "):]
+                if not test.endswith("."):
+                    test += "."
             result.append(test + '\n')
     return result
 

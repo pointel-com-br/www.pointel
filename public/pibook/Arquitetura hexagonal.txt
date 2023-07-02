@@ -1,4 +1,4 @@
-Capítulo. Arquitetura hexagonal
+Capítulo. Arquitetura hexagonal.
 
 A arquitetura hexagonal, também conhecida como arquitetura ports and adapters, é um padrão arquitetural que busca promover a separação de preocupações e a modularidade em sistemas de software. Ela foi proposta por Alistair Cockburn em 2005 e se baseia no princípio de que as regras de negócio do sistema devem ser o núcleo central e independente de qualquer tecnologia ou detalhes de implementação externos.
 

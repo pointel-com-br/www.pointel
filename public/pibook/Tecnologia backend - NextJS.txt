@@ -1,4 +1,4 @@
-Capítulo. Tecnologia backend - NextJS
+Capítulo. Tecnologia backend - NextJS.
 
 Next.js é um framework de desenvolvimento web frontend em React que permite a construção de aplicativos web server-side-rendered (SSR) e static-site-generated (SSG). Embora o Next.js seja frequentemente associado ao desenvolvimento frontend, ele também oferece recursos para o desenvolvimento do lado do servidor (backend) por meio de suas APIs.
 

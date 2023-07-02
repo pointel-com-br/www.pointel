@@ -1,4 +1,4 @@
-Capítulo. Serviços em Nuvem - Google Cloud Platform
+Capítulo. Serviços em Nuvem - Google Cloud Platform.
 
 A Google Cloud Platform (GCP) é uma plataforma de computação em nuvem fornecida pelo Google. Ela oferece uma ampla gama de serviços para ajudar empresas e desenvolvedores a construir, implantar e escalar aplicativos e serviços na nuvem. Aqui estão alguns dos principais serviços oferecidos pela Google Cloud Platform:
 

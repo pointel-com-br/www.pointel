@@ -1,4 +1,4 @@
-Capítulo. Gestão de Dívida Técnica
+Capítulo. Gestão de Dívida Técnica.
 
 A gestão de dívida técnica é um conceito que se refere ao acúmulo de compromissos técnicos ou decisões de design inadequadas que podem prejudicar a qualidade, a manutenibilidade ou o desempenho de um software. Assim como uma dívida financeira, a dívida técnica pode trazer consequências negativas no longo prazo se não for devidamente gerenciada. A gestão de dívida técnica envolve identificar, monitorar e resolver esses compromissos técnicos de forma estratégica. Aqui estão alguns aspectos importantes da gestão de dívida técnica:
 

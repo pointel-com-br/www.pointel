@@ -1,4 +1,4 @@
-Capítulo. Aprendizado de máquina - Técnicas de regressão
+Capítulo. Aprendizado de máquina - Técnicas de regressão.
 
 No aprendizado de máquina, as técnicas de regressão são usadas para prever valores contínuos com base em dados históricos e padrões identificados nos dados de treinamento. Diferentemente das técnicas de classificação, onde a tarefa é atribuir uma classe ou categoria a um conjunto de dados, as técnicas de regressão visam encontrar uma relação funcional entre variáveis para realizar previsões numéricas.
 

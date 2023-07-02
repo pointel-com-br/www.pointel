@@ -1,4 +1,4 @@
-Capítulo. Tecnologia backend - Express
+Capítulo. Tecnologia backend - Express.
 
 Express.js é um framework leve e flexível para desenvolvimento de aplicativos web em Node.js. Ele fornece uma camada de abstração sobre o módulo HTTP do Node.js, facilitando a criação de APIs e aplicativos web com facilidade e eficiência.
 

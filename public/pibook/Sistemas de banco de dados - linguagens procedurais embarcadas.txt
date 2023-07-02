@@ -1,4 +1,4 @@
-Capítulo. Sistemas de banco de dados - linguagens procedurais embarcadas
+Capítulo. Sistemas de banco de dados - linguagens procedurais embarcadas.
 
 Os sistemas de banco de dados fornecem suporte para linguagens procedurais embarcadas, que são linguagens de programação incorporadas na própria linguagem SQL. Essas linguagens permitem a criação de rotinas e scripts mais complexos que podem ser executados diretamente no banco de dados. Aqui estão alguns exemplos de linguagens procedurais embarcadas em sistemas de banco de dados populares:
 

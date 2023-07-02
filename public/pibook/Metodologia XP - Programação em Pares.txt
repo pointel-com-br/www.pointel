@@ -1,4 +1,4 @@
-Capítulo. Metodologia XP - Programação em Pares
+Capítulo. Metodologia XP - Programação em Pares.
 
 Na metodologia de desenvolvimento de software Extreme Programming (XP), a programação em pares é uma prática chave que promove a colaboração e a qualidade do código. Nessa abordagem, dois desenvolvedores trabalham juntos em um único computador para realizar uma determinada tarefa de programação.
 

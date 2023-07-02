@@ -1,4 +1,4 @@
-Capítulo. Arquitetura de Software - Padrões de Projeto Orientado a Objetos
+Capítulo. Arquitetura de Software - Padrões de Projeto Orientado a Objetos.
 
 Na arquitetura de software, os padrões de projeto são soluções reutilizáveis para problemas comuns encontrados no desenvolvimento de software. Eles fornecem diretrizes e abstrações que ajudam os desenvolvedores a criar sistemas bem estruturados, flexíveis e de fácil manutenção. Os padrões de projeto são divididos em várias categorias, sendo uma delas os padrões de objeto. Aqui estão alguns exemplos de padrões de objeto comumente usados:
 

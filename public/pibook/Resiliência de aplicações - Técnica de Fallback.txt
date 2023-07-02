@@ -1,4 +1,4 @@
-Capítulo. Resiliência de aplicações - Técnica de Fallback
+Capítulo. Resiliência de aplicações - Técnica de Fallback.
 
 A técnica de fallback é uma estratégia utilizada para aumentar a resiliência de aplicações, fornecendo uma alternativa quando um componente principal não está disponível. É uma forma de lidar com falhas e garantir que a aplicação continue operando mesmo em situações de degradação ou ausência de recursos essenciais.
 

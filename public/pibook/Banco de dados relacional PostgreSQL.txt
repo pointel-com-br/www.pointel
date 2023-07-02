@@ -1,4 +1,4 @@
-Capítulo. Banco de dados relacional PostgreSQL
+Capítulo. Banco de dados relacional PostgreSQL.
 
 O PostgreSQL é um sistema de gerenciamento de banco de dados relacional de código aberto e altamente confiável. Ele é conhecido por sua conformidade com os padrões ANSI SQL e sua capacidade de lidar com grandes volumes de dados e cargas de trabalho complexas. Abaixo estão alguns aspectos importantes do PostgreSQL:
 

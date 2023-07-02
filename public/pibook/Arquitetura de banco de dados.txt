@@ -1,4 +1,4 @@
-Capítulo. Arquitetura de banco de dados
+Capítulo. Arquitetura de banco de dados.
 
 A arquitetura de banco de dados refere-se à estrutura geral e ao design de um sistema de gerenciamento de banco de dados (SGBD). Ela descreve como os componentes do sistema são organizados e interagem entre si para armazenar, gerenciar e acessar os dados.
 

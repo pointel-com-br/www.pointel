@@ -1,4 +1,4 @@
-Capítulo. Análise de dados
+Capítulo. Análise de dados.
 
 A análise de dados é o processo de inspecionar, limpar, transformar e modelar dados para descobrir informações úteis, tirar conclusões e apoiar a tomada de decisões. Ela envolve a aplicação de técnicas estatísticas e computacionais para explorar e compreender conjuntos de dados, identificar padrões, tendências e relações entre variáveis.
 

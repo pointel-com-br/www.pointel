@@ -1,4 +1,4 @@
-Capítulo. Gerenciamento de serviços (ITIL V4)
+Capítulo. Gerenciamento de serviços (ITIL V4).
 
 O ITIL (Information Technology Infrastructure Library) é um conjunto de práticas amplamente adotado para o gerenciamento de serviços de TI. A versão mais recente é o ITIL V4, que foi lançado em 2019. O gerenciamento de serviços com ITIL V4 envolve uma abordagem holística para o planejamento, entrega, operação e melhoria contínua dos serviços de TI. Aqui estão os principais conceitos e práticas do gerenciamento de serviços com ITIL V4:
 

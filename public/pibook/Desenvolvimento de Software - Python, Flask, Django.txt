@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Software - Python, Flask, Django
+Capítulo. Desenvolvimento de Software - Python, Flask, Django.
 
 Índice
 
@@ -1118,7 +1118,7 @@ retorna "x" com
 os seus bits movidos "y" casas à esquerda, adicionando zeros aos bits "novos" da
 direita. Isso é a
 mesma coisa que multiplicar x por 2**y. Exemplo: 14 « 9 # decimal 7168.1110 « 1001
-Capítulo. binário
+Capítulo. binário.
 1110000000000
 
 Por outro lado, vejamos o ». x » y retorna "x" com seus bits movidos "y" casas à
@@ -1598,7 +1598,7 @@ frutas *
 
 print(tuplal)
 
-Capítulo. imprime ('maçã', 'banana', 'laranja', 'maçã', 'banana', 'laranja')
+Capítulo. imprime ('maçã', 'banana', 'laranja', 'maçã', 'banana', 'laranja').
 Python possui dois métodos integrados que você pode usar em tuplas.
 
 MÉTODO DESCRIÇÃO
@@ -2482,11 +2482,11 @@ print(funcao(3))
 print(funcao(5))
 print(funcao(9))
 
-Capítulo. imprime 15
+Capítulo. imprime 15.
 
-Capítulo. imprime 25
+Capítulo. imprime 25.
 
-Capítulo. imprime 45
+Capítulo. imprime 45.
 
 Python também aceita funções recursivas, o que significa que uma função definida pode
 chamar

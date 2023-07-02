@@ -1,4 +1,4 @@
-Capítulo. Design de interface e de experiência do usuário - prototipação
+Capítulo. Design de interface e de experiência do usuário - prototipação.
 
 A prototipação é uma etapa essencial no design de interface e experiência do usuário. Ela envolve a criação de representações visuais interativas do produto digital, permitindo que designers, desenvolvedores e partes interessadas testem e validem conceitos, interações e fluxos antes da implementação final. A prototipação ajuda a refinar e aprimorar a interface e a experiência do usuário, proporcionando uma visão tangível do produto em desenvolvimento.
 

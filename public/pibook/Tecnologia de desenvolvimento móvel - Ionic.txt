@@ -1,4 +1,4 @@
-Capítulo. Tecnologia de desenvolvimento móvel - Ionic
+Capítulo. Tecnologia de desenvolvimento móvel - Ionic.
 
 Ionic é uma tecnologia de desenvolvimento móvel que permite a criação de aplicativos móveis usando tecnologias web como HTML, CSS e JavaScript. Com o Ionic, é possível construir aplicativos nativos para iOS, Android e até mesmo Progressive Web Apps (PWAs).
 

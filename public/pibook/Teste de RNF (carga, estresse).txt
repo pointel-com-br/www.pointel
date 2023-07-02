@@ -1,4 +1,4 @@
-Capítulo. Teste de RNF (carga, estresse)
+Capítulo. Teste de RNF (carga, estresse).
 
 Os testes de RNF (Requisitos Não Funcionais) são realizados para avaliar o desempenho e a capacidade de um sistema em relação a fatores como carga e estresse. Esses testes ajudam a determinar como o sistema se comporta em condições adversas, como alto volume de usuários, tráfego intenso ou sobrecarga.
 

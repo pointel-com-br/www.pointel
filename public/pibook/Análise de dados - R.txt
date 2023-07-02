@@ -1,4 +1,4 @@
-Capítulo. Análise de dados - R
+Capítulo. Análise de dados - R.
 
 A análise de dados com R é uma abordagem popular e poderosa para a análise estatística e visualização de dados. R é uma linguagem de programação de código aberto e um ambiente de software amplamente utilizado para análise estatística, modelagem preditiva, visualização de dados e muito mais.
 

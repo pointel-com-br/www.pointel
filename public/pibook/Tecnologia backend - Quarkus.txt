@@ -1,4 +1,4 @@
-Capítulo. Tecnologia backend - Quarkus
+Capítulo. Tecnologia backend - Quarkus.
 
 Quarkus é um framework de desenvolvimento de aplicativos Java nativo da nuvem. Ele foi projetado para otimizar o desenvolvimento de aplicativos Java para a nuvem, fornecendo alta velocidade de inicialização, baixo consumo de memória e suporte nativo para contêineres.
 
@@ -20,7 +20,7 @@ Item. 6. Extensibilidade: O Quarkus oferece um modelo de extensibilidade flexív
 
 Em resumo, o Quarkus é uma tecnologia backend moderna e eficiente, especialmente adequada para o desenvolvimento de aplicativos Java nativos da nuvem. Ele oferece recursos de alto desempenho, baixo consumo de recursos e suporte nativo a contêineres, permitindo que os desenvolvedores criem aplicativos escaláveis e resilientes para ambientes de nuvem.
 
-Capítulo. O que é o Quarkus?
+Capítulo. O que é o Quarkus?.
 
 Publicado em 13 de janeiro de 2020 * Leitura de %t minutos
 
@@ -31,7 +31,7 @@ Copiar URL
 - Foco em contêineres
 - Código imperativo e reativo
 
-Sub Capítulo. Visão geral
+Sub Capítulo. Visão geral.
 
 O Quarkus é um framework Java de pilha completa, nativo do Kubernetes, feito para máquinas virtuais Java (JVMs) e compilação nativa, otimizando o Java especificamente para contêineres e permitindo que ele se torne uma plataforma eficiente para ambientes de serverless, nuvem e Kubernetes.
 
@@ -41,13 +41,13 @@ A solução de injeção de dependência do Quarkus é baseada no CDI (Contextos
 
 Ele também fornece as informações corretas para o GraalVM (uma máquina virtual universal para executar aplicativos escritos em várias linguagens, incluindo Java e JavaScript) para a compilação nativa de sua aplicação.
 
-Tópico. Quatro razões para experimentar o Quarkus
+Tópico. Quatro razões para experimentar o Quarkus.
 
 Java™ ainda é a linguagem de programação escolhida por muitos desenvolvedores, mas a evolução das tecnologias nativas da nuvem, como o Kubernetes e o serverless, apresenta um desafio. Veja por que o Quarkus é o framework Java de que os desenvolvedores precisam para trabalhar com o Knative e o serverless.
 
 Obtenha a lista de verificação Icon-Red_Hat-Directional-A-Black-RGB
 
-Sub Capítulo. Projetado para desenvolvedores
+Sub Capítulo. Projetado para desenvolvedores.
 
 O Quarkus foi projetado para ser fácil de usar desde o início, com recursos que funcionam bem com pouca ou nenhuma configuração.
 
@@ -60,7 +60,7 @@ Construído com foco na facilidade de uso para os desenvolvedores, o Quarkus tam
 - Configuração unificada
 - Geração fácil de executáveis nativos
 
-Sub Capítulo. Foco em contêineres
+Sub Capítulo. Foco em contêineres.
 
 Seja uma aplicação hospedada em uma nuvem pública ou em um cluster Kubernetes hospedado internamente, características como inicialização rápida e baixo consumo de memória são importantes para manter os custos totais do host baixos.
 
@@ -74,7 +74,7 @@ uso de memória reduzido e tempos de inicialização mais rápidos das seguintes
 
 Dessa forma, o Quarkus constrói aplicativos que consomem 1/10 da memória em comparação com o Java tradicional, e possui um tempo de inicialização mais rápido (até 300 vezes mais rápido), o que reduz consideravelmente o custo dos recursos da nuvem.
 
-Sub Capítulo. Código imperativo e reativo
+Sub Capítulo. Código imperativo e reativo.
 
 O Quarkus foi projetado para combinar perfeitamente o código no estilo imperativo familiar e o estilo reativo, não bloqueante, ao desenvolver aplicações.
 

@@ -1,4 +1,4 @@
-Capítulo. Design de interface e de experiência do usuário - responsividade
+Capítulo. Design de interface e de experiência do usuário - responsividade.
 
 A responsividade é um aspecto crucial no design de interface e experiência do usuário para garantir que um produto digital seja visualmente agradável e funcional em diferentes dispositivos e tamanhos de tela, como desktops, laptops, tablets e smartphones.
 

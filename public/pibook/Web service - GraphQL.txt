@@ -1,4 +1,4 @@
-Capítulo. Web service - GraphQL
+Capítulo. Web service - GraphQL.
 
 Um Web service GraphQL é uma abordagem moderna para a construção de APIs (Interfaces de Programação de Aplicativos) que permite que os clientes solicitem e recebam dados de forma eficiente e flexível. Diferente dos Web services tradicionais, onde as respostas são definidas pelo servidor, o GraphQL permite que os clientes especifiquem exatamente os dados que desejam obter.
 

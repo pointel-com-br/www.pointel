@@ -1,4 +1,4 @@
-Capítulo. Tecnologia frontend web - CSS
+Capítulo. Tecnologia frontend web - CSS.
 
 CSS (Cascading Style Sheets) é uma linguagem de estilo utilizada em conjunto com o HTML para definir a aparência e o layout dos elementos em uma página web. Com o CSS, é possível controlar o design, as cores, as fontes, as dimensões e outros aspectos visuais de uma página, tornando-a esteticamente atraente e responsiva.
 

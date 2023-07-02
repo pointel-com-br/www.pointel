@@ -1,4 +1,4 @@
-Capítulo. Ferramentas de gestão de configuração - CI-CD
+Capítulo. Ferramentas de gestão de configuração - CI-CD.
 
 CI/CD (Integração Contínua e Entrega Contínua) é uma prática de desenvolvimento de software que visa automatizar a construção, teste e implantação de aplicações de forma contínua e consistente. Existem várias ferramentas disponíveis para ajudar na implementação do CI/CD. Aqui estão algumas das principais ferramentas de gestão de configuração para CI/CD:
 

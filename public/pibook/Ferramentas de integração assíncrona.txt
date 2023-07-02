@@ -1,4 +1,4 @@
-Capítulo. Ferramentas de integração assíncrona
+Capítulo. Ferramentas de integração assíncrona.
 
 Existem várias ferramentas e tecnologias disponíveis para facilitar a integração assíncrona entre sistemas. Aqui estão algumas das principais opções:
 

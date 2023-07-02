@@ -1,4 +1,4 @@
-Capítulo. Resiliência de aplicações - Técnica de Balanceamento de Carga Global de Servidores (GSLB)
+Capítulo. Resiliência de aplicações - Técnica de Balanceamento de Carga Global de Servidores (GSLB).
 
 A técnica de Balanceamento de Carga Global de Servidores (GSLB - Global Server Load Balancing) é uma estratégia utilizada para aumentar a resiliência de aplicações distribuídas em diferentes localidades geográficas. Ela visa otimizar a distribuição de carga entre servidores localizados em diferentes regiões, garantindo alta disponibilidade e melhor desempenho para os usuários em diferentes partes do mundo.
 

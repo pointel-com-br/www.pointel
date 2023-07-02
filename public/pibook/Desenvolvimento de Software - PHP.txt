@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Software - PHP
+Capítulo. Desenvolvimento de Software - PHP.
 
 Índice
 
@@ -2373,7 +2373,7 @@ blocos de
 comentário)
 
 // comentário
-Capítulo. comentário
+Capítulo. comentário.
 
 /* Comentário
 

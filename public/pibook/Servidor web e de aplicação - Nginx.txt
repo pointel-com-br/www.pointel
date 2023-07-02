@@ -1,4 +1,4 @@
-Capítulo. Servidor web e de aplicação - Nginx
+Capítulo. Servidor web e de aplicação - Nginx.
 
 O Nginx é um servidor web e proxy reverso de alto desempenho. Ele foi criado para resolver problemas de escalabilidade e desempenho encontrados em servidores web tradicionais. O Nginx é conhecido por sua eficiência, baixo consumo de recursos e capacidade de lidar com um grande número de solicitações simultâneas. Aqui estão algumas informações importantes sobre o Nginx:
 

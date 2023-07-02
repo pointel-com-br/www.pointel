@@ -1,4 +1,4 @@
-Capítulo. Resiliência de aplicações - Técnica de Site Ativo X Ativo
+Capítulo. Resiliência de aplicações - Técnica de Site Ativo X Ativo.
 
 A técnica de Site Ativo X Ativo (Active-Active) é uma abordagem utilizada na resiliência de aplicações para garantir alta disponibilidade e escalabilidade. Nessa técnica, múltiplos sites ou data centers são configurados e operam simultaneamente, atendendo às solicitações dos usuários de forma distribuída.
 

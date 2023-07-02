@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Linguagem R
+Capítulo. Desenvolvimento de Informação - Linguagem R.
 
 Índice
 
@@ -1361,7 +1361,7 @@ save.imageO e load()
 
 Para salvar uma cópia da sua área de trabalho você pode utilizar a função save.image():
 
-Capítulo. salva a área de trabalho no arquivo "aula_linguagemR.RData"
+Capítulo. salva a área de trabalho no arquivo "aula_linguagemR.RData".
 
 > save.image(file=" aula_linguagemR.RData ")
 
@@ -1884,7 +1884,7 @@ xA2
 
 quadrado(3)
 
-Sub Capítulo. [1] 9
+Sub Capítulo. [1] 9.
 
 Funções criam um ambiente local e, em geral, não alteram o objeto ao qual são
 aplicadas. Isto é, se
@@ -1911,10 +1911,10 @@ A estrutura básica do if() é a seguinte:
 
 if (condicao) {
 
-Capítulo. comandos que
-Capítulo. serão rodados
+Capítulo. comandos que.
+Capítulo. serão rodados.
 
-Capítulo. caso condicao = TRUE
+Capítulo. caso condicao = TRUE.
 
 }
 
@@ -1931,17 +1931,17 @@ A estrutura básica do if() else é a seguinte:
 
 if (condicao) {
 
-Capítulo. comandos que
-Capítulo. serão rodados
+Capítulo. comandos que.
+Capítulo. serão rodados.
 
-Capítulo. caso condicao = TRUE
+Capítulo. caso condicao = TRUE.
 
 } else {
 
-Capítulo. comandos que
-Capítulo. serão rodados
+Capítulo. comandos que.
+Capítulo. serão rodados.
 
-Capítulo. caso condicao = FALSE
+Capítulo. caso condicao = FALSE.
 
 }
 
@@ -2007,7 +2007,7 @@ soma = soma + x[i]
 
 soma
 
-Sub Capítulo. [1] 310
+Sub Capítulo. [1] 310.
 
 Os laços formados com a palavra-chave/or executam os comandos entre chaves quantas
 vezes a
@@ -2048,8 +2048,8 @@ sequência de iterações se encerra quando i chega à última linha e j percorr
 
 x <- matrix(ll:35, 3, 5)
 
-Sub Capítulo. Warning in matrix(ll:35, 3, 5): comprimento dos dados [25] não é um submúltiplo
-Sub Capítulo. ou múltiplo do número de linhas [3]
+Sub Capítulo. Warning in matrix(ll:35, 3, 5): comprimento dos dados [25] não é um submúltiplo.
+Sub Capítulo. ou múltiplo do número de linhas [3].
 
 soma = 0
 
@@ -2064,7 +2064,7 @@ soma = soma + x[i,j]
 
 soma
 
-Sub Capítulo. [1] 270
+Sub Capítulo. [1] 270.
 
 laços com while
 
@@ -2102,7 +2102,7 @@ i = i + 1
 
 soma
 
-Sub Capítulo. [1] 310
+Sub Capítulo. [1] 310.
 
 No exemplo, o laço com for é mais simples. Em laços com while, é preciso tomar
 cuidado para que
@@ -2142,7 +2142,7 @@ break
 
 soma
 
-Sub Capítulo. [1] 310
+Sub Capítulo. [1] 310.
 
 O comando break, como o nome indica, interrompe a execução de um loop
 sempre que for
@@ -2173,7 +2173,7 @@ soma - soma + x[i]
 
 soma
 
-Sub Capítulo. [1] 255
+Sub Capítulo. [1] 255.
 
 RESUMo
 
@@ -2533,7 +2533,7 @@ função agrupa os dados em colunas com incorporando diversos valores para cada 
 
 Ao executar o código acima, temos o seguinte resultado:
 
-Capítulo. A tibble: : 3 x 4
+Capítulo. A tibble: : 3 x 4.
 
 Ano Al A2 A3
 
@@ -2740,12 +2740,12 @@ Item. 6. FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Estatística/202
 Utilizando a Linguagem R tem-se um objeto x como consta a seguir.
 x
 
-Sub Capítulo. [1] 1 3 4 3 4 <NA>
+Sub Capítulo. [1] 1 3 4 3 4 <NA>.
 
-Sub Capítulo. Leveis: 13 4
+Sub Capítulo. Leveis: 13 4.
 is.factor(x)
 
-Sub Capítulo. [1] TRUE
+Sub Capítulo. [1] TRUE.
 
 0 comando que resulta na soma dos elementos numéricos de x é:
 
@@ -3552,12 +3552,12 @@ Item. 6. FGV - Analista Judiciário (TJDFT)/Apoio Especializado/Estatística/202
 Utilizando a Linguagem R tem-se um objeto x como consta a seguir.
 x
 
-Sub Capítulo. [1] 1 3 4 3 4 <NA>
+Sub Capítulo. [1] 1 3 4 3 4 <NA>.
 
-Sub Capítulo. Leveis: 13 4
+Sub Capítulo. Leveis: 13 4.
 is.factor(x)
 
-Sub Capítulo. [1] TRUE
+Sub Capítulo. [1] TRUE.
 
 0 comando que resulta na soma dos elementos numéricos de x é:
 A sum(as.numeric(as.character(x)), na.rm = TRUE);
@@ -4040,10 +4040,10 @@ str(mat)
 
 str(df)
 
-Sub Capítulo. 'data.frame': 2 obs. of 2 variables:
+Sub Capítulo. 'data.frame': 2 obs. of 2 variables:.
 
-Sub Capítulo. $ x: Factorw/ 2 leveis "a","b": 12
-Sub Capítulo. $ y: num 1 2
+Sub Capítulo. $ x: Factorw/ 2 leveis "a","b": 12.
+Sub Capítulo. $ y: num 1 2.
 
 #Dando nomes as linhas e as colunas.
 

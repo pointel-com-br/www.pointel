@@ -1,4 +1,4 @@
-Capítulo. Sistemas de indexação
+Capítulo. Sistemas de indexação.
 
 Sistemas de indexação são mecanismos utilizados para organizar e tornar mais eficiente o acesso a grandes volumes de dados. Eles permitem a criação de índices que mapeiam os dados para informações relevantes, permitindo consultas e pesquisas rápidas.
 

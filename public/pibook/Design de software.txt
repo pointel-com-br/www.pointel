@@ -1,4 +1,4 @@
-Capítulo. Design de software
+Capítulo. Design de software.
 
 O design de software é o processo de criar uma estrutura e uma organização adequadas para um sistema de software, levando em consideração os requisitos funcionais e não funcionais do projeto. É uma etapa fundamental no desenvolvimento de software, pois um bom design contribui para a construção de sistemas eficientes, escaláveis, flexíveis e fáceis de manter.
 

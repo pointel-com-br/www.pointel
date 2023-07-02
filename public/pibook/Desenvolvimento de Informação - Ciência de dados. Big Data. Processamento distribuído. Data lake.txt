@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Ciência de dados. Big Data. Processamento distribuído. Data lake
+Capítulo. Desenvolvimento de Informação - Ciência de dados. Big Data. Processamento distribuído. Data lake.
 
 Índice
 

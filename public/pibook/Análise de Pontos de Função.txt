@@ -1,4 +1,4 @@
-Capítulo. Análise de Pontos de Função
+Capítulo. Análise de Pontos de Função.
 
 A Análise de Pontos de Função (APF) é uma técnica de estimativa utilizada para medir o tamanho funcional de um software com base nas funcionalidades e nos requisitos do sistema. Ela é independente de tecnologia e linguagem de programação, focando na quantificação do valor entregue ao usuário final.
 
@@ -21,7 +21,7 @@ Item. 5. Validação e Revisão: Após a contagem dos Pontos de Função, é imp
 
 A Análise de Pontos de Função é uma técnica amplamente utilizada na engenharia de software para auxiliar na estimativa de tamanho e esforço de desenvolvimento de um projeto. Ela fornece uma medida objetiva e consistente do valor entregue pelo software e pode ser usada como base para estimativas de prazos, custos e recursos necessários.
 
-Capítulo. Segundo o IFPUG quais são os tipos de contagem de pontos de função?
+Capítulo. Segundo o IFPUG quais são os tipos de contagem de pontos de função?.
 
 Segundo o International Function Point Users Group (IFPUG), existem três tipos de contagem de pontos de função:
 
@@ -33,7 +33,7 @@ Item. 3. Contagem de Pontos de Função Detalhada (DFP - Detailed Function Point
 
 Esses tipos de contagem de pontos de função são utilizados para medir o tamanho funcional de um software e servem como base para estimar o esforço necessário para desenvolver, manter ou modificar um sistema.
 
-Capítulo. Segundo o IFPUG quais são os momentos de uma aplicação que podemos fazer uma contagem de pontos de função?
+Capítulo. Segundo o IFPUG quais são os momentos de uma aplicação que podemos fazer uma contagem de pontos de função?.
 
 Segundo o International Function Point Users Group (IFPUG), existem quatro momentos em que é possível fazer a contagem de pontos de função:
 

@@ -1,4 +1,4 @@
-Capítulo. Ferramentas de gestão de configuração - GitLab CI
+Capítulo. Ferramentas de gestão de configuração - GitLab CI.
 
 O GitLab CI é uma ferramenta de integração contínua e entrega contínua (CI/CD) integrada ao GitLab, uma plataforma de hospedagem de código-fonte baseada em Git. O GitLab CI permite automatizar o processo de construção, teste e implantação de aplicativos de software, fornecendo uma maneira fácil e eficiente de criar pipelines de CI/CD.
 

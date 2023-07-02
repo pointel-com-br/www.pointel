@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Análise de dados ( Pandas, NumPy )
+Capítulo. Desenvolvimento de Informação - Análise de dados ( Pandas, NumPy ).
 
 Índice
 
@@ -123,7 +123,7 @@ pequeno. Cada objeto DataFrame tem um atributo shape que nos dará o número de 
 e
 colunas do DataFrame.
 
-Capítulo. a função pega o número de linhas e colunas do DataFrame
+Capítulo. a função pega o número de linhas e colunas do DataFrame.
 print(df.shape)
 
 (1704,6)
@@ -154,11 +154,11 @@ numéricas. Também é possível obter as seguintes estatísticas sobre todo o d
 (uma
 coluna):
 
-Capítulo. Para retornar a média de todas as colunas:
+Capítulo. Para retornar a média de todas as colunas:.
 
 df.mean()
 
-Capítulo. Para retornar a correlação entre colunas em um quadro de dados:
+Capítulo. Para retornar a correlação entre colunas em um quadro de dados:.
 df.corr()
 
 #Para retornar o número de valores não nulos em cada coluna do

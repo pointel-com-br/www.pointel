@@ -1,4 +1,4 @@
-Capítulo. Big Data - Conceitos de data lake
+Capítulo. Big Data - Conceitos de data lake.
 
 Um Data Lake é um conceito de armazenamento de dados que permite a retenção de grandes volumes de dados brutos, estruturados e não estruturados, em sua forma original. Diferente de um Data Warehouse, onde os dados são estruturados e organizados previamente para fins específicos, um Data Lake armazena os dados em seu formato bruto, preservando sua integridade e flexibilidade.
 

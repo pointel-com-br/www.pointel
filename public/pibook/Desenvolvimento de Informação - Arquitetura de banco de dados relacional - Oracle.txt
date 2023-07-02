@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - Oracle
+Capítulo. Desenvolvimento de Informação - Arquitetura de banco de dados relacional - Oracle.
 
 Índice
 
@@ -5831,7 +5831,7 @@ listener pode servir múltiplas instâncias de BD e milhares de conexões client
 abaixo
 um exemplo de conteúdo do arquivo de configuração do listener, chamado listener.ora:
 
-Capítulo. listener.ora Network Configuration File:
+Capítulo. listener.ora Network Configuration File:.
 
 LISTENER = (DESCRIPTION_LIST =
 (DESCRIPTION =

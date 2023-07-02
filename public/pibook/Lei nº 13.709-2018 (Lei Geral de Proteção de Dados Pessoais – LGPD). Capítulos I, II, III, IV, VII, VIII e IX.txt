@@ -1,4 +1,4 @@
-Capítulo. Lei nº 13.709-2018 (Lei Geral de Proteção de Dados Pessoais - LGPD). Capítulos I, II, III, IV, VII, VIII e IX
+Capítulo. Lei nº 13.709-2018 (Lei Geral de Proteção de Dados Pessoais - LGPD). Capítulos I, II, III, IV, VII, VIII e IX.
 
 A Lei Geral de Proteção de Dados Pessoais (LGPD), Lei nº 13.709-2018, é uma legislação brasileira que estabelece regras e diretrizes para o tratamento de dados pessoais por empresas e organizações. A lei foi inspirada no Regulamento Geral de Proteção de Dados (GDPR) da União Europeia e tem como objetivo proteger a privacidade e os direitos dos indivíduos em relação aos seus dados pessoais. A seguir, você encontrará um resumo dos capítulos relevantes da LGPD:
 
@@ -25,7 +25,7 @@ Neste capítulo, são previstas as sanções e penalidades para o descumprimento
 
 É importante destacar que este resumo não substitui a leitura completa da Lei Geral de Proteção de Dados Pessoais (LGPD) e que a interpretação e aplicação da lei podem variar. Recomenda-se consultar o texto legal completo e buscar orientação jurídica especializada para obter informações mais detalhadas e atualizadas sobre a LGPD.
 
-Capítulo. Quando a LGPD permite o tratamento de dados sensíveis sem o consentimento do titular?
+Capítulo. Quando a LGPD permite o tratamento de dados sensíveis sem o consentimento do titular?.
 
 De acordo com a Lei Geral de Proteção de Dados (LGPD) do Brasil, o tratamento de dados sensíveis geralmente requer o consentimento expresso do titular dos dados. No entanto, existem algumas situações em que o tratamento de dados sensíveis é permitido mesmo sem o consentimento do titular. São elas:
 

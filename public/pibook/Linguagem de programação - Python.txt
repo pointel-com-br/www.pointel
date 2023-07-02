@@ -1,4 +1,4 @@
-Capítulo. Linguagem de programação - Python
+Capítulo. Linguagem de programação - Python.
 
 Python é uma linguagem de programação de alto nível, interpretada e multiparadigma. Desenvolvida por Guido van Rossum e lançada em 1991, Python é conhecida por sua simplicidade, legibilidade e ênfase na produtividade do desenvolvedor. Aqui estão algumas informações importantes sobre Python:
 
@@ -51,7 +51,7 @@ Os frameworks de teste em Python, como o pytest, oferecem recursos avançados pa
 
 Além do pytest, o unittest e o doctest são outros frameworks de teste populares em Python. O unittest segue uma abordagem mais orientada a objetos para escrever testes, enquanto o doctest permite escrever testes diretamente nas docstrings do código. Cada framework tem sua própria sintaxe e recursos específicos, mas a ideia geral é a mesma: definir funções de teste, executá-las e verificar se os resultados estão corretos usando asserções.
 
-Capítulo. Funções para o tratamento de strings no Python
+Capítulo. Funções para o tratamento de strings no Python.
 
 O Python oferece uma variedade de funções e métodos embutidos para o tratamento de strings. Aqui estão algumas das funções e métodos mais comuns para o tratamento de strings no Python:
 

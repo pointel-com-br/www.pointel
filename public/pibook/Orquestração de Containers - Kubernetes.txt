@@ -1,4 +1,4 @@
-Capítulo. Orquestração de Containers - Kubernetes
+Capítulo. Orquestração de Containers - Kubernetes.
 
 A orquestração de containers refere-se ao gerenciamento de aplicações em containers, como Docker, em ambientes distribuídos. O Kubernetes é uma plataforma de orquestração de containers amplamente utilizada que foi desenvolvida pelo Google e agora é mantida pela Cloud Native Computing Foundation (CNCF). O Kubernetes fornece um conjunto de ferramentas e recursos que permitem implantar, dimensionar e gerenciar aplicativos em containers de forma eficiente.
 

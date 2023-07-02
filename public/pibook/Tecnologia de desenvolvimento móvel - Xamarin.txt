@@ -1,4 +1,4 @@
-Capítulo. Tecnologia de desenvolvimento móvel - Xamarin
+Capítulo. Tecnologia de desenvolvimento móvel - Xamarin.
 
 Xamarin é uma tecnologia de desenvolvimento móvel que permite criar aplicativos nativos para iOS, Android e Windows usando a linguagem de programação C#. Xamarin é parte do ecossistema da Microsoft e fornece ferramentas e bibliotecas para desenvolvedores criarem aplicativos móveis de alto desempenho.
 

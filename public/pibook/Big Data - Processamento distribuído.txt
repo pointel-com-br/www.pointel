@@ -1,4 +1,4 @@
-Capítulo. Big Data - Processamento distribuído
+Capítulo. Big Data - Processamento distribuído.
 
 O processamento distribuído é uma abordagem chave para lidar com Big Data. Ele envolve a distribuição de tarefas de processamento em um cluster de computadores interconectados para processar grandes volumes de dados de forma eficiente. Aqui estão algumas técnicas comumente usadas no processamento distribuído de Big Data:
 

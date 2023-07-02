@@ -1,4 +1,4 @@
-Capítulo. Aplicações em Nuvem - Orientação a serviço
+Capítulo. Aplicações em Nuvem - Orientação a serviço.
 
 A orientação a serviços é um princípio de design de software que enfatiza a construção de aplicativos como um conjunto de serviços independentes e autônomos. Quando aplicado a aplicações em nuvem, a orientação a serviço promove a criação de serviços reutilizáveis e interoperáveis que podem ser implantados e escalados independentemente.
 

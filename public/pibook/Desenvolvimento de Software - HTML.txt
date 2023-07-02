@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Software - HTML
+Capítulo. Desenvolvimento de Software - HTML.
 
 Índice
 
@@ -5239,7 +5239,7 @@ armazenados em cache. Aqui está um exemplo de um manifesto de cache:
 
 CACHE MANIFEST
 
-Capítulo. versão 1.0
+Capítulo. versão 1.0.
 index.html
 css/styles.css
 js/scripts.js

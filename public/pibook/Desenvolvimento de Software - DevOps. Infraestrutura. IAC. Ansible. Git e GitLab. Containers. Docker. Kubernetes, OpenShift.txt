@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Software - DevOps. Infraestrutura. IAC. Ansible. Git e GitLab. Containers. Docker. Kubernetes, OpenShift
+Capítulo. Desenvolvimento de Software - DevOps. Infraestrutura. IAC. Ansible. Git e GitLab. Containers. Docker. Kubernetes, OpenShift.
 
 Índice
 

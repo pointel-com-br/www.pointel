@@ -1,4 +1,4 @@
-Capítulo. Gerenciamento de produtos com métodos ágeis
+Capítulo. Gerenciamento de produtos com métodos ágeis.
 
 O gerenciamento de produtos com métodos ágeis é uma abordagem que utiliza os princípios e práticas do desenvolvimento ágil de software para gerenciar o ciclo de vida de um produto. Esses métodos são conhecidos por sua flexibilidade, foco no valor entregue ao cliente e colaboração entre as equipes envolvidas.
 

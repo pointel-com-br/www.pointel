@@ -1,4 +1,4 @@
-Capítulo. Tecnologia backend - Especificação JEE - JSF
+Capítulo. Tecnologia backend - Especificação JEE - JSF.
 
 A especificação JEE (Java Enterprise Edition) inclui o JSF (JavaServer Faces), que é um framework de desenvolvimento de interfaces web baseado em componentes para a construção de interfaces de usuário em aplicativos Java. O JSF segue o padrão MVC (Model-View-Controller) e simplifica o desenvolvimento de interfaces web ricas e interativas.
 
@@ -18,7 +18,7 @@ Item. 6. Suporte a Internacionalização: O JSF suporta internacionalização, p
 
 O JSF é uma tecnologia madura e amplamente adotada para o desenvolvimento de interfaces web em aplicativos Java. Ele fornece um conjunto abrangente de recursos para a criação de interfaces de usuário sofisticadas e é integrado a outras tecnologias JEE, como EJB e JPA, para criar aplicativos empresariais completos.
 
-Capítulo. Principais anotações do JSF no JavaEE
+Capítulo. Principais anotações do JSF no JavaEE.
 
 No Java EE, as principais anotações utilizadas com o JSF (JavaServer Faces) são:
 

@@ -1,4 +1,4 @@
-Capítulo. Infraestrutura como código (IAC)
+Capítulo. Infraestrutura como código (IAC).
 
 Infraestrutura como código (Infrastructure as Code - IAC) é uma abordagem para gerenciar e provisionar a infraestrutura de TI de forma automatizada e programática, utilizando código. Em vez de configurar manualmente os servidores, redes e outros recursos de infraestrutura, o IAC permite que você descreva sua infraestrutura como código, que pode ser versionado, revisado, compartilhado e executado repetidamente.
 

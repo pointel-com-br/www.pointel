@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Software - Microsserviços e containers. Padrões de microsserviços. 12 Factories
+Capítulo. Desenvolvimento de Software - Microsserviços e containers. Padrões de microsserviços. 12 Factories.
 
 AVISO
 

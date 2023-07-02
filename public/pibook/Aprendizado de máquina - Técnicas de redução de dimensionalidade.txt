@@ -1,4 +1,4 @@
-Capítulo. Aprendizado de máquina - Técnicas de redução de dimensionalidade
+Capítulo. Aprendizado de máquina - Técnicas de redução de dimensionalidade.
 
 No aprendizado de máquina, as técnicas de redução de dimensionalidade são utilizadas para diminuir o número de variáveis ou recursos (features) de um conjunto de dados, mantendo ao mesmo tempo as informações mais relevantes. Essas técnicas são especialmente úteis quando se trabalha com conjuntos de dados de alta dimensionalidade, onde o número de recursos é grande e pode causar problemas de desempenho ou dificultar a interpretação dos dados.
 

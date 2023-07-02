@@ -1,4 +1,4 @@
-Capítulo. Banco de dados relacional Oracle
+Capítulo. Banco de dados relacional Oracle.
 
 O Oracle Database é um sistema de gerenciamento de banco de dados relacional desenvolvido pela Oracle Corporation. É uma das soluções mais populares e amplamente utilizadas para o armazenamento, gerenciamento e processamento de grandes volumes de dados. Abaixo estão alguns aspectos importantes do Oracle Database:
 

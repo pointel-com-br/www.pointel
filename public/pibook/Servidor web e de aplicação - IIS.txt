@@ -1,4 +1,4 @@
-Capítulo. Servidor web e de aplicação - IIS
+Capítulo. Servidor web e de aplicação - IIS.
 
 O IIS (Internet Information Services) é um servidor web desenvolvido pela Microsoft para hospedar e fornecer serviços baseados na web. Ele é amplamente utilizado para hospedar sites e aplicativos da web em ambientes Windows. Aqui estão algumas informações importantes sobre o IIS:
 

@@ -1,4 +1,4 @@
-Capítulo. Linguagem de programação - TypeScript
+Capítulo. Linguagem de programação - TypeScript.
 
 TypeScript é uma linguagem de programação desenvolvida pela Microsoft que é uma extensão do JavaScript. Ela adiciona recursos de tipagem estática e outros recursos de programação orientada a objetos ao JavaScript, permitindo a criação de código mais robusto, escalável e de fácil manutenção. Aqui estão algumas informações importantes sobre o TypeScript:
 

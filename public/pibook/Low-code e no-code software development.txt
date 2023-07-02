@@ -1,4 +1,4 @@
-Capítulo. Low-code e no-code software development
+Capítulo. Low-code e no-code software development.
 
 O desenvolvimento de software low-code e no-code são abordagens que visam acelerar e simplificar o processo de criação de aplicativos, permitindo que pessoas sem habilidades de programação tradicional possam desenvolver soluções digitais.
 

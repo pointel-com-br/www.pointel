@@ -1,4 +1,4 @@
-Capítulo. Tecnologia frontend web - SPA e PWA
+Capítulo. Tecnologia frontend web - SPA e PWA.
 
 SPA (Single Page Application) e PWA (Progressive Web Application) são duas tecnologias amplamente utilizadas no desenvolvimento frontend web para criar experiências de usuário ricas e interativas. Embora compartilhem algumas semelhanças, elas têm finalidades e características distintas. Vamos explorar cada uma delas:
 
@@ -17,7 +17,7 @@ Item. 2. PWA (Progressive Web Application):
 
 Em resumo, as SPAs são aplicativos web que funcionam em uma única página, atualizando o conteúdo dinamicamente, enquanto as PWAs são aplicativos web que aproveitam recursos modernos para fornecer uma experiência semelhante a um aplicativo nativo, incluindo instalação, notificações e funcionalidade offline. Ambas as tecnologias desempenham um papel importante no desenvolvimento frontend web e podem ser combinadas para criar aplicativos web avançados e de alto desempenho.
 
-Capítulo. O que são Progressive Web Apps?
+Capítulo. O que são Progressive Web Apps?.
 
 - Os três pilares de uma aplicação
 - Capazes
@@ -36,11 +36,11 @@ Se você pensar em aplicações de plataformas específicas e aplicações web e
 
 Progressive Web Apps - PWA (aplicações web progressivas) são desenvolvidas e aprimoradas com APIs modernas para fornecer recursos aprimorados, confiabilidade e capacidade de instalação, ao mesmo tempo que alcançam _qualquer pessoa, em qualquer lugar, em qualquer dispositivo_ com uma única base de código.
 
-Sub Capítulo. Os três pilares de uma aplicação #
+Sub Capítulo. Os três pilares de uma aplicação #.
 
 As Progressive Web Apps são aplicações web que foram projetadas para serem capazes, confiáveis e instaláveis. Esses três pilares as transformam em uma experiência que parece uma aplicação de plataforma específica.
 
-Tópico. Capazes #
+Tópico. Capazes #.
 
 A web, por si só, já é bastante capaz. Por exemplo, você pode construir um aplicativo de chat de vídeo hiper-local usando WebRTC, geolocalização e notificações push. Você pode tornar esse aplicativo instalável e permitir conversas virtuais com WebGL e WebVR. Com a introdução do Web Assembly, os desenvolvedores podem explorar outros ecossistemas, como C, C++ e Rust, e trazer décadas de trabalho e recursos para a web também. O Squoosh.app, por exemplo, aproveita tudo isso para sua compressão de imagem avançada.
 
@@ -48,7 +48,7 @@ Até recentemente, apenas aplicações de plataformas específicas tinham essas 
 
 Dentre as APIs modernas, Web Assembly e novas e futuras APIs, as aplicações web são mais capazes do que nunca, e esses recursos não param de crescer.
 
-Tópico. Confiáveis #
+Tópico. Confiáveis #.
 
 Uma Progressive Web App confiável parece rápida e confiável, independentemente da rede.
 

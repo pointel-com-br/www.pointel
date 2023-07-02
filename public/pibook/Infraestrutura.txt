@@ -1,4 +1,4 @@
-Capítulo. Infraestrutura
+Capítulo. Infraestrutura.
 
 Infraestrutura de TI (Tecnologia da Informação) refere-se a todo o conjunto de hardware, software, redes, servidores, sistemas operacionais e demais componentes necessários para suportar o ambiente de tecnologia de uma organização. Ela fornece a base para a execução de aplicativos, armazenamento de dados, comunicação e todas as operações de TI.
 

@@ -1,4 +1,4 @@
-Capítulo. Ferramenta de mensageria - WebSphereMQ
+Capítulo. Ferramenta de mensageria - WebSphereMQ.
 
 O WebSphere MQ, agora conhecido como IBM MQ, é uma ferramenta de mensageria desenvolvida pela IBM. É um sistema de mensageria de alto desempenho usado para a troca de mensagens entre aplicativos e sistemas distribuídos.
 

@@ -1,4 +1,4 @@
-Capítulo. Engenharia de Software e Sistemas - Análise e Projeto Orientado a Objetos
+Capítulo. Engenharia de Software e Sistemas - Análise e Projeto Orientado a Objetos.
 
 Índice
 
@@ -3999,7 +3999,7 @@ Gabarito: Anulada
 2g.(FCC / CAIXA - 2011) Um detalhe importante que deve ser especificado para os
 atributos e
 operações das classes é a visibilidade. Desta forma, os símbolos: + (sinal de mais),
-Capítulo. (sinal de
+Capítulo. (sinal de.
 número), - (sinal de menos) e - (til) correspondem respectivamente a:
 
 a) público, pacote, privado e protegido.
@@ -8470,7 +8470,7 @@ descendentes.
 29.(FCC / CAIXA - 2011) Um detalhe importante que deve ser especificado para os
 atributos e
 operações das classes é a visibilidade. Desta forma, os símbolos: + (sinal de mais),
-Capítulo. (sinal de
+Capítulo. (sinal de.
 número), - (sinal de menos) e ~ (til) correspondem respectivamente a:
 
 a) público, pacote, privado e protegido.

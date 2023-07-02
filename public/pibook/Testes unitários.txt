@@ -1,4 +1,4 @@
-Capítulo. Testes unitários
+Capítulo. Testes unitários.
 
 Os testes unitários são uma prática de teste de software que se concentra na verificação das unidades individuais de código, como funções, métodos ou classes, de forma isolada. O objetivo dos testes unitários é garantir que cada unidade de código funcione corretamente e produza os resultados esperados.
 

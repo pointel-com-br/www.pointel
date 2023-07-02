@@ -1,4 +1,4 @@
-Capítulo. Big Data - Fundamentos - Hadoop
+Capítulo. Big Data - Fundamentos - Hadoop.
 
 Hadoop é um framework de software amplamente utilizado para processar e armazenar grandes volumes de dados em clusters de computadores distribuídos. Ele foi projetado para lidar com os fundamentos do Big Data, como volume, variedade e velocidade dos dados.
 

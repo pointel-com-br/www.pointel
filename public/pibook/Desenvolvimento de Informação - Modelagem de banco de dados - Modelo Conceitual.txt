@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Modelagem de banco de dados - Modelo Conceitual
+Capítulo. Desenvolvimento de Informação - Modelagem de banco de dados - Modelo Conceitual.
 
 Índice
 
@@ -1484,7 +1484,7 @@ entidade, ou um componente da chave.
 
 EMPREGADO
 
-Capítulo. * NumEmp
+Capítulo. * NumEmp.
 
 * NomeEmp
 o FoneEmp

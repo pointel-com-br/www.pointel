@@ -1,4 +1,4 @@
-Capítulo. Produto mínimo viável (MVP)
+Capítulo. Produto mínimo viável (MVP).
 
 O Produto Mínimo Viável (MVP, do inglês Minimum Viable Product) é um conceito amplamente utilizado na metodologia de desenvolvimento ágil de software e startups. É uma versão inicial de um produto ou serviço que possui o conjunto mínimo de recursos necessários para atender às necessidades dos clientes e validar suas hipóteses de negócio. O objetivo principal de um MVP é obter feedback dos usuários e aprender com sua experiência para aprimorar e evoluir o produto.
 

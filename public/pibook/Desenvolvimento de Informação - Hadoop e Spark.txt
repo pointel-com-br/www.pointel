@@ -1,4 +1,4 @@
-Capítulo. Desenvolvimento de Informação - Hadoop e Spark
+Capítulo. Desenvolvimento de Informação - Hadoop e Spark.
 
 AVISO
 
