@@ -10,16 +10,23 @@ import re
 def adjust_empty_lines(text):
     print('Ajustando linhas vazias...')
     result = []
-    empty = 3
+    empty = 0
+    inside_code_block = False
     for line in text:
-        line = line.strip()
-        line = re.sub(r'\s+', ' ', line)
-        if not line:
-            empty += 1
+        test = line.strip()
+        if test.startswith("```"):
+            inside_code_block = not inside_code_block
+        if inside_code_block:
+            result.append(line)
         else:
-            empty = 0
-        if empty <= 2:
-            result.append(line + '\n')
+            test = re.sub(r'\s+', ' ', test)
+            if not test:
+                empty += 1
+            else:
+                empty = 0
+            if empty <= 1:
+                result.append(test + '\n')
+        
     return result
 
 
@@ -130,6 +137,13 @@ def adjust_broken(text):
         i += 1
     return result
 
+
+def adjust_temp(text):
+    result = []
+    for line in text:
+        
+        result.append(line)
+    return result
 
 def list_paths():
     return [p for p in os.listdir('.') if p[-4:] == '.txt']
