@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Orientação a Objetos (2).
+# Desenvolvimento de Software - Orientação a Objetos (2)
 
 Índice
 

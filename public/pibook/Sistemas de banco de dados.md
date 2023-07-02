@@ -1,4 +1,4 @@
-# Sistemas de banco de dados.
+# Sistemas de banco de dados
 
 Existem diferentes tipos de sistemas de banco de dados, cada um projetado para atender a requisitos específicos de armazenamento, acesso e manipulação de dados. Aqui estão alguns dos sistemas de banco de dados mais comuns:
 

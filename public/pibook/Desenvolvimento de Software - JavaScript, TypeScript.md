@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - JavaScript, TypeScript.
+# Desenvolvimento de Software - JavaScript, TypeScript
 
 Índice
 

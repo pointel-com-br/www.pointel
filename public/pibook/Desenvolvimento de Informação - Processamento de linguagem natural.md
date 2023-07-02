@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Processamento de linguagem natural.
+# Desenvolvimento de Informação - Processamento de linguagem natural
 
 Índice
 

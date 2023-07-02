@@ -1,4 +1,4 @@
-# Bizu Estratégico - Servidores Web.
+# Bizu Estratégico - Servidores Web
 
 Olá, prezado aluno. Tudo certo?
 

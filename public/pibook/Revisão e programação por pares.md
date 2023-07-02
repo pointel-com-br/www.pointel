@@ -1,4 +1,4 @@
-# Revisão e programação por pares.
+# Revisão e programação por pares
 
 A revisão e programação por pares (também conhecida como revisão de código ou code review) é uma prática na engenharia de software em que um desenvolvedor revisa o código produzido por outro desenvolvedor. Essa revisão é realizada com o objetivo de identificar erros, melhorar a qualidade do código, compartilhar conhecimento e garantir a conformidade com as melhores práticas e padrões estabelecidos.
 

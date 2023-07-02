@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - XP.
+# Engenharia de Software e Sistemas - XP
 
 Índice
 

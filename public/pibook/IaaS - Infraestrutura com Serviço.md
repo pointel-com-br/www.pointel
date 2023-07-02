@@ -1,4 +1,4 @@
-# IaaS - Infraestrutura com Serviço.
+# IaaS - Infraestrutura com Serviço
 
 IaaS, ou Infraestrutura como Serviço (Infrastructure as a Service), é um modelo de computação em nuvem que fornece recursos de infraestrutura virtualizada sob demanda para os usuários. Com o IaaS, os provedores de nuvem oferecem aos clientes acesso a recursos computacionais, como servidores virtuais, armazenamento e redes, em vez de eles precisarem comprar e manter fisicamente esses recursos.
 

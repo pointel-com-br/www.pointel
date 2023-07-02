@@ -1,4 +1,4 @@
-# Bizu Estratégico - Estatística e Probabilidade.
+# Bizu Estratégico - Estatística e Probabilidade
 
 Olá, prezado aluno. Tudo certo?
 

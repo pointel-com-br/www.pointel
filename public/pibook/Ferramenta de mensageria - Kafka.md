@@ -1,4 +1,4 @@
-# Ferramenta de mensageria - Kafka.
+# Ferramenta de mensageria - Kafka
 
 O Apache Kafka é uma poderosa plataforma de mensageria distribuída de alto desempenho. Ele foi projetado para lidar com grandes volumes de dados em tempo real e fornecer recursos de streaming de eventos. Aqui estão algumas informações importantes sobre o Kafka:
 

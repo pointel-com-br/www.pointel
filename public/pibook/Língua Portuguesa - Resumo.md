@@ -1,4 +1,4 @@
-# Língua Portuguesa - Resumo.
+# Língua Portuguesa - Resumo
 Exclusivamente PDF
 
 Índice

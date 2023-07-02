@@ -1,4 +1,4 @@
-# Língua Portuguesa - Mecanismos de coesão textual.
+# Língua Portuguesa - Mecanismos de coesão textual
 
 Índice
 

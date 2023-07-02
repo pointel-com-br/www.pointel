@@ -1,4 +1,4 @@
-# Língua Inglesa - Resolução de Provas.
+# Língua Inglesa - Resolução de Provas
 
 Índice
 

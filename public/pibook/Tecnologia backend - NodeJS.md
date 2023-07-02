@@ -1,4 +1,4 @@
-# Tecnologia backend - NodeJS.
+# Tecnologia backend - NodeJS
 
 Node.js é uma tecnologia backend que permite a execução de código JavaScript no lado do servidor. Diferentemente do JavaScript tradicional, que é executado no navegador, o Node.js permite que os desenvolvedores construam aplicativos de servidor robustos, escaláveis e de alto desempenho usando a mesma linguagem em todo o stack de tecnologia.
 

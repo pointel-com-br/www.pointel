@@ -1,4 +1,4 @@
-# Legislação Geral e Específica - Lei nº 12.527~2011 ( Lei de Acesso à Informação ).
+# Legislação Geral e Específica - Lei nº 12.527~2011 ( Lei de Acesso à Informação )
 
 Índice
 

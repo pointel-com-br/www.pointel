@@ -1,4 +1,4 @@
-# Bizu Estratégico - Segurança da Informação.
+# Bizu Estratégico - Segurança da Informação
 
 Olá, concurseiro! Tudo certo?
 

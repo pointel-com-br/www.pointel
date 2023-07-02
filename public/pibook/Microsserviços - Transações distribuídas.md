@@ -1,4 +1,4 @@
-# Microsserviços - Transações distribuídas.
+# Microsserviços - Transações distribuídas
 
 Quando se trata de transações distribuídas em um ambiente de microsserviços, a garantia da consistência dos dados pode ser um desafio. O conceito de transações atômicas e isoladas, que é comum em sistemas monolíticos, se torna mais complexo quando múltiplos microsserviços estão envolvidos.
 

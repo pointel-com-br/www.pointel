@@ -1,4 +1,4 @@
-# Arquitetura de Software - Código Limpo.
+# Arquitetura de Software - Código Limpo
 
 Código Limpo (Clean Code) é um conceito introduzido por Robert C. Martin em seu livro "Clean Code: A Handbook of Agile Software Craftsmanship". Refere-se a escrever código legível, compreensível e de fácil manutenção. O código limpo não é apenas funcionalmente correto, mas também é escrito com atenção aos detalhes, seguindo boas práticas e princípios de design.
 

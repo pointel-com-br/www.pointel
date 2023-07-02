@@ -1,4 +1,4 @@
-# Aprendizado de máquina.
+# Aprendizado de máquina
 
 O aprendizado de máquina (Machine Learning) é um subcampo da inteligência artificial que se concentra no desenvolvimento de algoritmos e modelos capazes de aprender a partir de dados e fazer previsões ou tomar decisões com base nesse aprendizado. Em vez de serem explicitamente programados para realizar tarefas específicas, os sistemas de aprendizado de máquina são projetados para aprender e melhorar com a experiência.
 

@@ -1,4 +1,4 @@
-# Bizu Estratégico - Matemática.
+# Bizu Estratégico - Matemática
 
 Olá, prezado aluno. Tudo certo?
 

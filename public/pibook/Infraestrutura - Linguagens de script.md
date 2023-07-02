@@ -1,4 +1,4 @@
-# Infraestrutura - Linguagens de script.
+# Infraestrutura - Linguagens de script
 
 Na infraestrutura de TI, as linguagens de script são frequentemente usadas para automatizar tarefas, configurar e gerenciar recursos e fornecer automação em geral. Essas linguagens são projetadas para facilitar o desenvolvimento rápido e a execução de pequenos programas ou scripts que automatizam processos.
 

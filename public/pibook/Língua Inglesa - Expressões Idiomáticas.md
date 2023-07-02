@@ -1,5 +1,4 @@
-# Língua Inglesa - Expressões Idiomáticas.
-
+# Língua Inglesa - Expressões Idiomáticas
 y
 
 Índice

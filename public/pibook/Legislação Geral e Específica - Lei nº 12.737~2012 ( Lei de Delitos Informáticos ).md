@@ -1,4 +1,4 @@
-# Legislação Geral e Específica - Lei nº 12.737~2012 ( Lei de Delitos Informáticos ).
+# Legislação Geral e Específica - Lei nº 12.737~2012 ( Lei de Delitos Informáticos )
 
 (Somente PDF)
 

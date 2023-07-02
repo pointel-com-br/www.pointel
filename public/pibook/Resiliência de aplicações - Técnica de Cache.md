@@ -1,4 +1,4 @@
-# Resiliência de aplicações - Técnica de Cache.
+# Resiliência de aplicações - Técnica de Cache
 
 A técnica de cache é uma das estratégias utilizadas para aumentar a resiliência de aplicações. O cache é uma forma de armazenamento temporário de dados que são frequentemente acessados, de forma a reduzir a carga nos recursos principais e melhorar o desempenho da aplicação.
 

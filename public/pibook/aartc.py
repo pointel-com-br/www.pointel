@@ -117,6 +117,34 @@ def adjust_marked_temp(text):
     return text
 
 
+def adjust_text_hierarchy(text):
+    print('Ajustando texto - hierarquia...')
+    result = []
+    inside_code_block = False
+    for line in text:
+        test = line.strip()
+        if test.startswith("```"):
+            inside_code_block = not inside_code_block
+        if inside_code_block:
+            result.append(line)
+        else:
+            if test.startswith("###### "):
+                test = "Sub Sub Sub Tópico. " + test[len("###### "):]
+            elif test.startswith("##### "):
+                test = "Sub Sub Tópico. " + test[len("##### "):]
+            elif test.startswith("#### "):
+                test = "Sub Tópico. " + test[len("#### "):]
+            elif test.startswith("### "):
+                test = "Tópico. " + test[len("### "):]
+            elif test.startswith("## "):
+                test = "Sub Capítulo. " + test[len("## "):]
+            elif test.startswith("# "):
+                test = "Capítulo. " + test[len("# "):]
+            result.append(test + '\n')
+    return result
+
+
+
 def adjust_text_items(text):
     print('Ajustando texto - itens...')
     for i in range(len(text)):
@@ -156,6 +184,7 @@ def adjust_marked(text, path):
 
 def adjust_text(text, path):
     print('Ajustando texto: ' + path)
+    text = adjust_text_hierarchy(text)
     text = adjust_text_items(text)
     text = adjust_text_temp(text)
     return text

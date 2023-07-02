@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Qualidade de Software ( Parte 1 ).
+# Engenharia de Software e Sistemas - Qualidade de Software ( Parte 1 )
 
 Índice
 

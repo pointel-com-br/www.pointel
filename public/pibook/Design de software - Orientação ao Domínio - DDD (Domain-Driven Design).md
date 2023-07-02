@@ -1,4 +1,4 @@
-# Design de software - Orientação ao Domínio - DDD (Domain-Driven Design).
+# Design de software - Orientação ao Domínio - DDD (Domain-Driven Design)
 
 O Domain-Driven Design (DDD), ou Design Orientado ao Domínio, é uma abordagem de design de software que se concentra na modelagem do domínio do problema em questão. Ele visa criar um design que reflita de forma precisa e efetiva as regras e conceitos do negócio, com o objetivo de desenvolver sistemas que atendam às necessidades do domínio de forma eficiente e flexível.
 

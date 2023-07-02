@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - C# e Go.
+# Desenvolvimento de Software - C# e Go
 
 Índice
 

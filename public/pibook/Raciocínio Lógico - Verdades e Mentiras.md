@@ -1,4 +1,4 @@
-# Raciocínio Lógico - Verdades e Mentiras.
+# Raciocínio Lógico - Verdades e Mentiras
 
 Índice
 

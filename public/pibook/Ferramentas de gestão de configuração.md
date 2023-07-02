@@ -1,4 +1,4 @@
-# Ferramentas de gestão de configuração.
+# Ferramentas de gestão de configuração
 
 Existem várias ferramentas de gestão de configuração disponíveis para auxiliar no controle e gerenciamento de configurações de software. Essas ferramentas facilitam o rastreamento de alterações, o controle de versões e a colaboração entre membros da equipe de desenvolvimento. Aqui estão algumas das ferramentas de gestão de configuração mais populares:
 

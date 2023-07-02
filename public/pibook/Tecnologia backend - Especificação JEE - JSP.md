@@ -1,4 +1,4 @@
-# Tecnologia backend - Especificação JEE - JSP.
+# Tecnologia backend - Especificação JEE - JSP
 
 A tecnologia backend JEE (Java Enterprise Edition) é uma plataforma de desenvolvimento para criação de aplicativos corporativos em Java. As páginas JSP (JavaServer Pages) são uma das especificações incluídas no JEE, fornecendo uma abordagem baseada em tags para criar interfaces de usuário dinâmicas.
 

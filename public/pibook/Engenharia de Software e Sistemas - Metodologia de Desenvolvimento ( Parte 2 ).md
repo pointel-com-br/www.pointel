@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Metodologia de Desenvolvimento ( Parte 2 ).
+# Engenharia de Software e Sistemas - Metodologia de Desenvolvimento ( Parte 2 )
 
 Índice
 

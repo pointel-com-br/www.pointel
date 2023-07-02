@@ -1,4 +1,4 @@
-# Bizu Estratégico - Língua Portuguesa.
+# Bizu Estratégico - Língua Portuguesa
 
 Fala, pessoal. Tudo certo?
 

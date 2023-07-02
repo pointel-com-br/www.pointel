@@ -1,4 +1,4 @@
-# Engenharia de Computadores e Redes - IaaS - Infraestrutura com Serviço. SaaS - Software como Serviço. PaaS - Plataforma como Serviço.
+# Engenharia de Computadores e Redes - IaaS - Infraestrutura com Serviço. SaaS - Software como Serviço. PaaS - Plataforma como Serviço
 
 Índice
 

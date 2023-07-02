@@ -1,4 +1,4 @@
-# Desenvolvimento de Software.
+# Desenvolvimento de Software
 
 O desenvolvimento de software é o processo de criar um sistema de software, envolvendo desde a concepção da ideia até a implementação, testes e entrega do produto final. É uma disciplina da engenharia de software que requer planejamento, análise, projeto, codificação, testes e manutenção do software.
 

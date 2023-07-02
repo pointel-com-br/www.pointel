@@ -1,4 +1,4 @@
-# Sistemas de arquivos distribuídos.
+# Sistemas de arquivos distribuídos
 
 Sistemas de arquivos distribuídos (Distributed File Systems) são projetados para armazenar e gerenciar grandes volumes de dados em um ambiente distribuído, onde os dados são distribuídos em vários nós ou servidores interconectados. Esses sistemas oferecem uma maneira escalável e tolerante a falhas de armazenar e acessar os dados de forma transparente.
 

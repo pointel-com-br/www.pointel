@@ -1,4 +1,4 @@
-# Sistemas de banco de dados - álgebra relacional.
+# Sistemas de banco de dados - álgebra relacional
 
 A álgebra relacional é um conjunto de operações matemáticas que formam a base teórica dos sistemas de banco de dados relacionais. Essas operações são aplicadas a relações, que são conjuntos de tuplas (linhas) com atributos (colunas). A álgebra relacional permite realizar consultas e manipulações nos dados armazenados no banco de dados. Aqui estão algumas das principais operações da álgebra relacional:
 

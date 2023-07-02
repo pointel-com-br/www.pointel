@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, JMS e JTA ) , JVM. Hibernate ( Parte 2 ).
+# Desenvolvimento de Software - Especificações JEE ( JPA, EJB, JSF, JMS e JTA ) , JVM. Hibernate ( Parte 2 )
 
 Índice
 

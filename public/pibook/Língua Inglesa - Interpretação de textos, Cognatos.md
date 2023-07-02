@@ -1,4 +1,4 @@
-# Língua Inglesa - Interpretação de textos, Cognatos.
+# Língua Inglesa - Interpretação de textos, Cognatos
 
 Índice
 

@@ -1,4 +1,4 @@
-# Técnicas de priorização, de estimativas.
+# Técnicas de priorização, de estimativas
 
 Técnicas de Priorização:
 

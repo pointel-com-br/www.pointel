@@ -1,4 +1,4 @@
-# Containers - Docker.
+# Containers - Docker
 
 O Docker é uma plataforma de código aberto que permite criar, implantar e executar aplicativos em contêineres. Um contêiner é uma unidade leve e isolada que empacota todo o ambiente necessário para executar um aplicativo, incluindo o código, as bibliotecas, as dependências e as variáveis de ambiente. Com o Docker, é possível criar contêineres independentes e portáteis que podem ser executados em qualquer ambiente, desde servidores locais até ambientes em nuvem.
 

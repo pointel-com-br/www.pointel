@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Análise e Projeto Orientado a Objetos.
+# Engenharia de Software e Sistemas - Análise e Projeto Orientado a Objetos
 
 Índice
 

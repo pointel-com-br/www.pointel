@@ -1,4 +1,4 @@
-# Bizu Estratégico - Língua Inglesa.
+# Bizu Estratégico - Língua Inglesa
 
 Fala, concurseiro(a)!
 

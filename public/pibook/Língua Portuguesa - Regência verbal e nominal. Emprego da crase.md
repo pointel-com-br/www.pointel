@@ -1,4 +1,4 @@
-# Língua Portuguesa - Regência verbal e nominal. Emprego da crase.
+# Língua Portuguesa - Regência verbal e nominal. Emprego da crase
 
 Índice
 

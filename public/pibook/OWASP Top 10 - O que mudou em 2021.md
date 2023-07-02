@@ -1,4 +1,4 @@
-# OWASP Top 10 - O que mudou em 2021.
+# OWASP Top 10 - O que mudou em 2021
 
 A01:2021-Quebra de Controle de Acesso (Broken Access Control) sobe da quinta posição; 94% das aplicação foram testados para alguma forma de controle de acesso quebrado. O 34 CWEs mapeados para Quebra de Controle de Acesso tiveram mais ocorrências em aplicações do que qualquer outra categoria.
 

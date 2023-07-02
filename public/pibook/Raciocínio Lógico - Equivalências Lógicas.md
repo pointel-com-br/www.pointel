@@ -1,4 +1,4 @@
-# Raciocínio Lógico - Equivalências Lógicas.
+# Raciocínio Lógico - Equivalências Lógicas
 
 Índice
 

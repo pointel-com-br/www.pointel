@@ -1,4 +1,4 @@
-# Tecnologia backend - Flask.
+# Tecnologia backend - Flask
 
 Flask é um framework leve e flexível para o desenvolvimento de aplicativos web em Python. Ele é considerado uma das opções mais populares para construir aplicativos backend usando a linguagem de programação Python.
 

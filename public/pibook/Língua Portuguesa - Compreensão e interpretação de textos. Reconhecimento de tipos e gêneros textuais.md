@@ -1,4 +1,4 @@
-# Língua Portuguesa - Compreensão e interpretação de textos. Reconhecimento de tipos e gêneros textuais.
+# Língua Portuguesa - Compreensão e interpretação de textos. Reconhecimento de tipos e gêneros textuais
 
 Índice
 

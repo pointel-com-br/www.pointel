@@ -1,4 +1,4 @@
-# Web service - SOAP.
+# Web service - SOAP
 
 Um Web service SOAP (Simple Object Access Protocol) é um serviço baseado no protocolo SOAP, que define um formato de mensagem XML estruturado para a comunicação entre sistemas distribuídos. Ele é projetado para ser independente de plataforma e linguagem, permitindo que aplicativos se comuniquem de forma padronizada.
 

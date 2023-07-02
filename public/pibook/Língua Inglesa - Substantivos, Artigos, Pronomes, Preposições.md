@@ -1,4 +1,4 @@
-# Língua Inglesa - Substantivos, Artigos, Pronomes, Preposições.
+# Língua Inglesa - Substantivos, Artigos, Pronomes, Preposições
 
 Índice
 

@@ -1,4 +1,4 @@
-# Tecnologia backend - Especificação JVM.
+# Tecnologia backend - Especificação JVM
 
 A especificação JVM (Java Virtual Machine) é um conjunto de especificações que define a arquitetura e o comportamento da máquina virtual Java. A JVM é a plataforma de execução para aplicativos Java, permitindo que o código Java seja executado em diferentes sistemas operacionais e arquiteturas de hardware.
 

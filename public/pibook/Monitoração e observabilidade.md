@@ -1,4 +1,4 @@
-# Monitoração e observabilidade.
+# Monitoração e observabilidade
 
 Monitoração e observabilidade são duas práticas essenciais para o gerenciamento e a resiliência de aplicações. Elas envolvem a coleta, análise e interpretação de dados relacionados ao desempenho, disponibilidade e funcionamento das aplicações, permitindo uma visibilidade completa do ambiente e a detecção proativa de problemas.
 

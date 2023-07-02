@@ -1,4 +1,4 @@
-# Microsserviços - API gateway.
+# Microsserviços - API gateway
 
 API Gateway é um componente chave na arquitetura de microsserviços que atua como um ponto de entrada único para todas as chamadas de API em um sistema distribuído. Ele é responsável por rotear, proteger, monitorar e controlar o tráfego entre os clientes e os diferentes serviços de microsserviços.
 

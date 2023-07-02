@@ -1,4 +1,4 @@
-# Legislação Geral e Específica - Lei nº 12.965~2014 ( Marco Civil da Internet ).
+# Legislação Geral e Específica - Lei nº 12.965~2014 ( Marco Civil da Internet )
 
 Índice
 

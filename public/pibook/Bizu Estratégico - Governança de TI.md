@@ -1,4 +1,4 @@
-# Bizu Estratégico - Governança de TI.
+# Bizu Estratégico - Governança de TI
 
 Olá, prezado aluno. Tudo certo?
 

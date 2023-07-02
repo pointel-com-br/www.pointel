@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Linguagem R.
+# Desenvolvimento de Informação - Linguagem R
 
 Índice
 

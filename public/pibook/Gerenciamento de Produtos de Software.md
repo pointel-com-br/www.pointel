@@ -1,4 +1,4 @@
-# Gerenciamento de Produtos de Software.
+# Gerenciamento de Produtos de Software
 
 O gerenciamento de produtos de software é um processo que envolve o planejamento, desenvolvimento e lançamento de produtos de software. Envolve a coordenação de várias atividades, desde a definição dos requisitos do produto até o monitoramento de seu desempenho após o lançamento.
 

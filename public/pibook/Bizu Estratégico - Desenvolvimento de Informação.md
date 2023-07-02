@@ -1,4 +1,4 @@
-# Bizu Estratégico - Desenvolvimento de Informação.
+# Bizu Estratégico - Desenvolvimento de Informação
 
 Olá, prezado aluno. Tudo certo?
 

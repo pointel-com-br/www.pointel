@@ -1,4 +1,4 @@
-# Engenharia de Software - Gestão do Código - Controle de Versão - branch.
+# Engenharia de Software - Gestão do Código - Controle de Versão - branch
 
 No contexto da gestão do código e controle de versão, uma branch (ramificação) é uma cópia independente do código-fonte de um repositório. Ela permite que os desenvolvedores trabalhem em diferentes linhas de desenvolvimento simultaneamente, isolando as alterações feitas em uma linha de código específica sem afetar a versão principal ou outras branches.
 

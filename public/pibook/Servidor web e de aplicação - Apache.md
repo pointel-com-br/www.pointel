@@ -1,4 +1,4 @@
-# Servidor web e de aplicação - Apache.
+# Servidor web e de aplicação - Apache
 
 O Apache HTTP Server, comumente conhecido como Apache, é um dos servidores web mais populares e amplamente utilizados no mundo. Ele é um software de código aberto desenvolvido pela Apache Software Foundation e está disponível para várias plataformas, incluindo Windows, Linux, macOS e outros sistemas operacionais. Aqui estão algumas informações importantes sobre o Apache:
 

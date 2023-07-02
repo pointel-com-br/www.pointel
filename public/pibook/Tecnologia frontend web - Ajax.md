@@ -1,4 +1,4 @@
-# Tecnologia frontend web - Ajax.
+# Tecnologia frontend web - Ajax
 
 Ajax (Asynchronous JavaScript and XML) é uma tecnologia que permite realizar chamadas assíncronas a um servidor web para buscar ou enviar dados, sem a necessidade de recarregar toda a página. Com o Ajax, é possível criar aplicações web mais interativas, rápidas e responsivas, proporcionando uma experiência de usuário aprimorada.
 

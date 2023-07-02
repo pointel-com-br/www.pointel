@@ -1,4 +1,4 @@
-# Grandes Volumes de Dados (Big Data).
+# Grandes Volumes de Dados (Big Data)
 
 Grandes volumes de dados, ou Big Data, refere-se ao enorme volume de dados estruturados e não estruturados que são gerados diariamente a partir de várias fontes, como redes sociais, dispositivos móveis, sensores, transações online e muito mais. Esses dados são caracterizados por três principais V's: Volume, Velocidade e Variedade.
 

@@ -1,4 +1,4 @@
-# Resiliência de aplicações - Técnica de Disaster Recovery.
+# Resiliência de aplicações - Técnica de Disaster Recovery
 
 A técnica de Disaster Recovery (Recuperação de Desastres) é uma estratégia utilizada para aumentar a resiliência de aplicações, visando a recuperação rápida e eficiente em casos de desastres ou interrupções graves. O objetivo do Disaster Recovery é minimizar o impacto de eventos catastróficos, como falhas de hardware, desastres naturais, ataques cibernéticos ou qualquer outra situação que possa causar a interrupção dos serviços.
 

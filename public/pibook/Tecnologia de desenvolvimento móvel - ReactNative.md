@@ -1,4 +1,4 @@
-# Tecnologia de desenvolvimento móvel - ReactNative.
+# Tecnologia de desenvolvimento móvel - ReactNative
 
 React Native é uma tecnologia de desenvolvimento móvel criada pelo Facebook que permite construir aplicativos nativos para iOS e Android usando JavaScript e a biblioteca React. Ele oferece uma abordagem única em que o mesmo código pode ser reutilizado em várias plataformas, resultando em um desenvolvimento mais rápido e eficiente.
 

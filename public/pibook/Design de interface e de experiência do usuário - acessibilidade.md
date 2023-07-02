@@ -1,4 +1,4 @@
-# Design de interface e de experiência do usuário - acessibilidade.
+# Design de interface e de experiência do usuário - acessibilidade
 
 A acessibilidade no design de interface e experiência do usuário é um aspecto fundamental para garantir que os produtos digitais sejam utilizáveis por todas as pessoas, incluindo aquelas com deficiências ou limitações físicas, sensoriais ou cognitivas. O objetivo é tornar a interface e a experiência do usuário acessíveis a todos, promovendo a inclusão e a igualdade de oportunidades.
 

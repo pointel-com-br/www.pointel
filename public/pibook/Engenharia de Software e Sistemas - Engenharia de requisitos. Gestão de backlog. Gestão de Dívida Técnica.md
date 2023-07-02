@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Engenharia de requisitos. Gestão de backlog. Gestão de Dívida Técnica.
+# Engenharia de Software e Sistemas - Engenharia de requisitos. Gestão de backlog. Gestão de Dívida Técnica
 
 Índice
 

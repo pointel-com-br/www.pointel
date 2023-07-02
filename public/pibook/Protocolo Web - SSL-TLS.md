@@ -1,4 +1,4 @@
-# Protocolo Web - SSL-TLS.
+# Protocolo Web - SSL-TLS
 
 O SSL (Secure Sockets Layer) e o TLS (Transport Layer Security) são protocolos de segurança que fornecem criptografia e autenticação para proteger a comunicação na Internet. Embora sejam tecnologias diferentes, o TLS é considerado a evolução do SSL e é amplamente usado atualmente.
 

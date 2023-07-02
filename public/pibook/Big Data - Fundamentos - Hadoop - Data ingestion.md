@@ -1,4 +1,4 @@
-# Big Data - Fundamentos - Hadoop - Data ingestion.
+# Big Data - Fundamentos - Hadoop - Data ingestion
 
 Data ingestion é o processo de coleta e importação de dados em um sistema de armazenamento ou processamento, como o Hadoop, a fim de tornar esses dados disponíveis para análise, processamento ou armazenamento futuro.
 

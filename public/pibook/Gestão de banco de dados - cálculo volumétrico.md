@@ -1,4 +1,4 @@
-# Gestão de banco de dados - cálculo volumétrico.
+# Gestão de banco de dados - cálculo volumétrico
 
 O cálculo volumétrico na gestão de banco de dados refere-se ao processo de estimar o tamanho e o crescimento dos dados armazenados em um banco de dados ao longo do tempo. Esse cálculo é importante para o dimensionamento adequado do hardware, planejamento de capacidade, gerenciamento de armazenamento e desempenho do banco de dados. Aqui estão algumas etapas envolvidas no cálculo volumétrico:
 

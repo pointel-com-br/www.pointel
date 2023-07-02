@@ -1,4 +1,4 @@
-# Processamento em lote (batch).
+# Processamento em lote (batch)
 
 O processamento em lote, também conhecido como processamento em lote ou batch processing, refere-se à execução de um conjunto de tarefas ou operações de forma sequencial e em bloco. É um modelo de processamento em que os dados são coletados, processados e armazenados em lotes, em vez de serem processados em tempo real ou de forma interativa.
 

@@ -1,4 +1,4 @@
-# Aprendizado de máquina - Sistemas de recomendação.
+# Aprendizado de máquina - Sistemas de recomendação
 
 Os sistemas de recomendação são uma aplicação comum do aprendizado de máquina que visa fornecer sugestões personalizadas aos usuários com base em seus interesses e preferências. Esses sistemas são amplamente utilizados em plataformas de streaming de música e vídeo, comércio eletrônico, redes sociais e muito mais.
 

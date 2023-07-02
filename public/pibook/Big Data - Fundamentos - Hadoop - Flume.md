@@ -1,4 +1,4 @@
-# Big Data - Fundamentos - Hadoop - Flume.
+# Big Data - Fundamentos - Hadoop - Flume
 
 Flume é uma ferramenta do ecossistema Hadoop projetada para coletar, agrupar e mover grandes volumes de dados em tempo real de forma confiável e escalável. Ela é usada principalmente para ingestão de dados em lote e streaming, permitindo que os dados sejam coletados de várias fontes e enviados para o Hadoop para processamento e análise posterior.
 

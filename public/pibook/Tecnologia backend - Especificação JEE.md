@@ -1,4 +1,4 @@
-# Tecnologia backend - Especificação JEE.
+# Tecnologia backend - Especificação JEE
 
 A especificação JEE (Java Enterprise Edition) é uma plataforma de desenvolvimento para a criação de aplicativos empresariais em Java. Ela fornece um conjunto de APIs e recursos que simplificam o desenvolvimento, implantação e gerenciamento de aplicativos escaláveis e seguros.
 

@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Design de interface. Responsividade, usabilidade e acessibilidade ( Parte 1 ).
+# Engenharia de Software e Sistemas - Design de interface. Responsividade, usabilidade e acessibilidade ( Parte 1 )
 
 Índice
 

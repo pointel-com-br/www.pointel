@@ -1,4 +1,4 @@
-# Ferramentas de gestão de configuração - Git.
+# Ferramentas de gestão de configuração - Git
 
 O Git é uma das ferramentas mais populares e amplamente utilizadas para a gestão de configuração e controle de versão de software. Ele oferece recursos robustos e flexíveis para rastrear, gerenciar e colaborar no desenvolvimento de código-fonte. Aqui estão alguns dos principais recursos e conceitos do Git:
 

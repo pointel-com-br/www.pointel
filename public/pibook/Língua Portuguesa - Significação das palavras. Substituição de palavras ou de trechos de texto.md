@@ -1,4 +1,4 @@
-# Língua Portuguesa - Significação das palavras. Substituição de palavras ou de trechos de texto.
+# Língua Portuguesa - Significação das palavras. Substituição de palavras ou de trechos de texto
 
 Índice
 

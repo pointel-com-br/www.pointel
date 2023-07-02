@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Arquitetura. Padrões de projeto. Padrões GRASP. SOLID.
+# Engenharia de Software e Sistemas - Arquitetura. Padrões de projeto. Padrões GRASP. SOLID
 
 Índice
 

@@ -1,4 +1,4 @@
-# Bizu Estratégico - Raciocínio Lógico.
+# Bizu Estratégico - Raciocínio Lógico
 
 Olá, prezado aluno. Tudo certo?
 

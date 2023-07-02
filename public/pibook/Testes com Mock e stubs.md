@@ -1,4 +1,4 @@
-# Testes com Mock e stubs.
+# Testes com Mock e stubs
 
 Os testes com mocks e stubs são técnicas comuns usadas nos testes de software para isolar componentes e simular comportamentos de dependências externas durante os testes de unidades.
 

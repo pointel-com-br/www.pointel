@@ -1,4 +1,4 @@
-# Ferramenta de mensageria - NATS Streamin.
+# Ferramenta de mensageria - NATS Streamin
 
 O NATS Streaming é uma ferramenta de mensageria de código aberto projetada para oferecer um sistema de streaming de mensagens confiável e escalável. Ela é construída sobre o NATS, um sistema de mensageria leve e de alta performance. Aqui estão algumas informações importantes sobre o NATS Streaming:
 

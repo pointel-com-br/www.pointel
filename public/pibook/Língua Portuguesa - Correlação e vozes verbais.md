@@ -1,4 +1,4 @@
-# Língua Portuguesa - Correlação e vozes verbais.
+# Língua Portuguesa - Correlação e vozes verbais
 
 Índice
 

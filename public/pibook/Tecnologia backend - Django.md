@@ -1,4 +1,4 @@
-# Tecnologia backend - Django.
+# Tecnologia backend - Django
 
 Django é um framework de desenvolvimento web em Python que permite a criação rápida e eficiente de aplicativos web complexos e escaláveis. Ele segue o princípio do "batteries included" (baterias inclusas), o que significa que ele oferece uma ampla gama de recursos e funcionalidades prontos para uso, facilitando o desenvolvimento de aplicativos robustos.
 

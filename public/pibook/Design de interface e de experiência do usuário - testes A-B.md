@@ -1,4 +1,4 @@
-# Design de interface e de experiência do usuário - testes A-B.
+# Design de interface e de experiência do usuário - testes A-B
 
 Os testes A/B são uma prática comum no design de interface e experiência do usuário, onde duas variantes de um elemento ou recurso são comparadas para determinar qual delas resulta em um melhor desempenho ou impacto nos usuários. Essa abordagem baseia-se na divisão de usuários em grupos, onde cada grupo experimenta uma versão diferente da interface, e os resultados são analisados para tomar decisões embasadas em dados.
 

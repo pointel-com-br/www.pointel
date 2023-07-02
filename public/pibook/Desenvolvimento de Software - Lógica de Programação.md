@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Lógica de Programação.
+# Desenvolvimento de Software - Lógica de Programação
 
 Índice
 

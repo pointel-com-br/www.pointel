@@ -1,4 +1,4 @@
-# Tecnologia frontend web - SPA e PWA.
+# Tecnologia frontend web - SPA e PWA
 
 SPA (Single Page Application) e PWA (Progressive Web Application) são duas tecnologias amplamente utilizadas no desenvolvimento frontend web para criar experiências de usuário ricas e interativas. Embora compartilhem algumas semelhanças, elas têm finalidades e características distintas. Vamos explorar cada uma delas:
 

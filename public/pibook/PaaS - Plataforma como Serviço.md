@@ -1,4 +1,4 @@
-# PaaS - Plataforma como Serviço.
+# PaaS - Plataforma como Serviço
 
 PaaS, ou Plataforma como Serviço (Platform as a Service), é um modelo de computação em nuvem que fornece aos desenvolvedores uma plataforma completa para desenvolver, implantar e gerenciar aplicativos sem se preocupar com a complexidade da infraestrutura subjacente. No modelo PaaS, os provedores de nuvem oferecem um conjunto de serviços e ferramentas que permitem aos desenvolvedores criar, testar e implantar aplicativos de forma mais rápida e eficiente.
 

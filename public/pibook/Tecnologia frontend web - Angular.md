@@ -1,4 +1,4 @@
-# Tecnologia frontend web - Angular.
+# Tecnologia frontend web - Angular
 
 Angular é um framework de desenvolvimento frontend para a criação de aplicações web robustas e escaláveis. Desenvolvido pelo Google, ele é baseado em TypeScript e segue a abordagem de desenvolvimento orientado a componentes.
 

@@ -1,4 +1,4 @@
-# Big Data - Pipeline de dados.
+# Big Data - Pipeline de dados
 
 Um pipeline de dados em Big Data refere-se ao conjunto de processos e etapas utilizadas para coletar, processar, transformar e analisar dados em um ambiente de grande escala. Esse pipeline é projetado para lidar com grandes volumes de dados e extrair insights valiosos a partir deles. Aqui estão as principais etapas em um pipeline de dados típico:
 

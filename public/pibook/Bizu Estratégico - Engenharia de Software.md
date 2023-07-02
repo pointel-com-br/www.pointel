@@ -1,4 +1,4 @@
-# Bizu Estratégico - Engenharia de Software.
+# Bizu Estratégico - Engenharia de Software
 
 Olá, prezado aluno. Tudo certo?
 

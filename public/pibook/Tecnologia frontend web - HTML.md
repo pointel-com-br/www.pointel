@@ -1,4 +1,4 @@
-# Tecnologia frontend web - HTML.
+# Tecnologia frontend web - HTML
 
 HTML (Hypertext Markup Language) é uma linguagem de marcação utilizada para estruturar e exibir o conteúdo de uma página web. É a base fundamental de qualquer aplicação web e fornece a estrutura para a criação dos elementos da página, como textos, imagens, links e formulários.
 

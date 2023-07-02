@@ -1,4 +1,4 @@
-# Microsserviços.
+# Microsserviços
 
 Microsserviços é um estilo arquitetural que busca dividir um sistema de software em um conjunto de serviços independentes, cada um executando em seu próprio processo e se comunicando por meio de mecanismos de comunicação leve, como APIs (Application Programming Interfaces). Cada serviço é responsável por uma funcionalidade específica do sistema e pode ser desenvolvido, implantado e escalado de forma independente dos outros serviços.
 

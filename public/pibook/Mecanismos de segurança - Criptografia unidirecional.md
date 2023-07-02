@@ -1,4 +1,4 @@
-# Mecanismos de segurança - Criptografia unidirecional.
+# Mecanismos de segurança - Criptografia unidirecional
 
 A criptografia unidirecional, também conhecida como hash unidirecional ou função hash, é um mecanismo de segurança utilizado para proteger informações, garantindo a integridade dos dados e a autenticação de mensagens, sem a possibilidade de reversão do processo de criptografia.
 

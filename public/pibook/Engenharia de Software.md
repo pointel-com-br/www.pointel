@@ -1,4 +1,4 @@
-# Engenharia de Software.
+# Engenharia de Software
 
 A Engenharia de Software é uma disciplina que se concentra na aplicação de princípios, métodos e práticas para o desenvolvimento de software de alta qualidade. Ela abrange todo o ciclo de vida do software, desde a concepção e requisitos iniciais até a implementação, testes, manutenção e evolução contínua do software. Aqui estão alguns conceitos-chave e práticas relacionadas à Engenharia de Software:
 

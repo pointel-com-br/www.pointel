@@ -1,4 +1,4 @@
-# Resiliência de aplicações - Técnica de Contingência.
+# Resiliência de aplicações - Técnica de Contingência
 
 A técnica de contingência é uma estratégia utilizada para aumentar a resiliência de aplicações, visando a preparação e resposta a situações de contingência ou eventos imprevistos que possam impactar a disponibilidade ou desempenho da aplicação. A ideia principal é ter planos e medidas prévias para lidar com essas situações e garantir que a aplicação continue operando de forma adequada.
 

@@ -1,4 +1,4 @@
-# Garantia da Segurança de Sistemas - Mecanismos de segurança. Criptografia.
+# Garantia da Segurança de Sistemas - Mecanismos de segurança. Criptografia
 
 Índice
 

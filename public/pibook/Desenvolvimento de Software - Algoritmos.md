@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Algoritmos.
+# Desenvolvimento de Software - Algoritmos
 
 Índice
 

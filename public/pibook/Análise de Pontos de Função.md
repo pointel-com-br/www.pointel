@@ -1,4 +1,4 @@
-# Análise de Pontos de Função.
+# Análise de Pontos de Função
 
 A Análise de Pontos de Função (APF) é uma técnica de estimativa utilizada para medir o tamanho funcional de um software com base nas funcionalidades e nos requisitos do sistema. Ela é independente de tecnologia e linguagem de programação, focando na quantificação do valor entregue ao usuário final.
 

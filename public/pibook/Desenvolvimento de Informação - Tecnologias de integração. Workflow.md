@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Tecnologias de integração. Workflow.
+# Desenvolvimento de Informação - Tecnologias de integração. Workflow
 
 Índice
 

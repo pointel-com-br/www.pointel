@@ -1,4 +1,4 @@
-# Linguagem de programação - C#.
+# Linguagem de programação - C#
 
 C# (pronuncia-se "C sharp") é uma linguagem de programação moderna, orientada a objetos e de propósito geral desenvolvida pela Microsoft. Foi lançada em 2000 como parte da plataforma .NET da Microsoft e desde então tem sido amplamente adotada para o desenvolvimento de uma ampla variedade de aplicativos, incluindo aplicativos de desktop, aplicativos web, jogos, aplicativos móveis e serviços em nuvem. Aqui estão algumas informações importantes sobre o C#:
 

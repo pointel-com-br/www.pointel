@@ -1,4 +1,4 @@
-# Análise de dados - Jupiter.
+# Análise de dados - Jupiter
 
 Acredito que você esteja se referindo ao Jupyter Notebook, uma interface interativa baseada em web para desenvolvimento e execução de código Python (e também de outras linguagens de programação). O Jupyter Notebook é amplamente utilizado na análise de dados, pois permite combinar código, visualizações e texto explicativo em um único documento.
 

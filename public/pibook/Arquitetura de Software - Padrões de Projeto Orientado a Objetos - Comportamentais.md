@@ -1,4 +1,4 @@
-# Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Comportamentais.
+# Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Comportamentais
 
 Índice
 

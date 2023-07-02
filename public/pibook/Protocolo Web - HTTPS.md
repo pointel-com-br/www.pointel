@@ -1,4 +1,4 @@
-# Protocolo Web - HTTPS.
+# Protocolo Web - HTTPS
 
 O HTTPS (Hypertext Transfer Protocol Secure) é uma extensão do protocolo HTTP (Hypertext Transfer Protocol) que adiciona uma camada de segurança por meio do uso de criptografia. O HTTPS é usado para proteger a integridade e a confidencialidade dos dados transmitidos entre um cliente e um servidor na Web.
 

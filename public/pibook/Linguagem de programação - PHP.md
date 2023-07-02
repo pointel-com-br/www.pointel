@@ -1,4 +1,4 @@
-# Linguagem de programação - PHP.
+# Linguagem de programação - PHP
 
 PHP (Hypertext Preprocessor) é uma linguagem de programação de código aberto especialmente projetada para o desenvolvimento web. Foi criada por Rasmus Lerdorf em 1994 e é amplamente utilizada para criar sites dinâmicos e aplicativos web. Aqui estão algumas informações importantes sobre o PHP:
 

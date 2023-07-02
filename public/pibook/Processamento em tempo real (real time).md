@@ -1,4 +1,4 @@
-# Processamento em tempo real (real time).
+# Processamento em tempo real (real time)
 
 O processamento em tempo real, também conhecido como processamento em tempo real ou real-time processing, refere-se à execução de tarefas e operações de forma imediata, à medida que os dados são recebidos, sem qualquer atraso perceptível. Diferentemente do processamento em lote, em que as tarefas são agrupadas e processadas posteriormente, o processamento em tempo real envolve a análise e resposta instantâneas aos dados à medida que eles são gerados.
 

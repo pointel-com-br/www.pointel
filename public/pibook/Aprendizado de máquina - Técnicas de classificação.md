@@ -1,4 +1,4 @@
-# Aprendizado de máquina - Técnicas de classificação.
+# Aprendizado de máquina - Técnicas de classificação
 
 No aprendizado de máquina, as técnicas de classificação são usadas para atribuir uma categoria ou classe a um conjunto de dados com base em suas características. A classificação é uma tarefa importante em problemas de aprendizado supervisionado, onde os dados de treinamento estão rotulados com as classes corretas.
 

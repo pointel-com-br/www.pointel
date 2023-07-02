@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Design de Software. DDD - Domain-Driven Design. Clean Code.
+# Desenvolvimento de Software - Design de Software. DDD - Domain-Driven Design. Clean Code
 
 Índice
 

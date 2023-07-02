@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Estrutura de Dados (2).
+# Desenvolvimento de Software - Estrutura de Dados (2)
 
 Índice
 

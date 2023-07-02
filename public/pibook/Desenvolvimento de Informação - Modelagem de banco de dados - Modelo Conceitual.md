@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Modelagem de banco de dados - Modelo Conceitual.
+# Desenvolvimento de Informação - Modelagem de banco de dados - Modelo Conceitual
 
 Índice
 

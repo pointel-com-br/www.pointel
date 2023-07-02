@@ -1,4 +1,4 @@
-# Engenharia de Software - Gestão do Código - Controle de Versão - pipeline CI-CD.
+# Engenharia de Software - Gestão do Código - Controle de Versão - pipeline CI-CD
 
 No contexto da gestão do código e controle de versão, um pipeline de CI/CD (Integração Contínua/Entrega Contínua) é uma prática automatizada que permite a construção, teste e implantação contínuos de um aplicativo ou software. Um pipeline de CI/CD visa facilitar a entrega rápida e confiável de software, garantindo a integração suave das alterações de código e a implantação automatizada em diferentes ambientes.
 

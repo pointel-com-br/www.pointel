@@ -1,4 +1,4 @@
-# Ciência de dados.
+# Ciência de dados
 
 Ciência de dados é uma disciplina multidisciplinar que combina conhecimentos em estatística, programação, matemática e domínio do assunto para extrair insights e conhecimentos de conjuntos de dados complexos. O objetivo da ciência de dados é descobrir padrões, realizar análises e tomar decisões baseadas em dados para resolver problemas do mundo real.
 

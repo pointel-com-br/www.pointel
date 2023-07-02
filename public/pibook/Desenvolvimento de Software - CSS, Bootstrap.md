@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - CSS, Bootstrap.
+# Desenvolvimento de Software - CSS, Bootstrap
 
 Índice
 

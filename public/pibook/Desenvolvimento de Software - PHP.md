@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - PHP.
+# Desenvolvimento de Software - PHP
 
 Índice
 

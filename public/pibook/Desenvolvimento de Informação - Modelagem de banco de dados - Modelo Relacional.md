@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Modelagem de banco de dados - Modelo Relacional.
+# Desenvolvimento de Informação - Modelagem de banco de dados - Modelo Relacional
 
 Índice
 

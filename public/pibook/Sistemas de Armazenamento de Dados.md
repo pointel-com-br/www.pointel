@@ -1,4 +1,4 @@
-# Sistemas de Armazenamento de Dados.
+# Sistemas de Armazenamento de Dados
 
 Existem diversos sistemas de armazenamento de dados disponíveis, cada um com suas características e finalidades específicas. Aqui estão algumas das principais categorias de sistemas de armazenamento de dados:
 

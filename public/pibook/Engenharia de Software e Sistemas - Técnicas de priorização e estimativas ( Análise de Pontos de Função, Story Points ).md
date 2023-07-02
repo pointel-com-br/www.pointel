@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Técnicas de priorização e estimativas ( Análise de Pontos de Função, Story Points ).
+# Engenharia de Software e Sistemas - Técnicas de priorização e estimativas ( Análise de Pontos de Função, Story Points )
 
 Índice
 

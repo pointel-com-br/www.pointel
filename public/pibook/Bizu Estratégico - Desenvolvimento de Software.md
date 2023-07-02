@@ -1,4 +1,4 @@
-# Bizu Estratégico - Desenvolvimento de Software.
+# Bizu Estratégico - Desenvolvimento de Software
 
 Olá, prezado aluno. Tudo certo?
 

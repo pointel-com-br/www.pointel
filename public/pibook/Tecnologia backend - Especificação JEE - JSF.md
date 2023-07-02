@@ -1,4 +1,4 @@
-# Tecnologia backend - Especificação JEE - JSF.
+# Tecnologia backend - Especificação JEE - JSF
 
 A especificação JEE (Java Enterprise Edition) inclui o JSF (JavaServer Faces), que é um framework de desenvolvimento de interfaces web baseado em componentes para a construção de interfaces de usuário em aplicativos Java. O JSF segue o padrão MVC (Model-View-Controller) e simplifica o desenvolvimento de interfaces web ricas e interativas.
 

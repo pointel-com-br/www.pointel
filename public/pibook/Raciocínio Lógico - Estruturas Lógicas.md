@@ -1,4 +1,4 @@
-# Raciocínio Lógico - Estruturas Lógicas.
+# Raciocínio Lógico - Estruturas Lógicas
 
 Índice
 

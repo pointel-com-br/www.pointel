@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Orientação a objetos, Estrutura de dados e Algoritmos.
+# Desenvolvimento de Software - Orientação a objetos, Estrutura de dados e Algoritmos
 
 Desenvolvimento de software é um processo complexo que envolve várias etapas, incluindo a análise de requisitos, o design, a implementação e a manutenção de um sistema. Dentre os conceitos fundamentais nesse campo, destacam-se a orientação a objetos, a estrutura de dados e os algoritmos.
 

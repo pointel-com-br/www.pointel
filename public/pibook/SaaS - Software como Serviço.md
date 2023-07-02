@@ -1,4 +1,4 @@
-# SaaS - Software como Serviço.
+# SaaS - Software como Serviço
 
 SaaS, ou Software como Serviço (Software as a Service), é um modelo de distribuição de software em que os aplicativos são fornecidos aos usuários através da internet como um serviço. No modelo SaaS, os provedores de software hospedam e gerenciam os aplicativos em nuvem, enquanto os usuários acessam e utilizam esses aplicativos através de um navegador da web ou de interfaces específicas.
 

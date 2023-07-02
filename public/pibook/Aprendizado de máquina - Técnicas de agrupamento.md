@@ -1,4 +1,4 @@
-# Aprendizado de máquina - Técnicas de agrupamento.
+# Aprendizado de máquina - Técnicas de agrupamento
 
 No aprendizado de máquina, as técnicas de agrupamento, também conhecidas como clustering, são usadas para identificar grupos ou clusters de dados semelhantes. A ideia é agrupar instâncias de dados que compartilham características semelhantes, com o objetivo de encontrar estruturas e padrões intrínsecos nos dados, mesmo sem conhecimento prévio das classes ou rótulos.
 

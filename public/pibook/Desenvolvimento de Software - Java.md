@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Java.
+# Desenvolvimento de Software - Java
 
 Índice
 

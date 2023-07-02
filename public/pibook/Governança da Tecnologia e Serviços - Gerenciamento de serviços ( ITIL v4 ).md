@@ -1,4 +1,4 @@
-# Governança da Tecnologia e Serviços - Gerenciamento de serviços ( ITIL v4 ).
+# Governança da Tecnologia e Serviços - Gerenciamento de serviços ( ITIL v4 )
 
 Concursos
 

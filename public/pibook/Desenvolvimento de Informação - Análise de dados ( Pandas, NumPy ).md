@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Análise de dados ( Pandas, NumPy ).
+# Desenvolvimento de Informação - Análise de dados ( Pandas, NumPy )
 
 Índice
 

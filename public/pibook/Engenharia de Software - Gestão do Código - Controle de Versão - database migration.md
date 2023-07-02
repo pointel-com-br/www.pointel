@@ -1,4 +1,4 @@
-# Engenharia de Software - Gestão do Código - Controle de Versão - database migration.
+# Engenharia de Software - Gestão do Código - Controle de Versão - database migration
 
 A migração de banco de dados (database migration) é uma prática na gestão do código e controle de versão que se refere à alteração estrutural de um banco de dados de forma controlada e automatizada. Essas alterações podem incluir criação de tabelas, modificação de colunas, adição de índices, entre outros.
 

@@ -1,4 +1,4 @@
-# Gestão de banco de dados - replicação, cluster e particionamento.
+# Gestão de banco de dados - replicação, cluster e particionamento
 
 A gestão de banco de dados envolve várias técnicas e estratégias para melhorar a disponibilidade, desempenho e escalabilidade do sistema. Três dessas estratégias importantes são a replicação, o clustering e o particionamento. Vamos explorar cada uma delas:
 

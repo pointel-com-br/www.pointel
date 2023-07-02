@@ -1,4 +1,4 @@
-# Raciocínio Lógico - Lógica de Argumentação.
+# Raciocínio Lógico - Lógica de Argumentação
 
 Índice
 

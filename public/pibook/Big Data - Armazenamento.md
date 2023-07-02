@@ -1,4 +1,4 @@
-# Big Data - Armazenamento.
+# Big Data - Armazenamento
 
 No contexto de Big Data, o armazenamento desempenha um papel fundamental na capacidade de gerenciar e processar grandes volumes de dados. O armazenamento eficiente e escalável é essencial para lidar com a quantidade crescente de dados gerados diariamente. Aqui estão algumas tecnologias comumente usadas para o armazenamento de Big Data:
 

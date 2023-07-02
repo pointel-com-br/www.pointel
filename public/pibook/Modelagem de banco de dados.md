@@ -1,4 +1,4 @@
-# Modelagem de banco de dados.
+# Modelagem de banco de dados
 
 A modelagem de banco de dados é o processo de projetar a estrutura e o relacionamento dos dados que serão armazenados em um banco de dados. É uma etapa fundamental no desenvolvimento de sistemas de banco de dados, pois define como os dados serão organizados, armazenados e manipulados. Existem dois principais tipos de modelos de banco de dados: o modelo conceitual e o modelo físico.
 

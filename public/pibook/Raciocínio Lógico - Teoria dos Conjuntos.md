@@ -1,4 +1,4 @@
-# Raciocínio Lógico - Teoria dos Conjuntos.
+# Raciocínio Lógico - Teoria dos Conjuntos
 
 Índice
 

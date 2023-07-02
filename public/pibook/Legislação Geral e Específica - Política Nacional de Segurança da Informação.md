@@ -1,4 +1,4 @@
-# Legislação Geral e Específica - Política Nacional de Segurança da Informação.
+# Legislação Geral e Específica - Política Nacional de Segurança da Informação
 
 Índice
 

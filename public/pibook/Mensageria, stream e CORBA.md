@@ -1,4 +1,4 @@
-# Mensageria, stream e CORBA.
+# Mensageria, stream e CORBA
 
 Mensageria, stream e CORBA são tecnologias e padrões relacionados à comunicação entre sistemas distribuídos. Cada um possui características e casos de uso específicos. Vamos abordar cada um deles separadamente:
 

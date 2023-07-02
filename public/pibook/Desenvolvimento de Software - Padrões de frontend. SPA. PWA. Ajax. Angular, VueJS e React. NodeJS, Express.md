@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Padrões de frontend. SPA. PWA. Ajax. Angular, VueJS e React. NodeJS, Express.
+# Desenvolvimento de Software - Padrões de frontend. SPA. PWA. Ajax. Angular, VueJS e React. NodeJS, Express
 
 Índice
 

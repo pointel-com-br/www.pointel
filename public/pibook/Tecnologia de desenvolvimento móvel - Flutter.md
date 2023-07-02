@@ -1,4 +1,4 @@
-# Tecnologia de desenvolvimento móvel - Flutter.
+# Tecnologia de desenvolvimento móvel - Flutter
 
 Flutter é uma tecnologia de desenvolvimento móvel criada pelo Google que permite criar aplicativos nativos de alta qualidade para iOS e Android a partir de uma única base de código. Ele se destaca por oferecer uma abordagem de desenvolvimento rápido, produtivo e com excelente desempenho.
 

@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Arquitetura hexagonal.
+# Engenharia de Software e Sistemas - Arquitetura hexagonal
 
 Índice
 

@@ -1,4 +1,4 @@
-# Linguagens de programação.
+# Linguagens de programação
 
 Existem diversas linguagens de programação disponíveis, cada uma com suas características e finalidades específicas. Aqui estão algumas das linguagens de programação mais populares e amplamente utilizadas:
 

@@ -1,4 +1,4 @@
-# Conceitos de processamento massivo e paralelo.
+# Conceitos de processamento massivo e paralelo
 
 O processamento massivo e paralelo refere-se à capacidade de processar grandes volumes de dados de forma simultânea e distribuída, a fim de obter resultados mais rápidos e eficientes. Esse tipo de processamento é especialmente útil quando lidamos com conjuntos de dados de grande escala, como aqueles encontrados em ambientes de Big Data.
 

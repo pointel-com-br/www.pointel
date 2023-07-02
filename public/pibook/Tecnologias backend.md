@@ -1,4 +1,4 @@
-# Tecnologias backend.
+# Tecnologias backend
 
 As tecnologias backend são responsáveis por processar e gerenciar as funcionalidades e a lógica de negócio de um sistema ou aplicação web. Elas lidam com o armazenamento, recuperação e manipulação de dados, além de fornecer a lógica necessária para suportar as operações do lado do servidor. Aqui estão algumas das principais tecnologias backend:
 

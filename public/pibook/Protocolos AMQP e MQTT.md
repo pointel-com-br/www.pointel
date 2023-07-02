@@ -1,4 +1,4 @@
-# Protocolos AMQP e MQTT.
+# Protocolos AMQP e MQTT
 
 AMQP (Advanced Message Queuing Protocol) e MQTT (Message Queuing Telemetry Transport) são dois protocolos de mensageria amplamente utilizados para comunicação assíncrona entre sistemas distribuídos. Ambos os protocolos são projetados para serem leves e eficientes, mas eles têm diferentes casos de uso e características distintas.
 

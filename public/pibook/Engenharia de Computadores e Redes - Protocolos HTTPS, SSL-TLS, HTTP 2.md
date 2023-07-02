@@ -1,4 +1,4 @@
-# Engenharia de Computadores e Redes - Protocolos HTTPS, SSL-TLS, HTTP 2.
+# Engenharia de Computadores e Redes - Protocolos HTTPS, SSL-TLS, HTTP 2
 
 Índice
 

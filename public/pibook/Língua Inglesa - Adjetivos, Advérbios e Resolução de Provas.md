@@ -1,4 +1,4 @@
-# Língua Inglesa - Adjetivos, Advérbios e Resolução de Provas.
+# Língua Inglesa - Adjetivos, Advérbios e Resolução de Provas
 
 SERPRO - Língua Inglesa - 2023
 

@@ -1,4 +1,4 @@
-# Tecnologia frontend web - padrões de frontend.
+# Tecnologia frontend web - padrões de frontend
 
 Existem diversos padrões e boas práticas utilizados no desenvolvimento frontend para garantir a qualidade, manutenibilidade e escalabilidade das aplicações. Aqui estão alguns dos principais padrões de frontend:
 

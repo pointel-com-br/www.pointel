@@ -1,4 +1,4 @@
-# Banco de dados relacional SqlServer.
+# Banco de dados relacional SqlServer
 
 O Microsoft SQL Server é um sistema de gerenciamento de banco de dados relacional desenvolvido pela Microsoft. Ele é projetado para armazenar, recuperar, manipular e proteger dados em uma ampla variedade de aplicativos. Abaixo estão alguns aspectos importantes do SQL Server:
 

@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Arquitetura de banco de dados relacional - Oracle.
+# Desenvolvimento de Informação - Arquitetura de banco de dados relacional - Oracle
 
 Índice
 

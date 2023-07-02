@@ -1,4 +1,4 @@
-# Linguagem de programação - Python.
+# Linguagem de programação - Python
 
 Python é uma linguagem de programação de alto nível, interpretada e multiparadigma. Desenvolvida por Guido van Rossum e lançada em 1991, Python é conhecida por sua simplicidade, legibilidade e ênfase na produtividade do desenvolvedor. Aqui estão algumas informações importantes sobre Python:
 

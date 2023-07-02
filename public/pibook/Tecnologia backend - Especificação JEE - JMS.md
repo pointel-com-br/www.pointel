@@ -1,4 +1,4 @@
-# Tecnologia backend - Especificação JEE - JMS.
+# Tecnologia backend - Especificação JEE - JMS
 
 A especificação JEE (Java Enterprise Edition) inclui o JMS (Java Message Service), que é uma API para troca assíncrona de mensagens entre diferentes componentes de um aplicativo Java ou entre aplicativos distribuídos. O JMS permite a comunicação confiável e assíncrona por meio do uso de filas e tópicos.
 

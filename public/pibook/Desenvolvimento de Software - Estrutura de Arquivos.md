@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Estrutura de Arquivos.
+# Desenvolvimento de Software - Estrutura de Arquivos
 
 No desenvolvimento de software, a estrutura de arquivos é uma parte essencial para organizar e gerenciar os diferentes elementos relacionados ao projeto. Embora a estrutura possa variar dependendo da tecnologia, linguagem de programação e preferências da equipe, existem alguns elementos comuns que podem ser considerados. Vou descrever uma estrutura básica que pode ser utilizada como ponto de partida:
 

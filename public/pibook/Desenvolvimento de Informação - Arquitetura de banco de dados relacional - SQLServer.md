@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Arquitetura de banco de dados relacional - SQLServer.
+# Desenvolvimento de Informação - Arquitetura de banco de dados relacional - SQLServer
 
 Índice
 

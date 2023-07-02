@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Introdução.
+# Desenvolvimento de Informação - Introdução
 
 Índice
 

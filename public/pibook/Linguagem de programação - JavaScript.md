@@ -1,4 +1,4 @@
-# Linguagem de programação - JavaScript.
+# Linguagem de programação - JavaScript
 
 JavaScript é uma linguagem de programação de alto nível, interpretada e orientada a objetos. Ela é amplamente utilizada para desenvolvimento web, permitindo a criação de interatividade e dinamismo nas páginas da web. Aqui estão algumas informações importantes sobre JavaScript:
 

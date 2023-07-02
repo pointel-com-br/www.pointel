@@ -1,4 +1,4 @@
-# Língua Portuguesa - Classes de palavras - preposição e conjunção.
+# Língua Portuguesa - Classes de palavras - preposição e conjunção
 
 Índice
 

@@ -1,4 +1,4 @@
-# Tecnologia backend - Especificação JEE - JPA.
+# Tecnologia backend - Especificação JEE - JPA
 
 A especificação JEE (Java Enterprise Edition) inclui a Java Persistence API (JPA), que é uma API para mapeamento objeto-relacional em aplicativos Java. A JPA facilita o armazenamento e a recuperação de objetos Java em bancos de dados relacionais de forma transparente, simplificando o acesso e a manipulação dos dados.
 

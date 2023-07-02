@@ -1,4 +1,4 @@
-# Tecnologia backend - .NET Core.
+# Tecnologia backend - .NET Core
 
 .NET Core é um framework de desenvolvimento de software de código aberto, multiplataforma e de alto desempenho, desenvolvido pela Microsoft. Ele permite a criação de aplicativos backend modernos e escaláveis, que podem ser executados em diversos sistemas operacionais, como Windows, Linux e macOS.
 

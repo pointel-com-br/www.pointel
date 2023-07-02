@@ -1,4 +1,4 @@
-# Processamento de Dados.
+# Processamento de Dados
 
 Processamento de dados refere-se ao conjunto de atividades realizadas para manipular, transformar e analisar dados a fim de obter informações valiosas e úteis. Envolve várias etapas, desde a coleta e armazenamento dos dados até a sua análise e interpretação.
 

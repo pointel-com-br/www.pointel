@@ -1,4 +1,4 @@
-# Gestão de banco de dados - esquemas.
+# Gestão de banco de dados - esquemas
 
 Na gestão de banco de dados, um esquema refere-se à estrutura lógica e organização dos dados armazenados no banco de dados. Ele define a maneira como os dados são organizados, os relacionamentos entre as entidades e os atributos que compõem cada entidade. Aqui estão algumas informações importantes relacionadas aos esquemas de banco de dados:
 

@@ -1,4 +1,4 @@
-# Tecnologia backend - Especificação JEE - JTA.
+# Tecnologia backend - Especificação JEE - JTA
 
 A especificação JEE (Java Enterprise Edition) inclui o JTA (Java Transaction API), que é uma API para gerenciamento de transações em aplicativos Java. O JTA permite que os aplicativos definam operações que devem ser executadas em conjunto como uma única unidade lógica, garantindo a atomicidade, consistência, isolamento e durabilidade (ACID) das transações.
 

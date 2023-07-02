@@ -1,4 +1,4 @@
-# Engenharia de Computadores e Redes - Servidores Web.
+# Engenharia de Computadores e Redes - Servidores Web
 
 Índice
 

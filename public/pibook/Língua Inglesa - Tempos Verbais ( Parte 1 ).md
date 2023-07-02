@@ -1,4 +1,4 @@
-# Língua Inglesa - Tempos Verbais ( Parte 1 ).
+# Língua Inglesa - Tempos Verbais ( Parte 1 )
 
 Índice
 

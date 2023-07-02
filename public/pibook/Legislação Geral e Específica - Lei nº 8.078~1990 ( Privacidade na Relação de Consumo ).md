@@ -1,4 +1,4 @@
-# Legislação Geral e Específica - Lei nº 8.078~1990 ( Privacidade na Relação de Consumo ).
+# Legislação Geral e Específica - Lei nº 8.078~1990 ( Privacidade na Relação de Consumo )
 
 Sumário
 

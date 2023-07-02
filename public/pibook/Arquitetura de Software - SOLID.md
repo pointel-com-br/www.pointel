@@ -1,4 +1,4 @@
-# Arquitetura de Software - SOLID.
+# Arquitetura de Software - SOLID
 
 O SOLID é um acrônimo que representa cinco princípios da programação orientada a objetos e design de software. Esses princípios, formulados por Robert C. Martin, são diretrizes para criar sistemas de software flexíveis, extensíveis e de fácil manutenção. Aqui estão os cinco princípios SOLID:
 

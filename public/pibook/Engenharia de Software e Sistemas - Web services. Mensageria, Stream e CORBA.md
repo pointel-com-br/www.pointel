@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Web services. Mensageria, Stream e CORBA.
+# Engenharia de Software e Sistemas - Web services. Mensageria, Stream e CORBA
 
 Índice
 

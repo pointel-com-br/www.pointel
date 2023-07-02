@@ -1,4 +1,4 @@
-# Raciocínio Lógico - Diagramas Lógicos.
+# Raciocínio Lógico - Diagramas Lógicos
 
 Índice
 

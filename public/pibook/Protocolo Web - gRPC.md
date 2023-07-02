@@ -1,4 +1,4 @@
-# Protocolo Web - gRPC.
+# Protocolo Web - gRPC
 
 O gRPC é um protocolo de comunicação de alto desempenho desenvolvido pelo Google. Ele foi projetado para facilitar a comunicação entre serviços distribuídos em um ambiente de computação em escala, usando uma abordagem de chamada remota de procedimento (RPC - Remote Procedure Call).
 

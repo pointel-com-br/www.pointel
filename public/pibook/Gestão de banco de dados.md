@@ -1,4 +1,4 @@
-# Gestão de banco de dados.
+# Gestão de banco de dados
 
 A gestão de banco de dados refere-se às atividades envolvidas no planejamento, organização, implementação, monitoramento e manutenção de um banco de dados. Essas atividades são realizadas para garantir o desempenho, a disponibilidade, a segurança e a integridade dos dados armazenados no banco de dados. Aqui estão algumas áreas principais da gestão de banco de dados:
 

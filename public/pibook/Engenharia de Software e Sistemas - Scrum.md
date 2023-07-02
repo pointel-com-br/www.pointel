@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Scrum.
+# Engenharia de Software e Sistemas - Scrum
 
 Índice
 

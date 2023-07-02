@@ -1,4 +1,4 @@
-# Tecnologias de desenvolvimento móvel.
+# Tecnologias de desenvolvimento móvel
 
 Existem várias tecnologias disponíveis para o desenvolvimento móvel, cada uma com suas próprias características e finalidades. Aqui estão algumas das principais tecnologias de desenvolvimento móvel:
 

@@ -1,4 +1,4 @@
-# Visão computacional.
+# Visão computacional
 
 A visão computacional é um campo da inteligência artificial e processamento de imagens que se concentra na capacidade dos computadores em compreender, analisar e extrair informações de imagens e vídeos. O objetivo da visão computacional é permitir que as máquinas vejam e compreendam o mundo visual de forma semelhante aos seres humanos.
 

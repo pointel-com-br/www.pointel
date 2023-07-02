@@ -1,4 +1,4 @@
-# Protocolos Web.
+# Protocolos Web
 
 Existem vários protocolos relacionados à Web que desempenham papéis fundamentais na comunicação e no funcionamento da Internet. Aqui estão alguns dos principais protocolos web:
 

@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Hadoop e Spark.
+# Desenvolvimento de Informação - Hadoop e Spark
 
 AVISO
 

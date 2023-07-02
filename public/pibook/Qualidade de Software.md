@@ -1,4 +1,4 @@
-# Qualidade de Software.
+# Qualidade de Software
 
 A qualidade de software refere-se à capacidade de um sistema de software atender às expectativas e necessidades dos usuários, bem como satisfazer os requisitos especificados. É uma medida da excelência do software em termos de desempenho, confiabilidade, usabilidade, segurança, manutenibilidade e outras características relevantes.
 

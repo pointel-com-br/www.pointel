@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - SpringBoot.
+# Desenvolvimento de Software - SpringBoot
 
 Índice
 

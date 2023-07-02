@@ -1,4 +1,4 @@
-# Língua Portuguesa - Concordância verbal e nominal.
+# Língua Portuguesa - Concordância verbal e nominal
 
 Índice
 

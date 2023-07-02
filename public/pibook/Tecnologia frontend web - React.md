@@ -1,4 +1,4 @@
-# Tecnologia frontend web - React.
+# Tecnologia frontend web - React
 
 React é uma biblioteca JavaScript de código aberto utilizada para construir interfaces de usuário interativas e reativas. Desenvolvida pelo Facebook, o React se concentra em componentes reutilizáveis e no gerenciamento eficiente do estado da aplicação.
 

@@ -1,4 +1,4 @@
-# Design de interface e de experiência do usuário - usabilidade.
+# Design de interface e de experiência do usuário - usabilidade
 
 Usabilidade é um elemento fundamental no design de interface e experiência do usuário. Refere-se à facilidade com que os usuários podem interagir com um produto digital e realizar suas tarefas de forma eficiente, eficaz e satisfatória. Um design com boa usabilidade ajuda os usuários a alcançarem seus objetivos de maneira intuitiva e sem frustrações desnecessárias. Aqui estão alguns princípios e práticas para melhorar a usabilidade de uma interface:
 

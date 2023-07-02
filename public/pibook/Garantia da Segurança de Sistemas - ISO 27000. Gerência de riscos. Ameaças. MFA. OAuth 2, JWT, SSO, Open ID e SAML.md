@@ -1,4 +1,4 @@
-# Garantia da Segurança de Sistemas - ISO 27000. Gerência de riscos. Ameaças. MFA. OAuth 2, JWT, SSO, Open ID e SAML.
+# Garantia da Segurança de Sistemas - ISO 27000. Gerência de riscos. Ameaças. MFA. OAuth 2, JWT, SSO, Open ID e SAML
 
 Índice
 

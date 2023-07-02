@@ -1,4 +1,4 @@
-# Servidores web e de aplicação.
+# Servidores web e de aplicação
 
 Servidores web e de aplicação são componentes essenciais da infraestrutura de TI para hospedar e fornecer serviços baseados na web. Eles desempenham funções distintas e trabalham juntos para entregar conteúdo e executar aplicativos da web. Vamos explorar cada um deles:
 

@@ -1,4 +1,4 @@
-# Ferramentas de mensageria.
+# Ferramentas de mensageria
 
 Existem várias ferramentas de mensageria disponíveis para facilitar a implementação de sistemas de mensagens assíncronas. Essas ferramentas fornecem recursos e funcionalidades para ajudar no envio, recebimento e processamento de mensagens entre aplicativos e sistemas distribuídos. Aqui estão algumas das principais ferramentas de mensageria:
 

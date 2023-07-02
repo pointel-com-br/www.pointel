@@ -1,4 +1,4 @@
-# Big Data - Fundamentos.
+# Big Data - Fundamentos
 
 Big Data refere-se a conjuntos de dados extremamente grandes e complexos, que excedem a capacidade das ferramentas tradicionais de processamento e análise de dados. O termo "Big Data" não se refere apenas ao tamanho dos dados, mas também à variedade, velocidade e veracidade dos mesmos.
 

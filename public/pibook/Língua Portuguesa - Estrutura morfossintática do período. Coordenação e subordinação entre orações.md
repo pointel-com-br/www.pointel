@@ -1,4 +1,4 @@
-# Língua Portuguesa - Estrutura morfossintática do período. Coordenação e subordinação entre orações.
+# Língua Portuguesa - Estrutura morfossintática do período. Coordenação e subordinação entre orações
 
 Índice
 

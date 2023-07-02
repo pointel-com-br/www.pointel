@@ -1,4 +1,4 @@
-# Língua Portuguesa - Estrutura morfossintática - termos da oração.
+# Língua Portuguesa - Estrutura morfossintática - termos da oração
 
 Índice
 

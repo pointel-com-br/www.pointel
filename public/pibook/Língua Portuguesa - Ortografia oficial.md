@@ -1,4 +1,4 @@
-# Língua Portuguesa - Ortografia oficial.
+# Língua Portuguesa - Ortografia oficial
 
 Índice
 

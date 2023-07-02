@@ -1,4 +1,4 @@
-# Protocolo Web - HTTP.
+# Protocolo Web - HTTP
 
 O HTTP (Hypertext Transfer Protocol) é o protocolo fundamental da Web e é amplamente utilizado para comunicação entre um cliente (geralmente um navegador da web) e um servidor. O HTTP foi projetado para permitir a transferência de recursos, como documentos HTML, imagens, arquivos, entre outros, por meio da Internet.
 

@@ -1,4 +1,4 @@
-# Aplicações em Nuvem - 12 factories.
+# Aplicações em Nuvem - 12 factories
 
 A arquitetura de 12 factories, também conhecida como "The Twelve-Factor App", é um conjunto de práticas e princípios para desenvolver aplicações em nuvem que são escaláveis, flexíveis e fáceis de manter. Essa abordagem foi definida por Adam Wiggins e descreve um conjunto de boas práticas que podem ser aplicadas ao desenvolvimento de software para ambientes em nuvem. Aqui estão os 12 fatores principais:
 

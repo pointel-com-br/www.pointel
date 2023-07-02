@@ -1,4 +1,4 @@
-# Resiliência de aplicações.
+# Resiliência de aplicações
 
 A resiliência de aplicações é a capacidade de uma aplicação de se manter operacional mesmo diante de falhas ou interrupções em sua infraestrutura ou serviços subjacentes. Trata-se de um princípio importante no desenvolvimento de sistemas que visa garantir a disponibilidade, a confiabilidade e o desempenho adequado das aplicações, mesmo em situações adversas.
 

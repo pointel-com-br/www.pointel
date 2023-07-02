@@ -1,4 +1,4 @@
-# Raciocínio Lógico - Associações Lógicas.
+# Raciocínio Lógico - Associações Lógicas
 
 Índice
 

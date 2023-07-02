@@ -1,4 +1,4 @@
-# Língua Portuguesa - Classes de palavras - verbos. Emprego de tempos e modos verbais.
+# Língua Portuguesa - Classes de palavras - verbos. Emprego de tempos e modos verbais
 
 Índice
 

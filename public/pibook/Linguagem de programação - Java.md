@@ -1,4 +1,4 @@
-# Linguagem de programação - Java.
+# Linguagem de programação - Java
 
 Java é uma linguagem de programação orientada a objetos, desenvolvida pela Sun Microsystems (adquirida pela Oracle) e lançada em 1995. Desde então, tornou-se uma das linguagens mais populares e amplamente utilizadas no desenvolvimento de aplicativos empresariais, sistemas embarcados, aplicativos móveis e muito mais. Aqui estão algumas informações importantes sobre Java:
 

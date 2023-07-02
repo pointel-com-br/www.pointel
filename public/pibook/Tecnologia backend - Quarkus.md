@@ -1,4 +1,4 @@
-# Tecnologia backend - Quarkus.
+# Tecnologia backend - Quarkus
 
 Quarkus é um framework de desenvolvimento de aplicativos Java nativo da nuvem. Ele foi projetado para otimizar o desenvolvimento de aplicativos Java para a nuvem, fornecendo alta velocidade de inicialização, baixo consumo de memória e suporte nativo para contêineres.
 

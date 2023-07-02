@@ -1,4 +1,4 @@
-# Língua Inglesa - Verbos Frasais, Auxiliares.
+# Língua Inglesa - Verbos Frasais, Auxiliares
 
 Índice
 

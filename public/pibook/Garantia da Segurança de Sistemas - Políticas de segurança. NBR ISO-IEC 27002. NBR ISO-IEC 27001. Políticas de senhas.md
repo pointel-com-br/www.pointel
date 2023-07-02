@@ -1,4 +1,4 @@
-# Garantia da Segurança de Sistemas - Políticas de segurança. NBR ISO-IEC 27002. NBR ISO-IEC 27001. Políticas de senhas.
+# Garantia da Segurança de Sistemas - Políticas de segurança. NBR ISO-IEC 27002. NBR ISO-IEC 27001. Políticas de senhas
 
 Índice
 

@@ -1,4 +1,4 @@
-# Língua Portuguesa - Classes de palavras - substantivo, adjetivo, advérbios, artigo, numeral, interjeição.
+# Língua Portuguesa - Classes de palavras - substantivo, adjetivo, advérbios, artigo, numeral, interjeição
 
 Índice
 

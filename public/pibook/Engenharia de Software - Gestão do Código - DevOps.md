@@ -1,4 +1,4 @@
-# Engenharia de Software - Gestão do Código - DevOps.
+# Engenharia de Software - Gestão do Código - DevOps
 
 A gestão do código é uma parte fundamental do DevOps, uma abordagem que combina práticas de desenvolvimento de software (Dev) e operações de infraestrutura de TI (Ops) para melhorar a colaboração, a entrega contínua e a qualidade do software. No contexto do DevOps, a gestão do código desempenha um papel crucial na automação e na integração contínua, permitindo uma entrega rápida e confiável de software. Aqui estão alguns conceitos e práticas relacionados à gestão do código no contexto do DevOps:
 

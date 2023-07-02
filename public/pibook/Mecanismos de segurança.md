@@ -1,4 +1,4 @@
-# Mecanismos de segurança.
+# Mecanismos de segurança
 
 Existem vários mecanismos de segurança que são amplamente utilizados para proteger sistemas, redes e dados contra ameaças e ataques. Aqui estão alguns dos principais mecanismos de segurança:
 

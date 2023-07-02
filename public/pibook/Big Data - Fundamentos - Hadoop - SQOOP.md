@@ -1,4 +1,4 @@
-# Big Data - Fundamentos - Hadoop - SQOOP.
+# Big Data - Fundamentos - Hadoop - SQOOP
 
 O Apache Sqoop é uma ferramenta do ecossistema Hadoop projetada para transferir dados entre bancos de dados relacionais e o Hadoop. Ele fornece uma maneira eficiente de importar e exportar dados em massa entre esses dois ambientes, permitindo que você mova dados estruturados de bancos de dados relacionais para o Hadoop para análise e processamento.
 

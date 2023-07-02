@@ -1,4 +1,4 @@
-# Tecnologia de desenvolvimento móvel - IOS (Swift).
+# Tecnologia de desenvolvimento móvel - IOS (Swift)
 
 A tecnologia de desenvolvimento móvel para iOS com a linguagem Swift é amplamente utilizada para criar aplicativos nativos para dispositivos Apple, como iPhones, iPads e iPods. O Swift foi desenvolvido pela Apple como uma linguagem moderna, segura e de alto desempenho, projetada especificamente para o ecossistema iOS.
 

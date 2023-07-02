@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Desenvolvimento móvel - Android ( Kotlin ). IOS ( Swift ). Flutter. ReactNative. Ionic.
+# Desenvolvimento de Software - Desenvolvimento móvel - Android ( Kotlin ). IOS ( Swift ). Flutter. ReactNative. Ionic
 
 Índice
 

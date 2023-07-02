@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Python, Flask, Django.
+# Desenvolvimento de Software - Python, Flask, Django
 
 Índice
 

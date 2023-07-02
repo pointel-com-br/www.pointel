@@ -1,4 +1,4 @@
-# Arquitetura de Software - Padrões GRASP.
+# Arquitetura de Software - Padrões GRASP
 
 Os Padrões GRASP (General Responsibility Assignment Software Patterns) são um conjunto de diretrizes para atribuir responsabilidades a classes e objetos em um sistema de software. Eles fornecem princípios orientadores para ajudar os arquitetos de software a tomar decisões de design relacionadas à alocação de responsabilidades. Aqui estão alguns exemplos dos padrões GRASP mais comuns:
 

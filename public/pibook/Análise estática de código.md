@@ -1,4 +1,4 @@
-# Análise estática de código.
+# Análise estática de código
 
 A análise estática de código é uma técnica utilizada na engenharia de software para verificar e avaliar o código fonte de um programa sem a necessidade de sua execução. Ela analisa o código em busca de possíveis problemas, erros, violações de boas práticas, vulnerabilidades de segurança e outras questões que podem afetar a qualidade e o desempenho do software.
 

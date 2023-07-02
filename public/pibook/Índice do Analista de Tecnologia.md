@@ -1,4 +1,4 @@
-# Índice do Analista de Tecnologia.
+# Índice do Analista de Tecnologia
 
 Classe. Conhecimentos Básicos.
 

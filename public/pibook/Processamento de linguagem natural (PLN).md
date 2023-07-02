@@ -1,4 +1,4 @@
-# Processamento de linguagem natural (PLN).
+# Processamento de linguagem natural (PLN)
 
 Processamento de Linguagem Natural (PLN), também conhecido como Natural Language Processing (NLP) em inglês, é uma área da Inteligência Artificial (IA) que se concentra na interação entre computadores e linguagem humana. O objetivo do PLN é permitir que os computadores compreendam, interpretem e gerem texto e fala da mesma forma que os seres humanos.
 

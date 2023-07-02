@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Álgebra relacional, SQL~ANSI e linguagens procedurais.
+# Desenvolvimento de Informação - Álgebra relacional, SQL~ANSI e linguagens procedurais
 
 Índice
 

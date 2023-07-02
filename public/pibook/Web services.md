@@ -1,4 +1,4 @@
-# Web services.
+# Web services
 
 Web services são sistemas de software que permitem a comunicação e interação entre diferentes aplicativos e sistemas distribuídos por meio da Internet. Eles são baseados em padrões e protocolos abertos, como HTTP, XML e SOAP, para permitir a troca de dados e a execução de operações entre sistemas heterogêneos.
 

@@ -1,4 +1,4 @@
-# Tecnologias frontend web.
+# Tecnologias frontend web
 
 Existem várias tecnologias usadas no desenvolvimento de aplicações frontend web. Aqui estão algumas das principais tecnologias utilizadas:
 

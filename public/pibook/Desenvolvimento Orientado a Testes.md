@@ -1,4 +1,4 @@
-# Desenvolvimento Orientado a Testes.
+# Desenvolvimento Orientado a Testes
 
 O Desenvolvimento Orientado a Testes (Test-Driven Development - TDD) é uma abordagem de desenvolvimento de software que coloca os testes no centro do processo de desenvolvimento. A ideia principal do TDD é escrever os testes antes de escrever o código de produção.
 

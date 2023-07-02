@@ -1,4 +1,4 @@
-# Tecnologia de desenvolvimento móvel - Banco de Dados SQLite.
+# Tecnologia de desenvolvimento móvel - Banco de Dados SQLite
 
 SQLite é uma tecnologia de banco de dados incorporado e sem servidor, projetado para ser rápido, leve e fácil de usar. É uma escolha comum para o desenvolvimento de aplicativos móveis, incluindo aplicativos para Android e iOS. Aqui estão algumas características e benefícios do uso do SQLite no desenvolvimento móvel:
 

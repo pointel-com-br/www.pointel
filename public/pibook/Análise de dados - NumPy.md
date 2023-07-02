@@ -1,4 +1,4 @@
-# Análise de dados - NumPy.
+# Análise de dados - NumPy
 
 O NumPy (Numerical Python) é uma biblioteca de computação numérica em Python que fornece suporte para manipulação eficiente de arrays multidimensionais e funções matemáticas de alto desempenho. É uma das principais bibliotecas utilizadas para análise de dados e científica em Python.
 

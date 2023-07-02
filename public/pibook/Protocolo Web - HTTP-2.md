@@ -1,4 +1,4 @@
-# Protocolo Web - HTTP-2.
+# Protocolo Web - HTTP-2
 
 O HTTP/2 é uma versão atualizada e aprimorada do protocolo HTTP (Hypertext Transfer Protocol), que é amplamente utilizado na Web para comunicação entre um cliente (geralmente um navegador) e um servidor. O HTTP/2 foi lançado em 2015 como uma evolução do HTTP/1.1, com o objetivo de melhorar o desempenho, eficiência e segurança das comunicações web.
 

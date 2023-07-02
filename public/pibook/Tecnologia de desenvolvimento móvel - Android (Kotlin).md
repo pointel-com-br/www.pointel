@@ -1,4 +1,4 @@
-# Tecnologia de desenvolvimento móvel - Android (Kotlin).
+# Tecnologia de desenvolvimento móvel - Android (Kotlin)
 
 A tecnologia de desenvolvimento móvel Android com a linguagem Kotlin tem ganhado popularidade nos últimos anos. Kotlin é uma linguagem de programação moderna e concisa que foi adotada oficialmente pelo Google como a linguagem preferida para o desenvolvimento de aplicativos Android.
 

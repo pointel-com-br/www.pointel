@@ -1,4 +1,4 @@
-# Garantia da Segurança de Sistemas - Controle de acesso. Assinatura e Certificação digital.
+# Garantia da Segurança de Sistemas - Controle de acesso. Assinatura e Certificação digital
 
 Índice
 

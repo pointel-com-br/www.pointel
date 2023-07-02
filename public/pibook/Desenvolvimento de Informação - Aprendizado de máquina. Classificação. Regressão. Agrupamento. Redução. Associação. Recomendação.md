@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Aprendizado de máquina. Classificação. Regressão. Agrupamento. Redução. Associação. Recomendação.
+# Desenvolvimento de Informação - Aprendizado de máquina. Classificação. Regressão. Agrupamento. Redução. Associação. Recomendação
 
 Índice
 

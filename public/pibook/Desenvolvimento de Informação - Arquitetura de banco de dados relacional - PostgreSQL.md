@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Arquitetura de banco de dados relacional - PostgreSQL.
+# Desenvolvimento de Informação - Arquitetura de banco de dados relacional - PostgreSQL
 
 Índice
 

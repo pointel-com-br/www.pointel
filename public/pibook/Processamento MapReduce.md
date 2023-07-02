@@ -1,4 +1,4 @@
-# Processamento MapReduce.
+# Processamento MapReduce
 
 O processamento MapReduce é um modelo de programação e processamento distribuído que permite processar grandes volumes de dados de forma escalável e eficiente. Ele foi popularizado pelo framework Apache Hadoop e é amplamente utilizado em ambientes de Big Data.
 

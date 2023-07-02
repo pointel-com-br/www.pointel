@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Ciência de dados. Big Data. Processamento distribuído. Data lake.
+# Desenvolvimento de Informação - Ciência de dados. Big Data. Processamento distribuído. Data lake
 
 Índice
 

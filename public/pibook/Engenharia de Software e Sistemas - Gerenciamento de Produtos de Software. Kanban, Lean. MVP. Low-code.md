@@ -1,4 +1,4 @@
-# Engenharia de Software e Sistemas - Gerenciamento de Produtos de Software. Kanban, Lean. MVP. Low-code.
+# Engenharia de Software e Sistemas - Gerenciamento de Produtos de Software. Kanban, Lean. MVP. Low-code
 
 Índice
 

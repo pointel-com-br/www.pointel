@@ -1,4 +1,4 @@
-# Desenvolvimento de Informação - Visão computacional. Deep learning.
+# Desenvolvimento de Informação - Visão computacional. Deep learning
 
 Índice
 

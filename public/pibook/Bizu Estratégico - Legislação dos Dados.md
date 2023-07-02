@@ -1,4 +1,4 @@
-# Bizu Estratégico - Legislação dos Dados.
+# Bizu Estratégico - Legislação dos Dados
 
 Legislação Acerca Da Privacidade De Proteção De Dados
 

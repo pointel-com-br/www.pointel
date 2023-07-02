@@ -1,4 +1,4 @@
-# Língua Portuguesa - Classes de palavras - pronomes. Colocação dos pronomes átonos.
+# Língua Portuguesa - Classes de palavras - pronomes. Colocação dos pronomes átonos
 
 Índice
 

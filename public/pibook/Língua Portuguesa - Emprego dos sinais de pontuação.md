@@ -1,4 +1,4 @@
-# Língua Portuguesa - Emprego dos sinais de pontuação.
+# Língua Portuguesa - Emprego dos sinais de pontuação
 
 Índice
 

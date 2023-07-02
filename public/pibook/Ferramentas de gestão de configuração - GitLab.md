@@ -1,4 +1,4 @@
-# Ferramentas de gestão de configuração - GitLab.
+# Ferramentas de gestão de configuração - GitLab
 
 O GitLab é uma plataforma de desenvolvimento de software baseada em Git, que oferece um conjunto abrangente de ferramentas para a gestão de configuração, controle de versão e colaboração em projetos. Além das funcionalidades básicas do Git, o GitLab fornece recursos adicionais que facilitam o processo de desenvolvimento. Aqui estão alguns dos recursos-chave do GitLab:
 

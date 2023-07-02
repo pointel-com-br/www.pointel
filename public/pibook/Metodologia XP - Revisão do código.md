@@ -1,4 +1,4 @@
-# Metodologia XP - Revisão do código.
+# Metodologia XP - Revisão do código
 
 Na metodologia de desenvolvimento de software Extreme Programming (XP), a revisão do código desempenha um papel fundamental na garantia da qualidade do código e na colaboração efetiva da equipe. A revisão do código é uma prática contínua e colaborativa, realizada entre os membros da equipe de desenvolvimento, com o objetivo de identificar e corrigir problemas no código.
 

@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - HTML.
+# Desenvolvimento de Software - HTML
 
 Índice
 

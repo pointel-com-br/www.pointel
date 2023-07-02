@@ -1,4 +1,4 @@
-# Gestão de configuração.
+# Gestão de configuração
 
 A gestão de configuração é uma disciplina da engenharia de software que se concentra no controle e gerenciamento de todas as configurações do sistema de software ao longo de seu ciclo de vida. Envolve a identificação, organização, controle, registro e rastreamento das configurações do software e seus artefatos relacionados, garantindo que eles estejam corretos, completos e consistentes.
 

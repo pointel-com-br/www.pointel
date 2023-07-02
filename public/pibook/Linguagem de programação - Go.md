@@ -1,4 +1,4 @@
-# Linguagem de programação - Go.
+# Linguagem de programação - Go
 
 Go, também conhecida como Golang, é uma linguagem de programação de código aberto desenvolvida pelo Google. Lançada em 2009, Go foi projetada para ser eficiente, simples, concorrente e escalável. Aqui estão algumas informações importantes sobre a linguagem Go:
 

@@ -1,4 +1,4 @@
-# Tecnologia backend - NestJS.
+# Tecnologia backend - NestJS
 
 NestJS é um framework de desenvolvimento backend em Node.js que combina conceitos do Angular com a simplicidade e flexibilidade do Node.js. Ele fornece uma arquitetura escalável e modular para a construção de aplicativos server-side em JavaScript ou TypeScript.
 

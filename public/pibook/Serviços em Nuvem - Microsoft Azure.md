@@ -1,4 +1,4 @@
-# Serviços em Nuvem - Microsoft Azure.
+# Serviços em Nuvem - Microsoft Azure
 
 A Microsoft Azure oferece uma ampla gama de serviços em nuvem que abrangem várias áreas, como computação, armazenamento, rede, banco de dados, análise de dados, inteligência artificial, Internet das Coisas (IoT), segurança e muito mais. Aqui estão alguns dos principais serviços em nuvem oferecidos pela Microsoft Azure:
 

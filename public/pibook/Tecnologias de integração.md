@@ -1,4 +1,4 @@
-# Tecnologias de integração.
+# Tecnologias de integração
 
 Existem várias tecnologias e padrões amplamente utilizados para facilitar a integração entre sistemas e aplicativos. Algumas das principais tecnologias de integração incluem:
 

@@ -1,4 +1,4 @@
-# Manual de Medição Funcional de Software.
+# Manual de Medição Funcional de Software
 
 1. Introdução
 
