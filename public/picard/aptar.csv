@@ -31,7 +31,7 @@ GS,"O que é o ataque de Defacement (Desfiguração) ?","É adulterar uma págin
 GS,"O que é o Phising?","Clonar uma página a fim de obtenção de informações privadas."
 GS,"Qual a diferença do Spear Phishing para o Phishing?","É o Phishing feito com uma vítima / público específicos."
 DS,"No CSS como se seleciona os elementos filhos? (Child Selector)","Com o operador > \n  \n div > p { \n  \s  \s color: yellow; \n }"
-DS,"No CSS como se seleciona os elementos descendentes? \n (Descendant Selector)","Com um espaço. \n div p { \n   color: yellow; \n }"
+DS,"No CSS como se seleciona os elementos descendentes? \n (Descendant Selector)","Com um espaço. \n  \n div p { \n  \s  \s color: yellow; \n }"
 DS,"No CSS como se seleciona o primeiro elemento irmão? (Adjacent Sibling Selector)","Com o operador + \n  \n div + p { \n  \s  \s color: yellow; \n }"
 DS,"No CSS como se seleciona todos os elementos irmãos? \n (General Sibling Selector)","Com o operador ~ \n  \n div ~ p { \n   color: yellow; \n }"
 DS,"Como se usa o seletor do CSS que usa os atributos?","tag[attr=igual]  ou  tag[attr^=começam]  ou  tag[attr$=terminam]"
@@ -79,9 +79,9 @@ ER,"Qual um exemplo de serviço que a Microsoft fornece como SaaS?","Office 365.
 GS,"O que caracteriza um serviço de CaaS?","É caracterizado por prover infraestrutura para comunicação em nuvem, como VoIP, videoconferência, mensagens instantâneas, etc."
 GT,"Qual um exemplo de serivço que a Amazon fornece como CaaS?","Amazon Chime."
 GT,"Qual um exemplo de serviço que o Google fornece como CaaS?","Google Hangouts."
-GS,"Qual um exemplo de serviço que a Microsoft fornece como CaaS","Skype for Business."
+GT,"Qual um exemplo de serviço que a Microsoft fornece como CaaS?","Skype for Business."
 GS,"O que caracteriza um serviço de DaaS?","É caracterizado por prover infraestrutura para armazenamento de dados em nuvem."
-GT,"Qual um exemplo de serivço que a Amazon fornece como DaaS?","Amazon S3."
+GT,"Qual um exemplo de serviço que a Amazon fornece como DaaS?","Amazon S3."
 GT,"Qual um exemplo de serviço que o Google fornece como DaaS?","Google Cloud Storage."
 GT,"Qual um exemplo de serviço que a Microsoft fornece como DaaS?","Azure Storage."
 GS,"O que caracteriza um serviço de NaaS?","É caracterizado por prover infraestrutura para rede em nuvem."
@@ -91,14 +91,14 @@ GS,"Qual um exemplo de serviço que a Microsoft fornece como NaaS","Azure Virtua
 GS,"O que caracteriza um serviço de FaaS?","É caracterizado por prover computação em nuvem que permite carregar funções individuais de software em um ambiente de nuvem gerenciado. Possibilitando executar e escalar automaticamente um serviço sem a necessidade de provisionar ou gerenciar servidores."
 GT,"Qual um exemplo de serivço que a Amazon fornece como FaaS?","AWS Lambda."
 GT,"Qual um exemplo de serviço que o Google fornece como FaaS?","Google Cloud Functions."
-GS,"Qual um exemplo de serviço que a Microsoft fornece como FaaS","Azure Functions"
+GT,"Qual um exemplo de serviço que a Microsoft fornece como FaaS?","Azure Functions."
 GS,"O que caracteriza um serviço de XaaS?","É caracterizado por prover qualquer serviço como um serviço em nuvem."
 DS,"Como se faz para declarar uma variável global em Python?","global myvar"
 DS,"O que é o Bounded Context no DDD (Domain Driven Design)?","É um limite lógico em torno de um conjunto de objetos que é usado principalmente para definir o escopo de um determinado modelo. O contexto delimitado é a fronteira dentro da qual um modelo específico é aplicado e tem significado."
-DS,"O que é o Ubiquitous Language?","É uma linguagem comum entre desenvolvedores e usuários."
+ES,"O que é o Ubiquitous Language no DDD (Domain Driven Design)?","É uma linguagem comum entre desenvolvedores e usuários."
 DS,"O que é o Domain Model no DDD (Domain Driven Design)?","É um modelo de domínio que descreve as entidades e os relacionamentos envolvidos em um domínio de negócios, independentemente de um banco de dados específico ou de um esquema de design."
 ES,"O que é o Value Object no DDD (Domain Driven Design)?","É um objeto que descreve alguma característica de uma entidade."
-DS,"O que é o Entity?","É um objeto que possui identidade e que é distinto de todos os outros objetos."
+ES,"O que é o Entity no DDD (Domain Driven Design)?","É um objeto que possui identidade e que é distinto de todos os outros objetos."
 ES,"O que é o Aggregate no DDD (Domain Driven Design)?","É um conjunto de objetos que são tratados como uma unidade. Sendo a classe raiz a única responsável por acessar as filhas. Ajuda a manter a consistência e a integridade do domínio."
 ES,"O que é o Repository no DDD (Domain Driven Design)?","É um objeto que encapsula a lógica de acesso, recuperação e armazenamento de dados."
 DS,"O que é um Service no DDD (Domain Driven Design)?","É um objeto que encapsula uma lógica de negócio que não se encaixa em uma entidade ou objeto de valor."
@@ -107,7 +107,7 @@ ES,"O que é o Application Service no DDD (Domain Driven Design)?","É um objeto
 DS,"O que é o Domain Service?","É um objeto que encapsula a lógica de domínio."
 ES,"O que é o Domain Event no DDD (Domain Driven Design)?","É um objeto que encapsula um evento de domínio."
 DS,"O que é o Domain Exception?","É um objeto que encapsula uma exceção de domínio."
-DS,"O que é o Domain Notification?","É um objeto que encapsula uma notificação de domínio."
+ES,"O que é o Domain Notification no DDD (Domain Drive Design)?","É um objeto que encapsula uma notificação de domínio."
 DS,"O que é o Domain Query no DDD (Domain Driven Design)?","É um objeto que encapsula uma consulta de domínio."
 ES,"Qual arquitetura de desenvolvimento se utiliza muito de Bounded Context?",Micro-serviços
 ES,"Qual a função da ACL (Anti Corruption Layer) no DDD (Domain Driven Desogn)?","É uma camada que encapsula a lógica de tradução entre dois contextos delimitados."
@@ -149,7 +149,7 @@ ES,"Segundo o clean code o que deveríamos fazer com uma condição com múltipl
 ES,"Segundo o clean code, ao invés de if's aninhados deveríamos preferir ___.",Polimorfismo.
 ES,"O que diz o open-closed principle do SOLID?","Uma classe deve estar fechada para mudança e aberta para extensão."
 ES,"O que significa DRY em engenharia de software?","Don't repeat yourself."
-ES,"O Scrum é muito baseado no?",Empirismo.
+ES,"O Scrum é muito baseado no ___?",Empirismo.
 ES,"O Scrum é o XP atuam respectivamente em?","Gestão de produtos e engenharia de software."
 LP,"Em qual tempo ficam os verbos impessoais?","Sempre na terceira pessoa do singular."
 LP,"Quando o verbo haver é impessoal?","Com sentido de existir, ocorrer ou tempo decorrido."
@@ -176,7 +176,7 @@ DI,O que é o teorema CAP?,"O teorema CAP diz que num banco de dado
 DI,"Como é a operação de convolução numa CNN?","É uma operação de filtragem que reduz uma seção de 32x32x3 para uma de 28x28x1."
 ER,"Como se faz uma configuração por diretório no Apache?","Com os arquivos .htaccess e .htpasswd"
 ER,"Como faz para renomear o .htaccess no Apache?","Com a diretiva AccessFileName."
-DS,"Qual a principal função do JWT?","Garante a integridade e o não repúdio através de uma assinatura que pode ser com HMAC, RDA ou ECDSA."
+DS,"Qual a principal função do JWT?","Garante a integridade e o não repúdio através de uma assinatura que pode ser com HMAC, RSA ou ECDSA."
 DS,"Qual a estrutura de um JWT?","1) Header - contém o tipo do token e o algoritmo de assinatura. \n 2) Payload - contém os claims, ou seja, as informações a respeito do usuário. \n 3) Signature - assinatura utilizada para verificar a mensagem."
 DS,"Quais são os tipos de claims que carrega o payload do JWT?","1) registered / reserved - claims pré-definidas não obrigatórias mas recomendadas. \n 2) public - customizadas \n 3) private - específicas de uma organização"
 DS,"Como é a estrutura de um JWT?","As três partes são formadas por json e codificas em base 64 e agrupadas por um ponto divisor."
@@ -223,7 +223,7 @@ ER,"Quais os estados de uma conexão WebSocket?","0 - Conexão estabelecida. \n 
 ER,"Quais as vantagens do WebSocket?","* Tempo real. \n * Protocolo próprio em cima do HTTP através do header upgrade. \n * Full duplex. Sentido duplo ou bidirecional simultâneo."
 ER,"Quais são os eventos de um WebSocket?","on open, on message, on error, on close"
 ER,"Quais os métodos de um WebSocket?","send, close"
-ES,"Quais são os 12 fatores das aplicações em micro-serviços?","1) Codebase. 2) Dependencies. 3)Configs. 4) Backing services. 5) Build, release, run. 6) Processes. 7) Port binding. 8) Concurrency. 9) Disposability. 10) Dev/prod parity. 11) Logs. 12) Admin processes."
+ES,"Quais são os 12 fatores das aplicações em microsserviços?","1) Codebase. 2) Dependencies. 3)Configs. 4) Backing services. 5) Build, release, run. 6) Processes. 7) Port binding. 8) Concurrency. 9) Disposability. 10) Dev/prod parity. 11) Logs. 12) Admin processes."
 ES,"O que orienta o fator 1, Codebase, dos 12 fatores dos micro-serviços?","One codebase tracked in revision control, many deploys. There is only one codebase per app, but there will be many deploys of the app."
 ES,"O que orienta o fator 2, Dependencies, dos 12 fatores dos micro-serviços?","Explicitly declare and isolate dependencies. Never relies on implicit existence of system-wide packages. It declares all dependencies, completely and exactly, via a dependency declaration manifest."
 ES,"O que orienta o fator 3, Configs, dos 12 fatores dos micro-serviços?","Store config in the environment. Apps sometimes store config as constants in the code. This is a violation of twelve-factor, which requires strict separation of config from code. Config varies substantially across deploys, code does not."
@@ -240,10 +240,10 @@ ES,"Qual a diferença entre polimorfismo estático e dinâmico?","No estático a
 GS,"Quais os passos na comunicação com o protocolo SSL/TLS?","1. Handshake protocol \n  \s  \s  \s  \s * Negotiate TLS protocol version \n  \s  \s  \s  \s * Select cryptographic algorithms: cipher suites \n  \s  \s  \s  \s * Authenticate by asymmetric cryptography \n  \s  \s  \s  \s * Establish a secret key for symmetric encryption \n  \n 2. Record protocol \n  \s  \s  \s  \s * Encrypt outgoing messages with the secret key \n  \s  \s  \s  \s * Transmit the encrypted messages \n  \s  \s  \s  \s * Descrypt incoming messages with the secret key \n  \s  \s  \s  \s * Verify that the message are not modified"
 DI,"O que é um Data Warehouse (DW)?","É um armazém de dados, onde todos os dados ficam organizados por categorias, tornando o DW um banco de dados relacional, capaz de guardar dados estruturados. São bastante utilizadas em Business Inteligência (BI). No DW os dados não podem ser modificados, isso assegura confiabilidade ao sistema, além da integridade do conteúdo armazenado."
 ES,"Esse padrão separa a construção de um objeto complexo da sua representação, de forma que o mesmo processo de construção possa criar diferentes tipos de representações.",BUILDER
-ES,"Esse padrão fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.",ABSTRACT FACTORY
+ES,"Esse padrão fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.","ABSTRACT FACTORY"
 ES,"Esse padrão especifica os tipos de objetos para criar usando uma instância como protótipo e cria novos objetos copiando este protótipo.",PROTOTYPE
 ES,"Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de acesso global a ela.",SINGLETON
-ES,"Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.",FACTORY METHOD
+ES,"Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.","FACTORY METHOD"
 ES,"Esse padrão converte a interface de uma classe em outra interface que normalmente não poderiam trabalhar juntas por serem incompatíveis.",ADAPTER
 ES,"Esse padrão desacopla uma interface de sua implementação, de forma que ambas possam variar independentemente.",BRIDGE
 ES,"Esse padrão compõe objetos em estruturas de árvore para representar hierarquias parte-todo, permitindo aos clientes tratarem objetos individuais e composições de objetos uniformemente.",COMPOSITE
@@ -251,7 +251,7 @@ ES,"Esse padrão anexa responsabilidades adicionais a um objeto dinamicamente. F
 ES,"Esse padrão oferece uma interface unificada para um conjunto de interfaces em um subsistema, definindo uma interface de alto nível que facilita a utilização do subsistema.",FAÇADE
 ES,"Esse padrão utiliza compartilhamento para suportar eficientemente grandes quantidades de objetos de baixa granularidade.",FLYWEIGHT
 ES,"Esse padrão provê um substituto ou ponto através do qual um objeto pode controlar o acesso a outro objeto.",PROXY
-ES,"Esse padrão evita o acoplamento do remetente de uma requisição ao seu receptor ao dar a mais de um objeto a chance de lidar com a requisição.",CHAIN OF RESONSABILITY
+ES,"Esse padrão evita o acoplamento do remetente de uma requisição ao seu receptor ao dar a mais de um objeto a chance de lidar com a requisição.","CHAIN OF RESONSABILITY"
 ES,"Esse padrão encapsula a requisição de um objeto, portanto permitindo que se parametrize os clientes com diferentes requisições.",COMMAND
 ES,"Esse padrão fornece uma maneira de acessar elementos de um objeto agregado sequencialmente sem expor sua representação interna.",ITERATOR
 ES,"Esse padrão define um objeto que encapsula a forma como um conjunto de objetos interagem, promovendo um fraco acoplamento ao evitar que objetos se refiram aos outros explicitamente.",MEDIATOR
@@ -261,5 +261,99 @@ ES,"Esse padrão permite a um objeto alterar o seu comportamento quando o seu es
 ES,"Esse padrão define uma família de algoritmos, encapsula cada um e faz deles intercambiáveis.",STRATEGY
 ES,"Esse padrão representa uma operação a ser realizada sobre elementos de uma estrutura de objetos e permite definir uma operação sem mudar as classes dos elementos sobre os quais opera.",VISITOR
 ES,"Esse padrão, dada uma linguagem, define uma representação para sua gramática em conjunto com um interpretador que utiliza a representação para interpretar sentenças na linguagem.",INTERPRETER
-ES,"Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixando alguns passos a serem preenchidos pelas subclasses.",TEMPlATE METHOD
-ES,"Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.",FACTORY METHOD
+ES,"Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixando alguns passos a serem preenchidos pelas subclasses.","TEMPlATE METHOD"
+ES,"Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.","FACTORY METHOD"
+DS,"Rest é um protocolo?","Não, é um estilo."
+DS,"O que foi incluído no JAX-RS 2.0?","A especificação do cliente."
+DS,"Qual o keyword em TypeScript que define a função de instanciação de uma nova classe?",constructor
+GS,"Como funciona o controle de acesso MAC (Mandatory Access Control)?","o administrador do sistema é responsável por atribuir as devidas permissões para os usuários."
+GS,"Como funciona o controle de acesso DAC (Discritionary Access Control)?","O próprio usuário define as regras de acesso dos recursos que ele é dono."
+GS,"Como funciona o controle de acesso RBAC (Role-Based Access Control)?","O administrador visa garantir privilégios de acordo com a função exercida pelo usuário."
+GT,"Quais são os principais serviços por categoria?","1) Computação e Processamento \n 2) Banco de Dados \n 3) Rede e Entrega de Conteúdo \n 4) Segurança e Gerenciamento de Identidades \n 5) Aplicativos e Serviços \n 6) Desenvolvimento, CI/CD e DevOps \n 7) Orquestração de contêiners \n 8) Armazenamento de Arquivos \n 9) Análise de Dados \n 10) Aprendizado de Máquina"
+LP,"Posso retirar a crase anterior ao pronome possessivo?","Pode sim porque ela é facultativa."
+DI,"Como se representa no digrama IDEF1X a cardinalidade mínima de 0 e máxima de 1?","Uma bolinha vazada e um traço formando uma cruz na linha do relacionamento."
+DI,"Como se representa no digrama IDEF1X a cardinalidade mínima de 1 e máxima de 1?","Com dois traços formando duas cruzes na linha que representa o relacionamento."
+DI,"Como se representa no digrama IDEF1X a cardinalidade mínima de 0 e máxima de n?","Uma bolinha vazada e um pé de galinha na linha do relacionamento."
+DI,"Como se representa no digrama IDEF1X a cardinalidade mínima de 1 e máxima de n?","Com um traço formando uma cruz e um pé de galinha na linha do relacionamento."
+DI,"O que significa no modelo IDEF1X os cantos da entidade serem retos?","Que é uma entidade independente ao contrário dos cantos curvos que significa que a entidade é dependente."
+DI,"No diagrama IDEF1X qual o símbolo que indica uma herança total?","São dois traços não cruzados mais uma bolinha vazada na linha do relacionamento."
+DI,"No diagrama IDEF1X como eu defino um relacionamento de zero pra muitos?","Com a linha do relacionamento sem nada no um e com uma bolinha preenchida no muitos sem o P e Z."
+DI,"No diagrama IDEF1X como eu defino um relacionamento de zero pra um?","Com a linha do relacionamento sem nada no um e com uma bolinha preenchida no muitos com o Z."
+DI,"No diagrama IDEF1X como eu defino um relacionamento de um pra muitos?","Com a linha do relacionamento sem nada no um e com uma bolinha preenchida no muitos com o P."
+DI,"Qual diagrama é produzido no projeto lógico de banco de dados?","O diagrama Modelo Relacional."
+DI,"Qual diagrama é produzido no projeto conceitual de banco de dados?","O diagrama Modelo Entidade-Relacionamento."
+GS,"O algoritmo de criptografia RSA é simétrico ou assimétrico?",Assimétrico.
+GS,"O algoritmo de criptografia AES é simétrico ou assimétrico?",Simétrico.
+GS,"Qual o tamanho de chave máximo do algoritmo de criptografia RSA?","Máximo de 2.048 bites."
+GS,"Qual o tamanho de chave máximo do algoritmo de criptografia AES?","Máximo de 256 bites."
+ES,"Qual a diferença entre escalabilidade forte e fraca de processamento paralelo?","Na escalabilidade forte o tamanho do conjunto dos dados processados é dividido na fraca não é."
+LE,"Segundo a LGPD o usuário pode dar um consentimento genérico?",Não.
+LP,"Quais as funções que o 'SE' pode assumir na Língua Portuguesa?","1) Conjunção \n 2) Reflexivo \n 3) Parte integrante do verbo \n 4) Índice de indeterminação do sujeito"
+DS,"Como se chama o passo de organizar os elementos menores a esquerda e os maiores a direita do pivô no QuickSort?",Partição.
+DI,"Quais as operações que não são comutativas na álgebra relacional dos bancos de dados?","Projeção e Diferença."
+DI,"Quais as relações que são unárias na álgebra relacional dos bancos de dados?","Seleção e Projeção."
+DI,"Quais as operações na álgebra relacional dos bancos de dados?","1) Seleção \n 2) Projeção \n 3) Produto \n 4) Junção \n 5) União \n 6) Intersecção \n 7) Diferença"
+DI,"O que é necessário na primeira forma normal dos bancos de dados?","Eliminar atributos não atómicos."
+DI,"O que é necessário na segunda forma normal dos bancos de dados?","Eliminar dependências funcionais não plenas."
+DI,"O que é necessário na terceira forma normal dos bancos de dados?","Eliminar dependências transitivas."
+DI,"O que é necessário na forma normal FNBC dos bancos de dados?","Eliminar dependência funcional cujo determinante não é chave candidata."
+DI,"O que é necessário na quarta forma normal dos bancos de dados?","Eliminar dependência multi valorada."
+DI,"O que é necessário na quinta forma normal dos bancos de dados?","Encontrar e eliminar a dependência de junção."
+DS,"Qual a diferença do 'is' para o '==' no Python?"," \" is \"  é usado para verificar se dois objetos têm a mesma identidade, ou seja, se referem exatamente ao mesmo objeto na memória. Ele compara os endereços de memória dos objetos.  \" == \"  é usado para verificar a igualdade de valor entre dois objetos. Ele compara o conteúdo dos objetos, independentemente da identidade na memória."
+ES,"Quais os padrões de projeto comportamentais na orientação a objetos?","1. Chain Of Resonsability. \n 2. Command. \n 3. Iterator. \n 4. Mediator. \n 5. Memento. \n 6. Observer. \n 7. State. \n 8. Strategy. \n 9. Visitor. \n 10. Interpreter. \n 11. Template Method."
+ES,"Quais os padrões de projeto estruturais na orientação a objetos?","1. Adapter. \n 2. Bridge. \n 3. Composite. \n 4. Decorator. \n 5. Façade. \n 6. Flyweight. \n 7. Proxy."
+ES,"Quais os padrões de projeto criacionais na orientação a objetos?","1. Builder \n 2. Abstract Factory \n 3. Prototype \n 4. Singleton \n 5. Factory Method"
+DI,"A chave estrangeira existe no modelo Entidade-Relacionamento de banco de dados?",Não.
+DI,"Qual o símbolo que representa uma herança no modelo Entidade-Relacionamento de banco de dados?","Um triângulo."
+ES,"Quais são os quatro tipos de requisitos voláteis?","Mutáveis - se modificam por causa do ambiente do sistema. \n Emergentes - surgem a medida que a compreensão do cliente aumenta. \n Consequentes - resultam da introdução do sistema no ambiente do usuário. \n Compatibilidade - se modificam conforme uma dependência de outro equipamento ou processo se modifica."
+LP,"Como se classifica a tipologia textual?","Narração - sequência cronológica - pretérito perfeito e presente (histórico) \n  \n Descrição - simultaneidade no tempo - pretérito imperfeito e presente \n  \n Dissertação - abstrações, conceitos - expositiva (fatos) ou argumentativa (fatos com opinião)"
+LP,"A definição pertence a qual modo textual?",Descrição.
+LP,"Qual ato linguístico pode se confundir mas não é uma definição?","Qualificar e Exemplificar."
+GS,"Quais os princípios propostos por Shannon para criptografia?","Difusão - Buscar tornar o relacionamento estatístico entre o texto claro e o texto cifrado o mais complexo possível. \n  \n Confusão - Buscar tornar o relacionamento entre o texto cifrado e a chave de criptografia o mais complexo possível."
+DS,"Quais são os algoritmos de ordenação estáveis?","1) BubbleSort \n 2) InsertionSort \n 3) MergeSort"
+DS,"Quais são os algoritmos de ordenação instáveis?","1) SelectionSort \n 2) QuickSort \n 3) HeapSort \n 4) ShellSort"
+DI,"No Hadoop o que faz o HDFS?","Sistema de arquivo com alta taxa de transferência."
+DI,"No Hadoop o que faz o YARN?","Agendamento de tarefas e gerenciamento de recursos do cluster."
+DI,"No Hadoop o que faz o MapReduce?","Processamento paralelo."
+DI,"No Hadoop o que faz o Ozone?","Armazenamento de objetos."
+DI,"No Hadoop o que faz o Submarine?","Mecanismo de aprendizado de máquina."
+DI,"No Hadoop o que faz o Ambari?","Provisiona, gerencia e monitora."
+DI,"No Hadoop o que faz o Avro?","Serialização de dados."
+DI,"No Hadoop o que faz o Cassandra?","Um banco de dados multi mestre sem ponto único de falha."
+DI,"No Hadoop o que faz o Chukwa?","Coleta de dados."
+DI,"No Hadoop o que faz o HBase?","Banco de dados distrubuído, escalável para grandes tabelas."
+DI,"No Hadoop o que faz o Hive?","É um DataWare com resumo e consultas ad-hoc."
+DI,"No Hadoop o que faz o Mahout?","Bibliotecas de Machine Learn e Data Mining."
+DI,"No Hadoop o que faz o Pig?","Scripts para computação paralela."
+DI,"No Hadoop o que faz o Spark?","Operações contextuais sobre abstrações de conjuntos de objetos distribuídos conhecido como RDD (Resilient Distributed Datasets)"
+DI,"No Hadoop o que faz o Tez?","Ordena as tarefas por meio de processamentos complexos sobre grafos acíclicos dirigidos ou DAG (Acyclic Directed Graphs)."
+DI,"No Hadoop o que faz o ZooKeeper?","Coordenação de alto desempenho."
+LE,"Como faço pra saber se um termo é expletivo na oração?","Tenta retirar ele e verificar se o sentido é mantido."
+DI,"O que uma tabela de banco de dados precisa para estar na primeira forma normal?","Possui chave primária; \n Não possui grupos repetitivos; \n Todos os seus atributos são atômicos;"
+DI,"O que uma tabela de banco de dados precisa para estar na segunda forma normal?","Está na primeira forma normal; \n Não possui dependências parciais da chave primária;"
+DI,"O que uma tabela de banco de dados precisa para estar na terceira forma normal?","Está na segunda forma normal; \n Se nenhum dos campos foram determinados transitivamente pela chave primária;"
+LP,"Quando a conjunção'se' pode ser trocada por isto então ela será uma conjunção de que tipo?",Integrante.
+LP,"Quando a conjunção 'se' puder ser trocada por 'já que' ela será que tipo de conjunção?",Causal.
+LP,"A conjunção 'se' só será condicional se tiver que tipo de valor semântico?",Hipótese.
+LP,"Qual a tipologia do texto que é um guia com instruções?",Injuntiva.
+LP,"O que pode ser o 'se' antes de um verbo sem sujeito?","1) Partícula apassivadora - quando o verbo é trânsito direto.  \n  \n 2) Índice de indeterminação do sujeito - quando o verbo é transitivo indireto."
+LP,"O que devemos fazer primeiro na hora de analisar a função sintática dos elementos de uma oração?","Primeiro devemos nos perguntar o que ou o quem realiza a ação do verbo para identificar o sujeito."
+LP,"Você pode colocar uma vírgula entre o sujeito e o objeto?",Nunca.
+LP,"O que eu devo fazer primeiro caso a questão me pergunte se é possível colocar uma vírgula?","Verificar se ela não vai separar ou o sujeito do verbo ou o verbo do seu complemento."
+LP,"Após identificar qual é o sujeito da oração o que devemos identificar depois?","Devemos perguntar o que ou o do que é realizado pela ação do verbo para identificar o complemento verbal."
+LP,"Quando temos preposição mais um verbo no infinitivo devemos usar a próclise ou a ênclise?","Tanto faz, é um caso facultativo de próclise."
+LP,"Podemos colocar crase antes de artigo indefinido?",Não.
+LP,"Quando a conjunção se será causal?","Quando puder ser substituída por caso."
+LP,"Como podemos reescrever se você quer ir vai?","Já que você quer ir vai."
+DI,"Na hora de reescrever uma frase em proposições lógicas, o que é essencial fazer?","Verificar quantas orações atômicas tem na frase."
+RA,"Quando uma proposição lógica é uma contradição?","Quando independente dos valores das proposições a proposição composta será sempre falsa."
+RA,"Quando a utilizar o método do Absurdo nós provamos que uma proposição composta não é uma contradição?","Quando encontramos pelo menos um caso que atribuindo valores válidos as proposições simples chegamos ao valor verdadeiro para a proposição composta."
+RA,"Quando ao utilizar o método do Absurdo nós provamos que uma proposição composta é de fato uma contradição?","Quando para chegar a um valor verdadeiro para proposição composta necessariamente temos que atribuir em pelo menos uma das proposições simples um valor inválido."
+LE,"Pela lgpd quando que um dado é considerado pessoal e sensível?","Quando ele for racial ou religioso, sexual ou de saúde, político ou filosófico."
+ER,"Qual o arquivo de configuração que controla o acesso no servidor web Apache?",access.conf.
+ER,"Qual o arquivo de configuração usado pelo Nginx?",nginx.conf.
+ER,"Qual o arquivo de log do Apache que registra os dados de todas as solicitações processadas pelo servidor?","access.log ou access_log no Windows."
+ER,"No que é baseada a arquitetura do Ngnix?","Baseada em eventos."
+ER,"No que é baseada a arquitetura do servidor web Apache?","Baseada em processos."
+LP,"Qual a diferença entre objeto indireto e o adjunto adverbial com preposição?","O adjunto adverbial é um termo acessório da oração que fornece uma circunstância da ação do verbo mas não é necessário para definir o sentido da ação realizada pelo ranner já o objeto indireto é necessário para definir o sentido."
+DS,"Quais os estados da conexão de um WebSocket?","Connecting. Estado 0. A conexão ainda não está aberta. \n  \n Open. Estado 1. A conexão está aberta e pronta para se comunicar. \n  \n Closing. Estado 2. A conexão está em processo de fechamento. \n  \n Closed. Estado 3. A conexão está fechada ou não foi possível abrir."
