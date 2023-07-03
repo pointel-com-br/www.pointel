@@ -139,10 +139,7 @@ nginx -g "pid /var/run/nginx.pid; worker_processes `sysctl -n hw.ncpu`;"
 
 -s signal — enviar um sinal para o processo mestre. O sinal do argumento pode ser um dos seguintes:
 
-stop - desligar rapidamente
-quit - desligar graciosamente
-reload — recarregar a configuração, iniciar o novo processo de trabalho com uma nova configuração, encerrar processos de trabalho antigos com elegância.
-
+stop - desligar rapidamente quit - desligar graciosamente reload — recarregar a configuração, iniciar o novo processo de trabalho com uma nova configuração, encerrar processos de trabalho antigos com elegância.
 reopen — reabrir arquivos de log
 
 -t — teste o arquivo de configuração: o nginx verifica a configuração quanto à sintaxe correta e, em seguida, tenta abrir os arquivos referidos na configuração.

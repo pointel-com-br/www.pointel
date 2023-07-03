@@ -132,49 +132,26 @@ Comandos GIT
 
 Pessoal, os comandos, com toda certeza, são os mais cobrados em provas! Portanto, tenha atenção redobrada!
 
-Criar novo repositório
-git init
-
-Verificar estado dos arquivos/diretórios
-git status
-
+Criar novo repositório git init
+Verificar estado dos arquivos/diretórios git status
 Adicionar um arquivo em específico (staged area)
 
 git add meu_arquivo.txt
 
-Adicionar um diretório em específico
-git add meu_diretorio
-
-Adicionar todos os arquivos/diretórios
-git add .
-
+Adicionar um diretório em específico git add meu_diretorio
+Adicionar todos os arquivos/diretórios git add .
 Adicionar um arquivo que esta listado no
 .gitignore (geral ou do repositório)
 
 git add - f arquivo_no_gitignore.txt
 
-Comitar um arquivo
-git commit meu_arquivo.txt
-
-Comitar vários arquivos
-git commit meu_arquivo.txt meu_outro_arquivo.txt
-
-Comitar informando mensagem
-git commit meuarquivo.txt - m " minha mensagem de commit "
-
-Remover arquivo
-git rm meu_arquivo.txt
-
-Remover diretório
-git rm - r diretorio
-
-Exibir histórico
-git log
-
-Exibir histórico com diff das duas últimas
-alterações
-git log - p - 2
-
+Comitar um arquivo git commit meu_arquivo.txt
+Comitar vários arquivos git commit meu_arquivo.txt meu_outro_arquivo.txt
+Comitar informando mensagem git commit meuarquivo.txt - m " minha mensagem de commit "
+Remover arquivo git rm meu_arquivo.txt
+Remover diretório git rm - r diretorio
+Exibir histórico git log
+Exibir histórico com diff das duas últimas alterações git log - p - 2
 Exibir resumo do histórico (hash completa, autor, data, comentário e quantidade de alterações ( + / - ))
 
 git log -- stat
@@ -197,19 +174,10 @@ git log -- pretty = format : " % h - % a n , % a r : % s "
 
 % s: Comentário.
 
-Exibir histório de um arquivo específico
-git log -- <caminho_do_arquivo>
-
-Exibir histórico de um arquivo específico
-que contêm uma determinada palavra
-git log -- summary - S <palavra> [ <caminho_do_arquivo> ]
-
-Exibir histórico modificação de um arquivo
-git log -- diff-filter = M -- <caminho_do_arquivo>
-
-Exibir revisão e autor da última modificação de uma bloco de linhas
-git blame - L 12 , 22 meu_arquivo.txt
-
+Exibir histório de um arquivo específico git log -- <caminho_do_arquivo>
+Exibir histórico de um arquivo específico que contêm uma determinada palavra git log -- summary - S <palavra> [ <caminho_do_arquivo> ]
+Exibir histórico modificação de um arquivo git log -- diff-filter = M -- <caminho_do_arquivo>
+Exibir revisão e autor da última modificação de uma bloco de linhas git blame - L 12 , 22 meu_arquivo.txt
 Desfazendo alteração local (working directory)
 
 git checkout -- meu_arquivo.txt
@@ -218,47 +186,17 @@ Desfazendo alteração local (staging area)
 
 git reset HEAD meu_arquivo.txt
 
-Exibir os repositórios remotos
-git remote
-git remote - v
-
-Vincular repositório local com um repositório remoto
-git remote add origin git @ github . com : usuario / repositorio
-
-Exibir informações dos repositórios remotos
-git remote show origin
-
-Renomear um repositório remoto
-git remote rename origin curso-git
-
-Desvincular um repositório remoto
-git remote rm curso-git
-
-Enviar arquivos/diretórios para o repositório remoto
-git push - u origin master
-
-Listar configurações
-git config -- list
-
-Setar usuário
-git config -- global user . name "nome"
-
-Setar editor
-git config -- global core . editor vim
-
-Setar ferramenta de merge
-git config -- global merge . tool vimdiff
-
-Atualizar os arquivos no branch atual
-git pull
-
-Buscar as alterações, mas não aplica-las no
-branch atual
-git fetch
-
-Clonar um repositório remoto já existente
-git clone git @ <caminho_do_arquivo>
-
-Usa busca binária para encontrar o commit
-que introduziu um bug
-git-bisect
+Exibir os repositórios remotos git remote git remote - v
+Vincular repositório local com um repositório remoto git remote add origin git @ github . com : usuario / repositorio
+Exibir informações dos repositórios remotos git remote show origin
+Renomear um repositório remoto git remote rename origin curso-git
+Desvincular um repositório remoto git remote rm curso-git
+Enviar arquivos/diretórios para o repositório remoto git push - u origin master
+Listar configurações git config -- list
+Setar usuário git config -- global user . name "nome"
+Setar editor git config -- global core . editor vim
+Setar ferramenta de merge git config -- global merge . tool vimdiff
+Atualizar os arquivos no branch atual git pull
+Buscar as alterações, mas não aplica-las no branch atual git fetch
+Clonar um repositório remoto já existente git clone git @ <caminho_do_arquivo>
+Usa busca binária para encontrar o commit que introduziu um bug git-bisect

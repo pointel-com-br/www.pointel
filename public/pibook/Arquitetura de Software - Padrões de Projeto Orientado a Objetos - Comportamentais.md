@@ -66,9 +66,7 @@ Ele captura o que estava escrito e mostra ao usuário, mas sem acesso direto ao 
 
 Observer
 
-Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um objeto
-mudar de estado, os seus dependentes sejam notificados e atualizados automaticamente.
-Esse padrão de projeto deve ser utilizado quando uma mudança em um objeto requisitar mudanças em outros objetos e não se souber quantos objetos necessitam ser modificados. Ele também é utilizado quando uma abstração possuir dois aspectos, sendo um dependente do outro. Além disso, sua utilização é recomendada quando um objeto for capaz de notificar outros sem assumir quem são. Certinho?
+Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um objeto mudar de estado, os seus dependentes sejam notificados e atualizados automaticamente.Esse padrão de projeto deve ser utilizado quando uma mudança em um objeto requisitar mudanças em outros objetos e não se souber quantos objetos necessitam ser modificados. Ele também é utilizado quando uma abstração possuir dois aspectos, sendo um dependente do outro. Além disso, sua utilização é recomendada quando um objeto for capaz de notificar outros sem assumir quem são. Certinho?
 Considerem a hipótese de uma tabela de classificação do campeonato brasileiro com um gráfico de pizza informando vitórias, empates e derrotas de um determinado time, assim como um gráfico com a variação de posição do time do campeonato. Aí chega o domingão, ocorrem 10 jogos e o estagiário altera a tabela com os novos dados. E agora? Tem que atualizar os gráficos um a um? Os gráficos ficarão desatualizados? Não haverá nem uma notificação de novos dados?
 Ele cria uma dependência dos gráficos em relação à tabela de modo que, quando a tabela muda de estado, os gráficos são atualizados automaticamente.
 

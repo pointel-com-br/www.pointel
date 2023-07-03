@@ -1,4 +1,4 @@
-Capítulo. Probabilidade e Estatística - Distribuições Aleatórias de Probabilidade.
+# Probabilidade e Estatística - Distribuições Aleatórias de Probabilidade
 
 SERPRO - Estatística e Probabilidade -
 
@@ -10,10 +10,6 @@ Equipe Exatas Estratégia
 
 Concursos
 
-
-
-
-
 Índice
 
 1) Distribuição Normal
@@ -24,63 +20,33 @@ Concursos
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
 DISTRIBUIçÃo NoRMAL
 
-A distribuição normal, também chamada de gaussiana, é uma das distribuições contínuas
-mais importantes!
-A função densidade de probabilidade (f.d.p.) dessa distribuição é dada por:
+A distribuição normal, também chamada de gaussiana, é uma das distribuições contínuas mais importantes!A função densidade de probabilidade (f.d.p.) dessa distribuição é dada por:
 
 f{x) = —e 2{ cr ) t X E (—00,00)
 
-Essa f.d.p. é bastante complicada, não é? Mas não se preocupe! Você não vai precisar integrar ou
-derivar!
-
+Essa f.d.p. é bastante complicada, não é? Mas não se preocupe! Você não vai precisar integrar ou derivar!
 Observe que essa função depende apenas dos parâmetros /i (média) e c2 (variância),
-que são parâmetros
-
-independentes.
-
-No gráfico abaixo, temos uma f.d.p. com distribuição normal. Observe que a curva
-apresenta um formato de
-
-sino, que é uma característica de todas as variáveis normais.
-
+que são parâmetros independentes.
+No gráfico abaixo, temos uma f.d.p. com distribuição normal. Observe que a curva apresenta um formato de sino, que é uma característica de todas as variáveis normais.
 As distribuições normais são simétricas, ou seja, tem-se:
 
 Média = Mediana = Moda
 
-Logo, o valor de /i divide a distribuição em duas partes iguais. Sabendo que a área
-total, sob toda a curva,
-corresponde à probabilidade de todo o Espaço Amostrai e, portanto, a 100%, então:
+Logo, o valor de /i divide a distribuição em duas partes iguais. Sabendo que a área total, sob toda a curva,corresponde à probabilidade de todo o Espaço Amostrai e, portanto, a 100%, então:
 
 P(X > p) = P(X <p) = 50%
 
-A probabilidade de um intervalo corresponde à área sob a f.d.p. limitada
-por esse intervalo. Assim, a
-igualdade acima pode ser ilustrada como no gráfico seguir:
-
+A probabilidade de um intervalo corresponde à área sob a f.d.p. limitada por esse intervalo. Assim, a igualdade acima pode ser ilustrada como no gráfico seguir:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 No exemplo do gráfico anterior, temos /z = 1, logo:
 
 > 1) = P(X < 1) = 50%
 
-Mas a simetria não implica somente nisso. A partir da média, toda a distribuição de
-probabilidades para os
-valores superiores é igual à distribuição para os valores inferiores.
-
-Assim, para qualquer k real, a probabilidade de a variável ser maior do que jU + k
-é igual à probabilidade de
-ser menor do que n — k:
-
+Mas a simetria não implica somente nisso. A partir da média, toda a distribuição de probabilidades para os valores superiores é igual à distribuição para os valores inferiores.
+Assim, para qualquer k real, a probabilidade de a variável ser maior do que jU + k é igual à probabilidade de ser menor do que n — k:
 Em relação ao nosso exemplo, em que jU = 1, temos:
 
 * Para k = 1: P(X > 2) = P(X < 0)
@@ -90,15 +56,8 @@ Em relação ao nosso exemplo, em que jU = 1, temos:
 * Para k = 2,5: P(X > 3,5) = P(X < -1,5)
 
 Similarmente, as probabilidades associadas aos intervalos entre a média e esses limites
-/z + k e /z — k
-
-também são iguais, conforme equação abaixo e gráfico a seguir:
-
+/z + k e /z — k também são iguais, conforme equação abaixo e gráfico a seguir:
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 Em relação ao nosso exemplo em que = 1, temos:
 
@@ -110,10 +69,7 @@ Em relação ao nosso exemplo em que = 1, temos:
 
 Podemos observar, ainda, que a curva normal apresenta duas assintotas.
 
-De modo geral, uma assintota ocorre quando uma curva se aproxima cada vez mais a uma
-reta, porém sem
-tocá-la. A curva normal se aproxima do eixo x (eixo das abcissas) tanto para x ->
-—oo, quanto para x -> +oo.
+De modo geral, uma assintota ocorre quando uma curva se aproxima cada vez mais a uma reta, porém sem tocá-la. A curva normal se aproxima do eixo x (eixo das abcissas) tanto para x ->—oo, quanto para x -> +oo.
 Por isso, dizemos que a curva normal é duplamente assintótica.
 
 Além disso, existem dois pontos de inflexão na curva normal.
@@ -121,21 +77,13 @@ Além disso, existem dois pontos de inflexão na curva normal.
 Pontos de inflexão são aqueles em que a concavidade da curva muda.
 
 No início da curva normal, a concavidade está voltada para cima. No ponto (aproximado)
-indicado pela seta
-da esquerda, a concavidade muda para baixo, e no ponto (aproximado) indicado pela seta
-da direita, a
-concavidade muda novamente para cima.
-
+indicado pela seta da esquerda, a concavidade muda para baixo, e no ponto (aproximado) indicado pela seta da direita, a concavidade muda novamente para cima.
 Esses pontos de inflexão ocorrem precisamente a 1 desvio padrão da média, ou seja, em p - o e em /z
 + o.
 
 HORA IX
 
-r
-
-
-i
-
+r i
 (FGV/2010 - SEAD-AP - Adaptada) Em relação à distribuição normal, julgue as afirmativas a seguir.
 I - A função de densidade de probabilidade é simétrica em relação à média.
 
@@ -147,51 +95,30 @@ Comentários:
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
-I= Sabemos que a distribuição normal é simétrica em relação à média (logo, a
-afirmativa I está correta). Por ser =I
-
+I= Sabemos que a distribuição normal é simétrica em relação à média (logo, a afirmativa I está correta). Por ser =I
 : simétrica, ela apresenta média = mediana (logo, a afirmativa II está correta).
 ;
 
 I
 
-
 I
 
-A distribuição normal pode ter qualquer valor de média, inclusive negativa. Por exemplo, se
-estivermos i
-tratando do lucro das empresas que vão à falência, provavelmente, a média será negativa. Logo, a
-afirmativa i
-
+A distribuição normal pode ter qualquer valor de média, inclusive negativa. Por exemplo, se estivermos i tratando do lucro das empresas que vão à falência, provavelmente, a média será negativa. Logo, a afirmativa i
 ; III está correta.
 j
 
-■ ■
+
 
 : Resposta: Todas corretas.
 
 Distribuição Normal Padrão
 
-Para calcular os valores de probabilidade, temos uma tabela que relaciona os valores
-de intervalo da variável
-aos respectivos valores de probabilidade.
-
-Essa tabela, inserida abaixo, se refere a uma distribuição normal JV(0,1), isto é, com
-média n = 0 e variância
-
-o2 = 1, chamada de normal padrão ou reduzida, que denotamos por Z.
-
-Pelo gráfico anterior à tabela, deduzimos que os seus valores correspondem à
-probabilidade entre a média
-
+Para calcular os valores de probabilidade, temos uma tabela que relaciona os valores de intervalo da variável aos respectivos valores de probabilidade.
+Essa tabela, inserida abaixo, se refere a uma distribuição normal JV(0,1), isto é, com média n = 0 e variância o2 = 1, chamada de normal padrão ou reduzida, que denotamos por Z.
+Pelo gráfico anterior à tabela, deduzimos que os seus valores correspondem à probabilidade entre a média
 /x = 0 e o valor de z indicado. Assim, os campos da tabela informam a probabilidade P(0 < Z < z).
 
 j *\
-
 
 z
 
@@ -305,10 +232,6 @@ z
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
 Z (cont)
 2,1
 
@@ -410,25 +333,14 @@ Z (cont)
 
 E quanto aos valores de z?
 
-O valor de z começa a ser lido na primeira coluna (que apresenta as unidades e os
-décimos de z) e termina
-de ser lido na primeira linha (que apresenta os centésimos de z). Assim, a
-probabilidade P(0 < Z < z) é o
-valor que está no campo, cuja linha corresponda à unidade e ao décimo de z e cuja
-coluna corresponda ao
-centésimo de z.
-
-Por exemplo, para encontrar o valor de P(0 < Z < 1,96), precisamos buscar o número
-que está na linha 1,9
-e na coluna 0,06, conforme indicado abaixo. Podemos observar que P(0 < Z < 1,96) = 0,475.
+O valor de z começa a ser lido na primeira coluna (que apresenta as unidades e os décimos de z) e termina de ser lido na primeira linha (que apresenta os centésimos de z). Assim, a probabilidade P(0 < Z < z) é o valor que está no campo, cuja linha corresponda à unidade e ao décimo de z e cuja coluna corresponda ao centésimo de z.
+Por exemplo, para encontrar o valor de P(0 < Z < 1,96), precisamos buscar o número que está na linha 1,9e na coluna 0,06, conforme indicado abaixo. Podemos observar que P(0 < Z < 1,96) = 0,475.
 
 z 0,05 0,06 0,07
-
 
 1,8
 
 1,9
-
 
 0,4678 0,4686 0,4693
 
@@ -436,24 +348,15 @@ z 0,05 0,06 0,07
 
 0,4798 0,4803 0,4808
 
-Também podemos fazer o caminho inverso, qual seja, encontrar o valor de z
-que corresponde à
-probabilidade desejada.
-
+Também podemos fazer o caminho inverso, qual seja, encontrar o valor de z que corresponde à probabilidade desejada.
 Vamos encontrar o valor de z tal que P(0 < Z < z) = 0,40, por exemplo. Para isso,
 devemos buscar o valor
 0,40 nos campos da tabela. Como não consta exatamente esse valor, somente 0,3997 e
-0,4015, optamos
-pelo valor mais próximo, isto é, 0,3997.
-
+0,4015, optamos pelo valor mais próximo, isto é, 0,3997.
 Este se encontra na linha 1,2 e na coluna 0,08, conforme indicado a seguir. Logo, concluímos que z
 = 1,28.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 z
 
@@ -493,10 +396,7 @@ z
 
 0,4177
 
-Para resolver questões envolvendo a tabela normal padrão é importante lembrar
-que essa distribuição é
-simétrica, com média /j. = 0.
-
+Para resolver questões envolvendo a tabela normal padrão é importante lembrar que essa distribuição é simétrica, com média /j. = 0.
 TOME
 
 NOTA!
@@ -507,12 +407,7 @@ P(Z > 1,96) = 0,5 - P(0 < Z < 1,96) = 0,5 - 0,475 = 0,025
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
 r P(0 < Z < 1,96)
-
 
 K
 
@@ -527,9 +422,7 @@ P(-l, 96 < Z < 0) = P(0 < Z < 1,96) = 0,475
 P(Z < -1,96) = P(Z > 1,96) = 0,5 - 0,475 = 0,025
 
 A questão pode solicitar e/ou fornecer a probabilidade em módulo, da forma P(|Z| < z)
-ou P(|Z| > z). Para
-resolvê-las, é importante lembrar que a probabilidade P(|Z| < z) corresponde a:
-
+ou P(|Z| > z). Para resolvê-las, é importante lembrar que a probabilidade P(|Z| < z) corresponde a:
 P(|Z| < z) = P(-z < Z < z) = P(-z < Z < 0) + P(0 < Z < z)
 
 P(|Z| <z) = P(-z<Z<z)
@@ -544,10 +437,6 @@ P(|Z| < 1.96) = 2 x P(0 < Z < 1.96) = 2 x 0,475 = 0,95
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
 E a probabilidade P(|Z| > z) pode ser calculada pela fórmula da probabilidade complementar:
 
 P(|Z|>z) = l-P(|Z|<z)
@@ -558,9 +447,7 @@ Supondo, por exemplo, z = 1,96, vimos que P(0 < Z < 1,96) = 0,475. Logo:
 
 P(|Z| > z) = 1 — 2 x P(0 <Z <z) = 1 - 2 x 0,475 = 1 - 0,95 = 0,05
 
-Ou, também podemos calcular P(|Z| > z), aplicando-se o raciocínio análogo ao que fizemos
-anteriormente
-
+Ou, também podemos calcular P(|Z| > z), aplicando-se o raciocínio análogo ao que fizemos anteriormente
 P(|Z| > z) = P(Z < -z U Z > z) = P(Z < -z) + P(Z > z)
 
 Pela simetria da normal padrão, temos P(Z < -z) = P(Z > z), logo:
@@ -573,42 +460,21 @@ P(|Z| > z) = 2 x P(Z > z) = 2 x 0,025 = 0,05
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
-Existem, ainda, outros tipos de tabela para a distribuição normal padrão, que
-apresentam as probabilidades
-para outros intervalos, como por exemplo para a região indicada a seguir:
-
-Esse tipo de tabela indica as probabilidades da forma P(—oo < z < z), que
-correspondem à função da
-distribuição normal acumulada.
-
+Existem, ainda, outros tipos de tabela para a distribuição normal padrão, que apresentam as probabilidades para outros intervalos, como por exemplo para a região indicada a seguir:
+Esse tipo de tabela indica as probabilidades da forma P(—oo < z < z), que correspondem à função da distribuição normal acumulada.
 Transformação entre Distribuições Normais
 
 Mas, e se a média da distribuição for diferente de zero e/ou a variância for diferente de 1?
 
-Para isso, fazemos uma transformação de uma distribuição normal qualquer para a
-distribuição normal
-padrão, conforme fórmula indicada abaixo:
-
+Para isso, fazemos uma transformação de uma distribuição normal qualquer para a distribuição normal padrão, conforme fórmula indicada abaixo:
 x-/z
 
 <r
 
-Com essa transformação, encontramos os valores de z na distribuição normal padrão
-associados aos valores
-de x da distribuição normal de interesse, com média /z e desvio padrão o.
-
+Com essa transformação, encontramos os valores de z na distribuição normal padrão associados aos valores de x da distribuição normal de interesse, com média /z e desvio padrão o.
 Vamos supor uma distribuição normal com média /z = 1 e desvio padrão cr
-= 3, em que estamos
-interessados no valor de x = 7. A transformação desse valor para a distribuição normal padrão é:
-
-Isso significa que os intervalos associados a z = 2 na distribuição normal padrão
-apresentam a mesma
-probabilidade daqueles associados a x = 7 na distribuição X, com média /z = 1 e desvio padrão cr =
-3.
+= 3, em que estamos interessados no valor de x = 7. A transformação desse valor para a distribuição normal padrão é:
+Isso significa que os intervalos associados a z = 2 na distribuição normal padrão apresentam a mesma probabilidade daqueles associados a x = 7 na distribuição X, com média /z = 1 e desvio padrão cr =3.
 
 Por exemplo:
 
@@ -619,10 +485,6 @@ Pela tabela da normal padrão, temos P(0 < Z < 2) = 0,4772, logo:
 P(Z > 2) = 0,5 - 0,4772 = 0,0228
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 Portanto, P(X > 7) = 0,0228 = 2,28%.
 
@@ -637,9 +499,7 @@ P(Z < 2) = 1 - P(Z > 2) = 1 - 0,0228 = 0,9772
 Portanto, P(X < 7) = 0,9772.
 
 Para encontrar intervalos envolvendo outros valores, por exemplo P(4 < X <
-7), precisamos aplicar a
-transformação para ambos os valores. Para x = 4, temos:
-
+7), precisamos aplicar a transformação para ambos os valores. Para x = 4, temos:
 Sabendo que a transformação para x = 7 é z = 2, então podemos concluir que:
 
 P(4<X<7) = P(KZ<2)
@@ -657,22 +517,10 @@ Assim, concluímos que P(4 < X < 7) = 0,1359 = 13,59%
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
-Também podemos fazer o caminho inverso, encontrando o valor de x em uma distribuição
-com média /z e
-desvio padrão a, a partir de uma probabilidade desejada.
-
-Para isso, primeiro encontramos o valor de z correspondente a essa probabilidade
-desejada, utilizando a
-tabela da normal padrão. Em seguida, aplicamos a fórmula da transformação.
-
+Também podemos fazer o caminho inverso, encontrando o valor de x em uma distribuição com média /z e desvio padrão a, a partir de uma probabilidade desejada.
+Para isso, primeiro encontramos o valor de z correspondente a essa probabilidade desejada, utilizando a tabela da normal padrão. Em seguida, aplicamos a fórmula da transformação.
 Por exemplo, podemos calcular o valor de x para o qual a probabilidade de
-P(X < x) = 0,8, para a
-distribuição normal com os mesmos parâmetros do exemplo anterior (/z = 1 e a = 3).
-
+P(X < x) = 0,8, para a distribuição normal com os mesmos parâmetros do exemplo anterior (/z = 1 e a = 3).
 Considerando a simetria em torno de zero da normal padrão, temos que:
 
 P(0 < Z < z) = P(Z < z) — 0,5
@@ -686,60 +534,32 @@ P(0<Z<0,84) = 0,2995,
 que é o valor da tabela mais próximo de 0,3.
 
 Substituindo os valores conhecidos na fórmula transformação (/i = 1, a = 3
-e z = 0,84), podemos
-encontrar o valor de x, que delimita uma probabilidade P(X < x) = 0,8:
-
-X — jlí
-z =
-
-cr
-
-x — 1
-
+e z = 0,84), podemos encontrar o valor de x, que delimita uma probabilidade P(X < x) = 0,8:
+X — jlí z =
+cr x — 1
 0,84
-
 
 x = 3 x 0,84 + 1 = 3,52
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
-Agora, vamos calcular as probabilidades associadas a intervalos genéricos, em função do desvio
-padrão a.
-
+Agora, vamos calcular as probabilidades associadas a intervalos genéricos, em função do desvio padrão a.
 Para calcular a probabilidade P(g - o < X < /z + c), utilizamos a seguinte transformação, para x =
 /z + ff:
 
-x — /z n + a — /z
-
-z = = z = = 1
-a ff
+x — /z n + a — /z z = = z = = 1a ff
 
 Para x = n - ff, temos:
 
-x — // fi- ff - /.t
-
-z = = z = = —1
-
+x — // fi- ff - /.t z = = z = = —1
 ff ff
 
 Portanto:
 
 P(n - ff < X < n + ff) = P(-l < Z < 1) = P(-l < Z < 0) + P(0 < Z < 1)
 
-De maneira geral, quando os intervalos são da forma P(/z — k < X < p. + P), em
-que os
-extremos são equidistantes da média, basta fazermos a transformação para um
-dos
-extremos, pois o outro estará associado ao mesmo valor de z, porém multiplicado por -1.
-
-Pela tabela da curva normal, temos P(0 < Z < 1) = 0,3413. Pela simetria da normal
-padrão, em torno da
-média 0, temos:
-
+De maneira geral, quando os intervalos são da forma P(/z — k < X < p. + P), em que os extremos são equidistantes da média, basta fazermos a transformação para um dos extremos, pois o outro estará associado ao mesmo valor de z, porém multiplicado por -1.
+Pela tabela da curva normal, temos P(0 < Z < 1) = 0,3413. Pela simetria da normal padrão, em torno da média 0, temos:
 P(-l < Z < 0) = P(0 < Z < 1) = 0,3413
 
 Logo:
@@ -748,24 +568,14 @@ P(-l < Z < 1) = P(-l < Z < 0) + P(0 < Z < 1) = 0,3413 + 0,3413 = 0,6826
 
 P(/z - ti < X < /z + tr) = 68%
 
-Ou seja, a probabilidade de uma variável normal qualquer se afastar da média (para
-cima ou para baixo) em
-até 1 desvio padrão é aproximadamente 68%, conforme ilustrado a seguir.
-
+Ou seja, a probabilidade de uma variável normal qualquer se afastar da média (para cima ou para baixo) em até 1 desvio padrão é aproximadamente 68%, conforme ilustrado a seguir.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 Para P(/z — 2o < X < fi + 2o), temos:
 
 Portanto:
 
-x — n JU + 2<7 — /z
-
-z = = = 2
-
+x — n JU + 2<7 — /z z = = = 2
 o o
 
 PO - 2o < X < n + 2o) = P(—2 <Z < 2) = P(—2 < Z < 0) + P(0 < Z < 2)
@@ -780,10 +590,7 @@ P(-2 < Z < 2) = P(—2 < Z < 0) + P(0 < Z < 2) = 0,4772 + 0,4772 = 0,9544
 
 P(li - 2o < X < n + 2o-) = 95%
 
-Ou seja, a probabilidade de uma variável normal qualquer se afastar da média (para
-cima ou para baixo) em
-até 2 desvios padrão é aproximadamente 95%, como ilustrado abaixo.
-
+Ou seja, a probabilidade de uma variável normal qualquer se afastar da média (para cima ou para baixo) em até 2 desvios padrão é aproximadamente 95%, como ilustrado abaixo.
 Para P(/z — 3o < X < fi + 3o), obtemos, pela transformação, z = 3, logo:
 
 P(jj. — 3o < X < n + 3o) = P(—3 < Z < 3) = P(—3 < Z < 0) + P(0 < Z < 3)
@@ -794,19 +601,10 @@ P(-3 < Z < 3) = P(—3 < Z < 0) + P(0 < Z < 3) = 0,4987 + 0,4987 = 0,9974
 
 P(H - 3o < X < n + 3<r) = 99,7%
 
-Ou seja, a probabilidade de uma variável normal qualquer se afastar da média (para
-cima ou para baixo) em
-até 3 desvios padrão é aproximadamente 99,7%, ilustrado abaixo.
-
+Ou seja, a probabilidade de uma variável normal qualquer se afastar da média (para cima ou para baixo) em até 3 desvios padrão é aproximadamente 99,7%, ilustrado abaixo.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
-Essas probabilidades (68% para fi ± a; 95% para fi±2a e 99,7% para fi ± 3a) compõem
-a chamada Regra
-Empírica. Algumas questões (não muitas) exigem que você memorize essas probabilidades.
+Essas probabilidades (68% para fi ± a; 95% para fi±2a e 99,7% para fi ± 3a) compõem a chamada RegraEmpírica. Algumas questões (não muitas) exigem que você memorize essas probabilidades.
 
 ESQUEMATIZANDO
 
@@ -823,47 +621,17 @@ l«** IX
 
 (FGV/2010 - SEAD-AP - Adaptada) Em relação à distribuição normal, julgue as afirmativas a seguir:
 
-I - Se X tem distribuição normal com média // e variância cr2 então a
-variável Z = tem distribuição
-normal padrão.
-
-II - A probabilidade de que uma variável Z que tenha distribuição normal
-padrão seja maior que 5 é
-aproximadamente igual a 0.
-
+I - Se X tem distribuição normal com média // e variância cr2 então a variável Z = tem distribuição normal padrão.
+II - A probabilidade de que uma variável Z que tenha distribuição normal padrão seja maior que 5 é aproximadamente igual a 0.
 Comentários:
 
-Em relação à afirmativa I, a transformação para a Normal Padrão é Z = ou seja, a
-divisão é pelo desvio
-
-d
-
-padrão, não pela variância. Por isso, a afirmativa I está incorreta.
-
-Em relação à afirmativa II, a distribuição se concentra em 3 desvios-padrão para ambos
-os lados (mais de
-99% se encontram nesse intervalo). De fato, as tabelas da normal padrão, em geral,
-fornecem valores até
-z=3,99 porque valores a probabilidade de Z ser maior que isso é praticamente nula.
-Logo, a afirmativa II está
-correta.
-
+Em relação à afirmativa I, a transformação para a Normal Padrão é Z = ou seja, a divisão é pelo desvio d padrão, não pela variância. Por isso, a afirmativa I está incorreta.
+Em relação à afirmativa II, a distribuição se concentra em 3 desvios-padrão para ambos os lados (mais de99% se encontram nesse intervalo). De fato, as tabelas da normal padrão, em geral,
+fornecem valores até z=3,99 porque valores a probabilidade de Z ser maior que isso é praticamente nula.Logo, a afirmativa II está correta.
 Resposta: I - incorreta, II - correta.
 
-(VUNESP/2009 - CETESB) Para um determinado horário, considerando-se todos os dias de um
-período, ao
-se calcular a média de congestionamento de trânsito em km obtém-se o valor
-p. e desvio padrão cr.
-Considerando-se que os valores obtidos pela variável e suas respectivas
-probabilidades constituem uma
-distribuição normal, no intervalo de QÍ - a) até (ji + a), a percentagem dos dados contidos é cerca
-de
-
+(VUNESP/2009 - CETESB) Para um determinado horário, considerando-se todos os dias de um período, ao se calcular a média de congestionamento de trânsito em km obtém-se o valor p. e desvio padrão cr.Considerando-se que os valores obtidos pela variável e suas respectivas probabilidades constituem uma distribuição normal, no intervalo de QÍ - a) até (ji + a), a percentagem dos dados contidos é cerca de
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 í a) 25%
 b) 50%
@@ -874,7 +642,7 @@ d) 94%
 
 í e) 99%
 
-■
+
 
 i Comentários:
 
@@ -883,13 +651,13 @@ cr) até (/./ + cr)
 
 : concentra 68% da distribuição normal.
 
-■
+
 
 i Gabarito: C
 
 ; (CESPE/2016 - Analista da FUNPRESP-JUD) A simetria de Z implica que P(Z > 2) = 1 - P(Z < -2).
 
-■
+
 
 i Comentários:
 
@@ -900,44 +668,30 @@ P(Z > 2) = P(Z < -2)
 
 = Essa relação está ilustrada no gráfico abaixo.
 
-■
 
-A relação descrita no enunciado iguala a probabilidade P(Z > 2) à probabilidade 1 - P(Z < —2). Esta
 
-i corresponde a toda a região indicada abaixo:
-
+A relação descrita no enunciado iguala a probabilidade P(Z > 2) à probabilidade 1 - P(Z < —2). Esta i corresponde a toda a região indicada abaixo:
 I
 
-: Podemos observar que P(Z > 2) é bem menor que 50%, enquanto 1 — P(Z < —2) é
-bem maior que 50%,
-i ou seja:
+: Podemos observar que P(Z > 2) é bem menor que 50%, enquanto 1 — P(Z < —2) é bem maior que 50%,i ou seja:
 
 P(Z > 2) ¥= 1 - P(Z < -2)
 
 = Logo, o item está errado.
 
-■
+
 
 : Gabarito: Errado.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
-I; (FGV/2022 - EPE) O salário médio dos funcionários de uma empresa é normalmente
-distribuído com média
-de R$ 2.500,00 e desvio padrão de R$ 1.500,00. A empresa divide os funcionários em 5
-classes, a saber: M,
+I; (FGV/2022 - EPE) O salário médio dos funcionários de uma empresa é normalmente distribuído com média de R$ 2.500,00 e desvio padrão de R$ 1.500,00. A empresa divide os funcionários em 5classes, a saber: M,
 
 = N, O, P e Q, onde "M" é a classe com melhor salário e "Q" a classe com menor salário.
 
-■
 
-: Se apenas 5% dos funcionários dessa empresa estão na classe "M", o menor valor do
-salário do funcionário
 
+: Se apenas 5% dos funcionários dessa empresa estão na classe "M", o menor valor do salário do funcionário
 = para ele pertencer à classe "M" é
 
 = [Considere que P(Z < 1,64) = 0,95.]
@@ -951,7 +705,7 @@ d) 5160,00
 
 ; e) 5350,00
 
-■
+
 
 i Comentários:
 
@@ -965,24 +719,12 @@ R$ 2.500,00 e desvio
 
 = conforme ilustrado a seguir:
 
-= Sabendo que 5% (ou 0,05) da distribuição é maior do que o valor
-buscado, então 95% (ou 0,95) da
-distribuição é menor e o enunciado informa justamente que P(Z < 1,64) = 0,95.
-
+= Sabendo que 5% (ou 0,05) da distribuição é maior do que o valor buscado, então 95% (ou 0,95) da distribuição é menor e o enunciado informa justamente que P(Z < 1,64) = 0,95.
 = Assim, devemos aplicar a transformação para z = 1,64, sabendo que a média é 2500
-e o desvio padrão é
-j 1500:
-
+e o desvio padrão é j 1500:
 I
-x- p
-
-z =
-
-o
-
-x- 2500
-
-
+x- p z =
+o x- 2500
 1,64 =
 
 1500
@@ -993,14 +735,12 @@ x = 4960
 
 Gabarito: C
 
-■
 
-i (VUNESP/2014 - EMPLASA) O tempo de vida da população de um determinado país tem
-distribuição normal
 
+i (VUNESP/2014 - EMPLASA) O tempo de vida da população de um determinado país tem distribuição normal
 ; com a média igual a 68 anos e o desvio padrão igual a 11.
 
-I■ X—u
+I X—u
 
 = Considere os valores da tabela e a fórmula Z =------------ :
 
@@ -1008,10 +748,6 @@ I■ X—u
 cr
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 z
 
@@ -1036,12 +772,7 @@ Distribuição normal reduzida
 
 0,4938
 
-A probabilidade de uma pessoa viver mais do que 90 anos é de
-
-■
-
-a) 15,87%
-
+A probabilidade de uma pessoa viver mais do que 90 anos é de a) 15,87%
 b) 6,68%
 
 c) 4,82%
@@ -1054,11 +785,7 @@ Comentários:
 
 Sendo p = 68 e cr = 11, temos a seguinte transformação para x = 90:
 
-
-x — p
-
-z =
-
+x — p z =
 a
 
 90 - 68 22
@@ -1083,26 +810,14 @@ P(Z < 0,4) = 0,655; P(Z
 ; < 1,2) = 0,885; P(Z < 1,6) = 0,945; P(Z < 1,8) = 0,964; P(Z < 2) = 0,977.
 I
 
-: O efeito do medicamento A é o de baixar a pressão arterial de indivíduos hipertensos. O tempo, em
-minutos,
-
-decorrido entre a tomada do remédio e a diminuição da pressão é uma variável aleatória X com
-distribuição
-
-= normal, tendo média p e desvio padrão o. Se o valor de p é de 56 min e o valor de o é de 10 min, a
-i probabilidade de X estar compreendido entre 52 min e 74 min é igual a
-
-a) 30,9%
-
+: O efeito do medicamento A é o de baixar a pressão arterial de indivíduos hipertensos. O tempo, em minutos,
+decorrido entre a tomada do remédio e a diminuição da pressão é uma variável aleatória X com distribuição
+= normal, tendo média p e desvio padrão o. Se o valor de p é de 56 min e o valor de o é de 10 min, a i probabilidade de X estar compreendido entre 52 min e 74 min é igual a a) 30,9%
 b) 56,0%
 
 í c) 61,9%
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 d) 52,4%
 
@@ -1110,9 +825,7 @@ e) 64,5%
 
 Comentários:
 
-A probabilidade de X estar entre 52 min e 74 min pode ser calculada a partir das
-transformações para x = 74
-min e para x = 52 min, considerando a média de 56 min e desvio padrão de 10 min.
+A probabilidade de X estar entre 52 min e 74 min pode ser calculada a partir das transformações para x = 74min e para x = 52 min, considerando a média de 56 min e desvio padrão de 10 min.
 
 Para x = 74, temos:
 
@@ -1142,12 +855,10 @@ P(—0,4 <Z < 1,8) = P(Z < 1,8) - P(Z < -0,4)
 
 : P(Z < 1,8)
 
-■
+
 
 : Pela tabela observamos que P(Z < 1,8) = 0,964. Além disso, temos P(Z
-< 0,4) = 0,655, logo, o seu
-i complementar é:
-
+< 0,4) = 0,655, logo, o seu i complementar é:
 = Pela simetria da normal padrão, temos:
 
 P(Z < -0,4) = P(Z > 0,4) = 0,345
@@ -1156,10 +867,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 
 
-
-
-■
-■
 
 = Inserindo esses valores na equação acima, temos:
 j
@@ -1170,83 +877,39 @@ P(52 < X < 74) = P(Z < 1,8) - P(Z < -0,4) = 0,964 - 0,345 = 0,619
 
 L
 
-
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 Distribuição Normal
 
-Item. 1. (CESPE/2010 - INCA) Com relação a distribuições de probabilidade e seus parâmetros
-conceitos
-inerentes à estatística básica, julgue o item seguinte.
-
-A distribuição Normal ou Gaussiana caracteriza-se por ter seus valores de média e
-desvio padrão independentes
-entre si.
-
+Item. 1. (CESPE/2010 - INCA) Com relação a distribuições de probabilidade e seus parâmetros conceitos inerentes à estatística básica, julgue o item seguinte.
+A distribuição Normal ou Gaussiana caracteriza-se por ter seus valores de média e desvio padrão independentes entre si.
 Comentários:
 
-Os parâmetros da distribuição normal são a média e o desvio padrão, sendo que um não
-interfere na definição
-do outro. Logo, são independentes entre si.
-
+Os parâmetros da distribuição normal são a média e o desvio padrão, sendo que um não interfere na definição do outro. Logo, são independentes entre si.
 Gabarito: Certo.
 
-Item. 2. (CEBRASPE/2018 - Oficial Técnico de Inteligência da ABIN) Em uma
-fábrica de ferragens, o
-departamento de controle de qualidade realizou testes na linha de produção de
-parafusos. Os testes
-ocorreram em dois campos: comprimento dos parafusos e frequência com que esse
-comprimento fugia da
-medida padrão. Historicamente, o comprimento médio desses parafusos é 3 cm, e o desvio padrão
-observado
-é 0,3 cm. Foram avaliados 10.000 parafusos durante uma semana. Desses, 1.000 fugiram
-às especificações
-técnicas da gerência: o comprimento do parafuso deveria variar de 2,4 cm a 3,6 cm. O
-chefe da linha de
-produção, porém, insiste em afirmar que, em média, 4% da produção de parafusos fogem
-às especificações.
-O departamento de controle de qualidade assume que os comprimentos dos parafusos têm
-distribuição
-normal.
-
+Item. 2. (CEBRASPE/2018 - Oficial Técnico de Inteligência da ABIN) Em uma fábrica de ferragens, o departamento de controle de qualidade realizou testes na linha de produção de parafusos. Os testes ocorreram em dois campos: comprimento dos parafusos e frequência com que esse comprimento fugia da medida padrão. Historicamente, o comprimento médio desses parafusos é 3 cm, e o desvio padrão observado é 0,3 cm. Foram avaliados 10.000 parafusos durante uma semana. Desses, 1.000 fugiram às especificações técnicas da gerência: o comprimento do parafuso deveria variar de 2,4 cm a 3,6 cm. Ochefe da linha de produção, porém, insiste em afirmar que, em média, 4% da produção de parafusos fogem às especificações.O departamento de controle de qualidade assume que os comprimentos dos parafusos têm distribuição normal.
 A partir dessa situação hipotética, julgue o item subsequente, considerando que 0(1) =
 0,841, 0(1,65) = 0,95,
-0(2) = 0,975 e 0(2,5) = 0,994, em que O(z) é a função distribuição normal padronizada acumulada, e
-que
-
+0(2) = 0,975 e 0(2,5) = 0,994, em que O(z) é a função distribuição normal padronizada acumulada, e que
 0,002 seja valor aproximado para
 
-Considere que o maior parafuso já encontrado na linha de produção tenha 3,75 cm de
-comprimento. Nesse
-caso, a probabilidade de que um parafuso escolhido aleatoriamente tenha comprimento
-maior que esse será
-superior a 1%.
-
+Considere que o maior parafuso já encontrado na linha de produção tenha 3,75 cm de comprimento. Nesse caso, a probabilidade de que um parafuso escolhido aleatoriamente tenha comprimento maior que esse será superior a 1%.
 Comentários:
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 Para calcular a probabilidade de P(X > 3,75), utilizamos a transformação para x =
 3,75, com média de 3cm =
 
 3) e desvio padrão de 0,3cm (a = 0,3):
 
-x — [d
-z =
-
+x — [d z =
 a
 
 3,75 - 3 0,75
 
-="■
+="
 
 Observamos, pela tabela, que P(Z < 2,5) = 0,994. Logo:
 
@@ -1257,10 +920,7 @@ Esse valor é inferior a 1%.
 Gabarito: Errado.
 
 Item. 3. (CEBRASPE/2018 - Agente de Polícia Federal) O valor diário (em R$ mil)
-apreendido de contrabando
-em determinada região do país é uma variável aleatória W que segue distribuição normal
-com média igual a
-R$ 10 mil e desvio padrão igual a R$4 mil. Nessa situação hipotética, julgue o próximo item.
+apreendido de contrabando em determinada região do país é uma variável aleatória W que segue distribuição normal com média igual aR$ 10 mil e desvio padrão igual a R$4 mil. Nessa situação hipotética, julgue o próximo item.
 
 P(W > R$ 10 mil) = 0,5.
 
@@ -1278,24 +938,15 @@ Gabarito: Certo.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
 Item. 4. (CEBRASPE/2018 - Agente de Polícia Federal) O valor diário (em R$ mil)
-apreendido de contrabando
-em determinada região do país é uma variável aleatória W que segue distribuição normal
-com média igual a
-R$ 10 mil e desvio padrão igual a R$4 mil. Nessa situação hipotética, julgue o próximo item.
+apreendido de contrabando em determinada região do país é uma variável aleatória W que segue distribuição normal com média igual aR$ 10 mil e desvio padrão igual a R$4 mil. Nessa situação hipotética, julgue o próximo item.
 
 A razão segue distribuição normal padrão.
 
 Comentários:
 
 Sendo W uma variável com distribuição normal e média = 10 e desvio padrão <7 = 4
-então a seguinte variável
-seguirá distribuição normal padrão:
-
+então a seguinte variável seguirá distribuição normal padrão:
 W-p. HZ-10
 
 Ou seja, W não segue distribuição normal padrão.
@@ -1304,16 +955,11 @@ V4
 
 Gabarito: Errado.
 
-Item. 5. (CEBRASPE/2016 - TCE-PR) Se X for uma variável aleatória normal com média 0,8 e
-variância 0,4, e P(X
-
+Item. 5. (CEBRASPE/2016 - TCE-PR) Se X for uma variável aleatória normal com média 0,8 e variância 0,4, e P(X
 < x) representar a função de distribuição de probabilidade acumulada dessa variável X, para x G R,
 então
 
-XQ g
-
-a) A razão —— será uma variável aleatória normal padrão.
-0,4
+XQ g a) A razão —— será uma variável aleatória normal padrão.0,4
 
 b) O coeficiente de variação de X será inferior a 0,4
 
@@ -1344,28 +990,18 @@ O coeficiente de variação é a razão:
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
 (7
 
 Que é superior a 0,4, logo a alternativa B está incorreta.
 
 A moda de uma distribuição normal é igual à média, no caso, = 0,8, que é superior a 0,6.
 
-A probabilidade P(X = 0,8) é a mesma que P(X = 0,1), pois como a variável é
-contínua, a probabilidade de se
-observar um valor específico (qualquer valor que seja) é nula:
-
+A probabilidade P(X = 0,8) é a mesma que P(X = 0,1), pois como a variável é contínua, a probabilidade de se observar um valor específico (qualquer valor que seja) é nula:
 P(X = 0,8) = P(X = 0,1) = 0
 
 Logo, a alternativa está correta.
 
-Por fim, como a distribuição normal é simétrica, a probabilidade de a distribuição se
-distanciar da média em
-mais de 0,1 para ambos os lados é a mesma, ou seja:
-
+Por fim, como a distribuição normal é simétrica, a probabilidade de a distribuição se distanciar da média em mais de 0,1 para ambos os lados é a mesma, ou seja:
 Logo, a alternativa E está incorreta.
 
 Gabarito: D.
@@ -1378,16 +1014,10 @@ Com base na distribuição Normal, é correto afirmar que J_oo exp I — — \ d
 
 Comentários:
 
-A notação exp y) é uma alternativa à notação e (4). Ou seja, o enunciado está
-interessado no valor de:
-
+A notação exp y) é uma alternativa à notação e (4). Ou seja, o enunciado está interessado no valor de:
 Para isso, vejamos a f.d.p. da distribuição normal:
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 Comparando as duas expressões, percebemos que temos = 0 e J = 1 (curva normal padrão):
 
@@ -1401,9 +1031,7 @@ Sabemos que a área sob toda a curva é igual a 1, ou seja, a integral de —oo 
 
 pOO I
 
-Vamos denotar por F o resultado desejado: F = J_m e' 2 dx. Como -to é uma
-constante, temos:
-
+Vamos denotar por F o resultado desejado: F = J_m e' 2 dx. Como -to é uma constante, temos:
 F = y/2n
 
 Como n = 3,14 > 2, então a raiz V2zr = y/2 x 3,14 > 2, mais precisamente:
@@ -1412,34 +1040,18 @@ F = V2?r = 2,5
 
 Gabarito: Certo.
 
-Item. 7. (CEBRASPE/2015 - FUB) Em um estudo, determinou-se que a medida representada
-pela variável
-aleatória X segue a distribuição normal com média le variância 4 e que a função de densidade dessa
-variável
-é expressa por:
-
-em quexé um número real. Com base nos dados desse estudo, julgue o itema
-seguir, considerando
-que 0(0,674) = 0,750,0(2,0) = 0,977 e 0(3,0) = 0,999, em que
-O(z) representa a função de
-distribuição acumulada da distribuição normal padrão.
-
+Item. 7. (CEBRASPE/2015 - FUB) Em um estudo, determinou-se que a medida representada pela variável aleatória X segue a distribuição normal com média le variância 4 e que a função de densidade dessa variável é expressa por:
+em quexé um número real. Com base nos dados desse estudo, julgue o itema seguir, considerando que 0(0,674) = 0,750,0(2,0) = 0,977 e 0(3,0) = 0,999, em queO(z) representa a função de distribuição acumulada da distribuição normal padrão.
 É correto afirmar que P( | X | < 5) = 0,954.
 
 Comentários:
 
 A proba&itàpfte 2023 (Pós-Edital)
 
-
-
-
-
 P( |XI < 5) = P(-5 < X < 5)
 
 Sabendo que a média deXéjiz = lea variância é V(X) = 4, logo, o desvio padrão é a
-= yjVÇX') = 2, então a
-transformação para a normal padrão para x = 5 é:
-
+= yjVÇX') = 2, então a transformação para a normal padrão para x = 5 é:
 x - jU 5 — 1
 
 E para x = -5 é:
@@ -1448,9 +1060,7 @@ Logo, a probabilidade desejada equivale a:
 
 P(-5 < X < 5) = P(-3 < Z < 2) = P(Z < 2) - P(Z < -3)
 
-Pelos valores fornecidos, observamos que P(Z < 2) = 0,977. Além disso, pela simetria da normal
-padrão, temos:
-P(Z < -3) = P(Z > 3)
+Pelos valores fornecidos, observamos que P(Z < 2) = 0,977. Além disso, pela simetria da normal padrão, temos:P(Z < -3) = P(Z > 3)
 
 Sabendo que P(Z < 3) = 0,999, então o seu complementar é:
 
@@ -1467,53 +1077,26 @@ Portanto, o item está errado. O valor fornecido corresponde à probabilidade de
 
 Gabarito: Errado.
 
-Item. 8. (CEBRASPE/2015 - FUB) Em um estudo, determinou-se que a medida representada
-pela variável
-aleatória X segue a distribuição normal com média le variância 4 e que a função de densidade dessa
-variável
-é expressa por:
-
+Item. 8. (CEBRASPE/2015 - FUB) Em um estudo, determinou-se que a medida representada pela variável aleatória X segue a distribuição normal com média le variância 4 e que a função de densidade dessa variável é expressa por:
 ¹ ™- ÊXP —
 
 1 »
 
-em quexé um número real. Com base nos dados desse estudo, julgue o itema
-seguir, considerando
-que 0(0,674) = 0,750,0(2,0) = 0,977 e 0(3,0) = 0,999, em que
-O(z) representa a função de
-
-distribui5gR^n^^tfi|^is^yjfigaeo^l(pg^isfitel)
-
-
-
-
-
+em quexé um número real. Com base nos dados desse estudo, julgue o itema seguir, considerando que 0(0,674) = 0,750,0(2,0) = 0,977 e 0(3,0) = 0,999, em queO(z) representa a função de distribui5gR^n^^tfi|^is^yjfigaeo^l(pg^isfitel)
 A probabilidade de se observar o evento [X = 1] é igual a ^=.
 
 Comentários:
 
-Por se tratar de uma variável contínua, a probabilidade de se observar um valor
-específico, qualquer que seja,
-é igual a zero.
+Por se tratar de uma variável contínua, a probabilidade de se observar um valor específico, qualquer que seja,é igual a zero.
 
 Gabarito: Errado.
 
-Item. 9. (CEBRASPE/2015 - FUB) Em um estudo, determinou-se que a medida representada
-pela variável
-aleatória X segue a distribuição normal com média le variância 4 e que a função de densidade dessa
-variável
-é expressa por:
-
+Item. 9. (CEBRASPE/2015 - FUB) Em um estudo, determinou-se que a medida representada pela variável aleatória X segue a distribuição normal com média le variância 4 e que a função de densidade dessa variável é expressa por:
 ¹ ™- ÊXP —
 
 2VS " »
 
-em quexé um número real. Com base nos dados desse estudo, julgue o itema
-seguir, considerando
-que 0(0,674) = 0,750,0(2,0) = 0,977 e 0(3,0) = 0,999, em que
-O(z) representa a função de
-distribuição acumulada da distribuição normal padrão.
-
+em quexé um número real. Com base nos dados desse estudo, julgue o itema seguir, considerando que 0(0,674) = 0,750,0(2,0) = 0,977 e 0(3,0) = 0,999, em queO(z) representa a função de distribuição acumulada da distribuição normal padrão.
 0 terceiro quartil da distribuição X é igual a 2,348.
 
 Comentários:
@@ -1525,20 +1108,16 @@ P(X < Q3) = 0,75
 Pelos valores fornecidos, observamos que P(Z < 0,674) = 0,75.
 
 Sabendo que a média deXéjiz = lea variância é V(X) = 4, logo, o desvio padrão é o
-= yjV(X} = 2, então a
-transformação de z = 0,674 para X é:
-
+= yjV(X} = 2, então a transformação de z = 0,674 para X é:
 x - jU
 
 z =
 
 (J
 
-
 0,674
 
 x — 1
-
 
 x = 2 x 0,674 + 1 = 2,348
 
@@ -1546,92 +1125,40 @@ Gabarito: Certo.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
 Distribuição Normal
 
-Item. 1. (CESPE/2010 - INCA) Com relação a distribuições de probabilidade e seus parâmetros
-conceitos
-inerentes à estatística básica, julgue o item seguinte.
-
-A distribuição Normal ou Gaussiana caracteriza-se por ter seus valores de
-média e desvio padrão
-independentes entre si.
-
-Item. 2. (Cebraspe/2018 - Oficial Técnico de Inteligência da ABIN) Em uma
-fábrica de ferragens, o
-departamento de controle de qualidade realizou testes na linha de produção de
-parafusos. Os testes
-ocorreram em dois campos: comprimento dos parafusos e frequência com que esse comprimento fugia da
-medida padrão. Historicamente, o comprimento médio desses parafusos é 3 cm, e o desvio
-padrão
-observado é 0,3 cm. Foram avaliados 10.000 parafusos durante uma semana. Desses, 1.000
-fugiram às
-especificações técnicas da gerência: o comprimento do parafuso deveria variar de 2,4 cm a 3,6 cm. O
-chefe
-da linha de produção, porém, insiste em afirmar que, em média, 4% da produção de
-parafusos fogem às
-especificações. O departamento de controle de qualidade assume que os comprimentos dos
-parafusos
-têm distribuição normal.
-
+Item. 1. (CESPE/2010 - INCA) Com relação a distribuições de probabilidade e seus parâmetros conceitos inerentes à estatística básica, julgue o item seguinte.
+A distribuição Normal ou Gaussiana caracteriza-se por ter seus valores de média e desvio padrão independentes entre si.
+Item. 2. (Cebraspe/2018 - Oficial Técnico de Inteligência da ABIN) Em uma fábrica de ferragens, o departamento de controle de qualidade realizou testes na linha de produção de parafusos. Os testes ocorreram em dois campos: comprimento dos parafusos e frequência com que esse comprimento fugia da medida padrão. Historicamente, o comprimento médio desses parafusos é 3 cm, e o desvio padrão observado é 0,3 cm. Foram avaliados 10.000 parafusos durante uma semana. Desses, 1.000fugiram às especificações técnicas da gerência: o comprimento do parafuso deveria variar de 2,4 cm a 3,6 cm. Ochefe da linha de produção, porém, insiste em afirmar que, em média, 4% da produção de parafusos fogem às especificações. O departamento de controle de qualidade assume que os comprimentos dos parafusos têm distribuição normal.
 A partir dessa situação hipotética, julgue o item subsequente, considerando que 0(1) =
 0,841, 0(1,65) =
-0,95, 0(2) = 0,975 e 0(2,5) = 0,994, em que O(z) é a função distribuição normal
-padronizada acumulada,
-
-
+0,95, 0(2) = 0,975 e 0(2,5) = 0,994, em que O(z) é a função distribuição normal padronizada acumulada,
 e que 0,002 seja valor aproximado para
 
 0,0384
 
 10.000'
 
-Considere que o maior parafuso já encontrado na linha de produção tenha 3,75 cm de
-comprimento. Nesse
-caso, a probabilidade de que um parafuso escolhido aleatoriamente tenha comprimento
-maior que esse será
-superior a 1%.
-
+Considere que o maior parafuso já encontrado na linha de produção tenha 3,75 cm de comprimento. Nesse caso, a probabilidade de que um parafuso escolhido aleatoriamente tenha comprimento maior que esse será superior a 1%.
 Item. 3. (Cebraspe/2018 - Agente de Polícia Federal) O valor diário (em R$ mil)
-apreendido de contrabando
-em determinada região do país é uma variável aleatória W que segue distribuição normal com média
-igual
-a R$ 10 mil e desvio padrão igual a R$ 4 mil. Nessa situação hipotética, julgue o próximo item.
-
+apreendido de contrabando em determinada região do país é uma variável aleatória W que segue distribuição normal com média igual a R$ 10 mil e desvio padrão igual a R$ 4 mil. Nessa situação hipotética, julgue o próximo item.
 P(W > R$ 10 mil) = 0,5.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
 
 / 33
 
 /
 
-
-
-
-
 Item. 4. (Cebraspe/2018 - Agente de Polícia Federal) O valor diário (em R$ mil)
-apreendido de contrabando
-em determinada região do país é uma variável aleatória W que segue distribuição normal com média
-igual
-a R$ 10 mil e desvio padrão igual a R$ 4 mil. Nessa situação hipotética, julgue o próximo item.
-
+apreendido de contrabando em determinada região do país é uma variável aleatória W que segue distribuição normal com média igual a R$ 10 mil e desvio padrão igual a R$ 4 mil. Nessa situação hipotética, julgue o próximo item.
 A razão W^° segue distribuição normal padrão.
 
 Item. 5. (Cebraspe/2016 - TCE-PR) Se X for uma variável aleatória normal com média
 0,8 e variância 0,4, e
 P(X < x) representar a função de distribuição de probabilidade acumulada dessa variável
 X, para x E R,
-então
-
-y Q g
-
-a) A razão —será uma variável aleatória normal padrão.
-
+então y Q g a) A razão —será uma variável aleatória normal padrão.
 b) O coeficiente de variação de X será inferior a 0,4
 
 c) A moda de X será inferior a 0,6
@@ -1646,65 +1173,30 @@ Item. 6. (Cebraspe/2013 - TRT-ES) Com relação à teoria de probabilidades, jul
 
 Com base na distribuição Normal, é correto afirmar que exp ( — — J dx > 2.
 
-Item. 7. (Cebraspe/2015 - FUB) Em um estudo, determinou-se que a medida representada
-pela variável
-aleatória X segue a distribuição normal com média le variância 4 e que a função de
-densidade dessa
-variável é expressa por:
-
+Item. 7. (Cebraspe/2015 - FUB) Em um estudo, determinou-se que a medida representada pela variável aleatória X segue a distribuição normal com média le variância 4 e que a função de densidade dessa variável é expressa por:
 JW-
 
 em quexé um número real. Com base nos dados desse estudo, julgue o itema seguir,
-considerando
-que 0(0,674) = 0,750,0(2,0) = 0,977 e 0(3,0) = 0,999, em que
-O(z) representa a função de
-distribuição acumulada da distribuição normal padrão.
-
+considerando que 0(0,674) = 0,750,0(2,0) = 0,977 e 0(3,0) = 0,999, em queO(z) representa a função de distribuição acumulada da distribuição normal padrão.
 É correto afirmar que P( | X | < 5) = 0,954.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
-
-
-
-
-Item. 8. (Cebraspe/2015 - FUB) Em um estudo, determinou-se que a medida representada
-pela variável
-aleatória X segue a distribuição normal com média le variância 4 e que a função de
-densidade dessa
-variável é expressa por:
-
+Item. 8. (Cebraspe/2015 - FUB) Em um estudo, determinou-se que a medida representada pela variável aleatória X segue a distribuição normal com média le variância 4 e que a função de densidade dessa variável é expressa por:
 JW- _*_«p _ fclZ
 
 em quexé um número real. Com base nos dados desse estudo, julgue o itema seguir,
-considerando
-que 0(0,674) = 0,750, 0(2,0) = 0,977 e 0(3,0) = 0,999, em que O(z)
-representa a função de
-distribuição acumulada da distribuição normal padrão.
-
+considerando que 0(0,674) = 0,750, 0(2,0) = 0,977 e 0(3,0) = 0,999, em que O(z)representa a função de distribuição acumulada da distribuição normal padrão.
 A probabilidade de se observar o evento [X = 1] é igual a ^=-
 
-Item. 9. (Cebraspe/2015 - FUB) Em um estudo, determinou-se que a medida representada
-pela variável
-aleatória X segue a distribuição normal com média le variância 4 e que a função de
-densidade dessa
-variável é expressa por:
-
+Item. 9. (Cebraspe/2015 - FUB) Em um estudo, determinou-se que a medida representada pela variável aleatória X segue a distribuição normal com média le variância 4 e que a função de densidade dessa variável é expressa por:
 JW- _*_«p _ fclZ
 
 em quexé um número real. Com base nos dados desse estudo, julgue o itema seguir,
-considerando
-que 0(0,674) = 0,750,0(2,0) = 0,977 e 0(3,0) = 0,999, em que
-O(z) representa a função de
-distribuição acumulada da distribuição normal padrão.
-
+considerando que 0(0,674) = 0,750,0(2,0) = 0,977 e 0(3,0) = 0,999, em queO(z) representa a função de distribuição acumulada da distribuição normal padrão.
 0 terceiro quartil da distribuição X é igual a 2,348.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
-
 
 GABARITo
 
@@ -1718,5 +1210,4 @@ Item. 3. CERTO 6. CERTO
 Item. 9. CERTO
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
 

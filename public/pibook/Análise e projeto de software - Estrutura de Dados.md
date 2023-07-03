@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Estrutura de Dados
+# Análise e projeto de software - Estrutura de Dados
 
 A estrutura de dados é um componente fundamental no desenvolvimento de software, pois ela define a forma como os dados são organizados, armazenados e manipulados em um programa. A escolha correta da estrutura de dados pode impactar significativamente o desempenho, a eficiência e a escalabilidade de um sistema.
 

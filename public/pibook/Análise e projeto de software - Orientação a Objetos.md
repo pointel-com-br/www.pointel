@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Orientação a Objetos
+# Análise e projeto de software - Orientação a Objetos
 
 A orientação a objetos é um paradigma de programação que organiza o código em torno de objetos, que são instâncias de classes. Ela se baseia em quatro princípios fundamentais: encapsulamento, herança, polimorfismo e abstração.
 
@@ -52,15 +52,9 @@ A classe é a planta ou esquema que indica como os objetos são criados, quais o
 
 Portanto para declarar uma classe, deve-se colocar a palavra class seguida de um identificador que irá servir de nome para a classe. O identificador pode ser qualquer palavra, exceto palavras reservadas. Por exemplo: class Conta introduz a declaração de uma nova classe chamada Conta. Note que, por convenção, o nome de uma classe inicia sempre com uma letra maiúscula. A Palavra- Chave é opcional, podendo ser:
 
-// Essa classe pode ser acessada por todos
-public class Carro { ... }
-
-// Essa classe não pode gerar instâncias
-abstract class Carro { ... }
-
-// Essa classe não pode ser estendida
-final class Carro {...}
-
+// Essa classe pode ser acessada por todos public class Carro { ... }
+// Essa classe não pode gerar instâncias abstract class Carro { ... }
+// Essa classe não pode ser estendida final class Carro {...}
 Objetos
 
 Um objeto é uma instância de uma classe. Para criar um objeto, devemos utilizar a seguinte sintaxe:
@@ -95,11 +89,7 @@ Modificadores de Acesso:
 
 class Empregado {
 
-public String nome ; // Nome: público
-private int Salario ; // Salário: privado
-protected short Idade ; // Idade: protegido
-char Sexo ; // Sexo: default
-
+public String nome ; // Nome: público private int Salario ; // Salário: privado protected short Idade ; // Idade: protegido char Sexo ; // Sexo: default
 }
 
 Métodos
@@ -114,21 +104,11 @@ Java utiliza métodos para se referir a trechos de código que são associados a
 
 A sintaxe de declaração de um método é apresentada acima. A Palavra-Chave é opcional, podendo ser: Abstract, Final, Static, Native e Synchronized.
 
-// Indica que esse método não possui corpo
-abstract int soma ( int a , int b ) { ... }
-
-// Indica que esse método não pode ser sobrescrito
-final int soma ( int a , int b ) { ... }
-
-// Indica que esse método só pode acessar atributos de classe e não pode ser sobrescrito
-static int soma ( int a , int b ) { ... }
-
-// Indica que esse método foi escrito outra linguagem
-native int soma ( int a , int b ) { ... }
-
-// Indica que esse método só é executável por uma thread por vez
-synchronized soma ( int a , int b ) { ... }
-
+// Indica que esse método não possui corpo abstract int soma ( int a , int b ) { ... }
+// Indica que esse método não pode ser sobrescrito final int soma ( int a , int b ) { ... }
+// Indica que esse método só pode acessar atributos de classe e não pode ser sobrescrito static int soma ( int a , int b ) { ... }
+// Indica que esse método foi escrito outra linguagem native int soma ( int a , int b ) { ... }
+// Indica que esse método só é executável por uma thread por vez synchronized soma ( int a , int b ) { ... }
 Modificadores de Acesso:
 
 public int soma ( int a , int b ) { ... }
@@ -289,24 +269,16 @@ Existem dois tipos de polimorfismo:
 § Polimorfismo Dinâmico: ocorre quando uma classe possui um método com mesmo nome e mesma assinatura que um método de sua superclasse, i.e., o método da classe-filha sobrescreve o método da classe-pai. Pode ser chamada também de Sobrescrita, Overriding, Redefinição ou Sobreposição. Ocorre em Tempo de Execução e é um corolário do conceito de herança.
 Professor, o que você quer dizer com mesma assinatura e assinatura diferente? É a mesma quantidade, tipo e ordem dos parâmetros. Em outras palavras:
 
-// Assinatura Igual: quantidade, tipo e ordem
-public String EntendendoAssinatura ( int A , char B ) ;
-
+// Assinatura Igual: quantidade, tipo e ordem public String EntendendoAssinatura ( int A , char B ) ;
 public String EntendendoAssinatura ( int C , char D ) ;
 
-// Assinatura Diferente: quantidade diferente
-public String EntendendoAssinatura ( long A , long B , long C ) ;
-
+// Assinatura Diferente: quantidade diferente public String EntendendoAssinatura ( long A , long B , long C ) ;
 public String EntendendoAssinatura ( long A , long B ) ;
 
-// Assinatura Diferente: tipo diferente
-public String EntendendoAssinatura ( long A , long B ) ;
-
+// Assinatura Diferente: tipo diferente public String EntendendoAssinatura ( long A , long B ) ;
 public String EntendendoAssinatura ( char A , long B ) ;
 
-// Assinatura Diferente: ordem diferente
-public String EntendendoAssinatura ( int A , char B ) ;
-
+// Assinatura Diferente: ordem diferente public String EntendendoAssinatura ( int A , char B ) ;
 public String EntendendoAssinatura ( char B , int A ) ;
 
 Agora vamos ver um exemplo de Polimorfismo Dinâmico. Eu pensei comigo mesmo: O que seria uma característica comum de praticamente todos os animais? Emitir sons! Observem que eu criei uma classe abstrata que possui um único método - também abstrato -, que não retorna valor algum e não recebe nenhum argumento. Vejam a classe abaixo:

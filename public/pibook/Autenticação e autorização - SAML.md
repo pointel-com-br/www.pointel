@@ -10,9 +10,7 @@ O SAML opera com base em uma arquitetura de confiança entre o provedor de ident
 
 3. Assertion (Afirmação): É um conjunto de informações estruturadas em XML que é emitido pelo IdP para o SP após uma autenticação bem-sucedida. Essas afirmações contêm informações sobre a identidade do usuário, como seu ID, nome, atributos de perfil e outras informações relevantes. O SP confia nas afirmações de segurança para tomar decisões de autorização.
 
-4. Protocolo SAML: É o conjunto de mensagens e interações entre o IdP e o SP para autenticação e troca de informações. O protocolo SAML inclui mensagens como "AuthnRequest" (solicitação de autenticação) enviada pelo SP para o IdP, "Response" (resposta) contendo as afirmações de segurança emitidas pelo IdP e outras
-mensagens relacionadas à autenticação e autorização.
-
+4. Protocolo SAML: É o conjunto de mensagens e interações entre o IdP e o SP para autenticação e troca de informações. O protocolo SAML inclui mensagens como "AuthnRequest" (solicitação de autenticação) enviada pelo SP para o IdP, "Response" (resposta) contendo as afirmações de segurança emitidas pelo IdP e outras mensagens relacionadas à autenticação e autorização.
 5. Metadata: É um documento XML que contém informações sobre o IdP e o SP. Ele descreve detalhes como a localização dos endpoints SAML, chaves públicas, URLs de retorno, atributos suportados e outras informações relevantes. O metadata é usado para estabelecer a confiança entre o IdP e o SP.
 
 O SAML é amplamente utilizado em cenários de Federação de Identidade, onde várias organizações ou serviços colaboram para permitir o compartilhamento seguro de recursos. Ele oferece benefícios como autenticação única (SSO), onde os usuários podem acessar vários serviços com um único login, maior controle sobre o acesso aos recursos, interoperabilidade entre diferentes provedores de identidade e provedores de serviço, e suporte para cenários de negócios complexos.

@@ -64,9 +64,7 @@ Construído com foco na facilidade de uso para os desenvolvedores, o Quarkus tam
 
 Seja uma aplicação hospedada em uma nuvem pública ou em um cluster Kubernetes hospedado internamente, características como inicialização rápida e baixo consumo de memória são importantes para manter os custos totais do host baixos.
 
-O Quarkus foi construído com base na filosofia de ser orientado a contêineres, o que significa que ele é otimizado para
-uso de memória reduzido e tempos de inicialização mais rápidos das seguintes maneiras:
-
+O Quarkus foi construído com base na filosofia de ser orientado a contêineres, o que significa que ele é otimizado para uso de memória reduzido e tempos de inicialização mais rápidos das seguintes maneiras:
 - Suporte de primeira classe para Graal/SubstrateVM
 - Processamento de metadados em tempo de compilação
 - Redução no uso de reflexão

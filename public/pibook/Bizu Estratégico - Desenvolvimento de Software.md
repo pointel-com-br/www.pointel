@@ -2,38 +2,19 @@
 
 Olá, prezado aluno. Tudo certo?
 
-Neste material, traremos uma seleção de bizus da disciplina de Desenvolvimento de software
-para o concurso de Analista - Especialidade: Tecnologia.
-
-O objetivo é proporcionar uma revisão rápida e de alta qualidade aos alunos por meio de tópicos
-que possuem as maiores chances de incidência em prova.
-
-Todos os bizus destinam-se a alunos que já estejam na fase bem final de
-revisão (que já
-estudaram bastante o conteúdo teórico da disciplina e, nos últimos dias, precisam
-revisar por algum
-material bem curto e objetivo).
-
-Além disso, utilizamos os materiais do professor para
-elaborar esse
-
+Neste material, traremos uma seleção de bizus da disciplina de Desenvolvimento de software para o concurso de Analista - Especialidade: Tecnologia.
+O objetivo é proporcionar uma revisão rápida e de alta qualidade aos alunos por meio de tópicos que possuem as maiores chances de incidência em prova.
+Todos os bizus destinam-se a alunos que já estejam na fase bem final de revisão (que já estudaram bastante o conteúdo teórico da disciplina e, nos últimos dias, precisam revisar por algum material bem curto e objetivo).
+Além disso, utilizamos os materiais do professor para elaborar esse
 Apresentação
 
 Antes de começarmos, gostaria de me apresentar. Meu nome é
-Elizabeth Menezes, tenho 32 anos e sou natural do Pernambuco. Sou
-graduada em Administração pela UFPE e Pós-Graduada em Direito
-Administrativo e Constitucional.
+Elizabeth Menezes, tenho 32 anos e sou natural do Pernambuco. Sou graduada em Administração pela UFPE e Pós-Graduada em DireitoAdministrativo e Constitucional.
 
 Atualmente, exerço o cargo de Auditora de Controle Externo no
-Tribunal de Contas do Estado de São Paulo (TCE-SP). Também fui
-aprovada e nomeada para outros concursos da área fiscal (Auditor Fiscal
-Estadual e Municipal) e da área de controle.
+Tribunal de Contas do Estado de São Paulo (TCE-SP). Também fui aprovada e nomeada para outros concursos da área fiscal (Auditor FiscalEstadual e Municipal) e da área de controle.
 
-Serei a responsável pelo Bizu Estratégico de Desenvolvimento
-de software e, com ele, pretendo abordar os tópicos mais cobrados nessa disciplina, de maneira
-concisa e
-objetiva, por meio de uma linguagem bem clara!
-
+Serei a responsável pelo Bizu Estratégico de Desenvolvimento de software e, com ele, pretendo abordar os tópicos mais cobrados nessa disciplina, de maneira concisa e objetiva, por meio de uma linguagem bem clara!
 Espero que gostem!
 
 Um grande abraço e bons estudos!
@@ -42,23 +23,17 @@ Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
 ANÁLISE ESTATÍSTICA
 
-Pessoal, segue abaixo uma análise estatística dos assuntos mais exigidos no âmbito da
-disciplina de
-Desenvolvimento de software:
+Pessoal, segue abaixo uma análise estatística dos assuntos mais exigidos no âmbito da disciplina deDesenvolvimento de software:
 
 Com essa análise, podemos verificar quais são os temas mais exigidos e, através disso,
-focaremos nos
-principais pontos em nossa revisão!
-
+focaremos nos principais pontos em nossa revisão!
 Desenvolvimento de software - SERPRO
 
 Assunto Bizu
 
 Linguagens de programação. Java 1
 
-Caderno de Questões
-http://questo.es/lqv6nc
-
+Caderno de Questões http://questo.es/lqv6nc
 PHP
 
 Tecnologias e práticas frontend web: HTML
@@ -75,54 +50,31 @@ Desenvolvimento de software
 
 Java
 
-* O Java é a principal linguagem de programação e plataforma de desenvolvimento. Reduz
-custos
-e prazos de desenvolvimento, impulsiona a inovação e aprimora os serviços de
-aplicativos. Com
-milhões de desenvolvedores executando mais de 51 bilhões de Java Virtual Machines em
-todo o
-mundo.
-
+* O Java é a principal linguagem de programação e plataforma de desenvolvimento. Reduz custos e prazos de desenvolvimento, impulsiona a inovação e aprimora os serviços de aplicativos. Com milhões de desenvolvedores executando mais de 51 bilhões de Java Virtual Machines em todo o mundo.
 CARACTERÍSTICA | DESCRIÇÃO
 
 Não contém redundâncias e é fácil de entender, implementar e usar. Parecida com
 
 CONCISA E SIMPLES
 
-C++ para facilitar compreensão por grande parte de programadores. É uma evolução
-de C++: não suporta aritmética de ponteiros, registros, coerdons, etc.
-
-ORIENTADA A OBJETOS Suporta os principais conceitos de orientação a objetos. Favorece
-reusabilidade.
-
+C++ para facilitar compreensão por grande parte de programadores. É uma evolução de C++: não suporta aritmética de ponteiros, registros, coerdons, etc.
+ORIENTADA A OBJETOS Suporta os principais conceitos de orientação a objetos. Favorece reusabilidade.
 Altamente tipada. Programas são confiáveis. Reduz imprevistos em tempo de
 
 ROBUSTA
 
-execução: variáveis são automaticamente inicializadas, uso disciplinado de
-ponteiros, rotinas devem ser chamadas corretamente, etc.
-
-PORTÁVEL Completamente especificada. Não contém aspectos
-dependentes da
-implementação: o tamanho dos tipos é fixo para qualquer implementação, etc.
-
-SEGURA Restrições de acesso a arquivos, manipulação de ponteiros, etc. Implica que não é útil
-para desenvolver certas aplicações como device drivers*.
-
+execução: variáveis são automaticamente inicializadas, uso disciplinado de ponteiros, rotinas devem ser chamadas corretamente, etc.
+PORTÁVEL Completamente especificada. Não contém aspectos dependentes da implementação: o tamanho dos tipos é fixo para qualquer implementação, etc.
+SEGURA Restrições de acesso a arquivos, manipulação de ponteiros, etc. Implica que não é útil para desenvolver certas aplicações como device drivers*.
 CONCORRENTE Suporta aplicações concorrentes: multithreads, monitores, execução atômica.
 
 INDEPENDENTE DE
 PLATAFORMA
 
-Geração de bytecode que pode ser interpretado para qualquer arquitetura e sistema
-operacional tendo o sistema Java. Facilita distribuição de software.
-
+Geração de bytecode que pode ser interpretado para qualquer arquitetura e sistema operacional tendo o sistema Java. Facilita distribuição de software.
 INTERPRETADA Facilita desenvolvimento exploratório.
 
-COMPILADA Utilizando compiladores, bytecodes podem ser traduzidos em tempo de
-execução
-para código de máquina.
-
+COMPILADA Utilizando compiladores, bytecodes podem ser traduzidos em tempo de execução para código de máquina.
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
 JAVA SE
@@ -214,40 +166,24 @@ A classe e/ou seus membros são acessíveis somente por classes do mesmo pacote,
 
 DEFAULT OU PACKAGE
 
-na sua declaração não é definido nenhum tipo de modificador, sendo este
-identificado pelo compilador. Permite que apenas classes do mesmo pacote tenham
-acesso as propriedades que possuem este modificador.
-
+na sua declaração não é definido nenhum tipo de modificador, sendo este identificado pelo compilador. Permite que apenas classes do mesmo pacote tenham acesso as propriedades que possuem este modificador.
 PUBLIC O código é acessível para todas as classes
 
-Membros da classe definidos como private não podem ser acessados ou usados por
-nenhuma outra classe. Esse modificador não se aplica às classes, somente para seus
-
+Membros da classe definidos como private não podem ser acessados ou usados por nenhuma outra classe. Esse modificador não se aplica às classes, somente para seus
 PRIVATE
 
-métodos e atributos. Esses atributos e métodos também não podem ser visualizados
-pelas classes herdadas.
-
+métodos e atributos. Esses atributos e métodos também não podem ser visualizados pelas classes herdadas.
 PROTECTED
 
-O modificador protected torna o membro acessível às classes do mesmo pacote ou
-através de herança, seus membros herdados não são acessíveis a outras classes fora
-do pacote em que foram declarados.
-
+O modificador protected torna o membro acessível às classes do mesmo pacote ou através de herança, seus membros herdados não são acessíveis a outras classes fora do pacote em que foram declarados.
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 
 * PHP é uma linguagem de programação de scripts, interpretada, de alto nível,
 open-source,
-gratuita, server-side, dinamicamente/fracamente tipada, estruturada e orientada
-a objetos,
-portável, robusta e eficiente utilizada para desenvolvimento web.
+gratuita, server-side, dinamicamente/fracamente tipada, estruturada e orientada a objetos,portável, robusta e eficiente utilizada para desenvolvimento web.
 
 * Os Servidores Web mais populares são Apache (Software Livre) e IIS (Software
-Proprietário). Uma
-vez instalado, configura-se o PHP, reinicia-se o servidor e está pronto para usar! O
-PHP fica
-embutido dentro do código HTML!
-
+Proprietário). Uma vez instalado, configura-se o PHP, reinicia-se o servidor e está pronto para usar! OPHP fica embutido dentro do código HTML!
 OPERADORES ARITMÉTICOS
 
 SIGNIFICADO
@@ -360,9 +296,7 @@ CONSISTE EM UMA SÉRIE DE ELEMENTOS
 ELEMENTOS HTML INFORMAM AO NAVEGADOR COMO EXIBIR 0 CONTEÚDO E ROTULAM PARTES
 DO CONTEÚDO COMO "ISTO É UM TÍTULO", "ISTO É UM PARÁGRAFO", "ISTO É UM LINK", ETC.
 
-HTML Básico
-cIDOCTYPE html>
-
+HTML Básico cIDOCTYPE html>
 <html>
 
 <body>
@@ -398,9 +332,7 @@ Tag inicial conteúdo do elemento 1 Tag final
 
 <P> My first paragraph. </p>
 
-<br> none none
-cIDOCTYPE html>
-
+<br> none none cIDOCTYPE html>
 <ht«l>
 
 <body>
@@ -418,12 +350,7 @@ Meu primeiro parágrafo
 
 Atributos HTML
 
-Todos os elementos HTML podem ter atributos. Os atributos fornecem informações
-adicionais sobre os
-elementos, e são sempre especificados na tag de início. Os atributos
-geralmente vêm em pares de
-nome/valor como: name="value".
-
+Todos os elementos HTML podem ter atributos. Os atributos fornecem informações adicionais sobre os elementos, e são sempre especificados na tag de início. Os atributos geralmente vêm em pares de nome/valor como: name="value".
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
 Propriedade CSS Descrição
@@ -482,13 +409,9 @@ Microsoft Icon
 
 Extensão
 
-Joint Photographic Expert Group
-image
-
+Joint Photographic Expert Group image
 Portable Network Graphics
-Scalable Vector Graphics
-jpg, -jpeg, .jfif, .pjpeg, .pjp
-
+Scalable Vector Graphics jpg, -jpeg, .jfif, .pjpeg, .pjp
 ,png
 
 -svg
@@ -531,14 +454,7 @@ Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Jui
 
 <TFOOT> AGRUPA 0 CONTEÚDO DO RODAPÉ EM UMA TABELA
 
-Um iframe (abreviação de "frame inline") é um elemento HTML usado para incorporar uma
-página da
-Web em outra página da Web. Ele fornece uma maneira de exibir o conteúdo de outra
-página da Web
-na página da Web atual e é comumente usado para incorporar vídeos, mapas
-e outros conteúdos
-interativos.
-
+Um iframe (abreviação de "frame inline") é um elemento HTML usado para incorporar uma página daWeb em outra página da Web. Ele fornece uma maneira de exibir o conteúdo de outra página da Web na página da Web atual e é comumente usado para incorporar vídeos, mapas e outros conteúdos interativos.
 Elizabeth Menezes de Pinho Alves, Leonardo Mathias, Paulo Ju
 
 Vamos ficando por aqui.

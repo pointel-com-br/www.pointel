@@ -24,9 +24,7 @@ Esses são apenas alguns princípios e diretrizes associados ao código limpo. O
 
 O que é o Código Limpo, ou Clean Code em inglês? Há muitas definições, mas algumas respostas e características encontradas são comuns, como por exemplo, a codificação deve ser simples e de fácil manutenção, não pode haver repetições de código, testes de unidade devem ser implementados, implementação de forma organizada, entre outros.
 O Código Limpo é um conjunto de técnicas de programação que quando praticadas pelos desenvolvedores tem como objetivo garantir a legibilidade e qualidade do código produzido.
-Escrever um código compreensível para outros colaboradores tornou-se crucial para melhorar a colaboração e a produtividade. O Código Limpo tornou-se uma das práticas de software mais relevantes e tem sido amplamente adotado como sinônimo de qualidade de código por desenvolvedores de software e organizações de
-desenvolvimento de software em todo o mundo. No entanto, muito pouco se sabe sobre se os desenvolvedores concordam com os princípios do Código Limpo e como eles os aplicam na prática.
-
+Escrever um código compreensível para outros colaboradores tornou-se crucial para melhorar a colaboração e a produtividade. O Código Limpo tornou-se uma das práticas de software mais relevantes e tem sido amplamente adotado como sinônimo de qualidade de código por desenvolvedores de software e organizações de desenvolvimento de software em todo o mundo. No entanto, muito pouco se sabe sobre se os desenvolvedores concordam com os princípios do Código Limpo e como eles os aplicam na prática.
 Há inúmeras definições para Código Limpo, ao longo dessa parte da aula, vou apresentar as citações mais importantes de grandes programadores, os mais conhecidos, trazidos pelo livro
 
 Código Limpo.
@@ -322,9 +320,7 @@ As consequências da execução e manutenção de determinados trechos podem est
 
 Comentário TODO
 
-Os comentários podem elencar os próximos passos a fazer. TODOs são tarefas que os programadores acham que devem ser efetuadas, mas por alguma razão não podem
-implementá-las no momento. Podem ser um lembretesobre uma alteração que deve ser feita, um pedido para a verificação de outro membro. Hoje em dia, a maioria das IDEs oferecem ferramentas e recursos para localizar os comentários TODO; portanto não é provável que fiquem perdidos no código. Revise regularmente seu código e elimine os comentários TODO.
-
+Os comentários podem elencar os próximos passos a fazer. TODOs são tarefas que os programadores acham que devem ser efetuadas, mas por alguma razão não podem implementá-las no momento. Podem ser um lembretesobre uma alteração que deve ser feita, um pedido para a verificação de outro membro. Hoje em dia, a maioria das IDEs oferecem ferramentas e recursos para localizar os comentários TODO; portanto não é provável que fiquem perdidos no código. Revise regularmente seu código e elimine os comentários TODO.
 Comentários Ruins
 
 Quase todos os comentários caem nesta categoria, geralmente os comentários se tornam suporte ou desculpas para um código de baixa qualidade.
@@ -351,9 +347,7 @@ Alguns programadores gostam de marcar uma posição determinada no arquivo fonte
 for(var i in itens){
 /.../
 }//for////
-Raramente as junções por comentários fazem sentido em certas funções, mas de modo geral eles são aglomerações e
-devemos excluí-los. Tenha em mente que indicadores são chamativos no código, use-os esporadicamente para não se tornarem ruídos.
-
+Raramente as junções por comentários fazem sentido em certas funções, mas de modo geral eles são aglomerações e devemos excluí-los. Tenha em mente que indicadores são chamativos no código, use-os esporadicamente para não se tornarem ruídos.
 Código em comentários
 
 Nunca, nunca mesmo, deixe código comentado no corpo de seu arquivo. Outros desenvolvedores que tiverem o contato com esse código não teriam coragem de excluir os comentários, pois passam a impressão de que estão lá por um motivo e são importantes demais para serem apagados. Essa prática tende a acumular comentários desnecessários e leva o leitor à uma confusão.

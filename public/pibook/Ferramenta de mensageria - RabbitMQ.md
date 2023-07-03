@@ -16,5 +16,4 @@ O RabbitMQ é uma poderosa ferramenta de mensageria de código aberto que implem
 
 7. Escalabilidade e Alta Disponibilidade: O RabbitMQ é projetado para ser escalável e altamente disponível. Ele suporta a configuração de clusters, onde vários nós do RabbitMQ podem ser agrupados para formar um cluster e compartilhar a carga de trabalho. Isso garante alta disponibilidade e tolerância a falhas.
 
-O RabbitMQ é amplamente utilizado em diversos setores e cenários de aplicação, como integração de sistemas, comunicação assíncrona, processamento de eventos, fila de tarefas, gerenciamento de eventos em
-tempo real e muito mais. Sua rica funcionalidade, suporte a padrões abertos e extensibilidade o tornam uma escolha popular para implementar soluções de mensageria escaláveis e confiáveis.
+O RabbitMQ é amplamente utilizado em diversos setores e cenários de aplicação, como integração de sistemas, comunicação assíncrona, processamento de eventos, fila de tarefas, gerenciamento de eventos em tempo real e muito mais. Sua rica funcionalidade, suporte a padrões abertos e extensibilidade o tornam uma escolha popular para implementar soluções de mensageria escaláveis e confiáveis.

@@ -1,4 +1,4 @@
-# Desenvolvimento de Software - Métodos de Ordenação
+# Análise e projeto de software - Métodos de Ordenação
 
 No desenvolvimento de software, os métodos de ordenação são algoritmos que organizam um conjunto de elementos em uma determinada ordem, como crescente ou decrescente. A ordenação é uma operação comum em muitos tipos de aplicativos, desde classificação de dados em bancos de dados até a organização de listas de itens em interfaces de usuário.
 
@@ -18,9 +18,7 @@ Existem diversos métodos de ordenação, cada um com suas características e co
 
 Esses são apenas alguns exemplos de métodos de ordenação. Existem outros algoritmos, como o Shell Sort, o Radix Sort, o Counting Sort, entre outros, que podem ser mais adequados dependendo do contexto e dos requisitos do sistema.
 
-A escolha do método de ordenação a ser utilizado depende de diversos fatores, como o tamanho da lista, a distribuição dos elementos, os recursos disponíveis (memória, processamento), entre outros. É importante considerar a eficiência e a estabilidade do algoritmo, bem como as restrições e as necessidades específicas do problema em
-questão.
-
+A escolha do método de ordenação a ser utilizado depende de diversos fatores, como o tamanho da lista, a distribuição dos elementos, os recursos disponíveis (memória, processamento), entre outros. É importante considerar a eficiência e a estabilidade do algoritmo, bem como as restrições e as necessidades específicas do problema em questão.
 Métodos de Ordenação são algoritmos que têm o objetivo principal de posicionar os elementos de uma estrutura de dados em uma determinada ordem. Para que, professor? Ora, isso possibilita o acesso mais rápido e eficiente aos dados. Existem dezenas de métodos, todavia nessa aula veremos apenas os mais importantes: BubbleSort, QuickSort, InsertionSort, SelectionSort, MergeSort, ShellSort e HeapSort.
 Antes de iniciar, vamos falar sobre o conceito de Estabilidade! Um método estável é aquele em que os itens com chaves iguais mantêm-se com a posição inalterada durante o processo de ordenação, i.e., preserva-se a ordem relativa dos itens com chaves duplicadas ou iguais. Métodos Estáveis: Bubble, Insertion e Merge; Métodos Instáveis: Selection, Quick, Heap e Shell. Vejamos um exemplo:
 Na imagem acima, foi colocado um sinal de aspas simples e duplas apenas para diferenciá-los, mas trata-se do mesmo número. Um algoritmo estável ordena todo o restante e não perde tempo trocando as posições de elementos que possuam chaves idênticas. Já um algoritmo instável ordena todos os elementos, inclusive aqueles que possuem chaves idênticas (sob algum outro critério).

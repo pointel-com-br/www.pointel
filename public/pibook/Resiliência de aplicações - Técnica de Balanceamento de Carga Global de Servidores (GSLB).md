@@ -26,5 +26,4 @@ O GSLB oferece vários benefícios, como:
 
 A implementação do GSLB pode ser feita por meio de soluções de hardware especializadas, como appliances de balanceamento de carga global, ou por meio de soluções baseadas em software, como serviços de DNS com recursos de GSLB.
 
-É importante ressaltar que a implementação efetiva do GSLB requer planejamento cuidadoso, configuração adequada e testes para garantir que a distribuição de carga e o
-roteamento sejam eficientes e estejam alinhados com as necessidades da aplicação.
+É importante ressaltar que a implementação efetiva do GSLB requer planejamento cuidadoso, configuração adequada e testes para garantir que a distribuição de carga e o roteamento sejam eficientes e estejam alinhados com as necessidades da aplicação.

@@ -30,9 +30,7 @@ O ITIL (Information Technology Infrastructure Library) é um conjunto de prátic
 
 6. Princípios-chave do ITIL V4: O ITIL V4 é guiado por sete princípios-chave, que são:
 
-- Foco no valor: Concentrar-se
-na entrega de valor para o cliente e para a organização.
-
+- Foco no valor: Concentrar-se na entrega de valor para o cliente e para a organização.
 - Começar onde você está: Utilizar e melhorar os recursos e capacidades existentes.
 
 - Progresso iterativo: Realizar melhorias incrementais e contínuas.

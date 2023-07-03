@@ -24,5 +24,4 @@ Algumas práticas e técnicas comuns relacionadas à monitoração e observabili
 
 8. Visualização e painéis: Utilizar ferramentas de visualização de dados para criar painéis e dashboards personalizados que apresentam as informações relevantes de forma clara e intuitiva.
 
-A combinação de monitoração e observabilidade fornece uma visão completa do ambiente de uma aplicação, permitindo a detecção precoce de problemas, a análise de tendências, a identificação de gargalos e a melhoria contínua da resiliência do sistema. Essas práticas são fundamentais para garantir a disponibilidade, o desempenho e a conf
-iabilidade das aplicações, especialmente em ambientes complexos e distribuídos.
+A combinação de monitoração e observabilidade fornece uma visão completa do ambiente de uma aplicação, permitindo a detecção precoce de problemas, a análise de tendências, a identificação de gargalos e a melhoria contínua da resiliência do sistema. Essas práticas são fundamentais para garantir a disponibilidade, o desempenho e a conf iabilidade das aplicações, especialmente em ambientes complexos e distribuídos.

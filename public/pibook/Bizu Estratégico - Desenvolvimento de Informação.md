@@ -46,40 +46,24 @@ Assunto. Análise de dados (Pandas, NumPy). Incidência. 0,00%
 
 1. BANCOS DE DADOS
 
-* Dados: fatos brutos, que não foram organizados, processados, relacionados, avaliados
-ou interpretados.
-
+* Dados: fatos brutos, que não foram organizados, processados, relacionados, avaliados ou interpretados.
 * Informação: é um dado acrescido de contexto, relevância e propósito.
 
 * Conhecimento: é uma informação contextuai, relevante e acionável.
 
 Tipos de Dados:
 
-* Não estruturados: não possuem uma estrutura definida. Podem ser listados como
-exemplo documentos, textos, imagens e vídeos.
-
-* Estruturados: são aqueles quem possuem a mesma estrutura de representação rígida e
-previamente projetada, ou sejam, existe um esquema que descreve as características
-dos dados que serão armazenados .
-
+* Não estruturados: não possuem uma estrutura definida. Podem ser listados como exemplo documentos, textos, imagens e vídeos.
+* Estruturados: são aqueles quem possuem a mesma estrutura de representação rígida e previamente projetada, ou sejam, existe um esquema que descreve as características dos dados que serão armazenados .
 * Semiestruturados: apresentam uma organização bastante heterogênea , por exemplo o XML.
 
 ESCLARECENDO!
 
 Há dois tipos de redundância de dados:
 
-Redundância controlada de dados: Acontece quando o software
-tem conhecimento da múltipla representação da informação e
-garante a sincronização entre as diversas representações.
-
-Redundância não controlada: Acontece quando a responsabilidade
-pela manutenção da sincronia entre as diversas representações de uma informação
-está com o usuário e não com o software.
-
-Sistema de Gerenciamento de Banco de Dados (SGBD) para atuar como um guardião do
-banco de dados, que substituiu a abordagem de arquivos. Vejamos uma figura para
-esclarecer esses contextos:
-
+Redundância controlada de dados: Acontece quando o software tem conhecimento da múltipla representação da informação e garante a sincronização entre as diversas representações.
+Redundância não controlada: Acontece quando a responsabilidade pela manutenção da sincronia entre as diversas representações de uma informação está com o usuário e não com o software.
+Sistema de Gerenciamento de Banco de Dados (SGBD) para atuar como um guardião do banco de dados, que substituiu a abordagem de arquivos. Vejamos uma figura para esclarecer esses contextos:
 Sistema de arquivos.
 
 Sistema de Banco de Dados.
@@ -88,27 +72,17 @@ Banco tem diversas definições possíveis no dicionário da língua portuguesa.
 
 Dados são fatos conhecidos que podem ser registrados e possuem um significado implícito. Esse conceito, porém, é um pouco amplo e abstrato para nosso intuito. Quando reduzimos o escopo à tecnologia da informação, temos um conceito mais adequado para dado. Ele é a representação física de um evento no tempo e espaço que não agrega fundamento ou significado para quem o sente ou recebe. É, basicamente, um registro!
 
-MINTO! O banco de dados, por si só, pode ser considerado como o equivalente
-eletrônico de um armário de arquivamento; ou seja, ele é um repositório ou
-recipiente para uma coleção de arquivos de dados computadorizados.
-
-Banco de dados é um conjunto de dados integrados que tem por objetivo
-atender a uma comunidade de usuários - Carlos Heuser.
-
+MINTO! O banco de dados, por si só, pode ser considerado como o equivalente eletrônico de um armário de arquivamento; ou seja, ele é um repositório ou recipiente para uma coleção de arquivos de dados computadorizados.
+Banco de dados é um conjunto de dados integrados que tem por objetivo atender a uma comunidade de usuários - Carlos Heuser.
 Banco de dados é um conjunto de dados estruturados que são confiáveis,
-coerentes e compartilhados por usuários que têm necessidades de informações
-diferentes. - Sílberchatz
-
+coerentes e compartilhados por usuários que têm necessidades de informações diferentes. - Sílberchatz
 Acho que você já entendeu o conceito de banco de dados! Na lista acima, você conheceu todas as definições que podem aparecer na sua prova.:)
 
 2. Modelo Relacional.
 
 * O modelo relacional retrata os dados como sendo armazenados em tabelas retangulares bidimensionais, chamadas de relações.
 
-Cada linha de uma tabela é conhecida como uma tupla, ou uma coleção de valores
-relacionados. Cada coluna é vista como um atributo, cujo valor pertence um
-determinado conjunto de valores possíveis: o domínio.
-
+Cada linha de uma tabela é conhecida como uma tupla, ou uma coleção de valores relacionados. Cada coluna é vista como um atributo, cujo valor pertence um determinado conjunto de valores possíveis: o domínio.
 Álgebra Relacional.
 
 * É uma coleção de operações de alto nível sobre relações ou conjuntos cujo resultado é uma nova relação ou conjunto.
@@ -149,9 +123,7 @@ Operadores de conjuntos tradicionais.
 
 * União, Interseção, Diferença e Produto cartesiano
 
-* Todos eles um pouco modificados para levar em conta
-o fato de que seus operandos são, especificamente,
-relações e não conjuntos arbitrários.
+* Todos eles um pouco modificados para levar em conta o fato de que seus operandos são, especificamente,relações e não conjuntos arbitrários.
 
 Operadores relacionais especiais.
 
@@ -160,21 +132,10 @@ projeção, junção e divisão.
 
 Primeira forma normal.
 
-* Uma relação R existe na primeira forma normal (1FN) se, e somente se, todos
-os domínios subjacentes contiverem apenas valores atômicos.
-
-* No modelo relacional, um domínio é atômico se os elementos do domínio são
-considerados unidades indivisíveis. Um esquema de relação R está na
-primeira forma normal se todos os atributos de R são atômicos.
-
-* A primeira forma normal afirma que o domínio de um atributo deve incluir
-apenas valores atômicos (simples e indivisíveis) e que o valor de qualquer
-atributo em uma tupla deve ser um único valor do domínio desse atributo.
-
-* A primeira forma normal evita as chamadas relações aninhadas, essas
-relações contêm vários atributos em uma única coluna e não são permitidas
-no modelo relacional.
-
+* Uma relação R existe na primeira forma normal (1FN) se, e somente se, todos os domínios subjacentes contiverem apenas valores atômicos.
+* No modelo relacional, um domínio é atômico se os elementos do domínio são considerados unidades indivisíveis. Um esquema de relação R está na primeira forma normal se todos os atributos de R são atômicos.
+* A primeira forma normal afirma que o domínio de um atributo deve incluir apenas valores atômicos (simples e indivisíveis) e que o valor de qualquer atributo em uma tupla deve ser um único valor do domínio desse atributo.
+* A primeira forma normal evita as chamadas relações aninhadas, essas relações contêm vários atributos em uma única coluna e não são permitidas no modelo relacional.
 Resumindo as Formas Normais.
 
 O que é necessário na primeira forma normal dos bancos de dados?
@@ -334,13 +295,8 @@ Uma instância do PostgreSQL é chamada de cluster porque uma única instância 
 
 O PostgreSQL divide os usuários em duas categorias principais:
 
-* Usuários normais: esses usuários são aqueles que podem se
-conectar e manipular bancos de dados e objetos, dependendo de seu
-conjunto de privilégios
-
-* Superusuários: Esses usuários podem fazer qualquer coisa com
-qualquer objeto de banco de dados.
-
+* Usuários normais: esses usuários são aqueles que podem se conectar e manipular bancos de dados e objetos, dependendo de seu conjunto de privilégios
+* Superusuários: Esses usuários podem fazer qualquer coisa com qualquer objeto de banco de dados.
 Esta é uma rápida recapitulação dos principais termos usados no PostgreSQL:
 
 * Cluster: refere-se a todo o serviço PostgreSQL.
@@ -385,26 +341,11 @@ Descrição das Autenticações.
 
 4. md5. Exige que o cliente forneça uma senha MD5 para autenticação.
 
-5. password. Exige que o cliente forneça uma senha não criptografada para
-autenticação. Uma vez que a senha é enviada em texto simples
-através da rede, não deve ser usado em redes não confiáveis.
-
-6. gss. Usa GSSAPI para autenticar o usuário. Este método só está
-disponível para conexões TCP/IP.
-
-7. sspi. Usa SSPI para autenticar o usuário. O método só está disponível
-no Windows.
-
-8. ident. Obtém o nome do usuário do sistema operacional do cliente
-entrando em contato com o servidor e verifica se ele corresponde
-ao nome do usuário do banco de dados. A autenticação ident só
-pode ser utilizada em conexões TCP/IP. Quando especificado para
-conexões locais, peer authentication será utilizado em seu lugar.
-
-9. peer. Obtém o nome de usuário do sistema operacional do cliente e
-verifica se ele corresponde ao nome do usuário solicitado do banco
-de dados. Isto só está disponível para conexões locais.
-
+5. password. Exige que o cliente forneça uma senha não criptografada para autenticação. Uma vez que a senha é enviada em texto simples através da rede, não deve ser usado em redes não confiáveis.
+6. gss. Usa GSSAPI para autenticar o usuário. Este método só está disponível para conexões TCP/IP.
+7. sspi. Usa SSPI para autenticar o usuário. O método só está disponível no Windows.
+8. ident. Obtém o nome do usuário do sistema operacional do cliente entrando em contato com o servidor e verifica se ele corresponde ao nome do usuário do banco de dados. A autenticação ident só pode ser utilizada em conexões TCP/IP. Quando especificado para conexões locais, peer authentication será utilizado em seu lugar.
+9. peer. Obtém o nome de usuário do sistema operacional do cliente e verifica se ele corresponde ao nome do usuário solicitado do banco de dados. Isto só está disponível para conexões locais.
 10. ldap. Autentica o cliente usando um servidor LDAP.
 
 11. radius. Autentica usando um servidor RADIUS.

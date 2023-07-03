@@ -88,9 +88,7 @@ R é uma linguagem de programação amplamente utilizada para análise de dados 
 - `anova()`: Realiza uma análise de variância (ANOVA).
 - `predict()`: Faz previsões com base em um modelo ajustado.
 
-Essas são apenas algumas das principais funções do R para análise de dados. A linguagem R oferece uma ampla gama de pacotes e funções adicionais para análise exploratória de dados, visualização, modelagem estatística e muito mais. Você pode explorar a documentação oficial do R e de
-seus pacotes para obter mais informações sobre as funções disponíveis e suas opções de uso.
-
+Essas são apenas algumas das principais funções do R para análise de dados. A linguagem R oferece uma ampla gama de pacotes e funções adicionais para análise exploratória de dados, visualização, modelagem estatística e muito mais. Você pode explorar a documentação oficial do R e de seus pacotes para obter mais informações sobre as funções disponíveis e suas opções de uso.
 # Análise de dados - R - Principais pacotes.
 
 A análise de dados em R envolve uma variedade de técnicas e pacotes que são amplamente utilizados na comunidade de análise de dados. Aqui estão algumas das principais áreas e pacotes relevantes para a análise de dados em R:
@@ -117,7 +115,5 @@ A análise de dados em R envolve uma variedade de técnicas e pacotes que são a
 
 5. Text Mining:
 - Pacote `tm`: Fornece recursos para pré-processamento e análise de texto, incluindo limpeza de texto, criação de corpus, vetorização de texto e mineração de texto básica.
-- Pacote `tidytext`: Integra as funcionalidades do pacote `dplyr` com a análise de texto, permitindo a manipulação e análise de dados textuais de maneira semel
-hante à manipulação de dados estruturados.
-
+- Pacote `tidytext`: Integra as funcionalidades do pacote `dplyr` com a análise de texto, permitindo a manipulação e análise de dados textuais de maneira semel hante à manipulação de dados estruturados.
 Essas são apenas algumas das áreas e pacotes mais comumente usados na análise de dados em R. R possui uma grande comunidade de desenvolvedores e usuários, o que resulta em uma ampla variedade de pacotes disponíveis para praticamente qualquer tarefa relacionada à análise de dados.

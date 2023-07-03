@@ -18,32 +18,11 @@ NoçõES INICIAIS
 
 Pessoal,
 
-Daremos início a um dos pontos mais cobrados nas provas de concurso: a Sintaxe. Não
-só pela complexidade,
-mas pela grandiosidade que ela representa em nossa língua
+Daremos início a um dos pontos mais cobrados nas provas de concurso: a Sintaxe. Não só pela complexidade,mas pela grandiosidade que ela representa em nossa língua
 
-Assim, tenha em mente que sintaxe é a área responsável por estudar a organização da
-língua, a conexão
-entre as partes da frase.
-
-Muitos confundem classe gramatical (morfologia) com a função sintática que
-determinada palavra pode
-exercer: um substantivo (classe morfológica), por exemplo, pode exercer a função
-sintática de sujeito ou de
-objeto direto. Portanto, devemos sempre estar atentos ao tipo de análise pedido na
-questão (é uma análise
-morfológica? sintática?).
-
-Nesta aula, vamos focar naquelas funções sintáticas que sua banca mais gosta de
-explorar. A aula é bem
-extensa, mas é completa e traz muitas questões comentadas (muitas mesmo), porque teoria
-resumida sem
-prática apenas perpetua essa sensação de que "sintaxe é muito difícil". Optamos também
-por não partir a
-aula porque todos os assuntos são interligados (sintaxe, orações, funções do QUE e SE)
-e o entendimento é
-melhor se vistos como uma unidade.
-
+Assim, tenha em mente que sintaxe é a área responsável por estudar a organização da língua, a conexão entre as partes da frase.
+Muitos confundem classe gramatical (morfologia) com a função sintática que determinada palavra pode exercer: um substantivo (classe morfológica), por exemplo, pode exercer a função sintática de sujeito ou de objeto direto. Portanto, devemos sempre estar atentos ao tipo de análise pedido na questão (é uma análise morfológica? sintática?).
+Nesta aula, vamos focar naquelas funções sintáticas que sua banca mais gosta de explorar. A aula é bem extensa, mas é completa e traz muitas questões comentadas (muitas mesmo), porque teoria resumida sem prática apenas perpetua essa sensação de que "sintaxe é muito difícil". Optamos também por não partir a aula porque todos os assuntos são interligados (sintaxe, orações, funções do QUE e SE)e o entendimento é melhor se vistos como uma unidade.
 Vamos nos divertir?!
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
@@ -58,53 +37,21 @@ Eu comprei uma bicicleta semana passada
 Nós gostamos de comer em rodízios
 Chamamos também essa sequência de "estrutura de base" da oração.
 
-Para começar, apresentamos o exemplo acima, que é uma oração na ordem
-direta (SuVeCa), pois
-é mais fácil perceber os componentes da frase (sujeito, verbo,
-complemento e adjuntos) nessa
-ordem. Todavia, devo alertá-lo de que, na prática, esses termos são
-comumente invertidos e
-entre eles são intercaladas outras estruturas, de modo que, muitas
-vezes, teremos dificuldade de
-encontrar cada elemento desses. Deixo aqui a dica para o estudo de toda a
-língua portuguesa:
-ache o verbo, tente colocar a sentença na ordem direta e procurar o
-sujeito de cada verbo. Na
-análise sintática e na pontuação, essa dica salva vidas!
-
+Para começar, apresentamos o exemplo acima, que é uma oração na ordem direta (SuVeCa), pois é mais fácil perceber os componentes da frase (sujeito, verbo,complemento e adjuntos) nessa ordem. Todavia, devo alertá-lo de que, na prática, esses termos são comumente invertidos e entre eles são intercaladas outras estruturas, de modo que, muitas vezes, teremos dificuldade de encontrar cada elemento desses. Deixo aqui a dica para o estudo de toda a língua portuguesa:ache o verbo, tente colocar a sentença na ordem direta e procurar o sujeito de cada verbo. Na análise sintática e na pontuação, essa dica salva vidas!
 Termos da Oração
 
-Uma oração é simplesmente uma frase que tem verbo! As funções
-sintáticas também podem
-aparecer em forma de oração (ou seja, com um verbo, o que chamamos de
-estrutura oracional),
-mas a análise que faremos será a mesma. Então, um adjetivo que
-desempenha função de adjunto
-adnominal pode aparecer na forma de uma oração adjetiva. Veja:
-
+Uma oração é simplesmente uma frase que tem verbo! As funções sintáticas também podem aparecer em forma de oração (ou seja, com um verbo, o que chamamos de estrutura oracional),mas a análise que faremos será a mesma. Então, um adjetivo que desempenha função de adjunto adnominal pode aparecer na forma de uma oração adjetiva. Veja:
 Ex: O menino estudioso passa (adjetivo) / O mènmo que Estuda passa (oração adjetiva)
 
 Um adjunto adverbial pode aparecer na forma de uma oração adverbial.
 
-Ex: Estudo no meu tempo livre (adjunto adverbial) / Estudo quando
-tenho tempo livre
-
+Ex: Estudo no meu tempo livre (adjunto adverbial) / Estudo quando tenho tempo livre
 (adjunto adverbial oracional / oração adverbial)
 
 Um complemento, por exemplo, pode aparecer na forma de oração:
 
-Ex: Anunciei a chegada do circo (objeto direto) / Anunciei que o
-circo chegaria (objeto
-direto oracional)
-
-Por isso, quando falarmos das funções, vamos mencionar também
-suas principais formas,
-inclusive a forma oracional. Fique tranquilo caso não esteja familiarizado: a
-partir de agora, vamos
-ver em detalhes cada uma das principais funções sintáticas que os termos de
-uma oração podem
-assumir.
-
+Ex: Anunciei a chegada do circo (objeto direto) / Anunciei que o circo chegaria (objeto direto oracional)
+Por isso, quando falarmos das funções, vamos mencionar também suas principais formas,inclusive a forma oracional. Fique tranquilo caso não esteja familiarizado: a partir de agora, vamos ver em detalhes cada uma das principais funções sintáticas que os termos de uma oração podem assumir.
 Sujeito e Predicado
 
 Semanticamente, o sujeito é a entidade sobre a qual se declara algo na oração. O predicado é,
@@ -113,17 +60,9 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 geralmente, a declaração feita a respeito do sujeito.
 
-Sintaticamente, ele é um termo essencial da oração, com o qual o
-verbo geralmente concorda.
-Então, em uma "regra prática", o sujeito é o termo que "conjuga" o verbo,
-justifica o verbo estar
-na primeira pessoa, no singular, no plural etc.
-
-O sujeito tem um núcleo, que é o termo central, mais
-importante. Normalmente é um
-substantivo ou pronome. Termos substantivados também podem ocupar essa
-posição de núcleo
-(numerais, verbo no infinitivo...). Esse núcleo recebe termos que o
+Sintaticamente, ele é um termo essencial da oração, com o qual o verbo geralmente concorda.Então, em uma "regra prática", o sujeito é o termo que "conjuga" o verbo,
+justifica o verbo estar na primeira pessoa, no singular, no plural etc.
+O sujeito tem um núcleo, que é o termo central, mais importante. Normalmente é um substantivo ou pronome. Termos substantivados também podem ocupar essa posição de núcleo(numerais, verbo no infinitivo...). Esse núcleo recebe termos que o
 "especificam", "delimitam":
 são os chamados determinantes (artigos, numerais, pronomes, adjetivos,
 locuções adjetivas...).
@@ -131,83 +70,36 @@ Vamos ver melhor tais análises nos exemplos.
 
 Nas sentenças abaixo, o sujeito está sublinhado e seu núcleo está em negrito. Vejamos:
 
-Ex: Douglas é um gênio sem diploma, {sujeito simples, há apenas
-um núcleo, um
-substantivo)
-
+Ex: Douglas é um gênio sem diploma, {sujeito simples, há apenas um núcleo, um substantivo)
 Ex: Mudaram as estacões, [sujeito simples, há apenas um núcleo
-"estações"; observe que
-o sujeito está invertido, isto é, posposto ao verbo/ depois do verbo)
+"estações"; observe que o sujeito está invertido, isto é, posposto ao verbo/ depois do verbo)
+Ex: Silvério e Everton são muquiranas generosos, [sujeito composto, há mais de um núcleo, há dois substantivos)
+Ex: Nós somos capazes de tudo, se trabalharmos, [sujeito simples, há apenas um núcleo,um pronome pessoal reto)
 
-Ex: Silvério e Everton são muquiranas generosos, [sujeito composto, há
-mais de um
-núcleo, há dois substantivos)
-
-Ex: Nós somos capazes de tudo, se trabalharmos, [sujeito simples, há apenas
-um núcleo,
-um pronome pessoal reto)
-
-Ex: Dois cães ferozes brigaram na padaria, [sujeito simples, há
-apenas um núcleo, o
-substantivo 'cães', que tem, por sua vez, dois determinantes: o numeral
-"dois" e o adjetivo
+Ex: Dois cães ferozes brigaram na padaria, [sujeito simples, há apenas um núcleo, o substantivo 'cães', que tem, por sua vez, dois determinantes: o numeral"dois" e o adjetivo
 "ferozes")
 
-Ex: Duas de suas amigas foram aprovadas, [sujeito simples, há apenas
-um núcleo, o
-numeral "duas", que recebeu o determinante "de suas amigas", locução adjetiva)
-
+Ex: Duas de suas amigas foram aprovadas, [sujeito simples, há apenas um núcleo, o numeral "duas", que recebeu o determinante "de suas amigas", locução adjetiva)
 Ex: O descansar deve ser prioridade para a manutenção da saúde
-[sujeito simples, há
-apenas um núcleo: o verbo descansar foi substantivado com a colocação
-do artigo "o".
-Portanto, aqui não atua como verbo, e sim como substantivo)
+[sujeito simples, há apenas um núcleo: o verbo descansar foi substantivado com a colocação do artigo "o".Portanto, aqui não atua como verbo, e sim como substantivo)
 
-Ex: Estudar diariamente demanda dedicação, [sujeito simples, tem apenas
-um núcleo, o
-verbo "estudar", esse é o famoso sujeito oracional)
-
-Observe que, como regra, o verbo se flexiona para concordar em número e
-pessoa com o núdeo
-do sujeito.
-
-O restante da sentença foi a 'declaração' feita sobre o sujeito, o
-que chamamos de predicado.
-Aliás, essa palavra "predicado" significa exatamente isto:
+Ex: Estudar diariamente demanda dedicação, [sujeito simples, tem apenas um núcleo, o verbo "estudar", esse é o famoso sujeito oracional)
+Observe que, como regra, o verbo se flexiona para concordar em número e pessoa com o núdeo do sujeito.
+O restante da sentença foi a 'declaração' feita sobre o sujeito, o que chamamos de predicado.Aliás, essa palavra "predicado" significa exatamente isto:
 característica atribuída a um ser:
 atributo, propriedade.
 
 Aprofundaremos essas análises mais a frente, no estudo de cada função sintática.
 Voltando ao sujeito, faço um alerta quanto à identificação desse termo:
 
-Em situação de prova, podemos encontrar um sujeito muito
-extenso, carregado de
-determinantes longos, orações adjetivas, termos intercalados. Então, é
-importante localizar o
-"núcleo" para então conferir a concordância:
+Em situação de prova, podemos encontrar um sujeito muito extenso, carregado de determinantes longos, orações adjetivas, termos intercalados. Então, é importante localizar o"núcleo" para então conferir a concordância:
 
-Ex: Aquelas dezenove discutíveis leis sobre as quais paira, segundo
-melhor juízo do
-operador do direito, suspeita de inconstitucionalidade superveniente
-supostamente — se tudo
-der certo — serão votadas hoje.
-
+Ex: Aquelas dezenove discutíveis leis sobre as quais paira, segundo melhor juízo do operador do direito, suspeita de inconstitucionalidade superveniente supostamente — se tudo der certo — serão votadas hoje.
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-Se retirarmos a "gordura" e localizarmos o núcleo desse enorme
-sujeito, teremos somente: leis
-serão votadas.
-
-Ex: Aquelas dezenove discutíveis leis sobre as quais paira, segundo
-meihor juízo do
-operador do direito, suspeita de inconstitucionaiidade superveniente
-supostamente — se tudo
-der certo — serão votadas hoje.
-
-Então, uma boa análise sintática de período começa peio verbo, pois
-ele indicará o número e
-pessoa do sujeito e também sua identidade: o que será votado? As leis.
-
+Se retirarmos a "gordura" e localizarmos o núcleo desse enorme sujeito, teremos somente: leis serão votadas.
+Ex: Aquelas dezenove discutíveis leis sobre as quais paira, segundo meihor juízo do operador do direito, suspeita de inconstitucionaiidade superveniente supostamente — se tudo der certo — serão votadas hoje.
+Então, uma boa análise sintática de período começa peio verbo, pois ele indicará o número e pessoa do sujeito e também sua identidade: o que será votado? As leis.
 Resumindo: para fazer a análise sintática de um período.
 
 1) Localize o verbo.
@@ -216,81 +108,48 @@ Resumindo: para fazer a análise sintática de um período.
 e o número do verbo
 (singular/plural).
 
-3) Localize o sujeito (geralmente, o "quem" do verbo e que com ele
-concorda em pessoa
-e número).
-
-Passaremos agora ao estudo do sujeito e suas diversas formas e
-classificações. Esse termo é
-essencial, pois é a função sintática mais cobrada.
-
+3) Localize o sujeito (geralmente, o "quem" do verbo e que com ele concorda em pessoa e número).
+Passaremos agora ao estudo do sujeito e suas diversas formas e classificações. Esse termo é essencial, pois é a função sintática mais cobrada.
 Sujeito Determinado
 
-O sujeito determinado é aquele que está identificado, visível no
-texto, sabemos exatamente
-quem está praticando (ou recebendo) a ação verbal. Ele pode tomar diversas formas:
-
+O sujeito determinado é aquele que está identificado, visível no texto, sabemos exatamente quem está praticando (ou recebendo) a ação verbal. Ele pode tomar diversas formas:
 Ex; Eia fuma, (sujeito simples, um núcleo)
 
 Ex: João e Maria fumam, (sujeito composto, mais de um núcleo)
 
-O sujeito pode aparecer também na forma de uma oração, isto é, o sujeito
-vai ser uma estrutura
-com verbo:
-
+O sujeito pode aparecer também na forma de uma oração, isto é, o sujeito vai ser uma estrutura com verbo:
 Ex: Exportar mais é preciso, (sujeito oracional do verbo "ser" ("é"),
 "exportar mais". O
-núcleo desse sujeito é o verbo no infinitivo "exportar". Quando o sujeito é
-oracional, o verbo fica
-no singular: [ISTO] é preciso.
-
+núcleo desse sujeito é o verbo no infinitivo "exportar". Quando o sujeito é oracional, o verbo fica no singular: [ISTO] é preciso.
 IMPORTANTE: nesse último exemplo, temos, então, dois verbos e duas orações.
 
 Precisamos relembrar aqui o "sujeito passivo", aquele que "sofre" a ação, em vez de praticá-la.
 
-Ex: [João] foi raptado por estudantes barbudos. ("João" é sujeito, mas não
-pratica a ação,
-ele sofre a ação de ser raptado.)
+Ex: [João] foi raptado por estudantes barbudos. ("João" é sujeito, mas não pratica a ação,ele sofre a ação de ser raptado.)
 
 Ex: Admite-se [que o Estado não pode ajudar.]
 [que o Estado não pode ajudar] admite-se/é admitido
 [ISTO] admite-se/é admitido
 
 Observe que nessa oração acima, temos voz passiva sintética (VTD+SEL
-então o sujeito é
-oracional E paciente.
-
+então o sujeito é oracional E paciente.
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 Pronome oblíquo como sujeito???
 
-Em regra, pronomes oblíquos têm função de complemento; contudo, destaco
-que há um caso
-especial em que o pronome oblíquo átono (o, a, os, as) pode desempenhar
-função sintática de
-sujeito. Isso ocorre quando tais pronomes ocorrem dentro de um objeto
-direto oracional dos
-verbos causativos (deixar, mandar, fazer) e sensitivos (ver, ouvir, sentir). Vamos entender:
-
+Em regra, pronomes oblíquos têm função de complemento; contudo, destaco que há um caso especial em que o pronome oblíquo átono (o, a, os, as) pode desempenhar função sintática de sujeito. Isso ocorre quando tais pronomes ocorrem dentro de um objeto direto oracional dos verbos causativos (deixar, mandar, fazer) e sensitivos (ver, ouvir, sentir). Vamos entender:
 Ex: Eu mandei o menino sair.
 
 Eu mandei o quê? Mandar pede um complemento. Esse complemento
 (objeto direto) de
-"mandei" é a oração: "o menino sair", que está numa forma de
-oração reduzida de infinitivo,
-equivalente à forma desenvolvida: "mandei que o menino saísse". Agora,
+"mandei" é a oração: "o menino sair", que está numa forma de oração reduzida de infinitivo,equivalente à forma desenvolvida: "mandei que o menino saísse". Agora,
 dentro dessa oração,
 quem sai? É o menino; então: "o menino" é sujeito de "sair".
 
 Agora vamos trocar "o menino" por um pronome oblíquo átono:
 Ex: Eu mandei o menino sair. >> Ex: Mandei-o sair.
 
-Pronto, nesse caso, temos que este "o" é o sujeito de "sair". Basta
-pensar que se a oração fosse
-desenvolvida, "o menino" seria sujeito. Como o pronome o substitui,
-ele terá a mesma função
-sintática.
-
+Pronto, nesse caso, temos que este "o" é o sujeito de "sair". Basta pensar que se a oração fosse desenvolvida, "o menino" seria sujeito. Como o pronome o substitui,ele terá a mesma função sintática.
 Detalhe, não podemos trocar o pronome "o" por outro:
 
 ✓ Mandei-o sair
@@ -299,16 +158,11 @@ Detalhe, não podemos trocar o pronome "o" por outro:
 
 Esse é o raciocínio detalhado, para você entender. Para efeito de prova, grave:
 
-Com os verbos Deixar, Fazer, Mandar, Ver, Ouvir, Sentir, o pronome
-oblíquo pode ser sujeito,
-como nas sentenças abaixo:
+Com os verbos Deixar, Fazer, Mandar, Ver, Ouvir, Sentir, o pronome oblíquo pode ser sujeito,como nas sentenças abaixo:
 
 Ex: Deixe-me estudar/ Não se deixe aborrecer/ Ela o fez desistir/Mandei-a ir embora.
 
-Outro detalhe importante, como temos duas orações e, em uma delas, o
-sujeito é o pronome, as
-formas deixe aborrecer, fez desistir, mandei ir etc. NÃO SÃO LOCUÇÕES
-VERBAIS, MAS DUAS
+Outro detalhe importante, como temos duas orações e, em uma delas, o sujeito é o pronome, as formas deixe aborrecer, fez desistir, mandei ir etc. NÃO SÃO LOCUÇÕESVERBAIS, MAS DUAS
 ORAÇÕES EM UM PERÍODO COMPOSTO.
 
 PROVA!
@@ -324,9 +178,7 @@ I
 
 I
 
-:Em Seria indelicado insistir na recusa. (11° parágrafo), a expressão
-sublinhada exerce a mesma:
-
+:Em Seria indelicado insistir na recusa. (11° parágrafo), a expressão sublinhada exerce a mesma:
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 ifunção sintática do termo sublinhado em
@@ -382,30 +234,21 @@ I
 
 I
 
-:A liderança é uma questão de redução da incerteza do grupo, e o
-comportamento pelo qual se
-iconsegue essa redução é a escolha, a tomada de decisão.
-
+:A liderança é uma questão de redução da incerteza do grupo, e o comportamento pelo qual se iconsegue essa redução é a escolha, a tomada de decisão.
 I
 
 :No período "A liderança (...) tomada de decisão", a expressão "A liderança"
-exerce a função de
-isujeito da forma verbal "é" em suas duas ocorrências.
-
+exerce a função de isujeito da forma verbal "é" em suas duas ocorrências.
 iComentários:
 
 I
 
 I
 
-Primeiro: marcamos o verbo> "é". Após perguntarmos "Quem/O que É", saberemos quem é o
-isujeito, que segue sublinhado nas frases abaixo, com seu "núcleo" destacado.
-
+Primeiro: marcamos o verbo> "é". Após perguntarmos "Quem/O que É", saberemos quem é o isujeito, que segue sublinhado nas frases abaixo, com seu "núcleo" destacado.
 I
 
-A liderança é uma questão de redução da incerteza do grupo
-o comportamento pelo qual se consegue essa redução é a escolha
-
+A liderança é uma questão de redução da incerteza do grupo o comportamento pelo qual se consegue essa redução é a escolha
 A liderança só é sujeito do "é" na primeira sentença. Questão incorreta.
 
 I
@@ -419,10 +262,7 @@ I
 
 I
 
-:No período "A necessidade de guardar as moedas em segurança fez
-surgirem os bancos", do
-itexto 1A1-II, o termo "os bancos" funciona como
-
+:No período "A necessidade de guardar as moedas em segurança fez surgirem os bancos", do itexto 1A1-II, o termo "os bancos" funciona como
 I
 
 íA) complemento de "fez".
@@ -455,20 +295,10 @@ I
 
 I
 
-:Os direitos humanos são fundados no respeito pela dignidade e no valor de
-cada pessoa. São:
-luniversais, ou seja, são aplicados de forma igual e sem discriminação a
-todas as pessoas. São:
-linalienáveis — e ninguém pode ser privado de seus direitos humanos
+:Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. São:luniversais, ou seja, são aplicados de forma igual e sem discriminação a todas as pessoas. São:linalienáveis — e ninguém pode ser privado de seus direitos humanos
 —, mas podem ser:
-ilimitados em situações específicas: o direito à liberdade pode ser
-restringido se, após o devido:
-processo legal, uma pessoa for julgada culpada de um crime punível com
-privação de liberdade. :
-
-:No texto, o sujeito da locução "podem ser limitados", que está oculto, é
-indicado pelo termo
-
+ilimitados em situações específicas: o direito à liberdade pode ser restringido se, após o devido:processo legal, uma pessoa for julgada culpada de um crime punível com privação de liberdade. :
+:No texto, o sujeito da locução "podem ser limitados", que está oculto, é indicado pelo termo
 I
 
 I
@@ -532,49 +362,25 @@ I
 
 Sujeito Oculto / Elíptico / Desinencial
 
-O sujeito oculto é determinado, pois podemos identificá-lo
-facilmente pelo contexto ou pela
-terminação do verbo (desinência).
-
+O sujeito oculto é determinado, pois podemos identificá-lo facilmente pelo contexto ou pela terminação do verbo (desinência).
 Ex: Encontramos mamae. (sujeito oculto/elíptico/desinencial [-mos>nós])
 
-No exemplo acima, sabemos que o sujeito é "nós", mesmo que a
-palavra "nós" não esteja
-escrita, expressa na oração.
-
+No exemplo acima, sabemos que o sujeito é "nós", mesmo que a palavra "nós" não esteja escrita, expressa na oração.
 Ex: É preciso ter cuidado com as plantas. Sem dedicação, não crescem.
 
-Da mesma forma, na oração em que ocorre o verbo "crescem" não
-há um sujeito expresso.
-Contudo, sabemos, pelo contexto, que o sujeito é "plantas": sem
-dedicação, "as plantas" não
-crescem.
-
+Da mesma forma, na oração em que ocorre o verbo "crescem" não há um sujeito expresso.Contudo, sabemos, pelo contexto, que o sujeito é "plantas": sem dedicação, "as plantas" não crescem.
 Ex: Consultei meus advogados. Disseram que sou culpado.
 
-O sujeito da primeira oração é oculto ("Eu" consultei). Observe que a
-oração "disseram que sou
-culpado" também não traz um sujeito expresso, mas sabemos que
-o sujeito é "meus
-
+O sujeito da primeira oração é oculto ("Eu" consultei). Observe que a oração "disseram que sou culpado" também não traz um sujeito expresso, mas sabemos que o sujeito é "meus
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 advogados", pelo contexto.
 
 Sujeito Indeterminado
 
-Contrariamente ao sujeito determinado, o sujeito indeterminado é
-aquele que não se pode
-identificar no período. Não sabemos exatamente quem é o sujeito e
-não conseguimos inferir do
-contexto.
-
+Contrariamente ao sujeito determinado, o sujeito indeterminado é aquele que não se pode identificar no período. Não sabemos exatamente quem é o sujeito e não conseguimos inferir do contexto.
 A indeterminação do sujeito pode ocorrer pelo uso de um verbo na
-3a pessoa do plural, com
-omissão do agente que pratica a ação verbaf. esse é o sujeito favorito
-dos fofoqueiros (risos), veja
-só:
-
+3a pessoa do plural, com omissão do agente que pratica a ação verbaf. esse é o sujeito favorito dos fofoqueiros (risos), veja só:
 Ex: Hoje me contaram que você joga futebol muito mal. {quem contou?}
 
 Ex: Dizem que ela teve um caso com o chefe, {quem diz?}
@@ -586,37 +392,20 @@ MKSTCMMS
 ATENÇAO!
 
 OBS: não confunda sujeito "indeterminado" com sujeito "desinencial"! O
-sujeito
-oculto ou desinencial é determinado, pois, mesmo que não esteja escrito ou
-dito
-na oração, ele pode ser identificado pela terminação do verbo ou pelo
-contexto.
-Com o sujeito indeterminado, isso não acontece, pois o contexto não é
-suficiente
-para determinar quem praticou a ação verbal, ou seja, quem é o sujeito.
-
+sujeito oculto ou desinencial é determinado, pois, mesmo que não esteja escrito ou dito na oração, ele pode ser identificado pela terminação do verbo ou pelo contexto.Com o sujeito indeterminado, isso não acontece, pois o contexto não é suficiente para determinar quem praticou a ação verbal, ou seja, quem é o sujeito.
 Ex: Aque/e banco faliu. Roubaram mais de 20 milhões.
 
 Observe que não está claro quem roubou. Aqui, o sujeito está "indeterminado".
 
 Ex: Os ladrões foram presos ontem. Roubaram mais de 20 milhões.
 
-Agora, observe que neste caso o sujeito está oculto, porque não aparece
-escrito
-na oração. Contudo, sabemos quem é o sujeito que praticou a ação de
-roubar 20
-milhões, pela desinência e pelo contexto: o sujeito de "Roubaram" é
-o mesmo
-da oração anterior: "ladrões". Certo?!
-
+Agora, observe que neste caso o sujeito está oculto, porque não aparece escrito na oração. Contudo, sabemos quem é o sujeito que praticou a ação de roubar 20milhões, pela desinência e pelo contexto: o sujeito de "Roubaram" é o mesmo da oração anterior: "ladrões". Certo?!
 Indeterminação do sujeito pelo uso da PIS:
 
 O sujeito também pode ser indeterminado pelo uso da estrutura: VTI/ VI/ VL+SE
 
 Verbos transitivos indiretos, intransitivos e de ligação + SE
-{partícula de indeterminação do
-sujeito-PIS).
-
+{partícula de indeterminação do sujeito-PIS).
 Ex: Desconfia-se.de que ela seja violenta.
 
 Verbo Trans. Indireto + SE {Quem desconfia? Não se sabe...)
@@ -644,37 +433,17 @@ Verbo Intransitivo + SE {Quem Vive? Não está determinado.)
 Ex: Sempre, se fica nervoso durante um assalto.
 
 Verbo de Ligação + SE (Em geral, todos ficam nervosos durante um assalto,
-temos um
-sujeito indeterminado, um agente universal, genérico, não específico).
-
-Dentro dessa regra, temos uma expressão que simplesmente "DESPENCA" em
-prova: "tratar-se
-de" (VTI+SE). Essa expressão, quando tem sentido de assunto/referência
-ou quando funciona
-como uma espécie de substituto do verbo "ser", é
-sempre invariável, indica sujeito
-indeterminado. Observe os exemplos.
-
+temos um sujeito indeterminado, um agente universal, genérico, não específico).
+Dentro dessa regra, temos uma expressão que simplesmente "DESPENCA" em prova: "tratar-se de" (VTI+SE). Essa expressão, quando tem sentido de assunto/referência ou quando funciona como uma espécie de substituto do verbo "ser", é sempre invariável, indica sujeito indeterminado. Observe os exemplos.
 Ex: Ela recebeu uma herança estranha: trata-se de duas moedas de cobre.
 Ex: Não foi por amor que ela veio. Trata-se de interesse.
 
 Ex: Não se trata de quem é mais inteligente. Trata-se de quem persiste mais.
 
 Lembramos que o sujeito não deve ter preposição ("de", por exemplo)
-no seu início, dessa
-forma a expressão que vem após "tratar-se de" jamais poderá ser um sujeito.
-Além do mais, a
-preposição "de" é, nesse caso, exigida pelo próprio verbo "tratar", o que
-indica que esse é um
-verbo transitivo INDIRETO. Se o termo não é o sujeito, então não vai
-fazer o verbo se flexionar.
-Logo, o verbo fica na terceira pessoa do singular.
+no seu início, dessa forma a expressão que vem após "tratar-se de" jamais poderá ser um sujeito.Além do mais, a preposição "de" é, nesse caso, exigida pelo próprio verbo "tratar", o que indica que esse é um verbo transitivo INDIRETO. Se o termo não é o sujeito, então não vai fazer o verbo se flexionar.Logo, o verbo fica na terceira pessoa do singular.
 
-Por outro lado, se tivermos Verbo Transitivo DIRETO (VTD) + SE, essa
-estrutura vai indicar voz
-passiva pronominal. Abordaremos mais à frente o assunto, mas já adiantamos
-que diante de VTD
-
+Por outro lado, se tivermos Verbo Transitivo DIRETO (VTD) + SE, essa estrutura vai indicar voz passiva pronominal. Abordaremos mais à frente o assunto, mas já adiantamos que diante de VTD
 + SE, o verbo vai se flexionar para concordar com o sujeito (paciente), como na frase abaixo:
 Ex: Vendem-se casas > Casas são vendidas, (sujeito plural, verbo no plural)
 
@@ -683,17 +452,13 @@ HORA IX
 (CGE-CE / CONHEC. BÁSICOS / 2019)
 È
 
-Candeia era quase nada. Não tinha mais que vinte casas mortas, uma
-igrejinha velha, um resto de;
-praça. Algumas construções nem sequer tinham telhado; outras,
+Candeia era quase nada. Não tinha mais que vinte casas mortas, uma igrejinha velha, um resto de;praça. Algumas construções nem sequer tinham telhado; outras,
 invadidas peio mato,:
 incompletas, sem paredes. Nem o ar tinha esperança de ser vento.
 Era custoso acreditar que:
 morasse alguém naquele cemitério de gigantes.
 
-No texto CB1A1-I, o sujeito da oração "Era custoso" (L.3) é
-a) o segmento "acreditar que morasse alguém naquele cemitério de gigantes" (L. 3 e 4).
-
+No texto CB1A1-I, o sujeito da oração "Era custoso" (L.3) é a) o segmento "acreditar que morasse alguém naquele cemitério de gigantes" (L. 3 e 4).
 b) o trecho "alguém naquele cemitério de gigantes" (L. 3 e 4).
 :
 
@@ -713,76 +478,38 @@ Temos caso típico de sujeito oracional:
 
 (STM / ANALISTA/2018)
 
-Trata-se de uma visão revolucionária, já que o convencional era fazer o
-elogio da harmonia e da\
-unidade.
+Trata-se de uma visão revolucionária, já que o convencional era fazer o elogio da harmonia e da\unidade.
 
-Se a expressão "uma visão revolucionária" fosse substituída por ideias
-revolucionárias, seria í
-necessário alterar a forma verbal "Trata-se" para Tratam-se, para se manter
-a correção gramatical:
-do texto.
+Se a expressão "uma visão revolucionária" fosse substituída por ideias revolucionárias, seria í necessário alterar a forma verbal "Trata-se" para Tratam-se, para se manter a correção gramatical:do texto.
 
 Comentários:
 
-"Tratar-se DE" é expressão invariável, que configura sujeito
-indeterminado "Verbo Transitivo :
-Indireto+SE". Logo, o verbo não vai ao plural. Questão incorreta.
+"Tratar-se DE" é expressão invariável, que configura sujeito indeterminado "Verbo Transitivo :Indireto+SE". Logo, o verbo não vai ao plural. Questão incorreta.
 
 Indeterminação do sujeito pelo uso do infinitivo impessoal:
 
-No caso de indeterminação do sujeito pelo uso de um verbo no
-infinitivo, por não haver
-concordância com nenhuma pessoa, a ação verbal é descrita de maneira
-vaga, sem revelar o
-agente que pratica a ação. Veja:
-
-Ex: Praticar esportes regularmente é muito importante, (o agente é
-genérico, indefinido;
-não determinamos quem vai "praticar esportes". O sujeito do
-verbo "praticar" é, portanto,
-indeterminado. Já o sujeito do verbo "ser" ("é") vai ser a oração sublinhada.)
+No caso de indeterminação do sujeito pelo uso de um verbo no infinitivo, por não haver concordância com nenhuma pessoa, a ação verbal é descrita de maneira vaga, sem revelar o agente que pratica a ação. Veja:
+Ex: Praticar esportes regularmente é muito importante, (o agente é genérico, indefinido;não determinamos quem vai "praticar esportes". O sujeito do verbo "praticar" é, portanto,indeterminado. Já o sujeito do verbo "ser" ("é") vai ser a oração sublinhada.)
 
 Ex: Instruções: lavar as maos com álcool... (quem lava? Agente genérico)
 
-Se o verbo no infinitivo estiver flexionado, então estará fazendo
-concordância com um sujeito
-visível na sentença. Nesse caso, não há sujeito indeterminado.
-
+Se o verbo no infinitivo estiver flexionado, então estará fazendo concordância com um sujeito visível na sentença. Nesse caso, não há sujeito indeterminado.
 Ex: É necessário passarmos por aquele caminho. (Aqui, a flexão do infinitivo
-"denuncia" o
-sujeito "nós"-, então, nesse caso, temos determinação do agente.)
-
-Registre-se que as técnicas de indeterminação do sujeito são estratégias
-textuais para omitir o
-agente de um verbo, caso não queira ou saiba precisar a "autoria" de uma ação.
-
+"denuncia" o sujeito "nós"-, então, nesse caso, temos determinação do agente.)
+Registre-se que as técnicas de indeterminação do sujeito são estratégias textuais para omitir o agente de um verbo, caso não queira ou saiba precisar a "autoria" de uma ação.
 Sujeito x Referente
 
-Sujeito é uma função sintática, tem a ver com o papel funcional
-e estrutural que um termo
-(substantivo, pronome etc.) desempenha na oração.
+Sujeito é uma função sintática, tem a ver com o papel funcional e estrutural que um termo(substantivo, pronome etc.) desempenha na oração.
 
-Referente é um termo semântico, está relacionado à ideia e ao
-contexto da frase e não
-necessariamente coincide com a função sintática do termo a quem se refere.
-Na maior parte dos
-casos, o sujeito e o referente são iguais. Mas é possível o verbo ter
-um "sujeito" diferente do seu
-"referente". Veja:
+Referente é um termo semântico, está relacionado à ideia e ao contexto da frase e não necessariamente coincide com a função sintática do termo a quem se refere.Na maior parte dos casos, o sujeito e o referente são iguais. Mas é possível o verbo ter um "sujeito" diferente do seu"referente". Veja:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 Ex: Os meninos jogam futebol. Jogam futebol todos os dias.
 
-Na primeira oração, "os meninos" é o sujeito de "jogar" e também o
-referente de jogar, pois são
-os meninos que jogam.
-
+Na primeira oração, "os meninos" é o sujeito de "jogar" e também o referente de jogar, pois são os meninos que jogam.
 Na segunda oração, "os meninos" é apenas o "referente" de "jogar";
-sintaticamente, o sujeito
-está oculto, omitido, elíptico, mas o referente, no mundo das ideias,
-é ainda "os meninos".
+sintaticamente, o sujeito está oculto, omitido, elíptico, mas o referente, no mundo das ideias,é ainda "os meninos".
 Observe o trecho:
 
 [Os meninos] jogam futebol. (Eles = Os meninos) Jogam futebol todos os dias.
@@ -792,26 +519,17 @@ Ex: Vi os meninos que jogam futebol.
 (Agora, na oração sublinhada, "os meninos" continuam sendo o referente,
 pois, semanticamente,
 são os meninos que jogam. Porém, o sujeito sintático é o pronome "que".
-Nesse caso, referente
-e sujeito não coincidem).
-
+Nesse caso, referente e sujeito não coincidem).
 Ex: Uma dezena de^rnédjbos avaliou o candidato.
 
-(Nessa oração, o verbo "avaliou" concorda no singular com o
-núcleo do sujeito "dezena";
-porém, semanticamente, o referente da ação é "médicos", pois são os
-médicos que de fato
-avaliam).
-
+(Nessa oração, o verbo "avaliou" concorda no singular com o núcleo do sujeito "dezena";porém, semanticamente, o referente da ação é "médicos", pois são os médicos que de fato avaliam).
 PROVA!
 
 F(SEDF*7*2O17)
 
 *
 
-: Quando indaguei a alguns escritores de sucesso que manuais de
-estilo tinham consultado
-
+: Quando indaguei a alguns escritores de sucesso que manuais de estilo tinham consultado
 : durante seu aprendizado, a resposta mais comum foi "nenhum".
 Disseram que escrever, para
 
@@ -831,9 +549,7 @@ i Comentários:
 
 t
 
-: Nessa oração "Disseram que escrever, para eles, aconteceu
-naturalmente" o sujeito é oculto, já
-
+: Nessa oração "Disseram que escrever, para eles, aconteceu naturalmente" o sujeito é oculto, já
 : que, embora não conste expresso, isto é, escrito, na oração, podemos recuperá-lo do contexto.
 Questão incorreta.
 
@@ -841,40 +557,28 @@ Questão incorreta.
 
 t
 
-: Um estudo da FGV aponta que 80% dos professores de educação
-infantil têm nível superior
-
-: completo. Os dados correspondem ao ano de 2014 e mostram que a formação
-dos professores
-
+: Um estudo da FGV aponta que 80% dos professores de educação infantil têm nível superior
+: completo. Os dados correspondem ao ano de 2014 e mostram que a formação dos professores
 : das instituições públicas continua melhor.
 
 t
 
-: Acerca dos sentidos e de aspectos linguísticos do texto anteriormente
-apresentado, julgue o item
-
+: Acerca dos sentidos e de aspectos linguísticos do texto anteriormente apresentado, julgue o item
 : que se segue:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-: O sujeito da forma verbal "mostram", que está elíptico, tem como
-referente "Os dados".
-
+: O sujeito da forma verbal "mostram", que está elíptico, tem como referente "Os dados".
 : Comentários:
 
 : Vamos observar que há dois verbos na linha 6.
 :
 
-: [Os dados correspondem ao ano de 2014] e [mostram que a
-formação dos professores das:
-
+: [Os dados correspondem ao ano de 2014] e [mostram que a formação dos professores das:
 : instituições públicas continua melhor...].
 :
 
-: [Os dados correspondem ao ano de 2014] e [(os dados) mostram que a
-formação dos professores :
-
+: [Os dados correspondem ao ano de 2014] e [(os dados) mostram que a formação dos professores :
 : das instituições públicas continua melhor...].
 
 :O primeiro verbo, "correspondem", tem como sujeito "os dados". Já o segundo verbo,:
@@ -896,10 +600,7 @@ Fenômenos da natureza:
 Ex: Choveu ontem.
 Ex: Anoiteceu.
 
-Verbos ser/estar/fazer/haver/parecer impessoais com sentido de fenômenos
-naturais, tempo ou
-estado.
-
+Verbos ser/estar/fazer/haver/parecer impessoais com sentido de fenômenos naturais, tempo ou estado.
 Ex: Faz 2 anos que não vou à praia.
 Ex: Faz frio em Corumbá.
 
@@ -910,30 +611,18 @@ Ex: Parecia cedo demais.
 
 Ex: São 7 horas da manhã, acorde!
 
-OBS: O caso mais cobrado de oração sem sujeito é o uso do
-verbo "haver" impessoal (com
-sentido de "existir", "ocorrer" ou "tempo decorrido")
-
+OBS: O caso mais cobrado de oração sem sujeito é o uso do verbo "haver" impessoal (com sentido de "existir", "ocorrer" ou "tempo decorrido")
 Ex: "Há pessoas ruins no mundo".
 
 Ex: "Houve acidentes graves na avenida".
 Ex: "Há dois anos não fumo".
 
-Na oração "Há pessoas ruins no mundo", o termo "pessoas ruins no
-mundo" é apenas "objeto
-direto" de "haver" (verbo impessoal), por isso não há flexão. O objeto
-direto não faz o verbo se
-flexionar (ir ao plural), isso é papei do sujeito.
-
+Na oração "Há pessoas ruins no mundo", o termo "pessoas ruins no mundo" é apenas "objeto direto" de "haver" (verbo impessoal), por isso não há flexão. O objeto direto não faz o verbo se flexionar (ir ao plural), isso é papei do sujeito.
 Por outro lado, na oração "existem pessoas ruins no mundo", o termo
 "pessoas ruins no mundo"
 é sujeito do verbo "existir" (verbo pessoal, com sujeito), por isso há flexão.
 
-IMPORTANTE: Lembre-se de que o verbo haver impessoal (ou outro
-impessoal que o substitua)
-vem sempre no singular e "contamina" os verbos auxiliares que
-formam locução com ele,
-permanecendo estes também no singular:
+IMPORTANTE: Lembre-se de que o verbo haver impessoal (ou outro impessoal que o substitua)vem sempre no singular e "contamina" os verbos auxiliares que formam locução com ele,permanecendo estes também no singular:
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
@@ -949,14 +638,8 @@ Ex: Existem mil pessoas aqui.
 
 Ex: Devem existir mil pessoas aqui.
 
-Essa lógica é vista na aula de concordância, mas está estritamente
-relacionada ao tipo de verbo e
-à existência ou não do sujeito.
-
-OBS: Orações como "basta/chega de brigas!", "era uma vez uma linda
-princesa" e "dói muito
-nas minhas costas, Doutor" também são classificadas como orações sem sujeito.
-
+Essa lógica é vista na aula de concordância, mas está estritamente relacionada ao tipo de verbo e à existência ou não do sujeito.
+OBS: Orações como "basta/chega de brigas!", "era uma vez uma linda princesa" e "dói muito nas minhas costas, Doutor" também são classificadas como orações sem sujeito.
 ISIAIAINA
 
 PROVA!
@@ -972,9 +655,7 @@ I
 :O termo "dúvida" exerce a função de sujeito na oração em que ocorre.
 iComentários:
 
-:O verbo "haver" é impessoal, não tem sujeito. "Dúvida" exerce função de
-objeto direto do verbo:
-
+:O verbo "haver" é impessoal, não tem sujeito. "Dúvida" exerce função de objeto direto do verbo:
 :"haver".
 :
 
@@ -987,13 +668,9 @@ I
 
 I
 
-'verifica-se a existência de matas e de estradas rurais em condições
-ruins ou onde é necessário o\
-[uso de barcos para chegar à seção eleitoral. É importante lembrar, ainda,
+'verifica-se a existência de matas e de estradas rurais em condições ruins ou onde é necessário o\[uso de barcos para chegar à seção eleitoral. É importante lembrar, ainda,
 que, quando não havia1,
-[a urna eletrônica — facilitadora do voto —, o analfabetismo e os problemas
-de saúde dos idosoê
-'.poderiam comprometer a obtenção de um voto corretamente lançado
+[a urna eletrônica — facilitadora do voto —, o analfabetismo e os problemas de saúde dos idosoê'.poderiam comprometer a obtenção de um voto corretamente lançado
 (escrito a caneta) na',
 [cédula de papel.
 :
@@ -1002,14 +679,10 @@ I
 
 I
 
-'.Quando, na CF, estabeleceu-se o voto obrigatório para maiores de
-dezoito anos e facultativo',
-[para analfabetos...
+'.Quando, na CF, estabeleceu-se o voto obrigatório para maiores de dezoito anos e facultativo',[para analfabetos...
 :
 
-:Os termos "o uso de barcos" e "o voto obrigatório" desempenham a mesma
-função sintática nas:
-iorações em que ocorrem.
+:Os termos "o uso de barcos" e "o voto obrigatório" desempenham a mesma função sintática nas:iorações em que ocorrem.
 :
 
 iComentários:
@@ -1050,35 +723,20 @@ I
 : Sujeito
 :
 
-Ambos os termos em destaque exercem função sintática de sujeito, com
-a distinção de que o:
-isegundo integra uma oração que está na voz passiva. Questão correta.
+Ambos os termos em destaque exercem função sintática de sujeito, com a distinção de que o:isegundo integra uma oração que está na voz passiva. Questão correta.
 :
 
 Objeto Direto (OD)
 
-Alguns verbos não pedem complemento nenhum, pois costumam ter seu
-sentido completo em si
-mesmo. São chamados então de intransitivos:
-
+Alguns verbos não pedem complemento nenhum, pois costumam ter seu sentido completo em si mesmo. São chamados então de intransitivos:
 Ex: Joana corre todos os dias.
 
 Ex: O tempo passa.
 
 Ex: O povo não vive, sobrevive.
 
-Por outro lado, os verbos transitivos são aqueles que exigem um
-complemento. Se o verbo for
-transitivo direto, seu complemento é direto, sem preposição (Vendi
-carros). Se for transitivo
-indireto, seu complemento é indireto, pede uma preposição (Gosto de carros).
-
-O objeto direto é o complemento verbal dos verbos transitivos
-diretos, sem preposição. O verbo
-se liga ao seu objeto diretamente, isto é, "transita" até o
-complemento sem "passar" por uma
-preposição.
-
+Por outro lado, os verbos transitivos são aqueles que exigem um complemento. Se o verbo for transitivo direto, seu complemento é direto, sem preposição (Vendi carros). Se for transitivo indireto, seu complemento é indireto, pede uma preposição (Gosto de carros).
+O objeto direto é o complemento verbal dos verbos transitivos diretos, sem preposição. O verbo se liga ao seu objeto diretamente, isto é, "transita" até o complemento sem "passar" por uma preposição.
 Ex: Comprei bombons na promoção. (Comprou o quê? Comprou bombons.)
 
 Ex: Pedi ajuda logo no início. (Pediu o quê? Pediu ajuda.)
@@ -1089,18 +747,10 @@ Ex: Pedi que me ajudassem logo no início.
 
 (Pediu o quê? Pediu algo. Pediu que o ajudassem. Pediu [ISTO]}
 
-Nesse caso, o objeto direto será uma oração subordinada substantiva
-objetiva direta, ou, em
-termos mais simples, um objeto direto oracional. Não se preocupe com
-esse nome, essas
-orações serão detalhadas adiante nesta aula.
-
+Nesse caso, o objeto direto será uma oração subordinada substantiva objetiva direta, ou, em termos mais simples, um objeto direto oracional. Não se preocupe com esse nome, essas orações serão detalhadas adiante nesta aula.
 Objeto Direto Pleonástico:
 
-"Pleonástico" remete a ideia de "repetido". O OD pleonástico é
-representado por um pronome
-que retoma um objeto direto já existente na oração, com finalidade de ênfase.
-
+"Pleonástico" remete a ideia de "repetido". O OD pleonástico é representado por um pronome que retoma um objeto direto já existente na oração, com finalidade de ênfase.
 Ex: Esta moto. comprei-a_na promoção.
 Ex: Aqueles problemas, já os resolvi.
 
@@ -1108,10 +758,7 @@ Ex: Que você era capaz, eu já o sabia.
 
 Objeto Direto Interno, Intrínseco, Cognato:
 
-São objetos diretos que compartilham o mesmo "campo semântico" do
-verbo. O núcleo do
-objeto vem acompanhado de um determinante.
-
+São objetos diretos que compartilham o mesmo "campo semântico" do verbo. O núcleo do objeto vem acompanhado de um determinante.
 Ex: Eu sempre vivi uma vida de grandes desafios.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
@@ -1122,9 +769,7 @@ Ex: Depois da prova, dormi um sono tranquilo.
 Ex: Choveu aquela chuvinha leve, uma delícia para estudar.
 
 Observe que, em outros contextos, "dormir", "viver", "sangrar"
-e "chover" são verbos
-intransitivos, não pedem nenhum objeto.
-
+e "chover" são verbos intransitivos, não pedem nenhum objeto.
 HORA IX
 
 :(ÍHBDF'/2018)
@@ -1133,15 +778,11 @@ I
 
 I
 
-'.Exatos 35 anos antes de o presidente Fernando Henrique Cardoso
-sancionar a atual Lei de'.
-'.Diretrizes e Bases da Educação Nacional (LDB), em 1996, João
+'.Exatos 35 anos antes de o presidente Fernando Henrique Cardoso sancionar a atual Lei de'.'.Diretrizes e Bases da Educação Nacional (LDB), em 1996, João
 Goulart, então recém-alçado à'.
 '.presidência do país sob o arranjo do parlamentarismo, promulgou a primeira LDB brasileira.
 
-:No texto CG2A1DDD, o termo "a primeira LDB brasileira" exerce a função
-sintática de
-
+:No texto CG2A1DDD, o termo "a primeira LDB brasileira" exerce a função sintática de
 I
 
 I
@@ -1171,9 +812,7 @@ I
 
 I
 
-:No período "Que Demócrito nãorisse, eu o provo", o verbo provar complementa-se
-com uma:
-iestrutura em forma de objetodireto pleonástico, com uma oração servindo de referente para um:
+:No período "Que Demócrito nãorisse, eu o provo", o verbo provar complementa-se com uma:iestrutura em forma de objetodireto pleonástico, com uma oração servindo de referente para um:
 
 pronome.
 :
@@ -1204,9 +843,7 @@ Eu provo [que Demócrito risse (ria)]
 
 Eu provo [isto] > eu o provo
 
-Então, percebemos que o objeto de "provo" está na forma de uma
-oração, e o pronome "o":
-iretoma essa oração, de forma que temos a repetição do objeto.
+Então, percebemos que o objeto de "provo" está na forma de uma oração, e o pronome "o":iretoma essa oração, de forma que temos a repetição do objeto.
 Portanto, temos um objeto:
 ipleonástico. Questão correta.
 :
@@ -1214,9 +851,7 @@ ipleonástico. Questão correta.
 Objeto Indireto
 
 É o complemento verbal dos verbos transitivos indiretos. O
-verbo se liga ao seu objeto
-indiretamente, por meio de uma preposição.
-
+verbo se liga ao seu objeto indiretamente, por meio de uma preposição.
 Ex: Não dependa de ninguém para estudar. {Quem depende, depende de algo/alguém).
 
 Ex: Aludi ao episódio do acidente. {Quem alude, alude A algo/alguém).
@@ -1226,9 +861,7 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 Ex: Concordo com você. {Quem concorda COM algo/alguém).
 
 O objeto indireto também pode ter forma de uma oração
-{oração subordinada substantiva
-objetiva indireta):
-
+{oração subordinada substantiva objetiva indireta):
 Ex: Nenhum gato gosta de que puxem seu rabo, (oração desenvolvida)
 Ex: Não gosto de dormir tarde, (oração reduzida)
 
@@ -1237,18 +870,13 @@ Ex: "Às violetas, não lhes poupei água".
 
 Ex: "Aos meus amigos, dou-lhes tudo que posso."
 
-Os "pronomes" exercem função de objeto indireto pleonástico, pois apenas
-repetem o objeto
-indireto que já estava na sentença.
-
+Os "pronomes" exercem função de objeto indireto pleonástico, pois apenas repetem o objeto indireto que já estava na sentença.
 HORA»
 
 ! (PRER RECIFÊ'/ 2022)''
 II
 
-: O termo sublinhado em a fregueses mais antigos oferece, antes do
-menu, o jornal do dia
-
+: O termo sublinhado em a fregueses mais antigos oferece, antes do menu, o jornal do dia
 : "facilitado" exerce a mesma função sintática do termo sublinhado em:
 
 : (A) O garçom estendeu-lhe o menu e esperou
@@ -1308,15 +936,11 @@ I
 
 I
 
-:... a sageza e prudência de não acreditar cegamente naquilo que supõe
-saber, que daí é que vêm :
-
+:... a sageza e prudência de não acreditar cegamente naquilo que supõe saber, que daí é que vêm :
 : os enganos piores, não da ignorância.
 :
 
-: O vocábulo "daí" e a expressão "da ignorância" exercem a mesma
-função sintática no período:
-
+: O vocábulo "daí" e a expressão "da ignorância" exercem a mesma função sintática no período:
 : em que ocorrem.
 :
 
@@ -1333,37 +957,20 @@ Em ambos os casos temos :
 : objetos indiretos do verbo "vir". Questão correta.
 :
 
-Obs: Verbos como VIR/IR/CHEGAR seguidos de um "lugar
-físico" tradicionalmente são
-classificados como Verbos Intransitivos que podem vir seguidos de
-um adjunto adverbial.
-Contudo, é possível também considerá-los como transitivos indiretos,
-quando o complemento
-não indica exatamente um "lugar físico", destino/origem de um
-movimento. Essa controvérsia
-gramatical, no entanto, não faria diferença nessa questão e nem faz
-em questões de "sujeito
-indeterminado", uma vez que tanto Verbos Intransitivos + SE quanto
-Verbos Transitivos Indiretos
+Obs: Verbos como VIR/IR/CHEGAR seguidos de um "lugar físico" tradicionalmente são classificados como Verbos Intransitivos que podem vir seguidos de um adjunto adverbial.Contudo, é possível também considerá-los como transitivos indiretos,
+quando o complemento não indica exatamente um "lugar físico", destino/origem de um movimento. Essa controvérsia gramatical, no entanto, não faria diferença nessa questão e nem faz em questões de "sujeito indeterminado", uma vez que tanto Verbos Intransitivos + SE quantoVerbos Transitivos Indiretos
 
 + SE vão igualmente indicar que o SE indetermina o sujeito.
 
 Objeto Direto Preposicionado
 
-Há casos na língua em que o verbo não pede preposição, mas ela é
-inserida no complemento
-direto por motivo de clareza, eufonia ou ênfase. Nesse caso, teremos
-um objeto direto, mas
-"preposicionado". Vejamos os casos mais relevantes para os concursos:
+Há casos na língua em que o verbo não pede preposição, mas ela é inserida no complemento direto por motivo de clareza, eufonia ou ênfase. Nesse caso, teremos um objeto direto, mas"preposicionado". Vejamos os casos mais relevantes para os concursos:
 
 Principais casos:
 
 ✓ Quando o objeto direto for um pronome oblíquo tônico ou "quem":
 
-Ex: Vendemos a nós mesmos, ("vender" é VTD, mas o complemento "nós" é um
-pronome
-oblíquo tônico; nesse caso, a preposição "a", é obrigatória)
-
+Ex: Vendemos a nós mesmos, ("vender" é VTD, mas o complemento "nós" é um pronome oblíquo tônico; nesse caso, a preposição "a", é obrigatória)
 Ex: "Nem ele entende a nós, nem nós a ele" ("entender" é VTD)
 
 Ex: Encontrou o funcionário a quem tinha demitido, ("demitir" é VTD,
@@ -1373,19 +980,12 @@ mas o complemento
 ✓ Quando o objeto direto for verbo no infinitivo, com os verbos "ensinar" e "aprender":
 
 Ex: Meu irmão tentou me ensinar a surfar, mas nem aprendi a nadar.
-("Surfar" é objeto
-direto de "ensinar"; "nadar" é o objeto direto do verbo "aprendi"
-e, por estar no infinitivo, a
-preposição "a" também é obrigatória).
-
+("Surfar" é objeto direto de "ensinar"; "nadar" é o objeto direto do verbo "aprendi"e, por estar no infinitivo, a preposição "a" também é obrigatória).
 ✓ Quando houver dupla possibilidade de referente, ou seja, ambiguidade:
 
 Ex: A onça ao caçador surpreendeu. / À onça o caçador surpreendeu.
 
-(se retirarmos a preposição, teríamos "a onça o caçador
-surpreendeu" e você poderia se
-perguntar quem surpreendeu quem, já que haveria ambiguidade na frase.)
-
+(se retirarmos a preposição, teríamos "a onça o caçador surpreendeu" e você poderia se perguntar quem surpreendeu quem, já que haveria ambiguidade na frase.)
 Ex: Considero Ricardo como a um pai, (como "considero um pai")
 Sem a preposição, a leitura seria:
 
@@ -1397,9 +997,7 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 Ex: O menino e a menina ofenderam-se uns aos outros.
 
-Nos casos abaixo, a preposição acompanhando o objeto direto geralmente aparece por ênfase
-ou tradição.
-
+Nos casos abaixo, a preposição acompanhando o objeto direto geralmente aparece por ênfase ou tradição.
 ✓ Com alguns pronomes indefinidos, sobretudo referentes a pessoas:
 Ex: "Se todos são teus irmãos, por que amas a uns e odeias a outros?"
 Ex: "A quantos a vida ilude!"
@@ -1417,9 +1015,7 @@ Ex: Busquei a José no aeroporto.
 
 Ex: Contratei a ambos para minha empresa, ("contratar" é VTD)
 
-✓ Quando houver reforço ou exaltação de um sentimento (normalmente com nomes próprios
-ou por eufoniaj.
-
+✓ Quando houver reforço ou exaltação de um sentimento (normalmente com nomes próprios ou por eufoniaj.
 Ex: Ele ama a Deus e não teme a Maomé.
 Ex: Judas traiu a Cristo.
 
@@ -1454,10 +1050,7 @@ Ex: Cumpri com o dever > O dever foi cumprido (por mim).
 
 wvinv. estra tegiaconcursos. com. br
 
-Obs 2: A substituição do objeto direto preposicionado pelo pronome oblíquo
-átono, se possível, deve ser feita com pronome "o", "a", "os", "as", não se faz
-com - "lhe".
-
+Obs 2: A substituição do objeto direto preposicionado pelo pronome oblíquo átono, se possível, deve ser feita com pronome "o", "a", "os", "as", não se faz com - "lhe".
 Amar a Deus -> amá-lo; convencer ao amigo -> convencê-lo.
 
 HORADt
@@ -1504,9 +1097,7 @@ i "ninguém". Questão incorreta.
 
 : Julgue correto ou incorreto o item que se segue, referente aos aspectos linguísticos do texto.
 
-: Sem prejuízo da correção gramatical e dos sentidos do texto, no trecho "só os tolos temem
-a:
-
+: Sem prejuízo da correção gramatical e dos sentidos do texto, no trecho "só os tolos temem a:
 : lobisomem e feiticeiras", a preposição "a" poderia ser suprimida.
 :
 
@@ -1539,9 +1130,7 @@ I
 
 : Não há dúvida de que o voto é a melhor arma de que dispõe o eleitor...
 
-: Os verbos "impor" e "dispor", empregados, respectivamente, nas linhas, recebem a
-mesma :
-
+: Os verbos "impor" e "dispor", empregados, respectivamente, nas linhas, recebem a mesma :
 : classificação no que se refere à transitividade.
 :
 
@@ -1601,19 +1190,12 @@ J
 
 Complemento Nominal
 
-É complemento de um nome que possua transitividade (substantivo, adjetivo ou advérbio), com
-preposição. Parece um objeto indireto, com a diferença de que não completa o sentido de um
-verbo, mas sim de um nome.
-
-Ex: Não tenha dependência de ninguém para estudar. (Dependência é um substantivo
-com transitividade. Quem tem dependência, tem dependência de algo/alguém).
-
+É complemento de um nome que possua transitividade (substantivo, adjetivo ou advérbio), com preposição. Parece um objeto indireto, com a diferença de que não completa o sentido de um verbo, mas sim de um nome.
+Ex: Não tenha dependência de ninguém para estudar. (Dependência é um substantivo com transitividade. Quem tem dependência, tem dependência de algo/alguém).
 Ex: João era dependente de café. (Dependente é um adjetivo e pede um complemento,
 preposicionado. Dependente de quê? DE café).
 
-Ex: O juiz decidiu favoravelmente ao autor. (Favoravelmente é um advérbio. O Juiz decide
-favoravelmente a quem/quê? AO autor).
-
+Ex: O juiz decidiu favoravelmente ao autor. (Favoravelmente é um advérbio. O Juiz decide favoravelmente a quem/quê? AO autor).
 O complemento nominal (CN) também pode ter forma de uma oração:
 Ex: O cão sentia falta de que brincassem com ele.
 
@@ -1626,18 +1208,12 @@ Ex: João tinha consciência de precisar passar. (Aqui, a oração está reduzid
 Adjunto Adnominal
 
 Termo que acompanha substantivos concretos e abstratos para atribuir-lhes características,
-qualidade ou estado. Os adjuntos adnominais têm função adjetiva, ou seja, modificam
-termo
-substantivo.
-
+qualidade ou estado. Os adjuntos adnominais têm função adjetiva, ou seja, modificam termo substantivo.
 Ex: & trêF^rros populares do meu pai foram carregados pela chuva.
 
 Núcleo
 
-Os termos destacados são adjuntos adnominais, pois ficam junto ao nome "carros" e atribuem a
-ele características como quantidade, qualidade, posse. Observe que esses termos não foram
-exigidos pelo nome "carros", mas sim acrescentados por quem fala ou escreve.
-
+Os termos destacados são adjuntos adnominais, pois ficam junto ao nome "carros" e atribuem a ele características como quantidade, qualidade, posse. Observe que esses termos não foram exigidos pelo nome "carros", mas sim acrescentados por quem fala ou escreve.
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 Vejamos outros exemplos de adjunto adnominal:
@@ -1651,151 +1227,74 @@ Adjunto adnominal x Complemento Nominal
 
 Esse tema é queridinho de qualquer banca. Vamos entender isso de uma vez por todas!
 
-Na verdade, esses dois termos são bem diferentes! Há um único caso em que ficam parecidos e
-geram muita dúvida, mas é esse caso que cai em prova rs...
-
-Antes das dicas para distingui-los, precisamos ter em mente que a diferença essencial entre eles
-é que o adjunto não é "exigido"; já o complemento nominal, assim como o objeto
-direto e o
-indireto, é obrigatório para complementar o sentido de um nome (substantivo, adjetivo ou
-advérbio).
-
+Na verdade, esses dois termos são bem diferentes! Há um único caso em que ficam parecidos e geram muita dúvida, mas é esse caso que cai em prova rs...
+Antes das dicas para distingui-los, precisamos ter em mente que a diferença essencial entre eles é que o adjunto não é "exigido"; já o complemento nominal, assim como o objeto direto e o indireto, é obrigatório para complementar o sentido de um nome (substantivo, adjetivo ou advérbio).
 Diferenças:
 
-O complemento nominal se liga a substantivos abstratos, adjetivos e advérbios. O adjunto
-adnominal só se liga a substantivos. Então, se o termo preposicionado se ligar a um
-adjetivo ou advérbio, não há dúvida, é complemento nominal.
-
+O complemento nominal se liga a substantivos abstratos, adjetivos e advérbios. O adjunto adnominal só se liga a substantivos. Então, se o termo preposicionado se ligar a um adjetivo ou advérbio, não há dúvida, é complemento nominal.
 ✓ O complemento nominal é necessariamente preposicionado, o adjunto pode ser ou não.
 Então, se não tiver preposição, não há como ser CN e vai ter que ser Adjunto.
 
 ✓ O Complemento Nominal se liga a substantivos abstratos (sentimento; ação; qualidade;
-estado e conceito). O adjunto adnominal se liga a nomes concretos e abstratos. Então, se
-o nome for um substantivo concreto, vai ter que ser adjunto e será impossível ser CN.
-
+estado e conceito). O adjunto adnominal se liga a nomes concretos e abstratos. Então, se o nome for um substantivo concreto, vai ter que ser adjunto e será impossível ser CN.
 ✓ Se for substantivo abstrato e a preposição for qualquer uma que não seja "de",
 normalmente será CN. Se a preposição for "de", teremos que analisar os outros aspectos.
 
 Semelhanças:
 
-Essas duas funções sintáticas, CN e AA, só ficam parecidas em um caso: substantivo abstrato
-com termo preposicionado ("de"). Nesse caso, teremos que ver alguns critérios de distinção.
-
+Essas duas funções sintáticas, CN e AA, só ficam parecidas em um caso: substantivo abstrato com termo preposicionado ("de"). Nesse caso, teremos que ver alguns critérios de distinção.
 0 O termo preposicionado tem sentido agente: adjunto adnominal.
 
-0 O termo preposicionado pode ser substituído por uma palavra única, um
-adjetivo
-equivalente: adjunto adnominal.
-
+0 O termo preposicionado pode ser substituído por uma palavra única, um adjetivo equivalente: adjunto adnominal.
 ✓ O termo preposicionado tem sentido paciente, de alvo: Complemento Nominal.
 
-✓ O termo preposicionado pode ser visto como um complemento verbal se aquele nome for
-transformado numa ação: Complemento Nominal. Isso ocorre porque o complemento
-nominal é "como se fosse" o objeto indireto de um nome.
-
+✓ O termo preposicionado pode ser visto como um complemento verbal se aquele nome for transformado numa ação: Complemento Nominal. Isso ocorre porque o complemento nominal é "como se fosse" o objeto indireto de um nome.
 Vamos analisar os termos sublinhados e aplicar essa teoria:
 
 As duas meninas de branco sorriram com medo de mim.
 
-"As" e "duas" se ligam a substantivo concreto e não são preposicionados = adjunto; "de
-branco" é termo preposicionado, mas se liga a substantivo concreto, então não pode ser CN, é
-
+"As" e "duas" se ligam a substantivo concreto e não são preposicionados = adjunto; "de branco" é termo preposicionado, mas se liga a substantivo concreto, então não pode ser CN, é
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 adjunto também. "Medo" é substantivo abstrato, indica sentimento. A relação é paciente,
 pois
-"mim" não é quem está com medo, mas o objeto do medo. Portanto, temos um complemento
-nominal.
-
+"mim" não é quem está com medo, mas o objeto do medo. Portanto, temos um complemento nominal.
 O abuso de remédios é prejudicial à saúde da mulher.
 
 "de remédios" se liga a substantivo abstrato ("abuso" - derivado de ação - "abusar")
-e tem
-sentido passivo. Por isso, não pode ser adjunto, é complemento nominal, "à saúde" é
-termo
-preposicionado ligado a adjetivo ("prejudicial"). Se o termo é ligado a adjetivo ou advérbio, não
-há dúvida, é complemento nominal. Para confirmar isso, observe que o sentido é passivo, pois "a
-saúde é prejudicada".
-
-Já "da mulher" se liga ao substantivo "saúde", que é abstrato. A mulher é agente, tem a saúde e
-há claro sentido de posse; então, temos um adjunto adnominal. Para confirmar isso, poderíamos
-substituir a locução "da mulher" pelo adjetivo "feminina", mantendo exatamente o mesmo
-sentido e função sintática. Estamos fazendo um exercício, nem sempre todos os critérios serão
-satisfeitos ao mesmo tempo. A principal distinção deve sempre ser: "sentido passivo"
-(CN) x
+e tem sentido passivo. Por isso, não pode ser adjunto, é complemento nominal, "à saúde" é termo preposicionado ligado a adjetivo ("prejudicial"). Se o termo é ligado a adjetivo ou advérbio, não há dúvida, é complemento nominal. Para confirmar isso, observe que o sentido é passivo, pois "a saúde é prejudicada".
+Já "da mulher" se liga ao substantivo "saúde", que é abstrato. A mulher é agente, tem a saúde e há claro sentido de posse; então, temos um adjunto adnominal. Para confirmar isso, poderíamos substituir a locução "da mulher" pelo adjetivo "feminina", mantendo exatamente o mesmo sentido e função sintática. Estamos fazendo um exercício, nem sempre todos os critérios serão satisfeitos ao mesmo tempo. A principal distinção deve sempre ser: "sentido passivo"(CN) x
 "sentido ativo/posse" (AA).
 
 As pessoas da família nem sempre são favoráveis ao trabalho dos filhos.
 
-"da família" se liga ao substantivo concreto "pessoas", então só pode ser adjunto
-adnominal;
-"ao trabalho" é termo preposicionado ligado ao adjetivo "favoráveis". Se está ligado a
-adjetivo
-ou advérbio, só pode ser Complemento Nominal. Observe também que se transformarmos
-"favorável" em verbo, teremos um complemento verbal: favorecer o trabalho. Essa necessidade
-de complementação também é pista para o sentido do complemento nominal.
-
+"da família" se liga ao substantivo concreto "pessoas", então só pode ser adjunto adnominal;"ao trabalho" é termo preposicionado ligado ao adjetivo "favoráveis". Se está ligado a adjetivo ou advérbio, só pode ser Complemento Nominal. Observe também que se transformarmos"favorável" em verbo, teremos um complemento verbal: favorecer o trabalho. Essa necessidade de complementação também é pista para o sentido do complemento nominal.
 Além disso, observe o papel de alvo de "favorável", sentido paciente, outra característica do CN.
 "dos filhos" é termo preposicionado ligado a substantivo abstrato, trabalho (ação).
 Então,
 poderia ser CN ou Adjunto. Tiramos a dúvida pelo teste do agente/paciente: os filhos trabalham,
-têm o trabalho, são agentes. Além disso, há sentido de posse. Trata-se, portanto, de
-adjunto
-adnominal.
-
-Pessoal, sempre tente "matar" a função sintática dos termos pelas diferenças. Se for
-caso de
-substantivo abstrato ligado a termo preposicionado ("de"), aí tente ver se é possível
-substituir
-perfeitamente por um adjetivo.
-
-Se ficar a dúvida, veja se o sentido do termo preposicionado é agente ou paciente. Esse deve ser
-o último critério.
-
+têm o trabalho, são agentes. Além disso, há sentido de posse. Trata-se, portanto, de adjunto adnominal.
+Pessoal, sempre tente "matar" a função sintática dos termos pelas diferenças. Se for caso de substantivo abstrato ligado a termo preposicionado ("de"), aí tente ver se é possível substituir perfeitamente por um adjetivo.
+Se ficar a dúvida, veja se o sentido do termo preposicionado é agente ou paciente. Esse deve ser o último critério.
 Adiunto Adnominal x Complemento Nominal
 
-Não é exigido pelo nome (ex.: "mulher de
-branco")
-
-Substituível por adjetivo perfeitamente
-equivalente
-
+Não é exigido pelo nome (ex.: "mulher de branco")
+Substituível por adjetivo perfeitamente equivalente
 Substantivo Concreto. Também pode ser
-Abstrato com sentido ativo, de posse, ou
-pertinência. Se for concreto, só pode ser
-
-É exigido pelo nome (ex.: "obediência aos
-pais")
-
-Não pode ser substituído por um adjetivo
-perfeitamente equivalente
-
+Abstrato com sentido ativo, de posse, ou pertinência. Se for concreto, só pode ser
+É exigido pelo nome (ex.: "obediência aos pais")
+Não pode ser substituído por um adjetivo perfeitamente equivalente
 Só complementa Substantivo Abstrato
-(Sentimento; ação; qualidade; estado e
-conceito).
-
+(Sentimento; ação; qualidade; estado e conceito).
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 adjunto.
 
-Só modifica substantivo: Então, termo
-preposicionado ligado a adjetivo e
-advérbio nunca será adjunto adnominal.
+Só modifica substantivo: Então, termo preposicionado ligado a adjetivo e advérbio nunca será adjunto adnominal.
+Nem sempre preposicionado. Qualquer preposição, inclusive de pode indicar adjunto adnominal.
+Refere-se a advérbio, adjetivos e substantivo abstratos. Então, termo preposicionado ligado a adjetivo e advérbio só pode ser ComplementoNominal.
 
-Nem sempre preposicionado. Qualquer
-preposição, inclusive de pode indicar
-adjunto adnominal.
-
-Refere-se a advérbio, adjetivos e
-substantivo abstratos. Então, termo
-preposicionado ligado a adjetivo e
-advérbio só pode ser Complemento
-Nominal.
-
-Sempre preposicionado. Quando o termo
-é ligado a substantivo abstrato e a
-preposição diferente de "de",
-normalmente temos CN.
+Sempre preposicionado. Quando o termo é ligado a substantivo abstrato e a preposição diferente de "de",normalmente temos CN.
 
 HORA IX
 
@@ -1886,9 +1385,7 @@ I
 
 '.A unidade surgiu como delegacia especializada em setembro de 2004. Agentes e delegados dê.
 '.atendimento a grupos vulneráveis realizam atendimento às vítimas, centralizam procedimentos',
-'.relativos a crimes contra o público vulnerável registrados em outras delegacias, abrem
-inquéritos'.
-
+'.relativos a crimes contra o público vulnerável registrados em outras delegacias, abrem inquéritos'.
 :e termos circunstanciados e fazem investigações dequeixas.
 :
 
@@ -1907,9 +1404,7 @@ I
 
 I
 
-:Sim. Se houver termo preposicionado ligado a adjetivo, não há dúvida, temos
-complemento:
-inominal. "Relativo" é um adjetivo que exige complemento com a preposição "a":
+:Sim. Se houver termo preposicionado ligado a adjetivo, não há dúvida, temos complemento:inominal. "Relativo" é um adjetivo que exige complemento com a preposição "a":
 
 :"Relativo" A algo> "Relativo" A crimes contra o público...
 
@@ -1975,10 +1470,7 @@ lum adjunto adnominal de "justiça". Questão incorreta.
 
 Predicativo do Sujeito
 
-É a qualificação/estado/caracterização que se atribui ao sujeito, normalmente por via de
-um
-verbo de ligação: ser; estar; permanecer; ficar; continuar; tornar-se; andar; virar;
-continuar.
+É a qualificação/estado/caracterização que se atribui ao sujeito, normalmente por via de um verbo de ligação: ser; estar; permanecer; ficar; continuar; tornar-se; andar; virar;continuar.
 Vejamos os exemplos mais comuns e as diversas "formas" como aparecem.
 
 Ex: Ela continuava pomposa, mesmo na miséria. (Predicativo na forma de adjetivo)
@@ -2001,13 +1493,8 @@ Ex: É necessário que estudemos mais. (Predicativo de um sujeito oracional)
 Ex: O problema foi considerado como insolúvel. (Predicativo com preposição acidental)
 Ex: João não é mau, mas Maria o é. (Predicativo na forma de pronome demonstrativo)
 
-Atenção: Se um desses verbos aparecer com uma circunstância adverbial, e não uma qualidade
-do sujeito, este vai ser um verbo intransitivo, não verbo de ligação.
-
-Ex: O homem permaneceu no bar todo o tempo, ("no bar" é circunstância de lugar; "todo
-o tempo" é circunstância de tempo. Nesse caso, "Permaneceu" é Verbo Intransitivo, não é
-verbo de ligação!)
-
+Atenção: Se um desses verbos aparecer com uma circunstância adverbial, e não uma qualidade do sujeito, este vai ser um verbo intransitivo, não verbo de ligação.
+Ex: O homem permaneceu no bar todo o tempo, ("no bar" é circunstância de lugar; "todo o tempo" é circunstância de tempo. Nesse caso, "Permaneceu" é Verbo Intransitivo, não é verbo de ligação!)
 Ex: A professora saiu atrasada. (O verbo "sair" é intransitivo, e, mesmo assim, o "atrasada"
 é predicativo do sujeito. Não é só verbo de ligação que acompanha predicativo do sujeito!
 Quando ocorre ao lado de um verbo de "ação", o predicativo do sujeito indica o
@@ -2048,9 +1535,7 @@ I
 
 I
 
-'.Agora, se eu dou um jeito nos meus impostos porque o delegado da receita federa! é
-meu".
-
+'.Agora, se eu dou um jeito nos meus impostos porque o delegado da receita federa! é meu".
 \amigo ou parente e faz a tal "vista grossa", aí temos o "jeitinho" virando corrupção.
 
 I
@@ -2072,9 +1557,7 @@ I
 
 I
 
-:"Corrupção" é um predicativo do sujeito "jeitinho", ligadoaele por umverbo
-deligação:
-
+:"Corrupção" é um predicativo do sujeito "jeitinho", ligadoaele por umverbo deligação:
 :(virando- "jeitinho" tornando-se "corrupção": mudança de estado). Questão incorreta.
 
 I
@@ -2091,9 +1574,7 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 '.Quase sempre, condutores, técnicos de enfermagem, enfermeiros e médicos saem em disparada,',
 '.ambulância cortando o trânsito, sirenes ligadas, para atender a alguém que nunca viram. Maé.
-'.podem chegar à cena e encontrar um amigo. Estão preparados. O espaço para a emoção
-é'.
-'.pequeno em um serviço que só funciona se apoiado em seu princípio maior: a técnica.
+'.podem chegar à cena e encontrar um amigo. Estão preparados. O espaço para a emoção é'.'.pequeno em um serviço que só funciona se apoiado em seu princípio maior: a técnica.
 
 I
 
@@ -2115,9 +1596,7 @@ I
 
 I
 
-:"um amigo" é objetodireto de "encontrar".Preparados é predicativodo sujeito oculto
-doverbo:
-
+:"um amigo" é objetodireto de "encontrar".Preparados é predicativodo sujeito oculto doverbo:
 :de ligação "Estão":
 :
 
@@ -2132,9 +1611,7 @@ lincorreta.
 Predicativo do Objeto
 
 Qualificação/estado que se atribui ao objeto, por via de alguns verbos específicos
-{verbos
-transobjetivos), aqueles que pedem um objeto + predicativo.
-
+{verbos transobjetivos), aqueles que pedem um objeto + predicativo.
 Ex: Julgaram o réu culpado.
 
 Obi. dir.
@@ -2171,30 +1648,19 @@ vista como inerente e definitiva.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-Ex: Eu vi a menina muito irritada com sua eliminação, (predicativo do objeto: o
-sujeito
-atribuiu o estado de "irritação" à menina, uma característica vista como transitória, é uma
-"opinião do sujeito sobre o objeto ")
+Ex: Eu vi a menina muito irritada com sua eliminação, (predicativo do objeto: o sujeito atribuiu o estado de "irritação" à menina, uma característica vista como transitória, é uma"opinião do sujeito sobre o objeto ")
 
 Ex: A menina irritada da sala implica com todos, (adjunto adnominal: ela é irritada sempre,
 a característica é inerente, definitiva; não é atribuída a ela por um sujeito).
 
-Sintaticamente, para identificar a diferença entre um predicativo do objeto e um adjunto
-adnominal, devemos substituir o objeto direto por um pronome (o, a, os , as} e
-verificar se o
-termo permanece junto (adjunto) ou se separa do substantivo (predicativo). Isso também
-pode
-ser testado na conversão para a voz passiva. Veja:
-
+Sintaticamente, para identificar a diferença entre um predicativo do objeto e um adjunto adnominal, devemos substituir o objeto direto por um pronome (o, a, os , as} e verificar se o termo permanece junto (adjunto) ou se separa do substantivo (predicativo). Isso também pode ser testado na conversão para a voz passiva. Veja:
 Ex: Julguei as perguntas complexas.
 
 Ex: Julguei-as complexas.
 
 Ex: as perguntas foram julgadas complexas.
 
-O adjetivo permanece separado, então é predicativo, que é termo independente. Agora veja um
-exemplo hipotético em que teríamos um adjunto:
-
+O adjetivo permanece separado, então é predicativo, que é termo independente. Agora veja um exemplo hipotético em que teríamos um adjunto:
 Ex: Resolveram as perguntas complexas.
 
 Ex: Resolveram-nas.
@@ -2202,37 +1668,20 @@ Ex: Resolveram-nas.
 Ex: as perguntas complexas foram resolvidas
 
 O adjetivo desapareceu junto com o substantivo na pronominalização, então é adjunto.
-Isso
-significa que o adjetivo permaneceu sempre "junto ao nome", o que confirma sua função
-sintática de "adjunto adnominal".
-
+Isso significa que o adjetivo permaneceu sempre "junto ao nome", o que confirma sua função sintática de "adjunto adnominal".
 Predicativo do sujeito x Adjunto Adnominal
 
-Além da diferença semântica mencionada acima {predicativo: estados / características transitórias
-x adjunto: estados / características permanentes'), há outras formas de distinção: o predicativo do
-sujeito pode aparecer distante do sujeito, separado por pontuação. O adjunto adnominal
-deve
-ficar "junto ao nome".
-
-Ex: [O menino] chegou desanimado e foi dormir, (predicativo do sujeito, "chegou e estava
-desanimado".)
-
+Além da diferença semântica mencionada acima {predicativo: estados / características transitórias x adjunto: estados / características permanentes'), há outras formas de distinção: o predicativo do sujeito pode aparecer distante do sujeito, separado por pontuação. O adjunto adnominal deve ficar "junto ao nome".
+Ex: [O menino] chegou desanimado e foi dormir, (predicativo do sujeito, "chegou e estava desanimado".)
 Ex: [O menino], desanimado, chegou e foi dormir.
 
-Ex: Desanimado, [o menino] chegou e foi dormir, (predicativo do sujeito, "chegou e estava
-desanimado". A pontuação e o deslocamento também indicam que não é adjunto.J
-
-Ex: [O menino desanimado] chegou e foi dormir, (adjunto adnominal, característica
-inerente "ele é desanimado e chegou", não é um característica limitada ao momento de
-"chegar'.J
+Ex: Desanimado, [o menino] chegou e foi dormir, (predicativo do sujeito, "chegou e estava desanimado". A pontuação e o deslocamento também indicam que não é adjunto.J
+Ex: [O menino desanimado] chegou e foi dormir, (adjunto adnominal, característica inerente "ele é desanimado e chegou", não é um característica limitada ao momento de"chegar'.J
 
 Por fazer parte do sujeito, o adjunto adnominal o acompanha. Se substituirmos por um pronome,
 o adjunto "some" com o sujeito; teremos: Ele chegou.
 
-Já o predicativo não faz parte do sujeito, não o acompanha; então, se o substituirmos
-por um
-pronome, teremos: Ele chegou desanimado.
-
+Já o predicativo não faz parte do sujeito, não o acompanha; então, se o substituirmos por um pronome, teremos: Ele chegou desanimado.
 Tipos de Predicado
 
 Agora que sabemos reconhecer um predicativo, fica bem mais fácil conhecer o predicado e seus
@@ -2241,26 +1690,15 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 tipos.
 
-Os termos "essenciais" de uma oração são "sujeito" e "predicado". Numa oração, tudo que não
-for o sujeito será o PREDICADO. A depender de qual for seu núcleo, o predicado pode
-ser
-verbal, nominal ou verbo-nominal.
-
-O PREDICADO VERBAL tem como núcleo um verbo nocional (transitivo ou intransitivo), que
-indica "ação", "movimento": correr, falar, pular, beber, sair, morrer, pedir.
-
+Os termos "essenciais" de uma oração são "sujeito" e "predicado". Numa oração, tudo que não for o sujeito será o PREDICADO. A depender de qual for seu núcleo, o predicado pode ser verbal, nominal ou verbo-nominal.
+O PREDICADO VERBAL tem como núcleo um verbo nocional (transitivo ou intransitivo), que indica "ação", "movimento": correr, falar, pular, beber, sair, morrer, pedir.
 Ex: João comprou um rifle, {predicado verbal, verbo de ação "comprar", transitivo direto)
 
-Ex: João gosta de música celta, {predicado verbal, verbo de ação "gostar", transitivo
-indireto)
-
+Ex: João gosta de música celta, {predicado verbal, verbo de ação "gostar", transitivo indireto)
 Ex: João correu, {predicado verba! "correr", verbo de ação, intransitivo)
 João é o sujeito e o restante da sentença é o predicado verbal.
 
-O PREDICADO NOMINAL tem como núcleo um predicativo do sujeito, termo que atribuiu uma
-característica, qualidade, estado, condição ao sujeito. Essa característica vai ser ligada ao
-sujeito
-SEMPRE por um verbo de ligação (verbos de estado: ser, estar, ficar, permanecer,
+O PREDICADO NOMINAL tem como núcleo um predicativo do sujeito, termo que atribuiu uma característica, qualidade, estado, condição ao sujeito. Essa característica vai ser ligada ao sujeitoSEMPRE por um verbo de ligação (verbos de estado: ser, estar, ficar, permanecer,
 parecer,
 continuar, andar...).
 
@@ -2275,9 +1713,7 @@ Ex: João está empolgado.
 Ex: João anda animadíssimo.
 Ex: João é servidor público.
 
-O predicado VERBO-NOMINAL, por sua vez, é uma mistura dos dois acima: tem verbo de ação e
-tem também predicativo.
-
+O predicado VERBO-NOMINAL, por sua vez, é uma mistura dos dois acima: tem verbo de ação e tem também predicativo.
 Teremos a seguinte estrutura:
 
 Verbo (não de ligação) + Predicativo (do sujeito ou do objeto). Para efeito didático,
@@ -2290,9 +1726,7 @@ Ex: João saiu triste.
 Ex: João sorriu desconfiado.
 Ex: João, cansado, desistiu.
 
-OBS: Aqui, temos não só a ação, mas também um estado (ou característica) atribuído ao sujeito
-no momento da ação.
-
+OBS: Aqui, temos não só a ação, mas também um estado (ou característica) atribuído ao sujeito no momento da ação.
 Já podemos tirar algumas conclusões:
 
 Só o predicado verbal não tem predicativo.
@@ -2388,9 +1822,7 @@ I
 :
 Uulgue o item a seguir:
 
-:Os termos "cultural", "estável" e "movediça" exercem a mesma função sintática, uma vez
-que:
-
+:Os termos "cultural", "estável" e "movediça" exercem a mesma função sintática, uma vez que:
 latribuem característica ao termo "identidade".
 :
 
@@ -2440,9 +1872,7 @@ I
 
 Vocativo
 
-O vocativo é um chamamento, é termo externo, pois se remete ao ouvinte ou leitor. É isolado na
-oração, sempre marcado por vírgulas ou pausas equivalentes. O vocativo não é considerado um
-
+O vocativo é um chamamento, é termo externo, pois se remete ao ouvinte ou leitor. É isolado na oração, sempre marcado por vírgulas ou pausas equivalentes. O vocativo não é considerado um
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 termo interno da oração, pois se refere ao interlocutor.
@@ -2454,20 +1884,13 @@ Ex: Pela ordem, Meritíssimo, a prova não consta dos autos.
 
 Aposto
 
-Aposto é uma palavra ou expressão que explica ou esclarece, desenvolve ou resume outro termo
-da oração, normalmente com uma relação de "equivalência" semântica.
-
-O aposto pode ser explicativo, quando amplia, detalha, enumera, resume um termo anterior; ou
-pode ser especificativo, quando especifica o referente dentro de um universo.
-
+Aposto é uma palavra ou expressão que explica ou esclarece, desenvolve ou resume outro termo da oração, normalmente com uma relação de "equivalência" semântica.
+O aposto pode ser explicativo, quando amplia, detalha, enumera, resume um termo anterior; ou pode ser especificativo, quando especifica o referente dentro de um universo.
 O aposto mais comum em prova é o explicativo, que vem na forma de expressões intercaladas,
 
 geralmente entre vírgulas, parênteses ou travessões.
 
-Cuidado-, a aposto é diferente do adjetivo (AA), pois não traz uma qualidade, traz
-sim "outra
-forma" de se referir ao termo. O aposto não tem valor adjetivo.
-
+Cuidado-, a aposto é diferente do adjetivo (AA), pois não traz uma qualidade, traz sim "outra forma" de se referir ao termo. O aposto não tem valor adjetivo.
 Ex: Jorge, o malandro, ainda é jovem. (substantivo>aposto)
 
 Poderíamos dizer: O malandro ainda é jovem.
@@ -2476,22 +1899,15 @@ Agora, compare o exemplo anterior com o a seguir:
 
 Ex: Jorge, malandro, ainda é jovem. (adjetivo>predicativo do sujeito)
 
-O aposto, pela sua identidade semântica, em alguns casos, pode até substituir o termo a que se
-refere, assumindo sua função sintática, ou seja, quando se refere ao sujeito, pode virar o sujeito;
-quando se refere ao objeto direto, pode virar objeto direto...
+O aposto, pela sua identidade semântica, em alguns casos, pode até substituir o termo a que se refere, assumindo sua função sintática, ou seja, quando se refere ao sujeito, pode virar o sujeito;quando se refere ao objeto direto, pode virar objeto direto...
 
 Ex: M^fíà? a\>abá. virou empresária.
 
 "a babá" é termo explicativo que vem entre vírgulas e pode substituir o sujeito
-Maria: A babá
-virou empresária. É um aposto do sujeito.
-
+Maria: A babá virou empresária. É um aposto do sujeito.
 Ex: Gosto de vários animais - cães, gatos, pássaros.
 
-"cães, gatos, pássaros" é termo explicativo que vem separado dos outros termos e pode
-substituir o objeto indireto "de vários animais". É um aposto de objeto indireto. Isso
-mostra a
-"identidade e equivalência semântica" entre o aposto e o termo a que se refere:
+"cães, gatos, pássaros" é termo explicativo que vem separado dos outros termos e pode substituir o objeto indireto "de vários animais". É um aposto de objeto indireto. Isso mostra a"identidade e equivalência semântica" entre o aposto e o termo a que se refere:
 Maria=Babá;
 Animais=Cães, gatos, pássaros...
 
@@ -2511,9 +1927,7 @@ Ex: Chegaram apenas dois alunos: Mário e Ricardo.
 Ex: Machado de Assis, como romancista, nunca foi superado.
 Ex: Ninguém quer estudar, fato que impede a aprovação.
 
-Ex: Ninguém quer estudar, o que impede a aprovação, (nesses últimos dois casos, o
-pronome demonstrativo "O" e a palavra "fato" se referem a toda oração anterior...)
-
+Ex: Ninguém quer estudar, o que impede a aprovação, (nesses últimos dois casos, o pronome demonstrativo "O" e a palavra "fato" se referem a toda oração anterior...)
 OBS: O aposto "especificativo" não vem separado por pontuação e individualiza o seu referente.
 Sua forma mais comum se configura em um nome próprio especificando um substantivo comum.
 Veja:
@@ -2531,11 +1945,7 @@ Adjunto Adnominal X Aposto Especificativo
 
 — Porque não há valor adjetivo nem de posse. Veja:
 
-O aposto especificativo "nomeia". "Pipa" é a própria praia, não é que uma "Pipa" tem
-uma
-"praia", não há sentido de posse, há identidade semântica entre os termos: Pipa=Praia. Pipa é o
-nome da praia, a preposição poderia ser até retirada e isso se manteria: A praia Pipa.
-
+O aposto especificativo "nomeia". "Pipa" é a própria praia, não é que uma "Pipa" tem uma"praia", não há sentido de posse, há identidade semântica entre os termos: Pipa=Praia. Pipa é o nome da praia, a preposição poderia ser até retirada e isso se manteria: A praia Pipa.
 Veja uma lógica diferente:
 
 Ex: O clima do Rio de Janeiro.
@@ -2561,12 +1971,8 @@ I
 
 *A abordagem desse tipo de comércio, inevitavelmente, passa pela concorrência, visto que é por2,
 
-'.meio da garantia e da possibilidade de entrar no mercado internacional, de
-estabelecer,
-'.permanência ou de engendrar saída, que se consubstancia a plena expansão das atividades1,
-'.comerciais e se alcança o resultado último dessa interatuação: o preço eficiente dos
-bens ei
-'.serviços.
+'.meio da garantia e da possibilidade de entrar no mercado internacional, de estabelecer,'.permanência ou de engendrar saída, que se consubstancia a plena expansão das atividades1,
+'.comerciais e se alcança o resultado último dessa interatuação: o preço eficiente dos bens ei'.serviços.
 :
 
 :Na linha 4, os dois-pontos introduzem um esclarecimento a respeito do "resultado último dessa:
@@ -2605,9 +2011,7 @@ I
 
 :Caso se alterasse a ordem dos termos em "o iconoclasta Oscar Wilde" para "o Oscar
 Wilde'.
-'.iconoclasta", haveria mudança do significado original do texto, mas as funções
-sintáticas de:
-'."Oscar Wilde" e de "iconoclasta" permaneceriam inalteradas.
+'.iconoclasta", haveria mudança do significado original do texto, mas as funções sintáticas de:'."Oscar Wilde" e de "iconoclasta" permaneceriam inalteradas.
 :
 
 I
@@ -2671,15 +2075,11 @@ Então, a inversão causa mudança sintática, pois no aposto especificativo, o 
 idepois docomum, queestá sendoespecificado.
 :
 
-iOutros exemplos de aposto especificativo, que pode ser preposicionado ou não: Praia
-de'.
-'.Copacabana: Meu filho Pedro: Crime de latrocínio: O cantor Renato Russo. Questão incorreta. :
+iOutros exemplos de aposto especificativo, que pode ser preposicionado ou não: Praia de'.'.Copacabana: Meu filho Pedro: Crime de latrocínio: O cantor Renato Russo. Questão incorreta. :
 
 Adjunto Adverbial
 
-É a função sintática do termo que modifica o verbo, trazendo uma ideia de circunstância, como
-tempo, modo, causa, meio, lugar, instrumento, motivo, oposição.
-
+É a função sintática do termo que modifica o verbo, trazendo uma ideia de circunstância, como tempo, modo, causa, meio, lugar, instrumento, motivo, oposição.
 Ex: Ele morreu por amor, (adjunto adverbial de motivo)
 ontem, (adjunto adverbial de tempo)
 
@@ -2689,30 +2089,20 @@ aqui, (adjunto adverbial de lugar)
 
 só. (adjunto adverbial de modo)
 
-Não é possível listar ou memorizar todas as possibilidades de adjunto adverbial. Para a prova, se
-um termo indicar a circunstância de um verbo, especificar a forma como aquele verbo é
-praticado, teremos um adjunto adverbial.
-
+Não é possível listar ou memorizar todas as possibilidades de adjunto adverbial. Para a prova, se um termo indicar a circunstância de um verbo, especificar a forma como aquele verbo é praticado, teremos um adjunto adverbial.
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-O adjunto adverbial também pode ser referir a um adjetivo, um advérbio e até a uma
-oração
-inteira.
-
+O adjunto adverbial também pode ser referir a um adjetivo, um advérbio e até a uma oração inteira.
 Ex: Ela é muito bonita, ("muito" é um advérbio usado para "intensificar" o adjetivo
 "bonita"; sua função sintática é de adjunto adverbial)
 
 Ex: Ela será aprovada muito provavelmente, ("muito" é um advérbio usado para
 "intensificar" o advérbio "provavelmente"; sua função sintática é de adjunto adverbial)
 
-Ex: Infelizmente, o governo não vai resolver seus problemas, ("infelizmente" é um
-advérbio que se refere à oração como um todo e expressa uma forma de
-"julgamento/opinião" sobre seu conteúdo; sua função sintática é de adjunto adverbial)
+Ex: Infelizmente, o governo não vai resolver seus problemas, ("infelizmente" é um advérbio que se refere à oração como um todo e expressa uma forma de"julgamento/opinião" sobre seu conteúdo; sua função sintática é de adjunto adverbial)
 
 O adjunto adverbial também pode aparecer na forma de uma oração adverbial,
-com
-circunstância de condição, causa, tempo, finalidade etc.
-
+com circunstância de condição, causa, tempo, finalidade etc.
 Ex: Se eu pudesse, ajudaria, (oração adverbial condiciona!}
 
 Ex: Está tudo molhado, porque choveu muito, (oração adverbial causa!
@@ -2723,12 +2113,7 @@ PRESUMAIS
 
 ATENÇAO!
 
-Observe que fatores como o tipo de verbo, a pontuação ou ausência dela pode
-influenciar na
-função sintática. Veja que o mesmo adjetivo pode assumir ou participar de várias
-funções
-sintáticas:
-
+Observe que fatores como o tipo de verbo, a pontuação ou ausência dela pode influenciar na função sintática. Veja que o mesmo adjetivo pode assumir ou participar de várias funções sintáticas:
 O menino continua rico, (.predicativo do sujeito - o sujeito é "O menino")
 
 O menino fez o pai rico, (predicativo do objeto - "o pai" -objeto- "ficou rico")
@@ -2741,33 +2126,19 @@ O menino, apesar de ser rico, vivia endividado, (adjunto adverbial - indica conc
 
 Menino rico, ajude-me. (vocativo - o menino rico é o ouvinte)
 
-*Observe que nos exemplos 4 e 5, o adjetivo com função de predicativo tem sentido cumulativo
-de causa (rico = porque era rico).
-
+*Observe que nos exemplos 4 e 5, o adjetivo com função de predicativo tem sentido cumulativo de causa (rico = porque era rico).
 Agente da Passiva
 
-Na voz ativa, o sujeito pratica a ação. Na voz passiva, ele sofre a ação e quem a
-pratica é
-justamente o "agente da passiva". Em outras palavras, o agente da passiva é o agente do verbo
-numa sentença na voz passiva.
-
+Na voz ativa, o sujeito pratica a ação. Na voz passiva, ele sofre a ação e quem a pratica é justamente o "agente da passiva". Em outras palavras, o agente da passiva é o agente do verbo numa sentença na voz passiva.
 Quando transpomos a voz ativa para a passiva analítica, o sujeito vira agente da passiva e o
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 obieto direto vira suieito cadente.
 
-Ex: Eu comprei um carro > Um carro foi comprado por
-mim.
-
-Sujeito Verbo OD Sujeito Locução
-agente da
-passiva
-agente Voz ativa paciente voz passiva
-
-O agente da passiva geralmente é omitido na passiva sintética e também pode ser introduzido
-pela preposição "de".
-
+Ex: Eu comprei um carro > Um carro foi comprado por mim.
+Sujeito Verbo OD Sujeito Locução agente da passiva agente Voz ativa paciente voz passiva
+O agente da passiva geralmente é omitido na passiva sintética e também pode ser introduzido pela preposição "de".
 Ex: O mocinho foi cercado de zumbis.
 
 HORA IX
@@ -2789,9 +2160,7 @@ I
 '.eles próprios e por órgãos estatais..."
 :
 
-'."Ademais, em segundo plano, tal atribuição fiscalizatória advém dos preceitos morais
-que'<
-'.impõem a necessidade de contenção dos vícios eleitorais"
+'."Ademais, em segundo plano, tal atribuição fiscalizatória advém dos preceitos morais que'<'.impõem a necessidade de contenção dos vícios eleitorais"
 :
 
 :Os termos "por órgãos estatais" e "dos preceitosmorais" exercem a função de complemento:
@@ -2824,9 +2193,7 @@ I
 
 I
 
-:"por órgãos estatais" exerce função sintática de agente da passiva, "dos preceitos
-morais" é:
-icomplemento verbal preposicionado (OI) do verbo "advir" (VTI; de). Questão incorreta.
+:"por órgãos estatais" exerce função sintática de agente da passiva, "dos preceitos morais" é:icomplemento verbal preposicionado (OI) do verbo "advir" (VTI; de). Questão incorreta.
 
 I
 
@@ -2872,14 +2239,8 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 FRASE X ORAçÃo X PERÍoDo
 
-Geralmente a banca pede para analisar período X ou Y e ver se uma determinada substituição ou
-reescri
-está correta. Temos que saber essas noções básicas para localizarmos trechos que estão sendo objetos
-cobrança. Vamos, então, diferenciar os conceitos de frase, oração e período.
-
-Frase é qualquer enunciado de sentido completo, que exprima ideias, emoções, ordens, apelos, ou qual
-sentido que seja plenamente comunicado e compreensível.
-
+Geralmente a banca pede para analisar período X ou Y e ver se uma determinada substituição ou reescri está correta. Temos que saber essas noções básicas para localizarmos trechos que estão sendo objetos cobrança. Vamos, então, diferenciar os conceitos de frase, oração e período.
+Frase é qualquer enunciado de sentido completo, que exprima ideias, emoções, ordens, apelos, ou qual sentido que seja plenamente comunicado e compreensível.
 Ex: Socorro! / Deus lhe pague /Você está sendo filmado / Morra*.
 
 Uma frase pode ter verbo ou não. Se não tiver verbo, será uma frase nominal.
@@ -2896,11 +2257,7 @@ Ex: Cuidado com o cão.
 
 Como não tem verbo, é frase nominal, não é oração.
 
-Período é a frase vista como um todo, podendo conter uma ou mais orações dentro dele. Um período c
-somente uma oração é um período simples e essa oração será chamada de oração absoluta, pois é u
-frase de sentido completo, com verbo e não ligada a nenhuma outra; um período com mais de uma ora
-é um período composto e essas orações poderão estar ligadas por coordenação ou subordinação.
-
+Período é a frase vista como um todo, podendo conter uma ou mais orações dentro dele. Um período c somente uma oração é um período simples e essa oração será chamada de oração absoluta, pois é u frase de sentido completo, com verbo e não ligada a nenhuma outra; um período com mais de uma ora é um período composto e essas orações poderão estar ligadas por coordenação ou subordinação.
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 QUESTõES CoMENTADAS - FUNçõES SINTÁTICAS - CEBRASPE
@@ -2909,18 +2266,8 @@ QUESTõES CoMENTADAS - FUNçõES SINTÁTICAS - CEBRASPE
 
 Esse movimento, além de tardio na história da humanidade, só se produziu uma única vez.
 
-Para retomar uma fórmula muito conhecida de Descartes, o homem se fez então "mestre e
-senhor da natureza". Resultou daí um extraordinário desenvolvimento das ciências e das técnicas,
-mas também a exploração desenfreada de uma natureza composta, a partir de então, de objetos
-sem ligação com os humanos: plantas, animais, terras, águas e rochas convertidos em meros
-recursos que podemos usar e dos quais podemos tirar proveito. Naquela altura, a natureza havia
-perdido sua alma e nada mais nos impedia de vê-la unicamente como fonte de riqueza.
-
-No penúltimo período do texto, os termos "um extraordinário desenvolvimento das ciências
-e
-das técnicas" e "a exploração desenfreada (...) os humanos" exercem a função de complemento
-da forma verbal "Resultou".
-
+Para retomar uma fórmula muito conhecida de Descartes, o homem se fez então "mestre e senhor da natureza". Resultou daí um extraordinário desenvolvimento das ciências e das técnicas,mas também a exploração desenfreada de uma natureza composta, a partir de então, de objetos sem ligação com os humanos: plantas, animais, terras, águas e rochas convertidos em meros recursos que podemos usar e dos quais podemos tirar proveito. Naquela altura, a natureza havia perdido sua alma e nada mais nos impedia de vê-la unicamente como fonte de riqueza.
+No penúltimo período do texto, os termos "um extraordinário desenvolvimento das ciências e das técnicas" e "a exploração desenfreada (...) os humanos" exercem a função de complemento da forma verbal "Resultou".
 Comentários:
 
 Sempre devemos tentar organizar as sentenças na ordem direta:
@@ -2929,31 +2276,17 @@ Sujeito + Verbo + Complemento (+adjuntos)
 
 Os termos indicados são sujeito do verbo "resultar":
 
-um extraordinário desenvolvimento das ciências e das técnicas, mas também a exploração
-desenfreada (sujeito) RESULTOU daí (complemento)
-
+um extraordinário desenvolvimento das ciências e das técnicas, mas também a exploração desenfreada (sujeito) RESULTOU daí (complemento)
 Questão incorreta.
 
 2. CEBRASPE/IBAMA/2022
 
 De acordo com Mariana Schuchovski, professora de Sustentabilidade do ISAE Escola de
-Negócios, a disseminação do vírus é resultado do atual modelo de desenvolvimento, que
-fomenta o uso irracional de recursos naturais e a destruição de hábitats, como florestas e outras
-áreas, o que faz que animais, forçados a mudar seus hábitos de vida, contraiam e transmitam
-doenças que não existiriam em situações normais. "Situações de desequilíbrio ambiental,
-causadas principalmente por desmatamento e mudanças de clima, aumentam ainda mais a
-probabilidade de que zoonoses, ou seja, doenças de origem animal, nos atinjam e alcancem o
-patamar de epidemias e pandemias", explica a professora.
-
-No segundo período do terceiro parágrafo, a forma pronominal 'nos' funciona
-como
-complemento das formas verbais 'atinjam' e 'alcancem'.
-
+Negócios, a disseminação do vírus é resultado do atual modelo de desenvolvimento, que fomenta o uso irracional de recursos naturais e a destruição de hábitats, como florestas e outras áreas, o que faz que animais, forçados a mudar seus hábitos de vida, contraiam e transmitam doenças que não existiriam em situações normais. "Situações de desequilíbrio ambiental,causadas principalmente por desmatamento e mudanças de clima, aumentam ainda mais a probabilidade de que zoonoses, ou seja, doenças de origem animal, nos atinjam e alcancem o patamar de epidemias e pandemias", explica a professora.
+No segundo período do terceiro parágrafo, a forma pronominal 'nos' funciona como complemento das formas verbais 'atinjam' e 'alcancem'.
 Comentários:
 
-"nos" é complemento de "atinjam"; o complemento de "alcancem" é "o patamar de epidemias
-e pandemias".
-
+"nos" é complemento de "atinjam"; o complemento de "alcancem" é "o patamar de epidemias e pandemias".
 Questão incorreta.
 
 3. CEBRASPE/ PETROBRAS / 2022
@@ -2964,17 +2297,11 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 virtuoso. Aquele que conhece a justiça não pode deixar de agir de modo justo.
 
-No último período do texto, o termo "Aquele" exerce a função sintática de sujeito da
-oração
-"que conhece a justiça".
+No último período do texto, o termo "Aquele" exerce a função sintática de sujeito da oração"que conhece a justiça".
 
 Comentários:
 
-Questão pesada, exigindo a função sintática do "que" pronome relativo. Para saber sua função, é
-preciso basicamente substituir o "que" pelo seu referente e analisar: a função
-sintática que o
-referente assumiria na análise é a função do "que":
-
+Questão pesada, exigindo a função sintática do "que" pronome relativo. Para saber sua função, é preciso basicamente substituir o "que" pelo seu referente e analisar: a função sintática que o referente assumiria na análise é a função do "que":
 Aquele [que conhece a justiça]
 O "que" retoma "aquele">
 [Aquele conhece a justiça]>
@@ -2985,14 +2312,9 @@ Questão incorreta.
 
 4. CEBRASPE/IBAMA/2022
 
-...Por outro lado, para que possamos fazer melhores escolhas e praticar o verdadeiro consumo
-consciente, é necessário que, em primeiro lugar, as empresas realizem a produção consciente,
-assumindo sua verdadeira responsabilidade pelos impactos que causam.
+...Por outro lado, para que possamos fazer melhores escolhas e praticar o verdadeiro consumo consciente, é necessário que, em primeiro lugar, as empresas realizem a produção consciente,assumindo sua verdadeira responsabilidade pelos impactos que causam.
 
-O pronome "que", em "que causam" (último período do texto), exerce a função de
-sujeito da
-oração em que ocorre e retoma o termo "as empresas".
-
+O pronome "que", em "que causam" (último período do texto), exerce a função de sujeito da oração em que ocorre e retoma o termo "as empresas".
 Comentários:
 
 O pronome "que", em "que causam" (último período do texto), exerce a função de OBJETO
@@ -3004,30 +2326,17 @@ Questão incorreta.
 
 5. CEBRASPE / DPE-DF / 2022
 
-Diante da lei está um porteiro. Um homem do campo dirige-se a este porteiro e pede para
-entrar na lei. Mas o porteiro diz que agora não pode permitir-lhe a entrada. O homem do campo
-reflete e depois pergunta se então não pode entrar mais tarde. "É possível", diz o porteiro, "mas
-agora nãoUma vez que a porta da lei continua como sempre aberta, e o porteiro se põe de
-lado, o homem se inclina para o interior através da porta.
-
-A locução "Uma vez que", que inicia o período "Uma vez que a porta da lei continua
-como
-sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior através da porta",
-foi empregada no sentido de conformidade.
+Diante da lei está um porteiro. Um homem do campo dirige-se a este porteiro e pede para entrar na lei. Mas o porteiro diz que agora não pode permitir-lhe a entrada. O homem do campo reflete e depois pergunta se então não pode entrar mais tarde. "É possível", diz o porteiro, "mas agora nãoUma vez que a porta da lei continua como sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior através da porta.
+A locução "Uma vez que", que inicia o período "Uma vez que a porta da lei continua como sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior através da porta",foi empregada no sentido de conformidade.
 
 Comentários:
 
-A locução "Uma vez que", que inicia o período "Uma vez que a porta da lei continua
-como
-sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior através da porta",
-
+A locução "Uma vez que", que inicia o período "Uma vez que a porta da lei continua como sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior através da porta",
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 foi empregada no sentido de CAUSA.
 
-COMO a porta da lei continua como sempre aberta, e o porteiro se põe de lado, o homem
-se inclina para o interior através da porta.
-
+COMO a porta da lei continua como sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior através da porta.
 Questão incorreta.
 
 6. CEBRASPE / TELEBRAS / 2022
@@ -3043,18 +2352,14 @@ Imagine-se entrando numa loja para comprar um... um... como é mesmo o nome?
 "Um... como é mesmo o nome?"
 "Sim?"
 
-"Pomba! Um... um... Que cabeça a minha! A palavra me escapou por completo. É uma coisa
-simples, conhecidíssima."
-
+"Pomba! Um... um... Que cabeça a minha! A palavra me escapou por completo. É uma coisa simples, conhecidíssima."
 "Sim, senhor."
 
 "O senhor vai dar risada quando souber. "
 "Sim, senhor."
 
 Assim como o termo 'cavalheiro' em 'Posso ajudá-lo, cavalheiro?' (segundo parágrafo), o termo
-'senhor', em 'O senhor vai dar risada quando souber' (nono parágrafo), exerce função de vocativo
-no texto, dado que é empregado para chamar, de forma cordial, o interlocutor.
-
+'senhor', em 'O senhor vai dar risada quando souber' (nono parágrafo), exerce função de vocativo no texto, dado que é empregado para chamar, de forma cordial, o interlocutor.
 Comentários:
 
 "Cavalheiro" é de fato vocativo, pois interpela o ouvinte, a quem se dirige a pergunta.
@@ -3064,13 +2369,7 @@ Questão incorreta.
 
 7. CEBRASPE / DPE-RS / 2022
 
-Essa mobilidade lança um desafio aos critérios e às categorias que, pelo menos desde o
-século XVIII, identificam as obras com base na sua estabilidade, singularidade e originalidade. Há
-um estreito vínculo entre a identidade singular, estável, reproduzível dos textos e o
-regime de
-propriedade que protege os direitos dos autores e dos editores. É essa relação que coloca em
-questão o mundo digital, que propõe textos brandos, ubíquos, paUmpsestos.
-
+Essa mobilidade lança um desafio aos critérios e às categorias que, pelo menos desde o século XVIII, identificam as obras com base na sua estabilidade, singularidade e originalidade. Há um estreito vínculo entre a identidade singular, estável, reproduzível dos textos e o regime de propriedade que protege os direitos dos autores e dos editores. É essa relação que coloca em questão o mundo digital, que propõe textos brandos, ubíquos, paUmpsestos.
 No trecho "Há um estreito vínculo entre a identidade singular, estável, reproduzível dos textos",
 o termo "dos textos" funciona como complemento do adjetivo "reproduzível".
 
@@ -3084,20 +2383,11 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 8. CEBRASPE / DPE-RS / 2022
 
 O texto eletrônico, tal qual o conhecemos, é um texto móvel, maleável, aberto. O
-leitor
-pode intervir em seu próprio conteúdo, e não somente nos espaços deixados em branco
-pela
-composição tipográfica. Pode deslocar, recortar, estender, recompor as unidades textuais
-das
-quais se apodera. Nesse processo, desaparece a atribuição dos textos ao nome de seu autor, já
-que são constantemente modificados por uma escritura coletiva, múltipla, polifônica.
-
+leitor pode intervir em seu próprio conteúdo, e não somente nos espaços deixados em branco pela composição tipográfica. Pode deslocar, recortar, estender, recompor as unidades textuais das quais se apodera. Nesse processo, desaparece a atribuição dos textos ao nome de seu autor, já que são constantemente modificados por uma escritura coletiva, múltipla, polifônica.
 Na oração "já que são constantemente modificados por uma escritura coletiva,
 múltipla,
 polifônica" (segundo parágrafo), o termo introduzido pela preposição "por"
-expressa o
-responsável pela ação de modificar.
-
+expressa o responsável pela ação de modificar.
 Comentários:
 
 Aqui temos um agente da passiva:
@@ -3111,11 +2401,7 @@ Questão correta.
 
 9. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
 
-Catar feijão
-r Calar feijão se limita com escrever
-joga-se os grãos na água do alguidar
-c as palavras na folha de papel;
-
+Catar feijão r Calar feijão se limita com escrever joga-se os grãos na água do alguidar c as palavras na folha de papel;
 « c depois, joga-se fora o que boiar.
 
 Certo, toda palavra boiará no papel.
@@ -3125,9 +2411,7 @@ Certo, toda palavra boiará no papel.
 e jogar fora o leve e oco. palha e eco.
 
 «o Ora. nesse catar feijão entra um risco:
-o de que entre os grãos pesados entre
-um grão qualquer, pedra ou indigesto.
-
+o de que entre os grãos pesados entre um grão qualquer, pedra ou indigesto.
 o um grão imastigável, de quebrar dente.
 Certo não. quando ao catar palavras:
 
@@ -3140,32 +2424,18 @@ I«b>ratail4f MttoSn»
 
 k» dr Juciro S«n. FraMe», I«!
 
-Considerando as propriedades linguísticas e os sentidos do poema precedente, julgue o próximo
-item.
-
+Considerando as propriedades linguísticas e os sentidos do poema precedente, julgue o próximo item.
 No verso 13, o termo "imastigável" funciona como complemento nominal de "grão".
 Comentários:
 
-No trecho: "um grão imastigável, de quebrar o dente", notamos que o vocábulo "imastigável" é
-um adjetivo que está caracterizando/restringindo o substantivo concreto grão.
-
-Sintaticamente, exerce a função de adjunto adnominal, e não de complemento nominal. Questão
-incorreta.
-
+No trecho: "um grão imastigável, de quebrar o dente", notamos que o vocábulo "imastigável" é um adjetivo que está caracterizando/restringindo o substantivo concreto grão.
+Sintaticamente, exerce a função de adjunto adnominal, e não de complemento nominal. Questão incorreta.
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 10. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
 
-Candeia era quase nada. Não tinha mais que vinte casas mortas, uma igrejinha velha, um resto de
-praça. Algumas construções nem sequer tinham telhado; outras, invadidas pelo
-mato,
-incompletas, sem paredes. Nem o ar tinha esperança de ser vento. Era custoso acreditar
-que
-morasse alguém naquele cemitério de gigantes.
-
-No texto, o sujeito da oração "Era custoso" (L.3) é
-a) o segmento "acreditar que morasse alguém naquele cemitério de gigantes" (L. 3 e 4).
-
+Candeia era quase nada. Não tinha mais que vinte casas mortas, uma igrejinha velha, um resto de praça. Algumas construções nem sequer tinham telhado; outras, invadidas pelo mato,incompletas, sem paredes. Nem o ar tinha esperança de ser vento. Era custoso acreditar que morasse alguém naquele cemitério de gigantes.
+No texto, o sujeito da oração "Era custoso" (L.3) é a) o segmento "acreditar que morasse alguém naquele cemitério de gigantes" (L. 3 e 4).
 b) o trecho "alguém naquele cemitério de gigantes" (L. 3 e 4).
 
 c) o termo "custoso" (L.3).
@@ -3195,15 +2465,8 @@ O "ser" é verbo de ligação. Questão incorreta.
 
 12. (CEBRASPE / PRF-Policial - 2019)
 
-Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em razão
-de atividades do trabalho humano. Os processos de produção dos objetos que nos cercam
-movimentam relações diversas entre os indivíduos, assim como a organização do trabalho
-alterou-se bastante entre diferentes sociedades e momentos da história.
-
-No trecho "Os processos de produção dos objetos que nos cercam movimentam relações
-diversas entre os indivíduos", o sujeito da forma verbal "cercam" é "Os processos de produção
-dos objetos".
-
+Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em razão de atividades do trabalho humano. Os processos de produção dos objetos que nos cercam movimentam relações diversas entre os indivíduos, assim como a organização do trabalho alterou-se bastante entre diferentes sociedades e momentos da história.
+No trecho "Os processos de produção dos objetos que nos cercam movimentam relações diversas entre os indivíduos", o sujeito da forma verbal "cercam" é "Os processos de produção dos objetos".
 Comentários:
 
 Muito cuidado, a questão é avançada. O sujeito sintático da oração adjetiva é o pronome relativo
@@ -3212,39 +2475,21 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 Os processos de produção dos objetos [que nos cercam] movimentam relações
 
-A oração adjetiva é esta entre colchetes, o termo "Os processos de produção dos objetos" nem
-sequer faz parte da oração. Na verdade, é o sujeito da oração principal:
-
+A oração adjetiva é esta entre colchetes, o termo "Os processos de produção dos objetos" nem sequer faz parte da oração. Na verdade, é o sujeito da oração principal:
 Os processos de produção dos objetos movimentam relações
 
-Para saber a função do pronome relativo, basicamente o substituímos pelo termo que substitui e
-analisamos normalmente a oração adjetiva após a troca:
-
+Para saber a função do pronome relativo, basicamente o substituímos pelo termo que substitui e analisamos normalmente a oração adjetiva após a troca:
 [que nos cercam]
 
 [Os processos de produção dos objetos nos cercam]
 
-Como o termo SERIA (HIPÓTESE) o sujeito, sabemos que o "que" é o sujeito. Lembre, esse é um
-artifício de análise, o termo "Os processos de produção dos objetos" não faz parte de
-fato da
-oração adjetiva e não pode ser sujeito dela, o sujeito é o pronome! Questão incorreta.
-
+Como o termo SERIA (HIPÓTESE) o sujeito, sabemos que o "que" é o sujeito. Lembre, esse é um artifício de análise, o termo "Os processos de produção dos objetos" não faz parte de fato da oração adjetiva e não pode ser sujeito dela, o sujeito é o pronome! Questão incorreta.
 13. (CEBRASPE / CAGE-RS-Auditor Fiscal - 2018)
 
-Por outro lado, a substituição dos tributos indiretos, que atingem o fluxo econômico, por tributos
-que incidam sobre o estoque da riqueza tem o mérito de criar maior
-desenvolvimento
-econômico, pois gera mais consumo, produção e lucros que compensam a tributação sobre a
-riqueza.
+Por outro lado, a substituição dos tributos indiretos, que atingem o fluxo econômico, por tributos que incidam sobre o estoque da riqueza tem o mérito de criar maior desenvolvimento econômico, pois gera mais consumo, produção e lucros que compensam a tributação sobre a riqueza.
+O sujeito da forma verbal "incidam", na linha 2 do texto 1A10AAA, é a) oculto. b) composto. c) indeterminado. d) inexistente. e) simples.Comentários:
 
-O sujeito da forma verbal "incidam", na linha 2 do texto 1A10AAA, é
-a) oculto. b) composto. c) indeterminado. d) inexistente. e) simples.
-Comentários:
-
-Para saber a função do "que" dentro da oração adjetiva, precisamos trocar o "que" por
-seu
-antecedente e depois analisar a função que assume:
-
+Para saber a função do "que" dentro da oração adjetiva, precisamos trocar o "que" por seu antecedente e depois analisar a função que assume:
 tributos [que incidam]
 [tributos incidam]
 
@@ -3254,19 +2499,11 @@ classificado como simples, por ter apenas um núcleo, o próprio pronome. Gabari
 
 14. (CEBRASPE/CGM-JOÃO PESSOA-2018)
 
-Agora, se eu dou um jeito nos meus impostos porque o delegado da receita federal é
-meu
-amigo ou parente e faz a tal "vista grossa", aí temos o "jeitinho" virando corrupção.
-
-Em "temos o 'jeitinho' virando corrupção", os termos 'jeitinho' e "corrupção" funcionam
-como
-complementos diretos da forma verbal "temos".
-
+Agora, se eu dou um jeito nos meus impostos porque o delegado da receita federal é meu amigo ou parente e faz a tal "vista grossa", aí temos o "jeitinho" virando corrupção.
+Em "temos o 'jeitinho' virando corrupção", os termos 'jeitinho' e "corrupção" funcionam como complementos diretos da forma verbal "temos".
 Comentários:
 
-"Corrupção" é um predicativo do sujeito "jeitinho", ligado a ele por um verbo de
-ligação
-(virando - "jeitinho" tornando-se "corrupção": mudança de estado). Questão incorreta.
+"Corrupção" é um predicativo do sujeito "jeitinho", ligado a ele por um verbo de ligação(virando - "jeitinho" tornando-se "corrupção": mudança de estado). Questão incorreta.
 
 15. (CEBRASPE/IHBDF/2018)
 
@@ -3275,30 +2512,16 @@ Quase sempre, condutores, técnicos de enfermagem, enfermeiros e médicos saem e
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 ambulância cortando o trânsito, sirenes ligadas, para atender a alguém que nunca viram.
-Mas
-podem chegar à cena e encontrar um amigo. Estão preparados. O espaço para a emoção é
-pequeno em um serviço que só funciona se apoiado em seu princípio maior: a técnica.
-
-Os termos "um amigo" e "preparados" exercem a mesma função sintática nos períodos em que
-se inserem.
-
+Mas podem chegar à cena e encontrar um amigo. Estão preparados. O espaço para a emoção é pequeno em um serviço que só funciona se apoiado em seu princípio maior: a técnica.
+Os termos "um amigo" e "preparados" exercem a mesma função sintática nos períodos em que se inserem.
 Comentários:
 
-"um amigo" é objeto direto de "encontrar". Preparados é predicativo do sujeito oculto do verbo
-de ligação "Estão": condutores, técnicos de enfermagem, enfermeiros e médicos
-estão
-preparados. Questão incorreta.
-
+"um amigo" é objeto direto de "encontrar". Preparados é predicativo do sujeito oculto do verbo de ligação "Estão": condutores, técnicos de enfermagem, enfermeiros e médicos estão preparados. Questão incorreta.
 16. (CEBRASPE / STM / ANALISTA / 2018)
 
-Trata-se de uma visão revolucionária, já que o convencional era fazer o elogio da harmonia e da
-unidade.
-
+Trata-se de uma visão revolucionária, já que o convencional era fazer o elogio da harmonia e da unidade.
 Se a expressão "uma visão revolucionária" fosse substituída por ideias revolucionárias,
-seria
-necessário alterar a forma verbal "Trata-se" para Tratam-se, para se manter a correção gramatical
-do texto.
-
+seria necessário alterar a forma verbal "Trata-se" para Tratam-se, para se manter a correção gramatical do texto.
 Comentários:
 
 "Tratar-se DE" é expressão invariável, que configura sujeito indeterminado "Verbo
@@ -3307,30 +2530,19 @@ Indireto+SE". Logo, o verbo não vai ao plural. Questão incorreta.
 
 17. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
-Para que a atuação policial ocorra dentro dos parâmetros democráticos, é essencial que haja a
-implementação de um modelo de policiamento que corresponda aos preceitos constitucionais,
-promovendo-se o equilíbrio entre os pressupostos de liberdade e segurança.
+Para que a atuação policial ocorra dentro dos parâmetros democráticos, é essencial que haja a implementação de um modelo de policiamento que corresponda aos preceitos constitucionais,promovendo-se o equilíbrio entre os pressupostos de liberdade e segurança.
 
-/\ oração "que haja a implementação de um modelo de policiamento" (Í.2) tem a função
-de
-qualificar o adjetivo que a antecede: "essencial" (£.2).
-
+/\ oração "que haja a implementação de um modelo de policiamento" (Í.2) tem a função de qualificar o adjetivo que a antecede: "essencial" (£.2).
 Comentários:
 
-O adjetivo já é um qualificador, adjetivos qualificam substantivos. A oração possui função de
-sujeito, trata-se de uma oração subordinada substantiva subjetiva, ou seja, um sujeito oracional.
-
+O adjetivo já é um qualificador, adjetivos qualificam substantivos. A oração possui função de sujeito, trata-se de uma oração subordinada substantiva subjetiva, ou seja, um sujeito oracional.
 [que haja a implementação de um modelo de policiamento] é essencial...
 [ISTO] é essencial... Questão incorreta.
 
 18. (CEBRASPE/STM/ANALISTA/2018)
 
-A liderança é uma questão de redução da incerteza do grupo, e o comportamento pelo qual se
-consegue essa redução é a escolha, a tomada de decisão.
-
-No período "A liderança (...) tomada de decisão", a expressão "A liderança" exerce a função de
-sujeito da forma verbal "é" em suas duas ocorrências.
-
+A liderança é uma questão de redução da incerteza do grupo, e o comportamento pelo qual se consegue essa redução é a escolha, a tomada de decisão.
+No período "A liderança (...) tomada de decisão", a expressão "A liderança" exerce a função de sujeito da forma verbal "é" em suas duas ocorrências.
 Comentários:
 
 Primeiro: marcamos o verbo> "é". Após perguntarmos "Quem/O que É", saberemos quem é o
@@ -3339,16 +2551,12 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 sujeito, que segue sublinhado nas frases abaixo, com seu "núcleo" destacado.
 
-A liderança é uma questão de redução da incerteza do grupo
-o comportamento pelo qual se consegue essa redução é a escolha
-
+A liderança é uma questão de redução da incerteza do grupo o comportamento pelo qual se consegue essa redução é a escolha
 A liderança só é sujeito do "é" na primeira sentença. Questão incorreta.
 
 19. (CEBRASPE / SEFAZ RS / ASSISTENTE / 2018)
 
-No período "A necessidade de guardar as moedas em segurança fez surgirem os bancos", do
-texto 1A1-II, o termo "os bancos" funciona como
-
+No período "A necessidade de guardar as moedas em segurança fez surgirem os bancos", do texto 1A1-II, o termo "os bancos" funciona como
 A) complemento de "fez".
 
 B) agente de "fez".
@@ -3365,15 +2573,8 @@ C.
 
 20. (CEBRASPE / SEFAZ-RS / ASSISTENTE / 2018)
 
-Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. São
-universais, ou seja, são aplicados de forma igual e sem discriminação a todas as pessoas. São
-inalienáveis — e ninguém pode ser privado de seus direitos humanos —, mas podem ser
-limitados em situações específicas: o direito à liberdade pode ser restringido se, após o devido
-processo legal, uma pessoa for julgada culpada de um crime punível com privação de liberdade.
-
-No texto, o sujeito da locução "podem ser limitados", que está oculto, é indicado pelo termo
-a) "todas as pessoas" (I.2).
-
+Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. São universais, ou seja, são aplicados de forma igual e sem discriminação a todas as pessoas. São inalienáveis — e ninguém pode ser privado de seus direitos humanos —, mas podem ser limitados em situações específicas: o direito à liberdade pode ser restringido se, após o devido processo legal, uma pessoa for julgada culpada de um crime punível com privação de liberdade.
+No texto, o sujeito da locução "podem ser limitados", que está oculto, é indicado pelo termo a) "todas as pessoas" (I.2).
 b) "inalienáveis" (I.2).
 
 c) "ninguém" (I.2).
@@ -3383,46 +2584,27 @@ d) "seus direitos humanos" (I.3).
 e) "Os direitos humanos" (1.1).
 Comentários:
 
-Na oração "mas podem ser limitados", o sujeito não apareceu expressamente porque já foi
-mencionado antes e está claro no contexto:
-
-Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. (Os
-direitos humanos) São universais, ou seja, são aplicados de forma igual e sem discriminação a
-todas as pessoas. (Os direitos humanos) São inalienáveis — e ninguém pode ser privado de seus
-direitos humanos —, mas (Os direitos humanos) podem ser limitados em situações específicas
-
+Na oração "mas podem ser limitados", o sujeito não apareceu expressamente porque já foi mencionado antes e está claro no contexto:
+Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. (Os direitos humanos) São universais, ou seja, são aplicados de forma igual e sem discriminação a todas as pessoas. (Os direitos humanos) São inalienáveis — e ninguém pode ser privado de seus direitos humanos —, mas (Os direitos humanos) podem ser limitados em situações específicas
 O referente é "Os direitos humanos". Gabarito letra E.
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 21. (CEBRASPE / STM / ANALISTA / 2018)
 
-Porém, esta suprema máxima não pode ser utilizada como desculpa universal que a todos nos
-absolveria de juízos coxos e opiniões mancas.
-
+Porém, esta suprema máxima não pode ser utilizada como desculpa universal que a todos nos absolveria de juízos coxos e opiniões mancas.
 O termo "a todos" exerce a função de complemento indireto da forma verbal "absolveria".
 Comentários:
 
-O verbo "absolver" não pede preposição; logo, não pede objeto INDIRETO. A preposição
-que
-está ali configura um objeto direto preposicionado. Com o pronome indefinido "todos"
-como
-objeto direto, acrescentamos a preposição, constituindo um objeto direto preposicionado. A
-propósito, isso também ocorre com os pronomes "quem" e "ninguém". Questão incorreta.
+O verbo "absolver" não pede preposição; logo, não pede objeto INDIRETO. A preposição que está ali configura um objeto direto preposicionado. Com o pronome indefinido "todos"como objeto direto, acrescentamos a preposição, constituindo um objeto direto preposicionado. Apropósito, isso também ocorre com os pronomes "quem" e "ninguém". Questão incorreta.
 
 22. (CEBRASPE/STM/ANALISTA/2018)
 
-...a sageza e prudência de não acreditar cegamente naquilo que supõe saber, que daí é que vêm
-os enganos piores, não da ignorância.
-
-O vocábulo "daí" e a expressão "da ignorância" exercem a mesma função sintática no período
-em que ocorrem.
-
+...a sageza e prudência de não acreditar cegamente naquilo que supõe saber, que daí é que vêm os enganos piores, não da ignorância.
+O vocábulo "daí" e a expressão "da ignorância" exercem a mesma função sintática no período em que ocorrem.
 Comentários:
 
-Temos "vir DE+AÍ" (vir daí e "vir DE+A ignorância" (vir da ignorância). Em ambos os casos temos
-objetos indiretos do verbo "vir". Questão correta.
-
+Temos "vir DE+AÍ" (vir daí e "vir DE+A ignorância" (vir da ignorância). Em ambos os casos temos objetos indiretos do verbo "vir". Questão correta.
 23. (CEBRASPE / MPE PI / ANALISTA / 2018)
 
 Já houve acusados que se declararam culpados de crimes que não cometeram.
@@ -3430,43 +2612,24 @@ Já houve acusados que se declararam culpados de crimes que não cometeram.
 O sujeito da forma verbal "cometeram" é indeterminado.
 Comentários:
 
-Dica simples para reconhecer o sujeito indeterminado: você não sabe quem ele é! Então, se você
-consegue determinar o sujeito no contexto, ele não pode ser indeterminado. Lendo o
-texto, é
-evidente que "acusados" não cometeram os crimes; então, o sujeito é apenas oculto, pois não
-está expresso na oração, mas pode ser determinado pelo contexto. Questão incorreta.
-
+Dica simples para reconhecer o sujeito indeterminado: você não sabe quem ele é! Então, se você consegue determinar o sujeito no contexto, ele não pode ser indeterminado. Lendo o texto, é evidente que "acusados" não cometeram os crimes; então, o sujeito é apenas oculto, pois não está expresso na oração, mas pode ser determinado pelo contexto. Questão incorreta.
 24. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
-A unidade surgiu como delegacia especializada em setembro de 2004. Agentes e delegados de
-atendimento a grupos vulneráveis realizam atendimento às vítimas, centralizam procedimentos
-relativos a crimes contra o público vulnerável registrados em outras delegacias, abrem inquéritos
-e termos circunstanciados e fazem investigações de queixas.
-
-Os termos "a crimes contra o público" e "de queixas" complementam, respectivamente, os
-termos "relativos" e "investigações".
-
+A unidade surgiu como delegacia especializada em setembro de 2004. Agentes e delegados de atendimento a grupos vulneráveis realizam atendimento às vítimas, centralizam procedimentos relativos a crimes contra o público vulnerável registrados em outras delegacias, abrem inquéritos e termos circunstanciados e fazem investigações de queixas.
+Os termos "a crimes contra o público" e "de queixas" complementam, respectivamente, os termos "relativos" e "investigações".
 Comentários:
 
-Sim. Se houver termo preposicionado ligado a adjetivo, não há dúvida, temos complemento
-nominal. "Relativo" é um adjetivo que exige complemento com a preposição "a":
-
+Sim. Se houver termo preposicionado ligado a adjetivo, não há dúvida, temos complemento nominal. "Relativo" é um adjetivo que exige complemento com a preposição "a":
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 "Relativo" A algo> "Relativo" A crimes contra o público...
 
-"Investigações", por sua vez, é um substantivo abstrato derivado de ação e "de queixas" possui
-valor passivo: "queixas são investigadas". Então, temos clássico caso de complemento nominal.
-Questão correta.
+"Investigações", por sua vez, é um substantivo abstrato derivado de ação e "de queixas" possui valor passivo: "queixas são investigadas". Então, temos clássico caso de complemento nominal.Questão correta.
 
 25. (CEBRASPE / MPU / ANALISTA / 2018)
 
-buscando-se o aprofundamento da democracia e a garantia da justiça de gênero, da igualdade
-racial e dos direitos humanos
-
-Os termos "de gênero", "da igualdade racial" e "dos direitos humanos" complementam a
-palavra "justiça".
-
+buscando-se o aprofundamento da democracia e a garantia da justiça de gênero, da igualdade racial e dos direitos humanos
+Os termos "de gênero", "da igualdade racial" e "dos direitos humanos" complementam a palavra "justiça".
 Comentários:
 
 Os termos "da igualdade racial" e "dos direitos humanos" complementam a palavra
@@ -3476,25 +2639,17 @@ São termos preposicionados passivos ligados a substantivo abstrato derivado de 
 Garantia "da igualdade racial" (a igualdade racial é garantida) e
 Garantia "dos direitos humanos" (os direitos humanos são garantidos)
 
-O termo preposicionado "de gênero" não possui sentido passivo, é uma especificação, apenas
-um adjunto adnominal de "justiça". Questão incorreta.
-
+O termo preposicionado "de gênero" não possui sentido passivo, é uma especificação, apenas um adjunto adnominal de "justiça". Questão incorreta.
 26. (CEBRASPE / TCM-BA / AUDITOR EST. / 2018)
 
 » Após meses de sofrimento e solidão chega o correio:
 
-esta corrente veio da Venezuela escrita por Salomão Fuais
-para correr mundo
-
-4 faça vinte e quatro cópias e mande a amigos em lugares
-distantes: antes de nove dias terá surpresa, graças a Santo
-Antônio.
+esta corrente veio da Venezuela escrita por Salomão Fuais para correr mundo
+4 faça vinte e quatro cópias e mande a amigos em lugares distantes: antes de nove dias terá surpresa, graças a SantoAntônio.
 
 7 Tem vinte e quatro cópias, mas nâo tem amigos distantes,
 
-José Edouard. Exército venezuelano, esqueceu de distribuir
-cópias, perdeu o emprego.
-
+José Edouard. Exército venezuelano, esqueceu de distribuir cópias, perdeu o emprego.
 w Lupin Gobery incendiou cópia, casa pegou fogo,
 
 metade da família morreu.
@@ -3510,9 +2665,7 @@ Deitado na cama, espera surpresa.
 Julgue o item a seguir.
 
 Nos trechos "chega o correio" (-E.1), "Fecha a casa" (£.14) e "espera surpresa"
-(£.15), os
-elementos "correio", "casa" e "surpresa" exercem a mesma função sintática.
-
+(£.15), os elementos "correio", "casa" e "surpresa" exercem a mesma função sintática.
 Comentários:
 
 "O correio chega" traz "o correio" como sujeito, posposto, após o verbo. Por outro lado, "Casa"
@@ -3524,27 +2677,13 @@ Se, nos Estados Unidos da América, surgem mais e mais casos de assédio sexual 
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-ambientes profissionais — como os que envolvem produtores e atores de cinema—, no Brasil, o
-número de processos desse tipo caiu 7,5% entre 2015 e 2016.
-
-Até setembro de 2017, foram registradas 4.040 ações judiciais sobre assédio sexual no
-trabalho, considerando-se só a primeira instância.
-
+ambientes profissionais — como os que envolvem produtores e atores de cinema—, no Brasil, o número de processos desse tipo caiu 7,5% entre 2015 e 2016.
+Até setembro de 2017, foram registradas 4.040 ações judiciais sobre assédio sexual no trabalho, considerando-se só a primeira instância.
 Os números mostram que o tema ainda é tabu por aqui, analisa o consultor Renato Santos,
-que atua auxiliando empresas a criarem canais de denúncia anônima. "As pessoas não falam por
-medo de serem culpabilizadas ou até de represálias".
-
-Segundo Santos, os canais de denúncia para coibir corrupção nas corporações já recebem
-queixas de assédio e ajudam a identificar eventuais predadores. Para ele, "o anonimato ajuda, já
-que as pessoas se sentem mais protegidas para falar".
-
-A lei só tipifica o crime quando há chantagem de um superior sobre um subordinado para
-tentar obter vantagem sexual. Se um colega constrange o outro, em tese, não há crime, embora
-tal comportamento possa dar causa a reparação por dano moral.
-
-No texto, o trecho "4.040 ações judiciais sobre assédio sexual no trabalho" (L. 4) tem a mesma
-função sintática de
-
+que atua auxiliando empresas a criarem canais de denúncia anônima. "As pessoas não falam por medo de serem culpabilizadas ou até de represálias".
+Segundo Santos, os canais de denúncia para coibir corrupção nas corporações já recebem queixas de assédio e ajudam a identificar eventuais predadores. Para ele, "o anonimato ajuda, já que as pessoas se sentem mais protegidas para falar".
+A lei só tipifica o crime quando há chantagem de um superior sobre um subordinado para tentar obter vantagem sexual. Se um colega constrange o outro, em tese, não há crime, embora tal comportamento possa dar causa a reparação por dano moral.
+No texto, o trecho "4.040 ações judiciais sobre assédio sexual no trabalho" (L. 4) tem a mesma função sintática de
 A) 'por medo de serem culpabilizadas' (L.7-8).
 
 B) "mais e mais casos de assédio sexual" (L. 1).
@@ -3558,29 +2697,21 @@ Comentários:
 
 O termo destacado no enunciado é sujeito (posposto) do verbo intransitivo "surgir":
 
-surgem mais e mais casos de assédio sexual
-mais e mais casos de assédio sexual surgem
-
+surgem mais e mais casos de assédio sexual mais e mais casos de assédio sexual surgem
 O outro "sujeito" está em:
 
 foram registradas 4.040 ações judiciais sobre assédio sexual no trabalho
 
 4.040 ações judiciais sobre assédio sexual no trabalho foram registradas
 
-O termo "4.040 ações judiciais sobre assédio sexual no trabalho" é sujeito paciente da locução
-passiva "foram registradas".
-
+O termo "4.040 ações judiciais sobre assédio sexual no trabalho" é sujeito paciente da locução passiva "foram registradas".
 Vejamos as demais:
 
-A) 'por medo de serem culpabilizadas'- Adjunto adverbial de causa: não falam porque têm
-medo...
-
+A) 'por medo de serem culpabilizadas'- Adjunto adverbial de causa: não falam porque têm medo...
 C) 'mais protegidas para falar' - predicativo do sujeito "pessoas".
 
 D) "chantagem de um superior sobre um subordinado" - objeto direto do verbo "haver",
-que
-não tem sujeito porque é impessoal no sentido de "existir".
-
+que não tem sujeito porque é impessoal no sentido de "existir".
 E) "queixas de assédio" - objeto direto do verbo "recebem". Gabarito letra B.
 
 28. (CEBRASPE / EMAP / CARGOS DE NÍVEL MÉDIO / 2018)
@@ -3600,11 +2731,7 @@ Questão incorreta.
 
 29. (CEBRASPE / IHBDF / 2018)
 
-Exatos 35 anos antes de o presidente Fernando Henrique Cardoso sancionar a atual Lei
-de
-Diretrizes e Bases da Educação Nacional (LDB), em 1996, João Goulart, então recém-alçado à
-presidência do país sob o arranjo do parlamentarismo, promulgou a primeira LDB brasileira.
-
+Exatos 35 anos antes de o presidente Fernando Henrique Cardoso sancionar a atual Lei deDiretrizes e Bases da Educação Nacional (LDB), em 1996, João Goulart, então recém-alçado à presidência do país sob o arranjo do parlamentarismo, promulgou a primeira LDB brasileira.
 No texto CG2A1DDD, o termo "a primeira LDB brasileira" exerce a função sintática de
 
 A) sujeito. B) predicado. C) objeto direto. D) objeto indireto. E) adjunto adverbial.
@@ -3615,32 +2742,16 @@ promulgou algo > promulgou a primeira LDB brasileira. Gabarito letra C.
 
 30. (CEBRASPE / IFF / 2018)
 
-Vi terras por onde andaram os dozes pares de França, os heróis do meu Carlos Magno, lido e
-relido como história de Trancoso. Vi terras do sul, o mar Mediterrâneo, o mar da história, o mar
-dos gregos, dos egípcios, dos fenícios, dos romanos.
-
-Tendo em vista que, no texto CG1A1AAA, algumas expressões têm a função de acrescentar uma
-explicação ao conteúdo de outras, julgue o item a seguir:
-
-O trecho apresentado ("o mar da história, o mar dos gregos, dos egípcios, dos
-fenícios, dos
-romanos") é uma explicação do segundo — "o mar Mediterrâneo".
-
+Vi terras por onde andaram os dozes pares de França, os heróis do meu Carlos Magno, lido e relido como história de Trancoso. Vi terras do sul, o mar Mediterrâneo, o mar da história, o mar dos gregos, dos egípcios, dos fenícios, dos romanos.
+Tendo em vista que, no texto CG1A1AAA, algumas expressões têm a função de acrescentar uma explicação ao conteúdo de outras, julgue o item a seguir:
+O trecho apresentado ("o mar da história, o mar dos gregos, dos egípcios, dos fenícios, dos romanos") é uma explicação do segundo — "o mar Mediterrâneo".
 Comentários:
 
-Sim. O termo "o mar da história, o mar dos gregos, dos egípcios, dos fenícios, dos romanos" é
-justamente um desenvolvimento, uma explicação de "o mar Mediterrâneo". De fato, esse
-mar,
-localizado entre a Europa e a África, foi um canal entre essas civilizações antigas.
-Questão
-correta.
-
+Sim. O termo "o mar da história, o mar dos gregos, dos egípcios, dos fenícios, dos romanos" é justamente um desenvolvimento, uma explicação de "o mar Mediterrâneo". De fato, esse mar,localizado entre a Europa e a África, foi um canal entre essas civilizações antigas.
+Questão correta.
 31. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
 
-Creio que o governo não é assim um negociante ganancioso que vende gêneros que possam
-trazer a destruição de vidas preciosas; e creio que não é, porquanto anda sempre zangado com
-os farmacêuticos que vendem cocaína aos suicidas. Há sempre no Estado curiosas contradições.
-
+Creio que o governo não é assim um negociante ganancioso que vende gêneros que possam trazer a destruição de vidas preciosas; e creio que não é, porquanto anda sempre zangado com os farmacêuticos que vendem cocaína aos suicidas. Há sempre no Estado curiosas contradições.
 O sujeito elíptico da forma verbal "anda" retoma a expressão "um negociante ganancioso".
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
@@ -3657,68 +2768,29 @@ LISTA DE QUESTõES - FUNçõES SINTÁTICAS - CEBRASPE
 1. CEBRASPE / FUNPRESP-EXE / 2022
 
 Esse movimento, além de tardio na história da humanidade, só se produziu uma única vez.
-Para retomar uma fórmula muito conhecida de Descartes, o homem se fez então "mestre e
-senhor da natureza". Resultou daí um extraordinário desenvolvimento das ciências e das técnicas,
-mas também a exploração desenfreada de uma natureza composta, a partir de então, de objetos
-sem ligação com os humanos: plantas, animais, terras, águas e rochas convertidos em
-meros
-recursos que podemos usar e dos quais podemos tirar proveito. Naquela altura, a natureza havia
-perdido sua alma e nada mais nos impedia de vê-la unicamente como fonte de riqueza.
-
-No penúltimo período do texto, os termos "um extraordinário desenvolvimento das ciências
-e
-das técnicas" e "a exploração desenfreada (...) os humanos" exercem a função de complemento
-da forma verbal "Resultou".
-
+Para retomar uma fórmula muito conhecida de Descartes, o homem se fez então "mestre e senhor da natureza". Resultou daí um extraordinário desenvolvimento das ciências e das técnicas,mas também a exploração desenfreada de uma natureza composta, a partir de então, de objetos sem ligação com os humanos: plantas, animais, terras, águas e rochas convertidos em meros recursos que podemos usar e dos quais podemos tirar proveito. Naquela altura, a natureza havia perdido sua alma e nada mais nos impedia de vê-la unicamente como fonte de riqueza.
+No penúltimo período do texto, os termos "um extraordinário desenvolvimento das ciências e das técnicas" e "a exploração desenfreada (...) os humanos" exercem a função de complemento da forma verbal "Resultou".
 2. CEBRASPE/IBAMA/2022
 
 De acordo com Mariana Schuchovski, professora de Sustentabilidade do ISAE Escola de
-Negócios, a disseminação do vírus é resultado do atual modelo de desenvolvimento, que
-fomenta o uso irracional de recursos naturais e a destruição de hábitats, como florestas e outras
-áreas, o que faz que animais, forçados a mudar seus hábitos de vida, contraiam e transmitam
-doenças que não existiriam em situações normais. "Situações de desequilíbrio ambiental,
-causadas principalmente por desmatamento e mudanças de clima, aumentam ainda mais a
-probabilidade de que zoonoses, ou seja, doenças de origem animal, nos atinjam e alcancem o
-patamar de epidemias e pandemias", explica a professora.
-
-No segundo período do terceiro parágrafo, a forma pronominal 'nos' funciona
-como
-complemento das formas verbais 'atinjam' e 'alcancem'.
-
+Negócios, a disseminação do vírus é resultado do atual modelo de desenvolvimento, que fomenta o uso irracional de recursos naturais e a destruição de hábitats, como florestas e outras áreas, o que faz que animais, forçados a mudar seus hábitos de vida, contraiam e transmitam doenças que não existiriam em situações normais. "Situações de desequilíbrio ambiental,causadas principalmente por desmatamento e mudanças de clima, aumentam ainda mais a probabilidade de que zoonoses, ou seja, doenças de origem animal, nos atinjam e alcancem o patamar de epidemias e pandemias", explica a professora.
+No segundo período do terceiro parágrafo, a forma pronominal 'nos' funciona como complemento das formas verbais 'atinjam' e 'alcancem'.
 3. CEBRASPE/ PETROBRAS / 2022
 
-...O sábio é aquele que atinge essa percepção. Para Platão, conhecer o Bem significa tornar-se
-virtuoso. Aquele que conhece a justiça não pode deixar de agir de modo justo.
-
-No último período do texto, o termo "Aquele" exerce a função sintática de sujeito da
-oração
-"que conhece a justiça".
+...O sábio é aquele que atinge essa percepção. Para Platão, conhecer o Bem significa tornar-se virtuoso. Aquele que conhece a justiça não pode deixar de agir de modo justo.
+No último período do texto, o termo "Aquele" exerce a função sintática de sujeito da oração"que conhece a justiça".
 
 4. CEBRASPE/IBAMA/2022
 
-...Por outro lado, para que possamos fazer melhores escolhas e praticar o verdadeiro consumo
-consciente, é necessário que, em primeiro lugar, as empresas realizem a produção consciente,
-assumindo sua verdadeira responsabilidade pelos impactos que causam.
+...Por outro lado, para que possamos fazer melhores escolhas e praticar o verdadeiro consumo consciente, é necessário que, em primeiro lugar, as empresas realizem a produção consciente,assumindo sua verdadeira responsabilidade pelos impactos que causam.
 
-O pronome "que", em "que causam" (último período do texto), exerce a função de
-sujeito da
-oração em que ocorre e retoma o termo "as empresas".
-
+O pronome "que", em "que causam" (último período do texto), exerce a função de sujeito da oração em que ocorre e retoma o termo "as empresas".
 5. CEBRASPE / DPE-DF / 2022
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
-Diante da lei está um porteiro. Um homem do campo dirige-se a este porteiro e pede para
-entrar na lei. Mas o porteiro diz que agora não pode permitir-lhe a entrada. O homem do campo
-reflete e depois pergunta se então não pode entrar mais tarde. "É possível", diz o porteiro, "mas
-agora nãoUma vez que a porta da lei continua como sempre aberta, e o porteiro se
-põe de
-lado, o homem se inclina para o interior através da porta.
-
-A locução "Uma vez que", que inicia o período "Uma vez que a porta da lei continua
-como
-sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior através da porta",
-foi empregada no sentido de conformidade.
+Diante da lei está um porteiro. Um homem do campo dirige-se a este porteiro e pede para entrar na lei. Mas o porteiro diz que agora não pode permitir-lhe a entrada. O homem do campo reflete e depois pergunta se então não pode entrar mais tarde. "É possível", diz o porteiro, "mas agora nãoUma vez que a porta da lei continua como sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior através da porta.
+A locução "Uma vez que", que inicia o período "Uma vez que a porta da lei continua como sempre aberta, e o porteiro se põe de lado, o homem se inclina para o interior através da porta",foi empregada no sentido de conformidade.
 
 6. CEBRASPE / TELEBRAS / 2022
 
@@ -3733,40 +2805,24 @@ Imagine-se entrando numa loja para comprar um... um... como é mesmo o nome?
 "Um... como é mesmo o nome?"
 "Sim?"
 
-"Pomba! Um... um... Que cabeça a minha! A palavra me escapou por completo. É uma coisa
-simples, conhecidíssima."
-
+"Pomba! Um... um... Que cabeça a minha! A palavra me escapou por completo. É uma coisa simples, conhecidíssima."
 "Sim, senhor."
 
 "O senhor vai dar risada quando souber. "
 "Sim, senhor."
 
 Assim como o termo 'cavalheiro' em 'Posso ajudá-lo, cavalheiro?' (segundo parágrafo), o termo
-'senhor', em 'O senhor vai dar risada quando souber' (nono parágrafo), exerce função de vocativo
-no texto, dado que é empregado para chamar, de forma cordial, o interlocutor.
-
+'senhor', em 'O senhor vai dar risada quando souber' (nono parágrafo), exerce função de vocativo no texto, dado que é empregado para chamar, de forma cordial, o interlocutor.
 7. CEBRASPE / DPE-RS / 2022
 
-Essa mobilidade lança um desafio aos critérios e às categorias que, pelo menos desde o
-século XVIII, identificam as obras com base na sua estabilidade, singularidade e originalidade. Há
-um estreito vínculo entre a identidade singular, estável, reproduzível dos textos e o
-regime de
-propriedade que protege os direitos dos autores e dos editores. É essa relação que coloca em
-questão o mundo digital, que propõe textos brandos, ubíquos, paUmpsestos.
-
+Essa mobilidade lança um desafio aos critérios e às categorias que, pelo menos desde o século XVIII, identificam as obras com base na sua estabilidade, singularidade e originalidade. Há um estreito vínculo entre a identidade singular, estável, reproduzível dos textos e o regime de propriedade que protege os direitos dos autores e dos editores. É essa relação que coloca em questão o mundo digital, que propõe textos brandos, ubíquos, paUmpsestos.
 No trecho "Há um estreito vínculo entre a identidade singular, estável, reproduzível dos textos",
 o termo "dos textos" funciona como complemento do adjetivo "reproduzível".
 
 8. CEBRASPE/DPE-RS/2022
 
 O texto eletrônico, tal qual o conhecemos, é um texto móvel, maleável, aberto. O
-leitor
-pode intervir em seu próprio conteúdo, e não somente nos espaços deixados em branco
-pela
-composição tipográfica. Pode deslocar, recortar, estender, recompor as unidades textuais
-das
-quais se apodera. Nesse processo, desaparece a atribuição dos textos ao nome de seu autor, já
-
+leitor pode intervir em seu próprio conteúdo, e não somente nos espaços deixados em branco pela composição tipográfica. Pode deslocar, recortar, estender, recompor as unidades textuais das quais se apodera. Nesse processo, desaparece a atribuição dos textos ao nome de seu autor, já
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 que são constantemente modificados por uma escritura coletiva, múltipla, polifônica.
@@ -3774,16 +2830,10 @@ que são constantemente modificados por uma escritura coletiva, múltipla, polif
 Na oração "já que são constantemente modificados por uma escritura coletiva,
 múltipla,
 polifônica" (segundo parágrafo), o termo introduzido pela preposição "por"
-expressa o
-responsável pela ação de modificar.
-
+expressa o responsável pela ação de modificar.
 9. (CEBRASPE / PREFEITURA MUNICIPAL DE SÃO CRISTÓVÃO (SE) / 2019)
 
-Catar feijão
-r Calar feijão se limita com escrever
-joga-se os grãos na água do alguidar
-c as palavras na folha de papel;
-
+Catar feijão r Calar feijão se limita com escrever joga-se os grãos na água do alguidar c as palavras na folha de papel;
 « c depois, joga-se fora o que boiar.
 
 Certo, toda palavra boiará no papel.
@@ -3793,9 +2843,7 @@ r pois para calar esse feijão, soprar nele.
 e jogar fora o leve e oco. palha e eco.
 
 «o Ora. nesse catar feijão entra um risco;
-o de que entre os grãos pesados entre
-um grão qualquer, pedra ou indigesto.
-
+o de que entre os grãos pesados entre um grão qualquer, pedra ou indigesto.
 o um grão imastigável, de quebrar dente.
 Certo não. quando ao catar palavras;
 a pedra dá à frase seu grão mais vivo:
@@ -3808,23 +2856,13 @@ I«b>ratail4f MttoSn»
 
 k» dr Juciro S«n. FraMe», I«!
 
-Considerando as propriedades linguísticas e os sentidos do poema precedente, julgue o próximo
-item.
-
+Considerando as propriedades linguísticas e os sentidos do poema precedente, julgue o próximo item.
 No verso 13, o termo "imastigável" funciona como complemento nominal de "grão".
 
 10. (CEBRASPE / CGE-CE / CONHEC. BÁSICOS / 2019)
 
-Candeia era quase nada. Não tinha mais que vinte casas mortas, uma igrejinha velha, um resto de
-praça. Algumas construções nem sequer tinham telhado; outras, invadidas pelo
-mato,
-incompletas, sem paredes. Nem o ar tinha esperança de ser vento. Era custoso acreditar
-que
-morasse alguém naquele cemitério de gigantes.
-
-No texto, o sujeito da oração "Era custoso" (L.3) é
-a) o segmento "acreditar que morasse alguém naquele cemitério de gigantes" (L. 3 e 4).
-
+Candeia era quase nada. Não tinha mais que vinte casas mortas, uma igrejinha velha, um resto de praça. Algumas construções nem sequer tinham telhado; outras, invadidas pelo mato,incompletas, sem paredes. Nem o ar tinha esperança de ser vento. Era custoso acreditar que morasse alguém naquele cemitério de gigantes.
+No texto, o sujeito da oração "Era custoso" (L.3) é a) o segmento "acreditar que morasse alguém naquele cemitério de gigantes" (L. 3 e 4).
 b) o trecho "alguém naquele cemitério de gigantes" (L. 3 e 4).
 
 c) o termo "custoso" (L.3).
@@ -3843,82 +2881,41 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 12. (CEBRASPE / PRF-Policial - 2019)
 
-Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em razão
-de atividades do trabalho humano. Os processos de produção dos objetos que nos cercam
-movimentam relações diversas entre os indivíduos, assim como a organização do trabalho
-alterou-se bastante entre diferentes sociedades e momentos da história.
-
-No trecho "Os processos de produção dos objetos que nos cercam movimentam relações
-diversas entre os indivíduos", o sujeito da forma verbal "cercam" é "Os processos de produção
-dos objetos".
-
+Se prestarmos atenção à nossa volta, perceberemos que quase tudo que vemos existe em razão de atividades do trabalho humano. Os processos de produção dos objetos que nos cercam movimentam relações diversas entre os indivíduos, assim como a organização do trabalho alterou-se bastante entre diferentes sociedades e momentos da história.
+No trecho "Os processos de produção dos objetos que nos cercam movimentam relações diversas entre os indivíduos", o sujeito da forma verbal "cercam" é "Os processos de produção dos objetos".
 13. (CEBRASPE / CAGE-RS-Auditor Fiscal - 2018)
 
-Por outro lado, a substituição dos tributos indiretos, que atingem o fluxo econômico, por tributos
-que incidam sobre o estoque da riqueza tem o mérito de criar maior
-desenvolvimento
-econômico, pois gera mais consumo, produção e lucros que compensam a tributação sobre a
-riqueza.
-
-O sujeito da forma verbal "incidam", na linha 2 do texto 1A10AAA, é
-a) oculto. b) composto. c) indeterminado. d) inexistente. e) simples.
-
+Por outro lado, a substituição dos tributos indiretos, que atingem o fluxo econômico, por tributos que incidam sobre o estoque da riqueza tem o mérito de criar maior desenvolvimento econômico, pois gera mais consumo, produção e lucros que compensam a tributação sobre a riqueza.
+O sujeito da forma verbal "incidam", na linha 2 do texto 1A10AAA, é a) oculto. b) composto. c) indeterminado. d) inexistente. e) simples.
 14. (CEBRASPE/CGM-JOÃO PESSOA-2018)
 
-Agora, se eu dou um jeito nos meus impostos porque o delegado da receita federal é
-meu
-amigo ou parente e faz a tal "vista grossa", aí temos o "jeitinho" virando corrupção.
-
-Em "temos o 'jeitinho' virando corrupção", os termos 'jeitinho' e "corrupção" funcionam
-como
-complementos diretos da forma verbal "temos".
-
+Agora, se eu dou um jeito nos meus impostos porque o delegado da receita federal é meu amigo ou parente e faz a tal "vista grossa", aí temos o "jeitinho" virando corrupção.
+Em "temos o 'jeitinho' virando corrupção", os termos 'jeitinho' e "corrupção" funcionam como complementos diretos da forma verbal "temos".
 15. (CEBRASPE/IHBDF/2018)
 
 Quase sempre, condutores, técnicos de enfermagem, enfermeiros e médicos saem em disparada,
 ambulância cortando o trânsito, sirenes ligadas, para atender a alguém que nunca viram.
-Mas
-podem chegar à cena e encontrar um amigo. Estão preparados. O espaço para a emoção é
-pequeno em um serviço que só funciona se apoiado em seu princípio maior: a técnica.
-
-Os termos "um amigo" e "preparados" exercem a mesma função sintática nos períodos em que
-se inserem.
-
+Mas podem chegar à cena e encontrar um amigo. Estão preparados. O espaço para a emoção é pequeno em um serviço que só funciona se apoiado em seu princípio maior: a técnica.
+Os termos "um amigo" e "preparados" exercem a mesma função sintática nos períodos em que se inserem.
 16. (CEBRASPE / STM /ANALISTA/ 2018)
 
-Trata-se de uma visão revolucionária, já que o convencional era fazer o elogio da harmonia e da
-unidade.
-
+Trata-se de uma visão revolucionária, já que o convencional era fazer o elogio da harmonia e da unidade.
 Se a expressão "uma visão revolucionária" fosse substituída por ideias revolucionárias,
-seria
-necessário alterar a forma verbal "Trata-se" para Tratam-se, para se manter a correção gramatical
-do texto.
-
+seria necessário alterar a forma verbal "Trata-se" para Tratam-se, para se manter a correção gramatical do texto.
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 17. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
-Para que a atuação policial ocorra dentro dos parâmetros democráticos, é essencial que haja a
-implementação de um modelo de policiamento que corresponda aos preceitos constitucionais,
-promovendo-se o equilíbrio entre os pressupostos de liberdade e segurança.
+Para que a atuação policial ocorra dentro dos parâmetros democráticos, é essencial que haja a implementação de um modelo de policiamento que corresponda aos preceitos constitucionais,promovendo-se o equilíbrio entre os pressupostos de liberdade e segurança.
 
-/\ oração "que haja a implementação de um modelo de policiamento" (£.2) tem a função
-de
-qualificar o adjetivo que a antecede: "essencial" (£.2).
-
+/\ oração "que haja a implementação de um modelo de policiamento" (£.2) tem a função de qualificar o adjetivo que a antecede: "essencial" (£.2).
 18. (CEBRASPE / STM /ANALISTA/ 2018)
 
-A liderança é uma questão de redução da incerteza do grupo, e o comportamento pelo qual se
-consegue essa redução é a escolha, a tomada de decisão.
-
-No período "A liderança (...) tomada de decisão", a expressão "A liderança" exerce a função de
-sujeito da forma verbal "é" em suas duas ocorrências.
-
+A liderança é uma questão de redução da incerteza do grupo, e o comportamento pelo qual se consegue essa redução é a escolha, a tomada de decisão.
+No período "A liderança (...) tomada de decisão", a expressão "A liderança" exerce a função de sujeito da forma verbal "é" em suas duas ocorrências.
 19. (CEBRASPE / SEFAZ RS / ASSISTENTE / 2018)
 
-No período "A necessidade de guardar as moedas em segurança fez surgirem os bancos", do
-texto 1A1-II, o termo "os bancos" funciona como
-
+No período "A necessidade de guardar as moedas em segurança fez surgirem os bancos", do texto 1A1-II, o termo "os bancos" funciona como
 A) complemento de "fez".
 
 B) agente de "fez".
@@ -3931,15 +2928,8 @@ E) adjunto adverbial de lugar.
 
 20. (CEBRASPE / SEFAZ-RS / ASSISTENTE / 2018)
 
-Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. São
-universais, ou seja, são aplicados de forma igual e sem discriminação a todas as pessoas. São
-inalienáveis — e ninguém pode ser privado de seus direitos humanos —, mas podem ser
-limitados em situações específicas: o direito à liberdade pode ser restringido se, após o devido
-processo legal, uma pessoa for julgada culpada de um crime punível com privação de liberdade.
-
-No texto, o sujeito da locução "podem ser limitados", que está oculto, é indicado pelo termo
-a) "todas as pessoas" (I.2).
-
+Os direitos humanos são fundados no respeito pela dignidade e no valor de cada pessoa. São universais, ou seja, são aplicados de forma igual e sem discriminação a todas as pessoas. São inalienáveis — e ninguém pode ser privado de seus direitos humanos —, mas podem ser limitados em situações específicas: o direito à liberdade pode ser restringido se, após o devido processo legal, uma pessoa for julgada culpada de um crime punível com privação de liberdade.
+No texto, o sujeito da locução "podem ser limitados", que está oculto, é indicado pelo termo a) "todas as pessoas" (I.2).
 b) "inalienáveis" (I.2).
 
 c) "ninguém" (I.2).
@@ -3960,12 +2950,8 @@ O termo "a todos" exerce a função de complemento indireto da forma verbal "abs
 
 22. (CEBRASPE / STM / ANALISTA / 2018)
 
-...a sageza e prudência de não acreditar cegamente naquilo que supõe saber, que daí é que vêm
-os enganos piores, não da ignorância.
-
-O vocábulo "daí" e a expressão "da ignorância" exercem a mesma função sintática no período
-em que ocorrem.
-
+...a sageza e prudência de não acreditar cegamente naquilo que supõe saber, que daí é que vêm os enganos piores, não da ignorância.
+O vocábulo "daí" e a expressão "da ignorância" exercem a mesma função sintática no período em que ocorrem.
 23. (CEBRASPE / MPE PI / ANALISTA / 2018)
 
 Já houve acusados que se declararam culpados de crimes que não cometeram.
@@ -3974,40 +2960,24 @@ O sujeito da forma verbal "cometeram" é indeterminado.
 
 24. (CEBRASPE / PC-SE / DELEGADO / 2018)
 
-A unidade surgiu como delegacia especializada em setembro de 2004. Agentes e delegados de
-atendimento a grupos vulneráveis realizam atendimento às vítimas, centralizam procedimentos
-relativos a crimes contra o público vulnerável registrados em outras delegacias, abrem inquéritos
-e termos circunstanciados e fazem investigações de queixas.
-
-Os termos "a crimes contra o público" e "de queixas" complementam, respectivamente, os
-termos "relativos" e "investigações".
-
+A unidade surgiu como delegacia especializada em setembro de 2004. Agentes e delegados de atendimento a grupos vulneráveis realizam atendimento às vítimas, centralizam procedimentos relativos a crimes contra o público vulnerável registrados em outras delegacias, abrem inquéritos e termos circunstanciados e fazem investigações de queixas.
+Os termos "a crimes contra o público" e "de queixas" complementam, respectivamente, os termos "relativos" e "investigações".
 25. (CEBRASPE/MPU/ANALISTA/2018)
 
-buscando-se o aprofundamento da democracia e a garantia da justiça de gênero, da igualdade
-racial e dos direitos humanos
-
-Os termos "de gênero", "da igualdade racial" e "dos direitos humanos" complementam a
-palavra "justiça".
-
+buscando-se o aprofundamento da democracia e a garantia da justiça de gênero, da igualdade racial e dos direitos humanos
+Os termos "de gênero", "da igualdade racial" e "dos direitos humanos" complementam a palavra "justiça".
 26. (CEBRASPE / TCM-BA / AUDITOR EST. / 2018)
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 i Após meses de sofrimento e solidão chega o correio:
 
-esta corrente veio da Venezuela escrita por Salomão Fuais
-para correr mundo
-
-4 faça vinte e quatro cópias e mande a amigos em lugares
-distantes: antes de nove dias terá surpresa, graças a Santo
-Antônio.
+esta corrente veio da Venezuela escrita por Salomão Fuais para correr mundo
+4 faça vinte e quatro cópias e mande a amigos em lugares distantes: antes de nove dias terá surpresa, graças a SantoAntônio.
 
 7 Tem vinte e quatro cópias, mas nâo tem amigos distantes,
 
-José Edouard. Exército venezuelano, esqueceu de distribuir
-cópias, perdeu o emprego.
-
+José Edouard. Exército venezuelano, esqueceu de distribuir cópias, perdeu o emprego.
 w Lupin Gobery incendiou cópia, casa pegou fogo,
 
 metade da família morreu.
@@ -4023,33 +2993,16 @@ Deitado na cama, espera surpresa.
 Julgue o item a seguir.
 
 Nos trechos "chega o correio" (£.1), "Fecha a casa" (£.14) e "espera surpresa" (£.15),
-os
-elementos "correio", "casa" e "surpresa" exercem a mesma função sintática.
-
+os elementos "correio", "casa" e "surpresa" exercem a mesma função sintática.
 27. (CEBRASPE / PC-MA / ESCRIVÃO / 2018)
 
-Se, nos Estados Unidos da América, surgem mais e mais casos de assédio sexual em
-ambientes profissionais — como os que envolvem produtores e atores de cinema—, no Brasil, o
-número de processos desse tipo caiu 7,5% entre 2015 e 2016.
-
-Até setembro de 2017, foram registradas 4.040 ações judiciais sobre assédio sexual no
-trabalho, considerando-se só a primeira instância.
-
+Se, nos Estados Unidos da América, surgem mais e mais casos de assédio sexual em ambientes profissionais — como os que envolvem produtores e atores de cinema—, no Brasil, o número de processos desse tipo caiu 7,5% entre 2015 e 2016.
+Até setembro de 2017, foram registradas 4.040 ações judiciais sobre assédio sexual no trabalho, considerando-se só a primeira instância.
 Os números mostram que o tema ainda é tabu por aqui, analisa o consultor Renato Santos,
-que atua auxiliando empresas a criarem canais de denúncia anônima. "As pessoas não falam por
-medo de serem culpabilizadas ou até de represálias".
-
-Segundo Santos, os canais de denúncia para coibir corrupção nas corporações já recebem
-queixas de assédio e ajudam a identificar eventuais predadores. Para ele, "o anonimato ajuda, já
-que as pessoas se sentem mais protegidas para falar".
-
-A lei só tipifica o crime quando há chantagem de um superior sobre um subordinado para
-tentar obter vantagem sexual. Se um colega constrange o outro, em tese, não há crime, embora
-tal comportamento possa dar causa a reparação por dano moral.
-
-No texto, o trecho "4.040 ações judiciais sobre assédio sexual no trabalho" (L. 4) tem a mesma
-função sintática de
-
+que atua auxiliando empresas a criarem canais de denúncia anônima. "As pessoas não falam por medo de serem culpabilizadas ou até de represálias".
+Segundo Santos, os canais de denúncia para coibir corrupção nas corporações já recebem queixas de assédio e ajudam a identificar eventuais predadores. Para ele, "o anonimato ajuda, já que as pessoas se sentem mais protegidas para falar".
+A lei só tipifica o crime quando há chantagem de um superior sobre um subordinado para tentar obter vantagem sexual. Se um colega constrange o outro, em tese, não há crime, embora tal comportamento possa dar causa a reparação por dano moral.
+No texto, o trecho "4.040 ações judiciais sobre assédio sexual no trabalho" (L. 4) tem a mesma função sintática de
 A) 'por medo de serem culpabilizadas' (L.7-8).
 
 B) "mais e mais casos de assédio sexual" (L. 1).
@@ -4070,34 +3023,19 @@ O sujeito da oração iniciada por "Destaca-se" é indeterminado, portanto não 
 
 29. (CEBRASPE / IHBDF / 2018)
 
-Exatos 35 anos antes de o presidente Fernando Henrique Cardoso sancionar a atual Lei
-de
-Diretrizes e Bases da Educação Nacional (LDB), em 1996, João Goulart, então recém-alçado à
-presidência do país sob o arranjo do parlamentarismo, promulgou a primeira LDB brasileira.
-
+Exatos 35 anos antes de o presidente Fernando Henrique Cardoso sancionar a atual Lei deDiretrizes e Bases da Educação Nacional (LDB), em 1996, João Goulart, então recém-alçado à presidência do país sob o arranjo do parlamentarismo, promulgou a primeira LDB brasileira.
 No texto CG2A1DDD, o termo "a primeira LDB brasileira" exerce a função sintática de
 
 A) sujeito. B) predicado. C) objeto direto. D) objeto indireto. E) adjunto adverbial.
 
 30. (CEBRASPE / IFF / 2018)
 
-Vi terras por onde andaram os dozes pares de França, os heróis do meu Carlos Magno, lido e
-relido como história de Trancoso. Vi terras do sul, o mar Mediterrâneo, o mar da história, o mar
-dos gregos, dos egípcios, dos fenícios, dos romanos.
-
-Tendo em vista que, no texto CG1A1AAA, algumas expressões têm a função de acrescentar uma
-explicação ao conteúdo de outras, julgue o item a seguir:
-
-O trecho apresentado ("o mar da história, o mar dos gregos, dos egípcios, dos
-fenícios, dos
-romanos") é uma explicação do segundo — "o mar Mediterrâneo".
-
+Vi terras por onde andaram os dozes pares de França, os heróis do meu Carlos Magno, lido e relido como história de Trancoso. Vi terras do sul, o mar Mediterrâneo, o mar da história, o mar dos gregos, dos egípcios, dos fenícios, dos romanos.
+Tendo em vista que, no texto CG1A1AAA, algumas expressões têm a função de acrescentar uma explicação ao conteúdo de outras, julgue o item a seguir:
+O trecho apresentado ("o mar da história, o mar dos gregos, dos egípcios, dos fenícios, dos romanos") é uma explicação do segundo — "o mar Mediterrâneo".
 31. (CEBRASPE / EBSERH / CARGOS DE NÍVEL SUPERIOR / 2018)
 
-Creio que o governo não é assim um negociante ganancioso que vende gêneros que possam
-trazer a destruição de vidas preciosas; e creio que não é, porquanto anda sempre zangado com
-os farmacêuticos que vendem cocaína aos suicidas. Há sempre no Estado curiosas contradições.
-
+Creio que o governo não é assim um negociante ganancioso que vende gêneros que possam trazer a destruição de vidas preciosas; e creio que não é, porquanto anda sempre zangado com os farmacêuticos que vendem cocaína aos suicidas. Há sempre no Estado curiosas contradições.
 O sujeito elíptico da forma verbal "anda" retoma a expressão "um negociante ganancioso".
 
 GABARITo

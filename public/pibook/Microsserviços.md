@@ -22,5 +22,4 @@ Benefícios dos microsserviços:
 
 4. Resiliência e isolamento de falhas: Caso um serviço falhe, os outros serviços podem continuar funcionando, reduzindo o impacto no sistema como um todo. Além disso, cada serviço possui seu próprio ambiente isolado, o que ajuda a prevenir que falhas em um serviço afetem os outros.
 
-No entanto, é importante destacar que a adoção de uma arquitetura de microsserviços também traz desafios, como a complexidade na gestão da comunicação entre os serviços, a necessidade de uma infraestrutura robusta para suportar o gerenciamento de mú
-ltiplos serviços e a necessidade de uma estratégia eficiente de monitoramento e depuração em um ambiente distribuído. Portanto, é importante avaliar cuidadosamente os benefícios e desafios antes de optar por uma arquitetura de microsserviços em um projeto.
+No entanto, é importante destacar que a adoção de uma arquitetura de microsserviços também traz desafios, como a complexidade na gestão da comunicação entre os serviços, a necessidade de uma infraestrutura robusta para suportar o gerenciamento de mú ltiplos serviços e a necessidade de uma estratégia eficiente de monitoramento e depuração em um ambiente distribuído. Portanto, é importante avaliar cuidadosamente os benefícios e desafios antes de optar por uma arquitetura de microsserviços em um projeto.
