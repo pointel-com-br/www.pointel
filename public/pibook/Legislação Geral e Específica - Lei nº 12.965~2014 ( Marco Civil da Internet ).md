@@ -402,7 +402,6 @@ A alternativa (B) está incorreta, diante do entendimento de que o Poder Judici�
 A alternativa (C) está incorreta, visto que a cláusula contratual não poderia afastar o direito constitucional à inviolabilidade das comunicações. Seria uma cláusula nula:
 
 .
-* ..
 **
 i
 
@@ -670,7 +669,6 @@ Comentários:
 
 Questão que cobrou a definição legal de conexão:
 
-***
 * i
 
 Art. 59 * II., V - conexão à internet: a habilitação de um terminal para envio e recebimento de iL:
@@ -815,13 +813,11 @@ Art. 14. Na provisão de conexão, onerosa ou gratuita, é vedado guardar os reg
 
 1>
 
-...
 
 Por fim, a alternativa (E) está incorreta. Diante de requisição de autoridade policial, os registros poderão ser guardados por prazo superior a 1 ano:
 *
 *
 **
-* ..
 
 Art. 13. Na provisão de conexão à internet, cabe ao administrador de sistema autônomo i
 

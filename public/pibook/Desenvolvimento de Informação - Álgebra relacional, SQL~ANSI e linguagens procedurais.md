@@ -620,7 +620,6 @@ Se você definir o tipo de dados de uma coluna como BINARY, poderá especificar 
 nomedaColuna BINARY(16),
 
 Outra opção é usar o tipo BINARY VARYING ou VARBINARY quando o comprimento de uma string binária for variável. Para especificar este tipo de dados, use VARBINARY (x) onde x é o número máximo de bytes permitidos. Perceba que o tamanho mínimo da string é zero e o tamanho máximo éx. Vejamos um exemplo:
-* * */
 
 nomeDaColunaOl VARBINARY (20),
 

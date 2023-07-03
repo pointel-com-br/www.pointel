@@ -74,7 +74,6 @@ As definições acima podem parecer um pouco complicadas, normalmente, elas são
 A forma como conceituamos acima é uma consequência da definição original. É
 muito útil quando precisamos identificar se um número é par ou ímpar!
 r ..........................................................................
-**..............................................
 
 í (PREF. IMBÉ/2020) Analise as assertivas abaixo e assinale V, se verdadeiras, ou F,
 se falsas.
@@ -457,9 +456,6 @@ Quando multiplicamos os dois: /5 x V2Õ = VlOO = 10. Note que, nesse exemplo, 0 
 xz HORA DE
 
 S PRATICAR!
-
-.............. *.......................................... ............ *................. *.......
-*.......................... *................................................... .... |
 
 í (CRA-PR/2020) Acerca dos conjuntos dos números naturais, dos números inteiros e dos números racionais, i de suas operações e de suas propriedades, julgue 0 item: 0 produto entre dois números naturais é sempre ;
 ; um número natural.

@@ -86,11 +86,7 @@ Selecionar uma amostra
 Calcular a estatística da amostra
 *
 
-Inferir o parâmetro populacional
-* * * *
-
-k y y k y
-
+Inferir o parâmetro populacional k y y k y
 Nesta aula, veremos as maneiras de selecionar uma amostra, que éa 1- etapa da Inferência
 Estatística.
 
@@ -753,7 +749,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 l«** IX
 
-
 i (FCC/2007 - ANS -Adaptada) Com relação à teoria geral da amostragem, julgue o item a seguir.
 
 A amostragem sistemática é sempre menos precisa do que a amostragem aleatória simples.
@@ -1190,18 +1185,12 @@ IWI IWI fll IWI
 ( fll IWI (li fll )
 
 ffi ffi IWI ffi rwi rwi rwi rwi iwnwnwnwi
-* * * *
 
 IWI fWl 1* IWI
 
-* * * *
-
 IWI IWI IWI IWI
 
-* * * *
 IWI 1* 1* IWI
-
-* * * *
 
 iwi iwi IwI iwi
 
@@ -1262,7 +1251,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 l«** IX
 
-
 i (FCC/2007 - ANS -Adaptada) Com relação à teoria geral da amostragem, julgue o item a seguir.
 i
 
@@ -1301,22 +1289,8 @@ i heterogêneos, sendo os subgrupos homogêneos entre si, como ilustrado a segui
 
 ffl ffl ffl «I
 
-ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl
-* * * *
-ffl ffl ffl ffl
-
-* * * *
-
-ffl ÍW) ffl «I
-
-* * * *
-
-* * * *
-ffl ffl ffl ffl
-
-* * * *
-ffl ffl ffl ffl
-
+ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl ffl ÍW) ffl «I
+ffl ffl ffl ffl ffl ffl ffl ffl
 : As escolas podem ser consideradas conglomerados (os retângulos ilustrados acima), pois são homogêneas i
 = entre si, enquanto os alunos de cada escola são elementos heterogêneos (são de anos/idades distintos, por ;
 = exemplo).
@@ -1563,7 +1537,6 @@ A amostragem por bola de neve é indicada para populações de baixa incidência
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 l«** IX
-
 
 i (FGV/2017 - IBGE) Dentre os métodos de amostragem não probabilística, podem ser destacados os i
 = realizados por conveniência, por cotas, por julgamento, por tipicidade e as bolas de neve.
@@ -2527,19 +2500,7 @@ Gabarito: Errado.
 
 Item. 31. (Cebraspe/2013 - CPRM)
 
-* * * * *
-
-* * * * *
-
-* * * * *
-
 Esquema de Amostragem para a área A
-
-* * * * *
-
-* * * * *
-
-* * * * *
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
@@ -2554,19 +2515,7 @@ Gabarito: Errado.
 
 Item. 32. (Cebraspe/2013 - CPRM)
 
-* * * * *
-
-* * * * *
-
-* * * * *
-
 Esquema de Amostragem para a área A
-
-* * * * *
-
-* * * * *
-
-* * * * *
 
 Esquema de Amostragem para a área B
 
@@ -3085,19 +3034,7 @@ A partir dessas informações, julgue o item.
 Nessa pesquisa, cada grupo de origem representa uma unidade amostrai, da qual foi retirada uma amostra aleatória simples.
 Item. 31. (Cebraspe/2013 - CPRM)
 
-* * * * *
-
-* * * * *
-
-* * * * *
-
 Esquema de Amostragem para a área A
-
-* * * * *
-
-* * * * *
-
-* * * * *
 
 Esquema de Amostragem para a área B
 
@@ -3107,19 +3044,7 @@ Considere que um estudo estatístico tenha sido realizado para determinar a conc
 Considere que, no esquema da amostragem para a área B, a posição dos pontos dentro de cada quadrado da malha tenha sido escolhida aleatoriamente. Nessa situação, é correto afirmar que o plano amostrai para essa área ocorreu por conglomerados.
 Item. 32. (Cebraspe/2013 - CPRM)
 
-* * * * *
-
-* * * * *
-
-* * * * *
-
 Esquema de Amostragem para a área A
-
-* * * * *
-
-* * * * *
-
-* * * * *
 
 Esquema de Amostragem para a área B
 

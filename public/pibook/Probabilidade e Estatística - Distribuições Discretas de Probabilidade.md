@@ -2616,8 +2616,6 @@ n vezes =
 
 Ê Gabarito: Certo.
 
-........ *
-
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 DISTRIBUIçÃo BINoMIAL NEGATIVA

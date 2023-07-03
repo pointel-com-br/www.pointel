@@ -4796,7 +4796,6 @@ Texto para as próximas questões
 44. (CESPE/PF/2021) A proposição Pl é equivalente a "Não é verdade que a fiscalização foi deficiente e que as falhas construtivas foram corrigidas".
 45. (CESPE/PF/2021) Uma negação correta da proposição Pl pode ser expressa por: "Se a fiscalização não foi deficiente, as falhas construtivas foram corrigidas".
 46.(CESPE/PF/2021) A proposição P2 é equivalente a "Se as falhas construtivas não foram corrigidas, os mutuários tiveram prejuízos".
-***
 * .
 
 Texto para as próximas questões

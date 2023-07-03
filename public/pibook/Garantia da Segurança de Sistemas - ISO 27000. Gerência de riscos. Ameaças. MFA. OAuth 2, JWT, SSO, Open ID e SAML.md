@@ -657,7 +657,6 @@ Google OAuth Authentication
 A figura acima ilustra um processo base de quando efetuamos logins por meio do OAuth da Google. Creio que muito estão familiarizados com a imagem vermelha do centro,certo? Basicamente, estamos autorizando a aplicação ou serviço que estamos consumindo a realizar troca de informações com os servidores e provedores de credenciais da Google para reconhecimento da nossa identidade. A partir da chamada do serviço, no passo 2, a aplicação recebe o código de autenticação gerado pelo servidor Oauth do Google e por meio de processos em background e serviços próprios, realiza o processo de checagem para liberação de acesso com o recebimento de um token.
 Nosso intuito não é entrar no detalhe de implementação do OAuth, por ser um aspecto de cobrança mais associado a itens de desenvolvimento ao considerar bibliotecas JWT e outros. Aqui,estamos focando nos conceitos das soluções e ferramentas, além de processos que garantem a gestão de identidade e credenciais.
 O OAuth atualmente está em sua versão 2.0 e possui compatibilidade completa com sua versão 1.0. Nesse processo, são definidos 4 papéis básicos. São eles:
-...,
 
 : 1. Resource Owner - Basicamente é a pessoa que concede acesso aos seus dados. Quando clicamos na opção i
 = de login integrado com o Google, por exemplo, teremos que incluir nosso login e senha do google, a partir ;i da chamada de serviço. Caso você tenha uma sessão já aberta do serviço, essa etapa não será necessária. O j

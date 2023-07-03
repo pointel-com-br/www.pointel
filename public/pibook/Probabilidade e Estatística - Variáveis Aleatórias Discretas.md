@@ -510,7 +510,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 l«** IX
 
-
 i (CESPE/2015 - Telecomunicações Brasileiras S.A.) Considerando que Yi, Y₂, Yn,
 ... sejam variáveis i
 
@@ -1263,8 +1262,6 @@ i) Mo(k.X) = k.Mo(X)
 ii) Mo(X±k) = Mo(X)±k
 
 HORA IX
-
-.............,
 
 : (FCC/2018 - Prefeitura de Macapá/AP - Adaptada) A medida de tendência central que representa o valor i
 = com maior frequência na distribuição de uma amostra é a i
@@ -3408,8 +3405,6 @@ I
 
 (2015 - PC/GO) Com o intuito de avaliar possíveis correlações entre variáveis, um gráfico de dispersão pode j ser um aliado na tomada de decisão. Esse gráfico, elaborado no eixo cartesiano, plota resultados das i variáveis estudadas a fim de representá-las conjuntamente. Sejam x e y variáveis referentes a "tempo de i experiência" e "tempo de execução de tarefa", respectivamente, e analisando o gráfico de dispersão j apresentado, assinale a alternativa correta.i
 
-* ** *
-
 * * * * w * * * **
 
 8 10 12 14
@@ -3996,7 +3991,6 @@ Para n variáveis X₁,X₂, —,Xn, podemos representara variância da soma SÍ
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 l«** IX
-
 
 i (2016 - IBGE) Se duas variáveis aleatórias, X e Y, têm correlação linear negativa, então:
 i

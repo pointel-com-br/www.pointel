@@ -65,12 +65,6 @@ Variedade
 
 W* V*W* V**V
 
-*** ******
-
-*** ******
-
-* * * **
-
 Dados em repouso
 
 * Terabytes ou exabytes de dados existentes para o processo

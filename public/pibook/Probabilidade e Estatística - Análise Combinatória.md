@@ -655,8 +655,6 @@ Por que a pergunta é pelo menor número de pessoas?
 Note que, se houver mais do que 13 pessoas (ou seja, 14, 15,...), também poderemos garantir que pelo menos 2 pessoas farão aniversário no mesmo mês. Por isso, a questão se interessa pelo menor número de pessoas, para o qual temos a garantia desejada.
 I«** IX
 
-............*...........
-
 i (FCC/2017 - Analista Executivo da Secretaria de Gestão/MA) No setor administrativo de uma empresa, há
 = quatro tipos de cargos: estagiários, técnicos, gerentes e diretores. Alguns funcionários desse setor comporão
 = um grupo que será transferido para o setor financeiro da empresa. Compondo-se o grupo com funcionários
@@ -2073,7 +2071,6 @@ Caso haja reposição, o número de elementos disponíveis para cada sorteio é 
 De modo geral, o arranjo com reposição (ou repetição) de k elementos dentre n elementos no total é dado por:
 An k = n x n x ... x n = nk k vezes
 HORAM
-
 
 (VUNESP/2019 - Prefeitura de Cerquilho/SP) Na bilheteria de um teatro há apenas 5
 ingressos à venda para

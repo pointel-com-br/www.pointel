@@ -71,8 +71,6 @@ Serviço:
 
 r .. **
 *
-. **
-***
 
 ; Conjunto de recursos organizacionais especializados para gerar valor para os clientes na ;
 
@@ -91,7 +89,6 @@ Serviço, entre outros que se aplicam a todas as organizações, independentemen
 **
 
 **
-...
 
 Meio que permite a cocriação de valor ao facilitar a obtenção dos resultados que os clientes ;
 

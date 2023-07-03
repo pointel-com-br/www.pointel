@@ -958,9 +958,6 @@ API que espere receber null. Passando valores null a única certeza que temos é
 As exceções checadas surgiram com a primeira versão do java, de fato era uma ótima ideia carregar uma lista de exceções juntamente com a assinatura de um método.Desta maneira todas as assinaturas de exceções conhecidas pelo sistema serão notificadas ao usuário sempre que fossem necessárias.
 O preço de se utilizar exceções checadas é a necessidade de assinalar ao Caller todas as vezes que for utilizar o método,assim poluindo a interface. Uma saída para o problema em utilizar exceções checadas é transformá-las em exceções não checadas por meio da RuntimeException.
 r«*
-* ..
-* ..
-****
 
 : (CESPE - MPE CE - 2020) Julgue o seguinte item, relativo a métricas de qualidade de código, clean i i code e refactoring.
 I

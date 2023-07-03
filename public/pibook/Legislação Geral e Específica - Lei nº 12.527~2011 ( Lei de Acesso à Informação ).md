@@ -170,7 +170,6 @@ Reparem que elevem ser divulgadas - sem solicitação prévia - no mínimo estas
 Como exemplo, vale desatacar a divulgação da remuneração dos servidores públicos. No plano do Poder Executivo Federal, o Decreto 7.724/2011 determina a divulgação da referida remuneração, de maneira individualizada, prática que tem sido "seguida"também em outras esferas e Poderes2. A este respeito, vale lembrar que a jurisprudência brasileira considera legítima a divulgação eletrônica do valor das remunerações dos servidores de forma individualizada, sem que isto viole a intimidade dos servidores públicos:
 ..
 
-* ..
 
 ..
 
@@ -230,7 +229,6 @@ conhecida como "Lei de
 Reponsabilidade Fiscal".
 
 Nesse sentido, a LC 131 destaca que a transparência será assegurada também mediante (art. 48):
-
 
 ..
 ..
@@ -500,8 +498,6 @@ Abro um parêntese para destacar que a mencionada Comissão Mista de Reavaliaç�
 r .
 
 .
-
-... *
 
 i I - requisitar da autoridade que classificar informação como ultrassecreta e secreta i
 : esclarecimento ou conteúdo, parcial ou integral da informação;
@@ -970,7 +966,6 @@ L
 
 A alternativa (C) também está equivocada. Nesse caso, é a definição de primariedade.
 
-
 ..
 ..
 
@@ -1204,7 +1199,6 @@ Dito isto, observo que as alternativas (A), (B), (D) e (E) mencionam corretament
 Por sua vez, a alternativa (C) está incorreta, na medida em que o pedido de acesso à informação precisa conter apenas a identificação do solicitante e a indicação da informação que ele está solicitando, sendo vedado exigir justificativas do pedido:
 *
 *
-* ..
 
 Art. 10. Qualquer interessado poderá apresentar pedido de acesso a informações aos i
 : órgãos e entidades referidos no art. 1Q desta Lei, por qualquer meio legítimo,
@@ -1324,7 +1318,6 @@ inciso I do art. 49 da lei
 í I - informação: dados, processados ou não, que podem ser utilizados para produção e i
 : transmissão de conhecimento, contidos em qualquer meio, suporte ou formato;
 j
-
 
 ..
 ..
@@ -1885,7 +1878,6 @@ i
 
 L
 
-...
 
 Gabarito (E)
 
@@ -1920,7 +1912,6 @@ Comentários:
 O prazo máximo será de 20 dias, prorrogável por mais 10 dias, que,
 combinados, atingem o prazo máximo de 30 dias:
 r* ..
-* ..
 ..
 * *
 *
@@ -2245,7 +2236,6 @@ O Item II está correto, nos termos do inciso III do art. 7o da lei 12.527/2011:
 
 ..
 
-* ..
 
 *
 * 1
@@ -2483,7 +2473,6 @@ A letra (d) está incorreta. Conforme se infere do art. 29 da lei
 ..
 
 ..
-...
 
 Art. 29. A classificação das informações será reavaliada pela autoridade classificadora ou i
 = por autoridade hierarquicamente superior, mediante provocação ou de ofício, nos termos
@@ -2705,9 +2694,7 @@ j
 
 ..
 
-
 ..
-...
 
 A letra (b) está incorreta. O conceito de integridade encontra-se previsto no inciso VIII do art. 4o da lei 12.527/2011:
 r
@@ -2721,7 +2708,6 @@ VIII - integridade: qualidade da informação não modificada, inclusive quanto 
 ..
 
 A letra (c) está incorreta. A autenticidade está conceituada no inciso VII do art. 4o da lei12.527/2011:
-
 
 ..
 ..
@@ -2752,7 +2738,6 @@ A letra (a) está incorreta. A alternativa equivoca-se ao afirmar ser dispensada
 *
 
 *
-* ..
 
 Art. 28. A classificação de informação em qualquer grau de sigilo deverá ser formalizada i
 : em decisão que conterá, no mínimo, os seguintes elementos:
@@ -2917,7 +2902,6 @@ r"*
 
 ..
 ..
-...
 
 A letra (d) está correta, nos termos do inciso IX do art. 4o da lei 12.527/2011:
 
@@ -2931,7 +2915,6 @@ k ..
 ..
 
 ..
-...
 
 Antonio Daud, Equipe Legislação Específica Estratégia Concurt
 - Prof. Antonio Daud

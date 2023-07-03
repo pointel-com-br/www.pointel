@@ -1417,9 +1417,6 @@ a |N — n
 
 HORAtX
 
-*...................................................................................*...............
-........... *........................................ *....................... .
-
 í (CESPE 2020/TJ-PA) Uma equipe de engenheiros da qualidade, com vistas a estimar vida útil de determinado i
 : equipamento, utilizou uma amostra contendo 225 unidades e obteve uma média de 1.200
 horas de duração, j
@@ -1872,7 +1869,6 @@ X — E = 1,8 - 0,139 = 1,661
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 l«** IX
-
 
 ; (FCC/2019 - SEFAZ-BA) Para obter um intervalo de confiança de 90% para a média p de uma população i
 ; normalmente distribuída, de tamanho infinito e variância desconhecida, extraiu-se uma amostra aleatória ;de tamanho 9 dessa população, obtendo-se uma média amostrai igual a 15 e variância igual a 16.

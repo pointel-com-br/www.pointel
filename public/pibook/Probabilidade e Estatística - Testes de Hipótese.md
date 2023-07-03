@@ -262,7 +262,6 @@ P(0,5 < x < 1,5) = 5 (|x) dx + +1) dx
 
 HORA»
 
-
 (VUNESP/2014 - TJ-PA) Uma variável aleatória contínua tem uma função de probabilidade dada porf(x) =
 = K.x, válida apenas no intervalo 1< x < 2. Fora desse intervalo f(x) = 0. De acordo com isso o valor de K é:a) 1/3
 
@@ -1949,7 +1948,6 @@ Considerando a simetria da distribuição normal, as probabilidades P(Z < -zt)
 e P(Z > zt) são iguais e,
 assim, o p-valor em um teste bilateral considerando será o dobro do p-valor em um teste unilateral, para essa distribuição.
 HORAM
-
 
 i (2019 - Prefeitura de Cruzeiro do Sul/AC - Adaptada) Com relação a Testes de
 Hipóteses realizados sobre i

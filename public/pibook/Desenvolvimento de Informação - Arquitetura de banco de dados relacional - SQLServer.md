@@ -2238,7 +2238,6 @@ No que se refere a tecnologia e arquitetura de banco de dados, julgue o próximo
 
 No MSSQL Server 2014, o recurso AlwaysOn é uma solução de alta disponibilidade e de recuperação de desastres que fornece uma alternativa, em nível corporativo, para o espelhamento de bancos de dados, a partir do gerenciamento de réplicas de bancos de dados.
 *
-***
 * .
 
 = Comentário: AlwaysOn é um termo genérico para os recursos de disponibilidade do SQL Server e i
@@ -2304,7 +2303,6 @@ A respeito da configuração e da administração de sistemas gerenciadores de b
 
 Se, na modificação de determinada instância existente de SQL Server, for realizada a instalação de componentes de replicação, será necessário reiniciar o agente de SQL Server.
 **
-** *
 **
 
 = Comentário: Segundo a Microsoft, é possível instalar componentes de replicação usando o i
@@ -2367,7 +2365,6 @@ SEQUENCE seqa por meio do seguinte comando:
 CREATE SEQUENCE seqa START WITH 1;
 
 *
-***
 * .
 
 = Comentário: O comando acima, quando executado no SQL Server cria uma SEQUENCE. Ou seja, i
@@ -2500,8 +2497,6 @@ c) SharePoint services é uma solução utilizada para construir soluções de i
 d) Master data services visa integrar sistemas analíticos e operacionais distintos de modo que seja criada e gerenciada uma fonte de informações central e auditável.
 e) Service broker é uma ferramenta voltada para a criação de cluster de alta disponibilidade,
 permitindo que os dados sejam acessados e recuperados de forma distribuída, e, em caso de indisponibilidade em um dos nós da solução cluster, há recuperação automática dos dados.
-** *
-* ** ** .
 
 j Comentário: Perceba que as definições das alternativas incorretas se referem a outras ferramentas ;
 ; do SQL Server. Conforme a documentação do Microsoft SQL Server e Sharepoint:
@@ -2630,7 +2625,6 @@ Na instalação do SQL Server 2012 em um sistema de arquivos NTFS, são definida
 r
 .
 
-. . .
 .
 
 = Comentário: Durante a instalação, o SQL Server definirá ACLs apropriadas em chaves do Registro
@@ -2677,7 +2671,6 @@ SQL, julgue os itens seguintes.
 [1] No SQL Server, o comando TRUNCATE TABLE remove todos os dados de uma tabela e,
 se a tabela tiver uma coluna de identidade, provoca a reinicialização do contador de identidade.
 *
-***
 * .
 
 = Comentário: O truncate remove todas as linhas de uma tabela ou partições especificadas de uma i
@@ -2777,7 +2770,6 @@ A respeito do banco de dados SQL Server e da linguagem SQL, julgue os itens segu
 Para se retornar um usuário qualquer conectado a uma base de dados, deve-se executar o comandoSELECT SYSTEM_ADMIN.
 
 *
-***
 
 = Comentário: O GETDATE() está descrito corretamente. Já o SYSTEM_ADMIN não!
 O certo seria i utilizar um desses comandos: SYSTEM_USER() e CURRENT_USER(). SYSTEM_USER permite que um valor ;

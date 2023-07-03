@@ -131,9 +131,6 @@ HORA DE
 
 PRATICAR!
 
-.......................................... *........*..........................
-*.......................... *................
-
 í (COC-UFAC/UFAC/2019) Analise as seguintes assertivas:
 I
 
@@ -315,7 +312,6 @@ Observe que a amplitude é menor pelo segundo método, porque os extremos da dis
 HORA DE
 
 PRATICAR!
-
 
 i (COPEVE (UFAL)/Pref. Maceió/2012) Um registro em saúde epidemiológica apresenta os dados: 3, 4, 7, 8
 = e 8. Se calcularmos 8-3 = 5, estaremos determinando:

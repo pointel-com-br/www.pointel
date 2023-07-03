@@ -2514,7 +2514,6 @@ As informações anteriormente apresentadas correspondem aos campos de uma tabel
 Comentário:
 
 93. Essa questão foi dada pelo CESPE como correta. Eu discordo. Vamos lá
-...
 
 supondo que exista uma tabela (modelo relacional) com dados e que os dados são correlacionados com outros dados não estruturados, que garantia eu tenho que os processos de mineração de dados foi utilizado de fato utilizados? ... NENHUMA!!!
 O processo de mineração de dados, como descrito pelo CRISP-DM (fonte de referência padrão para o assunto) exige um conjunto de ações específicas. Não existe nenhum elemento no texto, além da detecção de fraudes que possa nos remeter a mineração de dados. A mineração de dados exige que os dados sejam transformados e organizados com um mínimo de estrutura para que possam ser analisados com sucesso.

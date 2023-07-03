@@ -1177,9 +1177,7 @@ rbind() é a função combina vetor, matriz ou quadro de dados por linhas.
 
 Uma das grandes vantagens de usar uma linguagem de programação é automatizar o seu trabalho ou análise. Você será capaz de realizar grande parte do trabalho utilizando as funções internas do Rou de pacotes de terceiros em um script. Entretanto, você ganha ainda maisflexibilidade e agilidade criando suas próprias funções. Uma função, no R, é definida da seguinte forma:
 nomeDaFuncao <- function(argl, arg2, arg3 = default3, . ..){
-## corpo da função: uma série de cornados válidos
-return(resultado) # opcional
-
+## corpo da função: uma série de cornados válidos return(resultado) # opcional
 }
 
 * o comando function() diz para o R que você está definindo uma função.
@@ -2907,10 +2905,7 @@ str(df)
 ## $ x: Factorw/ 2 leveis "a","b": 12
 ## $ y: num 1 2
 
-#Dando nomes as linhas e as colunas
-
-rownames(df) <- c("l1","12")
-colnames(df) <- c("letras", "numeros")
+#Dando nomes as linhas e as colunas rownames(df) <- c("l1","12")colnames(df) <- c("letras", "numeros")
 str(df)
 
 df

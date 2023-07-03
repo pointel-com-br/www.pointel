@@ -27,9 +27,7 @@ df = pandas.read_csv/data/estretegia.csv', sep='\t')
 Por padrão, a função read_csv lerá um arquivo separado por vírgulas, se nossa arquivos"estratégia.csv" estiver separado por tabulações podemos usar o parâmetros "sep" e o valor \t para indicar que o separador é uma tabulação. O código acima carrega o DataFrame (df) com os dados presentes no arquivo. Se quisermos mostrar as 5 primeiras linhas carregadas podemos usar a função head da seguinte forma:
 #Isso é um comentário em Python
 
-#Abaixo um exemplo de código que chama a função head
-print(df.head())
-
+#Abaixo um exemplo de código que chama a função head print(df.head())
 Ao trabalhar com as funções do Pandas, é prática comum fornecer pandas o apelido pd.
 Portanto,
 o código a seguir é equivalente ao exemplo anterior:

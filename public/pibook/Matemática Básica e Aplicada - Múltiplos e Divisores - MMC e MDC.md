@@ -324,7 +324,6 @@ Se B é divisor de A, então A é um múltiplo de B.
 
 Se A é um múltiplo de B, então B é divisor de A.
 
-
 í (TRT 15/2009) Certo dia, Eurídice falou a Josué:
 
 I
@@ -468,7 +467,6 @@ Para determinar se um número N é primo, devemos dividi-lo sucessivamente pelos
 
 * Se, ao realizar a divisão sucessiva, obtivermos um quociente menor do que o primo pelo qual estamos dividindo N, então N é primo.
 Veja que não é nada prático dividir N por diversos primos até obtermos um quociente menor do que o primo pelo qual estamos dividindo N. É justamente por isso que esse método, nas questões de concurso público, é mais utilizado para verificar se um dado número não é primo. Para melhor compreensão do método,vejamos a questão a seguir:
-
 
 í (SEE PE/2016) O número de três algarismos: n = 68D é primo.
 
@@ -1267,7 +1265,6 @@ diferença de número de metros
 
 j Gabarito: Letra E.
 
-
 í (SEFAZ AM/2022) Um pote contém entre 150 e 200 balas. Miguel reparou que separando essas balas em
 = grupos de 5 sobravam 2 balas, e que, separando em grupos de 7, sobravam também 2 balas.
 
@@ -1330,8 +1327,6 @@ Máximo Divisor Comum (MDC)
 Selecionar os números primos comuns com os menores expoentes
 
 Vamos a alguns exemplos:
-
-.............................. .......................... ..................... |
 
 í Calcule o MDC entre 20, 50 e 65
 
@@ -1572,8 +1567,6 @@ Vejamos dois exemplos.
 : Note que o tempo procurado será maior do que os intervalos do enunciado. Logo, deve-se usar o
 MMC.
 
-.............. *....................................................................
-*.............*............*.............*
 i i Exemplo 2: Em uma sala com 40 homens e 24 mulheres, é necessário montar grupos contendo a mesma i
 ; quantidade de pessoas e que tenham apenas homens ou apenas mulheres, de modo que tenhamos o j
 = número máximo de pessoas em cada grupo. Qual é o número de pessoas de cada grupo formado?
@@ -2098,7 +2091,6 @@ x = 563
 
 Nesse caso, é correto afirmar que Carlos possui 563 revistas.
 Gabarito: CERTO.
-
 
 Texto para as próximas questões
 

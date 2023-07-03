@@ -1848,7 +1848,6 @@ HORA DE
 
 PRATICAR!
 
-
 ; (VUNESP/Pref. de Sertãozinho/2018) O gráfico a seguir mostra as notas das duas provas obtidas
 ; por um aluno em matemática e as duas notas obtidas em língua portuguesa, nesse bimestre.
 

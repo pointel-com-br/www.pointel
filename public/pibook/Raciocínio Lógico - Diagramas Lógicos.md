@@ -376,7 +376,6 @@ HORA DE
 
 PRATICAR!
 
-
 (SEFAZ-ES/2022) A negação de "Nenhuma cobra voa" é
 
 A) Pelo menos uma cobra voa.

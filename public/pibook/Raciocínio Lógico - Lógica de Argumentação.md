@@ -4482,7 +4482,6 @@ julgue os itens seguintes.
 1. (CESPE/IBAMA/2013) Se o argumento apresentado é um argumento válido, a sua conclusão é uma proposição verdadeira.
 2. (CESPE/IBAMA/2013) Se o argumento apresentado não é um argumento válido, suas premissas são proposições falsas.
 *
-* * *
 ** i
 
 Texto para as próximas questões

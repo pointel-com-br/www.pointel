@@ -1384,8 +1384,6 @@ CONTROLE
 
 Convém que a organização estabeleça, documente, implemente e mantenha processos, procedimentos e controles para assegurar o nível requerido de continuidade para a segurança da informação,durante uma situação adversa.
 
-///.
-
 Verificação, análise crítica e avaliação da continuidade da segurança da informação
 
 CONTROLE

@@ -141,7 +141,6 @@ Exemplo de classe com nomes não pronunciáveis: class DtaRcrd102 {
 };
 private Date genymdhms; private Date modymdhms;
 private final String pszqint = "102";
-/*... */
 Exemplo com Nomes Pronunciáveis class Customer {
 };
 private Date generationTimestamp; private Date modificationTimestamp; private final String recordId = "102";
@@ -323,7 +322,6 @@ Marcadores de Posição
 
 Alguns programadores gostam de marcar uma posição determinada no arquivo fonte, como:
 for(var i in itens){
-/.../
 }//for////
 Raramente as junções por comentários fazem sentido em certas funções, mas de modo geral eles são aglomerações e devemos excluí-los. Tenha em mente que indicadores são chamativos no código, use-os esporadicamente para não se tornarem ruídos.
 Código em comentários

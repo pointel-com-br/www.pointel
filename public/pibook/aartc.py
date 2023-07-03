@@ -79,16 +79,16 @@ def adjust_marked_page_numbers(text):
 
 def adjust_marked_weird_dots(text):
 
-    def is_only_dots(test):
+    def is_only_weird(test):
         if len(test) < 3:
             return False
-        dots_count = False
+        weird_count = False
         for c in test:
-            if not (c == " " or c == "."):
+            if not (c == " " or c == "." or c == "," or c == ":" or c == ";" or c == "*" or c == "/" or c == "\\" or c == "|"):
                 return False
-            if c == ".":
-                dots_count += 1
-        return dots_count > 3
+            if c == "." or c == "," or c == ":" or c == ";" or c == "*" or c == "/" or c == "\\" or c == "|":
+                weird_count += 1
+        return weird_count >= 3
 
     print('Ajustando marcado - somente pontos...')
     result = []
@@ -102,7 +102,7 @@ def adjust_marked_weird_dots(text):
         elif test.startswith("```"):
             result.append(line)
             inside_block = True
-        elif not is_only_dots(test):
+        elif not is_only_weird(test):
             if test.startswith("#") and test[len(test) -1] == ".":
                 line = test[0:len(test) -1] + "\n"
             result.append(line)

@@ -2258,8 +2258,6 @@ function ImageGallery() {
 
 const [index, setlndex] = useState(0);
 
-// ...
-
 O useState possibilita a adição de estado a componentes funcionais, permitindo assim a manutenção de um estado local dentro de uma função de um componente funcional. Com ele,você pode declarar uma variável de estado dentro de um componente funcional e atualizar seu valor, assim como faria com uma classe usando o conceito de state. O useState retorna um par de valores: o estado atual e uma função que permite atualizá-lo. Exemplo de uso do useState em um componente funcional do React Native:
 import React, { useState } fnom 'react';
 
@@ -2359,8 +2357,6 @@ function Button() {
 
 const theme = useContext(ThemeContext);
 
-// ...
-
 x-""' 96
 
 /' 204
@@ -2376,8 +2372,6 @@ function Form() {
 
 const inputRef = useRef(null);
 
-// ...
-
 Effect Hooks
 
 Effects permitem que um componente se conecte e sincronize com sistemas externos. Isso inclui lidar com rede, DOM do navegador, animações, widgets escritos usando uma biblioteca de interface de usuário diferente e outros códigos não relacionados ao React.
@@ -2391,8 +2385,6 @@ connection.connect();
 
 return () => connection.disconnect();
 b [roomld]);
-
-// ...
 
 Effects são uma "saída de emergência" do paradigma do React. Não use Effects para orquestrar o fluxo de dados do seu aplicativo. Se você não está interagindo com um sistema externo, pode ser que não precise de um Effect.
 Existem duas variações raramente usadas de useEffect com diferenças no tempo de execução:
@@ -2416,8 +2408,6 @@ la para um componente otimizado.
 function TodoList({ todos, tab, theme }) {
 
 const visibleTodos = useMemo(() => filterTodos(todos, tab), [todos, tab]);
-
-// ...
 
 }
 
@@ -2849,7 +2839,6 @@ Definição de pacote e importações
 A especificação do pacote deve estar no topo do arquivo de origem.
 
 package my.demo import kotlin.text.*
-// ...
 
 Não é necessário que os diretórios correspondam aos pacotes: os arquivos de origem podem ser colocados arbitrariamente no sistema de arquivos.
 O ponto de entrada do programa de um aplicativo Kotlin é a função main.

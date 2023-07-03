@@ -251,7 +251,6 @@ i.e., é preciso percorrer nó por nó para acessar um dado específico. Logo, �
 Vetores? Eles são uma estrutura de acesso direto, i.e., pode-se acessar um elemento diretamente. Portanto,não precisa percorrer elemento por elemento (Acesso O(l))3.
 
 * *
-* * * * .
 
 í (CESPE/CEBRASPE - 2017 -TRT-7) Considere uma estrutura de dados em que cada elemento armazenado i
 : apresenta ligações de apontamento com seu sucessor e com o seu predecessor, o que possibilita que ela j
@@ -397,7 +396,6 @@ pior caso de tempo de complexidade para a pesquisa em uma árvore binária de bu
 Como representamos árvores? Podemos representar uma árvore como um conjunto de parênteses aninhados. Nessa notação, (P (FI)(F2)) significa que P, Fi, F2 são nós e que Fi, F2,são filhos do pai P. Ao transcrever isso para 0 desenho hierárquico de uma árvore, lemos da esquerda para a direita. Agora suponhamos que Fi tem dois filhos Ni e N2. Logo, reescrevemos a subárvore de Fi como (Fi (N1XN2)).
 r* ..
 ..
-
 
 i (CETAP - 2010 - AL-RR - Analista de Sistemas - A) Uma árvore binária é aquela que tem como conteúdo
 : somente valores binários.

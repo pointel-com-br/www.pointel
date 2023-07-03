@@ -58,8 +58,6 @@ Reta
 
 Por sua vez, a reta vai ser formada pela união de infinitos pontos.
 
-* * * ************************ * * *
-
 Na imagem acima, tentei representar vários pontos se aglomerando até formarem uma reta
 (rsrs). Vamos lá! Quais são as características de uma reta? Primeiro: ela é unidimensional. Enquanto um ponto não possui dimensão (é adimensional), a reta agora é unidimensional.
 Segundo: ela é infinita para ambos os lados! Ou seja, ela segue indefinidamente para qualquer um dos lados(apesar de não ser obrigatório, podemos usar reticências nas duas "extremidades" da reta para expressar esse fato).
@@ -476,7 +474,6 @@ HORA DE
 PRATICAR!
 
 r.......................
-*...................................................................................................
 
 : (CM Orizânia/2020) A figura a seguir ilustra a arena de um campeonato de artes marciais, que possui o i
 = formato circular e diâmetro de 8 m.
@@ -741,7 +738,6 @@ HORA DE
 
 PRATICAR!
 
-............*..... ......................
 ................................. ...................!
 
 i (PREF. JUIZ DE FORA/2016) Na figura a seguir, temos dois círculos concêntricos, tais que seus raios medem
@@ -961,7 +957,6 @@ AC _ 6
 RT~3~2
 
 Chamamos esse "2" de razão de semelhança. Ele reflete a proporcionalidade entre os lados.
-
 
 í (PREF. PERUÍBE/2019) A respeito de polígonos semelhantes, analise as sentenças a seguir.
 
@@ -1471,7 +1466,6 @@ HORA DE
 
 PRATICAR!
 
-
 í (EEAR/2013) Considere as medidas indicadas na figura e que sen(70°) = 0,9. Pela
 "Lei dos Senos", obtém- i
 
@@ -1735,7 +1729,6 @@ HORA DE
 
 PRATICAR!
 
-
 í (PREF. HORIZONTINA/2021) Marcar C para as afirmativas Certas, E para as Erradas e,
 após, assinalar a
 
@@ -1851,8 +1844,6 @@ Características Principais:
 - Ângulos internos são iguais a 90°;
 
 - Lados opostos são iguais
-
-.................................... *.......................... ...........................
 
 (CM SERTÃOZINHO/2019) O quadro de avisos de uma firma tem a forma de um retângulo com 80 cm de altura e 1,2 m2 de área. A medida do comprimento desse quadro é í A) 1,2 m í B) 1,3 m í C) 1,4 m j D) 1,5 m í E) 1,6 m
 ; Comentários:
@@ -2026,7 +2017,6 @@ Características Principais:
 - Ângulos opostos iguais;
 
 - "D" é a medida da diagonal maior, enquanto "d" é a medida da diagonal menor.
-
 
 (PREF. ITAPEVI/2019) Um losango ABCD e um triângulo retângulo AFD têm o lado AD em comum conforme
 = a figura.

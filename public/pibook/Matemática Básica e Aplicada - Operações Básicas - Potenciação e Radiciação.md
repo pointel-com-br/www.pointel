@@ -687,7 +687,6 @@ A grande maioria dos alunos tem algum problema com a divisão. Existem muitas re
 «** éèè
 
 Você resolve repartir, em quantidades iguais, as 12 maçãs para 4 amigos que foram te visitar. Quantas maçãs cada amigo levará pra casa? ***
-***
 
 Observe que, para fornecer a mesma quantidade para os amigos, cada um deverá ficar com 3 maçãs.
 Assim,
@@ -1424,7 +1423,6 @@ Expressões Numéricas
 
 De modo bem simplificado, as expressões numéricas são contas prontas para serem resolvidas. Observe um exemplo de questão com esse assunto.
 EXEMPLIFICANDO
-
 
 : (SABESP) O resultado da expressão numérica (2 - 3) (3 — 4) (4 — 5) (5 - 6)2 é igual a
 

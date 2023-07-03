@@ -648,9 +648,6 @@ percebe-se que o acento :
 : Quem se mantêm frias? As casas. Gabarito letra B.
 :
 
-****************************************************************************************************
-*******************************************************************************
-
 Concordância com Haver, Existir e equivalentes
 
 O verbo haver, com sentido de existir, é impessoal, não tem sujeito e, por isso, permanece sempre na terceira pessoa do singular: Há. O verbo haver tem apenas objeto.
@@ -1143,9 +1140,6 @@ iinviabiliza a criação de vínculos afetivos.
 jSujeito passivo plural leva o verbo para o plural, normalmente. Aqui, temos voz passiva sintética:
 
 :(VTD+SE). Gabarito letra C.
-
-****************************************************************************************************
-*****************************************************************************
 
 Concordância na locução verbal
 
@@ -1797,7 +1791,6 @@ A regra cobrada é simples: Se o sujeito composto está posposto ao verbo, este 
 
 ; Em outras palavras, se o verbo veio antes do sujeito composto, há duas possibilidades de concordância.L=..Q...u..e..s.t.ã..o...c..o..r.r..e..t.a
 
-...
 
 Núcleos unidos por coordenação
 

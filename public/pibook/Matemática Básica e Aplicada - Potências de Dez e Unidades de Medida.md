@@ -96,7 +96,6 @@ Note que 0,000000076 apresenta 9 casas decimais, incluindo os dígitos 7 e 6. Lo
 
 0,000000076 = 76 x 10"9
 
-
 i Reescreva 0,0000000000451 utilizando potência de base 10.
 I
 
@@ -194,7 +193,6 @@ Para transformar um número em notação científica de forma prática, pode-se 
 * Contar "quantas casas a vírgula deve andar".
 
 Vamos realizar dois exemplos:
-
 
 í Reescreva 542.000.000.000.000.000 em notação científica.
 
@@ -1492,7 +1490,6 @@ Item. 1.000 km2 = 1.000 x 102 hm2
 í Como 1 hectõmetro quadrado equivale a 1 hectare, temos um total de 100 mil hectares.
 
 : Gabarito: Letra B.
-
 
 í (IMBEL/2021) O volume de água contido em um reservatório é de 23500 cm3. Esse volume expresso em litros é í a) 0,235.
 b) 2,35.

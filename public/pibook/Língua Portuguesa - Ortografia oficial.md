@@ -338,7 +338,6 @@ PROVA!
 : Na verdade, é uma paroxítona trissílaba. Polissílaba deve possuir 4 ou mais sílabas.
 
 *:**Q**u**e**s**t*ã*o***i*n**c*o**r*r**e*t*a**.*****************************************************
-*************************************************************************************************:
 
 Dígrafo Nasal X Ditongo Nasal
 

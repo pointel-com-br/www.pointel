@@ -92,7 +92,6 @@ Vamos organizar um pouco melhor essa linha de raciocínio?
 
 ..
 
-
 1. Procure por afirmações que não podem ser verdadeiras simultaneamente. Exemplos para desconfiar:
 
 José: X é Y.

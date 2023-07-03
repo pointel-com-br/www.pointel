@@ -3603,8 +3603,6 @@ x <— X + 1
 
 devolva x
 
-////////////////////////////////////////////////////////////////////
-
 Considere agora o seguinte trecho de código que invoca a função f definida acima.
 
 a 0
@@ -7593,7 +7591,6 @@ d) n1 >= 0 E n1 <=10 E n2 >= 0 E n2 <=10
 e) n1 > 0 E n1 < 0 E n2 < 10
 
 21 .(FCC - 2012 - TJ/RJ - Analista Judiciário) O seguinte trecho de pseudo-código representa a definição de uma função (sub-rotina) f com um único argumento x.
-////////////////////////////////////////////////////////////////////
 
 f(x)
 

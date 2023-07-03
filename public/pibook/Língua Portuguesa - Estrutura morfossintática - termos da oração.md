@@ -589,7 +589,6 @@ SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 
 *:*c**o*n**t*e*x**to**.**E**s*s*e***é**o***c*a**s*o**c**lá**s*s**ic**o**d**e**"*s**u*j*e**it*o**o**c
 *u**l*to**,**e*l*í*p*t*i*c*o**,*d**e*s**in**e**n*c**ia**l"*.**Q**u**e*s**t*ã*o***c*o**r*r*e*t*a**.**
-********************************************
 
 Oração sem sujeito
 

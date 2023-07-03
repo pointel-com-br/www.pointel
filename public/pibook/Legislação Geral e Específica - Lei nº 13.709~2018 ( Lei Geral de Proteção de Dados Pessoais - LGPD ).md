@@ -47,7 +47,6 @@ A LGPD, afinal, regulamenta o direito fundamental a proteção dos dados pessoai
 r*
 
 * *
-* ..
 
 í CF, art. 52, LXXIX - é assegurado, nos termos da lei, 0 direito à proteção dos dados pessoais, i f:ainclu..s.i.v..e...n..o..s...m...e..io...s..d..ig..i.t.a..i.s..(..E..C1..1..5../.2..0..2..2.)
 :!
@@ -743,7 +742,6 @@ Esta regra, entretanto, não se aplica às seguintes hipóteses:
 r . *
 *
 *
-* * ..
 
 i 1) nas 4 exceções estudadas acima, em que é possível ao poder público transferir dados i pessoais a entidades privadas j
 L
@@ -1461,8 +1459,6 @@ r .
 
 .
 
-... *
-
 Art. 12 Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, i
 
 : por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de
@@ -1549,7 +1545,6 @@ Configura-se um dado anonimizado quando, ao se utilizar meios técnicos com suce
 Comentários
 
 A questão apresenta corretamente o conceito de dado anonimizado:
-
 
 ..
 
@@ -1641,7 +1636,6 @@ Comentários
 Mais uma questão tentando confundir os conceitos de operador e encarregado:
 
 *
-*** .
 
 Art. 59, VII - operador: pessoa natural ou jurídica, de direito público ou privado,
 que realiza i
@@ -1683,7 +1677,6 @@ r------
 
 Art. 72, iv - para a realização de estudos por órgão de pesquisa, garantida, sempre que i i possível, a anonimização dos dados pessoais;;
 
-. ..
 
 A letra (C) está incorreta, na medida em que a LGPD não se aplica ao tratamento de dados pessoais for feito para fins jornalísticos ou acadêmicos:
 *
@@ -1719,7 +1712,6 @@ Por fim, a letra (E) está correta e tem como fundamento o disposto no art. 4Q, 
 r
 **
 
-** *
 i
 
 Art. 4^ Esta Lei não se aplica ao tratamento de dados pessoais:
@@ -1937,7 +1929,6 @@ Comentários
 
 Todos os itens I, II e III estão corretos, visto que apresentam hipóteses de tratamento de dados pessoais listadas no artigo 7o da LGPD:
 *
-* * .
 
 Art. 79 0 tratamento de dados pessoais somente poderá ser realizado nas seguintes i
 : hipóteses:
@@ -1958,7 +1949,6 @@ Comentários
 
 Se o próprio titular do dado pessoal tornou-o público, não há que se falar em necessidade de seu consentimento para tratamento:
 *
-* * .
 
 Art. 79, § 49 É dispensada a exigência do consentimento previsto no caput deste artigo i
 : para os dados tornados manifestamente públicos pelo titular, resguardados os direitos do j
@@ -2077,7 +2067,6 @@ De modo similar, o cumprimento de obrigação legal ou regulatória pelo control
 *
 *
 *
-* ..
 
 Art. 7Q O tratamento de dados pessoais somente poderá ser realizado nas seguintes i
 = hipóteses:
@@ -2173,7 +2162,6 @@ h ..
 ..
 ..
 ..
-...
 
 Gabarito (C)
 
@@ -2204,7 +2192,6 @@ Art. 17. Toda pessoa natural tem assegurada a titularidade de seus dados pessoai
 j
 
 A letra (B), incorreta, pois não se exige que a responsabilidade pelos erros seja do controlador:
-
 
 ..
 ..
@@ -2644,7 +2631,6 @@ por delegação i
 A letra (B) está incorreta, visto que as informações pessoais armazenadas pelo poder público devem ser mantidas sob sigilo, segundo dispõe a LAI (Lei de Acesso à Informação):
 ..
 
-* ..
 
 *
 * 1
@@ -2713,7 +2699,6 @@ Comentários
 Apesar de, em regra, o poder público estar proibido de transferir dados pessoais a entidades privadas, existem situações excepcionais em que será possível a transferência, como ocorre na hipótese de prevenção de fraudes e irregularidades:
 
 ..
-
 
 í Art. 26, § 1Q É vedado ao Poder Público transferir a entidades privadas dados pessoais i
 = constantes de bases de dados a que tenha acesso, exceto: (..)
@@ -2925,7 +2910,6 @@ basea.d..o...n..o...l.e..g..í.t.i.m...o...i.n..t.e..r.e..s..s..e..,..j .
 A letra (B), correta, constitui transcrição da seguinte regra legal:
 
 *
-*** .
 
 Art. 42. O controlador ou o operador que, em razão do exercício de atividade de i
 : tratamento de dados pessoais, causar a outrem dano patrimonial, moral,
@@ -3049,7 +3033,6 @@ L ..
 ..
 ..
 ..
-...
 
 Gabarito (C)
 
@@ -3151,7 +3134,6 @@ Comentários
 A letra (A), incorreta, pois é possível a prorrogação por mais 6 meses:
 
 *
-*** .
 
 Art. 51, X - suspensão parcial do funcionamento do banco de dados a que se refere a i
 : infração pelo período máximo de 6 (seis) meses, prorrogável por igual período, até a j
@@ -3206,7 +3188,6 @@ Comentários
 A questão prevê uma competência do Conselho Nacional de Proteção de Dados Pessoais e da Privacidade(CNPD):
 
 *
-** * .
 
 í Art. 58-B. Compete ao Conselho Nacional de Proteção de Dados Pessoais e da
 Privacidade: i
@@ -3347,7 +3328,6 @@ Art. 58-A. O Conselho Nacional de Proteção de Dados Pessoais e da Privacidade 
 
 A letra (B), incorreta, visto que serão todos designados pelo Presidente da República:
 
-
 ..
 ..
 
@@ -3356,7 +3336,6 @@ República, i
 
 : permitida a delegação.
 j
-
 
 ..
 
