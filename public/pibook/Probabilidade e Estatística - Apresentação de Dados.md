@@ -556,9 +556,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 = Gabarito: Errado.
 
-
-
-
 ; (CESPE/TELEBRAS/2015) Roberto comprou, por R$ 2.800,00, rodas de liga leve para seu carro, e, ao j i estacionar no shopping, ficou indeciso sobre onde deixar o carro, pois, caso o coloque no estacionamento ;
 : público, correrá o risco de lhe roubarem as rodas, ao passo que, caso o coloque no estacionamento j
 = privado, terá de pagar R$ 70,00, com a garantia de que eventuais prejuízos serão ressarcidos pela empresa ;
@@ -571,9 +568,6 @@ A variável aleatória Y é contínua.
 ;
 
 : Comentários:
-
-
-
 
 : As variáveis quantitativas podem ser classificadas em:
 :
@@ -1600,7 +1594,7 @@ c/4
 
 d5
 
-/i4  15 ~
+/i4 15 ~
 
 Á 7
 
@@ -2081,9 +2075,6 @@ elaborados para ;
 
 ; apresenta uma densidade de frequência de 0,75 x 10"4(/?$)_1
 
-
-
-
 : Densidade de frequência de um intervalo é o resultado da divisão da respectiva frequência relativa pela ;
 : amplitude deste intervalo. Em um intervalo do histograma que está sendo analisado,
 com uma amplitude ;
@@ -2215,7 +2206,7 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 Adicionalmente, podemos utilizar um gráfico de barras justapostas para representar a evolução da população residente em cada região brasileira, como o mostrado a seguir:
 População brasileira, por região, de 1970 a 2010 (xlOOO)
 
-CO  S  SE  NE  N
+CO S SE NE N
 
 Fonte: Censo Demográfico 1970/2010 (IBGE)
 
@@ -2250,7 +2241,7 @@ População brasileira, por região, de 1970 a 2010 (xlOOO)
 
 1970
 
-N  NE  SE  S  CO
+N NE SE S CO
 
 Fonte: Censo Demográfico 1970/2010 (IBGE)
 
@@ -2261,7 +2252,7 @@ População brasileira, por região, de 1970 a 2010 (xlOOO)
 
 200.000,00
 
-N  NE  SE  S  CO
+N NE SE S CO
 
 Fonte: Censo Demográfico 1970/2010 (IBGE)
 
@@ -2449,7 +2440,7 @@ O gráfico de dispersão é uma representação de pares ordenados em um plano c
 15 3 4 5 7 8 9
 
 0 diagrama de ramos e folhas fornece uma maneira rápida de representar graficamente a distribuição dos dados. Nele, cada número é separado em duas partes. Em geral, de um lado ficam as unidades do número e do outro lado fica o restante desse número.
-r  w................................................................................. ..
+r w................................................................................. ..
 ....................................................................................................
 ........................................................................................ ..
 ....................................................................................................

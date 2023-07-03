@@ -140,8 +140,6 @@ d) 168.
 
 ; e) 288.
 
-
-
 i Comentários:
 
 I
@@ -157,30 +155,21 @@ I
 
 : Gabarito: C
 
-
-
 I
 
 i (2019 - Prefeitura de Jacutinga/MG) Assinale a alternativa que contém a quantidade de vezes que é possível usar de maneiras diferentes duas blusas, três calças e quatro meias:
-
 
 ; a) 24 maneiras diferentes.
 
 b) 28 maneiras diferentes.
 
-
-
 : c) 32 maneiras diferentes.
-
-
 
 d) 36 maneiras diferentes.
 
 I
 
 i Comentários:
-
-
 
 : Há 2 blusas para cada uma das 3 calças.
 
@@ -235,8 +224,6 @@ I= No entanto, a cor do vértice A deve ser diferente da cor do vértice C; e a 
 I
 
 : Assim, há 5 possibilidades para o vértice A e 4 possibilidades para o vértice C.
-
-
 
 : Similarmente, há 5 possibilidades para o vértice B e 4 possibilidades para o vértice D.
 
@@ -323,8 +310,6 @@ I
 : O enunciado pede a quantidade de tabelas distintas que podem ser formadas com 216 campos, de modo que uma tabela com A linhas e B colunas é diferente de uma tabela B linhas e A colunas.
 : Essa quantidade corresponde ao número de maneiras de obter 216 pelo produto de 2 números inteiros:
 1 x 216; 2 x 108; ; 108 x 2; 216 x 1
-
-
 
 : Ou seja, ela corresponde ao número divisores de 216.
 
@@ -437,20 +422,15 @@ i
 b) 24
 j i c) 26j d) 28
 
-
 I
 
 i Comentários:
 
 I
 
-
-
 i Selecionando 2 dicionários de idiomas diferentes, podemos encontrar uma das seguintes opções:
 
 ; i) um livro de inglês e um de espanhol; ou
-
-
 
 I
 
@@ -463,15 +443,9 @@ I
 : iii) um livro espanhol e um de francês.
 j
 
-
-
-
-
 : Em cada opção, temos eventos concomitantes (ambos ocorrem), aplicando-se o princípio multiplicativo; i
 = enquanto as opções i, ii e iii se excluem mutuamente (somente uma delas irá ocorrer), aplicando-se o i
 = princípio aditivo entre elas.
-
-
 
 I
 
@@ -488,10 +462,6 @@ i
 i
 
 12 + 8 + 6 = 26
-
-
-
-
 
 ; Gabarito: C
 
@@ -534,8 +504,6 @@ I: escolher uvas para comer;
 
 : ii) Maçãs: há 2 maçãs, logo há 2 maneiras de escolher maçãs para comer;
 
-
-
 i iii) Laranjas: com 3 laranjas, há 3 maneiras de comer laranjas;
 
 iv) Bananas: com 4 bananas, há 4 maneiras de comer bananas;
@@ -547,8 +515,6 @@ I
 ; Como Pedro irá escolher apenas uma dessas opções, então devemos aplicar o princípio aditivo:
 
 Número de maneiras = 10 + 2 + 3 + 4 + 1 = 20
-
-
 
 : Que é inferior a 100.
 
@@ -571,8 +537,6 @@ i Comentários:
 
 : Marta deseja escolher uma comida E uma bebida.
 
-
-
 : Para comer, Marta pode escolher uma das 7 opções de salgado OU um dos 4 tipos de bolo OU uma das 3i espécies de tapioca. Pelo princípio aditivo, as opções de comida são:
 
 í 7 + 4 + 3 = 14
@@ -583,8 +547,6 @@ I
 = princípio aditivo, as opções de bebida são:
 
 3 + 5 = 8
-
-
 
 i Pelo princípio multiplicativo, o número de maneiras de se escolher uma comida E uma bebida é:
 
@@ -1013,15 +975,11 @@ i e) 6.
 
 i
 
-
-
 I
 
 i Comentários:
 
 I
-
-
 
 i Considerando que todas as 3 letras de PMS são distintas, o número de anagramas, ou seja, de formas de se i
 = reordenar essas letras é a permutação de 3 elementos:
@@ -1029,10 +987,6 @@ i Considerando que todas as 3 letras de PMS são distintas, o número de anagram
 P₃ = 31 = 3x2x1 = 6
 
 : Gabarito: E
-
-
-
-
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
@@ -1051,15 +1005,11 @@ d) 120.
 
 i e) 165.
 
-
-
 I
 
 i Comentários:
 
 I
-
-
 
 i Por se tratar de caixas distintas, a serem alocadas em determinada ordem, temos uma permutação de 5 i
 : elementos:
@@ -1070,13 +1020,9 @@ P₅ = 51 = 5x4x3x2x1 = 120
 
 i (CESPE 2018/EBSERH) Julgue o próximo item, a respeito de contagem.
 
-
-
 I
 
 : Se a enfermaria de um hospital possuir cinco leitos desocupados e se cinco pacientes forem ocupar esses i leitos, então haverá mais de 100 formas diferentes de fazer essa ocupação.
-
-
 
 i Comentários:
 
@@ -1093,8 +1039,6 @@ P₅ = 51 = 5x4x3x2x1 = 120
 
 = Logo, há mais de 100 formas de fazer essa ocupação.
 i
-
-
 
 I
 
@@ -1115,9 +1059,6 @@ i homens: 3 bombeiros militares condutores de viatura e 12 praças combatentes, 
 
 = incluindo o motorista, e somente os condutores de viatura podem dirigir uma viatura. Com relação a essa i j situação, julgue o item seguinte.;
 
-
-
-
 A quantidade de maneiras distintas de se distribuir os condutores de viatura para dirigir os veículos é superior =
 j a 5.
 
@@ -1127,8 +1068,6 @@ I
 
 i Comentários:
 
-
-
 I
 
 : Considerando que há 3 condutores para 3 veículos, a quantidade de maneiras de organizá-los corresponde i i a uma permutação de 3 elementos:i
@@ -1137,9 +1076,6 @@ P₃ = 31 = 3x2x1 = 6
 
 : Logo, a quantidade de maneiras é superior a 5.
 j
-
-
-
 
 : Gabarito: Certo.
 
@@ -1239,13 +1175,8 @@ d) 24
 j e) 6
 j i Comentários:
 
-
-
-
 : Essa questão trabalha com a permutação de 5 elementos, com um deles fixo.
 i
-
-
 
 I
 
@@ -1386,15 +1317,11 @@ i c) 24.
 j d) 36.
 ; e) 48.
 
-
-
 I
 
 i Comentários:
 
 I
-
-
 
 ; Primeiro, vamos tratar cada casal como elemento único. Assim, temos a permutação de 3 elementos:
 
@@ -1402,10 +1329,6 @@ P₃ = 31 = 3x2x1 = 6
 
 = Uma vez definida a ordem entre os casais, é necessário que cada casal decida a sua ordem.
 i
-
-
-
-
 
 : Assim, para cada uma dessas 6 possibilidades de ordem entre os casais, há P₂ = 2 possibilidades de cada um ;dos três casais se organizarem:
 
@@ -1431,8 +1354,6 @@ i (CESPE 2018/BNB) Em um navio, serão transportados 10 animais, todos de espéc
 ; camelo, um elefante e um leão.
 i
 
-
-
 I
 
 A respeito da organizaçãodessa fila, julgue o item subsequente.
@@ -1440,11 +1361,8 @@ i
 
 I
 
-
-
 : Existem 7x7! maneiras distintas de organizar essa fila de forma que o elefante, o camelo e o leão estejam ;
 = sempre juntos, mantendo-se a seguinte ordem: leão na frente do camelo e camelo na frente do elefante. i
-
 
 I
 
@@ -1453,8 +1371,6 @@ i Comentários:
 = Para organizar uma fila de 10 animais, de modo que o leão, o camelo e o elefante apareçam sempre nessa j
 = ordem, podemos tratá-lo como elemento único.
 i
-
-
 
 I
 
@@ -1466,8 +1382,6 @@ P₈ = 8! = 8 x 7!
 = Esse resultado é diferente de 7 x 7!, descrito no item.
 i
 
-
-
 I
 
 : Gabarito: Errado.
@@ -1476,12 +1390,8 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 = (CESPE 2018/BNB) Julgue o próximo item, relativo a análise combinatória e probabilidade.
 
-
-
 A quantidade de números naturais distintos, de cinco algarismos, que se pode formar com os algarismos 1, ;
 = 2, 3, 4 e 5, de modo que 1 e 2 fiquem sempre juntos e em qualquer ordem, é inferior a 25.
-
-
 
 I
 
@@ -1648,10 +1558,6 @@ i b) 1080
 d)5040
 
 í e)1980
-
-
-
-
 
 i Comentários:
 
@@ -1896,19 +1802,13 @@ j a) 20
 
 b) 24
 
-
-
 i c) 18
 
 d) 22
 i e) 26
 
-
-
 s i Comentários:
 I
-
-
 
 : Há n = 5 elementos, dos quais k = 3 elementos estão ordenados: Álvaro > Benedito > Cléber.
 Portanto, temos: i
@@ -1992,8 +1892,6 @@ Servidor a b c i Para que nenhum candidato seja avaliado pelo seu parente, devem
 = nenhum deles retorne à posição original, indicada acima. Assim, temos uma permutação caótica (ou desarranjo) de 3 elementos.
 : Como há poucos elementos, podemos contar as possibilidades, como fizemos anteriormente:
 
-
-
 ; - O candidato A pode ser analisado pelo servidor b:
 
 Candidato A
@@ -2058,8 +1956,6 @@ I
 
 Resposta: Certo.
 
-
-
 i (FCC/2019 - Prefeitura de Recife/PE) Os quatro funcionários de uma repartição trabalham cada um em uma
 = mesa, todos na mesma sala. O chefe da repartição determinou que os funcionários trocassem de mesa entre
 = si. Os funcionários podem ser realocados na sala de modo que nenhum funcionário passe a ocupar a mesa que ocupava antes da realocação.
@@ -2078,8 +1974,6 @@ i
 c) de 9 maneiras diferentes.
 
 d) de 6 maneiras diferentes.
-
-
 
 i e) de 12 maneiras diferentes.
 
@@ -2256,13 +2150,9 @@ Para que o número formado pelos 6 algarismos indicados no enunciado seja múlti
 
 Gabarito: B.
 
-
-
 Ii (CESPE 2019/COGE-CE) Em determinado órgão, sete servidores foram designados para implantar novo
 ; programa de atendimento ao público. Um desses servidores será o coordenador do programa, outro será o
 = subcoordenador, e os demais serão agentes operacionais.
-
-
 
 : Nessa situação, a quantidade de maneiras distintas de distribuir esses sete servidores nessas funções é igual
 : a a) 21.
@@ -2291,8 +2181,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 Alternativamente, poderíamos calcular o arranjo de 2 elementos, dentre 7:
 
 Gabarito: B
-
-
 
 i (CESPE 2020/TJ-PA) Em um sistema de acesso a uma rede de computadores, os usuários devem cadastrar
 ; uma senha de 6 dígitos, que deve ser formada da seguinte maneira:
@@ -2667,8 +2555,6 @@ I= (CESPE 2018/PF) Para cumprimento de um mandado de busca e apreensão serão d
 
 i Comentários:
 
-
-
 A questão pede o número de maneiras de escolher 1 delegado (dentre 4), 3 agentes
 (dentre 12) e 1 escrivão i (dentre 6):
 i - O número de formas de escolher 1 delegado, dentre 4, é igual a 4 - caso especial C₄₁ = 4;
@@ -2687,15 +2573,11 @@ I
 
 Número de possibilidades = 4 x 220 x 6 = 5280
 
-
-
 : Logo, há mais de 5.000 maneiras de formar a equipe.
 
 I
 
 : Gabarito: Certo.
-
-
 
 i (FCC/2018 - Analista Judiciário do TRT 15? Região) Dez pastas diferentes devem ser guardadas em duas
 ; caixas diferentes. Se a única regra é que cada uma das caixas contenha pelo menos uma pasta,
@@ -2707,8 +2589,6 @@ j c) 126.
 d) 2.048
 
 i e)256
-
-
 
 i Comentários:
 
@@ -2802,9 +2682,6 @@ Helena i deseja escolher uma casquinha com duas bolas de sorvete não necessaria
 
 ; ordem em que as bolas forem colocadas na casquinha não fará a escolha de Helena ser diferente.
 
-
-
-
 : O número de maneiras de Helena escolher sua casquinha é i j a) 64.
 b) 56.
 
@@ -2876,8 +2753,6 @@ Gabarito: Certo
 
 8x7
 
-
-
 ; (CESPE 2018/SEFAZ-RS) Se 7 kg de feijão forem distribuídos para até quatro famílias, de modo que cada uma ;
 delas receba um número inteiro de quilos, então, nesse caso, a quantidade de maneiras distintas de se i distribuírem esses 7 kg de feijão para essas famílias será igual a j j a) 30.
 b) 120.
@@ -2893,10 +2768,7 @@ i Comentários:
 
 I
 
-
-
 : Podemos representar os quilos de feijão como 2Zle as 4 famílias como seções separadas por uma barra:
-
 
 Família 1 Família 2 Família 3 Família
 
@@ -3755,7 +3627,6 @@ Comentários:
 A questão informa que precisamos ir do ponto A ao ponto B e em seguida do ponto B
 ao ponto C, utilizando as linhas verticais e horizontais.
 Entre o ponto A e o ponto B, há 4 segmentos de reta verticais e 3 segmentos de reta horizontais. Isso significa que para irmos de um ponto a outro, precisamos efetuar 4 movimentos para cima e 3movimentos para a direita. Para ilustrar, vamos representar por N (Norte) o movimento para cima e por L(Leste) o movimento para a direita. Assim, a sequência N L N N L L N corresponde ao seguinte caminho:
-
 
 T
 
@@ -4935,7 +4806,7 @@ Nessa situação, temos 10
 possibilidades para a escolha do algarismo e o número de maneiras de organizar os elementos da senha corresponde a uma permutação 5 elementos com repetição de 2 elementos:
 p2, _
 
-5  V
+5 V
 
 ᵖ52. _
 

@@ -1746,7 +1746,7 @@ MÉDIA GEoMÉTRICA
 A média geométrica é uma medida estatística muito utilizada em situações de acumulação de percentuais, fato muito comum em problemas financeiros. Também é encontrada na geometria plana,quando, por exemplo, devemos fazer com que a área de um quadrado seja igual à área de um retângulo.
 
 Essa medida é definida, para o conjunto de números positivos, como a raiz n-ésima do produto de n elementos de um conjunto de dados. A propriedade principal dessa média é preservar o produto dos elementos de um conjunto de dados.
-O raciocínio para encontrarmos a fórmula da média geométrica é análogo ao adotado para a média aritmética. Dada uma lista de n números, {x1: x2,   *, xn}, o produto de seus termos é igual a:
+O raciocínio para encontrarmos a fórmula da média geométrica é análogo ao adotado para a média aritmética. Dada uma lista de n números, {x1: x2, *, xn}, o produto de seus termos é igual a:
 x x2 x x xn.
 
 n fatores

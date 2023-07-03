@@ -184,7 +184,7 @@ Considerando que as variáveis X₁,X₂, —>Xn são independentes, a variânci
 
 vm = v (x-+x;+-+x") = v g) + v g) + - + v (J)
 
-7(X) = ^V(X±) +^V(X2) +  + ±V(Xn)
+7(X) = ^V(X±) +^V(X2) + + ±V(Xn)
 
 Sabendo que a variância amostrai é igual à variância populacional, V(Xj) = 7(X) = cr2:
 2.
@@ -390,8 +390,8 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 Quanto maior o tamanho da amostra e quanto mais simétrica for a distribuição da população, melhor será a aproximação. Usualmente, considera-se que para uma amostra grande, com n > 30, a aproximação será satisfatória, para qualquer distribuição populacional.
 HORAM
 
-r.......  ... ......... ......... .  ...........
-..............................................................................  ........
+r....... ... ......... ......... . ...........
+.............................................................................. ........
 ..............................................................
 
 (CESPE/2014 - ANATEL) Com base no teorema limite central, julgue o item abaixo.
@@ -403,8 +403,6 @@ A distribuição da média amostrai X converge para uma distribuição normal à
 n
 
 Gabarito: Errado.
-
-
 
 (CESPE 2018/PF) O tempo gasto (em dias) na preparação para determinada operação policial é uma variável aleatória X que segue distribuição normal com média M, desconhecida, e desvio padrão igual a 3 dias. Aobservação de uma amostra aleatória de 100 outras operações policiais semelhantes a essa produziu uma média amostrai igual a 10 dias. Com referência a essas informações, julgue o item que se segue, sabendo queP(Z > 2) = 0,025, em que Z denota uma variável aleatória normal padrão.
 O erro padrão da média amostrai foi inferior a 0,5 dia.
@@ -901,9 +899,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 I
 I
 
-
-
-
 : Sabendo que a variância populacional é cr2 = 4 e que o tamanho da amostra é n = 5, então:
 ;
 
@@ -1206,10 +1201,6 @@ S%-
 
 ( N ) = (zõõõõõ) = °'04
 
-
-
-
-
 íNc\2 ( 50000 \2
 
 U) = (zõõõõõ) = °'0625
@@ -1224,7 +1215,7 @@ I
 
 : Portanto:
 
-X Sxh h=l s2 = (0,0225  0,0099 + 0,04 * 0,0396 + 0,0625  0,0099 + 0,16  0,0099)
+X Sxh h=l s2 = (0,0225 0,0099 + 0,04 * 0,0396 + 0,0625 0,0099 + 0,16 0,0099)
 Gabarito: Certo.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
@@ -1586,7 +1577,6 @@ A prova apresenta a tabela normal da forma P(Z > Zo). Para um nível de 1 - a =
 95% de confiança, resta j
 
 CZ (X
-
 
 i - = 2,5% abaixo do limite inferior do intervalo e - = 2,5% acima do limite superior do intervalo.
 :
@@ -2237,7 +2227,6 @@ k...................... . .................................... .
 ................................................ .
 .............................................................
 
-
 Intervalo de Confiança para a Variância
 
 O estimador da variância s2 (variância amostrai), multiplicado pelo fator se8ue uma distribuição qui-quadrado com n— 1 graus de liberdade:
@@ -2366,7 +2355,6 @@ b) 6 < o2 < 24.
 
 I ^2 1
 I
-
 
 \ ^SUP ^INF /
 

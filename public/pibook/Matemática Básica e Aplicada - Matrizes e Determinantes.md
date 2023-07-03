@@ -1133,10 +1133,6 @@ Note que a matriz 42 é:
 
 M 1]
 
-
-
-
-
 = [2.2+ 1.3
 
 Item. 1.3.2 + 1.3
@@ -1163,7 +1159,7 @@ Item. 1.9 4-1
 
 (Pref. SJC/2019) Sobre as matrizes Amxn eBpxqé correto afirmar que existe a operação:
 
-a) A + B, se n = p b) B - A, se n = p c) A  B, se m = q d) B  A, se m = q e) A 4- B, se n = p
+a) A + B, se n = p b) B - A, se n = p c) A B, se m = q d) B A, se m = q e) A 4- B, se n = p
 Comentários:
 
 Vamos analisar cada alternativa.
@@ -1607,7 +1603,6 @@ Item. .0 2 40.
 4 + 1
 
 Item. .0 + y
-
 
 0 + x
 
@@ -2136,7 +2131,6 @@ i * A matriz A 1 é ortogonal?
 
 ; Para que i4_1 seja ortogonal, devemos ter que a sua inversa Q4-1)-1 seja igual a sua transposta
 C4_1)f.
-
 
 I
 
@@ -3037,8 +3031,6 @@ detA
 
 = -0,2
 
-
-
 Multiplicação de uma fila por uma constante
 
 Ao multiplicar uma fila (linha ou coluna) de uma matriz por uma constante k, o determinante dessa nova matriz também fica multiplicado por k.
@@ -3074,8 +3066,6 @@ Exemplo: considere a seguinte matriz A = , cujo determinante é 7.
 A matriz 3A é dada por:
 
 sHxi II
-
-
 
 ...................................... *................................
 *.......................................... *..............................
@@ -4851,7 +4841,6 @@ det 4
 d) det [4 + B] = 2 x det A. ERRADO.
 
 Essa propriedade não existe. B é a inversa de A, de modo que não se pode afirmar que det(4 + X-1) = 2 det A
-
 
 Para provar que a alternativa é falsa, vamos mostrar um contraexemplo.
 

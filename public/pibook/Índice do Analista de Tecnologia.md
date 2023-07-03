@@ -50,7 +50,7 @@
 
 - Conhecimento e uso das formas contemporâneas da linguagem inglesa.
 
-#### Noções De Estatística e Probabilidade
+### Noções De Estatística e Probabilidade
 
 - Estatística descritiva.
 
@@ -86,7 +86,7 @@
 
 - Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
 
-#### Legislação Acerca De Privacidade E Proteção De Dados Pessoais
+### Legislação Acerca De Privacidade E Proteção De Dados Pessoais
 
 - Lei nº 13.709-2018 (Lei Geral de Proteção de Dados Pessoais - LGPD). Capítulos I, II, III, IV, VII, VIII e IX.
 
@@ -398,17 +398,17 @@
 
 - Análise e projeto de software.
 
-- Análise e projeto de software - Estrutura de Arquivos.
+- Análise e desenvolvimento de software - Estrutura de Arquivos.
 
-- Análise e projeto de software - Estrutura de Dados.
+- Análise e desenvolvimento de software - Estrutura de Dados.
 
-- Análise e projeto de software - Orientação a Objetos.
+- Análise e desenvolvimento de software - Orientação a Objetos.
 
-- Análise e projeto de software - Métodos de Ordenação.
+- Análise e desenvolvimento de software - Complexidade de Algoritmos.
 
-- Análise e projeto de software - Complexidade de Algoritmos.
+- Análise e desenvolvimento de software - Métodos de Ordenação.
 
-- Análise e projeto de software - Pesquisa de Dados.
+- Análise e desenvolvimento de software - Pesquisa de Dados.
 
 - Qualidade de Software.
 
@@ -476,11 +476,11 @@
 
 - Arquitetura de Software - Padrões de Projeto Orientado a Objetos.
 
-- Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Criacionais.
+- Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Padrões Criacionais.
 
-- Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Estruturais.
+- Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Padrões Estruturais.
 
-- Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Comportamentais.
+- Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Padrões Comportamentais.
 
 - Arquitetura de Software - Padrões GRASP.
 
@@ -504,7 +504,7 @@
 
 - Design de software.
 
-- Design de software - Orientação ao Domínio - DDD (Domain-Driven Design).
+- Design de software - Orientado ao Domínio (DDD) (Domain-Driven Design).
 
 - Arquitetura hexagonal.
 
@@ -527,6 +527,8 @@
 - Aplicações em Nuvem - 12 factories.
 
 - Aplicações em Nuvem - Orientação a serviço.
+
+- Arquitetura Orientada a Serviços (SOA).
 
 - IaaS - Infraestrutura com Serviço.
 

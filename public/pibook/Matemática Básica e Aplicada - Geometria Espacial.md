@@ -279,7 +279,7 @@ Esses dois sólidos geométricos são os mais comuns em provai! Todos dois são 
 
 A área total da superfície de um prisma é calculada por meio da seguinte soma:
 
-total = A lateral + 2  A base
+total = A lateral + 2 A base
 
 Observe que a área total é composta de duas parcelas. A área lateral e a área da base.
 
@@ -341,12 +341,12 @@ Vamos substituir o que achamos.
 Atotal ~ ^lateral + 2 ' A[}ase
 Atotai = 2ac + 2bc + 2ab
 
-Atotai = 2  (ac + bc + ab)
+Atotai = 2 (ac + bc + ab)
 
 Essa é a área superficial de um paralelepípedo. Ela aparece em provas com uma certa frequência! Nos cubos,todas as arestas são iguais a "a", podemos fazer o seguinte:
 
-Atotai = 2-(a-a + a-a + a-a) -» Atotai = 2  (a2 + a2 + a2)
--> Atotal = 2  3a2
+Atotai = 2-(a-a + a-a + a-a) -» Atotai = 2 (a2 + a2 + a2)
+-> Atotal = 2 3a2
 
 Afotal
 
@@ -383,7 +383,7 @@ Aq = 42 -> Aq = 16 cm2
 
 Essa é a área de uma das faces. O cubo tem 6. Assim,
 
-^Total ~ ' Aq —* Atotai — 6  16 —> ^total ~ 96 C™
+^Total ~ ' Aq —* Atotai — 6 16 —> ^total ~ 96 C™
 
 Gabarito: LETRA A.
 
@@ -441,11 +441,11 @@ A piscina olímpica tem a forma de um paralelepípedo com dimensões informadas 
 
 = Observe que a quantidade de água desperdiçada equivale a 7 mil piscinas dessas.
 
-^água = 7000V 7ápua = 7000  2500 -> Vàgua = 17.500.000 m3
+^água = 7000V 7ápua = 7000 2500 -> Vàgua = 17.500.000 m3
 
 : Observe que o volume nas alternativas está em litros, mas encontramos em metros cúbicos. Assim,
 para transformar metros cúbicos em litros, devemos multiplicar o resultado por 1000.
-Vágua = 17.500.000  1000 -> Vágua = 17.500.000.000 L
+Vágua = 17.500.000 1000 -> Vágua = 17.500.000.000 L
 
 I
 
@@ -460,7 +460,7 @@ Nome
 
 Paralelepípedo
 
-Atotai = 2  (ac + bc + ab)
+Atotai = 2 (ac + bc + ab)
 
 V = abc
 
@@ -518,7 +518,7 @@ V =
 Como o enunciado disse que V = 100 cm3 e h = 12 cm, vamos substituir esses valores na fórmula acima para determinar a área da base Ab.
 Ab-12
 
-4  Ab = 100 -> Ab = 25 cm2
+4 Ab = 100 -> Ab = 25 cm2
 
 Gabarito: LETRA A.
 
@@ -683,11 +683,9 @@ i R = — ->R = — ->R=lm
 
 : 2 2
 
-
-
 : Com o raio em mãos, podemos encontrar a área da base.
 
-Ab = ir  l2 -> Ab = TT cm2
+Ab = ir l2 -> Ab = TT cm2
 
 : Como n = 3,14, vamos substituir:
 
@@ -699,9 +697,7 @@ V = AbH -> 7 = 3,14-1,5 -> 7 = 4,71 m3
 ; Observe que o nosso resultado foi em metros cúbicos (m3). No entanto, as alternativas estão em litros (L).
 IÊ Para fazer essa transformação, devemos multiplicar o resultado por 1000.
 
-V = 4,71  1000 -> V = 4710 litros
-
-
+V = 4,71 1000 -> V = 4710 litros
 
 : Como a auestão fala em valor aproximado, podemos marcar a alternativa C.
 
@@ -752,11 +748,11 @@ i Comentários:
 A área lateral de um cone é dada por Aíateral = nrg. Perceba que temos a geratriz, mas não temos o raio, i
 : Com isso, devemos encontrar o raio (r) a partir do ângulo de 30° que a geratriz faz com o eixo do cone.
 Note que temos um triângulo retângulo em que "r" é o cateto oposto relativo ao ângulo de 30°, enquanto g é a hipotenusa. Dessa forma,
-sen 30° = — -> r = g  sen 30°
+sen 30° = — -> r = g sen 30°
 
 Substituindo g = 12 e sen 30° = 1/2 :
 
-r = 12  -
+r = 12 -
 
 -> r = 6 cm
 
@@ -795,7 +791,7 @@ irRi 2h
 
 O enunciado nos disse que R = 18 cm, h = 26 cm e ÍT = 3,14. Vamos substituir na fórmula acima.
 
-3,14  182  26 81,64  324
+3,14 182 26 81,64 324
 
 V =------------- --------- -> V = > V = 8.817,12 cm2
 
@@ -902,7 +898,7 @@ H2
 
 Tirando a raiz cúbica dos dois lados.
 
-3j2(H - h)3 = "Jh3 V2  (H - h) = H
+3j2(H - h)3 = "Jh3 V2 (H - h) = H
 
 Isolando o"h".
 
@@ -957,7 +953,7 @@ D = 2R -► R = - -> R = - -> R = 3 m
 
 O raio da esfera é 3 m. Podemos substituir na fórmula, não esquecendo que a questão pediu para considerar7T = 3.
 
-As = 4  3  32 -> As = 12  9 -> As = 108 m2
+As = 4 3 32 -> As = 12 9 -> As = 108 m2
 
 Gabarito: LETRA D.
 
@@ -990,7 +986,7 @@ As =4nR2
 
 = Substituindo R = 3,
 
-4S = 4  7T  32 -> As = 3671 cm2
+4S = 4 7T 32 -> As = 3671 cm2
 
 ; - Para calcular o volume de uma esfera, utilizamos a seguinte fórmula:
 
@@ -998,7 +994,7 @@ As =4nR2
 
 Substituindo R = 3,
 
-4  n  33
+4 n 33
 
 V =
 
@@ -1055,13 +1051,13 @@ Temos uma caixa no formato de paralelepípedo.
 42 cm
 
 Sabemos que para calcular o volume de um paralelepípedo, devemos multiplicar suas três dimensões. Note que as dimensões estão em centímetros e as respostas estão em metros cúbicos. Para transformar centímetros em metros, basta dividir aquele por 100. Assim, o volume de uma única caixa é:
-7 = 0,25  0,42  0,31 -> V = 0,03255 m3
+7 = 0,25 0,42 0,31 -> V = 0,03255 m3
 
 Veja que esse volume é o volume de uma única caixa. O enunciado quer saber o volume de 1000 delas.
 Logo,
 devemos multiplicar o resultado por 1000.
 
-Vtotal = 1000  V Vtotal = 1000  0,03255 Vtotal =
+Vtotal = 1000 V Vtotal = 1000 0,03255 Vtotal =
 32,55 m3
 
 Gabarito: LETRA A.
@@ -1091,17 +1087,17 @@ Logo, o total de livros é 900. Pessoal, se não ficou claro, vou tentar explica
 * Além disso, a questão disse que João catalogou 375 livros. Ora, podemos fazer uma regra de três a partir daí. Pensamos assim: "se 375 livros correspondem a 41,6%, então x livros correspondem a 100%".
 Se são 900 livros e cada livro tem 2.000 cm3, então o volume total ocupado pelos 900 é dado por:
 
-Vtotal = 900  2000 Vtotal = 1.800.000 cm3
+Vtotal = 900 2000 Vtotal = 1.800.000 cm3
 
 O problema é que encontramos um volume em cm3 e é preciso comparar com m3. Para fazer a conversão,podemos usar a seguinte estratégia:
 
 * 1 m3 equivale a multiplicar "1 m" três vezes.
 
-V = 1 m3 = (1 m)  (1 m)  (1 m)
+V = 1 m3 = (1 m) (1 m) (1 m)
 
 * Quantos centímetros existem em "1 m"? Ora, 1 metro tem 100 centímetros.
 
-V = 1 rn3 = (100 cm)  (100 cm)  (100 cm) = 1.000.000 cm3
+V = 1 rn3 = (100 cm) (100 cm) (100 cm) = 1.000.000 cm3
 
 Logo, acabamos de encontrar 1 m3 tem 1.000.000 cm3. Assim, podemos fazer outra regra de três.
 
@@ -1142,7 +1138,7 @@ A base é o hexágono e a altura é a espessura dada no item (2 cm = 0,02 m). As
 Vtampo = Ab-H Vtampo = 0,32^30,02 -> Vtampo = 0,0064^3 m3
 
 Para terminar, devemos considerar V3 = 1,73. Guarde esse valor com você, vai ser útil em muitas situações.
-Vtampo = 0,0064  1,73 Vtampo = 0,011 m3
+Vtampo = 0,0064 1,73 Vtampo = 0,011 m3
 
 O volume encontrado é inferior a 0,04 m3.
 
@@ -1256,7 +1252,7 @@ V = Ab-H
 A base é um trapézio e precisamos calcular a sua área. Veja como fica o desenho da base considerando as informações passadas pelo enunciado:
 A área de um trapézio é dada por:
 
-(B + Z?)  h
+(B + Z?) h
 
 B: representa o comprimento da base maior;
 b-. representa o comprimento da base menor;
@@ -1264,7 +1260,7 @@ h: representa a altura.
 
 Assim, basta substituirmos os valores na fórmula.
 
-(14 + 27)  13
+(14 + 27) 13
 
 Ab = 266,5 cm2
 
@@ -1305,7 +1301,7 @@ Vt = abc
 
 Agora, considere que dobramos as arestas. Assim,
 
-Vf = (2a)  (2b)  (2c) -> Vf = 8abc -> = 8
+Vf = (2a) (2b) (2c) -> Vf = 8abc -> = 8
 
 Note que o volume do novo paralelepípedo é 8 vezes o valor do volume inicial! Já podemos marcar.
 
@@ -1321,7 +1317,7 @@ Precisamos calcular o volume da caixa com formato de paralelepípedo. Com as inf
 
 Sabemos que o volume de um paralelepípedo é dado pelo produto de suas três dimensões. Assim,
 
-Vp = 5  20  15 Vp = 1.500 m3
+Vp = 5 20 15 Vp = 1.500 m3
 
 No item anterior, calculamos o volume da caixa cilíndrica e encontramos Vc = 1. 570
 m3. Observe que a caixa cilíndrica tem maior capacidade, ao contrário do que afirma o item.
@@ -1331,7 +1327,7 @@ Item. 12. (CESPE/PREF. IPOJUCA/2009) Em uma piscina que tenha a forma de um para
 Comentários:
 
 Questão que nos exige calcular o volume de um paralelepípedo. Note que a questão trouxe todas as dimensões dele. Assim, para encontrar o seu volume, basta fazer a multiplicação das três quantidades.
-V = abc V = 2  6  3 V = 36 m3
+V = abc V = 2 6 3 V = 36 m3
 
 Creio que o maior foco da questão era determinar se conhecíamos a conversão entre metro cúbico e litros.
 Saber essas conversões é de extrema importância, galera! Lembre-se:
@@ -1428,7 +1424,7 @@ Primeiramente, precisamos encontrar a área superficial do tetraedro regular.
 Lembre-se que um tetraedro regular tem 4 faces e cada uma delas é um triângulo equilátero. Sendo assim, a área superficial do tetraedro é igual a:
 De acordo com o enunciado, a aresta desse tetraedro é igual a V3 m.
 
-As = (Vã/Vã -> As = Vã  Vã -> As = 3 m2
+As = (Vã/Vã -> As = Vã Vã -> As = 3 m2
 
 Como o custo de material adesivo é de R$ 5,50 /mz. Sendo assim, o total que se deve gastar é:
 
@@ -1515,7 +1511,7 @@ O resultado está em metros cúbicos (m3) mas todas as alternativas estão em li
 
 Para transformar m3 em litros, devemos multiplicar o resultado por mil.
 
-V = 12,56  1000
+V = 12,56 1000
 
 V = 12560L
 
@@ -1530,22 +1526,22 @@ Temos um cilindro circular reto de 3 cm de altura. Vamos desenhá-lo.
 
 Além disso, o enunciado informa que a área total é o triplo da área lateral.
 Lembre-se que a área total é o somatório da área lateral com duas vezes a área da base. Assim,
-Atotal ' Abase + Alat 3  Alat
+Atotal ' Abase + Alat 3 Alat
 
 2 ' Abase ' Aiat
 
 —> Abase Aiat
 
 Observe que, para a condição do enunciado ser satisfeita, a área da base deve ser igual a área lateral. Na base temos um círculo, logo, Abase = nR2. A lateral do cilindro é um retângulo com um dos lados medindo a própria altura do cilindro e o outro lado medindo o comprimento da circunferência. Lembre-se:
-Assim, Alat = (2nR)  3 = 6nR. Logo, podemos encontrar o valor do raio usando
+Assim, Alat = (2nR) 3 = 6nR. Logo, podemos encontrar o valor do raio usando
 Abase = Alat.
 nR2 = 6nR -> R = 6 cm
 
 Com o raio em mãos, podemos determinar o volume do cilindro.
 
-V = Abase  H V = 71  62  3
+V = Abase H V = 71 62 3
 
-Usando que TT = 3,14, ficamos com V = 108  3,14 -»
+Usando que TT = 3,14, ficamos com V = 108 3,14 -»
 
 400 cm3, logo, o item está correto.
 
@@ -1583,17 +1579,17 @@ Veja que temos um cilindro grandão e que foi tirado um pedaço dele. Esse peda�
 
 Na teoria, mostramos que o volume do cilindro é dado produto da área da base pela altura.
 
-V = Ab  H
+V = Ab H
 
 Para o cilindro maior, temos R = 4 cm e H = 20 cm:
 
-Ab = nR2 Ab = n  42 -> Ab = 16n cm2
+Ab = nR2 Ab = n 42 -> Ab = 16n cm2
 V = 1Ó7T -20 -> V = 3207Tcm3
 
 Agora, devemos descontar o volume arrancado. Observe que a área da base do cilindro menor é a mesma.
 Temos apenas uma mudança na altura que passa a ser H = 4 cm.
 
-1v /menor = 167T  4 —z >
+1v /menor = 167T 4 —z >
 
 vVm—en6o4rtvt-r/i
 
@@ -1643,9 +1639,9 @@ At2 = 12 g -> At2 = 4800 s
 
 Para saber quanto cada um vai pagar, basta multiplicamos o tempo pelo preço do segundo.
 
-= 1500  0,03 Pi = /?$ 45,00
+= 1500 0,03 Pi = /?$ 45,00
 
-P2 = 4800  0,03 -> P2 = R$ 144,00
+P2 = 4800 0,03 -> P2 = R$ 144,00
 
 Veja que, enquanto a primeira opção custa R$ 45,00, a segunda custará R$ 144,00. Logo, a economia é de:
 (144 - 45)
@@ -1669,7 +1665,7 @@ LATA de BRIGADEIRO
 
 Primeiro, devemos calcular o volume da lata, para sabermos a quantidade de brigadeiro.
 Lembre-se que o volume de um cilindro é o produto da área da base pela altura. Assim,
-V = Ab  H V = (ji * 62)  10 -> V = 360h cm3
+V = Ab H V = (ji * 62) 10 -> V = 360h cm3
 
 Agora, vamos calcular o volume de um único brigadeiro. O enunciado diz que o brigadeiro tem formato de uma esfera de raio 1 cm. O volume de uma esfera é dado por:
 V = --n-R3 -> V = --7i-l3 -> V =-n cm3
@@ -1720,9 +1716,9 @@ V = y (7?2 + Rr + r2)
 
 Portanto, para encontrarmos o volume, basta substituirmos os valores.
 
-3 14  7
+3 14 7
 
-V = ------ (42 + 4  3 + 32) -> 7 = 271,08 cm3
+V = ------ (42 + 4 3 + 32) -> 7 = 271,08 cm3
 
 Galera, eu sei que a fórmula do tronco de cone não é nada intuitiva. Ela é horrível de decorar. Por sorte,algumas vezes, usá-la não será necessário. Para resolver uma questão de tronco de cone sem usar a fórmula,precisaremos fazer a subtração de dois volumes: o volume do cone maior e o volume do cone menor. Mas que cones são esses? Veja o desenho abaixo:
 Note que o volume do tronco (em verde) é a diferença entre o volume do cone (em azul) pelo volume do cone (em marrom). Tudo bem? O volume de um cone nós lembramos:
@@ -1807,7 +1803,7 @@ Ab-H
 
 As informações do enunciado foram: Vcone = 45n cm3 e H = 15 cm. Vamos substituir.
 
-Ab  15
+Ab 15
 
 4571 = —-— -> Ab = 9ti cm
 
@@ -1848,7 +1844,7 @@ A/3 3
 
 Esse o valor da aresta em função do raio da esfera. O enunciado forneceu que R =
 5V3 cm, substitua na fórmula para obter o L.
-2v/3  Í5V3)
+2v/3 Í5V3)
 
 L = > L = 10 cm
 
@@ -1901,7 +1897,7 @@ As =4uR2
 
 Como o raio de reservatório é R = 10 m, devemos substituir o valor:
 
-As = 4n  102 -> = 40071 cm2
+As = 4n 102 -> = 40071 cm2
 
 O resultado que encontramos bate com o trazido pelo item. Portanto, correto.
 

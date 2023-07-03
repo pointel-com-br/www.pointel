@@ -614,9 +614,9 @@ ATENÇÃO
 Adianto para vocês que o elemento neutro da multiplicação não é o zero. Afinal,
 quando multiplicamos qualquer número por 0, o resultado será zero. O zero acaba tendo uma ação bem característica. Por sua vez,veja o que acontece quando multiplicamos um número x por 1.
 
-x  1 — x
+x 1 — x
 
-1  x — x
+1 x — x
 
 Veja que a multiplicação de um número x por 1, não acarreta mudanças. Terminamos com o número x. Logo,o "1" é o nosso elemento neutro da multiplicação.
 
@@ -626,7 +626,7 @@ O elemento inverso é aquele que, ao multiplicarmos um número por ele, resultar
 
 1 1
 
-x  — = 1 e — x = 1
+x — = 1 e — x = 1
 x x
 
 Observe que o inverso multiplicativo de qualquer número x será sempre a fração de "1/x".
@@ -671,11 +671,11 @@ Perceba que o número "2" é comum as duas parcelas da soma.
 
 É possível colocá-lo em evidência e escrevendo-o apenas uma vez.
 
-2  (1 + x)
+2 (1 + x)
 
 Observe que é justamente o inverso da multiplicação chuveirinho.
 
-2 + 2x = 2  (1 + x)
+2 + 2x = 2 (1 + x)
 
 Por mais que o número "2" não esteja expressamente em um produto, podemos considerá-lo como "2 * 1".
 Não se preocupe! Voltaremos para aplicarmos essa propriedade em breve! No momento,
@@ -969,7 +969,6 @@ i
 
 ; Temos o número N e vamos realizar as operações na ordem em que foram ditas no enunciado.
 
-
 o
 
 : Elevou o número ao quadrado:
@@ -988,7 +987,7 @@ I
 
 :
 
-: Elevou esse último resultado ao cubo: (3V2 Af) = 27  2A/2  = 54A/2 Af3
+: Elevou esse último resultado ao cubo: (3V2 Af) = 27 2A/2 = 54A/2 Af3
 
 = Gabarito: Letra C.
 
@@ -997,7 +996,7 @@ Propriedades da Potenciação
 Agora que começamos a ter uma noção intuitiva do que é potenciação, é importante fazer algumas definições e mostrar algumas propriedades.
 1) a° = 1
 
-2) an = a  a  a  a  ...  a  a nvezes
+2) an = a a a a ... a a nvezes
 Pessoal, lembre-se que qualquer número elevado a 0 é igual a 1! Isso é uma definição, não há demonstrações.Quanto é 2o? É 1! Quanto é 1000o? É 1! Quanto é 10000000000000o? É 1! Não importa quão grande o número seja, se ele está elevado a zero, então essa potência vale 1! E as propriedades, quais são?
 Pl) Quando multiplicamos duas potências de mesma base, mantemos a base e somamos os expoentes.
 
@@ -1022,15 +1021,15 @@ EXEMPLIFICANDO
 51)1° = 51-1O = 51O
 
 P4) Quando queremos elevar a determinado expoente uma multiplicação, o expoente entra em cada um dos fatores.
-(a  b~)n = an  bn
+(a b~)n = an bn
 
 EXEMPLIFICANDO
 
-(2  3)3 = 23  33
+(2 3)3 = 23 33
 
-(5  7)5 = 55  75
+(5 7)5 = 55 75
 
-(4  8)i° = 4í0  8í0
+(4 8)i° = 4í0 8í0
 
 P5) Quando queremos elevar a determinado expoente uma divisão, o expoente entra no denominador e no numerador normalmente.
 EXEMPLIFICANDO
@@ -1039,7 +1038,7 @@ Existem duas pequenas consequências do que vimos até aqui que vocês devem ter
 
 * Ao elevar o número 0 a qualquer expoente, o resultado será sempre zero!
 
-0" = 0  0  0  ... * 0  0 = 0
+0" = 0 0 0 ... * 0 0 = 0
 
 nvezes
 
@@ -1063,7 +1062,7 @@ A)
 
 ; B) a° = 0
 
-i C) (a- b)n = (an  b11)
+i C) (a- b)n = (an b11)
 
 D) (an)m = an'm
 
@@ -1092,8 +1091,8 @@ A)243.
 
 = Para resolver essa questão, devemos lembrar das seguintes propriedades de potenciação:
 
-! Pl) am  an = am+n i P2) ^- = am an i P3) (am)n = am'n
-(32)3 * 36 S 36  36 Pl
+! Pl) am an = am+n i P2) ^- = am an i P3) (am)n = am'n
+(32)3 * 36 S 36 36 Pl
 
 E =-------- 7=---- => E = 7z—
 
@@ -1203,9 +1202,9 @@ Assim, podemos escrever que V3 = V31 = 32.
 Gabarito: Letra C.
 
 P6) Na multiplicação de raízes com índices iguais, conservamos o índice e multiplicamos os radicandos.
-* V2  V4 = VI7! = Vã = 2
+* V2 V4 = VI7! = Vã = 2
 
-* VTõõ  VTõ = Vioo-io = VTõõõ
+* VTõõ VTõ = Vioo-io = VTõõõ
 
 P7) Na divisão de raízes com índices iguais, conservamos o índice e dividimos os radicandos.
 
@@ -1305,7 +1304,6 @@ V3 VÕ V3 3 VÕ V5 V5 5
 5 5 V7 5V7 81 81 V27 8lV27
 
 V7 V7 V7 7 V27 V27 V27
-
 
 ~ 3V27
 
@@ -1430,7 +1428,7 @@ EXEMPLIFICANDO
 . ........................... ......................................... .........
 ................................ ....................................................
 
-: (SABESP) O resultado da expressão numérica (2 - 3)  (3 — 4)  (4 — 5)  (5 - 6)2 é igual a
+: (SABESP) O resultado da expressão numérica (2 - 3) (3 — 4) (4 — 5) (5 - 6)2 é igual a
 
 A) 4
 
@@ -1473,9 +1471,9 @@ Vamos resolver a questão que mostramos a pouco.
 Comentários:
 
 O primeiro passo é sempre olhar para o que está dentro do parênteses e efetuar as operações do que está dentro dele. No nosso caso, temos apenas subtrações, então é ela que faremos. Além disso, vamos chamar toda nossa expressão de E.
-E = (2 — 3)  (3 - 4)  (4 — 5)  (5 — 6)2
+E = (2 — 3) (3 - 4) (4 — 5) (5 — 6)2
 
-E = (-1)  (-1)  (-1)  (-1)2
+E = (-1) (-1) (-1) (-1)2
 
 Agora que resolvemos as operações dentro do parênteses e não há colchetes nem chaves,
 vamos considerar toda a expressão. Agora, primeiro resolvemos as potências ou raízes. Note que (-1)2 =(—1) * (-1) = 1-
@@ -1490,16 +1488,16 @@ Podemos reunir essas informações em uma tabela ilustrativa.
 
 +
 
-É por isso que (-1)2 = (-1)  (-1) = 1. É aquela famosa frase em ação: "menos com menos dá mais!".
+É por isso que (-1)2 = (-1) (-1) = 1. É aquela famosa frase em ação: "menos com menos dá mais!".
 Então guarde: A multiplicação/divisão de dois números negativos é um número positivo!!.
 
-E = (-1)  (-1)  (-1)  (-1)2
+E = (-1) (-1) (-1) (-1)2
 
-E = (—1)  (—1) * (—1)  1
+E = (—1) (—1) * (—1) 1
 
 í
 
-E = (-1)  1
+E = (-1) 1
 
 E = —1
 
@@ -1572,7 +1570,7 @@ I 2 + 4 + 6 + 8 + 10 + 12
 
 E =
 
-Vamos escrever o "56" como "14  4".
+Vamos escrever o "56" como "14 4".
 
 E =
 
@@ -1584,12 +1582,10 @@ Veja que simplificamos um pouco nossa vida.
 
 Gabarito: LETRA C.
 
-
-
 i (ELETROBRÁS/2016) A expressão numérica (0,2)2 + 3 * (7 — 4) + Q) -
 1013 supera a expressão
 
-= numérica Q) 2 + 3  (4 - 11) - 1013 + (0,2)2 em um número igual a
+= numérica Q) 2 + 3 (4 - 11) - 1013 + (0,2)2 em um número igual a
 
 A) 30
 Í B) 3/4
@@ -1605,7 +1601,7 @@ A) 30
 í
 /3\"2
 
-Ê Er = (0,2)2 + 3  (7 — 4) + -
+Ê Er = (0,2)2 + 3 (7 — 4) + -
 -1013
 
 :
@@ -1613,7 +1609,7 @@ A) 30
 
 /3\-2
 
-; E2 = - + 3  (4- 11) - 1013
+; E2 = - + 3 (4- 11) - 1013
 + (0,2)2
 
 \4/
@@ -1624,16 +1620,16 @@ AE = E± — E2
 
 /3\-2 Z/3\-2
 
-AE = (0,2)2 + 3  (7 — 4) + - -1013- - + 3  (4 - 11) - 1013
+AE = (0,2)2 + 3 (7 — 4) + - -1013- - + 3 (4 - 11) - 1013
 + (0,2)2
 
 \4/ \ \4/
 
-AE =J/xá2 + 3  (7 - 4)+j^|y - 1013-3-(4-ll) + ipi^-(0^/
+AE =J/xá2 + 3 (7 - 4)+j^|y - 1013-3-(4-ll) + ipi^-(0^/
 
-AE = 3  (7 — 4) — 3  (4 — 11)
+AE = 3 (7 — 4) — 3 (4 — 11)
 
-AE = 3  3 - 3  (-7)
+AE = 3 3 - 3 (-7)
 
 AE = 9 - (-21)
 
@@ -1751,7 +1747,7 @@ Colocar em evidência significa fazer o caminho inverso da propriedade distribut
 E = ab * (2 + 5c) + 7xy
 
 Observe que quando fazemos o "chuveirinho", vamos obter exatamente a expressão que tínhamos antes de colocar o "ab" em evidência.
-E = ab  (2 + 5c) + 7xy -> E = 2ab + Sabe + 7xy
+E = ab (2 + 5c) + 7xy -> E = 2ab + Sabe + 7xy
 
 0 0
 
@@ -1803,7 +1799,7 @@ E = — 9ax + 5bx — 15bx + 4x
 E = -9ax - 10bx + 4x
 
 - Por fim, note que "x" está presente em todos os termos algébricos. Logo, podemos colocá-lo em evidência.
-E = x  (—9a — 10Z? + 4)
+E = x (—9a — 10Z? + 4)
 
 Gabarito: LETRA B.
 
@@ -1916,17 +1912,14 @@ ZJ+3ÍZ
 
 = B) 3b+a
 
-
-
 3x+y i C) 2b+a í D)
-
 
 x+3y b+2a
 Comentários:
 
 Observe que, em um primeiro momento, não é trivial identificarmos o produto notável.
 Mas, se olharmos atentamente para o denominador, vamos encontrá-lo!
-b2 + 6ab + 9a2 b2 + 2 * b  (3a) + (3a)2
+b2 + 6ab + 9a2 b2 + 2 * b (3a) + (3a)2
 (h + 3a)2
 Observe que conseguimos escrever o denominador como um quadrado da soma!
 
@@ -2014,7 +2007,7 @@ Lembre-se que na teoria vimos que:
 
 (a + b + c)2 — (a2 + b2 + c2)
 
-(a + b + c)2 = a2 + b2 + c2 + 2  (ab + bc + ca)
+(a + b + c)2 = a2 + b2 + c2 + 2 (ab + bc + ca)
 
 Podemos usar esse resultado diretamente em "E":
 

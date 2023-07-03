@@ -1,4 +1,4 @@
-# Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Criacionais
+# Engenharia de Software e Sistemas - Padrões de Projeto - Criacionais
 
 Índice
 

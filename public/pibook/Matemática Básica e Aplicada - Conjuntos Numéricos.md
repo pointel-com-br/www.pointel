@@ -141,7 +141,7 @@ Item. 1. Ele possa ser representado em uma forma fracionária de números inteir
 
 1 3 10 1
 
-T = 1 : 2 = 1'5 : T = 5  iõ^'1 ; 3 - 166,66
+T = 1 : 2 = 1'5 : T = 5 iõ^'1 ; 3 - 166,66
 
 Todos os números acima são exemplos de números racionais.
 
@@ -167,8 +167,6 @@ HORA DE
 PRATICAR!
 
 r.
-
-
 
 : (CM MANDAGUARI/2019) Considerando os conjuntos numéricos, assinale a alternativa
 CORRETA:
@@ -287,7 +285,7 @@ Em que "a" e "b" são números reais e "i" é a chamada unidade imaginária.
 Calma! Veremos tudo isso com mais detalhes em uma aula específica do curso,
 caso seu edital tenha previsto. Nesse momento, quero que você guarde que todo número real é também um número complexo.Veja que quando "b" é igual a zero, temos:
 
-z = a + 0  i -> z = a
+z = a + 0 i -> z = a
 
 Ressalta-se que o inverso não é verdadeiro, ou seja, não é verdade que todo complexo é um real! Por exemplo, z = 2 + i é um número complexo, mas não é um real.
 - Um número complexo é um número "z" que possui a forma:
@@ -357,7 +355,7 @@ Comentários:
 I. A soma de dois números naturais pares é sempre um número par.
 
 Assertiva verdadeira. Sabemos que se e n₂ são dois números pares, então eles podem ser escritos na forma = 2p e n₂ = 2q. Seja s a soma dos dois, então:
-s = + n₂ -> s = 2p + 2q -> s = 2  (p + q)
+s = + n₂ -> s = 2p + 2q -> s = 2 (p + q)
 
 Perceba que s possui o fator 2 e, portanto, também é um número par.
 
@@ -645,7 +643,7 @@ No entanto, também podemos usar a seguinte identidade:
 
 Fazendo isso, ficamos com:
 
-n3 = 8/c3 + 3 * (2/c)2  1 + 3  (2/c) * l2 + l3
+n3 = 8/c3 + 3 * (2/c)2 1 + 3 (2/c) * l2 + l3
 
 n3 = 8/c3 + 12/c2 + 6/c + 1
 Reescrevendo de uma forma mais conveniente:
@@ -755,7 +753,7 @@ x2 = 24 + 2jl22 - (6A/3)2
 x2 = 24 + 2V144- 108
 x2 = 24 + 2V36
 
-x2 = 24 + 2  6 -> x2 = 24 + 12 -> x2 = 36 ->
+x2 = 24 + 2 6 -> x2 = 24 + 12 -> x2 = 36 ->
 x = ±V36
 
 x = ±6

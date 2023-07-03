@@ -150,10 +150,6 @@ b) primeiro quartil é 0,25.
 
 : c) média é 5.
 
-
-
-
-
 d) distribuição de probabilidades é uniforme.
 
 I
@@ -162,8 +158,6 @@ i e) distribuição de probabilidades é assimétrica.
 I
 
 ; Comentários:
-
-
 
 I
 
@@ -420,10 +414,6 @@ Tendo em vista que um j
 
 = a) de Bernoulli.
 
-
-
-
-
 b) hipergeométrica.
 i
 
@@ -437,8 +427,6 @@ I
 d) normal.
 ;
 
-
-
 I
 
 : e) qui-quadrado.
@@ -446,8 +434,6 @@ I
 i
 
 I
-
-
 
 i Comentários:
 
@@ -463,18 +449,10 @@ I
 
 ; Gabarito: A.
 
-
-
-
-
-
-
 I
 
 i (CESPE/2016 - TCE/PA) Se as variáveis aleatórias X e Y seguem distribuições de Bernoulli, tais que:
 P[X = 1] = P[Y = 0] = 0,9
-
-
 
 I
 
@@ -483,8 +461,6 @@ i
 
 I
 
-
-
 i Comentários:
 
 I
@@ -492,8 +468,6 @@ I
 I
 
 A questão indaga sobre a média (esperança) de Y.
-
-
 
 I
 
@@ -998,14 +972,8 @@ HORA»
 i (2019 - Universidade Federal do Acre) Seja X uma variável aleatória com distribuição binomial de i
 ; parâmetros n e p. Então, pode-se dizer que a variância de X é dado por.
 
-
-
-
-
 : a) n
 :
-
-
 
 I
 
@@ -1089,10 +1057,7 @@ p = 0,8 = 80%
 
 ; (FCC/2014 - Auditor Fiscal da SEFAZ/RJ) Sabe-se que:
 
-
-
 : I. X é uma variável aleatória com distribuição binomial com média 2p e variância (2p-2p2).
-
 
 : II. Y é uma variável aleatória com distribuição binomial com média 5p e variância (5p-5p2).I
 
@@ -1108,8 +1073,6 @@ c) 5/512
 d) 15/1.024
 
 e) 7/512
-
-
 
 i Comentários:
 
@@ -1156,8 +1119,6 @@ P2 = 1----------------- = ---------
 : 16 16
 
 : Extraindo a raiz de ambos os lados da equação, sabendo que p > 0, temos:
-
-
 
 : 1
 
@@ -1229,11 +1190,7 @@ d) 50
 
 í e) 100
 
-
-
 ; Comentários:
-
-
 
 i Segundo o enunciado, a média de uma distribuição binomial é igual a 20 e a variância é igual a 4:
 
@@ -1269,7 +1226,6 @@ B
 | P=1-'=1-5=5
 
 ; Sabendo que EQO = n x p = 20, podemos calcular o número n de ensaios:
-
 
 B
 
@@ -1566,8 +1522,6 @@ X e Y, em j que X = quantidade de decisões emitidas pelo tribunal até que ocor
 
 I
 
-
-
 : Espera-se que a primeira decisão desfavorável ao advogado ocorra somente depois de,
 pelo menos, quatro i decisões favoráveis a ele.i i Comentários:
 = Note que a questão pede o número de decisões favoráveis (fracasso) até a primeira decisão desfavorável ;
@@ -1599,8 +1553,6 @@ j
 /4 j
 
 = Ou seja, espera-se que haja 3 decisões favoráveis até a primeira decisão desfavorável.
-
-
 
 I
 
@@ -1975,8 +1927,6 @@ E
 
 i (FCC/2015 - TRT 3- Região - Adaptada) Julgue o item a seguir:
 
-
-
 A distribuição hipergeométrica é uma distribuição de probabilidade discreta que depende de 3
 parâmetros.
 
@@ -1996,7 +1946,6 @@ I= (FGV/2022 - TJDFT) A Vara Cível de determinada comarca realiza 200 audiênci
 : em 120 audiências o autor era assistido pela Defensoria Pública e, nas outras 80
 audiências restantes, o demandante esteve representado por advogado particular.
 
-
 : Sorteiam-se, aleatoriamente e sem reposição, 80 audiências desse último mês. O número mais provável de
 ; audiências em que atuam os defensores públicos é de:
 
@@ -2012,14 +1961,10 @@ e) 52
 
 j Comentários:
 
-
-
 : Nessa questão, a população de 200 audiências é segregada em assistência por
 Defensoria Pública (sucesso)
 
 = e por advogado particular (fracasso).
-
-
 
 : Considerando que uma amostra de 80 audiências é extraída sem reposição, concluímos que as extrações são i dependentes, o que caracteriza uma distribuição hipergeométrica.
 A média (ou esperança) dessa distribuição é dada por:
@@ -2041,8 +1986,6 @@ P ~ 2ÕÕ " °'6
 E(X) = 80 x 0,6 = 48
 
 j Gabarito: A
-
-
 
 ; (2013 - TRE/MG) Em uma população finita de tamanho N, onde existem k indivíduos com uma característica de interesse, ao se selecionar uma amostra aleatória de tamanho n sem reposição, o número de indivíduos
 ; com a característica na amostra (R) é uma variável aleatória com distribuição hipergeométrica. A
@@ -2078,8 +2021,6 @@ Sendo n = 10 o tamanho da amostra, então a esperança é:
 = n.p = 10x0,2 = 2
 
 Sabendo que a proporção de fracassos é q = 1 - p = 0,8, então a variância é:
-
-
 
 _ N — n 90 144
 
@@ -2311,18 +2252,12 @@ i (2011 - Transpetro) Uma distribuição discreta de probabilidade que fornece a
 
 I
 
-
-
 : a) geométrica j
-
 
 I
 
 b) hipergeométrica i
 = c) normal d) uniforme
-
-
-
 
 : e) de Poisson
 ;
@@ -2336,10 +2271,6 @@ i Comentários:
 A distribuição que se aproxima à distribuição binomial, para n muito grande, com parâmetro À, isto é, a taxa i
 = (ou frequência) de ocorrência é a distribuição de Poisson.
 ;
-
-
-
-
 
 i Gabarito: E
 
@@ -2356,8 +2287,6 @@ i (2019 - IDAM) Sobre a distribuição de Poisson P(X=k; À) que representa a di
 ;
 
 I
-
-
 
 i () P(X = k;X) = lim Binomial (X = k; N,p = -)
 i i ( ) A distribuição de Poisson é útil na modelagem de processos de natureza binomial onde o evento tem =
@@ -2552,7 +2481,6 @@ P(X = 0)
 
 ; (FGV/2022 - SEFAZ/AM) Suponha que o número de carros que chega a uma praça de pedágio siga uma distribuição Poisson, com uma média de 2 carros por minuto.
 
-
 A probabilidade de que, num intervalo de 2 minutos, passe no máximo um carro é aproximadamente igual a í [use e'4 = 0,0183]í a) 0,09
 
 b) 0,12
@@ -2563,11 +2491,7 @@ d) 0,20
 
 í e) 0,22
 
-
-
 ; Comentários:
-
-
 
 : O enunciado informa que a média é de 2 carros por minuto e pede a probabilidade associada a um tempo de 2 minutos. O primeiro passo é calcular a média de carros a cada 2 minutos:
 Tl 2
@@ -2658,15 +2582,9 @@ i
 
 P(X = 2 OU X = 3) = 0,225 + 0,225 = 0,45
 
-
-
-
-
 ; Gabarito: A.
 
 I
-
-
 
 ; (CESPE/2018 - TCE-PA/Auditor de Controle Externo) O número de acidentes de trabalho em determinada ;
 = obra pública no mês k segue uma distribuição de Poisson Wk com média igual a 1
@@ -2676,10 +2594,6 @@ acidente por mês. i
 W₂ i
 
 + ... + Wn.
-
-
-
-
 
 : O total de acidentes segue distribuição de Poisson com média igual a n.
 ;
@@ -2705,8 +2619,6 @@ E(W1 + W2 + + Wn~) = E(WJ + E(W2) + - + E(Wn~)
 
 =
 n vezes =
-
-
 
 Ê Gabarito: Certo.
 
@@ -2836,17 +2748,12 @@ i
 
 ; Comentários:
 
-
-
 : Sabendo que será retirada uma amostra aleatória, com reposição, de n = 10 peças e que a probabilidade de i defeito é p = 10%, então temos uma distribuição binomial (original).
 j Gabarito: Errado.
 
-
-
 I
 
 I
-
 
 : (FGV/2019 - DPE/RJ - Adaptada) Uma amostra (Xi, X₂,..., Xn) de tamanho n, onde cada uma das variáveis X, ;
 = é de Bernoulli, tipo 0 ou 1, todas com o mesmo parâmetro p, é extraída.
@@ -2878,8 +2785,6 @@ pela J-ésima vez, então a j
 = variável tem distribuição binomial negativa. Os parâmetros são o número de sucessos desejados (J)
 e a i
 
-
-
 I
 
 ; probabilidade de sucesso de cada elemento p.
@@ -2890,8 +2795,6 @@ I
 I
 
 Ê Resposta: Certo.
-
-
 
 I
 
@@ -3589,8 +3492,6 @@ o 1\12 1 1
 x 4/ - 1 x 1 x ^77 - ^77
 
 Logo, a probabilidade de Y ser inferior a 2 é:
-
-
 
 P(r < 2) = P(Y = 0) + P(Y = 1) =
 

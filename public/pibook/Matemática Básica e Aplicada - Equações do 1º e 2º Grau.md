@@ -46,8 +46,6 @@ A) 18 processos;
 = C) 12 processos;
 i
 
-
-
 I
 
 : D)8 processos;
@@ -138,7 +136,7 @@ Perceba que o "x" ainda não está isolado. Precisamos "passar" o 43 para o outr
 Observe agora que o "x" finalmente está isolado. No entanto, ele está com o sinal trocado. Podemos multiplicar os dois lados da equação por (-1) a fim de mudar esse sinal.
 -2x = -16
 
-(-1)  (—2x) = (-1)  (-16)
+(-1) (—2x) = (-1) (-16)
 
 2x = 16
 
@@ -191,7 +189,7 @@ O método mais simples para resolução de sistemas é o da substituição. Obse
 (3y) + y = 4 => 4y = 4 y = l
 
 Veja como descobrimos rápido o y! Agora, podemos substituí-lo em qualquer uma das equações e achar x:
-x = 3  1 => x = 3
+x = 3 1 => x = 3
 Esse foi um exemplo simples, vamos ver como pode vim na sua prova?
 
 X/ HORA DE
@@ -314,7 +312,7 @@ j
 = Temos duas equações e duas incógnitas. Para resolver esse sistema, podemos substituir (1) em (2):
 25(C — 3) = 20C => 25C — 75 = 20C => 5C = 75 => C = 15
 
-= Veja que temos 15 caixas. Dessa forma, ao substituir esse valor em (1), temos 20  15 = 300
+= Veja que temos 15 caixas. Dessa forma, ao substituir esse valor em (1), temos 20 15 = 300
 pastas.
 
 i Gabarito: LETRA A.
@@ -488,7 +486,7 @@ I
 
 I
 
-A=b2 — 4ac => A = (—25)2 — 4  2  (—13) => A = 625 + 104
+A=b2 — 4ac => A = (—25)2 — 4 2 (—13) => A = 625 + 104
 => A = 729
 
 i Cálculo das Raízes
@@ -499,11 +497,10 @@ i Cálculo das Raízes
 % = —;---------- => x =------------------ ——---------- => x =------------------ ------ =>
 = -- e x = 13
 
-La 2  2 4
+La 2 2 4
 
 = Agora que encontramos as raízes, vamos pegar a maior dela (x₂ = 13) e achar seu amigo quadrático. De j
 = acordo com o enunciado, amigos quadráticos são dois números tais que a soma dos algarismos do quadrado i i de um deles é igual ao outro e vice-versa.
-
 
 I
 
@@ -689,40 +686,40 @@ Forma de Representação Alternativa
 
 Como conversamos no início desse capítulo, a equação de segundo grau pode vim na forma de um produto.Por exemplo,
 
-O (x - 1)  (x + 1) = 0
+O (x - 1) (x + 1) = 0
 
-o x  (x - 5) = 0
+o x (x - 5) = 0
 
-o (x - 10)  (x + 7) = 0
+o (x - 10) (x + 7) = 0
 
-o x  (x - 1) = 0
+o x (x - 1) = 0
 
 Quando aplicamos a propriedade distributiva ou o famoso "chuveirinho", vamos chegar exatamente na mesma forma que estamos habituados.
-O (x - 1)  (x + 1) = 0 x2 - 1 = 0
+O (x - 1) (x + 1) = 0 x2 - 1 = 0
 
-o x  (x — 5) = 0 x2 — 5x = 0
+o x (x — 5) = 0 x2 — 5x = 0
 
-o (x - 10)  (x + 7) = 0 x2 - 3x - 70 = 0
+o (x - 10) (x + 7) = 0 x2 - 3x - 70 = 0
 
-o x  (x — 1) = 0 x2 — x = 0
+o x (x — 1) = 0 x2 — x = 0
 
 Dito isso, quero revelar para vocês que quando tivermos uma equação de segundo grau na forma de produto de dois termos, é muito mais fácil encontrar suas raízes. Moçada, se temos o produto de dois termos que está dando zero, então um dos dois deve ser zero!
-Na equação (x — 1)  (x + 1) = 0, use x = 1.
+Na equação (x — 1) (x + 1) = 0, use x = 1.
 
-(1 - 1)  (1 + 1) = 0  2 = 0
+(1 - 1) (1 + 1) = 0 2 = 0
 
 Observe que a equação foi satisfeita, indicando que x = 1 é uma raiz. Agora, faça x = —1
 
-(-1 - 1)  (-1 + 1) = (-2) -0 = 0
+(-1 - 1) (-1 + 1) = (-2) -0 = 0
 
 Logo, x = -1 é também uma raiz. Basta igualarmos cada um dos termos a zero para obter as raízes.
-Considere a próxima equação: x  (x — 5) = 0. Então,
+Considere a próxima equação: x (x — 5) = 0. Então,
 
 x = 0 ou x-5 = 0 -> x1 = 0ex2 = 5
 
-Considere que (x — 10)  (x + 7) = 0. Então,
+Considere que (x — 10) (x + 7) = 0. Então,
 
-Logo, as raízes de (x - 10)  (x + 7) = 0 são 10 e —7.
+Logo, as raízes de (x - 10) (x + 7) = 0 são 10 e —7.
 
 HORA DE
 
@@ -753,7 +750,7 @@ i Comentários:
 : 2x + 7 = 0=>x = ——
 => x = —3,5
 
-:  2
+: 2
 
 Analogamente,
 
@@ -775,7 +772,7 @@ b
 
 Xl + x2 = - -
 
-c e Xi  x2 = -
+c e Xi x2 = -
 a
 
 Isso mesmo, moçada! Soma e produto de raízes apenas em função dos coeficientes! Imagine que você quer resolver a equação x2 + 2x - 3 = 0. Essa equação tem coeficientes a = 1, b = 2ec = -3. Sendo assim, a soma de suas raízes é:
@@ -812,7 +809,7 @@ então podemos usá-la na
 
 = equação para determinar q.
 
-3x2 - 4x + q = 0 => 3  (-3)2 - 4  (-3) + q = 0 => 27 +
+3x2 - 4x + q = 0 => 3 (-3)2 - 4 (-3) + q = 0 => 27 +
 12 + q = 0 => q = -39
 
 = Logo, nossa equação possui a seguinte forma:
@@ -822,7 +819,7 @@ então podemos usá-la na
 = Para encontrar o produto das duas raízes, lembre-se que não precisamos encontrá-la,
 basta utilizarmos as i relações de Girard. Para o produto, temos que c 39
 : Xi ' X2 = - a => ' X2 = ——
-=> Xi  X2 = -13
+=> Xi X2 = -13
 
 í Gabarito: LETRA B
 
@@ -834,13 +831,13 @@ Os coeficientes dela são: a = 1, b = 2 e c = —3. Logo,
 
 * Cálculo do Discriminante
 
-A = b2 — 4ac -> A = 22 — 4  1  (-3) -> A = 4-12 -> A =16
+A = b2 — 4ac -> A = 22 — 4 1 (-3) -> A = 4-12 -> A =16
 
 * Cálculo das Raízes
 
 -&±VÃ -2 ± Vl6 -2 ±4
 
-% — Q 2a X — 2  1 X — 2
+% — Q 2a X — 2 1 X — 2
 
 -2-4 -6
 
@@ -856,7 +853,7 @@ Ok! Encontramos as duas raízes. Agora, vamos fazer a soma e o produto delas.
 
 + x₂ = —3 + 1 = —2
 
-%i  x₂ = (—3)  1 = —3
+%i x₂ = (—3) 1 = —3
 
 Observe que são os mesmos resultados que encontramos aplicando as relações de
 Girard! Pessoal, no momento, vou pedir para vocês confiarem nesse bilhete! Alguns de vocês podem estar curiosos sobre como chegar nessas relações. Afinal, de onde elas vieram?
@@ -895,7 +892,7 @@ M
 
 Ademais, o enunciado disse que a receita da venda de mil garrafas de cada um dos três tipos de vinho foi350 mil. Assim:
 
-Item. 1.000  O + 1.000 * M + 1.000  P = 350.000
+Item. 1.000 O + 1.000 * M + 1.000 P = 350.000
 
 Simplificando por 1.000,
 
@@ -919,7 +916,7 @@ P=2
 
 p = — P = 50
 
-M = 20 -> M = 2  100 -> M = 200
+M = 20 -> M = 2 100 -> M = 200
 
 Pronto! Temos todos os preços.
 
@@ -1099,7 +1096,7 @@ Observe ainda que 20% das deputadas equivale a 0, 2y. Além disso, 10% dos deput
 
 0,1% + 0,2y = 7 (2)
 
-.   . . í x + y = 50
+. . . í x + y = 50
 Temos um sistema de equações com duas incógnitas a ser resolvido: 1% + 0 2y — 7
 
 Vamos resolver pelo método da substituição. Como queremos o número de deputadas, vamos isolar o número de deputados na equação (1).
@@ -1107,7 +1104,7 @@ x = 50 — y
 
 Substituindo em (2):
 
-0,1  (50 - y) + 0,2y = 7
+0,1 (50 - y) + 0,2y = 7
 
 5 — 0,ly + 0,2y = 7
 
@@ -1335,22 +1332,22 @@ Comentários:
 Como não sabemos a quantidade de armas que José e Pedro estão responsáveis, vamos usar letras para representá-las. Imagine que Pedro está responsável pela manutenção de x armas e José, y.
 "Se Pedro fizer a manutenção das armas que estavam a seu encargo e de mais 50 que estavam a cargo deJosé, então Pedro fará a manutenção do dobro de armas que sobraram para José." Matematicamente,
 
-x + 50 = 2  (y - 50)
+x + 50 = 2 (y - 50)
 
 Observe que é o dobro das armas que sobraram para José. Ora, se José é responsável por y armas e Pedro fez manutenção em 50 delas, então sobraram y — 50 armas para José. Compreendido como obtivemos essa primeira equação? Precisamos de mais uma para montar um sistema. Vamos usar a informação subsequente do enunciado.
 "Se José fizer a manutenção das armas que estavam a seu encargo e de mais 60 que estavam a cargo dePedro, José fará a manutenção do triplo de armas que sobraram para Pedro."
 
-y + 60 = 3  (x — 60)
+y + 60 = 3 (x — 60)
 
 O raciocínio aqui é análogo ao que usamos na primeira equação. Vamos reorganizar as duas equações.
-x + 50 = 2  (y- 50) => x + 50 = 2y - 100 => x - 2y =-150
+x + 50 = 2 (y- 50) => x + 50 = 2y - 100 => x - 2y =-150
 (1)
-y + 60 = 3  (x - 60) => y + 60 = 3x - 180 => 3x - y = 240
+y + 60 = 3 (x - 60) => y + 60 = 3x - 180 => 3x - y = 240
 (2)
 
 Vamos isolar o x em (1) e substituir em (2):
 
-3  (2y — 150) — y = 240
+3 (2y — 150) — y = 240
 
 6y — 450 — y = 240
 
@@ -1360,7 +1357,7 @@ y = 138
 
 Encontramos o número de armas que José está responsável. Para encontrar a de Pedro,
 podemos pegar o valor que encontramos para y e substituir em (1), encontrando o x.
-x — 2  138 =-150 => x = -150 + 276 => x = 126
+x — 2 138 =-150 => x = -150 + 276 => x = 126
 
 Para encontrar o total de armas a cargo dos dois, basta somarmos as quantidades que cada um está responsável.
 x + y = 138 + 126 = 264
@@ -1377,7 +1374,7 @@ Comentários:
 Vamos dizer que o valor total da herança seja H. A parte da herança que foi destinada a Paulo e seus irmãos correspondia a 80% do total da herança, isto é, 0, SH. Essa parte foi dividida entre Paulo e seus irmãos, com
 5 4H
 
-Paulo recebendo — da parte destinada a eles. Logo, Paulo recebeu —  0, SH — —.
+Paulo recebendo — da parte destinada a eles. Logo, Paulo recebeu — 0, SH — —.
 
 32 r b
 32 ' 32
@@ -1533,7 +1530,7 @@ Substituindo (5) em (4)
 4c + 2c = 48 => 6c = 48 => c = 8
 
 Encontramos o número de veículos de carga! Assim, substituindo em (2), conseguimos encontrar o número de veículos de passeio:
-p = 3c => p = 3  8 => p = 24
+p = 3c => p = 3 8 => p = 24
 
 Há 24 veículos de passeio. Portanto, o enunciado está correto quando afirma que são mais de 20.
 Gabarito: CERTO.
@@ -1594,11 +1591,11 @@ x2 + ax + b = 0
 
 Para x = — 1:
 
-(— l)2 + a  (-1) + b = 0 -> b — a + 1 = 0 -> b = a — 1 (1)
+(— l)2 + a (-1) + b = 0 -> b — a + 1 = 0 -> b = a — 1 (1)
 
 Para x = —3:
 
-(—3)2 + a  (-3) + b = 0 9 — 3a + b = 0 (2)
+(—3)2 + a (-3) + b = 0 9 — 3a + b = 0 (2)
 
 Vamos usar (1) em (2).
 
@@ -1613,7 +1610,7 @@ Pronto, encontramos "a" e "b", agora podemos usar esses valores na segunda equa�
 
 O itemquer saber se a equação acima tem raízes reais. Para isso, basta olharmos o "delta".
 
-à = b2 — 4ac -> A = 32 - 4  1 * (-4) -> A = 9 + 16 ->
+à = b2 — 4ac -> A = 32 - 4 1 * (-4) -> A = 9 + 16 ->
 A =25
 
 Opa! Discriminante positivo! Quando isso acontece, vamos ter duas raízes reais distintas. Logo, item errado.
@@ -1637,7 +1634,7 @@ O enunciado descreve um problema e, a partir dele, devemos inferir como será a 
 inicialmente, podemos considerar que a arrecadação é:
 ArrÇx) = 80%
 
-No entanto, veja que não é só isso. Cada um dos inscritos se compromete a pagar mais 4 reais por CADAvaga não preenchida. Ora, se são 100 vagas e teve x inscrições, então temos (100 - x) vagas não preenchidas. Se são 4 reais por cada vaga não preenchida, então vamos ter que cada inscrito pagará 4(100 - x) pelas vagas não preenchidas. Com isso, os inscritos pagarão ao total 4  x  (100 - x). Devemos adicionar esse valor ao total arrecadado.
+No entanto, veja que não é só isso. Cada um dos inscritos se compromete a pagar mais 4 reais por CADAvaga não preenchida. Ora, se são 100 vagas e teve x inscrições, então temos (100 - x) vagas não preenchidas. Se são 4 reais por cada vaga não preenchida, então vamos ter que cada inscrito pagará 4(100 - x) pelas vagas não preenchidas. Com isso, os inscritos pagarão ao total 4 x (100 - x). Devemos adicionar esse valor ao total arrecadado.
 Xrr(x) = 80x + 4x(100 — x)
 Arr(x) = 80x + 400x - 4x2
 Arr(x) = —4x2 + 480x
@@ -1669,10 +1666,10 @@ enunciado diz que para cada real de aumento, ele deixa de vender dez unidades na
 * Seo proprietário aumentou F$ 1,00, então a quantidade de crepes vendidos nasemana diminui 10.
 * Seo proprietário aumentou F$ 2,00, então a quantidade de crepes vendidos nasemana diminui 20.
 * Seo proprietário aumentou F$ 5,00, então a quantidade de crepes vendidos nasemana diminui 50.
-* Seo proprietário aumentou F$ x, então a quantidade de crepes vendidos na semana diminui 10  x.
+* Seo proprietário aumentou F$ x, então a quantidade de crepes vendidos na semana diminui 10 x.
 Assim, o novo faturamento, contabilizando esse aumento, é dado por:
 
-Fczt(x) = (500 — 10%)  (20 + x)
+Fczt(x) = (500 — 10%) (20 + x)
 
 Aplicando a propriedade distributiva da multiplicação, chegamos ao seguinte faturamento médio:
 
@@ -1700,13 +1697,13 @@ b = -3K
 
 O delta (discriminante) é calculado por A = b2 — 4ac. Vamos substituir?
 
-A = (-3 KY - 4  (K - 2)  1
+A = (-3 KY - 4 (K - 2) 1
 A= 9K2 - 4K + 8
 
 Para que a equação tenha sempre raízes reais e distintas, devemos ter que 9K2 — 4K + 8 > 0.
 
 Observe que nossa condição gera uma inequação de segundo grau, e, para ela, devemos também encontrar o discriminante. Temos que: a = 9, b = — 4 e c = 8. O discriminante dessa nova expressão fica:
-A = b2 — 4ac => A = (—4)2 — 4  9  8 => A =-272
+A = b2 — 4ac => A = (—4)2 — 4 9 8 => A =-272
 
 Observe que o discriminante deu negativo, indicando que 9K2 — 4K + 8 não possui raízes reais. Uma consequência disso é que a expressão nunca mudará de sinal (uma vez que não cruza o eixo x). Na prática,teremos uma parábola que ocupará o primeiro e o segundo quadrante do plano cartesiano,
 nunca sendo negativa. Por esse motivo, a inequação 9K2 - 4K + 8 > 0 será sempre verdadeira qualquer que sejaK.
@@ -1723,12 +1720,12 @@ Comentários:
 
 Ora, temos duas raízes e queremos encontrar a equação de segundo grau correspondente!
 Aprendemos isso na teoria! Podemos escrever uma equação de segundo grau na forma:
-(x — xj  (x - x₂) = 0
+(x — xj (x - x₂) = 0
 As raízes do enunciado são xx = —2 e x2 = 3, logo,
 
-(x - (-2))  (x - 3) = 0
+(x - (-2)) (x - 3) = 0
 
-(x + 2)  (x - 3) = 0
+(x + 2) (x - 3) = 0
 
 Usando a propriedade distributiva da multiplicação:
 
@@ -1744,7 +1741,7 @@ Vamos usar esses valores na outra equação dada:
 
 .4(x + 3)2 + B(x + 3) + C = 0
 
-1  (x + 3)2 + (-1)  (x + 3) - 6 = 0
+1 (x + 3)2 + (-1) (x + 3) - 6 = 0
 
 (x + 3)2 - (x + 3) - 6 = 0
 
@@ -1755,7 +1752,7 @@ x2 + 5x = 0
 
 Show! Agora, calculando o discriminante:
 
-A=b2-4ac => A = 52 — 4  1  0 => A = 25
+A=b2-4ac => A = 52 — 4 1 0 => A = 25
 
 Na fórmula de Bhaskara, vamos ter que:
 
@@ -1768,7 +1765,7 @@ x = — ----------- => x =--------------- - ------ => Xi = — 5 e x
 
 Observe que é exatamente as raízes dadas no item. Portanto, o mesmo se encontra correto.
 
-Obs.: Existe um jeito mais rápido de resolver. Observe a equação x2 + 5x = 0. Se você colocar o x em evidência, temos que x  (x + 5) = 0. Escrito dessa forma, podemos igualar cada um dos termos a zero e ver qual a raiz.
+Obs.: Existe um jeito mais rápido de resolver. Observe a equação x2 + 5x = 0. Se você colocar o x em evidência, temos que x (x + 5) = 0. Escrito dessa forma, podemos igualar cada um dos termos a zero e ver qual a raiz.
 x = 0 e x + 5 = 0 -> x2 = 0ex1 = -5
 
 Gabarito: CERTO.
@@ -1925,12 +1922,12 @@ A = m2 — 4m
 
 I. Se m = 0, então o discriminante também será nulo A = 0. Dessa forma, afirmação correta.
 
-II. Se m = 4, então o discriminante será nulo A = 42 — 4  4 = 16 — 16 = 0. Dessa forma, afirmação correta.
+II. Se m = 4, então o discriminante será nulo A = 42 — 4 4 = 16 — 16 = 0. Dessa forma, afirmação correta.
 III. Para a equação não ter solução real, precisamos que:
 
 A < 0 => m2 — 4m < 0
 
-Se colocarmos o m em evidência, ficamos com m  (m - 4) < 0. Quando a expressão da esquerda vai ser negativa? Ora, quando os termos do produto apresentarem sinais distintos, isto é,
+Se colocarmos o m em evidência, ficamos com m (m - 4) < 0. Quando a expressão da esquerda vai ser negativa? Ora, quando os termos do produto apresentarem sinais distintos, isto é,
 m>0e(m- 4)<0 => m > 0 e m < 4
 ou m < 0 e (m — 4)>0 => m < 0 e m > 4 33
 Observe que o segundo resultado não serve, já que não existe número que é, ao mesmo tempo, menor do que zero e maior do que 4. Dessa forma, nem consideramos. Veja que a resposta final é exatamente a condição do item, portanto, o mesmo está correto.
@@ -1938,7 +1935,7 @@ IV. Dessa vez, queremos os intervalos de valores de m em que a equação possui 
 
 A > 0 => m2 — 4m > 0
 
-Quando colocamos o m em evidencia, ficamos com m  (m — 4) > 0. Pergunte-se: quando o produto de dois número vai ser um número positivo? Ora, quando eles tiverem o mesmo sinal! Ou os dois são positivos ou os dois são negativos. Assim,
+Quando colocamos o m em evidencia, ficamos com m (m — 4) > 0. Pergunte-se: quando o produto de dois número vai ser um número positivo? Ora, quando eles tiverem o mesmo sinal! Ou os dois são positivos ou os dois são negativos. Assim,
 m > 0 e (m — 4) > 0 => m > 0 e m > 4 => m > 4
 
 ou m < 0 e (m — 4)<0 => m < 0 e m < 4 => m < 0

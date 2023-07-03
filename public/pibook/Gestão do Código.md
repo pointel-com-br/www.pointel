@@ -1,4 +1,4 @@
-# Engenharia de Software - Gestão do Código
+# Gestão do Código
 
 A gestão do código é uma parte essencial da engenharia de software, envolvendo atividades relacionadas à organização, controle e colaboração no desenvolvimento do código-fonte de um software. É uma disciplina que visa facilitar o trabalho em equipe, garantir a qualidade do código e permitir a evolução e manutenção eficientes do software ao longo do tempo.
 

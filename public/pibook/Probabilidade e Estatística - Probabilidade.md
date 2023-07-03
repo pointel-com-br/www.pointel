@@ -116,7 +116,6 @@ I
 
 : a) Conjunto de todos os resultados possíveis do experimento j b) Tamanho total da amostra i
 
-
 I
 
 : c) Proporção entre o tamanho da amostra tomada e o tamanho total da população i
@@ -127,14 +126,10 @@ I
 d) Intervalono qualas probabilidades somadas ultrapassam 0,5
 i
 
-
-
 I
 
 : e) Somatória dos todos os possíveis resultados de um experimento i
 I
-
-
 
 i Comentários:
 
@@ -144,8 +139,6 @@ I
 
 : O Espaço Amostrai de um experimento é o conjunto de todos os seus resultados possíveis.
 i
-
-
 
 I
 
@@ -203,7 +196,6 @@ I
 : c) Se Q é um espaço amostrai do experimento, todo subconjunto A contido em Q será chamado de evento, i
 = 0 é o evento vazio, <|) o evento neutro. Se o evento w pertence a 0 o evento {oJ} é dito elementar.
 
-
 I
 
 d) Se 0 é um espaço de probabilidades do experimento, todo subconjunto A contido em
@@ -216,10 +208,6 @@ I
 
 i Comentários:
 
-
-
-
-
 i) Podemos denotar por 0 um Espaço Amostrai (não um espaço de probabilidades, como descrito nas i j alternativas "d" e "e");
 I
 
@@ -230,8 +218,6 @@ I
 i
 
 I
-
-
 
 ; iii) O evento igual ao Espaço Amostrai (Q) é dito certo (não vazio, como descrito na alternativa
 "c");
@@ -249,8 +235,6 @@ i
 
 = v) O evento com um único elemento, como é o caso de B = {(6, 6)} que vimos anteriormente, é dito j
 ; elementar.
-
-
 
 I
 
@@ -361,12 +345,8 @@ I
 
 = O enunciado informa que há 60 balas, logo, n(U) = 60.
 
-
-
 : As balas com recheio de chocolate são as balas de leite e as balas de frutas, ou seja, todas as balas exceto as i balas de café. Sabendo que há 15 balas de café, o número de balas com recheio de chocolate é:
 n(RC) = 60 - 15 = 45
-
-
 
 : Logo, a probabilidade desejada é:
 
@@ -375,8 +355,6 @@ i 4-5 _ 3
 ! P ~ 6Õ~ 4
 
 i Gabarito: B.
-
-
 
 i (FCC/2017 - Secretaria da Administração/BA) Uma sala de aula com 40 alunos fez uma pesquisa sobre a
 = ocorrência de dengue no contexto familiar. A pesquisa consistia em tabular, no universo de 120 pessoas, se
@@ -414,17 +392,11 @@ A probabilidade é a razão entre o número de casos favoráveis e o número de 
 
 I
 
-
-
 i casos favoráveis nÇD')
 : casos totais nÇU')
 
 = Os casos favoráveis correspondem às pessoas que tiveram dengue. A tabela mostra que o número de pessoas que tiveram dengue é:
 n(D) = 1 + 2 = 3
-
-
-
-
 
 = O enunciado informa que, no total, 120 pessoas participaram da pesquisa: n(U) = 120.
 i Assim, a probabilidade desejada é:
@@ -448,8 +420,6 @@ I
 A = {casais com pelo menos um filho com mais de 20 anos de idade};
 
 i B = {casais com pelo menos um filho com menos de 10 anos de idade};
-
-
 
 : C = {casais com pelo menos 4 filhos}.
 
@@ -493,11 +463,7 @@ j P = 35"°'286
 
 = Ou seja, é inferior a 0,3.
 
-
-
 i Gabarito: Errado.
-
-
 
 ; (FGV/2022-PC/RJ) Treze cadeiras numeradas consecutivamente de 1 a 13 formam uma fila. Quatro pessoas i devem sentar-se nelas e o número da cadeira em que cada uma deve se sentar será decidido por sorteio, i
 = Para as três primeiraspessoas foram sorteados os números 3, 8 e 11 e será feito osorteio para a últimaj
@@ -507,8 +473,6 @@ d) 7/10
 j e) 4/13
 
 I
-
-
 
 i Comentários:
 
@@ -523,9 +487,6 @@ e 11; e pede a ;
 ;
 
 A probabilidade é a razão entre o número de eventos favoráveis e o número total de eventos possíveis:
-
-
-
 
 : eventos favoráveis n(A)
 í
@@ -659,8 +620,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 ^Comentários:
 
-
-
 A probabilidade é a razão entre o número de casos favoráveis e o número de casos totais:
 
 I
@@ -721,8 +680,6 @@ i n(U) = A6i2 = 2)1 = —— =
 I 7 «
 
 Que é inferior a 30%.
-
-
 
 = Gabarito: Errado.
 
@@ -997,8 +954,6 @@ d) 40%
 
 í e) 50%
 
-
-
 i Comentários:
 
 A probabilidade de A OU B ocorrer corresponde à união desses eventos, dada por:
@@ -1030,22 +985,14 @@ i (CESPE/2018 - BNB) Um tabuleiro quadrado e quadriculado, semelhante a um tabul
 ; números, que indicam a posição do quadradinho no tabuleiro; o primeiro número corresponde ao número da linha, e o segundo corresponde ao número da coluna. Por exemplo, o cartão com os números 5,10
 = corresponde ao quadradinho posicionado na linha 5 e na coluna 10. Esses cartões estão em uma urna, da qual podem ser retirados aleatoriamente.
 
-
 A respeito desse tabuleiro e desses cartões, julgue o item a seguir.
-
-
 
 I A probabilidade de retirar dessa caixa, de maneira aleatória, um cartão correspondente a um quadrado
 ; pintado na cor amarela ou na cor verde é superior a 0,44.
 
-
-
 ; Comentários:
 
-
-
 A probabilidade de retirar um cartão da cor amarela ou na cor verde corresponde à probabilidade da união desses eventos.
-
 
 : Considerando que não há interseção entre esses eventos (não existem quadrados amarelos E verdes), então
 = a probabilidade da união é dada por:
@@ -1092,8 +1039,6 @@ i c) 5/6.
 d) 3/4.
 
 | e) 4/5.
-
-
 
 i Comentários:
 
@@ -1294,8 +1239,6 @@ i (FCC/2018 - SEPLAG de Recife/PE) Em um censo realizado em uma cidade em que s�
 
 ; I. 40% consomem X.
 
-
-
 i II. 40% consomem Y.
 ;
 
@@ -1315,15 +1258,11 @@ I
 
 I
 
-
-
 i VI. 10% consomem Y e Z.
 ;
 
 = VII. qualquer elemento da população consome pelo menos uma marca de sabonete.
 i
-
-
 
 I
 
@@ -1343,8 +1282,6 @@ I
 I
 
 ; Comentários:
-
-
 
 I
 
@@ -1427,10 +1364,6 @@ b) 45,66%
 d) 25,45%
 
 i Comentários:
-
-
-
-
 
 i A probabilidade do evento complementar é:
 i
@@ -1634,8 +1567,6 @@ i Comentários:
 
 I
 
-
-
 A probabilidade de que nem A nem B ocorra corresponde à interseção dos complementares, que, por sua i
 = vez, equivale ao complementar da união:
 j
@@ -1665,14 +1596,11 @@ P(TÜB) = 1 - P(A U B) = 100% - 40% = 60%
 
 Gabarito: D
 
-
-
 i (2019 - Fundação Santo André/SP) Considere: Num campeonato de futebol descobriu-se que dos 1000torcedores, 440 torciam para o time A, 320 torciam para o time B.
 
 I
 
 Ao escolher uma pessoa no estádio, ao acaso, assinale a alternativa correta quanto à probabilidade dessa
-
 
 : pessoa não torcer para nenhum desses times.
 a) 24%
@@ -1682,8 +1610,6 @@ b) 76%
 í c) 27%
 
 d) 32%
-
-
 
 i Comentários:
 
@@ -1698,8 +1624,6 @@ P(ÃOB) = PQTÜB) = 1 - P(A U B)
 
 A probabilidade de uma pessoa torcer para A é a razão entre o número de torcedores de A, que é n(A)
 = 440,
-
-
 
 : e o número total de torcedores, que é n(U) = 1000. Logo:
 
@@ -2246,8 +2170,6 @@ P(MR\M(f) =
 
 Perceba que a interseção entre as mulheres da família Russel e as pessoas que não são mulheres da famíliaGõdel, Mr n Mg, equivale exatamente às mulheres da família Russel, MR, logo:
 
-
-
 P(M«) _ n(A^)
 
 P(Mr|MG) =
@@ -2256,8 +2178,6 @@ P(Mr|MG) =
 ; a todos os familiares exceto as mulheres dessa família:
 
 n(M7) = n(U') = 5 + 7 + 6 + 54-5 = 28
-
-
 
 : Os casos favoráveis correspondem ao número de mulheres da família Russel:
 i n(MR) = n(A) = 5
@@ -2487,8 +2407,6 @@ E
 
 ; Gabarito: A
 
-
-
 i (VUNESP/2019 - Prefeitura de Campinas/SP) Ao operar em um turno de trabalho, uma linha de produção
 = se interrompe totalmente se uma máquina Ml falhar. Para diminuir o risco de interrupção, ligou-se ao i sistema uma máquina M2 programada para entrar imediatamente em funcionamento caso Ml falhe,
 Ii fazendo com que o sistema prossiga. A probabilidade de Ml falhar é de 1/20 e a probabilidade de M2 falhar
@@ -2501,8 +2419,6 @@ j c) 99%
 d) 90,25%
 
 ; e) 97,5%
-
-
 
 i Comentários:
 
@@ -2528,8 +2444,6 @@ P(7") = 1 - P(7) = 1 - 0,0025 = 0,9975 = 99,75%
 
 Gabarito: A.
 
-
-
 i (FGV/2018 - ALE/RO) Uma urna I contém inicialmente 4 bolas azuis e 6 bolas vermelhas; nessa ocasião, a
 ; urna II contém 5 bolas azuis e 4 bolas vermelhas, e a urna III, 2 azuis e 7 vermelhas. Uma bola é sorteada da
 ; urna I e colocada na urna II. Em seguida, uma bola é sorteada da urna II e colocada na urna III.
@@ -2543,8 +2457,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 d) 0,352
 
 ; e) 0,368
-
-
 
 i Comentários:
 
@@ -2668,16 +2580,12 @@ o funcionário i
 ; Pedro resolve o problema do cliente em duas de cada três vezes em que é solicitado, enquanto Marcos i
 = resolve em três de cada quatro chamadas.
 
-
-
 I
 
 A partir dessa situação hipotética, julgue o item seguinte, considerando que os funcionários sejam ;
 = suficientemente experientes para que a tentativa de resolução do problema de qualquer chamada não esteja ;
 = subordinada a tentativas anteriores.
 j
-
-
 
 I
 
@@ -2716,8 +2624,6 @@ i
 = Que é superior a 20%.
 j
 
-
-
 I
 
 i Gabarito: Errado.
@@ -2734,12 +2640,7 @@ i (CESPE/2019 - TJ/AM) Em um espaço de probabilidades, as probabilidades de oco
 = independentesA e B são,respectiva mente, P(A) = 0,3 e P(B) = 0,5.
 i i Nesse caso, P(AAB) =0,15.;
 
-
-
-
 i Comentários:
-
-
 
 I
 
@@ -3064,10 +2965,6 @@ I
 
 i Comentários:
 
-
-
-
-
 A questão trata da probabilidade total de B, dada por:
 
 P(B) = x P(Á) + P(B|Â) x P(Â)
@@ -3076,14 +2973,10 @@ P(B) = x P(Á) + P(B|Â) x P(Â)
 
 I
 
-
-
 Ademais, sabendo que P(Á) = 0,4, o seu complementar é:
 i
 
 PQ4) = 1 - PQ4) = 1 - 0,4 = 0,6
-
-
 
 I
 
@@ -3097,16 +2990,9 @@ P(B) = 0,1 x 0,4 + 0,3 x 0,6 = 0,04 + 0,18 = 0,22
 
 j Gabarito: Errado.
 
-
-
-
-
 I
 
-
 : (FGV/2019 - DPE/RJ) 10% das lâmpadas fabricadas pela empresa A queimam antes de 1000h de ;
-
-
 
 I
 
@@ -3132,10 +3018,6 @@ d) 0,96
 j e) 0,98
 
 i Comentários:
-
-
-
-
 
 A questão trabalha com o Teorema da Probabilidade Total, pois informa as probabilidades de durabilidade, i
 = condicionadas aos fabricantes, e pede a probabilidade de durabilidade, não condicionada.
@@ -3195,8 +3077,6 @@ b) 0,350
 d) 0,420
 
 í e) 0,250
-
-
 
 i Comentários:
 
@@ -3391,8 +3271,6 @@ respectivamente, 3%,
 
 ; 4% e 5%: P^lVi) = 0,03, PQ4|V₂~) = 0,04 e PQ4|V₃) = 0,05.
 
-
-
 : Substituindo esses valores na fórmula do Teorema de Bayes, temos:
 
 i z x 0,03 x 0,5
@@ -3468,8 +3346,6 @@ P(P|7lp) - Q 2 x Q ?5 + x x Q 25 - Q 15 + 0 25 - — - 37,5%
 ;
 
 I
-
-
 
 : Ou seja, a probabilidade de Carlos estar presente, sabendo que ele não aprendeu é inferior a 50%
 

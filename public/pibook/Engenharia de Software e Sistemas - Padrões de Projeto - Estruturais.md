@@ -1,4 +1,4 @@
-# Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Estruturais
+# Engenharia de Software e Sistemas - Padrões de Projeto - Estruturais
 
 Índice
 

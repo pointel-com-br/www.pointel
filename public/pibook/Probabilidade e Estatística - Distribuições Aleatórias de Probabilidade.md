@@ -107,8 +107,6 @@ A distribuição normal pode ter qualquer valor de média, inclusive negativa. P
 ; III está correta.
 j
 
-
-
 : Resposta: Todas corretas.
 
 Distribuição Normal Padrão
@@ -642,8 +640,6 @@ d) 94%
 
 í e) 99%
 
-
-
 i Comentários:
 
 = Essa questão exige o conhecimento da Regra Empírica. Vimos que o intervalo de Qu —
@@ -651,13 +647,9 @@ cr) até (/./ + cr)
 
 : concentra 68% da distribuição normal.
 
-
-
 i Gabarito: C
 
 ; (CESPE/2016 - Analista da FUNPRESP-JUD) A simetria de Z implica que P(Z > 2) = 1 - P(Z < -2).
-
-
 
 i Comentários:
 
@@ -668,8 +660,6 @@ P(Z > 2) = P(Z < -2)
 
 = Essa relação está ilustrada no gráfico abaixo.
 
-
-
 A relação descrita no enunciado iguala a probabilidade P(Z > 2) à probabilidade 1 - P(Z < —2). Esta i corresponde a toda a região indicada abaixo:
 I
 
@@ -679,8 +669,6 @@ P(Z > 2) ¥= 1 - P(Z < -2)
 
 = Logo, o item está errado.
 
-
-
 : Gabarito: Errado.
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
@@ -688,8 +676,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 I; (FGV/2022 - EPE) O salário médio dos funcionários de uma empresa é normalmente distribuído com média de R$ 2.500,00 e desvio padrão de R$ 1.500,00. A empresa divide os funcionários em 5classes, a saber: M,
 
 = N, O, P e Q, onde "M" é a classe com melhor salário e "Q" a classe com menor salário.
-
-
 
 : Se apenas 5% dos funcionários dessa empresa estão na classe "M", o menor valor do salário do funcionário
 = para ele pertencer à classe "M" é
@@ -704,8 +690,6 @@ b) 4170,00
 d) 5160,00
 
 ; e) 5350,00
-
-
 
 i Comentários:
 
@@ -734,8 +718,6 @@ x - 2500 = 1,64 x 1500 = 2460
 x = 4960
 
 Gabarito: C
-
-
 
 i (VUNESP/2014 - EMPLASA) O tempo de vida da população de um determinado país tem distribuição normal
 ; com a média igual a 68 anos e o desvio padrão igual a 11.
@@ -855,8 +837,6 @@ P(—0,4 <Z < 1,8) = P(Z < 1,8) - P(Z < -0,4)
 
 : P(Z < 1,8)
 
-
-
 : Pela tabela observamos que P(Z < 1,8) = 0,964. Além disso, temos P(Z
 < 0,4) = 0,655, logo, o seu i complementar é:
 = Pela simetria da normal padrão, temos:
@@ -864,9 +844,6 @@ P(—0,4 <Z < 1,8) = P(Z < 1,8) - P(Z < -0,4)
 P(Z < -0,4) = P(Z > 0,4) = 0,345
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
-
-
-
 
 = Inserindo esses valores na equação acima, temos:
 j

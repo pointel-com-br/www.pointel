@@ -166,19 +166,11 @@ I
 
 : Os valores das variáveis quantitativas discretas não podem ser contados, mas apenas mensurados.
 
-
-
-
-
 ; Comentários:
-
-
 
 I
 
 i Os valores das variáveis discretas podem ser contados, enquanto os valores das variáveis contínuas não i podem ser contados, apenas mensurados.j
-
-
 
 I
 
@@ -199,8 +191,6 @@ I
 () A contagem do número de alunos dentro de uma sala de aula só pode ser uma variável discreta, pois é j
 : um número inteiro racional e positivo.
 
-
-
 I
 
 : () A contagem da quilometragem de um corredor em uma pista circular é uma variável contínua, pois este i
@@ -220,8 +210,6 @@ c) V, F, V
 d) F, F, V
 j e) F, V, F
 
-
-
 : Comentários:
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
@@ -232,8 +220,6 @@ uma variável discreta, pois =I
 ; os alunos podem ser enumerados. O número de alunos é um número racional e positivo. Portanto, a ;
 ; afirmativa é verdadeira.
 
-
-
 I
 
 : Em relação ao segundo item, a distância percorrida por um corredor é uma variável contínua, pois pode i i assumir quaisquer valores reais, dentro de determinado intervalo, inclusive valores múltiplos de n, por se i tratar de uma circunferência. Portanto, a afirmativa é verdadeira.i
@@ -242,8 +228,6 @@ I
 i
 
 = Assim, a sequência correta é V, V, F.
-
-
 
 I
 
@@ -562,8 +546,6 @@ i
 
 P(Y2 = 2) = P(Yi = -2) = 1/2
 
-
-
 I
 
 jO que segueindefinidamente. Para um Ynqualquer, temos:
@@ -575,9 +557,6 @@ P(Yn = n) = P(Yn = -n) = 1/2
 = chamamos de x, mas 0 enunciado chamou de j), não são os mesmos. Portanto, as variáveis não são i
 ; identicamente distribuídas.
 j
-
-
-
 
 : Gabarito: Errado.
 
@@ -675,7 +654,7 @@ i=l
 Esse índice deixa claro que estamos somando para os diferentes valores de i, desde i = 1 até i = n,
 ou seja, para
 
-^1, ^2>  >
+^1, ^2> >
 
 Porém, nesta aula, daremos preferência à notação sem o índice, no intuito de simplificar a fórmula visualmente.
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
@@ -847,13 +826,9 @@ I
 
 A média de X é não negativa.
 
-
-
 i Comentários:
 
 A média da variável é a soma dos produtos dos resultados pelas respectivas probabilidades:
-
-
 
 j E(X) = \x.P(X = x)
 
@@ -868,8 +843,6 @@ Então, se os valores da
 I
 
 : Gabarito: Certo.
-
-
 
 i (CESPE/2015 - Telecomunicações Brasileiras S.A.) Considerando que Yi, Y₂, ..., Yn,
 ... sejam variáveis
@@ -896,8 +869,6 @@ E(Y2) = -2 x y2 + 2 x y2 = -1 + 1 = 0
 ; Ou seja, para um Yj qualquer, temos P(Yj = j) = P(Yj = -j) = 1/₂ e sua esperança é dada por:
 
 E(Yj) = -j x 1/₂ + j x y₂ = 0
-
-
 
 : Logo, a esperança é nula para qualquer j = 1, 2, ...
 
@@ -1134,8 +1105,6 @@ I
 
 i Comentários:
 
-
-
 I
 
 i Pelas propriedades da esperança, temos E(Y) = E(a + bx) = a +b.E(X). Como p = E(X), temos:
@@ -1151,8 +1120,6 @@ I
 
 I
 
-
-
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 I= (FGV/2017 - IBGE - Adaptada) Para o caso de variáveis aleatórias quaisquer, existem diversas propriedades =Ique se aplicam diretamente à esperança matemática. Dentre essas propriedades está:
@@ -1164,10 +1131,6 @@ b) E(X+a) = a
 ;
 
 í c) E(X±Y) = E(X) ± E(Y)
-
-
-
-
 
 d) E(a.X)= E(X), sendo a uma constante qualquer
 ;
@@ -1185,13 +1148,10 @@ Y forem independentes. ;
 
 I
 
-
 : Em relação à alternativa B, temos a seguinte propriedade da esperança:
 i
 
 E(X + a) = E(X) + a
-
-
 
 I
 
@@ -1219,7 +1179,6 @@ E(a.X) = a.E(X). Portanto, a j
 i
 
 I
-
 
 : Resposta: C.
 
@@ -1332,10 +1291,6 @@ I
 b) variância.
 ;
 
-
-
-
-
 : c) amplitude total.
 
 I
@@ -1352,8 +1307,6 @@ I
 : e) moda amostrai.
 
 I
-
-
 
 : Comentários:
 
@@ -1381,9 +1334,6 @@ total frequência relativa
 
 A moda da distribuição de N é igual a 4, pois esse valor representa a maior quantidade diária de incidentes i que pode ser registrada nessa penitenciária.;
 
-
-
-
 i Comentários:
 
 A moda é o valor com maior frequência relativa, que é igual a 0,5.
@@ -1399,7 +1349,6 @@ I
 j Gabarito: Errado.
 
 I
-
 
 ; (CESPE/2018 - Departamento de Polícia Federal)
 
@@ -1419,7 +1368,6 @@ determinado aeroporto do Brasil, e considerando os dados hipotéticos da tabela 
 
 I
 
-
 A moda da distribuição dos valores X registrados na amostra foi igual a 22 kg.
 
 i Comentários:
@@ -1433,7 +1381,6 @@ A moda de uma amostra é o valor obtido com maior frequência. No caso, foram ap
 i
 
 I
-
 
 : Gabarito: Certo
 
@@ -1574,17 +1521,12 @@ l«** IX
 
 A mediana de U é negativa.
 
-
-
-
-
 i Comentários:
 
 '
 R
 
 = De acordo com as propriedades da mediana que vimos, a mediana de U = — — 7 é dada por:
-
 
 , R
 Md(R')
@@ -1882,7 +1824,6 @@ F(-0,8) = P(X < -0,8) = P(X = -2) + P(X = -1) = 0,1 + 0,2 = 0,3
 
 I
 
-
 : (FGV/2015 - TJ/RO) A função distribuição de probabilidade acumulada da variável "número de anos de ;
 = experiência de magistrados" de um dado tribunal é dada por:
 
@@ -1901,8 +1842,6 @@ c) 0,48.
 d) 0,57.
 
 i e) 0,61.
-
-
 
 I
 
@@ -1935,8 +1874,6 @@ i Comentários:
 
 : O enunciado informa que há apenas três valores possíveis: X = 1, X = 2 ou X = 3.
 
-
-
 : Para conhecermos as probabilidades de cada valor, o enunciado informa os valores que a função de distribuição acumulada assume:
 F(l,17) = P(X < 1,17) = 0,15.
 
@@ -1944,13 +1881,9 @@ O único valor menor ou igual a 1,17 é o valor X = 1. Ou seja:
 
 P(X < 1,17) = P(X = 1) = 0,15
 
-
-
 j Assim, concluímos que:
 
 P(X = 1) = 0,15
-
-
 
 j * F(2,76) = P(X < 2,76) = 0,45.
 
@@ -1968,7 +1901,6 @@ E
 
 j Isso nos permite concluir que a alternativa C está correta, mas vejamos as demais alternativas.
 
-
 : Em relação à alternativa A, o valor de P(X > 1,79) pode ser calculado como:
 
 P(X > 1,79) = 1 - P(X < 1,79) = 1 - P(X = 1) = 1 - 0,15 = 0,85
@@ -1976,8 +1908,6 @@ P(X > 1,79) = 1 - P(X < 1,79) = 1 - P(X = 1) = 1 - 0,15 = 0,85
 = E o valor de P(X < 2,5) é:
 
 P(X < 2,5) = P(X = 1) + P(X = 2) = 0,15 + 0,30 = 0,45
-
-
 
 j Logo, a alternativa A está incorreta.
 
@@ -2000,8 +1930,6 @@ I
 
 A segunda parte está correta, mas a alternativa B está incorreta, porque a primeira parte é falsa.
 
-
-
 I
 
 : Em relação à alternativa D, o valor de P(X = 3) é:
@@ -2009,18 +1937,12 @@ i
 
 P(X = 3) = 1 - P(X = 1) - P(X = 2) = 1 - 0,15 - 0,30 = 0,55
 
-
-
-
-
 : E o valor da esperança é:
 i
 
 E(X) = 1x0,15 + 2x0,30 + 3x0,55 = 0,15 + 0,60 + 1,65 = 2,40
 
 A primeira parte está correta, mas a alternativa D está incorreta, porque a segunda parte é falsa.
-
-
 
 I
 
@@ -2030,8 +1952,6 @@ i
 P(l,44 < X < 3) = P(X = 2) = 0,30
 
 = E a moda de X (valor com maior probabilidade) é, de fato, Mo(X) = 3.
-
-
 
 I
 
@@ -2133,13 +2053,9 @@ Frequência relativa
 
 i Considerando os dados da tabela mostrada, que apresenta a distribuição populacional da quantidade diária de incidentes (N) em determinada penitenciária, julgue o item que se segue.
 
-
 : O segundo quartil da distribuição das quantidades diárias de incidentes registradas nessa penitenciária é igual a 2.
 
-
 ; Comentários:
-
-
 
 : A mediana é calculada a partir da função de distribuição acumulada, cuja tabela consta a seguir:
 
@@ -2188,8 +2104,6 @@ i c) 0,25
 d) -0,15
 
 í e) -0,50
-
-
 
 i Comentários:
 
@@ -2445,8 +2359,6 @@ Comentários:
 Vamos utilizar novamente a tabela de distribuição de probabilidade fornecida para calcular os valores de
 /x = E(X) = YiXi-PÇXi) e de F(X2) = Sí(%í)2.P(xí):
 
-
-
 X P(x) x.P(x) X2 x2.P(x)
 
 1 0,42 0,42 1 0,42
@@ -2547,8 +2459,6 @@ P(X) 0,1 0,1 0,3 0,3 0,1
 0,1
 (X)2.P(X) 0x0,1 =0 1x0,1 =0,1 4x0,3=1,2 9x0,3=2,7 16x0,1=1,6 25x0,1=2,5
 
-
-
 : Sabendo que E(X2) é a soma de Xj2.P(Xj), temos:
 
 F(X2) = 02 x 0,1 + l2 x 0,1 + 22 x 0,3 + 32 x 0,3 + 42 x 0,1 + 52 x 0,1
@@ -2562,8 +2472,6 @@ F(X2) = 0 + 0,1 + 1,2 + 2,7 + 1,6 + 2,5 = 8,1
 ; Gabarito: A
 
 V(X) = 8,1 - 6,25 = 1,85
-
-
 
 i (2019 - IF-PA) Uma variável aleatória discreta Z tem função de probabilidade dada por:
 
@@ -2584,8 +2492,6 @@ b) 3,00
 d) 4,64
 
 Í e) 2,84
-
-
 
 i Comentários:
 
@@ -2688,7 +2594,6 @@ k = 1 - 0,8 = 0,2
 = -0,4 - 0,1 + 0 + 0,1 + 0,4 = 0
 
 ; Agora, precisamos calcular os desvios de cada valor de x em relação à média (que será igual ao próprio valor da variável) e elevar cada desvio ao quadrado.
-
 
 : Em seguida, multiplicamos cada quadrado pela respectiva probabilidade e somamos todos os resultados:I
 
@@ -2817,8 +2722,6 @@ B
 I
 
 ; Comentários:
-
-
 
 I
 
@@ -3103,11 +3006,7 @@ i e) V(Y) = a2 + b2
 
 I
 
-
-
 i Comentários:
-
-
 
 I
 
@@ -3133,8 +3032,6 @@ i
 
 I
 
-
-
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 I= (FGV/2017 - IBGE - Adaptada) Para o caso de variáveis aleatórias quaisquer, existem diversas propriedades =Ique se aplicam diretamente à esperança matemática e ao momento central de segunda ordem. Dentre essas ;
@@ -3144,14 +3041,8 @@ a) Var(X) > E(X2)
 
 b) Var(X±Y) = Var(X) ± Var(Y)
 
-
-
-
-
 : c) DP(a) = 0, sendo a uma constante qualquer
 ;
-
-
 
 I
 
@@ -3159,22 +3050,16 @@ d) Var(a.X) = a.Var(X), sendo a uma constante positiva i
 : e) DP(a.X) = a.DP(X), sendo a uma constante qualquer
 ;
 
-
-
 I
 
 i Comentários:
 
 I
 
-
-
 : Em relação à alternativa A, podemos calcular a variância como:
 i
 
 Var(X) = E(X2) - [E(X)]2
-
-
 
 I
 
@@ -3183,14 +3068,9 @@ i
 
 Var(X)< E(X2)
 
-
-
-
 : Portanto, a alternativa A está incorreta. Em relação à alternativa B, se X e Y forem independentes, então i podemos afirmar que:i
 
 Var(X± Y) = Var(X) + Var(Y)
-
-
 
 I
 
@@ -3199,23 +3079,16 @@ i
 
 I
 
-
-
 i) Não pode considerar a propriedade aditiva da variância, Var(X ± Y) = Var(X) +
 Var(Y), pois o enunciado não ;
 
 : afirmou que X e Y são independentes.
 j
 
-
-
 I
 
 : ii) Ainda que X e Y fossem independentes, a variância da diferença de X e Y
 seria igual à soma das variâncias: i i Var(X - Y) = Var(X) + Var(Y)i
-
-
-
 
 : Em relação à alternativa C, sabemos que a variância e o desvio padrão de uma constante "a"
 qualquer são j iguais a zero.
@@ -3250,8 +3123,6 @@ I
 DP(a.X) = -a.DP(X)
 
 I
-
-
 
 i Portanto, temos equações distintas para constantes positivas e negativas, logo a alternativa E está incorreta, iI
 
@@ -3523,10 +3394,6 @@ i (2018 - UFRGS) A análise depermite estudar a relação entre dois conjuntos d
 
 = Assinale a alternativa que completa corretamente a lacuna do texto acima.
 
-
-
-
-
 i a) correlação i
 I
 
@@ -3535,27 +3402,17 @@ I
 b)dispersão i
 = c) classificação
 
-
-
 I
 
 d) agrupamento i
 I
 
-
-
 i e) regressão i
 ; Comentários:
-
-
 
 I
 
 : O conceito que estuda a relação entre duas variáveis, representando tanto a força dessa relação quanto o i seu sentido, é a correlação.i
-
-
-
-
 
 : Gabarito: A
 
@@ -3585,8 +3442,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 = e) É observada uma correlação negativa perfeita entre as variáveis..
 
-
-
 i Comentários:
 
 I
@@ -3604,12 +3459,8 @@ I
 
 ; I - Se r é o coeficiente de correlação linear entre duas variáveis, então -1 < r < 1.
 
-
-
 : II - Se duas variáveis X e Y apresentam correlação linear inversa, o coeficiente de correlação linear entre elas i será um número negativo menor do que -1.
 j Comentários:
-
-
 
 : Em relação à afirmação I, o coeficiente de correlação varia entre [-1,1]. Portanto, a afirmação I
 está correta.
@@ -3743,7 +3594,6 @@ i p(X, y) =---------- ------- - =
 = Como -0,98 é muito próximo de -1, há uma correlação forte e negativa.
 
 I
-
 
 i Gabarito: C
 
@@ -4039,8 +3889,6 @@ d) 10, 2 e -1.
 
 e) 2, 4 e -1.
 
-
-
 : Comentários:
 
 = Pelas propriedades da esperança, temos:
@@ -4179,10 +4027,6 @@ I
 
 d) A soma das variâncias de X e Y é igual ou menor do que as variâncias de X + Y.
 
-
-
-
-
 i e) A soma das variâncias de X e Y é estritamente maior do que a variância de X + Y.
 ;
 
@@ -4195,8 +4039,6 @@ i Comentários:
 A questão informa que a correlação linear entre X e Y é negativa.
 ;
 
-
-
 I
 
 : Em relação à alternativa A, como a covariância é negativa, então X e Y se relacionam em sentidos opostos, i
@@ -4204,21 +4046,13 @@ I
 
 : Portanto: alternativa A incorreta.
 
-
-
 I
 
 : Em relação à alternativa B, a soma dos valores esperados E(X) + E(Y) é igual ao valor esperado E(X+Y), para i
 = quaisquer variáveis Xe Y.
 
-
-
-
-
 : Portanto: alternativa B incorreta.
 i
-
-
 
 I
 
@@ -4231,15 +4065,11 @@ E(X.Y) = Cov(X,Y) + E(X).E(Y)
 
 I
 
-
-
 i Como a correlação entre X e Y é negativa, então Cov(X,Y) < 0. Dessa forma:
 i
 
 ; E(X.Y) <
 E(X).E(Y) ;
-
-
 
 I
 
@@ -4247,10 +4077,6 @@ I
 E(X.Y).
 
 = Portanto: alternativa C incorreta.
-
-
-
-
 
 : Em relação às alternativas D e E, a variância de X + Y é:
 
@@ -4262,8 +4088,6 @@ j V(X + Y) < V(X) +
 V(Y) j
 
 I
-
-
 
 : Ou seja, A soma das variâncias de V(X) + V(Y) é maior que a V(X + Y).
 ;
@@ -4386,16 +4210,12 @@ I
 
 d) o desvio-padrão de y é 50% de sua média.
 
-
-
 I
 
 : e) o desvio-padrão de y é 50% maior do que sua média.
 i
 
 I
-
-
 
 i Comentários:
 
@@ -4417,10 +4237,6 @@ i
 
 = Em relação à alternativa A, como o coeficiente de correlação é positivo, à medida que x cresce, em média, y i também cresce.i
 
-
-
-
-
 : Portanto, a alternativa A está incorreta.
 i
 
@@ -4437,8 +4253,6 @@ I
 : Portanto, a alternativa B está incorreta.
 i
 
-
-
 I
 
 : Em relação à alternativa C, podemos afirmar que o desvio padrão de X é 30% da sua média:
@@ -4453,9 +4267,6 @@ I
 
 = Portanto, a alternativa C está incorreta.
 =
-
-
-
 
 = Em relação às alternativas D e E, podemos afirmar que o desvio padrão de Y é 50% da sua média:
 

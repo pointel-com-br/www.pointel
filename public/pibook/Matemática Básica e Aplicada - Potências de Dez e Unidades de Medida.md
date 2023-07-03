@@ -856,8 +856,6 @@ A unidade básica de volume é o litro, representado por "I". A partir dessa uni
 
 * Decalitro (dal): ldal = 10 I.
 
-
-
 Os principais submúltiplos do litro são:
 
 * Decilitro (dl): ldl = 10_1l;

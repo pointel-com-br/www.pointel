@@ -512,9 +512,6 @@ i Restaram as alternativas B e E. Vamos testar a alternativa E.
 ; - Ao tentar dividir 689 por 13, encontramos resto 0. Logo, 689 não é primo, pois é divisível por
 13.
 
-
-
-
 : Por exclusão, a alternativa B é a correta, ou seja 683 é primo.
 
 : Para obter diretamente que o número 683 é primo, temos que dividir esse número pelos primos na ordem ;
@@ -1216,7 +1213,6 @@ d) 6.
 N)7.
 
 ; Comentários:
-
 
 24/l
 '
@@ -2128,7 +2124,7 @@ s i Considerando que dois álbuns de fotos, com x e y páginas, sejam montados c
 .i..n..ú..m...e.
 rozd..e...p..á..g..i.n..a..s..,..j.u...l.g..u..e...o..s...i.t..e.n..s...s..u...b..s..e..q..u..e.
 .n...t.e..s.......... .........................................
-.......................................  I
+....................................... I
 
 Item. 3. (CESPE/TRT 17/2013) Se x = 96 e y = 128, então z = 32.
 

@@ -157,7 +157,7 @@ Aqui acontece a mudança. Se a grandeza é inversamente proporcional, nós não 
 
 3 funcionários « » x
 
-4  45 = 3  x -> x = 60 minutos
+4 45 = 3 x -> x = 60 minutos
 
 Algumas pessoas, para continuar multiplicando cruzado, resolvem inverter os números.
 
@@ -191,15 +191,11 @@ i C) 5 horas.
 
 = E) 3 horas.
 
-
-
 ; Comentários:
 
 ; O primeiro passo é identificar as grandezas.
 
 : - Número de servidores;
-
-
 
 ; - Quantidade de salas de aula;
 
@@ -209,8 +205,6 @@ i - Tempo gasto para limpar.
 devemos avaliar quem é
 
 : diretamente ou inversamente proporcional ao tempo gasto para limpar.
-
-
 
 : Veja que quanto maior o número de servidores, menor será o tempo gasto para limpar. Assim, tempo e
 : número de servidores são inversamente proporcionais. Agora, quanto mais quantidades de salas de aula houver para limpar, maior vai ser o tempo gasto para essa tarefa. Com isso, temos que quantidade de salas
@@ -229,7 +223,7 @@ I= Depois, o enunciado põe uma outra situação. Ele diz que agora são 8 servi
 
 : 36). Quanto tempo (T) deve levar? Já sabemos que:
 
-i TS T  8 2
+i TS T 8 2
 
 \ -Q=k " ~36_ = 3 " T = ü
 " T = 3horas
@@ -354,7 +348,7 @@ Vamos lá! Perceba que 6 bois equivalem a 8 vacas, pois qualquer uma das quantid
 
 Vamos multiplicar cruzado.
 
-6x = 8  9 ->
+6x = 8 9 ->
 
 x = — x= 12
 
@@ -431,7 +425,7 @@ Portanto, observe que 0,72 horas equivale a 43,2 minutos. Dessa vez, temos 43 mi
 
 * ysegundos
 
-1  y = 60  0,2 -» y = 12 segundos
+1 y = 60 0,2 -» y = 12 segundos
 
 Assim, chegamos finalmente ao tempo trabalhado por Ivo!
 
@@ -453,7 +447,7 @@ Comentários:
 
 Perceba que como o número de trabalhadores não muda, podemos fazer uma regra de três simples envolvendo apenas a quantidade de navios e a quantidade de horas trabalhadas.
 8 horas ◄— —► 12 navios xhoras <---------------- ------► 18 navios
-12% = 8  18 -> x > x = 12 horas
+12% = 8 18 -> x > x = 12 horas
 
 Logo, não são necessárias mais de 13 horas para carregar os 18 navios.
 
@@ -466,7 +460,7 @@ Se a referida distância de São Paulo a Brasília for calculada em jardas, admi
 Comentários:
 
 Nessa questão devemos fazer uma conversão de unidades. Para realizar essa tarefa, uma regra de três simples é suficiente. Note que ele deu a seguinte equivalência: 1 jarda = 90 cm.Precisamos calcular quantas jardas são 1.100 km. Um primeiro passo para isso, seria converter a equivalência do enunciado em km.
-1 jarda = 90 cm = 0,9 m = 0,0009 km - 9  10-4 km
+1 jarda = 90 cm = 0,9 m = 0,0009 km - 9 10-4 km
 
 Feito esse pequeno ajuste, podemos ir para a regra de três.
 
@@ -478,11 +472,11 @@ xjardas <
 
 1100
 
-> 9  10 4 km
+> 9 10 4 km
 
 > 1100 km
 
-(9  10"4)  x = 1100-1 -
+(9 10"4) x = 1100-1 -
 
 910~4
 
@@ -541,7 +535,7 @@ x cm ◄ ► 100%
 
 Multiplicando cruzado.
 
-55%  x = 14  100% -> x = 55
+55% x = 14 100% -> x = 55
 
 1400
 
@@ -570,7 +564,7 @@ Apenas dois parâmetros estão mudando: a quantidade de tarefas e o tempo. Quand
 
 Observe que quanto maior o número de tarefas, maior será o número horas. Assim,
 estamos trabalhando com grandezas diretamente proporcionais e podemos multiplicar cruzado.
-5  x = 13  3 -> x = —
+5 x = 13 3 -> x = —
 
 x = 7,8 horas
 
@@ -617,7 +611,7 @@ x cisternas <
 
 Como quanto maior o número de cisternas, maior a porcentagem, podemos multiplicar cruzado.
 
-16  x = 800  100 ->
+16 x = 800 100 ->
 
 80.000
 
@@ -636,7 +630,7 @@ Dessa vez, precisaremos relacionar duas grandezas: a quantidade de dias e a quan
 60 cisternas ◄ ► 3 dias x cisternas ◄ ► 7 dias
 Quanto maior o número de cisternas, mais dias serão necessários para construí-las.
 Assim, estamos lidando com grandezas diretamente proporcionais. Podemos multiplicar cruzado.
-3  x = 60  7 -> 3x = 420 x = 140 cisternas
+3 x = 60 7 -> 3x = 420 x = 140 cisternas
 
 Veja que, nas condições do enunciado, serão construídas 140 cisternas. Logo, item errado.
 
@@ -756,7 +750,7 @@ Com isso, podemos concluir que são grandezas inversamente proporcionais.
 
 Macacos Frutas (kg) Tempo (dias)
 
-6  45 |-| 5 .
+6 45 |-| 5 .
 
 X 189 9
 
@@ -918,8 +912,6 @@ são duas grandezas diretamente proporcionais.
 Navios
 
 Operadores
-
-
 
 ▼ ▼
 
@@ -1118,8 +1110,6 @@ Item. 9. (CESPE/TELEBRÁS/2015) A equipe de atendentes de um serviço de telemar
 
 * Grupo III: 1 homem e 9 mulheres, que trabalham das 12 h às 18 h.
 
-
-
 A respeito dessa equipe, julgue o item que se segue.
 
 Considere que os 30 atendentes desse serviço de telemarketing sejam igualmente eficientes e atendam aItem. 1.800 ligações trabalhando, cada um deles, 6 horas por dia. Considere, ainda, que a empresa deseje contratar novos atendentes, tão eficientes quanto os que lá estão, para diminuir a jornada de trabalho para 5 horas,mas que a nova equipe — os 30 atendentes antigos e os novos contratados — passe a atender a 2.000ligações diariamente. Nesse caso, a nova equipe deverá ser composta por menos de 42 atendentes.
@@ -1281,7 +1271,7 @@ Propostas Qtd de Analistas Horas por Dia
 
 KW I^KKjl
 
-. 1 1.1.1\z!  \z
+. 1 1.1.1\z! \z
 
 * Quanto maior o número de propostas, mais horas por dia será preciso trabalhar. Assim, temos também grandezas diretamente proporcionais.
 Propostas Qtd de Analistas Horas por Dia
@@ -1336,7 +1326,7 @@ Com a tabela esquematizada, podemos escrever a equação.
 
 5 1 30 5 30
 
-- = —  — — = — -> x = 12 militares x 2 36 x 72
+- = — — — = — -> x = 12 militares x 2 36 x 72
 Note que o item fala em mais de 15 militares, mas encontramos que será preciso apenas 12 para atender as condições do enunciado. Logo, item errado.
 Gabarito: ERRADO.
 

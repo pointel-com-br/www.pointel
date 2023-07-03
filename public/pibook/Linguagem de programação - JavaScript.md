@@ -221,7 +221,7 @@ O JavaScript oferece várias formas de criar laços de repetição, permitindo q
    for (inicialização; condição; expressão final) {
        // código a ser executado
    }
-```
+   ```
 
 2. **for...in**: O laço `for...in` é usado para iterar sobre as propriedades de um objeto. Ele percorre todas as propriedades enumeráveis do objeto.
 

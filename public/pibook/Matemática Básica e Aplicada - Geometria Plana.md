@@ -147,9 +147,9 @@ Multiplicando cruzado.
 
 57T
 
-x - n = 180  — ->
+x - n = 180 — ->
 
-x = 30  5 -» x = 150°
+x = 30 5 -» x = 150°
 
 Logo, — rad equivalem a 150°.
 
@@ -182,7 +182,7 @@ Para treinar, moçada! Ora, se 180° equivalem a n rad, então xgraus equivalem 
 
 Multiplicando cruzado.
 
-3n x-7r = 180-— -> x = 18  3 -> x = 54°
+3n x-7r = 180-— -> x = 18 3 -> x = 54°
 Gabarito: LETRA B.
 
 Agora que sabemos o que é um ângulo e suas unidades, vamos entrar nas nomenclaturas e classificações.
@@ -460,8 +460,6 @@ Cada fatia corresponde a um setor de circunferência cujo ângulo é a oitava pa
 Se dividirmos a pizza em 9 pedaços, podemos encontrar o ângulo central de cada setor dividindo 360°
 por 9.
 
-
-
 Gabarito: LETRA A.
 
 360°
@@ -556,7 +554,7 @@ Item. 7.300 voltas * k x metros
 
 Podemos multiplicar cruzado.
 
-1  x = 7300  2,512 -> x = 18.337,6 metros
+1 x = 7300 2,512 -> x = 18.337,6 metros
 
 Lembre-se que 1 km é equivalente a 1.000 metros, assim:
 
@@ -579,7 +577,7 @@ a ◄ ► L
 
 Multiplicando cruzado.
 
-L = a  R
+L = a R
 
 Na minha opinião, a fórmula desse jeito é bem mais interessante. Veja que o comprimento do arco L é o produto do ângulo central (em radianos) pelo raio. Quando o ângulo central é igual 2n, note que a expressão vira a fórmula do comprimento da circunferência. Agora, vamos praticá-la?!
 HORA DE
@@ -611,7 +609,7 @@ Pessoal, veja que ele deu o ângulo em graus (120°) e o comprimento do arco (8T
 pergunta que ele faz é:
 qual é o raio? Ora, se ele deu o ângulo em graus, podemos usar a fórmula:
 
-L = 2"R  (d?)
+L = 2"R (d?)
 
 Do enunciado: a = 120° e L = 8n cm. Vamos encontrar R.
 
@@ -648,7 +646,7 @@ i - Comprimento da Circunferência (C)
 
 í C = 2nR C = 2-3,14-5
 -► C = 31,4 cm í i - Área (A)
-A = nR2 -> A = 3,14  52 -> A = 3,14 -25 -►
+A = nR2 -> A = 3,14 52 -> A = 3,14 -25 -►
 A = 78,5 cm
 
 ; Gabarito: LETRA B.
@@ -674,12 +672,12 @@ C 63 63
 C = ZnR R =— -> R = o , -> R = ——
 -> R = 10 metros
 
-; Zn 2  3,14
+; Zn 2 3,14
 6,28
 
 = Com o raio encontrado, podemos usar a fórmula da área:
 
-A = nR2 -> 4 = 3,14-IO2 -> A = 3,14  100 -> 4 =
+A = nR2 -> 4 = 3,14-IO2 -> A = 3,14 100 -> 4 =
 314ni2
 
 = Veja que a área que mais se aproxima do resultado é 315 m2, na letra B.
@@ -723,7 +721,7 @@ C 94,2 94,2
 
 C = 2nR -> R=— R = —— ->
 7? = 15 cm
-27T 2  3,14 6,28
+27T 2 3,14 6,28
 
 Agora que temos o raio, observe que a pizza foi dividida em três pedaços iguais.
 
@@ -798,7 +796,7 @@ Acoroa nRe
 
 = 48 — 27 -> Acoroa — 21 cm2
 
-^aco—ro8a  42 — 8  u u
+^aco—ro8a 42 — 8 u u
 
 Gabarito: LETRA E.
 
@@ -1530,9 +1528,9 @@ sen x = —-— sen x = 0,6
 Gabarito: LETRA C.
 
 Por sua vez, a lei dos cossenos vai relacionar os lados de um triângulo qualquer com o cosseno de um dos ângulos. Guarde com você o seguinte:
-a2 = b2 + c2 - 2bc  cosÂ
-b2 = a2 + c2 — 2ac  cos B
-c2 = a2 + b2 - 2ab  cos C
+a2 = b2 + c2 - 2bc cosÂ
+b2 = a2 + c2 — 2ac cos B
+c2 = a2 + b2 - 2ab cos C
 
 Observe o esquema abaixo para entender melhor as expressões.
 
@@ -1566,11 +1564,11 @@ j
 
 O enunciado pede o ângulo entre as direções nas quais o atirador disparou.
 Destaquei esse ângulo de amarelo na nossa imagem acima. Uma boa maneira de determinarmos esse ângulo, é encontrando o seu cosseno. Para isso, vamos utilizar a lei dos cossenos.
-2,652 = 22 + 32 — 2  2  3  cosÂ
+2,652 = 22 + 32 — 2 2 3 cosÂ
 
 7,0225 = 4 + 9 - 12 -cosÂ
 
-7,0225 - 13 = -12  cosÂ
+7,0225 - 13 = -12 cosÂ
 
 -6,0225 = -12 - cosÂ
 
@@ -1885,7 +1883,7 @@ Quadriláteros
 Nessa seção, mostrarei para vocês os quadriláteros mais conhecidos. Serei bem objetivo e quero que vocês deem especial atenção para as fórmulas de área. Combinado?!
 Retângulo
 
-ÁREA = a  b
+ÁREA = a b
 
 Características Principais:
 
@@ -1913,7 +1911,7 @@ Em um retângulo, a área é dada pelo produto do comprimento pela largura. Assi
 
 1,2
 
-x  0,8 = 1,2 -> x = — -> x = l,5m
+x 0,8 = 1,2 -> x = — -> x = l,5m
 
 0,0
 
@@ -1981,7 +1979,7 @@ Diferença = AUI — An ->
 
 Basta substituirmos o valor de "k".
 
-Dif = 5  38,4 -> Dif = 192 m2
+Dif = 5 38,4 -> Dif = 192 m2
 
 Gabarito: LETRA E.
 
@@ -2032,7 +2030,6 @@ Se a área do paralelogramo é um terço da do quadrado, fazemos:
 
 Ok! Temos a área, mas o enunciado pede o perímetro (que é a soma de todos os lados). Agora, veja o seguinte paralelogramo:
 
-
 : Na situação representada na figura, sabemos que a área dele é dada por A = bh.
 Compare o paralelogramo
 
@@ -2043,8 +2040,6 @@ Compare o paralelogramo
 —» b — b 2 CHI
 
 Ficamos com a seguinte situação:
-
-
 
 = No entanto, falta ainda descobrir o lado "diagonal". Para isso, veja o triângulo retângulo.
 
@@ -2125,7 +2120,7 @@ Trapézio
 
 ÁREA =
 
-(B + b)  h
+(B + b) h
 
 Características Principais:
 
@@ -2167,8 +2162,6 @@ enunciado deu de cara todas
 
 : as informações que precisamos.
 
-
-
 : - Base Maior (fí) = 26 cm;
 
 ; - Base Menor (ò) = 14 cm;
@@ -2188,9 +2181,9 @@ A = >
 
 Gabarito: LETRA B.
 
-40  10
+40 10
 
-A = —-— -> A = 40  5 -> A = 200 cm2
+A = —-— -> A = 40 5 -> A = 200 cm2
 
 I
 
@@ -2216,7 +2209,7 @@ E) 42 m.
 
 i
 
-: 20  x = 180 -> x = —— -> x = 9 metros
+: 20 x = 180 -> x = —— -> x = 9 metros
 :
 
 ; ZU
@@ -2259,16 +2252,16 @@ A soma dos ângulos externos de qualquer polígono convexo será sempre 360°.
 
 Ademais, a soma dos ângulos internos de um polígono de "n" lados é dada por:
 
-Si = (n - 2)  180°
+Si = (n - 2) 180°
 
 Por exemplo, no triângulo temos três lados e, portanto, n = 3. Usando isso na fórmula acima,
 
-Si = (3 - 2)  180° -> Si = 180°
+Si = (3 - 2) 180° -> Si = 180°
 
 Portanto, a soma dos ângulos internos de um triângulo é 180°, conforme vimos.
 Analogamente, para os quadriláteros convexos, temos n = 4.
 
-S = (4 - 2)  180° -> Si = 2  180° -> S; = 360°
+S = (4 - 2) 180° -> Si = 2 180° -> S; = 360°
 
 Assim, a soma dos ângulos internos nos quadriláteros convexos é 360°.
 
@@ -2278,8 +2271,6 @@ HORA DE
 PRATICAR!
 
 i (PREF. ARAÇATUBA/2019) Em um polígono convexo, a soma dos ângulos internos, em graus, é dada pela :
-
-
 
 í fórmula S = 180(n- 2), sendo n o número de lados do polígono. No polígono da figura, a incógnita x i
 = representa um valor em graus
@@ -2301,7 +2292,7 @@ Comentários:
 O primeiro passo do exercício é contarmos os lados do polígono. Isso mesmo, vamos lá!
 
 O polígono tem 7 lados! Podemos achar quanto vale a soma dos ângulos internos! Caso não lembrasse da fórmula, a questão foi boazinha e trouxe! Vamos aplicá-la.
-S = (n - 2)  180° -> S = (7 - 2)  180° -> S = 5  180°
+S = (n - 2) 180° -> S = (7 - 2) 180° -> S = 5 180°
 -> S = 900°
 
 Beleza! Quando somarmos todos esses ângulos destacados na imagem, devemos obter 900°.
@@ -2370,13 +2361,11 @@ D) 5.049.
 
 E) 5.100.
 
-
-
 i Comentários:
 
 i Pessoal, o número de diagonais de um polígono convexo de "n" lados é dado pela seguinte relação:
 
-n  (n - 3)
+n (n - 3)
 
 d = 2
 
@@ -2452,7 +2441,7 @@ A = tiR2
 
 Considerando A = 3200 km2 en = 3,14. Ficamos com:
 
-3,14  R2 = 3200 -> R2 = 1019,10 -> R = 31,92 km
+3,14 R2 = 3200 -> R2 = 1019,10 -> R = 31,92 km
 
 Note que o raio do círculo é inferior a menor distância entre cidades (31,92 km <
 35 km distância até Lagarto).
@@ -2591,7 +2580,7 @@ V2
 
 Com 0 lado encontrado, podemos calcular a sua área.
 
-Aq = a2 -> Aq = (4V2) -> Aq = 16  2 -> Aq = 32 cm2
+Aq = a2 -> Aq = (4V2) -> Aq = 16 2 -> Aq = 32 cm2
 
 Gabarito: LETRA D.
 
@@ -2610,7 +2599,7 @@ Vamos considerar n = 3,14.
 
 3 3
 
-^externa = ' (3,14)  2002 -> Aexterna = -  125600 -> Aexterna =
+^externa = ' (3,14) 2002 -> Aexterna = - 125600 -> Aexterna =
 94200 m2
 
 Como devemos considerar os 4 pontos, então basta multiplicar esse resultado por 4 para obter a área total.
@@ -2715,13 +2704,13 @@ Vamos desenhar o retângulo completo.
 Note que temos três regiões que são triângulos retângulos. Se pegarmos a área do retângulo e subtrair a área dessas regiões, vamos obter a área cinza. Assim,
 * Área do Retângulo: produto dos lados.
 
-= 4  6 -> Ar = 24 cm2
+= 4 6 -> Ar = 24 cm2
 
 * Área do Triângulo Retângulo: produto dos catetos dividido por 2.
 
 Aj —
 
-2  2
+2 2
 
 —>
 
@@ -2781,13 +2770,13 @@ Queremos determinar a área do retângulo, isto é, o produto dos seus lados. Pa
 Veja que quando somamos as áreas das regiões I, II e III, vamos obter a área total do triângulo maior.
 * Área do triângulo retângulo maior:
 
-12  5
+12 5
 
 2lr - 2 -> At = 30 cm²
 
 Área do triângulo retângulo 1:
 
-a (5 - x)  (2x) -> X; = x  (5 - x)
+a (5 - x) (2x) -> X; = x (5 - x)
 
 Al ~ 2
 
@@ -2795,15 +2784,15 @@ Al ~ 2
 
 (12 — 2%)x
 
-Al' ~ 2 -> An = x  (6 — x)
+Al' ~ 2 -> An = x (6 — x)
 
 Área do retângulo III:
 
-Ain = 2x  x -> Ain = 2x2
+Ain = 2x x -> Ain = 2x2
 
 Assim, sabendo que AT = A1 + An + AIIb podemos escrever que:
 
-x  (5 — %) + x  (6 - %) + 2x2 = 30
+x (5 — %) + x (6 - %) + 2x2 = 30
 5% — x2 + 6x — x2 + 2x2 = 30
 
 11% = 30
@@ -2881,11 +2870,11 @@ Note que a diferença entre as divisas é o dobro do comprimento c. Podemos dete
 
 Assim, a diferença entre as divisas é:
 
-d = 2  IOA/5 -> d = 20v/5 m
+d = 2 IOA/5 -> d = 20v/5 m
 
 A dificuldade nesse ponto é saber quanto vale V5. Afinal, precisamos de "d" com uma certa precisão,
 de modo a conseguir julgar se o valor é maior ou menor que 45 metros. Minha sugestão é: pergunte-se qual o número devo multiplicar 20 para dar 45. Ora, basta dividirmos 45 por 20 e vamos obter 2,25. Assim,
-20  2,25 = 45
+20 2,25 = 45
 
 A próxima pergunta é: V5 é maior ou menor do que 2,25? Se for menor, então d será menor do que 45.
 Se for maior, então d é maior do que 45. Tudo bem até aqui?! Para saber isso, basta fazermos 2,252.
@@ -3075,7 +3064,7 @@ h = 10.1 - h = 5 cm
 
 Com a altura, podemos encontrar a área multiplicando a base BC por h.
 
-A = BC  h A = 6 * 5 -> A = 30 cm2
+A = BC h A = 6 * 5 -> A = 30 cm2
 
 Gabarito: CERTO.
 
@@ -3136,7 +3125,7 @@ H 80 cm
 
 A área de um retângulo é o produto dos seus lados.
 
-A = 80  60 -> A = 4800 cm2
+A = 80 60 -> A = 4800 cm2
 
 Ele quer cortar outro retângulo com essa mesma área e com comprimento um quarto maior que 80 cm.
 Ora, um quarto de 80 cm é 20 cm. Assim, o comprimento do novo retângulo será 80 + 20 = 100 cm.
@@ -3238,13 +3227,13 @@ E) R$ 3.564.000.
 
 Comentários:
 
-Note que os terrenos são retângulos e, portanto, a área é dada pelo produto dos lados. Considere que o primeiro terreno tenha lados aeb. Assim, a  b = 600.
+Note que os terrenos são retângulos e, portanto, a área é dada pelo produto dos lados. Considere que o primeiro terreno tenha lados aeb. Assim, a b = 600.
 O segundo terreno tem um dos lados medindo 25% a mais do que o lado equivalente no primeiro terreno.Com isso, esse lado valeria 1,25a. Concorda? Analogamente, se o outro lado é 20%
 menor, então ele vale
 80% do lado equivalente no primeiro terreno. Assim, o segundo lado valeria 0,80b. A área do terreno é:
-A = (1,25a)  (0,8b) -> A = ab A = 600
+A = (1,25a) (0,8b) -> A = ab A = 600
 
-Veja que 1,25  0,8 = 1. Sendo assim, o segundo terreno tem a mesma área do primeiro e, portanto, deve possuir a mesmo valor. Com isso, seu preço também é de R$ 3.240.000.
+Veja que 1,25 0,8 = 1. Sendo assim, o segundo terreno tem a mesma área do primeiro e, portanto, deve possuir a mesmo valor. Com isso, seu preço também é de R$ 3.240.000.
 Gabarito: LETRA B.
 
 Item. 6. (CESPE/IFF/2018) Os lados de um terreno quadrado medem 100 m. Houve erro na escrituração, e ele foi registrado como se o comprimento do lado medisse 10% a menos que a medida correta. Nessa situação, deixou-se de registrar uma área do terreno igual a
@@ -3357,7 +3346,7 @@ Comentários:
 
 Questão que exige a aplicação direta da fórmula da área do trapézio. Lembre-se da teoria que:
 
-a (B + &)  h
+a (B + &) h
 
 A trapézio ~
 
@@ -3412,7 +3401,7 @@ Agora, vamos calcular quanto papel moeda é gasto para fabricar 10 notas antigas
 
 * 11 notas novas possuem uma área de:
 
-A11 = ll-Anova -> A1± = 11  83,2 -> A±1 = 915,2 cm2
+A11 = ll-Anova -> A1± = 11 83,2 -> A±1 = 915,2 cm2
 
 A área de papel necessária para produzir 11 notas novas é maior do que para produzir
 10 notas antigas.
@@ -3449,7 +3438,7 @@ Aseí0 = 40-30 -> Ase[0 = 1200 mm2
 ^estampa 3525 —* ^estampa 875 TUTU.
 
 Agora, para encontrar quanto 875 mm2 corresponde de 1200 mm2, basta dividir a primeira quantidade pela segunda e, depois, multiplicar por 100 (para dar em porcentagem).
-%A =  100
+%A = 100
 
 ^selo
 
@@ -3501,8 +3490,8 @@ Um jeito interessante de se calcular a área da região branca, é pegar todo o 
 As medidas em vermelho foram deduzidas. Na vertical, veja que se um lado inteiro tem comprimento igual a 10 metros, e já marcarmos uma parte com 6 metros e outra com 2, então só falta mais dois metros para completar os 10. O mesmo raciocínio usamos para determinar aqueles "4 m" na base.Tudo bem?! Agora,
 vamos calcular as áreas dos retângulos I e II.
 
-A, = 6  2 -> X; = 12 m2
-An = 4  2 -> An = 8 m2
+A, = 6 2 -> X; = 12 m2
+An = 4 2 -> An = 8 m2
 
 Pronto! Agora, basta subtrair essas áreas da área do quadrado e obteremos a área da região branca.
 
@@ -3510,7 +3499,7 @@ Abranca A — Aj Ajj Ajjranca 100 — 12 — 8 —>
 Ajjranca 80 772
 Se o preço do metro quadrado é R$ 120,00, então o terreno custa:
 
-^terreno = 120  80 -> P terreno ~ 9. 600, 00
+^terreno = 120 80 -> P terreno ~ 9. 600, 00
 
 Gabarito: LETRA D.
 
@@ -3548,12 +3537,12 @@ Etapa 1: Dentro do hexágono, desenhamos 6 mini hexágonos, cada um com lado igu
 hexágonos anteriormente e cada hexágono cabe mais 6 mini hexágonos, ficaremos então com 36 deles.
 
 * Etapa 3: Repetimos o processo. Tínhamos 36 mini hexágonos, desenharemos mais 6 em cada um deles.
-Ficaremos então com 36  6 = 216. O lado deles será um terço do de origem, assim, 1/27 cm.
+Ficaremos então com 36 6 = 216. O lado deles será um terço do de origem, assim, 1/27 cm.
 
-* Etapa 4: Dentro de cada um dos 216 mini hexágonos, desenharemos mais 6. Ficaremos com 216  6 =
+* Etapa 4: Dentro de cada um dos 216 mini hexágonos, desenharemos mais 6. Ficaremos com 216 6 =
 Item. 1296. O lado deles será 1/81 cm.
 
-* Etapa 5: Teremos 1296  6 = 71% mini hexágonos. 0 lado será igual a um terço de 1/81, isto é,
+* Etapa 5: Teremos 1296 6 = 71% mini hexágonos. 0 lado será igual a um terço de 1/81, isto é,
 1/243
 cm.
 
@@ -3581,7 +3570,7 @@ Observe que podemos utilizar o teorema de Pitágoras para determinar a altura h.
 -> h = 40v/3 cm
 
 Descobrimos a altura do triângulo. No entanto, a distância entre os lados paralelos é duas vezes esse valor.
-d = 2  h -> d = 2  40v/3 -> d = 80V3 cm
+d = 2 h -> d = 2 40v/3 -> d = 80V3 cm
 
 Pessoal, uma das poucas raízes que devemos lembrar o valor aproximado é a v/3. Guarde com você que:v/3 = 1,73
 

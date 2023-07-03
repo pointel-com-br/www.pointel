@@ -84,8 +84,6 @@ I
 
 b) variância.
 
-
-
 : c) amplitude total.
 
 d) mediana.
@@ -222,7 +220,6 @@ PRATICAR!
 
 i (CESPE/Pref. São Cristóvão/2018) A tabela seguinte mostra a distribuição das idades dos 30 alunos da
 
-
 : turma A do quinto ano de uma escola de ensino fundamental.
 
 Idade (em anos) 9 10 11 12 13
@@ -354,8 +351,6 @@ Frequência i
 85 H 95 2
 
 Total 20
-
-
 
 : Considerando a distribuição acima, assinale a alternativa que apresenta respectivamente os valores da =
 = média e da moda bruta:
@@ -731,8 +726,6 @@ Já temos as frequências acumuladas de todas as classes, então podemos determi
 Portanto, os seguintes dados serão empregados na fórmula do valor mediano:
 
 * limite inferior da classe é linf = 7;
-
-
 
 * frequência acumulada da classe anterior é faCant = 40;
 
@@ -2142,21 +2135,21 @@ Como origem ou destino das cargas
 
 Toneladas movimentadas (em milhões)
 
-EUA  132.7
+EUA 132.7
 
-Japão  34,5
+Japão 34,5
 
-China  23.0
+China 23.0
 
-Chile  15,5
+Chile 15,5
 
 Canadá 15,4
-Coréia do Sul  14,2
-México  11.5
+Coréia do Sul 14,2
+México 11.5
 
-Peru  10.3
+Peru 10.3
 
-Taiwan  10,0
+Taiwan 10,0
 
 Venezuela 19,9
 
@@ -2175,9 +2168,9 @@ Madeira e produtos de madeira
 
 Soja 1 284.3
 
-Minérios e metais  209,9
+Minérios e metais 209,9
 
-Petróleo e derivados  21,1
+Petróleo e derivados 21,1
 
 Papel e produtos de pape 11.8
 
@@ -3156,23 +3149,23 @@ Países que mais usam o Canal
 Como origem ou destino das cargas
 Toneladas movimentadas (em milhões)
 
-EUA  132.7
+EUA 132.7
 
 Japão 34.5
 
-China  23.0
+China 23.0
 
-Chile  15,5
+Chile 15,5
 
 Canadá 15,4
-Coréia do Sul  14,2
-México  11,5
+Coréia do Sul 14,2
+México 11,5
 
-Peru  10,3
+Peru 10,3
 
-Taiwan  10.0
+Taiwan 10.0
 
-Venezuela  9,9
+Venezuela 9,9
 
 Gráfico I Gráfico II
 

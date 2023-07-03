@@ -165,14 +165,10 @@ i b) as características da população sejam de fácil mensuração, mesmo com 
 = c) a população seja muito pequena e a amostra fique relativamente grande.
 ;
 
-
-
 d) a população seja muito pequena e suas características sejam totalmente desconhecidas.
 i i e) a população seja numerosa e com características bastante homogêneas.;
 
 ; Comentários:
-
-
 
 I
 
@@ -180,14 +176,8 @@ A amostragem não fornece uma informação exata, logo, quando houver necessidad
 = amostragem não é indicada. Portanto, a alternativa A está incorreta.
 i
 
-
-
-
-
 A amostragem é recomendada quando o censo for inviável ou extremamente custoso, logo não é necessária i quando a população é pequena ou quando a característica é de fácil mensuração. Logo, as alternativas B, C i
 = e D estão incorretas.
-
-
 
 I
 
@@ -204,21 +194,15 @@ I
 
 : Gabarito: E
 
-
-
 I
 
 i (2018 - Prefeitura de Raposa/MA) Dentro do contexto da Estatística, assinale a alternativa que preenche j
 = corretamente a lacuna do texto abaixo:
 
-
-
 I
 
 :é um valor aproximado do parâmetro e é calculado com o uso da amostra. i
 = a) Variável
-
-
 
 I
 
@@ -353,12 +337,9 @@ I
 
 i Comentários:
 
-
-
 I
 
 A não resposta é um exemplo de erro não amostrai, o qual pode ocorrer em qualquer tipo de amostragem. ;I
-
 
 : Resposta: Certo
 
@@ -446,13 +427,7 @@ I
 = o tipo de amostragem em que todos os elementos apresentam uma probabilidade conhecida (maior que i
 : zero) é a amostragem probabilística (ou estatística).
 
-
-
-
-
 : Resposta: ambas as afirmativas estão incorretas.
-
-
 
 I
 
@@ -466,10 +441,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 = b) fatorial e não fatorial.
 =
 
-
-
-
-
 = c) estatístico e aleatório.
 ;
 
@@ -480,16 +451,11 @@ I
 d)probabilístico e não probabilístico.
 i
 
-
-
 I
 
 i Comentários:
 
 = Os métodos de amostragem são classificados em probabilístico e não probabilístico.
-
-
-
 
 ; Gabarito: D.
 
@@ -578,10 +544,6 @@ r................................... . .........................................
 
 = Na realização de amostragem aleatória simples, as unidades amostrais são selecionadas com probabilidade i igual.:
 
-
-
-
-
 i Comentários:
 
 I
@@ -593,27 +555,17 @@ I
 
 i
 
-
-
 I
 
 : Resposta: Certo
 
 I
 
-
-
 ; (CESPE/2020 - TJ-PA) Muitos sorteios virtuais são realizados em uma plataforma que gera números de i
 = maneira aleatória, sendo cada número sorteado apenas uma vez com a mesma probabilidade. Essa técnica i
 = é denominada amostragem
 
-
-
-
-
 : a) estratificada.
-
-
 
 I
 
@@ -628,16 +580,12 @@ I
 
 i
 
-
-
 I
 
 d) aleatória simples sem repetição.
 i
 
 I
-
-
 
 i e) por conglomerados.
 i
@@ -648,30 +596,20 @@ I
 
 ; Comentários:
 
-
-
 I
 
 A técnica de amostragem em que todos os elementos apresentam a mesma probabilidade de serem ;
 = selecionados é a amostragem aleatória simples (AAS).
 ;
 
-
-
-
-
 : Como os elementos podem ser sorteados apenas uma vez, então os elementos selecionados não são i
 = repostos. Logo, temos uma amostragem sem reposição (ou repetição).
 
 ; Gabarito: D
 
-
-
 I
 
 I
-
-
 
 i (CESPE/2016 - TCE-PA) Suponha que o tribunal de contas de determinado estado disponha de 30 dias para i
 = analisar as contas de 800 contratos firmados pela administração. Considerando que essa análise é necessária ;
@@ -690,8 +628,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 = a 2.
 
 = Comentários:
-
-
 
 i O peso amostrai é o inverso da probabilidade um elemento ser incluído na amostra,
 dada pela razão entre o tamanho da amostra e o tamanho da população. Sabendo que a população possui N = 800contas e a amostra terá tamanho n = 400, a probabilidade de um elemento ser selecionado é:
@@ -713,8 +649,6 @@ Gabarito: Certo
 : A probabilidade "a priori" de seleção de um indivíduo numa AAS é diferente quando a amostra é sem ou com
 = reposição.
 
-
-
 i Comentários:
 
 A probabilidade de um elemento ser selecionado em qualquer extração de uma AAS com reposição é P = ^,
@@ -722,8 +656,6 @@ A probabilidade de um elemento ser selecionado em qualquer extração de uma AAS
 
 = Em uma AAS sem reposição, a probabilidade se altera a cada extração. Antes da primeira extração (a priori),
 ; a probabilidade de um elemento ser selecionado é também P± =
-
-
 
 : Logo, a probabilidade é a mesma.
 
@@ -738,8 +670,6 @@ d) 30
 
 j e) 21
 
-
-
 iIComentários:
 
 : Se a população consiste em N = 6 elementos e a amostra consiste em n = 2
@@ -750,8 +680,6 @@ elementos, então o número de
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 : ni = NxN = 6x6 = 36
-
-
 
 = E o número de amostras possíveis extraídas sem reposição é a combinação:
 í _ N!
@@ -770,8 +698,6 @@ i
 Hi - n₂ = 36 — 15 = 21
 
 i Como 21 é positivo, o módulo de 21 é ele mesmo: 1211 = 21.
-
-
 
 i Gabarito: E
 
@@ -841,10 +767,6 @@ i (FCC/2007 - ANS -Adaptada) Com relação à teoria geral da amostragem, julgue
 
 A amostragem sistemática é sempre menos precisa do que a amostragem aleatória simples.
 
-
-
-
-
 i Comentários:
 
 I
@@ -853,9 +775,6 @@ I
 
 A amostragem sistemática é uma técnica probabilística, assim como a amostragem aleatória simples. Ambas i
 ; são similares em termos de precisão.
-
-
-
 
 j Resposta: Errado.
 
@@ -869,14 +788,10 @@ i
 
 I
 
-
-
 A amostragem sistemática tem como fragilidade o fato de que apenas a seleção do primeiro indivíduo é ;
 ; probabilística.
 
 i
-
-
 
 I
 
@@ -887,9 +802,6 @@ I
 I
 
 A amostragem sistemática é totalmente probabilística, e não somente para a seleção do primeiro elemento, i
-
-
-
 
 : Resposta: Errado
 
@@ -907,8 +819,6 @@ i
 
 I
 
-
-
 i a) Não ser probabilística.
 i
 
@@ -919,19 +829,12 @@ I
 b) Exigir grandes tamanhos de amostragem.
 ;
 
-
-
 I
 
 : c) Podem ocorrer problemas se existir algum tipo de periodicidade oculta.
 i d) Alta complexidade.;
 
-
-
-
-
 : e) Erro elevado i
-
 
 I
 
@@ -949,8 +852,6 @@ i
 
 I
 
-
-
 : Ela também não é complexa e não apresenta erro elevado (alternativas D e E erradas).
 i
 
@@ -965,8 +866,6 @@ I
 
 I
 
-
-
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 I= (FGV/2022-TJDFT) Um Tribunal de Justiça deseja obter uma amostra de tamanho 3.000
@@ -978,13 +877,9 @@ sequencialmente, a um ;
 = e considerando o tamanho da amostra solicitada, o pesquisador utilizou o seguinte procedimento para a i
 = seleção da amostra:
 
-
-
 Item. 1. Determinou o intervalo de seleção da amostra dividindo o total da população pelo tamanho da amostra: ;60.000/3.000=20;
 
 = 2. Elegeu aleatoriamente um número inteiro, entre [1, 20]. Essa foi a primeira ação selecionada;
-
-
 
 I
 
@@ -998,8 +893,6 @@ acrescentando-se ao selecionado i
 = sucessivamente.
 ;
 
-
-
 I
 
 : O milésimo elemento selecionado nessa amostra foi a ação de número:
@@ -1012,13 +905,7 @@ d) 19.997;
 
 í e) 20.017.
 
-
-
 : Comentários:
-
-
-
-
 
 : O enunciado descreve a amostragem sistemática, em que primeiro calculamos a razão R
 entre o número de j
@@ -1147,8 +1034,6 @@ I«** IX
 
 I
 
-
-
 : Comentários:
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
@@ -1160,8 +1045,6 @@ I
 Amostragem estratificada consiste na divisão de uma população em grupos segundo alguma característica
 : conhecida. Os estratos da população devem ser mutuamente exclusivos.
 
-
-
 i Comentários:
 
 I
@@ -1171,26 +1054,18 @@ chamados estratos, sem
 
 = interseção entre eles (mutuamente exclusivos).
 
-
-
 Resposta: Certo
-
-
 
 ; (FCC/2015 - CNMP- Adaptada) Julgue a afirmação a seguir.
 
-
-
 : Na amostragem estratificada fica assegurado que cada extrato esteja representado na amostra global mas
 = não fica assegurado que todas as unidades de estudo tenham a mesma probabilidade de serem selecionadas.
-
 
 i Comentários:
 
 I
 
 : Na amostragem aleatória estratificada, cada extrato da população será representado na amostra, mas nem todos os elementos de toda a população possuem a mesma probabilidade de serem selecionados.
-
 
 Resposta: Certo
 
@@ -1221,8 +1096,6 @@ Homens P X N^omens 0,2 X 535 107
 ^Mulheres P X NMulheres X 750 150
 
 Gabarito: A
-
-
 
 i (CESPE/2020 - TJ-PA) Uma população é dividida nos estratos I, II e III. O estrato
 I é composto por 400
@@ -1382,7 +1255,7 @@ proporcional ou ótima)
 * As unidades amostrais são os conglomerados
 
 * Baixo custo, principalmente quando este aumenta com a distância
-Ã(Ã)i  |A  Ã(Ã)Ã||Ã  Ã(Ã)Ã(Ã)Ã i i
+Ã(Ã)i |A Ã(Ã)Ã||Ã Ã(Ã)Ã(Ã)Ã i i
 
 NA
 
@@ -1417,10 +1290,6 @@ I
 : (heterogêneos).
 j
 
-
-
-
-
 : Resposta: Certo
 
 I
@@ -1439,10 +1308,6 @@ I
 I
 
 ; Comentários:
-
-
-
-
 
 : Na amostragem por conglomerados, a população é dividida em subgrupos formados por elementos ;
 i heterogêneos, sendo os subgrupos homogêneos entre si, como ilustrado a seguir:
@@ -1464,10 +1329,6 @@ ffl ffl ffl ffl
 
 * * * *
 ffl ffl ffl ffl
-
-
-
-
 
 : As escolas podem ser consideradas conglomerados (os retângulos ilustrados acima), pois são homogêneas i
 = entre si, enquanto os alunos de cada escola são elementos heterogêneos (são de anos/idades distintos, por ;
@@ -1498,10 +1359,6 @@ I
 I
 
 ; Comentários:
-
-
-
-
 
 A amostragem por conglomerados tende a ser menos custosa, principalmente quando os custos da análise i
 ; aumentam com a distância entre os elementos selecionados.
@@ -1552,15 +1409,11 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 = c) uniforme, periodicidade, menor custo, maior custo e geométrica;
 
-
-
 d) hipergeométrica, cadastral, grupos homogêneos, grupos heterogêneos e geométrica;
 
 I
 
 : e) equiprováveis, periodicidade, grupos heterogêneos, grupos homogêneos e "por etapas".
-
-
 
 i Comentários:
 
@@ -1574,12 +1427,8 @@ a seleção é
 
 = periódica (periodicidade).
 
-
-
 Ê Na amostragem por estratos, os grupos são compostos de elementos homogêneos; e na amostragem por i conglomerados ou cluster, os grupos são compostos de elementos heterogêneos.
 : Na amostragem múltipla, as amostras são extraídas em etapas sequenciais.
-
-
 
 j Gabarito: A
 
@@ -1631,10 +1480,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 = c) é destituída de qualquer rigor estatístico.
 =
 
-
-
-
-
 d) é o procedimento básico de amostragem científica.
 ;
 
@@ -1644,8 +1489,6 @@ I
 
 : e) compara vários estratos de uma população.
 i
-
-
 
 I
 
@@ -1762,10 +1605,6 @@ i
 
 = a) praticidade, efeito de estratificação, arbitragem, para um subgrupo e indicações técnicas;
 
-
-
-
-
 b) proximidade, juízo de valor, para um subgrupo, avaliações em sequência e baixíssimo custo;
 
 I
@@ -1777,13 +1616,10 @@ I
 
 d) seleção endógena, para um subgrupo, indicações técnicas, efeito de estratificação e efeito cluster;
 
-
 I
 
 : e) proximidade, avaliações em sequência, baixíssimo custo, efeito de estratificação e longa duração.
 I
-
-
 
 i Comentários:
 
@@ -1792,8 +1628,6 @@ I
 I
 
 A amostragem por conveniência não segue critério específico, sendo utilizado por sua praticidade.
-
-
 
 I
 
@@ -1806,10 +1640,6 @@ I
 
 : Na amostragem por julgamento, o pesquisador seleciona a amostra com base em seu julgamento,
 arbítrio, j
-
-
-
-
 
 : Na amostragem por tipicidade, o pesquisador seleciona elementos que ele entende representar os ;
 = subgrupos da população.
@@ -1824,8 +1654,6 @@ I
 i
 
 I
-
-
 
 : Logo, a alternativa A está correta.
 i

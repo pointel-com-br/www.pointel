@@ -1,4 +1,4 @@
-# Engenharia de Software - Gestão do Código - Controle de Versão - merge
+# Gestão do Código - Controle de Versão - merge
 
 O merge é uma operação fundamental na gestão do código e no controle de versão. Refere-se à combinação de diferentes linhas de desenvolvimento, como ramificações, em uma única linha de código. O merge é usado para incorporar as alterações feitas em uma ramificação de volta à ramificação principal ou a outra ramificação relevante. Aqui estão algumas informações importantes sobre o merge no controle de versão:
 

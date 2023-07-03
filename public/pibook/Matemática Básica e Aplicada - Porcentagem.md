@@ -470,8 +470,6 @@ j = r + 0,5r j = 1, 5r
 
 r + j = 2.000
 
-
-
 Calculamos acima, o valor de j em função de r. Vamos substituir nesta equação e encontrar o valor investido por Rafael.
 r + j = 2.000
 
@@ -1412,7 +1410,7 @@ VARIAçÃo ACUMULADA
 Conforme estudamos acima, podemos calcular a variação percentual acumulada, após uma série de descontos/aumentos, arbitrando um valor de 100, por exemplo, para o valor inicial e assim calcular o valor final e, posteriormente, a variação percentual.
 Outra forma de se calcular (que na teoria é o mesmo "caminho") é pela seguinte expressão:
 
-(1 + íacumulada) —(1 i H) ^(1 + Í2) X(l + Í3)  * (1 i fji)
+(1 + íacumulada) —(1 i H) ^(1 + Í2) X(l + Í3) * (1 i fji)
 
 X
 /
@@ -1508,7 +1506,7 @@ A% = 100
 
 Variação Acumulada
 
-(1 + ^acumulada) =x (1 ± *l) x (1 ± í2) x (1 ± <3) x  x (1 ± *n)
+(1 + ^acumulada) =x (1 ± *l) x (1 ± í2) x (1 ± <3) x x (1 ± *n)
 
 \/
 
@@ -1799,8 +1797,6 @@ totalm+j = m + j
 totcilm+j — +
 
 MMC (3; 12) = 12
-
-
 
 totalm+j Q +12<
 

@@ -327,11 +327,7 @@ d) 0,16.
 
 e) 0,8464.
 
-
-
 ; Comentários:
-
-
 
 A probabilidade de o sinistro exceder 1,5 milhões P(X > 1,5) pode ser calculada como o complementar da
 = probabilidade de ele não exceder tal valor:
@@ -353,8 +349,6 @@ FM = !(i7^dx = f
 = 2XL-=2^
 
 F(x) = -(i+xr = -^4^
-
-
 
 : Agora, aplicamos os limites, com x > 0, conforme enunciado:
 
@@ -725,7 +719,6 @@ quando ela é falsa, dado por
 ; (FGV/2019 - DPE-RJ - Adaptada) A respeito da formulação, execução, decisão e critérios de avaliação de testes de hipóteses, julgue as afirmativas a seguir:
 ; I - Em testes bilaterais, envolvendo a distribuição normal, a função potência é estritamente monótona.
 
-
 : II - Um teste é uniformemente mais poderoso para dado nível de significância se esse nível minimiza a
 : probabilidade do erro do Tipo II para valores compatíveis com Ho.
 
@@ -962,8 +955,6 @@ jU
 
 Vn V4 Z
 
-
-
 i
 
 : Então, o valor de z para a média amostrai encontrada x = 485 (estatística do teste) é:
@@ -1075,7 +1066,6 @@ Segunda decimal de Zo
 cr
 
 : L = ^ + z.—
-
 
 Vn
 
@@ -1589,8 +1579,6 @@ I
 
 i * Valores observados: x = 20 e y = 17.
 
-
-
 I
 
 : Assim, as variâncias das médias amostrais são dadas por:
@@ -1775,7 +1763,6 @@ s
 
 I
 
-
 i Ou seja, precisamos do valor de z cuja função de distribuição acumulada é P(Z <
 zc) = 0,95. Pela tabela i fornecida na questão, observamos que o valor crítico é zc = 1,65, pois P(Z <1,65) = 0,95. Portanto, a i proporção amostrai máxima para que a hipótese nula não seja rejeitada é:
 L = p + zx<j^ = 0,04 + 1,65 x 0,002 = 0,04 + 0,0033 = 0,0433
@@ -1790,7 +1777,6 @@ Item. 10.000 parafusos, 1.000
 j - 10.000 _ 0,1
 
 : Por ser muito superior ao limite máximo da proporção amostrai aceitável, a hipótese nula deve ser rejeitada.
-
 
 Ê Gabarito: Certo.
 
@@ -1978,15 +1964,11 @@ Hipóteses realizados sobre i
 
 ; uma amostra que nos auxiliam a aceitar ou rejeitar uma hipótese estatística, julgue a afirmativa a seguir.
 
-
-
 : Se um teste de hipótese tiver valor-p associado igual a 0,02, podemos rejeitar a hipótese nula com nível de i
 ; significância a 5%, mas não a rejeitaríamos a um nível de significância de 0,1%.
 ;
 
 ; Comentários:
-
-
 
 I
 
@@ -1994,13 +1976,10 @@ A hipótese nula deve ser rejeitada se p-valor < nível de significância a.
 
 I
 
-
 i Sendo p-valor = 0,02 = 2%, então se a = 5%, teremos:
 
 ; p-valor < a
 ;
-
-
 
 I
 
@@ -2013,13 +1992,8 @@ I
 : E se a = 0,1%, teremos:
 j
 
-
-
-
 : p-valor > a
 ;
-
-
 
 I
 
@@ -2031,36 +2005,26 @@ I
 
 Ê Resposta: Certo.
 
-
-
 I
 
 I
-
 
 i (CESPE/2017-TCE/PE) Para avaliar se a proporção p de itens defeituosos enviados por um fornecedor estava i
 ; acima do valor pactuado de 0,025, um analista, a partir de uma amostra aleatória de itens enviada por esse i j fornecedor, testou a hipótese nula H₀-.p < 0,025 contra a hipótese alternativa H^.p > 0,025, utilizando i i nível de significância a = 1%.
 
-
-
 A respeito dessa situação hipotética, julgue o seguinte item.
 ;
-
-
 
 I
 
 j Caso o P-valor do teste efetuado pelo analista seja igual a 0,005, é correto concluir que a afirmação proposta i
 = na hipótese nula seja verdadeira.
 
-
-
 I
 
 i Comentários:
 
 I
-
 
 j Para sabermos se devemos rejeitar ou não a hipótese nula, devemos comparar o p-valor e o nível de i
 = significância a.
@@ -2082,8 +2046,6 @@ I
 I
 
 : Portanto, devemos rejeitar a hipótese nula, isto é, concluir que ela é falsa.
-
-
 
 I
 

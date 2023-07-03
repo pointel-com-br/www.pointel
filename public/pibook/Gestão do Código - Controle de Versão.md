@@ -1,4 +1,4 @@
-# Engenharia de Software - Gestão do Código - Controle de Versão
+# Gestão do Código - Controle de Versão
 
 A gestão do código e o controle de versão são aspectos fundamentais da engenharia de software. O controle de versão é o processo de acompanhar e gerenciar as alterações feitas no código-fonte e em outros artefatos do software ao longo do tempo. Ele permite que os desenvolvedores colaborem de forma eficiente, acompanhem o histórico de alterações, revertam para versões anteriores e gerenciem ramificações de desenvolvimento. O controle de versão é frequentemente realizado usando sistemas de controle de versão, como Git, SVN (Subversion) e Mercurial. Aqui estão alguns conceitos e práticas relacionados à gestão do código e controle de versão:
 
