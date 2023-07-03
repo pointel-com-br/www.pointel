@@ -94,21 +94,37 @@ def adjust_marked_broken_lines(text):
     print('Ajustando marcado - linhas quebradas...')
     i = 0
     result = []
+    last_line = ""
+    inside_block = False
     while i < len(text):
         line = text[i]
         test = line.strip()
-        if test != "":
-            if test[-1].islower():
-                j = i + 1
-                while j < len(text):
-                    test_next = text[j].strip()
-                    if test_next != "":
-                        if test_next[0].islower():
-                            diff = (j - 1) - i
-                            i += diff
-                        break
-                    j += 1
-        result.append(line)
+        if test.startswith("```"):
+            inside_block = not inside_block
+        if inside_block:
+            result.append(line)
+            last_line = ""
+        else:
+            if test != "":
+                if test[-1].islower():
+                    j = i + 1
+                    while j < len(text):
+                        test_next = text[j].strip()
+                        if test_next != "":
+                            if test_next[0].islower():
+                                diff = (j - 1) - i
+                                i += diff
+                            break
+                        j += 1
+            append = True
+            if last_line and test:
+                if last_line[-1].islower() and test[0].islower():
+                    append = False
+            if append:
+                result.append(test)
+            else:
+                result[-1] = result[-1] + " " + test
+            last_line = test
         i += 1
     return result
 

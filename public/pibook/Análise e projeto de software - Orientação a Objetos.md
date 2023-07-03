@@ -1,14 +1,14 @@
-Capítulo. Desenvolvimento de Software - Orientação a Objetos.
+# Desenvolvimento de Software - Orientação a Objetos
 
 A orientação a objetos é um paradigma de programação que organiza o código em torno de objetos, que são instâncias de classes. Ela se baseia em quatro princípios fundamentais: encapsulamento, herança, polimorfismo e abstração.
 
-Item. 1. Encapsulamento: É o princípio que define a restrição de acesso direto aos dados de um objeto e a necessidade de utilizar métodos (funções) para manipulá-los. Isso significa que os dados internos de um objeto são protegidos e só podem ser acessados ou modificados através de métodos específicos. O encapsulamento ajuda a garantir a integridade dos dados e evita a dependência direta entre diferentes partes do código.
+1. Encapsulamento: É o princípio que define a restrição de acesso direto aos dados de um objeto e a necessidade de utilizar métodos (funções) para manipulá-los. Isso significa que os dados internos de um objeto são protegidos e só podem ser acessados ou modificados através de métodos específicos. O encapsulamento ajuda a garantir a integridade dos dados e evita a dependência direta entre diferentes partes do código.
 
-Item. 2. Herança: É um mecanismo que permite que uma classe herde características (atributos e métodos) de outra classe, estabelecendo uma relação de especialização. A classe que herda é chamada de classe derivada ou subclasse, e a classe que é herdada é chamada de classe base ou superclasse. A herança permite reutilizar o código existente, promovendo a modularidade e a extensibilidade do sistema.
+2. Herança: É um mecanismo que permite que uma classe herde características (atributos e métodos) de outra classe, estabelecendo uma relação de especialização. A classe que herda é chamada de classe derivada ou subclasse, e a classe que é herdada é chamada de classe base ou superclasse. A herança permite reutilizar o código existente, promovendo a modularidade e a extensibilidade do sistema.
 
-Item. 3. Polimorfismo: É a capacidade de um objeto se comportar de diferentes formas, dependendo do contexto em que é utilizado. O polimorfismo permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma interface comum. Isso facilita a substituição de objetos em tempo de execução e possibilita o desenvolvimento de código mais flexível e extensível.
+3. Polimorfismo: É a capacidade de um objeto se comportar de diferentes formas, dependendo do contexto em que é utilizado. O polimorfismo permite que objetos de diferentes classes sejam tratados de maneira uniforme através de uma interface comum. Isso facilita a substituição de objetos em tempo de execução e possibilita o desenvolvimento de código mais flexível e extensível.
 
-Item. 4. Abstração: É o processo de identificar as características essenciais de um objeto ou conceito e modelá-las em uma classe. A abstração permite simplificar a complexidade do sistema, concentrando-se apenas nos aspectos relevantes e ocultando detalhes desnecessários. As classes abstratas fornecem uma base para a criação de objetos concretos.
+4. Abstração: É o processo de identificar as características essenciais de um objeto ou conceito e modelá-las em uma classe. A abstração permite simplificar a complexidade do sistema, concentrando-se apenas nos aspectos relevantes e ocultando detalhes desnecessários. As classes abstratas fornecem uma base para a criação de objetos concretos.
 
 A orientação a objetos oferece vários benefícios no desenvolvimento de software, incluindo:
 
@@ -28,11 +28,11 @@ A Orientação a Objetos tem alguns pilares que devem ser implementados em qualq
 
 1 Classe
 
-Item. 1.1 Objetos
+1.1 Objetos
 
-Item. 1.2 Atributos
+1.2 Atributos
 
-Item. 1.3 Métodos
+1.3 Métodos
 
 2 Interface
 

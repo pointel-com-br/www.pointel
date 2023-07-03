@@ -1,623 +1,615 @@
 # Índice do Analista de Tecnologia
 
-Classe. Conhecimentos Básicos.
+## Conhecimentos Básicos
 
-# Língua Portuguesa.
+### Língua Portuguesa
 
-Item. Compreensão e interpretação de textos de gêneros variados.
+- Compreensão e interpretação de textos de gêneros variados.
 
-Item. Reconhecimento de tipos e gêneros textuais.
+- Reconhecimento de tipos e gêneros textuais.
 
-Item. Domínio da ortografia oficial.
+- Domínio da ortografia oficial.
 
-Item. Domínio dos mecanismos de coesão textual.
+- Domínio dos mecanismos de coesão textual.
 
-Item. Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual.
+- Emprego de elementos de referenciação, substituição e repetição, de conectores e de outros elementos de sequenciação textual.
 
-Item. Emprego de tempos e modos verbais.
+- Emprego de tempos e modos verbais.
 
-Item. Domínio da estrutura morfossintática do período.
+- Domínio da estrutura morfossintática do período.
 
-Item. Emprego das classes de palavras.
+- Emprego das classes de palavras.
 
-Item. Relações de coordenação entre orações e entre termos da oração.
+- Relações de coordenação entre orações e entre termos da oração.
 
-Item. Relações de subordinação entre orações e entre termos da oração.
+- Relações de subordinação entre orações e entre termos da oração.
 
-Item. Emprego dos sinais de pontuação.
+- Emprego dos sinais de pontuação.
 
-Item. Concordância verbal e nominal. 5.6 Regência verbal e nominal.
+- Concordância verbal e nominal. 5.6 Regência verbal e nominal.
 
-Item. Emprego do sinal indicativo de crase.
+- Emprego do sinal indicativo de crase.
 
-Item. Colocação dos pronomes átonos.
+- Colocação dos pronomes átonos.
 
-Item. Reescrita de frases e parágrafos do texto.
+- Reescrita de frases e parágrafos do texto.
 
-Item. Significação das palavras.
+- Significação das palavras.
 
-Item. Substituição de palavras ou de trechos de texto.
+- Substituição de palavras ou de trechos de texto.
 
-Item. Reorganização da estrutura de orações e de períodos do texto.
+- Reorganização da estrutura de orações e de períodos do texto.
 
-Item. Reescrita de textos de diferentes gêneros e níveis de formalidade.
+- Reescrita de textos de diferentes gêneros e níveis de formalidade.
 
-# Língua Inglesa.
+### Língua Inglesa
 
-Item. Compreensão de textos variados. domínio do vocabulário e da estrutura da língua, ideias principais e secundárias, explícitas e implícitas, relações intratextuais e intertextuais.
+- Compreensão de textos variados. domínio do vocabulário e da estrutura da língua, ideias principais e secundárias, explícitas e implícitas, relações intratextuais e intertextuais.
 
-Item. Itens gramaticais relevantes para compreensão de conteúdos semânticos.
+- Itens gramaticais relevantes para compreensão de conteúdos semânticos.
 
-Item. Conhecimento e uso das formas contemporâneas da linguagem inglesa.
+- Conhecimento e uso das formas contemporâneas da linguagem inglesa.
 
-# Noções De Estatística e Probabilidade.
+#### Noções De Estatística e Probabilidade
 
-Item. Estatística descritiva.
+- Estatística descritiva.
 
-Item. Distribuição de probabilidade. discreta.
+- Distribuição de probabilidade. discreta.
 
-Item. Compreensão e representação de dados apresentados em gráficos e tabelas.
+- Compreensão e representação de dados apresentados em gráficos e tabelas.
 
-Item. Medidas de tendência central (média, mediana, moda, medidas de posição, mínimo e máximo) e de dispersão (amplitude, amplitude interquartil, variância, desvio padrão e coeficiente de variação).
+- Medidas de tendência central (média, mediana, moda, medidas de posição, mínimo e máximo) e de dispersão (amplitude, amplitude interquartil, variância, desvio padrão e coeficiente de variação).
 
-Item. Variáveis aleatórias e distribuição de probabilidade.
+- Variáveis aleatórias e distribuição de probabilidade.
 
-Item. Teorema de Bayes.
+- Teorema de Bayes.
 
-Item. Probabilidade condicional.
+- Probabilidade condicional.
 
-Item. População e amostra.
+- População e amostra.
 
-Item. Variância e covariância.
+- Variância e covariância.
 
-Item. Correlação linear simples.
+- Correlação linear simples.
 
-Item. Distribuição binomial e distribuição normal.
+- Distribuição binomial e distribuição normal.
 
-Item. Noções de amostragem e inferência estatística.
+- Noções de amostragem e inferência estatística.
 
-# Raciocínio Lógico.
+### Raciocínio Lógico
 
-Item. Estruturas lógicas. Conectivos, tautologia e contradições, implicações e equivalências, afirmações e negações, argumento, silogismo, validade de argumento. Lógica sentencial (ou proposicional). Proposições simples e compostas.
+- Estruturas lógicas. Conectivos, tautologia e contradições, implicações e equivalências, afirmações e negações, argumento, silogismo, validade de argumento. Lógica sentencial (ou proposicional). Proposições simples e compostas.
 
-Item. Lógica de argumentação. analogia, inferências, deduções e conclusões.
+- Lógica de argumentação. analogia, inferências, deduções e conclusões.
 
-Item. Compreensão do processo lógico que, a partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas.
+- Compreensão do processo lógico que, a partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas.
 
-Item. Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
+- Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
 
-# Legislação Acerca De Privacidade E Proteção De Dados Pessoais.
+#### Legislação Acerca De Privacidade E Proteção De Dados Pessoais
 
-Item. Lei nº 13.709-2018 (Lei Geral de Proteção de Dados Pessoais - LGPD). Capítulos I, II, III, IV, VII, VIII e IX.
+- Lei nº 13.709-2018 (Lei Geral de Proteção de Dados Pessoais - LGPD). Capítulos I, II, III, IV, VII, VIII e IX.
 
-Item. Lei nº 12.527-2011 (Lei de Acesso à Informação). Capítulos I, II, III, IV e V.
+- Lei nº 12.527-2011 (Lei de Acesso à Informação). Capítulos I, II, III, IV e V.
 
-Item. Lei nº 12.965-2014 (Marco Civil da Internet). Capítulos II e III, Seções I e II.
+- Lei nº 12.965-2014 (Marco Civil da Internet). Capítulos II e III, Seções I e II.
 
-Item. Decreto nº 9.637-2018 (Política Nacional de Segurança da Informação). Capítulo II.
+- Decreto nº 9.637-2018 (Política Nacional de Segurança da Informação). Capítulo II.
 
-Item. Lei nº 12.737-2012 (Lei de Delitos Informáticos). art. 2º. 6 Lei nº 8.078-1990. Capítulo V, Seção VI, e arts. 71 e 72.
+- Lei nº 12.737-2012 (Lei de Delitos Informáticos). art. 2º. 6 Lei nº 8.078-1990. Capítulo V, Seção VI, e arts. 71 e 72.
 
-Classe. Conhecimentos Específicos.
+## Conhecimentos Específicos
 
-# Segurança da Informação.
+### Segurança da Informação
 
-Item. ISO 27000.
+- ISO 27000 - confiabilidade, integridade, disponibilidade.
 
-Item. ISO 27000 - confiabilidade.
+- Mecanismos de segurança.
 
-Item. ISO 27000 - integridade.
+- Mecanismos de segurança - Criptografia.
 
-Item. ISO 27000 - disponibilidade.
+- Mecanismos de segurança - Criptografia simétrica.
 
-Item. Mecanismos de segurança.
+- Mecanismos de segurança - Criptografia assimétrica.
 
-Item. Mecanismos de segurança - Criptografia.
+- Mecanismos de segurança - Algoritmos de criptografia em detalhes.
 
-Item. Mecanismos de segurança - Criptografia simétrica.
+- Mecanismos de segurança - Assinatura digital.
 
-Item. Mecanismos de segurança - Criptografia assimétrica.
+- Mecanismos de segurança - Garantia de integridade.
 
-Item. Mecanismos de segurança - Algoritmos de criptografia em detalhes.
+- Mecanismos de segurança - Controle de acesso.
 
-Item. Mecanismos de segurança - Assinatura digital.
+- Mecanismos de segurança - Certificação digital.
 
-Item. Mecanismos de segurança - Garantia de integridade.
+- Mecanismos de segurança - Certificação digital - ICP-Brasil.
 
-Item. Mecanismos de segurança - Controle de acesso.
+- Gerência de riscos.
 
-Item. Mecanismos de segurança - Certificação digital.
+- Gerência de riscos - Ameaça, vulnerabilidade e impacto.
 
-Item. Mecanismos de segurança - ICP-Brasil.
+- Políticas de segurança.
 
-Item. Gerência de riscos.
+- Políticas de segurança - NBR ISO-IEC 27002.2005.
 
-Item. Gerência de riscos - Ameaça, vulnerabilidade e impacto.
+- Políticas de segurança - NBR ISO-IEC 27001.2013.
 
-Item. Políticas de segurança.
+- Políticas de segurança - NBR ISO-IEC 15408.
 
-Item. Políticas de segurança - NBR ISO-IEC 27002.2005.
+- Políticas de senhas.
 
-Item. Políticas de segurança - NBR ISO-IEC 27001.2013.
+- Políticas de senhas - Autenticação de dois fatores (MFA).
 
-Item. Políticas de segurança - NBR ISO-IEC 15408.
+- Autenticação e autorização.
 
-Item. Políticas de senhas.
+- Autenticação e autorização - OAuth 2.
 
-Item. Políticas de senhas - Autenticação de dois fatores (MFA).
+- Autenticação e autorização - JWT.
 
-Item. Autenticação e autorização.
+- Autenticação e autorização - SSO.
 
-Item. Autenticação e autorização - OAuth 2.
+- Autenticação e autorização - Open ID Connect.
 
-Item. Autenticação e autorização - JWT.
+- Autenticação e autorização - SAML.
 
-Item. Autenticação e autorização - SSO.
+- OWASP Top 10.
 
-Item. Autenticação e autorização - Open ID Connect.
+- OWASP Top 10 - O que mudou em 2021.
 
-Item. Autenticação e autorização - SAML.
+### Gerenciamento e Sustentação de Software
 
-Item. OWASP Top 10.
+- Gerenciamento de Produtos de Software.
 
-Item. OWASP Top 10 - O que mudou em 2021.
+- Gerenciamento de produtos com métodos ágeis.
 
-# Gerenciamento e Sustentação de Software.
+- Gerenciamento de produtos - Scrum.
 
-Item. Gerenciamento de Produtos de Software.
+- Gerenciamento de produtos - Kanban.
 
-Item. Gerenciamento de produtos com métodos ágeis.
+- Gerenciamento de produtos - XP.
 
-Item. Gerenciamento de produtos - Scrum.
+- Gerenciamento de produtos - Lean.
 
-Item. Gerenciamento de produtos - Kanban.
+- Gerenciamento de serviços (ITIL V4).
 
-Item. Gerenciamento de produtos - XP.
+### Tecnologia
 
-Item. Gerenciamento de produtos - Lean.
+- Banco de dados.
 
-Item. Gerenciamento de serviços (ITIL V4).
+- Arquitetura de banco de dados.
 
-# Tecnologia.
+- Banco de dados relacional PostgreSQL.
 
-Item. Banco de dados.
+- Banco de dados relacional Oracle.
 
-Item. Arquitetura de banco de dados.
+- Banco de dados relacional SqlServer.
 
-Item. Banco de dados relacional PostgreSQL.
+- Banco de dados não relacional - orientado a documento.
 
-Item. Banco de dados relacional Oracle.
+- Banco de dados não relacional - chave-valor.
 
-Item. Banco de dados relacional SqlServer.
+- Banco de dados não relacional - grafo.
 
-Item. Banco de dados não relacional - orientado a documento.
+- Banco de dados não relacional - colunar.
 
-Item. Banco de dados não relacional - chave-valor.
+- Banco de dados não relacional - time series.
 
-Item. Banco de dados não relacional - grafo.
+- Modelagem de banco de dados.
 
-Item. Banco de dados não relacional - colunar.
+- Modelagem de banco de dados - físico.
 
-Item. Banco de dados não relacional - time series.
+- Modelagem de banco de dados - lógico.
 
-Item. Modelagem de banco de dados.
+- Modelagem de banco de dados - conceitual.
 
-Item. Modelagem de banco de dados - físico.
+- Sistemas de banco de dados.
 
-Item. Modelagem de banco de dados - lógico.
+- Sistemas de banco de dados - álgebra relacional.
 
-Item. Modelagem de banco de dados - conceitual.
+- Sistemas de banco de dados - SQL-ANSI.
 
-Item. Sistemas de banco de dados.
+- Sistemas de banco de dados - linguagens procedurais embarcadas.
 
-Item. Sistemas de banco de dados - álgebra relacional.
+- Gestão de banco de dados.
 
-Item. Sistemas de banco de dados - SQL-ANSI.
+- Gestão de banco de dados - controle de acesso, usuário e papeis.
 
-Item. Sistemas de banco de dados - linguagens procedurais embarcadas.
+- Gestão de banco de dados - cálculo volumétrico.
 
-Item. Gestão de banco de dados.
+- Gestão de banco de dados - replicação, cluster e particionamento.
 
-Item. Gestão de banco de dados - controle de acesso, usuário e papeis.
+- Gestão de banco de dados - esquemas.
 
-Item. Gestão de banco de dados - cálculo volumétrico.
+- Servidores web e de aplicação.
 
-Item. Gestão de banco de dados - replicação, cluster e particionamento.
+- Servidor web e de aplicação - Wildfly.
 
-Item. Gestão de banco de dados - esquemas.
+- Servidor web e de aplicação - IIS.
 
-Item. Servidores web e de aplicação.
+- Servidor web e de aplicação - Apache.
 
-Item. Servidor web e de aplicação - Wildfly.
+- Servidor web e de aplicação - Nginx.
 
-Item. Servidor web e de aplicação - IIS.
+- Linguagens de programação.
 
-Item. Servidor web e de aplicação - Apache.
+- Linguagem de programação - Java.
 
-Item. Servidor web e de aplicação - Nginx.
+- Linguagem de programação - JavaScript.
 
-Item. Linguagens de programação.
+- Linguagem de programação - TypeScript.
 
-Item. Linguagem de programação - Java.
+- Linguagem de programação - Python.
 
-Item. Linguagem de programação - JavaScript.
+- Linguagem de programação - PHP.
 
-Item. Linguagem de programação - TypeScript.
+- Linguagem de programação - C#.
 
-Item. Linguagem de programação - Python.
+- Linguagem de programação - Go.
 
-Item. Linguagem de programação - PHP.
+- Tecnologias frontend web.
 
-Item. Linguagem de programação - C#.
+- Tecnologia frontend web - HTML.
 
-Item. Linguagem de programação - Go.
+- Tecnologia frontend web - CSS.
 
-Item. Tecnologias frontend web.
+- Tecnologia frontend web - Ajax.
 
-Item. Tecnologia frontend web - HTML.
+- Tecnologia frontend web - Bootstrap.
 
-Item. Tecnologia frontend web - CSS.
+- Tecnologia frontend web - Angular.
 
-Item. Tecnologia frontend web - Ajax.
+- Tecnologia frontend web - VueJS.
 
-Item. Tecnologia frontend web - Bootstrap.
+- Tecnologia frontend web - React.
 
-Item. Tecnologia frontend web - Angular.
+- Tecnologia frontend web - padrões de frontend.
 
-Item. Tecnologia frontend web - VueJS.
+- Tecnologia frontend web - SPA e PWA.
 
-Item. Tecnologia frontend web - React.
+- Design de interface e de experiência do usuário (UX).
 
-Item. Tecnologia frontend web - padrões de frontend.
+- Design de interface e de experiência do usuário (UX) - responsividade.
 
-Item. Tecnologia frontend web - SPA e PWA.
+- Design de interface e de experiência do usuário (UX) - usabilidade.
 
-Item. Design de interface e de experiência do usuário.
+- Design de interface e de experiência do usuário (UX) - acessibilidade.
 
-Item. Design de interface e de experiência do usuário - responsividade.
+- Design de interface e de experiência do usuário (UX) - prototipação.
 
-Item. Design de interface e de experiência do usuário - usabilidade.
+- Design de interface e de experiência do usuário (UX) - testes A-B.
 
-Item. Design de interface e de experiência do usuário - acessibilidade.
+- Tecnologias backend.
 
-Item. Design de interface e de experiência do usuário - prototipação.
+- Tecnologia backend - Hibernate.
 
-Item. Design de interface e de experiência do usuário - testes A-B.
+- Tecnologia backend - .NET Core.
 
-Item. Tecnologias backend.
+- Tecnologia backend - Quarkus.
 
-Item. Tecnologia backend - Hibernate.
+- Tecnologia backend - SpringBoot.
 
-Item. Tecnologia backend - .NET Core.
+- Tecnologia backend - Flask.
 
-Item. Tecnologia backend - Quarkus.
+- Tecnologia backend - Django.
 
-Item. Tecnologia backend - SpringBoot.
+- Tecnologia backend - NodeJS.
 
-Item. Tecnologia backend - Flask.
+- Tecnologia backend - Express.
 
-Item. Tecnologia backend - Django.
+- Tecnologia backend - NextJS.
 
-Item. Tecnologia backend - NodeJS.
+- Tecnologia backend - NestJS.
 
-Item. Tecnologia backend - Express.
+- Tecnologia backend - Especificação JEE.
 
-Item. Tecnologia backend - NextJS.
+- Tecnologia backend - Especificação JEE - JSP.
 
-Item. Tecnologia backend - NestJS.
+- Tecnologia backend - Especificação JEE - JPA.
 
-Item. Tecnologia backend - Especificação JEE.
+- Tecnologia backend - Especificação JEE - EJB.
 
-Item. Tecnologia backend - Especificação JEE - JSP.
+- Tecnologia backend - Especificação JEE - JSF.
 
-Item. Tecnologia backend - Especificação JEE - JPA.
+- Tecnologia backend - Especificação JEE - JMS.
 
-Item. Tecnologia backend - Especificação JEE - EJB.
+- Tecnologia backend - Especificação JEE - JTA.
 
-Item. Tecnologia backend - Especificação JEE - JSF.
+- Tecnologia backend - Especificação JVM.
 
-Item. Tecnologia backend - Especificação JEE - JMS.
+- Tecnologias de desenvolvimento móvel.
 
-Item. Tecnologia backend - Especificação JEE - JTA.
+- Tecnologia de desenvolvimento móvel - Android (Kotlin).
 
-Item. Tecnologia backend - Especificação JVM.
+- Tecnologia de desenvolvimento móvel - IOS (Swift).
 
-Item. Tecnologias de desenvolvimento móvel.
+- Tecnologia de desenvolvimento móvel - Flutter.
 
-Item. Tecnologia de desenvolvimento móvel - Android (Kotlin).
+- Tecnologia de desenvolvimento móvel - ReactNative.
 
-Item. Tecnologia de desenvolvimento móvel - IOS (Swift).
+- Tecnologia de desenvolvimento móvel - Ionic.
 
-Item. Tecnologia de desenvolvimento móvel - Flutter.
+- Tecnologia de desenvolvimento móvel - Xamarin.
 
-Item. Tecnologia de desenvolvimento móvel - ReactNative.
+- Tecnologia de desenvolvimento móvel - Banco de Dados SQLite.
 
-Item. Tecnologia de desenvolvimento móvel - Ionic.
+- Ferramentas de gestão de configuração.
 
-Item. Tecnologia de desenvolvimento móvel - Xamarin.
+- Ferramentas de gestão de configuração - Git.
 
-Item. Tecnologia de desenvolvimento móvel - Banco de Dados SQLite.
+- Ferramentas de gestão de configuração - GitLab.
 
-Item. Ferramentas de gestão de configuração.
+- Ferramentas de gestão de configuração - CI-CD.
 
-Item. Ferramentas de gestão de configuração - Git.
+- Ferramentas de gestão de configuração - GitLab CI.
 
-Item. Ferramentas de gestão de configuração - GitLab.
+- Protocolos Web.
 
-Item. Ferramentas de gestão de configuração - CI-CD.
+- Protocolo Web - HTTP.
 
-Item. Ferramentas de gestão de configuração - GitLab CI.
+- Protocolo Web - HTTPS.
 
-Item. Protocolos Web.
+- Protocolo Web - SSL-TLS.
 
-Item. Protocolo Web - HTTP.
+- Protocolo Web - HTTP-2.
 
-Item. Protocolo Web - HTTPS.
+- Protocolo Web - gRPC.
 
-Item. Protocolo Web - SSL-TLS.
+- Protocolo Web - WebSockets.
 
-Item. Protocolo Web - HTTP-2.
+- Ferramentas de integração assíncrona.
 
-Item. Protocolo Web - gRPC.
+- Protocolos AMQP e MQTT.
 
-Item. Protocolo Web - WebSockets.
+- Ferramentas de mensageria.
 
-Item. Ferramentas de integração assíncrona.
+- Ferramenta de mensageria - Kafka.
 
-Item. Protocolos AMQP e MQTT.
+- Ferramenta de mensageria - NATS Streaming.
 
-Item. Ferramentas de mensageria.
+- Ferramenta de mensageria - ActiveMQ.
 
-Item. Ferramenta de mensageria - Kafka.
+- Ferramenta de mensageria - RabbitMQ.
 
-Item. Ferramenta de mensageria - NATS Streaming.
+- Ferramenta de mensageria - WebSphereMQ.
 
-Item. Ferramenta de mensageria - ActiveMQ.
+- Containers - Docker.
 
-Item. Ferramenta de mensageria - RabbitMQ.
+- Orquestração de Containers.
 
-Item. Ferramenta de mensageria - WebSphereMQ.
+- Orquestração de Containers - Kubernetes.
 
-Item. Containers - Docker.
+- Orquestração de Containers - OpenShift.
 
-Item. Orquestração de Containers.
+### Engenharia de Software
 
-Item. Orquestração de Containers - Kubernetes.
+- Engenharia de requisitos.
 
-Item. Orquestração de Containers - OpenShift.
+- Gestão de backlog.
 
-# Engenharia de Software.
+- Produto mínimo viável (MVP).
 
-Item. Engenharia de requisitos.
+- Gestão de Dívida Técnica.
 
-Item. Gestão de backlog.
+- Técnicas de priorização e estimativas.
 
-Item. Produto mínimo viável (MVP).
+- Análise de Pontos de Função.
 
-Item. Gestão de Dívida Técnica.
+- Análise de Story Points.
 
-Item. Técnicas de priorização, de estimativas.
+- Análise e projeto de software.
 
-Item. Análise de Pontos de Função.
+- Análise e projeto de software - Estrutura de Arquivos.
 
-Item. Análise de Story Points.
+- Análise e projeto de software - Estrutura de Dados.
 
-Item. Análise e projeto de software.
+- Análise e projeto de software - Orientação a Objetos.
 
-Item. Desenvolvimento de Software.
+- Análise e projeto de software - Métodos de Ordenação.
 
-Item. Desenvolvimento de Software - Estrutura de Arquivos.
+- Análise e projeto de software - Complexidade de Algoritmos.
 
-Item. Desenvolvimento de Software - Estrutura de Dados.
+- Análise e projeto de software - Pesquisa de Dados.
 
-Item. Desenvolvimento de Software - Orientação a Objetos.
+- Qualidade de Software.
 
-Item. Desenvolvimento de Software - Métodos de Ordenação.
+- Análise estática de código.
 
-Item. Desenvolvimento de Software - Complexidade de Algoritmos.
+- Testes unitários.
 
-Item. Desenvolvimento de Software - Pesquisa de Dados.
+- Testes com Mock e stubs.
 
-Item. Qualidade de Software.
+- Teste de integração.
 
-Item. Análise estática de código.
+- Teste de RNF (carga, estresse).
 
-Item. Testes unitários.
+- Revisão e programação por pares.
 
-Item. Testes com Mock e stubs.
+- Gestão de configuração.
 
-Item. Teste de integração.
+- Gestão do Código.
 
-Item. Teste de RNF (carga, estresse).
+- Gestão do Código - DevOps.
 
-Item. Revisão e programação por pares.
+- Gestão do Código - Controle de Versão.
 
-Item. Gestão de configuração.
+- Gestão do Código - Controle de Versão - merge.
 
-Item. Engenharia de Software - Gestão do Código.
+- Gestão do Código - Controle de Versão - branch.
 
-Item. Engenharia de Software - Gestão do Código - DevOps.
+- Gestão do Código - Controle de Versão - pipeline CI-CD.
 
-Item. Engenharia de Software - Gestão do Código - Controle de Versão.
+- Gestão do Código - Controle de Versão - database migration.
 
-Item. Engenharia de Software - Gestão do Código - Controle de Versão - merge.
+- Infraestrutura.
 
-Item. Engenharia de Software - Gestão do Código - Controle de Versão - branch.
+- Infraestrutura como código (IAC).
 
-Item. Engenharia de Software - Gestão do Código - Controle de Versão - pipeline CI-CD.
+- Infraestrutura - Linguagens de script.
 
-Item. Engenharia de Software - Gestão do Código - Controle de Versão - database migration.
+- Infraestrutura - Linguagem de script - Ansible.
 
-Item. Infraestrutura.
+- Infraestrutura - Linguagem de script - Terraform.
 
-Item. Infraestrutura como código (IAC).
+- Infraestrutura - Linguagem de script - ShellScript.
 
-Item. Infraestrutura - Linguagens de script.
+- Resiliência de aplicações.
 
-Item. Infraestrutura - Linguagem de script - Ansible.
+- Resiliência de aplicações - Técnica de Cache.
 
-Item. Infraestrutura - Linguagem de script - Terraform.
+- Resiliência de aplicações - Técnica de Fallback.
 
-Item. Infraestrutura - Linguagem de script - ShellScript.
+- Resiliência de aplicações - Técnica de Circuitbrake.
 
-Item. Resiliência de aplicações.
+- Resiliência de aplicações - Técnica de Disaster Recovery.
 
-Item. Resiliência de aplicações - Técnica de Cache.
+- Resiliência de aplicações - Técnica de Contingência.
 
-Item. Resiliência de aplicações - Técnica de Fallback.
+- Resiliência de aplicações - Técnica de Balanceamento de Carga Global de Servidores (GSLB).
 
-Item. Resiliência de aplicações - Técnica de Circuitbrake.
+- Resiliência de aplicações - Técnica de Site Ativo X Ativo.
 
-Item. Resiliência de aplicações - Técnica de Disaster Recovery.
+- Resiliência de aplicações - Monitoração e observabilidade.
 
-Item. Resiliência de aplicações - Técnica de Contingência.
+- Low-code e no-code software development.
 
-Item. Resiliência de aplicações - Técnica de Balanceamento de Carga Global de Servidores (GSLB).
+### Arquitetura de Software
 
-Item. Resiliência de aplicações - Técnica de Site Ativo X Ativo.
+- Arquitetura de Software - Padrões de Projeto Orientado a Objetos.
 
-Item. Monitoração e observabilidade.
+- Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Criacionais.
 
-Item. Low-code e no-code software development.
+- Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Estruturais.
 
-# Arquitetura de Software.
+- Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Comportamentais.
 
-Item. Arquitetura de Software - Padrões de Projeto Orientado a Objetos.
+- Arquitetura de Software - Padrões GRASP.
 
-Item. Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Criacionais.
+- Arquitetura de Software - SOLID.
 
-Item. Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Estruturais.
+- Arquitetura de Software - Código Limpo.
 
-Item. Arquitetura de Software - Padrões de Projeto Orientado a Objetos - Comportamentais.
+- Tecnologias de integração.
 
-Item. Arquitetura de Software - Padrões GRASP.
+- Tecnologias de integração - Workflow.
 
-Item. Arquitetura de Software - SOLID.
+- Web services.
 
-Item. Arquitetura de Software - Código Limpo.
+- Web service - RESTful.
 
-Item. Tecnologias de integração.
+- Web service - SOAP.
 
-Item. Tecnologias de integração - Workflow.
+- Web service - GraphQL.
 
-Item. Web services.
+- Mensageria, stream e CORBA.
 
-Item. Web service - RESTful.
+- Design de software.
 
-Item. Web service - SOAP.
+- Design de software - Orientação ao Domínio - DDD (Domain-Driven Design).
 
-Item. Web service - GraphQL.
+- Arquitetura hexagonal.
 
-Item. Mensageria, stream e CORBA.
+- Microsserviços.
 
-Item. Design de software.
+- Microsserviços - orquestração de serviços.
 
-Item. Design de software - Orientação ao Domínio - DDD (Domain-Driven Design).
+- Microsserviços - API gateway.
 
-Item. Arquitetura hexagonal.
+- Padrões de microsserviços.
 
-Item. Microsserviços.
+- Padrões de microsserviços - SAGA.
 
-Item. Microsserviços - orquestração de serviços.
+- Padrões de microsserviços - CQRS.
 
-Item. Microsserviços - API gateway.
+- Microsserviços - Transações distribuídas.
 
-Item. Padrões de microsserviços.
+### Aplicações em Nuvem
 
-Item. Padrões de microsserviços - SAGA.
+- Aplicações em Nuvem - 12 factories.
 
-Item. Padrões de microsserviços - CQRS.
+- Aplicações em Nuvem - Orientação a serviço.
 
-Item. Microsserviços - Transações distribuídas.
+- IaaS - Infraestrutura com Serviço.
 
-# Aplicações em Nuvem.
+- SaaS - Software como Serviço.
 
-Item. Aplicações em Nuvem - 12 factories.
+- PaaS - Plataforma como Serviço.
 
-Item. Aplicações em Nuvem - Orientação a serviço.
+- Serviços em Nuvem - Amazon AWS
 
-Item. IaaS - Infraestrutura com Serviço.
+- Serviços em Nuvem - Microsoft Azure
 
-Item. SaaS - Software como Serviço.
+- Serviços em Nuvem - Google Cloud Platform
 
-Item. PaaS - Plataforma como Serviço.
+### Assuntos Avançados
 
-Item. Serviços em Nuvem - Amazon AWS
+- Inteligência artificial.
 
-Item. Serviços em Nuvem - Microsoft Azure
+- Análise de dados.
 
-Item. Serviços em Nuvem - Google Cloud Platform
+- Análise de dados - NumPy.
 
-# Assuntos Avançados.
+- Análise de dados - Pandas.
 
-Item. Inteligência artificial.
+- Análise de dados - Jupiter.
 
-Item. Análise de dados.
+- Análise de dados - R.
 
-Item. Análise de dados - NumPy.
+- Aprendizado de máquina.
 
-Item. Análise de dados - Pandas.
+- Aprendizado de máquina - Técnicas de classificação.
 
-Item. Análise de dados - Jupiter.
+- Aprendizado de máquina - Técnicas de regressão.
 
-Item. Análise de dados - R.
+- Aprendizado de máquina - Técnicas de agrupamento.
 
-Item. Aprendizado de máquina.
+- Aprendizado de máquina - Técnicas de redução de dimensionalidade.
 
-Item. Aprendizado de máquina - Técnicas de classificação.
+- Aprendizado de máquina - Técnicas de associação.
 
-Item. Aprendizado de máquina - Técnicas de regressão.
+- Aprendizado de máquina - Sistemas de recomendação.
 
-Item. Aprendizado de máquina - Técnicas de agrupamento.
+- Processamento de linguagem natural (PLN).
 
-Item. Aprendizado de máquina - Técnicas de redução de dimensionalidade.
+- Visão computacional.
 
-Item. Aprendizado de máquina - Técnicas de associação.
+- Aprendizado de máquina profundo (Deep learning).
 
-Item. Aprendizado de máquina - Sistemas de recomendação.
+- Ciência de dados.
 
-Item. Processamento de linguagem natural (PLN).
+- Grandes Volumes de Dados (Big Data).
 
-Item. Visão computacional.
+- Big Data - Fundamentos.
 
-Item. Aprendizado de máquina profundo (Deep learning).
+- Big Data - Fundamentos - Hadoop.
 
-Item. Ciência de dados.
+- Big Data - Fundamentos - Hadoop - Data ingestion.
 
-Item. Grandes Volumes de Dados (Big Data).
+- Big Data - Fundamentos - Hadoop - Flume.
 
-Item. Big Data - Fundamentos.
+- Big Data - Fundamentos - Hadoop - SQOOP.
 
-Item. Big Data - Fundamentos - Hadoop.
+- Big Data - Armazenamento.
 
-Item. Big Data - Fundamentos - Hadoop - Data ingestion.
+- Big Data - Pipeline de dados.
 
-Item. Big Data - Fundamentos - Hadoop - Flume.
+- Big Data - Processamento distribuído.
 
-Item. Big Data - Fundamentos - Hadoop - SQOOP.
+- Big Data - Conceitos de data lake.
 
-Item. Big Data - Armazenamento.
+- Sistemas de Armazenamento de Dados.
 
-Item. Big Data - Pipeline de dados.
+- Sistemas de arquivos distribuídos.
 
-Item. Big Data - Processamento distribuído.
+- Armazenamento orientado a objeto (object store).
 
-Item. Big Data - Conceitos de data lake.
+- Sistemas de indexação.
 
-Item. Sistemas de Armazenamento de Dados.
+- Processamento de Dados.
 
-Item. Sistemas de arquivos distribuídos.
+- Conceitos de processamento massivo e paralelo.
 
-Item. Armazenamento orientado a objeto (object store).
+- Processamento em lote (batch).
 
-Item. Sistemas de indexação.
+- Processamento em tempo real (real time).
 
-Item. Processamento de Dados.
-
-Item. Conceitos de processamento massivo e paralelo.
-
-Item. Processamento em lote (batch).
-
-Item. Processamento em tempo real (real time).
-
-Item. Processamento MapReduce
+- Processamento MapReduce
