@@ -17,7 +17,7 @@ SPA (Single Page Application) e PWA (Progressive Web Application) são duas tecn
 
 Em resumo, as SPAs são aplicativos web que funcionam em uma única página, atualizando o conteúdo dinamicamente, enquanto as PWAs são aplicativos web que aproveitam recursos modernos para fornecer uma experiência semelhante a um aplicativo nativo, incluindo instalação, notificações e funcionalidade offline. Ambas as tecnologias desempenham um papel importante no desenvolvimento frontend web e podem ser combinadas para criar aplicativos web avançados e de alto desempenho.
 
-# O que são Progressive Web Apps?
+## O que são Progressive Web Apps?
 
 - Os três pilares de uma aplicação
 - Capazes

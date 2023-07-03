@@ -18,7 +18,7 @@ Aqui estão alguns conceitos e recursos chave relacionados ao JSF:
 
 O JSF é uma tecnologia madura e amplamente adotada para o desenvolvimento de interfaces web em aplicativos Java. Ele fornece um conjunto abrangente de recursos para a criação de interfaces de usuário sofisticadas e é integrado a outras tecnologias JEE, como EJB e JPA, para criar aplicativos empresariais completos.
 
-# Principais anotações do JSF no JavaEE
+## Principais anotações do JSF no JavaEE
 
 No Java EE, as principais anotações utilizadas com o JSF (JavaServer Faces) são:
 

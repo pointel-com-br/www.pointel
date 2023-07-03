@@ -20,7 +20,7 @@ Esses são apenas alguns exemplos de métodos de ordenação. Existem outros alg
 
 A escolha do método de ordenação a ser utilizado depende de diversos fatores, como o tamanho da lista, a distribuição dos elementos, os recursos disponíveis (memória, processamento), entre outros. É importante considerar a eficiência e a estabilidade do algoritmo, bem como as restrições e as necessidades específicas do problema em questão.
 
-# Desenvolvimento de software - Algoritmos de ordenação estáveis.
+## Desenvolvimento de software - Algoritmos de ordenação estáveis.
 
 Os algoritmos de ordenação estáveis são aqueles que preservam a ordem relativa dos elementos com chaves iguais durante o processo de ordenação. Isso significa que se houver dois elementos com a mesma chave, a ordem em que eles aparecem na lista original será mantida na lista ordenada.
 
@@ -38,7 +38,7 @@ Aqui estão alguns exemplos de algoritmos de ordenação estáveis comumente uti
 
 Esses são apenas alguns exemplos de algoritmos de ordenação estáveis. Cada algoritmo tem suas vantagens e desvantagens em termos de desempenho e uso de recursos. A escolha do algoritmo depende do tamanho da lista, do tipo de dados e dos requisitos específicos do sistema.
 
-# Desenvolvimento de software - Algoritmos de ordenação instáveis.
+## Desenvolvimento de software - Algoritmos de ordenação instáveis.
 
 Os algoritmos de ordenação instáveis são aqueles que não garantem a preservação da ordem relativa dos elementos com chaves iguais durante o processo de ordenação. Isso significa que se houver dois elementos com a mesma chave, a ordem em que eles aparecem na lista original pode não ser mantida na lista ordenada.
 

@@ -2453,7 +2453,7 @@ Tendo como referência essas informações, julgue os seguintes itens.
 Comentário: Primeiramente, para alterar o parâmetro que define a quantidade de sessões,
 usamos o comando ALTER SYSTEM SET SESSIONS = 1000. Assim, essa alternativa já está errada.
 Ainda no servidor de banco de dados Oracle, o Oracle Net usa um processo ativo chamado listener para gerenciar conexões entre as aplicações e o servidor de Banco de Dados.As aplicações (remotas) não podem se conectar ao servidor de BD sem um listener. Um único listener pode servir múltiplas instâncias de BD e milhares de conexões clientes. Segue abaixo um exemplo de conteúdo do arquivo de configuração do listener, chamado listener.ora:
-# listener.ora Network Configuration File:
+## listener.ora Network Configuration File:
 
 LISTENER = (DESCRIPTION_LIST =
 (DESCRIPTION =

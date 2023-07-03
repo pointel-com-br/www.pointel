@@ -16,7 +16,7 @@ As principais características e funcionalidades do Flume são:
 
 Em resumo, o Flume desempenha um papel importante na coleta e ingestão de dados em larga escala para o ecossistema Hadoop. Ele fornece uma maneira eficiente e confiável de coletar dados de várias fontes e movê-los para o Hadoop para análise e processamento posterior. Com sua escalabilidade e capacidade de processamento em tempo real, o Flume ajuda a lidar com os desafios de ingestão de dados em ambientes de Big Data.
 
-# Big Data - Fundamentos - Hadoop - Flume - Configuração.
+## Big Data - Fundamentos - Hadoop - Flume - Configuração.
 
 Para configurar o Apache Flume, siga estas etapas básicas:
 
@@ -38,7 +38,7 @@ Essas são apenas as etapas básicas para configurar o Apache Flume. Dependendo 
 
 É recomendável consultar a documentação oficial do Apache Flume para obter informações detalhadas sobre a configuração e as opções disponíveis, bem como exemplos de configuração específicos para cada tipo de fonte, canal e destino.
 
-# Big Data - Fundamentos - Hadoop - Flume - Eventos.
+## Big Data - Fundamentos - Hadoop - Flume - Eventos.
 
 No contexto do Apache Flume, um evento representa uma unidade básica de dados que é coletada, transmitida e processada. O Flume é um sistema de ingestão de dados distribuído que lida com eventos em tempo real e fornece uma arquitetura escalável para mover grandes volumes de dados de uma fonte para um destino.
 

@@ -16,7 +16,7 @@ Python é uma linguagem de programação de alto nível, interpretada e multipar
 
 Python tem ganhado cada vez mais popularidade ao longo dos anos, sendo reconhecida por sua eficiência e legibilidade de código. Sua ampla adoção, vasta biblioteca e ecossistema de frameworks, além de sua comunidade ativa, fazem dele uma excelente escolha para desenvolvedores que buscam produtividade e versatilidade em seus projetos.
 
-# Como são feitos testes unitários em Python.
+## Como são feitos testes unitários em Python.
 
 Os testes unitários em Python são feitos usando frameworks de teste populares, como o unittest, pytest e doctest. Esses frameworks fornecem uma estrutura para escrever e executar testes automatizados no ambiente Python. Aqui está um exemplo básico de como criar e executar testes unitários em Python usando o pytest:
 
@@ -51,7 +51,7 @@ Os frameworks de teste em Python, como o pytest, oferecem recursos avançados pa
 
 Além do pytest, o unittest e o doctest são outros frameworks de teste populares em Python. O unittest segue uma abordagem mais orientada a objetos para escrever testes, enquanto o doctest permite escrever testes diretamente nas docstrings do código. Cada framework tem sua própria sintaxe e recursos específicos, mas a ideia geral é a mesma: definir funções de teste, executá-las e verificar se os resultados estão corretos usando asserções.
 
-# Funções para o tratamento de strings no Python
+## Funções para o tratamento de strings no Python
 
 O Python oferece uma variedade de funções e métodos embutidos para o tratamento de strings. Aqui estão algumas das funções e métodos mais comuns para o tratamento de strings no Python:
 

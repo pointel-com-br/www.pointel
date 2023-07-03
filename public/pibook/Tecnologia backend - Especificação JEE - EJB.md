@@ -22,7 +22,7 @@ Aqui estão alguns conceitos e recursos chave relacionados aos EJBs:
 
 Os EJBs fornecem uma maneira poderosa e escalável de implementar a lógica de negócio em aplicativos empresariais Java. Eles abstraem a complexidade dos serviços de infraestrutura, como persistência de dados, transações e segurança, permitindo que os desenvolvedores se concentrem na lógica de negócio essencial do aplicativo.
 
-# Principais anotações do EJB no Java EE
+## Principais anotações do EJB no Java EE
 
 No Java EE, as principais anotações utilizadas com o EJB (Enterprise JavaBeans) são:
 

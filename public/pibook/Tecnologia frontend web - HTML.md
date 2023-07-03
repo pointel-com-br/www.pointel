@@ -18,7 +18,7 @@ Aqui estão alguns conceitos e recursos importantes relacionados ao HTML:
 
 Esses são apenas alguns conceitos básicos relacionados ao HTML. Existem muitos outros elementos, atributos e recursos que podem ser explorados para criar páginas web mais complexas e interativas. O HTML trabalha em conjunto com CSS e JavaScript para fornecer uma experiência completa de desenvolvimento frontend.
 
-# Como declarar um manifesto de cache em HTML
+## Como declarar um manifesto de cache em HTML
 
 Para declarar um manifesto de cache em HTML, você pode usar a especificação do Manifesto de Aplicativo Web (Web App Manifest) fornecida pela Web Application Manifest specification. O Manifesto de Aplicativo Web é um arquivo JSON que descreve as características e configurações de um aplicativo web progressivo (PWA). Ele inclui informações como o nome do aplicativo, ícones, cores de tema, orientação de tela e também pode especificar arquivos para serem armazenados em cache.
 
@@ -60,7 +60,7 @@ Ao adicionar a tag `<link>` com o atributo `rel` definido como "manifest" e o at
 
 Lembre-se de que o suporte a PWAs e a capacidade de armazenamento em cache podem variar entre diferentes navegadores e versões. É sempre uma boa prática verificar a compatibilidade com os navegadores-alvo e testar o comportamento do cache em diferentes cenários.
 
-# Como declarar um manifesto de cache para trabalhar com arquivos offline em HTML
+## Como declarar um manifesto de cache para trabalhar com arquivos offline em HTML
 
 Para declarar um manifesto de cache em HTML e permitir que seu site funcione offline, você pode usar o recurso de Cache de Aplicativo Web HTML5 (HTML5 Application Cache). O Cache de Aplicativo Web permite que você especifique quais arquivos do seu site devem ser armazenados em cache pelo navegador, permitindo o acesso offline a esses arquivos.
 

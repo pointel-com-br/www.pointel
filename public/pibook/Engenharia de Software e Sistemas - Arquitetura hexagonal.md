@@ -243,12 +243,12 @@ O MVC promove a estrita separação de responsabilidade entre componentes de uma
 feita através do Controlador.
 Durante a década de setenta, surgiu a necessidade de criação de uma arquitetura para ser utilizada em projetos de interface visual na linguagem de programação Smalltalk. Aideia original era organizar o código, separar responsabilidades, aumentar a manutenibilidade,promover um baixo acoplamento e uma alta coesão, fomentar a reusabilidade do código e tornar o sistema escalável.
 Passou um bocadinho de tempo e, com o surgimento da WWW, algumas pessoas pensaram em adaptar esse padrão arquitetural para o mundo web. Muitos frameworks de aplicação comerciais e não comerciais foram criados tendo como base esse modelo. Estes frameworks variam em suas interpretações, principalmente no modo que as responsabilidades MVC são divididas entre o cliente e servidor.
-# CAMADA DE MODELO
+## CAMADA DE MODELO
 
 Essa é a camada responsável pela representação dos dados, provendo meios de acesso(leitura/escrita). Cara, sempre que você pensar em manipulação de dados, (leitura,
 escrita ou validação de dados1), pense na Camada de Modelo! Ela gerencia não só os dados, mas também os comportamentos fundamentais da aplicação - representados por regras de negócio (Sim,elas ficam na Camada de Modelo!).
 A Camada de Modelo encapsula as principais funcionalidades e dados do sistema. Ela notifica suas visões e respectivos controladores quando surge alguma mudança em seu estado, isto é, ela é responsável pela manutenção do estado da aplicação. Estas notificações permitem que as visões produzam saídas atualizadas e que os controladores alterem o conjunto de comandos disponíveis.
-# CAMADA DE CONTROLE
+## CAMADA DE CONTROLE
 
 Essa é a camada responsável por receber todas as requisições do usuário.
 Seus métodos -
@@ -337,11 +337,11 @@ ARQUITETURA DE SOFTWARE
 A arquitetura de software de um programa ou sistema computacional é a estrutura ou estruturas do sistema, que abrange os componentes de software, as propriedades externamente visíveis desses componentes e as relações entre eles
 COESÃO =
 
-# DIVISÃO DE
+## DIVISÃO DE
 
 ACOPLAMENTO =
 
-# DEPENDÊNCIA DE COMPONENTES
+## DEPENDÊNCIA DE COMPONENTES
 
 TIPO DE ACOPLAMENTO | DESCRIÇÃO
 

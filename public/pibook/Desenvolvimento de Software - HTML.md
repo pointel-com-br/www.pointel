@@ -3909,7 +3909,7 @@ Para habilitar o armazenamento de cache, você precisa criar um arquivo chamado
 "manifesto de cache" e vinculá-lo ao seu HTML usando a tag <html>. O manifesto de cache é um arquivo de texto simples que contém uma lista de arquivos que devem ser armazenados em cache. Aqui está um exemplo de um manifesto de cache:
 CACHE MANIFEST
 
-# versão 1.0
+## versão 1.0
 index.html css/styles.css js/scripts.js images/logo.png
 Em seguida, você precisa adicionar a tag <html> ao seu arquivo HTML e definir o atributo manifest como o caminho para o seu arquivo de manifesto de cache:
 chtml manifest="/cache.manifest">

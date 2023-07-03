@@ -17,7 +17,7 @@ Alguns algoritmos de criptografia simétrica comumente usados incluem:
 
 É importante ressaltar que, embora a criptografia simétrica seja eficaz para proteger a confidencialidade dos dados, ela não fornece autenticação ou garantia de integridade dos dados. Portanto, é comum combinar a criptografia simétrica com outros mecanismos de segurança, como assinaturas digitais ou criptografia assimétrica, para obter um sistema mais completo e seguro.
 
-# Como funciona o algoritmo de criptografia ECB.
+## Como funciona o algoritmo de criptografia ECB.
 
 O algoritmo de criptografia ECB (Electronic Codebook) é um modo de operação utilizado em algoritmos de criptografia de bloco, como o AES (Advanced Encryption Standard). O ECB é um modo de operação simples, onde cada bloco de dados é criptografado independentemente, sem levar em consideração os blocos anteriores ou o contexto.
 
@@ -33,7 +33,7 @@ O processo de criptografia e descriptografia é realizado bloco por bloco, sem c
 
 Devido a essas limitações de segurança e confidencialidade, o modo ECB não é recomendado para o uso geral em criptografia. Modos de operação mais seguros, como CBC (Cipher Block Chaining) ou CTR (Counter Mode), são preferíveis para garantir uma criptografia mais robusta e confiável, especialmente quando se trata de proteger dados sensíveis.
 
-# Como funciona o algoritmo de criptografia CBC.
+## Como funciona o algoritmo de criptografia CBC.
 
 O algoritmo de criptografia CBC (Cipher Block Chaining) é um modo de operação utilizado em algoritmos de criptografia de bloco, como o AES (Advanced Encryption Standard), para garantir a confidencialidade e integridade dos dados. O CBC é um modo de operação que adiciona um elemento de feedback ao processo de criptografia, tornando cada bloco de dados dependente dos blocos anteriores.
 
@@ -65,7 +65,7 @@ A sequência de blocos criptografados resultantes é a saída final da criptogra
 
 O modo CBC é amplamente utilizado devido à sua capacidade de fornecer confidencialidade e integridade dos dados. No entanto, é importante mencionar que o modo CBC não fornece autenticação dos dados, o que significa que ele não pode detectar alterações maliciosas nos blocos de dados. Para fornecer autenticação, é necessário adotar mecanismos adicionais, como o uso de códigos de autenticação de mensagem (MAC) ou assinaturas digitais.
 
-# Como funciona o algoritmo de criptografia AES.
+## Como funciona o algoritmo de criptografia AES.
 
 O algoritmo de criptografia AES (Advanced Encryption Standard) é um dos algoritmos mais amplamente utilizados para criptografar dados. Ele substituiu o antigo algoritmo DES (Data Encryption Standard) devido à sua maior segurança e eficiência. O AES é um algoritmo simétrico de bloco, o que significa que a mesma chave é usada tanto para criptografar quanto para descriptografar os dados. Vamos entender como funciona o algoritmo AES:
 
@@ -95,7 +95,7 @@ O algoritmo de criptografia AES (Advanced Encryption Standard) é um dos algorit
 
 O algoritmo AES é altamente seguro e amplamente adotado em várias aplicações, como segurança de rede, armazenamento criptografado, comunicação segura e muito mais. Sua segurança é baseada na complexidade das operações realizadas em cada rodada e no tamanho da chave utilizada.
 
-# Como funciona o algoritmo de criptografia DES.
+## Como funciona o algoritmo de criptografia DES.
 
 O algoritmo de criptografia DES (Data Encryption Standard) é um dos primeiros e mais amplamente usados algoritmos de criptografia de bloco. No entanto, devido ao avanço da tecnologia e ao aumento da capacidade de processamento dos computadores, o DES foi considerado inseguro e substituído por algoritmos mais fortes, como o AES (Advanced Encryption Standard). No entanto, ainda é útil entender como o DES funciona, já que muitos sistemas legados ainda podem usá-lo.
 
@@ -119,7 +119,7 @@ Aqui está uma explicação de alto nível de como o algoritmo de criptografia D
 
 Apesar de ser um algoritmo pioneiro, o DES é considerado inseguro nos dias de hoje devido ao tamanho curto da chave e aos avanços na capacidade de processamento de computadores. Recomenda-se o uso do AES ou outros algoritmos modernos e mais seguros para proteger os dados sensíveis.
 
-# Como funciona o algoritmo de criptografia 3DES.
+## Como funciona o algoritmo de criptografia 3DES.
 
 O algoritmo de criptografia 3DES (Triple Data Encryption Standard), também conhecido como TDEA, é uma variante do algoritmo DES (Data Encryption Standard) que busca aumentar a segurança através da aplicação repetida do DES. O 3DES usa três chaves diferentes para criptografar os dados em três etapas separadas.
 
@@ -145,7 +145,7 @@ c) Etapa 3: O resultado da etapa 2 é descriptografado novamente usando a chave 
 
 Ao utilizar três etapas de criptografia e descriptografia, o 3DES aumenta significativamente a segurança em relação ao DES original. No entanto, é importante ressaltar que o 3DES ainda possui algumas limitações devido à sua base no DES, como a chave relativamente curta e o tamanho fixo do bloco de dados. Portanto, em aplicações modernas, é recomendado o uso de algoritmos de criptografia mais fortes, como o AES (Advanced Encryption Standard).
 
-# Como funciona o algoritmo de criptografia Blowfish.
+## Como funciona o algoritmo de criptografia Blowfish.
 
 O algoritmo de criptografia Blowfish é um algoritmo de criptografia de bloco simétrico, desenvolvido por Bruce Schneier em 1993. Ele é conhecido por sua eficiência e flexibilidade, podendo operar com chaves de tamanho variável, de 32 a 448 bits.
 
@@ -165,7 +165,7 @@ Aqui está uma explicação de alto nível de como o algoritmo de criptografia B
 
 O algoritmo Blowfish é amplamente utilizado em aplicações que exigem criptografia eficiente e segura. No entanto, assim como qualquer algoritmo de criptografia, é importante utilizar chaves fortes e seguir as melhores práticas de segurança para garantir a proteção adequada dos dados. Além disso, com o avanço da tecnologia, algoritmos mais modernos, como o AES, são recomendados para aplicações que requerem maior segurança.
 
-# Como funciona o algoritmo de criptografia RC4.
+## Como funciona o algoritmo de criptografia RC4.
 
 O algoritmo de criptografia RC4 (Rivest Cipher 4) é um algoritmo de fluxo de cifra simétrica, o que significa que ele criptografa e descriptografa dados em tempo real à medida que são transmitidos. O RC4 é conhecido por sua simplicidade e eficiência, sendo amplamente utilizado em protocolos de segurança, como o SSL/TLS e o WEP (Wired Equivalent Privacy) para redes sem fio.
 
@@ -183,7 +183,7 @@ Aqui está uma visão geral básica de como o algoritmo de criptografia RC4 func
 
 É importante mencionar que o algoritmo RC4 foi encontrado com algumas vulnerabilidades ao longo dos anos, principalmente no uso incorreto ou fraco das chaves. Como resultado, o RC4 é geralmente considerado inseguro para uso em criptografia forte. Recomenda-se utilizar algoritmos mais modernos e seguros, como o AES (Advanced Encryption Standard), em vez do RC4.
 
-# Como funciona o algoritmo de criptografia RC5.
+## Como funciona o algoritmo de criptografia RC5.
 
 O algoritmo de criptografia RC5 (Rivest Cipher 5) é um algoritmo de criptografia de bloco simétrico. Foi proposto por Ronald Rivest em 1994 e é uma evolução do algoritmo RC4. O RC5 é conhecido por sua simplicidade e flexibilidade, permitindo a variação do tamanho do bloco, a quantidade de rodadas e o tamanho da chave.
 
@@ -201,7 +201,7 @@ Aqui está uma visão geral básica de como o algoritmo de criptografia RC5 func
 
 É importante mencionar que, embora o algoritmo RC5 seja considerado seguro, ele não é tão amplamente adotado quanto outros algoritmos de criptografia, como o AES (Advanced Encryption Standard). O AES é atualmente considerado o padrão de criptografia mais forte e amplamente usado.
 
-# Diferenças entre a rede de FEISTEL, disseminada pelo DES, e o algoritmo de RJINDAEL, utilizada pelo AES.
+## Diferenças entre a rede de FEISTEL, disseminada pelo DES, e o algoritmo de RJINDAEL, utilizada pelo AES.
 
 A rede de Feistel é uma estrutura de cifra que foi amplamente utilizada no algoritmo DES (Data Encryption Standard), enquanto o algoritmo Rijndael é a base do AES (Advanced Encryption Standard). Embora ambos sejam algoritmos de criptografia simétrica, existem diferenças significativas entre eles. Aqui estão algumas das principais diferenças:
 

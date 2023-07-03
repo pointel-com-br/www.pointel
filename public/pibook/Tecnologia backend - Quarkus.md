@@ -20,7 +20,7 @@ Algumas das principais características e benefícios do Quarkus são:
 
 Em resumo, o Quarkus é uma tecnologia backend moderna e eficiente, especialmente adequada para o desenvolvimento de aplicativos Java nativos da nuvem. Ele oferece recursos de alto desempenho, baixo consumo de recursos e suporte nativo a contêineres, permitindo que os desenvolvedores criem aplicativos escaláveis e resilientes para ambientes de nuvem.
 
-# O que é o Quarkus?
+## O que é o Quarkus?
 
 Publicado em 13 de janeiro de 2020 * Leitura de %t minutos
 

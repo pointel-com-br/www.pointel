@@ -23,7 +23,7 @@ Práticas comuns no design de interface e experiência do usuário incluem:
 
 Ao combinar o design de interface e a experiência do usuário de forma eficaz, é possível criar produtos digitais que sejam visualmente atraentes, intuitivos, fáceis de usar e que atendam às necessidades e expectativas dos usuários.
 
-# Design de Experiência do Usuário (UX) - Writing
+## Design de Experiência do Usuário (UX) - Writing
 
 Writing é uma parte essencial do design de experiência do usuário (UX) e desempenha um papel fundamental na comunicação efetiva com os usuários. A escrita no contexto de UX refere-se ao uso de palavras, frases e textos para transmitir informações, orientar os usuários e fornecer uma experiência clara e envolvente.
 

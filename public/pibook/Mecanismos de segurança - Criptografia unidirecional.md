@@ -18,7 +18,7 @@ Os principais usos da criptografia unidirecional são:
 
 É importante ressaltar que, embora a criptografia unidirecional seja útil para garantir a integridade dos dados, ela não fornece confidencialidade, ou seja, não protege os dados contra acesso não autorizado. Para proteger os dados em trânsito ou em repouso, é necessário utilizar mecanismos de criptografia simétrica ou assimétrica.
 
-# Mecanismos de segurança - Criptografia unidirecional - Confidencialidade.
+## Mecanismos de segurança - Criptografia unidirecional - Confidencialidade.
 
 Peço desculpas por qualquer confusão anterior. A criptografia unidirecional, também conhecida como função hash, não é usada para fornecer confidencialidade dos dados. Em vez disso, ela é usada principalmente para garantir a integridade dos dados e verificar a autenticidade das mensagens.
 
@@ -30,7 +30,7 @@ Por outro lado, a criptografia assimétrica, também conhecida como criptografia
 
 Ambos os mecanismos de criptografia simétrica e assimétrica podem ser usados para garantir a confidencialidade dos dados durante o armazenamento, transmissão ou processamento. No entanto, é importante selecionar algoritmos de criptografia seguros e seguir boas práticas de implementação para garantir a efetividade desses mecanismos de segurança.
 
-# Mecanismos de segurança - Criptografia unidirecional - Integridade.
+## Mecanismos de segurança - Criptografia unidirecional - Integridade.
 
 Peço desculpas novamente por qualquer confusão anterior. O mecanismo de segurança da criptografia unidirecional é usado principalmente para garantir a integridade dos dados, não a confidencialidade.
 
@@ -42,7 +42,7 @@ A criptografia unidirecional é amplamente utilizada em aplicações para verifi
 
 É importante destacar que a criptografia unidirecional não fornece confidencialidade dos dados, ou seja, não os protege contra acesso não autorizado. Para proteger a confidencialidade dos dados, são necessários mecanismos adicionais, como a criptografia simétrica ou assimétrica, conforme mencionado anteriormente.
 
-# Mecanismos de segurança - Criptografia unidirecional - Autenticidade.
+## Mecanismos de segurança - Criptografia unidirecional - Autenticidade.
 
 Peço desculpas novamente por qualquer confusão anterior. A criptografia unidirecional, ou função hash, não é usada especificamente para garantir a autenticidade dos dados. No entanto, ela pode ser usada como parte de um processo de verificação de autenticidade.
 
@@ -52,7 +52,7 @@ Um exemplo comum de uso da criptografia unidirecional para verificar a autentici
 
 No entanto, é importante ressaltar que a autenticidade de um dado vai além da simples aplicação de uma função hash. Ela envolve a garantia de que os dados realmente vêm de uma fonte confiável e não foram modificados durante a transmissão ou armazenamento. Para isso, são necessários mecanismos adicionais, como a infraestrutura de chave pública (PKI) e certificados digitais, que permitem verificar a identidade do remetente e garantir a integridade dos dados.
 
-# Como funciona o algoritmo de criptografia unidirecional MD5.
+## Como funciona o algoritmo de criptografia unidirecional MD5.
 
 O algoritmo de criptografia unidirecional MD5 (Message Digest Algorithm 5) é uma função hash criptográfica que produz um resumo de 128 bits (16 bytes) de um dado de entrada. Ele foi desenvolvido por Ronald Rivest em 1991 e é amplamente utilizado para verificar a integridade de dados e senhas.
 
@@ -72,7 +72,7 @@ Aqui está um resumo de como funciona o algoritmo de criptografia unidirecional 
 
 O uso mais comum do MD5 hoje em dia é para verificação de integridade de arquivos, onde o hash MD5 do arquivo é calculado e comparado com um valor conhecido para garantir que o arquivo não foi alterado. No entanto, não é recomendado usar o MD5 para senhas, autenticação ou outras aplicações que exigem segurança robusta.
 
-# Como funciona o algoritmo de criptografia unidirecional SHA-1.
+## Como funciona o algoritmo de criptografia unidirecional SHA-1.
 
 O algoritmo de criptografia unidirecional SHA-1 (Secure Hash Algorithm 1) é uma função hash criptográfica que produz um resumo de 160 bits (20 bytes) de um dado de entrada. Foi projetado por Ronald Rivest em 1995 como parte da família de algoritmos SHA.
 
@@ -92,7 +92,7 @@ Aqui está um resumo de como funciona o algoritmo de criptografia unidirecional 
 
 O uso mais comum do SHA-1 foi em aplicações como integridade de dados, assinaturas digitais e autenticação. No entanto, devido às suas vulnerabilidades, é recomendado migrar para algoritmos mais seguros para garantir a integridade e segurança dos dados.
 
-# Como funciona o algoritmo de criptografia unidirecional SHA-3.
+## Como funciona o algoritmo de criptografia unidirecional SHA-3.
 
 O algoritmo de criptografia unidirecional SHA-3 (Secure Hash Algorithm 3) é uma função hash criptográfica que pertence à família de algoritmos SHA. Ele foi projetado para substituir os algoritmos SHA-1 e SHA-2, que apresentaram algumas vulnerabilidades ao longo dos anos.
 
@@ -114,7 +114,7 @@ O algoritmo SHA-3 é considerado seguro e resistente a ataques criptográficos c
 
 O SHA-3 foi selecionado como o vencedor de um concurso público, promovido pelo NIST (National Institute of Standards and Technology), para o novo algoritmo hash padrão. Ele foi publicado em 2015 e é conhecido oficialmente como Keccak, embora seja mais comumente referido como SHA-3.
 
-# Como funciona o algoritmo de criptografia unidirecional SHA-256.
+## Como funciona o algoritmo de criptografia unidirecional SHA-256.
 
 O algoritmo de criptografia unidirecional SHA-256 (Secure Hash Algorithm 256 bits) é uma função hash criptográfica que faz parte da família SHA-2 (Secure Hash Algorithm 2). Ele é amplamente utilizado para calcular hashes de mensagens e garantir a integridade dos dados.
 

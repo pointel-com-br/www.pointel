@@ -16,7 +16,7 @@ O Nginx é um servidor web e proxy reverso de alto desempenho. Ele foi criado pa
 
 O Nginx é amplamente utilizado como servidor web e proxy reverso em uma variedade de cenários, desde hospedagem de sites estáticos até aplicativos da web de alto desempenho. Sua combinação de leveza, desempenho e recursos avançados o torna uma escolha popular para muitos desenvolvedores e administradores de sistemas.
 
-# Servidor web e de aplicação - Nginx - Configuração HTTPS.
+## Servidor web e de aplicação - Nginx - Configuração HTTPS.
 
 Para configurar o HTTPS no servidor web Nginx, você precisa seguir alguns passos. Aqui está uma breve descrição de como configurar o HTTPS usando o Nginx:
 
@@ -53,7 +53,7 @@ Lembre-se de substituir `seu_dominio.com` pelo seu próprio domínio e os caminh
 
 Após seguir essas etapas, seu servidor Nginx estará configurado para usar o HTTPS. Certifique-se de que as portas 443 (HTTPS) estejam abertas em seu firewall e que seu domínio esteja apontando para o IP correto do servidor.
 
-# Servidor web e de aplicação - Nginx - Configurar como balanceador de carga HTTP.
+## Servidor web e de aplicação - Nginx - Configurar como balanceador de carga HTTP.
 
 Para configurar o Nginx como um balanceador de carga HTTP, você pode usar o recurso de proxy reverso do Nginx. Aqui está uma breve descrição de como configurar o Nginx como um balanceador de carga:
 
@@ -99,7 +99,7 @@ alterações no arquivo de configuração, reinicie o servidor Nginx para aplica
 
 Você também pode ajustar as configurações adicionais do balanceador de carga, como o algoritmo de balanceamento de carga, o controle de sessão e as configurações de proxy reverso, conforme necessário. O Nginx oferece uma variedade de recursos poderosos para personalizações.
 
-# Parâmetros que o servidor nginx aceita com -s.
+## Parâmetros que o servidor nginx aceita com -s.
 
 No contexto do servidor web Nginx, o parâmetro `-s` é usado para enviar comandos para o processo principal do Nginx. Ele permite controlar o comportamento do servidor sem precisar reiniciar ou recarregar a configuração completa.
 
@@ -121,7 +121,7 @@ nginx -s reload
 
 Certifique-se de ter permissões suficientes para enviar comandos para o processo principal do Nginx, pois geralmente é necessário executar o comando como usuário root ou usar o sudo.
 
-# Parâmetros de linha de comando.
+## Parâmetros de linha de comando.
 
 O nginx suporta os seguintes parâmetros de linha de comando:
 
@@ -150,7 +150,7 @@ reopen — reabrir arquivos de log
 
 -V — imprima a versão do nginx, a versão do compilador e configure os parâmetros.
 
-# Métodos de balanceamento de carga no Nginx.
+## Métodos de balanceamento de carga no Nginx.
 
 O Nginx é um servidor web de alto desempenho e pode ser usado como um balanceador de carga para distribuir o tráfego entre vários servidores backend. Existem diferentes métodos de balanceamento de carga disponíveis no Nginx, incluindo:
 
@@ -239,7 +239,7 @@ http {
 
 Esses são apenas alguns exemplos de métodos de balanceamento de carga disponíveis no Nginx. A escolha do método adequado depende dos requisitos e da infraestrutura do seu aplicativo. Você pode encontrar mais detalhes na documentação oficial do Nginx.
 
-# Funcionamento do worker_processes e do worker_connections no Nginx.
+## Funcionamento do worker_processes e do worker_connections no Nginx.
 
 No Nginx, as configurações `worker_processes` e `worker_connections` controlam a maneira como os processos e conexões são gerenciados pelo servidor.
 
@@ -266,7 +266,7 @@ No Nginx, as configurações `worker_processes` e `worker_connections` controlam
 
 É importante ajustar essas configurações de acordo com o ambiente e a carga esperada do seu servidor Nginx. Monitorar o desempenho do servidor e realizar testes de carga pode ajudar a determinar os valores ideais para obter o melhor desempenho e a capacidade de lidar com a carga de solicitações de forma eficiente.
 
-# Escolhendo um Método de Balanceamento de Carga.
+## Escolhendo um Método de Balanceamento de Carga.
 
 O NGINX Open Source suporta quatro métodos de balanceamento de carga, e o NGINX Plus adiciona mais dois métodos:
 

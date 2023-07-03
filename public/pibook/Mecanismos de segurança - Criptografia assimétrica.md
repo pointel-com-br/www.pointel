@@ -21,7 +21,7 @@ Alguns algoritmos de criptografia assimétrica comumente usados incluem:
 
 A criptografia assimétrica é frequentemente combinada com a criptografia simétrica para obter uma solução de segurança mais robusta. Ela é amplamente utilizada em diversos cenários, como comunicação segura na Internet, autenticação de usuários, troca segura de chaves e garantia da integridade dos dados.
 
-# Como funciona o algoritmo de criptografia assimétrica DH.
+## Como funciona o algoritmo de criptografia assimétrica DH.
 
 O algoritmo de criptografia assimétrica Diffie-Hellman (DH) é amplamente utilizado para estabelecer uma chave de sessão compartilhada entre duas partes que desejam se comunicar de forma segura em um canal inseguro. O DH é um algoritmo de troca de chaves, o que significa que seu objetivo é permitir que duas partes estabeleçam uma chave secreta compartilhada sem que a chave seja transmitida pela rede.
 
@@ -43,7 +43,7 @@ O algoritmo DH é baseado no problema do logaritmo discreto, que é computaciona
 
 O algoritmo DH é amplamente utilizado em criptografia de chave pública, especialmente em protocolos de comunicação segura, como o SSL/TLS. Ele permite que duas partes estabeleçam uma chave de sessão compartilhada sem a necessidade de compartilhar a chave diretamente, tornando a comunicação segura e protegida contra ataques de interceptação e análise criptográfica.
 
-# Como funciona o algoritmo de criptografia assimétrica RSA.
+## Como funciona o algoritmo de criptografia assimétrica RSA.
 
 O algoritmo de criptografia assimétrica RSA (Rivest-Shamir-Adleman) é amplamente utilizado para criptografia e assinatura digital. Ele envolve o uso de um par de chaves, uma chave pública e uma chave privada, que são geradas juntas, mas têm propriedades matemáticas específicas que garantem sua segurança.
 
@@ -63,7 +63,7 @@ O algoritmo RSA é baseado na dificuldade de fatorar números inteiros grandes e
 
 O RSA é amplamente utilizado em sistemas de segurança, como criptografia de dados, assinaturas digitais, autenticação e troca segura de chaves. É um dos algoritmos de criptografia assimétrica mais conhecidos e amplamente adotados na prática.
 
-# Como funciona o algoritmo de criptografia assimétrica HMAC.
+## Como funciona o algoritmo de criptografia assimétrica HMAC.
 
 O algoritmo HMAC (Hash-based Message Authentication Code) é uma forma de criptografia assimétrica que combina funções hash criptográficas e chaves secretas para autenticar a integridade e a autenticidade de dados transmitidos. Ele é amplamente utilizado para verificar a integridade de mensagens e proteger contra ataques de falsificação ou modificação de dados.
 
@@ -85,7 +85,7 @@ O HMAC oferece uma forte garantia de integridade e autenticidade dos dados, pois
 
 É importante ressaltar que o HMAC não fornece confidencialidade dos dados, ou seja, não criptografa a mensagem em si. Ele apenas garante a integridade e autenticidade dos dados transmitidos. Se você precisar de confidencialidade, é necessário utilizar criptografia adicional, como criptografia simétrica ou criptografia assimétrica.
 
-# Como funciona o algoritmo de criptografia assimétrica ECDSA.
+## Como funciona o algoritmo de criptografia assimétrica ECDSA.
 
 O ECDSA (Elliptic Curve Digital Signature Algorithm) é um algoritmo de criptografia assimétrica baseado em curvas elípticas. Ele é usado principalmente para assinaturas digitais, permitindo a verificação da autenticidade e integridade de dados, bem como a não repúdio das mensagens.
 
@@ -127,7 +127,7 @@ g) Derivação da coordenada x: O destinatário obtém a coordenada "x" do ponto
 
 h) Verificação da assinatura: A assinatura é considerada válida se o valor "r" calculado anterior
 
-# Como se garante o não repúdio com a criptografia assimétrica
+## Como se garante o não repúdio com a criptografia assimétrica
 
 A criptografia assimétrica, também conhecida como criptografia de chave pública, é uma técnica que utiliza um par de chaves: uma chave pública e uma chave privada. A chave pública é usada para criptografar os dados e a chave privada correspondente é usada para descriptografar os dados.
 

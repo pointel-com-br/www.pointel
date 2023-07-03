@@ -142,7 +142,14 @@ def adjust_marked_broken_lines(text):
 
 
 def adjust_marked_temp(text):
-    print('Ajustando marcado - processo temporários...')
+    print('Ajustando marcado - processos temporários...')
+    inside_block = False
+    for i, line in enumerate(text):
+        test = line.strip()
+        if test.startswith("```"):
+            inside_block = not inside_block
+        elif not inside_block and i > 0 and line.startswith("# "):
+            text[i] = "#" + text[i]
     return text
 
 
@@ -250,6 +257,7 @@ def adjust_text_code_blocks(text):
 
 
 def adjust_text_temp(text):
+    print('Ajustando texto - processos temporários...')
     return text
 
 

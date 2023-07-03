@@ -44,7 +44,7 @@ print(type(df))
 <class 'pandas.core.frame.DataFrame'>
 
 A função type é útil quando você começa a trabalhar com muitos tipos diferentes de objetos Python e precisa saber em qual objeto está trabalhando no momento. O conjunto de dados que carregamos está atualmente salvo como um objeto DataFrame do Pandas e é relativamente pequeno. Cada objeto DataFrame tem um atributo shape que nos dará o número de linhas e colunas do DataFrame.
-# a função pega o número de linhas e colunas do DataFrame print(df.shape)
+## a função pega o número de linhas e colunas do DataFrame print(df.shape)
 (1704,6)
 
 O atributo shape retorna uma tupla em que o primeiro valor é o número de linhas e o segundo número é o número de colunas. A partir dos resultados anteriores, vemos que nosso conjunto de dados Estratégia tem 1.704 linhas e 6 colunas. Como shape é um atributo do Dataframe e não uma função ou método, ele não tem parênteses após o ponto. Se você cometeu o erro de colocar parênteses após o atributo shape, ele retornaria um erro.
@@ -52,11 +52,11 @@ Visualização e inspeção de dados
 
 Agora que já carregamos nosso primeiro conjunto de dados vamos olhar para algumas funções que podem ser úteis. Além do df.head() para apresentar as primeiras linhas de um data frame, podemos usar o df.tail() para apresentar as últimas linhas. Outra função interessante é o df.info() que exibe o índice o tipo de dados e as informações de memória.
 Um comando muito útil é df.describe() insere estatísticas de resumo para colunas numéricas. Também é possível obter as seguintes estatísticas sobre todo o data frame ou série(uma coluna):
-# Para retornar a média de todas as colunas:
+## Para retornar a média de todas as colunas:
 
 df.mean()
 
-# Para retornar a correlação entre colunas em um quadro de dados:
+## Para retornar a correlação entre colunas em um quadro de dados:
 df.corr()
 
 #Para retornar o número de valores não nulos em cada coluna do

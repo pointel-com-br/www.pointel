@@ -18,7 +18,7 @@ Alguns dos principais recursos e benefícios do Spring Boot são:
 
 Em resumo, o Spring Boot é uma tecnologia backend poderosa e popular para o desenvolvimento de aplicativos Java. Ele simplifica o processo de criação de aplicativos robustos, escaláveis e altamente produtivos, oferecendo configuração automática, recursos prontos para produção e integração com o ecossistema Spring. O Spring Boot é amplamente adotado pela comunidade Java devido à sua facilidade de uso e produtividade.
 
-# Principais anotações no SpringBoot
+## Principais anotações no SpringBoot
 
 No Spring Boot, as anotações desempenham um papel fundamental no desenvolvimento de aplicativos. Aqui estão algumas das principais anotações utilizadas no Spring Boot:
 

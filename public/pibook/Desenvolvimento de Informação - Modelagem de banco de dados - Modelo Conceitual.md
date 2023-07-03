@@ -604,7 +604,7 @@ As convenções básicas estão ilustradas na figura abaixo. Tipos de entidade s
 
 EMPREGADO
 
-# * NumEmp
+## * NumEmp
 
 * NomeEmp o FoneEmp
 \ 7

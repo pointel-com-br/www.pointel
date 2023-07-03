@@ -1608,7 +1608,7 @@ echo $i;
 
 Comentários podem ser feitos com // (Tal como C e C++), # ou /* ... */ (Para blocos de comentário)
 // comentário
-# comentário
+## comentário
 
 /* Comentário
 

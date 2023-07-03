@@ -25,7 +25,7 @@ Neste capítulo, são previstas as sanções e penalidades para o descumprimento
 
 É importante destacar que este resumo não substitui a leitura completa da Lei Geral de Proteção de Dados Pessoais (LGPD) e que a interpretação e aplicação da lei podem variar. Recomenda-se consultar o texto legal completo e buscar orientação jurídica especializada para obter informações mais detalhadas e atualizadas sobre a LGPD.
 
-# Quando a LGPD permite o tratamento de dados sensíveis sem o consentimento do titular?
+## Quando a LGPD permite o tratamento de dados sensíveis sem o consentimento do titular?
 
 De acordo com a Lei Geral de Proteção de Dados (LGPD) do Brasil, o tratamento de dados sensíveis geralmente requer o consentimento expresso do titular dos dados. No entanto, existem algumas situações em que o tratamento de dados sensíveis é permitido mesmo sem o consentimento do titular. São elas:
 

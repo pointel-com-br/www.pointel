@@ -1071,7 +1071,7 @@ frutas *
 
 print(tuplal)
 
-# imprime ('maçã', 'banana', 'laranja', 'maçã', 'banana', 'laranja')
+## imprime ('maçã', 'banana', 'laranja', 'maçã', 'banana', 'laranja')
 Python possui dois métodos integrados que você pode usar em tuplas.
 
 MÉTODO DESCRIÇÃO
@@ -1653,11 +1653,11 @@ minhafuncao(listadeprofessores)
 Para permitir que uma função retorne um valor, use a instrução return def funcao(x):return 5 * x print(funcao(3))print(funcao(5))
 print(funcao(9))
 
-# imprime 15
+## imprime 15
 
-# imprime 25
+## imprime 25
 
-# imprime 45
+## imprime 45
 
 Python também aceita funções recursivas, o que significa que uma função definida pode chamar a si mesma. A recursão é um conceito matemático e de programação comum. Isso tem a vantagem de significar que você pode percorrer os dados para chegar a um resultado.
 O desenvolvedor deve ter muito cuidado com a recursão, pois pode ser muito fácil escrever uma função que nunca termina, ou uma que usa quantidades excessivas de memória ou poder do

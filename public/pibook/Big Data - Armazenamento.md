@@ -18,7 +18,7 @@ Além disso, é comum usar técnicas de particionamento e replicação de dados 
 
 É importante destacar que o armazenamento de Big Data vai além de apenas escolher uma tecnologia específica. É necessário projetar uma arquitetura de armazenamento adequada, considerando requisitos de escalabilidade, desempenho, segurança, integridade e conformidade com as regulamentações aplicáveis.
 
-# Big Data - Armazenamento - Hadoop HDFS
+## Big Data - Armazenamento - Hadoop HDFS
 
 O Hadoop Distributed File System (HDFS) é uma tecnologia amplamente utilizada para o armazenamento de dados em ambientes de Big Data. É parte integrante do ecossistema Hadoop e foi projetado para lidar com grandes volumes de dados de forma escalável e confiável. Aqui estão alguns aspectos importantes do HDFS:
 

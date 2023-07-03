@@ -544,21 +544,21 @@ o O parâmetro listen_addresses especifica qual o range de endereços IP é poss
 
 * Adicionar a seguinte linha como a primeira linha do arquivo pg_hba.conf,
 para permitir o acesso a todos os bancos de dados para todos os usuários, utilizando uma senha criptografada:
-# TYPE DATABASE USER CIDR-ADDRESS METHOD
+## TYPE DATABASE USER CIDR-ADDRESS METHOD
 
 host all all 0.0.0.0/0 md5
 
 A autenticação do cliente é controlada por um arquivo de configuração, que tradicionalmente é chamado pg_hba.conf e é armazenado no diretório de dados raiz do banco de dados(HBA significa autenticação baseada em host). Um arquivo pg_hba.conf padrão é criado quando o diretório de dados é inicializado pelo initdb.
 O formato geral do arquivo pg_hba.conf é um conjunto de registos, um por linha. As linhas em branco são ignoradas, assim como qualquer texto após o caractere de comentário #.Os registros não podem ter mais de uma linha. Um registro é constituído por um número de campos que são separados por espaços e/ou tabulação. Os campos podem conter espaços em branco, se o valor do campo for colocado entre aspas.
 Cada registro especifica um tipo de conexão, uma faixa de endereço IP de cliente (se for relevante para o tipo de conexão), um nome de banco de dados, um nome de usuário,bem como o método de autenticação a ser usado para conexões que utilizam estes parâmetros. O primeiro registro com os seguintes dados: tipo de correspondência de conexão, endereço do cliente, banco de dados solicitado e nome de usuário é usado para executar a autenticação. Não há nenhuma possibilidade de múltiplas tentativas, ou seja,se um registro é escolhido e a autenticação falhar, os registros subsequentes não são considerados. Se nenhum registro coincide, o acesso é negado. Abaixo temos um exemplo do arquivo:
-# TYPE DATABASE USER ADDRESS
+## TYPE DATABASE USER ADDRESS
 METHOD
 
 host all all
 192.168.54.1/32 reject host all all0.0.0.0/0 gss
 
 Perceba que a ordem pela qual as regras são listadas no pg_hba.conf arquivo é importante.A primeira regra que satisfaz a lógica é aplicada e as outras são ignoradas. Cada regra é considerada em sequência até que uma regra possa ser disparada ou a tentativa de acesso seja rejeitada, especificamente, pelo uso do método reject. (falaremos dos métodos de acesso mais adiante). Vamos retomara a linha que foi adicionada ao arquivo pg_hba.conf:
-# TYPE DATABASE USER
+## TYPE DATABASE USER
 
 host all all
 
@@ -1205,12 +1205,12 @@ CREATE DATABASE nome
 
 Vejamos um questão sobre o assunto ...
 
-# define o nome do banco de dados
+## define o nome do banco de dados
 
-# define o nome da role que vai possuir o banco de dados.
+## define o nome da role que vai possuir o banco de dados.
 
-# define o nome do modelo a partir do qual será criado o novo BD
-# define a codificação do conjunto de caracteres
+## define o nome do modelo a partir do qual será criado o novo BD
+## define a codificação do conjunto de caracteres
 
 I»
 
@@ -3659,13 +3659,13 @@ Comentário: Vamos comentar cada uma das alternativas acima:
 O certo seria postgresql.conf. Sendo assim, a alternativa está incorreta! (A
 banca inicialmente tinha dado o gabarito como correto e, em seguida anulou a questão por conta deste equívoco.)
 72. O arquivo pg_hba.conf indicará ao PostgreSQL como autenticar usuários que fazem acesso ao banco de dados. Em geral, as entradas do arquivo pg_hba.conf têm o seguinte layout:
-# local DATABASE USER METHOD [OPTIONS]
+## local DATABASE USER METHOD [OPTIONS]
 
-# host DATABASE USER ADDRESS METHOD [OPTIONS]
+## host DATABASE USER ADDRESS METHOD [OPTIONS]
 
-# hostssl DATABASE USER ADDRESS METHOD [OPTIONS]
+## hostssl DATABASE USER ADDRESS METHOD [OPTIONS]
 
-# hostnossl DATABASE USER ADDRESS METHOD [OPTIONS]
+## hostnossl DATABASE USER ADDRESS METHOD [OPTIONS]
 
 Vejamos alguns exemplos de regras que podem estar registradas em um arquivo pg_hba.conf:
 #TYPE DATABASE USER ADDRESS METHOD
@@ -3840,7 +3840,7 @@ c) postmaster.opts.
 d) pg_ctl.
 
 Comentário: Como vimos na aula, o formato geral do arquivo pg_hba.conf é um conjunto de registros, um por linha. Cada registro especifica um tipo de conexão, uma faixa de endereço IP de cliente (se for relevante para o tipo de conexão), um nome de banco de dados, um nome de usuário, bem como o método de autenticação a ser usado para conexões que utilizam estes parâmetros. O primeiro registro com os seguintes dados: tipo de correspondência de conexão, endereço do cliente, banco de dados solicitado e nome de usuário é usado para executar a autenticação. Abaixo temos um exemplo do arquivo:
-# TYPE DATABASE
+## TYPE DATABASE
 
 host all host all
 Gabarito: I

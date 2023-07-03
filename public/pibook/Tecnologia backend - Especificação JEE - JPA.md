@@ -20,7 +20,7 @@ Aqui estão alguns conceitos e recursos chave relacionados à JPA:
 
 A JPA simplifica o desenvolvimento de aplicativos que requerem acesso a um banco de dados relacional, permitindo que você trabalhe com objetos Java em vez de lidar diretamente com consultas SQL e operações de banco de dados. Ela abstrai os detalhes de baixo nível do mapeamento objeto-relacional e fornece uma API consistente e padronizada para interagir com o banco de dados.
 
-# Estados de uma entidade do JPA no JavaEE
+## Estados de uma entidade do JPA no JavaEE
 
 No contexto do JPA (Java Persistence API) no Java EE, uma entidade pode ter diferentes estados durante seu ciclo de vida. Esses estados são definidos pela especificação JPA e são os seguintes:
 

@@ -16,7 +16,7 @@ JavaScript é uma linguagem de programação de alto nível, interpretada e orie
 
 JavaScript desempenha um papel fundamental no desenvolvimento web moderno. Sua capacidade de criar interatividade e dinamismo nas páginas da web, juntamente com seu suporte em ambientes cliente e servidor, torna-o uma linguagem essencial para desenvolvedores web. Com sua ampla adoção e recursos avançados, JavaScript permite a criação de experiências interativas e envolventes na web.
 
-# Linguagem de programação - JavaScript - Lista das 10 principais funções com Strings
+## Linguagem de programação - JavaScript - Lista das 10 principais funções com Strings
 
 Aqui estão as 10 principais funções para manipulação de strings em JavaScript:
 
@@ -82,7 +82,7 @@ console.log(texto.split(" ")); // Saída: ["Olá,", "mundo!"]
 
 Essas são 10 das principais funções para manipulação de strings em JavaScript. No entanto, a linguagem possui muitas outras funções e métodos úteis para trabalhar com strings, dependendo do cenário de programação em que você está envolvido.
 
-# Linguagem de programação - JavaScript - Lista das principais funções para verificações de Strings
+## Linguagem de programação - JavaScript - Lista das principais funções para verificações de Strings
 
 Aqui estão algumas das principais funções em JavaScript para realizar verificações em strings:
 
@@ -144,7 +144,7 @@ console.log(isNaN("abc")); // Saída: true
 
 Essas são algumas das principais funções em JavaScript para realizar verificações em strings. Existem muitas outras funções e métodos disponíveis para manipulação e verificação de strings na linguagem, dependendo das necessidades específicas do seu código.
 
-# Linguagem de programação - JavaScript - Como usar o map e o filter.
+## Linguagem de programação - JavaScript - Como usar o map e o filter.
 
 Em JavaScript, as funções `map()` e `filter()` são métodos de array muito úteis para trabalhar com listas de elementos e aplicar transformações ou filtrar os elementos com base em determinados critérios. Aqui está como usá-los:
 
@@ -181,7 +181,7 @@ Neste exemplo, o `filter()` é usado para criar um novo array chamado `pares`, q
 
 Ambos `map()` e `filter()` são métodos poderosos para manipular arrays em JavaScript. Eles permitem que você transforme os elementos de um array ou filtre-os com facilidade, respectivamente. Além disso, esses métodos são não-destrutivos, ou seja, eles não modificam o array original, mas retornam um novo array com os resultados.
 
-# Como são feitos testes unitários em JavaScript.
+## Como são feitos testes unitários em JavaScript.
 
 Os testes unitários em JavaScript podem ser feitos usando frameworks de teste populares, como Jest, Mocha, Jasmine e QUnit. Esses frameworks fornecem uma estrutura para escrever e executar testes automatizados no ambiente JavaScript. Aqui está um exemplo básico de como criar e executar testes unitários em JavaScript usando o Jest:
 
@@ -212,7 +212,7 @@ Ao executar os testes, você verá os resultados indicando se cada teste passou 
 
 Essas são as etapas básicas para escrever testes unitários em JavaScript usando o Jest. Cada framework de teste tem sua própria sintaxe e recursos específicos, mas a ideia geral é a mesma: definir funções de teste, executá-las e verificar se os resultados estão corretos usando asserções. Você pode explorar recursos avançados desses frameworks, como testes assíncronos, mocks e spies, para lidar com casos de teste mais complexos.
 
-# Quais os tipos de laços de repetição do JavaScript
+## Quais os tipos de laços de repetição do JavaScript
 
 O JavaScript oferece várias formas de criar laços de repetição, permitindo que você execute blocos de código repetidamente. Abaixo estão os tipos de laços de repetição disponíveis em JavaScript:
 

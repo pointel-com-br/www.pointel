@@ -18,7 +18,7 @@ As páginas JSP permitem a mistura de código Java com código HTML, facilitando
 
 É importante notar que, com o avanço das tecnologias web, como o surgimento de frameworks de desenvolvimento mais modernos (por exemplo, Spring Boot), o uso direto de páginas JSP tem diminuído em favor de abordagens mais modernas, como o uso de templates e engines de renderização, como o Thymeleaf ou o AngularJS. No entanto, as páginas JSP ainda são amplamente utilizadas em muitas aplicações legadas JEE.
 
-# Principais tipos de tag de uma página JSP.
+## Principais tipos de tag de uma página JSP.
 
 As páginas JSP (JavaServer Pages) são arquivos HTML misturados com código Java que são executados no servidor para gerar páginas web dinâmicas. Existem várias tags disponíveis no JSP para ajudar no desenvolvimento dessas páginas. Aqui estão alguns dos principais tipos de tags em uma página JSP:
 

@@ -21,7 +21,7 @@ A análise de Pontos de Função envolve os seguintes passos:
 
 A Análise de Pontos de Função é uma técnica amplamente utilizada na engenharia de software para auxiliar na estimativa de tamanho e esforço de desenvolvimento de um projeto. Ela fornece uma medida objetiva e consistente do valor entregue pelo software e pode ser usada como base para estimativas de prazos, custos e recursos necessários.
 
-# Segundo o IFPUG quais são os tipos de contagem de pontos de função?
+## Segundo o IFPUG quais são os tipos de contagem de pontos de função?
 
 Segundo o International Function Point Users Group (IFPUG), existem três tipos de contagem de pontos de função:
 
@@ -33,7 +33,7 @@ Segundo o International Function Point Users Group (IFPUG), existem três tipos 
 
 Esses tipos de contagem de pontos de função são utilizados para medir o tamanho funcional de um software e servem como base para estimar o esforço necessário para desenvolver, manter ou modificar um sistema.
 
-# Segundo o IFPUG quais são os momentos de uma aplicação que podemos fazer uma contagem de pontos de função?
+## Segundo o IFPUG quais são os momentos de uma aplicação que podemos fazer uma contagem de pontos de função?
 
 Segundo o International Function Point Users Group (IFPUG), existem quatro momentos em que é possível fazer a contagem de pontos de função:
 

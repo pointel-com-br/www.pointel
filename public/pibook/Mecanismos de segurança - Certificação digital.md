@@ -26,7 +26,7 @@ O processo de obtenção de um certificado digital envolve os seguintes passos b
 Os certificados digitais são amplamente utilizados em várias aplicações, como autenticação de usuários em serviços online, assinaturas digitais de documentos, criptografia de dados em trânsito (por exemplo, SSL/TLS) e segurança em transações eletrônicas.
 A certificação digital desempenha um papel fundamental na garantia da segurança e confiabilidade das comunicações eletrônicas, fornecendo uma estrutura de confiança para verificar a identidade dos participantes e proteger as informações transmitidas.
 
-# Quais são os papéis das diversas autoridades na certificação digital?
+## Quais são os papéis das diversas autoridades na certificação digital?
 
 No contexto da certificação digital, existem várias autoridades envolvidas, cada uma desempenhando um papel específico. Aqui estão as principais autoridades e seus respectivos papéis:
 

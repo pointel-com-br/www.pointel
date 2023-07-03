@@ -337,17 +337,17 @@ RedHat. Após o download, os arquivos de instalação devem ser colocados na pas
 Após a instalação, é necessário configurar o JBoss/Wildfly como serviço. Não é recomendado iniciá-lo, e deixá-lo configurado com o usuário root, pois isto pode comprometer a segurança de toda a plataforma, já que a plataforma Java oferece APIs para execução de códigos nativos do sistema operacional e mecanismos de gerenciamento remoto.
 O ideal é que no Linux seja criado um usuário com privilégios adequados para iniciar o serviço doJBoss, e no Windows seja criado um usuário com poderes administrativos, mas com privilégios reduzidos. Como as questões de concurso geralmente abordam comandos (para a configuração ou para a administração), vamos dar uma olhada...
 Após a instalação, é necessário criar um grupo:
-# groupadd jboss
+## groupadd jboss
 
 Para adicionar o usuário jboss no grupo jboss:
 
-# useradd -s /bin/bash -d /home/jboss -m -g jboss jboss
+## useradd -s /bin/bash -d /home/jboss -m -g jboss jboss
 
 Na sequência, a criação da estrutura de diretórios para armazenar o JBoss, atribuindo o dono e o grupo "jboss" a essa estrutura:
-# mkdir /EAP_HOME/jboss
+## mkdir /EAP_HOME/jboss
 
-# chown jboss:jboss /EAP_HOME/jboss
-# su jboss
+## chown jboss:jboss /EAP_HOME/jboss
+## su jboss
 
 Depois é necessário configurar a senha para que o usuário utilize na conexão entre o HostController e o Domain Controller. Dando continuidade, agora vamos criar os perfis para o domain controler (master) e para os host controllers (slave), baseados no modo Domain e renomeá-los:
 Spménte 15
@@ -356,8 +356,8 @@ Spménte 15
 
 /
 
-# cp -Rap /EAP_HOME/domain /EAP_HOME/master
-# cp -Rap /EAP_HOME/domain /EAP_HOME/slave01
+## cp -Rap /EAP_HOME/domain /EAP_HOME/master
+## cp -Rap /EAP_HOME/domain /EAP_HOME/slave01
 
 Após a definição do modo (standalone ou domain), é necessário definir um perfil para oJBoss/Wildfly, que é um conjunto de tecnologias ou subsistemas (subsystems) que serão utilizados na aplicação. Essa definição varia conforme os requisitos de cada sistema. O JBoss possui 4 perfis(profiles) por padrão: default, full, ha, full-ha.
 
@@ -409,7 +409,7 @@ En/Disable Remove sample2.war sample2warDaabie Remove
 « 1-1 of1
 
 O deploy também pode realizado feito através da linha de comando, o que propicia maior flexibilidade e facilidade na criação de scdpts de administração. Abaixo um exemplo de deploy para todos os servidores:
-# deploy /path/to/test-application.war —all -server-groups
+## deploy /path/to/test-application.war —all -server-groups
 
 Como já vimos, servidores de aplicação são a interface entre o componente e o sistema operacional específico que o suporta. Antes do componente ser executado no servidor,ele precisa
 
@@ -1351,10 +1351,10 @@ mas agora o foco são arquivos. Exemplo:
 
 <Files "?at.*">
 
-# Aplica-se a cat.html, bat.html, hat.php etc., pois "?" significa um caractere qualquer
-# e * significa qualquer coisa daquela posição em diante
+## Aplica-se a cat.html, bat.html, hat.php etc., pois "?" significa um caractere qualquer
+## e * significa qualquer coisa daquela posição em diante
 
-# Colocar as diretrizes aqui...
+## Colocar as diretrizes aqui...
 
 </Files>
 

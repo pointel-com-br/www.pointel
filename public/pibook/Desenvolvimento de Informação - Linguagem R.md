@@ -524,7 +524,7 @@ Vamos tentar gerar um vetor x que é representado pelo conjunto de 100 observaç
 
 > x <- mvrnorm(n=100, mu, Sigma) # Tenta gerar 100 obs. , mas dá erro!
 Error in mvrnormfn = 100, mu, Sigma) : could not find function "mvrnorm"
-# não foi possível achar a função mvrnorm.
+## não foi possível achar a função mvrnorm.
 
 Para que a função esteja disponível é necessário carregarmos a biblioteca. Já sabemos que para isso devemos usara funçõa library().
 > 1ibrary(MASS) # Carrega pacote
@@ -820,7 +820,7 @@ save.imageO e load()
 
 Para salvar uma cópia da sua área de trabalho você pode utilizar a função save.image():
 
-# salva a área de trabalho no arquivo "aula_linguagemR.RData"
+## salva a área de trabalho no arquivo "aula_linguagemR.RData"
 
 > save.image(file=" aula_linguagemR.RData ")
 
@@ -1177,7 +1177,7 @@ rbind() é a função combina vetor, matriz ou quadro de dados por linhas.
 
 Uma das grandes vantagens de usar uma linguagem de programação é automatizar o seu trabalho ou análise. Você será capaz de realizar grande parte do trabalho utilizando as funções internas do Rou de pacotes de terceiros em um script. Entretanto, você ganha ainda maisflexibilidade e agilidade criando suas próprias funções. Uma função, no R, é definida da seguinte forma:
 nomeDaFuncao <- function(argl, arg2, arg3 = default3, . ..){
-# corpo da função: uma série de cornados válidos.
+## corpo da função: uma série de cornados válidos.
 return(resultado) # opcional
 
 }
@@ -1209,10 +1209,10 @@ A estrutura básica do if() é a seguinte:
 
 if (condicao) {
 
-# comandos que
-# serão rodados
+## comandos que
+## serão rodados
 
-# caso condicao = TRUE
+## caso condicao = TRUE
 
 }
 
@@ -1227,17 +1227,17 @@ A estrutura básica do if() else é a seguinte:
 
 if (condicao) {
 
-# comandos que
-# serão rodados
+## comandos que
+## serão rodados
 
-# caso condicao = TRUE
+## caso condicao = TRUE
 
 } else {
 
-# comandos que
-# serão rodados
+## comandos que
+## serão rodados
 
-# caso condicao = FALSE
+## caso condicao = FALSE
 
 }
 
@@ -1629,7 +1629,7 @@ No código acima temos a apresentação dos dados, os quais foram organizados pe
 Aqui, estamos criando uma tabela para organizar os dados com a função pivot_wider. Essa função agrupa os dados em colunas com incorporando diversos valores para cada registro.
 Ao executar o código acima, temos o seguinte resultado:
 
-# A tibble: : 3 x 4
+## A tibble: : 3 x 4
 
 Ano Al A2 A3
 
