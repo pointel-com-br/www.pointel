@@ -1,4 +1,4 @@
-# Análise e projeto de software - Orientação a Objetos
+# Análise e desenvolvimento de software - Orientação a Objetos
 
 A orientação a objetos é um paradigma de programação que organiza o código em torno de objetos, que são instâncias de classes. Ela se baseia em quatro princípios fundamentais: encapsulamento, herança, polimorfismo e abstração.
 

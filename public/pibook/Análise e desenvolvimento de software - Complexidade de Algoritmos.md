@@ -1,4 +1,4 @@
-# Análise e projeto de software - Complexidade de Algoritmos
+# Análise e desenvolvimento de software - Complexidade de Algoritmos
 
 A análise e o projeto de software envolvem a consideração da complexidade dos algoritmos utilizados em um sistema. A complexidade de um algoritmo é uma medida da quantidade de recursos computacionais necessários para executá-lo. Geralmente, a complexidade é medida em termos de tempo de execução e uso de espaço (memória).
 

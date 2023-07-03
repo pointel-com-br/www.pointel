@@ -1,4 +1,4 @@
-# Análise e projeto de software - Métodos de Ordenação
+# Análise e desenvolvimento de software - Métodos de Ordenação
 
 No desenvolvimento de software, os métodos de ordenação são algoritmos que organizam um conjunto de elementos em uma determinada ordem, como crescente ou decrescente. A ordenação é uma operação comum em muitos tipos de aplicativos, desde classificação de dados em bancos de dados até a organização de listas de itens em interfaces de usuário.
 

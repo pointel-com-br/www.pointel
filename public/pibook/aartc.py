@@ -17,6 +17,7 @@ def adjust_marked_empty_lines(text):
         elif test.startswith("```"):
             result.append(line)
             inside_code_block = True
+            empty = 0
         else:
             test = re.sub(r'\s+', ' ', test)
             if not test:

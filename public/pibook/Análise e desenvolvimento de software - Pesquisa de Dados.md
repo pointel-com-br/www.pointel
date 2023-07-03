@@ -1,4 +1,4 @@
-# Análise e projeto de software - Pesquisa de Dados
+# Análise e desenvolvimento de software - Pesquisa de Dados
 
 No desenvolvimento de software, a pesquisa de dados refere-se à busca eficiente por informações específicas em um conjunto de dados. A pesquisa de dados desempenha um papel fundamental em muitos aplicativos, desde a busca em bancos de dados até a filtragem de resultados em interfaces de usuário.
 
