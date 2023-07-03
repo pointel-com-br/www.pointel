@@ -3,12 +3,13 @@
 SPA (Single Page Application) e PWA (Progressive Web Application) são duas tecnologias amplamente utilizadas no desenvolvimento frontend web para criar experiências de usuário ricas e interativas. Embora compartilhem algumas semelhanças, elas têm finalidades e características distintas. Vamos explorar cada uma delas:
 
 1. SPA (Single Page Application):
+
 - Uma Single Page Application é uma aplicação web que funciona dentro de uma única página, onde o conteúdo da página é dinamicamente atualizado conforme o usuário interage com a aplicação, sem a necessidade de recarregar a página inteira.
 - As SPAs são construídas usando JavaScript, geralmente com frameworks como React, Angular ou Vue.js, que permitem a renderização dinâmica do conteúdo na página.
 - Quando um usuário navega em uma SPA, apenas os dados necessários são solicitados ao servidor, geralmente por meio de APIs RESTful, e a resposta é usada para atualizar a página sem recarregá-la completamente.
 - As SPAs oferecem uma experiência de usuário suave e rápida, sem interrupções entre as transições de página. Elas são amplamente utilizadas para criar aplicativos web complexos, como aplicativos de e-commerce, ferramentas de produtividade e plataformas de mídia social.
 
-2. PWA (Progressive Web Application):
+1. PWA (Progressive Web Application):
 - Uma Progressive Web Application é uma aplicação web que utiliza recursos e tecnologias modernas para fornecer uma experiência semelhante a um aplicativo nativo, mesmo sendo acessada através de um navegador.
 - As PWAs são construídas com HTML, CSS e JavaScript e são projetadas para serem responsivas, confiáveis e envolventes, independentemente do dispositivo ou navegador usado pelo usuário.
 - Uma das principais características das PWAs é a capacidade de serem instaladas e executadas offline. Elas usam Service Workers, um recurso do navegador, para armazenar em cache recursos essenciais e fornecer funcionalidades offline.

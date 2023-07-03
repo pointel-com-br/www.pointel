@@ -28,3 +28,43 @@ Neste exemplo, a regra de estilo define que todos os parágrafos (selecionados p
 7. Transições e animações: O CSS oferece suporte a transições e animações, permitindo criar efeitos de transição suaves e animações interativas em elementos. É possível animar propriedades, como cor, tamanho e posição, utilizando keyframes e especificando a duração, atraso e tipo de animação desejados.
 
 Esses são apenas alguns conceitos básicos relacionados ao CSS. Existem muitos outros recursos e propriedades CSS disponíveis para estilizar e personalizar páginas web de acordo com as necessidades do projeto. O CSS trabalha em conjunto com o HTML e JavaScript para fornecer uma experiência completa de desenvolvimento frontend.
+
+## Quais são os tipos de seletores que temos no CSS?
+
+No CSS, existem vários tipos de seletores que permitem direcionar elementos específicos de uma página HTML. Aqui estão alguns dos principais tipos de seletores no CSS:
+
+1. Seletor de tipo: Seleciona elementos com base no tipo de elemento HTML. Por exemplo, `p` seleciona todos os elementos `<p>`.
+
+2. Seletor de classe: Seleciona elementos com base no valor do atributo `class`. Por exemplo, `.destaque` seleciona todos os elementos com a classe "destaque".
+
+3. Seletor de ID: Seleciona um elemento com base no valor do atributo `id`. Por exemplo, `#header` seleciona o elemento com o ID "header".
+
+4. Seletor de atributo: Seleciona elementos com base em um atributo específico ou em um valor de atributo específico. Por exemplo, `[type="text"]` seleciona todos os elementos com o atributo `type` definido como "text".
+
+5. Seletor descendente: Seleciona elementos que são descendentes diretos ou indiretos de um elemento pai específico. Por exemplo, `div p` seleciona todos os elementos `<p>` que são descendentes diretos de um elemento `<div>`.
+
+6. Seletor de filho direto: Seleciona elementos que são filhos diretos de um elemento pai específico. Por exemplo, `div > p` seleciona todos os elementos `<p>` que são filhos diretos de um elemento `<div>`.
+
+7. Seletor de irmão adjacente: Seleciona o primeiro elemento irmão adjacente de um elemento específico. Por exemplo, `h2 + p` seleciona o primeiro elemento `<p>` que é um irmão adjacente de um elemento `<h2>`.
+
+8. Seletor de pseudoclasse: Seleciona elementos com base em um estado ou condição específica. Por exemplo, `:hover` seleciona um elemento quando o cursor está sobre ele.
+
+9. Seletor universal: Seleciona todos os elementos em uma página. O seletor universal é representado por `*`.
+
+Esses são apenas alguns exemplos dos tipos de seletores disponíveis no CSS. Os seletores no CSS permitem uma ampla gama de possibilidades para direcionar e estilizar elementos específicos em uma página HTML.
+
+## Quais são os tipos de seletores menos usados no CSS?
+
+Embora a utilidade dos seletores possa variar dependendo do contexto e dos requisitos do projeto, alguns dos tipos de seletores menos usados no CSS são:
+
+1. Seletor de atributo com correspondência de prefixo (`[attr^="value"]`): Seleciona elementos com um atributo que começa com um valor específico. Por exemplo, `[class^="btn"]` seleciona elementos com classes que começam com "btn".
+
+2. Seletor de atributo com correspondência de sufixo (`[attr$="value"]`): Seleciona elementos com um atributo que termina com um valor específico. Por exemplo, `[href$=".pdf"]` seleciona elementos com atributos `href` que terminam com ".pdf".
+
+3. Seletor de atributo com correspondência de substring (`[attr*="value"]`): Seleciona elementos com um atributo que contém um valor específico em qualquer posição. Por exemplo, `[src*="image"]` seleciona elementos com atributos `src` que contêm a palavra "image" em qualquer posição.
+
+4. Seletor de linguagem (`:lang(language)`): Seleciona elementos com base na linguagem especificada no atributo `lang`. Por exemplo, `:lang(en)` seleciona elementos com a linguagem definida como "en" (inglês).
+
+5. Seletor de estado de link (`:link` e `:visited`): Seleciona links não visitados (`:link`) e links visitados (`:visited`). Esses seletores podem ser usados para aplicar estilos diferentes a links com base no estado.
+
+É importante ressaltar que a utilização de seletores menos comuns pode variar de acordo com as necessidades específicas de um projeto. Além disso, a evolução contínua das especificações CSS pode introduzir novos seletores e recursos que podem se tornar mais amplamente adotados com o tempo.

@@ -17,3 +17,21 @@ Aqui estão alguns conceitos e recursos importantes relacionados ao Ajax:
 6. Frameworks e bibliotecas: Existem vários frameworks e bibliotecas JavaScript, como jQuery, Axios e Fetch API, que simplificam o uso do Ajax, fornecendo abstrações e métodos convenientes para realizar chamadas assíncronas. Essas ferramentas oferecem uma sintaxe mais simples e recursos adicionais para facilitar o desenvolvimento frontend com Ajax.
 
 O Ajax revolucionou o desenvolvimento web ao permitir a criação de aplicações mais interativas e responsivas. Com ele, é possível buscar dados do servidor de forma assíncrona, atualizar partes específicas da página e melhorar a experiência do usuário.
+
+## Quais os estados do XMLHttpRequest?
+
+O objeto XMLHttpRequest (XHR) é usado em JavaScript para fazer requisições HTTP assíncronas a um servidor web. Durante o ciclo de vida de uma requisição, o objeto XHR passa por vários estados diferentes, que são representados pela propriedade `readyState`. Aqui estão os diferentes estados do XMLHttpRequest:
+
+1. `0 - UNSENT`: O objeto XHR foi criado, mas o método `open()` não foi chamado ainda.
+
+2. `1 - OPENED`: O método `open()` foi chamado. Neste estado, você pode configurar os cabeçalhos da requisição usando o método `setRequestHeader()`.
+
+3. `2 - HEADERS_RECEIVED`: O método `send()` foi chamado e os cabeçalhos da resposta estão disponíveis. Você pode acessar os cabeçalhos da resposta através do método `getAllResponseHeaders()`.
+
+4. `3 - LOADING`: A resposta está sendo recebida. Neste estado, você pode acessar partes da resposta em andamento usando o método `responseText` ou `responseXML`.
+
+5. `4 - DONE`: A operação foi concluída e a resposta está pronta. Neste estado, você pode acessar a resposta completa usando o método `responseText` ou `responseXML`. Além disso, você pode verificar o código de status da resposta usando a propriedade `status`.
+
+Durante o ciclo de vida da requisição, você pode acompanhar esses estados verificando a propriedade `readyState` do objeto XMLHttpRequest. Você também pode adicionar um evento `readystatechange` para ser notificado quando o estado da requisição mudar.
+
+É importante observar que a propriedade `readyState` não é suficiente para determinar se a requisição foi bem-sucedida ou não. É necessário também verificar o código de status da resposta (propriedade `status`) para obter informações adicionais sobre o resultado da requisição.

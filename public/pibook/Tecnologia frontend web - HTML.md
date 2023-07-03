@@ -109,3 +109,47 @@ Certifique-se de substituir `/path/to/` pelo caminho correto em seu servidor.
 Ao adicionar o atributo `manifest` à tag `<html>` e especificar o caminho para o arquivo `manifest.appcache`, você está indicando ao navegador que esse arquivo é o manifesto de cache para o seu site. O navegador usará as informações contidas no manifesto para armazenar em cache os arquivos listados na seção `CACHE` e permitir o acesso offline a esses recursos.
 
 Lembre-se de que o uso do Cache de Aplicativo Web HTML5 está sendo descontinuado em favor das Service Workers e das APIs de Cache de Armazenamento. Recomenda-se explorar essas tecnologias mais recentes para fornecer recursos offline em seus aplicativos da web.
+
+## Quais as principais tags do HTML
+
+O HTML (HyperText Markup Language) possui várias tags que são usadas para estruturar e formatar o conteúdo de uma página da web. Aqui estão algumas das principais tags do HTML:
+
+1. `<html>`: Define o início e o fim de um documento HTML.
+2. `<head>`: Contém informações sobre o documento HTML, como o título, meta informações e referências a arquivos externos.
+3. `<body>`: Contém todo o conteúdo visível da página, como texto, imagens, links e outros elementos.
+4. `<h1>` a `<h6>`: Define os cabeçalhos de nível 1 a 6, onde `<h1>` é o maior e `<h6>` é o menor.
+5. `<p>`: Define um parágrafo de texto.
+6. `<a>`: Cria um link para outra página ou recurso. O atributo `href` especifica o destino do link.
+7. `<img>`: Insere uma imagem na página. O atributo `src` especifica o URL da imagem.
+8. `<ul>` e `<li>`: Cria uma lista não ordenada. Os itens da lista são definidos dentro das tags `<li>`.
+9. `<ol>` e `<li>`: Cria uma lista ordenada. Os itens da lista são definidos dentro das tags `<li>`.
+10. `<div>`: Cria um bloco genérico que pode ser usado para agrupar elementos e aplicar estilos.
+11. `<span>`: Cria um elemento em linha para aplicar estilos ou agrupar elementos em uma linha.
+12. `<table>`, `<tr>`, `<td>`: Cria uma tabela com linhas (`<tr>`) e células (`<td>`).
+13. `<form>`, `<input>`, `<button>`: Cria um formulário com campos de entrada e um botão de envio.
+14. `<header>`, `<nav>`, `<footer>`: Define as seções de cabeçalho, navegação e rodapé de uma página.
+15. `<section>`, `<article>`, `<aside>`: Define seções, artigos e conteúdo relacionado em uma página.
+
+Essas são apenas algumas das principais tags do HTML. Existem muitas outras tags disponíveis para diferentes finalidades, como formatação de texto, inclusão de vídeos, áudio, estilos CSS e muito mais. É importante consultar a documentação oficial do HTML ou recursos adicionais para obter uma lista completa das tags e sua utilização adequada.
+
+## Quais as principais tags do HTML para edição
+
+Se você está se referindo a tags do HTML para criar um editor de texto ou fornecer recursos de edição de texto em um site, aqui estão algumas das principais tags que podem ser usadas:
+
+1. `<textarea>`: Cria uma área de texto editável onde os usuários podem inserir e editar texto.
+2. `<input type="text">`: Cria uma caixa de texto simples onde os usuários podem inserir e editar texto.
+3. `<input type="password">`: Cria uma caixa de texto onde o texto digitado é ocultado, como em campos de senha.
+4. `<input type="email">`: Cria uma caixa de texto para inserir endereços de e-mail, com validação específica para endereços de e-mail.
+5. `<input type="number">`: Cria uma caixa de texto para inserir valores numéricos, com validação específica para números.
+6. `<input type="date">`: Cria um campo para inserir datas, com um seletor de calendário.
+7. `<input type="checkbox">`: Cria uma caixa de seleção que permite aos usuários marcar/desmarcar uma opção.
+8. `<input type="radio">`: Cria botões de opção onde apenas uma opção pode ser selecionada de um grupo de opções.
+9. `<select>` e `<option>`: Cria uma lista suspensa (dropdown) onde os usuários podem selecionar uma opção de um conjunto pré-definido.
+10. `<button>`: Cria um botão que pode ser usado para executar ações, como enviar um formulário ou executar um script.
+11. `<label>`: Associa um rótulo de texto a um elemento de entrada, fornecendo uma descrição ou instrução.
+12. `<strong>` e `<em>`: Aplicam ênfase ao texto, com `<strong>` indicando ênfase forte e `<em>` indicando ênfase enfática.
+13. `<b>` e `<i>`: Aplicam negrito (`<b>`) e itálico (`<i>`) ao texto, respectivamente.
+14. `<u>`: Sublinha o texto.
+15. `<s>`: Aplica uma linha horizontal através do texto, indicando que está riscado.
+
+Essas são apenas algumas das principais tags do HTML que podem ser usadas para recursos de edição de texto em um site. Além dessas, existem várias outras tags e atributos que podem ser explorados dependendo das necessidades específicas de edição de texto em seu projeto.
