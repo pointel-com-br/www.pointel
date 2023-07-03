@@ -16,7 +16,7 @@ C# (pronuncia-se "C sharp") é uma linguagem de programação moderna, orientada
 
 C# é amplamente adotado para o desenvolvimento de aplicativos corporativos, jogos, aplicativos móveis e serviços em nuvem. Sua integração com a plataforma .NET, seu suporte multiplataforma e sua sintaxe familiar tornam-no uma escolha popular para desenvolvedores que buscam uma linguagem poderosa, segura e versátil para construir uma variedade de aplicativos.
 
-## Como são feitos testes unitários em C#.
+## Como são feitos testes unitários em C#
 
 Os testes unitários em C# podem ser feitos usando frameworks de teste populares, como o NUnit, MSTest e xUnit.NET. Esses frameworks fornecem uma estrutura para escrever e executar testes automatizados no ambiente C#. Aqui está um exemplo básico de como criar e executar testes unitários em C# usando o NUnit:
 

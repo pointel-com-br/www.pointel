@@ -3995,7 +3995,7 @@ Julgue o próximo item que trata de CSS, JavaScript e Net Core.
 
 No código abaixo, escrito na linguagem CSS, red é um valor do tipo palavra-chave,
 enquanto
-#f00 é um valor do tipo notação funcional.
+#f00 é um valor do tipo notação funcional
 
 P {
 
@@ -4312,7 +4312,7 @@ e) a:hover {color: #FFOOOO}
 Comentários:
 
 Você pode usar a pseudo-classe ":hover" do CSS para alterar a cor da letra dos links quando o ponteiro do mouse estiver posicionado sobre eles. Nosso gabarito é a alternativa E)a:hover {color:
-#FF0000}. Essa configuração CSS alterará a cor da letra dos links para vermelho quando o ponteiro do mouse estiver posicionado sobre eles. A pseudo-classe ":hover" é usada para selecionar um elemento quando o ponteiro do mouse estiver sobre ele, permitindo que você aplique estilos diferentes a um elemento quando ele estiver em um determinado estado. Além disso, você pode usar outras pseudo-classes, como ":active" e ":visited", para selecionar links em estados diferentes.
+#FF0000}. Essa configuração CSS alterará a cor da letra dos links para vermelho quando o ponteiro do mouse estiver posicionado sobre eles. A pseudo-classe ":hover" é usada para selecionar um elemento quando o ponteiro do mouse estiver sobre ele, permitindo que você aplique estilos diferentes a um elemento quando ele estiver em um determinado estado. Além disso, você pode usar outras pseudo-classes, como ":active" e ":visited", para selecionar links em estados diferentes
 Gabarito: Letra E
 
 11.(FCC -TRF - 4a REGIÃO - 2019) As unidades de medida usadas em CSS para ajudar na responsividade dos sites, que especificam medidas relativas a 1% da largura e 1% da altura da janela do navegador (viewport), são, respectivamente,
@@ -5070,7 +5070,7 @@ Julgue o próximo item que trata de CSS, JavaScript e Net Core.
 
 No código abaixo, escrito na linguagem CSS, red é um valor do tipo palavra-chave,
 enquanto
-#f00 é um valor do tipo notação funcional.
+#f00 é um valor do tipo notação funcional
 
 P {
 

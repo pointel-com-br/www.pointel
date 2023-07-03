@@ -400,7 +400,6 @@ A alternativa (A) está de acordo com o que dispõe o art. 22 do MCI:
 
 A alternativa (B) está incorreta, diante do entendimento de que o Poder Judiciário tem competência para combater a desinformação, podendo determinar a remoção da notícia falsa, a exemplo do que se tem na TPA 39 do STF.
 A alternativa (C) está incorreta, visto que a cláusula contratual não poderia afastar o direito constitucional à inviolabilidade das comunicações. Seria uma cláusula nula:
-.. ..
 
 .
 * ..
@@ -425,7 +424,6 @@ Art. 79 O acesso à internet é essencial ao exercício da cidadania, e ao usuá
 Por fim, a alternativa (E) está incorreta, visto que conversas ocorridas em aplicativos de mensagens estão sim protegidas pelo sigilo telemático:
 ..
 *
-.. ..
 ..
 *
 T
@@ -744,7 +742,6 @@ As alternativas (A), (C), (D) e (E) estão incorretas, visto que o fornecimento 
 r *
 
 ..
-.. ..
 
 Art. 15, § 2? A autoridade policial ou administrativa ou o Ministério
 Público poderão
@@ -774,7 +771,6 @@ E) O Delegado de Polícia, para fazer uso em investigação decorrente de inqué
 Comentários:
 
 A alternativa (A) está incorreta, dada a possibilidade de suspensão de acesso no caso de inadimplemento, isto é, por débito decorrente da utilização da internet:
-.. ..
 
 ..
 
@@ -787,7 +783,6 @@ h .. ..
 ..
 ..
 ..
-.. .. ...
 
 A alternativa (B) está incorreta, ao mencionar vedação expressa do MCI:
 
@@ -799,7 +794,6 @@ j
 
 A alternativa (C) está de acordo com a seguinte regra legal:
 
-.. ..
 ..
 ..
 
@@ -821,7 +815,6 @@ Art. 14. Na provisão de conexão, onerosa ou gratuita, é vedado guardar os reg
 
 1>
 
-.. ..
 ...
 
 Por fim, a alternativa (E) está incorreta. Diante de requisição de autoridade policial, os registros poderão ser guardados por prazo superior a 1 ano:

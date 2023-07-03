@@ -14,7 +14,7 @@ O Apache HTTP Server, comumente conhecido como Apache, é um dos servidores web 
 
 O Apache é amplamente utilizado em uma variedade de cenários, desde hospedagem de sites simples até implantações complexas de aplicativos corporativos. Sua popularidade se deve à sua confiabilidade, flexibilidade e robustez. Ele é uma escolha popular para desenvolvedores e administradores de sistemas que buscam uma solução poderosa e confiável para hospedar seus sites e aplicativos da web.
 
-## Servidor web e de aplicação - Apache - Configuração HTTPS.
+## Servidor web e de aplicação - Apache - Configuração HTTPS
 
 Para configurar o HTTPS no servidor web Apache, você precisa seguir alguns passos. Aqui está uma breve descrição de como configurar o HTTPS usando o Apache:
 
@@ -46,7 +46,7 @@ Certifique-se de substituir `seu_dominio.com` pelo seu próprio domínio e os ca
 
 Após seguir essas etapas, seu servidor Apache estará configurado para usar o HTTPS. Certifique-se de que as portas 443 (HTTPS) estejam abertas em seu firewall e que seu domínio esteja apontando para o IP correto do servidor.
 
-## Servidor web e de aplicação - Apache - Configurar como balanceador de carga HTTP.
+## Servidor web e de aplicação - Apache - Configurar como balanceador de carga HTTP
 
 Para configurar o Apache como um balanceador de carga HTTP, você pode usar o módulo `mod_proxy` e o módulo `mod_proxy_balancer`. Aqui está uma breve descrição de como configurar o Apache como um balanceador de carga:
 

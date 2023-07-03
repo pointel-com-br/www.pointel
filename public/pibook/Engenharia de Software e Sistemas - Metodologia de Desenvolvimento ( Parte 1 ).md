@@ -255,7 +255,7 @@ Um processo de software não pode ser definido de forma universal. Para ser efic
 
 #2. Tecnologia a ser adotada na sua construção (paradigma de desenvolvimento,
 linguagem de programação, mecanismo de persistência, entre outros);
-#2- Organização onde o produto será desenvolvido e a equipe de desenvolvimento alocada(recursos humanos).
+#2- Organização onde o produto será desenvolvido e a equipe de desenvolvimento alocada(recursos humanos)
 
 (TCE/TO - 2009) A escolha do modelo do ciclo de vida não depende de características específicas do projeto, pois o melhor modelo é sempre o mais usado pela equipe do projeto.
 Comentários: um processo de software não pode ser definido de forma universal. Eles devem ser definidos caso a caso,considerando-se diversos aspectos específicos do projeto em questão. Dessa forma, a afirmação não faz 0 menor sentido! Aescolha depende das características do projeto; além disso, não existe um "melhor" modelo (Errado).

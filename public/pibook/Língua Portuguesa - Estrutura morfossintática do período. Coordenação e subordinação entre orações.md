@@ -220,7 +220,6 @@ i "assim que" expressa tempo; "mas" expressa oposição; "portanto" expressa con
 "quando" expressa i tempo.
 fi aG..a..b..a..r.i.t.o...l.e..t.r.a..
 E
-... .
 
 SERPRO - Língua Portuguesa - 2023 (Pós-Edital)
 

@@ -398,7 +398,6 @@ Como representamos árvores? Podemos representar uma árvore como um conjunto de
 r* ..
 ..
 
-.. ..
 
 i (CETAP - 2010 - AL-RR - Analista de Sistemas - A) Uma árvore binária é aquela que tem como conteúdo
 : somente valores binários.

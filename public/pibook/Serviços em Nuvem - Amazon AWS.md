@@ -16,7 +16,7 @@ A Amazon Web Services (AWS) é uma plataforma líder de serviços em nuvem que o
 
 Esses são apenas alguns dos muitos serviços fornecidos pela Amazon AWS. A plataforma também inclui serviços para análise de dados, aprendizado de máquina, segurança, Internet das Coisas (IoT), servidor de aplicativos, entre outros. A AWS oferece flexibilidade, escalabilidade e confiabilidade, permitindo que você escolha os serviços mais adequados para suas necessidades de nuvem e crie soluções robustas e inovadoras.
 
-## Serviços em Nuvem - Amazon AWS - Serviços para Computação e Processamento.
+## Serviços em Nuvem - Amazon AWS - Serviços para Computação e Processamento
 
 A Amazon Web Services (AWS) oferece uma ampla gama de serviços para computação e processamento em nuvem. Esses serviços fornecem poder computacional escalável e flexível para atender às demandas de diferentes cargas de trabalho. Aqui estão alguns dos principais serviços para computação e processamento fornecidos pela Amazon AWS:
 
@@ -34,7 +34,7 @@ A Amazon Web Services (AWS) oferece uma ampla gama de serviços para computaçã
 
 Esses são apenas alguns dos serviços de computação e processamento oferecidos pela Amazon AWS. A plataforma também inclui serviços como AWS Fargate para execução de contêineres, AWS Batch para computação em lote de alto desempenho e AWS Serverless Application Repository para descoberta e implantação de aplicativos serverless prontos para uso. Com esses serviços, você pode aproveitar a escalabilidade e a flexibilidade da computação em nuvem para executar suas cargas de trabalho de forma eficiente e econômica.
 
-## Serviços em Nuvem - Amazon AWS - Serviços para Banco de Dados.
+## Serviços em Nuvem - Amazon AWS - Serviços para Banco de Dados
 
 A Amazon Web Services (AWS) oferece uma variedade de serviços para atender às necessidades de banco de dados em nuvem. Esses serviços fornecem opções de armazenamento, gerenciamento e processamento de dados altamente escaláveis e seguros. Aqui estão alguns dos principais serviços para banco de dados fornecidos pela Amazon AWS:
 
@@ -54,7 +54,7 @@ Além desses serviços, a AWS também oferece outros serviços de banco de dados
 
 Com esses serviços, você pode escolher a solução de banco de dados mais adequada às necessidades de sua aplicação, seja ela relacionada a transações comerciais, análise de dados ou armazenamento de documentos. A AWS oferece alta disponibilidade, durabilidade e escalabilidade, permitindo que você gerencie e acesse seus dados de maneira eficiente e confiável na nuvem.
 
-## Serviços em Nuvem - Amazon AWS - Serviços para Rede e Entrega de Conteúdo.
+## Serviços em Nuvem - Amazon AWS - Serviços para Rede e Entrega de Conteúdo
 
 A Amazon Web Services (AWS) oferece uma ampla gama de serviços para rede e entrega de conteúdo em nuvem. Esses serviços ajudam a otimizar o desempenho, a segurança e a disponibilidade de aplicativos e conteúdo distribuído pela Internet. Aqui estão alguns dos principais serviços para rede e entrega de conteúdo fornecidos pela Amazon AWS:
 
@@ -72,7 +72,7 @@ A Amazon Web Services (AWS) oferece uma ampla gama de serviços para rede e entr
 
 Esses são apenas alguns dos serviços para rede e entrega de conteúdo oferecidos pela Amazon AWS. A plataforma também inclui serviços como AWS PrivateLink para acesso privado a serviços da AWS, AWS Transit Gateway para conectividade de rede simplificada e AWS VPN para estabelecer conexões seguras por meio de VPNs. Com esses serviços, você pode construir uma infraestrutura de rede altamente disponível, escalável e segura para seus aplicativos e conteúdo distribuídos globalmente.
 
-## Serviços em Nuvem - Amazon AWS - Serviços para Segurança e Gerenciamento de Identidades.
+## Serviços em Nuvem - Amazon AWS - Serviços para Segurança e Gerenciamento de Identidades
 
 A Amazon Web Services (AWS) oferece uma variedade de serviços para segurança e gerenciamento de identidades em sua plataforma de nuvem. Esses serviços ajudam a proteger os recursos e dados em nuvem, além de facilitar o gerenciamento de identidades e acessos. Aqui estão alguns dos principais serviços para segurança e gerenciamento de identidades fornecidos pela Amazon AWS:
 
@@ -92,7 +92,7 @@ Além desses serviços, a AWS também oferece recursos adicionais de segurança,
 
 Com esses serviços, você pode implementar medidas de segurança robustas e gerenciar identidades e acessos de forma eficaz na plataforma AWS, garantindo a proteção dos seus dados e recursos na nuvem.
 
-## Serviços em Nuvem - Amazon AWS - Serviços para Aplicativos e Serviços.
+## Serviços em Nuvem - Amazon AWS - Serviços para Aplicativos e Serviços
 
 A Amazon Web Services (AWS) oferece uma ampla variedade de serviços para aplicativos e serviços em sua plataforma de nuvem. Esses serviços ajudam a desenvolver, implantar e gerenciar aplicativos de forma escalável e eficiente. Aqui estão alguns dos principais serviços para aplicativos e serviços fornecidos pela Amazon AWS:
 
@@ -112,7 +112,7 @@ Além desses serviços, a AWS também fornece serviços como o Amazon SQS para f
 
 Esses serviços permitem que você crie, implante e gerencie aplicativos de forma eficiente na nuvem da AWS. Seja um aplicativo web, móvel, orientado a eventos ou com necessidades específicas, a AWS oferece uma variedade de opções para atender às suas necessidades de aplicativos e serviços.
 
-## Serviços em Nuvem - Amazon AWS - Serviços para Desenvolvimento, CI/CD e DevOps.
+## Serviços em Nuvem - Amazon AWS - Serviços para Desenvolvimento, CI/CD e DevOps
 
 A Amazon Web Services (AWS) oferece uma série de serviços para desenvolvimento, integração contínua/entrega contínua (CI/CD) e práticas de DevOps em sua plataforma de nuvem. Esses serviços ajudam a agilizar o ciclo de desenvolvimento, automatizar processos de entrega e facilitar a colaboração entre equipes de desenvolvimento e operações. Aqui estão alguns dos principais serviços para desenvolvimento, CI/CD e DevOps fornecidos pela Amazon AWS:
 
@@ -132,7 +132,7 @@ Além desses serviços, a AWS também oferece uma variedade de ferramentas e ser
 
 Esses serviços e ferramentas permitem que você adote práticas eficientes de desenvolvimento, CI/CD e DevOps na nuvem da AWS, automatizando processos, melhorando a colaboração entre equipes e acelerando a entrega de software.
 
-## Serviços em Nuvem - Amazon AWS - Serviços para Orquestração de contêiners.
+## Serviços em Nuvem - Amazon AWS - Serviços para Orquestração de contêiners
 
 A Amazon Web Services (AWS) oferece uma variedade de serviços para a orquestração de contêineres em sua plataforma de nuvem. Esses serviços permitem que você gerencie e execute aplicativos em contêineres de maneira eficiente, escalável e altamente disponível. Aqui estão alguns dos principais serviços para orquestração de contêineres fornecidos pela Amazon AWS:
 
@@ -150,7 +150,7 @@ A Amazon Web Services (AWS) oferece uma variedade de serviços para a orquestra�
 
 Esses serviços da AWS fornecem ferramentas poderosas para orquestrar, gerenciar e dimensionar aplicativos em contêineres em sua plataforma de nuvem. Eles permitem que você se beneficie da flexibilidade e portabilidade dos contêineres, enquanto aproveita os recursos de gerenciamento e escalabilidade fornecidos pela AWS.
 
-## Serviços em Nuvem - Amazon AWS - Serviços para Armazenamento de Arquivos.
+## Serviços em Nuvem - Amazon AWS - Serviços para Armazenamento de Arquivos
 
 A Amazon Web Services (AWS) oferece uma variedade de serviços para armazenamento de arquivos em sua plataforma de nuvem. Esses serviços são projetados para atender às diferentes necessidades de armazenamento de arquivos, desde armazenamento simples de objetos até sistemas de arquivos altamente escaláveis. Aqui estão alguns dos principais serviços para armazenamento de arquivos fornecidos pela Amazon AWS:
 
@@ -168,7 +168,7 @@ A Amazon Web Services (AWS) oferece uma variedade de serviços para armazenament
 
 Esses serviços da AWS fornecem opções flexíveis e escaláveis para armazenamento de arquivos em sua plataforma de nuvem. Eles são adequados para diferentes casos de uso, desde armazenamento de objetos simples até sistemas de arquivos compartilhados e soluções de backup. Você pode escolher o serviço mais adequado com base em suas necessidades de desempenho, escalabilidade, durabilidade e custo.
 
-## Serviços em Nuvem - Amazon AWS - Serviços para Análise de Dados e BigData.
+## Serviços em Nuvem - Amazon AWS - Serviços para Análise de Dados e BigData
 
 A Amazon Web Services (AWS) oferece uma ampla gama de serviços para análise de dados e Big Data em sua plataforma de nuvem. Esses serviços permitem armazenar, processar, analisar e visualizar grandes volumes de dados de maneira eficiente e escalável. Aqui estão alguns dos principais serviços para análise de dados e Big Data fornecidos pela Amazon AWS:
 
@@ -188,7 +188,7 @@ A Amazon Web Services (AWS) oferece uma ampla gama de serviços para análise de
 
 Esses serviços da AWS fornecem uma infraestrutura robusta para análise de dados e Big Data na nuvem. Eles oferecem recursos de armazenamento, processamento, consulta e visualização de dados, permitindo que você extraia informações valiosas e tome decisões baseadas em dados. A escolha dos serviços dependerá dos requisitos específicos de sua carga de trabalho e do tipo de análise que você deseja realizar.
 
-## Serviços em Nuvem - Amazon AWS - Serviços para Aprendizado de Máquina e IA.
+## Serviços em Nuvem - Amazon AWS - Serviços para Aprendizado de Máquina e IA
 
 A Amazon Web Services (AWS) oferece uma ampla gama de serviços para aprendizado de máquina (machine learning) e inteligência artificial (IA) em sua plataforma de nuvem. Esses serviços permitem que desenvolvedores e cientistas de dados criem, treinem e implantem modelos de aprendizado de máquina e aplicações de IA de forma escalável e eficiente. Aqui estão alguns dos principais serviços para aprendizado de máquina e IA fornecidos pela Amazon AWS:
 

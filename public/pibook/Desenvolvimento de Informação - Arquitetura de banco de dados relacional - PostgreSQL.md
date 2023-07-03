@@ -1207,7 +1207,7 @@ Vejamos um questão sobre o assunto ...
 
 ## define o nome do banco de dados
 
-## define o nome da role que vai possuir o banco de dados.
+## define o nome da role que vai possuir o banco de dados
 
 ## define o nome do modelo a partir do qual será criado o novo BD
 ## define a codificação do conjunto de caracteres

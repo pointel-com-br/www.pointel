@@ -2012,8 +2012,6 @@ O gráfico de ogiva é empregado na representação de distribuições de frequ�
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 r........................... ....... ...................... ..............................
-.............................. .............................. ..............................
-............................
 
 í (FCC/SEDU-ES/2018) Depois da aplicação de uma prova para todos os alunos do 7Q A,
 a professora Marli
@@ -2441,10 +2439,6 @@ O gráfico de dispersão é uma representação de pares ordenados em um plano c
 
 0 diagrama de ramos e folhas fornece uma maneira rápida de representar graficamente a distribuição dos dados. Nele, cada número é separado em duas partes. Em geral, de um lado ficam as unidades do número e do outro lado fica o restante desse número.
 r w................................................................................. ..
-....................................................................................................
-........................................................................................ ..
-....................................................................................................
-................. .. .................... ..
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 

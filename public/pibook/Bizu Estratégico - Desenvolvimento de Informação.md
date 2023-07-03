@@ -42,7 +42,7 @@ Assunto. Linguagem R. Incidência. 0,00%
 
 Assunto. Análise de dados (Pandas, NumPy). Incidência. 0,00%
 
-## Banco de Dados.
+## Banco de Dados
 
 1. BANCOS DE DADOS
 
@@ -237,7 +237,7 @@ CLÁUSULA. HAVING. DESCRIÇÃO. Comando utilizado para filtrar dados agregados.
 
 CLÁUSULA. ORDER BY. DESCRIÇÃO. Comando utilizado para ordenar os dados recuperadas.
 
-## Ciência de Dados. Big Data.
+## Ciência de Dados. Big Data
 
 Big Data pode ser entendido como a captura, gerenciamento e análise de dados que vão além de dados estruturados típicos, que podem ser consultados por sistemas de gerenciamento de banco de dados relacional — frequentemente em arquivos não estruturados, vídeo digital, imagens, dados de sensores, arquivos de log e, na verdade, qualquer dado não contido nos registros com campos pesquisáveis distintos.
 

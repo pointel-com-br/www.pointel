@@ -2698,7 +2698,6 @@ I>
 ..
 ..
 ..
-.. ..
 
 i (CAU AC/2019) Considere as proposições a seguir.
 

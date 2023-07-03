@@ -96,8 +96,6 @@ Note que 0,000000076 apresenta 9 casas decimais, incluindo os dígitos 7 e 6. Lo
 
 0,000000076 = 76 x 10"9
 
-....................................................................................................
-....................... .............. ..........................
 
 i Reescreva 0,0000000000451 utilizando potência de base 10.
 I
@@ -108,10 +106,6 @@ i 0,0000000000451 = 451 x IO"13
 
 Uma aplicação interessante das potências de dez ocorre quando precisamos realizar operações de multiplicação ou divisão. Nesse caso, podemos agilizar as contas transformando os números em potências de dez.
 r .
-...................................................................................................
-...................................................
-...................................................
-................................................... ......................
 
 í Realize a multiplicação 11.000 000.000 X 0,000006 utilizando potências de base 10.
 
@@ -201,8 +195,6 @@ Para transformar um número em notação científica de forma prática, pode-se 
 
 Vamos realizar dois exemplos:
 
-...............................................................................................
-...... ...............................................................................
 
 í Reescreva 542.000.000.000.000.000 em notação científica.
 
@@ -600,8 +592,6 @@ para realizar a operação j desubtração, devemos transformar as 8h 14min em 7
 
 — 6h 48 min
 1 h 26 min k:.G...a..b..a..r..i.t.o.:...L..e..t..r.a...A.........................................................
-.................................................................. .............
-........................
 
 Em alguns exercícios, ao se obter um número de minutos superior a 60, pode ser necessário converter esses minutos para horas.
 Essa conversão é feita determinando-se quantos "conjuntos de 60 minutos" (ou seja,
@@ -881,9 +871,6 @@ devemos multiplicar por 10 cada avanço realizado.
 Vamos praticar com alguns exemplos.
 
 r...................................................
-.............................................................
-.........................................................
-................................................................................
 
 í Converta 0,1231 kl para litros
 I
@@ -1506,8 +1493,6 @@ Item. 1.000 km2 = 1.000 x 102 hm2
 
 : Gabarito: Letra B.
 
-........................................ ....................................... ................
-............. ........... ..................... ..............
 
 í (IMBEL/2021) O volume de água contido em um reservatório é de 23500 cm3. Esse volume expresso em litros é í a) 0,235.
 b) 2,35.

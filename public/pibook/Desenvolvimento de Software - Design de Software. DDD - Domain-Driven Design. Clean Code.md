@@ -454,7 +454,6 @@ Para Bjarne um código limpo faz bem apenas uma coisa. Não é por acaso que há
 Um código limpo é simples e direto. Ele é tão bem legível quanto uma prosa bem escrita. Ele jamais torna confuso o objetivo do desenvolvedor, em vez disso, ele está repleto de abstrações claras e linhas de controle objetivas.3
 ..
 ..
-.. ..
 ..
 ..
 i i Além de seu criador, um desenvolvedor pode ler e melhorar um código limpo. Ele i tem testes de unidade e de aceitação, nomes significativos; ele oferece apenas uma iÊ maneira, e não várias, de se fazer uma tarefa; possui poucas dependências, as quais i i são explicitamente declaradas e oferecem um API mínimo e claro. O código deve ser iÊ inteligível já que dependendo da linguagem, nem toda informação necessária pode i i ser expressa no código em si.4
@@ -961,8 +960,6 @@ O preço de se utilizar exceções checadas é a necessidade de assinalar ao Cal
 r«*
 * ..
 * ..
-.. ..
-.. ..
 ****
 
 : (CESPE - MPE CE - 2020) Julgue o seguinte item, relativo a métricas de qualidade de código, clean i i code e refactoring.

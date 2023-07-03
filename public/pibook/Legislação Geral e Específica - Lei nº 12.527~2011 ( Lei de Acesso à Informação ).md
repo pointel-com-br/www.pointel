@@ -231,7 +231,6 @@ Reponsabilidade Fiscal".
 
 Nesse sentido, a LC 131 destaca que a transparência será assegurada também mediante (art. 48):
 
-.. ..
 
 ..
 ..
@@ -971,7 +970,6 @@ L
 
 A alternativa (C) também está equivocada. Nesse caso, é a definição de primariedade.
 
-.. ..
 
 ..
 ..
@@ -1327,7 +1325,6 @@ inciso I do art. 49 da lei
 : transmissão de conhecimento, contidos em qualquer meio, suporte ou formato;
 j
 
-.. ..
 
 ..
 ..
@@ -1350,7 +1347,6 @@ fa
 
 ..
 ..
-.. ...
 
 A letra (c) está incorreta, pois mais se assemelha ao conceito de informação sigilosa previsto no inciso III do art. 4^ da lei 12.527/2011:
 .
@@ -2431,9 +2427,7 @@ Comentários:
 
 O Item I está correto. O item apresenta redação que compreende o inciso I
 e o caput do art. 9o da lei 12.527/2011:
-.. ..
 ..
-.. ..
 
 ..
 
@@ -2488,7 +2482,6 @@ A letra (d) está incorreta. Conforme se infere do art. 29 da lei
 ..
 ..
 
-.. ..
 ..
 ...
 
@@ -2615,7 +2608,6 @@ Comentários:
 
 A letra (a) está correta, nos termos do inciso V do §3° do art. 8o da lei 12.527/2011:
 
-.. ..
 ..
 ..
 
@@ -2713,7 +2705,6 @@ j
 
 ..
 
-.. ..
 
 ..
 ...
@@ -2731,7 +2722,6 @@ VIII - integridade: qualidade da informação não modificada, inclusive quanto 
 
 A letra (c) está incorreta. A autenticidade está conceituada no inciso VII do art. 4o da lei12.527/2011:
 
-.. ..
 
 ..
 ..
@@ -2939,7 +2929,6 @@ máximo de i
 
 k ..
 ..
-.. ..
 
 ..
 ...

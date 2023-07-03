@@ -18,7 +18,7 @@ A resiliência de aplicações envolve a implementação de estratégias e prát
 
 Em resumo, a resiliência de aplicações é uma abordagem que visa garantir a disponibilidade contínua e o bom desempenho das aplicações, mesmo diante de falhas ou interrupções. Ao adotar práticas e estratégias de resiliência, é possível aumentar a confiabilidade e a capacidade de recuperação das aplicações, oferecendo uma melhor experiência para os usuários finais.
 
-## Técnicas de Cache, Fallback, Circuitbrake, Disaster Recovery, Contingência, Balanceamento de Carga Global de Servidores (GSLB), Site Ativo X Ativo.
+## Técnicas de Cache, Fallback, Circuitbrake, Disaster Recovery, Contingência, Balanceamento de Carga Global de Servidores (GSLB), Site Ativo X Ativo
 
 Técnicas de Cache:
 A técnica de cache é usada para armazenar temporariamente os dados ou resultados de computações frequentemente acessados, de forma a reduzir o tempo de acesso e melhorar o desempenho. O cache pode ser implementado em vários níveis, como no nível do aplicativo, no nível do banco de dados ou no nível da infraestrutura de rede.

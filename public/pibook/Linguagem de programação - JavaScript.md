@@ -144,7 +144,7 @@ console.log(isNaN("abc")); // Saída: true
 
 Essas são algumas das principais funções em JavaScript para realizar verificações em strings. Existem muitas outras funções e métodos disponíveis para manipulação e verificação de strings na linguagem, dependendo das necessidades específicas do seu código.
 
-## Linguagem de programação - JavaScript - Como usar o map e o filter.
+## Linguagem de programação - JavaScript - Como usar o map e o filter
 
 Em JavaScript, as funções `map()` e `filter()` são métodos de array muito úteis para trabalhar com listas de elementos e aplicar transformações ou filtrar os elementos com base em determinados critérios. Aqui está como usá-los:
 
@@ -181,7 +181,7 @@ Neste exemplo, o `filter()` é usado para criar um novo array chamado `pares`, q
 
 Ambos `map()` e `filter()` são métodos poderosos para manipular arrays em JavaScript. Eles permitem que você transforme os elementos de um array ou filtre-os com facilidade, respectivamente. Além disso, esses métodos são não-destrutivos, ou seja, eles não modificam o array original, mas retornam um novo array com os resultados.
 
-## Como são feitos testes unitários em JavaScript.
+## Como são feitos testes unitários em JavaScript
 
 Os testes unitários em JavaScript podem ser feitos usando frameworks de teste populares, como Jest, Mocha, Jasmine e QUnit. Esses frameworks fornecem uma estrutura para escrever e executar testes automatizados no ambiente JavaScript. Aqui está um exemplo básico de como criar e executar testes unitários em JavaScript usando o Jest:
 

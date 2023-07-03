@@ -57,11 +57,6 @@ O cálculo da moda ocorre de diferentes formas, a depender de como os dados est�
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 r ................................................................................. ..
-.................... .. ............................
-...................................................................
-.......................... ............................... ..
-................................. .. ............................ ............................
-......................................... .............................................. .
 
 i (CESPE/IPHAN/2018) Define-se estatística descritiva como a etapa inicial da análise utilizada para
 = descrever e resumir dados. Em relação às medidas descritivas, julgue o item a seguir.

@@ -44,7 +44,7 @@ Uma vez instalado o R e o RStudio, você pode começar a escrever seu código R 
 
 O R possui uma vasta quantidade de recursos e pacotes disponíveis. A documentação oficial do R, bem como a comunidade online, fóruns e tutoriais, são excelentes fontes para aprender mais sobre a linguagem e aprimorar suas habilidades em análise de dados.
 
-## Análise de dados - R - Principais funções.
+## Análise de dados - R - Principais funções
 
 R é uma linguagem de programação amplamente utilizada para análise de dados e estatísticas. Ele possui uma vasta coleção de pacotes que fornecem funções para uma variedade de tarefas relacionadas à análise de dados. Aqui estão algumas das principais funções do R para análise de dados:
 
@@ -89,7 +89,8 @@ R é uma linguagem de programação amplamente utilizada para análise de dados 
 - `predict()`: Faz previsões com base em um modelo ajustado.
 
 Essas são apenas algumas das principais funções do R para análise de dados. A linguagem R oferece uma ampla gama de pacotes e funções adicionais para análise exploratória de dados, visualização, modelagem estatística e muito mais. Você pode explorar a documentação oficial do R e de seus pacotes para obter mais informações sobre as funções disponíveis e suas opções de uso.
-## Análise de dados - R - Principais pacotes.
+
+## Análise de dados - R - Principais pacotes
 
 A análise de dados em R envolve uma variedade de técnicas e pacotes que são amplamente utilizados na comunidade de análise de dados. Aqui estão algumas das principais áreas e pacotes relevantes para a análise de dados em R:
 

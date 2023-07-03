@@ -34,7 +34,7 @@ No Jupyter Notebook, você pode criar células de código, onde escreve e execut
 
 O Jupyter Notebook oferece muitos recursos e funcionalidades adicionais que podem melhorar sua experiência de análise de dados. Explorar a documentação oficial do Jupyter Notebook é uma ótima maneira de aprender mais e descobrir todas as capacidades dessa poderosa ferramenta.
 
-## Análise de dados - Jupiter - Principais funções.
+## Análise de dados - Jupiter - Principais funções
 
 Ao trabalhar com o Jupyter Notebook, existem várias funções e atalhos úteis que podem facilitar a análise de dados e o desenvolvimento de código. Aqui estão algumas das principais funções e atalhos do Jupyter Notebook:
 

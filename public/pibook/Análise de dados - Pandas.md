@@ -34,7 +34,7 @@ import pandas as pd
 
 A partir daí, você pode utilizar todas as funcionalidades e recursos do pandas em sua análise de dados tabulares. O pandas oferece uma ampla documentação e muitos recursos para explorar e realizar análises sofisticadas em seus dados.
 
-## Análise de dados - Pandas - Principais funções.
+## Análise de dados - Pandas - Principais funções
 
 O Pandas é uma biblioteca popular em Python para análise de dados, oferecendo estruturas de dados flexíveis e eficientes, além de uma ampla gama de funções para manipulação, limpeza, análise e visualização de dados. Aqui estão algumas das principais funções do Pandas para análise de dados:
 
@@ -78,7 +78,7 @@ O Pandas é uma biblioteca popular em Python para análise de dados, oferecendo 
 
 Essas são apenas algumas das principais funções do Pandas para análise de dados. O Pandas oferece muitas outras funcionalidades, como operações de junção e mesclagem de dados, manipulação de datas e horários, tratamento de valores
 
-## Análise de dados - Pandas - Usos mais comuns.
+## Análise de dados - Pandas - Usos mais comuns
 
 O pandas é uma biblioteca poderosa e amplamente utilizada para análise de dados em Python. Aqui estão alguns dos usos mais comuns do pandas na análise de dados:
 
@@ -98,7 +98,7 @@ O pandas é uma biblioteca poderosa e amplamente utilizada para análise de dado
 
 Esses são apenas alguns dos usos mais comuns do pandas na análise de dados. A biblioteca é muito versátil e oferece uma ampla gama de recursos para explorar e analisar dados de várias formas. A documentação oficial do pandas é uma excelente fonte para aprender mais sobre suas funcionalidades e como aplicá-las em seus projetos de análise de dados.
 
-## Análise de dados - Pandas - Exemplos de usos mais comuns.
+## Análise de dados - Pandas - Exemplos de usos mais comuns
 
 Certamente! Aqui estão alguns exemplos mais comuns de uso do pandas na análise de dados:
 

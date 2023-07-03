@@ -77,19 +77,34 @@ def adjust_marked_page_numbers(text):
     return result
 
 
-def adjust_marked_only_dots(text):
+def adjust_marked_weird_dots(text):
 
-    def is_only_dots(line):
-        line = line.strip()
-        for c in line:
+    def is_only_dots(test):
+        if len(test) < 3:
+            return False
+        dots_count = False
+        for c in test:
             if not (c == " " or c == "."):
                 return False
-        return True
+            if c == ".":
+                dots_count += 1
+        return dots_count > 3
 
     print('Ajustando marcado - somente pontos...')
     result = []
+    inside_block = False
     for line in text:
-        if not is_only_dots(line):
+        test = line.strip()
+        if inside_block:
+            result.append(line)
+            if test.startswith("```"):
+                inside_block = False
+        elif test.startswith("```"):
+            result.append(line)
+            inside_block = True
+        elif not is_only_dots(test):
+            if test.startswith("#") and test[len(test) -1] == ".":
+                line = test[0:len(test) -1] + "\n"
             result.append(line)
     return result
 
@@ -261,6 +276,7 @@ def adjust_marked(text, path):
     text = adjust_marked_chars(text)
     text = adjust_marked_page_numbers(text)
     text = adjust_marked_broken_lines(text)
+    text = adjust_marked_weird_dots(text)
     text = adjust_marked_temp(text)
     return text
 

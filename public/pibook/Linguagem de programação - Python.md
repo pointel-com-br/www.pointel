@@ -16,7 +16,7 @@ Python é uma linguagem de programação de alto nível, interpretada e multipar
 
 Python tem ganhado cada vez mais popularidade ao longo dos anos, sendo reconhecida por sua eficiência e legibilidade de código. Sua ampla adoção, vasta biblioteca e ecossistema de frameworks, além de sua comunidade ativa, fazem dele uma excelente escolha para desenvolvedores que buscam produtividade e versatilidade em seus projetos.
 
-## Como são feitos testes unitários em Python.
+## Como são feitos testes unitários em Python
 
 Os testes unitários em Python são feitos usando frameworks de teste populares, como o unittest, pytest e doctest. Esses frameworks fornecem uma estrutura para escrever e executar testes automatizados no ambiente Python. Aqui está um exemplo básico de como criar e executar testes unitários em Python usando o pytest:
 

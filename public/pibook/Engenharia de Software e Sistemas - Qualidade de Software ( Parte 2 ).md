@@ -285,7 +285,7 @@ RESULTADO ESPERADO
 
 É claro que isso é só um exemplo bobo, mas é legal para que vocês entendam que o testador realiza um conjunto de ações que devem gerar um resultado. Caso o resultado não esteja de acordo com o esperado, significa que o testador encontrou uma falha - que é o principal objetivo de um teste - por exemplo: o testador pressionou o botão de ligar do carro voador e o motor simplesmente não foi acionado.
 No mundo do software, é bastante semelhante! Imagine um sistema de cadastro que exige que o usuário insira seu CPF. Um caso de teste óbvio é verificar se o campo de CPFobedece ao formato
-###.###.###-##. Porque? Porque esse é o formato padrão de um CPF! Logo, um caso de teste interessante seria tentar inserir o número 1234.56.7-7890 - se você conseguir,significa que o sistema está falhando, porque está aceitando um CPF em formato diferente do esperado.
+###.###.###-##. Porque? Porque esse é o formato padrão de um CPF! Logo, um caso de teste interessante seria tentar inserir o número 1234.56.7-7890 - se você conseguir,significa que o sistema está falhando, porque está aceitando um CPF em formato diferente do esperado
 ENTRADA/CONDIÇÃO
 
 -Validara máscara do campo CPF

@@ -1550,7 +1550,6 @@ Comentários
 
 A questão apresenta corretamente o conceito de dado anonimizado:
 
-.. ..
 
 ..
 
@@ -2106,7 +2105,6 @@ Comentários
 
 O item está equivocado, na medida em que não se exige de ambos os pais,
 mas de apenas um deles:
-.. ..
 
 *
 
@@ -2174,7 +2172,6 @@ Art. 18, IV - anonimização, bloqueio ou eliminação de dados desnecessários,
 h ..
 ..
 ..
-.. ..
 ..
 ...
 
@@ -2208,7 +2205,6 @@ j
 
 A letra (B), incorreta, pois não se exige que a responsabilidade pelos erros seja do controlador:
 
-.. ..
 
 ..
 ..
@@ -2241,8 +2237,6 @@ nos prazos e nos termos previstos em regulamento.
 A letra (D), incorreta, na medida em que o consentimento pode ser revogado a qualquer momento, portanto não cabe a mencionada carência:
 ..
 
-.. ..
-.. ..
 ..
 j
 
@@ -2394,9 +2388,7 @@ E na hipótese de a transferência dos dados objetivar exclusivamente a prevenç
 Comentários
 
 Questão que cobrou conhecimento das hipóteses em que o poder público poderá transferir dados pessoais a entidades privadas:
-.. ..
 
-.. ..
 t
 
 * LGPD, art. 26, § 1Q É vedado ao Poder Público transferir a entidades privadas dados i
@@ -2478,11 +2470,9 @@ Em respeito aos princípios de proteção de dados pessoais, o uso compartilhado
 Comentários
 
 A questão tem como fundamento o art. 26, caput, da LGPD, que reforça o princípio da finalidade(preceito geral da LGPD previsto em seu artigo 6o) também no uso compartilhado de dados pelo poder público:
-.. .. ..
 ..
 ..
 
-.. ..
 t
 
 Art. 26. O uso compartilhado de dados pessoais pelo Poder Público deve atender a i
@@ -2721,11 +2711,9 @@ Gabarito (A)
 Comentários
 
 Apesar de, em regra, o poder público estar proibido de transferir dados pessoais a entidades privadas, existem situações excepcionais em que será possível a transferência, como ocorre na hipótese de prevenção de fraudes e irregularidades:
-.. ..
 
 ..
 
-.. ..
 
 í Art. 26, § 1Q É vedado ao Poder Público transferir a entidades privadas dados pessoais i
 = constantes de bases de dados a que tenha acesso, exceto: (..)
@@ -2952,7 +2940,6 @@ i Art. 41, § 1^ A identidade e as informações de contato do encarregado dever
 
 A letra (D), incorreta, pois a culpa exclusiva do titular dos dados (ou de terceiro)
 afasta a responsabilidade do operador:
-.. ..
 ..
 
 ..
@@ -3360,7 +3347,6 @@ Art. 58-A. O Conselho Nacional de Proteção de Dados Pessoais e da Privacidade 
 
 A letra (B), incorreta, visto que serão todos designados pelo Presidente da República:
 
-.. ..
 
 ..
 ..
@@ -3371,9 +3357,7 @@ República, i
 : permitida a delegação.
 j
 
-.. ..
 
-.. .. .. ..
 ..
 
 A letra (C), incorreta, visto que tais relatórios dizem respeito a uma política nacional (e não regional):

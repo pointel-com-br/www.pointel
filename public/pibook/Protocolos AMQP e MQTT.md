@@ -24,7 +24,7 @@ Aqui estão algumas informações sobre cada um deles:
 
 Tanto o AMQP quanto o MQTT têm suas vantagens e são adequados para diferentes casos de uso. A escolha entre eles depende dos requisitos específicos do seu projeto, como a natureza das mensagens, o ambiente de implantação, a escala do sistema e os recursos disponíveis nos dispositivos envolvidos.
 
-## Protocolo AMQP.
+## Protocolo AMQP
 
 O AMQP (Advanced Message Queuing Protocol) é um protocolo de mensageria desenvolvido para facilitar a troca de mensagens entre sistemas distribuídos de forma confiável e eficiente. Ele é projetado para atender aos requisitos de comunicação em tempo real e fornece recursos avançados para garantir a entrega confiável das mensagens.
 
@@ -48,7 +48,7 @@ Algumas implementações populares do protocolo AMQP incluem RabbitMQ, Apache Qp
 
 O AMQP é amplamente utilizado em cenários empresariais, sistemas de mensagens em tempo real, sistemas financeiros e outros casos de uso em que a confiabilidade, a escalabilidade e a troca de mensagens flexível são importantes. Sua arquitetura avançada e recursos de garantia de entrega tornam-no uma escolha sólida para a integração de sistemas distribuídos.
 
-## Protocolo MQTT.
+## Protocolo MQTT
 
 O MQTT (Message Queuing Telemetry Transport) é um protocolo de mensageria leve projetado para a troca de mensagens entre dispositivos em redes com largura de banda limitada ou conexões instáveis. Ele foi desenvolvido com foco em eficiência e baixo consumo de energia, tornando-o adequado para cenários de Internet das Coisas (IoT) e comunicações M2M (Machine-to-Machine).
 

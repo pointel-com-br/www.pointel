@@ -16,7 +16,7 @@ PHP (Hypertext Preprocessor) é uma linguagem de programação de código aberto
 
 PHP tem sido amplamente utilizado em muitos projetos web devido à sua facilidade de aprendizado, integração com bancos de dados e vasta comunidade de desenvolvedores. Sua popularidade contínua e o suporte ativo tornam o PHP uma escolha sólida para desenvolvedores que desejam criar aplicativos web dinâmicos e funcionais.
 
-## Como são feitos testes unitários em PHP.
+## Como são feitos testes unitários em PHP
 
 Os testes unitários em PHP podem ser feitos usando frameworks de teste populares, como o PHPUnit, que é um dos frameworks de teste mais utilizados na comunidade PHP. O PHPUnit fornece uma estrutura robusta para escrever e executar testes automatizados no ambiente PHP. Aqui está um exemplo básico de como criar e executar testes unitários em PHP usando o PHPUnit:
 

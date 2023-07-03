@@ -391,8 +391,6 @@ Quanto maior o tamanho da amostra e quanto mais simétrica for a distribuição 
 HORAM
 
 r....... ... ......... ......... . ...........
-.............................................................................. ........
-..............................................................
 
 (CESPE/2014 - ANATEL) Com base no teorema limite central, julgue o item abaixo.
 
@@ -588,10 +586,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 l«** IX
 
 r"...............................................................
-....................................................................................................
-..........................................................................................
-....................................................................................................
-................ ..................
 
 (CESPE 2016/TCE-PA) Em estudo acerca da situação do CNPJ das empresas de determinado município, as empresas que estavam com o CNPJ regular foram representadas por 1, ao passo que as com CNPJ irregular foram representadas por 0.
 Considerando que a amostra {0, 1, 1, 0, 0,1, 0,1, 0, 1,1, 0, 0,1,1, 0,1,1,1, 1} foi extraída para realizar um teste de hipóteses, julgue o item subsequente.
@@ -1423,7 +1417,6 @@ a |N — n
 
 HORAtX
 
-..............
 *...................................................................................*...............
 ........... *........................................ *....................... .
 
@@ -1880,9 +1873,6 @@ SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
 l«** IX
 
-. ......................
-........................................................................................
-..................................................................................
 
 ; (FCC/2019 - SEFAZ-BA) Para obter um intervalo de confiança de 90% para a média p de uma população i
 ; normalmente distribuída, de tamanho infinito e variância desconhecida, extraiu-se uma amostra aleatória ;de tamanho 9 dessa população, obtendo-se uma média amostrai igual a 15 e variância igual a 16.
@@ -2042,8 +2032,6 @@ acima do limite superior.
 : 2,61 ± 2,3. — = 2,61 ± 2,3 x 0,4 = 2,61 ± 0,92 = (1,69; 3,53)
 
 L: .G..a..b...a..r.i.t.o...:..C...
-........................................................................... ...........
-............ ............................................
 
 SERPRO - Estatística e Probabilidade - 2023 (Pós-Edital)
 
@@ -2223,9 +2211,6 @@ x 0,5 = (98)2 x 0,25 = 2401
 Gabarito: E
 
 k...................... . .................................... .
-............................................... .
-................................................ .
-.............................................................
 
 Intervalo de Confiança para a Variância
 

@@ -34,7 +34,7 @@ A Microsoft Azure oferece uma ampla gama de serviços em nuvem que abrangem vár
 
 Esses são apenas alguns exemplos dos serviços em nuvem disponíveis na plataforma Microsoft Azure. A variedade de serviços permite que você construa soluções abrangentes e dimensionáveis para atender às suas necessidades específicas na nuvem.
 
-## Serviços em Nuvem - Microsoft Azure - Serviços para Computação e Processamento.
+## Serviços em Nuvem - Microsoft Azure - Serviços para Computação e Processamento
 
 A Microsoft Azure oferece uma ampla gama de serviços para computação e processamento em sua plataforma de nuvem. Aqui estão alguns dos principais serviços nessa categoria:
 
@@ -60,7 +60,7 @@ A Microsoft Azure oferece uma ampla gama de serviços para computação e proces
 
 Esses são apenas alguns exemplos dos serviços de computação e processamento oferecidos pela Microsoft Azure. A plataforma possui uma ampla gama de opções para atender às necessidades de diferentes cenários e cargas de trabalho.
 
-## Serviços em Nuvem - Microsoft Azure - Serviços para Banco de Dados.
+## Serviços em Nuvem - Microsoft Azure - Serviços para Banco de Dados
 
 A Microsoft Azure oferece uma ampla gama de serviços para banco de dados, que permitem armazenar, gerenciar e analisar dados de maneira escalável e confiável. Aqui estão alguns dos principais serviços de banco de dados fornecidos pela Microsoft Azure:
 
@@ -86,7 +86,7 @@ A Microsoft Azure oferece uma ampla gama de serviços para banco de dados, que p
 
 Esses são apenas alguns dos serviços de banco de dados disponíveis na plataforma Microsoft Azure. Cada serviço oferece recursos específicos para atender a diferentes necessidades de armazenamento, análise e gerenciamento de dados na nuvem.
 
-## Serviços em Nuvem - Microsoft Azure - Serviços para Rede e Entrega de Conteúdo.
+## Serviços em Nuvem - Microsoft Azure - Serviços para Rede e Entrega de Conteúdo
 
 A Microsoft Azure fornece uma variedade de serviços para rede e entrega de conteúdo, permitindo que você crie redes virtuais, conecte-se com segurança a recursos em nuvem, otimize o desempenho da rede e ofereça conteúdo de maneira rápida e confiável. Aqui estão alguns dos principais serviços para rede e entrega de conteúdo oferecidos pela Microsoft Azure:
 
@@ -112,7 +112,7 @@ A Microsoft Azure fornece uma variedade de serviços para rede e entrega de cont
 
 Esses são apenas alguns exemplos dos serviços de rede e entrega de conteúdo disponíveis na plataforma Microsoft Azure. Eles ajudam a criar redes seguras, otimizar o desempenho da rede e entregar conteúdo de maneira rápida e confiável para usuários em todo o mundo.
 
-## Serviços em Nuvem - Microsoft Azure - Serviços para Segurança e Gerenciamento de Identidades.
+## Serviços em Nuvem - Microsoft Azure - Serviços para Segurança e Gerenciamento de Identidades
 
 A Microsoft Azure oferece uma variedade de serviços para segurança e gerenciamento de identidades, permitindo proteger seus recursos na nuvem, gerenciar o acesso dos usuários e implementar práticas de segurança robustas. Aqui estão alguns dos principais serviços para segurança e gerenciamento de identidades fornecidos pela Microsoft Azure:
 
@@ -138,7 +138,7 @@ A Microsoft Azure oferece uma variedade de serviços para segurança e gerenciam
 
 Esses são apenas alguns exemplos dos serviços para segurança e gerenciamento de identidades disponíveis na plataforma Microsoft Azure. Eles ajudam a proteger seus recursos na nuvem, gerenciar o acesso dos usuários e implementar práticas de segurança eficazes.
 
-## Serviços em Nuvem - Microsoft Azure - Serviços para Aplicativos e Serviços.
+## Serviços em Nuvem - Microsoft Azure - Serviços para Aplicativos e Serviços
 
 A Microsoft Azure oferece uma variedade de serviços para desenvolvimento, hospedagem e gerenciamento de aplicativos e serviços na nuvem. Esses serviços fornecem recursos para criar aplicativos escaláveis, implantar serviços gerenciados e habilitar integração e automação. Aqui estão alguns dos principais serviços para aplicativos e serviços fornecidos pela Microsoft Azure:
 
@@ -168,7 +168,7 @@ A Microsoft Azure oferece uma variedade de serviços para desenvolvimento, hospe
 
 Esses são apenas alguns exemplos dos serviços para aplicativos e serviços disponíveis na plataforma Microsoft Azure. Eles ajudam a acelerar o desenvolvimento de aplicativos, fornecer serviços gerenciados e facilitar a integração e a automação de processos.
 
-## Serviços em Nuvem - Microsoft Azure - Serviços para Desenvolvimento, CI/CD e DevOps.
+## Serviços em Nuvem - Microsoft Azure - Serviços para Desenvolvimento, CI/CD e DevOps
 
 A Microsoft Azure oferece uma ampla gama de serviços para desenvolvimento, integração contínua/entrega contínua (CI/CD) e práticas de DevOps, permitindo que as equipes de desenvolvimento criem, testem e entreguem aplicativos de forma mais rápida e eficiente. Aqui estão alguns dos principais serviços para desenvolvimento, CI/CD e DevOps fornecidos pela Microsoft Azure:
 
@@ -194,7 +194,7 @@ A Microsoft Azure oferece uma ampla gama de serviços para desenvolvimento, inte
 
 Esses são apenas alguns exemplos dos serviços para desenvolvimento, CI/CD e DevOps disponíveis na plataforma Microsoft Azure. Eles ajudam a acelerar o ciclo de vida do desenvolvimento, promover a colaboração em equipe e melhorar a eficiência na entrega de aplicativos.
 
-## Serviços em Nuvem - Microsoft Azure - Serviços para Orquestração de contêiners.
+## Serviços em Nuvem - Microsoft Azure - Serviços para Orquestração de contêiners
 
 A Microsoft Azure oferece uma série de serviços para orquestração de contêineres, permitindo que você gerencie e dimensione aplicativos baseados em contêineres de forma eficiente. Esses serviços facilitam a implantação, o gerenciamento e a orquestração de contêineres em larga escala. Aqui estão alguns dos principais serviços para orquestração de contêineres fornecidos pela Microsoft Azure:
 
@@ -212,7 +212,7 @@ A Microsoft Azure oferece uma série de serviços para orquestração de contêi
 
 Esses são alguns dos principais serviços para orquestração de contêineres disponíveis na plataforma Microsoft Azure. Eles oferecem recursos poderosos para implantar, gerenciar e dimensionar aplicativos baseados em contêineres, permitindo que você aproveite ao máximo a flexibilidade e a portabilidade dos contêineres na nuvem.
 
-## Serviços em Nuvem - Microsoft Azure - Serviços para Armazenamento de Arquivos.
+## Serviços em Nuvem - Microsoft Azure - Serviços para Armazenamento de Arquivos
 
 A Microsoft Azure oferece uma variedade de serviços para armazenamento de arquivos, permitindo que você armazene, compartilhe e acesse seus dados de forma segura e escalável na nuvem. Esses serviços fornecem opções flexíveis para atender às necessidades de armazenamento de diferentes tipos de arquivos. Aqui estão alguns dos principais serviços para armazenamento de arquivos fornecidos pela Microsoft Azure:
 
@@ -232,7 +232,7 @@ A Microsoft Azure oferece uma variedade de serviços para armazenamento de arqui
 
 Esses são apenas alguns exemplos dos serviços para armazenamento de arquivos disponíveis na plataforma Microsoft Azure. Eles fornecem opções flexíveis e escaláveis para atender às necessidades de armazenamento de arquivos em diferentes cenários, desde dados não estruturados até big data e recuperação de desastres.
 
-## Serviços em Nuvem - Microsoft Azure - Serviços para Análise de Dados e BigData.
+## Serviços em Nuvem - Microsoft Azure - Serviços para Análise de Dados e BigData
 
 A Microsoft Azure oferece uma ampla gama de serviços para análise de dados e Big Data, permitindo que as organizações obtenham insights valiosos a partir de grandes volumes de dados e tomem decisões informadas. Esses serviços fornecem recursos de processamento, armazenamento e análise de dados, além de ferramentas avançadas para aprendizado de máquina e inteligência artificial. Aqui estão alguns dos principais serviços para análise de dados e Big Data fornecidos pela Microsoft Azure:
 
@@ -254,7 +254,7 @@ A Microsoft Azure oferece uma ampla gama de serviços para análise de dados e B
 
 Esses são apenas alguns exemplos dos serviços para análise de dados e Big Data disponíveis na plataforma Microsoft Azure. Eles oferecem recursos avançados para processar, armazenar, analisar e extrair insights de dados, além de facilitar o uso de técnicas de aprendizado de máquina e inteligência artificial para obter insights valiosos.
 
-## Serviços em Nuvem - Microsoft Azure - Serviços para Aprendizado de Máquina e IA.
+## Serviços em Nuvem - Microsoft Azure - Serviços para Aprendizado de Máquina e IA
 
 A Microsoft Azure fornece uma ampla gama de serviços para aprendizado de máquina (machine learning) e inteligência artificial (IA), permitindo que as organizações desenvolvam, treinem e implantem modelos de IA em escala. Esses serviços oferecem recursos para processamento de dados, treinamento de modelos, inferência em tempo real e integração com outras ferramentas e serviços Azure. Aqui estão alguns dos principais serviços para aprendizado de máquina e IA fornecidos pela Microsoft Azure:
 

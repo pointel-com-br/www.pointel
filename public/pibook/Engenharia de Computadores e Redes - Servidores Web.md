@@ -1354,7 +1354,7 @@ mas agora o foco são arquivos. Exemplo:
 ## Aplica-se a cat.html, bat.html, hat.php etc., pois "?" significa um caractere qualquer
 ## e * significa qualquer coisa daquela posição em diante
 
-## Colocar as diretrizes aqui...
+## Colocar as diretrizes aqui..
 
 </Files>
 

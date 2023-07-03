@@ -18,7 +18,7 @@ Aqui estão alguns conceitos e recursos fundamentais do Apache Sqoop:
 
 O Apache Sqoop simplifica a transferência de dados entre bancos de dados relacionais e o Hadoop, permitindo que você aproveite a escalabilidade e o poder de processamento do ambiente Hadoop para análise e exploração de dados em larga escala. Ele oferece recursos avançados, como importação incremental, suporte a transformações e integração com outras ferramentas do Hadoop, tornando-o uma escolha popular para ingestão de dados em ambientes de Big Data.
 
-## Big Data - Fundamentos - Hadoop - SQOOP - Configuração.
+## Big Data - Fundamentos - Hadoop - SQOOP - Configuração
 
 Para configurar o Apache Sqoop, siga as etapas abaixo:
 

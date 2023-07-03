@@ -16,7 +16,7 @@ TypeScript é uma linguagem de programação desenvolvida pela Microsoft que é 
 
 O TypeScript é amplamente adotado em projetos JavaScript de grande escala, especialmente no desenvolvimento de aplicativos web e móveis. Sua adição de tipagem estática, programação orientada a objetos e integração perfeita com o ecossistema JavaScript existente tornam-no uma escolha popular para desenvolvedores que buscam maior segurança, escalabilidade e manutenção de código em seus projetos.
 
-## Como são feitos testes unitários em TypeScript.
+## Como são feitos testes unitários em TypeScript
 
 Os testes unitários em TypeScript são realizados de forma semelhante aos testes em JavaScript. No entanto, como o TypeScript é uma linguagem de programação que adiciona tipagem estática ao JavaScript, os testes em TypeScript podem se beneficiar dessa tipagem adicional para oferecer uma cobertura de teste mais abrangente. Aqui está um exemplo básico de como criar e executar testes unitários em TypeScript usando o Jest:
 

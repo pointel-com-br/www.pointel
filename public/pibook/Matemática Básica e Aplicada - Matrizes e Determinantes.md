@@ -1786,7 +1786,6 @@ Vamos resolver dois exercícios:
 
 0 1/2 .
 
-................................... ................................. .........................
 .......................................... ..................................... i í (ANPEC/2018) Classifique a afirmação abaixo segundo a sua veracidade:
 = Se uma matriz tem inversa, então ela é singular.
 
@@ -2085,8 +2084,6 @@ Quando a matriz A é ortogonal, uma vez que A 1 = A(, temos:
 A1 A =AAt = I
 
 r...................................................................................................
-.............. .........................................................
-......................................................... ...........................
 
 í (TRANSPETRO/2018) A inversa de uma matriz ortogonal é igual à sua
 I
@@ -2105,11 +2102,6 @@ A) adjunta
 j Gabarito: Letra E.
 
 r...................................................................................................
-..................
-....................................................................................................
-.......... .........................................................
-....................................................................................................
-......
 
 (ANPEC/1998) Uma matriz A, quadrada de dimensão n é dita ortogonal quando ALA = A A1- = In , onde o superescrito t denota transposição e In é a identidade de dimensão n. Considere uma matriz ortogonal A de ordem n. Classifique como certo ou errado a afirmação (sobre A) abaixo:
 Sua inversa e sua transposta são também matrizes ortogonais.
@@ -2538,8 +2530,6 @@ Y = 13 20 29
 
 Item. .25 34 45.
 
-...................................... ........
-..................................................................... ........
 ......................... ........................ i í Perceba que o elemento y₂₃ é igual a 29. O menor complementar de y₂₃ é o determinante da matriz que
 : se obtém eliminando a linha 2 e a coluna 3:
 
@@ -2772,8 +2762,6 @@ det.4 = «21^21 + ^22^22 + ^23-^23 + ^24^24
 
 2 4 0
 
-...................................... ........
-..................................................................... ........
 ......................... ........................ i
 
 Aplicando a regra de Sarrus para os três determinantes, obtém-se 81, —9 e 66, respectivamente.
@@ -3086,9 +3074,6 @@ FUNDO!
 
 Note que, ao multiplicar uma matriz de ordem n por uma constante k, na verdade estamos multiplicando cada uma das suas n linhas (ou colunas) por k. Por isso, o novo determinante acaba sendo multiplicado por:
 /c x /c x ... x k = kn n vezes
-......................... ....................... .........................
-..........................................................................
-.........................
 
 (MPE SC/2022) Seja A uma matriz 4x4 cujo determinante é igual a 2.
 

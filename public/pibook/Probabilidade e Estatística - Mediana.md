@@ -245,12 +245,6 @@ HORA DE
 PRATICAR!
 
 r ..........................................
-........................................................... ..
-........................................................... ..
-........................................................... ..
-........................................................... ..
-........................................................... ..
-.................................................... .
 
 (CESPE/IPHAN/2018) Define-se estatística descritiva como a etapa inicial da análise utilizada para descrever e resumir dados. Em relação às medidas descritivas, julgue o item a seguir.
 A mediana é o valor que ocupa a posição central da série de observações de uma variável, dividindo-se o conjunto de valores ordenados em partes assimétricas desiguais.

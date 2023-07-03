@@ -1425,8 +1425,6 @@ Expressões Numéricas
 De modo bem simplificado, as expressões numéricas são contas prontas para serem resolvidas. Observe um exemplo de questão com esse assunto.
 EXEMPLIFICANDO
 
-. ........................... ......................................... .........
-................................ ....................................................
 
 : (SABESP) O resultado da expressão numérica (2 - 3) (3 — 4) (4 — 5) (5 - 6)2 é igual a
 
@@ -1439,7 +1437,6 @@ i C)-l
 : D) 3
 
 .!..E..)..1............................................................................
-................ ............................................................... .
 
 Antes de resolvermos a questão acima, é importante ter algumas ideias em mente.
 Existem determinadas sequências que devemos seguir quando estamos lidando com expressões numéricas. Aprimeira sequência surge a partir da pergunta: o que resolver primeiro?
@@ -1896,8 +1893,6 @@ Explico melhor! Quando a questão traz (a + ò)2, você identifica o produto not
 EXEMPLIFICANDO
 
 r ..........................................
-.............................................................................................
-...........................................................
 
 i (IPREV-SANTOS/2022) Simplificando a expressão
 

@@ -161,7 +161,6 @@ b)2.
 d) 4.
 
 l:i*e..)...5........................................................................................
-.............. ......................................... .............. .........................
 
 Comentários:
 
@@ -325,8 +324,6 @@ Se B é divisor de A, então A é um múltiplo de B.
 
 Se A é um múltiplo de B, então B é divisor de A.
 
-...............................................................................................
-...... ...............................................................................
 
 í (TRT 15/2009) Certo dia, Eurídice falou a Josué:
 
@@ -472,8 +469,6 @@ Para determinar se um número N é primo, devemos dividi-lo sucessivamente pelos
 * Se, ao realizar a divisão sucessiva, obtivermos um quociente menor do que o primo pelo qual estamos dividindo N, então N é primo.
 Veja que não é nada prático dividir N por diversos primos até obtermos um quociente menor do que o primo pelo qual estamos dividindo N. É justamente por isso que esse método, nas questões de concurso público, é mais utilizado para verificar se um dado número não é primo. Para melhor compreensão do método,vejamos a questão a seguir:
 
-.......................................... .........
-.......................................................... .
 
 í (SEE PE/2016) O número de três algarismos: n = 68D é primo.
 
@@ -1272,8 +1267,6 @@ diferença de número de metros
 
 j Gabarito: Letra E.
 
-....................................................................................................
-............ ........... .............. ............................................ .........
 
 í (SEFAZ AM/2022) Um pote contém entre 150 e 200 balas. Miguel reparou que separando essas balas em
 = grupos de 5 sobravam 2 balas, e que, separando em grupos de 7, sobravam também 2 balas.
@@ -1338,8 +1331,6 @@ Selecionar os números primos comuns com os menores expoentes
 
 Vamos a alguns exemplos:
 
-............ ..................
-...................................................................................
 .............................. .......................... ..................... |
 
 í Calcule o MDC entre 20, 50 e 65
@@ -1409,8 +1400,6 @@ Devemos selecionar os números primos comuns com os menores expoentes e realizar
 Logo, MDC(3960; 10098) = 2 x 32 x 11 = 198.
 
 Uma dica importante que pode economizar um certo tempo em prova é a seguinte: quando temos que realizar um MDC de N números e no meio desses números temos que a é divisor de b,podemos eliminar b do cálculo do MDC.
-.............. .....................................
-..................................................................................
 
 í Calcule o MDC de 60, 45 e 30
 
@@ -1602,8 +1591,6 @@ Vamos verificar novamente os dois exemplos vistos com base nesse entendimento.
 
 Exemplo 1: Um segurança faz sua ronda a cada 30 minutos, e outro segurança faz sua ronda a cada 40minutos. Os dois seguranças iniciaram suas rondas agora. Daqui a quanto tempo eles farão a próxima ronda juntos?
 Note que o tempo procurado será múltiplo de 30 e de 40. Como se quer a próxima ronda, esse múltiplo procurado deve ser o menor possível. Logo, deve-se usar o Mínimo Múltiplo Comum (MMC).
-........................................................ .....................
-............................................. ................ ...........
 ......................................... i
 
 = Exemplo 2: Em uma sala com 40 homens e 24 mulheres, é necessário montar grupos contendo a mesma i
@@ -2112,8 +2099,6 @@ x = 563
 Nesse caso, é correto afirmar que Carlos possui 563 revistas.
 Gabarito: CERTO.
 
-....................................................................................................
-....................... .............. ........................................................
 
 Texto para as próximas questões
 

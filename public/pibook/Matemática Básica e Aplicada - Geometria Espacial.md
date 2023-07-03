@@ -252,8 +252,6 @@ HORA DE
 
 PRATICAR!
 
-........ ........................................................ ..........................
-........................ ...............................................
 ...........................,
 
 (PREF. MAIRINQUE/2011) Um poliedro é considerado regular se todas as suas faces forem formadas por i polígonos regulares idênticos e também se todos os seus vértices forem o ponto de encontro do mesmo ;número de arestas. Assinale a alternativa que apresenta um poliedro regular.
@@ -818,7 +816,6 @@ ESTA É
 
 DIFÍCIL!
 
-. .................................... ................................. .........................
 ............................................... ........................ ......................,
 
 (UFSC/2019) Considere um cone de altura H e raio da base R. A que altura, a partir da base, se deve fazer um corte paralelo à base de forma que o tronco de cone correspondente tenha metade do volume do cone original?

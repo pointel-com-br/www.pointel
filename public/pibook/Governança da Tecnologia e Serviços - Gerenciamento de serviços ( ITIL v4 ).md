@@ -87,7 +87,6 @@ Práticas de Gerenciamento.
 A ITIL traz conceitos importantíssimos como Sistema de Valor de Serviço,
 Cadeia de Valor de
 Serviço, entre outros que se aplicam a todas as organizações, independentemente de seu tipo ou tecnologias empregadas. Porém, na minha - humilde - opinião, acredito que é necessário saber o básico. O básico para ITIL é o conceito de Serviço, afinal, a ITIL é um framework de Gerenciamento de Serviço. Vamos ao conceito:
-.. ..
 
 **
 
