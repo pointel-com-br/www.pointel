@@ -28,6 +28,11 @@ def adjust_marked_empty_lines(text):
                 empty = 0
             if empty <= 1:
                 result.append(test + '\n')
+    while len(result) >= 1:
+        if result[-1].strip() == "":
+            result.pop()
+        else:
+            break
     return result
 
 
@@ -44,12 +49,12 @@ def adjust_marked_chars(text):
     print('Ajustando marcado - caracteres...')
     result = []
     for line in text:
-        line = line.replace('■', '')
-        line = line.replace('“', ''')
-        line = line.replace('”', ''')
-        line = line.replace('’', ''')
-        line = line.replace('‘', ''')
+        line = line.replace('“', '"')
+        line = line.replace('”', '"')
+        line = line.replace('’', '\'')
+        line = line.replace('‘', '\'')
         line = line.replace('–', '-')
+        line = line.replace('■', '-')
         line = line.replace('□', '-')
         line = line.replace('•', '*')
         line = line.replace('♦', '*')

@@ -103,8 +103,7 @@ Quem gerencia plataformas, além de todas as preocupações de gestão de produt
 
 **Primeiro usuário:** conseguir um primeiro usuário que, por si só, já atrai outros usuários. Essa é uma tática muito usada por shoppings quando fecham com uma loja de departamentos, que já atrai compradores suficientes por si só. Depois, é só falar com outras lojas, que certamente terão mais interesse em estar no shopping.
 
-- **Social:** outra forma de conseguir usuários é usar redes e mecanismos sociais para conquistar mais usuários. Algo como )
-        line = line.replace('”', chame seus amigos do Facebook”.
+- **Social:** outra forma de conseguir usuários é usar redes e mecanismos sociais para conquistar mais usuários. Algo como "chame seus amigos do Facebook".
 - **Usuário líder:** descobrir qual o perfil do usuário que vai ser fortemente atraído pela ideia, ao ponto de ser o primeiro a adotar a plataforma. Bitcoin atraiu inicialmente várias pessoas de tecnologia, que se apaixonaram pela ideia de um dinheiro não atrelado a um governo, e são ferrenhos defensores da ideia.
 - **Pense nos benefícios como produto:** o próprio produto tem benefícios suficientes por si só. O Instagram, antes da funcionalidade de compartilhar, era capaz de fazer fotos ficarem legais. O OpenTable, antes da funcionalidade de reservas, era um ótimo ERP (Enterprise Resource Planning) para restaurantes.
 - **Considere reduzir preços:** é uma estratégia válida para atrair usuários, mas vale lembrar de que é difícil aumentar o preço depois, principalmente se você reduzir o preço para zero. Claro, você pode subsidiar com anúncios, mas você precisa saber se seus usuários vão aceitar anúncios e se você vai conseguir anunciantes que queiram pagar.
