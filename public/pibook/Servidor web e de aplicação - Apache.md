@@ -24,16 +24,16 @@ Para configurar o HTTPS no servidor web Apache, você precisa seguir alguns pass
 
 3. Configurar o arquivo de virtual host: Abra o arquivo de configuração do seu virtual host no diretório `/etc/apache2/sites-available/`. Geralmente, o arquivo é chamado de `default-ssl.conf` ou algo semelhante. Certifique-se de que o arquivo contenha as seguintes linhas ou adicione-as, se necessário:
 
-```
+```apache
 <VirtualHost *:443>
-ServerName seu_dominio.com
+    ServerName seu_dominio.com
 
-SSLEngine on
-SSLCertificateFile /caminho/para/o/certificado.crt
-SSLCertificateKeyFile /caminho/para/a/chave_privada.key
-SSLCertificateChainFile /caminho/para/o/arquivo_de_cadeia.crt (opcional)
+    SSLEngine on
+    SSLCertificateFile /caminho/para/o/certificado.crt
+    SSLCertificateKeyFile /caminho/para/a/chave_privada.key
+    SSLCertificateChainFile /caminho/para/o/arquivo_de_cadeia.crt (opcional)
 
-# Outras configurações de virtual host
+    # Outras configurações de virtual host
 
 </VirtualHost>
 ```
@@ -54,12 +54,12 @@ Para configurar o Apache como um balanceador de carga HTTP, você pode usar o m�
 
 2. Configurar os backends: Você precisa configurar os backends, ou seja, os servidores que receberão as solicitações do balanceador de carga. Abra o arquivo de configuração do Apache e adicione as seguintes linhas para cada backend:
 
-```
+```apache
 <Proxy balancer://backend_cluster>
-BalancerMember http://ip_do_backend1:porta route=backend1
-BalancerMember http://ip_do_backend2:porta route=backend2
-# Adicione mais servidores conforme necessário
-ProxySet lbmethod=byrequests
+    BalancerMember http://ip_do_backend1:porta route=backend1
+    BalancerMember http://ip_do_backend2:porta route=backend2
+    # Adicione mais servidores conforme necessário
+    ProxySet lbmethod=byrequests
 </Proxy>
 ```
 
@@ -67,9 +67,9 @@ Certifique-se de substituir `ip_do_backend1` e `ip_do_backend2` pelos endereços
 
 3. Configurar o balanceador de carga: Agora, você precisa configurar o balanceador de carga propriamente dito. Adicione as seguintes linhas ao seu arquivo de configuração:
 
-```
-ProxyPass / balancer://backend_cluster/
-ProxyPassReverse / balancer://backend_cluster/
+```apache
+    ProxyPass / balancer://backend_cluster/
+    ProxyPassReverse / balancer://backend_cluster/
 ```
 
 Isso instrui o Apache a encaminhar as solicitações recebidas para o balanceador de carga, que, por sua vez, distribuirá as solicitações entre os backends configurados.
@@ -79,3 +79,68 @@ Isso instrui o Apache a encaminhar as solicitações recebidas para o balanceado
 5. Verificar a configuração: Verifique se a configuração está correta reiniciando o Apache e verificando os arquivos de log. Além disso, você pode testar o balanceador de carga enviando solicitações HTTP e verificando se elas estão sendo distribuídas entre os servidores backend.
 
 Essas etapas ajudarão você a configurar o Apache como um balanceador de carga HTTP. Lembre-se de ajustar as configurações conforme suas necessidades específicas, como adicionar mais servidores backend ou ajustar o algoritmo de balanceamento de carga.
+
+## Principais commands de linha do Apache
+
+O Apache HTTP Server é um servidor web amplamente utilizado e fornece uma variedade de comandos de linha para gerenciar e configurar o servidor. Aqui estão alguns dos principais comandos de linha do Apache:
+
+1. `httpd`: O comando `httpd` é usado para iniciar, parar ou reiniciar o servidor Apache. Os argumentos podem variar dependendo do sistema operacional. Por exemplo:
+- Iniciar o servidor Apache: `sudo service apache2 start` (no Ubuntu)
+- Parar o servidor Apache: `sudo service apache2 stop` (no Ubuntu)
+- Reiniciar o servidor Apache: `sudo service apache2 restart` (no Ubuntu)
+
+2. `apachectl`: O comando `apachectl` também é usado para iniciar, parar e reiniciar o servidor Apache. Ele fornece algumas opções adicionais para verificar a configuração e exibir informações do servidor. Por exemplo:
+- Verificar a configuração do Apache: `apachectl configtest`
+- Exibir informações do servidor Apache: `apachectl status`
+
+3. `htpasswd`: O comando `htpasswd` é usado para criar e gerenciar arquivos de senhas para autenticação básica do Apache. Ele permite adicionar, modificar ou excluir senhas de usuários. Por exemplo:
+- Criar um novo arquivo de senhas: `htpasswd -c /etc/apache2/.htpasswd username`
+- Adicionar um usuário ao arquivo de senhas existente: `htpasswd /etc/apache2/.htpasswd username`
+- Remover um usuário do arquivo de senhas: `htpasswd -D /etc/apache2/.htpasswd username`
+
+4. `htaccess`: O arquivo `.htaccess` é usado para configurar diretivas específicas do diretório no Apache. Embora não seja um comando de linha, é importante mencioná-lo, pois é uma parte fundamental da configuração do Apache. O arquivo `.htaccess` deve ser colocado no diretório desejado e pode conter várias configurações, como redirecionamentos, autenticação, controle de acesso, entre outros.
+
+Esses são apenas alguns exemplos dos comandos de linha mais comuns usados para gerenciar o servidor Apache. Lembre-se de que os comandos e a sintaxe podem variar dependendo do sistema operacional e da versão específica do Apache que você está usando. É sempre uma boa prática consultar a documentação oficial do Apache para obter informações mais detalhadas sobre os comandos e configurações específicas.
+
+## Principais diretivas no htaccess do Apache
+
+O arquivo .htaccess é uma ferramenta poderosa para configurar diretivas específicas do diretório no Apache. Aqui estão alguns exemplos de diretivas comumente usadas no arquivo .htaccess:
+
+1. `RewriteEngine`: Essa diretiva permite ativar o módulo de reescrita do Apache, que é usado para manipular URLs. Por exemplo:
+   ```
+   RewriteEngine On
+   ```
+
+2. `RewriteRule`: Essa diretiva é usada para definir regras de reescrita de URL. Ela permite redirecionar ou reescrever URLs com base em padrões específicos. Por exemplo:
+   ```
+   RewriteRule ^old-url$ /new-url [R=301,L]
+   ```
+
+3. `DirectoryIndex`: Essa diretiva permite definir a página de índice padrão que será exibida quando um diretório é acessado. Por exemplo:
+   ```
+   DirectoryIndex index.html index.php
+   ```
+
+4. `Options`: Essa diretiva permite definir opções de configuração para um diretório específico. Por exemplo, habilitar o seguimento de links simbólicos:
+   ```
+   Options +FollowSymLinks
+   ```
+
+5. `AllowOverride`: Essa diretiva permite definir quais diretivas do .htaccess podem ser sobrescritas em diretórios específicos. Por exemplo:
+   ```
+   AllowOverride All
+   ```
+
+6. `Order`, `Allow` e `Deny`: Essas diretivas são usadas em conjunto para controlar o acesso a diretórios ou arquivos com base em endereços IP ou nomes de domínio. Por exemplo:
+   ```
+   Order deny,allow
+   Deny from 192.168.1.1
+   Allow from all
+   ```
+
+7. `ErrorDocument`: Essa diretiva permite personalizar as páginas de erro exibidas pelo servidor Apache. É possível definir páginas de erro personalizadas para diferentes códigos de status HTTP. Por exemplo:
+   ```
+   ErrorDocument 404 /error-pages/404.html
+   ```
+
+Esses são apenas alguns exemplos das diretivas mais comuns usadas no arquivo .htaccess do Apache. Vale ressaltar que nem todas as diretivas podem estar disponíveis ou habilitadas, dependendo da configuração do servidor e dos módulos instalados. É importante consultar a documentação oficial do Apache para obter uma lista completa de diretivas e obter informações detalhadas sobre como usá-las corretamente.

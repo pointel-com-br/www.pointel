@@ -278,7 +278,7 @@ O NGINX Open Source suporta quatro métodos de balanceamento de carga, e o NGINX
        server backend1.example.com;
        server backend2.example.com;
     }
-```
+    ```
 
 2. Least Connections - Uma solicitação é enviada para o servidor com o menor número de conexões ativas, novamente levando em consideração os pesos dos servidores:
 
@@ -288,7 +288,7 @@ O NGINX Open Source suporta quatro métodos de balanceamento de carga, e o NGINX
         server backend1.example.com;
         server backend2.example.com;
     }
-```
+    ```
 
 3. IP Hash - O servidor para o qual uma solicitação é enviada é determinado pelo endereço IP do cliente. Nesse caso, os três primeiros octetos do endereço IPv4 ou o endereço IPv6 completo são usados para calcular o valor de hash. O método garante que solicitações do mesmo endereço sejam enviadas para o mesmo servidor, a menos que ele não esteja disponível.
 
@@ -298,7 +298,7 @@ O NGINX Open Source suporta quatro métodos de balanceamento de carga, e o NGINX
         server backend1.example.com;
         server backend2.example.com;
     }
-```
+    ```
 
 Se um dos servidores precisa ser temporariamente removido da rota de balanceamento de carga, ele pode ser marcado com o parâmetro `down` para preservar o hash atual dos endereços IP dos clientes. As solicitações que seriam processadas por esse servidor são automaticamente enviadas para o próximo servidor do grupo:
 
@@ -308,7 +308,7 @@ Se um dos servidores precisa ser temporariamente removido da rota de balanceamen
         server backend2.example.com;
         server backend3.example.com down;
     }
-```
+    ```
 
 4. Generic Hash - O servidor para o qual uma solicitação é enviada é determinado por uma chave definida pelo usuário, que pode ser uma sequência de texto, uma variável ou uma combinação. Por exemplo, a chave pode ser um par de endereço IP de origem e porta, ou um URI, como neste exemplo:
 
@@ -318,7 +318,7 @@ Se um dos servidores precisa ser temporariamente removido da rota de balanceamen
         server backend1.example.com;
         server backend2.example.com;
     }
-```
+    ```
 
 O parâmetro opcional `consistent` para a diretiva `hash` habilita o balanceamento de carga hash consistente ketama. As solicitações são distribuídas igualmente entre todos os servidores upstream com base no valor de chave hash definido pelo usuário. Se um servidor upstream for adicionado ou removido de um grupo upstream, apenas algumas chaves serão remapeadas, o que minimiza as perdas de cache no caso de servidores de cache de balanceamento de carga ou outras aplicações que acumulam estado.
 
@@ -335,7 +335,7 @@ O parâmetro opcional `consistent` para a diretiva `hash` habilita o balanceamen
         server backend1.example.com;
         server backend2.example.com;
     }
-```
+    ```
 
 6. Random - Cada solicitação é enviada para um servidor selecionado aleatoriamente. Se o parâmetro `two` for especificado, primeiro o NGINX seleciona aleatoriamente dois servidores levando em consideração os pesos dos servidores e, em seguida, escolhe um desses servidores usando o método especificado:
 
@@ -351,7 +351,7 @@ O parâmetro opcional `consistent` para a diretiva `hash` habilita o balanceamen
         server backend3.example.com;
         server backend4.example.com;
     }
-```
+    ```
 
 O método de balanceamento de carga **Random** deve ser usado para ambientes distribuídos em que vários balanceadores de carga estão enviando solicitações para o mesmo conjunto de servidores backend. Para ambientes em que o balanceador de carga tem uma visão completa de todas as solicitações, use outros métodos de balanceamento de carga, como round robin, least connections e least time.
 

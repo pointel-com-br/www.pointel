@@ -189,14 +189,19 @@ def adjust_text_hierarchy(text):
                 if not test.endswith("."):
                     test += "."
             elif test.startswith("## "):
-                test = "Sub Capítulo. " + test[len("## "):]
+                test = "{{Pause=2}} Início de Sub Capítulo. " + test[len("## "):]
                 if not test.endswith("."):
                     test += "."
+                test += " {{Pause=1}}" 
             elif test.startswith("# "):
-                test = "Capítulo. " + test[len("# "):]
+                test = "{{Pause=3}} Início de Capítulo. " + test[len("# "):]
                 if not test.endswith("."):
                     test += "."
+                test += " {{Pause=2}}"
             result.append(test + '\n')
+    result.append("\n")
+    result.append("{{Pause=1}} Fim de Capítulo. {{Pause=2}}\n")
+    result.append("\n")
     return result
 
 
