@@ -19,3 +19,26 @@ Aqui estão algumas características e benefícios-chave do Node.js:
 7. Comunidade ativa: O Node.js tem uma comunidade ativa de desenvolvedores que contribuem com pacotes, bibliotecas e ferramentas. Isso significa que você pode encontrar suporte, documentação e recursos adicionais facilmente, além de poder colaborar com outros desenvolvedores em projetos de código aberto.
 
 Em resumo, o Node.js é uma tecnologia backend poderosa e flexível para construir aplicativos de servidor escaláveis, de alto desempenho e em tempo real. Sua capacidade de executar JavaScript no lado do servidor, sua arquitetura orientada a eventos e sua vasta biblioteca de pacotes do NPM tornam o Node.js uma escolha popular entre os desenvolvedores que desejam criar aplicativos web eficientes e modernos.
+
+## Principais comandos de linha do NodeJS
+
+Aqui estão alguns dos principais comandos de linha do Node.js:
+
+1. `node arquivo.js`: Executa um arquivo JavaScript no Node.js.
+2. `node --version` ou `node -v`: Exibe a versão do Node.js instalada.
+3. `node --help` ou `node -h`: Exibe informações de ajuda sobre o Node.js e seus comandos.
+4. `npm install pacote`: Instala um pacote do npm localmente no projeto.
+5. `npm install -g pacote`: Instala um pacote globalmente no sistema.
+6. `npm init`: Inicializa um novo projeto Node.js e cria um arquivo package.json interativamente.
+7. `npm start`: Executa o script definido como "start" no arquivo package.json.
+8. `npm test`: Executa o script definido como "test" no arquivo package.json.
+9. `npm run nome_do_script`: Executa um script específico definido no arquivo package.json.
+10. `npm uninstall pacote`: Desinstala um pacote previamente instalado.
+11. `npm update pacote`: Atualiza um pacote para a versão mais recente.
+12. `npm outdated`: Exibe uma lista dos pacotes instalados que estão desatualizados.
+13. `npm ls`: Lista os pacotes instalados no projeto.
+14. `npm search pacote`: Procura por um pacote específico no registro do npm.
+15. `npm publish`: Publica um pacote no registro do npm.
+16. `npm config`: Gerencia as configurações do npm.
+
+Esses são apenas alguns dos comandos mais comuns do Node.js e npm. Existem muitos outros comandos disponíveis, dependendo das suas necessidades e do ambiente de desenvolvimento em que você está trabalhando.
