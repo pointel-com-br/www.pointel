@@ -2,6 +2,8 @@
 import os
 import re
 
+from genericpath import isfile
+
 
 def adjust_marked_empty_lines(text):
     print('Ajustando marcado - linhas vazias...')
@@ -273,6 +275,7 @@ def adjust_text_code_blocks(text):
 
 
 def adjust_text_time(text):
+    print('Ajustando texto - tempos para leitura...')
     for i, line in enumerate(text):
         line = line.replace('?', '?{{Pause=0.7}}')
         line = line.replace('!', '!{{Pause=0.7}}')
@@ -338,10 +341,22 @@ def read_marked(path):
         return file.readlines()
 
 
-def list_paths():
-    return [p for p in os.listdir('.') if p[-3:] == '.md']
+def is_marked(path):
+    return path[-3:] == '.md'
+
+
+def had_changes(path):
+    text = os.path.splitext(path)[0] + ".txt"
+    if os.path.isfile(text):
+        if os.path.getmtime(text) > os.path.getmtime(path):
+            return False
+    return True
+
+
+def list_paths_with_changes():
+    return [path for path in os.listdir('.') if is_marked(path) and had_changes(path)]
 
 
 if __name__ == '__main__':
-    for path in list_paths():
+    for path in list_paths_with_changes():
         save_text(save_marked(read_marked(path), path), path)
