@@ -77,7 +77,7 @@ def adjust_marked_page_numbers(text):
     return result
 
 
-def adjust_marked_weird_dots(text):
+def adjust_marked_weird_chars(text):
 
     def is_only_weird(test):
         if len(test) < 3:
@@ -90,7 +90,7 @@ def adjust_marked_weird_dots(text):
                 weird_count += 1
         return weird_count >= 3
 
-    print('Ajustando marcado - somente pontos...')
+    print('Ajustando marcado - caracteres estranhos...')
     result = []
     inside_block = False
     for line in text:
@@ -276,7 +276,7 @@ def adjust_marked(text, path):
     text = adjust_marked_chars(text)
     text = adjust_marked_page_numbers(text)
     text = adjust_marked_broken_lines(text)
-    text = adjust_marked_weird_dots(text)
+    text = adjust_marked_weird_chars(text)
     text = adjust_marked_temp(text)
     return text
 
