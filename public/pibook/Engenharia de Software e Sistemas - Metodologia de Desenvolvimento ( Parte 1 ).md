@@ -979,7 +979,6 @@ SEGUNDA ITERAÇÃO
 
 TERCEIRA ITERAÇÃO
 
-
 Atividade simultâneas
 
 Versão inicial

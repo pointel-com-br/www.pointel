@@ -813,7 +813,6 @@ Art. 14. Na provisão de conexão, onerosa ou gratuita, é vedado guardar os reg
 
 1>
 
-
 Por fim, a alternativa (E) está incorreta. Diante de requisição de autoridade policial, os registros poderão ser guardados por prazo superior a 1 ano:
 *
 *

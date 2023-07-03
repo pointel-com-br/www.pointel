@@ -1791,7 +1791,6 @@ A regra cobrada é simples: Se o sujeito composto está posposto ao verbo, este 
 
 ; Em outras palavras, se o verbo veio antes do sujeito composto, há duas possibilidades de concordância.L=..Q...u..e..s.t.ã..o...c..o..r.r..e..t.a
 
-
 Núcleos unidos por coordenação
 
 Regra geral, se os núcleos estiverem coordenados, o verbo fica no plural. Ex.:

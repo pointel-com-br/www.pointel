@@ -50,7 +50,7 @@
 
 - Conhecimento e uso das formas contemporâneas da linguagem inglesa.
 
-### Noções De Estatística e Probabilidade
+### Estatística e Probabilidade
 
 - Estatística descritiva.
 
@@ -86,7 +86,7 @@
 
 - Raciocínio lógico envolvendo problemas aritméticos, geométricos e matriciais.
 
-### Legislação Acerca De Privacidade E Proteção De Dados Pessoais
+### Legislação Específica
 
 - Lei nº 13.709-2018 (Lei Geral de Proteção de Dados Pessoais - LGPD). Capítulos I, II, III, IV, VII, VIII e IX.
 
@@ -162,11 +162,11 @@
 
 - Gerenciamento de produtos com métodos ágeis.
 
-- Gerenciamento de produtos - Scrum.
+- Gerenciamento de projetos - Scrum.
 
-- Gerenciamento de produtos - Kanban.
+- Gerenciamento de mudanças - Kanban.
 
-- Gerenciamento de produtos - XP.
+- Metodologia de Desenvolvimento Ágil - XP.
 
 - Gerenciamento de produtos - Lean.
 

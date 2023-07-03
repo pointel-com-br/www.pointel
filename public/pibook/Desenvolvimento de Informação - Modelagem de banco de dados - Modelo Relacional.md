@@ -2513,10 +2513,7 @@ As informações anteriormente apresentadas correspondem aos campos de uma tabel
 96 Os dados armazenados na referida tabela são considerados não estruturados.
 Comentário:
 
-93. Essa questão foi dada pelo CESPE como correta. Eu discordo. Vamos lá
-
-supondo que exista uma tabela (modelo relacional) com dados e que os dados são correlacionados com outros dados não estruturados, que garantia eu tenho que os processos de mineração de dados foi utilizado de fato utilizados? ... NENHUMA!!!
-O processo de mineração de dados, como descrito pelo CRISP-DM (fonte de referência padrão para o assunto) exige um conjunto de ações específicas. Não existe nenhum elemento no texto, além da detecção de fraudes que possa nos remeter a mineração de dados. A mineração de dados exige que os dados sejam transformados e organizados com um mínimo de estrutura para que possam ser analisados com sucesso.
+93. Essa questão foi dada pelo CESPE como correta. Eu discordo. Vamos lá supondo que exista uma tabela (modelo relacional) com dados e que os dados são correlacionados com outros dados não estruturados, que garantia eu tenho que os processos de mineração de dados foi utilizado de fato utilizados? ... NENHUMA!!!O processo de mineração de dados, como descrito pelo CRISP-DM (fonte de referência padrão para o assunto) exige um conjunto de ações específicas. Não existe nenhum elemento no texto, além da detecção de fraudes que possa nos remeter a mineração de dados. A mineração de dados exige que os dados sejam transformados e organizados com um mínimo de estrutura para que possam ser analisados com sucesso.
 Para mim, a correlação de dados estruturados e não estruturados é associada ao processo de Big Data, a mineração de dados como sugere a alternativa, pode aparecer como parte desse processo. Logo, na minha opinião temos uma alternativa errada,mas o CESPE julgou CORRETA.
 
 94. Para que a tabela seja considerada uma relação ela tem que possuir atributos atômicos ou estar na primeira forma normal. Como não temos atributos compostos ou multivalorados podemos considerar a normalização a 1FN. Sendo assim, podemos marcar a assertiva como correta.

@@ -1008,9 +1008,7 @@ Opinião indireta não é falada diretamente, alguma inferência precisa ser fei
 Já a opinião implícita é objetiva, ela revela a realidade dos fatos ... não podemos mudar! Por exemplo
 ... Comprei o colchão há uma semana, e um buraco se formou. (Aqui temos uma opinião indireta e implícita). O fato de ter se formado um buraco reflete de forma objetiva a qualidade ruim do colchão.
 Vejamos outro exemplo ... A vida útil da bateria dos telefones Nokia é mais longa do que a dos telefones Samsung (aqui temos uma opinião comparativa e implícita (objetiva)).
-Pessoal, lembrem-se de usar o fórum de dúvidas sempre que necessário! Como sempre falo
-qualquer dúvida estou às ordens!
-
+Pessoal, lembrem-se de usar o fórum de dúvidas sempre que necessário! Como sempre falo qualquer dúvida estou às ordens!
 Forte abraço e bons estudos!
 
 CoNCEIToS CoMPLEMENTARES

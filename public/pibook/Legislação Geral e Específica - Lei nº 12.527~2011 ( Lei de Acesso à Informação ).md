@@ -170,7 +170,6 @@ Reparem que elevem ser divulgadas - sem solicitação prévia - no mínimo estas
 Como exemplo, vale desatacar a divulgação da remuneração dos servidores públicos. No plano do Poder Executivo Federal, o Decreto 7.724/2011 determina a divulgação da referida remuneração, de maneira individualizada, prática que tem sido "seguida"também em outras esferas e Poderes2. A este respeito, vale lembrar que a jurisprudência brasileira considera legítima a divulgação eletrônica do valor das remunerações dos servidores de forma individualizada, sem que isto viole a intimidade dos servidores públicos:
 ..
 
-
 ..
 
 i É legítima a publicação, inclusive em sítio eletrônico mantido pela administração pública, i
@@ -1878,7 +1877,6 @@ i
 
 L
 
-
 Gabarito (E)
 
 39. CEBRASPE/ MPOG - Arquivista - Cargo 3 - 2015
@@ -2235,7 +2233,6 @@ j
 O Item II está correto, nos termos do inciso III do art. 7o da lei 12.527/2011:
 
 ..
-
 
 *
 * 1

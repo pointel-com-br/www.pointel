@@ -1677,7 +1677,6 @@ r------
 
 Art. 72, iv - para a realização de estudos por órgão de pesquisa, garantida, sempre que i i possível, a anonimização dos dados pessoais;;
 
-
 A letra (C) está incorreta, na medida em que a LGPD não se aplica ao tratamento de dados pessoais for feito para fins jornalísticos ou acadêmicos:
 *
 
@@ -2630,7 +2629,6 @@ por delegação i
 
 A letra (B) está incorreta, visto que as informações pessoais armazenadas pelo poder público devem ser mantidas sob sigilo, segundo dispõe a LAI (Lei de Acesso à Informação):
 ..
-
 
 *
 * 1
