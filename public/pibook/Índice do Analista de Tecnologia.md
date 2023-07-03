@@ -168,7 +168,7 @@
 
 - Metodologia de Desenvolvimento Ágil - XP.
 
-- Gerenciamento de produtos - Lean.
+- Gestão Ágil - Lean.
 
 - Gerenciamento de serviços (ITIL V4).
 
