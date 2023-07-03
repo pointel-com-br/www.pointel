@@ -10,10 +10,13 @@ def adjust_marked_empty_lines(text):
     inside_code_block = False
     for line in text:
         test = line.strip()
-        if test.startswith("```"):
-            inside_code_block = not inside_code_block
         if inside_code_block:
             result.append(line)
+            if test.startswith("```"):  
+                inside_code_block = False
+        elif test.startswith("```"):
+            result.append(line)
+            inside_code_block = True
         else:
             test = re.sub(r'\s+', ' ', test)
             if not test:
@@ -91,6 +94,10 @@ def adjust_marked_only_dots(text):
 
 
 def adjust_marked_broken_lines(text):
+
+    def is_the_case(char):
+        return char.isalpha() and char.islower() and not char.isdigit()
+
     print('Ajustando marcado - linhas quebradas...')
     i = 0
     result = []
@@ -99,26 +106,30 @@ def adjust_marked_broken_lines(text):
     while i < len(text):
         line = text[i]
         test = line.strip()
-        if test.startswith("```"):
-            inside_block = not inside_block
         if inside_block:
             result.append(line)
             last_line = ""
+            if test.startswith("```"):
+                inside_block = False
+        elif test.startswith("```"):
+            result.append(line)
+            last_line = ""
+            inside_block = True
         else:
             if test != "":
-                if test[-1].islower():
+                if is_the_case(test[-1]):
                     j = i + 1
                     while j < len(text):
                         test_next = text[j].strip()
                         if test_next != "":
-                            if test_next[0].islower():
+                            if is_the_case(test_next[0]):
                                 diff = (j - 1) - i
                                 i += diff
                             break
                         j += 1
             append = True
             if last_line and test:
-                if last_line[-1].islower() and test[0].islower():
+                if is_the_case(last_line[-1]) and is_the_case(test[0]):
                     append = False
             if append:
                 result.append(test + "\n")

@@ -166,15 +166,16 @@ Neste exemplo, o `map()` é usado para criar um novo array chamado `dobrados`, o
 2. `filter()`: O método `filter()` cria um novo array com todos os elementos que passam em um teste especificado por uma função de callback. Ele retorna um novo array contendo apenas os elementos do array original que atendem à condição definida na função de callback.
 
 Exemplo de uso do `filter()`:
-```javascript
-const numeros = [1, 2, 3, 4, 5];
 
-const pares = numeros.filter((numero) => {
-return numero % 2 === 0;
-});
+    ```javascript
+        const numeros = [1, 2, 3, 4, 5];
 
-console.log(pares); // Saída: [2, 4]
-```
+        const pares = numeros.filter((numero) => {
+            return numero % 2 === 0;
+        });
+
+        console.log(pares); // Saída: [2, 4]
+    ```
 
 Neste exemplo, o `filter()` é usado para criar um novo array chamado `pares`, que contém apenas os números pares do array original `numeros`. A função de callback retorna `true` para os elementos que são divisíveis por 2 (ou seja, números pares) e `false` para os elementos que não são divisíveis por 2.
 
