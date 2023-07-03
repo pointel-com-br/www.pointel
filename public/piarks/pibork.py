@@ -2,8 +2,6 @@
 import os
 import re
 
-from genericpath import isfile
-
 
 def adjust_marked_empty_lines(text):
     print('Ajustando marcado - linhas vazias...')
