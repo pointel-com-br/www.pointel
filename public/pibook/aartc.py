@@ -12,9 +12,9 @@ def adjust_marked_empty_lines(text):
         test = line.strip()
         if inside_code_block:
             result.append(line)
-            if test.startswith("```"):  
+            if test.startswith('```'):  
                 inside_code_block = False
-        elif test.startswith("```"):
+        elif test.startswith('```'):
             result.append(line)
             inside_code_block = True
             empty = 0
@@ -43,10 +43,10 @@ def adjust_marked_chars(text):
     result = []
     for line in text:
         line = line.replace('■', '')
-        line = line.replace('“', '"')
-        line = line.replace('”', '"')
-        line = line.replace('’', "'")
-        line = line.replace('‘', "'")
+        line = line.replace('“', ''')
+        line = line.replace('”', ''')
+        line = line.replace('’', ''')
+        line = line.replace('‘', ''')
         line = line.replace('–', '-')
         line = line.replace('□', '-')
         line = line.replace('•', '*')
@@ -84,9 +84,9 @@ def adjust_marked_weird_chars(text):
             return False
         weird_count = False
         for c in test:
-            if not (c == " " or c == "." or c == "," or c == ":" or c == ";" or c == "*" or c == "/" or c == "\\" or c == "|"):
+            if not (c == ' ' or c == '.' or c == ',' or c == ':' or c == ';' or c == '*' or c == '/' or c == '\\' or c == '|'):
                 return False
-            if c == "." or c == "," or c == ":" or c == ";" or c == "*" or c == "/" or c == "\\" or c == "|":
+            if c == '.' or c == ',' or c == ':' or c == ';' or c == '*' or c == '/' or c == '\\' or c == '|':
                 weird_count += 1
         return weird_count >= 3
 
@@ -97,14 +97,14 @@ def adjust_marked_weird_chars(text):
         test = line.strip()
         if inside_block:
             result.append(line)
-            if test.startswith("```"):
+            if test.startswith('```'):
                 inside_block = False
-        elif test.startswith("```"):
+        elif test.startswith('```'):
             result.append(line)
             inside_block = True
         elif not is_only_weird(test):
-            if test.startswith("#") and test[len(test) -1] == ".":
-                line = test[0:len(test) -1] + "\n"
+            if test.startswith('#') and test[len(test) -1] == '.':
+                line = test[0:len(test) -1] + '\n'
             result.append(line)
     return result
 
@@ -117,27 +117,27 @@ def adjust_marked_broken_lines(text):
     print('Ajustando marcado - linhas quebradas...')
     i = 0
     result = []
-    last_line = ""
+    last_line = ''
     inside_block = False
     while i < len(text):
         line = text[i]
         test = line.strip()
         if inside_block:
             result.append(line)
-            last_line = ""
-            if test.startswith("```"):
+            last_line = ''
+            if test.startswith('```'):
                 inside_block = False
-        elif test.startswith("```"):
+        elif test.startswith('```'):
             result.append(line)
-            last_line = ""
+            last_line = ''
             inside_block = True
         else:
-            if test != "":
+            if test != '':
                 if is_the_case(test[-1]):
                     j = i + 1
                     while j < len(text):
                         test_next = text[j].strip()
-                        if test_next != "":
+                        if test_next != '':
                             if is_the_case(test_next[0]):
                                 diff = (j - 1) - i
                                 i += diff
@@ -148,9 +148,9 @@ def adjust_marked_broken_lines(text):
                 if is_the_case(last_line[-1]) and is_the_case(test[0]):
                     append = False
             if append:
-                result.append(test + "\n")
+                result.append(test + '\n')
             else:
-                result[-1] = result[-1].strip() + " " + test
+                result[-1] = result[-1].strip() + ' ' + test
             last_line = test
         i += 1
     return result
@@ -167,41 +167,41 @@ def adjust_text_hierarchy(text):
     inside_code_block = False
     for line in text:
         test = line.strip()
-        if test.startswith("```"):
+        if test.startswith('```'):
             inside_code_block = not inside_code_block
         if inside_code_block:
             result.append(line)
         else:
-            if test.startswith("###### "):
-                test = "Sub Sub Sub Tópico. " + test[len("###### "):]
-                if not test.endswith("."):
-                    test += "."
-            elif test.startswith("##### "):
-                test = "Sub Sub Tópico. " + test[len("##### "):]
-                if not test.endswith("."):
-                    test += "."
-            elif test.startswith("#### "):
-                test = "Sub Tópico. " + test[len("#### "):]
-                if not test.endswith("."):
-                    test += "."
-            elif test.startswith("### "):
-                test = "Tópico. " + test[len("### "):]
-                if not test.endswith("."):
-                    test += "."
-            elif test.startswith("## "):
-                test = "{{Pause=2}} Início de Sub Capítulo. " + test[len("## "):]
-                if not test.endswith("."):
-                    test += "."
-                test += " {{Pause=1}}" 
-            elif test.startswith("# "):
-                test = "{{Pause=3}} Início de Capítulo. " + test[len("# "):]
-                if not test.endswith("."):
-                    test += "."
-                test += " {{Pause=2}}"
+            if test.startswith('###### '):
+                test = 'Sub Sub Sub Tópico. ' + test[len('###### '):]
+                if not test.endswith('.'):
+                    test += '.'
+            elif test.startswith('##### '):
+                test = 'Sub Sub Tópico. ' + test[len('##### '):]
+                if not test.endswith('.'):
+                    test += '.'
+            elif test.startswith('#### '):
+                test = 'Sub Tópico. ' + test[len('#### '):]
+                if not test.endswith('.'):
+                    test += '.'
+            elif test.startswith('### '):
+                test = 'Tópico. ' + test[len('### '):]
+                if not test.endswith('.'):
+                    test += '.'
+            elif test.startswith('## '):
+                test = '{{Pause=2}} Início de Sub Capítulo. ' + test[len('## '):]
+                if not test.endswith('.'):
+                    test += '.'
+                test += ' {{Pause=1}}' 
+            elif test.startswith('# '):
+                test = '{{Pause=3}} Início de Capítulo. ' + test[len('# '):]
+                if not test.endswith('.'):
+                    test += '.'
+                test += ' {{Pause=2}}'
             result.append(test + '\n')
-    result.append("\n")
-    result.append("{{Pause=1}} Fim de Capítulo. {{Pause=2}}\n")
-    result.append("\n")
+    result.append('\n')
+    result.append('{{Pause=1}} Fim de Capítulo. {{Pause=2}}\n')
+    result.append('\n')
     return result
 
 
@@ -223,7 +223,7 @@ def adjust_text_items(text):
                 elif c == '.':
                     there_is_a_dot = True
             if only_numbers_or_dots and there_is_a_number and there_is_a_dot:
-                text[i] = "Item. " + text[i]
+                text[i] = 'Item. ' + text[i]
     return text
 
 
@@ -233,17 +233,17 @@ def adjust_text_code_blocks(text):
     inside_code_block = False
     for line in text:
         test = line.strip()
-        if test.startswith("```"):
-            suffix = test[3:] if len(test) > 3 else ""
+        if test.startswith('```'):
+            suffix = test[3:] if len(test) > 3 else ''
             if not inside_code_block:
-                test = "Iniciando bloco de código."
+                test = 'Iniciando bloco de código.'
             else:
-                test = "Fechando bloco de código."
+                test = 'Fechando bloco de código.'
             if suffix:
-                test += " " + suffix
-            if not test.endswith("."):
-                test += "." 
-            result.append(test + "\n\n")
+                test += ' ' + suffix
+            if not test.endswith('.'):
+                test += '.' 
+            result.append(test + '\n\n')
             inside_code_block = not inside_code_block
         else: 
             if inside_code_block and line.strip():
@@ -266,10 +266,26 @@ def adjust_text_code_blocks(text):
                 test = test.replace(']', ' ] ')
                 test = test.replace('{', ' { ')
                 test = test.replace('}', ' } ')
-                result.append(test + "\n\n")
+                result.append(test + '\n\n')
             else:
                 result.append(line)
     return result
+
+
+def adjust_text_time(text):
+    for i, line in enumerate(text):
+        line = line.replace('?', '?{{Pause=0.7}}')
+        line = line.replace('!', '!{{Pause=0.7}}')
+        line = line.replace('.', '.{{Pause=0.7}}')
+        line = line.replace(',', ',{{Pause=0.7}}')
+        line = line.replace(':', ':{{Pause=0.7}}')
+        line = line.replace(';', ';{{Pause=0.7}}')
+        line = line.replace('(', ' ( {{Pause=1}}')
+        line = line.replace(')', ' ) {{Pause=1}}')
+        line = line.replace('[', ' [ {{Pause=1}}')
+        line = line.replace(']', ' ] {{Pause=1}}')
+        text[i] = line
+    return text
 
 
 def adjust_text_temp(text):
@@ -294,15 +310,16 @@ def adjust_text(text, path):
     text = adjust_text_hierarchy(text)
     text = adjust_text_items(text)
     text = adjust_text_code_blocks(text)
+    text = adjust_text_time(text)
     text = adjust_text_temp(text)
     return text
 
 
 def save_text(text, path):
     text = adjust_text(text, path)
-    destiny = os.path.splitext(path)[0] + ".txt"
+    destiny = os.path.splitext(path)[0] + '.txt'
     print('Salvando texto: ' + destiny)
-    with open(destiny, 'w', encoding="utf-8") as file:
+    with open(destiny, 'w', encoding='utf-8') as file:
         file.writelines(text)
     return text
 
@@ -310,14 +327,14 @@ def save_text(text, path):
 def save_marked(text, path):
     text = adjust_marked(text, path)
     print('Salvando marcado: ' + path)
-    with open(path, 'w', encoding="utf-8") as file:
+    with open(path, 'w', encoding='utf-8') as file:
         file.writelines(text)
     return text
 
 
 def read_marked(path):
     print('Lendo marcado: ' + path)
-    with open(path, 'r', encoding="utf-8") as file:
+    with open(path, 'r', encoding='utf-8') as file:
         return file.readlines()
 
 
