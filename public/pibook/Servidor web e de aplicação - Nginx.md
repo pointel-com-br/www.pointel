@@ -24,18 +24,18 @@ Para configurar o HTTPS no servidor web Nginx, você precisa seguir alguns passo
 
 2. Configurar o arquivo de configuração: Abra o arquivo de configuração do Nginx para o seu site ou virtual host. O arquivo de configuração geralmente está localizado no diretório `/etc/nginx/conf.d/` ou `/etc/nginx/sites-available/`. Certifique-se de que o arquivo contenha as seguintes linhas ou adicione-as, se necessário:
 
-```
+```nginx
 server {
-listen 443 ssl;
-server_name seu_dominio.com;
+    listen 443 ssl;
+    server_name seu_dominio.com;
 
-ssl_certificate /caminho/para/o/certificado.crt;
-ssl_certificate_key /caminho/para/a/chave_privada.key;
+    ssl_certificate /caminho/para/o/certificado.crt;
+    ssl_certificate_key /caminho/para/a/chave_privada.key;
 
-# Configurações adicionais
-location / {
-# Configurações adicionais para lidar com as solicitações
-}
+    # Configurações adicionais
+    location / {
+        # Configurações adicionais para lidar com as solicitações
+    }
 }
 ```
 
@@ -59,11 +59,11 @@ Para configurar o Nginx como um balanceador de carga HTTP, você pode usar o rec
 
 1. Configurar os backends: Primeiro, você precisa configurar os backends, ou seja, os servidores que receberão as solicitações do balanceador de carga. Abra o arquivo de configuração do Nginx e adicione as seguintes linhas para cada backend:
 
-```
+```nginx
 upstream backend_cluster {
-server ip_do_backend1:porta;
-server ip_do_backend2:porta;
-# Adicione mais servidores conforme necessário
+    server ip_do_backend1:porta;
+    server ip_do_backend2:porta;
+    # Adicione mais servidores conforme necessário
 }
 ```
 
@@ -71,16 +71,16 @@ Certifique-se de substituir `ip_do_backend1` e `ip_do_backend2` pelos endereços
 
 2. Configurar o balanceador de carga: Agora, você precisa configurar o balanceador de carga propriamente dito. Adicione as seguintes linhas ao seu arquivo de configuração:
 
-```
+```nginx
 server {
-listen 80;
-server_name seu_dominio.com;
+    listen 80;
+    server_name seu_dominio.com;
 
-location / {
-proxy_pass http://backend_cluster;
-proxy_set_header Host $host;
-proxy_set_header X-Real-IP $remote_addr;
-}
+    location / {
+        proxy_pass http://backend_cluster;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+    }
 }
 ```
 
