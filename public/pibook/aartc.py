@@ -121,9 +121,9 @@ def adjust_marked_broken_lines(text):
                 if last_line[-1].islower() and test[0].islower():
                     append = False
             if append:
-                result.append(test)
+                result.append(test + "\n")
             else:
-                result[-1] = result[-1] + " " + test
+                result[-1] = result[-1].strip() + " " + test
             last_line = test
         i += 1
     return result
