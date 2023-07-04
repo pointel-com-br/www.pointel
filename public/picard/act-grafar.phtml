@@ -82,22 +82,35 @@ function random() {
 function salvar() {
   document.formGrafar.submit();
 }
+
+function previne(e) {
+  if (e.preventDefault) {
+    e.preventDefault();
+  }
+  if (e.stopPropagation) {
+    e.stopPropagation()
+  }
+}
 document.body.addEventListener("keydown", function(e) {
   if (e.altKey) {
     switch (e.key) {
       case "q":
+        previne(e);
         random();
         break;
-    case "n":
+      case "n":
+        previne(e);
         numerar();
         break;
-    case "s":
+      case "s":
+        previne(e);
         substituir();
         break;
     }
   } else if (e.ctrlKey) {
     switch (e.key) {
       case "s":
+        previne(e);
         salvar();
         break;
     }
