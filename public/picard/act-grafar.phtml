@@ -50,10 +50,14 @@ function numerar() {
   const answerEdit = document.getElementById('answer');
   let answer = answerEdit.value;
   let lines = answer.split("\n");
+  let index = 0;
   for (let i = 0; i < lines.length; i++) {
-    lines[i] = (i + 1) + ". " + lines[i].trim();
-    if (!lines[i].endsWith(".") && !lines[i].endsWith(";")) {
-      lines[i] += ".";
+    lines[i] = lines[i].trim()
+    if (lines[i]) {
+      lines[i] = (++index) + ". " + lines[i];
+      if (!lines[i].endsWith(".") && !lines[i].endsWith(";")) {
+        lines[i] += ".";
+      }
     }
   }
   answerEdit.value = lines.join("\n");
