@@ -79,9 +79,7 @@ function random() {
   document.location = 'index.php?action=sortear&from=<?=$id?>';
 }
 
-function salvar(e) {
-  e.preventDefault();
-  e.stopPropagation();
+function salvar() {
   document.formGrafar.submit();
 }
 document.body.addEventListener("keydown", function(e) {
@@ -90,11 +88,17 @@ document.body.addEventListener("keydown", function(e) {
       case "q":
         random();
         break;
+    case "n":
+        numerar();
+        break;
+    case "s":
+        substituir();
+        break;
     }
   } else if (e.ctrlKey) {
     switch (e.key) {
       case "s":
-        salvar(e);
+        salvar();
         break;
     }
   }
