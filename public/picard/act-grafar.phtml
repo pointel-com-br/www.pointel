@@ -41,7 +41,8 @@
     </div>
     <div>
       <input type="submit" value="Salvar" /> | <button type="button"
-        onclick="numerar()">Numerar</button>
+        onclick="numerar()">Numerar</button> <button type="button"
+        onclick="substituir()">Substituir</button>
     </div>
   </div>
 </form>
@@ -61,6 +62,17 @@ function numerar() {
     }
   }
   answerEdit.value = lines.join("\n");
+}
+
+function substituir() {
+  let de = prompt("Substituir de:");
+  if (de) {
+    let para = prompt("Substituir para:");
+    if (para) {
+      const answerEdit = document.getElementById('answer');
+      answerEdit.value = answerEdit.value.replaceAll(de, para);
+    }
+  }
 }
 
 function random() {
