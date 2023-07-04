@@ -1,4 +1,4 @@
-# Índice do Analista de Tecnologia
+# ABC do Analista de Tecnologia
 
 ## Conhecimentos Básicos
 

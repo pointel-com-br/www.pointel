@@ -2,10 +2,10 @@
 import csv
 import os
 
-import pilibrs
+import piarm
 
 
-def replace_all(text):
+def transform_from_csv(text):
     text = text.replace(' \\" ', '"')
     text = text.replace(' \\n ', "\n")
     text = text.replace(' \\s ', " ")
@@ -22,21 +22,29 @@ def make_all_cards(origin, destiny):
     with open(origin, mode ='r', encoding='utf-8') as file:
         csvFile = csv.reader(file)
         for i, data in enumerate(csvFile):
-            question = "".join(pilibrs.adjust_text_code_blocks([replace_all(data[1])]))
-            answer = "".join(pilibrs.adjust_text_code_blocks([replace_all(data[2])]))
+            question = transform_from_csv(data[1]).split("\n")
+            answer = transform_from_csv(data[2]).split("\n")
+            question = piarm.adjust_text(question, 'Questão')
+            answer = piarm.adjust_text(answer, 'Resposta')
             path = os.path.join(destiny, "Card " + str(i)) + ".txt"
             with open(path, mode='w', encoding='utf-8') as writer:
                 writer.write("Cartão " + str(i) + ".\n\n")
                 writer.write("Questão.\n\n")
-                writer.write(question)
+                writer.write("{{Pause=2}}")
                 writer.write("\n\n")
-                writer.write("{{Pause=6}}")
+                for line in question:
+                    writer.write(line)
+                writer.write("\n\n")
+                writer.write("{{Pause=5}}")
                 writer.write("\n\n")
                 writer.write("Resposta.\n\n")
-                writer.write(answer)
+                writer.write("{{Pause=2}}")
                 writer.write("\n\n")
-                writer.write("{{Pause=6}}\n\n")
+                for line in answer:
+                    writer.write(line)
+                writer.write("\n\n")
+                writer.write("{{Pause=5}}\n\n")
                 writer.write("\n\n")
 
 if __name__ == "__main__":
-    make_all_cards('..\\pikard\\aptar.csv', 'C:\\Users\\emuvi\\Downloads')
+    make_all_cards('..\\picard\\aptar.csv', 'C:\\Users\\emuvi\\Downloads')
