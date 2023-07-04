@@ -1,7 +1,9 @@
 import os
 import re
 
-import pilibrs
+import piarm
+
+ROOT_PATH = '..\\pibook\\'
 
 
 def adjust_marked_empty_lines(text):
@@ -35,10 +37,10 @@ def adjust_marked_empty_lines(text):
     return result
 
 
-def adjust_marked_main_chapter(text, path):
+def adjust_marked_main_chapter(text, name):
     print('Ajustando marcado - capítulo principal...')
     text[0] = text[0].strip()
-    main_title = '# ' + os.path.splitext(os.path.basename(path))[0] + '\n'
+    main_title = '# ' + os.path.splitext(os.path.basename(name))[0] + '\n'
     if not text[0] == main_title:
         text[0] = main_title
     return text
@@ -236,16 +238,16 @@ def adjust_text_items(text):
 def adjust_text_time(text):
     print('Ajustando texto - tempos para leitura...')
     for i, line in enumerate(text):
-        line = line.replace('?', '?{{Pause=0.7}}')
-        line = line.replace('!', '!{{Pause=0.7}}')
-        line = line.replace('.', '.{{Pause=0.7}}')
-        line = line.replace(',', ',{{Pause=0.7}}')
-        line = line.replace(':', ':{{Pause=0.7}}')
-        line = line.replace(';', ';{{Pause=0.7}}')
-        line = line.replace('(', ' ( {{Pause=1}}')
-        line = line.replace(')', ' ) {{Pause=1}}')
-        line = line.replace('[', ' [ {{Pause=1}}')
-        line = line.replace(']', ' ] {{Pause=1}}')
+        line = line.replace('?', '?{{Pause=0.3}}')
+        line = line.replace('!', '!{{Pause=0.3}}')
+        line = line.replace('.', '.{{Pause=0.3}}')
+        line = line.replace(',', ',{{Pause=0.3}}')
+        line = line.replace(':', ':{{Pause=0.3}}')
+        line = line.replace(';', ';{{Pause=0.3}}')
+        line = line.replace('(', ' ( {{Pause=0.7}}')
+        line = line.replace(')', ' ) {{Pause=0.7}}')
+        line = line.replace('[', ' [ {{Pause=0.7}}')
+        line = line.replace(']', ' ] {{Pause=0.7}}')
         text[i] = line
     return text
 
@@ -255,10 +257,10 @@ def adjust_text_temp(text):
     return text
 
 
-def adjust_marked(text, path):
-    print('Ajustando marcado: ' + path)
+def adjust_marked(text, name):
+    print('Ajustando marcado: ' + name)
     text = adjust_marked_empty_lines(text)
-    text = adjust_marked_main_chapter(text, path)
+    text = adjust_marked_main_chapter(text, name)
     text = adjust_marked_chars(text)
     text = adjust_marked_page_numbers(text)
     text = adjust_marked_broken_lines(text)
@@ -267,55 +269,56 @@ def adjust_marked(text, path):
     return text
 
 
-def adjust_text(text, path):
-    print('Ajustando texto: ' + path)
+def adjust_text(text, name):
+    print('Ajustando texto: ' + name)
     text = adjust_text_hierarchy(text)
     text = adjust_text_items(text)
-    text = pilibrs.adjust_text_code_blocks(text)
+    text = piarm.adjust_text_code_blocks(text)
     text = adjust_text_time(text)
     text = adjust_text_temp(text)
     return text
 
 
-def save_text(text, path):
-    text = adjust_text(text, path)
-    destiny = os.path.splitext(path)[0] + '.txt'
+
+def save_text(text, name):
+    text = adjust_text(text, name)
+    destiny = os.path.splitext(name)[0] + '.txt'
     print('Salvando texto: ' + destiny)
-    with open(destiny, 'w', encoding='utf-8') as file:
+    with open(ROOT_PATH + destiny, 'w', encoding='utf-8') as file:
         file.writelines(text)
     return text
 
 
-def save_marked(text, path):
-    text = adjust_marked(text, path)
-    print('Salvando marcado: ' + path)
-    with open(path, 'w', encoding='utf-8') as file:
+def save_marked(text, name):
+    text = adjust_marked(text, name)
+    print('Salvando marcado: ' + name)
+    with open(ROOT_PATH + name, 'w', encoding='utf-8') as file:
         file.writelines(text)
     return text
 
 
-def read_marked(path):
-    print('Lendo marcado: ' + path)
-    with open(path, 'r', encoding='utf-8') as file:
+def read_marked(name):
+    print('Lendo marcado: ' + name)
+    with open(ROOT_PATH + name, 'r', encoding='utf-8') as file:
         return file.readlines()
 
 
-def is_marked(path):
-    return path[-3:] == '.md'
+def is_marked(name):
+    return name[-3:] == '.md'
 
 
-def had_changes(path):
-    text = os.path.splitext(path)[0] + ".txt"
-    if os.path.isfile(text):
-        if os.path.getmtime(text) > os.path.getmtime(path):
+def has_changes(marked):
+    text = os.path.splitext(marked)[0] + ".txt"
+    if os.path.isfile(ROOT_PATH + text):
+        if os.path.getmtime(ROOT_PATH + text) > os.path.getmtime(ROOT_PATH + marked):
             return False
     return True
 
 
-def list_paths_with_changes():
-    return [path for path in os.listdir('.') if is_marked(path) and had_changes(path)]
+def list_marked_with_changes():
+    return [path for path in os.listdir(ROOT_PATH) if is_marked(path) and has_changes(path)]
 
 
 if __name__ == '__main__':
-    for path in list_paths_with_changes():
-        save_text(save_marked(read_marked(path), path), path)
+    for marked in list_marked_with_changes():
+        save_text(save_marked(read_marked(marked), marked), marked)
