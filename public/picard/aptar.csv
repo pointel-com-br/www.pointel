@@ -7,8 +7,8 @@ GS,"Quais são os papéis no SAML?","Service Provider, User Agent, Identity Prov
 LP,"Quais são as exceções dos hiatos acentuados?","Seguidos de nh ( \i rainha /i ), repetição de vogal ( \i xiita /i ) e formação de sílaba com consoante que não seja S ( \i juiz /i )."
 GS,"Quais são os papéis no OAuth?","Resource Owner, Client, Authorization Server, Resource Server."
 DI,"No aprendizado de máquina a árvore de decisão pode ser usada para?","Para classificação e regressão."
-RA,"Qual a equivalência de uma proposição 'se então' ` -> ` com uma 'ou' ` | `?","Nega a primeira e mantém a segunda. \n  \n Se P então Q é equivalente a não P ou Q. \n  \n ` P -> Q <=> ~P | Q `."
-RA,"Qual a equivalência que inverte uma proposição 'se então' ` -> `?","Nega os dois e inverte. \n  \n Se P então Q é equivalente a Se não Q então não P. \n  \n ` P -> Q <=> ~Q -> ~P `."
+RA,"Qual a equivalência de uma proposição 'se então' ` -> ` com uma 'ou' ` | `?","Nega a primeira e mantém a segunda. \n  \n Se P então Q é equivalente a não P ou Q. \n  \n ` P -> Q <=> ~P | Q `"
+RA,"Qual a equivalência que inverte uma proposição 'se então' ` -> `?","Nega os dois e inverte. \n  \n Se P então Q é equivalente a Se não Q então não P. \n  \n ` P -> Q <=> ~Q -> ~P `"
 RA,"Qual a condição suficiente numa proposição condicional?","A primeira."
 RA,"Qual a condição necessária numa proposição condicional?","A segunda."
 RA,"Como pode ser reescrito Todo A é B em condicional?","Se A então B."
@@ -31,30 +31,30 @@ GS,"O que é o ataque de Defacement (Desfiguração) ?","É adulterar uma págin
 GS,"O que é o Phising?","Clonar uma página a fim de obtenção de informações privadas."
 GS,"Qual a diferença do Spear Phishing para o Phishing?","É o Phishing feito com uma vítima / público específicos."
 DS,"No CSS como se seleciona os elementos filhos? (Child Selector)","Com o operador > \n  \n div > p { \n  \s  \s color: yellow; \n }"
-DS,"No CSS como se seleciona os elementos descendentes? \n (Descendant Selector)","Com um espaço. \n  \n div p { \n  \s  \s color: yellow; \n }"
-DS,"No CSS como se seleciona o primeiro elemento irmão? (Adjacent Sibling Selector)","Com o operador + \n  \n div + p { \n  \s  \s color: yellow; \n }"
-DS,"No CSS como se seleciona todos os elementos irmãos? \n (General Sibling Selector)","Com o operador ~ \n  \n div ~ p { \n   color: yellow; \n }"
+DS,"No CSS como se seleciona os elementos descendentes? \n `Descendant Selector`","Com um espaço. \n  \n div p { \n  \s  \s color: yellow; \n }"
+DS,"No CSS como se seleciona o primeiro elemento irmão? `Adjacent Sibling Selector`","Com o operador + \n  \n div + p { \n  \s  \s color: yellow; \n }"
+DS,"No CSS como se seleciona todos os elementos irmãos? \n `General Sibling Selector`","Com o operador ~ \n  \n div ~ p { \n   color: yellow; \n }"
 DS,"Como se usa o seletor do CSS que usa os atributos?","tag[attr=igual]  ou  tag[attr^=começam]  ou  tag[attr$=terminam]"
 DS,"Quais são as principais pseudo classes do CSS?","tag:link  tag:hover  tag:active  tag:inactive  tag:first-child  tag:nth-child"
 DS,"Quais são os principais pseudo elementos do CSS?","tag::first-line  tag::first-letter  tag::after  tag::before"
 DS,"Como se faz para no seletor do CSS excluir um elemento específico da seleção?","tag:not(:first-child)  tag:not(:last-child)  tag:not(#id)  tag:not(.classe)"
-DS,"Como se faz para selecionar no CSS um elemento de ordem específica?","tag:nth-child(odd)  tag:nth-child(even)  tag:nth-child(3) tag:nth-child(3n)  tag:nth-child(3n + 1)"
+DS,"Como se faz para selecionar no CSS um elemento de ordem específica?","tag:nth-child(odd)  tag:nth-child(even)  tag:nth-child(3. tag:nth-child(3n)  tag:nth-child(3n + 1."
 GS,"O que é o ataque de Pharming?","Quando o tráfego de um site é direcionado para outro."
 DS,"Quais as funções do Python para ler um arquivo?","open, read, readlines \n  \n file = open('name.txt') \n entire = file.read() \n lines = file.readlines()"
 GS,"Como também é conhecido o Pharming?","Envenenamento de DNS que procura redirecionar os usuários de um site para uma página falsa."
 DS,"Como a gente pode fechar um arquivo automaticamene em Python?","with open('name.txt') as file: \n  \s  \s contents = file.read"
 DS,"Quais são os modos de abertura de arquivos em Python?","open('name.txt', mode='...') \n  \n r - read only \n w - write only, overwrite or create \n a - append only \n r+ - reading and writing \n w+ - writing and reading, overwrite or create"
 DS,"Qual a diferença no Python das funções sort e sorted?","O sort ordena a própria array e o sorted retorna uma nova array ordenada."
-DS,"Como podemos verificar se uma substring está presente em outra string em Python?","Usando o commando in \n  \n 'ab' in 'abc'"
-DS,"Como podemos verificar se uma chave está presente em um dicionário em Python?","Usando o commando in \n  \n dict = {'key': 12} \n isin = 'key' in dic"
-DS,"Como criar uma lista de caracteres em Python com um laço intrínsico?","mylist = [letter for letter in 'string']"
-DS,"Como se faz um ternário em Python?","even = 'even' if True else 'odd'"
-DS,"Qual a diferença entre o redirect e o forward no JavaEE?","No encaminhamento as variáveis de requisição são repassadas enquanto no redirecionamento não. \n  \n getServletContext().getRequestDispatcher( \" target.jsp \" ).forward(req, resp); \n  \n resp.sendRedirect(req.getContextPath() + \" target.jsp \" );"
-DS,"Qual é a ordem de leitura de escopos em Python?","LEGB \n  \n L - Local \n E - Enclosing \n G - Global \n B - Built-in"
-DS,"Como se define uma função em Python?","`def myfunc():`."
+DS,"Como podemos verificar se uma substring está presente em outra string em Python?","Usando o commando `in` \n  \n `'ab' in 'abc'`"
+DS,"Como podemos verificar se uma chave está presente em um dicionário em Python?","Usando o commando `in` \n  \n ``` \n dict = {'key': 12} \n isin = 'key' in dic \n ```"
+DS,"Como criar uma lista de caracteres em Python com um laço intrínsico?","`mylist = [letter for letter in 'string']`"
+DS,"Como se faz um ternário em Python?","`even = 'even' if True else 'odd'`"
+DS,"Qual a diferença entre o redirect e o forward no JavaEE?","No encaminhamento as variáveis de requisição são repassadas enquanto no redirecionamento não. \n  \n getServletContext().getRequestDispatcher( ' target.jsp ' ).forward(req, resp); \n  \n resp.sendRedirect(req.getContextPath() + ' target.jsp ' );"
+DS,"Qual é a ordem de leitura de escopos em Python?","`LEGB \n  \n L - Local \n E - Enclosing \n G - Global \n B - Built-in`"
+DS,"Como se define uma função em Python?","`def myfunc():`"
 RA,"Como se demonstra que uma proposição é inválida?","Com um exemplo em que as premissas são verdadeiras e a conclusão é falsa ou vice-versa."
-LP,"Quais são os passos para verificar uma conjunção verbal?","1) Colocar o verbo no infinitivo. \n 2) Identificar verbo líder dele. \n 3) Acomodar o líder na frase. \n 4) Verificar se o original está na mesma conjungação do líder acomodado."
-DS,"Como se faz para declarar um método abstrato em Python?","Declara a função com o decorator @abstractmethod e levanta uma excessão ( raise ) NotImplementedError."
+LP,"Quais são os passos para verificar uma conjunção verbal?","1. Colocar o verbo no infinitivo. \n 2. Identificar verbo líder dele. \n 3. Acomodar o líder na frase. \n 4. Verificar se o original está na mesma conjungação do líder acomodado."
+DS,"Como se faz para declarar um método abstrato em Python?","Declara a função com o decorator `@abstractmethod` e levanta uma excessão `raise NotImplementedError`"
 GS,"O que é o ataque de Spoofing?","É quando um atacante se passa por outra pessoa ou entidade."
 GS,"Quais são os métodos de autenticação?","Algo que você sabe, algo que você tem, algo que você é."
 GS,"Quais são os métodos usados na cifragem?","Substituição, Transposição, Esteganografia (Esconder)."
@@ -62,8 +62,8 @@ DS,"Quando se faz um bit shift para a esquerda o que acontece?","O valor é mult
 DS,"Quando se faz um bit shift para a direita o que acontece?","O valor é dividido por 2."
 GS,"Como funciona o método de criptografia de bloco ECB?","É uma técnica não randômica que a informação é dividida em blocos menores e cada um é criptografado individualmente. Cada bloco tem 64 bits. Erro de transmissão em um bloco não afeta os outros. Usa-se a mesma chave para todos os blocos."
 GS,"Como funciona o método de criptografia de bloco CBC?","Utiliza operações XOR. Cifragem de cada bloco depende de todos os anteriores. Usa-se um vetor de inicialização (IV) para o primeiro bloco. Erro de transmissão em um bloco afeta os outros. Usa-se a mesma chave para todos os blocos."
-DS,"Como se faz para declarar uma variável global em Python?","global myvar"
-DS,"O que precisa ter uma pasta para o Python reconhecer como um pacote?","Um arquivo __init__.py"
+DS,"Como se faz para declarar uma variável global em Python?","`global myvar`"
+DS,"O que precisa ter uma pasta para o Python reconhecer como um pacote?","Um arquivo `__init__.py`"
 GS,"O que caracteriza um serviço de IaaS?","O provedor fornece a infraestrutura de TI, como servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais, como um serviço sob demanda."
 ER,"Qual o serivço da Amazon que fornece IaaS?","EC2 - Elastic Compute Cloud."
 GS,"Qual o serviço do Google que fornece IaaS","GCE - Google Compute Engine."
@@ -73,48 +73,48 @@ GT,"Qual o serivço da Amazon que fornece PaaS?","AWS Elastic Beanstalk."
 GT,"Qual o serviço do Google que fornece PaaS?","Google App Engine."
 GT,"Qual o serviço da Microsoft que fornece PaaS?","Azure App Service."
 GS,"O que caracteriza um serviço de SaaS?","É um modelo de distribuição de software em que um provedor de serviços terceirizado hospeda aplicativos e os disponibiliza aos clientes pela Internet."
-GT,"Qual um exemplo de serivço que a Amazon fornece como SaaS?","Amazon WorkMail."
-GT,"Qual um exemplo de serviço que o Google fornece como SaaS?","Google Apps for Work."
-ER,"Qual um exemplo de serviço que a Microsoft fornece como SaaS?","Office 365."
+GT,"Qual um exemplo de serivço que a Amazon fornece como SaaS?","`Amazon WorkMail`"
+GT,"Qual um exemplo de serviço que o Google fornece como SaaS?","`Google Apps for Work`"
+ER,"Qual um exemplo de serviço que a Microsoft fornece como SaaS?","`Office 365`"
 GS,"O que caracteriza um serviço de CaaS?","É caracterizado por prover infraestrutura para comunicação em nuvem, como VoIP, videoconferência, mensagens instantâneas, etc."
-GT,"Qual um exemplo de serivço que a Amazon fornece como CaaS?","Amazon Chime."
-GT,"Qual um exemplo de serviço que o Google fornece como CaaS?","Google Hangouts."
-GT,"Qual um exemplo de serviço que a Microsoft fornece como CaaS?","Skype for Business."
+GT,"Qual um exemplo de serivço que a Amazon fornece como CaaS?","`Amazon Chime`"
+GT,"Qual um exemplo de serviço que o Google fornece como CaaS?","`Google Hangouts`"
+GT,"Qual um exemplo de serviço que a Microsoft fornece como CaaS?","`Skype for Business`"
 GS,"O que caracteriza um serviço de DaaS?","É caracterizado por prover infraestrutura para armazenamento de dados em nuvem."
-GT,"Qual um exemplo de serviço que a Amazon fornece como DaaS?","Amazon S3."
-GT,"Qual um exemplo de serviço que o Google fornece como DaaS?","Google Cloud Storage."
-GT,"Qual um exemplo de serviço que a Microsoft fornece como DaaS?","Azure Storage."
+GT,"Qual um exemplo de serviço que a Amazon fornece como DaaS?","`Amazon S3`"
+GT,"Qual um exemplo de serviço que o Google fornece como DaaS?","`Google Cloud Storage`"
+GT,"Qual um exemplo de serviço que a Microsoft fornece como DaaS?","`Azure Storage`"
 GS,"O que caracteriza um serviço de NaaS?","É caracterizado por prover infraestrutura para rede em nuvem."
-GT,"Qual um exemplo de serivço que a Amazon fornece como NaaS?","Amazon VPC."
-GT,"Qual um exemplo de serviço que o Google fornece como NaaS?","Google Cloud Virtual Network."
-GS,"Qual um exemplo de serviço que a Microsoft fornece como NaaS","Azure Virtual Network."
+GT,"Qual um exemplo de serivço que a Amazon fornece como NaaS?","`Amazon VPC`"
+GT,"Qual um exemplo de serviço que o Google fornece como NaaS?","`Google Cloud Virtual Network`"
+GS,"Qual um exemplo de serviço que a Microsoft fornece como NaaS","`Azure Virtual Network`"
 GS,"O que caracteriza um serviço de FaaS?","É caracterizado por prover computação em nuvem que permite carregar funções individuais de software em um ambiente de nuvem gerenciado. Possibilitando executar e escalar automaticamente um serviço sem a necessidade de provisionar ou gerenciar servidores."
 GT,"Qual um exemplo de serivço que a Amazon fornece como FaaS?","AWS Lambda."
 GT,"Qual um exemplo de serviço que o Google fornece como FaaS?","Google Cloud Functions."
 GT,"Qual um exemplo de serviço que a Microsoft fornece como FaaS?","Azure Functions."
 GS,"O que caracteriza um serviço de XaaS?","É caracterizado por prover qualquer serviço como um serviço em nuvem."
 DS,"Como se faz para declarar uma variável global em Python?","global myvar"
-DS,"O que é o Bounded Context no DDD (Domain Driven Design)?","É um limite lógico em torno de um conjunto de objetos que é usado principalmente para definir o escopo de um determinado modelo. O contexto delimitado é a fronteira dentro da qual um modelo específico é aplicado e tem significado."
-ES,"O que é o Ubiquitous Language no DDD (Domain Driven Design)?","É uma linguagem comum entre desenvolvedores e usuários."
-DS,"O que é o Domain Model no DDD (Domain Driven Design)?","É um modelo de domínio que descreve as entidades e os relacionamentos envolvidos em um domínio de negócios, independentemente de um banco de dados específico ou de um esquema de design."
-ES,"O que é o Value Object no DDD (Domain Driven Design)?","É um objeto que descreve alguma característica de uma entidade."
-ES,"O que é o Entity no DDD (Domain Driven Design)?","É um objeto que possui identidade e que é distinto de todos os outros objetos."
-ES,"O que é o Aggregate no DDD (Domain Driven Design)?","É um conjunto de objetos que são tratados como uma unidade. Sendo a classe raiz a única responsável por acessar as filhas. Ajuda a manter a consistência e a integridade do domínio."
-ES,"O que é o Repository no DDD (Domain Driven Design)?","É um objeto que encapsula a lógica de acesso, recuperação e armazenamento de dados."
-DS,"O que é um Service no DDD (Domain Driven Design)?","É um objeto que encapsula uma lógica de negócio que não se encaixa em uma entidade ou objeto de valor."
-ES,"O que é um Factory no DDD (Domain Driven Design)?","É um objeto que encapsula a lógica de criação de objetos."
-ES,"O que é o Application Service no DDD (Domain Driven Design)?","É um objeto que encapsula a lógica de aplicação."
-DS,"O que é o Domain Service?","É um objeto que encapsula a lógica de domínio."
-ES,"O que é o Domain Event no DDD (Domain Driven Design)?","É um objeto que encapsula um evento de domínio."
-DS,"O que é o Domain Exception no DDD (Domain Driven Design)?","É um objeto que encapsula uma exceção de domínio."
-ES,"O que é o Domain Notification no DDD (Domain Drive Design)?","É um objeto que encapsula uma notificação de domínio."
-DS,"O que é o Domain Query no DDD (Domain Driven Design)?","É um objeto que encapsula uma consulta de domínio."
-ES,"Qual arquitetura de desenvolvimento se utiliza muito de Bounded Context?",Micro-serviços
-ES,"Qual a função da ACL (Anti Corruption Layer) no DDD (Domain Driven Desogn)?","É uma camada que encapsula a lógica de tradução entre dois contextos delimitados."
-GS,"Como funciona um ataque de CSRF (Cros Site Request Forgery)?","Enquanto há uma aba legitimamente logada, outra aba está no site do atacante que faz uma requisição forjada como se fosse a aba legítima."
-GS,"O que fazer para se proteger de um ataque de CSRF (Cross Site Request Forgery)?","A aplicação deve usar um token-csrf."
-DI,"O particionamento (sharding) horizontal divide a tabela em?",Linhas.
-DI,"O particionamento (sharding) vertical divide a tabela em?",Colunas.
+DS,"O que é o Bounded Context no DDD `Domain Driven Design`?","É um limite lógico em torno de um conjunto de objetos que é usado principalmente para definir o escopo de um determinado modelo. O contexto delimitado é a fronteira dentro da qual um modelo específico é aplicado e tem significado."
+ES,"O que é o Ubiquitous Language no DDD `Domain Driven Design`?","É uma linguagem comum entre desenvolvedores e usuários."
+DS,"O que é o Domain Model no DDD `Domain Driven Design`?","É um modelo de domínio que descreve as entidades e os relacionamentos envolvidos em um domínio de negócios, independentemente de um banco de dados específico ou de um esquema de design."
+ES,"O que é o Value Object no DDD `Domain Driven Design`?","É um objeto que descreve alguma característica de uma entidade."
+ES,"O que é o Entity no DDD `Domain Driven Design`?","É um objeto que possui identidade e que é distinto de todos os outros objetos."
+ES,"O que é o Aggregate no DDD `Domain Driven Design`?","É um conjunto de objetos que são tratados como uma unidade. Sendo a classe raiz a única responsável por acessar as filhas. Ajuda a manter a consistência e a integridade do domínio."
+ES,"O que é o Repository no DDD `Domain Driven Design`?","É um objeto que encapsula a lógica de acesso, recuperação e armazenamento de dados."
+DS,"O que é um Service no DDD `Domain Driven Design`?","É um objeto que encapsula uma lógica de negócio que não se encaixa em uma entidade ou objeto de valor."
+ES,"O que é um Factory no DDD `Domain Driven Design`?","É um objeto que encapsula a lógica de criação de objetos."
+ES,"O que é o Application Service no DDD `Domain Driven Design`?","É um objeto que encapsula a lógica de aplicação."
+DS,"O que é o Domain Service? no DDD `Domain Driven Design`","É um objeto que encapsula a lógica de domínio."
+ES,"O que é o Domain Event no DDD `Domain Driven Design`?","É um objeto que encapsula um evento de domínio."
+DS,"O que é o Domain Exception no DDD `Domain Driven Design`?","É um objeto que encapsula uma exceção de domínio."
+ES,"O que é o Domain Notification no DDD `Domain Driven Design`?","É um objeto que encapsula uma notificação de domínio."
+DS,"O que é o Domain Query no DDD `Domain Driven Design`?","É um objeto que encapsula uma consulta de domínio."
+ES,"Qual arquitetura de desenvolvimento se utiliza muito de Bounded Context?",microsserviços
+ES,"Qual a função da ACL `Anti Corruption Layer` no DDD `Domain Driven Design`?","É uma camada que encapsula a lógica de tradução entre dois contextos delimitados."
+GS,"Como funciona um ataque de CSRF `Cros Site Request Forgery`?","Enquanto há uma aba legitimamente logada, outra aba está no site do atacante que faz uma requisição forjada como se fosse a aba legítima."
+GS,"O que fazer para se proteger de um ataque de CSRF `Cross Site Request Forgery`?","A aplicação deve usar um `token-csrf`"
+DI,"O particionamento `sharding` horizontal divide a tabela em?",Linhas.
+DI,"O particionamento `sharding` vertical divide a tabela em?",Colunas.
 DI,"Qual é o principal recurso para tolerância à falhas?","Fazer réplicas dos dados."
 DI,"O que significa o conceito de ACID nos bancos de dados?","Atomicidade. Consistência. Isolamento. Durabilidade."
 DI,"O que significa o conceito de ACID nos bancos de dados?","Atomicidade. Consistência. Isolamento. Durabilidade."
@@ -125,16 +125,16 @@ LP,"O que sempre vem antes de um complemento nominal?","Uma preposição."
 RA,"Qual é o princípio da identidade na lógica?","Uma proposição verdadeira vai ser sempre verdadeira e uma proposição falsa vai ser sempre falsa."
 RA,"Qual é o princípio do terceiro excluído na lógica?","Todo proposição só pode ser V ou F, nunca qualquer outra possibilidade."
 RA,"Qual é o princípio da não-contradição na lógica?","Uma proposição não pode ser verdadeira e falsa ao mesmo tempo."
-ES,"Quais são as fases dos métodos formais de engenharia de software?","1) Especificação - 2) Validação - 3) Implementação"
+ES,"Quais são as fases dos métodos formais de engenharia de software?","1. Especificação - 2. Validação - 3. Implementação"
 ES,"Qual a vantagem dos métodos formais de software?","Garante que o software é correto por design através de provas matemáticas."
 ER,"Quais são os dois modelos de engenharia de software evolucionários?","Prototipagem e Espiral."
 ES,"No modelo evolucionário de engenharia de software qual a utilidade de protótipos descartáveis?","Validar e entender requisitos de software muito complexos que podem se beneficiar com um exemplo prático."
-DS,"Quais são os três parâmetros que a função map pode receber no JavaScript?","1) element \n 2) index \n 3) array"
-DS,"Qual é a implementação de referência da JPA?",EclipseLink
-DS,"Como faz para configurar o git para sempre atualizar as relações com o repositório remoto?","git config --global fetch.prune true"
-DS,"No JPA onde ficam guardadas as configurações dos bancos de dados?",persistence.xml
-DS,"No JPA qual a classe que gerência o acesso ao banco de dados?",EntityManager
-DS,"Qual classe disponibiliza as fábricas de EntityManager no JPA?",Persistence
+DS,"Quais são os três parâmetros que a função map pode receber no JavaScript?","`1. element \n 2. index \n 3. array`"
+DS,"Qual é a implementação de referência da JPA?",`EclipseLink`
+DS,"Como faz para configurar o git para sempre atualizar as relações com o repositório remoto?","`git config --global fetch.prune true`"
+DS,"No JPA onde ficam guardadas as configurações dos bancos de dados?",`persistence.xml`
+DS,"No JPA qual a classe que gerência o acesso ao banco de dados?",`EntityManager`
+DS,"Qual classe disponibiliza as fábricas de EntityManager no JPA?",`Persistence`
 RA,"Como funciona a propriedade distributiva do | (ou) e do & (e) nas proposições lógicas?","O conectivo que está fora se associa primeiro com o que está dentro e o que está dentro une as duas partes. \n  \n P & (Q | R) <=> (P & Q) | (P & R) \n P | (Q & R) <=> (P | Q) & (P | R)"
 RA,"Como se faz a negação de uma proposição 'se então' (->) para uma 'e' (&)?","Mantém a primeira e nega a segunda. \n ~(P -> Q) <=> P & ~Q"
 RA,"Qual a negação de uma proposição 'e' (&) para uma 'se então' (->) ?","~(P & Q) <=> P -> ~Q"
@@ -146,10 +146,10 @@ DS,"Segundo o clean code uma função deve ter no máximo quantas linhas?","20 l
 DS,"Segundo o clean code uma função deve ter no máximo quantos níveis de identificação?","2 níveis."
 DS,"Segundo o clean code o que deveríamos fazer com blocos identados?","Extraír para outra função."
 ES,"Segundo o clean code o que deveríamos fazer com uma condição com múltiplos operadores?","Extraír para uma função."
-ES,"Segundo o clean code, ao invés de if's aninhados deveríamos preferir ___.",Polimorfismo.
+ES,"Segundo o clean code, ao invés de if's aninhados deveríamos preferir o que.",Polimorfismo.
 ES,"O que diz o open-closed principle do SOLID?","Uma classe deve estar fechada para mudança e aberta para extensão."
 ES,"O que significa DRY em engenharia de software?","Don't repeat yourself."
-ES,"O Scrum é muito baseado no ___?",Empirismo.
+ES,"O Scrum é muito baseado no que?",Empirismo.
 ES,"O Scrum é o XP atuam respectivamente em?","Gestão de produtos e engenharia de software."
 LP,"Em qual tempo ficam os verbos impessoais?","Sempre na terceira pessoa do singular."
 LP,"Quando o verbo haver é impessoal?","Com sentido de existir, ocorrer ou tempo decorrido."
@@ -157,7 +157,7 @@ LP,"Quais os principais verbos impessoais?","Verbos que indicam fenômenos da na
 LP,"Pode ser trocado o verbo haver com sentido de existir pelo verbo haver com sentido de ocorrer sem perda de sentido?",Não.
 LP,"O haver com sentido de existir é impessoal então o existir também é?","Não, então ele precisa ser flexionado conforme o sujeito."
 LP,"O haver com sentido de tempo decorrido é impessoal e o fazer pode ser usado com o mesmo sentido, mas ele também é impessoal?","Sim, logo ele não vai concordar com o sujeito e ficará no singular."
-LP,"Quando o verbo haver pode ser pessoal?","1) Quando for pronominal \n Eles se houveram bem na prova. \n  \n 2) Quando for auxiliar \n Eles hão de estudar mais."
+LP,"Quando o verbo haver pode ser pessoal?","1. Quando for pronominal \n Eles se houveram bem na prova. \n  \n 2. Quando for auxiliar \n Eles hão de estudar mais."
 LP,"Qual o verbo auxiliar numa locução verbal?","O primeiro."
 ES,"O que é o mais importante manter na hora de uma prova?","O autocontrole e manter a habilidade de usar as suas ferramentas de inteligência. Ou seja, a capacidade de aplicar as suas técnicas de resolução de problemas."
 LP,"Quem é o verbo principal numa locução verbal?","O último."
@@ -177,14 +177,14 @@ DI,"Como é a operação de convolução numa CNN?","É uma operação de filtra
 ER,"Como se faz uma configuração por diretório no Apache?","Com os arquivos .htaccess e .htpasswd"
 ER,"Como faz para renomear o .htaccess no Apache?","Com a diretiva AccessFileName."
 DS,"Qual a principal função do JWT?","Garante a integridade e o não repúdio através de uma assinatura que pode ser com HMAC, RSA ou ECDSA."
-DS,"Qual a estrutura de um JWT?","1) Header - contém o tipo do token e o algoritmo de assinatura. \n 2) Payload - contém os claims, ou seja, as informações a respeito do usuário. \n 3) Signature - assinatura utilizada para verificar a mensagem."
-DS,"Quais são os tipos de claims que carrega o payload do JWT?","1) registered / reserved - claims pré-definidas não obrigatórias mas recomendadas. \n 2) public - customizadas \n 3) private - específicas de uma organização"
+DS,"Qual a estrutura de um JWT?","1. Header - contém o tipo do token e o algoritmo de assinatura. \n 2. Payload - contém os claims, ou seja, as informações a respeito do usuário. \n 3. Signature - assinatura utilizada para verificar a mensagem."
+DS,"Quais são os tipos de claims que carrega o payload do JWT?","1. registered / reserved - claims pré-definidas não obrigatórias mas recomendadas. \n 2. public - customizadas \n 3. private - específicas de uma organização"
 DS,"Como é a estrutura de um JWT?","As três partes são formadas por json e codificas em base 64 e agrupadas por um ponto divisor."
 DI,"o que é o OLAP?","OLAP (Online Analytical Processing) é a capacidade para manipular e analisar um grande volume de dados sob múltiplas perspectivas. As aplicações OLAP são usadas pelos gestores em qualquer nível da organização para lhes permitir análises comparativas que facilitem a sua tomada de decisões diárias."
 DI,"Quais os benefícios do OLAP?","O OLAP fornece para organizações um método de acessar, visualizar, e analisar os dados corporativos com alta flexibilidade e performance."
 GT,"Quais são os cinco títulos do ITIL 3?","Estratégia de serviços, projeto de serviços, transição de serviços, operação de serviços e melhoria contínua de serviços."
 PE,"Como se calcula a mediana?","Quando temos uma quantidade ímpar de elementos, a mediana é o próprio elemento médio. Agora, quando temos uma quantidade par de elementos, a mediana é encontrada pela média aritmética dos dois elementos médios."
-LP,"Quais são os tipos de colocação dos pronomes pessoais átonos  \" se \"  e  \" lhe \" ?","Proclítico - anteposto ao verbo. \n Mesoclítico - intercalado no verbo. \n Enclítico - posposto ao verbo."
+LP,"Quais são os tipos de colocação dos pronomes pessoais átonos 'se' e 'lhe'?","Proclítico - anteposto ao verbo. \n Mesoclítico - intercalado no verbo. \n Enclítico - posposto ao verbo."
 ES,"Quais são as etapas da engenharia de requisitos segundo Sommerville?","1. Estudo de Viabilidade \n 2. Elicitação e análise \n  \s  \s 2.1. Descoberta de requisitos \n  \s  \s 2.2. Classificação e Organização \n  \s  \s 2.3. Priorização e negociação \n  \s  \s 2.4. Documentação de requisitos \n 3. Especificação \n 4. Validação \n 5. Gestão."
 ES,"Quais são as etapas da engenharia de requisitos segundo Pressman?","1. Concepção (Análise de Viabilidade) \n 2. Levantamento (Elicitação de Requisitos) \n 3. Elaboração (Análise dos Requisitos) \n 4. Negociação (Negociação, Classificação, Organização e Priorização) \n 5. Especificação \n 6. Validação \n 7. Gestão"
 DI,"O que é a cardinalidade de relacionamento?","A cardinalidade de relacionamento, informa o número mínimo e máximo de ocorrências de uma entidade que estão associadas às ocorrências de outras entidades que participam do relacionamento."
@@ -196,19 +196,19 @@ LP,"O complemento nominal tem sempre sentido ativo ou passivo?",Passivo.
 LP,"Quando o 'se' é índice de indeterminação do sujeito?","Quando o verbo se refere a alguém, não se sabe quem, e está na terceira pessoa do singular."
 LP,"O que significa expletiva?","Palavra ou expressão redundante ou desnecessária, mas que dá ênfase, força, graça, etc."
 RA,"Quais são os quantificadores categóricos?","Todo. Algum. Nenhum."
-LP,"Em colocação pronominal, o que não está proibido, está ___?",Correto.
+LP,"Em colocação pronominal, o que não está proibido, está o que?",Correto.
 LP,"Podemos iniciar uma frase com pronome atono?",Não.
 LP,"Quais os erros graves de uso da vírgula?","Separando o sujeito do verbo ou o verbo do complemento."
 LP,"Quais são os casos de uso de vírgula quando uma função substantiva explica outra?","No aposto e no vocativo."
 LP,"Como se diz de uma série de vírgulas que separam termos de mesma função?","Vírgula que separa enumerações."
 LP,"Quais são os casos de uso obrigatório de vírgulas entre orações?",Entre orações coordenadas sindéticas e assindéticas. E caso as coordenadas adversativas e conclusivas estejam deslocadas.
 ES,"Como funciona o padrão de projeto Visitor?","Representa uma operação a ser executada sobre os elementos da estrutura do objeto. Permite definir uma nova operação sem mudar as classes dos elementos sobre os quais opera."
-DS,"Quais os tipos de armazenamento nos navegadores?","1) Cookies (pode expirar, 4kb, sempre envia) \n 2) Local storage (não expira, 5mb, nunca envia) \n 3) Session storage (por aba, 5mb, nunca envia)"
+DS,"Quais os tipos de armazenamento nos navegadores?","1. Cookies (pode expirar, 4kb, sempre envia) \n 2. Local storage (não expira, 5mb, nunca envia) \n 3. Session storage (por aba, 5mb, nunca envia)"
 DS,"Como é montado o arquivo descritivo de cache para os navegadores?","CACHE MANIFEST \n # Explicitly cached entries \n css/style.css \n  \n # What will be displayed if the user is offline \n FALLBACK: \n / /offline.html \n  \n # All other resources (e.g. sites) require the user to be online. \n NETWORK: \n * \n  \n # Additional resources to cache \n CACHE: \n images/logo1.png"
 RA,"Qual é equivalência possível de duas proposições 'se então' (->) com apenas uma?","Caso a condição suficiente seja a mesma então pode-se reduzir para uma proposição com uma conjunção das condições necessárias. \n  \n (P -> R) & (P -> S) <=> P -> (R & S)"
 ER,"Como funciona a técnica de distribuição de carga Round Robin?","Nesse modelo, há uma distribuição por igual entre todos os componentes do cluster. Isso significa que todas as requisições que chegam ao balanceador de cargas são encaminhadas igualmente entre todos os players da composição do servidor."
-DI,"Quais são as três funções do aprendizado não supervisionando?","1) agrupamento \n 2) regra de associação \n 3) redução de dimensionalidade"
-RA,"Em geral 'dado que' faz qual papel de conectivo lógico?","'se .. então' (->)"
+DI,"Quais são as três funções do aprendizado não supervisionando?","1. agrupamento \n 2. regra de associação \n 3. redução de dimensionalidade"
+RA,"Em geral 'dado que' faz qual papel de conectivo lógico?","'se .. então' `->`"
 RA,"Para que uma sentença seja uma proposição condicional o que é preciso?","Que haja duas proposições dentro da sentença e que elas estejam ligadas com um sentido condicional."
 PE,"Qual é o erro do tipo 1?","É um falso positivo."
 PE,"Qual é o erro do tipo 2?","É um falso negativo."
@@ -219,57 +219,57 @@ DI,"Como se calcula o valor preditivo negativo de um classificador?","verdadeiro
 DI,"Como se calcula a especificidade de um classificador?","verdadeiros negativos / (verdadeiros negativos + falsos positivos)"
 LP,"Qual a diferença entre narração e descrição?","Na narração existe evolução cronológica enquanto na descrição não."
 LP,"Qual a diferença entre uma dissertação expositiva e uma argumentativa?","Tanto na dissertação argumentativa quanto na expositivo o autor traz e expõe fatos mas só na argumentativa ele defende uma opinião."
-ER,"Quais os estados de uma conexão WebSocket?","0 - Conexão estabelecida. \n 1 - Conexão ok / comunicação ok. \n 2 - Conexão fechando. \n 3 - Conexão fechada."
+ER,"Quais os estados de uma conexão WebSocket?","0. Conexão estabelecida. \n 1. Conexão ok / comunicação ok. \n 2. Conexão fechando. \n 3. Conexão fechada."
 ER,"Quais as vantagens do WebSocket?","* Tempo real. \n * Protocolo próprio em cima do HTTP através do header upgrade. \n * Full duplex. Sentido duplo ou bidirecional simultâneo."
-ER,"Quais são os eventos de um WebSocket?","`on open, on message, on error, on close`."
+ER,"Quais são os eventos de um WebSocket?","`on open, on message, on error, on close`"
 ER,"Quais os métodos de um WebSocket?","send, close"
-ES,"Quais são os 12 fatores das aplicações em microsserviços?","1) Codebase. 2) Dependencies. 3)Configs. 4) Backing services. 5) Build, release, run. 6) Processes. 7) Port binding. 8) Concurrency. 9) Disposability. 10) Dev/prod parity. 11) Logs. 12) Admin processes."
-ES,"O que orienta o fator 1, Codebase, dos 12 fatores dos micro-serviços?","One codebase tracked in revision control, many deploys. There is only one codebase per app, but there will be many deploys of the app."
-ES,"O que orienta o fator 2, Dependencies, dos 12 fatores dos micro-serviços?","Explicitly declare and isolate dependencies. Never relies on implicit existence of system-wide packages. It declares all dependencies, completely and exactly, via a dependency declaration manifest."
-ES,"O que orienta o fator 3, Configs, dos 12 fatores dos micro-serviços?","Store config in the environment. Apps sometimes store config as constants in the code. This is a violation of twelve-factor, which requires strict separation of config from code. Config varies substantially across deploys, code does not."
-ES,"O que orienta o fator 4, Backing services, dos 12 fatores dos micro-serviços?","Treat backing services as attached resources. The code for a twelve-factor app makes no distinction between local and third party services. To the app, both are attached resources, accessed via a URL or other locator/credentials stored in the config."
-ES,"O que orienta o fator 5, Build, release and run, dos 12 fatores dos micro-serviços?","Strictly separate build and run stages. Builds are initiated by the app’s developers whenever new code is deployed. Runtime execution, by contrast, can happen automatically in cases such as a server reboot, or a crashed process being restarted by the process manager."
-GS,"O que orienta o fator 6, Processes, dos 12 fatores dos micro-serviços?","Execute the app as one or more stateless processes. Twelve-factor processes are stateless and share-nothing. Any data that needs to persist must be stored in a stateful backing service, typically a database."
-ES,"O que orienta o fator 7, Port binding, dos 12 fatores dos micro-serviços?","Export services via port binding. The twelve-factor app is completely self-contained and does not rely on runtime injection of a webserver into the execution environment to create a web-facing service. The web app exports HTTP as a service by binding to a port, and listening to requests coming in on that port."
-ES,"O que orienta o fator 8, Concurrency, dos 12 fatores dos micro-serviços?","Scale out via the process model. Using this model, the developer can architect their app to handle diverse workloads by assigning each type of work to a process type. For example, HTTP requests may be handled by a web process, and long-running background tasks handled by a worker process."
-ES,"O que orienta o fator 9, Disposability, dos 12 fatores dos micro-serviços?","Maximize robustness with fast startup and graceful shutdown. The twelve-factor app’s processes are disposable, meaning they can be started or stopped at a moment’s notice. This facilitates fast elastic scaling, rapid deployment of code or config changes, and robustness of production deploys."
-ES,"O que orienta o fator 10, Dev/Prod parity, dos 12 fatores dos micro-serviços?","Keep development, staging, and production as similar as possible. The twelve-factor app is designed for continuous deployment by keeping the gap between development and production small. Backing services, such as the app’s database, queueing system, or cache, is one area where dev/prod parity is important."
-ES,"O que orienta o fator 11, Logs, dos 12 fatores dos micro-serviços?","Treat logs as event streams. A twelve-factor app never concerns itself with routing or storage of its output stream. It should not attempt to write to or manage logfiles. Instead, each running process writes its event stream, unbuffered, to stdout."
-ES,"O que orienta o fator 12, Admin processes, dos 12 fatores dos micro-serviços?","Run admin/management tasks as one-off processes. One-off admin processes should be run in an identical environment as the regular long-running processes of the app. They run against a release, using the same codebase and config as any process run against that release. Admin code must ship with application code to avoid synchronization issues."
+ES,"Quais são os 12 fatores das aplicações em microsserviços?","1. Base de código. 2. Dependências. 3. Configurações. 4. Serviços de apoio. 5. Construa, libere, execute. 6. Processos. 7. Ligação por portas. 8. Concorrência. 9. Descartabilidade. 10. Paridade dos ambientes. 11. Monitoração por fluxo. 12. Processos de administração."
+ES,"O que orienta o fator 1, Bade de Código, dos 12 fatores dos microsserviços?","Uma base de código rastreada no controle de revisão, com multiplas implantações. Existe apenas uma base de código por aplicativo, mas haverá muitas implantações."
+ES,"O que orienta o fator 2, Dependências, dos 12 fatores dos microsserviços?","Declarar e isolar explicitamente as dependências. Nunca dependa da existência implícita de pacotes globais no sistema. Declare todas as dependências, completa e exatamente, por meio de um manifesto de declaração de dependência."
+ES,"O que orienta o fator 3, Configurações, do 12 fatores do micro-servidores?", "Armazenar configurações por ambiente. Os aplicativos às vezes armazenam a configuração como constantes no código. Esta é uma violação dos doze fatores, que requer separação estrita da configuração do código. A configuração varia substancialmente entre as implantações, o código não. "
+ES,"O que orienta o fator 4, Serviços de apoio, dos 12 fatores dos microsserviços?","Trate os serviços de apoio como recursos anexados. O código para um aplicativo de doze fatores não faz distinção entre serviços locais e de terceiros. Para o aplicativo, ambos são recursos anexados, acessados por meio de um URL ou outro localizador/credenciais armazenados na configuração."
+ES,"O que orienta o fator 5, Construa, libere, execute, dos 12 fatores dos microsserviços?","Os estágios estritamente separados de construção e execução são iniciados pelos desenvolvedores do aplicativo sempre que novo código é disponibilizado. A execução, por outro lado, pode ocorrer automaticamente em casos como uma reinicialização do servidor ou um processo travado que está sendo reiniciado pelo gerenciador de processos."
+GS,"O que orienta o fator 6, Processos, dos 12 fatores dos microsserviços? ","Execute o aplicativo como um ou mais processos sem estado. Quaisquer dados que precisam persistir devem ser armazenados em um serviço de apoio com estado, normalmente em um banco de dados."
+Es,"O que orienta o fator 7, Ligação por portas, dos 12 fatores dos microsserviços?", "Os serviços são exportados por uma ligação de porta. O aplicativo em doze fatores é completamente independente e não depende da injeção em tempo de execução de um servidor da web no ambiente de execução para criar um serviço voltado para a Web. O aplicativo da web exporta HTTP como um serviço ligando a uma porta e ouvindo solicitações que entram nessa porta."
+ES,"O que orienta o fator 8, Concorrência, dos 12 fatores dos microsserviços?", "Escala através do modelo de processo. Para um tipo de processo. Por exemplo, as solicitações HTTP podem ser tratadas por um processo da Web e tarefas de fundo de longa duração tratadas por um processo de trabalhador."
+ES,"O que orienta o fator 9, Descartabilidade, dos 12 fatores dos microsserviços?", "Maximize a robustez com uma inicialização rápida e o desligamento gracioso. Os processos de um aplicativo doze fatores são descartáveis, o que significa que eles podem ser iniciados ou interrompidos a qualquer momento. Isso facilita a escala elástica e rápida, a rápida implantação de alterações de código ou configuração e robustez da produção implantada."
+ES,"O que orienta o fator 10, Paridade dos ambientes, dos 12 fatores dos microsserviços?", "Mantenha os ambientes de desenvolvimento, teste e produção o mais semelhantes possível. O aplicativo de doze fatores foi projetado para implantação contínua, mantendo pequnea a lacuna entre o desenvolvimento e a produção. Serviços de apoio, como o banco de dados do aplicativo, o sistema de filas ou o cache, é uma área em que a paridade dos ambientes é importante."
+ES,"O que orienta o fator 11, Monitoração por fluxo, dos 12 fatores dos microsserviços?", "Trate os registros de monitoração como fluxos de eventos. Um aplicativo de doze fatores nunca se preocupa com o roteamento ou armazenamento de seu fluxo de saída. Não deve tentar tentar escrever ou gerenciar arquivos de registro. Em vez disso, cada processo em execução grava seu fluxo de eventos, sem buffer, para escalar." 
+ES,"O que orienta o fator 12, Processos de administração, dos 12 fatores dos microsserviços?", "Execute tarefas de administrador/gerenciamento como processos únicos. Os processos de administração únicos devem ser executados em um ambiente idêntico que o do processo regular de longa duração do aplicativo. Eles são executados com uma implantação, usando a mesma base de código e configuração que qualquer processo é executado nessa implantação. O código do administrador deve ser enviado com o código do aplicativo para evitar problemas de sincronização."
 ES,"Qual a diferença entre polimorfismo estático e dinâmico?","No estático a classe possui métodos com mesmo nome e assinaturas diferentes enquanto na dinâmica a classe possui um método com o mesmo nome e assinatura de sua superclasse, sobrescrevendo-o."
-GS,"Quais os passos na comunicação com o protocolo SSL/TLS?","1. Handshake protocol \n  \s  \s  \s  \s * Negotiate TLS protocol version \n  \s  \s  \s  \s * Select cryptographic algorithms: cipher suites \n  \s  \s  \s  \s * Authenticate by asymmetric cryptography \n  \s  \s  \s  \s * Establish a secret key for symmetric encryption \n  \n 2. Record protocol \n  \s  \s  \s  \s * Encrypt outgoing messages with the secret key \n  \s  \s  \s  \s * Transmit the encrypted messages \n  \s  \s  \s  \s * Descrypt incoming messages with the secret key \n  \s  \s  \s  \s * Verify that the message are not modified"
+GS,"Quais os passos na comunicação com o protocolo SSL/TLS?","``` \n 1. Handshake protocol \n  \s  \s  \s  \s * Negotiate TLS protocol version \n  \s  \s  \s  \s * Select cryptographic algorithms: cipher suites \n  \s  \s  \s  \s * Authenticate by asymmetric cryptography \n  \s  \s  \s  \s * Establish a secret key for symmetric encryption \n  \n 2. Record protocol \n  \s  \s  \s  \s * Encrypt outgoing messages with the secret key \n  \s  \s  \s  \s * Transmit the encrypted messages \n  \s  \s  \s  \s * Descrypt incoming messages with the secret key \n  \s  \s  \s  \s * Verify that the message are not modified \n ```"
 DI,"O que é um Data Warehouse (DW)?","É um armazém de dados, onde todos os dados ficam organizados por categorias, tornando o DW um banco de dados relacional, capaz de guardar dados estruturados. São bastante utilizadas em Business Inteligência (BI). No DW os dados não podem ser modificados, isso assegura confiabilidade ao sistema, além da integridade do conteúdo armazenado."
-ES,"Esse padrão separa a construção de um objeto complexo da sua representação, de forma que o mesmo processo de construção possa criar diferentes tipos de representações.",BUILDER
-ES,"Esse padrão fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.","ABSTRACT FACTORY"
-ES,"Esse padrão especifica os tipos de objetos para criar usando uma instância como protótipo e cria novos objetos copiando este protótipo.",PROTOTYPE
-ES,"Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de acesso global a ela.",SINGLETON
-ES,"Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.","FACTORY METHOD"
-ES,"Esse padrão converte a interface de uma classe em outra interface que normalmente não poderiam trabalhar juntas por serem incompatíveis.",ADAPTER
-ES,"Esse padrão desacopla uma interface de sua implementação, de forma que ambas possam variar independentemente.",BRIDGE
-ES,"Esse padrão compõe objetos em estruturas de árvore para representar hierarquias parte-todo, permitindo aos clientes tratarem objetos individuais e composições de objetos uniformemente.",COMPOSITE
-ES,"Esse padrão anexa responsabilidades adicionais a um objeto dinamicamente. Fornece uma alternativa flexível em relação à herança para estender funcionalidades.",DECORATOR
-ES,"Esse padrão oferece uma interface unificada para um conjunto de interfaces em um subsistema, definindo uma interface de alto nível que facilita a utilização do subsistema.",FAÇADE
-ES,"Esse padrão utiliza compartilhamento para suportar eficientemente grandes quantidades de objetos de baixa granularidade.",FLYWEIGHT
-ES,"Esse padrão provê um substituto ou ponto através do qual um objeto pode controlar o acesso a outro objeto.",PROXY
-ES,"Esse padrão evita o acoplamento do remetente de uma requisição ao seu receptor ao dar a mais de um objeto a chance de lidar com a requisição.","CHAIN OF RESONSABILITY"
-ES,"Esse padrão encapsula a requisição de um objeto, portanto permitindo que se parametrize os clientes com diferentes requisições.",COMMAND
-ES,"Esse padrão fornece uma maneira de acessar elementos de um objeto agregado sequencialmente sem expor sua representação interna.?",`ITERATOR`.
-ES,"Esse padrão define um objeto que encapsula a forma como um conjunto de objetos interagem, promovendo um fraco acoplamento ao evitar que objetos se refiram aos outros explicitamente.",MEDIATOR
-ES,"Esse padrão captura e externaliza o estado interno de um objeto, sem violar seu encapsulamento, de maneira que o objeto possa ser restaurado posteriormente.",MEMENTO
-ES,"Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um objeto mudar de estado, os seus dependentes sejam notificados e atualizados automaticamente.",OBSERVER
-ES,"Esse padrão permite a um objeto alterar o seu comportamento quando o seu estado interno for modificado.",STATE
-ES,"Esse padrão define uma família de algoritmos, encapsula cada um e faz deles intercambiáveis.",STRATEGY
-ES,"Esse padrão representa uma operação a ser realizada sobre elementos de uma estrutura de objetos e permite definir uma operação sem mudar as classes dos elementos sobre os quais opera.",VISITOR
-ES,"Esse padrão, dada uma linguagem, define uma representação para sua gramática em conjunto com um interpretador que utiliza a representação para interpretar sentenças na linguagem.",INTERPRETER
-ES,"Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixando alguns passos a serem preenchidos pelas subclasses.","TEMPlATE METHOD"
-ES,"Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.","FACTORY METHOD"
+ES,"Esse padrão separa a construção de um objeto complexo da sua representação, de forma que o mesmo processo de construção possa criar diferentes tipos de representações.",`Builder`
+ES,"Esse padrão fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.","`Abstract Factory`"
+ES,"Esse padrão especifica os tipos de objetos para criar usando uma instância como protótipo e cria novos objetos copiando este protótipo.",`Prototype`
+ES,"Esse padrão garante que uma classe tenha apenas uma instância e provê um ponto de acesso global a ela.",`Singleton`
+ES,"Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.","`Factory Method`"
+ES,"Esse padrão converte a interface de uma classe em outra interface que normalmente não poderiam trabalhar juntas por serem incompatíveis.",`Adapter`
+ES,"Esse padrão desacopla uma interface de sua implementação, de forma que ambas possam variar independentemente.",`Bridge`
+ES,"Esse padrão compõe objetos em estruturas de árvore para representar hierarquias parte-todo, permitindo aos clientes tratarem objetos individuais e composições de objetos uniformemente.",`Composite`
+ES,"Esse padrão anexa responsabilidades adicionais a um objeto dinamicamente. Fornece uma alternativa flexível em relação à herança para estender funcionalidades.",`Decorator`
+ES,"Esse padrão oferece uma interface unificada para um conjunto de interfaces em um subsistema, definindo uma interface de alto nível que facilita a utilização do subsistema.",`Facade`
+ES,"Esse padrão utiliza compartilhamento para suportar eficientemente grandes quantidades de objetos de baixa granularidade.",`Flyweight`
+ES,"Esse padrão provê um substituto ou ponto através do qual um objeto pode controlar o acesso a outro objeto.",`Proxy`
+ES,"Esse padrão evita o acoplamento do remetente de uma requisição ao seu receptor ao dar a mais de um objeto a chance de lidar com a requisição.","`Chain Of Resonsability`"
+ES,"Esse padrão encapsula a requisição de um objeto, portanto permitindo que se parametrize os clientes com diferentes requisições.",`Command`
+ES,"Esse padrão fornece uma maneira de acessar elementos de um objeto agregado sequencialmente sem expor sua representação interna.?",`Iterator`.
+ES,"Esse padrão define um objeto que encapsula a forma como um conjunto de objetos interagem, promovendo um fraco acoplamento ao evitar que objetos se refiram aos outros explicitamente.",`Mediator`
+ES,"Esse padrão captura e externaliza o estado interno de um objeto, sem violar seu encapsulamento, de maneira que o objeto possa ser restaurado posteriormente.",`Memento`
+ES,"Esse padrão define uma dependência um-para-muitos entre objetos para que, quando um objeto mudar de estado, os seus dependentes sejam notificados e atualizados automaticamente.",`Observer`
+ES,"Esse padrão permite a um objeto alterar o seu comportamento quando o seu estado interno for modificado.",`State`
+ES,"Esse padrão define uma família de algoritmos, encapsula cada um e faz deles intercambiáveis.",`Strategy`
+ES,"Esse padrão representa uma operação a ser realizada sobre elementos de uma estrutura de objetos e permite definir uma operação sem mudar as classes dos elementos sobre os quais opera.",`Visitor`
+ES,"Esse padrão, dada uma linguagem, define uma representação para sua gramática em conjunto com um interpretador que utiliza a representação para interpretar sentenças na linguagem.",`Interpreter`
+ES,"Esse padrão define o esqueleto de um algoritmo dentro de uma operação, deixando alguns passos a serem preenchidos pelas subclasses.","`Template Method`"
+ES,"Esse padrão define uma interface para criar um objeto, mas deixa as subclasses decidirem qual classe instanciar.","`Factory Method`"
 DS,"Rest é um protocolo?","Não, é um estilo."
 DS,"O que foi incluído no JAX-RS 2.0?","A especificação do cliente."
 DS,"Qual o keyword em TypeScript que define a função de instanciação de uma nova classe?",constructor
 GS,"Como funciona o controle de acesso MAC (Mandatory Access Control)?","o administrador do sistema é responsável por atribuir as devidas permissões para os usuários."
 GS,"Como funciona o controle de acesso DAC (Discritionary Access Control)?","O próprio usuário define as regras de acesso dos recursos que ele é dono."
 GS,"Como funciona o controle de acesso RBAC (Role-Based Access Control)?","O administrador visa garantir privilégios de acordo com a função exercida pelo usuário."
-GT,"Quais são os principais serviços por categoria?","1) Computação e Processamento \n 2) Banco de Dados \n 3) Rede e Entrega de Conteúdo \n 4) Segurança e Gerenciamento de Identidades \n 5) Aplicativos e Serviços \n 6) Desenvolvimento, CI/CD e DevOps \n 7) Orquestração de contêiners \n 8) Armazenamento de Arquivos \n 9) Análise de Dados \n 10) Aprendizado de Máquina"
+GT,"Quais são os principais serviços por categoria?","1. Computação e Processamento \n 2. Banco de Dados \n 3. Rede e Entrega de Conteúdo \n 4. Segurança e Gerenciamento de Identidades \n 5. Aplicativos e Serviços \n 6. Desenvolvimento, CI/CD e DevOps \n 7. Orquestração de contêiners \n 8. Armazenamento de Arquivos \n 9. Análise de Dados \n 10. Aprendizado de Máquina"
 LP,"Posso retirar a crase anterior ao pronome possessivo?","Pode sim porque ela é facultativa."
 DI,"Como se representa no digrama IDEF1X a cardinalidade mínima de 0 e máxima de 1?","Uma bolinha vazada e um traço formando uma cruz na linha do relacionamento."
 DI,"Como se representa no digrama IDEF1X a cardinalidade mínima de 1 e máxima de 1?","Com dois traços formando duas cruzes na linha que representa o relacionamento."
@@ -280,26 +280,26 @@ DI,"No diagrama IDEF1X qual o símbolo que indica uma herança total?","São doi
 DI,"No diagrama IDEF1X como eu defino um relacionamento de zero pra muitos?","Com a linha do relacionamento sem nada no um e com uma bolinha preenchida no muitos sem o P e Z."
 DI,"No diagrama IDEF1X como eu defino um relacionamento de zero pra um?","Com a linha do relacionamento sem nada no um e com uma bolinha preenchida no muitos com o Z."
 DI,"No diagrama IDEF1X como eu defino um relacionamento de um pra muitos?","Com a linha do relacionamento sem nada no um e com uma bolinha preenchida no muitos com o P."
-DI,"Qual diagrama é produzido no projeto lógico de banco de dados?","O diagrama Modelo Relacional."
 DI,"Qual diagrama é produzido no projeto conceitual de banco de dados?","O diagrama Modelo Entidade-Relacionamento."
+DI,"Qual diagrama é produzido no projeto lógico de banco de dados?","O diagrama Modelo Relacional."
 GS,"O algoritmo de criptografia RSA é simétrico ou assimétrico?",Assimétrico.
 GS,"O algoritmo de criptografia AES é simétrico ou assimétrico?",Simétrico.
 GS,"Qual o tamanho de chave máximo do algoritmo de criptografia RSA?","Máximo de 2.048 bites."
 GS,"Qual o tamanho de chave máximo do algoritmo de criptografia AES?","Máximo de 256 bites."
 ES,"Qual a diferença entre escalabilidade forte e fraca de processamento paralelo?","Na escalabilidade forte o tamanho do conjunto dos dados processados é dividido na fraca não é."
 LE,"Segundo a LGPD o usuário pode dar um consentimento genérico?",Não.
-LP,"Quais as funções que o 'SE' pode assumir na Língua Portuguesa?","1) Conjunção \n 2) Reflexivo \n 3) Parte integrante do verbo \n 4) Índice de indeterminação do sujeito"
+LP,"Quais as funções que o 'SE' pode assumir na Língua Portuguesa?","1. Conjunção \n 2. Reflexivo \n 3. Parte integrante do verbo \n 4. Índice de indeterminação do sujeito"
 DS,"Como se chama o passo de organizar os elementos menores a esquerda e os maiores a direita do pivô no QuickSort?",Partição.
 DI,"Quais as operações que não são comutativas na álgebra relacional dos bancos de dados?","Projeção e Diferença."
 DI,"Quais as relações que são unárias na álgebra relacional dos bancos de dados?","Seleção e Projeção."
-DI,"Quais as operações na álgebra relacional dos bancos de dados?","1) Seleção \n 2) Projeção \n 3) Produto \n 4) Junção \n 5) União \n 6) Intersecção \n 7) Diferença"
+DI,"Quais as operações na álgebra relacional dos bancos de dados?","1. Seleção \n 2. Projeção \n 3. Produto \n 4. Junção \n 5. União \n 6. Intersecção \n 7. Diferença"
 DI,"O que é necessário na primeira forma normal dos bancos de dados?","Eliminar atributos não atómicos."
 DI,"O que é necessário na segunda forma normal dos bancos de dados?","Eliminar dependências funcionais não plenas."
 DI,"O que é necessário na terceira forma normal dos bancos de dados?","Eliminar dependências transitivas."
 DI,"O que é necessário na forma normal FNBC dos bancos de dados?","Eliminar dependência funcional cujo determinante não é chave candidata."
 DI,"O que é necessário na quarta forma normal dos bancos de dados?","Eliminar dependência multi valorada."
 DI,"O que é necessário na quinta forma normal dos bancos de dados?","Encontrar e eliminar a dependência de junção."
-DS,"Qual a diferença do 'is' para o '==' no Python?"," \" is \"  é usado para verificar se dois objetos têm a mesma identidade, ou seja, se referem exatamente ao mesmo objeto na memória. Ele compara os endereços de memória dos objetos.  \" == \"  é usado para verificar a igualdade de valor entre dois objetos. Ele compara o conteúdo dos objetos, independentemente da identidade na memória."
+DS,"Qual a diferença do `is` para o `==` no Python?","`is` é usado para verificar se dois objetos têm a mesma identidade, ou seja, se referem exatamente ao mesmo objeto na memória. Ele compara os endereços de memória dos objetos. `==` é usado para verificar a igualdade de valor entre dois objetos. Ele compara o conteúdo dos objetos, independentemente da identidade na memória."
 ES,"Quais os padrões de projeto comportamentais na orientação a objetos?","1. Chain Of Resonsability. \n 2. Command. \n 3. Iterator. \n 4. Mediator. \n 5. Memento. \n 6. Observer. \n 7. State. \n 8. Strategy. \n 9. Visitor. \n 10. Interpreter. \n 11. Template Method."
 ES,"Quais os padrões de projeto estruturais na orientação a objetos?","1. Adapter. \n 2. Bridge. \n 3. Composite. \n 4. Decorator. \n 5. Façade. \n 6. Flyweight. \n 7. Proxy."
 ES,"Quais os padrões de projeto criacionais na orientação a objetos?","1. Builder \n 2. Abstract Factory \n 3. Prototype \n 4. Singleton \n 5. Factory Method"
@@ -310,8 +310,8 @@ LP,"Como se classifica a tipologia textual?","Narração - sequência cronológi
 LP,"A definição pertence a qual modo textual?",Descrição.
 LP,"Qual ato linguístico pode se confundir mas não é uma definição?","Qualificar e Exemplificar."
 GS,"Quais os princípios propostos por Shannon para criptografia?","Difusão - Buscar tornar o relacionamento estatístico entre o texto claro e o texto cifrado o mais complexo possível. \n  \n Confusão - Buscar tornar o relacionamento entre o texto cifrado e a chave de criptografia o mais complexo possível."
-DS,"Quais são os algoritmos de ordenação estáveis?","1) BubbleSort \n 2) InsertionSort \n 3) MergeSort"
-DS,"Quais são os algoritmos de ordenação instáveis?","1) SelectionSort \n 2) QuickSort \n 3) HeapSort \n 4) ShellSort"
+DS,"Quais são os algoritmos de ordenação estáveis?","1. BubbleSort \n 2. InsertionSort \n 3. MergeSort"
+DS,"Quais são os algoritmos de ordenação instáveis?","1. SelectionSort \n 2. QuickSort \n 3. HeapSort \n 4. ShellSort"
 DI,"No Hadoop o que faz o HDFS?","Sistema de arquivo com alta taxa de transferência."
 DI,"No Hadoop o que faz o YARN?","Agendamento de tarefas e gerenciamento de recursos do cluster."
 DI,"No Hadoop o que faz o MapReduce?","Processamento paralelo."
@@ -336,7 +336,7 @@ LP,"Quando a conjunção'se' pode ser trocada por isto então ela será uma conj
 LP,"Quando a conjunção 'se' puder ser trocada por 'já que' ela será que tipo de conjunção?",Causal.
 LP,"A conjunção 'se' só será condicional se tiver que tipo de valor semântico?",Hipótese.
 LP,"Qual a tipologia do texto que é um guia com instruções?",Injuntiva.
-LP,"O que pode ser o 'se' antes de um verbo sem sujeito?","1) Partícula apassivadora - quando o verbo é trânsito direto.  \n  \n 2) Índice de indeterminação do sujeito - quando o verbo é transitivo indireto."
+LP,"O que pode ser o 'se' antes de um verbo sem sujeito?","1. Partícula apassivadora - quando o verbo é trânsito direto.  \n  \n 2. Índice de indeterminação do sujeito - quando o verbo é transitivo indireto."
 LP,"O que devemos fazer primeiro na hora de analisar a função sintática dos elementos de uma oração?","Primeiro devemos nos perguntar o que ou o quem realiza a ação do verbo para identificar o sujeito."
 LP,"Você pode colocar uma vírgula entre o sujeito e o objeto?",Nunca.
 LP,"O que eu devo fazer primeiro caso a questão me pergunte se é possível colocar uma vírgula?","Verificar se ela não vai separar ou o sujeito do verbo ou o verbo do seu complemento."
@@ -350,15 +350,15 @@ RA,"Quando uma proposição lógica é uma contradição?","Quando independente 
 RA,"Quando a utilizar o método do Absurdo nós provamos que uma proposição composta não é uma contradição?","Quando encontramos pelo menos um caso que atribuindo valores válidos as proposições simples chegamos ao valor verdadeiro para a proposição composta."
 RA,"Quando ao utilizar o método do Absurdo nós provamos que uma proposição composta é de fato uma contradição?","Quando para chegar a um valor verdadeiro para proposição composta necessariamente temos que atribuir em pelo menos uma das proposições simples um valor inválido."
 LE,"Pela lgpd quando que um dado é considerado pessoal e sensível?","Quando ele for racial ou religioso, sexual ou de saúde, político ou filosófico."
-ER,"Qual o arquivo de configuração que controla o acesso no servidor web Apache?",access.conf.
-ER,"Qual o arquivo de configuração usado pelo Nginx?",nginx.conf.
-ER,"Qual o arquivo de log do Apache que registra os dados de todas as solicitações processadas pelo servidor?","access.log ou access_log no Windows."
+ER,"Qual o arquivo de configuração que controla o acesso no servidor web Apache?",`access.conf`.
+ER,"Qual o arquivo de configuração usado pelo Nginx?",`nginx.conf`.
+ER,"Qual o arquivo de log do Apache que registra os dados de todas as solicitações processadas pelo servidor?","`access.log` ou `access_log` no Windows."
 ER,"No que é baseada a arquitetura do Ngnix?","Baseada em eventos."
 ER,"No que é baseada a arquitetura do servidor web Apache?","Baseada em processos."
 LP,"Qual a diferença entre objeto indireto e o adjunto adverbial com preposição?","O adjunto adverbial é um termo acessório da oração que fornece uma circunstância da ação do verbo mas não é necessário para definir o sentido da ação realizada pelo ranner já o objeto indireto é necessário para definir o sentido."
 DS,"Quais os estados da conexão de um WebSocket?","Connecting. Estado 0. A conexão ainda não está aberta. \n  \n Open. Estado 1. A conexão está aberta e pronta para se comunicar. \n  \n Closing. Estado 2. A conexão está em processo de fechamento. \n  \n Closed. Estado 3. A conexão está fechada ou não foi possível abrir."
-DI,"Para que é usado a algoritmo Naive Bayes?","O algoritmo Naive Bayes é um algoritmo de aprendizado de máquina usado para classificação de textos e análise de sentimentos. Ele é baseado no teorema de Bayes, que descreve a probabilidade condicional de um evento ocorrer, dado que outro evento já ocorreu. \n  \n Na classificação de textos, o Naive Bayes é amplamente utilizado para atribuir categorias a documentos ou textos com base em seu conteúdo. Ele assume que as características do documento são independentes entre si, o que é uma simplificação chamada de  \" ingenuidade \"  (naive). Apesar dessa simplificação, o algoritmo pode fornecer resultados eficazes em muitos casos. \n  \n O Naive Bayes é especialmente útil quando se lida com grandes volumes de dados textuais, como análise de sentimentos em mídias sociais, filtragem de spam em e-mails ou categorização de notícias. Ele pode ser treinado em um conjunto de dados rotulados, onde cada documento é atribuído a uma categoria conhecida, e então é capaz de classificar novos documentos com base nas probabilidades calculadas a partir do treinamento."
-DI,"Para que é usado a algoritmo Bert?","O algoritmo BERT (Bidirectional Encoder Representations from Transformers) é uma arquitetura de modelo de linguagem baseada em transformers e é amplamente utilizado para tarefas de processamento de linguagem natural (NLP) que requerem uma compreensão contextual avançada. \n  \n Diferentemente dos modelos de linguagem tradicionais que processam as palavras em uma única direção (da esquerda para a direita ou da direita para a esquerda), o BERT é pré-treinado em uma tarefa de preenchimento de lacunas chamada de  \" masked language model \"  (MLM) usando um grande corpus de texto. Durante o pré-treinamento, algumas palavras de cada sentença são mascaradas e o modelo é treinado para prever as palavras mascaradas com base no contexto ao redor delas. \n  \n O BERT captura a relação entre as palavras de uma frase, levando em consideração o contexto tanto à esquerda quanto à direita. Isso permite que o modelo tenha uma compreensão mais profunda das palavras e seu significado em um contexto específico."
+DI,"Para que é usado a algoritmo Naive Bayes?","O algoritmo Naive Bayes é um algoritmo de aprendizado de máquina usado para classificação de textos e análise de sentimentos. Ele é baseado no teorema de Bayes, que descreve a probabilidade condicional de um evento ocorrer, dado que outro evento já ocorreu. \n  \n Na classificação de textos, o Naive Bayes é amplamente utilizado para atribuir categorias a documentos ou textos com base em seu conteúdo. Ele assume que as características do documento são independentes entre si, o que é uma simplificação chamada de  ' ingenuidade '  (naive). Apesar dessa simplificação, o algoritmo pode fornecer resultados eficazes em muitos casos. \n  \n O Naive Bayes é especialmente útil quando se lida com grandes volumes de dados textuais, como análise de sentimentos em mídias sociais, filtragem de spam em e-mails ou categorização de notícias. Ele pode ser treinado em um conjunto de dados rotulados, onde cada documento é atribuído a uma categoria conhecida, e então é capaz de classificar novos documentos com base nas probabilidades calculadas a partir do treinamento."
+DI,"Para que é usado a algoritmo Bert?","O algoritmo BERT (Bidirectional Encoder Representations from Transformers) é uma arquitetura de modelo de linguagem baseada em transformers e é amplamente utilizado para tarefas de processamento de linguagem natural (NLP) que requerem uma compreensão contextual avançada. \n  \n Diferentemente dos modelos de linguagem tradicionais que processam as palavras em uma única direção (da esquerda para a direita ou da direita para a esquerda), o BERT é pré-treinado em uma tarefa de preenchimento de lacunas chamada de  ' masked language model '  (MLM) usando um grande corpus de texto. Durante o pré-treinamento, algumas palavras de cada sentença são mascaradas e o modelo é treinado para prever as palavras mascaradas com base no contexto ao redor delas. \n  \n O BERT captura a relação entre as palavras de uma frase, levando em consideração o contexto tanto à esquerda quanto à direita. Isso permite que o modelo tenha uma compreensão mais profunda das palavras e seu significado em um contexto específico."
 LE,"Quando a LGPD se aplica?","1. tratamento realizado no território nacional. \n 2. tratamento com objetivo de fornecimento de bens ou serviços ou o tratamento de dados de indivíduos localizados no território nacional. \n 3. dados coletados no território nacional."
 LE,"Quando a LGPD não se aplica?","1. por pessoa natural para fins exclusivamente particulares e não econômicos. \n 2. fins jornalístico. \n 3. artísticos. \n 4. acadêmicos. \n 5. de segurança pública. \n 6. defesa nacional. \n 7. segurança do Estado. \n 8. atividades de investigação e repressão de infrações penais. \n 9. provenientes de fora do território nacional \n 10. uso compartilhado de dados com agentes de tratamento brasileiros. \n 11. objeto de transferência internacional de dados com outro país que não o de proveniência (desde que o país de proveniência proporcione proteção adequada a dados pessoais."
 LE,"O que é um dado pessoal sensível segundo a LGPD?","É um dado pessoal sobre origem racial ou étnica, convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso, filosófico ou político, dado referente à saúde ou à vida sexual, dado genético ou biométrico, quando vinculado a uma pessoa natural."
@@ -371,11 +371,11 @@ LE,"Como é o princípio da transparência na LGPD?","O princípio da transparê
 LE,"Como é o princípio da qualidade dos dados na LGPD?","O princípio da qualidade dos dados diz respeito à garantia, aos titulares, de exatidão, clareza, relevância e atualização dos dados, de acordo com a necessidade e para o cumprimento da finalidade de seu tratamento."
 LE,"Como é o princípio da segurança na LGPD?","O princípio da segurança relaciona-se à utilização de medidas técnicas e administrativas aptas a proteger os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de destruição, perda, alteração, comunicação ou difusão."
 LE,"Como é o princípio da não discriminação na LGPD?","O princípio da não discriminação informa a impossibilidade de realização do tratamento para fins discriminatórios ilícitos ou abusivos."
-LE,"Como é o princípio da responsabilização na LGPD?","O princípio da  \" responsabilização e prestação de contas \"  representa a demonstração, pelo agente de tratamento de dados, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas."
+LE,"Como é o princípio da responsabilização na LGPD?","O princípio da responsabilização e prestação de contas representa a demonstração, pelo agente de tratamento de dados, da adoção de medidas eficazes e capazes de comprovar a observância e o cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia dessas medidas."
 LP,"Qual o sentido que indica a forma verbal do pretérito mais que perfeito, aquele terminado em ara?","Indica que uma ação começou e terminou antes de outra ação."
 ES,"Quais são os valores do XP?","1. Comunicação. \n 2. Simplicidade. \n 3. Feedback. \n 4. Coragem. \n 5. Respeito."
 ES,"Quais são as atividades do XP?","1. Planejamento. História dos usuários, valores, critérios de teste e aceitação, plano de iteração. \n 2. Projeto. Projeto simples. Soluções de ponta - protótipos. \n 3. Codificação. Refabricação (`recactoring`). Programação em pares. Teste unitário. Integração contínua. \n 4. Teste. Teste de aceitação. Incremento."
 ES,"O que as histórias de usuários precisam ter segundo o acrônimo INVEST?","Independente. Negociável. Valiosa. Estimável. Small. Testável."
 DS,"Quais os níveis de visibilidade no Java?","Nível 1. `private` - Somente a própria classe. \n Nível 2. `default` - Somente as classes do mesmo pacote. \n Nível 3. `protected` - Somente as classes filhas. \n Nível 4. `public` - Todas as classes."
-DS,"No HTML um `button` dentro de um `form` tem ação padrão de `submit`, como faço para anular esse comportamento?","É possível anular esse comportamento atribuindo `type= \" button \" ` na `tag button`."
-DS,"Quais as funções do JavaScript que previnem que o evento se propague?","``` \n event.preventDefault(); \n event.stopPropagation(); \n ```."
+DS,"No HTML um `button` dentro de um `form` tem ação padrão de `submit`, como faço para anular esse comportamento?","É possível anular esse comportamento atribuindo `type= ' button ' ` na `tag button`"
+DS,"Quais as funções do JavaScript que previnem que o evento se propague?","``` \n event.preventDefault(); \n event.stopPropagation(); \n ```"
