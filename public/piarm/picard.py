@@ -5,7 +5,7 @@ import os
 import piarm
 
 
-def transform_from_csv(text):
+def fix_csv(text):
     text = text.replace(' \\" ', '"')
     text = text.replace(' \\n ', "\n")
     text = text.replace(' \\s ', " ")
@@ -22,8 +22,8 @@ def make_all_cards(origin, destiny):
     with open(origin, mode ='r', encoding='utf-8') as file:
         csvFile = csv.reader(file)
         for i, data in enumerate(csvFile):
-            question = transform_from_csv(data[1]).split("\n")
-            answer = transform_from_csv(data[2]).split("\n")
+            question = fix_csv(data[1]).split("\n")
+            answer = fix_csv(data[2]).split("\n")
             question = piarm.adjust_text(question, 'Questão')
             answer = piarm.adjust_text(answer, 'Resposta')
             path = os.path.join(destiny, "Card " + str(i)) + ".txt"
