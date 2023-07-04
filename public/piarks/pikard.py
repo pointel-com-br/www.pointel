@@ -22,8 +22,8 @@ def make_all_cards(origin, destiny):
     with open(origin, mode ='r', encoding='utf-8') as file:
         csvFile = csv.reader(file)
         for i, data in enumerate(csvFile):
-            question = replace_all(data[1])
-            answer = replace_all(data[2])
+            question = "".join(pilibrs.adjust_text_code_blocks([replace_all(data[1])]))
+            answer = "".join(pilibrs.adjust_text_code_blocks([replace_all(data[2])]))
             path = os.path.join(destiny, "Card " + str(i)) + ".txt"
             with open(path, mode='w', encoding='utf-8') as writer:
                 writer.write("Cartão " + str(i) + ".\n\n")
@@ -39,4 +39,4 @@ def make_all_cards(origin, destiny):
                 writer.write("\n\n")
 
 if __name__ == "__main__":
-    make_all_cards('pikard\\aptar.csv', 'C:\\Users\\emuvi\\Downloads')
+    make_all_cards('..\\pikard\\aptar.csv', 'C:\\Users\\emuvi\\Downloads')
