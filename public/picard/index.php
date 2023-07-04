@@ -8,6 +8,8 @@ function unescape(string $str): string
     $result = str_replace(' \" ', '"', $str);
     $result = str_replace(' \n ', "<br>", $result);
     $result = str_replace(' \s ', "&nbsp;", $result);
+    $result = str_replace(' \l ', "&lt;", $result);
+    $result = str_replace(' /g ', "&gt;", $result);
     $result = str_replace(' \b ', "<b>", $result);
     $result = str_replace(' /b ', "</b>", $result);
     $result = str_replace(' \i ', "<i>", $result);
@@ -22,6 +24,8 @@ function escape(string $str): string
     $result = str_replace('"', ' \" ', $str);
     $result = str_replace("<br>", ' \n ', $result);
     $result = str_replace('&nbsp;', " \s ", $result);
+    $result = str_replace('&lt;', " \l ", $result);
+    $result = str_replace('&gt;', " /g ", $result);
     $result = str_replace("<b>", ' \b ', $result);
     $result = str_replace("</b>", ' /b ', $result);
     $result = str_replace("<i>", ' \i ', $result);
@@ -45,6 +49,12 @@ function unescape_editor(string $str): string {
             } else {
                 $result .= " ";
             }
+        } else if ($char == "<") {
+            $result .= "&lt;";
+            $was_break = false;
+        } else if ($char == ">") {
+            $result .= "&gt;";
+            $was_break = false;
         } else {
             $was_break = false;
             $result .= $char;
@@ -57,6 +67,8 @@ function escape_editor(string $str): string {
     $result = escape($str);
     $result = str_replace(' \n ', "\n", $result);
     $result = str_replace(' \s ', " ", $result);
+    $result = str_replace(' \l ', "<", $result);
+    $result = str_replace(' /g ', ">", $result);
     return $result;
 }
 
