@@ -6,7 +6,7 @@ $question = unescape_editor($question);
 $answer = trim($_POST['answer'] ?? '');
 $answer = unescape_editor($answer);
 
-if (!str_ends_with($question, "?")) {
+if (!str_ends_with($question, "?") && !str_ends_with($answer, ".")) {
     $question .= "?";
 }
 

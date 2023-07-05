@@ -1,0 +1,17 @@
+{
+  "name": "helloworld2",
+  "displayName": "Hello World 2",
+  "version": "0.1.0",
+  "description": "Hello World 2.",
+  "author": {
+    "name": "emuvi"
+  },
+  "contributes": {
+    "commands": [
+      {
+        "command": "extension.sayHello2",
+        "title": "Hello World 2"
+      }
+    ]
+  }
+}

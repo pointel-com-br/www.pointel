@@ -5,6 +5,10 @@
 
 function activate(_context) {
    window.showInformationMessage('Hello, World!');
+
+   commands.registerCommand('extension.sayHello2', () => {
+      window.showInformationMessage('Hello World!');
+   });
 }
 
 function deactivate() {}

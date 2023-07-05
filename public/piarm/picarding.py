@@ -1,4 +1,5 @@
 import os
+import shutil
 
 
 def pop_title(source):
@@ -28,10 +29,9 @@ def del_first_last_lines(source):
 
 
 def is_item(line):
-    test = line.strip()
-    if len(test) < 1:
+    if len(line) < 1:
         return False
-    return test[0].isdigit() or test[0] == '-'
+    return line[0].isdigit() or line[0] == '-'
 
 
 def has_items(source):
@@ -42,11 +42,18 @@ def has_items(source):
 
 
 def prepare_question(question, title):
-    result = 'Em, ' + title + ', como se define o item, ' + question + '.'
+    result = 'Em, ' + title.strip() + ', como se define o item, ' + question.strip() + '.'
     return result
 
 
-def split_item(item):
+def prepare_answer(answer):
+    result = answer.strip()
+    if len(result) > 1:
+        result = result[0].upper() + result[1:]
+    return result
+
+
+def split_item_colon(item):
     parts = item.split(":")
     question = None
     answer = None
@@ -60,6 +67,34 @@ def split_item(item):
             answer += part
     return question, answer
 
+def find_verb(item):
+    verbs = ['é', 'são']
+    for verb in verbs:
+        if item.find(verb):
+            return verb
+    return ''
+
+def split_item_verb(item):
+    verb = find_verb(item)
+    parts = item.split(verb)
+    question = None
+    answer = None
+    for part in parts:
+        if not question:
+            question = part
+        elif not answer:
+            answer = part.lstrip()
+        else:
+            answer += verb
+            answer += part
+    return question, answer
+
+def split_item(item):
+    if item.find(':') > -1:
+        return split_item_colon(item)
+    else:
+        return split_item_verb(item)    
+
 
 def get_items(source, title):
     result = []
@@ -68,15 +103,15 @@ def get_items(source, title):
         if is_item(line):
             if item:
                 question, answer = split_item(item)
-                if not question or not answer:
-                    return None
-                question = prepare_question(question, title)
-                result.append((question, answer))
+                if question and answer:
+                    question = prepare_question(question, title)
+                    answer = prepare_answer(answer)
+                    result.append((question, answer))
             item = line
         else:
             if item:
                 item += '\n'
-            item += line
+                item += line
     return result
     
 
@@ -86,7 +121,8 @@ def get_cards(source):
     source = del_first_last_lines(source)
     if has_items(source):
         return get_items(source, title)
-    return None
+    else:
+        return (title, "\n".join(source))
 
 
 def read_source(file_name):
@@ -95,10 +131,23 @@ def read_source(file_name):
         return file.readlines()
 
 ROOT_PATH = '..\\pibulk\\pool\\'
+PROC_PATH = '..\\pibulk\\proc\\'
+DEST_PATH = '..\\picard\\append.txt'
+
 if __name__ == '__main__':
     for file_name in os.listdir(ROOT_PATH):
         cards = get_cards(read_source(file_name))
         if cards:
-            for line in cards:
-                print(line)
-                print()
+            for card in cards:
+                question, answer = card
+                with open(DEST_PATH, mode='a', encoding='UTF-8') as file:
+                    file.write('\n\n')
+                    file.write('--------- Pergunta ---------')
+                    file.write('\n\n')
+                    file.write(question)
+                    file.write('\n\n')
+                    file.write('----- Resposta -----')
+                    file.write('\n\n')
+                    file.write(answer)
+                    file.write('\n\n')
+            shutil.move(ROOT_PATH + file_name, PROC_PATH + file_name)
