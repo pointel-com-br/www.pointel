@@ -141,13 +141,13 @@ if __name__ == '__main__':
             for card in cards:
                 question, answer = card
                 with open(DEST_PATH, mode='a', encoding='UTF-8') as file:
-                    file.write('\n\n\n\n')
+                    file.write('\n\n')
                     file.write('--------- Pergunta ---------')
-                    file.write('\n\n\n\n')
+                    file.write('\n\n')
                     file.write(question)
-                    file.write('\n\n\n\n')
+                    file.write('\n\n')
                     file.write('----- Resposta -----')
-                    file.write('\n\n\n\n')
+                    file.write('\n\n')
                     file.write(answer)
-                    file.write('\n\n\n\n')
+                    file.write('\n\n')
             shutil.move(ROOT_PATH + file_name, PROC_PATH + file_name)
