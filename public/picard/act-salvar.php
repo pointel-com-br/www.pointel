@@ -6,6 +6,8 @@ $question = unescape_editor($question);
 $answer = trim($_POST['answer'] ?? '');
 $answer = unescape_editor($answer);
 
+$question = strtoupper(substr($question, 0, 1)) . substr($question, 1);
+
 if (!str_ends_with($question, "?") && !str_ends_with($question, ".")) {
     $question .= "?";
 }
