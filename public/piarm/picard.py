@@ -26,7 +26,7 @@ def make_all_cards(origin, destiny):
                 question = fix_csv(data[1]).split("\n")
                 answer = fix_csv(data[2]).split("\n")
                 card = []
-                card.append("Cartão " + str(i) + ".\n\n")
+                card.append("Cartão " + str(i + 1) + ".\n\n")
                 card.append("Questão.\n\n")
                 card.append("{{Pause=1}}")
                 card.append("\n\n")
@@ -44,7 +44,7 @@ def make_all_cards(origin, destiny):
                 card.append("{{Pause=5}}\n\n")
                 card.append("\n\n")
                 card = piarm.adjust_text(card, 'Cartão')
-                path = os.path.join(destiny, "Card " + str(i)) + ".txt"
+                path = os.path.join(destiny, "Card " + str(i + 1)) + ".txt"
                 with open(path, mode='w', encoding='utf-8') as writer:
                     for line in card:
                         writer.write(line)
