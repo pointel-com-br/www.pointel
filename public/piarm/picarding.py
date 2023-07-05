@@ -146,7 +146,7 @@ if __name__ == '__main__':
                     file.write('\n\n')
                     file.write(question)
                     file.write('\n\n')
-                    file.write('----- Resposta -----')
+                    file.write('--------- Resposta ---------')
                     file.write('\n\n')
                     file.write(answer)
                     file.write('\n\n')
