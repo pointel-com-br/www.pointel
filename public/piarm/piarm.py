@@ -164,6 +164,9 @@ def adjust_marked_temp(text):
     print('Ajustando marcado - processos temporários...')
     return text
 
+def adjust_text_initial(text):
+    text.insert(0, "{{Voice=Acapela Marcia22 (Brazilian Portuguese)/}}<rate absspeed=\"-2\"/>\n")
+    return text
 
 def adjust_text_hierarchy(text):
     print('Ajustando texto - hierarquia...')
@@ -221,9 +224,9 @@ def adjust_text_code_blocks(text):
         if test.startswith('```'):
             suffix = test[3:] if len(test) > 3 else ''
             if not inside_code_block:
-                test = 'Iniciando bloco de código.'
+                test = 'Iniciando bloco de código. {{Voice=ScanSoft Samantha22/}}<rate absspeed=\"-3\"/>'
             else:
-                test = 'Fechando bloco de código.'
+                test = '{{Voice=Acapela Marcia22 (Brazilian Portuguese)/}}<rate absspeed=\"-2\"/> Fechando bloco de código.'
             if suffix:
                 test += ' ' + suffix
             if not test.endswith('.'):
@@ -239,6 +242,7 @@ def adjust_text_code_blocks(text):
                 test = test.replace('-', ' - ')
                 test = test.replace('+', ' + ')
                 test = test.replace('*', ' * ')
+                test = test.replace('`', ' ` ')
                 test = test.replace('/', ' / ')
                 test = test.replace('\\', ' \\ ')
                 test = test.replace('%', ' % ')
@@ -253,7 +257,27 @@ def adjust_text_code_blocks(text):
                 test = test.replace('}', ' } ')
                 result.append(test + '\n\n')
             else:
-                result.append(line)
+                last = line.find('`')
+                if last == -1:
+                    result.append(line)
+                else:
+                    make = ""
+                    until = 0
+                    while last > -1:
+                        make += line[until:last]
+                        until = last
+                        next = line.find('`', last + 1)
+                        if next > -1:
+                            make += ' {{Voice=ScanSoft Samantha22/}}<rate absspeed=\"-3\"/> ` '
+                            inside = line[last+1:next]
+                            make += inside
+                            make += ' ` {{Voice=Acapela Marcia22 (Brazilian Portuguese)/}}<rate absspeed=\"-2\"/> '
+                            until = next + 1
+                            last = line.find('`', next + 1)
+                        else:
+                            raise Exception("Did not found the closings single line code block.")
+                    make += line[until:]
+                    result.append(make)
     return result
 
 
@@ -279,23 +303,6 @@ def adjust_text_items(text):
     return text
 
 
-def adjust_text_time(text):
-    print('Ajustando texto - tempos para leitura...')
-    for i, line in enumerate(text):
-        line = line.replace('.', '.{{Pause=0.3}}')
-        line = line.replace(',', ',{{Pause=0.3}}')
-        line = line.replace(':', ':{{Pause=0.3}}')
-        line = line.replace(';', ';{{Pause=0.3}}')
-        line = line.replace('!', '!{{Pause=0.3}}')
-        line = line.replace('?', '?{{Pause=0.3}}')
-        line = line.replace('(', ' ( {{Pause=0.7}}')
-        line = line.replace(')', ' ) {{Pause=0.7}}')
-        line = line.replace('[', ' [ {{Pause=0.7}}')
-        line = line.replace(']', ' ] {{Pause=0.7}}')
-        text[i] = line
-    return text
-
-
 def adjust_text_temp(text):
     print('Ajustando texto - processos temporários...')
     return text
@@ -318,6 +325,6 @@ def adjust_text(text, name):
     text = adjust_text_hierarchy(text)
     text = adjust_text_items(text)
     text = adjust_text_code_blocks(text)
-    text = adjust_text_time(text)
+    text = adjust_text_initial(text)
     text = adjust_text_temp(text)
     return text
