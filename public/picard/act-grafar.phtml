@@ -43,7 +43,8 @@
       <input type="submit" value="Salvar" /> | <button type="button"
         onclick="limpar()">Limpar</button> <button type="button"
         onclick="numerar()">Numerar</button> <button type="button"
-        onclick="substituir()">Substituir</button>
+        onclick="substituir()">Substituir</button> <button type="button"
+        onclick="colar()">Colar</button>
     </div>
   </div>
 </form>
@@ -101,6 +102,19 @@ function substituir() {
   }
 }
 
+function colar() {
+  let reader = navigator.clipboard.readText();
+  reader.then(text => {
+    const questionEdit = document.getElementById('question');
+    const answerEdit = document.getElementById('answer');
+    if (!questionEdit.value) {
+      questionEdit.value = text;
+    } else {
+      answerEdit.value = text;
+    } 
+  });
+}
+
 function random() {
   document.location = 'index.php?action=sortear&from=<?=$id?>';
 }
@@ -135,6 +149,10 @@ document.body.addEventListener("keydown", function(e) {
       case "s":
         previne(e);
         substituir();
+        break;
+      case "v":
+        previne(e);
+        colar();
         break;
     }
   } else if (e.ctrlKey) {
