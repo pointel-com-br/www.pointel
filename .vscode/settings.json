@@ -5,6 +5,8 @@
     "piarm",
     "pibulk",
     "picard",
-    "Pubz"
+    "pilibs",
+    "Pubz",
+    "pyperclip"
   ]
 }

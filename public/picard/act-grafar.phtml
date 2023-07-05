@@ -41,12 +41,38 @@
     </div>
     <div>
       <input type="submit" value="Salvar" /> | <button type="button"
+        onclick="limpar()">Limpar</button> <button type="button"
         onclick="numerar()">Numerar</button> <button type="button"
         onclick="substituir()">Substituir</button>
     </div>
   </div>
 </form>
 <script>
+function limpar() {
+  const alphanumeric = /^[\p{L}\p{N}]*$/u;
+  const answerEdit = document.getElementById('answer');
+  let answer = answerEdit.value;
+  let lines = answer.split("\n");
+  let index = 0;
+  for (let l = 0; l < lines.length; l++) {
+    let line = lines[l].trim()
+    let start = -1;
+    for (let i = 0; i < line.length; i++) {
+      if (line.charAt(i).match(alphanumeric)) {
+        start = i;
+        break;
+      }
+    }
+    if (start > -1) {
+      line = line.substring(start);
+    } else {
+      line = "";
+    }
+    lines[l] = line;
+  }
+  answerEdit.value = lines.join("\n");
+}
+
 function numerar() {
   const answerEdit = document.getElementById('answer');
   let answer = answerEdit.value;
@@ -97,6 +123,10 @@ document.body.addEventListener("keydown", function(e) {
       case "q":
         previne(e);
         random();
+        break;
+      case "l":
+        previne(e);
+        limpar();
         break;
       case "n":
         previne(e);
