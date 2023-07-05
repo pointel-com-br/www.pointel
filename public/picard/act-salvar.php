@@ -1,5 +1,6 @@
 <?php
 $id = $_POST['id'] ?? -1;
+$monitorar = $_POST['monitorar'] ?? 0;
 $tag = trim($_POST['tag'] ?? '');
 $question = trim($_POST['question'] ?? '');
 $question = unescape_editor($question);
@@ -17,7 +18,7 @@ if (!str_ends_with($answer, ".") && !str_ends_with($answer, "`")) {
 }
 
 $message = 'Processando...';
-$retorno = 'index.php?action=grafar&tag=' . $tag;
+$retorno = 'index.php?action=grafar&tag=' . $tag . '&monitorar=' . $monitorar;
 if ($tag == '' || $question == '' || $answer == '') {
     $message = 'Erro: dados incompletos.';
 } else {

@@ -1,6 +1,7 @@
 <form action="index.php" method="post" name="formGrafar" id="formGrafar">
   <input type="hidden" name="action" id="action" value="salvar" />
   <input type="hidden" name="id" id="id" value="<?=$id?>" />
+  <input type="hidden" name="monitorar" id="monitorar" value="<?=$monitorar?>" />
   <div id="divQuestion">
     <h3>Pergunta <?=$id + 1?></h3>
     <div>
@@ -44,7 +45,8 @@
         onclick="limpar()">Limpar</button> <button type="button"
         onclick="numerar()">Numerar</button> <button type="button"
         onclick="substituir()">Substituir</button> <button type="button"
-        onclick="colar()">Colar</button>
+        onclick="colar()">Colar</button> <button type="button"
+        onclick="monitora()">Monitorar</button>
     </div>
   </div>
 </form>
@@ -111,8 +113,40 @@ function colar() {
       questionEdit.value = text;
     } else {
       answerEdit.value = text;
-    } 
+    }
   });
+}
+
+function monitora() {
+  if (document.getElementById('monitorar').value == '1') {
+    return;
+  }
+  document.getElementById('monitorar').value = 1;
+  
+  const tagEdit = document.getElementById('tag');
+  const questionEdit = document.getElementById('question');
+  const answerEdit = document.getElementById('answer');
+  var monitor_last_one = -1;
+
+  setInterval(() => {
+    navigator.clipboard.readText().then(text => {
+      if (monitor_last_one === -1) {
+        monitor_last_one = text;
+        return;
+      }
+      if (monitor_last_one != text) {
+        monitor_last_one = text;
+        if (!questionEdit.value) {
+          questionEdit.value = text;
+        } else {
+          answerEdit.value = text;
+          if (tagEdit.value) {
+            salvar();
+          }
+        }
+      }
+    }).catch(() => {});
+  }, 1000);
 }
 
 function random() {
@@ -164,4 +198,10 @@ document.body.addEventListener("keydown", function(e) {
     }
   }
 });
+if (document.getElementById('monitorar').value == '1') {
+  setTimeout(() => {
+    document.getElementById('monitorar').value = 0;
+    monitora();
+  }, 1000);
+}
 </script>
