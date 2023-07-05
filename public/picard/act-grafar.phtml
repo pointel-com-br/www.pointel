@@ -105,14 +105,21 @@ function substituir() {
 }
 
 function colar() {
+  const tagEdit = document.getElementById('tag');
+  const questionEdit = document.getElementById('question');
+  const answerEdit = document.getElementById('answer');
   let reader = navigator.clipboard.readText();
   reader.then(text => {
-    const questionEdit = document.getElementById('question');
-    const answerEdit = document.getElementById('answer');
+    if (!text) {
+      return;
+    }
     if (!questionEdit.value) {
       questionEdit.value = text;
     } else {
       answerEdit.value = text;
+      if (tagEdit.value) {
+        salvar();
+      }
     }
   });
 }
@@ -122,12 +129,10 @@ function monitora() {
     return;
   }
   document.getElementById('monitorar').value = 1;
-  
   const tagEdit = document.getElementById('tag');
   const questionEdit = document.getElementById('question');
   const answerEdit = document.getElementById('answer');
   var monitor_last_one = -1;
-
   setInterval(() => {
     navigator.clipboard.readText().then(text => {
       if (monitor_last_one === -1) {
