@@ -45,8 +45,8 @@
         onclick="limpar()">Limpar</button> <button type="button"
         onclick="numerar()">Numerar</button> <button type="button"
         onclick="substituir()">Substituir</button> <button type="button"
-        onclick="colar()">Colar</button> <button type="button"
-        onclick="monitora()">Monitorar</button>
+        onclick="colar()">Colar</button> <button name="monitorarButton" id="monitorarButton"
+        type="button" onclick="monitora()">Monitorar</button>
     </div>
   </div>
 </form>
@@ -132,6 +132,8 @@ function monitora() {
   const tagEdit = document.getElementById('tag');
   const questionEdit = document.getElementById('question');
   const answerEdit = document.getElementById('answer');
+  const monitorarButton = document.getElementById('monitorarButton');
+  monitorarButton.innerText = 'Monitorando';
   var monitor_last_one = -1;
   setInterval(() => {
     navigator.clipboard.readText().then(text => {
