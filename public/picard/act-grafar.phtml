@@ -134,15 +134,16 @@ function monitora() {
   const answerEdit = document.getElementById('answer');
   const monitorarButton = document.getElementById('monitorarButton');
   monitorarButton.innerText = 'Monitorando';
-  var monitor_last_one = -1;
+  var monitor_last_one = window.localStorage.getItem('PiCard - Monitor - LastOne');
   setInterval(() => {
     navigator.clipboard.readText().then(text => {
-      if (monitor_last_one === -1) {
+      if (!monitor_last_one) {
         monitor_last_one = text;
         return;
       }
       if (monitor_last_one != text) {
         monitor_last_one = text;
+        window.localStorage.setItem('PiCard - Monitor - LastOne', monitor_last_one)
         if (!questionEdit.value) {
           questionEdit.value = text;
         } else {
