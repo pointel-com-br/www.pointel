@@ -32,7 +32,7 @@ def make_all_cards(origin, destiny):
                 for line in question:
                     card.append(line)
                 card.append("\n\n")
-                card.append("{{Pause=5}}")
+                card.append("{{Pause=4}}")
                 card.append("\n\n")
                 card.append("Resposta.\n\n")
                 card.append("{{Pause=1}}")
@@ -40,7 +40,7 @@ def make_all_cards(origin, destiny):
                 for line in answer:
                     card.append(line)
                 card.append("\n\n")
-                card.append("{{Pause=4}}\n\n")
+                card.append("{{Pause=3}}\n\n")
                 card.append("\n\n")
                 card = piarm.adjust_text(card, 'Cartão')
                 path = os.path.join(destiny, "Card " + str(i + 1)) + ".txt"
