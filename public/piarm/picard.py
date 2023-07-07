@@ -51,6 +51,7 @@ def make_all_cards(origin, destiny):
                         writer.write(line)
             except Exception as e:
                 print("Error on card " + str(i + 1) + " : " + str(e))
+                input("Press enter to continue")
                 exit(-1)
 
 

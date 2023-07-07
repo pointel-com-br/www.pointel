@@ -215,6 +215,37 @@ def adjust_text_hierarchy(text):
     return result
 
 
+def replace_code_signals(text):
+    text = text.replace('{', ' open brace ')
+    text = text.replace('}', ' close brace ')
+    text = text.replace('=', ' {{Pause=1}} equals {{Pause=1}} ')
+    text = text.replace(' open brace ', ' {{Pause=1}} open brace {{Pause=1}} ')
+    text = text.replace(' close brace ', ' {{Pause=1}} close brace {{Pause=1}} ')
+    text = text.replace('\'', ' {{Pause=1}} single quotes {{Pause=1}} ')
+    text = text.replace('"', ' {{Pause=1}} double quotes {{Pause=1}} ')
+    text = text.replace('.', ' {{Pause=1}} dot {{Pause=1}} ')
+    text = text.replace(',', ' {{Pause=1}} comma {{Pause=1}} ')
+    text = text.replace(';', ' {{Pause=1}} semicolon {{Pause=1}} ')
+    text = text.replace('-', ' {{Pause=1}} hyphen {{Pause=1}} ')
+    text = text.replace('+', ' {{Pause=1}} plus {{Pause=1}} ')
+    text = text.replace('*', ' {{Pause=1}} asterisk {{Pause=1}} ')
+    text = text.replace('`', ' {{Pause=1}} backtick {{Pause=1}} ')
+    text = text.replace('/', ' {{Pause=1}} slash {{Pause=1}} ')
+    text = text.replace('\\',  ' {{Pause=1}} backslash {{Pause=1}} ')
+    text = text.replace('%', ' {{Pause=1}} percent {{Pause=1}} ')
+    text = text.replace('@', ' {{Pause=1}} at {{Pause=1}} ')
+    text = text.replace('!', ' {{Pause=1}} exclamation {{Pause=1}} ')
+    text = text.replace('?', ' {{Pause=1}} question {{Pause=1}} ')
+    text = text.replace('<', ' {{Pause=1}} less than {{Pause=1}} ')
+    text = text.replace('>', ' {{Pause=1}} greater than {{Pause=1}} ')
+    text = text.replace('(', ' {{Pause=1}} open parenthesis {{Pause=1}} ')
+    text = text.replace(')', ' {{Pause=1}} close parenthesis {{Pause=1}} ')
+    text = text.replace('[', ' {{Pause=1}} open bracket {{Pause=1}} ')
+    text = text.replace(']', ' {{Pause=1}} close bracket {{Pause=1}} ')
+    return text
+
+
+
 def adjust_text_code_blocks(text):
     print('Ajustando texto - blocos de código...')
     result = []
@@ -236,28 +267,7 @@ def adjust_text_code_blocks(text):
         else: 
             if inside_code_block and line.strip():
                 test = line.rstrip()
-                test = test.replace('.', ' . ')
-                test = test.replace(',', ' , ')
-                test = test.replace(';', ' ; ')
-                test = test.replace('-', ' - ')
-                test = test.replace('+', ' + ')
-                test = test.replace('*', ' * ')
-                test = test.replace('`', ' ` ')
-                test = test.replace('/', ' / ')
-                test = test.replace('\\', ' \\ ')
-                test = test.replace('%', ' % ')
-                test = test.replace('@', ' @ ')
-                test = test.replace('!', ' ! ')
-                test = test.replace('?', ' ? ')
-                test = test.replace('<', ' < ')
-                test = test.replace('>', ' > ')
-                test = test.replace('=', ' = ')
-                test = test.replace('(', ' ( ')
-                test = test.replace(')', ' ) ')
-                test = test.replace('[', ' [ ')
-                test = test.replace(']', ' ] ')
-                test = test.replace('{', ' { ')
-                test = test.replace('}', ' } ')
+                test = replace_code_signals(test)
                 result.append(test + '\n\n')
             else:
                 last = line.find('`')
@@ -273,7 +283,7 @@ def adjust_text_code_blocks(text):
                         if next > -1:
                             make += ' {{Voice=ScanSoft Samantha22/}}<rate absspeed=\"-4\"/> '
                             inside = line[last+1:next]
-                            make += inside
+                            make += replace_code_signals(inside)
                             make += ' {{Voice=Acapela Marcia22 (Brazilian Portuguese)/}}<rate absspeed=\"-2\"/> '
                             until = next + 1
                             last = line.find('`', next + 1)
