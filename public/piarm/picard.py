@@ -15,6 +15,8 @@ def fix_csv(text):
     text = text.replace(' /i ', "")
     text = text.replace(' \\u ', "")
     text = text.replace(' /u ', "")
+    text = text.replace(' \\l ', "<")
+    text = text.replace(' /g ', ">")
     return text
 
 
@@ -43,7 +45,7 @@ def make_all_cards(origin, destiny):
                 card.append("{{Pause=3}}\n\n")
                 card.append("\n\n")
                 card = piarm.adjust_text(card, 'Cartão')
-                path = os.path.join(destiny, "Card " + str(i + 1)) + ".txt"
+                path = os.path.join(destiny, "Card " + str(i + 1).rjust(4, '0')) + ".txt"
                 with open(path, mode='w', encoding='utf-8') as writer:
                     for line in card:
                         writer.write(line)
