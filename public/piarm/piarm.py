@@ -264,7 +264,7 @@ def adjust_text_code_blocks(text):
         if test.startswith('```'):
             suffix = test[3:] if len(test) > 3 else ''
             if not inside_code_block:
-                test = 'Iniciando bloco de código. {{Voice=ScanSoft Samantha22/}}<rate absspeed=\"-4\"/> '
+                test = 'Iniciando bloco de código. {{Voice=Acapela Ryan22/}}<rate absspeed=\"-3\"/> '
             else:
                 test = ' {{Voice=Acapela Marcia22 (Brazilian Portuguese)/}}<rate absspeed=\"-2\"/> Fechando bloco de código.'
             if suffix:
@@ -290,7 +290,7 @@ def adjust_text_code_blocks(text):
                         until = last
                         next = line.find('`', last + 1)
                         if next > -1:
-                            make += ' {{Voice=ScanSoft Samantha22/}}<rate absspeed=\"-4\"/> '
+                            make += ' {{Voice=Acapela Ryan22/}}<rate absspeed=\"-3\"/> '
                             inside = line[last+1:next]
                             make += replace_code_signals(inside)
                             make += ' {{Voice=Acapela Marcia22 (Brazilian Portuguese)/}}<rate absspeed=\"-2\"/> '

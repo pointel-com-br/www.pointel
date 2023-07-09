@@ -6,7 +6,7 @@ import piarm
 
 
 def fix_csv(text):
-    text = text.replace(' \\" ', '"')
+    text = text.replace(' \\q ', '"')
     text = text.replace(' \\n ', "\n")
     text = text.replace(' \\s ', " ")
     text = text.replace(' \\b ', "")
@@ -25,8 +25,10 @@ def make_all_cards(origin, destiny):
         csvFile = csv.reader(file)
         for i, data in enumerate(csvFile):
             try:
-                question = fix_csv(data[1]).split("\n")
-                answer = fix_csv(data[2]).split("\n")
+                question = data[1]
+                answer = data[2]
+                question = fix_csv(question).split("\n")
+                answer = fix_csv(answer).split("\n")
                 card = []
                 card.append("Cartão " + str(i + 1) + ".\n\n")
                 card.append("{{Pause=1}}")
@@ -34,7 +36,7 @@ def make_all_cards(origin, destiny):
                 for line in question:
                     card.append(line)
                 card.append("\n\n")
-                card.append("{{Pause=4}}")
+                card.append("{{Pause=3}}")
                 card.append("\n\n")
                 card.append("Resposta.\n\n")
                 card.append("{{Pause=1}}")

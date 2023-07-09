@@ -5,7 +5,7 @@ $action = $_GET['action'] ?? $_POST['action'] ?? 'listar';
 
 function unescape(string $str): string
 {
-    $result = str_replace(' \" ', '"', $str);
+    $result = str_replace(' \q ', '"', $str);
     $result = str_replace(' \n ', "<br>", $result);
     $result = str_replace(' \s ', "&nbsp;", $result);
     $result = str_replace(' \l ', "&lt;", $result);
@@ -21,7 +21,7 @@ function unescape(string $str): string
 
 function escape(string $str): string
 {
-    $result = str_replace('"', ' \" ', $str);
+    $result = str_replace('"', ' \q ', $str);
     $result = str_replace("<br>", ' \n ', $result);
     $result = str_replace('&nbsp;', " \s ", $result);
     $result = str_replace('&lt;', " \l ", $result);
@@ -65,6 +65,7 @@ function unescape_editor(string $str): string {
 
 function escape_editor(string $str): string {
     $result = escape($str);
+    $result = str_replace(' \q ', "\"", $result);
     $result = str_replace(' \n ', "\n", $result);
     $result = str_replace(' \s ', " ", $result);
     $result = str_replace(' \l ', "<", $result);
