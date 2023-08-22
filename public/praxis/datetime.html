@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>DateTime</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="datetime">DateTime</h1>
+<ul>
+<li><a href="#datetime">DateTime</a>
+<ul>
+<li><a href="#manipula%C3%A7%C3%A3o-de-datas-em-javascript">Manipulação de Datas em JavaScript</a>
+<ul>
+<li><a href="#como-calcular-a-diferen%C3%A7a-entre-datas-em-javascript">Como calcular a diferença entre datas em JavaScript</a></li>
+<li><a href="#formata%C3%A7%C3%A3o-de-datas-em-javascript">Formatação de Datas em JavaScript</a></li>
+</ul>
+</li>
+<li><a href="#manipula%C3%A7%C3%A3o-de-datas-em-java">Manipulação de Datas em Java</a>
+<ul>
+<li><a href="#como-calcular-a-diferen%C3%A7a-de-datas-em-java">Como calcular a diferença de datas em Java</a></li>
+<li><a href="#classe-instant-em-java">Classe Instant em Java</a></li>
+<li><a href="#formata%C3%A7%C3%A3o-de-datas-em-java">Formatação de Datas em Java</a></li>
+<li><a href="#padr%C3%B5es-de-formata%C3%A7%C3%A3o-de-datas-em-java">Padrões de Formatação de Datas em Java</a></li>
+</ul>
+</li>
+<li><a href="#manipula%C3%A7%C3%A3o-de-datas-em-python">Manipulação de Datas em Python</a>
+<ul>
+<li><a href="#como-calcular-a-diferen%C3%A7a-de-datas-em-python">Como calcular a diferença de datas em Python</a></li>
+<li><a href="#formata%C3%A7%C3%A3o-de-datas-com-python">Formatação de Datas com Python</a></li>
+<li><a href="#padr%C3%B5es-de-formata%C3%A7%C3%A3o-de-datas-em-python">Padrões de Formatação de Datas em Python</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="manipulação-de-datas-em-javascript">Manipulação de Datas em JavaScript</h2>
+<ol>
+<li>Criar uma data:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-comment">// Criar uma data representando a data e hora atuais</span>
+<span class="hljs-keyword">const</span> dataAtual = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+<span class="hljs-comment">// Criar uma data específica (ano, mês, dia, hora, minuto, segundo, milissegundo)</span>
+<span class="hljs-keyword">const</span> dataEspecifica = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(<span class="hljs-number">2023</span>, <span class="hljs-number">7</span>, <span class="hljs-number">6</span>, <span class="hljs-number">12</span>, <span class="hljs-number">30</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>); <span class="hljs-comment">// 6 de agosto de 2023, 12:30:00</span>
+</code></pre>
+<ol start="2">
+<li>Obter informações da data:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> data = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+<span class="hljs-keyword">const</span> ano = data.<span class="hljs-title function_">getFullYear</span>();
+<span class="hljs-keyword">const</span> mes = data.<span class="hljs-title function_">getMonth</span>(); <span class="hljs-comment">// Janeiro é 0, fevereiro é 1, e assim por diante</span>
+<span class="hljs-keyword">const</span> dia = data.<span class="hljs-title function_">getDate</span>();
+<span class="hljs-keyword">const</span> hora = data.<span class="hljs-title function_">getHours</span>();
+<span class="hljs-keyword">const</span> minuto = data.<span class="hljs-title function_">getMinutes</span>();
+<span class="hljs-keyword">const</span> segundo = data.<span class="hljs-title function_">getSeconds</span>();
+<span class="hljs-keyword">const</span> milissegundo = data.<span class="hljs-title function_">getMilliseconds</span>();
+<span class="hljs-keyword">const</span> diaDaSemana = data.<span class="hljs-title function_">getDay</span>(); <span class="hljs-comment">// Domingo é 0, segunda-feira é 1, e assim por diante</span>
+</code></pre>
+<ol start="3">
+<li>Manipular datas:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> data = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+<span class="hljs-comment">// Adicionar 5 dias à data atual</span>
+data.<span class="hljs-title function_">setDate</span>(data.<span class="hljs-title function_">getDate</span>() + <span class="hljs-number">5</span>);
+<span class="hljs-comment">// Adicionar 2 horas à hora atual</span>
+data.<span class="hljs-title function_">setHours</span>(data.<span class="hljs-title function_">getHours</span>() + <span class="hljs-number">2</span>);
+<span class="hljs-comment">// Definir uma data específica</span>
+data.<span class="hljs-title function_">setFullYear</span>(<span class="hljs-number">2024</span>);
+data.<span class="hljs-title function_">setMonth</span>(<span class="hljs-number">3</span>); <span class="hljs-comment">// Abril (0 a 11)</span>
+data.<span class="hljs-title function_">setDate</span>(<span class="hljs-number">15</span>);
+data.<span class="hljs-title function_">setHours</span>(<span class="hljs-number">18</span>);
+data.<span class="hljs-title function_">setMinutes</span>(<span class="hljs-number">45</span>);
+data.<span class="hljs-title function_">setSeconds</span>(<span class="hljs-number">30</span>);
+data.<span class="hljs-title function_">setMilliseconds</span>(<span class="hljs-number">0</span>);
+</code></pre>
+<ol start="4">
+<li>Formatar datas:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> data = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+<span class="hljs-keyword">const</span> formatoPadrao = data.<span class="hljs-title function_">toString</span>(); <span class="hljs-comment">// Exemplo: &quot;Sat Aug 06 2023 15:30:00 GMT+0300 (Eastern European Summer Time)&quot;</span>
+<span class="hljs-comment">// Formatando data no formato &quot;dd/mm/yyyy&quot;</span>
+<span class="hljs-keyword">const</span> diaFormatado = data.<span class="hljs-title function_">getDate</span>().<span class="hljs-title function_">toString</span>().<span class="hljs-title function_">padStart</span>(<span class="hljs-number">2</span>, <span class="hljs-string">&#x27;0&#x27;</span>);
+<span class="hljs-keyword">const</span> mesFormatado = (data.<span class="hljs-title function_">getMonth</span>() + <span class="hljs-number">1</span>).<span class="hljs-title function_">toString</span>().<span class="hljs-title function_">padStart</span>(<span class="hljs-number">2</span>, <span class="hljs-string">&#x27;0&#x27;</span>); <span class="hljs-comment">// Adiciona 1 ao mês, pois janeiro é 0</span>
+<span class="hljs-keyword">const</span> anoFormatado = data.<span class="hljs-title function_">getFullYear</span>();
+<span class="hljs-keyword">const</span> dataFormatada = <span class="hljs-string">`<span class="hljs-subst">${diaFormatado}</span>/<span class="hljs-subst">${mesFormatado}</span>/<span class="hljs-subst">${anoFormatado}</span>`</span>;
+</code></pre>
+<h3 id="como-calcular-a-diferença-entre-datas-em-javascript">Como calcular a diferença entre datas em JavaScript</h3>
+<pre><code class="language-javascript"><span class="hljs-comment">// Função para calcular a diferença em dias entre duas datas</span>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">calcularDiferencaEmDias</span>(<span class="hljs-params">data1, data2</span>) {
+  <span class="hljs-comment">// Converter as datas para objetos do tipo Date</span>
+  <span class="hljs-keyword">const</span> dataInicial = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(data1);
+  <span class="hljs-keyword">const</span> dataFinal = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>(data2);
+  <span class="hljs-comment">// Calcular a diferença em milissegundos</span>
+  <span class="hljs-keyword">const</span> diferencaEmMilissegundos = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">abs</span>(dataFinal - dataInicial);
+  <span class="hljs-comment">// Calcular a diferença em dias</span>
+  <span class="hljs-keyword">const</span> umDiaEmMilissegundos = <span class="hljs-number">1000</span> * <span class="hljs-number">60</span> * <span class="hljs-number">60</span> * <span class="hljs-number">24</span>;
+  <span class="hljs-keyword">const</span> diferencaEmDias = <span class="hljs-title class_">Math</span>.<span class="hljs-title function_">floor</span>(diferencaEmMilissegundos / umDiaEmMilissegundos);
+  <span class="hljs-keyword">return</span> diferencaEmDias;
+}
+<span class="hljs-comment">// Exemplo de uso da função</span>
+<span class="hljs-keyword">const</span> dataInicial = <span class="hljs-string">&#x27;2023-01-01&#x27;</span>;
+<span class="hljs-keyword">const</span> dataFinal = <span class="hljs-string">&#x27;2023-08-06&#x27;</span>;
+<span class="hljs-keyword">const</span> diferencaEmDias = <span class="hljs-title function_">calcularDiferencaEmDias</span>(dataInicial, dataFinal);
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">`A diferença em dias entre as datas é: <span class="hljs-subst">${diferencaEmDias}</span>`</span>);
+</code></pre>
+<h3 id="formatação-de-datas-em-javascript">Formatação de Datas em JavaScript</h3>
+<ol>
+<li>Usando o objeto <code>Date</code> nativo:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-comment">// Criar uma data</span>
+<span class="hljs-keyword">const</span> data = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+<span class="hljs-comment">// Formato padrão: &quot;Sat Aug 06 2023 00:00:00 GMT+0000 (Coordinated Universal Time)&quot;</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(data.<span class="hljs-title function_">toString</span>());
+<span class="hljs-comment">// Formato ISO 8601: &quot;2023-08-06T00:00:00.000Z&quot;</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(data.<span class="hljs-title function_">toISOString</span>());
+<span class="hljs-comment">// Formato personalizado</span>
+<span class="hljs-keyword">const</span> dia = data.<span class="hljs-title function_">getDate</span>().<span class="hljs-title function_">toString</span>().<span class="hljs-title function_">padStart</span>(<span class="hljs-number">2</span>, <span class="hljs-string">&#x27;0&#x27;</span>);
+<span class="hljs-keyword">const</span> mes = (data.<span class="hljs-title function_">getMonth</span>() + <span class="hljs-number">1</span>).<span class="hljs-title function_">toString</span>().<span class="hljs-title function_">padStart</span>(<span class="hljs-number">2</span>, <span class="hljs-string">&#x27;0&#x27;</span>);
+<span class="hljs-keyword">const</span> ano = data.<span class="hljs-title function_">getFullYear</span>();
+<span class="hljs-keyword">const</span> hora = data.<span class="hljs-title function_">getHours</span>().<span class="hljs-title function_">toString</span>().<span class="hljs-title function_">padStart</span>(<span class="hljs-number">2</span>, <span class="hljs-string">&#x27;0&#x27;</span>);
+<span class="hljs-keyword">const</span> minuto = data.<span class="hljs-title function_">getMinutes</span>().<span class="hljs-title function_">toString</span>().<span class="hljs-title function_">padStart</span>(<span class="hljs-number">2</span>, <span class="hljs-string">&#x27;0&#x27;</span>);
+<span class="hljs-keyword">const</span> segundo = data.<span class="hljs-title function_">getSeconds</span>().<span class="hljs-title function_">toString</span>().<span class="hljs-title function_">padStart</span>(<span class="hljs-number">2</span>, <span class="hljs-string">&#x27;0&#x27;</span>);
+<span class="hljs-keyword">const</span> formatoPersonalizado = <span class="hljs-string">`<span class="hljs-subst">${dia}</span>/<span class="hljs-subst">${mes}</span>/<span class="hljs-subst">${ano}</span> <span class="hljs-subst">${hora}</span>:<span class="hljs-subst">${minuto}</span>:<span class="hljs-subst">${segundo}</span>`</span>;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(formatoPersonalizado); <span class="hljs-comment">// &quot;06/08/2023 00:00:00&quot;</span>
+</code></pre>
+<ol start="2">
+<li>Usando a biblioteca <code>moment.js</code> (é necessário instalar a biblioteca primeiro):</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-comment">// Importar a biblioteca moment.js</span>
+<span class="hljs-keyword">const</span> moment = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;moment&#x27;</span>);
+<span class="hljs-comment">// Criar uma data usando o moment.js</span>
+<span class="hljs-keyword">const</span> dataMoment = <span class="hljs-title function_">moment</span>();
+<span class="hljs-comment">// Formato padrão: &quot;2023-08-06T00:00:00.000Z&quot;</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(dataMoment.<span class="hljs-title function_">toISOString</span>());
+<span class="hljs-comment">// Formato personalizado</span>
+<span class="hljs-keyword">const</span> formatoPersonalizadoMoment = dataMoment.<span class="hljs-title function_">format</span>(<span class="hljs-string">&#x27;DD/MM/YYYY HH:mm:ss&#x27;</span>);
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(formatoPersonalizadoMoment); <span class="hljs-comment">// &quot;06/08/2023 00:00:00&quot;</span>
+</code></pre>
+<h2 id="manipulação-de-datas-em-java">Manipulação de Datas em Java</h2>
+<ol>
+<li>Criar uma data:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.time.LocalDate;
+<span class="hljs-keyword">import</span> java.time.LocalDateTime;
+<span class="hljs-comment">// Criar a data atual</span>
+<span class="hljs-type">LocalDate</span> <span class="hljs-variable">dataAtual</span> <span class="hljs-operator">=</span> LocalDate.now();
+<span class="hljs-comment">// Criar uma data específica</span>
+<span class="hljs-type">LocalDate</span> <span class="hljs-variable">dataEspecifica</span> <span class="hljs-operator">=</span> LocalDate.of(<span class="hljs-number">2023</span>, <span class="hljs-number">8</span>, <span class="hljs-number">6</span>); <span class="hljs-comment">// 6 de agosto de 2023</span>
+<span class="hljs-comment">// Criar uma data e hora específica</span>
+<span class="hljs-type">LocalDateTime</span> <span class="hljs-variable">dataHoraEspecifica</span> <span class="hljs-operator">=</span> LocalDateTime.of(<span class="hljs-number">2023</span>, <span class="hljs-number">8</span>, <span class="hljs-number">6</span>, <span class="hljs-number">12</span>, <span class="hljs-number">30</span>); <span class="hljs-comment">// 6 de agosto de 2023, 12:30</span>
+</code></pre>
+<ol start="2">
+<li>Obter informações da data:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.time.LocalDate;
+<span class="hljs-keyword">import</span> java.time.LocalDateTime;
+<span class="hljs-type">LocalDate</span> <span class="hljs-variable">data</span> <span class="hljs-operator">=</span> LocalDate.now();
+<span class="hljs-type">int</span> <span class="hljs-variable">ano</span> <span class="hljs-operator">=</span> data.getYear();
+<span class="hljs-type">int</span> <span class="hljs-variable">mes</span> <span class="hljs-operator">=</span> data.getMonthValue(); <span class="hljs-comment">// Janeiro é 1, fevereiro é 2, e assim por diante</span>
+<span class="hljs-type">int</span> <span class="hljs-variable">dia</span> <span class="hljs-operator">=</span> data.getDayOfMonth();
+<span class="hljs-type">LocalDateTime</span> <span class="hljs-variable">dataHora</span> <span class="hljs-operator">=</span> LocalDateTime.now();
+<span class="hljs-type">int</span> <span class="hljs-variable">hora</span> <span class="hljs-operator">=</span> dataHora.getHour();
+<span class="hljs-type">int</span> <span class="hljs-variable">minuto</span> <span class="hljs-operator">=</span> dataHora.getMinute();
+<span class="hljs-type">int</span> <span class="hljs-variable">segundo</span> <span class="hljs-operator">=</span> dataHora.getSecond();
+</code></pre>
+<ol start="3">
+<li>Manipular datas:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.time.LocalDate;
+<span class="hljs-type">LocalDate</span> <span class="hljs-variable">data</span> <span class="hljs-operator">=</span> LocalDate.now();
+<span class="hljs-comment">// Adicionar 5 dias à data atual</span>
+data = data.plusDays(<span class="hljs-number">5</span>);
+<span class="hljs-comment">// Adicionar 2 meses à data atual</span>
+data = data.plusMonths(<span class="hljs-number">2</span>);
+<span class="hljs-comment">// Definir uma data específica</span>
+data = LocalDate.of(<span class="hljs-number">2024</span>, <span class="hljs-number">4</span>, <span class="hljs-number">15</span>);
+</code></pre>
+<ol start="4">
+<li>Formatar datas:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.time.LocalDate;
+<span class="hljs-keyword">import</span> java.time.format.DateTimeFormatter;
+<span class="hljs-type">LocalDate</span> <span class="hljs-variable">data</span> <span class="hljs-operator">=</span> LocalDate.now();
+<span class="hljs-comment">// Formatando data no formato &quot;dd/MM/yyyy&quot;</span>
+<span class="hljs-type">DateTimeFormatter</span> <span class="hljs-variable">formato</span> <span class="hljs-operator">=</span> DateTimeFormatter.ofPattern(<span class="hljs-string">&quot;dd/MM/yyyy&quot;</span>);
+<span class="hljs-type">String</span> <span class="hljs-variable">dataFormatada</span> <span class="hljs-operator">=</span> data.format(formato);
+</code></pre>
+<h3 id="como-calcular-a-diferença-de-datas-em-java">Como calcular a diferença de datas em Java</h3>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.time.LocalDate;
+<span class="hljs-keyword">import</span> java.time.temporal.ChronoUnit;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">CalculadoraDiferencaDatas</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-comment">// Exemplo de datas</span>
+        <span class="hljs-type">String</span> <span class="hljs-variable">dataInicialStr</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;2023-01-01&quot;</span>;
+        <span class="hljs-type">String</span> <span class="hljs-variable">dataFinalStr</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;2023-08-06&quot;</span>;
+        <span class="hljs-comment">// Converter as strings para objetos LocalDate</span>
+        <span class="hljs-type">LocalDate</span> <span class="hljs-variable">dataInicial</span> <span class="hljs-operator">=</span> LocalDate.parse(dataInicialStr);
+        <span class="hljs-type">LocalDate</span> <span class="hljs-variable">dataFinal</span> <span class="hljs-operator">=</span> LocalDate.parse(dataFinalStr);
+        <span class="hljs-comment">// Calcular a diferença em dias</span>
+        <span class="hljs-type">long</span> <span class="hljs-variable">diferencaEmDias</span> <span class="hljs-operator">=</span> ChronoUnit.DAYS.between(dataInicial, dataFinal);
+        System.out.println(<span class="hljs-string">&quot;A diferença em dias entre as datas é: &quot;</span> + diferencaEmDias);
+    }
+}
+</code></pre>
+<h3 id="classe-instant-em-java">Classe Instant em Java</h3>
+<p>A classe <code>Instant</code> faz parte do pacote <code>java.time</code> introduzido no Java 8 para lidar com manipulação de datas e horas. A classe <code>Instant</code> representa um ponto específico no tempo, sendo uma das formas mais simples e úteis de representar um instante na linha do tempo.</p>
+<p>Principais características da classe <code>Instant</code>:</p>
+<ol>
+<li>
+<p>Representação de tempo absoluto: O <code>Instant</code> representa um momento específico no tempo, sem considerar qualquer data ou fuso horário. É uma representação de tempo absoluto desde o Epoch Unix (1º de janeiro de 1970 às 00:00:00 UTC).</p>
+</li>
+<li>
+<p>Precisão: A classe <code>Instant</code> armazena o tempo com precisão de nanossegundos.</p>
+</li>
+<li>
+<p>Imutabilidade: Assim como outras classes de data e hora do pacote <code>java.time</code>, <code>Instant</code> é imutável, ou seja, uma vez criado, não é possível alterar o valor de um objeto <code>Instant</code>.</p>
+</li>
+<li>
+<p>Convergência de máquinas: O <code>Instant</code> é independente de fuso horário e não é afetado por alterações de fuso horário ou por outras configurações do sistema. Isso o torna especialmente útil para registros de data e hora em sistemas distribuídos.</p>
+</li>
+</ol>
+<p>Exemplo de uso da classe <code>Instant</code>:</p>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.time.Instant;
+
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">ExemploInstant</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-comment">// Criar um Instant representando o momento atual</span>
+        <span class="hljs-type">Instant</span> <span class="hljs-variable">instantAtual</span> <span class="hljs-operator">=</span> Instant.now();
+        System.out.println(<span class="hljs-string">&quot;Instant atual: &quot;</span> + instantAtual);
+
+        <span class="hljs-comment">// Criar um Instant a partir de um timestamp em segundos e nanossegundos</span>
+        <span class="hljs-type">Instant</span> <span class="hljs-variable">instantCustomizado</span> <span class="hljs-operator">=</span> Instant.ofEpochSecond(<span class="hljs-number">1679876543</span>, <span class="hljs-number">987654321</span>);
+        System.out.println(<span class="hljs-string">&quot;Instant customizado: &quot;</span> + instantCustomizado);
+
+        <span class="hljs-comment">// Obter o número de segundos desde o Epoch Unix</span>
+        <span class="hljs-type">long</span> <span class="hljs-variable">segundosDesdeEpoch</span> <span class="hljs-operator">=</span> instantCustomizado.getEpochSecond();
+        System.out.println(<span class="hljs-string">&quot;Segundos desde o Epoch Unix: &quot;</span> + segundosDesdeEpoch);
+
+        <span class="hljs-comment">// Obter os nanossegundos dentro do segundo</span>
+        <span class="hljs-type">int</span> <span class="hljs-variable">nanossegundos</span> <span class="hljs-operator">=</span> instantCustomizado.getNano();
+        System.out.println(<span class="hljs-string">&quot;Nanossegundos: &quot;</span> + nanossegundos);
+    }
+}
+</code></pre>
+<p>Neste exemplo, criamos objetos <code>Instant</code> representando o momento atual com <code>Instant.now()</code> e um instante personalizado usando <code>Instant.ofEpochSecond()</code>. Podemos obter o número de segundos desde o Epoch Unix e os nanossegundos dentro do segundo usando os métodos <code>getEpochSecond()</code> e <code>getNano()</code>, respectivamente.</p>
+<p>A classe <code>Instant</code> é muito útil para registrar timestamps em aplicativos, cálculos de duração entre dois instantes, e para comunicação de datas e horas em ambientes distribuídos.</p>
+<h3 id="formatação-de-datas-em-java">Formatação de Datas em Java</h3>
+<ol>
+<li>Utilizando <code>SimpleDateFormat</code> (antes do Java 8):</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.text.SimpleDateFormat;
+<span class="hljs-keyword">import</span> java.util.Date;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">ExemploFormatacaoData</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">Date</span> <span class="hljs-variable">data</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+        <span class="hljs-comment">// Formato padrão: &quot;yyyy-MM-dd HH:mm:ss&quot;</span>
+        <span class="hljs-type">SimpleDateFormat</span> <span class="hljs-variable">sdfPadrao</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">SimpleDateFormat</span>(<span class="hljs-string">&quot;yyyy-MM-dd HH:mm:ss&quot;</span>);
+        <span class="hljs-type">String</span> <span class="hljs-variable">dataFormatadaPadrao</span> <span class="hljs-operator">=</span> sdfPadrao.format(data);
+        System.out.println(dataFormatadaPadrao); <span class="hljs-comment">// &quot;2023-08-06 12:34:56&quot;</span>
+        <span class="hljs-comment">// Outros formatos</span>
+        <span class="hljs-type">SimpleDateFormat</span> <span class="hljs-variable">sdfOutroFormato</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">SimpleDateFormat</span>(<span class="hljs-string">&quot;dd/MM/yyyy&quot;</span>);
+        <span class="hljs-type">String</span> <span class="hljs-variable">dataFormatadaOutroFormato</span> <span class="hljs-operator">=</span> sdfOutroFormato.format(data);
+        System.out.println(dataFormatadaOutroFormato); <span class="hljs-comment">// &quot;06/08/2023&quot;</span>
+        <span class="hljs-type">SimpleDateFormat</span> <span class="hljs-variable">sdfHora</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">SimpleDateFormat</span>(<span class="hljs-string">&quot;HH:mm:ss&quot;</span>);
+        <span class="hljs-type">String</span> <span class="hljs-variable">horaFormatada</span> <span class="hljs-operator">=</span> sdfHora.format(data);
+        System.out.println(horaFormatada); <span class="hljs-comment">// &quot;12:34:56&quot;</span>
+    }
+}
+</code></pre>
+<ol start="2">
+<li>Utilizando <code>DateTimeFormatter</code> (a partir do Java 8):</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.time.LocalDateTime;
+<span class="hljs-keyword">import</span> java.time.format.DateTimeFormatter;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">ExemploFormatacaoData</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">LocalDateTime</span> <span class="hljs-variable">dataHora</span> <span class="hljs-operator">=</span> LocalDateTime.now();
+        <span class="hljs-comment">// Formato padrão: &quot;yyyy-MM-dd HH:mm:ss&quot;</span>
+        <span class="hljs-type">DateTimeFormatter</span> <span class="hljs-variable">dtfPadrao</span> <span class="hljs-operator">=</span> DateTimeFormatter.ofPattern(<span class="hljs-string">&quot;yyyy-MM-dd HH:mm:ss&quot;</span>);
+        <span class="hljs-type">String</span> <span class="hljs-variable">dataHoraFormatadaPadrao</span> <span class="hljs-operator">=</span> dataHora.format(dtfPadrao);
+        System.out.println(dataHoraFormatadaPadrao); <span class="hljs-comment">// &quot;2023-08-06 12:34:56&quot;</span>
+        <span class="hljs-comment">// Outros formatos</span>
+        <span class="hljs-type">DateTimeFormatter</span> <span class="hljs-variable">dtfOutroFormato</span> <span class="hljs-operator">=</span> DateTimeFormatter.ofPattern(<span class="hljs-string">&quot;dd/MM/yyyy&quot;</span>);
+        <span class="hljs-type">String</span> <span class="hljs-variable">dataFormatadaOutroFormato</span> <span class="hljs-operator">=</span> dataHora.format(dtfOutroFormato);
+        System.out.println(dataFormatadaOutroFormato); <span class="hljs-comment">// &quot;06/08/2023&quot;</span>
+        <span class="hljs-type">DateTimeFormatter</span> <span class="hljs-variable">dtfHora</span> <span class="hljs-operator">=</span> DateTimeFormatter.ofPattern(<span class="hljs-string">&quot;HH:mm:ss&quot;</span>);
+        <span class="hljs-type">String</span> <span class="hljs-variable">horaFormatada</span> <span class="hljs-operator">=</span> dataHora.format(dtfHora);
+        System.out.println(horaFormatada); <span class="hljs-comment">// &quot;12:34:56&quot;</span>
+    }
+}
+</code></pre>
+<h3 id="padrões-de-formatação-de-datas-em-java">Padrões de Formatação de Datas em Java</h3>
+<p>Padrões para <code>SimpleDateFormat</code> (antes do Java 8):</p>
+<ul>
+<li><code>'yyyy'</code>: Ano com 4 dígitos.</li>
+<li><code>'yy'</code>: Ano com 2 dígitos.</li>
+<li><code>'MM'</code>: Mês com 2 dígitos (ex: &quot;08&quot; para agosto).</li>
+<li><code>'MMM'</code>: Abreviação do nome do mês (ex: &quot;Aug&quot; para agosto).</li>
+<li><code>'MMMM'</code>: Nome completo do mês (ex: &quot;August&quot; para agosto).</li>
+<li><code>'dd'</code>: Dia do mês com 2 dígitos (ex: &quot;06&quot; para o sexto dia).</li>
+<li><code>'HH'</code>: Hora do dia (formato de 24 horas) com 2 dígitos.</li>
+<li><code>'hh'</code>: Hora do dia (formato de 12 horas) com 2 dígitos.</li>
+<li><code>'mm'</code>: Minutos com 2 dígitos.</li>
+<li><code>'ss'</code>: Segundos com 2 dígitos.</li>
+<li><code>'SSS'</code>: Milissegundos com 3 dígitos.</li>
+<li><code>'a'</code>: AM/PM (usado em conjunto com <code>'hh'</code> para formatar a hora no formato de 12 horas).</li>
+<li><code>'EEE'</code>: Abreviação do dia da semana (ex: &quot;Sat&quot; para sábado).</li>
+<li><code>'EEEE'</code>: Nome completo do dia da semana (ex: &quot;Saturday&quot; para sábado).</li>
+<li><code>'Z'</code>: Offset do fuso horário em relação ao UTC (ex: &quot;+0800&quot; para fuso horário de 8 horas à frente do UTC).</li>
+</ul>
+<p>Padrões para <code>DateTimeFormatter</code> (a partir do Java 8):
+Os padrões para <code>DateTimeFormatter</code> são muito semelhantes aos padrões do <code>SimpleDateFormat</code>, mas com algumas diferenças:</p>
+<ul>
+<li><code>'y'</code>: Ano com o número mínimo de dígitos necessários.</li>
+<li><code>'M'</code>: Mês sem zeros à esquerda (ex: &quot;8&quot; para agosto).</li>
+<li><code>'d'</code>: Dia do mês sem zeros à esquerda (ex: &quot;6&quot; para o sexto dia).</li>
+<li><code>'H'</code>: Hora do dia (formato de 24 horas) sem zeros à esquerda.</li>
+<li><code>'h'</code>: Hora do dia (formato de 12 horas) sem zeros à esquerda.</li>
+<li><code>'m'</code>: Minutos sem zeros à esquerda.</li>
+<li><code>'s'</code>: Segundos sem zeros à esquerda.</li>
+<li><code>'S'</code>: Frações de segundos sem zeros à esquerda.</li>
+<li><code>'a'</code>: AM/PM (usado em conjunto com <code>'h'</code> para formatar a hora no formato de 12 horas).</li>
+<li><code>'E'</code>: Nome curto do dia da semana (ex: &quot;Sat&quot; para sábado).</li>
+<li><code>'EEEE'</code>: Nome completo do dia da semana (ex: &quot;Saturday&quot; para sábado).</li>
+<li><code>'Z'</code>: Offset do fuso horário em relação ao UTC (ex: &quot;+0800&quot; para fuso horário de 8 horas à frente do UTC).</li>
+</ul>
+<h2 id="manipulação-de-datas-em-python">Manipulação de Datas em Python</h2>
+<ol>
+<li>Importar o módulo <code>datetime</code>:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> datetime
+</code></pre>
+<ol start="2">
+<li>Obter a data e hora atual:</li>
+</ol>
+<pre><code class="language-python">data_hora_atual = datetime.datetime.now()
+<span class="hljs-built_in">print</span>(data_hora_atual)  <span class="hljs-comment"># Exemplo de saída: 2023-08-06 12:30:00.123456</span>
+</code></pre>
+<ol start="3">
+<li>Obter informações da data e hora atual:</li>
+</ol>
+<pre><code class="language-python">ano_atual = data_hora_atual.year
+mes_atual = data_hora_atual.month
+dia_atual = data_hora_atual.day
+hora_atual = data_hora_atual.hour
+minuto_atual = data_hora_atual.minute
+segundo_atual = data_hora_atual.second
+microsegundo_atual = data_hora_atual.microsecond
+</code></pre>
+<ol start="4">
+<li>Criar uma data específica:</li>
+</ol>
+<pre><code class="language-python">data_especifica = datetime.datetime(<span class="hljs-number">2023</span>, <span class="hljs-number">8</span>, <span class="hljs-number">6</span>, <span class="hljs-number">12</span>, <span class="hljs-number">30</span>, <span class="hljs-number">0</span>)
+<span class="hljs-built_in">print</span>(data_especifica)  <span class="hljs-comment"># Exemplo de saída: 2023-08-06 12:30:00</span>
+</code></pre>
+<ol start="5">
+<li>Manipular datas:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-comment"># Adicionar 5 dias à data atual</span>
+nova_data = data_hora_atual + datetime.timedelta(days=<span class="hljs-number">5</span>)
+<span class="hljs-comment"># Adicionar 2 horas à hora atual</span>
+novo_horario = data_hora_atual + datetime.timedelta(hours=<span class="hljs-number">2</span>)
+<span class="hljs-comment"># Definir uma data específica</span>
+outra_data = datetime.datetime(<span class="hljs-number">2024</span>, <span class="hljs-number">4</span>, <span class="hljs-number">15</span>)
+</code></pre>
+<ol start="6">
+<li>Formatar datas:</li>
+</ol>
+<pre><code class="language-python">data_formatada = data_hora_atual.strftime(<span class="hljs-string">&quot;%d/%m/%Y %H:%M:%S&quot;</span>)
+<span class="hljs-built_in">print</span>(data_formatada)  <span class="hljs-comment"># Exemplo de saída: &quot;06/08/2023 12:30:00&quot;</span>
+</code></pre>
+<h3 id="como-calcular-a-diferença-de-datas-em-python">Como calcular a diferença de datas em Python</h3>
+<p>Em Python, você pode calcular a diferença entre duas datas utilizando a biblioteca padrão <code>datetime</code>. Para isso, você pode criar objetos <code>datetime</code> para cada data e, em seguida, calcular a diferença entre eles. Vamos ver um exemplo de como fazer isso:</p>
+<pre><code class="language-python"><span class="hljs-keyword">from</span> datetime <span class="hljs-keyword">import</span> datetime
+
+<span class="hljs-comment"># Função para calcular a diferença em dias entre duas datas</span>
+<span class="hljs-keyword">def</span> <span class="hljs-title function_">calcular_diferenca_em_dias</span>(<span class="hljs-params">data_inicial, data_final</span>):
+    <span class="hljs-comment"># Converter as strings para objetos datetime</span>
+    data_inicial = datetime.strptime(data_inicial, <span class="hljs-string">&#x27;%Y-%m-%d&#x27;</span>)
+    data_final = datetime.strptime(data_final, <span class="hljs-string">&#x27;%Y-%m-%d&#x27;</span>)
+
+    <span class="hljs-comment"># Calcular a diferença em dias</span>
+    diferenca = data_final - data_inicial
+
+    <span class="hljs-comment"># Acessar o atributo &#x27;days&#x27; da diferença para obter o número de dias</span>
+    diferenca_em_dias = diferenca.days
+
+    <span class="hljs-keyword">return</span> diferenca_em_dias
+
+<span class="hljs-comment"># Exemplo de uso da função</span>
+data_inicial_str = <span class="hljs-string">&#x27;2023-01-01&#x27;</span>
+data_final_str = <span class="hljs-string">&#x27;2023-08-06&#x27;</span>
+
+diferenca_em_dias = calcular_diferenca_em_dias(data_inicial_str, data_final_str)
+<span class="hljs-built_in">print</span>(<span class="hljs-string">f&quot;A diferença em dias entre as datas é: <span class="hljs-subst">{diferenca_em_dias}</span>&quot;</span>)
+</code></pre>
+<p>Neste exemplo, utilizamos a função <code>datetime.strptime()</code> para converter as strings de datas em objetos <code>datetime</code>, fornecendo o formato <code>'%Y-%m-%d'</code>, que corresponde a &quot;ano-mês-dia&quot;. Em seguida, calculamos a diferença entre as duas datas subtraindo <code>data_inicial</code> de <code>data_final</code>. O resultado será um objeto <code>timedelta</code>, que representa a diferença entre duas datas. Para obter o número de dias, acessamos o atributo <code>days</code> do objeto <code>timedelta</code>.</p>
+<p>Essa é uma maneira simples e eficaz de calcular a diferença entre duas datas em dias usando Python e a biblioteca <code>datetime</code>. Se você precisar calcular a diferença com mais precisão, também pode trabalhar com outras unidades de tempo, como horas, minutos ou segundos, a partir do objeto <code>timedelta</code>.</p>
+<h3 id="formatação-de-datas-com-python">Formatação de Datas com Python</h3>
+<p>Em Python, a formatação de datas é realizada principalmente usando a classe <code>datetime</code> do módulo <code>datetime</code>. A classe <code>datetime</code> permite que você trabalhe com datas, horários e intervalos de tempo. Para formatar datas em Python, você precisa seguir os seguintes passos:</p>
+<ol>
+<li>Importar o módulo <code>datetime</code>.</li>
+<li>Criar um objeto <code>datetime</code> com a data que você deseja formatar.</li>
+<li>Utilizar o método <code>strftime()</code> (string format time) para aplicar a formatação desejada.</li>
+</ol>
+<p>Aqui está um exemplo de como você pode formatar uma data em Python:</p>
+<pre><code class="language-python"><span class="hljs-keyword">from</span> datetime <span class="hljs-keyword">import</span> datetime
+
+<span class="hljs-comment"># Exemplo de data para formatar</span>
+data_para_formatar = datetime(<span class="hljs-number">2023</span>, <span class="hljs-number">8</span>, <span class="hljs-number">6</span>)
+
+<span class="hljs-comment"># Formatação da data para o formato &#x27;dd/mm/aaaa&#x27;</span>
+data_formatada = data_para_formatar.strftime(<span class="hljs-string">&#x27;%d/%m/%Y&#x27;</span>)
+<span class="hljs-built_in">print</span>(data_formatada)  <span class="hljs-comment"># Saída: &#x27;06/08/2023&#x27;</span>
+
+<span class="hljs-comment"># Formatação da data para o formato &#x27;dia da semana, dd de mês por extenso de aaaa&#x27;</span>
+data_formatada_extenso = data_para_formatar.strftime(<span class="hljs-string">&#x27;%A, %d de %B de %Y&#x27;</span>)
+<span class="hljs-built_in">print</span>(data_formatada_extenso)  <span class="hljs-comment"># Saída: &#x27;Sunday, 06 de August de 2023&#x27;</span>
+</code></pre>
+<p>Aqui estão alguns dos formatos de formatação de data mais comuns:</p>
+<ul>
+<li><code>%Y</code>: Ano com quatro dígitos (ex: 2023).</li>
+<li><code>%y</code>: Ano com dois dígitos (ex: 23).</li>
+<li><code>%m</code>: Mês com dois dígitos (ex: 08).</li>
+<li><code>%B</code>: Nome completo do mês (ex: August).</li>
+<li><code>%b</code>: Nome abreviado do mês (ex: Aug).</li>
+<li><code>%d</code>: Dia do mês com dois dígitos (ex: 06).</li>
+<li><code>%A</code>: Nome completo do dia da semana (ex: Sunday).</li>
+<li><code>%a</code>: Nome abreviado do dia da semana (ex: Sun).</li>
+</ul>
+<p>Você pode combinar esses formatos como desejar para obter a formatação desejada. Lembre-se de que a classe <code>datetime</code> oferece muitas outras funcionalidades para manipulação de datas e horários, como cálculos de diferenças entre datas, manipulação de fusos horários e muito mais.</p>
+<h3 id="padrões-de-formatação-de-datas-em-python">Padrões de Formatação de Datas em Python</h3>
+<p>Em Python, a formatação de datas é realizada utilizando diretivas de formatação, que são representadas por caracteres especiais precedidos do símbolo de porcentagem (%). Essas diretivas são usadas no método <code>strftime()</code> da classe <code>datetime</code> para definir o padrão de formatação que você deseja aplicar à data.</p>
+<p>Aqui estão algumas das diretivas mais comuns utilizadas para formatar datas em Python:</p>
+<ul>
+<li><code>%Y</code>: Ano com quatro dígitos (ex: 2023).</li>
+<li><code>%y</code>: Ano com dois dígitos (ex: 23).</li>
+<li><code>%m</code>: Mês com dois dígitos (ex: 08).</li>
+<li><code>%B</code>: Nome completo do mês (ex: August).</li>
+<li><code>%b</code>: Nome abreviado do mês (ex: Aug).</li>
+<li><code>%d</code>: Dia do mês com dois dígitos (ex: 06).</li>
+<li><code>%A</code>: Nome completo do dia da semana (ex: Sunday).</li>
+<li><code>%a</code>: Nome abreviado do dia da semana (ex: Sun).</li>
+<li><code>%H</code>: Hora (00 a 23).</li>
+<li><code>%I</code>: Hora (01 a 12).</li>
+<li><code>%M</code>: Minuto (00 a 59).</li>
+<li><code>%S</code>: Segundo (00 a 59).</li>
+<li><code>%p</code>: AM ou PM.</li>
+<li><code>%f</code>: Microssegundos (até seis dígitos).</li>
+<li><code>%j</code>: Dia do ano (001 a 366).</li>
+<li><code>%U</code>: Semana do ano, onde domingo é o primeiro dia da semana (00 a 53).</li>
+<li><code>%W</code>: Semana do ano, onde segunda-feira é o primeiro dia da semana (00 a 53).</li>
+<li><code>%w</code>: Dia da semana como um número decimal (0 a 6, onde 0 é domingo).</li>
+<li><code>%z</code>: Deslocamento do fuso horário UTC (+HHMM ou -HHMM).</li>
+<li><code>%Z</code>: Nome do fuso horário (ex: UTC, EST, PST).</li>
+</ul>
+<p>Você pode combinar várias diretivas para criar o formato desejado. Por exemplo:</p>
+<pre><code class="language-python"><span class="hljs-keyword">from</span> datetime <span class="hljs-keyword">import</span> datetime
+
+data_para_formatar = datetime(<span class="hljs-number">2023</span>, <span class="hljs-number">8</span>, <span class="hljs-number">6</span>, <span class="hljs-number">15</span>, <span class="hljs-number">30</span>, <span class="hljs-number">45</span>)
+
+<span class="hljs-comment"># Formatação da data para o formato &#x27;dd/mm/aaaa HH:MM:SS&#x27;</span>
+data_formatada = data_para_formatar.strftime(<span class="hljs-string">&#x27;%d/%m/%Y %H:%M:%S&#x27;</span>)
+<span class="hljs-built_in">print</span>(data_formatada)  <span class="hljs-comment"># Saída: &#x27;06/08/2023 15:30:45&#x27;</span>
+
+<span class="hljs-comment"># Formatação da data para o formato &#x27;AAAA-MM-DD&#x27;</span>
+data_formatada_2 = data_para_formatar.strftime(<span class="hljs-string">&#x27;%Y-%m-%d&#x27;</span>)
+<span class="hljs-built_in">print</span>(data_formatada_2)  <span class="hljs-comment"># Saída: &#x27;2023-08-06&#x27;</span>
+</code></pre>
+<p>Esses são apenas alguns exemplos das possibilidades de formatação de datas em Python. As diretivas de formatação podem ser usadas de várias maneiras para atender às suas necessidades específicas. Lembre-se de consultar a documentação oficial do Python para obter mais informações sobre formatação de datas com <code>strftime()</code>.</p>
+
+        <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+        
+    </body>
+    </html>

@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>DataBase</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="database">DataBase</h1>
+<ul>
+<li><a href="#database">DataBase</a>
+<ul>
+<li><a href="#resumo">Resumo</a>
+<ul>
+<li><a href="#resumo-em-java">Resumo em Java</a>
+<ul>
+<li><a href="#resumo-sqlite-em-java">Resumo SQLite em Java</a></li>
+<li><a href="#resumo-mysql-em-java">Resumo MySQL em Java</a></li>
+<li><a href="#resumo-postgresql-em-java">Resumo PostgreSQL em Java</a></li>
+<li><a href="#resumo-sql-server-em-java">Resumo SQL Server em Java</a></li>
+<li><a href="#resumo-oracle-em-java">Resumo Oracle em Java</a></li>
+</ul>
+</li>
+<li><a href="#resumo-em-python">Resumo em Python</a>
+<ul>
+<li><a href="#resumo-sqlite-em-python">Resumo SQLite em Python</a></li>
+<li><a href="#resumo-mysql-em-python">Resumo MySQL em Python</a></li>
+<li><a href="#resumo-postgresql-em-python">Resumo PostgreSQL em Python</a></li>
+<li><a href="#resumo-sql-server-em-python">Resumo SQL Server em Python</a></li>
+<li><a href="#resumo-oracle-em-python">Resumo Oracle em Python</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#jdbc-em-java">JDBC em Java</a>
+<ul>
+<li><a href="#sqlite-em-java">SQLite em Java</a></li>
+<li><a href="#mysql-em-java">MySQL em Java</a></li>
+<li><a href="#postgresql-em-java">PostgreSQL em Java</a></li>
+<li><a href="#sql-server-em-java">SQL Server em Java</a></li>
+<li><a href="#oracle-em-java">Oracle em Java</a></li>
+<li><a href="#opera%C3%A7%C3%B5es-de-sql-com-o-jdbc">Operações de SQL com o JDBC</a></li>
+<li><a href="#opera%C3%A7%C3%B5es-de-sql-com-o-jdbc-usando-o-preparestatement">Operações de SQL com o JDBC usando o PrepareStatement</a></li>
+</ul>
+</li>
+<li><a href="#banco-de-dados-em-python">Banco de Dados em Python</a>
+<ul>
+<li><a href="#sqlite-em-python">SQLite em Python</a></li>
+<li><a href="#mysql-em-python">MySQL em Python</a></li>
+<li><a href="#postgresql-em-python">PostgreSQL em Python</a></li>
+<li><a href="#sql-server-em-python">SQL Server em Python</a></li>
+<li><a href="#oracle-em-python">Oracle em Python</a></li>
+</ul>
+</li>
+<li><a href="#banco-de-dados-em-javascript">Banco de Dados em JavaScript</a>
+<ul>
+<li><a href="#sqlite-em-javascript">SQLite em JavaScript</a></li>
+<li><a href="#mysql-em-javascript">MySQL em JavaScript</a></li>
+<li><a href="#postgresql-em-javascript">PostgreSQL em JavaScript</a></li>
+<li><a href="#sql-server-em-javascript">SQL Server em JavaScript</a></li>
+<li><a href="#oracle-em-javascript">Oracle em JavaScript</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="resumo">Resumo</h2>
+<h3 id="resumo-em-java">Resumo em Java</h3>
+<h4 id="resumo-sqlite-em-java">Resumo SQLite em Java</h4>
+<pre><code class="language-java">Class.forName(<span class="hljs-string">&quot;org.sqlite.JDBC&quot;</span>);
+connection = DriverManager.getConnection(<span class="hljs-string">&quot;jdbc:sqlite:/caminho/para/seu/banco.db&quot;</span>);
+</code></pre>
+<h4 id="resumo-mysql-em-java">Resumo MySQL em Java</h4>
+<pre><code class="language-java">Class.forName(<span class="hljs-string">&quot;com.mysql.cj.jdbc.Driver&quot;</span>);
+connection = DriverManager.getConnection(<span class="hljs-string">&quot;jdbc:mysql://localhost:3306/seu_banco_de_dados&quot;</span>, user, pass);
+</code></pre>
+<h4 id="resumo-postgresql-em-java">Resumo PostgreSQL em Java</h4>
+<pre><code class="language-java">Class.forName(<span class="hljs-string">&quot;org.postgresql.Driver&quot;</span>);
+connection = DriverManager.getConnection(<span class="hljs-string">&quot;jdbc:postgresql://localhost:5432/seu_banco_de_dados&quot;</span>, user, pass);
+</code></pre>
+<h4 id="resumo-sql-server-em-java">Resumo SQL Server em Java</h4>
+<pre><code class="language-java">Class.forName(<span class="hljs-string">&quot;com.microsoft.sqlserver.jdbc.SQLServerDriver&quot;</span>);
+connection = DriverManager.getConnection(<span class="hljs-string">&quot;jdbc:sqlserver://localhost:1433;databaseName=seu_banco_de_dados&quot;</span>, user, pass);
+</code></pre>
+<h4 id="resumo-oracle-em-java">Resumo Oracle em Java</h4>
+<pre><code class="language-java">Class.forName(<span class="hljs-string">&quot;oracle.jdbc.driver.OracleDriver&quot;</span>);
+connection = DriverManager.getConnection(<span class="hljs-string">&quot;jdbc:oracle:thin:@localhost:1521:seu_sid&quot;</span>, user, pass);
+</code></pre>
+<h3 id="resumo-em-python">Resumo em Python</h3>
+<h4 id="resumo-sqlite-em-python">Resumo SQLite em Python</h4>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> sqlite3
+conn = sqlite3.connect(<span class="hljs-string">&#x27;/caminho/para/seu/banco.db&#x27;</span>)
+cursor.execute(<span class="hljs-string">&quot;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (?, ?)&quot;</span>, (valor1, valor2))
+</code></pre>
+<h4 id="resumo-mysql-em-python">Resumo MySQL em Python</h4>
+<p><code>pip install mysql-connector-python</code></p>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> mysql.connector
+conn = mysql.connector.connect(
+    host=<span class="hljs-string">&#x27;localhost&#x27;</span>,
+    port=<span class="hljs-number">3306</span>,
+    user=<span class="hljs-string">&#x27;seu_usuario&#x27;</span>,
+    password=<span class="hljs-string">&#x27;sua_senha&#x27;</span>,
+    database=<span class="hljs-string">&#x27;seu_banco_de_dados&#x27;</span>
+)
+cursor.execute(<span class="hljs-string">&quot;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (%s, %s)&quot;</span>, (valor1, valor2))
+</code></pre>
+<h4 id="resumo-postgresql-em-python">Resumo PostgreSQL em Python</h4>
+<p><code>pip install psycopg2</code></p>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> psycopg2
+conn = psycopg2.connect(
+    host=<span class="hljs-string">&#x27;localhost&#x27;</span>,
+    port=<span class="hljs-number">5432</span>,
+    user=<span class="hljs-string">&#x27;seu_usuario&#x27;</span>,
+    password=<span class="hljs-string">&#x27;sua_senha&#x27;</span>,
+    database=<span class="hljs-string">&#x27;seu_banco_de_dados&#x27;</span>
+)
+cursor.execute(<span class="hljs-string">&quot;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (%s, %s)&quot;</span>, (valor1, valor2))
+</code></pre>
+<h4 id="resumo-sql-server-em-python">Resumo SQL Server em Python</h4>
+<p><code>pip install pyodbc</code></p>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> pyodbc
+conn = pyodbc.connect(
+    <span class="hljs-string">&#x27;DRIVER={ODBC Driver 17 for SQL Server};SERVER=localhost;DATABASE=seu_banco_de_dados;UID=seu_usuario;PWD=sua_senha&#x27;</span>
+)
+cursor.execute(<span class="hljs-string">&quot;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (?, ?)&quot;</span>, (valor1, valor2))
+</code></pre>
+<h4 id="resumo-oracle-em-python">Resumo Oracle em Python</h4>
+<p><code>pip install cx_Oracle</code></p>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> cx_Oracle
+conn = cx_Oracle.connect(<span class="hljs-string">&#x27;seu_usuario/sua_senha@localhost:1521/seu_sid&#x27;</span>)
+cursor.execute(<span class="hljs-string">&quot;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (:val1, :val2)&quot;</span>, val1=valor1, val2=valor2)
+</code></pre>
+<h2 id="jdbc-em-java">JDBC em Java</h2>
+<h3 id="sqlite-em-java">SQLite em Java</h3>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.sql.Connection;
+<span class="hljs-keyword">import</span> java.sql.DriverManager;
+<span class="hljs-keyword">import</span> java.sql.SQLException;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">SQLiteConnection</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">Connection</span> <span class="hljs-variable">connection</span> <span class="hljs-operator">=</span> <span class="hljs-literal">null</span>;
+        <span class="hljs-keyword">try</span> {
+            <span class="hljs-comment">// Carregar o driver JDBC do SQLite</span>
+            Class.forName(<span class="hljs-string">&quot;org.sqlite.JDBC&quot;</span>);
+            <span class="hljs-comment">// Estabelecer a conexão com o banco de dados SQLite</span>
+            connection = DriverManager.getConnection(<span class="hljs-string">&quot;jdbc:sqlite:/caminho/para/seu/banco.db&quot;</span>);
+            System.out.println(<span class="hljs-string">&quot;Conexão com o banco de dados SQLite estabelecida.&quot;</span>);
+        } <span class="hljs-keyword">catch</span> (ClassNotFoundException | SQLException e) {
+            e.printStackTrace();
+        } <span class="hljs-keyword">finally</span> {
+            <span class="hljs-keyword">try</span> {
+                <span class="hljs-keyword">if</span> (connection != <span class="hljs-literal">null</span>) {
+                    connection.close();
+                }
+            } <span class="hljs-keyword">catch</span> (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
+</code></pre>
+<h3 id="mysql-em-java">MySQL em Java</h3>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.sql.Connection;
+<span class="hljs-keyword">import</span> java.sql.DriverManager;
+<span class="hljs-keyword">import</span> java.sql.SQLException;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">MySQLConnection</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">Connection</span> <span class="hljs-variable">connection</span> <span class="hljs-operator">=</span> <span class="hljs-literal">null</span>;
+        <span class="hljs-keyword">try</span> {
+            <span class="hljs-comment">// Carregar o driver JDBC do MySQL</span>
+            Class.forName(<span class="hljs-string">&quot;com.mysql.cj.jdbc.Driver&quot;</span>);
+            <span class="hljs-comment">// Estabelecer a conexão com o banco de dados MySQL</span>
+            <span class="hljs-type">String</span> <span class="hljs-variable">url</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;jdbc:mysql://localhost:3306/seu_banco_de_dados&quot;</span>;
+            <span class="hljs-type">String</span> <span class="hljs-variable">user</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;seu_usuario&quot;</span>;
+            <span class="hljs-type">String</span> <span class="hljs-variable">password</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;sua_senha&quot;</span>;
+            connection = DriverManager.getConnection(url, user, password);
+            System.out.println(<span class="hljs-string">&quot;Conexão com o banco de dados MySQL estabelecida.&quot;</span>);
+        } <span class="hljs-keyword">catch</span> (ClassNotFoundException | SQLException e) {
+            e.printStackTrace();
+        } <span class="hljs-keyword">finally</span> {
+            <span class="hljs-keyword">try</span> {
+                <span class="hljs-keyword">if</span> (connection != <span class="hljs-literal">null</span>) {
+                    connection.close();
+                }
+            } <span class="hljs-keyword">catch</span> (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
+</code></pre>
+<h3 id="postgresql-em-java">PostgreSQL em Java</h3>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.sql.Connection;
+<span class="hljs-keyword">import</span> java.sql.DriverManager;
+<span class="hljs-keyword">import</span> java.sql.SQLException;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">PostgreSQLConnection</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">Connection</span> <span class="hljs-variable">connection</span> <span class="hljs-operator">=</span> <span class="hljs-literal">null</span>;
+        <span class="hljs-keyword">try</span> {
+            <span class="hljs-comment">// Carregar o driver JDBC do PostgreSQL</span>
+            Class.forName(<span class="hljs-string">&quot;org.postgresql.Driver&quot;</span>);
+            <span class="hljs-comment">// Estabelecer a conexão com o banco de dados PostgreSQL</span>
+            <span class="hljs-type">String</span> <span class="hljs-variable">url</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;jdbc:postgresql://localhost:5432/seu_banco_de_dados&quot;</span>;
+            <span class="hljs-type">String</span> <span class="hljs-variable">user</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;seu_usuario&quot;</span>;
+            <span class="hljs-type">String</span> <span class="hljs-variable">password</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;sua_senha&quot;</span>;
+            connection = DriverManager.getConnection(url, user, password);
+            System.out.println(<span class="hljs-string">&quot;Conexão com o banco de dados PostgreSQL estabelecida.&quot;</span>);
+        } <span class="hljs-keyword">catch</span> (ClassNotFoundException | SQLException e) {
+            e.printStackTrace();
+        } <span class="hljs-keyword">finally</span> {
+            <span class="hljs-keyword">try</span> {
+                <span class="hljs-keyword">if</span> (connection != <span class="hljs-literal">null</span>) {
+                    connection.close();
+                }
+            } <span class="hljs-keyword">catch</span> (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
+</code></pre>
+<h3 id="sql-server-em-java">SQL Server em Java</h3>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.sql.Connection;
+<span class="hljs-keyword">import</span> java.sql.DriverManager;
+<span class="hljs-keyword">import</span> java.sql.SQLException;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">SQLServerConnection</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">Connection</span> <span class="hljs-variable">connection</span> <span class="hljs-operator">=</span> <span class="hljs-literal">null</span>;
+        <span class="hljs-keyword">try</span> {
+            <span class="hljs-comment">// Carregar o driver JDBC do SQL Server</span>
+            Class.forName(<span class="hljs-string">&quot;com.microsoft.sqlserver.jdbc.SQLServerDriver&quot;</span>);
+            <span class="hljs-comment">// Estabelecer a conexão com o banco de dados SQL Server</span>
+            <span class="hljs-type">String</span> <span class="hljs-variable">url</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;jdbc:sqlserver://localhost:1433;databaseName=seu_banco_de_dados&quot;</span>;
+            <span class="hljs-type">String</span> <span class="hljs-variable">user</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;seu_usuario&quot;</span>;
+            <span class="hljs-type">String</span> <span class="hljs-variable">password</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;sua_senha&quot;</span>;
+            connection = DriverManager.getConnection(url, user, password);
+            System.out.println(<span class="hljs-string">&quot;Conexão com o banco de dados SQL Server estabelecida.&quot;</span>);
+        } <span class="hljs-keyword">catch</span> (ClassNotFoundException | SQLException e) {
+            e.printStackTrace();
+        } <span class="hljs-keyword">finally</span> {
+            <span class="hljs-keyword">try</span> {
+                <span class="hljs-keyword">if</span> (connection != <span class="hljs-literal">null</span>) {
+                    connection.close();
+                }
+            } <span class="hljs-keyword">catch</span> (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
+</code></pre>
+<h3 id="oracle-em-java">Oracle em Java</h3>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.sql.Connection;
+<span class="hljs-keyword">import</span> java.sql.DriverManager;
+<span class="hljs-keyword">import</span> java.sql.SQLException;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">OracleConnection</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">Connection</span> <span class="hljs-variable">connection</span> <span class="hljs-operator">=</span> <span class="hljs-literal">null</span>;
+        <span class="hljs-keyword">try</span> {
+            <span class="hljs-comment">// Carregar o driver JDBC do Oracle</span>
+            Class.forName(<span class="hljs-string">&quot;oracle.jdbc.driver.OracleDriver&quot;</span>);
+            <span class="hljs-comment">// Estabelecer a conexão com o banco de dados Oracle</span>
+            <span class="hljs-type">String</span> <span class="hljs-variable">url</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;jdbc:oracle:thin:@localhost:1521:seu_sid&quot;</span>;
+            <span class="hljs-type">String</span> <span class="hljs-variable">user</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;seu_usuario&quot;</span>;
+            <span class="hljs-type">String</span> <span class="hljs-variable">password</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;sua_senha&quot;</span>;
+            connection = DriverManager.getConnection(url, user, password);
+            System.out.println(<span class="hljs-string">&quot;Conexão com o banco de dados Oracle estabelecida.&quot;</span>);
+        } <span class="hljs-keyword">catch</span> (ClassNotFoundException | SQLException e) {
+            e.printStackTrace();
+        } <span class="hljs-keyword">finally</span> {
+            <span class="hljs-keyword">try</span> {
+                <span class="hljs-keyword">if</span> (connection != <span class="hljs-literal">null</span>) {
+                    connection.close();
+                }
+            } <span class="hljs-keyword">catch</span> (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
+</code></pre>
+<h3 id="operações-de-sql-com-o-jdbc">Operações de SQL com o JDBC</h3>
+<ol>
+<li>
+<p>Conectar ao banco de dados:
+Antes de executar qualquer operação, você precisa estabelecer uma conexão com o banco de dados usando a classe <code>java.sql.Connection</code>. Isso é feito carregando o driver JDBC específico para o banco de dados e criando a conexão usando a URL de conexão.</p>
+</li>
+<li>
+<p>Executar consultas de leitura (SELECT):
+Para recuperar dados do banco de dados, você pode usar a classe <code>java.sql.Statement</code> para criar uma consulta SQL e, em seguida, executá-la usando o método <code>executeQuery()</code>. O resultado é retornado como um objeto <code>java.sql.ResultSet</code>, que você pode iterar para obter os dados.</p>
+</li>
+<li>
+<p>Executar operações de atualização (INSERT, UPDATE, DELETE):
+Para inserir, atualizar ou excluir dados no banco de dados, você também usa a classe <code>java.sql.Statement</code>, mas desta vez você chama os métodos <code>executeUpdate()</code> ou <code>execute()</code> passando a consulta SQL adequada.</p>
+</li>
+<li>
+<p>Utilizar transações:
+O JDBC suporta transações, que são blocos de operações que são executados em conjunto como uma única unidade de trabalho. Você pode iniciar uma transação usando o método <code>setAutoCommit(false)</code> na conexão e, em seguida, executar várias operações. Se todas as operações forem bem-sucedidas, você pode confirmar a transação usando <code>commit()</code>. Caso contrário, você pode reverter as alterações usando <code>rollback()</code>.</p>
+</li>
+<li>
+<p>Tratar exceções:
+Sempre é importante tratar exceções ao trabalhar com bancos de dados para lidar com erros de conexão, problemas de consulta ou violações de integridade de dados. Use blocos <code>try-catch</code> para capturar e lidar com exceções de forma adequada.</p>
+</li>
+<li>
+<p>Fechar recursos:
+Após executar as operações, lembre-se de fechar os recursos, como objetos <code>ResultSet</code>, <code>Statement</code> e <code>Connection</code>, para liberar recursos e evitar vazamentos de recursos.</p>
+</li>
+</ol>
+<p>Aqui está um exemplo geral que mostra como realizar uma operação de leitura com JDBC:</p>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.sql.*;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">ReadDataExample</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">Connection</span> <span class="hljs-variable">connection</span> <span class="hljs-operator">=</span> <span class="hljs-literal">null</span>;
+        <span class="hljs-type">Statement</span> <span class="hljs-variable">statement</span> <span class="hljs-operator">=</span> <span class="hljs-literal">null</span>;
+        <span class="hljs-type">ResultSet</span> <span class="hljs-variable">resultSet</span> <span class="hljs-operator">=</span> <span class="hljs-literal">null</span>;
+        <span class="hljs-keyword">try</span> {
+            <span class="hljs-comment">// Carregar o driver JDBC do banco de dados (por exemplo, SQLite)</span>
+            Class.forName(<span class="hljs-string">&quot;org.sqlite.JDBC&quot;</span>);
+            <span class="hljs-comment">// Estabelecer a conexão com o banco de dados</span>
+            connection = DriverManager.getConnection(<span class="hljs-string">&quot;jdbc:sqlite:/path/to/your/database.db&quot;</span>);
+            <span class="hljs-comment">// Criar um objeto Statement</span>
+            statement = connection.createStatement();
+            <span class="hljs-comment">// Executar a consulta SQL de leitura</span>
+            <span class="hljs-type">String</span> <span class="hljs-variable">selectQuery</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;SELECT * FROM users&quot;</span>;
+            resultSet = statement.executeQuery(selectQuery);
+            <span class="hljs-comment">// Iterar sobre os resultados</span>
+            <span class="hljs-keyword">while</span> (resultSet.next()) {
+                <span class="hljs-type">int</span> <span class="hljs-variable">id</span> <span class="hljs-operator">=</span> resultSet.getInt(<span class="hljs-string">&quot;id&quot;</span>);
+                <span class="hljs-type">String</span> <span class="hljs-variable">name</span> <span class="hljs-operator">=</span> resultSet.getString(<span class="hljs-string">&quot;name&quot;</span>);
+                <span class="hljs-type">int</span> <span class="hljs-variable">age</span> <span class="hljs-operator">=</span> resultSet.getInt(<span class="hljs-string">&quot;age&quot;</span>);
+                System.out.println(<span class="hljs-string">&quot;ID: &quot;</span> + id + <span class="hljs-string">&quot;, Name: &quot;</span> + name + <span class="hljs-string">&quot;, Age: &quot;</span> + age);
+            }
+        } <span class="hljs-keyword">catch</span> (ClassNotFoundException | SQLException e) {
+            e.printStackTrace();
+        } <span class="hljs-keyword">finally</span> {
+            <span class="hljs-keyword">try</span> {
+                <span class="hljs-comment">// Fechar os recursos</span>
+                <span class="hljs-keyword">if</span> (resultSet != <span class="hljs-literal">null</span>) {
+                    resultSet.close();
+                }
+                <span class="hljs-keyword">if</span> (statement != <span class="hljs-literal">null</span>) {
+                    statement.close();
+                }
+                <span class="hljs-keyword">if</span> (connection != <span class="hljs-literal">null</span>) {
+                    connection.close();
+                }
+            } <span class="hljs-keyword">catch</span> (SQLException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+}
+</code></pre>
+<h3 id="operações-de-sql-com-o-jdbc-usando-o-preparestatement">Operações de SQL com o JDBC usando o PrepareStatement</h3>
+<p>O JDBC (Java Database Connectivity) é uma API do Java que permite que os programas Java interajam com bancos de dados por meio de consultas SQL. O uso do <code>PreparedStatement</code> em JDBC é uma prática recomendada para executar consultas parametrizadas, o que aumenta a segurança e a eficiência das operações de banco de dados. Aqui está um exemplo de como realizar operações de SQL usando o <code>PreparedStatement</code>:</p>
+<ol>
+<li><strong>Importar as classes necessárias:</strong>
+Certifique-se de importar as classes relevantes do pacote <code>java.sql</code>.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.sql.Connection;
+<span class="hljs-keyword">import</span> java.sql.DriverManager;
+<span class="hljs-keyword">import</span> java.sql.PreparedStatement;
+<span class="hljs-keyword">import</span> java.sql.ResultSet;
+<span class="hljs-keyword">import</span> java.sql.SQLException;
+</code></pre>
+<ol start="2">
+<li><strong>Conectar ao banco de dados:</strong>
+Antes de executar qualquer consulta, você precisa criar uma conexão com o banco de dados.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">url</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;jdbc:mysql://localhost:3306/seu_banco_de_dados&quot;</span>;
+<span class="hljs-type">String</span> <span class="hljs-variable">username</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;seu_usuario&quot;</span>;
+<span class="hljs-type">String</span> <span class="hljs-variable">password</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;sua_senha&quot;</span>;
+
+<span class="hljs-keyword">try</span> {
+    <span class="hljs-type">Connection</span> <span class="hljs-variable">connection</span> <span class="hljs-operator">=</span> DriverManager.getConnection(url, username, password);
+} <span class="hljs-keyword">catch</span> (SQLException e) {
+    e.printStackTrace();
+}
+</code></pre>
+<ol start="3">
+<li><strong>Preparar e executar consultas parametrizadas:</strong>
+Aqui estão alguns exemplos de como usar <code>PreparedStatement</code> para operações de SQL:</li>
+</ol>
+<p><strong>Inserção de Dados:</strong></p>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">insertQuery</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;INSERT INTO tabela (coluna1, coluna2) VALUES (?, ?)&quot;</span>;
+
+<span class="hljs-keyword">try</span> {
+    <span class="hljs-type">PreparedStatement</span> <span class="hljs-variable">preparedStatement</span> <span class="hljs-operator">=</span> connection.prepareStatement(insertQuery);
+    preparedStatement.setString(<span class="hljs-number">1</span>, valorColuna1);
+    preparedStatement.setString(<span class="hljs-number">2</span>, valorColuna2);
+    preparedStatement.executeUpdate();
+} <span class="hljs-keyword">catch</span> (SQLException e) {
+    e.printStackTrace();
+}
+</code></pre>
+<p><strong>Atualização de Dados:</strong></p>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">updateQuery</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;UPDATE tabela SET coluna1 = ? WHERE coluna2 = ?&quot;</span>;
+
+<span class="hljs-keyword">try</span> {
+    <span class="hljs-type">PreparedStatement</span> <span class="hljs-variable">preparedStatement</span> <span class="hljs-operator">=</span> connection.prepareStatement(updateQuery);
+    preparedStatement.setString(<span class="hljs-number">1</span>, novoValorColuna1);
+    preparedStatement.setString(<span class="hljs-number">2</span>, valorColuna2);
+    preparedStatement.executeUpdate();
+} <span class="hljs-keyword">catch</span> (SQLException e) {
+    e.printStackTrace();
+}
+</code></pre>
+<p><strong>Seleção de Dados:</strong></p>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">selectQuery</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;SELECT coluna1, coluna2 FROM tabela WHERE coluna3 = ?&quot;</span>;
+
+<span class="hljs-keyword">try</span> {
+    <span class="hljs-type">PreparedStatement</span> <span class="hljs-variable">preparedStatement</span> <span class="hljs-operator">=</span> connection.prepareStatement(selectQuery);
+    preparedStatement.setString(<span class="hljs-number">1</span>, valorColuna3);
+    <span class="hljs-type">ResultSet</span> <span class="hljs-variable">resultSet</span> <span class="hljs-operator">=</span> preparedStatement.executeQuery();
+
+    <span class="hljs-keyword">while</span> (resultSet.next()) {
+        <span class="hljs-type">String</span> <span class="hljs-variable">coluna1</span> <span class="hljs-operator">=</span> resultSet.getString(<span class="hljs-string">&quot;coluna1&quot;</span>);
+        <span class="hljs-type">String</span> <span class="hljs-variable">coluna2</span> <span class="hljs-operator">=</span> resultSet.getString(<span class="hljs-string">&quot;coluna2&quot;</span>);
+        <span class="hljs-comment">// Fazer algo com os resultados</span>
+    }
+} <span class="hljs-keyword">catch</span> (SQLException e) {
+    e.printStackTrace();
+}
+</code></pre>
+<ol start="4">
+<li><strong>Fechar recursos:</strong>
+Sempre feche a conexão, os <code>PreparedStatement</code> e os <code>ResultSet</code> após o uso.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">if</span> (resultSet != <span class="hljs-literal">null</span>) {
+    resultSet.close();
+}
+
+<span class="hljs-keyword">if</span> (preparedStatement != <span class="hljs-literal">null</span>) {
+    preparedStatement.close();
+}
+
+<span class="hljs-keyword">if</span> (connection != <span class="hljs-literal">null</span>) {
+    connection.close();
+}
+</code></pre>
+<p>Usar <code>PreparedStatement</code> é uma prática recomendada para evitar ataques de injeção de SQL e melhorar o desempenho, já que a consulta preparada pode ser reutilizada com diferentes parâmetros. Certifique-se de tratar exceções de forma adequada para lidar com problemas de conexão ou de consulta.</p>
+<h2 id="banco-de-dados-em-python">Banco de Dados em Python</h2>
+<h3 id="sqlite-em-python">SQLite em Python</h3>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> sqlite3
+<span class="hljs-comment"># Conectar ao banco de dados SQLite</span>
+conn = sqlite3.connect(<span class="hljs-string">&#x27;/caminho/para/seu/banco.db&#x27;</span>)
+<span class="hljs-comment"># Criar um cursor para executar consultas</span>
+cursor = conn.cursor()
+<span class="hljs-comment"># Exemplo: Executar uma consulta de leitura</span>
+cursor.execute(<span class="hljs-string">&quot;SELECT * FROM sua_tabela&quot;</span>)
+rows = cursor.fetchall()
+<span class="hljs-comment"># Exemplo: Executar uma operação de atualização</span>
+cursor.execute(<span class="hljs-string">&quot;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (?, ?)&quot;</span>, (valor1, valor2))
+conn.commit()
+<span class="hljs-comment"># Fechar a conexão</span>
+conn.close()
+</code></pre>
+<h3 id="mysql-em-python">MySQL em Python</h3>
+<pre><code class="language-bash">pip install mysql-connector-python
+</code></pre>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> mysql.connector
+<span class="hljs-comment"># Conectar ao banco de dados MySQL</span>
+conn = mysql.connector.connect(
+    host=<span class="hljs-string">&#x27;localhost&#x27;</span>,
+    user=<span class="hljs-string">&#x27;seu_usuario&#x27;</span>,
+    password=<span class="hljs-string">&#x27;sua_senha&#x27;</span>,
+    database=<span class="hljs-string">&#x27;seu_banco_de_dados&#x27;</span>
+)
+<span class="hljs-comment"># Criar um cursor para executar consultas</span>
+cursor = conn.cursor()
+<span class="hljs-comment"># Exemplo: Executar uma consulta de leitura</span>
+cursor.execute(<span class="hljs-string">&quot;SELECT * FROM sua_tabela&quot;</span>)
+rows = cursor.fetchall()
+<span class="hljs-comment"># Exemplo: Executar uma operação de atualização</span>
+cursor.execute(<span class="hljs-string">&quot;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (%s, %s)&quot;</span>, (valor1, valor2))
+conn.commit()
+<span class="hljs-comment"># Fechar a conexão</span>
+conn.close()
+</code></pre>
+<h3 id="postgresql-em-python">PostgreSQL em Python</h3>
+<pre><code class="language-bash">pip install psycopg2
+</code></pre>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> psycopg2
+<span class="hljs-comment"># Conectar ao banco de dados PostgreSQL</span>
+conn = psycopg2.connect(
+    host=<span class="hljs-string">&#x27;localhost&#x27;</span>,
+    user=<span class="hljs-string">&#x27;seu_usuario&#x27;</span>,
+    password=<span class="hljs-string">&#x27;sua_senha&#x27;</span>,
+    database=<span class="hljs-string">&#x27;seu_banco_de_dados&#x27;</span>
+)
+<span class="hljs-comment"># Criar um cursor para executar consultas</span>
+cursor = conn.cursor()
+<span class="hljs-comment"># Exemplo: Executar uma consulta de leitura</span>
+cursor.execute(<span class="hljs-string">&quot;SELECT * FROM sua_tabela&quot;</span>)
+rows = cursor.fetchall()
+<span class="hljs-comment"># Exemplo: Executar uma operação de atualização</span>
+cursor.execute(<span class="hljs-string">&quot;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (%s, %s)&quot;</span>, (valor1, valor2))
+conn.commit()
+<span class="hljs-comment"># Fechar a conexão</span>
+conn.close()
+</code></pre>
+<h3 id="sql-server-em-python">SQL Server em Python</h3>
+<pre><code class="language-bash">pip install pyodbc
+</code></pre>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> pyodbc
+<span class="hljs-comment"># Conectar ao banco de dados SQL Server</span>
+conn = pyodbc.connect(
+    <span class="hljs-string">&#x27;DRIVER={ODBC Driver 17 for SQL Server};SERVER=localhost;DATABASE=seu_banco_de_dados;UID=seu_usuario;PWD=sua_senha&#x27;</span>
+)
+<span class="hljs-comment"># Criar um cursor para executar consultas</span>
+cursor = conn.cursor()
+<span class="hljs-comment"># Exemplo: Executar uma consulta de leitura</span>
+cursor.execute(<span class="hljs-string">&quot;SELECT * FROM sua_tabela&quot;</span>)
+rows = cursor.fetchall()
+<span class="hljs-comment"># Exemplo: Executar uma operação de atualização</span>
+cursor.execute(<span class="hljs-string">&quot;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (?, ?)&quot;</span>, (valor1, valor2))
+conn.commit()
+<span class="hljs-comment"># Fechar a conexão</span>
+conn.close()
+</code></pre>
+<h3 id="oracle-em-python">Oracle em Python</h3>
+<pre><code class="language-bash">pip install cx_Oracle
+</code></pre>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> cx_Oracle
+<span class="hljs-comment"># Conectar ao banco de dados Oracle</span>
+conn = cx_Oracle.connect(<span class="hljs-string">&#x27;seu_usuario/sua_senha@localhost:1521/seu_sid&#x27;</span>)
+<span class="hljs-comment"># Criar um cursor para executar consultas</span>
+cursor = conn.cursor()
+<span class="hljs-comment"># Exemplo: Executar uma consulta de leitura</span>
+cursor.execute(<span class="hljs-string">&quot;SELECT * FROM sua_tabela&quot;</span>)
+rows = cursor.fetchall()
+<span class="hljs-comment"># Exemplo: Executar uma operação de atualização</span>
+cursor.execute(<span class="hljs-string">&quot;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (:val1, :val2)&quot;</span>, val1=valor1, val2=valor2)
+conn.commit()
+<span class="hljs-comment"># Fechar a conexão</span>
+conn.close()
+</code></pre>
+<h2 id="banco-de-dados-em-javascript">Banco de Dados em JavaScript</h2>
+<h3 id="sqlite-em-javascript">SQLite em JavaScript</h3>
+<pre><code class="language-bash">npm install sqlite3
+</code></pre>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> sqlite3 = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;sqlite3&#x27;</span>).<span class="hljs-title function_">verbose</span>();
+<span class="hljs-comment">// Conectar ao banco de dados SQLite</span>
+<span class="hljs-keyword">const</span> db = <span class="hljs-keyword">new</span> sqlite3.<span class="hljs-title class_">Database</span>(<span class="hljs-string">&#x27;/caminho/para/seu/banco.db&#x27;</span>);
+<span class="hljs-comment">// Exemplo: Executar uma consulta de leitura</span>
+db.<span class="hljs-title function_">all</span>(<span class="hljs-string">&#x27;SELECT * FROM sua_tabela&#x27;</span>, [], <span class="hljs-function">(<span class="hljs-params">err, rows</span>) =&gt;</span> {
+  <span class="hljs-keyword">if</span> (err) {
+    <span class="hljs-keyword">throw</span> err;
+  }
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(rows);
+});
+<span class="hljs-comment">// Exemplo: Executar uma operação de atualização</span>
+<span class="hljs-keyword">const</span> valor1 = <span class="hljs-string">&#x27;Valor 1&#x27;</span>;
+<span class="hljs-keyword">const</span> valor2 = <span class="hljs-number">42</span>;
+db.<span class="hljs-title function_">run</span>(<span class="hljs-string">&#x27;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (?, ?)&#x27;</span>, [valor1, valor2], <span class="hljs-function">(<span class="hljs-params">err</span>) =&gt;</span> {
+  <span class="hljs-keyword">if</span> (err) {
+    <span class="hljs-keyword">throw</span> err;
+  }
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;Dados inseridos com sucesso!&#x27;</span>);
+});
+<span class="hljs-comment">// Fechar a conexão</span>
+db.<span class="hljs-title function_">close</span>();
+</code></pre>
+<h3 id="mysql-em-javascript">MySQL em JavaScript</h3>
+<pre><code class="language-bash">npm install mysql
+</code></pre>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> mysql = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;mysql&#x27;</span>);
+<span class="hljs-comment">// Configurar as informações de conexão</span>
+<span class="hljs-keyword">const</span> connection = mysql.<span class="hljs-title function_">createConnection</span>({
+  <span class="hljs-attr">host</span>: <span class="hljs-string">&#x27;localhost&#x27;</span>,
+  <span class="hljs-attr">user</span>: <span class="hljs-string">&#x27;seu_usuario&#x27;</span>,
+  <span class="hljs-attr">password</span>: <span class="hljs-string">&#x27;sua_senha&#x27;</span>,
+  <span class="hljs-attr">database</span>: <span class="hljs-string">&#x27;seu_banco_de_dados&#x27;</span>
+});
+<span class="hljs-comment">// Conectar ao banco de dados MySQL</span>
+connection.<span class="hljs-title function_">connect</span>(<span class="hljs-function">(<span class="hljs-params">err</span>) =&gt;</span> {
+  <span class="hljs-keyword">if</span> (err) {
+    <span class="hljs-keyword">throw</span> err;
+  }
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;Conexão com o banco de dados MySQL estabelecida.&#x27;</span>);
+  <span class="hljs-comment">// Exemplo: Executar uma consulta de leitura</span>
+  connection.<span class="hljs-title function_">query</span>(<span class="hljs-string">&#x27;SELECT * FROM sua_tabela&#x27;</span>, <span class="hljs-function">(<span class="hljs-params">err, rows</span>) =&gt;</span> {
+    <span class="hljs-keyword">if</span> (err) {
+      <span class="hljs-keyword">throw</span> err;
+    }
+    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(rows);
+  });
+  <span class="hljs-comment">// Exemplo: Executar uma operação de atualização</span>
+  <span class="hljs-keyword">const</span> valor1 = <span class="hljs-string">&#x27;Valor 1&#x27;</span>;
+  <span class="hljs-keyword">const</span> valor2 = <span class="hljs-number">42</span>;
+  connection.<span class="hljs-title function_">query</span>(<span class="hljs-string">&#x27;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (?, ?)&#x27;</span>, [valor1, valor2], <span class="hljs-function">(<span class="hljs-params">err, result</span>) =&gt;</span> {
+    <span class="hljs-keyword">if</span> (err) {
+      <span class="hljs-keyword">throw</span> err;
+    }
+    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;Dados inseridos com sucesso!&#x27;</span>);
+  });
+  <span class="hljs-comment">// Fechar a conexão</span>
+  connection.<span class="hljs-title function_">end</span>();
+});
+</code></pre>
+<h3 id="postgresql-em-javascript">PostgreSQL em JavaScript</h3>
+<pre><code class="language-bash">npm install pg
+</code></pre>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> { <span class="hljs-title class_">Pool</span>, <span class="hljs-title class_">Client</span> } = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;pg&#x27;</span>);
+<span class="hljs-comment">// Configurar as informações de conexão</span>
+<span class="hljs-keyword">const</span> pool = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Pool</span>({
+  <span class="hljs-attr">user</span>: <span class="hljs-string">&#x27;seu_usuario&#x27;</span>,
+  <span class="hljs-attr">host</span>: <span class="hljs-string">&#x27;localhost&#x27;</span>,
+  <span class="hljs-attr">database</span>: <span class="hljs-string">&#x27;seu_banco_de_dados&#x27;</span>,
+  <span class="hljs-attr">password</span>: <span class="hljs-string">&#x27;sua_senha&#x27;</span>,
+  <span class="hljs-attr">port</span>: <span class="hljs-number">5432</span>,
+});
+<span class="hljs-comment">// Conectar ao banco de dados PostgreSQL</span>
+pool.<span class="hljs-title function_">query</span>(<span class="hljs-string">&#x27;SELECT NOW()&#x27;</span>, <span class="hljs-function">(<span class="hljs-params">err, res</span>) =&gt;</span> {
+  <span class="hljs-keyword">if</span> (err) {
+    <span class="hljs-keyword">throw</span> err;
+  }
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;Conexão com o banco de dados PostgreSQL estabelecida.&#x27;</span>);
+  <span class="hljs-comment">// Exemplo: Executar uma consulta de leitura</span>
+  pool.<span class="hljs-title function_">query</span>(<span class="hljs-string">&#x27;SELECT * FROM sua_tabela&#x27;</span>, <span class="hljs-function">(<span class="hljs-params">err, res</span>) =&gt;</span> {
+    <span class="hljs-keyword">if</span> (err) {
+      <span class="hljs-keyword">throw</span> err;
+    }
+    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(res.<span class="hljs-property">rows</span>);
+  });
+  <span class="hljs-comment">// Exemplo: Executar uma operação de atualização</span>
+  <span class="hljs-keyword">const</span> valor1 = <span class="hljs-string">&#x27;Valor 1&#x27;</span>;
+  <span class="hljs-keyword">const</span> valor2 = <span class="hljs-number">42</span>;
+  pool.<span class="hljs-title function_">query</span>(<span class="hljs-string">&#x27;INSERT INTO sua_tabela (coluna1, coluna2) VALUES ($1, $2)&#x27;</span>, [valor1, valor2], <span class="hljs-function">(<span class="hljs-params">err, res</span>) =&gt;</span> {
+    <span class="hljs-keyword">if</span> (err) {
+      <span class="hljs-keyword">throw</span> err;
+    }
+    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;Dados inseridos com sucesso!&#x27;</span>);
+  });
+  <span class="hljs-comment">// Fechar a conexão</span>
+  pool.<span class="hljs-title function_">end</span>();
+});
+</code></pre>
+<h3 id="sql-server-em-javascript">SQL Server em JavaScript</h3>
+<pre><code class="language-bash">npm install mssql
+</code></pre>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> sql = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;mssql&#x27;</span>);
+<span class="hljs-comment">// Configurar as informações de conexão</span>
+<span class="hljs-keyword">const</span> config = {
+  <span class="hljs-attr">user</span>: <span class="hljs-string">&#x27;seu_usuario&#x27;</span>,
+  <span class="hljs-attr">password</span>: <span class="hljs-string">&#x27;sua_senha&#x27;</span>,
+  <span class="hljs-attr">server</span>: <span class="hljs-string">&#x27;localhost&#x27;</span>,
+  <span class="hljs-attr">database</span>: <span class="hljs-string">&#x27;seu_banco_de_dados&#x27;</span>,
+  <span class="hljs-attr">options</span>: {
+    <span class="hljs-attr">enableArithAbort</span>: <span class="hljs-literal">true</span>,
+  }
+};
+<span class="hljs-comment">// Conectar ao banco de dados SQL Server</span>
+sql.<span class="hljs-title function_">connect</span>(config).<span class="hljs-title function_">then</span>(<span class="hljs-function"><span class="hljs-params">pool</span> =&gt;</span> {
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;Conexão com o banco de dados SQL Server estabelecida.&#x27;</span>);
+  <span class="hljs-comment">// Exemplo: Executar uma consulta de leitura</span>
+  pool.<span class="hljs-title function_">request</span>().<span class="hljs-title function_">query</span>(<span class="hljs-string">&#x27;SELECT * FROM sua_tabela&#x27;</span>, <span class="hljs-function">(<span class="hljs-params">err, result</span>) =&gt;</span> {
+    <span class="hljs-keyword">if</span> (err) {
+      <span class="hljs-keyword">throw</span> err;
+    }
+    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(result.<span class="hljs-property">recordset</span>);
+  });
+  <span class="hljs-comment">// Exemplo: Executar uma operação de atualização</span>
+  <span class="hljs-keyword">const</span> valor1 = <span class="hljs-string">&#x27;Valor 1&#x27;</span>;
+  <span class="hljs-keyword">const</span> valor2 = <span class="hljs-number">42</span>;
+  pool.<span class="hljs-title function_">request</span>().<span class="hljs-title function_">query</span>(<span class="hljs-string">&#x27;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (@valor1, @valor2)&#x27;</span>, <span class="hljs-function">(<span class="hljs-params">err, result</span>) =&gt;</span> {
+    <span class="hljs-keyword">if</span> (err) {
+      <span class="hljs-keyword">throw</span> err;
+    }
+    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;Dados inseridos com sucesso!&#x27;</span>);
+  });
+  <span class="hljs-comment">// Fechar a conexão</span>
+  sql.<span class="hljs-title function_">close</span>();
+}).<span class="hljs-title function_">catch</span>(<span class="hljs-function"><span class="hljs-params">err</span> =&gt;</span> {
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(err);
+});
+</code></pre>
+<h3 id="oracle-em-javascript">Oracle em JavaScript</h3>
+<pre><code class="language-bash">npm install oracledb
+</code></pre>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> oracledb = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;oracledb&#x27;</span>);
+<span class="hljs-comment">// Configurar as informações de conexão</span>
+<span class="hljs-keyword">const</span> config = {
+  <span class="hljs-attr">user</span>: <span class="hljs-string">&#x27;seu_usuario&#x27;</span>,
+  <span class="hljs-attr">password</span>: <span class="hljs-string">&#x27;sua_senha&#x27;</span>,
+  <span class="hljs-attr">connectString</span>: <span class="hljs-string">&#x27;localhost/seu_sid&#x27;</span>
+};
+<span class="hljs-comment">// Conectar ao banco de dados Oracle</span>
+oracledb.<span class="hljs-title function_">getConnection</span>(config, <span class="hljs-function">(<span class="hljs-params">err, connection</span>) =&gt;</span> {
+  <span class="hljs-keyword">if</span> (err) {
+    <span class="hljs-keyword">throw</span> err;
+  }
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;Conexão com o banco de dados Oracle estabelecida.&#x27;</span>);
+  <span class="hljs-comment">// Exemplo: Executar uma consulta de leitura</span>
+  connection.<span class="hljs-title function_">execute</span>(<span class="hljs-string">&#x27;SELECT * FROM sua_tabela&#x27;</span>, <span class="hljs-function">(<span class="hljs-params">err, result</span>) =&gt;</span> {
+    <span class="hljs-keyword">if</span> (err) {
+      <span class="hljs-keyword">throw</span> err;
+    }
+    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(result.<span class="hljs-property">rows</span>);
+  });
+  <span class="hljs-comment">// Exemplo: Executar uma operação de atualização</span>
+  <span class="hljs-keyword">const</span> valor1 = <span class="hljs-string">&#x27;Valor 1&#x27;</span>;
+  <span class="hljs-keyword">const</span> valor2 = <span class="hljs-number">42</span>;
+  connection.<span class="hljs-title function_">execute</span>(<span class="hljs-string">&#x27;INSERT INTO sua_tabela (coluna1, coluna2) VALUES (:val1, :val2)&#x27;</span>, [valor1, valor2], <span class="hljs-function">(<span class="hljs-params">err, result</span>) =&gt;</span> {
+    <span class="hljs-keyword">if</span> (err) {
+      <span class="hljs-keyword">throw</span> err;
+    }
+    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;Dados inseridos com sucesso!&#x27;</span>);
+  });
+  <span class="hljs-comment">// Fechar a conexão</span>
+  connection.<span class="hljs-title function_">close</span>();
+});
+</code></pre>
+
+        <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+        
+    </body>
+    </html>

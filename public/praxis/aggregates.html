@@ -1,0 +1,3165 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Aggregates</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="aggregates">Aggregates</h1>
+<ul>
+<li><a href="#aggregates">Aggregates</a>
+<ul>
+<li><a href="#dicion%C3%A1rios-em-javascript">Dicionários em JavaScript</a>
+<ul>
+<li><a href="#fun%C3%A7%C3%B5es-de-dicion%C3%A1rio-em-javascript">Funções de Dicionário em JavaScript</a></li>
+</ul>
+</li>
+<li><a href="#conjuntos-em-javascript">Conjuntos em JavaScript</a></li>
+<li><a href="#fun%C3%A7%C3%B5es-de-conjuntos-em-javascript">Funções de Conjuntos em JavaScript</a></li>
+<li><a href="#listas-em-javascript">Listas em JavaScript</a>
+<ul>
+<li><a href="#fun%C3%A7%C3%B5es-de-lista-em-javascript">Funções de Lista em JavaScript</a></li>
+</ul>
+</li>
+<li><a href="#o-operador-spread-em-javascript">O Operador Spread em JavaScript</a></li>
+<li><a href="#itera%C3%A7%C3%A3o-em-javascript">Iteração em JavaScript</a></li>
+<li><a href="#pilha-em-javascript">Pilha em JavaScript</a></li>
+<li><a href="#fila-em-javascript">Fila em JavaScript</a></li>
+<li><a href="#dicion%C3%A1rios-em-python">Dicionários em Python</a>
+<ul>
+<li><a href="#fun%C3%A7%C3%B5es-de-dicion%C3%A1rio-em-python">Funções de Dicionário em Python</a></li>
+</ul>
+</li>
+<li><a href="#conjuntos-em-python">Conjuntos em Python</a>
+<ul>
+<li><a href="#fun%C3%A7%C3%B5es-de-conjuntos-em-python">Funções de Conjuntos em Python</a></li>
+</ul>
+</li>
+<li><a href="#tuplas-em-python">Tuplas em Python</a></li>
+<li><a href="#listas-em-python">Listas em Python</a>
+<ul>
+<li><a href="#fun%C3%A7%C3%B5es-de-lista-em-python">Funções de Lista em Python</a></li>
+</ul>
+</li>
+<li><a href="#fun%C3%A7%C3%B5es-comuns-de-sequ%C3%AAncias-em-python">Funções Comuns de Sequências em Python</a></li>
+<li><a href="#compreens%C3%A3o-de-listas-em-python">Compreensão de Listas em Python</a></li>
+<li><a href="#o-operador-spread-em-python">O Operador Spread em Python</a></li>
+<li><a href="#pilha-em-python">Pilha em Python</a></li>
+<li><a href="#fila-em-python">Fila em Python</a></li>
+<li><a href="#collections-em-python">Collections em Python</a></li>
+<li><a href="#arrays-em-java">Arrays em Java</a>
+<ul>
+<li><a href="#fun%C3%A7oes-com-arrays-em-java">Funçoes com Arrays em Java</a></li>
+</ul>
+</li>
+<li><a href="#listas-em-java">Listas em Java</a>
+<ul>
+<li><a href="#fun%C3%A7%C3%B5es-de-lista-em-java">Funções de Lista em Java</a></li>
+</ul>
+</li>
+<li><a href="#tuplas-em-java">Tuplas em Java</a></li>
+<li><a href="#conjuntos-em-java">Conjuntos em Java</a></li>
+<li><a href="#fun%C3%A7%C3%B5es-de-cole%C3%A7%C3%B5es-em-java">Funções de Coleções em Java</a></li>
+<li><a href="#dicion%C3%A1rios-em-java">Dicionários em Java</a></li>
+<li><a href="#pilha-em-java">Pilha em Java</a></li>
+<li><a href="#fila-em-java">Fila em Java</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="dicionários-em-javascript">Dicionários em JavaScript</h2>
+<ol>
+<li>Criação de um objeto (dicionário):
+Você pode criar um objeto usando a sintaxe literal de objeto ou o construtor <code>Object()</code>.</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-comment">// Sintaxe literal</span>
+<span class="hljs-keyword">let</span> dicionario1 = {
+  <span class="hljs-attr">chave1</span>: <span class="hljs-string">&#x27;valor1&#x27;</span>,
+  <span class="hljs-attr">chave2</span>: <span class="hljs-string">&#x27;valor2&#x27;</span>,
+  <span class="hljs-attr">chave3</span>: <span class="hljs-string">&#x27;valor3&#x27;</span>
+};
+<span class="hljs-comment">// Usando o construtor Object()</span>
+<span class="hljs-keyword">let</span> dicionario2 = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Object</span>();
+dicionario2[<span class="hljs-string">&#x27;nome&#x27;</span>] = <span class="hljs-string">&#x27;João&#x27;</span>;
+dicionario2[<span class="hljs-string">&#x27;idade&#x27;</span>] = <span class="hljs-number">30</span>;
+</code></pre>
+<ol start="2">
+<li>Acessando e modificando valores:
+Você pode acessar os valores de um dicionário usando a chave entre colchetes ou a notação de ponto.</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> pessoa = {
+  <span class="hljs-attr">nome</span>: <span class="hljs-string">&#x27;João&#x27;</span>,
+  <span class="hljs-attr">idade</span>: <span class="hljs-number">30</span>,
+  <span class="hljs-attr">cidade</span>: <span class="hljs-string">&#x27;São Paulo&#x27;</span>
+};
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(pessoa[<span class="hljs-string">&#x27;nome&#x27;</span>]); <span class="hljs-comment">// Saída: &#x27;João&#x27;</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(pessoa.<span class="hljs-property">idade</span>);   <span class="hljs-comment">// Saída: 30</span>
+pessoa.<span class="hljs-property">cidade</span> = <span class="hljs-string">&#x27;Rio de Janeiro&#x27;</span>;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(pessoa); <span class="hljs-comment">// Saída: { nome: &#x27;João&#x27;, idade: 30, cidade: &#x27;Rio de Janeiro&#x27; }</span>
+</code></pre>
+<ol start="3">
+<li>Verificando a existência de uma chave:
+Você pode verificar se uma chave existe em um dicionário usando o operador <code>in</code> ou o método <code>hasOwnProperty()</code>.</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> pessoa = {
+  <span class="hljs-attr">nome</span>: <span class="hljs-string">&#x27;João&#x27;</span>,
+  <span class="hljs-attr">idade</span>: <span class="hljs-number">30</span>,
+  <span class="hljs-attr">cidade</span>: <span class="hljs-string">&#x27;São Paulo&#x27;</span>
+};
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;nome&#x27;</span> <span class="hljs-keyword">in</span> pessoa);             <span class="hljs-comment">// Saída: true</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(pessoa.<span class="hljs-title function_">hasOwnProperty</span>(<span class="hljs-string">&#x27;idade&#x27;</span>)); <span class="hljs-comment">// Saída: true</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&#x27;profissao&#x27;</span> <span class="hljs-keyword">in</span> pessoa);         <span class="hljs-comment">// Saída: false</span>
+</code></pre>
+<h3 id="funções-de-dicionário-em-javascript">Funções de Dicionário em JavaScript</h3>
+<p>Claro, aqui estão as descrições do uso e parâmetros de cada uma das funções de objetos em JavaScript:</p>
+<ol>
+<li>
+<p><strong>Object.assign(target, ...sources)</strong></p>
+<ul>
+<li>Uso: Copia as propriedades de um ou mais objetos de origem (sources) para o objeto de destino (target).</li>
+<li>Parâmetros:
+<ul>
+<li>target: O objeto de destino onde as propriedades serão copiadas.</li>
+<li>sources: Um ou mais objetos de origem de onde as propriedades serão copiadas.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.create(proto, [propertiesObject])</strong></p>
+<ul>
+<li>Uso: Cria um novo objeto com o protótipo especificado.</li>
+<li>Parâmetros:
+<ul>
+<li>proto: O objeto que será o protótipo do novo objeto.</li>
+<li>propertiesObject (opcional): Um objeto que define propriedades adicionais para o novo objeto.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.defineProperties(obj, props)</strong></p>
+<ul>
+<li>Uso: Define várias propriedades em um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto no qual as propriedades serão definidas.</li>
+<li>props: Um objeto cujas chaves são os nomes das propriedades e os valores são descritores de propriedades.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.defineProperty(obj, prop, descriptor)</strong></p>
+<ul>
+<li>Uso: Define uma propriedade em um objeto com o descritor fornecido.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto no qual a propriedade será definida.</li>
+<li>prop: O nome da propriedade a ser definida.</li>
+<li>descriptor: Um objeto que define o comportamento da propriedade (configurável, enumerável, valor, etc.).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.entries(obj)</strong></p>
+<ul>
+<li>Uso: Retorna uma matriz contendo matrizes de pares chave/valor para as propriedades enumeráveis de um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto cujas propriedades enumeráveis serão retornadas como uma matriz.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.freeze(obj)</strong></p>
+<ul>
+<li>Uso: Congela um objeto, tornando suas propriedades não modificáveis.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto que será congelado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.fromEntries(entries)</strong></p>
+<ul>
+<li>Uso: Retorna um novo objeto a partir de uma matriz de pares chave/valor.</li>
+<li>Parâmetros:
+<ul>
+<li>entries: Uma matriz contendo pares chave/valor representando as propriedades do novo objeto.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.getOwnPropertyDescriptor(obj, prop)</strong></p>
+<ul>
+<li>Uso: Retorna o descritor de uma propriedade de um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto que contém a propriedade.</li>
+<li>prop: O nome da propriedade cujo descritor será retornado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.getOwnPropertyDescriptors(obj)</strong></p>
+<ul>
+<li>Uso: Retorna um objeto contendo todos os descritores de propriedades de um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto cujos descritores de propriedades serão retornados.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.getOwnPropertyNames(obj)</strong></p>
+<ul>
+<li>Uso: Retorna uma matriz contendo os nomes de todas as propriedades enumeráveis e não enumeráveis de um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto cujos nomes de propriedades serão retornados como uma matriz.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.getOwnPropertySymbols(obj)</strong></p>
+<ul>
+<li>Uso: Retorna uma matriz contendo os símbolos de todas as propriedades de um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto cujos símbolos de propriedades serão retornados como uma matriz.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.getPrototypeOf(obj)</strong></p>
+<ul>
+<li>Uso: Retorna o protótipo de um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto cujo protótipo será retornado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.hasOwn(obj, prop)</strong></p>
+<ul>
+<li>Uso: Verifica se um objeto tem sua própria propriedade (não herdada) com o nome especificado.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto que será verificado.</li>
+<li>prop: O nome da propriedade que será verificada.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.prototype.hasOwnProperty(prop)</strong></p>
+<ul>
+<li>Uso: Verifica se o objeto possui uma propriedade própria (não herdada) com o nome especificado.</li>
+<li>Parâmetros:
+<ul>
+<li>prop: O nome da propriedade que será verificada.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong><a href="http://Object.is">Object.is</a>(value1, value2)</strong></p>
+<ul>
+<li>Uso: Compara se dois valores são iguais.</li>
+<li>Parâmetros:
+<ul>
+<li>value1: O primeiro valor a ser comparado.</li>
+<li>value2: O segundo valor a ser comparado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.isExtensible(obj)</strong></p>
+<ul>
+<li>Uso: Verifica se um objeto pode ter novas propriedades adicionadas a ele.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto que será verificado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.isFrozen(obj)</strong></p>
+<ul>
+<li>Uso: Verifica se um objeto está congelado, ou seja, suas propriedades não podem ser modificadas.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto que será verificado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.prototype.isPrototypeOf(obj)</strong></p>
+<ul>
+<li>Uso: Verifica se o objeto atual está no protótipo da cadeia de um objeto especificado.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto que será verificado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.isSealed(obj)</strong></p>
+<ul>
+<li>Uso: Verifica se um objeto está selado, ou seja, suas propriedades existentes não podem ser modificadas, mas novas propriedades não são permitidas.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto que será verificado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.keys(obj)</strong></p>
+<ul>
+<li>Uso: Retorna uma matriz contendo os nomes de todas as propriedades enumeráveis de um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto cujos nomes de propriedades enumeráveis serão retornados como uma matriz.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.preventExtensions(obj)</strong></p>
+<ul>
+<li>Uso: Impede que novas propriedades sejam adicionadas a um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto que será tornado não extensível.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.prototype.propertyIsEnumerable(prop)</strong></p>
+<ul>
+<li>Uso: Verifica se uma propriedade específica é enumerável no objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>prop: O nome da propriedade que será verificada.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.seal(obj)</strong></p>
+<ul>
+<li>Uso: Sela um objeto, tornando suas propriedades existentes não configuráveis e não adicionando novas propriedades.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto que será selado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.setPrototypeOf(obj, prototype)</strong></p>
+<ul>
+<li>Uso: Define o protótipo (prototype) de um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto que terá o protótipo definido.</li>
+<li>prototype: O objeto que será o novo protótipo do objeto.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.prototype.toLocaleString()</strong></p>
+<ul>
+<li>Uso: Retorna uma representação localizada do objeto como uma string.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.prototype.toString()</strong></p>
+<ul>
+<li>Uso: Retorna uma string representando o objeto.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.prototype.valueOf()</strong></p>
+<ul>
+<li>Uso: Retorna o valor primitivo do objeto.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><strong>Object.values(obj)</strong></p>
+<ul>
+<li>Uso: Retorna uma matriz contendo os valores das propriedades enumeráveis de um objeto.</li>
+<li>Parâmetros:
+<ul>
+<li>obj: O objeto cujos valores de propriedades enumeráveis serão retornados como uma matriz.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="conjuntos-em-javascript">Conjuntos em JavaScript</h2>
+<ol>
+<li>Criando um conjunto:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> mySet = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Set</span>(); <span class="hljs-comment">// Conjunto vazio</span>
+</code></pre>
+<ol start="2">
+<li>Adicionando elementos ao conjunto:</li>
+</ol>
+<pre><code class="language-javascript">mySet.<span class="hljs-title function_">add</span>(<span class="hljs-number">1</span>);
+mySet.<span class="hljs-title function_">add</span>(<span class="hljs-string">&quot;Hello&quot;</span>);
+mySet.<span class="hljs-title function_">add</span>({ <span class="hljs-attr">name</span>: <span class="hljs-string">&quot;John&quot;</span> });
+</code></pre>
+<ol start="3">
+<li>Verificando se um elemento existe no conjunto:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> hasElement = mySet.<span class="hljs-title function_">has</span>(<span class="hljs-number">1</span>); <span class="hljs-comment">// true</span>
+<span class="hljs-keyword">const</span> hasAnotherElement = mySet.<span class="hljs-title function_">has</span>(<span class="hljs-string">&quot;World&quot;</span>); <span class="hljs-comment">// false</span>
+</code></pre>
+<ol start="4">
+<li>Removendo elementos do conjunto:</li>
+</ol>
+<pre><code class="language-javascript">mySet.<span class="hljs-title function_">delete</span>(<span class="hljs-number">1</span>);
+</code></pre>
+<ol start="5">
+<li>Verificando o tamanho do conjunto:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> size = mySet.<span class="hljs-property">size</span>;
+</code></pre>
+<ol start="6">
+<li>Iterando sobre os elementos do conjunto:</li>
+</ol>
+<pre><code class="language-javascript">mySet.<span class="hljs-title function_">forEach</span>(<span class="hljs-function">(<span class="hljs-params">value</span>) =&gt;</span> {
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(value);
+});
+</code></pre>
+<ol start="7">
+<li>Convertendo o conjunto para uma matriz (array):</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> myArray = [...mySet];
+</code></pre>
+<h2 id="funções-de-conjuntos-em-javascript">Funções de Conjuntos em JavaScript</h2>
+<ol>
+<li>
+<p><code>Set.prototype.size</code>: Retorna o número de elementos no conjunto.</p>
+</li>
+<li>
+<p><code>Set.prototype.add(value)</code>: Adiciona um novo elemento ao conjunto, se ele ainda não estiver presente.</p>
+</li>
+<li>
+<p><code>Set.prototype.clear()</code>: Remove todos os elementos do conjunto, tornando-o vazio.</p>
+</li>
+<li>
+<p><code>Set.prototype.delete(value)</code>: Remove um elemento específico do conjunto, se estiver presente.</p>
+</li>
+<li>
+<p><code>Set.prototype.entries()</code>: Retorna um iterador com pares [valor, valor] para cada elemento no conjunto.</p>
+</li>
+<li>
+<p><code>Set.prototype.forEach(callback, thisArg)</code>: Executa uma função de retorno para cada elemento do conjunto.</p>
+</li>
+<li>
+<p><code>Set.prototype.has(value)</code>: Verifica se um elemento específico está presente no conjunto.</p>
+</li>
+<li>
+<p><code>Set.prototype.keys()</code>: Retorna um iterador com os valores dos elementos no conjunto.</p>
+</li>
+<li>
+<p><code>Set.prototype.values()</code>: Retorna um iterador com os valores dos elementos no conjunto.</p>
+</li>
+</ol>
+<h2 id="listas-em-javascript">Listas em JavaScript</h2>
+<ol>
+<li>Criando um array:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> myArray = []; <span class="hljs-comment">// Cria um array vazio</span>
+<span class="hljs-keyword">const</span> numbers = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>]; <span class="hljs-comment">// Cria um array com elementos</span>
+<span class="hljs-keyword">const</span> names = [<span class="hljs-string">&quot;John&quot;</span>, <span class="hljs-string">&quot;Jane&quot;</span>, <span class="hljs-string">&quot;Alice&quot;</span>]; <span class="hljs-comment">// Cria um array de strings</span>
+</code></pre>
+<ol start="2">
+<li>Acessando elementos do array:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> myArray = [<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>];
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(myArray[<span class="hljs-number">0</span>]); <span class="hljs-comment">// Output: 10 (primeiro elemento)</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(myArray[<span class="hljs-number">2</span>]); <span class="hljs-comment">// Output: 30 (terceiro elemento)</span>
+</code></pre>
+<ol start="3">
+<li>Alterando elementos do array:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> myArray = [<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>];
+myArray[<span class="hljs-number">1</span>] = <span class="hljs-number">50</span>;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(myArray); <span class="hljs-comment">// Output: [10, 50, 30]</span>
+</code></pre>
+<ol start="4">
+<li>Obtendo o tamanho do array:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> myArray = [<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>];
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(myArray.<span class="hljs-property">length</span>); <span class="hljs-comment">// Output: 3</span>
+</code></pre>
+<ol start="5">
+<li>Adicionando elementos ao array:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> myArray = [<span class="hljs-number">10</span>, <span class="hljs-number">20</span>];
+myArray.<span class="hljs-title function_">push</span>(<span class="hljs-number">30</span>); <span class="hljs-comment">// Adiciona um elemento ao final do array</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(myArray); <span class="hljs-comment">// Output: [10, 20, 30]</span>
+myArray.<span class="hljs-title function_">unshift</span>(<span class="hljs-number">5</span>); <span class="hljs-comment">// Adiciona um elemento no início do array</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(myArray); <span class="hljs-comment">// Output: [5, 10, 20, 30]</span>
+</code></pre>
+<ol start="6">
+<li>Removendo elementos do array:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> myArray = [<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>];
+<span class="hljs-keyword">const</span> removedElement = myArray.<span class="hljs-title function_">pop</span>(); <span class="hljs-comment">// Remove e retorna o último elemento</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(myArray); <span class="hljs-comment">// Output: [10, 20]</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(removedElement); <span class="hljs-comment">// Output: 30</span>
+<span class="hljs-keyword">const</span> shiftedElement = myArray.<span class="hljs-title function_">shift</span>(); <span class="hljs-comment">// Remove e retorna o primeiro elemento</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(myArray); <span class="hljs-comment">// Output: [20]</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(shiftedElement); <span class="hljs-comment">// Output: 10</span>
+</code></pre>
+<ol start="7">
+<li>Iterando sobre elementos do array:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> myArray = [<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>];
+myArray.<span class="hljs-title function_">forEach</span>(<span class="hljs-function">(<span class="hljs-params">element</span>) =&gt;</span> {
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(element);
+});
+<span class="hljs-comment">/* Output:
+   10
+   20
+   30
+*/</span>
+</code></pre>
+<ol start="8">
+<li>Procurando elementos no array:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> myArray = [<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>];
+<span class="hljs-keyword">const</span> index = myArray.<span class="hljs-title function_">indexOf</span>(<span class="hljs-number">20</span>); <span class="hljs-comment">// Procura o índice do elemento no array</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(index); <span class="hljs-comment">// Output: 1 (índice do elemento 20)</span>
+
+<span class="hljs-keyword">const</span> exists = myArray.<span class="hljs-title function_">includes</span>(<span class="hljs-number">30</span>); <span class="hljs-comment">// Verifica se o elemento existe no array</span>
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(exists); <span class="hljs-comment">// Output: true</span>
+</code></pre>
+<h3 id="funções-de-lista-em-javascript">Funções de Lista em JavaScript</h3>
+<p>Aqui está a descrição do uso e dos parâmetros de todas as funções de arrays em JavaScript, de acordo com a lista fornecida:</p>
+<ol>
+<li>
+<p><code>at(index)</code>: Retorna o elemento do array no índice especificado.</p>
+</li>
+<li>
+<p><code>concat(array1, array2, ..., arrayN)</code>: Combina arrays e retorna um novo array com os arrays combinados.</p>
+</li>
+<li>
+<p><code>constructor</code>: Retorna a função que criou o protótipo do objeto Array.</p>
+</li>
+<li>
+<p><code>copyWithin(target, start, end)</code>: Copia elementos do array dentro do próprio array, de e para as posições especificadas.</p>
+</li>
+<li>
+<p><code>entries()</code>: Retorna um iterador de pares chave/valor do array.</p>
+</li>
+<li>
+<p><code>every(callback(element, index, array), thisArg)</code>: Verifica se todos os elementos do array passam em um teste especificado por uma função de retorno.</p>
+</li>
+<li>
+<p><code>fill(value, start, end)</code>: Preenche os elementos do array com um valor estático.</p>
+</li>
+<li>
+<p><code>filter(callback(element, index, array), thisArg)</code>: Cria um novo array com todos os elementos do array que passam em um teste especificado por uma função de retorno.</p>
+</li>
+<li>
+<p><code>find(callback(element, index, array), thisArg)</code>: Retorna o valor do primeiro elemento do array que passa em um teste especificado por uma função de retorno.</p>
+</li>
+<li>
+<p><code>findIndex(callback(element, index, array), thisArg)</code>: Retorna o índice do primeiro elemento do array que passa em um teste especificado por uma função de retorno.</p>
+</li>
+<li>
+<p><code>flat(depth)</code>: Concatena os elementos dos subarrays até a profundidade especificada.</p>
+</li>
+<li>
+<p><code>flatMap(callback(element, index, array), thisArg)</code>: Mapeia todos os elementos do array e cria um novo array plano.</p>
+</li>
+<li>
+<p><code>forEach(callback(element, index, array), thisArg)</code>: Chama uma função de retorno para cada elemento do array.</p>
+</li>
+<li>
+<p><code>from(object, mapFn, thisArg)</code>: Cria um novo array a partir de um objeto ou de um array-like object.</p>
+</li>
+<li>
+<p><code>includes(searchElement, fromIndex)</code>: Verifica se um elemento está presente no array.</p>
+</li>
+<li>
+<p><code>indexOf(searchElement, fromIndex)</code>: Procura o array por um elemento e retorna a sua posição.</p>
+</li>
+<li>
+<p><code>isArray(obj)</code>: Verifica se um objeto é um array.</p>
+</li>
+<li>
+<p><code>join(separator)</code>: Junta todos os elementos do array em uma string, usando um separador especificado.</p>
+</li>
+<li>
+<p><code>keys()</code>: Retorna um iterador contendo as chaves do array.</p>
+</li>
+<li>
+<p><code>lastIndexOf(searchElement, fromIndex)</code>: Procura o array por um elemento, começando pelo final, e retorna a sua posição.</p>
+</li>
+<li>
+<p><code>length</code>: Define ou retorna o número de elementos em um array.</p>
+</li>
+<li>
+<p><code>map(callback(element, index, array), thisArg)</code>: Cria um novo array com o resultado da chamada de uma função de retorno para cada elemento do array.</p>
+</li>
+<li>
+<p><code>pop()</code>: Remove o último elemento de um array e o retorna.</p>
+</li>
+<li>
+<p><code>prototype</code>: Permite adicionar propriedades e métodos ao objeto Array.</p>
+</li>
+<li>
+<p><code>push(element1, element2, ..., elementN)</code>: Adiciona novos elementos no final do array e retorna o novo comprimento do array.</p>
+</li>
+<li>
+<p><code>reduce(callback(accumulator, currentValue, index, array), initialValue)</code>: Reduz os valores de um array a um único valor (iterando da esquerda para a direita).</p>
+</li>
+<li>
+<p><code>reduceRight(callback(accumulator, currentValue, index, array), initialValue)</code>: Reduz os valores de um array a um único valor (iterando da direita para a esquerda).</p>
+</li>
+<li>
+<p><code>reverse()</code>: Inverte a ordem dos elementos em um array.</p>
+</li>
+<li>
+<p><code>shift()</code>: Remove o primeiro elemento de um array e o retorna.</p>
+</li>
+<li>
+<p><code>slice(start, end)</code>: Seleciona uma parte de um array e retorna um novo array.</p>
+</li>
+<li>
+<p><code>some(callback(element, index, array), thisArg)</code>: Verifica se algum dos elementos do array passa em um teste especificado por uma função de retorno.</p>
+</li>
+<li>
+<p><code>sort(compareFunction)</code>: Ordena os elementos de um array.</p>
+</li>
+<li>
+<p><code>splice(start, deleteCount, item1, item2, ..., itemN)</code>: Adiciona ou remove elementos de um array.</p>
+</li>
+<li>
+<p><code>toString()</code>: Converte um array para uma string e retorna o resultado.</p>
+</li>
+<li>
+<p><code>unshift(element1, element2, ..., elementN)</code>: Adiciona novos elementos no início de um array e retorna o novo comprimento do array.</p>
+</li>
+<li>
+<p><code>valueOf()</code>: Retorna o valor primitivo de um array.</p>
+</li>
+</ol>
+<h2 id="o-operador-spread-em-javascript">O Operador Spread em JavaScript</h2>
+<ol>
+<li>Copiando elementos de um array:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> originalArray = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>];
+<span class="hljs-keyword">const</span> copiedArray = [...originalArray]; <span class="hljs-comment">// Cria uma cópia do originalArray</span>
+</code></pre>
+<ol start="2">
+<li>Concatenando arrays:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> array1 = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>];
+<span class="hljs-keyword">const</span> array2 = [<span class="hljs-number">4</span>, <span class="hljs-number">5</span>, <span class="hljs-number">6</span>];
+<span class="hljs-keyword">const</span> concatenatedArray = [...array1, ...array2]; <span class="hljs-comment">// Concatena os arrays</span>
+</code></pre>
+<ol start="3">
+<li>Passando argumentos para uma função:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">function</span> <span class="hljs-title function_">sum</span>(<span class="hljs-params">a, b, c</span>) {
+  <span class="hljs-keyword">return</span> a + b + c;
+}
+
+<span class="hljs-keyword">const</span> numbers = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>];
+<span class="hljs-keyword">const</span> result = <span class="hljs-title function_">sum</span>(...numbers); <span class="hljs-comment">// Equivalente a sum(1, 2, 3)</span>
+</code></pre>
+<ol start="4">
+<li>Clonando objetos:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> originalObject = { <span class="hljs-attr">name</span>: <span class="hljs-string">&quot;John&quot;</span>, <span class="hljs-attr">age</span>: <span class="hljs-number">30</span> };
+<span class="hljs-keyword">const</span> clonedObject = { ...originalObject }; <span class="hljs-comment">// Cria um clone do originalObject</span>
+</code></pre>
+<ol start="5">
+<li>Mesclando objetos:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> object1 = { <span class="hljs-attr">a</span>: <span class="hljs-number">1</span>, <span class="hljs-attr">b</span>: <span class="hljs-number">2</span> };
+<span class="hljs-keyword">const</span> object2 = { <span class="hljs-attr">c</span>: <span class="hljs-number">3</span>, <span class="hljs-attr">d</span>: <span class="hljs-number">4</span> };
+<span class="hljs-keyword">const</span> mergedObject = { ...object1, ...object2 }; <span class="hljs-comment">// Mescla os objetos</span>
+</code></pre>
+<ol start="6">
+<li>Criando arrays a partir de uma string:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> str = <span class="hljs-string">&quot;hello&quot;</span>;
+<span class="hljs-keyword">const</span> charArray = [...str]; <span class="hljs-comment">// Cria um array [&quot;h&quot;, &quot;e&quot;, &quot;l&quot;, &quot;l&quot;, &quot;o&quot;]</span>
+</code></pre>
+<h2 id="iteração-em-javascript">Iteração em JavaScript</h2>
+<ol>
+<li><strong>for...in</strong>:
+O <code>for...in</code> é usado para iterar sobre as propriedades enumeráveis de um objeto. Ele percorre as chaves (índices) de um objeto e pode ser utilizado tanto para listas quanto para dicionários (objetos). No entanto, é importante tomar cuidado com seu uso em listas, pois ele pode não percorrer os elementos na ordem desejada e pode incluir propriedades herdadas indesejadas.</li>
+</ol>
+<p>Exemplo de uso em objeto (dicionário):</p>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> person = {
+  <span class="hljs-attr">name</span>: <span class="hljs-string">&quot;John&quot;</span>,
+  <span class="hljs-attr">age</span>: <span class="hljs-number">30</span>,
+  <span class="hljs-attr">city</span>: <span class="hljs-string">&quot;New York&quot;</span>
+};
+<span class="hljs-keyword">for</span> (<span class="hljs-keyword">let</span> key <span class="hljs-keyword">in</span> person) {
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(key + <span class="hljs-string">&quot;: &quot;</span> + person[key]);
+}
+</code></pre>
+<ol start="2">
+<li><strong>for...of</strong>:
+O <code>for...of</code> foi introduzido no ECMAScript 6 (ES6) e é mais adequado para percorrer elementos de listas e conjuntos. Ele itera sobre os valores de objetos iteráveis, como arrays e Sets. O <code>for...of</code> não percorre as propriedades enumeráveis de um objeto, portanto, não é adequado para dicionários.</li>
+</ol>
+<p>Exemplo de uso em array (lista):</p>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> fruits = [<span class="hljs-string">&quot;apple&quot;</span>, <span class="hljs-string">&quot;banana&quot;</span>, <span class="hljs-string">&quot;orange&quot;</span>];
+<span class="hljs-keyword">for</span> (<span class="hljs-keyword">let</span> fruit <span class="hljs-keyword">of</span> fruits) {
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(fruit);
+}
+</code></pre>
+<p>Exemplo de uso em conjunto (Set):</p>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> numberSet = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Set</span>([<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>]);
+<span class="hljs-keyword">for</span> (<span class="hljs-keyword">let</span> num <span class="hljs-keyword">of</span> numberSet) {
+  <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(num);
+}
+</code></pre>
+<p>Em resumo:</p>
+<ul>
+<li>Use o <code>for...in</code> para percorrer as propriedades enumeráveis de objetos (dicionários).</li>
+<li>Use o <code>for...of</code> para percorrer elementos de listas e conjuntos (Sets).</li>
+</ul>
+<h2 id="pilha-em-javascript">Pilha em JavaScript</h2>
+<pre><code class="language-javascript"><span class="hljs-comment">// Criar uma pilha vazia</span>
+<span class="hljs-keyword">const</span> stack = [];
+<span class="hljs-comment">// Adicionar elementos na pilha (no topo)</span>
+stack.<span class="hljs-title function_">push</span>(<span class="hljs-number">1</span>);
+stack.<span class="hljs-title function_">push</span>(<span class="hljs-number">2</span>);
+stack.<span class="hljs-title function_">push</span>(<span class="hljs-number">3</span>);
+<span class="hljs-comment">// Remover o elemento do topo da pilha</span>
+<span class="hljs-keyword">const</span> removedElement = stack.<span class="hljs-title function_">pop</span>();
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(removedElement); <span class="hljs-comment">// Output: 3</span>
+<span class="hljs-comment">// Acessar o elemento do topo da pilha sem removê-lo</span>
+<span class="hljs-keyword">const</span> topElement = stack[stack.<span class="hljs-property">length</span> - <span class="hljs-number">1</span>];
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(topElement); <span class="hljs-comment">// Output: 2</span>
+<span class="hljs-comment">// Verificar se a pilha está vazia</span>
+<span class="hljs-keyword">const</span> isEmpty = stack.<span class="hljs-property">length</span> === <span class="hljs-number">0</span>;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(isEmpty); <span class="hljs-comment">// Output: false</span>
+<span class="hljs-comment">// Tamanho da pilha</span>
+<span class="hljs-keyword">const</span> size = stack.<span class="hljs-property">length</span>;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(size); <span class="hljs-comment">// Output: 2</span>
+<span class="hljs-comment">// Limpar a pilha, removendo todos os elementos</span>
+stack.<span class="hljs-property">length</span> = <span class="hljs-number">0</span>;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(stack); <span class="hljs-comment">// Output: []</span>
+</code></pre>
+<h2 id="fila-em-javascript">Fila em JavaScript</h2>
+<pre><code class="language-javascript"><span class="hljs-comment">// Criar uma fila vazia</span>
+<span class="hljs-keyword">const</span> queue = [];
+<span class="hljs-comment">// Adicionar elementos na fila (no final)</span>
+queue.<span class="hljs-title function_">push</span>(<span class="hljs-number">1</span>);
+queue.<span class="hljs-title function_">push</span>(<span class="hljs-number">2</span>);
+queue.<span class="hljs-title function_">push</span>(<span class="hljs-number">3</span>);
+<span class="hljs-comment">// Remover o elemento do início da fila</span>
+<span class="hljs-keyword">const</span> removedElement = queue.<span class="hljs-title function_">shift</span>();
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(removedElement); <span class="hljs-comment">// Output: 1</span>
+<span class="hljs-comment">// Acessar o elemento do início da fila sem removê-lo</span>
+<span class="hljs-keyword">const</span> frontElement = queue[<span class="hljs-number">0</span>];
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(frontElement); <span class="hljs-comment">// Output: 2</span>
+<span class="hljs-comment">// Verificar se a fila está vazia</span>
+<span class="hljs-keyword">const</span> isEmpty = queue.<span class="hljs-property">length</span> === <span class="hljs-number">0</span>;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(isEmpty); <span class="hljs-comment">// Output: false</span>
+<span class="hljs-comment">// Tamanho da fila</span>
+<span class="hljs-keyword">const</span> size = queue.<span class="hljs-property">length</span>;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(size); <span class="hljs-comment">// Output: 2</span>
+<span class="hljs-comment">// Limpar a fila, removendo todos os elementos</span>
+queue.<span class="hljs-property">length</span> = <span class="hljs-number">0</span>;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(queue); <span class="hljs-comment">// Output: []</span>
+</code></pre>
+<h2 id="dicionários-em-python">Dicionários em Python</h2>
+<p>Em Python, um dicionário é uma estrutura de dados que permite armazenar uma coleção de pares chave-valor. Cada chave em um dicionário deve ser única e imutável (como uma string, número ou tupla), enquanto os valores podem ser de qualquer tipo de dados. Os dicionários são representados por chaves <code>{}</code> e usam a sintaxe <code>chave: valor</code> para associar uma chave a um valor. Aqui estão algumas características importantes dos dicionários em Python:</p>
+<ol>
+<li>Criação de um dicionário:</li>
+</ol>
+<pre><code class="language-python">dicionario_vazio = {}
+dicionario_numeros = {<span class="hljs-string">&#x27;um&#x27;</span>: <span class="hljs-number">1</span>, <span class="hljs-string">&#x27;dois&#x27;</span>: <span class="hljs-number">2</span>, <span class="hljs-string">&#x27;três&#x27;</span>: <span class="hljs-number">3</span>}
+dicionario_misturado = {<span class="hljs-number">1</span>: <span class="hljs-string">&#x27;abc&#x27;</span>, <span class="hljs-string">&#x27;valor&#x27;</span>: <span class="hljs-literal">True</span>, (<span class="hljs-number">4</span>, <span class="hljs-number">5</span>): [<span class="hljs-number">6</span>, <span class="hljs-number">7</span>, <span class="hljs-number">8</span>]}
+</code></pre>
+<ol start="2">
+<li>Acesso aos elementos:
+Os valores dos dicionários são acessados usando as chaves associadas.</li>
+</ol>
+<pre><code class="language-python">dicionario = {<span class="hljs-string">&#x27;nome&#x27;</span>: <span class="hljs-string">&#x27;João&#x27;</span>, <span class="hljs-string">&#x27;idade&#x27;</span>: <span class="hljs-number">30</span>, <span class="hljs-string">&#x27;cidade&#x27;</span>: <span class="hljs-string">&#x27;São Paulo&#x27;</span>}
+<span class="hljs-built_in">print</span>(dicionario[<span class="hljs-string">&#x27;nome&#x27;</span>])    <span class="hljs-comment"># Saída: &#x27;João&#x27;</span>
+<span class="hljs-built_in">print</span>(dicionario[<span class="hljs-string">&#x27;idade&#x27;</span>])   <span class="hljs-comment"># Saída: 30</span>
+</code></pre>
+<ol start="3">
+<li>Modificação de elementos:
+Você pode modificar os valores associados às chaves existentes ou adicionar novos pares chave-valor.</li>
+</ol>
+<pre><code class="language-python">dicionario = {<span class="hljs-string">&#x27;nome&#x27;</span>: <span class="hljs-string">&#x27;João&#x27;</span>, <span class="hljs-string">&#x27;idade&#x27;</span>: <span class="hljs-number">30</span>}
+dicionario[<span class="hljs-string">&#x27;idade&#x27;</span>] = <span class="hljs-number">31</span>
+dicionario[<span class="hljs-string">&#x27;cidade&#x27;</span>] = <span class="hljs-string">&#x27;São Paulo&#x27;</span>
+<span class="hljs-built_in">print</span>(dicionario)   <span class="hljs-comment"># Saída: {&#x27;nome&#x27;: &#x27;João&#x27;, &#x27;idade&#x27;: 31, &#x27;cidade&#x27;: &#x27;São Paulo&#x27;}</span>
+</code></pre>
+<ol start="4">
+<li>Operações com dicionários:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-comment"># Verificar se uma chave existe no dicionário</span>
+dicionario = {<span class="hljs-string">&#x27;a&#x27;</span>: <span class="hljs-number">1</span>, <span class="hljs-string">&#x27;b&#x27;</span>: <span class="hljs-number">2</span>, <span class="hljs-string">&#x27;c&#x27;</span>: <span class="hljs-number">3</span>}
+<span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;a&#x27;</span> <span class="hljs-keyword">in</span> dicionario)    <span class="hljs-comment"># Saída: True</span>
+<span class="hljs-built_in">print</span>(<span class="hljs-string">&#x27;d&#x27;</span> <span class="hljs-keyword">in</span> dicionario)    <span class="hljs-comment"># Saída: False</span>
+
+<span class="hljs-comment"># Remover um par chave-valor do dicionário</span>
+dicionario = {<span class="hljs-string">&#x27;a&#x27;</span>: <span class="hljs-number">1</span>, <span class="hljs-string">&#x27;b&#x27;</span>: <span class="hljs-number">2</span>, <span class="hljs-string">&#x27;c&#x27;</span>: <span class="hljs-number">3</span>}
+<span class="hljs-keyword">del</span> dicionario[<span class="hljs-string">&#x27;b&#x27;</span>]
+<span class="hljs-built_in">print</span>(dicionario)   <span class="hljs-comment"># Saída: {&#x27;a&#x27;: 1, &#x27;c&#x27;: 3}</span>
+
+<span class="hljs-comment"># Tamanho do dicionário (número de pares chave-valor)</span>
+tamanho = <span class="hljs-built_in">len</span>(dicionario)
+<span class="hljs-built_in">print</span>(tamanho)      <span class="hljs-comment"># Saída: 2</span>
+</code></pre>
+<ol start="5">
+<li>Funções úteis para dicionários:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-comment"># Obter uma lista com todas as chaves do dicionário</span>
+dicionario = {<span class="hljs-string">&#x27;nome&#x27;</span>: <span class="hljs-string">&#x27;João&#x27;</span>, <span class="hljs-string">&#x27;idade&#x27;</span>: <span class="hljs-number">30</span>, <span class="hljs-string">&#x27;cidade&#x27;</span>: <span class="hljs-string">&#x27;São Paulo&#x27;</span>}
+chaves = dicionario.keys()
+<span class="hljs-built_in">print</span>(chaves)       <span class="hljs-comment"># Saída: dict_keys([&#x27;nome&#x27;, &#x27;idade&#x27;, &#x27;cidade&#x27;])</span>
+
+<span class="hljs-comment"># Obter uma lista com todos os valores do dicionário</span>
+valores = dicionario.values()
+<span class="hljs-built_in">print</span>(valores)      <span class="hljs-comment"># Saída: dict_values([&#x27;João&#x27;, 30, &#x27;São Paulo&#x27;])</span>
+
+<span class="hljs-comment"># Obter uma lista de tuplas com todos os pares chave-valor do dicionário</span>
+itens = dicionario.items()
+<span class="hljs-built_in">print</span>(itens)        <span class="hljs-comment"># Saída: dict_items([(&#x27;nome&#x27;, &#x27;João&#x27;), (&#x27;idade&#x27;, 30), (&#x27;cidade&#x27;, &#x27;São Paulo&#x27;)])</span>
+</code></pre>
+<p>Essas são algumas das funcionalidades básicas dos dicionários em Python. Os dicionários são amplamente usados para armazenar dados de forma associativa, onde cada valor é acessado através de uma chave significativa.</p>
+<h3 id="funções-de-dicionário-em-python">Funções de Dicionário em Python</h3>
+<ol>
+<li>
+<p><code>clear()</code>: Remove todos os itens do dicionário.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>copy()</code>: Retorna uma cópia superficial (shallow copy) do dicionário.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>fromkeys()</code>: Cria um dicionário a partir da sequência fornecida, usando os elementos da sequência como chaves e um valor padrão para todos os elementos.</p>
+<ul>
+<li>Parâmetros:
+<ul>
+<li><code>seq</code>: A sequência (lista, tupla, conjunto, etc.) cujos elementos serão usados como chaves do dicionário.</li>
+<li><code>value</code> (opcional): O valor padrão que será atribuído a todas as chaves do dicionário (padrão é None se não for fornecido).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>get()</code>: Retorna o valor associado à chave fornecida no dicionário.</p>
+<ul>
+<li>Parâmetros:
+<ul>
+<li><code>key</code>: A chave cujo valor associado você deseja obter.</li>
+<li><code>default</code> (opcional): O valor padrão retornado se a chave não estiver presente no dicionário (padrão é None se não for fornecido).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>items()</code>: Retorna uma lista de tuplas contendo todos os pares chave-valor do dicionário.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>keys()</code>: Retorna uma view object (visão) que exibe uma lista de todas as chaves do dicionário na ordem em que foram inseridas.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>pop()</code>: Remove e retorna o valor associado à chave fornecida.</p>
+<ul>
+<li>Parâmetros:
+<ul>
+<li><code>key</code>: A chave cujo valor associado você deseja remover e retornar.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>popitem()</code>: Remove e retorna um par chave-valor aleatório do dicionário.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>setdefault()</code>: Retorna o valor associado à chave, se a chave estiver presente no dicionário. Caso contrário, insere a chave com o valor fornecido e retorna o valor fornecido.</p>
+<ul>
+<li>Parâmetros:
+<ul>
+<li><code>key</code>: A chave que você deseja verificar e possivelmente inserir no dicionário.</li>
+<li><code>default</code> (opcional): O valor que será atribuído à chave se a chave não estiver presente no dicionário (padrão é None se não for fornecido).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>update()</code>: Atualiza o dicionário com os elementos de outro dicionário ou com pares chave-valor de um iterável (como uma lista de tuplas).</p>
+<ul>
+<li>Parâmetros:
+<ul>
+<li><code>other</code>: Um dicionário ou um iterável contendo pares chave-valor que serão adicionados ou atualizados no dicionário original.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>values()</code>: Retorna uma lista de todos os valores disponíveis no dicionário.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+</ol>
+<h2 id="conjuntos-em-python">Conjuntos em Python</h2>
+<ol>
+<li>Criação de um conjunto:</li>
+</ol>
+<pre><code class="language-python">conjunto_vazio = <span class="hljs-built_in">set</span>()
+conjunto_numeros = {<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>}
+conjunto_misturado = {<span class="hljs-number">1</span>, <span class="hljs-string">&quot;abc&quot;</span>, <span class="hljs-literal">True</span>, (<span class="hljs-number">6</span>, <span class="hljs-number">7</span>, <span class="hljs-number">8</span>)}
+</code></pre>
+<ol start="2">
+<li>Acesso a elementos:
+Os conjuntos não são indexados, portanto, você não pode acessar elementos individuais por índices.</li>
+</ol>
+<pre><code class="language-python">conjunto = {<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>, <span class="hljs-number">40</span>, <span class="hljs-number">50</span>}
+<span class="hljs-comment"># Não é possível acessar um elemento específico como conjunto[0]</span>
+</code></pre>
+<ol start="3">
+<li>Mutabilidade:
+Os conjuntos são mutáveis, o que significa que você pode adicionar e remover elementos após a sua criação.</li>
+</ol>
+<pre><code class="language-python">conjunto = {<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>}
+conjunto.add(<span class="hljs-number">4</span>)     <span class="hljs-comment"># Adiciona o elemento 4 ao conjunto</span>
+conjunto.remove(<span class="hljs-number">2</span>)  <span class="hljs-comment"># Remove o elemento 2 do conjunto</span>
+</code></pre>
+<ol start="4">
+<li>Operações com conjuntos:</li>
+</ol>
+<pre><code class="language-python">conjunto1 = {<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>}
+conjunto2 = {<span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>}
+<span class="hljs-comment"># União de conjuntos</span>
+uniao = conjunto1.union(conjunto2)
+<span class="hljs-comment"># ou usando o operador &quot;|&quot;</span>
+uniao = conjunto1 | conjunto2
+<span class="hljs-built_in">print</span>(uniao)   <span class="hljs-comment"># Saída: {1, 2, 3, 4, 5}</span>
+<span class="hljs-comment"># Interseção de conjuntos</span>
+intersecao = conjunto1.intersection(conjunto2)
+<span class="hljs-comment"># ou usando o operador &quot;&amp;&quot;</span>
+intersecao = conjunto1 &amp; conjunto2
+<span class="hljs-built_in">print</span>(intersecao)   <span class="hljs-comment"># Saída: {3}</span>
+<span class="hljs-comment"># Diferença entre conjuntos</span>
+diferenca = conjunto1.difference(conjunto2)
+<span class="hljs-comment"># ou usando o operador &quot;-&quot;</span>
+diferenca = conjunto1 - conjunto2
+<span class="hljs-built_in">print</span>(diferenca)   <span class="hljs-comment"># Saída: {1, 2}</span>
+<span class="hljs-comment"># Verificar se um conjunto é subconjunto de outro</span>
+subset = conjunto1.issubset(conjunto2)
+<span class="hljs-built_in">print</span>(subset)   <span class="hljs-comment"># Saída: False</span>
+</code></pre>
+<ol start="5">
+<li>Funções úteis para conjuntos:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-comment"># Tamanho do conjunto (número de elementos)</span>
+conjunto = {<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>}
+tamanho = <span class="hljs-built_in">len</span>(conjunto)
+<span class="hljs-built_in">print</span>(tamanho)   <span class="hljs-comment"># Saída: 5</span>
+<span class="hljs-comment"># Remover um elemento do conjunto usando discard (sem erro se o elemento não existir)</span>
+conjunto.discard(<span class="hljs-number">3</span>)
+<span class="hljs-built_in">print</span>(conjunto)  <span class="hljs-comment"># Saída: {1, 2, 4, 5}</span>
+<span class="hljs-comment"># Limpar o conjunto, removendo todos os elementos</span>
+conjunto.clear()
+<span class="hljs-built_in">print</span>(conjunto)  <span class="hljs-comment"># Saída: set()</span>
+</code></pre>
+<h3 id="funções-de-conjuntos-em-python">Funções de Conjuntos em Python</h3>
+<ol>
+<li>
+<p><code>add()</code>: Adiciona um elemento ao conjunto.</p>
+<ul>
+<li>Parâmetro: O valor do elemento que você deseja adicionar ao conjunto.</li>
+</ul>
+</li>
+<li>
+<p><code>clear()</code>: Remove todos os elementos do conjunto.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>copy()</code>: Retorna uma cópia do conjunto.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>difference()</code>: Retorna um conjunto contendo a diferença entre dois ou mais conjuntos.</p>
+<ul>
+<li>Parâmetros: Pode receber um ou mais conjuntos como argumentos.</li>
+</ul>
+</li>
+<li>
+<p><code>difference_update()</code>: Remove os itens deste conjunto que também estão presentes em outro conjunto especificado.</p>
+<ul>
+<li>Parâmetros: Pode receber um ou mais conjuntos como argumentos.</li>
+</ul>
+</li>
+<li>
+<p><code>discard()</code>: Remove o item especificado do conjunto, se estiver presente. Se o item não estiver no conjunto, não ocorre nenhum erro.</p>
+<ul>
+<li>Parâmetro: O valor do elemento que você deseja remover do conjunto.</li>
+</ul>
+</li>
+<li>
+<p><code>intersection()</code>: Retorna um conjunto que é a interseção de dois ou mais conjuntos.</p>
+<ul>
+<li>Parâmetros: Pode receber um ou mais conjuntos como argumentos.</li>
+</ul>
+</li>
+<li>
+<p><code>intersection_update()</code>: Remove os itens deste conjunto que não estão presentes em outros conjuntos especificados.</p>
+<ul>
+<li>Parâmetros: Pode receber um ou mais conjuntos como argumentos.</li>
+</ul>
+</li>
+<li>
+<p><code>isdisjoint()</code>: Retorna um valor booleano que indica se dois conjuntos têm interseção ou não (True se não tiverem interseção, False se tiverem interseção).</p>
+<ul>
+<li>Parâmetro: O conjunto com o qual você deseja verificar se o conjunto atual tem interseção.</li>
+</ul>
+</li>
+<li>
+<p><code>issubset()</code>: Retorna um valor booleano que indica se outro conjunto contém este conjunto (True se for subconjunto, False se não for).</p>
+<ul>
+<li>Parâmetro: O conjunto com o qual você deseja verificar se o conjunto atual é subconjunto.</li>
+</ul>
+</li>
+<li>
+<p><code>issuperset()</code>: Retorna um valor booleano que indica se este conjunto contém outro conjunto (True se for superconjunto, False se não for).</p>
+<ul>
+<li>Parâmetro: O conjunto com o qual você deseja verificar se o conjunto atual é superconjunto.</li>
+</ul>
+</li>
+<li>
+<p><code>pop()</code>: Remove e retorna um elemento aleatório do conjunto.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>remove()</code>: Remove o elemento especificado do conjunto.</p>
+<ul>
+<li>Parâmetro: O valor do elemento que você deseja remover do conjunto.</li>
+</ul>
+</li>
+<li>
+<p><code>symmetric_difference()</code>: Retorna um conjunto com as diferenças simétricas de dois conjuntos (elementos que estão em um conjunto ou no outro, mas não em ambos).</p>
+<ul>
+<li>Parâmetros: Pode receber um ou mais conjuntos como argumentos.</li>
+</ul>
+</li>
+<li>
+<p><code>symmetric_difference_update()</code>: Insere as diferenças simétricas deste conjunto e outro conjunto especificado.</p>
+<ul>
+<li>Parâmetros: Pode receber um ou mais conjuntos como argumentos.</li>
+</ul>
+</li>
+<li>
+<p><code>union()</code>: Retorna um conjunto contendo a união de dois ou mais conjuntos (todos os elementos únicos presentes em todos os conjuntos).</p>
+<ul>
+<li>Parâmetros: Pode receber um ou mais conjuntos como argumentos.</li>
+</ul>
+</li>
+<li>
+<p><code>update()</code>: Atualiza o conjunto com outro conjunto ou qualquer outro iterável (como uma lista, tupla, etc.).</p>
+<ul>
+<li>Parâmetro: O conjunto ou iterável que você deseja usar para atualizar o conjunto atual.</li>
+</ul>
+</li>
+</ol>
+<h2 id="tuplas-em-python">Tuplas em Python</h2>
+<ol>
+<li>Criação de uma tupla:</li>
+</ol>
+<pre><code class="language-python">tupla_vazia = ()
+tupla_numeros = (<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>)
+tupla_misturada = (<span class="hljs-number">1</span>, <span class="hljs-string">&quot;abc&quot;</span>, <span class="hljs-literal">True</span>, (<span class="hljs-number">6</span>, <span class="hljs-number">7</span>, <span class="hljs-number">8</span>))
+</code></pre>
+<ol start="2">
+<li>Acesso a elementos:
+Os elementos de uma tupla são acessados através de índices, da mesma forma que em listas.</li>
+</ol>
+<pre><code class="language-python">tupla = (<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>, <span class="hljs-number">40</span>, <span class="hljs-number">50</span>)
+<span class="hljs-built_in">print</span>(tupla[<span class="hljs-number">0</span>])   <span class="hljs-comment"># Saída: 10</span>
+<span class="hljs-built_in">print</span>(tupla[<span class="hljs-number">2</span>])   <span class="hljs-comment"># Saída: 30</span>
+<span class="hljs-built_in">print</span>(tupla[-<span class="hljs-number">1</span>])  <span class="hljs-comment"># Saída: 50 (índice negativo representa contagem a partir do final)</span>
+</code></pre>
+<ol start="3">
+<li>Imutabilidade:
+Uma vez criada, a tupla não pode ser alterada. Tentar modificar seus elementos resultará em um erro.</li>
+</ol>
+<pre><code class="language-python">tupla = (<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>)
+tupla[<span class="hljs-number">0</span>] = <span class="hljs-number">10</span>  <span class="hljs-comment"># Isso resultará em um TypeError, pois as tuplas são imutáveis</span>
+</code></pre>
+<ol start="4">
+<li>Operações com tuplas:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-comment"># Concatenação de tuplas</span>
+tupla1 = (<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>)
+tupla2 = (<span class="hljs-number">4</span>, <span class="hljs-number">5</span>, <span class="hljs-number">6</span>)
+tupla_concatenada = tupla1 + tupla2
+<span class="hljs-built_in">print</span>(tupla_concatenada)  <span class="hljs-comment"># Saída: (1, 2, 3, 4, 5, 6)</span>
+<span class="hljs-comment"># Repetição de tuplas</span>
+tupla_repetida = tupla1 * <span class="hljs-number">3</span>
+<span class="hljs-built_in">print</span>(tupla_repetida)  <span class="hljs-comment"># Saída: (1, 2, 3, 1, 2, 3, 1, 2, 3)</span>
+</code></pre>
+<ol start="5">
+<li>Funções úteis para tuplas:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-comment"># Tamanho da tupla</span>
+tupla = (<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>)
+tamanho = <span class="hljs-built_in">len</span>(tupla)
+<span class="hljs-built_in">print</span>(tamanho)  <span class="hljs-comment"># Saída: 5</span>
+<span class="hljs-comment"># Encontrar o índice de um elemento</span>
+indice = tupla.index(<span class="hljs-number">3</span>)
+<span class="hljs-built_in">print</span>(indice)   <span class="hljs-comment"># Saída: 2</span>
+<span class="hljs-comment"># Contar o número de ocorrências de um elemento</span>
+ocorrencias = tupla.count(<span class="hljs-number">2</span>)
+<span class="hljs-built_in">print</span>(ocorrencias)  <span class="hljs-comment"># Saída: 1</span>
+</code></pre>
+<h2 id="listas-em-python">Listas em Python</h2>
+<ol>
+<li>Criação de uma lista:</li>
+</ol>
+<pre><code class="language-python">lista_vazia = []
+lista_numeros = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>]
+lista_misturada = [<span class="hljs-number">1</span>, <span class="hljs-string">&quot;abc&quot;</span>, <span class="hljs-literal">True</span>, [<span class="hljs-number">6</span>, <span class="hljs-number">7</span>, <span class="hljs-number">8</span>]]
+</code></pre>
+<ol start="2">
+<li>Acesso a elementos:
+Os elementos da lista são acessados através de índices, onde o primeiro elemento tem índice 0, o segundo tem índice 1 e assim por diante.</li>
+</ol>
+<pre><code class="language-python">lista = [<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>, <span class="hljs-number">40</span>, <span class="hljs-number">50</span>]
+<span class="hljs-built_in">print</span>(lista[<span class="hljs-number">0</span>])   <span class="hljs-comment"># Saída: 10</span>
+<span class="hljs-built_in">print</span>(lista[<span class="hljs-number">2</span>])   <span class="hljs-comment"># Saída: 30</span>
+<span class="hljs-built_in">print</span>(lista[-<span class="hljs-number">1</span>])  <span class="hljs-comment"># Saída: 50 (índice negativo representa contagem a partir do final)</span>
+</code></pre>
+<ol start="3">
+<li>Modificação de elementos:
+Você pode modificar os elementos de uma lista atribuindo um novo valor ao índice correspondente.</li>
+</ol>
+<pre><code class="language-python">lista = [<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>]
+lista[<span class="hljs-number">1</span>] = <span class="hljs-number">25</span>
+<span class="hljs-built_in">print</span>(lista)   <span class="hljs-comment"># Saída: [10, 25, 30]</span>
+</code></pre>
+<ol start="4">
+<li>Operações com listas:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-comment"># Concatenação</span>
+lista1 = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>]
+lista2 = [<span class="hljs-number">4</span>, <span class="hljs-number">5</span>, <span class="hljs-number">6</span>]
+lista_concatenada = lista1 + lista2
+<span class="hljs-built_in">print</span>(lista_concatenada)  <span class="hljs-comment"># Saída: [1, 2, 3, 4, 5, 6]</span>
+<span class="hljs-comment"># Repetição</span>
+lista_repetida = lista1 * <span class="hljs-number">3</span>
+<span class="hljs-built_in">print</span>(lista_repetida)  <span class="hljs-comment"># Saída: [1, 2, 3, 1, 2, 3, 1, 2, 3]</span>
+</code></pre>
+<ol start="5">
+<li>Funções úteis para listas:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-comment"># Tamanho da lista</span>
+lista = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>]
+tamanho = <span class="hljs-built_in">len</span>(lista)
+<span class="hljs-built_in">print</span>(tamanho)  <span class="hljs-comment"># Saída: 5</span>
+<span class="hljs-comment"># Adicionar elementos ao final da lista</span>
+lista.append(<span class="hljs-number">6</span>)
+<span class="hljs-built_in">print</span>(lista)    <span class="hljs-comment"># Saída: [1, 2, 3, 4, 5, 6]</span>
+<span class="hljs-comment"># Remover elemento pelo valor</span>
+lista.remove(<span class="hljs-number">3</span>)
+<span class="hljs-built_in">print</span>(lista)    <span class="hljs-comment"># Saída: [1, 2, 4, 5, 6]</span>
+<span class="hljs-comment"># Índice do primeiro elemento encontrado</span>
+indice = lista.index(<span class="hljs-number">4</span>)
+<span class="hljs-built_in">print</span>(indice)   <span class="hljs-comment"># Saída: 2</span>
+<span class="hljs-comment"># Ordenar a lista em ordem crescente</span>
+lista.sort()
+<span class="hljs-built_in">print</span>(lista)    <span class="hljs-comment"># Saída: [1, 2, 4, 5, 6]</span>
+<span class="hljs-comment"># Inverter a ordem dos elementos</span>
+lista.reverse()
+<span class="hljs-built_in">print</span>(lista)    <span class="hljs-comment"># Saída: [6, 5, 4, 2, 1]</span>
+</code></pre>
+<p>Essas são apenas algumas das funcionalidades básicas das listas em Python. Elas são amplamente usadas devido à sua flexibilidade e facilidade de uso em várias aplicações.</p>
+<h3 id="funções-de-lista-em-python">Funções de Lista em Python</h3>
+<ol>
+<li>
+<p><code>append()</code>: Usado para adicionar elementos ao final da lista.</p>
+<ul>
+<li>Parâmetros: Recebe um único argumento, que é o elemento que você deseja adicionar à lista.</li>
+</ul>
+</li>
+<li>
+<p><code>copy()</code>: Retorna uma cópia superficial (shallow copy) da lista.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>clear()</code>: Remove todos os itens da lista.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>count()</code>: Conta o número de ocorrências de um elemento na lista.</p>
+<ul>
+<li>Parâmetro: Recebe um único argumento, que é o elemento cujas ocorrências você deseja contar.</li>
+</ul>
+</li>
+<li>
+<p><code>extend()</code>: Adiciona cada elemento de um iterável (como outra lista, tupla, conjunto, etc.) ao final da lista.</p>
+<ul>
+<li>Parâmetro: Recebe um único argumento, que é o iterável que você deseja adicionar à lista.</li>
+</ul>
+</li>
+<li>
+<p><code>index()</code>: Retorna o índice da primeira ocorrência de um elemento na lista.</p>
+<ul>
+<li>Parâmetros: Recebe um argumento obrigatório, que é o elemento cujo índice você deseja encontrar. Opcionalmente, você pode especificar os índices de início e fim da busca.</li>
+</ul>
+</li>
+<li>
+<p><code>insert()</code>: Insere um elemento em um índice específico na lista.</p>
+<ul>
+<li>Parâmetros: Recebe dois argumentos, o primeiro é o índice onde você deseja inserir o elemento, e o segundo é o elemento que você deseja inserir.</li>
+</ul>
+</li>
+<li>
+<p><code>pop()</code>: Remove e retorna o último elemento da lista ou o elemento no índice especificado.</p>
+<ul>
+<li>Parâmetro: Opcionalmente, você pode fornecer o índice do elemento que deseja remover e retornar.</li>
+</ul>
+</li>
+<li>
+<p><code>remove()</code>: Remove a primeira ocorrência de um elemento específico da lista.</p>
+<ul>
+<li>Parâmetro: Recebe um único argumento, que é o elemento que você deseja remover da lista.</li>
+</ul>
+</li>
+<li>
+<p><code>reverse()</code>: Inverte a ordem dos elementos da lista in-place (ou seja, alterando a própria lista).</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>sort()</code>: Classifica a lista em ordem ascendente, descendente ou com uma ordem personalizada definida por uma função.</p>
+<ul>
+<li>Parâmetros:
+<ul>
+<li><code>key</code> (opcional): Uma função que define a ordem personalizada dos elementos.</li>
+<li><code>reverse</code> (opcional): Um booleano para especificar se a lista deve ser classificada em ordem decrescente (True) ou não (False).</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>min()</code>: Retorna o menor elemento da lista.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>max()</code>: Retorna o maior elemento da lista.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+</ol>
+<h2 id="funções-comuns-de-sequências-em-python">Funções Comuns de Sequências em Python</h2>
+<p>Aqui está uma descrição detalhada das funções comuns de sequências em Python, juntamente com seus parâmetros e notas:</p>
+<ol>
+<li>
+<p><code>x in s</code>: Retorna True se um item de <code>s</code> é igual a <code>x</code>, caso contrário, retorna False.</p>
+<ul>
+<li>Parâmetros: <code>x</code>: O valor que você deseja verificar se está presente na sequência <code>s</code>.</li>
+</ul>
+</li>
+<li>
+<p><code>x not in s</code>: Retorna False se um item de <code>s</code> é igual a <code>x</code>, caso contrário, retorna True.</p>
+<ul>
+<li>Parâmetros: <code>x</code>: O valor que você deseja verificar se não está presente na sequência <code>s</code>.</li>
+</ul>
+</li>
+<li>
+<p><code>s + t</code>: Concatenação da sequência <code>s</code> com a sequência <code>t</code>.</p>
+<ul>
+<li>Parâmetros: <code>s</code>: A primeira sequência que você deseja concatenar.
+<code>t</code>: A segunda sequência que você deseja concatenar.</li>
+</ul>
+</li>
+<li>
+<p><code>s * n or n * s</code>: Retorna uma nova sequência que é equivalente a adicionar a sequência <code>s</code> a si mesma <code>n</code> vezes.</p>
+<ul>
+<li>Parâmetros: <code>s</code>: A sequência que você deseja repetir.
+<code>n</code>: O número de vezes que você deseja repetir a sequência.</li>
+</ul>
+</li>
+<li>
+<p><code>s[i]</code>: Retorna o item na posição <code>i</code> da sequência <code>s</code>.</p>
+<ul>
+<li>Parâmetros: <code>i</code>: O índice do item que você deseja obter da sequência.</li>
+</ul>
+</li>
+<li>
+<p><code>s[i:j]</code>: Retorna uma fatia (slice) da sequência <code>s</code> do índice <code>i</code> até o índice <code>j-1</code>.</p>
+<ul>
+<li>Parâmetros: <code>i</code>: O índice de início da fatia.
+<code>j</code>: O índice de parada (não inclusivo) da fatia.</li>
+</ul>
+</li>
+<li>
+<p><code>s[i:j:k]</code>: Retorna uma fatia (slice) da sequência <code>s</code> do índice <code>i</code> até o índice <code>j-1</code> com passo <code>k</code>.</p>
+<ul>
+<li>Parâmetros: <code>i</code>: O índice de início da fatia.
+<code>j</code>: O índice de parada (não inclusivo) da fatia.
+<code>k</code>: O valor do passo que determina o intervalo entre os elementos da fatia.</li>
+</ul>
+</li>
+<li>
+<p><code>len(s)</code>: Retorna o comprimento da sequência <code>s</code>.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>min(s)</code>: Retorna o menor item da sequência <code>s</code>.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>max(s)</code>: Retorna o maior item da sequência <code>s</code>.</p>
+<ul>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p><code>s.index(x[, i[, j]])</code>: Retorna o índice da primeira ocorrência de <code>x</code> na sequência <code>s</code>, a partir do índice <code>i</code> e antes do índice <code>j</code>.</p>
+<ul>
+<li>Parâmetros: <code>x</code>: O valor que você deseja encontrar na sequência.
+<code>i</code> (opcional): O índice inicial para iniciar a busca (padrão é 0).
+<code>j</code> (opcional): O índice final para encerrar a busca (padrão é o comprimento da sequência).</li>
+</ul>
+</li>
+<li>
+<p><code>s.count(x)</code>: Retorna o número total de ocorrências de <code>x</code> na sequência <code>s</code>.</p>
+<ul>
+<li>Parâmetros: <code>x</code>: O valor cujo número de ocorrências você deseja contar na sequência.</li>
+</ul>
+</li>
+</ol>
+<p>Notas:</p>
+<ul>
+<li>(1): <code>in</code> e <code>not in</code> são operadores de pertencimento, aplicados para verificar se um valor está ou não presente na sequência.</li>
+<li>(2): A multiplicação de uma sequência por um número inteiro cria uma nova sequência repetindo a original várias vezes.</li>
+<li>(3): O acesso a elementos individuais da sequência ou a criação de uma fatia é feito usando colchetes <code>[]</code>.</li>
+<li>(4): Quando usando uma fatia, o índice de parada é exclusivo, ou seja, o elemento no índice <code>j</code> não está incluído na fatia.</li>
+<li>(5): O parâmetro de passo <code>k</code> determina o intervalo entre os elementos da fatia. Se omitido, o padrão é 1.</li>
+<li>(6): A concatenação de sequências é feita usando o operador <code>+</code>.</li>
+<li>(7): A multiplicação de sequências é feita usando o operador <code>*</code>.</li>
+<li>(8): Se <code>x</code> não estiver presente na sequência, uma exceção <code>ValueError</code> será lançada.</li>
+</ul>
+<h2 id="compreensão-de-listas-em-python">Compreensão de Listas em Python</h2>
+<p>List comprehension é uma forma concisa e elegante de criar listas em Python.</p>
+<pre><code class="language-python">[expressão <span class="hljs-keyword">for</span> elemento <span class="hljs-keyword">in</span> <span class="hljs-built_in">iter</span>ável <span class="hljs-keyword">if</span> condição]
+</code></pre>
+<ul>
+<li><code>expressão</code>: A expressão que será aplicada a cada elemento do iterável para criar os elementos da lista resultante.</li>
+<li><code>elemento</code>: A variável que representa cada elemento do iterável.</li>
+<li><code>iterável</code>: O iterável (lista, tupla, conjunto, etc.) que será percorrido para criar a lista.</li>
+<li><code>condição</code> (opcional): Uma expressão condicional que pode ser usada para filtrar elementos com base em uma condição.</li>
+</ul>
+<p>A list comprehension é equivalente a escrever um loop for e, em seguida, usar o método <code>append()</code> para adicionar elementos a uma lista.</p>
+<pre><code class="language-python">quadrados = [x**<span class="hljs-number">2</span> <span class="hljs-keyword">for</span> x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">10</span>)]
+<span class="hljs-built_in">print</span>(quadrados)  <span class="hljs-comment"># Saída: [0, 1, 4, 9, 16, 25, 36, 49, 64, 81]</span>
+</code></pre>
+<p>Aqui estão alguns exemplos adicionais de list comprehension:</p>
+<ol>
+<li>Criando uma lista de números pares de 0 a 9:</li>
+</ol>
+<pre><code class="language-python">pares = [x <span class="hljs-keyword">for</span> x <span class="hljs-keyword">in</span> <span class="hljs-built_in">range</span>(<span class="hljs-number">10</span>) <span class="hljs-keyword">if</span> x % <span class="hljs-number">2</span> == <span class="hljs-number">0</span>]
+<span class="hljs-built_in">print</span>(pares)  <span class="hljs-comment"># Saída: [0, 2, 4, 6, 8]</span>
+</code></pre>
+<ol start="2">
+<li>Criando uma lista de palavras em maiúsculas a partir de uma lista de strings:</li>
+</ol>
+<pre><code class="language-python">frutas = [<span class="hljs-string">&#x27;maçã&#x27;</span>, <span class="hljs-string">&#x27;banana&#x27;</span>, <span class="hljs-string">&#x27;laranja&#x27;</span>, <span class="hljs-string">&#x27;uva&#x27;</span>]
+frutas_maiusculas = [fruta.upper() <span class="hljs-keyword">for</span> fruta <span class="hljs-keyword">in</span> frutas]
+<span class="hljs-built_in">print</span>(frutas_maiusculas)  <span class="hljs-comment"># Saída: [&#x27;MAÇÃ&#x27;, &#x27;BANANA&#x27;, &#x27;LARANJA&#x27;, &#x27;UVA&#x27;]</span>
+</code></pre>
+<ol start="3">
+<li>Criando uma lista de tuplas com elementos de duas listas:</li>
+</ol>
+<pre><code class="language-python">numeros = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>]
+letras = [<span class="hljs-string">&#x27;a&#x27;</span>, <span class="hljs-string">&#x27;b&#x27;</span>, <span class="hljs-string">&#x27;c&#x27;</span>]
+combinacoes = [(n, l) <span class="hljs-keyword">for</span> n <span class="hljs-keyword">in</span> numeros <span class="hljs-keyword">for</span> l <span class="hljs-keyword">in</span> letras]
+<span class="hljs-built_in">print</span>(combinacoes)  <span class="hljs-comment"># Saída: [(1, &#x27;a&#x27;), (1, &#x27;b&#x27;), (1, &#x27;c&#x27;), (2, &#x27;a&#x27;), (2, &#x27;b&#x27;), (2, &#x27;c&#x27;), (3, &#x27;a&#x27;), (3, &#x27;b&#x27;), (3, &#x27;c&#x27;)]</span>
+</code></pre>
+<h2 id="o-operador-spread-em-python">O Operador Spread em Python</h2>
+<ol>
+<li>Desempacotamento de listas e tuplas:
+O operador spread pode ser usado para desempacotar os elementos de uma lista ou tupla e atribuí-los a variáveis individuais:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-comment"># Desempacotamento de uma lista</span>
+my_list = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>]
+a, b, c = my_list
+<span class="hljs-built_in">print</span>(a)  <span class="hljs-comment"># Output: 1</span>
+<span class="hljs-built_in">print</span>(b)  <span class="hljs-comment"># Output: 2</span>
+<span class="hljs-built_in">print</span>(c)  <span class="hljs-comment"># Output: 3</span>
+<span class="hljs-comment"># Desempacotamento de uma tupla</span>
+my_tuple = (<span class="hljs-number">4</span>, <span class="hljs-number">5</span>, <span class="hljs-number">6</span>)
+x, y, z = my_tuple
+<span class="hljs-built_in">print</span>(x)  <span class="hljs-comment"># Output: 4</span>
+<span class="hljs-built_in">print</span>(y)  <span class="hljs-comment"># Output: 5</span>
+<span class="hljs-built_in">print</span>(z)  <span class="hljs-comment"># Output: 6</span>
+</code></pre>
+<ol start="2">
+<li>Unindo listas:
+Você pode usar o operador spread para unir elementos de várias listas em uma única lista:</li>
+</ol>
+<pre><code class="language-python">list1 = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>]
+list2 = [<span class="hljs-number">4</span>, <span class="hljs-number">5</span>, <span class="hljs-number">6</span>]
+merged_list = [*list1, *list2]
+<span class="hljs-built_in">print</span>(merged_list)  <span class="hljs-comment"># Output: [1, 2, 3, 4, 5, 6]</span>
+</code></pre>
+<ol start="3">
+<li>Criando cópias de listas e dicionários:
+O operador spread também permite criar cópias de listas e dicionários:</li>
+</ol>
+<pre><code class="language-python">original_list = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>]
+copied_list = [*original_list]
+<span class="hljs-built_in">print</span>(copied_list)  <span class="hljs-comment"># Output: [1, 2, 3]</span>
+
+original_dict = {<span class="hljs-string">&#x27;a&#x27;</span>: <span class="hljs-number">1</span>, <span class="hljs-string">&#x27;b&#x27;</span>: <span class="hljs-number">2</span>}
+copied_dict = {**original_dict}
+<span class="hljs-built_in">print</span>(copied_dict)  <span class="hljs-comment"># Output: {&#x27;a&#x27;: 1, &#x27;b&#x27;: 2}</span>
+</code></pre>
+<ol start="4">
+<li>Passando argumentos para funções:
+O operador spread pode ser usado para passar elementos de uma lista ou tupla como argumentos para uma função:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">sum_numbers</span>(<span class="hljs-params">a, b, c</span>):
+    <span class="hljs-keyword">return</span> a + b + c
+
+numbers = [<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>]
+result = sum_numbers(*numbers)
+<span class="hljs-built_in">print</span>(result)  <span class="hljs-comment"># Output: 6</span>
+</code></pre>
+<ol start="5">
+<li>Unindo dicionários:
+O operador spread pode ser usado para unir dicionários:</li>
+</ol>
+<pre><code class="language-python">dict1 = {<span class="hljs-string">&#x27;a&#x27;</span>: <span class="hljs-number">1</span>, <span class="hljs-string">&#x27;b&#x27;</span>: <span class="hljs-number">2</span>}
+dict2 = {<span class="hljs-string">&#x27;c&#x27;</span>: <span class="hljs-number">3</span>, <span class="hljs-string">&#x27;d&#x27;</span>: <span class="hljs-number">4</span>}
+merged_dict = {**dict1, **dict2}
+<span class="hljs-built_in">print</span>(merged_dict)  <span class="hljs-comment"># Output: {&#x27;a&#x27;: 1, &#x27;b&#x27;: 2, &#x27;c&#x27;: 3, &#x27;d&#x27;: 4}</span>
+</code></pre>
+<h2 id="pilha-em-python">Pilha em Python</h2>
+<pre><code class="language-python"><span class="hljs-comment"># Criar uma pilha vazia</span>
+stack = []
+
+<span class="hljs-comment"># Empilhar elementos</span>
+stack.append(<span class="hljs-number">1</span>)
+stack.append(<span class="hljs-number">2</span>)
+stack.append(<span class="hljs-number">3</span>)
+
+<span class="hljs-comment"># Desempilhar elemento</span>
+removed_element = stack.pop()
+<span class="hljs-built_in">print</span>(removed_element)  <span class="hljs-comment"># Output: 3</span>
+
+<span class="hljs-comment"># Acessar o elemento do topo da pilha sem desempilhar</span>
+top_element = stack[-<span class="hljs-number">1</span>]
+<span class="hljs-built_in">print</span>(top_element)  <span class="hljs-comment"># Output: 2</span>
+
+<span class="hljs-comment"># Verificar se a pilha está vazia</span>
+is_empty = <span class="hljs-built_in">len</span>(stack) == <span class="hljs-number">0</span>
+<span class="hljs-built_in">print</span>(is_empty)  <span class="hljs-comment"># Output: False</span>
+
+<span class="hljs-comment"># Tamanho da pilha</span>
+size = <span class="hljs-built_in">len</span>(stack)
+<span class="hljs-built_in">print</span>(size)  <span class="hljs-comment"># Output: 2</span>
+
+<span class="hljs-comment"># Limpar a pilha, removendo todos os elementos</span>
+stack.clear()
+<span class="hljs-built_in">print</span>(stack)  <span class="hljs-comment"># Output: []</span>
+</code></pre>
+<h2 id="fila-em-python">Fila em Python</h2>
+<pre><code class="language-python"><span class="hljs-keyword">from</span> collections <span class="hljs-keyword">import</span> deque
+
+<span class="hljs-comment"># Criar uma fila vazia</span>
+fila = deque()
+
+<span class="hljs-comment"># Adicionar elementos na fila</span>
+fila.append(<span class="hljs-number">1</span>)
+fila.append(<span class="hljs-number">2</span>)
+fila.append(<span class="hljs-number">3</span>)
+
+<span class="hljs-comment"># Remover elementos do início da fila</span>
+elemento_removido = fila.popleft()
+<span class="hljs-built_in">print</span>(elemento_removido)  <span class="hljs-comment"># Output: 1</span>
+
+<span class="hljs-comment"># Acessar o elemento do início da fila sem removê-lo</span>
+primeiro_elemento = fila[<span class="hljs-number">0</span>]
+<span class="hljs-built_in">print</span>(primeiro_elemento)  <span class="hljs-comment"># Output: 2</span>
+
+<span class="hljs-comment"># Verificar se a fila está vazia</span>
+esta_vazia = <span class="hljs-built_in">len</span>(fila) == <span class="hljs-number">0</span>
+<span class="hljs-built_in">print</span>(esta_vazia)  <span class="hljs-comment"># Output: False</span>
+
+<span class="hljs-comment"># Tamanho da fila</span>
+tamanho = <span class="hljs-built_in">len</span>(fila)
+<span class="hljs-built_in">print</span>(tamanho)  <span class="hljs-comment"># Output: 2</span>
+
+<span class="hljs-comment"># Limpar a fila, removendo todos os elementos</span>
+fila.clear()
+<span class="hljs-built_in">print</span>(fila)  <span class="hljs-comment"># Output: deque([])</span>
+</code></pre>
+<h2 id="collections-em-python">Collections em Python</h2>
+<ol>
+<li>
+<p><code>namedtuple()</code>: Esta é uma função de fábrica para criar subclasses de tuplas com campos nomeados. Ela permite definir uma estrutura semelhante a classes simples para suas tuplas, onde cada campo tem um nome e pode ser acessado usando notação de ponto. Isso é particularmente útil quando você deseja criar estruturas de dados imutáveis e leves com atributos nomeados.</p>
+</li>
+<li>
+<p><code>deque</code>: Este é um contêiner semelhante a uma lista que fornece inserções e remoções rápidas em ambas as extremidades. &quot;deque&quot; significa &quot;fila de dupla extremidade&quot;. Ele permite a inserção e remoção eficiente de elementos em ambas as extremidades da fila, tornando-o uma escolha adequada para implementar filas e pilhas.</p>
+</li>
+<li>
+<p><code>ChainMap</code>: Esta é uma classe semelhante a um dicionário que cria uma visão única de várias estruturas de mapeamento (dicionários). Ela permite combinar vários dicionários em uma única visão lógica sem criar um novo dicionário. Quando você procura uma chave no ChainMap, ele pesquisa cada dicionário subjacente na ordem até encontrar a chave.</p>
+</li>
+<li>
+<p><code>Counter</code>: Esta é uma subclasse de dicionário projetada especificamente para contar objetos hasháveis. Ela permite contar eficientemente as ocorrências de elementos em uma coleção, criando um mapeamento entre o elemento e sua contagem. É comumente usado para realizar análise de frequência em dados.</p>
+</li>
+<li>
+<p><code>OrderedDict</code>: Esta é uma subclasse de dicionário que lembra a ordem em que as entradas foram adicionadas. Ao contrário de um dicionário comum, um OrderedDict mantém a ordem de inserção, o que significa que, quando você itera sobre ele, os itens são retornados na ordem em que foram adicionados.</p>
+</li>
+<li>
+<p><code>defaultdict</code>: Esta é uma subclasse de dicionário que chama uma função de fábrica para fornecer valores padrão quando uma chave é acessada e não está presente no dicionário. Ao criar um defaultdict, você especifica um valor padrão que será retornado se uma chave não for encontrada, podendo ser um tipo incorporado ou uma função chamável (como uma função).</p>
+</li>
+<li>
+<p><code>UserDict</code>: Esta é uma estrutura que envolve objetos de dicionário e fornece uma maneira mais fácil de criar subclasses de dicionários. Ela permite criar classes personalizadas semelhantes a dicionários, subclasseando <code>UserDict</code> em vez de subclassear diretamente o dicionário incorporado. Isso pode tornar mais simples substituir métodos específicos e personalizar o comportamento da sua classe personalizada de dicionário.</p>
+</li>
+<li>
+<p><code>UserList</code>: Esta é uma estrutura que envolve objetos de lista e fornece uma maneira mais fácil de criar subclasses de listas. Semelhante ao <code>UserDict</code>, ela permite criar classes personalizadas semelhantes a listas, subclasseando <code>UserList</code> em vez de subclassear diretamente a lista incorporada.</p>
+</li>
+<li>
+<p><code>UserString</code>: Esta é uma estrutura que envolve objetos de string e fornece uma maneira mais fácil de criar subclasses de strings. Assim como <code>UserDict</code> e <code>UserList</code>, ela permite criar classes personalizadas semelhantes a strings, subclasseando <code>UserString</code> em vez de subclassear diretamente a string incorporada.</p>
+</li>
+</ol>
+<h2 id="arrays-em-java">Arrays em Java</h2>
+<ol>
+<li>Declaração de um array:</li>
+</ol>
+<pre><code class="language-java">tipo[] nomeDoArray; <span class="hljs-comment">// Sintaxe mais comum</span>
+tipo nomeDoArray[]; <span class="hljs-comment">// Alternativa válida</span>
+</code></pre>
+<ol start="2">
+<li>Inicialização de um array:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-comment">// Forma 1: Com tamanho e valores específicos</span>
+<span class="hljs-type">int</span>[] numeros = <span class="hljs-keyword">new</span> <span class="hljs-title class_">int</span>[]{<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>};
+<span class="hljs-comment">// Forma 2: Com tamanho específico, mas valores inicializados com valor padrão</span>
+<span class="hljs-type">int</span>[] idades = <span class="hljs-keyword">new</span> <span class="hljs-title class_">int</span>[<span class="hljs-number">5</span>]; <span class="hljs-comment">// Por padrão, todos os elementos são inicializados com 0</span>
+<span class="hljs-comment">// Forma 3: Com valores específicos, a declaração pode ser simplificada</span>
+<span class="hljs-type">int</span>[] outroArray = {<span class="hljs-number">10</span>, <span class="hljs-number">20</span>, <span class="hljs-number">30</span>};
+</code></pre>
+<ol start="3">
+<li>Acessando elementos do array:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">int</span>[] numeros = {<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>};
+<span class="hljs-type">int</span> <span class="hljs-variable">primeiroElemento</span> <span class="hljs-operator">=</span> numeros[<span class="hljs-number">0</span>]; <span class="hljs-comment">// Acessa o primeiro elemento (valor 1)</span>
+<span class="hljs-type">int</span> <span class="hljs-variable">terceiroElemento</span> <span class="hljs-operator">=</span> numeros[<span class="hljs-number">2</span>]; <span class="hljs-comment">// Acessa o terceiro elemento (valor 3)</span>
+</code></pre>
+<ol start="4">
+<li>Alterando elementos do array:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">int</span>[] numeros = {<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>};
+numeros[<span class="hljs-number">1</span>] = <span class="hljs-number">10</span>; <span class="hljs-comment">// Altera o segundo elemento para o valor 10</span>
+</code></pre>
+<ol start="5">
+<li>Obtendo o tamanho do array:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">int</span>[] numeros = {<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>};
+<span class="hljs-type">int</span> <span class="hljs-variable">tamanho</span> <span class="hljs-operator">=</span> numeros.length; <span class="hljs-comment">// Retorna o tamanho do array (neste caso, 5)</span>
+</code></pre>
+<ol start="6">
+<li>Percorrendo elementos do array:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">int</span>[] numeros = {<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>, <span class="hljs-number">4</span>, <span class="hljs-number">5</span>};
+<span class="hljs-keyword">for</span> (<span class="hljs-type">int</span> <span class="hljs-variable">i</span> <span class="hljs-operator">=</span> <span class="hljs-number">0</span>; i &lt; numeros.length; i++) {
+    System.out.println(numeros[i]);
+}
+<span class="hljs-comment">// A partir do Java 5, pode-se utilizar o loop for-each (for-each loop):</span>
+<span class="hljs-keyword">for</span> (<span class="hljs-type">int</span> numero : numeros) {
+    System.out.println(numero);
+}
+</code></pre>
+<ol start="7">
+<li>Arrays multidimensionais:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">int</span>[][] matriz = <span class="hljs-keyword">new</span> <span class="hljs-title class_">int</span>[<span class="hljs-number">3</span>][<span class="hljs-number">3</span>]; <span class="hljs-comment">// Matriz 3x3 inicializada com valores padrão (0)</span>
+<span class="hljs-type">int</span>[][] outraMatriz = {{<span class="hljs-number">1</span>, <span class="hljs-number">2</span>, <span class="hljs-number">3</span>}, {<span class="hljs-number">4</span>, <span class="hljs-number">5</span>, <span class="hljs-number">6</span>}, {<span class="hljs-number">7</span>, <span class="hljs-number">8</span>, <span class="hljs-number">9</span>}}; <span class="hljs-comment">// Matriz 3x3 com valores específicos</span>
+</code></pre>
+<h3 id="funçoes-com-arrays-em-java">Funçoes com Arrays em Java</h3>
+<p>A classe <code>Arrays</code> em Java é uma classe utilitária que fornece várias funções para manipulação e operações em arrays. Abaixo estão as descrições concisas e os parâmetros de cada função da classe <code>Arrays</code> listada:</p>
+<ol>
+<li>
+<p><code>asList(T... a)</code></p>
+<ul>
+<li>Descrição: Retorna uma lista de tamanho fixo apoiada pelo array especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: Uma série de elementos do tipo <code>T</code>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>binarySearch(byte[] a, byte key)</code> / <code>binarySearch(byte[] a, int fromIndex, int toIndex, byte key)</code></p>
+<ul>
+<li>Descrição: Executa uma pesquisa binária no array especificado para o valor de chave.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de bytes.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para iniciar a pesquisa.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a pesquisa.</li>
+<li><code>key</code>: O valor de chave a ser procurado no array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>binarySearch(char[] a, char key)</code> / <code>binarySearch(char[] a, int fromIndex, int toIndex, char key)</code></p>
+<ul>
+<li>Descrição: Executa uma pesquisa binária no array especificado para o valor de chave.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de caracteres.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para iniciar a pesquisa.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a pesquisa.</li>
+<li><code>key</code>: O valor de chave a ser procurado no array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>binarySearch(double[] a, double key)</code> / <code>binarySearch(double[] a, int fromIndex, int toIndex, double key)</code></p>
+<ul>
+<li>Descrição: Executa uma pesquisa binária no array especificado para o valor de chave.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de valores do tipo <code>double</code>.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para iniciar a pesquisa.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a pesquisa.</li>
+<li><code>key</code>: O valor de chave a ser procurado no array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>binarySearch(float[] a, float key)</code> / <code>binarySearch(float[] a, int fromIndex, int toIndex, float key)</code></p>
+<ul>
+<li>Descrição: Executa uma pesquisa binária no array especificado para o valor de chave.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de valores do tipo <code>float</code>.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para iniciar a pesquisa.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a pesquisa.</li>
+<li><code>key</code>: O valor de chave a ser procurado no array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>binarySearch(int[] a, int key)</code> / <code>binarySearch(int[] a, int fromIndex, int toIndex, int key)</code></p>
+<ul>
+<li>Descrição: Executa uma pesquisa binária no array especificado para o valor de chave.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de valores do tipo <code>int</code>.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para iniciar a pesquisa.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a pesquisa.</li>
+<li><code>key</code>: O valor de chave a ser procurado no array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>binarySearch(long[] a, long key)</code> / <code>binarySearch(long[] a, int fromIndex, int toIndex, long key)</code></p>
+<ul>
+<li>Descrição: Executa uma pesquisa binária no array especificado para o valor de chave.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de valores do tipo <code>long</code>.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para iniciar a pesquisa.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a pesquisa.</li>
+<li><code>key</code>: O valor de chave a ser procurado no array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>binarySearch(Object[] a, Object key)</code> / <code>binarySearch(Object[] a, int fromIndex, int toIndex, Object key)</code></p>
+<ul>
+<li>Descrição: Executa uma pesquisa binária no array especificado para o valor de chave.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de objetos.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para iniciar a pesquisa.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a pesquisa.</li>
+<li><code>key</code>: O valor de chave a ser procurado no array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>binarySearch(short[] a, short key)</code> / <code>binarySearch(short[] a, int fromIndex, int toIndex, short key)</code></p>
+<ul>
+<li>Descrição: Executa uma pesquisa binária no array especificado para o valor de chave.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de valores do tipo <code>short</code>.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para iniciar a pesquisa.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a pesquisa.</li>
+<li><code>key</code>: O valor de chave a ser procurado no array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>binarySearch(T[] a, T key, Comparator&lt;? super T&gt; c)</code> / <code>binarySearch(T[] a, int fromIndex, int toIndex, T key, Comparator&lt;? super T&gt; c)</code></p>
+<ul>
+<li>Descrição: Executa uma pesquisa binária no array especificado para o valor de chave usando um comparador personalizado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de objetos do tipo <code>T</code>.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para iniciar a pesquisa.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a pesquisa.</li>
+<li><code>key</code>: O valor de chave a ser procurado no array.</li>
+<li><code>c</code>: O comparador usado para ordenar o array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>copyOf(boolean[] original, int newLength)</code> / <code>copyOf(byte[] original, int newLength)</code> / <code>copyOf(char[] original, int newLength)</code> / <code>copyOf(double[] original, int newLength)</code> / <code>copyOf(float[] original, int newLength)</code> / <code>copyOf(int[] original, int newLength)</code> / <code>copyOf(long[] original, int newLength)</code> / <code>copyOf(short[] original, int newLength)</code> / <code>copyOf(T[] original, int newLength)</code></p>
+<ul>
+<li>Descrição: Copia o array original, truncando ou preenchendo com valores padrão se necessário, de modo que a cópia tenha o comprimento especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>original</code>: O array original a ser copiado.</li>
+<li><code>newLength</code>: O novo comprimento da cópia.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>copyOfRange(boolean[] original, int from, int to)</code> / <code>copyOfRange(byte[] original, int from, int to)</code> / <code>copyOfRange(char[] original, int from, int to)</code> / `copyOfRange(double[] original,</p>
+</li>
+</ol>
+<p>int from, int to)<code>/</code>copyOfRange(float[] original, int from, int to)<code>/</code>copyOfRange(int[] original, int from, int to)<code>/</code>copyOfRange(long[] original, int from, int to)<code>/</code>copyOfRange(short[] original, int from, int to)<code>/</code>copyOfRange(T[] original, int from, int to)<code>    - Descrição: Copia o intervalo especificado do array original em um novo array.     - Parâmetros:       -</code>original<code>: O array original a ser copiado.       - </code>from<code>: O índice inicial do intervalo.       - </code>to`: O índice final do intervalo (exclusivo).</p>
+<ol start="13">
+<li>
+<p><code>deepEquals(Object[] a1, Object[] a2)</code></p>
+<ul>
+<li>Descrição: Retorna true se os dois arrays especificados forem profundamente iguais um ao outro.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a1</code>: O primeiro array de objetos.</li>
+<li><code>a2</code>: O segundo array de objetos.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>deepHashCode(Object[] a)</code></p>
+<ul>
+<li>Descrição: Retorna um código hash baseado nos &quot;conteúdos profundos&quot; do array especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de objetos.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>deepToString(Object[] a)</code></p>
+<ul>
+<li>Descrição: Retorna uma representação de string dos &quot;conteúdos profundos&quot; do array especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array de objetos.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>equals(boolean[] a, boolean[] a2)</code> / <code>equals(byte[] a, byte[] a2)</code> / <code>equals(char[] a, char[] a2)</code> / <code>equals(double[] a, double[] a2)</code> / <code>equals(float[] a, float[] a2)</code> / <code>equals(int[] a, int[] a2)</code> / <code>equals(long[] a, long[] a2)</code> / <code>equals(Object[] a, Object[] a2)</code> / <code>equals(short[] a, short[] a2)</code></p>
+<ul>
+<li>Descrição: Retorna true se os dois arrays especificados do mesmo tipo forem iguais um ao outro.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O primeiro array.</li>
+<li><code>a2</code>: O segundo array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Funções <code>fill()</code>:</p>
+<ul>
+<li>Descrição: Atribui um valor especificado a cada elemento do array ou a um intervalo específico do array.</li>
+<li>Parâmetros:
+<ul>
+<li><code>a</code>: O array a ser preenchido.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para começar o preenchimento.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar o preenchimento.</li>
+<li><code>val</code>: O valor a ser atribuído aos elementos do array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Funções <code>parallelPrefix()</code>:</p>
+<ul>
+<li>Descrição: Executa operações cumulativas (prefixo) em paralelo em cada elemento do array.</li>
+<li>Parâmetros:
+<ul>
+<li><code>array</code>: O array a ser processado.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para começar a operação.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a operação.</li>
+<li><code>op</code>: O operador binário usado para realizar a operação cumulativa.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Funções <code>parallelSetAll()</code>:</p>
+<ul>
+<li>Descrição: Define todos os elementos do array em paralelo usando um gerador de valores.</li>
+<li>Parâmetros:
+<ul>
+<li><code>array</code>: O array a ser definido.</li>
+<li><code>generator</code>: A função geradora usada para calcular cada elemento do array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Funções <code>parallelSort()</code>:</p>
+<ul>
+<li>Descrição: Classifica os elementos do array em paralelo.</li>
+<li>Parâmetros:
+<ul>
+<li><code>array</code>: O array a ser classificado.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para começar a classificação.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a classificação.</li>
+<li><code>c</code> (opcional): O comparador usado para ordenar o array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Funções <code>setAll()</code>:</p>
+<ul>
+<li>Descrição: Define todos os elementos do array usando um gerador de valores.</li>
+<li>Parâmetros:
+<ul>
+<li><code>array</code>: O array a ser definido.</li>
+<li><code>generator</code>: A função geradora usada para calcular cada elemento do array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Funções <code>sort()</code>:</p>
+<ul>
+<li>Descrição: Classifica os elementos do array.</li>
+<li>Parâmetros:
+<ul>
+<li><code>array</code>: O array a ser classificado.</li>
+<li><code>fromIndex</code> (opcional): O índice inicial para começar a classificação.</li>
+<li><code>toIndex</code> (opcional): O índice final para encerrar a classificação.</li>
+<li><code>c</code> (opcional): O comparador usado para ordenar o array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Funções <code>spliterator()</code>:</p>
+<ul>
+<li>Descrição: Retorna um Spliterator que cobre todo o array ou um intervalo específico do array.</li>
+<li>Parâmetros:
+<ul>
+<li>Diferentes assinaturas dependendo do tipo de array.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Funções <code>stream()</code>:</p>
+<ul>
+<li>Descrição: Retorna um fluxo (Stream) com os elementos do array ou um intervalo</li>
+</ul>
+</li>
+</ol>
+<p>específico do array.
+- Parâmetros:
+- Diferentes assinaturas dependendo do tipo de array.</p>
+<ol start="25">
+<li>Funções <code>toString()</code>:
+<ul>
+<li>Descrição: Retorna uma representação de string dos elementos do array.</li>
+<li>Parâmetros:
+<ul>
+<li>Diferentes assinaturas dependendo do tipo de array.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="listas-em-java">Listas em Java</h2>
+<ol>
+<li>ArrayList:
+<code>ArrayList</code> é uma das classes mais comuns para implementar listas em Java. Ela implementa a interface <code>List</code> e armazena os elementos em um array dinâmico, permitindo o redimensionamento automático conforme necessário. Isso significa que a lista pode crescer ou encolher de acordo com a quantidade de elementos adicionados ou removidos.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.util.ArrayList;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">ArrayListExample</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        ArrayList&lt;String&gt; listaDeNomes = <span class="hljs-keyword">new</span> <span class="hljs-title class_">ArrayList</span>&lt;&gt;();
+        listaDeNomes.add(<span class="hljs-string">&quot;Alice&quot;</span>);
+        listaDeNomes.add(<span class="hljs-string">&quot;Bob&quot;</span>);
+        listaDeNomes.add(<span class="hljs-string">&quot;Carlos&quot;</span>);
+        System.out.println(listaDeNomes); <span class="hljs-comment">// Saída: [Alice, Bob, Carlos]</span>
+    }
+}
+</code></pre>
+<ol start="2">
+<li>LinkedList:
+<code>LinkedList</code> é uma lista duplamente encadeada em Java. Cada elemento (nó) na lista possui uma referência para o próximo e o anterior. Essa estrutura é útil para inserções e remoções frequentes, mas pode ser menos eficiente para acesso aleatório aos elementos.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.util.LinkedList;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">LinkedListExample</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        LinkedList&lt;Integer&gt; listaDeNumeros = <span class="hljs-keyword">new</span> <span class="hljs-title class_">LinkedList</span>&lt;&gt;();
+        listaDeNumeros.add(<span class="hljs-number">10</span>);
+        listaDeNumeros.add(<span class="hljs-number">20</span>);
+        listaDeNumeros.add(<span class="hljs-number">30</span>);
+        System.out.println(listaDeNumeros); <span class="hljs-comment">// Saída: [10, 20, 30]</span>
+    }
+}
+</code></pre>
+<h3 id="funções-de-lista-em-java">Funções de Lista em Java</h3>
+<ol>
+<li>
+<p><code>boolean add(E e)</code></p>
+<ul>
+<li>Adiciona o elemento especificado ao final da lista.</li>
+<li>Parâmetro:
+<ul>
+<li><code>e</code>: o elemento a ser adicionado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>void add(int index, E element)</code></p>
+<ul>
+<li>Insere o elemento especificado na posição especificada na lista.</li>
+<li>Parâmetros:
+<ul>
+<li><code>index</code>: a posição na qual o elemento será inserido.</li>
+<li><code>element</code>: o elemento a ser inserido.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>boolean addAll(Collection&lt;? extends E&gt; c)</code></p>
+<ul>
+<li>Adiciona todos os elementos da coleção especificada ao final da lista.</li>
+<li>Parâmetro:
+<ul>
+<li><code>c</code>: a coleção contendo os elementos a serem adicionados.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>boolean addAll(int index, Collection&lt;? extends E&gt; c)</code></p>
+<ul>
+<li>Insere todos os elementos da coleção especificada na posição especificada na lista.</li>
+<li>Parâmetros:
+<ul>
+<li><code>index</code>: a posição na qual os elementos serão inseridos.</li>
+<li><code>c</code>: a coleção contendo os elementos a serem inseridos.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>void clear()</code></p>
+<ul>
+<li>Remove todos os elementos da lista.</li>
+</ul>
+</li>
+<li>
+<p><code>boolean contains(Object o)</code></p>
+<ul>
+<li>Retorna verdadeiro se a lista contém o elemento especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>o</code>: o elemento a ser verificado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>boolean containsAll(Collection&lt;?&gt; c)</code></p>
+<ul>
+<li>Retorna verdadeiro se a lista contém todos os elementos da coleção especificada.</li>
+<li>Parâmetro:
+<ul>
+<li><code>c</code>: a coleção contendo os elementos a serem verificados.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>boolean equals(Object o)</code></p>
+<ul>
+<li>Compara o objeto especificado com esta lista para igualdade.</li>
+<li>Parâmetro:
+<ul>
+<li><code>o</code>: o objeto a ser comparado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>E get(int index)</code></p>
+<ul>
+<li>Retorna o elemento na posição especificada na lista.</li>
+<li>Parâmetro:
+<ul>
+<li><code>index</code>: a posição do elemento a ser retornado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>int hashCode()</code></p>
+<ul>
+<li>Retorna o valor do código hash para esta lista.</li>
+</ul>
+</li>
+<li>
+<p><code>int indexOf(Object o)</code></p>
+<ul>
+<li>Retorna o índice da primeira ocorrência do elemento especificado na lista, ou -1 se o elemento não estiver presente.</li>
+<li>Parâmetro:
+<ul>
+<li><code>o</code>: o elemento a ser buscado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>boolean isEmpty()</code></p>
+<ul>
+<li>Retorna verdadeiro se a lista não contiver elementos.</li>
+</ul>
+</li>
+<li>
+<p><code>Iterator&lt;E&gt; iterator()</code></p>
+<ul>
+<li>Retorna um iterador sobre os elementos da lista em sequência adequada.</li>
+</ul>
+</li>
+<li>
+<p><code>int lastIndexOf(Object o)</code></p>
+<ul>
+<li>Retorna o índice da última ocorrência do elemento especificado na lista, ou -1 se o elemento não estiver presente.</li>
+<li>Parâmetro:
+<ul>
+<li><code>o</code>: o elemento a ser buscado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>ListIterator&lt;E&gt; listIterator()</code></p>
+<ul>
+<li>Retorna um iterador de lista sobre os elementos da lista em sequência adequada.</li>
+</ul>
+</li>
+<li>
+<p><code>ListIterator&lt;E&gt; listIterator(int index)</code></p>
+<ul>
+<li>Retorna um iterador de lista sobre os elementos da lista em sequência adequada, começando na posição especificada na lista.</li>
+<li>Parâmetro:
+<ul>
+<li><code>index</code>: a posição inicial do iterador.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>E remove(int index)</code></p>
+<ul>
+<li>Remove o elemento na posição especificada na lista.</li>
+<li>Parâmetro:
+<ul>
+<li><code>index</code>: a posição do elemento a ser removido.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>boolean remove(Object o)</code></p>
+<ul>
+<li>Remove a primeira ocorrência do elemento especificado da lista, se presente.</li>
+<li>Parâmetro:
+<ul>
+<li><code>o</code>: o elemento a ser removido.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>boolean removeAll(Collection&lt;?&gt; c)</code></p>
+<ul>
+<li>Remove da lista todos os elementos que estão contidos na coleção especificada.</li>
+<li>Parâmetro:
+<ul>
+<li><code>c</code>: a coleção contendo os elementos a serem removidos.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>default void replaceAll(UnaryOperator&lt;E&gt; operator)</code></p>
+<ul>
+<li>Substitui cada elemento da lista pelo resultado da aplicação do operador a esse elemento.</li>
+<li>Parâmetro:
+<ul>
+<li><code>operator</code>: o operador a ser aplicado aos elementos.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>boolean retainAll(Collection&lt;?&gt; c)</code></p>
+<ul>
+<li>Retém apenas os elementos na lista que estão contidos na coleção especificada.</li>
+<li>Parâmetro:
+<ul>
+<li><code>c</code>: a coleção contendo os elementos a serem retidos.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>E set(int index, E element)</code></p>
+<ul>
+<li>Substitui o elemento na posição especificada na lista pelo elemento especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>index</code>: a posição do elemento a ser substituído.</li>
+<li><code>element</code>: o novo elemento a ser colocado na posição especificada.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>int size()</code></p>
+<ul>
+<li>Retorna o número de elementos na lista.</li>
+</ul>
+</li>
+<li>
+<p><code>default void sort(Comparator&lt;? super E&gt; c)</code></p>
+<ul>
+<li>Ordena esta lista de acordo com a ordem induzida pelo comparador especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>c</code>: o comparador utilizado para a ordenação.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>default Spliterator&lt;E&gt; spliterator()</code></p>
+<ul>
+<li>Cria um Spliterator sobre os elementos da lista.</li>
+</ul>
+</li>
+<li>
+<p><code>List&lt;E&gt; subList(int fromIndex, int toIndex)</code></p>
+<ul>
+<li>Retorna uma visão da porção desta lista entre o <code>fromIndex</code> (inclusive) e o <code>toIndex</code> (exclusivo).</li>
+<li>Parâmetros:
+<ul>
+<li><code>fromIndex</code>: o índice inicial da visão.</li>
+<li><code>toIndex</code>: o índice final da visão.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>Object[] toArray()</code></p>
+<ul>
+<li>Retorna um array contendo todos os elementos da lista em sequência adequada (do primeiro ao último elemento).</li>
+</ul>
+</li>
+<li>
+<p><code>&lt;T&gt; T[] toArray(T[] a)</code></p>
+<ul>
+<li>Retorna um array contendo todos os elementos da lista em sequência adequada (do primeiro ao último elemento), com o tipo de tempo de execução do array especificado.</li>
+</ul>
+</li>
+</ol>
+<h2 id="tuplas-em-java">Tuplas em Java</h2>
+<ol>
+<li><strong>Usando Arrays:</strong> Você pode usar arrays para criar tuplas em Java, onde cada elemento do array representa um valor da tupla. Por exemplo:</li>
+</ol>
+<pre><code class="language-java">Object[] tuple = { <span class="hljs-number">10</span>, <span class="hljs-string">&quot;Hello&quot;</span>, <span class="hljs-literal">true</span> };
+</code></pre>
+<ol start="2">
+<li><strong>Usando Classes Personalizadas:</strong> Uma abordagem mais legível e escalável é criar uma classe personalizada que represente a tupla. Por exemplo:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Tuple</span>&lt;A, B&gt; {
+    <span class="hljs-keyword">private</span> A first;
+    <span class="hljs-keyword">private</span> B second;
+    <span class="hljs-keyword">public</span> <span class="hljs-title function_">Tuple</span><span class="hljs-params">(A first, B second)</span> {
+        <span class="hljs-built_in">this</span>.first = first;
+        <span class="hljs-built_in">this</span>.second = second;
+    }
+    <span class="hljs-keyword">public</span> A <span class="hljs-title function_">getFirst</span><span class="hljs-params">()</span> {
+        <span class="hljs-keyword">return</span> first;
+    }
+    <span class="hljs-keyword">public</span> B <span class="hljs-title function_">getSecond</span><span class="hljs-params">()</span> {
+        <span class="hljs-keyword">return</span> second;
+    }
+}
+<span class="hljs-comment">// Exemplo de uso:</span>
+Tuple&lt;Integer, String&gt; tuple = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Tuple</span>&lt;&gt;(<span class="hljs-number">10</span>, <span class="hljs-string">&quot;Hello&quot;</span>);
+</code></pre>
+<ol start="3">
+<li><strong>Usando Bibliotecas de Terceiros:</strong> Algumas bibliotecas de terceiros, como o Apache Commons Lang, fornecem classes para tuplas em Java. Por exemplo:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> org.apache.commons.lang3.tuple.Pair;
+<span class="hljs-comment">// Exemplo de uso:</span>
+Pair&lt;Integer, String&gt; tuple = Pair.of(<span class="hljs-number">10</span>, <span class="hljs-string">&quot;Hello&quot;</span>);
+</code></pre>
+<h2 id="conjuntos-em-java">Conjuntos em Java</h2>
+<p>Em Java, conjuntos são uma estrutura de dados que representa uma coleção de elementos únicos, onde não são permitidos elementos duplicados. A interface principal para trabalhar com conjuntos é a interface <code>Set</code>, que é implementada por várias classes na biblioteca padrão do Java. Algumas das implementações mais comuns de conjuntos em Java são:</p>
+<ol>
+<li><strong>HashSet</strong>: É uma das implementações mais usadas. Armazena os elementos em uma tabela de dispersão, o que permite um acesso muito eficiente aos elementos. A ordem dos elementos pode não ser previsível.</li>
+</ol>
+<pre><code class="language-java">Set&lt;String&gt; hashSet = <span class="hljs-keyword">new</span> <span class="hljs-title class_">HashSet</span>&lt;&gt;();
+hashSet.add(<span class="hljs-string">&quot;apple&quot;</span>);
+hashSet.add(<span class="hljs-string">&quot;banana&quot;</span>);
+hashSet.add(<span class="hljs-string">&quot;orange&quot;</span>);
+</code></pre>
+<ol start="2">
+<li><strong>LinkedHashSet</strong>: Essa implementação mantém a ordem de inserção dos elementos, além de garantir a exclusão de elementos duplicados.</li>
+</ol>
+<pre><code class="language-java">Set&lt;String&gt; linkedHashSet = <span class="hljs-keyword">new</span> <span class="hljs-title class_">LinkedHashSet</span>&lt;&gt;();
+linkedHashSet.add(<span class="hljs-string">&quot;apple&quot;</span>);
+linkedHashSet.add(<span class="hljs-string">&quot;banana&quot;</span>);
+linkedHashSet.add(<span class="hljs-string">&quot;orange&quot;</span>);
+</code></pre>
+<ol start="3">
+<li><strong>TreeSet</strong>: Mantém os elementos ordenados de acordo com a ordem natural dos elementos ou com um comparador personalizado.</li>
+</ol>
+<pre><code class="language-java">Set&lt;Integer&gt; treeSet = <span class="hljs-keyword">new</span> <span class="hljs-title class_">TreeSet</span>&lt;&gt;();
+treeSet.add(<span class="hljs-number">10</span>);
+treeSet.add(<span class="hljs-number">5</span>);
+treeSet.add(<span class="hljs-number">20</span>);
+</code></pre>
+<ol start="4">
+<li><strong>EnumSet</strong>: É uma implementação especializada de conjuntos projetada para trabalhar com elementos de enumerações (enums).</li>
+</ol>
+<pre><code class="language-java">Set&lt;DayOfWeek&gt; enumSet = EnumSet.of(DayOfWeek.MONDAY, DayOfWeek.TUESDAY);
+</code></pre>
+<p>Aqui estão algumas das principais operações que você pode realizar em um conjunto em Java:</p>
+<ul>
+<li><strong>Adicionar um elemento</strong>: <code>add(E e)</code></li>
+<li><strong>Remover um elemento</strong>: <code>remove(Object o)</code></li>
+<li><strong>Verificar se contém um elemento</strong>: <code>contains(Object o)</code></li>
+<li><strong>Verificar se está vazio</strong>: <code>isEmpty()</code></li>
+<li><strong>Obter o tamanho do conjunto</strong>: <code>size()</code></li>
+<li><strong>Iterar sobre os elementos</strong>: Usando um loop for-each ou um Iterator.</li>
+</ul>
+<pre><code class="language-java"><span class="hljs-keyword">for</span> (String element : hashSet) {
+    System.out.println(element);
+}
+</code></pre>
+<h2 id="funções-de-coleções-em-java">Funções de Coleções em Java</h2>
+<ol>
+<li>
+<p><code>static &lt;T&gt; boolean addAll(Collection&lt;? super T&gt; c, T... elements)</code></p>
+<ul>
+<li>Adiciona todos os elementos especificados à coleção especificada.</li>
+<li>Parâmetros:
+<ul>
+<li><code>c</code>: a coleção onde os elementos serão adicionados.</li>
+<li><code>elements</code>: os elementos a serem adicionados.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Queue&lt;T&gt; asLifoQueue(Deque&lt;T&gt; deque)</code></p>
+<ul>
+<li>Retorna uma visualização de uma <code>Deque</code> como uma fila Last-in-first-out (Lifo).</li>
+<li>Parâmetro:
+<ul>
+<li><code>deque</code>: a <code>Deque</code> a ser convertida em fila Lifo.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; int binarySearch(List&lt;? extends Comparable&lt;? super T&gt;&gt; list, T key)</code></p>
+<ul>
+<li>Pesquisa o elemento especificado na lista usando o algoritmo de busca binária.</li>
+<li>Parâmetros:
+<ul>
+<li><code>list</code>: a lista onde a busca será realizada.</li>
+<li><code>key</code>: o elemento a ser pesquisado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; int binarySearch(List&lt;? extends T&gt; list, T key, Comparator&lt;? super T&gt; c)</code></p>
+<ul>
+<li>Pesquisa o elemento especificado na lista usando o algoritmo de busca binária.</li>
+<li>Parâmetros:
+<ul>
+<li><code>list</code>: a lista onde a busca será realizada.</li>
+<li><code>key</code>: o elemento a ser pesquisado.</li>
+<li><code>c</code>: o comparador a ser usado para a busca.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;E&gt; Collection&lt;E&gt; checkedCollection(Collection&lt;E&gt; c, Class&lt;E&gt; type)</code></p>
+<ul>
+<li>Retorna uma visualização dinamicamente tipada da coleção especificada.</li>
+<li>Parâmetros:
+<ul>
+<li><code>c</code>: a coleção a ser visualizada.</li>
+<li><code>type</code>: a classe do tipo esperado para os elementos da coleção.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;E&gt; List&lt;E&gt; checkedList(List&lt;E&gt; list, Class&lt;E&gt; type)</code></p>
+<ul>
+<li>Retorna uma visualização dinamicamente tipada da lista especificada.</li>
+<li>Parâmetros:
+<ul>
+<li><code>list</code>: a lista a ser visualizada.</li>
+<li><code>type</code>: a classe do tipo esperado para os elementos da lista.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; Map&lt;K,V&gt; checkedMap(Map&lt;K,V&gt; m, Class&lt;K&gt; keyType, Class&lt;V&gt; valueType)</code></p>
+<ul>
+<li>Retorna uma visualização dinamicamente tipada do mapa especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>m</code>: o mapa a ser visualizado.</li>
+<li><code>keyType</code>: a classe do tipo esperado para as chaves do mapa.</li>
+<li><code>valueType</code>: a classe do tipo esperado para os valores do mapa.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; NavigableMap&lt;K,V&gt; checkedNavigableMap(NavigableMap&lt;K,V&gt; m, Class&lt;K&gt; keyType, Class&lt;V&gt; valueType)</code></p>
+<ul>
+<li>Retorna uma visualização dinamicamente tipada do mapa navegável especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>m</code>: o mapa navegável a ser visualizado.</li>
+<li><code>keyType</code>: a classe do tipo esperado para as chaves do mapa.</li>
+<li><code>valueType</code>: a classe do tipo esperado para os valores do mapa.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;E&gt; NavigableSet&lt;E&gt; checkedNavigableSet(NavigableSet&lt;E&gt; s, Class&lt;E&gt; type)</code></p>
+<ul>
+<li>Retorna uma visualização dinamicamente tipada do conjunto navegável especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>s</code>: o conjunto navegável a ser visualizado.</li>
+<li><code>type</code>: a classe do tipo esperado para os elementos do conjunto.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;E&gt; Queue&lt;E&gt; checkedQueue(Queue&lt;E&gt; queue, Class&lt;E&gt; type)</code></p>
+<ul>
+<li>Retorna uma visualização dinamicamente tipada da fila especificada.</li>
+<li>Parâmetros:
+<ul>
+<li><code>queue</code>: a fila a ser visualizada.</li>
+<li><code>type</code>: a classe do tipo esperado para os elementos da fila.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;E&gt; Set&lt;E&gt; checkedSet(Set&lt;E&gt; s, Class&lt;E&gt; type)</code></p>
+<ul>
+<li>Retorna uma visualização dinamicamente tipada do conjunto especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>s</code>: o conjunto a ser visualizado.</li>
+<li><code>type</code>: a classe do tipo esperado para os elementos do conjunto.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; SortedMap&lt;K,V&gt; checkedSortedMap(SortedMap&lt;K,V&gt; m, Class&lt;K&gt; keyType, Class&lt;V&gt; valueType)</code></p>
+<ul>
+<li>Retorna uma visualização dinamicamente tipada do mapa ordenado especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>m</code>: o mapa ordenado a ser visualizado.</li>
+<li><code>keyType</code>: a classe do tipo esperado para as chaves do mapa.</li>
+<li><code>valueType</code>: a classe do tipo esperado para os valores do mapa.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;E&gt; SortedSet&lt;E&gt; checkedSortedSet(SortedSet&lt;E&gt; s, Class&lt;E&gt; type)</code></p>
+<ul>
+<li>Retorna uma visualização dinamicamente tipada do conjunto ordenado especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>s</code>: o conjunto ordenado a ser visualizado.</li>
+<li><code>type</code>: a classe do tipo esperado para os elementos do conjunto.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; void copy(List&lt;? super T&gt; dest, List&lt;? extends T&gt; src)</code></p>
+<ul>
+<li>Copia todos os elementos de uma lista para outra.</li>
+<li>Parâmetros:
+<ul>
+<li><code>dest</code>: a lista de destino onde os elementos serão copiados.</li>
+<li><code>src</code>: a lista de origem de onde os elementos serão copiados.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static boolean disjoint(Collection&lt;?&gt; c1, Collection&lt;?&gt; c2)</code></p>
+<ul>
+<li>Retorna verdadeiro se as duas coleções especificadas não têm elementos em comum.</li>
+<li>Parâmetros:
+<ul>
+<li><code>c1</code>: a primeira coleção.</li>
+<li><code>c2</code>: a segunda coleção.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Enumeration&lt;T&gt; emptyEnumeration()</code></p>
+<ul>
+<li>Retorna uma enumeração vazia sem elementos.</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Iterator&lt;T&gt; emptyIterator()</code></p>
+<ul>
+<li>Retorna um iterador vazio sem elementos.</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; List&lt;T&gt; emptyList()</code></p>
+<ul>
+<li>Retorna uma lista vazia (imutável).</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; ListIterator&lt;T&gt; emptyListIterator()</code></p>
+<ul>
+<li>Retorna um iterador de lista vazio sem elementos.</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; Map&lt;K,V&gt; emptyMap()</code></p>
+<ul>
+<li>Retorna um mapa vazio (imutável).</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; NavigableMap&lt;K,V&gt; emptyNavigableMap()</code></p>
+<ul>
+<li>Retorna um mapa navegável vazio (imutável).</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;E&gt; NavigableSet&lt;E&gt; emptyNavigableSet()</code></p>
+<ul>
+<li>Retorna um conjunto navegável vazio (imutável).</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Set&lt;T&gt; emptySet()</code></p>
+<ul>
+<li>Retorna um conjunto vazio (imutável).</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; SortedMap&lt;K,V&gt; emptySortedMap()</code></p>
+<ul>
+<li>Retorna um mapa ordenado vazio (imutável).</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;E&gt; SortedSet&lt;E&gt; emptySortedSet()</code></p>
+<ul>
+<li>Retorna um conjunto ordenado vazio (imutável).</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Enumeration&lt;T&gt; enumeration(Collection&lt;T&gt; c)</code></p>
+<ul>
+<li>Retorna uma enumeração sobre a coleção especificada.</li>
+<li>Parâmetro:
+<ul>
+<li><code>c</code>: a coleção a ser enumerada.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; void fill(List&lt;? super T&gt; list, T obj)</code></p>
+<ul>
+<li>Substitui todos os elementos da lista especificada pelo objeto especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>list</code>: a lista a ser preenchida.</li>
+<li><code>obj</code>: o objeto para preencher a lista.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static int frequency(Collection&lt;?&gt; c, Object o)</code></p>
+<ul>
+<li>Retorna o número de ocorrências do objeto especificado na coleção especificada.</li>
+<li>Parâmetros:
+<ul>
+<li><code>c</code>: a coleção onde será feita a contagem.</li>
+<li><code>o</code>: o objeto a ser contado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static int indexOfSubList(List&lt;?&gt; source, List&lt;?&gt; target)</code></p>
+<ul>
+<li>Retorna a posição inicial da primeira ocorrência da lista de destino na lista de origem, ou -1 se não houver tal ocorrência.</li>
+<li>Parâmetros:
+<ul>
+<li><code>source</code>: a lista de origem.</li>
+<li><code>target</code>: a lista de destino.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static int lastIndexOfSubList(List&lt;?&gt; source, List&lt;?&gt; target)</code></p>
+<ul>
+<li>Retorna a posição inicial da última ocorrência da lista de destino na lista de origem, ou -1 se não houver tal ocorrência.</li>
+<li>Parâmetros:
+<ul>
+<li><code>source</code>: a lista de origem.</li>
+<li><code>target</code>: a lista de destino.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; ArrayList&lt;T&gt; list(Enumeration&lt;T&gt; e)</code></p>
+<ul>
+<li>Retorna uma lista de array contendo os elementos retornados pela enumeração especificada na ordem em que são retornados pela enumeração.</li>
+<li>Parâmetro:
+<ul>
+<li><code>e</code>: a enumeração a ser convertida em lista.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T extends Object &amp; Comparable&lt;? super T&gt;&gt; T max(Collection&lt;? extends T&gt; coll)</code></p>
+<ul>
+<li>Retorna o elemento máximo da coleção fornecida, de acordo com a ordem natural de seus elementos.</li>
+<li>Parâmetro:
+<ul>
+<li><code>coll</code>: a coleção da qual o máximo será retornado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; T max(Collection&lt;? extends T&gt; coll, Comparator&lt;? super T&gt; comp)</code></p>
+<ul>
+<li>Retorna o elemento máximo da coleção fornecida, de acordo com a ordem induzida pelo comparador especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>coll</code>: a coleção da qual o máximo será retornado.</li>
+<li><code>comp</code>: o comparador utilizado para determinar a ordem.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T extends Object &amp; Comparable&lt;? super T&gt;&gt; T min(Collection&lt;? extends T&gt; coll)</code></p>
+<ul>
+<li>Retorna o elemento mínimo da coleção fornecida, de acordo com a ordem natural de seus elementos.</li>
+<li>Parâmetro:
+<ul>
+<li><code>coll</code>: a coleção da qual o mínimo será retornado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; T min(Collection&lt;? extends T&gt; coll, Comparator&lt;? super T&gt; comp)</code></p>
+<ul>
+<li>Retorna o elemento mínimo da coleção fornecida, de acordo com a ordem induzida pelo comparador especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>coll</code>: a coleção da qual o mínimo será retornado.</li>
+<li><code>comp</code>: o comparador utilizado para determinar a ordem.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; List&lt;T&gt; nCopies(int n, T o)</code></p>
+<ul>
+<li>Retorna uma lista imutável consistindo em <code>n</code> cópias do objeto especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>n</code>: o número de cópias do objeto a serem incluídas na lista.</li>
+<li><code>o</code>: o objeto a ser repetido na lista.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;E&gt; Set&lt;E&gt; newSetFromMap(Map&lt;E,Boolean&gt; map)</code></p>
+<ul>
+<li>Retorna um conjunto suportado pelo mapa especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>map</code>: o mapa a ser utilizado como suporte do conjunto.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; boolean replaceAll(List&lt;T&gt; list, T oldVal, T newVal)</code></p>
+<ul>
+<li>Substitui todas as ocorrências de um valor especificado por outro em uma lista.</li>
+<li>Parâmetros:
+<ul>
+<li><code>list</code>: a lista em que as substituições serão feitas.</li>
+<li><code>oldVal</code>: o valor a ser substituído.</li>
+<li><code>newVal</code>: o novo valor que substituirá o valor antigo.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static void reverse(List&lt;?&gt; list)</code></p>
+<ul>
+<li>Inverte a ordem dos elementos na lista especificada.</li>
+<li>Parâmetro:
+<ul>
+<li><code>list</code>: a lista a ser invertida.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Comparator&lt;T&gt; reverseOrder()</code></p>
+<ul>
+<li>Retorna um comparador que impõe a ordem reversa da ordenação natural de objetos que implementam a interface <code>Comparable</code>.</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Comparator&lt;T&gt; reverseOrder(Comparator&lt;T&gt; cmp)</code></p>
+<ul>
+<li>Retorna um comparador que impõe a ordem reversa de um comparador especificado.</li>
+</ul>
+</li>
+<li>
+<p><code>static void rotate(List&lt;?&gt; list, int distance)</code></p>
+<ul>
+<li>Gira os elementos da lista especificada pela distância especificada.</li>
+<li>Parâmetros:
+<ul>
+<li><code>list</code>: a lista a ser rotacionada.</li>
+<li><code>distance</code>: a distância de rotação.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static void shuffle(List&lt;?&gt; list)</code></p>
+<ul>
+<li>Permuta aleatoriamente os elementos da lista usando uma fonte de aleatoriedade padrão.</li>
+</ul>
+</li>
+<li>
+<p><code>static void shuffle(List&lt;?&gt; list, Random rnd)</code></p>
+<ul>
+<li>Permuta aleatoriamente os elementos da lista usando uma fonte de aleatoriedade especificada.</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Set&lt;T&gt; singleton(T o)</code></p>
+<ul>
+<li>Retorna um conjunto imutável contendo apenas o objeto especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>o</code>: o objeto a ser incluído no conjunto.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; List&lt;T&gt; singletonList(T o)</code></p>
+<ul>
+<li>Retorna uma lista imutável contendo apenas o objeto especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>o</code>: o objeto a ser incluído na lista.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; Map&lt;K,V&gt; singletonMap(K key, V value)</code></p>
+<ul>
+<li>Retorna um mapa imutável contendo apenas uma única chave-valor especificada.</li>
+<li>Parâmetros:
+<ul>
+<li><code>key</code>: a chave a ser incluída no mapa.</li>
+<li><code>value</code>: o valor a ser associado à chave no mapa.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T extends Comparable&lt;? super T&gt;&gt; void sort(List&lt;T&gt; list)</code></p>
+<ul>
+<li>Ordena a lista especificada em ordem ascendente, de acordo com a ordenação natural de seus elementos.</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; void sort(List&lt;T&gt; list, Comparator&lt;? super T&gt; c)</code></p>
+<ul>
+<li>Ordena a lista especificada de acordo com a ordem induzida pelo comparador especificado.</li>
+<li>Parâmetros:
+<ul>
+<li><code>list</code>: a lista a ser ordenada.</li>
+<li><code>c</code>: o comparador utilizado para determinar a ordem.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static void swap(List&lt;?&gt; list, int i, int j)</code></p>
+<ul>
+<li>Troca os elementos nas posições especificadas na lista.</li>
+<li>Parâmetros:
+<ul>
+<li><code>list</code>: a lista onde as trocas serão realizadas.</li>
+<li><code>i</code>: a posição do primeiro elemento a ser trocado.</li>
+<li><code>j</code>: a posição do segundo elemento a ser trocado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Collection&lt;T&gt; synchronizedCollection(Collection&lt;T&gt; c)</code></p>
+<ul>
+<li>Retorna uma coleção sincronizada (thread-safe) com base na coleção especificada.</li>
+<li>Parâmetro:
+<ul>
+<li><code>c</code>: a coleção a ser sincronizada.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; List&lt;T&gt; synchronizedList(List&lt;T&gt; list)</code></p>
+<ul>
+<li>Retorna uma lista sincronizada (thread-safe) com base na lista especificada.</li>
+<li>Parâmetro:
+<ul>
+<li><code>list</code>: a lista a ser sincronizada.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; Map&lt;K,V&gt; synchronizedMap(Map&lt;K,V&gt; m)</code></p>
+<ul>
+<li>Retorna um mapa sincronizado (thread-safe) com base no mapa especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>m</code>: o mapa a ser sincronizado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; NavigableMap&lt;K,V&gt; synchronizedNavigableMap(NavigableMap&lt;K,V&gt; m)</code></p>
+<ul>
+<li>Retorna um mapa navegável sincronizado (thread-safe) com base no mapa navegável especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>m</code>: o mapa navegável a ser sincronizado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; NavigableSet&lt;T&gt; synchronizedNavigableSet(NavigableSet&lt;T&gt; s)</code></p>
+<ul>
+<li>Retorna um conjunto navegável sincronizado (thread-safe) com base no conjunto navegável especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>s</code>: o conjunto navegável a ser sincronizado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Set&lt;T&gt; synchronizedSet(Set&lt;T&gt; s)</code></p>
+<ul>
+<li>Retorna um conjunto sincronizado (thread-safe) com base no conjunto especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>s</code>: o conjunto a ser sincronizado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; SortedMap&lt;K,V&gt; synchronizedSortedMap(SortedMap&lt;K,V&gt; m)</code></p>
+<ul>
+<li>Retorna um mapa ordenado sincronizado (thread-safe) com base no mapa ordenado especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>m</code>: o mapa ordenado a ser sincronizado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; SortedSet&lt;T&gt; synchronizedSortedSet(SortedSet&lt;T&gt; s)</code></p>
+<ul>
+<li>Retorna um conjunto ordenado sincronizado (thread-safe) com base no conjunto ordenado especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>s</code>: o conjunto ordenado a ser sincronizado.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Collection&lt;T&gt; unmodifiableCollection(Collection&lt;? extends T&gt; c)</code></p>
+<ul>
+<li>Retorna uma visualização imutável da coleção especificada.</li>
+<li>Parâmetro:
+<ul>
+<li><code>c</code>: a coleção a ser visualizada como imutável.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; List&lt;T&gt; unmodifiableList(List&lt;? extends T&gt; list)</code></p>
+<ul>
+<li>Retorna uma visualização imutável da lista especificada.</li>
+<li>Parâmetro:
+<ul>
+<li><code>list</code>: a lista a ser visualizada como imutável.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; Map&lt;K,V&gt; unmodifiableMap(Map&lt;? extends K,? extends V&gt; m)</code></p>
+<ul>
+<li>Retorna uma visualização imutável do mapa especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>m</code>: o mapa a ser visualizado como imutável.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; NavigableMap&lt;K,V&gt; unmodifiableNavigableMap(NavigableMap&lt;K,? extends V&gt; m)</code></p>
+<ul>
+<li>Retorna uma visualização imutável do mapa navegável especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>m</code>: o mapa navegável a ser visualizado como imutável.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; NavigableSet&lt;T&gt; unmodifiableNavigableSet(NavigableSet&lt;T&gt; s)</code></p>
+<ul>
+<li>Retorna uma visualização imutável do conjunto navegável especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>s</code>: o conjunto navegável a ser visualizado como imutável.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; Set&lt;T&gt; unmodifiableSet(Set&lt;? extends T&gt; s)</code></p>
+<ul>
+<li>Retorna uma visualização imutável do conjunto especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>s</code>: o conjunto a ser visualizado como imutável.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;K,V&gt; SortedMap&lt;K,V&gt; unmodifiableSortedMap(SortedMap&lt;K,? extends V&gt; m)</code></p>
+<ul>
+<li>Retorna uma visualização imutável do mapa ordenado especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>m</code>: o mapa ordenado a ser visualizado como imutável.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><code>static &lt;T&gt; SortedSet&lt;T&gt; unmodifiableSortedSet(SortedSet&lt;T&gt; s)</code></p>
+<ul>
+<li>Retorna uma visualização imutável do conjunto ordenado especificado.</li>
+<li>Parâmetro:
+<ul>
+<li><code>s</code>: o conjunto ordenado a ser visualizado como imutável.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+<h2 id="dicionários-em-java">Dicionários em Java</h2>
+<ol>
+<li>Criar um objeto HashMap:
+Você pode criar um objeto <code>HashMap</code> especificando os tipos de dados para a chave (<code>Key</code>) e o valor (<code>Value</code>) que o dicionário irá conter.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.util.HashMap;
+HashMap&lt;KeyType, ValueType&gt; hashMap = <span class="hljs-keyword">new</span> <span class="hljs-title class_">HashMap</span>&lt;&gt;();
+</code></pre>
+<ol start="2">
+<li>Adicionar elementos ao dicionário:
+Para adicionar um par chave-valor ao dicionário, use o método <code>put()</code>.</li>
+</ol>
+<pre><code class="language-java">hashMap.put(key1, value1);
+</code></pre>
+<ol start="3">
+<li>Acessar elementos do dicionário:
+Para obter o valor associado a uma chave específica, use o método <code>get()</code>.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">ValueType</span> <span class="hljs-variable">value</span> <span class="hljs-operator">=</span> hashMap.get(key);
+</code></pre>
+<ol start="4">
+<li>Verificar se uma chave existe no dicionário:
+Use o método <code>containsKey()</code> para verificar se uma chave específica está presente no dicionário.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">if</span> (hashMap.containsKey(key)) {
+    <span class="hljs-comment">// A chave existe no dicionário.</span>
+} <span class="hljs-keyword">else</span> {
+    <span class="hljs-comment">// A chave não existe no dicionário.</span>
+}
+</code></pre>
+<ol start="5">
+<li>Remover elementos do dicionário:
+Para remover um par chave-valor com base na chave, use o método <code>remove()</code>.</li>
+</ol>
+<pre><code class="language-java">hashMap.remove(key);
+</code></pre>
+<ol start="7">
+<li>Iterar sobre os elementos do dicionário:
+Você pode usar um loop <code>for-each</code> para iterar sobre os pares chave-valor do dicionário.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">for</span> (KeyType key : hashMap.keySet()) {
+    <span class="hljs-type">ValueType</span> <span class="hljs-variable">value</span> <span class="hljs-operator">=</span> hashMap.get(key);
+    <span class="hljs-comment">// Faça algo com a chave e o valor.</span>
+}
+</code></pre>
+<h2 id="pilha-em-java">Pilha em Java</h2>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.util.Stack;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">PilhaExemplo</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-comment">// Criar uma instância da classe Stack para representar a pilha</span>
+        Stack&lt;Integer&gt; pilha = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Stack</span>&lt;&gt;();
+        <span class="hljs-comment">// Inserir elementos na pilha (push)</span>
+        pilha.push(<span class="hljs-number">10</span>);
+        pilha.push(<span class="hljs-number">20</span>);
+        pilha.push(<span class="hljs-number">30</span>);
+        <span class="hljs-comment">// Obter o elemento do topo da pilha (peek)</span>
+        <span class="hljs-type">int</span> <span class="hljs-variable">topo</span> <span class="hljs-operator">=</span> pilha.peek();
+        System.out.println(<span class="hljs-string">&quot;Elemento do topo da pilha: &quot;</span> + topo);
+        <span class="hljs-comment">// Remover o elemento do topo da pilha (pop)</span>
+        <span class="hljs-type">int</span> <span class="hljs-variable">elementoRemovido</span> <span class="hljs-operator">=</span> pilha.pop();
+        System.out.println(<span class="hljs-string">&quot;Elemento removido: &quot;</span> + elementoRemovido);
+        <span class="hljs-comment">// Verificar se a pilha está vazia</span>
+        <span class="hljs-type">boolean</span> <span class="hljs-variable">vazia</span> <span class="hljs-operator">=</span> pilha.isEmpty();
+        System.out.println(<span class="hljs-string">&quot;A pilha está vazia? &quot;</span> + vazia);
+        <span class="hljs-comment">// Obter o tamanho da pilha</span>
+        <span class="hljs-type">int</span> <span class="hljs-variable">tamanho</span> <span class="hljs-operator">=</span> pilha.size();
+        System.out.println(<span class="hljs-string">&quot;Tamanho da pilha: &quot;</span> + tamanho);
+    }
+}
+</code></pre>
+<h2 id="fila-em-java">Fila em Java</h2>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.util.LinkedList;
+<span class="hljs-keyword">import</span> java.util.Queue;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">FilaExemplo</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-comment">// Criar uma instância da classe LinkedList para representar a fila</span>
+        Queue&lt;Integer&gt; fila = <span class="hljs-keyword">new</span> <span class="hljs-title class_">LinkedList</span>&lt;&gt;();
+        <span class="hljs-comment">// Inserir elementos na fila (enqueue)</span>
+        fila.offer(<span class="hljs-number">10</span>);
+        fila.offer(<span class="hljs-number">20</span>);
+        fila.offer(<span class="hljs-number">30</span>);
+        <span class="hljs-comment">// Obter o elemento da frente da fila (peek)</span>
+        <span class="hljs-type">int</span> <span class="hljs-variable">frente</span> <span class="hljs-operator">=</span> fila.peek();
+        System.out.println(<span class="hljs-string">&quot;Elemento da frente da fila: &quot;</span> + frente);
+        <span class="hljs-comment">// Remover o elemento da frente da fila (dequeue)</span>
+        <span class="hljs-type">int</span> <span class="hljs-variable">elementoRemovido</span> <span class="hljs-operator">=</span> fila.poll();
+        System.out.println(<span class="hljs-string">&quot;Elemento removido: &quot;</span> + elementoRemovido);
+        <span class="hljs-comment">// Verificar se a fila está vazia</span>
+        <span class="hljs-type">boolean</span> <span class="hljs-variable">vazia</span> <span class="hljs-operator">=</span> fila.isEmpty();
+        System.out.println(<span class="hljs-string">&quot;A fila está vazia? &quot;</span> + vazia);
+        <span class="hljs-comment">// Obter o tamanho da fila</span>
+        <span class="hljs-type">int</span> <span class="hljs-variable">tamanho</span> <span class="hljs-operator">=</span> fila.size();
+        System.out.println(<span class="hljs-string">&quot;Tamanho da fila: &quot;</span> + tamanho);
+    }
+}
+</code></pre>
+
+        
+        
+    </body>
+    </html>

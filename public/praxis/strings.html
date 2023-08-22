@@ -1,0 +1,1680 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Strings</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+<link href="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.css" rel="stylesheet" type="text/css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="strings">Strings</h1>
+<ul>
+<li><a href="#strings">Strings</a>
+<ul>
+<li><a href="#javascript">JavaScript</a>
+<ul>
+<li><a href="#concatena%C3%A7%C3%A3o-de-strings-em-javascript">Concatenação de Strings em JavaScript</a></li>
+<li><a href="#string-slicing-em-javascript">String Slicing em JavaScript</a></li>
+<li><a href="#formata%C3%A7%C3%A3o-de-n%C3%BAmeros-em-strings-em-javascript">Formatação de Números em Strings em JavaScript</a></li>
+<li><a href="#formata%C3%A7%C3%A3o-de-datas-em-strings-em-javascript">Formatação de Datas em Strings em JavaScript</a></li>
+<li><a href="#fun%C3%A7%C3%B5es-de-strings-em-javascript">Funções de Strings em JavaScript</a></li>
+</ul>
+</li>
+<li><a href="#java">Java</a>
+<ul>
+<li><a href="#concatena%C3%A7%C3%A3o-de-strings-em-java">Concatenação de Strings em Java</a></li>
+<li><a href="#string-slicing-em-java">String Slicing em Java</a></li>
+<li><a href="#formata%C3%A7%C3%A3o-de-n%C3%BAmeros-em-strings-em-java">Formatação de Números em Strings em Java</a></li>
+<li><a href="#formata%C3%A7%C3%A3o-de-datas-em-strings-em-java">Formatação de Datas em Strings em Java</a></li>
+<li><a href="#fun%C3%A7%C3%B5es-de-strings-em-java">Funções de Strings em Java</a></li>
+</ul>
+</li>
+<li><a href="#python">Python</a>
+<ul>
+<li><a href="#concatena%C3%A7%C3%A3o-de-strings-em-python">Concatenação de Strings em Python</a></li>
+<li><a href="#string-slicing-em-python">String Slicing em Python</a></li>
+<li><a href="#formata%C3%A7%C3%A3o-de-n%C3%BAmeros-em-strings-em-python">Formatação de Números em Strings em Python</a></li>
+<li><a href="#formata%C3%A7%C3%A3o-de-datas-em-strings-em-python">Formatação de Datas em Strings em Python</a></li>
+<li><a href="#fun%C3%A7%C3%B5es-de-strings-em-python">Funções de Strings em Python</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="javascript">JavaScript</h2>
+<h3 id="concatenação-de-strings-em-javascript">Concatenação de Strings em JavaScript</h3>
+<ol>
+<li>Usando o operador de adição (+):</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> str1 = <span class="hljs-string">&quot;Olá&quot;</span>;
+<span class="hljs-keyword">let</span> str2 = <span class="hljs-string">&quot;Mundo&quot;</span>;
+<span class="hljs-keyword">let</span> resultado = str1 + <span class="hljs-string">&quot; &quot;</span> + str2;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(resultado); <span class="hljs-comment">// Saída: &quot;Olá Mundo&quot;</span>
+</code></pre>
+<ol start="2">
+<li>Usando o método <code>concat()</code>:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> str1 = <span class="hljs-string">&quot;Olá&quot;</span>;
+<span class="hljs-keyword">let</span> str2 = <span class="hljs-string">&quot;Mundo&quot;</span>;
+<span class="hljs-keyword">let</span> resultado = str1.<span class="hljs-title function_">concat</span>(<span class="hljs-string">&quot; &quot;</span>, str2);
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(resultado); <span class="hljs-comment">// Saída: &quot;Olá Mundo&quot;</span>
+</code></pre>
+<ol start="3">
+<li>Utilizando template literals:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> str1 = <span class="hljs-string">&quot;Olá&quot;</span>;
+<span class="hljs-keyword">let</span> str2 = <span class="hljs-string">&quot;Mundo&quot;</span>;
+<span class="hljs-keyword">let</span> resultado = <span class="hljs-string">`<span class="hljs-subst">${str1}</span> <span class="hljs-subst">${str2}</span>`</span>;
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(resultado); <span class="hljs-comment">// Saída: &quot;Olá Mundo&quot;</span>
+</code></pre>
+<h3 id="string-slicing-em-javascript">String Slicing em JavaScript</h3>
+<ol>
+<li><code>substring(startIndex, endIndex)</code>: Este método retorna uma nova string que é uma cópia da porção da string original entre os índices <code>startIndex</code> (inclusive) e <code>endIndex</code> (exclusive).</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> str = <span class="hljs-string">&#x27;Hello, World!&#x27;</span>;
+<span class="hljs-keyword">const</span> substring1 = str.<span class="hljs-title function_">substring</span>(<span class="hljs-number">0</span>, <span class="hljs-number">5</span>); <span class="hljs-comment">// Resultado: &#x27;Hello&#x27;</span>
+<span class="hljs-keyword">const</span> substring2 = str.<span class="hljs-title function_">substring</span>(<span class="hljs-number">7</span>, <span class="hljs-number">12</span>); <span class="hljs-comment">// Resultado: &#x27;World&#x27;</span>
+</code></pre>
+<ol start="2">
+<li><code>slice(startIndex, endIndex)</code>: Similar ao método <code>substring()</code>, o método <code>slice()</code> também retorna uma nova string que é uma cópia da porção da string original entre os índices <code>startIndex</code> (inclusive) e <code>endIndex</code> (exclusive).</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> str = <span class="hljs-string">&#x27;Hello, World!&#x27;</span>;
+<span class="hljs-keyword">const</span> slice1 = str.<span class="hljs-title function_">slice</span>(<span class="hljs-number">0</span>, <span class="hljs-number">5</span>); <span class="hljs-comment">// Resultado: &#x27;Hello&#x27;</span>
+<span class="hljs-keyword">const</span> slice2 = str.<span class="hljs-title function_">slice</span>(<span class="hljs-number">7</span>, <span class="hljs-number">12</span>); <span class="hljs-comment">// Resultado: &#x27;World&#x27;</span>
+</code></pre>
+<ol start="3">
+<li><code>substr(startIndex, length)</code>: Este método retorna uma nova string que começa no índice <code>startIndex</code> e possui um comprimento de <code>length</code> caracteres.</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> str = <span class="hljs-string">&#x27;Hello, World!&#x27;</span>;
+<span class="hljs-keyword">const</span> substr1 = str.<span class="hljs-title function_">substr</span>(<span class="hljs-number">0</span>, <span class="hljs-number">5</span>); <span class="hljs-comment">// Resultado: &#x27;Hello&#x27;</span>
+<span class="hljs-keyword">const</span> substr2 = str.<span class="hljs-title function_">substr</span>(<span class="hljs-number">7</span>, <span class="hljs-number">5</span>); <span class="hljs-comment">// Resultado: &#x27;World&#x27;</span>
+</code></pre>
+<ol start="4">
+<li><code>charAt(index)</code>: Retorna o caractere na posição <code>index</code> da string.</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> str = <span class="hljs-string">&#x27;Hello, World!&#x27;</span>;
+<span class="hljs-keyword">const</span> char = str.<span class="hljs-title function_">charAt</span>(<span class="hljs-number">4</span>); <span class="hljs-comment">// Resultado: &#x27;o&#x27;</span>
+</code></pre>
+<ol start="5">
+<li><code>charAt()</code>: Você também pode usar o acesso direto aos índices para obter um caractere específico.</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> str = <span class="hljs-string">&#x27;Hello, World!&#x27;</span>;
+<span class="hljs-keyword">const</span> char = str[<span class="hljs-number">4</span>]; <span class="hljs-comment">// Resultado: &#x27;o&#x27;</span>
+</code></pre>
+<ol start="6">
+<li><code>substring(startIndex)</code>: Se você omitir o <code>endIndex</code> em <code>substring()</code> e <code>slice()</code>, eles retornarão uma substring a partir do <code>startIndex</code> até o final da string.</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> str = <span class="hljs-string">&#x27;Hello, World!&#x27;</span>;
+<span class="hljs-keyword">const</span> substring = str.<span class="hljs-title function_">substring</span>(<span class="hljs-number">7</span>); <span class="hljs-comment">// Resultado: &#x27;World!&#x27;</span>
+<span class="hljs-keyword">const</span> slice = str.<span class="hljs-title function_">slice</span>(<span class="hljs-number">7</span>); <span class="hljs-comment">// Resultado: &#x27;World!&#x27;</span>
+</code></pre>
+<h3 id="formatação-de-números-em-strings-em-javascript">Formatação de Números em Strings em JavaScript</h3>
+<ol>
+<li>Método <code>toFixed()</code>:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> numero = <span class="hljs-number">123.456</span>;
+<span class="hljs-keyword">let</span> numeroFormatado = numero.<span class="hljs-title function_">toFixed</span>(<span class="hljs-number">2</span>);
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(numeroFormatado); <span class="hljs-comment">// Saída: &quot;123.46&quot;</span>
+</code></pre>
+<ol start="2">
+<li>Método <code>toPrecision()</code>:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> numero = <span class="hljs-number">12345.6789</span>;
+<span class="hljs-keyword">let</span> numeroFormatado = numero.<span class="hljs-title function_">toPrecision</span>(<span class="hljs-number">5</span>);
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(numeroFormatado); <span class="hljs-comment">// Saída: &quot;12345&quot;</span>
+</code></pre>
+<ol start="3">
+<li>Método <code>toLocaleString()</code>:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> numero = <span class="hljs-number">1234567.89</span>;
+<span class="hljs-keyword">let</span> numeroFormatado = numero.<span class="hljs-title function_">toLocaleString</span>();
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(numeroFormatado); <span class="hljs-comment">// Saída: &quot;1,234,567.89&quot; (dependendo da configuração regional do usuário)</span>
+</code></pre>
+<ol start="4">
+<li>Utilizando <code>Intl.NumberFormat</code>:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> numero = <span class="hljs-number">9876543.21</span>;
+<span class="hljs-keyword">let</span> formatadorNumero = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Intl</span>.<span class="hljs-title class_">NumberFormat</span>(<span class="hljs-string">&#x27;pt-BR&#x27;</span>, {
+  <span class="hljs-attr">style</span>: <span class="hljs-string">&#x27;decimal&#x27;</span>,
+  <span class="hljs-attr">minimumFractionDigits</span>: <span class="hljs-number">2</span>,
+  <span class="hljs-attr">maximumFractionDigits</span>: <span class="hljs-number">2</span>
+});
+<span class="hljs-keyword">let</span> numeroFormatado = formatadorNumero.<span class="hljs-title function_">format</span>(numero);
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(numeroFormatado); <span class="hljs-comment">// Saída: &quot;9.876.543,21&quot;</span>
+</code></pre>
+<h3 id="formatação-de-datas-em-strings-em-javascript">Formatação de Datas em Strings em JavaScript</h3>
+<ol>
+<li>Método <code>toLocaleDateString()</code>:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> data = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+<span class="hljs-keyword">let</span> dataFormatada = data.<span class="hljs-title function_">toLocaleDateString</span>();
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(dataFormatada); 
+<span class="hljs-comment">// Saída: dependendo da configuração regional do usuário </span>
+<span class="hljs-comment">// (por exemplo, &quot;06/08/2023&quot; em formato MM/DD/YYYY)</span>
+</code></pre>
+<ol start="2">
+<li>Utilizando <code>Intl.DateTimeFormat</code>:</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-keyword">let</span> data = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+<span class="hljs-keyword">let</span> formatadorData = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Intl</span>.<span class="hljs-title class_">DateTimeFormat</span>(<span class="hljs-string">&#x27;pt-BR&#x27;</span>, {
+  <span class="hljs-attr">year</span>: <span class="hljs-string">&#x27;numeric&#x27;</span>,
+  <span class="hljs-attr">month</span>: <span class="hljs-string">&#x27;2-digit&#x27;</span>,
+  <span class="hljs-attr">day</span>: <span class="hljs-string">&#x27;2-digit&#x27;</span>
+});
+<span class="hljs-keyword">let</span> dataFormatada = formatadorData.<span class="hljs-title function_">format</span>(data);
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(dataFormatada); <span class="hljs-comment">// Saída: &quot;06/08/2023&quot;</span>
+</code></pre>
+<ol start="3">
+<li>Bibliotecas de terceiros:</li>
+</ol>
+<p>Exemplo usando Moment.js:</p>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> moment = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;moment&#x27;</span>);
+<span class="hljs-keyword">let</span> data = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+<span class="hljs-keyword">let</span> dataFormatada = <span class="hljs-title function_">moment</span>(data).<span class="hljs-title function_">format</span>(<span class="hljs-string">&#x27;DD/MM/YYYY&#x27;</span>);
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(dataFormatada); <span class="hljs-comment">// Saída: &quot;06/08/2023&quot;</span>
+</code></pre>
+<p>Exemplo usando Day.js:</p>
+<pre><code class="language-javascript"><span class="hljs-keyword">const</span> dayjs = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;dayjs&#x27;</span>);
+<span class="hljs-keyword">let</span> data = <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+<span class="hljs-keyword">let</span> dataFormatada = <span class="hljs-title function_">dayjs</span>(data).<span class="hljs-title function_">format</span>(<span class="hljs-string">&#x27;DD/MM/YYYY&#x27;</span>);
+<span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(dataFormatada); <span class="hljs-comment">// Saída: &quot;06/08/2023&quot;</span>
+</code></pre>
+<h3 id="funções-de-strings-em-javascript">Funções de Strings em JavaScript</h3>
+<ol>
+<li>
+<p>String: length</p>
+<ul>
+<li>Uso: É uma propriedade que retorna o comprimento da string, ou seja, o número de caracteres na string.</li>
+<li>Parâmetros: Não possui parâmetros, pois é uma propriedade.</li>
+</ul>
+</li>
+<li>
+<p><a href="http://String.prototype.at">String.prototype.at</a></p>
+<ul>
+<li>Uso: O método <code>at</code> permite acessar o caractere em um determinado índice da string.</li>
+<li>Parâmetros: Requer um parâmetro, que é o índice do caractere a ser acessado.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.charAt</p>
+<ul>
+<li>Uso: O método <code>charAt</code> retorna o caractere em um índice específico da string.</li>
+<li>Parâmetros: Requer um parâmetro, que é o índice do caractere a ser retornado.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.charCodeAt</p>
+<ul>
+<li>Uso: O método <code>charCodeAt</code> retorna o valor Unicode (UTF-16 code unit) do caractere em um índice especificado da string.</li>
+<li>Parâmetros: Requer um parâmetro, que é o índice do caractere cujo valor Unicode deve ser retornado.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.codePointAt</p>
+<ul>
+<li>Uso: O método <code>codePointAt</code> retorna o valor Unicode (code point) completo do caractere em um índice especificado da string.</li>
+<li>Parâmetros: Requer um parâmetro, que é o índice do caractere cujo valor Unicode deve ser retornado.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.concat</p>
+<ul>
+<li>Uso: O método <code>concat</code> combina uma ou mais strings e retorna uma nova string resultante da concatenação.</li>
+<li>Parâmetros: Aceita um ou mais parâmetros, que são as strings a serem concatenadas.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.endsWith</p>
+<ul>
+<li>Uso: O método <code>endsWith</code> verifica se a string termina com uma substring específica.</li>
+<li>Parâmetros: Requer um parâmetro, que é a substring a ser procurada no final da string.</li>
+</ul>
+</li>
+<li>
+<p>String.fromCharCode</p>
+<ul>
+<li>Uso: O método estático <code>fromCharCode</code> retorna uma string criada usando a sequência de valores Unicode (UTF-16 code units) especificada.</li>
+<li>Parâmetros: Aceita um ou mais parâmetros inteiros que representam os valores Unicode.</li>
+</ul>
+</li>
+<li>
+<p>String.fromCodePoint</p>
+<ul>
+<li>Uso: O método estático <code>fromCodePoint</code> retorna uma string criada usando a sequência de valores Unicode (code points) especificada.</li>
+<li>Parâmetros: Aceita um ou mais parâmetros inteiros que representam os valores Unicode (code points).</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.includes</p>
+<ul>
+<li>Uso: O método <code>includes</code> verifica se a string contém uma substring específica.</li>
+<li>Parâmetros: Requer um parâmetro, que é a substring a ser procurada na string.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.indexOf</p>
+<ul>
+<li>Uso: O método <code>indexOf</code> retorna o índice da primeira ocorrência de uma substring na string.</li>
+<li>Parâmetros: Requer um parâmetro, que é a substring a ser encontrada.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.isWellFormed</p>
+<ul>
+<li>Uso: Não é um método padrão do JavaScript. O propósito e uso específico dessa função não são conhecidos com base nas informações fornecidas.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.lastIndexOf</p>
+<ul>
+<li>Uso: O método <code>lastIndexOf</code> retorna o índice da última ocorrência de uma substring na string.</li>
+<li>Parâmetros: Requer um parâmetro, que é a substring a ser encontrada.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.localeCompare</p>
+<ul>
+<li>Uso: O método <code>localeCompare</code> compara duas strings com base na localidade atual e retorna um número indicando se a primeira string é menor, maior ou igual à segunda string.</li>
+<li>Parâmetros: Requer um parâmetro, que é a string de comparação.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.match</p>
+<ul>
+<li>Uso: O método <code>match</code> é usado para encontrar correspondências de uma expressão regular na string e retornar um array contendo as correspondências.</li>
+<li>Parâmetros: Requer um parâmetro, que é a expressão regular para procurar na string.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.matchAll</p>
+<ul>
+<li>Uso: O método <code>matchAll</code> é usado para encontrar todas as correspondências de uma expressão regular na string e retornar um iterador contendo as correspondências.</li>
+<li>Parâmetros: Requer um parâmetro, que é a expressão regular para procurar na string.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.normalize</p>
+<ul>
+<li>Uso: O método <code>normalize</code> é usado para normalizar uma string Unicode, convertendo caracteres com formas equivalentes em uma forma canônica comum.</li>
+<li>Parâmetros: Pode receber um parâmetro opcional especificando o tipo de normalização (por exemplo, &quot;NFC&quot;, &quot;NFD&quot;, &quot;NFKC&quot; ou &quot;NFKD&quot;).</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.padEnd</p>
+<ul>
+<li>Uso: O método <code>padEnd</code> preenche o final da string com um caractere específico até atingir o tamanho desejado.</li>
+<li>Parâmetros: Requer dois parâmetros, o primeiro é o comprimento final da string após o preenchimento, e o segundo é o caractere a ser usado para o preenchimento (opcional, padrão é o espaço em branco).</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.padStart</p>
+<ul>
+<li>Uso: O método <code>padStart</code> preenche o início da string com um caractere específico até atingir o tamanho desejado.</li>
+<li>Parâmetros: Requer dois parâmetros, o primeiro é o comprimento final da string após o preenchimento, e o segundo é o caractere a ser usado para o preenchimento (opcional, padrão é o espaço em branco).</li>
+</ul>
+</li>
+<li>
+<p>String.raw</p>
+<ul>
+<li>Uso: O método estático <code>raw</code> é usado para obter a string raw de uma template literal, sem processar as sequências de escape.</li>
+<li>Parâmetros: Aceita um ou mais parâmetros, que são as partes da template literal.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.repeat</p>
+<ul>
+<li>Uso: O método <code>repeat</code> retorna uma nova string que consiste em repetir a string original um determinado número de vezes.</li>
+<li>Parâmetros: Requer um parâmetro, que é o número de vezes que a string deve ser repetida.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.replace</p>
+<ul>
+<li>Uso: O método <code>replace</code> é usado para substituir partes da string por outra substring ou por uma substring resultante de uma função de substituição.</li>
+<li>Parâmetros: Aceita dois parâmetros, o primeiro é a substring ou expressão regular a ser substituída, e o segundo é a nova substring ou a função de substituição.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.replaceAll</p>
+<ul>
+<li>Uso: O método <code>replaceAll</code> é similar ao <code>replace</code>, mas substitui todas as ocorrências da substring ou expressão regular na string.</li>
+<li>Parâmetros: Aceita dois parâmetros, o primeiro é a substring ou expressão regular a ser substituída, e o segundo é a nova substring.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.search</p>
+<ul>
+<li>Uso: O método <code>search</code> é usado para procurar uma substring ou expressão regular na string e retornar o índice da primeira ocorrência.</li>
+<li>Parâmetros: Requer um parâmetro, que é a substring ou a expressão regular a ser procurada.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.slice</p>
+<ul>
+<li>Uso: O método <code>slice</code> retorna uma parte da string, selecionada entre os índices fornecidos.</li>
+<li>Parâmetros: Aceita dois parâmetros, o primeiro é o índice de início da parte a ser retornada, e o segundo é o índice final (opcional, se não for fornecido, vai até o final da string).</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.split</p>
+<ul>
+<li>Uso: O método <code>split</code> é usado para dividir a string em um array de substrings com base em um separador especificado.</li>
+<li>Parâmetros: Requer um parâmetro, que é o separador usado para dividir a string.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.startsWith</p>
+<ul>
+<li>Uso: O método <code>startsWith</code> verifica se a string começa com uma substring específica.</li>
+<li>Parâmetros: Requer um parâmetro, que é a substring a ser procurada no início da string.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.substring</p>
+<ul>
+<li>Uso: O método <code>substring</code> retorna uma parte da string, selecionada entre os índices fornecidos.</li>
+<li>Parâmetros: Aceita dois parâmetros, o primeiro é o índice de início da parte a ser retornada, e o segundo é o índice final (opcional, se não for fornecido, vai até o final da string).</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.toLocaleLowerCase</p>
+<ul>
+<li>Uso: O método <code>toLocaleLowerCase</code> retorna uma nova string com todos os caracteres convertidos para letras minúsculas com base na localidade atual.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.toLocaleUpperCase</p>
+<ul>
+<li>Uso: O método <code>toLocaleUpperCase</code> retorna uma nova string com todos os caracteres convertidos para letras maiúsculas com base na localidade atual.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.toLowerCase</p>
+<ul>
+<li>Uso: O método <code>toLowerCase</code> retorna uma nova string com todos os caracteres convertidos para letras minúsculas.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.toString</p>
+<ul>
+<li>Uso: O método <code>toString</code> retorna uma string representando o objeto String.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.toUpperCase</p>
+<ul>
+<li>Uso: O método <code>toUpperCase</code> retorna uma nova string com todos os caracteres convertidos para letras maiúsculas.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.toWellFormed</p>
+<ul>
+<li>Uso: Não é um método padrão do JavaScript. O propósito e uso específico dessa função não são conhecidos com base nas informações fornecidas.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.trim</p>
+<ul>
+<li>Uso: O método <code>trim</code> retorna uma nova string com os espaços em branco removidos do início e do final da string.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.trimEnd</p>
+<ul>
+<li>Uso: O método <code>trimEnd</code> é similar ao <code>trim</code>, mas remove os espaços em branco apenas do final da string.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.trimStart</p>
+<ul>
+<li>Uso: O método <code>trimStart</code> é similar ao <code>trim</code>, mas remove os espaços em branco apenas do início da string.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>String.prototype.valueOf</p>
+<ul>
+<li>Uso: O método <code>valueOf</code> retorna o valor primitivo da String.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+</ol>
+<h2 id="java">Java</h2>
+<h3 id="concatenação-de-strings-em-java">Concatenação de Strings em Java</h3>
+<ol>
+<li>Utilizando o operador de adição (+):</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">str1</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;Hello&quot;</span>;
+<span class="hljs-type">String</span> <span class="hljs-variable">str2</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;World&quot;</span>;
+<span class="hljs-type">String</span> <span class="hljs-variable">resultado</span> <span class="hljs-operator">=</span> str1 + <span class="hljs-string">&quot; &quot;</span> + str2;
+System.out.println(resultado); <span class="hljs-comment">// Saída: &quot;Hello World&quot;</span>
+</code></pre>
+<ol start="2">
+<li>Utilizando o método <code>concat()</code>:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">str1</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;Hello&quot;</span>;
+<span class="hljs-type">String</span> <span class="hljs-variable">str2</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;World&quot;</span>;
+<span class="hljs-type">String</span> <span class="hljs-variable">resultado</span> <span class="hljs-operator">=</span> str1.concat(<span class="hljs-string">&quot; &quot;</span>).concat(str2);
+System.out.println(resultado); <span class="hljs-comment">// Saída: &quot;Hello World&quot;</span>
+</code></pre>
+<ol start="3">
+<li>Concatenação com outras variáveis ou literais:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">nome</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;Alice&quot;</span>;
+<span class="hljs-type">int</span> <span class="hljs-variable">idade</span> <span class="hljs-operator">=</span> <span class="hljs-number">30</span>;
+<span class="hljs-type">String</span> <span class="hljs-variable">mensagem</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;Meu nome é &quot;</span> + nome + <span class="hljs-string">&quot; e tenho &quot;</span> + idade + <span class="hljs-string">&quot; anos.&quot;</span>;
+System.out.println(mensagem); <span class="hljs-comment">// Saída: &quot;Meu nome é Alice e tenho 30 anos.&quot;</span>
+</code></pre>
+<ol start="5">
+<li>Concatenando com StringBuilder:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">StringBuilder</span> <span class="hljs-variable">sb</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">StringBuilder</span>();
+sb.append(<span class="hljs-string">&quot;Hello&quot;</span>);
+sb.append(<span class="hljs-string">&quot; &quot;</span>);
+sb.append(<span class="hljs-string">&quot;World&quot;</span>);
+<span class="hljs-type">String</span> <span class="hljs-variable">resultado</span> <span class="hljs-operator">=</span> sb.toString();
+System.out.println(resultado); <span class="hljs-comment">// Saída: &quot;Hello World&quot;</span>
+</code></pre>
+<h3 id="string-slicing-em-java">String Slicing em Java</h3>
+<ol>
+<li><code>substring(int beginIndex)</code>: Este método retorna uma nova string que é uma cópia da porção da string original a partir do índice <code>beginIndex</code> até o final da string.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">str</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;Hello, World!&quot;</span>;
+<span class="hljs-type">String</span> <span class="hljs-variable">substring1</span> <span class="hljs-operator">=</span> str.substring(<span class="hljs-number">7</span>); <span class="hljs-comment">// Resultado: &quot;World!&quot;</span>
+</code></pre>
+<ol start="2">
+<li><code>substring(int beginIndex, int endIndex)</code>: Este método retorna uma nova string que é uma cópia da porção da string original entre os índices <code>beginIndex</code> (inclusive) e <code>endIndex</code> (exclusive).</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">str</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;Hello, World!&quot;</span>;
+<span class="hljs-type">String</span> <span class="hljs-variable">substring2</span> <span class="hljs-operator">=</span> str.substring(<span class="hljs-number">0</span>, <span class="hljs-number">5</span>); <span class="hljs-comment">// Resultado: &quot;Hello&quot;</span>
+</code></pre>
+<ol start="3">
+<li><code>charAt(int index)</code>: Retorna o caractere na posição <code>index</code> da string.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">str</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;Hello, World!&quot;</span>;
+<span class="hljs-type">char</span> <span class="hljs-variable">character</span> <span class="hljs-operator">=</span> str.charAt(<span class="hljs-number">4</span>); <span class="hljs-comment">// Resultado: &#x27;o&#x27;</span>
+</code></pre>
+<ol start="4">
+<li><code>toCharArray()</code>: Retorna um array de caracteres contendo todos os caracteres da string.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">str</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;Hello&quot;</span>;
+<span class="hljs-type">char</span>[] charArray = str.toCharArray(); <span class="hljs-comment">// Resultado: [&#x27;H&#x27;, &#x27;e&#x27;, &#x27;l&#x27;, &#x27;l&#x27;, &#x27;o&#x27;]</span>
+</code></pre>
+<ol start="5">
+<li><code>getChars(int srcBegin, int srcEnd, char[] dst, int dstBegin)</code>: Copia os caracteres desta string para um array de caracteres de destino.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-type">String</span> <span class="hljs-variable">str</span> <span class="hljs-operator">=</span> <span class="hljs-string">&quot;Hello, World!&quot;</span>;
+<span class="hljs-type">char</span>[] destArray = <span class="hljs-keyword">new</span> <span class="hljs-title class_">char</span>[<span class="hljs-number">5</span>];
+str.getChars(<span class="hljs-number">0</span>, <span class="hljs-number">5</span>, destArray, <span class="hljs-number">0</span>); <span class="hljs-comment">// Copia os primeiros 5 caracteres para destArray</span>
+</code></pre>
+<h3 id="formatação-de-números-em-strings-em-java">Formatação de Números em Strings em Java</h3>
+<ol>
+<li>Usando <code>DecimalFormat</code>:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.text.DecimalFormat;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Main</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">double</span> <span class="hljs-variable">numero</span> <span class="hljs-operator">=</span> <span class="hljs-number">12345.6789</span>;
+        <span class="hljs-type">DecimalFormat</span> <span class="hljs-variable">formato</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">DecimalFormat</span>(<span class="hljs-string">&quot;#,##0.00&quot;</span>);
+        <span class="hljs-type">String</span> <span class="hljs-variable">numeroFormatado</span> <span class="hljs-operator">=</span> formato.format(numero);
+        System.out.println(numeroFormatado); <span class="hljs-comment">// Saída: &quot;12,345.68&quot;</span>
+    }
+}
+</code></pre>
+<ol start="2">
+<li>Usando <code>Formatter</code>:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.util.Formatter;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Main</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">double</span> <span class="hljs-variable">numero</span> <span class="hljs-operator">=</span> <span class="hljs-number">12345.6789</span>;
+        <span class="hljs-type">Formatter</span> <span class="hljs-variable">formato</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">Formatter</span>();
+        <span class="hljs-type">String</span> <span class="hljs-variable">numeroFormatado</span> <span class="hljs-operator">=</span> formato.format(<span class="hljs-string">&quot;%.2f&quot;</span>, numero).toString();
+        System.out.println(numeroFormatado); <span class="hljs-comment">// Saída: &quot;12345.68&quot;</span>
+    }
+}
+</code></pre>
+<ol start="3">
+<li>Usando <code>getCurrencyInstance</code>:</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.text.DecimalFormat;
+<span class="hljs-keyword">import</span> java.util.Currency;
+<span class="hljs-keyword">import</span> java.util.Locale;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Main</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">double</span> <span class="hljs-variable">numero</span> <span class="hljs-operator">=</span> <span class="hljs-number">12345.6789</span>;
+        <span class="hljs-type">DecimalFormat</span> <span class="hljs-variable">formato</span> <span class="hljs-operator">=</span> (DecimalFormat) DecimalFormat.
+                getCurrencyInstance(Locale.US);
+        <span class="hljs-type">String</span> <span class="hljs-variable">numeroFormatado</span> <span class="hljs-operator">=</span> formato.format(numero);
+        System.out.println(numeroFormatado); <span class="hljs-comment">// Saída: &quot;$12,345.68&quot;</span>
+    }
+}
+</code></pre>
+<p>Lembre-se de importar as classes necessárias no início do arquivo Java:</p>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.text.DecimalFormat;
+<span class="hljs-keyword">import</span> java.util.Formatter;
+<span class="hljs-keyword">import</span> java.util.Locale;
+</code></pre>
+<h3 id="formatação-de-datas-em-strings-em-java">Formatação de Datas em Strings em Java</h3>
+<p>Em Java, para formatar datas em strings, você pode usar a classe <code>java.text.SimpleDateFormat</code> ou a classe <code>java.time.format.DateTimeFormatter</code>. Ambas as classes permitem formatar datas de acordo com um padrão específico. Abaixo estão exemplos de como formatar datas em strings usando essas classes:</p>
+<ol>
+<li>Usando <code>SimpleDateFormat</code> (antes do Java 8):</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.text.SimpleDateFormat;
+<span class="hljs-keyword">import</span> java.util.Date;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Main</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">Date</span> <span class="hljs-variable">data</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">Date</span>();
+        <span class="hljs-type">SimpleDateFormat</span> <span class="hljs-variable">formato</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">SimpleDateFormat</span>(<span class="hljs-string">&quot;dd/MM/yyyy&quot;</span>);
+        <span class="hljs-type">String</span> <span class="hljs-variable">dataFormatada</span> <span class="hljs-operator">=</span> formato.format(data);
+        System.out.println(dataFormatada); <span class="hljs-comment">// Saída: &quot;06/08/2023&quot;</span>
+    }
+}
+</code></pre>
+<ol start="2">
+<li>Usando <code>DateTimeFormatter</code> (Java 8 e posteriores):</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.time.LocalDate;
+<span class="hljs-keyword">import</span> java.time.format.DateTimeFormatter;
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Main</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">main</span><span class="hljs-params">(String[] args)</span> {
+        <span class="hljs-type">LocalDate</span> <span class="hljs-variable">data</span> <span class="hljs-operator">=</span> LocalDate.now();
+        <span class="hljs-type">DateTimeFormatter</span> <span class="hljs-variable">formato</span> <span class="hljs-operator">=</span> DateTimeFormatter.ofPattern(<span class="hljs-string">&quot;dd/MM/yyyy&quot;</span>);
+        <span class="hljs-type">String</span> <span class="hljs-variable">dataFormatada</span> <span class="hljs-operator">=</span> data.format(formato);
+        System.out.println(dataFormatada); <span class="hljs-comment">// Saída: &quot;06/08/2023&quot;</span>
+    }
+}
+</code></pre>
+<p>Lembre-se de importar as classes necessárias no início do arquivo Java:</p>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> java.text.SimpleDateFormat;
+<span class="hljs-keyword">import</span> java.time.LocalDate;
+<span class="hljs-keyword">import</span> java.time.LocalDateTime;
+<span class="hljs-keyword">import</span> java.time.format.DateTimeFormatter;
+<span class="hljs-keyword">import</span> java.util.Date;
+</code></pre>
+<h3 id="funções-de-strings-em-java">Funções de Strings em Java</h3>
+<ol>
+<li>
+<p><code>charAt(int index)</code>:</p>
+<ul>
+<li>Uso: Retorna o caractere no índice especificado da String.</li>
+<li>Parâmetros: <code>index</code> - o índice do caractere a ser retornado.</li>
+</ul>
+</li>
+<li>
+<p><code>codePointAt(int index)</code>:</p>
+<ul>
+<li>Uso: Retorna o ponto de código Unicode no índice especificado da String.</li>
+<li>Parâmetros: <code>index</code> - o índice do ponto de código a ser retornado.</li>
+</ul>
+</li>
+<li>
+<p><code>codePointBefore(int index)</code>:</p>
+<ul>
+<li>Uso: Retorna o ponto de código Unicode antes do índice especificado da String.</li>
+<li>Parâmetros: <code>index</code> - o índice do ponto de código a ser retornado.</li>
+</ul>
+</li>
+<li>
+<p><code>codePointCount(int beginIndex, int endIndex)</code>:</p>
+<ul>
+<li>Uso: Retorna o número de pontos de código Unicode no intervalo de texto especificado da String.</li>
+<li>Parâmetros: <code>beginIndex</code> - o índice do primeiro ponto de código do intervalo, <code>endIndex</code> - o índice após o último ponto de código do intervalo.</li>
+</ul>
+</li>
+<li>
+<p><code>compareTo(String anotherString)</code>:</p>
+<ul>
+<li>Uso: Compara duas strings lexicograficamente.</li>
+<li>Parâmetros: <code>anotherString</code> - a string a ser comparada.</li>
+</ul>
+</li>
+<li>
+<p><code>compareToIgnoreCase(String str)</code>:</p>
+<ul>
+<li>Uso: Compara duas strings lexicograficamente, ignorando diferenças de maiúsculas e minúsculas.</li>
+<li>Parâmetros: <code>str</code> - a string a ser comparada.</li>
+</ul>
+</li>
+<li>
+<p><code>concat(String str)</code>:</p>
+<ul>
+<li>Uso: Concatena a string especificada no final desta string.</li>
+<li>Parâmetros: <code>str</code> - a string a ser concatenada.</li>
+</ul>
+</li>
+<li>
+<p><code>contains(CharSequence s)</code>:</p>
+<ul>
+<li>Uso: Retorna true se e somente se esta string contém a sequência de caracteres especificada.</li>
+<li>Parâmetros: <code>s</code> - a sequência de caracteres a ser pesquisada.</li>
+</ul>
+</li>
+<li>
+<p><code>contentEquals(CharSequence cs)</code>:</p>
+<ul>
+<li>Uso: Compara esta string com a CharSequence especificada.</li>
+<li>Parâmetros: <code>cs</code> - a CharSequence a ser comparada.</li>
+</ul>
+</li>
+<li>
+<p><code>contentEquals(StringBuffer sb)</code>:</p>
+<ul>
+<li>Uso: Compara esta string com a StringBuffer especificada.</li>
+<li>Parâmetros: <code>sb</code> - a StringBuffer a ser comparada.</li>
+</ul>
+</li>
+<li>
+<p><code>copyValueOf(char[] data)</code>:</p>
+<ul>
+<li>Uso: Equivalente a <code>valueOf(char[])</code>.</li>
+<li>Parâmetros: <code>data</code> - o array de caracteres a ser utilizado.</li>
+</ul>
+</li>
+<li>
+<p><code>copyValueOf(char[] data, int offset, int count)</code>:</p>
+<ul>
+<li>Uso: Equivalente a <code>valueOf(char[], int, int)</code>.</li>
+<li>Parâmetros: <code>data</code> - o array de caracteres a ser utilizado, <code>offset</code> - o índice inicial do subarray, <code>count</code> - o número de caracteres a serem utilizados.</li>
+</ul>
+</li>
+<li>
+<p><code>endsWith(String suffix)</code>:</p>
+<ul>
+<li>Uso: Verifica se esta string termina com o sufixo especificado.</li>
+<li>Parâmetros: <code>suffix</code> - o sufixo a ser verificado.</li>
+</ul>
+</li>
+<li>
+<p><code>equals(Object anObject)</code>:</p>
+<ul>
+<li>Uso: Compara esta string com o objeto especificado.</li>
+<li>Parâmetros: <code>anObject</code> - o objeto a ser comparado.</li>
+</ul>
+</li>
+<li>
+<p><code>equalsIgnoreCase(String anotherString)</code>:</p>
+<ul>
+<li>Uso: Compara esta string com outra string, ignorando diferenças de maiúsculas e minúsculas.</li>
+<li>Parâmetros: <code>anotherString</code> - a outra string a ser comparada.</li>
+</ul>
+</li>
+<li>
+<p><code>format(Locale l, String format, Object... args)</code>:</p>
+<ul>
+<li>Uso: Retorna uma string formatada usando a localização (Locale), a string de formatação e os argumentos especificados.</li>
+<li>Parâmetros: <code>l</code> - a localização (Locale) a ser utilizada, <code>format</code> - a string de formatação, <code>args</code> - os argumentos a serem inseridos na string de formatação.</li>
+</ul>
+</li>
+<li>
+<p><code>format(String format, Object... args)</code>:</p>
+<ul>
+<li>Uso: Retorna uma string formatada usando a string de formatação e os argumentos especificados.</li>
+<li>Parâmetros: <code>format</code> - a string de formatação, <code>args</code> - os argumentos a serem inseridos na string de formatação.</li>
+</ul>
+</li>
+<li>
+<p><code>getBytes()</code>:</p>
+<ul>
+<li>Uso: Codifica esta string em uma sequência de bytes usando o conjunto de caracteres padrão da plataforma, armazenando o resultado em um novo array de bytes.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><code>getBytes(Charset charset)</code>:</p>
+<ul>
+<li>Uso: Codifica esta string em uma sequência de bytes usando o conjunto de caracteres especificado, armazenando o resultado em um novo array de bytes.</li>
+<li>Parâmetros: <code>charset</code> - o conjunto de caracteres a ser utilizado para a codificação.</li>
+</ul>
+</li>
+<li>
+<p><code>getBytes(String charsetName)</code>:</p>
+<ul>
+<li>Uso: Codifica esta string em uma sequência de bytes usando o conjunto de caracteres nomeado, armazenando o resultado em um novo array de bytes.</li>
+<li>Parâmetros: <code>charsetName</code> - o nome do conjunto de caracteres a ser utilizado para a codificação.</li>
+</ul>
+</li>
+<li>
+<p><code>getChars(int srcBegin, int srcEnd, char[] dst, int dstBegin)</code>:</p>
+<ul>
+<li>Uso: Copia os caracteres desta string para o array de caracteres de destino.</li>
+<li>Parâmetros: <code>srcBegin</code> - o índice do primeiro caractere a ser copiado, <code>srcEnd</code> - o índice após o último caractere a ser copiado, <code>dst</code> - o array de caracteres de destino, <code>dstBegin</code> - o índice de destino inicial.</li>
+</ul>
+</li>
+<li>
+<p><code>hashCode()</code>:</p>
+<ul>
+<li>Uso: Retorna um código hash para esta string.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><code>indexOf(int ch)</code>:</p>
+<ul>
+<li>Uso: Retorna o índice da primeira ocorrência do caractere especificado nesta string.</li>
+<li>Parâmetros: <code>ch</code> - o caractere a ser pesquisado.</li>
+</ul>
+</li>
+<li>
+<p><code>indexOf(int ch, int fromIndex)</code>:</p>
+<ul>
+<li>Uso: Retorna o índice da primeira ocorrência do caractere especificado nesta string, começando a pesquisa a partir do índice especificado.</li>
+<li>Parâmetros: <code>ch</code> - o caractere a ser pesquisado, <code>fromIndex</code> - o índice de início da pesquisa.</li>
+</ul>
+</li>
+<li>
+<p><code>indexOf(String str)</code>:</p>
+<ul>
+<li>Uso: Retorna o índice da primeira ocorrência da substring especificada nesta string.</li>
+<li>Parâmetros: <code>str</code> - a substring a ser pesquisada.</li>
+</ul>
+</li>
+<li>
+<p><code>indexOf(String str, int fromIndex)</code>:</p>
+<ul>
+<li>Uso: Retorna o índice da primeira ocorrência da substring especificada nesta string, começando a pesquisa a partir do índice especificado.</li>
+<li>Parâmetros: <code>str</code> - a substring a ser pesquisada, <code>fromIndex</code> - o índice de início da pesquisa.</li>
+</ul>
+</li>
+<li>
+<p><code>intern()</code>:</p>
+<ul>
+<li>Uso: Retorna uma representação canônica (única) do objeto String.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><code>isEmpty()</code>:</p>
+<ul>
+<li>Uso: Retorna true se o tamanho (length) da string for igual a 0.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><code>join(CharSequence delimiter, CharSequence... elements)</code>:</p>
+<ul>
+<li>Uso: Retorna uma nova String composta de cópias dos elementos CharSequence unidos por um delimitador especificado.</li>
+<li>Parâmetros: <code>delimiter</code> - o delimitador a ser inserido entre os elementos, <code>elements</code> - os elementos a serem unidos.</li>
+</ul>
+</li>
+<li>
+<p><code>join(CharSequence delimiter, Iterable&lt;? extends CharSequence&gt; elements)</code>:</p>
+<ul>
+<li>Uso: Retorna uma nova String composta de cópias dos elementos CharSequence unidos por um delimitador especificado.</li>
+<li>Parâmetros: <code>delimiter</code> - o delimitador a ser inserido entre os elementos, <code>elements</code> - os elementos a serem unidos.</li>
+</ul>
+</li>
+<li>
+<p><code>lastIndexOf(int ch)</code>:</p>
+<ul>
+<li>Uso: Retorna o índice da última ocorrência do caractere especificado nesta string.</li>
+<li>Parâmetros: <code>ch</code> - o caractere a ser pesquisado.</li>
+</ul>
+</li>
+<li>
+<p><code>lastIndexOf(int ch, int fromIndex)</code>:</p>
+<ul>
+<li>Uso: Retorna o índice da última ocorrência do caractere especificado nesta string, começando a pesquisa a partir do índice especificado.</li>
+<li>Parâmetros: <code>ch</code> - o caractere a ser pesquisado, <code>fromIndex</code> - o índice de início da pesquisa.</li>
+</ul>
+</li>
+<li>
+<p><code>lastIndexOf(String str)</code>:</p>
+<ul>
+<li>Uso: Retorna o índice da última ocorrência da substring especificada nesta string.</li>
+<li>Parâmetros: <code>str</code> - a substring a ser pesquisada.</li>
+</ul>
+</li>
+<li>
+<p><code>lastIndexOf(String str, int fromIndex)</code>:</p>
+<ul>
+<li>Uso: Retorna o índice da última ocorrência da substring especificada nesta string, começando a pesquisa a partir do índice especificado.</li>
+<li>Parâmetros: <code>str</code> - a substring a ser pesquisada, <code>fromIndex</code> - o índice de início da pesquisa.</li>
+</ul>
+</li>
+<li>
+<p><code>length()</code>:</p>
+<ul>
+<li>Uso: Retorna o tamanho (número de caracteres) desta string.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><code>matches(String regex)</code>:</p>
+<ul>
+<li>Uso: Indica se esta string corresponde à expressão regular especificada.</li>
+<li>Parâmetros: <code>regex</code> - a expressão regular a ser utilizada.</li>
+</ul>
+</li>
+<li>
+<p><code>offsetByCodePoints(int index, int codePointOffset)</code>:</p>
+<ul>
+<li>Uso: Retorna o índice nesta string que é deslocado a partir do índice fornecido por um deslocamento em pontos de código.</li>
+<li>Parâmetros: <code>index</code> - o índice base, <code>codePointOffset</code> - o deslocamento em pontos de código.</li>
+</ul>
+</li>
+<li>
+<p><code>regionMatches(boolean ignoreCase, int toffset, String other, int ooffset, int len)</code>:</p>
+<ul>
+<li>Uso: Testa se duas regiões de string são iguais.</li>
+<li>Parâmetros: <code>ignoreCase</code> - se true, a comparação é feita ignorando diferenças de maiúsculas e minúsculas, <code>toffset</code> - o índice de início nesta string da região a ser verificada, <code>other</code> - a outra string para comparar, <code>ooffset</code> - o índice de início da região na outra string, <code>len</code> - o número de caracteres a serem comparados.</li>
+</ul>
+</li>
+<li>
+<p><code>regionMatches(int toffset, String other, int ooffset, int len)</code>:</p>
+<ul>
+<li>Uso: Testa se duas regiões de string são iguais.</li>
+<li>Parâmetros: <code>toffset</code> - o índice de início nesta string da região a ser verificada, <code>other</code> - a outra string para comparar, <code>ooffset</code> - o índice de início da região na outra string, <code>len</code> - o número de caracteres a serem comparados.</li>
+</ul>
+</li>
+<li>
+<p><code>replace(char oldChar, char newChar)</code>:</p>
+<ul>
+<li>Uso: Retorna uma string resultante da substituição de todas as ocorrências de um caractere antigo por um caractere novo nesta string.</li>
+<li>Parâmetros: <code>oldChar</code> - o caractere a ser substituído, <code>newChar</code> - o caractere de substituição.</li>
+</ul>
+</li>
+<li>
+<p><code>replace(CharSequence target, CharSequence replacement)</code>:</p>
+<ul>
+<li>Uso: Substitui cada ocorrência da sequência de caracteres alvo por uma sequência de caracteres de substituição especificada nesta string.</li>
+<li>Parâmetros: <code>target</code> - a sequência de caracteres a ser substituída, <code>replacement</code> - a sequência de caracteres de substituição.</li>
+</ul>
+</li>
+<li>
+<p><code>replaceAll(String regex, String replacement)</code>:</p>
+<ul>
+<li>Uso: Substitui cada substring que corresponde à expressão regular especificada por uma string de substituição.</li>
+<li>Parâmetros: <code>regex</code> - a expressão regular a ser utilizada para a busca, <code>replacement</code> - a string de substituição.</li>
+</ul>
+</li>
+<li>
+<p><code>replaceFirst(String regex, String replacement)</code>:</p>
+<ul>
+<li>Uso: Substitui a primeira substring que corresponde à expressão regular especificada por uma string de substituição.</li>
+<li>Parâmetros: <code>regex</code> - a expressão regular a ser utilizada para a busca, <code>replacement</code> - a string de substituição.</li>
+</ul>
+</li>
+<li>
+<p><code>split(String regex)</code>:</p>
+<ul>
+<li>Uso: Divide esta string em torno das ocorrências da expressão regular especificada.</li>
+<li>Parâmetros: <code>regex</code> - a expressão regular a ser utilizada como delimitador.</li>
+</ul>
+</li>
+<li>
+<p><code>split(String regex, int limit)</code>:</p>
+<ul>
+<li>Uso: Divide esta string em torno das ocorrências da expressão regular especificada, limitando o número de divisões.</li>
+<li>Parâmetros: <code>regex</code> - a expressão regular a ser utilizada como delimitador, <code>limit</code> - o número máximo de divisões a serem realizadas.</li>
+</ul>
+</li>
+<li>
+<p><code>startsWith(String prefix)</code>:</p>
+<ul>
+<li>Uso: Verifica se esta string começa com o prefixo especificado.</li>
+<li>Parâmetros: <code>prefix</code> - o prefixo a ser verificado.</li>
+</ul>
+</li>
+<li>
+<p><code>startsWith(String prefix, int toffset)</code>:</p>
+<ul>
+<li>Uso: Verifica se a substring desta string que começa no índice especificado começa com o prefixo especificado.</li>
+<li>Parâmetros: <code>prefix</code> - o prefixo a ser verificado, <code>toffset</code> - o índice de início da substring.</li>
+</ul>
+</li>
+<li>
+<p><code>subSequence(int beginIndex, int endIndex)</code>:</p>
+<ul>
+<li>Uso: Retorna uma sequência de caracteres que é uma sub-sequência desta sequência.</li>
+<li>Parâmetros: <code>beginIndex</code> - o índice inicial da sub-sequência, <code>endIndex</code> - o índice após o último caractere da sub-sequência.</li>
+</ul>
+</li>
+<li>
+<p><code>substring(int beginIndex)</code>:</p>
+<ul>
+<li>Uso: Retorna uma substring desta string, começando no índice especificado até o final da string.</li>
+<li>Parâmetros: <code>beginIndex</code> - o índice de início da substring.</li>
+</ul>
+</li>
+<li>
+<p><code>substring(int beginIndex, int endIndex)</code>:</p>
+<ul>
+<li>Uso: Retorna uma substring desta string, começando no índice especificado e terminando no índice anterior ao índice final.</li>
+<li>Parâmetros: <code>beginIndex</code> - o índice de início da substring, <code>endIndex</code> - o índice após o último caractere da substring.</li>
+</ul>
+</li>
+<li>
+<p><code>toCharArray()</code>:</p>
+<ul>
+<li>Uso: Converte esta string em um novo array de caracteres.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><code>toLowerCase()</code>:</p>
+<ul>
+<li>Uso: Converte todos os caracteres desta string para minúsculas usando as regras da localização (Locale) padrão.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><code>toLowerCase(Locale locale)</code>:</p>
+<ul>
+<li>Uso: Converte todos os caracteres desta string para minúsculas usando as regras da localização (Locale) especificada.</li>
+<li>Parâmetros: <code>locale</code> - a localização (Locale) a ser utilizada.</li>
+</ul>
+</li>
+<li>
+<p><code>toString()</code>:</p>
+<ul>
+<li>Uso: Retorna esta string (que já é uma string, por isso o método simplesmente retorna a instância atual).</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><code>toUpperCase()</code>:</p>
+<ul>
+<li>Uso: Converte todos os caracteres desta string para maiúsculas usando as regras da localização (Locale) padrão.</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><code>toUpperCase(Locale locale)</code>:</p>
+<ul>
+<li>Uso: Converte todos os caracteres desta string para maiúsculas usando as regras da localização (Locale) especificada.</li>
+<li>Parâmetros: <code>locale</code> - a localização (Locale) a ser utilizada.</li>
+</ul>
+</li>
+<li>
+<p><code>trim()</code>:</p>
+<ul>
+<li>Uso: Retorna uma string cujo valor é esta string, removendo qualquer espaço em branco (espaços em branco no início e no final da string).</li>
+<li>Parâmetros: Nenhum.</li>
+</ul>
+</li>
+<li>
+<p><code>valueOf(boolean b)</code>:</p>
+<ul>
+<li>Uso: Retorna a representação de string do argumento booleano.</li>
+<li>Parâmetros: <code>b</code> - o valor booleano a ser representado como string.</li>
+</ul>
+</li>
+<li>
+<p><code>valueOf(char c)</code>:</p>
+<ul>
+<li>Uso: Retorna a representação de string do argumento char.</li>
+<li>Parâmetros: <code>c</code> - o caractere a ser representado como string.</li>
+</ul>
+</li>
+<li>
+<p><code>valueOf(char[] data)</code>:</p>
+<ul>
+<li>Uso: Retorna a representação de string do array de caracteres.</li>
+<li>Parâmetros: <code>data</code> - o array de caracteres a ser representado como string.</li>
+</ul>
+</li>
+<li>
+<p><code>valueOf(char[] data, int offset, int count)</code>:</p>
+<ul>
+<li>Uso: Retorna a representação de string de um subarray específico do array de caracteres.</li>
+<li>Parâmetros: <code>data</code> - o array de caracteres que contém o subarray, <code>offset</code> - o índice inicial do subarray, <code>count</code> - o número de caracteres a serem incluídos no subarray.</li>
+</ul>
+</li>
+<li>
+<p><code>valueOf(double d)</code>:</p>
+<ul>
+<li>Uso: Retorna a representação de string do argumento double.</li>
+<li>Parâmetros: <code>d</code> - o valor double a ser representado como string.</li>
+</ul>
+</li>
+<li>
+<p><code>valueOf(float f)</code>:</p>
+<ul>
+<li>Uso: Retorna a representação de string do argumento float.</li>
+<li>Parâmetros: <code>f</code> - o valor float a ser representado como string.</li>
+</ul>
+</li>
+<li>
+<p><code>valueOf(int i)</code>:</p>
+<ul>
+<li>Uso: Retorna a representação de string do argumento inteiro.</li>
+<li>Parâmetros: <code>i</code> - o valor inteiro a ser representado como string.</li>
+</ul>
+</li>
+<li>
+<p><code>valueOf(long l)</code>:</p>
+<ul>
+<li>Uso: Retorna a representação de string do argumento long.</li>
+<li>Parâmetros: <code>l</code> - o valor long a ser representado como string.</li>
+</ul>
+</li>
+<li>
+<p><code>valueOf(Object obj)</code>:</p>
+<ul>
+<li>Uso: Retorna a representação de string do argumento objeto.</li>
+<li>Parâmetros: <code>obj</code> - o objeto a ser representado como string.</li>
+</ul>
+</li>
+</ol>
+<h2 id="python">Python</h2>
+<h3 id="concatenação-de-strings-em-python">Concatenação de Strings em Python</h3>
+<ol>
+<li>Usando o operador <code>+</code>:</li>
+</ol>
+<pre><code class="language-python">str1 = <span class="hljs-string">&quot;Olá&quot;</span>
+str2 = <span class="hljs-string">&quot;Mundo&quot;</span>
+resultado = str1 + <span class="hljs-string">&quot; &quot;</span> + str2
+<span class="hljs-built_in">print</span>(resultado)  <span class="hljs-comment"># Saída: &quot;Olá Mundo&quot;</span>
+</code></pre>
+<ol>
+<li>Usando o método <code>join()</code>:</li>
+</ol>
+<pre><code class="language-python">lista = [<span class="hljs-string">&quot;Olá&quot;</span>, <span class="hljs-string">&quot;Mundo&quot;</span>]
+separador = <span class="hljs-string">&quot; &quot;</span>
+resultado = separador.join(lista)
+<span class="hljs-built_in">print</span>(resultado)  <span class="hljs-comment"># Saída: &quot;Olá Mundo&quot;</span>
+</code></pre>
+<ol start="2">
+<li>Utilizando f-string (Python 3.6+):</li>
+</ol>
+<pre><code class="language-python">str1 = <span class="hljs-string">&quot;Olá&quot;</span>
+str2 = <span class="hljs-string">&quot;Mundo&quot;</span>
+resultado = <span class="hljs-string">f&quot;<span class="hljs-subst">{str1}</span> <span class="hljs-subst">{str2}</span>&quot;</span>
+<span class="hljs-built_in">print</span>(resultado)  <span class="hljs-comment"># Saída: &quot;Olá Mundo&quot;</span>
+</code></pre>
+<ol start="3">
+<li>Utilizando métodos de formatação (Python 2 e 3):</li>
+</ol>
+<pre><code class="language-python">str1 = <span class="hljs-string">&quot;Olá&quot;</span>
+str2 = <span class="hljs-string">&quot;Mundo&quot;</span>
+resultado = <span class="hljs-string">&quot;{} {}&quot;</span>.<span class="hljs-built_in">format</span>(str1, str2)
+<span class="hljs-built_in">print</span>(resultado)  <span class="hljs-comment"># Saída: &quot;Olá Mundo&quot;</span>
+</code></pre>
+<h3 id="string-slicing-em-python">String Slicing em Python</h3>
+<ol>
+<li>Índices de fatiamento (slicing): O fatiamento é uma técnica muito comum em Python para obter substrings usando índices.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-built_in">str</span> = <span class="hljs-string">&quot;Hello, World!&quot;</span>
+substring1 = <span class="hljs-built_in">str</span>[<span class="hljs-number">7</span>:]   <span class="hljs-comment"># Resultado: &quot;World!&quot;</span>
+substring2 = <span class="hljs-built_in">str</span>[<span class="hljs-number">0</span>:<span class="hljs-number">5</span>]  <span class="hljs-comment"># Resultado: &quot;Hello&quot;</span>
+substring3 = <span class="hljs-built_in">str</span>[:<span class="hljs-number">5</span>]   <span class="hljs-comment"># Resultado: &quot;Hello&quot; (índice inicial omitido)</span>
+substring4 = <span class="hljs-built_in">str</span>[<span class="hljs-number">7</span>:<span class="hljs-number">12</span>] <span class="hljs-comment"># Resultado: &quot;World&quot; (índice final exclusivo)</span>
+</code></pre>
+<ol start="2">
+<li>Método <code>slice(start, stop, step)</code>: O método <code>slice()</code> permite criar um objeto slice que pode ser usado para obter uma substring.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-built_in">str</span> = <span class="hljs-string">&quot;Hello, World!&quot;</span>
+s = <span class="hljs-built_in">slice</span>(<span class="hljs-number">7</span>, <span class="hljs-number">12</span>) <span class="hljs-comment"># Cria um objeto slice para obter de 7 a 11 (exclusivo)</span>
+substring = <span class="hljs-built_in">str</span>[s] <span class="hljs-comment"># Resultado: &quot;World&quot;</span>
+</code></pre>
+<ol start="3">
+<li>Método <code>split(separator, maxsplit)</code>: O método <code>split()</code> divide a string em substrings com base em um separador especificado e retorna uma lista com as substrings resultantes.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-built_in">str</span> = <span class="hljs-string">&quot;Hello, World!&quot;</span>
+substring_list = <span class="hljs-built_in">str</span>.split(<span class="hljs-string">&quot;, &quot;</span>) <span class="hljs-comment"># Resultado: [&#x27;Hello&#x27;, &#x27;World!&#x27;]</span>
+</code></pre>
+<ol start="4">
+<li>Método <code>find(substring, start, end)</code>: O método <code>find()</code> retorna o índice da primeira ocorrência da substring dentro da string ou -1 se não for encontrada.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-built_in">str</span> = <span class="hljs-string">&quot;Hello, World!&quot;</span>
+index = <span class="hljs-built_in">str</span>.find(<span class="hljs-string">&quot;World&quot;</span>) <span class="hljs-comment"># Resultado: 7</span>
+</code></pre>
+<ol start="5">
+<li>Método <code>index(substring, start, end)</code>: O método <code>index()</code> é semelhante ao <code>find()</code>, mas gera uma exceção <code>ValueError</code> se a substring não for encontrada.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-built_in">str</span> = <span class="hljs-string">&quot;Hello, World!&quot;</span>
+index = <span class="hljs-built_in">str</span>.index(<span class="hljs-string">&quot;World&quot;</span>) <span class="hljs-comment"># Resultado: 7</span>
+</code></pre>
+<ol start="6">
+<li>Método <code>replace(old, new, count)</code>: O método <code>replace()</code> retorna uma nova string em que todas as ocorrências da substring <code>old</code> são substituídas por <code>new</code>.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-built_in">str</span> = <span class="hljs-string">&quot;Hello, World!&quot;</span>
+new_str = <span class="hljs-built_in">str</span>.replace(<span class="hljs-string">&quot;Hello&quot;</span>, <span class="hljs-string">&quot;Hi&quot;</span>) <span class="hljs-comment"># Resultado: &quot;Hi, World!&quot;</span>
+</code></pre>
+<h3 id="formatação-de-números-em-strings-em-python">Formatação de Números em Strings em Python</h3>
+<ol>
+<li>Usando o método <code>format()</code>:</li>
+</ol>
+<pre><code class="language-python">numero = <span class="hljs-number">12345.6789</span>
+numero_formatado = <span class="hljs-string">&quot;{:.2f}&quot;</span>.<span class="hljs-built_in">format</span>(numero)
+<span class="hljs-built_in">print</span>(numero_formatado)  <span class="hljs-comment"># Saída: &quot;12345.68&quot;</span>
+</code></pre>
+<ol start="2">
+<li>Usando f-string (Python 3.6+):</li>
+</ol>
+<pre><code class="language-python">numero = <span class="hljs-number">12345.6789</span>
+numero_formatado = <span class="hljs-string">f&quot;<span class="hljs-subst">{numero:<span class="hljs-number">.2</span>f}</span>&quot;</span>
+<span class="hljs-built_in">print</span>(numero_formatado)  <span class="hljs-comment"># Saída: &quot;12345.68&quot;</span>
+</code></pre>
+<ol start="3">
+<li>Usando a biblioteca <code>locale</code>:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> locale
+numero = <span class="hljs-number">12345.6789</span>
+locale.setlocale(locale.LC_ALL, <span class="hljs-string">&#x27;en_US&#x27;</span>)  <span class="hljs-comment"># Definindo a localização (no caso, EUA)</span>
+numero_formatado = locale.format_string(<span class="hljs-string">&quot;%.2f&quot;</span>, numero)
+<span class="hljs-built_in">print</span>(numero_formatado)  <span class="hljs-comment"># Saída: &quot;12,345.68&quot; (dependendo da configuração regional)</span>
+</code></pre>
+<h3 id="formatação-de-datas-em-strings-em-python">Formatação de Datas em Strings em Python</h3>
+<ol>
+<li>Usando <code>strftime()</code>:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">from</span> datetime <span class="hljs-keyword">import</span> datetime
+data = datetime(<span class="hljs-number">2023</span>, <span class="hljs-number">8</span>, <span class="hljs-number">6</span>)
+data_formatada = data.strftime(<span class="hljs-string">&quot;%d/%m/%Y&quot;</span>)
+<span class="hljs-built_in">print</span>(data_formatada)  <span class="hljs-comment"># Saída: &quot;06/08/2023&quot;</span>
+</code></pre>
+<ol start="2">
+<li>Usando <code>strptime()</code>:</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">from</span> datetime <span class="hljs-keyword">import</span> datetime
+data_str = <span class="hljs-string">&quot;06/08/2023&quot;</span>
+data = datetime.strptime(data_str, <span class="hljs-string">&quot;%d/%m/%Y&quot;</span>)
+<span class="hljs-built_in">print</span>(data)  <span class="hljs-comment"># Saída: 2023-08-06 00:00:00</span>
+</code></pre>
+<ol start="3">
+<li>Usando <code>strftime()</code> com localização (locale):</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">from</span> datetime <span class="hljs-keyword">import</span> datetime
+<span class="hljs-keyword">import</span> locale
+data = datetime(<span class="hljs-number">2023</span>, <span class="hljs-number">8</span>, <span class="hljs-number">6</span>)
+<span class="hljs-comment"># Definindo a localização (no caso, Brasil - pt_BR)</span>
+locale.setlocale(locale.LC_ALL, <span class="hljs-string">&#x27;pt_BR&#x27;</span>)
+data_formatada = data.strftime(<span class="hljs-string">&quot;%d de %B de %Y&quot;</span>)
+<span class="hljs-built_in">print</span>(data_formatada)  <span class="hljs-comment"># Saída: &quot;06 de agosto de 2023&quot;</span>
+</code></pre>
+<h3 id="funções-de-strings-em-python">Funções de Strings em Python</h3>
+<ol>
+<li>
+<p>capitalize():</p>
+<ul>
+<li>Uso: Converte o primeiro caractere da string em uma letra maiúscula (capital).</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>casefold():</p>
+<ul>
+<li>Uso: Implementa a correspondência de strings sem diferenciação de maiúsculas e minúsculas (caseless).</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>center(width, fillchar):</p>
+<ul>
+<li>Uso: Centraliza a string em um campo de largura especificada e preenche os espaços à esquerda e à direita com um caractere especificado (ou espaço, se não fornecido).</li>
+<li>Parâmetros:
+<ul>
+<li>width: O comprimento total do campo para centralizar a string.</li>
+<li>fillchar (opcional): O caractere usado para preencher os espaços vazios ao redor da string. O padrão é um espaço em branco.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>count(substring, start, end):</p>
+<ul>
+<li>Uso: Retorna o número de ocorrências de uma substring na string.</li>
+<li>Parâmetros:
+<ul>
+<li>substring: A substring a ser contada.</li>
+<li>start (opcional): O índice a partir do qual a busca deve começar.</li>
+<li>end (opcional): O índice no qual a busca deve parar.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>encode(encoding, errors):</p>
+<ul>
+<li>Uso: Codifica a string usando o esquema de codificação especificado e retorna uma sequência de bytes.</li>
+<li>Parâmetros:
+<ul>
+<li>encoding (opcional): A codificação a ser usada. O padrão é 'utf-8'.</li>
+<li>errors (opcional): A estratégia de tratamento de erros, se a codificação falhar. O padrão é 'strict'.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>endswith(suffix, start, end):</p>
+<ul>
+<li>Uso: Retorna &quot;True&quot; se a string termina com o sufixo especificado.</li>
+<li>Parâmetros:
+<ul>
+<li>suffix: O sufixo a ser verificado.</li>
+<li>start (opcional): O índice a partir do qual a verificação deve começar.</li>
+<li>end (opcional): O índice no qual a verificação deve parar.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>expandtabs(tabsize):</p>
+<ul>
+<li>Uso: Especifica a quantidade de espaços a serem substituídos pelo caractere '\t' (tabulação) na string.</li>
+<li>Parâmetros:
+<ul>
+<li>tabsize (opcional): O número de espaços equivalentes a um caractere de tabulação. O padrão é 8.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>find(substring, start, end):</p>
+<ul>
+<li>Uso: Retorna o índice da primeira ocorrência de uma substring na string. Retorna -1 se a substring não for encontrada.</li>
+<li>Parâmetros:
+<ul>
+<li>substring: A substring a ser procurada.</li>
+<li>start (opcional): O índice a partir do qual a busca deve começar.</li>
+<li>end (opcional): O índice no qual a busca deve parar.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>format(*args, **kwargs):</p>
+<ul>
+<li>Uso: Formata a string para exibição, substituindo marcadores de posição {} pelos valores fornecidos.</li>
+<li>Parâmetros:
+<ul>
+<li>*args: Argumentos posicionais para substituir os marcadores de posição.</li>
+<li>**kwargs: Argumentos de palavra-chave para substituir os marcadores de posição nomeados.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>format_map(mapping):</p>
+<ul>
+<li>Uso: Formata a string para exibição, substituindo marcadores de posição nomeados {} pelos valores em um dicionário.</li>
+<li>Parâmetros:
+<ul>
+<li>mapping: Um dicionário contendo os valores para substituir os marcadores de posição nomeados.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>index(substring, start, end):</p>
+<ul>
+<li>Uso: Retorna o índice da primeira ocorrência de uma substring na string. Gera um erro se a substring não for encontrada.</li>
+<li>Parâmetros:
+<ul>
+<li>substring: A substring a ser procurada.</li>
+<li>start (opcional): O índice a partir do qual a busca deve começar.</li>
+<li>end (opcional): O índice no qual a busca deve parar.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>isalnum():</p>
+<ul>
+<li>Uso: Verifica se todos os caracteres na string são alfanuméricos (letras e números).</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>isalpha():</p>
+<ul>
+<li>Uso: Verifica se todos os caracteres na string são letras do alfabeto.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>isdecimal():</p>
+<ul>
+<li>Uso: Verifica se todos os caracteres na string são dígitos decimais.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>isdigit():</p>
+<ul>
+<li>Uso: Verifica se todos os caracteres na string são dígitos.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>isidentifier():</p>
+<ul>
+<li>Uso: Verifica se a string é um identificador válido do Python (por exemplo, nome de variável).</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>islower():</p>
+<ul>
+<li>Uso: Verifica se todos os caracteres na string estão em minúsculas.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>isnumeric():</p>
+<ul>
+<li>Uso: Verifica se todos os caracteres na string são caracteres numéricos.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>isprintable():</p>
+<ul>
+<li>Uso: Verifica se todos os caracteres na string são imprimíveis ou se a string está vazia.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>isspace():</p>
+<ul>
+<li>Uso: Verifica se todos os caracteres na string são caracteres de espaço em branco.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>istitle():</p>
+<ul>
+<li>Uso: Verifica se a string está em título (cada palavra com letra maiúscula no início).</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>isupper():</p>
+<ul>
+<li>Uso: Verifica se todos os caracteres na string estão em maiúsculas.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>join(iterable):</p>
+<ul>
+<li>Uso: Retorna uma string resultante da concatenação dos elementos de um iterable (lista, tupla, etc.) usando a string como separador.</li>
+<li>Parâmetros:
+<ul>
+<li>iterable: O iterable contendo os elementos a serem concatenados.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>ljust(width, fillchar):</p>
+<ul>
+<li>Uso: Alinha a string à esquerda e preenche os espaços à direita com um caractere especificado (ou espaço, se não fornecido).</li>
+<li>Parâmetros:
+<ul>
+<li>width: O comprimento total da string após a formatação.</li>
+<li>fillchar (opcional): O caractere usado para preencher os espaços vazios à direita da string. O padrão é um espaço em branco.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>lower():</p>
+<ul>
+<li>Uso: Converte todos os caracteres da string em minúsculas.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>lstrip(chars):</p>
+<ul>
+<li>Uso: Remove os caracteres especificados à esquerda da string. Se não for fornecido, remove espaços em branco à esquerda.</li>
+<li>Parâmetros:
+<ul>
+<li>chars (opcional): Os caracteres a serem removidos. Se não for fornecido, remove espaços em branco à esquerda.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>maketrans(x, y, z):</p>
+<ul>
+<li>Uso: Retorna uma tabela de tradução que pode ser usada na função translate().</li>
+<li>Parâmetros:
+<ul>
+<li>x: String contendo os caracteres a serem substituídos.</li>
+<li>y: String contendo os caracteres de substituição.</li>
+<li>z: String contendo os caracteres a serem removidos.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>partition(separator):</p>
+<ul>
+<li>Uso: Divide a string na primeira ocorrência do separador e retorna uma tupla com as três partes.</li>
+<li>Parâmetros:
+<ul>
+<li>separator: A string a ser usada como separador.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>replace(old, new, count):</p>
+<ul>
+<li>Uso: Substitui todas as ocorrências de uma substring por outra substring.</li>
+<li>Parâmetros:
+<ul>
+<li>old: A substring a ser substituída.</li>
+<li>new: A nova substring para substituição.</li>
+<li>count (opcional): O número máximo de substituições a serem feitas. O padrão é substituir todas as ocorrências.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>rfind(substring, start, end):</p>
+<ul>
+<li>Uso: Retorna o índice da última ocorrência de uma substring na string. Retorna -1 se a substring não for encontrada.</li>
+<li>Parâmetros:
+<ul>
+<li>substring: A substring a ser procurada.</li>
+<li>start (opcional): O índice a partir do qual a busca deve começar.</li>
+<li>end (opcional): O índice no qual a busca deve parar.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>rindex(substring, start, end):</p>
+<ul>
+<li>Uso: Retorna o índice da última ocorrência de uma substring na string. Gera um erro se a substring não for encontrada.</li>
+<li>Parâmetros:
+<ul>
+<li>substring: A substring a ser procurada.</li>
+<li>start (opcional): O índice a partir do qual a busca deve começar.</li>
+<li>end (opcional): O índice no qual a busca deve parar.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>rjust(width, fillchar):</p>
+<ul>
+<li>Uso: Alinha a string à direita e preenche os espaços à esquerda com um caractere especificado (ou espaço, se não fornecido).</li>
+<li>Parâmetros:
+<ul>
+<li>width: O comprimento total da string após a formatação.</li>
+<li>fillchar (opcional): O caractere usado para preencher os espaços vazios à esquerda da string. O padrão é um espaço em branco.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>rpartition(separator):</p>
+<ul>
+<li>Uso: Divide a string na última ocorrência do separador e retorna uma tupla com as três partes.</li>
+<li>Parâmetros:
+<ul>
+<li>separator: A string a ser usada como separador.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>rsplit(separator, maxsplit):</p>
+<ul>
+<li>Uso: Divide a string a partir do lado direito usando o separador especificado e retorna uma lista de substrings.</li>
+<li>Parâmetros:
+<ul>
+<li>separator (opcional): O separador a ser usado para dividir a string. Se não for fornecido, usa espaços em branco.</li>
+<li>maxsplit (opcional): O número máximo de splits a serem feitos. O padrão é dividir em todas as ocorrências.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>rstrip(chars):</p>
+<ul>
+<li>Uso: Remove os caracteres especificados à direita da string. Se não for fornecido, remove espaços em branco à direita.</li>
+<li>Parâmetros:
+<ul>
+<li>chars (opcional): Os caracteres a serem removidos. Se não for fornecido, remove espaços em branco à direita.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>split(separator, maxsplit):</p>
+<ul>
+<li>Uso: Divide a string usando o separador especificado e retorna uma lista de substrings.</li>
+<li>Parâmetros:
+<ul>
+<li>separator (opcional): O separador a ser usado para dividir a string. Se não for fornecido, usa espaços em branco.</li>
+<li>maxsplit (opcional): O número máximo de splits a serem feitos. O padrão é dividir em todas as ocorrências.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>splitlines(keepends):</p>
+<ul>
+<li>Uso: Divide a string em linhas e retorna uma lista de linhas.</li>
+<li>Parâmetros:
+<ul>
+<li>keepends (opcional): Se True, mantém o caractere de quebra de linha (\n ou \r\n) no final de cada linha. O padrão é False.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>startswith(prefix, start, end):</p>
+<ul>
+<li>Uso: Retorna &quot;True&quot; se a string começar com o prefixo especificado.</li>
+<li>Parâmetros:
+<ul>
+<li>prefix: O prefixo a ser verificado.</li>
+<li>start (opcional): O índice a partir do qual a verificação deve começar.</li>
+<li>end (opcional): O índice no qual a verificação deve parar.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>strip(chars):</p>
+<ul>
+<li>Uso: Remove os caracteres especificados tanto à esquerda quanto à direita da string. Se não for fornecido, remove espaços em branco.</li>
+<li>Parâmetros:
+<ul>
+<li>chars (opcional): Os caracteres a serem removidos. Se não for fornecido, remove espaços em branco.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>swapcase():</p>
+<ul>
+<li>
+<p>Uso: Converte caracteres em maiúsculas para minúsculas e vice-versa.</p>
+</li>
+<li>
+<p>Parâmetros: Não possui parâmetros.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>title():</p>
+<ul>
+<li>Uso: Converte a string em título (cada palavra com letra maiúscula no início).</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>translate(table):</p>
+<ul>
+<li>Uso: Modifica a string de acordo com uma tabela de tradução criada com a função maketrans().</li>
+<li>Parâmetros:
+<ul>
+<li>table: A tabela de tradução criada com a função maketrans().</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>upper():</p>
+<ul>
+<li>Uso: Converte todos os caracteres da string em maiúsculas.</li>
+<li>Parâmetros: Não possui parâmetros.</li>
+</ul>
+</li>
+<li>
+<p>zfill(width):</p>
+<ul>
+<li>Uso: Retorna uma cópia da string preenchida com '0' à esquerda para atingir o comprimento especificado.</li>
+<li>Parâmetros:
+<ul>
+<li>width: O comprimento total da string após o preenchimento.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ol>
+
+        <script async src="https://cdn.jsdelivr.net/npm/katex-copytex@latest/dist/katex-copytex.min.js"></script>
+        
+    </body>
+    </html>
