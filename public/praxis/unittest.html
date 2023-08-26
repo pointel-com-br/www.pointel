@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <title>UnitTest</title>
+        <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+        
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+        
+    </head>
+    <body class="vscode-body vscode-light">
+        <h1 id="unittest">UnitTest</h1>
+<ul>
+<li><a href="#unittest">UnitTest</a>
+<ul>
+<li><a href="#como-se-faz-unit-test-em-javascript">Como se faz Unit Test em JavaScript</a>
+<ul>
+<li><a href="#como-se-monta-uma-suite-de-diversos-unit-test-em-javascript">Como se monta uma Suite de diversos Unit Test em JavaScript</a></li>
+</ul>
+</li>
+<li><a href="#como-se-faz-unit-test-em-java">Como se faz Unit Test em Java</a>
+<ul>
+<li><a href="#como-se-monta-uma-suite-de-diversos-unit-test-em-java">Como se monta uma Suite de diversos Unit Test em Java</a></li>
+</ul>
+</li>
+<li><a href="#como-se-faz-unit-test-em-python">Como se faz Unit Test em Python</a>
+<ul>
+<li><a href="#como-se-monta-uma-suite-de-diversos-unit-test-em-python">Como se monta uma Suite de diversos Unit Test em Python</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<h2 id="como-se-faz-unit-test-em-javascript">Como se faz Unit Test em JavaScript</h2>
+<p>Realizar testes de unidade em JavaScript é uma prática importante para garantir que as partes individuais do seu código (funções, módulos) funcionem corretamente. Existem várias bibliotecas e estruturas para escrever testes de unidade em JavaScript, sendo o <strong>Jest</strong> uma das opções mais populares. Aqui está um guia básico sobre como criar testes de unidade em JavaScript usando o Jest:</p>
+<ol>
+<li>
+<p><strong>Configurar o ambiente:</strong>
+Certifique-se de ter o Node.js instalado no seu sistema. Você pode criar um projeto Node.js ou usar um ambiente já existente.</p>
+</li>
+<li>
+<p><strong>Instalar o Jest:</strong>
+No diretório do seu projeto, execute o seguinte comando para instalar o Jest como dependência de desenvolvimento:</p>
+<pre><code>npm install --save-dev jest
+</code></pre>
+</li>
+<li>
+<p><strong>Escrever funções/módulos para testar:</strong>
+Crie as funções ou módulos que você deseja testar. Por exemplo:</p>
+</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-comment">// math.js</span>
+<span class="hljs-keyword">function</span> <span class="hljs-title function_">somar</span>(<span class="hljs-params">a, b</span>) {
+    <span class="hljs-keyword">return</span> a + b;
+}
+
+<span class="hljs-variable language_">module</span>.<span class="hljs-property">exports</span> = {
+    somar
+};
+</code></pre>
+<ol start="4">
+<li><strong>Escrever testes:</strong>
+Crie um arquivo separado para seus testes. Nomeie-o com o sufixo <code>.test.js</code> ou <code>.spec.js</code> para que o Jest reconheça automaticamente como arquivos de teste.</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-comment">// math.test.js</span>
+<span class="hljs-keyword">const</span> { somar } = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;./math&#x27;</span>);
+
+<span class="hljs-title function_">test</span>(<span class="hljs-string">&#x27;soma 1 + 2 para ser igual a 3&#x27;</span>, <span class="hljs-function">() =&gt;</span> {
+    <span class="hljs-title function_">expect</span>(<span class="hljs-title function_">somar</span>(<span class="hljs-number">1</span>, <span class="hljs-number">2</span>)).<span class="hljs-title function_">toBe</span>(<span class="hljs-number">3</span>);
+});
+
+<span class="hljs-title function_">test</span>(<span class="hljs-string">&#x27;soma -1 + 1 para ser igual a 0&#x27;</span>, <span class="hljs-function">() =&gt;</span> {
+    <span class="hljs-title function_">expect</span>(<span class="hljs-title function_">somar</span>(-<span class="hljs-number">1</span>, <span class="hljs-number">1</span>)).<span class="hljs-title function_">toBe</span>(<span class="hljs-number">0</span>);
+});
+
+<span class="hljs-title function_">test</span>(<span class="hljs-string">&#x27;soma -1 + -1 para ser igual a -2&#x27;</span>, <span class="hljs-function">() =&gt;</span> {
+    <span class="hljs-title function_">expect</span>(<span class="hljs-title function_">somar</span>(-<span class="hljs-number">1</span>, -<span class="hljs-number">1</span>)).<span class="hljs-title function_">toBe</span>(-<span class="hljs-number">2</span>);
+});
+</code></pre>
+<ol start="5">
+<li>
+<p><strong>Executar os testes:</strong>
+Você pode executar os testes através do comando <code>npx jest</code> no terminal. Jest irá procurar automaticamente por arquivos de teste com os sufixos mencionados e executar os testes.</p>
+</li>
+<li>
+<p><strong>Analisar os resultados:</strong>
+Após a execução, você verá uma saída que indica quantos testes passaram, falharam ou foram ignorados.</p>
+</li>
+</ol>
+<p>O exemplo acima é bastante simples, mas o Jest oferece muitos recursos avançados, como testes assíncronos, mocks, spies, e mais. Lembre-se de que a criação de testes de unidade eficazes pode ajudar a manter seu código confiável e fácil de manter.</p>
+<h3 id="como-se-monta-uma-suite-de-diversos-unit-test-em-javascript">Como se monta uma Suite de diversos Unit Test em JavaScript</h3>
+<p>Uma suite de testes é um conjunto de testes de unidade que são agrupados para serem executados juntos. No contexto do Jest, uma das bibliotecas de testes mais populares para JavaScript, você pode criar uma suite de testes definindo vários arquivos de teste e usando a funcionalidade de agrupamento fornecida pelo próprio Jest. Aqui está como montar uma suite de vários testes de unidade usando o Jest:</p>
+<ol>
+<li>
+<p><strong>Estrutura de diretórios:</strong>
+Primeiro, organize seus arquivos de teste em uma estrutura de diretórios adequada. Por exemplo:</p>
+<pre><code>project-root/
+├── src/
+│   ├── math.js
+├── tests/
+│   ├── math.test.js
+│   ├── other.test.js
+├── package.json
+</code></pre>
+</li>
+<li>
+<p><strong>Instalar o Jest:</strong>
+Certifique-se de ter o Jest instalado como uma dependência de desenvolvimento no seu projeto, como mencionado anteriormente.</p>
+</li>
+<li>
+<p><strong>Escrever testes individuais:</strong>
+Crie arquivos de teste individuais para cada parte do código que você deseja testar. Nomeie esses arquivos com o sufixo <code>.test.js</code> ou <code>.spec.js</code>. Por exemplo, <code>math.test.js</code>:</p>
+</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-comment">// math.test.js</span>
+<span class="hljs-keyword">const</span> { somar } = <span class="hljs-built_in">require</span>(<span class="hljs-string">&#x27;../src/math&#x27;</span>);
+
+<span class="hljs-title function_">test</span>(<span class="hljs-string">&#x27;soma 1 + 2 para ser igual a 3&#x27;</span>, <span class="hljs-function">() =&gt;</span> {
+    <span class="hljs-title function_">expect</span>(<span class="hljs-title function_">somar</span>(<span class="hljs-number">1</span>, <span class="hljs-number">2</span>)).<span class="hljs-title function_">toBe</span>(<span class="hljs-number">3</span>);
+});
+</code></pre>
+<ol start="4">
+<li><strong>Agrupar testes em suites:</strong>
+Você pode agrupar os testes em &quot;suites&quot; usando a função <code>describe</code> fornecida pelo Jest. Isso ajuda a organizar os testes relacionados.</li>
+</ol>
+<pre><code class="language-javascript"><span class="hljs-comment">// other.test.js</span>
+<span class="hljs-title function_">describe</span>(<span class="hljs-string">&#x27;Outros testes&#x27;</span>, <span class="hljs-function">() =&gt;</span> {
+    <span class="hljs-title function_">test</span>(<span class="hljs-string">&#x27;algum outro teste&#x27;</span>, <span class="hljs-function">() =&gt;</span> {
+        <span class="hljs-comment">// código do teste</span>
+    });
+
+    <span class="hljs-title function_">test</span>(<span class="hljs-string">&#x27;mais um teste&#x27;</span>, <span class="hljs-function">() =&gt;</span> {
+        <span class="hljs-comment">// código do teste</span>
+    });
+});
+</code></pre>
+<ol start="5">
+<li>
+<p><strong>Executar os testes:</strong>
+Para executar todos os testes, simplesmente execute o seguinte comando no terminal:</p>
+<pre><code>npx jest
+</code></pre>
+<p>Jest automaticamente localizará todos os arquivos de teste no diretório e subdiretórios, executando-os e exibindo os resultados no terminal.</p>
+</li>
+</ol>
+<p>A organização dos testes em suites usando <code>describe</code> é opcional, mas pode tornar a estrutura do teste mais clara, especialmente quando você tem muitos testes.</p>
+<p>Lembre-se de ajustar os caminhos dos módulos (<code>require</code> ou <code>import</code>) conforme necessário para corresponder à estrutura do seu projeto.</p>
+<h2 id="como-se-faz-unit-test-em-java">Como se faz Unit Test em Java</h2>
+<p>Realizar testes de unidade em Java é uma prática importante para garantir que as partes individuais do seu código (métodos, classes) funcionem corretamente. O framework de testes de unidade mais comum em Java é o JUnit. Aqui está um guia básico sobre como criar testes de unidade em Java usando o JUnit:</p>
+<ol>
+<li>
+<p><strong>Configurar o ambiente:</strong>
+Certifique-se de que você tenha o ambiente Java configurado corretamente e o JUnit instalado ou configurado como dependência no seu projeto.</p>
+</li>
+<li>
+<p><strong>Criar as classes que serão testadas:</strong>
+Crie as classes e métodos que você deseja testar.</p>
+</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">Calculadora</span> {
+    <span class="hljs-keyword">public</span> <span class="hljs-type">int</span> <span class="hljs-title function_">somar</span><span class="hljs-params">(<span class="hljs-type">int</span> a, <span class="hljs-type">int</span> b)</span> {
+        <span class="hljs-keyword">return</span> a + b;
+    }
+}
+</code></pre>
+<ol start="3">
+<li><strong>Criar classes de teste:</strong>
+Crie uma classe de teste que utilize o framework JUnit. Crie métodos de teste públicos dentro dessa classe e utilize as anotações fornecidas pelo JUnit para definir os casos de teste.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> org.junit.Test;
+<span class="hljs-keyword">import</span> <span class="hljs-keyword">static</span> org.junit.Assert.assertEquals;
+
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">TestCalculadora</span> {
+    
+    <span class="hljs-meta">@Test</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">testSomar</span><span class="hljs-params">()</span> {
+        <span class="hljs-type">Calculadora</span> <span class="hljs-variable">calculadora</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">Calculadora</span>();
+        assertEquals(<span class="hljs-number">8</span>, calculadora.somar(<span class="hljs-number">3</span>, <span class="hljs-number">5</span>));
+        assertEquals(<span class="hljs-number">0</span>, calculadora.somar(-<span class="hljs-number">1</span>, <span class="hljs-number">1</span>));
+        assertEquals(-<span class="hljs-number">2</span>, calculadora.somar(-<span class="hljs-number">1</span>, -<span class="hljs-number">1</span>));
+    }
+}
+</code></pre>
+<ol start="4">
+<li>
+<p><strong>Executar os testes:</strong>
+Geralmente, você executa os testes através de ferramentas de construção como Maven ou Gradle, que possuem integração com o JUnit. Você também pode executar os testes diretamente na IDE (como Eclipse ou IntelliJ) se elas tiverem suporte ao JUnit.</p>
+</li>
+<li>
+<p><strong>Analisar os resultados:</strong>
+Após a execução, você verá uma saída que indica quantos testes passaram, falharam ou foram ignorados.</p>
+</li>
+</ol>
+<p>O exemplo acima é bastante simples, mas você pode criar testes mais complexos, incluindo testes parametrizados, testes de exceções, configurações de teste e muito mais. Lembre-se de que a criação de testes de unidade eficazes pode ajudar a manter seu código confiável e fácil de manter.</p>
+<h3 id="como-se-monta-uma-suite-de-diversos-unit-test-em-java">Como se monta uma Suite de diversos Unit Test em Java</h3>
+<p>Em Java, você pode criar uma suite de testes usando o framework de testes JUnit. Uma suite de testes é uma maneira de agrupar vários casos de teste em uma única unidade de execução. Você pode criar e executar uma suite de testes que inclui múltiplos casos de teste. Aqui está como montar uma suite de diversos testes de unidade em Java usando o JUnit:</p>
+<ol>
+<li>
+<p><strong>Configurar o ambiente:</strong>
+Certifique-se de ter o ambiente Java configurado corretamente e o JUnit instalado ou configurado como dependência no seu projeto.</p>
+</li>
+<li>
+<p><strong>Criar testes individuais:</strong>
+Crie classes de teste individuais para cada parte do código que você deseja testar. Essas classes devem ter métodos de teste (métodos que começam com &quot;test&quot;) e usar as anotações do JUnit para definir os casos de teste.</p>
+</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> org.junit.Test;
+<span class="hljs-keyword">import</span> <span class="hljs-keyword">static</span> org.junit.Assert.assertEquals;
+
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">TestCalculadora</span> {
+    
+    <span class="hljs-meta">@Test</span>
+    <span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title function_">testSomar</span><span class="hljs-params">()</span> {
+        <span class="hljs-type">Calculadora</span> <span class="hljs-variable">calculadora</span> <span class="hljs-operator">=</span> <span class="hljs-keyword">new</span> <span class="hljs-title class_">Calculadora</span>();
+        assertEquals(<span class="hljs-number">8</span>, calculadora.somar(<span class="hljs-number">3</span>, <span class="hljs-number">5</span>));
+    }
+}
+</code></pre>
+<ol start="3">
+<li><strong>Criar a suite de testes:</strong>
+Crie uma classe que representa a suite de testes. Você pode usar a anotação <code>@RunWith</code> e a classe <code>Suite</code> do JUnit para agrupar os testes.</li>
+</ol>
+<pre><code class="language-java"><span class="hljs-keyword">import</span> org.junit.runner.RunWith;
+<span class="hljs-keyword">import</span> org.junit.runners.Suite;
+
+<span class="hljs-meta">@RunWith(Suite.class)</span>
+<span class="hljs-meta">@Suite</span>.SuiteClasses({
+    TestCalculadora.class,
+    OutroTeste.class
+})
+<span class="hljs-keyword">public</span> <span class="hljs-keyword">class</span> <span class="hljs-title class_">TestSuite</span> {
+    <span class="hljs-comment">// Esta classe não precisa de nenhum conteúdo, serve apenas para agrupar os testes.</span>
+}
+</code></pre>
+<ol start="4">
+<li>
+<p><strong>Executar a suite de testes:</strong>
+Você pode executar a suite de testes como faria com qualquer outro caso de teste JUnit, executando a classe <code>TestSuite</code> através de sua IDE ou ferramenta de build (como Maven ou Gradle).</p>
+</li>
+<li>
+<p><strong>Analisar os resultados:</strong>
+Após a execução, você verá uma saída que indica quantos testes passaram, falharam ou foram ignorados.</p>
+</li>
+</ol>
+<p>Lembre-se de que você deve criar uma classe de teste individual para cada classe que você deseja testar e adicionar essas classes à suite de testes. A criação de suites de testes é útil quando você deseja executar um conjunto específico de testes em vez de executar todos os testes no projeto. Isso pode ser especialmente útil em projetos maiores.</p>
+<h2 id="como-se-faz-unit-test-em-python">Como se faz Unit Test em Python</h2>
+<p>Realizar testes de unidade (Unit Tests) em Python é uma prática importante para garantir que as partes individuais do seu código (funções, métodos, classes) funcionem corretamente. O módulo padrão <code>unittest</code> é amplamente utilizado para escrever e executar testes de unidade em Python. Aqui está um guia básico sobre como criar testes de unidade em Python usando o módulo <code>unittest</code>:</p>
+<ol>
+<li><strong>Importar o módulo unittest:</strong>
+Comece importando o módulo <code>unittest</code>.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> unittest
+</code></pre>
+<ol start="2">
+<li><strong>Definir as funções/métodos que serão testados:</strong>
+Crie as funções ou métodos que você deseja testar.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">def</span> <span class="hljs-title function_">somar</span>(<span class="hljs-params">a, b</span>):
+    <span class="hljs-keyword">return</span> a + b
+</code></pre>
+<ol start="3">
+<li><strong>Criar classes de teste:</strong>
+Crie uma classe que herde de <code>unittest.TestCase</code>. Cada método dentro dessa classe de teste deve começar com &quot;test_&quot; para que o <code>unittest</code> reconheça-o como um caso de teste.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">class</span> <span class="hljs-title class_">TestCalculadora</span>(unittest.TestCase):
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">test_soma</span>(<span class="hljs-params">self</span>):
+        self.assertEqual(somar(<span class="hljs-number">3</span>, <span class="hljs-number">5</span>), <span class="hljs-number">8</span>)
+        self.assertEqual(somar(-<span class="hljs-number">1</span>, <span class="hljs-number">1</span>), <span class="hljs-number">0</span>)
+        self.assertEqual(somar(-<span class="hljs-number">1</span>, -<span class="hljs-number">1</span>), -<span class="hljs-number">2</span>)
+</code></pre>
+<ol start="4">
+<li>
+<p><strong>Executar os testes:</strong>
+Geralmente, você executa os testes diretamente a partir do arquivo Python ou através da linha de comando.</p>
+<p><strong>Opção 1: Executar a partir do arquivo Python:</strong></p>
+<pre><code class="language-python"><span class="hljs-keyword">if</span> __name__ == <span class="hljs-string">&#x27;__main__&#x27;</span>:
+    unittest.main()
+</code></pre>
+<p>Execute o arquivo Python e os testes serão executados, exibindo os resultados no console.</p>
+<p><strong>Opção 2: Executar através da linha de comando:</strong></p>
+<p>No terminal, navegue até o diretório onde seu arquivo Python de testes está localizado e execute o seguinte comando:</p>
+<pre><code>python -m unittest nome_do_arquivo_de_teste.py
+</code></pre>
+<p>Substitua <code>nome_do_arquivo_de_teste.py</code> pelo nome do seu arquivo de teste.</p>
+</li>
+<li>
+<p><strong>Analisar os resultados:</strong>
+Após a execução, você verá uma saída que indica quantos testes passaram, falharam ou foram ignorados.</p>
+</li>
+</ol>
+<p>Os exemplos acima são bastante simples, mas você pode criar testes mais complexos, incluindo a manipulação de exceções, configurações de teste e muito mais. Lembre-se de que a criação de testes de unidade eficazes pode ajudar a manter seu código confiável e fácil de manter.</p>
+<h3 id="como-se-monta-uma-suite-de-diversos-unit-test-em-python">Como se monta uma Suite de diversos Unit Test em Python</h3>
+<p>Em Python, você pode criar uma suite de testes combinando vários casos de teste usando o módulo <code>unittest</code>. Uma suite de testes é útil quando você deseja executar um conjunto específico de casos de teste em vez de todos os casos de teste em um único arquivo. Aqui está como montar uma suite de diversos testes de unidade em Python usando o módulo <code>unittest</code>:</p>
+<ol>
+<li><strong>Importar o módulo unittest:</strong>
+Comece importando o módulo <code>unittest</code>.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> unittest
+</code></pre>
+<ol start="2">
+<li><strong>Criar testes individuais:</strong>
+Crie classes de teste individuais para cada parte do código que você deseja testar. Cada classe deve herdar de <code>unittest.TestCase</code> e conter métodos de teste (métodos que começam com &quot;test&quot;) que usam as assertivas fornecidas pelo <code>unittest</code>.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> unittest
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">TestCalculadora</span>(unittest.TestCase):
+    
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">test_soma</span>(<span class="hljs-params">self</span>):
+        self.assertEqual(somar(<span class="hljs-number">3</span>, <span class="hljs-number">5</span>), <span class="hljs-number">8</span>)
+</code></pre>
+<ol start="3">
+<li><strong>Criar a suite de testes:</strong>
+Crie uma classe que representa a suite de testes. Nessa classe, você pode usar <code>unittest.TestLoader()</code> para carregar os casos de teste.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> unittest
+
+<span class="hljs-keyword">class</span> <span class="hljs-title class_">TestSuite</span>(unittest.TestSuite):
+    
+    <span class="hljs-keyword">def</span> <span class="hljs-title function_">suite</span>(<span class="hljs-params">self</span>):
+        test_suite = unittest.TestSuite()
+        test_suite.addTest(TestCalculadora(<span class="hljs-string">&#x27;test_soma&#x27;</span>))
+        test_suite.addTest(OutroTeste(<span class="hljs-string">&#x27;test_alguma_coisa&#x27;</span>))
+        <span class="hljs-keyword">return</span> test_suite
+</code></pre>
+<ol start="4">
+<li><strong>Executar a suite de testes:</strong>
+Você pode executar a suite de testes da mesma forma que executaria um único caso de teste, mas chamando o método <code>unittest.TextTestRunner().run()</code> na sua instância de suite.</li>
+</ol>
+<pre><code class="language-python"><span class="hljs-keyword">import</span> unittest
+
+<span class="hljs-keyword">if</span> __name__ == <span class="hljs-string">&#x27;__main__&#x27;</span>:
+    suite = TestSuite()
+    unittest.TextTestRunner().run(suite.suite())
+</code></pre>
+<ol start="5">
+<li><strong>Analisar os resultados:</strong>
+Após a execução, você verá uma saída que indica quantos testes passaram, falharam ou foram ignorados.</li>
+</ol>
+<p>Certifique-se de que as classes de teste individuais (como <code>TestCalculadora</code>) estejam definidas e importadas corretamente. Cada uma delas deve ter seus próprios métodos de teste, que serão incluídos na suite de testes por meio do método <code>addTest</code>.</p>
+<p>Lembre-se de que a criação de suites de testes é útil quando você deseja agrupar e executar um conjunto específico de testes em vez de todos os testes no projeto. Isso pode ser especialmente útil em projetos maiores.</p>
+
+        
+        
+    </body>
+    </html>
